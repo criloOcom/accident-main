@@ -1,5 +1,11 @@
 # RÈGLES PERMANENTES — Dossier Accident de la Main
 
+## PRIORITÉ MCP — Toujours utiliser les outils MCP en premier
+- Tout appel à Légifrance, Judilibre ou Google Docs DOIT passer par les outils MCP dédiés
+- Ne JAMAIS utiliser webfetch, curl, HTTP requests ou scraping direct sur ces services (bloqués 403/anti-bot)
+- Si un MCP crash (erreur d'import, timeout), le FIXER et RELANCER le serveur immédiatement — ne pas dériver vers des solutions alternatives sans MCP
+- Les MCP sont gérés par le runtime opencode ; le fix du code source + redémarrage du processus est la seule procédure valide
+
 ## PROTOCOLE DE MÉMOIRE (OBLIGATOIRE EN DÉBUT DE SESSION)
 - **Lire** `/home/crilocom/accident-main/AGENTS.md` en premier
 - **Lire** TOUS les fichiers de `/home/crilocom/accident-main/memory/` avant toute action
