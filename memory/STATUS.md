@@ -149,3 +149,57 @@ Tous les 14 documents ont été anonymisés, injectés et **corrigés factuellem
 | 12 | 12 ANALYSE Jurisprudence | `1-aZHyfr5DoPsB2dtjpkYM7TSDHJzsOMVguGI3kXKWVs` | `1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU` |
 | 13 | 13 ANALYSE Plaidoirie Dirigeants | `1Dm7bs3MepNwzxZSVgIy3l40tdHTUZYzKDYvTWVVpi0I` | `1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90` |
 | 14 | 14 ANALYSE Responsabilités Légales Dirigeants | `12M7PJyq4F6uCF_TslK48eFCYvHPeZQTqQD4lI_2NXzE` | `1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34` |
+
+---
+
+## Infrastructure Jules — Drive CLI + Setup (4 juillet 2026)
+
+### Nouveaux fichiers
+| Fichier | Rôle |
+|---------|------|
+| `setup.sh` | Script d'initialisation : `uv sync` + config Drive |
+| `app/drive_auth.py` | Module d'authentification Drive (OAuth → env vars ou ADC) |
+| `app/drive_client.py` | CLI Drive pour Jules : list, upload, download, export, search, create-folder |
+
+### Authentification Drive
+- **Méthode primaire** : OAuth refresh token (même client que `gcp-oauth.keys.json`)
+- **Méthode fallback** : Application Default Credentials (ADC)
+- **Pas de SA key** : l'org policy `iam.disableServiceAccountKeyCreation` bloque la création de clés
+- **Variables d'environnement** : `GOOGLE_DRIVE_CLIENT_ID`, `GOOGLE_DRIVE_CLIENT_SECRET`, `GOOGLE_DRIVE_REFRESH_TOKEN`
+
+### Testé et vérifié
+- ✅ `uv run python -m app.drive_client list` → liste les 4 sous-dossiers du dossier Accident Main
+- ✅ `uv run python -m app.drive_client upload` → upload fonctionnel
+- ✅ `uv run python -m app.drive_client search` → recherche par nom
+- ✅ `uv run python -m app.drive_client export --format markdown --print` → export Google Doc vers stdout
+
+### Nouveaux ajouts — 4 juillet 2026 (soir)
+| Ajout | Détail |
+|-------|--------|
+| `lois/` | 16 textes juridiques (PDF→.md) du dossier Drive **00 Lois** + INDEX.md |
+| `app/mcp_bridge/` | Clients Judilibre et Légifrance sans FastMCP, utilisables en CLI |
+| `app/drive_client.py` | Nouvelle commande `read-sheet` pour Google Sheets |
+| `setup.sh` | Mis à jour : support Piste + MCP Bridge |
+| `pyproject.toml` | requires-python → >=3.12, dépendances : pylegifrance, requests, pypdf |
+
+### À faire pour toi (Jules Settings → jules.google.com/settings)
+
+| Variable | Source |
+|----------|--------|
+| `GOOGLE_DRIVE_CLIENT_ID` | `gcp-oauth.keys.json` → `installed.client_id` |
+| `GOOGLE_DRIVE_CLIENT_SECRET` | `gcp-oauth.keys.json` → `installed.client_secret` |
+| `GOOGLE_DRIVE_REFRESH_TOKEN` | `application_default_credentials.json` → `refresh_token` |
+| `PISTE_CREDENTIALS` | JSON complet de `app/tools.py` → `get_secret("PISTE_CREDENTIALS")` |
+| Setup script | `./setup.sh` (pas `echo do setup`) |
+
+**Important** : le setup script doit être `./setup.sh` (pas `echo do setup`),
+car Jules supprime les env vars après le setup. setup.sh matérialise les
+credentials dans `.drive-token.json` et `.piste-credentials.json`, que le
+code Python lit ensuite en fallback.
+
+### Credentials déjà configurés (tu les as mis)
+- ✅ `GOOGLE_DRIVE_CLIENT_ID`
+- ✅ `GOOGLE_DRIVE_CLIENT_SECRET`
+- ✅ `GOOGLE_DRIVE_REFRESH_TOKEN`
+- ✅ `PISTE_CREDENTIALS`
+- ❌ **Setup script** : encore `echo do setup` → à changer en `./setup.sh`
