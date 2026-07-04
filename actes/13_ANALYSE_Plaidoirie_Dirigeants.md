@@ -27,7 +27,7 @@ Rédigé le 30 juin 2026
 
 Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de **[L'Exploitant du Commerce]** dans le cadre de l'accident corporel survenu le 29 mai 2026.
 
-Ce document examine les fondements juridiques de la mise en cause de la responsabilité des dirigeants sur le terrain du droit des sociétés, notamment sur le fondement des articles L. 223-22 et L. 225-251 du Code de commerce, ainsi que sur le terrain du droit commun de la responsabilité civile.
+Ce document examine les fondements juridiques de la mise en cause de la responsabilité des dirigeants sur le terrain du droit des sociétés, notamment sur le fondement des articles [L. 223-22](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141) et [L. 225-251](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) du Code de commerce, ainsi que sur le terrain du droit commun de la responsabilité civile.
 
 Il identifie les manquements aux obligations légales et réglementaires imputables aux dirigeants et évalue les perspectives d'engagement de leur responsabilité personnelle à l'égard de la victime.
 
@@ -57,7 +57,7 @@ PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-a
 
 En principe, la personnalité morale de L'Exploitant protège le patrimoine personnel de ses dirigeants. Toutefois, la responsabilité civile personnelle du Président ou du Directeur Général peut être engagée en cas de "faute détachable".
 
-Selon la jurisprudence constante Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI), une telle faute est caractérisée lorsque Le Dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions.
+Selon la jurisprudence constante [Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369), une telle faute est caractérisée lorsque Le Dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions.
 
 Le défaut de souscription d'une assurance obligatoire ou la dissimulation volontaire de celle-ci, entravant l'action directe de La Victime, s'inscrit dans ce cadre.
 
@@ -65,15 +65,15 @@ Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SA
 
 ## B. Responsabilité pénale et faute caractérisée de sécurité
 
-Ce manquement à l'obligation de sécurité est également codifié à l'article R. 123-2 du Code de la construction et de l'habitation (REF-35), la vasque brisée faisant partie intégrante des installations d'accueil de l'ERP.
+Ce manquement à l'obligation de sécurité est également codifié à [l'article R. 123-2 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006896089) (REF-35), la vasque brisée faisant partie intégrante des installations d'accueil de l'ERP.
 
 À titre subsidiaire, face à toute allégation de partage de responsabilité, le réflexe naturel de protection de La Victime face à un danger imminent ne saurait caractériser une faute et exclut toute réduction d'indemnisation supérieure à 10 ou 20% au maximum.
 
 Sur le plan pénal, Le Dirigeant répond de ses propres infractions, y compris non intentionnelles.
 
-Le maintien en service d'un équipement dangereux dans un établissement recevant du public (ERP) contrevient à l'obligation générale de sécurité prévue par l'Article L. 421-3 du Code de la consommation.
+Le maintien en service d'un équipement dangereux dans un établissement recevant du public (ERP) contrevient à l'obligation générale de sécurité prévue par [l'Article L. 421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053).
 
-Une condamnation pour blessures involontaires sur le fondement de l'Article 222-20 du Code pénal permet de solliciter la réparation des préjudices directement sur les biens propres du dirigeant coupable, sans nécessité de prouver une faute détachable commerciale devant le juge répressif.
+Une condamnation pour blessures involontaires sur le fondement de [l'Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) permet de solliciter la réparation des préjudices directement sur les biens propres du dirigeant coupable, sans nécessité de prouver une faute détachable commerciale devant le juge répressif.
 
 
 === PAGE BREAK ===
@@ -82,15 +82,15 @@ Une condamnation pour blessures involontaires sur le fondement de l'Article 222-
 
 ## A. L'action directe contre l'assureur de responsabilité civile
 
-La Victime dispose d'un droit propre et autonome sur l'indemnité d'assurance en vertu de l'Article L. 124-3 du Code des assurances.
+La Victime dispose d'un droit propre et autonome sur l'indemnité d'assurance en vertu de [l'Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 
-Cette action, dite "action directe", peut être exercée même si la société est radiée ou en liquidation, car la personnalité morale subsiste pour les besoins de la liquidation conformément à l'Article L. 237-2 du Code de commerce.
+Cette action, dite "action directe", peut être exercée même si la société est radiée ou en liquidation, car la personnalité morale subsiste pour les besoins de la liquidation conformément à [l'Article L. 237-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063).
 
 Des demandes formelles ont été initiées pour identifier l'assureur et solliciter une provision.
 
 ## B. Évaluation des préjudices selon la nomenclature Dintilhac
 
-La réparation intégrale, pilier du droit français régi par l'Article 1240 du Code civil, impose que La Victime soit replacée dans sa situation initiale.
+La réparation intégrale, pilier du droit français régi par [l'Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571), impose que La Victime soit replacée dans sa situation initiale.
 
 Pour La Victime, informaticien indépendant, l'incidence professionnelle est majeure.
 
@@ -169,6 +169,24 @@ Ce document utilise des jetons pour protéger l'identité des personnes. Voici l
 
 • **Article 1240 du Code civil** — Responsabilité pour faute 
 Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
+
+• **Article L. 223-22 du Code de commerce** — Responsabilité des gérants de SARL 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141)
+
+• **Article L. 225-251 du Code de commerce** — Responsabilité des administrateurs de SA 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
+
+• **Article L. 237-2 du Code de commerce** — Survivance de la personnalité morale pour les besoins de la liquidation 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063)
+
+• **Article L. 421-3 du Code de la consommation** — Obligation générale de sécurité des services 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053)
+
+• **Article L. 124-3 du Code des assurances** — Action directe de la victime contre l'assureur 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+
+• **Article R. 123-2 du Code de la construction et de l'habitation** — Définition des ERP 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006896089](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006896089)
 
 • **Article 222-20 du Code pénal** — Blessures involontaires avec ITT inférieure ou égale à 3 mois 
 Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
