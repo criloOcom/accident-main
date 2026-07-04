@@ -61,7 +61,7 @@ Le défaut de souscription d'une assurance obligatoire ou la dissimulation volon
 
 Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SAS, dont le capital social statutaire s'élève au montant dérisoire de 200 € (article 25 des statuts), rendant la société structurellement incapable d'assumer la réparation d'un sinistre corporel grave sans assurance active.
 
-### B. Responsabilité pénale et faute caractérisée de sécurité
+#### B. Responsabilité pénale et faute caractérisée de sécurité
 
 Ce manquement à l'obligation de sécurité est également codifié à [l'article R. 123-2 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006896089) (REF-35), la vasque brisée faisant partie intégrante des installations d'accueil de l'ERP.
 
@@ -86,7 +86,7 @@ Cette action, dite "action directe", peut être exercée même si la société e
 
 Des demandes formelles ont été initiées pour identifier l'assureur et solliciter une provision.
 
-### B. Évaluation des préjudices selon la nomenclature Dintilhac
+#### B. Évaluation des préjudices selon la nomenclature Dintilhac
 
 La réparation intégrale, pilier du droit français régi par [l'Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571), impose que La Victime soit replacée dans sa situation initiale.
 

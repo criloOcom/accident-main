@@ -22,7 +22,7 @@ drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
 
 Rédigé le 30 juin 2026
 
-# INTRODUCTION
+## INTRODUCTION
 
 Le présent dossier de présentation est destiné au conseil juridique de **[La Victime]** dans le cadre du contentieux l'opposant à **[L'Exploitant du Commerce]** à la suite de l'accident corporel grave survenu le 29 mai 2026.
 
@@ -35,7 +35,7 @@ Il contient une synthèse des faits, l'inventaire des pièces constitutives du d
 
 === PAGE BREAK ===
 
-# I. STRATÉGIE DE RECOUVREMENT DES HONORAIRES PAR SUBROGATION ET PROTECTION FINANCIÈRE DE LA VICTIME
+## I. STRATÉGIE DE RECOUVREMENT DES HONORAIRES PAR SUBROGATION ET PROTECTION FINANCIÈRE DE LA VICTIME
 
 L'assistance par un avocat est indispensable pour mener à bien la liquidation du préjudice corporel et sécuriser l'indemnisation face à l'assureur de **[L'Exploitant du Commerce]**.
 
@@ -52,7 +52,7 @@ Afin de lever tout obstacle financier pour **[La Victime]**, travailleur indépe
 
 === PAGE BREAK ===
 
-# II. EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE
+## II. EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE
 
 Le vendredi 29 mai 2026, **[La Victime]** s'est présenté au salon de coiffure « **[L'Exploitant du Commerce]** » à **[La Ville de l'Accident]** (**[L'Adresse de l'Exploitation]**) pour une prestation de coupe de cheveux. Après réalisation de celle-ci, il a payé et quitté le salon vers 15h20.
 
@@ -69,7 +69,7 @@ Les examens cliniques constatent une section partielle du tendon fléchisseur, u
 
 === PAGE BREAK ===
 
-# III. ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES
+## III. ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES
 
 **[La Victime]** agit actuellement en son nom propre et a formalisé les démarches suivantes :
 

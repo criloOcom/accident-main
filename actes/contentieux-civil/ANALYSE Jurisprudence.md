@@ -69,7 +69,7 @@ Pour un informaticien indépendant dont la main droite est la main dominante, ce
 
 ## IV. Stratégie de recours et fondements juridiques
 
-## A. Action directe contre l'assureur et survie de la personnalité morale
+### A. Action directe contre l'assureur et survie de la personnalité morale
 
 La stratégie privilégie l'exercice de l'action directe contre L'Assureur de responsabilité civile de **[L'Exploitant du Commerce]**, telle que prévue par [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 

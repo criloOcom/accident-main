@@ -22,7 +22,7 @@ drive_id: 1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg
 
 Rédigé le 30 juin 2026
 
-# INTRODUCTION
+## INTRODUCTION
 
 La présente assignation en référé-provision et demande d'expertise médicale est introduite par **[La Victime]** à l'encontre de **[L'Exploitant du Commerce]**, personne morale exploitant un salon de coiffure au sein duquel la victime a subi un grave accident corporel le 29 mai 2026.
 
@@ -45,7 +45,7 @@ PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCI
 
 === PAGE BREAK ===
 
-# I. EXPOSÉ DES FAITS
+## I. EXPOSÉ DES FAITS
 
 Le 29 mai 2026, **[La Victime]** s'est rendu au salon de coiffure exploité par **[L'Exploitant du Commerce]** pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero (15,00 €).
 
@@ -70,9 +70,9 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du 0
 
 === PAGE BREAK ===
 
-# II. DISCUSSION JURIDIQUE
+## II. DISCUSSION JURIDIQUE
 
-## A. Sur le principe de la responsabilité civile délictuelle
+### A. Sur le principe de la responsabilité civile délictuelle
 
 [L'article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051787311) dispose :
 
@@ -84,7 +84,7 @@ En l'espèce, le basculement brutal de l'équipement dû à l'escalade du prépo
 
 De surcroît, les faits se sont produits sous le contrôle du préposé de l'établissement (**[Le Préposé de l'Exploitation]**). Par conséquent, la responsabilité délictuelle de **[L'Exploitant du Commerce]** est engagée sans contestation possible.
 
-## B. Sur la demande d'expertise médicale
+### B. Sur la demande d'expertise médicale
 
 [L'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) prévoit :
 
@@ -92,7 +92,7 @@ De surcroît, les faits se sont produits sous le contrôle du préposé de l'ét
 
 L'état corporel de **[La Victime]** n'étant pas consolidé à ce jour, il est indispensable de faire désigner un expert médical judiciaire afin d'évaluer l'intégralité des préjudices corporels subis.
 
-## C. Sur l'octroi d'une provision financière
+### C. Sur l'octroi d'une provision financière
 
 L'[article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869487) énonce :
 
@@ -103,7 +103,7 @@ L'obligation à réparation de **[L'Exploitant du Commerce]** n'étant pas séri
 
 === PAGE BREAK ===
 
-# III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)
+## III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)
 
 **[La Victime]** est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.
 
@@ -117,7 +117,7 @@ L'obligation à réparation de **[L'Exploitant du Commerce]** n'étant pas séri
 
 Dans l'attente du dépôt du rapport de l'expert judiciaire, **[La Victime]** sollicite l'allocation d'une provision de 5 000 € à valoir sur l'indemnisation finale de son préjudice corporel.
 
-# PAR CES MOTIFS
+## PAR CES MOTIFS
 
 Il est demandé au Président du Tribunal de :
 

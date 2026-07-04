@@ -22,7 +22,7 @@ drive_id: 1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM
 
 Rédigé le 30 juin 2026
 
-# INTRODUCTION
+## INTRODUCTION
 
 La présente synthèse juridique et FAQ a été rédigée par **[La Victime]** dans le cadre du contentieux l'opposant à **[L'Exploitant du Commerce]** à la suite de l'accident corporel du 29 mai 2026. Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de l'article 1231-1 du Code civil, la responsabilité délictuelle sur le fondement de l'article 1240 du même code, ainsi que la garantie des vices cachés prévue à l'article 1641 du Code civil. La présente synthèse répond en outre aux questions pratiques que la victime est susceptible de se poser dans le cadre de la conduite de son dossier.
 
@@ -35,14 +35,14 @@ Le 30 juin 2026
 
 === PAGE BREAK ===
 
-# I. Présentation Générale de l'Affaire
+## I. Présentation Générale de l'Affaire
 
 Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le 29 mai 2026 à 15h20 au sein du salon de coiffure exploité par la **[L'Exploitant du Commerce]**, situé au **[L'Adresse de l'Exploitation]** à **[La Ville de l'Accident]**. La victime, Monsieur **[La Victime]**, né le 18/01/1982, exerce la profession d'informaticien indépendant (**[L'Identifiant Professionnel de la Victime]**) à **[La Ville de Résidence de la Victime]**. Les parties mises en cause incluent la SAS elle-même, ses dirigeants **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, ainsi que **[Le Propriétaire des Murs]**, propriétaire des murs commerciaux.
 
 
 === PAGE BREAK ===
 
-# II. Foire Aux Questions (FAQ) Détaillée
+## II. Foire Aux Questions (FAQ) Détaillée
 
 ## L'accident et ses conséquences immédiates
 
@@ -65,7 +65,7 @@ La société doit obligatoirement déclarer l'accident corporel à son assureur 
 
 === PAGE BREAK ===
 
-# III. Stratégie Juridique et Responsabilités
+## III. Stratégie Juridique et Responsabilités
 
 La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la **[L'Exploitant du Commerce]** est engagée en tant que commettant du fait de son préposé, sur le fondement de [l'article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
 
@@ -76,7 +76,7 @@ Enfin, le propriétaire des murs, **[Le Propriétaire des Murs]**, peut être so
 
 === PAGE BREAK ===
 
-# IV. Démarches et Procédures Engagées
+## IV. Démarches et Procédures Engagées
 
 À ce jour, une plainte officielle a été déposée et un dossier de recours contre tiers a été ouvert auprès de la CPAM. Sur le plan civil, plusieurs mises en demeure ont été expédiées le 29 juin 2026 pour identifier l'assureur et solliciter une provision :
 
@@ -88,14 +88,14 @@ Enfin, le propriétaire des murs, **[Le Propriétaire des Murs]**, peut être so
 
 === PAGE BREAK ===
 
-# V. Calendrier et Délais de Procédure
+### V. Calendrier et Délais de Procédure
 
 La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jours pour répondre aux mises en demeure avant l'engagement d'un référé-provision sur le fondement de [l'article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284). Une étape cruciale est fixée au 12 novembre 2026 pour l'expertise médicale à l'UMJ de Purpan, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à 58 100 €). À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation ([article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112)).
 
 
 === PAGE BREAK ===
 
-# VI. Points de Vigilance et Conclusion
+## VI. Points de Vigilance et Conclusion
 
 Bien que le dossier soit solide, certains points bloquants persistent, notamment l'absence de constat d'huissier immédiat et le refus des dirigeants de communiquer les coordonnées de leur assureur. Néanmoins, l'action directe et la responsabilité personnelle des dirigeants constituent des leviers puissants pour obtenir une indemnisation juste, estimée globalement à 58 100 € sous réserves d'aggravation.
 

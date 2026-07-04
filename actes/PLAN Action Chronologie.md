@@ -21,14 +21,14 @@ drive_id: 153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s
 
 Rédigé le 30 juin 2026
 
-# INTRODUCTION
+## INTRODUCTION
 
 Le présent plan d'action et chronologie de la procédure a été établi par **[La Victime]** afin de structurer et de piloter l'ensemble des démarches juridiques entreprises à la suite de l'accident corporel du 29 mai 2026. Ce document de travail récapitule les étapes procédurales déjà accomplies, les actions prioritaires à engager et les échéances à respecter dans le cadre du contentieux opposant **[La Victime]** à **[L'Exploitant du Commerce]**. Il constitue un outil de pilotage et de suivi permettant d'assurer la coordination efficace de la stratégie contentieuse et le respect des délais de procédure.
 
 
 === PAGE BREAK ===
 
-# I. Chronologie et Plan d'Action
+## I. Chronologie et Plan d'Action
 
 ## Actions Urgentes et Phase Amiable (Juin 2026)
 
@@ -55,7 +55,7 @@ L'aboutissement prévu est une assignation au fond en septembre pour obtenir un 
 
 === PAGE BREAK ===
 
-# II. Fondements Juridiques
+## II. Fondements Juridiques
 
 ## Responsabilité Civile et Action Directe
 
@@ -70,20 +70,20 @@ En cas de blocage sur l'identité de l'assureur, [l'Article 145 du Code de proc�
 
 === PAGE BREAK ===
 
-# III. Inventaire des Pièces
+## III. Inventaire des Pièces
 
-## A. Preuves Médicales et Administratives
+### A. Preuves Médicales et Administratives
 
 Le dossier comprend les comptes rendus opératoires du **[Le Chirurgien SOS Main]**, les certificats médicaux initiaux, les avis d'arrêt de travail et la note de synthèse médico-légale. Le dossier CPAM "Recours contre Tiers" n° [ ... ] est également ouvert.
 
-## B. Preuves Matérielles et Témoignages
+### B. Preuves Matérielles et Témoignages
 
 Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel défectueux, les photos de l'accident et les témoignages des clients et employés présents.
 
 
 === PAGE BREAK ===
 
-# IV. Contacts et Annuaires
+## IV. Contacts et Annuaires
 
 ## Autorités Judiciaires et Policières à **[La Ville de l'Accident]**
 

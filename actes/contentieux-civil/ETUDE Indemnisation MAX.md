@@ -66,7 +66,7 @@ Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un 
 - Perte de chance commerciale : Impossibilité de prospecter ou de répondre aux clients durant l'incapacité.
 - Pénibilité accrue : Dépendance à la dictée vocale générant une fatigue structurelle.
 
-### B. Préjudices extra-patrimoniaux (DFP, Souffrances, Agrément)
+#### B. Préjudices extra-patrimoniaux (DFP, Souffrances, Agrément)
 
 Déficit Fonctionnel Permanent (DFP) : Indemnise l'atteinte aux fonctions physiologiques. Basé sur un taux estimé de 12% pour une victime de 44 ans, l'indemnité est projetée à 25 200 €.
 
@@ -98,7 +98,7 @@ Préjudice d'Agrément : Répare l'impossibilité de pratiquer des loisirs (guit
 
 L'arrêt [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) confirme le droit à une capitalisation des dépenses futures sans contrôle restrictif de l'assureur, garantissant la libre disposition des fonds par la victime.
 
-### B. Aggravation du dommage
+#### B. Aggravation du dommage
 
 Selon l'arrêt [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126), toute aggravation médicale ultérieure ouvre un nouveau droit à réparation, l'assureur initial restant garant du sinistre.
 

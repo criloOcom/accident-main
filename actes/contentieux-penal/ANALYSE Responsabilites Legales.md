@@ -46,7 +46,7 @@ En maintenant en service un équipement lourd (une vasque en céramique) présen
 
 Ce défaut d'entretien constitue un danger manifeste pour le public.
 
-### B. L'imprudence caractérisée du préposé
+#### B. L'imprudence caractérisée du préposé
 
 Le comportement du coiffeur, consistant à monter physiquement sur la structure instable du meuble, est le fait générateur direct du dommage.
 
@@ -65,7 +65,7 @@ Conformément à [l'article 1242 alinéa 1er du Code civil](https://www.legifran
 
 En tant que propriétaire du matériel, le salon est présumé responsable des dommages causés par la dangerosité de la vasque défectueuse.
 
-### B. Responsabilité du commettant du fait de ses préposés
+#### B. Responsabilité du commettant du fait de ses préposés
 
 En vertu de [l'article 1242 alinéa 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), les employeurs sont responsables des dommages causés par leurs préposés dans les fonctions auxquelles ils les ont employés.
 
@@ -88,7 +88,7 @@ Il convient de noter que le préposé bénéficie d'une immunité civile selon [
 
 Le levier le plus efficace demeure l'action directe contre l'assureur RC de la SAS, fondée sur [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), garantissant la réparation intégrale des préjudices (pertes de revenus, préjudice corporel et moral) estimés à ce jour à 58 100 € (selon l'étude d'indemnisation détaillée).
 
-### B. Preuves et Procédures
+#### B. Preuves et Procédures
 
 La consolidation des preuves médicales (comptes rendus du **[Le Chirurgien SOS Main]**) et matérielles est impérative. En cas de rétention d'informations sur l'assureur, [[l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) permet de saisir le juge des référés pour obtenir les pièces nécessaires.
 
