@@ -15,6 +15,7 @@ tags:
 statut: original
 source: drive
 drive_id: 1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93
+drive_url: https://drive.google.com/file/d/1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93/view
 ocr: false
 pages: 1
 verifie: false
@@ -25,6 +26,7 @@ verifie: false
 > Toute modification du contenu textuel est interdite.
 > En cas d'erreur, corriger le PDF source et ré-exporter.
 > drive_id: 1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93
+> drive_url: https://drive.google.com/file/d/1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93/view
 
 Sébastien GRAZIDE​
 10 Avenue de Purpan​

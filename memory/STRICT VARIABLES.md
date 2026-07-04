@@ -31,7 +31,7 @@
 - ETABLISSEMENT : SAS LES MAUVAIS GARCONS
 - ITT_TOTAL : 56 jours (29/05/2026 → 23/07/2026)
 - ⚠ ITT_INITIALE_ERREUR : Dr Oxybel a noté 1 jour le 01/06 (erreur matérielle, rectifiée à 56j)
-- PV_POLICE : 2026/015967
+- PV_POLICE : 2026/015967 (⚠ info non confirmée par retour officiel — source : courriel Mairie de **[La Ville de l'Accident]** du 01/06/2026 + dossier de plainte déposé par **[La Victime]**)
 - DOSSIER_CPAM : **31727387** (⚠ jamais 31713398 — obsolète)
 - CAPITAL_SOCIAL : 200 € (2 000 actions de 0,10 €)
 - MAIN_ATTEINTE : Main droite uniquement — index droit (⚠ jamais 5e doigt/auriculaire)

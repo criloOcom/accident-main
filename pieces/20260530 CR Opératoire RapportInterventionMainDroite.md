@@ -13,6 +13,7 @@ tags:
 statut: original
 source: drive
 drive_id: 1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9
+drive_url: https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view
 ocr: false
 pages: 3
 verifie: false
@@ -23,6 +24,7 @@ verifie: false
 > Toute modification du contenu textuel est interdite.
 > En cas d'erreur, corriger le PDF source et ré-exporter.
 > drive_id: 1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9
+> drive_url: https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view
 
 Date de naissance : 18/01/1982﻿
 

@@ -23,7 +23,9 @@ drive_id: 1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90
 
 Rédigé le 30 juin 2026
 
-# INTRODUCTION
+Rédigé par : La Victime
+
+## INTRODUCTION
 
 Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de **[L'Exploitant du Commerce]** dans le cadre de l'accident corporel survenu le 29 mai 2026.
 
@@ -31,12 +33,10 @@ Ce document examine les fondements juridiques de la mise en cause de la responsa
 
 Il identifie les manquements aux obligations légales et réglementaires imputables aux dirigeants et évalue les perspectives d'engagement de leur responsabilité personnelle à l'égard de la victime.
 
-Rédigé par : La Victime
-
 
 === PAGE BREAK ===
 
-# I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
+## I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 
 Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le 29 mai 2026 au sein du salon exploité par **[L'Exploitant du Commerce]**.
 
@@ -49,9 +49,9 @@ PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-a
 
 === PAGE BREAK ===
 
-# II. LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS
+## II. LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS
 
-## A. La faute détachable des fonctions et l'écran de la personnalité morale
+### A. La faute détachable des fonctions et l'écran de la personnalité morale
 
 En principe, la personnalité morale de L'Exploitant protège le patrimoine personnel de ses dirigeants. Toutefois, la responsabilité civile personnelle du Président ou du Directeur Général peut être engagée en cas de "faute détachable".
 
@@ -61,7 +61,7 @@ Le défaut de souscription d'une assurance obligatoire ou la dissimulation volon
 
 Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SAS, dont le capital social statutaire s'élève au montant dérisoire de 200 € (article 25 des statuts), rendant la société structurellement incapable d'assumer la réparation d'un sinistre corporel grave sans assurance active.
 
-## B. Responsabilité pénale et faute caractérisée de sécurité
+### B. Responsabilité pénale et faute caractérisée de sécurité
 
 Ce manquement à l'obligation de sécurité est également codifié à [l'article R. 123-2 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006896089) (REF-35), la vasque brisée faisant partie intégrante des installations d'accueil de l'ERP.
 
@@ -76,9 +76,9 @@ Une condamnation pour blessures involontaires sur le fondement de [l'Article 222
 
 === PAGE BREAK ===
 
-# III. MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
+## III. MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
 
-## A. L'action directe contre l'assureur de responsabilité civile
+### A. L'action directe contre l'assureur de responsabilité civile
 
 La Victime dispose d'un droit propre et autonome sur l'indemnité d'assurance en vertu de [l'Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 
@@ -86,7 +86,7 @@ Cette action, dite "action directe", peut être exercée même si la société e
 
 Des demandes formelles ont été initiées pour identifier l'assureur et solliciter une provision.
 
-## B. Évaluation des préjudices selon la nomenclature Dintilhac
+### B. Évaluation des préjudices selon la nomenclature Dintilhac
 
 La réparation intégrale, pilier du droit français régi par [l'Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571), impose que La Victime soit replacée dans sa situation initiale.
 
@@ -99,13 +99,8 @@ Le préjudice global est estimé à 58 100 €, incluant le déficit fonctionnel
 
 === PAGE BREAK ===
 
-# IV. SYNTHÈSE DES ACTIONS ET DÉMARCHES EN COURS
+## IV. SYNTHÈSE DES ACTIONS ET DÉMARCHES EN COURS
 
-Une stratégie multi-niveaux a été déployée : une plainte pénale complémentaire a été déposée pour défaut d'assurance et entrave, parallèlement à la transmission des pièces médicales au Procureur. Enfin, des mises en demeure ont été adressées à L'Exploitant, à ses Dirigeants et au propriétaire des murs pour obtenir les garanties nécessaires à la résolution du litige.
+Une stratégie multi-niveaux a été déployée : une plainte pénale complémentaire a été déposée pour défaut d'assurance et entrave, parallèlement à la transmission des pièces médicales au Procureur. 
 
-
-=== PAGE BREAK ===
-
-
-
----
+Enfin, des mises en demeure ont été adressées à L'Exploitant, à ses Dirigeants et au propriétaire des murs pour obtenir les garanties nécessaires à la résolution du litige.

@@ -12,6 +12,7 @@ tags:
 statut: original
 source: drive
 drive_id: 1Xaz3iA_-40WtHRkOe_db1NcO-tBxAENQ
+drive_url: https://drive.google.com/file/d/1Xaz3iA_-40WtHRkOe_db1NcO-tBxAENQ/view
 ocr: true
 pages: 2
 verifie: false
@@ -22,6 +23,7 @@ verifie: false
 > Toute modification du contenu textuel est interdite.
 > En cas d'erreur, corriger le PDF source et ré-exporter.
 > drive_id: 1Xaz3iA_-40WtHRkOe_db1NcO-tBxAENQ
+> drive_url: https://drive.google.com/file/d/1Xaz3iA_-40WtHRkOe_db1NcO-tBxAENQ/view
 
 
 

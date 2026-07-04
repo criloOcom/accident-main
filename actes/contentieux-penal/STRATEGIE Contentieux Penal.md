@@ -60,11 +60,13 @@ Cette qualification nécessite la démonstration d'une violation délibérée d'
 
 ## 3. Procédure pénale engagée
 
-### 3.1 Dépôt de plainte initial
+### 3.1 Signalement administratif et dépôt de plainte
 
-Une plainte a été déposée le 1er juin 2026 auprès des services de police de la TRD (Territoire de Recherche et de Développement).
+Un signalement a été adressé à la préfecture par la Mairie de **[La Ville de l'Accident]** dès le 1er juin 2026, selon le courriel de l'adjoint au maire (btavella@mairie-foix.fr) en date du 1er juin 2026 à 16h15. La Mairie y indiquait avoir pris l'attache des services de la préfecture pour diligenter l'inspection du travail et le CODAF.
 
-Les policiers ont établi un procès-verbal de constat le 2 juin 2026 sous le numéro 2026/015967, qui décrit les circonstances de l'accident et les constatations matérielles effectuées sur place.
+**[La Victime]** a parallèlement déposé une plainte officielle le 1er juin 2026 au commissariat de **[La Ville de l'Accident]**, retranscrite sous la référence PV n° 2026/015967 [🔗 Pièce](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view). Un procès-verbal de constat a été établi le 2 juin 2026 [🔗 Pièce](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view).
+
+**Note :** À ce jour, aucun accusé de réception officiel ni numéro de suivi de la préfecture n'a été communiqué à **[La Victime]**. Les informations relatives à la saisine de la préfecture proviennent exclusivement du courriel de la Mairie de **[La Ville de l'Accident]**.
 
 ### 3.2 Constitution de partie civile
 
@@ -96,7 +98,7 @@ Le défaut de souscription d'assurance responsabilité civile professionnelle co
 
 | Phase | Action | Échéance |
 |-------|--------|----------|
-| Enquête préliminaire | Constats police TRD, auditions, procès-verbal | Mai — Juin 2026 |
+| Enquête préliminaire | Constats, auditions, procès-verbal | Mai — Juin 2026 |
 | Saisine du parquet | Transmission du PV et des plaintes | Juin 2026 |
 | Décision du Procureur | Poursuite / classement / enquête complémentaire | 3 à 6 mois |
 | Instruction (si ouverte) | Saisine juge d'instruction, expertises | 6 à 18 mois |
@@ -106,10 +108,10 @@ Le défaut de souscription d'assurance responsabilité civile professionnelle co
 ## 5. Récapitulatif des pièces
 
 Pièces pénales :
-- 01/06/2026 — Police TRD — Dépôt de plainte officiel
-- 02/06/2026 — Police TRD — Procès-verbal constat n°2026/015967
-- 02/06/2026 — Police TRD — Constitution de partie civile
-- 02/06/2026 — Police TRD — Complément de plainte
+- 01/06/2026 — **[La Ville de l'Accident]** Police — Dépôt de plainte officiel [🔗 Voir](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
+- 02/06/2026 — **[La Ville de l'Accident]** Police — Procès-verbal constat n°2026/015967 [🔗 Voir](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view)
+- 02/06/2026 — **[La Ville de l'Accident]** Police — Constitution de partie civile
+- 02/06/2026 — **[La Ville de l'Accident]** Police — Complément de plainte
 
 Pièces médicales (justificatifs du préjudice corporel) :
 - 29/05/2026 — Dr Julie JARDON — Premiers soins urgence

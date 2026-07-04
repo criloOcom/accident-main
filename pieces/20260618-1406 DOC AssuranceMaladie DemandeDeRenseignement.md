@@ -16,6 +16,7 @@ tags:
 statut: original
 source: drive
 drive_id: 1XtFxLG3IsVBtTlF4bN7YeWxB3KZAEqBn
+drive_url: https://drive.google.com/file/d/1XtFxLG3IsVBtTlF4bN7YeWxB3KZAEqBn/view
 ocr: false
 pages: 3
 verifie: false
@@ -26,6 +27,7 @@ verifie: false
 > Toute modification du contenu textuel est interdite.
 > En cas d'erreur, corriger le PDF source et ré-exporter.
 > drive_id: 1XtFxLG3IsVBtTlF4bN7YeWxB3KZAEqBn
+> drive_url: https://drive.google.com/file/d/1XtFxLG3IsVBtTlF4bN7YeWxB3KZAEqBn/view
 
 Je vous remercie de bien vouloir me faire retour de ces informations dans les meilleurs délais.
 Références à rappeler

@@ -13,6 +13,7 @@ tags:
 statut: original
 source: drive
 drive_id: 1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf
+drive_url: https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view
 ocr: false
 pages: 1
 verifie: false
@@ -23,6 +24,7 @@ verifie: false
 > Toute modification du contenu textuel est interdite.
 > En cas d'erreur, corriger le PDF source et ré-exporter.
 > drive_id: 1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf
+> drive_url: https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view
 
 Centre Ariégeois de Soins Immédiats
 4 Rue du Sénateur Paul Laffont

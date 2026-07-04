@@ -225,7 +225,7 @@ PIECE_YAML = {
 
 YAML_KEYS_ORDER = [
     'titre', 'date', 'type', 'categorie', 'emetteur', 'destinataire',
-    'personnes', 'tags', 'statut', 'source', 'drive_id', 'ocr', 'pages',
+    'personnes', 'tags', 'statut', 'source', 'drive_id', 'drive_url', 'ocr', 'pages',
     'verifie',
 ]
 
@@ -236,6 +236,7 @@ IMMUTABILITY_BANNER = """
 > Toute modification du contenu textuel est interdite.
 > En cas d'erreur, corriger le PDF source et ré-exporter.
 > drive_id: {drive_id}
+> drive_url: {drive_url}
 
 """
 
@@ -284,8 +285,11 @@ def main():
         }
         yaml_base.update(yaml_data)
 
+        drive_id = yaml_data['drive_id']
+        yaml_base['drive_url'] = f'https://drive.google.com/file/d/{drive_id}/view'
+
         yaml_block = format_yaml(yaml_base)
-        banner = IMMUTABILITY_BANNER.format(drive_id=yaml_data['drive_id'])
+        banner = IMMUTABILITY_BANNER.format(drive_id=drive_id, drive_url=yaml_base['drive_url'])
 
         md_content = yaml_block + banner + text_content
 

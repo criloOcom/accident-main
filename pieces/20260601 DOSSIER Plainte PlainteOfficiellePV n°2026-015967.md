@@ -16,6 +16,7 @@ tags:
 statut: original
 source: drive
 drive_id: 1estaaOWMphbrt5VXhy6MsTfHqBGIdj22
+drive_url: https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view
 ocr: false
 pages: 6
 verifie: false
@@ -26,6 +27,7 @@ verifie: false
 > Toute modification du contenu textuel est interdite.
 > En cas d'erreur, corriger le PDF source et ré-exporter.
 > drive_id: 1estaaOWMphbrt5VXhy6MsTfHqBGIdj22
+> drive_url: https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view
 
 DOSSIER DE PLAINTE PÉNALE HORS
 COMPARAISON

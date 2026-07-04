@@ -14,6 +14,7 @@ tags:
 statut: original
 source: drive
 drive_id: 1wyKSNyNvbJ4HygvQ4N-J_3jx88ItXYzR
+drive_url: https://drive.google.com/file/d/1wyKSNyNvbJ4HygvQ4N-J_3jx88ItXYzR/view
 ocr: false
 pages: 1
 verifie: false
@@ -24,6 +25,7 @@ verifie: false
 > Toute modification du contenu textuel est interdite.
 > En cas d'erreur, corriger le PDF source et ré-exporter.
 > drive_id: 1wyKSNyNvbJ4HygvQ4N-J_3jx88ItXYzR
+> drive_url: https://drive.google.com/file/d/1wyKSNyNvbJ4HygvQ4N-J_3jx88ItXYzR/view
 
 Direction Interministérielle du Numérique
 

@@ -21,7 +21,7 @@ drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
 
 Rédigé le 30 juin 2026
 
-# INTRODUCTION
+## INTRODUCTION
 
 Le présent rapport d'expertise juridique a été établi par **[La Victime]** afin d'évaluer l'étendue et la qualification juridique des préjudices corporels subis à la suite de l'accident du 29 mai 2026. Ce document procède à une analyse détaillée de chaque poste de préjudice selon la nomenclature Dintilhac, en s'appuyant sur les pièces médicales et administratives versées au dossier. L'évaluation est fondée sur les articles 1240 et 1231-1 du Code civil, ainsi que sur la jurisprudence constante de la Cour de cassation en matière de réparation intégrale. Chaque citation est présentée et interprétée de bonne foi, étant précisé que seuls les tribunaux ont autorité pour trancher définitivement les questions de droit soulevées.
 
@@ -32,7 +32,7 @@ Le 30 juin 2026
 
 === PAGE BREAK ===
 
-# I. Introduction et contexte
+## I. Introduction et contexte
 
 Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de **[La Victime]** (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi 29 mai 2026 à 15h20.
 
@@ -43,7 +43,7 @@ Cette analyse s'appuie sur le principe de la réparation intégrale, visant à r
 
 === PAGE BREAK ===
 
-# II. Analyse des faits générateurs de responsabilité
+## II. Analyse des faits générateurs de responsabilité
 
 L'accident trouve son origine dans la manœuvre imprudente d'un employé préposé monté sur un bac à shampoing, entraînant le basculement soudain de cet équipement lourd.
 
@@ -54,18 +54,20 @@ Il est à noter que l'établissement a procédé à un remboursement symbolique 
 
 === PAGE BREAK ===
 
-# III. Bilan médical et préjudices identifiés
+## III. Bilan médical et préjudices identifiés
 
 Après une prise en charge initiale par **[Le Médecin en Urgence]** au Centre de Soins Immédiats, **[La Victime]** a été transférée en urgence clinique pour une microchirurgie réalisée le 30 mai 2026 par Le Chirurgien SOS Main.
 
 Le bilan clinique révèle une section partielle du tendon fléchisseur superficiel de l'index droit, une section complète du paquet collatéral ulnaire et radial, ainsi qu'une neurolyse du nerf collatéral palmaire.
 
-Ces lésions entraînent des séquelles fonctionnelles majeures, notamment des paresthésies sévères et une perte totale de sensibilité de l'index droit. Pour un informaticien indépendant dont la main droite est la main dominante, ce handicap impacte directement l'usage du clavier et de la souris, générant une incidence professionnelle substantielle estimée provisoirement à 15 000 € dans l'étude d'indemnisation jointe.
+Ces lésions entraînent des séquelles fonctionnelles majeures, notamment des paresthésies sévères et une perte totale de sensibilité de l'index droit.
+
+Pour un informaticien indépendant dont la main droite est la main dominante, ce handicap impacte directement l'usage du clavier et de la souris, générant une incidence professionnelle substantielle estimée provisoirement à 15 000 € dans l'étude d'indemnisation jointe.
 
 
 === PAGE BREAK ===
 
-# IV. Stratégie de recours et fondements juridiques
+## IV. Stratégie de recours et fondements juridiques
 
 ## A. Action directe contre l'assureur et survie de la personnalité morale
 
@@ -73,11 +75,11 @@ La stratégie privilégie l'exercice de l'action directe contre L'Assureur de re
 
 Cette action est autonome et n'est pas affectée par une éventuelle radiation de la société. En effet, la jurisprudence confirme que la personnalité morale d'une société subsiste tant que son passif n'est pas apuré (Cass. Civ. 1ère, 8 déc. 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
 
-## B. Responsabilité des dirigeants pour faute détachable
+### B. Responsabilité des dirigeants pour faute détachable
 
 La responsabilité personnelle des Dirigeants peut être engagée sur le fondement de la faute détachable des fonctions de direction. Selon l'arrêt SATI (Cass. Com., 20 mai 2003, [n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)), le maintien en service d'un équipement manifestement dangereux dans un établissement recevant du public (ERP) sans protection adéquate caractérise une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales.
 
-## C. Situation juridique du préposé
+### C. Situation juridique du préposé
 
 Conformément à [l'arrêt Costedoat (Ass. Plén. 25 fév. 2000)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831), le préposé bénéficie en principe d'une immunité civile.
 
@@ -90,7 +92,7 @@ Cette absence de substance financière de la société face à une éventuelle l
 
 === PAGE BREAK ===
 
-# V. Recommandations et Conclusion
+## V. Recommandations et Conclusion
 
 Il est impératif d'intégrer des réserves judiciaires pour d'éventuelles aggravations futures, conformément à l'arrêt de la Civ. 2e du 8 juillet 2021 ([n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)).
 
@@ -99,7 +101,7 @@ La capitalisation des dépenses de santé futures doit être exigée pour garant
 - Intégrer des réserves judiciaires : pour les préjudices futurs liés à l'aggravation ([Cass. Civ. 2e, 8 juil. 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)).
 - Capitaliser les dépenses de santé : matériels ergonomiques et aides techniques ([Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)).
 
-# Conclusion
+## Conclusion
 
 Le dossier présente des fondements juridiques solides.
 
