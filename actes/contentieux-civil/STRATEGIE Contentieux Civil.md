@@ -76,7 +76,7 @@ L'évaluation des préjudices subis par **[La Victime]**, informaticien indépen
 | Frais Article 700 du Code de procédure civile | 1 500 € |
 | **TOTAL ESTIMATIF** | **58 100 €** |
 
-L'incidence professionnelle est un préjudice distinct qui indemnise notamment la dévalorisation sociale ressentie par la victime du fait de son exclusion du monde du travail (Cass. Civ. 2e, 6 mai 2021, n° 19-23.173). Elle inclut également la pénibilité accrue et l'obligation de s'équiper en outils d'accessibilité (logiciel de dictée vocale, clavier ergonomique, souris adaptée).
+L'incidence professionnelle est un préjudice distinct qui indemnise notamment la dévalorisation sociale ressentie par la victime du fait de son exclusion du monde du travail ([Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)). Elle inclut également la pénibilité accrue et l'obligation de s'équiper en outils d'accessibilité (logiciel de dictée vocale, clavier ergonomique, souris adaptée).
 
 ## 5. Calendrier procédural
 

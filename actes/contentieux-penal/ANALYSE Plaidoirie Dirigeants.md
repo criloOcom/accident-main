@@ -55,7 +55,7 @@ PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-a
 
 En principe, la personnalité morale de L'Exploitant protège le patrimoine personnel de ses dirigeants. Toutefois, la responsabilité civile personnelle du Président ou du Directeur Général peut être engagée en cas de "faute détachable".
 
-Selon la jurisprudence constante [Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369), une telle faute est caractérisée lorsque Le Dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions.
+Selon la jurisprudence constante [Cass. Com., 20 mai 2003, [n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) (Arrêt SATI)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369), une telle faute est caractérisée lorsque Le Dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions.
 
 Le défaut de souscription d'une assurance obligatoire ou la dissimulation volontaire de celle-ci, entravant l'action directe de La Victime, s'inscrit dans ce cadre.
 

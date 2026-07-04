@@ -46,7 +46,7 @@ Dès juillet 2026, en l'absence de réponse satisfaisante sous 15 jours, une ass
 
 Cette procédure permet de solliciter judiciairement une avance financière (provision) et la nomination d'un expert médical judiciaire pour évaluer les taux de déficit fonctionnel et les souffrances endurées.
 
-Par ailleurs, si la société persiste dans son refus de communiquer les coordonnées de sa compagnie d'assurance, une procédure de référé-communication sur le fondement de l'article 145 du Code de procédure civile (CPC) sera engagée parallèlement en juillet 2026. Cette action vise à contraindre judiciairement l'exploitant à produire son attestation d'assurance sous astreinte journalière de retard pour permettre l'exercice de l'action directe.
+Par ailleurs, si la société persiste dans son refus de communiquer les coordonnées de sa compagnie d'assurance, une procédure de référé-communication sur le fondement de [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) (CPC) sera engagée parallèlement en juillet 2026. Cette action vise à contraindre judiciairement l'exploitant à produire son attestation d'assurance sous astreinte journalière de retard pour permettre l'exercice de l'action directe.
 
 Le second semestre 2026 sera consacré au suivi de l'expertise (notamment le passage à l'UMJ de Purpan le 12 novembre 2026) et à la rédaction des conclusions de partie civile.
 
@@ -63,7 +63,7 @@ L'action repose principalement sur [l'Article 1242 du Code civil](https://www.le
 
 ## Responsabilité des Dirigeants et Mesures d'Instruction
 
-Conformément à [l'Arrêt Sati (Cass. Com., 20 mai 2003)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369), l'action directe est couplée à la mise en cause personnelle des dirigeants pour faute détachable.
+Conformément à [l'[Arrêt Sati](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) (Cass. Com., 20 mai 2003)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369), l'action directe est couplée à la mise en cause personnelle des dirigeants pour faute détachable.
 
 En cas de blocage sur l'identité de l'assureur, [l'Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) fonde la demande de mesures d'instruction in futurum.
 

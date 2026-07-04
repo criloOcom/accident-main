@@ -55,7 +55,7 @@ RÉFÉRENCE : Dossier [ ... ]
 
 # I. Exposé des Faits
 
-Le 29 mai 2026, **[La Victime]** a été victime d'un accident corporel grave au sein du salon de coiffure exploité par **[L'Exploitant du Commerce]**, sise **[L'Adresse de l'Exploitation]**. Alors que l'employé coiffeur était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger le coiffeur ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit. Ces faits, constitutifs de blessures involontaires au sens de l'article 222-19 du Code pénal, ont fait l'objet d'une plainte initiale enregistrée sous le numéro [ ... ].
+Le 29 mai 2026, **[La Victime]** a été victime d'un accident corporel grave au sein du salon de coiffure exploité par **[L'Exploitant du Commerce]**, sise **[L'Adresse de l'Exploitation]**. Alors que l'employé coiffeur était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger le coiffeur ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit. Ces faits, constitutifs de blessures involontaires au sens de [l'article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042635), ont fait l'objet d'une plainte initiale enregistrée sous le numéro [ ... ].
 
 Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce]**. Ni le Président de la SAS, **[Le Président de l'Exploitation]**, ni la co-dirigeante, **[La Directrice Générale de l'Exploitation]**, n'ont déféré aux demandes amiables de **[La Victime]**, ni à celles adressées au propriétaire des murs, **[Le Propriétaire des Murs]**. Ce silence persistant, malgré l'envoi de courriers recommandés le 29 juin 2026, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
 
@@ -66,17 +66,17 @@ Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la comm
 
 ## A. Sur le défaut d'assurance de responsabilité civile
 
-En vertu de l'article L. 243-1 et de l'article L. 111-1 du Code des assurances, l'exploitant d'un établissement recevant du public est tenu de souscrire une assurance couvrant sa responsabilité civile pour les dommages causés aux tiers. En l'espèce, **[L'Exploitant du Commerce]** manipule des produits chimiques et des équipements lourds présentant un risque inhérent pour la clientèle. L'absence de communication spontanée d'une attestation d'assurance fait craindre un manquement à cette obligation légale, aggravant la responsabilité des dirigeants.
+En vertu de [l'article L. 243-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006792596) et de [l'article L. 111-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006792596), l'exploitant d'un établissement recevant du public est tenu de souscrire une assurance couvrant sa responsabilité civile pour les dommages causés aux tiers. En l'espèce, **[L'Exploitant du Commerce]** manipule des produits chimiques et des équipements lourds présentant un risque inhérent pour la clientèle. L'absence de communication spontanée d'une attestation d'assurance fait craindre un manquement à cette obligation légale, aggravant la responsabilité des dirigeants.
 
 ## B. Sur l'entrave à l'exercice de l'action directe
 
 L'article L. 124-3 du Code des assurances consacre le droit propre et l'action directe de la victime à l'encontre de l'assureur du responsable.
 
-Cette autonomie de l'action directe a été fermement rappelée par la jurisprudence (Cass. Civ. 1ère, 8 décembre 2021, n° 20-16.463).
+Cette autonomie de l'action directe a été fermement rappelée par la jurisprudence (Cass. Civ. 1ère, 8 décembre 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
 
-En dissimulant l'identité de leur assureur, les mis en cause commettent une entrave caractérisée aux droits de la victime, susceptible de relever des dispositions de l'article 434-12 du Code pénal.
+En dissimulant l'identité de leur assureur, les mis en cause commettent une entrave caractérisée aux droits de la victime, susceptible de relever des dispositions de [l'article 434-12 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209).
 
-Par ailleurs, ce défaut de souscription ou d'information peut constituer une faute détachable des fonctions de direction engageant la responsabilité personnelle des dirigeants sur leur patrimoine propre (Cass. Com., 20 mai 2003, n° 99-17.092).
+Par ailleurs, ce défaut de souscription ou d'information peut constituer une faute détachable des fonctions de direction engageant la responsabilité personnelle des dirigeants sur leur patrimoine propre (Cass. Com., 20 mai 2003, [n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)).
 
 
 === PAGE BREAK ===

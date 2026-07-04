@@ -82,7 +82,7 @@ Selon la jurisprudence [Cass. Com., 20 mai 2003 (Arrêt SATI)](https://www.legif
 
 # III. IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES
 
-Il convient de noter que le préposé bénéficie d'une immunité civile selon [l'Arrêt Costedoat (Ass. Plén., 25 fév. 2000)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831), sauf en cas de faute pénale intentionnelle (**[Arrêt Cousin]**(https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322)). Les blessures étant involontaires, l'action doit se concentrer sur la SAS et ses dirigeants.
+Il convient de noter que le préposé bénéficie d'une immunité civile selon [l'[Arrêt Costedoat](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831) (Ass. Plén., 25 fév. 2000)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831), sauf en cas de faute pénale intentionnelle (**[[Arrêt Cousin](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322)]**(https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322)). Les blessures étant involontaires, l'action doit se concentrer sur la SAS et ses dirigeants.
 
 ## A. Action directe contre l'assureur
 
@@ -90,7 +90,7 @@ Le levier le plus efficace demeure l'action directe contre l'assureur RC de la S
 
 ## B. Preuves et Procédures
 
-La consolidation des preuves médicales (comptes rendus du **[Le Chirurgien SOS Main]**) et matérielles est impérative. En cas de rétention d'informations sur l'assureur, [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) permet de saisir le juge des référés pour obtenir les pièces nécessaires.
+La consolidation des preuves médicales (comptes rendus du **[Le Chirurgien SOS Main]**) et matérielles est impérative. En cas de rétention d'informations sur l'assureur, [[l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) permet de saisir le juge des référés pour obtenir les pièces nécessaires.
 
 ## C. Obligation d'information de l'assurance et référé-communication
 

@@ -26,7 +26,7 @@ Rédigé le 30 juin 2026
 
 La présente assignation en référé-provision et demande d'expertise médicale est introduite par **[La Victime]** à l'encontre de **[L'Exploitant du Commerce]**, personne morale exploitant un salon de coiffure au sein duquel la victime a subi un grave accident corporel le 29 mai 2026.
 
-Par cet acte, **[La Victime]** sollicite du président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, l'allocation d'une provision de 5 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de l'article 835 du Code de procédure civile.
+Par cet acte, **[La Victime]** sollicite du président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, l'allocation d'une provision de 5 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de [l'article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
 
 Elle demande en outre la désignation d'un expert médical judiciaire sur le fondement de l'article 145 du même code, afin de décrire l'étendue de ses séquelles et d'évaluer chacun des postes de préjudice corporel selon la nomenclature Dintilhac.
 
@@ -86,7 +86,7 @@ De surcroît, les faits se sont produits sous le contrôle du préposé de l'ét
 
 ## B. Sur la demande d'expertise médicale
 
-L'article 145 du Code de procédure civile prévoit :
+[L'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) prévoit :
 
   *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »*
 
@@ -127,7 +127,7 @@ Il est demandé au Président du Tribunal de :
 
 3. **CONDAMNER** **[L'Exploitant du Commerce]** à verser à **[La Victime]** la somme de 5 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
 
-4. **CONDAMNER** **[L'Exploitant du Commerce]** à payer à **[La Victime]** la somme de 3 000 € sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
+4. **CONDAMNER** **[L'Exploitant du Commerce]** à payer à **[La Victime]** la somme de 3 000 € sur le fondement de [l'article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647394), ainsi qu'aux entiers dépens.
 
 Fait à **[La Ville de l'Accident]**, le 30 juin 2026.
 

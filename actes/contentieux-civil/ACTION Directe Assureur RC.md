@@ -50,7 +50,7 @@ Rappel des obligations légales
 
 L'article L. 124-3 du Code des assurances institue une action directe de la victime contre l'assureur du responsable, ce qui me permet de vous saisir directement sans passer par l'intermédiaire de la société.
 
-Conformément à l'article 145 du Code de procédure civile, le juge des référés peut ordonner toute mesure d'instruction légalement admissible s'il existe un motif légitime de conserver ou d'établir la preuve de faits dont pourrait dépendre la solution d'un litige.
+Conformément à [[l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339), le juge des référés peut ordonner toute mesure d'instruction légalement admissible s'il existe un motif légitime de conserver ou d'établir la preuve de faits dont pourrait dépendre la solution d'un litige.
 
 Ces dispositions sont d'ordre public et s'imposent à toute compagnie d'assurance opérant sur le territoire français.
 
@@ -64,7 +64,7 @@ Le pronostic de récupération neurologique a été évalué à un an minimum pa
 
 En application de l'Article L. 124-3 du Code des assurances, je dispose d'un droit propre et d'une action directe à l'encontre de votre compagnie en tant qu'assureur de responsabilité civile de l'auteur du dommage.
 
-En vertu d'une jurisprudence constante (Cass. Civ. 1ère, 8 décembre 2021, n° 20-16.463 et Cass. Civ. 2e, 14 mai 2020, n° 19-15.659), cette action directe est autonome et n'est pas subordonnée à la survie de la personne morale ni à la déclaration préalable de créance en cas de procédure collective ou de radiation de la société assurée.
+En vertu d'une jurisprudence constante (Cass. Civ. 1ère, 8 décembre 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) et Cass. Civ. 2e, 14 mai 2020, n° 19-15.659), cette action directe est autonome et n'est pas subordonnée à la survie de la personne morale ni à la déclaration préalable de créance en cas de procédure collective ou de radiation de la société assurée.
 
 Je vous mets en demeure par la présente :
 
@@ -74,7 +74,7 @@ Je vous mets en demeure par la présente :
 
 À défaut de réponse et du versement de la provision réclamée dans le délai de 15 jours, j'engagerai une procédure en référé-provision devant le Président du Tribunal Judiciaire de **[La Ville de l'Accident]**, et assignerai directement votre compagnie en exécution forcée sur le fondement de l'action directe.
 
-Sous toutes réserves quant à l'aggravation future de l'état fonctionnel de sa main (arrêt Civ. 2e, 8 juillet 2021, n° 20-15.106) et de la capitalisation de ses dépenses de santé futures (arrêt Civ. 2e, 4 avril 2024, n° 22-19.307).
+Sous toutes réserves quant à l'aggravation future de l'état fonctionnel de sa main (arrêt Civ. 2e, 8 juillet 2021, [n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)) et de la capitalisation de ses dépenses de santé futures (arrêt Civ. 2e, 4 avril 2024, [n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)).
 
 Transparence sur la suite donnée au dossier
 

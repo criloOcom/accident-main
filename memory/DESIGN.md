@@ -22,7 +22,7 @@
 ## Règles de formatage du corps
 
 - **Tokens d'anonymisation** (`**[La Victime]**`, `**[L'Exploitant du Commerce]**`, `**[Le Président de l'Exploitation]**`…) : appliquer **Bold** (`textStyle.bold = true`) dans le corps du texte. Ne pas mettre en gras les guillemets, parenthèses ou texte autour.
-- **Références législatives et jurisprudentielles** (ex. `article 1242 du Code civil`, `Cass. Com., 20 mai 2003, n° 99-17.092`) : appliquer **souligné** + **couleur bleue `#1166CC`** + **`linkUrl`** pointant vers Légifrance ou Judilibre.
+- **Références législatives et jurisprudentielles** (ex. `article 1242 du Code civil`, `Cass. Com., 20 mai 2003, [n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)`) : appliquer **souligné** + **couleur bleue `#1166CC`** + **`linkUrl`** pointant vers Légifrance ou Judilibre.
 - **Puces et listes** : alignement JUSTIFIED, même police Arial 11 pt.
 
 ## Application obligatoire après chaque injection
