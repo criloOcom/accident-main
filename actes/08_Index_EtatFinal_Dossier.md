@@ -88,7 +88,7 @@ Partage depuis : [L'Email de la Victime]
 - Arrêt SATI : [Cass. Com., 20 mai 2003, n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ✓
 - [Cass. Crim., 27 mai 2014, n° 13-80.849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000028994017) ✓
 - [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ✓
-- Cass. Civ. 2e, 15 novembre 2018, n° 17-26.282 ✓
+- [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) ✓
 - [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) ✓
 
 ## STATISTIQUES DU DOSSIER
