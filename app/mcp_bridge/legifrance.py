@@ -125,6 +125,6 @@ class LegifranceClient:
         if cached:
             return cached
         payload = AccoConsultRequest(id=text_id).model_dump(by_alias=True, exclude_none=True)
-        result = self._make_request("consult/code", payload)
+        result = self._make_request("consult/getArticle", payload)
         offline_cache.save(f"legifrance:article:{text_id}", result, ttl=86400)
         return result
