@@ -26,7 +26,9 @@ Rédigé le 4 juillet 2026
 
 ## 1. Présentation
 
-Le 29 mai 2026, **[La Victime]** a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** (SAS LES MAUVAIS GARÇONS, SIRET 938 033 222 00010), situé **[L'Adresse de l'Exploitation]**. Le basculement d'un bac à shampoing défectueux a provoqué une section nerveuse et tendineuse profonde de l'index droit, nécessitant une prise en charge chirurgicale en urgence par le service SOS Main.
+Le 29 mai 2026, **[La Victime]** a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** (SAS LES MAUVAIS GARÇONS, SIRET 938 033 222 00010), situé **[L'Adresse de l'Exploitation]**.
+
+Le basculement d'un bac à shampoing défectueux a provoqué une section nerveuse et tendineuse profonde de l'index droit, nécessitant une prise en charge chirurgicale en urgence par le service SOS Main.
 
 Le contentieux pénal a pour objet de faire reconnaître la culpabilité de **[L'Exploitant du Commerce]** et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive.
 
@@ -34,7 +36,9 @@ Le contentieux pénal a pour objet de faire reconnaître la culpabilité de **[L
 
 ### 2.1 Blessures involontaires (Article 222-20 du Code pénal)
 
-Faits : le 29 mai 2026, **[La Victime]** a subi une section nerveuse et tendineuse profonde de l'index droit par basculement d'un bac à shampoing défectueux au sein de l'établissement exploité par **[L'Exploitant du Commerce]**. Ces faits sont constitutifs de blessures involontaires ayant entraîné une incapacité totale de travail (ITT) prévisible inférieure ou égale à trois mois.
+Faits : le 29 mai 2026, **[La Victime]** a subi une section nerveuse et tendineuse profonde de l'index droit par basculement d'un bac à shampoing défectueux au sein de l'établissement exploité par **[L'Exploitant du Commerce]**.
+
+Ces faits sont constitutifs de blessures involontaires ayant entraîné une incapacité totale de travail (ITT) prévisible inférieure ou égale à trois mois.
 
 L'infraction est prévue et réprimée par l'article 222-20 du Code pénal.
 
@@ -42,7 +46,9 @@ Lien : [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/arti
 
 ### 2.2 Défaut d'assurance responsabilité civile professionnelle (Article L. 211-26 du Code des assurances)
 
-L'article L. 211-26 du Code des assurances impose à toute personne physique ou morale exerçant une activité professionnelle de souscrire une assurance de responsabilité civile couvrant les dommages causés à des tiers. **[L'Exploitant du Commerce]** n'a pas souscrit une telle assurance, ce qui constitue une infraction pénale indépendante de l'accident lui-même.
+L'article L. 211-26 du Code des assurances impose à toute personne physique ou morale exerçant une activité professionnelle de souscrire une assurance de responsabilité civile couvrant les dommages causés à des tiers.
+
+**[L'Exploitant du Commerce]** n'a pas souscrit une telle assurance, ce qui constitue une infraction pénale indépendante de l'accident lui-même.
 
 Ce défaut d'assurance entrave gravement l'exercice de l'action directe de la victime contre l'assureur (article L. 124-3 du Code des assurances), privant **[La Victime]** de la garantie de paiement normalement attachée à ce mécanisme.
 
@@ -50,7 +56,9 @@ Lien : [Article L. 211-26 du Code des assurances](https://www.legifrance.gouv.fr
 
 ### 2.3 Mise en danger de la vie d'autrui — à étudier (Article 223-1 du Code pénal)
 
-Le maintien en service d'un équipement dangereux (bac à shampoing instable) exposant directement le public à un risque immédiat de blessure pourrait caractériser l'infraction de mise en danger de la vie d'autrui. Cette qualification nécessite la démonstration d'une violation délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le règlement.
+Le maintien en service d'un équipement dangereux (bac à shampoing instable) exposant directement le public à un risque immédiat de blessure pourrait caractériser l'infraction de mise en danger de la vie d'autrui.
+
+Cette qualification nécessite la démonstration d'une violation délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le règlement.
 
 Lien : [Article 223-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253)
 
