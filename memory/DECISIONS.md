@@ -32,6 +32,17 @@
 - Dans Annexe C : formater en `date — émetteur complet — objet — 🔗 Drive` sans numéro
 - L'ordre de numérotation est inconnu de l'utilisateur — ne pas l'utiliser comme source de vérité
 
+## Markdown source files (`actes/`) — RÈGLES DE STRUCTURE
+
+- **H1 unique** : seul le titre du document est `# Titre`. Sections I./II./III. en `##`, sous-sections A./B. en `###`, sous-sous-sections 1./2. en `####`.
+- **Articles de loi exclus des headings** : aucune référence législative entre parenthèses dans les titres. Les articles sont uniquement dans le corps du texte.
+- **Liens Légifrance inline obligatoires** : toute occurrence « Article X du Code Y » DOIT être `[Article X du Code Y](Légifrance URL)`. Pas de texte non lié, pas de « Lien : » séparé sur une autre ligne.
+- **Tokens en gras** : `[Token]` → `**[Token]**`.
+- **Ligne vide** entre chaque phrase/idée/paragraphe.
+- **Mise en page lettre** : en-tête (adresses, date, objet, réf) entre le H1 et `## INTRODUCTION`.
+- **Sources des faits citées** : les déclarations non vérifiées sont attribuées à leur source (courriel, déclaration verbale) — pas présentées comme des faits avérés.
+- **Script `app/batch_link_legifrance.py`** : outil de remplacement regex pour lier en masse. À exécuter après toute introduction de nouvelle référence légale.
+
 ## Limitations du script batch_anonymize.py
 - Utilise `str.replace()` → ne capture que les chaînes exactes
 - Les prénoms seuls ("Sébastien") et les noms en casse mixte ("Mountasser Sabir") ne sont pas remplacés
