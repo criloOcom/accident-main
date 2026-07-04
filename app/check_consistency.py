@@ -55,7 +55,7 @@ def check_internal_links() -> None:
 
 # ── 2. Tokens connus ──────────────────────────────────────────────────
 def check_tokens() -> None:
-    annexe_a = ANNEXES / "ANNEXE_A_Lexique_Tokens.md"
+    annexe_a = ANNEXES / "ANNEXE A Lexique Tokens.md"
     if not annexe_a.exists():
         err("ANNEXE_A introuvable — impossible de vérifier les tokens")
         return
@@ -78,7 +78,7 @@ def check_tokens() -> None:
             if token.startswith("http") or token.startswith("#"):
                 continue
             if token in ("L. 124-3", "L. 223-22", "L. 225-251", "L. 237-2",
-                         "L. 421-3", "R. 123-2"):
+                         "L. 421-3", "R. 123-2", "L. 211-26", "223-1"):
                 continue
             if not re.match(r'^[A-ZÀ-Ü][a-zà-ü\s\-\'\]]+$', token):
                 continue
@@ -111,18 +111,12 @@ def check_external_links() -> None:
         "LEGIARTI000022537549", "LEGIARTI000006447928",
         "LEGIARTI000006230063", "LEGIARTI000049464053",
         "LEGIARTI000006896089", "LEGIARTI000045268436",
+        "LEGIARTI000006792596",
         "JURITEXT000007047369", "JURITEXT000038340141",
         "JURITEXT000043489943", "JURITEXT000043782126",
-        "JURITEXT000044482848",         "JURITEXT000049418278",
-        "JURITEXT000007043831",
-        "JURITEXT000007043322",
+        "JURITEXT000044482848", "JURITEXT000049418278",
+        "JURITEXT000007043831", "JURITEXT000007043322",
         "JURITEXT000028994017",
-        "JURITEXT000043489943",
-        "JURITEXT000043782126",
-        "JURITEXT000044482848",
-        "JURITEXT000049418278",
-        "JURITEXT000007047369",
-        "JURITEXT000038340141",
     }
     for f in acte_files:
         text = f.read_text(encoding="utf-8")

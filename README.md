@@ -4,62 +4,67 @@
 
 ## Navigation rapide
 
-- **[Contentieux Civil](actes/15_Strategie_Contentieux_Civil.md)** — actions civiles, référé-provision, action directe assureur, expertise médicale
-- **[Contentieux Pénal](actes/16_Strategie_Contentieux_Penal.md)** — plaintes, constitution partie civile, défaut assurance
-- **[Index complet du dossier](actes/08_Index_EtatFinal_Dossier.md)** — état final, récapitulatif de toutes les pièces et actes
-- **[Plan d'action et chronologie](actes/09_PlanAction_Chronologie.md)** — calendrier des prochaines étapes
-- **[Synthèse juridique et FAQ](actes/10_Synthese_FAQ.md)** — questions/réponses sur l'affaire
+- **[STRATEGIE Contentieux Civil](actes/STRATEGIE%20Contentieux%20Civil.md)** — actions civiles, référé-provision, action directe assureur, expertise médicale
+- **[STRATEGIE Contentieux Penal](actes/STRATEGIE%20Contentieux%20Penal.md)** — plaintes, constitution partie civile, défaut assurance
+- **[Index complet du dossier](actes/Index%20Etat%20Final%20Dossier.md)** — état final, récapitulatif de toutes les pièces et actes
+- **[Plan d'action et chronologie](actes/Plan%20Action%20Chronologie.md)** — calendrier des prochaines étapes
+- **[Synthèse juridique et FAQ](actes/Synthese%20FAQ.md)** — questions/réponses sur l'affaire
 
 ## Arborescence
 
 ```
 accident-main/
 ├── actes/                  ← Documents juridiques (.md)
-│   ├── annexes/            ← Annexes canoniques (A: lexique, B: lois, C: pièces)
-│   ├── 15_Strategie_Contentieux_Civil.md
-│   ├── 16_Strategie_Contentieux_Penal.md
-│   └── 01_Assignation...md à 14_Analyse...md
+│   ├── annexes/            ← Annexes (A: lexique, B: lois, C: pièces)
+│   ├── STRATEGIE Contentieux Civil.md
+│   ├── STRATEGIE Contentieux Penal.md
+│   ├── ANALYSE Correction Juridique.md
+│   ├── ANALYSE Jurisprudence.md
+│   ├── ANALYSE Plaidoirie Dirigeants.md
+│   ├── ANALYSE Responsabilites Legales.md
+│   └── ...
 ├── pieces/                 ← 19 pièces originales extraites des PDFs
 ├── memory/                 ← Mémoire persistante pour les agents IA
 └── app/                    ← Scripts Python
 ```
 
-## Documents clés
+## Documents
 
 ### Contentieux civil
 
-| Acte | Description |
-|------|-------------|
-| [01 — Assignation Référé-Provision](actes/01_Assignation_REFERE_PROVISION_FINAL.md) | Assignation référé 5 000 € + expertise médicale |
-| [02 — Action Directe Assureur](actes/02_ActionDirecte_AssureurRC.md) | Mise en demeure fondée sur l'art. L.124-3 C. assur. |
-| [04 — Projet Assignation V1](actes/04_Assignation_Refere_Provision_V1.md) | Version brouillon de l'assignation |
-| [07 — Étude Indemnisation](actes/07_ETUDE_Indemnisation_MAX.md) | Évaluation Dintilhac (58 100 €) |
-| [11 — Audit Stratégique](actes/11_ANALYSE_correction_juridique.md) | Mémorandum d'audit et restructuration |
-| [12 — Analyse Jurisprudence](actes/12_ANALYSE_Jurisprudence.md) | Analyse des préjudices et jurisprudences |
+| Document | Description |
+|----------|-------------|
+| [STRATEGIE Contentieux Civil](actes/STRATEGIE%20Contentieux%20Civil.md) | Stratégie globale, fondements juridiques, évaluation Dintilhac 58 100 € |
+| [Assignation Refere Provision FINAL](actes/Assignation%20Refere%20Provision%20FINAL.md) | Assignation référé 5 000 € + expertise médicale |
+| [Action Directe Assureur RC](actes/Action%20Directe%20Assureur%20RC.md) | Mise en demeure fondée sur l'art. L.124-3 C. assur. |
+| [Etude Indemnisation MAX](actes/Etude%20Indemnisation%20MAX.md) | Évaluation Dintilhac complète (58 100 €) |
+| [ANALYSE Correction Juridique](actes/ANALYSE%20Correction%20Juridique.md) | Mémorandum d'audit et restructuration |
+| [ANALYSE Jurisprudence](actes/ANALYSE%20Jurisprudence.md) | Analyse des préjudices et jurisprudences |
 
 ### Contentieux pénal
 
-| Acte | Description |
-|------|-------------|
-| [03 — Défaut Assurance](actes/03_Plainte_Complet_Defaut_Assurance.md) | Complément plainte — défaut d'assurance RC |
-| [05 — Constitution Partie Civile](actes/05_Constitution_Partie_Civile.md) | Constitution de partie civile |
-| [13 — Responsabilité Dirigeants](actes/13_ANALYSE_Plaidoirie_Dirigeants.md) | Faute détachable des dirigeants (Arrêt SATI) |
-| [14 — Analyse Responsabilités](actes/14_ANALYSE_Responsabilites_Legales.md) | Fondements de la responsabilité |
+| Document | Description |
+|----------|-------------|
+| [STRATEGIE Contentieux Penal](actes/STRATEGIE%20Contentieux%20Penal.md) | Stratégie pénale, infractions, calendrier |
+| [Plainte Complement Defaut Assurance RC](actes/Plainte%20Complement%20Defaut%20Assurance%20RC.md) | Complément plainte — défaut d'assurance RC |
+| [Constitution Partie Civile](actes/Constitution%20Partie%20Civile.md) | Constitution de partie civile |
+| [ANALYSE Plaidoirie Dirigeants](actes/ANALYSE%20Plaidoirie%20Dirigeants.md) | Faute détachable des dirigeants (Arrêt SATI) |
+| [ANALYSE Responsabilites Legales](actes/ANALYSE%20Responsabilites%20Legales.md) | Fondements de la responsabilité |
 
 ### Transversaux
 
-| Acte | Description |
-|------|-------------|
-| [06 — Dossier Présentation](actes/06_Dossier_Presentation.md) | Présentation complète du dossier |
-| [08 — Index État Final](actes/08_Index_EtatFinal_Dossier.md) | Index récapitulatif |
-| [09 — Plan Action](actes/09_PlanAction_Chronologie.md) | Chronologie et plan d'action |
-| [10 — Synthèse FAQ](actes/10_Synthese_FAQ.md) | Synthèse juridique |
+| Document | Description |
+|----------|-------------|
+| [Presentation Dossier](actes/Presentation%20Dossier.md) | Présentation complète du dossier |
+| [Index Etat Final Dossier](actes/Index%20Etat%20Final%20Dossier.md) | Index récapitulatif |
+| [Plan Action Chronologie](actes/Plan%20Action%20Chronologie.md) | Chronologie et plan d'action |
+| [Synthese FAQ](actes/Synthese%20FAQ.md) | Synthèse juridique et questions fréquentes |
 
-### Annexes (canoniques)
+### Annexes
 
-- [ANNEXE A — Lexique des jetons](actes/annexes/ANNEXE_A_Lexique_Tokens.md)
-- [ANNEXE B — Lois et Jurisprudence](actes/annexes/ANNEXE_B_Lois_Jurisprudence.md)
-- [ANNEXE C — Liste des pièces](actes/annexes/ANNEXE_C_Pieces.md)
+- [ANNEXE A — Lexique des jetons](actes/annexes/ANNEXE%20A%20Lexique%20Tokents.md)
+- [ANNEXE B — Lois et Jurisprudence](actes/annexes/ANNEXE%20B%20Lois%20Jurisprudence.md)
+- [ANNEXE C — Liste des pièces](actes/annexes/ANNEXE%20C%20Pieces.md)
 
 ## Pour les agents IA
 
