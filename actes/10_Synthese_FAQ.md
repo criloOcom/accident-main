@@ -1,0 +1,203 @@
+---
+titre: Synthèse Juridique et FAQ
+date: 2026-06-30
+type: acte
+categorie: synthese
+auteur: La Victime
+destinataire: null
+personnes:
+  - La Victime
+  - L'Exploitant du Commerce
+tags:
+  - faq
+  - synthèse
+  - juridique
+  - questions
+statut: final
+source: drive
+drive_id: 1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM
+---
+
+# Synthèse Juridique et FAQ Affaire [La Victime] c/ [L'Exploitant du Commerce]
+
+Rédigé le 30 juin 2026
+
+# INTRODUCTION
+
+La présente synthèse juridique et FAQ a été rédigée par [La Victime] dans le cadre du contentieux l'opposant à [L'Exploitant du Commerce] à la suite de l'accident corporel du 29 mai 2026. Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de l'article 1231-1 du Code civil, la responsabilité délictuelle sur le fondement de l'article 1240 du même code, ainsi que la garantie des vices cachés prévue à l'article 1641 du Code civil. La présente synthèse répond en outre aux questions pratiques que la victime est susceptible de se poser dans le cadre de la conduite de son dossier.
+
+Rédigé par : [La Victime]
+
+[L'Adresse de la Victime]
+
+Le 01 juillet 2026
+
+
+=== PAGE BREAK ===
+
+# I. Présentation Générale de l'Affaire
+
+Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le 29 mai 2026 à 15h20 au sein du salon de coiffure exploité par la [L'Exploitant du Commerce], situé au [L'Adresse de l'Exploitation] à [La Ville de l'Accident]. La victime, Monsieur [La Victime], né le 18/01/1982, exerce la profession d'informaticien indépendant ([L'Identifiant Professionnel de la Victime]) à [La Ville de Résidence de la Victime]. Les parties mises en cause incluent la SAS elle-même, ses dirigeants [Le Président de l'Exploitation] et [La Directrice Générale de l'Exploitation], ainsi que [Le Propriétaire des Murs], propriétaire des murs commerciaux.
+
+
+=== PAGE BREAK ===
+
+# II. Foire Aux Questions (FAQ) Détaillée
+
+## L'accident et ses conséquences immédiates
+
+### Q : Dans quelles circonstances l'accident s'est-il produit ?
+
+Le jour de l'accident, [La Victime] est revenu au salon pour une simple retouche. Un employé de l'établissement est alors monté sur un bac à shampoing en céramique qui s'est déséquilibré. Par réflexe, [La Victime] a tendu la main droite pour protéger le coiffeur et stabiliser le meuble. Sa paume a percuté une cassure préexistante et tranchante de la vasque, provoquant une section profonde de 8,5 cm.
+
+### Q : Quelle est la gravité des lésions subies ?
+
+Le bilan médical est lourd : une section partielle du tendon fléchisseur de l'index droit et une section complète du paquet vasculo-nerveux. Malgré une intervention de microchirurgie réalisée le 30 mai 2026 à la [L'Établissement SOS Main] par le [Le Chirurgien SOS Main], la victime souffre à ce jour d'une insensibilité totale de l'index et d'un blocage mécanique de la flexion. Son activité d'informaticien est gravement compromise, justifiant une ITT initiale de 56 jours.
+
+### Q : Le gérant peut-il refuser de me donner le nom de sa compagnie d'assurance ?
+
+Non, ce refus est abusif et contraire au principe de loyauté. La victime dispose d'un droit d'action directe contre l'assureur (Art. L. 124-3 du Code des assurances). Si le gérant fait obstruction, la victime peut obtenir du juge des référés (Art. 145 du CPC) une injonction de communiquer l'attestation d'assurance sous astreinte financière quotidienne.
+
+### Q : Quelles sont les obligations de déclaration de la société suite à l'accident ?
+
+La société doit obligatoirement déclarer l'accident corporel à son assureur RC sous 5 jours ouvrés (Art. L. 113-2 du Code des assurances). De plus, elle doit consigner l'incident dans son registre de sécurité interne d'ERP (Établissement Recevant du Public). Le fait de cacher l'accident à son assureur ou de refuser de communiquer les coordonnées constitue une faute de gestion caractérisée des dirigeants.
+
+
+=== PAGE BREAK ===
+
+# III. Stratégie Juridique et Responsabilités
+
+La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la [L'Exploitant du Commerce] est engagée en tant que commettant du fait de son préposé, sur le fondement de [l'article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
+
+Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence [Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt Sati)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369), [Le Président de l'Exploitation] et [La Directrice Générale de l'Exploitation] engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par [l'article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036/).
+
+Enfin, le propriétaire des murs, [Le Propriétaire des Murs], peut être sollicité sur le fondement des [articles 1719](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) et [1720 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784), relatifs à l'obligation d'entretien du bailleur, si la défectuosité du meuble est liée à un défaut structurel des locaux.
+
+
+=== PAGE BREAK ===
+
+# IV. Démarches et Procédures Engagées
+
+À ce jour, une plainte officielle a été déposée et un dossier de recours contre tiers a été ouvert auprès de la CPAM. Sur le plan civil, plusieurs mises en demeure ont été expédiées le 29 juin 2026 pour identifier l'assureur et solliciter une provision :
+
+- Courrier à l'attention du Président [Le Président de l'Exploitation] ;
+- Courrier à la Directrice Générale [La Directrice Générale de l'Exploitation] ;
+- Demande de communication d'assurance au [propriétaire des murs] ;
+- Action directe contre [l'assureur de responsabilité civile] (fondée sur [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)).
+
+
+=== PAGE BREAK ===
+
+# V. Calendrier et Délais de Procédure
+
+La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jours pour répondre aux mises en demeure avant l'engagement d'un référé-provision sur le fondement de [l'article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284). Une étape cruciale est fixée au 12 novembre 2026 pour l'expertise médicale à l'UMJ de Purpan, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à 58 100 €). À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation ([article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112)).
+
+
+=== PAGE BREAK ===
+
+# VI. Points de Vigilance et Conclusion
+
+Bien que le dossier soit solide, certains points bloquants persistent, notamment l'absence de constat d'huissier immédiat et le refus des dirigeants de communiquer les coordonnées de leur assureur. Néanmoins, l'action directe et la responsabilité personnelle des dirigeants constituent des leviers puissants pour obtenir une indemnisation juste, estimée globalement à 58 100 € sous réserves d'aggravation.
+
+*Synthèse établie pour servir et valoir ce que de droit. © [La Victime].*
+
+*Q15 : Que se passe-t-il si [L'Exploitant du Commerce] est mise en liquidation ou radiée pendant la procédure ?*
+
+*Réponse : La personnalité morale de la société survit pour les besoins de la liquidation (Art. L. 237-2 du Code de commerce). De plus, l'action directe contre l'assureur (Art. L. 124-3 du Code des assurances) est autonome et reste recevable même après la dissolution ou la liquidation de l'entreprise responsable, garantissant l'indemnisation finale par la compagnie d'assurance.*
+
+
+=== PAGE BREAK ===
+
+# ANNEXE A — LEXIQUE DES JETONS D'ANONYMISATION
+
+Ce document utilise des jetons pour protéger l'identité des personnes. Voici la correspondance complète :
+
+**Personnes physiques :**
+
+• **[La Victime]** = Sébastien GRAZIDE
+
+• **[Le Président de l'Exploitation]** = Mountasser SABIR
+
+• **[La Directrice Générale de l'Exploitation]** = Catherine ANDISSAC / SORROCHE
+
+• **[Le Préposé de l'Exploitation]** = Ayoub BENNOURINE
+
+• **[Le Propriétaire des Murs]** = Romain DELRIEU
+
+• **[Le Chirurgien SOS Main]** = Dr Iskander DJERBI
+
+• **[Le Médecin en Urgence]** = Dr Julie JARDON
+
+• **[Le Médecin Généraliste]** = Dr OXYBEL
+
+• **[La Gestionnaire CPAM]** = Sigrid DESBOIS
+
+**Personnes morales :**
+
+• **[L'Exploitant du Commerce]** = SAS LES MAUVAIS GARÇONS
+
+• **[L'Établissement SOS Main]** = Clinique de l'Union
+
+**Données localisantes :**
+
+• **[L'Adresse de la Victime]** = 10 Avenue de Purpan, 31700 Blagnac
+
+• **[L'Adresse de l'Exploitation]** = 22 Rue Lafaurie, 09000 Foix
+
+• **[L'Adresse du Président]** = 108 Avenue Paul Bert, 09000 Foix
+
+• **[La Ville de l'Accident]** = Foix
+
+• **[La Ville de Résidence de la Victime]** = Blagnac
+
+• **[La Métropole Régionale]** = Toulouse
+
+• **[La Ville de l'Établissement SOS Main]** = Saint-Jean
+
+• **[L'Email de la Victime]** = [sebastien.grazide@gmail.com](mailto:sebastien.grazide@gmail.com)
+
+• **[L'Identifiant Professionnel de la Victime]** = 500 474 457
+
+• **[L'Identifiant de l'Exploitation]** = 938 033 222 00010
+
+
+=== PAGE BREAK ===
+
+# ANNEXE B — TEXTES DE LOI ET JURISPRUDENCE CITÉS
+
+**Textes de loi**
+
+• **Article 1242 du Code civil** — Responsabilité du fait des choses et du commettant Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
+
+• **Article 145 du Code de procédure civile** — Référé-communication de pièces sous astreinte Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+
+• **Article 1719 du Code civil** — Obligation de délivrance paisible du bailleur Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127)
+
+• **Article 1720 du Code civil** — Obligation d'entretien et de réparations du bailleur Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784)
+
+• **Article 2226 du Code civil** — Prescription de 10 ans pour le dommage corporel Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112)
+
+• **Article 835 du Code de procédure civile** — Référé-provision pour obligation non sérieusement contestable Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
+
+**Jurisprudence**
+
+• **Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)** — Faute détachable de ses fonctions du dirigeant Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
+
+
+=== PAGE BREAK ===
+
+## Annexe C — Liste des pièces citées
+
+**Pièces médicales**
+
+- 30/05/2026 — Dr Iskander DJERBI — CR opératoire — [🔗 Drive](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view)
+
+**Pièces pénales**
+
+- 01/06/2026 — Police TRD — Dépôt de plainte — [🔗 Drive](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
+- 02/06/2026 — Police TRD — Procès-verbal n°2026/015967 — [🔗 Drive](https://drive.google.com/file/d/18RdOzvO3Xwp1SVcsCdGDiY6RLQmWoHAnxJXnkQnomXs/view)
+
+**Pièces administratives**
+
+- 03/06/2026 — CPAM Haute-Garonne — Dossier RCT 31727387 — [🔗 Drive](https://drive.google.com/file/d/1mTGqygF0mS0Y5Yx-kRg3bM-7HHTajZqJ/view)
+- 29/06/2026 — [La Victime] — Mise en demeure SAS — [🔗 Drive](https://drive.google.com/file/d/1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn/view)

@@ -1,0 +1,37 @@
+{
+  "eval_cases": [
+    {
+      "eval_case_id": "search_faute_detachable",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Fais une recherche de jurisprudence sur la faute détachable du dirigeant de société suite à un accident ou un manquement à une obligation de sécurité pour m'aider dans mon dossier."
+          }
+        ]
+      }
+    },
+    {
+      "eval_case_id": "search_cpc_expertise",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Quels sont les articles du Code de procédure civile (CPC) applicables en droit français pour demander en référé la désignation d'un expert médical judiciaire avant tout procès ?"
+          }
+        ]
+      }
+    },
+    {
+      "eval_case_id": "synthese_dossier_client",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Sers-toi de mes outils Google Drive pour lister et analyser le contenu du dossier client '16Qm2fEzojRQ3_yylsSwlkynbVv1L0SvB'. Rédige pour mon avocat une chronologie synthétique et précise des faits et des consultations médicales à partir des documents trouvés."
+          }
+        ]
+      }
+    }
+  ]
+}
