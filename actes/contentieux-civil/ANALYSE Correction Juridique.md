@@ -24,7 +24,7 @@ Rédigé le 30 juin 2026
 
 # INTRODUCTION
 
-Le présent mémorandum juridique constitue un audit stratégique et une restructuration de l'arsenal contentieux déployé par [La Victime] à l'encontre de [L'Exploitant du Commerce] à la suite de l'accident corporel survenu le 29 mai 2026. Ce document analyse l'ensemble des voies de droit ouvertes à la victime, évalue la solidité des fondements juridiques invocables et propose une stratégie contentieuse cohérente et optimisée. Il examine successivement les actions relevant du droit civil, du droit pénal et du droit des assurances, en vue d'assurer la réparation intégrale des préjudices subis.
+Le présent mémorandum juridique constitue un audit stratégique et une restructuration de l'arsenal contentieux déployé par **[La Victime]** à l'encontre de **[L'Exploitant du Commerce]** à la suite de l'accident corporel survenu le 29 mai 2026. Ce document analyse l'ensemble des voies de droit ouvertes à la victime, évalue la solidité des fondements juridiques invocables et propose une stratégie contentieuse cohérente et optimisée. Il examine successivement les actions relevant du droit civil, du droit pénal et du droit des assurances, en vue d'assurer la réparation intégrale des préjudices subis.
 
 ## *Audit stratégique et restructuration de l'arsenal contentieux*
 
@@ -33,11 +33,11 @@ Le présent mémorandum juridique constitue un audit stratégique et une restruc
 
 # I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 
-Le 29 mai 2026, [La Victime] a subi un grave accident corporel au sein du salon exploité par la SAS Les Mauvais Garçons (l'Exploitant).
+Le 29 mai 2026, **[La Victime]** a subi un grave accident corporel au sein du salon exploité par la SAS Les Mauvais Garçons (l'Exploitant).
 
 Le basculement d'un équipement défectueux a provoqué une section nerveuse et tendineuse majeure à sa main dominante.
 
-L'affaire met en cause la responsabilité de la personne morale, dirigée par [Le Président de l'Exploitation] et [La Directrice Générale de l'Exploitation], ainsi que le fait de son préposé.
+L'affaire met en cause la responsabilité de la personne morale, dirigée par **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, ainsi que le fait de son préposé.
 
 À ce jour, le statut exact de L'Exploitant demeure incertain : les courriers recommandés adressés le 29 juin 2026 à la société et à ses dirigeants sont restés sans réponse ni accusé de réception signé. Dans ce contexte d'opacité, il convient de sécuriser l'ensemble des voies d'indemnisation, notamment l'action directe contre l'assureur sur le fondement de l'article L. 124-3 du Code des assurances, ainsi que la mise en cause personnelle des dirigeants.
 

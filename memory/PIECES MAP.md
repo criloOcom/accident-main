@@ -31,7 +31,7 @@ L'identifiant d'une pièce est le triplet (date, émetteur, objet) — pas un nu
 | 24/06/2026 12:08 | La Poste | AR détail distribution | `1SJsTOlxITAxA_eA4DTMXfQccrGZ0alZu` |
 | 24/06/2026 12:08 | La Poste | AR pièce jointe | `1EjDmhkKZ5DvgXmAd6nY97SnOn9dDMLVb` |
 | 24/06/2026 12:08 | La Poste | Bordereau dépôt | `1NDCXdy7reiBB7zQCXEOum-6PqBKKThhL` |
-| 29/06/2026 | [La Victime] | Mise en demeure SAS | `1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn` |
+| 29/06/2026 | **[La Victime]** | Mise en demeure SAS | `1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn` |
 | 03/06/2026 | CPAM Haute-Garonne | Dossier RCT 31727387 | `1mTGqygF0mS0Y5Yx-kRg3bM-7HHTajZqJ` |
 
 ### Doc 03 — Plainte Complément Défaut Assurance RC
@@ -41,8 +41,8 @@ L'identifiant d'une pièce est le triplet (date, émetteur, objet) — pas un nu
 | 01/06/2026 16:01 | Police TRD | Dépôt plainte officiel | `1estaaOWMphbrt5VXhy6MsTfHqBGIdj22` |
 | 02/06/2026 | Police TRD | Constitution Partie Civile | `1zKC1OYRHYvz9Fy669yX_IcmLXiCOVOYu` |
 | 02/06/2026 | Police Nationale | Récépissé déclaration | `1ikEfXSFTlVefhevXDRguBhSWh2Gvkama` |
-| 29/06/2026 | [La Victime] | Mise en demeure SAS | `1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn` |
-| 29/06/2026 | [Le Président de l'Exploitation] | Mise en demeure Président | `117sFmGu7yFbYzd0VrKYNSCK_tDYHugrL` |
+| 29/06/2026 | **[La Victime]** | Mise en demeure SAS | `1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn` |
+| 29/06/2026 | **[Le Président de l'Exploitation]** | Mise en demeure Président | `117sFmGu7yFbYzd0VrKYNSCK_tDYHugrL` |
 
 ### Doc 04 — Assignation Référé Provision V1
 `1L3lJuFQ3CmswKlBg8P5YF6whQQ1AV7QTCLQ_arWo39A`
@@ -78,7 +78,7 @@ L'identifiant d'une pièce est le triplet (date, émetteur, objet) — pas un nu
 | 30/05/2026 | Dr Iskander DJERBI | CR opératoire | `1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9` |
 | 01/06/2026 | Dr Yogan OXYBEL | Arrêt travail | `1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm` |
 | 03/06/2026 | CPAM Haute-Garonne | Dossier RCT | `1mTGqygF0mS0Y5Yx-kRg3bM-7HHTajZqJ` |
-| 29/06/2026 | [La Victime] | Mise en demeure SAS | `1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn` |
+| 29/06/2026 | **[La Victime]** | Mise en demeure SAS | `1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn` |
 
 ### Doc 07 — ETUDE Indemnisation MAX
 `1PiBFn1oA1DtkT61N-zvdPmsCYsmR0au9V4BA9IZzrH4`
@@ -101,7 +101,7 @@ L'identifiant d'une pièce est le triplet (date, émetteur, objet) — pas un nu
 | 02/06/2026 | Police TRD | PV Police | `18RdOzvO3Xwp1SVcsCdGDiY6RLQmWoHAnxJXnkQnomXs` |
 | 02/06/2026 | Police TRD | Constitution PC | `1zKC1OYRHYvz9Fy669yX_IcmLXiCOVOYu` |
 | 19/06/2026 | Dr Iskander DJERBI | CR contrôle J+20 | `1CSoaFFL8CJknPxeQKlYHAh3viPR2zPYa` |
-| 29/06/2026 | [La Victime] | Mise en demeure SAS | `1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn` |
+| 29/06/2026 | **[La Victime]** | Mise en demeure SAS | `1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn` |
 
 ### Doc 09 — Plan Action Chronologie
 `153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s`
@@ -113,7 +113,7 @@ L'identifiant d'une pièce est le triplet (date, émetteur, objet) — pas un nu
 | 01/06/2026 | Police TRD | Plainte | `1estaaOWMphbrt5VXhy6MsTfHqBGIdj22` |
 | 02/06/2026 | Police TRD | PV | `18RdOzvO3Xwp1SVcsCdGDiY6RLQmWoHAnxJXnkQnomXs` |
 | 03/06/2026 | CPAM Haute-Garonne | Dossier RCT | `1mTGqygF0mS0Y5Yx-kRg3bM-7HHTajZqJ` |
-| 29/06/2026 | [La Victime] | Mise en demeure SAS | `1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn` |
+| 29/06/2026 | **[La Victime]** | Mise en demeure SAS | `1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn` |
 
 ### Doc 10 — Synthèse FAQ
 `1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM`
@@ -123,7 +123,7 @@ L'identifiant d'une pièce est le triplet (date, émetteur, objet) — pas un nu
 | 01/06/2026 | Police TRD | Plainte | `1estaaOWMphbrt5VXhy6MsTfHqBGIdj22` |
 | 02/06/2026 | Police TRD | PV Police | `18RdOzvO3Xwp1SVcsCdGDiY6RLQmWoHAnxJXnkQnomXs` |
 | 03/06/2026 | CPAM Haute-Garonne | Dossier RCT | `1mTGqygF0mS0Y5Yx-kRg3bM-7HHTajZqJ` |
-| 29/06/2026 | [La Victime] | Mise en demeure SAS | `1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn` |
+| 29/06/2026 | **[La Victime]** | Mise en demeure SAS | `1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn` |
 
 ### Doc 11 — ANALYSE correction juridique
 `1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes`

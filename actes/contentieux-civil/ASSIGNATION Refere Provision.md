@@ -24,42 +24,42 @@ Rédigé le 30 juin 2026
 
 # INTRODUCTION
 
-La présente assignation en référé-provision et demande d'expertise médicale est introduite par [La Victime] à l'encontre de [L'Exploitant du Commerce], personne morale exploitant un salon de coiffure au sein duquel la victime a subi un grave accident corporel le 29 mai 2026.
+La présente assignation en référé-provision et demande d'expertise médicale est introduite par **[La Victime]** à l'encontre de **[L'Exploitant du Commerce]**, personne morale exploitant un salon de coiffure au sein duquel la victime a subi un grave accident corporel le 29 mai 2026.
 
-Par cet acte, [La Victime] sollicite du président du Tribunal Judiciaire de [La Ville de l'Accident], statuant en référé, l'allocation d'une provision de 5 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de l'article 835 du Code de procédure civile.
+Par cet acte, **[La Victime]** sollicite du président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, l'allocation d'une provision de 5 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de l'article 835 du Code de procédure civile.
 
 Elle demande en outre la désignation d'un expert médical judiciaire sur le fondement de l'article 145 du même code, afin de décrire l'étendue de ses séquelles et d'évaluer chacun des postes de préjudice corporel selon la nomenclature Dintilhac.
 
-Tribunal Judiciaire de [La Ville de l'Accident] (Cabinet du Juge des Référés)
+Tribunal Judiciaire de **[La Ville de l'Accident]** (Cabinet du Juge des Référés)
 
 POUR :
 
-[La Victime], né le 18 janvier 1982, de nationalité française, demeurant au [L'Adresse de la Victime], exerçant la profession d'informaticien indépendant, ayant pour avocat constitué [Nom de l'Avocat], avocat au barreau de [La Ville de l'Accident].
+**[La Victime]**, né le 18 janvier 1982, de nationalité française, demeurant au **[L'Adresse de la Victime]**, exerçant la profession d'informaticien indépendant, ayant pour avocat constitué **[Nom de l'Avocat]**, avocat au barreau de **[La Ville de l'Accident]**.
 
 CONTRE :
 
-[L'Exploitant du Commerce], Société par Actions Simplifiée au capital de 200 €, immatriculée au RCS de [La Ville de l'Accident] sous le numéro SIRET [L'Identifiant de l'Exploitation], ayant son siège social au [L'Adresse de l'Exploitation], prise en la personne de sa représentante légale en exercice, [La Directrice Générale de l'Exploitation], Directrice Générale.
+**[L'Exploitant du Commerce]**, Société par Actions Simplifiée au capital de 200 €, immatriculée au RCS de **[La Ville de l'Accident]** sous le numéro SIRET **[L'Identifiant de l'Exploitation]**, ayant son siège social au **[L'Adresse de l'Exploitation]**, prise en la personne de sa représentante légale en exercice, **[La Directrice Générale de l'Exploitation]**, Directrice Générale.
 
-PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE [LA VILLE DE L'ACCIDENT]
+PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCIDENT]**
 
 
 === PAGE BREAK ===
 
 # I. EXPOSÉ DES FAITS
 
-Le 29 mai 2026, **[La Victime]** s'est rendu au salon de coiffure exploité par [L'Exploitant du Commerce] pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero (15,00 €).
+Le 29 mai 2026, **[La Victime]** s'est rendu au salon de coiffure exploité par **[L'Exploitant du Commerce]** pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero (15,00 €).
 
-Alors qu'il se trouvait au bac à shampoing, [Le Préposé de l'Exploitation], qui était monté sur la vasque en céramique, a provoqué le basculement brutal de l'équipement en tentant d'en descendre. Par un réflexe d'assistance pour retenir la chute, [La Victime] a tendu sa main droite, qui a heurté une cassure majeure préexistante non signalée sur le flanc de la vasque.
+Alors qu'il se trouvait au bac à shampoing, **[Le Préposé de l'Exploitation]**, qui était monté sur la vasque en céramique, a provoqué le basculement brutal de l'équipement en tentant d'en descendre. Par un réflexe d'assistance pour retenir la chute, **[La Victime]** a tendu sa main droite, qui a heurté une cassure majeure préexistante non signalée sur le flanc de la vasque.
 
-[La Victime] a immédiatement été pris en charge aux urgences du Centre Ariégeois de Soins Immédiats par [Le Médecin en Urgence], qui a procédé à une suture initiale d'une plaie palmaire de 8,5 cm et diagnostiqué une suspicion d'atteinte tendineuse et nerveuse majeure.
+**[La Victime]** a immédiatement été pris en charge aux urgences du Centre Ariégeois de Soins Immédiats par **[Le Médecin en Urgence]**, qui a procédé à une suture initiale d'une plaie palmaire de 8,5 cm et diagnostiqué une suspicion d'atteinte tendineuse et nerveuse majeure.
 
-Le lendemain, 30 mai 2026, [La Victime] a été hospitalisé et opéré en urgence par [Le Chirurgien SOS Main] au service SOS Main de [L'Établissement SOS Main].
+Le lendemain, 30 mai 2026, **[La Victime]** a été hospitalisé et opéré en urgence par **[Le Chirurgien SOS Main]** au service SOS Main de **[L'Établissement SOS Main]**.
 
-L'intervention microchirurgicale a révélé et traité une section partielle du tendon fléchisseur de l'index droit (main dominante), une section complète des paquets collatéraux vasculo-nerveux, et une neurolyse du nerf palmaire, nécessitant une suture Mac Learney à 6 brins et une micro-suture nerveuse sous loupes binoculaires. [La Victime] a quitté la clinique le jour même.
+L'intervention microchirurgicale a révélé et traité une section partielle du tendon fléchisseur de l'index droit (main dominante), une section complète des paquets collatéraux vasculo-nerveux, et une neurolyse du nerf palmaire, nécessitant une suture Mac Learney à 6 brins et une micro-suture nerveuse sous loupes binoculaires. **[La Victime]** a quitté la clinique le jour même.
 
 La lettre de liaison de sortie officielle lui a été transmise par e-mail le lendemain, 31 mai 2026, actant un repos post-opératoire immédiat.
 
-En raison de la gravité des lésions subies à sa main droite dominante (section partielle du tendon fléchisseur et section complète des paquets collatéraux vasculo-nerveux), [La Victime] s'est trouvé dans l'incapacité d'utiliser sa main droite pour saisir au clavier ou manipuler une souris.
+En raison de la gravité des lésions subies à sa main droite dominante (section partielle du tendon fléchisseur et section complète des paquets collatéraux vasculo-nerveux), **[La Victime]** s'est trouvé dans l'incapacité d'utiliser sa main droite pour saisir au clavier ou manipuler une souris.
 
 Cet état de handicap temporaire sévère et documenté explique et justifie le délai nécessaire pour la finalisation de la présente procédure, engagée dès que son état de santé a permis d'entreprendre des démarches de rédaction.
 
@@ -82,7 +82,7 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du 0
 
 En l'espèce, le basculement brutal de l'équipement dû à l'escalade du préposé sur la vasque en céramique, laquelle présentait une cassure préexistante non signalée, caractérise un manquement à l'obligation de sécurité imputable à l'exploitant au sens de [l'article 1242 alinéa 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000).
 
-De surcroît, les faits se sont produits sous le contrôle du préposé de l'établissement ([Le Préposé de l'Exploitation]). Par conséquent, la responsabilité délictuelle de [L'Exploitant du Commerce] est engagée sans contestation possible.
+De surcroît, les faits se sont produits sous le contrôle du préposé de l'établissement (**[Le Préposé de l'Exploitation]**). Par conséquent, la responsabilité délictuelle de **[L'Exploitant du Commerce]** est engagée sans contestation possible.
 
 ## B. Sur la demande d'expertise médicale
 
@@ -90,7 +90,7 @@ L'article 145 du Code de procédure civile prévoit :
 
   *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »*
 
-L'état corporel de [La Victime] n'étant pas consolidé à ce jour, il est indispensable de faire désigner un expert médical judiciaire afin d'évaluer l'intégralité des préjudices corporels subis.
+L'état corporel de **[La Victime]** n'étant pas consolidé à ce jour, il est indispensable de faire désigner un expert médical judiciaire afin d'évaluer l'intégralité des préjudices corporels subis.
 
 ## C. Sur l'octroi d'une provision financière
 
@@ -98,14 +98,14 @@ L'[article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.go
 
 *« Dans tous les cas où l'existence de l'obligation n'est pas sérieusement contestable, le président peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »*
 
-L'obligation à réparation de [L'Exploitant du Commerce] n'étant pas sérieusement contestable au vu du PV de police et des pièces médicales indiscutables, [La Victime] est fondé à réclamer le versement d'une provision financière.
+L'obligation à réparation de **[L'Exploitant du Commerce]** n'étant pas sérieusement contestable au vu du PV de police et des pièces médicales indiscutables, **[La Victime]** est fondé à réclamer le versement d'une provision financière.
 
 
 === PAGE BREAK ===
 
 # III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)
 
-[La Victime] est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.
+**[La Victime]** est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.
 
 - Pertes de Gains Professionnels Actuels (PGPA) : Evaluées à 7 500 € au titre du préjudice d'exploitation durant les 56 jours d'ITT.
 
@@ -114,23 +114,25 @@ L'obligation à réparation de [L'Exploitant du Commerce] n'étant pas sérieuse
 - Souffrances Endurées (SE) : Echelonnées à 4/7 en raison de l'accident, de la chirurgie et de la rééducation intensive requise (chiffrées à 12 000 €).
 
 - Dépenses de Santé Futures (DSF) : Prévisions d'aménagements ergonomiques spécifiques de poste informatique estimées à 15 000 € (claviers et souris adaptés).
-Dans l'attente du dépôt du rapport de l'expert judiciaire, [La Victime] sollicite l'allocation d'une provision de 5 000 € à valoir sur l'indemnisation finale de son préjudice corporel.
+
+Dans l'attente du dépôt du rapport de l'expert judiciaire, **[La Victime]** sollicite l'allocation d'une provision de 5 000 € à valoir sur l'indemnisation finale de son préjudice corporel.
 
 # PAR CES MOTIFS
 
 Il est demandé au Président du Tribunal de :
 
-1. **ORDONNER** une expertise médicale judiciaire de [La Victime] ;
+1. **ORDONNER** une expertise médicale judiciaire de **[La Victime]** ;
 
 2. **DÉSIGNER** tel expert médical qu'il plaira au tribunal avec pour mission habituelle d'évaluer les postes de préjudices corporels conformément à la nomenclature Dintilhac ;
 
-3. **CONDAMNER** [L'Exploitant du Commerce] à verser à [La Victime] la somme de 5 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
+3. **CONDAMNER** **[L'Exploitant du Commerce]** à verser à **[La Victime]** la somme de 5 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
 
-4. **CONDAMNER** [L'Exploitant du Commerce] à payer à [La Victime] la somme de 3 000 € sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
-Fait à [La Ville de l'Accident], le 30 juin 2026.
+4. **CONDAMNER** **[L'Exploitant du Commerce]** à payer à **[La Victime]** la somme de 3 000 € sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
+
+Fait à **[La Ville de l'Accident]**, le 30 juin 2026.
 
 
-Pour [La Victime] [Nom de l'Avocat]
+Pour **[La Victime]** **[Nom de l'Avocat]**
 
 
 === PAGE BREAK ===

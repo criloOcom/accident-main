@@ -18,7 +18,7 @@ source: drive
 drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 ---
 
-# Analyse des Fondements de la Responsabilité Juridique [L'Exploitant du Commerce]
+# Analyse des Fondements de la Responsabilité Juridique **[L'Exploitant du Commerce]**
 
 Rédigé le 30 juin 2026
 
@@ -82,7 +82,7 @@ Selon la jurisprudence [Cass. Com., 20 mai 2003 (Arrêt SATI)](https://www.legif
 
 # III. IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES
 
-Il convient de noter que le préposé bénéficie d'une immunité civile selon [l'Arrêt Costedoat (Ass. Plén., 25 fév. 2000)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831), sauf en cas de faute pénale intentionnelle ([Arrêt Cousin](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322)). Les blessures étant involontaires, l'action doit se concentrer sur la SAS et ses dirigeants.
+Il convient de noter que le préposé bénéficie d'une immunité civile selon [l'Arrêt Costedoat (Ass. Plén., 25 fév. 2000)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831), sauf en cas de faute pénale intentionnelle (**[Arrêt Cousin]**(https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322)). Les blessures étant involontaires, l'action doit se concentrer sur la SAS et ses dirigeants.
 
 ## A. Action directe contre l'assureur
 

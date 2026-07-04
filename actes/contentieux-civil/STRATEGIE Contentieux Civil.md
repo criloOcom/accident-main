@@ -26,7 +26,7 @@ Rédigé le 4 juillet 2026
 
 ## 1. Présentation
 
-Le 29 mai 2026, [La Victime] a subi un accident corporel grave dans le salon de coiffure exploité par [L'Exploitant du Commerce] (SAS LES MAUVAIS GARÇONS, SIRET 938 033 222 00010), situé [L'Adresse de l'Exploitation]. Le basculement d'un bac à shampoing défectueux a provoqué une section nerveuse et tendineuse profonde de l'index droit, nécessitant une microchirurgie SOS Main en urgence.
+Le 29 mai 2026, **[La Victime]** a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** (SAS LES MAUVAIS GARÇONS, SIRET 938 033 222 00010), situé **[L'Adresse de l'Exploitation]**. Le basculement d'un bac à shampoing défectueux a provoqué une section nerveuse et tendineuse profonde de l'index droit, nécessitant une microchirurgie SOS Main en urgence.
 
 Le contentieux civil a pour objet d'obtenir la réparation intégrale des préjudices subis, estimés à 58 100 € selon la nomenclature Dintilhac. Il se déploie sur plusieurs fondements juridiques complémentaires.
 
@@ -34,7 +34,7 @@ Le contentieux civil a pour objet d'obtenir la réparation intégrale des préju
 
 ### 2.1 Responsabilité du commettant (Article 1242 du Code civil)
 
-[L'Exploitant du Commerce] est civilement responsable des dommages causés par ses préposés dans l'exercice de leurs fonctions. L'accident est survenu pendant une prestation de coupe de cheveux réalisée par un employé de la société dans l'enceinte de l'établissement. La responsabilité de la SAS est engagée de plein droit en application de l'article 1242 du Code civil, alinéa 5 (responsabilité du commettant du fait de son préposé).
+**[L'Exploitant du Commerce]** est civilement responsable des dommages causés par ses préposés dans l'exercice de leurs fonctions. L'accident est survenu pendant une prestation de coupe de cheveux réalisée par un employé de la société dans l'enceinte de l'établissement. La responsabilité de la SAS est engagée de plein droit en application de l'article 1242 du Code civil, alinéa 5 (responsabilité du commettant du fait de son préposé).
 
 Lien : [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
 
@@ -48,13 +48,13 @@ Lien : [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/
 
 ### 2.3 Survie de la personnalité morale (Article 1844-8 du Code civil)
 
-Si [L'Exploitant du Commerce] venait à être dissoute ou radiée, la personnalité morale de la société survit pour les besoins de la liquidation jusqu'à la clôture de celle-ci. Ce mécanisme garantit que la société puisse encore être attraite en justice et que ses dettes soient apurées, incluant l'indemnisation due à [La Victime].
+Si **[L'Exploitant du Commerce]** venait à être dissoute ou radiée, la personnalité morale de la société survit pour les besoins de la liquidation jusqu'à la clôture de celle-ci. Ce mécanisme garantit que la société puisse encore être attraite en justice et que ses dettes soient apurées, incluant l'indemnisation due à **[La Victime]**.
 
 Lien : [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186)
 
 ### 2.4 Responsabilité pour faute (Article 1240 du Code civil)
 
-À titre subsidiaire, la responsabilité pour faute de [L'Exploitant du Commerce] est engagée sur le fondement de l'article 1240 du Code civil pour défaut d'entretien de son équipement et manquement à son obligation de sécurité. Le principe de réparation intégrale impose que la victime soit replacée dans la situation où elle se serait trouvée si l'accident n'avait pas eu lieu.
+À titre subsidiaire, la responsabilité pour faute de **[L'Exploitant du Commerce]** est engagée sur le fondement de l'article 1240 du Code civil pour défaut d'entretien de son équipement et manquement à son obligation de sécurité. Le principe de réparation intégrale impose que la victime soit replacée dans la situation où elle se serait trouvée si l'accident n'avait pas eu lieu.
 
 Lien : [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 
@@ -62,7 +62,7 @@ Lien : [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article
 
 ### 3.1 Référé-provision (Article 835 du Code de procédure civile)
 
-Une assignation en référé-provision a été rédigée le 30 juin 2026 pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive. Le référé-provision permet d'obtenir une avance rapide lorsque l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de [L'Exploitant du Commerce] est manifeste : un équipement défectueux a causé un accident sur son lieu d'exploitation, par l'intermédiaire de son préposé, ce qui constitue une obligation non contestable.
+Une assignation en référé-provision a été rédigée le 30 juin 2026 pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive. Le référé-provision permet d'obtenir une avance rapide lorsque l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de **[L'Exploitant du Commerce]** est manifeste : un équipement défectueux a causé un accident sur son lieu d'exploitation, par l'intermédiaire de son préposé, ce qui constitue une obligation non contestable.
 
 La demande inclut également la désignation d'un expert médical judiciaire sur le fondement de l'article 145 du Code de procédure civile.
 
@@ -71,11 +71,11 @@ Lien : [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr
 
 ### 3.2 Référé-communication de pièces (Article 145 du Code de procédure civile)
 
-En parallèle, une procédure de référé-communication peut être engagée pour obtenir la communication forcée de la police d'assurance responsabilité civile de [L'Exploitant du Commerce] sous astreinte. Cette mesure conservatoire est essentielle pour permettre l'identification et la mise en cause de l'assureur dans le cadre de l'action directe.
+En parallèle, une procédure de référé-communication peut être engagée pour obtenir la communication forcée de la police d'assurance responsabilité civile de **[L'Exploitant du Commerce]** sous astreinte. Cette mesure conservatoire est essentielle pour permettre l'identification et la mise en cause de l'assureur dans le cadre de l'action directe.
 
 ## 4. Évaluation des préjudices (Nomenclature Dintilhac)
 
-L'évaluation des préjudices subis par [La Victime], informaticien indépendant (SIRET 500 474 457, chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :
+L'évaluation des préjudices subis par **[La Victime]**, informaticien indépendant (SIRET 500 474 457, chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :
 
 | Poste de préjudice | Montant |
 |--------------------|---------|
@@ -122,6 +122,6 @@ Pièces administratives :
 - 04/06/2026 — URSSAF Midi-Pyrénées — Attestations de vigilance
 
 Pièces de procédure :
-- 29/06/2026 — Mise en demeure [L'Exploitant du Commerce]
-- 29/06/2026 — Mise en demeure [Le Président de l'Exploitation]
-- 29/06/2026 — Mise en demeure [La Directrice Générale de l'Exploitation]
+- 29/06/2026 — Mise en demeure **[L'Exploitant du Commerce]**
+- 29/06/2026 — Mise en demeure **[Le Président de l'Exploitation]**
+- 29/06/2026 — Mise en demeure **[La Directrice Générale de l'Exploitation]**

@@ -28,7 +28,7 @@
 6. `applyParagraphStyle` → JUSTIFIED sur tout le document
 
 ## RÈGLES D'ANONYMIZATION
-- Personnes physiques/morales → jetons en bon français avec articles (`[La Victime]`, `[L'Exploitant du Commerce]`)
+- Personnes physiques/morales → jetons en bon français avec articles (`**[La Victime]**`, `**[L'Exploitant du Commerce]**`)
 - Toute donnée localisante (adresse, ville, email, SIREN, CPAM, PV police) → token descriptif en bon français
 - Pas de `[ ... ]` générique (sauf pour cacher des références procédurales)
 - Pas de civilité devant un token (supprimer "Monsieur/Madame/Dr" avant les tokens)
@@ -37,7 +37,7 @@
 
 ## INTERDICTION D'INVENTER UN STATUT JURIDIQUE
 - **INTERDIT** d'affirmer un statut juridique (liquidation, dissolution, radiation, cessation d'activité) d'une entreprise sans source vérifiable (KBIS, extrait RCS, INPI, décision de justice)
-- Si le statut est inconnu, le formuler comme une incertitude : "À ce jour, le statut exact de [l'entreprise] demeure incertain"
+- Si le statut est inconnu, le formuler comme une incertitude : "À ce jour, le statut exact de **[l'entreprise]** demeure incertain"
 - Ne pas extrapoler l'absence de réponse à un courrier comme une preuve de liquidation
 
 ## VÉRIFICATION OBLIGATOIRE AVANT FINALISATION (DOUBLE-PASS)

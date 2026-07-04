@@ -23,29 +23,29 @@ Rédigé le 30 juin 2026
 
 # INTRODUCTION
 
-La présente constitution de partie civile est formée par [La Victime] dans le cadre de la procédure pénale suivie devant le Tribunal Correctionnel de [La Ville de l'Accident] à l'encontre de [L'Exploitant du Commerce]. Par cet acte, fondé sur les articles 2 et suivants du Code de procédure pénale, la victime entend exercer les droits reconnus à la partie civile afin d'obtenir la réparation de l'intégralité des préjudices découlant de l'accident corporel dont elle a été victime le 29 mai 2026. Cette constitution de partie civile permet à [La Victime] de participer activement à la procédure pénale et de solliciter l'indemnisation de ses préjudices devant la juridiction répressive.
+La présente constitution de partie civile est formée par **[La Victime]** dans le cadre de la procédure pénale suivie devant le Tribunal Correctionnel de **[La Ville de l'Accident]** à l'encontre de **[L'Exploitant du Commerce]**. Par cet acte, fondé sur les articles 2 et suivants du Code de procédure pénale, la victime entend exercer les droits reconnus à la partie civile afin d'obtenir la réparation de l'intégralité des préjudices découlant de l'accident corporel dont elle a été victime le 29 mai 2026. Cette constitution de partie civile permet à **[La Victime]** de participer activement à la procédure pénale et de solliciter l'indemnisation de ses préjudices devant la juridiction répressive.
 
 À adresser par lettre recommandée ou par télécopie au tribunal ou à remettre au greffe.
 
 Adresse du tribunal :
 
-Tribunal Correctionnel de [La Ville de l'Accident]
+Tribunal Correctionnel de **[La Ville de l'Accident]**
 
 10 Rue du Palais
 
-09000 [La Ville de l'Accident]
+09000 **[La Ville de l'Accident]**
 
 Je soussigné(e) :
 
-[La Victime], né le 18 janvier 1982 à [La Métropole Régionale], demeurant au [L'Adresse de la Victime].
+**[La Victime]**, né le 18 janvier 1982 à **[La Métropole Régionale]**, demeurant au **[L'Adresse de la Victime]**.
 
-Profession : Informaticien indépendant ([L'Identifiant Professionnel de la Victime])
+Profession : Informaticien indépendant (**[L'Identifiant Professionnel de la Victime]**)
 
 Agissant en mon nom personnel.
 
 Déclare me constituer partie civile contre :
 
-[L'Exploitant du Commerce] ([Le Président de l'Exploitation], Président) et [La Directrice Générale de l'Exploitation] (Directrice Générale).
+**[L'Exploitant du Commerce]** (**[Le Président de l'Exploitation]**, Président) et **[La Directrice Générale de l'Exploitation]** (Directrice Générale).
 
 Dans l'affaire qui doit être examinée par le tribunal :
 
@@ -58,16 +58,18 @@ Blessures involontaires ayant entraîné une ITT de 56 jours par la violation ma
 Je demande au tribunal de condamner la (ou les) personne(s) désignée(s) ci-dessus à me payer les sommes suivantes en réparation du préjudice subi :
 
 - Provision de 5 000 € à valoir sur la réparation intégrale de mes préjudices, sous réserve d'une expertise médicale judiciaire.
+
 Je demande au tribunal de condamner l'intéressé(e) [ou les intéressé(e)s] à me payer la somme de :
 
 - 3 000 € en remboursement des frais exposés lors de cette procédure (Article 475-1 du Code de procédure pénale).
+
 Pour justifier le préjudice subi :
 
-[X] Je joins les documents suivants : Pièces médicales et administratives n° 1 à n° 10.
+**[X]** Je joins les documents suivants : Pièces médicales et administratives n° 1 à n° 10.
 
-[X] Je souhaite compléter l'information du tribunal par les explications ci-jointes (sur feuille libre à joindre) : Voir Conclusions de Partie Civile ci-jointes (3 pages).
+**[X]** Je souhaite compléter l'information du tribunal par les explications ci-jointes (sur feuille libre à joindre) : Voir Conclusions de Partie Civile ci-jointes (3 pages).
 
-Fait à [La Ville de Résidence de la Victime], le 30 juin 2026
+Fait à **[La Ville de Résidence de la Victime]**, le 30 juin 2026
 
 Signature :
 

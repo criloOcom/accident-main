@@ -23,7 +23,7 @@ Rédigé le 30 juin 2026
 
 # INTRODUCTION
 
-Le présent rapport d'expertise juridique a été établi par [La Victime] afin d'évaluer l'étendue et la qualification juridique des préjudices corporels subis à la suite de l'accident du 29 mai 2026. Ce document procède à une analyse détaillée de chaque poste de préjudice selon la nomenclature Dintilhac, en s'appuyant sur les pièces médicales et administratives versées au dossier. L'évaluation est fondée sur les articles 1240 et 1231-1 du Code civil, ainsi que sur la jurisprudence constante de la Cour de cassation en matière de réparation intégrale. Chaque citation est présentée et interprétée de bonne foi, étant précisé que seuls les tribunaux ont autorité pour trancher définitivement les questions de droit soulevées.
+Le présent rapport d'expertise juridique a été établi par **[La Victime]** afin d'évaluer l'étendue et la qualification juridique des préjudices corporels subis à la suite de l'accident du 29 mai 2026. Ce document procède à une analyse détaillée de chaque poste de préjudice selon la nomenclature Dintilhac, en s'appuyant sur les pièces médicales et administratives versées au dossier. L'évaluation est fondée sur les articles 1240 et 1231-1 du Code civil, ainsi que sur la jurisprudence constante de la Cour de cassation en matière de réparation intégrale. Chaque citation est présentée et interprétée de bonne foi, étant précisé que seuls les tribunaux ont autorité pour trancher définitivement les questions de droit soulevées.
 
 Rédigé par : La Victime
 
@@ -34,11 +34,11 @@ Le 30 juin 2026
 
 # I. Introduction et contexte
 
-Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de [La Victime] (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi 29 mai 2026 à 15h20.
+Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de **[La Victime]** (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi 29 mai 2026 à 15h20.
 
-L'incident s'est produit au sein de l'établissement « [L'Exploitant du Commerce] » (ci-après désigné "L'Exploitant"), exploité par une SAS dont la direction est assurée par [Le Président de l'Exploitation] et [La Directrice Générale de l'Exploitation].
+L'incident s'est produit au sein de l'établissement « **[L'Exploitant du Commerce]** » (ci-après désigné "L'Exploitant"), exploité par une SAS dont la direction est assurée par **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**.
 
-Cette analyse s'appuie sur le principe de la réparation intégrale, visant à rétablir [La Victime] dans la situation qui aurait été la sienne sans la survenance du dommage, conformément à l'article 1240 du Code civil.
+Cette analyse s'appuie sur le principe de la réparation intégrale, visant à rétablir **[La Victime]** dans la situation qui aurait été la sienne sans la survenance du dommage, conformément à l'article 1240 du Code civil.
 
 
 === PAGE BREAK ===
@@ -47,16 +47,16 @@ Cette analyse s'appuie sur le principe de la réparation intégrale, visant à r
 
 L'accident trouve son origine dans la manœuvre imprudente d'un employé préposé monté sur un bac à shampoing, entraînant le basculement soudain de cet équipement lourd.
 
-En tentant instinctivement de retenir le meuble pour éviter une chute plus grave, la main droite de [La Victime] a percuté une vasque en céramique brisée. Les arêtes tranchantes de la vasque ont causé des lésions profondes.
+En tentant instinctivement de retenir le meuble pour éviter une chute plus grave, la main droite de **[La Victime]** a percuté une vasque en céramique brisée. Les arêtes tranchantes de la vasque ont causé des lésions profondes.
 
-Il est à noter que l'établissement a procédé à un remboursement symbolique de 15 €, ce qui constitue un aveu implicite de l'anormalité de la chose et de la faute du préposé sous la garde de [L'Exploitant du Commerce], conformément à l'article 1242 du Code civil.
+Il est à noter que l'établissement a procédé à un remboursement symbolique de 15 €, ce qui constitue un aveu implicite de l'anormalité de la chose et de la faute du préposé sous la garde de **[L'Exploitant du Commerce]**, conformément à l'article 1242 du Code civil.
 
 
 === PAGE BREAK ===
 
 # III. Bilan médical et préjudices identifiés
 
-Après une prise en charge initiale par [Le Médecin en Urgence] au Centre de Soins Immédiats, [La Victime] a été transférée en urgence clinique pour une microchirurgie réalisée le 30 mai 2026 par Le Chirurgien SOS Main.
+Après une prise en charge initiale par **[Le Médecin en Urgence]** au Centre de Soins Immédiats, **[La Victime]** a été transférée en urgence clinique pour une microchirurgie réalisée le 30 mai 2026 par Le Chirurgien SOS Main.
 
 Le bilan clinique révèle une section partielle du tendon fléchisseur superficiel de l'index droit, une section complète du paquet collatéral ulnaire et radial, ainsi qu'une neurolyse du nerf collatéral palmaire.
 
@@ -69,7 +69,7 @@ Ces lésions entraînent des séquelles fonctionnelles majeures, notamment des p
 
 ## A. Action directe contre l'assureur et survie de la personnalité morale
 
-La stratégie privilégie l'exercice de l'action directe contre L'Assureur de responsabilité civile de [L'Exploitant du Commerce], telle que prévue par l'article L. 124-3 du Code des assurances.
+La stratégie privilégie l'exercice de l'action directe contre L'Assureur de responsabilité civile de **[L'Exploitant du Commerce]**, telle que prévue par l'article L. 124-3 du Code des assurances.
 
 Cette action est autonome et n'est pas affectée par une éventuelle radiation de la société. En effet, la jurisprudence confirme que la personnalité morale d'une société subsiste tant que son passif n'est pas apuré (Cass. Civ. 1ère, 8 déc. 2021, n° 20-16.463).
 
@@ -81,9 +81,9 @@ La responsabilité personnelle des Dirigeants peut être engagée sur le fondeme
 
 Conformément à l'arrêt Costedoat (Ass. Plén. 25 fév. 2000), le préposé bénéficie en principe d'une immunité civile.
 
-Toutefois, s'agissant de blessures involontaires (Art. 222-20 du Code pénal), l'action se concentrera sur [L'Exploitant du Commerce] et ses Dirigeants, l'infraction non intentionnelle n'excluant pas l'immunité du préposé selon la jurisprudence récente (Cass. Crim., 27 mai 2014, n° 13-80.849).
+Toutefois, s'agissant de blessures involontaires (Art. 222-20 du Code pénal), l'action se concentrera sur **[L'Exploitant du Commerce]** et ses Dirigeants, l'infraction non intentionnelle n'excluant pas l'immunité du préposé selon la jurisprudence récente (Cass. Crim., 27 mai 2014, n° 13-80.849).
 
-De plus, les statuts de [L'Exploitant du Commerce] révèlent un capital social dérisoire de 200 € (divisé en 2 000 actions de 0,10 € détenues par Le Président), confirmant une sous-capitalisation notoire face aux risques d'un tel établissement recevant du public.
+De plus, les statuts de **[L'Exploitant du Commerce]** révèlent un capital social dérisoire de 200 € (divisé en 2 000 actions de 0,10 € détenues par Le Président), confirmant une sous-capitalisation notoire face aux risques d'un tel établissement recevant du public.
 
 Cette absence de substance financière de la société face à une éventuelle liquidation rend indispensable la mise en cause personnelle du patrimoine des Dirigeants pour garantir l'effectivité de l'indemnisation.
 

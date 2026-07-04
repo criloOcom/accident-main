@@ -44,7 +44,7 @@ Lors de cet événement, le basculement d'un équipement défectueux a causé un
 
 La situation est complexifiée par le silence des dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, concernant la couverture assurantielle de la structure.
 
-PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, [La Victime] est désigné comme « La Victime », [L'Exploitant du Commerce] comme « L'Exploitant », et [Le Président de l'Exploitation] et [La Directrice Générale de l'Exploitation] comme « Les Dirigeants ».
+PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, **[La Victime]** est désigné comme « La Victime », **[L'Exploitant du Commerce]** comme « L'Exploitant », et **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** comme « Les Dirigeants ».
 
 
 === PAGE BREAK ===

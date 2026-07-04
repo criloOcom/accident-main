@@ -26,15 +26,15 @@ Rédigé le 4 juillet 2026
 
 ## 1. Présentation
 
-Le 29 mai 2026, [La Victime] a subi un accident corporel grave dans le salon de coiffure exploité par [L'Exploitant du Commerce] (SAS LES MAUVAIS GARÇONS, SIRET 938 033 222 00010), situé [L'Adresse de l'Exploitation]. Le basculement d'un bac à shampoing défectueux a provoqué une section nerveuse et tendineuse profonde de l'index droit, nécessitant une prise en charge chirurgicale en urgence par le service SOS Main.
+Le 29 mai 2026, **[La Victime]** a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** (SAS LES MAUVAIS GARÇONS, SIRET 938 033 222 00010), situé **[L'Adresse de l'Exploitation]**. Le basculement d'un bac à shampoing défectueux a provoqué une section nerveuse et tendineuse profonde de l'index droit, nécessitant une prise en charge chirurgicale en urgence par le service SOS Main.
 
-Le contentieux pénal a pour objet de faire reconnaître la culpabilité de [L'Exploitant du Commerce] et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive.
+Le contentieux pénal a pour objet de faire reconnaître la culpabilité de **[L'Exploitant du Commerce]** et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive.
 
 ## 2. Infractions constituées
 
 ### 2.1 Blessures involontaires (Article 222-20 du Code pénal)
 
-Faits : le 29 mai 2026, [La Victime] a subi une section nerveuse et tendineuse profonde de l'index droit par basculement d'un bac à shampoing défectueux au sein de l'établissement exploité par [L'Exploitant du Commerce]. Ces faits sont constitutifs de blessures involontaires ayant entraîné une incapacité totale de travail (ITT) prévisible inférieure ou égale à trois mois.
+Faits : le 29 mai 2026, **[La Victime]** a subi une section nerveuse et tendineuse profonde de l'index droit par basculement d'un bac à shampoing défectueux au sein de l'établissement exploité par **[L'Exploitant du Commerce]**. Ces faits sont constitutifs de blessures involontaires ayant entraîné une incapacité totale de travail (ITT) prévisible inférieure ou égale à trois mois.
 
 L'infraction est prévue et réprimée par l'article 222-20 du Code pénal.
 
@@ -42,9 +42,9 @@ Lien : [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/arti
 
 ### 2.2 Défaut d'assurance responsabilité civile professionnelle (Article L. 211-26 du Code des assurances)
 
-L'article L. 211-26 du Code des assurances impose à toute personne physique ou morale exerçant une activité professionnelle de souscrire une assurance de responsabilité civile couvrant les dommages causés à des tiers. [L'Exploitant du Commerce] n'a pas souscrit une telle assurance, ce qui constitue une infraction pénale indépendante de l'accident lui-même.
+L'article L. 211-26 du Code des assurances impose à toute personne physique ou morale exerçant une activité professionnelle de souscrire une assurance de responsabilité civile couvrant les dommages causés à des tiers. **[L'Exploitant du Commerce]** n'a pas souscrit une telle assurance, ce qui constitue une infraction pénale indépendante de l'accident lui-même.
 
-Ce défaut d'assurance entrave gravement l'exercice de l'action directe de la victime contre l'assureur (article L. 124-3 du Code des assurances), privant [La Victime] de la garantie de paiement normalement attachée à ce mécanisme.
+Ce défaut d'assurance entrave gravement l'exercice de l'action directe de la victime contre l'assureur (article L. 124-3 du Code des assurances), privant **[La Victime]** de la garantie de paiement normalement attachée à ce mécanisme.
 
 Lien : [Article L. 211-26 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006792596)
 
@@ -62,7 +62,7 @@ Une plainte a été déposée le 1er juin 2026 auprès des services de police de
 
 ### 3.2 Constitution de partie civile
 
-Une constitution de partie civile a été formée par [La Victime] le 30 juin 2026 devant le Tribunal Correctionnel de [La Ville de l'Accident]. Cette démarche, fondée sur les articles 2 et suivants du Code de procédure pénale, permet à [La Victime] de :
+Une constitution de partie civile a été formée par **[La Victime]** le 30 juin 2026 devant le Tribunal Correctionnel de **[La Ville de l'Accident]**. Cette démarche, fondée sur les articles 2 et suivants du Code de procédure pénale, permet à **[La Victime]** de :
 
 - Participer activement à la procédure pénale
 - Accéder au dossier d'enquête et aux pièces de la procédure
@@ -74,11 +74,11 @@ La constitution de partie civile peut être réalisée par déclaration au greff
 
 ### 3.3 Complément de plainte pour défaut d'assurance
 
-Un complément de plainte pénale a été déposé le 30 juin 2026 auprès du Procureur de la République près le Tribunal Judiciaire de [La Ville de l'Accident] pour dénoncer le défaut d'assurance de responsabilité civile professionnelle. Ce complément vise à permettre à l'autorité judiciaire de constater l'infraction prévue à l'article L. 211-26 du Code des assurances et d'y apporter une réponse pénale appropriée.
+Un complément de plainte pénale a été déposé le 30 juin 2026 auprès du Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** pour dénoncer le défaut d'assurance de responsabilité civile professionnelle. Ce complément vise à permettre à l'autorité judiciaire de constater l'infraction prévue à l'article L. 211-26 du Code des assurances et d'y apporter une réponse pénale appropriée.
 
 ### 3.4 Responsabilité personnelle des dirigeants
 
-Les dirigeants de [L'Exploitant du Commerce], à savoir [Le Président de l'Exploitation] (Président) et [La Directrice Générale de l'Exploitation] (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales (Cass. Com., 20 mai 2003, n° 99-17.092, Arrêt SATI).
+Les dirigeants de **[L'Exploitant du Commerce]**, à savoir **[Le Président de l'Exploitation]** (Président) et **[La Directrice Générale de l'Exploitation]** (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales (Cass. Com., 20 mai 2003, n° 99-17.092, Arrêt SATI).
 
 Le défaut de souscription d'assurance responsabilité civile professionnelle constitue une faute d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales, caractérisant une faute détachable engageant la responsabilité personnelle des dirigeants sur leurs biens propres.
 

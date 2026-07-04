@@ -18,26 +18,26 @@ source: drive
 drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 ---
 
-# INDEX DU DOSSIER [La Victime]
+# INDEX DU DOSSIER **[La Victime]**
 
 Rédigé le 30 juin 2026
 
 # INTRODUCTION
 
-*Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire [La Victime] c/ [L'Exploitant du Commerce], à la suite de l'accident corporel grave survenu le 29 mai 2026. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du 30 juin 2026 et reflète l'état final de la composition du dossier.*
+*Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire **[La Victime]** c/ **[L'Exploitant du Commerce]**, à la suite de l'accident corporel grave survenu le 29 mai 2026. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du 30 juin 2026 et reflète l'état final de la composition du dossier.*
 
 *Structure finale au 29 juin 2026*
 
 Destinataire : Analyse tierce
 
-Partage depuis : [L'Email de la Victime]
+Partage depuis : **[L'Email de la Victime]**
 
 ## 00 — Preuves officielles
 
-- 2026-05-30 - CR opératoire ✓ Vérifié : Compte rendu opératoire du [Le Chirurgien SOS Main] (microchirurgie 30/05/2026).
+- 2026-05-30 - CR opératoire ✓ Vérifié : Compte rendu opératoire du **[Le Chirurgien SOS Main]** (microchirurgie 30/05/2026).
 - 2026-06-01 - Dossier plainte ✓ Vérifié : Copie complète de la plainte officielle déposée au commissariat.
 - 2026-06-02 - PV Police ✓ Vérifié : Procès-verbal de constat n°[ ...].
-- 2026-06-19 - CR opératoire [Le Chirurgien SOS Main] ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
+- 2026-06-19 - CR opératoire **[Le Chirurgien SOS Main]** ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
 - 2026-06-29 - Forensic Evidence File ✓ Vérifié : Dossier de preuves numériques et médicales.
 
 ## 01 — Actes procéduraux
@@ -47,10 +47,10 @@ Partage depuis : [L'Email de la Victime]
 
 ## 02 — Courriers
 
-- 2026-06-29 - 03_Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à [L'Exploitant du Commerce].
+- 2026-06-29 - 03_Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à **[L'Exploitant du Commerce]**.
 - 2026-06-29 - 04_Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de [l'Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 - 2026-06-01 - 05_Courrier Proprietaire - V1 ✓ Vérifié : Demande au propriétaire des murs fondée sur [l'Article 1719 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127).
-- 2026-06-29 - 06_Courrier [Le Président de l'Exploitation] + [La Directrice Générale de l'Exploitation] - V1 ✓ Vérifié : Mise en demeure personnelle aux dirigeants.
+- 2026-06-29 - 06_Courrier **[Le Président de l'Exploitation]** + **[La Directrice Générale de l'Exploitation]** - V1 ✓ Vérifié : Mise en demeure personnelle aux dirigeants.
 
 ## 03 — Analyses juridiques
 
@@ -60,7 +60,7 @@ Partage depuis : [L'Email de la Victime]
 
 ## 04 — Études d'indemnisation
 
-- 2026-06-01 - 11_Etude indemnisation - V1 ✓ Vérifié : Étude d'indemnisation des préjudices corporels selon la [réparation intégrale](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278).
+- 2026-06-01 - 11_Etude indemnisation - V1 ✓ Vérifié : Étude d'indemnisation des préjudices corporels selon la **[réparation intégrale]**(https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278).
 - 2026-06-29 - 12_Tableau prejudices - V1 ✓ Vérifié : Tableau récapitulatif des postes de préjudices.
 
 ## 05 — Organisation
@@ -70,12 +70,12 @@ Partage depuis : [L'Email de la Victime]
 
 ## MODIFICATIONS CLÉS
 
-1. [Le Préposé de l'Exploitation] -> [Le Président de l'Exploitation] + [La Directrice Générale de l'Exploitation] ✓
+1. **[Le Préposé de l'Exploitation]** -> **[Le Président de l'Exploitation]** + **[La Directrice Générale de l'Exploitation]** ✓
 1. Stratégie : faute détachable des dirigeants ✓
 1. Paragraphe faute détachable dans Assignation ✓
 1. Plaidoirie refondue ✓
 1. Conclusions PC mises à jour ✓
-1. Courrier 06 avec [La Directrice Générale de l'Exploitation] ✓
+1. Courrier 06 avec **[La Directrice Générale de l'Exploitation]** ✓
 1. 4 doublons archivés ✓
 1. Nomenclature normalisée ✓
 1. Formatting appliqué ✓
@@ -98,7 +98,7 @@ Partage depuis : [L'Email de la Victime]
 - Références jurisprudentielles : 7 vérifiées
 - Liens Légifrance ajoutés : 10+
 
-*NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à [La Victime]. Seule l'Étude d'indemnisation (Piece 03) est conservée dans 04_Etudes_indemnisation.*
+*NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à **[La Victime]**. Seule l'Étude d'indemnisation (Piece 03) est conservée dans 04_Etudes_indemnisation.*
 
 
 === PAGE BREAK ===

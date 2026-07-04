@@ -23,17 +23,17 @@ Rédigé le 30 juin 2026
 
 # INTRODUCTION
 
-La présente étude d'indemnisation a pour objet d'évaluer l'intégralité des préjudices corporels subis par [La Victime] à la suite de l'accident du 29 mai 2026, selon la nomenclature Dintilhac qui constitue la référence harmonisée pour l'évaluation des préjudices corporels devant les juridictions françaises. Cette évaluation chiffrée, établie poste par poste, tient compte du statut de travailleur indépendant de la victime et de son activité professionnelle déclarée sous le numéro [L'Identifiant Professionnel de la Victime]. L'étude vise à déterminer le montant maximal de l'indemnisation susceptible d'être obtenue, dans le respect du principe de réparation intégrale sans perte ni profit consacré par l'article 1240 du Code civil.
+La présente étude d'indemnisation a pour objet d'évaluer l'intégralité des préjudices corporels subis par **[La Victime]** à la suite de l'accident du 29 mai 2026, selon la nomenclature Dintilhac qui constitue la référence harmonisée pour l'évaluation des préjudices corporels devant les juridictions françaises. Cette évaluation chiffrée, établie poste par poste, tient compte du statut de travailleur indépendant de la victime et de son activité professionnelle déclarée sous le numéro **[L'Identifiant Professionnel de la Victime]**. L'étude vise à déterminer le montant maximal de l'indemnisation susceptible d'être obtenue, dans le respect du principe de réparation intégrale sans perte ni profit consacré par l'article 1240 du Code civil.
 
-Document rédigé par [La Victime]
+Document rédigé par **[La Victime]**
 
-[L'Adresse de la Victime]
+**[L'Adresse de la Victime]**
 
-[L'Email de la Victime]
+**[L'Email de la Victime]**
 
-[La Ville de l'Accident], le 30 juin 2026
+**[La Ville de l'Accident]**, le 30 juin 2026
 
-*Évaluation chiffrée prospective basée sur l'activité réelle déclarée de [La Victime].*
+*Évaluation chiffrée prospective basée sur l'activité réelle déclarée de **[La Victime]**.*
 
 
 === PAGE BREAK ===
@@ -46,7 +46,7 @@ L'évaluation s'effectue poste par poste à l'aide de la Nomenclature Dintilhac,
 
 *[Note Pédagogique : La Nomenclature Dintilhac n'est pas une loi contraignante mais un catalogue exhaustif des types de préjudices corporels (pertes de gains, souffrances, préjudice esthétique, etc.) garantissant qu'aucun impact de l'accident ne soit omis lors de l'indemnisation.]*
 
-L'évaluation s'appuie ici sur le statut réel de [La Victime], travailleur indépendant ([L'Identifiant Professionnel de la Victime]).
+L'évaluation s'appuie ici sur le statut réel de **[La Victime]**, travailleur indépendant (**[L'Identifiant Professionnel de la Victime]**).
 
 Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
 
@@ -109,7 +109,7 @@ La jurisprudence [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifran
 
 # V. FACTEURS D'AGGRAVATION
 
-Plusieurs éléments spécifiques aggravent le préjudice de [La Victime] :
+Plusieurs éléments spécifiques aggravent le préjudice de **[La Victime]** :
 
 - Main dominante : L'atteinte concerne l'index droit de la main utilisée pour le travail et les loisirs.
 - Métier d'informaticien : L'usage intensif du clavier est compromis par des séquelles neurologiques permanentes.
@@ -129,7 +129,7 @@ Cette étude souligne la nécessité d'une réparation intégrale tenant compte 
 ## ANNEXES ET SOURCES JURIDIQUES
 
 - [Article 1240 du Code civil - Responsabilité pour faute.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-- [Nomenclature Dintilhac] - Référentiel des préjudices.
+- **[Nomenclature Dintilhac]** - Référentiel des préjudices.
 - [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307 - Libre disposition des indemnités.](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
 - [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106 - Réserves d'aggravation.](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
 - [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173 - Incidence professionnelle (dévalorisation sociale).](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)

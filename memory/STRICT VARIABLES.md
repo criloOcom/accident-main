@@ -50,20 +50,20 @@
 ## Personnes physiques (tokens)
 | Rôle | Jeton |
 |------|-------|
-| Victime | `[La Victime]` |
-| Président de l'exploitation | `[Le Président de l'Exploitation]` |
-| Directrice Générale | `[La Directrice Générale de l'Exploitation]` |
-| Préposé (coiffeur) | `[Le Préposé de l'Exploitation]` |
-| Propriétaire des murs | `[Le Propriétaire des Murs]` |
-| Chirurgien SOS Main | `[Le Chirurgien SOS Main]` |
-| Médecin Urgence | `[Le Médecin en Urgence]` |
-| Médecin Généraliste | `[Le Médecin Généraliste]` |
-| Gestionnaire CPAM | `[La Gestionnaire CPAM]` |
+| Victime | `**[La Victime]**` |
+| Président de l'exploitation | `**[Le Président de l'Exploitation]**` |
+| Directrice Générale | `**[La Directrice Générale de l'Exploitation]**` |
+| Préposé (coiffeur) | `**[Le Préposé de l'Exploitation]**` |
+| Propriétaire des murs | `**[Le Propriétaire des Murs]**` |
+| Chirurgien SOS Main | `**[Le Chirurgien SOS Main]**` |
+| Médecin Urgence | `**[Le Médecin en Urgence]**` |
+| Médecin Généraliste | `**[Le Médecin Généraliste]**` |
+| Gestionnaire CPAM | `**[La Gestionnaire CPAM]**` |
 
 ⚠ **Statut de la SAS inconnu (2026-07-03)** : Aucune information disponible sur le statut actuel de la SAS LES MAUVAIS GARÇONS (activité, fermeture, liquidation, radiation). Les courriers recommandés envoyés le 29 juin 2026 sont restés sans réponse ni AR signé. **Ne jamais affirmer un statut juridique (liquidation, dissolution, etc.) sans source vérifiable.**
 
 ## Personnes morales (tokens)
 | Rôle | Jeton |
 |------|-------|
-| Exploitant du commerce | `[L'Exploitant du Commerce]` |
-| Établissement SOS Main | `[L'Établissement SOS Main]` |
+| Exploitant du commerce | `**[L'Exploitant du Commerce]**` |
+| Établissement SOS Main | `**[L'Établissement SOS Main]**` |
