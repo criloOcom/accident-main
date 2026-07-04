@@ -34,40 +34,29 @@ Le contentieux civil a pour objet d'obtenir la réparation intégrale des préju
 
 ### 2.1 Responsabilité du commettant (Article 1242 du Code civil)
 
-**[L'Exploitant du Commerce]** est civilement responsable des dommages causés par ses préposés dans l'exercice de leurs fonctions. L'accident est survenu pendant une prestation de coupe de cheveux réalisée par un employé de la société dans l'enceinte de l'établissement. La responsabilité de la SAS est engagée de plein droit en application de l'article 1242 du Code civil, alinéa 5 (responsabilité du commettant du fait de son préposé).
-
-Lien : [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
+**[L'Exploitant du Commerce]** est civilement responsable des dommages causés par ses préposés dans l'exercice de leurs fonctions. L'accident est survenu pendant une prestation de coupe de cheveux réalisée par un employé de la société dans l'enceinte de l'établissement. La responsabilité de la SAS est engagée de plein droit en application de [l'article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), alinéa 5 (responsabilité du commettant du fait de son préposé).
 
 ### 2.2 Action directe contre l'assureur (Article L. 124-3 du Code des assurances)
 
-L'article L. 124-3 du Code des assurances confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable (Cass. 1ère civ., 8 décembre 2021, n° 20-16.463).
+[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable ([Cass. 1ère civ., 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
 
 La mise en demeure de l'assureur a été adressée le 29 juin 2026, enjoignant à la compagnie de prendre en charge le sinistre et de procéder au règlement des préjudices sous 15 jours.
 
-Lien : [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-
 ### 2.3 Survie de la personnalité morale (Article 1844-8 du Code civil)
 
-Si **[L'Exploitant du Commerce]** venait à être dissoute ou radiée, la personnalité morale de la société survit pour les besoins de la liquidation jusqu'à la clôture de celle-ci. Ce mécanisme garantit que la société puisse encore être attraite en justice et que ses dettes soient apurées, incluant l'indemnisation due à **[La Victime]**.
-
-Lien : [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186)
+Conformément à [l'article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186), si **[L'Exploitant du Commerce]** venait à être dissoute ou radiée, la personnalité morale de la société survit pour les besoins de la liquidation jusqu'à la clôture de celle-ci. Ce mécanisme garantit que la société puisse encore être attraite en justice et que ses dettes soient apurées, incluant l'indemnisation due à **[La Victime]**.
 
 ### 2.4 Responsabilité pour faute (Article 1240 du Code civil)
 
-À titre subsidiaire, la responsabilité pour faute de **[L'Exploitant du Commerce]** est engagée sur le fondement de l'article 1240 du Code civil pour défaut d'entretien de son équipement et manquement à son obligation de sécurité. Le principe de réparation intégrale impose que la victime soit replacée dans la situation où elle se serait trouvée si l'accident n'avait pas eu lieu.
-
-Lien : [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
+À titre subsidiaire, la responsabilité pour faute de **[L'Exploitant du Commerce]** est engagée sur le fondement de [l'article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) pour défaut d'entretien de son équipement et manquement à son obligation de sécurité. Le principe de réparation intégrale impose que la victime soit replacée dans la situation où elle se serait trouvée si l'accident n'avait pas eu lieu.
 
 ## 3. Voies de procédure engagées
 
 ### 3.1 Référé-provision (Article 835 du Code de procédure civile)
 
-Une assignation en référé-provision a été rédigée le 30 juin 2026 pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive. Le référé-provision permet d'obtenir une avance rapide lorsque l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de **[L'Exploitant du Commerce]** est manifeste : un équipement instable présentant une cassure préexistante non signalée a causé un accident sur son lieu d'exploitation, par l'intermédiaire de son préposé, ce qui constitue une obligation non contestable.
+Une assignation en [référé-provision](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) (article 835 du Code de procédure civile) a été rédigée le 30 juin 2026 pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive. Le référé-provision permet d'obtenir une avance rapide lorsque l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de **[L'Exploitant du Commerce]** est manifeste : un équipement instable présentant une cassure préexistante non signalée a causé un accident sur son lieu d'exploitation, par l'intermédiaire de son préposé, ce qui constitue une obligation non contestable.
 
-La demande inclut également la désignation d'un expert médical judiciaire sur le fondement de l'article 145 du Code de procédure civile.
-
-Lien : [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
-Lien : [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+La demande inclut également la désignation d'un expert médical judiciaire sur le fondement de [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339).
 
 ### 3.2 Référé-communication de pièces (Article 145 du Code de procédure civile)
 

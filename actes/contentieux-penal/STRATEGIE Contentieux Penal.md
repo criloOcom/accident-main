@@ -42,25 +42,19 @@ Faits : le 29 mai 2026, **[La Victime]** a subi une section nerveuse et tendineu
 
 Ces faits sont constitutifs de blessures involontaires ayant entraîné une incapacité totale de travail (ITT) prévisible inférieure ou égale à trois mois.
 
-L'infraction est prévue et réprimée par l'article 222-20 du Code pénal.
-
-Lien : [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
+L'infraction est prévue et réprimée par [l'article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
 
 ### 2.2 Défaut d'assurance responsabilité civile professionnelle (Article L. 211-26 du Code des assurances)
 
-L'article L. 211-26 du Code des assurances impose à toute personne physique ou morale exerçant une activité professionnelle de souscrire une assurance de responsabilité civile couvrant les dommages causés à des tiers.
+[L'article L. 211-26 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006792596) impose à toute personne physique ou morale exerçant une activité professionnelle de souscrire une assurance de responsabilité civile couvrant les dommages causés à des tiers.
 
 **[L'Exploitant du Commerce]** n'a pas souscrit une telle assurance, ce qui constitue une infraction pénale indépendante de l'accident lui-même.
 
-Ce défaut d'assurance entrave gravement l'exercice de l'action directe de la victime contre l'assureur (article L. 124-3 du Code des assurances), privant **[La Victime]** de la garantie de paiement normalement attachée à ce mécanisme.
-
-Lien : [Article L. 211-26 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006792596)
+Ce défaut d'assurance entrave gravement l'exercice de l'action directe de la victime contre l'assureur ([article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)), privant **[La Victime]** de la garantie de paiement normalement attachée à ce mécanisme.
 
 ### 2.3 Mise en danger de la vie d'autrui — à étudier (Article 223-1 du Code pénal)
 
-Le maintien en service d'un équipement dangereux (bac à shampoing instable dont la vasque en céramique présentait une cassure majeure tranchante non signalée) exposant directement le public à un risque immédiat de blessure pourrait caractériser l'infraction de mise en danger de la vie d'autrui. Cette qualification nécessite la démonstration d'une violation délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le règlement.
-
-Lien : [Article 223-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253)
+Le maintien en service d'un équipement dangereux (bac à shampoing instable dont la vasque en céramique présentait une cassure majeure tranchante non signalée) exposant directement le public à un risque immédiat de blessure pourrait caractériser l'infraction de mise en danger de la vie d'autrui prévue à [l'article 223-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253). Cette qualification nécessite la démonstration d'une violation délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le règlement.
 
 ## 3. Procédure pénale engagée
 
@@ -86,12 +80,9 @@ Un complément de plainte pénale a été déposé le 30 juin 2026 auprès du Pr
 
 ### 3.4 Responsabilité personnelle des dirigeants
 
-Les dirigeants de **[L'Exploitant du Commerce]**, à savoir **[Le Président de l'Exploitation]** (Président) et **[La Directrice Générale de l'Exploitation]** (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales (Cass. Com., 20 mai 2003, n° 99-17.092, Arrêt SATI).
+Les dirigeants de **[L'Exploitant du Commerce]**, à savoir **[Le Président de l'Exploitation]** (Président) et **[La Directrice Générale de l'Exploitation]** (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales ([Cass. Com., 20 mai 2003, n° 99-17.092, Arrêt SATI](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)), ainsi que sur le fondement de [l'article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928).
 
 Le défaut de souscription d'assurance responsabilité civile professionnelle constitue une faute d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales, caractérisant une faute détachable engageant la responsabilité personnelle des dirigeants sur leurs biens propres.
-
-Lien : [Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928)
-Lien : [Arrêt SATI — Cass. Com., 20 mai 2003](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 ## 4. Calendrier procédural
 
