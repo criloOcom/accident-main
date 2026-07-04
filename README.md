@@ -4,8 +4,8 @@
 
 ## Navigation rapide
 
-- **[STRATEGIE Contentieux Civil](actes/STRATEGIE%20Contentieux%20Civil.md)** — actions civiles, référé-provision, action directe assureur
-- **[STRATEGIE Contentieux Penal](actes/STRATEGIE%20Contentieux%20Penal.md)** — plaintes, constitution partie civile, défaut assurance
+- **[STRATEGIE Contentieux Civil](actes/contentieux-civil/STRATEGIE%20Contentieux%20Civil.md)** — actions civiles, référé-provision, action directe assureur
+- **[STRATEGIE Contentieux Penal](actes/contentieux-penal/STRATEGIE%20Contentieux%20Penal.md)** — plaintes, constitution partie civile, défaut assurance
 - **[Index complet du dossier](actes/Index%20Etat%20Final%20Dossier.md)** — récapitulatif de toutes les pièces et actes
 - **[Plan d'action et chronologie](actes/Plan%20Action%20Chronologie.md)** — calendrier des prochaines étapes
 
@@ -17,7 +17,7 @@ accident-main/
 │   ├── contentieux-civil/   ← Actes civils (assignation, action directe, indemnisation)
 │   ├── contentieux-penal/   ← Actes pénaux (plaintes, constitution partie civile)
 │   ├── annexes/             ← Annexes (A: lexique, B: lois, C: pièces)
-│   ├── STRATEGIE ...        ← Portes d'entrée (autonomes)
+│   ├── ...                  ← 4 transversaux à la racine
 │   ├── Presentation Dossier.md
 │   ├── Index Etat Final Dossier.md
 │   ├── Plan Action Chronologie.md
@@ -35,7 +35,7 @@ Tous les actes civils sont dans le dossier [`actes/contentieux-civil/`](actes/co
 
 | Document | Description |
 |----------|-------------|
-| [STRATEGIE Contentieux Civil](actes/STRATEGIE%20Contentieux%20Civil.md) | Stratégie globale, fondements juridiques, évaluation Dintilhac 58 100 € |
+| [STRATEGIE Contentieux Civil](actes/contentieux-civil/STRATEGIE%20Contentieux%20Civil.md) | Stratégie globale, fondements juridiques, évaluation Dintilhac 58 100 € |
 | [Assignation Refere Provision FINAL](actes/contentieux-civil/Assignation%20Refere%20Provision%20FINAL.md) | Assignation référé 5 000 € + expertise médicale |
 | [Action Directe Assureur RC](actes/contentieux-civil/Action%20Directe%20Assureur%20RC.md) | Mise en demeure fondée sur l'art. L.124-3 C. assur. |
 | [Etude Indemnisation MAX](actes/contentieux-civil/Etude%20Indemnisation%20MAX.md) | Évaluation Dintilhac complète (58 100 €) |
@@ -48,7 +48,7 @@ Tous les actes pénaux sont dans le dossier [`actes/contentieux-penal/`](actes/c
 
 | Document | Description |
 |----------|-------------|
-| [STRATEGIE Contentieux Penal](actes/STRATEGIE%20Contentieux%20Penal.md) | Stratégie pénale, infractions, calendrier |
+| [STRATEGIE Contentieux Penal](actes/contentieux-penal/STRATEGIE%20Contentieux%20Penal.md) | Stratégie pénale, infractions, calendrier |
 | [Plainte Complement Defaut Assurance RC](actes/contentieux-penal/Plainte%20Complement%20Defaut%20Assurance%20RC.md) | Complément plainte — défaut d'assurance RC |
 | [Constitution Partie Civile](actes/contentieux-penal/Constitution%20Partie%20Civile.md) | Constitution de partie civile |
 | [ANALYSE Plaidoirie Dirigeants](actes/contentieux-penal/ANALYSE%20Plaidoirie%20Dirigeants.md) | Faute détachable des dirigeants (Arrêt SATI) |
