@@ -54,22 +54,30 @@ Ce défaut d'assurance entrave gravement l'exercice de l'action directe de la vi
 
 ### 2.3 Mise en danger de la vie d'autrui — à étudier (Article 223-1 du Code pénal)
 
-Le maintien en service d'un équipement dangereux (bac à shampoing instable dont la vasque en céramique présentait une cassure majeure tranchante non signalée) exposant directement le public à un risque immédiat de blessure pourrait caractériser l'infraction de mise en danger de la vie d'autrui prévue à [l'article 223-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253). Cette qualification nécessite la démonstration d'une violation délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le règlement.
+Le maintien en service d'un équipement dangereux (bac à shampoing instable dont la vasque en céramique présentait une cassure majeure tranchante non signalée) exposant directement le public à un risque immédiat de blessure pourrait caractériser l'infraction de mise en danger de la vie d'autrui prévue à [l'article 223-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253).
+
+Cette qualification nécessite la démonstration d'une violation délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le règlement.
 
 ## 3. Procédure pénale engagée
 
 ### 3.1 Dépôt de plainte initial
 
-Une plainte a été déposée le 1er juin 2026 auprès des services de police de la TRD (Territoire de Recherche et de Développement). Les policiers ont établi un procès-verbal de constat le 2 juin 2026 sous le numéro 2026/015967, qui décrit les circonstances de l'accident et les constatations matérielles effectuées sur place.
+Une plainte a été déposée le 1er juin 2026 auprès des services de police de la TRD (Territoire de Recherche et de Développement).
+
+Les policiers ont établi un procès-verbal de constat le 2 juin 2026 sous le numéro 2026/015967, qui décrit les circonstances de l'accident et les constatations matérielles effectuées sur place.
 
 ### 3.2 Constitution de partie civile
 
 Une constitution de partie civile a été formée par **[La Victime]** le 30 juin 2026 devant le Tribunal Correctionnel de **[La Ville de l'Accident]**. Cette démarche, fondée sur les articles 2 et suivants du Code de procédure pénale, permet à **[La Victime]** de :
 
 - Participer activement à la procédure pénale
+
 - Accéder au dossier d'enquête et aux pièces de la procédure
+
 - Solliciter l'indemnisation de ses préjudices devant la juridiction répressive
+
 - Être informée de l'avancement de la procédure
+
 - Former appel des décisions rendues
 
 La constitution de partie civile peut être réalisée par déclaration au greffe avant l'audience, par courrier recommandé, ou directement à l'audience.
