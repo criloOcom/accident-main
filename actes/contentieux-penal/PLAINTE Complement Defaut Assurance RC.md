@@ -58,9 +58,15 @@ Cette infraction, prévue et réprimée par [l'article L. 211-26 du Code des ass
 
 ## I. Exposé des Faits
 
-Le 29 mai 2026, **[La Victime]** a été victime d'un accident corporel grave au sein du salon de coiffure exploité par **[L'Exploitant du Commerce]**, sise **[L'Adresse de l'Exploitation]**. Alors que l'employé coiffeur était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger le coiffeur ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit. Ces faits, constitutifs de blessures involontaires au sens de [l'article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042635), ont fait l'objet d'une plainte initiale enregistrée sous le numéro [ ... ].
+Le 29 mai 2026, **[La Victime]** a été victime d'un accident corporel grave au sein du salon de coiffure exploité par **[L'Exploitant du Commerce]**, sise **[L'Adresse de l'Exploitation]**. 
 
-Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce]**. Ni le Président de la SAS, **[Le Président de l'Exploitation]**, ni la co-dirigeante, **[La Directrice Générale de l'Exploitation]**, n'ont déféré aux demandes amiables de **[La Victime]**, ni à celles adressées au propriétaire des murs, **[Le Propriétaire des Murs]**. Ce silence persistant, malgré l'envoi de courriers recommandés le 29 juin 2026, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
+Alors que l'employé coiffeur était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger le coiffeur ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
+
+Ces faits, constitutifs de blessures involontaires au sens de [l'article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042635), ont fait l'objet d'une plainte initiale enregistrée sous le numéro [ ... ].
+
+Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce]**. Ni le Président de la SAS, **[Le Président de l'Exploitation]**, ni la co-dirigeante, **[La Directrice Générale de l'Exploitation]**, n'ont déféré aux demandes amiables de **[La Victime]**, ni à celles adressées au propriétaire des murs, **[Le Propriétaire des Murs]**. 
+
+Ce silence persistant, malgré l'envoi de courriers recommandés le 29 juin 2026, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
 
 
 === PAGE BREAK ===
@@ -69,7 +75,11 @@ Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la comm
 
 ### A. Sur le défaut d'assurance de responsabilité civile
 
-En vertu de [l'article L. 243-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006792596) et de [l'article L. 111-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006792596), l'exploitant d'un établissement recevant du public est tenu de souscrire une assurance couvrant sa responsabilité civile pour les dommages causés aux tiers. En l'espèce, **[L'Exploitant du Commerce]** manipule des produits chimiques et des équipements lourds présentant un risque inhérent pour la clientèle. L'absence de communication spontanée d'une attestation d'assurance fait craindre un manquement à cette obligation légale, aggravant la responsabilité des dirigeants.
+En vertu de [l'article L. 243-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006792596) et de [l'article L. 111-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006792596), l'exploitant d'un établissement recevant du public est tenu de souscrire une assurance couvrant sa responsabilité civile pour les dommages causés aux tiers.
+
+En l'espèce, **[L'Exploitant du Commerce]** manipule des produits chimiques et des équipements lourds présentant un risque inhérent pour la clientèle.
+
+L'absence de communication spontanée d'une attestation d'assurance fait craindre un manquement à cette obligation légale, aggravant la responsabilité des dirigeants.
 
 ### B. Sur l'entrave à l'exercice de l'action directe
 
@@ -108,8 +118,11 @@ L'absence de communication de l'assurance bloque toute offre d'indemnisation ami
 Par ces motifs, **[La Victime]** sollicite qu'il plaise à Monsieur le Procureur de la République d'ordonner une enquête complémentaire visant à :
 
 1. Vérifier l'existence et la validité du contrat d'assurance de responsabilité civile de **[L'Exploitant du Commerce]** au jour du sinistre ;
+
 2. Identifier la compagnie d'assurance concernée par tout moyen d'investigation (Fichier Central des Assurances, ORIAS) ;
+
 3. Recueillir les explications des mis en cause sur la dissimulation des informations d'assurance ;
+
 4. Ordonner la préservation urgente et la saisie des enregistrements de vidéosurveillance du salon pour la journée du 29 mai 2026, afin de prévenir toute destruction de preuve.
 
 Le plaignant se constitue partie civile et se tient à la disposition de la justice pour toute mesure d'expertise ou audition nécessaire à la manifestation de la vérité.

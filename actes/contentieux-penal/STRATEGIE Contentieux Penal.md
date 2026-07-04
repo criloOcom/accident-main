@@ -86,7 +86,9 @@ La constitution de partie civile peut être réalisée par déclaration au greff
 
 ### 3.3 Complément de plainte pour défaut d'assurance
 
-Un complément de plainte pénale a été déposé le 30 juin 2026 auprès du Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** pour dénoncer le défaut d'assurance de responsabilité civile professionnelle. Ce complément vise à permettre à l'autorité judiciaire de constater l'infraction prévue à [l'article L. 211-26 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006792596) et d'y apporter une réponse pénale appropriée.
+Un complément de plainte pénale a été déposé le 30 juin 2026 auprès du Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** pour dénoncer le défaut d'assurance de responsabilité civile professionnelle.
+
+Ce complément vise à permettre à l'autorité judiciaire de constater l'infraction prévue à [l'article L. 211-26 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006792596) et d'y apporter une réponse pénale appropriée.
 
 ### 3.4 Responsabilité personnelle des dirigeants
 

@@ -45,20 +45,14 @@ Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053](ht
 
 ## Jurisprudence
 
-• **Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)** — Faute détachable de ses fonctions du dirigeant
-Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
+• **[Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)** — Faute détachable de ses fonctions du dirigeant
 
-• **Civ. 2e, 4 avril 2019, n° 18-14.933** — Incidence professionnelle et perte de gains futurs
-Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000038340141](https://www.legifrance.gouv.fr/juri/id/JURITEXT000038340141)
+• **[Civ. 2e, 4 avril 2019, n° 18-14.933](https://www.legifrance.gouv.fr/juri/id/JURITEXT000038340141)** — Incidence professionnelle et perte de gains futurs
 
-• **Civ. 2e, 6 mai 2021, n° 19-23.173** — Incidence professionnelle (dévalorisation sociale, exclusion du monde du travail)
-Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
+• **[Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)** — Incidence professionnelle (dévalorisation sociale, exclusion du monde du travail)
 
-• **Civ. 2e, 8 juillet 2021, n° 20-15.106** — Exigences probatoires rigoureuses pour l'indemnisation
-Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
+• **[Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)** — Exigences probatoires rigoureuses pour l'indemnisation
 
-• **Civ. 1ère, 8 décembre 2021, n° 20-16.463** — Action directe recevable contre l'assureur d'une société dissoute
-Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
+• **[Civ. 1ère, 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)** — Action directe recevable contre l'assureur d'une société dissoute
 
-• **Civ. 2e, 4 avril 2024, n° 22-19.307** — Réparation intégrale et principe de libre disposition des fonds
-Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
+• **[Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)** — Réparation intégrale et principe de libre disposition des fonds

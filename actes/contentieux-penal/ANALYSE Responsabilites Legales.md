@@ -27,6 +27,7 @@ Rédigé le 30 juin 2026
 L'analyse approfondie du dossier relatif à l'accident survenu le 29 mai 2026 au sein de l'établissement exploité par **[L'Exploitant du Commerce]** — au cours duquel **[La Victime]**, informaticien indépendant, a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes — permet de dégager deux axes de responsabilité majeurs.
 
 - D'une part, la **responsabilité pénale** de la structure et de ses dirigeants pour manquement caractérisé aux obligations de sécurité.
+
 - D'autre part, une **responsabilité civile** de plein droit.
 
 Cette note vise à structurer les fondements juridiques permettant d'assurer la réparation intégrale du préjudice subi.
@@ -38,7 +39,9 @@ Cette note vise à structurer les fondements juridiques permettant d'assurer la 
 
 Le salon est susceptible de voir sa responsabilité engagée sur le fondement de [l'article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
 
-Ce texte réprime les blessures involontaires ayant entraîné une ITT inférieure ou égale à trois mois par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement. En l'espèce, la section nerveuse et tendineuse profonde de l'index droit de **[La Victime]** a entraîné une ITT de 56 jours.
+Ce texte réprime les blessures involontaires ayant entraîné une ITT inférieure ou égale à trois mois par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement.
+
+En l'espèce, la section nerveuse et tendineuse profonde de l'index droit de **[La Victime]** a entraîné une ITT de 56 jours.
 
 ### A. Manquement à l'obligation de sécurité et de prudence
 
@@ -113,13 +116,7 @@ La responsabilité de **[L'Exploitant du Commerce]** est solidement établie tan
 L'étape suivante consiste à :
 
 - Formaliser les demandes d'indemnisation via une mise en demeure de l'assureur.
+
 - Et, si nécessaire, une action en justice pour faute détachable contre les dirigeants.
 
 Garantir l'exécution des obligations de réparation.
-
-
-=== PAGE BREAK ===
-
-
-
----
