@@ -43,7 +43,7 @@ PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE [LA VILLE DE L'ACCIDE
 
 # I. EXPOSÉ DES FAITS
 
-Le 29 mai 2026, [La Victime] s'est rendu au salon de coiffure exploité par [L'Exploitant du Commerce] pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero (15,00 €).
+Le 29 mai 2026, **[La Victime]** s'est rendu au salon de coiffure exploité par [L'Exploitant du Commerce] pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero (15,00 €).
 
 Alors qu'il se trouvait au bac à shampoing, [Le Préposé de l'Exploitation], qui était monté sur la vasque en céramique, a provoqué le basculement brutal de l'équipement en tentant d'en descendre. Par un réflexe d'assistance pour retenir la chute, [La Victime] a tendu sa main droite, qui a heurté une cassure majeure préexistante non signalée sur le flanc de la vasque.
 
