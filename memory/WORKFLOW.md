@@ -12,7 +12,7 @@
 
 ## Après injection (application de la charte DESIGN.md) :
 - **NE PAS** inclure l'ANNEXE 1 (tableau des acteurs) dans les copies UNIFIE_ANONYME — elle contient la correspondance jeton ↔ identité réelle
-- Les tables de correspondance sont conservées dans TOKEN_MAP.md (hors du Drive)
+- Les tables de correspondance sont conservées dans TOKEN MAP.md (hors du Drive)
 - **Appliquer la charte graphique** définie dans `memory/DESIGN.md` :
   1. `applyParagraphStyle` → JUSTIFIED sur tout le document
   2. `applyTextStyle` → liens Légifrance/Judilibre sur les refs légales

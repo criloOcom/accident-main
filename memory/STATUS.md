@@ -29,7 +29,7 @@
 ## Phase 3 — Annexe C ajoutée aux 14 documents ✅
 
 ### Ce qui a été fait
-- PIECES_MAP.md créé dans `memory/` avec mapping complet document→pièces
+- PIECES MAP.md créé dans `memory/` avec mapping complet document→pièces
 - Annexe C générée sur mesure pour chaque document (listes à puces, liens Drive cliquables)
 - Chaque Annexe C liste les pièces spécifiquement citées dans le contenu du document
 - Docs 1-4 (procéduraux) → pièces financières, médicales, pénales, CPAM
@@ -51,7 +51,7 @@ Tous les 14 documents UNIFIE_ANONYME contiennent :
 ### Date de naissance erronée
 - Doc 1 (Assignation FINAL) : « né le **12 mars** 1982 » → corrigé en « né le **18 janvier** 1982 »
 - Cause racine : contamination par template sans boucle de vérification
-- Solution : création de `STRICT_VARIABLES.md` + règle Double-Pass dans `RULES.md`
+- Solution : création de `STRICT VARIABLES.md` + règle Double-Pass dans `RULES.md`
 
 ### Correction factuelle (mensonges éradiqués)
 
@@ -85,7 +85,7 @@ Doc 11 (ANALYSE et correction juridique) affirmait comme un fait certain :
 > *"À ce jour, le statut exact de L'Exploitant demeure incertain : les courriers recommandés adressés le 29 juin 2026 à la société et à ses dirigeants sont restés sans réponse ni accusé de réception signé."*
 
 ### Règles ajoutées
-- **STRICT_VARIABLES.md** : ⚠ Statut de la SAS inconnu — ne jamais inventer
+- **STRICT VARIABLES.md** : ⚠ Statut de la SAS inconnu — ne jamais inventer
 - **RULES.md** : INTERDICTION D'INVENTER UN STATUT JURIDIQUE — pas de statut sans source
 
 ## Correction #2026-07-03b — Pages d'introduction insérées dans les 13 documents

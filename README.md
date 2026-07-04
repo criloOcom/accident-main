@@ -6,8 +6,8 @@
 
 - **[STRATEGIE Contentieux Civil](actes/contentieux-civil/STRATEGIE%20Contentieux%20Civil.md)** — actions civiles, référé-provision, action directe assureur
 - **[STRATEGIE Contentieux Penal](actes/contentieux-penal/STRATEGIE%20Contentieux%20Penal.md)** — plaintes, constitution partie civile, défaut assurance
-- **[Index complet du dossier](actes/Index%20Etat%20Final%20Dossier.md)** — récapitulatif de toutes les pièces et actes
-- **[Plan d'action et chronologie](actes/Plan%20Action%20Chronologie.md)** — calendrier des prochaines étapes
+- **[Index complet du dossier](actes/INDEX%20Etat%20Final%20Dossier.md)** — récapitulatif de toutes les pièces et actes
+- **[Plan d'action et chronologie](actes/PLAN%20Action%20Chronologie.md)** — calendrier des prochaines étapes
 
 ## Arborescence
 
@@ -18,10 +18,10 @@ accident-main/
 │   ├── contentieux-penal/   ← Actes pénaux (plaintes, constitution partie civile)
 │   ├── annexes/             ← Annexes (A: lexique, B: lois, C: pièces)
 │   ├── ...                  ← 4 transversaux à la racine
-│   ├── Presentation Dossier.md
-│   ├── Index Etat Final Dossier.md
-│   ├── Plan Action Chronologie.md
-│   └── Synthese FAQ.md
+  │   ├── PRESENTATION Dossier.md
+  │   ├── INDEX Etat Final Dossier.md
+  │   ├── PLAN Action Chronologie.md
+  │   └── SYNTHESE FAQ.md
 ├── pieces/                  ← 19 pièces originales extraites des PDFs
 ├── memory/                  ← Mémoire persistante pour les agents IA
 └── app/                     ← Scripts Python
@@ -36,9 +36,9 @@ Tous les actes civils sont dans le dossier [`actes/contentieux-civil/`](actes/co
 | Document | Description |
 |----------|-------------|
 | [STRATEGIE Contentieux Civil](actes/contentieux-civil/STRATEGIE%20Contentieux%20Civil.md) | Stratégie globale, fondements juridiques, évaluation Dintilhac 58 100 € |
-| [Assignation Refere Provision FINAL](actes/contentieux-civil/Assignation%20Refere%20Provision%20FINAL.md) | Assignation référé 5 000 € + expertise médicale |
-| [Action Directe Assureur RC](actes/contentieux-civil/Action%20Directe%20Assureur%20RC.md) | Mise en demeure fondée sur l'art. L.124-3 C. assur. |
-| [Etude Indemnisation MAX](actes/contentieux-civil/Etude%20Indemnisation%20MAX.md) | Évaluation Dintilhac complète (58 100 €) |
+| [ASSIGNATION Refere Provision](actes/contentieux-civil/ASSIGNATION%20Refere%20Provision.md) | Assignation référé 5 000 € + expertise médicale |
+| [ACTION Directe Assureur RC](actes/contentieux-civil/ACTION%20Directe%20Assureur%20RC.md) | Mise en demeure fondée sur l'art. L.124-3 C. assur. |
+| [ETUDE Indemnisation MAX](actes/contentieux-civil/ETUDE%20Indemnisation%20MAX.md) | Évaluation Dintilhac complète (58 100 €) |
 | [ANALYSE Correction Juridique](actes/contentieux-civil/ANALYSE%20Correction%20Juridique.md) | Mémorandum d'audit et restructuration |
 | [ANALYSE Jurisprudence](actes/contentieux-civil/ANALYSE%20Jurisprudence.md) | Analyse des préjudices et jurisprudences |
 
@@ -49,8 +49,8 @@ Tous les actes pénaux sont dans le dossier [`actes/contentieux-penal/`](actes/c
 | Document | Description |
 |----------|-------------|
 | [STRATEGIE Contentieux Penal](actes/contentieux-penal/STRATEGIE%20Contentieux%20Penal.md) | Stratégie pénale, infractions, calendrier |
-| [Plainte Complement Defaut Assurance RC](actes/contentieux-penal/Plainte%20Complement%20Defaut%20Assurance%20RC.md) | Complément plainte — défaut d'assurance RC |
-| [Constitution Partie Civile](actes/contentieux-penal/Constitution%20Partie%20Civile.md) | Constitution de partie civile |
+| [PLAINTE Complement Defaut Assurance RC](actes/contentieux-penal/PLAINTE%20Complement%20Defaut%20Assurance%20RC.md) | Complément plainte — défaut d'assurance RC |
+| [CONSTITUTION Partie Civile](actes/contentieux-penal/CONSTITUTION%20Partie%20Civile.md) | Constitution de partie civile |
 | [ANALYSE Plaidoirie Dirigeants](actes/contentieux-penal/ANALYSE%20Plaidoirie%20Dirigeants.md) | Faute détachable des dirigeants (Arrêt SATI) |
 | [ANALYSE Responsabilites Legales](actes/contentieux-penal/ANALYSE%20Responsabilites%20Legales.md) | Fondements de la responsabilité |
 
@@ -58,10 +58,10 @@ Tous les actes pénaux sont dans le dossier [`actes/contentieux-penal/`](actes/c
 
 | Document | Description |
 |----------|-------------|
-| [Presentation Dossier](actes/Presentation%20Dossier.md) | Présentation complète du dossier |
-| [Index Etat Final Dossier](actes/Index%20Etat%20Final%20Dossier.md) | Index récapitulatif |
-| [Plan Action Chronologie](actes/Plan%20Action%20Chronologie.md) | Chronologie et plan d'action |
-| [Synthese FAQ](actes/Synthese%20FAQ.md) | Synthèse juridique et questions fréquentes |
+| [PRESENTATION Dossier](actes/PRESENTATION%20Dossier.md) | Présentation complète du dossier |
+| [INDEX Etat Final Dossier](actes/INDEX%20Etat%20Final%20Dossier.md) | Index récapitulatif |
+| [PLAN Action Chronologie](actes/PLAN%20Action%20Chronologie.md) | Chronologie et plan d'action |
+| [SYNTHESE FAQ](actes/SYNTHESE%20FAQ.md) | Synthèse juridique et questions fréquentes |
 
 ### Annexes
 

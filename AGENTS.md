@@ -10,11 +10,11 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
 ├── memory/                ← Mémoire persistante partagée entre tous les agents
 │   ├── STATUS.md          ← État d'avancement détaillé
 │   ├── WORKFLOW.md        ← Procédure d'anonymisation
-│   ├── TOKEN_MAP.md       ← Correspondance jeton ↔ identité réelle
+│   ├── TOKEN MAP.md       ← Correspondance jeton ↔ identité réelle
 │   ├── DECISIONS.md       ← Décisions d'architecture et règles
 │   ├── RULES.md           ← Règles permanentes (INTERDICTIONS incluses)
-│   ├── STRICT_VARIABLES.md ← Source Unique de Vérité (dates, montants, faits)
-│   └── PIECES_MAP.md      ← Correspondance document → pièces citées (Annexe C)
+│   ├── STRICT VARIABLES.md ← Source Unique de Vérité (dates, montants, faits)
+│   └── PIECES MAP.md      ← Correspondance document → pièces citées (Annexe C)
 ├── app/
 │   ├── agent.py           ← Définition du multi-agent ADK
 │   ├── batch_anonymize.py ← Script d'anonymisation (source officielle des tokens)
@@ -29,7 +29,7 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
 
 1. **Toute mémoire persistante** doit être dans `/home/crilocom/accident-main/memory/` — **PAS** dans un dossier privé d'agent
 2. **Toute modification** de document Google Docs doit suivre le workflow décrit dans `memory/WORKFLOW.md`
-3. **Les tokens d'anonymisation** sont définis dans `app/batch_anonymize.py` — toute modification des tokens doit être faite dans les DEUX endroits (script + TOKEN_MAP.md)
+3. **Les tokens d'anonymisation** sont définis dans `app/batch_anonymize.py` — toute modification des tokens doit être faite dans les DEUX endroits (script + TOKEN MAP.md)
 4. **Compétences MCP** disponibles dans `/home/crilocom/.agents/skills/` :
    - `google-docs-linking` — insertion de liens Légifrance/Judilibre
    - `google-docs-design` — mise en page professionnelle

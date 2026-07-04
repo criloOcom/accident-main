@@ -8,9 +8,9 @@ Ce fichier documente tout ce que Jules (Google Jules) doit savoir pour travaille
 accident-main/
 ├── markdown_normalized/    ← Source de vérité : 14 fichiers .md prêts à injecter
 ├── memory/                 ← Mémoire persistante partagée
-│   ├── PIECES_MAP.md       ← Mapping fichier.md ↔ Google Doc ID (indispensable !)
-│   ├── TOKEN_MAP.md        ← Correspondance jetons ↔ identités réelles
-│   ├── STRICT_VARIABLES.md ← Dates, montants, faits vérifiés
+│   ├── PIECES MAP.md       ← Mapping fichier.md ↔ Google Doc ID (indispensable !)
+│   ├── TOKEN MAP.md        ← Correspondance jetons ↔ identités réelles
+│   ├── STRICT VARIABLES.md ← Dates, montants, faits vérifiés
 │   ├── RULES.md            ← Règles permanentes et interdictions
 │   ├── DECISIONS.md        ← Décisions d'architecture
 │   └── STATUS.md           ← État d'avancement détaillé
@@ -46,7 +46,7 @@ Les fichiers `.md` dans `markdown_normalized/` utilisent le marqueur `=== PAGE B
 
 ## Mapping fichiers ↔ Google Docs
 
-Le fichier `memory/PIECES_MAP.md` contient le mapping complet :
+Le fichier `memory/PIECES MAP.md` contient le mapping complet :
 - Nom du fichier `.md` → ID Google Docs
 - Les IDs sont stables (ne changent pas après renommage)
 
@@ -223,7 +223,7 @@ readDocument(documentId, maxLength=500)
 ## Règles importantes
 
 1. **Ne JAMAIS inventer de statut juridique** — si une info n'est pas dans les sources, ne pas l'inventer
-2. **Toujours vérifier** les tokens d'anonymisation dans `memory/TOKEN_MAP.md` avant modification
+2. **Toujours vérifier** les tokens d'anonymisation dans `memory/TOKEN MAP.md` avant modification
 3. **Les sauts de page** (`=== PAGE BREAK ===`) sont obligatoires : intro, sections, annexes
-4. **Le mapping** fichier ↔ Google Doc est dans `memory/PIECES_MAP.md` — le consulter avant toute injection
+4. **Le mapping** fichier ↔ Google Doc est dans `memory/PIECES MAP.md` — le consulter avant toute injection
 5. **Ne pas modifier** directement les Google Docs avec find/replace ou regex — toujours passer par `replaceDocumentWithMarkdown`

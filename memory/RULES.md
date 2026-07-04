@@ -17,7 +17,7 @@
 - **INTERDIT** `deleteContentRange` + `insertText` pour réécrire un doc (détruit formatage)
 - **INTERDIT** d'insérer des fichiers .md, .txt dans le Drive (sauf ARCHIVES)
 - **INTERDIT** d'inclure les annexes de correspondance (jeton ↔ identité réelle) dans les copies UNIFIE_ANONYME
-- **INTERDIT** d'utiliser des numéros de pièce (Pièce n°X) sans validation explicite de l'utilisateur. Ce qui identifie une pièce est le triplet **(date, émetteur, objet)** — pas un numéro. Les colonnes N° du spreadsheet sont provisoires, non validées, et ne doivent pas être citées dans les documents ni dans PIECES_MAP.md.
+- **INTERDIT** d'utiliser des numéros de pièce (Pièce n°X) sans validation explicite de l'utilisateur. Ce qui identifie une pièce est le triplet **(date, émetteur, objet)** — pas un numéro. Les colonnes N° du spreadsheet sont provisoires, non validées, et ne doivent pas être citées dans les documents ni dans PIECES MAP.md.
 
 ## MÉTHODE AUTORISÉE POUR L'ANONYMIZATION
 1. `readDocument` → copier le texte localement dans `/tmp/`
@@ -42,9 +42,9 @@
 
 ## VÉRIFICATION OBLIGATOIRE AVANT FINALISATION (DOUBLE-PASS)
 - Avant de finaliser l'écriture de tout document, extraire toutes les dates, montants et identifiants
-- Comparer UN PAR UN avec le fichier `memory/STRICT_VARIABLES.md`
+- Comparer UN PAR UN avec le fichier `memory/STRICT VARIABLES.md`
 - Si une seule donnée diffère, CORRIGER le document avant de le présenter
-- Ne JAMAIS inventer une date, un montant ou un identifiant — utiliser uniquement les valeurs de STRICT_VARIABLES.md
+- Ne JAMAIS inventer une date, un montant ou un identifiant — utiliser uniquement les valeurs de STRICT VARIABLES.md
 
 ## ANTI-RÉGRESSION — VÉRIFICATION CROSS-DOCUMENT OBLIGATOIRE
 - Après TOUTE modification d'un fichier dans `actes/`, `memory/`, ou `annexes/`, lancer impérativement : `python3 app/check_consistency.py`

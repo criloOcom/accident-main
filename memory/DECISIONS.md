@@ -24,7 +24,7 @@
 - **Les annexes contenant la correspondance jeton ↔ identité réelle ne doivent PAS être incluses dans les copies UNIFIE_ANONYME**
 - Ces annexes (ANNEXE 1 — Tableau des acteurs) exposent les noms réels et annulent l'anonymisation
 - Les docs 1, 2, 4 ont dû être corrigés a posteriori pour retirer ces annexes
-- La table de correspondance est conservée uniquement dans TOKEN_MAP.md (hors Drive)
+- La table de correspondance est conservée uniquement dans TOKEN MAP.md (hors Drive)
 
 ## Identifiants des pièces — RÈGLE 2026-07-02
 - **L'identifiant d'une pièce est le triplet (date, émetteur, objet)** — pas un numéro
