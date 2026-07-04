@@ -101,10 +101,3 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 Mes coordonnées : **[L'Adresse de la Victime]** / Courriel : **[L'Email de la Victime]**
 
 **[La Victime]**
-
-
-=== PAGE BREAK ===
-
-
-
----
