@@ -6,7 +6,7 @@ from pylegifrance import ApiConfig
 from pylegifrance.models.generated.model import (
     SearchRequestDTO, RechercheSpecifiqueDTO, ChampDTO, CritereDTO,
     Operateur, TypeChamp, TypeRecherche, TypePagination, Fond,
-    JuriConsultRequest, ConsultRequest,
+    JuriConsultRequest, LegiConsultRequest,
 )
 from pylegifrance.utils import EnumEncoder
 
@@ -115,7 +115,7 @@ class LegifranceClient:
         cached = offline_cache.load(f"legifrance:texte:{text_id}")
         if cached:
             return cached
-        payload = ConsultRequest(textId=text_id).model_dump(by_alias=True, exclude_none=True)
+        payload = {"id": text_id}
         result = self._make_request("consult/texte", payload)
         offline_cache.save(f"legifrance:texte:{text_id}", result, ttl=86400)
         return result
@@ -124,7 +124,7 @@ class LegifranceClient:
         cached = offline_cache.load(f"legifrance:article:{text_id}")
         if cached:
             return cached
-        payload = ConsultRequest(textId=text_id).model_dump(by_alias=True, exclude_none=True)
-        result = self._make_request("consult/code", payload)
+        payload = {"id": text_id}
+        result = self._make_request("consult/getArticle", payload)
         offline_cache.save(f"legifrance:article:{text_id}", result, ttl=86400)
         return result
