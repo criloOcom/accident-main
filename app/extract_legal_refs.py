@@ -28,7 +28,7 @@ LEGAL_REFS = {
     "CCASS.20-16.463": {"title": "Civ. 1ère, 8 décembre 2021, n° 20-16.463", "desc": "Action directe recevable contre l'assureur d'une société dissoute", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848"},
     "CCASS.22-19.307": {"title": "Civ. 2e, 4 avril 2024, n° 22-19.307", "desc": "Réparation intégrale et principe de libre disposition des fonds", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278"},
     "CCASS.20-15.106": {"title": "Civ. 2e, 8 juillet 2021, n° 20-15.106", "desc": "Exigences probatoires rigoureuses pour l'indemnisation", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126"},
-    "CCASS.17-26.282": {"title": "Civ. 2e, 15 novembre 2018, n° 17-26.282", "desc": "Incidence professionnelle indépendante du niveau de revenus", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000037672235"},
+    "CCASS.19-23.173": {"title": "Civ. 2e, 6 mai 2021, n° 19-23.173", "desc": "Incidence professionnelle (dévalorisation sociale, exclusion du monde du travail)", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943"},
     "CCASS.82-14.836": {"title": "Cass. Ass. Plén., 9 mai 1984, n° 82-14.836 (Arrêt Gabillet)", "desc": "Responsabilité du fait des choses de plein droit", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000007013897"},
     "CCASS.16-24.631": {"title": "Civ. 2e, 16 novembre 2017, n° 16-24.631", "desc": "Acte d'assistance spontané exclut la faute de la victime", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000036063717"},
     "CCASS.14-15.326": {"title": "Civ. 3e, 10 mars 2016, n° 14-15.326", "desc": "Défaut d'assurances professionnelles = faute détachable", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000032210878"},

@@ -174,7 +174,7 @@ Ce document utilise des jetons pour protéger l'identité des personnes. Voici l
 
 **Jurisprudence**
 
-• **Civ. 2e, 15 novembre 2018, n° 17-26.282** — Incidence professionnelle indépendante du niveau de revenus Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000037672235](https://www.legifrance.gouv.fr/juri/id/JURITEXT000037672235)
+• **Civ. 2e, 6 mai 2021, n° 19-23.173** — Incidence professionnelle (dévalorisation sociale, exclusion du monde du travail) Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
 
 • **Civ. 2e, 8 juillet 2021, n° 20-15.106** — Exigences probatoires rigoureuses pour l'indemnisation Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
 

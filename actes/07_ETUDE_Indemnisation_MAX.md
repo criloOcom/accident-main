@@ -102,7 +102,7 @@ Selon l'arrêt [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifr
 
 ### C. Incidence professionnelle
 
-La jurisprudence [Cass. Civ. 2e, 15 novembre 2018, n° 17-26.282](https://www.legifrance.gouv.fr/juri/id/JURITEXT000037679875) distingue clairement l'incidence professionnelle (conséquences structurelles) des pertes de gains futurs.
+La jurisprudence [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) rappelle que l'incidence professionnelle est un préjudice distinct indemnisant notamment la dévalorisation sociale ressentie par la victime du fait de son exclusion du monde du travail.
 
 
 === PAGE BREAK ===
@@ -132,7 +132,7 @@ Cette étude souligne la nécessité d'une réparation intégrale tenant compte 
 - [Nomenclature Dintilhac] - Référentiel des préjudices.
 - [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307 - Libre disposition des indemnités.](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
 - [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106 - Réserves d'aggravation.](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
-- [Cass. Civ. 2e, 15 novembre 2018, n° 17-26.282 - Incidence professionnelle.](https://www.legifrance.gouv.fr/juri/id/JURITEXT000037679875)
+- [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173 - Incidence professionnelle (dévalorisation sociale).](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
 
 Pour justifier solidement l'Incidence Professionnelle de 15 000 €, il convient d'annexer au dossier d'expertise des devis précis pour l'acquisition d'outils d'accessibilité (logiciel de dictée vocale Dragon Professionnel, clavier ergonomique scindé, souris verticale).
 
@@ -220,7 +220,7 @@ Ce document utilise des jetons pour protéger l'identité des personnes. Voici l
 
 **Jurisprudence**
 
-• **Civ. 2e, 15 novembre 2018, n° 17-26.282** — Incidence professionnelle indépendante du niveau de revenus Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000037672235](https://www.legifrance.gouv.fr/juri/id/JURITEXT000037672235)
+• **Civ. 2e, 6 mai 2021, n° 19-23.173** — Incidence professionnelle (dévalorisation sociale, exclusion du monde du travail) Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
 
 • **Civ. 2e, 8 juillet 2021, n° 20-15.106** — Exigences probatoires rigoureuses pour l'indemnisation Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
 
