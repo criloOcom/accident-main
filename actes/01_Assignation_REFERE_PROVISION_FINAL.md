@@ -24,7 +24,11 @@ Rédigé le 30 juin 2026
 
 # INTRODUCTION
 
-La présente assignation en référé-provision et demande d'expertise médicale est introduite par [La Victime] à l'encontre de [L'Exploitant du Commerce], personne morale exploitant un salon de coiffure au sein duquel la victime a subi un grave accident corporel le 29 mai 2026. Par cet acte, [La Victime] sollicite du président du Tribunal Judiciaire de [La Ville de l'Accident], statuant en référé, l'allocation d'une provision de 5 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de l'article 835 du Code de procédure civile. Elle demande en outre la désignation d'un expert médical judiciaire sur le fondement de l'article 145 du même code, afin de décrire l'étendue de ses séquelles et d'évaluer chacun des postes de préjudice corporel selon la nomenclature Dintilhac.
+La présente assignation en référé-provision et demande d'expertise médicale est introduite par [La Victime] à l'encontre de [L'Exploitant du Commerce], personne morale exploitant un salon de coiffure au sein duquel la victime a subi un grave accident corporel le 29 mai 2026.
+
+Par cet acte, [La Victime] sollicite du président du Tribunal Judiciaire de [La Ville de l'Accident], statuant en référé, l'allocation d'une provision de 5 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de l'article 835 du Code de procédure civile.
+
+Elle demande en outre la désignation d'un expert médical judiciaire sur le fondement de l'article 145 du même code, afin de décrire l'étendue de ses séquelles et d'évaluer chacun des postes de préjudice corporel selon la nomenclature Dintilhac.
 
 l Judiciaire de [La Ville de l'Accident] (Cabinet du Juge des Référés)
 
