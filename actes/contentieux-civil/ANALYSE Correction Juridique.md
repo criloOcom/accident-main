@@ -35,7 +35,7 @@ Le présent mémorandum juridique constitue un audit stratégique et une restruc
 
 Le 29 mai 2026, **[La Victime]** a subi un grave accident corporel au sein du salon exploité par la SAS Les Mauvais Garçons (l'Exploitant).
 
-Le basculement d'un équipement défectueux a provoqué une section nerveuse et tendineuse majeure à sa main dominante.
+Alors que l'employé coiffeur était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger le coiffeur ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse majeure à sa main dominante.
 
 L'affaire met en cause la responsabilité de la personne morale, dirigée par **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, ainsi que le fait de son préposé.
 
@@ -48,7 +48,7 @@ L'affaire met en cause la responsabilité de la personne morale, dirigée par **
 
 ## A. Responsabilité de plein droit et obligation de sécurité
 
-La responsabilité de la SAS est engagée de plein droit en sa qualité de gardienne du bac à shampoing défectueux sur le fondement de l'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000). Par ailleurs, l'[Article L. 421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) impose une obligation générale de sécurité des services, dont la violation est caractérisée par le maintien en service d'un équipement dangereux.
+La responsabilité de la SAS est engagée de plein droit en sa qualité de gardienne du bac à shampoing instable — dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes — sur le fondement de l'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000). Par ailleurs, l'[Article L. 421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) impose une obligation générale de sécurité des services, dont la violation est caractérisée par le maintien en service d'un équipement dangereux (vasque cassée non signalée, instabilité du meuble).
 
 ## B. La faute détachable des dirigeants
 

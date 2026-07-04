@@ -26,7 +26,7 @@ Rédigé le 4 juillet 2026
 
 ## 1. Présentation
 
-Le 29 mai 2026, **[La Victime]** a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** (SAS LES MAUVAIS GARÇONS, SIRET 938 033 222 00010), situé **[L'Adresse de l'Exploitation]**. Le basculement d'un bac à shampoing défectueux a provoqué une section nerveuse et tendineuse profonde de l'index droit, nécessitant une microchirurgie SOS Main en urgence.
+Le 29 mai 2026, **[La Victime]** a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** (SAS LES MAUVAIS GARÇONS, SIRET 938 033 222 00010), situé **[L'Adresse de l'Exploitation]**. Alors que l'employé coiffeur était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger le coiffeur ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une microchirurgie SOS Main en urgence.
 
 Le contentieux civil a pour objet d'obtenir la réparation intégrale des préjudices subis, estimés à 58 100 € selon la nomenclature Dintilhac. Il se déploie sur plusieurs fondements juridiques complémentaires.
 
@@ -62,7 +62,7 @@ Lien : [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article
 
 ### 3.1 Référé-provision (Article 835 du Code de procédure civile)
 
-Une assignation en référé-provision a été rédigée le 30 juin 2026 pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive. Le référé-provision permet d'obtenir une avance rapide lorsque l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de **[L'Exploitant du Commerce]** est manifeste : un équipement défectueux a causé un accident sur son lieu d'exploitation, par l'intermédiaire de son préposé, ce qui constitue une obligation non contestable.
+Une assignation en référé-provision a été rédigée le 30 juin 2026 pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive. Le référé-provision permet d'obtenir une avance rapide lorsque l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de **[L'Exploitant du Commerce]** est manifeste : un équipement instable présentant une cassure préexistante non signalée a causé un accident sur son lieu d'exploitation, par l'intermédiaire de son préposé, ce qui constitue une obligation non contestable.
 
 La demande inclut également la désignation d'un expert médical judiciaire sur le fondement de l'article 145 du Code de procédure civile.
 

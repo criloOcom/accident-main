@@ -23,7 +23,7 @@ Rédigé le 30 juin 2026
 
 # INTRODUCTION
 
-La présente constitution de partie civile est formée par **[La Victime]** dans le cadre de la procédure pénale suivie devant le Tribunal Correctionnel de **[La Ville de l'Accident]** à l'encontre de **[L'Exploitant du Commerce]**. Par cet acte, fondé sur les articles 2 et suivants du Code de procédure pénale, la victime entend exercer les droits reconnus à la partie civile afin d'obtenir la réparation de l'intégralité des préjudices découlant de l'accident corporel dont elle a été victime le 29 mai 2026. Cette constitution de partie civile permet à **[La Victime]** de participer activement à la procédure pénale et de solliciter l'indemnisation de ses préjudices devant la juridiction répressive.
+La présente constitution de partie civile est formée par **[La Victime]** dans le cadre de la procédure pénale suivie devant le Tribunal Correctionnel de **[La Ville de l'Accident]** à l'encontre de **[L'Exploitant du Commerce]**. Par cet acte, fondé sur les articles 2 et suivants du Code de procédure pénale, la victime entend exercer les droits reconnus à la partie civile afin d'obtenir la réparation de l'intégralité des préjudices découlant de l'accident corporel dont elle a été victime le 29 mai 2026 : alors que l'employé coiffeur était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé ; par réflexe, **[La Victime]** a tendu la main droite pour protéger le coiffeur, et sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit. Cette constitution de partie civile permet à **[La Victime]** de participer activement à la procédure pénale et de solliciter l'indemnisation de ses préjudices devant la juridiction répressive.
 
 À adresser par lettre recommandée ou par télécopie au tribunal ou à remettre au greffe.
 
@@ -53,7 +53,7 @@ Enquête en cours — Procédure pénale [ ... ].
 
 Pour les faits de :
 
-Blessures involontaires ayant entraîné une ITT de 56 jours par la violation manifestement délibérée d'une obligation de sécurité (Article 222-20 du Code pénal).
+Blessures involontaires ayant entraîné une ITT de 56 jours par la violation manifestement délibérée d'une obligation de sécurité (Article 222-20 du Code pénal) — basculement d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes.
 
 Je demande au tribunal de condamner la (ou les) personne(s) désignée(s) ci-dessus à me payer les sommes suivantes en réparation du préjudice subi :
 
