@@ -170,15 +170,19 @@ Ce document utilise des jetons pour protéger l'identité des personnes. Voici l
 
 **Textes de loi**
 
-• **Article 1242 du Code civil** — Responsabilité du fait des choses et du commettant Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
+• **Article 1242 du Code civil** — Responsabilité du fait des choses et du commettant 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
 
-• **Article L. 124-3 du Code des assurances** — Action directe de la victime contre l'assureur Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+• **Article L. 124-3 du Code des assurances** — Action directe de la victime contre l'assureur 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
-• **Article 145 du Code de procédure civile** — Référé-communication de pièces sous astreinte Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+• **Article 145 du Code de procédure civile** — Référé-communication de pièces sous astreinte 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
 **Jurisprudence**
 
-• **Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)** — Faute détachable de ses fonctions du dirigeant Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
+• **Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)** — Faute détachable de ses fonctions du dirigeant 
+Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 
 === PAGE BREAK ===

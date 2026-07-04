@@ -167,13 +167,16 @@ Ce document utilise des jetons pour protéger l'identité des personnes. Voici l
 
 ## Textes de loi
 
-• **Article 1240 du Code civil** — Responsabilité pour faute Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
+• **Article 1240 du Code civil** — Responsabilité pour faute 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 
-• **Article 222-20 du Code pénal** — Blessures involontaires avec ITT inférieure ou égale à 3 mois Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
+• **Article 222-20 du Code pénal** — Blessures involontaires avec ITT inférieure ou égale à 3 mois 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
 
 ## Jurisprudence
 
-• **Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)** — Faute détachable de ses fonctions du dirigeant Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
+• **Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)** — Faute détachable de ses fonctions du dirigeant 
+Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 
 === PAGE BREAK ===

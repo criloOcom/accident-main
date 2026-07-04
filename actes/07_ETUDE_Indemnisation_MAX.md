@@ -210,21 +210,28 @@ Ce document utilise des jetons pour protéger l'identité des personnes. Voici l
 
 **Textes de loi**
 
-• **Article 1240 du Code civil** — Responsabilité pour faute Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
+• **Article 1240 du Code civil** — Responsabilité pour faute 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 
-• **Article 222-19 du Code pénal** — Blessures involontaires avec ITT supérieure à 3 mois Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
+• **Article 222-19 du Code pénal** — Blessures involontaires avec ITT supérieure à 3 mois 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
 
-• **Article 222-20 du Code pénal** — Blessures involontaires avec ITT inférieure ou égale à 3 mois Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
+• **Article 222-20 du Code pénal** — Blessures involontaires avec ITT inférieure ou égale à 3 mois 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
 
-• **Article 700 du Code de procédure civile** — Frais d'avocat au civil Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
+• **Article 700 du Code de procédure civile** — Frais d'avocat au civil 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
 
 **Jurisprudence**
 
-• **Civ. 2e, 6 mai 2021, n° 19-23.173** — Incidence professionnelle (dévalorisation sociale, exclusion du monde du travail) Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
+• **Civ. 2e, 6 mai 2021, n° 19-23.173** — Incidence professionnelle (dévalorisation sociale, exclusion du monde du travail) 
+Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
 
-• **Civ. 2e, 8 juillet 2021, n° 20-15.106** — Exigences probatoires rigoureuses pour l'indemnisation Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
+• **Civ. 2e, 8 juillet 2021, n° 20-15.106** — Exigences probatoires rigoureuses pour l'indemnisation 
+Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
 
-• **Civ. 2e, 4 avril 2024, n° 22-19.307** — Réparation intégrale et principe de libre disposition des fonds Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
+• **Civ. 2e, 4 avril 2024, n° 22-19.307** — Réparation intégrale et principe de libre disposition des fonds 
+Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
 
 
 === PAGE BREAK ===

@@ -184,7 +184,8 @@ Ce document utilise des jetons pour protéger l'identité des personnes. Voici l
 
 **6. Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106 — Exigences probatoires rigoureuses pour l'indemnisation**
 
-*Exige une preuve objective et suffisante pour l'indemnisation de chaque poste de préjudice.* 🔗 [https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
+*Exige une preuve objective et suffisante pour l'indemnisation de chaque poste de préjudice.* 
+🔗 [https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
 
 **7. Cass. Civ. 2e, 4 avril 2024, n° 22-19.307 — Réparation intégrale et principe de libre disposition des fonds**
 

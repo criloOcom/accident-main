@@ -139,19 +139,25 @@ Ce document utilise des jetons pour protéger l'identité des personnes. Voici l
 
 **Textes de loi**
 
-• **Article 1242 du Code civil** — Responsabilité du fait des choses et du commettant Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
+• **Article 1242 du Code civil** — Responsabilité du fait des choses et du commettant 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
 
-• **Article 145 du Code de procédure civile** — Référé-communication de pièces sous astreinte Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+• **Article 145 du Code de procédure civile** — Référé-communication de pièces sous astreinte 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
-• **Article 1844-8 du Code civil** — Survie de la personnalité morale pour la liquidation Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186)
+• **Article 1844-8 du Code civil** — Survie de la personnalité morale pour la liquidation 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186)
 
 **Jurisprudence**
 
-• **Civ. 1ère, 8 décembre 2021, n° 20-16.463** — Action directe recevable contre l'assureur d'une société dissoute Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
+• **Civ. 1ère, 8 décembre 2021, n° 20-16.463** — Action directe recevable contre l'assureur d'une société dissoute 
+Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 
-• **Civ. 2e, 4 avril 2024, n° 22-19.307** — Réparation intégrale et principe de libre disposition des fonds Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
+• **Civ. 2e, 4 avril 2024, n° 22-19.307** — Réparation intégrale et principe de libre disposition des fonds 
+Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
 
-• **Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)** — Faute détachable de ses fonctions du dirigeant Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
+• **Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)** — Faute détachable de ses fonctions du dirigeant 
+Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 
 === PAGE BREAK ===

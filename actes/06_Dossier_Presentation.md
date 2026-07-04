@@ -144,13 +144,17 @@ Ce document utilise des jetons pour protéger l'identité des personnes. Voici l
 
 **Textes de loi**
 
-• **Article 1242 du Code civil** — Responsabilité du fait des choses et du commettant Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
+• **Article 1242 du Code civil** — Responsabilité du fait des choses et du commettant 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
 
-• **Article 222-20 du Code pénal** — Blessures involontaires avec ITT inférieure ou égale à 3 mois Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
+• **Article 222-20 du Code pénal** — Blessures involontaires avec ITT inférieure ou égale à 3 mois 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
 
-• **Article 475-1 du Code de procédure pénale** — Remboursement des frais d'avocat de la partie civile au pénal Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576696/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576696/)
+• **Article 475-1 du Code de procédure pénale** — Remboursement des frais d'avocat de la partie civile au pénal 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576696/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576696/)
 
-• **Article 700 du Code de procédure civile** — Frais d'avocat au civil Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
+• **Article 700 du Code de procédure civile** — Frais d'avocat au civil 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
 
 
 === PAGE BREAK ===

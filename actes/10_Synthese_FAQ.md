@@ -167,21 +167,28 @@ Ce document utilise des jetons pour protéger l'identité des personnes. Voici l
 
 **Textes de loi**
 
-• **Article 1242 du Code civil** — Responsabilité du fait des choses et du commettant Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
+• **Article 1242 du Code civil** — Responsabilité du fait des choses et du commettant 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
 
-• **Article 145 du Code de procédure civile** — Référé-communication de pièces sous astreinte Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+• **Article 145 du Code de procédure civile** — Référé-communication de pièces sous astreinte 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
-• **Article 1719 du Code civil** — Obligation de délivrance paisible du bailleur Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127)
+• **Article 1719 du Code civil** — Obligation de délivrance paisible du bailleur 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127)
 
-• **Article 1720 du Code civil** — Obligation d'entretien et de réparations du bailleur Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784)
+• **Article 1720 du Code civil** — Obligation d'entretien et de réparations du bailleur 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784)
 
-• **Article 2226 du Code civil** — Prescription de 10 ans pour le dommage corporel Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112)
+• **Article 2226 du Code civil** — Prescription de 10 ans pour le dommage corporel 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112)
 
-• **Article 835 du Code de procédure civile** — Référé-provision pour obligation non sérieusement contestable Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
+• **Article 835 du Code de procédure civile** — Référé-provision pour obligation non sérieusement contestable 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
 
 **Jurisprudence**
 
-• **Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)** — Faute détachable de ses fonctions du dirigeant Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
+• **Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)** — Faute détachable de ses fonctions du dirigeant 
+Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 
 === PAGE BREAK ===

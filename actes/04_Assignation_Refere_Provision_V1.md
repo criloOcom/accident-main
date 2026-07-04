@@ -222,23 +222,31 @@ Ce document utilise des jetons pour protéger l'identité des personnes. Voici l
 
 **Textes de loi**
 
-• **Article 1240 du Code civil** — Responsabilité pour faute Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
+• **Article 1240 du Code civil** — Responsabilité pour faute 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 
-• **Article 1242 du Code civil** — Responsabilité du fait des choses et du commettant Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
+• **Article 1242 du Code civil** — Responsabilité du fait des choses et du commettant 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
 
-• **Article 222-19 du Code pénal** — Blessures involontaires avec ITT supérieure à 3 mois Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
+• **Article 222-19 du Code pénal** — Blessures involontaires avec ITT supérieure à 3 mois 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
 
-• **Article 700 du Code de procédure civile** — Frais d'avocat au civil Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
+• **Article 700 du Code de procédure civile** — Frais d'avocat au civil 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
 
-• **Article 835 du Code de procédure civile** — Référé-provision pour obligation non sérieusement contestable Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
+• **Article 835 du Code de procédure civile** — Référé-provision pour obligation non sérieusement contestable 
+Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
 
 **Jurisprudence**
 
-• **Civ. 1ère, 8 décembre 2021, n° 20-16.463** — Action directe recevable contre l'assureur d'une société dissoute Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
+• **Civ. 1ère, 8 décembre 2021, n° 20-16.463** — Action directe recevable contre l'assureur d'une société dissoute 
+Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 
-• **Civ. 2e, 4 avril 2024, n° 22-19.307** — Réparation intégrale et principe de libre disposition des fonds Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
+• **Civ. 2e, 4 avril 2024, n° 22-19.307** — Réparation intégrale et principe de libre disposition des fonds 
+Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
 
-• **Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)** — Faute détachable de ses fonctions du dirigeant Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
+• **Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)** — Faute détachable de ses fonctions du dirigeant 
+Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 
 === PAGE BREAK ===
