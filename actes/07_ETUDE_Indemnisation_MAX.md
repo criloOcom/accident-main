@@ -151,102 +151,12 @@ Tableau récapitulatif des demandes indemnitaires :
 
 === PAGE BREAK ===
 
-# ANNEXE A — LEXIQUE DES JETONS D'ANONYMISATION
-
-Ce document utilise des jetons pour protéger l'identité des personnes. Voici la correspondance complète :
-
-**Personnes physiques :**
-
-• **[La Victime]** = Sébastien GRAZIDE
-
-• **[Le Président de l'Exploitation]** = Mountasser SABIR
-
-• **[La Directrice Générale de l'Exploitation]** = Catherine ANDISSAC / SORROCHE
-
-• **[Le Préposé de l'Exploitation]** = Ayoub BENNOURINE
-
-• **[Le Propriétaire des Murs]** = Romain DELRIEU
-
-• **[Le Chirurgien SOS Main]** = Dr Iskander DJERBI
-
-• **[Le Médecin en Urgence]** = Dr Julie JARDON
-
-• **[Le Médecin Généraliste]** = Dr OXYBEL
-
-• **[La Gestionnaire CPAM]** = Sigrid DESBOIS
-
-**Personnes morales :**
-
-• **[L'Exploitant du Commerce]** = SAS LES MAUVAIS GARÇONS
-
-• **[L'Établissement SOS Main]** = Clinique de l'Union
-
-**Données localisantes :**
-
-• **[L'Adresse de la Victime]** = 10 Avenue de Purpan, 31700 Blagnac
-
-• **[L'Adresse de l'Exploitation]** = 22 Rue Lafaurie, 09000 Foix
-
-• **[L'Adresse du Président]** = 108 Avenue Paul Bert, 09000 Foix
-
-• **[La Ville de l'Accident]** = Foix
-
-• **[La Ville de Résidence de la Victime]** = Blagnac
-
-• **[La Métropole Régionale]** = Toulouse
-
-• **[La Ville de l'Établissement SOS Main]** = Saint-Jean
-
-• **[L'Email de la Victime]** = [sebastien.grazide@gmail.com](mailto:sebastien.grazide@gmail.com)
-
-• **[L'Identifiant Professionnel de la Victime]** = 500 474 457
-
-• **[L'Identifiant de l'Exploitation]** = 938 033 222 00010
 
 
-=== PAGE BREAK ===
+---
 
-# ANNEXE B — TEXTES DE LOI ET JURISPRUDENCE CITÉS
+Pour la correspondance complète des jetons, voir [ANNEXE A](annexes/ANNEXE_A_Lexique_Tokens.md).
 
-**Textes de loi**
+Pour la liste complète des textes de loi et jurisprudences, voir [ANNEXE B](annexes/ANNEXE_B_Lois_Jurisprudence.md).
 
-• **Article 1240 du Code civil** — Responsabilité pour faute 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-
-• **Article 222-19 du Code pénal** — Blessures involontaires avec ITT supérieure à 3 mois 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
-
-• **Article 222-20 du Code pénal** — Blessures involontaires avec ITT inférieure ou égale à 3 mois 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-
-• **Article 700 du Code de procédure civile** — Frais d'avocat au civil 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
-
-**Jurisprudence**
-
-• **Civ. 2e, 6 mai 2021, n° 19-23.173** — Incidence professionnelle (dévalorisation sociale, exclusion du monde du travail) 
-Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
-
-• **Civ. 2e, 8 juillet 2021, n° 20-15.106** — Exigences probatoires rigoureuses pour l'indemnisation 
-Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
-
-• **Civ. 2e, 4 avril 2024, n° 22-19.307** — Réparation intégrale et principe de libre disposition des fonds 
-Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
-
-
-=== PAGE BREAK ===
-
-## Annexe C — Liste des pièces citées
-
-**Pièces médicales**
-
-- 30/05/2026 — Dr Iskander DJERBI — CR opératoire — [🔗 Drive](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view)
-- 01/06/2026 — Dr Yogan OXYBEL — Arrêt de travail initial — [🔗 Drive](https://drive.google.com/file/d/1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm/view)
-- 10/06/2026 — Dr Iskander DJERBI — Facture chirurgie 790,23€ — [🔗 Drive](https://drive.google.com/file/d/10vU_UlMgUnCuyao6D_6GlUTmdt5VOf-n/view)
-- 12/06/2026 — Dr Yogan OXYBEL — Arrêt de travail prolongation — [🔗 Drive](https://drive.google.com/file/d/1PXkPKn9f0IwiV8EwWQ8kn1NR2ADebcvg/view)
-
-**Pièces administratives**
-
-- 03/06/2026 — CPAM Haute-Garonne — Dossier RCT 31727387 — [🔗 Drive](https://drive.google.com/file/d/1mTGqygF0mS0Y5Yx-kRg3bM-7HHTajZqJ/view)
-- 17/06/2026 — URSSAF — Mémo droits TI — [🔗 Drive](https://drive.google.com/file/d/1jFtaFKwDfrnQ3cKt6j3OwPHFYyCjdcRT/view)
-- 17/06/2026 — URSSAF — IJ travailleur indépendant — [🔗 Drive](https://drive.google.com/file/d/1QvTsO2PNiJdNhV30B87VZgN3MBlvw844/view)
+Pour la liste complète des pièces, voir [ANNEXE C](annexes/ANNEXE_C_Pieces.md).

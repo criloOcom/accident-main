@@ -20,7 +20,7 @@ drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
 
 # DOSSIER DE PRÉSENTATION : DESTINÉ AU CONSEIL JURIDIQUE
 
-## Rédigé le 30 juin 2026
+Rédigé le 30 juin 2026
 
 # INTRODUCTION
 
@@ -85,93 +85,12 @@ Les examens cliniques constatent une section partielle du tendon fléchisseur, u
 
 === PAGE BREAK ===
 
-# ANNEXE A — LEXIQUE DES JETONS D'ANONYMISATION
-
-Ce document utilise des jetons pour protéger l'identité des personnes. Voici la correspondance complète :
-
-**Personnes physiques :**
-
-• **[La Victime]** = Sébastien GRAZIDE
-
-• **[Le Président de l'Exploitation]** = Mountasser SABIR
-
-• **[La Directrice Générale de l'Exploitation]** = Catherine ANDISSAC / SORROCHE
-
-• **[Le Préposé de l'Exploitation]** = Ayoub BENNOURINE
-
-• **[Le Propriétaire des Murs]** = Romain DELRIEU
-
-• **[Le Chirurgien SOS Main]** = Dr Iskander DJERBI
-
-• **[Le Médecin en Urgence]** = Dr Julie JARDON
-
-• **[Le Médecin Généraliste]** = Dr OXYBEL
-
-• **[La Gestionnaire CPAM]** = Sigrid DESBOIS
-
-**Personnes morales :**
-
-• **[L'Exploitant du Commerce]** = SAS LES MAUVAIS GARÇONS
-
-• **[L'Établissement SOS Main]** = Clinique de l'Union
-
-**Données localisantes :**
-
-• **[L'Adresse de la Victime]** = 10 Avenue de Purpan, 31700 Blagnac
-
-• **[L'Adresse de l'Exploitation]** = 22 Rue Lafaurie, 09000 Foix
-
-• **[L'Adresse du Président]** = 108 Avenue Paul Bert, 09000 Foix
-
-• **[La Ville de l'Accident]** = Foix
-
-• **[La Ville de Résidence de la Victime]** = Blagnac
-
-• **[La Métropole Régionale]** = Toulouse
-
-• **[La Ville de l'Établissement SOS Main]** = Saint-Jean
-
-• **[L'Email de la Victime]** = [sebastien.grazide@gmail.com](mailto:sebastien.grazide@gmail.com)
-
-• **[L'Identifiant Professionnel de la Victime]** = 500 474 457
-
-• **[L'Identifiant de l'Exploitation]** = 938 033 222 00010
 
 
-=== PAGE BREAK ===
+---
 
-# ANNEXE B — TEXTES DE LOI ET JURISPRUDENCE CITÉS
+Pour la correspondance complète des jetons, voir [ANNEXE A](annexes/ANNEXE_A_Lexique_Tokens.md).
 
-**Textes de loi**
+Pour la liste complète des textes de loi et jurisprudences, voir [ANNEXE B](annexes/ANNEXE_B_Lois_Jurisprudence.md).
 
-• **Article 1242 du Code civil** — Responsabilité du fait des choses et du commettant 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
-
-• **Article 222-20 du Code pénal** — Blessures involontaires avec ITT inférieure ou égale à 3 mois 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-
-• **Article 475-1 du Code de procédure pénale** — Remboursement des frais d'avocat de la partie civile au pénal 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576696/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576696/)
-
-• **Article 700 du Code de procédure civile** — Frais d'avocat au civil 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
-
-
-=== PAGE BREAK ===
-
-## Annexe C — Liste des pièces citées
-
-**Pièces financières**
-
-- 29/05/2026 — Wero — Paiement 15€ — [🔗 Drive](https://drive.google.com/file/d/1jAJ44w_FfpjBr9NwiyhS61K5N7FGpRld/view)
-
-**Pièces médicales**
-
-- 29/05/2026 16:30 — Dr Julie JARDON — Premiers soins — [🔗 Drive](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view)
-- 30/05/2026 — Dr Iskander DJERBI — CR opératoire — [🔗 Drive](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view)
-- 01/06/2026 — Dr Yogan OXYBEL — Arrêt de travail initial — [🔗 Drive](https://drive.google.com/file/d/1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm/view)
-
-**Pièces administratives**
-
-- 03/06/2026 — CPAM Haute-Garonne — Dossier RCT 31727387 — [🔗 Drive](https://drive.google.com/file/d/1mTGqygF0mS0Y5Yx-kRg3bM-7HHTajZqJ/view)
-- 29/06/2026 — [La Victime] — Mise en demeure SAS — [🔗 Drive](https://drive.google.com/file/d/1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn/view)
+Pour la liste complète des pièces, voir [ANNEXE C](annexes/ANNEXE_C_Pieces.md).

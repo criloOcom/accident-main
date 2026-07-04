@@ -100,96 +100,12 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 
 === PAGE BREAK ===
 
-# ANNEXE A — LEXIQUE DES JETONS D'ANONYMISATION
-
-Ce document utilise des jetons pour protéger l'identité des personnes. Voici la correspondance complète :
-
-**Personnes physiques :**
-
-• **[La Victime]** = Sébastien GRAZIDE
-
-• **[Le Président de l'Exploitation]** = Mountasser SABIR
-
-• **[La Directrice Générale de l'Exploitation]** = Catherine ANDISSAC / SORROCHE
-
-• **[Le Préposé de l'Exploitation]** = Ayoub BENNOURINE
-
-• **[Le Propriétaire des Murs]** = Romain DELRIEU
-
-• **[Le Chirurgien SOS Main]** = Dr Iskander DJERBI
-
-• **[Le Médecin en Urgence]** = Dr Julie JARDON
-
-• **[Le Médecin Généraliste]** = Dr OXYBEL
-
-• **[La Gestionnaire CPAM]** = Sigrid DESBOIS
-
-**Personnes morales :**
-
-• **[L'Exploitant du Commerce]** = SAS LES MAUVAIS GARÇONS
-
-• **[L'Établissement SOS Main]** = Clinique de l'Union
-
-**Données localisantes :**
-
-• **[L'Adresse de la Victime]** = 10 Avenue de Purpan, 31700 Blagnac
-
-• **[L'Adresse de l'Exploitation]** = 22 Rue Lafaurie, 09000 Foix
-
-• **[L'Adresse du Président]** = 108 Avenue Paul Bert, 09000 Foix
-
-• **[La Ville de l'Accident]** = Foix
-
-• **[La Ville de Résidence de la Victime]** = Blagnac
-
-• **[La Métropole Régionale]** = Toulouse
-
-• **[La Ville de l'Établissement SOS Main]** = Saint-Jean
-
-• **[L'Email de la Victime]** = [sebastien.grazide@gmail.com](mailto:sebastien.grazide@gmail.com)
-
-• **[L'Identifiant Professionnel de la Victime]** = 500 474 457
-
-• **[L'Identifiant de l'Exploitation]** = 938 033 222 00010
 
 
-=== PAGE BREAK ===
+---
 
-# ANNEXE B — TEXTES DE LOI ET JURISPRUDENCE CITÉS
+Pour la correspondance complète des jetons, voir [ANNEXE A](annexes/ANNEXE_A_Lexique_Tokens.md).
 
-**Textes de loi**
+Pour la liste complète des textes de loi et jurisprudences, voir [ANNEXE B](annexes/ANNEXE_B_Lois_Jurisprudence.md).
 
-• **Article 1242 du Code civil** — Responsabilité du fait des choses et du commettant 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
-
-• **Article L. 124-3 du Code des assurances** — Action directe de la victime contre l'assureur 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-
-• **Article 145 du Code de procédure civile** — Référé-communication de pièces sous astreinte 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
-
-**Jurisprudence**
-
-• **Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)** — Faute détachable de ses fonctions du dirigeant 
-Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
-
-
-=== PAGE BREAK ===
-
-## Annexe C — Liste des pièces citées
-
-**Pièces médicales**
-
-- 29/05/2026 — Dr Julie JARDON — Premiers soins d'urgence — [🔗 Drive](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view)
-- 30/05/2026 — Dr Iskander DJERBI — CR opératoire — [🔗 Drive](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view)
-- 01/06/2026 — Dr Yogan OXYBEL — Arrêt de travail initial — [🔗 Drive](https://drive.google.com/file/d/1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm/view)
-
-**Pièces pénales**
-
-- 01/06/2026 — Police TRD — Dépôt de plainte — [🔗 Drive](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
-- 02/06/2026 — Police TRD — Procès-verbal n°2026/015967 — [🔗 Drive](https://drive.google.com/file/d/18RdOzvO3Xwp1SVcsCdGDiY6RLQmWoHAnxJXnkQnomXs/view)
-
-**Pièces administratives**
-
-- 03/06/2026 — CPAM Haute-Garonne — Dossier RCT 31727387 — [🔗 Drive](https://drive.google.com/file/d/1mTGqygF0mS0Y5Yx-kRg3bM-7HHTajZqJ/view)
-- 29/06/2026 — [La Victime] — Mise en demeure SAS — [🔗 Drive](https://drive.google.com/file/d/1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn/view)
+Pour la liste complète des pièces, voir [ANNEXE C](annexes/ANNEXE_C_Pieces.md).

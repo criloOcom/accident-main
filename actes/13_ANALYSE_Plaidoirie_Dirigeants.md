@@ -106,109 +106,12 @@ Une stratégie multi-niveaux a été déployée : une plainte pénale complémen
 
 === PAGE BREAK ===
 
-# ANNEXE A — LEXIQUE DES JETONS D'ANONYMISATION
-
-Ce document utilise des jetons pour protéger l'identité des personnes. Voici la correspondance complète :
-
-## Personnes physiques :
-
-• **[La Victime]** = Sébastien GRAZIDE
-
-• **[Le Président de l'Exploitation]** = Mountasser SABIR
-
-• **[La Directrice Générale de l'Exploitation]** = Catherine ANDISSAC / SORROCHE
-
-• **[Le Préposé de l'Exploitation]** = Ayoub BENNOURINE
-
-• **[Le Propriétaire des Murs]** = Romain DELRIEU
-
-• **[Le Chirurgien SOS Main]** = Dr Iskander DJERBI
-
-• **[Le Médecin en Urgence]** = Dr Julie JARDON
-
-• **[Le Médecin Généraliste]** = Dr OXYBEL
-
-• **[La Gestionnaire CPAM]** = Sigrid DESBOIS
-
-## Personnes morales :
-
-• **[L'Exploitant du Commerce]** = SAS LES MAUVAIS GARÇONS
-
-• **[L'Établissement SOS Main]** = Clinique de l'Union
-
-## Données localisantes :
-
-• **[L'Adresse de la Victime]** = 10 Avenue de Purpan, 31700 Blagnac
-
-• **[L'Adresse de l'Exploitation]** = 22 Rue Lafaurie, 09000 Foix
-
-• **[L'Adresse du Président]** = 108 Avenue Paul Bert, 09000 Foix
-
-• **[La Ville de l'Accident]** = Foix
-
-• **[La Ville de Résidence de la Victime]** = Blagnac
-
-• **[La Métropole Régionale]** = Toulouse
-
-• **[La Ville de l'Établissement SOS Main]** = Saint-Jean
-
-• **[L'Email de la Victime]** = [sebastien.grazide@gmail.com](mailto:sebastien.grazide@gmail.com)
-
-• **[L'Identifiant Professionnel de la Victime]** = 500 474 457
-
-• **[L'Identifiant de l'Exploitation]** = 938 033 222 00010
 
 
-=== PAGE BREAK ===
+---
 
-# ANNEXE B — TEXTES DE LOI ET JURISPRUDENCE CITÉS
+Pour la correspondance complète des jetons, voir [ANNEXE A](annexes/ANNEXE_A_Lexique_Tokens.md).
 
-## Textes de loi
+Pour la liste complète des textes de loi et jurisprudences, voir [ANNEXE B](annexes/ANNEXE_B_Lois_Jurisprudence.md).
 
-• **Article 1240 du Code civil** — Responsabilité pour faute 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-
-• **Article L. 223-22 du Code de commerce** — Responsabilité des gérants de SARL 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141)
-
-• **Article L. 225-251 du Code de commerce** — Responsabilité des administrateurs de SA 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
-
-• **Article L. 237-2 du Code de commerce** — Survivance de la personnalité morale pour les besoins de la liquidation 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063)
-
-• **Article L. 421-3 du Code de la consommation** — Obligation générale de sécurité des services 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053)
-
-• **Article L. 124-3 du Code des assurances** — Action directe de la victime contre l'assureur 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-
-• **Article R. 123-2 du Code de la construction et de l'habitation** — Définition des ERP 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006896089](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006896089)
-
-• **Article 222-20 du Code pénal** — Blessures involontaires avec ITT inférieure ou égale à 3 mois 
-Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-
-## Jurisprudence
-
-• **Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)** — Faute détachable de ses fonctions du dirigeant 
-Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
-
-
-=== PAGE BREAK ===
-
-## Annexe C — Liste des pièces citées
-
-**Pièces médicales**
-
-- 30/05/2026 — Dr Iskander DJERBI — CR opératoire — [🔗 Drive](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view)
-
-**Pièces administratives**
-
-- 01/06/2026 — INSEE — Avis situation SAS — [🔗 Drive](https://drive.google.com/file/d/15PjlKa0QWpBOWtz7gpNa-PooxcHl4tPP/view)
-- 01/06/2026 — INPI — Fiche identité SAS — [🔗 Drive](https://drive.google.com/file/d/1ALpMIfxOZ65LGw_p__r7p9Lc2m7EeiWv/view)
-- 03/06/2026 — CPAM Haute-Garonne — Dossier RCT 31727387 — [🔗 Drive](https://drive.google.com/file/d/1mTGqygF0mS0Y5Yx-kRg3bM-7HHTajZqJ/view)
-
-**Pièces pénales**
-
-- 01/06/2026 — Police TRD — Dépôt de plainte — [🔗 Drive](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
+Pour la liste complète des pièces, voir [ANNEXE C](annexes/ANNEXE_C_Pieces.md).

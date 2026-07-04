@@ -27,6 +27,13 @@
 - `/tmp/anonymized_docX.txt` — texte anonymisé
 - `/tmp/verify_docX.txt` — texte vérifié (après correction manuelle si nécessaire)
 
+## ÉTAPE OBLIGATOIRE : VÉRIFICATION CROSS-DOCUMENT
+- Après toute modification d'un acte, d'une annexe, ou d'un fichier mémoire :
+  1. `cd /home/crilocom/accident-main && python3 app/check_consistency.py`
+  2. Le script signale les liens morts, tokens inconnus, LEGIARTI invalides, dates incohérentes
+  3. Corriger les erreurs signalées avant de commit
+  4. Vérifier que `actes/15_Strategie_Contentieux_Civil.md` et `actes/16_Strategie_Contentieux_Penal.md` listent bien le nouvel acte
+
 ## Pièges connus :
 - `batch_anonymize.py` utilise `str.replace()` donc **ne capture pas** les variantes en casse mixte non listées
 - Les noms en "Prénom Nom" (ex. "Mountasser Sabir" au lieu de "Mountasser SABIR") ne sont pas remplacés → à ajouter manuellement dans le script
