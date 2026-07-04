@@ -72,7 +72,7 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du 0
 
 # II. DISCUSSION JURIDIQUE
 
-## A. Sur le principe de la responsabilité civile délictuelle (Articles 1240 et 1242 du Code civil)
+## A. Sur le principe de la responsabilité civile délictuelle
 
 [L'article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051787311) dispose :
 

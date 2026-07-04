@@ -2,7 +2,7 @@
 
 ## Résumé des décisions pertinentes
 
-### Responsabilité du commerçant (art. 1242 al. 1, ex-1384) — garde de la chose
+### Responsabilité du commerçant — garde de la chose
 
 1. **Civ2, 14 janv. 1999, n°97-11.527** (B, Leroy Merlin)
    Chariot mis à disposition du client → transfert de garde. Chose inerte, non dangereuse, libre usage → commerçant pas responsable.

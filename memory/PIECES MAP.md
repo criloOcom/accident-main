@@ -24,7 +24,7 @@ L'identifiant d'une pièce est le triplet (date, émetteur, objet) — pas un nu
 | 02/06/2026 | Police **[La Ville de l'Accident]** | PV COMPTE rendu | [🔗 Voir](https://drive.google.com/file/d/18RdOzvO3Xwp1SVcsCdGDiY6RLQmWoHAnxJXnkQnomXs/view) |
 | 03/06/2026 20:45 | CPAM Haute-Garonne | Dossier RCT 31727387 | [🔗 Voir](https://drive.google.com/file/d/1mTGqygF0mS0Y5Yx-kRg3bM-7HHTajZqJ/view) |
 
-### Doc 02 — Action Directe Assureur RC (Art. L.124-3)
+### Doc 02 — Action Directe Assureur RC
 [🔗 Voir](https://drive.google.com/file/d/1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY/view)
 | Date | Auteur | Objet | Drive |
 |------|--------|-------|-------|

@@ -1,5 +1,5 @@
 ---
-titre: Action Directe Assureur RC (Art. L.124-3)
+titre: Action Directe Assureur RC
 date: 2026-06-29
 type: acte
 categorie: procedure
@@ -12,13 +12,13 @@ tags:
   - action directe
   - assurance
   - mise en demeure
-  - L.124-3
+  - action directe
 statut: final
 source: drive
 drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
 ---
 
-# ACTION DIRECTE — MISE EN DEMEURE ASSUREUR RC (Art. L. 124-3)
+# ACTION DIRECTE — MISE EN DEMEURE ASSUREUR RC
 
 Rédigé le 30 juin 2026
 
