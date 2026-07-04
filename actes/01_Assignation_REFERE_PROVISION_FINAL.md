@@ -30,7 +30,7 @@ Par cet acte, [La Victime] sollicite du président du Tribunal Judiciaire de [La
 
 Elle demande en outre la désignation d'un expert médical judiciaire sur le fondement de l'article 145 du même code, afin de décrire l'étendue de ses séquelles et d'évaluer chacun des postes de préjudice corporel selon la nomenclature Dintilhac.
 
-l Judiciaire de [La Ville de l'Accident] (Cabinet du Juge des Référés)
+Tribunal Judiciaire de [La Ville de l'Accident] (Cabinet du Juge des Référés)
 
 POUR :
 

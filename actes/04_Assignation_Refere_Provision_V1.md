@@ -30,17 +30,18 @@ Président du Tribunal Judiciaire de [La Ville de l'Accident] — Cabinet du Jug
 
 ## DEMANDEUR :
 
-[La Victime] Né le 18 janvier 1982 à [La Métropole Régionale] Demeurant au [L'Adresse de la Victime] Profession : Informaticien indépendant ([L'Identifiant Professionnel de la Victime]) Élisant domicile en son cabinet
+- **Nom** : [La Victime]
+- **Né le** : 18 janvier 1982 à [La Métropole Régionale]
+- **Demeurant** : [L'Adresse de la Victime]
+- **Profession** : Informaticien indépendant ([L'Identifiant Professionnel de la Victime])
+- **Élisant domicile** : en son cabinet
 
 ## DÉFENDEURS :
 
-[L'Exploitant du Commerce], prise en la personne de son représentant légal, [Le Président de l'Exploitation], Président. Siège social : [L'Adresse de l'Exploitation] ([L'Identifiant de l'Exploitation]). Défenderesse et civilement responsable.
-
-[Le Président de l'Exploitation], Président de [L'Exploitant du Commerce], demeurant [L'Adresse du Président]. Défendeur en qualité de représentant légal et de dirigeant de droit.
-
-[La Directrice Générale de l'Exploitation], Directrice Générale de [L'Exploitant du Commerce]. Défenderesse en qualité de co-dirigeante de droit.
-
-La Compagnie d'Assurances [NOM À COMMUNIQUER] garantissant la responsabilité civile professionnelle de [L'Exploitant du Commerce] et/ou d'un préposé de la SAS. Défenderesse au titre de l'action directe (Article L. 124-3 du Code des assurances).
+- **[L'Exploitant du Commerce]**, prise en la personne de son représentant légal, [Le Président de l'Exploitation], Président. Siège social : [L'Adresse de l'Exploitation] ([L'Identifiant de l'Exploitation]). Défenderesse et civilement responsable.
+- **[Le Président de l'Exploitation]**, Président de [L'Exploitant du Commerce], demeurant [L'Adresse du Président]. Défendeur en qualité de représentant légal et de dirigeant de droit.
+- **[La Directrice Générale de l'Exploitation]**, Directrice Générale de [L'Exploitant du Commerce]. Défenderesse en qualité de co-dirigeante de droit.
+- **La Compagnie d'Assurances [NOM À COMMUNIQUER]** garantissant la responsabilité civile professionnelle de [L'Exploitant du Commerce] et/ou d'un préposé de la SAS. Défenderesse au titre de l'action directe (Article L. 124-3 du Code des assurances).
 
 ## VISA DES TEXTES APPLICABLES
 

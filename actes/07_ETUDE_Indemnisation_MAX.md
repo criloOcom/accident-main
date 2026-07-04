@@ -64,7 +64,7 @@ Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un 
 - Perte de chance commerciale : Impossibilité de prospecter ou de répondre aux clients durant l'incapacité.
 - Pénibilité accrue : Dépendance à la dictée vocale générant une fatigue structurelle.
 
-### B. Préjudices extra-patrimoniaux (DFP, Souffrances, Agrément)
+## B. Préjudices extra-patrimoniaux (DFP, Souffrances, Agrément)
 
 Déficit Fonctionnel Permanent (DFP) : Indemnise l'atteinte aux fonctions physiologiques. Basé sur un taux estimé de 12% pour une victime de 44 ans, l'indemnité est projetée à 25 200 €.
 
@@ -81,11 +81,11 @@ Préjudice d'Agrément : Répare l'impossibilité de pratiquer des loisirs (guit
 | --- | --- |
 | Pertes de Gains Professionnels Actuels (PGPA) | 1 400 € |
 | Incidence Professionnelle (IP) | 15 000 € |
-| Déficit Fonctionnel Permanent (DFP) | 9 000 € |
-| Souffrances Endurées | 6 000 € |
+| Déficit Fonctionnel Permanent (DFP) | 25 200 € |
+| Souffrances Endurées | 12 000 € |
 | Préjudice d'Agrément | 3 000 € |
 | Frais d'assistance (Article 700 CPC) | 1 500 € |
-| TOTAL ESTIMATIF | 35 900 € |
+| TOTAL ESTIMATIF | 58 100 € |
 
 
 === PAGE BREAK ===

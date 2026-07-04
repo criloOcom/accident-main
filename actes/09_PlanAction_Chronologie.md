@@ -47,7 +47,7 @@ La première étape consiste en l'envoi de mises en demeure par lettre recommand
 
 Ces courriers, expédiés le 29 juin 2026, visent à obtenir les coordonnées de l'assurance responsabilité civile professionnelle, étape préalable obligatoire avant toute action au fond.
 
-Parallèlement, une action directe est engagée auprès de l'assureur pour solliciter l'ouverture d'un dossier de sinistre, la désignation d'un expert médical et le versement d'une provision financière de première urgence pour compenser les pertes d'exploitation de [La Victime], informateur indépendant.
+Parallèlement, une action directe est engagée auprès de l'assureur pour solliciter l'ouverture d'un dossier de sinistre, la désignation d'un expert médical et le versement d'une provision financière de première urgence pour compenser les pertes d'exploitation de [La Victime], informaticien indépendant.
 
 Sur le plan probatoire, des démarches immédiates sont entreprises pour la conservation des preuves : une requête auprès du Procureur de la République pour la saisie des enregistrements de vidéosurveillance et l'intervention d'un huissier de justice pour constater la défectuosité du matériel (bac à shampoing).
 

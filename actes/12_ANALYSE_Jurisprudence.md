@@ -58,7 +58,7 @@ Il est à noter que l'établissement a procédé à un remboursement symbolique 
 
 Après une prise en charge initiale par Le Médecin Urgentiste au Centre de Soins Immédiats, La Victime a été transférée en urgence clinique pour une microchirurgie réalisée le 30 mai 2026 par Le Chirurgien SOS Main.
 
-Le bilan clinique révèle une section partielle du tendon fléchisseur superficiel de l'index droit, une section complète du paquet collatéral ulnaire et radial, ainsi qu'une neurolyse du nerf collatéral palmar.
+Le bilan clinique révèle une section partielle du tendon fléchisseur superficiel de l'index droit, une section complète du paquet collatéral ulnaire et radial, ainsi qu'une neurolyse du nerf collatéral palmaire.
 
 Ces lésions entraînent des séquelles fonctionnelles majeures, notamment des paresthésies sévères et une perte totale de sensibilité de l'index droit. Pour un informaticien indépendant dont la main droite est la main dominante, ce handicap impacte directement l'usage du clavier et de la souris, générant une incidence professionnelle substantielle estimée provisoirement à 15 000 € dans l'étude d'indemnisation jointe.
 
