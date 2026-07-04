@@ -83,8 +83,8 @@ Partage depuis : [L'Email de la Victime]
 
 ## RÉFÉRENCES JURISPRUDENTIELLES
 
-- Arrêt Costedoat : Ass. Plén., 25 février 2000, n° 97-17.378 ✓
-- Arrêt Cousin : Ass. Plén., 14 décembre 2001, n° 00-82.066 ✓
+- [Arrêt Costedoat : Ass. Plén., 25 février 2000, n° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831) ✓
+- [Arrêt Cousin : Ass. Plén., 14 décembre 2001, n° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322) ✓
 - Arrêt SATI : [Cass. Com., 20 mai 2003, n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ✓
 - [Cass. Crim., 27 mai 2014, n° 13-80.849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000028994017) ✓
 - [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ✓
