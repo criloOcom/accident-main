@@ -56,8 +56,13 @@ else
 fi
 
 # ── Step 3: Piste / MCP Bridge ─────────────────────────────────────────
+PISTE_FILE="$REPO_DIR/.piste-credentials.json"
+
 if [[ -n "${PISTE_CREDENTIALS:-}" ]]; then
-    echo "PISTE_CREDENTIALS detected → MCP Bridge ready"
+    cat > "$PISTE_FILE" << PEOF
+${PISTE_CREDENTIALS}
+PEOF
+    echo "Piste credentials written to $PISTE_FILE"
 else
     echo "⚠  PISTE_CREDENTIALS not set. MCP Bridge (Judilibre/Légifrance) unavailable."
     echo "   To set: https://jules.google.com/settings → Environment variables"
@@ -68,7 +73,7 @@ echo ""
 echo "=== Verification ==="
 echo "Python: $(uv run python3 --version)"
 echo "Drive auth: $([ -f "$DRIVE_TOKEN_FILE" ] && echo 'CONFIGURED' || echo 'MISSING')"
-echo "MCP Bridge: $([ -n "${PISTE_CREDENTIALS:-}" ] && echo 'CONFIGURED' || echo 'MISSING')"
+echo "MCP Bridge: $([ -f "$PISTE_FILE" ] && echo 'CONFIGURED' || echo 'MISSING')"
 echo "Legal library: $(ls lois/*.md 2>/dev/null | wc -l) fichiers .md"
 echo "Target folder: ${GOOGLE_DRIVE_FOLDER_ID:-16Qm2fEzojRQ3_yylsSwlkynbVv1L0SvB}"
 echo ""

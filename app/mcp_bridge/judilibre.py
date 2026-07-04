@@ -3,6 +3,22 @@ import os
 import time
 import urllib.parse
 
+
+def _get_piste_credentials():
+    raw = os.environ.get("PISTE_CREDENTIALS")
+    if raw:
+        return json.loads(raw)
+    repo_dir = os.getcwd()
+    for parent in [repo_dir] + [os.path.dirname(repo_dir)]:
+        fpath = os.path.join(parent, ".piste-credentials.json")
+        if os.path.exists(fpath):
+            with open(fpath) as f:
+                return json.load(f)
+    raise RuntimeError(
+        "PISTE_CREDENTIALS not found. "
+        "Set the env var or ensure .piste-credentials.json exists (from setup.sh)."
+    )
+
 from . import (
     taxonomy_cache,
     decision_cache,
@@ -19,7 +35,7 @@ from . import (
 class JudilibreClient:
     def __init__(self):
         import requests
-        creds = json.loads(os.environ["PISTE_CREDENTIALS"])
+        creds = _get_piste_credentials()
         p = creds["piste"]["production"]
         resp = requests.post(
             "https://oauth.piste.gouv.fr/api/oauth/token",

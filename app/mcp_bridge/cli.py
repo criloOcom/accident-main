@@ -68,13 +68,20 @@ def cmd_legifrance_texte(args):
 
 
 def cmd_check(args):
-    has_piste = bool(os.environ.get("PISTE_CREDENTIALS"))
+    has_piste_env = bool(os.environ.get("PISTE_CREDENTIALS"))
+    has_piste_file = os.path.exists(".piste-credentials.json")
+    has_drive_env = all(
+        os.environ.get(v) for v in
+        ["GOOGLE_DRIVE_CLIENT_ID", "GOOGLE_DRIVE_CLIENT_SECRET", "GOOGLE_DRIVE_REFRESH_TOKEN"]
+    )
+    has_drive_file = os.path.exists(".drive-token.json")
     env = os.environ.get("PISTE_ENV", "non défini")
     print(json.dumps({
-        "PISTE_CREDENTIALS": "CONFIGURÉ" if has_piste else "MANQUANT",
+        "PISTE_CREDENTIALS (env)": "OK" if has_piste_env else "MANQUANT",
+        "PISTE_CREDENTIALS (file)": "OK" if has_piste_file else "MANQUANT",
+        "GOOGLE_DRIVE (env)": "OK" if has_drive_env else "MANQUANT",
+        "GOOGLE_DRIVE (file)": "OK" if has_drive_file else "MANQUANT",
         "PISTE_ENV": env,
-        "judilibre": True,
-        "legifrance": True,
     }, indent=2))
 
 

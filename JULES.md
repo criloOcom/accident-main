@@ -56,13 +56,17 @@ Le fichier `memory/PIECES_MAP.md` contient le mapping complet :
 `1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg`
 ```
 
-## Setup initial
+## Setup initial (Jules)
 
-Avant de travailler, exécuter une seule fois :
+Dans Jules Settings → Setup script, mettre :
 
-```bash
-chmod +x setup.sh && ./setup.sh
 ```
+./setup.sh
+```
+
+Le script **doit être exécuté** pour matérialiser les credentials dans des fichiers
+(`.drive-token.json` et `.piste-credentials.json`), car Jules supprime les
+variables d'environnement après le setup (sécurité).
 
 Ce script installe les dépendances Python et configure l'accès Drive.
 

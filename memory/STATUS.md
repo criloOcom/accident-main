@@ -190,4 +190,16 @@ Tous les 14 documents ont été anonymisés, injectés et **corrigés factuellem
 | `GOOGLE_DRIVE_CLIENT_SECRET` | `gcp-oauth.keys.json` → `installed.client_secret` |
 | `GOOGLE_DRIVE_REFRESH_TOKEN` | `application_default_credentials.json` → `refresh_token` |
 | `PISTE_CREDENTIALS` | JSON complet de `app/tools.py` → `get_secret("PISTE_CREDENTIALS")` |
-| Setup script (Jules UI) | `echo do setup` |
+| Setup script | `./setup.sh` (pas `echo do setup`) |
+
+**Important** : le setup script doit être `./setup.sh` (pas `echo do setup`),
+car Jules supprime les env vars après le setup. setup.sh matérialise les
+credentials dans `.drive-token.json` et `.piste-credentials.json`, que le
+code Python lit ensuite en fallback.
+
+### Credentials déjà configurés (tu les as mis)
+- ✅ `GOOGLE_DRIVE_CLIENT_ID`
+- ✅ `GOOGLE_DRIVE_CLIENT_SECRET`
+- ✅ `GOOGLE_DRIVE_REFRESH_TOKEN`
+- ✅ `PISTE_CREDENTIALS`
+- ❌ **Setup script** : encore `echo do setup` → à changer en `./setup.sh`
