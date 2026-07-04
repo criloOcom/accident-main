@@ -30,9 +30,13 @@ def warn(msg: str) -> None:
     warnings.append(f"  WARN    {msg}")
 
 
+def all_acte_md() -> list[Path]:
+    return sorted(ACTES.rglob("*.md"))
+
+
 # ── 1. Liens internes ──────────────────────────────────────────────────
 def check_internal_links() -> None:
-    acte_files = sorted(ACTES.glob("*.md"))
+    acte_files = all_acte_md()
     all_md = {f.name for f in acte_files}
     all_md.update({f.name for f in ANNEXES.glob("*.md")})
     all_md.update({f.name for f in MEMORY.glob("*.md")})
@@ -67,7 +71,7 @@ def check_tokens() -> None:
         if m:
             known_tokens.add(m.group(1))
 
-    acte_files = sorted(ACTES.glob("*.md"))
+    acte_files = all_acte_md()
     token_usage = re.compile(r'\[([^\]]+)\]')
     for f in acte_files:
         text = f.read_text(encoding="utf-8")
@@ -97,7 +101,7 @@ def check_tokens() -> None:
 
 # ── 3. Légifrance / Judilibre ─────────────────────────────────────────
 def check_external_links() -> None:
-    acte_files = sorted(ACTES.glob("*.md"))
+    acte_files = all_acte_md()
     legi_pattern = re.compile(r'LEGIARTI[0-9]{13}')
     juri_pattern = re.compile(r'JURITEXT[0-9]{12}')
     known_ids = {
@@ -130,7 +134,7 @@ def check_external_links() -> None:
 
 # ── 4. Cohérence frontmatter ──────────────────────────────────────────
 def check_frontmatter() -> None:
-    acte_files = sorted(ACTES.glob("*.md"))
+    acte_files = all_acte_md()
     date_pattern = re.compile(r'^date:\s*(\d{4}-\d{2}-\d{2})')
     for f in acte_files:
         text = f.read_text(encoding="utf-8")
@@ -143,8 +147,10 @@ def check_frontmatter() -> None:
 
 # ── 5. Annexe embarquée résiduelle ────────────────────────────────────
 def check_residual_annexes() -> None:
-    acte_files = sorted(ACTES.glob("*.md"))
+    acte_files = all_acte_md()
     for f in acte_files:
+        if "annexes" in f.parts:
+            continue
         text = f.read_text(encoding="utf-8")
         lines = text.splitlines()
         for i, line in enumerate(lines, 1):

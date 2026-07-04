@@ -1,5 +1,5 @@
 ---
-titre: Stratégie Contentieux Civil
+titre: STRATEGIE Contentieux Civil
 date: 2026-07-04
 type: acte
 categorie: strategie
@@ -10,83 +10,118 @@ personnes:
   - L'Exploitant du Commerce
   - Le Président de l'Exploitation
   - La Directrice Générale de l'Exploitation
-  - Le Propriétaire des Murs
 tags:
+  - stratégie
   - contentieux
   - civil
-  - stratégie
   - procédure
 statut: final
 source: drive
 drive_id: null
 ---
 
-# STRATÉGIE CONTENTIEUX CIVIL
+# STRATEGIE CONTENTIEUX CIVIL
 
 Rédigé le 4 juillet 2026
 
 ## 1. Présentation
 
-Le contentieux civil regroupe l'ensemble des actions engagées par [La Victime] devant les juridictions civiles pour obtenir réparation des préjudices subis lors de l'accident du 29 mai 2026. Contrairement au contentieux pénal (qui vise à sanctionner l'auteur), le contentieux civil vise à indemniser la victime.
+Le 29 mai 2026, [La Victime] a subi un accident corporel grave dans le salon de coiffure exploité par [L'Exploitant du Commerce] (SAS LES MAUVAIS GARÇONS, SIRET 938 033 222 00010), situé [L'Adresse de l'Exploitation]. Le basculement d'un bac à shampoing défectueux a provoqué une section nerveuse et tendineuse profonde de l'index droit, nécessitant une microchirurgie SOS Main en urgence.
 
-Les actions civiles sont fondées sur la responsabilité de [L'Exploitant du Commerce] (responsabilité du commettant, responsabilité du fait des choses) et sur l'action directe contre l'assureur.
+Le contentieux civil a pour objet d'obtenir la réparation intégrale des préjudices subis, estimés à 58 100 € selon la nomenclature Dintilhac. Il se déploie sur plusieurs fondements juridiques complémentaires.
 
-## 2. Voies civiles engagées
+## 2. Fondements juridiques
 
-### 2.1 Action directe contre l'assureur (Art. L. 124-3 C. assur.)
+### 2.1 Responsabilité du commettant (Article 1242 du Code civil)
 
-Voir [02 — Action Directe Assureur RC](02_ActionDirecte_AssureurRC.md).
+[L'Exploitant du Commerce] est civilement responsable des dommages causés par ses préposés dans l'exercice de leurs fonctions. L'accident est survenu pendant une prestation de coupe de cheveux réalisée par un employé de la société dans l'enceinte de l'établissement. La responsabilité de la SAS est engagée de plein droit en application de l'article 1242 du Code civil, alinéa 5 (responsabilité du commettant du fait de son préposé).
 
-Fondement : l'article L. 124-3 du Code des assurances donne à la victime un droit propre sur l'indemnité d'assurance. Cette action est autonome et recevable même en cas de liquidation de la société.
+Lien : [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
 
-**Pièce clé :** Mise en demeure du 29 juin 2026 adressée à [L'Exploitant du Commerce] et à ses dirigeants.
+### 2.2 Action directe contre l'assureur (Article L. 124-3 du Code des assurances)
 
-### 2.2 Référé-provision (Art. 835 CPC)
+L'article L. 124-3 du Code des assurances confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable (Cass. 1ère civ., 8 décembre 2021, n° 20-16.463).
 
-Voir [01 — Assignation Référé-Provision](01_Assignation_REFERE_PROVISION_FINAL.md) et [04 — Projet V1](04_Assignation_Refere_Provision_V1.md).
+La mise en demeure de l'assureur a été adressée le 29 juin 2026, enjoignant à la compagnie de prendre en charge le sinistre et de procéder au règlement des préjudices sous 15 jours.
 
-Objet : obtenir une provision de 5 000 € à valoir sur l'indemnisation définitive, sur le fondement de l'obligation non sérieusement contestable.
+Lien : [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
-### 2.3 Référé-communication de pièces (Art. 145 CPC)
+### 2.3 Survie de la personnalité morale (Article 1844-8 du Code civil)
 
-Voir [02 — Action Directe](02_ActionDirecte_AssureurRC.md).
+Si [L'Exploitant du Commerce] venait à être dissoute ou radiée, la personnalité morale de la société survit pour les besoins de la liquidation jusqu'à la clôture de celle-ci. Ce mécanisme garantit que la société puisse encore être attraite en justice et que ses dettes soient apurées, incluant l'indemnisation due à [La Victime].
 
-Objet : obtenir la communication forcée de la police d'assurance RC et des coordonnées de l'assureur, sous astreinte.
+Lien : [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186)
 
-### 2.4 Expertise médicale judiciaire
+### 2.4 Responsabilité pour faute (Article 1240 du Code civil)
 
-Objectif : faire désigner un expert judiciaire pour évaluer l'intégralité des postes de préjudice corporel selon la nomenclature Dintilhac.
+À titre subsidiaire, la responsabilité pour faute de [L'Exploitant du Commerce] est engagée sur le fondement de l'article 1240 du Code civil pour défaut d'entretien de son équipement et manquement à son obligation de sécurité. Le principe de réparation intégrale impose que la victime soit replacée dans la situation où elle se serait trouvée si l'accident n'avait pas eu lieu.
 
-### 2.5 Indemnisation Dintilhac
+Lien : [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 
-Voir [07 — Étude d'Indemnisation Maximale](07_ETUDE_Indemnisation_MAX.md).
+## 3. Voies de procédure engagées
 
-Évaluation globale des préjudices estimée à 58 100 €, décomposée selon les postes Dintilhac (incidence professionnelle, déficit fonctionnel temporaire, souffrances endurées, préjudice esthétique, etc.).
+### 3.1 Référé-provision (Article 835 du Code de procédure civile)
 
-## 3. Procédure civile — étapes
+Une assignation en référé-provision a été rédigée le 30 juin 2026 pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive. Le référé-provision permet d'obtenir une avance rapide lorsque l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de [L'Exploitant du Commerce] est manifeste : un équipement défectueux a causé un accident sur son lieu d'exploitation, par l'intermédiaire de son préposé, ce qui constitue une obligation non contestable.
 
-| Étape | Description | Délai estimé |
-|-------|-------------|-------------|
-| Phase amiable | Mises en demeure, échanges courriers | Juin-Juillet 2026 |
-| Saisine référé | Assignation référé-provision + communication | Juillet 2026 |
-| Mise en état | Échanges conclusions, expertises | 3-6 mois |
-| Audience plaidoirie | Jugement au fond | 6-12 mois |
-| Appel éventuel | Si condamnation contestée | +12 mois |
+La demande inclut également la désignation d'un expert médical judiciaire sur le fondement de l'article 145 du Code de procédure civile.
 
-## 4. Actes associés
+Lien : [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
+Lien : [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
-- [01 — Assignation Référé-Provision](01_Assignation_REFERE_PROVISION_FINAL.md)
-- [02 — Action Directe Assureur RC](02_ActionDirecte_AssureurRC.md)
-- [04 — Projet Assignation Référé-Provision V1](04_Assignation_Refere_Provision_V1.md)
-- [06 — Dossier de Présentation](06_Dossier_Presentation.md)
-- [07 — Étude d'Indemnisation Maximale](07_ETUDE_Indemnisation_MAX.md)
-- [08 — Index État Final du Dossier](08_Index_EtatFinal_Dossier.md)
-- [09 — Plan d'Action et Chronologie](09_PlanAction_Chronologie.md)
-- [10 — Synthèse Juridique et FAQ](10_Synthese_FAQ.md)
-- [11 — Mémorandum Audit Stratégique](11_ANALYSE_correction_juridique.md)
-- [12 — Analyse des Préjudices Corporels](12_ANALYSE_Jurisprudence.md)
-- [14 — Analyse Responsabilités Légales](14_ANALYSE_Responsabilites_Legales.md)
+### 3.2 Référé-communication de pièces (Article 145 du Code de procédure civile)
 
-## 5. Annexe
+En parallèle, une procédure de référé-communication peut être engagée pour obtenir la communication forcée de la police d'assurance responsabilité civile de [L'Exploitant du Commerce] sous astreinte. Cette mesure conservatoire est essentielle pour permettre l'identification et la mise en cause de l'assureur dans le cadre de l'action directe.
 
-Voir [ANNEXE A](annexes/ANNEXE_A_Lexique_Tokens.md), [ANNEXE B](annexes/ANNEXE_B_Lois_Jurisprudence.md), [ANNEXE C](annexes/ANNEXE_C_Pieces.md).
+## 4. Évaluation des préjudices (Nomenclature Dintilhac)
+
+L'évaluation des préjudices subis par [La Victime], informaticien indépendant (SIRET 500 474 457, chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :
+
+| Poste de préjudice | Montant |
+|--------------------|---------|
+| Pertes de Gains Professionnels Actuels (PGPA) — 56 jours d'ITT | 1 400 € |
+| Incidence Professionnelle (IP) — séquelles structurelles, aménagement ergonomique | 15 000 € |
+| Déficit Fonctionnel Permanent (DFP) — 12 % estimé, 44 ans | 25 200 € |
+| Souffrances Endurées — 4/7 (microchirurgie, rééducation) | 12 000 € |
+| Préjudice d'Agrément — perte de loisirs (guitare, codage personnel) | 3 000 € |
+| Frais Article 700 du Code de procédure civile | 1 500 € |
+| **TOTAL ESTIMATIF** | **58 100 €** |
+
+L'incidence professionnelle est un préjudice distinct qui indemnise notamment la dévalorisation sociale ressentie par la victime du fait de son exclusion du monde du travail (Cass. Civ. 2e, 6 mai 2021, n° 19-23.173). Elle inclut également la pénibilité accrue et l'obligation de s'équiper en outils d'accessibilité (logiciel de dictée vocale, clavier ergonomique, souris adaptée).
+
+## 5. Calendrier procédural
+
+| Phase | Action | Échéance |
+|-------|--------|----------|
+| Phase amiable | Mises en demeure, échanges courriers | Juin — Juillet 2026 |
+| Saisine référé | Assignation référé-provision + expertise médicale | Juillet 2026 |
+| Expertise judiciaire | Mission d'expertise, dépôt rapport | 3 à 6 mois |
+| Mise en état | Échanges de conclusions, contradictoire | 3 à 6 mois après expertise |
+| Audience de plaidoirie | Jugement au fond | 6 à 12 mois |
+| Appel éventuel | Si la décision est contestée par une partie | Délai d'appel : 1 mois |
+
+## 6. Récapitulatif des pièces
+
+Pièces médicales :
+- 29/05/2026 — Dr Julie JARDON — Premiers soins urgence
+- 30/05/2026 — Dr Iskander DJERBI — CR opératoire
+- 30/05/2026 — Dr Iskander DJERBI — Ordonnance de sortie
+- 10/06/2026 — Dr Iskander DJERBI — Facture chirurgie 790,23 €
+- 19/06/2026 — Dr Iskander DJERBI — CR contrôle J+20
+- 30/06/2026 — Dr Julie JARDON — Consultation urgence J+32
+- 01/07/2026 — Dr OXYBEL — Consultation générale J+33
+- 08/07/2026 — Dr Iskander DJERBI — CR de reprise J+39
+
+Pièces financières :
+- 29/05/2026 — Wero — Preuve de paiement / remboursement
+
+Pièces administratives :
+- 03/06/2026 — CPAM Haute-Garonne — Dossier RCT 31727387
+- 01/06/2026 — INSEE — Avis de situation SAS
+- 01/06/2026 — INPI — Fiche identité SAS
+- 04/06/2026 — URSSAF Midi-Pyrénées — Attestations de vigilance
+
+Pièces de procédure :
+- 29/06/2026 — Mise en demeure [L'Exploitant du Commerce]
+- 29/06/2026 — Mise en demeure [Le Président de l'Exploitation]
+- 29/06/2026 — Mise en demeure [La Directrice Générale de l'Exploitation]

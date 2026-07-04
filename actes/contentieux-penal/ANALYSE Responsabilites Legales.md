@@ -123,9 +123,3 @@ Garantir l'exécution des obligations de réparation.
 
 
 ---
-
-Pour la correspondance complète des jetons, voir [ANNEXE A](annexes/ANNEXE_A_Lexique_Tokens.md).
-
-Pour la liste complète des textes de loi et jurisprudences, voir [ANNEXE B](annexes/ANNEXE_B_Lois_Jurisprudence.md).
-
-Pour la liste complète des pièces, voir [ANNEXE C](annexes/ANNEXE_C_Pieces.md).
