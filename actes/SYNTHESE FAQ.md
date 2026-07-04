@@ -24,7 +24,7 @@ Rédigé le 30 juin 2026
 
 ## INTRODUCTION
 
-La présente synthèse juridique et FAQ a été rédigée par **[La Victime]** dans le cadre du contentieux l'opposant à **[L'Exploitant du Commerce]** à la suite de l'accident corporel du 29 mai 2026. Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de l'article 1231-1 du Code civil, la responsabilité délictuelle sur le fondement de l'article 1240 du même code, ainsi que la garantie des vices cachés prévue à l'article 1641 du Code civil. La présente synthèse répond en outre aux questions pratiques que la victime est susceptible de se poser dans le cadre de la conduite de son dossier.
+La présente synthèse juridique et FAQ a été rédigée par **[La Victime]** dans le cadre du contentieux l'opposant à **[L'Exploitant du Commerce]** à la suite de l'accident corporel du 29 mai 2026. Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de [l'article 1231-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032010123), la responsabilité délictuelle sur le fondement de [l'article 1240 du même code](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571), ainsi que la garantie des vices cachés prévue à [l'article 1641 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924). La présente synthèse répond en outre aux questions pratiques que la victime est susceptible de se poser dans le cadre de la conduite de son dossier.
 
 Rédigé par : **[La Victime]**
 
@@ -56,11 +56,11 @@ Le bilan médical est lourd : une section partielle du tendon fléchisseur de l'
 
 ### Q : Le gérant peut-il refuser de me donner le nom de sa compagnie d'assurance ?
 
-Non, ce refus est abusif et contraire au principe de loyauté. La victime dispose d'un droit d'action directe contre l'assureur (Art. L. 124-3 du Code des assurances). Si le gérant fait obstruction, la victime peut obtenir du juge des référés (Art. 145 du CPC) une injonction de communiquer l'attestation d'assurance sous astreinte financière quotidienne.
+Non, ce refus est abusif et contraire au principe de loyauté. La victime dispose d'un droit d'action directe contre l'assureur ([Art. L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)). Si le gérant fait obstruction, la victime peut obtenir du juge des référés ([Art. 145 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)) une injonction de communiquer l'attestation d'assurance sous astreinte financière quotidienne.
 
 ### Q : Quelles sont les obligations de déclaration de la société suite à l'accident ?
 
-La société doit obligatoirement déclarer l'accident corporel à son assureur RC sous 5 jours ouvrés (Art. L. 113-2 du Code des assurances). De plus, elle doit consigner l'incident dans son registre de sécurité interne d'ERP (Établissement Recevant du Public). Le fait de cacher l'accident à son assureur ou de refuser de communiquer les coordonnées constitue une faute de gestion caractérisée des dirigeants.
+La société doit obligatoirement déclarer l'accident corporel à son assureur RC sous 5 jours ouvrés ([Art. L. 113-2 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)). De plus, elle doit consigner l'incident dans son registre de sécurité interne d'ERP (Établissement Recevant du Public). Le fait de cacher l'accident à son assureur ou de refuser de communiquer les coordonnées constitue une faute de gestion caractérisée des dirigeants.
 
 
 === PAGE BREAK ===
@@ -83,7 +83,7 @@ Enfin, le propriétaire des murs, **[Le Propriétaire des Murs]**, peut être so
 - Courrier à l'attention du Président **[Le Président de l'Exploitation]** ;
 - Courrier à la Directrice Générale **[La Directrice Générale de l'Exploitation]** ;
 - Demande de communication d'assurance au **[propriétaire des murs]** ;
-- Action directe contre **[l'assureur de responsabilité civile]** (fondée sur [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)).
+- Action directe contre **[l'assureur de responsabilité civile]** (fondée sur [[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)).
 
 
 === PAGE BREAK ===
@@ -103,7 +103,7 @@ Bien que le dossier soit solide, certains points bloquants persistent, notamment
 
 *Q15 : Que se passe-t-il si **[L'Exploitant du Commerce]** est mise en liquidation ou radiée pendant la procédure ?*
 
-*Réponse : La personnalité morale de la société survit pour les besoins de la liquidation (Art. L. 237-2 du Code de commerce). De plus, l'action directe contre l'assureur (Art. L. 124-3 du Code des assurances) est autonome et reste recevable même après la dissolution ou la liquidation de l'entreprise responsable, garantissant l'indemnisation finale par la compagnie d'assurance.*
+*Réponse : La personnalité morale de la société survit pour les besoins de la liquidation ([Art. L. 237-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063)). De plus, l'action directe contre l'assureur ([Art. L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)) est autonome et reste recevable même après la dissolution ou la liquidation de l'entreprise responsable, garantissant l'indemnisation finale par la compagnie d'assurance.*
 
 
 === PAGE BREAK ===

@@ -73,7 +73,7 @@ Les examens cliniques constatent une section partielle du tendon fléchisseur, u
 
 **[La Victime]** agit actuellement en son nom propre et a formalisé les démarches suivantes :
 
-- Pièce 01 - Conclusions de Partie Civile : Récit des faits et fondements juridiques d'obligation (Article 1242 alinéas 1 et 5 du Code civil ; Article 222-20 du Code pénal).
+- Pièce 01 - Conclusions de Partie Civile : Récit des faits et fondements juridiques d'obligation ([Article 1242 alinéas 1 et 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ; [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)).
 - Pièce 02 - Rapport d'expertise juridique (Deep Research) : Note théorique sur la faute détachable du dirigeant et l'action directe.
 - Pièce 03 - Étude de l'Indemnisation Maximale : Évaluation chiffrée prospective.
 - Pièce 04 (Courrier 1) - Mise en demeure SAS (**[L'Exploitant du Commerce]**) : Demandant à l'exploitant de déclarer le sinistre.

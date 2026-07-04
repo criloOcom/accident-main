@@ -51,7 +51,7 @@ RÉFÉRENCE : Dossier [ ... ]
 
 Le présent complément de plainte pénale est déposé par **[La Victime]** auprès de Monsieur le Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** afin de dénoncer le défaut d'assurance de responsabilité civile professionnelle de **[L'Exploitant du Commerce]**.
 
-Cette infraction, prévue et réprimée par l'article L. 211-26 du Code des assurances, constitue un obstacle majeur à l'exercice de l'action directe de la victime contre l'assureur et entrave gravement ses droits à indemnisation. La présente dénonciation vise à permettre à l'autorité judiciaire de constater l'infraction et d'y apporter une réponse pénale appropriée.
+Cette infraction, prévue et réprimée par [l'article L. 211-26 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795644), constitue un obstacle majeur à l'exercice de l'action directe de la victime contre l'assureur et entrave gravement ses droits à indemnisation. La présente dénonciation vise à permettre à l'autorité judiciaire de constater l'infraction et d'y apporter une réponse pénale appropriée.
 
 
 === PAGE BREAK ===
@@ -73,7 +73,7 @@ En vertu de [l'article L. 243-1](https://www.legifrance.gouv.fr/codes/article_lc
 
 ### B. Sur l'entrave à l'exercice de l'action directe
 
-L'article L. 124-3 du Code des assurances consacre le droit propre et l'action directe de la victime à l'encontre de l'assureur du responsable.
+[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) consacre le droit propre et l'action directe de la victime à l'encontre de l'assureur du responsable.
 
 Cette autonomie de l'action directe a été fermement rappelée par la jurisprudence (Cass. Civ. 1ère, 8 décembre 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
 

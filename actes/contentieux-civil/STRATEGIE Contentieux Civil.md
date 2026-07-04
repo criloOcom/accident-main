@@ -41,7 +41,7 @@ La responsabilité de la SAS est engagée de plein droit en application de [l'ar
 
 ### 2.2 Action directe contre l'assureur
 
-[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable ([Cass. 1ère civ., 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
+[[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable ([Cass. 1ère civ., 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
 
 La mise en demeure de l'assureur a été adressée le 29 juin 2026, enjoignant à la compagnie de prendre en charge le sinistre et de procéder au règlement des préjudices sous 15 jours.
 
@@ -78,7 +78,7 @@ L'évaluation des préjudices subis par **[La Victime]**, informaticien indépen
 | Déficit Fonctionnel Permanent (DFP) — 12 % estimé, 44 ans | 25 200 € |
 | Souffrances Endurées — 4/7 (microchirurgie, rééducation) | 12 000 € |
 | Préjudice d'Agrément — perte de loisirs (guitare, codage personnel) | 3 000 € |
-| Frais Article 700 du Code de procédure civile | 1 500 € |
+| Frais [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) | 1 500 € |
 | **TOTAL ESTIMATIF** | **58 100 €** |
 
 L'incidence professionnelle est un préjudice distinct qui indemnise notamment la dévalorisation sociale ressentie par la victime du fait de son exclusion du monde du travail ([Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)). Elle inclut également la pénibilité accrue et l'obligation de s'équiper en outils d'accessibilité (logiciel de dictée vocale, clavier ergonomique, souris adaptée).

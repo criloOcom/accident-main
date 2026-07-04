@@ -23,7 +23,7 @@ Rédigé le 30 juin 2026
 
 ## INTRODUCTION
 
-Le présent rapport d'expertise juridique a été établi par **[La Victime]** afin d'évaluer l'étendue et la qualification juridique des préjudices corporels subis à la suite de l'accident du 29 mai 2026. Ce document procède à une analyse détaillée de chaque poste de préjudice selon la nomenclature Dintilhac, en s'appuyant sur les pièces médicales et administratives versées au dossier. L'évaluation est fondée sur les articles 1240 et 1231-1 du Code civil, ainsi que sur la jurisprudence constante de la Cour de cassation en matière de réparation intégrale. Chaque citation est présentée et interprétée de bonne foi, étant précisé que seuls les tribunaux ont autorité pour trancher définitivement les questions de droit soulevées.
+Le présent rapport d'expertise juridique a été établi par **[La Victime]** afin d'évaluer l'étendue et la qualification juridique des préjudices corporels subis à la suite de l'accident du 29 mai 2026. Ce document procède à une analyse détaillée de chaque poste de préjudice selon la nomenclature Dintilhac, en s'appuyant sur les pièces médicales et administratives versées au dossier. L'évaluation est fondée sur les [articles 1240 et 1231-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571), ainsi que sur la jurisprudence constante de la Cour de cassation en matière de réparation intégrale. Chaque citation est présentée et interprétée de bonne foi, étant précisé que seuls les tribunaux ont autorité pour trancher définitivement les questions de droit soulevées.
 
 Rédigé par : La Victime
 
@@ -71,7 +71,7 @@ Pour un informaticien indépendant dont la main droite est la main dominante, ce
 
 ### A. Action directe contre l'assureur et survie de la personnalité morale
 
-La stratégie privilégie l'exercice de l'action directe contre L'Assureur de responsabilité civile de **[L'Exploitant du Commerce]**, telle que prévue par [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
+La stratégie privilégie l'exercice de l'action directe contre L'Assureur de responsabilité civile de **[L'Exploitant du Commerce]**, telle que prévue par [[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 
 Cette action est autonome et n'est pas affectée par une éventuelle radiation de la société. En effet, la jurisprudence confirme que la personnalité morale d'une société subsiste tant que son passif n'est pas apuré (Cass. Civ. 1ère, 8 déc. 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
 
@@ -111,10 +111,10 @@ Le préjudice global estimé à 58 100 € doit faire l'objet d'une demande de p
 
 Dans ce dossier, les fondements juridiques sont solides :
 
-- L'action directe contre L'Assureur RC (Art. L.124-3 Code des assurances)
-- La responsabilité du fait des choses (Art. 1242 al.1 Code civil)
-- La responsabilité du commettant du fait de ses préposés (Art. 1242 al.5 Code civil)
-- La responsabilité personnelle des Dirigeants pour faute détachable (Art. 1240 Code civil)
+- L'action directe contre L'Assureur RC ([Art. L.124-3 Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449))
+- La responsabilité du fait des choses ([Art. 1242 al.1 Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000))
+- La responsabilité du commettant du fait de ses préposés ([Art. 1242 al.5 Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000))
+- La responsabilité personnelle des Dirigeants pour faute détachable ([Art. 1240 Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571))
 
 
 === PAGE BREAK ===

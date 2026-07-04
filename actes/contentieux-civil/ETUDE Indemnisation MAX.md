@@ -86,7 +86,7 @@ Préjudice d'Agrément : Répare l'impossibilité de pratiquer des loisirs (guit
 | Déficit Fonctionnel Permanent (DFP) | 25 200 € |
 | Souffrances Endurées | 12 000 € |
 | Préjudice d'Agrément | 3 000 € |
-| Frais d'assistance (Article 700 CPC) | 1 500 € |
+| Frais d'assistance ([Article 700 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)) | 1 500 € |
 | TOTAL ESTIMATIF | 58 100 € |
 
 
