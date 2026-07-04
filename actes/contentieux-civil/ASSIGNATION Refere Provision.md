@@ -133,10 +133,3 @@ Fait à **[La Ville de l'Accident]**, le 30 juin 2026.
 
 
 Pour **[La Victime]** **[Nom de l'Avocat]**
-
-
-=== PAGE BREAK ===
-
-
-
----
