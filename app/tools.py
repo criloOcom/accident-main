@@ -9,7 +9,11 @@ sys.path.insert(0, "/home/crilocom/.opencode")
 sys.path.insert(0, "/home/crilocom/.opencode/mcp-legifrance")
 sys.path.insert(0, "/home/crilocom/.opencode/mcp-judilibre")
 
-from souverain import get_secret
+try:
+    from souverain import get_secret
+except ImportError:
+    def get_secret(key):
+        raise Exception(f"Secret {key} not found (souverain not installed)")
 
 try:
     piste_creds = get_secret("PISTE_CREDENTIALS")

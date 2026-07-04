@@ -7,7 +7,7 @@ from googleapiclient import discovery
 
 DRIVE_SCOPES = [
     "https://www.googleapis.com/auth/drive",
-    "https://www.googleapis.com/auth/drive.file",
+
 ]
 
 FOLDER_ID_ENV = "GOOGLE_DRIVE_FOLDER_ID"

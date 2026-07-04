@@ -128,7 +128,7 @@ def cmd_read_sheet(args):
         range_str = args.range or "A1:Z1000"
         result = service.files().get(fileId=args.sheet_id, fields="name").execute()
         sheet_name = result["name"]
-        sheets = discovery.build("sheets", "v4", credentials=service._http.requests)
+        sheets = discovery.build("sheets", "v4", credentials=service._http.credentials)
         try:
             data = sheets.spreadsheets().values().get(
                 spreadsheetId=args.sheet_id, range=range_str
