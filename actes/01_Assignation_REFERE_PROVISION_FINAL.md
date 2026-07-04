@@ -88,7 +88,7 @@ De surcroît, les faits se sont produits sous le contrôle du préposé de l'ét
 
 L'article 145 du Code de procédure civile prévoit :
 
-*« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »*
+  *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »*
 
 L'état corporel de [La Victime] n'étant pas consolidé à ce jour, il est indispensable de faire désigner un expert médical judiciaire afin d'évaluer l'intégralité des préjudices corporels subis.
 
