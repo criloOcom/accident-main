@@ -79,7 +79,7 @@ Immédiatement après sa blessure, [La Victime] a demandé et obtenu de [Le Pré
 
 Le samedi 30 mai 2026 à 11h00, une intervention de microchirurgie a été réalisée sous anesthésie loco-régionale par [Le Chirurgien SOS Main], chirurgien spécialiste. Le compte-rendu opératoire fait état des lésions suivantes :
 
-- Section partielle du tendon fléchisseur superficiel du index droit, ayant nécessité une suture tendineuse par un point en cadre 6 brins type Mac Learney au fil PDS 3-0 avec surjet péri-tendineux au PDS 5-0, ainsi qu'une plastie d'agrandissement des poulies du canal digital
+- Section partielle du tendon fléchisseur superficiel de l'index droit, ayant nécessité une suture tendineuse par un point en cadre 6 brins type Mac Learney au fil PDS 3-0 avec surjet péri-tendineux au PDS 5-0, ainsi qu'une plastie d'agrandissement des poulies du canal digital
 - Section complète du paquet collatéral ulnaire et radial, ayant nécessité une suture microchirurgicale à l'éthilon 9-0 sous loupes grossissantes
 - Compression du nerf collatéral ulnaire et radial par l'hématome, ayant imposé une neurolyse le long de la voie d'abord
 - Parage et suture cutanée par points séparés de fils résorbables
@@ -119,7 +119,7 @@ Déficit Fonctionnel Permanent (DFP) : À déterminer par expertise médicale. T
 
 Préjudice d'Agrément : Impossibilité de pratiquer des activités de loisir manuelles. Estimation : 3 000 €.
 
-Total estimatif provisoire : 35 900 € (sous réserve d'aggravation et de l'expertise judiciaire).
+Total estimatif provisoire : 58 100 € (sous réserve d'aggravation et de l'expertise judiciaire).
 
 
 === PAGE BREAK ===
@@ -131,9 +131,9 @@ Total estimatif provisoire : 35 900 € (sous réserve d'aggravation et de l'exp
 La responsabilité des défendeurs est engagée sur trois fondements juridiques distincts et cumulatifs :
 
 1. Responsabilité du commettant du fait de son préposé (Article 1242 al. 5 du Code civil)
-1. Responsabilité du fait des choses (Article 1242 al. 1er du Code civil)
-1. Responsabilité pour faute (Article 1240 du Code civil)
-1. Responsabilité personnelle des dirigeants pour faute détachable
+2. Responsabilité du fait des choses (Article 1242 al. 1er du Code civil)
+3. Responsabilité pour faute (Article 1240 du Code civil)
+4. Responsabilité personnelle des dirigeants pour faute détachable
 
 ## B. Recevabilité de l'action directe à l'encontre de l'assureur
 
@@ -141,24 +141,22 @@ Conformément à la jurisprudence constante (Cass. Civ. 1ère, 8 décembre 2021,
 
 ## C. Justification du montant de la provision et de l'urgence
 
-Le montant de la provision sollicitée (5 000 €) est largement inférieur au préjudice total estimé (35 900 €). [La Victime], travailleur indépendant privé de toute source de revenus depuis l'accident, justifie d'une situation d'urgence caractérisée.
+Le montant de la provision sollicitée (5 000 €) est largement inférieur au préjudice total estimé (58 100 €). [La Victime], travailleur indépendant privé de toute source de revenus depuis l'accident, justifie d'une situation d'urgence caractérisée.
 
 # PAR CES MOTIFS
 
 Il est demandé à Monsieur le Président du Tribunal Judiciaire de [La Ville de l'Accident], statuant en référé :
 
 1. CONDAMNER solidairement [L'Exploitant du Commerce] et la Compagnie d'Assurances [NOM À COMMUNIQUER] à verser à [La Victime] une provision de 5 000 € (cinq mille euros) à valoir sur l'indemnisation définitive de ses préjudices ;
-1. ORDONNER à [L'Exploitant du Commerce] et à [Le Président de l'Exploitation], sous astreinte de 150 € (cent cinquante euros) par jour de retard à compter de la signification de l'ordonnance à intervenir, de communiquer à [La Victime] l'intégralité des documents d'assurance de responsabilité civile professionnelle en vigueur au 29 mai 2026 ;
-1. DÉSIGNER un expert médical judiciaire aux frais avancés des défendeurs, avec mission d'évaluer l'intégralité des préjudices corporels conformément à la Nomenclature Dintilhac ;
-1. CONDAMNER in solidum les défendeurs au paiement d'une somme de 1 500 € (mille cinq cents euros) au titre de l'Article 700 du Code de procédure civile, ainsi qu'aux entiers dépens ;
-1. RAPPELER que la présente ordonnance est exécutoire de plein droit par provision.
+2. ORDONNER à [L'Exploitant du Commerce] et à [Le Président de l'Exploitation], sous astreinte de 150 € (cent cinquante euros) par jour de retard à compter de la signification de l'ordonnance à intervenir, de communiquer à [La Victime] l'intégralité des documents d'assurance de responsabilité civile professionnelle en vigueur au 29 mai 2026 ;
+3. DÉSIGNER un expert médical judiciaire aux frais avancés des défendeurs, avec mission d'évaluer l'intégralité des préjudices corporels conformément à la Nomenclature Dintilhac ;
+4. CONDAMNER in solidum les défendeurs au paiement d'une somme de 1 500 € (mille cinq cents euros) au titre de l'Article 700 du Code de procédure civile, ainsi qu'aux entiers dépens ;
+5. RAPPELER que la présente ordonnance est exécutoire de plein droit par provision.
 SOUS TOUTES RÉSERVES quant à l'aggravation future de l'état de santé et à la capitalisation des dépenses de santé futures (Cass. Civ. 2e, 4 avril 2024, n° 22-19.307).
 
 Fait à [La Ville de l'Accident], le [DATE]
 
 [La Victime]
-
-agissant personnellement de l'Ariège
 
 
 === PAGE BREAK ===

@@ -17,13 +17,13 @@ source: drive
 drive_id: 1PiBFn1oA1DtkT61N-zvdPmsCYsmR0au9V4BA9IZzrH4
 ---
 
+# ÉTUDE D'INDEMNISATION MAXIMALE (NOMENCLATURE DINTILHAC)
+
 Rédigé le 30 juin 2026
 
 # INTRODUCTION
 
 La présente étude d'indemnisation a pour objet d'évaluer l'intégralité des préjudices corporels subis par [La Victime] à la suite de l'accident du 29 mai 2026, selon la nomenclature Dintilhac qui constitue la référence harmonisée pour l'évaluation des préjudices corporels devant les juridictions françaises. Cette évaluation chiffrée, établie poste par poste, tient compte du statut de travailleur indépendant de la victime et de son activité professionnelle déclarée sous le numéro [L'Identifiant Professionnel de la Victime]. L'étude vise à déterminer le montant maximal de l'indemnisation susceptible d'être obtenue, dans le respect du principe de réparation intégrale sans perte ni profit consacré par l'article 1240 du Code civil.
-
-ÉTUDE D'INDEMNISATION DES PRÉJUDICES CORPORELS
 
 Document rédigé par [La Victime]
 

@@ -199,7 +199,7 @@ Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](ht
 • **Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)** — Faute détachable de ses fonctions du dirigeant 
 Lien : [https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
-# Annexe C — Liste des pièces citées
+## Annexe C — Liste des pièces citées
 
 **Pièces médicales**
 

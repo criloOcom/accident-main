@@ -28,17 +28,6 @@ Le présent plan d'action et chronologie de la procédure a été établi par [L
 
 === PAGE BREAK ===
 
-# [La Victime] / [L'Exploitant du Commerce]
-
-# Introduction
-
-Ce document présente la stratégie juridique et le calendrier des actions entreprises par [La Victime] à la suite de l'accident corporel grave survenu le 29 mai 2026.
-
-L'objectif est d'assurer une réparation intégrale des préjudices par une approche structurée, favorisant d'abord une résolution amiable tout en préparant rigoureusement les recours judiciaires nécessaires.
-
-
-=== PAGE BREAK ===
-
 # I. Chronologie et Plan d'Action
 
 ## Actions Urgentes et Phase Amiable (Juin 2026)
@@ -104,7 +93,7 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 
 - Ordre des Avocats de [La Ville de l'Accident] (05 61 65 00 10) / Huissiers : Étude LAPORTE (05 61 65 70 70) / UMJ Hôpital de Purpan ([La Métropole Régionale]).
 
-Note Administrative : Dès le 15 juillet 2026 (le lendemain de la fin du délai amiable de mise en demeure), délivrance immédiate de l'assignation en référé par commissaire de justice, matérialisant la fin de la phase comminatoire amiable.
+**Note administrative :** Dès le 15 juillet 2026 (le lendemain de la fin du délai amiable de mise en demeure), délivrance immédiate de l'assignation en référé par commissaire de justice, matérialisant la fin de la phase comminatoire amiable.
 
 *Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la prolongation involontaire de certaines démarches.*
 

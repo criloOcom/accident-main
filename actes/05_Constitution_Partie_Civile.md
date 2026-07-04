@@ -67,7 +67,7 @@ Pour justifier le préjudice subi :
 
 [X] Je souhaite compléter l'information du tribunal par les explications ci-jointes (sur feuille libre à joindre) : Voir Conclusions de Partie Civile ci-jointes (3 pages).
 
-Fait à [La Ville de Résidence de la Victime], le 29 juin 2026
+Fait à [La Ville de Résidence de la Victime], le 30 juin 2026
 
 Signature :
 

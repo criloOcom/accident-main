@@ -127,7 +127,7 @@ Il est demandé au Président du Tribunal de :
 3. **CONDAMNER** [L'Exploitant du Commerce] à verser à [La Victime] la somme de 5 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
 
 4. **CONDAMNER** [L'Exploitant du Commerce] à payer à [La Victime] la somme de 3 000 € sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
-Fait à [La Ville de l'Accident], le 01 juillet 2026.
+Fait à [La Ville de l'Accident], le 30 juin 2026.
 
 
 Pour [La Victime] [Nom de l'Avocat]

@@ -18,6 +18,8 @@ source: drive
 drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
 ---
 
+# COMPLÉMENT DE PLAINTE PÉNALE — DÉFAUT D'ASSURANCE RC
+
 Rédigé le 30 juin 2026
 
 # INTRODUCTION
@@ -40,7 +42,7 @@ Tribunal Judiciaire de [La Ville de l'Accident]
 
 09008 [La Ville de l'Accident] Cedex
 
-[La Ville de Résidence de la Victime], le 29 juin 2026
+[La Ville de Résidence de la Victime], le 30 juin 2026
 
 OBJET : COMPLÉMENT DE PLAINTE PÉNALE
 
@@ -91,7 +93,7 @@ Le pronostic de récupération est réservé, avec un délai minimal d'un an év
 
 Sur le plan financier, le plaignant est privé de revenus depuis l'accident.
 
-Les pertes d'exploitation sont d'ores et déjà significatives et le préjudice global est estimé à ce jour à la somme de 35 900 €.
+Les pertes d'exploitation sont d'ores et déjà significatives et le préjudice global est estimé à ce jour à la somme de 58 100 €.
 
 L'absence de communication de l'assurance bloque toute offre d'indemnisation amiable, l'accès à une expertise médicale contradictoire et la prise en charge des soins par la CPAM (dossier [ ... ]).
 
@@ -103,14 +105,14 @@ L'absence de communication de l'assurance bloque toute offre d'indemnisation ami
 Par ces motifs, [La Victime] sollicite qu'il plaise à Monsieur le Procureur de la République d'ordonner une enquête complémentaire visant à :
 
 1. Vérifier l'existence et la validité du contrat d'assurance de responsabilité civile de [L'Exploitant du Commerce] au jour du sinistre ;
-1. Identifier la compagnie d'assurance concernée par tout moyen d'investigation (Fichier Central des Assurances, ORIAS) ;
-1. Recueillir les explications des mis en cause sur la dissimulation des informations d'assurance ;
-1. Ordonner la préservation urgente et la saisie des enregistrements de vidéosurveillance du salon pour la journée du 29 mai 2026, afin de prévenir toute destruction de preuve.
+2. Identifier la compagnie d'assurance concernée par tout moyen d'investigation (Fichier Central des Assurances, ORIAS) ;
+3. Recueillir les explications des mis en cause sur la dissimulation des informations d'assurance ;
+4. Ordonner la préservation urgente et la saisie des enregistrements de vidéosurveillance du salon pour la journée du 29 mai 2026, afin de prévenir toute destruction de preuve.
 Le plaignant se constitue partie civile et se tient à la disposition de la justice pour toute mesure d'expertise ou audition nécessaire à la manifestation de la vérité.
 
 [La Victime]
 
-NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+**Note administrative :** Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 
 Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement du présent document.
 

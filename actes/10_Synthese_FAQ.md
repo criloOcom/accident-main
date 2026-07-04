@@ -30,7 +30,7 @@ Rédigé par : [La Victime]
 
 [L'Adresse de la Victime]
 
-Le 01 juillet 2026
+Le 30 juin 2026
 
 
 === PAGE BREAK ===

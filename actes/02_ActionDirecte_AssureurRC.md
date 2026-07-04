@@ -18,6 +18,8 @@ source: drive
 drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
 ---
 
+# ACTION DIRECTE — MISE EN DEMEURE ASSUREUR RC (Art. L. 124-3)
+
 Rédigé le 30 juin 2026
 
 # INTRODUCTION
@@ -25,8 +27,6 @@ Rédigé le 30 juin 2026
 La présente lettre de mise en demeure est adressée par [La Victime] à la compagnie d'assurance de [L'Exploitant du Commerce] sur le fondement de l'article L. 124-3 du Code des assurances, lequel institue une action directe de la victime contre l'assureur du responsable. Par ce courrier, [La Victime] met en demeure l'assureur de prendre en charge le sinistre corporel survenu le 29 mai 2026 dans les locaux de [L'Exploitant du Commerce] et de procéder au règlement des préjudices subis. Cette action directe permet à la victime de saisir directement l'assureur sans passer par l'intermédiaire de la société responsable, conformément aux dispositions du Code des assurances.
 
 [La Victime]
-
-[L'Adresse de la Victime]
 
 [L'Adresse de la Victime]
 
@@ -69,8 +69,8 @@ En vertu d'une jurisprudence constante (Cass. Civ. 1ère, 8 décembre 2021, n° 
 Je vous mets en demeure par la présente :
 
 1. De procéder à l'ouverture d'un dossier de sinistre corporel et de me confirmer la validité de votre garantie de responsabilité civile professionnelle pour [L'Exploitant du Commerce] au 29 mai 2026.
-1. De désigner sans délai un médecin expert afin de procéder à mon examen, en vue d'évaluer mes préjudices conformément à la Nomenclature Dintilhac.
-1. De procéder au versement d'une provision financière de première urgence d'un montant de 15 000 € sous un délai de 15 jours à compter de la réception du présent pli, afin de compenser les premières pertes d'exploitation me concernant, travailleur indépendant ([L'Identifiant Professionnel de la Victime]) actuellement dans l'incapacité d'utiliser sa main droite pour exercer son activité professionnelle d'informaticien.
+2. De désigner sans délai un médecin expert afin de procéder à mon examen, en vue d'évaluer mes préjudices conformément à la Nomenclature Dintilhac.
+3. De procéder au versement d'une provision financière de première urgence d'un montant de 15 000 € sous un délai de 15 jours à compter de la réception du présent pli, afin de compenser les premières pertes d'exploitation me concernant, travailleur indépendant ([L'Identifiant Professionnel de la Victime]) actuellement dans l'incapacité d'utiliser sa main droite pour exercer son activité professionnelle d'informaticien.
 À défaut de réponse et du versement de la provision réclamée dans le délai de 15 jours, j'engagerai une procédure en référé-provision devant le Président du Tribunal Judiciaire de [La Ville de l'Accident], et assignerai directement votre compagnie en exécution forcée sur le fondement de l'action directe.
 
 Sous toutes réserves quant à l'aggravation future de l'état fonctionnel de sa main (arrêt Civ. 2e, 8 juillet 2021, n° 20-15.106) et de la capitalisation de ses dépenses de santé futures (arrêt Civ. 2e, 4 avril 2024, n° 22-19.307).
@@ -80,8 +80,8 @@ Transparence sur la suite donnée au dossier
 La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
 
 1. D'obtenir les informations nécessaires à l'identification de l'assureur de responsabilité civile ;
-1. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat (article L. 113-2, 4° du Code des assurances), lequel devra répondre dans un délai raisonnable ;
-1. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
+2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat (article L. 113-2, 4° du Code des assurances), lequel devra répondre dans un délai raisonnable ;
+3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de [La Ville de l'Accident] — d'abord en référé sur le fondement de l'article 145 du Code de procédure civile pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.

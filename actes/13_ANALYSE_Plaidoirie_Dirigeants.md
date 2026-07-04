@@ -33,8 +33,6 @@ Il identifie les manquements aux obligations légales et réglementaires imputab
 
 Rédigé par : La Victime
 
-Rédigé le 30 juin 2026
-
 
 === PAGE BREAK ===
 
@@ -96,7 +94,7 @@ Pour La Victime, informaticien indépendant, l'incidence professionnelle est maj
 
 Elle ne se limite pas à la perte de gains actuels mais inclut la dévalorisation sur le marché du travail et la pénibilité accrue.
 
-Le préjudice global est estimé à 35 900 €, incluant le déficit fonctionnel permanent et les souffrances endurées, tel que détaillé dans l'étude d'indemnisation prospective.
+Le préjudice global est estimé à 58 100 €, incluant le déficit fonctionnel permanent et les souffrances endurées, tel que détaillé dans l'étude d'indemnisation prospective.
 
 
 === PAGE BREAK ===

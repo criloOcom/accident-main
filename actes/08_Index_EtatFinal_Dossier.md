@@ -70,7 +70,7 @@ Partage depuis : [L'Email de la Victime]
 
 ## MODIFICATIONS CLÉS
 
-1. [Le Préposé de l'Exploitation] -> [Le Président de l'Exploitation] + [La Directrice générale de l'Exploitation] ✓
+1. [Le Préposé de l'Exploitation] -> [Le Président de l'Exploitation] + [La Directrice Générale de l'Exploitation] ✓
 1. Stratégie : faute détachable des dirigeants ✓
 1. Paragraphe faute détachable dans Assignation ✓
 1. Plaidoirie refondue ✓
@@ -94,7 +94,7 @@ Partage depuis : [L'Email de la Victime]
 ## STATISTIQUES DU DOSSIER
 
 - Nombre total de documents : 15
-- Documents vérifiés : 15/100%
+- Documents vérifiés : 15/15 (100%)
 - Références jurisprudentielles : 7 vérifiées
 - Liens Légifrance ajoutés : 10+
 
