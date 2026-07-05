@@ -16,7 +16,6 @@ tags:
 statut: final
 source: drive
 drive_id: null
-format: Arial JUSTIFIED
 ---
 
 **Table des matières**
@@ -73,7 +72,9 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat ([article L. 113-2, 4° du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)), lequel devra répondre dans un délai raisonnable ;
 
-3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
+3. De procéder au versement d'une provision amiable d'un montant de 15 000 € à valoir sur la réparation de mes préjudices, au titre de l'incidence professionnelle de l'accident ;
+
+4. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
 À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de **[La Ville de l'Accident]** — d'abord en référé sur le fondement de [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 

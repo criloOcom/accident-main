@@ -16,7 +16,6 @@ tags:
 statut: final
 source: drive
 drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
-format: Arial JUSTIFIED
 ---
 
 **Table des matières**
@@ -69,7 +68,7 @@ Le présent mémorandum juridique constitue un audit stratégique et une restruc
 
 Le 29 mai 2026, **[La Victime]** a subi un grave accident corporel au sein du salon exploité par la SAS Les Mauvais Garçons (l'Exploitant).
 
-Alors que l'employé coiffeur était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger le coiffeur ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse majeure à sa main dominante.
+Alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger **[Le Préposé de l'Exploitation]** ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse majeure à sa main dominante.
 
 L'affaire met en cause la responsabilité de la personne morale, dirigée par **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, ainsi que le fait de son préposé.
 
@@ -99,7 +98,7 @@ En vertu de l'[Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/code
 
 ### B. Évaluation du préjudice et libre disposition des fonds
 
-Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeure pour la Victime, informaticien indépendant. Conformément à la jurisprudence ([Civ. 2e, 4 avril 2024, [n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)), les fonds versés à la victime sont librement utilisés sans avoir à justifier de leur utilisation.
+Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeure pour la Victime, informaticien indépendant. Conformément à la jurisprudence ([Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)), les fonds versés à la victime sont librement utilisés sans avoir à justifier de leur utilisation.
 
 
 === PAGE BREAK ===

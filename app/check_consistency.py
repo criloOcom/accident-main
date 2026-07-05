@@ -105,8 +105,8 @@ def check_tokens() -> None:
 # ── 3. Légifrance / Judilibre ─────────────────────────────────────────
 def check_external_links() -> None:
     acte_files = all_acte_md()
-    legi_pattern = re.compile(r'LEGIARTI[0-9]{13}')
-    juri_pattern = re.compile(r'JURITEXT[0-9]{12}')
+    legi_pattern = re.compile(r'LEGIARTI\d+')
+    juri_pattern = re.compile(r'JURITEXT\d+')
     
     # 1. Charger les IDs définis localement dans le code du projet
     local_ids = set()

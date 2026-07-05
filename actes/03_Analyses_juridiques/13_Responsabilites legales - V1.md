@@ -16,7 +16,6 @@ tags:
 statut: final
 source: drive
 drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
-format: Arial JUSTIFIED
 ---
 
 **Table des matières**
@@ -103,7 +102,7 @@ Selon la jurisprudence [Cass. Com., 20 mai 2003 (Arrêt SATI)](https://www.legif
 
 ## III. IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES
 
-Il convient de noter que le préposé bénéficie d'une immunité civile selon l'[Arrêt Costedoat (Ass. Plén., 25 fév. 2000)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831), sauf en cas de faute pénale intentionnelle (**[Arrêt Cousin](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322)**). Les blessures étant involontaires, l'action doit se concentrer sur la SAS et ses dirigeants.
+Il convient de noter que le préposé bénéficie d'une immunité civile selon [l'Arrêt Costedoat (Ass. Plén., 25 fév. 2000)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831), sauf en cas de faute pénale intentionnelle (**[Arrêt Cousin](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322)**). Les blessures étant involontaires, l'action doit se concentrer sur la SAS et ses dirigeants.
 
 ### A. Action directe contre l'assureur
 
@@ -121,7 +120,7 @@ De plus, bien que le gérant tente de dissimuler l'identité de son assurance po
 
 Pour rendre ce droit effectif, le gérant a un devoir de bonne foi de communiquer ses coordonnées d'assurance.
 
-En cas de refus persistant de transmettre les coordonnées de l'assureur RC, la victime peut saisir en urgence le Président du Tribunal judiciaire en référé sur le fondement de [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) (CPC).
+En cas de refus persistant de transmettre les coordonnées de l'assureur RC, la victime peut saisir en urgence le Président du Tribunal judiciaire en référé sur le fondement de [l'article 145 du Code de procédure civile (CPC)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339).
 
 Le juge ordonnera alors la communication forcée de l'attestation d'assurance de responsabilité civile sous astreinte financière par jour de retard, à la charge exclusive de l'exploitant récalcitrant.
 
