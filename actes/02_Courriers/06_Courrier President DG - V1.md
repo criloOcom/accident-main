@@ -1,0 +1,106 @@
+---
+titre: Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC
+date: 2026-06-29
+type: acte
+categorie: procedure
+auteur: La Victime
+destinataire: Dirigeants de l'Exploitant du Commerce
+personnes:
+  - La Victime
+  - Le Président de l'Exploitation
+  - La Directrice Générale de l'Exploitation
+  - L'Exploitant du Commerce
+tags:
+  - mise en demeure
+  - dirigeants
+  - assurance
+  - faute détachable
+  - LRAR
+statut: final
+source: drive
+drive_id: null
+---
+
+**Table des matières**
+
+- [INTRODUCTION](#introduction)
+
+# MISE EN DEMEURE AUX DIRIGEANTS — Demande d'Information Assurance RC
+
+**[L'Adresse de la Victime]**
+
+Courriel : **[L'Email de la Victime]**
+
+**[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**
+
+**[L'Exploitant du Commerce]**
+
+**[L'Adresse de l'Exploitation]**
+
+**[La Ville de l'Accident]**, le 29 juin 2026
+
+Objet : Demande d'information et communication d'assurance — Accident 29 mai 2026 — L.R.A.R.
+
+Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce]**
+
+Madame la Directrice Générale, Monsieur le Président,
+
+## INTRODUCTION
+
+La présente lettre de mise en demeure est adressée conjointement par **[La Victime]** à **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, en leur qualité de dirigeants de **[L'Exploitant du Commerce]**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le 29 mai 2026.
+
+Ce courrier constitue une démarche constructive et préalable à toute action contentieuse, conformément aux obligations légales et à la jurisprudence applicable en matière de responsabilité personnelle des dirigeants.
+
+Rappel des obligations légales
+
+La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions. La Cour de cassation (Cass. Com., 20 mai 2003, n° 99-17.092 — [[[arrêt SATI](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)) a jugé que constitue une faute détachable le fait pour un dirigeant de ne pas avoir souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain.
+
+[[[[[L'article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) dispose que les dirigeants d'une société commerciale sont responsables, individuellement ou solidairement, selon le cas, envers les tiers des conséquences dommageables de leurs actes.
+
+Le défaut d'information de la victime sur l'identité de l'assureur constitue un manquement grave à l'obligation de loyauté et de transparence qui incombe à tout dirigeant d'entreprise.
+
+Je me permets de vous adresser la présente lettre dans une démarche constructive et explicative concernant l'accident corporel dont j'ai été la victime au sein de votre salon de coiffure le vendredi 29 mai 2026 à 15h20.
+
+Je tiens tout d'abord à vous remercier pour votre réactivité le jour même de l'accident, notamment pour l'annulation de la transaction de 15 € effectuée par virement Wero. Cette attention a été particulièrement appréciée dans ces circonstances difficiles.
+
+Comme vous le savez, l'accident a entraîné une blessure importante à ma main droite (index droit), nécessitant une opération de microchirurgie d'urgence par **[Le Chirurgien SOS Main]** le samedi 30 mai 2026 au service SOS Main de **[L'Établissement SOS Main]** (suture tendineuse 6 brins, suture microchirurgicale des nerfs et vaisseaux, neurolyse d'urgence). Le chirurgien a évalué le pronostic de récupération neurologique à un an minimum, avec un résultat souvent partiel s'agissant d'une suture nerveuse. Du fait de mon activité d'informaticien indépendant (**[L'Identifiant Professionnel de la Victime]**), l'incapacité d'utiliser mon index et ma main dominante me paralyse totalement dans mon travail quotidien.
+
+En tant que citoyen, je ne connaissais pas les formalités nécessaires dans ce type de situation. C'est à la suite de mes démarches administratives auprès de la CPAM (recours contre tiers n° **31727387**) et des services de police que j'ai été informé de l'obligation de recueillir les coordonnées de l'assureur de responsabilité civile professionnelle de votre salon afin de lui transmettre mon dossier médical. C'est ce même assureur qui prendra en charge et indemnisera les conséquences matérielles et corporelles de ce sinistre, protégeant ainsi l'équilibre de votre propre entreprise.
+
+Je sollicite donc aujourd'hui votre aide bienveillante afin que vous puissiez me transmettre par écrit les coordonnées de votre compagnie d'assurance (nom de l'assureur et numéro de police d'assurance civile professionnelle en vigueur au 29 mai 2026).
+
+En application de [[[[[[[[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), la victime dispose d'une action directe contre l'assureur de responsabilité civile de l'auteur du dommage. Je vous remercie de bien vouloir me communiquer, dans les meilleurs délais, les informations suivantes :
+
+1. Le nom et les coordonnées complètes de la compagnie d'assurance couvrant la responsabilité civile professionnelle de **[L'Exploitant du Commerce]** au titre de la police en vigueur le 29 mai 2026 ;
+
+2. Le numéro de contrat d'assurance souscrit ;
+
+3. Les coordonnées du gestionnaire de sinistre en charge du dossier.
+
+Ces informations me permettront de déclarer le sinistre et d'envisager une résolution amiable, conformément à l'obligation de loyauté et de transparence qui incombe à tout dirigeant d'entreprise.
+
+En l'absence de retour de votre part sous un délai raisonnable de 15 jours à compter de la réception de cette lettre, la procédure d'indemnisation amiable sera malheureusement bloquée, ce qui m'obligerait à solliciter l'aide d'un huissier de justice ou d'un juge pour obtenir ces renseignements. À défaut de réponse dans ce délai, je me verrai contraint de saisir le juge des référés du tribunal judiciaire de **[La Ville de l'Accident]** afin d'obtenir, sur le fondement de [l'[[article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339), une mesure d'instruction in futurum aux fins d'identification de l'assureur.
+
+Dans cette hypothèse, je serai également contraint de rechercher la responsabilité personnelle des dirigeants pour défaut d'information sur le fondement de la faute détachable (Cass. Com., 20 mai 2003, n° 99-17.092 — [[[arrêt SATI](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)).
+
+Je vous remercie sincèrement de l'attention que vous porterez à cette demande administrative et reste disponible pour tout échange afin de faire avancer ce dossier dans le respect mutuel des parties.
+
+Transparence sur la suite donnée au dossier
+
+La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
+
+1. D'obtenir les informations nécessaires à l'identification de l'assureur de responsabilité civile ;
+
+2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat ([article L. 113-2, 4° du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)), lequel devra répondre dans un délai raisonnable ;
+
+3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
+
+À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de **[La Ville de l'Accident]** — d'abord en référé sur le fondement de [l'[[article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+
+L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
+
+Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président, l'expression de mes salutations distinguées.
+
+**[La Victime]**
+
+NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire explique le délai de transmission de mes demandes administratives.

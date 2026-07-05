@@ -9,6 +9,7 @@ import re
 import os
 
 BASE = "https://www.legifrance.gouv.fr/codes/article_lc"
+JURI_BASE = "https://www.legifrance.gouv.fr/juri/id"
 
 LEGIARTI = {
     "1240 C. civ.": "LEGIARTI000032041571",
@@ -34,6 +35,8 @@ LEGIARTI = {
 }
 
 def link(url_id, text):
+    if url_id.startswith("JURITEXT"):
+        return f"[{text}]({JURI_BASE}/{url_id})"
     return f"[{text}]({BASE}/{url_id})"
 
 REPLACEMENTS = [
@@ -92,6 +95,50 @@ REPLACEMENTS = [
      link("LEGIARTI000017735449", "l'article L. 124-3 du Code des assurances")),
     (r"(?<!\]\()l'article 145 du Code de procédure civile \(CPC\)",
      link("LEGIARTI000051869339", "l'article 145 du Code de procédure civile (CPC)")),
+
+    # === 03_Courrier SAS - V1.md ===
+    (r"(?<!\]\()L'article L\. 124-3 du Code des assurances",
+     link("LEGIARTI000017735449", "L'article L. 124-3 du Code des assurances")),
+    (r"(?<!\]\()L'article L\. 227-8 du Code de commerce",
+     link("LEGIARTI000006226329", "L'article L. 227-8 du Code de commerce")),
+    (r"(?<!\]\()article 145 du Code de procédure civile",
+     link("LEGIARTI000051869339", "article 145 du Code de procédure civile")),
+    (r"(?<!\()\(article L\. 113-2, 4° du Code des assurances\)",
+     f"({link('LEGIARTI000035731302', 'article L. 113-2, 4° du Code des assurances')})"),
+
+    # === 04_Courrier Assureur - V1.md ===
+    (r"(?<!\()\(Art\. L\.124-3\)",
+     f"({link('LEGIARTI000017735449', 'Art. L.124-3')})"),
+    (r"(?<!\]\()l'article L\. 124-3 du Code des assurances",
+     link("LEGIARTI000017735449", "l'article L. 124-3 du Code des assurances")),
+    (r"(?<!\]\()l'article 145 du Code de procédure civile",
+     link("LEGIARTI000051869339", "l'article 145 du Code de procédure civile")),
+    (r"(?<!\()\(article L\. 113-2, 4° du Code des assurances\)",
+     f"({link('LEGIARTI000035731302', 'article L. 113-2, 4° du Code des assurances')})"),
+
+    # === 05_Courrier Proprietaire - V1.md ===
+    (r"(?<!\]\()L'article 1719 du Code civil",
+     link("LEGIARTI000020459127", "L'article 1719 du Code civil")),
+    (r"(?<!\]\()L'article 1720 du même code",
+     link("LEGIARTI000020459127", "L'article 1720 du même code")),
+    (r"(?<!\]\()l'Article L\. 124-3 du Code des assurances",
+     link("LEGIARTI000017735449", "l'Article L. 124-3 du Code des assurances")),
+    (r"(?<!\()\(article L\. 113-2, 4° du Code des assurances\)",
+     f"({link('LEGIARTI000035731302', 'article L. 113-2, 4° du Code des assurances')})"),
+    (r"(?<!\]\()l'article 145 du Code de procédure civile",
+     link("LEGIARTI000051869339", "l'article 145 du Code de procédure civile")),
+
+    # === 06_Courrier President DG - V1.md ===
+    (r"(?<!\]\()arrêt SATI",
+     link("JURITEXT000007047369", "arrêt SATI")),
+    (r"(?<!\]\()L'article L\. 227-8 du Code de commerce",
+     link("LEGIARTI000006226329", "L'article L. 227-8 du Code de commerce")),
+    (r"(?<!\]\()l'article L\. 124-3 du Code des assurances",
+     link("LEGIARTI000017735449", "l'article L. 124-3 du Code des assurances")),
+    (r"(?<!\]\()l'article 145 du Code de procédure civile",
+     link("LEGIARTI000051869339", "l'article 145 du Code de procédure civile")),
+    (r"(?<!\()\(article L\. 113-2, 4° du Code des assurances\)",
+     f"({link('LEGIARTI000035731302', 'article L. 113-2, 4° du Code des assurances')})"),
 
     # === CONSTITUTION Partie Civile.md ===
     (r"(?<!\()\(Article 222-20 du Code pénal\)",
@@ -202,17 +249,19 @@ def main():
 
     files = {
         # (filepath, use_annexe_b, fix_wrong_ids)
-        os.path.join(base, "PRESENTATION Dossier.md"): (False, False),
-        os.path.join(base, "SYNTHESE FAQ.md"): (False, False),
         os.path.join(base, "archives", "annexes", "ANNEXE B Lois Jurisprudence.md"): (True, True),
-        os.path.join(base, "03_Analyses_juridiques", "11_ANALYSE_correction_juridique.md"): (False, False),
-        os.path.join(base, "03_Analyses_juridiques", "12_ANALYSE_Jurisprudence.md"): (False, False),
-        os.path.join(base, "03_Analyses_juridiques", "STRATEGIE Contentieux Civil.md"): (False, False),
-        os.path.join(base, "04_Etudes_indemnisation", "07_ETUDE_Indemnisation_MAX.md"): (False, False),
-        os.path.join(base, "03_Analyses_juridiques", "14_ANALYSE_Responsabilites_Legales.md"): (False, False),
-        os.path.join(base, "01_Actes_proceduraux", "05_Constitution_Partie_Civile.md"): (False, False),
-        os.path.join(base, "01_Actes_proceduraux", "03_Plainte_Complet_Defaut_Assurance.md"): (False, False),
-        os.path.join(base, "03_Analyses_juridiques", "STRATEGIE Contentieux Penal.md"): (False, False),
+        os.path.join(base, "archives", "ANALYSE_correction_juridique.md"): (False, False),
+        os.path.join(base, "archives", "ANALYSE_Jurisprudence.md"): (False, False),
+        os.path.join(base, "archives", "STRATEGIE_Contentieux_Civil.md"): (False, False),
+        os.path.join(base, "archives", "STRATEGIE_Contentieux_Penal.md"): (False, False),
+        os.path.join(base, "archives", "Constitution_Partie_Civile.md"): (False, False),
+        os.path.join(base, "04_Etudes_indemnisation", "11_Etude indemnisation - V1.md"): (False, False),
+        os.path.join(base, "03_Analyses_juridiques", "13_Responsabilites legales - V1.md"): (False, False),
+        # 4 nouveaux courriers 03-06
+        os.path.join(base, "02_Courriers", "03_Courrier SAS - V1.md"): (False, False),
+        os.path.join(base, "02_Courriers", "04_Courrier Assureur - V1.md"): (False, False),
+        os.path.join(base, "02_Courriers", "05_Courrier Proprietaire - V1.md"): (False, False),
+        os.path.join(base, "02_Courriers", "06_Courrier President DG - V1.md"): (False, False),
     }
 
     print("=== Batch linking legal references to Légifrance ===")

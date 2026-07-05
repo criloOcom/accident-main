@@ -1,0 +1,85 @@
+---
+titre: Mise en Demeure — Déclaration d'Accident Corporel et Demande d'Information Assurance RC
+date: 2026-06-29
+type: acte
+categorie: procedure
+auteur: La Victime
+destinataire: L'Exploitant du Commerce
+personnes:
+  - La Victime
+  - L'Exploitant du Commerce
+tags:
+  - mise en demeure
+  - SAS
+  - assurance
+  - LRAR
+statut: final
+source: drive
+drive_id: null
+---
+
+**Table des matières**
+
+- [INTRODUCTION](#introduction)
+
+# MISE EN DEMEURE — Déclaration d'Accident Corporel
+
+**[L'Adresse de la Victime]**
+
+Courriel : **[L'Email de la Victime]**
+
+Direction de **[L'Exploitant du Commerce]**
+
+**[L'Adresse de l'Exploitation]**
+
+**[La Ville de l'Accident]**, le 29 juin 2026
+
+Objet : Déclaration d'accident corporel — Demande d'information assurance RC — L.R.A.R.
+
+Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce]**
+
+Madame, Monsieur,
+
+## INTRODUCTION
+
+La présente lettre de mise en demeure est adressée par **[La Victime]** à **[L'Exploitant du Commerce]** afin de déclarer officiellement l'accident corporel survenu le 29 mai 2026 dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
+
+Ce courrier constitue la première étape amiable préalable à toute action contentieuse, conformément aux usages de la procédure civile.
+
+Rappel des obligations légales
+
+[[[[[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) reconnaît à la victime une action directe contre l'assureur du responsable. [[[[[L'article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) dispose que les dirigeants d'une société commerciale sont responsables, individuellement ou solidairement, envers les tiers des conséquences dommageables de leurs actes. Le défaut d'information sur l'assurance constitue un manquement à l'obligation de loyauté contractuelle.
+
+Ces dispositions sont d'ordre public : elles s'imposent à la société et à ses dirigeants.
+
+Je me permets de vous adresser ce courrier afin de vous informer officiellement de l'accident corporel dont j'ai été victime au sein de votre établissement le vendredi 29 mai 2026 à 15h20.
+
+Lors de ma venue, et alors que je sollicitais une retouche de coupe de cheveux, le basculement accidentel d'un bac à shampoing a provoqué une coupure profonde de 8,5 cm au niveau de ma main droite (index droit) ayant sectionné le tendon fléchisseur superficiel ainsi que le paquet vasculo-nerveux collatéral ulnaire et radial, nécessitant mon transfert en urgence et une intervention de microchirurgie (suture tendineuse 6 brins, suture microchirurgicale des nerfs et vaisseaux à l'éthilon 9-0, neurolyse d'urgence) le 30 mai 2026 par **[Le Chirurgien SOS Main]** au service SOS Main de **[L'Établissement SOS Main]**. Le chirurgien a évalué le pronostic de récupération neurologique à un an minimum, avec un résultat souvent partiel s'agissant d'une suture nerveuse.
+
+Travaillant à mon compte en tant qu'informaticien indépendant (**[L'Identifiant Professionnel de la Victime]**), cet accident me paralyse professionnellement et financièrement. Mon dossier de recours contre tiers (n° **31727387**) est actuellement ouvert auprès de la Caisse Primaire d'Assurance Maladie (CPAM).
+
+Afin que les différents organismes de santé puissent entrer en contact direct avec votre compagnie d'assurance de responsabilité civile professionnelle pour la gestion de ce sinistre, je vous remercie de bien vouloir me transmettre par retour de courrier ou par courriel les coordonnées de votre assureur ainsi que votre numéro de police d'assurance.
+
+Mes coordonnées pour réponse : **[L'Adresse de la Victime]** / Courriel : **[L'Email de la Victime]**
+
+Je vous remercie par avance pour votre aide et reste à votre entière disposition pour tout renseignement complémentaire.
+
+Transparence sur la suite donnée au dossier
+
+La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
+
+1. D'obtenir les informations nécessaires à l'identification de l'assureur de responsabilité civile ;
+
+2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat ([article L. 113-2, 4° du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)), lequel devra répondre dans un délai raisonnable ;
+
+3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
+
+À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de **[La Ville de l'Accident]** — d'abord en référé sur le fondement de [l'[[article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+
+L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
+
+Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+**[La Victime]**
+
+NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire explique le délai de transmission de mes demandes administratives.
