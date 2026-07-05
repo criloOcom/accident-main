@@ -18,18 +18,6 @@ drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
 format: Arial JUSTIFIED
 ---
 
-**Table des matières**
-
-- [INTRODUCTION](#introduction)
-- [I. Exposé des Faits](#i-expos-des-faits)
-- [II. Discussion Juridique](#ii-discussion-juridique)
-  - [A. Sur l'absence d'assurance de responsabilité civile](#a-sur-labsence-dassurance-de-responsabilit-civile)
-  - [B. Sur l'entrave à l'exercice de l'action directe](#b-sur-lentrave-lexercice-de-laction-directe)
-- [III. Conséquences et Préjudices](#iii-consquences-et-prjudices)
-- [IV. Demandes](#iv-demandes)
-
-
-
 # COMPLÉMENT DE PLAINTE PÉNALE — DÉFAUT D'ASSURANCE RC
 
 Rédigé le 30 juin 2026
@@ -63,10 +51,22 @@ RÉFÉRENCE : Dossier [ ... ]
 
 Le présent complément de plainte pénale est déposé par **[La Victime]** auprès de Monsieur le Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** afin de signaler l'absence d'assurance de responsabilité civile professionnelle de **[L'Exploitant du Commerce]**.
 
-Malgré les demandes amiables répétées, **[L'Exploitant du Commerce]** n'a jamais communiqué d'attestation d'assurance RC Pro, laissant présumer une absence de couverture assurantielle. Cette carence constitue un obstacle majeur à l'exercice de l'action directe de la victime contre l'assureur ([article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)) et entrave gravement ses droits à indemnisation. En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en charge par le Fonds de Garantie (FGTI) sur le fondement de [l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
+Malgré les demandes amiables répétées, **[L'Exploitant du Commerce]** n'a jamais communiqué d'attestation d'assurance RC Pro, laissant présumer une absence de couverture assurantielle.
+
+Cette carence constitue un obstacle majeur à l'exercice de l'action directe de la victime contre l'assureur ([article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)) et entrave gravement ses droits à indemnisation.
+
+En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en charge par le Fonds de Garantie (FGTI) sur le fondement de [l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
+<hr>
+
+- [I. Exposé des Faits](#i-expos-des-faits)
+- [II. Discussion Juridique](#ii-discussion-juridique)
+  - [A. Sur l'absence d'assurance de responsabilité civile](#a-sur-labsence-dassurance-de-responsabilit-civile)
+  - [B. Sur l'entrave à l'exercice de l'action directe](#b-sur-lentrave-lexercice-de-laction-directe)
+- [III. Conséquences et Préjudices](#iii-consquences-et-prjudices)
+- [IV. Demandes](#iv-demandes)
 
 <hr><hr>
 
@@ -137,25 +137,19 @@ L'absence de communication de l'assurance bloque toute offre d'indemnisation ami
 
 Par ces motifs, **[La Victime]** sollicite qu'il plaise à Monsieur le Procureur de la République d'ordonner une enquête complémentaire visant à :
 
-1. Vérifier l'existence et la validité du contrat d'assurance de responsabilité civile de **[L'Exploitant du Commerce]** au jour du sinistre ;
+1. **VÉRIFIER** l'existence et la validité du contrat d'assurance de responsabilité civile de **[L'Exploitant du Commerce]** au jour du sinistre ;
 
-2. Identifier la compagnie d'assurance concernée par tout moyen d'investigation (Fichier Central des Assurances, ORIAS) ;
+2. **IDENTIFIER** la compagnie d'assurance concernée par tout moyen d'investigation (Fichier Central des Assurances, ORIAS) ;
 
-3. Recueillir les explications des mis en cause sur la dissimulation des informations d'assurance ;
+3. **RECUEILLIR** les explications des mis en cause sur la dissimulation des informations d'assurance ;
 
-4. Ordonner la préservation urgente et la saisie des enregistrements de vidéosurveillance du salon pour la journée du 29 mai 2026, afin de prévenir toute destruction de preuve.
+4. **ORDONNER** la préservation urgente et la saisie des enregistrements de vidéosurveillance du salon pour la journée du 29 mai 2026, afin de prévenir toute destruction de preuve.
 
 Le plaignant se constitue partie civile et se tient à la disposition de la justice pour toute mesure d'expertise ou audition nécessaire à la manifestation de la vérité.
 
 **[La Victime]**
 
-**Note administrative :** Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
-
-Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement du présent document.
-
-
-<hr><hr>
-
-
-
----
+> **Note administrative :** Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+> 
+> Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement du présent document.
+```

@@ -118,6 +118,9 @@ REPLACEMENTS = [
     ("Saint-Jean (31)", "[La Ville de l'Établissement SOS Main]"),
     ("Saint-Jean", "[La Ville de l'Établissement SOS Main]"),
 
+    # --- Lawyer (placeholder — add real name when known) ---
+    # ("Nom Prénom de l'Avocat", "[Nom de l'Avocat de la Victime]"),
+
     # --- Department numbers ---
     ("(31)", ""),
     ("(09)", ""),

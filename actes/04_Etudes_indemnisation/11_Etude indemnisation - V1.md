@@ -18,23 +18,6 @@ drive_id: 1PiBFn1oA1DtkT61N-zvdPmsCYsmR0au9V4BA9IZzrH4
 format: Arial JUSTIFIED
 ---
 
-**Table des matières**
-
-- [INTRODUCTION](#introduction)
-- [I. PRINCIPE DE LA RÉPARATION INTÉGRALE](#i-principe-de-la-rparation-intgrale)
-- [II. ÉVALUATION DES PRÉJUDICES](#ii-valuation-des-prjudices)
-  - [A. Pertes de Gains Professionnels Actuels (PGPA) et Incidence Professionnelle](#a-pertes-de-gains-professionnels-actuels-pgpa-et-incidence-professionnelle)
-    - [B. Préjudices extra-patrimoniaux (DFP, Souffrances, Agrément)](#b-prjudices-extra-patrimoniaux-dfp-souffrances-agrment)
-- [III. RÉCAPITULATIF DU CHIFFRAGE ESTIMATIF](#iii-rcapitulatif-du-chiffrage-estimatif)
-- [IV. JURISPRUDENCE APPLICABLE](#iv-jurisprudence-applicable)
-  - [A. Capitalisation des dépenses de santé futures](#a-capitalisation-des-dpenses-de-sant-futures)
-    - [B. Aggravation du dommage](#b-aggravation-du-dommage)
-  - [C. Incidence professionnelle](#c-incidence-professionnelle)
-- [V. FACTEURS D'AGGRAVATION](#v-facteurs-daggravation)
-- [VI. CONCLUSION ET ANALYSE](#vi-conclusion-et-analyse)
-- [ANNEXES ET SOURCES JURIDIQUES](#annexes-et-sources-juridiques)
-
-
 # ÉTUDE D'INDEMNISATION MAXIMALE (NOMENCLATURE DINTILHAC)
 
 Rédigé le 30 juin 2026
@@ -57,6 +40,20 @@ Document rédigé par **[La Victime]**
 
 *Évaluation chiffrée prospective basée sur l'activité réelle déclarée de **[La Victime]**.*
 
+<hr>
+
+- [I. PRINCIPE DE LA RÉPARATION INTÉGRALE](#i-principe-de-la-rparation-intgrale)
+- [II. ÉVALUATION DES PRÉJUDICES](#ii-valuation-des-prjudices)
+  - [A. Pertes de Gains Professionnels Actuels (PGPA) et Incidence Professionnelle](#a-pertes-de-gains-professionnels-actuels-pgpa-et-incidence-professionnelle)
+  - [B. Préjudices extra-patrimoniaux (DFP, Souffrances, Agrément)](#b-prjudices-extra-patrimoniaux-dfp-souffrances-agrment)
+- [III. RÉCAPITULATIF DU CHIFFRAGE ESTIMATIF](#iii-rcapitulatif-du-chiffrage-estimatif)
+- [IV. JURISPRUDENCE APPLICABLE](#iv-jurisprudence-applicable)
+  - [A. Capitalisation des dépenses de santé futures](#a-capitalisation-des-dpenses-de-sant-futures)
+  - [B. Aggravation du dommage](#b-aggravation-du-dommage)
+  - [C. Incidence professionnelle](#c-incidence-professionnelle)
+- [V. FACTEURS D'AGGRAVATION](#v-facteurs-daggravation)
+- [VI. CONCLUSION ET ANALYSE](#vi-conclusion-et-analyse)
+- [ANNEXES ET SOURCES JURIDIQUES](#annexes-et-sources-juridiques)
 
 <hr><hr>
 
@@ -80,20 +77,22 @@ Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un 
 ### A. Pertes de Gains Professionnels Actuels (PGPA) et Incidence Professionnelle
 
 1. Pertes de Gains Professionnels Actuels (PGPA) : Indemnise la perte de revenus durant l'incapacité temporaire totale (ITT). Pour 56 jours d'arrêt (du 29 mai au 23 juillet 2026), le montant est calculé au prorata du CA mensuel, soit 1 400 €.
+
 2. Incidence Professionnelle (IP) : Ce poste, estimé à 15 000 €, répare les séquelles structurelles définitives :
 
-- Dévalorisation sur le marché du travail : Perte de sensibilité de l'index droit, rendant le codage et l'usage de la souris impossibles pour cet informaticien droitier.
-- Perte de chance commerciale : Impossibilité de prospecter ou de répondre aux clients durant l'incapacité.
-- Pénibilité accrue : Dépendance à la dictée vocale générant une fatigue structurelle.
+    - **Dévalorisation sur le marché du travail** : Perte de sensibilité de l'index droit, rendant le codage et l'usage de la souris impossibles pour cet informaticien droitier.
 
-#### B. Préjudices extra-patrimoniaux (DFP, Souffrances, Agrément)
+    - **Perte de chance commerciale** : Impossibilité de prospecter ou de répondre aux clients durant l'incapacité.
 
-Déficit Fonctionnel Permanent (DFP) : Indemnise l'atteinte aux fonctions physiologiques. Basé sur un taux estimé de 12% pour une victime de 44 ans, l'indemnité est projetée à 25 200 €.
+    - **Pénibilité accrue** : Dépendance à la dictée vocale générant une fatigue structurelle.
 
-Souffrances Endurées : Évaluées à 4/7 (choc, microchirurgie SOS Main, rééducation). Estimation : 12 000 €.
+### B. Préjudices extra-patrimoniaux (DFP, Souffrances, Agrément)
 
-Préjudice d'Agrément : Répare l'impossibilité de pratiquer des loisirs (guitare, projets personnels de codage). Estimation : 3 000 €.
+    - **Déficit Fonctionnel Permanent (DFP)** : Indemnise l'atteinte aux fonctions physiologiques. Basé sur un taux estimé de 12% pour une victime de 44 ans, l'indemnité est projetée à 25 200 €.
 
+    - **Souffrances Endurées** : Évaluées à 4/7 (choc, microchirurgie SOS Main, rééducation). Estimation : 12 000 €.
+
+    - **Préjudice d'Agrément** : Répare l'impossibilité de pratiquer des loisirs (guitare, projets personnels de codage). Estimation : 3 000 €.
 
 <hr><hr>
 
@@ -111,7 +110,6 @@ Préjudice d'Agrément : Répare l'impossibilité de pratiquer des loisirs (guit
 
 > « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. »
 
-
 <hr><hr>
 
 ## IV. JURISPRUDENCE APPLICABLE
@@ -123,7 +121,7 @@ L'arrêt [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gou
 > Attendu : « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »
 > Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
 
-#### B. Aggravation du dommage
+### B. Aggravation du dommage
 
 Selon l'arrêt [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126), toute aggravation médicale ultérieure ouvre un nouveau droit à réparation, l'assureur initial restant garant du sinistre.
 
@@ -137,17 +135,17 @@ La jurisprudence [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifran
 > Attendu : « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. »
 > Résumé : L'indemnisation au titre de l'incidence professionnelle est cumulable avec la perte de gains professionnels futurs et répare la dévalorisation sur le marché de l'emploi et l'exclusion sociale qui en découlent.
 
-
 <hr><hr>
 
 ## V. FACTEURS D'AGGRAVATION
 
 Plusieurs éléments spécifiques aggravent le préjudice de **[La Victime]** :
 
-- Main dominante : L'atteinte concerne l'index droit de la main utilisée pour le travail et les loisirs.
-- Métier d'informaticien : L'usage intensif du clavier est compromis par des séquelles neurologiques permanentes.
-- Jeune âge (44 ans) : Le préjudice financier se projette sur une longue durée d'activité résiduelle.
+- **Main dominante** : L'atteinte concerne l'index droit de la main utilisée pour le travail et les loisirs.
 
+- **Métier d'informaticien** : L'usage intensif du clavier est compromis par des séquelles neurologiques permanentes.
+
+- **Jeune âge (44 ans)** : Le préjudice financier se projette sur une longue durée d'activité résiduelle.
 
 <hr><hr>
 
@@ -158,6 +156,8 @@ L'indemnisation estimée à 59 600 € (selon le tableau détaillé ci-dessous) 
 Ce montant sera affiné suite à l'expertise médicale prévue le 12 novembre 2026.
 
 Cette étude souligne la nécessité d'une réparation intégrale tenant compte de l'impact majeur de l'accident sur la vie professionnelle et personnelle d'un travailleur indépendant.
+
+<hr><hr>
 
 ## ANNEXES ET SOURCES JURIDIQUES
 
@@ -174,16 +174,15 @@ La Cour de cassation (REF-08 et REF-13) rappelle que la victime dispose libremen
 Tableau récapitulatif des demandes indemnitaires :
 
 - PGPA (Inactivité 56j) : 1 400 € (perte de revenus sur la base du CA moyen)
+
 - Incidence Professionnelle : 15 000 € (pénibilité accrue et aménagement ergonomique)
+
 - DFP (12% estimé) : 25 200 € (séquelles articulaires et neurologiques permanentes)
+
 - Souffrances Endurées (4/7) : 12 000 € (douleur physique, chirurgie initiale)
+
 - Préjudice d'Agrément : 3 000 € (perte de loisirs informatiques personnels)
+
 - Frais Art. 700 CPC : 3 000 € (compensation des frais d'instance)
+
 - TOTAL DEMANDÉ : 59 600 €
-
-
-<hr><hr>
-
-
-
----

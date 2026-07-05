@@ -39,6 +39,8 @@ Courriel : **[L'Email de la Victime]**
 
 Objet : Signalement de securite — ERP SAS **[L'Exploitant du Commerce]**
 
+<hr>
+
 Ref : SIREN 938 033 222
 
 Madame, Monsieur le Directeur,
@@ -46,6 +48,8 @@ Madame, Monsieur le Directeur,
 La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, situe **[Adresse du Commerce]** a **[La Ville de l'Accident]**.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
+
+<hr><hr>
 
 ## I — OBJET DU SIGNALEMENT
 

@@ -18,9 +18,16 @@ drive_id: 153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s
 format: Arial JUSTIFIED
 ---
 
-**Table des matières**
+# Plan d'Action et Chronologie de la Procédure
 
-- [INTRODUCTION](#introduction)
+Rédigé le 30 juin 2026
+
+## INTRODUCTION
+
+Le présent plan d'action et chronologie de la procédure a été établi par **[La Victime]** afin de structurer et de piloter l'ensemble des démarches juridiques entreprises à la suite de l'accident corporel du 29 mai 2026. Ce document de travail récapitule les étapes procédurales déjà accomplies, les actions prioritaires à engager et les échéances à respecter dans le cadre du contentieux opposant **[La Victime]** à **[L'Exploitant du Commerce]**. Il constitue un outil de pilotage et de suivi permettant d'assurer la coordination efficace de la stratégie contentieuse et le respect des délais de procédure.
+
+<hr>
+
 - [I. Chronologie et Plan d'Action](#i-chronologie-et-plan-daction)
 - [Actions Urgentes et Phase Amiable (Juin 2026)](#actions-urgentes-et-phase-amiable-juin-2026)
 - [Procédures Judiciaires et Expertise (Juillet - Décembre 2026)](#procdures-judiciaires-et-expertise-juillet---dcembre-2026)
@@ -33,16 +40,6 @@ format: Arial JUSTIFIED
 - [IV. Contacts et Annuaires](#iv-contacts-et-annuaires)
 - [Autorités Judiciaires et Policières à **[La Ville de l'Accident]**](#autorits-judiciaires-et-policires-la-ville-de-laccident)
 - [Services Juridiques et de Santé](#services-juridiques-et-de-sant)
-
-
-# Plan d'Action et Chronologie de la Procédure
-
-Rédigé le 30 juin 2026
-
-## INTRODUCTION
-
-Le présent plan d'action et chronologie de la procédure a été établi par **[La Victime]** afin de structurer et de piloter l'ensemble des démarches juridiques entreprises à la suite de l'accident corporel du 29 mai 2026. Ce document de travail récapitule les étapes procédurales déjà accomplies, les actions prioritaires à engager et les échéances à respecter dans le cadre du contentieux opposant **[La Victime]** à **[L'Exploitant du Commerce]**. Il constitue un outil de pilotage et de suivi permettant d'assurer la coordination efficace de la stratégie contentieuse et le respect des délais de procédure.
-
 
 <hr><hr>
 
@@ -79,9 +76,11 @@ L'aboutissement prévu est une assignation au fond en septembre pour obtenir un 
 
 ## Responsabilité Civile et Action Directe
 
-L'action repose principalement sur [l'Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) (responsabilité du fait des choses et du commettant). La victime exerce son droit propre via [l'Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
+L'action repose principalement sur [l'Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) (responsabilité du fait des choses et du commettant).
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
+
+La victime exerce son droit propre via [l'Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
@@ -123,10 +122,3 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 **Note administrative :** Dès le 15 juillet 2026 (le lendemain de la fin du délai amiable de mise en demeure), délivrance immédiate de l'assignation en référé par commissaire de justice, matérialisant la fin de la phase comminatoire amiable.
 
 *Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la prolongation involontaire de certaines démarches.*
-
-
-<hr><hr>
-
-
-
----

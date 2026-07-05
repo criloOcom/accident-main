@@ -22,13 +22,6 @@ drive_id: 1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY
 format: Arial JUSTIFIED
 ---
 
-**Table des matieres**
-
-- [INTRODUCTION](#introduction)
-- [I — RAPPEL DES FAITS](#i--rappel-des-faits)
-- [II — MANQUEMENTS CONSTATES](#ii--manquements-constates)
-- [III — DEMANDE D'ENQUETE](#iii--demande-denquete)
-
 # SIGNALEMENT OFFICIEL AU COMITE DEPARTEMENTAL ANTI-FRAUDE DE L'ARIEGE
 
 **[L'Adresse de la Victime]**
@@ -51,7 +44,17 @@ Madame, Monsieur le President du CODAF,
 
 La presente est adressee au CODAF de l'Ariege par **[La Victime]**, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, immatriculee sous le SIREN 938 033 222.
 
-Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur. Sa chute a entraine sur ma main droite une plaie palmaire profonde avec lesions tendineuses et vasculo-nerveuses de l'index dominant, ayant necessite une microchirurgie d'urgence.
+Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
+
+Sa chute a entraine sur ma main droite une plaie palmaire profonde avec lesions tendineuses et vasculo-nerveuses de l'index dominant, ayant necessite une microchirurgie d'urgence.
+
+<hr>
+
+- [I — RAPPEL DES FAITS](#i--rappel-des-faits)
+- [II — MANQUEMENTS CONSTATES](#ii--manquements-constates)
+- [III — DEMANDE D'ENQUETE](#iii--demande-denquete)
+
+<hr><hr>
 
 ## I — RAPPEL DES FAITS
 
@@ -61,6 +64,8 @@ L'accident est survenu dans les conditions suivantes :
 - Le prepose est monte sur le bac a shampoing pour acceder au poste de television, en l'absence d'escabeau
 - La vasque en ceramique, instable et presentant une cassure preexistante, a bascule sous son poids
 - Ma main droite a heurte la cassure, entrainant une plaie grave
+
+<hr><hr>
 
 ## II — MANQUEMENTS CONSTATES
 
@@ -85,6 +90,8 @@ Les manquements suivants sont susceptibles de relever de la competence du CODAF 
 - Capital social de 200 € pour une activite commerciale
 - Possibilite de sous-capitalisation volontaire pour limiter la responsabilite
 - Dissociation entre siege social (Foix) et domiciliation des dirigeants (Foix et Toulouse)
+
+<hr><hr>
 
 ## III — DEMANDE D'ENQUETE
 

@@ -20,11 +20,6 @@ drive_id: 1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA
 format: Arial JUSTIFIED
 ---
 
-**Table des matieres**
-
-- [INTRODUCTION](#introduction)
-- [I — OBJET DE LA PRESENTE](#i--objet-de-la-presente)
-
 # INFORMATION DE LITIGE AU SERVICE DES IMPOTS DES ENTREPRISES
 
 **[L'Adresse de la Victime]**
@@ -39,7 +34,10 @@ Courriel : **[L'Email de la Victime]**
 
 Objet : Information de litige en cours — SAS **[L'Exploitant du Commerce]**
 
+<hr>
+
 Ref : SIREN 938 033 222
+
 
 Madame, Monsieur le Responsable,
 
@@ -50,9 +48,13 @@ Cet accident a ete cause par la chute brutale du prepose de l'exploitation depui
 Je porte par la presente a votre connaissance l'existence d'un litige en cours engageant la responsabilite civile et penale de la SAS **[L'Exploitant du Commerce]** et de ses dirigeants, pour des montants estimes a **59 600 €** au titre de la reparation integrale de mes prejudices corporels, sans prejudice des procedures en cours devant les juridictions civiles et penales.
 
 Les procedures suivantes ont ete engagees :
+
 - Depot de plainte et constitution de partie civile (TJ de **[La Ville de l'Accident]**)
+
 - Mises en demeure LRAR a la societe et a ses dirigeants (29 juin 2026)
+
 - Demande d'enquete a l'Inspection du Travail et au CODAF
+
 - Dossier de recours contre tiers a la CPAM (n° 31727387)
 
 Je souhaiterais etre informe de toute modification de la situation fiscale de la societe qui pourrait intervenir (cessation d'activite, liquidation, radiation) dans le cadre de la presente procedure.

@@ -19,20 +19,6 @@ drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 format: Arial JUSTIFIED
 ---
 
-**Table des matières**
-
-- [INTRODUCTION](#introduction)
-- [00 — Preuves officielles](#00-preuves-officielles)
-- [01 — Actes procéduraux](#01-actes-procduraux)
-- [02 — Courriers](#02-courriers)
-- [03 — Analyses juridiques](#03-analyses-juridiques)
-- [04 — Études d'indemnisation](#04-tudes-dindemnisation)
-- [05 — Organisation](#05-organisation)
-- [ARCHIVES](#archives)
-- [MODIFICATIONS CLÉS](#modifications-cls)
-- [RÉFÉRENCES JURISPRUDENTIELLES](#rfrences-jurisprudentielles)
-- [STATISTIQUES DU DOSSIER](#statistiques-du-dossier)
-
 # INDEX DU DOSSIER **[La Victime]**
 
 Rédigé le 30 juin 2026 — Mis à jour le 5 juillet 2026 (restructuration)
@@ -47,6 +33,21 @@ Destinataire : Analyse tierce
 
 Partage depuis : **[L'Email de la Victime]**
 
+<hr>
+
+- [00 — Preuves officielles](#00-preuves-officielles)
+- [01 — Actes procéduraux](#01-actes-procduraux)
+- [02 — Courriers](#02-courriers)
+- [03 — Analyses juridiques](#03-analyses-juridiques)
+- [04 — Études d'indemnisation](#04-tudes-dindemnisation)
+- [05 — Organisation](#05-organisation)
+- [ARCHIVES](#archives)
+- [MODIFICATIONS CLÉS](#modifications-cls)
+- [RÉFÉRENCES JURISPRUDENTIELLES](#rfrences-jurisprudentielles)
+- [STATISTIQUES DU DOSSIER](#statistiques-du-dossier)
+
+<hr><hr>
+
 ## 00 — Preuves officielles
 
 *(Documents physiques — dossier `00_Preuves_officielles/` en attente d'insertion)*
@@ -57,6 +58,8 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-06-19 - CR opératoire **[Le Chirurgien SOS Main]** ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
 - 2026-06-29 - Forensic Evidence File ✓ Vérifié : Dossier de preuves numériques et médicales.
 
+<hr><hr>
+
 ## 01 — Actes procéduraux
 
 - 2026-06-29 - 01_Assignation - V1 ✓ Vérifié : Projet d'assignation en référé-provision (5 000 €) fondé sur [l'Article 835 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
@@ -65,11 +68,17 @@ Partage depuis : **[L'Email de la Victime]**
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
 
+<hr><hr>
+
 ## 02 — Courriers
 
 - 2026-06-29 - 03_Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à **[L'Exploitant du Commerce]**.
 - 2026-06-29 - 04_Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de [l'Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
+
 - 2026-06-01 - 05_Courrier Proprietaire - V1 ✓ Vérifié : Demande au propriétaire des murs fondée sur [l'Article 1719 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127).
+> « Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière : (...) 3° D'en faire jouir paisiblement le preneur pendant la durée du bail ; »
+
 - 2026-06-29 - 06_Courrier **[Le Président de l'Exploitation]** + **[La Directrice Générale de l'Exploitation]** - V1 ✓ Vérifié : Mise en demeure personnelle aux dirigeants.
 - 2026-07-05 - 07_Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au Dr DJERBI.
 - 2026-07-05 - 08_Courrier Suivi TAVELLA - V1 ✓ Vérifié : Suivi Inspection du Travail + CODAF (réponse adjoint au maire).
@@ -85,21 +94,21 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-07-05 - 20_Relance Police - V1 ✓ Vérifié : Suivi plainte + demande vidéos.
 - 2026-07-05 - 21_Relance CPAM - V1 ✓ Vérifié : Suivi dossier RCT 31727387.
 
-> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
-
-> « Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière : (...) 3° D'en faire jouir paisiblement le preneur pendant la durée du bail ; »
+<hr><hr>
 
 ## 03 — Analyses juridiques
 
-- 2026-06-29 - 07_Plaidoirie dirigeants - V1 ✓ Vérifié : Analyse de la responsabilité pour faute détachable selon l'Arrêt SATI juridique invoquant [l'Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) et [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000).
-- 2026-06-29 - 09_FAQ - V1 ✓ Vérifié : Synthèse juridique et questions-réponses.
-- 2026-06-02 - 13_Responsabilites legales - V1 ✓ Vérifié : Analyse sur [l'Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
-
+- 2026-06-29 - 07_Plaidoirie dirigeants - V1 ✓ Vérifié : Analyse de la responsabilité pour faute détachable selon l'Arrêt SATI juridique invoquant [l'Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
 
+Et, [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000).
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
+- 2026-06-29 - 09_FAQ - V1 ✓ Vérifié : Synthèse juridique et questions-réponses.
+- 2026-06-02 - 13_Responsabilites legales - V1 ✓ Vérifié : Analyse sur [l'Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
+
+<hr><hr>
 
 ## 04 — Études d'indemnisation
 
@@ -109,10 +118,14 @@ Partage depuis : **[L'Email de la Victime]**
 > Attendu : « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »
 > Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
 
+<hr><hr>
+
 ## 05 — Organisation
 
 - 2026-06-01 - 10_Plan action - V1 ✓ Vérifié : Plan d'action et chronologie de procédure.
 - 2026-06-29 - 00_Index (ce document) ✓ Vérifié : Index et structure du dossier.
+
+<hr><hr>
 
 ## ARCHIVES
 
@@ -127,49 +140,56 @@ Documents non indexés conservés dans `archives/` :
 - `archives/STRATEGIE_Contentieux_Penal.md`
 - `archives/Dossier_Presentation.md`
 
+<hr><hr>
+
 ## MODIFICATIONS CLÉS
 
 1. **[Le Préposé de l'Exploitation]** -> **[Le Président de l'Exploitation]** + **[La Directrice Générale de l'Exploitation]** ✓
 1. Stratégie : faute détachable des dirigeants ✓
-1. Paragraphe faute détachable dans Assignation ✓
-1. Plaidoirie refondue ✓
-1. Conclusions PC mises à jour ✓
-1. Courrier 06 avec **[La Directrice Générale de l'Exploitation]** ✓
-1. 4 doublons archivés ✓
-1. Nomenclature normalisée ✓
-1. Formatting appliqué ✓
-1. Liens Légifrance ajoutés ✓
-1. Restructuration `actes/` — 00 à 05 + archives ✓
-1. Anciens dossiers `contentieux-civil/` et `contentieux-penal/` supprimés ✓
-1. `06_Annexes/` déplacé dans `archives/annexes/` ✓
+2. Paragraphe faute détachable dans Assignation ✓
+3. Plaidoirie refondue ✓
+4. Conclusions PC mises à jour ✓
+5. Courrier 06 avec **[La Directrice Générale de l'Exploitation]** ✓
+6. 4 doublons archivés ✓
+7. Nomenclature normalisée ✓
+8. Formatting appliqué ✓
+9. Liens Légifrance ajoutés ✓
+10. Restructuration `actes/` — 00 à 05 + archives ✓
+11. Anciens dossiers `contentieux-civil/` et `contentieux-penal/` supprimés ✓
+12. 06_Annexes/` déplacé dans `archives/annexes/` ✓
+
+<hr><hr>
 
 ## RÉFÉRENCES JURISPRUDENTIELLES
 
 - [Arrêt Costedoat : Ass. Plén., 25 février 2000, n° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831) ✓
-- [Arrêt Cousin : Ass. Plén., 14 décembre 2001, n° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322) ✓
-- Arrêt SATI : [Cass. Com., 20 mai 2003, n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ✓
-- [Cass. Crim., 27 mai 2014, n° 13-80.849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000028994017) ✓
-- [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ✓
-- [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) ✓
-- [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) ✓
-
 > Attendu : « N'engage pas sa responsabilité civile à l'égard des tiers le préposé qui agit dans les limites de la mission à lui impartie par son commettant. »
 > Résumé : Le salarié agissant dans le cadre de ses fonctions professionnelles bénéficie d'une immunité civile de principe. Seul l'employeur (commettant) est responsable des dommages causés aux tiers.
 
+- [Arrêt Cousin : Ass. Plén., 14 décembre 2001, n° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322) ✓
 > Attendu : « Le préposé qui agit dans les limites de la mission qui lui a été impartie n'engage sa responsabilité personnelle à l'égard des tiers que s'il a commis une faute pénale intentionnelle. »
 > Résumé : Le salarié commettant une infraction pénale intentionnelle perd son immunité de préposé (dite jurisprudence Costedoat) et engage sa responsabilité civile personnelle solidairement avec l'employeur.
 
+- Arrêt SATI : [Cass. Com., 20 mai 2003, n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ✓
 > Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
 > Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
 
+- [Cass. Crim., 27 mai 2014, n° 13-80.849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000028994017) ✓
 > Attendu : « Les personnes morales sont responsables pénalement des infractions commises pour leur compte par leurs organes ou représentants, y compris par le biais de délégations de pouvoirs. »
 > Résumé : Les infractions commises par les salariés ou préposés dans l'exercice de leurs fonctions engagent la responsabilité pénale de la personne morale s'ils ont agi pour le compte de cette dernière.
 
+- [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ✓
 > Attendu : « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. »
 > Résumé : L'indemnisation au titre de l'incidence professionnelle est cumulable avec la perte de gains professionnels futurs et répare la dévalorisation sur le marché de l'emploi et l'exclusion sociale qui en découlent.
 
+- [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) ✓
+
+  
+- [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) ✓
 > Attendu : « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »
 > Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
+
+<hr><hr>
 
 ## STATISTIQUES DU DOSSIER (màj 05/07/2026)
 
@@ -181,6 +201,8 @@ Documents non indexés conservés dans `archives/` :
 
 *NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à **[La Victime]**. Seule l'Étude d'indemnisation (Piece 03) est conservée dans 04_Etudes_indemnisation.*
 
+<hr><hr>
+
 ## TRAVAUX RESTANTS
 
 1. **Injection Drive** — Injecter les courriers 10-21 (hors 10+17 supprimes) + 03 Article 145 sur Drive avec JUSTIFIED.
@@ -191,10 +213,3 @@ Documents non indexés conservés dans `archives/` :
 6. **Preuves officielles** — Insérer les documents physiques dans `00_Preuves_officielles/`.
 7. **Plan H** — Uniformiser dispositions, bordereaux, coherence pieces.
 8. **Verifier citation art. 145 CPC** avant envoi.
-
-
-<hr><hr>
-
-
-
----

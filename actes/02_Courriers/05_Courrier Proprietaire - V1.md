@@ -20,10 +20,6 @@ drive_id: 1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4
 format: Arial JUSTIFIED
 ---
 
-**Table des matières**
-
-- [INTRODUCTION](#introduction)
-
 # DEMANDE DE COMMUNICATION D'ASSURANCE RC
 
 **[L'Adresse de la Victime]**
@@ -48,11 +44,19 @@ La présente lettre est adressée par **[La Victime]** à **[Le Propriétaire de
 
 Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grave accident corporel survenu le 29 mai 2026 dans lesdits locaux.
 
+<hr>
+
 Rappel des obligations légales
 
-[L'article 1719 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail. [L'article 1720 du même code](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) impose au bailleur d'entretenir les lieux en bon état de réparation de toute nature.
+[L'article 1719 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail.
 
 > « Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière : (...) 3° D'en faire jouir paisiblement le preneur pendant la durée du bail ; »
+
+[L'article 1720 du même code](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) impose au bailleur d'entretenir les lieux en bon état de réparation de toute nature.
+
+> « Le bailleur est tenu de livrer la chose en bon état de réparations de toute espèce. Il doit y faire, pendant la durée du bail, toutes les réparations qui peuvent devenir nécessaires, autres que les locatives. »
+
+<hr>
 
 Je me permets de prendre contact avec vous en votre qualité de propriétaire bailleur des locaux commerciaux situés au **[L'Adresse de l'Exploitation]**, actuellement loués et exploités sous l'enseigne de coiffure **[L'Exploitant du Commerce]**.
 
@@ -79,6 +83,8 @@ Je vous remercie d'avance pour votre diligence et votre coopération indispensab
 
 Dans l'attente de votre retour rapide,
 
+<hr>
+
 Transparence sur la suite donnée au dossier
 
 La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
@@ -101,4 +107,6 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 
 **[La Victime]**
 
-NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement de la présente mise en demeure.
+> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+>
+> Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement de la présente mise en demeure.

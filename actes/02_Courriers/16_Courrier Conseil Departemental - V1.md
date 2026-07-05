@@ -20,13 +20,6 @@ drive_id: 1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ
 format: Arial JUSTIFIED
 ---
 
-**Table des matieres**
-
-- [INTRODUCTION](#introduction)
-- [I — RAPPEL DES FAITS](#i--rappel-des-faits)
-- [II — NON-CONFORMITES CONSTATÉES](#ii--non-conformites-constatees)
-- [III — DEMANDE](#iii--demande)
-
 # SIGNALEMENT DE NON-CONFORMITE D'ERP AU CONSEIL DEPARTEMENTAL DE L'ARIEGE
 
 **[L'Adresse de la Victime]**
@@ -41,6 +34,8 @@ Courriel : **[L'Email de la Victime]**
 
 Objet : Signalement de non-conformite d'un ERP — SAS **[L'Exploitant du Commerce]**
 
+<hr>
+
 Ref : SIREN 938 033 222
 
 Madame, Monsieur le President du Conseil Departemental,
@@ -50,6 +45,14 @@ Madame, Monsieur le President du Conseil Departemental,
 La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, situe **[Adresse du Commerce]** a **[La Ville de l'Accident]**.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
+
+<hr>
+
+- [I — RAPPEL DES FAITS](#i--rappel-des-faits)
+- [II — NON-CONFORMITES CONSTATÉES](#ii--non-conformites-constatees)
+- [III — DEMANDE](#iii--demande)
+
+<hr><hr>
 
 ## I — RAPPEL DES FAITS
 
@@ -63,17 +66,25 @@ Le poste de television etait installe en hauteur, necessitant pour y acceder de 
 **Equipement defectueux**
 Le bac a shampoing en ceramique, instable et presentant une cassure preexistante, constituait un danger pour les occupants de l'etablissement.
 
+<hr>
+
 ## II — NON-CONFORMITES CONSTATÉES
 
 Les non-conformites suivantes sont portees a votre connaissance :
 
 1. Installation d'un poste de television en hauteur sans equipement d'acces securise fixe
+
 2. Presence d'un equipement (bac a shampoing) en ceramique instable et casse
+
 3. Absence de DUERP et d'evaluation des risques professionnels
+
 4. Absence presumee d'affichage des consignes de securite
+
 5. Defaut d'assurance RC professionnelle presume
 
 Ces elements sont susceptibles de caracteriser un manquement aux obligations de securite incombant a l'exploitant d'un ERP, conformement aux articles L.123-1 et suivants du Code de la construction et de l'habitation.
+
+<hr>
 
 ## III — DEMANDE
 

@@ -20,16 +20,6 @@ drive_id: 1R26179ks7vLkzw0hYEHL888i0p1VS9ppa6s8R8kQ_gg
 format: Arial JUSTIFIED
 ---
 
-**Table des matieres**
-
-- [INTRODUCTION](#introduction)
-- [I — EXPOSE DES FAITS](#i--expose-des-faits)
-- [II — DISCUSSION JURIDIQUE](#ii--discussion-juridique)
-  - [A. Sur le motif legitime de l'article 145 CPC](#a-sur-le-motif-legitime-de-larticle-145-cpc)
-  - [B. Sur le droit d'action directe de la victime (L.124-3)](#b-sur-le-droit-daction-directe-de-la-victime-l124-3)
-  - [C. Sur le refus caracterise et l'astreinte sollicitee](#c-sur-le-refus-caracterise-et-lastreinte-sollicitee)
-- [PAR CES MOTIFS](#par-ces-motifs)
-
 # ASSIGNATION EN REFERE — COMMUNICATION DE POLICE D'ASSURANCE RC PROFESSIONNELLE
 
 **[L'Adresse de la Victime]**
@@ -48,6 +38,17 @@ La presente assignation en refere est introduite par **[La Victime]** a l'encont
 
 Elle a pour objet d'obtenir, sous astreinte, la communication de la police d'assurance de responsabilite civile professionnelle souscrite par la societe defendereese, seule mesure permettant a la victime d'exercer son action directe contre l'assureur sur le fondement de l'article L.124-3 du Code des assurances.
 
+<hr>
+
+- [I — EXPOSE DES FAITS](#i--expose-des-faits)
+- [II — DISCUSSION JURIDIQUE](#ii--discussion-juridique)
+  - [A. Sur le motif legitime de l'article 145 CPC](#a-sur-le-motif-legitime-de-larticle-145-cpc)
+  - [B. Sur le droit d'action directe de la victime (L.124-3)](#b-sur-le-droit-daction-directe-de-la-victime-l124-3)
+  - [C. Sur le refus caracterise et l'astreinte sollicitee](#c-sur-le-refus-caracterise-et-lastreinte-sollicitee)
+- [PAR CES MOTIFS](#par-ces-motifs)
+
+<hr><hr>
+
 ## I — EXPOSE DES FAITS
 
 Le 29 mai 2026, alors qu'il se trouvait au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]** en qualite de client, **[La Victime]** a ete victime d'un accident corporel grave.
@@ -59,6 +60,8 @@ A la suite de cet accident, **[La Victime]** a vainement sollicite de **[L'Explo
 L'accuse de reception du courrier recommande adresse au proprietaire des murs, **[Le Proprietaire des Murs]**, a ete retourne signe le 3 juillet 2026, mais celui-ci n'a pas davantage communique l'information.
 
 A ce jour, l'identite de l'assureur RC professionnelle de **[L'Exploitant du Commerce]** demeure inconnue.
+
+<hr><hr>
 
 ## II — DISCUSSION JURIDIQUE
 
@@ -96,6 +99,8 @@ Les demandes amiables de **[La Victime]** sont restees lettres mortes :
 Ce silence delibere caracterise un refus de communiquer qui justifie que soit ordonnee la communication sous astreinte.
 
 L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu : en l'absence de cette information, l'indemnisation d'un prejudice corporel grave evalue a 59 600 € est entierement bloquee.
+
+<hr><hr>
 
 ## PAR CES MOTIFS
 

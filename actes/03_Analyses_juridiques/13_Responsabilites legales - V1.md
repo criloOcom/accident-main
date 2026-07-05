@@ -18,23 +18,6 @@ source: drive
 drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 ---
 
-**Table des matières**
-
-- [INTRODUCTION](#introduction)
-- [I. LA RESPONSABILITÉ PÉNALE POUR BLESSURES INVOLONTAIRES](#i-la-responsabilit-pnale-pour-blessures-involontaires)
-  - [A. Manquement à l'obligation de sécurité et de prudence](#a-manquement-lobligation-de-scurit-et-de-prudence)
-    - [B. L'imprudence caractérisée du préposé](#b-limprudence-caractrise-du-prpos)
-- [II. LA RESPONSABILITÉ CIVILE DE PLEIN DROIT](#ii-la-responsabilit-civile-de-plein-droit)
-  - [A. Responsabilité du fait des choses](#a-responsabilit-du-fait-des-choses)
-    - [B. Responsabilité du commettant du fait de ses préposés](#b-responsabilit-du-commettant-du-fait-de-ses-prposs)
-  - [C. La faute détachable des dirigeants](#c-la-faute-dtachable-des-dirigeants)
-- [III. IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES](#iii-immunit-du-prpos-et-recours-stratgiques)
-  - [A. Action directe contre l'assureur](#a-action-directe-contre-lassureur)
-    - [B. Preuves et Procédures](#b-preuves-et-procdures)
-  - [C. Obligation d'information de l'assurance et référé-communication](#c-obligation-dinformation-de-lassurance-et-rfr-communication)
-- [CONCLUSION](#conclusion)
-
-
 # Analyse des Fondements de la Responsabilité Juridique **[L'Exploitant du Commerce]**
 
 Rédigé le 30 juin 2026
@@ -49,6 +32,20 @@ L'analyse approfondie du dossier relatif à l'accident survenu le 29 mai 2026 au
 
 Cette note vise à structurer les fondements juridiques permettant d'assurer la réparation intégrale du préjudice subi.
 
+<hr>
+
+- [I. LA RESPONSABILITÉ PÉNALE POUR BLESSURES INVOLONTAIRES](#i-la-responsabilit-pnale-pour-blessures-involontaires)
+  - [A. Manquement à l'obligation de sécurité et de prudence](#a-manquement-lobligation-de-scurit-et-de-prudence)
+  - [B. L'imprudence caractérisée du préposé](#b-limprudence-caractrise-du-prpos)
+- [II. LA RESPONSABILITÉ CIVILE DE PLEIN DROIT](#ii-la-responsabilit-civile-de-plein-droit)
+  - [A. Responsabilité du fait des choses](#a-responsabilit-du-fait-des-choses)
+  - [B. Responsabilité du commettant du fait de ses préposés](#b-responsabilit-du-commettant-du-fait-de-ses-prposs)
+  - [C. La faute détachable des dirigeants](#c-la-faute-dtachable-des-dirigeants)
+- [III. IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES](#iii-immunit-du-prpos-et-recours-stratgiques)
+  - [A. Action directe contre l'assureur](#a-action-directe-contre-lassureur)
+  - [B. Preuves et Procédures](#b-preuves-et-procdures)
+  - [C. Obligation d'information de l'assurance et référé-communication](#c-obligation-dinformation-de-lassurance-et-rfr-communication)
+- [CONCLUSION](#conclusion)
 
 <hr><hr>
 
@@ -70,7 +67,7 @@ En maintenant en service un équipement lourd (une vasque en céramique) présen
 
 Ce défaut d'entretien constitue un danger manifeste pour le public.
 
-#### B. L'imprudence caractérisée du préposé
+### B. L'imprudence caractérisée du préposé
 
 Le comportement de **[Le Préposé de l'Exploitation]**, consistant à monter physiquement sur la structure instable du meuble, est le fait générateur direct du dommage.
 
@@ -93,7 +90,7 @@ Conformément à [l'article 1242 alinéa 1er du Code civil](https://www.legifran
 
 En tant que propriétaire du matériel, le salon est présumé responsable des dommages causés par la dangerosité de la vasque défectueuse.
 
-#### B. Responsabilité du commettant du fait de ses préposés
+### B. Responsabilité du commettant du fait de ses préposés
 
 En vertu de [l'article 1242 alinéa 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), les employeurs sont responsables des dommages causés par leurs préposés dans les fonctions auxquelles ils les ont employés.
 
@@ -109,7 +106,6 @@ Selon la jurisprudence [Cass. Com., 20 mai 2003 (Arrêt SATI)](https://www.legif
 
 > Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
 > Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
-
 
 <hr><hr>
 
@@ -129,7 +125,7 @@ Le levier le plus efficace demeure l'action directe contre l'assureur RC de la S
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
-#### B. Preuves et Procédures
+### B. Preuves et Procédures
 
 La consolidation des preuves médicales (comptes rendus du **[Le Chirurgien SOS Main]**) et matérielles est impérative. En cas de rétention d'informations sur l'assureur, [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) permet de saisir le juge des référés pour obtenir les pièces nécessaires.
 

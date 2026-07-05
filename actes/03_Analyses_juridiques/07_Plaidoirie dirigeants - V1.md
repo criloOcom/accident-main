@@ -20,19 +20,6 @@ drive_id: 1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90
 format: Arial JUSTIFIED
 ---
 
-**Table des matières**
-
-- [INTRODUCTION](#introduction)
-- [I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL](#i-prsentation-du-litige-et-contexte-factuel)
-- [II. LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS](#ii-le-cadre-juridique-de-la-responsabilit-des-dirigeants)
-  - [A. La faute détachable des fonctions et l'écran de la personnalité morale](#a-la-faute-dtachable-des-fonctions-et-lcran-de-la-personnalit-morale)
-    - [B. Responsabilité pénale et faute caractérisée de sécurité](#b-responsabilit-pnale-et-faute-caractrise-de-scurit)
-- [III. MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE](#iii-mcanismes-dindemnisation-et-action-directe)
-  - [A. L'action directe contre l'assureur de responsabilité civile](#a-laction-directe-contre-lassureur-de-responsabilit-civile)
-    - [B. Évaluation des préjudices selon la nomenclature Dintilhac](#b-valuation-des-prjudices-selon-la-nomenclature-dintilhac)
-- [IV. SYNTHÈSE DES ACTIONS ET DÉMARCHES EN COURS](#iv-synthse-des-actions-et-dmarches-en-cours)
-
-
 # **MÉMORANDUM JURIDIQUE : RESPONSABILITÉ DES DIRIGEANTS ET RÉPARATION DES PRÉJUDICES**
 
 Rédigé le 30 juin 2026
@@ -51,6 +38,16 @@ Ce document examine les fondements juridiques de la mise en cause de la responsa
 
 Il identifie les manquements aux obligations légales et réglementaires imputables aux dirigeants et évalue les perspectives d'engagement de leur responsabilité personnelle à l'égard de la victime.
 
+<hr>
+
+- [I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL](#i-prsentation-du-litige-et-contexte-factuel)
+- [II. LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS](#ii-le-cadre-juridique-de-la-responsabilit-des-dirigeants)
+  - [A. La faute détachable des fonctions et l'écran de la personnalité morale](#a-la-faute-dtachable-des-fonctions-et-lcran-de-la-personnalit-morale)
+  - [B. Responsabilité pénale et faute caractérisée de sécurité](#b-responsabilit-pnale-et-faute-caractrise-de-scurit)
+- [III. MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE](#iii-mcanismes-dindemnisation-et-action-directe)
+  - [A. L'action directe contre l'assureur de responsabilité civile](#a-laction-directe-contre-lassureur-de-responsabilit-civile)
+  - [B. Évaluation des préjudices selon la nomenclature Dintilhac](#b-valuation-des-prjudices-selon-la-nomenclature-dintilhac)
+- [IV. SYNTHÈSE DES ACTIONS ET DÉMARCHES EN COURS](#iv-synthse-des-actions-et-dmarches-en-cours)
 
 <hr><hr>
 
@@ -82,7 +79,7 @@ Le défaut de souscription d'une assurance obligatoire ou la dissimulation volon
 
 Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SAS, dont le capital social statutaire s'élève au montant dérisoire de 200 € (article 25 des statuts), rendant la société structurellement incapable d'assumer la réparation d'un sinistre corporel grave sans assurance active.
 
-#### B. Responsabilité pénale et faute caractérisée de sécurité
+### B. Responsabilité pénale et faute caractérisée de sécurité
 
 Ce manquement à l'obligation de sécurité est également codifié à [l'article R. 143-2 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818941) (REF-35), la vasque brisée faisant partie intégrante des installations d'accueil de l'ERP.
 
@@ -117,7 +114,7 @@ Cette action, dite "action directe", peut être exercée même si la société e
 
 Des demandes formelles ont été initiées pour identifier l'assureur et solliciter une provision.
 
-#### B. Évaluation des préjudices selon la nomenclature Dintilhac
+### B. Évaluation des préjudices selon la nomenclature Dintilhac
 
 La réparation intégrale, pilier du droit français régi par [l'Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571), impose que La Victime soit replacée dans sa situation initiale.
 

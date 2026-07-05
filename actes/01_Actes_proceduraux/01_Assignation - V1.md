@@ -19,18 +19,6 @@ drive_id: 1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg
 format: Arial JUSTIFIED
 ---
 
-**Table des matières**
-
-- [INTRODUCTION](#introduction)
-- [I. EXPOSÉ DES FAITS](#i-expos-des-faits)
-- [II. DISCUSSION JURIDIQUE](#ii-discussion-juridique)
-  - [A. Sur le principe de la responsabilité civile délictuelle](#a-sur-le-principe-de-la-responsabilit-civile-dlictuelle)
-  - [B. Sur la demande d'expertise médicale](#b-sur-la-demande-dexpertise-mdicale)
-  - [C. Sur l'octroi d'une provision financière](#c-sur-loctroi-dune-provision-financire)
-- [III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)](#iii-valuation-provisoire-des-prjudices-nomenclature-dintilhac)
-- [PAR CES MOTIFS](#par-ces-motifs)
-
-
 # ASSIGNATION EN RÉFÉRÉ-PROVISION ET DEMANDE D'EXPERTISE MÉDICALE
 
 Rédigé le 30 juin 2026
@@ -39,7 +27,7 @@ Rédigé le 30 juin 2026
 
 La présente assignation en référé-provision et demande d'expertise médicale est introduite par **[La Victime]** à l'encontre de **[L'Exploitant du Commerce]**, personne morale exploitant un salon de coiffure au sein duquel la victime a subi un grave accident corporel le 29 mai 2026.
 
-Par cet acte, **[La Victime]** sollicite du président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, l'allocation d'une provision de 5 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de [l'article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
+Par cet acte, **[La Victime]** sollicite du président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, l'allocation d'une provision de 5 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de l'[article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
 
@@ -49,13 +37,22 @@ Tribunal Judiciaire de **[La Ville de l'Accident]** (Cabinet du Juge des Référ
 
 POUR :
 
-**[La Victime]**, né le 18 janvier 1982, de nationalité française, demeurant au **[L'Adresse de la Victime]**, exerçant la profession d'informaticien indépendant, ayant pour avocat constitué **[Nom de l'Avocat]**, avocat au barreau de **[La Ville de l'Accident]**.
+**[La Victime]**, né le 18 janvier 1982, de nationalité française, demeurant au **[L'Adresse de la Victime]**, exerçant la profession d'informaticien indépendant, ayant pour avocat constitué **[Nom de l'Avocat de la Victime]**, avocat au barreau de **[La Ville de l'Accident]**.
 
 CONTRE :
 
 **[L'Exploitant du Commerce]**, Société par Actions Simplifiée au capital de 200 €, immatriculée au RCS de **[La Ville de l'Accident]** sous le numéro SIRET **[L'Identifiant de l'Exploitation]**, ayant son siège social au **[L'Adresse de l'Exploitation]**, prise en la personne de sa représentante légale en exercice, **[La Directrice Générale de l'Exploitation]**, Directrice Générale.
 
 PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCIDENT]**
+
+
+- [I. EXPOSÉ DES FAITS](#i-expos-des-faits)
+- [II. DISCUSSION JURIDIQUE](#ii-discussion-juridique)
+  - [A. Sur le principe de la responsabilité civile délictuelle](#a-sur-le-principe-de-la-responsabilit-civile-dlictuelle)
+  - [B. Sur la demande d'expertise médicale](#b-sur-la-demande-dexpertise-mdicale)
+  - [C. Sur l'octroi d'une provision financière](#c-sur-loctroi-dune-provision-financire)
+- [III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)](#iii-valuation-provisoire-des-prjudices-nomenclature-dintilhac)
+- [PAR CES MOTIFS](#par-ces-motifs)
 
 
 <hr><hr>
@@ -89,25 +86,21 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du 0
 
 ### A. Sur le principe de la responsabilité civile délictuelle
 
-[L'article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051787311) dispose :
+L'[article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051787311) dispose :
 
-*« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »*
+> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »*
 
-[L'article 1242 alinéa 5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) dispose que les commettants sont responsables du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés.
+En l'espèce, le basculement brutal de l'équipement dû à l'escalade du préposé sur la vasque en céramique, laquelle présentait une cassure préexistante non signalée, caractérise un manquement à l'obligation de sécurité imputable à l'exploitant au sens de l'[article 1242 alinéa 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) dispose que les commettants sont responsables du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés.
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
-
-En l'espèce, le basculement brutal de l'équipement dû à l'escalade du préposé sur la vasque en céramique, laquelle présentait une cassure préexistante non signalée, caractérise un manquement à l'obligation de sécurité imputable à l'exploitant au sens de [l'article 1242 alinéa 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000).
 
 De surcroît, les faits se sont produits sous le contrôle du préposé de l'établissement (**[Le Préposé de l'Exploitation]**). Par conséquent, la responsabilité délictuelle de **[L'Exploitant du Commerce]** est engagée sans contestation possible.
 
 ### B. Sur la demande d'expertise médicale
 
-[L'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) prévoit :
+L'[article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) prévoit :
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
-
-  *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »*
 
 L'état corporel de **[La Victime]** n'étant pas consolidé à ce jour, il est indispensable de faire désigner un expert médical judiciaire afin d'évaluer l'intégralité des préjudices corporels subis.
 
@@ -115,7 +108,7 @@ L'état corporel de **[La Victime]** n'étant pas consolidé à ce jour, il est 
 
 L'[article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869487) énonce :
 
-*« Dans tous les cas où l'existence de l'obligation n'est pas sérieusement contestable, le président peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »*
+> « Dans tous les cas où l'existence de l'obligation n'est pas sérieusement contestable, le président peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »*
 
 L'obligation à réparation de **[L'Exploitant du Commerce]** n'étant pas sérieusement contestable au vu du PV de police et des pièces médicales indiscutables, **[La Victime]** est fondé à réclamer le versement d'une provision financière.
 
@@ -125,15 +118,21 @@ L'obligation à réparation de **[L'Exploitant du Commerce]** n'étant pas séri
 
 **[La Victime]** est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.
 
-- Pertes de Gains Professionnels Actuels (PGPA) : Evaluées à 7 500 € au titre du préjudice d'exploitation durant les 56 jours d'ITT.
+- **Pertes de Gains Professionnels Actuels (PGPA)** : <br>
+    Evaluées à 7 500 € au titre du préjudice d'exploitation durant les 56 jours d'ITT.
 
-- Déficit Fonctionnel Permanent (DFP / AIPP) : Estimé de manière prospective à 12% par le médecin légiste conseil (équivalant à une valeur de 25 200 € au barème de capitalisation pour un homme de 44 ans).
+- **Déficit Fonctionnel Permanent (DFP / AIPP)** : <br>
+    Estimé de manière prospective à 12% par le médecin légiste conseil (équivalant à une valeur de 25 200 € au barème de capitalisation pour un homme de 44 ans).
 
-- Souffrances Endurées (SE) : Echelonnées à 4/7 en raison de l'accident, de la chirurgie et de la rééducation intensive requise (chiffrées à 12 000 €).
+- **Souffrances Endurées (SE)** : <br>
+    Echelonnées à 4/7 en raison de l'accident, de la chirurgie et de la rééducation intensive requise (chiffrées à 12 000 €).
 
-- Incidence Professionnelle (IP) : Prévisions d'aménagements ergonomiques spécifiques de poste informatique estimées à 15 000 € (claviers et souris adaptés).
+- **Incidence Professionnelle (IP)** : <br>
+    Prévisions d'aménagements ergonomiques spécifiques de poste informatique estimées à 15 000 € (claviers et souris adaptés).
 
 Dans l'attente du dépôt du rapport de l'expert judiciaire, **[La Victime]** sollicite l'allocation d'une provision de 5 000 € à valoir sur l'indemnisation finale de son préjudice corporel.
+
+<hr><hr>
 
 ## PAR CES MOTIFS
 
@@ -145,9 +144,9 @@ Il est demandé au Président du Tribunal de :
 
 3. **CONDAMNER** **[L'Exploitant du Commerce]** à verser à **[La Victime]** la somme de 5 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
 
-4. **CONDAMNER** **[L'Exploitant du Commerce]** à payer à **[La Victime]** la somme de 3 000 € sur le fondement de [l'article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647394), ainsi qu'aux entiers dépens.
+4. **CONDAMNER** **[L'Exploitant du Commerce]** à payer à **[La Victime]** la somme de 3 000 € sur le fondement de l'[article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647394), ainsi qu'aux entiers dépens.
 
 Fait à **[La Ville de l'Accident]**, le 30 juin 2026.
 
 
-Pour **[La Victime]** **[Nom de l'Avocat]**
+Pour **[La Victime]** **[Nom de l'Avocat de la Victime]**

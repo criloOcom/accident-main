@@ -22,13 +22,6 @@ drive_id: 1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E
 format: Arial JUSTIFIED
 ---
 
-**Table des matieres**
-
-- [INTRODUCTION](#introduction)
-- [I — RAPPEL DES FAITS](#i--rappel-des-faits)
-- [II — PROCEDURES EN COURS](#ii--procedures-en-cours)
-- [III — DEMANDE DE SIGNALEMENT](#iii--demande-de-signalement)
-
 # DEMANDE DE SIGNALEMENT DE LITIGE AU REGISTRE NATIONAL DES ENTREPRISES
 
 **[L'Adresse de la Victime]**
@@ -51,11 +44,23 @@ Madame, Monsieur,
 
 La presente est adressee a l'INPI par **[La Victime]**, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, immatriculee au RNE sous le SIREN 938 033 222.
 
-Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur. Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main.
+Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
+
+Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main.
+
+- [I — RAPPEL DES FAITS](#i--rappel-des-faits)
+- [II — PROCEDURES EN COURS](#ii--procedures-en-cours)
+- [III — DEMANDE DE SIGNALEMENT](#iii--demande-de-signalement)
+
+<hr><hr>
 
 ## I — RAPPEL DES FAITS
 
-Le 29 mai 2026, alors que je me trouvais dans l'etablissement pour une prestation de coiffure, le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television. Cet equipement etait instable et presentait une cassure majeure preexistante non signalee. En descendant, le poids du prepose a provoque le basculement de l'equipement, et ma main droite, tendue par reflexe pour le proteger, a heurte la cassure preexistante, entrainant une plaie palmaire profonde et une section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant.
+Le 29 mai 2026, alors que je me trouvais dans l'etablissement pour une prestation de coiffure, le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television. Cet equipement etait instable et presentait une cassure majeure preexistante non signalee.
+
+En descendant, le poids du prepose a provoque le basculement de l'equipement, et ma main droite, tendue par reflexe pour le proteger, a heurte la cassure preexistante, entrainant une plaie palmaire profonde et une section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant.
+
+<hr><hr>
 
 ## II — PROCEDURES EN COURS
 
@@ -74,6 +79,8 @@ Les procedures suivantes ont ete engagees :
 **3. Demande d'enquete administrative**
 - Saisine de l'Inspection du Travail (DDETS 09 / DREETS Occitanie)
 - Saisine du CODAF via la Prefecture de l'Ariege
+
+<hr><hr>
 
 ## III — DEMANDE DE SIGNALEMENT
 

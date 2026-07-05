@@ -19,10 +19,6 @@ drive_id: 1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw
 format: Arial JUSTIFIED
 ---
 
-**Table des matieres**
-
-- [INTRODUCTION](#introduction)
-
 # SUIVI — Demande d'Information Inspection du Travail et CODAF
 
 **[L'Adresse de la Victime]**
@@ -64,7 +60,9 @@ A ce titre, les elements suivants me seraient d'une grande utilite pour etayer m
 Je me permets de solliciter votre intervention afin de savoir :
 
 - Si l'inspection du travail a ete menee et, le cas echeant, si je peux en obtenir une copie en qualite de victime directe
+
 - Si le CODAF s'est saisi du dossier et s'il est possible d'obtenir les conclusions de ses travaux
+
 - Si d'autres services (DDPP, DREETS) ont ete saisis
 
 Je vous rappelle que l'article L. 311-1 du Code des relations entre le public et l'administration (CRPA) me reconnait le droit de communiquer avec les documents administratifs emis par l'Etat et ses etablissements publics, sous reserve du secret de l'enquete et de l'instruction. Passes ces delais, je pourrai saisir la CADA le cas echeant.

@@ -20,12 +20,6 @@ drive_id: 1LdLfCnWLiD2v1N1SMF3FAeh681znM0kXOrAlBXeOe8w
 format: Arial JUSTIFIED
 ---
 
-**Table des matieres**
-
-- [INTRODUCTION](#introduction)
-- [I — ELEMENTS LAISSANT PRESUMER UN TRAVAIL DISSIMULE](#i--elements-laissant-presumer-un-travail-dissimule)
-- [II — DEMANDE DE VERIFICATION](#ii--demande-de-verification)
-
 # SIGNALEMENT DE TRAVAIL DISSIMULE PRESUME
 
 **[L'Adresse de la Victime]**
@@ -48,7 +42,16 @@ Madame, Monsieur le Directeur,
 
 Je vous signale par la presente des elements laissant presumer l'exercice d'un travail dissimule au sein de la SAS **[L'Exploitant du Commerce]** (SIREN 938 033 222), conformement aux articles L.8221-1 et suivants du Code du travail.
 
-Le 29 mai 2026, alors que je me trouvais dans l'etablissement exploite par cette societe, j'ai ete temoin de la presence d'une personne physique ([Le Prepose de l'Exploitation]) exercant une activite de coiffeur. Les informations publiques disponibles (INPI, INSEE) indiquent que cette societe, creee le 1er juin 2024 avec un capital de 200 €, ne declare aucun salarie.
+Le 29 mai 2026, alors que je me trouvais dans l'etablissement exploite par cette societe, j'ai ete temoin de la presence d'une personne physique ([Le Prepose de l'Exploitation]) exercant une activite de coiffeur.
+
+Les informations publiques disponibles (INPI, INSEE) indiquent que cette societe, creee le 1er juin 2024 avec un capital de 200 €, ne declare aucun salarie.
+
+<hr>
+
+- [I — ELEMENTS LAISSANT PRESUMER UN TRAVAIL DISSIMULE](#i--elements-laissant-presumer-un-travail-dissimule)
+- [II — DEMANDE DE VERIFICATION](#ii--demande-de-verification)
+
+<hr><hr>
 
 ## I — ELEMENTS LAISSANT PRESUMER UN TRAVAIL DISSIMULE
 
@@ -68,6 +71,8 @@ Les elements suivants sont susceptibles de caracteriser un travail dissimule par
 **4. Comportement de l'exploitant**
 - L'exploitant et ses dirigeants n'ont repondu a aucune des sollicitations qui leur ont ete adressees
 - Aucune declaration d'accident du travail n'a ete transmise a la CPAM
+
+<hr><hr>
 
 ## II — DEMANDE DE VERIFICATION
 

@@ -12,6 +12,7 @@
 | Dr Julie Jardon / JARDON | `**[Le Médecin en Urgence]**` |
 | Dr Oxybel / Oxybel | `**[Le Médecin Généraliste]**` |
 | Sigrid DESBOIS / DESBOIS | `**[La Gestionnaire CPAM]**` |
+| (Avocat de la victime — nom réel à définir) | `**[Nom de l'Avocat de la Victime]**` |
 
 ## Personnes morales
 | Texte original | Jeton |
