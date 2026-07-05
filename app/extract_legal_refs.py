@@ -29,6 +29,7 @@ LEGAL_REFS = {
     "CCASS.22-19.307": {"title": "Civ. 2e, 4 avril 2024, n° 22-19.307", "desc": "Réparation intégrale et principe de libre disposition des fonds", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278"},
     "CCASS.20-15.106": {"title": "Civ. 2e, 8 juillet 2021, n° 20-15.106", "desc": "Exigences probatoires rigoureuses pour l'indemnisation", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126"},
     "CCASS.19-23.173": {"title": "Civ. 2e, 6 mai 2021, n° 19-23.173", "desc": "Incidence professionnelle (dévalorisation sociale, exclusion du monde du travail)", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943"},
+    "CCASS.18-12.766": {"title": "Civ. 2e, 4 avril 2019, n° 18-12.766", "desc": "Incidence professionnelle (devoir de recherche concrète)", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000038373596"},
     "CCASS.80-14.994": {"title": "Cass. Ass. Plén., 9 mai 1984, n° 80-14.994 (Arrêt Gabillet)", "desc": "Responsabilité du fait des choses de plein droit", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000007013792"},
     "CCASS.16-24.631": {"title": "Civ. 2e, 16 novembre 2017, n° 16-24.631", "desc": "Acte d'assistance spontané exclut la faute de la victime", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000036063717"},
     "CCASS.14-15.326": {"title": "Civ. 3e, 10 mars 2016, n° 14-15.326", "desc": "Défaut d'assurances professionnelles = faute détachable", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000032210878"},

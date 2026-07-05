@@ -47,7 +47,7 @@ Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053](ht
 
 • **[Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)** — Faute détachable de ses fonctions du dirigeant
 
-• **[Civ. 2e, 4 avril 2019, n° 18-14.933](https://www.legifrance.gouv.fr/juri/id/JURITEXT000038340141)** — Incidence professionnelle et perte de gains futurs
+• **[Civ. 2e, 4 avril 2019, n° 18-12.766](https://www.legifrance.gouv.fr/juri/id/JURITEXT000038373596)** — Incidence professionnelle et perte de gains futurs
 
 • **[Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)** — Incidence professionnelle (dévalorisation sociale, exclusion du monde du travail)
 

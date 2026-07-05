@@ -107,32 +107,68 @@ def check_external_links() -> None:
     acte_files = all_acte_md()
     legi_pattern = re.compile(r'LEGIARTI[0-9]{13}')
     juri_pattern = re.compile(r'JURITEXT[0-9]{12}')
-    known_ids = {
-        "LEGIARTI000032041571", "LEGIARTI000051786000",
-        "LEGIARTI000020459127", "LEGIARTI000006442784",
-        "LEGIARTI000006444186", "LEGIARTI000019017112",
-        "LEGIARTI000006417209", "LEGIARTI000024042635",
-        "LEGIARTI000024042640", "LEGIARTI000006576696",
-        "LEGIARTI000042597284", "LEGIARTI000051869339",
-        "LEGIARTI000006647394", "LEGIARTI000017735449",
-        "LEGIARTI000022537549", "LEGIARTI000006447928",
-        "LEGIARTI000006230063", "LEGIARTI000049464053",
-        "LEGIARTI000006896089", "LEGIARTI000045268436",
-        "LEGIARTI000006792596",
-        "JURITEXT000007047369", "JURITEXT000038340141",
-        "JURITEXT000043489943", "JURITEXT000043782126",
-        "JURITEXT000044482848", "JURITEXT000049418278",
-        "JURITEXT000007043831", "JURITEXT000007043322",
-        "JURITEXT000028994017",
-    }
+    
+    # 1. Charger les IDs définis localement dans le code du projet
+    local_ids = set()
+    
+    # Import depuis extract_legal_refs
+    try:
+        sys.path.insert(0, str(REPO))
+        from app.extract_legal_refs import LEGAL_REFS
+        for ref_data in LEGAL_REFS.values():
+            url = ref_data.get("url", "")
+            m = re.search(r'(LEGIARTI[A-Z0-9]+|JURITEXT\d+)', url)
+            if m:
+                local_ids.add(m.group(1))
+    except Exception as e:
+        warn(f"Impossible d'importer extract_legal_refs : {e}")
+        
+    # Import depuis batch_link_legifrance
+    try:
+        from app.batch_link_legifrance import LEGIARTI
+        local_ids.update(LEGIARTI.values())
+    except Exception as e:
+        warn(f"Impossible d'importer batch_link_legifrance : {e}")
+        
+    known_ids = local_ids
+    
+    # 2. Tenter de lire l'Annuaire sur Google Sheet pour une vérification en temps réel
+    try:
+        from app.drive_auth import get_drive_service
+        from googleapiclient import discovery
+        
+        service = get_drive_service()
+        sheets = discovery.build("sheets", "v4", credentials=service._http.credentials)
+        result = sheets.spreadsheets().values().get(
+            spreadsheetId="14wbJajn-Vmz_lnNwiJuYSnT70hcozN7AnzvOVyuF1sQ", range="A2:P1000"
+        ).execute()
+        rows = result.get("values", [])
+        
+        sheet_ids = set()
+        for r in rows:
+            if len(r) > 10:
+                val = r[10].strip()
+                if val:
+                    sheet_ids.add(val)
+                    
+        if sheet_ids:
+            # Union des IDs du sheet et des locaux pour éviter les faux-positifs
+            known_ids = local_ids.union(sheet_ids)
+    except Exception:
+        # Fallback silencieux sur les IDs locaux si pas de connexion/credentials
+        pass
+
     for f in acte_files:
         text = f.read_text(encoding="utf-8")
         for m in legi_pattern.finditer(text):
-            if m.group() not in known_ids:
-                warn(f"{f.name} → LEGIARTI inconnu : {m.group()}")
+            val = m.group()
+            if val not in known_ids:
+                err(f"{f.name} → LEGIARTI non déclaré dans l'Annuaire ou le code local : {val}")
         for m in juri_pattern.finditer(text):
-            if m.group() not in known_ids:
-                warn(f"{f.name} → JURITEXT inconnu : {m.group()}")
+            val = m.group()
+            if val not in known_ids:
+                err(f"{f.name} → JURITEXT non déclaré dans l'Annuaire ou le code local : {val}")
+
 
 
 # ── 4. Cohérence frontmatter ──────────────────────────────────────────
