@@ -58,7 +58,7 @@
 - Après TOUTE modification d'un fichier dans `actes/`, `memory/`, ou `annexes/`, lancer impérativement : `python3 app/check_consistency.py`
 - Ce script vérifie : liens internes valides, tokens connus, LEGIARTI/JURITEXT joignables, frontmatter cohérent
 - Ne JAMAIS commit/push sans vérification préalable — une régression (lien mort, token inconnu, donnée contradictoire) invalide tout le dossier
-- Les fichiers `actes/15_Strategie_Contentieux_Civil.md` et `actes/16_Strategie_Contentieux_Penal.md` sont les portes d'entrée — leur mise à jour est prioritaire
+- Les fichiers `actes/archives/STRATEGIE_Contentieux_Civil.md` et `actes/archives/STRATEGIE_Contentieux_Penal.md` sont les portes d'entrée — leur mise à jour est prioritaire
 
 ## STRUCTURE DES DOCUMENTS UNIFIE_ANONYME (voir aussi DESIGN.md)
 - Titre du document en TITLE (20pt, CENTER, BOLD — PAS le 36pt par défaut)

@@ -41,6 +41,6 @@
 
 ## Preuves recommandés
 
-- 27/05/2026 — La Poste — AR n°1A 182 166 1031 7
-- 27/05/2026 — La Poste — AR n°1A 182 166 1032 4
-- 27/05/2026 — La Poste — AR n°1A 182 166 1033 1
+- 29/06/2026 — La Poste — AR n°1A 182 166 1031 7
+- 29/06/2026 — La Poste — AR n°1A 182 166 1032 4
+- 29/06/2026 — La Poste — AR n°1A 182 166 1033 1

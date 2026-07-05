@@ -204,7 +204,7 @@ def main():
         # (filepath, use_annexe_b, fix_wrong_ids)
         os.path.join(base, "PRESENTATION Dossier.md"): (False, False),
         os.path.join(base, "SYNTHESE FAQ.md"): (False, False),
-        os.path.join(base, "annexes", "ANNEXE B Lois Jurisprudence.md"): (True, True),
+        os.path.join(base, "archives", "annexes", "ANNEXE B Lois Jurisprudence.md"): (True, True),
         os.path.join(base, "03_Analyses_juridiques", "11_ANALYSE_correction_juridique.md"): (False, False),
         os.path.join(base, "03_Analyses_juridiques", "12_ANALYSE_Jurisprudence.md"): (False, False),
         os.path.join(base, "03_Analyses_juridiques", "STRATEGIE Contentieux Civil.md"): (False, False),

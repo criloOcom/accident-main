@@ -28,24 +28,6 @@ drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
 - [IV. Demandes](#iv-demandes)
 
 
- ---
-titre: Plainte Complément — Défaut d'Assurance RC
-date: 2026-06-30
-type: acte
-categorie: penale
-auteur: La Victime
-destinataire: Procureur de la République
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce
-tags:
-  - plainte
-  - défaut d'assurance
-  - pénal
-statut: final
-source: drive
-drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
----
 
 # COMPLÉMENT DE PLAINTE PÉNALE — DÉFAUT D'ASSURANCE RC
 
@@ -80,7 +62,7 @@ RÉFÉRENCE : Dossier [ ... ]
 
 Le présent complément de plainte pénale est déposé par **[La Victime]** auprès de Monsieur le Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** afin de signaler l'absence d'assurance de responsabilité civile professionnelle de **[L'Exploitant du Commerce]**.
 
-Malgré les demandes amiables répétées, **[L'Exploitant du Commerce]** n'a jamais communiqué d'attestation d'assurance RC Pro, laissant présumer une absence de couverture assurantielle. Cette carence constitue un obstacle majeur à l'exercice de l'action directe de la victime contre l'assureur ([article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)) et entrave gravement ses droits à indemnisation. En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en charge par le Fonds de Garantie (FGTI) sur le fondement de [[l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
+Malgré les demandes amiables répétées, **[L'Exploitant du Commerce]** n'a jamais communiqué d'attestation d'assurance RC Pro, laissant présumer une absence de couverture assurantielle. Cette carence constitue un obstacle majeur à l'exercice de l'action directe de la victime contre l'assureur ([article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)) et entrave gravement ses droits à indemnisation. En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en charge par le Fonds de Garantie (FGTI) sur le fondement de [l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
 
 === PAGE BREAK ===
@@ -89,7 +71,7 @@ Malgré les demandes amiables répétées, **[L'Exploitant du Commerce]** n'a ja
 
 Le 29 mai 2026, **[La Victime]** a été victime d'un accident corporel grave au sein du salon de coiffure exploité par **[L'Exploitant du Commerce]**, sise **[L'Adresse de l'Exploitation]**. 
 
-Alors que l'employé coiffeur était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger le coiffeur ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
+Alors que **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger **[Le Préposé de l'Exploitation]** ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
 Ces faits, constitutifs de blessures involontaires au sens de [l'article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042635), ont fait l'objet d'une plainte initiale enregistrée sous le numéro [ ... ].
 
@@ -106,11 +88,11 @@ Ce silence persistant, malgré l'envoi de courriers recommandés le 29 juin 2026
 
 Malgré les demandes amiables de **[La Victime]**, **[L'Exploitant du Commerce]** n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle. Cette absence de réponse laisse présumer soit une absence de couverture assurantielle, soit une volonté de dissimulation.
 
-En l'absence d'assurance, l'indemnisation de la victime au titre de l'action directe prévue à [[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) est gravement compromise. Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734), sur le fondement de [[l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625), pourrait alors être saisi pour assurer l'indemnisation de **[La Victime]**.
+En l'absence d'assurance, l'indemnisation de la victime au titre de l'action directe prévue à [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) est gravement compromise. Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734), sur le fondement de [l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625), pourrait alors être saisi pour assurer l'indemnisation de **[La Victime]**.
 
 ### B. Sur l'entrave à l'exercice de l'action directe
 
-[[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) consacre le droit propre et l'action directe de la victime à l'encontre de l'assureur du responsable.
+[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) consacre le droit propre et l'action directe de la victime à l'encontre de l'assureur du responsable.
 
 Cette autonomie de l'action directe a été fermement rappelée par la jurisprudence (Cass. Civ. 1ère, 8 décembre 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
 
@@ -133,7 +115,7 @@ Le pronostic de récupération est réservé, avec un délai minimal d'un an év
 
 Sur le plan financier, le plaignant est privé de revenus depuis l'accident.
 
-Les pertes d'exploitation sont d'ores et déjà significatives et le préjudice global est estimé à ce jour à la somme de 58 100 €.
+Les pertes d'exploitation sont d'ores et déjà significatives et le préjudice global est estimé à ce jour à la somme de 59 600 €.
 
 L'absence de communication de l'assurance bloque toute offre d'indemnisation amiable, l'accès à une expertise médicale contradictoire et la prise en charge des soins par la CPAM (dossier [ ... ]).
 

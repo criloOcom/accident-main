@@ -32,26 +32,6 @@ drive_id: 1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90
 - [IV. SYNTHÈSE DES ACTIONS ET DÉMARCHES EN COURS](#iv-synthse-des-actions-et-dmarches-en-cours)
 
 
-titre: Mémorandum Juridique — Responsabilité des Dirigeants
-date: 2026-06-30
-type: acte
-categorie: analyse
-auteur: La Victime
-destinataire: null
-personnes:
-  - La Victime
-  - Le Président de l'Exploitation
-  - La Directrice Générale de l'Exploitation
-tags:
-  - dirigeants
-  - responsabilité
-  - plaidoirie
-  - sociétés
-statut: final
-source: drive
-drive_id: 1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90
----
-
 # **MÉMORANDUM JURIDIQUE : RESPONSABILITÉ DES DIRIGEANTS ET RÉPARATION DES PRÉJUDICES**
 
 Rédigé le 30 juin 2026
@@ -127,7 +107,7 @@ Pour La Victime, informaticien indépendant, l'incidence professionnelle est maj
 
 Elle ne se limite pas à la perte de gains actuels mais inclut la dévalorisation sur le marché du travail et la pénibilité accrue.
 
-Le préjudice global est estimé à 58 100 €, incluant le déficit fonctionnel permanent et les souffrances endurées, tel que détaillé dans l'étude d'indemnisation prospective.
+Le préjudice global est estimé à 59 600 €, incluant le déficit fonctionnel permanent et les souffrances endurées, tel que détaillé dans l'étude d'indemnisation prospective.
 
 
 === PAGE BREAK ===

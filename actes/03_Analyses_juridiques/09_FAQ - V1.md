@@ -34,25 +34,6 @@ drive_id: 1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM
 - [VI. Points de Vigilance et Conclusion](#vi-points-de-vigilance-et-conclusion)
 
 
-titre: Synthèse Juridique et FAQ
-date: 2026-06-30
-type: acte
-categorie: synthese
-auteur: La Victime
-destinataire: null
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce
-tags:
-  - faq
-  - synthèse
-  - juridique
-  - questions
-statut: final
-source: drive
-drive_id: 1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM
----
-
 # Synthèse Juridique et FAQ Affaire **[La Victime]** c/ **[L'Exploitant du Commerce]**
 
 Rédigé le 30 juin 2026
@@ -72,7 +53,7 @@ Le 30 juin 2026
 
 ## I. Présentation Générale de l'Affaire
 
-Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le 29 mai 2026 à 15h20 au sein du salon de coiffure exploité par la **[L'Exploitant du Commerce]**, situé au **[L'Adresse de l'Exploitation]** à **[La Ville de l'Accident]**. La victime, Monsieur **[La Victime]**, né le 18/01/1982, exerce la profession d'informaticien indépendant (**[L'Identifiant Professionnel de la Victime]**) à **[La Ville de Résidence de la Victime]**. Les parties mises en cause incluent la SAS elle-même, ses dirigeants **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, ainsi que **[Le Propriétaire des Murs]**, propriétaire des murs commerciaux.
+Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le 29 mai 2026 à 15h20 au sein du salon de coiffure exploité par **[L'Exploitant du Commerce]**, situé au **[L'Adresse de l'Exploitation]** à **[La Ville de l'Accident]**. La victime, **[La Victime]**, né le 18/01/1982, exerce la profession d'informaticien indépendant (**[L'Identifiant Professionnel de la Victime]**) à **[La Ville de Résidence de la Victime]**. Les parties mises en cause incluent la SAS elle-même, ses dirigeants **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, ainsi que **[Le Propriétaire des Murs]**, propriétaire des murs commerciaux.
 
 
 === PAGE BREAK ===
@@ -83,7 +64,7 @@ Cette synthèse a pour objet de récapituler les éléments factuels et juridiqu
 
 ### Q : Dans quelles circonstances l'accident s'est-il produit ?
 
-Le jour de l'accident, **[La Victime]** est revenu au salon pour une simple retouche. Un employé de l'établissement est alors monté sur un bac à shampoing en céramique qui s'est déséquilibré. Par réflexe, **[La Victime]** a tendu la main droite pour protéger le coiffeur et stabiliser le meuble. Sa paume a percuté une cassure préexistante et tranchante de la vasque, provoquant une section profonde de 8,5 cm.
+Le jour de l'accident, **[La Victime]** est revenu au salon pour une simple retouche. Un employé de l'établissement est alors monté sur un bac à shampoing en céramique qui s'est déséquilibré. Par réflexe, **[La Victime]** a tendu la main droite pour protéger **[Le Préposé de l'Exploitation]** et stabiliser le meuble. Sa paume a percuté une cassure préexistante et tranchante de la vasque, provoquant une section profonde de 8,5 cm.
 
 ### Q : Quelle est la gravité des lésions subies ?
 
@@ -118,21 +99,21 @@ Enfin, le propriétaire des murs, **[Le Propriétaire des Murs]**, peut être so
 - Courrier à l'attention du Président **[Le Président de l'Exploitation]** ;
 - Courrier à la Directrice Générale **[La Directrice Générale de l'Exploitation]** ;
 - Demande de communication d'assurance au **[propriétaire des murs]** ;
-- Action directe contre **[l'assureur de responsabilité civile]** (fondée sur [[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)).
+- Action directe contre **[l'assureur de responsabilité civile]** (fondée sur [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)).
 
 
 === PAGE BREAK ===
 
 ### V. Calendrier et Délais de Procédure
 
-La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jours pour répondre aux mises en demeure avant l'engagement d'un référé-provision sur le fondement de [l'article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284). Une étape cruciale est fixée au 12 novembre 2026 pour l'expertise médicale à l'UMJ de Purpan, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à 58 100 €). À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation ([article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112)).
+La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jours pour répondre aux mises en demeure avant l'engagement d'un référé-provision sur le fondement de [l'article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284). Une étape cruciale est fixée au 12 novembre 2026 pour l'expertise médicale à l'UMJ de Purpan, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à 59 600 €). À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation ([article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112)).
 
 
 === PAGE BREAK ===
 
 ## VI. Points de Vigilance et Conclusion
 
-Bien que le dossier soit solide, certains points bloquants persistent, notamment l'absence de constat d'huissier immédiat et le refus des dirigeants de communiquer les coordonnées de leur assureur. Néanmoins, l'action directe et la responsabilité personnelle des dirigeants constituent des leviers puissants pour obtenir une indemnisation juste, estimée globalement à 58 100 € sous réserves d'aggravation.
+Bien que le dossier soit solide, certains points bloquants persistent, notamment l'absence de constat d'huissier immédiat et le refus des dirigeants de communiquer les coordonnées de leur assureur. Néanmoins, l'action directe et la responsabilité personnelle des dirigeants constituent des leviers puissants pour obtenir une indemnisation juste, estimée globalement à 59 600 € sous réserves d'aggravation.
 
 *Synthèse établie pour servir et valoir ce que de droit. © **[La Victime]**.*
 

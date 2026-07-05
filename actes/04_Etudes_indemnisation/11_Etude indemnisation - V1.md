@@ -34,24 +34,6 @@ drive_id: 1PiBFn1oA1DtkT61N-zvdPmsCYsmR0au9V4BA9IZzrH4
 - [ANNEXES ET SOURCES JURIDIQUES](#annexes-et-sources-juridiques)
 
 
-titre: Étude d'Indemnisation Maximale (Nomenclature Dintilhac)
-date: 2026-06-30
-type: acte
-categorie: evaluation
-auteur: La Victime
-destinataire: null
-personnes:
-  - La Victime
-tags:
-  - indemnisation
-  - dintilhac
-  - préjudice
-  - évaluation
-statut: final
-source: drive
-drive_id: 1PiBFn1oA1DtkT61N-zvdPmsCYsmR0au9V4BA9IZzrH4
----
-
 # ÉTUDE D'INDEMNISATION MAXIMALE (NOMENCLATURE DINTILHAC)
 
 Rédigé le 30 juin 2026
@@ -157,7 +139,7 @@ Plusieurs éléments spécifiques aggravent le préjudice de **[La Victime]** :
 
 ## VI. CONCLUSION ET ANALYSE
 
-L'indemnisation estimée à 58 100 € (selon le tableau détaillé ci-dessous) constitue une évaluation prudente.
+L'indemnisation estimée à 59 600 € (selon le tableau détaillé ci-dessous) constitue une évaluation prudente.
 
 Ce montant sera affiné suite à l'expertise médicale prévue le 12 novembre 2026.
 

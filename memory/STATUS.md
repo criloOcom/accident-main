@@ -1,6 +1,6 @@
-# STATUT D'AVANCEMENT — 4 juillet 2026
+# STATUT D'AVANCEMENT — 5 juillet 2026
 
-## Phase 4 — Injection normalisée et renommage Drive (4 juillet 2026) ✅
+## Phase 4 — Injection normalisée et renommage Drive (4-5 juillet 2026) ✅
 
 ### Ce qui a été fait
 - **14 documents injectés** avec `replaceDocumentWithMarkdown(firstHeadingAsTitle: true)` à partir des fichiers normalisés dans `markdown_normalized/`

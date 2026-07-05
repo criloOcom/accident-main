@@ -72,7 +72,7 @@ Alors que l'employé coiffeur était monté sur la vasque en céramique d'un bac
 
 L'affaire met en cause la responsabilité de la personne morale, dirigée par **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, ainsi que le fait de son préposé.
 
-À ce jour, le statut exact de L'Exploitant demeure incertain : les courriers recommandés adressés le 29 juin 2026 à la société et à ses dirigeants sont restés sans réponse ni accusé de réception signé. Dans ce contexte d'opacité, il convient de sécuriser l'ensemble des voies d'indemnisation, notamment l'action directe contre l'assureur sur le fondement de [[[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), ainsi que la mise en cause personnelle des dirigeants.
+À ce jour, le statut exact de L'Exploitant demeure incertain : les courriers recommandés adressés le 29 juin 2026 à la société et à ses dirigeants sont restés sans réponse ni accusé de réception signé. Dans ce contexte d'opacité, il convient de sécuriser l'ensemble des voies d'indemnisation, notamment l'action directe contre l'assureur sur le fondement de [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), ainsi que la mise en cause personnelle des dirigeants.
 
 
 === PAGE BREAK ===
@@ -94,11 +94,11 @@ La responsabilité personnelle des dirigeants peut être engagée, nonobstant l'
 
 ### A. Survie de la personnalité morale et action directe
 
-En vertu de l'[Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186), la personnalité morale de la SAS subsiste pour les besoins de la liquidation jusqu'à l'apurement des dettes. La Victime dispose d'un droit propre sur l'indemnité d'assurance via l'action directe consacrée par l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), action recevable même en cas de procédure collective ([Civ. 1ère, 8 déc. 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
+En vertu de l'[Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186), la personnalité morale de la SAS subsiste pour les besoins de la liquidation jusqu'à l'apurement des dettes. La Victime dispose d'un droit propre sur l'indemnité d'assurance via l'action directe consacrée par l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), action recevable même en cas de procédure collective ([Civ. 1ère, 8 déc. 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
 
 ### B. Évaluation du préjudice et libre disposition des fonds
 
-Le préjudice, estimé à 58 100 €, inclut une incidence professionnelle majeure pour la Victime, informaticien indépendant. Conformément à la jurisprudence ([Civ. 2e, 4 avril 2024, [n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)), les fonds versés à la victime sont librement utilisés sans avoir à justifier de leur utilisation.
+Le préjudice, estimé à 58 100 €, inclut une incidence professionnelle majeure pour la Victime, informaticien indépendant. Conformément à la jurisprudence ([Civ. 2e, 4 avril 2024, [n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)), les fonds versés à la victime sont librement utilisés sans avoir à justifier de leur utilisation.
 
 
 === PAGE BREAK ===
