@@ -111,11 +111,14 @@ def check_external_links() -> None:
     # 1. Charger les IDs définis localement dans le code du projet
     local_ids = set()
     
+    app_dir = str(REPO / "app")
+    if app_dir not in sys.path:
+        sys.path.insert(0, app_dir)
+    
     # Import depuis extract_legal_refs
     try:
-        sys.path.insert(0, str(REPO))
-        from app.extract_legal_refs import LEGAL_REFS
-        for ref_data in LEGAL_REFS.values():
+        import extract_legal_refs
+        for ref_data in extract_legal_refs.LEGAL_REFS.values():
             url = ref_data.get("url", "")
             m = re.search(r'(LEGIARTI[A-Z0-9]+|JURITEXT\d+)', url)
             if m:
@@ -125,8 +128,8 @@ def check_external_links() -> None:
         
     # Import depuis batch_link_legifrance
     try:
-        from app.batch_link_legifrance import LEGIARTI
-        local_ids.update(LEGIARTI.values())
+        import batch_link_legifrance
+        local_ids.update(batch_link_legifrance.LEGIARTI.values())
     except Exception as e:
         warn(f"Impossible d'importer batch_link_legifrance : {e}")
         
@@ -134,10 +137,10 @@ def check_external_links() -> None:
     
     # 2. Tenter de lire l'Annuaire sur Google Sheet pour une vérification en temps réel
     try:
-        from app.drive_auth import get_drive_service
+        import drive_auth
         from googleapiclient import discovery
         
-        service = get_drive_service()
+        service = drive_auth.get_drive_service()
         sheets = discovery.build("sheets", "v4", credentials=service._http.credentials)
         result = sheets.spreadsheets().values().get(
             spreadsheetId="14wbJajn-Vmz_lnNwiJuYSnT70hcozN7AnzvOVyuF1sQ", range="A2:P1000"
