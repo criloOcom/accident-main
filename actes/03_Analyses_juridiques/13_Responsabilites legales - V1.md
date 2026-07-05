@@ -50,7 +50,7 @@ L'analyse approfondie du dossier relatif à l'accident survenu le 29 mai 2026 au
 Cette note vise à structurer les fondements juridiques permettant d'assurer la réparation intégrale du préjudice subi.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## I. LA RESPONSABILITÉ PÉNALE POUR BLESSURES INVOLONTAIRES
 
@@ -79,7 +79,7 @@ En vertu de [l'article 121-3 du Code pénal](https://www.legifrance.gouv.fr/code
 > « Il n'y a point de crime ou de délit sans intention de le commettre. (...) Toutefois, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particularité gravité qu'elles ne pouvaient ignorer. »
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## II. LA RESPONSABILITÉ CIVILE DE PLEIN DROIT
 
@@ -111,7 +111,7 @@ Selon la jurisprudence [Cass. Com., 20 mai 2003 (Arrêt SATI)](https://www.legif
 > Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## III. IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES
 

@@ -52,14 +52,14 @@ Rédigé par : **[La Victime]**
 Le 30 juin 2026
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## I. Présentation Générale de l'Affaire
 
 Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le 29 mai 2026 à 15h20 au sein du salon de coiffure exploité par **[L'Exploitant du Commerce]**, situé au **[L'Adresse de l'Exploitation]** à **[La Ville de l'Accident]**. La victime, **[La Victime]**, né le 18/01/1982, exerce la profession d'informaticien indépendant (**[L'Identifiant Professionnel de la Victime]**) à **[La Ville de Résidence de la Victime]**. Les parties mises en cause incluent la SAS elle-même, ses dirigeants **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, ainsi que **[Le Propriétaire des Murs]**, propriétaire des murs commerciaux.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## II. Foire Aux Questions (FAQ) Détaillée
 
@@ -88,7 +88,7 @@ La société doit obligatoirement déclarer l'accident corporel à son assureur 
 > « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. »
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## III. Stratégie Juridique et Responsabilités
 
@@ -110,7 +110,7 @@ Enfin, le propriétaire des murs, **[Le Propriétaire des Murs]**, peut être so
 > « Le bailleur est tenu de livrer la chose en bon état de réparations de toute espèce. Il doit y faire, pendant la durée du bail, toutes les réparations qui peuvent devenir nécessaires, autres que les locatives. »
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## IV. Démarches et Procédures Engagées
 
@@ -122,7 +122,7 @@ Enfin, le propriétaire des murs, **[Le Propriétaire des Murs]**, peut être so
 - Action directe contre **[l'assureur de responsabilité civile]** (fondée sur [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)).
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ### V. Calendrier et Délais de Procédure
 
@@ -133,7 +133,7 @@ La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jour
 > « L'action en responsabilité née d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices, se prescrit par dix ans à compter de la date de la consolidation du dommage corporel initial ou aggravé. »
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## VI. Points de Vigilance et Conclusion
 
@@ -148,7 +148,7 @@ Bien que le dossier soit solide, certains points bloquants persistent, notamment
 > « La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la clôture de celle-ci. »
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 
 

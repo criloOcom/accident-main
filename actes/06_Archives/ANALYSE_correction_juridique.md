@@ -62,7 +62,7 @@ Le présent mémorandum juridique constitue un audit stratégique et une restruc
 ## *Audit stratégique et restructuration de l'arsenal contentieux*
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 
@@ -77,7 +77,7 @@ L'affaire met en cause la responsabilité de la personne morale, dirigée par **
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## II. CADRE JURIDIQUE DE LA RESPONSABILITÉ
 
@@ -97,7 +97,7 @@ La responsabilité personnelle des dirigeants peut être engagée, nonobstant l'
 > Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## III. MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
 
@@ -118,7 +118,7 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 > Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## IV. PLAN D'ACTION CONTENTIEUX
 
@@ -130,7 +130,7 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 
 

@@ -52,7 +52,7 @@ Ce document examine les fondements juridiques de la mise en cause de la responsa
 Il identifie les manquements aux obligations légales et réglementaires imputables aux dirigeants et évalue les perspectives d'engagement de leur responsabilité personnelle à l'égard de la victime.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 
@@ -65,7 +65,7 @@ La situation est complexifiée par le silence des dirigeants, **[Le Président d
 PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, **[La Victime]** est désigné comme « La Victime », **[L'Exploitant du Commerce]** comme « L'Exploitant », et **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** comme « Les Dirigeants ».
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## II. LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS
 
@@ -101,7 +101,7 @@ Une condamnation pour blessures involontaires sur le fondement de [l'Article 222
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## III. MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
 
@@ -130,7 +130,7 @@ Elle ne se limite pas à la perte de gains actuels mais inclut la dévalorisatio
 Le préjudice global est estimé à 59 600 €, incluant le déficit fonctionnel permanent et les souffrances endurées, tel que détaillé dans l'étude d'indemnisation prospective.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## IV. SYNTHÈSE DES ACTIONS ET DÉMARCHES EN COURS
 

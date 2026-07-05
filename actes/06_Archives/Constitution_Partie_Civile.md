@@ -104,7 +104,7 @@ Fait à **[La Ville de Résidence de la Victime]**, le 30 juin 2026
 Signature :
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 
 

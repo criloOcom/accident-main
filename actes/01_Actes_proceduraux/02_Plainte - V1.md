@@ -68,7 +68,7 @@ Malgré les demandes amiables répétées, **[L'Exploitant du Commerce]** n'a ja
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## I. Exposé des Faits
 
@@ -83,7 +83,7 @@ Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la comm
 Ce silence persistant, malgré l'envoi de courriers recommandés le 29 juin 2026, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## II. Discussion Juridique
 
@@ -112,7 +112,7 @@ Par ailleurs, ce défaut de souscription ou d'information peut constituer une fa
 > Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## III. Conséquences et Préjudices
 
@@ -131,7 +131,7 @@ Les pertes d'exploitation sont d'ores et déjà significatives et le préjudice 
 L'absence de communication de l'assurance bloque toute offre d'indemnisation amiable, l'accès à une expertise médicale contradictoire et la prise en charge des soins par la CPAM (dossier [ ... ]).
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## IV. Demandes
 
@@ -154,7 +154,7 @@ Le plaignant se constitue partie civile et se tient à la disposition de la just
 Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement du présent document.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 
 

@@ -44,7 +44,7 @@ Rédigé le 30 juin 2026
 Le présent plan d'action et chronologie de la procédure a été établi par **[La Victime]** afin de structurer et de piloter l'ensemble des démarches juridiques entreprises à la suite de l'accident corporel du 29 mai 2026. Ce document de travail récapitule les étapes procédurales déjà accomplies, les actions prioritaires à engager et les échéances à respecter dans le cadre du contentieux opposant **[La Victime]** à **[L'Exploitant du Commerce]**. Il constitue un outil de pilotage et de suivi permettant d'assurer la coordination efficace de la stratégie contentieuse et le respect des délais de procédure.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## I. Chronologie et Plan d'Action
 
@@ -73,7 +73,7 @@ Le second semestre 2026 sera consacré au suivi de l'expertise (notamment le pas
 L'aboutissement prévu est une assignation au fond en septembre pour obtenir un jugement définitif de condamnation de l'assureur d'ici décembre 2026.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## II. Fondements Juridiques
 
@@ -95,7 +95,7 @@ Conformément à [l'Arrêt Sati](https://www.legifrance.gouv.fr/juri/id/JURITEXT
 En cas de blocage sur l'identité de l'assureur, [l'Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) fonde la demande de mesures d'instruction in futurum.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## III. Inventaire des Pièces
 
@@ -108,7 +108,7 @@ Le dossier comprend les comptes rendus opératoires du **[Le Chirurgien SOS Main
 Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel défectueux, les photos de l'accident et les témoignages des clients et employés présents.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## IV. Contacts et Annuaires
 
@@ -125,7 +125,7 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 *Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la prolongation involontaire de certaines démarches.*
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 
 

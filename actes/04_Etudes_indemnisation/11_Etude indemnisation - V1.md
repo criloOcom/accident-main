@@ -58,7 +58,7 @@ Document rédigé par **[La Victime]**
 *Évaluation chiffrée prospective basée sur l'activité réelle déclarée de **[La Victime]**.*
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## I. PRINCIPE DE LA RÉPARATION INTÉGRALE
 
@@ -73,7 +73,7 @@ L'évaluation s'appuie ici sur le statut réel de **[La Victime]**, travailleur 
 Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## II. ÉVALUATION DES PRÉJUDICES
 
@@ -95,7 +95,7 @@ Souffrances Endurées : Évaluées à 4/7 (choc, microchirurgie SOS Main, rééd
 Préjudice d'Agrément : Répare l'impossibilité de pratiquer des loisirs (guitare, projets personnels de codage). Estimation : 3 000 €.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## III. RÉCAPITULATIF DU CHIFFRAGE ESTIMATIF
 
@@ -112,7 +112,7 @@ Préjudice d'Agrément : Répare l'impossibilité de pratiquer des loisirs (guit
 > « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. »
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## IV. JURISPRUDENCE APPLICABLE
 
@@ -138,7 +138,7 @@ La jurisprudence [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifran
 > Résumé : L'indemnisation au titre de l'incidence professionnelle est cumulable avec la perte de gains professionnels futurs et répare la dévalorisation sur le marché de l'emploi et l'exclusion sociale qui en découlent.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## V. FACTEURS D'AGGRAVATION
 
@@ -149,7 +149,7 @@ Plusieurs éléments spécifiques aggravent le préjudice de **[La Victime]** :
 - Jeune âge (44 ans) : Le préjudice financier se projette sur une longue durée d'activité résiduelle.
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## VI. CONCLUSION ET ANALYSE
 
@@ -182,7 +182,7 @@ Tableau récapitulatif des demandes indemnitaires :
 - TOTAL DEMANDÉ : 59 600 €
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 
 
