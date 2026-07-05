@@ -76,7 +76,7 @@ Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SA
 
 #### B. Responsabilité pénale et faute caractérisée de sécurité
 
-Ce manquement à l'obligation de sécurité est également codifié à [l'article R. 123-2 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006896089) (REF-35), la vasque brisée faisant partie intégrante des installations d'accueil de l'ERP.
+Ce manquement à l'obligation de sécurité est également codifié à [l'article R. 143-2 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818941) (REF-35), la vasque brisée faisant partie intégrante des installations d'accueil de l'ERP.
 
 À titre subsidiaire, face à toute allégation de partage de responsabilité, le réflexe naturel de protection de La Victime face à un danger imminent ne saurait caractériser une faute et exclut toute réduction d'indemnisation supérieure à 10 ou 20% au maximum.
 
