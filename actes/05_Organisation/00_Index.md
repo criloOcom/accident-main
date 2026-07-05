@@ -134,6 +134,11 @@ Documents non indexés conservés dans `archives/` :
 
 *NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à **[La Victime]**. Seule l'Étude d'indemnisation (Piece 03) est conservée dans 04_Etudes_indemnisation.*
 
+## TRAVAUX RESTANTS
+
+1. **Preuves officielles** — Insérer les documents physiques dans `00_Preuves_officielles/` (CR opératoire, PV Police, Forensic Evidence File).
+2. **Courriers 03 à 06** — Créer et placer les courriers manquants dans `02_Courriers/` (03_Courrier SAS, 04_Courrier Assureur, 05_Courrier Proprietaire, 06_Courrier Président + DG).
+
 
 === PAGE BREAK ===
 
