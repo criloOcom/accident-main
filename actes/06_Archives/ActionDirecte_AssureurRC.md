@@ -63,6 +63,8 @@ Compagnie d'Assurance de **[L'Exploitant du Commerce]**
 
 Objet : Mise en demeure — Action directe [Art. L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) — Sinistre corporel 29 mai 2026 — L.R.A.R.
 
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
+
 Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce]**
 
 Madame, Monsieur,
@@ -81,6 +83,8 @@ Rappel des obligations légales
 
 Conformément à [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339), le juge des référés peut ordonner toute mesure d'instruction légalement admissible s'il existe un motif légitime de conserver ou d'établir la preuve de faits dont pourrait dépendre la solution d'un litige.
 
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
+
 Ces dispositions sont d'ordre public et s'imposent à toute compagnie d'assurance opérant sur le territoire français.
 
 Je soussigné, **[La Victime]**, victime d'un grave accident corporel survenu le vendredi 29 mai 2026 au sein de l'établissement exploité par votre assuré, **[L'Exploitant du Commerce]** (sise au **[L'Adresse de l'Exploitation]**).
@@ -95,6 +99,9 @@ En application de [l'article L. 124-3 du Code des assurances](https://www.legifr
 
 En vertu d'une jurisprudence constante (Cass. Civ. 1ère, 8 décembre 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) et Cass. Civ. 2e, 14 mai 2020, n° 19-15.659), cette action directe est autonome et n'est pas subordonnée à la survie de la personne morale ni à la déclaration préalable de créance en cas de procédure collective ou de radiation de la société assurée.
 
+> Attendu : « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »
+> Résumé : La dissolution et la clôture de la liquidation d'une personne morale n'éteignent pas l'action directe de la victime contre son assureur de responsabilité civile, qui reste recevable.
+
 Je vous mets en demeure par la présente :
 
 1. De procéder à l'ouverture d'un dossier de sinistre corporel et de me confirmer la validité de votre garantie de responsabilité civile professionnelle pour **[L'Exploitant du Commerce]** au 29 mai 2026.
@@ -107,6 +114,12 @@ Je vous mets en demeure par la présente :
 
 Sous toutes réserves quant à l'aggravation future de l'état fonctionnel de sa main (arrêt Civ. 2e, 8 juillet 2021, [n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)) et de la capitalisation de ses dépenses de santé futures (arrêt Civ. 2e, 4 avril 2024, [n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)).
 
+> Attendu : « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »
+> Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
+
+> Attendu : « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »
+> Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
+
 Transparence sur la suite donnée au dossier
 
 La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
@@ -114,6 +127,8 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 1. D'obtenir les informations nécessaires à l'identification de l'assureur de responsabilité civile ;
 
 2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat ([article L. 113-2, 4° du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)), lequel devra répondre dans un délai raisonnable ;
+
+> « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. »
 
 3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 

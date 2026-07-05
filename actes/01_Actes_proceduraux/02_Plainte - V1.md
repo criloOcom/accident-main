@@ -65,6 +65,8 @@ Le présent complément de plainte pénale est déposé par **[La Victime]** aup
 
 Malgré les demandes amiables répétées, **[L'Exploitant du Commerce]** n'a jamais communiqué d'attestation d'assurance RC Pro, laissant présumer une absence de couverture assurantielle. Cette carence constitue un obstacle majeur à l'exercice de l'action directe de la victime contre l'assureur ([article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)) et entrave gravement ses droits à indemnisation. En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en charge par le Fonds de Garantie (FGTI) sur le fondement de [l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
+
 
 === PAGE BREAK ===
 
@@ -97,9 +99,17 @@ En l'absence d'assurance, l'indemnisation de la victime au titre de l'action dir
 
 Cette autonomie de l'action directe a été fermement rappelée par la jurisprudence (Cass. Civ. 1ère, 8 décembre 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
 
+> Attendu : « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »
+> Résumé : La dissolution et la clôture de la liquidation d'une personne morale n'éteignent pas l'action directe de la victime contre son assureur de responsabilité civile, qui reste recevable.
+
 En dissimulant l'identité de leur assureur, les mis en cause commettent une entrave caractérisée aux droits de la victime, susceptible de relever des dispositions de [l'article 434-12 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209).
 
+> « Il n'y a point de crime ou de délit sans intention de le commettre. (...) Toutefois, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particularité gravité qu'elles ne pouvaient ignorer. »
+
 Par ailleurs, ce défaut de souscription ou d'information peut constituer une faute détachable des fonctions de direction engageant la responsabilité personnelle des dirigeants sur leur patrimoine propre (Cass. Com., 20 mai 2003, [n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)).
+
+> Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
+> Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
 
 
 === PAGE BREAK ===

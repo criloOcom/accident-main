@@ -41,6 +41,8 @@ La présente assignation en référé-provision et demande d'expertise médicale
 
 Par cet acte, **[La Victime]** sollicite du président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, l'allocation d'une provision de 5 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de [l'article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
 
+> « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
+
 Elle demande en outre la désignation d'un expert médical judiciaire sur le fondement de l'article 145 du même code, afin de décrire l'étendue de ses séquelles et d'évaluer chacun des postes de préjudice corporel selon la nomenclature Dintilhac.
 
 Tribunal Judiciaire de **[La Ville de l'Accident]** (Cabinet du Juge des Référés)
@@ -93,6 +95,8 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du 0
 
 [L'article 1242 alinéa 5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) dispose que les commettants sont responsables du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés.
 
+> « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
+
 En l'espèce, le basculement brutal de l'équipement dû à l'escalade du préposé sur la vasque en céramique, laquelle présentait une cassure préexistante non signalée, caractérise un manquement à l'obligation de sécurité imputable à l'exploitant au sens de [l'article 1242 alinéa 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000).
 
 De surcroît, les faits se sont produits sous le contrôle du préposé de l'établissement (**[Le Préposé de l'Exploitation]**). Par conséquent, la responsabilité délictuelle de **[L'Exploitant du Commerce]** est engagée sans contestation possible.
@@ -100,6 +104,8 @@ De surcroît, les faits se sont produits sous le contrôle du préposé de l'ét
 ### B. Sur la demande d'expertise médicale
 
 [L'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) prévoit :
+
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
   *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »*
 

@@ -45,6 +45,8 @@ La présente étude d'indemnisation a pour objet d'évaluer l'intégralité des 
 
 L'étude vise à déterminer le montant maximal de l'indemnisation susceptible d'être obtenue, dans le respect du principe de réparation intégrale sans perte ni profit consacré par [l'article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571).
 
+> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
+
 Document rédigé par **[La Victime]**
 
 **[L'Adresse de la Victime]**
@@ -107,6 +109,8 @@ Préjudice d'Agrément : Répare l'impossibilité de pratiquer des loisirs (guit
 | Frais d'assistance ([Article 700 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)) | 3 000 € |
 | TOTAL ESTIMATIF | 59 600 € |
 
+> « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. »
+
 
 === PAGE BREAK ===
 
@@ -116,13 +120,22 @@ Préjudice d'Agrément : Répare l'impossibilité de pratiquer des loisirs (guit
 
 L'arrêt [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) confirme le droit à une capitalisation des dépenses futures sans contrôle restrictif de l'assureur, garantissant la libre disposition des fonds par la victime.
 
+> Attendu : « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »
+> Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
+
 #### B. Aggravation du dommage
 
 Selon l'arrêt [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126), toute aggravation médicale ultérieure ouvre un nouveau droit à réparation, l'assureur initial restant garant du sinistre.
 
+> Attendu : « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »
+> Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
+
 ### C. Incidence professionnelle
 
 La jurisprudence [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) rappelle que l'incidence professionnelle est un préjudice distinct indemnisant notamment la dévalorisation sociale ressentie par la victime du fait de son exclusion du monde du travail.
+
+> Attendu : « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. »
+> Résumé : L'indemnisation au titre de l'incidence professionnelle est cumulable avec la perte de gains professionnels futurs et répare la dévalorisation sur le marché de l'emploi et l'exclusion sociale qui en découlent.
 
 
 === PAGE BREAK ===

@@ -45,6 +45,10 @@ Le présent mémorandum est consacré à l'analyse de la responsabilité personn
 
 Ce document examine les fondements juridiques de la mise en cause de la responsabilité des dirigeants sur le terrain du droit des sociétés, notamment sur le fondement des articles [L. 223-22](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141) et [L. 225-251](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) du Code de commerce, ainsi que sur le terrain du droit commun de la responsabilité civile.
 
+> « Les gérants sont responsables, individuellement ou solidairement, selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés à responsabilité limitée, soit des violations des statuts, soit des fautes commises dans leur gestion. »
+
+> « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. »
+
 Il identifie les manquements aux obligations légales et réglementaires imputables aux dirigeants et évalue les perspectives d'engagement de leur responsabilité personnelle à l'égard de la victime.
 
 
@@ -71,6 +75,9 @@ En principe, la personnalité morale de L'Exploitant protège le patrimoine pers
 
 Selon la jurisprudence constante [Cass. Com., 20 mai 2003, [n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) (Arrêt SATI)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369), une telle faute est caractérisée lorsque Le Dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions.
 
+> Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
+> Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
+
 Le défaut de souscription d'une assurance obligatoire ou la dissimulation volontaire de celle-ci, entravant l'action directe de La Victime, s'inscrit dans ce cadre.
 
 Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SAS, dont le capital social statutaire s'élève au montant dérisoire de 200 € (article 25 des statuts), rendant la société structurellement incapable d'assumer la réparation d'un sinistre corporel grave sans assurance active.
@@ -79,13 +86,19 @@ Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SA
 
 Ce manquement à l'obligation de sécurité est également codifié à [l'article R. 143-2 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818941) (REF-35), la vasque brisée faisant partie intégrante des installations d'accueil de l'ERP.
 
+> « Dans les établissements soumis aux prescriptions du présent chapitre, les propriétaires, directeurs ou exploitants sont tenus, tant au moment de la construction qu'au cours de l'exploitation, de respecter les mesures de prévention et de sauvegarde propres à assurer la sécurité des personnes contre les risques d'incendie et de panique. »
+
 À titre subsidiaire, face à toute allégation de partage de responsabilité, le réflexe naturel de protection de La Victime face à un danger imminent ne saurait caractériser une faute et exclut toute réduction d'indemnisation supérieure à 10 ou 20% au maximum.
 
 Sur le plan pénal, Le Dirigeant répond de ses propres infractions, y compris non intentionnelles.
 
 Le maintien en service d'un équipement dangereux dans un établissement recevant du public (ERP) contrevient à l'obligation générale de sécurité prévue par [l'Article L. 421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053).
 
+> « Les prestations de services doivent présenter, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles par le professionnel, la sécurité à laquelle on peut légitimement s'attendre et ne pas porter atteinte à la santé des personnes. »
+
 Une condamnation pour blessures involontaires sur le fondement de [l'Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) permet de solliciter la réparation des préjudices directement sur les biens propres du dirigeant coupable, sans nécessité de prouver une faute détachable commerciale devant le juge répressif.
+
+> « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
 
 === PAGE BREAK ===
@@ -96,13 +109,19 @@ Une condamnation pour blessures involontaires sur le fondement de [l'Article 222
 
 La Victime dispose d'un droit propre et autonome sur l'indemnité d'assurance en vertu de [l'Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
+
 Cette action, dite "action directe", peut être exercée même si la société est radiée ou en liquidation, car la personnalité morale subsiste pour les besoins de la liquidation conformément à [l'Article L. 237-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063).
+
+> « La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la clôture de celle-ci. »
 
 Des demandes formelles ont été initiées pour identifier l'assureur et solliciter une provision.
 
 #### B. Évaluation des préjudices selon la nomenclature Dintilhac
 
 La réparation intégrale, pilier du droit français régi par [l'Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571), impose que La Victime soit replacée dans sa situation initiale.
+
+> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
 
 Pour La Victime, informaticien indépendant, l'incidence professionnelle est majeure.
 

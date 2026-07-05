@@ -50,6 +50,10 @@ Rappel des obligations légales
 
 [L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) reconnaît à la victime une action directe contre l'assureur du responsable. [L'article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) dispose que les dirigeants d'une société commerciale sont responsables, individuellement ou solidairement, envers les tiers des conséquences dommageables de leurs actes. Le défaut d'information sur l'assurance constitue un manquement à l'obligation de loyauté contractuelle.
 
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
+
+> « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. »
+
 Ces dispositions sont d'ordre public : elles s'imposent à la société et à ses dirigeants.
 
 Je me permets de vous adresser ce courrier afin de vous informer officiellement de l'accident corporel dont j'ai été victime au sein de votre établissement le vendredi 29 mai 2026 à 15h20.
@@ -72,11 +76,15 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat ([article L. 113-2, 4° du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)), lequel devra répondre dans un délai raisonnable ;
 
+> « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. »
+
 3. De procéder au versement d'une provision amiable d'un montant de 15 000 € à valoir sur la réparation de mes préjudices, au titre de l'incidence professionnelle de l'accident ;
 
 4. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
 À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de **[La Ville de l'Accident]** — d'abord en référé sur le fondement de [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 

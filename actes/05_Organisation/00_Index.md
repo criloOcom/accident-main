@@ -62,6 +62,8 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-06-29 - 01_Assignation - V1 ✓ Vérifié : Projet d'assignation en référé-provision (5 000 €) fondé sur [l'Article 835 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
 - 2026-06-01 - 02_Plainte - V1 ✓ Vérifié : Plainte officielle avec constitution de partie civile.
 
+> « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
+
 ## 02 — Courriers
 
 - 2026-06-29 - 03_Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à **[L'Exploitant du Commerce]**.
@@ -69,16 +71,29 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-06-01 - 05_Courrier Proprietaire - V1 ✓ Vérifié : Demande au propriétaire des murs fondée sur [l'Article 1719 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127).
 - 2026-06-29 - 06_Courrier **[Le Président de l'Exploitation]** + **[La Directrice Générale de l'Exploitation]** - V1 ✓ Vérifié : Mise en demeure personnelle aux dirigeants.
 
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
+
+> « Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière : (...) 3° D'en faire jouir paisiblement le preneur pendant la durée du bail ; »
+
 ## 03 — Analyses juridiques
 
 - 2026-06-29 - 07_Plaidoirie dirigeants - V1 ✓ Vérifié : Analyse de la responsabilité pour faute détachable selon l'Arrêt SATI juridique invoquant [l'Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) et [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000).
 - 2026-06-29 - 09_FAQ - V1 ✓ Vérifié : Synthèse juridique et questions-réponses.
 - 2026-06-02 - 13_Responsabilites legales - V1 ✓ Vérifié : Analyse sur [l'Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
 
+> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
+
+> « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
+
+> « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
+
 ## 04 — Études d'indemnisation
 
 - 2026-06-01 - 11_Etude indemnisation - V1 ✓ Vérifié : Étude d'indemnisation des préjudices corporels selon la **[réparation intégrale]**(https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278).
 - 2026-06-29 - 12_Tableau prejudices - V1 ✓ Vérifié : Tableau récapitulatif des postes de préjudices.
+
+> Attendu : « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »
+> Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
 
 ## 05 — Organisation
 
@@ -123,6 +138,24 @@ Documents non indexés conservés dans `archives/` :
 - [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ✓
 - [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) ✓
 - [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) ✓
+
+> Attendu : « N'engage pas sa responsabilité civile à l'égard des tiers le préposé qui agit dans les limites de la mission à lui impartie par son commettant. »
+> Résumé : Le salarié agissant dans le cadre de ses fonctions professionnelles bénéficie d'une immunité civile de principe. Seul l'employeur (commettant) est responsable des dommages causés aux tiers.
+
+> Attendu : « Le préposé qui agit dans les limites de la mission qui lui a été impartie n'engage sa responsabilité personnelle à l'égard des tiers que s'il a commis une faute pénale intentionnelle. »
+> Résumé : Le salarié commettant une infraction pénale intentionnelle perd son immunité de préposé (dite jurisprudence Costedoat) et engage sa responsabilité civile personnelle solidairement avec l'employeur.
+
+> Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
+> Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
+
+> Attendu : « Les personnes morales sont responsables pénalement des infractions commises pour leur compte par leurs organes ou représentants, y compris par le biais de délégations de pouvoirs. »
+> Résumé : Les infractions commises par les salariés ou préposés dans l'exercice de leurs fonctions engagent la responsabilité pénale de la personne morale s'ils ont agi pour le compte de cette dernière.
+
+> Attendu : « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. »
+> Résumé : L'indemnisation au titre de l'incidence professionnelle est cumulable avec la perte de gains professionnels futurs et répare la dévalorisation sur le marché de l'emploi et l'exclusion sociale qui en découlent.
+
+> Attendu : « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »
+> Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
 
 ## STATISTIQUES DU DOSSIER
 

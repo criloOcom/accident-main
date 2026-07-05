@@ -56,10 +56,17 @@ Le contentieux civil a pour objet d'obtenir la réparation intégrale des préju
 
 La responsabilité de la SAS est engagée de plein droit en application de [l'article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), alinéa 5 (responsabilité du commettant du fait de son préposé).
 
+> « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
+
 
 ### 2.2 Action directe contre l'assureur
 
 [L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable ([Cass. 1ère civ., 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
+
+> Attendu : « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »
+> Résumé : La dissolution et la clôture de la liquidation d'une personne morale n'éteignent pas l'action directe de la victime contre son assureur de responsabilité civile, qui reste recevable.
 
 La mise en demeure de l'assureur a été adressée le 29 juin 2026, enjoignant à la compagnie de prendre en charge le sinistre et de procéder au règlement des préjudices sous 15 jours.
 
@@ -67,9 +74,13 @@ La mise en demeure de l'assureur a été adressée le 29 juin 2026, enjoignant �
 
 Conformément à [l'article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186), si **[L'Exploitant du Commerce]** venait à être dissoute ou radiée, la personnalité morale de la société survit pour les besoins de la liquidation jusqu'à la clôture de celle-ci. Ce mécanisme garantit que la société puisse encore être attraite en justice et que ses dettes soient apurées, incluant l'indemnisation due à **[La Victime]**.
 
+> « La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la publication de la clôture de celle-ci. »
+
 ### 2.4 Responsabilité pour faute
 
 À titre subsidiaire, la responsabilité pour faute de **[L'Exploitant du Commerce]** est engagée sur le fondement de [l'article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) pour défaut d'entretien de son équipement et manquement à son obligation de sécurité. Le principe de réparation intégrale impose que la victime soit replacée dans la situation où elle se serait trouvée si l'accident n'avait pas eu lieu.
+
+> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
 
 ## 3. Voies de procédure engagées
 
@@ -77,9 +88,13 @@ Conformément à [l'article 1844-8 du Code civil](https://www.legifrance.gouv.fr
 
 Une assignation en [référé-provision](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) (article 835 du Code de procédure civile) a été rédigée le 30 juin 2026 pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive.
 
+> « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
+
 Le référé-provision permet d'obtenir une avance rapide lorsque l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de **[L'Exploitant du Commerce]** est manifeste : un équipement instable présentant une cassure préexistante non signalée a causé un accident sur son lieu d'exploitation, par l'intermédiaire de son préposé, ce qui constitue une obligation non contestable.
 
 La demande inclut également la désignation d'un expert médical judiciaire sur le fondement de [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339).
+
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
 ### 3.2 Référé-communication de pièces
 
@@ -95,6 +110,8 @@ Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels rés
 - L'infraction doit être constituée (en l'espèce, blessures involontaires — [article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)).
 - La victime doit être de nationalité française ou les faits commis sur le territoire national.
 - Le dommage corporel doit présenter une certaine gravité (ITT ≥ 1 mois — condition remplie avec 56 jours d'ITT).
+
+> « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
 **Procédure :** La victime saisit la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de **[La Ville de l'Accident]**, qui statue sur le droit à indemnisation et fixe le montant.
 
@@ -119,7 +136,12 @@ L'évaluation des préjudices subis par **[La Victime]**, informaticien indépen
 | Frais [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) | 3 000 € |
 | **TOTAL ESTIMATIF** | **59 600 €** |
 
+> « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. »
+
 L'incidence professionnelle est un préjudice distinct qui indemnise notamment la dévalorisation sociale ressentie par la victime du fait de son exclusion du monde du travail ([Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)). Elle inclut également la pénibilité accrue et l'obligation de s'équiper en outils d'accessibilité (logiciel de dictée vocale, clavier ergonomique, souris adaptée).
+
+> Attendu : « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. »
+> Résumé : L'indemnisation au titre de l'incidence professionnelle est cumulable avec la perte de gains professionnels futurs et répare la dévalorisation sur le marché de l'emploi et l'exclusion sociale qui en découlent.
 
 ## 5. Calendrier procédural
 

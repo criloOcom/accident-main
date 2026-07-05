@@ -72,6 +72,8 @@ Afin de lever tout obstacle financier pour **[La Victime]**, travailleur indépe
 
 1. L'application de l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) (devant le juge des référés et le juge civil) et de l'[Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) (devant le Tribunal correctionnel) : La victime sollicitera la condamnation in solidum de la SAS et de son assureur à lui verser la somme de 3 000 € au titre des frais non compris dans les dépens (honoraires d'avocat).
 
+> « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. »
+
 2. La prise en charge par l'assurance Protection Juridique (PJ) : **[La Victime]** vérifie l'existence de garanties de protection juridique personnelles (adossées à son contrat d'assurance habitation, carte bancaire ou contrats professionnels) permettant une prise en charge forfaitaire ou totale des honoraires d'avocat selon les barèmes conventionnels.
 
 3. L'intégration des honoraires de défense dans l'indemnisation au titre des 'frais divers' (**[Nomenclature Dintilhac]**) : Les frais engagés pour s'adjoindre les conseils d'un avocat ou d'un médecin conseil technique dans la phase amiable ou judiciaire constituent un préjudice financier direct imputable à l'accident, et doivent être réclamés à l'assureur de responsabilité civile de la SAS.
@@ -110,6 +112,10 @@ Les examens cliniques constatent une section partielle du tendon fléchisseur, u
 - Pièce 06 (Acte 3) - Assignation en référé provision (Tribunal de **[La Ville de l'Accident]**) : Modèle d'assignation pour provision de 5 000 €.
 - Pièce 08 (Courrier 3) - Demande d'assurance au Propriétaire des murs (**[Le Propriétaire des Murs]**).
 - Pièce 09 (Courrier 4) - Mise en demeure de communication d'assurance (destinée à l'adresse personnelle de **[Le Président de l'Exploitation]**).
+
+> « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
+
+> « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
 
 === PAGE BREAK ===
