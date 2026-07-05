@@ -204,6 +204,18 @@ code Python lit ensuite en fallback.
 - ✅ `PISTE_CREDENTIALS`
 - ❌ **Setup script** : encore `echo do setup` → à changer en `./setup.sh`
 
+## Phase 5b — Création et anonymisation des courriers 03-06 (5 juillet 2026) ✅
+
+### Ce qui a été fait
+- **03_Courrier SAS - V1.md** : créé et anonymisé depuis `pieces/20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md`
+- **04_Courrier Assureur - V1.md** : créé depuis `archives/ActionDirecte_AssureurRC.md` + alignement montant global 59 600€
+- **05_Courrier Proprietaire - V1.md** : créé et anonymisé depuis `pieces/20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU.md`
+- **06_Courrier President DG - V1.md** : créé par fusion des pièces SABIR et ANDISSAC en courrier unique double destinataire
+- **Tous les courriers** : YAML frontmatter, liens Légifrance, tokens en **gras**
+- **Scripts mis à jour** : `add_yaml_actes.py` (4 entrées), `batch_link_legifrance.py` (chemins corrigés + support JURITEXT)
+- **Index mis à jour** : stats (14 docs), mention fichiers à insérer supprimée, travaux restants nettoyés
+- `python3 app/check_consistency.py` : 0 erreur, 1 avertissement (bénin)
+
 ## Phase 5 — Correction audit de coherence (5 juillet 2026) ✅
 
 ### Corrections appliquees

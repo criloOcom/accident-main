@@ -63,8 +63,6 @@ Partage depuis : **[L'Email de la Victime]**
 
 ## 02 — Courriers
 
-*(Fichiers à insérer dans `02_Courriers/`)*
-
 - 2026-06-29 - 03_Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à **[L'Exploitant du Commerce]**.
 - 2026-06-29 - 04_Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de [l'Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 - 2026-06-01 - 05_Courrier Proprietaire - V1 ✓ Vérifié : Demande au propriétaire des murs fondée sur [l'Article 1719 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127).
@@ -127,8 +125,8 @@ Documents non indexés conservés dans `archives/` :
 
 ## STATISTIQUES DU DOSSIER
 
-- Nombre total de documents : 10 (dans 00-05) + 8 (archivés)
-- Documents vérifiés : 10/10 (100%)
+- Nombre total de documents : 14 (dans 00-05) + 8 (archivés)
+- Documents vérifiés : 14/14 (100%)
 - Références jurisprudentielles : 7 vérifiées
 - Liens Légifrance ajoutés : 10+
 
@@ -137,7 +135,6 @@ Documents non indexés conservés dans `archives/` :
 ## TRAVAUX RESTANTS
 
 1. **Preuves officielles** — Insérer les documents physiques dans `00_Preuves_officielles/` (CR opératoire, PV Police, Forensic Evidence File).
-2. **Courriers 03 à 06** — Créer et placer les courriers manquants dans `02_Courriers/` (03_Courrier SAS, 04_Courrier Assureur, 05_Courrier Proprietaire, 06_Courrier Président + DG).
 
 
 === PAGE BREAK ===
