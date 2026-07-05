@@ -76,8 +76,7 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-06-29 - 04_Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de [l'Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
-- 2026-06-01 - 05_Courrier Proprietaire - V1 ✓ Vérifié : Demande au propriétaire des murs fondée sur [l'Article 1719 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127).
-> « Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière : (...) 3° D'en faire jouir paisiblement le preneur pendant la durée du bail ; »
+- 2026-06-01 - 05_Courrier Proprietaire - V1 ✓ Vérifié : Demande d'information au propriétaire des murs (détient l'attestation d'assurance RC Pro du locataire via le bail commercial).
 
 - 2026-06-29 - 06_Courrier **[Le Président de l'Exploitation]** + **[La Directrice Générale de l'Exploitation]** - V1 ✓ Vérifié : Mise en demeure personnelle aux dirigeants.
 - 2026-07-05 - 07_Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au Dr DJERBI.

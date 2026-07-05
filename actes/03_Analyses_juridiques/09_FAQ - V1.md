@@ -110,13 +110,7 @@ Par ailleurs, une attention particulière est portée à la faute détachable de
 > Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
 > Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
 
-Enfin, le propriétaire des murs, **[Le Propriétaire des Murs]**, peut être sollicité sur le fondement des [articles 1719](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127).
-
-> « Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière : (...) 3° D'en faire jouir paisiblement le preneur pendant la durée du bail ; »
-
-Et [1720 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784), relatifs à l'obligation d'entretien du bailleur, si la défectuosité du meuble est liée à un défaut structurel des locaux.
-
-> « Le bailleur est tenu de livrer la chose en bon état de réparations de toute espèce. Il doit y faire, pendant la durée du bail, toutes les réparations qui peuvent devenir nécessaires, autres que les locatives. »
+Enfin, le propriétaire des murs, **[Le Propriétaire des Murs]**, a été sollicité par LRAR le 29 juin 2026 non pas en tant que responsable de l'accident, mais comme source d'information : le bail commercial l'oblige à détenir l'attestation d'assurance RC Pro de son locataire (la SAS). À ce jour, l'AR a été retourné signé mais sans réponse sur le fond.
 
 
 <hr><hr>

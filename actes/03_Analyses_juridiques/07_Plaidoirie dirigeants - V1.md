@@ -133,4 +133,4 @@ Le préjudice global est estimé à 59 600 €, incluant le déficit fonctionnel
 
 Une stratégie multi-niveaux a été déployée : une plainte pénale complémentaire a été déposée pour défaut d'assurance et entrave, parallèlement à la transmission des pièces médicales au Procureur. 
 
-Enfin, des mises en demeure ont été adressées à L'Exploitant, à ses Dirigeants et au propriétaire des murs pour obtenir les garanties nécessaires à la résolution du litige.
+Enfin, des mises en demeure ont été adressées à L'Exploitant et à ses Dirigeants pour obtenir les garanties nécessaires à la résolution du litige, tandis que le propriétaire des murs a été sollicité pour la communication des coordonnées de l'assureur (via les annexes du bail commercial).

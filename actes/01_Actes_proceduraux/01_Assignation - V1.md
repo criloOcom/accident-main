@@ -122,7 +122,7 @@ L'obligation à réparation de **[L'Exploitant du Commerce]** n'étant pas séri
     Evaluées à 7 500 € au titre du préjudice d'exploitation durant les 56 jours d'ITT.
 
 - **Déficit Fonctionnel Permanent (DFP / AIPP)** : <br>
-    Estimé de manière prospective à 12% par le médecin légiste conseil (équivalant à une valeur de 25 200 € au barème de capitalisation pour un homme de 44 ans).
+    Chiffrage provisionnel et indicatif, sous réserve de consolidation médicale future et d'expertise judiciaire contradictoire. Estimation provisoire sur la base d'un taux de 12 % (25 200 € au barème de capitalisation pour un homme de 44 ans).
 
 - **Souffrances Endurées (SE)** : <br>
     Echelonnées à 4/7 en raison de l'accident, de la chirurgie et de la rééducation intensive requise (chiffrées à 12 000 €).
