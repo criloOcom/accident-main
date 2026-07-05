@@ -343,6 +343,30 @@ code Python lit ensuite en fallback.
 - **3 actes procéduraux** (01 Assignation, 02 Plainte, 03 Article 145)
 - **0 erreur** à la consistency check (a vérifier)
 
+## Phase 6d — Injection Drive des 11 documents (5 juillet 2026) ✅
+
+### Documents injectés sur Drive (dossier `1LnXAHlLLLHN0quyhiRq4CdVAKHRGolWk`)
+
+| # | Drive name | ID |
+|---|-----------|-----|
+| 03 | 03 Assignation Article 145 - UNIFIE_ANONYME | `1R26179ks7vLkzw0hYEHL888i0p1VS9ppa6s8R8kQ_gg` |
+| 11 | 11 Courrier INPI - UNIFIE_ANONYME | `1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E` |
+| 12 | 12 Courrier URSSAF - UNIFIE_ANONYME | `1LdLfCnWLiD2v1N1SMF3FAeh681znM0kXOrAlBXeOe8w` |
+| 13 | 13 Courrier Prefecture - UNIFIE_ANONYME | `1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM` |
+| 14 | 14 Courrier CODAF - UNIFIE_ANONYME | `1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY` |
+| 15 | 15 Courrier SIE - UNIFIE_ANONYME | `1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA` |
+| 16 | 16 Courrier Conseil Departemental - UNIFIE_ANONYME | `1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ` |
+| 18 | 18 Courrier SDIS - UNIFIE_ANONYME | `1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE` |
+| 19 | 19 Courrier FGTI - UNIFIE_ANONYME | `1rtaTa6scRGc0TmelWNMrX6bN-kqe98b1dhT5OT-qsXc` |
+| 20 | 20 Relance Police - UNIFIE_ANONYME | `171CF_LzNopYxIS6Tn4i3t3Ghx3ut14F1gh6-KjHevCA` |
+| 21 | 21 Relance CPAM - UNIFIE_ANONYME | `1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k` |
+
+### Travail effectué
+- **11 Google Docs créés** avec `replaceDocumentWithMarkdown(firstHeadingAsTitle: true)`
+- **JUSTIFIED appliqué** sur les 11 documents
+- **drive_id mis à jour** dans les fichiers locaux YAML
+- **Total Drive** : 18 documents UNIFIE_ANONYME (03-09, 11-16, 18-21 + 03 Article 145 + anciens 01-14)
+
 ## Correction #2026-07-05 — Récit erroné 09 Courrier Inspection Travail ✅
 
 ### Problème
