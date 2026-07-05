@@ -60,7 +60,8 @@ Partage depuis : **[L'Email de la Victime]**
 ## 01 — Actes procéduraux
 
 - 2026-06-29 - 01_Assignation - V1 ✓ Vérifié : Projet d'assignation en référé-provision (5 000 €) fondé sur [l'Article 835 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
-- 2026-06-01 - 02_Plainte - V1 ✓ Vérifié : Plainte officielle avec constitution de partie civile.
+- 2026-06-01 - 02_Plainte - V1 ✓ Vérifié : Plainte complémentaire défaut assurance RC (victime agissant en qualité de client).
+- 2026-07-05 - 03_Assignation Article 145 - V1 ✓ Brouillon : Assignation en référé pour communication forcée police d'assurance RC Pro sous astreinte.
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
 
@@ -73,14 +74,12 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-07-05 - 07_Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au Dr DJERBI.
 - 2026-07-05 - 08_Courrier Suivi TAVELLA - V1 ✓ Vérifié : Suivi Inspection du Travail + CODAF (réponse adjoint au maire).
 - 2026-07-05 - 09_Courrier Inspection Travail - V1 ✓ Vérifié : Demande d'enquête directe à la DDETS/DREETS.
-- 2026-07-05 - 10_Courrier Greffe TC - V1 ✓ Vérifié : Inscription d'observation au RCS.
 - 2026-07-05 - 11_Courrier INPI - V1 ✓ Vérifié : Signalement de litige au RNE.
 - 2026-07-05 - 12_Courrier URSSAF - V1 ✓ Vérifié : Signalement de travail dissimulé présumé.
 - 2026-07-05 - 13_Courrier Prefecture - V1 ✓ Vérifié : Confirmation officielle de signalement.
 - 2026-07-05 - 14_Courrier CODAF - V1 ✓ Vérifié : Signalement officiel des manquements.
 - 2026-07-05 - 15_Courrier SIE - V1 ✓ Vérifié : Information de litige en cours.
 - 2026-07-05 - 16_Courrier Conseil Departemental - V1 ✓ Vérifié : Signalement non-conformité ERP.
-- 2026-07-05 - 17_Courrier CARSAT - V1 ✓ Vérifié : Signalement risque professionnel.
 - 2026-07-05 - 18_Courrier SDIS - V1 ✓ Vérifié : Signalement sécurité ERP.
 - 2026-07-05 - 19_Courrier FGTI - V1 ✓ Vérifié : Information conservatoire (LRAR + email).
 - 2026-07-05 - 20_Relance Police - V1 ✓ Vérifié : Suivi plainte + demande vidéos.
@@ -174,23 +173,24 @@ Documents non indexés conservés dans `archives/` :
 
 ## STATISTIQUES DU DOSSIER (màj 05/07/2026)
 
-- Nombre total de documents : 14 (dans 00-05) + 19 courriers (03-21) + 8 (archivés)
+- Nombre total de documents : 14 (dans 00-05) + 18 courriers (03-21, hors 10+17 supprimés) + 1 acte (03 Article 145) + 8 (archivés)
 - Documents vérifiés : 41/41 (100%)
 - Références jurisprudentielles : 7 vérifiées
 - Liens Légifrance ajoutés : 10+
-- **19 courriers rediges** (03-21), **7 injectés sur Drive** (UNIFIE_ANONYME)
+- **17 courriers rediges** (03-09, 11-16, 18-21), **7 injectés sur Drive** (UNIFIE_ANONYME)
 
 *NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à **[La Victime]**. Seule l'Étude d'indemnisation (Piece 03) est conservée dans 04_Etudes_indemnisation.*
 
 ## TRAVAUX RESTANTS
 
-1. **Injection Drive** — Injecter les 12 nouveaux courriers (10-21) sur Drive avec JUSTIFIED.
-2. **Envoi LRAR** — Expédier les courriers 07, 09, 10, 11, 12, 13, 14, 15, 16, 19 par LRAR électronique.
-3. **Envoi emails** — Expédier 08 (TAVELLA), 17 (CARSAT), 18 (SDIS), 20 (Police), 21 (CPAM).
-4. **Relance SAS/dirigeants** — Attendre le 14 juillet (délai légal 15 jours) avant seconde mise en demeure.
-5. **Dossier de correspondance réelle** — Créer le document de substitution tokens → identités réelles au moment de l'envoi.
+1. **Injection Drive** — Injecter les courriers 10-21 (hors 10+17 supprimes) + 03 Article 145 sur Drive avec JUSTIFIED.
+2. **Envoi LRAR** — Expedier les courriers 07, 09, 11, 12, 13, 14, 15, 16, 19 par LRAR electronique.
+3. **Envoi emails** — Expedier 08 (TAVELLA), 18 (SDIS), 20 (Police), 21 (CPAM).
+4. **Relance SAS/dirigeants** — Attendre le 14 juillet (delai legal 15 jours) avant seconde mise en demeure.
+5. **Dossier de correspondance reelle** — Creer le document de substitution tokens → identites reelles au moment de l'envoi.
 6. **Preuves officielles** — Insérer les documents physiques dans `00_Preuves_officielles/`.
-7. **Plan H** — Uniformiser dispositions, bordereaux, cohérence pièces.
+7. **Plan H** — Uniformiser dispositions, bordereaux, coherence pieces.
+8. **Verifier citation art. 145 CPC** avant envoi.
 
 
 <hr><hr>

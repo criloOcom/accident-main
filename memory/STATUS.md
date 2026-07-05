@@ -314,6 +314,35 @@ code Python lit ensuite en fallback.
 - Un dossier de correspondance réelle séparé sera créé UNIQUEMENT au moment de l'envoi
 - Aucun fichier « mixte » tokens+réel ne doit exister
 
+## Phase 6c — Corrections post-audit (5 juillet 2026) ✅
+
+### Problèmes identifiés par l'audit externe
+
+| Point | Statut |
+|-------|--------|
+| Greffe TC incompétent pour litige civil individuel | ✅ Supprimé |
+| CARSAT incompétente pour client tiers | ✅ Supprimé |
+| URSSAF recentré travail dissimulé uniquement | ✅ Reformulé |
+| Plainte : victime client, pas salarié | ✅ Requalifié |
+| Assureur RC inconnu → Article 145 CPC | ✅ Créé |
+
+### Fichiers supprimés
+- `actes/02_Courriers/10_Courrier Greffe TC - V1.md` — Greffe TC incompétent (observation RCS pas pour litige civil individuel)
+- `actes/02_Courriers/17_Courrier CARSAT - V1.md` — CARSAT incompétente (pas de pouvoir sur client tiers)
+
+### Fichiers modifiés
+- `actes/02_Courriers/12_Courrier URSSAF - V1.md` — Recentré sur travail dissimulé pur (plus de récit accident/victime)
+- `actes/01_Actes_proceduraux/02_Plainte - V1.md` — Ajout « en qualité de client » pour requalification
+- `actes/05_Organisation/00_Index.md` — Tableau mis à jour (suppressions + Article 145)
+
+### Fichiers créés
+- `actes/01_Actes_proceduraux/03_Assignation Article 145 - V1.md` — Assignation en référé Article 145 CPC pour communication police d'assurance RC Pro sous astreinte (150€/jour)
+
+### État après corrections
+- **17 courriers** (03-09, 11-16, 18-21)
+- **3 actes procéduraux** (01 Assignation, 02 Plainte, 03 Article 145)
+- **0 erreur** à la consistency check (a vérifier)
+
 ## Correction #2026-07-05 — Récit erroné 09 Courrier Inspection Travail ✅
 
 ### Problème
