@@ -39,6 +39,7 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
    - `accident-main-legal-research` — recherche juridique
    - `document-anonymization` — règles d'anonymisation
 5. **Interdiction absolue** d'utiliser du markdown brut, regex, ou find/replace direct sur les Google Docs — toujours passer par le workflow local puis `replaceDocumentWithMarkdown`
+6. **Google Sheets — RÈGLE ABSOLUE** : ne JAMAIS supposer la structure des colonnes. Avant d'écrire dans une feuille, **lis la ligne d'en-tête** et **3 lignes de données** pour valider le mapping exact. Supposer = cracher à la gueule de l'utilisateur.
 
 ## Workflow rapide (voir memory/WORKFLOW.md pour le détail)
 

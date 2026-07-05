@@ -24,8 +24,11 @@
 
 - [ ] Avant d'ajouter une ligne à un fichier existant : **lis au moins 3 lignes
   existantes** pour comprendre le format et le niveau de qualité attendu
-- [ ] Avant d'ajouter une ligne à un Google Sheet : **lis 3 lignes existantes**
-  + note les 24 colonnes et leurs formats
+- [ ] Avant d'écrire dans un Google Sheet : **lis la ligne d'en-tête** (row 1 ou 2
+  selon la feuille) pour connaître l'ordre EXACT des colonnes. Ne JAMAIS supposer
+  la structure — vérifie chaque colonne une par une
+- [ ] Avant d'écrire dans un Google Sheet : **lis 3 lignes de données** existantes
+  pour confirmer que ta compréhension des colonnes est correcte
 - [ ] Avant de citer un article de loi : vérifie via MCP Légifrance
   (`rechercher_code` ou `consulter_article`)
 - [ ] Avant de modifier un fichier listé dans `check_consistency.py` : exécute
