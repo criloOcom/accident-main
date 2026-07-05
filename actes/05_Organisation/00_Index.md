@@ -27,33 +27,14 @@ drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 - [03 — Analyses juridiques](#03-analyses-juridiques)
 - [04 — Études d'indemnisation](#04-tudes-dindemnisation)
 - [05 — Organisation](#05-organisation)
+- [ARCHIVES](#archives)
 - [MODIFICATIONS CLÉS](#modifications-cls)
 - [RÉFÉRENCES JURISPRUDENTIELLES](#rfrences-jurisprudentielles)
 - [STATISTIQUES DU DOSSIER](#statistiques-du-dossier)
 
-
-titre: Index de l'État Final du Dossier
-date: 2026-06-30
-type: acte
-categorie: inventaire
-auteur: La Victime
-destinataire: null
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce
-tags:
-  - index
-  - inventaire
-  - pièces
-  - dossier
-statut: final
-source: drive
-drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
----
-
 # INDEX DU DOSSIER **[La Victime]**
 
-Rédigé le 30 juin 2026
+Rédigé le 30 juin 2026 — Mis à jour le 5 juillet 2026 (restructuration)
 
 ## INTRODUCTION
 
@@ -67,6 +48,8 @@ Partage depuis : **[L'Email de la Victime]**
 
 ## 00 — Preuves officielles
 
+*(Documents physiques — dossier `00_Preuves_officielles/` en attente d'insertion)*
+
 - 2026-05-30 - CR opératoire ✓ Vérifié : Compte rendu opératoire du **[Le Chirurgien SOS Main]** (microchirurgie 30/05/2026).
 - 2026-06-01 - Dossier plainte ✓ Vérifié : Copie complète de la plainte officielle déposée au commissariat.
 - 2026-06-02 - PV Police ✓ Vérifié : Procès-verbal de constat n°[ ...].
@@ -79,6 +62,8 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-06-01 - 02_Plainte - V1 ✓ Vérifié : Plainte officielle avec constitution de partie civile.
 
 ## 02 — Courriers
+
+*(Fichiers à insérer dans `02_Courriers/`)*
 
 - 2026-06-29 - 03_Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à **[L'Exploitant du Commerce]**.
 - 2026-06-29 - 04_Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de [l'Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
@@ -101,6 +86,19 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-06-01 - 10_Plan action - V1 ✓ Vérifié : Plan d'action et chronologie de procédure.
 - 2026-06-29 - 00_Index (ce document) ✓ Vérifié : Index et structure du dossier.
 
+## ARCHIVES
+
+Documents non indexés conservés dans `archives/` :
+
+- `archives/annexes/` — ANNEXE A Lexique Tokens, ANNEXE B Lois Jurisprudence, ANNEXE C Pieces
+- `archives/Constitution_Partie_Civile.md`
+- `archives/ActionDirecte_AssureurRC.md`
+- `archives/ANALYSE_correction_juridique.md`
+- `archives/ANALYSE_Jurisprudence.md`
+- `archives/STRATEGIE_Contentieux_Civil.md`
+- `archives/STRATEGIE_Contentieux_Penal.md`
+- `archives/Dossier_Presentation.md`
+
 ## MODIFICATIONS CLÉS
 
 1. **[Le Préposé de l'Exploitation]** -> **[Le Président de l'Exploitation]** + **[La Directrice Générale de l'Exploitation]** ✓
@@ -113,6 +111,9 @@ Partage depuis : **[L'Email de la Victime]**
 1. Nomenclature normalisée ✓
 1. Formatting appliqué ✓
 1. Liens Légifrance ajoutés ✓
+1. Restructuration `actes/` — 00 à 05 + archives ✓
+1. Anciens dossiers `contentieux-civil/` et `contentieux-penal/` supprimés ✓
+1. `06_Annexes/` déplacé dans `archives/annexes/` ✓
 
 ## RÉFÉRENCES JURISPRUDENTIELLES
 
@@ -126,8 +127,8 @@ Partage depuis : **[L'Email de la Victime]**
 
 ## STATISTIQUES DU DOSSIER
 
-- Nombre total de documents : 15
-- Documents vérifiés : 15/15 (100%)
+- Nombre total de documents : 10 (dans 00-05) + 8 (archivés)
+- Documents vérifiés : 10/10 (100%)
 - Références jurisprudentielles : 7 vérifiées
 - Liens Légifrance ajoutés : 10+
 
