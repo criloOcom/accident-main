@@ -6,7 +6,7 @@ import sys
 
 # Legal references mapping from annuaire spreadsheet
 LEGAL_REFS = {
-    "Art.121-2": {"title": "Article 121-2 du Code pénal", "desc": "Responsabilité pénale des personnes morales", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417201"},
+    "Art.121-2": {"title": "Article 121-2 du Code pénal", "desc": "Responsabilité pénale des personnes morales", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204"},
     "Art.121-3": {"title": "Article 121-3 du Code pénal", "desc": "Faute caractérisée", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209"},
     "Art.1240": {"title": "Article 1240 du Code civil", "desc": "Responsabilité pour faute", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571"},
     "Art.1242": {"title": "Article 1242 du Code civil", "desc": "Responsabilité du fait des choses et du commettant", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000"},
