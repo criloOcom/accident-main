@@ -203,3 +203,15 @@ code Python lit ensuite en fallback.
 - ✅ `GOOGLE_DRIVE_REFRESH_TOKEN`
 - ✅ `PISTE_CREDENTIALS`
 - ❌ **Setup script** : encore `echo do setup` → à changer en `./setup.sh`
+
+## Phase 5 — Correction audit de coherence (5 juillet 2026) ✅
+
+### Corrections appliquees
+- Montants 58 100€ → 59 600€ dans 4 fichiers (Plainte, Plaidoirie, FAQ, Responsabilites)
+- Contradiction interne 11_Etude indemnisation corrigee (texte aligne sur tableau)
+- Frontmatter YAML duplique supprime dans 6 fichiers
+- Nesting de liens Legifrance nettoie (5 niveaux → 1 niveau) dans 10 fichiers
+- Tokens d'anonymisation corriges : civilite supprimee, "coiffeur" → **[Le Prépose de l'Exploitation]**
+- Chemins obsoletes dans RULES.md et WORKFLOW.md mis a jour
+- Date STATUS.md corrigee (4→5 juillet), date ANNEXE C corrigee (27/05→29/06)
+- `python3 app/check_consistency.py` : 0 erreur, 1 avertissement (benin)
