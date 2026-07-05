@@ -6,6 +6,14 @@
 - Si un MCP crash (erreur d'import, timeout), le FIXER et RELANCER le serveur immédiatement — ne pas dériver vers des solutions alternatives sans MCP
 - Les MCP sont gérés par le runtime opencode ; le fix du code source + redémarrage du processus est la seule procédure valide
 
+## PROTOCOLE DE VACCINATION (OBLIGATOIRE — À FAIRE EN TOUT PREMIER)
+- 🔴 **Lire et appliquer** `/home/crilocom/accident-main/memory/VACCIN.md` avant la
+  moindre action — c'est le protocole de vaccination contre la médiocrité
+- **Checklist VACCIN** : analyser 3 exemples existants avant d'en créer un
+  nouveau, remplir TOUTES les colonnes, vérifier avec MCP avant de citer
+- **Ne JAMAIS** livrer un travail partiellement complété (colonnes vides,
+  champs absents, format incohérent avec l'existant)
+
 ## PROTOCOLE DE MÉMOIRE (OBLIGATOIRE EN DÉBUT DE SESSION)
 - **Lire** `/home/crilocom/accident-main/AGENTS.md` en premier
 - **Lire** TOUS les fichiers de `/home/crilocom/accident-main/memory/` avant toute action

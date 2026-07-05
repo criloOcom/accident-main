@@ -8,6 +8,7 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
 /home/crilocom/accident-main/
 ├── AGENTS.md              ← Ce fichier — point d'entrée des agents
 ├── memory/                ← Mémoire persistante partagée entre tous les agents
+│   ├── VACCIN.md          ← 🔴 À LIRE EN PREMIER — obligatoire avant toute action
 │   ├── STATUS.md          ← État d'avancement détaillé
 │   ├── WORKFLOW.md        ← Procédure d'anonymisation
 │   ├── TOKEN MAP.md       ← Correspondance jeton ↔ identité réelle
@@ -27,6 +28,8 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
 
 ## Règles essentielles
 
+0. 🔴 **Lire `memory/VACCIN.md` AVANT toute action** — protocole de vaccination
+   obligatoire. Ne pas le lire constitue une faute professionnelle.
 1. **Toute mémoire persistante** doit être dans `/home/crilocom/accident-main/memory/` — **PAS** dans un dossier privé d'agent
 2. **Toute modification** de document Google Docs doit suivre le workflow décrit dans `memory/WORKFLOW.md`
 3. **Les tokens d'anonymisation** sont définis dans `app/batch_anonymize.py` — toute modification des tokens doit être faite dans les DEUX endroits (script + TOKEN MAP.md)
