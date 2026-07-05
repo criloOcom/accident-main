@@ -32,6 +32,25 @@ drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
 - [IV. PLAN D'ACTION CONTENTIEUX](#iv-plan-daction-contentieux)
 
 
+titre: Mémorandum Juridique — Audit Stratégique et Restructuration Contentieuse
+date: 2026-06-30
+type: acte
+categorie: analyse
+auteur: La Victime
+destinataire: null
+personnes:
+  - La Victime
+  - L'Exploitant du Commerce
+tags:
+  - audit
+  - correction
+  - stratégie
+  - juridique
+statut: final
+source: drive
+drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
+---
+
 # **MÉMORANDUM JURIDIQUE : AFFAIRE [La Victime]**
 
 Rédigé le 30 juin 2026
@@ -53,7 +72,7 @@ Alors que l'employé coiffeur était monté sur la vasque en céramique d'un bac
 
 L'affaire met en cause la responsabilité de la personne morale, dirigée par **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, ainsi que le fait de son préposé.
 
-À ce jour, le statut exact de L'Exploitant demeure incertain : les courriers recommandés adressés le 29 juin 2026 à la société et à ses dirigeants sont restés sans réponse ni accusé de réception signé. Dans ce contexte d'opacité, il convient de sécuriser l'ensemble des voies d'indemnisation, notamment l'action directe contre l'assureur sur le fondement de [[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), ainsi que la mise en cause personnelle des dirigeants.
+À ce jour, le statut exact de L'Exploitant demeure incertain : les courriers recommandés adressés le 29 juin 2026 à la société et à ses dirigeants sont restés sans réponse ni accusé de réception signé. Dans ce contexte d'opacité, il convient de sécuriser l'ensemble des voies d'indemnisation, notamment l'action directe contre l'assureur sur le fondement de [[[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), ainsi que la mise en cause personnelle des dirigeants.
 
 
 === PAGE BREAK ===

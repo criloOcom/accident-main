@@ -22,6 +22,24 @@ drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 - [INTRODUCTION](#introduction)
 
 
+titre: Constitution de Partie Civile
+date: 2026-06-30
+type: acte
+categorie: penale
+auteur: La Victime
+destinataire: Tribunal Correctionnel
+personnes:
+  - La Victime
+  - L'Exploitant du Commerce
+tags:
+  - constitution
+  - partie civile
+  - pénal
+statut: final
+source: drive
+drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
+---
+
 # CONSTITUTION DE PARTIE CIVILE
 
 Rédigé le 30 juin 2026
@@ -62,7 +80,7 @@ Enquête en cours — Procédure pénale [ ... ].
 
 Pour les faits de :
 
-Blessures involontaires ayant entraîné une ITT de 56 jours par la violation manifestement délibérée d'une obligation de sécurité ([Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)) — basculement d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes.
+Blessures involontaires ayant entraîné une ITT de 56 jours par la violation manifestement délibérée d'une obligation de sécurité ([[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)) — basculement d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes.
 
 Je demande au tribunal de condamner la (ou les) personne(s) désignée(s) ci-dessus à me payer les sommes suivantes en réparation du préjudice subi :
 

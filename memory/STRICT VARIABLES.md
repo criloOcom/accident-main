@@ -16,7 +16,7 @@
 - MONTANT_PROVISION_REFERE : 5 000 € (demande judiciaire en référé)
 - MONTANT_PROVISION_AMIABLE : 15 000 € (demande amiable en mise en demeure)
 - MONTANT_ARTICLE_700 : 3 000 €
-- MONTANT_TOTAL_ESTIME : 58 100 € (selon tableau détaillé Doc 7 : PGPA 1 400 + IP 15 000 + DFP 25 200 + SE 12 000 + Agrément 3 000 + Art.700 1 500)
+- MONTANT_TOTAL_ESTIME : 59 600 € (selon tableau détaillé Doc 7 : PGPA 1 400 + IP 15 000 + DFP 25 200 + SE 12 000 + Agrément 3 000 + Art.700 3 000)
 - CA_MENSUEL_MOYEN : 750 € (déclaré URSSAF, CA annuel 9 000 € net)
 - PGPA_ASSIGNATION : 7 500 € (évaluation forfaitaire dans assignation)
 - PGPA_ETUDE : 1 400 € (prorata réel : 750/30×56 jours)

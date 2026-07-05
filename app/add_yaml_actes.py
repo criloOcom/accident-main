@@ -38,7 +38,7 @@ YAML_MAP = {
         'auteur': 'La Victime',
         'destinataire': 'Procureur de la République',
         'personnes': ['La Victime', 'L\'Exploitant du Commerce'],
-        'tags': ['plainte', 'défaut d\'assurance', 'pénal', 'L.211-26'],
+        'tags': ['plainte', 'défaut d\'assurance', 'pénal'],
         'statut': 'final',
         'source': 'drive',
         'drive_id': '1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc',
@@ -186,6 +186,32 @@ YAML_MAP = {
         'source': 'drive',
         'drive_id': '1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34',
     },
+    'STRATEGIE Contentieux Civil.md': {
+        'titre': 'STRATEGIE CONTENTIEUX CIVIL',
+        'date': '2026-07-04',
+        'type': 'acte',
+        'categorie': 'strategie',
+        'auteur': 'La Victime',
+        'destinataire': None,
+        'personnes': ['La Victime', 'L\'Exploitant du Commerce'],
+        'tags': ['stratégie', 'contentieux', 'civil', 'procédure'],
+        'statut': 'final',
+        'source': 'drive',
+        'drive_id': None,
+    },
+    'STRATEGIE Contentieux Penal.md': {
+        'titre': 'STRATEGIE CONTENTIEUX PENAL',
+        'date': '2026-07-04',
+        'type': 'acte',
+        'categorie': 'strategie',
+        'auteur': 'La Victime',
+        'destinataire': None,
+        'personnes': ['La Victime', 'L\'Exploitant du Commerce'],
+        'tags': ['stratégie', 'contentieux', 'pénal', 'procédure'],
+        'statut': 'final',
+        'source': 'drive',
+        'drive_id': None,
+    },
 }
 
 
@@ -205,10 +231,17 @@ def format_yaml(data: dict) -> str:
     return '\n'.join(lines)
 
 
+def find_file(root, target_name):
+    for dirpath, _, filenames in os.walk(root):
+        if target_name in filenames:
+            return os.path.join(dirpath, target_name)
+    return None
+
+
 def main():
     for fname, yaml_data in YAML_MAP.items():
-        fpath = os.path.join(ACTES_DIR, fname)
-        if not os.path.exists(fpath):
+        fpath = find_file(ACTES_DIR, fname)
+        if not fpath:
             print(f'⚠ {fname} introuvable')
             continue
 

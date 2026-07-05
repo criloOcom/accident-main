@@ -19,7 +19,7 @@ Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784](ht
 
 • **[Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)** — Blessures involontaires avec ITT supérieure à 3 mois
 
-• **[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)** — Blessures involontaires avec ITT inférieure ou égale à 3 mois
+• **[[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)** — Blessures involontaires avec ITT inférieure ou égale à 3 mois
 
 • **[Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107)** — Remboursement des frais d'avocat de la partie civile
 
@@ -36,7 +36,7 @@ Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](ht
 
 • **[Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)** — Responsabilité des dirigeants
 
-• **[Article L. 237-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063)** — Survie de la personnalité morale pour la liquidation
+• **[Article L. 237-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046073350)** — Survie de la personnalité morale pour la liquidation
 
 • **Article L. 421-3 du Code de la consommation** — Obligation générale de sécurité des services
 Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053)

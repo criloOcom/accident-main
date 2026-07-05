@@ -72,7 +72,7 @@ def check_tokens() -> None:
             known_tokens.add(m.group(1))
 
     acte_files = all_acte_md()
-    token_usage = re.compile(r'\[([^\]]+)\]')
+    token_usage = re.compile(r'\[([^\]]+)\](?!\s*\()')
     for f in acte_files:
         text = f.read_text(encoding="utf-8")
         for m in token_usage.finditer(text):
@@ -81,8 +81,11 @@ def check_tokens() -> None:
                 continue
             if token.startswith("http") or token.startswith("#"):
                 continue
+            # Skip Table des matières links (e.g. [Conclusion](#conclusion))
+            if re.match(r'^[A-Z][a-zà-ü].*\]\(#[a-z]', line.strip()):
+                continue
             if token in ("L. 124-3", "L. 223-22", "L. 225-251", "L. 237-2",
-                         "L. 421-3", "R. 123-2", "L. 211-26", "223-1"):
+                         "L. 421-3", "R. 123-2", "223-1"):
                 continue
             if not re.match(r'^[A-ZÀ-Ü][a-zà-ü\s\-\'\]]+$', token):
                 continue

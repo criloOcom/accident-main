@@ -32,6 +32,25 @@ drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 - [STATISTIQUES DU DOSSIER](#statistiques-du-dossier)
 
 
+titre: Index de l'État Final du Dossier
+date: 2026-06-30
+type: acte
+categorie: inventaire
+auteur: La Victime
+destinataire: null
+personnes:
+  - La Victime
+  - L'Exploitant du Commerce
+tags:
+  - index
+  - inventaire
+  - pièces
+  - dossier
+statut: final
+source: drive
+drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
+---
+
 # INDEX DU DOSSIER **[La Victime]**
 
 Rédigé le 30 juin 2026

@@ -1,4 +1,28 @@
 ---
+titre: Action Directe Assureur RC (Art. L.124-3)
+date: 2026-06-29
+type: acte
+categorie: procedure
+auteur: La Victime
+destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
+personnes:
+  - La Victime
+  - L'Exploitant du Commerce
+tags:
+  - action directe
+  - assurance
+  - mise en demeure
+  - L.124-3
+statut: final
+source: drive
+drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
+---
+
+**Table des matières**
+
+- [INTRODUCTION](#introduction)
+
+
 titre: Action Directe Assureur RC
 date: 2026-06-29
 type: acte
@@ -17,11 +41,6 @@ statut: final
 source: drive
 drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
 ---
-
-**Table des matières**
-
-- [INTRODUCTION](#introduction)
-
 
 # ACTION DIRECTE — MISE EN DEMEURE ASSUREUR RC
 

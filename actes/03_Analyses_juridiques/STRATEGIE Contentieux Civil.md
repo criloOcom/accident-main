@@ -1,5 +1,5 @@
 ---
-titre: STRATEGIE CONTENTIEUX CIVIL
+titre: STRATEGIE Contentieux Civil
 date: 2026-07-04
 type: acte
 categorie: strategie
@@ -8,6 +8,8 @@ destinataire: null
 personnes:
   - La Victime
   - L'Exploitant du Commerce
+  - Le Président de l'Exploitation
+  - La Directrice Générale de l'Exploitation
 tags:
   - stratégie
   - contentieux
@@ -35,27 +37,6 @@ drive_id: null
 - [6. Récapitulatif des pièces](#6-rcapitulatif-des-pices)
 
 
-titre: STRATEGIE Contentieux Civil
-date: 2026-07-04
-type: acte
-categorie: strategie
-auteur: La Victime
-destinataire: null
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce
-  - Le Président de l'Exploitation
-  - La Directrice Générale de l'Exploitation
-tags:
-  - stratégie
-  - contentieux
-  - civil
-  - procédure
-statut: final
-source: drive
-drive_id: null
----
-
 # STRATEGIE CONTENTIEUX CIVIL
 
 Rédigé le 4 juillet 2026
@@ -77,7 +58,7 @@ La responsabilité de la SAS est engagée de plein droit en application de [l'ar
 
 ### 2.2 Action directe contre l'assureur
 
-[[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable ([Cass. 1ère civ., 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
+[[[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable ([Cass. 1ère civ., 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
 
 La mise en demeure de l'assureur a été adressée le 29 juin 2026, enjoignant à la compagnie de prendre en charge le sinistre et de procéder au règlement des préjudices sous 15 jours.
 
@@ -105,7 +86,7 @@ En parallèle, une procédure de référé-communication peut être engagée pou
 
 ### 3.3 Voie CIVI / FGTI (subsidiaire)
 
-Si l'absence d'assurance de **[L'Exploitant du Commerce]** est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de [l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
+Si l'absence d'assurance de **[L'Exploitant du Commerce]** est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à [[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de [[l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
 Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels résultant d'une infraction pénale, lorsque l'auteur n'est pas assuré et que la réparation ne peut être obtenue à un autre titre.
 

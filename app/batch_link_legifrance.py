@@ -25,8 +25,8 @@ LEGIARTI = {
     "145 CPC": "LEGIARTI000051869339",
     "700 CPC": "LEGIARTI000045268436",
     "L.124-3 C. assur.": "LEGIARTI000017735449",
+    "706-3 CPP": "LEGIARTI000006577625",
     "L.113-2 C. assur.": "LEGIARTI000035731302",
-    "L.211-26 C. assur.": "LEGIARTI000006795644",
     "L.223-22 C. assur.": "LEGIARTI000038837071",
     "L.225-251 C. com.": "LEGIARTI000006226329",
     "L.237-2 C. com.": "LEGIARTI000006230063",
@@ -100,10 +100,10 @@ REPLACEMENTS = [
      f"({link('LEGIARTI000044570107', 'Article 475-1 du Code de procédure pénale')})"),
 
     # === PLAINTE Complement Defaut Assurance RC.md ===
-    (r"(?<!\]\()l'article L\. 211-26 du Code des assurances",
-     link("LEGIARTI000006795644", "l'article L. 211-26 du Code des assurances")),
-    (r"(?<!\]\()L'article L\. 124-3 du Code des assurances",
+(r"(?<!\]\()L'article L\. 124-3 du Code des assurances",
      link("LEGIARTI000017735449", "L'article L. 124-3 du Code des assurances")),
+    (r"(?<!\]\()l'article 706-3 du Code de procédure pénale",
+     link("LEGIARTI000006577625", "l'article 706-3 du Code de procédure pénale")),
 ]
 
 def apply_replacements(text, replacements):
@@ -205,13 +205,14 @@ def main():
         os.path.join(base, "PRESENTATION Dossier.md"): (False, False),
         os.path.join(base, "SYNTHESE FAQ.md"): (False, False),
         os.path.join(base, "annexes", "ANNEXE B Lois Jurisprudence.md"): (True, True),
-        os.path.join(base, "contentieux-civil", "ANALYSE Correction Juridique.md"): (False, False),
-        os.path.join(base, "contentieux-civil", "ANALYSE Jurisprudence.md"): (False, False),
-        os.path.join(base, "contentieux-civil", "STRATEGIE Contentieux Civil.md"): (False, False),
-        os.path.join(base, "contentieux-civil", "ETUDE Indemnisation MAX.md"): (False, False),
-        os.path.join(base, "contentieux-penal", "ANALYSE Responsabilites Legales.md"): (False, False),
-        os.path.join(base, "contentieux-penal", "CONSTITUTION Partie Civile.md"): (False, False),
-        os.path.join(base, "contentieux-penal", "PLAINTE Complement Defaut Assurance RC.md"): (False, False),
+        os.path.join(base, "03_Analyses_juridiques", "11_ANALYSE_correction_juridique.md"): (False, False),
+        os.path.join(base, "03_Analyses_juridiques", "12_ANALYSE_Jurisprudence.md"): (False, False),
+        os.path.join(base, "03_Analyses_juridiques", "STRATEGIE Contentieux Civil.md"): (False, False),
+        os.path.join(base, "04_Etudes_indemnisation", "07_ETUDE_Indemnisation_MAX.md"): (False, False),
+        os.path.join(base, "03_Analyses_juridiques", "14_ANALYSE_Responsabilites_Legales.md"): (False, False),
+        os.path.join(base, "01_Actes_proceduraux", "05_Constitution_Partie_Civile.md"): (False, False),
+        os.path.join(base, "01_Actes_proceduraux", "03_Plainte_Complet_Defaut_Assurance.md"): (False, False),
+        os.path.join(base, "03_Analyses_juridiques", "STRATEGIE Contentieux Penal.md"): (False, False),
     }
 
     print("=== Batch linking legal references to Légifrance ===")

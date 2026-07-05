@@ -34,6 +34,24 @@ drive_id: 1PiBFn1oA1DtkT61N-zvdPmsCYsmR0au9V4BA9IZzrH4
 - [ANNEXES ET SOURCES JURIDIQUES](#annexes-et-sources-juridiques)
 
 
+titre: Étude d'Indemnisation Maximale (Nomenclature Dintilhac)
+date: 2026-06-30
+type: acte
+categorie: evaluation
+auteur: La Victime
+destinataire: null
+personnes:
+  - La Victime
+tags:
+  - indemnisation
+  - dintilhac
+  - préjudice
+  - évaluation
+statut: final
+source: drive
+drive_id: 1PiBFn1oA1DtkT61N-zvdPmsCYsmR0au9V4BA9IZzrH4
+---
+
 # ÉTUDE D'INDEMNISATION MAXIMALE (NOMENCLATURE DINTILHAC)
 
 Rédigé le 30 juin 2026
