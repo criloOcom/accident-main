@@ -16,6 +16,7 @@ tags:
 statut: final
 source: drive
 drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
+format: Arial JUSTIFIED
 ---
 
 **Table des matières**
@@ -72,7 +73,7 @@ Alors que l'employé coiffeur était monté sur la vasque en céramique d'un bac
 
 L'affaire met en cause la responsabilité de la personne morale, dirigée par **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, ainsi que le fait de son préposé.
 
-À ce jour, le statut exact de L'Exploitant demeure incertain : les courriers recommandés adressés le 29 juin 2026 à la société et à ses dirigeants sont restés sans réponse ni accusé de réception signé. Dans ce contexte d'opacité, il convient de sécuriser l'ensemble des voies d'indemnisation, notamment l'action directe contre l'assureur sur le fondement de [[[[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), ainsi que la mise en cause personnelle des dirigeants.
+À ce jour, le statut exact de L'Exploitant demeure incertain : les courriers recommandés adressés le 29 juin 2026 à la société et à ses dirigeants sont restés sans réponse ni accusé de réception signé. Dans ce contexte d'opacité, il convient de sécuriser l'ensemble des voies d'indemnisation, notamment l'action directe contre l'assureur sur le fondement de [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), ainsi que la mise en cause personnelle des dirigeants.
 
 
 === PAGE BREAK ===
@@ -98,7 +99,7 @@ En vertu de l'[Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/code
 
 ### B. Évaluation du préjudice et libre disposition des fonds
 
-Le préjudice, estimé à 58 100 €, inclut une incidence professionnelle majeure pour la Victime, informaticien indépendant. Conformément à la jurisprudence ([Civ. 2e, 4 avril 2024, [n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)), les fonds versés à la victime sont librement utilisés sans avoir à justifier de leur utilisation.
+Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeure pour la Victime, informaticien indépendant. Conformément à la jurisprudence ([Civ. 2e, 4 avril 2024, [n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)), les fonds versés à la victime sont librement utilisés sans avoir à justifier de leur utilisation.
 
 
 === PAGE BREAK ===

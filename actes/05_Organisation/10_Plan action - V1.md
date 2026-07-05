@@ -15,6 +15,7 @@ tags:
 statut: final
 source: drive
 drive_id: 153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s
+format: Arial JUSTIFIED
 ---
 
 **Table des matières**
@@ -80,7 +81,7 @@ L'action repose principalement sur [l'Article 1242 du Code civil](https://www.le
 
 ## Responsabilité des Dirigeants et Mesures d'Instruction
 
-Conformément à [l'[Arrêt Sati](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) (Cass. Com., 20 mai 2003)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369), l'action directe est couplée à la mise en cause personnelle des dirigeants pour faute détachable.
+Conformément à [l'Arrêt Sati](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) (Cass. Com., 20 mai 2003), l'action directe est couplée à la mise en cause personnelle des dirigeants pour faute détachable.
 
 En cas de blocage sur l'identité de l'assureur, [l'Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) fonde la demande de mesures d'instruction in futurum.
 

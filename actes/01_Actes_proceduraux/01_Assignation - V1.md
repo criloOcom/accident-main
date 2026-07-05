@@ -16,6 +16,7 @@ tags:
 statut: final
 source: drive
 drive_id: 1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg
+format: Arial JUSTIFIED
 ---
 
 **Table des matières**

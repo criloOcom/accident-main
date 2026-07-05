@@ -18,6 +18,7 @@ tags:
 statut: final
 source: drive
 drive_id: null
+format: Arial JUSTIFIED
 ---
 
 **Table des matières**
@@ -58,7 +59,7 @@ La responsabilité de la SAS est engagée de plein droit en application de [l'ar
 
 ### 2.2 Action directe contre l'assureur
 
-[[[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable ([Cass. 1ère civ., 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
+[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable ([Cass. 1ère civ., 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
 
 La mise en demeure de l'assureur a été adressée le 29 juin 2026, enjoignant à la compagnie de prendre en charge le sinistre et de procéder au règlement des préjudices sous 15 jours.
 
@@ -78,7 +79,7 @@ Une assignation en [référé-provision](https://www.legifrance.gouv.fr/codes/ar
 
 Le référé-provision permet d'obtenir une avance rapide lorsque l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de **[L'Exploitant du Commerce]** est manifeste : un équipement instable présentant une cassure préexistante non signalée a causé un accident sur son lieu d'exploitation, par l'intermédiaire de son préposé, ce qui constitue une obligation non contestable.
 
-La demande inclut également la désignation d'un expert médical judiciaire sur le fondement de [l'[article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339).
+La demande inclut également la désignation d'un expert médical judiciaire sur le fondement de [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339).
 
 ### 3.2 Référé-communication de pièces
 
@@ -86,7 +87,7 @@ En parallèle, une procédure de référé-communication peut être engagée pou
 
 ### 3.3 Voie CIVI / FGTI (subsidiaire)
 
-Si l'absence d'assurance de **[L'Exploitant du Commerce]** est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à [[[[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de [[l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
+Si l'absence d'assurance de **[L'Exploitant du Commerce]** est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de [l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
 Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels résultant d'une infraction pénale, lorsque l'auteur n'est pas assuré et que la réparation ne peut être obtenue à un autre titre.
 
@@ -97,7 +98,7 @@ Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels rés
 
 **Procédure :** La victime saisit la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de **[La Ville de l'Accident]**, qui statue sur le droit à indemnisation et fixe le montant.
 
-**Délais ([article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)) :**
+**Délai CIVI = 3 ans ([article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)) :**
 - La victime dispose de **3 ans** à compter de la date de l'infraction (29 mai 2026 → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
 - Si une décision pénale définitive intervient, ce délai est ramené à **1 an** à compter de cette décision.
 - En l'état de l'enquête préliminaire en cours, la date de référence est celle de l'infraction (29 mai 2026).

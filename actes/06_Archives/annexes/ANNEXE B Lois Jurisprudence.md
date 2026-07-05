@@ -19,7 +19,7 @@ Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784](ht
 
 • **[Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)** — Blessures involontaires avec ITT supérieure à 3 mois
 
-• **[[[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)** — Blessures involontaires avec ITT inférieure ou égale à 3 mois
+• **[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)** — Blessures involontaires avec ITT inférieure ou égale à 3 mois
 
 • **[Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107)** — Remboursement des frais d'avocat de la partie civile
 

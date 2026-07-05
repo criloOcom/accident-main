@@ -59,7 +59,7 @@ def check_internal_links() -> None:
 
 # ── 2. Tokens connus ──────────────────────────────────────────────────
 def check_tokens() -> None:
-    annexe_a = ANNEXES / "ANNEXE A Lexique Tokens.md"
+    annexe_a = Path("actes/06_Archives/annexes/ANNEXE A Lexique Tokens.md")
     if not annexe_a.exists():
         err("ANNEXE_A introuvable — impossible de vérifier les tokens")
         return
