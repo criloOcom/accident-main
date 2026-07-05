@@ -48,6 +48,14 @@
 - Si le statut est inconnu, le formuler comme une incertitude : "À ce jour, le statut exact de **[l'entreprise]** demeure incertain"
 - Ne pas extrapoler l'absence de réponse à un courrier comme une preuve de liquidation
 
+## SÉPARATION STRICTE TOKENS ↔ CORRESPONDANCE RÉELLE
+- **Tout document de travail** (actes/, analyses, courriers en rédaction) est rédigé exclusivement en tokens anonymes (`**[La Victime]**`, `**[L'Exploitant du Commerce]**`, etc.)
+- **Un dossier de correspondance réelle séparé** est créé au moment de l'envoi uniquement, par substitution des tokens → identités réelles
+- **Ne JAMAIS** mélanger tokens et identités réelles dans un même fichier
+- **Ne JAMAIS** créer de document « mixte » — soit 100% tokens, soit 100% réél
+- **Objectif** : permettre aux agents IA de travailler sur la structure du dossier sans exposer les données personnelles, et garder un seul point de vérité pour le mapping (TOKEN MAP.md)
+- Ce comportement est **permanent et non négociable** pour tout le cycle de vie du dossier
+
 ## VÉRIFICATION OBLIGATOIRE AVANT FINALISATION (DOUBLE-PASS)
 - Avant de finaliser l'écriture de tout document, extraire toutes les dates, montants et identifiants
 - Comparer UN PAR UN avec le fichier `memory/STRICT VARIABLES.md`

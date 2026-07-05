@@ -43,6 +43,12 @@
 - **Sources des faits citées** : les déclarations non vérifiées sont attribuées à leur source (courriel, déclaration verbale) — pas présentées comme des faits avérés.
 - **Script `app/batch_link_legifrance.py`** : outil de remplacement regex pour lier en masse. À exécuter après toute introduction de nouvelle référence légale.
 
+## Séparation stricte tokens ↔ correspondance réelle (règle 2026-07-05)
+- Les fichiers de travail (actes/, memory/, courriers en .md) sont **100% en tokens anonymes**
+- Le **dossier de correspondance réelle** est un document séparé créé UNIQUEMENT au moment de l'envoi, par substitution via le TOKEN MAP.md
+- Aucun fichier « mixte » tokens+réel ne doit exister
+- Cette règle est permanente pour tout le cycle de vie du dossier
+
 ## Limitations du script batch_anonymize.py
 - Utilise `str.replace()` → ne capture que les chaînes exactes
 - Les prénoms seuls ("Sébastien") et les noms en casse mixte ("Mountasser Sabir") ne sont pas remplacés

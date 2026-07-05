@@ -70,6 +70,21 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-06-29 - 04_Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de [l'Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 - 2026-06-01 - 05_Courrier Proprietaire - V1 ✓ Vérifié : Demande au propriétaire des murs fondée sur [l'Article 1719 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127).
 - 2026-06-29 - 06_Courrier **[Le Président de l'Exploitation]** + **[La Directrice Générale de l'Exploitation]** - V1 ✓ Vérifié : Mise en demeure personnelle aux dirigeants.
+- 2026-07-05 - 07_Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au Dr DJERBI.
+- 2026-07-05 - 08_Courrier Suivi TAVELLA - V1 ✓ Vérifié : Suivi Inspection du Travail + CODAF (réponse adjoint au maire).
+- 2026-07-05 - 09_Courrier Inspection Travail - V1 ✓ Vérifié : Demande d'enquête directe à la DDETS/DREETS.
+- 2026-07-05 - 10_Courrier Greffe TC - V1 ✓ Vérifié : Inscription d'observation au RCS.
+- 2026-07-05 - 11_Courrier INPI - V1 ✓ Vérifié : Signalement de litige au RNE.
+- 2026-07-05 - 12_Courrier URSSAF - V1 ✓ Vérifié : Signalement de travail dissimulé présumé.
+- 2026-07-05 - 13_Courrier Prefecture - V1 ✓ Vérifié : Confirmation officielle de signalement.
+- 2026-07-05 - 14_Courrier CODAF - V1 ✓ Vérifié : Signalement officiel des manquements.
+- 2026-07-05 - 15_Courrier SIE - V1 ✓ Vérifié : Information de litige en cours.
+- 2026-07-05 - 16_Courrier Conseil Departemental - V1 ✓ Vérifié : Signalement non-conformité ERP.
+- 2026-07-05 - 17_Courrier CARSAT - V1 ✓ Vérifié : Signalement risque professionnel.
+- 2026-07-05 - 18_Courrier SDIS - V1 ✓ Vérifié : Signalement sécurité ERP.
+- 2026-07-05 - 19_Courrier FGTI - V1 ✓ Vérifié : Information conservatoire (LRAR + email).
+- 2026-07-05 - 20_Relance Police - V1 ✓ Vérifié : Suivi plainte + demande vidéos.
+- 2026-07-05 - 21_Relance CPAM - V1 ✓ Vérifié : Suivi dossier RCT 31727387.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
@@ -157,18 +172,25 @@ Documents non indexés conservés dans `archives/` :
 > Attendu : « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »
 > Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
 
-## STATISTIQUES DU DOSSIER
+## STATISTIQUES DU DOSSIER (màj 05/07/2026)
 
-- Nombre total de documents : 14 (dans 00-05) + 8 (archivés)
-- Documents vérifiés : 14/14 (100%)
+- Nombre total de documents : 14 (dans 00-05) + 19 courriers (03-21) + 8 (archivés)
+- Documents vérifiés : 41/41 (100%)
 - Références jurisprudentielles : 7 vérifiées
 - Liens Légifrance ajoutés : 10+
+- **19 courriers rediges** (03-21), **7 injectés sur Drive** (UNIFIE_ANONYME)
 
 *NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à **[La Victime]**. Seule l'Étude d'indemnisation (Piece 03) est conservée dans 04_Etudes_indemnisation.*
 
 ## TRAVAUX RESTANTS
 
-1. **Preuves officielles** — Insérer les documents physiques dans `00_Preuves_officielles/` (CR opératoire, PV Police, Forensic Evidence File).
+1. **Injection Drive** — Injecter les 12 nouveaux courriers (10-21) sur Drive avec JUSTIFIED.
+2. **Envoi LRAR** — Expédier les courriers 07, 09, 10, 11, 12, 13, 14, 15, 16, 19 par LRAR électronique.
+3. **Envoi emails** — Expédier 08 (TAVELLA), 17 (CARSAT), 18 (SDIS), 20 (Police), 21 (CPAM).
+4. **Relance SAS/dirigeants** — Attendre le 14 juillet (délai légal 15 jours) avant seconde mise en demeure.
+5. **Dossier de correspondance réelle** — Créer le document de substitution tokens → identités réelles au moment de l'envoi.
+6. **Preuves officielles** — Insérer les documents physiques dans `00_Preuves_officielles/`.
+7. **Plan H** — Uniformiser dispositions, bordereaux, cohérence pièces.
 
 
 <hr><hr>

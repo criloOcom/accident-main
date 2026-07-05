@@ -216,6 +216,24 @@ code Python lit ensuite en fallback.
 - **Index mis à jour** : stats (14 docs), mention fichiers à insérer supprimée, travaux restants nettoyés
 - `python3 app/check_consistency.py` : 0 erreur, 1 avertissement (bénin)
 
+## Phase 5c — Injection des 4 courriers sur Drive (5 juillet 2026) ✅
+
+### Ce qui a été fait
+- **4 Google Docs créés** sur Drive dans le dossier de travail :
+  - `03 Courrier SAS Mise en Demeure - UNIFIE_ANONYME` (`1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc`)
+  - `04 Action Directe Assureur RC - UNIFIE_ANONYME` (`14VIXTJK4n9eH66eVNZ6hJO6gLkiRBqnJpWijsDbkE2k`)
+  - `05 Courrier Proprietaire - UNIFIE_ANONYME` (`1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4`)
+  - `06 Courrier President DG - UNIFIE_ANONYME` (`1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I`)
+- **Markdown injecté** avec `replaceDocumentWithMarkdown(firstHeadingAsTitle: true)`
+- **JUSTIFIED appliqué** sur les 4 documents
+- **drive_id mis à jour** dans les fichiers locaux YAML
+- **Consistency check : 0 erreur**
+
+### Vérification PV Police (OCR)
+- **OCR effectué** sur le scan PDF original du PV (n°2026/015967, 3 pages, 300 DPI)
+- **Texte confirmé** : le PV dit bien « monté sur une vasque en céramique » — aucune erreur de transcription
+- Cohérence documentaire vérifiée (PV original = transcription = actes juridiques)
+
 ## Phase 5 — Correction audit de coherence (5 juillet 2026) ✅
 
 ### Corrections appliquees
@@ -227,3 +245,85 @@ code Python lit ensuite en fallback.
 - Chemins obsoletes dans RULES.md et WORKFLOW.md mis a jour
 - Date STATUS.md corrigee (4→5 juillet), date ANNEXE C corrigee (27/05→29/06)
 - `python3 app/check_consistency.py` : 0 erreur, 1 avertissement (benin)
+
+## Phase 5c — Injection des 4 courriers sur Drive (5 juillet 2026) ✅
+
+### Ce qui a été fait
+- **4 Google Docs créés** sur Drive dans le dossier de travail :
+  - `03 Courrier SAS Mise en Demeure - UNIFIE_ANONYME` (`1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc`)
+  - `04 Action Directe Assureur RC - UNIFIE_ANONYME` (`14VIXTJK4n9eH66eVNZ6hJO6gLkiRBqnJpWijsDbkE2k`)
+  - `05 Courrier Proprietaire - UNIFIE_ANONYME` (`1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4`)
+  - `06 Courrier President DG - UNIFIE_ANONYME` (`1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I`)
+- **Markdown injecté** avec `replaceDocumentWithMarkdown(firstHeadingAsTitle: true)`
+- **JUSTIFIED appliqué** sur les 4 documents
+- **drive_id mis à jour** dans les fichiers locaux YAML
+- **Consistency check : 0 erreur**
+
+### Vérification PV Police
+- **OCR effectué** sur le scan PDF original du PV (2026/015967, 3 pages)
+- **Texte confirmé** : le PV dit bien « monté sur une vasque en céramique » — aucune erreur de transcription
+- Cohérence documentaire vérifiée (PV original = transcription = actes juridiques)
+
+## Phase 5d — Courrier Consolidation Dr DJERBI (Plan E) (5 juillet 2026) ✅
+
+### Ce qui a été fait
+- **07_Courrier Consolidation - V1.md** : créé et injecté sur Drive
+- Contenu : demande de certificat médical de consolidation pour permettre l'évaluation DFP/IP/SE
+- Mention : Nomenclature Dintilhac + Cass. Civ. 2e, 4 avril 2024, n° 22-19.307
+- **JUSTIFIED appliqué** sur le document
+- **drive_id mis à jour** dans le fichier local YAML
+- Drive ID : `1PSv6c0YFvLa0WDEbwc3AVxL14z7ARi5ne50ctJgCvWI`
+- Dossier : `20269999 xx FUTUR xx`
+
+## Phase 6a — Courriers Suivi TAVELLA + Inspection Travail (Plan B) (5 juillet 2026) ✅
+
+### Ce qui a été fait
+- **08_Courrier Suivi TAVELLA - V1.md** : créé et injecté — réponse à l'adjoint au maire pour demande de suivi Inspection du Travail + CODAF + demande de communication des rapports
+- **09_Courrier Inspection Travail - V1.md** : créé et injecté — demande directe à la DDETS/DREETS avec liste des manquements présumés (DUERP, assurance RC, équipement, formation, travail dissimulé)
+- **JUSTIFIED appliqué** sur les 2 documents
+- **drive_id mis à jour** dans les fichiers locaux YAML
+- Drive IDs : `1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw` (08), `1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM` (09)
+
+## Phase 6b — Rédaction des 12 courriers d'alerte preventives (5 juillet 2026) ✅
+
+### Ce qui a été fait
+- **Règle permanente ajoutée** dans RULES.md et DECISIONS.md : séparation stricte tokens ↔ dossier de correspondance réelle
+- **12 nouveaux courriers créés** dans `actes/02_Courriers/` (nos 10 à 21) :
+
+| # | Fichier | Destinataire | Objet | Type |
+|---|---------|-------------|-------|------|
+| 10 | `10_Courrier Greffe TC - V1.md` | Greffe TC Foix | Inscription observation RCS | LRAR |
+| 11 | `11_Courrier INPI - V1.md` | INPI / RNE | Signalement litige en cours | LRAR |
+| 12 | `12_Courrier URSSAF - V1.md` | URSSAF Midi-Pyrénées | Signalement travail dissimulé | LRAR |
+| 13 | `13_Courrier Prefecture - V1.md` | Préfecture 09 | Confirmation signalement | LRAR |
+| 14 | `14_Courrier CODAF - V1.md` | CODAF 09 | Signalement officiel manquements | LRAR |
+| 15 | `15_Courrier SIE - V1.md` | SIE Foix | Information litige | LRAR |
+| 16 | `16_Courrier Conseil Departemental - V1.md` | CD 09 | Signalement sécurité ERP | LRAR |
+| 17 | `17_Courrier CARSAT - V1.md` | CARSAT Midi-Pyrénées | Signalement risque pro | Email |
+| 18 | `18_Courrier SDIS - V1.md` | SDIS 09 | Signalement sécurité ERP | Email |
+| 19 | `19_Courrier FGTI - V1.md` | FGTI | Information conservatoire | LRAR + Email |
+| 20 | `20_Relance Police - V1.md` | Police Foix | Suivi plainte + demande vidéos | Email |
+| 21 | `21_Relance CPAM - V1.md` | CPAM Haute-Garonne | Suivi dossier RCT | Email |
+
+- **Tous rédigés en version longue** (contexte + faits + fondements juridiques), conformément aux courriers 03-06
+- **Consistency check** : 0 erreur, 13 avertissements bénins `[Adresse a completer]` (inchangé)
+- **Délai respecté** : pas de relance SAS/dirigeants avant le 14 juillet (délai légal 15 jours)
+
+### Règle permanente instaurée
+- Les fichiers de travail (actes/, memory/, courriers .md) sont **100% en tokens anonymes**
+- Un dossier de correspondance réelle séparé sera créé UNIQUEMENT au moment de l'envoi
+- Aucun fichier « mixte » tokens+réel ne doit exister
+
+## Correction #2026-07-05 — Récit erroné 09 Courrier Inspection Travail ✅
+
+### Problème
+La version initiale du **09 Courrier Inspection Travail** contenait une erreur factuelle dans la description de l'accident et dans le fondement juridique :
+
+- **Ligne 51** (INTRODUCTION) : « le préposé a escaladé le bac à shampoing **pour effectuer sa tâche** » — c'est faux. Il est monté sur le bac pour **régler le poste de télévision**.
+- **Ligne 74** (liste manquements) : le fondement invoqué était la **formation sécurité** (L. 4141-2) — inadapté. Il s'agit d'un défaut d'**équipement d'accès en hauteur** (L. 4121-1 + R. 4323-58 et suivants).
+
+### Correction appliquée
+- **INTRODUCTION** : remplacé par « sur lequel il avait dû monter **pour accéder au poste de télévision, faute d'équipement d'accès adapté (escabeau)** »
+- **Liste des manquements (puce 4)** : remplacée par **Absence d'équipement d'accès en hauteur** avec articles L. 4121-1 (obligation générale de sécurité) et R. 4323-58 et suivants (travaux en hauteur)
+- **Version Drive mise à jour** via `replaceDocumentWithMarkdown` (même ID : `1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM`)
+- **Fichier local corrigé** : `actes/02_Courriers/09_Courrier Inspection Travail - V1.md`
