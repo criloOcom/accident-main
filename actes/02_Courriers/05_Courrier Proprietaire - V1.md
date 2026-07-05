@@ -17,6 +17,7 @@ tags:
 statut: final
 source: drive
 drive_id: null
+format: Arial JUSTIFIED
 ---
 
 **Table des matières**
@@ -49,13 +50,13 @@ Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grav
 
 Rappel des obligations légales
 
-[[[L'article 1719 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail. [[[L'article 1720 du même code](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) impose au bailleur d'entretenir les lieux en bon état de réparation de toute nature.
+[L'article 1719 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail. [L'article 1720 du même code](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) impose au bailleur d'entretenir les lieux en bon état de réparation de toute nature.
 
 Je me permets de prendre contact avec vous en votre qualité de propriétaire bailleur des locaux commerciaux situés au **[L'Adresse de l'Exploitation]**, actuellement loués et exploités sous l'enseigne de coiffure **[L'Exploitant du Commerce]**.
 
 Le vendredi 29 mai 2026 à 15h20, j'ai été victime d'un accident corporel grave au sein de cet établissement, causé par le basculement d'un équipement lourd (bac à shampoing) défectueux et brisé, entraînant une section profonde de 8,5 cm au niveau de ma main droite dominante (section tendineuse et nerveuse de l'index droit opérée en urgence sous anesthésie le 30 mai 2026) avec un pronostic de récupération neurologique évalué à un an minimum par le chirurgien (récupération souvent partielle s'agissant d'une suture nerveuse).
 
-Dans le cadre de la procédure d'indemnisation de ce préjudice corporel et conformément aux dispositions de [[[l'Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), je mets en œuvre l'action directe contre l'assureur de responsabilité civile de l'exploitant commercial.
+Dans le cadre de la procédure d'indemnisation de ce préjudice corporel et conformément aux dispositions de [l'Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), je mets en œuvre l'action directe contre l'assureur de responsabilité civile de l'exploitant commercial.
 
 N'ayant pu, en raison de mon arrêt de travail et de mon incapacité à utiliser ma main droite dominante, effectuer plus tôt les démarches nécessaires, je sollicite aujourd'hui votre aide afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce]**.
 
@@ -81,7 +82,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
-À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de **[La Ville de l'Accident]** — d'abord en référé sur le fondement de [l'[[article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de **[La Ville de l'Accident]** — d'abord en référé sur le fondement de [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 

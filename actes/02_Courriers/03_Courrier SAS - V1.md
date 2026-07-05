@@ -16,6 +16,7 @@ tags:
 statut: final
 source: drive
 drive_id: null
+format: Arial JUSTIFIED
 ---
 
 **Table des matières**
@@ -48,7 +49,7 @@ Ce courrier constitue la première étape amiable préalable à toute action con
 
 Rappel des obligations légales
 
-[[[[[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) reconnaît à la victime une action directe contre l'assureur du responsable. [[[[[L'article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) dispose que les dirigeants d'une société commerciale sont responsables, individuellement ou solidairement, envers les tiers des conséquences dommageables de leurs actes. Le défaut d'information sur l'assurance constitue un manquement à l'obligation de loyauté contractuelle.
+[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) reconnaît à la victime une action directe contre l'assureur du responsable. [L'article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) dispose que les dirigeants d'une société commerciale sont responsables, individuellement ou solidairement, envers les tiers des conséquences dommageables de leurs actes. Le défaut d'information sur l'assurance constitue un manquement à l'obligation de loyauté contractuelle.
 
 Ces dispositions sont d'ordre public : elles s'imposent à la société et à ses dirigeants.
 
@@ -74,7 +75,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
-À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de **[La Ville de l'Accident]** — d'abord en référé sur le fondement de [l'[[article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de **[La Ville de l'Accident]** — d'abord en référé sur le fondement de [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 
