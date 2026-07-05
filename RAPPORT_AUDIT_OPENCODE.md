@@ -4,7 +4,7 @@
 > Auditeur : Jules
 
 ## Résumé
-- [x] Total erreurs critiques : 2
+- [x] Total erreurs critiques : 1
 - [x] Total avertissements : 1
 
 ## Résultats par plan
@@ -20,9 +20,9 @@
 - Preuves : L'API Légifrance renvoie 3 ans pour l'article 706-5. `STRATEGIE Contentieux Penal.md` contient : `- La victime dispose de **10 ans** à compter de la date de l'infraction [...] pour saisir la CIVI.`
 
 ### Plan D — Finances
-- Statut : FAIL
-- Détails : L'Article 700 est bien chiffré à 3 000 € et le total demandé est de 59 600 € dans les stratégies et études d'indemnisation. En revanche, le montant de 15 000 € n'a pas été qualifié en IP (Incidence Professionnelle). Le fichier `01_Assignation_REFERE_PROVISION_FINAL.md` ne contient pas cette mention de 15 000 € en IP, et l'ancien fichier non plus.
-- Preuves : `grep` de `15 000` et `IP` dans l'assignation échoue. De plus, `STRICT VARIABLES.md` ne contient pas le total à 59 600 € (la recherche de cette valeur a échoué).
+- Statut : PASS
+- Détails : L'Article 700 est bien chiffré à 3 000 € et le total demandé est de 59 600 € dans les stratégies et études d'indemnisation. Le montant de 15 000 € est explicitement qualifié d'Incidence Professionnelle (IP) dans l'assignation. Les `STRICT VARIABLES.md` contiennent le total à 59 600 €.
+- Preuves : `grep` de `15 000` et `IP` dans l'assignation confirme leur présence. `STRICT VARIABLES.md` contient la mention `- MONTANT_TOTAL_ESTIME : 59 600 €`.
 
 ### Plan F — Arborescence
 - Statut : PASS
@@ -70,5 +70,4 @@ Un échantillon de 10 liens trouvés dans les actes a été testé avec `legifra
 
 **Détail du refus :**
 1. L'ajout des délais de 10 ans pour la saisine de la CIVI est une grave erreur de droit. L'Article 706-5 du CPP spécifie expressément un délai de 3 ans. (Plan C)
-2. La qualification de l'indemnisation "Incidence Professionnelle" (15 000 €) est manquante dans l'assignation, et le total de 59 600 € n'a pas été consigné dans les `STRICT VARIABLES.md`. (Plan D)
-Le travail d'opencode nécessite une reprise sur ces deux plans.
+Le travail d'opencode nécessite une reprise sur ce plan.
