@@ -74,7 +74,7 @@ CONTRE :
 PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCIDENT]**
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## I. EXPOSÉ DES FAITS
 
@@ -99,7 +99,7 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du 0
 À ce jour, le cumul des arrêts de travail prescrits s'élève à 56 jours d'ITT continue (du 29/05/2026 au 23/07/2026 inclus).
 
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## II. DISCUSSION JURIDIQUE
 
@@ -131,8 +131,7 @@ L'[article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.go
 
 L'obligation à réparation de **[L'Exploitant du Commerce]** n'étant pas sérieusement contestable au vu du PV de police et des pièces médicales indiscutables, **[La Victime]** est fondé à réclamer le versement d'une provision financière.
 
-
-=== PAGE BREAK ===
+<hr><hr>
 
 ## III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)
 
