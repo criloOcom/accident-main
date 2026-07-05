@@ -144,8 +144,8 @@ Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LE
 - Absence d'assurance confirmée par le défaut de réponse aux relances amiables.
 
 **Délais ([article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)) :**
-- **10 ans** à compter de l'infraction (29 mai 2026 → 29 mai 2036) pour saisir la CIVI.
-- Ou **1 an** après une décision pénale définitive si elle intervient avant l'expiration du délai de 10 ans.
+- **3 ans** à compter de l'infraction (29 mai 2026 → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
+- Ou **1 an** après une décision pénale définitive si elle intervient avant l'expiration du délai de 3 ans.
 
 **Procédure :** Saisine de la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de **[La Ville de l'Accident]**, qui notifie le FGTI et instruit la demande d'indemnisation.
 

@@ -117,7 +117,7 @@ Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels rés
 **Procédure :** La victime saisit la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de **[La Ville de l'Accident]**, qui statue sur le droit à indemnisation et fixe le montant.
 
 **Délais ([article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)) :**
-- La victime dispose de **10 ans** à compter de la date de l'infraction (29 mai 2026 → 29 mai 2036) pour saisir la CIVI.
+- La victime dispose de **3 ans** à compter de la date de l'infraction (29 mai 2026 → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
 - Si une décision pénale définitive intervient, ce délai est ramené à **1 an** à compter de cette décision.
 - En l'état de l'enquête préliminaire en cours, la date de référence est celle de l'infraction (29 mai 2026).
 
@@ -149,7 +149,7 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 | Mise en état | Échanges de conclusions, contradictoire | 3 à 6 mois après expertise |
 | Audience de plaidoirie | Jugement au fond | 6 à 12 mois |
 | Appel éventuel | Si la décision est contestée par une partie | Délai d'appel : 1 mois |
-| Saisine CIVI (subsidiaire) | Demande d'indemnisation FGTI si SAS insolvable | Jusqu'à 10 ans post-infraction |
+| Saisine CIVI (subsidiaire) | Demande d'indemnisation FGTI si SAS insolvable | Jusqu'à 3 ans post-infraction (prorogeable 1 an apres decision penale) |
 
 ## 6. Récapitulatif des pièces
 
