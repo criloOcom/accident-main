@@ -102,25 +102,25 @@ Selon la jurisprudence [Cass. Com., 20 mai 2003 (Arrêt SATI)](https://www.legif
 
 ## III. IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES
 
-Il convient de noter que le préposé bénéficie d'une immunité civile selon [l'[Arrêt Costedoat](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831) (Ass. Plén., 25 fév. 2000)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831), sauf en cas de faute pénale intentionnelle (**[[Arrêt Cousin](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322)]**(https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322)). Les blessures étant involontaires, l'action doit se concentrer sur la SAS et ses dirigeants.
+Il convient de noter que le préposé bénéficie d'une immunité civile selon [l'Arrêt Costedoat (Ass. Plén., 25 fév. 2000)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831), sauf en cas de faute pénale intentionnelle (**[Arrêt Cousin](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322)**). Les blessures étant involontaires, l'action doit se concentrer sur la SAS et ses dirigeants.
 
 ### A. Action directe contre l'assureur
 
-Le levier le plus efficace demeure l'action directe contre l'assureur RC de la SAS, fondée sur [[[[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), garantissant la réparation intégrale des préjudices (pertes de revenus, préjudice corporel et moral) estimés à ce jour à 59 600 € (selon l'étude d'indemnisation détaillée).
+Le levier le plus efficace demeure l'action directe contre l'assureur RC de la SAS, fondée sur [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), garantissant la réparation intégrale des préjudices (pertes de revenus, préjudice corporel et moral) estimés à ce jour à 59 600 € (selon l'étude d'indemnisation détaillée).
 
 #### B. Preuves et Procédures
 
-La consolidation des preuves médicales (comptes rendus du **[Le Chirurgien SOS Main]**) et matérielles est impérative. En cas de rétention d'informations sur l'assureur, [l'[article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) permet de saisir le juge des référés pour obtenir les pièces nécessaires.
+La consolidation des preuves médicales (comptes rendus du **[Le Chirurgien SOS Main]**) et matérielles est impérative. En cas de rétention d'informations sur l'assureur, [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) permet de saisir le juge des référés pour obtenir les pièces nécessaires.
 
 ### C. Obligation d'information de l'assurance et référé-communication
 
-En vertu de [[l'article L. 113-2, 4° du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302), l'assuré (la SAS) a l'obligation légale de déclarer tout sinistre à son assureur dans un délai de 5 jours ouvrés.
+En vertu de [l'article L. 113-2, 4° du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302), l'assuré (la SAS) a l'obligation légale de déclarer tout sinistre à son assureur dans un délai de 5 jours ouvrés.
 
-De plus, bien que le gérant tente de dissimuler l'identité de son assurance pour faire obstruction, [[[[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) consacre le droit d'action directe autonome de la victime.
+De plus, bien que le gérant tente de dissimuler l'identité de son assurance pour faire obstruction, [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) consacre le droit d'action directe autonome de la victime.
 
 Pour rendre ce droit effectif, le gérant a un devoir de bonne foi de communiquer ses coordonnées d'assurance.
 
-En cas de refus persistant de transmettre les coordonnées de l'assureur RC, la victime peut saisir en urgence le Président du Tribunal judiciaire en référé sur le fondement de [[l'[article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) (CPC)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339).
+En cas de refus persistant de transmettre les coordonnées de l'assureur RC, la victime peut saisir en urgence le Président du Tribunal judiciaire en référé sur le fondement de [l'article 145 du Code de procédure civile (CPC)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339).
 
 Le juge ordonnera alors la communication forcée de l'attestation d'assurance de responsabilité civile sous astreinte financière par jour de retard, à la charge exclusive de l'exploitant récalcitrant.
 

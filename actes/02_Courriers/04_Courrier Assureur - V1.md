@@ -44,7 +44,7 @@ Madame, Monsieur,
 
 ## INTRODUCTION
 
-La présente lettre de mise en demeure est adressée par **[La Victime]** à la compagnie d'assurance de **[L'Exploitant du Commerce]** sur le fondement de [[[[[[[[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), lequel institue une action directe de la victime contre l'assureur du responsable.
+La présente lettre de mise en demeure est adressée par **[La Victime]** à la compagnie d'assurance de **[L'Exploitant du Commerce]** sur le fondement de [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), lequel institue une action directe de la victime contre l'assureur du responsable.
 
 Par ce courrier, **[La Victime]** met en demeure l'assureur de prendre en charge le sinistre corporel survenu le 29 mai 2026 dans les locaux de **[L'Exploitant du Commerce]** et de procéder au règlement des préjudices subis, dont le montant total estimé s'élève à **59 600 €** selon l'étude d'indemnisation établie conformément à la Nomenclature Dintilhac.
 
@@ -52,21 +52,21 @@ Cette action directe permet à la victime de saisir directement l'assureur sans 
 
 Rappel des obligations légales
 
-[[[[[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) institue une action directe de la victime contre l'assureur du responsable, ce qui me permet de vous saisir directement sans passer par l'intermédiaire de la société.
+[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) institue une action directe de la victime contre l'assureur du responsable, ce qui me permet de vous saisir directement sans passer par l'intermédiaire de la société.
 
-Conformément à [l'[[article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339), le juge des référés peut ordonner toute mesure d'instruction légalement admissible s'il existe un motif légitime de conserver ou d'établir la preuve de faits dont pourrait dépendre la solution d'un litige.
+Conformément à [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339), le juge des référés peut ordonner toute mesure d'instruction légalement admissible s'il existe un motif légitime de conserver ou d'établir la preuve de faits dont pourrait dépendre la solution d'un litige.
 
 Ces dispositions sont d'ordre public et s'imposent à toute compagnie d'assurance opérant sur le territoire français.
 
 Je soussigné, **[La Victime]**, victime d'un grave accident corporel survenu le vendredi 29 mai 2026 au sein de l'établissement exploité par votre assuré, **[L'Exploitant du Commerce]** (sise au **[L'Adresse de l'Exploitation]**).
 
-J'ai subi une plaie palmaire de 8,5 cm de l'index droit (main dominante) ayant sectionné le tendon fléchisseur superficiel et le paquet vasculo-nerveux collatéral ulnaire et radial, après être entré en contact avec la vasque en céramique d'un bac à shampoing brisée aux arêtes coupantes, lors d'un basculement provoqué par la montée de l'employé coiffeur sur le meuble.
+J'ai subi une plaie palmaire de 8,5 cm de l'index droit (main dominante) ayant sectionné le tendon fléchisseur superficiel et le paquet vasculo-nerveux collatéral ulnaire et radial, après être entré en contact avec la vasque en céramique d'un bac à shampoing brisée aux arêtes coupantes, lors d'un basculement provoqué par la montée de l'employé **[Le Préposé de l'Exploitation]** sur le meuble.
 
 Il s'en est suivi une intervention de microchirurgie d'urgence le 30 mai 2026 au service SOS Main de **[L'Établissement SOS Main]** (**[Le Chirurgien SOS Main]**) ayant nécessité une suture tendineuse 6 brins, une suture microchirurgicale des nerfs et vaisseaux à l'éthilon 9-0, et une neurolyse d'urgence.
 
 Le pronostic de récupération neurologique a été évalué à un an minimum par le chirurgien, avec un résultat souvent partiel s'agissant d'une suture nerveuse.
 
-En application de [[[[[[[[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), je dispose d'un droit propre et d'une action directe à l'encontre de votre compagnie en tant qu'assureur de responsabilité civile de l'auteur du dommage.
+En application de [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), je dispose d'un droit propre et d'une action directe à l'encontre de votre compagnie en tant qu'assureur de responsabilité civile de l'auteur du dommage.
 
 En vertu d'une jurisprudence constante (Cass. Civ. 1ère, 8 décembre 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) et Cass. Civ. 2e, 14 mai 2020, n° 19-15.659), cette action directe est autonome et n'est pas subordonnée à la survie de la personne morale ni à la déclaration préalable de créance en cas de procédure collective ou de radiation de la société assurée.
 
@@ -101,7 +101,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
-À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de **[La Ville de l'Accident]** — d'abord en référé sur le fondement de [l'[[article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de **[La Ville de l'Accident]** — d'abord en référé sur le fondement de [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 

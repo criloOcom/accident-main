@@ -45,9 +45,9 @@ Rédigé le 4 juillet 2026
 
 Le 29 mai 2026, **[La Victime]**, informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** (SAS LES MAUVAIS GARÇONS, SIRET 938 033 222 00010), situé **[L'Adresse de l'Exploitation]**.
 
-Alors que l'employé coiffeur était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé.
+Alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé.
 
-Par réflexe, **[La Victime]** a tendu la main droite — sa main dominante indispensable à son activité professionnelle — pour protéger le coiffeur ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une prise en charge chirurgicale en urgence par le service SOS Main.
+Par réflexe, **[La Victime]** a tendu la main droite — sa main dominante indispensable à son activité professionnelle — pour protéger **[Le Préposé de l'Exploitation]** ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une prise en charge chirurgicale en urgence par le service SOS Main.
 
 Le contentieux pénal a pour objet de faire reconnaître la culpabilité de **[L'Exploitant du Commerce]** et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive, y compris par la saisine du Fonds de Garantie (FGTI) via la CIVI en cas d'insolvabilité de l'auteur.
 
@@ -65,7 +65,7 @@ L'infraction est prévue et réprimée par [l'article 222-20 du Code pénal](htt
 
 **[L'Exploitant du Commerce]** n'a pas communiqué d'attestation d'assurance de responsabilité civile professionnelle malgré les relances amiables de **[La Victime]**.
 
-Cette absence d'assurance, si elle est confirmée, prive la victime de l'exercice de l'action directe contre l'assureur prévue à [[[[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), et justifie une saisine du [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de [[l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625), qui prévoit l'indemnisation des victimes d'infractions lorsque l'auteur n'est pas assuré.
+Cette absence d'assurance, si elle est confirmée, prive la victime de l'exercice de l'action directe contre l'assureur prévue à [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), et justifie une saisine du [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de [l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625), qui prévoit l'indemnisation des victimes d'infractions lorsque l'auteur n'est pas assuré.
 
 **Note :** Il n'existe pas, en droit français, d'infraction pénale spécifique sanctionnant l'absence d'assurance RC Pro pour un salon de coiffure, contrairement à l'obligation d'assurance des véhicules terrestres à moteur prévue à [l'article L. 211-26 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795644) qui ne concerne que les véhicules.
 
@@ -105,7 +105,7 @@ La constitution de partie civile peut être réalisée par déclaration au greff
 
 Un complément de plainte a été déposé le 30 juin 2026 auprès du Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par **[L'Exploitant du Commerce]**.
 
-Ce complément vise à porter à la connaissance de l'autorité judiciaire cette carence, qui constitue un obstacle à l'indemnisation de la victime et justifie, le cas échéant, la saisine du Fonds de Garantie (FGTI) sur le fondement de [[l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
+Ce complément vise à porter à la connaissance de l'autorité judiciaire cette carence, qui constitue un obstacle à l'indemnisation de la victime et justifie, le cas échéant, la saisine du Fonds de Garantie (FGTI) sur le fondement de [l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
 ### 3.4 Responsabilité personnelle des dirigeants
 

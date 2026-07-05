@@ -43,7 +43,7 @@ Rédigé le 4 juillet 2026
 
 ## 1. Présentation
 
-Le 29 mai 2026, **[La Victime]** a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** (SAS LES MAUVAIS GARÇONS, SIRET 938 033 222 00010), situé **[L'Adresse de l'Exploitation]**. Alors que l'employé coiffeur était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger le coiffeur ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une microchirurgie SOS Main en urgence.
+Le 29 mai 2026, **[La Victime]** a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** (SAS LES MAUVAIS GARÇONS, SIRET 938 033 222 00010), situé **[L'Adresse de l'Exploitation]**. Alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger **[Le Préposé de l'Exploitation]** ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une microchirurgie SOS Main en urgence.
 
 Le contentieux civil a pour objet d'obtenir la réparation intégrale des préjudices subis, estimés à 59 600 € selon la nomenclature Dintilhac. Il se déploie sur plusieurs fondements juridiques complémentaires incluant, en cas de défaillance de l'auteur, la voie indemnitaire du Fonds de Garantie des Victimes d'Infractions (FGTI).
 
@@ -58,7 +58,7 @@ La responsabilité de la SAS est engagée de plein droit en application de [l'ar
 
 ### 2.2 Action directe contre l'assureur
 
-[[[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable ([Cass. 1ère civ., 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
+[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable ([Cass. 1ère civ., 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
 
 La mise en demeure de l'assureur a été adressée le 29 juin 2026, enjoignant à la compagnie de prendre en charge le sinistre et de procéder au règlement des préjudices sous 15 jours.
 
@@ -86,7 +86,7 @@ En parallèle, une procédure de référé-communication peut être engagée pou
 
 ### 3.3 Voie CIVI / FGTI (subsidiaire)
 
-Si l'absence d'assurance de **[L'Exploitant du Commerce]** est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à [[[[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de [[l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
+Si l'absence d'assurance de **[L'Exploitant du Commerce]** est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de [l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
 Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels résultant d'une infraction pénale, lorsque l'auteur n'est pas assuré et que la réparation ne peut être obtenue à un autre titre.
 
