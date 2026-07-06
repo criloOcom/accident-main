@@ -6,19 +6,22 @@ categorie: procedure
 auteur: La Victime
 destinataire: Dirigeants de l'Exploitant du Commerce
 personnes:
-  - La Victime
-  - Le Président de l'Exploitation
-  - La Directrice Générale de l'Exploitation
-  - L'Exploitant du Commerce
+- L'Exploitant du Commerce
+- L'Établissement SOS Main
+- La Directrice Générale de l'Exploitation
+- La Victime
+- Le Chirurgien SOS Main
+- Le Président de l'Exploitation
 tags:
-  - mise en demeure
-  - dirigeants
-  - assurance
-  - faute détachable
-  - LRAR
+- mise en demeure
+- dirigeants
+- assurance
+- faute détachable
+- LRAR
 statut: final
 source: drive
 drive_id: 1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I
+format: Arial JUSTIFIED
 ---
 
 # MISE EN DEMEURE AUX DIRIGEANTS — Demande d'Information Assurance RC

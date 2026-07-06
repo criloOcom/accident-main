@@ -6,16 +6,16 @@ categorie: procedure
 auteur: La Victime
 destinataire: Conseil Departemental de l'Ariege
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
+- La Victime
+- L'Exploitant du Commerce
 tags:
-  - conseil departemental
-  - ERP
-  - securite
-  - signalement
-  - LRAR
+- conseil departemental
+- ERP
+- securite
+- signalement
+- LRAR
 statut: final
-source: local
+source: drive
 drive_id: 1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ
 format: Arial JUSTIFIED
 ---

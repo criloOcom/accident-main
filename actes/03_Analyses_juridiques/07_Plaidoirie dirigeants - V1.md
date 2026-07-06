@@ -6,14 +6,15 @@ categorie: analyse
 auteur: La Victime
 destinataire: null
 personnes:
-  - La Victime
-  - Le Président de l'Exploitation
-  - La Directrice Générale de l'Exploitation
+- L'Exploitant du Commerce
+- La Directrice Générale de l'Exploitation
+- La Victime
+- Le Président de l'Exploitation
 tags:
-  - dirigeants
-  - responsabilité
-  - plaidoirie
-  - sociétés
+- dirigeants
+- responsabilité
+- plaidoirie
+- sociétés
 statut: final
 source: drive
 drive_id: 1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90

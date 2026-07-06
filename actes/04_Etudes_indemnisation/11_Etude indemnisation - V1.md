@@ -6,12 +6,13 @@ categorie: evaluation
 auteur: La Victime
 destinataire: null
 personnes:
-  - La Victime
+- La Victime
+- Le Préposé de l'Exploitation
 tags:
-  - indemnisation
-  - dintilhac
-  - préjudice
-  - évaluation
+- indemnisation
+- dintilhac
+- préjudice
+- évaluation
 statut: final
 source: drive
 drive_id: 1PiBFn1oA1DtkT61N-zvdPmsCYsmR0au9V4BA9IZzrH4

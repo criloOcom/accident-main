@@ -6,16 +6,16 @@ categorie: procedure
 auteur: La Victime
 destinataire: SDIS de l'Ariege
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
+- La Victime
+- L'Exploitant du Commerce
 tags:
-  - SDIS
-  - ERP
-  - securite incendie
-  - signalement
-  - email
+- SDIS
+- ERP
+- securite incendie
+- signalement
+- email
 statut: final
-source: local
+source: drive
 drive_id: 1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE
 format: Arial JUSTIFIED
 ---

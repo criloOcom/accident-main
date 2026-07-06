@@ -6,18 +6,20 @@ categorie: procedure
 auteur: La Victime
 destinataire: INPI
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
-  - Le President de l'Exploitation
-  - La Directrice Generale de l'Exploitation
+- L'Exploitant du Commerce
+- La Directrice Generale de l'Exploitation
+- La Directrice Générale de l'Exploitation
+- La Victime
+- Le President de l'Exploitation
+- Le Président de l'Exploitation
 tags:
-  - INPI
-  - RNE
-  - signalement
-  - litige
-  - LRAR
+- INPI
+- RNE
+- signalement
+- litige
+- LRAR
 statut: final
-source: local
+source: drive
 drive_id: 1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E
 format: Arial JUSTIFIED
 ---

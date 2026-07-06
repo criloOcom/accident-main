@@ -6,16 +6,21 @@ categorie: analyse
 auteur: La Victime
 destinataire: null
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
+- L'Exploitant du Commerce
+- La Directrice Générale de l'Exploitation
+- La Victime
+- Le Chirurgien SOS Main
+- Le Préposé de l'Exploitation
+- Le Président de l'Exploitation
 tags:
-  - responsabilité
-  - fondements
-  - analyse
-  - juridique
+- responsabilité
+- fondements
+- analyse
+- juridique
 statut: final
 source: drive
 drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
+format: Arial JUSTIFIED
 ---
 
 # Analyse des Fondements de la Responsabilité Juridique **[L'Exploitant du Commerce]**

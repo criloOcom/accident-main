@@ -6,16 +6,16 @@ categorie: procedure
 auteur: La Victime
 destinataire: URSSAF Midi-Pyrenees
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
-  - Le Prepose de l'Exploitation
+- L'Exploitant du Commerce
+- La Victime
+- Le Préposé de l'Exploitation
 tags:
-  - URSSAF
-  - travail dissimule
-  - signalement
-  - LRAR
+- URSSAF
+- travail dissimule
+- signalement
+- LRAR
 statut: final
-source: local
+source: drive
 drive_id: 1LdLfCnWLiD2v1N1SMF3FAeh681znM0kXOrAlBXeOe8w
 format: Arial JUSTIFIED
 ---

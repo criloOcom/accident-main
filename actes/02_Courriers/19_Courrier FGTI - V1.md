@@ -6,17 +6,17 @@ categorie: procedure
 auteur: La Victime
 destinataire: FGTI
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
+- La Victime
+- L'Exploitant du Commerce
 tags:
-  - FGTI
-  - garantie
-  - information
-  - conservatoire
-  - LRAR
-  - email
+- FGTI
+- garantie
+- information
+- conservatoire
+- LRAR
+- email
 statut: final
-source: local
+source: drive
 drive_id: 1rtaTa6scRGc0TmelWNMrX6bN-kqe98b1dhT5OT-qsXc
 format: Arial JUSTIFIED
 ---

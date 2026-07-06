@@ -6,14 +6,14 @@ categorie: procedure
 auteur: La Victime
 destinataire: DDETS de la Region
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
-  - Le Prepose de l'Exploitation
+- L'Exploitant du Commerce
+- La Victime
+- Le Préposé de l'Exploitation
 tags:
-  - inspection du travail
-  - enquete
-  - securite
-  - DUERP
+- inspection du travail
+- enquete
+- securite
+- DUERP
 statut: final
 source: drive
 drive_id: 1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM

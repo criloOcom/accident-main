@@ -6,12 +6,17 @@ categorie: penale
 auteur: La Victime
 destinataire: Procureur de la République
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
+- L'Exploitant du Commerce
+- La Directrice Générale de l'Exploitation
+- La Victime
+- Le Chirurgien SOS Main
+- Le Propriétaire des Murs
+- Le Préposé de l'Exploitation
+- Le Président de l'Exploitation
 tags:
-  - plainte
-  - défaut d'assurance
-  - pénal
+- plainte
+- défaut d'assurance
+- pénal
 statut: final
 source: drive
 drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc

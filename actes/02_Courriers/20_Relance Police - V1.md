@@ -6,17 +6,17 @@ categorie: procedure
 auteur: La Victime
 destinataire: Police Nationale de Foix
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
-  - Le Prepose de l'Exploitation
+- L'Exploitant du Commerce
+- La Victime
+- Le Préposé de l'Exploitation
 tags:
-  - police
-  - relance
-  - plainte
-  - videosurveillance
-  - email
+- police
+- relance
+- plainte
+- videosurveillance
+- email
 statut: final
-source: local
+source: drive
 drive_id: 171CF_LzNopYxIS6Tn4i3t3Ghx3ut14F1gh6-KjHevCA
 format: Arial JUSTIFIED
 ---

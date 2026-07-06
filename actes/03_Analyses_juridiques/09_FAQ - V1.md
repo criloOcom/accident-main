@@ -2,17 +2,23 @@
 titre: Synthèse Juridique et FAQ
 date: 2026-06-30
 type: acte
-categorie: synthese
+categorie: analyse
 auteur: La Victime
 destinataire: null
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
+- L'Exploitant du Commerce
+- L'Établissement SOS Main
+- La Directrice Générale de l'Exploitation
+- La Victime
+- Le Chirurgien SOS Main
+- Le Propriétaire des Murs
+- Le Préposé de l'Exploitation
+- Le Président de l'Exploitation
 tags:
-  - faq
-  - synthèse
-  - juridique
-  - questions
+- faq
+- synthèse
+- juridique
+- questions
 statut: final
 source: drive
 drive_id: 1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM
