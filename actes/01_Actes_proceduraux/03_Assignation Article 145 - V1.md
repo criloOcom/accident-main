@@ -117,8 +117,16 @@ L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu
 
 3. **SE RESERVER** la liquidation de l'astreinte ;
 
-4. **CONDAMNER** la SAS **[L'Exploitant du Commerce]** a payer a **[La Victime]** la somme de 1 500 € sur le fondement de l'article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
+4. **CONDAMNER** la SAS **[L'Exploitant du Commerce]** a payer a **[La Victime]** la somme de 3 000 € sur le fondement de l'article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
 
 Fait a **[La Ville de l'Accident]**, le 5 juillet 2026.
 
 **[La Victime]**
+
+## BORDEREAU DE PIÈCES ANNEXÉES
+
+1. Pièce n°1 : Copie du procès-verbal de police n°2026/015967 établi par le Commissariat de [La Ville de l'Accident]
+2. Pièce n°2 : Certificat médical initial du **[Le Médecin en Urgence]** (SMUR 09) en date du 29 mai 2026
+3. Pièce n°3 : Compte-rendu opératoire du **[Le Chirurgien SOS Main]** (SOS Main) en date du 30 mai 2026
+4. Pièce n°4 : Mises en demeure par Lettre Recommandée avec Accusé de Réception (LRAR) du 29 juin 2026 adressées à la société et à ses dirigeants (sans AR retournés ou sans réponse)
+5. Pièce n°5 : Preuve de paiement par virement instantané de 15,00 € (et remboursement ultérieur) témoignant de la présence de la victime sur les lieux

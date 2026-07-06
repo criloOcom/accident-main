@@ -64,7 +64,7 @@ La responsabilité personnelle des dirigeants peut être engagée pour faute dé
 
 <hr>
 
-Je me permets de vous adresser la présente lettre dans une démarche constructive et explicative concernant l'accident corporel dont j'ai été la victime au sein de votre salon de coiffure le vendredi 29 mai 2026 à 15h20.
+Je me permets de vous adresser la présente lettre dans une démarche constructive et explicative concernant l'accident corporel dont j'ai été la victime au sein de votre salon de coiffure le vendredi 29 mai 2026 à 15h00.
 
 Je tiens tout d'abord à vous remercier pour votre réactivité le jour même de l'accident, notamment pour l'annulation de la transaction de 15 € effectuée par virement Wero. Cette attention a été particulièrement appréciée dans ces circonstances difficiles.
 

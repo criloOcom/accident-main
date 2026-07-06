@@ -27,7 +27,7 @@ Rédigé le 30 juin 2026 — Mis à jour le 5 juillet 2026 (restructuration)
 
 *Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire **[La Victime]** c/ **[L'Exploitant du Commerce]**, à la suite de l'accident corporel grave survenu le 29 mai 2026. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du 30 juin 2026 et reflète l'état final de la composition du dossier.*
 
-*Structure finale au 29 juin 2026*
+*Structure finale au 29 mai 2026*
 
 Destinataire : Analyse tierce
 

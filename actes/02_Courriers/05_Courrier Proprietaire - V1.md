@@ -60,7 +60,7 @@ Rappel des obligations légales
 
 Je me permets de prendre contact avec vous en votre qualité de propriétaire bailleur des locaux commerciaux situés au **[L'Adresse de l'Exploitation]**, actuellement loués et exploités sous l'enseigne de coiffure **[L'Exploitant du Commerce]**.
 
-Le vendredi 29 mai 2026 à 15h20, j'ai été victime d'un accident corporel grave au sein de cet établissement, causé par le basculement d'un équipement lourd (bac à shampoing) défectueux et brisé, entraînant une section profonde de 8,5 cm au niveau de ma main droite dominante (section tendineuse et nerveuse de l'index droit opérée en urgence sous anesthésie le 30 mai 2026) avec un pronostic de récupération neurologique évalué à un an minimum par le chirurgien (récupération souvent partielle s'agissant d'une suture nerveuse).
+Le vendredi 29 mai 2026 à 15h00, j'ai été victime d'un accident corporel grave au sein de cet établissement, causé par le basculement d'un équipement lourd (bac à shampoing) défectueux et avec cassure préexistante, entraînant une section profonde de 8,5 cm au niveau de ma main droite dominante (section tendineuse et nerveuse de l'index droit opérée en urgence sous anesthésie le 30 mai 2026) avec un pronostic de récupération neurologique évalué à un an minimum par le chirurgien (récupération souvent partielle s'agissant d'une suture nerveuse).
 
 Dans le cadre de la procédure d'indemnisation de ce préjudice corporel et conformément aux dispositions de [l'Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), je mets en œuvre l'action directe contre l'assureur de responsabilité civile de l'exploitant commercial.
 

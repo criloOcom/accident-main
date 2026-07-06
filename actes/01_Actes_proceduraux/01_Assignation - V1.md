@@ -63,7 +63,7 @@ Le 29 mai 2026, **[La Victime]** s'est rendu au salon de coiffure exploité par 
 
 Alors qu'il se trouvait au bac à shampoing, **[Le Préposé de l'Exploitation]**, qui était monté sur la vasque en céramique, a provoqué le basculement brutal de l'équipement en tentant d'en descendre. Par un réflexe d'assistance pour retenir la chute, **[La Victime]** a tendu sa main droite, qui a heurté une cassure majeure préexistante non signalée sur le flanc de la vasque.
 
-**[La Victime]** a immédiatement été pris en charge aux urgences du Centre Ariégeois de Soins Immédiats par **[Le Médecin en Urgence]**, qui a procédé à une suture initiale d'une plaie palmaire de 8,5 cm et diagnostiqué une suspicion d'atteinte tendineuse et nerveuse majeure.
+**[La Victime]** a immédiatement été pris en charge aux urgences du SMUR 09 par **[Le Médecin en Urgence]**, qui a procédé à une suture initiale d'une plaie palmaire de 8,5 cm et diagnostiqué une suspicion d'atteinte tendineuse et nerveuse majeure.
 
 Le lendemain, 30 mai 2026, **[La Victime]** a été hospitalisé et opéré en urgence par **[Le Chirurgien SOS Main]** au service SOS Main de **[L'Établissement SOS Main]**.
 

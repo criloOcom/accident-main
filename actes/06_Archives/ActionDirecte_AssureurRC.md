@@ -45,7 +45,7 @@ drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
 
 # ACTION DIRECTE — MISE EN DEMEURE ASSUREUR RC
 
-Rédigé le 30 juin 2026
+Rédigé le 29 juin 2026
 
 **[La Victime]**
 
@@ -89,7 +89,7 @@ Ces dispositions sont d'ordre public et s'imposent à toute compagnie d'assuranc
 
 Je soussigné, **[La Victime]**, victime d'un grave accident corporel survenu le vendredi 29 mai 2026 au sein de l'établissement exploité par votre assuré, **[L'Exploitant du Commerce]** (sise au **[L'Adresse de l'Exploitation]**).
 
-J'ai subi une plaie palmaire de 8,5 cm de l'index droit (main dominante) ayant sectionné le tendon fléchisseur superficiel et le paquet vasculo-nerveux collatéral ulnaire et radial, après être entré en contact avec la vasque en céramique d'un bac à shampoing brisée aux arêtes coupantes, lors d'un basculement provoqué par la montée de l'employé **[Le Préposé de l'Exploitation]** sur le meuble.
+J'ai subi une plaie palmaire de 8,5 cm de l'index droit (main dominante) ayant sectionné le tendon fléchisseur superficiel et le paquet vasculo-nerveux collatéral ulnaire et radial, après être entré en contact avec la vasque en céramique d'un bac à shampoing avec cassure préexistante aux arêtes coupantes, lors d'un basculement provoqué par la montée de l'employé **[Le Préposé de l'Exploitation]** sur le meuble.
 
 Il s'en est suivi une intervention de microchirurgie d'urgence le 30 mai 2026 au service SOS Main de **[L'Établissement SOS Main]** (**[Le Chirurgien SOS Main]**) ayant nécessité une suture tendineuse 6 brins, une suture microchirurgicale des nerfs et vaisseaux à l'éthilon 9-0, et une neurolyse d'urgence.
 
