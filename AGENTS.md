@@ -56,6 +56,7 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
 7. **Double strate token/reel** : les fichiers dans `actes/token/` (dossiers 00-06) DOIVENT toujours rester tokenisés (identités anonymisées). Les versions réelles (noms, adresses, email réels) sont générées dans `actes/reel/` via `app/generate_real_versions.py` — ne JAMAIS écrire de version réelle dans `actes/token/`.
 8. **GitHub Token** : stocké dans Google Secret Manager (`projects/crilo-prod-automation/secrets/GITHUB_TOKEN`). En local, il est aussi dans `~/.git-credentials` (solution de repli). Tout agent DOIT lire depuis Secret Manager, pas depuis une variable d'environnement ou un fichier `.env`.
 9. **README.md** : doit être maintenu à jour après chaque modification de la structure du projet. C'est une consigne absolue — toute création/déplacement/suppression de dossier ou fichier notable doit être répercuté dans README.md.
+10. **RÉPERTOIRE SOUVERAIN ABSOLU** : `/home/crilocom/accident-main/` est le SEUL et UNIQUE répertoire de travail local. Aucun agent ne doit créer, cloner, ou travailler dans un autre répertoire (notamment `/tmp/opencode/`, `/tmp/`, ou tout autre chemin). Toute action locale (lecture, écriture, git, scripts) se fait DEPUIS CE DOSSIER. Aucune exception.
 
 ## Workflow création d'un document
 

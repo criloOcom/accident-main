@@ -1,5 +1,11 @@
 # RÈGLES PERMANENTES — Dossier Accident de la Main
 
+## #0 — RÉPERTOIRE SOUVERAIN LOCAL
+- Le répertoire de travail local est et restera toujours **`/home/crilocom/accident-main/`**.
+- Aucun agent, quel qu'il soit, ne peut travailler ailleurs. Aucune exception.
+- La création de clones parallèles (tmp, backup, clonage dans `/tmp/opencode/`) est **interdite**.
+- Toute opération git (pull, add, commit, push) se fait exclusivement depuis ce dossier.
+
 ## PRIORITÉ MCP — Toujours utiliser les outils MCP en premier
 - Tout appel à Légifrance, Judilibre ou Google Docs DOIT passer par les outils MCP dédiés
 - Ne JAMAIS utiliser webfetch, curl, HTTP requests ou scraping direct sur ces services (bloqués 403/anti-bot)

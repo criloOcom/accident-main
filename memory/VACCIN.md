@@ -12,6 +12,7 @@
 
 ### 1. LIS les fichiers de mémoire
 
+- [ ] `/home/crilocom/accident-main/` est le SEUL répertoire — vérifie que tu y es
 - [ ] `memory/VACCIN.md` ← ce fichier
 - [ ] `AGENTS.md` — règles du projet, structure, workflow
 - [ ] `memory/STATUS.md` — état d'avancement global
