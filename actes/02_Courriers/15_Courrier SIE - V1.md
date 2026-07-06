@@ -28,7 +28,7 @@ Courriel : **[L'Email de la Victime]**
 
 **Service des Impots des Entreprises de Foix**
 
-**[Adresse a completer]**
+**[Adresse à compléter]**
 
 **[La Ville de l'Accident]**, le 5 juillet 2026
 

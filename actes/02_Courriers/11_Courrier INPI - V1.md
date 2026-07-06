@@ -30,7 +30,7 @@ Courriel : **[L'Email de la Victime]**
 
 **INPI — Registre National des Entreprises**
 
-**[Adresse a completer]**
+**[Adresse à compléter]**
 
 **[La Ville de l'Accident]**, le 5 juillet 2026
 

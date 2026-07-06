@@ -29,7 +29,7 @@ Courriel : **[L'Email de la Victime]**
 
 **Police Nationale — Commissariat de Foix**
 
-**[Adresse a completer]**
+**[Adresse à compléter]**
 
 **[La Ville de l'Accident]**, le 5 juillet 2026
 
