@@ -97,7 +97,7 @@
 
 ---
 
-## NOUVEAU — RESTRUCTURATION TOKEN/REEL + README.md
+## ~~RESTRUCTURATION TOKEN/REEL + README.md~~ ✅ TERMINÉ
 
 ### Actions
 1. ✅ `actes/token/{00-06}` créé (documents anonymisés)
@@ -106,6 +106,37 @@
 4. ✅ INDEX.md → README.md (7 fichiers)
 5. ✅ `check_consistency.py` : 0 erreur, patch URL decode + path ANNEXES
 6. ✅ Règle #1 ajoutée à RULES.md
+
+---
+
+## PHASE 7B — BORDEREAU + JUSTIFICATION PROVISION + EMAILS TÉMOINS ✅ TERMINÉ
+
+### Actions (6 juillet 2026)
+1. ✅ `04_Bordereau_Audience - V1.md` créé — 25 pièces séquentielles (6 groupes)
+2. ✅ Assignation 01 enrichie — §D Justification du montant de la provision
+3. ✅ `25_Email Relance Dr DJERBI - V1.md` créé
+4. ✅ `26/27/28_Email Attestation` créés (client/pompier/employé)
+5. ✅ Versions réelles générées (46 fichiers)
+6. ✅ 0 erreur check_consistency, 2 commits + push
+
+---
+
+## À FAIRE ENCORE
+
+### Court terme
+1. **Envoyer les emails aux témoins** — besoin des adresses email des clients, SAMU, employé
+2. **Envoyer relance Dr DJERBI** — besoin email du chirurgien
+3. **Générer les PDF des Cerfa n° 11527\*03** à joindre aux emails
+4. **Planifier constat d'huissier** (recommandation critique EVALUATION_CRITIQUE.md)
+
+### Préparation 12 novembre 2026
+5. **Rassembler tous les documents médicaux** pour l'UMJ (CR opératoire, arrêts de travail, ordonnances, comptes rendus kiné)
+6. **Préparer un dossier médical complet** à remettre au médecin légiste
+
+### Preuves matérielles (Plan B)
+7. **Vérifier si les vidéos de vidéosurveillance existent encore** (délai 30 jours → échu)
+8. **Relancer inspection du Travail / CODAF** si pas de réponse sous 15 jours
+9. **Vérifier l'AR de la SAS** (retour ? signé ?)
 
 ---
 

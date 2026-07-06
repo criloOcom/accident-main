@@ -399,3 +399,16 @@ La version initiale du **09 Courrier Inspection Travail** contenait une erreur f
 - `check_consistency.py` : 0 erreur ✅
 - Plan H : assignation 01 (visas 145+835 CPC / 1240+1242 CC, pièces 1-6, bordereau ✅), assignation 03 (visas 145 CPC / L.124-3 C. Assur, pièces 7-10, bordereau ✅)
 - 14 PRs mergées (#28–#41), 0 PR ouverte
+
+## Phase 7b — Bordereau séquentiel + Justification provision + Emails témoins (6 juillet 2026) ✅
+
+### Ce qui a été fait
+- **Nouveau bordereau séquentiel** : `04_Bordereau_Audience - V1.md` créé — 25 pièces en 6 groupes thématiques (A-F), numérotation propre, dédoublonnée
+- **Assignation 01 enrichie** : nouveau §D *Justification du montant de la provision* (5 arguments : fourchette référentiel, proportionnalité, provision *ad litem*, silence de l'exploitant, jurisprudence Cass.)
+- **Email relance Dr DJERBI** : `25_Email Relance Dr DJERBI - V1.md` — relance certificat consolidation
+- **3 emails transmission attestations** : `26/27/28_Email Attestation` pour client/pompier/employé
+- **Génération versions réelles** : 46 fichiers regénérés dans `actes/reel/` (incl. 5 nouveaux)
+- **Document clé identifié** : Réquisition Police UMJ 02/06/2026 (PDF) + retranscription téléphonique — confirme le rendez-vous réel du **12 novembre 2026** à Purpan
+- **Compréhension corrigée** : plus de dates fabriquées (31 juillet, expertise médicale civile) — seules dates réelles : 14 juillet (fin amiable), 12 novembre (UMJ ITT)
+- **Check consistency** : 0 erreur, 65 avertissements bénins (inchangé)
+- **2 commits + push** : phase 7b complète (modifs + generate_real_versions)
