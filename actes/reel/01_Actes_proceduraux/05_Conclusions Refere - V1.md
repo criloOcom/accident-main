@@ -35,7 +35,7 @@ SAS LES MAUVAIS GARCONS (SAS LES MAUVAIS GARÇONS), Société par Actions Simpli
 
 *Défendeur*
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## I. EXPOSÉ DU LITIGE
 
@@ -49,7 +49,7 @@ Il a immédiatement été pris en charge aux urgences, avec une suture initiale 
 
 Ces blessures, affectant la main dominante d'un informaticien indépendant, ont entraîné une incapacité temporaire totale (ITT) de 56 jours (du 29 mai au 23 juillet 2026 inclus), occasionnant une perte de revenus et une incidence professionnelle majeures.
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## II. DISCUSSION JURIDIQUE
 
@@ -77,7 +77,7 @@ La jurisprudence de la Cour de cassation ([Cass. Com., 20 mai 2003, n° 99-17.09
 
 Cependant, les diligences amiables (mises en demeure) sont restées vaines, laissant présumer un défaut d'assurance RC Pro de l'exploitant. Une telle carence constituerait non seulement une entrave à l'action directe, mais également une faute pénale de mise en danger.
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## III. DISPOSITIF
 
@@ -95,11 +95,11 @@ Par ces motifs, et ceux qui pourront être suppléés, il est demandé au Prési
 
 - **ORDONNER** l'exécution provisoire de l'ordonnance à intervenir.
 
-Fait à Foix, le 31 juillet 2026.
+Fait à Foix, le Date non fixée (à planifier).
 
 Sébastien GRAZIDE
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## BORDEREAU DE PIÈCES COMMUNIQUÉES
 

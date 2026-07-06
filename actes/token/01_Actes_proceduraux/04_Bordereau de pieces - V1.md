@@ -27,7 +27,7 @@ format: Arial JUSTIFIED
 | Procédure : Référé Article 145 CPC | Demandeur : **[La Victime]** | Défendeur : **[L'Exploitant du Commerce]** |
 |:---|:---|:---|
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## Pièce n° 1
 

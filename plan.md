@@ -6,7 +6,7 @@
    - Lister les preuves acquises (CR opératoire, plainte, preuves Wero) et manquantes (vidéo, huissier, RC Pro) d'après `EVIDENCE_MATRIX.md` et `PLAN_ACTION_B.md`.
    - Élaborer une analyse juridique détaillée (Art. 1242 C. civ., Art. L.124-3 C. assur. pour l'action directe, faute détachable jurisprudence SATI, Art. 222-20 CP plainte pénale, CIVI/FGTI en subsidiaire Art. 706-3 CPP / 706-5 CPP).
    - Détail de l'évaluation financière estimée à 59 600 € (PGPA 1 400 + IP 15 000 + DFP 25 200 + SE 12 000 + Agrément 3 000 + Art.700 3 000).
-   - Dresser le calendrier (14 juillet, 31 juillet, 12 novembre).
+   - Dresser le calendrier (14 juillet, Date non fixée (à planifier), 12 novembre).
    - Plan d'action stratégique et risques.
 2. **Vérifier le contenu**
    - S'assurer que le fichier est complet et professionnel.

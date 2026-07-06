@@ -11,7 +11,7 @@ Usage (via un agent ayant les MCP Google Docs) :
     )
 
 Prérequis :
-    - Les fichiers .md dans markdown_normalized/ avec marqueurs === PAGE BREAK ===
+    - Les fichiers .md dans markdown_normalized/ avec marqueurs <hr><hr>
     - Mapping fichier ↔ doc_id dans memory/PIECES_MAP.md
     - MCP Google Docs disponible (outils : replaceDocumentWithMarkdown,
       appendMarkdown, insertPageBreak, readDocument)
@@ -21,7 +21,7 @@ import os
 import re
 
 MARKDOWN_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'markdown_normalized')
-BREAK = '=== PAGE BREAK ==='
+BREAK = '<hr><hr>'
 
 # Mapping fichier → Google Doc ID
 # Source : memory/PIECES_MAP.md
@@ -51,7 +51,7 @@ def read_markdown(filepath: str) -> str:
 
 def get_segments(content: str) -> list[str]:
     """
-    Découpe le contenu sur le marqueur === PAGE BREAK ===.
+    Découpe le contenu sur le marqueur <hr><hr>.
     Retourne une liste de segments (sans les marqueurs, stripés).
     """
     segments = [s.strip() for s in content.split(BREAK)]

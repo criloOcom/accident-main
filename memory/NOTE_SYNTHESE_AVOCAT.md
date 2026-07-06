@@ -4,16 +4,16 @@ format: Arial JUSTIFIED
 
 # Note de Synthèse pour Avocat
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## 1. Résumé Exécutif
 
 **Quoi :** Accident corporel survenu le 29 mai 2026. Lésions graves à la main droite (section partielle du tendon fléchisseur, du paquet collatéral et nécessité d'une neurolyse du nerf palmaire de l'index droit).
 **Contre qui :** SAS LES MAUVAIS GARÇONS (exploitante du commerce) ainsi que ses dirigeants agissant à titre personnel (faute détachable).
-**Où en est-on :** La phase amiable s'est clôturée le 14 juillet 2026 suite à des mises en demeure restées infructueuses. Une assignation en référé est initiée en vue de l'audience fixée au 31 juillet 2026.
+**Où en est-on :** La phase amiable s'est clôturée le 14 juillet 2026 suite à des mises en demeure restées infructueuses. Une assignation en référé est initiée en vue de l'audience fixée au Date non fixée (à planifier).
 **Montant total estimé des préjudices :** 59 600 €
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## 2. Parties
 
@@ -31,7 +31,7 @@ format: Arial JUSTIFIED
 | Exploitant du commerce | **[L'Exploitant du Commerce]** | SAS LES MAUVAIS GARCONS |
 | Établissement SOS Main | **[L'Établissement SOS Main]** | Clinique de l'Union |
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## 3. Chronologie Complète
 
@@ -50,7 +50,7 @@ format: Arial JUSTIFIED
 | 31/07/2026 | Audience de référé | Date fixée pour l'audience. |
 | 12/11/2026 | Expertise médicale | Expertise Médicale Judiciaire prévue. |
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## 4. Preuves
 
@@ -68,7 +68,7 @@ format: Arial JUSTIFIED
 ### Tableau de Fiabilité Global
 D'après la Matrice des Preuves, le dossier médical et procédural est solide (Très élevée). Toutefois, les preuves matérielles directes de l'événement (absence de signalisation de la vasque cassée, dynamique de l'accident) sont actuellement manquantes ou en attente d'obtention, ce qui représente un risque modéré qu'il faut pallier.
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## 5. Analyse Juridique Détaillée
 
@@ -92,7 +92,7 @@ D'après la Matrice des Preuves, le dossier médical et procédural est solide (
 - En cas d'insolvabilité totale de la SAS et de ses dirigeants (et de défaut d'assurance), indemnisation possible par le FGTI / CIVI.
 - Cadre procédural : subsidiarité sous réserve des conditions fixées par la loi.
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## 6. Évaluation Financière Détaillée
 
@@ -104,19 +104,19 @@ Le montant total estimé des préjudices est de **59 600 €**, réparti comme s
 - **Préjudice d'Agrément :** 3 000 € (Impact sur la vie courante/loisirs)
 - **Article 700 CPC :** 3 000 € (Frais irrépétibles)
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## 7. Calendrier
 
 - **14 juillet 2026 :** Fin de la phase amiable (échéance des mises en demeure de 15 jours).
-- **31 juillet 2026 :** Audience de référé (demande de provision de 5 000 € et communication sous astreinte de l'assurance RC Pro).
+- **Date non fixée (à planifier) :** Audience de référé (demande de provision de 5 000 € et communication sous astreinte de l'assurance RC Pro).
 - **12 novembre 2026 :** Expertise médicale judiciaire (évaluation des taux de DFP et de l'état de consolidation de **[La Victime]**).
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## 8. Plan d'Action Stratégique
 
-### Court terme (Pré-audience du 31 juillet)
+### Court terme (Pré-audience du Date non fixée (à planifier))
 - Sécuriser les preuves matérielles (Plan B) : huissier pour constater l'état de la vasque, réquisition de vidéosurveillance.
 - Tenter d'obtenir des témoignages de clients (Attestations Cerfa).
 - Forcer la communication de la police d'assurance RC Pro de **[L'Exploitant du Commerce]** lors de l'audience de référé.
@@ -126,7 +126,7 @@ Le montant total estimé des préjudices est de **59 600 €**, réparti comme s
 - Sur la base de l'expertise, réévaluer précisément le DFP et les souffrances endurées.
 - Intenter l'action au fond contre l'assureur RC Pro (action directe) ou, à défaut, contre la société et les dirigeants.
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## 9. Risques et Points d'Attention
 

@@ -18,7 +18,7 @@ format: Arial JUSTIFIED
 
 # Matrice des Preuves
 
-=== PAGE BREAK ===
+<hr><hr>
 
 Ce document répertorie l'ensemble des preuves acquises et à obtenir dans le cadre du dossier d'accident corporel de **[La Victime]**. Il a pour but de guider la stratégie probatoire (notamment le Plan B de recherche de preuves matérielles).
 
@@ -45,7 +45,7 @@ Ce document répertorie l'ensemble des preuves acquises et à obtenir dans le ca
 | ACQ-17 | Preuves d'envoi Mises en Demeure (AR) | La Poste (29/06/2026) | 🔗 AR n°1A 182 166... | Élevée | Preuve des démarches amiables et de la date du litige. |
 | ACQ-18 | CR de reprise J+39 | Dr Iskander DJERBI (08/07/2026) | 🔗 [Drive](https://drive.google.com/file/d/1t1wRleVkYYByK25vBjONn6XU1E8JY9OT/view) | Élevée | Document attestant des complications et de l'évolution. |
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## 2. Preuves à Obtenir (Plan d'Action)
 
@@ -58,7 +58,7 @@ Ce document répertorie l'ensemble des preuves acquises et à obtenir dans le ca
 | OBT-05 | Certificat de consolidation | Solliciter le Dr DJERBI pour l'établissement d'un certificat médical de consolidation, indispensable pour l'évaluation DFP. | **[La Victime]** | Moyenne | Faible (Dépend du temps médical) |
 | OBT-06 | Retours CODAF / Inspection du travail | Relancer l'Inspection du Travail et la CODAF suite aux courriers de signalement restés sans accusé de réception. | **[La Victime]** | Moyenne | Faible |
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## 3. Analyse des Lacunes et Plan d'Action
 

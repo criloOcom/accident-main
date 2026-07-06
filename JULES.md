@@ -16,7 +16,7 @@ accident-main/
 │   └── STATUS.md           ← État d'avancement détaillé
 ├── app/
 │   ├── batch_anonymize.py  ← Script d'anonymisation (source officielle des tokens)
-│   ├── add_page_breaks.py  ← Script d'ajout des marqueurs === PAGE BREAK ===
+│   ├── add_page_breaks.py  ← Script d'ajout des marqueurs <hr><hr>
 │   └── injection.py        ← Script d'injection .md → Google Docs
 ├── JULES.md                ← Ce fichier
 ├── .env.example            ← Variables d'environnement requises
@@ -29,9 +29,9 @@ accident-main/
 - **Annuaire Lois** : `14wbJajn-Vmz_lnNwiJuYSnT70hcozN7AnzvOVyuF1sQ`
 - **ARCHIVES** : `1poohpxlkv79P5QcvVcXoYXj80nKFEDPV`
 
-## Convention `=== PAGE BREAK ===`
+## Convention `<hr><hr>`
 
-Les fichiers `.md` dans `markdown_normalized/` utilisent le marqueur `=== PAGE BREAK ===` pour indiquer où insérer des sauts de page lors de l'injection dans Google Docs.
+Les fichiers `.md` dans `markdown_normalized/` utilisent le marqueur `<hr><hr>` pour indiquer où insérer des sauts de page lors de l'injection dans Google Docs.
 
 **Emplacements standards** :
 - Après l'introduction (avant le corps du document)
@@ -40,7 +40,7 @@ Les fichiers `.md` dans `markdown_normalized/` utilisent le marqueur `=== PAGE B
 
 **Algorithme d'injection** :
 1. Lire le `.md`
-2. Splitter sur `=== PAGE BREAK ===`
+2. Splitter sur `<hr><hr>`
 3. Segment 1 → `replaceDocumentWithMarkdown(firstHeadingAsTitle=true)`
 4. Segments 2..N → `appendMarkdown()` + `insertPageBreak()` à la fin du doc
 
@@ -178,8 +178,8 @@ Utiliser `app/injection.py` ou faire manuellement :
 with open('markdown_normalized/01_Assignation_...') as f:
     content = f.read()
 
-# 2. Splitter sur === PAGE BREAK ===
-segments = content.split('=== PAGE BREAK ===')
+# 2. Splitter sur <hr><hr>
+segments = content.split('<hr><hr>')
 
 # 3. Segment 0 → replaceDocumentWithMarkdown (remplace tout le doc)
 for i, seg in enumerate(segments):
@@ -224,6 +224,6 @@ readDocument(documentId, maxLength=500)
 
 1. **Ne JAMAIS inventer de statut juridique** — si une info n'est pas dans les sources, ne pas l'inventer
 2. **Toujours vérifier** les tokens d'anonymisation dans `memory/TOKEN MAP.md` avant modification
-3. **Les sauts de page** (`=== PAGE BREAK ===`) sont obligatoires : intro, sections, annexes
+3. **Les sauts de page** (`<hr><hr>`) sont obligatoires : intro, sections, annexes
 4. **Le mapping** fichier ↔ Google Doc est dans `memory/PIECES MAP.md` — le consulter avant toute injection
 5. **Ne pas modifier** directement les Google Docs avec find/replace ou regex — toujours passer par `replaceDocumentWithMarkdown`

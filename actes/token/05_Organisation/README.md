@@ -21,5 +21,5 @@
 | Date | Événement |
 |------|-----------|
 | 14 juillet 2026 | ⏳ Fin de la phase amiable |
-| 31 juillet 2026 | 🏛️ Audience de référé |
+| Date non fixée (à planifier) | 🏛️ Audience de référé |
 | 12 novembre 2026 | 🏥 Expertise médicale |

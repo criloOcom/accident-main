@@ -25,7 +25,7 @@ Ce document compile les recommandations issues de recherches web et de l'analyse
 - **Uniformisation :** S'assurer que tous les actes (civils et pénaux) respectent la même charte de présentation (polices, marges, alignement justifié).
 - **Gestion des Pièces :** S'assurer que les références aux pièces (ex: `🔒 PIÈCE ORIGINALE`) sont correctement insérées et listées dans les actes.
 - **Anonymisation / Tokens :** Continuer d'appliquer rigoureusement la logique de tokens (`[La Victime]`, `[L'Exploitant du Commerce]`) et vérifier systématiquement qu'aucune donnée personnelle n'est laissée en clair, conformément au `TOKEN MAP.md`.
-- **Sauts de page :** Respecter strictement la consigne d'utiliser `=== PAGE BREAK ===` avant les sections majeures pour un rendu professionnel sous Google Docs.
+- **Sauts de page :** Respecter strictement la consigne d'utiliser `<hr><hr>` avant les sections majeures pour un rendu professionnel sous Google Docs.
 
 ## 4. Prochaines Étapes pour l'Agent de Demain
 - Réviser les fichiers dans `actes/contentieux-civil/` et `actes/contentieux-penal/` pour vérifier l'alignement avec ces recommandations (notamment la présence du dispositif clair et le bordereau de pièces).

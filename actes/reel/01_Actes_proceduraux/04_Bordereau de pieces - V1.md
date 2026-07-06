@@ -27,7 +27,7 @@ format: Arial JUSTIFIED
 | Procédure : Référé Article 145 CPC | Demandeur : Sébastien GRAZIDE | Défendeur : SAS LES MAUVAIS GARCONS |
 |:---|:---|:---|
 
-=== PAGE BREAK ===
+<hr><hr>
 
 ## Pièce n° 1
 

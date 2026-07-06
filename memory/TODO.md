@@ -1,159 +1,180 @@
-# TODO — PLANS D'ACTION PRIORITAIRES
+# TODO — Plans d'action + Tableau de bord Sébastien
 
-> Généré le 5 juillet 2026. Mis à jour après analyse des 6 rapports Jules (PR #4-#9) et
-> détection de l'erreur L.211-26 C. assurances (assurance véhicules, pas RC Pro salon).
+> **Dernière mise à jour :** 6 juillet 2026
 >
-> **Règle absolue (post-Plan A) :** tout nouvel article de loi cité DOIT être lu via MCP
-> Légifrance (`consulter_article` ou `rechercher_code`) pour vérifier le contexte (livre,
-> titre, section) AVANT intégration.
+> **Règle absolue :** tout nouvel article de loi cité DOIT être lu via MCP
+> Légifrance (`consulter_article` ou `rechercher_code`) pour vérifier le contexte
+> avant intégration.
 
 ---
 
-## ~~PLAN A — CORRECTION L.211-26 C. ASSURANCES~~ ✅ TERMINÉ
+## 📋 TABLEAU DE BORD SÉBASTIEN
 
-### Résumé
+### 🔔 Dates à fixer (rappel quotidien)
+
+Chaque date marquée **« Date non fixée (à planifier) »** dans les actes est une
+action que **TU DOIS FAIRE TOI-MÊME** — l'agent IA ne peut pas fixer d'audience
+ni contacter des personnes à ta place.
+
+| # | Action | Date butoir | Statut | Priorité |
+|---|--------|------------|--------|----------|
+| 🏛️ | **Fixer audience référé-provision** (Art. 835 CPC) | Urgent — assignation prête | ❌ NON FAIT | **Haute** |
+| 🏛️ | **Fixer audience Art. 145 CPC** (communication assurance) | Urgent — assignation prête | ❌ NON FAIT | **Haute** |
+| 🎯 | **Rendez-vous UMJ Purpan** (réquisition police ITT) | **12/11/2026 13h45** | ✅ FIXÉ | Info |
+| 📋 | **Contacter un huissier** pour constat (Art. 145 CPC) | Avant mi-juillet | ❌ NON FAIT | **Haute** |
+| 📋 | **Envoyer attestations témoins** (client, pompier, employé) | Dès que possible | ❌ NON FAIT | **Haute** |
+| 📋 | **Envoyer relance Dr DJERBI** — certificat consolidation | Dès que possible | ❌ NON FAIT | **Haute** |
+| 👨‍⚖️ | **Prendre un avocat** (contentieux civil + pénal) | Avant audience | ❌ NON FAIT | **Haute** |
+| 📄 | **Adresses emails des témoins** à nous communiquer | Avant envoi attestations | ❌ NON FAIT | Moyenne |
+| 📄 | **Email/téléphone Dr DJERBI** à nous communiquer | Avant relance | ❌ NON FAIT | Moyenne |
+
+### ✅ Check-list actions à faire par toi
+
+#### Court terme (cette semaine)
+- [ ] **Trouver un huissier** pour constater l'état du salon et la vidéosurveillance
+- [ ] **Communiquer les emails** des 3 témoins (client, pompier SAMU, employé)
+- [ ] **Communiquer email/tél du Dr DJERBI** pour relance consolidation
+- [ ] **Envoyer les attestations Cerfa** aux témoins (signature électronique ou papier)
+- [ ] **Vérifier si les vidéos de surveillance existent encore** (délai 30 jours peut-être échu)
+
+#### Préparation audience(s) (avant date fixée)
+- [ ] Contacter un avocat pour le contentieux civil (référé provision + Art. 145)
+- [ ] Préparer les conclusions et assignations avec l'avocat
+- [ ] Rassembler les originaux des pièces (CR opératoire, arrêts de travail, etc.)
+- [ ] Scanner/télécharger tous les justificatifs sur Drive
+
+#### Préparation 12 novembre 2026 — UMJ Purpan
+- [ ] Rassembler tous les documents médicaux :
+  - CR opératoire (Dr OXYBEL)
+  - Arrêts de travail
+  - Ordonnances et comptes rendus kiné
+  - Comptes rendus Dr DJERBI (consultations + bilan)
+- [ ] Préparer un dossier médical complet à remettre au médecin légiste
+- [ ] Imprimer la réquisition police (Art. 41/77-1 CPP) — documents du 2 juin 2026
+- [ ] **Être présent à 13h45 au CHU Purpan, Toulouse**
+
+#### Suivi administratif
+- [ ] Relancer impôts / SIE (pas de réponse ?)
+- [ ] Relancer URSSAF (pas de réponse ?)
+- [ ] Relancer Inspection du Travail / CODAF (pas d'accusé réception ?)
+- [ ] Vérifier retour AR de la mise en demeure SAS
+- [ ] Suivre le courrier Mairie de Foix / TAVELLA
+
+### Processus général (vision d'ensemble)
+
+```
+PHASE AMIABLE (terminée)
+  → Mises en demeure envoyées le 29 juin 2026
+  → Délai 15 jours → échu le 14 juillet 2026
+  → Silence de la SAS, de l'assureur, du propriétaire
+  ↓
+PHASE JUDICIAIRE (en cours — TOI seul peux avancer)
+  1. [À FAIRE] Trouver un huissier → constat vidéosurveillance + état des lieux
+  2. [À FAIRE] Contacter un avocat → déposer assignation référé provision
+  3. [À FAIRE] Fixer audience(s) → provision 5 000 € + Art. 145 assurance
+  4. [À FAIRE] Envoyer attestations témoins → preuve des faits
+  5. [À FAIRE] Relancer Dr DJERBI → certificat consolidation
+  ↓
+PHASE MÉDICO-LÉGALE (date fixée)
+  → 12 novembre 2026 : UMJ Purpan évaluation ITT
+  ↓
+PHASE POST-CONSOLIDATION (quand consolidation obtenue)
+  → Évaluation Dintilhac définitive
+  → Demande indemnisation complète
+```
+
+---
+
+## Archivé : Plans d'action agents IA (terminés)
+
+*Ces plans sont conservés pour mémoire. Ils ont été exécutés par les agents IA.*
+
+---
+
+### PLAN A — CORRECTION L.211-26 C. ASSURANCES ✅ TERMINÉ
+
 - L.211-26 supprimé de `STRATEGIE Contentieux Penal.md` (§2.2, §3.3),
-  `PLAINTE Complement Defaut Assurance RC.md` (tags, §intro, §II.A),
-  `app/add_yaml_actes.py`, `app/check_consistency.py`, `app/batch_link_legifrance.py`.
+  `PLAINTE Complement Defaut Assurance RC.md`, scripts Python.
 - Remplacement par signalement de fait + Art. 706-3 CPP + Art. L.124-3 C. assur.
 - Règle absolue instaurée : vérification Légifrance avant toute citation.
-- 706-3 CPP ajouté aux dictionnaires de `batch_link_legifrance.py`.
 
 ---
 
-## PLAN B — PREUVES MATÉRIELLES
+### PLAN B — PREUVES MATÉRIELLES (actions restantes dans tableau de bord)
 
-### Constat (PR #7)
-- Absence de témoignages/attestations Cerfa
-- Vidéosurveillance non sécurisée
-- Constat huissier non réalisé
-- Attestation RC Pro jamais obtenue
-
-### Actions
-1. Relancer les autres clients présents (attestations)
-2. Vérifier si vidéosurveillance existe toujours
-3. Faire constat d'huissier si possible
-4. Relancer l'Inspection du Travail / CODAF (pas d'accusé réception)
+- Constat huissier non réalisé → voir tableau de bord ci-dessus
+- Vidéosurveillance à vérifier
+- Attestations témoins à transmettre (gabarits Cerfa prêts : pièces 22-23-24)
+- Relance Inspection du Travail / CODAF si pas de réponse
 
 ---
 
-## ~~PLAN C — CIVI / FGTI~~ ✅ TERMINÉ
+### PLAN C — CIVI / FGTI ✅ TERMINÉ
 
-### Résumé
-- `STRATEGIE Contentieux Civil.md` : nouveau §3.3 « Voie CIVI / FGTI (subsidiaire) » avec conditions, procédure, délais Art. 706-5 CPP (10 ans / 1 an). §1 mis à jour. Ligne ajoutée au calendrier §5.
-- `STRATEGIE Contentieux Penal.md` : nouveau §3.5 « Indemnisation par le FGTI / CIVI » consolidant les mentions éparses + délais. §1 mis à jour.
-
----
-
-## ~~PLAN D — CORRECTION MONTANTS FINANCIERS (PR #8)~~ ✅ TERMINÉ
-
-### Résumé
-- `ETUDE Indemnisation MAX.md` : Art. 700 1 500 € → 3 000 €, total 58 100 → 59 600 €
-- `STRATEGIE Contentieux Civil.md` : Art. 700 1 500 € → 3 000 €, total 58 100 → 59 600 €
-- `ASSIGNATION Refere Provision.md` : 15 000 € requalifié DSF → IP (Incidence Professionnelle)
-- `STRICT VARIABLES.md` : total mis à jour 58 100 → 59 600 €
+- `STRATEGIE Contentieux Civil.md` : nouveau §3.3 « Voie CIVI / FGTI (subsidiaire) »
+- `STRATEGIE Contentieux Penal.md` : §3.5 « Indemnisation par le FGTI / CIVI »
 
 ---
 
-## PLAN E — CERTIFICAT DE CONSOLIDATION (PR #9)
+### PLAN D — CORRECTION MONTANTS FINANCIERS ✅ TERMINÉ
 
-### Constat
-- Évaluation DFP (25 200 €) prématurée sans consolidation médicale.
-- Nécessaire avant finalisation expertise et évaluation Dintilhac.
-
-### Actions
-1. Demander certificat médical de consolidation au Dr DJERBI
+- Art. 700 1 500 € → 3 000 €, total 58 100 → 59 600 €
+- 15 000 € requalifié DSF → IP (Incidence Professionnelle)
 
 ---
 
-## ~~PLAN F — RESTRUCTURATION `actes/` (PR #4)~~ ✅ TERMINÉ
+### PLAN E — CERTIFICAT DE CONSOLIDATION (relance dans tableau de bord)
 
-### Résumé
-- Nouvelle arborescence créée : `01_Actes_proceduraux/`, `02_Courriers/`, `03_Analyses_juridiques/`, `04_Etudes_indemnisation/`, `05_Organisation/`
-- 14 fichiers copiés+renommés selon la nomenclature YAML (01-14)
-- `add_yaml_actes.py` : recherche récursive activée, STRATEGIE ajoutées au YAML_MAP
-- `batch_link_legifrance.py` : chemins mis à jour vers les nouveaux dossiers
-- Ancienne arborescence (contentieux-civil/, contentieux-penal/) conservée intacte
-- `check_consistency.py` OK
+- Nécessaire avant finalisation expertise et évaluation Dintilhac
+- Gabarit relance Dr DJERBI prêt : pièce 25
 
 ---
 
-## ~~PLAN G — TABLES DES MATIÈRES (PR #6)~~ ✅ TERMINÉ
+### PLAN F — RESTRUCTURATION `actes/` ✅ TERMINÉ
 
-### Résumé
-- Script `app/add_tdm.py` créé : auto-génère TdM depuis les headings (H2-H4) pour tout fichier .md sans TdM existante
-- 30 fichiers traités (tous les .md de `actes/` sauf annexes)
-- `check_consistency.py` mis à jour pour ignorer les liens de TdM (faux positifs)
-- Check OK, 0 erreur 0 avertissement
+- Nouvelle arborescence `{00-06}` + token/reel
+- Scripts mis à jour
 
 ---
 
-## ~~PLAN H — RÉDACTION (PR #5)~~ ✅ TERMINÉ
+### PLAN G — TABLES DES MATIÈRES ✅ TERMINÉ
 
-### Résumé
-- Assignation 01 : "PAR CES MOTIFS" avec visas 145+835 CPC / 1240+1242 CC, pièces n°1-6, bordereau présent
-- Assignation 03 : "PAR CES MOTIFS" avec visas 145 CPC / L.124-3 C. Assur, pièces n°7-10, bordereau présent
-- Vérifié par lecture directe des fichiers le 6 juillet 2026
+- Script `app/add_tdm.py` créé, 30 fichiers traités
 
 ---
 
-## ~~RESTRUCTURATION TOKEN/REEL + README.md~~ ✅ TERMINÉ
+### PLAN H — RÉDACTION ASSIGNATIONS ✅ TERMINÉ
 
-### Actions
-1. ✅ `actes/token/{00-06}` créé (documents anonymisés)
-2. ✅ `actes/reel/{01-06}` généré par `generate_real_versions.py`
-3. ✅ 17 README.md riches créées (navigation, table des fichiers, fil d'Ariane)
-4. ✅ INDEX.md → README.md (7 fichiers)
-5. ✅ `check_consistency.py` : 0 erreur, patch URL decode + path ANNEXES
-6. ✅ Règle #1 ajoutée à RULES.md
+- Assignations 01 et 03 conformes (visas, pièces, bordereaux)
+- Vérifié le 6 juillet 2026
 
 ---
 
-## PHASE 7B — BORDEREAU + JUSTIFICATION PROVISION + EMAILS TÉMOINS ✅ TERMINÉ
+### RESTRUCTURATION TOKEN/REEL + README.md ✅ TERMINÉ
 
-### Actions (6 juillet 2026)
-1. ✅ `04_Bordereau_Audience - V1.md` créé — 25 pièces séquentielles (6 groupes)
-2. ✅ Assignation 01 enrichie — §D Justification du montant de la provision
-3. ✅ `25_Email Relance Dr DJERBI - V1.md` créé
-4. ✅ `26/27/28_Email Attestation` créés (client/pompier/employé)
-5. ✅ Versions réelles générées (46 fichiers)
-6. ✅ 0 erreur check_consistency, 2 commits + push
+- `actes/token/{00-06}` créé, `actes/reel/{01-06}` généré
+- 17 README.md riches créées, INDEX → README (7 fichiers)
+- `check_consistency.py` : 0 erreur
 
 ---
 
-## À FAIRE ENCORE
+### PHASE 7B — BORDEREAU + JUSTIFICATION PROVISION + EMAILS TÉMOINS ✅ TERMINÉ
 
-### Court terme
-1. **Envoyer les emails aux témoins** — besoin des adresses email des clients, SAMU, employé
-2. **Envoyer relance Dr DJERBI** — besoin email du chirurgien
-3. **Générer les PDF des Cerfa n° 11527\*03** à joindre aux emails
-4. **Planifier constat d'huissier** (recommandation critique EVALUATION_CRITIQUE.md)
-
-### Préparation 12 novembre 2026
-5. **Rassembler tous les documents médicaux** pour l'UMJ (CR opératoire, arrêts de travail, ordonnances, comptes rendus kiné)
-6. **Préparer un dossier médical complet** à remettre au médecin légiste
-
-### Preuves matérielles (Plan B)
-7. **Vérifier si les vidéos de vidéosurveillance existent encore** (délai 30 jours → échu)
-8. **Relancer inspection du Travail / CODAF** si pas de réponse sous 15 jours
-9. **Vérifier l'AR de la SAS** (retour ? signé ?)
+- `04_Bordereau_Audience - V1.md` créé (25 pièces séquentielles)
+- Assignation 01 enrichie §D (justification provision 5 000 €)
+- Emails 25-28 créés (relance DJERBI + 3 attestations témoins)
+- Versions réelles générées, push effectué
 
 ---
 
-## ~~PLAN I — ARTICLE BLOG~~ ✅ TERMINÉ
+### PLAN I — ARTICLE BLOG ✅ TERMINÉ
 
-### Résumé
-- Article « Comment une Erreur de Droit a Réformé Notre Processus de Vérification Juridique » ajouté au Google Sheet `06 📢 Blog` (colonne `@`, ligne 108)
-- Slug : `erreur-l211-26-process-verification-juridique`
-- Catégorie : Retour d'Expérience
-- Statut : published
-- Contenu : introduction (l'erreur L.211-26), le nouveau process (4 étapes), les outils (3 scripts), tableau Avant/Après, 4 leçons apprises
+- Article publié sur l'erreur L.211-26 et le nouveau process de vérification
 
 ---
 
 ## VÉRIFICATION SYSTÉMATIQUE
 
-- `app/check_consistency.py` avant chaque commit
+- `python3 app/check_consistency.py` avant chaque commit
 - Validation croisée ANNEXE B ↔ ANNUAIRE Lois ↔ actes
 - MCP Légifrance `rechercher_code` pour tout nouvel article
-- MCP Légifrance `consulter_article` si API fonctionne (sinon `rechercher_code`)
