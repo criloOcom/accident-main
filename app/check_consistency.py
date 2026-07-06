@@ -80,7 +80,7 @@ def check_tokens() -> None:
         text = f.read_text(encoding="utf-8")
         for m in token_usage.finditer(text):
             token = m.group(1)
-            if token in ("🔗 Drive", "NOM À COMMUNIQUER", "DATE", "cliquez ici"):
+            if token in ("🔗 Drive", "NOM À COMMUNIQUER", "DATE", "cliquez ici", "À compléter"):
                 continue
             if token.startswith("http") or token.startswith("#"):
                 continue
@@ -99,8 +99,9 @@ def check_tokens() -> None:
                 "L'Adresse de l'Exploitation", "L'Adresse du Président",
                 "La Ville de Résidence de la Victime", "La Métropole Régionale",
                 "La Ville de l'Établissement SOS Main", "L'Email de la Victime",
-                "L'Identifiant Professionnel de la Victime",                 "L'Identifiant de l'Exploitation",
-                "Adresse à compléter",
+                "L'Identifiant Professionnel de la Victime",
+                "L'Identifiant de l'Exploitation",
+                "Adresse à compléter", "Centre de soins immédiats",
             ):
                 warn(f"{f.name} → token potentiel non documenté : [{token}]")
 
