@@ -175,6 +175,22 @@ Dans ce dossier, les fondements juridiques sont solides :
 
 <hr><hr>
 
+## VI. Limites et réserves sur la recherche jurisprudentielle
 
+### A. Absence de jurisprudence spécifique
+
+Aucune décision de justice spécifique aux accidents impliquant des vasques en céramique dans des salons de coiffure n'a été trouvée dans les bases officielles (Judilibre, Légifrance). La stratégie recommandée consiste à s'appuyer sur la jurisprudence constante de la Cour de cassation concernant les principes généraux de responsabilité (art. 1240, 1242 C. civ.), l'action directe (art. L.124-3 C. assurances) et l'incidence professionnelle, sans rechercher une jurisprudence de fait inexistante.
+
+### B. Contrôle des sources externes
+
+Vérification Judilibre : les 5 arrêts cités par Mistral AI dans son analyse initiale ont été systématiquement vérifiés — 0 résultat (tous inexistants). Exemples : Cass. Crim. n°18-83.216, Cass. Civ. 1ère n°18-17.868, Cass. Civ. 2e n°19/05032, Cass. Civ. 1ère n°21-14.197, Cass. Civ. 2e n°18-19.307. Aucune citation jurisprudentielle ne doit être utilisée sans vérification préalable via Judilibre ou Légifrance.
+
+### C. Sources doctrinales identifiées
+
+Les seules références doctrinales spécifiques aux salons de coiffure sont :
+- **Me Plouton** (TJ Bordeaux, 4 novembre 2024) : indemnisation d'une cliente brûlée au cuir chevelu, 13 913 € — source doctrinale, pas jurisprudence officielle.
+- **Sylvie Personnic** (Village Justice) : responsabilité des salons de coiffure pour brûlures et réactions allergiques.
+Ces sources sont citées à titre de doctrine, non de jurisprudence.
 
 ---
+

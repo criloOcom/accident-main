@@ -54,8 +54,9 @@ Document rédigé par **[La Victime]**
   - [A. Capitalisation des dépenses de santé futures](#a-capitalisation-des-dpenses-de-sant-futures)
   - [B. Aggravation du dommage](#b-aggravation-du-dommage)
   - [C. Incidence professionnelle](#c-incidence-professionnelle)
-- [V. FACTEURS D'AGGRAVATION](#v-facteurs-daggravation)
-- [VI. CONCLUSION ET ANALYSE](#vi-conclusion-et-analyse)
+- [V. JURISPRUDENCE COMPARATIVE](#v-jurisprudence-comparative)
+- [VI. FACTEURS D'AGGRAVATION](#vi-facteurs-daggravation)
+- [VII. CONCLUSION ET ANALYSE](#vii-conclusion-et-analyse)
 - [ANNEXES ET SOURCES JURIDIQUES](#annexes-et-sources-juridiques)
 
 <hr><hr>
@@ -140,7 +141,22 @@ La jurisprudence [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifran
 
 <hr><hr>
 
-## V. FACTEURS D'AGGRAVATION
+## V. JURISPRUDENCE COMPARATIVE
+
+### D. Jurisprudence comparative (arrêts vérifiés)
+
+Les arrêts suivants, déjà intégrés dans le dossier, confirment la cohérence de l'évaluation des préjudices et des fondements juridiques retenus :
+
+| Arrêt | Principe | Application au dossier |
+|-------|----------|----------------------|
+| [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) | Capitalisation des dépenses de santé futures sans contrôle restrictif de l'assureur. | Appuie la demande de provision pour frais futurs (rééducation, matériel ergonomique). |
+| [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) | Aggravation du dommage : toute aggravation médicale ultérieure ouvre un nouveau droit à réparation. | Permet de réévaluer le préjudice en cas d'aggravation après expertise initiale. |
+| [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) | Incidence professionnelle : poste distinct indemnisant la dévalorisation sur le marché du travail. | Confirme l'IP de 15 000 € (dévalorisation en tant qu'informaticien indépendant). |
+| [Cass. Civ. 1ère, 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) | Libre disposition des indemnités : la victime peut utiliser les fonds sans contrôle du responsable. | Justifie que les 59 600 € demandés peuvent être librement affectés (rééducation, aménagement ergonomique). |
+
+<hr><hr>
+
+## VI. FACTEURS D'AGGRAVATION
 
 Plusieurs éléments spécifiques aggravent le préjudice de **[La Victime]** :
 
@@ -152,7 +168,7 @@ Plusieurs éléments spécifiques aggravent le préjudice de **[La Victime]** :
 
 <hr><hr>
 
-## VI. CONCLUSION ET ANALYSE
+## VII. CONCLUSION ET ANALYSE
 
 L'indemnisation estimée à 59 600 € (selon le tableau détaillé ci-dessous) constitue une évaluation prudente.
 
