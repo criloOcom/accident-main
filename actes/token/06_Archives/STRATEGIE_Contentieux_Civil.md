@@ -107,7 +107,7 @@ Si l'absence d'assurance de **[L'Exploitant du Commerce]** est confirmée et que
 Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels résultant d'une infraction pénale, lorsque l'auteur n'est pas assuré et que la réparation ne peut être obtenue à un autre titre.
 
 **Conditions :**
-- L'infraction doit être constituée (en l'espèce, blessures involontaires — [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)).
+- L'infraction doit être constituée (en l'espèce, blessures involontaires — [[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)).
 - La victime doit être de nationalité française ou les faits commis sur le territoire national.
 - Le dommage corporel doit présenter une certaine gravité (ITT ≥ 1 mois — condition remplie avec 56 jours d'ITT).
 

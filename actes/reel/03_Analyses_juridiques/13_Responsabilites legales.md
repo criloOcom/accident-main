@@ -56,7 +56,7 @@ Cette note vise à structurer les fondements juridiques permettant d'assurer la 
 
 ## I. LA RESPONSABILITÉ PÉNALE POUR BLESSURES INVOLONTAIRES
 
-Le salon est susceptible de voir sa responsabilité engagée sur le fondement de l'[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
+Le salon est susceptible de voir sa responsabilité engagée sur le fondement de l'[[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 

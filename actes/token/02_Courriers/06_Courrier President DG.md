@@ -54,7 +54,7 @@ La présente lettre de mise en demeure est adressée conjointement par **[La Vic
 
 ## Rappel des obligations légales
 
-La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions. La Cour de cassation ([Cass. Com., 20 mai 2003, n° 99-17.092 — arrêt SATI](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)) a jugé que constitue une faute détachable le fait pour un dirigeant de ne pas avoir souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain.
+La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions. La Cour de cassation ([Cass. Com., 20 mai 2003, n° 99-17.092 — [arrêt SATI](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)) a jugé que constitue une faute détachable le fait pour un dirigeant de ne pas avoir souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain.
 
 > Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
 > Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
@@ -101,7 +101,7 @@ En l'absence de retour de votre part sous un délai raisonnable de 15 jours à c
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
-Dans cette hypothèse, je serai également contraint de rechercher la responsabilité personnelle des dirigeants pour défaut d'information sur le fondement de la faute détachable ([Cass. Com., 20 mai 2003, n° 99-17.092 — arrêt SATI](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)).
+Dans cette hypothèse, je serai également contraint de rechercher la responsabilité personnelle des dirigeants pour défaut d'information sur le fondement de la faute détachable ([Cass. Com., 20 mai 2003, n° 99-17.092 — [arrêt SATI](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)).
 
 **Je vous remercie sincèrement de l'attention que vous porterez à cette demande administrative et reste disponible pour tout échange afin de faire avancer ce dossier dans le respect mutuel des parties.**
 

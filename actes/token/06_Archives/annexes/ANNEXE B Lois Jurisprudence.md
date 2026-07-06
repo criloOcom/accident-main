@@ -31,7 +31,7 @@ Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784](ht
 
 > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'Article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. »
 
-• **[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)** — Blessures involontaires avec ITT inférieure ou égale à 3 mois
+• **[[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)** — Blessures involontaires avec ITT inférieure ou égale à 3 mois
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 

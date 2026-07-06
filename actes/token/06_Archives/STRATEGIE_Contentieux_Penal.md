@@ -60,7 +60,7 @@ Faits : le **[J+0 Accident]**, **[La Victime]** a subi une section nerveuse et t
 
 Ces faits sont constitutifs de blessures involontaires ayant entraîné une incapacité totale de travail (ITT) prévisible inférieure ou égale à trois mois.
 
-L'infraction est prévue et réprimée par l'[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
+L'infraction est prévue et réprimée par l'[[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
@@ -128,7 +128,7 @@ L'absence d'assurance de **[L'Exploitant du Commerce]** et son insolvabilité é
 Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) indemnise les victimes de dommages corporels résultant d'une infraction pénale lorsque l'auteur n'est pas assuré et que la réparation ne peut être obtenue à un autre titre.
 
 **Conditions remplies en l'espèce :**
-- Infraction pénale constituée : blessures involontaires ([Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)).
+- Infraction pénale constituée : blessures involontaires ([[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)).
 - Gravité du dommage : ITT de 56 jours (≥ 1 mois, condition de recevabilité).
 - Absence d'assurance confirmée par le défaut de réponse aux relances amiables.
 
