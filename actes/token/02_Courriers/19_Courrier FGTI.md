@@ -57,7 +57,7 @@ Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm ave
 
 <hr><hr>
 
-## I — RAPPEL DES FAITS
+## RAPPEL DES FAITS
 
 L'accident est survenu dans un contexte de multiples irregularites de la part de l'exploitant :
 
@@ -75,7 +75,7 @@ L'accident est survenu dans un contexte de multiples irregularites de la part de
 
 <hr><hr>
 
-## II — INDEMNITES SOLLICITEES
+## INDEMNITES SOLLICITEES
 
 Le montant total estime de mon prejudice corporel, selon la nomenclature Dintilhac, s'eleve a **59 600 €**, se decomposant comme suit :
 
@@ -93,7 +93,7 @@ Le montant total estime de mon prejudice corporel, selon la nomenclature Dintilh
 
 <hr><hr>
 
-## III — DEMANDE D'INFORMATION CONSERVATOIRE
+## DEMANDE D'INFORMATION CONSERVATOIRE
 
 Je sollicite par la presente une **information conservatoire** aupres du FGTI pour les motifs suivants :
 
@@ -103,7 +103,9 @@ Je sollicite par la presente une **information conservatoire** aupres du FGTI po
 
 3. Il existe un risque que la societe soit dissoute ou fasse l'objet d'une liquidation sans que les victimes puissent faire valoir leurs droits.
 
-Conformement aux Articles 706-3 et suivants du Code de procedure penale, le FGTI peut etre appele a indemniser les victimes d'infractions lorsque l'auteur est inconnu ou insolvable. Je souhaiterais etre informe des conditions et procedures d'indemnisation par le FGTI dans l'hypothese ou la societe responsable serait insolvable ou non assuree.
+Conformement aux Articles 706-3 et suivants du Code de procedure penale, le FGTI peut etre appele a indemniser les victimes d'infractions lorsque l'auteur est inconnu ou insolvable.
+
+Je souhaiterais etre informe des conditions et procedures d'indemnisation par le FGTI dans l'hypothese ou la societe responsable serait insolvable ou non assuree.
 
 Mes coordonnees : **[L'Adresse de la Victime]** — Courriel : **[L'Email de la Victime]**
 

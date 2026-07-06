@@ -23,6 +23,8 @@
 - FACTURE_CHIRURGIE : 790,23 €
 - MONTANT_ASTREINTE_145 : 150 €/jour
 - MONTANT_ARTICLE_700_145 : 1 500 € (assignation article 145)
+- MONTANT_PROVISION_PENALE : 5 000 € (constitution de partie civile)
+- MONTANT_ARTICLE_475_1 : 3 000 € (constitution de partie civile — équivalent pénal de l'art. 700)
 
 ⚠ **Explication 5k€ vs 15k€** : La demande amiable (15k€) est volontairement plus élevée que la demande en référé (5k€). C'est une stratégie juridique normale : la phase amiable fixe un plafond de négociation, le référé demande un minimum immédiat. Ce n'est pas une incohérence.
 ⚠ **Doc 7 vs Doc 1** : Les deux documents utilisent des bases de calcul PGPA différentes (forfaitaire vs prorata réel). Ce n'est pas une contradiction — l'assignation fait une estimation large, l'étude détaille le calcul précis. Les deux peuvent coexister.
@@ -65,7 +67,7 @@
 | Médecin Généraliste | `**[Le Médecin Généraliste]**` |
 | Gestionnaire CPAM | `**[La Gestionnaire CPAM]**` |
 
-⚠ **Statut de la SAS inconnu (2026-07-03)** : Aucune information disponible sur le statut actuel de la SAS LES MAUVAIS GARÇONS (activité, fermeture, liquidation, radiation). Les courriers recommandés envoyés le 29 juin 2026 sont restés sans réponse ni AR signé. **Ne jamais affirmer un statut juridique (liquidation, dissolution, etc.) sans source vérifiable.**
+⚠ **Statut de la SAS vérifié (2026-07-06)** : Active (état administratif "A"), créée le 01/06/2024, siège social au 22 Rue Lafaurie 09000 Foix. Président : Mountasser Sabir. Directrice Générale : Catherine Andissac/Sorroche. Aucune procédure de dissolution ou liquidation en cours (source : API Recherche Entreprises).
 
 ## Personnes morales (tokens)
 | Rôle | Jeton | Note |

@@ -2,6 +2,7 @@
 
 - [01_Assignation.md](01_Assignation.md)
 - [02_Plainte.md](02_Plainte.md)
+- [02b_Constitution Partie Civile.md](02b_Constitution Partie Civile.md)
 - [03_Assignation Article 145.md](03_Assignation Article 145.md)
 - [04_Bordereau de pieces.md](04_Bordereau de pieces.md)
 - [04_Bordereau_Audience.md](04_Bordereau_Audience.md)
