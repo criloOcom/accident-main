@@ -110,7 +110,7 @@ REPLACEMENTS = [
     ("Romain Delrieu", "[Le Propriétaire des Murs]"),
 
     # --- Cities ---
-    ("FOIX", "[LA VILLE DE L'ACCIDENT]"),
+    ("FOIX", "[La Ville de l'Accident]"),
     ("Foix", "[La Ville de l'Accident]"),
     ("Blagnac", "[La Ville de Résidence de la Victime]"),
     ("Toulouse (31)", "[La Métropole Régionale]"),
@@ -119,7 +119,7 @@ REPLACEMENTS = [
     ("Saint-Jean", "[La Ville de l'Établissement SOS Main]"),
 
     # --- Lawyer (placeholder — add real name when known) ---
-    # ("Nom Prénom de l'Avocat", "[Nom de l'Avocat de la Victime]"),
+    ("Nom Prénom de l'Avocat", "[Nom de l'Avocat de la Victime]"),
 
     # --- Department numbers ---
     ("(31)", ""),
