@@ -25,7 +25,9 @@ Rédigé le **[J+32 Assignation référé]**
 
 ## INTRODUCTION
 
-La présente étude d'indemnisation a pour objet d'évaluer l'intégralité des préjudices corporels subis par **[La Victime]** à la suite de l'accident du **[J+0 Accident]** — au cours duquel, alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de **[La Victime]** a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit — selon la nomenclature Dintilhac qui constitue la référence harmonisée pour l'évaluation des préjudices corporels devant les juridictions françaises. Cette évaluation chiffrée, établie poste par poste, tient compte du statut de travailleur indépendant de la victime et de son activité professionnelle déclarée sous le numéro **[L'Identifiant Professionnel de la Victime]**.
+La présente étude d'indemnisation a pour objet d'évaluer l'intégralité des préjudices corporels subis par **[La Victime]** à la suite de l'accident du **[J+0 Accident]** — au cours duquel, alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de **[La Victime]** a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit — selon la nomenclature Dintilhac qui constitue la référence harmonisée pour l'évaluation des préjudices corporels devant les juridictions françaises.
+
+Cette évaluation chiffrée, établie poste par poste, tient compte du statut de travailleur indépendant de la victime et de son activité professionnelle déclarée sous le numéro **[L'Identifiant Professionnel de la Victime]**.
 
 L'étude vise à déterminer le montant maximal de l'indemnisation susceptible d'être obtenue, dans le respect du principe de réparation intégrale sans perte ni profit consacré par l'[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571).
 
@@ -89,11 +91,11 @@ Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un 
 
 ### B. Préjudices extra-patrimoniaux (DFP, Souffrances, Agrément)
 
-    - **Déficit Fonctionnel Permanent (DFP)** : Indemnise l'atteinte aux fonctions physiologiques. Basé sur un taux estimé de 12% pour une victime de 44 ans, l'indemnité est projetée à 25 200 €.
+- **Déficit Fonctionnel Permanent (DFP)** : Indemnise l'atteinte aux fonctions physiologiques. Basé sur un taux estimé de 12% pour une victime de 44 ans, l'indemnité est projetée à 25 200 €.
 
-    - **Souffrances Endurées** : Évaluées à 4/7 (choc, microchirurgie SOS Main, rééducation). Estimation : 12 000 €.
+- **Souffrances Endurées** : Évaluées à 4/7 (choc, microchirurgie SOS Main, rééducation). Estimation : 12 000 €.
 
-    - **Préjudice d'Agrément** : Répare l'impossibilité de pratiquer des loisirs (guitare, projets personnels de codage). Estimation : 3 000 €.
+- **Préjudice d'Agrément** : Répare l'impossibilité de pratiquer des loisirs (guitare, projets personnels de codage). Estimation : 3 000 €.
 
 <hr><hr>
 

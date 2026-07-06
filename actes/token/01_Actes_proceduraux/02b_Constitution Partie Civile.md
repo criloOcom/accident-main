@@ -192,3 +192,12 @@ Vu les pieces versees aux debats,
 Fait a **[La Ville de Residence de la Victime]**, le **[J+38 Constitution PC]**
 
 **[La Victime]**
+
+## BORDEREAU DE PIÈCES ANNEXÉES
+
+1. **Pièce n°1 :** Preuves de l'opération de paiement Wero de 15,00 € (**[J+0 Accident]**) démontrant la présence dans les lieux
+2. **Pièce n°2 :** Certificat médical initial de constatation des blessures rédigé par **[Le Médecin en Urgence]** (**[J+0 Accident]**)
+3. **Pièce n°3 :** Compte-rendu opératoire de microchirurgie d'urgence (suture nerveuse et tendineuse) rédigé par **[Le Chirurgien SOS Main]** (**[J+1 Chirurgie]**)
+4. **Pièce n°4 :** Certificats médicaux d'arrêts de travail justifiant 56 jours d'Incapacité Totale de Travail (ITT)
+5. **Pièce n°5 :** Copie du procès-verbal de plainte pénale initiale pour blessures involontaires enregistré par la Police Nationale
+6. **Pièce n°6 :** Courriers Recommandés avec Accusé de Réception de mise en demeure adressés le **[J+31 Mises en demeure]** (restés sans réponse)

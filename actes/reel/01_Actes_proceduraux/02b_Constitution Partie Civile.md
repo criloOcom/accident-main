@@ -192,3 +192,12 @@ Sébastien GRAZIDE se constitue partie civile et sollicite qu'il plaise a Monsie
 Fait a Blagnac, le **[J+38 Constitution PC]**
 
 Sébastien GRAZIDE
+
+## BORDEREAU DE PIÈCES ANNEXÉES
+
+1. **Pièce n°1 :** Preuves de l'opération de paiement Wero de 15,00 € (29 mai 2026) démontrant la présence dans les lieux
+2. **Pièce n°2 :** Certificat médical initial de constatation des blessures rédigé par Dr Julie JARDON (29 mai 2026)
+3. **Pièce n°3 :** Compte-rendu opératoire de microchirurgie d'urgence (suture nerveuse et tendineuse) rédigé par Dr Iskander DJERBI (30 mai 2026)
+4. **Pièce n°4 :** Certificats médicaux d'arrêts de travail justifiant 56 jours d'Incapacité Totale de Travail (ITT)
+5. **Pièce n°5 :** Copie du procès-verbal de plainte pénale initiale pour blessures involontaires enregistré par la Police Nationale
+6. **Pièce n°6 :** Courriers Recommandés avec Accusé de Réception de mise en demeure adressés le 29 juin 2026 (restés sans réponse)
