@@ -26,7 +26,7 @@
 │   ├── 📁 **[05_Organisation/](./actes/token/05_Organisation/)** — Index, calendrier, statistiques
 │   └── 📁 **[06_Archives/](./actes/token/06_Archives/)** — Annexes (lois, lexique, pièces)
 │
-├── 📁 **[reel/](./actes/reel/)** — Versions réelles (identités réelles résolues)
+└── 📁 **[reel/](./actes/reel/)** — Versions réelles (identités réelles résolues)
 
 📁 **[memory/](./memory/)** — Mémoire persistante pour les agents IA
 
