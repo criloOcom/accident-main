@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#!/usr/bin/env python3
 """Extract legal references from a document and generate Annexe B."""
 
 import re

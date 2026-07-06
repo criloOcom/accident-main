@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # ruff: noqa
 # Copyright 2026 Google LLC
 #
