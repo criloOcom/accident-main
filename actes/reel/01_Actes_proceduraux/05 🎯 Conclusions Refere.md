@@ -77,6 +77,10 @@ L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes
 
 Cependant, les diligences amiables (mises en demeure) sont restées vaines, laissant présumer un défaut d'assurance RC Pro de l'exploitant. Une telle carence constituerait non seulement une entrave à l'action directe, mais également une faute pénale de mise en danger.
 
+### 5. Sur le fondement du droit de la consommation
+
+Le salon de coiffure, en tant que professionnel, est tenu à une obligation d'information précontractuelle (Art. [L.111-1 C.consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650)) et à une garantie de conformité du service fourni (Art. [L.217-1 C.consommation](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032227138/)). La prestation de coiffure réalisée n'était manifestement pas conforme aux exigences de sécurité légitimes d'un consommateur, entraînant un dommage corporel grave. Ce fondement complémentaire renforce l'absence de contestation sérieuse au sens de l'article 835 du Code de procédure civile.
+
 <hr><hr>
 
 ## III. DISPOSITIF

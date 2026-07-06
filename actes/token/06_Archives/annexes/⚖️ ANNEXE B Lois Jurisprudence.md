@@ -69,6 +69,22 @@ Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053](ht
 
 • **[Article R. 123-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046073350)** — Mentions obligatoires sur les documents commerciaux
 
+• **[Article L. 111-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650)** — Obligation d'information précontractuelle
+
+> « Avant que le consommateur ne soit lié par un contrat de vente de biens ou de fourniture de services, le professionnel communique au consommateur, de manière lisible et compréhensible, les informations relatives aux caractéristiques essentielles du bien ou du service. »
+
+• **[Article L. 217-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032227138/)** — Obligation de conformité du service
+
+> « Le professionnel délivre un bien conforme au contrat ainsi qu'aux critères énoncés à l'article L. 217-5. Il répond des défauts de conformité existant lors de la délivrance du bien au sens de l'article L. 217-13. »
+
+## Doctrine — Accidents en salon de coiffure
+
+• **[Article Me J. Plouton — TJ Bordeaux, 4 novembre 2024 (RG 22/05793)](https://www.jplouton-avocat.fr/post/indemnisation-d-une-cliente-brul%C3%A9e-au-cuir-chevelu-lors-d-une-coloration-dans-un-salon-de-coiffure)**
+  Indemnisation de 13 913 € pour une cliente brûlée au cuir chevelu lors d'une coloration dans un salon de coiffure. L'article détaille les postes de préjudice retenus et confirme la tendance jurisprudentielle à retenir la responsabilité du professionnel pour défaut de sécurité.
+
+• **[Synthèse Village Justice](https://www.village-justice.com/articles/coupe-ratee-teinture-loupee-cheveux-brules-abimes-par-une-coloration-reaction,45440.html)**
+  Panorama de jurisprudence sur la responsabilité des salons de coiffure : coupe ratée, teinture loupée, cheveux brûlés. Confirme la responsabilité systématique du salon pour manquement à l'obligation de sécurité, tant sur le fondement civiliste (1240/1242 C.civ.) que sur celui du droit de la consommation.
+
 ## Jurisprudence
 
 • **[Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)** — Faute détachable de ses fonctions du dirigeant

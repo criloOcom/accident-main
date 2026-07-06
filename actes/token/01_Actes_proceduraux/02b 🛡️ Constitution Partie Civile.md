@@ -128,7 +128,11 @@ En l'espece, les fautes separables des dirigeants sont caracterisees par :
 
 Ces fautes, commises personnellement par le President et la Directrice Generale, sont detachables de leurs fonctions sociales et engagent leur responsabilite sur leur patrimoine propre.
 
-### C. Sur le defaut d'assurance de responsabilite civile (L.124-3 C.assur.)
+### C. Sur le fondement du droit de la consommation
+
+Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'information precontractuelle (Art. [L.111-1 C.consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650)) et a une obligation de conformite du service fourni (Art. [L.217-1 C.consommation](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032227138/)). La prestation realisee n'etait manifestement pas conforme aux exigences de securite legitimes d'un consommateur, ce qui constitue un fondement complementaire a l'action civile et renforce l'absence de contestation serieuse.
+
+### D. Sur le defaut d'assurance de responsabilite civile (L.124-3 C.assur.)
 
 L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) dispose :
 
@@ -173,6 +177,7 @@ Par ces motifs, **[La Victime]** sollicite qu'il plaise a Monsieur le Doyen des 
 Vu les articles 2, 3, 85 et suivants du Code de procedure penale,
 Vu les articles 222-19 et 222-20 du Code penal,
 Vu les articles 1240 et 1242 du Code civil,
+Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
 Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu l'article L. 124-3 du Code des assurances,
 Vu la jurisprudence Cass. Com., 20 mai 2003, n° 99-17.092 (arret SATI),

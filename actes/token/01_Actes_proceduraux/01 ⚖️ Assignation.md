@@ -115,7 +115,19 @@ Constitue une faute personnelle séparable des fonctions sociales engageant la r
 
 L'extrême sous-capitalisation de la société (capital social de 200 €), ne lui permettant manifestement pas de faire face à l'indemnisation d'un accident corporel grave, confirme la nécessité de retenir la responsabilité personnelle des dirigeants, seuls garants effectifs de la solvabilité de l'indemnisation.
 
-### B. Sur la demande d'expertise médicale
+### B. Sur le fondement du droit de la consommation
+
+Le salon de coiffure, en tant que professionnel, est tenu à une obligation d'information précontractuelle en application de l'[Article L.111-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650), lequel dispose :
+
+> « Avant que le consommateur ne soit lié par un contrat de vente de biens ou de fourniture de services, le professionnel communique au consommateur, de manière lisible et compréhensible, les informations relatives aux caractéristiques essentielles du bien ou du service. »
+
+En outre, l'[Article L.217-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032227138/) impose une obligation de conformité du service fourni :
+
+> « Le professionnel délivre un bien conforme au contrat ainsi qu'aux critères énoncés à l'article L. 217-5. Il répond des défauts de conformité existant lors de la délivrance du bien au sens de l'article L. 217-13. »
+
+La prestation de coiffure réalisée n'était manifestement pas conforme aux exigences de sécurité légitimes d'un consommateur : le défaut d'entretien de la vasque en céramique (cassure préexistante non signalée) et l'absence d'équipement d'accès adapté (escabeau) constituent un manquement à l'obligation de sécurité inhérente à toute prestation de service relevant du Code de la consommation. Ce fondement complémentaire renforce l'absence de contestation sérieuse de l'obligation à réparation.
+
+### C. Sur la demande d'expertise médicale
 
 L'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) prévoit :
 
@@ -123,7 +135,7 @@ L'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/code
 
 L'état corporel de **[La Victime]** n'étant pas consolidé à ce jour, il est indispensable de faire désigner un expert médical judiciaire afin d'évaluer l'intégralité des préjudices corporels subis.
 
-### C. Sur l'octroi d'une provision financière
+### D. Sur l'octroi d'une provision financière
 
 L'[Article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) énonce :
 
@@ -131,7 +143,7 @@ L'[Article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.go
 
 L'obligation à réparation de **[L'Exploitant du Commerce (La SAS)]** n'étant pas sérieusement contestable au vu du PV de police et des pièces médicales indiscutables, **[La Victime]** est fondé à réclamer le versement d'une provision financière.
 
-### D. Justification du montant de la provision
+### E. Justification du montant de la provision
 
 Le montant de 5 000 € sollicité à titre de provision est justifié par les éléments suivants :
 
@@ -189,6 +201,7 @@ Dans l'attente du dépôt du rapport de l'expert judiciaire, **[La Victime]** so
 
 Vu les articles 145 et 835 du Code de procédure civile,
 Vu les articles 1240 et 1242 du Code civil,
+Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
 Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu les pièces versées aux débats,
 

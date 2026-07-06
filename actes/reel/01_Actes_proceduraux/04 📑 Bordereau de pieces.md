@@ -170,3 +170,7 @@ format: Arial JUSTIFIED
 ## Pièce n° 83
 
 - **Non précisé** — Devis matériels ergonomiques pour Incidence Professionnelle (IP) : Devis logiciel de dictée vocale Dragon Professional, clavier ergonomique scindé, souris verticale. Justification du poste IP à 15 000 €.
+
+## Pièce n° 84
+
+- **04/11/2024** — Article de doctrine Me J. Plouton — TJ Bordeaux (RG 22/05793), brûlure cuir chevelu en salon de coiffure (13 913 €). Illustre la jurisprudence récente sur la responsabilité des salons de coiffure pour manquement à l'obligation de sécurité, tant sur le fondement civiliste que sur celui du droit de la consommation.
