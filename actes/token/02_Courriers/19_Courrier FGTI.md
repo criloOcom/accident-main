@@ -1,6 +1,6 @@
 ---
-titre: Information Conservatoire au Fonds de Garantie des Victimes
-date: 2026-07-05
+titre: Saisine Conservatoire du Fonds de Garantie des Victimes
+date: 2026-07-06
 type: acte
 categorie: procedure
 auteur: La Victime
@@ -8,20 +8,23 @@ destinataire: FGTI
 personnes:
 - La Victime
 - L'Exploitant du Commerce (La SAS)
+- Le President de l'Exploitation
+- La Directrice Generale de l'Exploitation
 tags:
 - FGTI
 - garantie
-- information
+- saisine
 - conservatoire
+- CPC
 - LRAR
 - email
 statut: final
 source: drive
-drive_id: 1rtaTa6scRGc0TmelWNMrX6bN-kqe98b1dhT5OT-qsXc
+drive_id: 13jocmpqETy64lldco9LGCKLJZp_ml_9u53NB7OySmrs
 format: Arial JUSTIFIED
 ---
 
-# INFORMATION CONSERVATOIRE AU FONDS DE GARANTIE DES VICTIMES
+# SAISINE CONSERVATOIRE DU FONDS DE GARANTIE DES VICTIMES
 
 **[L'Adresse de la Victime]**
 
@@ -31,9 +34,9 @@ Courriel : **[L'Email de la Victime]**
 
 **[Adresse à compléter]**
 
-**[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
+**[La Ville de Residence de la Victime]**, le **[J+38 Constitution PC]**
 
-Objet : Information conservatoire — Accident du **[J+0 Accident]** — SAS **[L'Exploitant du Commerce (La SAS)]**
+Objet : Saisine conservatoire — Accident du **[J+0 Accident]** — SAS **[L'Exploitant du Commerce (La SAS)]** — Constitution de partie civile deposee
 
 Ref : SIREN **[SIREN de l'Exploitation]** — Dossier CPAM n° **[N° Dossier CPAM]**
 
@@ -51,9 +54,26 @@ Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm ave
 
 <hr>
 
-- [I — RAPPEL DES FAITS](#i--rappel-des-faits)
-- [II — INDEMNITES SOLLICITEES](#ii--indemnites-sollicitees)
-- [III — DEMANDE D'INFORMATION CONSERVATOIRE](#iii--demande-dinformation-conservatoire)
+- [I — PROCEDURES JUDICIAIRES ENGAGEES](#i--procedures-judiciaires-engagees)
+- [II — RAPPEL DES FAITS](#ii--rappel-des-faits)
+- [III — INDEMNITES SOLLICITEES](#iii--indemnites-sollicitees)
+- [IV — SAISINE CONSERVATOIRE](#iv--saisine-conservatoire)
+
+<hr><hr>
+
+## PROCEDURES JUDICIAIRES ENGAGEES
+
+A la date de la presente, les procedures suivantes ont ete engagees :
+
+1. **Mises en demeure LRAR** (29 juin 2026) : adressees a la SAS et a ses dirigeants, **sans aucun retour** a ce jour.
+
+2. **Assignation en refere-provision** (30 juin 2026) : Tribunal Judiciaire de **[La Ville de l'Accident]**, a l'encontre de la SAS et de ses dirigeants in solidum.
+
+3. **Assignation Article 145 CPC** (5 juillet 2026) : pour communication forcee de la police d'assurance RC.
+
+4. **Constitution de partie civile** (6 juillet 2026) : deposee aupres du Doyen des Juges d'Instruction de **[La Ville de l'Accident]** sur le fondement des articles 222-19 et 222-20 du Code penal.
+
+Ces procedures constituent le prerequis necessaire a une eventuelle saisine du FGTI au titre de l'article 706-3 du Code de procedure penale.
 
 <hr><hr>
 
@@ -93,19 +113,24 @@ Le montant total estime de mon prejudice corporel, selon la nomenclature Dintilh
 
 <hr><hr>
 
-## DEMANDE D'INFORMATION CONSERVATOIRE
+## SAISINE CONSERVATOIRE
 
-Je sollicite par la presente une **information conservatoire** aupres du FGTI pour les motifs suivants :
+Je sollicite par la presente l'ouverture d'un dossier conservatoire aupres du FGTI, pour les motifs suivants :
 
-1. La SAS **[L'Exploitant du Commerce (La SAS)]** est une societe au capital de 200 € ne declarant aucun salarie et ne repondant pas aux sollicitations.
+1. La SAS **[L'Exploitant du Commerce (La SAS)]** est une societe au capital de 200 € ne declarant aucun salarie, ne repondant a aucune sollicitation, et ne justifiant d'aucune assurance RC professionnelle.
 
-2. Aucune information sur l'assurance RC professionnelle de l'etablissement n'a pu etre obtenue.
+2. Une constitution de partie civile a ete deposee ce jour (6 juillet 2026) aupres du Doyen des Juges d'Instruction de **[La Ville de l'Accident]**, ouvrant une information judiciaire du chef de blessures involontaires (Art. 222-19 et 222-20 CP) a l'encontre de la SAS et de ses dirigeants personnels.
 
-3. Il existe un risque que la societe soit dissoute ou fasse l'objet d'une liquidation sans que les victimes puissent faire valoir leurs droits.
+3. Il existe un risque caracterise que la societe, financee a hauteur de 200 € seulement et dirigee par des gerants de paille, soit dissoute ou fasse l'objet d'une liquidation avant l'aboutissement de la procedure, privant la victime de toute indemnisation.
 
-Conformement aux Articles 706-3 et suivants du Code de procedure penale, le FGTI peut etre appele a indemniser les victimes d'infractions lorsque l'auteur est inconnu ou insolvable.
+Conformement aux Articles 706-3 et suivants du Code de procedure penale, le FGTI a vocation a indemniser les victimes d'infractions lorsque l'auteur est inconnu ou insolvable.
 
-Je souhaiterais etre informe des conditions et procedures d'indemnisation par le FGTI dans l'hypothese ou la societe responsable serait insolvable ou non assuree.
+Je sollicite en consequence :
+
+- **L'ouverture d'un dossier conservatoire** a mon nom pour le suivi de cette affaire ;
+- **L'information sur les conditions d'indemnisation** par le FGTI dans l'hypothese d'insolvabilite de la SAS et de ses dirigeants ;
+- **La communication du barème d'indemnisation** et des documents necessaires a la constitution d'un dossier FGTI le cas echeant ;
+- **Toute information** sur le delai de carence et les conditions de recevabilite de ma demande au regard de l'avancement de la procedure penale.
 
 Mes coordonnees : **[L'Adresse de la Victime]** — Courriel : **[L'Email de la Victime]**
 

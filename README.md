@@ -55,6 +55,7 @@ Le dossier repose sur une **double strate de documents** générée par [generat
 |---|----------|-------------|
 | 01 | [01_Assignation.md](./actes/token/01_Actes_proceduraux/01_Assignation.md) | Assignation référé-provision 5 000 € (Art. 835 CPC) |
 | 02 | [02_Plainte.md](./actes/token/01_Actes_proceduraux/02_Plainte.md) | Plainte complémentaire défaut assurance RC |
+| 02b | [02b_Constitution Partie Civile.md](./actes/token/01_Actes_proceduraux/02b_Constitution%20Partie%20Civile.md) | Constitution de partie civile (Art. 222-19/222-20 CP + L.227-8 C.com.) |
 | 03 | [03_Assignation Article 145.md](./actes/token/01_Actes_proceduraux/03_Assignation%20Article%20145.md) | Communication forcée police d'assurance (Art. 145 CPC) |
 | 04 | [04_Bordereau de pieces.md](./actes/token/01_Actes_proceduraux/04_Bordereau%20de%20pieces.md) | Bordereau général (archive) |
 | 04b | [04_Bordereau_Audience.md](./actes/token/01_Actes_proceduraux/04_Bordereau_Audience.md) | Bordereau séquentiel propre (25 pièces) |
@@ -72,7 +73,12 @@ Le dossier repose sur une **double strate de documents** générée par [generat
 | 07 | [Courrier Consolidation.md](./actes/token/02_Courriers/07_Courrier%20Consolidation.md) | Demande certificat consolidation | ✅ Envoyé |
 | 08 | [Courrier Suivi TAVELLA.md](./actes/token/02_Courriers/08_Courrier%20Suivi%20TAVELLA.md) | Suivi mairie | ✅ Envoyé |
 | 09 | [Courrier Inspection Travail.md](./actes/token/02_Courriers/09_Courrier%20Inspection%20Travail.md) | Signalement DDETS/DREETS | ✅ Envoyé |
-| 11-21 | [11_INPI](./actes/token/02_Courriers/11_Courrier%20INPI.md) à [21_CPAM](./actes/token/02_Courriers/21_Relance%20CPAM.md) | Courriers administratifs | ✅ Envoyés |
+| 10 | [Courrier Doyen Juges Instruction.md](./actes/token/02_Courriers/10_Courrier%20Doyen%20Juges%20Instruction.md) | Envoi CPC au Doyen | ✅ Drive |
+| 11-16, 18 | [INPI](./actes/token/02_Courriers/11_Courrier%20INPI.md) à [SDIS](./actes/token/02_Courriers/18_Courrier%20SDIS.md) | Courriers administratifs | ✅ Envoyés |
+| 17 | [Courrier CPAM.md](./actes/token/02_Courriers/17_Courrier%20CPAM.md) | Transmission + bordereau récapitulatif CPAM | ✅ Drive |
+| 19 | [Courrier FGTI.md](./actes/token/02_Courriers/19_Courrier%20FGTI.md) | Saisine conservatoire FGTI | ✅ Drive |
+| 20 | [Relance Police.md](./actes/token/02_Courriers/20_Relance%20Police.md) | Relance police | ✅ Envoyé |
+| 21 | [Relance CPAM.md](./actes/token/02_Courriers/21_Relance%20CPAM.md) | Relance CPAM | ✅ Envoyé |
 | 22 | [Gabarit Attestation Témoin Client.md](./actes/token/02_Courriers/22_Gabarit%20Attestation%20T%C3%A9moin%20Client.md) | Attestation Cerfa | ❌ À transmettre |
 | 23 | [Gabarit Attestation Pompier SAMU.md](./actes/token/02_Courriers/23_Gabarit%20Attestation%20Pompier%20SAMU.md) | Attestation Cerfa | ❌ À transmettre |
 | 24 | [Gabarit Attestation Employé.md](./actes/token/02_Courriers/24_Gabarit%20Attestation%20Employ%C3%A9.md) | Attestation Cerfa | ❌ À transmettre |
@@ -103,6 +109,7 @@ Le dossier repose sur une **double strate de documents** générée par [generat
 | [00_Index.md](./actes/token/05_Organisation/00_Index.md) | Index des documents |
 | [10_Plan action.md](./actes/token/05_Organisation/10_Plan%20action.md) | Plan d'action |
 | [11_Calendrier procedural.md](./actes/token/05_Organisation/11_Calendrier%20procedural.md) | Calendrier procédural |
+| [20_Bon envoi physique.md](./actes/token/05_Organisation/20_Bon%20envoi%20physique.md) | Bon d'envoi physique — checklist impression/envoi |
 
 ---
 
