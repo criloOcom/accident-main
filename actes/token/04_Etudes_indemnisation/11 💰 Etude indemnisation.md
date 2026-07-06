@@ -94,7 +94,7 @@ Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un 
 
 - **Déficit Fonctionnel Permanent (DFP)** : Indemnise l'atteinte aux fonctions physiologiques. Basé sur un taux estimé de 12% pour une victime de 44 ans, l'indemnité est projetée à 25 200 €.
 
-- **Souffrances Endurées** : Évaluées à 4/7 (choc, microchirurgie SOS Main, rééducation). Estimation : 12 000 €.
+- **Souffrances Endurées** : Évaluées à 4/7 (choc, microchirurgie SOS Main, rééducation). Estimation : 12 000 €, dans la fourchette haute du Référentiel Indicatif Mornet pour une cotation 4/7 en région Occitanie.
 
 - **Préjudice d'Agrément** : Répare l'impossibilité de pratiquer des loisirs (guitare, projets personnels de codage). Estimation : 3 000 €.
 

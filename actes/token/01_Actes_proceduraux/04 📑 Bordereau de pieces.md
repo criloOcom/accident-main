@@ -169,7 +169,7 @@ format: Arial JUSTIFIED
 
 ## Pièce n° 83
 
-- **Non précisé** — Devis matériels ergonomiques pour Incidence Professionnelle (IP) : Devis logiciel de dictée vocale Dragon Professional, clavier ergonomique scindé, souris verticale. Justification du poste IP à 15 000 €.
+- **Devis chiffré** — Devis matériels ergonomiques pour Incidence Professionnelle (IP) : Devis logiciel de dictée vocale Dragon Professional, clavier ergonomique scindé, souris verticale. Justification du poste IP à 15 000 €.
 
 ## Pièce n° 84
 
