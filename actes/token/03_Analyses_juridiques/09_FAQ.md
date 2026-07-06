@@ -143,7 +143,7 @@ La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jour
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
 
-Une étape cruciale est fixée au **[J+167 Expertise UMJ]** pour l'expertise médicale à l'UMJ de Purpan, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à 59 600 €).
+Une étape cruciale est fixée au **[J+167 Expertise UMJ]** pour l'expertise médicale à l'UMJ de **[La Métropole Régionale]**, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à 59 600 €).
 
 À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation ([Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112)).
 

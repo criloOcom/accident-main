@@ -4,7 +4,7 @@ date: 2026-07-05
 type: acte
 categorie: procedure
 auteur: La Victime
-destinataire: Police Nationale de Foix
+destinataire: Police Nationale de **[La Ville de l'Accident]**
 personnes:
 - L'Exploitant du Commerce
 - La Victime
@@ -27,7 +27,7 @@ format: Arial JUSTIFIED
 
 Courriel : **[L'Email de la Victime]**
 
-**Police Nationale — Commissariat de Foix**
+**Police Nationale — Commissariat de **[La Ville de l'Accident]****
 
 **[Adresse à compléter]**
 

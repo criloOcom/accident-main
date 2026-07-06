@@ -124,7 +124,7 @@ Cette voie est subsidiaire : elle ne se substitue pas à l'action directe contre
 
 ## 4. Évaluation des préjudices
 
-L'évaluation des préjudices subis par **[La Victime]**, informaticien indépendant (SIRET 500 474 457, chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :
+L'évaluation des préjudices subis par **[La Victime]**, informaticien indépendant (SIREN **[L'Identifiant Professionnel de la Victime]**, chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :
 
 | Poste de préjudice | Montant |
 |--------------------|---------|

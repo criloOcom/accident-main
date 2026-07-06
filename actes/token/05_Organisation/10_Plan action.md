@@ -67,7 +67,7 @@ Par ailleurs, si la société persiste dans son refus de communiquer les coordon
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
-Le second semestre 2026 sera consacré au suivi de l'expertise (notamment le passage à l'UMJ de Purpan le **[J+167 Expertise UMJ]**) et à la rédaction des conclusions de partie civile.
+Le second semestre 2026 sera consacré au suivi de l'expertise (notamment le passage à l'UMJ de **[La Métropole Régionale]** le **[J+167 Expertise UMJ]**) et à la rédaction des conclusions de partie civile.
 
 L'aboutissement prévu est une assignation au fond en septembre pour obtenir un jugement définitif de condamnation de l'assureur d'ici décembre 2026.
 
@@ -119,7 +119,7 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 
 ## Services Juridiques et de Santé
 
-- Ordre des Avocats de **[La Ville de l'Accident]** (05 61 65 00 10) / Huissiers : Étude LAPORTE (05 61 65 70 70) / UMJ Hôpital de Purpan (**[La Métropole Régionale]**).
+- Ordre des Avocats de **[La Ville de l'Accident]** (05 61 65 00 10) / Huissiers : Étude LAPORTE (05 61 65 70 70) / UMJ de **[La Métropole Régionale]**.
 
 **Note administrative :** Dès le 1**[J+37 Assignation 145]** (le lendemain de la fin du délai amiable de mise en demeure), délivrance immédiate de l'assignation en référé par commissaire de justice, matérialisant la fin de la phase comminatoire amiable.
 

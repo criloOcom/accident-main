@@ -4,7 +4,7 @@ date: 2026-07-05
 type: acte
 categorie: procedure
 auteur: La Victime
-destinataire: Service des Impots des Entreprises de Foix
+destinataire: Service des Impôts des Entreprises de **[La Ville de l'Accident]**
 personnes:
 - La Victime
 - L'Exploitant du Commerce
@@ -26,7 +26,7 @@ format: Arial JUSTIFIED
 
 Courriel : **[L'Email de la Victime]**
 
-**Service des Impots des Entreprises de Foix**
+**Service des Impôts des Entreprises de **[La Ville de l'Accident]****
 
 **[Adresse à compléter]**
 

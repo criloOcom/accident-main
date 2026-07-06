@@ -19,13 +19,13 @@ Chaque courrier a un objectif précis : obtenir des informations, mettre en deme
 | **04** | **[Courrier Assureur](04_Courrier%20Assureur.md)** | Assureur RC de l'exploitation | Action directe sur le fondement de l'**Art. L.124-3** C. assur. |
 | **05** | **[Courrier Propriétaire](05_Courrier%20Proprietaire.md)** | `Le Propriétaire des Murs` | Demande de communication de l'assurance RC du local commercial |
 | **06** | **[Courrier Président DG](06_Courrier%20President%20DG.md)** | `Le Président de l'Exploitation` | Mise en demeure aux dirigeants, fondée sur l'**Arrêt SATI** |
-| **07** | **[Courrier Consolidation](07_Courrier%20Consolidation.md)** | Dr DJERBI (chirurgien) | Demande de certificat médical de consolidation |
+| **07** | **[Courrier Consolidation](07_Courrier%20Consolidation.md)** | `Le Chirurgien SOS Main` | Demande de certificat médical de consolidation |
 
 ### Signalements administratifs
 
 | # | Document | Destinataire | Objet |
 |---|----------|--------------|-------|
-| **08** | **[Suivi TAVELLA](08_Courrier%20Suivi%20TAVELLA.md)** | Adjoint au maire | Relance Inspection du Travail + CODAF |
+| **08** | **[Suivi Adjoint Maire](08_Courrier%20Suivi%20Adjoint%20Maire.md)** | Adjoint au maire | Relance Inspection du Travail + CODAF |
 | **09** | **[Inspection Travail](09_Courrier%20Inspection%20Travail.md)** | DDETS/DREETS | Demande d'enquête sur les conditions de travail |
 | **11** | **[INPI](11_Courrier%20INPI.md)** | INPI | Signalement de litige au Registre National des Entreprises |
 | **12** | **[URSSAF](12_Courrier%20URSSAF.md)** | URSSAF | Signalement de travail dissimulé présumé |

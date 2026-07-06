@@ -89,7 +89,7 @@ Les manquements suivants sont susceptibles de relever de la competence du CODAF 
 **4. Fraude potentielle aux declarations**
 - Capital social de 200 € pour une activite commerciale
 - Possibilite de sous-capitalisation volontaire pour limiter la responsabilite
-- Dissociation entre siege social (Foix) et domiciliation des dirigeants (Foix et Toulouse)
+- Dissociation entre siege social (**[La Ville de l'Accident]**) et domiciliation des dirigeants (**[La Ville de l'Accident]** et **[La Métropole Régionale]**)
 
 <hr><hr>
 

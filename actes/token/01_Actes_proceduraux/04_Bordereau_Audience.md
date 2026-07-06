@@ -52,8 +52,8 @@ format: Arial JUSTIFIED
 
 ### Pièce n° 5
 
-- **[J+4 Dépôt de plainte]** — Réquisition judiciaire à personne (Police Nationale, Agent **[Agent PJ, dépôt de plainte]**) : Réquisition pour examen médical par l'UMJ de Purpan sur le fondement des Art. 41 et 77-1 CPP. Rendez-vous fixé au **[J+167 Expertise UMJ]** à 13h45**.
-- **[J+4 Dépôt de plainte]** — Retranscription téléphonique de la prise de rendez-vous UMJ : Confirmation du rendez-vous du **[J+167 Expertise UMJ]** à Purpan, instructions sur les documents à apporter.
+- **[J+4 Dépôt de plainte]** — Réquisition judiciaire à personne (Police Nationale, Agent **[Agent PJ, dépôt de plainte]**) : Réquisition pour examen médical par l'UMJ de **[La Métropole Régionale]** sur le fondement des Art. 41 et 77-1 CPP. Rendez-vous fixé au **[J+167 Expertise UMJ]** à 13h45**.
+- **[J+4 Dépôt de plainte]** — Retranscription téléphonique de la prise de rendez-vous UMJ : Confirmation du rendez-vous du **[J+167 Expertise UMJ]** à **[La Métropole Régionale]**, instructions sur les documents à apporter.
 
 ---
 
