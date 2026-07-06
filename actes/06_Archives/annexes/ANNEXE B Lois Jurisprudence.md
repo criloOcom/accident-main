@@ -60,7 +60,7 @@ Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](ht
 
 > « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. »
 
-• **[Article L. 237-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046073350)** — Survie de la personnalité morale pour la liquidation
+• **[Article L. 237-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063)** — Survie de la personnalité morale pour la liquidation
 
 • **Article L. 421-3 du Code de la consommation** — Obligation générale de sécurité des services
 Lien : [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053)

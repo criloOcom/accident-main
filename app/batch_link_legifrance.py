@@ -119,7 +119,7 @@ REPLACEMENTS = [
     (r"(?<!\]\()L'article L\. 124-3 du Code des assurances",
      link("LEGIARTI000017735449", "L'article L. 124-3 du Code des assurances")),
     (r"(?<!\]\()L'article L\. 227-8 du Code de commerce",
-     link("LEGIARTI000006226329", "L'article L. 227-8 du Code de commerce")),
+     link("LEGIARTI000006227036", "L'article L. 227-8 du Code de commerce")),
     (r"(?<!\]\()article 145 du Code de procédure civile",
      link("LEGIARTI000051869339", "article 145 du Code de procédure civile")),
     (r"(?<!\()\(article L\. 113-2, 4° du Code des assurances\)",
@@ -151,7 +151,7 @@ REPLACEMENTS = [
     (r"(?<!\]\()arrêt SATI",
      link("JURITEXT000007047369", "arrêt SATI")),
     (r"(?<!\]\()L'article L\. 227-8 du Code de commerce",
-     link("LEGIARTI000006226329", "L'article L. 227-8 du Code de commerce")),
+     link("LEGIARTI000006227036", "L'article L. 227-8 du Code de commerce")),
     (r"(?<!\]\()l'article L\. 124-3 du Code des assurances",
      link("LEGIARTI000017735449", "l'article L. 124-3 du Code des assurances")),
     (r"(?<!\]\()l'article 145 du Code de procédure civile",
@@ -231,7 +231,6 @@ def fix_annexe_b_wrong_ids(text):
         "LEGIARTI000006647394": "LEGIARTI000045268436",
         "LEGIARTI000022537549": "LEGIARTI000038837071",
         "LEGIARTI000006447928": "LEGIARTI000006226329",
-        "LEGIARTI000006230063": "LEGIARTI000046073350",
     }
     # Also fix R.123-2 which currently has L.237-2's ID
     for wrong, correct in wrong_ids.items():
