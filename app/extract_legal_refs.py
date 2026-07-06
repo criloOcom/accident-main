@@ -41,6 +41,7 @@ LEGAL_REFS = {
     "CCASS.21-14.197": {"title": "Civ. 2e, 15 juin 2023, n° 21-14.197", "desc": "Réparation intégrale et transactions", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000047700832"},
     "CCASS.19-15.659": {"title": "Civ. 2e, 28 mai 2020, n° 19-15.659", "desc": "Assiette de recours des tiers payeurs", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000041999264"},
     "CCASS.20-18-17.868": {"title": "Civ. 2e, 6 février 2020, n° 18-17.868", "desc": "Interruption de prescription par le référé-communication", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000041585779"},
+    "CCASS.91-11.285": {"title": "Cass. Com., 26 janvier 1993, n° 91-11.285", "desc": "Survie de la personnalité morale d'une société dissoute pour les besoins de sa liquidation", "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000007030228"},
 }
 
 def extract_legal_refs(text):
