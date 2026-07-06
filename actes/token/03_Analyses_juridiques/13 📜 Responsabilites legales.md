@@ -93,6 +93,14 @@ Conformément à l'[Article 1242 alinéa 1er du Code civil](https://www.legifran
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
+**Jurisprudence clé — Fondement de l'action** : L'arrêt [Civ. 2e, 13 février 1991, n° 89-18.422](../../../lois/89-18.422_CourCassation.md) est le cas le plus proche : une échelle installée par un préposé bascule et blesse un tiers. La Cour retient que le **basculement** établit le fait de la chose et que le gardien ne peut s'exonérer qu'en prouvant une cause étrangère. Dans notre cas, la vasque a basculé et s'est brisée — le même mécanisme s'applique.
+
+**Vice inhérent non exonératoire** : L'arrêt [Civ. 2e, 5 mai 1975, n° 74-10.466](../../../lois/74-10.466_CourCassation.md) pose un principe essentiel : le vice inhérent à la chose (la cassure préexistante de la vasque) ne constitue **jamais** un cas fortuit ou de force majeure exonératoire pour le gardien. La défense ne peut donc pas invoquer la fissure pour s'exonérer.
+
+**Charge de la preuve** : L'arrêt [Civ. 2e, 5 mai 1993, n° 91-15.035](../../../lois/91-15.035_CourCassation.md) rappelle que la preuve de la position anormale ou du mauvais état incombe à la victime. Cette preuve est rapportée en l'espèce par le constat d'huissier (cassure préexistante) et le PV de police (basculement).
+
+**Distinction utile** : L'arrêt [Civ. 2e, 25 novembre 1992, n° 91-13.580](../../../lois/91-13.580_CourCassation.md) illustre le rejet d'une demande faute de preuve de position anormale — la barrière endommagée était conforme aux normes. Notre situation est inverse : la preuve du mauvais état et du basculement est établie.
+
 En tant que propriétaire du matériel, le salon est présumé responsable des dommages causés par la dangerosité de la vasque défectueuse.
 
 ### B. Responsabilité du commettant du fait de ses préposés
@@ -152,14 +160,53 @@ Le juge ordonnera alors la communication forcée de l'attestation d'assurance de
 
 *[Zoom Pédagogique - Le refus de fournir l'assurance est-il légal ? : Non. La loi interdit au responsable de bloquer vos droits. Si le gérant fait obstruction, le tribunal peut le condamner à vous fournir son attestation d'assurance sous peine d'amendes journalières (astreinte). C'est une procédure classique de référé pour vaincre la mauvaise foi.]*
 
+## IV. RECOUVREMENT — QUI PAIE EN CAS D'INSOLVABILITÉ ?
+
+⚠ **La SAS LES MAUVAIS GARÇONS a un capital social de 200 € seulement.** Le risque d'insolvabilité est maximal. Voici les voies de recouvrement par ordre de priorité.
+
+### A. Action directe contre l'assureur RC (L.124-3 C. Assurances)
+
+Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe est **indépendante** de l'action contre l'assuré (Cass. 3e civ., 11 mai 2022, n° 21-12.478). Même si la SAS disparaît, l'action subsiste contre l'assureur.
+
+**Méthodes pour identifier l'assureur :**
+- Consultation RNE/INPI
+- Saisine greffe TC Foix
+- Interrogation ORIAS
+- Questionnement des dirigeants sous astreinte (art. 145 CPC)
+
+### B. FGTI / CIVI — VOIE PRINCIPALE (art. 706-3 CPP)
+
+**Conditions remplies :**
+1. Infraction pénale (blessures involontaires, art. 222-19 CP) — ITT 56 jours > seuil 1 mois ✅
+2. Auteur insolvable (capital 200 €) ✅
+3. Victime personne physique, française ✅
+4. Hors champ Badinter et ONIAM ✅
+
+**Procédure :**
+- Délai : 3 ans à compter de l'infraction (29 mai 2029)
+- Saisine de la CIVI du TJ de Toulouse ou Foix
+- Offre du FGTI sous 2 mois
+- **Réparation intégrale** du préjudice corporel
+- Le FGTI se retourne ensuite contre les responsables (subrogation)
+
+### C. Responsabilité personnelle des dirigeants (voie subsidiaire)
+
+Faute détachable des fonctions (Cass. com., 20 mai 2003, n° 99-17.092 — arrêt SATI) : maintien d'un équipement dangereux, défaut d'assurance RC, dissolution frauduleuse éventuelle. **Difficile à caractériser** mais à tenter.
+
+### D. SARVI (Service d'Aide au Recouvrement)
+
+Si condamnation pénale non exécutée : verse 100 % jusqu'à 1 000 €, 30 % au-delà (max 3 000 €).
+
+### E. Ordre des actions recommandé
+
+1. **Référé-provision** (15 000 €) + communication assurance
+2. **Expertise UMJ** 12 novembre 2026
+3. **Assignation au fond** contre SAS + assureur (si identifié)
+4. **Saisine CIVI** si insolvabilité confirmée → indemnisation FGTI
+5. **Constitution partie civile** (voie pénale)
+
 ## CONCLUSION
 
-La responsabilité de **[L'Exploitant du Commerce (La SAS)]** est solidement établie tant sur le plan civil que pénal.
+La responsabilité de **[L'Exploitant du Commerce (La SAS)]** est solidement établie tant sur le plan civil que pénal. Le montant total estimé de l'indemnisation est de **~105 000 €** (évaluation Dintilhac détaillée).
 
-L'étape suivante consiste à :
-
-- Formaliser les demandes d'indemnisation via une mise en demeure de l'assureur.
-
-- Et, si nécessaire, une action en justice pour faute détachable contre les dirigeants.
-
-Garantir l'exécution des obligations de réparation.
+La difficulté centrale est le **recouvrement** : capital social de 200 € seulement. La voie principale est la **saisine de la CIVI** pour obtenir l'indemnisation via le FGTI, qui contourne l'insolvabilité de la SAS. Les dirigeants doivent être mis en cause personnellement dès maintenant. L'action directe contre l'assureur RC, s'il est identifié, reste la voie la plus rapide.

@@ -20,6 +20,7 @@ statut: final
 source: drive
 drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
 format: Arial JUSTIFIED
+notes: Version Glose produite le 07/07/2026 — voir reports/expertise/20260707 Mémoire juridique Glose.md
 ---
 
 # CONSTITUTION DE PARTIE CIVILE
@@ -88,7 +89,7 @@ L'[Article 222-19 du Code penal](https://www.legifrance.gouv.fr/codes/article_lc
 
 En l'espece :
 
-- **La maladresse et l'imprudence** sont caracterisees par le fait de laisser un employe monter sur une vasque en ceramique instable et cassee, faute d'equipement d'acces adapte (escabeau).
+- **La maladresse et l'imprudence** sont caracterisees par le fait de laisser un employe monter sur une vasque en ceramique instable et cassee, faute d'equipement d'acces adapte (escabeau), en violation des articles R. 4323-58 et suivants du Code du travail imposant la mise a disposition d'equipements de travail en hauteur.
 - **Le manquement a une obligation de securite** resulte de l'absence de signalement et de protection de la cassure preexistante aux aretes tranchantes de la vasque, constituant un danger manifeste pour la clientele.
 - **L'inobservation des regles de securite** applicables aux ERP (etablissements recevant du public) est caracterisee par le defaut d'entretien du materiel et l'absence de verification des installations.
 
@@ -138,7 +139,7 @@ L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes
 
 > « Le tiers lese dispose d'un droit d'action directe a l'encontre de l'assureur garantissant la responsabilite civile de la personne responsable. »
 
-En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement de l'[Article 706-3 du Code de procedure penale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625), pourra etre saisi pour assurer l'indemnisation de la victime a defaut d'assureur.
+En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles [706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625) et [706-14](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577667) du Code de procedure penale, pourra etre directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente constitution de partie civile sollicite formellement la designation du FGTI comme garant subrogatoire.
 
 <hr><hr>
 
@@ -153,8 +154,9 @@ Les prejudices subis par **[La Victime]** sont graves et durables :
 | Deficit fonctionnel permanent | A evaluer apres expertise |
 | Souffrances endurées | A evaluer apres expertise |
 | Incidence professionnelle | Informaticien independant — main dominante |
-| Prejudice esthetique | Cicatrice palmaire de 8,5 cm |
-| Total estime | 59 600 € |
+| Prejudice esthetique permanent (PEP) | Cicatrice palmaire de 8,5 cm |
+| Devalorisation professionnelle future (DEP) | Perte de clientele et de competitivite |
+| Total estime | 59 600 € (a parfaire apres expertise) |
 
 <hr><hr>
 
@@ -175,11 +177,13 @@ Par ces motifs, **[La Victime]** sollicite qu'il plaise a Monsieur le Doyen des 
 ## PAR CES MOTIFS
 
 Vu les articles 2, 3, 85 et suivants du Code de procedure penale,
-Vu les articles 222-19 et 222-20 du Code penal,
+Vu les articles 222-19 et 222-20 du Code penal (ce dernier confirme en vigueur depuis le 19 mai 2011, LEGIARTI000024042640),
 Vu les articles 1240 et 1242 du Code civil,
+Vu les articles R. 4323-58 et suivants du Code du travail,
 Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
 Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu l'article L. 124-3 du Code des assurances,
+Vu les articles 706-3 et 706-14 du Code de procedure penale,
 Vu la jurisprudence Cass. Com., 20 mai 2003, n° 99-17.092 (arret SATI),
 Vu les pieces versees aux debats,
 

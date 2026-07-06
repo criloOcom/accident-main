@@ -42,7 +42,13 @@ Chaque fichier est une fiche dédiée, conservant le texte intégral ou un extra
 | [20-16.463](20-16.463_CourCassation.md) | **Civ. 1re, 8 décembre 2021** | Action directe, dissolution société |
 | [21-14.197](21-14.197_CourCassation.md) | **Civ. 2e** | Préjudice corporel |
 | [22-19.307](22-19.307_CourCassation.md) | **Civ. 2e, 4 avril 2024** | Réserve d'aggravation |
-| [23-12.369](23-12.369_CourCassation.md) | **Civ. 2e** | Évaluation préjudice |
+ | [23-12.369](23-12.369_CourCassation.md) | **Civ. 2e** | Évaluation préjudice |
+| [70-12.124](70-12.124_CourCassation.md) | **Civ. 2e, 23 fév. 1972** — Arrêt *Leroy* | Baignoire passive exposée à la vente — à distinguer |
+| [74-10.466](74-10.466_CourCassation.md) | **Civ. 2e, 5 mai 1975** | Vice inhérent ≠ cause d'exonération |
+| [89-18.422](89-18.422_CourCassation.md) | **Civ. 2e, 13 fév. 1991** | Échelle qui bascule = instrument du dommage |
+| [91-13.580](91-13.580_CourCassation.md) | **Civ. 2e, 25 nov. 1992** | Chose inerte — position anormale à prouver |
+| [91-15.035](91-15.035_CourCassation.md) | **Civ. 2e, 5 mai 1993** | Charge preuve instrument du dommage (chose inerte) |
+| [24-21.702](24-21.702_CourCassation.md) | **Civ. 2e, 28 mai 2026** | Échelle instable — preuve position anormale insuffisante |
 
 ## 📁 PDFs
 

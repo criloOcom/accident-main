@@ -1,4 +1,128 @@
-# STATUT D'AVANCEMENT — 6 juillet 2026
+# STATUT D'AVANCEMENT — 7 juillet 2026
+
+## Phase 11 — Ajustements post-analyse critique Glose (7 juillet 2026) ✅
+
+### Ce qui a été fait
+- **3e analyse reçue** : critique du mémoire Glose par un tiers indépendant, validant nos montants Dintilhac contre l'évaluation trop conservative de Glose
+- **Art. 222-20 CP vérifié** : LEGIARTI000024042640, en vigueur depuis le 19 mai 2011 — l'alerte était infondée, pas de changement nécessaire
+- **05 Conclusions Refere.md mis à jour** :
+  - Provision portée à **15 000 €** (PGPA 1 380 + frais méd. 5 000 + SE 5 000 + IP 1 620 + art. 700 2 000)
+  - Art. **R. 4323-58 CT** ajouté comme fondement complémentaire (norme impérative sécurité accès hauteur)
+  - Tableau comparatif enrichi (3 colonnes : antérieure / Glose / finale)
+- **02b Constitution PC.md mis à jour** :
+  - R. 4323-58 CT ajouté dans la caractérisation de la faute
+  - Art. **706-14 CPP** ajouté (saisine directe FGTI par la partie civile)
+  - **PEP** et **DEP** ajoutés au tableau des préjudices
+  - Visas enrichis (R.4323-58, 706-14, confirmation 222-20)
+- **12 Évaluation Dintilhac.md enrichi** : section 8 (3e analyse + DEP + tableau 3 voies + provision 15 000 € justifiée)
+- **STRICT VARIABLES.md** : DEP ajouté (3 000 €)
+
+### Ajustements chiffrés finaux
+
+| Poste | Avant | Après Phase 11 |
+|---|---|---|
+| DEP | *(absent)* | **3 000 €** |
+| Provision référé | 8 000 € (Glose) | **15 000 €** |
+| Art. R. 4323-58 CT | *(aucun acte)* | Référé + PC |
+| Art. 706-14 CPP | *(absent)* | Constitution PC |
+| **Total Dintilhac** | ~105 000 € (nôtre) / ~45 000 € (Glose) | **~90 000 € (compromis)** |
+
+### Fichiers modifiés/créés
+- `reports/expertise/20260707 Analyse critique Glose.md` — NOUVEAU
+- `05 🎯 Conclusions Refere.md` — MIS À JOUR (provision, R.4323-58, tableau)
+- `02b 🛡️ Constitution Partie Civile.md` — MIS À JOUR (R.4323-58, 706-14, PEP, DEP)
+- `12 Évaluation Dintilhac détaillée.md` — MIS À JOUR (section 8)
+- `STRICT VARIABLES.md` — MIS À JOUR (DEP ajouté)
+
+## Phase 10 — Intégration mémoire juridique externe (Glose, 7 juillet 2026) ✅
+
+### Ce qui a été fait
+- **Mémoire juridique complet reçu** d'un assistant juridique externe (Glose) :
+  - Analyse stratégique complète (responsabilités, acteurs, chronologie)
+  - Évaluation financière conservative : **~45 000 € médian** (fourchette 28 000-65 000 €)
+  - Conclusions de référé-provision : **8 000 €** (PGPA 1 380 + frais méd. 3 000 + SE 3 000 + art. 700 2 000)
+  - Constitution de partie civile rédigée
+- **Comparaison systématique faite** entre notre évaluation (105 000 €) et l'évaluation Glose (45 000 €)
+- **Fichiers créés** :
+  - `reports/expertise/20260707 Mémoire juridique Glose.md` — mémoire complet sauvegardé
+- **Fichiers mis à jour** :
+  - `05 🎯 Conclusions Refere.md` — remplacé par la version Glose (provision 8 000 €, astreinte 100 €/jour, art. 145 communication assurance)
+  - `12 Évaluation Dintilhac détaillée.md` — section 7 ajoutée (comparaison + compromis à ~85 000 €)
+  - `STRICT VARIABLES.md` — trois niveaux de montants (optimiste, conservative, compromis) + plafonds FGTI (3 000 €) et SARVI
+  - `02b 🛡️ Constitution Partie Civile.md` — note de référence ajoutée
+
+### Écarts clés entre les deux évaluations
+
+| Poste | Notre estimation | Glose (médian) | Compromis |
+|---|---|---|---|
+| PGPA | 1 900 € | 1 380 € | 1 380 € |
+| DFT | 1 400 € | *(inclus)* | 1 400 € |
+| DFP | 31 200 € (12%) | 25 000 € (8%) | **25 000 € (10%)** |
+| SE (4/7) | 24 000 € | 8 500 € | **15 000 €** |
+| IP | 30 000 € | 2 250 € | **30 000 €** |
+| Agrément | 8 000 € | 3 500 € | **5 000 €** |
+| PEP | 3 000 € | *(inclus)* | 3 000 € |
+| Frais divers | 2 000 € | 3 500 € | 3 000 € |
+| Art. 700 | 4 000 € | 2 250 € | 3 000 € |
+| **Total** | **~105 000 €** | **~45 000 €** | **~85 000 €** |
+
+### Corrections apportées d'après le mémoire Glose
+1. **PGPA plus précis** : 56/30,44 au lieu de 56/30
+2. **FGTI provision max 3 000 €** (art. L.422-7 CA) — plafond documenté
+3. **Référé-communication distinct** (art. 145 CPC) pour forcer révélation assureur
+4. **Bail commercial** : clé pour faute détachable → réquisition au propriétaire
+5. **Provision référé ajustée** : 8 000-10 000 € (au lieu de 15 000 €)
+
+### State final
+- `reports/expertise/` : 1 mémoire externe
+- `lois/`, `reports/ordalie/` : inchangé
+- `actes/token/` : 05 Conclusions Refere mis à jour
+
+## Phase 8 — Recherche et intégration jurisprudence fait générateur (7 juillet 2026) ✅
+
+### Ce qui a été fait
+- **6 fiches jurisprudence créées** dans `lois/` avec texte intégral vérifié (Légifrance + Judilibre) et transposition au cas concret :
+  - [70-12.124](lois/70-12.124_CourCassation.md) — Civ. 2e, 23 fév. 1972, Arrêt *Leroy* (baignoire passive exposée à la vente — à DISTINGUER de notre vasque installée à demeure)
+  - [74-10.466](lois/74-10.466_CourCassation.md) — Civ. 2e, 5 mai 1975 (vice inhérent ≠ cause d'exonération — arrêt de principe essentiel)
+  - [89-18.422](lois/89-18.422_CourCassation.md) — Civ. 2e, 13 fév. 1991 (échelle qui bascule = instrument du dommage — ARRÊT DE TÊTE quasi identique à notre cas)
+  - [91-13.580](lois/91-13.580_CourCassation.md) — Civ. 2e, 25 nov. 1992 (chose inerte — position anormale à prouver — distinction : notre preuve est rapportée)
+  - [91-15.035](lois/91-15.035_CourCassation.md) — Civ. 2e, 5 mai 1993 (charge preuve instrument du dommage chose inerte — notre preuve remplit la condition)
+  - [24-21.702](lois/24-21.702_CourCassation.md) — Civ. 2e, 28 mai 2026 (échelle instable — preuve position anormale insuffisante — distinction : basculement établi par PV police)
+- **lois/README.md mis à jour** : tableau jurisprudence enrichi des 6 nouvelles entrées (22 → 28 entrées)
+- **14 Stratégie jurisprudentielle créée** : mapping arrêt → fait concret, hiérarchie argumentative (3 piliers), anticipation moyens défense, forces/faiblesses
+- **13 Responsabilites legales.md enrichi** : section II.A complétée avec les 4 arrêts clés (89-18.422, 74-10.466, 91-15.035, 91-13.580) + liens vers fiches
+
+### Arrêts vérifiés via API (aucune hallucination)
+| N° pourvoi | ID Judilibre / JURITEXT | Vérifié |
+|-----------|------------------------|---------|
+| 70-12.124 | JURITEXT000006987399 | ✅ Légifrance |
+| 74-10.466 | JURITEXT000006993485 | ✅ Légifrance |
+| 89-18.422 | 60794c629ba5988459c455b7 | ✅ Judilibre |
+| 91-13.580 | 60794c839ba5988459c45c06 | ✅ Judilibre |
+| 91-15.035 | 60794c849ba5988459c45d28 | ✅ Judilibre |
+| 24-21.702 | JURITEXT000054167506 | ✅ Légifrance |
+
+### Corrections apportées par rapport au plan initial
+- **69-11.292** (table bascule magasin) : **non trouvé** dans les API — retiré du plan
+- **11 janv. 1995** (principe chose inerte) : non localisé précisément dans Judilibre (2058 résultats pour la période) — le principe est déjà posé par 91-13.580 (25 nov. 1992) et 91-15.035 (5 mai 1993), doublon avec 03-11.730 (25 nov. 2004)
+- **Arrêt 70-12.124** : correction date (23 fév. 1972, pas 13 oct. 1971) et solution (Rejet, pas Cassation)
+
+### Injection Drive
+- **Dossier `03_Analyses_juridiques` créé** sur Drive dans `02_Courriers/` (ID : `1tpRmEQBD557iVaiJvSV0M4PKN7qW8k_V`)
+- **[13 📜 Responsabilites legales](https://docs.google.com/document/d/14Oq4J4mrOZlOOdBa9EW3QUoJTGMJuqQOhT_N8MEqJiI)** injecté + JUSTIFIED
+- **[14 Stratégie jurisprudentielle](https://docs.google.com/document/d/1og92FWzCcIphxtFGGFsxvnjx3u82p8yUDOFA9eKFBi4)** injecté + JUSTIFIED
+
+### Arrêts complémentaires ordalie — VÉRIFIÉS, TOUS HORS SUJET
+| Suggéré par ordalie | Réel | Conclusion |
+|---|---|---|
+| 88-14.601 (Belmonte, Civ2, 12 juil 1990) | Civ1, 24 jan 1990 — liquidation communauté, lingots d'or | **Hors sujet** |
+| 99-19.590 (défaut d'entretien) | Civ2, 5 juil 2001 — prestation compensatoire divorce | **Hors sujet** |
+| 01-14.506 (Kessas, limites mission préposé) | Civ1, 13 juil 2004 — tutelle/curatelle, art.6 CEDH | **Hors sujet** |
+
+### State final
+- `lois/` : 22 jurisprudences + 17 articles de loi = 39 fichiers
+- `actes/token/03_Analyses_juridiques/` : 6 analyses (07, 09, 12, 13, 14 + README)
+- Drive `03_Analyses_juridiques/` : 2 documents (13, 14)
 
 ## Phase 6-10 — Corrections audit + scellement (6 juillet 2026) ✅
 

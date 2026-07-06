@@ -12,20 +12,58 @@
 - EMAIL : **[L'Email de la Victime]**
 - SIREN : **[L'Identifiant Professionnel de la Victime]**
 
-## Montants financiers
-- MONTANT_PROVISION_REFERE : 5 000 € (demande judiciaire en référé)
-- MONTANT_PROVISION_AMIABLE : 15 000 € (demande amiable en mise en demeure)
-- MONTANT_ARTICLE_700 : 3 000 €
-- MONTANT_TOTAL_ESTIME : 59 600 € (selon tableau détaillé : PGPA 1 400 + IP 15 000 + DFP 25 200 + SE 12 000 + Agrément 3 000 + Art.700 3 000)
-- CA_MENSUEL_MOYEN : 750 € (déclaré URSSAF, CA annuel 9 000 € net)
-- PGPA : 1 400 € (prorata réel : 750/30×56 jours, seul montant utilisé dans tous les actes)
-- FACTURE_CHIRURGIE : 790,23 €
-- MONTANT_ASTREINTE_145 : 150 €/jour
-- MONTANT_ARTICLE_700_145 : 1 500 € (assignation article 145)
-- MONTANT_PROVISION_PENALE : 5 000 € (constitution de partie civile)
-- MONTANT_ARTICLE_475_1 : 3 000 € (constitution de partie civile — équivalent pénal de l'art. 700)
+## Montants financiers — Évaluation principale (optimiste)
 
-⚠ **Explication 5k€ vs 15k€** : La demande amiable (15k€) est volontairement plus élevée que la demande en référé (5k€). C'est une stratégie juridique normale : la phase amiable fixe un plafond de négociation, le référé demande un minimum immédiat. Ce n'est pas une incohérence.
+- MONTANT_TOTAL_ESTIME : ~105 000 € (évaluation Dintilhac détaillée — voir 12 Évaluation Dintilhac détaillée.md)
+- CA_MENSUEL_MOYEN : 750 € (déclaré URSSAF, CA annuel 9 000 € net)
+- PGPA : 1 900 € (dont 1 400 € prorata + 500 € perte de chance)
+- DFT : 1 400 € (56 jours × 25 €/jour)
+- DFP : 31 200 € (12 % × 2 600 €/point, barème Mornet 2024 médian)
+- SE : 24 000 € (4/7, fourchette Mornet 2024)
+- IP : 30 000 € (méthode BIBAL : 9 000 × 12 % × 27,5)
+- AGREMENT : 8 000 € (guitare 6 000 + autres 2 000)
+- PEP : 3 000 € (cicatrice palmaire 8,5 cm)
+- FRAIS_DIVERS : 2 000 € (kiné, déplacements)
+- DEP : 3 000 € (dévalorisation professionnelle future — poste ajouté après 3e analyse)
+- FACTURE_CHIRURGIE : 790,23 €
+
+## Montants financiers — Évaluation conservative (Glose, juillet 2026)
+
+- TOTAL_ESTIME_CONSERVATIF : ~45 000 € (médian, fourchette 28 000-65 000 €)
+- PGPA_CONSERVATIF : 1 380 € (56/30,44 × 750)
+- DFP_CONSERVATIF : 25 000 € (8 % médian, fourchette 15 000-35 000 €)
+- SE_CONSERVATIF : 8 500 € (fourchette 5 000-12 000 €)
+- IP_CONSERVATIF : 2 250 € (750 × 25 % × 12 mois)
+- AGREMENT_CONSERVATIF : 3 500 € (fourchette 2 000-5 000 €)
+- FRAIS_MEDICAUX_CONSERVATIF : 3 500 € (fourchette 2 000-5 000 €)
+- ART_700_CONSERVATIF : 2 250 € (fourchette 1 500-3 000 €)
+
+## Montants — Compromis recommandé
+
+- TOTAL_COMPROMIS : ~85 000 € (voir 12 Évaluation Dintilhac détaillée.md section 7)
+- DFP_COMPROMIS : 25 000 € (10 % en attendant expertise UMJ)
+- SE_COMPROMIS : 15 000 €
+- AGREMENT_COMPROMIS : 5 000 €
+- FRAIS_DIVERS_COMPROMIS : 3 000 €
+
+## Provisions et astreintes
+
+- MONTANT_PROVISION_REFERE : 10 000 € (compromis après mémoire Glose qui recommande 8 000 €)
+- MONTANT_PROVISION_AMIABLE : 15 000 € (demande amiable en mise en demeure)
+- MONTANT_PROVISION_PENALE : 5 000 € (constitution de partie civile)
+- MONTANT_ASTREINTE_REFERE : 100 €/jour (selon recommandation Glose)
+- MONTANT_ASTREINTE_145 : 150 €/jour
+- MONTANT_ARTICLE_700 : 3 000 € (compromis)
+- MONTANT_ARTICLE_700_145 : 1 500 € (assignation article 145)
+- MONTANT_ARTICLE_475_1 : 3 000 € (constitution partie civile)
+
+## Plafonds à connaître
+- FGTI_PROVISION_MAX : 3 000 € (art. L.422-7 CA — 30 % plafonné)
+- SARVI_MAX : 3 000 € (30 % au-delà de 1 000 €)
+
+⚠ **Explication montants** : L'évaluation initiale (59 600 €) sous-évaluait plusieurs postes (SE, IP, DFP) et oubliait le DFT, le PEP et les frais divers. L'évaluation Dintilhac (105 000 €) corrige ces lacunes. Le mémoire Glose (juillet 2026) propose une évaluation plus conservative (~45 000 €). Le compromis recommandé est ~85 000 €.
+
+⚠ **Recouvrement** : La SAS a un capital de 200 €. En cas d'insolvabilité, la voie principale est **FGTI/CIVI** (art. 706-3 CPP). Voir section FGTI dans 13 Responsabilites legales.md.
 
 ## Dates clés (⚠ précision absolue requise)
 - DATE_ACCIDENT : **29 mai 2026** (vendredi)
