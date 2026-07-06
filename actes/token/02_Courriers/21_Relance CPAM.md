@@ -56,7 +56,7 @@ Je souhaiterais connaitre l'etat actuel de l'instruction de mon dossier et, le c
 Je souhaiterais connaitre l'identite et les coordonnees de la personne en charge de mon dossier afin de pouvoir la contacter directement pour toute information complementaire.
 
 **3. Le montant des debours definitifs** <br>
-Conformement a l'article L.376-1 du Code de la securite sociale, je souhaiterais etre informe du montant des debours definitifs engages par la CPAM, necessaires a l'evaluation globale de mon prejudice et a la procedure judiciaire en cours.
+Conformement a l'Article L.376-1 du Code de la securite sociale, je souhaiterais etre informe du montant des debours definitifs engages par la CPAM, necessaires a l'evaluation globale de mon prejudice et a la procedure judiciaire en cours.
 
 **4. Les demarches a entreprendre** <br>
 Je vous remercie de bien vouloir m'indiquer les demarches que je dois entreprendre pour le suivi de mon dossier et la transmission des informations necessaires au bon deroulement de la procedure.

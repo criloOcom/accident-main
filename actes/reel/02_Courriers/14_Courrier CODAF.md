@@ -79,7 +79,7 @@ Les manquements suivants sont susceptibles de relever de la competence du CODAF 
 **2. Defaut d'assurance RC professionnelle presume**
 - Absence d'affichage de l'assurance RC dans l'etablissement
 - Dirigeants n'ayant pas communique l'identite de l'assureur
-- En violation de l'article L.310-1-1-2 du Code des assurances (loi n° 2024-364 du 22 avril 2024)
+- En violation de l'Article L.310-1-1-2 du Code des assurances (loi n° 2024-364 du 22 avril 2024)
 
 **3. Non-respect des regles de securite**
 - Absence d'equipement d'acces en hauteur (Articles R.4323-58 du Code du travail)
@@ -95,7 +95,7 @@ Les manquements suivants sont susceptibles de relever de la competence du CODAF 
 
 ## III — DEMANDE D'ENQUETE
 
-Je sollicite du CODAF qu'une enquete soit diligentee afin de verifier l'ensemble de ces elements. Conformement a l'article 40 du Code de procedure penale, si les faits constates sont constitutifs d'infractions, je vous remercie de bien vouloir en informer le Procureur de la Republique.
+Je sollicite du CODAF qu'une enquete soit diligentee afin de verifier l'ensemble de ces elements. Conformement a l'Article 40 du Code de procedure penale, si les faits constates sont constitutifs d'infractions, je vous remercie de bien vouloir en informer le Procureur de la Republique.
 
 Mes coordonnees pour reponse : 10 Avenue de Purpan, 31700 Blagnac — Courriel : sebastien.grazide@gmail.com
 

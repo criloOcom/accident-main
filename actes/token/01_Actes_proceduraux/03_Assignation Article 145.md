@@ -38,15 +38,15 @@ Cabinet du Juge des Referes
 
 ## INTRODUCTION
 
-La presente assignation en refere est introduite par **[La Victime]** a l'encontre de la SAS **[L'Exploitant du Commerce]** (SIREN 938 033 222), sur le fondement de l'article 145 du Code de procedure civile.
+La presente assignation en refere est introduite par **[La Victime]** a l'encontre de la SAS **[L'Exploitant du Commerce]** (SIREN 938 033 222), sur le fondement de l'Article 145 du Code de procedure civile.
 
-Elle a pour objet d'obtenir, sous astreinte, la communication de la police d'assurance de responsabilite civile professionnelle souscrite par la societe defendereese, seule mesure permettant a la victime d'exercer son action directe contre l'assureur sur le fondement de l'article L.124-3 du Code des assurances.
+Elle a pour objet d'obtenir, sous astreinte, la communication de la police d'assurance de responsabilite civile professionnelle souscrite par la societe defendereese, seule mesure permettant a la victime d'exercer son action directe contre l'assureur sur le fondement de l'Article L.124-3 du Code des assurances.
 
 <hr>
 
 - [I — EXPOSE DES FAITS](#i--expose-des-faits)
 - [II — DISCUSSION JURIDIQUE](#ii--discussion-juridique)
-  - [A. Sur le motif legitime de l'article 145 CPC](#a-sur-le-motif-legitime-de-larticle-145-cpc)
+  - [A. Sur le motif legitime de l'Article 145 CPC](#a-sur-le-motif-legitime-de-larticle-145-cpc)
   - [B. Sur le droit d'action directe de la victime (L.124-3)](#b-sur-le-droit-daction-directe-de-la-victime-l124-3)
   - [C. Sur le refus caracterise et l'astreinte sollicitee](#c-sur-le-refus-caracterise-et-lastreinte-sollicitee)
 - [PAR CES MOTIFS](#par-ces-motifs)
@@ -69,7 +69,7 @@ A ce jour, l'identite de l'assureur RC professionnelle de **[L'Exploitant du Com
 
 ## II — DISCUSSION JURIDIQUE
 
-### A. Sur le motif legitime de l'article 145 CPC
+### A. Sur le motif legitime de l'Article 145 CPC
 
 L'article 145 du Code de procedure civile dispose :
 
@@ -79,7 +79,7 @@ En l'espece, le motif legitime est caracterise par l'impossibilite pour **[La Vi
 
 Le refus persistant de la partie adverse de communiquer cette information constitue un obstacle a l'etablissement de la preuve du contrat d'assurance, dont l'existence et la teneur sont determinantes pour la solution du litige indemnitaire.
 
-La jurisprudence admet que la communication forcee d'un document contractuel constitue une mesure d'instruction licite au sens de l'article 145 CPC, des lors qu'elle est necessaire a la preparation d'un proces futur (Cass. Civ. 2e, 8 mars 2012, n° 11-14.339).
+La jurisprudence admet que la communication forcee d'un document contractuel constitue une mesure d'instruction licite au sens de l'Article 145 CPC, des lors qu'elle est necessaire a la preparation d'un proces futur (Cass. Civ. 2e, 8 mars 2012, n° 11-14.339).
 
 ### B. Sur le droit d'action directe de la victime (L.124-3)
 
@@ -108,8 +108,8 @@ L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu
 
 ## PAR CES MOTIFS
 
-Vu l'article 145 du Code de procédure civile,
-Vu l'article L. 124-3 du Code des assurances,
+Vu l'Article 145 du Code de procédure civile,
+Vu l'Article L. 124-3 du Code des assurances,
 Vu les pièces versées aux débats,
 
 **[La Victime]** demande qu'il plaise à Monsieur le Président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, de :
@@ -125,7 +125,7 @@ Vu les pièces versées aux débats,
 
 3. **SE RESERVER** la liquidation de l'astreinte ;
 
-4. **CONDAMNER** la SAS **[L'Exploitant du Commerce]** a payer a **[La Victime]** la somme de 3 000 € sur le fondement de l'article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
+4. **CONDAMNER** la SAS **[L'Exploitant du Commerce]** a payer a **[La Victime]** la somme de 3 000 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
 
 <hr><hr>
 

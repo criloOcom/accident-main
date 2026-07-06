@@ -45,7 +45,7 @@ Afin de préserver les droits du requérant dans la perspective d'une éventuell
 
 ## 3. FONDEMENT JURIDIQUE
 
-La présente requête est fondée sur les dispositions de l'article 145 du Code de procédure civile, lequel dispose que :
+La présente requête est fondée sur les dispositions de l'Article 145 du Code de procédure civile, lequel dispose que :
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 

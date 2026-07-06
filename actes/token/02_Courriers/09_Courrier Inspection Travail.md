@@ -72,7 +72,7 @@ Je me permets de porter a votre attention les elements suivants, susceptibles de
 
 - **Absence presumee de DUERP** : a ce jour, aucun Document Unique d'Evaluation des Risques Professionnels ne m'a ete communique par l'exploitant, malgre une mise en demeure en LRAR du 29 juin 2026 restee sans reponse
 
-- **Defaut presumee d'assurance RC Professionnelle** : l'exploitant ne m'a pas communique l'identite de son assureur RC, en violation de l'obligation d'affichage prevue a l'article L. 310-1-1-2 du Code des assurances modifie par la loi n° 2024-364 du 22 avril 2024
+- **Defaut presumee d'assurance RC Professionnelle** : l'exploitant ne m'a pas communique l'identite de son assureur RC, en violation de l'obligation d'affichage prevue a l'Article L. 310-1-1-2 du Code des assurances modifie par la loi n° 2024-364 du 22 avril 2024
 
 - **Absence d'equipement d'acces en hauteur** : le prepose a du monter sur le bac a shampoing pour acceder au poste de television, en l'absence de tout equipement de travail adapte (escabeau, marchepied) mis a disposition par l'employeur. Cette situation meconnait l'obligation de securite de l'employeur (Article L. 4121-1 du Code du travail) et les regles relatives aux travaux en hauteur (Articles R. 4323-58 et suivants du Code du travail), l'employeur devant fournir un plan de travail ou un equipement d'acces approprie permettant l'intervention en securite
 
@@ -80,7 +80,7 @@ Je me permets de porter a votre attention les elements suivants, susceptibles de
 
 **4. Transmission au Parquet**
 
-Si les faits constates sont constitutifs d'infractions penales, je vous remercie par avance de bien vouloir transmettre votre rapport au Procureur de la Republique pres le Tribunal Judiciaire de **[La Ville de l'Accident]** conformement a l'article 40 du Code de procedure penale.
+Si les faits constates sont constitutifs d'infractions penales, je vous remercie par avance de bien vouloir transmettre votre rapport au Procureur de la Republique pres le Tribunal Judiciaire de **[La Ville de l'Accident]** conformement a l'Article 40 du Code de procedure penale.
 
 Mes coordonnees pour reponse : **[L'Adresse de la Victime]** / Courriel : **[L'Email de la Victime]**
 

@@ -33,11 +33,11 @@ Rédigé le 30 juin 2026
 
 La présente assignation en référé-provision et demande d'expertise médicale est introduite par Sébastien GRAZIDE à l'encontre de SAS LES MAUVAIS GARCONS, personne morale exploitant un salon de coiffure au sein duquel la victime a subi un grave accident corporel le 29 mai 2026.
 
-Par cet acte, Sébastien GRAZIDE sollicite du président du Tribunal Judiciaire de Foix, statuant en référé, l'allocation d'une provision de 5 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de l'[article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
+Par cet acte, Sébastien GRAZIDE sollicite du président du Tribunal Judiciaire de Foix, statuant en référé, l'allocation d'une provision de 5 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de l'[Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
 
-Elle demande en outre la désignation d'un expert médical judiciaire sur le fondement de l'article 145 du même code, afin de décrire l'étendue de ses séquelles et d'évaluer chacun des postes de préjudice corporel selon la nomenclature Dintilhac.
+Elle demande en outre la désignation d'un expert médical judiciaire sur le fondement de l'Article 145 du même code, afin de décrire l'étendue de ses séquelles et d'évaluer chacun des postes de préjudice corporel selon la nomenclature Dintilhac.
 
 Tribunal Judiciaire de Foix (Cabinet du Juge des Référés)
 
@@ -92,11 +92,11 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du 0
 
 ### A. Sur le principe de la responsabilité civile délictuelle
 
-L'[article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051787311) dispose :
+L'[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051787311) dispose :
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »*
 
-En l'espèce, le basculement brutal de l'équipement dû à l'escalade du préposé sur la vasque en céramique, laquelle présentait une cassure préexistante non signalée, caractérise un manquement à l'obligation de sécurité imputable à l'exploitant au sens de l'[article 1242 alinéa 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) dispose que les commettants sont responsables du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés.
+En l'espèce, le basculement brutal de l'équipement dû à l'escalade du préposé sur la vasque en céramique, laquelle présentait une cassure préexistante non signalée, caractérise un manquement à l'obligation de sécurité imputable à l'exploitant au sens de l'[Article 1242 alinéa 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) dispose que les commettants sont responsables du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés.
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
@@ -104,7 +104,7 @@ De surcroît, les faits se sont produits sous le contrôle du préposé de l'ét
 
 ### B. Sur la demande d'expertise médicale
 
-L'[article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) prévoit :
+L'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) prévoit :
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
@@ -112,7 +112,7 @@ L'état corporel de Sébastien GRAZIDE n'étant pas consolidé à ce jour, il es
 
 ### C. Sur l'octroi d'une provision financière
 
-L'[article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869487) énonce :
+L'[Article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869487) énonce :
 
 > « Dans tous les cas où l'existence de l'obligation n'est pas sérieusement contestable, le président peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »*
 
@@ -180,7 +180,7 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 
 3. **CONDAMNER** SAS LES MAUVAIS GARCONS à verser à Sébastien GRAZIDE la somme de 5 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
 
-4. **CONDAMNER** SAS LES MAUVAIS GARCONS à payer à Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'[article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647394), ainsi qu'aux entiers dépens.
+4. **CONDAMNER** SAS LES MAUVAIS GARCONS à payer à Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647394), ainsi qu'aux entiers dépens.
 
 <hr><hr>
 

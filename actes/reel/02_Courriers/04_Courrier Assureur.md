@@ -45,7 +45,7 @@ Madame, Monsieur,
 
 ## INTRODUCTION
 
-La présente lettre de mise en demeure est adressée par Sébastien GRAZIDE à la compagnie d'assurance de SAS LES MAUVAIS GARCONS sur le fondement de l'[article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), lequel institue une action directe de la victime contre l'assureur du responsable.
+La présente lettre de mise en demeure est adressée par Sébastien GRAZIDE à la compagnie d'assurance de SAS LES MAUVAIS GARCONS sur le fondement de l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), lequel institue une action directe de la victime contre l'assureur du responsable.
 
 Par ce courrier, Sébastien GRAZIDE met en demeure l'assureur de prendre en charge le sinistre corporel survenu le 29 mai 2026 dans les locaux de SAS LES MAUVAIS GARCONS et de procéder au règlement des préjudices subis, dont le montant total estimé s'élève à **59 600 €** selon l'étude d'indemnisation établie conformément à la Nomenclature Dintilhac.
 
@@ -53,7 +53,7 @@ Cette action directe permet à la victime de saisir directement l'assureur sans 
 
 Rappel des obligations légales
 
-[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) institue une action directe de la victime contre l'assureur du responsable, ce qui me permet de vous saisir directement sans passer par l'intermédiaire de la société.
+L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) institue une action directe de la victime contre l'assureur du responsable, ce qui me permet de vous saisir directement sans passer par l'intermédiaire de la société.
 
 Conformément à l'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339), le juge des référés peut ordonner toute mesure d'instruction légalement admissible s'il existe un motif légitime de conserver ou d'établir la preuve de faits dont pourrait dépendre la solution d'un litige.
 

@@ -128,17 +128,17 @@ L'absence d'assurance de **[L'Exploitant du Commerce]** et son insolvabilité é
 Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) indemnise les victimes de dommages corporels résultant d'une infraction pénale lorsque l'auteur n'est pas assuré et que la réparation ne peut être obtenue à un autre titre.
 
 **Conditions remplies en l'espèce :**
-- Infraction pénale constituée : blessures involontaires ([article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)).
+- Infraction pénale constituée : blessures involontaires ([Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)).
 - Gravité du dommage : ITT de 56 jours (≥ 1 mois, condition de recevabilité).
 - Absence d'assurance confirmée par le défaut de réponse aux relances amiables.
 
-**Délai CIVI = 3 ans ([article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)) :**
+**Délai CIVI = 3 ans ([Article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)) :**
 - **3 ans** à compter de l'infraction (29 mai 2026 → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
 - Ou **1 an** après une décision pénale définitive si elle intervient avant l'expiration du délai de 3 ans.
 
 **Procédure :** Saisine de la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de **[La Ville de l'Accident]**, qui notifie le FGTI et instruit la demande d'indemnisation.
 
-Cette voie est indépendante de l'action pénale principale : la victime peut saisir la CIVI sans attendre l'issue de la procédure pénale, dès lors que les conditions de l'article 706-3 sont réunies.
+Cette voie est indépendante de l'action pénale principale : la victime peut saisir la CIVI sans attendre l'issue de la procédure pénale, dès lors que les conditions de l'Article 706-3 sont réunies.
 
 ## 4. Calendrier procédural
 

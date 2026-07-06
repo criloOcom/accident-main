@@ -61,7 +61,7 @@ En l'espèce, la matérialité de l'accident et des blessures, constatée par pr
 
 ### 2. Sur la responsabilité civile de la SAS
 
-[L'article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) consacre la responsabilité de plein droit du gardien de la chose instrument du dommage, ainsi que celle des commettants du fait de leurs préposés.
+L'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) consacre la responsabilité de plein droit du gardien de la chose instrument du dommage, ainsi que celle des commettants du fait de leurs préposés.
 
 Le basculement de la vasque en céramique, causé par l'intervention fautive du préposé de l'établissement, engage sans conteste la responsabilité civile délictuelle de la SAS **[L'Exploitant du Commerce]**, tenue d'une obligation de sécurité de résultat envers sa clientèle.
 
@@ -73,7 +73,7 @@ La jurisprudence de la Cour de cassation ([Cass. Com., 20 mai 2003, n° 99-17.09
 
 ### 4. Sur l'action directe contre l'assureur et l'absence d'assurance
 
-[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) institue une action directe de la victime contre l'assureur de responsabilité civile de l'auteur du dommage.
+L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) institue une action directe de la victime contre l'assureur de responsabilité civile de l'auteur du dommage.
 
 Cependant, les diligences amiables (mises en demeure) sont restées vaines, laissant présumer un défaut d'assurance RC Pro de l'exploitant. Une telle carence constituerait non seulement une entrave à l'action directe, mais également une faute pénale de mise en danger.
 
@@ -91,7 +91,7 @@ Par ces motifs, et ceux qui pourront être suppléés, il est demandé au Prési
 
 - **CONDAMNER** la SAS **[L'Exploitant du Commerce]** à verser à **[La Victime]** une somme de **5 000 €** à titre de provision ad litem à valoir sur la réparation définitive de ses préjudices ;
 
-- **CONDAMNER** la SAS **[L'Exploitant du Commerce]** à payer à **[La Victime]** la somme de **3 000 €** au titre de l'[article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436), ainsi qu'aux entiers dépens ;
+- **CONDAMNER** la SAS **[L'Exploitant du Commerce]** à payer à **[La Victime]** la somme de **3 000 €** au titre de l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436), ainsi qu'aux entiers dépens ;
 
 - **ORDONNER** l'exécution provisoire de l'ordonnance à intervenir.
 

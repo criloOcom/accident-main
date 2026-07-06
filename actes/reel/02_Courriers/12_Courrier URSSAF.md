@@ -82,7 +82,7 @@ Je sollicite de vos services qu'une verification soit effectuee concernant :
 2. Le respect par la SAS SAS LES MAUVAIS GARCONS de ses obligations declaratives
 3. L'existence d'eventuelles autres irregularites
 
-Conformement a l'article L.8271-1-2 du Code du travail, les agents de l'URSSAF sont competents pour rechercher et constater les infractions de travail dissimule.
+Conformement a l'Article L.8271-1-2 du Code du travail, les agents de l'URSSAF sont competents pour rechercher et constater les infractions de travail dissimule.
 
 Mes coordonnees : 10 Avenue de Purpan, 31700 Blagnac — Courriel : sebastien.grazide@gmail.com
 

@@ -58,7 +58,7 @@ Le présent complément de plainte pénale est déposé par **[La Victime]** aup
 
 Malgré les demandes amiables répétées, **[L'Exploitant du Commerce]** n'a jamais communiqué d'attestation d'assurance RC Pro, laissant présumer une absence de couverture assurantielle.
 
-Cette carence constitue un obstacle majeur à l'exercice de l'action directe de la victime contre l'assureur ([article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)) et entrave gravement ses droits à indemnisation.
+Cette carence constitue un obstacle majeur à l'exercice de l'action directe de la victime contre l'assureur ([Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)) et entrave gravement ses droits à indemnisation.
 
 En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en charge par le Fonds de Garantie (FGTI) sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
@@ -100,7 +100,7 @@ En l'absence d'assurance, l'indemnisation de la victime au titre de l'action dir
 
 ### B. Sur l'entrave à l'exercice de l'action directe
 
-[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) consacre le droit propre et l'action directe de la victime à l'encontre de l'assureur du responsable.
+L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) consacre le droit propre et l'action directe de la victime à l'encontre de l'assureur du responsable.
 
 Cette autonomie de l'action directe a été fermement rappelée par la jurisprudence (Cass. Civ. 1ère, 8 décembre 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
 

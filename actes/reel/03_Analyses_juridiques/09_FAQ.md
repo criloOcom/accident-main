@@ -145,7 +145,7 @@ La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jour
 
 Une étape cruciale est fixée au 12 novembre 2026 pour l'expertise médicale à l'UMJ de Purpan, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à 59 600 €).
 
-À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation ([article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112)).
+À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation ([Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112)).
 
 > « L'action en responsabilité née d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices, se prescrit par dix ans à compter de la date de la consolidation du dommage corporel initial ou aggravé. »
 
