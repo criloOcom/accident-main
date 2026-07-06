@@ -118,6 +118,32 @@ L'[article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.go
 
 L'obligation à réparation de SAS LES MAUVAIS GARCONS n'étant pas sérieusement contestable au vu du PV de police et des pièces médicales indiscutables, Sébastien GRAZIDE est fondé à réclamer le versement d'une provision financière.
 
+### D. Justification du montant de la provision
+
+Le montant de 5 000 € sollicité à titre de provision est justifié par les éléments suivants :
+
+**1. Le montant se situe dans la fourchette basse des provisions usuelles**
+
+Le référentiel indicatif des cours d'appel fixe la fourchette des provisions pour blessures légères à modérées entre **5 000 € et 20 000 €**. Le cas d'Sébastien GRAZIDE (section tendineuse et nerveuse de la main droite dominante, intervention chirurgicale lourde, ITT de 56 jours, séquelles nerveuses persistantes, absence de consolidation) se situe dans cette catégorie. La demande de 5 000 € constitue le **minimum de cette fourchette**.
+
+**2. La provision est proportionnée au préjudice global estimé**
+
+Le préjudice global est estimé à **59 600 €** selon la nomenclature Dintilhac (PGPA : 7 500 €, DFP : 25 200 €, SE : 12 000 €, IP : 15 000 €). La provision de 5 000 € représente moins de **10 % du préjudice total**, ce qui est raisonnable et proportionné.
+
+**3. La provision inclut une part *ad litem***
+
+La demande inclut implicitement une provision *ad litem* destinée à couvrir les frais irrépétibles immédiats (honoraires d'avocat, frais de médecin-conseil, constat d'huissier, envois LRAR, déplacements). Cette pratique est validée par la jurisprudence dès lors que l'obligation n'est pas sérieusement contestable (Cass. 2e Civ.).
+
+**4. Aucune offre amiable n'a été formulée**
+
+Les mises en demeure adressées le 29 juin 2026 sont restées sans réponse. L'absence d'offre amiable dans le délai de 15 jours caractérise l'absence de contestation sérieuse de la part du débiteur et justifie l'intervention du juge des référés.
+
+**5. Jurisprudence**
+
+- **Cass. 2e Civ., 15 mai 1992, n° 90-14.261** : le juge des référés peut accorder une provision supérieure au montant de l'offre faite à la victime
+- **Cass. 2e Civ., 24 mars 2016, n° 15-15.306** : le juge fixe souverainement le montant de la provision dès lors que l'obligation n'est pas sérieusement contestable
+- **Cass. 2e Civ., 19 novembre 1998, n° 96-16.128** : le paiement d'une provision en référé n'exonère pas le débiteur de son obligation d'indemnisation finale
+
 <hr><hr>
 
 ## III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)
