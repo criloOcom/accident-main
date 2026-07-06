@@ -12,6 +12,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-from .agent import app
+import importlib as _il
+
+def __getattr__(name):
+    if name == "app":
+        return _il.import_module(".agent", __package__).app
+    raise AttributeError(f"module {__name__!r} has no attribute {name!r}")
 
 __all__ = ["app"]

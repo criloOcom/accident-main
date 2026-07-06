@@ -7,6 +7,7 @@ Usage :
 Retourne un code non-nul si au moins une anomalie est détectée.
 """
 
+import argparse
 import os
 import re
 import sys
@@ -221,8 +222,141 @@ def check_residual_annexes() -> None:
                 err(f"{f.name}:{i} → Annexe {line.strip()} encore embarquée (doit être un lien vers annexes/)")
 
 
+# ── 6. OpenLegi double-vérification ────────────────────────────────────
+def check_openlegi() -> None:
+    """Cross-check LEGIARTI references via OpenLegi for double verification."""
+    app_dir = str(REPO / "app")
+    if app_dir not in sys.path:
+        sys.path.insert(0, app_dir)
+    from openlegi_client import OpenLegiClient, health_check
+
+    if not health_check():
+        warn("OpenLegi indisponible — vérification ignorée")
+        return
+
+    # Collecter tous les LEGIARTI depuis les documents
+    acte_files = all_acte_md()
+    legi_pattern = re.compile(r'LEGIARTI\d+')
+    all_legi = set()
+    for f in acte_files:
+        text = f.read_text(encoding="utf-8")
+        for m in legi_pattern.finditer(text):
+            all_legi.add(m.group())
+
+    if not all_legi:
+        return
+
+    # Mapper LEGIARTI → (article_number, code_name) depuis les refs locales
+    legi_to_ref = {}
+    try:
+        import extract_legal_refs
+        for ref_name, ref_data in extract_legal_refs.LEGAL_REFS.items():
+            url = ref_data.get("url", "")
+            m = re.search(r'(LEGIARTI[A-Z0-9]+)', url)
+            if m:
+                ref_id = m.group(1)
+                legi_to_ref[ref_id] = ref_name
+    except Exception:
+        pass
+
+    try:
+        import batch_link_legifrance
+        for article_num, ref_id in batch_link_legifrance.LEGIARTI.items():
+            legi_to_ref[ref_id] = article_num
+    except Exception:
+        pass
+
+    verified = 0
+    failed = 0
+    renums = []
+
+    # Map ref name patterns to (code_name, article_num_extractor)
+    CODE_MAP = [
+        (r"C\. civ\.", "Code civil", lambda r: r.split()[0]),
+        (r"C\. pén\.", "Code pénal", lambda r: r.split()[0]),
+        (r"C\. com\.", "Code de commerce", lambda r: r.split()[0]),
+        (r"C\. trav\.", "Code du travail", lambda r: r.split()[0]),
+        (r"C\. assur\.", "Code des assurances", lambda r: r.split()[0]),
+        (r"CCH", "Code de la construction et de l'habitation", lambda r: r.split()[0]),
+        (r"C\.séc\. soc\.", "Code de la sécurité sociale", lambda r: r.split()[0]),
+        (r"CSP", "Code de la santé publique", lambda r: r.split()[0]),
+        (r"CPP", "Code de procédure pénale", lambda r: r.split()[0]),
+        (r"CPC", "Code de procédure civile", lambda r: r.split()[0]),
+        (r"C\. urb\.", "Code de l'urbanisme", lambda r: r.split()[0]),
+        (r"CSS", "Code de la sécurité sociale", lambda r: r.split()[0]),
+    ]
+
+    with OpenLegiClient() as ol:
+        for legi_id in sorted(all_legi):
+            ref_name = legi_to_ref.get(legi_id, "")
+
+            # For known renumberings, flag them
+            if legi_id == "LEGIARTI000006438819":
+                renums.append(legi_id)
+                warn(f"OpenLegi: {legi_id} (ex-Art.1382 C.civ.) → Art.1240 depuis 2016 — numéro réaffecté")
+                continue
+
+            if not ref_name:
+                failed += 1
+                warn(f"OpenLegi: {legi_id} → non vérifié (référence inconnue)")
+                continue
+
+            # Determine code and article number from ref name
+            code_guess = "Code civil"
+            article_num = ref_name
+
+            for pattern, code_name, extractor in CODE_MAP:
+                if re.search(pattern, ref_name):
+                    code_guess = code_name
+                    article_num = extractor(ref_name)
+                    break
+            else:
+                # No code suffix detected — try to guess from prefix
+                if re.match(r'^Art\.?L227\b', ref_name):
+                    code_guess = "Code de commerce"
+                if re.match(r'^Art\.?L421\b', ref_name):
+                    code_guess = "Code de la consommation"
+
+            # Normalize: strip "Art." prefix, remove dots in "L.227-8" -> "L227-8"
+            article_num = re.sub(r'^Art\.?', '', article_num).strip()
+            article_num = re.sub(r'\.(\d)', r'\1', article_num)
+
+            try:
+                result = ol._call("tools/call", {
+                    "name": "rechercher_code",
+                    "arguments": {
+                        "search": article_num,
+                        "code_name": code_guess,
+                        "champ": "NUM_ARTICLE",
+                        "page_size": 1,
+                    },
+                })
+                content = result.get("content", [])
+                text = " ".join(
+                    item.get("text", "") for item in content if item.get("type") == "text"
+                )
+                if "VIGUEUR" in text:
+                    verified += 1
+                else:
+                    failed += 1
+                    warn(f"OpenLegi: {legi_id} ({ref_name}) → introuvable dans {code_guess} (cherché: {article_num})")
+            except Exception as e:
+                failed += 1
+                warn(f"OpenLegi: {legi_id} ({ref_name}) → erreur: {e}")
+
+    total = verified + failed
+    if total:
+        print(f"\n  OpenLegi double-vérification: {verified}/{total} OK, {failed} échec(s)")
+        if renums:
+            print(f"  Renumérotations détectées: {len(renums)}")
+
+
 # ── Main ──────────────────────────────────────────────────────────────
 def main() -> int:
+    parser = argparse.ArgumentParser(description="Vérification cross-document")
+    parser.add_argument("--openlegi", action="store_true",
+                        help="Activer la double-vérification via OpenLegi")
+    args = parser.parse_args()
     print("=== VÉRIFICATION CROSS-DOCUMENT ===")
     print()
 
@@ -231,6 +365,9 @@ def main() -> int:
     check_external_links()
     check_frontmatter()
     check_residual_annexes()
+
+    if args.openlegi:
+        check_openlegi()
 
     if not errors and not warnings:
         print("Rien à signaler — tout est cohérent.")
