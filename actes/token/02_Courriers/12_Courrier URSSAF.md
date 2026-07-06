@@ -30,19 +30,19 @@ Courriel : **[L'Email de la Victime]**
 
 **[Adresse à compléter]**
 
-**[La Ville de l'Accident]**, le 5 juillet 2026
+**[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
 
 Objet : Signalement de travail dissimule presume — SAS **[L'Exploitant du Commerce]**
 
-Ref : SIREN 938 033 222
+Ref : SIREN **[SIREN de l'Exploitation]**
 
 Madame, Monsieur le Directeur,
 
 ## INTRODUCTION
 
-Je vous signale par la presente des elements laissant presumer l'exercice d'un travail dissimule au sein de la SAS **[L'Exploitant du Commerce]** (SIREN 938 033 222), conformement aux articles L.8221-1 et suivants du Code du travail.
+Je vous signale par la presente des elements laissant presumer l'exercice d'un travail dissimule au sein de la SAS **[L'Exploitant du Commerce]** (SIREN **[SIREN de l'Exploitation]**), conformement aux articles L.8221-1 et suivants du Code du travail.
 
-Le 29 mai 2026, alors que je me trouvais dans l'etablissement exploite par cette societe, j'ai ete temoin de la presence d'une personne physique ([Le Prepose de l'Exploitation]) exercant une activite de coiffeur.
+Le **[J+0 Accident]**, alors que je me trouvais dans l'etablissement exploite par cette societe, j'ai ete temoin de la presence d'une personne physique ([Le Prepose de l'Exploitation]) exercant une activite de coiffeur.
 
 Les informations publiques disponibles (INPI, INSEE) indiquent que cette societe, creee le 1er juin 2024 avec un capital de 200 €, ne declare aucun salarie.
 

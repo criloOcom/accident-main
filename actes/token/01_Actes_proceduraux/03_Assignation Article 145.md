@@ -34,11 +34,11 @@ A l'attention de Monsieur le President du Tribunal Judiciaire de **[La Ville de 
 
 Cabinet du Juge des Referes
 
-**[La Ville de l'Accident]**, le 5 juillet 2026
+**[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
 
 ## INTRODUCTION
 
-La presente assignation en refere est introduite par **[La Victime]** a l'encontre de la SAS **[L'Exploitant du Commerce]** (SIREN 938 033 222), sur le fondement de l'Article 145 du Code de procedure civile.
+La presente assignation en refere est introduite par **[La Victime]** a l'encontre de la SAS **[L'Exploitant du Commerce]** (SIREN **[SIREN de l'Exploitation]**), sur le fondement de l'Article 145 du Code de procedure civile.
 
 Elle a pour objet d'obtenir, sous astreinte, la communication de la police d'assurance de responsabilite civile professionnelle souscrite par la societe defendereese, seule mesure permettant a la victime d'exercer son action directe contre l'assureur sur le fondement de l'Article L.124-3 du Code des assurances.
 
@@ -55,13 +55,13 @@ Elle a pour objet d'obtenir, sous astreinte, la communication de la police d'ass
 
 ## I — EXPOSE DES FAITS
 
-Le 29 mai 2026, alors qu'il se trouvait au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]** en qualite de client, **[La Victime]** a ete victime d'un accident corporel grave.
+Le **[J+0 Accident]**, alors qu'il se trouvait au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]** en qualite de client, **[La Victime]** a ete victime d'un accident corporel grave.
 
-Alors que **[Le Prepose de l'Exploitation]** escaladait la vasque en ceramique du bac a shampoing pour acceder au poste de television, l'equipement a bascule. Par reflexe, **[La Victime]** a tendu la main droite pour proteger le prepose ; sa paume a heurte une cassure majeure preexistante non signalee aux aretes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit ayant necessite une microchirurgie d'urgence le 30 mai 2026.
+Alors que **[Le Prepose de l'Exploitation]** escaladait la vasque en ceramique du bac a shampoing pour acceder au poste de television, l'equipement a bascule. Par reflexe, **[La Victime]** a tendu la main droite pour proteger le prepose ; sa paume a heurte une cassure majeure preexistante non signalee aux aretes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit ayant necessite une microchirurgie d'urgence le **[J+1 Chirurgie]**.
 
-A la suite de cet accident, **[La Victime]** a vainement sollicite de **[L'Exploitant du Commerce]** la communication de l'identite de son assureur de responsabilite civile professionnelle. Ni la societe, ni son President **[Le President de l'Exploitation]**, ni sa Directrice Generale **[La Directrice Generale de l'Exploitation]** n'ont repondu aux courriers recommandes qui leur ont ete adresses le 29 juin 2026 **(Pièces n°7, n°8 et n°9)**.
+A la suite de cet accident, **[La Victime]** a vainement sollicite de **[L'Exploitant du Commerce]** la communication de l'identite de son assureur de responsabilite civile professionnelle. Ni la societe, ni son President **[Le President de l'Exploitation]**, ni sa Directrice Generale **[La Directrice Generale de l'Exploitation]** n'ont repondu aux courriers recommandes qui leur ont ete adresses le **[J+31 Mises en demeure]** **(Pièces n°7, n°8 et n°9)**.
 
-L'accuse de reception du courrier recommande adresse au proprietaire des murs, **[Le Proprietaire des Murs]**, a ete retourne signe le 3 juillet 2026, mais celui-ci n'a pas davantage communique l'information **(Pièce n°10)**.
+L'accuse de reception du courrier recommande adresse au proprietaire des murs, **[Le Proprietaire des Murs]**, a ete retourne signe le **[J+35 AR propriétaire]**, mais celui-ci n'a pas davantage communique l'information **(Pièce n°10)**.
 
 A ce jour, l'identite de l'assureur RC professionnelle de **[L'Exploitant du Commerce]** demeure inconnue.
 
@@ -95,10 +95,10 @@ Neanmoins, en pratique, l'exercice de ce droit suppose de connaitre l'identite d
 
 Les demandes amiables de **[La Victime]** sont restees lettres mortes :
 
-- LRAR du 29 juin 2026 a **[L'Exploitant du Commerce]** : aucun AR retourne
-- LRAR du 29 juin 2026 a **[Le President de l'Exploitation]** : aucun AR retourne
-- LRAR du 29 juin 2026 a **[La Directrice Generale de l'Exploitation]** : aucun AR retourne
-- LRAR du 29 juin 2026 a **[Le Proprietaire des Murs]** : AR retourne signe, mais sans reponse
+- LRAR du **[J+31 Mises en demeure]** a **[L'Exploitant du Commerce]** : aucun AR retourne
+- LRAR du **[J+31 Mises en demeure]** a **[Le President de l'Exploitation]** : aucun AR retourne
+- LRAR du **[J+31 Mises en demeure]** a **[La Directrice Generale de l'Exploitation]** : aucun AR retourne
+- LRAR du **[J+31 Mises en demeure]** a **[Le Proprietaire des Murs]** : AR retourne signe, mais sans reponse
 
 Ce silence delibere caracterise un refus de communiquer qui justifie que soit ordonnee la communication sous astreinte.
 
@@ -114,7 +114,7 @@ Vu les pièces versées aux débats,
 
 **[La Victime]** demande qu'il plaise à Monsieur le Président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, de :
 
-1. **ORDONNER** a la SAS **[L'Exploitant du Commerce]** de communiquer a **[La Victime]** l'integralite de sa police d'assurance de responsabilite civile professionnelle en vigueur au 29 mai 2026, ou, a defaut, une attestation de l'assureur mentionnant :
+1. **ORDONNER** a la SAS **[L'Exploitant du Commerce]** de communiquer a **[La Victime]** l'integralite de sa police d'assurance de responsabilite civile professionnelle en vigueur au **[J+0 Accident]**, ou, a defaut, une attestation de l'assureur mentionnant :
 
    - La denomination et l'adresse de la compagnie d'assurance
    - Le numero de police
@@ -131,21 +131,21 @@ Vu les pièces versées aux débats,
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 
-- **Pièce n°7 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à **[L'Exploitant du Commerce]** (29/06/2026)
-- **Pièce n°8 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à **[Le Président de l'Exploitation]** (29/06/2026)
-- **Pièce n°9 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à **[La Directrice Générale de l'Exploitation]** (29/06/2026)
-- **Pièce n°10 :** Lettre Recommandée avec Accusé de Réception (LRAR) adressée à **[Le Propriétaire des Murs]** et son Accusé de Réception signé (03/07/2026)
+- **Pièce n°7 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à **[L'Exploitant du Commerce]** (**[J+31 Mises en demeure]**)
+- **Pièce n°8 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à **[Le Président de l'Exploitation]** (**[J+31 Mises en demeure]**)
+- **Pièce n°9 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à **[La Directrice Générale de l'Exploitation]** (**[J+31 Mises en demeure]**)
+- **Pièce n°10 :** Lettre Recommandée avec Accusé de Réception (LRAR) adressée à **[Le Propriétaire des Murs]** et son Accusé de Réception signé (**[J+35 AR propriétaire]**)
 
 <hr><hr>
 
-Fait a **[La Ville de l'Accident]**, le 5 juillet 2026.
+Fait a **[La Ville de l'Accident]**, le **[J+37 Assignation 145]**.
 
 **[La Victime]**
 
 ## BORDEREAU DE PIÈCES ANNEXÉES
 
-1. Pièce n°1 : Copie du procès-verbal de police n°2026/015967 établi par le Commissariat de [La Ville de l'Accident]
-2. Pièce n°2 : Certificat médical initial du **[Le Médecin en Urgence]** (SMUR 09) en date du 29 mai 2026
-3. Pièce n°3 : Compte-rendu opératoire du **[Le Chirurgien SOS Main]** (SOS Main) en date du 30 mai 2026
-4. Pièce n°4 : Mises en demeure par Lettre Recommandée avec Accusé de Réception (LRAR) du 29 juin 2026 adressées à la société et à ses dirigeants (sans AR retournés ou sans réponse)
+1. Pièce n°1 : Copie du procès-verbal de police n°**[N° PV Police]** établi par le Commissariat de [La Ville de l'Accident]
+2. Pièce n°2 : Certificat médical initial du **[Le Médecin en Urgence]** (**[SMUR local]**) en date du **[J+0 Accident]**
+3. Pièce n°3 : Compte-rendu opératoire du **[Le Chirurgien SOS Main]** (SOS Main) en date du **[J+1 Chirurgie]**
+4. Pièce n°4 : Mises en demeure par Lettre Recommandée avec Accusé de Réception (LRAR) du **[J+31 Mises en demeure]** adressées à la société et à ses dirigeants (sans AR retournés ou sans réponse)
 5. Pièce n°5 : Preuve de paiement par virement instantané de 15,00 € (et remboursement ultérieur) témoignant de la présence de la victime sur les lieux

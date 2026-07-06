@@ -31,11 +31,11 @@ Courriel : **[L'Email de la Victime]**
 
 **[Adresse à compléter]**
 
-**[La Ville de l'Accident]**, le 5 juillet 2026
+**[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
 
-Objet : Information conservatoire — Accident du 29 mai 2026 — SAS **[L'Exploitant du Commerce]**
+Objet : Information conservatoire — Accident du **[J+0 Accident]** — SAS **[L'Exploitant du Commerce]**
 
-Ref : SIREN 938 033 222 — Dossier CPAM n° 31727387
+Ref : SIREN **[SIREN de l'Exploitation]** — Dossier CPAM n° **[N° Dossier CPAM]**
 
 Madame, Monsieur le Directeur,
 
@@ -43,11 +43,11 @@ Madame, Monsieur le Directeur,
 
 ## INTRODUCTION
 
-La presente est adressee au FGTI par **[La Victime]**, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, immatriculee sous le SIREN 938 033 222.
+La presente est adressee au FGTI par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, immatriculee sous le SIREN **[SIREN de l'Exploitation]**.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
-Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main. Mon ITT a ete evaluee a 56 jours (29 mai au 23 juillet 2026).
+Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main. Mon ITT a ete evaluee a 56 jours (29 mai au **[J+55 Fin d'ITT]**).
 
 <hr>
 
@@ -71,7 +71,7 @@ L'accident est survenu dans un contexte de multiples irregularites de la part de
 
 - Absence de DUERP
 
-- Dirigeants n'ayant repondu a aucune mise en demeure (LRAR du 29 juin 2026 sans AR retourne)
+- Dirigeants n'ayant repondu a aucune mise en demeure (LRAR du **[J+31 Mises en demeure]** sans AR retourne)
 
 <hr><hr>
 

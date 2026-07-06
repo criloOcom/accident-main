@@ -29,27 +29,27 @@ Courriel : **[L'Email de la Victime]**
 
 **[Adresse à compléter]**
 
-**[La Ville de l'Accident]**, le 5 juillet 2026
+**[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
 
-Objet : Relance et demande d'etat d'avancement — Recours contre tiers n° 31727387
+Objet : Relance et demande d'etat d'avancement — Recours contre tiers n° **[N° Dossier CPAM]**
 
 <hr>
 
-Ref : Accident du 29 mai 2026 — SAS **[L'Exploitant du Commerce]**
+Ref : Accident du **[J+0 Accident]** — SAS **[L'Exploitant du Commerce]**
 
 Madame, Monsieur,
 
-La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, immatriculee sous le SIREN 938 033 222.
+La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, immatriculee sous le SIREN **[SIREN de l'Exploitation]**.
 
 <hr><hr>
 
 ## I — OBJET DE LA RELANCE
 
-Un dossier de recours contre tiers a ete ouvert par vos services sous le numero 31727387 le 3 juin 2026 a la suite de mon accident.
+Un dossier de recours contre tiers a ete ouvert par vos services sous le numero **[N° Dossier CPAM]** le **[J+5 Ouverture CPAM]** a la suite de mon accident.
 
 Je me permets de solliciter de vos services :
 
-**1. L'etat d'avancement du dossier RCT n° 31727387** <br>
+**1. L'etat d'avancement du dossier RCT n° **[N° Dossier CPAM]** <br>
 Je souhaiterais connaitre l'etat actuel de l'instruction de mon dossier et, le cas echeant, les prochaines etapes de la procedure.
 
 **2. L'identite de la gestionnaire en charge du dossier** <br>

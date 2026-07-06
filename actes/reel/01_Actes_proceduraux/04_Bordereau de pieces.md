@@ -31,30 +31,30 @@ format: Arial JUSTIFIED
 
 ## Pièce n° 1
 
-- **03/06/2026** — Déclaration d'accident (CPAM de Haute-Garonne (Ameli)) : Déclaration de recours contre tiers enregistrée sous le n° 31713398 contre SAS SAS LES MAUVAIS GARCONS.
+- 3 juin 2026 — Déclaration d'accident (CPAM de Haute-Garonne (Ameli)) : Déclaration de recours contre tiers enregistrée sous le n° 31713398 contre SAS SAS LES MAUVAIS GARCONS.
 
 ## Pièce n° 2
 
-- **01/06/2026** — Signalement d'accident grave et Dossier de Plainte Pénale (Sébastien GRAZIDE) : Requête de vérification du numéro de dossier CPAM 31727387. Zone lésée : main droite.
+- 1 juin 2026 — Signalement d'accident grave et Dossier de Plainte Pénale (Sébastien GRAZIDE) : Requête de vérification du numéro de dossier CPAM 31727387. Zone lésée : main droite.
 
 ## Pièce n° 3
 
-- **16/06/2026** — Demande de renseignements (Recours contre Tiers) (Sigrid DESBOIS (CPAM Haute-Garonne)) : INCOHÉRENCE MAJEURE  : La CPAM cite le dossier n° 2631103960 au lieu du n° 31727387 cible.
+- 16 juin 2026 — Demande de renseignements (Recours contre Tiers) (Sigrid DESBOIS (CPAM Haute-Garonne)) : INCOHÉRENCE MAJEURE  : La CPAM cite le dossier n° 2631103960 au lieu du n° 31727387 cible.
 - **18/06/2026** — Note de cadrage médico-légale et transmission de pièces (Sébastien GRAZIDE) : RECTIFICATION  : Zone lésée confirmée comme l' Index droit  (invalide l'erreur auriculaire). Référence Recours 31727387 confirmée.
 
 ## Pièce n° 4
 
-- **30/05/2026** — Frais de séjour et soins (GHS) (Clinique de l'Union) : Enregistrement administratif et soins lors de l'admission; Dossier CPAM n° 31727387.
-- **10/06/2026** — Relevé de prestations (Assurance Maladie (CPAM)) : Enregistrement de l'acte de chirurgie (ADC) du 30/05/2026.
-- **16/06/2026** — Demande de renseignements (Recours contre Tiers) (Sigrid DESBOIS (CPAM Haute-Garonne)) : INCOHÉRENCE MAJEURE  : La CPAM cite le dossier n° 2631103960 au lieu du n° 31727387 cible.
+- 30 mai 2026 — Frais de séjour et soins (GHS) (Clinique de l'Union) : Enregistrement administratif et soins lors de l'admission; Dossier CPAM n° 31727387.
+- 10 juin 2026 — Relevé de prestations (Assurance Maladie (CPAM)) : Enregistrement de l'acte de chirurgie (ADC) du 30 mai 2026.
+- 16 juin 2026 — Demande de renseignements (Recours contre Tiers) (Sigrid DESBOIS (CPAM Haute-Garonne)) : INCOHÉRENCE MAJEURE  : La CPAM cite le dossier n° 2631103960 au lieu du n° 31727387 cible.
 - **18/06/2026** — Note de cadrage médico-légale et transmission de pièces (Sébastien GRAZIDE) : RECTIFICATION  : Zone lésée confirmée comme l' Index droit  (invalide l'erreur auriculaire). Référence Recours 31727387 confirmée.
-- **19/06/2026** — Rectification administrative (Secrétariat du Dr Iskander DJERBI) : Correction du compte-rendu opératoire : index droit au lieu du 5e doigt et date du 30/05 rétablie.
+- 19 juin 2026 — Rectification administrative (Secrétariat du Dr Iskander DJERBI) : Correction du compte-rendu opératoire : index droit au lieu du 5e doigt et date du 30/05 rétablie.
 
 ## Pièce n° 5
 
-- **03/06/2026** — Envoi de l'arrêt de travail (Sébastien GRAZIDE) : Expédition des volets 1 et 2 après correction manuelle de l'erreur de date (mai au lieu de juin).
+- 3 juin 2026 — Envoi de l'arrêt de travail (Sébastien GRAZIDE) : Expédition des volets 1 et 2 après correction manuelle de l'erreur de date (mai au lieu de juin).
 - **05/06/2026** — Déclaration de sinistre corporel (Assurances privées du patient) : Information de la protection juridique ou prévoyance (limite légale de 5 jours).
-- **23/06/2026** — Séance de rééducation (Kinésithérapie) (Clinique de l'Union (Bâtiment B, 2ème étage)) : Premier rendez-vous de rééducation spécialisée de la main à 16h15.
+- 23 juin 2026 — Séance de rééducation (Kinésithérapie) (Clinique de l'Union (Bâtiment B, 2ème étage)) : Premier rendez-vous de rééducation spécialisée de la main à 16h15.
 
 ## Pièce n° 6
 
@@ -65,11 +65,11 @@ format: Arial JUSTIFIED
 ## Pièce n° 7
 
 - **Non précisé** — Soins et remboursements (Généralités) (CPAM (n° 31727387 et 2631103960)) : Frais pharmaceutiques, hospitalisation et arrêts de travail liés au préjudice corporel
-- **02/06/2026** — Information sur les droits des victimes (Ministère de l'Intérieur / Police Nationale) : Remise du récépissé et d'une note d'information sur les droits (avocat, indemnisation, aide juridictionnelle)
+- 2 juin 2026 — Information sur les droits des victimes (Ministère de l'Intérieur / Police Nationale) : Remise du récépissé et d'une note d'information sur les droits (avocat, indemnisation, aide juridictionnelle)
 
 ## Pièce n° 10
 
-- **23/06/2026** — Consultation de contrôle post-opératoire (J+24) (Dr Iskander DJERBI) : Bonne évolution cicatricielle ; déficit neurologique (insensibilité) noté
+- 23 juin 2026 — Consultation de contrôle post-opératoire (J+24) (Dr Iskander DJERBI) : Bonne évolution cicatricielle ; déficit neurologique (insensibilité) noté
 - **24/06/2026** — Démarche administrative / Email (Sébastien GRAZIDE (Assuré)) : Envoi des pièces justificatives à l'Assurance Maladie pour recours contre tiers
 
 ## Pièce n° 11
@@ -95,25 +95,25 @@ format: Arial JUSTIFIED
 
 ## Pièce n° 19
 
-- **19/06/2026** — Remerciements pour CRO rectifié et note clinique de suivi à J+20 (Sébastien GRAZIDE / Secrétariat Dr Iskander DJERBI) : RECTIFICATION CRUCIALE  : Zone lésée requalifiée en  Index droit . Date chirurgicale rectifiée au 30/05/2026. Dossier CPAM 31727387 validé.
+- 19 juin 2026 — Remerciements pour CRO rectifié et note clinique de suivi à J+20 (Sébastien GRAZIDE / Secrétariat Dr Iskander DJERBI) : RECTIFICATION CRUCIALE  : Zone lésée requalifiée en  Index droit . Date chirurgicale rectifiée au 30 mai 2026. Dossier CPAM 31727387 validé.
 
 ## Pièce n° 22
 
 - **Non précisé** — Analyse de sinistre corporel (SAS LES MAUVAIS GARCONS) : Accident lié à une vasque en céramique avec cassure préexistante tranchante (index droit impacté). Dossiers CPAM 31727387 / 2631103960.
-- **02/06/2026** — Remboursement de prestations (CPAM de Haute-Garonne) : Versement global incluant la part complémentaire pour les soins du 29/05/2026.
+- 2 juin 2026 — Remboursement de prestations (CPAM de Haute-Garonne) : Versement global incluant la part complémentaire pour les soins du 29 mai 2026.
 
 ## Pièce n° 24
 
-- **16/06/2026** — Demande de renseignements (Recours contre Tiers) (Sigrid DESBOIS (CPAM Haute-Garonne)) : INCOHÉRENCE MAJEURE  : La CPAM cite le dossier n° 2631103960 au lieu du n° 31727387 cible.
+- 16 juin 2026 — Demande de renseignements (Recours contre Tiers) (Sigrid DESBOIS (CPAM Haute-Garonne)) : INCOHÉRENCE MAJEURE  : La CPAM cite le dossier n° 2631103960 au lieu du n° 31727387 cible.
 - **18/06/2026** — Note de cadrage médico-légale et transmission de pièces (Sébastien GRAZIDE) : RECTIFICATION  : Zone lésée confirmée comme l' Index droit  (invalide l'erreur auriculaire). Référence Recours 31727387 confirmée.
 
 ## Pièce n° 34
 
-- **01/06/2026** — Signalement d'accident grave et Dossier de Plainte Pénale (Sébastien GRAZIDE) : Requête de vérification du numéro de dossier CPAM 31727387. Zone lésée : main droite.
+- 1 juin 2026 — Signalement d'accident grave et Dossier de Plainte Pénale (Sébastien GRAZIDE) : Requête de vérification du numéro de dossier CPAM 31727387. Zone lésée : main droite.
 
 ## Pièce n° 35
 
-- **01/06/2026** — Signalement d'accident grave et Dossier de Plainte Pénale (Sébastien GRAZIDE) : Requête de vérification du numéro de dossier CPAM 31727387. Zone lésée : main droite.
+- 1 juin 2026 — Signalement d'accident grave et Dossier de Plainte Pénale (Sébastien GRAZIDE) : Requête de vérification du numéro de dossier CPAM 31727387. Zone lésée : main droite.
 
 ## Pièce n° 36
 
@@ -121,11 +121,11 @@ format: Arial JUSTIFIED
 
 ## Pièce n° 41
 
-- **02/06/2026** — Relevés de prestations - Tiers Payant (CPAM de la Haute-Garonne) : Numéro de dossier 31727387 absent des documents (seul le NIR est présent).
+- 2 juin 2026 — Relevés de prestations - Tiers Payant (CPAM de la Haute-Garonne) : Numéro de dossier 31727387 absent des documents (seul le NIR est présent).
 
 ## Pièce n° 42
 
-- **02/06/2026** — Relevés de prestations - Tiers Payant (CPAM de la Haute-Garonne) : Numéro de dossier 31727387 absent des documents (seul le NIR est présent).
+- 2 juin 2026 — Relevés de prestations - Tiers Payant (CPAM de la Haute-Garonne) : Numéro de dossier 31727387 absent des documents (seul le NIR est présent).
 
 ## Pièce n° 46
 
@@ -137,16 +137,16 @@ format: Arial JUSTIFIED
 
 ## Pièce n° 48
 
-- **16/06/2026** — Demande de renseignements (Recours contre Tiers) (Sigrid DESBOIS (CPAM Haute-Garonne)) : INCOHÉRENCE MAJEURE  : La CPAM cite le dossier n° 2631103960 au lieu du n° 31727387 cible.
+- 16 juin 2026 — Demande de renseignements (Recours contre Tiers) (Sigrid DESBOIS (CPAM Haute-Garonne)) : INCOHÉRENCE MAJEURE  : La CPAM cite le dossier n° 2631103960 au lieu du n° 31727387 cible.
 - **18/06/2026** — Note de cadrage médico-légale et transmission de pièces (Sébastien GRAZIDE) : RECTIFICATION  : Zone lésée confirmée comme l' Index droit  (invalide l'erreur auriculaire). Référence Recours 31727387 confirmée.
 
 ## Pièce n° 76
 
-- **25/06/2026** — Confirmation de rendez-vous Kinésithérapie (Doctolib (pour **[L'Officier de Police Judiciaire]**)) : Rééducation ciblée suite à la chirurgie de l'index.
+- **[J+27 Confirmation kiné]** — Confirmation de rendez-vous Kinésithérapie (Doctolib (pour **[L'Officier de Police Judiciaire]**)) : Rééducation ciblée suite à la chirurgie de l'index.
 
 ## Pièce n° 77
 
-- **25/06/2026** — Confirmation de rendez-vous Kinésithérapie (Doctolib (pour **[L'Officier de Police Judiciaire]**)) : Rééducation ciblée suite à la chirurgie de l'index.
+- **[J+27 Confirmation kiné]** — Confirmation de rendez-vous Kinésithérapie (Doctolib (pour **[L'Officier de Police Judiciaire]**)) : Rééducation ciblée suite à la chirurgie de l'index.
 
 ## Pièce n° 78
 
@@ -158,12 +158,12 @@ format: Arial JUSTIFIED
 
 ## Pièce n° 80
 
-- **30/06/2026** — Gabarit d'attestation de témoin — Témoin client, Sébastien GRAZIDE ([22_Gabarit Attestation Témoin Client.md](../02_Courriers/22_Gabarit%20Attestation%20Témoin%20Client.md)) : Attestation Cerfa n° 11527\*03 destinée aux clients présents le 29 mai 2026. Récit des faits : montée du préposé sur la vasque, basculement, réflexe de la victime.
+- 30 juin 2026 — Gabarit d'attestation de témoin — Témoin client, Sébastien GRAZIDE ([22_Gabarit Attestation Témoin Client.md](../02_Courriers/22_Gabarit%20Attestation%20Témoin%20Client.md)) : Attestation Cerfa n° 11527\*03 destinée aux clients présents le 29 mai 2026. Récit des faits : montée du préposé sur la vasque, basculement, réflexe de la victime.
 
 ## Pièce n° 81
 
-- **30/06/2026** — Gabarit d'attestation de témoin — Pompier / SAMU, Sébastien GRAZIDE ([23_Gabarit Attestation Pompier SAMU.md](../02_Courriers/23_Gabarit%20Attestation%20Pompier%20SAMU.md)) : Attestation Cerfa n° 11527\*03 destinée aux services de secours intervenus le 29 mai 2026. Constat de la blessure grave et du saignement abondant.
+- 30 juin 2026 — Gabarit d'attestation de témoin — Pompier / SAMU, Sébastien GRAZIDE ([23_Gabarit Attestation Pompier SAMU.md](../02_Courriers/23_Gabarit%20Attestation%20Pompier%20SAMU.md)) : Attestation Cerfa n° 11527\*03 destinée aux services de secours intervenus le 29 mai 2026. Constat de la blessure grave et du saignement abondant.
 
 ## Pièce n° 82
 
-- **30/06/2026** — Gabarit d'attestation de témoin — Employé du salon, Sébastien GRAZIDE ([24_Gabarit Attestation Employé.md](../02_Courriers/24_Gabarit%20Attestation%20Employé.md)) : Attestation Cerfa n° 11527\*03 destinée aux employés. Précise la cassure préexistante de la vasque et l'absence de consigne de sécurité.
+- 30 juin 2026 — Gabarit d'attestation de témoin — Employé du salon, Sébastien GRAZIDE ([24_Gabarit Attestation Employé.md](../02_Courriers/24_Gabarit%20Attestation%20Employé.md)) : Attestation Cerfa n° 11527\*03 destinée aux employés. Précise la cassure préexistante de la vasque et l'absence de consigne de sécurité.

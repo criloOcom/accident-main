@@ -40,11 +40,11 @@ format: Arial JUSTIFIED
 
 # STRATEGIE CONTENTIEUX CIVIL
 
-Rédigé le 4 juillet 2026
+Rédigé le **[J+36 Lettre consolidation]**
 
 ## 1. Présentation
 
-Le 29 mai 2026, Sébastien GRAZIDE a subi un accident corporel grave dans le salon de coiffure exploité par SAS LES MAUVAIS GARCONS (SAS LES MAUVAIS GARÇONS, SIRET 938 033 222 00010), situé 22 Rue Lafaurie, 09000 Foix. Alors que l'employé Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, Sébastien GRAZIDE a tendu la main droite pour protéger Ayoub BENNOURINE ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une microchirurgie SOS Main en urgence.
+Le 29 mai 2026, Sébastien GRAZIDE a subi un accident corporel grave dans le salon de coiffure exploité par SAS LES MAUVAIS GARCONS (SAS LES MAUVAIS GARCONS, SIRET 938 033 222 00010), situé 22 Rue Lafaurie, 09000 Foix. Alors que l'employé Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, Sébastien GRAZIDE a tendu la main droite pour protéger Ayoub BENNOURINE ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une microchirurgie SOS Main en urgence.
 
 Le contentieux civil a pour objet d'obtenir la réparation intégrale des préjudices subis, estimés à 59 600 € selon la nomenclature Dintilhac. Il se déploie sur plusieurs fondements juridiques complémentaires incluant, en cas de défaillance de l'auteur, la voie indemnitaire du Fonds de Garantie des Victimes d'Infractions (FGTI).
 
@@ -158,25 +158,25 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 ## 6. Récapitulatif des pièces
 
 Pièces médicales :
-- 29/05/2026 — Dr Julie JARDON — Premiers soins urgence
-- 30/05/2026 — Dr Iskander DJERBI — CR opératoire
-- 30/05/2026 — Dr Iskander DJERBI — Ordonnance de sortie
-- 10/06/2026 — Dr Iskander DJERBI — Facture chirurgie 790,23 €
-- 19/06/2026 — Dr Iskander DJERBI — CR contrôle J+20
-- 30/06/2026 — Dr Julie JARDON — Consultation urgence J+32
-- 01/07/2026 — Dr OXYBEL — Consultation générale J+33
-- 08/07/2026 — Dr Iskander DJERBI — CR de reprise J+39
+- 29 mai 2026 — Dr Julie JARDON — Premiers soins urgence
+- 30 mai 2026 — Dr Iskander DJERBI — CR opératoire
+- 30 mai 2026 — Dr Iskander DJERBI — Ordonnance de sortie
+- 10 juin 2026 — Dr Iskander DJERBI — Facture chirurgie 790,23 €
+- 19 juin 2026 — Dr Iskander DJERBI — CR contrôle J+20
+- 30 juin 2026 — Dr Julie JARDON — Consultation urgence J+32
+- 1 juillet 2026 — Dr Oxybel — Consultation générale J+33
+- 8 juillet 2026 — Dr Iskander DJERBI — CR de reprise J+39
 
 Pièces financières :
-- 29/05/2026 — Wero — Preuve de paiement / remboursement
+- 29 mai 2026 — Wero — Preuve de paiement / remboursement
 
 Pièces administratives :
-- 03/06/2026 — CPAM Haute-Garonne — Dossier RCT 31727387
-- 01/06/2026 — INSEE — Avis de situation SAS
-- 01/06/2026 — INPI — Fiche identité SAS
+- 3 juin 2026 — CPAM Haute-Garonne — Dossier RCT 31727387
+- 1 juin 2026 — INSEE — Avis de situation SAS
+- 1 juin 2026 — INPI — Fiche identité SAS
 - 04/06/2026 — URSSAF Midi-Pyrénées — Attestations de vigilance
 
 Pièces de procédure :
-- 29/06/2026 — Mise en demeure SAS LES MAUVAIS GARCONS
-- 29/06/2026 — Mise en demeure Mountasser SABIR
-- 29/06/2026 — Mise en demeure Catherine ANDISSAC
+- 29 juin 2026 — Mise en demeure SAS LES MAUVAIS GARCONS
+- 29 juin 2026 — Mise en demeure Mountasser SABIR
+- 29 juin 2026 — Mise en demeure Catherine ANDISSAC

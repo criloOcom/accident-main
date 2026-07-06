@@ -30,11 +30,11 @@ Rédigé par : **[La Victime]**
 
 **[L'Adresse de la Victime]**
 
-Rédigé le 30 juin 2026
+Rédigé le **[J+32 Assignation référé]**
 
 ## INTRODUCTION
 
-La présente synthèse juridique et FAQ a été rédigée par **[La Victime]** dans le cadre du contentieux l'opposant à **[L'Exploitant du Commerce]** à la suite de l'accident corporel du 29 mai 2026.
+La présente synthèse juridique et FAQ a été rédigée par **[La Victime]** dans le cadre du contentieux l'opposant à **[L'Exploitant du Commerce]** à la suite de l'accident corporel du **[J+0 Accident]**.
 
 Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de l'[Article 1231-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032010123), la responsabilité délictuelle sur le fondement de l'[Article 1240 du même code](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571), ainsi que la garantie des vices cachés prévue à l'[Article 1641 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924).
 
@@ -59,7 +59,7 @@ La présente synthèse répond en outre aux questions pratiques que la victime e
 
 ## I. PRÉSENTATION GÉNÉRALE DE L'AFFAIRE
 
-Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le 29 mai 2026 à 15h00 au sein du salon de coiffure exploité par **[L'Exploitant du Commerce]**, situé au **[L'Adresse de l'Exploitation]** à **[La Ville de l'Accident]**.
+Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le **[J+0 Accident]** à 15h00 au sein du salon de coiffure exploité par **[L'Exploitant du Commerce]**, situé au **[L'Adresse de l'Exploitation]** à **[La Ville de l'Accident]**.
 
 La victime, **[La Victime]**, né le 18/01/1982, exerce la profession d'informaticien indépendant (**[L'Identifiant Professionnel de la Victime]**) à **[La Ville de Résidence de la Victime]**.
 
@@ -80,7 +80,7 @@ Sa paume a percuté une cassure préexistante et tranchante de la vasque, provoq
 
 Le bilan médical est lourd : une section partielle du tendon fléchisseur de l'index droit et une section complète du paquet vasculo-nerveux.
 
-Malgré une intervention de microchirurgie réalisée le 30 mai 2026 à la **[L'Établissement SOS Main]** par le **[Le Chirurgien SOS Main]**, la victime souffre à ce jour d'une insensibilité totale de l'index et d'un blocage mécanique de la flexion. Son activité d'informaticien est gravement compromise, justifiant une ITT initiale de 56 jours.
+Malgré une intervention de microchirurgie réalisée le **[J+1 Chirurgie]** à la **[L'Établissement SOS Main]** par le **[Le Chirurgien SOS Main]**, la victime souffre à ce jour d'une insensibilité totale de l'index et d'un blocage mécanique de la flexion. Son activité d'informaticien est gravement compromise, justifiant une ITT initiale de 56 jours.
 
 ### Q : Le gérant peut-il refuser de me donner le nom de sa compagnie d'assurance ?
 
@@ -116,7 +116,7 @@ Par ailleurs, une attention particulière est portée à la faute détachable de
 > Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
 > Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
 
-Enfin, le propriétaire des murs, **[Le Propriétaire des Murs]**, a été sollicité par LRAR le 29 juin 2026 non pas en tant que responsable de l'accident, mais comme source d'information : le bail commercial l'oblige à détenir l'attestation d'assurance RC Pro de son locataire (la SAS). À ce jour, l'AR a été retourné signé mais sans réponse sur le fond.
+Enfin, le propriétaire des murs, **[Le Propriétaire des Murs]**, a été sollicité par LRAR le **[J+31 Mises en demeure]** non pas en tant que responsable de l'accident, mais comme source d'information : le bail commercial l'oblige à détenir l'attestation d'assurance RC Pro de son locataire (la SAS). À ce jour, l'AR a été retourné signé mais sans réponse sur le fond.
 
 
 <hr><hr>
@@ -125,7 +125,7 @@ Enfin, le propriétaire des murs, **[Le Propriétaire des Murs]**, a été solli
 
 À ce jour, une plainte officielle a été déposée et un dossier de recours contre tiers a été ouvert auprès de la CPAM.
 
-Sur le plan civil, plusieurs mises en demeure ont été expédiées le 29 juin 2026 pour identifier l'assureur et solliciter une provision :
+Sur le plan civil, plusieurs mises en demeure ont été expédiées le **[J+31 Mises en demeure]** pour identifier l'assureur et solliciter une provision :
 
 - Courrier à l'attention du Président **[Le Président de l'Exploitation]** ;
 
@@ -143,7 +143,7 @@ La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jour
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
 
-Une étape cruciale est fixée au 12 novembre 2026 pour l'expertise médicale à l'UMJ de Purpan, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à 59 600 €).
+Une étape cruciale est fixée au **[J+167 Expertise UMJ]** pour l'expertise médicale à l'UMJ de Purpan, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à 59 600 €).
 
 À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation ([Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112)).
 

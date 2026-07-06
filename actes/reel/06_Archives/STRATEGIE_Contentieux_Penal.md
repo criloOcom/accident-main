@@ -40,11 +40,11 @@ format: Arial JUSTIFIED
 
 # STRATEGIE CONTENTIEUX PENAL
 
-Rédigé le 4 juillet 2026
+Rédigé le **[J+36 Lettre consolidation]**
 
 ## 1. Présentation
 
-Le 29 mai 2026, Sébastien GRAZIDE, informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par SAS LES MAUVAIS GARCONS (SAS LES MAUVAIS GARÇONS, SIRET 938 033 222 00010), situé 22 Rue Lafaurie, 09000 Foix.
+Le 29 mai 2026, Sébastien GRAZIDE, informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par SAS LES MAUVAIS GARCONS (SAS LES MAUVAIS GARCONS, SIRET 938 033 222 00010), situé 22 Rue Lafaurie, 09000 Foix.
 
 Alors que l'employé Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé.
 
@@ -154,17 +154,17 @@ Cette voie est indépendante de l'action pénale principale : la victime peut sa
 ## 5. Récapitulatif des pièces
 
 Pièces pénales :
-- 01/06/2026 — Foix Police — Dépôt de plainte officiel [🔗 Voir](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
-- 02/06/2026 — Foix Police — Procès-verbal constat n°2026/015967 [🔗 Voir](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view)
-- 02/06/2026 — Foix Police — Constitution de partie civile
-- 02/06/2026 — Foix Police — Complément de plainte
+- 1 juin 2026 — Foix Police — Dépôt de plainte officiel [🔗 Voir](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
+- 2 juin 2026 — Foix Police — Procès-verbal constat n°2026/015967 [🔗 Voir](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view)
+- 2 juin 2026 — Foix Police — Constitution de partie civile
+- 2 juin 2026 — Foix Police — Complément de plainte
 
 Pièces médicales (justificatifs du préjudice corporel) :
-- 29/05/2026 — Dr Julie JARDON — Premiers soins urgence
-- 30/05/2026 — Dr Iskander DJERBI — CR opératoire
-- 19/06/2026 — Dr Iskander DJERBI — CR contrôle J+20
+- 29 mai 2026 — Dr Julie JARDON — Premiers soins urgence
+- 30 mai 2026 — Dr Iskander DJERBI — CR opératoire
+- 19 juin 2026 — Dr Iskander DJERBI — CR contrôle J+20
 
 Pièces administratives :
-- 03/06/2026 — CPAM Haute-Garonne — Dossier RCT 31727387
-- 01/06/2026 — INSEE — Avis de situation SAS
-- 01/06/2026 — INPI — Fiche identité SAS
+- 3 juin 2026 — CPAM Haute-Garonne — Dossier RCT 31727387
+- 1 juin 2026 — INSEE — Avis de situation SAS
+- 1 juin 2026 — INPI — Fiche identité SAS

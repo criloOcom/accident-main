@@ -4,7 +4,7 @@ date: 2026-07-06
 type: acte
 categorie: procedure
 auteur: La Victime
-destinataire: Services de secours intervenus le 29/05/2026
+destinataire: Services de secours intervenus le **[J+0 Accident]**
 tags:
 - email
 - attestation
@@ -16,13 +16,13 @@ format: Arial JUSTIFIED
 
 # TRANSMISSION — Gabarit d'attestation de témoin (Pompier / SAMU)
 
-Objet : Attestation de témoin — Intervention du 29 mai 2026 au **[L'Adresse de l'Exploitation]**
+Objet : Attestation de témoin — Intervention du **[J+0 Accident]** au **[L'Adresse de l'Exploitation]**
 
 ---
 
 Bonjour,
 
-Vous êtes intervenu(e) le **29 mai 2026** vers 15h00 au salon **Exploitant du Commerce** situé au **[L'Adresse de l'Exploitation]** pour porter secours à la victime d'un accident corporel (section tendineuse et nerveuse de la main droite).
+Vous êtes intervenu(e) le **[J+0 Accident]** vers 15h00 au salon **Exploitant du Commerce** situé au **[L'Adresse de l'Exploitation]** pour porter secours à la victime d'un accident corporel (section tendineuse et nerveuse de la main droite).
 
 Je me permets de vous solliciter pour remplir une **attestation de témoin** (Cerfa n° 11527\*03) afin de décrire ce que vous avez constaté lors de votre intervention : la nature et la gravité de la blessure, le saignement abondant, l'état de la vasque en céramique, et toute information utile sur les circonstances.
 

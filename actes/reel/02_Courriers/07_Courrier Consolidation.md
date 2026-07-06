@@ -68,7 +68,7 @@ L'arret de travail total (ITT) initialement prescrit par Dr Oxybel court jusqu'a
 
 La sensibilite de l'index droit reste partiellement alteree, la flexion active est limitee, et la douleur neuropathique persiste.
 
-Dans le cadre de la procedure judiciaire en cours (recours contre tiers aupres de la CPAM, dossier n° **31727387**), l'evaluation definitive des postes de prejudice — notamment le Defficit Fonctionnel Permanent (DFP), l'Incidence Professionnelle (IP) et les Souffrances Endurees (SE) — necessite la fixation prealable d'une **date de consolidation** par certificat medical.
+Dans le cadre de la procedure judiciaire en cours (recours contre tiers aupres de la CPAM, dossier n° 31727387), l'evaluation definitive des postes de prejudice — notamment le Defficit Fonctionnel Permanent (DFP), l'Incidence Professionnelle (IP) et les Souffrances Endurees (SE) — necessite la fixation prealable d'une **date de consolidation** par certificat medical.
 
 Je sollicite donc votre bienveillance afin de :
 

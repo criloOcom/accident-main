@@ -4,7 +4,7 @@ date: 2026-07-06
 type: acte
 categorie: procedure
 auteur: La Victime
-destinataire: Services de secours intervenus le 29/05/2026
+destinataire: Services de secours intervenus le 29 mai 2026
 tags:
 - email
 - attestation
@@ -22,7 +22,7 @@ Objet : Attestation de témoin — Intervention du 29 mai 2026 au 22 Rue Lafauri
 
 Bonjour,
 
-Vous êtes intervenu(e) le **29 mai 2026** vers 15h00 au salon **Exploitant du Commerce** situé au 22 Rue Lafaurie, 09000 Foix pour porter secours à la victime d'un accident corporel (section tendineuse et nerveuse de la main droite).
+Vous êtes intervenu(e) le 29 mai 2026 vers 15h00 au salon **Exploitant du Commerce** situé au 22 Rue Lafaurie, 09000 Foix pour porter secours à la victime d'un accident corporel (section tendineuse et nerveuse de la main droite).
 
 Je me permets de vous solliciter pour remplir une **attestation de témoin** (Cerfa n° 11527\*03) afin de décrire ce que vous avez constaté lors de votre intervention : la nature et la gravité de la blessure, le saignement abondant, l'état de la vasque en céramique, et toute information utile sur les circonstances.
 

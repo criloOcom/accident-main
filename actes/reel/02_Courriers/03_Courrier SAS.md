@@ -70,7 +70,7 @@ Le chirurgien a évalué le pronostic de récupération neurologique à un an mi
 
 Travaillant à mon compte en tant qu'informaticien indépendant (500 474 457), cet accident me paralyse professionnellement et financièrement.
 
-Mon dossier de recours contre tiers (n° **31727387**) est actuellement ouvert auprès de la Caisse Primaire d'Assurance Maladie (CPAM).
+Mon dossier de recours contre tiers (n° 31727387) est actuellement ouvert auprès de la Caisse Primaire d'Assurance Maladie (CPAM).
 
 Afin que les différents organismes de santé puissent entrer en contact direct avec votre compagnie d'assurance de responsabilité civile professionnelle pour la gestion de ce sinistre, je vous remercie de bien vouloir me transmettre par retour de courrier ou par courriel les coordonnées de votre assureur ainsi que votre numéro de police d'assurance.
 

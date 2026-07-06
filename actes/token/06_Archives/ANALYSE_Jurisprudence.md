@@ -52,24 +52,24 @@ drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
 
 # RAPPORT D'EXPERTISE JURIDIQUE : ACCIDENT CORPOREL DE LA VICTIME
 
-Rédigé le 30 juin 2026
+Rédigé le **[J+32 Assignation référé]**
 
 ## INTRODUCTION
 
-Le présent rapport d'expertise juridique a été établi par **[La Victime]** afin d'évaluer l'étendue et la qualification juridique des préjudices corporels subis à la suite de l'accident du 29 mai 2026. Ce document procède à une analyse détaillée de chaque poste de préjudice selon la nomenclature Dintilhac, en s'appuyant sur les pièces médicales et administratives versées au dossier. L'évaluation est fondée sur les [articles 1240 et 1231-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571), ainsi que sur la jurisprudence constante de la Cour de cassation en matière de réparation intégrale. Chaque citation est présentée et interprétée de bonne foi, étant précisé que seuls les tribunaux ont autorité pour trancher définitivement les questions de droit soulevées.
+Le présent rapport d'expertise juridique a été établi par **[La Victime]** afin d'évaluer l'étendue et la qualification juridique des préjudices corporels subis à la suite de l'accident du **[J+0 Accident]**. Ce document procède à une analyse détaillée de chaque poste de préjudice selon la nomenclature Dintilhac, en s'appuyant sur les pièces médicales et administratives versées au dossier. L'évaluation est fondée sur les [articles 1240 et 1231-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571), ainsi que sur la jurisprudence constante de la Cour de cassation en matière de réparation intégrale. Chaque citation est présentée et interprétée de bonne foi, étant précisé que seuls les tribunaux ont autorité pour trancher définitivement les questions de droit soulevées.
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
 
 Rédigé par : La Victime
 
-Le 30 juin 2026
+Le **[J+32 Assignation référé]**
 
 
 <hr><hr>
 
 ## I. Introduction et contexte
 
-Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de **[La Victime]** (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi 29 mai 2026 à 15h00.
+Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de **[La Victime]** (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi **[J+0 Accident]** à 15h00.
 
 L'incident s'est produit au sein de l'établissement « **[L'Exploitant du Commerce]** » (ci-après désigné "L'Exploitant"), exploité par une SAS dont la direction est assurée par **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**.
 
@@ -93,7 +93,7 @@ Il est à noter que l'établissement a procédé à un remboursement symbolique 
 
 ## III. Bilan médical et préjudices identifiés
 
-Après une prise en charge initiale par **[Le Médecin en Urgence]** au SMUR 09, **[La Victime]** a été transférée en urgence clinique pour une microchirurgie réalisée le 30 mai 2026 par Le Chirurgien SOS Main.
+Après une prise en charge initiale par **[Le Médecin en Urgence]** au **[SMUR local]**, **[La Victime]** a été transférée en urgence clinique pour une microchirurgie réalisée le **[J+1 Chirurgie]** par Le Chirurgien SOS Main.
 
 Le bilan clinique révèle une section partielle du tendon fléchisseur superficiel de l'index droit, une section complète du paquet collatéral ulnaire et radial, ainsi qu'une neurolyse du nerf collatéral palmaire.
 

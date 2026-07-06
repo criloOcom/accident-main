@@ -40,11 +40,11 @@ format: Arial JUSTIFIED
 
 # STRATEGIE CONTENTIEUX PENAL
 
-Rédigé le 4 juillet 2026
+Rédigé le **[J+36 Lettre consolidation]**
 
 ## 1. Présentation
 
-Le 29 mai 2026, **[La Victime]**, informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** (SAS LES MAUVAIS GARÇONS, SIRET 938 033 222 00010), situé **[L'Adresse de l'Exploitation]**.
+Le **[J+0 Accident]**, **[La Victime]**, informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** (**[L'Exploitant du Commerce]**, SIRET **[SIRET de l'Exploitation]**), situé **[L'Adresse de l'Exploitation]**.
 
 Alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé.
 
@@ -56,7 +56,7 @@ Le contentieux pénal a pour objet de faire reconnaître la culpabilité de **[L
 
 ### 2.1 Blessures involontaires
 
-Faits : le 29 mai 2026, **[La Victime]** a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes, au sein de l'établissement exploité par **[L'Exploitant du Commerce]**.
+Faits : le **[J+0 Accident]**, **[La Victime]** a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes, au sein de l'établissement exploité par **[L'Exploitant du Commerce]**.
 
 Ces faits sont constitutifs de blessures involontaires ayant entraîné une incapacité totale de travail (ITT) prévisible inférieure ou égale à trois mois.
 
@@ -86,13 +86,13 @@ Cette qualification nécessite la démonstration d'une violation délibérée d'
 
 Un signalement a été adressé à la préfecture par la Mairie de **[La Ville de l'Accident]** dès le 1er juin 2026, selon le courriel de l'adjoint au maire (btavella@mairie-foix.fr) en date du 1er juin 2026 à 16h15. La Mairie y indiquait avoir pris l'attache des services de la préfecture pour diligenter l'inspection du travail et le CODAF.
 
-**[La Victime]** a parallèlement déposé une plainte officielle le 1er juin 2026 au commissariat de **[La Ville de l'Accident]**, retranscrite sous la référence PV n° 2026/015967 [🔗 Pièce](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view). Un procès-verbal de constat a été établi le 2 juin 2026 [🔗 Pièce](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view).
+**[La Victime]** a parallèlement déposé une plainte officielle le 1er juin 2026 au commissariat de **[La Ville de l'Accident]**, retranscrite sous la référence PV n° **[N° PV Police]** [🔗 Pièce](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view). Un procès-verbal de constat a été établi le **[J+4 Dépôt de plainte]** [🔗 Pièce](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view).
 
 **Note :** À ce jour, aucun accusé de réception officiel ni numéro de suivi de la préfecture n'a été communiqué à **[La Victime]**. Les informations relatives à la saisine de la préfecture proviennent exclusivement du courriel de la Mairie de **[La Ville de l'Accident]**.
 
 ### 3.2 Constitution de partie civile
 
-Une constitution de partie civile a été formée par **[La Victime]** le 30 juin 2026 devant le Tribunal Correctionnel de **[La Ville de l'Accident]**. Cette démarche, fondée sur les articles 2 et suivants du Code de procédure pénale, permet à **[La Victime]** de :
+Une constitution de partie civile a été formée par **[La Victime]** le **[J+32 Assignation référé]** devant le Tribunal Correctionnel de **[La Ville de l'Accident]**. Cette démarche, fondée sur les articles 2 et suivants du Code de procédure pénale, permet à **[La Victime]** de :
 
 - Participer activement à la procédure pénale
 
@@ -108,7 +108,7 @@ La constitution de partie civile peut être réalisée par déclaration au greff
 
 ### 3.3 Complément de plainte pour absence d'assurance
 
-Un complément de plainte a été déposé le 30 juin 2026 auprès du Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par **[L'Exploitant du Commerce]**.
+Un complément de plainte a été déposé le **[J+32 Assignation référé]** auprès du Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par **[L'Exploitant du Commerce]**.
 
 Ce complément vise à porter à la connaissance de l'autorité judiciaire cette carence, qui constitue un obstacle à l'indemnisation de la victime et justifie, le cas échéant, la saisine du Fonds de Garantie (FGTI) sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
@@ -133,7 +133,7 @@ Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LE
 - Absence d'assurance confirmée par le défaut de réponse aux relances amiables.
 
 **Délai CIVI = 3 ans ([Article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)) :**
-- **3 ans** à compter de l'infraction (29 mai 2026 → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
+- **3 ans** à compter de l'infraction (**[J+0 Accident]** → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
 - Ou **1 an** après une décision pénale définitive si elle intervient avant l'expiration du délai de 3 ans.
 
 **Procédure :** Saisine de la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de **[La Ville de l'Accident]**, qui notifie le FGTI et instruit la demande d'indemnisation.
@@ -154,17 +154,17 @@ Cette voie est indépendante de l'action pénale principale : la victime peut sa
 ## 5. Récapitulatif des pièces
 
 Pièces pénales :
-- 01/06/2026 — **[La Ville de l'Accident]** Police — Dépôt de plainte officiel [🔗 Voir](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
-- 02/06/2026 — **[La Ville de l'Accident]** Police — Procès-verbal constat n°2026/015967 [🔗 Voir](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view)
-- 02/06/2026 — **[La Ville de l'Accident]** Police — Constitution de partie civile
-- 02/06/2026 — **[La Ville de l'Accident]** Police — Complément de plainte
+- **[J+3 Premiers arrêts]** — **[La Ville de l'Accident]** Police — Dépôt de plainte officiel [🔗 Voir](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
+- **[J+4 Dépôt de plainte]** — **[La Ville de l'Accident]** Police — Procès-verbal constat n°**[N° PV Police]** [🔗 Voir](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view)
+- **[J+4 Dépôt de plainte]** — **[La Ville de l'Accident]** Police — Constitution de partie civile
+- **[J+4 Dépôt de plainte]** — **[La Ville de l'Accident]** Police — Complément de plainte
 
 Pièces médicales (justificatifs du préjudice corporel) :
-- 29/05/2026 — Dr Julie JARDON — Premiers soins urgence
-- 30/05/2026 — Dr Iskander DJERBI — CR opératoire
-- 19/06/2026 — Dr Iskander DJERBI — CR contrôle J+20
+- **[J+0 Accident]** — **[Le Médecin en Urgence]** — Premiers soins urgence
+- **[J+1 Chirurgie]** — **[Le Chirurgien SOS Main]** — CR opératoire
+- **[J+21 Contrôle chirurgical]** — **[Le Chirurgien SOS Main]** — CR contrôle J+20
 
 Pièces administratives :
-- 03/06/2026 — CPAM Haute-Garonne — Dossier RCT 31727387
-- 01/06/2026 — INSEE — Avis de situation SAS
-- 01/06/2026 — INPI — Fiche identité SAS
+- **[J+5 Ouverture CPAM]** — CPAM Haute-Garonne — Dossier RCT **[N° Dossier CPAM]**
+- **[J+3 Premiers arrêts]** — INSEE — Avis de situation SAS
+- **[J+3 Premiers arrêts]** — INPI — Fiche identité SAS

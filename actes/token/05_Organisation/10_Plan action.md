@@ -22,11 +22,11 @@ format: Arial JUSTIFIED
 
 # Plan d'Action et Chronologie de la Procédure
 
-Rédigé le 30 juin 2026
+Rédigé le **[J+32 Assignation référé]**
 
 ## INTRODUCTION
 
-Le présent plan d'action et chronologie de la procédure a été établi par **[La Victime]** afin de structurer et de piloter l'ensemble des démarches juridiques entreprises à la suite de l'accident corporel du 29 mai 2026. Ce document de travail récapitule les étapes procédurales déjà accomplies, les actions prioritaires à engager et les échéances à respecter dans le cadre du contentieux opposant **[La Victime]** à **[L'Exploitant du Commerce]**. Il constitue un outil de pilotage et de suivi permettant d'assurer la coordination efficace de la stratégie contentieuse et le respect des délais de procédure.
+Le présent plan d'action et chronologie de la procédure a été établi par **[La Victime]** afin de structurer et de piloter l'ensemble des démarches juridiques entreprises à la suite de l'accident corporel du **[J+0 Accident]**. Ce document de travail récapitule les étapes procédurales déjà accomplies, les actions prioritaires à engager et les échéances à respecter dans le cadre du contentieux opposant **[La Victime]** à **[L'Exploitant du Commerce]**. Il constitue un outil de pilotage et de suivi permettant d'assurer la coordination efficace de la stratégie contentieuse et le respect des délais de procédure.
 
 <hr>
 
@@ -51,7 +51,7 @@ Le présent plan d'action et chronologie de la procédure a été établi par **
 
 La première étape consiste en l'envoi de mises en demeure par lettre recommandée avec accusé de réception (LRAR) à **[L'Exploitant du Commerce]** et à ses dirigeants.
 
-Ces courriers, expédiés le 29 juin 2026, visent à obtenir les coordonnées de l'assurance responsabilité civile professionnelle, étape préalable obligatoire avant toute action au fond.
+Ces courriers, expédiés le **[J+31 Mises en demeure]**, visent à obtenir les coordonnées de l'assurance responsabilité civile professionnelle, étape préalable obligatoire avant toute action au fond.
 
 Parallèlement, une action directe est engagée auprès de l'assureur pour solliciter l'ouverture d'un dossier de sinistre, la désignation d'un expert médical et le versement d'une provision financière de première urgence pour compenser les pertes d'exploitation de **[La Victime]**, informaticien indépendant.
 
@@ -67,7 +67,7 @@ Par ailleurs, si la société persiste dans son refus de communiquer les coordon
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
-Le second semestre 2026 sera consacré au suivi de l'expertise (notamment le passage à l'UMJ de Purpan le 12 novembre 2026) et à la rédaction des conclusions de partie civile.
+Le second semestre 2026 sera consacré au suivi de l'expertise (notamment le passage à l'UMJ de Purpan le **[J+167 Expertise UMJ]**) et à la rédaction des conclusions de partie civile.
 
 L'aboutissement prévu est une assignation au fond en septembre pour obtenir un jugement définitif de condamnation de l'assureur d'ici décembre 2026.
 
@@ -121,6 +121,6 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 
 - Ordre des Avocats de **[La Ville de l'Accident]** (05 61 65 00 10) / Huissiers : Étude LAPORTE (05 61 65 70 70) / UMJ Hôpital de Purpan (**[La Métropole Régionale]**).
 
-**Note administrative :** Dès le 15 juillet 2026 (le lendemain de la fin du délai amiable de mise en demeure), délivrance immédiate de l'assignation en référé par commissaire de justice, matérialisant la fin de la phase comminatoire amiable.
+**Note administrative :** Dès le 1**[J+37 Assignation 145]** (le lendemain de la fin du délai amiable de mise en demeure), délivrance immédiate de l'assignation en référé par commissaire de justice, matérialisant la fin de la phase comminatoire amiable.
 
-*Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la prolongation involontaire de certaines démarches.*
+*Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident]** sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la prolongation involontaire de certaines démarches.*

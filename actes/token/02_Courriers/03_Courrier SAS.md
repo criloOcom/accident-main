@@ -36,7 +36,7 @@ Direction de **[L'Exploitant du Commerce]**
 
 **[L'Adresse de l'Exploitation]**
 
-**[La Ville de l'Accident]**, le 29 juin 2026
+**[La Ville de l'Accident]**, le **[J+31 Mises en demeure]**
 
 Objet : Déclaration d'accident corporel — Demande d'information assurance RC — L.R.A.R.
 
@@ -46,7 +46,7 @@ Madame, Monsieur,
 
 ## INTRODUCTION
 
-La présente lettre de mise en demeure est adressée par **[La Victime]** à **[L'Exploitant du Commerce]** afin de déclarer officiellement l'accident corporel survenu le 29 mai 2026 dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
+La présente lettre de mise en demeure est adressée par **[La Victime]** à **[L'Exploitant du Commerce]** afin de déclarer officiellement l'accident corporel survenu le **[J+0 Accident]** dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
 
 Ce courrier constitue la première étape amiable préalable à toute action contentieuse, conformément aux usages de la procédure civile.
 
@@ -62,15 +62,15 @@ L'[Article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/ar
 
 Ces dispositions sont d'ordre public : elles s'imposent à la société et à ses dirigeants.
 
-Je me permets de vous adresser ce courrier afin de vous informer officiellement de l'accident corporel dont j'ai été victime au sein de votre établissement le vendredi 29 mai 2026 à 15h00.
+Je me permets de vous adresser ce courrier afin de vous informer officiellement de l'accident corporel dont j'ai été victime au sein de votre établissement le vendredi **[J+0 Accident]** à 15h00.
 
-Lors de ma venue, et alors que je sollicitais une retouche de coupe de cheveux, le basculement accidentel d'un bac à shampoing a provoqué une coupure profonde de 8,5 cm au niveau de ma main droite (index droit) ayant sectionné le tendon fléchisseur superficiel ainsi que le paquet vasculo-nerveux collatéral ulnaire et radial, nécessitant mon transfert en urgence et une intervention de microchirurgie (suture tendineuse 6 brins, suture microchirurgicale des nerfs et vaisseaux à l'éthilon 9-0, neurolyse d'urgence) le 30 mai 2026 par **[Le Chirurgien SOS Main]** au service SOS Main de **[L'Établissement SOS Main]**.
+Lors de ma venue, et alors que je sollicitais une retouche de coupe de cheveux, le basculement accidentel d'un bac à shampoing a provoqué une coupure profonde de 8,5 cm au niveau de ma main droite (index droit) ayant sectionné le tendon fléchisseur superficiel ainsi que le paquet vasculo-nerveux collatéral ulnaire et radial, nécessitant mon transfert en urgence et une intervention de microchirurgie (suture tendineuse 6 brins, suture microchirurgicale des nerfs et vaisseaux à l'éthilon 9-0, neurolyse d'urgence) le **[J+1 Chirurgie]** par **[Le Chirurgien SOS Main]** au service SOS Main de **[L'Établissement SOS Main]**.
 
 Le chirurgien a évalué le pronostic de récupération neurologique à un an minimum, avec un résultat souvent partiel s'agissant d'une suture nerveuse.
 
 Travaillant à mon compte en tant qu'informaticien indépendant (**[L'Identifiant Professionnel de la Victime]**), cet accident me paralyse professionnellement et financièrement.
 
-Mon dossier de recours contre tiers (n° **31727387**) est actuellement ouvert auprès de la Caisse Primaire d'Assurance Maladie (CPAM).
+Mon dossier de recours contre tiers (n° **[N° Dossier CPAM]**) est actuellement ouvert auprès de la Caisse Primaire d'Assurance Maladie (CPAM).
 
 Afin que les différents organismes de santé puissent entrer en contact direct avec votre compagnie d'assurance de responsabilité civile professionnelle pour la gestion de ce sinistre, je vous remercie de bien vouloir me transmettre par retour de courrier ou par courriel les coordonnées de votre assureur ainsi que votre numéro de police d'assurance.
 
@@ -102,6 +102,6 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 
 **[La Victime]**
 
-> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident]** sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
 > Cette situation de handicap physique temporaire explique le délai de transmission de mes demandes administratives.

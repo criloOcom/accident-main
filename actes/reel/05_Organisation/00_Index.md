@@ -56,7 +56,7 @@ Partage depuis : sebastien.grazide@gmail.com
 
 *(Documents physiques — dossier `00_Preuves_officielles/` en attente d'insertion)*
 
-- 2026-05-30 - CR opératoire ✓ Vérifié : Compte rendu opératoire du Dr Iskander DJERBI (microchirurgie 30/05/2026).
+- 2026-05-30 - CR opératoire ✓ Vérifié : Compte rendu opératoire du Dr Iskander DJERBI (microchirurgie 30 mai 2026).
 - 2026-06-01 - Dossier plainte ✓ Vérifié : Copie complète de la plainte officielle déposée au commissariat.
 - 2026-06-02 - PV Police ✓ Vérifié : Procès-verbal de constat n°[ ...].
 - 2026-06-19 - CR opératoire Dr Iskander DJERBI ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
@@ -217,7 +217,7 @@ Documents non indexés conservés dans `archives/` :
 
 <hr><hr>
 
-## STATISTIQUES DU DOSSIER (màj 05/07/2026)
+## STATISTIQUES DU DOSSIER (màj 5 juillet 2026)
 
 - Nombre total de documents : 16 (dans 00-05) + 21 courriers/gabarits (03-24, hors 10+17 supprimés) + 1 acte (03 Article 145) + 14 (mémoires d'audit) + 8 (archivés) = 60 documents au total
 - Nouveaux fichiers ajoutés : Bordereau, Gabarits (x3), Calendrier, et Mémoires d'audit (x14)

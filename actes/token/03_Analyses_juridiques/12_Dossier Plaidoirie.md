@@ -37,7 +37,7 @@ format: Arial JUSTIFIED
 - Communication sous astreinte de l'attestation d'assurance responsabilité civile professionnelle
 - Condamnation in solidum des défendeurs
 
-**ÉVÉNEMENT :** Accident corporel grave survenu le 29 mai 2026. Basculement d'un équipement défectueux causant une section nerveuse et tendineuse à la main droite de **[La Victime]**.
+**ÉVÉNEMENT :** Accident corporel grave survenu le **[J+0 Accident]**. Basculement d'un équipement défectueux causant une section nerveuse et tendineuse à la main droite de **[La Victime]**.
 
 **MONTANTS EN JEU :**
 - Évaluation globale provisoire du préjudice : 59 600 €
@@ -45,10 +45,10 @@ format: Arial JUSTIFIED
 - Frais irrépétibles (Article 700 du CPC) : 3 000 €
 
 **PIÈCES CLÉS DU DOSSIER :**
-- **Pièce ACQ-10 :** Procès-verbal de constat de police confirmant les circonstances matérielles (02/06/2026)
-- **Pièce ACQ-09 :** Dépôt de plainte officiel formalisant l'infraction pénale (01/06/2026)
-- **Pièce ACQ-04 :** Compte-rendu opératoire attestant de la section tendineuse et nerveuse (30/05/2026)
-- **Pièce ACQ-17 :** Mises en demeure par Lettres Recommandées avec Accusé de Réception (29/06/2026)
+- **Pièce ACQ-10 :** Procès-verbal de constat de police confirmant les circonstances matérielles (**[J+4 Dépôt de plainte]**)
+- **Pièce ACQ-09 :** Dépôt de plainte officiel formalisant l'infraction pénale (**[J+3 Premiers arrêts]**)
+- **Pièce ACQ-04 :** Compte-rendu opératoire attestant de la section tendineuse et nerveuse (**[J+1 Chirurgie]**)
+- **Pièce ACQ-17 :** Mises en demeure par Lettres Recommandées avec Accusé de Réception (**[J+31 Mises en demeure]**)
 
 <hr><hr>
 
@@ -56,11 +56,11 @@ format: Arial JUSTIFIED
 
 *Rappel des dates clés démontrant l'urgence et la gravité de la situation.*
 
-- **29 mai 2026 :** Date de l'accident au sein de l'établissement **[L'Exploitant du Commerce]**. Le préposé **[Le Préposé de l'Exploitation]** monte sur la vasque du bac à shampoing qui bascule. En tentant de le protéger par réflexe, **[La Victime]** heurte une cassure tranchante préexistante de la vasque. Section des tendons et nerfs de l'index droit.
-- **30 mai 2026 :** Intervention en urgence de microchirurgie à la **[L'Établissement SOS Main]** par **[Le Chirurgien SOS Main]**.
+- **[J+0 Accident]** :** Date de l'accident au sein de l'établissement **[L'Exploitant du Commerce]**. Le préposé **[Le Préposé de l'Exploitation]** monte sur la vasque du bac à shampoing qui bascule. En tentant de le protéger par réflexe, **[La Victime]** heurte une cassure tranchante préexistante de la vasque. Section des tendons et nerfs de l'index droit.
+- **[J+1 Chirurgie]** :** Intervention en urgence de microchirurgie à la **[L'Établissement SOS Main]** par **[Le Chirurgien SOS Main]**.
 - **1er juin 2026 :** Dépôt de plainte officiel par la victime (Pièce ACQ-09).
-- **29 juin 2026 :** Envoi des Mises en demeure (LRAR) visant à obtenir l'attestation d'assurance de la SAS (Pièce ACQ-17). Silence radio des dirigeants.
-- **5 juillet 2026 :** Signalements administratifs effectués auprès des diverses autorités (Inspection du Travail, CODAF, etc.) face au refus persistant de coopération de l'employeur.
+- **[J+31 Mises en demeure]** :** Envoi des Mises en demeure (LRAR) visant à obtenir l'attestation d'assurance de la SAS (Pièce ACQ-17). Silence radio des dirigeants.
+- **[J+37 Assignation 145]** :** Signalements administratifs effectués auprès des diverses autorités (Inspection du Travail, CODAF, etc.) face au refus persistant de coopération de l'employeur.
 - **Date non fixée (à planifier) :** Date de la présente audience de référé pour obtenir l'indemnisation provisionnelle et forcer la communication de la couverture assurantielle.
 
 <hr><hr>

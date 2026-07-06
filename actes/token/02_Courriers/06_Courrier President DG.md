@@ -36,9 +36,9 @@ Courriel : **[L'Email de la Victime]**
 
 **[L'Adresse de l'Exploitation]**
 
-**[La Ville de l'Accident]**, le 29 juin 2026
+**[La Ville de l'Accident]**, le **[J+31 Mises en demeure]**
 
-Objet : Demande d'information et communication d'assurance — Accident 29 mai 2026 — L.R.A.R.
+Objet : Demande d'information et communication d'assurance — Accident **[J+0 Accident]** — L.R.A.R.
 
 Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce]**
 
@@ -46,7 +46,7 @@ Madame la Directrice Générale, Monsieur le Président,
 
 ## INTRODUCTION
 
-La présente lettre de mise en demeure est adressée conjointement par **[La Victime]** à **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, en leur qualité de dirigeants de **[L'Exploitant du Commerce]**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le 29 mai 2026.
+La présente lettre de mise en demeure est adressée conjointement par **[La Victime]** à **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, en leur qualité de dirigeants de **[L'Exploitant du Commerce]**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le **[J+0 Accident]**.
 
 **Ce courrier constitue une démarche constructive et préalable à toute action contentieuse, conformément aux obligations légales et à la jurisprudence applicable en matière de responsabilité personnelle des dirigeants.**
 
@@ -67,19 +67,19 @@ L'[Article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/ar
 
 <hr>
 
-Je me permets de vous adresser la présente lettre dans une démarche constructive et explicative concernant l'accident corporel dont j'ai été la victime au sein de votre salon de coiffure le vendredi 29 mai 2026 à 15h00.
+Je me permets de vous adresser la présente lettre dans une démarche constructive et explicative concernant l'accident corporel dont j'ai été la victime au sein de votre salon de coiffure le vendredi **[J+0 Accident]** à 15h00.
 
 Je tiens tout d'abord à vous remercier pour votre réactivité le jour même de l'accident, notamment pour l'annulation de la transaction de 15 € effectuée par virement Wero. Cette attention a été particulièrement appréciée dans ces circonstances difficiles.
 
-Comme vous le savez, l'accident a entraîné une blessure importante à ma main droite (index droit), nécessitant une opération de microchirurgie d'urgence par **[Le Chirurgien SOS Main]** le samedi 30 mai 2026 au service SOS Main de **[L'Établissement SOS Main]** (suture tendineuse 6 brins, suture microchirurgicale des nerfs et vaisseaux, neurolyse d'urgence).
+Comme vous le savez, l'accident a entraîné une blessure importante à ma main droite (index droit), nécessitant une opération de microchirurgie d'urgence par **[Le Chirurgien SOS Main]** le samedi **[J+1 Chirurgie]** au service SOS Main de **[L'Établissement SOS Main]** (suture tendineuse 6 brins, suture microchirurgicale des nerfs et vaisseaux, neurolyse d'urgence).
 
 Le chirurgien a évalué le pronostic de récupération neurologique à un an minimum, avec un résultat souvent partiel s'agissant d'une suture nerveuse. Du fait de mon activité d'informaticien indépendant (**[L'Identifiant Professionnel de la Victime]**), l'incapacité d'utiliser mon index et ma main dominante me paralyse totalement dans mon travail quotidien.
 
-En tant que citoyen, je ne connaissais pas les formalités nécessaires dans ce type de situation. C'est à la suite de mes démarches administratives auprès de la CPAM (recours contre tiers n° **31727387**) et des services de police que j'ai été informé de l'obligation de recueillir les coordonnées de l'assureur de responsabilité civile professionnelle de votre salon afin de lui transmettre mon dossier médical.
+En tant que citoyen, je ne connaissais pas les formalités nécessaires dans ce type de situation. C'est à la suite de mes démarches administratives auprès de la CPAM (recours contre tiers n° **[N° Dossier CPAM]**) et des services de police que j'ai été informé de l'obligation de recueillir les coordonnées de l'assureur de responsabilité civile professionnelle de votre salon afin de lui transmettre mon dossier médical.
 
 C'est ce même assureur qui prendra en charge et indemnisera les conséquences matérielles et corporelles de ce sinistre, protégeant ainsi l'équilibre de votre propre entreprise.
 
-Je sollicite donc aujourd'hui votre aide bienveillante afin que vous puissiez me transmettre par écrit les coordonnées de votre compagnie d'assurance (nom de l'assureur et numéro de police d'assurance civile professionnelle en vigueur au 29 mai 2026).
+Je sollicite donc aujourd'hui votre aide bienveillante afin que vous puissiez me transmettre par écrit les coordonnées de votre compagnie d'assurance (nom de l'assureur et numéro de police d'assurance civile professionnelle en vigueur au **[J+0 Accident]**).
 
 En application de l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), la victime dispose d'une action directe contre l'assureur de responsabilité civile de l'auteur du dommage.
 
@@ -87,7 +87,7 @@ En application de l'[Article L. 124-3 du Code des assurances](https://www.legifr
 
 Je vous remercie de bien vouloir me communiquer, dans les meilleurs délais, les informations suivantes :
 
-1. Le nom et les coordonnées complètes de la compagnie d'assurance couvrant la responsabilité civile professionnelle de **[L'Exploitant du Commerce]** au titre de la police en vigueur le 29 mai 2026 ;
+1. Le nom et les coordonnées complètes de la compagnie d'assurance couvrant la responsabilité civile professionnelle de **[L'Exploitant du Commerce]** au titre de la police en vigueur le **[J+0 Accident]** ;
 
 2. Le numéro de contrat d'assurance souscrit ;
 
@@ -129,6 +129,6 @@ Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Gén�
 
 **[La Victime]**
 
-> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident]** sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
 > Cette situation de handicap physique temporaire explique le délai de transmission de mes demandes administratives.

@@ -27,11 +27,11 @@ format: Arial JUSTIFIED
 
 # ASSIGNATION EN RÉFÉRÉ-PROVISION ET DEMANDE D'EXPERTISE MÉDICALE
 
-Rédigé le 30 juin 2026
+Rédigé le **[J+32 Assignation référé]**
 
 ## INTRODUCTION
 
-La présente assignation en référé-provision et demande d'expertise médicale est introduite par **[La Victime]** à l'encontre de **[L'Exploitant du Commerce]**, personne morale exploitant un salon de coiffure au sein duquel la victime a subi un grave accident corporel le 29 mai 2026.
+La présente assignation en référé-provision et demande d'expertise médicale est introduite par **[La Victime]** à l'encontre de **[L'Exploitant du Commerce]**, personne morale exploitant un salon de coiffure au sein duquel la victime a subi un grave accident corporel le **[J+0 Accident]**.
 
 Par cet acte, **[La Victime]** sollicite du président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, l'allocation d'une provision de 5 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de l'[Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
 
@@ -65,25 +65,25 @@ PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCI
 
 ## I. EXPOSÉ DES FAITS
 
-Le 29 mai 2026, **[La Victime]** s'est rendu au salon de coiffure exploité par **[L'Exploitant du Commerce]** pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero (15,00 €) **(Pièce n°1)**.
+Le **[J+0 Accident]**, **[La Victime]** s'est rendu au salon de coiffure exploité par **[L'Exploitant du Commerce]** pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero (15,00 €) **(Pièce n°1)**.
 
 Alors qu'il se trouvait au bac à shampoing, **[Le Préposé de l'Exploitation]**, qui était monté sur la vasque en céramique, a provoqué le basculement brutal de l'équipement en tentant d'en descendre. Par un réflexe d'assistance pour retenir la chute, **[La Victime]** a tendu sa main droite, qui a heurté une cassure majeure préexistante non signalée sur le flanc de la vasque.
 
-**[La Victime]** a immédiatement été pris en charge aux urgences du SMUR 09 par **[Le Médecin en Urgence]**, qui a procédé à une suture initiale d'une plaie palmaire de 8,5 cm et diagnostiqué une suspicion d'atteinte tendineuse et nerveuse majeure **(Pièce n°2)**.
+**[La Victime]** a immédiatement été pris en charge aux urgences du **[SMUR local]** par **[Le Médecin en Urgence]**, qui a procédé à une suture initiale d'une plaie palmaire de 8,5 cm et diagnostiqué une suspicion d'atteinte tendineuse et nerveuse majeure **(Pièce n°2)**.
 
-Le lendemain, 30 mai 2026, **[La Victime]** a été hospitalisé et opéré en urgence par **[Le Chirurgien SOS Main]** au service SOS Main de **[L'Établissement SOS Main]**.
+Le lendemain, **[J+1 Chirurgie]**, **[La Victime]** a été hospitalisé et opéré en urgence par **[Le Chirurgien SOS Main]** au service SOS Main de **[L'Établissement SOS Main]**.
 
 L'intervention microchirurgicale a révélé et traité une section partielle du tendon fléchisseur de l'index droit (main dominante), une section complète des paquets collatéraux vasculo-nerveux, et une neurolyse du nerf palmaire, nécessitant une suture Mac Learney à 6 brins et une micro-suture nerveuse sous loupes binoculaires. **[La Victime]** a quitté la clinique le jour même **(Pièce n°3)**.
 
-La lettre de liaison de sortie officielle lui a été transmise par e-mail le lendemain, 31 mai 2026, actant un repos post-opératoire immédiat.
+La lettre de liaison de sortie officielle lui a été transmise par e-mail le lendemain, **[J+2 Sortie]**, actant un repos post-opératoire immédiat.
 
 En raison de la gravité des lésions subies à sa main droite dominante (section partielle du tendon fléchisseur et section complète des paquets collatéraux vasculo-nerveux), **[La Victime]** s'est trouvé dans l'incapacité d'utiliser sa main droite pour saisir au clavier ou manipuler une souris.
 
 Cet état de handicap temporaire sévère et documenté explique et justifie le délai nécessaire pour la finalisation de la présente procédure, engagée dès que son état de santé a permis d'entreprendre des démarches de rédaction.
 
-Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du 02/06/2026) **(Pièce n°5)**. Un dossier de Recours contre Tiers a également été ouvert auprès de la CPAM sous la référence [ ... ] **(Pièce n°6)**.
+Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du **[J+4 Dépôt de plainte]**) **(Pièce n°5)**. Un dossier de Recours contre Tiers a également été ouvert auprès de la CPAM sous la référence [ ... ] **(Pièce n°6)**.
 
-À ce jour, le cumul des arrêts de travail prescrits s'élève à 56 jours d'ITT continue (du 29/05/2026 au 23/07/2026 inclus) **(Pièce n°4)**.
+À ce jour, le cumul des arrêts de travail prescrits s'élève à 56 jours d'ITT continue (du **[J+0 Accident]** au **[J+55 Fin d'ITT]** inclus) **(Pièce n°4)**.
 
 
 <hr><hr>
@@ -136,7 +136,7 @@ La demande inclut implicitement une provision *ad litem* destinée à couvrir le
 
 **4. Aucune offre amiable n'a été formulée**
 
-Les mises en demeure adressées le 29 juin 2026 sont restées sans réponse. L'absence d'offre amiable dans le délai de 15 jours caractérise l'absence de contestation sérieuse de la part du débiteur et justifie l'intervention du juge des référés.
+Les mises en demeure adressées le **[J+31 Mises en demeure]** sont restées sans réponse. L'absence d'offre amiable dans le délai de 15 jours caractérise l'absence de contestation sérieuse de la part du débiteur et justifie l'intervention du juge des référés.
 
 **5. Jurisprudence**
 
@@ -186,16 +186,16 @@ Vu les pièces versées aux débats,
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 
-- **Pièce n°1 :** Preuves de l'opération de paiement Wero de 15,00 € (29/05/2026)
-- **Pièce n°2 :** Certificat médical de premiers soins d'urgence rédigé par **[Le Médecin en Urgence]** (29/05/2026)
-- **Pièce n°3 :** Compte-rendu opératoire de microchirurgie rédigé par **[Le Chirurgien SOS Main]** (30/05/2026)
+- **Pièce n°1 :** Preuves de l'opération de paiement Wero de 15,00 € (**[J+0 Accident]**)
+- **Pièce n°2 :** Certificat médical de premiers soins d'urgence rédigé par **[Le Médecin en Urgence]** (**[J+0 Accident]**)
+- **Pièce n°3 :** Compte-rendu opératoire de microchirurgie rédigé par **[Le Chirurgien SOS Main]** (**[J+1 Chirurgie]**)
 - **Pièce n°4 :** Certificats médicaux d'arrêts de travail justifiant 56 jours d'ITT
 - **Pièce n°5 :** Dépôt de plainte officielle et procès-verbal de police pour blessures involontaires
 - **Pièce n°6 :** Dossier de Recours Contre Tiers (RCT) CPAM
 
 <hr><hr>
 
-Fait à **[La Ville de l'Accident]**, le 30 juin 2026.
+Fait à **[La Ville de l'Accident]**, le **[J+32 Assignation référé]**.
 
 
 Pour **[La Victime]** **[Nom de l'Avocat de la Victime]**

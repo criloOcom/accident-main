@@ -40,11 +40,11 @@ format: Arial JUSTIFIED
 
 # STRATEGIE CONTENTIEUX CIVIL
 
-Rédigé le 4 juillet 2026
+Rédigé le **[J+36 Lettre consolidation]**
 
 ## 1. Présentation
 
-Le 29 mai 2026, **[La Victime]** a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** (SAS LES MAUVAIS GARÇONS, SIRET 938 033 222 00010), situé **[L'Adresse de l'Exploitation]**. Alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger **[Le Préposé de l'Exploitation]** ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une microchirurgie SOS Main en urgence.
+Le **[J+0 Accident]**, **[La Victime]** a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** (**[L'Exploitant du Commerce]**, SIRET **[SIRET de l'Exploitation]**), situé **[L'Adresse de l'Exploitation]**. Alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger **[Le Préposé de l'Exploitation]** ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une microchirurgie SOS Main en urgence.
 
 Le contentieux civil a pour objet d'obtenir la réparation intégrale des préjudices subis, estimés à 59 600 € selon la nomenclature Dintilhac. Il se déploie sur plusieurs fondements juridiques complémentaires incluant, en cas de défaillance de l'auteur, la voie indemnitaire du Fonds de Garantie des Victimes d'Infractions (FGTI).
 
@@ -68,7 +68,7 @@ L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes
 > Attendu : « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »
 > Résumé : La dissolution et la clôture de la liquidation d'une personne morale n'éteignent pas l'action directe de la victime contre son assureur de responsabilité civile, qui reste recevable.
 
-La mise en demeure de l'assureur a été adressée le 29 juin 2026, enjoignant à la compagnie de prendre en charge le sinistre et de procéder au règlement des préjudices sous 15 jours.
+La mise en demeure de l'assureur a été adressée le **[J+31 Mises en demeure]**, enjoignant à la compagnie de prendre en charge le sinistre et de procéder au règlement des préjudices sous 15 jours.
 
 ### 2.3 Survie de la personnalité morale
 
@@ -86,7 +86,7 @@ Conformément à l'[Article 1844-8 du Code civil](https://www.legifrance.gouv.fr
 
 ### 3.1 Référé-provision
 
-Une assignation en [référé-provision](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) (article 835 du Code de procédure civile) a été rédigée le 30 juin 2026 pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive.
+Une assignation en [référé-provision](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) (article 835 du Code de procédure civile) a été rédigée le **[J+32 Assignation référé]** pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive.
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
 
@@ -116,9 +116,9 @@ Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels rés
 **Procédure :** La victime saisit la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de **[La Ville de l'Accident]**, qui statue sur le droit à indemnisation et fixe le montant.
 
 **Délai CIVI = 3 ans ([Article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)) :**
-- La victime dispose de **3 ans** à compter de la date de l'infraction (29 mai 2026 → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
+- La victime dispose de **3 ans** à compter de la date de l'infraction (**[J+0 Accident]** → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
 - Si une décision pénale définitive intervient, ce délai est ramené à **1 an** à compter de cette décision.
-- En l'état de l'enquête préliminaire en cours, la date de référence est celle de l'infraction (29 mai 2026).
+- En l'état de l'enquête préliminaire en cours, la date de référence est celle de l'infraction (**[J+0 Accident]**).
 
 Cette voie est subsidiaire : elle ne se substitue pas à l'action directe contre l'assureur, mais la sécurise en cas d'insolvabilité de l'auteur.
 
@@ -158,25 +158,25 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 ## 6. Récapitulatif des pièces
 
 Pièces médicales :
-- 29/05/2026 — Dr Julie JARDON — Premiers soins urgence
-- 30/05/2026 — Dr Iskander DJERBI — CR opératoire
-- 30/05/2026 — Dr Iskander DJERBI — Ordonnance de sortie
-- 10/06/2026 — Dr Iskander DJERBI — Facture chirurgie 790,23 €
-- 19/06/2026 — Dr Iskander DJERBI — CR contrôle J+20
-- 30/06/2026 — Dr Julie JARDON — Consultation urgence J+32
-- 01/07/2026 — Dr OXYBEL — Consultation générale J+33
-- 08/07/2026 — Dr Iskander DJERBI — CR de reprise J+39
+- **[J+0 Accident]** — **[Le Médecin en Urgence]** — Premiers soins urgence
+- **[J+1 Chirurgie]** — **[Le Chirurgien SOS Main]** — CR opératoire
+- **[J+1 Chirurgie]** — **[Le Chirurgien SOS Main]** — Ordonnance de sortie
+- **[J+12 Facture]** — **[Le Chirurgien SOS Main]** — Facture chirurgie 790,23 €
+- **[J+21 Contrôle chirurgical]** — **[Le Chirurgien SOS Main]** — CR contrôle J+20
+- **[J+32 Assignation référé]** — **[Le Médecin en Urgence]** — Consultation urgence J+32
+- **[J+33 Plainte complémentaire]** — **[Le Médecin Généraliste]** — Consultation générale J+33
+- **[J+40 Consultation suivi]** — **[Le Chirurgien SOS Main]** — CR de reprise J+39
 
 Pièces financières :
-- 29/05/2026 — Wero — Preuve de paiement / remboursement
+- **[J+0 Accident]** — Wero — Preuve de paiement / remboursement
 
 Pièces administratives :
-- 03/06/2026 — CPAM Haute-Garonne — Dossier RCT 31727387
-- 01/06/2026 — INSEE — Avis de situation SAS
-- 01/06/2026 — INPI — Fiche identité SAS
+- **[J+5 Ouverture CPAM]** — CPAM Haute-Garonne — Dossier RCT **[N° Dossier CPAM]**
+- **[J+3 Premiers arrêts]** — INSEE — Avis de situation SAS
+- **[J+3 Premiers arrêts]** — INPI — Fiche identité SAS
 - 04/06/2026 — URSSAF Midi-Pyrénées — Attestations de vigilance
 
 Pièces de procédure :
-- 29/06/2026 — Mise en demeure **[L'Exploitant du Commerce]**
-- 29/06/2026 — Mise en demeure **[Le Président de l'Exploitation]**
-- 29/06/2026 — Mise en demeure **[La Directrice Générale de l'Exploitation]**
+- **[J+31 Mises en demeure]** — Mise en demeure **[L'Exploitant du Commerce]**
+- **[J+31 Mises en demeure]** — Mise en demeure **[Le Président de l'Exploitation]**
+- **[J+31 Mises en demeure]** — Mise en demeure **[La Directrice Générale de l'Exploitation]**

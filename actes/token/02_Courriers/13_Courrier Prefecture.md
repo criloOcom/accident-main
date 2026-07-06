@@ -41,9 +41,9 @@ Courriel : **[L'Email de la Victime]**
 
 **[Adresse à compléter]**
 
-**[La Ville de l'Accident]**, le 5 juillet 2026
+**[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
 
-Objet : Confirmation officielle de signalement — Accident du 29 mai 2026 au salon **[L'Exploitant du Commerce]**
+Objet : Confirmation officielle de signalement — Accident du **[J+0 Accident]** au salon **[L'Exploitant du Commerce]**
 
 Ref : Signalement effectue par la Mairie de **[La Ville de l'Accident]** le 1er juin 2026
 
@@ -51,13 +51,13 @@ Madame, Monsieur le Prefet,
 
 ## INTRODUCTION
 
-La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, situe **[Adresse du Commerce]** a **[La Ville de l'Accident]**.
+La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, situe **[Adresse du Commerce]** a **[La Ville de l'Accident]**.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur. Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main.
 
 ## I — RAPPEL DES FAITS
 
-Le 29 mai 2026, le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur. L'equipement, instable et presentant une cassure preexistante non signalee, a bascule sous le poids du prepose. Ma main droite, tendue par reflexe, a heurte la cassure preexistante, entrainant des lesions graves ayant necessite une microchirurgie d'urgence.
+Le **[J+0 Accident]**, le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur. L'equipement, instable et presentant une cassure preexistante non signalee, a bascule sous le poids du prepose. Ma main droite, tendue par reflexe, a heurte la cassure preexistante, entrainant des lesions graves ayant necessite une microchirurgie d'urgence.
 
 Cet accident revele de multiples manquements aux regles de securite applicables aux etablissements recevant du public (ERP) et au Code du travail.
 
@@ -65,11 +65,11 @@ Cet accident revele de multiples manquements aux regles de securite applicables 
 
 Plusieurs procedures ont ete engagees a ce jour :
 
-1. Depot de plainte au commissariat de **[La Ville de l'Accident]** (PV n° 2026/015967)
+1. Depot de plainte au commissariat de **[La Ville de l'Accident]** (PV n° **[N° PV Police]**)
 2. Constitution de partie civile transmise au Tribunal Judiciaire de **[La Ville de l'Accident]**
-3. Mises en demeure LRAR a la SAS, a ses dirigeants et au proprietaire des murs (29 juin 2026)
+3. Mises en demeure LRAR a la SAS, a ses dirigeants et au proprietaire des murs (**[J+31 Mises en demeure]**)
 4. Action directe contre l'assureur RC professionnelle (Article L.124-3 du Code des assurances)
-5. Dossier de recours contre tiers a la CPAM (n° 31727387)
+5. Dossier de recours contre tiers a la CPAM (n° **[N° Dossier CPAM]**)
 6. Demande d'enquete a l'Inspection du Travail (DDETS 09 / DREETS Occitanie)
 7. Saisine du CODAF
 

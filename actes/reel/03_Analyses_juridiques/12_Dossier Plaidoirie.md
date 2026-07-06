@@ -45,10 +45,10 @@ format: Arial JUSTIFIED
 - Frais irrépétibles (Article 700 du CPC) : 3 000 €
 
 **PIÈCES CLÉS DU DOSSIER :**
-- **Pièce ACQ-10 :** Procès-verbal de constat de police confirmant les circonstances matérielles (02/06/2026)
-- **Pièce ACQ-09 :** Dépôt de plainte officiel formalisant l'infraction pénale (01/06/2026)
-- **Pièce ACQ-04 :** Compte-rendu opératoire attestant de la section tendineuse et nerveuse (30/05/2026)
-- **Pièce ACQ-17 :** Mises en demeure par Lettres Recommandées avec Accusé de Réception (29/06/2026)
+- **Pièce ACQ-10 :** Procès-verbal de constat de police confirmant les circonstances matérielles (2 juin 2026)
+- **Pièce ACQ-09 :** Dépôt de plainte officiel formalisant l'infraction pénale (1 juin 2026)
+- **Pièce ACQ-04 :** Compte-rendu opératoire attestant de la section tendineuse et nerveuse (30 mai 2026)
+- **Pièce ACQ-17 :** Mises en demeure par Lettres Recommandées avec Accusé de Réception (29 juin 2026)
 
 <hr><hr>
 
@@ -56,11 +56,11 @@ format: Arial JUSTIFIED
 
 *Rappel des dates clés démontrant l'urgence et la gravité de la situation.*
 
-- **29 mai 2026 :** Date de l'accident au sein de l'établissement SAS LES MAUVAIS GARCONS. Le préposé Ayoub BENNOURINE monte sur la vasque du bac à shampoing qui bascule. En tentant de le protéger par réflexe, Sébastien GRAZIDE heurte une cassure tranchante préexistante de la vasque. Section des tendons et nerfs de l'index droit.
-- **30 mai 2026 :** Intervention en urgence de microchirurgie à la Clinique de l'Union par Dr Iskander DJERBI.
+- 29 mai 2026 :** Date de l'accident au sein de l'établissement SAS LES MAUVAIS GARCONS. Le préposé Ayoub BENNOURINE monte sur la vasque du bac à shampoing qui bascule. En tentant de le protéger par réflexe, Sébastien GRAZIDE heurte une cassure tranchante préexistante de la vasque. Section des tendons et nerfs de l'index droit.
+- 30 mai 2026 :** Intervention en urgence de microchirurgie à la Clinique de l'Union par Dr Iskander DJERBI.
 - **1er juin 2026 :** Dépôt de plainte officiel par la victime (Pièce ACQ-09).
-- **29 juin 2026 :** Envoi des Mises en demeure (LRAR) visant à obtenir l'attestation d'assurance de la SAS (Pièce ACQ-17). Silence radio des dirigeants.
-- **5 juillet 2026 :** Signalements administratifs effectués auprès des diverses autorités (Inspection du Travail, CODAF, etc.) face au refus persistant de coopération de l'employeur.
+- 29 juin 2026 :** Envoi des Mises en demeure (LRAR) visant à obtenir l'attestation d'assurance de la SAS (Pièce ACQ-17). Silence radio des dirigeants.
+- 5 juillet 2026 :** Signalements administratifs effectués auprès des diverses autorités (Inspection du Travail, CODAF, etc.) face au refus persistant de coopération de l'employeur.
 - **Date non fixée (à planifier) :** Date de la présente audience de référé pour obtenir l'indemnisation provisionnelle et forcer la communication de la couverture assurantielle.
 
 <hr><hr>

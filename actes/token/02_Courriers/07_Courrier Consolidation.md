@@ -38,9 +38,9 @@ Service SOS Main — **[L'Établissement SOS Main]**
 
 **[Adresse à compléter]**
 
-**[La Ville de l'Accident]**, le 5 juillet 2026
+**[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
 
-Objet : Demande de certificat medical de consolidation — Accident du 29 mai 2026
+Objet : Demande de certificat medical de consolidation — Accident du **[J+0 Accident]**
 
 Reff : Dossier **[La Victime]** / **[Le Chirurgien SOS Main]**
 
@@ -48,27 +48,27 @@ Madame, Docteur,
 
 ## INTRODUCTION
 
-La presente lettre est adressee par **[La Victime]** a **[Le Chirurgien SOS Main]** afin de solliciter la delivrance d'un certificat medical de consolidation dans le cadre de la procedure d'indemnisation de l'accident corporel dont il a ete victime le 29 mai 2026 et qui a necessite votre intervention de microchirurgie d'urgence le 30 mai 2026.
+La presente lettre est adressee par **[La Victime]** a **[Le Chirurgien SOS Main]** afin de solliciter la delivrance d'un certificat medical de consolidation dans le cadre de la procedure d'indemnisation de l'accident corporel dont il a ete victime le **[J+0 Accident]** et qui a necessite votre intervention de microchirurgie d'urgence le **[J+1 Chirurgie]**.
 
 Ce document est indispensable a la poursuite de la procedure judiciaire et a l'evaluation definitive des prejudices subis conformement a la Nomenclature Dintilhac.
 
 Rappel du parcours medical
 
-Vous avez opere **[La Victime]** le 30 mai 2026 au service SOS Main de **[L'Établissement SOS Main]** pour une plaie palmaire profonde de 8,5 cm de l'index droit avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux collaterale ulnaire et radial. 
+Vous avez opere **[La Victime]** le **[J+1 Chirurgie]** au service SOS Main de **[L'Établissement SOS Main]** pour une plaie palmaire profonde de 8,5 cm de l'index droit avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux collaterale ulnaire et radial. 
 
 L'intervention a consiste en une suture tendineuse 6 brins, une suture microchirurgicale des nerfs et vaisseaux a l'ethilon 9-0, et une neurolyse d'urgence.
 
-Lors de la consultation de controle du 23 juin 2026 (J+20), vous avez constate une bonne cicatrisation, prescrit une kinesitherapie a raison de 3 seances par semaine (sans travail en resistance pendant 4 semaines), et evalue le pronostic de recuperation neurologique a un an minimum, avec un resultat souvent partiel suite a une suture nerveuse.
+Lors de la consultation de controle du **[J+25 Première kiné]** (J+20), vous avez constate une bonne cicatrisation, prescrit une kinesitherapie a raison de 3 seances par semaine (sans travail en resistance pendant 4 semaines), et evalue le pronostic de recuperation neurologique a un an minimum, avec un resultat souvent partiel suite a une suture nerveuse.
 
 Etat actuel et demande
 
 A ce jour, **[La Victime]** suit toujours sa kinesitherapie de facon assidue.
 
-L'arret de travail total (ITT) initialement prescrit par **[Le Medecin Generaliste]** court jusqu'au 23 juillet 2026 (56 jours).
+L'arret de travail total (ITT) initialement prescrit par **[Le Medecin Generaliste]** court jusqu'au **[J+55 Fin d'ITT]** (56 jours).
 
 La sensibilite de l'index droit reste partiellement alteree, la flexion active est limitee, et la douleur neuropathique persiste.
 
-Dans le cadre de la procedure judiciaire en cours (recours contre tiers aupres de la CPAM, dossier n° **31727387**), l'evaluation definitive des postes de prejudice — notamment le Defficit Fonctionnel Permanent (DFP), l'Incidence Professionnelle (IP) et les Souffrances Endurees (SE) — necessite la fixation prealable d'une **date de consolidation** par certificat medical.
+Dans le cadre de la procedure judiciaire en cours (recours contre tiers aupres de la CPAM, dossier n° **[N° Dossier CPAM]**), l'evaluation definitive des postes de prejudice — notamment le Defficit Fonctionnel Permanent (DFP), l'Incidence Professionnelle (IP) et les Souffrances Endurees (SE) — necessite la fixation prealable d'une **date de consolidation** par certificat medical.
 
 Je sollicite donc votre bienveillance afin de :
 
@@ -102,4 +102,4 @@ Je vous prie d'agreer, Madame, Docteur, l'expression de ma consideration disting
 
 **[La Victime]**
 
-NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arret de travail (ITT medicale de 56 jours) et dans l'incapacite d'utiliser normalement un clavier d'ordinateur ou d'ecrire manuellement. Cette situation de handicap physique temporaire explique le delai de transmission de mes demandes administratives.
+NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident]** sur ma main droite dominante, je suis actuellement en arret de travail (ITT medicale de 56 jours) et dans l'incapacite d'utiliser normalement un clavier d'ordinateur ou d'ecrire manuellement. Cette situation de handicap physique temporaire explique le delai de transmission de mes demandes administratives.

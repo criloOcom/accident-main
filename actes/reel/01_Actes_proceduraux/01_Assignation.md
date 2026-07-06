@@ -81,9 +81,9 @@ En raison de la gravité des lésions subies à sa main droite dominante (sectio
 
 Cet état de handicap temporaire sévère et documenté explique et justifie le délai nécessaire pour la finalisation de la présente procédure, engagée dès que son état de santé a permis d'entreprendre des démarches de rédaction.
 
-Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du 02/06/2026) **(Pièce n°5)**. Un dossier de Recours contre Tiers a également été ouvert auprès de la CPAM sous la référence [ ... ] **(Pièce n°6)**.
+Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du 2 juin 2026) **(Pièce n°5)**. Un dossier de Recours contre Tiers a également été ouvert auprès de la CPAM sous la référence [ ... ] **(Pièce n°6)**.
 
-À ce jour, le cumul des arrêts de travail prescrits s'élève à 56 jours d'ITT continue (du 29/05/2026 au 23/07/2026 inclus) **(Pièce n°4)**.
+À ce jour, le cumul des arrêts de travail prescrits s'élève à 56 jours d'ITT continue (du 29 mai 2026 au 23 juillet 2026 inclus) **(Pièce n°4)**.
 
 
 <hr><hr>
@@ -186,9 +186,9 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 
-- **Pièce n°1 :** Preuves de l'opération de paiement Wero de 15,00 € (29/05/2026)
-- **Pièce n°2 :** Certificat médical de premiers soins d'urgence rédigé par Dr Julie JARDON (29/05/2026)
-- **Pièce n°3 :** Compte-rendu opératoire de microchirurgie rédigé par Dr Iskander DJERBI (30/05/2026)
+- **Pièce n°1 :** Preuves de l'opération de paiement Wero de 15,00 € (29 mai 2026)
+- **Pièce n°2 :** Certificat médical de premiers soins d'urgence rédigé par Dr Julie JARDON (29 mai 2026)
+- **Pièce n°3 :** Compte-rendu opératoire de microchirurgie rédigé par Dr Iskander DJERBI (30 mai 2026)
 - **Pièce n°4 :** Certificats médicaux d'arrêts de travail justifiant 56 jours d'ITT
 - **Pièce n°5 :** Dépôt de plainte officielle et procès-verbal de police pour blessures involontaires
 - **Pièce n°6 :** Dossier de Recours Contre Tiers (RCT) CPAM

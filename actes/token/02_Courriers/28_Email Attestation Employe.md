@@ -4,7 +4,7 @@ date: 2026-07-06
 type: acte
 categorie: procedure
 auteur: La Victime
-destinataire: Employé(e) du salon présent(e) le 29/05/2026
+destinataire: Employé(e) du salon présent(e) le **[J+0 Accident]**
 tags:
 - email
 - attestation
@@ -16,13 +16,13 @@ format: Arial JUSTIFIED
 
 # TRANSMISSION — Gabarit d'attestation de témoin (Employé)
 
-Objet : Attestation de témoin — Accident du 29 mai 2026 au **[L'Adresse de l'Exploitation]**
+Objet : Attestation de témoin — Accident du **[J+0 Accident]** au **[L'Adresse de l'Exploitation]**
 
 ---
 
 Bonjour,
 
-Vous étiez présent(e) le **29 mai 2026** en tant qu'employé(e) du salon **Exploitant du Commerce** situé au **[L'Adresse de l'Exploitation]** lorsque l'accident s'est produit.
+Vous étiez présent(e) le **[J+0 Accident]** en tant qu'employé(e) du salon **Exploitant du Commerce** situé au **[L'Adresse de l'Exploitation]** lorsque l'accident s'est produit.
 
 Je me permets de vous solliciter pour remplir une **attestation de témoin** (Cerfa n° 11527\*03) afin de décrire ce que vous avez vu ce jour-là. Votre témoignage est particulièrement important sur les points suivants :
 

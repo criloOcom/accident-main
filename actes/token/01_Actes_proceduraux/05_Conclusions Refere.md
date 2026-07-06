@@ -31,7 +31,7 @@ format: Arial JUSTIFIED
 
 **CONTRE :**
 
-**[L'Exploitant du Commerce]** (SAS LES MAUVAIS GARÇONS), Société par Actions Simplifiée, immatriculée au RCS de **[La Ville de l'Accident]** sous le numéro SIRET **[L'Identifiant de l'Exploitation]**, ayant son siège social au **[L'Adresse de l'Exploitation]**, prise en la personne de sa représentante légale en exercice, **[La Directrice Générale de l'Exploitation]**, Directrice Générale.
+**[L'Exploitant du Commerce]** (**[L'Exploitant du Commerce]**), Société par Actions Simplifiée, immatriculée au RCS de **[La Ville de l'Accident]** sous le numéro SIRET **[L'Identifiant de l'Exploitation]**, ayant son siège social au **[L'Adresse de l'Exploitation]**, prise en la personne de sa représentante légale en exercice, **[La Directrice Générale de l'Exploitation]**, Directrice Générale.
 
 *Défendeur*
 
@@ -39,15 +39,15 @@ format: Arial JUSTIFIED
 
 ## I. EXPOSÉ DU LITIGE
 
-Le 29 mai 2026, **[La Victime]** s'est rendu au salon de coiffure exploité par la SAS **[L'Exploitant du Commerce]** pour y bénéficier de prestations capillaires.
+Le **[J+0 Accident]**, **[La Victime]** s'est rendu au salon de coiffure exploité par la SAS **[L'Exploitant du Commerce]** pour y bénéficier de prestations capillaires.
 
 Alors que **[La Victime]** se trouvait au bac à shampoing, **[Le Préposé de l'Exploitation]**, préposé de l'établissement, a entrepris de monter sur la vasque en céramique. En tentant d'en descendre, ce dernier a provoqué le basculement brutal de l'équipement, lequel présentait une cassure préexistante non signalée.
 
 Par un réflexe naturel d'assistance pour retenir la chute de l'équipement, **[La Victime]** a tendu sa main droite, heurtant violemment la cassure.
 
-Il a immédiatement été pris en charge aux urgences, avec une suture initiale d'une plaie palmaire de 8,5 cm. Le lendemain, 30 mai 2026, **[La Victime]** a été opéré en urgence au service SOS Main, l'intervention microchirurgicale révélant la section partielle du tendon fléchisseur de l'index droit et la section complète des paquets collatéraux vasculo-nerveux.
+Il a immédiatement été pris en charge aux urgences, avec une suture initiale d'une plaie palmaire de 8,5 cm. Le lendemain, **[J+1 Chirurgie]**, **[La Victime]** a été opéré en urgence au service SOS Main, l'intervention microchirurgicale révélant la section partielle du tendon fléchisseur de l'index droit et la section complète des paquets collatéraux vasculo-nerveux.
 
-Ces blessures, affectant la main dominante d'un informaticien indépendant, ont entraîné une incapacité temporaire totale (ITT) de 56 jours (du 29 mai au 23 juillet 2026 inclus), occasionnant une perte de revenus et une incidence professionnelle majeures.
+Ces blessures, affectant la main dominante d'un informaticien indépendant, ont entraîné une incapacité temporaire totale (ITT) de 56 jours (du 29 mai au **[J+55 Fin d'ITT]** inclus), occasionnant une perte de revenus et une incidence professionnelle majeures.
 
 <hr><hr>
 
@@ -103,10 +103,10 @@ Fait à **[La Ville de l'Accident]**, le Date non fixée (à planifier).
 
 ## BORDEREAU DE PIÈCES COMMUNIQUÉES
 
-1. **Pièce n° 1 :** Certificat médical initial constatant les blessures de **[La Victime]** (**[Le Médecin en Urgence]**, 29/05/2026)
-2. **Pièce n° 2 :** Compte-rendu opératoire de microchirurgie (**[Le Chirurgien SOS Main]**, SOS Main, 30/05/2026)
-3. **Pièce n° 3 :** Dépôt de plainte pour blessures involontaires (Police **[La Ville de l'Accident]**, 01/06/2026)
-4. **Pièce n° 4 :** Procès-verbal de police constatant l'accident (n°2026/015967, 02/06/2026)
-5. **Pièce n° 5 :** Notification de prise en charge par la CPAM de la Haute-Garonne (Dossier RCT 31727387, 03/06/2026)
+1. **Pièce n° 1 :** Certificat médical initial constatant les blessures de **[La Victime]** (**[Le Médecin en Urgence]**, **[J+0 Accident]**)
+2. **Pièce n° 2 :** Compte-rendu opératoire de microchirurgie (**[Le Chirurgien SOS Main]**, SOS Main, **[J+1 Chirurgie]**)
+3. **Pièce n° 3 :** Dépôt de plainte pour blessures involontaires (Police **[La Ville de l'Accident]**, **[J+3 Premiers arrêts]**)
+4. **Pièce n° 4 :** Procès-verbal de police constatant l'accident (n°**[N° PV Police]**, **[J+4 Dépôt de plainte]**)
+5. **Pièce n° 5 :** Notification de prise en charge par la CPAM de la Haute-Garonne (Dossier RCT **[N° Dossier CPAM]**, **[J+5 Ouverture CPAM]**)
 6. **Pièce n° 6 :** Arrêt de travail (volet 1) et prolongations pour une ITT de 56 jours (**[Le Médecin Généraliste]**)
-7. **Pièce n° 7 :** Mises en demeure adressées à la SAS et à ses dirigeants (29/06/2026) et accusés de réception
+7. **Pièce n° 7 :** Mises en demeure adressées à la SAS et à ses dirigeants (**[J+31 Mises en demeure]**) et accusés de réception

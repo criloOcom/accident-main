@@ -4,7 +4,7 @@ date: 2026-07-06
 type: acte
 categorie: procedure
 auteur: La Victime
-destinataire: Témoin client présent le 29/05/2026
+destinataire: Témoin client présent le 29 mai 2026
 tags:
 - email
 - attestation
@@ -22,7 +22,7 @@ Objet : Attestation de témoin — Accident du 29 mai 2026 au salon 22 Rue Lafau
 
 Bonjour,
 
-Vous étiez présent(e) le **29 mai 2026** au salon **Exploitant du Commerce** situé au 22 Rue Lafaurie, 09000 Foix lorsque l'accident s'est produit.
+Vous étiez présent(e) le 29 mai 2026 au salon **Exploitant du Commerce** situé au 22 Rue Lafaurie, 09000 Foix lorsque l'accident s'est produit.
 
 Je me permets de vous solliciter pour remplir une **attestation de témoin** (Cerfa n° 11527\*03) afin de décrire ce que vous avez vu ce jour-là : la montée du coiffeur sur la vasque en céramique pour régler la télévision, le basculement de l'équipement, et le fait que ma main droite a heurté une cassure préexistante sur le flanc de la vasque.
 

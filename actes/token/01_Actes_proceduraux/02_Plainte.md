@@ -25,7 +25,7 @@ format: Arial JUSTIFIED
 
 # COMPLÉMENT DE PLAINTE PÉNALE — DÉFAUT D'ASSURANCE RC
 
-Rédigé le 30 juin 2026
+Rédigé le **[J+32 Assignation référé]**
 
 
 **[L'Adresse de la Victime]**
@@ -44,7 +44,7 @@ Tribunal Judiciaire de **[La Ville de l'Accident]**
 
 09008 **[La Ville de l'Accident]** Cedex
 
-**[La Ville de Résidence de la Victime]**, le 30 juin 2026
+**[La Ville de Résidence de la Victime]**, le **[J+32 Assignation référé]**
 
 OBJET : COMPLÉMENT DE PLAINTE PÉNALE
 
@@ -77,7 +77,7 @@ En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en 
 
 ## I. Exposé des Faits
 
-Le 29 mai 2026, alors qu'il se trouvait dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** en qualité de client, **[La Victime]** a été victime d'un accident corporel grave au sein de l'établissement, sise **[L'Adresse de l'Exploitation]**. 
+Le **[J+0 Accident]**, alors qu'il se trouvait dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** en qualité de client, **[La Victime]** a été victime d'un accident corporel grave au sein de l'établissement, sise **[L'Adresse de l'Exploitation]**. 
 
 Alors que **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger **[Le Préposé de l'Exploitation]** ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
@@ -85,7 +85,7 @@ Ces faits, constitutifs de blessures involontaires au sens de l'[Article 222-19 
 
 Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce]**. Ni le Président de la SAS, **[Le Président de l'Exploitation]**, ni la co-dirigeante, **[La Directrice Générale de l'Exploitation]**, n'ont déféré aux demandes amiables de **[La Victime]**, ni à celles adressées au propriétaire des murs, **[Le Propriétaire des Murs]**. 
 
-Ce silence persistant, malgré l'envoi de courriers recommandés le 29 juin 2026, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
+Ce silence persistant, malgré l'envoi de courriers recommandés le **[J+31 Mises en demeure]**, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
 
 
 <hr><hr>
@@ -148,13 +148,13 @@ Par ces motifs, **[La Victime]** sollicite qu'il plaise à Monsieur le Procureur
 
 3. **RECUEILLIR** les explications des mis en cause sur la dissimulation des informations d'assurance ;
 
-4. **ORDONNER** la préservation urgente et la saisie des enregistrements de vidéosurveillance du salon pour la journée du 29 mai 2026, afin de prévenir toute destruction de preuve.
+4. **ORDONNER** la préservation urgente et la saisie des enregistrements de vidéosurveillance du salon pour la journée du **[J+0 Accident]**, afin de prévenir toute destruction de preuve.
 
 Le plaignant se constitue partie civile et se tient à la disposition de la justice pour toute mesure d'expertise ou audition nécessaire à la manifestation de la vérité.
 
 **[La Victime]**
 
-> **Note administrative :** Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+> **Note administrative :** Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident]** sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 > 
 > Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement du présent document.
 ```

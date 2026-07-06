@@ -36,24 +36,24 @@ format: Arial JUSTIFIED
 
 ### Pièce n° 1
 
-- **02/06/2026** — Procès-verbal de police n° 2026/015967 (Police Nationale **[La Métropole Régionale]**) : Dépôt de plainte de **[La Victime]** pour blessures involontaires. Description de l'accident : montée du coiffeur sur la vasque en céramique, basculement, cassure préexistante. PV complet 3 pages.
+- **[J+4 Dépôt de plainte]** — Procès-verbal de police n° **[N° PV Police]** (Police Nationale **[La Métropole Régionale]**) : Dépôt de plainte de **[La Victime]** pour blessures involontaires. Description de l'accident : montée du coiffeur sur la vasque en céramique, basculement, cassure préexistante. PV complet 3 pages.
 
 ### Pièce n° 2
 
-- **29/05/2026 16h30** — Certificat médical initial (Dr Julie JARDON, Centre Ariégeois de Soins Immédiats) : Exploration de plaie palmaire profonde, lavage et désinfection sous anesthésie locale. Référence d'urgence chirurgicale.
+- **[J+0 Accident]** 16h30** — Certificat médical initial (**[Le Médecin en Urgence]**, **[Centre de soins immédiats]**) : Exploration de plaie palmaire profonde, lavage et désinfection sous anesthésie locale. Référence d'urgence chirurgicale.
 
 ### Pièce n° 3
 
-- **30/05/2026** — Compte rendu opératoire (Dr Iskander DJERBI, SOS Main **[L'Établissement SOS Main]**) : Suture du tendon fléchisseur superficiel index droit (6 brins), suture des paquets collatéraux, neurolyse du nerf palmaire. Dossier CPAM n° 31727387.
+- **[J+1 Chirurgie]** — Compte rendu opératoire (**[Le Chirurgien SOS Main]**, SOS Main **[L'Établissement SOS Main]**) : Suture du tendon fléchisseur superficiel index droit (6 brins), suture des paquets collatéraux, neurolyse du nerf palmaire. Dossier CPAM n° **[N° Dossier CPAM]**.
 
 ### Pièce n° 4
 
-- **01/06/2026 au 23/07/2026** — Arrêts de travail et prolongations (Dr Yogan OXYBEL, **[Le Médecin Généraliste]**) : ITT totale de 56 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 30 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.
+- **[J+3 Premiers arrêts]** au **[J+55 Fin d'ITT]** — Arrêts de travail et prolongations (**[Le Médecin Généraliste]**, **[Le Médecin Généraliste]**) : ITT totale de 56 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 30 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.
 
 ### Pièce n° 5
 
-- **02/06/2026** — Réquisition judiciaire à personne (Police Nationale, Agent Jordy RODRIGUEZ CAPARROS) : Réquisition pour examen médical par l'UMJ de Purpan sur le fondement des Art. 41 et 77-1 CPP. Rendez-vous fixé au **12 novembre 2026 à 13h45**.
-- **02/06/2026** — Retranscription téléphonique de la prise de rendez-vous UMJ : Confirmation du rendez-vous du 12 novembre 2026 à Purpan, instructions sur les documents à apporter.
+- **[J+4 Dépôt de plainte]** — Réquisition judiciaire à personne (Police Nationale, Agent **[Agent PJ, dépôt de plainte]**) : Réquisition pour examen médical par l'UMJ de Purpan sur le fondement des Art. 41 et 77-1 CPP. Rendez-vous fixé au **[J+167 Expertise UMJ]** à 13h45**.
+- **[J+4 Dépôt de plainte]** — Retranscription téléphonique de la prise de rendez-vous UMJ : Confirmation du rendez-vous du **[J+167 Expertise UMJ]** à Purpan, instructions sur les documents à apporter.
 
 ---
 
@@ -61,19 +61,19 @@ format: Arial JUSTIFIED
 
 ### Pièce n° 6
 
-- **29/05/2026** — Paiement et remboursement Wero : Paiement de 15 € pour la prestation de coiffure (IPR000297029234), suivi d'un remboursement immédiat des 15 € par **[Le Préposé de l'Exploitation]** (reconnaissance tacite de responsabilité et preuve de présence commerciale).
+- **[J+0 Accident]** — Paiement et remboursement Wero : Paiement de 15 € pour la prestation de coiffure (**[N° Transaction Wero]**), suivi d'un remboursement immédiat des 15 € par **[Le Préposé de l'Exploitation]** (reconnaissance tacite de responsabilité et preuve de présence commerciale).
 
 ### Pièce n° 7
 
-- **29/05/2026** — Facture de pharmacie (Pharmacie de **[La Ville de l'Accident]**) : Médicaments post-opératoires prescrits en urgence.
+- **[J+0 Accident]** — Facture de pharmacie (Pharmacie de **[La Ville de l'Accident]**) : Médicaments post-opératoires prescrits en urgence.
 
 ### Pièce n° 8
 
-- **10/06/2026** — Facture de chirurgie (Dr Iskander DJERBI, SOS Main **[L'Établissement SOS Main]**) : Acte chirurgical d'un montant de 790,23 € pris en charge à 100 % par la CSS.
+- **[J+12 Facture]** — Facture de chirurgie (**[Le Chirurgien SOS Main]**, SOS Main **[L'Établissement SOS Main]**) : Acte chirurgical d'un montant de 790,23 € pris en charge à 100 % par la CSS.
 
 ### Pièce n° 9
 
-- **03/06/2026** — Dossier Recours Contre Tiers CPAM n° 31727387 (CPAM de la Haute-Garonne) : Ouverture du dossier RCT suite au signalement sur Ameli. Active la subrogation de l'assurance maladie pour récupération des débours (frais d'hospitalisation, soins, indemnités).
+- **[J+5 Ouverture CPAM]** — Dossier Recours Contre Tiers CPAM n° **[N° Dossier CPAM]** (CPAM de la Haute-Garonne) : Ouverture du dossier RCT suite au signalement sur Ameli. Active la subrogation de l'assurance maladie pour récupération des débours (frais d'hospitalisation, soins, indemnités).
 
 ---
 
@@ -81,27 +81,27 @@ format: Arial JUSTIFIED
 
 ### Pièce n° 10
 
-- **29/06/2026** — Mise en demeure de la SAS **[L'Exploitant du Commerce]** (LRAR n° 87001424863012T) : Demande de communication de l'attestation d'assurance RC Pro et de la somme de 5 000 € à titre de provision. Distribué. Échéance au 14 juillet 2026.
+- **[J+31 Mises en demeure]** — Mise en demeure de la SAS **[L'Exploitant du Commerce]** (LRAR n° **[N° LRAR Exploitant]**) : Demande de communication de l'attestation d'assurance RC Pro et de la somme de 5 000 € à titre de provision. Distribué. Échéance au **[J+46 Échéance amiable]**.
 
 ### Pièce n° 11
 
-- **29/06/2026** — Mise en demeure de **[Le Président de l'Exploitation]** (LRAR n° 87001424862879J) : Mise en cause personnelle pour faute détachable (absence d'assurance, défaut de sécurité). Distribué.
+- **[J+31 Mises en demeure]** — Mise en demeure de **[Le Président de l'Exploitation]** (LRAR n° **[N° LRAR Président]**) : Mise en cause personnelle pour faute détachable (absence d'assurance, défaut de sécurité). Distribué.
 
 ### Pièce n° 12
 
-- **29/06/2026** — Mise en demeure de **[La Directrice Générale de l'Exploitation]** (LRAR n° 87001424721856G) : Mise en cause personnelle pour faute détachable. Distribué.
+- **[J+31 Mises en demeure]** — Mise en demeure de **[La Directrice Générale de l'Exploitation]** (LRAR n° **[N° LRAR Directrice]**) : Mise en cause personnelle pour faute détachable. Distribué.
 
 ### Pièce n° 13
 
-- **29/06/2026** — Mise en demeure de **[Le Propriétaire des Murs]** (LRAR n° 87001424862462Y) : Demande de communication de son contrat d'assurance propriétaire non-occupant. Distribué.
+- **[J+31 Mises en demeure]** — Mise en demeure de **[Le Propriétaire des Murs]** (LRAR n° **[N° LRAR Propriétaire]**) : Demande de communication de son contrat d'assurance propriétaire non-occupant. Distribué.
 
 ### Pièce n° 14
 
-- **29/06/2026** — Action directe contre l'assureur RC (Art. L. 124-3 du Code des assurances) : Courrier visant le paiement de l'indemnité globale. Envoi effectué.
+- **[J+31 Mises en demeure]** — Action directe contre l'assureur RC (Art. L. 124-3 du Code des assurances) : Courrier visant le paiement de l'indemnité globale. Envoi effectué.
 
 ### Pièce n° 15
 
-- **29/06/2026** — Transmission de la plainte au Procureur de la République (LRAR n° 87001424923505I) : Dossier pénal complet transmis au Parquet de **[La Ville de l'Accident]**. Distribué.
+- **[J+31 Mises en demeure]** — Transmission de la plainte au Procureur de la République (LRAR n° **[N° LRAR Parquet]**) : Dossier pénal complet transmis au Parquet de **[La Ville de l'Accident]**. Distribué.
 
 ---
 
@@ -109,15 +109,15 @@ format: Arial JUSTIFIED
 
 ### Pièce n° 16
 
-- **30/06/2026** — Assignation en référé-provision et demande d'expertise médicale : Fondée sur les Art. 835 CPC et 145 CPC. Demande de provision de 5 000 € et désignation d'un expert médical.
+- **[J+32 Assignation référé]** — Assignation en référé-provision et demande d'expertise médicale : Fondée sur les Art. 835 CPC et 145 CPC. Demande de provision de 5 000 € et désignation d'un expert médical.
 
 ### Pièce n° 17
 
-- **05/07/2026** — Assignation Article 145 CPC (communication d'assurance) : Demande de communication forcée de la police d'assurance RC Pro sous astreinte de 150 €/jour. Dédiée à l'identification de l'assureur inconnu.
+- **[J+37 Assignation 145]** — Assignation Article 145 CPC (communication d'assurance) : Demande de communication forcée de la police d'assurance RC Pro sous astreinte de 150 €/jour. Dédiée à l'identification de l'assureur inconnu.
 
 ### Pièce n° 18
 
-- **01/07/2026** — Plainte complémentaire pour défaut d'assurance RC Pro : Signalement au Parquet de l'absence d'assurance de l'exploitant. Voie pénale.
+- **[J+33 Plainte complémentaire]** — Plainte complémentaire pour défaut d'assurance RC Pro : Signalement au Parquet de l'absence d'assurance de l'exploitant. Voie pénale.
 
 ---
 
@@ -125,15 +125,15 @@ format: Arial JUSTIFIED
 
 ### Pièce n° 19
 
-- **30/06/2026** — Gabarit d'attestation de témoin — Client présent (Cerfa n° 11527\*03) : Attestation Cerfa destinée aux clients présents le 29 mai 2026. Témoignage sur la montée du préposé sur la vasque, le basculement, et la cassure préexistante.
+- **[J+32 Assignation référé]** — Gabarit d'attestation de témoin — Client présent (Cerfa n° 11527\*03) : Attestation Cerfa destinée aux clients présents le **[J+0 Accident]**. Témoignage sur la montée du préposé sur la vasque, le basculement, et la cassure préexistante.
 
 ### Pièce n° 20
 
-- **30/06/2026** — Gabarit d'attestation de témoin — Pompier / SAMU (Cerfa n° 11527\*03) : Attestation destinée aux services de secours intervenus. Constat de la blessure grave (section tendineuse) et du saignement abondant.
+- **[J+32 Assignation référé]** — Gabarit d'attestation de témoin — Pompier / SAMU (Cerfa n° 11527\*03) : Attestation destinée aux services de secours intervenus. Constat de la blessure grave (section tendineuse) et du saignement abondant.
 
 ### Pièce n° 21
 
-- **30/06/2026** — Gabarit d'attestation de témoin — Employé du salon (Cerfa n° 11527\*03) : Attestation destinée aux employés. Précise la cassure préexistante de la vasque, l'absence de consigne de sécurité, et l'absence d'escabeau pour accès en hauteur.
+- **[J+32 Assignation référé]** — Gabarit d'attestation de témoin — Employé du salon (Cerfa n° 11527\*03) : Attestation destinée aux employés. Précise la cassure préexistante de la vasque, l'absence de consigne de sécurité, et l'absence d'escabeau pour accès en hauteur.
 
 ---
 
@@ -141,20 +141,20 @@ format: Arial JUSTIFIED
 
 ### Pièce n° 22
 
-- **05/07/2026** — Courrier à l'Inspection du Travail (DDETS/DREETS) : Signalement des manquements (DUERP, équipement d'accès en hauteur, formation sécurité, assurance RC Pro). Envoi effectué.
+- **[J+37 Assignation 145]** — Courrier à l'Inspection du Travail (DDETS/DREETS) : Signalement des manquements (DUERP, équipement d'accès en hauteur, formation sécurité, assurance RC Pro). Envoi effectué.
 
 ### Pièce n° 23
 
-- **05/07/2026** — Courrier au CODAF 09 : Signalement officiel des manquements. Envoi effectué.
+- **[J+37 Assignation 145]** — Courrier au CODAF 09 : Signalement officiel des manquements. Envoi effectué.
 
 ### Pièce n° 24
 
-- **05/07/2026** — Relance Police : Suivi de la plainte et demande de transmission des vidéos de vidéosurveillance. Email envoyé.
+- **[J+37 Assignation 145]** — Relance Police : Suivi de la plainte et demande de transmission des vidéos de vidéosurveillance. Email envoyé.
 
 ### Pièce n° 25
 
-- **05/07/2026** — Relance CPAM : Suivi du dossier RCT n° 31727387 et demande de mise à jour. Email envoyé.
+- **[J+37 Assignation 145]** — Relance CPAM : Suivi du dossier RCT n° **[N° Dossier CPAM]** et demande de mise à jour. Email envoyé.
 
 ---
 
-> *Document mis à jour le 6 juillet 2026 — Les pièces sont classées par groupe thématique, numérotation séquentielle. Les pièces marquées Gabarit sont à faire remplir par les témoins.*
+> *Document mis à jour le **[J+38 Mise à jour]** — Les pièces sont classées par groupe thématique, numérotation séquentielle. Les pièces marquées Gabarit sont à faire remplir par les témoins.*

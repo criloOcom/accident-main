@@ -21,11 +21,11 @@ format: Arial JUSTIFIED
 
 # ÉTUDE D'INDEMNISATION MAXIMALE (NOMENCLATURE DINTILHAC)
 
-Rédigé le 30 juin 2026
+Rédigé le **[J+32 Assignation référé]**
 
 ## INTRODUCTION
 
-La présente étude d'indemnisation a pour objet d'évaluer l'intégralité des préjudices corporels subis par **[La Victime]** à la suite de l'accident du 29 mai 2026 — au cours duquel, alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de **[La Victime]** a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit — selon la nomenclature Dintilhac qui constitue la référence harmonisée pour l'évaluation des préjudices corporels devant les juridictions françaises. Cette évaluation chiffrée, établie poste par poste, tient compte du statut de travailleur indépendant de la victime et de son activité professionnelle déclarée sous le numéro **[L'Identifiant Professionnel de la Victime]**.
+La présente étude d'indemnisation a pour objet d'évaluer l'intégralité des préjudices corporels subis par **[La Victime]** à la suite de l'accident du **[J+0 Accident]** — au cours duquel, alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de **[La Victime]** a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit — selon la nomenclature Dintilhac qui constitue la référence harmonisée pour l'évaluation des préjudices corporels devant les juridictions françaises. Cette évaluation chiffrée, établie poste par poste, tient compte du statut de travailleur indépendant de la victime et de son activité professionnelle déclarée sous le numéro **[L'Identifiant Professionnel de la Victime]**.
 
 L'étude vise à déterminer le montant maximal de l'indemnisation susceptible d'être obtenue, dans le respect du principe de réparation intégrale sans perte ni profit consacré par l'[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571).
 
@@ -37,7 +37,7 @@ Document rédigé par **[La Victime]**
 
 **[L'Email de la Victime]**
 
-**[La Ville de l'Accident]**, le 30 juin 2026
+**[La Ville de l'Accident]**, le **[J+32 Assignation référé]**
 
 *Évaluation chiffrée prospective basée sur l'activité réelle déclarée de **[La Victime]**.*
 
@@ -77,7 +77,7 @@ Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un 
 
 ### A. Pertes de Gains Professionnels Actuels (PGPA) et Incidence Professionnelle
 
-1. Pertes de Gains Professionnels Actuels (PGPA) : Indemnise la perte de revenus durant l'incapacité temporaire totale (ITT). Pour 56 jours d'arrêt (du 29 mai au 23 juillet 2026), le montant est calculé au prorata du CA mensuel, soit 1 400 €.
+1. Pertes de Gains Professionnels Actuels (PGPA) : Indemnise la perte de revenus durant l'incapacité temporaire totale (ITT). Pour 56 jours d'arrêt (du 29 mai au **[J+55 Fin d'ITT]**), le montant est calculé au prorata du CA mensuel, soit 1 400 €.
 
 2. Incidence Professionnelle (IP) : Ce poste, estimé à 15 000 €, répare les séquelles structurelles définitives :
 
@@ -154,7 +154,7 @@ Plusieurs éléments spécifiques aggravent le préjudice de **[La Victime]** :
 
 L'indemnisation estimée à 59 600 € (selon le tableau détaillé ci-dessous) constitue une évaluation prudente.
 
-Ce montant sera affiné suite à l'expertise médicale prévue le 12 novembre 2026.
+Ce montant sera affiné suite à l'expertise médicale prévue le **[J+167 Expertise UMJ]**.
 
 Cette étude souligne la nécessité d'une réparation intégrale tenant compte de l'impact majeur de l'accident sur la vie professionnelle et personnelle d'un travailleur indépendant.
 

@@ -30,18 +30,18 @@ Courriel : **[L'Email de la Victime]**
 
 **[Adresse à compléter]**
 
-**[La Ville de l'Accident]**, le 5 juillet 2026
+**[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
 
 Objet : Information de litige en cours — SAS **[L'Exploitant du Commerce]**
 
 <hr>
 
-Ref : SIREN 938 033 222
+Ref : SIREN **[SIREN de l'Exploitation]**
 
 
 Madame, Monsieur le Responsable,
 
-La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, immatriculee sous le SIREN 938 033 222.
+La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, immatriculee sous le SIREN **[SIREN de l'Exploitation]**.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, et a entraine des lesions graves de la main droite (plaie palmaire avec section du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant) ayant necessite une microchirurgie d'urgence.
 
@@ -51,11 +51,11 @@ Les procedures suivantes ont ete engagees :
 
 - Depot de plainte et constitution de partie civile (TJ de **[La Ville de l'Accident]**)
 
-- Mises en demeure LRAR a la societe et a ses dirigeants (29 juin 2026)
+- Mises en demeure LRAR a la societe et a ses dirigeants (**[J+31 Mises en demeure]**)
 
 - Demande d'enquete a l'Inspection du Travail et au CODAF
 
-- Dossier de recours contre tiers a la CPAM (n° 31727387)
+- Dossier de recours contre tiers a la CPAM (n° **[N° Dossier CPAM]**)
 
 Je souhaiterais etre informe de toute modification de la situation fiscale de la societe qui pourrait intervenir (cessation d'activite, liquidation, radiation) dans le cadre de la presente procedure.
 

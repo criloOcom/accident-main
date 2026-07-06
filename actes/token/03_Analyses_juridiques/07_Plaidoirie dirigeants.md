@@ -23,13 +23,13 @@ format: Arial JUSTIFIED
 
 # **MÉMORANDUM JURIDIQUE : RESPONSABILITÉ DES DIRIGEANTS ET RÉPARATION DES PRÉJUDICES**
 
-Rédigé le 30 juin 2026
+Rédigé le **[J+32 Assignation référé]**
 
 Rédigé par : La Victime
 
 ## INTRODUCTION
 
-Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de **[L'Exploitant du Commerce]** dans le cadre de l'accident corporel survenu le 29 mai 2026.
+Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de **[L'Exploitant du Commerce]** dans le cadre de l'accident corporel survenu le **[J+0 Accident]**.
 
 Ce document examine les fondements juridiques de la mise en cause de la responsabilité des dirigeants sur le terrain du droit des sociétés, notamment sur le fondement des articles [L. 223-22](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141) et [L. 225-251](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) du Code de commerce, ainsi que sur le terrain du droit commun de la responsabilité civile.
 
@@ -54,7 +54,7 @@ Il identifie les manquements aux obligations légales et réglementaires imputab
 
 ## I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 
-Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le 29 mai 2026 au sein du salon exploité par **[L'Exploitant du Commerce]**.
+Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le **[J+0 Accident]** au sein du salon exploité par **[L'Exploitant du Commerce]**.
 
 Lors de cet événement, le basculement d'un équipement défectueux a causé une section nerveuse et tendineuse grave à la main dominante de **[La Victime]**.
 

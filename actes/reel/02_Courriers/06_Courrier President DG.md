@@ -75,7 +75,7 @@ Comme vous le savez, l'accident a entraîné une blessure importante à ma main 
 
 Le chirurgien a évalué le pronostic de récupération neurologique à un an minimum, avec un résultat souvent partiel s'agissant d'une suture nerveuse. Du fait de mon activité d'informaticien indépendant (500 474 457), l'incapacité d'utiliser mon index et ma main dominante me paralyse totalement dans mon travail quotidien.
 
-En tant que citoyen, je ne connaissais pas les formalités nécessaires dans ce type de situation. C'est à la suite de mes démarches administratives auprès de la CPAM (recours contre tiers n° **31727387**) et des services de police que j'ai été informé de l'obligation de recueillir les coordonnées de l'assureur de responsabilité civile professionnelle de votre salon afin de lui transmettre mon dossier médical.
+En tant que citoyen, je ne connaissais pas les formalités nécessaires dans ce type de situation. C'est à la suite de mes démarches administratives auprès de la CPAM (recours contre tiers n° 31727387) et des services de police que j'ai été informé de l'obligation de recueillir les coordonnées de l'assureur de responsabilité civile professionnelle de votre salon afin de lui transmettre mon dossier médical.
 
 C'est ce même assureur qui prendra en charge et indemnisera les conséquences matérielles et corporelles de ce sinistre, protégeant ainsi l'équilibre de votre propre entreprise.
 

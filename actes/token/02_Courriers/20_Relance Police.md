@@ -31,23 +31,23 @@ Courriel : **[L'Email de la Victime]**
 
 **[Adresse à compléter]**
 
-**[La Ville de l'Accident]**, le 5 juillet 2026
+**[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
 
-Objet : Relance pour suivi de plainte et demande de videosurveillance — PV n° 2026/015967
+Objet : Relance pour suivi de plainte et demande de videosurveillance — PV n° **[N° PV Police]**
 
 <hr>
 
-Ref : Depot de plainte du 1er juin 2026 — Constitution de partie civile du 2 juin 2026
+Ref : Depot de plainte du 1er juin 2026 — Constitution de partie civile du **[J+4 Dépôt de plainte]**
 
 Madame, Monsieur l'Officier de Police Judiciaire,
 
-La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, situe **[Adresse du Commerce]** a **[La Ville de l'Accident]**.
+La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, situe **[Adresse du Commerce]** a **[La Ville de l'Accident]**.
 
 <hr><hr>
 
 ## I — OBJET DE LA RELANCE
 
-J'ai depose plainte en vos services le 1er juin 2026 (PV n° 2026/015967) et me suis constitue partie civile le 2 juin 2026. Une requisition a personne qualifiee a ete delivree le meme jour aux fins d'examen medical.
+J'ai depose plainte en vos services le 1er juin 2026 (PV n° **[N° PV Police]**) et me suis constitue partie civile le **[J+4 Dépôt de plainte]**. Une requisition a personne qualifiee a ete delivree le meme jour aux fins d'examen medical.
 
 Je me permets de solliciter de vos services :
 

@@ -32,9 +32,9 @@ Ou **DREETS Occitanie**
 
 **[Adresse à compléter]**
 
-**[La Ville de l'Accident]**, le 5 juillet 2026
+**[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
 
-Objet : Demande d'information sur les diligences d'enquete — Accident du 29 mai 2026 au salon **[Le Commerce de l'Exploitation]**
+Objet : Demande d'information sur les diligences d'enquete — Accident du **[J+0 Accident]** au salon **[Le Commerce de l'Exploitation]**
 
 Reff : Signalement effectue par la mairie de **[La Ville de l'Accident]** aupres de la Prefecture de l'Ariege le 1er juin 2026
 
@@ -42,7 +42,7 @@ Madame, Monsieur l'Inspecteur du Travail,
 
 ## INTRODUCTION
 
-La presente lettre est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure **[Le Commerce de l'Exploitation]**, situe **[Adresse du Commerce]** a **[La Ville de l'Accident]**.
+La presente lettre est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure **[Le Commerce de l'Exploitation]**, situe **[Adresse du Commerce]** a **[La Ville de l'Accident]**.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
@@ -70,7 +70,7 @@ Je me permets de porter a votre attention les elements suivants, susceptibles de
 
 - **Equipement defectueux** : le bac a shampoing en ceramique, instable et presentant une cassure preexistante non signalee, constituait un equipement de travail dangereux (Article L. 4321-1 du Code du travail — obligation de conformite des equipements)
 
-- **Absence presumee de DUERP** : a ce jour, aucun Document Unique d'Evaluation des Risques Professionnels ne m'a ete communique par l'exploitant, malgre une mise en demeure en LRAR du 29 juin 2026 restee sans reponse
+- **Absence presumee de DUERP** : a ce jour, aucun Document Unique d'Evaluation des Risques Professionnels ne m'a ete communique par l'exploitant, malgre une mise en demeure en LRAR du **[J+31 Mises en demeure]** restee sans reponse
 
 - **Defaut presumee d'assurance RC Professionnelle** : l'exploitant ne m'a pas communique l'identite de son assureur RC, en violation de l'obligation d'affichage prevue a l'Article L. 310-1-1-2 du Code des assurances modifie par la loi n° 2024-364 du 22 avril 2024
 

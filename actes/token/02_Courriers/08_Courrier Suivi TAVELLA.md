@@ -33,7 +33,7 @@ Mairie de **[La Ville de l'Accident]**
 
 09000 **[La Ville de l'Accident]**
 
-**[La Ville de l'Accident]**, le 5 juillet 2026
+**[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
 
 Objet : Suite a votre message du 1er juin 2026 — Demande d'information sur les diligences Inspection du Travail et CODAF
 
@@ -43,11 +43,11 @@ Monsieur l'Adjoint au Maire,
 
 ## INTRODUCTION
 
-La presente lettre fait suite a votre courriel du 1er juin 2026 par lequel vous m'informiez avoir pris l'attache des services de la prefecture afin de diligenter l'inspection du travail et le CODAF (Comite Operationnel Departemental Anti Fraude) a la suite de l'accident corporel grave dont j'ai ete victime le 29 mai 2026 au sein du salon de coiffure **[Le Commerce de l'Exploitation]**.
+La presente lettre fait suite a votre courriel du 1er juin 2026 par lequel vous m'informiez avoir pris l'attache des services de la prefecture afin de diligenter l'inspection du travail et le CODAF (Comite Operationnel Departemental Anti Fraude) a la suite de l'accident corporel grave dont j'ai ete victime le **[J+0 Accident]** au sein du salon de coiffure **[Le Commerce de l'Exploitation]**.
 
 Je vous remercie chaleureusement pour votre diligence et votre soutien.
 
-Dans le cadre de la procedure judiciaire que j'ai engagee a l'encontre de l'exploitant (plainte deposee au commissariat de **[La Ville de l'Accident]** le 1er juin 2026, PV n° 2026/015967), je constitue un dossier d'indemnisation complet et permanent.
+Dans le cadre de la procedure judiciaire que j'ai engagee a l'encontre de l'exploitant (plainte deposee au commissariat de **[La Ville de l'Accident]** le 1er juin 2026, PV n° **[N° PV Police]**), je constitue un dossier d'indemnisation complet et permanent.
 
 A ce titre, les elements suivants me seraient d'une grande utilite pour etayer mon dossier civil et penal :
 

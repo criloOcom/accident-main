@@ -31,7 +31,7 @@ Sébastien GRAZIDE, né le 18 janvier 1982, de nationalité française, demeuran
 
 **CONTRE :**
 
-SAS LES MAUVAIS GARCONS (SAS LES MAUVAIS GARÇONS), Société par Actions Simplifiée, immatriculée au RCS de Foix sous le numéro SIRET 938 033 222 00010, ayant son siège social au 22 Rue Lafaurie, 09000 Foix, prise en la personne de sa représentante légale en exercice, Catherine ANDISSAC, Directrice Générale.
+SAS LES MAUVAIS GARCONS (SAS LES MAUVAIS GARCONS), Société par Actions Simplifiée, immatriculée au RCS de Foix sous le numéro SIRET 938 033 222 00010, ayant son siège social au 22 Rue Lafaurie, 09000 Foix, prise en la personne de sa représentante légale en exercice, Catherine ANDISSAC, Directrice Générale.
 
 *Défendeur*
 
@@ -103,10 +103,10 @@ Sébastien GRAZIDE
 
 ## BORDEREAU DE PIÈCES COMMUNIQUÉES
 
-1. **Pièce n° 1 :** Certificat médical initial constatant les blessures de Sébastien GRAZIDE (Dr Julie JARDON, 29/05/2026)
-2. **Pièce n° 2 :** Compte-rendu opératoire de microchirurgie (Dr Iskander DJERBI, SOS Main, 30/05/2026)
-3. **Pièce n° 3 :** Dépôt de plainte pour blessures involontaires (Police Foix, 01/06/2026)
-4. **Pièce n° 4 :** Procès-verbal de police constatant l'accident (n°2026/015967, 02/06/2026)
-5. **Pièce n° 5 :** Notification de prise en charge par la CPAM de la Haute-Garonne (Dossier RCT 31727387, 03/06/2026)
+1. **Pièce n° 1 :** Certificat médical initial constatant les blessures de Sébastien GRAZIDE (Dr Julie JARDON, 29 mai 2026)
+2. **Pièce n° 2 :** Compte-rendu opératoire de microchirurgie (Dr Iskander DJERBI, SOS Main, 30 mai 2026)
+3. **Pièce n° 3 :** Dépôt de plainte pour blessures involontaires (Police Foix, 1 juin 2026)
+4. **Pièce n° 4 :** Procès-verbal de police constatant l'accident (n°2026/015967, 2 juin 2026)
+5. **Pièce n° 5 :** Notification de prise en charge par la CPAM de la Haute-Garonne (Dossier RCT 31727387, 3 juin 2026)
 6. **Pièce n° 6 :** Arrêt de travail (volet 1) et prolongations pour une ITT de 56 jours (Dr Oxybel)
-7. **Pièce n° 7 :** Mises en demeure adressées à la SAS et à ses dirigeants (29/06/2026) et accusés de réception
+7. **Pièce n° 7 :** Mises en demeure adressées à la SAS et à ses dirigeants (29 juin 2026) et accusés de réception

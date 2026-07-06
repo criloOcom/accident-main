@@ -30,9 +30,9 @@ Courriel : **[L'Email de la Victime]**
 
 **[Adresse à compléter]**
 
-**[La Ville de l'Accident]**, le 29 juin 2026
+**[La Ville de l'Accident]**, le **[J+31 Mises en demeure]**
 
-Objet : Demande de communication d'assurance RC — Accident 29 mai 2026 — L.R.A.R.
+Objet : Demande de communication d'assurance RC — Accident **[J+0 Accident]** — L.R.A.R.
 
 Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce]**
 
@@ -42,7 +42,7 @@ Monsieur,
 
 La présente lettre est adressée par **[La Victime]** à **[Le Propriétaire des Murs]** en sa qualité de propriétaire bailleur des locaux commerciaux situés au **[L'Adresse de l'Exploitation]**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de l'exploitant.
 
-Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grave accident corporel survenu le 29 mai 2026 dans lesdits locaux.
+Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grave accident corporel survenu le **[J+0 Accident]** dans lesdits locaux.
 
 <hr>
 
@@ -60,7 +60,7 @@ L'[Article 1720 du même code](https://www.legifrance.gouv.fr/codes/article_lc/L
 
 Je me permets de prendre contact avec vous en votre qualité de propriétaire bailleur des locaux commerciaux situés au **[L'Adresse de l'Exploitation]**, actuellement loués et exploités sous l'enseigne de coiffure **[L'Exploitant du Commerce]**.
 
-Le vendredi 29 mai 2026 à 15h00, j'ai été victime d'un accident corporel grave au sein de cet établissement, causé par le basculement d'un équipement lourd (bac à shampoing) défectueux et avec cassure préexistante, entraînant une section profonde de 8,5 cm au niveau de ma main droite dominante (section tendineuse et nerveuse de l'index droit opérée en urgence sous anesthésie le 30 mai 2026) avec un pronostic de récupération neurologique évalué à un an minimum par le chirurgien (récupération souvent partielle s'agissant d'une suture nerveuse).
+Le vendredi **[J+0 Accident]** à 15h00, j'ai été victime d'un accident corporel grave au sein de cet établissement, causé par le basculement d'un équipement lourd (bac à shampoing) défectueux et avec cassure préexistante, entraînant une section profonde de 8,5 cm au niveau de ma main droite dominante (section tendineuse et nerveuse de l'index droit opérée en urgence sous anesthésie le **[J+1 Chirurgie]**) avec un pronostic de récupération neurologique évalué à un an minimum par le chirurgien (récupération souvent partielle s'agissant d'une suture nerveuse).
 
 Dans le cadre de la procédure d'indemnisation de ce préjudice corporel et conformément aux dispositions de l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), je mets en œuvre l'action directe contre l'assureur de responsabilité civile de l'exploitant commercial.
 
@@ -107,6 +107,6 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 
 **[La Victime]**
 
-> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident]** sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
 > Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement de la présente mise en demeure.

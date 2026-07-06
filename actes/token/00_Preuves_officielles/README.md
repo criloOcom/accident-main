@@ -13,11 +13,11 @@ Ces pièces constituent le socle factuel du litige : constats, comptes rendus m�
 
 | Date | Pièce | Nature | Statut |
 |------|-------|--------|--------|
-| 30/05/2026 | CR opératoire — Dr DJERBI | Compte rendu de microchirurgie | ✅ Reçu |
-| 01/06/2026 | Plainte officielle | Dossier de plainte complet | ✅ Transmis |
-| 02/06/2026 | PV de constat | Procès-verbal n°[...] | ✅ Reçu |
-| 19/06/2026 | CR de contrôle J+20 | Consultation de suivi Dr DJERBI | ✅ Reçu |
-| 29/06/2026 | Forensic Evidence File | Dossier de preuves numériques | ✅ Constitué |
+| **[J+1 Chirurgie]** | CR opératoire — **[Le Chirurgien SOS Main]** | Compte rendu de microchirurgie | ✅ Reçu |
+| **[J+3 Premiers arrêts]** | Plainte officielle | Dossier de plainte complet | ✅ Transmis |
+| **[J+4 Dépôt de plainte]** | PV de constat | Procès-verbal n°[...] | ✅ Reçu |
+| **[J+21 Contrôle chirurgical]** | CR de contrôle J+20 | Consultation de suivi **[Le Chirurgien SOS Main]** | ✅ Reçu |
+| **[J+31 Mises en demeure]** | Forensic Evidence File | Dossier de preuves numériques | ✅ Constitué |
 
 > ⚠️ Les fichiers physiques sont en attente d'insertion dans ce dossier.  
 > Consulter `memory/PIECES MAP.md` pour la cotation détaillée.

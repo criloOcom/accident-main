@@ -35,7 +35,7 @@ format: Arial JUSTIFIED
 
 ## 2. EXPOSÉ DES FAITS
 
-Le 29 mai 2026, un accident corporel grave s'est produit dans les locaux de la société **[L'Exploitant du Commerce]**.
+Le **[J+0 Accident]**, un accident corporel grave s'est produit dans les locaux de la société **[L'Exploitant du Commerce]**.
 
 Cet accident a été causé par le basculement d'une vasque défectueuse, ce qui a entraîné la blessure sévère de **[La Victime]**.
 

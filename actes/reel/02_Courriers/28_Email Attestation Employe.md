@@ -4,7 +4,7 @@ date: 2026-07-06
 type: acte
 categorie: procedure
 auteur: La Victime
-destinataire: Employé(e) du salon présent(e) le 29/05/2026
+destinataire: Employé(e) du salon présent(e) le 29 mai 2026
 tags:
 - email
 - attestation
@@ -22,7 +22,7 @@ Objet : Attestation de témoin — Accident du 29 mai 2026 au 22 Rue Lafaurie, 0
 
 Bonjour,
 
-Vous étiez présent(e) le **29 mai 2026** en tant qu'employé(e) du salon **Exploitant du Commerce** situé au 22 Rue Lafaurie, 09000 Foix lorsque l'accident s'est produit.
+Vous étiez présent(e) le 29 mai 2026 en tant qu'employé(e) du salon **Exploitant du Commerce** situé au 22 Rue Lafaurie, 09000 Foix lorsque l'accident s'est produit.
 
 Je me permets de vous solliciter pour remplir une **attestation de témoin** (Cerfa n° 11527\*03) afin de décrire ce que vous avez vu ce jour-là. Votre témoignage est particulièrement important sur les points suivants :
 

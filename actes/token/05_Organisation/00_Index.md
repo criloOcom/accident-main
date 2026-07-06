@@ -25,13 +25,13 @@ format: Arial JUSTIFIED
 
 # INDEX DU DOSSIER **[La Victime]**
 
-Rédigé le 30 juin 2026 — Mis à jour le 5 juillet 2026 (post-intégration)
+Rédigé le **[J+32 Assignation référé]** — Mis à jour le **[J+37 Assignation 145]** (post-intégration)
 
 ## INTRODUCTION
 
-*Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire **[La Victime]** c/ **[L'Exploitant du Commerce]**, à la suite de l'accident corporel grave survenu le 29 mai 2026. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du 30 juin 2026 et reflète l'état final de la composition du dossier.*
+*Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire **[La Victime]** c/ **[L'Exploitant du Commerce]**, à la suite de l'accident corporel grave survenu le **[J+0 Accident]**. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du **[J+32 Assignation référé]** et reflète l'état final de la composition du dossier.*
 
-*Structure finale au 29 mai 2026*
+*Structure finale au **[J+0 Accident]***
 
 Destinataire : Analyse tierce
 
@@ -56,7 +56,7 @@ Partage depuis : **[L'Email de la Victime]**
 
 *(Documents physiques — dossier `00_Preuves_officielles/` en attente d'insertion)*
 
-- 2026-05-30 - CR opératoire ✓ Vérifié : Compte rendu opératoire du **[Le Chirurgien SOS Main]** (microchirurgie 30/05/2026).
+- 2026-05-30 - CR opératoire ✓ Vérifié : Compte rendu opératoire du **[Le Chirurgien SOS Main]** (microchirurgie **[J+1 Chirurgie]**).
 - 2026-06-01 - Dossier plainte ✓ Vérifié : Copie complète de la plainte officielle déposée au commissariat.
 - 2026-06-02 - PV Police ✓ Vérifié : Procès-verbal de constat n°[ ...].
 - 2026-06-19 - CR opératoire **[Le Chirurgien SOS Main]** ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
@@ -96,7 +96,7 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-07-05 - 18_Courrier SDIS - V1 ✓ Vérifié : Signalement sécurité ERP.
 - 2026-07-05 - 19_Courrier FGTI - V1 ✓ Vérifié : Information conservatoire (LRAR + email).
 - 2026-07-05 - 20_Relance Police - V1 ✓ Vérifié : Suivi plainte + demande vidéos.
-- 2026-07-05 - 21_Relance CPAM - V1 ✓ Vérifié : Suivi dossier RCT 31727387.
+- 2026-07-05 - 21_Relance CPAM - V1 ✓ Vérifié : Suivi dossier RCT **[N° Dossier CPAM]**.
 - 2026-07-05 - 22_Gabarit Attestation Témoin Client - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
 - 2026-07-05 - 23_Gabarit Attestation Pompier SAMU - V1 ✓ Vérifié : Gabarit d'attestation d'intervention.
 - 2026-07-05 - 24_Gabarit Attestation Employé - V1 ✓ Vérifié : Gabarit d'attestation d'employé.
@@ -217,7 +217,7 @@ Documents non indexés conservés dans `archives/` :
 
 <hr><hr>
 
-## STATISTIQUES DU DOSSIER (màj 05/07/2026)
+## STATISTIQUES DU DOSSIER (màj **[J+37 Assignation 145]**)
 
 - Nombre total de documents : 16 (dans 00-05) + 21 courriers/gabarits (03-24, hors 10+17 supprimés) + 1 acte (03 Article 145) + 14 (mémoires d'audit) + 8 (archivés) = 60 documents au total
 - Nouveaux fichiers ajoutés : Bordereau, Gabarits (x3), Calendrier, et Mémoires d'audit (x14)
