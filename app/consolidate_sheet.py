@@ -8,9 +8,9 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from drive_auth import get_drive_service
 
 # 1. Charger les données sources
-with open('scratch_dest_rows.json') as f:
+with open('data/scratch/scratch_dest_rows.json') as f:
     dest_rows = json.load(f)
-with open('scratch_final_new_rows.json') as f:
+with open('data/scratch/scratch_final_new_rows.json') as f:
     new_rows = json.load(f)
 
 # On commence par charger la destination existante pour préserver ses IDs (EVT-01, COR-01, etc.)
@@ -447,5 +447,5 @@ print(f"Lignes supprimées (autre affaire): {deleted_other_case}")
 print(f"Doublons supprimés: {duplicates_removed}")
 
 # Sauvegarder dans scratch_master_final.json
-with open('scratch_master_final.json', 'w') as f:
+with open('data/scratch/scratch_master_final.json', 'w') as f:
     json.dump(final_sorted, f, indent=2)
