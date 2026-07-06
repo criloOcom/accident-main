@@ -36,7 +36,7 @@ Rédigé le 30 juin 2026
 
 La présente synthèse juridique et FAQ a été rédigée par **[La Victime]** dans le cadre du contentieux l'opposant à **[L'Exploitant du Commerce]** à la suite de l'accident corporel du 29 mai 2026.
 
-Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de [l'article 1231-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032010123), la responsabilité délictuelle sur le fondement de [l'article 1240 du même code](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571), ainsi que la garantie des vices cachés prévue à [l'article 1641 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924).
+Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de l'[Article 1231-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032010123), la responsabilité délictuelle sur le fondement de l'[Article 1240 du même code](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571), ainsi que la garantie des vices cachés prévue à l'[Article 1641 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924).
 
 La présente synthèse répond en outre aux questions pratiques que la victime est susceptible de se poser dans le cadre de la conduite de son dossier.
 
@@ -105,11 +105,11 @@ Le fait de cacher l'accident à son assureur ou de refuser de communiquer les co
 
 ## III. STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
 
-La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la **[L'Exploitant du Commerce]** est engagée en tant que commettant du fait de son préposé, sur le fondement de [l'article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
+La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la **[L'Exploitant du Commerce]** est engagée en tant que commettant du fait de son préposé, sur le fondement de l'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
-Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence [Cass. Com., 20 mai 2003, n° 99-17.092 ([Arrêt Sati](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369))](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369), **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par [l'article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036).
+Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence [Cass. Com., 20 mai 2003, n° 99-17.092 ([Arrêt Sati](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369))](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369), **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'[Article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036).
 
 > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »
 
@@ -133,13 +133,13 @@ Sur le plan civil, plusieurs mises en demeure ont été expédiées le 29 juin 2
 
 - Demande de communication d'assurance au **[propriétaire des murs]** ;
 
-- Action directe contre **[l'assureur de responsabilité civile]** (fondée sur [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)).
+- Action directe contre **[l'assureur de responsabilité civile]** (fondée sur l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)).
 
 <hr><hr>
 
 ## V. CALENDRIER ET DÉLAIS DE PROCÉDURE
 
-La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jours pour répondre aux mises en demeure avant l'engagement d'un référé-provision sur le fondement de [l'article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
+La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jours pour répondre aux mises en demeure avant l'engagement d'un référé-provision sur le fondement de l'[Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
 

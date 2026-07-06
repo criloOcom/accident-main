@@ -54,7 +54,7 @@ Le contentieux civil a pour objet d'obtenir la réparation intégrale des préju
 
 SAS LES MAUVAIS GARCONS est civilement responsable des dommages causés par ses préposés dans l'exercice de leurs fonctions. L'accident est survenu pendant une prestation de coupe de cheveux réalisée par un employé de la société dans l'enceinte de l'établissement.
 
-La responsabilité de la SAS est engagée de plein droit en application de [l'article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), alinéa 5 (responsabilité du commettant du fait de son préposé).
+La responsabilité de la SAS est engagée de plein droit en application de l'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), alinéa 5 (responsabilité du commettant du fait de son préposé).
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
@@ -72,13 +72,13 @@ La mise en demeure de l'assureur a été adressée le 29 juin 2026, enjoignant �
 
 ### 2.3 Survie de la personnalité morale
 
-Conformément à [l'article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186), si SAS LES MAUVAIS GARCONS venait à être dissoute ou radiée, la personnalité morale de la société survit pour les besoins de la liquidation jusqu'à la clôture de celle-ci. Ce mécanisme garantit que la société puisse encore être attraite en justice et que ses dettes soient apurées, incluant l'indemnisation due à Sébastien GRAZIDE.
+Conformément à l'[Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186), si SAS LES MAUVAIS GARCONS venait à être dissoute ou radiée, la personnalité morale de la société survit pour les besoins de la liquidation jusqu'à la clôture de celle-ci. Ce mécanisme garantit que la société puisse encore être attraite en justice et que ses dettes soient apurées, incluant l'indemnisation due à Sébastien GRAZIDE.
 
 > « La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la publication de la clôture de celle-ci. »
 
 ### 2.4 Responsabilité pour faute
 
-À titre subsidiaire, la responsabilité pour faute de SAS LES MAUVAIS GARCONS est engagée sur le fondement de [l'article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) pour défaut d'entretien de son équipement et manquement à son obligation de sécurité. Le principe de réparation intégrale impose que la victime soit replacée dans la situation où elle se serait trouvée si l'accident n'avait pas eu lieu.
+À titre subsidiaire, la responsabilité pour faute de SAS LES MAUVAIS GARCONS est engagée sur le fondement de l'[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) pour défaut d'entretien de son équipement et manquement à son obligation de sécurité. Le principe de réparation intégrale impose que la victime soit replacée dans la situation où elle se serait trouvée si l'accident n'avait pas eu lieu.
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
 
@@ -92,7 +92,7 @@ Une assignation en [référé-provision](https://www.legifrance.gouv.fr/codes/ar
 
 Le référé-provision permet d'obtenir une avance rapide lorsque l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de SAS LES MAUVAIS GARCONS est manifeste : un équipement instable présentant une cassure préexistante non signalée a causé un accident sur son lieu d'exploitation, par l'intermédiaire de son préposé, ce qui constitue une obligation non contestable.
 
-La demande inclut également la désignation d'un expert médical judiciaire sur le fondement de [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339).
+La demande inclut également la désignation d'un expert médical judiciaire sur le fondement de l'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339).
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
@@ -102,7 +102,7 @@ En parallèle, une procédure de référé-communication peut être engagée pou
 
 ### 3.3 Voie CIVI / FGTI (subsidiaire)
 
-Si l'absence d'assurance de SAS LES MAUVAIS GARCONS est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de [l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
+Si l'absence d'assurance de SAS LES MAUVAIS GARCONS est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
 Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels résultant d'une infraction pénale, lorsque l'auteur n'est pas assuré et que la réparation ne peut être obtenue à un autre titre.
 

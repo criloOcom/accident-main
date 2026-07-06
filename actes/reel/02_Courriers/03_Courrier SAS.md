@@ -92,7 +92,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 4. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
-À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de Foix — d'abord en référé sur le fondement de [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de Foix — d'abord en référé sur le fondement de l'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 

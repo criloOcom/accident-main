@@ -73,7 +73,7 @@ Le présent rapport a pour objet de définir les fondements légaux et d'établi
 
 L'incident s'est produit au sein de l'établissement « **[L'Exploitant du Commerce]** » (ci-après désigné "L'Exploitant"), exploité par une SAS dont la direction est assurée par **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**.
 
-Cette analyse s'appuie sur le principe de la réparation intégrale, visant à rétablir **[La Victime]** dans la situation qui aurait été la sienne sans la survenance du dommage, conformément à [l'article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571).
+Cette analyse s'appuie sur le principe de la réparation intégrale, visant à rétablir **[La Victime]** dans la situation qui aurait été la sienne sans la survenance du dommage, conformément à l'[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571).
 
 
 <hr><hr>
@@ -84,7 +84,7 @@ L'accident trouve son origine dans la manœuvre imprudente d'un employé prépos
 
 En tentant instinctivement de retenir le meuble pour éviter une chute plus grave, la main droite de **[La Victime]** a percuté une vasque en céramique avec cassure préexistante. Les arêtes tranchantes de la vasque ont causé des lésions profondes.
 
-Il est à noter que l'établissement a procédé à un remboursement symbolique de 15 €, ce qui constitue un aveu implicite de l'anormalité de la chose et de la faute du préposé sous la garde de **[L'Exploitant du Commerce]**, conformément à [l'article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000).
+Il est à noter que l'établissement a procédé à un remboursement symbolique de 15 €, ce qui constitue un aveu implicite de l'anormalité de la chose et de la faute du préposé sous la garde de **[L'Exploitant du Commerce]**, conformément à l'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000).
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
@@ -108,7 +108,7 @@ Pour un informaticien indépendant dont la main droite est la main dominante, ce
 
 ### A. Action directe contre l'assureur et survie de la personnalité morale
 
-La stratégie privilégie l'exercice de l'action directe contre L'Assureur de responsabilité civile de **[L'Exploitant du Commerce]**, telle que prévue par [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
+La stratégie privilégie l'exercice de l'action directe contre L'Assureur de responsabilité civile de **[L'Exploitant du Commerce]**, telle que prévue par l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 

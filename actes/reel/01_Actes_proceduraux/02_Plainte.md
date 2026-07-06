@@ -60,7 +60,7 @@ Malgré les demandes amiables répétées, SAS LES MAUVAIS GARCONS n'a jamais co
 
 Cette carence constitue un obstacle majeur à l'exercice de l'action directe de la victime contre l'assureur ([article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)) et entrave gravement ses droits à indemnisation.
 
-En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en charge par le Fonds de Garantie (FGTI) sur le fondement de [l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
+En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en charge par le Fonds de Garantie (FGTI) sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
@@ -81,7 +81,7 @@ Le 29 mai 2026, alors qu'il se trouvait dans le salon de coiffure exploité par 
 
 Alors que Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, Sébastien GRAZIDE a tendu la main droite pour protéger Ayoub BENNOURINE ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
-Ces faits, constitutifs de blessures involontaires au sens de [l'article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042635), ont fait l'objet d'une plainte initiale enregistrée sous le numéro [ ... ].
+Ces faits, constitutifs de blessures involontaires au sens de l'[Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042635), ont fait l'objet d'une plainte initiale enregistrée sous le numéro [ ... ].
 
 Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de SAS LES MAUVAIS GARCONS. Ni le Président de la SAS, Mountasser SABIR, ni la co-dirigeante, Catherine ANDISSAC, n'ont déféré aux demandes amiables de Sébastien GRAZIDE, ni à celles adressées au propriétaire des murs, Romain DELRIEU. 
 
@@ -96,7 +96,7 @@ Ce silence persistant, malgré l'envoi de courriers recommandés le 29 juin 2026
 
 Malgré les demandes amiables de Sébastien GRAZIDE, SAS LES MAUVAIS GARCONS n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle. Cette absence de réponse laisse présumer soit une absence de couverture assurantielle, soit une volonté de dissimulation.
 
-En l'absence d'assurance, l'indemnisation de la victime au titre de l'action directe prévue à [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) est gravement compromise. Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734), sur le fondement de [l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625), pourrait alors être saisi pour assurer l'indemnisation de Sébastien GRAZIDE.
+En l'absence d'assurance, l'indemnisation de la victime au titre de l'action directe prévue à l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) est gravement compromise. Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734), sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625), pourrait alors être saisi pour assurer l'indemnisation de Sébastien GRAZIDE.
 
 ### B. Sur l'entrave à l'exercice de l'action directe
 
@@ -107,7 +107,7 @@ Cette autonomie de l'action directe a été fermement rappelée par la jurisprud
 > Attendu : « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »
 > Résumé : La dissolution et la clôture de la liquidation d'une personne morale n'éteignent pas l'action directe de la victime contre son assureur de responsabilité civile, qui reste recevable.
 
-En dissimulant l'identité de leur assureur, les mis en cause commettent une entrave caractérisée aux droits de la victime, susceptible de relever des dispositions de [l'article 434-12 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209).
+En dissimulant l'identité de leur assureur, les mis en cause commettent une entrave caractérisée aux droits de la victime, susceptible de relever des dispositions de l'[Article 434-12 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209).
 
 > « Il n'y a point de crime ou de délit sans intention de le commettre. (...) Toutefois, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particularité gravité qu'elles ne pouvaient ignorer. »
 

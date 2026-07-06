@@ -72,7 +72,7 @@ Alors que l'employé Ayoub BENNOURINE était monté sur la vasque en céramique 
 
 L'affaire met en cause la responsabilité de la personne morale, dirigée par Mountasser SABIR et Catherine ANDISSAC, ainsi que le fait de son préposé.
 
-À ce jour, le statut exact de L'Exploitant demeure incertain : les courriers recommandés adressés le 29 juin 2026 à la société et à ses dirigeants sont restés sans réponse ni accusé de réception signé. Dans ce contexte d'opacité, il convient de sécuriser l'ensemble des voies d'indemnisation, notamment l'action directe contre l'assureur sur le fondement de [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), ainsi que la mise en cause personnelle des dirigeants.
+À ce jour, le statut exact de L'Exploitant demeure incertain : les courriers recommandés adressés le 29 juin 2026 à la société et à ses dirigeants sont restés sans réponse ni accusé de réception signé. Dans ce contexte d'opacité, il convient de sécuriser l'ensemble des voies d'indemnisation, notamment l'action directe contre l'assureur sur le fondement de l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), ainsi que la mise en cause personnelle des dirigeants.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 

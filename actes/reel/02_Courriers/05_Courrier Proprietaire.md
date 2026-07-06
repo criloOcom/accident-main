@@ -62,7 +62,7 @@ Je me permets de prendre contact avec vous en votre qualité de propriétaire ba
 
 Le vendredi 29 mai 2026 à 15h00, j'ai été victime d'un accident corporel grave au sein de cet établissement, causé par le basculement d'un équipement lourd (bac à shampoing) défectueux et avec cassure préexistante, entraînant une section profonde de 8,5 cm au niveau de ma main droite dominante (section tendineuse et nerveuse de l'index droit opérée en urgence sous anesthésie le 30 mai 2026) avec un pronostic de récupération neurologique évalué à un an minimum par le chirurgien (récupération souvent partielle s'agissant d'une suture nerveuse).
 
-Dans le cadre de la procédure d'indemnisation de ce préjudice corporel et conformément aux dispositions de [l'Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), je mets en œuvre l'action directe contre l'assureur de responsabilité civile de l'exploitant commercial.
+Dans le cadre de la procédure d'indemnisation de ce préjudice corporel et conformément aux dispositions de l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), je mets en œuvre l'action directe contre l'assureur de responsabilité civile de l'exploitant commercial.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
@@ -97,7 +97,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
-À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de Foix — d'abord en référé sur le fondement de [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de Foix — d'abord en référé sur le fondement de l'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 

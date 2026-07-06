@@ -55,7 +55,7 @@ Rappel des obligations légales
 
 [L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) institue une action directe de la victime contre l'assureur du responsable, ce qui me permet de vous saisir directement sans passer par l'intermédiaire de la société.
 
-Conformément à [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339), le juge des référés peut ordonner toute mesure d'instruction légalement admissible s'il existe un motif légitime de conserver ou d'établir la preuve de faits dont pourrait dépendre la solution d'un litige.
+Conformément à l'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339), le juge des référés peut ordonner toute mesure d'instruction légalement admissible s'il existe un motif légitime de conserver ou d'établir la preuve de faits dont pourrait dépendre la solution d'un litige.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
@@ -69,7 +69,7 @@ Il s'en est suivi une intervention de microchirurgie d'urgence le 30 mai 2026 au
 
 Le pronostic de récupération neurologique a été évalué à un an minimum par le chirurgien, avec un résultat souvent partiel s'agissant d'une suture nerveuse.
 
-En application de [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), je dispose d'un droit propre et d'une action directe à l'encontre de votre compagnie en tant qu'assureur de responsabilité civile de l'auteur du dommage.
+En application de l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), je dispose d'un droit propre et d'une action directe à l'encontre de votre compagnie en tant qu'assureur de responsabilité civile de l'auteur du dommage.
 
 > Attendu : « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »
 

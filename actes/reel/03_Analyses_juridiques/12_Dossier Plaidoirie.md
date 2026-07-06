@@ -69,14 +69,14 @@ format: Arial JUSTIFIED
 
 ### A. Responsabilité de plein droit du gardien (Art. 1242 C. civ.)
 
-Sur le fondement de [l'article 1242 alinéa 1er du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), le gardien de la chose instrument du dommage est responsable de plein droit.
+Sur le fondement de l'[Article 1242 alinéa 1er du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), le gardien de la chose instrument du dommage est responsable de plein droit.
 - **La vasque = chose instrument du dommage :** Son état de délabrement (cassure préexistante tranchante) et son basculement constituent le rôle actif incontestable dans la réalisation du dommage.
 - **La garde :** SAS LES MAUVAIS GARCONS est le propriétaire et l'exploitant du matériel défectueux.
 - **Absence d'exonération :** La réaction réflexe de sauvegarde de Sébastien GRAZIDE pour éviter la chute du préposé ne constitue en aucun cas une faute. Il n'y a pas non plus de force majeure invocable.
 
 ### B. Action directe contre l'assureur (Art. L.124-3 C. assur.)
 
-La victime bénéficie d'un droit d'action directe et autonome contre l'assureur de responsabilité civile du responsable, selon [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449). L'obstruction de la direction de la SAS à communiquer le nom de cet assureur justifie pleinement cette saisine en référé pour obtenir les informations sous astreinte.
+La victime bénéficie d'un droit d'action directe et autonome contre l'assureur de responsabilité civile du responsable, selon l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449). L'obstruction de la direction de la SAS à communiquer le nom de cet assureur justifie pleinement cette saisine en référé pour obtenir les informations sous astreinte.
 
 ### C. Faute détachable des dirigeants (Jurisprudence SATI)
 
@@ -86,7 +86,7 @@ La responsabilité de Mountasser SABIR et Catherine ANDISSAC est directement eng
 
 ### D. Manquement à l'obligation de sécurité
 
-Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant est tenu par une obligation générale de sécurité prévue à [l'Article L. 421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) et aux règles des ERP. Maintenir une vasque brisée et tranchante dans un tel espace constitue une négligence coupable d'une extrême gravité.
+Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant est tenu par une obligation générale de sécurité prévue à l'[Article L. 421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) et aux règles des ERP. Maintenir une vasque brisée et tranchante dans un tel espace constitue une négligence coupable d'une extrême gravité.
 
 <hr><hr>
 

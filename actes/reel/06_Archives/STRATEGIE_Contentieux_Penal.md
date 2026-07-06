@@ -60,7 +60,7 @@ Faits : le 29 mai 2026, Sébastien GRAZIDE a subi une section nerveuse et tendin
 
 Ces faits sont constitutifs de blessures involontaires ayant entraîné une incapacité totale de travail (ITT) prévisible inférieure ou égale à trois mois.
 
-L'infraction est prévue et réprimée par [l'article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
+L'infraction est prévue et réprimée par l'[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
@@ -68,15 +68,15 @@ L'infraction est prévue et réprimée par [l'article 222-20 du Code pénal](htt
 
 SAS LES MAUVAIS GARCONS n'a pas communiqué d'attestation d'assurance de responsabilité civile professionnelle malgré les relances amiables de Sébastien GRAZIDE.
 
-Cette absence d'assurance, si elle est confirmée, prive la victime de l'exercice de l'action directe contre l'assureur prévue à [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), et justifie une saisine du [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de [l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625), qui prévoit l'indemnisation des victimes d'infractions lorsque l'auteur n'est pas assuré.
+Cette absence d'assurance, si elle est confirmée, prive la victime de l'exercice de l'action directe contre l'assureur prévue à l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), et justifie une saisine du [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625), qui prévoit l'indemnisation des victimes d'infractions lorsque l'auteur n'est pas assuré.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
-**Note :** Il n'existe pas, en droit français, d'infraction pénale spécifique sanctionnant l'absence d'assurance RC Pro pour un salon de coiffure, contrairement à l'obligation d'assurance des véhicules terrestres à moteur prévue à [l'article L. 211-26 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795644) qui ne concerne que les véhicules.
+**Note :** Il n'existe pas, en droit français, d'infraction pénale spécifique sanctionnant l'absence d'assurance RC Pro pour un salon de coiffure, contrairement à l'obligation d'assurance des véhicules terrestres à moteur prévue à l'[Article L. 211-26 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795644) qui ne concerne que les véhicules.
 
 ### 2.3 Mise en danger de la vie d'autrui
 
-Le maintien en service d'un équipement dangereux (bac à shampoing instable dont la vasque en céramique présentait une cassure majeure tranchante non signalée) exposant directement le public à un risque immédiat de blessure pourrait caractériser l'infraction de mise en danger de la vie d'autrui prévue à [l'article 223-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253).
+Le maintien en service d'un équipement dangereux (bac à shampoing instable dont la vasque en céramique présentait une cassure majeure tranchante non signalée) exposant directement le public à un risque immédiat de blessure pourrait caractériser l'infraction de mise en danger de la vie d'autrui prévue à l'[Article 223-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253).
 
 Cette qualification nécessite la démonstration d'une violation délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le règlement.
 
@@ -110,11 +110,11 @@ La constitution de partie civile peut être réalisée par déclaration au greff
 
 Un complément de plainte a été déposé le 30 juin 2026 auprès du Procureur de la République près le Tribunal Judiciaire de Foix pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par SAS LES MAUVAIS GARCONS.
 
-Ce complément vise à porter à la connaissance de l'autorité judiciaire cette carence, qui constitue un obstacle à l'indemnisation de la victime et justifie, le cas échéant, la saisine du Fonds de Garantie (FGTI) sur le fondement de [l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
+Ce complément vise à porter à la connaissance de l'autorité judiciaire cette carence, qui constitue un obstacle à l'indemnisation de la victime et justifie, le cas échéant, la saisine du Fonds de Garantie (FGTI) sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
 ### 3.4 Responsabilité personnelle des dirigeants
 
-Les dirigeants de SAS LES MAUVAIS GARCONS, à savoir Mountasser SABIR (Président) et Catherine ANDISSAC (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales ([Cass. Com., 20 mai 2003, n° 99-17.092, Arrêt SATI](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)), ainsi que sur le fondement de [l'article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928).
+Les dirigeants de SAS LES MAUVAIS GARCONS, à savoir Mountasser SABIR (Président) et Catherine ANDISSAC (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales ([Cass. Com., 20 mai 2003, n° 99-17.092, Arrêt SATI](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)), ainsi que sur le fondement de l'[Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928).
 
 > Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
 > Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.

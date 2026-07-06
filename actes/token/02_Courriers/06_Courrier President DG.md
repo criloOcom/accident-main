@@ -81,7 +81,7 @@ C'est ce même assureur qui prendra en charge et indemnisera les conséquences m
 
 Je sollicite donc aujourd'hui votre aide bienveillante afin que vous puissiez me transmettre par écrit les coordonnées de votre compagnie d'assurance (nom de l'assureur et numéro de police d'assurance civile professionnelle en vigueur au 29 mai 2026).
 
-En application de [l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), la victime dispose d'une action directe contre l'assureur de responsabilité civile de l'auteur du dommage.
+En application de l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), la victime dispose d'une action directe contre l'assureur de responsabilité civile de l'auteur du dommage.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
@@ -97,7 +97,7 @@ Ces informations me permettront de déclarer le sinistre et d'envisager une rés
 
 En l'absence de retour de votre part sous un délai raisonnable de 15 jours à compter de la réception de cette lettre, la procédure d'indemnisation amiable sera malheureusement bloquée, ce qui m'obligerait à solliciter l'aide d'un huissier de justice ou d'un juge pour obtenir ces renseignements.
 
-À défaut de réponse dans ce délai, je me verrai contraint de saisir le juge des référés du tribunal judiciaire de **[La Ville de l'Accident]** afin d'obtenir, sur le fondement de [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339), une mesure d'instruction in futurum aux fins d'identification de l'assureur.
+À défaut de réponse dans ce délai, je me verrai contraint de saisir le juge des référés du tribunal judiciaire de **[La Ville de l'Accident]** afin d'obtenir, sur le fondement de l'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339), une mesure d'instruction in futurum aux fins d'identification de l'assureur.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
@@ -121,7 +121,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 4. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
-À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de **[La Ville de l'Accident]** — d'abord en référé sur le fondement de [l'article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de **[La Ville de l'Accident]** — d'abord en référé sur le fondement de l'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 

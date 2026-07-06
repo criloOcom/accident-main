@@ -66,7 +66,7 @@ Partage depuis : sebastien.grazide@gmail.com
 
 ## 01 — Actes procéduraux
 
-- 2026-06-29 - 01_Assignation - V1 ✓ Vérifié : Projet d'assignation en référé-provision (5 000 €) fondé sur [l'Article 835 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
+- 2026-06-29 - 01_Assignation - V1 ✓ Vérifié : Projet d'assignation en référé-provision (5 000 €) fondé sur l'[Article 835 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
 - 2026-06-01 - 02_Plainte - V1 ✓ Vérifié : Plainte complémentaire défaut assurance RC (victime agissant en qualité de client).
 - 2026-07-05 - 03_Assignation Article 145 - V1 ✓ Brouillon : Assignation en référé pour communication forcée police d'assurance RC Pro sous astreinte.
 - 2026-07-05 - 04_Bordereau de pieces - V1 ✓ Vérifié : Bordereau récapitulatif des pièces du dossier.
@@ -78,7 +78,7 @@ Partage depuis : sebastien.grazide@gmail.com
 ## 02 — Courriers
 
 - 2026-06-29 - 03_Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à SAS LES MAUVAIS GARCONS.
-- 2026-06-29 - 04_Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de [l'Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
+- 2026-06-29 - 04_Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
 - 2026-06-01 - 05_Courrier Proprietaire - V1 ✓ Vérifié : Demande d'information au propriétaire des murs (détient l'attestation d'assurance RC Pro du locataire via le bail commercial).
@@ -105,14 +105,14 @@ Partage depuis : sebastien.grazide@gmail.com
 
 ## 03 — Analyses juridiques
 
-- 2026-06-29 - 07_Plaidoirie dirigeants - V1 ✓ Vérifié : Analyse de la responsabilité pour faute détachable selon l'Arrêt SATI juridique invoquant [l'Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
+- 2026-06-29 - 07_Plaidoirie dirigeants - V1 ✓ Vérifié : Analyse de la responsabilité pour faute détachable selon l'Arrêt SATI juridique invoquant l'[Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
 
 Et, [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000).
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
 - 2026-06-29 - 09_FAQ - V1 ✓ Vérifié : Synthèse juridique et questions-réponses.
-- 2026-06-02 - 13_Responsabilites legales - V1 ✓ Vérifié : Analyse sur [l'Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
+- 2026-06-02 - 13_Responsabilites legales - V1 ✓ Vérifié : Analyse sur l'[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
 <hr><hr>

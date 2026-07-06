@@ -55,7 +55,7 @@ Ces blessures, affectant la main dominante d'un informaticien indépendant, ont 
 
 ### 1. Sur la recevabilité et la compétence du Juge des référés
 
-En application de [l'article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284), le président du Tribunal judiciaire peut, dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, accorder une provision au créancier.
+En application de l'[Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284), le président du Tribunal judiciaire peut, dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, accorder une provision au créancier.
 
 En l'espèce, la matérialité de l'accident et des blessures, constatée par procès-verbal de police et documents médicaux incontestables, rend l'obligation à réparation de la SAS **[L'Exploitant du Commerce]** non sérieusement contestable, caractérisant ainsi l'urgence et le trouble manifestement illicite justifiant la compétence du juge des référés.
 
