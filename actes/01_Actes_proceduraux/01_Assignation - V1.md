@@ -59,15 +59,15 @@ PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCI
 
 ## I. EXPOSÉ DES FAITS
 
-Le 29 mai 2026, **[La Victime]** s'est rendu au salon de coiffure exploité par **[L'Exploitant du Commerce]** pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero (15,00 €).
+Le 29 mai 2026, **[La Victime]** s'est rendu au salon de coiffure exploité par **[L'Exploitant du Commerce]** pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero (15,00 €) **(Pièce n°1)**.
 
 Alors qu'il se trouvait au bac à shampoing, **[Le Préposé de l'Exploitation]**, qui était monté sur la vasque en céramique, a provoqué le basculement brutal de l'équipement en tentant d'en descendre. Par un réflexe d'assistance pour retenir la chute, **[La Victime]** a tendu sa main droite, qui a heurté une cassure majeure préexistante non signalée sur le flanc de la vasque.
 
-**[La Victime]** a immédiatement été pris en charge aux urgences du Centre Ariégeois de Soins Immédiats par **[Le Médecin en Urgence]**, qui a procédé à une suture initiale d'une plaie palmaire de 8,5 cm et diagnostiqué une suspicion d'atteinte tendineuse et nerveuse majeure.
+**[La Victime]** a immédiatement été pris en charge aux urgences du Centre Ariégeois de Soins Immédiats par **[Le Médecin en Urgence]**, qui a procédé à une suture initiale d'une plaie palmaire de 8,5 cm et diagnostiqué une suspicion d'atteinte tendineuse et nerveuse majeure **(Pièce n°2)**.
 
 Le lendemain, 30 mai 2026, **[La Victime]** a été hospitalisé et opéré en urgence par **[Le Chirurgien SOS Main]** au service SOS Main de **[L'Établissement SOS Main]**.
 
-L'intervention microchirurgicale a révélé et traité une section partielle du tendon fléchisseur de l'index droit (main dominante), une section complète des paquets collatéraux vasculo-nerveux, et une neurolyse du nerf palmaire, nécessitant une suture Mac Learney à 6 brins et une micro-suture nerveuse sous loupes binoculaires. **[La Victime]** a quitté la clinique le jour même.
+L'intervention microchirurgicale a révélé et traité une section partielle du tendon fléchisseur de l'index droit (main dominante), une section complète des paquets collatéraux vasculo-nerveux, et une neurolyse du nerf palmaire, nécessitant une suture Mac Learney à 6 brins et une micro-suture nerveuse sous loupes binoculaires. **[La Victime]** a quitté la clinique le jour même **(Pièce n°3)**.
 
 La lettre de liaison de sortie officielle lui a été transmise par e-mail le lendemain, 31 mai 2026, actant un repos post-opératoire immédiat.
 
@@ -75,9 +75,9 @@ En raison de la gravité des lésions subies à sa main droite dominante (sectio
 
 Cet état de handicap temporaire sévère et documenté explique et justifie le délai nécessaire pour la finalisation de la présente procédure, engagée dès que son état de santé a permis d'entreprendre des démarches de rédaction.
 
-Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du 02/06/2026). Un dossier de Recours contre Tiers a également été ouvert auprès de la CPAM sous la référence [ ... ].
+Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du 02/06/2026) **(Pièce n°5)**. Un dossier de Recours contre Tiers a également été ouvert auprès de la CPAM sous la référence [ ... ] **(Pièce n°6)**.
 
-À ce jour, le cumul des arrêts de travail prescrits s'élève à 56 jours d'ITT continue (du 29/05/2026 au 23/07/2026 inclus).
+À ce jour, le cumul des arrêts de travail prescrits s'élève à 56 jours d'ITT continue (du 29/05/2026 au 23/07/2026 inclus) **(Pièce n°4)**.
 
 
 <hr><hr>
@@ -136,7 +136,11 @@ Dans l'attente du dépôt du rapport de l'expert judiciaire, **[La Victime]** so
 
 ## PAR CES MOTIFS
 
-Il est demandé au Président du Tribunal de :
+Vu les articles 145 et 835 du Code de procédure civile,
+Vu les articles 1240 et 1242 du Code civil,
+Vu les pièces versées aux débats,
+
+**[La Victime]** demande qu'il plaise à Monsieur le Président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, de :
 
 1. **ORDONNER** une expertise médicale judiciaire de **[La Victime]** ;
 
@@ -145,6 +149,19 @@ Il est demandé au Président du Tribunal de :
 3. **CONDAMNER** **[L'Exploitant du Commerce]** à verser à **[La Victime]** la somme de 5 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
 
 4. **CONDAMNER** **[L'Exploitant du Commerce]** à payer à **[La Victime]** la somme de 3 000 € sur le fondement de l'[article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647394), ainsi qu'aux entiers dépens.
+
+<hr><hr>
+
+## BORDEREAU DES PIÈCES INVOQUÉES
+
+- **Pièce n°1 :** Preuves de l'opération de paiement Wero de 15,00 € (29/05/2026)
+- **Pièce n°2 :** Certificat médical de premiers soins d'urgence rédigé par **[Le Médecin en Urgence]** (29/05/2026)
+- **Pièce n°3 :** Compte-rendu opératoire de microchirurgie rédigé par **[Le Chirurgien SOS Main]** (30/05/2026)
+- **Pièce n°4 :** Certificats médicaux d'arrêts de travail justifiant 56 jours d'ITT
+- **Pièce n°5 :** Dépôt de plainte officielle et procès-verbal de police pour blessures involontaires
+- **Pièce n°6 :** Dossier de Recours Contre Tiers (RCT) CPAM
+
+<hr><hr>
 
 Fait à **[La Ville de l'Accident]**, le 30 juin 2026.
 

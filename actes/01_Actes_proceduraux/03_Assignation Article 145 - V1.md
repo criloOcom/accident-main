@@ -55,9 +55,9 @@ Le 29 mai 2026, alors qu'il se trouvait au sein du salon de coiffure exploite pa
 
 Alors que **[Le Prepose de l'Exploitation]** escaladait la vasque en ceramique du bac a shampoing pour acceder au poste de television, l'equipement a bascule. Par reflexe, **[La Victime]** a tendu la main droite pour proteger le prepose ; sa paume a heurte une cassure majeure preexistante non signalee aux aretes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit ayant necessite une microchirurgie d'urgence le 30 mai 2026.
 
-A la suite de cet accident, **[La Victime]** a vainement sollicite de **[L'Exploitant du Commerce]** la communication de l'identite de son assureur de responsabilite civile professionnelle. Ni la societe, ni son President **[Le President de l'Exploitation]**, ni sa Directrice Generale **[La Directrice Generale de l'Exploitation]** n'ont repondu aux courriers recommandes qui leur ont ete adresses le 29 juin 2026.
+A la suite de cet accident, **[La Victime]** a vainement sollicite de **[L'Exploitant du Commerce]** la communication de l'identite de son assureur de responsabilite civile professionnelle. Ni la societe, ni son President **[Le President de l'Exploitation]**, ni sa Directrice Generale **[La Directrice Generale de l'Exploitation]** n'ont repondu aux courriers recommandes qui leur ont ete adresses le 29 juin 2026 **(Pièces n°7, n°8 et n°9)**.
 
-L'accuse de reception du courrier recommande adresse au proprietaire des murs, **[Le Proprietaire des Murs]**, a ete retourne signe le 3 juillet 2026, mais celui-ci n'a pas davantage communique l'information.
+L'accuse de reception du courrier recommande adresse au proprietaire des murs, **[Le Proprietaire des Murs]**, a ete retourne signe le 3 juillet 2026, mais celui-ci n'a pas davantage communique l'information **(Pièce n°10)**.
 
 A ce jour, l'identite de l'assureur RC professionnelle de **[L'Exploitant du Commerce]** demeure inconnue.
 
@@ -104,7 +104,11 @@ L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu
 
 ## PAR CES MOTIFS
 
-**[La Victime]** demande qu'il plaise a Monsieur le President du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en refere :
+Vu l'article 145 du Code de procédure civile,
+Vu l'article L. 124-3 du Code des assurances,
+Vu les pièces versées aux débats,
+
+**[La Victime]** demande qu'il plaise à Monsieur le Président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, de :
 
 1. **ORDONNER** a la SAS **[L'Exploitant du Commerce]** de communiquer a **[La Victime]** l'integralite de sa police d'assurance de responsabilite civile professionnelle en vigueur au 29 mai 2026, ou, a defaut, une attestation de l'assureur mentionnant :
 
@@ -118,6 +122,17 @@ L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu
 3. **SE RESERVER** la liquidation de l'astreinte ;
 
 4. **CONDAMNER** la SAS **[L'Exploitant du Commerce]** a payer a **[La Victime]** la somme de 1 500 € sur le fondement de l'article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
+
+<hr><hr>
+
+## BORDEREAU DES PIÈCES INVOQUÉES
+
+- **Pièce n°7 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à **[L'Exploitant du Commerce]** (29/06/2026)
+- **Pièce n°8 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à **[Le Président de l'Exploitation]** (29/06/2026)
+- **Pièce n°9 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à **[La Directrice Générale de l'Exploitation]** (29/06/2026)
+- **Pièce n°10 :** Lettre Recommandée avec Accusé de Réception (LRAR) adressée à **[Le Propriétaire des Murs]** et son Accusé de Réception signé (03/07/2026)
+
+<hr><hr>
 
 Fait a **[La Ville de l'Accident]**, le 5 juillet 2026.
 
