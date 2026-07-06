@@ -28,7 +28,7 @@ Courriel : **[L'Email de la Victime]**
 
 **URSSAF Midi-Pyrenees**
 
-**[Adresse a completer]**
+**[Adresse à compléter]**
 
 **[La Ville de l'Accident]**, le 5 juillet 2026
 

@@ -27,7 +27,7 @@ Courriel : **[L'Email de la Victime]**
 
 **CPAM de la Haute-Garonne**
 
-**[Adresse a completer]**
+**[Adresse à compléter]**
 
 **[La Ville de l'Accident]**, le 5 juillet 2026
 

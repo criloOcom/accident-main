@@ -28,7 +28,7 @@ Courriel : **[L'Email de la Victime]**
 
 **Conseil Departemental de l'Ariege**
 
-**[Adresse a completer]**
+**[Adresse à compléter]**
 
 **[La Ville de l'Accident]**, le 5 juillet 2026
 
