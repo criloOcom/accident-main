@@ -2,7 +2,6 @@ import os
 import re
 import glob
 
-# Reverse mapping based on memory/TOKEN MAP.md and STRICT VARIABLES.md
 REVERSE_MAP = {
     "**[La Victime]**": "Sébastien GRAZIDE",
     "**[Le Président de l'Exploitation]**": "Mountasser SABIR",
@@ -11,7 +10,7 @@ REVERSE_MAP = {
     "**[La Directrice Generale de l'Exploitation]**": "Catherine ANDISSAC",
     "**[Le Préposé de l'Exploitation]**": "Ayoub BENNOURINE",
     "**[Le Prepose de l'Exploitation]**": "Ayoub BENNOURINE",
-    "[Le Prepose de l'Exploitation]": "Ayoub BENNOURINE", # specifically added for line in Doc 12
+    "[Le Prepose de l'Exploitation]": "Ayoub BENNOURINE",
     "**[Le Propriétaire des Murs]**": "Romain DELRIEU",
     "**[Le Chirurgien SOS Main]**": "Dr Iskander DJERBI",
     "**[Le Médecin en Urgence]**": "Dr Julie JARDON",
@@ -33,23 +32,15 @@ REVERSE_MAP = {
     "**[L'Email de la Victime]**": "sebastien.grazide@gmail.com",
     "**[L'Identifiant Professionnel de la Victime]**": "500 474 457",
     "**[L'Identifiant de l'Exploitation]**": "938 033 222 00010",
-    "**[L'Adjoint au Maire de la Commune]**": "Monsieur TAVELLA" # Given the context of 08_Courrier Suivi TAVELLA
+    "**[L'Adjoint au Maire de la Commune]**": "Monsieur TAVELLA",
 }
 
-# The address block mapping that removes the asterisks entirely for the victim's header
-# We want to replace this exact string or similar block with the correct info, but we'll do this carefully.
-
 def replace_header_block(content):
-    # Search for the address block
-    # Note: it's possible the block has empty lines
-    # We'll use regex to match the block
     pattern = r"\*\*\[L'Adresse de la Victime\]\*\*\n\nCourriel : \*\*\[L'Email de la Victime\]\*\*"
     replacement = "Sébastien GRAZIDE\n10 Avenue de Purpan, 31700 Blagnac\nCourriel : sebastien.grazide@gmail.com"
-    content = re.sub(pattern, replacement, content)
-    return content
+    return re.sub(pattern, replacement, content)
 
 def update_yaml_frontmatter(content):
-    # Add " - Version réelle" to the "titre:" field in the frontmatter
     def replacer(match):
         title_line = match.group(0)
         if " - Version réelle" not in title_line:
@@ -58,54 +49,53 @@ def update_yaml_frontmatter(content):
     return re.sub(r'^titre:\s*.*$', replacer, content, flags=re.MULTILINE)
 
 def main():
-    input_dir = 'actes/02_Courriers'
-    output_dir = 'actes/07_Reel'
-    os.makedirs(output_dir, exist_ok=True)
+    input_base = 'actes/token'
+    output_base = 'actes/reel'
 
-    generated_files = []
+    generated = []
 
-    # Read all files in input_dir
-    filepaths = glob.glob(os.path.join(input_dir, '*.md'))
-    for filepath in filepaths:
-        filename = os.path.basename(filepath)
-
-        # Skip INDEX.md if it exists in there somehow
-        if filename == 'INDEX.md':
+    for subdir in sorted(os.listdir(input_base)):
+        input_dir = os.path.join(input_base, subdir)
+        if not os.path.isdir(input_dir):
             continue
 
-        with open(filepath, 'r', encoding='utf-8') as f:
-            content = f.read()
+        output_dir = os.path.join(output_base, subdir)
+        os.makedirs(output_dir, exist_ok=True)
 
-        # Update YAML frontmatter
-        content = update_yaml_frontmatter(content)
+        sub_generated = []
+        for filepath in sorted(glob.glob(os.path.join(input_dir, '*.md'))):
+            filename = os.path.basename(filepath)
+            if filename == 'INDEX.md':
+                continue
 
-        # Replace header block specifically for the victim
-        content = replace_header_block(content)
+            with open(filepath, 'r', encoding='utf-8') as f:
+                content = f.read()
 
-        # Replace tokens
-        for token, real_val in REVERSE_MAP.items():
-            content = content.replace(token, real_val)
+            content = update_yaml_frontmatter(content)
+            content = replace_header_block(content)
+            for token, real_val in REVERSE_MAP.items():
+                content = content.replace(token, real_val)
+            content = content.replace("**[Adresse à compléter]**", "[À compléter]")
+            content = content.replace("**[À compléter]**", "[À compléter]")
 
-        # Address to complete is a placeholder that wasn't previously a mapped token
-        content = content.replace("**[Adresse à compléter]**", "[À compléter]")
-        content = content.replace("**[À compléter]**", "[À compléter]")
+            outpath = os.path.join(output_dir, filename)
+            with open(outpath, 'w', encoding='utf-8') as f:
+                f.write(content)
 
-        # Write out
-        outpath = os.path.join(output_dir, filename)
-        with open(outpath, 'w', encoding='utf-8') as f:
-            f.write(content)
+            sub_generated.append(filename)
+            print(f"  {outpath}")
 
-        generated_files.append(filename)
-        print(f"Generated {outpath}")
+        if sub_generated:
+            idx_path = os.path.join(output_dir, 'INDEX.md')
+            with open(idx_path, 'w', encoding='utf-8') as f:
+                f.write(f"# Index — {subdir} (Versions Réelles)\n\n")
+                for fn in sorted(sub_generated):
+                    f.write(f"- [{fn}]({fn})\n")
+            print(f"  {idx_path}")
+            generated.append((subdir, sub_generated))
 
-    # Write INDEX.md
-    index_path = os.path.join(output_dir, 'INDEX.md')
-    with open(index_path, 'w', encoding='utf-8') as f:
-        f.write("# Index des Courriers (Versions Réelles)\n\n")
-        for filename in sorted(generated_files):
-            f.write(f"- [{filename}]({filename})\n")
-
-    print(f"Generated {index_path}")
+    total = sum(len(files) for _, files in generated)
+    print(f"\n--- {total} fichiers générés dans {output_base}/ ---")
 
 if __name__ == '__main__':
     main()
