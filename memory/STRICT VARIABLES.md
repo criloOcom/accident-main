@@ -3,14 +3,14 @@
 **NE JAMAIS MODIFIER NI INVENTER.** Ces valeurs prévalent sur tout autre contenu.
 
 ## Identité de la victime
-- NOM : GRAZIDE Sébastien
+- NOM : **[La Victime]**
 - DATE_NAISSANCE : **18 janvier 1982** (⚠ jamais 12 mars)
-- VILLE_NAISSANCE : Toulouse (31)
+- VILLE_NAISSANCE : **[La Métropole Régionale]**
 - NATIONALITÉ : française
 - PROFESSION : informaticien indépendant
-- ADRESSE : 10 Avenue de Purpan, 31700 Blagnac (31)
-- EMAIL : sebastien.grazide@gmail.com
-- SIREN : 500 474 457
+- ADRESSE : **[L'Adresse de la Victime]**
+- EMAIL : **[L'Email de la Victime]**
+- SIREN : **[L'Identifiant Professionnel de la Victime]**
 
 ## Montants financiers
 - MONTANT_PROVISION_REFERE : 5 000 € (demande judiciaire en référé)
@@ -20,17 +20,22 @@
 - CA_MENSUEL_MOYEN : 750 € (déclaré URSSAF, CA annuel 9 000 € net)
 - PGPA_ASSIGNATION : 7 500 € (évaluation forfaitaire dans assignation)
 - PGPA_ETUDE : 1 400 € (prorata réel : 750/30×56 jours)
+- FACTURE_CHIRURGIE : 790,23 €
+- MONTANT_ASTREINTE_145 : 150 €/jour
+- MONTANT_ARTICLE_700_145 : 1 500 € (assignation article 145)
 
 ⚠ **Explication 5k€ vs 15k€** : La demande amiable (15k€) est volontairement plus élevée que la demande en référé (5k€). C'est une stratégie juridique normale : la phase amiable fixe un plafond de négociation, le référé demande un minimum immédiat. Ce n'est pas une incohérence.
 ⚠ **Doc 7 vs Doc 1** : Les deux documents utilisent des bases de calcul PGPA différentes (forfaitaire vs prorata réel). Ce n'est pas une contradiction — l'assignation fait une estimation large, l'étude détaille le calcul précis. Les deux peuvent coexister.
 
 ## Dates clés (⚠ précision absolue requise)
 - DATE_ACCIDENT : **29 mai 2026** (vendredi)
+- HEURE_ACCIDENT : 15h00
 - DATE_CHIRURGIE_SOS_MAIN : **30 mai 2026** (samedi — ⚠ JAMAIS 31 ; le 31/05 est la date du COMPTE-RENDU, pas de la chirurgie)
-- LIEU_ACCIDENT : 22 Rue Lafaurie, 09000 Foix (09)
-- ETABLISSEMENT : SAS LES MAUVAIS GARCONS
+- LIEU_ACCIDENT : **[L'Adresse de l'Exploitation]**
+- ETABLISSEMENT : **[L'Exploitant du Commerce]**
+- SERVICES_URGENCE : SMUR 09 (Centre Ariégeois de Soins Immédiats)
 - ITT_TOTAL : 56 jours (29/05/2026 → 23/07/2026)
-- ⚠ ITT_INITIALE_ERREUR : Dr Oxybel a noté 1 jour le 01/06 (erreur matérielle, rectifiée à 56j)
+- ⚠ ITT_INITIALE_ERREUR : **[Le Médecin Généraliste]** a noté 1 jour le 01/06 (erreur matérielle, rectifiée à 56j)
 - PV_POLICE : 2026/015967 (⚠ info non confirmée par retour officiel — source : courriel Mairie de **[La Ville de l'Accident]** du 01/06/2026 + dossier de plainte déposé par **[La Victime]**)
 - DOSSIER_CPAM : **31727387** (⚠ jamais 31713398 — obsolète)
 - CAPITAL_SOCIAL : 200 € (2 000 actions de 0,10 €)
@@ -40,7 +45,7 @@
 - DATE_ACCIDENT_CERTIFICAT_ERREUR : Certains certificats mentionnent 29/06/2026 par erreur (date réelle : 29/05/2026)
 
 ## Mécanisme de l'accident (VÉRITÉ FACTUELLE)
-1. Le coiffeur (Ayoub Bennourine) est monté physiquement sur la vasque en céramique du bac à shampoing
+1. Le coiffeur (**[Le Préposé de l'Exploitation]**) est monté physiquement sur la vasque en céramique du bac à shampoing
 2. En descendant, son poids a provoqué le **basculement** de l'équipement
 3. La victime a tendu la main droite par réflexe pour protéger le coiffeur
 4. La paume a heurté une **cassure majeure préexistante** non signalée sur le flanc de la vasque
