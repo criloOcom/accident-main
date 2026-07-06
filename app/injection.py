@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Script d'injection .md → Google Docs avec sauts de page.
 
