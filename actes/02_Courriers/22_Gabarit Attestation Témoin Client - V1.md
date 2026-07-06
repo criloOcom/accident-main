@@ -2,7 +2,13 @@
 format: Arial JUSTIFIED
 ---
 
-# ATTESTATION DE TÉMOIN (Article 202 du Code de procédure civile)
+# ATTESTATION DE TÉMOIN (Cerfa n° 11527*03)
+Article 202 du Code de procédure civile
+
+> **INSTRUCTIONS DE REMPLISSAGE (à lire avant de compléter) :**
+> - Veuillez compléter les mentions entre crochets `[À compléter]`.
+> - Vous devez **obligatoirement** joindre une copie recto-verso de votre pièce d'identité (carte d'identité, passeport ou permis de conduire).
+> - L'attestation doit être datée et signée.
 
 Je soussigné(e) [À compléter],
 Né(e) le [À compléter] à [À compléter],
@@ -13,7 +19,11 @@ N'ayant aucun lien de parenté, d'alliance, de subordination, ni d'intérêt com
 
 Atteste sur l'honneur des faits suivants :
 
-[À compléter : Décrivez librement les faits. Indiquez que vous étiez cliente présente dans le salon, ce que vous avez vu et entendu concernant l'accident de **[La Victime]**.]
+[À compléter : Si le texte suivant correspond à ce que vous avez vu et entendu le 29 mai 2026, vous pouvez le recopier ou vous en inspirer. Sinon, décrivez librement les faits avec vos propres mots.]
+
+"Je me trouvais dans le salon de coiffure **[L'Exploitant du Commerce]** le 29 mai 2026. L'ambiance était normale. J'ai vu le coiffeur, **[Le Préposé de l'Exploitation]**, monter physiquement sur la vasque en céramique du bac à shampoing. En descendant, son poids a provoqué le basculement soudain de l'équipement, faisant un bruit important.
+J'ai alors vu un autre client, **[La Victime]**, tendre la main droite par un réflexe immédiat pour tenter de rattraper le coiffeur et le protéger de la chute. Sa paume a heurté le flanc de la vasque.
+J'ai immédiatement constaté un saignement très abondant (beaucoup de sang) provenant de sa main. La situation était très urgente. Les secours (pompiers/SAMU) ont été appelés et sont arrivés rapidement sur les lieux pour le prendre en charge."
 
 Conscient que cette attestation pourra être utilisée en justice et que toute fausse déclaration de ma part m'expose à des sanctions pénales.
 

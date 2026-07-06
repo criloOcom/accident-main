@@ -2,7 +2,13 @@
 format: Arial JUSTIFIED
 ---
 
-# ATTESTATION DE TÉMOIN (Article 202 du Code de procédure civile)
+# ATTESTATION DE TÉMOIN (Cerfa n° 11527*03)
+Article 202 du Code de procédure civile
+
+> **INSTRUCTIONS DE REMPLISSAGE (à lire avant de compléter) :**
+> - Veuillez compléter les mentions entre crochets `[À compléter]`.
+> - Vous devez **obligatoirement** joindre une copie recto-verso de votre pièce d'identité ou de votre carte professionnelle.
+> - L'attestation doit être datée et signée.
 
 Je soussigné(e) [À compléter],
 Né(e) le [À compléter] à [À compléter],
@@ -13,7 +19,9 @@ N'ayant aucun lien de parenté, d'alliance, de subordination, ni d'intérêt com
 
 Atteste sur l'honneur des faits suivants :
 
-[À compléter : Décrivez librement les faits. En tant que secouriste, décrivez ce que vous avez constaté concernant la vasque lors de votre intervention pour **[La Victime]**.]
+[À compléter : En tant que membre des services de secours (Pompier / SAMU), si le texte suivant correspond à votre intervention du 29 mai 2026, vous pouvez le recopier ou vous en inspirer. Sinon, décrivez librement les faits.]
+
+"Je suis intervenu(e) le 29 mai 2026 au sein du salon de coiffure **[L'Exploitant du Commerce]**. À notre arrivée sur les lieux, nous avons pris en charge un individu, **[La Victime]**, qui présentait une blessure grave et un saignement abondant au niveau de la main droite. Un pansement compressif d'urgence a dû être mis en place pour stopper l'hémorragie. L'état de la victime a nécessité une prise en charge immédiate et son transport en urgence vers la structure médicale appropriée."
 
 Conscient que cette attestation pourra être utilisée en justice et que toute fausse déclaration de ma part m'expose à des sanctions pénales.
 
