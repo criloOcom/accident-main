@@ -33,7 +33,7 @@ A l'attention de Monsieur le Doyen des Juges d'Instruction
 
 Tribunal Judiciaire de Foix
 
-Blagnac, le **[J+38 Constitution PC]**
+Blagnac, le 6 juillet 2026
 
 ## INTRODUCTION
 
@@ -189,7 +189,7 @@ Sébastien GRAZIDE se constitue partie civile et sollicite qu'il plaise a Monsie
 
 5. **SE RESERVER** la liquidation de l'astreinte et la fixation des dommages et interets definitifs apres depot du rapport d'expertise medicale.
 
-Fait a Blagnac, le **[J+38 Constitution PC]**
+Fait a Blagnac, le 6 juillet 2026
 
 Sébastien GRAZIDE
 

@@ -71,6 +71,7 @@ REVERSE_MAP = {
     "**[J+33 Plainte complémentaire]**": "1 juillet 2026",
     "**[J+35 AR propriétaire]**": "3 juillet 2026",
     "**[J+37 Assignation 145]**": "5 juillet 2026",
+    "**[J+38 Constitution PC]**": "6 juillet 2026",
     "**[J+40 Consultation suivi]**": "8 juillet 2026",
     "**[J+46 Échéance amiable]**": "14 juillet 2026",
     "**[J+55 Fin d'ITT]**": "23 juillet 2026",

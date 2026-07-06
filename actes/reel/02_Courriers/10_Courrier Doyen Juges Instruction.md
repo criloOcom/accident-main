@@ -39,12 +39,12 @@ Tribunal Judiciaire de Foix
 09008 Foix Cedex
 
 
-Blagnac, le **[J+38 Constitution PC]**
+Blagnac, le 6 juillet 2026
 
 
 **Objet : Dépôt d'une plainte avec constitution de partie civile pour blessures involontaires**
 
-**Réf. Parquet : Plainte initiale n° [ ... ] (dépôt du [J+3 Dépôt Plainte])**
+**Réf. Parquet : Plainte initiale n° [ ... ] (dépôt du 2 juin 2026)**
 
 
 Monsieur le Doyen des Juges d'Instruction,
@@ -53,7 +53,7 @@ Par la présente et conformément aux dispositions des articles 85 et suivants d
 
 Ces faits sont survenus le 29 mai 2026 dans les locaux de la SAS SAS LES MAUVAIS GARCONS, sise 22 Rue Lafaurie, 09000 Foix. Ils engagent la responsabilité pénale et civile de la personne morale ainsi que celle de ses dirigeants, Mountasser SABIR et Catherine ANDISSAC, pour violation manifestement délibérée d'une obligation de prudence ou de sécurité et défaut d'assurance de responsabilité civile professionnelle.
 
-À la suite du dépôt de ma plainte simple le **[J+3 Dépôt Plainte]** auprès du Commissariat de Foix (PV n° [ ... ]), et en l'absence de toute suite connue à ce jour et face au refus persistant des mis en cause de communiquer leurs informations d'assurance, je me vois contraint de saisir votre juridiction pour faire valoir mes droits.
+À la suite du dépôt de ma plainte simple le 2 juin 2026 auprès du Commissariat de Foix (PV n° [ ... ]), et en l'absence de toute suite connue à ce jour et face au refus persistant des mis en cause de communiquer leurs informations d'assurance, je me vois contraint de saisir votre juridiction pour faire valoir mes droits.
 
 Vous trouverez ci-joint la plainte avec constitution de partie civile formelle détaillant les faits et les fondements juridiques, ainsi qu'un bordereau récapitulant les pièces justificatives que je verse au débat.
 
@@ -67,5 +67,5 @@ Sébastien GRAZIDE
 
 
 **Pièces jointes :**
-- Plainte avec constitution de partie civile datée du **[J+38 Constitution PC]**
+- Plainte avec constitution de partie civile datée du 6 juillet 2026
 - Bordereau des pièces annexées et les 6 pièces justificatives (Procès-verbal, certificats médicaux, compte-rendu opératoire, arrêts de travail, plaintes antérieures, dossier CPAM).

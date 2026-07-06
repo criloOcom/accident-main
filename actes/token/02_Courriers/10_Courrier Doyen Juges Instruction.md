@@ -44,7 +44,7 @@ Tribunal Judiciaire de **[La Ville de l'Accident]**
 
 **Objet : Dépôt d'une plainte avec constitution de partie civile pour blessures involontaires**
 
-**Réf. Parquet : Plainte initiale n° [ ... ] (dépôt du [J+3 Dépôt Plainte])**
+**Réf. Parquet : Plainte initiale n° [ ... ] (dépôt du **[J+4 Dépôt de plainte]**)**
 
 
 Monsieur le Doyen des Juges d'Instruction,
@@ -53,7 +53,7 @@ Par la présente et conformément aux dispositions des articles 85 et suivants d
 
 Ces faits sont survenus le **[J+0 Accident]** dans les locaux de la SAS **[L'Exploitant du Commerce (La SAS)]**, sise **[L'Adresse de l'Exploitation]**. Ils engagent la responsabilité pénale et civile de la personne morale ainsi que celle de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, pour violation manifestement délibérée d'une obligation de prudence ou de sécurité et défaut d'assurance de responsabilité civile professionnelle.
 
-À la suite du dépôt de ma plainte simple le **[J+3 Dépôt Plainte]** auprès du Commissariat de **[La Ville de l'Accident]** (PV n° [ ... ]), et en l'absence de toute suite connue à ce jour et face au refus persistant des mis en cause de communiquer leurs informations d'assurance, je me vois contraint de saisir votre juridiction pour faire valoir mes droits.
+À la suite du dépôt de ma plainte simple le **[J+4 Dépôt de plainte]** auprès du Commissariat de **[La Ville de l'Accident]** (PV n° [ ... ]), et en l'absence de toute suite connue à ce jour et face au refus persistant des mis en cause de communiquer leurs informations d'assurance, je me vois contraint de saisir votre juridiction pour faire valoir mes droits.
 
 Vous trouverez ci-joint la plainte avec constitution de partie civile formelle détaillant les faits et les fondements juridiques, ainsi qu'un bordereau récapitulant les pièces justificatives que je verse au débat.
 
