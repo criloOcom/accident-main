@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: null
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
 tags:
   - audit
   - correction
@@ -40,7 +40,7 @@ auteur: La Victime
 destinataire: null
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
 tags:
   - audit
   - correction
@@ -57,7 +57,7 @@ Rédigé le **[J+32 Assignation référé]**
 
 ## INTRODUCTION
 
-Le présent mémorandum juridique constitue un audit stratégique et une restructuration de l'arsenal contentieux déployé par **[La Victime]** à l'encontre de **[L'Exploitant du Commerce]** à la suite de l'accident corporel survenu le **[J+0 Accident]**. Ce document analyse l'ensemble des voies de droit ouvertes à la victime, évalue la solidité des fondements juridiques invocables et propose une stratégie contentieuse cohérente et optimisée. Il examine successivement les actions relevant du droit civil, du droit pénal et du droit des assurances, en vue d'assurer la réparation intégrale des préjudices subis.
+Le présent mémorandum juridique constitue un audit stratégique et une restructuration de l'arsenal contentieux déployé par **[La Victime]** à l'encontre de **[L'Exploitant du Commerce (La SAS)]** à la suite de l'accident corporel survenu le **[J+0 Accident]**. Ce document analyse l'ensemble des voies de droit ouvertes à la victime, évalue la solidité des fondements juridiques invocables et propose une stratégie contentieuse cohérente et optimisée. Il examine successivement les actions relevant du droit civil, du droit pénal et du droit des assurances, en vue d'assurer la réparation intégrale des préjudices subis.
 
 ## *Audit stratégique et restructuration de l'arsenal contentieux*
 
@@ -66,7 +66,7 @@ Le présent mémorandum juridique constitue un audit stratégique et une restruc
 
 ## I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 
-Le **[J+0 Accident]**, **[La Victime]** a subi un grave accident corporel au sein du salon exploité par **[L'Exploitant du Commerce]** (l'Exploitant).
+Le **[J+0 Accident]**, **[La Victime]** a subi un grave accident corporel au sein du salon exploité par **[L'Exploitant du Commerce (La SAS)]** (l'Exploitant).
 
 Alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger **[Le Préposé de l'Exploitation]** ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse majeure à sa main dominante.
 

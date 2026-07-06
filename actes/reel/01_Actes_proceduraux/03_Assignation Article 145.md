@@ -6,7 +6,7 @@ categorie: procedure
 auteur: La Victime
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Directrice Générale de l'Exploitation
 - La Victime
 - Le Propriétaire des Murs
@@ -38,7 +38,7 @@ Foix, le 5 juillet 2026
 
 ## INTRODUCTION
 
-La presente assignation en refere est introduite par Sébastien GRAZIDE a l'encontre de la SAS SAS LES MAUVAIS GARCONS (SIREN 938 033 222), sur le fondement de l'Article 145 du Code de procedure civile.
+La presente assignation en refere est introduite par Sébastien GRAZIDE a l'encontre de la SAS SAS LES MAUVAIS GARCONS, prise en la personne de ses dirigeants, Mountasser SABIR et Catherine ANDISSAC, et personnellement contre ces derniers (SIREN 938 033 222), sur le fondement de l'Article 145 du Code de procedure civile.
 
 Elle a pour objet d'obtenir, sous astreinte, la communication de la police d'assurance de responsabilite civile professionnelle souscrite par la societe defendereese, seule mesure permettant a la victime d'exercer son action directe contre l'assureur sur le fondement de l'Article L.124-3 du Code des assurances.
 
@@ -110,6 +110,7 @@ L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu
 
 Vu l'Article 145 du Code de procédure civile,
 Vu l'Article L. 124-3 du Code des assurances,
+Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu les pièces versées aux débats,
 
 Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Judiciaire de Foix, statuant en référé, de :
@@ -125,7 +126,7 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 
 3. **SE RESERVER** la liquidation de l'astreinte ;
 
-4. **CONDAMNER** la SAS SAS LES MAUVAIS GARCONS a payer a Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
+4. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Mountasser SABIR et Catherine ANDISSAC a payer a Sébastien GRAZIDE la somme de 1 500 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
 
 <hr><hr>
 

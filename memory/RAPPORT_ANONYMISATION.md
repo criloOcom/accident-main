@@ -40,7 +40,7 @@ Les fuites identifiées se répartissent en 5 catégories :
 | [00_Index.md](file:///home/crilocom/accident-main/actes/token/05_Organisation/00_Index.md) | 88, 237 | `TAVELLA` | Nom de famille | `l'Adjoint au Maire` ou `l'Adjoint` |
 | [Plan action.md](file:///home/crilocom/accident-main/actes/token/05_Organisation/10_Plan%20action.md) | 70 | `Purpan` | Donnée géographique | `**[La Métropole Régionale]**` |
 | [Plan action.md](file:///home/crilocom/accident-main/actes/token/05_Organisation/10_Plan%20action.md) | 122 | `Purpan` | Donnée géographique | `**[La Métropole Régionale]**` |
-| [ANALYSE_correction_juridique.md](file:///home/crilocom/accident-main/actes/token/06_Archives/ANALYSE_correction_juridique.md) | 69 | `SAS Les Mauvais Garçons` | Personne morale | `**[L'Exploitant du Commerce]**` |
+| [ANALYSE_correction_juridique.md](file:///home/crilocom/accident-main/actes/token/06_Archives/ANALYSE_correction_juridique.md) | 69 | `SAS Les Mauvais Garçons` | Personne morale | `**[L'Exploitant du Commerce (La SAS)]**` |
 | [STRATEGIE_Contentieux_Civil.md](file:///home/crilocom/accident-main/actes/token/06_Archives/STRATEGIE_Contentieux_Civil.md) | 127 | `500 474 457` | Identifiant victime | `**[L'Identifiant Professionnel de la Victime]**` |
 | [STRATEGIE_Contentieux_Penal.md](file:///home/crilocom/accident-main/actes/token/06_Archives/STRATEGIE_Contentieux_Penal.md) | 87 | `btavella@mairie-foix.fr` | Email & nom/ville | `**[L'Email de l'Adjoint au Maire]**` |
 | [ANNEXE C Pieces.md](file:///home/crilocom/accident-main/actes/token/06_Archives/annexes/ANNEXE%20C%20Pieces.md) | 7 | `Pharmacie Foix` | Donnée géographique | `Pharmacie de **[La Ville de l'Accident]**` |

@@ -5,9 +5,9 @@ date: 2026-06-29
 type: acte
 categorie: procedure
 auteur: La Victime
-destinataire: L'Exploitant du Commerce
+destinataire: L'Exploitant du Commerce (La SAS)
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - L'Établissement SOS Main
 - La Victime
 - Le Chirurgien SOS Main
@@ -32,7 +32,7 @@ format: Arial JUSTIFIED
 
 Courriel : **[L'Email de la Victime]**
 
-Direction de **[L'Exploitant du Commerce]**
+Direction de **[L'Exploitant du Commerce (La SAS)]**
 
 **[L'Adresse de l'Exploitation]**
 
@@ -40,13 +40,13 @@ Direction de **[L'Exploitant du Commerce]**
 
 Objet : Déclaration d'accident corporel — Demande d'information assurance RC — L.R.A.R.
 
-Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce]**
+Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce (La SAS)]**
 
 Madame, Monsieur,
 
 ## INTRODUCTION
 
-La présente lettre de mise en demeure est adressée par **[La Victime]** à **[L'Exploitant du Commerce]** afin de déclarer officiellement l'accident corporel survenu le **[J+0 Accident]** dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
+La présente lettre de mise en demeure est adressée par **[La Victime]** à **[L'Exploitant du Commerce (La SAS)]** afin de déclarer officiellement l'accident corporel survenu le **[J+0 Accident]** dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
 
 Ce courrier constitue la première étape amiable préalable à toute action contentieuse, conformément aux usages de la procédure civile.
 

@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: Tribunal Judiciaire
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
 tags:
   - conclusions
   - référé
@@ -31,7 +31,7 @@ format: Arial JUSTIFIED
 
 **CONTRE :**
 
-**[L'Exploitant du Commerce]** (**[L'Exploitant du Commerce]**), Société par Actions Simplifiée, immatriculée au RCS de **[La Ville de l'Accident]** sous le numéro SIRET **[L'Identifiant de l'Exploitation]**, ayant son siège social au **[L'Adresse de l'Exploitation]**, prise en la personne de sa représentante légale en exercice, **[La Directrice Générale de l'Exploitation]**, Directrice Générale.
+**[L'Exploitant du Commerce (La SAS)]** (**[L'Exploitant du Commerce (La SAS)]**), Société par Actions Simplifiée, immatriculée au RCS de **[La Ville de l'Accident]** sous le numéro SIRET **[L'Identifiant de l'Exploitation]**, ayant son siège social au **[L'Adresse de l'Exploitation]**, prise en la personne de sa représentante légale en exercice, **[La Directrice Générale de l'Exploitation]**, Directrice Générale.
 
 *Défendeur*
 
@@ -39,7 +39,7 @@ format: Arial JUSTIFIED
 
 ## I. EXPOSÉ DU LITIGE
 
-Le **[J+0 Accident]**, **[La Victime]** s'est rendu au salon de coiffure exploité par la SAS **[L'Exploitant du Commerce]** pour y bénéficier de prestations capillaires.
+Le **[J+0 Accident]**, **[La Victime]** s'est rendu au salon de coiffure exploité par la SAS **[L'Exploitant du Commerce (La SAS)]** pour y bénéficier de prestations capillaires.
 
 Alors que **[La Victime]** se trouvait au bac à shampoing, **[Le Préposé de l'Exploitation]**, préposé de l'établissement, a entrepris de monter sur la vasque en céramique. En tentant d'en descendre, ce dernier a provoqué le basculement brutal de l'équipement, lequel présentait une cassure préexistante non signalée.
 
@@ -57,13 +57,13 @@ Ces blessures, affectant la main dominante d'un informaticien indépendant, ont 
 
 En application de l'[Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284), le président du Tribunal judiciaire peut, dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, accorder une provision au créancier.
 
-En l'espèce, la matérialité de l'accident et des blessures, constatée par procès-verbal de police et documents médicaux incontestables, rend l'obligation à réparation de la SAS **[L'Exploitant du Commerce]** non sérieusement contestable, caractérisant ainsi l'urgence et le trouble manifestement illicite justifiant la compétence du juge des référés.
+En l'espèce, la matérialité de l'accident et des blessures, constatée par procès-verbal de police et documents médicaux incontestables, rend l'obligation à réparation de la SAS **[L'Exploitant du Commerce (La SAS)]** non sérieusement contestable, caractérisant ainsi l'urgence et le trouble manifestement illicite justifiant la compétence du juge des référés.
 
 ### 2. Sur la responsabilité civile de la SAS
 
 L'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) consacre la responsabilité de plein droit du gardien de la chose instrument du dommage, ainsi que celle des commettants du fait de leurs préposés.
 
-Le basculement de la vasque en céramique, causé par l'intervention fautive du préposé de l'établissement, engage sans conteste la responsabilité civile délictuelle de la SAS **[L'Exploitant du Commerce]**, tenue d'une obligation de sécurité de résultat envers sa clientèle.
+Le basculement de la vasque en céramique, causé par l'intervention fautive du préposé de l'établissement, engage sans conteste la responsabilité civile délictuelle de la SAS **[L'Exploitant du Commerce (La SAS)]**, tenue d'une obligation de sécurité de résultat envers sa clientèle.
 
 ### 3. Sur la faute détachable des dirigeants
 
@@ -85,13 +85,13 @@ Par ces motifs, et ceux qui pourront être suppléés, il est demandé au Prési
 
 - **RECEVOIR** **[La Victime]** en ses demandes et l'y déclarer bien fondé ;
 
-- **CONSTATER** que l'obligation de la SAS **[L'Exploitant du Commerce]** n'est pas sérieusement contestable ;
+- **CONSTATER** que l'obligation de la SAS **[L'Exploitant du Commerce (La SAS)]** n'est pas sérieusement contestable ;
 
 - **ORDONNER** une expertise médicale judiciaire, aux frais avancés de la partie défenderesse, afin d'évaluer l'ensemble des préjudices corporels selon la nomenclature Dintilhac ;
 
-- **CONDAMNER** la SAS **[L'Exploitant du Commerce]** à verser à **[La Victime]** une somme de **5 000 €** à titre de provision ad litem à valoir sur la réparation définitive de ses préjudices ;
+- **CONDAMNER** la SAS **[L'Exploitant du Commerce (La SAS)]** à verser à **[La Victime]** une somme de **5 000 €** à titre de provision ad litem à valoir sur la réparation définitive de ses préjudices ;
 
-- **CONDAMNER** la SAS **[L'Exploitant du Commerce]** à payer à **[La Victime]** la somme de **3 000 €** au titre de l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436), ainsi qu'aux entiers dépens ;
+- **CONDAMNER** la SAS **[L'Exploitant du Commerce (La SAS)]** à payer à **[La Victime]** la somme de **3 000 €** au titre de l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436), ainsi qu'aux entiers dépens ;
 
 - **ORDONNER** l'exécution provisoire de l'ordonnance à intervenir.
 

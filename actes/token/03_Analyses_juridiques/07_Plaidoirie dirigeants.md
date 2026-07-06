@@ -6,7 +6,7 @@ categorie: analyse
 auteur: La Victime
 destinataire: null
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Directrice Générale de l'Exploitation
 - La Victime
 - Le Président de l'Exploitation
@@ -29,7 +29,7 @@ Rédigé par : La Victime
 
 ## INTRODUCTION
 
-Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de **[L'Exploitant du Commerce]** dans le cadre de l'accident corporel survenu le **[J+0 Accident]**.
+Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de **[L'Exploitant du Commerce (La SAS)]** dans le cadre de l'accident corporel survenu le **[J+0 Accident]**.
 
 Ce document examine les fondements juridiques de la mise en cause de la responsabilité des dirigeants sur le terrain du droit des sociétés, notamment sur le fondement des articles [L. 223-22](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141) et [L. 225-251](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) du Code de commerce, ainsi que sur le terrain du droit commun de la responsabilité civile.
 
@@ -54,13 +54,13 @@ Il identifie les manquements aux obligations légales et réglementaires imputab
 
 ## I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 
-Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le **[J+0 Accident]** au sein du salon exploité par **[L'Exploitant du Commerce]**.
+Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le **[J+0 Accident]** au sein du salon exploité par **[L'Exploitant du Commerce (La SAS)]**.
 
 Lors de cet événement, le basculement d'un équipement défectueux a causé une section nerveuse et tendineuse grave à la main dominante de **[La Victime]**.
 
 La situation est complexifiée par le silence des dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, concernant la couverture assurantielle de la structure.
 
-PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, **[La Victime]** est désigné comme « La Victime », **[L'Exploitant du Commerce]** comme « L'Exploitant », et **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** comme « Les Dirigeants ».
+PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, **[La Victime]** est désigné comme « La Victime », **[L'Exploitant du Commerce (La SAS)]** comme « L'Exploitant », et **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** comme « Les Dirigeants ».
 
 
 <hr><hr>

@@ -53,7 +53,7 @@
 6. `applyParagraphStyle` → JUSTIFIED sur tout le document
 
 ## RÈGLES D'ANONYMIZATION
-- Personnes physiques/morales → jetons en bon français avec articles (`**[La Victime]**`, `**[L'Exploitant du Commerce]**`)
+- Personnes physiques/morales → jetons en bon français avec articles (`**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS)]**`)
 - Toute donnée localisante (adresse, ville, email, SIREN, CPAM, PV police) → token descriptif en bon français
 - Pas de `[ ... ]` générique (sauf pour cacher des références procédurales)
 - Pas de civilité devant un token (supprimer "Monsieur/Madame/Dr" avant les tokens)
@@ -66,7 +66,7 @@
 - Ne pas extrapoler l'absence de réponse à un courrier comme une preuve de liquidation
 
 ## SÉPARATION STRICTE TOKENS ↔ CORRESPONDANCE RÉELLE
-- **Tout document de travail** (actes/, analyses, courriers en rédaction) est rédigé exclusivement en tokens anonymes (`**[La Victime]**`, `**[L'Exploitant du Commerce]**`, etc.)
+- **Tout document de travail** (actes/, analyses, courriers en rédaction) est rédigé exclusivement en tokens anonymes (`**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS)]**`, etc.)
 - **Un dossier de correspondance réelle séparé** est créé au moment de l'envoi uniquement, par substitution des tokens → identités réelles
 - **Ne JAMAIS** mélanger tokens et identités réelles dans un même fichier
 - **Ne JAMAIS** créer de document « mixte » — soit 100% tokens, soit 100% réél

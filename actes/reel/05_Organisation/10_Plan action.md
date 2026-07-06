@@ -6,7 +6,7 @@ categorie: organisation
 auteur: La Victime
 destinataire: null
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Victime
 - Le Chirurgien SOS Main
 tags:

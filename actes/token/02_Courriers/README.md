@@ -15,7 +15,7 @@ Chaque courrier a un objectif précis : obtenir des informations, mettre en deme
 
 | # | Document | Destinataire | Objet |
 |---|----------|--------------|-------|
-| **03** | **[Courrier SAS](03_Courrier%20SAS.md)** | `L'Exploitant du Commerce` | Déclaration d'accident corporel + demande coordonnées assureur RC |
+| **03** | **[Courrier SAS](03_Courrier%20SAS.md)** | `L'Exploitant du Commerce (La SAS)` | Déclaration d'accident corporel + demande coordonnées assureur RC |
 | **04** | **[Courrier Assureur](04_Courrier%20Assureur.md)** | Assureur RC de l'exploitation | Action directe sur le fondement de l'**Art. L.124-3** C. assur. |
 | **05** | **[Courrier Propriétaire](05_Courrier%20Proprietaire.md)** | `Le Propriétaire des Murs` | Demande de communication de l'assurance RC du local commercial |
 | **06** | **[Courrier Président DG](06_Courrier%20President%20DG.md)** | `Le Président de l'Exploitation` | Mise en demeure aux dirigeants, fondée sur l'**Arrêt SATI** |

@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: Service des Impôts des Entreprises de **[La Ville de l'Accident]**
 personnes:
 - La Victime
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 tags:
 - SIE
 - impot
@@ -32,7 +32,7 @@ Courriel : **[L'Email de la Victime]**
 
 **[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
 
-Objet : Information de litige en cours — SAS **[L'Exploitant du Commerce]**
+Objet : Information de litige en cours — SAS **[L'Exploitant du Commerce (La SAS)]**
 
 <hr>
 
@@ -41,11 +41,11 @@ Ref : SIREN **[SIREN de l'Exploitation]**
 
 Madame, Monsieur le Responsable,
 
-La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, immatriculee sous le SIREN **[SIREN de l'Exploitation]**.
+La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]**, immatriculee sous le SIREN **[SIREN de l'Exploitation]**.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, et a entraine des lesions graves de la main droite (plaie palmaire avec section du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant) ayant necessite une microchirurgie d'urgence.
 
-Je porte par la presente a votre connaissance l'existence d'un litige en cours engageant la responsabilite civile et penale de la SAS **[L'Exploitant du Commerce]** et de ses dirigeants, pour des montants estimes a **59 600 €** au titre de la reparation integrale de mes prejudices corporels, sans prejudice des procedures en cours devant les juridictions civiles et penales.
+Je porte par la presente a votre connaissance l'existence d'un litige en cours engageant la responsabilite civile et penale de la SAS **[L'Exploitant du Commerce (La SAS)]** et de ses dirigeants, pour des montants estimes a **59 600 €** au titre de la reparation integrale de mes prejudices corporels, sans prejudice des procedures en cours devant les juridictions civiles et penales.
 
 Les procedures suivantes ont ete engagees :
 

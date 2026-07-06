@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: Conseil Departemental de l'Ariege
 personnes:
 - La Victime
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 tags:
 - conseil departemental
 - ERP

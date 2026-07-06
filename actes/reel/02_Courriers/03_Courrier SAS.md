@@ -5,9 +5,9 @@ date: 2026-06-29
 type: acte
 categorie: procedure
 auteur: La Victime
-destinataire: L'Exploitant du Commerce
+destinataire: L'Exploitant du Commerce (La SAS)
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - L'Établissement SOS Main
 - La Victime
 - Le Chirurgien SOS Main

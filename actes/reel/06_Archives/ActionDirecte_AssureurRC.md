@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
 tags:
   - action directe
   - assurance
@@ -32,7 +32,7 @@ auteur: La Victime
 destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
 tags:
   - action directe
   - assurance

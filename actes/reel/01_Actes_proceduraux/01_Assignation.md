@@ -6,9 +6,10 @@ categorie: procedure
 auteur: La Victime
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 personnes:
-- L'Exploitant du Commerce
-- L'Établissement SOS Main
+- L'Exploitant du Commerce (La SAS)
+- Le Président de l'Exploitation
 - La Directrice Générale de l'Exploitation
+- L'Établissement SOS Main
 - La Victime
 - Le Chirurgien SOS Main
 - Le Médecin en Urgence
@@ -31,7 +32,7 @@ Rédigé le 30 juin 2026
 
 ## INTRODUCTION
 
-La présente assignation en référé-provision et demande d'expertise médicale est introduite par Sébastien GRAZIDE à l'encontre de SAS LES MAUVAIS GARCONS, personne morale exploitant un salon de coiffure au sein duquel la victime a subi un grave accident corporel le 29 mai 2026.
+La présente assignation en référé-provision et demande d'expertise médicale est introduite par Sébastien GRAZIDE à l'encontre de SAS LES MAUVAIS GARCONS, personne morale exploitant un salon de coiffure, pris en la personne de ses dirigeants, Mountasser SABIR et Catherine ANDISSAC, et personnellement contre ces derniers, au sein duquel la victime a subi un grave accident corporel le 29 mai 2026. 
 
 Par cet acte, Sébastien GRAZIDE sollicite du président du Tribunal Judiciaire de Foix, statuant en référé, l'allocation d'une provision de 5 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de l'[Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
 
@@ -47,7 +48,11 @@ Sébastien GRAZIDE, né le 18 janvier 1982, de nationalité française, demeuran
 
 CONTRE :
 
-SAS LES MAUVAIS GARCONS, Société par Actions Simplifiée au capital de 200 €, immatriculée au RCS de Foix sous le numéro SIRET 938 033 222 00010, ayant son siège social au 22 Rue Lafaurie, 09000 Foix, prise en la personne de sa représentante légale en exercice, Catherine ANDISSAC, Directrice Générale.
+**1. SAS LES MAUVAIS GARCONS**, Société par Actions Simplifiée au capital de 200 €, immatriculée au RCS de Foix sous le numéro SIRET 938 033 222 00010, ayant son siège social au 22 Rue Lafaurie, 09000 Foix, prise en la personne de ses dirigeants, Mountasser SABIR et Catherine ANDISSAC ;
+
+**2. Mountasser SABIR **, Président de SAS LES MAUVAIS GARCONS, demeurant 108 Avenue Paul Bert, 09000 Foix, pris en sa qualité de dirigeant de droit et personnellement ;
+
+**3. Catherine ANDISSAC **, Directrice Générale de SAS LES MAUVAIS GARCONS, prise en sa qualité de dirigeante de droit et personnellement.
 
 PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCIDENT]**
 
@@ -101,6 +106,14 @@ En l'espèce, le basculement brutal de l'équipement dû à l'escalade du prépo
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
 De surcroît, les faits se sont produits sous le contrôle du préposé de l'établissement (Ayoub BENNOURINE). Par conséquent, la responsabilité délictuelle de SAS LES MAUVAIS GARCONS est engagée sans contestation possible.
+
+**Sur la responsabilité personnelle des dirigeants :**
+
+L'[Article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) dispose que les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. L'[Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) prévoit que les administrateurs et le directeur général sont responsables, individuellement ou solidairement, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion.
+
+Constitue une faute personnelle séparable des fonctions sociales engageant la responsabilité du dirigeant à l'égard des tiers la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales (Cass. com., 20 mai 2003, n°99-17.092, arrêt SATI ; Cass. com., 7 septembre 2022, n°20-20.404). En l'espèce, le défaut d'entretien des locaux et de sécurisation de la vasque céramique présentant une cassure préexistante non signalée, le défaut d'assurance de responsabilité civile professionnelle et le silence systématique opposé aux demandes de la victime caractérisent un manquement intentionnel et d'une particulière gravité, engageant la responsabilité personnelle in solidum de Mountasser SABIR et de Catherine ANDISSAC avec la personne morale.
+
+L'extrême sous-capitalisation de la société (capital social de 200 €), ne lui permettant manifestement pas de faire face à l'indemnisation d'un accident corporel grave, confirme la nécessité de retenir la responsabilité personnelle des dirigeants, seuls garants effectifs de la solvabilité de l'indemnisation.
 
 ### B. Sur la demande d'expertise médicale
 
@@ -170,6 +183,7 @@ Dans l'attente du dépôt du rapport de l'expert judiciaire, Sébastien GRAZIDE 
 
 Vu les articles 145 et 835 du Code de procédure civile,
 Vu les articles 1240 et 1242 du Code civil,
+Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu les pièces versées aux débats,
 
 Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Judiciaire de Foix, statuant en référé, de :
@@ -178,9 +192,9 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 
 2. **DÉSIGNER** tel expert médical qu'il plaira au tribunal avec pour mission habituelle d'évaluer les postes de préjudices corporels conformément à la nomenclature Dintilhac ;
 
-3. **CONDAMNER** SAS LES MAUVAIS GARCONS à verser à Sébastien GRAZIDE la somme de 5 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
+3. **CONDAMNER IN SOLIDUM** SAS LES MAUVAIS GARCONS, Mountasser SABIR et Catherine ANDISSAC à verser à Sébastien GRAZIDE la somme de 5 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
 
-4. **CONDAMNER** SAS LES MAUVAIS GARCONS à payer à Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647394), ainsi qu'aux entiers dépens.
+4. **CONDAMNER IN SOLIDUM** SAS LES MAUVAIS GARCONS, Mountasser SABIR et Catherine ANDISSAC à payer à Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647394), ainsi qu'aux entiers dépens.
 
 <hr><hr>
 

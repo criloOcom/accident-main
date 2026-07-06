@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: FGTI
 personnes:
 - La Victime
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 tags:
 - FGTI
 - garantie
@@ -33,7 +33,7 @@ Courriel : **[L'Email de la Victime]**
 
 **[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
 
-Objet : Information conservatoire — Accident du **[J+0 Accident]** — SAS **[L'Exploitant du Commerce]**
+Objet : Information conservatoire — Accident du **[J+0 Accident]** — SAS **[L'Exploitant du Commerce (La SAS)]**
 
 Ref : SIREN **[SIREN de l'Exploitation]** — Dossier CPAM n° **[N° Dossier CPAM]**
 
@@ -43,7 +43,7 @@ Madame, Monsieur le Directeur,
 
 ## INTRODUCTION
 
-La presente est adressee au FGTI par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, immatriculee sous le SIREN **[SIREN de l'Exploitation]**.
+La presente est adressee au FGTI par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]**, immatriculee sous le SIREN **[SIREN de l'Exploitation]**.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
@@ -97,7 +97,7 @@ Le montant total estime de mon prejudice corporel, selon la nomenclature Dintilh
 
 Je sollicite par la presente une **information conservatoire** aupres du FGTI pour les motifs suivants :
 
-1. La SAS **[L'Exploitant du Commerce]** est une societe au capital de 200 € ne declarant aucun salarie et ne repondant pas aux sollicitations.
+1. La SAS **[L'Exploitant du Commerce (La SAS)]** est une societe au capital de 200 € ne declarant aucun salarie et ne repondant pas aux sollicitations.
 
 2. Aucune information sur l'assurance RC professionnelle de l'etablissement n'a pu etre obtenue.
 

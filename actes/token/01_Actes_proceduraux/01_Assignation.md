@@ -6,9 +6,10 @@ categorie: procedure
 auteur: La Victime
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 personnes:
-- L'Exploitant du Commerce
-- L'Établissement SOS Main
+- L'Exploitant du Commerce (La SAS)
+- Le Président de l'Exploitation
 - La Directrice Générale de l'Exploitation
+- L'Établissement SOS Main
 - La Victime
 - Le Chirurgien SOS Main
 - Le Médecin en Urgence
@@ -31,7 +32,7 @@ Rédigé le **[J+32 Assignation référé]**
 
 ## INTRODUCTION
 
-La présente assignation en référé-provision et demande d'expertise médicale est introduite par **[La Victime]** à l'encontre de **[L'Exploitant du Commerce]**, personne morale exploitant un salon de coiffure au sein duquel la victime a subi un grave accident corporel le **[J+0 Accident]**.
+La présente assignation en référé-provision et demande d'expertise médicale est introduite par **[La Victime]** à l'encontre de **[L'Exploitant du Commerce (La SAS)]**, personne morale exploitant un salon de coiffure, pris en la personne de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, et personnellement contre ces derniers, au sein duquel la victime a subi un grave accident corporel le **[J+0 Accident]**. 
 
 Par cet acte, **[La Victime]** sollicite du président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, l'allocation d'une provision de 5 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de l'[Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
 
@@ -47,7 +48,11 @@ POUR :
 
 CONTRE :
 
-**[L'Exploitant du Commerce]**, Société par Actions Simplifiée au capital de 200 €, immatriculée au RCS de **[La Ville de l'Accident]** sous le numéro SIRET **[L'Identifiant de l'Exploitation]**, ayant son siège social au **[L'Adresse de l'Exploitation]**, prise en la personne de sa représentante légale en exercice, **[La Directrice Générale de l'Exploitation]**, Directrice Générale.
+**1. **[L'Exploitant du Commerce (La SAS)]****, Société par Actions Simplifiée au capital de 200 €, immatriculée au RCS de **[La Ville de l'Accident]** sous le numéro SIRET **[L'Identifiant de l'Exploitation]**, ayant son siège social au **[L'Adresse de l'Exploitation]**, prise en la personne de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** ;
+
+**2. **[Le Président de l'Exploitation]** **, Président de **[L'Exploitant du Commerce (La SAS)]**, demeurant **[L'Adresse du Président]**, pris en sa qualité de dirigeant de droit et personnellement ;
+
+**3. **[La Directrice Générale de l'Exploitation]** **, Directrice Générale de **[L'Exploitant du Commerce (La SAS)]**, prise en sa qualité de dirigeante de droit et personnellement.
 
 PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCIDENT]**
 
@@ -65,7 +70,7 @@ PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCI
 
 ## I. EXPOSÉ DES FAITS
 
-Le **[J+0 Accident]**, **[La Victime]** s'est rendu au salon de coiffure exploité par **[L'Exploitant du Commerce]** pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero (15,00 €) **(Pièce n°1)**.
+Le **[J+0 Accident]**, **[La Victime]** s'est rendu au salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]** pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero (15,00 €) **(Pièce n°1)**.
 
 Alors qu'il se trouvait au bac à shampoing, **[Le Préposé de l'Exploitation]**, qui était monté sur la vasque en céramique, a provoqué le basculement brutal de l'équipement en tentant d'en descendre. Par un réflexe d'assistance pour retenir la chute, **[La Victime]** a tendu sa main droite, qui a heurté une cassure majeure préexistante non signalée sur le flanc de la vasque.
 
@@ -100,7 +105,15 @@ En l'espèce, le basculement brutal de l'équipement dû à l'escalade du prépo
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
-De surcroît, les faits se sont produits sous le contrôle du préposé de l'établissement (**[Le Préposé de l'Exploitation]**). Par conséquent, la responsabilité délictuelle de **[L'Exploitant du Commerce]** est engagée sans contestation possible.
+De surcroît, les faits se sont produits sous le contrôle du préposé de l'établissement (**[Le Préposé de l'Exploitation]**). Par conséquent, la responsabilité délictuelle de **[L'Exploitant du Commerce (La SAS)]** est engagée sans contestation possible.
+
+**Sur la responsabilité personnelle des dirigeants :**
+
+L'[Article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) dispose que les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. L'[Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) prévoit que les administrateurs et le directeur général sont responsables, individuellement ou solidairement, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion.
+
+Constitue une faute personnelle séparable des fonctions sociales engageant la responsabilité du dirigeant à l'égard des tiers la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales (Cass. com., 20 mai 2003, n°99-17.092, arrêt SATI ; Cass. com., 7 septembre 2022, n°20-20.404). En l'espèce, le défaut d'entretien des locaux et de sécurisation de la vasque céramique présentant une cassure préexistante non signalée, le défaut d'assurance de responsabilité civile professionnelle et le silence systématique opposé aux demandes de la victime caractérisent un manquement intentionnel et d'une particulière gravité, engageant la responsabilité personnelle in solidum de **[Le Président de l'Exploitation]** et de **[La Directrice Générale de l'Exploitation]** avec la personne morale.
+
+L'extrême sous-capitalisation de la société (capital social de 200 €), ne lui permettant manifestement pas de faire face à l'indemnisation d'un accident corporel grave, confirme la nécessité de retenir la responsabilité personnelle des dirigeants, seuls garants effectifs de la solvabilité de l'indemnisation.
 
 ### B. Sur la demande d'expertise médicale
 
@@ -116,7 +129,7 @@ L'[Article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.go
 
 > « Dans tous les cas où l'existence de l'obligation n'est pas sérieusement contestable, le président peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »*
 
-L'obligation à réparation de **[L'Exploitant du Commerce]** n'étant pas sérieusement contestable au vu du PV de police et des pièces médicales indiscutables, **[La Victime]** est fondé à réclamer le versement d'une provision financière.
+L'obligation à réparation de **[L'Exploitant du Commerce (La SAS)]** n'étant pas sérieusement contestable au vu du PV de police et des pièces médicales indiscutables, **[La Victime]** est fondé à réclamer le versement d'une provision financière.
 
 ### D. Justification du montant de la provision
 
@@ -170,6 +183,7 @@ Dans l'attente du dépôt du rapport de l'expert judiciaire, **[La Victime]** so
 
 Vu les articles 145 et 835 du Code de procédure civile,
 Vu les articles 1240 et 1242 du Code civil,
+Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu les pièces versées aux débats,
 
 **[La Victime]** demande qu'il plaise à Monsieur le Président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, de :
@@ -178,9 +192,9 @@ Vu les pièces versées aux débats,
 
 2. **DÉSIGNER** tel expert médical qu'il plaira au tribunal avec pour mission habituelle d'évaluer les postes de préjudices corporels conformément à la nomenclature Dintilhac ;
 
-3. **CONDAMNER** **[L'Exploitant du Commerce]** à verser à **[La Victime]** la somme de 5 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
+3. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à verser à **[La Victime]** la somme de 5 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
 
-4. **CONDAMNER** **[L'Exploitant du Commerce]** à payer à **[La Victime]** la somme de 3 000 € sur le fondement de l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647394), ainsi qu'aux entiers dépens.
+4. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à payer à **[La Victime]** la somme de 3 000 € sur le fondement de l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647394), ainsi qu'aux entiers dépens.
 
 <hr><hr>
 

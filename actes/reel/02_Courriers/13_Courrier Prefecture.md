@@ -6,7 +6,7 @@ categorie: procedure
 auteur: La Victime
 destinataire: Prefecture de l'Ariege
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Directrice Generale de l'Exploitation
 - La Victime
 - Le President de l'Exploitation
@@ -22,14 +22,6 @@ source: drive
 drive_id: 1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM
 format: Arial JUSTIFIED
 ---
-
-**Table des matieres**
-
-- [INTRODUCTION](#introduction)
-- [I — RAPPEL DES FAITS](#i--rappel-des-faits)
-- [II — PROCEDURES EN COURS](#ii--procedures-en-cours)
-- [III — SIGNALEMENTS TRANSMIS](#iii--signalements-transmis)
-- [IV — DEMANDE DE CONFIRMATION ET DE SUITE](#iv--demande-de-confirmation-et-de-suite)
 
 # CONFIRMATION OFFICIELLE DE SIGNALEMENT A LA PREFECTURE DE L'ARIEGE
 
@@ -53,13 +45,28 @@ Madame, Monsieur le Prefet,
 
 La presente est adressee a vos services par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS, situe 22 Rue Lafaurie, 09000 Foix a Foix.
 
-Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur. Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main.
+Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
+
+**Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main.**
+
+<hr>
+
+- [I — RAPPEL DES FAITS](#i--rappel-des-faits)
+- [II — PROCEDURES EN COURS](#ii--procedures-en-cours)
+- [III — SIGNALEMENTS TRANSMIS](#iii--signalements-transmis)
+- [IV — DEMANDE DE CONFIRMATION ET DE SUITE](#iv--demande-de-confirmation-et-de-suite)
+
+<hr><hr>
 
 ## I — RAPPEL DES FAITS
 
-Le 29 mai 2026, le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur. L'equipement, instable et presentant une cassure preexistante non signalee, a bascule sous le poids du prepose. Ma main droite, tendue par reflexe, a heurte la cassure preexistante, entrainant des lesions graves ayant necessite une microchirurgie d'urgence.
+Le 29 mai 2026, le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur. L'equipement, instable et presentant une cassure preexistante non signalee, a bascule sous le poids du prepose.
 
-Cet accident revele de multiples manquements aux regles de securite applicables aux etablissements recevant du public (ERP) et au Code du travail.
+Ma main droite, tendue par reflexe, a heurte la cassure preexistante, entrainant des lesions graves ayant necessite une microchirurgie d'urgence.
+
+**Cet accident revele de multiples manquements aux regles de securite applicables aux etablissements recevant du public (ERP) et au Code du travail.**
+
+<hr><hr>
 
 ## II — PROCEDURES EN COURS
 
@@ -73,6 +80,8 @@ Plusieurs procedures ont ete engagees a ce jour :
 6. Demande d'enquete a l'Inspection du Travail (DDETS 09 / DREETS Occitanie)
 7. Saisine du CODAF
 
+<hr><hr>
+
 ## III — SIGNALEMENTS TRANSMIS
 
 Il m'a ete indique par la Mairie de Foix le 1er juin 2026 qu'un signalement avait ete effectue aupres de vos services et du CODAF. Je sollicite par la presente confirmation que ce signalement a bien ete reeu et instruit par vos services, et souhaite etre tenu informe des suites qui lui sont reservees.
@@ -84,6 +93,8 @@ Je porte par ailleurs a votre connaissance les manquements suivants, constates d
 - Absence presumee de DUERP
 - Defaut presumee d'assurance RC professionnelle
 - Travail dissimule presume
+
+<hr><hr>
 
 ## IV — DEMANDE DE CONFIRMATION ET DE SUITE
 

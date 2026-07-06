@@ -8,7 +8,7 @@ format: Arial JUSTIFIED
 
 | Action | Détail | Documents nécessaires | Destinataire | Statut |
 | :--- | :--- | :--- | :--- | :--- |
-| **Relancer les autres clients présents** | Obtenir des attestations CERFA sur le déroulement des faits (basculement de la vasque, intervention de **[La Victime]**). | Modèle d'attestation CERFA (Cerfa n° 11527*03), pièce d'identité | Clients présents dans le salon de **[L'Exploitant du Commerce]** | À faire |
+| **Relancer les autres clients présents** | Obtenir des attestations CERFA sur le déroulement des faits (basculement de la vasque, intervention de **[La Victime]**). | Modèle d'attestation CERFA (Cerfa n° 11527*03), pièce d'identité | Clients présents dans le salon de **[L'Exploitant du Commerce (La SAS)]** | À faire |
 | **Vérifier l'existence de la vidéosurveillance** | S'assurer que les enregistrements du 29 mai 2026 n'ont pas été écrasés et demander leur conservation immédiate. | Mise en demeure de conservation des preuves | **[Le Président de l'Exploitation]** ou **[La Directrice Générale de l'Exploitation]** | À faire |
 
 ## Priorité 2 — Avant l'audience de référé (Date non fixée (à planifier))
@@ -22,7 +22,7 @@ format: Arial JUSTIFIED
 
 | Action | Détail | Documents nécessaires | Destinataire | Statut |
 | :--- | :--- | :--- | :--- | :--- |
-| **Obtenir l'attestation RC Pro** | Obtenir les coordonnées de l'assureur RC Professionnelle de **[L'Exploitant du Commerce]** (actuellement manquantes suite à l'erreur véhicule). | Demande officielle, injonction de communication si référé gagné | **[Le Président de l'Exploitation]** / Assureur RC Pro | En attente |
+| **Obtenir l'attestation RC Pro** | Obtenir les coordonnées de l'assureur RC Professionnelle de **[L'Exploitant du Commerce (La SAS)]** (actuellement manquantes suite à l'erreur véhicule). | Demande officielle, injonction de communication si référé gagné | **[Le Président de l'Exploitation]** / Assureur RC Pro | En attente |
 
 ## Pièces critiques à obtenir
 

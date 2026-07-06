@@ -6,7 +6,7 @@ categorie: penale
 auteur: La Victime
 destinataire: Procureur de la République
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Directrice Générale de l'Exploitation
 - La Victime
 - Le Chirurgien SOS Main
@@ -54,9 +54,9 @@ RÉFÉRENCE : Dossier [ ... ]
 
 ## INTRODUCTION
 
-Le présent complément de plainte pénale est déposé par **[La Victime]** auprès de Monsieur le Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** afin de signaler l'absence d'assurance de responsabilité civile professionnelle de **[L'Exploitant du Commerce]**.
+Le présent complément de plainte pénale est déposé par **[La Victime]** auprès de Monsieur le Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** afin de signaler l'absence d'assurance de responsabilité civile professionnelle de **[L'Exploitant du Commerce (La SAS)]**.
 
-Malgré les demandes amiables répétées, **[L'Exploitant du Commerce]** n'a jamais communiqué d'attestation d'assurance RC Pro, laissant présumer une absence de couverture assurantielle.
+Malgré les demandes amiables répétées, **[L'Exploitant du Commerce (La SAS)]** n'a jamais communiqué d'attestation d'assurance RC Pro, laissant présumer une absence de couverture assurantielle.
 
 Cette carence constitue un obstacle majeur à l'exercice de l'action directe de la victime contre l'assureur ([Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)) et entrave gravement ses droits à indemnisation.
 
@@ -77,13 +77,13 @@ En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en 
 
 ## I. Exposé des Faits
 
-Le **[J+0 Accident]**, alors qu'il se trouvait dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** en qualité de client, **[La Victime]** a été victime d'un accident corporel grave au sein de l'établissement, sise **[L'Adresse de l'Exploitation]**. 
+Le **[J+0 Accident]**, alors qu'il se trouvait dans le salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]** en qualité de client, **[La Victime]** a été victime d'un accident corporel grave au sein de l'établissement, sise **[L'Adresse de l'Exploitation]**. 
 
 Alors que **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger **[Le Préposé de l'Exploitation]** ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
 Ces faits, constitutifs de blessures involontaires au sens de l'[Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643), ont fait l'objet d'une plainte initiale enregistrée sous le numéro [ ... ].
 
-Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce]**. Ni le Président de la SAS, **[Le Président de l'Exploitation]**, ni la co-dirigeante, **[La Directrice Générale de l'Exploitation]**, n'ont déféré aux demandes amiables de **[La Victime]**, ni à celles adressées au propriétaire des murs, **[Le Propriétaire des Murs]**. 
+Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce (La SAS)]**. Ni le Président de la SAS, **[Le Président de l'Exploitation]**, ni la co-dirigeante, **[La Directrice Générale de l'Exploitation]**, n'ont déféré aux demandes amiables de **[La Victime]**, ni à celles adressées au propriétaire des murs, **[Le Propriétaire des Murs]**. 
 
 Ce silence persistant, malgré l'envoi de courriers recommandés le **[J+31 Mises en demeure]**, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
 
@@ -94,7 +94,7 @@ Ce silence persistant, malgré l'envoi de courriers recommandés le **[J+31 Mise
 
 ### A. Sur l'absence d'assurance de responsabilité civile
 
-Malgré les demandes amiables de **[La Victime]**, **[L'Exploitant du Commerce]** n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle. Cette absence de réponse laisse présumer soit une absence de couverture assurantielle, soit une volonté de dissimulation.
+Malgré les demandes amiables de **[La Victime]**, **[L'Exploitant du Commerce (La SAS)]** n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle. Cette absence de réponse laisse présumer soit une absence de couverture assurantielle, soit une volonté de dissimulation.
 
 En l'absence d'assurance, l'indemnisation de la victime au titre de l'action directe prévue à l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) est gravement compromise. Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734), sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625), pourrait alors être saisi pour assurer l'indemnisation de **[La Victime]**.
 
@@ -142,7 +142,7 @@ L'absence de communication de l'assurance bloque toute offre d'indemnisation ami
 
 Par ces motifs, **[La Victime]** sollicite qu'il plaise à Monsieur le Procureur de la République d'ordonner une enquête complémentaire visant à :
 
-1. **VÉRIFIER** l'existence et la validité du contrat d'assurance de responsabilité civile de **[L'Exploitant du Commerce]** au jour du sinistre ;
+1. **VÉRIFIER** l'existence et la validité du contrat d'assurance de responsabilité civile de **[L'Exploitant du Commerce (La SAS)]** au jour du sinistre ;
 
 2. **IDENTIFIER** la compagnie d'assurance concernée par tout moyen d'investigation (Fichier Central des Assurances, ORIAS) ;
 

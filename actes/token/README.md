@@ -7,7 +7,7 @@
 ---
 
 **Ce dossier contient la version de travail de tous les actes.**  
-Les identités réelles (noms, adresses, email, immatriculations) y sont remplacées par des tokens entre crochets et en **gras** : `**[La Victime]**`, `**[L'Exploitant du Commerce]**`, etc.
+Les identités réelles (noms, adresses, email, immatriculations) y sont remplacées par des tokens entre crochets et en **gras** : `**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS)]**`, etc.
 
 ## ✅ Règles
 

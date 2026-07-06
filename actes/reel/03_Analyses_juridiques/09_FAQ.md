@@ -6,7 +6,7 @@ categorie: analyse
 auteur: La Victime
 destinataire: null
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - L'Établissement SOS Main
 - La Directrice Générale de l'Exploitation
 - La Victime

@@ -2,13 +2,13 @@
 
 **Date de l'audit** : 6 Juillet 2026
 **Auteur** : Agent 7 — Dirigeants de la SAS
-**Objet** : Analyse de la responsabilité personnelle civile et pénale de **[Le Président de l'Exploitation]** (Président) et de **[La Directrice Générale de l'Exploitation]** (Directrice Générale), dirigeants de la SAS **[L'Exploitant du Commerce]**, au regard des pièces du dossier (INPI/INSEE, URSSAF, PV de police) et de la jurisprudence (SATI, Costedoat, Cousin).
+**Objet** : Analyse de la responsabilité personnelle civile et pénale de **[Le Président de l'Exploitation]** (Président) et de **[La Directrice Générale de l'Exploitation]** (Directrice Générale), dirigeants de la SAS **[L'Exploitant du Commerce (La SAS)]**, au regard des pièces du dossier (INPI/INSEE, URSSAF, PV de police) et de la jurisprudence (SATI, Costedoat, Cousin).
 
 ---
 
 ## 1. Synthèse de l'Audit
 
-L'analyse des pièces et des éléments factuels du dossier met en évidence des manquements graves et répétés de la part de la direction de la SAS **[L'Exploitant du Commerce]**. L'écran de la personnalité morale de la société, normalement protecteur pour les dirigeants d'une SAS, s'avère particulièrement fragile en l'espèce en raison de la réunion de plusieurs facteurs critiques :
+L'analyse des pièces et des éléments factuels du dossier met en évidence des manquements graves et répétés de la part de la direction de la SAS **[L'Exploitant du Commerce (La SAS)]**. L'écran de la personnalité morale de la société, normalement protecteur pour les dirigeants d'une SAS, s'avère particulièrement fragile en l'espèce en raison de la réunion de plusieurs facteurs critiques :
 
 1. **Une suspicion forte d'absence d'assurance responsabilité civile professionnelle (RC Pro)**, ou du moins une dissimulation active et de mauvaise foi de celle-ci, faisant obstacle aux droits de la victime.
 2. **Une sous-capitalisation caractérisée** de la société (capital social de 200 €), la rendant insolvable pour assumer la réparation d'un préjudice corporel estimé à **59 600 €**.
@@ -35,7 +35,7 @@ L'arrêt SATI dispose expressément :
   * Si l'assurance existe mais est dissimulée volontairement, cette obstruction active et persistante fait obstacle au droit d'action directe de la victime (consacré par l'article L. 124-3 du Code des assurances) et constitue un manquement grave à l'obligation de loyauté, de nature à engager leur responsabilité civile sur le fondement de l'article 1240 du Code civil.
 
 ### 2.3 L'impact de la sous-capitalisation de la SAS
-* **Les faits** : La fiche d'identité INPI et l'Avis de situation INSEE de **[L'Exploitant du Commerce]** révèlent un capital social statutaire de **200 €** (divisé en 2 000 actions de 0,10 €).
+* **Les faits** : La fiche d'identité INPI et l'Avis de situation INSEE de **[L'Exploitant du Commerce (La SAS)]** révèlent un capital social statutaire de **200 €** (divisé en 2 000 actions de 0,10 €).
 * **Qualification juridique** : L'exploitation d'un commerce ouvert au public avec un capital de 200 €, sans couverture d'assurance effective pour garantir les accidents corporels, constitue un choix de gestion d'une particulière gravité. Les dirigeants ont sciemment exposé les tiers (les clients) à un risque de non-indemnisation en cas de sinistre, ce qui caractérise l'incompatibilité avec l'exercice normal des fonctions de direction.
 
 ---

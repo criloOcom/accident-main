@@ -24,7 +24,7 @@ Ce document utilise des jetons pour protéger l'identité des personnes. Voici l
 
 **Personnes morales :**
 
-• **[L'Exploitant du Commerce]** = SAS LES MAUVAIS GARÇONS
+• **[L'Exploitant du Commerce (La SAS)]** = SAS LES MAUVAIS GARÇONS
 
 • **[L'Établissement SOS Main]** = Clinique de l'Union
 

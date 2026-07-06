@@ -32,7 +32,7 @@
 - HEURE_ACCIDENT : 15h00
 - DATE_CHIRURGIE_SOS_MAIN : **30 mai 2026** (samedi — ⚠ JAMAIS 31 ; le 31/05 est la date du COMPTE-RENDU, pas de la chirurgie)
 - LIEU_ACCIDENT : **[L'Adresse de l'Exploitation]**
-- ETABLISSEMENT : **[L'Exploitant du Commerce]**
+- ETABLISSEMENT : **[L'Exploitant du Commerce (La SAS)]**
 - SERVICES_URGENCE : SMUR 09 (Centre Ariégeois de Soins Immédiats)
 - ITT_TOTAL : 56 jours (29/05/2026 → 23/07/2026)
 - ⚠ ITT_INITIALE_ERREUR : **[Le Médecin Généraliste]** a noté 1 jour le 01/06 (erreur matérielle, rectifiée à 56j)
@@ -68,7 +68,19 @@
 ⚠ **Statut de la SAS inconnu (2026-07-03)** : Aucune information disponible sur le statut actuel de la SAS LES MAUVAIS GARÇONS (activité, fermeture, liquidation, radiation). Les courriers recommandés envoyés le 29 juin 2026 sont restés sans réponse ni AR signé. **Ne jamais affirmer un statut juridique (liquidation, dissolution, etc.) sans source vérifiable.**
 
 ## Personnes morales (tokens)
-| Rôle | Jeton |
-|------|-------|
-| Exploitant du commerce | `**[L'Exploitant du Commerce]**` |
-| Établissement SOS Main | `**[L'Établissement SOS Main]**` |
+| Rôle | Jeton | Note |
+|------|-------|------|
+| Exploitant du commerce (la SAS) | `**[L'Exploitant du Commerce (La SAS)]**` | ⚠ Désigne la PERSONNE MORALE SAS, pas ses dirigeants. L'ajout `(La SAS)` prévient toute confusion. Le singulier est correct car une SAS = une entité unique. |
+| Établissement SOS Main | `**[L'Établissement SOS Main]**` | |
+
+## Codéfendeurs — Stratégie de mise en cause plurielle
+⚠ **Capital 200 € — risque majeur d'insolvabilité.** La SAS seule ne pourra probablement pas indemniser. **Les dirigeants (Président + DG) doivent être assignés PERSONNELLEMENT** comme codéfendeurs, in solidum avec la SAS.
+
+| Défendeur | Qualité | Fondement |
+|-----------|---------|-----------|
+| `**[L'Exploitant du Commerce (La SAS)]**` | Personne morale (gardienne de la chose + commettant) | Art. 1240, 1242 C.civ. + L.4121-1 C.trav. |
+| `**[Le Président de l'Exploitation]**` | Dirigeant de droit (L.227-6 C.com.) | L.227-8 + L.225-251 C.com. + 1240 C.civ. (faute séparable) |
+| `**[La Directrice Générale de l'Exploitation]**` | Dirigeante de droit (L.227-6 C.com.) | L.227-8 + L.225-251 C.com. + 1240 C.civ. (faute séparable) |
+
+**Formulation standard à employer partout :**
+> *à l'encontre de **[L'Exploitant du Commerce (La SAS)]**, pris en la personne de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, et personnellement contre ces derniers*

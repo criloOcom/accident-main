@@ -6,7 +6,7 @@ categorie: organisation
 auteur: La Victime
 destinataire: null
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Victime
 - Le Chirurgien SOS Main
 tags:
@@ -26,7 +26,7 @@ Rédigé le **[J+32 Assignation référé]**
 
 ## INTRODUCTION
 
-Le présent plan d'action et chronologie de la procédure a été établi par **[La Victime]** afin de structurer et de piloter l'ensemble des démarches juridiques entreprises à la suite de l'accident corporel du **[J+0 Accident]**. Ce document de travail récapitule les étapes procédurales déjà accomplies, les actions prioritaires à engager et les échéances à respecter dans le cadre du contentieux opposant **[La Victime]** à **[L'Exploitant du Commerce]**. Il constitue un outil de pilotage et de suivi permettant d'assurer la coordination efficace de la stratégie contentieuse et le respect des délais de procédure.
+Le présent plan d'action et chronologie de la procédure a été établi par **[La Victime]** afin de structurer et de piloter l'ensemble des démarches juridiques entreprises à la suite de l'accident corporel du **[J+0 Accident]**. Ce document de travail récapitule les étapes procédurales déjà accomplies, les actions prioritaires à engager et les échéances à respecter dans le cadre du contentieux opposant **[La Victime]** à **[L'Exploitant du Commerce (La SAS)]**. Il constitue un outil de pilotage et de suivi permettant d'assurer la coordination efficace de la stratégie contentieuse et le respect des délais de procédure.
 
 <hr>
 
@@ -49,7 +49,7 @@ Le présent plan d'action et chronologie de la procédure a été établi par **
 
 ## Actions Urgentes et Phase Amiable (Juin 2026)
 
-La première étape consiste en l'envoi de mises en demeure par lettre recommandée avec accusé de réception (LRAR) à **[L'Exploitant du Commerce]** et à ses dirigeants.
+La première étape consiste en l'envoi de mises en demeure par lettre recommandée avec accusé de réception (LRAR) à **[L'Exploitant du Commerce (La SAS)]** et à ses dirigeants.
 
 Ces courriers, expédiés le **[J+31 Mises en demeure]**, visent à obtenir les coordonnées de l'assurance responsabilité civile professionnelle, étape préalable obligatoire avant toute action au fond.
 

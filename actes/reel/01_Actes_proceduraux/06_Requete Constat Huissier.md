@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: Tel huissier de justice territorialement compétent
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
 tags:
   - requête
   - article 145

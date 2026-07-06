@@ -6,7 +6,7 @@ categorie: analyse
 auteur: La Victime
 destinataire: null
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - L'Établissement SOS Main
 - La Directrice Générale de l'Exploitation
 - La Victime
@@ -24,7 +24,7 @@ source: drive
 drive_id: 1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM
 format: Arial JUSTIFIED
 ---
-# Synthèse Juridique et FAQ Affaire **[La Victime]** c/ **[L'Exploitant du Commerce]**
+# Synthèse Juridique et FAQ Affaire **[La Victime]** c/ **[L'Exploitant du Commerce (La SAS)]**
 
 Rédigé par : **[La Victime]**
 
@@ -34,7 +34,7 @@ Rédigé le **[J+32 Assignation référé]**
 
 ## INTRODUCTION
 
-La présente synthèse juridique et FAQ a été rédigée par **[La Victime]** dans le cadre du contentieux l'opposant à **[L'Exploitant du Commerce]** à la suite de l'accident corporel du **[J+0 Accident]**.
+La présente synthèse juridique et FAQ a été rédigée par **[La Victime]** dans le cadre du contentieux l'opposant à **[L'Exploitant du Commerce (La SAS)]** à la suite de l'accident corporel du **[J+0 Accident]**.
 
 Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de l'[Article 1231-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032010123), la responsabilité délictuelle sur le fondement de l'[Article 1240 du même code](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571), ainsi que la garantie des vices cachés prévue à l'[Article 1641 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924).
 
@@ -59,7 +59,7 @@ La présente synthèse répond en outre aux questions pratiques que la victime e
 
 ## I. PRÉSENTATION GÉNÉRALE DE L'AFFAIRE
 
-Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le **[J+0 Accident]** à 15h00 au sein du salon de coiffure exploité par **[L'Exploitant du Commerce]**, situé au **[L'Adresse de l'Exploitation]** à **[La Ville de l'Accident]**.
+Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le **[J+0 Accident]** à 15h00 au sein du salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]**, situé au **[L'Adresse de l'Exploitation]** à **[La Ville de l'Accident]**.
 
 La victime, **[La Victime]**, né le 18/01/1982, exerce la profession d'informaticien indépendant (**[L'Identifiant Professionnel de la Victime]**) à **[La Ville de Résidence de la Victime]**.
 
@@ -105,7 +105,7 @@ Le fait de cacher l'accident à son assureur ou de refuser de communiquer les co
 
 ## III. STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
 
-La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la **[L'Exploitant du Commerce]** est engagée en tant que commettant du fait de son préposé, sur le fondement de l'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
+La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la **[L'Exploitant du Commerce (La SAS)]** est engagée en tant que commettant du fait de son préposé, sur le fondement de l'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
@@ -160,7 +160,7 @@ Néanmoins, l'action directe et la responsabilité personnelle des dirigeants co
 
 *Synthèse établie pour servir et valoir ce que de droit. © **[La Victime]**.*
 
-*Q15 : Que se passe-t-il si **[L'Exploitant du Commerce]** est mise en liquidation ou radiée pendant la procédure ?*
+*Q15 : Que se passe-t-il si **[L'Exploitant du Commerce (La SAS)]** est mise en liquidation ou radiée pendant la procédure ?*
 
 *Réponse : La personnalité morale de la société survit pour les besoins de la liquidation ([Art. L. 237-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063)).
 

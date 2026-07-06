@@ -22,7 +22,7 @@ Ce document consigne l'ensemble des corrections appliquées au fichier `memory/S
 | Ancienne valeur | Nouvelle valeur | Justification |
 | :--- | :--- | :--- |
 | *(Absente)* | `HEURE_ACCIDENT : 15h00` | L'audit transversal signale que tous les documents indiquaient 15h20 au lieu de 15h00 (la vraie valeur de consigne). Il a été acté que 15h00 devait être la référence stricte. |
-| `ETABLISSEMENT : SAS LES MAUVAIS GARCONS` | `ETABLISSEMENT : **[L'Exploitant du Commerce]**` | Anonymisation de la dénomination de l'établissement en accord avec la politique de tokenisation. |
+| `ETABLISSEMENT : SAS LES MAUVAIS GARCONS` | `ETABLISSEMENT : **[L'Exploitant du Commerce (La SAS)]**` | Anonymisation de la dénomination de l'établissement en accord avec la politique de tokenisation. |
 | *(Absente)* | `SERVICES_URGENCE : SMUR 09 (Centre Ariégeois de Soins Immédiats)` | L'audit a identifié un écart sur le nom du service d'intervention d'urgence. Le SMUR 09 doit être inclus comme point de repère. |
 
 ## 3. Modifications liées aux montants financiers

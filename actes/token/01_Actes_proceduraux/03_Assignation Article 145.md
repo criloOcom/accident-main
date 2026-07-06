@@ -6,7 +6,7 @@ categorie: procedure
 auteur: La Victime
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Directrice Générale de l'Exploitation
 - La Victime
 - Le Propriétaire des Murs
@@ -38,7 +38,7 @@ Cabinet du Juge des Referes
 
 ## INTRODUCTION
 
-La presente assignation en refere est introduite par **[La Victime]** a l'encontre de la SAS **[L'Exploitant du Commerce]** (SIREN **[SIREN de l'Exploitation]**), sur le fondement de l'Article 145 du Code de procedure civile.
+La presente assignation en refere est introduite par **[La Victime]** a l'encontre de la SAS **[L'Exploitant du Commerce (La SAS)]**, prise en la personne de ses dirigeants, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]**, et personnellement contre ces derniers (SIREN **[SIREN de l'Exploitation]**), sur le fondement de l'Article 145 du Code de procedure civile.
 
 Elle a pour objet d'obtenir, sous astreinte, la communication de la police d'assurance de responsabilite civile professionnelle souscrite par la societe defendereese, seule mesure permettant a la victime d'exercer son action directe contre l'assureur sur le fondement de l'Article L.124-3 du Code des assurances.
 
@@ -55,15 +55,15 @@ Elle a pour objet d'obtenir, sous astreinte, la communication de la police d'ass
 
 ## I — EXPOSE DES FAITS
 
-Le **[J+0 Accident]**, alors qu'il se trouvait au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]** en qualite de client, **[La Victime]** a ete victime d'un accident corporel grave.
+Le **[J+0 Accident]**, alors qu'il se trouvait au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]** en qualite de client, **[La Victime]** a ete victime d'un accident corporel grave.
 
 Alors que **[Le Prepose de l'Exploitation]** escaladait la vasque en ceramique du bac a shampoing pour acceder au poste de television, l'equipement a bascule. Par reflexe, **[La Victime]** a tendu la main droite pour proteger le prepose ; sa paume a heurte une cassure majeure preexistante non signalee aux aretes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit ayant necessite une microchirurgie d'urgence le **[J+1 Chirurgie]**.
 
-A la suite de cet accident, **[La Victime]** a vainement sollicite de **[L'Exploitant du Commerce]** la communication de l'identite de son assureur de responsabilite civile professionnelle. Ni la societe, ni son President **[Le President de l'Exploitation]**, ni sa Directrice Generale **[La Directrice Generale de l'Exploitation]** n'ont repondu aux courriers recommandes qui leur ont ete adresses le **[J+31 Mises en demeure]** **(Pièces n°7, n°8 et n°9)**.
+A la suite de cet accident, **[La Victime]** a vainement sollicite de **[L'Exploitant du Commerce (La SAS)]** la communication de l'identite de son assureur de responsabilite civile professionnelle. Ni la societe, ni son President **[Le President de l'Exploitation]**, ni sa Directrice Generale **[La Directrice Generale de l'Exploitation]** n'ont repondu aux courriers recommandes qui leur ont ete adresses le **[J+31 Mises en demeure]** **(Pièces n°7, n°8 et n°9)**.
 
 L'accuse de reception du courrier recommande adresse au proprietaire des murs, **[Le Proprietaire des Murs]**, a ete retourne signe le **[J+35 AR propriétaire]**, mais celui-ci n'a pas davantage communique l'information **(Pièce n°10)**.
 
-A ce jour, l'identite de l'assureur RC professionnelle de **[L'Exploitant du Commerce]** demeure inconnue.
+A ce jour, l'identite de l'assureur RC professionnelle de **[L'Exploitant du Commerce (La SAS)]** demeure inconnue.
 
 <hr><hr>
 
@@ -75,7 +75,7 @@ L'article 145 du Code de procedure civile dispose :
 
 > « S'il existe un motif legitime de conserver ou d'etablir avant tout proces la preuve de faits dont pourrait dependre la solution d'un litige, les mesures d'instruction legalement admissibles peuvent etre ordonnees a la demande de tout interesse, sur requete ou en refere. »
 
-En l'espece, le motif legitime est caracterise par l'impossibilite pour **[La Victime]** d'identifier la compagnie d'assurance de **[L'Exploitant du Commerce]**, information strictement necessaire a l'exercice de son action directe et sans laquelle toute voie d'indemnisation amiable ou judiciaire est bloquee.
+En l'espece, le motif legitime est caracterise par l'impossibilite pour **[La Victime]** d'identifier la compagnie d'assurance de **[L'Exploitant du Commerce (La SAS)]**, information strictement necessaire a l'exercice de son action directe et sans laquelle toute voie d'indemnisation amiable ou judiciaire est bloquee.
 
 Le refus persistant de la partie adverse de communiquer cette information constitue un obstacle a l'etablissement de la preuve du contrat d'assurance, dont l'existence et la teneur sont determinantes pour la solution du litige indemnitaire.
 
@@ -89,13 +89,13 @@ L'article L.124-3 du Code des assurances consacre le droit de la victime d'agir 
 
 Ce droit est autonome et ne peut etre paralysé par la carence du responsable a communiquer les coordonnees de son assureur. La Cour de cassation rappelle que l'action directe est recevable meme si la societe responsable a ete dissoute (Cass. Civ. 1ere, 8 decembre 2021, n° 20-16.463).
 
-Neanmoins, en pratique, l'exercice de ce droit suppose de connaitre l'identite de l'assureur. L'obstruction caracterisee de **[L'Exploitant du Commerce]** a la communication de cette information prive **[La Victime]** de son droit d'agir et constitue une entrave a ses droits les plus fondamentaux.
+Neanmoins, en pratique, l'exercice de ce droit suppose de connaitre l'identite de l'assureur. L'obstruction caracterisee de **[L'Exploitant du Commerce (La SAS)]** a la communication de cette information prive **[La Victime]** de son droit d'agir et constitue une entrave a ses droits les plus fondamentaux.
 
 ### C. Sur le refus caracterise et l'astreinte sollicitee
 
 Les demandes amiables de **[La Victime]** sont restees lettres mortes :
 
-- LRAR du **[J+31 Mises en demeure]** a **[L'Exploitant du Commerce]** : aucun AR retourne
+- LRAR du **[J+31 Mises en demeure]** a **[L'Exploitant du Commerce (La SAS)]** : aucun AR retourne
 - LRAR du **[J+31 Mises en demeure]** a **[Le President de l'Exploitation]** : aucun AR retourne
 - LRAR du **[J+31 Mises en demeure]** a **[La Directrice Generale de l'Exploitation]** : aucun AR retourne
 - LRAR du **[J+31 Mises en demeure]** a **[Le Proprietaire des Murs]** : AR retourne signe, mais sans reponse
@@ -110,11 +110,12 @@ L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu
 
 Vu l'Article 145 du Code de procédure civile,
 Vu l'Article L. 124-3 du Code des assurances,
+Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu les pièces versées aux débats,
 
 **[La Victime]** demande qu'il plaise à Monsieur le Président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, de :
 
-1. **ORDONNER** a la SAS **[L'Exploitant du Commerce]** de communiquer a **[La Victime]** l'integralite de sa police d'assurance de responsabilite civile professionnelle en vigueur au **[J+0 Accident]**, ou, a defaut, une attestation de l'assureur mentionnant :
+1. **ORDONNER** a la SAS **[L'Exploitant du Commerce (La SAS)]** de communiquer a **[La Victime]** l'integralite de sa police d'assurance de responsabilite civile professionnelle en vigueur au **[J+0 Accident]**, ou, a defaut, une attestation de l'assureur mentionnant :
 
    - La denomination et l'adresse de la compagnie d'assurance
    - Le numero de police
@@ -125,13 +126,13 @@ Vu les pièces versées aux débats,
 
 3. **SE RESERVER** la liquidation de l'astreinte ;
 
-4. **CONDAMNER** la SAS **[L'Exploitant du Commerce]** a payer a **[La Victime]** la somme de 3 000 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
+4. **CONDAMNER IN SOLIDUM** la SAS **[L'Exploitant du Commerce (La SAS)]**, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a **[La Victime]** la somme de 1 500 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
 
 <hr><hr>
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 
-- **Pièce n°7 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à **[L'Exploitant du Commerce]** (**[J+31 Mises en demeure]**)
+- **Pièce n°7 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à **[L'Exploitant du Commerce (La SAS)]** (**[J+31 Mises en demeure]**)
 - **Pièce n°8 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à **[Le Président de l'Exploitation]** (**[J+31 Mises en demeure]**)
 - **Pièce n°9 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à **[La Directrice Générale de l'Exploitation]** (**[J+31 Mises en demeure]**)
 - **Pièce n°10 :** Lettre Recommandée avec Accusé de Réception (LRAR) adressée à **[Le Propriétaire des Murs]** et son Accusé de Réception signé (**[J+35 AR propriétaire]**)

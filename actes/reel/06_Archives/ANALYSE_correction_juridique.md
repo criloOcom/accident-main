@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: null
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
 tags:
   - audit
   - correction
@@ -40,7 +40,7 @@ auteur: La Victime
 destinataire: null
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
 tags:
   - audit
   - correction

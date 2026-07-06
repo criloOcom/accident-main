@@ -6,7 +6,7 @@ categorie: procedure
 auteur: La Victime
 destinataire: INPI
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Directrice Generale de l'Exploitation
 - La Directrice Générale de l'Exploitation
 - La Victime
@@ -36,15 +36,15 @@ Courriel : **[L'Email de la Victime]**
 
 **[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
 
-Objet : Demande de signalement de litige en cours au RNE — SAS **[L'Exploitant du Commerce]**
+Objet : Demande de signalement de litige en cours au RNE — SAS **[L'Exploitant du Commerce (La SAS)]**
 
-Ref : SIREN **[SIREN de l'Exploitation]** — SAS **[L'Exploitant du Commerce]**
+Ref : SIREN **[SIREN de l'Exploitation]** — SAS **[L'Exploitant du Commerce (La SAS)]**
 
 Madame, Monsieur,
 
 ## INTRODUCTION
 
-La presente est adressee a l'INPI par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, immatriculee au RNE sous le SIREN **[SIREN de l'Exploitation]**.
+La presente est adressee a l'INPI par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]**, immatriculee au RNE sous le SIREN **[SIREN de l'Exploitation]**.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
@@ -73,8 +73,8 @@ Les procedures suivantes ont ete engagees :
 - Constitution de partie civile transmise le **[J+31 Mises en demeure]**
 - Plainte complementaire pour defaut d'assurance RC professionnelle et travail dissimule presume
 
-**2. Mises en demeure LRAR du **[J+31 Mises en demeure]**
-- Mise en demeure a la SAS **[L'Exploitant du Commerce]**
+**2. Mises en demeure LRAR** du **[J+31 Mises en demeure]**
+- Mise en demeure a la SAS **[L'Exploitant du Commerce (La SAS)]**
 - Mise en demeure a **[Le President de l'Exploitation]** et a **[La Directrice Generale de l'Exploitation]**
 - Action directe contre l'assureur RC (Article L.124-3 du Code des assurances)
 
@@ -86,7 +86,7 @@ Les procedures suivantes ont ete engagees :
 
 ## III — DEMANDE DE SIGNALEMENT
 
-Conformement aux dispositions du Code de commerce relatives au Registre National des Entreprises, je sollicite l'inscription d'un signalement au dossier RNE de la SAS **[L'Exploitant du Commerce]** (SIREN **[SIREN de l'Exploitation]**) afin de porter a la connaissance des tiers et de l'administration l'existence du litige en cours.
+Conformement aux dispositions du Code de commerce relatives au Registre National des Entreprises, je sollicite l'inscription d'un signalement au dossier RNE de la SAS **[L'Exploitant du Commerce (La SAS)]** (SIREN **[SIREN de l'Exploitation]**) afin de porter a la connaissance des tiers et de l'administration l'existence du litige en cours.
 
 Cette demande est motivee par la necessite de prevenir toute modification de la situation juridique de la societe (dissolution, liquidation, radiation ou cession) qui pourrait intervenir sans que les autorites et les tiers aient connaissance des creances et actions en justice en cours a l'encontre de la societe. Les montants en jeu sont estimes a **59 600 €** au titre de la reparation integrale des prejudices corporels.
 

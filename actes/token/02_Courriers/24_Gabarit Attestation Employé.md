@@ -34,7 +34,7 @@ Atteste sur l'honneur des faits suivants :
 
 [À compléter : Si le texte suivant correspond à ce que vous avez vu et vécu en tant qu'employé(e) avant et pendant l'accident du **[J+0 Accident]**, vous pouvez le recopier ou vous en inspirer. Sinon, décrivez librement les faits avec vos propres mots.]
 
-"Je travaillais en tant qu'employé(e) dans le salon de coiffure **[L'Exploitant du Commerce]** le **[J+0 Accident]**. Je tiens à préciser qu'avant même l'accident, la vasque en céramique du bac à shampoing présentait déjà une cassure et une fragilité importantes. Nous n'avons reçu aucune consigne de sécurité particulière ni formation spécifique de la part de la direction concernant l'utilisation de cet équipement défectueux.
+"Je travaillais en tant qu'employé(e) dans le salon de coiffure **[L'Exploitant du Commerce (La SAS)]** le **[J+0 Accident]**. Je tiens à préciser qu'avant même l'accident, la vasque en céramique du bac à shampoing présentait déjà une cassure et une fragilité importantes. Nous n'avons reçu aucune consigne de sécurité particulière ni formation spécifique de la part de la direction concernant l'utilisation de cet équipement défectueux.
 Lors de l'accident, j'ai vu mon collègue, **[Le Préposé de l'Exploitation]**, monter sur la vasque, et celle-ci basculer en descendant. Un client, **[La Victime]**, a tenté de le retenir par réflexe et s'est gravement blessé la main droite contre la partie cassée de la vasque. Cet accident s'est produit dans ce contexte de conditions de travail où l'équipement était préalablement endommagé."
 
 Conscient que cette attestation pourra être utilisée en justice et que toute fausse déclaration de ma part m'expose à des sanctions pénales.

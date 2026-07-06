@@ -6,7 +6,7 @@ categorie: procedure
 auteur: La Victime
 destinataire: CODAF de l'Ariege
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Directrice Generale de l'Exploitation
 - La Victime
 - Le President de l'Exploitation

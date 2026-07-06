@@ -6,7 +6,7 @@ categorie: analyse
 auteur: La Victime
 destinataire: null
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Directrice Générale de l'Exploitation
 - La Victime
 - Le Chirurgien SOS Main
@@ -23,13 +23,13 @@ drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 format: Arial JUSTIFIED
 ---
 
-# Analyse des Fondements de la Responsabilité Juridique **[L'Exploitant du Commerce]**
+# Analyse des Fondements de la Responsabilité Juridique **[L'Exploitant du Commerce (La SAS)]**
 
 Rédigé le **[J+32 Assignation référé]**
 
 ## INTRODUCTION
 
-L'analyse approfondie du dossier relatif à l'accident survenu le **[J+0 Accident]** au sein de l'établissement exploité par **[L'Exploitant du Commerce]** — au cours duquel **[La Victime]**, informaticien indépendant, a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes — permet de dégager deux axes de responsabilité majeurs.
+L'analyse approfondie du dossier relatif à l'accident survenu le **[J+0 Accident]** au sein de l'établissement exploité par **[L'Exploitant du Commerce (La SAS)]** — au cours duquel **[La Victime]**, informaticien indépendant, a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes — permet de dégager deux axes de responsabilité majeurs.
 
 - D'une part, la **responsabilité pénale** de la structure et de ses dirigeants pour manquement caractérisé aux obligations de sécurité.
 
@@ -154,7 +154,7 @@ Le juge ordonnera alors la communication forcée de l'attestation d'assurance de
 
 ## CONCLUSION
 
-La responsabilité de **[L'Exploitant du Commerce]** est solidement établie tant sur le plan civil que pénal.
+La responsabilité de **[L'Exploitant du Commerce (La SAS)]** est solidement établie tant sur le plan civil que pénal.
 
 L'étape suivante consiste à :
 

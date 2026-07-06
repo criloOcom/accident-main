@@ -6,7 +6,7 @@ categorie: procedure
 auteur: La Victime
 destinataire: Dirigeants de l'Exploitant du Commerce
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - L'Établissement SOS Main
 - La Directrice Générale de l'Exploitation
 - La Victime
@@ -32,7 +32,7 @@ Courriel : **[L'Email de la Victime]**
 
 **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**
 
-**[L'Exploitant du Commerce]**
+**[L'Exploitant du Commerce (La SAS)]**
 
 **[L'Adresse de l'Exploitation]**
 
@@ -40,13 +40,13 @@ Courriel : **[L'Email de la Victime]**
 
 Objet : Demande d'information et communication d'assurance — Accident **[J+0 Accident]** — L.R.A.R.
 
-Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce]**
+Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce (La SAS)]**
 
 Madame la Directrice Générale, Monsieur le Président,
 
 ## INTRODUCTION
 
-La présente lettre de mise en demeure est adressée conjointement par **[La Victime]** à **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, en leur qualité de dirigeants de **[L'Exploitant du Commerce]**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le **[J+0 Accident]**.
+La présente lettre de mise en demeure est adressée conjointement par **[La Victime]** à **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, en leur qualité de dirigeants de **[L'Exploitant du Commerce (La SAS)]**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le **[J+0 Accident]**.
 
 **Ce courrier constitue une démarche constructive et préalable à toute action contentieuse, conformément aux obligations légales et à la jurisprudence applicable en matière de responsabilité personnelle des dirigeants.**
 
@@ -87,7 +87,7 @@ En application de l'[Article L. 124-3 du Code des assurances](https://www.legifr
 
 Je vous remercie de bien vouloir me communiquer, dans les meilleurs délais, les informations suivantes :
 
-1. Le nom et les coordonnées complètes de la compagnie d'assurance couvrant la responsabilité civile professionnelle de **[L'Exploitant du Commerce]** au titre de la police en vigueur le **[J+0 Accident]** ;
+1. Le nom et les coordonnées complètes de la compagnie d'assurance couvrant la responsabilité civile professionnelle de **[L'Exploitant du Commerce (La SAS)]** au titre de la police en vigueur le **[J+0 Accident]** ;
 
 2. Le numéro de contrat d'assurance souscrit ;
 

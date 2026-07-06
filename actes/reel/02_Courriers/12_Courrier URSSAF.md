@@ -6,7 +6,7 @@ categorie: procedure
 auteur: La Victime
 destinataire: URSSAF Midi-Pyrenees
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Victime
 - Le Préposé de l'Exploitation
 tags:
@@ -57,19 +57,28 @@ Les informations publiques disponibles (INPI, INSEE) indiquent que cette societe
 
 Les elements suivants sont susceptibles de caracteriser un travail dissimule par dissimulation d'emploi salarie (Article L.8221-5 du Code du travail) :
 
-**1. Absence de declaration du prepose**
-- Le prepose de l'exploitation exercait une activite professionnelle de coiffeur au sein de l'etablissement sans qu'aucune information sur son statut (contrat de travail, bulletin de paie, declaration prealable a l'embauche) n'ait pu etre communiquee
-- La SAS SAS LES MAUVAIS GARCONS ne declare aucun salarie selon les informations publiques disponibles
+**1. Absence de declaration du prepose**<br>
+- Le prepose de l'exploitation exercait une activite professionnelle de coiffeur au sein de l'etablissement sans qu'aucune information sur son statut (contrat de travail, bulletin de paie, declaration prealable a l'embauche) n'ait pu etre communiquee<br>
+<br>
+- La SAS SAS LES MAUVAIS GARCONS ne declare aucun salarie selon les informations publiques disponibles<br>
 
-**2. Absence d'affichage obligatoire**
-- L'etablissement ne comportait aucun affichage obligatoire (horaires de travail, consignes de securite, adresse de l'inspection du travail, convention collective applicable)
+<br>
+
+**2. Absence d'affichage obligatoire**<br>
+- L'etablissement ne comportait aucun affichage obligatoire (horaires de travail, consignes de securite, adresse de l'inspection du travail, convention collective applicable)<br>
+<br>
 - L'absence d'affichage est un indicateur frequent de travail non declare
 
-**3. Absence de document unique d'evaluation des risques (DUERP)**
-- Malgre une demande restee sans reponse, aucun DUERP n'a ete communique, alors que ce document est obligatoire dans tout etablissement employant au moins un salarie (Article R.4121-1 du Code du travail)
+<br>
 
-**4. Comportement de l'exploitant**
-- L'exploitant et ses dirigeants n'ont repondu a aucune des sollicitations qui leur ont ete adressees
+**3. Absence de document unique d'evaluation des risques (DUERP)**<br>
+- Malgre une demande restee sans reponse, aucun DUERP n'a ete communique, alors que ce document est obligatoire dans tout etablissement employant au moins un salarie (Article R.4121-1 du Code du travail)<br>
+
+<br>
+
+**4. Comportement de l'exploitant**<br>
+- L'exploitant et ses dirigeants n'ont repondu a aucune des sollicitations qui leur ont ete adressees<br>
+<br>
 - Aucune declaration d'accident du travail n'a ete transmise a la CPAM
 
 <hr><hr>
@@ -78,8 +87,10 @@ Les elements suivants sont susceptibles de caracteriser un travail dissimule par
 
 Je sollicite de vos services qu'une verification soit effectuee concernant :
 
-1. La situation de Ayoub BENNOURINE au regard des declarations sociales (DPAE, bulletin de paie)
-2. Le respect par la SAS SAS LES MAUVAIS GARCONS de ses obligations declaratives
+1. La situation de Ayoub BENNOURINE au regard des declarations sociales (DPAE, bulletin de paie)<br>
+<br>
+2. Le respect par la SAS SAS LES MAUVAIS GARCONS de ses obligations declaratives<br>
+<br>
 3. L'existence d'eventuelles autres irregularites
 
 Conformement a l'Article L.8271-1-2 du Code du travail, les agents de l'URSSAF sont competents pour rechercher et constater les infractions de travail dissimule.

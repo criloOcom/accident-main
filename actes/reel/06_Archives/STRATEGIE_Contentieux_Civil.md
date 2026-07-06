@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: null
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
   - Le Président de l'Exploitation
   - La Directrice Générale de l'Exploitation
 tags:

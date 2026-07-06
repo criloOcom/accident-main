@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: Service des Impôts des Entreprises de Foix
 personnes:
 - La Victime
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 tags:
 - SIE
 - impot

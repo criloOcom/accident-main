@@ -7,7 +7,7 @@ categorie: procedure
 auteur: La Victime
 destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - L'Établissement SOS Main
 - La Victime
 - Le Chirurgien SOS Main

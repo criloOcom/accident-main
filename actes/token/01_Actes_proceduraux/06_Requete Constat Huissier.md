@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: Tel huissier de justice territorialement compétent
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
 tags:
   - requête
   - article 145
@@ -29,13 +29,13 @@ format: Arial JUSTIFIED
 **[La Victime]**
 
 **Partie concernée :**
-**[L'Exploitant du Commerce]**
+**[L'Exploitant du Commerce (La SAS)]**
 
 <hr><hr>
 
 ## 2. EXPOSÉ DES FAITS
 
-Le **[J+0 Accident]**, un accident corporel grave s'est produit dans les locaux de la société **[L'Exploitant du Commerce]**.
+Le **[J+0 Accident]**, un accident corporel grave s'est produit dans les locaux de la société **[L'Exploitant du Commerce (La SAS)]**.
 
 Cet accident a été causé par le basculement d'une vasque défectueuse, ce qui a entraîné la blessure sévère de **[La Victime]**.
 

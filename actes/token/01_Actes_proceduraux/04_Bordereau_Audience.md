@@ -6,7 +6,7 @@ categorie: procedure
 auteur: La Victime
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - L'Établissement SOS Main
 - La Gestionnaire CPAM
 - La Victime
@@ -27,7 +27,7 @@ format: Arial JUSTIFIED
 
 # BORDEREAU DE PIÈCES
 
-| Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : **[La Victime]** | Défendeur : **[L'Exploitant du Commerce]** |
+| Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : **[La Victime]** | Défendeur : **[L'Exploitant du Commerce (La SAS)]** |
 |:---|:---|:---|
 
 ---
@@ -81,7 +81,7 @@ format: Arial JUSTIFIED
 
 ### Pièce n° 10
 
-- **[J+31 Mises en demeure]** — Mise en demeure de la SAS **[L'Exploitant du Commerce]** (LRAR n° **[N° LRAR Exploitant]**) : Demande de communication de l'attestation d'assurance RC Pro et de la somme de 5 000 € à titre de provision. Distribué. Échéance au **[J+46 Échéance amiable]**.
+- **[J+31 Mises en demeure]** — Mise en demeure de la SAS **[L'Exploitant du Commerce (La SAS)]** (LRAR n° **[N° LRAR Exploitant]**) : Demande de communication de l'attestation d'assurance RC Pro et de la somme de 5 000 € à titre de provision. Distribué. Échéance au **[J+46 Échéance amiable]**.
 
 ### Pièce n° 11
 

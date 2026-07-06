@@ -6,7 +6,7 @@ categorie: procedure
 auteur: La Victime
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - L'Établissement SOS Main
 - La Gestionnaire CPAM
 - La Victime
@@ -24,14 +24,14 @@ format: Arial JUSTIFIED
 
 # BORDEREAU DE PIÈCES
 
-| Procédure : Référé Article 145 CPC | Demandeur : **[La Victime]** | Défendeur : **[L'Exploitant du Commerce]** |
+| Procédure : Référé Article 145 CPC | Demandeur : **[La Victime]** | Défendeur : **[L'Exploitant du Commerce (La SAS)]** |
 |:---|:---|:---|
 
 <hr><hr>
 
 ## Pièce n° 1
 
-- **[J+5 Ouverture CPAM]** — Déclaration d'accident (CPAM de Haute-Garonne (Ameli)) : Déclaration de recours contre tiers enregistrée sous le n° 31713398 contre SAS **[L'Exploitant du Commerce]**.
+- **[J+5 Ouverture CPAM]** — Déclaration d'accident (CPAM de Haute-Garonne (Ameli)) : Déclaration de recours contre tiers enregistrée sous le n° 31713398 contre SAS **[L'Exploitant du Commerce (La SAS)]**.
 
 ## Pièce n° 2
 
@@ -98,7 +98,7 @@ format: Arial JUSTIFIED
 
 ## Pièce n° 22
 
-- **Non précisé** — Analyse de sinistre corporel (**[L'Exploitant du Commerce]**) : Accident lié à une vasque en céramique avec cassure préexistante tranchante (index droit impacté). Dossiers CPAM **[N° Dossier CPAM]** / **[N° Dossier CPAM erroné]**.
+- **Non précisé** — Analyse de sinistre corporel (**[L'Exploitant du Commerce (La SAS)]**) : Accident lié à une vasque en céramique avec cassure préexistante tranchante (index droit impacté). Dossiers CPAM **[N° Dossier CPAM]** / **[N° Dossier CPAM erroné]**.
 - **[J+4 Dépôt de plainte]** — Remboursement de prestations (CPAM de Haute-Garonne) : Versement global incluant la part complémentaire pour les soins du **[J+0 Accident]**.
 
 ## Pièce n° 24

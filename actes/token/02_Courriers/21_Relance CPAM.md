@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: CPAM Haute-Garonne
 personnes:
 - La Victime
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 tags:
 - CPAM
 - recours contre tiers
@@ -35,11 +35,11 @@ Objet : Relance et demande d'etat d'avancement — Recours contre tiers n° **[N
 
 <hr>
 
-Ref : Accident du **[J+0 Accident]** — SAS **[L'Exploitant du Commerce]**
+Ref : Accident du **[J+0 Accident]** — SAS **[L'Exploitant du Commerce (La SAS)]**
 
 Madame, Monsieur,
 
-La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, immatriculee sous le SIREN **[SIREN de l'Exploitation]**.
+La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]**, immatriculee sous le SIREN **[SIREN de l'Exploitation]**.
 
 <hr><hr>
 

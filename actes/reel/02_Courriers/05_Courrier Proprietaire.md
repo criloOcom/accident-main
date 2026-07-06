@@ -8,7 +8,7 @@ destinataire: Le Propriétaire des Murs
 personnes:
   - La Victime
   - Le Propriétaire des Murs
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
 tags:
   - mise en demeure
   - bailleur

@@ -32,12 +32,12 @@ REPLACEMENTS = [
     ("500 474 457", "[L'Identifiant Professionnel de la Victime]"),
 
     # --- Salon / Company ---
-    ("La SAS LES MAUVAIS GARCONS", "[L'Exploitant du Commerce]"),
-    ("SAS LES MAUVAIS GARCONS", "[L'Exploitant du Commerce]"),
-    ("SAS LES MAUVAIS GARÇONS", "[L'Exploitant du Commerce]"),
-    ("LES MAUVAIS GARCONS", "[L'Exploitant du Commerce]"),
-    ("LES MAUVAIS GARÇONS", "[L'Exploitant du Commerce]"),
-    ("la SAS LES MAUVAIS GARCONS", "[L'Exploitant du Commerce]"),
+    ("La SAS LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("SAS LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("SAS LES MAUVAIS GARÇONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("LES MAUVAIS GARÇONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("la SAS LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
 
     # --- Company identifier ---
     ("938 033 222 00010", "[L'Identifiant de l'Exploitation]"),

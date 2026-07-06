@@ -6,7 +6,7 @@ categorie: inventaire
 auteur: La Victime
 destinataire: null
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Directrice Générale de l'Exploitation
 - La Victime
 - Le Chirurgien SOS Main
@@ -29,7 +29,7 @@ Rédigé le **[J+32 Assignation référé]** — Mis à jour le **[J+37 Assignat
 
 ## INTRODUCTION
 
-*Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire **[La Victime]** c/ **[L'Exploitant du Commerce]**, à la suite de l'accident corporel grave survenu le **[J+0 Accident]**. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du **[J+32 Assignation référé]** et reflète l'état final de la composition du dossier.*
+*Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire **[La Victime]** c/ **[L'Exploitant du Commerce (La SAS)]**, à la suite de l'accident corporel grave survenu le **[J+0 Accident]**. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du **[J+32 Assignation référé]** et reflète l'état final de la composition du dossier.*
 
 *Structure finale au **[J+0 Accident]***
 
@@ -77,7 +77,7 @@ Partage depuis : **[L'Email de la Victime]**
 
 ## 02 — Courriers
 
-- 2026-06-29 - 03_Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à **[L'Exploitant du Commerce]**.
+- 2026-06-29 - 03_Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à **[L'Exploitant du Commerce (La SAS)]**.
 - 2026-06-29 - 04_Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 

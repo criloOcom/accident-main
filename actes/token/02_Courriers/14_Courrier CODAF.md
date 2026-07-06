@@ -6,7 +6,7 @@ categorie: procedure
 auteur: La Victime
 destinataire: CODAF de l'Ariege
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Directrice Generale de l'Exploitation
 - La Victime
 - Le President de l'Exploitation
@@ -34,7 +34,7 @@ Courriel : **[L'Email de la Victime]**
 
 **[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
 
-Objet : Signalement officiel de manquements et demandes d'enquete — SAS **[L'Exploitant du Commerce]**
+Objet : Signalement officiel de manquements et demandes d'enquete — SAS **[L'Exploitant du Commerce (La SAS)]**
 
 Ref : SIREN **[SIREN de l'Exploitation]** — Signalement Mairie de **[La Ville de l'Accident]** du 1er juin 2026
 
@@ -42,7 +42,7 @@ Madame, Monsieur le President du CODAF,
 
 ## INTRODUCTION
 
-La presente est adressee au CODAF de l'Ariege par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, immatriculee sous le SIREN **[SIREN de l'Exploitation]**.
+La presente est adressee au CODAF de l'Ariege par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]**, immatriculee sous le SIREN **[SIREN de l'Exploitation]**.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
@@ -58,7 +58,7 @@ Sa chute a entraine sur ma main droite une plaie palmaire profonde avec lesions 
 
 ## I — RAPPEL DES FAITS
 
-La SAS **[L'Exploitant du Commerce]** a ete immatriculee le 1er juin 2024 avec un capital de 200 €. Selon les informations publiques disponibles, elle ne declare aucun salarie. Pourtant, le **[J+0 Accident]**, un prepose exerçait une activite de coiffure dans l'etablissement.
+La SAS **[L'Exploitant du Commerce (La SAS)]** a ete immatriculee le 1er juin 2024 avec un capital de 200 €. Selon les informations publiques disponibles, elle ne declare aucun salarie. Pourtant, le **[J+0 Accident]**, un prepose exerçait une activite de coiffure dans l'etablissement.
 
 L'accident est survenu dans les conditions suivantes :
 - Le prepose est monte sur le bac a shampoing pour acceder au poste de television, en l'absence d'escabeau

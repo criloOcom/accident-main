@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: Tribunal Judiciaire
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
 tags:
   - conclusions
   - référé

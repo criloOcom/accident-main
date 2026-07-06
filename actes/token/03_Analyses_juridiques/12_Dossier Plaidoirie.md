@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: Juge des Référés
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
   - Le Président de l'Exploitation
   - La Directrice Générale de l'Exploitation
 tags:
@@ -30,7 +30,7 @@ format: Arial JUSTIFIED
 
 **PARTIES AU LITIGE :**
 - **Demandeur :** **[La Victime]**, informaticien indépendant
-- **Défendeurs :** **[L'Exploitant du Commerce]**, ainsi que ses dirigeants **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**
+- **Défendeurs :** **[L'Exploitant du Commerce (La SAS)]**, ainsi que ses dirigeants **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**
 
 **OBJET DE LA DEMANDE :**
 - Allocation d'une provision ad litem à valoir sur la réparation du préjudice corporel
@@ -56,7 +56,7 @@ format: Arial JUSTIFIED
 
 *Rappel des dates clés démontrant l'urgence et la gravité de la situation.*
 
-- **[J+0 Accident]** :** Date de l'accident au sein de l'établissement **[L'Exploitant du Commerce]**. Le préposé **[Le Préposé de l'Exploitation]** monte sur la vasque du bac à shampoing qui bascule. En tentant de le protéger par réflexe, **[La Victime]** heurte une cassure tranchante préexistante de la vasque. Section des tendons et nerfs de l'index droit.
+- **[J+0 Accident]** :** Date de l'accident au sein de l'établissement **[L'Exploitant du Commerce (La SAS)]**. Le préposé **[Le Préposé de l'Exploitation]** monte sur la vasque du bac à shampoing qui bascule. En tentant de le protéger par réflexe, **[La Victime]** heurte une cassure tranchante préexistante de la vasque. Section des tendons et nerfs de l'index droit.
 - **[J+1 Chirurgie]** :** Intervention en urgence de microchirurgie à la **[L'Établissement SOS Main]** par **[Le Chirurgien SOS Main]**.
 - **1er juin 2026 :** Dépôt de plainte officiel par la victime (Pièce ACQ-09).
 - **[J+31 Mises en demeure]** :** Envoi des Mises en demeure (LRAR) visant à obtenir l'attestation d'assurance de la SAS (Pièce ACQ-17). Silence radio des dirigeants.
@@ -71,7 +71,7 @@ format: Arial JUSTIFIED
 
 Sur le fondement de l'[Article 1242 alinéa 1er du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), le gardien de la chose instrument du dommage est responsable de plein droit.
 - **La vasque = chose instrument du dommage :** Son état de délabrement (cassure préexistante tranchante) et son basculement constituent le rôle actif incontestable dans la réalisation du dommage.
-- **La garde :** **[L'Exploitant du Commerce]** est le propriétaire et l'exploitant du matériel défectueux.
+- **La garde :** **[L'Exploitant du Commerce (La SAS)]** est le propriétaire et l'exploitant du matériel défectueux.
 - **Absence d'exonération :** La réaction réflexe de sauvegarde de **[La Victime]** pour éviter la chute du préposé ne constitue en aucun cas une faute. Il n'y a pas non plus de force majeure invocable.
 
 ### B. Action directe contre l'assureur (Art. L.124-3 C. assur.)
@@ -126,8 +126,8 @@ La présente procédure de référé ne vise pas à solder définitivement le do
 **Q1 : "Pourquoi demandez-vous seulement 5 000 € en provision alors que vous estimez le préjudice à près de 60 000 € ?"**
 **Réponse :** Monsieur le Juge, l'audience de référé vise à allouer une indemnisation provisionnelle d'urgence pour faire face aux premiers frais et à la perte immédiate d'exploitation. L'évaluation définitive du déficit fonctionnel et de l'incidence professionnelle de **[La Victime]** nécessite une consolidation médicale (expertise de novembre), justifiant de limiter la demande immédiate à une somme incontestable.
 
-**Q2 : "Avez-vous l'attestation d'assurance de la société **[L'Exploitant du Commerce]** ?"**
+**Q2 : "Avez-vous l'attestation d'assurance de la société **[L'Exploitant du Commerce (La SAS)]** ?"**
 **Réponse :** Non, Monsieur le Juge. C'est précisément l'une des raisons de notre présence aujourd'hui. Malgré nos lettres recommandées de mise en demeure, les dirigeants font une obstruction manifeste. Nous vous demandons, sur le fondement de l'Article 145 du CPC, de contraindre la partie adverse à fournir ce document sous astreinte financière journalière.
 
 **Q3 : "Le préposé était-il véritablement dans l'exercice de ses fonctions lorsqu'il est monté sur le bac ?"**
-**Réponse :** Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'enceinte de l'établissement pendant ses horaires de travail pour accomplir une tâche au profit de l'exploitation. Il bénéficie donc de l'immunité civile selon la jurisprudence Costedoat, et la responsabilité de **[L'Exploitant du Commerce]** en tant que commettant est pleinement engagée.
+**Réponse :** Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'enceinte de l'établissement pendant ses horaires de travail pour accomplir une tâche au profit de l'exploitation. Il bénéficie donc de l'immunité civile selon la jurisprudence Costedoat, et la responsabilité de **[L'Exploitant du Commerce (La SAS)]** en tant que commettant est pleinement engagée.

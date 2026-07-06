@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: Conseil Juridique
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
 tags:
   - présentation
   - synthèse
@@ -36,7 +36,7 @@ auteur: La Victime
 destinataire: Conseil Juridique
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
 tags:
   - présentation
   - synthèse
@@ -53,7 +53,7 @@ Rédigé le **[J+32 Assignation référé]**
 
 ## INTRODUCTION
 
-Le présent dossier de présentation est destiné au conseil juridique de **[La Victime]** dans le cadre du contentieux l'opposant à **[L'Exploitant du Commerce]** à la suite de l'accident corporel grave survenu le **[J+0 Accident]**.
+Le présent dossier de présentation est destiné au conseil juridique de **[La Victime]** dans le cadre du contentieux l'opposant à **[L'Exploitant du Commerce (La SAS)]** à la suite de l'accident corporel grave survenu le **[J+0 Accident]**.
 
 Ce document rassemble l'ensemble des éléments factuels, administratifs et juridiques nécessaires à la compréhension du litige et à la mise en œuvre de la stratégie de recouvrement.
 
@@ -66,7 +66,7 @@ Il contient une synthèse des faits, l'inventaire des pièces constitutives du d
 
 ## I. STRATÉGIE DE RECOUVREMENT DES HONORAIRES PAR SUBROGATION ET PROTECTION FINANCIÈRE DE LA VICTIME
 
-L'assistance par un avocat est indispensable pour mener à bien la liquidation du préjudice corporel et sécuriser l'indemnisation face à l'assureur de **[L'Exploitant du Commerce]**.
+L'assistance par un avocat est indispensable pour mener à bien la liquidation du préjudice corporel et sécuriser l'indemnisation face à l'assureur de **[L'Exploitant du Commerce (La SAS)]**.
 
 Afin de lever tout obstacle financier pour **[La Victime]**, travailleur indépendant (**[L'Identifiant Professionnel de la Victime]**) actuellement privé de revenus professionnels, plusieurs mécanismes juridiques de subrogation et de remboursement des honoraires sont mobilisés :
 
@@ -85,7 +85,7 @@ Afin de lever tout obstacle financier pour **[La Victime]**, travailleur indépe
 
 ## II. EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE
 
-Le vendredi **[J+0 Accident]**, **[La Victime]** s'est présenté au salon de coiffure « **[L'Exploitant du Commerce]** » à **[La Ville de l'Accident]** (**[L'Adresse de l'Exploitation]**) pour une prestation de coupe de cheveux. Après réalisation de celle-ci, il a payé et quitté le salon vers 15h00.
+Le vendredi **[J+0 Accident]**, **[La Victime]** s'est présenté au salon de coiffure « **[L'Exploitant du Commerce (La SAS)]** » à **[La Ville de l'Accident]** (**[L'Adresse de l'Exploitation]**) pour une prestation de coupe de cheveux. Après réalisation de celle-ci, il a payé et quitté le salon vers 15h00.
 
 Moins de cinq minutes après sa sortie, **[La Victime]** est retourné au salon afin de solliciter une retouche. Il a alors constaté que l'employé (**[Le Préposé de l'Exploitation]**) était monté physiquement sur la vasque en céramique d'un bac à shampoing.
 
@@ -107,7 +107,7 @@ Les examens cliniques constatent une section partielle du tendon fléchisseur, u
 - Pièce 01 - Conclusions de Partie Civile : Récit des faits et fondements juridiques d'obligation ([Article 1242 alinéas 1 et 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ; [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)).
 - Pièce 02 - Rapport d'expertise juridique (Deep Research) : Note théorique sur la faute détachable du dirigeant et l'action directe.
 - Pièce 03 - Étude de l'Indemnisation Maximale : Évaluation chiffrée prospective.
-- Pièce 04 (Courrier 1) - Mise en demeure SAS (**[L'Exploitant du Commerce]**) : Demandant à l'exploitant de déclarer le sinistre.
+- Pièce 04 (Courrier 1) - Mise en demeure SAS (**[L'Exploitant du Commerce (La SAS)]**) : Demandant à l'exploitant de déclarer le sinistre.
 - Pièce 05 (Courrier 2) - Action Directe et Mise en demeure Assureur RC.
 - Pièce 06 (Acte 3) - Assignation en référé provision (Tribunal de **[La Ville de l'Accident]**) : Modèle d'assignation pour provision de 5 000 €.
 - Pièce 08 (Courrier 3) - Demande d'assurance au Propriétaire des murs (**[Le Propriétaire des Murs]**).

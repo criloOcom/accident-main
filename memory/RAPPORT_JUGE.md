@@ -1,5 +1,5 @@
 # RAPPORT DU JUGE DES RÉFÉRÉS
-**Dossier :** [La Victime] c/ [L'Exploitant du Commerce]  
+**Dossier :** [La Victime] c/ [L'Exploitant du Commerce (La SAS)]  
 **Auteur :** Agent 5 — Juge du Tribunal  
 **Date d'évaluation :** 6 juillet 2026  
 
@@ -23,10 +23,10 @@ La provision sollicitée est justifiée par des dépenses et pertes d'ores et d�
 
 ## 2. Absence de Contestation Sérieuse (Art. 835 al. 2 CPC)
 
-L'article 835 alinéa 2 du CPC dispose que le président du tribunal judiciaire peut accorder une provision au créancier dans les cas où l'existence de l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de la société exploitante [L'Exploitant du Commerce] est caractérisée sans équivoque sur plusieurs fondements juridiques cumulatifs.
+L'article 835 alinéa 2 du CPC dispose que le président du tribunal judiciaire peut accorder une provision au créancier dans les cas où l'existence de l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de la société exploitante [L'Exploitant du Commerce (La SAS)] est caractérisée sans équivoque sur plusieurs fondements juridiques cumulatifs.
 
 ### A. Responsabilité du commettant du fait de son préposé (Art. 1242 al. 5 du Code civil)
-Il est établi que le coiffeur [Le Préposé de l'Exploitation], préposé de la société [L'Exploitant du Commerce], est monté physiquement sur la vasque en céramique du bac à shampoing pour régler un téléviseur. En descendant, son poids a provoqué le basculement de l'équipement. 
+Il est établi que le coiffeur [Le Préposé de l'Exploitation], préposé de la société [L'Exploitant du Commerce (La SAS)], est monté physiquement sur la vasque en céramique du bac à shampoing pour régler un téléviseur. En descendant, son poids a provoqué le basculement de l'équipement. 
 La jurisprudence applique une responsabilité de plein droit et automatique au commettant pour les dommages causés par ses préposés dans les fonctions auxquelles ils les ont employés. La faute de la société commettante n'a pas à être recherchée ; le fait dommageable commis par son salarié dans le cadre de son service suffit à engager la responsabilité civile de la société.
 
 ### B. Responsabilité du fait des choses (Art. 1242 al. 1 du Code civil)
@@ -76,7 +76,7 @@ L'examen des pièces versées aux débats confirme une force probante extrêmeme
 
 Au vu de l'ensemble de ces éléments :
 1. La demande de provision de **5 000 €** est déclarée **recevable et bien fondée** au regard du préjudice actuel caractérisé (faisant office de provision *ad litem* et de provision sur pertes de gains et débours de santé).
-2. L'obligation de réparation de la SAS [L'Exploitant du Commerce] n'est entachée d'**aucune contestation sérieuse** (responsabilité du commettant et du gardien de la chose de plein droit).
+2. L'obligation de réparation de la SAS [L'Exploitant du Commerce (La SAS)] n'est entachée d'**aucune contestation sérieuse** (responsabilité du commettant et du gardien de la chose de plein droit).
 3. L'**urgence économique** est caractérisée pour ce travailleur indépendant privé temporairement de sa capacité professionnelle de travail.
 4. Les pièces produites présentent une **force probante suffisante**.
 

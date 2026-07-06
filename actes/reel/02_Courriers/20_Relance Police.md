@@ -6,7 +6,7 @@ categorie: procedure
 auteur: La Victime
 destinataire: Police Nationale de Foix
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Victime
 - Le Préposé de l'Exploitation
 tags:

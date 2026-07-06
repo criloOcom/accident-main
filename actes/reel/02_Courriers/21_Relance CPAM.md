@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: CPAM Haute-Garonne
 personnes:
 - La Victime
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 tags:
 - CPAM
 - recours contre tiers

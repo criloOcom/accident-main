@@ -30,7 +30,7 @@ REVERSE_MAP = {
     "**[Le Medecin Generaliste]**": "Dr Oxybel",
     "**[La Gestionnaire CPAM]**": "Sigrid DESBOIS",
     "**[Nom de l'Avocat de la Victime]**": "Nom Prénom de l'Avocat",
-    "**[L'Exploitant du Commerce]**": "SAS LES MAUVAIS GARCONS",
+    "**[L'Exploitant du Commerce (La SAS)]**": "SAS LES MAUVAIS GARCONS",
     "**[Le Commerce de l'Exploitation]**": "SAS LES MAUVAIS GARCONS",
     "**[L'Établissement SOS Main]**": "Clinique de l'Union",
     "**[L'Etablissement SOS Main]**": "Clinique de l'Union",

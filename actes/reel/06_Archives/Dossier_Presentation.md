@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: Conseil Juridique
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
 tags:
   - présentation
   - synthèse
@@ -36,7 +36,7 @@ auteur: La Victime
 destinataire: Conseil Juridique
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
 tags:
   - présentation
   - synthèse

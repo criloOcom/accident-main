@@ -8,7 +8,7 @@ destinataire: Le Propriétaire des Murs
 personnes:
   - La Victime
   - Le Propriétaire des Murs
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
 tags:
   - mise en demeure
   - bailleur
@@ -34,7 +34,7 @@ Courriel : **[L'Email de la Victime]**
 
 Objet : Demande de communication d'assurance RC — Accident **[J+0 Accident]** — L.R.A.R.
 
-Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce]**
+Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce (La SAS)]**
 
 Monsieur,
 
@@ -58,7 +58,7 @@ L'[Article 1720 du même code](https://www.legifrance.gouv.fr/codes/article_lc/L
 
 <hr>
 
-Je me permets de prendre contact avec vous en votre qualité de propriétaire bailleur des locaux commerciaux situés au **[L'Adresse de l'Exploitation]**, actuellement loués et exploités sous l'enseigne de coiffure **[L'Exploitant du Commerce]**.
+Je me permets de prendre contact avec vous en votre qualité de propriétaire bailleur des locaux commerciaux situés au **[L'Adresse de l'Exploitation]**, actuellement loués et exploités sous l'enseigne de coiffure **[L'Exploitant du Commerce (La SAS)]**.
 
 Le vendredi **[J+0 Accident]** à 15h00, j'ai été victime d'un accident corporel grave au sein de cet établissement, causé par le basculement d'un équipement lourd (bac à shampoing) défectueux et avec cassure préexistante, entraînant une section profonde de 8,5 cm au niveau de ma main droite dominante (section tendineuse et nerveuse de l'index droit opérée en urgence sous anesthésie le **[J+1 Chirurgie]**) avec un pronostic de récupération neurologique évalué à un an minimum par le chirurgien (récupération souvent partielle s'agissant d'une suture nerveuse).
 
@@ -66,11 +66,11 @@ Dans le cadre de la procédure d'indemnisation de ce préjudice corporel et conf
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
-N'ayant pu, en raison de mon arrêt de travail et de mon incapacité à utiliser ma main droite dominante, effectuer plus tôt les démarches nécessaires, je sollicite aujourd'hui votre aide afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce]**.
+N'ayant pu, en raison de mon arrêt de travail et de mon incapacité à utiliser ma main droite dominante, effectuer plus tôt les démarches nécessaires, je sollicite aujourd'hui votre aide afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce (La SAS)]**.
 
-En tant que propriétaire bailleur, vous disposez d'un exemplaire du bail commercial liant votre propriété à **[L'Exploitant du Commerce]**, lequel impose réglementairement à l'exploitant de justifier chaque année de sa couverture d'assurance de responsabilité civile en cours de validité (attestation d'assurance obligatoire).
+En tant que propriétaire bailleur, vous disposez d'un exemplaire du bail commercial liant votre propriété à **[L'Exploitant du Commerce (La SAS)]**, lequel impose réglementairement à l'exploitant de justifier chaque année de sa couverture d'assurance de responsabilité civile en cours de validité (attestation d'assurance obligatoire).
 
-Afin d'éviter toute mise en cause indirecte ou toute procédure de référé d'heure à heure visant à la production forcée de ces pièces, je vous demande de bien vouloir me transmettre par retour de courrier ou par courriel les coordonnées de l'assureur de **[L'Exploitant du Commerce]**, telles qu'elles figurent dans vos dossiers et annexes de gestion du bail commercial.
+Afin d'éviter toute mise en cause indirecte ou toute procédure de référé d'heure à heure visant à la production forcée de ces pièces, je vous demande de bien vouloir me transmettre par retour de courrier ou par courriel les coordonnées de l'assureur de **[L'Exploitant du Commerce (La SAS)]**, telles qu'elles figurent dans vos dossiers et annexes de gestion du bail commercial.
 
 Mes coordonnées pour réponse : **[L'Adresse de la Victime]** / Courriel : **[L'Email de la Victime]**
 

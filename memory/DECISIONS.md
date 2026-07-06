@@ -2,7 +2,7 @@
 
 ## Tokens
 - Utiliser le bon français avec articles : `**[La Victime]**` PAS `**[Victime]**`
-- `**[L'Exploitant du Commerce]**` (pas "Salon" — on ne précise pas la nature du commerce)
+- `**[L'Exploitant du Commerce (La SAS)]**` (pas "Salon" — on ne précise pas la nature du commerce)
 - `**[Le Préposé de l'Exploitation]**` (pas "Coiffeur" — on ne précise pas le métier)
 - Tous les jetons de la table sont corrects et validés
 

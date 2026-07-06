@@ -7,7 +7,7 @@
 ---
 
 **Ce dossier contient les versions réelles de tous les actes.**  
-Les tokens anonymisés (`**[La Victime]**`, `**[L'Exploitant du Commerce]**`) y sont résolus en identités réelles.
+Les tokens anonymisés (`**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS)]**`) y sont résolus en identités réelles.
 
 ## ⚠️ Règle
 

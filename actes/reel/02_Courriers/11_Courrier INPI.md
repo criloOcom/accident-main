@@ -6,7 +6,7 @@ categorie: procedure
 auteur: La Victime
 destinataire: INPI
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Directrice Generale de l'Exploitation
 - La Directrice Générale de l'Exploitation
 - La Victime
@@ -73,7 +73,7 @@ Les procedures suivantes ont ete engagees :
 - Constitution de partie civile transmise le 29 juin 2026
 - Plainte complementaire pour defaut d'assurance RC professionnelle et travail dissimule presume
 
-**2. Mises en demeure LRAR du 29 juin 2026
+**2. Mises en demeure LRAR** du 29 juin 2026
 - Mise en demeure a la SAS SAS LES MAUVAIS GARCONS
 - Mise en demeure a Mountasser SABIR et a Catherine ANDISSAC
 - Action directe contre l'assureur RC (Article L.124-3 du Code des assurances)

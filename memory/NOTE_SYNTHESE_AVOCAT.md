@@ -28,7 +28,7 @@ format: Arial JUSTIFIED
 | Médecin en Urgence | **[Le Médecin en Urgence]** | Dr Julie JARDON |
 | Médecin Généraliste | **[Le Médecin Généraliste]** | Dr OXYBEL |
 | Gestionnaire CPAM | **[La Gestionnaire CPAM]** | Sigrid DESBOIS |
-| Exploitant du commerce | **[L'Exploitant du Commerce]** | SAS LES MAUVAIS GARCONS |
+| Exploitant du commerce | **[L'Exploitant du Commerce (La SAS)]** | SAS LES MAUVAIS GARCONS |
 | Établissement SOS Main | **[L'Établissement SOS Main]** | Clinique de l'Union |
 
 <hr><hr>
@@ -73,7 +73,7 @@ D'après la Matrice des Preuves, le dossier médical et procédural est solide (
 ## 5. Analyse Juridique Détaillée
 
 ### A. Responsabilité civile (Art. 1242 C. civ.)
-- **Garde de la chose :** La SAS **[L'Exploitant du Commerce]** est gardienne de ses équipements (vasque en céramique). Le basculement de la vasque et son état défectueux (cassure préexistante non signalée) engagent la responsabilité de plein droit de l'exploitant (Art. 1242 al. 1).
+- **Garde de la chose :** La SAS **[L'Exploitant du Commerce (La SAS)]** est gardienne de ses équipements (vasque en céramique). Le basculement de la vasque et son état défectueux (cassure préexistante non signalée) engagent la responsabilité de plein droit de l'exploitant (Art. 1242 al. 1).
 - **Obligation de sécurité :** Manquement de l'exploitant à son obligation de sécurité de résultat envers ses clients.
 
 ### B. Action directe assureur (Art. L. 124-3 C. assur.)
@@ -119,7 +119,7 @@ Le montant total estimé des préjudices est de **59 600 €**, réparti comme s
 ### Court terme (Pré-audience du Date non fixée (à planifier))
 - Sécuriser les preuves matérielles (Plan B) : huissier pour constater l'état de la vasque, réquisition de vidéosurveillance.
 - Tenter d'obtenir des témoignages de clients (Attestations Cerfa).
-- Forcer la communication de la police d'assurance RC Pro de **[L'Exploitant du Commerce]** lors de l'audience de référé.
+- Forcer la communication de la police d'assurance RC Pro de **[L'Exploitant du Commerce (La SAS)]** lors de l'audience de référé.
 
 ### Moyen terme (Post-expertise du 12 novembre)
 - Obtenir le certificat médical de consolidation auprès de **[Le Chirurgien SOS Main]**.

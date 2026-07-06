@@ -6,7 +6,7 @@ categorie: penale
 auteur: La Victime
 destinataire: Procureur de la République
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Directrice Générale de l'Exploitation
 - La Victime
 - Le Chirurgien SOS Main

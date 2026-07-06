@@ -7,7 +7,7 @@ auteur: La Victime
 destinataire: null
 personnes:
   - La Victime
-  - L'Exploitant du Commerce
+  - L'Exploitant du Commerce (La SAS)
   - Le Président de l'Exploitation
   - La Directrice Générale de l'Exploitation
 tags:
@@ -44,19 +44,19 @@ Rédigé le **[J+36 Lettre consolidation]**
 
 ## 1. Présentation
 
-Le **[J+0 Accident]**, **[La Victime]**, informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce]** (**[L'Exploitant du Commerce]**, SIRET **[SIRET de l'Exploitation]**), situé **[L'Adresse de l'Exploitation]**.
+Le **[J+0 Accident]**, **[La Victime]**, informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]** (**[L'Exploitant du Commerce (La SAS)]**, SIRET **[SIRET de l'Exploitation]**), situé **[L'Adresse de l'Exploitation]**.
 
 Alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé.
 
 Par réflexe, **[La Victime]** a tendu la main droite — sa main dominante indispensable à son activité professionnelle — pour protéger **[Le Préposé de l'Exploitation]** ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une prise en charge chirurgicale en urgence par le service SOS Main.
 
-Le contentieux pénal a pour objet de faire reconnaître la culpabilité de **[L'Exploitant du Commerce]** et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive, y compris par la saisine du Fonds de Garantie (FGTI) via la CIVI en cas d'insolvabilité de l'auteur.
+Le contentieux pénal a pour objet de faire reconnaître la culpabilité de **[L'Exploitant du Commerce (La SAS)]** et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive, y compris par la saisine du Fonds de Garantie (FGTI) via la CIVI en cas d'insolvabilité de l'auteur.
 
 ## 2. Infractions constituées
 
 ### 2.1 Blessures involontaires
 
-Faits : le **[J+0 Accident]**, **[La Victime]** a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes, au sein de l'établissement exploité par **[L'Exploitant du Commerce]**.
+Faits : le **[J+0 Accident]**, **[La Victime]** a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes, au sein de l'établissement exploité par **[L'Exploitant du Commerce (La SAS)]**.
 
 Ces faits sont constitutifs de blessures involontaires ayant entraîné une incapacité totale de travail (ITT) prévisible inférieure ou égale à trois mois.
 
@@ -66,7 +66,7 @@ L'infraction est prévue et réprimée par l'[[Article 222-20 du Code pénal](ht
 
 ### 2.2 Absence d'assurance responsabilité civile professionnelle
 
-**[L'Exploitant du Commerce]** n'a pas communiqué d'attestation d'assurance de responsabilité civile professionnelle malgré les relances amiables de **[La Victime]**.
+**[L'Exploitant du Commerce (La SAS)]** n'a pas communiqué d'attestation d'assurance de responsabilité civile professionnelle malgré les relances amiables de **[La Victime]**.
 
 Cette absence d'assurance, si elle est confirmée, prive la victime de l'exercice de l'action directe contre l'assureur prévue à l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), et justifie une saisine du [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625), qui prévoit l'indemnisation des victimes d'infractions lorsque l'auteur n'est pas assuré.
 
@@ -108,13 +108,13 @@ La constitution de partie civile peut être réalisée par déclaration au greff
 
 ### 3.3 Complément de plainte pour absence d'assurance
 
-Un complément de plainte a été déposé le **[J+32 Assignation référé]** auprès du Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par **[L'Exploitant du Commerce]**.
+Un complément de plainte a été déposé le **[J+32 Assignation référé]** auprès du Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par **[L'Exploitant du Commerce (La SAS)]**.
 
 Ce complément vise à porter à la connaissance de l'autorité judiciaire cette carence, qui constitue un obstacle à l'indemnisation de la victime et justifie, le cas échéant, la saisine du Fonds de Garantie (FGTI) sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
 ### 3.4 Responsabilité personnelle des dirigeants
 
-Les dirigeants de **[L'Exploitant du Commerce]**, à savoir **[Le Président de l'Exploitation]** (Président) et **[La Directrice Générale de l'Exploitation]** (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales ([Cass. Com., 20 mai 2003, n° 99-17.092, Arrêt SATI](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)), ainsi que sur le fondement de l'[Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928).
+Les dirigeants de **[L'Exploitant du Commerce (La SAS)]**, à savoir **[Le Président de l'Exploitation]** (Président) et **[La Directrice Générale de l'Exploitation]** (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales ([Cass. Com., 20 mai 2003, n° 99-17.092, Arrêt SATI](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)), ainsi que sur le fondement de l'[Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928).
 
 > Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
 > Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
@@ -123,7 +123,7 @@ Le défaut de souscription d'assurance responsabilité civile professionnelle co
 
 ### 3.5 Indemnisation par le FGTI / CIVI
 
-L'absence d'assurance de **[L'Exploitant du Commerce]** et son insolvabilité éventuelle justifient la mise en œuvre de la voie indemnitaire subsidiaire prévue aux [articles 706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625) et suivants du Code de procédure pénale.
+L'absence d'assurance de **[L'Exploitant du Commerce (La SAS)]** et son insolvabilité éventuelle justifient la mise en œuvre de la voie indemnitaire subsidiaire prévue aux [articles 706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625) et suivants du Code de procédure pénale.
 
 Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) indemnise les victimes de dommages corporels résultant d'une infraction pénale lorsque l'auteur n'est pas assuré et que la réparation ne peut être obtenue à un autre titre.
 

@@ -7,7 +7,7 @@ categorie: procedure
 auteur: La Victime
 destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - L'Établissement SOS Main
 - La Victime
 - Le Chirurgien SOS Main
@@ -31,7 +31,7 @@ Courriel : **[L'Email de la Victime]**
 
 Service Sinistres
 
-Compagnie d'Assurance de **[L'Exploitant du Commerce]**
+Compagnie d'Assurance de **[L'Exploitant du Commerce (La SAS)]**
 
 **[Adresse à compléter]**
 
@@ -39,15 +39,15 @@ Compagnie d'Assurance de **[L'Exploitant du Commerce]**
 
 Objet : Mise en demeure — Action directe [Art. L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) — Sinistre corporel **[J+0 Accident]** — L.R.A.R.
 
-Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce]**
+Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce (La SAS)]**
 
 Madame, Monsieur,
 
 ## INTRODUCTION
 
-La présente lettre de mise en demeure est adressée par **[La Victime]** à la compagnie d'assurance de **[L'Exploitant du Commerce]** sur le fondement de l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), lequel institue une action directe de la victime contre l'assureur du responsable.
+La présente lettre de mise en demeure est adressée par **[La Victime]** à la compagnie d'assurance de **[L'Exploitant du Commerce (La SAS)]** sur le fondement de l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), lequel institue une action directe de la victime contre l'assureur du responsable.
 
-Par ce courrier, **[La Victime]** met en demeure l'assureur de prendre en charge le sinistre corporel survenu le **[J+0 Accident]** dans les locaux de **[L'Exploitant du Commerce]** et de procéder au règlement des préjudices subis, dont le montant total estimé s'élève à **59 600 €** selon l'étude d'indemnisation établie conformément à la Nomenclature Dintilhac.
+Par ce courrier, **[La Victime]** met en demeure l'assureur de prendre en charge le sinistre corporel survenu le **[J+0 Accident]** dans les locaux de **[L'Exploitant du Commerce (La SAS)]** et de procéder au règlement des préjudices subis, dont le montant total estimé s'élève à **59 600 €** selon l'étude d'indemnisation établie conformément à la Nomenclature Dintilhac.
 
 Cette action directe permet à la victime de saisir directement l'assureur sans passer par l'intermédiaire de la société responsable, conformément aux dispositions du Code des assurances.
 
@@ -61,7 +61,7 @@ Conformément à l'[Article 145 du Code de procédure civile](https://www.legifr
 
 Ces dispositions sont d'ordre public et s'imposent à toute compagnie d'assurance opérant sur le territoire français.
 
-Je soussigné, **[La Victime]**, victime d'un grave accident corporel survenu le vendredi **[J+0 Accident]** au sein de l'établissement exploité par votre assuré, **[L'Exploitant du Commerce]** (sise au **[L'Adresse de l'Exploitation]**).
+Je soussigné, **[La Victime]**, victime d'un grave accident corporel survenu le vendredi **[J+0 Accident]** au sein de l'établissement exploité par votre assuré, **[L'Exploitant du Commerce (La SAS)]** (sise au **[L'Adresse de l'Exploitation]**).
 
 J'ai subi une plaie palmaire de 8,5 cm de l'index droit (main dominante) ayant sectionné le tendon fléchisseur superficiel et le paquet vasculo-nerveux collatéral ulnaire et radial, après être entré en contact avec la vasque en céramique d'un bac à shampoing avec cassure préexistante aux arêtes coupantes, lors d'un basculement provoqué par la montée de l'employé **[Le Préposé de l'Exploitation]** sur le meuble.
 
@@ -79,7 +79,7 @@ En vertu d'une jurisprudence constante ([Cass. Civ. 1ère, 8 décembre 2021, n°
 
 Je vous mets en demeure par la présente :
 
-1. De procéder à l'ouverture d'un dossier de sinistre corporel et de me confirmer la validité de votre garantie de responsabilité civile professionnelle pour **[L'Exploitant du Commerce]** au **[J+0 Accident]**.
+1. De procéder à l'ouverture d'un dossier de sinistre corporel et de me confirmer la validité de votre garantie de responsabilité civile professionnelle pour **[L'Exploitant du Commerce (La SAS)]** au **[J+0 Accident]**.
 
 2. De désigner sans délai un médecin expert afin de procéder à mon examen, en vue d'évaluer mes préjudices conformément à la Nomenclature Dintilhac.
 

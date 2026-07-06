@@ -6,7 +6,7 @@ categorie: procedure
 auteur: La Victime
 destinataire: Police Nationale de **[La Ville de l'Accident]**
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Victime
 - Le Préposé de l'Exploitation
 tags:
@@ -41,7 +41,7 @@ Ref : Depot de plainte du 1er juin 2026 — Constitution de partie civile du **[
 
 Madame, Monsieur l'Officier de Police Judiciaire,
 
-La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce]**, situe **[Adresse du Commerce]** a **[La Ville de l'Accident]**.
+La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]**, situe **[Adresse du Commerce]** a **[La Ville de l'Accident]**.
 
 <hr><hr>
 

@@ -6,7 +6,7 @@ categorie: procedure
 auteur: La Victime
 destinataire: DDETS de la Region
 personnes:
-- L'Exploitant du Commerce
+- L'Exploitant du Commerce (La SAS)
 - La Victime
 - Le Préposé de l'Exploitation
 tags:
@@ -54,31 +54,33 @@ Suite a cet accident, Monsieur **[L'Adjoint au Maire de la Commune]**, Adjoint a
 
 Je sollicite aujourd'hui vos services pour les motifs suivants :
 
-**1. Information sur l'etat d'avancement de l'enquete**
+### 1. Information sur l'etat d'avancement de l'enquete
 
 En qualite de victime directe de l'accident, je souhaiterais etre informe de l'etat d'avancement de votre enquete et, le cas echeant, de ses conclusions.
 
-**2. Communication du rapport d'inspection**
+### 2. Communication du rapport d'inspection
 
 L'article L. 311-1 du Code des relations entre le public et l'administration me reconnait un droit de communication des documents administratifs.
 
 Je sollicite donc la transmission du rapport d'inspection, sous les reserves legales applicables (secret de l'enquete en cours le cas echeant).
 
-**3. Verification des elements de securite suivants**
+### 3. Verification des elements de securite suivants
 
 Je me permets de porter a votre attention les elements suivants, susceptibles de constituer des manquements a la reglementation du travail :
 
-- **Equipement defectueux** : le bac a shampoing en ceramique, instable et presentant une cassure preexistante non signalee, constituait un equipement de travail dangereux (Article L. 4321-1 du Code du travail — obligation de conformite des equipements)
+- **Equipement defectueux** : <br> Le bac a shampoing en ceramique, instable et presentant une cassure preexistante non signalee, constituait un equipement de travail dangereux (Article L. 4321-1 du Code du travail — obligation de conformite des equipements)
 
-- **Absence presumee de DUERP** : a ce jour, aucun Document Unique d'Evaluation des Risques Professionnels ne m'a ete communique par l'exploitant, malgre une mise en demeure en LRAR du **[J+31 Mises en demeure]** restee sans reponse
+- **Absence presumee de DUERP** : <br> A ce jour, aucun Document Unique d'Evaluation des Risques Professionnels ne m'a ete communique par l'exploitant, malgre une mise en demeure en LRAR du **[J+31 Mises en demeure]** restee sans reponse
 
-- **Defaut presumee d'assurance RC Professionnelle** : l'exploitant ne m'a pas communique l'identite de son assureur RC, en violation de l'obligation d'affichage prevue a l'Article L. 310-1-1-2 du Code des assurances modifie par la loi n° 2024-364 du 22 avril 2024
+- **Defaut presumee d'assurance RC Professionnelle** : <br>L'exploitant ne m'a pas communique l'identite de son assureur RC, en violation de l'obligation d'affichage prevue a l'Article L. 310-1-1-2 du Code des assurances modifie par la loi n° 2024-364 du 22 avril 2024
 
-- **Absence d'equipement d'acces en hauteur** : le prepose a du monter sur le bac a shampoing pour acceder au poste de television, en l'absence de tout equipement de travail adapte (escabeau, marchepied) mis a disposition par l'employeur. Cette situation meconnait l'obligation de securite de l'employeur (Article L. 4121-1 du Code du travail) et les regles relatives aux travaux en hauteur (Articles R. 4323-58 et suivants du Code du travail), l'employeur devant fournir un plan de travail ou un equipement d'acces approprie permettant l'intervention en securite
+- **Absence d'equipement d'acces en hauteur** : <br>Le prepose a du monter sur le bac a shampoing pour acceder au poste de television, en l'absence de tout equipement de travail adapte (escabeau, marchepied) mis a disposition par l'employeur.
 
-- **Travail dissimule presume** : possibilité que le prepose ne soit pas declare (a verifier par vos services)
+  Cette situation meconnait l'obligation de securite de l'employeur (Article L. 4121-1 du Code du travail) et les regles relatives aux travaux en hauteur (Articles R. 4323-58 et suivants du Code du travail), l'employeur devant fournir un plan de travail ou un equipement d'acces approprie permettant l'intervention en securite
 
-**4. Transmission au Parquet**
+- **Travail dissimule presume** : <br>Possibilité que le prepose ne soit pas declare (a verifier par vos services)
+
+### 4. Transmission au Parquet
 
 Si les faits constates sont constitutifs d'infractions penales, je vous remercie par avance de bien vouloir transmettre votre rapport au Procureur de la Republique pres le Tribunal Judiciaire de **[La Ville de l'Accident]** conformement a l'Article 40 du Code de procedure penale.
 

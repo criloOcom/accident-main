@@ -71,7 +71,7 @@ Le **[J+32 Assignation référé]**
 
 Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de **[La Victime]** (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi **[J+0 Accident]** à 15h00.
 
-L'incident s'est produit au sein de l'établissement « **[L'Exploitant du Commerce]** » (ci-après désigné "L'Exploitant"), exploité par une SAS dont la direction est assurée par **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**.
+L'incident s'est produit au sein de l'établissement « **[L'Exploitant du Commerce (La SAS)]** » (ci-après désigné "L'Exploitant"), exploité par une SAS dont la direction est assurée par **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**.
 
 Cette analyse s'appuie sur le principe de la réparation intégrale, visant à rétablir **[La Victime]** dans la situation qui aurait été la sienne sans la survenance du dommage, conformément à l'[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571).
 
@@ -84,7 +84,7 @@ L'accident trouve son origine dans la manœuvre imprudente d'un employé prépos
 
 En tentant instinctivement de retenir le meuble pour éviter une chute plus grave, la main droite de **[La Victime]** a percuté une vasque en céramique avec cassure préexistante. Les arêtes tranchantes de la vasque ont causé des lésions profondes.
 
-Il est à noter que l'établissement a procédé à un remboursement symbolique de 15 €, ce qui constitue un aveu implicite de l'anormalité de la chose et de la faute du préposé sous la garde de **[L'Exploitant du Commerce]**, conformément à l'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000).
+Il est à noter que l'établissement a procédé à un remboursement symbolique de 15 €, ce qui constitue un aveu implicite de l'anormalité de la chose et de la faute du préposé sous la garde de **[L'Exploitant du Commerce (La SAS)]**, conformément à l'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000).
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
@@ -108,7 +108,7 @@ Pour un informaticien indépendant dont la main droite est la main dominante, ce
 
 ### A. Action directe contre l'assureur et survie de la personnalité morale
 
-La stratégie privilégie l'exercice de l'action directe contre L'Assureur de responsabilité civile de **[L'Exploitant du Commerce]**, telle que prévue par l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
+La stratégie privilégie l'exercice de l'action directe contre L'Assureur de responsabilité civile de **[L'Exploitant du Commerce (La SAS)]**, telle que prévue par l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
@@ -131,11 +131,11 @@ Conformément à [l'arrêt Costedoat (Ass. Plén. 25 fév. 2000)](https://www.le
 > Attendu : « N'engage pas sa responsabilité civile à l'égard des tiers le préposé qui agit dans les limites de la mission à lui impartie par son commettant. »
 > Résumé : Le salarié agissant dans le cadre de ses fonctions professionnelles bénéficie d'une immunité civile de principe. Seul l'employeur (commettant) est responsable des dommages causés aux tiers.
 
-Toutefois, s'agissant de blessures involontaires ([Art. 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)), l'action se concentrera sur **[L'Exploitant du Commerce]** et ses Dirigeants, l'infraction non intentionnelle n'excluant pas l'immunité du préposé selon la jurisprudence récente (Cass. Crim., 27 mai 2014, n° 13-80.849).
+Toutefois, s'agissant de blessures involontaires ([Art. 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)), l'action se concentrera sur **[L'Exploitant du Commerce (La SAS)]** et ses Dirigeants, l'infraction non intentionnelle n'excluant pas l'immunité du préposé selon la jurisprudence récente (Cass. Crim., 27 mai 2014, n° 13-80.849).
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
-De plus, les statuts de **[L'Exploitant du Commerce]** révèlent un capital social dérisoire de 200 € (divisé en 2 000 actions de 0,10 € détenues par Le Président), confirmant une sous-capitalisation notoire face aux risques d'un tel établissement recevant du public.
+De plus, les statuts de **[L'Exploitant du Commerce (La SAS)]** révèlent un capital social dérisoire de 200 € (divisé en 2 000 actions de 0,10 € détenues par Le Président), confirmant une sous-capitalisation notoire face aux risques d'un tel établissement recevant du public.
 
 Cette absence de substance financière de la société face à une éventuelle liquidation rend indispensable la mise en cause personnelle du patrimoine des Dirigeants pour garantir l'effectivité de l'indemnisation.
 
