@@ -92,7 +92,7 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du *
 
 ### A. Sur le principe de la responsabilité civile délictuelle
 
-L'[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051787311) dispose :
+L'[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) dispose :
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »*
 
@@ -112,7 +112,7 @@ L'état corporel de **[La Victime]** n'étant pas consolidé à ce jour, il est 
 
 ### C. Sur l'octroi d'une provision financière
 
-L'[Article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869487) énonce :
+L'[Article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) énonce :
 
 > « Dans tous les cas où l'existence de l'obligation n'est pas sérieusement contestable, le président peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »*
 
