@@ -53,7 +53,7 @@ La présente synthèse répond en outre aux questions pratiques que la victime e
 
 ## I. PRÉSENTATION GÉNÉRALE DE L'AFFAIRE
 
-Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le 29 mai 2026 à 15h20 au sein du salon de coiffure exploité par **[L'Exploitant du Commerce]**, situé au **[L'Adresse de l'Exploitation]** à **[La Ville de l'Accident]**.
+Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le 29 mai 2026 à 15h00 au sein du salon de coiffure exploité par **[L'Exploitant du Commerce]**, situé au **[L'Adresse de l'Exploitation]** à **[La Ville de l'Accident]**.
 
 La victime, **[La Victime]**, né le 18/01/1982, exerce la profession d'informaticien indépendant (**[L'Identifiant Professionnel de la Victime]**) à **[La Ville de Résidence de la Victime]**.
 

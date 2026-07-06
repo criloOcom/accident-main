@@ -85,7 +85,7 @@ Afin de lever tout obstacle financier pour **[La Victime]**, travailleur indépe
 
 ## II. EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE
 
-Le vendredi 29 mai 2026, **[La Victime]** s'est présenté au salon de coiffure « **[L'Exploitant du Commerce]** » à **[La Ville de l'Accident]** (**[L'Adresse de l'Exploitation]**) pour une prestation de coupe de cheveux. Après réalisation de celle-ci, il a payé et quitté le salon vers 15h20.
+Le vendredi 29 mai 2026, **[La Victime]** s'est présenté au salon de coiffure « **[L'Exploitant du Commerce]** » à **[La Ville de l'Accident]** (**[L'Adresse de l'Exploitation]**) pour une prestation de coupe de cheveux. Après réalisation de celle-ci, il a payé et quitté le salon vers 15h00.
 
 Moins de cinq minutes après sa sortie, **[La Victime]** est retourné au salon afin de solliciter une retouche. Il a alors constaté que l'employé (**[Le Préposé de l'Exploitation]**) était monté physiquement sur la vasque en céramique d'un bac à shampoing.
 

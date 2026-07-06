@@ -81,7 +81,7 @@ Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SA
 
 ### B. Responsabilité pénale et faute caractérisée de sécurité
 
-Ce manquement à l'obligation de sécurité est également codifié à [l'article R. 143-2 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818941) (REF-35), la vasque brisée faisant partie intégrante des installations d'accueil de l'ERP.
+Ce manquement à l'obligation de sécurité est également codifié à [l'article R. 143-2 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818941) (REF-35), la vasque avec cassure préexistante faisant partie intégrante des installations d'accueil de l'ERP.
 
 > « Dans les établissements soumis aux prescriptions du présent chapitre, les propriétaires, directeurs ou exploitants sont tenus, tant au moment de la construction qu'au cours de l'exploitation, de respecter les mesures de prévention et de sauvegarde propres à assurer la sécurité des personnes contre les risques d'incendie et de panique. »
 

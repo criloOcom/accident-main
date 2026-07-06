@@ -58,7 +58,7 @@ Rappel des obligations légales
 
 Ces dispositions sont d'ordre public : elles s'imposent à la société et à ses dirigeants.
 
-Je me permets de vous adresser ce courrier afin de vous informer officiellement de l'accident corporel dont j'ai été victime au sein de votre établissement le vendredi 29 mai 2026 à 15h20.
+Je me permets de vous adresser ce courrier afin de vous informer officiellement de l'accident corporel dont j'ai été victime au sein de votre établissement le vendredi 29 mai 2026 à 15h00.
 
 Lors de ma venue, et alors que je sollicitais une retouche de coupe de cheveux, le basculement accidentel d'un bac à shampoing a provoqué une coupure profonde de 8,5 cm au niveau de ma main droite (index droit) ayant sectionné le tendon fléchisseur superficiel ainsi que le paquet vasculo-nerveux collatéral ulnaire et radial, nécessitant mon transfert en urgence et une intervention de microchirurgie (suture tendineuse 6 brins, suture microchirurgicale des nerfs et vaisseaux à l'éthilon 9-0, neurolyse d'urgence) le 30 mai 2026 par **[Le Chirurgien SOS Main]** au service SOS Main de **[L'Établissement SOS Main]**.
 

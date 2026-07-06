@@ -69,7 +69,7 @@ Le 30 juin 2026
 
 ## I. Introduction et contexte
 
-Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de **[La Victime]** (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi 29 mai 2026 à 15h20.
+Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de **[La Victime]** (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi 29 mai 2026 à 15h00.
 
 L'incident s'est produit au sein de l'établissement « **[L'Exploitant du Commerce]** » (ci-après désigné "L'Exploitant"), exploité par une SAS dont la direction est assurée par **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**.
 
@@ -82,7 +82,7 @@ Cette analyse s'appuie sur le principe de la réparation intégrale, visant à r
 
 L'accident trouve son origine dans la manœuvre imprudente d'un employé préposé monté sur un bac à shampoing, entraînant le basculement soudain de cet équipement lourd.
 
-En tentant instinctivement de retenir le meuble pour éviter une chute plus grave, la main droite de **[La Victime]** a percuté une vasque en céramique brisée. Les arêtes tranchantes de la vasque ont causé des lésions profondes.
+En tentant instinctivement de retenir le meuble pour éviter une chute plus grave, la main droite de **[La Victime]** a percuté une vasque en céramique avec cassure préexistante. Les arêtes tranchantes de la vasque ont causé des lésions profondes.
 
 Il est à noter que l'établissement a procédé à un remboursement symbolique de 15 €, ce qui constitue un aveu implicite de l'anormalité de la chose et de la faute du préposé sous la garde de **[L'Exploitant du Commerce]**, conformément à [l'article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000).
 
@@ -93,7 +93,7 @@ Il est à noter que l'établissement a procédé à un remboursement symbolique 
 
 ## III. Bilan médical et préjudices identifiés
 
-Après une prise en charge initiale par **[Le Médecin en Urgence]** au Centre de Soins Immédiats, **[La Victime]** a été transférée en urgence clinique pour une microchirurgie réalisée le 30 mai 2026 par Le Chirurgien SOS Main.
+Après une prise en charge initiale par **[Le Médecin en Urgence]** au SMUR 09, **[La Victime]** a été transférée en urgence clinique pour une microchirurgie réalisée le 30 mai 2026 par Le Chirurgien SOS Main.
 
 Le bilan clinique révèle une section partielle du tendon fléchisseur superficiel de l'index droit, une section complète du paquet collatéral ulnaire et radial, ainsi qu'une neurolyse du nerf collatéral palmaire.
 

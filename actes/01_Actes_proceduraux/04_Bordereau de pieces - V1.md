@@ -93,7 +93,7 @@ format: Arial JUSTIFIED
 
 ## Pièce n° 22
 
-- **Non précisé** — Analyse de sinistre corporel (**[L'Exploitant du Commerce]**) : Accident lié à une vasque en céramique brisée tranchante (index droit impacté). Dossiers CPAM 31727387 / 2631103960.
+- **Non précisé** — Analyse de sinistre corporel (**[L'Exploitant du Commerce]**) : Accident lié à une vasque en céramique avec cassure préexistante tranchante (index droit impacté). Dossiers CPAM 31727387 / 2631103960.
 - **02/06/2026** — Remboursement de prestations (CPAM de Haute-Garonne) : Versement global incluant la part complémentaire pour les soins du 29/05/2026.
 
 ## Pièce n° 24
