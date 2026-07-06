@@ -12,7 +12,7 @@
 
 | # | Document | Montant | Détail |
 |---|----------|---------|--------|
-| **11** | **[Étude indemnisation](11_Etude%20indemnisation%20-%20V1.md)** | **59 600 €** | Évaluation maximale Dintilhac : ITT, DFT, souffrances endurées, préjudice esthétique, incidence professionnelle, déficit fonctionnel permanent. |
+| **11** | **[Étude indemnisation](11_Etude%20indemnisation.md)** | **59 600 €** | Évaluation maximale Dintilhac : ITT, DFT, souffrances endurées, préjudice esthétique, incidence professionnelle, déficit fonctionnel permanent. |
 
 ## 💸 Synthèse rapide
 

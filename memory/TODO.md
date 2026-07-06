@@ -160,7 +160,7 @@ PHASE POST-CONSOLIDATION (quand consolidation obtenue)
 
 ### PHASE 7B — BORDEREAU + JUSTIFICATION PROVISION + EMAILS TÉMOINS ✅ TERMINÉ
 
-- `04_Bordereau_Audience - V1.md` créé (25 pièces séquentielles)
+- `04_Bordereau_Audience.md` créé (25 pièces séquentielles)
 - Assignation 01 enrichie §D (justification provision 5 000 €)
 - Emails 25-28 créés (relance DJERBI + 3 attestations témoins)
 - Versions réelles générées, push effectué

@@ -9,7 +9,7 @@ format: Arial JUSTIFIED
 
 # REVUE COMPLÈTE ASSIGNATION ARTICLE 145 CPC
 
-L'assignation en référé sur le fondement de l'article 145 du Code de procédure civile (`actes/01_Actes_proceduraux/03_Assignation Article 145 - V1.md`) a été auditée selon les 6 critères définis.
+L'assignation en référé sur le fondement de l'article 145 du Code de procédure civile (`actes/01_Actes_proceduraux/03_Assignation Article 145.md`) a été auditée selon les 6 critères définis.
 
 | Critère | Statut | Détail + Recommandations |
 | :--- | :--- | :--- |

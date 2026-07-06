@@ -115,7 +115,7 @@ REPLACEMENTS = [
     (r"(?<!\]\()l'article 145 du Code de procédure civile \(CPC\)",
      link("LEGIARTI000051869339", "l'article 145 du Code de procédure civile (CPC)")),
 
-    # === 03_Courrier SAS - V1.md ===
+    # === 03_Courrier SAS.md ===
     (r"(?<!\]\()L'article L\. 124-3 du Code des assurances",
      link("LEGIARTI000017735449", "L'article L. 124-3 du Code des assurances")),
     (r"(?<!\]\()L'article L\. 227-8 du Code de commerce",
@@ -125,7 +125,7 @@ REPLACEMENTS = [
     (r"(?<!\()\(article L\. 113-2, 4° du Code des assurances\)",
      f"({link('LEGIARTI000035731302', 'article L. 113-2, 4° du Code des assurances')})"),
 
-    # === 04_Courrier Assureur - V1.md ===
+    # === 04_Courrier Assureur.md ===
     (r"(?<!\()\(Art\. L\.124-3\)",
      f"({link('LEGIARTI000017735449', 'Art. L.124-3')})"),
     (r"(?<!\]\()l'article L\. 124-3 du Code des assurances",
@@ -135,7 +135,7 @@ REPLACEMENTS = [
     (r"(?<!\()\(article L\. 113-2, 4° du Code des assurances\)",
      f"({link('LEGIARTI000035731302', 'article L. 113-2, 4° du Code des assurances')})"),
 
-    # === 05_Courrier Proprietaire - V1.md ===
+    # === 05_Courrier Proprietaire.md ===
     (r"(?<!\]\()L'article 1719 du Code civil",
      link("LEGIARTI000020459127", "L'article 1719 du Code civil")),
     (r"(?<!\]\()L'article 1720 du même code",
@@ -147,7 +147,7 @@ REPLACEMENTS = [
     (r"(?<!\]\()l'article 145 du Code de procédure civile",
      link("LEGIARTI000051869339", "l'article 145 du Code de procédure civile")),
 
-    # === 06_Courrier President DG - V1.md ===
+    # === 06_Courrier President DG.md ===
     (r"(?<!\]\()arrêt SATI",
      link("JURITEXT000007047369", "arrêt SATI")),
     (r"(?<!\]\()L'article L\. 227-8 du Code de commerce",
@@ -273,13 +273,13 @@ def main():
         os.path.join(base, "archives", "STRATEGIE_Contentieux_Civil.md"): (False, False),
         os.path.join(base, "archives", "STRATEGIE_Contentieux_Penal.md"): (False, False),
         os.path.join(base, "archives", "Constitution_Partie_Civile.md"): (False, False),
-        os.path.join(base, "04_Etudes_indemnisation", "11_Etude indemnisation - V1.md"): (False, False),
-        os.path.join(base, "03_Analyses_juridiques", "13_Responsabilites legales - V1.md"): (False, False),
+        os.path.join(base, "04_Etudes_indemnisation", "11_Etude indemnisation.md"): (False, False),
+        os.path.join(base, "03_Analyses_juridiques", "13_Responsabilites legales.md"): (False, False),
         # 4 nouveaux courriers 03-06
-        os.path.join(base, "02_Courriers", "03_Courrier SAS - V1.md"): (False, False),
-        os.path.join(base, "02_Courriers", "04_Courrier Assureur - V1.md"): (False, False),
-        os.path.join(base, "02_Courriers", "05_Courrier Proprietaire - V1.md"): (False, False),
-        os.path.join(base, "02_Courriers", "06_Courrier President DG - V1.md"): (False, False),
+        os.path.join(base, "02_Courriers", "03_Courrier SAS.md"): (False, False),
+        os.path.join(base, "02_Courriers", "04_Courrier Assureur.md"): (False, False),
+        os.path.join(base, "02_Courriers", "05_Courrier Proprietaire.md"): (False, False),
+        os.path.join(base, "02_Courriers", "06_Courrier President DG.md"): (False, False),
     }
 
     print("=== Batch linking legal references to Légifrance ===")

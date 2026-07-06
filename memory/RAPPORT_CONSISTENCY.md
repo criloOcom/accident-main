@@ -6,17 +6,17 @@ L'exécution de `python3 app/check_consistency.py` a généré les avertissement
 ```
 === VÉRIFICATION CROSS-DOCUMENT ===
 
-  WARN    09_Courrier Inspection Travail - V1.md → token potentiel non documenté : [Adresse a completer]
-  WARN    11_Courrier INPI - V1.md → token potentiel non documenté : [Adresse a completer]
-  WARN    12_Courrier URSSAF - V1.md → token potentiel non documenté : [Adresse a completer]
-  WARN    13_Courrier Prefecture - V1.md → token potentiel non documenté : [Adresse a completer]
-  WARN    14_Courrier CODAF - V1.md → token potentiel non documenté : [Adresse a completer]
-  WARN    15_Courrier SIE - V1.md → token potentiel non documenté : [Adresse a completer]
-  WARN    16_Courrier Conseil Departemental - V1.md → token potentiel non documenté : [Adresse a completer]
-  WARN    18_Courrier SDIS - V1.md → token potentiel non documenté : [Adresse a completer]
-  WARN    19_Courrier FGTI - V1.md → token potentiel non documenté : [Adresse a completer]
-  WARN    20_Relance Police - V1.md → token potentiel non documenté : [Adresse a completer]
-  WARN    21_Relance CPAM - V1.md → token potentiel non documenté : [Adresse a completer]
+  WARN    09_Courrier Inspection Travail.md → token potentiel non documenté : [Adresse a completer]
+  WARN    11_Courrier INPI.md → token potentiel non documenté : [Adresse a completer]
+  WARN    12_Courrier URSSAF.md → token potentiel non documenté : [Adresse a completer]
+  WARN    13_Courrier Prefecture.md → token potentiel non documenté : [Adresse a completer]
+  WARN    14_Courrier CODAF.md → token potentiel non documenté : [Adresse a completer]
+  WARN    15_Courrier SIE.md → token potentiel non documenté : [Adresse a completer]
+  WARN    16_Courrier Conseil Departemental.md → token potentiel non documenté : [Adresse a completer]
+  WARN    18_Courrier SDIS.md → token potentiel non documenté : [Adresse a completer]
+  WARN    19_Courrier FGTI.md → token potentiel non documenté : [Adresse a completer]
+  WARN    20_Relance Police.md → token potentiel non documenté : [Adresse a completer]
+  WARN    21_Relance CPAM.md → token potentiel non documenté : [Adresse a completer]
 
 0 erreur(s), 11 avertissement(s)
 ```

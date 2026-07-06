@@ -210,7 +210,7 @@
 
 - **Fichier:** `memory/STATUS.md` (Ligne 213)
   - **Nom(s) trouvé(s):** SABIR, ANDISSAC
-  - **Contexte:** `- **06_Courrier President DG - V1.md** : créé par fusion des pièces SABIR et ANDISSAC en courrier unique double destinataire`
+  - **Contexte:** `- **06_Courrier President DG.md** : créé par fusion des pièces SABIR et ANDISSAC en courrier unique double destinataire`
 
 - **Fichier:** `memory/STATUS.md` (Ligne 267)
   - **Nom(s) trouvé(s):** DJERBI

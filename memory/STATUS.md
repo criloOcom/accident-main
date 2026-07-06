@@ -207,10 +207,10 @@ code Python lit ensuite en fallback.
 ## Phase 5b — Création et anonymisation des courriers 03-06 (5 juillet 2026) ✅
 
 ### Ce qui a été fait
-- **03_Courrier SAS - V1.md** : créé et anonymisé depuis `pieces/20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md`
-- **04_Courrier Assureur - V1.md** : créé depuis `archives/ActionDirecte_AssureurRC.md` + alignement montant global 59 600€
-- **05_Courrier Proprietaire - V1.md** : créé et anonymisé depuis `pieces/20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU.md`
-- **06_Courrier President DG - V1.md** : créé par fusion des pièces SABIR et ANDISSAC en courrier unique double destinataire
+- **03_Courrier SAS.md** : créé et anonymisé depuis `pieces/20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md`
+- **04_Courrier Assureur.md** : créé depuis `archives/ActionDirecte_AssureurRC.md` + alignement montant global 59 600€
+- **05_Courrier Proprietaire.md** : créé et anonymisé depuis `pieces/20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU.md`
+- **06_Courrier President DG.md** : créé par fusion des pièces SABIR et ANDISSAC en courrier unique double destinataire
 - **Tous les courriers** : YAML frontmatter, liens Légifrance, tokens en **gras**
 - **Scripts mis à jour** : `add_yaml_actes.py` (4 entrées), `batch_link_legifrance.py` (chemins corrigés + support JURITEXT)
 - **Index mis à jour** : stats (14 docs), mention fichiers à insérer supprimée, travaux restants nettoyés
@@ -267,7 +267,7 @@ code Python lit ensuite en fallback.
 ## Phase 5d — Courrier Consolidation Dr DJERBI (Plan E) (5 juillet 2026) ✅
 
 ### Ce qui a été fait
-- **07_Courrier Consolidation - V1.md** : créé et injecté sur Drive
+- **07_Courrier Consolidation.md** : créé et injecté sur Drive
 - Contenu : demande de certificat médical de consolidation pour permettre l'évaluation DFP/IP/SE
 - Mention : Nomenclature Dintilhac + Cass. Civ. 2e, 4 avril 2024, n° 22-19.307
 - **JUSTIFIED appliqué** sur le document
@@ -278,8 +278,8 @@ code Python lit ensuite en fallback.
 ## Phase 6a — Courriers Suivi TAVELLA + Inspection Travail (Plan B) (5 juillet 2026) ✅
 
 ### Ce qui a été fait
-- **08_Courrier Suivi TAVELLA - V1.md** : créé et injecté — réponse à l'adjoint au maire pour demande de suivi Inspection du Travail + CODAF + demande de communication des rapports
-- **09_Courrier Inspection Travail - V1.md** : créé et injecté — demande directe à la DDETS/DREETS avec liste des manquements présumés (DUERP, assurance RC, équipement, formation, travail dissimulé)
+- **08_Courrier Suivi TAVELLA.md** : créé et injecté — réponse à l'adjoint au maire pour demande de suivi Inspection du Travail + CODAF + demande de communication des rapports
+- **09_Courrier Inspection Travail.md** : créé et injecté — demande directe à la DDETS/DREETS avec liste des manquements présumés (DUERP, assurance RC, équipement, formation, travail dissimulé)
 - **JUSTIFIED appliqué** sur les 2 documents
 - **drive_id mis à jour** dans les fichiers locaux YAML
 - Drive IDs : `1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw` (08), `1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM` (09)
@@ -292,18 +292,18 @@ code Python lit ensuite en fallback.
 
 | # | Fichier | Destinataire | Objet | Type |
 |---|---------|-------------|-------|------|
-| 10 | `10_Courrier Greffe TC - V1.md` | Greffe TC Foix | Inscription observation RCS | LRAR |
-| 11 | `11_Courrier INPI - V1.md` | INPI / RNE | Signalement litige en cours | LRAR |
-| 12 | `12_Courrier URSSAF - V1.md` | URSSAF Midi-Pyrénées | Signalement travail dissimulé | LRAR |
-| 13 | `13_Courrier Prefecture - V1.md` | Préfecture 09 | Confirmation signalement | LRAR |
-| 14 | `14_Courrier CODAF - V1.md` | CODAF 09 | Signalement officiel manquements | LRAR |
-| 15 | `15_Courrier SIE - V1.md` | SIE Foix | Information litige | LRAR |
-| 16 | `16_Courrier Conseil Departemental - V1.md` | CD 09 | Signalement sécurité ERP | LRAR |
-| 17 | `17_Courrier CARSAT - V1.md` | CARSAT Midi-Pyrénées | Signalement risque pro | Email |
-| 18 | `18_Courrier SDIS - V1.md` | SDIS 09 | Signalement sécurité ERP | Email |
-| 19 | `19_Courrier FGTI - V1.md` | FGTI | Information conservatoire | LRAR + Email |
-| 20 | `20_Relance Police - V1.md` | Police Foix | Suivi plainte + demande vidéos | Email |
-| 21 | `21_Relance CPAM - V1.md` | CPAM Haute-Garonne | Suivi dossier RCT | Email |
+| 10 | `10_Courrier Greffe TC.md` | Greffe TC Foix | Inscription observation RCS | LRAR |
+| 11 | `11_Courrier INPI.md` | INPI / RNE | Signalement litige en cours | LRAR |
+| 12 | `12_Courrier URSSAF.md` | URSSAF Midi-Pyrénées | Signalement travail dissimulé | LRAR |
+| 13 | `13_Courrier Prefecture.md` | Préfecture 09 | Confirmation signalement | LRAR |
+| 14 | `14_Courrier CODAF.md` | CODAF 09 | Signalement officiel manquements | LRAR |
+| 15 | `15_Courrier SIE.md` | SIE Foix | Information litige | LRAR |
+| 16 | `16_Courrier Conseil Departemental.md` | CD 09 | Signalement sécurité ERP | LRAR |
+| 17 | `17_Courrier CARSAT.md` | CARSAT Midi-Pyrénées | Signalement risque pro | Email |
+| 18 | `18_Courrier SDIS.md` | SDIS 09 | Signalement sécurité ERP | Email |
+| 19 | `19_Courrier FGTI.md` | FGTI | Information conservatoire | LRAR + Email |
+| 20 | `20_Relance Police.md` | Police Foix | Suivi plainte + demande vidéos | Email |
+| 21 | `21_Relance CPAM.md` | CPAM Haute-Garonne | Suivi dossier RCT | Email |
 
 - **Tous rédigés en version longue** (contexte + faits + fondements juridiques), conformément aux courriers 03-06
 - **Consistency check** : 0 erreur, 13 avertissements bénins `[Adresse a completer]` (inchangé)
@@ -327,16 +327,16 @@ code Python lit ensuite en fallback.
 | Assureur RC inconnu → Article 145 CPC | ✅ Créé |
 
 ### Fichiers supprimés
-- `actes/02_Courriers/10_Courrier Greffe TC - V1.md` — Greffe TC incompétent (observation RCS pas pour litige civil individuel)
-- `actes/02_Courriers/17_Courrier CARSAT - V1.md` — CARSAT incompétente (pas de pouvoir sur client tiers)
+- `actes/02_Courriers/10_Courrier Greffe TC.md` — Greffe TC incompétent (observation RCS pas pour litige civil individuel)
+- `actes/02_Courriers/17_Courrier CARSAT.md` — CARSAT incompétente (pas de pouvoir sur client tiers)
 
 ### Fichiers modifiés
-- `actes/02_Courriers/12_Courrier URSSAF - V1.md` — Recentré sur travail dissimulé pur (plus de récit accident/victime)
-- `actes/01_Actes_proceduraux/02_Plainte - V1.md` — Ajout « en qualité de client » pour requalification
+- `actes/02_Courriers/12_Courrier URSSAF.md` — Recentré sur travail dissimulé pur (plus de récit accident/victime)
+- `actes/01_Actes_proceduraux/02_Plainte.md` — Ajout « en qualité de client » pour requalification
 - `actes/05_Organisation/00_Index.md` — Tableau mis à jour (suppressions + Article 145)
 
 ### Fichiers créés
-- `actes/01_Actes_proceduraux/03_Assignation Article 145 - V1.md` — Assignation en référé Article 145 CPC pour communication police d'assurance RC Pro sous astreinte (150€/jour)
+- `actes/01_Actes_proceduraux/03_Assignation Article 145.md` — Assignation en référé Article 145 CPC pour communication police d'assurance RC Pro sous astreinte (150€/jour)
 
 ### État après corrections
 - **17 courriers** (03-09, 11-16, 18-21)
@@ -379,7 +379,7 @@ La version initiale du **09 Courrier Inspection Travail** contenait une erreur f
 - **INTRODUCTION** : remplacé par « sur lequel il avait dû monter **pour accéder au poste de télévision, faute d'équipement d'accès adapté (escabeau)** »
 - **Liste des manquements (puce 4)** : remplacée par **Absence d'équipement d'accès en hauteur** avec articles L. 4121-1 (obligation générale de sécurité) et R. 4323-58 et suivants (travaux en hauteur)
 - **Version Drive mise à jour** via `replaceDocumentWithMarkdown` (même ID : `1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM`)
-- **Fichier local corrigé** : `actes/02_Courriers/09_Courrier Inspection Travail - V1.md`
+- **Fichier local corrigé** : `actes/02_Courriers/09_Courrier Inspection Travail.md`
 
 ---
 
@@ -403,9 +403,9 @@ La version initiale du **09 Courrier Inspection Travail** contenait une erreur f
 ## Phase 7b — Bordereau séquentiel + Justification provision + Emails témoins (6 juillet 2026) ✅
 
 ### Ce qui a été fait
-- **Nouveau bordereau séquentiel** : `04_Bordereau_Audience - V1.md` créé — 25 pièces en 6 groupes thématiques (A-F), numérotation propre, dédoublonnée
+- **Nouveau bordereau séquentiel** : `04_Bordereau_Audience.md` créé — 25 pièces en 6 groupes thématiques (A-F), numérotation propre, dédoublonnée
 - **Assignation 01 enrichie** : nouveau §D *Justification du montant de la provision* (5 arguments : fourchette référentiel, proportionnalité, provision *ad litem*, silence de l'exploitant, jurisprudence Cass.)
-- **Email relance Dr DJERBI** : `25_Email Relance Dr DJERBI - V1.md` — relance certificat consolidation
+- **Email relance Dr DJERBI** : `25_Email Relance Dr DJERBI.md` — relance certificat consolidation
 - **3 emails transmission attestations** : `26/27/28_Email Attestation` pour client/pompier/employé
 - **Génération versions réelles** : 46 fichiers regénérés dans `actes/reel/` (incl. 5 nouveaux)
 - **Document clé identifié** : Réquisition Police UMJ 02/06/2026 (PDF) + retranscription téléphonique — confirme le rendez-vous réel du **12 novembre 2026** à Purpan

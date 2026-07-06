@@ -158,12 +158,12 @@ format: Arial JUSTIFIED
 
 ## Pièce n° 80
 
-- **30/06/2026** — Gabarit d'attestation de témoin — Témoin client, Sébastien GRAZIDE ([22_Gabarit Attestation Témoin Client - V1.md](../02_Courriers/22_Gabarit%20Attestation%20Témoin%20Client%20-%20V1.md)) : Attestation Cerfa n° 11527\*03 destinée aux clients présents le 29 mai 2026. Récit des faits : montée du préposé sur la vasque, basculement, réflexe de la victime.
+- **30/06/2026** — Gabarit d'attestation de témoin — Témoin client, Sébastien GRAZIDE ([22_Gabarit Attestation Témoin Client.md](../02_Courriers/22_Gabarit%20Attestation%20Témoin%20Client.md)) : Attestation Cerfa n° 11527\*03 destinée aux clients présents le 29 mai 2026. Récit des faits : montée du préposé sur la vasque, basculement, réflexe de la victime.
 
 ## Pièce n° 81
 
-- **30/06/2026** — Gabarit d'attestation de témoin — Pompier / SAMU, Sébastien GRAZIDE ([23_Gabarit Attestation Pompier SAMU - V1.md](../02_Courriers/23_Gabarit%20Attestation%20Pompier%20SAMU%20-%20V1.md)) : Attestation Cerfa n° 11527\*03 destinée aux services de secours intervenus le 29 mai 2026. Constat de la blessure grave et du saignement abondant.
+- **30/06/2026** — Gabarit d'attestation de témoin — Pompier / SAMU, Sébastien GRAZIDE ([23_Gabarit Attestation Pompier SAMU.md](../02_Courriers/23_Gabarit%20Attestation%20Pompier%20SAMU.md)) : Attestation Cerfa n° 11527\*03 destinée aux services de secours intervenus le 29 mai 2026. Constat de la blessure grave et du saignement abondant.
 
 ## Pièce n° 82
 
-- **30/06/2026** — Gabarit d'attestation de témoin — Employé du salon, Sébastien GRAZIDE ([24_Gabarit Attestation Employé - V1.md](../02_Courriers/24_Gabarit%20Attestation%20Employé%20-%20V1.md)) : Attestation Cerfa n° 11527\*03 destinée aux employés. Précise la cassure préexistante de la vasque et l'absence de consigne de sécurité.
+- **30/06/2026** — Gabarit d'attestation de témoin — Employé du salon, Sébastien GRAZIDE ([24_Gabarit Attestation Employé.md](../02_Courriers/24_Gabarit%20Attestation%20Employé.md)) : Attestation Cerfa n° 11527\*03 destinée aux employés. Précise la cassure préexistante de la vasque et l'absence de consigne de sécurité.

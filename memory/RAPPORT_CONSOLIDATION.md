@@ -2,11 +2,11 @@
 
 ## 1. AUDIT_DATES.md
 * Fichiers modifiés pour les heures 15h20 -> 15h00 :
-  * `actes/02_Courriers/03_Courrier SAS - V1.md`
-  * `actes/02_Courriers/04_Courrier Assureur - V1.md`
-  * `actes/02_Courriers/05_Courrier Proprietaire - V1.md`
-  * `actes/02_Courriers/06_Courrier President DG - V1.md`
-  * `actes/03_Analyses_juridiques/09_FAQ - V1.md`
+  * `actes/02_Courriers/03_Courrier SAS.md`
+  * `actes/02_Courriers/04_Courrier Assureur.md`
+  * `actes/02_Courriers/05_Courrier Proprietaire.md`
+  * `actes/02_Courriers/06_Courrier President DG.md`
+  * `actes/03_Analyses_juridiques/09_FAQ.md`
   * `actes/06_Archives/Dossier_Presentation.md`
   * `actes/06_Archives/ANALYSE_Jurisprudence.md`
   * Justification: Respect strict de l'heure définie de l'accident à 15h00 (selon les instructions d'audit et non 15h20).
@@ -15,7 +15,7 @@
   * `actes/06_Archives/ActionDirecte_AssureurRC.md` (mis à jour - date LRAR gardée à 29 juin, date de l'accident à 29 mai).
   * Justification: Le `STRICT VARIABLES.md` spécifie que l'accident a eu lieu le 29 mai 2026 et les LRAR envoyées le 29 juin 2026. Certaines occurences avaient été confondues.
 * Services médicaux : "Centre Ariégeois de Soins Immédiats" -> "SMUR 09"
-  * `actes/01_Actes_proceduraux/01_Assignation - V1.md`
+  * `actes/01_Actes_proceduraux/01_Assignation.md`
   * `actes/06_Archives/ANALYSE_Jurisprudence.md`
   * Justification: Uniformisation sur "SMUR 09" comme suggéré par l'audit.
 
@@ -23,8 +23,8 @@
 * L'Audit a reporté des anomalies sur :
   * `actes/06_Archives/STRATEGIE_Contentieux_Civil.md` (Facture 790,23 €) - Ce montant reste valide car c'est une donnée stricte de facture.
   * `actes/06_Archives/annexes/ANNEXE C Pieces.md` (Facture 790,23 €)
-  * `actes/01_Actes_proceduraux/03_Assignation Article 145 - V1.md` : Astreinte à 150€ (non-strict) et Article 700 à 1 500 € au lieu de 3 000 €.
-* Correction effectuée: `actes/01_Actes_proceduraux/03_Assignation Article 145 - V1.md` - L'article 700 est passé de 1 500 € à 3 000 €.
+  * `actes/01_Actes_proceduraux/03_Assignation Article 145.md` : Astreinte à 150€ (non-strict) et Article 700 à 1 500 € au lieu de 3 000 €.
+* Correction effectuée: `actes/01_Actes_proceduraux/03_Assignation Article 145.md` - L'article 700 est passé de 1 500 € à 3 000 €.
 
 ## 3. AUDIT_NOMS_RESIDUELS.md
 * Les noms mentionnés comme résiduels dans l'audit sont présents dans `memory/PIECES MAP.md`, `memory/STATUS.md`, `memory/TODO.md` etc, qui ne sont pas dans `actes/`. Les instructions demandaient de corriger les fichiers sources (dans `actes/`).
@@ -32,17 +32,17 @@
 
 ## 4. AUDIT_COHERENCE_TRANSVERSALE.md
 * Cause de l'accident: remplacement de "brisé" ou "brisée" par "avec cassure préexistante" :
-  * `actes/02_Courriers/04_Courrier Assureur - V1.md`
-  * `actes/02_Courriers/05_Courrier Proprietaire - V1.md`
-  * `actes/03_Analyses_juridiques/07_Plaidoirie dirigeants - V1.md`
+  * `actes/02_Courriers/04_Courrier Assureur.md`
+  * `actes/02_Courriers/05_Courrier Proprietaire.md`
+  * `actes/03_Analyses_juridiques/07_Plaidoirie dirigeants.md`
   * `actes/06_Archives/ActionDirecte_AssureurRC.md`
   * `actes/06_Archives/ANALYSE_Jurisprudence.md`
-  * `actes/01_Actes_proceduraux/04_Bordereau de pieces - V1.md`
+  * `actes/01_Actes_proceduraux/04_Bordereau de pieces.md`
   * Justification: Selon les variables strictes, l'équipement a basculé et il y avait une cassure préexistante ; l'équipement ne s'est pas effondré ni brisé lors du choc.
 * Le SMUR 09 a été mis à la place de "Centre Ariégeois de Soins Immédiats".
 
 ## 5. AUDIT_ASSIGNATION_145.md
-* Bordereau de pièces ajouté à la fin de `actes/01_Actes_proceduraux/03_Assignation Article 145 - V1.md`.
+* Bordereau de pièces ajouté à la fin de `actes/01_Actes_proceduraux/03_Assignation Article 145.md`.
 * L'article 700 réévalué à 3 000 €.
 * Justification: Conformément aux recommandations de l'audit pour sécuriser l'assignation.
 
