@@ -53,63 +53,63 @@ Le dossier repose sur une **double strate de documents** générée par [generat
 
 | # | Document | Description |
 |---|----------|-------------|
-| 01 | [01_Assignation.md](./actes/token/01_Actes_proceduraux/01_Assignation.md) | Assignation référé-provision 5 000 € (Art. 835 CPC) |
-| 02 | [02_Plainte.md](./actes/token/01_Actes_proceduraux/02_Plainte.md) | Plainte complémentaire défaut assurance RC |
-| 02b | [02b_Constitution Partie Civile.md](./actes/token/01_Actes_proceduraux/02b_Constitution%20Partie%20Civile.md) | Constitution de partie civile (Art. 222-19/222-20 CP + L.227-8 C.com.) |
-| 03 | [03_Assignation Article 145.md](./actes/token/01_Actes_proceduraux/03_Assignation%20Article%20145.md) | Communication forcée police d'assurance (Art. 145 CPC) |
-| 04 | [04_Bordereau de pieces.md](./actes/token/01_Actes_proceduraux/04_Bordereau%20de%20pieces.md) | Bordereau général (archive) |
-| 04b | [04_Bordereau_Audience.md](./actes/token/01_Actes_proceduraux/04_Bordereau_Audience.md) | Bordereau séquentiel propre (25 pièces) |
-| 05 | [05_Conclusions Refere.md](./actes/token/01_Actes_proceduraux/05_Conclusions%20Refere.md) | Conclusions référé (date à fixer) |
-| 06 | [06_Requete Constat Huissier.md](./actes/token/01_Actes_proceduraux/06_Requete%20Constat%20Huissier.md) | Requête constat d'huissier (Art. 145 CPC) |
+| 01 | [01 ⚖️ Assignation.md](./actes/token/01_Actes_proceduraux/01 ⚖️ Assignation.md) | Assignation référé-provision 5 000 € (Art. 835 CPC) |
+| 02 | [02 🚔 Plainte.md](./actes/token/01_Actes_proceduraux/02 🚔 Plainte.md) | Plainte complémentaire défaut assurance RC |
+| 02b | [02b 🛡️ Constitution Partie Civile.md](./actes/token/01_Actes_proceduraux/02b%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) | Constitution de partie civile (Art. 222-19/222-20 CP + L.227-8 C.com.) |
+| 03 | [03 🔍 Assignation Article 145.md](./actes/token/01_Actes_proceduraux/03%20%F0%9F%94%8D%20Assignation%20Article%20145.md) | Communication forcée police d'assurance (Art. 145 CPC) |
+| 04 | [04 📑 Bordereau de pieces.md](./actes/token/01_Actes_proceduraux/04%20%F0%9F%93%91%20Bordereau%20de%20pieces.md) | Bordereau général (archive) |
+| 04b | [04 📑 Bordereau Audience.md](./actes/token/01_Actes_proceduraux/04 📑 Bordereau Audience.md) | Bordereau séquentiel propre (25 pièces) |
+| 05 | [05 🎯 Conclusions Refere.md](./actes/token/01_Actes_proceduraux/05%20%F0%9F%8E%AF%20Conclusions%20Refere.md) | Conclusions référé (date à fixer) |
+| 06 | [06 📸 Requete Constat Huissier.md](./actes/token/01_Actes_proceduraux/06%20%F0%9F%93%B8%20Requete%20Constat%20Huissier.md) | Requête constat d'huissier (Art. 145 CPC) |
 
 ### Courriers et gabarits ([02_Courriers/](./actes/token/02_Courriers/))
 
 | N° | Document | Type | Statut |
 |----|----------|------|--------|
-| 03 | [Courrier SAS.md](./actes/token/02_Courriers/03_Courrier%20SAS.md) | Mise en demeure SAS | ✅ Envoyé |
-| 04 | [Courrier Assureur.md](./actes/token/02_Courriers/04_Courrier%20Assureur.md) | Action directe assureur | ✅ Envoyé |
-| 05 | [Courrier Proprietaire.md](./actes/token/02_Courriers/05_Courrier%20Proprietaire.md) | Mise en demeure bailleur | ✅ Envoyé |
-| 06 | [Courrier President DG.md](./actes/token/02_Courriers/06_Courrier%20President%20DG.md) | Mise en demeure dirigeants | ✅ Envoyé |
-| 07 | [Courrier Consolidation.md](./actes/token/02_Courriers/07_Courrier%20Consolidation.md) | Demande certificat consolidation | ✅ Envoyé |
-| 08 | [Courrier Suivi TAVELLA.md](./actes/token/02_Courriers/08_Courrier%20Suivi%20TAVELLA.md) | Suivi mairie | ✅ Envoyé |
-| 09 | [Courrier Inspection Travail.md](./actes/token/02_Courriers/09_Courrier%20Inspection%20Travail.md) | Signalement DDETS/DREETS | ✅ Envoyé |
-| 10 | [Courrier Doyen Juges Instruction.md](./actes/token/02_Courriers/10_Courrier%20Doyen%20Juges%20Instruction.md) | Envoi CPC au Doyen | ✅ Drive |
-| 11-16, 18 | [INPI](./actes/token/02_Courriers/11_Courrier%20INPI.md) à [SDIS](./actes/token/02_Courriers/18_Courrier%20SDIS.md) | Courriers administratifs | ✅ Envoyés |
-| 17 | [Courrier CPAM.md](./actes/token/02_Courriers/17_Courrier%20CPAM.md) | Transmission + bordereau récapitulatif CPAM | ✅ Drive |
-| 19 | [Courrier FGTI.md](./actes/token/02_Courriers/19_Courrier%20FGTI.md) | Saisine conservatoire FGTI | ✅ Drive |
-| 20 | [Relance Police.md](./actes/token/02_Courriers/20_Relance%20Police.md) | Relance police | ✅ Envoyé |
-| 21 | [Relance CPAM.md](./actes/token/02_Courriers/21_Relance%20CPAM.md) | Relance CPAM | ✅ Envoyé |
-| 22 | [Gabarit Attestation Témoin Client.md](./actes/token/02_Courriers/22_Gabarit%20Attestation%20T%C3%A9moin%20Client.md) | Attestation Cerfa | ❌ À transmettre |
-| 23 | [Gabarit Attestation Pompier SAMU.md](./actes/token/02_Courriers/23_Gabarit%20Attestation%20Pompier%20SAMU.md) | Attestation Cerfa | ❌ À transmettre |
-| 24 | [Gabarit Attestation Employé.md](./actes/token/02_Courriers/24_Gabarit%20Attestation%20Employ%C3%A9.md) | Attestation Cerfa | ❌ À transmettre |
-| 25 | [Email Relance Dr DJERBI.md](./actes/token/02_Courriers/25_Email%20Relance%20Dr%20DJERBI.md) | Relance consolidation | ❌ À envoyer |
-| 26 | [Email Attestation Temoin Client.md](./actes/token/02_Courriers/26_Email%20Attestation%20Temoin%20Client.md) | Email transmission témoin | ❌ À envoyer |
-| 27 | [Email Attestation Pompier SAMU.md](./actes/token/02_Courriers/27_Email%20Attestation%20Pompier%20SAMU.md) | Email transmission pompier | ❌ À envoyer |
-| 28 | [Email Attestation Employe.md](./actes/token/02_Courriers/28_Email%20Attestation%20Employe.md) | Email transmission employé | ❌ À envoyer |
+| 03 | [Courrier SAS.md](./actes/token/02_Courriers/03%20%E2%9C%89%EF%B8%8F%20Courrier%20SAS.md) | Mise en demeure SAS | ✅ Envoyé |
+| 04 | [Courrier Assureur.md](./actes/token/02_Courriers/04%20%E2%9C%89%EF%B8%8F%20Courrier%20Assureur.md) | Action directe assureur | ✅ Envoyé |
+| 05 | [Courrier Proprietaire.md](./actes/token/02_Courriers/05%20%E2%9C%89%EF%B8%8F%20Courrier%20Proprietaire.md) | Mise en demeure bailleur | ✅ Envoyé |
+| 06 | [Courrier President DG.md](./actes/token/02_Courriers/06%20%E2%9C%89%EF%B8%8F%20Courrier%20President%20DG.md) | Mise en demeure dirigeants | ✅ Envoyé |
+| 07 | [Courrier Consolidation.md](./actes/token/02_Courriers/07%20%E2%9C%89%EF%B8%8F%20Courrier%20Consolidation.md) | Demande certificat consolidation | ✅ Envoyé |
+| 08 | [Courrier Suivi TAVELLA.md](./actes/token/02_Courriers/08%20%E2%9C%89%EF%B8%8F%20Courrier%20Suivi%20Adjoint%20Maire.md) | Suivi mairie | ✅ Envoyé |
+| 09 | [Courrier Inspection Travail.md](./actes/token/02_Courriers/09%20%E2%9C%89%EF%B8%8F%20Courrier%20Inspection%20Travail.md) | Signalement DDETS/DREETS | ✅ Envoyé |
+| 10 | [Courrier Doyen Juges Instruction.md](./actes/token/02_Courriers/10%20%E2%9C%89%EF%B8%8F%20Courrier%20Doyen%20Juges%20Instruction.md) | Envoi CPC au Doyen | ✅ Drive |
+| 11-16, 18 | [INPI](./actes/token/02_Courriers/11%20%E2%9C%89%EF%B8%8F%20Courrier%20INPI.md) à [SDIS](./actes/token/02_Courriers/18%20%E2%9C%89%EF%B8%8F%20Courrier%20SDIS.md) | Courriers administratifs | ✅ Envoyés |
+| 17 | [Courrier CPAM.md](./actes/token/02_Courriers/17%20%E2%9C%89%EF%B8%8F%20Courrier%20CPAM.md) | Transmission + bordereau récapitulatif CPAM | ✅ Drive |
+| 19 | [Courrier FGTI.md](./actes/token/02_Courriers/19%20%E2%9C%89%EF%B8%8F%20Courrier%20FGTI.md) | Saisine conservatoire FGTI | ✅ Drive |
+| 20 | [Relance Police.md](./actes/token/02_Courriers/20%20%F0%9F%94%84%20Relance%20Police.md) | Relance police | ✅ Envoyé |
+| 21 | [Relance CPAM.md](./actes/token/02_Courriers/21%20%F0%9F%94%84%20Relance%20CPAM.md) | Relance CPAM | ✅ Envoyé |
+| 22 | [Gabarit Attestation Témoin Client.md](./actes/token/02_Courriers/22%20%F0%9F%93%8B%20Attestation%20T%C3%A9moin%20Client.md) | Attestation Cerfa | ❌ À transmettre |
+| 23 | [Gabarit Attestation Pompier SAMU.md](./actes/token/02_Courriers/23%20%F0%9F%93%8B%20Attestation%20Pompier%20SAMU.md) | Attestation Cerfa | ❌ À transmettre |
+| 24 | [Gabarit Attestation Employé.md](./actes/token/02_Courriers/24%20%F0%9F%93%8B%20Attestation%20Employ%C3%A9.md) | Attestation Cerfa | ❌ À transmettre |
+| 25 | [Email Relance Dr DJERBI.md](./actes/token/02_Courriers/25%20%F0%9F%93%A7%20Relance%20Dr%20DJERBI.md) | Relance consolidation | ❌ À envoyer |
+| 26 | [Email Attestation Temoin Client.md](./actes/token/02_Courriers/26%20%F0%9F%93%A7%20Attestation%20Temoin%20Client.md) | Email transmission témoin | ❌ À envoyer |
+| 27 | [Email Attestation Pompier SAMU.md](./actes/token/02_Courriers/27%20%F0%9F%93%A7%20Attestation%20Pompier%20SAMU.md) | Email transmission pompier | ❌ À envoyer |
+| 28 | [Email Attestation Employe.md](./actes/token/02_Courriers/28%20%F0%9F%93%A7%20Attestation%20Employe.md) | Email transmission employé | ❌ À envoyer |
 
 ### Analyses juridiques ([03_Analyses_juridiques/](./actes/token/03_Analyses_juridiques/))
 
 | Document | Description |
 |----------|-------------|
-| [07_Plaidoirie dirigeants.md](./actes/token/03_Analyses_juridiques/07_Plaidoirie%20dirigeants.md) | Plaidoirie Arrêt SATI, Art. L.124-3 |
-| [09_FAQ.md](./actes/token/03_Analyses_juridiques/09_FAQ.md) | FAQ juridique |
-| [12_Dossier Plaidoirie.md](./actes/token/03_Analyses_juridiques/12_Dossier%20Plaidoirie.md) | Dossier de plaidoirie (date à fixer) |
-| [13_Responsabilites legales.md](./actes/token/03_Analyses_juridiques/13_Responsabilites%20legales.md) | Responsabilités légales dirigeants |
+| [07 🎤 Plaidoirie dirigeants.md](./actes/token/03_Analyses_juridiques/07%20%F0%9F%8E%A4%20Plaidoirie%20dirigeants.md) | Plaidoirie Arrêt SATI, Art. L.124-3 |
+| [09 ❓ FAQ.md](./actes/token/03_Analyses_juridiques/09 ❓ FAQ.md) | FAQ juridique |
+| [12 📁 Dossier Plaidoirie.md](./actes/token/03_Analyses_juridiques/12%20%F0%9F%93%81%20Dossier%20Plaidoirie.md) | Dossier de plaidoirie (date à fixer) |
+| [13 📜 Responsabilites legales.md](./actes/token/03_Analyses_juridiques/13%20%F0%9F%93%9C%20Responsabilites%20legales.md) | Responsabilités légales dirigeants |
 
 ### Études indemnisation ([04_Etudes_indemnisation/](./actes/token/04_Etudes_indemnisation/))
 
 | Document | Description |
 |----------|-------------|
-| [11_Etude indemnisation.md](./actes/token/04_Etudes_indemnisation/11_Etude%20indemnisation.md) | Évaluation Dintilhac 59 600 € |
+| [11 💰 Etude indemnisation.md](./actes/token/04_Etudes_indemnisation/11%20%F0%9F%92%B0%20Etude%20indemnisation.md) | Évaluation Dintilhac 59 600 € |
 
 ### Organisation ([05_Organisation/](./actes/token/05_Organisation/))
 
 | Document | Description |
 |----------|-------------|
-| [00_Index.md](./actes/token/05_Organisation/00_Index.md) | Index des documents |
-| [10_Plan action.md](./actes/token/05_Organisation/10_Plan%20action.md) | Plan d'action |
-| [11_Calendrier procedural.md](./actes/token/05_Organisation/11_Calendrier%20procedural.md) | Calendrier procédural |
-| [20_Bon envoi physique.md](./actes/token/05_Organisation/20_Bon%20envoi%20physique.md) | Bon d'envoi physique — checklist impression/envoi |
+| [00 📇 Index.md](./actes/token/05_Organisation/00 📇 Index.md) | Index des documents |
+| [10 🗂️ Plan action.md](./actes/token/05_Organisation/10%20%F0%9F%97%82%EF%B8%8F%20Plan%20action.md) | Plan d'action |
+| [11 📅 Calendrier procedural.md](./actes/token/05_Organisation/11%20%F0%9F%93%85%20Calendrier%20procedural.md) | Calendrier procédural |
+| [20 📦 Bon envoi physique.md](./actes/token/05_Organisation/20%20%F0%9F%93%A6%20Bon%20envoi%20physique.md) | Bon d'envoi physique — checklist impression/envoi |
 
 ---
 

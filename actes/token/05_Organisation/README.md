@@ -12,9 +12,9 @@
 
 | # | Document | Rôle |
 |---|----------|------|
-| **00** | **[Index général](00_Index.md)** | **Table exhaustive et structurée du dossier** — référence toutes les pièces (actes, courriers, preuves), leur cote, leur classification. Point d'entrée unique pour naviguer dans le dossier complet. |
-| **10** | **[Plan d'action](10_Plan%20action.md)** | Chronologie détaillée de la procédure : dates clés, actions menées, actions restantes. Outil de pilotage pour suivre l'avancement. |
-| **11** | **[Calendrier procédural](11_Calendrier%20procedural.md)** | Calendrier des échéances judiciaires et administratives avec les délais. |
+| **00** | **[Index général](00 📇 Index.md)** | **Table exhaustive et structurée du dossier** — référence toutes les pièces (actes, courriers, preuves), leur cote, leur classification. Point d'entrée unique pour naviguer dans le dossier complet. |
+| **10** | **[Plan d'action](10%20%F0%9F%97%82%EF%B8%8F%20Plan%20action.md)** | Chronologie détaillée de la procédure : dates clés, actions menées, actions restantes. Outil de pilotage pour suivre l'avancement. |
+| **11** | **[Calendrier procédural](11%20%F0%9F%93%85%20Calendrier%20procedural.md)** | Calendrier des échéances judiciaires et administratives avec les délais. |
 
 ## 📅 Jalons
 

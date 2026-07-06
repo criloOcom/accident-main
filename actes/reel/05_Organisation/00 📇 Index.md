@@ -66,10 +66,10 @@ Partage depuis : sebastien.grazide@gmail.com
 
 ## 01 — Actes procéduraux
 
-- 2026-06-29 - 01_Assignation - V1 ✓ Vérifié : Projet d'assignation en référé-provision (5 000 €) fondé sur l'[Article 835 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
-- 2026-06-01 - 02_Plainte - V1 ✓ Vérifié : Plainte complémentaire défaut assurance RC (victime agissant en qualité de client).
-- 2026-07-05 - 03_Assignation Article 145 - V1 ✓ Brouillon : Assignation en référé pour communication forcée police d'assurance RC Pro sous astreinte.
-- 2026-07-05 - 04_Bordereau de pieces - V1 ✓ Vérifié : Bordereau récapitulatif des pièces du dossier.
+- 2026-06-29 - 01 ⚖️ Assignation - V1 ✓ Vérifié : Projet d'assignation en référé-provision (5 000 €) fondé sur l'[Article 835 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
+- 2026-06-01 - 02 🚔 Plainte - V1 ✓ Vérifié : Plainte complémentaire défaut assurance RC (victime agissant en qualité de client).
+- 2026-07-05 - 03 🔍 Assignation Article 145 - V1 ✓ Brouillon : Assignation en référé pour communication forcée police d'assurance RC Pro sous astreinte.
+- 2026-07-05 - 04 📑 Bordereau de pieces - V1 ✓ Vérifié : Bordereau récapitulatif des pièces du dossier.
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
 
@@ -77,49 +77,49 @@ Partage depuis : sebastien.grazide@gmail.com
 
 ## 02 — Courriers
 
-- 2026-06-29 - 03_Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à SAS LES MAUVAIS GARCONS.
-- 2026-06-29 - 04_Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
+- 2026-06-29 - 03 ✉️ Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à SAS LES MAUVAIS GARCONS.
+- 2026-06-29 - 04 ✉️ Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
-- 2026-06-01 - 05_Courrier Proprietaire - V1 ✓ Vérifié : Demande d'information au propriétaire des murs (détient l'attestation d'assurance RC Pro du locataire via le bail commercial).
+- 2026-06-01 - 05 ✉️ Courrier Proprietaire - V1 ✓ Vérifié : Demande d'information au propriétaire des murs (détient l'attestation d'assurance RC Pro du locataire via le bail commercial).
 
-- 2026-06-29 - 06_Courrier President DG - V1 ✓ Vérifié : Mise en demeure personnelle aux dirigeants.
-- 2026-07-05 - 07_Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au Dr Iskander DJERBI.
-- 2026-07-05 - 08_Courrier Suivi Adjoint Maire - V1 ✓ Vérifié : Suivi Inspection du Travail + CODAF (réponse adjoint au maire).
-- 2026-07-05 - 09_Courrier Inspection Travail - V1 ✓ Vérifié : Demande d'enquête directe à la DDETS/DREETS.
-- 2026-07-05 - 11_Courrier INPI - V1 ✓ Vérifié : Signalement de litige au RNE.
-- 2026-07-05 - 12_Courrier URSSAF - V1 ✓ Vérifié : Signalement de travail dissimulé présumé.
-- 2026-07-05 - 13_Courrier Prefecture - V1 ✓ Vérifié : Confirmation officielle de signalement.
-- 2026-07-05 - 14_Courrier CODAF - V1 ✓ Vérifié : Signalement officiel des manquements.
-- 2026-07-05 - 15_Courrier SIE - V1 ✓ Vérifié : Information de litige en cours.
-- 2026-07-05 - 16_Courrier Conseil Departemental - V1 ✓ Vérifié : Signalement non-conformité ERP.
-- 2026-07-05 - 18_Courrier SDIS - V1 ✓ Vérifié : Signalement sécurité ERP.
-- 2026-07-05 - 19_Courrier FGTI - V1 ✓ Vérifié : Information conservatoire (LRAR + email).
-- 2026-07-05 - 20_Relance Police - V1 ✓ Vérifié : Suivi plainte + demande vidéos.
-- 2026-07-05 - 21_Relance CPAM - V1 ✓ Vérifié : Suivi dossier RCT 31727387.
-- 2026-07-05 - 22_Gabarit Attestation Témoin Client - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
-- 2026-07-05 - 23_Gabarit Attestation Pompier SAMU - V1 ✓ Vérifié : Gabarit d'attestation d'intervention.
-- 2026-07-05 - 24_Gabarit Attestation Employé - V1 ✓ Vérifié : Gabarit d'attestation d'employé.
+- 2026-06-29 - 06 ✉️ Courrier President DG - V1 ✓ Vérifié : Mise en demeure personnelle aux dirigeants.
+- 2026-07-05 - 07 ✉️ Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au Dr Iskander DJERBI.
+- 2026-07-05 - 08 ✉️ Courrier Suivi Adjoint Maire - V1 ✓ Vérifié : Suivi Inspection du Travail + CODAF (réponse adjoint au maire).
+- 2026-07-05 - 09 ✉️ Courrier Inspection Travail - V1 ✓ Vérifié : Demande d'enquête directe à la DDETS/DREETS.
+- 2026-07-05 - 11 ✉️ Courrier INPI - V1 ✓ Vérifié : Signalement de litige au RNE.
+- 2026-07-05 - 12 ✉️ Courrier URSSAF - V1 ✓ Vérifié : Signalement de travail dissimulé présumé.
+- 2026-07-05 - 13 ✉️ Courrier Prefecture - V1 ✓ Vérifié : Confirmation officielle de signalement.
+- 2026-07-05 - 14 ✉️ Courrier CODAF - V1 ✓ Vérifié : Signalement officiel des manquements.
+- 2026-07-05 - 15 ✉️ Courrier SIE - V1 ✓ Vérifié : Information de litige en cours.
+- 2026-07-05 - 16 ✉️ Courrier Conseil Departemental - V1 ✓ Vérifié : Signalement non-conformité ERP.
+- 2026-07-05 - 18 ✉️ Courrier SDIS - V1 ✓ Vérifié : Signalement sécurité ERP.
+- 2026-07-05 - 19 ✉️ Courrier FGTI - V1 ✓ Vérifié : Information conservatoire (LRAR + email).
+- 2026-07-05 - 20 🔄 Relance Police - V1 ✓ Vérifié : Suivi plainte + demande vidéos.
+- 2026-07-05 - 21 🔄 Relance CPAM - V1 ✓ Vérifié : Suivi dossier RCT 31727387.
+- 2026-07-05 - 22 📋 Attestation Témoin Client - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
+- 2026-07-05 - 23 📋 Attestation Pompier SAMU - V1 ✓ Vérifié : Gabarit d'attestation d'intervention.
+- 2026-07-05 - 24 📋 Attestation Employé - V1 ✓ Vérifié : Gabarit d'attestation d'employé.
 
 <hr><hr>
 
 ## 03 — Analyses juridiques
 
-- 2026-06-29 - 07_Plaidoirie dirigeants - V1 ✓ Vérifié : Analyse de la responsabilité pour faute détachable selon l'Arrêt SATI juridique invoquant l'[Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
+- 2026-06-29 - 07 🎤 Plaidoirie dirigeants - V1 ✓ Vérifié : Analyse de la responsabilité pour faute détachable selon l'Arrêt SATI juridique invoquant l'[Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
 
 Et, [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000).
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
-- 2026-06-29 - 09_FAQ - V1 ✓ Vérifié : Synthèse juridique et questions-réponses.
-- 2026-06-02 - 13_Responsabilites legales - V1 ✓ Vérifié : Analyse sur l'[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
+- 2026-06-29 - 09 ❓ FAQ - V1 ✓ Vérifié : Synthèse juridique et questions-réponses.
+- 2026-06-02 - 13 📜 Responsabilites legales - V1 ✓ Vérifié : Analyse sur l'[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
 <hr><hr>
 
 ## 04 — Études d'indemnisation
 
-- 2026-06-01 - 11_Etude indemnisation - V1 ✓ Vérifié : Étude d'indemnisation des préjudices corporels selon la **[réparation intégrale]**(https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278).
+- 2026-06-01 - 11 💰 Etude indemnisation - V1 ✓ Vérifié : Étude d'indemnisation des préjudices corporels selon la **[réparation intégrale]**(https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278).
 
 > Attendu : « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »
 > Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
@@ -128,9 +128,9 @@ Et, [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIART
 
 ## 05 — Organisation
 
-- 2026-06-01 - 10_Plan action - V1 ✓ Vérifié : Plan d'action et chronologie de procédure.
-- 2026-07-05 - 11_Calendrier procedural - V1 ✓ Vérifié : Calendrier procédural et échéances.
-- 2026-06-29 - 00_Index (ce document) ✓ Vérifié : Index et structure du dossier.
+- 2026-06-01 - 10 🗂️ Plan action - V1 ✓ Vérifié : Plan d'action et chronologie de procédure.
+- 2026-07-05 - 11 📅 Calendrier procedural - V1 ✓ Vérifié : Calendrier procédural et échéances.
+- 2026-06-29 - 00 📇 Index (ce document) ✓ Vérifié : Index et structure du dossier.
 
 <hr><hr>
 
@@ -157,14 +157,14 @@ Et, [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIART
 
 Documents non indexés conservés dans `archives/` :
 
-- `archives/annexes/` — ANNEXE A Lexique Tokens, ANNEXE B Lois Jurisprudence, ANNEXE C Pieces
-- `archives/Constitution_Partie_Civile.md`
-- `archives/ActionDirecte_AssureurRC.md`
-- `archives/ANALYSE_correction_juridique.md`
-- `archives/ANALYSE_Jurisprudence.md`
-- `archives/STRATEGIE_Contentieux_Civil.md`
-- `archives/STRATEGIE_Contentieux_Penal.md`
-- `archives/Dossier_Presentation.md`
+- `archives/annexes/` — 📚 📚 ANNEXE A Lexique Tokens, ⚖️ ⚖️ ANNEXE B Lois Jurisprudence, 📑 📑 ANNEXE C Pieces
+- `archives/🛡️ Constitution Partie Civile.md`
+- `archives/⚡ ActionDirecte AssureurRC.md`
+- `archives/🔧 ANALYSE correction juridique.md`
+- `archives/📚 ANALYSE Jurisprudence.md`
+- `archives/🧠 STRATEGIE Contentieux Civil.md`
+- `archives/🧠 STRATEGIE Contentieux Penal.md`
+- `archives/📁 Dossier Presentation.md`
 
 <hr><hr>
 

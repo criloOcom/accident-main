@@ -14,18 +14,18 @@
 
 | Document | Contenu |
 |----------|---------|
-| **[ActionDirecte_AssureurRC](ActionDirecte_AssureurRC.md)** | Version de travail de l'action directe contre l'assureur RC (Art. L.124-3) |
-| **[Constitution_Partie_Civile](Constitution_Partie_Civile.md)** | Projet de constitution de partie civile |
-| **[Dossier_Presentation](Dossier_Presentation.md)** | Dossier de présentation destiné au conseil juridique |
-| **[STRATEGIE_Contentieux_Civil](STRATEGIE_Contentieux_Civil.md)** | Note de stratégie — volet civil |
-| **[STRATEGIE_Contentieux_Penal](STRATEGIE_Contentieux_Penal.md)** | Note de stratégie — volet pénal |
+| **[⚡ ActionDirecte AssureurRC](⚡ ActionDirecte AssureurRC.md)** | Version de travail de l'action directe contre l'assureur RC (Art. L.124-3) |
+| **[🛡️ Constitution Partie Civile](🛡️ Constitution Partie Civile.md)** | Projet de constitution de partie civile |
+| **[📁 Dossier Presentation](📁 Dossier Presentation.md)** | Dossier de présentation destiné au conseil juridique |
+| **[🧠 STRATEGIE Contentieux Civil](🧠 STRATEGIE Contentieux Civil.md)** | Note de stratégie — volet civil |
+| **[🧠 STRATEGIE Contentieux Penal](🧠 STRATEGIE Contentieux Penal.md)** | Note de stratégie — volet pénal |
 
 ### Analyses
 
 | Document | Contenu |
 |----------|---------|
-| **[ANALYSE_Jurisprudence](ANALYSE_Jurisprudence.md)** | Rapport d'analyse des préjudices corporels et de la jurisprudence applicable |
-| **[ANALYSE_correction_juridique](ANALYSE_correction_juridique.md)** | Audit stratégique et restructuration contentieuse |
+| **[📚 ANALYSE Jurisprudence](📚 ANALYSE Jurisprudence.md)** | Rapport d'analyse des préjudices corporels et de la jurisprudence applicable |
+| **[🔧 ANALYSE correction juridique](🔧 ANALYSE correction juridique.md)** | Audit stratégique et restructuration contentieuse |
 
 ### 📁 Annexes
 
@@ -35,5 +35,5 @@
 
 ## 🔗 Navigation
 
-- [Index général](../05_Organisation/00_Index.md) — toutes les pièces du dossier
+- [Index général](../05_Organisation/00 📇 Index.md) — toutes les pièces du dossier
 - [Lois et jurisprudence](../../../lois/README.md) — bibliothèque juridique complète

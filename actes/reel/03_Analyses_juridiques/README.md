@@ -1,6 +1,6 @@
 # Index — 03_Analyses_juridiques (Versions Réelles)
 
-- [07_Plaidoirie dirigeants.md](07_Plaidoirie dirigeants.md)
-- [09_FAQ.md](09_FAQ.md)
-- [12_Dossier Plaidoirie.md](12_Dossier Plaidoirie.md)
-- [13_Responsabilites legales.md](13_Responsabilites legales.md)
+- [07 🎤 Plaidoirie dirigeants.md](07 🎤 Plaidoirie dirigeants.md)
+- [09 ❓ FAQ.md](09 ❓ FAQ.md)
+- [12 📁 Dossier Plaidoirie.md](12 📁 Dossier Plaidoirie.md)
+- [13 📜 Responsabilites legales.md](13 📜 Responsabilites legales.md)

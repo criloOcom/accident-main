@@ -1,5 +1,5 @@
 ---
-titre: Bon d'Envoi Physique — Lot Juillet 2026 - Version réelle
+titre: Bon d'Envoi Physique — Lot Juillet 2026
 date: 2026-07-06
 type: acte
 categorie: organisation
@@ -24,8 +24,8 @@ statut: preparation
 
 | # | Document | Fichier reel/ | Exemplaires |
 |---|----------|---------------|-------------|
-| 1 | **Courrier au Doyen des Juges d'Instruction** | `reel/02_Courriers/10_Courrier Doyen Juges Instruction.md` | 2 (1 envoi + 1 copie) |
-| 2 | **Constitution de Partie Civile** | `reel/01_Actes_proceduraux/02b_Constitution Partie Civile.md` | 2 (1 envoi + 1 copie) |
+| 1 | **Courrier au Doyen des Juges d'Instruction** | `reel/02_Courriers/10 ✉️ Courrier Doyen Juges Instruction.md` | 2 (1 envoi + 1 copie) |
+| 2 | **Constitution de Partie Civile** | `reel/01_Actes_proceduraux/02b 🛡️ Constitution Partie Civile.md` | 2 (1 envoi + 1 copie) |
 | 3 | **Bordereau de pièces CPC** | (inclus dans le document #2) | — |
 | 4 | **Copies des 6 pièces justificatives** (voir liste ci-dessous) | — | 1 jeu complet |
 
