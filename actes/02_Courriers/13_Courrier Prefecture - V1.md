@@ -6,19 +6,19 @@ categorie: procedure
 auteur: La Victime
 destinataire: Prefecture de l'Ariege
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
-  - Le President de l'Exploitation
-  - La Directrice Generale de l'Exploitation
-  - Le Prepose de l'Exploitation
+- L'Exploitant du Commerce
+- La Directrice Generale de l'Exploitation
+- La Victime
+- Le President de l'Exploitation
+- Le Préposé de l'Exploitation
 tags:
-  - prefecture
-  - signalement
-  - securite
-  - ERP
-  - LRAR
+- prefecture
+- signalement
+- securite
+- ERP
+- LRAR
 statut: final
-source: local
+source: drive
 drive_id: 1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM
 format: Arial JUSTIFIED
 ---

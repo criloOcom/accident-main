@@ -1,4 +1,17 @@
 ---
+titre: 23 Gabarit Attestation Pompier SAMU - V1
+date: '2026-06-30'
+type: acte
+categorie: procedure
+auteur: La Victime
+destinataire: null
+personnes:
+- La Victime
+tags:
+- dossier
+statut: final
+source: drive
+drive_id: ''
 format: Arial JUSTIFIED
 ---
 

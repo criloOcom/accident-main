@@ -6,13 +6,19 @@ categorie: procedure
 auteur: La Victime
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
+- L'Exploitant du Commerce
+- L'Établissement SOS Main
+- La Gestionnaire CPAM
+- La Victime
+- Le Chirurgien SOS Main
+- Le Médecin Généraliste
 tags:
-  - bordereau
-  - pieces
-  - référé
+- bordereau
+- pieces
+- référé
 statut: final
+source: drive
+drive_id: ''
 format: Arial JUSTIFIED
 ---
 

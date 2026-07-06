@@ -6,13 +6,19 @@ categorie: procedure
 auteur: La Victime
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
+- L'Exploitant du Commerce
+- L'Établissement SOS Main
+- La Directrice Générale de l'Exploitation
+- La Victime
+- Le Chirurgien SOS Main
+- Le Médecin en Urgence
+- Le Préposé de l'Exploitation
+- Nom de l'Avocat de la Victime
 tags:
-  - assignation
-  - référé
-  - provision
-  - expertise médicale
+- assignation
+- référé
+- provision
+- expertise médicale
 statut: final
 source: drive
 drive_id: 1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg

@@ -6,14 +6,16 @@ categorie: procedure
 auteur: La Victime
 destinataire: Le Chirurgien SOS Main
 personnes:
-  - La Victime
-  - Le Chirurgien SOS Main
-  - L'Etablissement SOS Main
+- L'Etablissement SOS Main
+- L'Établissement SOS Main
+- La Victime
+- Le Chirurgien SOS Main
+- Le Médecin Généraliste
 tags:
-  - certificat de consolidation
-  - medical
-  - expertise
-  - DFP
+- certificat de consolidation
+- medical
+- expertise
+- DFP
 statut: final
 source: drive
 drive_id: 1PSv6c0YFvLa0WDEbwc3AVxL14z7ARi5ne50ctJgCvWI

@@ -6,16 +6,20 @@ categorie: procedure
 auteur: La Victime
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
+- L'Exploitant du Commerce
+- La Directrice Générale de l'Exploitation
+- La Victime
+- Le Propriétaire des Murs
+- Le Préposé de l'Exploitation
+- Le Président de l'Exploitation
 tags:
-  - assignation
-  - refere
-  - article 145
-  - assurance
-  - astreinte
+- assignation
+- refere
+- article 145
+- assurance
+- astreinte
 statut: brouillon
-source: local
+source: drive
 drive_id: 1R26179ks7vLkzw0hYEHL888i0p1VS9ppa6s8R8kQ_gg
 format: Arial JUSTIFIED
 ---

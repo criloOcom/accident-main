@@ -1,18 +1,22 @@
 ---
-titre: Action Directe Assureur RC ([Art. L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)) — Mise en Demeure
+titre: Action Directe Assureur RC ([Art. L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449))
+  — Mise en Demeure
 date: 2026-06-29
 type: acte
 categorie: procedure
 auteur: La Victime
 destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
+- L'Exploitant du Commerce
+- L'Établissement SOS Main
+- La Victime
+- Le Chirurgien SOS Main
+- Le Préposé de l'Exploitation
 tags:
-  - action directe
-  - assurance
-  - mise en demeure
-  - L.124-3
+- action directe
+- assurance
+- mise en demeure
+- L.124-3
 statut: final
 source: drive
 drive_id: 14VIXTJK4n9eH66eVNZ6hJO6gLkiRBqnJpWijsDbkE2k

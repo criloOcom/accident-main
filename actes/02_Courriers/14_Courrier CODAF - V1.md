@@ -6,18 +6,18 @@ categorie: procedure
 auteur: La Victime
 destinataire: CODAF de l'Ariege
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
-  - Le President de l'Exploitation
-  - La Directrice Generale de l'Exploitation
-  - Le Prepose de l'Exploitation
+- L'Exploitant du Commerce
+- La Directrice Generale de l'Exploitation
+- La Victime
+- Le President de l'Exploitation
+- Le Préposé de l'Exploitation
 tags:
-  - CODAF
-  - signalement
-  - fraude
-  - LRAR
+- CODAF
+- signalement
+- fraude
+- LRAR
 statut: final
-source: local
+source: drive
 drive_id: 1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY
 format: Arial JUSTIFIED
 ---

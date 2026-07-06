@@ -2,16 +2,18 @@
 titre: Plan d'Action et Chronologie de la Procédure
 date: 2026-06-30
 type: acte
-categorie: strategie
+categorie: organisation
 auteur: La Victime
 destinataire: null
 personnes:
-  - La Victime
+- L'Exploitant du Commerce
+- La Victime
+- Le Chirurgien SOS Main
 tags:
-  - plan
-  - chronologie
-  - procédure
-  - stratégie
+- plan
+- chronologie
+- procédure
+- stratégie
 statut: final
 source: drive
 drive_id: 153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s

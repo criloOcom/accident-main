@@ -1,21 +1,25 @@
 ---
-titre: Mise en Demeure — Déclaration d'Accident Corporel et Demande d'Information Assurance RC
+titre: Mise en Demeure — Déclaration d'Accident Corporel et Demande d'Information
+  Assurance RC
 date: 2026-06-29
 type: acte
 categorie: procedure
 auteur: La Victime
 destinataire: L'Exploitant du Commerce
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
+- L'Exploitant du Commerce
+- L'Établissement SOS Main
+- La Victime
+- Le Chirurgien SOS Main
 tags:
-  - mise en demeure
-  - SAS
-  - assurance
-  - LRAR
+- mise en demeure
+- SAS
+- assurance
+- LRAR
 statut: final
 source: drive
 drive_id: 1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc
+format: Arial JUSTIFIED
 ---
 
 **Table des matières**

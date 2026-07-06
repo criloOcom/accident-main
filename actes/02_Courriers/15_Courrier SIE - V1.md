@@ -6,16 +6,16 @@ categorie: procedure
 auteur: La Victime
 destinataire: Service des Impots des Entreprises de Foix
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
+- La Victime
+- L'Exploitant du Commerce
 tags:
-  - SIE
-  - impot
-  - information
-  - litige
-  - LRAR
+- SIE
+- impot
+- information
+- litige
+- LRAR
 statut: final
-source: local
+source: drive
 drive_id: 1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA
 format: Arial JUSTIFIED
 ---

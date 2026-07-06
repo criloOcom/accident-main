@@ -6,13 +6,17 @@ categorie: inventaire
 auteur: La Victime
 destinataire: null
 personnes:
-  - La Victime
-  - L'Exploitant du Commerce
+- L'Exploitant du Commerce
+- La Directrice Générale de l'Exploitation
+- La Victime
+- Le Chirurgien SOS Main
+- Le Préposé de l'Exploitation
+- Le Président de l'Exploitation
 tags:
-  - index
-  - inventaire
-  - pièces
-  - dossier
+- index
+- inventaire
+- pièces
+- dossier
 statut: final
 source: drive
 drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
