@@ -81,7 +81,7 @@ Le **[J+0 Accident]**, alors qu'il se trouvait dans le salon de coiffure exploit
 
 Alors que **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger **[Le Préposé de l'Exploitation]** ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
-Ces faits, constitutifs de blessures involontaires au sens de l'[Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042635), ont fait l'objet d'une plainte initiale enregistrée sous le numéro [ ... ].
+Ces faits, constitutifs de blessures involontaires au sens de l'[Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643), ont fait l'objet d'une plainte initiale enregistrée sous le numéro [ ... ].
 
 Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce]**. Ni le Président de la SAS, **[Le Président de l'Exploitation]**, ni la co-dirigeante, **[La Directrice Générale de l'Exploitation]**, n'ont déféré aux demandes amiables de **[La Victime]**, ni à celles adressées au propriétaire des murs, **[Le Propriétaire des Murs]**. 
 

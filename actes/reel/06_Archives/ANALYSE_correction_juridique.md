@@ -66,7 +66,7 @@ Le présent mémorandum juridique constitue un audit stratégique et une restruc
 
 ## I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 
-Le 29 mai 2026, Sébastien GRAZIDE a subi un grave accident corporel au sein du salon exploité par la SAS Les Mauvais Garçons (l'Exploitant).
+Le 29 mai 2026, Sébastien GRAZIDE a subi un grave accident corporel au sein du salon exploité par SAS LES MAUVAIS GARCONS (l'Exploitant).
 
 Alors que l'employé Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, Sébastien GRAZIDE a tendu la main droite pour protéger Ayoub BENNOURINE ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse majeure à sa main dominante.
 

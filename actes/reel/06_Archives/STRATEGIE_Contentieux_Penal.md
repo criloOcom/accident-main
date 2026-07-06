@@ -84,7 +84,7 @@ Cette qualification nécessite la démonstration d'une violation délibérée d'
 
 ### 3.1 Signalement administratif et dépôt de plainte
 
-Un signalement a été adressé à la préfecture par la Mairie de Foix dès le 1er juin 2026, selon le courriel de l'adjoint au maire (btavella@mairie-foix.fr) en date du 1er juin 2026 à 16h15. La Mairie y indiquait avoir pris l'attache des services de la préfecture pour diligenter l'inspection du travail et le CODAF.
+Un signalement a été adressé à la préfecture par la Mairie de Foix dès le 1er juin 2026, selon le courriel de l'adjoint au maire (**[L'Email de l'Adjoint au Maire]**) en date du 1er juin 2026 à 16h15. La Mairie y indiquait avoir pris l'attache des services de la préfecture pour diligenter l'inspection du travail et le CODAF.
 
 Sébastien GRAZIDE a parallèlement déposé une plainte officielle le 1er juin 2026 au commissariat de Foix, retranscrite sous la référence PV n° 2026/015967 [🔗 Pièce](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view). Un procès-verbal de constat a été établi le 2 juin 2026 [🔗 Pièce](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view).
 

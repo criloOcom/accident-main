@@ -4,7 +4,7 @@ date: 2026-07-05
 type: acte
 categorie: procedure
 auteur: La Victime
-destinataire: Service des Impots des Entreprises de Foix
+destinataire: Service des Impôts des Entreprises de Foix
 personnes:
 - La Victime
 - L'Exploitant du Commerce
@@ -26,7 +26,7 @@ Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac
 Courriel : sebastien.grazide@gmail.com
 
-**Service des Impots des Entreprises de Foix**
+**Service des Impôts des Entreprises de Foix**
 
 [À compléter]
 

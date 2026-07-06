@@ -75,10 +75,9 @@ format: Arial JUSTIFIED
 ## Pièce n° 11
 
 - **Non précisé** — Expertise médicale / Indemnisation (Expert judiciaire / Médecin) : Évaluation du DFP pour une victime de 44 ans (Sébastien GRAZIDE).
-- **26/01/1993** — Arrêt (Jurisprudence) (Cour de cassation (Cass. Com.)) : Arrêt n° 91-11.207 relatif à la survie de la personnalité morale d'une société pour les besoins de sa liquidation.
+- **26/01/1993** — Arrêt (Jurisprudence) (Cour de cassation (Cass. Com.)) : [Arrêt n° 91-11.285](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007030228) relatif à la survie de la personnalité morale d'une société pour les besoins de sa liquidation.
 - **14/12/2001** — Arrêt (Jurisprudence) (Cour de cassation (Ass. Plén.)) : Arrêt Cousin (n° 00-82.066) : levée de l'immunité du préposé en cas d'infraction pénale intentionnelle.
 - **20/05/2003** — Arrêt (Jurisprudence) (Cour de cassation (Ch. Com.)) : Arrêt SATI (n° 99-17.092) définissant la faute détachable du dirigeant.
-- **02/01/2008** — Arrêt (Jurisprudence) (Cour de cassation (Ch. Crim.)) : Arrêt n° 07-83.385 relatif à la faute caractérisée de sécurité pour équipements dangereux.
 - **04/04/2024** — Arrêt (Jurisprudence) (Cour de cassation (Civ. 2e)) : Arrêt n° 22-19.307 relatif à la capitalisation sans contrôle de l'assureur.
 
 ## Pièce n° 17

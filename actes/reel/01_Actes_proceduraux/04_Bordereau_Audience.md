@@ -52,8 +52,8 @@ format: Arial JUSTIFIED
 
 ### Pièce n° 5
 
-- 2 juin 2026 — Réquisition judiciaire à personne (Police Nationale, Agent Jordy RODRIGUEZ CAPARROS) : Réquisition pour examen médical par l'UMJ de Purpan sur le fondement des Art. 41 et 77-1 CPP. Rendez-vous fixé au 12 novembre 2026 à 13h45**.
-- 2 juin 2026 — Retranscription téléphonique de la prise de rendez-vous UMJ : Confirmation du rendez-vous du 12 novembre 2026 à Purpan, instructions sur les documents à apporter.
+- 2 juin 2026 — Réquisition judiciaire à personne (Police Nationale, Agent Jordy RODRIGUEZ CAPARROS) : Réquisition pour examen médical par l'UMJ de Toulouse sur le fondement des Art. 41 et 77-1 CPP. Rendez-vous fixé au 12 novembre 2026 à 13h45**.
+- 2 juin 2026 — Retranscription téléphonique de la prise de rendez-vous UMJ : Confirmation du rendez-vous du 12 novembre 2026 à Toulouse, instructions sur les documents à apporter.
 
 ---
 

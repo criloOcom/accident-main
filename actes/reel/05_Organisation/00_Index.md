@@ -84,8 +84,8 @@ Partage depuis : sebastien.grazide@gmail.com
 - 2026-06-01 - 05_Courrier Proprietaire - V1 ✓ Vérifié : Demande d'information au propriétaire des murs (détient l'attestation d'assurance RC Pro du locataire via le bail commercial).
 
 - 2026-06-29 - 06_Courrier President DG - V1 ✓ Vérifié : Mise en demeure personnelle aux dirigeants.
-- 2026-07-05 - 07_Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au Dr DJERBI.
-- 2026-07-05 - 08_Courrier Suivi TAVELLA - V1 ✓ Vérifié : Suivi Inspection du Travail + CODAF (réponse adjoint au maire).
+- 2026-07-05 - 07_Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au Dr Iskander DJERBI.
+- 2026-07-05 - 08_Courrier Suivi Adjoint Maire - V1 ✓ Vérifié : Suivi Inspection du Travail + CODAF (réponse adjoint au maire).
 - 2026-07-05 - 09_Courrier Inspection Travail - V1 ✓ Vérifié : Demande d'enquête directe à la DDETS/DREETS.
 - 2026-07-05 - 11_Courrier INPI - V1 ✓ Vérifié : Signalement de litige au RNE.
 - 2026-07-05 - 12_Courrier URSSAF - V1 ✓ Vérifié : Signalement de travail dissimulé présumé.
@@ -234,7 +234,7 @@ Documents non indexés conservés dans `archives/` :
 
 1. **Injection Drive** — Injecter les courriers 10-21 (hors 10+17 supprimes) + 03 Article 145 sur Drive avec JUSTIFIED.
 2. **Envoi LRAR** — Expedier les courriers 07, 09, 11, 12, 13, 14, 15, 16, 19 par LRAR electronique.
-3. **Envoi emails** — Expedier 08 (TAVELLA), 18 (SDIS), 20 (Police), 21 (CPAM).
+3. **Envoi emails** — Expedier 08 (Adjoint Maire), 18 (SDIS), 20 (Police), 21 (CPAM).
 4. **Relance SAS/dirigeants** — Attendre le 14 juillet (delai legal 15 jours) avant seconde mise en demeure.
 5. **Dossier de correspondance reelle** — Creer le document de substitution tokens → identites reelles au moment de l'envoi.
 6. **Preuves officielles** — Insérer les documents physiques dans `00_Preuves_officielles/`.

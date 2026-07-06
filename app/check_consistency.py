@@ -116,6 +116,9 @@ def check_external_links() -> None:
     app_dir = str(REPO / "app")
     if app_dir not in sys.path:
         sys.path.insert(0, app_dir)
+    mcp_dir = "/home/crilocom/.opencode/mcp-legifrance"
+    if mcp_dir not in sys.path:
+        sys.path.insert(0, mcp_dir)
     
     # Import depuis extract_legal_refs
     try:
@@ -169,6 +172,22 @@ def check_external_links() -> None:
             val = m.group()
             if val not in known_ids:
                 err(f"{f.name} → LEGIARTI non déclaré dans l'Annuaire ou le code local : {val}")
+            else:
+                # Vérifier l'existence réelle du LEGIARTI via le module local ou l'API si disponible
+                try:
+                    import os
+                    if "PISTE_CREDENTIALS" not in os.environ:
+                        sys.path.insert(0, "/home/crilocom/.opencode")
+                        from souverain import get_secret
+                        os.environ["PISTE_CREDENTIALS"] = get_secret("PISTE_CREDENTIALS")
+                    import server
+                    client = server.LegifranceClient()
+                    res = client.consulte_article(val)
+                    if not res or not res.get("article"):
+                        err(f"{f.name} → LEGIARTI inexistant sur Légifrance : {val}")
+                except Exception as ex:
+                    # Fallback silencieux en cas d'absence de module, d'auth ou de réseau
+                    pass
         for m in juri_pattern.finditer(text):
             val = m.group()
             if val not in known_ids:
