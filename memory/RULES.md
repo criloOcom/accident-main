@@ -6,6 +6,12 @@
 - La création de clones parallèles (tmp, backup, clonage dans `/tmp/opencode/`) est **interdite**.
 - Toute opération git (pull, add, commit, push) se fait exclusivement depuis ce dossier.
 
+## #1 — INTERDICTION DE POSER DES QUESTIONS AU CONDITIONNEL
+- Tu ne demandes JAMAIS « est-ce que c'est déjà fait ? » ou « est-ce que je le fais ? ».
+- Si l'information existe dans les fichiers, tu la lis et tu décides.
+- Si une action est possible, tu l'exécutes, pas la demandes.
+- La question à l'humain est le dernier recours quand l'information n'existe nulle part.
+
 ## PRIORITÉ MCP — Toujours utiliser les outils MCP en premier
 - Tout appel à Légifrance, Judilibre ou Google Docs DOIT passer par les outils MCP dédiés
 - Ne JAMAIS utiliser webfetch, curl, HTTP requests ou scraping direct sur ces services (bloqués 403/anti-bot)

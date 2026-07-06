@@ -88,16 +88,24 @@
 
 ---
 
-## PLAN H — RÉDACTION (PR #5)
+## ~~PLAN H — RÉDACTION (PR #5)~~ ✅ TERMINÉ
 
-### Constat
-- Clarté, dispositif, bordereaux à uniformiser
-- Charte de présentation à harmoniser
+### Résumé
+- Assignation 01 : "PAR CES MOTIFS" avec visas 145+835 CPC / 1240+1242 CC, pièces n°1-6, bordereau présent
+- Assignation 03 : "PAR CES MOTIFS" avec visas 145 CPC / L.124-3 C. Assur, pièces n°7-10, bordereau présent
+- Vérifié par lecture directe des fichiers le 6 juillet 2026
+
+---
+
+## NOUVEAU — RESTRUCTURATION TOKEN/REEL + README.md
 
 ### Actions
-1. Uniformiser les dispositions des assignations
-2. Ajouter bordereau de pièces systématique
-3. Vérifier cohérence des références aux pièces
+1. ✅ `actes/token/{00-06}` créé (documents anonymisés)
+2. ✅ `actes/reel/{01-06}` généré par `generate_real_versions.py`
+3. ✅ 17 README.md riches créées (navigation, table des fichiers, fil d'Ariane)
+4. ✅ INDEX.md → README.md (7 fichiers)
+5. ✅ `check_consistency.py` : 0 erreur, patch URL decode + path ANNEXES
+6. ✅ Règle #1 ajoutée à RULES.md
 
 ---
 

@@ -61,7 +61,7 @@ Alors que Ayoub BENNOURINE escaladait la vasque en ceramique du bac a shampoing 
 
 A la suite de cet accident, Sébastien GRAZIDE a vainement sollicite de SAS LES MAUVAIS GARCONS la communication de l'identite de son assureur de responsabilite civile professionnelle. Ni la societe, ni son President Mountasser SABIR, ni sa Directrice Generale Catherine ANDISSAC n'ont repondu aux courriers recommandes qui leur ont ete adresses le 29 juin 2026 **(Pièces n°7, n°8 et n°9)**.
 
-L'accuse de reception du courrier recommande adresse au proprietaire des murs, **[Le Proprietaire des Murs]**, a ete retourne signe le 3 juillet 2026, mais celui-ci n'a pas davantage communique l'information **(Pièce n°10)**.
+L'accuse de reception du courrier recommande adresse au proprietaire des murs, Romain DELRIEU, a ete retourne signe le 3 juillet 2026, mais celui-ci n'a pas davantage communique l'information **(Pièce n°10)**.
 
 A ce jour, l'identite de l'assureur RC professionnelle de SAS LES MAUVAIS GARCONS demeure inconnue.
 
@@ -98,7 +98,7 @@ Les demandes amiables de Sébastien GRAZIDE sont restees lettres mortes :
 - LRAR du 29 juin 2026 a SAS LES MAUVAIS GARCONS : aucun AR retourne
 - LRAR du 29 juin 2026 a Mountasser SABIR : aucun AR retourne
 - LRAR du 29 juin 2026 a Catherine ANDISSAC : aucun AR retourne
-- LRAR du 29 juin 2026 a **[Le Proprietaire des Murs]** : AR retourne signe, mais sans reponse
+- LRAR du 29 juin 2026 a Romain DELRIEU : AR retourne signe, mais sans reponse
 
 Ce silence delibere caracterise un refus de communiquer qui justifie que soit ordonnee la communication sous astreinte.
 

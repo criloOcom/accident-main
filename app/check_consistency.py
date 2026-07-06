@@ -10,11 +10,12 @@ Retourne un code non-nul si au moins une anomalie est détectée.
 import os
 import re
 import sys
+import urllib.parse
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 ACTES = REPO / "actes"
-ANNEXES = REPO / "actes" / "archives" / "annexes"
+ANNEXES = REPO / "actes" / "token" / "06_Archives" / "annexes"
 MEMORY = REPO / "memory"
 APP = REPO / "app"
 
@@ -52,14 +53,15 @@ def check_internal_links() -> None:
             target = m.group(1)
             if target.startswith("http") or target.startswith("#"):
                 continue
-            target_name = Path(target).name
+            target_decoded = urllib.parse.unquote(target)
+            target_name = Path(target_decoded).name
             if target_name not in all_md:
                 err(f"{f.name} → lien mort : {target}")
 
 
 # ── 2. Tokens connus ──────────────────────────────────────────────────
 def check_tokens() -> None:
-    annexe_a = Path("actes/06_Archives/annexes/ANNEXE A Lexique Tokens.md")
+    annexe_a = Path("actes/token/06_Archives/annexes/ANNEXE A Lexique Tokens.md")
     if not annexe_a.exists():
         err("ANNEXE_A introuvable — impossible de vérifier les tokens")
         return

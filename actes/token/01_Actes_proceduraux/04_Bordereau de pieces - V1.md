@@ -155,3 +155,15 @@ format: Arial JUSTIFIED
 ## Pièce n° 79
 
 - **01/05/2026** — Mémo sur les indemnités journalières (CPAM Haute-Garonne) : Document informatif général (Réf. CPAM 31_2399_05/26).
+
+## Pièce n° 80
+
+- **30/06/2026** — Gabarit d'attestation de témoin — Témoin client, **[La Victime]** ([22_Gabarit Attestation Témoin Client - V1.md](../02_Courriers/22_Gabarit%20Attestation%20Témoin%20Client%20-%20V1.md)) : Attestation Cerfa n° 11527\*03 destinée aux clients présents le 29 mai 2026. Récit des faits : montée du préposé sur la vasque, basculement, réflexe de la victime.
+
+## Pièce n° 81
+
+- **30/06/2026** — Gabarit d'attestation de témoin — Pompier / SAMU, **[La Victime]** ([23_Gabarit Attestation Pompier SAMU - V1.md](../02_Courriers/23_Gabarit%20Attestation%20Pompier%20SAMU%20-%20V1.md)) : Attestation Cerfa n° 11527\*03 destinée aux services de secours intervenus le 29 mai 2026. Constat de la blessure grave et du saignement abondant.
+
+## Pièce n° 82
+
+- **30/06/2026** — Gabarit d'attestation de témoin — Employé du salon, **[La Victime]** ([24_Gabarit Attestation Employé - V1.md](../02_Courriers/24_Gabarit%20Attestation%20Employé%20-%20V1.md)) : Attestation Cerfa n° 11527\*03 destinée aux employés. Précise la cassure préexistante de la vasque et l'absence de consigne de sécurité.

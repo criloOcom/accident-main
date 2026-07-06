@@ -1,4 +1,4 @@
-# STATUT D'AVANCEMENT — 5 juillet 2026
+# STATUT D'AVANCEMENT — 6 juillet 2026
 
 ## Phase 4 — Injection normalisée et renommage Drive (4-5 juillet 2026) ✅
 
@@ -380,3 +380,22 @@ La version initiale du **09 Courrier Inspection Travail** contenait une erreur f
 - **Liste des manquements (puce 4)** : remplacée par **Absence d'équipement d'accès en hauteur** avec articles L. 4121-1 (obligation générale de sécurité) et R. 4323-58 et suivants (travaux en hauteur)
 - **Version Drive mise à jour** via `replaceDocumentWithMarkdown` (même ID : `1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM`)
 - **Fichier local corrigé** : `actes/02_Courriers/09_Courrier Inspection Travail - V1.md`
+
+---
+
+## Phase 7 — Restructuration token/reel + README.md + Checker (6 juillet 2026) ✅
+
+### Ce qui a été fait
+- **Restructuration token/reel** : `actes/00-06` → `actes/token/00-06/`, `actes/07_Reel` → `actes/reel/`, script `generate_real_versions.py` réécrit (scan multi-dossiers, génération dans `actes/reel/` avec sous-dossiers miroirs + README.md)
+- **17 README.md riches** créées : fil d'Ariane, emoji, table des fichiers, navigation verticale
+- **INDEX.md → README.md** : 7 fichiers renommés
+- **Règle répertoire souverain érigée** : AGENTS.md règle #10, RULES.md règle #0, DECISIONS.md, VACCIN.md
+- **Clone parasite supprimé** (`/tmp/opencode/accident-main/`)
+- **check_consistency.py corrigé** : patch URL decode (urllib.parse.unquote) + path ANNEXES `actes/token/06_Archives/annexes` → **0 erreur, 65 avertissements bénins** (`[À compléter]` placeholders)
+- **Règle #1 RULES.md** : interdiction de poser des questions au conditionnel (vérifier par soi-même d'abord)
+- **Plan H vérifié** : assignations 01 et 03 avec "PAR CES MOTIFS" conformes, visas corrects, bordereaux présents
+
+### Vérification faite
+- `check_consistency.py` : 0 erreur ✅
+- Plan H : assignation 01 (visas 145+835 CPC / 1240+1242 CC, pièces 1-6, bordereau ✅), assignation 03 (visas 145 CPC / L.124-3 C. Assur, pièces 7-10, bordereau ✅)
+- 14 PRs mergées (#28–#41), 0 PR ouverte
