@@ -2,7 +2,7 @@
 """Batch link all legal references to Légifrance URLs inline.
 
 Processes all identified unlinked references + fixes wrong LEGIARTI IDs in ANNEXE B.
-Run from project root: python3 app/batch_link_legifrance.py
+Run from project root: python3 .dev/app/batch_link_legifrance.py
 """
 
 import re

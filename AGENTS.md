@@ -8,16 +8,18 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
 /home/crilocom/accident-main/
 ├── AGENTS.md              ← Ce fichier — point d'entrée des agents
 ├── README.md              ← Porte d'entrée publique — MAINTENIR À JOUR
-├── actes/
+├── actes/                 ← Actes juridiques (double strate token/reel)
 │   ├── token/                 ← Versions tokenisées (travail courant)
-│   │   ├── 00_Preuves_officielles/
+│   │   ├── 00_Preuves_officielles/  ← Preuves brutes + inventaire
 │   │   ├── 01_Actes_proceduraux/
 │   │   ├── 02_Courriers/
 │   │   ├── 03_Analyses_juridiques/
 │   │   ├── 04_Etudes_indemnisation/
 │   │   ├── 05_Organisation/
 │   │   └── 06_Archives/
-│   └── reel/                  ← Versions réelles (identités réelles résolues)
+│   ├── 00_Preuves_officielles/  ← Pièces brutes (source) — lié à la PIECES MAP
+│   └── reel/                  ← Versions réelles (générées par .dev/app/generate_real_versions.py)
+├── lois/                  ← Textes de loi et jurisprudence (cités dans les actes)
 ├── memory/                ← Mémoire persistante partagée entre tous les agents
 │   ├── VACCIN.md          ← 🔴 À LIRE EN PREMIER — obligatoire avant toute action
 │   ├── STATUS.md          ← État d'avancement détaillé
@@ -27,16 +29,22 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
 │   ├── DECISIONS.md       ← Décisions d'architecture et règles
 │   ├── RULES.md           ← Règles permanentes (INTERDICTIONS incluses)
 │   ├── STRICT VARIABLES.md ← Source Unique de Vérité (dates, montants, faits)
-│   ├── PIECES MAP.md      ← Correspondance document → pièces citées (Annexe C)
+│   ├── PIECES MAP.md      ← Correspondance document → pièces citées
 │   └── RAPPORT_*.md       ← Rapports d'audits, vérifications, synthèses
-├── app/
-│   ├── agent.py           ← Définition du multi-agent ADK
-│   ├── batch_anonymize.py ← Script d'anonymisation (source officielle des tokens)
-│   ├── tools.py           ← Outils MCP (Légifrance, Judilibre, Drive)
-│   └── ...
-├── skills/                ← Compétences partagées (à créer)
-│   └── ...
-└── ...
+├── reports/               ← Rapports d'audit, évaluations, plans d'action (lecture humaine)
+└── .dev/                  ← Développement, scripts, tests, déploiement (technique)
+    ├── app/               ← Scripts Python (agents, outils, pipelines)
+    │   ├── agent.py           ← Définition du multi-agent ADK
+    │   ├── batch_anonymize.py ← Script d'anonymisation
+    │   ├── tools.py           ← Outils MCP (Légifrance, Judilibre, Drive)
+    │   ├── check_consistency.py
+    │   ├── generate_real_versions.py
+    │   └── ...
+    ├── tests/             ← Tests unitaires, intégration, évaluation
+    ├── deployment/        ← Terraform, déploiement
+    ├── Dockerfile
+    ├── pyproject.toml
+    └── ...
 ```
 
 ## Règles essentielles
@@ -45,7 +53,7 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
    obligatoire. Ne pas le lire constitue une faute professionnelle.
 1. **Toute mémoire persistante** doit être dans `/home/crilocom/accident-main/memory/` — **PAS** dans un dossier privé d'agent
 2. **Toute modification** de document Google Docs doit suivre le workflow décrit dans `memory/WORKFLOW.md`
-3. **Les tokens d'anonymisation** sont définis dans `app/batch_anonymize.py` — toute modification des tokens doit être faite dans les DEUX endroits (script + TOKEN MAP.md)
+3. **Les tokens d'anonymisation** sont définis dans `.dev/app/batch_anonymize.py` — toute modification des tokens doit être faite dans les DEUX endroits (script + TOKEN MAP.md)
 4. **Compétences MCP** disponibles dans `/home/crilocom/.agents/skills/` :
    - `google-docs-linking` — insertion de liens Légifrance/Judilibre
    - `google-docs-design` — mise en page professionnelle
@@ -53,8 +61,8 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
    - `document-anonymization` — règles d'anonymisation
 5. **Interdiction absolue** d'utiliser du markdown brut, regex, ou find/replace direct sur les Google Docs — toujours passer par le workflow local puis `replaceDocumentWithMarkdown`
 6. **Google Sheets — RÈGLE ABSOLUE** : ne JAMAIS supposer la structure des colonnes. Avant d'écrire dans une feuille, **lis la ligne d'en-tête** et **3 lignes de données** pour valider le mapping exact. Supposer = cracher à la gueule de l'utilisateur.
-7. **Double strate token/reel** : les fichiers dans `actes/token/` (dossiers 00-06) DOIVENT toujours rester tokenisés (identités anonymisées). Les versions réelles (noms, adresses, email réels) sont générées dans `actes/reel/` via `app/generate_real_versions.py` — ne JAMAIS écrire de version réelle dans `actes/token/`.
-8. **GitHub Token** : stocké dans Google Secret Manager (`projects/crilo-prod-automation/secrets/GITHUB_TOKEN`). En local, il est aussi dans `~/.git-credentials` (solution de repli). Tout agent DOIT lire depuis Secret Manager, pas depuis une variable d'environnement ou un fichier `.env`.
+7. **Double strate token/reel** : les fichiers dans `actes/token/` (dossiers 00-06) DOIVENT toujours rester tokenisés (identités anonymisées). Les versions réelles (noms, adresses, email réels) sont générées dans `actes/reel/` via `.dev/app/generate_real_versions.py` — ne JAMAIS écrire de version réelle dans `actes/token/`.
+8. **GitHub Token** : stocké dans Google Secret Manager (`projects/crilo-prod-automation/secrets/GITHUB_TOKEN`). En local, il est aussi dans `~/.git-credentials` (solution de repli). Tout agent DOIT lire depuis Secret Manager, pas depuis une variable d'environnement ou un fichier `.dev/.env`.
 9. **README.md** : doit être maintenu à jour après chaque modification de la structure du projet. C'est une consigne absolue — toute création/déplacement/suppression de dossier ou fichier notable doit être répercuté dans README.md.
 10. **RÉPERTOIRE SOUVERAIN ABSOLU** : `/home/crilocom/accident-main/` est le SEUL et UNIQUE répertoire de travail local. Aucun agent ne doit créer, cloner, ou travailler dans un autre répertoire (notamment `/tmp/opencode/`, `/tmp/`, ou tout autre chemin). Toute action locale (lecture, écriture, git, scripts) se fait DEPUIS CE DOSSIER. Aucune exception.
 
@@ -68,7 +76,7 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
 6. Appliquer styles (applyParagraphStyle JUSTIFIED, tailles police)
 7. Ajouter hyperliens juridiques (applyTextStyle linkUrl) + vérifier avec MCP Légifrance
 8. Vérifier (readDocument)
-9. **Générer version réelle** : si le document doit exister en version réelle, le créer dans `actes/token/{dossier}/` puis lancer `python3 app/generate_real_versions.py`
+9. **Générer version réelle** : si le document doit exister en version réelle, le créer dans `actes/token/{dossier}/` puis lancer `python3 .dev/app/generate_real_versions.py`
 10. **Mettre à jour README.md** si nouveau fichier notable ajouté
 
 ## Workflow maintien du dossier

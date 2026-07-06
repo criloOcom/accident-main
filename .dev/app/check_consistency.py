@@ -2,7 +2,7 @@
 """Vérification cross-document : liens, tokens, LEGIARTI, cohérence frontmatter.
 
 Usage :
-    python3 app/check_consistency.py
+    python3 .dev/app/check_consistency.py
 
 Retourne un code non-nul si au moins une anomalie est détectée.
 """
