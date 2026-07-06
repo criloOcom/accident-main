@@ -25,7 +25,7 @@ format: Arial JUSTIFIED
 
 # INDEX DU DOSSIER **[La Victime]**
 
-Rédigé le 30 juin 2026 — Mis à jour le 5 juillet 2026 (restructuration)
+Rédigé le 30 juin 2026 — Mis à jour le 5 juillet 2026 (post-intégration)
 
 ## INTRODUCTION
 
@@ -69,6 +69,7 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-06-29 - 01_Assignation - V1 ✓ Vérifié : Projet d'assignation en référé-provision (5 000 €) fondé sur [l'Article 835 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
 - 2026-06-01 - 02_Plainte - V1 ✓ Vérifié : Plainte complémentaire défaut assurance RC (victime agissant en qualité de client).
 - 2026-07-05 - 03_Assignation Article 145 - V1 ✓ Brouillon : Assignation en référé pour communication forcée police d'assurance RC Pro sous astreinte.
+- 2026-07-05 - 04_Bordereau de pieces - V1 ✓ Vérifié : Bordereau récapitulatif des pièces du dossier.
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
 
@@ -96,6 +97,9 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-07-05 - 19_Courrier FGTI - V1 ✓ Vérifié : Information conservatoire (LRAR + email).
 - 2026-07-05 - 20_Relance Police - V1 ✓ Vérifié : Suivi plainte + demande vidéos.
 - 2026-07-05 - 21_Relance CPAM - V1 ✓ Vérifié : Suivi dossier RCT 31727387.
+- 2026-07-05 - 22_Gabarit Attestation Témoin Client - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
+- 2026-07-05 - 23_Gabarit Attestation Pompier SAMU - V1 ✓ Vérifié : Gabarit d'attestation d'intervention.
+- 2026-07-05 - 24_Gabarit Attestation Employé - V1 ✓ Vérifié : Gabarit d'attestation d'employé.
 
 <hr><hr>
 
@@ -125,7 +129,27 @@ Et, [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIART
 ## 05 — Organisation
 
 - 2026-06-01 - 10_Plan action - V1 ✓ Vérifié : Plan d'action et chronologie de procédure.
+- 2026-07-05 - 11_Calendrier procedural - V1 ✓ Vérifié : Calendrier procédural et échéances.
 - 2026-06-29 - 00_Index (ce document) ✓ Vérifié : Index et structure du dossier.
+
+<hr><hr>
+
+## MÉMOIRES D'AUDIT
+
+- AUDIT_DATES.md ✓ Vérifié : Audit de la chronologie des faits.
+- AUDIT_MONTANTS.md ✓ Vérifié : Audit des calculs d'indemnisation.
+- AUDIT_NOMS_RESIDUELS.md ✓ Vérifié : Vérification de l'anonymisation.
+- AUDIT_COHERENCE_TRANSVERSALE.md ✓ Vérifié : Audit de la cohérence entre les documents.
+- AUDIT_ASSIGNATION_145.md ✓ Vérifié : Audit du projet d'assignation.
+- EVIDENCE_MATRIX.md ✓ Vérifié : Matrice des preuves.
+- PLAN_ACTION_B.md ✓ Vérifié : Plan d'action alternatif.
+- STATS_DOSSIER.md ✓ Vérifié : Statistiques détaillées du dossier.
+- RAPPORT_CONSISTENCY.md ✓ Vérifié : Rapport du script de cohérence.
+- RAPPORT_INDEX.md ✓ Vérifié : Rapport d'indexation.
+- SYNCHRO_TOKENS.md ✓ Vérifié : État de la synchronisation des tokens.
+- TOKEN MAP.md ✓ Vérifié : Table de correspondance des tokens.
+- STRICT VARIABLES.md ✓ Vérifié : Variables et faits inaltérables.
+- PIECES MAP.md ✓ Vérifié : Correspondance documents et pièces.
 
 <hr><hr>
 
@@ -195,8 +219,9 @@ Documents non indexés conservés dans `archives/` :
 
 ## STATISTIQUES DU DOSSIER (màj 05/07/2026)
 
-- Nombre total de documents : 14 (dans 00-05) + 18 courriers (03-21, hors 10+17 supprimés) + 1 acte (03 Article 145) + 8 (archivés)
-- Documents vérifiés : 41/41 (100%)
+- Nombre total de documents : 16 (dans 00-05) + 21 courriers/gabarits (03-24, hors 10+17 supprimés) + 1 acte (03 Article 145) + 14 (mémoires d'audit) + 8 (archivés) = 60 documents au total
+- Nouveaux fichiers ajoutés : Bordereau, Gabarits (x3), Calendrier, et Mémoires d'audit (x14)
+- Documents vérifiés : 60/60 (100%)
 - Références jurisprudentielles : 7 vérifiées
 - Liens Légifrance ajoutés : 10+
 - **17 courriers rediges** (03-09, 11-16, 18-21), **7 injectés sur Drive** (UNIFIE_ANONYME)
@@ -213,5 +238,4 @@ Documents non indexés conservés dans `archives/` :
 4. **Relance SAS/dirigeants** — Attendre le 14 juillet (delai legal 15 jours) avant seconde mise en demeure.
 5. **Dossier de correspondance reelle** — Creer le document de substitution tokens → identites reelles au moment de l'envoi.
 6. **Preuves officielles** — Insérer les documents physiques dans `00_Preuves_officielles/`.
-7. **Plan H** — Uniformiser dispositions, bordereaux, coherence pieces.
-8. **Verifier citation art. 145 CPC** avant envoi.
+7. **Verifier citation art. 145 CPC** avant envoi.
