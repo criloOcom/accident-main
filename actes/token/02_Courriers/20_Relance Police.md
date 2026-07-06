@@ -45,21 +45,21 @@ La presente est adressee a vos services par **[La Victime]**, victime d'un accid
 
 <hr><hr>
 
-## I — OBJET DE LA RELANCE
+## OBJET DE LA RELANCE
 
 J'ai depose plainte en vos services le 1er juin 2026 (PV n° **[N° PV Police]**) et me suis constitue partie civile le **[J+4 Dépôt de plainte]**. Une requisition a personne qualifiee a ete delivree le meme jour aux fins d'examen medical.
 
 Je me permets de solliciter de vos services :
 
-**1. L'etat d'avancement de l'enquete** <br>
+### **1. L'etat d'avancement de l'enquete** <br>
 Je souhaiterais connaitre l'etat d'avancement des investigations et, si possible, une estimation du delai de traitement de la procedure.
 
-**2. La requisition des images de videosurveillance** <br>
+### **2. La requisition des images de videosurveillance** <br>
 Lors de mon depot de plainte, il a ete mentionne que l'etablissement pourrait etre equipe de cameras de videosurveillance. Ces images, si elles existent, constituent un element de preuve essentiel pour etablir les circonstances exactes de l'accident.
 
 Je sollicite donc que les images de videosurveillance de l'etablissement soient requises et conservees, conformement a l'Article 56-1 du Code de procedure penale.
 
-**3. La communication de l'identite de l'officier en charge du dossier** <br>
+### **3. La communication de l'identite de l'officier en charge du dossier** <br>
 Afin de pouvoir suivre l'avancement de la procedure, je souhaiterais connaitre l'identite du ou des officiers de police judiciaire en charge de mon dossier.
 
 Mes coordonnees : **[L'Adresse de la Victime]** — Courriel : **[L'Email de la Victime]**

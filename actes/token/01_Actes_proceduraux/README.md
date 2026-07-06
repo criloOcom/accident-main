@@ -19,6 +19,7 @@ Ces documents constituent le corps de la procédure en référé.
 | **04** | **[Bordereau de pièces - V1](04_Bordereau%20de%20pieces.md)** | — | Bordereau récapitulatif complet des pièces produites à l'appui des assignations. |
 | **05** | **[Conclusions Référé - V1](05_Conclusions%20Refere.md)** | Art. 835 CPC | Conclusions détaillées pour l'audience du **Date non fixée (à planifier)**. |
 | **06** | **[Requête Constat Huissier - V1](06_Requete%20Constat%20Huissier.md)** | Art. 145 CPC | Requête aux fins de constat d'huissier dans les locaux de l'exploitation. |
+| **07** | **[Constitution Partie Civile - V1](02b_Constitution%20Partie%20Civile.md)** | Art. 2 CPP / 222-19 CP | Constitution de partie civile complémentaire : blessures involontaires + L.227-8/L.225-251 C.com. + condamnation in solidum SAS/Président/DG. |
 
 ## 🔗 Liens vers les versions réelles
 
