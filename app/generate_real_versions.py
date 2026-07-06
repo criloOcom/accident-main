@@ -65,7 +65,7 @@ def main():
         sub_generated = []
         for filepath in sorted(glob.glob(os.path.join(input_dir, '*.md'))):
             filename = os.path.basename(filepath)
-            if filename == 'INDEX.md':
+            if filename in ('INDEX.md', 'README.md'):
                 continue
 
             with open(filepath, 'r', encoding='utf-8') as f:
@@ -86,7 +86,7 @@ def main():
             print(f"  {outpath}")
 
         if sub_generated:
-            idx_path = os.path.join(output_dir, 'INDEX.md')
+            idx_path = os.path.join(output_dir, 'README.md')
             with open(idx_path, 'w', encoding='utf-8') as f:
                 f.write(f"# Index — {subdir} (Versions Réelles)\n\n")
                 for fn in sorted(sub_generated):
