@@ -16,10 +16,9 @@
 - MONTANT_PROVISION_REFERE : 5 000 € (demande judiciaire en référé)
 - MONTANT_PROVISION_AMIABLE : 15 000 € (demande amiable en mise en demeure)
 - MONTANT_ARTICLE_700 : 3 000 €
-- MONTANT_TOTAL_ESTIME : 59 600 € (selon tableau détaillé Doc 7 : PGPA 1 400 + IP 15 000 + DFP 25 200 + SE 12 000 + Agrément 3 000 + Art.700 3 000)
+- MONTANT_TOTAL_ESTIME : 59 600 € (selon tableau détaillé : PGPA 1 400 + IP 15 000 + DFP 25 200 + SE 12 000 + Agrément 3 000 + Art.700 3 000)
 - CA_MENSUEL_MOYEN : 750 € (déclaré URSSAF, CA annuel 9 000 € net)
-- PGPA_ASSIGNATION : 7 500 € (évaluation forfaitaire dans assignation)
-- PGPA_ETUDE : 1 400 € (prorata réel : 750/30×56 jours)
+- PGPA : 1 400 € (prorata réel : 750/30×56 jours, seul montant utilisé dans tous les actes)
 - FACTURE_CHIRURGIE : 790,23 €
 - MONTANT_ASTREINTE_145 : 150 €/jour
 - MONTANT_ARTICLE_700_145 : 1 500 € (assignation article 145)
@@ -27,7 +26,6 @@
 - MONTANT_ARTICLE_475_1 : 3 000 € (constitution de partie civile — équivalent pénal de l'art. 700)
 
 ⚠ **Explication 5k€ vs 15k€** : La demande amiable (15k€) est volontairement plus élevée que la demande en référé (5k€). C'est une stratégie juridique normale : la phase amiable fixe un plafond de négociation, le référé demande un minimum immédiat. Ce n'est pas une incohérence.
-⚠ **Doc 7 vs Doc 1** : Les deux documents utilisent des bases de calcul PGPA différentes (forfaitaire vs prorata réel). Ce n'est pas une contradiction — l'assignation fait une estimation large, l'étude détaille le calcul précis. Les deux peuvent coexister.
 
 ## Dates clés (⚠ précision absolue requise)
 - DATE_ACCIDENT : **29 mai 2026** (vendredi)
@@ -43,7 +41,7 @@
 - CAPITAL_SOCIAL : 200 € (2 000 actions de 0,10 €)
 - MAIN_ATTEINTE : Main droite uniquement — index droit (⚠ jamais 5e doigt/auriculaire)
 - ZONE_LESEE : Index droit uniquement (section partielle tendon fléchisseur + paquet collatéral + neurolyse nerf palmaire)
-- PREUVE_BANCAIRE : Wero 15,00 € payé puis remboursé le jour même (aveu implicite de responsabilité)
+- PREUVE_BANCAIRE : Wero 15,00 € payé puis remboursé le jour même (preuve de présence matérielle dans les lieux et de relation contractuelle)
 - DATE_ACCIDENT_CERTIFICAT_ERREUR : Certains certificats mentionnent 29/06/2026 par erreur (date réelle : 29/05/2026)
 
 ## Mécanisme de l'accident (VÉRITÉ FACTUELLE)

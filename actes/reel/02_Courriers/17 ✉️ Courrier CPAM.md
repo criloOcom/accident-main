@@ -101,7 +101,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 |----|-------|------|
 | 8 | Recu de depot de plainte (Police Nationale, PV n° 2026/015967) | **[J+4 Depot de plainte]** |
 | 9 | Mises en demeure LRAR (SAS + dirigeants + proprietaire) | 29 juin 2026 |
-| 10 | Preuve de paiement Wero 15,00 € (aveu implicite de responsabilite) | 29 mai 2026 |
+| 10 | Preuve de paiement Wero 15,00 € (preuve de presence materielle) | 29 mai 2026 |
 | 11 | Assignation refere-provision (Art. 835 CPC) | **[J+32 Assignation refere]** |
 | 12 | Assignation Article 145 CPC (communication assurance) | 5 juillet 2026 |
 | 13 | Constitution de partie civile (Art. 222-19/222-20 CP) | 6 juillet 2026 |

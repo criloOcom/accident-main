@@ -61,7 +61,7 @@ format: Arial JUSTIFIED
 
 ### Pièce n° 6
 
-- 29 mai 2026 — Paiement et remboursement Wero : Paiement de 15 € pour la prestation de coiffure (IPR000297029234), suivi d'un remboursement immédiat des 15 € par Ayoub BENNOURINE (reconnaissance tacite de responsabilité et preuve de présence commerciale).
+- 29 mai 2026 — Paiement et remboursement Wero : Paiement de 15 € pour la prestation de coiffure (IPR000297029234), suivi d'un remboursement immédiat des 15 € par Ayoub BENNOURINE (preuve de présence matérielle dans les lieux et de relation contractuelle de prestation).
 
 ### Pièce n° 7
 

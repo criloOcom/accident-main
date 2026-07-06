@@ -61,7 +61,7 @@ format: Arial JUSTIFIED
 
 ### Pièce n° 6
 
-- **[J+0 Accident]** — Paiement et remboursement Wero : Paiement de 15 € pour la prestation de coiffure (**[N° Transaction Wero]**), suivi d'un remboursement immédiat des 15 € par **[Le Préposé de l'Exploitation]** (reconnaissance tacite de responsabilité et preuve de présence commerciale).
+- **[J+0 Accident]** — Paiement et remboursement Wero : Paiement de 15 € pour la prestation de coiffure (**[N° Transaction Wero]**), suivi d'un remboursement immédiat des 15 € par **[Le Préposé de l'Exploitation]** (preuve de présence matérielle dans les lieux et de relation contractuelle de prestation).
 
 ### Pièce n° 7
 

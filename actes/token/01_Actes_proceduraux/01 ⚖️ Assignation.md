@@ -141,7 +141,7 @@ Le référentiel indicatif des cours d'appel fixe la fourchette des provisions p
 
 **2. La provision est proportionnée au préjudice global estimé**
 
-Le préjudice global est estimé à **59 600 €** selon la nomenclature Dintilhac (PGPA : 7 500 €, DFP : 25 200 €, SE : 12 000 €, IP : 15 000 €). La provision de 5 000 € représente moins de **10 % du préjudice total**, ce qui est raisonnable et proportionné.
+Le préjudice global est estimé à **59 600 €** selon la nomenclature Dintilhac (PGPA : 1 400 €, DFP : 25 200 €, SE : 12 000 €, IP : 15 000 €, Préjudice d'agrément : 3 000 €, Frais art. 700 CPC : 3 000 €). Ce montant correspond à l'évaluation détaillée figurant au sein de l'étude d'indemnisation produite par la victime. La provision de 5 000 € représente moins de **10 % du préjudice total**, ce qui est raisonnable et proportionné.
 
 **3. La provision inclut une part *ad litem***
 
@@ -164,7 +164,7 @@ Les mises en demeure adressées le **[J+31 Mises en demeure]** sont restées san
 **[La Victime]** est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.
 
 - **Pertes de Gains Professionnels Actuels (PGPA)** : <br>
-    Evaluées à 7 500 € au titre du préjudice d'exploitation durant les 56 jours d'ITT.
+    Evaluées à 1 400 € au titre de la perte de revenus durant les 56 jours d'ITT (sur la base du chiffre d'affaires mensuel moyen de 750 € déclaré à l'URSSAF).
 
 - **Déficit Fonctionnel Permanent (DFP / AIPP)** : <br>
     Chiffrage provisionnel et indicatif, sous réserve de consolidation médicale future et d'expertise judiciaire contradictoire. Estimation provisoire sur la base d'un taux de 12 % (25 200 € au barème de capitalisation pour un homme de 44 ans).
@@ -174,6 +174,12 @@ Les mises en demeure adressées le **[J+31 Mises en demeure]** sont restées san
 
 - **Incidence Professionnelle (IP)** : <br>
     Prévisions d'aménagements ergonomiques spécifiques de poste informatique estimées à 15 000 € (claviers et souris adaptés).
+
+- **Préjudice d'Agrément** : <br>
+    Estimation à 3 000 € au titre de la privation temporaire des activités personnelles de codage et de la pratique de la guitare.
+
+- **Frais Article 700 CPC** : <br>
+    Estimation à 3 000 € au titre des frais irrépétibles exposés.
 
 Dans l'attente du dépôt du rapport de l'expert judiciaire, **[La Victime]** sollicite l'allocation d'une provision de 5 000 € à valoir sur l'indemnisation finale de son préjudice corporel.
 

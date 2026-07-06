@@ -101,7 +101,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 |----|-------|------|
 | 8 | Recu de depot de plainte (Police Nationale, PV n° **[N° PV Police]**) | **[J+4 Depot de plainte]** |
 | 9 | Mises en demeure LRAR (SAS + dirigeants + proprietaire) | **[J+31 Mises en demeure]** |
-| 10 | Preuve de paiement Wero 15,00 € (aveu implicite de responsabilite) | **[J+0 Accident]** |
+| 10 | Preuve de paiement Wero 15,00 € (preuve de presence materielle) | **[J+0 Accident]** |
 | 11 | Assignation refere-provision (Art. 835 CPC) | **[J+32 Assignation refere]** |
 | 12 | Assignation Article 145 CPC (communication assurance) | **[J+37 Assignation 145]** |
 | 13 | Constitution de partie civile (Art. 222-19/222-20 CP) | **[J+38 Constitution PC]** |

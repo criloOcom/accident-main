@@ -166,3 +166,7 @@ format: Arial JUSTIFIED
 ## Pièce n° 82
 
 - 30 juin 2026 — Gabarit d'attestation de témoin — Employé du salon, Sébastien GRAZIDE ([24 📋 Attestation Employé.md](../02_Courriers/24%20%F0%9F%93%8B%20Attestation%20Employ%C3%A9.md)) : Attestation Cerfa n° 11527\*03 destinée aux employés. Précise la cassure préexistante de la vasque et l'absence de consigne de sécurité.
+
+## Pièce n° 83
+
+- **Non précisé** — Devis matériels ergonomiques pour Incidence Professionnelle (IP) : Devis logiciel de dictée vocale Dragon Professional, clavier ergonomique scindé, souris verticale. Justification du poste IP à 15 000 €.

@@ -84,7 +84,7 @@ L'accident trouve son origine dans la manœuvre imprudente d'un employé prépos
 
 En tentant instinctivement de retenir le meuble pour éviter une chute plus grave, la main droite de Sébastien GRAZIDE a percuté une vasque en céramique avec cassure préexistante. Les arêtes tranchantes de la vasque ont causé des lésions profondes.
 
-Il est à noter que l'établissement a procédé à un remboursement symbolique de 15 €, ce qui constitue un aveu implicite de l'anormalité de la chose et de la faute du préposé sous la garde de SAS LES MAUVAIS GARCONS, conformément à l'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000).
+Il est à noter que l'établissement a procédé à un remboursement de 15 €, attestant de la réalité de la prestation et de la présence de la victime dans les lieux, sans préjudice de l'analyse juridique des causes de l'accident fondée sur l'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000).
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
