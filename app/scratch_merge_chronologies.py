@@ -12,9 +12,9 @@ def main():
     print("Début de la synchronisation de la chronologie unifiée...")
     
     # 1. Charger les fichiers sources intermédiaires
-    with open('scratch_dest_rows.json') as f:
+    with open('data/scratch/scratch_dest_rows.json') as f:
         dest_rows = json.load(f)
-    with open('scratch_final_new_rows.json') as f:
+    with open('data/scratch/scratch_final_new_rows.json') as f:
         new_rows = json.load(f)
 
     # 2. Re-déduire les doublons avec logique renforcée
