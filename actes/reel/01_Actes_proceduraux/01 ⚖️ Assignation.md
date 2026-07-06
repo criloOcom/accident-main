@@ -125,7 +125,7 @@ En outre, l'[Article L.217-1 du Code de la consommation](https://www.legifrance.
 
 > « Le professionnel délivre un bien conforme au contrat ainsi qu'aux critères énoncés à l'article L. 217-5. Il répond des défauts de conformité existant lors de la délivrance du bien au sens de l'article L. 217-13. »
 
-La prestation de coiffure réalisée n'était manifestement pas conforme aux exigences de sécurité légitimes d'un consommateur : le défaut d'entretien de la vasque en céramique (cassure préexistante non signalée) et l'absence d'équipement d'accès adapté (escabeau) constituent un manquement à l'obligation de sécurité inhérente à toute prestation de service relevant du Code de la consommation. Ce fondement complémentaire renforce l'absence de contestation sérieuse de l'obligation à réparation.
+La prestation de coiffure réalisée n'était manifestement pas conforme aux exigences de sécurité légitimes d'un consommateur : le défaut d'entretien de la vasque en céramique (cassure préexistante non signalée) et l'absence d'équipement d'accès adapté (escabeau) constituent un manquement à l'obligation de sécurité inhérente à toute prestation de service relevant du Code de la consommation. Ce fondement complémentaire (droit de la consommation) renforce l'absence de contestation sérieuse sans se substituer au fondement principal de la responsabilité civile délictuelle (art. 1240, 1242 C. civ.), offrant ainsi un double socle juridique à la demande.
 
 ### C. Sur la demande d'expertise médicale
 
@@ -159,9 +159,9 @@ Le préjudice global est estimé à **59 600 €** selon la nomenclature Dintilh
 
 La demande inclut implicitement une provision *ad litem* destinée à couvrir les frais irrépétibles immédiats (honoraires d'avocat, frais de médecin-conseil, constat d'huissier, envois LRAR, déplacements). Cette pratique est validée par la jurisprudence dès lors que l'obligation n'est pas sérieusement contestable (Cass. 2e Civ.).
 
-**4. Aucune offre amiable n'a été formulée**
+**4. Absence de contestation sérieuse établie par les faits**
 
-Les mises en demeure adressées le 29 juin 2026 sont restées sans réponse. L'absence d'offre amiable dans le délai de 15 jours caractérise l'absence de contestation sérieuse de la part du débiteur et justifie l'intervention du juge des référés.
+Aucun élément versé aux débats ne permet de contester sérieusement ni la matérialité des faits (PV de police, pièce n°5), ni le lien de causalité direct entre le défaut d'entretien de la vasque en céramique et les lésions constatées (CR opératoire SOS Main, pièce n°3), ni l'existence de la relation commerciale (paiement Wero, pièce n°1). L'obligation à réparation de SAS LES MAUVAIS GARCONS n'est donc pas sérieusement contestable au sens de l'article 835 alinéa 2 du Code de procédure civile.
 
 **5. Jurisprudence**
 

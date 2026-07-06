@@ -79,7 +79,7 @@ Cependant, les diligences amiables (mises en demeure) sont restées vaines, lais
 
 ### 5. Sur le fondement du droit de la consommation
 
-Le salon de coiffure, en tant que professionnel, est tenu à une obligation d'information précontractuelle (Art. [L.111-1 C.consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650)) et à une garantie de conformité du service fourni (Art. [L.217-1 C.consommation](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032227138/)). La prestation de coiffure réalisée n'était manifestement pas conforme aux exigences de sécurité légitimes d'un consommateur, entraînant un dommage corporel grave. Ce fondement complémentaire renforce l'absence de contestation sérieuse au sens de l'article 835 du Code de procédure civile.
+Le salon de coiffure, en tant que professionnel, est tenu à une obligation d'information précontractuelle (Art. [L.111-1 C.consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650)) et à une garantie de conformité du service fourni (Art. [L.217-1 C.consommation](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032227138/)). La prestation de coiffure réalisée n'était manifestement pas conforme aux exigences de sécurité légitimes d'un consommateur, entraînant un dommage corporel grave. Ce fondement complémentaire (droit de la consommation) renforce l'absence de contestation sérieuse sans se substituer au fondement principal de la responsabilité civile délictuelle (art. 1240, 1242 C. civ.), offrant ainsi un double socle juridique à la demande.
 
 <hr><hr>
 

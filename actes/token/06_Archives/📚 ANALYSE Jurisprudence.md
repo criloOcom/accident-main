@@ -32,23 +32,7 @@ format: Arial JUSTIFIED
 - [Conclusion](#conclusion)
 
 
-titre: Rapport d'Expertise Juridique — Analyse des Préjudices Corporels
-date: 2026-06-30
-type: acte
-categorie: analyse
-auteur: La Victime
-destinataire: null
-personnes:
-  - La Victime
-tags:
-  - expertise
-  - jurisprudence
-  - préjudice
-  - dintilhac
-statut: final
-source: drive
-drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
----
+
 
 # RAPPORT D'EXPERTISE JURIDIQUE : ACCIDENT CORPOREL DE LA VICTIME
 

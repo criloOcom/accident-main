@@ -143,7 +143,7 @@ La jurisprudence [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifran
 
 ## V. JURISPRUDENCE COMPARATIVE
 
-### D. Jurisprudence comparative (arrêts vérifiés)
+### A. Tableau des arrêts comparatifs vérifiés
 
 Les arrêts suivants, déjà intégrés dans le dossier, confirment la cohérence de l'évaluation des préjudices et des fondements juridiques retenus :
 
