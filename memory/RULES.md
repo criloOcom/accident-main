@@ -1,5 +1,10 @@
 # RÈGLES PERMANENTES — Dossier Accident de la Main
 
+## VÉRIFICATION API AVANT INTÉGRATION
+- TOUTE nouvelle citation juridique (LEGIARTI, JURITEXT, n° pourvoi) DOIT être vérifiée via MCP Légifrance/Judilibre AVANT intégration
+- Le checker exécute désormais cette vérification automatiquement
+- Ne JAMAIS contourner cette règle — une jurisprudence fabriquée invalide tout le dossier
+
 ## #0 — RÉPERTOIRE SOUVERAIN LOCAL
 - Le répertoire de travail local est et restera toujours **`/home/crilocom/accident-main/`**.
 - Aucun agent, quel qu'il soit, ne peut travailler ailleurs. Aucune exception.

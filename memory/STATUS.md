@@ -1,5 +1,24 @@
 # STATUT D'AVANCEMENT — 6 juillet 2026
 
+## Phase 6-10 — Corrections audit + scellement (6 juillet 2026) ✅
+
+### Ce qui a été fait
+- **Phase 1** : Purge jurisprudence fabriquée `07-83.385` et correction `91-11.207` en `91-11.285` (JURITEXT000007030228).
+- **Phase 2** : Correction LEGIARTI Art.1240 et 835 CPC (remplacés par version en VIGUEUR).
+- **Phase 3** : Anonymisation noms réels résiduels dans `token/` + renommage du fichier courrier 08 pour éliminer la fuite nominale.
+- **Phase 4** : Correction date `ANNEXE A` (29 juin → 29 mai pour l'accident).
+- **Phase 5** : Checker amélioré avec vérification API Légifrance en temps réel.
+- **Phase 6** : Nettoyage des fichiers orphelins dans `reel/` (suppression de `08_Courrier Suivi TAVELLA.md`).
+- **Phase 7** : Vérification sur le Drive des documents `UNIFIE_ANONYME` (Doc 1 et 3 vérifiés avec LEGIARTIs corrects).
+- **Phase 8** : Double vérification croisée (liens Légifrance testés + absence de noms réels hors `ANNEXE A` scannée).
+- **Phase 9** : Test du checker amélioré concluant (détection et blocage d'un LEGIARTI invalide non listé).
+
+### État final
+- `python3 app/check_consistency.py` : 0 erreur
+- `token/` : 58 fichiers — aucun nom réel hors `ANNEXE A Lexique Tokens.md`
+- `reel/` : 55 fichiers — synchronisé
+- Drive : docs `UNIFIE_ANONYME` vérifiés et conformes
+
 ## Phase 4 — Injection normalisée et renommage Drive (4-5 juillet 2026) ✅
 
 ### Ce qui a été fait
