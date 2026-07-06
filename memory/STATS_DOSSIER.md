@@ -5,27 +5,22 @@ format: Arial JUSTIFIED
 # Statistiques Générales du Dossier
 
 ## 1. Fichiers et Documents (`actes/`)
-Le dossier comporte **36 fichiers .md** répartis dans les sous-dossiers :
-- `01_Actes_proceduraux` : 3
-- `02_Courriers` : 17
-- `03_Analyses_juridiques` : 3
-- `04_Etudes_indemnisation` : 1
-- `05_Organisation` : 2
-- `06_Archives` : 10
+Le dossier comporte **62 fichiers .md** répartis dans les sous-dossiers :
+- `00_Preuves_officielles` : 2
+- `01_Actes_proceduraux` : 9
+- `02_Courriers` : 27
+- `03_Analyses_juridiques` : 5
+- `04_Etudes_indemnisation` : 2
+- `05_Organisation` : 5
+- `06_Archives` : 11
 
 ## 2. Anonymisation (`memory/TOKEN MAP.md`)
 Le fichier de mappage compte **22 tokens** uniques recensant les personnes physiques, morales et données localisantes/identifiantes.
 
-## 3. Chronologie des Événements (`scratch_master_final.json`)
-La timeline couvre un total de **61 événements**, allant du 26/01/1993 au 12/11/2026.
-Répartition par catégorie :
-- **Correspondance** : 14
-- **Fait Générateur** : 1
-- **Financier** : 2
-- **Jurisprudence** : 5
-- **Médical** : 26
-- **Procédure** : 12
-- **Échéance** : 1
+## 3. Chronologie des Événements
+La timeline des faits couvre la période du 29/05/2026 (accident) au 12/11/2026 (expertise médicale).
+Étapes clés : accident → chirurgie → plainte → mises en demeure → assignation référé → expertise.
+La chronologie détaillée est intégrée dans les actes (notamment `01_Actes_proceduraux`).
 
 ## 4. Pièces Justificatives (`memory/PIECES MAP.md`)
 La cartographie des pièces totalise **44 pièces uniques** (liens Google Drive uniques).

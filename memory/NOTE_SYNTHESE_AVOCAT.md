@@ -10,26 +10,26 @@ format: Arial JUSTIFIED
 
 **Quoi :** Accident corporel survenu le 29 mai 2026. Lésions graves à la main droite (section partielle du tendon fléchisseur, du paquet collatéral et nécessité d'une neurolyse du nerf palmaire de l'index droit).
 **Contre qui :** SAS LES MAUVAIS GARÇONS (exploitante du commerce) ainsi que ses dirigeants agissant à titre personnel (faute détachable).
-**Où en est-on :** La phase amiable s'est clôturée le 14 juillet 2026 suite à des mises en demeure restées infructueuses. Une assignation en référé est initiée en vue de l'audience fixée au Date non fixée (à planifier).
+**Où en est-on :** La phase amiable s'est clôturée le 14 juillet 2026 suite à des mises en demeure restées infructueuses. Une assignation en référé est initiée (audience à fixer).
 **Montant total estimé des préjudices :** 59 600 €
 
 <hr><hr>
 
 ## 2. Parties
 
-| Rôle | Token d'anonymisation | Identité Réelle |
-| :--- | :--- | :--- |
-| Victime | **[La Victime]** | Sébastien GRAZIDE |
-| Président de l'exploitation | **[Le Président de l'Exploitation]** | Mountasser SABIR |
-| Directrice Générale | **[La Directrice Générale de l'Exploitation]** | Catherine ANDISSAC |
-| Préposé (coiffeur) | **[Le Préposé de l'Exploitation]** | Ayoub BENNOURINE |
-| Propriétaire des murs | **[Le Propriétaire des Murs]** | Romain DELRIEU |
-| Chirurgien SOS Main | **[Le Chirurgien SOS Main]** | Dr Iskander DJERBI |
-| Médecin en Urgence | **[Le Médecin en Urgence]** | Dr Julie JARDON |
-| Médecin Généraliste | **[Le Médecin Généraliste]** | Dr OXYBEL |
-| Gestionnaire CPAM | **[La Gestionnaire CPAM]** | Sigrid DESBOIS |
-| Exploitant du commerce | **[L'Exploitant du Commerce (La SAS)]** | SAS LES MAUVAIS GARCONS |
-| Établissement SOS Main | **[L'Établissement SOS Main]** | Clinique de l'Union |
+| Rôle | Token d'anonymisation |
+| :--- | :--- |
+| Victime | **[La Victime]** |
+| Président de l'exploitation | **[Le Président de l'Exploitation]** |
+| Directrice Générale | **[La Directrice Générale de l'Exploitation]** |
+| Préposé (coiffeur) | **[Le Préposé de l'Exploitation]** |
+| Propriétaire des murs | **[Le Propriétaire des Murs]** |
+| Chirurgien SOS Main | **[Le Chirurgien SOS Main]** |
+| Médecin en Urgence | **[Le Médecin en Urgence]** |
+| Médecin Généraliste | **[Le Médecin Généraliste]** |
+| Gestionnaire CPAM | **[La Gestionnaire CPAM]** |
+| Exploitant du commerce | **[L'Exploitant du Commerce (La SAS)]** |
+| Établissement SOS Main | **[L'Établissement SOS Main]** |
 
 <hr><hr>
 
@@ -109,14 +109,14 @@ Le montant total estimé des préjudices est de **59 600 €**, réparti comme s
 ## 7. Calendrier
 
 - **14 juillet 2026 :** Fin de la phase amiable (échéance des mises en demeure de 15 jours).
-- **Date non fixée (à planifier) :** Audience de référé (demande de provision de 5 000 € et communication sous astreinte de l'assurance RC Pro).
+- **[J+32 — assignation référé] :** Audience de référé (demande de provision de 5 000 € et communication sous astreinte de l'assurance RC Pro).
 - **12 novembre 2026 :** Expertise médicale judiciaire (évaluation des taux de DFP et de l'état de consolidation de **[La Victime]**).
 
 <hr><hr>
 
 ## 8. Plan d'Action Stratégique
 
-### Court terme (Pré-audience du Date non fixée (à planifier))
+### Court terme (Pré-audience de référé)
 - Sécuriser les preuves matérielles (Plan B) : huissier pour constater l'état de la vasque, réquisition de vidéosurveillance.
 - Tenter d'obtenir des témoignages de clients (Attestations Cerfa).
 - Forcer la communication de la police d'assurance RC Pro de **[L'Exploitant du Commerce (La SAS)]** lors de l'audience de référé.
