@@ -52,7 +52,7 @@ Rappel des obligations légales
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
-[L'article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) dispose que les dirigeants d'une société commerciale sont responsables, individuellement ou solidairement, envers les tiers des conséquences dommageables de leurs actes. Le défaut d'information sur l'assurance constitue un manquement à l'obligation de loyauté contractuelle.
+[L'article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) dispose que les dirigeants d'une société commerciale sont responsables, individuellement ou solidairement, envers les tiers des conséquences dommageables de leurs actes. Le défaut d'information sur l'assurance constitue un manquement à l'obligation de loyauté contractuelle.
 
 > « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. »
 
