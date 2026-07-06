@@ -78,7 +78,7 @@ Partage depuis : **[L'Email de la Victime]**
 
 - 2026-06-01 - 05_Courrier Proprietaire - V1 ✓ Vérifié : Demande d'information au propriétaire des murs (détient l'attestation d'assurance RC Pro du locataire via le bail commercial).
 
-- 2026-06-29 - 06_Courrier **[Le Président de l'Exploitation]** + **[La Directrice Générale de l'Exploitation]** - V1 ✓ Vérifié : Mise en demeure personnelle aux dirigeants.
+- 2026-06-29 - 06_Courrier President DG - V1 ✓ Vérifié : Mise en demeure personnelle aux dirigeants.
 - 2026-07-05 - 07_Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au Dr DJERBI.
 - 2026-07-05 - 08_Courrier Suivi TAVELLA - V1 ✓ Vérifié : Suivi Inspection du Travail + CODAF (réponse adjoint au maire).
 - 2026-07-05 - 09_Courrier Inspection Travail - V1 ✓ Vérifié : Demande d'enquête directe à la DDETS/DREETS.
@@ -112,7 +112,6 @@ Et, [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIART
 ## 04 — Études d'indemnisation
 
 - 2026-06-01 - 11_Etude indemnisation - V1 ✓ Vérifié : Étude d'indemnisation des préjudices corporels selon la **[réparation intégrale]**(https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278).
-- 2026-06-29 - 12_Tableau prejudices - V1 ✓ Vérifié : Tableau récapitulatif des postes de préjudices.
 
 > Attendu : « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »
 > Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
