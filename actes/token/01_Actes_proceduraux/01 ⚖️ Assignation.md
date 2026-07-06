@@ -16,10 +16,11 @@ personnes:
 - Le Préposé de l'Exploitation
 - Nom de l'Avocat de la Victime
 tags:
-- assignation
-- référé
-- provision
-- expertise médicale
+  - assignation
+  - référé
+  - provision
+  - expertise médicale
+  - article 145
 statut: final
 source: drive
 drive_id: 1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg
@@ -60,8 +61,11 @@ PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCI
 - [I. EXPOSÉ DES FAITS](#i-expos-des-faits)
 - [II. DISCUSSION JURIDIQUE](#ii-discussion-juridique)
   - [A. Sur le principe de la responsabilité civile délictuelle](#a-sur-le-principe-de-la-responsabilit-civile-dlictuelle)
-  - [B. Sur la demande d'expertise médicale](#b-sur-la-demande-dexpertise-mdicale)
-  - [C. Sur l'octroi d'une provision financière](#c-sur-loctroi-dune-provision-financire)
+  - [B. Sur le fondement du droit de la consommation](#b-sur-le-fondement-du-droit-de-la-consommation)
+  - [C. Sur la demande d'expertise médicale](#c-sur-la-demande-dexpertise-mdicale)
+  - [D. Sur l'octroi d'une provision financière](#d-sur-loctroi-dune-provision-financire)
+  - [E. Justification du montant de la provision](#e-justification-du-montant-de-la-provision)
+  - [F. Sur la communication forcée de la police d'assurance](#f-sur-la-communication-force-de-la-police-dassurance)
 - [III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)](#iii-valuation-provisoire-des-prjudices-nomenclature-dintilhac)
 - [PAR CES MOTIFS](#par-ces-motifs)
 
@@ -171,6 +175,18 @@ Aucun élément versé aux débats ne permet de contester sérieusement ni la ma
 
 <hr><hr>
 
+### F. Sur la communication forcée de la police d'assurance
+
+Sur le fondement de l'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339), **[La Victime]** sollicite également la communication forcée de la police d'assurance de responsabilité civile professionnelle de **[L'Exploitant du Commerce (La SAS)]**, dont l'identité demeure inconnue malgré les mises en demeure restées sans réponse (**[J+31 Mises en demeure]**).
+
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
+
+Le motif légitime est caractérisé par l'impossibilité pour la victime d'exercer son action directe (Art. L.124-3 C. assurances) sans connaître l'identité de l'assureur. La jurisprudence admet que la communication forcée d'un document contractuel constitue une mesure d'instruction licite au sens de l'Article 145 CPC (Cass. Civ. 2e, 8 mars 2012, n° 11-14.339).
+
+Il est donc demandé au juge des référés d'ordonner à **[L'Exploitant du Commerce (La SAS)]** de communiquer sa police d'assurance sous astreinte de 150 € par jour de retard.
+
+<hr><hr>
+
 ## III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)
 
 **[La Victime]** est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.
@@ -201,6 +217,7 @@ Dans l'attente du dépôt du rapport de l'expert judiciaire, **[La Victime]** so
 
 Vu les articles 145 et 835 du Code de procédure civile,
 Vu les articles 1240 et 1242 du Code civil,
+Vu l'article L. 124-3 du Code des assurances,
 Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
 Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu les pièces versées aux débats,
@@ -211,9 +228,15 @@ Vu les pièces versées aux débats,
 
 2. **DÉSIGNER** tel expert médical qu'il plaira au tribunal avec pour mission habituelle d'évaluer les postes de préjudices corporels conformément à la nomenclature Dintilhac ;
 
-3. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à verser à **[La Victime]** la somme de 5 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
+3. **ORDONNER** à la SAS **[L'Exploitant du Commerce (La SAS)]** de communiquer à **[La Victime]** l'intégralité de sa police d'assurance de responsabilité civile professionnelle en vigueur au **[J+0 Accident]** ou, à défaut, une attestation de l'assureur mentionnant la dénomination et l'adresse de la compagnie, le numéro de police, les garanties souscrites et leurs plafonds, et la validité du contrat à la date du sinistre ;
 
-4. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à payer à **[La Victime]** la somme de 3 000 € sur le fondement de l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647394), ainsi qu'aux entiers dépens.
+4. **ASSORTIR** cette obligation d'une astreinte de 150 € par jour de retard à compter du 8ème jour suivant la signification de l'ordonnance à intervenir ;
+
+5. **SE RÉSERVER** la liquidation de l'astreinte ;
+
+6. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à verser à **[La Victime]** la somme de 5 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
+
+7. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à payer à **[La Victime]** la somme de 3 000 € sur le fondement de l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647394), ainsi qu'aux entiers dépens.
 
 <hr><hr>
 
@@ -225,6 +248,10 @@ Vu les pièces versées aux débats,
 - **Pièce n°4 :** Certificats médicaux d'arrêts de travail justifiant 56 jours d'ITT
 - **Pièce n°5 :** Dépôt de plainte officielle et procès-verbal de police pour blessures involontaires
 - **Pièce n°6 :** Dossier de Recours Contre Tiers (RCT) CPAM
+- **Pièce n°7 :** LRAR de mise en demeure adressée à **[L'Exploitant du Commerce (La SAS)]** (**[J+31 Mises en demeure]**)
+- **Pièce n°8 :** LRAR de mise en demeure adressée à **[Le Président de l'Exploitation]** (**[J+31 Mises en demeure]**)
+- **Pièce n°9 :** LRAR de mise en demeure adressée à **[La Directrice Générale de l'Exploitation]** (**[J+31 Mises en demeure]**)
+- **Pièce n°10 :** LRAR adressée à **[Le Propriétaire des Murs]** et son AR signé (**[J+35 AR propriétaire]**)
 
 <hr><hr>
 

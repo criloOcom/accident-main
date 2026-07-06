@@ -13,7 +13,7 @@ tags:
   - référé
   - provision
   - contentieux civil
-statut: draft
+statut: final
 format: Arial JUSTIFIED
 ---
 
@@ -99,7 +99,7 @@ Par ces motifs, et ceux qui pourront être suppléés, il est demandé au Prési
 
 - **ORDONNER** l'exécution provisoire de l'ordonnance à intervenir.
 
-Fait à Foix, le Date non fixée (à planifier).
+Fait à Foix, le 30 juin 2026.
 
 Sébastien GRAZIDE
 

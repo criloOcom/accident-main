@@ -18,7 +18,7 @@ tags:
 - article 145
 - assurance
 - astreinte
-statut: brouillon
+statut: fusionné_dans_01
 source: drive
 drive_id: 1R26179ks7vLkzw0hYEHL888i0p1VS9ppa6s8R8kQ_gg
 format: Arial JUSTIFIED

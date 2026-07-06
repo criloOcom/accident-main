@@ -16,7 +16,7 @@ tags:
 - penal
 - blessures involontaires
 - L.227-8
-statut: brouillon
+statut: final
 source: drive
 drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
 format: Arial JUSTIFIED
@@ -166,7 +166,7 @@ Par ces motifs, **[La Victime]** sollicite qu'il plaise a Monsieur le Doyen des 
 
 2. **DESIGNER** tel expert Medical qu'il plaira au tribunal avec mission d'evaluer l'integralite des chefs de prejudice selon la nomenclature Dintilhac ;
 
-3. **ACCORDER** a **[La Victime]** une provision de 5 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS **[L'Exploitant du Commerce (La SAS)]**, de **[Le President de l'Exploitation]** et de **[La Directrice Generale de l'Exploitation]** ;
+3. **ACCORDER** a **[La Victime]** une provision conservatoire de 5 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS **[L'Exploitant du Commerce (La SAS)]**, de **[Le President de l'Exploitation]** et de **[La Directrice Generale de l'Exploitation]** ;
 
 4. **CONDAMNER IN SOLIDUM** la SAS **[L'Exploitant du Commerce (La SAS)]**, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a **[La Victime]** la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
 
@@ -189,7 +189,7 @@ Vu les pieces versees aux debats,
 
 2. **ORDONNER** une expertise medicale judiciaire ;
 
-3. **CONDAMNER IN SOLIDUM** la SAS **[L'Exploitant du Commerce (La SAS)]**, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a verser a **[La Victime]** une provision de 5 000 € a valoir sur la reparation definitive de ses prejudices ;
+3. **CONDAMNER IN SOLIDUM** la SAS **[L'Exploitant du Commerce (La SAS)]**, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a verser a **[La Victime]** une provision conservatoire de 5 000 € a valoir sur la reparation definitive de ses prejudices ;
 
 4. **CONDAMNER IN SOLIDUM** la SAS **[L'Exploitant du Commerce (La SAS)]**, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a **[La Victime]** la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
 
