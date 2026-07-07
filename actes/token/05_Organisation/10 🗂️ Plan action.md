@@ -63,7 +63,7 @@ Dès juillet 2026, en l'absence de réponse satisfaisante sous 15 jours, une ass
 
 Cette procédure permet de solliciter judiciairement une avance financière (provision) et la nomination d'un expert médical judiciaire pour évaluer les taux de déficit fonctionnel et les souffrances endurées.
 
-Par ailleurs, si la société persiste dans son refus de communiquer les coordonnées de sa compagnie d'assurance, une procédure de référé-communication sur le fondement de l'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) (CPC) sera engagée parallèlement en juillet 2026. Cette action vise à contraindre judiciairement l'exploitant à produire son attestation d'assurance sous astreinte journalière de retard pour permettre l'exercice de l'action directe.
+Par ailleurs, si la société persiste dans son refus de communiquer les coordonnées de sa compagnie d'assurance, une procédure de référé-communication sur le fondement de l'article 145 du Code de procédure civile (CPC) sera engagée parallèlement en juillet 2026. Cette action vise à contraindre judiciairement l'exploitant à produire son attestation d'assurance sous astreinte journalière de retard pour permettre l'exercice de l'action directe.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
@@ -78,22 +78,22 @@ L'aboutissement prévu est une assignation au fond en septembre pour obtenir un 
 
 ## Responsabilité Civile et Action Directe
 
-L'action repose principalement sur l'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) (responsabilité du fait des choses et du commettant).
+L'action repose principalement sur l'article 1242 du Code civil (responsabilité du fait des choses et du commettant).
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
-La victime exerce son droit propre via l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
+La victime exerce son droit propre via l'article L. 124-3 du Code des assurances.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
 ## Responsabilité des Dirigeants et Mesures d'Instruction
 
-Conformément à [l'Arrêt Sati](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) (Cass. Com., 20 mai 2003), l'action directe est couplée à la mise en cause personnelle des dirigeants pour faute détachable.
+Conformément à l'arrêt Sati (Cass. Com., 20 mai 2003, n° 99-17.092), l'action directe est couplée à la mise en cause personnelle des dirigeants pour faute détachable.
 
 > Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
 > Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
 
-En cas de blocage sur l'identité de l'assureur, l'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) fonde la demande de mesures d'instruction in futurum.
+En cas de blocage sur l'identité de l'assureur, l'article 145 du Code de procédure civile fonde la demande de mesures d'instruction in futurum.
 
 
 <hr>
