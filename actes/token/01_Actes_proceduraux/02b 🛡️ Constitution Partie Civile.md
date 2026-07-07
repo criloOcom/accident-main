@@ -83,9 +83,9 @@ Malgre des mises en demeure recommandees adressees le **[J+31 Mises en demeure]*
 
 Les faits decrits ci-dessus sont constitutifs du delit de blessures involontaires prevu et reprime par les articles 222-19 et 222-20 du Code penal.
 
-L'[Article 222-19 du Code penal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) dispose :
-
-> « Le fait de causer a autrui, par maladresse, imprudence, inattention, negligence ou manquement a une obligation de prudence ou de sécurité imposee par la loi ou le reglement, une incapacite totale de travail d'une duree superieure a trois mois est puni de deux ans d'emprisonnement et de 45 000 euros d'amende. »
+> « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. » <br>
+> **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne** <br>
+> [Article 222-19](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
 
 En l'espece :
 
@@ -93,9 +93,11 @@ En l'espece :
 - **Le manquement a une obligation de securite** resulte de l'absence de signalement et de protection de la cassure preexistante aux aretes tranchantes de la vasque, constituant un danger manifeste pour la clientele.
 - **L'inobservation des regles de securite** applicables aux ERP (etablissements recevant du public) est caracterisee par le defaut d'entretien du materiel et l'absence de verification des installations.
 
-L'ITT de 56 jours, certifiee par **[Le Chirurgien SOS Main]**, est inferieure a 3 mois, ce qui conduit a la qualification de l'[Article 222-20 du Code penal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) :
+L'ITT de 56 jours, certifiee par **[Le Chirurgien SOS Main]**, est inferieure a 3 mois, ce qui conduit a la qualification suivante :
 
-> « Le fait de causer a autrui, par la violation manifestement deliberee d'une obligation particuliere de prudence ou de securite imposee par la loi ou le reglement, une incapacite totale de travail d'une duree inferieure ou egale a trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
+> « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
+> **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne** <br>
+> [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
 
 La **violation manifestement deliberee** est caracterisee par :
 
@@ -105,17 +107,19 @@ La **violation manifestement deliberee** est caracterisee par :
 
 ### B. Sur la responsabilite civile personnelle des dirigeants (L.227-8 + L.225-251 C.com.)
 
-L'[Article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) dispose :
-
-> « Les actions en responsabilite contre le President ou les dirigeants de la SAS, soit a titre social, soit a titre individuel, se prescrivent par trois ans a compter du fait dommageable ou, s'il a ete dissimule, de sa revelation. »
+> « Les actions en responsabilité contre le président ou les dirigeants de la SAS, soit à titre social, soit à titre individuel, se prescrivent par trois ans à compter du fait dommageable ou, s'il a été dissimulé, de sa révélation. » <br>
+> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre IV : Des sociétés par actions simplifiées > Chapitre VII : De la responsabilité** <br>
+> [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
 
 Cette disposition constitue le fondement de la responsabilite personnelle des dirigeants de SAS, qui peut etre engagee pour des fautes commises dans l'exercice de leurs fonctions.
 
-L'[Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329), applicable aux dirigeants de SAS par renvoi de l'article L. 227-9, dispose :
+> « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. » <br>
+> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre III : Des sociétés anonymes > Section 8 : De la responsabilité** <br>
+> [Article L. 225-251](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
 
-> « Les administrateurs et le directeur general sont responsables individuellement ou solidairement selon le cas, envers la societe ou envers les tiers, soit des infractions aux dispositions legislatives ou reglementaires applicables aux societes anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. »
-
-La jurisprudence de la Cour de cassation precise que la faute du dirigeant est separable de ses fonctions et engage sa responsabilite personnelle lorsqu'elle constitue un manquement delibere a ses obligations (Cass. Com., 20 mai 2003, n° 99-17.092, arret SATI).
+> « La faute du dirigeant social, même lorsqu'elle est commise dans l'exercice de ses fonctions, est séparable de celles-ci lorsque elle constitue un manquement délibéré à ses obligations et engage sa responsabilité personnelle. » <br>
+> **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 En l'espece, les fautes separables des dirigeants sont caracterisees par :
 
@@ -131,15 +135,23 @@ Ces fautes, commises personnellement par le President et la Directrice Generale,
 
 ### C. Sur le fondement du droit de la consommation
 
-Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'information precontractuelle (Art. [L.111-1 C.consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650)) et a une obligation de conformite du service fourni (Art. [L.217-1 C.consommation](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032227138/)). La prestation realisee n'etait manifestement pas conforme aux exigences de securite legitimes d'un consommateur, ce qui constitue un fondement complementaire a l'action civile et renforce l'absence de contestation serieuse.
+> « Le professionnel de vente est tenu d'une obligation d'information précontractuelle sur les caractéristiques essentielles du bien ou du service. » <br>
+> **Code de la consommation > Partie réglementaire > Livre Ier : Information et education des consommateurs > Titre II : Information des consommateurs > Chapitre Ier : Obligation générale d'information précontractuelle** <br>
+> [Article L. 111-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438)
+
+> « Le professionnel de vente est tenu de livrer un bien conforme au contrat. » <br>
+> **Code de la consommation > Partie législative > Livre Ier : Dispositions générales > Titre Ier : Objet et champ d'application** <br>
+> [Article L. 217-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587)
+
+Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'information precontractuelle et a une obligation de conformite du service fourni. La prestation realisee n'etait manifestement pas conforme aux exigences de securite legitimes d'un consommateur, ce qui constitue un fondement complementaire a l'action civile et renforce l'absence de contestation serieuse.
 
 ### D. Sur le defaut d'assurance de responsabilite civile (L.124-3 C.assur.)
 
-L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) dispose :
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions** <br>
+> [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
-> « Le tiers lese dispose d'un droit d'action directe a l'encontre de l'assureur garantissant la responsabilite civile de la personne responsable. »
-
-En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles [706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625) et [706-14](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577667) du Code de procedure penale, pourra etre directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente constitution de partie civile sollicite formellement la designation du FGTI comme garant subrogatoire.
+En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles 706-3 et 706-14 du Code de procédure pénale (Titre XIV), pourra être directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente constitution de partie civile sollicite formellement la designation du FGTI comme garant subrogatoire.
 
 <hr>
 

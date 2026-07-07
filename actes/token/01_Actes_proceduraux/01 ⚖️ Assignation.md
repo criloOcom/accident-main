@@ -45,6 +45,8 @@ Elle demande en outre la désignation d'un expert médical judiciaire sur le fon
 
 Tribunal Judiciaire de **[La Ville de l'Accident]** (Cabinet du Juge des Référés)
 
+<hr>
+
 POUR :
 
 **[La Victime]**, né le 18 janvier 1982, de nationalité française, demeurant au **[L'Adresse de la Victime]**, exerçant la profession d'informaticien indépendant, ayant pour avocat constitué **[Nom de l'Avocat de la Victime]**, avocat au barreau de **[La Ville de l'Accident]**.
@@ -105,13 +107,13 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du *
 ### A. Sur le principe de la responsabilité civile délictuelle
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
-> **Code de procédure civile > Chapitre Ier : La responsabilité extracontractuelle en général** <br>
+> **Code civil > Livre III > Titre III > Sous-titre II > Chapitre Ier : La responsabilité extracontractuelle en général** <br>
 > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 
 En l'espèce, le basculement brutal de l'équipement dû à l'escalade du préposé sur la vasque en céramique, laquelle présentait une cassure préexistante non signalée, caractérise un manquement à l'obligation de sécurité imputable à l'exploitant.
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. » <br>
-> **Code de procédure civile > Chapitre Ier : La responsabilité extracontractuelle en général** <br>
+> **Code civil > Livre III > Titre III > Sous-titre II > Chapitre Ier : La responsabilité extracontractuelle en général** <br>
 > [Article 1242 alinéa 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
 
 Les commettants sont responsables du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés.
@@ -131,7 +133,7 @@ De surcroît, les faits se sont produits sous le contrôle du préposé de l'ét
 
 Les administrateurs et le directeur général sont responsables, individuellement ou solidairement, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion.
 
-Constitue une faute personnelle séparable des fonctions sociales engageant la responsabilité du dirigeant à l'égard des tiers la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales (Cass. com., 20 mai 2003, n°99-17.092, arrêt SATI ; Cass. com., 7 septembre 2022, n°20-20.404).
+Constitue une faute personnelle séparable des fonctions sociales engageant la responsabilité du dirigeant à l'égard des tiers la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales (Cass. com., 20 mai 2003, n°99-17.092, arrêt SATI : la gérante d'une SLRL qui avait cédé des créances déjà cédées à la banque avait intentionnellement trompé son cocontractant sur la solvabilité de la société ; Cass. com., 7 septembre 2022, n°20-20.404 : responsabilité des dirigeants en procédure collective).
 
 En l'espèce, le défaut d'entretien des locaux et de sécurisation de la vasque céramique présentant une cassure préexistante non signalée, le défaut d'assurance de responsabilité civile professionnelle et le silence systématique opposé aux demandes de la victime caractérisent une méconnaissance des obligations essentielles de sécurité dont le caractère réitéré et l'absence de toute mesure corrective excluent qu'ils aient pu légitimement ignorer le risque pour la clientèle. Une telle carence est de nature à engager la responsabilité personnelle in solidum de **[Le Président de l'Exploitation]** et de **[La Directrice Générale de l'Exploitation]** avec la personne morale.
 
@@ -141,13 +143,15 @@ L'extrême sous-capitalisation de la société (capital social de 200 €), ne l
 
 Le salon de coiffure, en tant que professionnel, est tenu à une obligation d'information précontractuelle.
 
-> « Avant que le consommateur ne soit lié par un contrat de vente de biens ou de fourniture de services, le professionnel communique au consommateur, de manière lisible et compréhensible, les informations relatives aux caractéristiques essentielles du bien ou du service. » <br>
-> [Article L.111-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650)
+> « Avant que le consommateur ne soit lié par un contrat à titre onéreux, le professionnel communique au consommateur, de manière lisible et compréhensible, les informations suivantes : [...] 4° Les informations relatives à l'identité du professionnel, à ses coordonnées postales, téléphoniques et électroniques et à ses activités, pour autant qu'elles ne ressortent pas du contexte ; [...] » <br>
+> **Code de la consommation > Partie législative > Livre Ier > Titre Ier > Chapitre Ier : Obligation générale d'information précontractuelle** <br>
+> [Article L.111-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438)
 
 Il est imposé une obligation de conformité du service fourni.
 
-> « Le professionnel délivre un bien conforme au contrat ainsi qu'aux critères énoncés à l'article L. 217-5. Il répond des défauts de conformité existant lors de la délivrance du bien au sens de l'article L. 217-13. » <br>
-> [Article L.217-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032227138/) 
+> « Les dispositions du présent chapitre sont applicables aux contrats de vente de biens meubles corporels entre un vendeur professionnel, ou toute personne se présentant ou se comportant comme tel, et un acheteur agissant en qualité de consommateur. » <br>
+> **Code de la consommation > Partie législative > Livre II > Titre Ier > Chapitre VII > Section 1 : Champ d'application** <br>
+> [Article L.217-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587)
 
 La prestation de coiffure réalisée n'était manifestement pas conforme aux exigences de sécurité légitimes d'un consommateur :
 - Défaut d'entretien de la vasque en céramique (cassure préexistante non signalée),
@@ -191,7 +195,7 @@ Le préjudice global est estimé à **~90 000 €** selon la nomenclature Dintil
 
 **3. La provision inclut une part *ad litem***
 
-La demande inclut implicitement une provision *ad litem* destinée à couvrir les frais irrépétibles immédiats (honoraires d'avocat, frais de médecin-conseil, constat d'huissier, envois LRAR, déplacements). Cette pratique est validée par la jurisprudence dès lors que l'obligation n'est pas sérieusement contestable (Cass. 2e Civ.).
+La demande inclut implicitement une provision *ad litem* destinée à couvrir les frais irrépétibles immédiats (honoraires d'avocat, frais de médecin-conseil, constat d'huissier, envois LRAR, déplacements). Cette pratique est validée par la jurisprudence dès lors que l'obligation n'est pas sérieusement contestable (Cass. Civ. 2e, 26 septembre 2012, n°11-14.339).
 
 **4. Absence de contestation sérieuse établie par les faits**
 
@@ -199,19 +203,25 @@ Aucun élément versé aux débats ne permet de contester sérieusement ni la ma
 
 **5. Jurisprudence**
 
-- **Cass. 2e Civ., 15 mai 1992, n° 90-14.261** : le juge des référés peut accorder une provision supérieure au montant de l'offre faite à la victime
+- **Cass. 2e Civ., 15 mai 1992, n°90-14.261** : l'offre d'indemnité faite par l'assureur n'interdit pas au juge des référés d'accorder une provision supérieure au montant de cette offre (JURITEXT000007028156)
   
-- **Cass. 2e Civ., 24 mars 2016, n° 15-15.306** : le juge fixe souverainement le montant de la provision dès lors que l'obligation n'est pas sérieusement contestable
+- **Cass. 2e Civ., 24 mars 2016, n°15-15.306** : le juge fixe souverainement le montant de la provision dès lors que l'obligation à réparation n'est pas sérieusement contestable (JURITEXT000032312857)
   
-- **Cass. 2e Civ., 19 novembre 1998, n° 96-16.128** : le paiement d'une provision en référé n'exonère pas le débiteur de son obligation d'indemnisation finale
+- **Cass. 2e Civ., 19 novembre 1998, n°96-16.128** : le paiement d'une provision en référé n'exonère pas l'assureur de son obligation de présenter une offre d'indemnisation dans le délai légal (JURITEXT000007037753)
 
 ### F. Sur la communication forcée de la police d'assurance
 
-Sur le fondement de l'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339), **[La Victime]** sollicite également la communication forcée de la police d'assurance de responsabilité civile professionnelle de **[L'Exploitant du Commerce (La SAS)]**, dont l'identité demeure inconnue malgré les mises en demeure restées sans réponse (**[J+31 Mises en demeure]**).
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
+> **Code de procédure civile > Titre VII > Section I : Décisions ordonnant des mesures d'instruction** <br>
+> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
-> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
+**[La Victime]** sollicite la communication forcée de la police d'assurance de responsabilité civile professionnelle de **[L'Exploitant du Commerce (La SAS)]**, dont l'identité demeure inconnue malgré les mises en demeure restées sans réponse (**[J+31 Mises en demeure]**).
 
-Le motif légitime est caractérisé par l'impossibilité pour la victime d'exercer son action directe (Art. L.124-3 C. assurances) sans connaître l'identité de l'assureur. La jurisprudence admet que la communication forcée d'un document contractuel constitue une mesure d'instruction licite au sens de l'Article 145 CPC (Cass. Civ. 2e, 8 mars 2012, n° 11-14.339).
+> « L'action directe de la victime contre l'assureur garantissant la responsabilité civile de la personne responsable est soumise à la prescription de deux ans à compter du jour où la victime a connu ou aurait dû connaître les faits motivant son action. » <br>
+> **Code des assurances > Partie réglementaire > Livre Ier > Titre Ier > Chapitre III : De la responsabilité civile** <br>
+> [Article L.124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+
+Le motif légitime est caractérisé par l'impossibilité pour la victime d'exercer son action directe (Art. L.124-3 du Code des assurances) sans connaître l'identité de l'assureur. La jurisprudence admet que la communication forcée d'un document contractuel constitue une mesure d'instruction licite au sens de l'Article 145 CPC (Cass. Civ. 2e, 26 septembre 2012, n°11-14.339).
 
 Il est donc demandé au juge des référés d'ordonner à **[L'Exploitant du Commerce (La SAS)]** de communiquer sa police d'assurance sous astreinte de 150 € par jour de retard.
 
@@ -272,7 +282,7 @@ Vu les pièces versées aux débats,
 
 6. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à verser à **[La Victime]** la somme de 15 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
 
-7. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à payer à **[La Victime]** la somme de 3 000 € sur le fondement de l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436), ainsi qu'aux entiers dépens.
+7. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à payer à **[La Victime]** la somme de 3 000 € sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
 
 <hr>
 
