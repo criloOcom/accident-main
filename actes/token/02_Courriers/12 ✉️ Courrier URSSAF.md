@@ -51,7 +51,7 @@ Les informations publiques disponibles (INPI, INSEE) indiquent que cette societe
 - [I — ELEMENTS LAISSANT PRESUMER UN TRAVAIL DISSIMULE](#i--elements-laissant-presumer-un-travail-dissimule)
 - [II — DEMANDE DE VERIFICATION](#ii--demande-de-verification)
 
-<hr><hr>
+<hr>
 
 ## I — ELEMENTS LAISSANT PRESUMER UN TRAVAIL DISSIMULE
 
@@ -81,7 +81,7 @@ Les elements suivants sont susceptibles de caracteriser un travail dissimule par
 <br>
 - Aucune declaration d'accident du travail n'a ete transmise a la CPAM
 
-<hr><hr>
+<hr>
 
 ## II — DEMANDE DE VERIFICATION
 

@@ -23,24 +23,6 @@ format: Arial JUSTIFIED
 - [INTRODUCTION](#introduction)
 
 
-titre: Constitution de Partie Civile
-date: 2026-06-30
-type: acte
-categorie: penale
-auteur: La Victime
-destinataire: Tribunal Correctionnel
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce (La SAS)
-tags:
-  - constitution
-  - partie civile
-  - pénal
-statut: final
-source: drive
-drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
----
-
 # CONSTITUTION DE PARTIE CIVILE
 
 Rédigé le **[J+32 Assignation référé]**
@@ -81,7 +63,7 @@ Enquête en cours — Procédure pénale [ ... ].
 
 Pour les faits de :
 
-Blessures involontaires ayant entraîné une ITT de 56 jours par la violation manifestement délibérée d'une obligation de sécurité ([[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)) — basculement d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes.
+Blessures involontaires ayant entraîné une ITT de 56 jours par la violation manifestement délibérée d'une obligation de sécurité [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) — basculement d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes.
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
@@ -104,7 +86,7 @@ Fait à **[La Ville de Résidence de la Victime]**, le **[J+32 Assignation réf�
 Signature :
 
 
-<hr><hr>
+<hr>
 
 
 

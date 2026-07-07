@@ -51,7 +51,7 @@ Elle a pour objet d'obtenir, sous astreinte, la communication de la police d'ass
   - [C. Sur le refus caracterise et l'astreinte sollicitee](#c-sur-le-refus-caracterise-et-lastreinte-sollicitee)
 - [PAR CES MOTIFS](#par-ces-motifs)
 
-<hr><hr>
+<hr>
 
 ## I — EXPOSE DES FAITS
 
@@ -65,7 +65,7 @@ L'accuse de reception du courrier recommande adresse au proprietaire des murs, *
 
 A ce jour, l'identite de l'assureur RC professionnelle de **[L'Exploitant du Commerce (La SAS)]** demeure inconnue.
 
-<hr><hr>
+<hr>
 
 ## II — DISCUSSION JURIDIQUE
 
@@ -104,7 +104,7 @@ Ce silence delibere caracterise un refus de communiquer qui justifie que soit or
 
 L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu : en l'absence de cette information, l'indemnisation d'un prejudice corporel grave evalue a ~90 000 € est entierement bloquee.
 
-<hr><hr>
+<hr>
 
 ## PAR CES MOTIFS
 
@@ -128,7 +128,7 @@ Vu les pièces versées aux débats,
 
 4. **CONDAMNER IN SOLIDUM** la SAS **[L'Exploitant du Commerce (La SAS)]**, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a **[La Victime]** la somme de 1 500 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
 
-<hr><hr>
+<hr>
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 
@@ -137,7 +137,7 @@ Vu les pièces versées aux débats,
 - **Pièce n°12 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à **[La Directrice Générale de l'Exploitation]** (**[J+31 Mises en demeure]**)
 - **Pièce n°13 :** Lettre Recommandée avec Accusé de Réception (LRAR) adressée à **[Le Propriétaire des Murs]** et son Accusé de Réception signé (**[J+35 AR propriétaire]**)
 
-<hr><hr>
+<hr>
 
 Fait a **[La Ville de l'Accident]**, le **[J+37 Assignation 145]**.
 

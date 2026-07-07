@@ -27,7 +27,7 @@ format: Arial JUSTIFIED
 
 Courriel : **[L'Email de la Victime]**
 
-**Police Nationale — Commissariat de **[La Ville de l'Accident]****
+**Police Nationale — Commissariat de [La Ville de l'Accident]**
 
 **[Adresse à compléter]**
 
@@ -43,7 +43,7 @@ Madame, Monsieur l'Officier de Police Judiciaire,
 
 La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]**, situe **[Adresse du Commerce]** a **[La Ville de l'Accident]**.
 
-<hr><hr>
+<hr>
 
 ## OBJET DE LA RELANCE
 

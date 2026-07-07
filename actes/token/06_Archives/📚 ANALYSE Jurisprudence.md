@@ -49,7 +49,7 @@ Rédigé par : La Victime
 Le **[J+32 Assignation référé]**
 
 
-<hr><hr>
+<hr>
 
 ## I. Introduction et contexte
 
@@ -60,7 +60,7 @@ L'incident s'est produit au sein de l'établissement « **[L'Exploitant du Comme
 Cette analyse s'appuie sur le principe de la réparation intégrale, visant à rétablir **[La Victime]** dans la situation qui aurait été la sienne sans la survenance du dommage, conformément à l'[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571).
 
 
-<hr><hr>
+<hr>
 
 ## II. Analyse des faits générateurs de responsabilité
 
@@ -73,7 +73,7 @@ Il est à noter que l'établissement a procédé à un remboursement de 15 €, 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
 
-<hr><hr>
+<hr>
 
 ## III. Bilan médical et préjudices identifiés
 
@@ -86,7 +86,7 @@ Ces lésions entraînent des séquelles fonctionnelles majeures, notamment des p
 Pour un informaticien indépendant dont la main droite est la main dominante, ce handicap impacte directement l'usage du clavier et de la souris, générant une incidence professionnelle substantielle estimée provisoirement à 15 000 € dans l'étude d'indemnisation jointe.
 
 
-<hr><hr>
+<hr>
 
 ## IV. Stratégie de recours et fondements juridiques
 
@@ -124,7 +124,7 @@ De plus, les statuts de **[L'Exploitant du Commerce (La SAS)]** révèlent un ca
 Cette absence de substance financière de la société face à une éventuelle liquidation rend indispensable la mise en cause personnelle du patrimoine des Dirigeants pour garantir l'effectivité de l'indemnisation.
 
 
-<hr><hr>
+<hr>
 
 ## V. Recommandations et Conclusion
 
@@ -157,7 +157,7 @@ Dans ce dossier, les fondements juridiques sont solides :
 - La responsabilité personnelle des Dirigeants pour faute détachable ([Art. 1240 Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571))
 
 
-<hr><hr>
+<hr>
 
 ## VI. Limites et réserves sur la recherche jurisprudentielle
 

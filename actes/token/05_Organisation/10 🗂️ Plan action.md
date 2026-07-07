@@ -43,7 +43,7 @@ Le présent plan d'action et chronologie de la procédure a été établi par **
 - [Autorités Judiciaires et Policières à **[La Ville de l'Accident]**](#autorits-judiciaires-et-policires-la-ville-de-laccident)
 - [Services Juridiques et de Santé](#services-juridiques-et-de-sant)
 
-<hr><hr>
+<hr>
 
 ## I. Chronologie et Plan d'Action
 
@@ -72,7 +72,7 @@ Le second semestre 2026 sera consacré au suivi de l'expertise (notamment le pas
 L'aboutissement prévu est une assignation au fond en septembre pour obtenir un jugement définitif de condamnation de l'assureur d'ici décembre 2026.
 
 
-<hr><hr>
+<hr>
 
 ## II. Fondements Juridiques
 
@@ -96,7 +96,7 @@ Conformément à [l'Arrêt Sati](https://www.legifrance.gouv.fr/juri/id/JURITEXT
 En cas de blocage sur l'identité de l'assureur, l'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) fonde la demande de mesures d'instruction in futurum.
 
 
-<hr><hr>
+<hr>
 
 ## III. Inventaire des Pièces
 
@@ -109,7 +109,7 @@ Le dossier comprend les comptes rendus opératoires du **[Le Chirurgien SOS Main
 Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel défectueux, les photos de l'accident et les témoignages des clients et employés présents.
 
 
-<hr><hr>
+<hr>
 
 ## IV. Contacts et Annuaires
 

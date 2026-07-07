@@ -53,7 +53,7 @@ La presente est adressee a vos services par **[La Victime]** afin de vous inform
 - [III — BORDEREAU RECAPITULATIF DES PIECES](#iii--bordereau-recapitulatif-des-pieces)
 - [IV — DEMANDE](#iv--demande)
 
-<hr><hr>
+<hr>
 
 ## I — RAPPEL DU DOSSIER
 

@@ -37,7 +37,7 @@ Mairie de **[La Ville de l'Accident]**
 
 Objet : Suite a votre message du 1er juin 2026 — Demande d'information sur les diligences Inspection du Travail et CODAF
 
-Reff : Votre courriel du 1er juin 2026
+Ref : Votre courriel du 1er juin 2026
 
 Monsieur l'Adjoint au Maire,
 

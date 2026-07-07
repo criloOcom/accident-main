@@ -59,7 +59,7 @@ Document rédigé par **[La Victime]**
 - [VII. CONCLUSION ET ANALYSE](#vii-conclusion-et-analyse)
 - [ANNEXES ET SOURCES JURIDIQUES](#annexes-et-sources-juridiques)
 
-<hr><hr>
+<hr>
 
 ## I. PRINCIPE DE LA RÉPARATION INTÉGRALE
 
@@ -74,7 +74,7 @@ L'évaluation s'appuie ici sur le statut réel de **[La Victime]**, travailleur 
 Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
 
 
-<hr><hr>
+<hr>
 
 ## II. ÉVALUATION DES PRÉJUDICES
 
@@ -104,7 +104,7 @@ Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un 
 
 - **Préjudice Esthétique Permanent (PEP)** : Cicatrice palmaire 8,5 cm. Proposition : **3 000 €**. (Poste oublié dans les versions antérieures.)
 
-<hr><hr>
+<hr>
 
 ## III. RÉCAPITULATIF DU CHIFFRAGE ESTIMATIF
 
@@ -123,7 +123,7 @@ Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un 
 
 > « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. »
 
-<hr><hr>
+<hr>
 
 ## IV. JURISPRUDENCE APPLICABLE
 
@@ -148,7 +148,7 @@ La jurisprudence [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifran
 > Attendu : « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. »
 > Résumé : L'indemnisation au titre de l'incidence professionnelle est cumulable avec la perte de gains professionnels futurs et répare la dévalorisation sur le marché de l'emploi et l'exclusion sociale qui en découlent.
 
-<hr><hr>
+<hr>
 
 ## V. JURISPRUDENCE COMPARATIVE
 
@@ -163,7 +163,7 @@ Les arrêts suivants, déjà intégrés dans le dossier, confirment la cohérenc
 | [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) | Incidence professionnelle : poste distinct indemnisant la dévalorisation sur le marché du travail. | Confirme l'IP de 15 000 € (dévalorisation en tant qu'informaticien indépendant). |
 | [Cass. Civ. 1ère, 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) | Libre disposition des indemnités : la victime peut utiliser les fonds sans contrôle du responsable. | Justifie que les 59 600 € demandés peuvent être librement affectés (rééducation, aménagement ergonomique). |
 
-<hr><hr>
+<hr>
 
 ## VI. FACTEURS D'AGGRAVATION
 
@@ -175,7 +175,7 @@ Plusieurs éléments spécifiques aggravent le préjudice de **[La Victime]** :
 
 - **Jeune âge (44 ans)** : Le préjudice financier se projette sur une longue durée d'activité résiduelle.
 
-<hr><hr>
+<hr>
 
 ## VII. CONCLUSION ET ANALYSE
 
@@ -187,7 +187,7 @@ Ce montant sera affiné suite à l'expertise médicale prévue le **[J+167 Exper
 
 Cette étude souligne la nécessité d'une réparation intégrale tenant compte de l'impact majeur de l'accident sur la vie professionnelle et personnelle d'un travailleur indépendant.
 
-<hr><hr>
+<hr>
 
 ## ANNEXES ET SOURCES JURIDIQUES
 

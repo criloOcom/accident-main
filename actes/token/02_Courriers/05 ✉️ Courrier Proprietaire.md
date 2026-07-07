@@ -52,7 +52,7 @@ L'[Article 1719 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/L
 
 > « Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière : (...) 3° D'en faire jouir paisiblement le preneur pendant la durée du bail ; »
 
-L'[Article 1720 du même code](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) impose au bailleur d'entretenir les lieux en bon état de réparation de toute nature.
+L'[Article 1720 du même code](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784) impose au bailleur d'entretenir les lieux en bon état de réparation de toute nature.
 
 > « Le bailleur est tenu de livrer la chose en bon état de réparations de toute espèce. Il doit y faire, pendant la durée du bail, toutes les réparations qui peuvent devenir nécessaires, autres que les locatives. »
 

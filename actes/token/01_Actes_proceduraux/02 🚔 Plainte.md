@@ -73,7 +73,7 @@ En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en 
 - [III. Conséquences et Préjudices](#iii-consquences-et-prjudices)
 - [IV. Demandes](#iv-demandes)
 
-<hr><hr>
+<hr>
 
 ## I. Exposé des Faits
 
@@ -88,7 +88,7 @@ Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la comm
 Ce silence persistant, malgré l'envoi de courriers recommandés le **[J+31 Mises en demeure]**, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
 
 
-<hr><hr>
+<hr>
 
 ## II. Discussion Juridique
 
@@ -107,7 +107,7 @@ Cette autonomie de l'action directe a été fermement rappelée par la jurisprud
 > Attendu : « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »
 > Résumé : La dissolution et la clôture de la liquidation d'une personne morale n'éteignent pas l'action directe de la victime contre son assureur de responsabilité civile, qui reste recevable.
 
-En dissimulant l'identité de leur assureur, les mis en cause commettent une entrave caractérisée aux droits de la victime, susceptible de relever des dispositions de l'[Article 434-12 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209).
+En dissimulant l'identité de leur assureur, les mis en cause commettent une entrave caractérisée aux droits de la victime, susceptible de relever des dispositions de l'[Article 121-3 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208).
 
 > « Il n'y a point de crime ou de délit sans intention de le commettre. (...) Toutefois, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particularité gravité qu'elles ne pouvaient ignorer. »
 
@@ -117,7 +117,7 @@ Par ailleurs, ce défaut de souscription ou d'information peut constituer une fa
 > Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
 
 
-<hr><hr>
+<hr>
 
 ## III. Conséquences et Préjudices
 
@@ -136,7 +136,7 @@ Les pertes d'exploitation sont d'ores et déjà significatives et le préjudice 
 L'absence de communication de l'assurance bloque toute offre d'indemnisation amiable, l'accès à une expertise médicale contradictoire et la prise en charge des soins par la CPAM (dossier [ ... ]).
 
 
-<hr><hr>
+<hr>
 
 ## IV. Demandes
 
@@ -157,4 +157,3 @@ Le plaignant se constitue partie civile et se tient à la disposition de la just
 > **Note administrative :** Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident]** sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 > 
 > Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement du présent document.
-```

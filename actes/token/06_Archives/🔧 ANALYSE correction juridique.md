@@ -32,25 +32,6 @@ drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
 - [IV. PLAN D'ACTION CONTENTIEUX](#iv-plan-daction-contentieux)
 
 
-titre: Mémorandum Juridique — Audit Stratégique et Restructuration Contentieuse
-date: 2026-06-30
-type: acte
-categorie: analyse
-auteur: La Victime
-destinataire: null
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce (La SAS)
-tags:
-  - audit
-  - correction
-  - stratégie
-  - juridique
-statut: final
-source: drive
-drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
----
-
 # **MÉMORANDUM JURIDIQUE : AFFAIRE [La Victime]**
 
 Rédigé le **[J+32 Assignation référé]**
@@ -62,7 +43,7 @@ Le présent mémorandum juridique constitue un audit stratégique et une restruc
 ## *Audit stratégique et restructuration de l'arsenal contentieux*
 
 
-<hr><hr>
+<hr>
 
 ## I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 
@@ -77,7 +58,7 @@ L'affaire met en cause la responsabilité de la personne morale, dirigée par **
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
 
-<hr><hr>
+<hr>
 
 ## II. CADRE JURIDIQUE DE LA RESPONSABILITÉ
 
@@ -97,7 +78,7 @@ La responsabilité personnelle des dirigeants peut être engagée, nonobstant l'
 > Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
 
 
-<hr><hr>
+<hr>
 
 ## III. MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
 
@@ -118,7 +99,7 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 > Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
 
 
-<hr><hr>
+<hr>
 
 ## IV. PLAN D'ACTION CONTENTIEUX
 
@@ -130,7 +111,7 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
 
-<hr><hr>
+<hr>
 
 
 

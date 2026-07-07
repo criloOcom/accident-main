@@ -70,7 +70,7 @@ PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCI
 - [PAR CES MOTIFS](#par-ces-motifs)
 
 
-<hr><hr>
+<hr>
 
 ## I. EXPOSÉ DES FAITS
 
@@ -95,7 +95,7 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du *
 À ce jour, le cumul des arrêts de travail prescrits s'élève à 56 jours d'ITT continue (du **[J+0 Accident]** au **[J+55 Fin d'ITT]** inclus) **(Pièce n°4)**.
 
 
-<hr><hr>
+<hr>
 
 ## II. DISCUSSION JURIDIQUE
 
@@ -173,7 +173,7 @@ Aucun élément versé aux débats ne permet de contester sérieusement ni la ma
 - **Cass. 2e Civ., 24 mars 2016, n° 15-15.306** : le juge fixe souverainement le montant de la provision dès lors que l'obligation n'est pas sérieusement contestable
 - **Cass. 2e Civ., 19 novembre 1998, n° 96-16.128** : le paiement d'une provision en référé n'exonère pas le débiteur de son obligation d'indemnisation finale
 
-<hr><hr>
+<hr>
 
 ### F. Sur la communication forcée de la police d'assurance
 
@@ -185,7 +185,7 @@ Le motif légitime est caractérisé par l'impossibilité pour la victime d'exer
 
 Il est donc demandé au juge des référés d'ordonner à **[L'Exploitant du Commerce (La SAS)]** de communiquer sa police d'assurance sous astreinte de 150 € par jour de retard.
 
-<hr><hr>
+<hr>
 
 ## III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)
 
@@ -217,7 +217,7 @@ Il est donc demandé au juge des référés d'ordonner à **[L'Exploitant du Com
 
 Dans l'attente du dépôt du rapport de l'expert judiciaire, **[La Victime]** sollicite l'allocation d'une provision de 15 000 € à valoir sur l'indemnisation finale de son préjudice corporel.
 
-<hr><hr>
+<hr>
 
 ## PAR CES MOTIFS
 
@@ -242,9 +242,9 @@ Vu les pièces versées aux débats,
 
 6. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à verser à **[La Victime]** la somme de 15 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
 
-7. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à payer à **[La Victime]** la somme de 3 000 € sur le fondement de l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647394), ainsi qu'aux entiers dépens.
+7. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à payer à **[La Victime]** la somme de 3 000 € sur le fondement de l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436), ainsi qu'aux entiers dépens.
 
-<hr><hr>
+<hr>
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 
@@ -262,7 +262,7 @@ Vu les pièces versées aux débats,
 - **Pièce n°12 :** LRAR de mise en demeure adressée à **[La Directrice Générale de l'Exploitation]** (**[J+31 Mises en demeure]**)
 - **Pièce n°13 :** LRAR adressée à **[Le Propriétaire des Murs]** et son AR signé (**[J+35 AR propriétaire]**)
 
-<hr><hr>
+<hr>
 
 Fait à **[La Ville de l'Accident]**, le **[J+32 Assignation référé]**.
 

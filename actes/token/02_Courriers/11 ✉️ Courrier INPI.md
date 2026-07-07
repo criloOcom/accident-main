@@ -54,7 +54,7 @@ Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm ave
 - [II — PROCEDURES EN COURS](#ii--procedures-en-cours)
 - [III — DEMANDE DE SIGNALEMENT](#iii--demande-de-signalement)
 
-<hr><hr>
+<hr>
 
 ## I — RAPPEL DES FAITS
 
@@ -62,7 +62,7 @@ Le **[J+0 Accident]**, alors que je me trouvais dans l'etablissement pour une pr
 
 En descendant, le poids du prepose a provoque le basculement de l'equipement, et ma main droite, tendue par reflexe pour le proteger, a heurte la cassure preexistante, entrainant une plaie palmaire profonde et une section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant.
 
-<hr><hr>
+<hr>
 
 ## II — PROCEDURES EN COURS
 
@@ -82,7 +82,7 @@ Les procedures suivantes ont ete engagees :
 - Saisine de l'Inspection du Travail (DDETS 09 / DREETS Occitanie)
 - Saisine du CODAF via la Prefecture de l'Ariege
 
-<hr><hr>
+<hr>
 
 ## III — DEMANDE DE SIGNALEMENT
 

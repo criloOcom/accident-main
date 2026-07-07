@@ -52,7 +52,7 @@ Cet accident a ete cause par la chute brutale du prepose de l'exploitation depui
 - [II — NON-CONFORMITES CONSTATÉES](#ii--non-conformites-constatees)
 - [III — DEMANDE](#iii--demande)
 
-<hr><hr>
+<hr>
 
 ## I — RAPPEL DES FAITS
 

@@ -26,7 +26,7 @@ format: Arial JUSTIFIED
 
 Courriel : **[L'Email de la Victime]**
 
-**Service des Impôts des Entreprises de **[La Ville de l'Accident]****
+**Service des Impôts des Entreprises de [La Ville de l'Accident]**
 
 **[Adresse à compléter]**
 

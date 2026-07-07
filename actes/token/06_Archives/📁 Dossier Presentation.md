@@ -28,25 +28,6 @@ format: Arial JUSTIFIED
 - [III. ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES](#iii-actions-engages-et-bordereau-des-pices)
 
 
-titre: Dossier de Présentation destiné au Conseil Juridique
-date: 2026-06-30
-type: acte
-categorie: synthese
-auteur: La Victime
-destinataire: Conseil Juridique
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce (La SAS)
-tags:
-  - présentation
-  - synthèse
-  - avocat
-  - dossier
-statut: final
-source: drive
-drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
----
-
 # DOSSIER DE PRÉSENTATION : DESTINÉ AU CONSEIL JURIDIQUE
 
 Rédigé le **[J+32 Assignation référé]**
@@ -62,7 +43,7 @@ Il contient une synthèse des faits, l'inventaire des pièces constitutives du d
 ## Synthèse des faits, pièces administratives et stratégie de recouvrement - Affaire **[La Victime]**
 
 
-<hr><hr>
+<hr>
 
 ## I. STRATÉGIE DE RECOUVREMENT DES HONORAIRES PAR SUBROGATION ET PROTECTION FINANCIÈRE DE LA VICTIME
 
@@ -81,7 +62,7 @@ Afin de lever tout obstacle financier pour **[La Victime]**, travailleur indépe
 4. La demande de provision ad hoc pour frais de procédure : Lors de l'assignation en référé-provision, l'avocat sollicitera une provision ad hoc à valoir sur les frais futurs d'expertise médicale et d'assistance juridique.
 
 
-<hr><hr>
+<hr>
 
 ## II. EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE
 
@@ -98,7 +79,7 @@ Ce choc a provoqué une section profonde de 8,5 cm au niveau de sa paume droite 
 Les examens cliniques constatent une section partielle du tendon fléchisseur, une section complète du paquet collatéral et une neurolyse du nerf palmaire, entraînant une ITT de 56 jours (jusqu'au **[J+55 Fin d'ITT]** inclus) et des paresthésies sévères de l'index droit.
 
 
-<hr><hr>
+<hr>
 
 ## III. ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES
 
@@ -118,7 +99,7 @@ Les examens cliniques constatent une section partielle du tendon fléchisseur, u
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
 
-<hr><hr>
+<hr>
 
 
 

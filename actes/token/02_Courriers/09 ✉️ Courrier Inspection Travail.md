@@ -36,7 +36,7 @@ Ou **DREETS Occitanie**
 
 Objet : Demande d'information sur les diligences d'enquete — Accident du **[J+0 Accident]** au salon **[Le Commerce de l'Exploitation]**
 
-Reff : Signalement effectue par la mairie de **[La Ville de l'Accident]** aupres de la Prefecture de l'Ariege le 1er juin 2026
+Ref : Signalement effectue par la mairie de **[La Ville de l'Accident]** aupres de la Prefecture de l'Ariege le 1er juin 2026
 
 Madame, Monsieur l'Inspecteur du Travail,
 

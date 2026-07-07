@@ -6,7 +6,6 @@ categorie: procedure
 auteur: La Victime
 destinataire: Le Chirurgien SOS Main
 personnes:
-- L'Etablissement SOS Main
 - L'Établissement SOS Main
 - La Victime
 - Le Chirurgien SOS Main
@@ -42,7 +41,7 @@ Service SOS Main — **[L'Établissement SOS Main]**
 
 Objet : Demande de certificat medical de consolidation — Accident du **[J+0 Accident]**
 
-Reff : Dossier **[La Victime]** / **[Le Chirurgien SOS Main]**
+Ref : Dossier **[La Victime]** / **[Le Chirurgien SOS Main]**
 
 Madame, Docteur,
 

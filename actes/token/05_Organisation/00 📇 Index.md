@@ -50,7 +50,7 @@ Partage depuis : **[L'Email de la Victime]**
 - [RÉFÉRENCES JURISPRUDENTIELLES](#rfrences-jurisprudentielles)
 - [STATISTIQUES DU DOSSIER](#statistiques-du-dossier)
 
-<hr><hr>
+<hr>
 
 ## 00 — Preuves officielles
 
@@ -62,7 +62,7 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-06-19 - CR opératoire **[Le Chirurgien SOS Main]** ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
 - 2026-06-29 - Forensic Evidence File ✓ Vérifié : Dossier de preuves numériques et médicales.
 
-<hr><hr>
+<hr>
 
 ## 01 — Actes procéduraux
 
@@ -76,7 +76,7 @@ Partage depuis : **[L'Email de la Victime]**
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
 
-<hr><hr>
+<hr>
 
 ## 02 — Courriers
 
@@ -106,7 +106,7 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-07-05 - 25 📧 Relance Dr DJERBI - V1 ✓ Vérifié : Relance demande certificat médical de consolidation.
 - 2026-07-05 - 26-28 📧 Attestations Témoin - V1 ✓ Vérifié : Attestations témoin (client, pompier, employé) versions réalistes.
 
-<hr><hr>
+<hr>
 
 ## 03 — Analyses juridiques
 
@@ -122,7 +122,7 @@ Et, [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIART
 - 2026-07-05 - 14 Stratégie jurisprudentielle - V1 ✓ Brouillon : Stratégie jurisprudentielle pour l'audience.
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
-<hr><hr>
+<hr>
 
 ## 04 — Études d'indemnisation
 
@@ -132,7 +132,7 @@ Et, [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIART
 > Attendu : « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »
 > Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
 
-<hr><hr>
+<hr>
 
 ## 05 — Organisation
 
@@ -141,7 +141,7 @@ Et, [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIART
 - 2026-06-29 - 00 📇 Index (ce document) ✓ Vérifié : Index et structure du dossier.
 - 2026-07-05 - 20 📦 Bon envoi physique - V1 ✓ Vérifié : Bon d'envoi physique des pièces au tribunal.
 
-<hr><hr>
+<hr>
 
 ## MÉMOIRES D'AUDIT
 
@@ -160,7 +160,7 @@ Et, [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIART
 - STRICT VARIABLES.md ✓ Vérifié : Variables et faits inaltérables.
 - PIECES MAP.md ✓ Vérifié : Correspondance documents et pièces.
 
-<hr><hr>
+<hr>
 
 ## ARCHIVES
 
@@ -175,7 +175,7 @@ Documents non indexés conservés dans `archives/` :
 - `archives/🧠 STRATEGIE Contentieux Penal.md`
 - `archives/📁 Dossier Presentation.md`
 
-<hr><hr>
+<hr>
 
 ## MODIFICATIONS CLÉS
 
@@ -196,7 +196,7 @@ Documents non indexés conservés dans `archives/` :
 14. Références croisées mises à jour dans tous les actes (01, 02b, 03) ✓
 15. Ancien « Bordereau de pieces.md » supprimé ✓
 
-<hr><hr>
+<hr>
 
 ## RÉFÉRENCES JURISPRUDENTIELLES
 
@@ -227,7 +227,7 @@ Documents non indexés conservés dans `archives/` :
 > Attendu : « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »
 > Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
 
-<hr><hr>
+<hr>
 
 ## STATISTIQUES DU DOSSIER (màj **[J+38 Mise à jour]**)
 
@@ -244,7 +244,7 @@ Documents non indexés conservés dans `archives/` :
 
 *NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à **[La Victime]**. Seule l'Étude d'indemnisation (Piece 03) est conservée dans 04_Etudes_indemnisation.*
 
-<hr><hr>
+<hr>
 
 ## TRAVAUX RESTANTS
 

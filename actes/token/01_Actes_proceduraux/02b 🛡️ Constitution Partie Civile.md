@@ -54,7 +54,7 @@ Par cet acte, la victime entend exercer les droits reconnus a la partie civile a
 - [IV — DEMANDES](#iv--demandes)
 - [PAR CES MOTIFS](#par-ces-motifs)
 
-<hr><hr>
+<hr>
 
 ## I — EXPOSE DES FAITS
 
@@ -75,7 +75,7 @@ La SAS **[L'Exploitant du Commerce (La SAS)]**, immatriculee au RCS sous le SIRE
 
 Malgre des mises en demeure recommandees adressees le **[J+31 Mises en demeure]** a la SAS, au President et a la Directrice Generale, aucun des mis en cause n'a communique les coordonnees d'un assureur, laissant presumer une absence totale de couverture.
 
-<hr><hr>
+<hr>
 
 ## II — FONDEMENTS JURIDIQUES
 
@@ -141,7 +141,7 @@ L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes
 
 En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles [706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625) et [706-14](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577667) du Code de procedure penale, pourra etre directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente constitution de partie civile sollicite formellement la designation du FGTI comme garant subrogatoire.
 
-<hr><hr>
+<hr>
 
 ## III — PREJUDICES
 
@@ -160,7 +160,7 @@ Les prejudices subis par **[La Victime]** sont graves et durables :
 | Frais divers | 3 000 € (kine, deplacements) |
 | Total estime | ~90 000 € (a parfaire apres expertise) |
 
-<hr><hr>
+<hr>
 
 ## IV — DEMANDES
 
@@ -174,7 +174,7 @@ Par ces motifs, **[La Victime]** sollicite qu'il plaise a Monsieur le Doyen des 
 
 4. **CONDAMNER IN SOLIDUM** la SAS **[L'Exploitant du Commerce (La SAS)]**, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a **[La Victime]** la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
 
-<hr><hr>
+<hr>
 
 ## PAR CES MOTIFS
 

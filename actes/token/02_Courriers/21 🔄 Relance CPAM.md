@@ -41,7 +41,7 @@ Madame, Monsieur,
 
 La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]**, immatriculee sous le SIREN **[SIREN de l'Exploitation]**.
 
-<hr><hr>
+<hr>
 
 ## I — OBJET DE LA RELANCE
 
@@ -49,7 +49,7 @@ Un dossier de recours contre tiers a ete ouvert par vos services sous le numero 
 
 Je me permets de solliciter de vos services :
 
-**1. L'etat d'avancement du dossier RCT n° **[N° Dossier CPAM]** <br>
+**1. L'etat d'avancement du dossier RCT n° [N° Dossier CPAM]** <br>
 Je souhaiterais connaitre l'etat actuel de l'instruction de mon dossier et, le cas echeant, les prochaines etapes de la procedure.
 
 **2. L'identite de la gestionnaire en charge du dossier** <br>

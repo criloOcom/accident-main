@@ -1,3 +1,22 @@
+---
+titre: Stratégie jurisprudentielle — Basculement vasque salon de coiffure
+date: 2026-07-07
+type: analyse
+categorie: strategie
+auteur: La Victime
+destinataire: null
+personnes:
+  - La Victime
+  - L'Exploitant du Commerce (La SAS)
+tags:
+  - jurisprudence
+  - stratégie
+  - cour de cassation
+statut: final
+source: local
+format: Arial JUSTIFIED
+---
+
 # Stratégie jurisprudentielle — Basculement vasque salon de coiffure
 
 > **Objet** : Mapping des arrêts de la Cour de cassation au cas concret, hiérarchie argumentative et préparation des débats.

@@ -1,3 +1,21 @@
+---
+titre: Évaluation financière Dintilhac détaillée
+date: 2026-07-07
+type: analyse
+categorie: indemnisation
+auteur: La Victime
+destinataire: null
+personnes:
+  - La Victime
+tags:
+  - dintilhac
+  - indemnisation
+  - évaluation
+statut: final
+source: local
+format: Arial JUSTIFIED
+---
+
 # Évaluation financière Dintilhac détaillée
 
 > Évaluation poste par poste réalisée le 7 juillet 2026 selon la nomenclature Dintilhac, barème Mornet 2024 et jurisprudence de la Cour de cassation.

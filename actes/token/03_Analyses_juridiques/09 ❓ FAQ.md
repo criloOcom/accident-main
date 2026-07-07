@@ -55,7 +55,7 @@ La présente synthèse répond en outre aux questions pratiques que la victime e
   [V. CALENDRIER ET DÉLAIS DE PROCÉDURE](#v-calendrier-et-dlais-de-procdure)
 - [VI. POINTS DE VIGILANCE ET CONCLUSION](#vi-points-de-vigilance-et-conclusion)
 
-<hr><hr>
+<hr>
 
 ## I. PRÉSENTATION GÉNÉRALE DE L'AFFAIRE
 
@@ -66,7 +66,7 @@ La victime, **[La Victime]**, né le 18/01/1982, exerce la profession d'informat
 Les parties mises en cause incluent la SAS elle-même, ses dirigeants **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, ainsi que **[Le Propriétaire des Murs]**, propriétaire des murs commerciaux.
 
 
-<hr><hr>
+<hr>
 
 ## II. FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE
 
@@ -101,7 +101,7 @@ Le fait de cacher l'accident à son assureur ou de refuser de communiquer les co
 > « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. »
 
 
-<hr><hr>
+<hr>
 
 ## III. STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
 
@@ -119,7 +119,7 @@ Par ailleurs, une attention particulière est portée à la faute détachable de
 Enfin, le propriétaire des murs, **[Le Propriétaire des Murs]**, a été sollicité par LRAR le **[J+31 Mises en demeure]** non pas en tant que responsable de l'accident, mais comme source d'information : le bail commercial l'oblige à détenir l'attestation d'assurance RC Pro de son locataire (la SAS). À ce jour, l'AR a été retourné signé mais sans réponse sur le fond.
 
 
-<hr><hr>
+<hr>
 
 ## IV. Démarches et Procédures Engagées
 
@@ -135,7 +135,7 @@ Sur le plan civil, plusieurs mises en demeure ont été expédiées le **[J+31 M
 
 - Action directe contre **[l'assureur de responsabilité civile]** (fondée sur l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)).
 
-<hr><hr>
+<hr>
 
 ## V. CALENDRIER ET DÉLAIS DE PROCÉDURE
 
@@ -145,12 +145,12 @@ La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jour
 
 Une étape cruciale est fixée au **[J+167 Expertise UMJ]** pour l'expertise médicale à l'UMJ de **[La Métropole Régionale]**, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à 59 600 €).
 
-À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation ([Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112)).
+À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation ([Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259)).
 
 > « L'action en responsabilité née d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices, se prescrit par dix ans à compter de la date de la consolidation du dommage corporel initial ou aggravé. »
 
 
-<hr><hr>
+<hr>
 
 ## VI. POINTS DE VIGILANCE ET CONCLUSION
 

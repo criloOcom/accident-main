@@ -21,7 +21,7 @@ format: Arial JUSTIFIED
 
 # **DOSSIER DE PLAIDOIRIE POUR L'AUDIENCE DE RÉFÉRÉ DU 31 JUILLET 2026**
 
-<hr><hr>
+<hr>
 
 ## 1. FICHE SYNTHÉTIQUE (1 page)
 
@@ -50,20 +50,20 @@ format: Arial JUSTIFIED
 - **Pièce ACQ-04 :** Compte-rendu opératoire attestant de la section tendineuse et nerveuse (**[J+1 Chirurgie]**)
 - **Pièce ACQ-17 :** Mises en demeure par Lettres Recommandées avec Accusé de Réception (**[J+31 Mises en demeure]**)
 
-<hr><hr>
+<hr>
 
 ## 2. CHRONOLOGIE DES FAITS
 
 *Rappel des dates clés démontrant l'urgence et la gravité de la situation.*
 
-- **[J+0 Accident]** :** Date de l'accident au sein de l'établissement **[L'Exploitant du Commerce (La SAS)]**. Le préposé **[Le Préposé de l'Exploitation]** monte sur la vasque du bac à shampoing qui bascule. En tentant de le protéger par réflexe, **[La Victime]** heurte une cassure tranchante préexistante de la vasque. Section des tendons et nerfs de l'index droit.
-- **[J+1 Chirurgie]** :** Intervention en urgence de microchirurgie à la **[L'Établissement SOS Main]** par **[Le Chirurgien SOS Main]**.
+- **[J+0 Accident] :** Date de l'accident au sein de l'établissement **[L'Exploitant du Commerce (La SAS)]**. Le préposé **[Le Préposé de l'Exploitation]** monte sur la vasque du bac à shampoing qui bascule. En tentant de le protéger par réflexe, **[La Victime]** heurte une cassure tranchante préexistante de la vasque. Section des tendons et nerfs de l'index droit.
+- **[J+1 Chirurgie] :** Intervention en urgence de microchirurgie à la **[L'Établissement SOS Main]** par **[Le Chirurgien SOS Main]**.
 - **1er juin 2026 :** Dépôt de plainte officiel par la victime (Pièce ACQ-09).
-- **[J+31 Mises en demeure]** :** Envoi des Mises en demeure (LRAR) visant à obtenir l'attestation d'assurance de la SAS (Pièce ACQ-17). Silence radio des dirigeants.
-- **[J+37 Assignation 145]** :** Signalements administratifs effectués auprès des diverses autorités (Inspection du Travail, CODAF, etc.) face au refus persistant de coopération de l'employeur.
+- **[J+31 Mises en demeure] :** Envoi des Mises en demeure (LRAR) visant à obtenir l'attestation d'assurance de la SAS (Pièce ACQ-17). Silence radio des dirigeants.
+- **[J+37 Assignation 145] :** Signalements administratifs effectués auprès des diverses autorités (Inspection du Travail, CODAF, etc.) face au refus persistant de coopération de l'employeur.
 - **Date non fixée (à planifier) :** Date de la présente audience de référé pour obtenir l'indemnisation provisionnelle et forcer la communication de la couverture assurantielle.
 
-<hr><hr>
+<hr>
 
 ## 3. DISCUSSION JURIDIQUE STRUCTURÉE
 
@@ -88,7 +88,7 @@ La responsabilité de **[Le Président de l'Exploitation]** et **[La Directrice 
 
 Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant est tenu par une obligation générale de sécurité prévue à l'[Article L. 421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) et aux règles des ERP. Maintenir une vasque brisée et tranchante dans un tel espace constitue une négligence coupable d'une extrême gravité.
 
-<hr><hr>
+<hr>
 
 ## 4. JURISPRUDENCE CLÉ
 
@@ -99,7 +99,7 @@ L'argumentation développée s'appuie sur une jurisprudence constante :
 - **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** [N° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369). Le refus de communication et l'éventuel défaut d'assurance caractérisent une faute détachable de l'exercice normal des fonctions sociales des dirigeants, justifiant leur condamnation personnelle.
 - **Principe de réparation intégrale (Cass. Civ. 2e, 8 juillet 2021) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour **[La Victime]**, informaticien indépendant, l'incidence professionnelle est majeure.
 
-<hr><hr>
+<hr>
 
 ## 5. PIÈCES À CITER IMPÉRATIVEMENT
 
@@ -109,7 +109,7 @@ Monsieur le Juge, je vous renvoie aux pièces listées dans notre bordereau, et 
 - **Pièce ACQ-17** (AR des mises en demeure) prouvant notre démarche de conciliation restée lettre morte de la part des défendeurs.
 - **Pièce ACQ-09** (Plainte officielle) prouvant les démarches entreprises au pénal par la victime.
 
-<hr><hr>
+<hr>
 
 ## 6. MONTANTS DEMANDÉS
 
@@ -119,7 +119,7 @@ La présente procédure de référé ne vise pas à solder définitivement le do
 - **Provision demandée à l'audience :** 5 000 €
 - **Demande au titre de l'Article 700 du Code de procédure civile :** 3 000 € (frais de justice, avocat et constats)
 
-<hr><hr>
+<hr>
 
 ## 7. QUESTIONS PROBABLES DU JUGE ET RÉPONSES PRÉPARÉES
 
