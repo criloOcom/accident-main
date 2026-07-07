@@ -92,9 +92,9 @@ Je vous mets en demeure par la présente :
 L'évaluation globale de mon préjudice corporel, détaillée dans l'étude d'indemnisation, s'établit à **59 600 €** selon les postes de préjudice suivants :
 
 - Pertes de gains professionnels actuels (PGPA) : **1 400 €**
-- Incidence professionnelle (IP) : **15 000 €**
-- Déficit fonctionnel permanent (DFP) : **25 200 €**
-- Souffrances endurées (SE) : **12 000 €**
+- Incidence professionnelle (IP) : **30 000 €**
+- Déficit fonctionnel permanent (DFP) : **25 000 €**
+- Souffrances endurées (SE) : **15 000 €**
 - Préjudice d'agrément : **3 000 €**
 - Frais de procédure (Article 700) : **3 000 €**
 

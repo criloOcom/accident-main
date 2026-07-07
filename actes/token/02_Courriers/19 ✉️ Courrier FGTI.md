@@ -101,11 +101,11 @@ Le montant total estime de mon prejudice corporel, selon la nomenclature Dintilh
 
 - Pertes de gains professionnels actuels (PGPA) : 1 400 €
 
-- Incidence professionnelle (IP) : 15 000 €
+- Incidence professionnelle (IP) : 30 000 €
 
-- Deficit fonctionnel permanent (DFP) : 25 200 €
+- Deficit fonctionnel permanent (DFP) : 25 000 €
 
-- Souffrances endurees (SE) : 12 000 €
+- Souffrances endurees (SE) : 15 000 €
 
 - Prejudice d'agrement : 3 000 €
 

@@ -167,7 +167,7 @@ Les arrêts suivants, déjà intégrés dans le dossier, confirment la cohérenc
 |-------|----------|----------------------|
 | Cass. Civ. 2e, 4 avril 2024, n° 22-19.307 | Capitalisation des dépenses de santé futures sans contrôle restrictif de l'assureur. | Appuie la demande de provision pour frais futurs (rééducation, matériel ergonomique). |
 | Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106 | Aggravation du dommage : toute aggravation médicale ultérieure ouvre un nouveau droit à réparation. | Permet de réévaluer le préjudice en cas d'aggravation après expertise initiale. |
-| Cass. Civ. 2e, 6 mai 2021, n° 19-23.173 | Incidence professionnelle : poste distinct indemnisant la dévalorisation sur le marché du travail. | Confirme l'IP de 15 000 € (dévalorisation en tant qu'informaticien indépendant). |
+| Cass. Civ. 2e, 6 mai 2021, n° 19-23.173 | Incidence professionnelle : poste distinct indemnisant la dévalorisation sur le marché du travail. | Confirme l'IP de 30 000 € (dévalorisation en tant qu'informaticien indépendant). |
 | Cass. Civ. 1ère, 8 décembre 2021, n° 20-16.463 | Libre disposition des indemnités : la victime peut utiliser les fonds sans contrôle du responsable. | Justifie que les 59 600 € demandés peuvent être librement affectés (rééducation, aménagement ergonomique). |
 
 <hr>

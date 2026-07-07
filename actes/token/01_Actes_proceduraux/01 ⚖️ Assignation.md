@@ -107,13 +107,13 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du *
 ### A. Sur le principe de la responsabilité civile délictuelle
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
-> **Code civil > Livre III > Titre III > Sous-titre II > Chapitre Ier : La responsabilité extracontractuelle en général** <br>
+> **Code civil > ... > Chapitre Ier : La responsabilité extracontractuelle en général** <br>
 > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 
 En l'espèce, le basculement brutal de l'équipement dû à l'escalade du préposé sur la vasque en céramique, laquelle présentait une cassure préexistante non signalée, caractérise un manquement à l'obligation de sécurité imputable à l'exploitant.
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. » <br>
-> **Code civil > Livre III > Titre III > Sous-titre II > Chapitre Ier : La responsabilité extracontractuelle en général** <br>
+> **Code civil > ... > Chapitre Ier : La responsabilité extracontractuelle en général** <br>
 > [Article 1242 alinéa 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
 
 Les commettants sont responsables du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés.
