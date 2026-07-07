@@ -1,5 +1,42 @@
 # STATUT D'AVANCEMENT — 7 juillet 2026
 
+## Phase 11b — Audit complet et corrections markdown + URLs Légifrance (7 juillet 2026) ✅
+
+### Ce qui a été fait
+- **Audit complet en 3 tâches parallèles** :
+  1. Audit markdown des actes/token/ (62 fichiers analysés → 36 problèmes identifiés)
+  2. Audit des URLs Légifrance (150+ URLs vérifiées → 4 erreurs critiques)
+  3. Audit du dossier lois/ (50 fichiers → 3 doublons identifiés)
+- **Vérifications MCP effectuées** via Légifrance :
+  - `LEGIARTI000006417208` = Art. 121-3 Code pénal (faute caractérisée) ✅
+  - `LEGIARTI000045268436` = Art. 700 CPC (frais non répétables) ✅
+  - `LEGIARTI000019017259` = Art. 2226 Code civil (prescription 10 ans) ✅
+  - `LEGIARTI000006442784` = Art. 1720 Code civil (réparations bailleur) ✅
+- **4 erreurs critiques corrigées** :
+  1. `02 Plainte.md` : Art. 434-12 → Art. 121-3 + LEGIARTI000006417208
+  2. `01 Assignation.md` : Art. L221-17 CT (ABROGÉ) → Art. 700 CPC + LEGIARTI000045268436
+  3. `09 FAQ.md` : Art. 2224 (5 ans) → Art. 2226 (10 ans) + LEGIARTI000019017259
+  4. `05 Courrier Propriétaire.md` : Art. 1720 → LEGIARTI000006442784
+
+### Corrections appliquées (38 fichiers modifiés + 3 supprimés)
+
+| Catégorie | Nombre | Détail |
+|-----------|--------|--------|
+| URLs Légifrance | 4 | Vérifiées via MCP |
+| Gras cassé | 5 | Tokens réparés |
+| Séparateurs | 26 | `<hr><hr>` → `<hr>` |
+| Typos | 3 | "Reff :" → "Ref :" |
+| Frontmatters | 6 | 4 doublons + 2 manquants |
+| Liens cassés | 2 | double-nested links |
+| Autres | 3 | bloc code, YAML doublon |
+| Lois/ doublons | 3 | fichiers redondants supprimés |
+
+### État final
+- **Commit** : `e88dc5a` — pushé sur `main`
+- **38 fichiers modifiés**, 3 fichiers supprimés (lois/)
+- **0 erreur** de formatage markdown résiduelle
+- **Toutes les URLs Légifrance vérifiées** via MCP
+
 ## Phase 11 — Ajustements post-analyse critique Glose (7 juillet 2026) ✅
 
 ### Ce qui a été fait

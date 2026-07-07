@@ -35,9 +35,11 @@ Rédigé le **[J+32 Assignation référé]**
 
 La présente assignation en référé-provision et demande d'expertise médicale est introduite par **[La Victime]** à l'encontre de **[L'Exploitant du Commerce (La SAS)]**, personne morale exploitant un salon de coiffure, pris en la personne de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, et personnellement contre ces derniers, au sein duquel la victime a subi un grave accident corporel le **[J+0 Accident]**. 
 
-Par cet acte, **[La Victime]** sollicite du président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, l'allocation d'une provision de 15 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de l'[Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
+Par cet acte, **[La Victime]** sollicite du président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, l'allocation d'une provision de 15 000 € à valoir sur la réparation intégrale de ses préjudices.
 
-> « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
+> « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. » <br>
+> **Code de procédure civile > Chapitre II : Les ordonnances de référé** <br>
+> [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
 
 Elle demande en outre la désignation d'un expert médical judiciaire sur le fondement de l'Article 145 du même code, afin de décrire l'étendue de ses séquelles et d'évaluer chacun des postes de préjudice corporel selon la nomenclature Dintilhac.
 
@@ -49,14 +51,15 @@ POUR :
 
 CONTRE :
 
-**1. **[L'Exploitant du Commerce (La SAS)]****, Société par Actions Simplifiée au capital de 200 €, immatriculée au RCS de **[La Ville de l'Accident]** sous le numéro SIRET **[L'Identifiant de l'Exploitation]**, ayant son siège social au **[L'Adresse de l'Exploitation]**, prise en la personne de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** ;
+1. **[L'Exploitant du Commerce (La SAS)]**, Société par Actions Simplifiée au capital de 200 €, immatriculée au RCS de **[La Ville de l'Accident]** sous le numéro SIRET **[L'Identifiant de l'Exploitation]**, ayant son siège social au **[L'Adresse de l'Exploitation]**, prise en la personne de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** ;
 
-**2. **[Le Président de l'Exploitation]** **, Président de **[L'Exploitant du Commerce (La SAS)]**, demeurant **[L'Adresse du Président]**, pris en sa qualité de dirigeant de droit et personnellement ;
+2. **[Le Président de l'Exploitation]**, Président de **[L'Exploitant du Commerce (La SAS)]**, demeurant **[L'Adresse du Président]**, pris en sa qualité de dirigeant de droit et personnellement ;
 
-**3. **[La Directrice Générale de l'Exploitation]** **, Directrice Générale de **[L'Exploitant du Commerce (La SAS)]**, prise en sa qualité de dirigeante de droit et personnellement.
+3. **[La Directrice Générale de l'Exploitation]**, Directrice Générale de **[L'Exploitant du Commerce (La SAS)]**, prise en sa qualité de dirigeante de droit et personnellement.
 
 PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCIDENT]**
 
+<hr>
 
 - [I. EXPOSÉ DES FAITS](#i-expos-des-faits)
 - [II. DISCUSSION JURIDIQUE](#ii-discussion-juridique)
@@ -70,7 +73,7 @@ PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCI
 - [PAR CES MOTIFS](#par-ces-motifs)
 
 
-<hr>
+<hr><hr>
 
 ## I. EXPOSÉ DES FAITS
 
@@ -95,55 +98,82 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du *
 À ce jour, le cumul des arrêts de travail prescrits s'élève à 56 jours d'ITT continue (du **[J+0 Accident]** au **[J+55 Fin d'ITT]** inclus) **(Pièce n°4)**.
 
 
-<hr>
+<hr><hr>
 
 ## II. DISCUSSION JURIDIQUE
 
 ### A. Sur le principe de la responsabilité civile délictuelle
 
-L'[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) dispose :
+> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+> **Code de procédure civile > Chapitre Ier : La responsabilité extracontractuelle en général** <br>
+> [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 
-> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »*
+En l'espèce, le basculement brutal de l'équipement dû à l'escalade du préposé sur la vasque en céramique, laquelle présentait une cassure préexistante non signalée, caractérise un manquement à l'obligation de sécurité imputable à l'exploitant.
 
-En l'espèce, le basculement brutal de l'équipement dû à l'escalade du préposé sur la vasque en céramique, laquelle présentait une cassure préexistante non signalée, caractérise un manquement à l'obligation de sécurité imputable à l'exploitant au sens de l'[Article 1242 alinéa 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) dispose que les commettants sont responsables du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés.
+> « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. » <br>
+> **Code de procédure civile > Chapitre Ier : La responsabilité extracontractuelle en général** <br>
+> [Article 1242 alinéa 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
 
-> « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
+Les commettants sont responsables du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés.
+
 
 De surcroît, les faits se sont produits sous le contrôle du préposé de l'établissement (**[Le Préposé de l'Exploitation]**). Par conséquent, la responsabilité délictuelle de **[L'Exploitant du Commerce (La SAS)]** est engagée sans contestation possible.
 
 **Sur la responsabilité personnelle des dirigeants :**
 
-L'[Article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) dispose que les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. L'[Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) prévoit que les administrateurs et le directeur général sont responsables, individuellement ou solidairement, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion.
+> « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
+> **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées** <br>
+> [Article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
 
-Constitue une faute personnelle séparable des fonctions sociales engageant la responsabilité du dirigeant à l'égard des tiers la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales (Cass. com., 20 mai 2003, n°99-17.092, arrêt SATI ; Cass. com., 7 septembre 2022, n°20-20.404). En l'espèce, le défaut d'entretien des locaux et de sécurisation de la vasque céramique présentant une cassure préexistante non signalée, le défaut d'assurance de responsabilité civile professionnelle et le silence systématique opposé aux demandes de la victime caractérisent une méconnaissance des obligations essentielles de sécurité dont le caractère réitéré et l'absence de toute mesure corrective excluent qu'ils aient pu légitimement ignorer le risque pour la clientèle. Une telle carence est de nature à engager la responsabilité personnelle in solidum de **[Le Président de l'Exploitation]** et de **[La Directrice Générale de l'Exploitation]** avec la personne morale.
+> « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. » <br>
+> **Code de commerce > Section 8 : De la responsabilité civile** <br>
+> [Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
+
+Les administrateurs et le directeur général sont responsables, individuellement ou solidairement, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion.
+
+Constitue une faute personnelle séparable des fonctions sociales engageant la responsabilité du dirigeant à l'égard des tiers la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales (Cass. com., 20 mai 2003, n°99-17.092, arrêt SATI ; Cass. com., 7 septembre 2022, n°20-20.404).
+
+En l'espèce, le défaut d'entretien des locaux et de sécurisation de la vasque céramique présentant une cassure préexistante non signalée, le défaut d'assurance de responsabilité civile professionnelle et le silence systématique opposé aux demandes de la victime caractérisent une méconnaissance des obligations essentielles de sécurité dont le caractère réitéré et l'absence de toute mesure corrective excluent qu'ils aient pu légitimement ignorer le risque pour la clientèle. Une telle carence est de nature à engager la responsabilité personnelle in solidum de **[Le Président de l'Exploitation]** et de **[La Directrice Générale de l'Exploitation]** avec la personne morale.
 
 L'extrême sous-capitalisation de la société (capital social de 200 €), ne lui permettant manifestement pas de faire face à l'indemnisation d'un accident corporel grave, confirme la nécessité de retenir la responsabilité personnelle des dirigeants, seuls garants effectifs de la solvabilité de l'indemnisation.
 
 ### B. Sur le fondement du droit de la consommation
 
-Le salon de coiffure, en tant que professionnel, est tenu à une obligation d'information précontractuelle en application de l'[Article L.111-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650), lequel dispose :
+Le salon de coiffure, en tant que professionnel, est tenu à une obligation d'information précontractuelle.
 
-> « Avant que le consommateur ne soit lié par un contrat de vente de biens ou de fourniture de services, le professionnel communique au consommateur, de manière lisible et compréhensible, les informations relatives aux caractéristiques essentielles du bien ou du service. »
+> « Avant que le consommateur ne soit lié par un contrat de vente de biens ou de fourniture de services, le professionnel communique au consommateur, de manière lisible et compréhensible, les informations relatives aux caractéristiques essentielles du bien ou du service. » <br>
+> [Article L.111-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650)
 
-En outre, l'[Article L.217-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032227138/) impose une obligation de conformité du service fourni :
+Il est imposé une obligation de conformité du service fourni.
 
-> « Le professionnel délivre un bien conforme au contrat ainsi qu'aux critères énoncés à l'article L. 217-5. Il répond des défauts de conformité existant lors de la délivrance du bien au sens de l'article L. 217-13. »
+> « Le professionnel délivre un bien conforme au contrat ainsi qu'aux critères énoncés à l'article L. 217-5. Il répond des défauts de conformité existant lors de la délivrance du bien au sens de l'article L. 217-13. » <br>
+> [Article L.217-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032227138/) 
 
-La prestation de coiffure réalisée n'était manifestement pas conforme aux exigences de sécurité légitimes d'un consommateur : le défaut d'entretien de la vasque en céramique (cassure préexistante non signalée) et l'absence d'équipement d'accès adapté (escabeau) constituent un manquement à l'obligation de sécurité inhérente à toute prestation de service relevant du Code de la consommation. Ce fondement complémentaire (droit de la consommation) renforce l'absence de contestation sérieuse sans se substituer au fondement principal de la responsabilité civile délictuelle (art. 1240, 1242 C. civ.), offrant ainsi un double socle juridique à la demande.
+La prestation de coiffure réalisée n'était manifestement pas conforme aux exigences de sécurité légitimes d'un consommateur :
+- Défaut d'entretien de la vasque en céramique (cassure préexistante non signalée),
+   
+- Absence d'équipement d'accès adapté (escabeau)
+
+Ces inconformités constituent un manquement à l'obligation de sécurité inhérente à toute prestation de service relevant du Code de la consommation.
+
+Ce fondement complémentaire (droit de la consommation) renforce l'absence de contestation sérieuse sans se substituer au fondement principal de la responsabilité civile délictuelle (art. 1240, 1242 C. civ.), offrant ainsi un double socle juridique à la demande.
 
 ### C. Sur la demande d'expertise médicale
 
-L'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) prévoit :
-
-> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
+> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
 L'état corporel de **[La Victime]** n'étant pas consolidé à ce jour, il est indispensable de faire désigner un expert médical judiciaire afin d'évaluer l'intégralité des préjudices corporels subis.
 
 ### D. Sur l'octroi d'une provision financière
 
-L'[Article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) énonce :
 
-> « Dans tous les cas où l'existence de l'obligation n'est pas sérieusement contestable, le président peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »*
+
+> « Dans tous les cas où l'existence de l'obligation n'est pas sérieusement contestable, le président peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. » <br>
+> **Code de procédure civile > Chapitre II : Les ordonnances de référé** <br>
+> [Article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) 
+
 
 L'obligation à réparation de **[L'Exploitant du Commerce (La SAS)]** n'étant pas sérieusement contestable au vu du PV de police et des pièces médicales indiscutables, **[La Victime]** est fondé à réclamer le versement d'une provision financière.
 
@@ -170,10 +200,10 @@ Aucun élément versé aux débats ne permet de contester sérieusement ni la ma
 **5. Jurisprudence**
 
 - **Cass. 2e Civ., 15 mai 1992, n° 90-14.261** : le juge des référés peut accorder une provision supérieure au montant de l'offre faite à la victime
+  
 - **Cass. 2e Civ., 24 mars 2016, n° 15-15.306** : le juge fixe souverainement le montant de la provision dès lors que l'obligation n'est pas sérieusement contestable
+  
 - **Cass. 2e Civ., 19 novembre 1998, n° 96-16.128** : le paiement d'une provision en référé n'exonère pas le débiteur de son obligation d'indemnisation finale
-
-<hr>
 
 ### F. Sur la communication forcée de la police d'assurance
 
@@ -185,7 +215,7 @@ Le motif légitime est caractérisé par l'impossibilité pour la victime d'exer
 
 Il est donc demandé au juge des référés d'ordonner à **[L'Exploitant du Commerce (La SAS)]** de communiquer sa police d'assurance sous astreinte de 150 € par jour de retard.
 
-<hr>
+<hr><hr>
 
 ## III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)
 
@@ -217,7 +247,7 @@ Il est donc demandé au juge des référés d'ordonner à **[L'Exploitant du Com
 
 Dans l'attente du dépôt du rapport de l'expert judiciaire, **[La Victime]** sollicite l'allocation d'une provision de 15 000 € à valoir sur l'indemnisation finale de son préjudice corporel.
 
-<hr>
+<hr><hr>
 
 ## PAR CES MOTIFS
 
