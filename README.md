@@ -17,14 +17,14 @@
 
 📁 **[actes/](./actes/)** — Actes juridiques et documents de travail
 
-├── 📁 **[token/](./actes/token/)** — Versions anonymisées (travail courant)
-│   ├── 📁 **[00_Preuves_officielles/](./actes/token/00_Preuves_officielles/)** — Inventaire et preuves physiques
-│   ├── 📁 **[01_Actes_proceduraux/](./actes/token/01_Actes_proceduraux/)** — Assignations, conclusions, requêtes
-│   ├── 📁 **[02_Courriers/](./actes/token/02_Courriers/)** — Mises en demeure, courriers administratifs
-│   ├── 📁 **[03_Analyses_juridiques/](./actes/token/03_Analyses_juridiques/)** — Plaidoiries, FAQ, analyses
-│   ├── 📁 **[04_Etudes_indemnisation/](./actes/token/04_Etudes_indemnisation/)** — Évaluations Dintilhac
-│   ├── 📁 **[05_Organisation/](./actes/token/05_Organisation/)** — Index, calendrier, statistiques
-│   └── 📁 **[06_Archives/](./actes/token/06_Archives/)** — Annexes (lois, lexique, pièces)
+├── 📁 **[token/](./actes/token/)** — Versions anonymisées (travail courant) <br>
+│   ├── 📁 **[00_Preuves_officielles/](./actes/token/00_Preuves_officielles/)** — Inventaire et preuves physiques <br>
+│   ├── 📁 **[01_Actes_proceduraux/](./actes/token/01_Actes_proceduraux/)** — Assignations, conclusions, requêtes <br>
+│   ├── 📁 **[02_Courriers/](./actes/token/02_Courriers/)** — Mises en demeure, courriers administratifs <br>
+│   ├── 📁 **[03_Analyses_juridiques/](./actes/token/03_Analyses_juridiques/)** — Plaidoiries, FAQ, analyses <br>
+│   ├── 📁 **[04_Etudes_indemnisation/](./actes/token/04_Etudes_indemnisation/)** — Évaluations Dintilhac <br>
+│   ├── 📁 **[05_Organisation/](./actes/token/05_Organisation/)** — Index, calendrier, statistiques <br>
+│   └── 📁 **[06_Archives/](./actes/token/06_Archives/)** — Annexes (lois, lexique, pièces) <br>
 │
 └── 📁 **[reel/](./actes/reel/)** — Versions réelles (identités réelles résolues)
 
