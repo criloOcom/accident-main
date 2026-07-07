@@ -48,7 +48,7 @@ Alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la v
 
 Par réflexe, **[La Victime]** a tendu la main droite — sa main dominante indispensable à son activité professionnelle — pour protéger **[Le Préposé de l'Exploitation]** ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une prise en charge chirurgicale en urgence par le service SOS Main.
 
-Le contentieux pénal a pour objet de faire reconnaître la culpabilité de **[L'Exploitant du Commerce (La SAS)]** et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive, y compris par la saisine du Fonds de Garantie (FGTI) via la CIVI en cas d'insolvabilité de l'auteur.
+Le contentieux pénal a pour objet de faire reconnaître la culpabilité de **[L'Exploitant du Commerce (La SAS)]** et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive, y compris par la saisine du [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) via la CIVI en cas d'insolvabilité de l'auteur.
 
 ## 2. INFRACTIONS CONSTITUÉES
 ### 2.1 BLESSURES INVOLONTAIRES
@@ -56,21 +56,21 @@ Faits : le **[J+0 Accident]**, **[La Victime]** a subi une section nerveuse et t
 
 Ces faits sont constitutifs de blessures involontaires ayant entraîné une incapacité totale de travail (ITT) prévisible inférieure ou égale à trois mois.
 
-L'infraction est prévue et réprimée par l'Article 222-20 du Code pénal.
+L'infraction est prévue et réprimée par [l'Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
 ### 2.2 ABSENCE D'ASSURANCE RESPONSABILITÉ CIVILE PROFESSIONNELLE
 **[L'Exploitant du Commerce (La SAS)]** n'a pas communiqué d'attestation d'assurance de responsabilité civile professionnelle malgré les relances amiables de **[La Victime]**.
 
-Cette absence d'assurance, si elle est confirmée, prive la victime de l'exercice de l'action directe contre l'assureur prévue à l'Article L. 124-3 du Code des assurances, et justifie une saisine du Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI) sur le fondement de l'Article 706-3 du Code de procédure pénale, qui prévoit l'indemnisation des victimes d'infractions lorsque l'auteur n'est pas assuré.
+Cette absence d'assurance, si elle est confirmée, prive la victime de l'exercice de l'action directe contre l'assureur prévue à [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), et justifie une saisine du [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625), qui prévoit l'indemnisation des victimes d'infractions lorsque l'auteur n'est pas assuré.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
-**Note :** Il n'existe pas, en droit français, d'infraction pénale spécifique sanctionnant l'absence d'assurance RC Pro pour un salon de coiffure, contrairement à l'obligation d'assurance des véhicules terrestres à moteur prévue à l'Article L. 211-26 du Code des assurances qui ne concerne que les véhicules.
+**Note :** Il n'existe pas, en droit français, d'infraction pénale spécifique sanctionnant l'absence d'assurance RC Pro pour un salon de coiffure, contrairement à l'obligation d'assurance des véhicules terrestres à moteur prévue à [Article L. 211-26 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795644) qui ne concerne que les véhicules.
 
 ### 2.3 MISE EN DANGER DE LA VIE D'AUTRUI
-Le maintien en service d'un équipement dangereux (bac à shampoing instable dont la vasque en céramique présentait une cassure majeure tranchante non signalée) exposant directement le public à un risque immédiat de blessure pourrait caractériser l'infraction de mise en danger de la vie d'autrui prévue à l'Article 223-1 du Code pénal.
+Le maintien en service d'un équipement dangereux (bac à shampoing instable dont la vasque en céramique présentait une cassure majeure tranchante non signalée) exposant directement le public à un risque immédiat de blessure pourrait caractériser l'infraction de mise en danger de la vie d'autrui prévue à [Article 223-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253).
 
 Cette qualification nécessite la démonstration d'une violation délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le règlement.
 
@@ -100,10 +100,10 @@ La constitution de partie civile peut être réalisée par déclaration au greff
 ### 3.3 COMPLÉMENT DE PLAINTE POUR ABSENCE D'ASSURANCE
 Un complément de plainte a été déposé le **[J+32 Assignation référé]** auprès du Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par **[L'Exploitant du Commerce (La SAS)]**.
 
-Ce complément vise à porter à la connaissance de l'autorité judiciaire cette carence, qui constitue un obstacle à l'indemnisation de la victime et justifie, le cas échéant, la saisine du Fonds de Garantie (FGTI) sur le fondement de l'Article 706-3 du Code de procédure pénale.
+Ce complément vise à porter à la connaissance de l'autorité judiciaire cette carence, qui constitue un obstacle à l'indemnisation de la victime et justifie, le cas échéant, la saisine du [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
 ### 3.4 RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS
-Les dirigeants de **[L'Exploitant du Commerce (La SAS)]**, à savoir **[Le Président de l'Exploitation]** (Président) et **[La Directrice Générale de l'Exploitation]** (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales (Cass. Com., 20 mai 2003, n° 99-17.092, Arrêt SATI), ainsi que sur le fondement de l'Article L. 225-251 du Code de commerce.
+Les dirigeants de **[L'Exploitant du Commerce (La SAS)]**, à savoir **[Le Président de l'Exploitation]** (Président) et **[La Directrice Générale de l'Exploitation]** (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales ([Cass. Com., 20 mai 2003, n° 99-17.092, Arrêt SATI](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)), ainsi que sur le fondement de [Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928).
 
 > Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
 > Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
@@ -111,16 +111,16 @@ Les dirigeants de **[L'Exploitant du Commerce (La SAS)]**, à savoir **[Le Prés
 Le défaut de souscription d'assurance responsabilité civile professionnelle constitue une faute d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales, caractérisant une faute détachable engageant la responsabilité personnelle des dirigeants sur leurs biens propres.
 
 ### 3.5 INDEMNISATION PAR LE FGTI / CIVI
-L'absence d'assurance de **[L'Exploitant du Commerce (La SAS)]** et son insolvabilité éventuelle justifient la mise en œuvre de la voie indemnitaire subsidiaire prévue aux articles 706-3 et suivants du Code de procédure pénale.
+L'absence d'assurance de **[L'Exploitant du Commerce (La SAS)]** et son insolvabilité éventuelle justifient la mise en œuvre de la voie indemnitaire subsidiaire prévue aux [articles 706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625) et suivants du Code de procédure pénale.
 
-Le Fonds de Garantie (FGTI) indemnise les victimes de dommages corporels résultant d'une infraction pénale lorsque l'auteur n'est pas assuré et que la réparation ne peut être obtenue à un autre titre.
+Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) indemnise les victimes de dommages corporels résultant d'une infraction pénale lorsque l'auteur n'est pas assuré et que la réparation ne peut être obtenue à un autre titre.
 
 **Conditions remplies en l'espèce :**
-- Infraction pénale constituée : blessures involontaires (Article 222-20 du Code pénal).
+- Infraction pénale constituée : blessures involontaires ([Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)).
 - Gravité du dommage : ITT de 56 jours (≥ 1 mois, condition de recevabilité).
 - Absence d'assurance confirmée par le défaut de réponse aux relances amiables.
 
-**Délai CIVI = 3 ans (Article 706-5 du Code de procédure pénale) :**
+**Délai CIVI = 3 ans ([Article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)) :**
 - **3 ans** à compter de l'infraction (**[J+0 Accident]** → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
 - Ou **1 an** après une décision pénale définitive si elle intervient avant l'expiration du délai de 3 ans.
 

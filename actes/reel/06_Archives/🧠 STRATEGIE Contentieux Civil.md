@@ -50,13 +50,13 @@ Le contentieux civil a pour objet d'obtenir la réparation intégrale des préju
 ### 2.1 RESPONSABILITÉ DU COMMETTANT
 SAS LES MAUVAIS GARCONS est civilement responsable des dommages causés par ses préposés dans l'exercice de leurs fonctions. L'accident est survenu pendant une prestation de coupe de cheveux réalisée par un employé de la société dans l'enceinte de l'établissement.
 
-La responsabilité de la SAS est engagée de plein droit en application de l'Article 1242 du Code civil, alinéa 5 (responsabilité du commettant du fait de son préposé).
+La responsabilité de la SAS est engagée de plein droit en application de [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), alinéa 5 (responsabilité du commettant du fait de son préposé).
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
 
 ### 2.2 ACTION DIRECTE CONTRE L'ASSUREUR
-L'Article L. 124-3 du Code des assurances confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable (Cass. 1ère civ., 8 décembre 2021, n° 20-16.463).
+L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable ([Cass. 1ère civ., 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
@@ -66,24 +66,24 @@ L'Article L. 124-3 du Code des assurances confère à la victime d'un dommage un
 La mise en demeure de l'assureur a été adressée le 29 juin 2026, enjoignant à la compagnie de prendre en charge le sinistre et de procéder au règlement des préjudices sous 15 jours.
 
 ### 2.3 SURVIE DE LA PERSONNALITÉ MORALE
-Conformément à l'Article 1844-8 du Code civil, si SAS LES MAUVAIS GARCONS venait à être dissoute ou radiée, la personnalité morale de la société survit pour les besoins de la liquidation jusqu'à la clôture de celle-ci. Ce mécanisme garantit que la société puisse encore être attraite en justice et que ses dettes soient apurées, incluant l'indemnisation due à Sébastien GRAZIDE.
+Conformément à [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186), si SAS LES MAUVAIS GARCONS venait à être dissoute ou radiée, la personnalité morale de la société survit pour les besoins de la liquidation jusqu'à la clôture de celle-ci. Ce mécanisme garantit que la société puisse encore être attraite en justice et que ses dettes soient apurées, incluant l'indemnisation due à Sébastien GRAZIDE.
 
 > « La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la publication de la clôture de celle-ci. »
 
 ### 2.4 RESPONSABILITÉ POUR FAUTE
-À titre subsidiaire, la responsabilité pour faute de SAS LES MAUVAIS GARCONS est engagée sur le fondement de l'Article 1240 du Code civil pour défaut d'entretien de son équipement et manquement à son obligation de sécurité. Le principe de réparation intégrale impose que la victime soit replacée dans la situation où elle se serait trouvée si l'accident n'avait pas eu lieu.
+À titre subsidiaire, la responsabilité pour faute de SAS LES MAUVAIS GARCONS est engagée sur le fondement de [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) pour défaut d'entretien de son équipement et manquement à son obligation de sécurité. Le principe de réparation intégrale impose que la victime soit replacée dans la situation où elle se serait trouvée si l'accident n'avait pas eu lieu.
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
 
 ## 3. VOIES DE PROCÉDURE ENGAGÉES
 ### 3.1 RÉFÉRÉ-PROVISION
-Une assignation en référé-provision (article 835 du Code de procédure civile) a été rédigée le 30 juin 2026 pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive.
+Une assignation en [référé-provision](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) (article 835 du Code de procédure civile) a été rédigée le 30 juin 2026 pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive.
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
 
-Le référé-provision permet d'obtenir une avance rapide lorsque l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de SAS LES MAUVAIS GARCONS est manifeste : un équipement instable présentant une cassure préexistante non signalée a causé un accident sur son lieu d'exploitation, par l'intermédiaire de son préposé, ce qui constitue une obligation non contestable.
+Le [référé-provision](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) permet d'obtenir une avance rapide lorsque l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de SAS LES MAUVAIS GARCONS est manifeste : un équipement instable présentant une cassure préexistante non signalée a causé un accident sur son lieu d'exploitation, par l'intermédiaire de son préposé, ce qui constitue une obligation non contestable.
 
-La demande inclut également la désignation d'un expert médical judiciaire sur le fondement de l'Article 145 du Code de procédure civile.
+La demande inclut également la désignation d'un expert médical judiciaire sur le fondement de [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339).
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
@@ -91,12 +91,12 @@ La demande inclut également la désignation d'un expert médical judiciaire sur
 En parallèle, une procédure de référé-communication peut être engagée pour obtenir la communication forcée de la police d'assurance responsabilité civile de SAS LES MAUVAIS GARCONS sous astreinte. Cette mesure conservatoire est essentielle pour permettre l'identification et la mise en cause de l'assureur dans le cadre de l'action directe.
 
 ### 3.3 VOIE CIVI / FGTI (SUBSIDIAIRE)
-Si l'absence d'assurance de SAS LES MAUVAIS GARCONS est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à l'Article L. 124-3 du Code des assurances ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI) sur le fondement de l'Article 706-3 du Code de procédure pénale.
+Si l'absence d'assurance de SAS LES MAUVAIS GARCONS est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
 Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels résultant d'une infraction pénale, lorsque l'auteur n'est pas assuré et que la réparation ne peut être obtenue à un autre titre.
 
 **Conditions :**
-- L'infraction doit être constituée (en l'espèce, blessures involontaires — Article 222-20 du Code pénal).
+- L'infraction doit être constituée (en l'espèce, blessures involontaires — [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)).
 - La victime doit être de nationalité française ou les faits commis sur le territoire national.
 - Le dommage corporel doit présenter une certaine gravité (ITT ≥ 1 mois — condition remplie avec 56 jours d'ITT).
 
@@ -104,7 +104,7 @@ Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels rés
 
 **Procédure :** La victime saisit la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de Foix, qui statue sur le droit à indemnisation et fixe le montant.
 
-**Délai CIVI = 3 ans (Article 706-5 du Code de procédure pénale) :**
+**Délai CIVI = 3 ans ([Article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)) :**
 - La victime dispose de **3 ans** à compter de la date de l'infraction (29 mai 2026 → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
 - Si une décision pénale définitive intervient, ce délai est ramené à **1 an** à compter de cette décision.
 - En l'état de l'enquête préliminaire en cours, la date de référence est celle de l'infraction (29 mai 2026).
@@ -121,12 +121,12 @@ L'évaluation des préjudices subis par Sébastien GRAZIDE, informaticien indép
 | Déficit Fonctionnel Permanent (DFP) — 12 % estimé, 44 ans | 25 200 € |
 | Souffrances Endurées — 4/7 (microchirurgie, rééducation) | 12 000 € |
 | Préjudice d'Agrément — perte de loisirs (guitare, codage personnel) | 3 000 € |
-| Frais Article 700 du Code de procédure civile | 3 000 € |
+| Frais [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) | 3 000 € |
 | **TOTAL ESTIMATIF** | **59 600 €** |
 
 > « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. »
 
-L'incidence professionnelle est un préjudice distinct qui indemnise notamment la dévalorisation sociale ressentie par la victime du fait de son exclusion du monde du travail (Cass. Civ. 2e, 6 mai 2021, n° 19-23.173). Elle inclut également la pénibilité accrue et l'obligation de s'équiper en outils d'accessibilité (logiciel de dictée vocale, clavier ergonomique, souris adaptée).
+L'incidence professionnelle est un préjudice distinct qui indemnise notamment la dévalorisation sociale ressentie par la victime du fait de son exclusion du monde du travail ([Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)). Elle inclut également la pénibilité accrue et l'obligation de s'équiper en outils d'accessibilité (logiciel de dictée vocale, clavier ergonomique, souris adaptée).
 
 > Attendu : « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. »
 > Résumé : L'indemnisation au titre de l'incidence professionnelle est cumulable avec la perte de gains professionnels futurs et répare la dévalorisation sur le marché de l'emploi et l'exclusion sociale qui en découlent.
@@ -135,7 +135,7 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 | Phase | Action | Échéance |
 |-------|--------|----------|
 | Phase amiable | Mises en demeure, échanges courriers | Juin — Juillet 2026 |
-| Saisine référé | Assignation référé-provision + expertise médicale | Juillet 2026 |
+| Saisine référé | Assignation [référé-provision](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) + expertise médicale | Juillet 2026 |
 | Expertise judiciaire | Mission d'expertise, dépôt rapport | 3 à 6 mois |
 | Mise en état | Échanges de conclusions, contradictoire | 3 à 6 mois après expertise |
 | Audience de plaidoirie | Jugement au fond | 6 à 12 mois |

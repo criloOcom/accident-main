@@ -50,13 +50,13 @@ Rappel des obligations légales
 > **Code civil > Partie législative > Livre III : Des différentes manières dont on acquiert la propriété > Titre VIII : Du contrat de louage > Chapitre II : Du louage des choses > Section 1 : Des règles communes aux baux des maisons et des biens ruraux** <br>
 > [Article 1719](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127)
 
-L'Article 1719 du Code civil impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail.
+L'[Article 1719](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) du Code civil impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail.
 
 > « Le bailleur est tenu de livrer la chose en bon état de réparations de toute espèce. Il doit y faire, pendant la durée du bail, toutes les réparations qui peuvent devenir nécessaires, autres que les locatives. » <br>
 > **Code civil > Partie législative > Livre III : Des différentes manières dont on acquiert la propriété > Titre VIII : Du contrat de louage > Chapitre II : Du louage des choses > Section 1 : Des règles communes aux baux des maisons et des biens ruraux** <br>
 > [Article 1720](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784)
 
-L'Article 1720 du même code impose au bailleur d'entretenir les lieux en bon état de réparation de toute nature.
+L'[Article 1720](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784) du même code impose au bailleur d'entretenir les lieux en bon état de réparation de toute nature.
 
 <hr>
 
@@ -96,7 +96,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 1. D'obtenir les informations nécessaires à l'identification de l'assureur de responsabilité civile ;
 
-2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat (article L. 113-2, 4° du Code des assurances), lequel devra répondre dans un délai raisonnable ;
+2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat ([Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302), 4° du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)), lequel devra répondre dans un délai raisonnable ;
 
 > « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. » <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré** <br>
