@@ -26,7 +26,6 @@ format: Arial JUSTIFIED
 - [I — OBJET DU SIGNALEMENT](#i--objet-du-signalement)
 
 # SIGNALEMENT DE SECURITE ERP AU SDIS DE L'ARIEGE
-
 **[L'Adresse de la Victime]**
 
 Courriel : **[L'Email de la Victime]**
@@ -52,16 +51,13 @@ Cet accident a ete cause par la chute brutale du prepose de l'exploitation depui
 <hr>
 
 ## OBJET DU SIGNALEMENT
-
 Le salon de coiffure constitue un Etablissement Recevant du Public (ERP) de 5e categorie.
 
 Je porte par la presente a votre connaissance les faits suivants, susceptibles de constituer des non-conformites aux regles de securite applicables aux ERP :
 
-#### **1. Equipement presentant un danger**
-Le bac a shampoing en ceramique, instable et presentant une cassure majeure preexistante accessible au public, constituait un danger pour les occupants de l'etablissement et notamment pour les clients.
+#### **1. EQUIPEMENT PRESENTANT UN DANGER**Le bac a shampoing en ceramique, instable et presentant une cassure majeure preexistante accessible au public, constituait un danger pour les occupants de l'etablissement et notamment pour les clients.
 
-#### **2. Absence d'equipement d'acces securise**
-Le prepose a du monter sur ce bac a shampoing pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur, en violation des regles de securite contre les chutes de hauteur.
+#### **2. ABSENCE D'EQUIPEMENT D'ACCES SECURISE**Le prepose a du monter sur ce bac a shampoing pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur, en violation des regles de securite contre les chutes de hauteur.
 
 Je vous remercie de bien vouloir me tenir informe des suites reserves a ce signalement.
 

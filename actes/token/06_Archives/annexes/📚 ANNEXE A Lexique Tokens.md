@@ -1,5 +1,4 @@
 # ANNEXE A — LEXIQUE DES JETONS D'ANONYMISATION
-
 Ce document utilise des jetons pour protéger l'identité des personnes. Voici la correspondance complète :
 
 **Personnes physiques :**

@@ -20,9 +20,7 @@ format: Arial JUSTIFIED
 ---
 
 # AU JUGE DES RÉFÉRÉS DU TRIBUNAL JUDICIAIRE
-
 ## DEMANDE D'ORDONNANCE DE RÉFÉRÉ-PROVISION ET DE MESURES D'INSTRUCTION EN APPLICATION DES ARTICLES 835 ET 145 DU CODE DE PROCÉDURE CIVILE
-
 ---
 
 **POUR :**
@@ -40,9 +38,7 @@ SAS LES MAUVAIS GARCONS, Société par Actions Simplifiée, immatriculée au RCS
 ---
 
 ## I. EXPOSÉ DU LITIGE
-
-### A. Le sinistre et ses conséquences matérielles
-
+### A. LE SINISTRE ET SES CONSÉQUENCES MATÉRIELLES
 Le **29 mai 2026**, aux environs de 15 heures, Sébastien GRAZIDE, informaticien indépendant de 44 ans, se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
 
 Le coiffeur préposé de la défenderesse, dans l'exercice de ses fonctions et agissant par nécessité de service, est monté sur la vasque en céramique d'un bac à shampoing installé à demeure pour régler un poste de télévision, **faute d'avoir à sa disposition un équipement d'accès en hauteur** (escabeau, échelle ou marchepied).
@@ -56,8 +52,7 @@ Cet heurt a entraîné :
 
 Une intervention chirurgicale a été réalisée en urgence le 30 mai 2026 par un chirurgien spécialisé en chirurgie de la main. L'**incapacité temporaire totale de travail (ITT)** a été fixée médicalement à **cinquante-six jours**, du 29 mai 2026 au 23 juillet 2026.
 
-### B. La preuve du risque et du dommage
-
+### B. LA PREUVE DU RISQUE ET DU DOMMAGE
 **a) Présence de la victime sur les lieux :** Le paiement électronique (Wero) de 15,00 € effectué par la victime au salon le jour même, puis remboursé par le salon postérieurement à l'accident, constitue une preuve irréfutable de la présence de la victime et de la relation contractuelle.
 
 **b) Le procès-verbal de police :** Le commissariat de police a dressé le procès-verbal n° 2026/015967 qui confirme le basculement de la vasque. Ce procès-verbal constitue une pièce décisive établissant le mécanisme de l'accident.
@@ -69,9 +64,7 @@ Une intervention chirurgicale a été réalisée en urgence le 30 mai 2026 par u
 ---
 
 ## II. DISCUSSION JURIDIQUE
-
-### A. Caractère non contestable de l'obligation
-
+### A. CARACTÈRE NON CONTESTABLE DE L'OBLIGATION
 **1. Faute caractérisée : violation des obligations de sécurité (articles 1240 CC et R. 4323-58 et suivants du Code du travail)**
 
 L'absence d'équipement d'accès en hauteur (escabeau, marchepied, échelle) constitue une violation des articles R. 4323-58 et suivants du Code du travail, qui imposent à l'employeur de mettre à disposition des travailleurs les équipements nécessaires à la réalisation des travaux en hauteur. Cette carence structurelle a contraint le préposé à escalader la vasque, créant la condition de l'accident. Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code civil.
@@ -109,14 +102,12 @@ L'obligation de la SAS envers la victime est établie par :
 - la nature d'établissement ouvert au public ;
 - l'absence de tout élément de cause étrangère.
 
-### B. Caractère urgent
-
+### B. CARACTÈRE URGENT
 Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 jours. En tant qu'informaticien indépendant, son activité repose exclusivement sur l'usage de sa main dominante. Ses frais médicaux sont réels et documentés. Les dirigeants de la SAS refusent toute coopération et n'ont pas communiqué les coordonnées de leur assureur RC Pro malgré demandes. Le capital social de la SAS (200 €) fait craindre une insolvabilité croissante si le recouvrement n'est pas accéléré.
 
 ---
 
 ## III. DISPOSITIF
-
 **EN CONSÉQUENCE**, il est demandé au juge des référés :
 
 **PRINCIPALEMENT,**
@@ -147,7 +138,6 @@ Sébastien GRAZIDE
 ---
 
 ## NOTE DE RÉFÉRENCE
-
 Cette version a été rédigée à partir du mémoire juridique produit par l'assistant Glose (juillet 2026). Elle diffère de la version antérieure du 31 juillet 2026 sur les points suivants :
 
 | Point | Version antérieure | Version Glose | Version finale |

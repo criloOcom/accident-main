@@ -14,8 +14,7 @@ source: local
 format: Arial JUSTIFIED
 ---
 
-# TRANSMISSION — Gabarit d'attestation de témoin (Employé)
-
+# TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (EMPLOYÉ)
 Objet : Attestation de témoin — Accident du **[J+0 Accident]** au **[L'Adresse de l'Exploitation]**
 
 ---

@@ -21,7 +21,6 @@ format: Arial JUSTIFIED
 ---
 
 # SIGNALEMENT DE NON-CONFORMITE D'ERP AU CONSEIL DEPARTEMENTAL DE L'ARIEGE
-
 **[L'Adresse de la Victime]**
 
 Courriel : **[L'Email de la Victime]**
@@ -41,7 +40,6 @@ Ref : SIREN **[SIREN de l'Exploitation]**
 Madame, Monsieur le President du Conseil Departemental,
 
 ## INTRODUCTION
-
 La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]**, situe **[Adresse du Commerce]** a **[La Ville de l'Accident]**.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
@@ -55,7 +53,6 @@ Cet accident a ete cause par la chute brutale du prepose de l'exploitation depui
 <hr>
 
 ## I — RAPPEL DES FAITS
-
 Le salon de coiffure constitue un Etablissement Recevant du Public (ERP) de 5e categorie, soumis aux dispositions du Code de la construction et de l'habitation ainsi qu'au Reglement de securite contre les risques d'incendie et de panique dans les ERP (arrete du 25 juin 1980 modifie).
 
 L'accident revele plusieurs non-conformites aux regles applicables aux ERP :
@@ -69,7 +66,6 @@ Le bac a shampoing en ceramique, instable et presentant une cassure preexistante
 <hr>
 
 ## II — NON-CONFORMITES CONSTATÉES
-
 Les non-conformites suivantes sont portees a votre connaissance :
 
 1. Installation d'un poste de television en hauteur sans equipement d'acces securise fixe
@@ -87,7 +83,6 @@ Ces elements sont susceptibles de caracteriser un manquement aux obligations de 
 <hr>
 
 ## III — DEMANDE
-
 Je sollicite de vos services qu'une verification de la conformite de l'etablissement aux regles applicables aux ERP soit effectuee et, le cas echeant, que les mesures necessaires soient prises pour faire cesser les situations dangereuses constatees.
 
 Mes coordonnees pour reponse : **[L'Adresse de la Victime]** — Courriel : **[L'Email de la Victime]**

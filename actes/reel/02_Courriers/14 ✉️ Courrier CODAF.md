@@ -23,7 +23,6 @@ format: Arial JUSTIFIED
 ---
 
 # SIGNALEMENT OFFICIEL AU COMITE DEPARTEMENTAL ANTI-FRAUDE DE L'ARIEGE
-
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac
 Courriel : sebastien.grazide@gmail.com
@@ -41,7 +40,6 @@ Ref : SIREN 938 033 222 — Signalement Mairie de Foix du 1er juin 2026
 Madame, Monsieur le President du CODAF,
 
 ## INTRODUCTION
-
 La presente est adressee au CODAF de l'Ariege par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS, immatriculee sous le SIREN 938 033 222.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
@@ -57,7 +55,6 @@ Sa chute a entraine sur ma main droite une plaie palmaire profonde avec lesions 
 <hr>
 
 ## I — RAPPEL DES FAITS
-
 La SAS SAS LES MAUVAIS GARCONS a ete immatriculee le 1er juin 2024 avec un capital de 200 €. Selon les informations publiques disponibles, elle ne declare aucun salarie. Pourtant, le 29 mai 2026, un prepose exerçait une activite de coiffure dans l'etablissement.
 
 L'accident est survenu dans les conditions suivantes :
@@ -68,7 +65,6 @@ L'accident est survenu dans les conditions suivantes :
 <hr>
 
 ## II — MANQUEMENTS CONSTATES
-
 Les manquements suivants sont susceptibles de relever de la competence du CODAF :
 
 **1. Travail dissimule presume** (Article L.8221-5 du Code du travail)
@@ -94,7 +90,6 @@ Les manquements suivants sont susceptibles de relever de la competence du CODAF 
 <hr>
 
 ## III — DEMANDE D'ENQUETE
-
 Je sollicite du CODAF qu'une enquete soit diligentee afin de verifier l'ensemble de ces elements. Conformement a l'Article 40 du Code de procedure penale, si les faits constates sont constitutifs d'infractions, je vous remercie de bien vouloir en informer le Procureur de la Republique.
 
 Mes coordonnees pour reponse : 10 Avenue de Purpan, 31700 Blagnac — Courriel : sebastien.grazide@gmail.com

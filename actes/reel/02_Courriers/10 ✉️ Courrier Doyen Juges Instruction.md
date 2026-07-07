@@ -22,7 +22,6 @@ format: Arial JUSTIFIED
 ---
 
 # ENVOI CONSTITUTION DE PARTIE CIVILE
-
 Sébastien GRAZIDE
 
 10 Avenue de Purpan, 31700 Blagnac

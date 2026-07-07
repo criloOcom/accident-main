@@ -14,8 +14,7 @@ source: local
 format: Arial JUSTIFIED
 ---
 
-# TRANSMISSION — Gabarit d'attestation de témoin (Pompier / SAMU)
-
+# TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (POMPIER / SAMU)
 Objet : Attestation de témoin — Intervention du 29 mai 2026 au 22 Rue Lafaurie, 09000 Foix
 
 ---

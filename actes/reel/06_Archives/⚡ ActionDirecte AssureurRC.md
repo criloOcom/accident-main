@@ -25,7 +25,6 @@ format: Arial JUSTIFIED
 
 
 # ACTION DIRECTE — MISE EN DEMEURE ASSUREUR RC
-
 Rédigé le 29 juin 2026
 
 Sébastien GRAZIDE
@@ -51,7 +50,6 @@ Réf : Dossier Sébastien GRAZIDE / SAS LES MAUVAIS GARCONS
 Madame, Monsieur,
 
 ## INTRODUCTION
-
 La présente lettre de mise en demeure est adressée par Sébastien GRAZIDE à la compagnie d'assurance de SAS LES MAUVAIS GARCONS sur le fondement de l'Article L. 124-3 du Code des assurances, lequel institue une action directe de la victime contre l'assureur du responsable.
 
 Par ce courrier, Sébastien GRAZIDE met en demeure l'assureur de prendre en charge le sinistre corporel survenu le 29 mai 2026 dans les locaux de SAS LES MAUVAIS GARCONS et de procéder au règlement des préjudices subis.

@@ -16,14 +16,12 @@ source: local
 format: Arial JUSTIFIED
 ---
 
-# Évaluation financière Dintilhac détaillée
-
+# ÉVALUATION FINANCIÈRE DINTILHAC DÉTAILLÉE
 > Évaluation poste par poste réalisée le 7 juillet 2026 selon la nomenclature Dintilhac, barème Mornet 2024 et jurisprudence de la Cour de cassation.
 
 ---
 
-## 1. Résumé exécutif
-
+## 1. RÉSUMÉ EXÉCUTIF
 Le dossier initial évalue le préjudice à **59 600 €**. Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**. L'estimation médiane est de **~105 000 €** (fourchette 77 000 - 139 000 €).
 
 Postes oubliés dans le dossier initial :
@@ -33,10 +31,8 @@ Postes oubliés dans le dossier initial :
 
 ---
 
-## 2. Évaluation globale
-
-### Fourchettes d'indemnisation
-
+## 2. ÉVALUATION GLOBALE
+### FOURCHETTES D'INDEMNISATION
 | Poste | Initial | Fourchette basse | Fourchette haute | Médian |
 |---|---|---|---|---|
 | PGPA | 1 400 € | 1 400 € | 2 400 € | 1 900 € |
@@ -50,8 +46,7 @@ Postes oubliés dans le dossier initial :
 | Art. 700 CPC | 3 000 € | 3 000 € | 5 000 € | 4 000 € |
 | **TOTAL** | **59 600 €** | **~77 000 €** | **~139 000 €** | **~105 000 €** |
 
-### Avis sur l'évaluation initiale
-
+### AVIS SUR L'ÉVALUATION INITIALE
 Le total de 59 600 € est **sous-évalué** pour 5 raisons :
 1. **DFT** non chiffré (56 jours × 25-30 €/jour = 1 400-1 680 €)
 2. **SE à 12 000 €** en dessous du Mornet 2024 (15 000 € minimum pour 4/7)
@@ -61,10 +56,8 @@ Le total de 59 600 € est **sous-évalué** pour 5 raisons :
 
 ---
 
-## 3. Analyse détaillée poste par poste
-
-### 3.1 PGPA (Pertes de Gains Professionnels Actuels)
-
+## 3. ANALYSE DÉTAILLÉE POSTE PAR POSTE
+### 3.1 PGPA (PERTES DE GAINS PROFESSIONNELS ACTUELS)
 **Calcul :** 750 € / 30 jours × 56 jours = **1 400 €**
 
 **Vérification :** Arithmétiquement correct. Pour un indépendant, les IJ CPAM sont calculées sur le revenu annuel moyen des 3 dernières années (1/720e × 50 %). Sous réserve du relevé de débours CPAM.
@@ -73,8 +66,7 @@ Le total de 59 600 € est **sous-évalué** pour 5 raisons :
 
 **Source :** Nomenclature Dintilhac ; Cass. 2e civ., 9 juillet 2009, n° 08-17.959 (principe perte de chance)
 
-### 3.2 DFT (Déficit Fonctionnel Temporaire) — Poste oublié
-
+### 3.2 DFT (DÉFICIT FONCTIONNEL TEMPORAIRE) — POSTE OUBLIÉ
 Indemnise la perte de qualité de vie pendant la période traumatique (accident → consolidation).
 
 **Calcul :** 56 jours × 25-30 €/jour = **1 400 € (bas)** à **1 680 € (haut)**
@@ -83,8 +75,7 @@ Indemnise la perte de qualité de vie pendant la période traumatique (accident 
 
 **Source :** Référentiel Mornet 2024, fourchette DFT : 26-30 €/jour
 
-### 3.3 DFP (Déficit Fonctionnel Permanent) — 12 %
-
+### 3.3 DFP (DÉFICIT FONCTIONNEL PERMANENT) — 12 %
 **Formule :** DFP = Taux (%) × Valeur du point (€) × Coefficient d'âge
 
 | Source | Tranche DFP | Âge | Valeur/point | Total 12 % |
@@ -100,8 +91,7 @@ Indemnise la perte de qualité de vie pendant la période traumatique (accident 
 - Tableau de capitalisation des cours d'appel (Lexbase, actualisation 2024)
 - Cass. 2e civ., 20 janvier 2022, n° 20-17.263 (valeur indicative du barème)
 
-### 3.4 Souffrances Endurées (SE) — 4/7
-
+### 3.4 SOUFFRANCES ENDURÉES (SE) — 4/7
 **Fourchette Mornet 2024 pour 4/7 : 15 000 à 30 000 €**
 
 **Proposition : 24 000 €** (milieu de fourchette Occitanie)
@@ -119,8 +109,7 @@ Indemnise la perte de qualité de vie pendant la période traumatique (accident 
 - CA de **[La Métropole Régionale]**, 11 octobre 2022, RG n° 21/03743 (exemple régional)
 - JMP Avocat, référentiel Mornet 2026 : 4/7 = 20 000 à 35 000 €
 
-### 3.5 Incidence Professionnelle (IP)
-
+### 3.5 INCIDENCE PROFESSIONNELLE (IP)
 **Proposition : 30 000 €** (dont 3 000 € adaptation ergonomique, 27 000 € dévalorisation professionnelle)
 
 **Méthode de calcul (méthode BIBAL) :**
@@ -143,8 +132,7 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 - Méthode BIBAL (Maître Frédéric BIBAL)
 - Arrêt CE 4 avril 2025 : distinction part personnelle de l'IP (hors recours des tiers payeurs)
 
-### 3.6 Préjudice d'Agrément
-
+### 3.6 PRÉJUDICE D'AGRÉMENT
 **Proposition : 8 000 €** (guitare 6 000 € + autres agréments 2 000 €)
 
 **Justification :**
@@ -157,24 +145,19 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 - Cass. 2e civ., 29 mars 2018, n° 17-14.499 (limitation suffit)
 - Cass. 1re civ., 26 juin 2024, n° 23-15.345 (confirmation)
 
-### 3.7 PEP (Préjudice Esthétique Permanent) — Poste oublié
-
+### 3.7 PEP (PRÉJUDICE ESTHÉTIQUE PERMANENT) — POSTE OUBLIÉ
 **Proposition : 3 000 €** (cicatrice palmaire 8,5 cm, référentiel Mornet 1/7 à 4/7 : 1 200 à 20 000 €)
 
-### 3.8 Frais divers
-
+### 3.8 FRAIS DIVERS
 **Proposition : 2 000 €** (kiné 3×/semaine, déplacements, frais dossier, contre-expertise éventuelle)
 
-### 3.9 Article 700 CPC
-
+### 3.9 ARTICLE 700 CPC
 **Proposition : 4 000 €** (complexité du dossier : expertise, recherches assurance, procédure CIVI)
 
 ---
 
-## 4. Sources et jurisprudence
-
-### 4.1 Principes Cour de cassation
-
+## 4. SOURCES ET JURISPRUDENCE
+### 4.1 PRINCIPES COUR DE CASSATION
 - **Cass. 2e civ., 20 janvier 2022, n° 20-17.263** : Le référentiel Mornet a valeur indicative, le juge apprécie souverainement.
 - **Cass. ass. plén., 19 décembre 2003, n° 02-14.783** : Définition du préjudice d'agrément.
 - **Cass. 2e civ., 9 juillet 2009, n° 08-15.103** : DFT inclut le préjudice d'agrément temporaire.
@@ -182,8 +165,7 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 - **Cass. 1re civ., 26 juin 2024, n° 23-15.345** : Confirmation.
 - **Cass. 2e civ., 2 avril 2026, n° 24-20.972** : Indemnisation indépendants in concreto.
 
-### 4.2 Barèmes et référentiels
-
+### 4.2 BARÈMES ET RÉFÉRENTIELS
 | Référentiel | DFP 12 % (44 ans) | SE 4/7 | IP |
 |---|---|---|---|
 | **Mornet 2024** | 2 140-3 070 €/point | 15 000-30 000 € | 10 000-80 000 € |
@@ -192,10 +174,8 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 
 ---
 
-## 5. Stratégie de recouvrement (qui paie ?)
-
-### 5.1 Action directe assureur (L.124-3 C. Assurances)
-
+## 5. STRATÉGIE DE RECOUVREMENT (QUI PAIE ?)
+### 5.1 ACTION DIRECTE ASSUREUR (L.124-3 C. ASSURANCES)
 Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'action contre l'assuré (Cass. 3e civ., 11 mai 2022, n° 21-12.478). Même si la SAS disparaît, l'action subsiste contre l'assureur. L'assureur ne peut opposer à la victime les exceptions qu'il pourrait opposer à l'assuré (sauf faute intentionnelle, L.113-1).
 
 **Méthode pour identifier l'assureur :**
@@ -205,8 +185,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 4. Questionnement dirigeants sous astreinte
 5. Assignation art. 145 CPC si refus persistant
 
-### 5.2 Responsabilité personnelle des dirigeants
-
+### 5.2 RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS
 **Fondement :** Faute détachable des fonctions (Cass. com., 20 mai 2003, n° 99-17.092 — arrêt SATI).
 
 **Fondements potentiels :**
@@ -217,7 +196,6 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 **Appréciation :** Voie subsidiaire. La faute détachable est difficile à caractériser.
 
 ### 5.3 FGTI / CIVI — VOIE PRINCIPALE
-
 **Conditions (art. 706-3 CPP) :**
 1. Infraction pénale caractérisée → blessures involontaires (art. 222-19 CP) — ITT 56 jours
 2. Seuil CIVI : ITT ≥ 1 mois → **largement dépassé** (56 jours)
@@ -236,8 +214,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Avantage décisif :** Le FGTI verse l'indemnisation même si la SAS est insolvable, puis exerce son recours subrogatoire contre les responsables.
 
-### 5.4 Constitution de Partie Civile (voie pénale)
-
+### 5.4 CONSTITUTION DE PARTIE CIVILE (VOIE PÉNALE)
 **Avantages :**
 - Déclenche l'action publique
 - Décision pénale constatant la culpabilité
@@ -245,19 +222,16 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 - Décision pénale définitive = titre exécutoire
 - Permet d'activer le SARVI
 
-### 5.5 SARVI (Service d'Aide au Recouvrement)
-
+### 5.5 SARVI (SERVICE D'AIDE AU RECOUVREMENT)
 **Condition :** Décision pénale définitive accordant des dommages-intérêts.
 **Effet :** Verse 100 % jusqu'à 1 000 €, 30 % au-delà (max 3 000 €).
 
-### 5.6 Procédure collective (si liquidation SAS)
-
+### 5.6 PROCÉDURE COLLECTIVE (SI LIQUIDATION SAS)
 - Déclaration de créance dans les 2 mois de la publication BODACC (art. L.622-24 C. com.)
 - Créance chirographaire (non privilégiée)
 - Intérêt : constater l'insolvabilité → facilite accès CIVI
 
-### 5.7 Ordre des actions recommandé
-
+### 5.7 ORDRE DES ACTIONS RECOMMANDÉ
 **Phase 1 — Urgence (été 2026) :**
 1. Relancer enquête pénale pour identifier assureur RC
 2. Préparer dossier expertise 12 novembre 2026
@@ -285,8 +259,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 ---
 
-## 6. Recommandations finales
-
+## 6. RECOMMANDATIONS FINALES
 **Priorités absolues :**
 1. Identifier l'assureur RC (enquête pénale, ORIAS, greffe TC)
 2. Préparer l'expertise du 12 novembre (mémoire détaillé, médecin-conseil ANAMEVA)
@@ -300,12 +273,10 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 ---
 
-## 7. Comparaison avec l'évaluation externe (mémoire Glose — juillet 2026)
-
+## 7. COMPARAISON AVEC L'ÉVALUATION EXTERNE (MÉMOIRE GLOSE — JUILLET 2026)
 Un mémoire juridique externe (Glose, 7 juillet 2026) propose une évaluation **plus conservative** intégrée dans les conclusions de référé. Les écarts sont significatifs et doivent être compris comme une **fourchette basse** de négociation.
 
-### 7.1 Tableau comparatif
-
+### 7.1 TABLEAU COMPARATIF
 | Poste | Notre estimation | Glose (basse-haute) | Glose (médian) | Écart |
 |---|---|---|---|---|
 | PGPA | 1 900 € | 1 380 € | 1 380 € | -520 € |
@@ -319,8 +290,7 @@ Un mémoire juridique externe (Glose, 7 juillet 2026) propose une évaluation **
 | Art. 700 | 4 000 € | 1 500-3 000 € | 2 250 € | -1 750 € |
 | **TOTAL** | **~105 000 €** | **28 000-65 000 €** | **~45 000 €** | **-60 000 €** |
 
-### 7.2 Analyse des écarts
-
+### 7.2 ANALYSE DES ÉCARTS
 **PGPA** : L'écart est minime (1 900 vs 1 380 €). Notre estimation inclut une perte de chance complémentaire (500 €). La formule Glose (56/30,44 × 750 = 1 380 €) est arithmétiquement plus précise que notre prorata 56/30.
 
 **DFP** : L'écart principal vient du taux. Glose retient **8%** comme hypothèse médiane, nous retenons **12%**. C'est une différence d'appréciation sur le barème médico-légal avant consolidation. Le taux réel sera déterminé par l'expertise UMJ du 12 novembre 2026. Garder 12% comme maximum et 8% comme plancher.
@@ -329,8 +299,7 @@ Un mémoire juridique externe (Glose, 7 juillet 2026) propose une évaluation **
 
 **IP** : L'écart est le plus frappant (30 000 vs 2 250 €). Glose calcule l'IP comme une perte temporaire sur 12 mois (750 € × 25% × 12), tandis que notre méthode BIBAL capitalise sur la durée de vie professionnelle restante (9 000 € × 12% × 27,5). La méthode BIBAL est plus conforme à la jurisprudence récente (notamment Cass. 2e civ., 2 avril 2026, n° 24-20.972 sur l'indemnisation in concreto des indépendants). Glose semble sous-évaluer ce poste. Notre estimation (30 000 €) est plus proche de la pratique judiciaire pour un indépendant avec séquelles de la main dominante.
 
-### 7.3 Synthèse des recommandations
-
+### 7.3 SYNTHÈSE DES RECOMMANDATIONS
 | Poste | Ajustement | Nouvelle proposition |
 |---|---|---|
 | PGPA | Conserver Glose (plus précis) | 1 380 € |
@@ -344,24 +313,20 @@ Un mémoire juridique externe (Glose, 7 juillet 2026) propose une évaluation **
 | Art. 700 | Compromis | 3 000 € |
 | **TOTAL révisé** | | **~85 000 €** |
 
-### 7.4 Provision référé
-
+### 7.4 PROVISION RÉFÉRÉ
 - **Notre recommandation** : 15 000 € (objectif haut)
 - **Glose** : 8 000 € (PGPA 1 380 + frais méd. 3 000 + SE 3 000 + art. 700 2 000)
 - **Compromis** : Demander 10 000 € en provision + 3 000 € art. 700
 
-### 7.5 Référence
-
+### 7.5 RÉFÉRENCE
 Voir le mémoire complet : `reports/expertise/20260707 Mémoire juridique Glose.md`
 
 ---
 
-## 8. Troisième analyse (critique de Glose, 7 juillet 2026) + DEP
-
+## 8. TROISIÈME ANALYSE (CRITIQUE DE GLOSE, 7 JUILLET 2026) + DEP
 Un tiers a produit une analyse critique du mémoire Glose, globalement convergente avec notre évaluation.
 
-### 8.1 Points clés de l'analyse critique
-
+### 8.1 POINTS CLÉS DE L'ANALYSE CRITIQUE
 - **Provision référé** : confirme que 8 000 € est trop bas, recommande 15 000 € minimum ✅ (déjà notre position)
 - **SE** : juge les 5 000-12 000 € de Glose sous-évalués, recommande 15 000-24 000 € (notre fourchette)
 - **IP** : valide la méthode BIBAL contre le calcul simpliste de Glose
@@ -369,16 +334,14 @@ Un tiers a produit une analyse critique du mémoire Glose, globalement convergen
 - **Art. 222-20 CP** : vérification faite → **LEGIARTI000024042640 en vigueur depuis 2011** — pas de problème
 - **Art. R. 4323-58 CT** : norme impérative à ajouter dans les actes (fait)
 
-### 8.2 DEP — Dévalorisation Professionnelle Future (poste ajouté)
-
+### 8.2 DEP — DÉVALORISATION PROFESSIONNELLE FUTURE (POSTE AJOUTÉ)
 **Définition :** Perte de valeur sur le marché du travail due aux séquelles visibles ou handicapantes, distincte de l'IP (qui couvre l'incidence professionnelle *stricto sensu*).
 
 **Justification :** Un informaticien indépendant avec cicatrice palmaire et séquelles neurologiques de l'index droit subit une dévalorisation réelle : difficulté à convaincre de nouveaux clients, perte de compétitivité, besoin d'adaptation technique.
 
 **Proposition : 3 000 €** (prudent, en attendant expertise)
 
-### 8.3 Tableau récapitulatif final (3 analyses)
-
+### 8.3 TABLEAU RÉCAPITULATIF FINAL (3 ANALYSES)
 | Poste | Nôtre (optimiste) | Glose (conservatif) | Critique Glose | **Compromis final** |
 |---|---|---|---|---|
 | PGPA | 1 900 € | 1 380 € | 1 380 € | 1 380 € |
@@ -393,12 +356,10 @@ Un tiers a produit une analyse critique du mémoire Glose, globalement convergen
 | Art. 700 | 4 000 € | 2 250 € | 1 500-3 000 € | 3 000 € |
 | **TOTAL** | **~105 000 €** | **~45 000 €** | **55 000-105 000 €** | **~90 000 €** |
 
-### 8.4 Provision référé recommandée
-
+### 8.4 PROVISION RÉFÉRÉ RECOMMANDÉE
 - **Notre recommandation (renforcée)** : 15 000 € minimum
 - Détail retenu : PGPA 1 380 + frais méd. 5 000 + SE 5 000 + IP 1 620 + art. 700 2 000
 - Justification renforcée : capital 200 € + absence d'assurance RC = urgence d'une provision substantielle
 
-### 8.5 Référence
-
+### 8.5 RÉFÉRENCE
 Voir l'analyse complète : `reports/expertise/20260707 Analyse critique Glose.md`

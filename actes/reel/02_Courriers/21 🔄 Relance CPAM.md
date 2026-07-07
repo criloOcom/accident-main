@@ -20,7 +20,6 @@ format: Arial JUSTIFIED
 ---
 
 # RELANCE CPAM — SUIVI DU DOSSIER DE RECOURS CONTRE TIERS
-
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac
 Courriel : sebastien.grazide@gmail.com
@@ -44,7 +43,6 @@ La presente est adressee a vos services par Sébastien GRAZIDE, victime d'un acc
 <hr>
 
 ## I — OBJET DE LA RELANCE
-
 Un dossier de recours contre tiers a ete ouvert par vos services sous le numero 31727387 le 3 juin 2026 a la suite de mon accident.
 
 Je me permets de solliciter de vos services :

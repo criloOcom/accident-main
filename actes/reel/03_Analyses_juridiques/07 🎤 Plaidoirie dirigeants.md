@@ -22,13 +22,11 @@ format: Arial JUSTIFIED
 ---
 
 # **MÉMORANDUM JURIDIQUE : RESPONSABILITÉ DES DIRIGEANTS ET RÉPARATION DES PRÉJUDICES**
-
 Rédigé le 30 juin 2026
 
 Rédigé par : La Victime
 
 ## INTRODUCTION
-
 Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de SAS LES MAUVAIS GARCONS dans le cadre de l'accident corporel survenu le 29 mai 2026.
 
 Ce document examine les fondements juridiques de la mise en cause de la responsabilité des dirigeants sur le terrain du droit des sociétés, notamment sur le fondement des articles L. 223-22 et L. 225-251 du Code de commerce, ainsi que sur le terrain du droit commun de la responsabilité civile.
@@ -47,17 +45,16 @@ Il identifie les manquements aux obligations légales et réglementaires imputab
 
 - [I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL](#i-prsentation-du-litige-et-contexte-factuel)
 - [II. LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS](#ii-le-cadre-juridique-de-la-responsabilit-des-dirigeants)
-  - [A. La faute détachable des fonctions et l'écran de la personnalité morale](#a-la-faute-dtachable-des-fonctions-et-lcran-de-la-personnalit-morale)
-  - [B. Responsabilité pénale et faute caractérisée de sécurité](#b-responsabilit-pnale-et-faute-caractrise-de-scurit)
+  - [A. LA FAUTE DÉTACHABLE DES FONCTIONS ET L'ÉCRAN DE LA PERSONNALITÉ MORALE](#a-la-faute-dtachable-des-fonctions-et-lcran-de-la-personnalit-morale)
+  - [B. RESPONSABILITÉ PÉNALE ET FAUTE CARACTÉRISÉE DE SÉCURITÉ](#b-responsabilit-pnale-et-faute-caractrise-de-scurit)
 - [III. MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE](#iii-mcanismes-dindemnisation-et-action-directe)
-  - [A. L'action directe contre l'assureur de responsabilité civile](#a-laction-directe-contre-lassureur-de-responsabilit-civile)
-  - [B. Évaluation des préjudices selon la nomenclature Dintilhac](#b-valuation-des-prjudices-selon-la-nomenclature-dintilhac)
+  - [A. L'ACTION DIRECTE CONTRE L'ASSUREUR DE RESPONSABILITÉ CIVILE](#a-laction-directe-contre-lassureur-de-responsabilit-civile)
+  - [B. ÉVALUATION DES PRÉJUDICES SELON LA NOMENCLATURE DINTILHAC](#b-valuation-des-prjudices-selon-la-nomenclature-dintilhac)
 - [IV. SYNTHÈSE DES ACTIONS ET DÉMARCHES EN COURS](#iv-synthse-des-actions-et-dmarches-en-cours)
 
 <hr>
 
 ## I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
-
 Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le 29 mai 2026 au sein du salon exploité par SAS LES MAUVAIS GARCONS.
 
 Lors de cet événement, le basculement d'un équipement défectueux a causé une section nerveuse et tendineuse grave à la main dominante de Sébastien GRAZIDE.
@@ -70,9 +67,7 @@ PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-a
 <hr>
 
 ## II. LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS
-
-### A. La faute détachable des fonctions et l'écran de la personnalité morale
-
+### A. LA FAUTE DÉTACHABLE DES FONCTIONS ET L'ÉCRAN DE LA PERSONNALITÉ MORALE
 En principe, la personnalité morale de L'Exploitant protège le patrimoine personnel de ses dirigeants. Toutefois, la responsabilité civile personnelle du Président ou du Directeur Général peut être engagée en cas de "faute détachable".
 
 Selon la jurisprudence constante Cass. Com., 20 mai 2003 (Arrêt SATI, n° 99-17.092), une telle faute est caractérisée lorsque Le Dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions.
@@ -85,8 +80,7 @@ Le défaut de souscription d'une assurance obligatoire ou la dissimulation volon
 
 Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SAS, dont le capital social statutaire s'élève au montant dérisoire de 200 € (article 25 des statuts), rendant la société structurellement incapable d'assumer la réparation d'un sinistre corporel grave sans assurance active.
 
-### B. Responsabilité pénale et faute caractérisée de sécurité
-
+### B. RESPONSABILITÉ PÉNALE ET FAUTE CARACTÉRISÉE DE SÉCURITÉ
 Ce manquement à l'obligation de sécurité est également codifié à l'article R. 143-2 du Code de la construction et de l'habitation, la vasque avec cassure préexistante faisant partie intégrante des installations d'accueil de l'ERP.
 
 > « Dans les établissements soumis aux prescriptions du présent chapitre, les propriétaires, directeurs ou exploitants sont tenus, tant au moment de la construction qu'au cours de l'exploitation, de respecter les mesures de prévention et de sauvegarde propres à assurer la sécurité des personnes contre les risques d'incendie et de panique. » <br>
@@ -113,9 +107,7 @@ Une condamnation pour blessures involontaires sur le fondement de l'article 222-
 <hr>
 
 ## III. MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
-
-### A. L'action directe contre l'assureur de responsabilité civile
-
+### A. L'ACTION DIRECTE CONTRE L'ASSUREUR DE RESPONSABILITÉ CIVILE
 La Victime dispose d'un droit propre et autonome sur l'indemnité d'assurance en vertu de l'article L. 124-3 du Code des assurances.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
@@ -130,8 +122,7 @@ Cette action, dite "action directe", peut être exercée même si la société e
 
 Des demandes formelles ont été initiées pour identifier l'assureur et solliciter une provision.
 
-### B. Évaluation des préjudices selon la nomenclature Dintilhac
-
+### B. ÉVALUATION DES PRÉJUDICES SELON LA NOMENCLATURE DINTILHAC
 La réparation intégrale, pilier du droit français régi par l'article 1240 du Code civil, impose que La Victime soit replacée dans sa situation initiale.
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
@@ -148,7 +139,6 @@ Le préjudice global est estimé à 59 600 €, incluant le déficit fonctionnel
 <hr>
 
 ## IV. SYNTHÈSE DES ACTIONS ET DÉMARCHES EN COURS
-
 Une stratégie multi-niveaux a été déployée : une plainte pénale complémentaire a été déposée pour défaut d'assurance et entrave, parallèlement à la transmission des pièces médicales au Procureur. 
 
 Enfin, des mises en demeure ont été adressées à L'Exploitant et à ses Dirigeants pour obtenir les garanties nécessaires à la résolution du litige, tandis que le propriétaire des murs a été sollicité pour la communication des coordonnées de l'assureur (via les annexes du bail commercial).

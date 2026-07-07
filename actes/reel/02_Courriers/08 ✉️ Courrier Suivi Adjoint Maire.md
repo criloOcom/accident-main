@@ -19,8 +19,7 @@ drive_id: 1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw
 format: Arial JUSTIFIED
 ---
 
-# SUIVI — Demande d'Information Inspection du Travail et CODAF
-
+# SUIVI — DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac
 Courriel : sebastien.grazide@gmail.com
@@ -42,7 +41,6 @@ Ref : Votre courriel du 1er juin 2026
 Monsieur l'Adjoint au Maire,
 
 ## INTRODUCTION
-
 La presente lettre fait suite a votre courriel du 1er juin 2026 par lequel vous m'informiez avoir pris l'attache des services de la prefecture afin de diligenter l'inspection du travail et le CODAF (Comite Operationnel Departemental Anti Fraude) a la suite de l'accident corporel grave dont j'ai ete victime le 29 mai 2026 au sein du salon de coiffure SAS LES MAUVAIS GARCONS.
 
 Je vous remercie chaleureusement pour votre diligence et votre soutien.

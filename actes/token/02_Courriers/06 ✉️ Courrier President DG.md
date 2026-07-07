@@ -24,8 +24,7 @@ drive_id: 1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I
 format: Arial JUSTIFIED
 ---
 
-# MISE EN DEMEURE AUX DIRIGEANTS — Demande d'Information Assurance RC
-
+# MISE EN DEMEURE AUX DIRIGEANTS — DEMANDE D'INFORMATION ASSURANCE RC
 **[L'Adresse de la Victime]**
 
 Courriel : **[L'Email de la Victime]**
@@ -45,15 +44,13 @@ Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce (La SAS)]**
 Madame la Directrice Générale, Monsieur le Président,
 
 ## INTRODUCTION
-
 La présente lettre de mise en demeure est adressée conjointement par **[La Victime]** à **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, en leur qualité de dirigeants de **[L'Exploitant du Commerce (La SAS)]**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le **[J+0 Accident]**.
 
 **Ce courrier constitue une démarche constructive et préalable à toute action contentieuse, conformément aux obligations légales et à la jurisprudence applicable en matière de responsabilité personnelle des dirigeants.**
 
 <hr>
 
-## Rappel des obligations légales
-
+## RAPPEL DES OBLIGATIONS LÉGALES
 > « La faute du dirigeant social, même lorsqu'elle est commise dans l'exercice de ses fonctions, est séparable de celles-ci lorsque elle constitue un manquement délibéré à ses obligations et engage sa responsabilité personnelle. » <br>
 > **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)

@@ -26,8 +26,7 @@ format: Arial JUSTIFIED
 
 - [INTRODUCTION](#introduction)
 
-# MISE EN DEMEURE — Déclaration d'Accident Corporel
-
+# MISE EN DEMEURE — DÉCLARATION D'ACCIDENT CORPOREL
 **[L'Adresse de la Victime]**
 
 Courriel : **[L'Email de la Victime]**
@@ -45,7 +44,6 @@ Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce (La SAS)]**
 Madame, Monsieur,
 
 ## INTRODUCTION
-
 La présente lettre de mise en demeure est adressée par **[La Victime]** à **[L'Exploitant du Commerce (La SAS)]** afin de déclarer officiellement l'accident corporel survenu le **[J+0 Accident]** dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
 
 Ce courrier constitue la première étape amiable préalable à toute action contentieuse, conformément aux usages de la procédure civile.

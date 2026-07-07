@@ -26,7 +26,6 @@ format: Arial JUSTIFIED
 - [INTRODUCTION](#introduction)
 
 # DEMANDE DE CERTIFICAT MEDICAL DE CONSOLIDATION
-
 **[L'Adresse de la Victime]**
 
 Courriel : **[L'Email de la Victime]**
@@ -46,7 +45,6 @@ Ref : Dossier **[La Victime]** / **[Le Chirurgien SOS Main]**
 Madame, Docteur,
 
 ## INTRODUCTION
-
 La presente lettre est adressee par **[La Victime]** a **[Le Chirurgien SOS Main]** afin de solliciter la delivrance d'un certificat medical de consolidation dans le cadre de la procedure d'indemnisation de l'accident corporel dont il a ete victime le **[J+0 Accident]** et qui a necessite votre intervention de microchirurgie d'urgence le **[J+1 Chirurgie]**.
 
 Ce document est indispensable a la poursuite de la procedure judiciaire et a l'evaluation definitive des prejudices subis conformement a la Nomenclature Dintilhac.

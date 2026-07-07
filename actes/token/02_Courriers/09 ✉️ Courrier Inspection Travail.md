@@ -21,7 +21,6 @@ format: Arial JUSTIFIED
 ---
 
 # DEMANDE D'INFORMATION A L'INSPECTION DU TRAVAIL
-
 **[L'Adresse de la Victime]**
 
 Courriel : **[L'Email de la Victime]**
@@ -41,31 +40,26 @@ Ref : Signalement effectue par la mairie de **[La Ville de l'Accident]** aupres 
 Madame, Monsieur l'Inspecteur du Travail,
 
 ## INTRODUCTION
-
 La presente lettre est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure **[Le Commerce de l'Exploitation]**, situe **[Adresse du Commerce]** a **[La Ville de l'Accident]**.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
 Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main.
 
-## Contexte de la saisine de vos services
-
+## CONTEXTE DE LA SAISINE DE VOS SERVICES
 Suite a cet accident, Monsieur **[L'Adjoint au Maire de la Commune]**, Adjoint au Maire de **[La Ville de l'Accident]**, m'a informe le 1er juin 2026 avoir pris l'attache des services de la Prefecture de l'Ariege afin de diligenter l'Inspection du Travail et le CODAF.
 
 Je sollicite aujourd'hui vos services pour les motifs suivants :
 
-### 1. Information sur l'etat d'avancement de l'enquete
-
+### 1. INFORMATION SUR L'ETAT D'AVANCEMENT DE L'ENQUETE
 En qualite de victime directe de l'accident, je souhaiterais etre informe de l'etat d'avancement de votre enquete et, le cas echeant, de ses conclusions.
 
-### 2. Communication du rapport d'inspection
-
+### 2. COMMUNICATION DU RAPPORT D'INSPECTION
 L'article L. 311-1 du Code des relations entre le public et l'administration me reconnait un droit de communication des documents administratifs.
 
 Je sollicite donc la transmission du rapport d'inspection, sous les reserves legales applicables (secret de l'enquete en cours le cas echeant).
 
-### 3. Verification des elements de securite suivants
-
+### 3. VERIFICATION DES ELEMENTS DE SECURITE SUIVANTS
 Je me permets de porter a votre attention les elements suivants, susceptibles de constituer des manquements a la reglementation du travail :
 
 - **Equipement defectueux** : <br> Le bac a shampoing en ceramique, instable et presentant une cassure preexistante non signalee, constituait un equipement de travail dangereux (Article L. 4321-1 du Code du travail — obligation de conformite des equipements)
@@ -80,8 +74,7 @@ Je me permets de porter a votre attention les elements suivants, susceptibles de
 
 - **Travail dissimule presume** : <br>Possibilité que le prepose ne soit pas declare (a verifier par vos services)
 
-### 4. Transmission au Parquet
-
+### 4. TRANSMISSION AU PARQUET
 Si les faits constates sont constitutifs d'infractions penales, je vous remercie par avance de bien vouloir transmettre votre rapport au Procureur de la Republique pres le Tribunal Judiciaire de **[La Ville de l'Accident]** conformement a l'Article 40 du Code de procedure penale.
 
 Mes coordonnees pour reponse : **[L'Adresse de la Victime]** / Courriel : **[L'Email de la Victime]**

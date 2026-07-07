@@ -24,7 +24,6 @@ format: Arial JUSTIFIED
 ---
 
 # CONFIRMATION OFFICIELLE DE SIGNALEMENT A LA PREFECTURE DE L'ARIEGE
-
 **[L'Adresse de la Victime]**
 
 Courriel : **[L'Email de la Victime]**
@@ -42,7 +41,6 @@ Ref : Signalement effectue par la Mairie de **[La Ville de l'Accident]** le 1er 
 Madame, Monsieur le Prefet,
 
 ## INTRODUCTION
-
 La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]**, situe **[Adresse du Commerce]** a **[La Ville de l'Accident]**.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
@@ -59,7 +57,6 @@ Cet accident a ete cause par la chute brutale du prepose de l'exploitation depui
 <hr>
 
 ## I — RAPPEL DES FAITS
-
 Le **[J+0 Accident]**, le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur. L'equipement, instable et presentant une cassure preexistante non signalee, a bascule sous le poids du prepose.
 
 Ma main droite, tendue par reflexe, a heurte la cassure preexistante, entrainant des lesions graves ayant necessite une microchirurgie d'urgence.
@@ -69,7 +66,6 @@ Ma main droite, tendue par reflexe, a heurte la cassure preexistante, entrainant
 <hr>
 
 ## II — PROCEDURES EN COURS
-
 Plusieurs procedures ont ete engagees a ce jour :
 
 1. Depot de plainte au commissariat de **[La Ville de l'Accident]** (PV n° **[N° PV Police]**)
@@ -83,7 +79,6 @@ Plusieurs procedures ont ete engagees a ce jour :
 <hr>
 
 ## III — SIGNALEMENTS TRANSMIS
-
 Il m'a ete indique par la Mairie de **[La Ville de l'Accident]** le 1er juin 2026 qu'un signalement avait ete effectue aupres de vos services et du CODAF. Je sollicite par la presente confirmation que ce signalement a bien ete reeu et instruit par vos services, et souhaite etre tenu informe des suites qui lui sont reservees.
 
 Je porte par ailleurs a votre connaissance les manquements suivants, constates dans cet ERP :
@@ -97,7 +92,6 @@ Je porte par ailleurs a votre connaissance les manquements suivants, constates d
 <hr>
 
 ## IV — DEMANDE DE CONFIRMATION ET DE SUITE
-
 Je sollicite de vos services :
 
 1. La confirmation du signalement transmis par la Mairie le 1er juin 2026

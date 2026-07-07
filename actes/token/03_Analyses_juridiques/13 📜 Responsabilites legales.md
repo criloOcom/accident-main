@@ -23,12 +23,10 @@ drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 format: Arial JUSTIFIED
 ---
 
-# Analyse des Fondements de la Responsabilité Juridique **[L'Exploitant du Commerce (La SAS)]**
-
+# ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE **[L'EXPLOITANT DU COMMERCE (LA SAS)]**
 Rédigé le **[J+32 Assignation référé]**
 
 ## INTRODUCTION
-
 L'analyse approfondie du dossier relatif à l'accident survenu le **[J+0 Accident]** au sein de l'établissement exploité par **[L'Exploitant du Commerce (La SAS)]** — au cours duquel **[La Victime]**, informaticien indépendant, a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes — permet de dégager deux axes de responsabilité majeurs.
 
 - D'une part, la **responsabilité pénale** de la structure et de ses dirigeants pour manquement caractérisé aux obligations de sécurité.
@@ -40,22 +38,21 @@ Cette note vise à structurer les fondements juridiques permettant d'assurer la 
 <hr>
 
 - [I. LA RESPONSABILITÉ PÉNALE POUR BLESSURES INVOLONTAIRES](#i-la-responsabilit-pnale-pour-blessures-involontaires)
-  - [A. Manquement à l'obligation de sécurité et de prudence](#a-manquement-lobligation-de-scurit-et-de-prudence)
-  - [B. L'imprudence caractérisée du préposé](#b-limprudence-caractrise-du-prpos)
+  - [A. MANQUEMENT À L'OBLIGATION DE SÉCURITÉ ET DE PRUDENCE](#a-manquement-lobligation-de-scurit-et-de-prudence)
+  - [B. L'IMPRUDENCE CARACTÉRISÉE DU PRÉPOSÉ](#b-limprudence-caractrise-du-prpos)
 - [II. LA RESPONSABILITÉ CIVILE DE PLEIN DROIT](#ii-la-responsabilit-civile-de-plein-droit)
-  - [A. Responsabilité du fait des choses](#a-responsabilit-du-fait-des-choses)
-  - [B. Responsabilité du commettant du fait de ses préposés](#b-responsabilit-du-commettant-du-fait-de-ses-prposs)
-  - [C. La faute détachable des dirigeants](#c-la-faute-dtachable-des-dirigeants)
+  - [A. RESPONSABILITÉ DU FAIT DES CHOSES](#a-responsabilit-du-fait-des-choses)
+  - [B. RESPONSABILITÉ DU COMMETTANT DU FAIT DE SES PRÉPOSÉS](#b-responsabilit-du-commettant-du-fait-de-ses-prposs)
+  - [C. LA FAUTE DÉTACHABLE DES DIRIGEANTS](#c-la-faute-dtachable-des-dirigeants)
 - [III. IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES](#iii-immunit-du-prpos-et-recours-stratgiques)
-  - [A. Action directe contre l'assureur](#a-action-directe-contre-lassureur)
-  - [B. Preuves et Procédures](#b-preuves-et-procdures)
-  - [C. Obligation d'information de l'assurance et référé-communication](#c-obligation-dinformation-de-lassurance-et-rfr-communication)
+  - [A. ACTION DIRECTE CONTRE L'ASSUREUR](#a-action-directe-contre-lassureur)
+  - [B. PREUVES ET PROCÉDURES](#b-preuves-et-procdures)
+  - [C. OBLIGATION D'INFORMATION DE L'ASSURANCE ET RÉFÉRÉ-COMMUNICATION](#c-obligation-dinformation-de-lassurance-et-rfr-communication)
 - [CONCLUSION](#conclusion)
 
 <hr>
 
 ## I. LA RESPONSABILITÉ PÉNALE POUR BLESSURES INVOLONTAIRES
-
 Le salon est susceptible de voir sa responsabilité engagée sur le fondement de l'article 222-20 du Code pénal.
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
@@ -66,8 +63,7 @@ Ce texte réprime les blessures involontaires ayant entraîné une ITT inférieu
 
 En l'espèce, la section nerveuse et tendineuse profonde de l'index droit de **[La Victime]** a entraîné une ITT de 56 jours.
 
-### A. Manquement à l'obligation de sécurité et de prudence
-
+### A. MANQUEMENT À L'OBLIGATION DE SÉCURITÉ ET DE PRUDENCE
 En maintenant en service un équipement lourd (une vasque en céramique) présentant une cassure majeure et tranchante préexistante, sans signalisation ni protection, l'établissement a failli à son obligation générale de sécurité des produits et services régie par l'article L. 421-3 du Code de la consommation.
 
 > « Les prestations de services doivent présenter, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles par le professionnel, la sécurité à laquelle on peut légitimement s'attendre et ne pas porter atteinte à la santé des personnes. » <br>
@@ -76,8 +72,7 @@ En maintenant en service un équipement lourd (une vasque en céramique) présen
 
 Ce défaut d'entretien constitue un danger manifeste pour le public.
 
-### B. L'imprudence caractérisée du préposé
-
+### B. L'IMPRUDENCE CARACTÉRISÉE DU PRÉPOSÉ
 Le comportement de **[Le Préposé de l'Exploitation]**, consistant à monter physiquement sur la structure instable du meuble, est le fait générateur direct du dommage.
 
 En vertu de l'article 121-3 du Code pénal, cette maladresse expose les dirigeants à une responsabilité pénale individuelle pour manquement à la sécurité.
@@ -90,11 +85,9 @@ En vertu de l'article 121-3 du Code pénal, cette maladresse expose les dirigean
 <hr>
 
 ## II. LA RESPONSABILITÉ CIVILE DE PLEIN DROIT
-
 Sur le plan civil, la SAS est tenue de réparer les dommages causés sans qu'il soit nécessaire de prouver une intention de nuire. Cette responsabilité repose sur plusieurs piliers du Code civil.
 
-### A. Responsabilité du fait des choses
-
+### A. RESPONSABILITÉ DU FAIT DES CHOSES
 Conformément à l'article 1242 alinéa 1er du Code civil, on est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des choses que l'on a sous sa garde.
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. » <br>
@@ -111,14 +104,12 @@ Conformément à l'article 1242 alinéa 1er du Code civil, on est responsable no
 
 En tant que propriétaire du matériel, le salon est présumé responsable des dommages causés par la dangerosité de la vasque défectueuse.
 
-### B. Responsabilité du commettant du fait de ses préposés
-
+### B. RESPONSABILITÉ DU COMMETTANT DU FAIT DE SES PRÉPOSÉS
 En vertu de l'article 1242 alinéa 5 du Code civil, les employeurs sont responsables des dommages causés par leurs préposés dans les fonctions auxquelles ils les ont employés.
 
 La SAS est donc automatiquement responsable de l'imprudence commise par **[Le Préposé de l'Exploitation]** dans l'exercice de sa mission.
 
-### C. La faute détachable des dirigeants
-
+### C. LA FAUTE DÉTACHABLE DES DIRIGEANTS
 La responsabilité personnelle des dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, peut être engagée sur le fondement de l'article 1240 du Code civil.
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
@@ -134,7 +125,6 @@ Selon la jurisprudence Cass. Com., 20 mai 2003 (Arrêt SATI), cette faute est ca
 <hr>
 
 ## III. IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES
-
 Il convient de noter que le préposé bénéficie d'une immunité civile selon l'arrêt Costedoat (Ass. Plén., 25 fév. 2000), sauf en cas de faute pénale intentionnelle (Arrêt Cousin).
 
 > « N'engage pas sa responsabilité civile à l'égard des tiers le préposé qui agit dans les limites de la mission à lui impartie par son commettant. » <br>
@@ -145,24 +135,21 @@ Il convient de noter que le préposé bénéficie d'une immunité civile selon l
 > **Cour de cassation, Assemblée plénière, 14 décembre 2001, n° 00-82.066** <br>
 > [Arrêt Cousin](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322)
 
-### A. Action directe contre l'assureur
-
+### A. ACTION DIRECTE CONTRE L'ASSUREUR
 Le levier le plus efficace demeure l'action directe contre l'assureur RC de la SAS, fondée sur l'article L. 124-3 du Code des assurances, garantissant la réparation intégrale des préjudices (pertes de revenus, préjudice corporel et moral) estimés à ce jour à 59 600 € (selon l'étude d'indemnisation détaillée).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier** <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
-### B. Preuves et Procédures
-
+### B. PREUVES ET PROCÉDURES
 La consolidation des preuves médicales (comptes rendus du **[Le Chirurgien SOS Main]**) et matérielles est impérative. En cas de rétention d'informations sur l'assureur, l'article 145 du Code de procédure civile permet de saisir le juge des référés pour obtenir les pièces nécessaires.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
 > **Code de procédure civile > Partie législative > Livre II > Titre VII > Section I** <br>
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
-### C. Obligation d'information de l'assurance et référé-communication
-
+### C. OBLIGATION D'INFORMATION DE L'ASSURANCE ET RÉFÉRÉ-COMMUNICATION
 En vertu de l'article L. 113-2, 4° du Code des assurances, l'assuré (la SAS) a l'obligation légale de déclarer tout sinistre à son assureur dans un délai de 5 jours ouvrés.
 
 > « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. » <br>
@@ -180,11 +167,9 @@ Le juge ordonnera alors la communication forcée de l'attestation d'assurance de
 *[Zoom Pédagogique - Le refus de fournir l'assurance est-il légal ? : Non. La loi interdit au responsable de bloquer vos droits. Si le gérant fait obstruction, le tribunal peut le condamner à vous fournir son attestation d'assurance sous peine d'amendes journalières (astreinte). C'est une procédure classique de référé pour vaincre la mauvaise foi.]*
 
 ## IV. RECOUVREMENT — QUI PAIE EN CAS D'INSOLVABILITÉ ?
-
 ⚠ **L'exploitant **[L'Exploitant du Commerce (La SAS)]** a un capital social de 200 € seulement.** Le risque d'insolvabilité est maximal. Voici les voies de recouvrement par ordre de priorité.
 
-### A. Action directe contre l'assureur RC (L.124-3 C. Assurances)
-
+### A. ACTION DIRECTE CONTRE L'ASSUREUR RC (L.124-3 C. ASSURANCES)
 Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe est **indépendante** de l'action contre l'assuré (Cass. 3e civ., 11 mai 2022, n° 21-12.478). Même si la SAS disparaît, l'action subsiste contre l'assureur.
 
 **Méthodes pour identifier l'assureur :**
@@ -193,8 +178,7 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 - Interrogation ORIAS
 - Questionnement des dirigeants sous astreinte (art. 145 CPC)
 
-### B. FGTI / CIVI — VOIE PRINCIPALE (art. 706-3 CPP)
-
+### B. FGTI / CIVI — VOIE PRINCIPALE (ART. 706-3 CPP)
 **Conditions remplies :**
 1. Infraction pénale (blessures involontaires, art. 222-19 CP) — ITT 56 jours > seuil 1 mois ✅
 2. Auteur insolvable (capital 200 €) ✅
@@ -208,16 +192,13 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 - **Réparation intégrale** du préjudice corporel
 - Le FGTI se retourne ensuite contre les responsables (subrogation)
 
-### C. Responsabilité personnelle des dirigeants (voie subsidiaire)
-
+### C. RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS (VOIE SUBSIDIAIRE)
 Faute détachable des fonctions (Cass. com., 20 mai 2003, n° 99-17.092 — arrêt SATI) : maintien d'un équipement dangereux, défaut d'assurance RC, dissolution frauduleuse éventuelle. **Difficile à caractériser** mais à tenter.
 
-### D. SARVI (Service d'Aide au Recouvrement)
-
+### D. SARVI (SERVICE D'AIDE AU RECOUVREMENT)
 Si condamnation pénale non exécutée : verse 100 % jusqu'à 1 000 €, 30 % au-delà (max 3 000 €).
 
-### E. Ordre des actions recommandé
-
+### E. ORDRE DES ACTIONS RECOMMANDÉ
 1. **Référé-provision** (15 000 €) + communication assurance
 2. **Expertise UMJ** 12 novembre 2026
 3. **Assignation au fond** contre SAS + assureur (si identifié)
@@ -225,7 +206,6 @@ Si condamnation pénale non exécutée : verse 100 % jusqu'à 1 000 €, 30 % au
 5. **Constitution partie civile** (voie pénale)
 
 ## CONCLUSION
-
 La responsabilité de **[L'Exploitant du Commerce (La SAS)]** est solidement établie tant sur le plan civil que pénal. Le montant total estimé de l'indemnisation est de **~105 000 €** (évaluation Dintilhac détaillée).
 
 La difficulté centrale est le **recouvrement** : capital social de 200 € seulement. La voie principale est la **saisine de la CIVI** pour obtenir l'indemnisation via le FGTI, qui contourne l'insolvabilité de la SAS. Les dirigeants doivent être mis en cause personnellement dès maintenant. L'action directe contre l'assureur RC, s'il est identifié, reste la voie la plus rapide.

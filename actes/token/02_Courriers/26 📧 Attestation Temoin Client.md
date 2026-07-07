@@ -14,8 +14,7 @@ source: local
 format: Arial JUSTIFIED
 ---
 
-# TRANSMISSION — Gabarit d'attestation de témoin (Client)
-
+# TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (CLIENT)
 Objet : Attestation de témoin — Accident du **[J+0 Accident]** au salon **[L'Adresse de l'Exploitation]**
 
 ---

@@ -23,12 +23,10 @@ drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 format: Arial JUSTIFIED
 ---
 
-# INDEX DU DOSSIER **[La Victime]**
-
+# INDEX DU DOSSIER **[LA VICTIME]**
 Rédigé le **[J+32 Assignation référé]** — Mis à jour le **[J+38 Mise à jour]** (unification bordereau 43 pièces)
 
 ## INTRODUCTION
-
 *Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire **[La Victime]** c/ **[L'Exploitant du Commerce (La SAS)]**, à la suite de l'accident corporel grave survenu le **[J+0 Accident]**. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du **[J+32 Assignation référé]** et reflète l'état final de la composition du dossier.*
 
 *Structure finale au **[J+0 Accident]***
@@ -39,12 +37,12 @@ Partage depuis : **[L'Email de la Victime]**
 
 <hr>
 
-- [00 — Preuves officielles](#00-preuves-officielles)
-- [01 — Actes procéduraux](#01-actes-procduraux)
-- [02 — Courriers](#02-courriers)
-- [03 — Analyses juridiques](#03-analyses-juridiques)
-- [04 — Études d'indemnisation](#04-tudes-dindemnisation)
-- [05 — Organisation](#05-organisation)
+- [00 — PREUVES OFFICIELLES](#00-preuves-officielles)
+- [01 — ACTES PROCÉDURAUX](#01-actes-procduraux)
+- [02 — COURRIERS](#02-courriers)
+- [03 — ANALYSES JURIDIQUES](#03-analyses-juridiques)
+- [04 — ÉTUDES D'INDEMNISATION](#04-tudes-dindemnisation)
+- [05 — ORGANISATION](#05-organisation)
 - [ARCHIVES](#archives)
 - [MODIFICATIONS CLÉS](#modifications-cls)
 - [RÉFÉRENCES JURISPRUDENTIELLES](#rfrences-jurisprudentielles)
@@ -52,8 +50,7 @@ Partage depuis : **[L'Email de la Victime]**
 
 <hr>
 
-## 00 — Preuves officielles
-
+## 00 — PREUVES OFFICIELLES
 *(Documents physiques — dossier `00_Preuves_officielles/` en attente d'insertion)*
 
 - 2026-05-30 - CR opératoire ✓ Vérifié : Compte rendu opératoire du **[Le Chirurgien SOS Main]** (microchirurgie **[J+1 Chirurgie]**).
@@ -64,8 +61,7 @@ Partage depuis : **[L'Email de la Victime]**
 
 <hr>
 
-## 01 — Actes procéduraux
-
+## 01 — ACTES PROCÉDURAUX
 - 2026-06-29 - 01 ⚖️ Assignation - V1 ✓ Vérifié : Projet d'assignation en référé-provision (5 000 €) fondé sur l'article 835 du CPC.
 - 2026-06-01 - 02 🚔 Plainte - V1 ✓ Vérifié : Plainte complémentaire défaut assurance RC (victime agissant en qualité de client).
 - 2026-07-07 - 03 🔍 Assignation Article 145 - V1 ✓ Màj : Références pièces mises à jour (nouveau bordereau unifié).
@@ -78,8 +74,7 @@ Partage depuis : **[L'Email de la Victime]**
 
 <hr>
 
-## 02 — Courriers
-
+## 02 — COURRIERS
 - 2026-06-29 - 03 ✉️ Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à **[L'Exploitant du Commerce (La SAS)]**.
 - 2026-06-29 - 04 ✉️ Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de l'article L. 124-3 du Code des assurances.
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
@@ -108,8 +103,7 @@ Partage depuis : **[L'Email de la Victime]**
 
 <hr>
 
-## 03 — Analyses juridiques
-
+## 03 — ANALYSES JURIDIQUES
 - 2026-06-29 - 07 🎤 Plaidoirie dirigeants - V1 ✓ Vérifié : Analyse de la responsabilité pour faute détachable selon l'Arrêt SATI juridique invoquant l'article 1240 du Code civil
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
 
@@ -124,8 +118,7 @@ Et, article 1242 du Code civil.
 
 <hr>
 
-## 04 — Études d'indemnisation
-
+## 04 — ÉTUDES D'INDEMNISATION
 - 2026-06-01 - 11 💰 Etude indemnisation - V1 ✓ Vérifié : Étude d'indemnisation des préjudices corporels selon la réparation intégrale.
 - 2026-07-05 - 12 Évaluation Dintilhac détaillée - V1 ✓ Vérifié : Évaluation détaillée de tous les postes de préjudice Dintilhac.
 
@@ -134,8 +127,7 @@ Et, article 1242 du Code civil.
 
 <hr>
 
-## 05 — Organisation
-
+## 05 — ORGANISATION
 - 2026-06-01 - 10 🗂️ Plan action - V1 ✓ Vérifié : Plan d'action et chronologie de procédure.
 - 2026-07-05 - 11 📅 Calendrier procedural - V1 ✓ Vérifié : Calendrier procédural et échéances.
 - 2026-06-29 - 00 📇 Index (ce document) ✓ Vérifié : Index et structure du dossier.
@@ -144,7 +136,6 @@ Et, article 1242 du Code civil.
 <hr>
 
 ## MÉMOIRES D'AUDIT
-
 - AUDIT_DATES.md ✓ Vérifié : Audit de la chronologie des faits.
 - AUDIT_MONTANTS.md ✓ Vérifié : Audit des calculs d'indemnisation.
 - AUDIT_NOMS_RESIDUELS.md ✓ Vérifié : Vérification de l'anonymisation.
@@ -163,7 +154,6 @@ Et, article 1242 du Code civil.
 <hr>
 
 ## ARCHIVES
-
 Documents non indexés conservés dans `archives/` :
 
 - `archives/annexes/` — 📚 📚 ANNEXE A Lexique Tokens, ⚖️ ⚖️ ANNEXE B Lois Jurisprudence, 📑 📑 ANNEXE C Pieces
@@ -178,7 +168,6 @@ Documents non indexés conservés dans `archives/` :
 <hr>
 
 ## MODIFICATIONS CLÉS
-
 1. **[Le Préposé de l'Exploitation]** -> **[Le Président de l'Exploitation]** + **[La Directrice Générale de l'Exploitation]** ✓
 1. Stratégie : faute détachable des dirigeants ✓
 2. Paragraphe faute détachable dans Assignation ✓
@@ -199,7 +188,6 @@ Documents non indexés conservés dans `archives/` :
 <hr>
 
 ## RÉFÉRENCES JURISPRUDENTIELLES
-
 - Arrêt Costedoat : Ass. Plén., 25 février 2000, n° 97-17.378 ✓
 > Attendu : « N'engage pas sa responsabilité civile à l'égard des tiers le préposé qui agit dans les limites de la mission à lui impartie par son commettant. »
 > Résumé : Le salarié agissant dans le cadre de ses fonctions professionnelles bénéficie d'une immunité civile de principe. Seul l'employeur (commettant) est responsable des dommages causés aux tiers.
@@ -229,8 +217,7 @@ Documents non indexés conservés dans `archives/` :
 
 <hr>
 
-## STATISTIQUES DU DOSSIER (màj **[J+38 Mise à jour]**)
-
+## STATISTIQUES DU DOSSIER (MÀJ **[J+38 MISE À JOUR]**)
 - Actes procéduraux : **7** (Assignation 01, Plainte 02, Constitution PC 02b, Assignation 145 03, Bordereau unifié 04, Conclusions 05, Constat Huissier 06)
 - Courriers/Gabarits : **24** (03-28, hors 10+17 supprimés)
 - Analyses juridiques : **5** (Plaidoirie 07, FAQ 09, Dossier Plaidoirie 12, Responsabilités 13, Stratégie 14)
@@ -247,7 +234,6 @@ Documents non indexés conservés dans `archives/` :
 <hr>
 
 ## TRAVAUX RESTANTS
-
 1. **Audience de référé** — Planifier audience (date non fixée).
 2. **Injection Drive** — Mettre à jour les documents sur Drive avec le nouveau bordereau unifié.
 3. **Envoi LRAR** — Expédier les courriers 07, 09, 11, 12, 13, 14, 15, 16, 19 par LRAR électronique.

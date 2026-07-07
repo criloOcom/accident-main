@@ -21,7 +21,6 @@ format: Arial JUSTIFIED
 ---
 
 # DEMANDE DE COMMUNICATION D'ASSURANCE RC
-
 **[L'Adresse de la Victime]**
 
 Courriel : **[L'Email de la Victime]**
@@ -39,7 +38,6 @@ Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce (La SAS)]**
 Monsieur,
 
 ## INTRODUCTION
-
 La présente lettre est adressée par **[La Victime]** à **[Le Propriétaire des Murs]** en sa qualité de propriétaire bailleur des locaux commerciaux situés au **[L'Adresse de l'Exploitation]**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de l'exploitant.
 
 Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grave accident corporel survenu le **[J+0 Accident]** dans lesdits locaux.

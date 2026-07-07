@@ -24,7 +24,6 @@ format: Arial JUSTIFIED
 ---
 
 # COMPLÉMENT DE PLAINTE PÉNALE — DÉFAUT D'ASSURANCE RC
-
 Rédigé le 30 juin 2026
 
 
@@ -53,7 +52,6 @@ Dénonciation de défaut d'assurance de responsabilité civile professionnelle e
 RÉFÉRENCE : Dossier [ ... ]
 
 ## INTRODUCTION
-
 Le présent complément de plainte pénale est déposé par Sébastien GRAZIDE auprès de Monsieur le Procureur de la République près le Tribunal Judiciaire de Foix afin de signaler l'absence d'assurance de responsabilité civile professionnelle de SAS LES MAUVAIS GARCONS.
 
 Malgré les demandes amiables répétées, SAS LES MAUVAIS GARCONS n'a jamais communiqué d'attestation d'assurance RC Pro, laissant présumer une absence de couverture assurantielle.
@@ -66,17 +64,16 @@ En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en 
 
 <hr>
 
-- [I. Exposé des Faits](#i-expos-des-faits)
-- [II. Discussion Juridique](#ii-discussion-juridique)
-  - [A. Sur l'absence d'assurance de responsabilité civile](#a-sur-labsence-dassurance-de-responsabilit-civile)
-  - [B. Sur l'entrave à l'exercice de l'action directe](#b-sur-lentrave-lexercice-de-laction-directe)
-- [III. Conséquences et Préjudices](#iii-consquences-et-prjudices)
-- [IV. Demandes](#iv-demandes)
+- [I. EXPOSÉ DES FAITS](#i-expos-des-faits)
+- [II. DISCUSSION JURIDIQUE](#ii-discussion-juridique)
+  - [A. SUR L'ABSENCE D'ASSURANCE DE RESPONSABILITÉ CIVILE](#a-sur-labsence-dassurance-de-responsabilit-civile)
+  - [B. SUR L'ENTRAVE À L'EXERCICE DE L'ACTION DIRECTE](#b-sur-lentrave-lexercice-de-laction-directe)
+- [III. CONSÉQUENCES ET PRÉJUDICES](#iii-consquences-et-prjudices)
+- [IV. DEMANDES](#iv-demandes)
 
 <hr>
 
-## I. Exposé des Faits
-
+## I. EXPOSÉ DES FAITS
 Le 29 mai 2026, alors qu'il se trouvait dans le salon de coiffure exploité par SAS LES MAUVAIS GARCONS en qualité de client, Sébastien GRAZIDE a été victime d'un accident corporel grave au sein de l'établissement, sise 22 Rue Lafaurie, 09000 Foix. 
 
 Alors que Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, Sébastien GRAZIDE a tendu la main droite pour protéger Ayoub BENNOURINE ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
@@ -90,16 +87,13 @@ Ce silence persistant, malgré l'envoi de courriers recommandés le 29 juin 2026
 
 <hr>
 
-## II. Discussion Juridique
-
-### A. Sur l'absence d'assurance de responsabilité civile
-
+## II. DISCUSSION JURIDIQUE
+### A. SUR L'ABSENCE D'ASSURANCE DE RESPONSABILITÉ CIVILE
 Malgré les demandes amiables de Sébastien GRAZIDE, SAS LES MAUVAIS GARCONS n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle. Cette absence de réponse laisse présumer soit une absence de couverture assurantielle, soit une volonté de dissimulation.
 
 En l'absence d'assurance, l'indemnisation de la victime au titre de l'action directe prévue à l'article L. 124-3 du Code des assurances est gravement compromise. Le Fonds de Garantie (FGTI), sur le fondement de l'article 706-3 du Code de procédure pénale, pourrait alors être saisi pour assurer l'indemnisation de Sébastien GRAZIDE.
 
-### B. Sur l'entrave à l'exercice de l'action directe
-
+### B. SUR L'ENTRAVE À L'EXERCICE DE L'ACTION DIRECTE
 L'article L. 124-3 du Code des assurances consacre le droit propre et l'action directe de la victime à l'encontre de l'assureur du responsable.
 
 Cette autonomie de l'action directe a été fermement rappelée par la jurisprudence (Cass. Civ. 1ère, 8 décembre 2021, n° 20-16.463).
@@ -119,8 +113,7 @@ Par ailleurs, ce défaut de souscription ou d'information peut constituer une fa
 
 <hr>
 
-## III. Conséquences et Préjudices
-
+## III. CONSÉQUENCES ET PRÉJUDICES
 Le préjudice subi par Sébastien GRAZIDE est d'une particulière gravité.
 
 En sa qualité d'informaticien indépendant, l'usage de sa main dominante est indispensable à son activité professionnelle.
@@ -138,8 +131,7 @@ L'absence de communication de l'assurance bloque toute offre d'indemnisation ami
 
 <hr>
 
-## IV. Demandes
-
+## IV. DEMANDES
 Par ces motifs, Sébastien GRAZIDE sollicite qu'il plaise à Monsieur le Procureur de la République d'ordonner une enquête complémentaire visant à :
 
 1. **VÉRIFIER** l'existence et la validité du contrat d'assurance de responsabilité civile de SAS LES MAUVAIS GARCONS au jour du sinistre ;

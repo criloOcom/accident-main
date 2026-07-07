@@ -22,7 +22,6 @@ format: Arial JUSTIFIED
 ---
 
 # ENVOI CONSTITUTION DE PARTIE CIVILE
-
 **[La Victime]**
 
 **[L'Adresse de la Victime]**

@@ -20,11 +20,9 @@ format: Arial JUSTIFIED
 ---
 
 # ÉTUDE D'INDEMNISATION MAXIMALE (NOMENCLATURE DINTILHAC)
-
 Rédigé le 30 juin 2026
 
 ## INTRODUCTION
-
 La présente étude d'indemnisation a pour objet d'évaluer l'intégralité des préjudices corporels subis par Sébastien GRAZIDE à la suite de l'accident du 29 mai 2026 — au cours duquel, alors que l'employé Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de Sébastien GRAZIDE a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit — selon la nomenclature Dintilhac qui constitue la référence harmonisée pour l'évaluation des préjudices corporels devant les juridictions françaises.
 
 Cette évaluation chiffrée, établie poste par poste, tient compte du statut de travailleur indépendant de la victime et de son activité professionnelle déclarée sous le numéro 500 474 457.
@@ -49,13 +47,13 @@ Foix, le 30 juin 2026
 
 - [I. PRINCIPE DE LA RÉPARATION INTÉGRALE](#i-principe-de-la-rparation-intgrale)
 - [II. ÉVALUATION DES PRÉJUDICES](#ii-valuation-des-prjudices)
-  - [A. Pertes de Gains Professionnels Actuels (PGPA) et Incidence Professionnelle](#a-pertes-de-gains-professionnels-actuels-pgpa-et-incidence-professionnelle)
-  - [B. Préjudices extra-patrimoniaux (DFP, Souffrances, Agrément)](#b-prjudices-extra-patrimoniaux-dfp-souffrances-agrment)
+  - [A. PERTES DE GAINS PROFESSIONNELS ACTUELS (PGPA) ET INCIDENCE PROFESSIONNELLE](#a-pertes-de-gains-professionnels-actuels-pgpa-et-incidence-professionnelle)
+  - [B. PRÉJUDICES EXTRA-PATRIMONIAUX (DFP, SOUFFRANCES, AGRÉMENT)](#b-prjudices-extra-patrimoniaux-dfp-souffrances-agrment)
 - [III. RÉCAPITULATIF DU CHIFFRAGE ESTIMATIF](#iii-rcapitulatif-du-chiffrage-estimatif)
 - [IV. JURISPRUDENCE APPLICABLE](#iv-jurisprudence-applicable)
-  - [A. Capitalisation des dépenses de santé futures](#a-capitalisation-des-dpenses-de-sant-futures)
-  - [B. Aggravation du dommage](#b-aggravation-du-dommage)
-  - [C. Incidence professionnelle](#c-incidence-professionnelle)
+  - [A. CAPITALISATION DES DÉPENSES DE SANTÉ FUTURES](#a-capitalisation-des-dpenses-de-sant-futures)
+  - [B. AGGRAVATION DU DOMMAGE](#b-aggravation-du-dommage)
+  - [C. INCIDENCE PROFESSIONNELLE](#c-incidence-professionnelle)
 - [V. JURISPRUDENCE COMPARATIVE](#v-jurisprudence-comparative)
 - [VI. FACTEURS D'AGGRAVATION](#vi-facteurs-daggravation)
 - [VII. CONCLUSION ET ANALYSE](#vii-conclusion-et-analyse)
@@ -64,7 +62,6 @@ Foix, le 30 juin 2026
 <hr>
 
 ## I. PRINCIPE DE LA RÉPARATION INTÉGRALE
-
 Le droit français de la responsabilité civile consacre le principe de la réparation intégrale sans perte ni profit pour la victime, conformément à l'article 1240 du Code civil. Ce principe exige que la victime soit replacée dans la situation exacte où elle se serait trouvée si l'accident n'avait pas eu lieu.
 
 L'évaluation s'effectue poste par poste à l'aide de la Nomenclature Dintilhac, outil de référence harmonisé pour les cours françaises.
@@ -79,9 +76,7 @@ Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un 
 <hr>
 
 ## II. ÉVALUATION DES PRÉJUDICES
-
-### A. Pertes de Gains Professionnels Actuels (PGPA) et Incidence Professionnelle
-
+### A. PERTES DE GAINS PROFESSIONNELS ACTUELS (PGPA) ET INCIDENCE PROFESSIONNELLE
 1. Pertes de Gains Professionnels Actuels (PGPA) : Indemnise la perte de revenus durant l'incapacité temporaire totale (ITT). Pour 56 jours d'arrêt (du 29 mai au 23 juillet 2026), le montant est calculé au prorata du CA mensuel, soit 1 400 €. Une perte de chance complémentaire (impossibilité de prospecter) peut porter ce poste à 2 400 €.
 
 2. Incidence Professionnelle (IP) : Ce poste, estimé à 30 000 € (méthode BIBAL : 9 000 € × 12% × 27,5 = 29 700 €), répare les séquelles structurelles définitives :
@@ -94,8 +89,7 @@ Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un 
 
     - **Adaptation ergonomique** : Souris adaptée, logiciel dictée vocale, clavier ergonomique (~3 000 €).
 
-### B. Préjudices extra-patrimoniaux (DFP, DFT, SE, Agrément, PEP)
-
+### B. PRÉJUDICES EXTRA-PATRIMONIAUX (DFP, DFT, SE, AGRÉMENT, PEP)
 - **Déficit Fonctionnel Temporaire (DFT)** : Indemnise la perte de qualité de vie pendant l'ITT. 56 jours × 25 €/jour = **1 400 €**. (Poste oublié dans les versions antérieures.)
 
 - **Déficit Fonctionnel Permanent (DFP)** : Indemnise l'atteinte aux fonctions physiologiques. Basé sur un taux estimé de 12% pour une victime de 44 ans. Référentiel Mornet 2024 (tranche 11-20%) : 2 140 à 3 070 €/point. Proposition médiane : 12 × 2 600 € = **31 200 €**.
@@ -109,7 +103,6 @@ Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un 
 <hr>
 
 ## III. RÉCAPITULATIF DU CHIFFRAGE ESTIMATIF
-
 | Poste de Préjudice | Montant Initial | Proposition Dintilhac |
 | --- | --- | --- |
 | Pertes de Gains Professionnels Actuels (PGPA) | 1 400 € | 1 900 € |
@@ -130,25 +123,21 @@ Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un 
 <hr>
 
 ## IV. JURISPRUDENCE APPLICABLE
-
-### A. Capitalisation des dépenses de santé futures
-
+### A. CAPITALISATION DES DÉPENSES DE SANTÉ FUTURES
 L'arrêt Cass. Civ. 2e, 4 avril 2024, n° 22-19.307 confirme le droit à une capitalisation des dépenses futures sans contrôle restrictif de l'assureur, garantissant la libre disposition des fonds par la victime.
 
 > « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. » <br>
 > **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307** <br>
 > [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
 
-### B. Aggravation du dommage
-
+### B. AGGRAVATION DU DOMMAGE
 Selon l'arrêt Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106, toute aggravation médicale ultérieure ouvre un nouveau droit à réparation, l'assureur initial restant garant du sinistre.
 
 > « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. » <br>
 > **Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106** <br>
 > [Arrêt n°20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
 
-### C. Incidence professionnelle
-
+### C. INCIDENCE PROFESSIONNELLE
 La jurisprudence Cass. Civ. 2e, 6 mai 2021, n° 19-23.173 rappelle que l'incidence professionnelle est un préjudice distinct indemnisant notamment la dévalorisation sociale ressentie par la victime du fait de son exclusion du monde du travail.
 
 > « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. » <br>
@@ -158,9 +147,7 @@ La jurisprudence Cass. Civ. 2e, 6 mai 2021, n° 19-23.173 rappelle que l'inciden
 <hr>
 
 ## V. JURISPRUDENCE COMPARATIVE
-
-### A. Tableau des arrêts comparatifs vérifiés
-
+### A. TABLEAU DES ARRÊTS COMPARATIFS VÉRIFIÉS
 Les arrêts suivants, déjà intégrés dans le dossier, confirment la cohérence de l'évaluation des préjudices et des fondements juridiques retenus :
 
 | Arrêt | Principe | Application au dossier |
@@ -173,7 +160,6 @@ Les arrêts suivants, déjà intégrés dans le dossier, confirment la cohérenc
 <hr>
 
 ## VI. FACTEURS D'AGGRAVATION
-
 Plusieurs éléments spécifiques aggravent le préjudice de Sébastien GRAZIDE :
 
 - **Main dominante** : L'atteinte concerne l'index droit de la main utilisée pour le travail et les loisirs.
@@ -185,7 +171,6 @@ Plusieurs éléments spécifiques aggravent le préjudice de Sébastien GRAZIDE 
 <hr>
 
 ## VII. CONCLUSION ET ANALYSE
-
 L'indemnisation initialement estimée à 59 600 € a été réévaluée à **~105 000 €** après analyse détaillée (barème Mornet 2024, méthode BIBAL). Cette réévaluation tient compte de postes oubliés (DFT, PEP, frais divers) et d'une revalorisation des SE, IP, DFP et agrément conformément aux référentiels actualisés.
 
 Ce montant sera affiné suite à l'expertise médicale prévue le 12 novembre 2026 et à la consolidation.
@@ -197,7 +182,6 @@ Cette étude souligne la nécessité d'une réparation intégrale tenant compte 
 <hr>
 
 ## ANNEXES ET SOURCES JURIDIQUES
-
 - Article 1240 du Code civil — Responsabilité pour faute
 - Nomenclature Dintilhac — Référentiel des préjudices
 - Cass. Civ. 2e, 4 avril 2024, n° 22-19.307 — Libre disposition des indemnités

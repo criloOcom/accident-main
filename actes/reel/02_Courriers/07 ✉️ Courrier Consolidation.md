@@ -26,7 +26,6 @@ format: Arial JUSTIFIED
 - [INTRODUCTION](#introduction)
 
 # DEMANDE DE CERTIFICAT MEDICAL DE CONSOLIDATION
-
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac
 Courriel : sebastien.grazide@gmail.com
@@ -46,7 +45,6 @@ Ref : Dossier Sébastien GRAZIDE / Dr Iskander DJERBI
 Madame, Docteur,
 
 ## INTRODUCTION
-
 La presente lettre est adressee par Sébastien GRAZIDE a Dr Iskander DJERBI afin de solliciter la delivrance d'un certificat medical de consolidation dans le cadre de la procedure d'indemnisation de l'accident corporel dont il a ete victime le 29 mai 2026 et qui a necessite votre intervention de microchirurgie d'urgence le 30 mai 2026.
 
 Ce document est indispensable a la poursuite de la procedure judiciaire et a l'evaluation definitive des prejudices subis conformement a la Nomenclature Dintilhac.

@@ -24,7 +24,6 @@ format: Arial JUSTIFIED
 ---
 
 # TRANSMISSION ET BORDEREAU RECAPITULATIF — RECOURS CONTRE TIERS
-
 **[L'Adresse de la Victime]**
 
 Courriel : **[L'Email de la Victime]**
@@ -43,7 +42,6 @@ Ref : Accident du **[J+0 Accident]** — SAS **[L'Exploitant du Commerce (La SAS
 Madame, Monsieur,
 
 ## INTRODUCTION
-
 La presente est adressee a vos services par **[La Victime]** afin de vous informer de l'etat d'avancement des procedures judiciaires engagees a la suite de l'accident corporel grave dont j'ai ete victime le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]**, et de vous transmettre les elements actualises necessaires au suivi de mon dossier de recours contre tiers n° **[N° Dossier CPAM]**.
 
 <hr>
@@ -56,7 +54,6 @@ La presente est adressee a vos services par **[La Victime]** afin de vous inform
 <hr>
 
 ## I — RAPPEL DU DOSSIER
-
 Mon dossier de recours contre tiers a ete ouvert par vos services le **[J+5 Ouverture CPAM]** sous le numero **[N° Dossier CPAM]**, suite a l'accident corporel survenu le **[J+0 Accident]**.
 
 L'accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte mis a disposition par l'employeur. Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main le **[J+1 Chirurgie]** par **[Le Chirurgien SOS Main]**.
@@ -66,7 +63,6 @@ Mon ITT a ete evaluee a 56 jours (du **[J+0 Accident]** au **[J+55 Fin d'ITT]**)
 <hr>
 
 ## II — PROCEDURES JUDICIAIRES ENGAGEES
-
 A ce jour, les procedures suivantes ont ete engagees :
 
 1. **Phase amiable** (29 juin 2026) : Mises en demeure LRAR adressees a la SAS **[L'Exploitant du Commerce (La SAS)]** et a ses dirigeants, restees sans reponse a ce jour.
@@ -80,7 +76,6 @@ A ce jour, les procedures suivantes ont ete engagees :
 <hr>
 
 ## III — BORDEREAU RECAPITULATIF DES PIECES
-
 Conformement a l'article L.376-1 du Code de la securite sociale, je vous transmets par la presente l'etat actualise des pieces constitutives de mon dossier :
 
 **A. Pieces medicales**
@@ -116,7 +111,6 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 <hr>
 
 ## IV — DEMANDE
-
 Je sollicite de vos services :
 
 **1. La confirmation de la bonne reception** des elements transmis par la presente et leur integration a mon dossier RCT n° **[N° Dossier CPAM]**.

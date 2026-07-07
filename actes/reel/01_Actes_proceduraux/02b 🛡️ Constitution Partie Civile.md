@@ -24,7 +24,6 @@ notes: Version Glose produite le 07/07/2026 — voir reports/expertise/20260707 
 ---
 
 # CONSTITUTION DE PARTIE CIVILE
-
 **Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants**
 
 Sébastien GRAZIDE
@@ -38,7 +37,6 @@ Tribunal Judiciaire de Foix
 Blagnac, le 6 juillet 2026
 
 ## INTRODUCTION
-
 La presente constitution de partie civile est formee par Sébastien GRAZIDE dans le cadre de la procedure penale suivie a l'encontre de la SAS SAS LES MAUVAIS GARCONS, de son President Mountasser SABIR et de sa Directrice Generale Catherine ANDISSAC, en application des articles 2 et suivants du Code de procedure penale.
 
 Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la reparation de l'integralite des prejudices corporels, materiels et moraux decoulant de l'accident survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS.
@@ -47,9 +45,9 @@ Par cet acte, la victime entend exercer les droits reconnus a la partie civile a
 
 - [I — EXPOSE DES FAITS](#i--expose-des-faits)
 - [II — FONDEMENTS JURIDIQUES](#ii--fondements-juridiques)
-  - [A. Sur la qualification penale — Blessures involontaires (Art. 222-19 CP)](#a-sur-la-qualification-penale--blessures-involontaires-art-222-19-cp)
-  - [B. Sur la responsabilite civile personnelle des dirigeants (L.227-8 + L.225-251 C.com.)](#b-sur-la-responsabilite-civile-personnelle-des-dirigeants-l227-8--l225-251-ccom)
-  - [C. Sur le defaut d'assurance de responsabilite civile (L.124-3 C.assur.)](#c-sur-le-defaut-dassurance-de-responsabilite-civile-l124-3-cassur)
+  - [A. SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES (ART. 222-19 CP)](#a-sur-la-qualification-penale--blessures-involontaires-art-222-19-cp)
+  - [B. SUR LA RESPONSABILITE CIVILE PERSONNELLE DES DIRIGEANTS (L.227-8 + L.225-251 C.COM.)](#b-sur-la-responsabilite-civile-personnelle-des-dirigeants-l227-8--l225-251-ccom)
+  - [C. SUR LE DEFAUT D'ASSURANCE DE RESPONSABILITE CIVILE (L.124-3 C.ASSUR.)](#c-sur-le-defaut-dassurance-de-responsabilite-civile-l124-3-cassur)
 - [III — PREJUDICES](#iii--prejudices)
 - [IV — DEMANDES](#iv--demandes)
 - [PAR CES MOTIFS](#par-ces-motifs)
@@ -57,7 +55,6 @@ Par cet acte, la victime entend exercer les droits reconnus a la partie civile a
 <hr>
 
 ## I — EXPOSE DES FAITS
-
 Le 29 mai 2026, alors que Sébastien GRAZIDE se trouvait en qualite de client au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS sis 22 Rue Lafaurie, 09000 Foix, un grave accident corporel est survenu.
 
 Le prepose de l'exploitation, Ayoub BENNOURINE, a escalade la vasque en ceramique du bac a shampoing pour acceder au poste de television. Cet equipement, instable et presentant une cassure majeure preexistante non signalee aux aretes tranchantes, a bascule sous son poids. Par reflexe, Sébastien GRAZIDE a tendu la main droite pour proteger le prepose ; sa paume a heurte la cassure tranchante, provoquant :
@@ -69,8 +66,7 @@ Le prepose de l'exploitation, Ayoub BENNOURINE, a escalade la vasque en ceramiqu
 
 Une microchirurgie d'urgence a ete pratiquee le 30 mai 2026 par Dr Iskander DJERBI au centre SOS Main de Foix.
 
-### Antecedents et carences des mis en cause
-
+### ANTECEDENTS ET CARENCES DES MIS EN CAUSE
 La SAS SAS LES MAUVAIS GARCONS, immatriculee au RCS sous le SIREN 938 033 222, a ete constituee avec un capital social de 200 € seulement. Son President, Mountasser SABIR, et sa Directrice Generale, Catherine ANDISSAC, n'ont souscrit aucune assurance de responsabilite civile professionnelle pour l'exploitation du salon, en violation des obligations legales et reglementaires applicables aux etablissements recevant du public (ERP).
 
 Malgre des mises en demeure recommandees adressees le 29 juin 2026 a la SAS, au President et a la Directrice Generale, aucun des mis en cause n'a communique les coordonnees d'un assureur, laissant presumer une absence totale de couverture.
@@ -78,9 +74,7 @@ Malgre des mises en demeure recommandees adressees le 29 juin 2026 a la SAS, au 
 <hr>
 
 ## II — FONDEMENTS JURIDIQUES
-
-### A. Sur la qualification penale — Blessures involontaires (Art. 222-19 CP)
-
+### A. SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES (ART. 222-19 CP)
 Les faits decrits ci-dessus sont constitutifs du delit de blessures involontaires prevu et reprime par les articles 222-19 et 222-20 du Code penal.
 
 > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. » <br>
@@ -105,8 +99,7 @@ La **violation manifestement deliberee** est caracterisee par :
 - La presence d'une cassure non signalee aux aretes tranchantes sur un equipement accessible a la clientele
 - L'absence de mise a disposition d'un escabeau, contraignant le prepose a escalader la vasque
 
-### B. Sur la responsabilite civile personnelle des dirigeants (L.227-8 + L.225-251 C.com.)
-
+### B. SUR LA RESPONSABILITE CIVILE PERSONNELLE DES DIRIGEANTS (L.227-8 + L.225-251 C.COM.)
 > « Les actions en responsabilité contre le président ou les dirigeants de la SAS, soit à titre social, soit à titre individuel, se prescrivent par trois ans à compter du fait dommageable ou, s'il a été dissimulé, de sa révélation. » <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre IV : Des sociétés par actions simplifiées > Chapitre VII : De la responsabilité** <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
@@ -133,8 +126,7 @@ En l'espece, les fautes separables des dirigeants sont caracterisees par :
 
 Ces fautes, commises personnellement par le President et la Directrice Generale, sont detachables de leurs fonctions sociales et engagent leur responsabilite sur leur patrimoine propre.
 
-### C. Sur le fondement du droit de la consommation
-
+### C. SUR LE FONDEMENT DU DROIT DE LA CONSOMMATION
 > « Le professionnel de vente est tenu d'une obligation d'information précontractuelle sur les caractéristiques essentielles du bien ou du service. » <br>
 > **Code de la consommation > Partie réglementaire > Livre Ier : Information et education des consommateurs > Titre II : Information des consommateurs > Chapitre Ier : Obligation générale d'information précontractuelle** <br>
 > [Article L. 111-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438)
@@ -145,8 +137,7 @@ Ces fautes, commises personnellement par le President et la Directrice Generale,
 
 Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'information precontractuelle et a une obligation de conformite du service fourni. La prestation realisee n'etait manifestement pas conforme aux exigences de securite legitimes d'un consommateur, ce qui constitue un fondement complementaire a l'action civile et renforce l'absence de contestation serieuse.
 
-### D. Sur le defaut d'assurance de responsabilite civile (L.124-3 C.assur.)
-
+### D. SUR LE DEFAUT D'ASSURANCE DE RESPONSABILITE CIVILE (L.124-3 C.ASSUR.)
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions** <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
@@ -156,7 +147,6 @@ En l'absence d'assurance, l'indemnisation de la victime est gravement compromise
 <hr>
 
 ## III — PREJUDICES
-
 Les prejudices subis par Sébastien GRAZIDE sont graves et durables :
 
 | Poste de prejudice | Evaluation |
@@ -175,7 +165,6 @@ Les prejudices subis par Sébastien GRAZIDE sont graves et durables :
 <hr>
 
 ## IV — DEMANDES
-
 Par ces motifs, Sébastien GRAZIDE sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction de :
 
 1. **DECLARER** recevable la presente constitution de partie civile ;
@@ -189,7 +178,6 @@ Par ces motifs, Sébastien GRAZIDE sollicite qu'il plaise a Monsieur le Doyen de
 <hr>
 
 ## PAR CES MOTIFS
-
 Vu les articles 2, 3, 85 et suivants du Code de procedure penale,
 Vu les articles 222-19 et 222-20 du Code penal (ce dernier confirme en vigueur depuis le 19 mai 2011, LEGIARTI000024042640),
 Vu les articles 1240 et 1242 du Code civil,
@@ -218,7 +206,6 @@ Fait a Blagnac, le 6 juillet 2026
 Sébastien GRAZIDE
 
 ## BORDEREAU DE PIÈCES ANNEXÉES
-
 1. **Pièce n°1 :** Procès-verbal de police n° 2026/015967 — dépôt de plainte pour blessures involontaires
 2. **Pièce n°2 :** Certificat médical initial de constatation des blessures rédigé par Dr Julie JARDON (29 mai 2026)
 3. **Pièce n°3 :** Compte-rendu opératoire de microchirurgie d'urgence (suture nerveuse et tendineuse) rédigé par Dr Iskander DJERBI (30 mai 2026)

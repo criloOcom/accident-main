@@ -21,25 +21,23 @@ format: Arial JUSTIFIED
 **Table des matières**
 
 - [INTRODUCTION](#introduction)
-- [I. Introduction et contexte](#i-introduction-et-contexte)
-- [II. Analyse des faits générateurs de responsabilité](#ii-analyse-des-faits-gnrateurs-de-responsabilit)
-- [III. Bilan médical et préjudices identifiés](#iii-bilan-mdical-et-prjudices-identifis)
-- [IV. Stratégie de recours et fondements juridiques](#iv-stratgie-de-recours-et-fondements-juridiques)
-  - [A. Action directe contre l'assureur et survie de la personnalité morale](#a-action-directe-contre-lassureur-et-survie-de-la-personnalit-morale)
-  - [B. Responsabilité des dirigeants pour faute détachable](#b-responsabilit-des-dirigeants-pour-faute-dtachable)
-  - [C. Situation juridique du préposé](#c-situation-juridique-du-prpos)
-- [V. Recommandations et Conclusion](#v-recommandations-et-conclusion)
-- [Conclusion](#conclusion)
+- [I. INTRODUCTION ET CONTEXTE](#i-introduction-et-contexte)
+- [II. ANALYSE DES FAITS GÉNÉRATEURS DE RESPONSABILITÉ](#ii-analyse-des-faits-gnrateurs-de-responsabilit)
+- [III. BILAN MÉDICAL ET PRÉJUDICES IDENTIFIÉS](#iii-bilan-mdical-et-prjudices-identifis)
+- [IV. STRATÉGIE DE RECOURS ET FONDEMENTS JURIDIQUES](#iv-stratgie-de-recours-et-fondements-juridiques)
+  - [A. ACTION DIRECTE CONTRE L'ASSUREUR ET SURVIE DE LA PERSONNALITÉ MORALE](#a-action-directe-contre-lassureur-et-survie-de-la-personnalit-morale)
+  - [B. RESPONSABILITÉ DES DIRIGEANTS POUR FAUTE DÉTACHABLE](#b-responsabilit-des-dirigeants-pour-faute-dtachable)
+  - [C. SITUATION JURIDIQUE DU PRÉPOSÉ](#c-situation-juridique-du-prpos)
+- [V. RECOMMANDATIONS ET CONCLUSION](#v-recommandations-et-conclusion)
+- [CONCLUSION](#conclusion)
 
 
 
 
 # RAPPORT D'EXPERTISE JURIDIQUE : ACCIDENT CORPOREL DE LA VICTIME
-
 Rédigé le **[J+32 Assignation référé]**
 
 ## INTRODUCTION
-
 Le présent rapport d'expertise juridique a été établi par **[La Victime]** afin d'évaluer l'étendue et la qualification juridique des préjudices corporels subis à la suite de l'accident du **[J+0 Accident]**. Ce document procède à une analyse détaillée de chaque poste de préjudice selon la nomenclature Dintilhac, en s'appuyant sur les pièces médicales et administratives versées au dossier. L'évaluation est fondée sur les articles 1240 et 1231-1 du Code civil, ainsi que sur la jurisprudence constante de la Cour de cassation en matière de réparation intégrale. Chaque citation est présentée et interprétée de bonne foi, étant précisé que seuls les tribunaux ont autorité pour trancher définitivement les questions de droit soulevées.
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
@@ -51,8 +49,7 @@ Le **[J+32 Assignation référé]**
 
 <hr>
 
-## I. Introduction et contexte
-
+## I. INTRODUCTION ET CONTEXTE
 Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de **[La Victime]** (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi **[J+0 Accident]** à 15h00.
 
 L'incident s'est produit au sein de l'établissement « **[L'Exploitant du Commerce (La SAS)]** » (ci-après désigné "L'Exploitant"), exploité par une SAS dont la direction est assurée par **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**.
@@ -62,8 +59,7 @@ Cette analyse s'appuie sur le principe de la réparation intégrale, visant à r
 
 <hr>
 
-## II. Analyse des faits générateurs de responsabilité
-
+## II. ANALYSE DES FAITS GÉNÉRATEURS DE RESPONSABILITÉ
 L'accident trouve son origine dans la manœuvre imprudente d'un employé préposé monté sur un bac à shampoing, entraînant le basculement soudain de cet équipement lourd.
 
 En tentant instinctivement de retenir le meuble pour éviter une chute plus grave, la main droite de **[La Victime]** a percuté une vasque en céramique avec cassure préexistante. Les arêtes tranchantes de la vasque ont causé des lésions profondes.
@@ -75,8 +71,7 @@ Il est à noter que l'établissement a procédé à un remboursement de 15 €, 
 
 <hr>
 
-## III. Bilan médical et préjudices identifiés
-
+## III. BILAN MÉDICAL ET PRÉJUDICES IDENTIFIÉS
 Après une prise en charge initiale par **[Le Médecin en Urgence]** au **[SMUR local]**, **[La Victime]** a été transférée en urgence clinique pour une microchirurgie réalisée le **[J+1 Chirurgie]** par Le Chirurgien SOS Main.
 
 Le bilan clinique révèle une section partielle du tendon fléchisseur superficiel de l'index droit, une section complète du paquet collatéral ulnaire et radial, ainsi qu'une neurolyse du nerf collatéral palmaire.
@@ -88,10 +83,8 @@ Pour un informaticien indépendant dont la main droite est la main dominante, ce
 
 <hr>
 
-## IV. Stratégie de recours et fondements juridiques
-
-### A. Action directe contre l'assureur et survie de la personnalité morale
-
+## IV. STRATÉGIE DE RECOURS ET FONDEMENTS JURIDIQUES
+### A. ACTION DIRECTE CONTRE L'ASSUREUR ET SURVIE DE LA PERSONNALITÉ MORALE
 La stratégie privilégie l'exercice de l'action directe contre L'Assureur de responsabilité civile de **[L'Exploitant du Commerce (La SAS)]**, telle que prévue par l'Article L. 124-3 du Code des assurances.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
@@ -101,15 +94,13 @@ Cette action est autonome et n'est pas affectée par une éventuelle radiation d
 > Attendu : « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »
 > Résumé : La dissolution et la clôture de la liquidation d'une personne morale n'éteignent pas l'action directe de la victime contre son assureur de responsabilité civile, qui reste recevable.
 
-### B. Responsabilité des dirigeants pour faute détachable
-
+### B. RESPONSABILITÉ DES DIRIGEANTS POUR FAUTE DÉTACHABLE
 La responsabilité personnelle des Dirigeants peut être engagée sur le fondement de la faute détachable des fonctions de direction. Selon l'arrêt SATI (Cass. Com., 20 mai 2003, n° 99-17.092), le maintien en service d'un équipement manifestement dangereux dans un établissement recevant du public (ERP) sans protection adéquate caractérise une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales.
 
 > Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
 > Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
 
-### C. Situation juridique du préposé
-
+### C. SITUATION JURIDIQUE DU PRÉPOSÉ
 Conformément à l'arrêt Costedoat (Ass. Plén. 25 fév. 2000), le préposé bénéficie en principe d'une immunité civile.
 
 > Attendu : « N'engage pas sa responsabilité civile à l'égard des tiers le préposé qui agit dans les limites de la mission à lui impartie par son commettant. »
@@ -126,8 +117,7 @@ Cette absence de substance financière de la société face à une éventuelle l
 
 <hr>
 
-## V. Recommandations et Conclusion
-
+## V. RECOMMANDATIONS ET CONCLUSION
 Il est impératif d'intégrer des réserves judiciaires pour d'éventuelles aggravations futures, conformément à l'arrêt de la Civ. 2e du 8 juillet 2021 (n° 20-15.106).
 
 > Attendu : « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »
@@ -141,8 +131,7 @@ La capitalisation des dépenses de santé futures doit être exigée pour garant
 - Intégrer des réserves judiciaires : pour les préjudices futurs liés à l'aggravation (Cass. Civ. 2e, 8 juil. 2021, n° 20-15.106).
 - Capitaliser les dépenses de santé : matériels ergonomiques et aides techniques (Cass. Civ. 2e, 4 avril 2024, n° 22-19.307).
 
-## Conclusion
-
+## CONCLUSION
 Le dossier présente des fondements juridiques solides.
 
 L'action directe contre L'Assureur, couplée à la mise en cause des Dirigeants pour faute détachable, assure une protection optimale de La Victime.
@@ -159,18 +148,14 @@ Dans ce dossier, les fondements juridiques sont solides :
 
 <hr>
 
-## VI. Limites et réserves sur la recherche jurisprudentielle
-
-### A. Absence de jurisprudence spécifique
-
+## VI. LIMITES ET RÉSERVES SUR LA RECHERCHE JURISPRUDENTIELLE
+### A. ABSENCE DE JURISPRUDENCE SPÉCIFIQUE
 Aucune décision de justice spécifique aux accidents impliquant des vasques en céramique dans des salons de coiffure n'a été trouvée dans les bases officielles (Judilibre, Légifrance). La stratégie recommandée consiste à s'appuyer sur la jurisprudence constante de la Cour de cassation concernant les principes généraux de responsabilité (art. 1240, 1242 C. civ.), l'action directe (art. L.124-3 C. assurances) et l'incidence professionnelle, sans rechercher une jurisprudence de fait inexistante.
 
-### B. Contrôle des sources externes
-
+### B. CONTRÔLE DES SOURCES EXTERNES
 Vérification Judilibre : les 5 arrêts cités par Mistral AI dans son analyse initiale ont été systématiquement vérifiés — 0 résultat (tous inexistants). Exemples : Cass. Crim. n°18-83.216, Cass. Civ. 1ère n°18-17.868, Cass. Civ. 2e n°19/05032, Cass. Civ. 1ère n°21-14.197, Cass. Civ. 2e n°18-19.307. Aucune citation jurisprudentielle ne doit être utilisée sans vérification préalable via Judilibre ou Légifrance.
 
-### C. Sources doctrinales identifiées
-
+### C. SOURCES DOCTRINALES IDENTIFIÉES
 Les seules références doctrinales spécifiques aux salons de coiffure sont :
 - **Me Plouton** (TJ Bordeaux, 4 novembre 2024) : indemnisation d'une cliente brûlée au cuir chevelu, 13 913 € — source doctrinale, pas jurisprudence officielle.
 - **Sylvie Personnic** (Village Justice) : responsabilité des salons de coiffure pour brûlures et réactions allergiques.

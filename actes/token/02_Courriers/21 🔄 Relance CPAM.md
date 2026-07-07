@@ -20,7 +20,6 @@ format: Arial JUSTIFIED
 ---
 
 # RELANCE CPAM — SUIVI DU DOSSIER DE RECOURS CONTRE TIERS
-
 **[L'Adresse de la Victime]**
 
 Courriel : **[L'Email de la Victime]**
@@ -44,7 +43,6 @@ La presente est adressee a vos services par **[La Victime]**, victime d'un accid
 <hr>
 
 ## I — OBJET DE LA RELANCE
-
 Un dossier de recours contre tiers a ete ouvert par vos services sous le numero **[N° Dossier CPAM]** le **[J+5 Ouverture CPAM]** a la suite de mon accident.
 
 Je me permets de solliciter de vos services :

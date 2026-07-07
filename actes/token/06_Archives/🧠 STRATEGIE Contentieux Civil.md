@@ -23,35 +23,31 @@ format: Arial JUSTIFIED
 
 **Table des matières**
 
-- [1. Présentation](#1-prsentation)
-- [2. Fondements juridiques](#2-fondements-juridiques)
-  - [2.1 Responsabilité du commettant](#21-responsabilit-du-commettant)
-  - [2.2 Action directe contre l'assureur](#22-action-directe-contre-lassureur)
-  - [2.3 Survie de la personnalité morale](#23-survie-de-la-personnalit-morale)
-  - [2.4 Responsabilité pour faute](#24-responsabilit-pour-faute)
-- [3. Voies de procédure engagées](#3-voies-de-procdure-engages)
-  - [3.1 Référé-provision](#31-rfr-provision)
-  - [3.2 Référé-communication de pièces](#32-rfr-communication-de-pices)
-  - [3.3 Voie CIVI / FGTI (subsidiaire)](#33-voie-civi-fgti-subsidiaire)
-- [4. Évaluation des préjudices](#4-valuation-des-prjudices)
-- [5. Calendrier procédural](#5-calendrier-procdural)
-- [6. Récapitulatif des pièces](#6-rcapitulatif-des-pices)
+- [1. PRÉSENTATION](#1-prsentation)
+- [2. FONDEMENTS JURIDIQUES](#2-fondements-juridiques)
+  - [2.1 RESPONSABILITÉ DU COMMETTANT](#21-responsabilit-du-commettant)
+  - [2.2 ACTION DIRECTE CONTRE L'ASSUREUR](#22-action-directe-contre-lassureur)
+  - [2.3 SURVIE DE LA PERSONNALITÉ MORALE](#23-survie-de-la-personnalit-morale)
+  - [2.4 RESPONSABILITÉ POUR FAUTE](#24-responsabilit-pour-faute)
+- [3. VOIES DE PROCÉDURE ENGAGÉES](#3-voies-de-procdure-engages)
+  - [3.1 RÉFÉRÉ-PROVISION](#31-rfr-provision)
+  - [3.2 RÉFÉRÉ-COMMUNICATION DE PIÈCES](#32-rfr-communication-de-pices)
+  - [3.3 VOIE CIVI / FGTI (SUBSIDIAIRE)](#33-voie-civi-fgti-subsidiaire)
+- [4. ÉVALUATION DES PRÉJUDICES](#4-valuation-des-prjudices)
+- [5. CALENDRIER PROCÉDURAL](#5-calendrier-procdural)
+- [6. RÉCAPITULATIF DES PIÈCES](#6-rcapitulatif-des-pices)
 
 
 # STRATEGIE CONTENTIEUX CIVIL
-
 Rédigé le **[J+36 Lettre consolidation]**
 
-## 1. Présentation
-
+## 1. PRÉSENTATION
 Le **[J+0 Accident]**, **[La Victime]** a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]** (**[L'Exploitant du Commerce (La SAS)]**, SIRET **[SIRET de l'Exploitation]**), situé **[L'Adresse de l'Exploitation]**. Alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger **[Le Préposé de l'Exploitation]** ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une microchirurgie SOS Main en urgence.
 
 Le contentieux civil a pour objet d'obtenir la réparation intégrale des préjudices subis, estimés à 59 600 € selon la nomenclature Dintilhac. Il se déploie sur plusieurs fondements juridiques complémentaires incluant, en cas de défaillance de l'auteur, la voie indemnitaire du Fonds de Garantie des Victimes d'Infractions (FGTI).
 
-## 2. Fondements juridiques
-
-### 2.1 Responsabilité du commettant
-
+## 2. FONDEMENTS JURIDIQUES
+### 2.1 RESPONSABILITÉ DU COMMETTANT
 **[L'Exploitant du Commerce (La SAS)]** est civilement responsable des dommages causés par ses préposés dans l'exercice de leurs fonctions. L'accident est survenu pendant une prestation de coupe de cheveux réalisée par un employé de la société dans l'enceinte de l'établissement.
 
 La responsabilité de la SAS est engagée de plein droit en application de l'Article 1242 du Code civil, alinéa 5 (responsabilité du commettant du fait de son préposé).
@@ -59,8 +55,7 @@ La responsabilité de la SAS est engagée de plein droit en application de l'Art
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
 
-### 2.2 Action directe contre l'assureur
-
+### 2.2 ACTION DIRECTE CONTRE L'ASSUREUR
 L'Article L. 124-3 du Code des assurances confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable (Cass. 1ère civ., 8 décembre 2021, n° 20-16.463).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
@@ -70,22 +65,18 @@ L'Article L. 124-3 du Code des assurances confère à la victime d'un dommage un
 
 La mise en demeure de l'assureur a été adressée le **[J+31 Mises en demeure]**, enjoignant à la compagnie de prendre en charge le sinistre et de procéder au règlement des préjudices sous 15 jours.
 
-### 2.3 Survie de la personnalité morale
-
+### 2.3 SURVIE DE LA PERSONNALITÉ MORALE
 Conformément à l'Article 1844-8 du Code civil, si **[L'Exploitant du Commerce (La SAS)]** venait à être dissoute ou radiée, la personnalité morale de la société survit pour les besoins de la liquidation jusqu'à la clôture de celle-ci. Ce mécanisme garantit que la société puisse encore être attraite en justice et que ses dettes soient apurées, incluant l'indemnisation due à **[La Victime]**.
 
 > « La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la publication de la clôture de celle-ci. »
 
-### 2.4 Responsabilité pour faute
-
+### 2.4 RESPONSABILITÉ POUR FAUTE
 À titre subsidiaire, la responsabilité pour faute de **[L'Exploitant du Commerce (La SAS)]** est engagée sur le fondement de l'Article 1240 du Code civil pour défaut d'entretien de son équipement et manquement à son obligation de sécurité. Le principe de réparation intégrale impose que la victime soit replacée dans la situation où elle se serait trouvée si l'accident n'avait pas eu lieu.
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
 
-## 3. Voies de procédure engagées
-
-### 3.1 Référé-provision
-
+## 3. VOIES DE PROCÉDURE ENGAGÉES
+### 3.1 RÉFÉRÉ-PROVISION
 Une assignation en référé-provision (article 835 du Code de procédure civile) a été rédigée le **[J+32 Assignation référé]** pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive.
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
@@ -96,12 +87,10 @@ La demande inclut également la désignation d'un expert médical judiciaire sur
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
-### 3.2 Référé-communication de pièces
-
+### 3.2 RÉFÉRÉ-COMMUNICATION DE PIÈCES
 En parallèle, une procédure de référé-communication peut être engagée pour obtenir la communication forcée de la police d'assurance responsabilité civile de **[L'Exploitant du Commerce (La SAS)]** sous astreinte. Cette mesure conservatoire est essentielle pour permettre l'identification et la mise en cause de l'assureur dans le cadre de l'action directe.
 
-### 3.3 Voie CIVI / FGTI (subsidiaire)
-
+### 3.3 VOIE CIVI / FGTI (SUBSIDIAIRE)
 Si l'absence d'assurance de **[L'Exploitant du Commerce (La SAS)]** est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à l'Article L. 124-3 du Code des assurances ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI) sur le fondement de l'Article 706-3 du Code de procédure pénale.
 
 Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels résultant d'une infraction pénale, lorsque l'auteur n'est pas assuré et que la réparation ne peut être obtenue à un autre titre.
@@ -122,8 +111,7 @@ Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels rés
 
 Cette voie est subsidiaire : elle ne se substitue pas à l'action directe contre l'assureur, mais la sécurise en cas d'insolvabilité de l'auteur.
 
-## 4. Évaluation des préjudices
-
+## 4. ÉVALUATION DES PRÉJUDICES
 L'évaluation des préjudices subis par **[La Victime]**, informaticien indépendant (SIREN **[L'Identifiant Professionnel de la Victime]**, chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :
 
 | Poste de préjudice | Montant |
@@ -143,8 +131,7 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 > Attendu : « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. »
 > Résumé : L'indemnisation au titre de l'incidence professionnelle est cumulable avec la perte de gains professionnels futurs et répare la dévalorisation sur le marché de l'emploi et l'exclusion sociale qui en découlent.
 
-## 5. Calendrier procédural
-
+## 5. CALENDRIER PROCÉDURAL
 | Phase | Action | Échéance |
 |-------|--------|----------|
 | Phase amiable | Mises en demeure, échanges courriers | Juin — Juillet 2026 |
@@ -155,8 +142,7 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 | Appel éventuel | Si la décision est contestée par une partie | Délai d'appel : 1 mois |
 | Saisine CIVI (subsidiaire) | Demande d'indemnisation FGTI si SAS insolvable | Jusqu'à 3 ans post-infraction (prorogeable 1 an apres decision penale) |
 
-## 6. Récapitulatif des pièces
-
+## 6. RÉCAPITULATIF DES PIÈCES
 Pièces médicales :
 - **[J+0 Accident]** — **[Le Médecin en Urgence]** — Premiers soins urgence
 - **[J+1 Chirurgie]** — **[Le Chirurgien SOS Main]** — CR opératoire

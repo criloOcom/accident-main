@@ -21,7 +21,6 @@ format: Arial JUSTIFIED
 ---
 
 # SIGNALEMENT DE TRAVAIL DISSIMULE PRESUME
-
 **[L'Adresse de la Victime]**
 
 Courriel : **[L'Email de la Victime]**
@@ -39,7 +38,6 @@ Ref : SIREN **[SIREN de l'Exploitation]**
 Madame, Monsieur le Directeur,
 
 ## INTRODUCTION
-
 Je vous signale par la presente des elements laissant presumer l'exercice d'un travail dissimule au sein de la SAS **[L'Exploitant du Commerce (La SAS)]** (SIREN **[SIREN de l'Exploitation]**), conformement aux articles L.8221-1 et suivants du Code du travail.
 
 Le **[J+0 Accident]**, alors que je me trouvais dans l'etablissement exploite par cette societe, j'ai ete temoin de la presence d'une personne physique ([Le Prepose de l'Exploitation]) exercant une activite de coiffeur.
@@ -54,7 +52,6 @@ Les informations publiques disponibles (INPI, INSEE) indiquent que cette societe
 <hr>
 
 ## I — ELEMENTS LAISSANT PRESUMER UN TRAVAIL DISSIMULE
-
 Les elements suivants sont susceptibles de caracteriser un travail dissimule par dissimulation d'emploi salarie (Article L.8221-5 du Code du travail) :
 
 **1. Absence de declaration du prepose**<br>
@@ -84,7 +81,6 @@ Les elements suivants sont susceptibles de caracteriser un travail dissimule par
 <hr>
 
 ## II — DEMANDE DE VERIFICATION
-
 Je sollicite de vos services qu'une verification soit effectuee concernant :
 
 1. La situation de **[Le Prepose de l'Exploitation]** au regard des declarations sociales (DPAE, bulletin de paie)<br>

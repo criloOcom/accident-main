@@ -21,7 +21,6 @@ format: Arial JUSTIFIED
 ---
 
 # INFORMATION DE LITIGE AU SERVICE DES IMPOTS DES ENTREPRISES
-
 **[L'Adresse de la Victime]**
 
 Courriel : **[L'Email de la Victime]**

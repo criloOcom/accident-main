@@ -19,9 +19,7 @@ statut: preparation
 ---
 
 # BON D'ENVOI PHYSIQUE — IMPRESSION + ENVOI
-
-## Documents à imprimer (2 exemplaires chacun)
-
+## DOCUMENTS À IMPRIMER (2 EXEMPLAIRES CHACUN)
 | # | Document | Fichier reel/ | Exemplaires |
 |---|----------|---------------|-------------|
 | 1 | **Courrier au Doyen des Juges d'Instruction** | `reel/02_Courriers/10 ✉️ Courrier Doyen Juges Instruction.md` | 2 (1 envoi + 1 copie) |
@@ -29,16 +27,14 @@ statut: preparation
 | 3 | **Bordereau de pièces CPC** | (inclus dans le document #2) | — |
 | 4 | **Copies des 6 pièces justificatives** (voir liste ci-dessous) | — | 1 jeu complet |
 
-## Destinataire unique pour ce lot
-
+## DESTINATAIRE UNIQUE POUR CE LOT
 **[LA VILLE DE L'ACCIDENT] — Tribunal Judiciaire de [LA VILLE DE L'ACCIDENT]**
 
 > **À :** Monsieur le Doyen des Juges d'Instruction
 > **Adresse :** Tribunal Judiciaire de [La Ville de l'Accident], **[Adresse Tribunal Judiciaire]**, 09008 [La Ville de l'Accident] Cedex
 > **Mode :** Lettre Recommandée avec Accusé de Réception (LRAR)
 
-## Pièces justificatives à joindre (6 pièces)
-
+## PIÈCES JUSTIFICATIVES À JOINDRE (6 PIÈCES)
 | Pièce | Description | Source |
 |-------|-------------|--------|
 | **1** | Preuve de paiement Wero 15,00 € (29 mai 2026) | Impression relevé bancaire |
@@ -48,16 +44,14 @@ statut: preparation
 | **5** | Copie du PV de plainte pénale (Police Nationale) | Copie |
 | **6** | LRAR mises en demeure (29 juin 2026) + AR | Copies |
 
-## Instructions
-
+## INSTRUCTIONS
 1. **Imprimer** chaque document en A4, police Arial (ou équivalent lisible)
 2. **Signer** la CPC + le courrier au Doyen (signature manuscrite en bas)
 3. **Faire** un jeu de photocopies complet pour vous (votre copie personnelle)
 4. **Envoyer** le tout en LRAR au Doyen des Juges d'Instruction de [La Ville de l'Accident]
 5. **Conserver** l'Accusé de Réception (AR) dans la chemise « Preuves d'envoi »
 
-## Rappels
-
+## RAPPELS
 - **Délai de réponse** du juge d'instruction : 1 à 3 mois
 - **Consignation** possible (art. 88 CPP) : solliciter l'exemption compte tenu de la situation financière
 - L'envoi de la CPC déclenche **l'ouverture d'une信息 judiciaire** et l'attribution d'un juge d'instruction

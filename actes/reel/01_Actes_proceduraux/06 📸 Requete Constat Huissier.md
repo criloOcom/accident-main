@@ -18,13 +18,11 @@ format: Arial JUSTIFIED
 ---
 
 # REQUÊTE AUX FINS DE CONSTAT D'HUISSIER (ARTICLE 145 CPC)
-
 **À l'attention de :** Tel huissier de justice territorialement compétent
 
 ---
 
 ## 1. IDENTIFICATION DES PARTIES
-
 **Requérant :**
 Sébastien GRAZIDE
 
@@ -34,7 +32,6 @@ SAS LES MAUVAIS GARCONS
 <hr>
 
 ## 2. EXPOSÉ DES FAITS
-
 Le 29 mai 2026, un accident corporel grave s'est produit dans les locaux de la société SAS LES MAUVAIS GARCONS.
 
 Cet accident a été causé par le basculement d'une vasque défectueuse, ce qui a entraîné la blessure sévère de Sébastien GRAZIDE.
@@ -44,7 +41,6 @@ Afin de préserver les droits du requérant dans la perspective d'une éventuell
 ---
 
 ## 3. FONDEMENT JURIDIQUE
-
 La présente requête est fondée sur les dispositions de l'Article 145 du Code de procédure civile, lequel dispose que :
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
@@ -52,7 +48,6 @@ La présente requête est fondée sur les dispositions de l'Article 145 du Code 
 ---
 
 ## 4. OBJET DU CONSTAT
-
 Il est sollicité qu'il plaise à l'huissier instrumentaire de se rendre sur les lieux de l'accident et de procéder aux constatations suivantes :
 
 1.  **L'état du bac à shampoing :** Constater avec précision l'état général de l'équipement et relever, de manière circonstanciée, toute cassure préexistante ou signe de défectuosité.
@@ -63,7 +58,6 @@ Il est sollicité qu'il plaise à l'huissier instrumentaire de se rendre sur les
 <hr>
 
 ## 5. DISPOSITIF
-
 Par ces motifs, il est demandé de :
 
 **Donner acte à l'huissier instrumentaire de ses constatations et photographies** dans le cadre du procès-verbal de constat qui sera dressé à l'issue de ses opérations.

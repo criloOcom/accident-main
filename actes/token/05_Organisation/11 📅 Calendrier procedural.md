@@ -17,9 +17,7 @@ format: Arial JUSTIFIED
 ---
 
 # 11 - CALENDRIER PROCÉDURAL
-
 ## I. ÉVÉNEMENTS PASSÉS
-
 | Date | ID | Événement | Catégorie | Statut |
 |---|---|---|---|---|
 | 26/01/1993 | EVT-31 | Arrêt (Jurisprudence) | Jurisprudence | Précédent juridique |
@@ -81,7 +79,6 @@ format: Arial JUSTIFIED
 | Non précisé | EVT-42 | Frais de justice (Article 475-1) | Procédure | Demande en justice |
 
 ## II. ÉCHÉANCES À VENIR
-
 | Date | ID | Événement | Catégorie | Statut |
 |---|---|---|---|---|
 | **[J+46 Échéance amiable]** | EVT-15 | Échéance légale de mise en demeure | Échéance | À venir |
@@ -90,13 +87,11 @@ format: Arial JUSTIFIED
 | **[J+167 Expertise UMJ]** 13:45 | EVT-17 | Expertise Médicale Judiciaire | Médical | Programmé |
 
 ## III. SYNTHÈSE
-
 - **Total d'événements :** 61
 - **Événements passés :** 57 (dont 9 non datés)
 - **Échéances à venir :** 4
 
-### Délais légaux et catégories
-- **Procédure :** 12
+### DÉLAIS LÉGAUX ET CATÉGORIES- **Procédure :** 12
 - **Médical :** 26
 - **Correspondance :** 14
 - **Jurisprudence :** 5

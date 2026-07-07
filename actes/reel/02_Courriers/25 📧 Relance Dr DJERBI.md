@@ -14,8 +14,7 @@ source: local
 format: Arial JUSTIFIED
 ---
 
-# RELANCE — Demande de certificat médical de consolidation
-
+# RELANCE — DEMANDE DE CERTIFICAT MÉDICAL DE CONSOLIDATION
 Objet : Demande de certificat médical de consolidation — Suite courrier du 5 juillet 2026
 
 **Destinataire :** Dr Iskander DJERBI — SOS Main Clinique de l'Union

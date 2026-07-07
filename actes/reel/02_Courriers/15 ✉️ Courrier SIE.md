@@ -21,7 +21,6 @@ format: Arial JUSTIFIED
 ---
 
 # INFORMATION DE LITIGE AU SERVICE DES IMPOTS DES ENTREPRISES
-
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac
 Courriel : sebastien.grazide@gmail.com

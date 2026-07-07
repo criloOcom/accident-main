@@ -24,7 +24,6 @@ format: Arial JUSTIFIED
 ---
 
 # ACTION DIRECTE — MISE EN DEMEURE ASSUREUR RC
-
 **[L'Adresse de la Victime]**
 
 Courriel : **[L'Email de la Victime]**
@@ -44,7 +43,6 @@ Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce (La SAS)]**
 Madame, Monsieur,
 
 ## INTRODUCTION
-
 La présente lettre de mise en demeure est adressée par **[La Victime]** à la compagnie d'assurance de **[L'Exploitant du Commerce (La SAS)]** sur le fondement de l'article L. 124-3 du Code des assurances, lequel institue une action directe de la victime contre l'assureur du responsable.
 
 Par ce courrier, **[La Victime]** met en demeure l'assureur de prendre en charge le sinistre corporel survenu le **[J+0 Accident]** dans les locaux de **[L'Exploitant du Commerce (La SAS)]** et de procéder au règlement des préjudices subis, dont le montant total estimé s'élève à **59 600 €** selon l'étude d'indemnisation établie conformément à la Nomenclature Dintilhac.

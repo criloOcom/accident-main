@@ -25,7 +25,6 @@ format: Arial JUSTIFIED
 ---
 
 # DEMANDE DE SIGNALEMENT DE LITIGE AU REGISTRE NATIONAL DES ENTREPRISES
-
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac
 Courriel : sebastien.grazide@gmail.com
@@ -43,7 +42,6 @@ Ref : SIREN 938 033 222 — SAS SAS LES MAUVAIS GARCONS
 Madame, Monsieur,
 
 ## INTRODUCTION
-
 La presente est adressee a l'INPI par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS, immatriculee au RNE sous le SIREN 938 033 222.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
@@ -57,7 +55,6 @@ Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm ave
 <hr>
 
 ## I — RAPPEL DES FAITS
-
 Le 29 mai 2026, alors que je me trouvais dans l'etablissement pour une prestation de coiffure, le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television. Cet equipement etait instable et presentait une cassure majeure preexistante non signalee.
 
 En descendant, le poids du prepose a provoque le basculement de l'equipement, et ma main droite, tendue par reflexe pour le proteger, a heurte la cassure preexistante, entrainant une plaie palmaire profonde et une section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant.
@@ -65,7 +62,6 @@ En descendant, le poids du prepose a provoque le basculement de l'equipement, et
 <hr>
 
 ## II — PROCEDURES EN COURS
-
 Les procedures suivantes ont ete engagees :
 
 **1. Procedure penale**
@@ -85,7 +81,6 @@ Les procedures suivantes ont ete engagees :
 <hr>
 
 ## III — DEMANDE DE SIGNALEMENT
-
 Conformement aux dispositions du Code de commerce relatives au Registre National des Entreprises, je sollicite l'inscription d'un signalement au dossier RNE de la SAS SAS LES MAUVAIS GARCONS (SIREN 938 033 222) afin de porter a la connaissance des tiers et de l'administration l'existence du litige en cours.
 
 Cette demande est motivee par la necessite de prevenir toute modification de la situation juridique de la societe (dissolution, liquidation, radiation ou cession) qui pourrait intervenir sans que les autorites et les tiers aient connaissance des creances et actions en justice en cours a l'encontre de la societe. Les montants en jeu sont estimes a **59 600 €** au titre de la reparation integrale des prejudices corporels.

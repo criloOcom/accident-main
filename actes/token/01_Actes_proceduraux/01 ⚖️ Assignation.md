@@ -28,11 +28,9 @@ format: Arial JUSTIFIED
 ---
 
 # ASSIGNATION EN RÉFÉRÉ-PROVISION ET DEMANDE D'EXPERTISE MÉDICALE
-
 Rédigé le **[J+32 Assignation référé]**
 
 ## INTRODUCTION
-
 La présente assignation en référé-provision et demande d'expertise médicale est introduite par **[La Victime]** à l'encontre de **[L'Exploitant du Commerce (La SAS)]**, personne morale exploitant un salon de coiffure, pris en la personne de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, et personnellement contre ces derniers, au sein duquel la victime a subi un grave accident corporel le **[J+0 Accident]**. 
 
 Par cet acte, **[La Victime]** sollicite du président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, l'allocation d'une provision de 15 000 € à valoir sur la réparation intégrale de ses préjudices.
@@ -65,12 +63,12 @@ PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCI
 
 - [I. EXPOSÉ DES FAITS](#i-expos-des-faits)
 - [II. DISCUSSION JURIDIQUE](#ii-discussion-juridique)
-  - [A. Sur le principe de la responsabilité civile délictuelle](#a-sur-le-principe-de-la-responsabilit-civile-dlictuelle)
-  - [B. Sur le fondement du droit de la consommation](#b-sur-le-fondement-du-droit-de-la-consommation)
-  - [C. Sur la demande d'expertise médicale](#c-sur-la-demande-dexpertise-mdicale)
-  - [D. Sur l'octroi d'une provision financière](#d-sur-loctroi-dune-provision-financire)
-  - [E. Justification du montant de la provision](#e-justification-du-montant-de-la-provision)
-  - [F. Sur la communication forcée de la police d'assurance](#f-sur-la-communication-force-de-la-police-dassurance)
+  - [A. SUR LE PRINCIPE DE LA RESPONSABILITÉ CIVILE DÉLICTUELLE](#a-sur-le-principe-de-la-responsabilit-civile-dlictuelle)
+  - [B. SUR LE FONDEMENT DU DROIT DE LA CONSOMMATION](#b-sur-le-fondement-du-droit-de-la-consommation)
+  - [C. SUR LA DEMANDE D'EXPERTISE MÉDICALE](#c-sur-la-demande-dexpertise-mdicale)
+  - [D. SUR L'OCTROI D'UNE PROVISION FINANCIÈRE](#d-sur-loctroi-dune-provision-financire)
+  - [E. JUSTIFICATION DU MONTANT DE LA PROVISION](#e-justification-du-montant-de-la-provision)
+  - [F. SUR LA COMMUNICATION FORCÉE DE LA POLICE D'ASSURANCE](#f-sur-la-communication-force-de-la-police-dassurance)
 - [III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)](#iii-valuation-provisoire-des-prjudices-nomenclature-dintilhac)
 - [PAR CES MOTIFS](#par-ces-motifs)
 
@@ -78,7 +76,6 @@ PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCI
 <hr><hr>
 
 ## I. EXPOSÉ DES FAITS
-
 Le **[J+0 Accident]**, **[La Victime]** s'est rendu au salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]** pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero (15,00 €) **(Pièce n°6)**.
 
 Alors qu'il se trouvait au bac à shampoing, **[Le Préposé de l'Exploitation]**, qui était monté sur la vasque en céramique, a provoqué le basculement brutal de l'équipement en tentant d'en descendre. Par un réflexe d'assistance pour retenir la chute, **[La Victime]** a tendu sa main droite, qui a heurté une cassure majeure préexistante non signalée sur le flanc de la vasque.
@@ -103,9 +100,7 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du *
 <hr><hr>
 
 ## II. DISCUSSION JURIDIQUE
-
-### A. Sur le principe de la responsabilité civile délictuelle
-
+### A. SUR LE PRINCIPE DE LA RESPONSABILITÉ CIVILE DÉLICTUELLE
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
 > **Code civil > ... > Chapitre Ier : La responsabilité extracontractuelle en général** <br>
 > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
@@ -139,8 +134,7 @@ En l'espèce, le défaut d'entretien des locaux et de sécurisation de la vasque
 
 L'extrême sous-capitalisation de la société (capital social de 200 €), ne lui permettant manifestement pas de faire face à l'indemnisation d'un accident corporel grave, confirme la nécessité de retenir la responsabilité personnelle des dirigeants, seuls garants effectifs de la solvabilité de l'indemnisation.
 
-### B. Sur le fondement du droit de la consommation
-
+### B. SUR LE FONDEMENT DU DROIT DE LA CONSOMMATION
 Le salon de coiffure, en tant que professionnel, est tenu à une obligation d'information précontractuelle.
 
 > « Avant que le consommateur ne soit lié par un contrat à titre onéreux, le professionnel communique au consommateur, de manière lisible et compréhensible, les informations suivantes : [...] 4° Les informations relatives à l'identité du professionnel, à ses coordonnées postales, téléphoniques et électroniques et à ses activités, pour autant qu'elles ne ressortent pas du contexte ; [...] » <br>
@@ -162,16 +156,14 @@ Ces inconformités constituent un manquement à l'obligation de sécurité inhé
 
 Ce fondement complémentaire (droit de la consommation) renforce l'absence de contestation sérieuse sans se substituer au fondement principal de la responsabilité civile délictuelle (art. 1240, 1242 C. civ.), offrant ainsi un double socle juridique à la demande.
 
-### C. Sur la demande d'expertise médicale
-
+### C. SUR LA DEMANDE D'EXPERTISE MÉDICALE
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
 L'état corporel de **[La Victime]** n'étant pas consolidé à ce jour, il est indispensable de faire désigner un expert médical judiciaire afin d'évaluer l'intégralité des préjudices corporels subis.
 
-### D. Sur l'octroi d'une provision financière
-
+### D. SUR L'OCTROI D'UNE PROVISION FINANCIÈRE
 
 
 > « Dans tous les cas où l'existence de l'obligation n'est pas sérieusement contestable, le président peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. » <br>
@@ -181,8 +173,7 @@ L'état corporel de **[La Victime]** n'étant pas consolidé à ce jour, il est 
 
 L'obligation à réparation de **[L'Exploitant du Commerce (La SAS)]** n'étant pas sérieusement contestable au vu du PV de police et des pièces médicales indiscutables, **[La Victime]** est fondé à réclamer le versement d'une provision financière.
 
-### E. Justification du montant de la provision
-
+### E. JUSTIFICATION DU MONTANT DE LA PROVISION
 Le montant de 15 000 € sollicité à titre de provision est justifié par les éléments suivants :
 
 **1. Le montant se situe dans la fourchette basse des provisions usuelles**
@@ -209,8 +200,7 @@ Aucun élément versé aux débats ne permet de contester sérieusement ni la ma
   
 - **Cass. 2e Civ., 19 novembre 1998, n°96-16.128** : le paiement d'une provision en référé n'exonère pas l'assureur de son obligation de présenter une offre d'indemnisation dans le délai légal (JURITEXT000007037753)
 
-### F. Sur la communication forcée de la police d'assurance
-
+### F. SUR LA COMMUNICATION FORCÉE DE LA POLICE D'ASSURANCE
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
 > **Code de procédure civile > Titre VII > Section I : Décisions ordonnant des mesures d'instruction** <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
@@ -228,7 +218,6 @@ Il est donc demandé au juge des référés d'ordonner à **[L'Exploitant du Com
 <hr><hr>
 
 ## III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)
-
 **[La Victime]** est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.
 
 - **Pertes de Gains Professionnels Actuels (PGPA)** : <br>
@@ -260,7 +249,6 @@ Dans l'attente du dépôt du rapport de l'expert judiciaire, **[La Victime]** so
 <hr><hr>
 
 ## PAR CES MOTIFS
-
 Vu les articles 145 et 835 du Code de procédure civile,
 Vu les articles 1240 et 1242 du Code civil,
 Vu l'article L. 124-3 du Code des assurances,
@@ -287,7 +275,6 @@ Vu les pièces versées aux débats,
 <hr>
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
-
 - **Pièce n°1 :** Procès-verbal de police n° **[N° PV Police]** (Police Nationale **[La Métropole Régionale]**) — dépôt de plainte pour blessures involontaires
 - **Pièce n°2 :** Certificat médical initial constatant les blessures, rédigé par **[Le Médecin en Urgence]** (**[J+0 Accident]**)
 - **Pièce n°3 :** Compte-rendu opératoire de microchirurgie rédigé par **[Le Chirurgien SOS Main]** (**[J+1 Chirurgie]**)

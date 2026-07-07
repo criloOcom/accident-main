@@ -25,7 +25,6 @@ format: Arial JUSTIFIED
 ---
 
 # SAISINE CONSERVATOIRE DU FONDS DE GARANTIE DES VICTIMES
-
 **[L'Adresse de la Victime]**
 
 Courriel : **[L'Email de la Victime]**
@@ -45,7 +44,6 @@ Madame, Monsieur le Directeur,
 <hr>
 
 ## INTRODUCTION
-
 La presente est adressee au FGTI par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]**, immatriculee sous le SIREN **[SIREN de l'Exploitation]**.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
@@ -62,7 +60,6 @@ Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm ave
 <hr>
 
 ## PROCEDURES JUDICIAIRES ENGAGEES
-
 A la date de la presente, les procedures suivantes ont ete engagees :
 
 1. **Mises en demeure LRAR** (29 juin 2026) : adressees a la SAS et a ses dirigeants, **sans aucun retour** a ce jour.
@@ -78,7 +75,6 @@ Ces procedures constituent le prerequis necessaire a une eventuelle saisine du F
 <hr>
 
 ## RAPPEL DES FAITS
-
 L'accident est survenu dans un contexte de multiples irregularites de la part de l'exploitant :
 
 - Absence d'equipement d'acces en hauteur (escabeau) pour les interventions en hauteur
@@ -96,7 +92,6 @@ L'accident est survenu dans un contexte de multiples irregularites de la part de
 <hr>
 
 ## INDEMNITES SOLLICITEES
-
 Le montant total estime de mon prejudice corporel, selon la nomenclature Dintilhac, s'eleve a **59 600 €**, se decomposant comme suit :
 
 - Pertes de gains professionnels actuels (PGPA) : 1 400 €
@@ -114,7 +109,6 @@ Le montant total estime de mon prejudice corporel, selon la nomenclature Dintilh
 <hr>
 
 ## SAISINE CONSERVATOIRE
-
 Je sollicite par la presente l'ouverture d'un dossier conservatoire aupres du FGTI, pour les motifs suivants :
 
 1. La SAS **[L'Exploitant du Commerce (La SAS)]** est une societe au capital de 200 € ne declarant aucun salarie, ne repondant a aucune sollicitation, et ne justifiant d'aucune assurance RC professionnelle.

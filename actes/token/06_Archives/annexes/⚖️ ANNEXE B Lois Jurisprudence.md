@@ -1,7 +1,5 @@
 # ANNEXE B — TEXTES DE LOI ET JURISPRUDENCE CITÉS
-
-## Textes de loi
-
+## TEXTES DE LOI
 • **Article 1240 du Code civil** — Responsabilité pour faute
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
@@ -77,16 +75,14 @@ Lien : LEGIARTI000049464053
 
 > « Le professionnel délivre un bien conforme au contrat ainsi qu'aux critères énoncés à l'article L. 217-5. Il répond des défauts de conformité existant lors de la délivrance du bien au sens de l'article L. 217-13. »
 
-## Doctrine — Accidents en salon de coiffure
-
+## DOCTRINE — ACCIDENTS EN SALON DE COIFFURE
 • **[Article Me J. Plouton — TJ Bordeaux, 4 novembre 2024 (RG 22/05793)](https://www.jplouton-avocat.fr/post/indemnisation-d-une-cliente-brul%C3%A9e-au-cuir-chevelu-lors-d-une-coloration-dans-un-salon-de-coiffure)**
   Indemnisation de 13 913 € pour une cliente brûlée au cuir chevelu lors d'une coloration dans un salon de coiffure. L'article détaille les postes de préjudice retenus et confirme la tendance jurisprudentielle à retenir la responsabilité du professionnel pour défaut de sécurité.
 
 • **[Synthèse Village Justice](https://www.village-justice.com/articles/coupe-ratee-teinture-loupee-cheveux-brules-abimes-par-une-coloration-reaction,45440.html)**
   Panorama de jurisprudence sur la responsabilité des salons de coiffure : coupe ratée, teinture loupée, cheveux brûlés. Confirme la responsabilité systématique du salon pour manquement à l'obligation de sécurité, tant sur le fondement civiliste (1240/1242 C.civ.) que sur celui du droit de la consommation.
 
-## Jurisprudence
-
+## JURISPRUDENCE
 • **Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)** — Faute détachable de ses fonctions du dirigeant
 
 > Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »

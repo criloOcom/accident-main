@@ -21,7 +21,6 @@ format: Arial JUSTIFIED
 ---
 
 # DEMANDE DE COMMUNICATION D'ASSURANCE RC
-
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac
 Courriel : sebastien.grazide@gmail.com
@@ -39,7 +38,6 @@ Réf : Dossier Sébastien GRAZIDE / SAS LES MAUVAIS GARCONS
 Monsieur,
 
 ## INTRODUCTION
-
 La présente lettre est adressée par Sébastien GRAZIDE à Romain DELRIEU en sa qualité de propriétaire bailleur des locaux commerciaux situés au 22 Rue Lafaurie, 09000 Foix, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de l'exploitant.
 
 Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grave accident corporel survenu le 29 mai 2026 dans lesdits locaux.

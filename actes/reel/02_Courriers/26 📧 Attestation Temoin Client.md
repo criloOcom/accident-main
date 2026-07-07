@@ -14,8 +14,7 @@ source: local
 format: Arial JUSTIFIED
 ---
 
-# TRANSMISSION — Gabarit d'attestation de témoin (Client)
-
+# TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (CLIENT)
 Objet : Attestation de témoin — Accident du 29 mai 2026 au salon 22 Rue Lafaurie, 09000 Foix
 
 ---

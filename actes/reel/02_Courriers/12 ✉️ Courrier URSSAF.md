@@ -21,7 +21,6 @@ format: Arial JUSTIFIED
 ---
 
 # SIGNALEMENT DE TRAVAIL DISSIMULE PRESUME
-
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac
 Courriel : sebastien.grazide@gmail.com
@@ -39,7 +38,6 @@ Ref : SIREN 938 033 222
 Madame, Monsieur le Directeur,
 
 ## INTRODUCTION
-
 Je vous signale par la presente des elements laissant presumer l'exercice d'un travail dissimule au sein de la SAS SAS LES MAUVAIS GARCONS (SIREN 938 033 222), conformement aux articles L.8221-1 et suivants du Code du travail.
 
 Le 29 mai 2026, alors que je me trouvais dans l'etablissement exploite par cette societe, j'ai ete temoin de la presence d'une personne physique (Ayoub BENNOURINE) exercant une activite de coiffeur.
@@ -54,7 +52,6 @@ Les informations publiques disponibles (INPI, INSEE) indiquent que cette societe
 <hr>
 
 ## I — ELEMENTS LAISSANT PRESUMER UN TRAVAIL DISSIMULE
-
 Les elements suivants sont susceptibles de caracteriser un travail dissimule par dissimulation d'emploi salarie (Article L.8221-5 du Code du travail) :
 
 **1. Absence de declaration du prepose**<br>
@@ -84,7 +81,6 @@ Les elements suivants sont susceptibles de caracteriser un travail dissimule par
 <hr>
 
 ## II — DEMANDE DE VERIFICATION
-
 Je sollicite de vos services qu'une verification soit effectuee concernant :
 
 1. La situation de Ayoub BENNOURINE au regard des declarations sociales (DPAE, bulletin de paie)<br>

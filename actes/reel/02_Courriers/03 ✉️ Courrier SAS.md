@@ -26,8 +26,7 @@ format: Arial JUSTIFIED
 
 - [INTRODUCTION](#introduction)
 
-# MISE EN DEMEURE — Déclaration d'Accident Corporel
-
+# MISE EN DEMEURE — DÉCLARATION D'ACCIDENT CORPOREL
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac
 Courriel : sebastien.grazide@gmail.com
@@ -45,7 +44,6 @@ Réf : Dossier Sébastien GRAZIDE / SAS LES MAUVAIS GARCONS
 Madame, Monsieur,
 
 ## INTRODUCTION
-
 La présente lettre de mise en demeure est adressée par Sébastien GRAZIDE à SAS LES MAUVAIS GARCONS afin de déclarer officiellement l'accident corporel survenu le 29 mai 2026 dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
 
 Ce courrier constitue la première étape amiable préalable à toute action contentieuse, conformément aux usages de la procédure civile.
