@@ -32,9 +32,9 @@
 
 📁 **[app/](./app/)** — Scripts Python
 
-📁 **[reports/](./reports/)** — Rapports d'analyse et de validation
-├── 📁 **[audit/](./reports/audit/)** — Rapports d'audit et vérifications
-├── 📁 **[expertise/](./reports/expertise/)** — Rapports d'analyse et mémoires juridiques
+📁 **[reports/](./reports/)** — Rapports d'analyse et de validation <br>
+├── 📁 **[audit/](./reports/audit/)** — Rapports d'audit et vérifications <br>
+├── 📁 **[expertise/](./reports/expertise/)** — Rapports d'analyse et mémoires juridiques <br>
 └── 📁 **[ordalie/](./reports/ordalie/)** — Validation juridique
 
 📁 **[pieces/](./pieces/)** — Pièces originales extraites des PDFs
