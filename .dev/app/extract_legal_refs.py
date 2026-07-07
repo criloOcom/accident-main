@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#!/usr/bin/env python3
 """Extract legal references from a document and generate Annexe B."""
 
 import re
@@ -49,6 +48,7 @@ LEGAL_REFS = {
 def extract_legal_refs(text):
     """Extract legal references from document text."""
     found = {}
+    text_lower = text.lower()
     
     # Search for article references
     patterns = [
@@ -65,7 +65,7 @@ def extract_legal_refs(text):
         # Simple check: look for key parts of the title
         if ref_key.startswith("Art."):
             art_num = ref_key.replace("Art.", "")
-            if f"article {art_num}" in text.lower() or f"art. {art_num}" in text.lower() or f"art.{art_num}" in text.lower():
+            if f"article {art_num}" in text_lower or f"art. {art_num}" in text_lower or f"art.{art_num}" in text_lower:
                 found[ref_key] = ref_data
         elif ref_key.startswith("CCASS."):
             # For jurisprudence, check for case number
