@@ -84,7 +84,9 @@ Les faits decrits ci-dessus sont constitutifs du delit de blessures involontaire
 En l'espece :
 
 - **La maladresse et l'imprudence** sont caracterisees par le fait de laisser un employe monter sur une vasque en ceramique instable et cassee, faute d'equipement d'acces adapte (escabeau), en violation des articles R. 4323-58 et suivants du Code du travail imposant la mise a disposition d'equipements de travail en hauteur.
+  
 - **Le manquement a une obligation de securite** resulte de l'absence de signalement et de protection de la cassure preexistante aux aretes tranchantes de la vasque, constituant un danger manifeste pour la clientele.
+  
 - **L'inobservation des regles de securite** applicables aux ERP (etablissements recevant du public) est caracterisee par le defaut d'entretien du materiel et l'absence de verification des installations.
 
 L'ITT de 56 jours, certifiee par Dr Iskander DJERBI, est inferieure a 3 mois, ce qui conduit a la qualification suivante :
@@ -96,7 +98,9 @@ L'ITT de 56 jours, certifiee par Dr Iskander DJERBI, est inferieure a 3 mois, ce
 La **violation manifestement deliberee** est caracterisee par :
 
 - L'absence totale d'assurance RC professionnelle pour un ERP recevant du public
+  
 - La presence d'une cassure non signalee aux aretes tranchantes sur un equipement accessible a la clientele
+  
 - L'absence de mise a disposition d'un escabeau, contraignant le prepose a escalader la vasque
 
 ### B. SUR LA RESPONSABILITE CIVILE PERSONNELLE DES DIRIGEANTS (L.227-8 + L.225-251 C.COM.)
@@ -186,7 +190,7 @@ Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
 Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu l'article L. 124-3 du Code des assurances,
 Vu les articles 706-3 et 706-14 du Code de procedure penale,
-Vu la jurisprudence Cass. Com., 20 mai 2003, n° 99-17.092 (arret SATI),
+Vu la jurisprudence de la Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092 (arret SATI),
 Vu les pieces versees aux debats,
 
 Sébastien GRAZIDE se constitue partie civile et sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction, ou a tout magistrat compose le Tribunal Judiciaire de Foix, de :

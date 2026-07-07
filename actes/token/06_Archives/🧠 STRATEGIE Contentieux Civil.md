@@ -56,12 +56,11 @@ La responsabilité de la SAS est engagée de plein droit en application de [Arti
 
 
 ### 2.2 ACTION DIRECTE CONTRE L'ASSUREUR
-L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable ([Cass. 1ère civ., 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
+L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable.
 
-> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
-
-> Attendu : « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »
-> Résumé : La dissolution et la clôture de la liquidation d'une personne morale n'éteignent pas l'action directe de la victime contre son assureur de responsabilité civile, qui reste recevable.
+> « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. » <br>
+> **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463** <br>
+> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 
 La mise en demeure de l'assureur a été adressée le **[J+31 Mises en demeure]**, enjoignant à la compagnie de prendre en charge le sinistre et de procéder au règlement des préjudices sous 15 jours.
 
@@ -126,10 +125,11 @@ L'évaluation des préjudices subis par **[La Victime]**, informaticien indépen
 
 > « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. »
 
-L'incidence professionnelle est un préjudice distinct qui indemnise notamment la dévalorisation sociale ressentie par la victime du fait de son exclusion du monde du travail ([Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)). Elle inclut également la pénibilité accrue et l'obligation de s'équiper en outils d'accessibilité (logiciel de dictée vocale, clavier ergonomique, souris adaptée).
+L'incidence professionnelle est un préjudice distinct qui indemnise notamment la dévalorisation sociale ressentie par la victime du fait de son exclusion du monde du travail. Elle inclut également la pénibilité accrue et l'obligation de s'équiper en outils d'accessibilité (logiciel de dictée vocale, clavier ergonomique, souris adaptée).
 
-> Attendu : « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. »
-> Résumé : L'indemnisation au titre de l'incidence professionnelle est cumulable avec la perte de gains professionnels futurs et répare la dévalorisation sur le marché de l'emploi et l'exclusion sociale qui en découlent.
+> « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. » <br>
+> **Cour de cassation, 2e chambre civile, 6 mai 2021, n° 19-23.173** <br>
+> [Arrêt n°19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
 
 ## 5. CALENDRIER PROCÉDURAL
 | Phase | Action | Échéance |

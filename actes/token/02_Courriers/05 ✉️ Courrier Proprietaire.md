@@ -21,12 +21,10 @@ format: Arial JUSTIFIED
 ---
 
 # DEMANDE DE COMMUNICATION D'ASSURANCE RC
-**[L'Adresse de la Victime]**
+**[L'Adresse de la Victime]** <br>
+**[L'Email de la Victime]**
 
-Courriel : **[L'Email de la Victime]**
-
-**[Le Propriétaire des Murs]**
-
+**[Le Propriétaire des Murs]** <br>
 **[Adresse à compléter]**
 
 **[La Ville de l'Accident]**, le **[J+31 Mises en demeure]**
@@ -44,19 +42,19 @@ Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grav
 
 <hr>
 
-Rappel des obligations légales
+### Rappel des obligations légales
+
+L'article 1719 du Code civil impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail.
 
 > « Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière : (...) 3° D'en faire jouir paisiblement le preneur pendant la durée du bail ; » <br>
 > **Code civil > Partie législative > Livre III : Des différentes manières dont on acquiert la propriété > Titre VIII : Du contrat de louage > Chapitre II : Du louage des choses > Section 1 : Des règles communes aux baux des maisons et des biens ruraux** <br>
 > [Article 1719](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127)
 
-L'[Article 1719](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) du Code civil impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail.
+L'article 1720 du même code impose au bailleur d'entretenir les lieux en bon état de réparation de toute nature.
 
 > « Le bailleur est tenu de livrer la chose en bon état de réparations de toute espèce. Il doit y faire, pendant la durée du bail, toutes les réparations qui peuvent devenir nécessaires, autres que les locatives. » <br>
 > **Code civil > Partie législative > Livre III : Des différentes manières dont on acquiert la propriété > Titre VIII : Du contrat de louage > Chapitre II : Du louage des choses > Section 1 : Des règles communes aux baux des maisons et des biens ruraux** <br>
 > [Article 1720](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784)
-
-L'[Article 1720](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784) du même code impose au bailleur d'entretenir les lieux en bon état de réparation de toute nature.
 
 <hr>
 
@@ -78,7 +76,7 @@ Afin d'éviter toute mise en cause indirecte ou toute procédure de référé d'
 
 Mes coordonnées pour réponse : **[L'Adresse de la Victime]** / Courriel : **[L'Email de la Victime]**
 
-Cette démarche amiable vise exclusivement à orienter notre recours directement vers l'assureur légitime et à préserver les droits de la victime (y compris les réserves d'aggravation future, arrêt Civ. 2e, 8 juillet 2021, n° 20-15.106 — JURITEXT000043782126).
+Cette démarche amiable vise exclusivement à orienter notre recours directement vers l'assureur légitime et à préserver les droits de la victime, y compris les réserves d'aggravation future.
 
 > « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. » <br>
 > **Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106** <br>
@@ -90,13 +88,13 @@ Dans l'attente de votre retour rapide,
 
 <hr>
 
-Transparence sur la suite donnée au dossier
+### Transparence sur la suite donnée au dossier
 
 La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
 
 1. D'obtenir les informations nécessaires à l'identification de l'assureur de responsabilité civile ;
 
-2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat ([Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302), 4° du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)), lequel devra répondre dans un délai raisonnable ;
+2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat, lequel devra répondre dans un délai raisonnable ;
 
 > « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. » <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré** <br>

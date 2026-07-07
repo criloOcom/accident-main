@@ -42,6 +42,8 @@ Réf : Dossier Sébastien GRAZIDE / SAS LES MAUVAIS GARCONS
 
 Madame, Monsieur,
 
+<hr>
+
 ## INTRODUCTION
 La présente lettre de mise en demeure est adressée par Sébastien GRAZIDE à la compagnie d'assurance de SAS LES MAUVAIS GARCONS sur le fondement de l'article L. 124-3 du Code des assurances, lequel institue une action directe de la victime contre l'assureur du responsable.
 
@@ -49,7 +51,9 @@ Par ce courrier, Sébastien GRAZIDE met en demeure l'assureur de prendre en char
 
 Cette action directe permet à la victime de saisir directement l'assureur sans passer par l'intermédiaire de la société responsable, conformément aux dispositions du Code des assurances.
 
-Rappel des obligations légales
+<hr>
+
+**Rappel des obligations légales**
 
 L'article L. 124-3 du Code des assurances institue une action directe de la victime contre l'assureur du responsable, ce qui me permet de vous saisir directement sans passer par l'intermédiaire de la société.
 
@@ -110,7 +114,9 @@ Sous toutes réserves quant à l'aggravation future de l'état fonctionnel de sa
 
 Et de la capitalisation de ses dépenses de santé futures.
 
-Transparence sur la suite donnée au dossier
+<hr>
+
+**Transparence sur la suite donnée au dossier**
 
 La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
 

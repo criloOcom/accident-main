@@ -25,19 +25,19 @@ format: Arial JUSTIFIED
 ---
 
 # MISE EN DEMEURE AUX DIRIGEANTS — DEMANDE D'INFORMATION ASSURANCE RC
-Sébastien GRAZIDE
-10 Avenue de Purpan, 31700 Blagnac
-Courriel : sebastien.grazide@gmail.com
+10 Avenue de Purpan, 31700 Blagnac <br>
+sebastien.grazide@gmail.com
 
 Mountasser SABIR et Catherine ANDISSAC
 
-SAS LES MAUVAIS GARCONS
-
+SAS LES MAUVAIS GARCONS <br>
 22 Rue Lafaurie, 09000 Foix
 
 Foix, le 29 juin 2026
 
 Objet : Demande d'information et communication d'assurance — Accident 29 mai 2026 — L.R.A.R.
+
+<hr>
 
 Réf : Dossier Sébastien GRAZIDE / SAS LES MAUVAIS GARCONS
 
@@ -57,6 +57,8 @@ La présente lettre de mise en demeure est adressée conjointement par Sébastie
 
 La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions. La Cour de cassation a jugé que constitue une faute détachable le fait pour un dirigeant de ne pas avoir souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain.
 
+L'article L. 227-8 du Code de commerce dispose que les dirigeants d'une société commerciale sont responsables, individuellement ou solidairement, selon le cas, envers les tiers des conséquences dommageables de leurs actes.
+
 > « Les actions en responsabilité contre le président ou les dirigeants de la SAS, soit à titre social, soit à titre individuel, se prescrivent par trois ans à compter du fait dommageable ou, s'il a été dissimulé, de sa révélation. » <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre IV : Des sociétés par actions simplifiées > Chapitre VII : De la responsabilité** <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
@@ -64,8 +66,6 @@ La responsabilité personnelle des dirigeants peut être engagée pour faute dé
 > « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. » <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre III : Des sociétés anonymes > Section 8 : De la responsabilité** <br>
 > [Article L. 225-251](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
-
-L'[Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) du Code de commerce dispose que les dirigeants d'une société commerciale sont responsables, individuellement ou solidairement, selon le cas, envers les tiers des conséquences dommageables de leurs actes.
 
 **Le défaut d'information de la victime sur l'identité de l'assureur constitue un manquement grave à l'obligation de loyauté et de transparence qui incombe à tout dirigeant d'entreprise.**
 
@@ -121,7 +121,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 1. D'obtenir les informations nécessaires à l'identification de l'assureur de responsabilité civile ;
 
-2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat ([Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302), 4° du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)), lequel devra répondre dans un délai raisonnable ;
+2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat, lequel devra répondre dans un délai raisonnable ;
 
 > « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. » <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré** <br>

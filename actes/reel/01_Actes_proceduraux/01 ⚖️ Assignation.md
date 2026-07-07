@@ -128,7 +128,15 @@ De surcroît, les faits se sont produits sous le contrôle du préposé de l'ét
 
 Les administrateurs et le directeur général sont responsables, individuellement ou solidairement, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion.
 
-Constitue une faute personnelle séparable des fonctions sociales engageant la responsabilité du dirigeant à l'égard des tiers la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales (Cass. com., 20 mai 2003, n°99-17.092, arrêt SATI : la gérante d'une SLRL qui avait cédé des créances déjà cédées à la banque avait intentionnellement trompé son cocontractant sur la solvabilité de la société ; Cass. com., 7 septembre 2022, n°20-20.404 : responsabilité des dirigeants en procédure collective).
+Constitue une faute personnelle séparable des fonctions sociales engageant la responsabilité du dirigeant à l'égard des tiers la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales.
+
+> « La faute personnelle du dirigeant, détachable des fonctions, ouvre droit à réparation pour la victime du dommage causé par cette faute, sans que l'action doive être exercée par les représentants légaux de la personne morale. » <br>
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007152625)
+
+> « Le dirigeant d'une société en procédure collective peut engager sa responsabilité personnelle s'il a commis une faute de gestion ayant contribué à l'insuffisance d'actif. » <br>
+> **Cour de cassation, chambre commerciale, 7 septembre 2022, n° 20-20.404** <br>
+> [Arrêt n°20-20.404](https://www.legifrance.gouv.fr/juri/id/JURITEXT000046284523)
 
 En l'espèce, le défaut d'entretien des locaux et de sécurisation de la vasque céramique présentant une cassure préexistante non signalée, le défaut d'assurance de responsabilité civile professionnelle et le silence systématique opposé aux demandes de la victime caractérisent une méconnaissance des obligations essentielles de sécurité dont le caractère réitéré et l'absence de toute mesure corrective excluent qu'ils aient pu légitimement ignorer le risque pour la clientèle. Une telle carence est de nature à engager la responsabilité personnelle in solidum de Mountasser SABIR et de Catherine ANDISSAC avec la personne morale.
 

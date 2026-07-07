@@ -76,10 +76,11 @@ Le pronostic de récupération neurologique a été évalué à un an minimum pa
 
 En application de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), je dispose d'un droit propre et d'une action directe à l'encontre de votre compagnie en tant qu'assureur de responsabilité civile de l'auteur du dommage.
 
-En vertu d'une jurisprudence constante (Cass. Civ. 1ère, 8 décembre 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) et Cass. Civ. 2e, 14 mai 2020, n° 19-15.659), cette action directe est autonome et n'est pas subordonnée à la survie de la personne morale ni à la déclaration préalable de créance en cas de procédure collective ou de radiation de la société assurée.
+En vertu d'une jurisprudence constante, cette action directe est autonome et n'est pas subordonnée à la survie de la personne morale ni à la déclaration préalable de créance en cas de procédure collective ou de radiation de la société assurée.
 
-> Attendu : « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »
-> Résumé : La dissolution et la clôture de la liquidation d'une personne morale n'éteignent pas l'action directe de la victime contre son assureur de responsabilité civile, qui reste recevable.
+> « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. » <br>
+> **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463** <br>
+> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 
 Je vous mets en demeure par la présente :
 
@@ -91,13 +92,15 @@ Je vous mets en demeure par la présente :
 
 À défaut de réponse et du versement de la provision réclamée dans le délai de 15 jours, j'engagerai une procédure en référé-provision devant le Président du Tribunal Judiciaire de Foix, et assignerai directement votre compagnie en exécution forcée sur le fondement de l'action directe.
 
-Sous toutes réserves quant à l'aggravation future de l'état fonctionnel de sa main (arrêt Civ. 2e, 8 juillet 2021, [n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)) et de la capitalisation de ses dépenses de santé futures (arrêt Civ. 2e, 4 avril 2024, [n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)).
+Sous toutes réserves quant à l'aggravation future de l'état fonctionnel de sa main et de la capitalisation de ses dépenses de santé futures.
 
-> Attendu : « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »
-> Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
+> « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. » <br>
+> **Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106** <br>
+> [Arrêt n°20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
 
-> Attendu : « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »
-> Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
+> « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. » <br>
+> **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307** <br>
+> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
 
 Transparence sur la suite donnée au dossier
 

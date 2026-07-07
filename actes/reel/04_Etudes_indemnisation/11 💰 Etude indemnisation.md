@@ -20,7 +20,17 @@ format: Arial JUSTIFIED
 ---
 
 # ÉTUDE D'INDEMNISATION MAXIMALE (NOMENCLATURE DINTILHAC)
+
+10 Avenue de Purpan, 31700 Blagnac <br>
+sebastien.grazide@gmail.com <br>
+Foix, le 30 juin 2026
+
 Rédigé le 30 juin 2026
+
+<hr>
+
+*Évaluation chiffrée prospective basée sur l'activité réelle déclarée de Sébastien GRAZIDE.*
+<hr><hr>
 
 ## INTRODUCTION
 La présente étude d'indemnisation a pour objet d'évaluer l'intégralité des préjudices corporels subis par Sébastien GRAZIDE à la suite de l'accident du 29 mai 2026 — au cours duquel, alors que l'employé Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de Sébastien GRAZIDE a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit — selon la nomenclature Dintilhac qui constitue la référence harmonisée pour l'évaluation des préjudices corporels devant les juridictions françaises.
@@ -32,16 +42,6 @@ L'étude vise à déterminer le montant maximal de l'indemnisation susceptible d
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
 > **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II** <br>
 > [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-
-Document rédigé par Sébastien GRAZIDE
-
-10 Avenue de Purpan, 31700 Blagnac
-
-sebastien.grazide@gmail.com
-
-Foix, le 30 juin 2026
-
-*Évaluation chiffrée prospective basée sur l'activité réelle déclarée de Sébastien GRAZIDE.*
 
 <hr>
 
@@ -76,42 +76,58 @@ Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un 
 <hr>
 
 ## II. ÉVALUATION DES PRÉJUDICES
-### A. PERTES DE GAINS PROFESSIONNELS ACTUELS (PGPA) ET INCIDENCE PROFESSIONNELLE
-1. Pertes de Gains Professionnels Actuels (PGPA) : Indemnise la perte de revenus durant l'incapacité temporaire totale (ITT). Pour 56 jours d'arrêt (du 29 mai au 23 juillet 2026), le montant est calculé au prorata du CA mensuel, soit 1 400 €. Une perte de chance complémentaire (impossibilité de prospecter) peut porter ce poste à 2 400 €.
+### A. PERTES DE GAINS PROFESSIONNELS ACTUELS ET INCIDENCE PROFESSIONNELLE
+1. **(PGPA) Pertes de Gains Professionnels Actuels** <br>
+Indemnise la perte de revenus durant l'incapacité temporaire totale (ITT). Pour 56 jours d'arrêt (du 29 mai au 23 juillet 2026), le montant est calculé au prorata du CA mensuel, soit 1 400 €. Une perte de chance complémentaire (impossibilité de prospecter) peut porter ce poste à 2 400 €.
 
-2. Incidence Professionnelle (IP) : Ce poste, estimé à 30 000 € (méthode BIBAL : 9 000 € × 12% × 27,5 = 29 700 €), répare les séquelles structurelles définitives :
+2. **(IP) Incidence Professionnelle** <br>
+Ce poste, estimé à 30 000 € (méthode BIBAL : 9 000 € × 12% × 27,5 = 29 700 €), répare les séquelles structurelles définitives :
 
-    - **Dévalorisation sur le marché du travail** : Perte de sensibilité de l'index droit, rendant le codage et l'usage de la souris impossibles pour cet informaticien droitier.
+    - **Dévalorisation sur le marché du travail** <br>
+    Perte de sensibilité de l'index droit, rendant le codage et l'usage de la souris impossibles pour cet informaticien droitier.
 
-    - **Perte de chance commerciale** : Impossibilité de prospecter ou de répondre aux clients durant l'incapacité.
+    - **Perte de chance commerciale** <br>
+    Impossibilité de prospecter ou de répondre aux clients durant l'incapacité.
 
-    - **Pénibilité accrue** : Dépendance à la dictée vocale générant une fatigue structurelle.
+    - **Pénibilité accrue** <br>
+    Dépendance à la dictée vocale générant une fatigue structurelle.
 
-    - **Adaptation ergonomique** : Souris adaptée, logiciel dictée vocale, clavier ergonomique (~3 000 €).
+    - **Adaptation ergonomique** <br>
+    Souris adaptée, logiciel dictée vocale, clavier ergonomique (~3 000 €).
 
-### B. PRÉJUDICES EXTRA-PATRIMONIAUX (DFP, DFT, SE, AGRÉMENT, PEP)
-- **Déficit Fonctionnel Temporaire (DFT)** : Indemnise la perte de qualité de vie pendant l'ITT. 56 jours × 25 €/jour = **1 400 €**. (Poste oublié dans les versions antérieures.)
+### B. PRÉJUDICES EXTRA-PATRIMONIAUX
+- **(DFT) Déficit Fonctionnel Temporaire** <br>
+Indemnise la perte de qualité de vie pendant l'ITT. <br> 56 jours × 25 €/jour = **1 400 €**. (Poste oublié dans les versions antérieures.)
 
-- **Déficit Fonctionnel Permanent (DFP)** : Indemnise l'atteinte aux fonctions physiologiques. Basé sur un taux estimé de 12% pour une victime de 44 ans. Référentiel Mornet 2024 (tranche 11-20%) : 2 140 à 3 070 €/point. Proposition médiane : 12 × 2 600 € = **31 200 €**.
+- **(DFP) Déficit Fonctionnel Permanent** <br>
+Indemnise l'atteinte aux fonctions physiologiques. <br>
+Basé sur un taux estimé de 12% pour une victime de 44 ans. Référentiel Mornet 2024 (tranche 11-20%) : 2 140 à 3 070 €/point. <br>
+Proposition médiane : 12 × 2 600 € = **31 200 €**.
 
-- **Souffrances Endurées** : Évaluées à 4/7 (choc, microchirurgie SOS Main, rééducation, douleurs neuropathiques). Référentiel Mornet 2024 pour 4/7 : 15 000 à 30 000 €. Proposition : **24 000 €**.
+- **Souffrances Endurées** <br>
+Évaluées à 4/7 (choc, microchirurgie SOS Main, rééducation, douleurs neuropathiques). <br> Référentiel Mornet 2024 pour 4/7 : 15 000 à 30 000 €.<br>
+Proposition : **24 000 €**.
 
-- **Préjudice d'Agrément** : Répare l'impossibilité de pratiquer des loisirs (guitare, projets personnels de codage). Proposition : **8 000 €** (guitare 6 000 € + autres 2 000 €).
+- **Préjudice d'Agrément** <br>
+Répare l'impossibilité de pratiquer des loisirs (guitare, projets personnels de codage). <br>
+Proposition : **8 000 €** (guitare 6 000 € + autres 2 000 €).
 
-- **Préjudice Esthétique Permanent (PEP)** : Cicatrice palmaire 8,5 cm. Proposition : **3 000 €**. (Poste oublié dans les versions antérieures.)
+- **(PEP) Préjudice Esthétique Permanent** <br>
+Cicatrice palmaire 8,5 cm. <br>
+Proposition : **3 000 €**. (Poste oublié dans les versions antérieures.)
 
-<hr>
+<hr><hr>
 
 ## III. RÉCAPITULATIF DU CHIFFRAGE ESTIMATIF
 | Poste de Préjudice | Montant Initial | Proposition Dintilhac |
 | --- | --- | --- |
-| Pertes de Gains Professionnels Actuels (PGPA) | 1 400 € | 1 900 € |
-| Déficit Fonctionnel Temporaire (DFT) | *(oublié)* | **1 400 €** |
-| Incidence Professionnelle (IP) | 15 000 € | **30 000 €** |
-| Déficit Fonctionnel Permanent (DFP) | 25 200 € | **31 200 €** |
-| Souffrances Endurées (SE) | 12 000 € | **24 000 €** |
+| (PGPA) Pertes de Gains Professionnels Actuels | 1 400 € | 1 900 € |
+| (DFT) Déficit Fonctionnel Temporaire | *(oublié)* | **1 400 €** |
+| (IP) Incidence Professionnelle | 15 000 € | **30 000 €** |
+| (DFP) Déficit Fonctionnel Permanent | 25 200 € | **31 200 €** |
+| (SE) Souffrances Endurées | 12 000 € | **24 000 €** |
 | Préjudice d'Agrément | 3 000 € | **8 000 €** |
-| Préjudice Esthétique Permanent (PEP) | *(oublié)* | **3 000 €** |
+| (PEP) Préjudice Esthétique Permanent | *(oublié)* | **3 000 €** |
 | Frais divers (kiné, déplacements) | *(oublié)* | **2 000 €** |
 | Frais d'assistance ([Article 700 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)) | 3 000 € | 4 000 € |
 | TOTAL ESTIMATIF | **59 600 €** | **~105 000 €** |
@@ -120,31 +136,29 @@ Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un 
 > **Code de procédure civile > Partie législative > Livre II > Titre Ier > Chapitre Ier > Section 2** <br>
 > [Article 700](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
 
-<hr>
+<hr><hr>
 
 ## IV. JURISPRUDENCE APPLICABLE
+
 ### A. CAPITALISATION DES DÉPENSES DE SANTÉ FUTURES
-L'arrêt [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) confirme le droit à une capitalisation des dépenses futures sans contrôle restrictif de l'assureur, garantissant la libre disposition des fonds par la victime.
 
 > « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. » <br>
 > **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307** <br>
 > [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
 
 ### B. AGGRAVATION DU DOMMAGE
-Selon l'arrêt [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126), toute aggravation médicale ultérieure ouvre un nouveau droit à réparation, l'assureur initial restant garant du sinistre.
 
 > « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. » <br>
 > **Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106** <br>
 > [Arrêt n°20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
 
 ### C. INCIDENCE PROFESSIONNELLE
-La jurisprudence [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) rappelle que l'incidence professionnelle est un préjudice distinct indemnisant notamment la dévalorisation sociale ressentie par la victime du fait de son exclusion du monde du travail.
 
 > « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. » <br>
 > **Cour de cassation, 2e chambre civile, 6 mai 2021, n° 19-23.173** <br>
 > [Arrêt n°19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
 
-<hr>
+<hr><hr>
 
 ## V. JURISPRUDENCE COMPARATIVE
 ### A. TABLEAU DES ARRÊTS COMPARATIFS VÉRIFIÉS
@@ -157,18 +171,18 @@ Les arrêts suivants, déjà intégrés dans le dossier, confirment la cohérenc
 | [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) | Incidence professionnelle : poste distinct indemnisant la dévalorisation sur le marché du travail. | Confirme l'IP de 30 000 € (dévalorisation en tant qu'informaticien indépendant). |
 | [Cass. Civ. 1ère, 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) | Libre disposition des indemnités : la victime peut utiliser les fonds sans contrôle du responsable. | Justifie que les 59 600 € demandés peuvent être librement affectés (rééducation, aménagement ergonomique). |
 
-<hr>
+<hr><hr>
 
 ## VI. FACTEURS D'AGGRAVATION
 Plusieurs éléments spécifiques aggravent le préjudice de Sébastien GRAZIDE :
 
-- **Main dominante** : L'atteinte concerne l'index droit de la main utilisée pour le travail et les loisirs.
+- **Main dominante** <br> L'atteinte concerne l'index droit de la main utilisée pour le travail et les loisirs.
 
-- **Métier d'informaticien** : L'usage intensif du clavier est compromis par des séquelles neurologiques permanentes.
+- **Métier d'informaticien** <br> L'usage intensif du clavier est compromis par des séquelles neurologiques permanentes.
 
-- **Jeune âge (44 ans)** : Le préjudice financier se projette sur une longue durée d'activité résiduelle.
+- **Jeune âge (44 ans)** <br> Le préjudice financier se projette sur une longue durée d'activité résiduelle.
 
-<hr>
+<hr><hr>
 
 ## VII. CONCLUSION ET ANALYSE
 L'indemnisation initialement estimée à 59 600 € a été réévaluée à **~105 000 €** après analyse détaillée (barème Mornet 2024, méthode BIBAL). Cette réévaluation tient compte de postes oubliés (DFT, PEP, frais divers) et d'une revalorisation des SE, IP, DFP et agrément conformément aux référentiels actualisés.
@@ -179,7 +193,7 @@ Ce montant sera affiné suite à l'expertise médicale prévue le 12 novembre 20
 
 Cette étude souligne la nécessité d'une réparation intégrale tenant compte de l'impact majeur de l'accident sur la vie professionnelle et personnelle d'un travailleur indépendant.
 
-<hr>
+<hr><hr>
 
 ## ANNEXES ET SOURCES JURIDIQUES
 - [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) — Responsabilité pour faute
@@ -192,7 +206,9 @@ Pour justifier solidement l'Incidence Professionnelle de 30 000 €, il convient
 
 La Cour de cassation (REF-08 et REF-13) rappelle que la victime dispose librement de ces indemnités sans obligation de justifier de l'achat effectif par factures acquittées préalables.
 
-Tableau récapitulatif des demandes indemnitaires :
+<hr><hr>
+
+## Tableau récapitulatif des demandes indemnitaires :
 
 - PGPA (Inactivité 56j) : 1 400 € (perte de revenus sur la base du CA moyen)
 

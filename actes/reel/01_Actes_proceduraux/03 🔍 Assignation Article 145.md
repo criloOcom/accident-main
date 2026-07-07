@@ -25,12 +25,10 @@ format: Arial JUSTIFIED
 ---
 
 # ASSIGNATION EN REFERE — COMMUNICATION DE POLICE D'ASSURANCE RC PROFESSIONNELLE
-Sébastien GRAZIDE
-10 Avenue de Purpan, 31700 Blagnac
-Courriel : sebastien.grazide@gmail.com
+10 Avenue de Purpan, 31700 Blagnac <br>
+sebastien.grazide@gmail.com
 
-A l'attention de Monsieur le President du Tribunal Judiciaire de Foix
-
+A l'attention de Monsieur le President du Tribunal Judiciaire de Foix <br>
 Cabinet du Juge des Referes
 
 Foix, le 5 juillet 2026
@@ -102,6 +100,10 @@ L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu
 ## PAR CES MOTIFS
 Vu l'Article 145 du Code de procédure civile,
 Vu l'Article L. 124-3 du Code des assurances,
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions** <br>
+> [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+
 Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu les pièces versées aux débats,
 

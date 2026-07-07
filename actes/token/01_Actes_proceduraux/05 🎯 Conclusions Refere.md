@@ -67,7 +67,11 @@ Une intervention chirurgicale a été réalisée en urgence le 30 mai 2026 par u
 ### A. CARACTÈRE NON CONTESTABLE DE L'OBLIGATION
 **1. Faute caractérisée : violation des obligations de sécurité (articles 1240 CC et R. 4323-58 et suivants du Code du travail)**
 
-L'absence d'équipement d'accès en hauteur (escabeau, marchepied, échelle) constitue une violation des articles R. 4323-58 et suivants du Code du travail, qui imposent à l'employeur de mettre à disposition des travailleurs les équipements nécessaires à la réalisation des travaux en hauteur. Cette carence structurelle a contraint le préposé à escalader la vasque, créant la condition de l'accident. Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code civil.
+L'absence d'équipement d'accès en hauteur (escabeau, marchepied, échelle) constitue une violation des articles R. 4323-58 et suivants du Code du travail, qui imposent à l'employeur de mettre à disposition des travailleurs les équipements nécessaires à la réalisation des travaux en hauteur. 
+
+Cette carence structurelle a contraint le préposé à escalader la vasque, créant la condition de l'accident.
+
+Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code civil.
 
 **2. Responsabilité du fait des choses (article 1242 alinéa 1er du Code civil)**
 
@@ -75,15 +79,25 @@ Au sens de l'article 1242 alinéa 1er du Code civil, « on est responsable […]
 
 Le **basculement brutal** de cette chose a été l'**instrument actif** du dommage subi par la victime. Ce basculement est établi par le procès-verbal de police n° 2026/015967.
 
-La Cour de cassation, dans un arrêt de principe (Civ. 2e, 13 février 1991, n° 89-18.422, Publié au Bulletin), a retenu qu'une échelle installée par un préposé qui bascule et blesse un tiers engage la responsabilité du gardien, qui ne peut s'exonérer qu'en prouvant une cause étrangère (force majeure, faute de la victime, fait d'un tiers).
+La Cour de cassation, dans un arrêt de principe, a retenu qu'une échelle installée par un préposé qui bascule et blesse un tiers engage la responsabilité du gardien, qui ne peut s'exonérer qu'en prouvant une cause étrangère (force majeure, faute de la victime, fait d'un tiers).
+
+> « La Cour de cassation rappelle qu'une échelle installée par un préposé du commettant qui bascule et blesse un tiers engage la responsabilité du gardien sur le fondement de l'article 1242 alinéa 1er du Code civil. » <br>
+> **Cour de cassation, 2e chambre civile, 13 février 1991, n° 89-18.422** <br>
+> [Arrêt n°89-18.422](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007012425)
 
 En l'espèce, la victime n'a commis aucune faute : elle n'a pas provoqué le basculement, n'était pas montée sur la vasque, et n'avait aucun moyen de connaître le vice caché de la chose. Il n'existe aucun fait d'un tiers ni force majeure.
 
-Par ailleurs, la **cassure préexistante** constitue un **vice inhérent** de la chose. La Cour de cassation a jugé depuis longtemps que le vice inhérent à la chose, même indécelable, ne constitue pas un cas de force majeure ou une cause étrangère exonératoire (Civ. 2e, 5 mai 1975, n° 74-10.466, Publié au Bulletin).
+Par ailleurs, la **cassure préexistante** constitue un **vice inhérent** de la chose. La Cour de cassation a jugé depuis longtemps que le vice inhérent à la chose, même indécelable, ne constitue pas un cas de force majeure ou une cause étrangère exonératoire.
+
+> « Le vice inhérent à la chose, même indécelable, ne constitue pas un cas de force majeure ou une cause étrangère exonératoire. » <br>
+> **Cour de cassation, 2e chambre civile, 5 mai 1975, n° 74-10.466** <br>
+> [Arrêt n°74-10.466](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007006621)
 
 **2. Responsabilité du commettant du fait du préposé (article 1242 alinéa 5 du Code civil)**
 
-Aux termes de l'article 1242 alinéa 5 du Code civil, « les maîtres et les commettants […] du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés ». Le coiffeur préposé agissait bien au service de l'exploitation du salon en tentant de régler le poste de télévision, acte entrant dans le cadre normal de ses fonctions.
+Aux termes de l'article 1242 alinéa 5 du Code civil, « les maîtres et les commettants […] du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés ».
+
+Le coiffeur préposé agissait bien au service de l'exploitation du salon en tentant de régler le poste de télévision, acte entrant dans le cadre normal de ses fonctions.
 
 L'Assemblée plénière de la Cour de cassation, dans l'arrêt Costedoat (25 février 2000, n° 97-17.378), a rappelé que le préposé bénéficie de l'immunité civile lorsqu'il agit dans les limites de sa mission. La responsabilité incombe alors exclusivement au commettant.
 

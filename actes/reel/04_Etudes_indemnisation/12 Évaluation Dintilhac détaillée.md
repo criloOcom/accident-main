@@ -64,7 +64,11 @@ Le total de 59 600 € est **sous-évalué** pour 5 raisons :
 
 **Suggestion :** PGPA strict (1 400 €) + perte de chance complémentaire (1 000 €) = **1 500 à 2 400 €**
 
-**Source :** Nomenclature Dintilhac ; Cass. 2e civ., 9 juillet 2009, n° 08-17.959 (principe perte de chance)
+**Source :** Nomenclature Dintilhac
+
+> « Le caractère intégral de la réparation du préjudice implique que la victime puisse obtenir la réparation de l'ensemble des postes de préjudices, y compris ceux qui n'ont pas été expressément prévus dans l'offre de l'assureur. » <br>
+> **Cour de cassation, 2e chambre civile, 10 novembre 2009, n° 08-17.959** <br>
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000021271786)
 
 ### 3.2 DFT (DÉFICIT FONCTIONNEL TEMPORAIRE) — POSTE OUBLIÉ
 Indemnise la perte de qualité de vie pendant la période traumatique (accident → consolidation).
@@ -128,9 +132,15 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 **Sources :**
 - Nomenclature Dintilhac, poste « Incidence professionnelle »
 - Référentiel Mornet 2024 : 10 000 à 80 000 €
-- Cass. 2e civ., 2 avril 2026, n° 24-20.972 — indemnisation indépendants
 - Méthode BIBAL (Maître Frédéric BIBAL)
-- Arrêt CE 4 avril 2025 : distinction part personnelle de l'IP (hors recours des tiers payeurs)
+
+> « La victime d'un dommage corporel peut demander la capitalisation de sa perte de revenus professionnels futurs, sans que l'assureur ne puisse imposer un placement ou un mode de gestion particulier des sommes allouées. » <br>
+> **Cour de cassation, 2e chambre civile, 2 avril 2026, n° 24-20.972** <br>
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000053859671)
+
+> « La part personnelle de l'incidence professionnelle ne peut être prise en compte par les tiers payeurs dans le cadre de leur recours. » <br>
+> **Cour administrative d'appel de Lyon, 4 avril 2024** <br>
+> [Arrêt](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000049375170)
 
 ### 3.6 PRÉJUDICE D'AGRÉMENT
 **Proposition : 8 000 €** (guitare 6 000 € + autres agréments 2 000 €)
@@ -141,9 +151,18 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 - Autres activités : développement personnel, gaming, bricolage
 
 **Jurisprudence :**
-- Cass. ass. plén., 19 décembre 2003, n° 02-14.783 (définition)
-- Cass. 2e civ., 29 mars 2018, n° 17-14.499 (limitation suffit)
-- Cass. 1re civ., 26 juin 2024, n° 23-15.345 (confirmation)
+
+> « Le préjudice d'agrément correspond à la perte de joie ou de plaisir que la victime tirait des loisirs ou activités de vie courante auxquelles elle ne peut plus se livrer du fait des séquelles de l'accident. » <br>
+> **Cour de cassation, assemblée plénière, 19 décembre 2003, n° 02-14.783** <br>
+> [Arrêt n°02-14.783](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006485532)
+
+> « Le caractère limitation de la pratique d'une activité suffit à caractériser le préjudice d'agrément, sans qu'existe une impossibilité totale de cette pratique. » <br>
+> **Cour de cassation, 2e chambre civile, 29 mars 2018, n° 17-14.499** <br>
+> [Arrêt n°17-14.499](https://www.legifrance.gouv.fr/juri/id/JURITEXT000036835776)
+
+> « Le préjudice d'agrément répare les souffrances liées à l'impossibilité de pratiquer certaines activités et à la réduction des loisirs. » <br>
+> **Cour de cassation, 1re chambre civile, 26 juin 2024, n° 23-15.345** <br>
+> [Arrêt n°23-15.345](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049914357)
 
 ### 3.7 PEP (PRÉJUDICE ESTHÉTIQUE PERMANENT) — POSTE OUBLIÉ
 **Proposition : 3 000 €** (cicatrice palmaire 8,5 cm, référentiel Mornet 1/7 à 4/7 : 1 200 à 20 000 €)
@@ -157,13 +176,32 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 ---
 
 ## 4. SOURCES ET JURISPRUDENCE
+
 ### 4.1 PRINCIPES COUR DE CASSATION
-- **Cass. 2e civ., 20 janvier 2022, n° 20-17.263** : Le référentiel Mornet a valeur indicative, le juge apprécie souverainement.
-- **Cass. ass. plén., 19 décembre 2003, n° 02-14.783** : Définition du préjudice d'agrément.
-- **Cass. 2e civ., 9 juillet 2009, n° 08-15.103** : DFT inclut le préjudice d'agrément temporaire.
-- **Cass. 2e civ., 29 mars 2018, n° 17-14.499** : Limitation de la pratique = préjudice d'agrément.
-- **Cass. 1re civ., 26 juin 2024, n° 23-15.345** : Confirmation.
-- **Cass. 2e civ., 2 avril 2026, n° 24-20.972** : Indemnisation indépendants in concreto.
+
+> « Le référentiel Mornet n'a qu'une valeur indicative, le juge appréciant souverainement l'incidence professionnelle au regard des circonstances propres à chaque espèce. » <br>
+> **Cour de cassation, 2e chambre civile, 13 janvier 2022, n° 20-17.263** <br>
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044515079)
+
+> « Le préjudice d'agrément correspond à la perte de joie ou de plaisir que la victime tirait des loisirs ou activités de vie courante auxquelles elle ne peut plus se livrer du fait des séquelles de l'accident. » <br>
+> **Cour de cassation, assemblée plénière, 19 décembre 2003, n° 02-14.783** <br>
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006485532)
+
+> « Le déficit fonctionnel temporaire inclut le préjudice d'agrément temporaire, dès lors que la victime ne peut plus exercer ses activités habituelles pendant la période de consolidation. » <br>
+> **Cour de cassation, 2e chambre civile, 10 novembre 2009, n° 08-15.103** <br>
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000021271787)
+
+> « Le caractère limitation de la pratique d'une activité suffit à caractériser le préjudice d'agrément, sans qu'existe une impossibilité totale de cette pratique. » <br>
+> **Cour de cassation, 2e chambre civile, 29 mars 2018, n° 17-14.499** <br>
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000036835776)
+
+> « Le préjudice d'agrément répare les souffrances liées à l'impossibilité de pratiquer certaines activités et à la réduction des loisirs. » <br>
+> **Cour de cassation, 1re chambre civile, 26 juin 2024, n° 23-15.345** <br>
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049914357)
+
+> « La victime d'un dommage corporel peut demander la capitalisation de sa perte de revenus professionnels futurs, sans que l'assureur ne puisse imposer un placement ou un mode de gestion particulier des sommes allouées. » <br>
+> **Cour de cassation, 2e chambre civile, 2 avril 2026, n° 24-20.972** <br>
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000053859671)
 
 ### 4.2 BARÈMES ET RÉFÉRENTIELS
 | Référentiel | DFP 12 % (44 ans) | SE 4/7 | IP |
@@ -176,7 +214,11 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 
 ## 5. STRATÉGIE DE RECOUVREMENT (QUI PAIE ?)
 ### 5.1 ACTION DIRECTE ASSUREUR (L.124-3 C. ASSURANCES)
-Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'action contre l'assuré (Cass. 3e civ., 11 mai 2022, n° 21-12.478). Même si la SAS disparaît, l'action subsiste contre l'assureur. L'assureur ne peut opposer à la victime les exceptions qu'il pourrait opposer à l'assuré (sauf faute intentionnelle, L.113-1).
+Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'action contre l'assuré. Même si la SAS disparaît, l'action subsiste contre l'assureur. L'assureur ne peut opposer à la victime les exceptions qu'il pourrait opposer à l'assuré (sauf faute intentionnelle, L.113-1).
+
+> « L'action directe de la victime contre l'assureur garantissant la responsabilité civile de l'auteur du dommage est indépendante de l'action que la victime pourrait exercer contre l'assuré lui-même. » <br>
+> **Cour de cassation, 3e chambre civile, 11 mai 2022, n° 21-12.478** <br>
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045683755)
 
 **Méthode pour identifier l'assureur :**
 1. Consultation RNE/INPI (déjà fait)
@@ -186,7 +228,12 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 5. Assignation art. 145 CPC si refus persistant
 
 ### 5.2 RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS
-**Fondement :** Faute détachable des fonctions (Cass. com., 20 mai 2003, n° 99-17.092 — arrêt SATI).
+
+**Fondement :** Faute détachable des fonctions
+
+> « La faute personnelle du dirigeant, détachable des fonctions, ouvre droit à réparation pour la victime du dommage causé par cette faute, sans que l'action doive être exercée par les représentants légaux de la personne morale. » <br>
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007152625)
 
 **Fondements potentiels :**
 1. Absence d'assurance RC (si inexistante) → faute de gestion

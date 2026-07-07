@@ -79,11 +79,13 @@ Le bilan médical est lourd : une section partielle du tendon fléchisseur de l'
 Malgré une intervention de microchirurgie réalisée le **[J+1 Chirurgie]** à la **[L'Établissement SOS Main]** par le **[Le Chirurgien SOS Main]**, la victime souffre à ce jour d'une insensibilité totale de l'index et d'un blocage mécanique de la flexion. Son activité d'informaticien est gravement compromise, justifiant une ITT initiale de 56 jours.
 
 ### Q : LE GÉRANT PEUT-IL REFUSER DE ME DONNER LE NOM DE SA COMPAGNIE D'ASSURANCE ?
-Non, ce refus est abusif et contraire au principe de loyauté. La victime dispose d'un droit d'action directe contre l'assureur (Art. L. 124-3 du Code des assurances). Si le gérant fait obstruction, la victime peut obtenir du juge des référés (Art. 145 CPC) une injonction de communiquer l'attestation d'assurance sous astreinte financière quotidienne.
+Non, ce refus est abusif et contraire au principe de loyauté. La victime dispose d'un droit d'action directe contre l'assureur (Art. L. 124-3 du Code des assurances).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier** <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+
+Si le gérant fait obstruction, la victime peut obtenir du juge des référés (Art. 145 CPC) une injonction de communiquer l'attestation d'assurance sous astreinte financière quotidienne.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
 > **Code de procédure civile > Partie législative > Livre II > Titre VII > Section I** <br>

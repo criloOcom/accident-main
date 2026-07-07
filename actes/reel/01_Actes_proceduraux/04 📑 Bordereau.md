@@ -174,7 +174,16 @@ format: Arial JUSTIFIED
 - **26/01/1993** — Cour de cassation (Ch. Com.) : [Arrêt n° 91-11.285](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007030228) — survie de la personnalité morale d'une société pour les besoins de sa liquidation.
 - **14/12/2001** — Cour de cassation (Ass. Plén.) : Arrêt Cousin (n° 00-82.066) — levée de l'immunité du préposé en cas d'infraction pénale intentionnelle.
 - **20/05/2003** — Cour de cassation (Ch. Com.) : Arrêt SATI (n° 99-17.092) — définition de la faute détachable du dirigeant.
+
+> « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. » <br>
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007152625)
+
 - **04/04/2024** — Cour de cassation (Civ. 2e) : Arrêt n° 22-19.307 — capitalisation sans contrôle de l'assureur.
+
+> « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. » <br>
+> **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307** <br>
+> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
 
 ### PIÈCE N° 39
 - **04/11/2024** — Me J. Plouton : Article — TJ Bordeaux (RG 22/05793), brûlure cuir chevelu en salon de coiffure (13 913 €). Responsabilité des salons de coiffure pour manquement à l'obligation de sécurité.
@@ -190,7 +199,3 @@ format: Arial JUSTIFIED
 
 ### PIÈCE N° 43
 - **05/06/2026** — Preuve de dépôt LRAR arrêt de travail (La Poste, Blagnac) : Décalage de date constaté (vignette 03/06, flash postal 05/06).
-
----
-
-> *Document mis à jour le **[J+38 Mise à jour]** — Pièces classées par groupe thématique (A-G), numérotation séquentielle unique. Les pièces marquées Gabarit sont à faire remplir par les témoins.*

@@ -89,16 +89,18 @@ La stratégie privilégie l'exercice de l'action directe contre L'Assureur de re
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
-Cette action est autonome et n'est pas affectée par une éventuelle radiation de la société. En effet, la jurisprudence confirme que la personnalité morale d'une société subsiste tant que son passif n'est pas apuré (Cass. Civ. 1ère, 8 déc. 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
+Cette action est autonome et n'est pas affectée par une éventuelle radiation de la société. En effet, la jurisprudence confirme que la personnalité morale d'une société subsiste tant que son passif n'est pas apuré.
 
-> Attendu : « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »
-> Résumé : La dissolution et la clôture de la liquidation d'une personne morale n'éteignent pas l'action directe de la victime contre son assureur de responsabilité civile, qui reste recevable.
+> « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. » <br>
+> **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463** <br>
+> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 
 ### B. RESPONSABILITÉ DES DIRIGEANTS POUR FAUTE DÉTACHABLE
-La responsabilité personnelle des Dirigeants peut être engagée sur le fondement de la faute détachable des fonctions de direction. Selon l'arrêt SATI (Cass. Com., 20 mai 2003, [n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)), le maintien en service d'un équipement manifestement dangereux dans un établissement recevant du public (ERP) sans protection adéquate caractérise une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales.
+La responsabilité personnelle des Dirigeants peut être engagée sur le fondement de la faute détachable des fonctions de direction. Selon la jurisprudence, le maintien en service d'un équipement manifestement dangereux dans un établissement recevant du public (ERP) sans protection adéquate caractérise une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales.
 
-> Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
-> Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
+> « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. » <br>
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007152625)
 
 ### C. SITUATION JURIDIQUE DU PRÉPOSÉ
 Conformément à [l'arrêt Costedoat (Ass. Plén. 25 fév. 2000)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831), le préposé bénéficie en principe d'une immunité civile.
@@ -118,18 +120,20 @@ Cette absence de substance financière de la société face à une éventuelle l
 <hr>
 
 ## V. RECOMMANDATIONS ET CONCLUSION
-Il est impératif d'intégrer des réserves judiciaires pour d'éventuelles aggravations futures, conformément à l'arrêt de la Civ. 2e du 8 juillet 2021 ([n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)).
+Il est impératif d'intégrer des réserves judiciaires pour d'éventuelles aggravations futures.
 
-> Attendu : « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »
-> Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
+> « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. » <br>
+> **Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106** <br>
+> [Arrêt n°20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
 
-La capitalisation des dépenses de santé futures doit être exigée pour garantir la libre disposition des fonds (Cass. Civ. 2e, 4 avril 2024, [n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)).
+La capitalisation des dépenses de santé futures doit être exigée pour garantir la libre disposition des fonds.
 
-> Attendu : « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »
-> Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
+> « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. » <br>
+> **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307** <br>
+> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
 
-- Intégrer des réserves judiciaires : pour les préjudices futurs liés à l'aggravation (Cass. Civ. 2e, 8 juil. 2021, [n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)).
-- Capitaliser les dépenses de santé : matériels ergonomiques et aides techniques (Cass. Civ. 2e, 4 avril 2024, [n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)).
+- Intégrer des réserves judiciaires pour les préjudices futurs liés à l'aggravation
+- Capitaliser les dépenses de santé : matériels ergonomiques et aides techniques
 
 ## CONCLUSION
 Le dossier présente des fondements juridiques solides.

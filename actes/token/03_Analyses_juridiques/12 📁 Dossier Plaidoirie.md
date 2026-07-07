@@ -20,9 +20,9 @@ format: Arial JUSTIFIED
 ---
 
 # **DOSSIER DE PLAIDOIRIE POUR L'AUDIENCE DE RÉFÉRÉ DU 31 JUILLET 2026**
-<hr>
+<hr><hr>
 
-## 1. FICHE SYNTHÉTIQUE (1 PAGE)
+## 1. FICHE SYNTHÉTIQUE
 **JURIDICTION :** Tribunal Judiciaire statuant en référé
 **DATE DE L'AUDIENCE :** Date non fixée (à planifier)
 
@@ -48,7 +48,7 @@ format: Arial JUSTIFIED
 - **Pièce ACQ-04 :** Compte-rendu opératoire attestant de la section tendineuse et nerveuse (**[J+1 Chirurgie]**)
 - **Pièce ACQ-17 :** Mises en demeure par Lettres Recommandées avec Accusé de Réception (**[J+31 Mises en demeure]**)
 
-<hr>
+<hr><hr>
 
 ## 2. CHRONOLOGIE DES FAITS
 *Rappel des dates clés démontrant l'urgence et la gravité de la situation.*
@@ -80,7 +80,7 @@ La responsabilité de **[Le Président de l'Exploitation]** et **[La Directrice 
 ### D. MANQUEMENT À L'OBLIGATION DE SÉCURITÉ
 Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant est tenu par une obligation générale de sécurité prévue à l'[Article L. 421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) et aux règles des ERP. Maintenir une vasque brisée et tranchante dans un tel espace constitue une négligence coupable d'une extrême gravité.
 
-<hr>
+<hr><hr>
 
 ## 4. JURISPRUDENCE CLÉ
 L'argumentation développée s'appuie sur une jurisprudence constante :
@@ -88,34 +88,39 @@ L'argumentation développée s'appuie sur une jurisprudence constante :
 - **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** [N° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831). Le préposé **[Le Préposé de l'Exploitation]** ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
 - **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322). Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
 - **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** [N° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369). Le refus de communication et l'éventuel défaut d'assurance caractérisent une faute détachable de l'exercice normal des fonctions sociales des dirigeants, justifiant leur condamnation personnelle.
-- **Principe de réparation intégrale (Cass. Civ. 2e, 8 juillet 2021) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour **[La Victime]**, informaticien indépendant, l'incidence professionnelle est majeure.
+- **Principe de réparation intégrale (⚠️ Cass. Civ. 2e, 8 juillet 2021 — N° INCOMPLET : vérifier et compléter) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour **[La Victime]**, informaticien indépendant, l'incidence professionnelle est majeure.
 
-<hr>
+<hr><hr>
 
 ## 5. PIÈCES À CITER IMPÉRATIVEMENT
 Monsieur le Juge, je vous renvoie aux pièces listées dans notre bordereau, et tout particulièrement à :
 - **Pièce ACQ-10** (PV de Police) établissant sans ambiguïté les constations factuelles de l'événement.
+  
 - **Pièce ACQ-04** (Compte-rendu opératoire) de **[Le Chirurgien SOS Main]** pour mesurer la gravité médicale de l'atteinte tendineuse et nerveuse.
+  
 - **Pièce ACQ-17** (AR des mises en demeure) prouvant notre démarche de conciliation restée lettre morte de la part des défendeurs.
+  
 - **Pièce ACQ-09** (Plainte officielle) prouvant les démarches entreprises au pénal par la victime.
 
-<hr>
+<hr><hr>
 
 ## 6. MONTANTS DEMANDÉS
 La présente procédure de référé ne vise pas à solder définitivement le dossier (dans l'attente de la consolidation) mais à accorder une provision.
 
 - **Évaluation globale estimée du préjudice final :** 59 600 €
+  
 - **Provision demandée à l'audience :** 5 000 €
+  
 - **Demande au titre de l'Article 700 du Code de procédure civile :** 3 000 € (frais de justice, avocat et constats)
 
-<hr>
+<hr><hr>
 
 ## 7. QUESTIONS PROBABLES DU JUGE ET RÉPONSES PRÉPARÉES
-**Q1 : "Pourquoi demandez-vous seulement 5 000 € en provision alors que vous estimez le préjudice à près de 60 000 € ?"**
-**Réponse :** Monsieur le Juge, l'audience de référé vise à allouer une indemnisation provisionnelle d'urgence pour faire face aux premiers frais et à la perte immédiate d'exploitation. L'évaluation définitive du déficit fonctionnel et de l'incidence professionnelle de **[La Victime]** nécessite une consolidation médicale (expertise de novembre), justifiant de limiter la demande immédiate à une somme incontestable.
+**Q1 : "Pourquoi demandez-vous seulement 5 000 € en provision alors que vous estimez le préjudice à près de 60 000 € ?"** <br>
+Monsieur le Juge, l'audience de référé vise à allouer une indemnisation provisionnelle d'urgence pour faire face aux premiers frais et à la perte immédiate d'exploitation. L'évaluation définitive du déficit fonctionnel et de l'incidence professionnelle de **[La Victime]** nécessite une consolidation médicale (expertise de novembre), justifiant de limiter la demande immédiate à une somme incontestable.
 
-**Q2 : "Avez-vous l'attestation d'assurance de la société **[L'Exploitant du Commerce (La SAS)]** ?"**
-**Réponse :** Non, Monsieur le Juge. C'est précisément l'une des raisons de notre présence aujourd'hui. Malgré nos lettres recommandées de mise en demeure, les dirigeants font une obstruction manifeste. Nous vous demandons, sur le fondement de l'article 145 du CPC, de contraindre la partie adverse à fournir ce document sous astreinte financière journalière.
+**Q2 : "Avez-vous l'attestation d'assurance de la société **[L'Exploitant du Commerce (La SAS)]** ?"** <br>
+Non, Monsieur le Juge. C'est précisément l'une des raisons de notre présence aujourd'hui. Malgré nos lettres recommandées de mise en demeure, les dirigeants font une obstruction manifeste. Nous vous demandons, sur le fondement de l'article 145 du CPC, de contraindre la partie adverse à fournir ce document sous astreinte financière journalière.
 
-**Q3 : "Le préposé était-il véritablement dans l'exercice de ses fonctions lorsqu'il est monté sur le bac ?"**
-**Réponse :** Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'enceinte de l'établissement pendant ses horaires de travail pour accomplir une tâche au profit de l'exploitation. Il bénéficie donc de l'immunité civile selon la jurisprudence Costedoat, et la responsabilité de **[L'Exploitant du Commerce (La SAS)]** en tant que commettant est pleinement engagée.
+**Q3 : "Le préposé était-il véritablement dans l'exercice de ses fonctions lorsqu'il est monté sur le bac ?"** <br>
+Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'enceinte de l'établissement pendant ses horaires de travail pour accomplir une tâche au profit de l'exploitation. Il bénéficie donc de l'immunité civile selon la jurisprudence Costedoat, et la responsabilité de **[L'Exploitant du Commerce (La SAS)]** en tant que commettant est pleinement engagée.

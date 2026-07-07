@@ -42,6 +42,8 @@ Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce (La SAS)]**
 
 Madame, Monsieur,
 
+<hr>
+
 ## INTRODUCTION
 La présente lettre de mise en demeure est adressée par **[La Victime]** à la compagnie d'assurance de **[L'Exploitant du Commerce (La SAS)]** sur le fondement de l'article L. 124-3 du Code des assurances, lequel institue une action directe de la victime contre l'assureur du responsable.
 
@@ -49,7 +51,9 @@ Par ce courrier, **[La Victime]** met en demeure l'assureur de prendre en charge
 
 Cette action directe permet à la victime de saisir directement l'assureur sans passer par l'intermédiaire de la société responsable, conformément aux dispositions du Code des assurances.
 
-Rappel des obligations légales
+<hr>
+
+**Rappel des obligations légales**
 
 L'article L. 124-3 du Code des assurances institue une action directe de la victime contre l'assureur du responsable, ce qui me permet de vous saisir directement sans passer par l'intermédiaire de la société.
 
@@ -77,7 +81,11 @@ En application de l'article L. 124-3 du Code des assurances, je dispose d'un dro
 > **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463** <br>
 > [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 
-En vertu d'une jurisprudence constante (Cass. Civ. 1ère, 8 décembre 2021, n° 20-16.463 et Cass. Civ. 2e, 14 mai 2020, n° 19-15.659), cette action directe est autonome et n'est pas subordonnée à la survie de la personne morale ni à la déclaration préalable de créance en cas de procédure collective ou de radiation de la société assurée.
+En vertu d'une jurisprudence constante, cette action directe est autonome et n'est pas subordonnée à la survie de la personne morale ni à la déclaration préalable de créance en cas de procédure collective ou de radiation de la société assurée.
+
+> « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. » <br>
+> **Cour de cassation, 1re chambre civile, 13 mai 2021, n° 20-16.463** <br>
+> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043514489)
 
 Je vous mets en demeure par la présente :
 
@@ -110,7 +118,9 @@ Sous toutes réserves quant à l'aggravation future de l'état fonctionnel de sa
 
 Et de la capitalisation de ses dépenses de santé futures.
 
-Transparence sur la suite donnée au dossier
+<hr>
+
+**Transparence sur la suite donnée au dossier**
 
 La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
 

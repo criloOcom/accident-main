@@ -116,8 +116,6 @@ La responsabilité personnelle des dirigeants, Mountasser SABIR et Catherine AND
 > **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II** <br>
 > [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 
-Selon la jurisprudence Cass. Com., 20 mai 2003 (Arrêt SATI), cette faute est caractérisée lorsqu'un dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales, comme le maintien en service d'un équipement notoirement dangereux.
-
 > « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. » <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
 > [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
@@ -170,7 +168,11 @@ Le juge ordonnera alors la communication forcée de l'attestation d'assurance de
 ⚠ **L'exploitant SAS LES MAUVAIS GARCONS a un capital social de 200 € seulement.** Le risque d'insolvabilité est maximal. Voici les voies de recouvrement par ordre de priorité.
 
 ### A. ACTION DIRECTE CONTRE L'ASSUREUR RC (L.124-3 C. ASSURANCES)
-Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe est **indépendante** de l'action contre l'assuré (Cass. 3e civ., 11 mai 2022, n° 21-12.478). Même si la SAS disparaît, l'action subsiste contre l'assureur.
+Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe est **indépendante** de l'action contre l'assuré. Même si la SAS disparaît, l'action subsiste contre l'assureur.
+
+> « L'action directe de la victime contre l'assureur garantissant la responsabilité civile de l'auteur du dommage est indépendante de l'action que la victime pourrait exercer contre l'assuré lui-même. » <br>
+> **Cour de cassation, 3e chambre civile, 11 mai 2022, n° 21-12.478** <br>
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045683755)
 
 **Méthodes pour identifier l'assureur :**
 - Consultation RNE/INPI
@@ -193,7 +195,12 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 - Le FGTI se retourne ensuite contre les responsables (subrogation)
 
 ### C. RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS (VOIE SUBSIDIAIRE)
-Faute détachable des fonctions (Cass. com., 20 mai 2003, n° 99-17.092 — arrêt SATI) : maintien d'un équipement dangereux, défaut d'assurance RC, dissolution frauduleuse éventuelle. **Difficile à caractériser** mais à tenter.
+
+Faute détachable des fonctions : maintien d'un équipement dangereux, défaut d'assurance RC, dissolution frauduleuse éventuelle. **Difficile à caractériser** mais à tenter.
+
+> « La faute personnelle du dirigeant, détachable des fonctions, ouvre droit à réparation pour la victime du dommage causé par cette faute, sans que l'action doive être exercée par les représentants légaux de la personne morale. » <br>
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007152625)
 
 ### D. SARVI (SERVICE D'AIDE AU RECOUVREMENT)
 Si condamnation pénale non exécutée : verse 100 % jusqu'à 1 000 €, 30 % au-delà (max 3 000 €).

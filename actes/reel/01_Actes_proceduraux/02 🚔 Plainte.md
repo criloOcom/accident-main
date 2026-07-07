@@ -85,7 +85,7 @@ Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la comm
 Ce silence persistant, malgré l'envoi de courriers recommandés le 29 juin 2026, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
 
 
-<hr>
+<hr><hr>
 
 ## II. DISCUSSION JURIDIQUE
 ### A. SUR L'ABSENCE D'ASSURANCE DE RESPONSABILITÉ CIVILE
@@ -98,20 +98,22 @@ L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes
 
 Cette autonomie de l'action directe a été fermement rappelée par la jurisprudence (Cass. Civ. 1ère, 8 décembre 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
 
-> Attendu : « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »
+> Attendu : « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »  <br>
+>
 > Résumé : La dissolution et la clôture de la liquidation d'une personne morale n'éteignent pas l'action directe de la victime contre son assureur de responsabilité civile, qui reste recevable.
 
 En dissimulant l'identité de leur assureur, les mis en cause commettent une entrave caractérisée aux droits de la victime, susceptible de relever des dispositions de l'[Article 121-3 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208).
 
 > « Il n'y a point de crime ou de délit sans intention de le commettre. (...) Toutefois, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particularité gravité qu'elles ne pouvaient ignorer. »
 
-Par ailleurs, ce défaut de souscription ou d'information peut constituer une faute détachable des fonctions de direction engageant la responsabilité personnelle des dirigeants sur leur patrimoine propre (Cass. Com., 20 mai 2003, [n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)).
+Par ailleurs, ce défaut de souscription ou d'information peut constituer une faute détachable des fonctions de direction engageant la responsabilité personnelle des dirigeants sur leur patrimoine propre.
 
-> Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
-> Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
+> « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. » <br>
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007152625)
 
 
-<hr>
+<hr><hr>
 
 ## III. CONSÉQUENCES ET PRÉJUDICES
 Le préjudice subi par Sébastien GRAZIDE est d'une particulière gravité.
@@ -129,7 +131,7 @@ Les pertes d'exploitation sont d'ores et déjà significatives et le préjudice 
 L'absence de communication de l'assurance bloque toute offre d'indemnisation amiable, l'accès à une expertise médicale contradictoire et la prise en charge des soins par la CPAM (dossier [ ... ]).
 
 
-<hr>
+<hr><hr>
 
 ## IV. DEMANDES
 Par ces motifs, Sébastien GRAZIDE sollicite qu'il plaise à Monsieur le Procureur de la République d'ordonner une enquête complémentaire visant à :

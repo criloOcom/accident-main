@@ -83,30 +83,23 @@ Lien : LEGIARTI000049464053
   Panorama de jurisprudence sur la responsabilité des salons de coiffure : coupe ratée, teinture loupée, cheveux brûlés. Confirme la responsabilité systématique du salon pour manquement à l'obligation de sécurité, tant sur le fondement civiliste (1240/1242 C.civ.) que sur celui du droit de la consommation.
 
 ## JURISPRUDENCE
-• **[Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)** — Faute détachable de ses fonctions du dirigeant
 
-> Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
-> Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
+> « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. » <br>
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007152625)
 
-• **[Civ. 2e, 4 avril 2019, n° 18-12.766](https://www.legifrance.gouv.fr/juri/id/JURITEXT000038373596)** — Incidence professionnelle et perte de gains futurs
+> « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. » <br>
+> **Cour de cassation, 2e chambre civile, 6 mai 2021, n° 19-23.173** <br>
+> [Arrêt n°19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
 
-• **[Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)** — Incidence professionnelle (dévalorisation sociale, exclusion du monde du travail)
+> « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. » <br>
+> **Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106** <br>
+> [Arrêt n°20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
 
-> Attendu : « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. »
-> Résumé : L'indemnisation au titre de l'incidence professionnelle est cumulable avec la perte de gains professionnels futurs et répare la dévalorisation sur le marché de l'emploi et l'exclusion sociale qui en découlent.
+> « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. » <br>
+> **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463** <br>
+> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 
-• **[Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)** — Exigences probatoires rigoureuses pour l'indemnisation
-
-> Attendu : « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »
-> Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
-
-• **[Civ. 1ère, 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)** — Action directe recevable contre l'assureur d'une société dissoute
-
-> Attendu : « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »
-> Résumé : La dissolution et la clôture de la liquidation d'une personne morale n'éteignent pas l'action directe de la victime contre son assureur de responsabilité civile, qui reste recevable.
-
-• **[Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)** — Réparation intégrale et principe de libre disposition des fonds
-
-
-> Attendu : « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »
-> Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
+> « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. » <br>
+> **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307** <br>
+> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)

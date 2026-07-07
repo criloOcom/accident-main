@@ -83,7 +83,11 @@ Je sollicite donc votre bienveillance afin de :
 
    - Les eventuelles limitations fonctionnelles permanentes
 
-Ce certificat permettra a mon conseil de finaliser l'evaluation indemnitaire et, le cas echeant, de saisir le tribunal judiciaire de **[La Ville de l'Accident]** pour obtenir la reparation integrale de mon prejudice corporel, conformement au principe degage par la Cour de cassation (Civ. 2e, 4 avril 2024, n° 22-19.307).
+Ce certificat permettra a mon conseil de finaliser l'evaluation indemnitaire et, le cas echeant, de saisir le tribunal judiciaire de **[La Ville de l'Accident]** pour obtenir la reparation integrale de mon prejudice corporel, conformement au principe degage par la Cour de cassation.
+
+> « La libre disposition de son corps par la victime ne fait pas obstacle à ce que soit réparé le préjudice corporel subi. » <br>
+> **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307** <br>
+> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000050460532)
 
 Transparence sur la suite donnee au dossier
 

@@ -67,7 +67,11 @@ Une intervention chirurgicale a été réalisée en urgence le 30 mai 2026 par u
 ### A. CARACTÈRE NON CONTESTABLE DE L'OBLIGATION
 **1. Faute caractérisée : violation des obligations de sécurité (articles 1240 CC et R. 4323-58 et suivants du Code du travail)**
 
-L'absence d'équipement d'accès en hauteur (escabeau, marchepied, échelle) constitue une violation des articles R. 4323-58 et suivants du Code du travail, qui imposent à l'employeur de mettre à disposition des travailleurs les équipements nécessaires à la réalisation des travaux en hauteur. Cette carence structurelle a contraint le préposé à escalader la vasque, créant la condition de l'accident. Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code civil.
+L'absence d'équipement d'accès en hauteur (escabeau, marchepied, échelle) constitue une violation des articles R. 4323-58 et suivants du Code du travail, qui imposent à l'employeur de mettre à disposition des travailleurs les équipements nécessaires à la réalisation des travaux en hauteur. 
+
+Cette carence structurelle a contraint le préposé à escalader la vasque, créant la condition de l'accident.
+
+Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code civil.
 
 **2. Responsabilité du fait des choses (article 1242 alinéa 1er du Code civil)**
 
@@ -83,7 +87,9 @@ Par ailleurs, la **cassure préexistante** constitue un **vice inhérent** de la
 
 **2. Responsabilité du commettant du fait du préposé (article 1242 alinéa 5 du Code civil)**
 
-Aux termes de l'article 1242 alinéa 5 du Code civil, « les maîtres et les commettants […] du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés ». Le coiffeur préposé agissait bien au service de l'exploitation du salon en tentant de régler le poste de télévision, acte entrant dans le cadre normal de ses fonctions.
+Aux termes de l'article 1242 alinéa 5 du Code civil, « les maîtres et les commettants […] du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés ».
+
+Le coiffeur préposé agissait bien au service de l'exploitation du salon en tentant de régler le poste de télévision, acte entrant dans le cadre normal de ses fonctions.
 
 L'Assemblée plénière de la Cour de cassation, dans l'arrêt Costedoat (25 février 2000, n° 97-17.378), a rappelé que le préposé bénéficie de l'immunité civile lorsqu'il agit dans les limites de sa mission. La responsabilité incombe alors exclusivement au commettant.
 

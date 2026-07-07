@@ -48,7 +48,9 @@ La présente lettre de mise en demeure est adressée par Sébastien GRAZIDE à S
 
 Ce courrier constitue la première étape amiable préalable à toute action contentieuse, conformément aux usages de la procédure civile.
 
-Rappel des obligations légales
+<hr>
+
+**Rappel des obligations légales**
 
 L'article L. 124-3 du Code des assurances reconnaît à la victime une action directe contre l'assureur du responsable.
 
@@ -80,7 +82,9 @@ Mes coordonnées pour réponse : 10 Avenue de Purpan, 31700 Blagnac / Courriel :
 
 Je vous remercie par avance pour votre aide et reste à votre entière disposition pour tout renseignement complémentaire.
 
-Transparence sur la suite donnée au dossier
+<hr>
+
+**Transparence sur la suite donnée au dossier**
 
 La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
 

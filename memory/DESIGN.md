@@ -22,8 +22,54 @@
 ## Règles de formatage du corps
 
 - **Tokens d'anonymisation** (`**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS)]**`, `**[Le Président de l'Exploitation]**`…) : appliquer **Bold** (`textStyle.bold = true`) dans le corps du texte. Ne pas mettre en gras les guillemets, parenthèses ou texte autour.
-- **Références législatives et jurisprudentielles** (ex. `article 1242 du Code civil`, `Cass. Com., 20 mai 2003, [n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)`) : appliquer **souligné** + **couleur bleue `#1166CC`** + **`linkUrl`** pointant vers Légifrance ou Judilibre.
+- **Références législatives et jurisprudentielles** (ex. `article 1240 du Code civil`, `Cass. Com., 20 mai 2003, [n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)`) : appliquer **souligné** + **couleur bleue `#1166CC`** + **`linkUrl`** pointant vers Légifrance ou Judilibre.
 - **Puces et listes** : alignement JUSTIFIED, même police Arial 11 pt.
+
+## Citations d'articles de code (OBLIGATOIRE)
+
+Tout article de code cité dans un document DOIT être présenté sous forme de **bloc de citation complet** `>` avec les 3 éléments :
+
+1. **Citation du texte** entre guillemets `« ... »` (extrait pertinent, 1-3 phrases max)
+2. **Chemin législatif hiérarchique** complet en **gras** (`Code > Partie > Livre > Titre > Chapitre > Section`)
+3. **Lien hypertexte** Légifrance sur le numéro d'article
+
+**Format obligatoire :**
+```
+> « [Texte exact de l'article extrait via Légifrance MCP]... » <br>
+> **[Nom du Code] > [Chemin hiérarchique complet]** <br>
+> [Article XXX](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI...)
+```
+
+**Règles :**
+- Le texte est extrait de `openlegi_rechercher_code` ou `legifrance_rechercher_code` — jamais inventé.
+- Le chemin hiérarchique doit correspondre exactement au `Chemin complet` retourné par le tool Légifrance.
+- Pour les articles longs (> 3 lignes), utiliser `[...]` pour les parties non pertinentes.
+- Le bloc `>` suit immédiatement la phrase ou le paragraphe qui mentionne l'article.
+- Ne JAMAIS mettre un article en simple lien inline `[Art. XXX](url)` — toujours le format bloc complet.
+
+## Citations de jurisprudence (RÈGLE ABSOLUE — SANS EXCEPTION)
+
+**TOUTE** décision de justice citée dans **TOUS** les documents (actes procéduraux, courriers, analyses, plaideries, études, archives, index) DOIT être présentée sous forme de **bloc de citation complet** `>` avec les 3 éléments :
+
+1. **Ratio decidendi** extrait du texte intégral de la décision (texte exact entre guillemets `« ... »`)
+2. **Identification complète** de la juridiction en **gras** (juridiction, chambre, date, numéro de pourvoi)
+3. **Lien hypertexte** vers Légifrance ou Judilibre
+
+**Format obligatoire :**
+```
+> « [Ratio decidendi extrait du texte intégral de la décision]... » <br>
+> **Cour de [juridiction], [chambre], [date], n° [numéro de pourvoi]** <br>
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/...)
+```
+
+**Règles :**
+- Le ratio decidendi est extrait de `judilibre_consulter_decision` ou `openlegi_get_decision_judiciaire` — jamais inventé.
+- L'identification de la juridiction doit être exacte (vérifiée via le tool Légifrance/Judilibre).
+- Pour les arrêts longs, sélectionner le passage le plus pertinent (1-3 phrases).
+- Le bloc `>` suit immédiatement la phrase ou le paragraphe qui mentionne l'arrêt.
+- **Ne JAMAIS** mettre un arrêt en simple lien inline `[Cass. ..., n° XXX](url)` — **toujours** le format bloc complet.
+- **Aucune exception** : les courriers LRAR, les index, les tableaux de synthèse, les analyses contextuelles — **TOUT** document doit respecter cette règle.
+- **Sans exception** : toute référence à une Cour de cassation (Civ. 1ère, 2e, 3e, Crim., Com., Soc.), Conseil d'État (CE, CAA), tribunal administratif, cour d'appel, etc. doit être en blockquote complet avec lien.
 
 ## Application obligatoire après chaque injection
 

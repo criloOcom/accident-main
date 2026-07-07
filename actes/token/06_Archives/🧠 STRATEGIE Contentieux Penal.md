@@ -103,10 +103,11 @@ Un complément de plainte a été déposé le **[J+32 Assignation référé]** a
 Ce complément vise à porter à la connaissance de l'autorité judiciaire cette carence, qui constitue un obstacle à l'indemnisation de la victime et justifie, le cas échéant, la saisine du [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
 ### 3.4 RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS
-Les dirigeants de **[L'Exploitant du Commerce (La SAS)]**, à savoir **[Le Président de l'Exploitation]** (Président) et **[La Directrice Générale de l'Exploitation]** (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales ([Cass. Com., 20 mai 2003, n° 99-17.092, Arrêt SATI](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)), ainsi que sur le fondement de [Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928).
+Les dirigeants de **[L'Exploitant du Commerce (La SAS)]**, à savoir **[Le Président de l'Exploitation]** (Président) et **[La Directrice Générale de l'Exploitation]** (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales, ainsi que sur le fondement de [Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928).
 
-> Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
-> Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
+> « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. » <br>
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007152625)
 
 Le défaut de souscription d'assurance responsabilité civile professionnelle constitue une faute d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales, caractérisant une faute détachable engageant la responsabilité personnelle des dirigeants sur leurs biens propres.
 
