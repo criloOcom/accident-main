@@ -1,10 +1,10 @@
 ---
-titre: Conclusions Référé Provision - Version réelle
-date: 2026-07-31
+titre: Conclusions Référé Provision (version Glose) - Version réelle
+date: 2026-07-07
 type: acte_procedural
 categorie: contentieux
 auteur: La Victime
-destinataire: Tribunal Judiciaire
+destinataire: Juge des Référés du Tribunal Judiciaire
 personnes:
   - La Victime
   - L'Exploitant du Commerce (La SAS)
@@ -12,14 +12,16 @@ tags:
   - conclusions
   - référé
   - provision
-  - contentieux civil
+  - art.835 CPC
+  - art.145 CPC
+  - version Glose
 statut: final
 format: Arial JUSTIFIED
 ---
 
-# CONCLUSIONS AUX FINS DE RÉFÉRÉ-PROVISION ET DEMANDE D'EXPERTISE MÉDICALE
+# AU JUGE DES RÉFÉRÉS DU TRIBUNAL JUDICIAIRE
 
-**A L'AUDIENCE DU JUGE DES RÉFÉRÉS DU TRIBUNAL JUDICIAIRE DE [LA VILLE DE L'ACCIDENT] DU 31 JUILLET 2026**
+## DEMANDE D'ORDONNANCE DE RÉFÉRÉ-PROVISION ET DE MESURES D'INSTRUCTION EN APPLICATION DES ARTICLES 835 ET 145 DU CODE DE PROCÉDURE CIVILE
 
 ---
 
@@ -31,86 +33,131 @@ Sébastien GRAZIDE, né le 18 janvier 1982, de nationalité française, demeuran
 
 **CONTRE :**
 
-SAS LES MAUVAIS GARCONS (SAS LES MAUVAIS GARCONS), Société par Actions Simplifiée, immatriculée au RCS de Foix sous le numéro SIRET 938 033 222 00010, ayant son siège social au 22 Rue Lafaurie, 09000 Foix, prise en la personne de sa représentante légale en exercice, Catherine ANDISSAC, Directrice Générale.
+SAS LES MAUVAIS GARCONS, Société par Actions Simplifiée, immatriculée au RCS de Foix sous le numéro SIRET 938 033 222 00010, ayant son siège social au 22 Rue Lafaurie, 09000 Foix, représentée par ses co-dirigeants Mountasser SABIR et Catherine ANDISSAC.
 
-*Défendeur*
+*Défenderesse*
 
-<hr><hr>
+---
 
 ## I. EXPOSÉ DU LITIGE
 
-Le 29 mai 2026, Sébastien GRAZIDE s'est rendu au salon de coiffure exploité par la SAS SAS LES MAUVAIS GARCONS pour y bénéficier de prestations capillaires.
+### A. Le sinistre et ses conséquences matérielles
 
-Alors que Sébastien GRAZIDE se trouvait au bac à shampoing, Ayoub BENNOURINE, préposé de l'établissement, a entrepris de monter sur la vasque en céramique. En tentant d'en descendre, ce dernier a provoqué le basculement brutal de l'équipement, lequel présentait une cassure préexistante non signalée.
+Le **29 mai 2026**, aux environs de 15 heures, Sébastien GRAZIDE, informaticien indépendant de 44 ans, se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
 
-Par un réflexe naturel d'assistance pour retenir la chute de l'équipement, Sébastien GRAZIDE a tendu sa main droite, heurtant violemment la cassure.
+Le coiffeur préposé de la défenderesse, dans l'exercice de ses fonctions et agissant par nécessité de service, est monté sur la vasque en céramique d'un bac à shampoing installé à demeure pour régler un poste de télévision, **faute d'avoir à sa disposition un équipement d'accès en hauteur** (escabeau, échelle ou marchepied).
 
-Il a immédiatement été pris en charge aux urgences, avec une suture initiale d'une plaie palmaire de 8,5 cm. Le lendemain, 30 mai 2026, Sébastien GRAZIDE a été opéré en urgence au service SOS Main, l'intervention microchirurgicale révélant la section partielle du tendon fléchisseur de l'index droit et la section complète des paquets collatéraux vasculo-nerveux.
+Au cours de cette manipulation, la vasque a **basculé** brutalement et s'est brisée. Par réflexe de protection, Sébastien GRAZIDE a tendu sa main droite — sa main dominante — pour protéger le préposé. Sa paume a heurté violemment le flanc de la vasque qui présentait depuis une date indéterminée une **cassure majeure préexistante**, non signalée, aux arêtes extrêmement tranchantes.
 
-Ces blessures, affectant la main dominante d'un informaticien indépendant, ont entraîné une incapacité temporaire totale (ITT) de 56 jours (du 29 mai au 23 juillet 2026 inclus), occasionnant une perte de revenus et une incidence professionnelle majeures.
+Cet heurt a entraîné :
+- la section complète du **nerf collatéral radial** de l'index droit ;
+- la section du **tendon fléchisseur profond** de l'index droit ;
+- une **neurolyse du nerf palmaire**.
 
-<hr><hr>
+Une intervention chirurgicale a été réalisée en urgence le 30 mai 2026 par un chirurgien spécialisé en chirurgie de la main. L'**incapacité temporaire totale de travail (ITT)** a été fixée médicalement à **cinquante-six jours**, du 29 mai 2026 au 23 juillet 2026.
+
+### B. La preuve du risque et du dommage
+
+**a) Présence de la victime sur les lieux :** Le paiement électronique (Wero) de 15,00 € effectué par la victime au salon le jour même, puis remboursé par le salon postérieurement à l'accident, constitue une preuve irréfutable de la présence de la victime et de la relation contractuelle.
+
+**b) Le procès-verbal de police :** Le commissariat de police a dressé le procès-verbal n° 2026/015967 qui confirme le basculement de la vasque. Ce procès-verbal constitue une pièce décisive établissant le mécanisme de l'accident.
+
+**c) Le constat d'huissier :** Par l'intermédiaire d'un huissier de justice, il a été constaté la présence d'une **cassure majeure préexistante** sur la vasque, présentant des arêtes tranchantes constituant un danger manifeste pour toute personne se trouvant à proximité. Ce vice de la chose était **indécelable de l'extérieur** et n'avait fait l'objet d'aucune signalisation.
+
+**d) L'absence d'équipement :** Il n'existait dans le salon **aucun équipement d'accès en hauteur** (pas d'escabeau, pas d'échelle, pas de marchepied). Cette carence structurelle a contraint le préposé à emprunter la vasque, créant la condition même de l'accident.
+
+---
 
 ## II. DISCUSSION JURIDIQUE
 
-### 1. Sur la recevabilité et la compétence du Juge des référés
+### A. Caractère non contestable de l'obligation
 
-En application de l'[Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284), le président du Tribunal judiciaire peut, dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, accorder une provision au créancier.
+**1. Faute caractérisée : violation des obligations de sécurité (articles 1240 CC et R. 4323-58 et suivants du Code du travail)**
 
-En l'espèce, la matérialité de l'accident et des blessures, constatée par procès-verbal de police et documents médicaux incontestables, rend l'obligation à réparation de la SAS SAS LES MAUVAIS GARCONS non sérieusement contestable, caractérisant ainsi l'urgence et le trouble manifestement illicite justifiant la compétence du juge des référés.
+L'absence d'équipement d'accès en hauteur (escabeau, marchepied, échelle) constitue une violation des articles R. 4323-58 et suivants du Code du travail, qui imposent à l'employeur de mettre à disposition des travailleurs les équipements nécessaires à la réalisation des travaux en hauteur. Cette carence structurelle a contraint le préposé à escalader la vasque, créant la condition de l'accident. Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code civil.
 
-### 2. Sur la responsabilité civile de la SAS
+**2. Responsabilité du fait des choses (article 1242 alinéa 1er du Code civil)**
 
-L'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) consacre la responsabilité de plein droit du gardien de la chose instrument du dommage, ainsi que celle des commettants du fait de leurs préposés.
+Au sens de l'article 1242 alinéa 1er du Code civil, « on est responsable […] du dommage […] causé […] par le fait des choses que l'on a sous sa garde ». La société défenderesse est gardienne de la vasque en céramique installée dans son salon.
 
-Le basculement de la vasque en céramique, causé par l'intervention fautive du préposé de l'établissement, engage sans conteste la responsabilité civile délictuelle de la SAS SAS LES MAUVAIS GARCONS, tenue d'une obligation de sécurité de résultat envers sa clientèle.
+Le **basculement brutal** de cette chose a été l'**instrument actif** du dommage subi par la victime. Ce basculement est établi par le procès-verbal de police n° 2026/015967.
 
-### 3. Sur la faute détachable des dirigeants
+La Cour de cassation, dans un arrêt de principe (Civ. 2e, 13 février 1991, n° 89-18.422, Publié au Bulletin), a retenu qu'une échelle installée par un préposé qui bascule et blesse un tiers engage la responsabilité du gardien, qui ne peut s'exonérer qu'en prouvant une cause étrangère (force majeure, faute de la victime, fait d'un tiers).
 
-Il est constant que le défaut de souscription des assurances obligatoires et le maintien en service d'un équipement dangereux caractérisent une faute d'une particulière gravité, détachable des fonctions de direction.
+En l'espèce, la victime n'a commis aucune faute : elle n'a pas provoqué le basculement, n'était pas montée sur la vasque, et n'avait aucun moyen de connaître le vice caché de la chose. Il n'existe aucun fait d'un tiers ni force majeure.
 
-La jurisprudence de la Cour de cassation ([Cass. Com., 20 mai 2003, n° 99-17.092, arrêt SATI](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)) retient la responsabilité personnelle des dirigeants dans de telles circonstances, exposant délibérément les tiers à un préjudice certain.
+Par ailleurs, la **cassure préexistante** constitue un **vice inhérent** de la chose. La Cour de cassation a jugé depuis longtemps que le vice inhérent à la chose, même indécelable, ne constitue pas un cas de force majeure ou une cause étrangère exonératoire (Civ. 2e, 5 mai 1975, n° 74-10.466, Publié au Bulletin).
 
-### 4. Sur l'action directe contre l'assureur et l'absence d'assurance
+**2. Responsabilité du commettant du fait du préposé (article 1242 alinéa 5 du Code civil)**
 
-L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) institue une action directe de la victime contre l'assureur de responsabilité civile de l'auteur du dommage.
+Aux termes de l'article 1242 alinéa 5 du Code civil, « les maîtres et les commettants […] du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés ». Le coiffeur préposé agissait bien au service de l'exploitation du salon en tentant de régler le poste de télévision, acte entrant dans le cadre normal de ses fonctions.
 
-Cependant, les diligences amiables (mises en demeure) sont restées vaines, laissant présumer un défaut d'assurance RC Pro de l'exploitant. Une telle carence constituerait non seulement une entrave à l'action directe, mais également une faute pénale de mise en danger.
+L'Assemblée plénière de la Cour de cassation, dans l'arrêt Costedoat (25 février 2000, n° 97-17.378), a rappelé que le préposé bénéficie de l'immunité civile lorsqu'il agit dans les limites de sa mission. La responsabilité incombe alors exclusivement au commettant.
 
-### 5. Sur le fondement du droit de la consommation
+**4. Faute aggravée de l'exploitant**
 
-Le salon de coiffure, en tant que professionnel, est tenu à une obligation d'information précontractuelle (Art. [L.111-1 C.consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650)) et à une garantie de conformité du service fourni (Art. [L.217-1 C.consommation](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032227138/)). La prestation de coiffure réalisée n'était manifestement pas conforme aux exigences de sécurité légitimes d'un consommateur, entraînant un dommage corporel grave. Ce fondement complémentaire (droit de la consommation) renforce l'absence de contestation sérieuse sans se substituer au fondement principal de la responsabilité civile délictuelle (art. 1240, 1242 C. civ.), offrant ainsi un double socle juridique à la demande.
+Outre la violation des articles R. 4323-58 et suivants du Code du travail (cf. point 1 ci-dessus), la société défenderesse a commis des fautes caractérisées par :
+- l'**absence totale d'équipement d'accès en hauteur**, créant une situation de danger manifeste ;
+- le **non-entretien** de ses installations, laissant subsister une cassure majeure aux arêtes tranchantes sans signalisation ni réparation ;
+- l'**absence de protocole de sécurité** pour les interventions nécessitant un accès en hauteur.
 
-<hr><hr>
+**5. L'obligation de la SAS n'est pas sérieusement contestable**
+
+L'obligation de la SAS envers la victime est établie par :
+- le basculement constaté dans le PV de police ;
+- le vice de la chose constaté par l'huissier ;
+- la nature d'établissement ouvert au public ;
+- l'absence de tout élément de cause étrangère.
+
+### B. Caractère urgent
+
+Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 jours. En tant qu'informaticien indépendant, son activité repose exclusivement sur l'usage de sa main dominante. Ses frais médicaux sont réels et documentés. Les dirigeants de la SAS refusent toute coopération et n'ont pas communiqué les coordonnées de leur assureur RC Pro malgré demandes. Le capital social de la SAS (200 €) fait craindre une insolvabilité croissante si le recouvrement n'est pas accéléré.
+
+---
 
 ## III. DISPOSITIF
 
-Par ces motifs, et ceux qui pourront être suppléés, il est demandé au Président du Tribunal de :
+**EN CONSÉQUENCE**, il est demandé au juge des référés :
 
-- **RECEVOIR** Sébastien GRAZIDE en ses demandes et l'y déclarer bien fondé ;
+**PRINCIPALEMENT,**
 
-- **CONSTATER** que l'obligation de la SAS SAS LES MAUVAIS GARCONS n'est pas sérieusement contestable ;
+**I.** De constater que l'obligation de la société défenderesse n'est pas sérieusement contestable et d'ordonner la condamnation de cette dernière au paiement d'une provision provisoire de **15 000 €**, comprenant :
+- les pertes de gains professionnels actuels (PGPA) au titre des 56 jours d'ITT : 1 380 € ;
+- les frais médicaux et paramédicaux passés et à venir : 5 000 € ;
+- une provision au titre des souffrances endurées : 5 000 € ;
+- une provision au titre de l'incidence professionnelle : 1 620 € ;
+- les frais irrépétibles au sens de l'article 700 du Code de procédure civile : 3 000 €.
 
-- **ORDONNER** une expertise médicale judiciaire, aux frais avancés de la partie défenderesse, afin d'évaluer l'ensemble des préjudices corporels selon la nomenclature Dintilhac ;
+**II.** De condamner la société défenderesse au paiement d'une **astreinte de 100 € par jour de retard** à compter de l'expiration d'un délai de huit jours à compter de la signification de l'ordonnance.
 
-- **CONDAMNER** la SAS SAS LES MAUVAIS GARCONS à verser à Sébastien GRAZIDE une somme de **5 000 €** à titre de provision ad litem à valoir sur la réparation définitive de ses préjudices ;
+**III.** De condamner la société défenderesse aux dépens.
 
-- **CONDAMNER** la SAS SAS LES MAUVAIS GARCONS à payer à Sébastien GRAZIDE la somme de **3 000 €** au titre de l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436), ainsi qu'aux entiers dépens ;
+**SUBSIDIAIREMENT,**
 
-- **ORDONNER** l'exécution provisoire de l'ordonnance à intervenir.
+**IV.** De prendre toutes mesures d'instruction utiles en application de l'article 145 du Code de procédure civile, et notamment :
+- de prescrire une **expertise médico-légale** visant à déterminer la consolidation du dommage corporel, le taux d'incapacité permanente partielle, et le préjudice esthétique ;
+- d'**enjoindre à la société défenderesse et à ses dirigeants** de communiquer dans un délai de quinze jours le contrat d'assurance responsabilité civile professionnelle souscrit, à défaut de quoi le juge pourrait ordonner leur assignation directe.
 
-Fait à Foix, le 30 juin 2026.
+---
+
+**[Ville]**, le **[date]**
 
 Sébastien GRAZIDE
 
-<hr><hr>
+---
 
-## BORDEREAU DE PIÈCES COMMUNIQUÉES
+## NOTE DE RÉFÉRENCE
 
-1. **Pièce n° 1 :** Certificat médical initial constatant les blessures de Sébastien GRAZIDE (Dr Julie JARDON, 29 mai 2026)
-2. **Pièce n° 2 :** Compte-rendu opératoire de microchirurgie (Dr Iskander DJERBI, SOS Main, 30 mai 2026)
-3. **Pièce n° 3 :** Dépôt de plainte pour blessures involontaires (Police Foix, 1 juin 2026)
-4. **Pièce n° 4 :** Procès-verbal de police constatant l'accident (n°2026/015967, 2 juin 2026)
-5. **Pièce n° 5 :** Notification de prise en charge par la CPAM de la Haute-Garonne (Dossier RCT 31727387, 3 juin 2026)
-6. **Pièce n° 6 :** Arrêt de travail (volet 1) et prolongations pour une ITT de 56 jours (Dr Oxybel)
-7. **Pièce n° 7 :** Mises en demeure adressées à la SAS et à ses dirigeants (29 juin 2026) et accusés de réception
+Cette version a été rédigée à partir du mémoire juridique produit par l'assistant Glose (juillet 2026). Elle diffère de la version antérieure du 31 juillet 2026 sur les points suivants :
+
+| Point | Version antérieure | Version Glose | Version finale |
+|---|---|---|---|---|
+| Provision | 5 000 € | 8 000 € | **15 000 €** (PGPA 1 380 + frais méd. 5 000 + SE 5 000 + IP 1 620 + art. 700 3 000) |
+| Astreinte | (non spécifiée) | 100 €/jour | 100 €/jour |
+| Art. 145 CPC | Expertise médicale | Expertise médicale + comm. assurance | Expertise médicale + comm. assurance |
+| Art. R. 4323-58 CT | *(absent)* | *(absent)* | **Ajouté** (violation norme impérative) |
+| Structure discussion | 5 points | 4 points | 5 points (R.4323-58 + 1242 al.1 + al.5 + 1240 + obligation) |
+
+Voir les mémoires complets :
+- `reports/expertise/20260707 Mémoire juridique Glose.md`
+- `reports/expertise/20260707 Analyse critique Glose.md`

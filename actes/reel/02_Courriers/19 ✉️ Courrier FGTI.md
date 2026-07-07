@@ -59,7 +59,7 @@ Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm ave
 - [III — INDEMNITES SOLLICITEES](#iii--indemnites-sollicitees)
 - [IV — SAISINE CONSERVATOIRE](#iv--saisine-conservatoire)
 
-<hr><hr>
+<hr>
 
 ## PROCEDURES JUDICIAIRES ENGAGEES
 
@@ -75,7 +75,7 @@ A la date de la presente, les procedures suivantes ont ete engagees :
 
 Ces procedures constituent le prerequis necessaire a une eventuelle saisine du FGTI au titre de l'article 706-3 du Code de procedure penale.
 
-<hr><hr>
+<hr>
 
 ## RAPPEL DES FAITS
 
@@ -93,7 +93,7 @@ L'accident est survenu dans un contexte de multiples irregularites de la part de
 
 - Dirigeants n'ayant repondu a aucune mise en demeure (LRAR du 29 juin 2026 sans AR retourne)
 
-<hr><hr>
+<hr>
 
 ## INDEMNITES SOLLICITEES
 
@@ -101,17 +101,17 @@ Le montant total estime de mon prejudice corporel, selon la nomenclature Dintilh
 
 - Pertes de gains professionnels actuels (PGPA) : 1 400 €
 
-- Incidence professionnelle (IP) : 15 000 €
+- Incidence professionnelle (IP) : 30 000 €
 
-- Deficit fonctionnel permanent (DFP) : 25 200 €
+- Deficit fonctionnel permanent (DFP) : 25 000 €
 
-- Souffrances endurees (SE) : 12 000 €
+- Souffrances endurees (SE) : 15 000 €
 
 - Prejudice d'agrement : 3 000 €
 
 - Article 700 du CPC : 3 000 €
 
-<hr><hr>
+<hr>
 
 ## SAISINE CONSERVATOIRE
 

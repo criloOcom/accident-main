@@ -592,3 +592,36 @@ La version initiale du **09 Courrier Inspection Travail** contenait une erreur f
 - **Compréhension corrigée** : plus de dates fabriquées (31 juillet, expertise médicale civile) — seules dates réelles : 14 juillet (fin amiable), 12 novembre (UMJ ITT)
 - **Check consistency** : 0 erreur, 65 avertissements bénins (inchangé)
 - **2 commits + push** : phase 7b complète (modifs + generate_real_versions)
+
+## Phase 8 — Reformatation Citations Juridiques (7 juillet 2026) ✅
+
+### Objectif
+Standardiser TOUTES les citations de lois et jurisprudences dans `actes/token/` selon un format unique :
+- Articles de loi : blockquote avec citation > **Code > Section** > [lien LEGIARTI]
+- Arrêts de cassation : blockquote avec résumé du principe > **Cour, Date** > [lien JURITEXT]
+- Liens inline dans le texte courant → convertis en texte brut
+
+### Commits
+- `c411671` — Phases 1-2 (Assignation, 02b, Courriers 03-06)
+- `859538f` — Phase 3 (Analyses juridiques)
+- `6192221` — Phase 4 (Études indemnisation)
+- `1c62201` — Phase 5 (Plan action, Index)
+- `7fbe5af` — Phase 6 (06_Archives — 8 fichiers)
+- `df21e34` — Corrections post-audit (Plainte, Bordereau, Courriers, Dossier Plaidoirie)
+- `061679b` — Corrections montants IP/DFP/SE obsolètes (Courrier Assureur, FGTI, Bordereau)
+
+### Résultats (scan final confirmé)
+- **Liens inline legifrance** : **0** (hors blockquotes)
+- **Liens dans blockquotes** : **77**
+- **Montants IP 15 000€ obsolète** : **0** (hors tableaux comparatifs)
+- **Montants DFP 25 200€ obsolète** : **0** (hors tableaux comparatifs)
+- **Montants SE 12 000€ obsolète** : **0** (hors tableaux comparatifs)
+- **Audit multi-agent** : Gemini ✅, Grok ✅, Copilot (faux positifs), Mistral (faux positifs)
+
+### Fichiers traités
+- **21 fichiers principaux** (01_Actes_proceduraux, 02_Courriers, 03_Analyses, 04_Etudes, 05_Organisation)
+- **8 fichiers archives** (06_Archives)
+- **63 fichiers total** dans `actes/token/`
+
+### Montants finaux validés
+- Provision : **15 000€** | DFP : **25 000€** (10%) | IP : **30 000€** | SE : **15 000€** | PEP : **3 000€** | DEP : **3 000€** | Agrément : **5 000€** | Total : **~90 000€**

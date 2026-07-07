@@ -20,6 +20,7 @@ statut: final
 source: drive
 drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
 format: Arial JUSTIFIED
+notes: Version Glose produite le 07/07/2026 — voir reports/expertise/20260707 Mémoire juridique Glose.md
 ---
 
 # CONSTITUTION DE PARTIE CIVILE
@@ -53,7 +54,7 @@ Par cet acte, la victime entend exercer les droits reconnus a la partie civile a
 - [IV — DEMANDES](#iv--demandes)
 - [PAR CES MOTIFS](#par-ces-motifs)
 
-<hr><hr>
+<hr>
 
 ## I — EXPOSE DES FAITS
 
@@ -74,7 +75,7 @@ La SAS SAS LES MAUVAIS GARCONS, immatriculee au RCS sous le SIREN 938 033 222, a
 
 Malgre des mises en demeure recommandees adressees le 29 juin 2026 a la SAS, au President et a la Directrice Generale, aucun des mis en cause n'a communique les coordonnees d'un assureur, laissant presumer une absence totale de couverture.
 
-<hr><hr>
+<hr>
 
 ## II — FONDEMENTS JURIDIQUES
 
@@ -82,19 +83,21 @@ Malgre des mises en demeure recommandees adressees le 29 juin 2026 a la SAS, au 
 
 Les faits decrits ci-dessus sont constitutifs du delit de blessures involontaires prevu et reprime par les articles 222-19 et 222-20 du Code penal.
 
-L'[Article 222-19 du Code penal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) dispose :
-
-> « Le fait de causer a autrui, par maladresse, imprudence, inattention, negligence ou manquement a une obligation de prudence ou de sécurité imposee par la loi ou le reglement, une incapacite totale de travail d'une duree superieure a trois mois est puni de deux ans d'emprisonnement et de 45 000 euros d'amende. »
+> « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. » <br>
+> **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne** <br>
+> [Article 222-19](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
 
 En l'espece :
 
-- **La maladresse et l'imprudence** sont caracterisees par le fait de laisser un employe monter sur une vasque en ceramique instable et cassee, faute d'equipement d'acces adapte (escabeau).
+- **La maladresse et l'imprudence** sont caracterisees par le fait de laisser un employe monter sur une vasque en ceramique instable et cassee, faute d'equipement d'acces adapte (escabeau), en violation des articles R. 4323-58 et suivants du Code du travail imposant la mise a disposition d'equipements de travail en hauteur.
 - **Le manquement a une obligation de securite** resulte de l'absence de signalement et de protection de la cassure preexistante aux aretes tranchantes de la vasque, constituant un danger manifeste pour la clientele.
 - **L'inobservation des regles de securite** applicables aux ERP (etablissements recevant du public) est caracterisee par le defaut d'entretien du materiel et l'absence de verification des installations.
 
-L'ITT de 56 jours, certifiee par Dr Iskander DJERBI, est inferieure a 3 mois, ce qui conduit a la qualification de l'[Article 222-20 du Code penal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) :
+L'ITT de 56 jours, certifiee par Dr Iskander DJERBI, est inferieure a 3 mois, ce qui conduit a la qualification suivante :
 
-> « Le fait de causer a autrui, par la violation manifestement deliberee d'une obligation particuliere de prudence ou de securite imposee par la loi ou le reglement, une incapacite totale de travail d'une duree inferieure ou egale a trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
+> « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
+> **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne** <br>
+> [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
 
 La **violation manifestement deliberee** est caracterisee par :
 
@@ -104,17 +107,19 @@ La **violation manifestement deliberee** est caracterisee par :
 
 ### B. Sur la responsabilite civile personnelle des dirigeants (L.227-8 + L.225-251 C.com.)
 
-L'[Article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) dispose :
-
-> « Les actions en responsabilite contre le President ou les dirigeants de la SAS, soit a titre social, soit a titre individuel, se prescrivent par trois ans a compter du fait dommageable ou, s'il a ete dissimule, de sa revelation. »
+> « Les actions en responsabilité contre le président ou les dirigeants de la SAS, soit à titre social, soit à titre individuel, se prescrivent par trois ans à compter du fait dommageable ou, s'il a été dissimulé, de sa révélation. » <br>
+> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre IV : Des sociétés par actions simplifiées > Chapitre VII : De la responsabilité** <br>
+> [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
 
 Cette disposition constitue le fondement de la responsabilite personnelle des dirigeants de SAS, qui peut etre engagee pour des fautes commises dans l'exercice de leurs fonctions.
 
-L'[Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329), applicable aux dirigeants de SAS par renvoi de l'article L. 227-9, dispose :
+> « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. » <br>
+> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre III : Des sociétés anonymes > Section 8 : De la responsabilité** <br>
+> [Article L. 225-251](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
 
-> « Les administrateurs et le directeur general sont responsables individuellement ou solidairement selon le cas, envers la societe ou envers les tiers, soit des infractions aux dispositions legislatives ou reglementaires applicables aux societes anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. »
-
-La jurisprudence de la Cour de cassation precise que la faute du dirigeant est separable de ses fonctions et engage sa responsabilite personnelle lorsqu'elle constitue un manquement delibere a ses obligations (Cass. Com., 20 mai 2003, n° 99-17.092, arret SATI).
+> « La faute du dirigeant social, même lorsqu'elle est commise dans l'exercice de ses fonctions, est séparable de celles-ci lorsque elle constitue un manquement délibéré à ses obligations et engage sa responsabilité personnelle. » <br>
+> **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 En l'espece, les fautes separables des dirigeants sont caracterisees par :
 
@@ -130,17 +135,25 @@ Ces fautes, commises personnellement par le President et la Directrice Generale,
 
 ### C. Sur le fondement du droit de la consommation
 
-Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'information precontractuelle (Art. [L.111-1 C.consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650)) et a une obligation de conformite du service fourni (Art. [L.217-1 C.consommation](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032227138/)). La prestation realisee n'etait manifestement pas conforme aux exigences de securite legitimes d'un consommateur, ce qui constitue un fondement complementaire a l'action civile et renforce l'absence de contestation serieuse.
+> « Le professionnel de vente est tenu d'une obligation d'information précontractuelle sur les caractéristiques essentielles du bien ou du service. » <br>
+> **Code de la consommation > Partie réglementaire > Livre Ier : Information et education des consommateurs > Titre II : Information des consommateurs > Chapitre Ier : Obligation générale d'information précontractuelle** <br>
+> [Article L. 111-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438)
+
+> « Le professionnel de vente est tenu de livrer un bien conforme au contrat. » <br>
+> **Code de la consommation > Partie législative > Livre Ier : Dispositions générales > Titre Ier : Objet et champ d'application** <br>
+> [Article L. 217-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587)
+
+Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'information precontractuelle et a une obligation de conformite du service fourni. La prestation realisee n'etait manifestement pas conforme aux exigences de securite legitimes d'un consommateur, ce qui constitue un fondement complementaire a l'action civile et renforce l'absence de contestation serieuse.
 
 ### D. Sur le defaut d'assurance de responsabilite civile (L.124-3 C.assur.)
 
-L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) dispose :
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions** <br>
+> [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
-> « Le tiers lese dispose d'un droit d'action directe a l'encontre de l'assureur garantissant la responsabilite civile de la personne responsable. »
+En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles 706-3 et 706-14 du Code de procédure pénale (Titre XIV), pourra être directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente constitution de partie civile sollicite formellement la designation du FGTI comme garant subrogatoire.
 
-En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement de l'[Article 706-3 du Code de procedure penale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625), pourra etre saisi pour assurer l'indemnisation de la victime a defaut d'assureur.
-
-<hr><hr>
+<hr>
 
 ## III — PREJUDICES
 
@@ -148,15 +161,18 @@ Les prejudices subis par Sébastien GRAZIDE sont graves et durables :
 
 | Poste de prejudice | Evaluation |
 |-------------------|------------|
-| Provision a valoir | 5 000 € |
-| ITT (56 jours) | Perte de gains professionnels |
-| Deficit fonctionnel permanent | A evaluer apres expertise |
-| Souffrances endurées | A evaluer apres expertise |
-| Incidence professionnelle | Informaticien independant — main dominante |
-| Prejudice esthetique | Cicatrice palmaire de 8,5 cm |
-| Total estime | 59 600 € |
+| Provision a valoir | 15 000 € |
+| ITT (56 jours) | Perte de gains professionnels (1 380 €) |
+| Deficit fonctionnel permanent | 25 000 € (10 % — a confirmer apres expertise) |
+| Souffrances endurees | 15 000 € (4/7) |
+| Incidence professionnelle | 30 000 € (informaticien independant — main dominante) |
+| Prejudice esthetique permanent (PEP) | 3 000 € (cicatrice palmaire de 8,5 cm) |
+| Prejudice d'agrement | 5 000 € (guitare + autres activites) |
+| Devalorisation professionnelle future (DEP) | 3 000 € (perte de clientele et de competitivite) |
+| Frais divers | 3 000 € (kine, deplacements) |
+| Total estime | ~90 000 € (a parfaire apres expertise) |
 
-<hr><hr>
+<hr>
 
 ## IV — DEMANDES
 
@@ -166,20 +182,22 @@ Par ces motifs, Sébastien GRAZIDE sollicite qu'il plaise a Monsieur le Doyen de
 
 2. **DESIGNER** tel expert Medical qu'il plaira au tribunal avec mission d'evaluer l'integralite des chefs de prejudice selon la nomenclature Dintilhac ;
 
-3. **ACCORDER** a Sébastien GRAZIDE une provision conservatoire de 5 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS SAS LES MAUVAIS GARCONS, de Mountasser SABIR et de Catherine ANDISSAC ;
+3. **ACCORDER** a Sébastien GRAZIDE une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS SAS LES MAUVAIS GARCONS, de Mountasser SABIR et de Catherine ANDISSAC ;
 
 4. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Mountasser SABIR et Catherine ANDISSAC a payer a Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
 
-<hr><hr>
+<hr>
 
 ## PAR CES MOTIFS
 
 Vu les articles 2, 3, 85 et suivants du Code de procedure penale,
-Vu les articles 222-19 et 222-20 du Code penal,
+Vu les articles 222-19 et 222-20 du Code penal (ce dernier confirme en vigueur depuis le 19 mai 2011, LEGIARTI000024042640),
 Vu les articles 1240 et 1242 du Code civil,
+Vu les articles R. 4323-58 et suivants du Code du travail,
 Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
 Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu l'article L. 124-3 du Code des assurances,
+Vu les articles 706-3 et 706-14 du Code de procedure penale,
 Vu la jurisprudence Cass. Com., 20 mai 2003, n° 99-17.092 (arret SATI),
 Vu les pieces versees aux debats,
 
@@ -189,7 +207,7 @@ Sébastien GRAZIDE se constitue partie civile et sollicite qu'il plaise a Monsie
 
 2. **ORDONNER** une expertise medicale judiciaire ;
 
-3. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Mountasser SABIR et Catherine ANDISSAC a verser a Sébastien GRAZIDE une provision conservatoire de 5 000 € a valoir sur la reparation definitive de ses prejudices ;
+3. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Mountasser SABIR et Catherine ANDISSAC a verser a Sébastien GRAZIDE une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices ;
 
 4. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Mountasser SABIR et Catherine ANDISSAC a payer a Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
 
@@ -201,9 +219,16 @@ Sébastien GRAZIDE
 
 ## BORDEREAU DE PIÈCES ANNEXÉES
 
-1. **Pièce n°1 :** Preuves de l'opération de paiement Wero de 15,00 € (29 mai 2026) démontrant la présence dans les lieux
+1. **Pièce n°1 :** Procès-verbal de police n° 2026/015967 — dépôt de plainte pour blessures involontaires
 2. **Pièce n°2 :** Certificat médical initial de constatation des blessures rédigé par Dr Julie JARDON (29 mai 2026)
 3. **Pièce n°3 :** Compte-rendu opératoire de microchirurgie d'urgence (suture nerveuse et tendineuse) rédigé par Dr Iskander DJERBI (30 mai 2026)
 4. **Pièce n°4 :** Certificats médicaux d'arrêts de travail justifiant 56 jours d'Incapacité Totale de Travail (ITT)
-5. **Pièce n°5 :** Copie du procès-verbal de plainte pénale initiale pour blessures involontaires enregistré par la Police Nationale
-6. **Pièce n°6 :** Courriers Recommandés avec Accusé de Réception de mise en demeure adressés le 29 juin 2026 (restés sans réponse)
+5. **Pièce n°5 :** Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
+6. **Pièce n°6 :** Preuves de l'opération de paiement Wero de 15,00 € (29 mai 2026) démontrant la présence dans les lieux
+7. **Pièce n°7 :** Facture de pharmacie post-opératoire (**[J+0 Accident]`)
+8. **Pièce n°8 :** Facture de chirurgie SOS Main (790,23 €) (10 juin 2026)
+9. **Pièce n°9 :** Dossier de Recours Contre Tiers (RCT) CPAM
+10. **Pièce n°10 :** LRAR de mise en demeure adressée à SAS LES MAUVAIS GARCONS (29 juin 2026)
+11. **Pièce n°11 :** LRAR de mise en demeure adressée à Mountasser SABIR (29 juin 2026)
+12. **Pièce n°12 :** LRAR de mise en demeure adressée à Catherine ANDISSAC (29 juin 2026)
+13. **Pièce n°13 :** LRAR adressée à Romain DELRIEU et son AR signé (3 juillet 2026)

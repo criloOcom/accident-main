@@ -54,7 +54,7 @@ Sa chute a entraine sur ma main droite une plaie palmaire profonde avec lesions 
 - [II — MANQUEMENTS CONSTATES](#ii--manquements-constates)
 - [III — DEMANDE D'ENQUETE](#iii--demande-denquete)
 
-<hr><hr>
+<hr>
 
 ## I — RAPPEL DES FAITS
 
@@ -65,7 +65,7 @@ L'accident est survenu dans les conditions suivantes :
 - La vasque en ceramique, instable et presentant une cassure preexistante, a bascule sous son poids
 - Ma main droite a heurte la cassure, entrainant une plaie grave
 
-<hr><hr>
+<hr>
 
 ## II — MANQUEMENTS CONSTATES
 
@@ -91,7 +91,7 @@ Les manquements suivants sont susceptibles de relever de la competence du CODAF 
 - Possibilite de sous-capitalisation volontaire pour limiter la responsabilite
 - Dissociation entre siege social (Foix) et domiciliation des dirigeants (Foix et Toulouse)
 
-<hr><hr>
+<hr>
 
 ## III — DEMANDE D'ENQUETE
 

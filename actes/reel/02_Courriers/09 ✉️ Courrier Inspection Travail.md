@@ -36,7 +36,7 @@ Foix, le 5 juillet 2026
 
 Objet : Demande d'information sur les diligences d'enquete — Accident du 29 mai 2026 au salon SAS LES MAUVAIS GARCONS
 
-Reff : Signalement effectue par la mairie de Foix aupres de la Prefecture de l'Ariege le 1er juin 2026
+Ref : Signalement effectue par la mairie de Foix aupres de la Prefecture de l'Ariege le 1er juin 2026
 
 Madame, Monsieur l'Inspecteur du Travail,
 

@@ -31,7 +31,7 @@ Sébastien GRAZIDE
 **Partie concernée :**
 SAS LES MAUVAIS GARCONS
 
-<hr><hr>
+<hr>
 
 ## 2. EXPOSÉ DES FAITS
 
@@ -60,7 +60,7 @@ Il est sollicité qu'il plaise à l'huissier instrumentaire de se rendre sur les
 3.  **La configuration des lieux :** Établir une description détaillée de la configuration spatiale de l'espace de lavage et de son environnement immédiat dans le salon.
 4.  **Prises de photographies :** Illustrer l'ensemble des constatations par des prises de vues photographiques nettes et probantes, qui seront annexées au procès-verbal.
 
-<hr><hr>
+<hr>
 
 ## 5. DISPOSITIF
 

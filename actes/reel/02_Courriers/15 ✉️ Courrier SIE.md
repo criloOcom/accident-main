@@ -26,7 +26,7 @@ Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac
 Courriel : sebastien.grazide@gmail.com
 
-**Service des Impôts des Entreprises de Foix**
+**Service des Impôts des Entreprises de [La Ville de l'Accident]**
 
 [À compléter]
 

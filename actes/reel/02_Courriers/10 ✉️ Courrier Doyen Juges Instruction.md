@@ -4,7 +4,7 @@ date: 2026-07-06
 type: acte
 categorie: procedure
 auteur: La Victime
-destinataire: Doyen des Juges d'Instruction Foix
+destinataire: Doyen des Juges d'Instruction de Foix
 personnes:
 - La Victime
 - L'Exploitant du Commerce (La SAS)
@@ -36,7 +36,7 @@ Courriel : sebastien.grazide@gmail.com
 
 À l'attention de Monsieur le Doyen des Juges d'Instruction
 Tribunal Judiciaire de Foix
-14 Boulevard du Sud — BP 50078
+**[Adresse Tribunal Judiciaire]**
 09008 Foix Cedex
 
 

@@ -6,7 +6,6 @@ categorie: procedure
 auteur: La Victime
 destinataire: Le Chirurgien SOS Main
 personnes:
-- L'Etablissement SOS Main
 - L'Établissement SOS Main
 - La Victime
 - Le Chirurgien SOS Main
@@ -42,7 +41,7 @@ Foix, le 5 juillet 2026
 
 Objet : Demande de certificat medical de consolidation — Accident du 29 mai 2026
 
-Reff : Dossier Sébastien GRAZIDE / Dr Iskander DJERBI
+Ref : Dossier Sébastien GRAZIDE / Dr Iskander DJERBI
 
 Madame, Docteur,
 

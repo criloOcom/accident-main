@@ -29,15 +29,15 @@ Monsieur TAVELLA
 
 Mairie de Foix
 
-45, cours Gabriel Fauré
+**[Adresse de la Mairie]**
 
-09000 Foix
+**[Code Postal de l'Accident]** Foix
 
 Foix, le 5 juillet 2026
 
 Objet : Suite a votre message du 1er juin 2026 — Demande d'information sur les diligences Inspection du Travail et CODAF
 
-Reff : Votre courriel du 1er juin 2026
+Ref : Votre courriel du 1er juin 2026
 
 Monsieur l'Adjoint au Maire,
 

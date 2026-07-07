@@ -34,7 +34,7 @@ statut: preparation
 **[LA VILLE DE L'ACCIDENT] — Tribunal Judiciaire de [LA VILLE DE L'ACCIDENT]**
 
 > **À :** Monsieur le Doyen des Juges d'Instruction
-> **Adresse :** Tribunal Judiciaire de [La Ville de l'Accident], 14 Boulevard du Sud — BP 50078, 09008 [La Ville de l'Accident] Cedex
+> **Adresse :** Tribunal Judiciaire de [La Ville de l'Accident], **[Adresse Tribunal Judiciaire]**, 09008 [La Ville de l'Accident] Cedex
 > **Mode :** Lettre Recommandée avec Accusé de Réception (LRAR)
 
 ## Pièces justificatives à joindre (6 pièces)

@@ -21,7 +21,7 @@ format: Arial JUSTIFIED
 
 # **DOSSIER DE PLAIDOIRIE POUR L'AUDIENCE DE RÉFÉRÉ DU 31 JUILLET 2026**
 
-<hr><hr>
+<hr>
 
 ## 1. FICHE SYNTHÉTIQUE (1 page)
 
@@ -50,33 +50,33 @@ format: Arial JUSTIFIED
 - **Pièce ACQ-04 :** Compte-rendu opératoire attestant de la section tendineuse et nerveuse (30 mai 2026)
 - **Pièce ACQ-17 :** Mises en demeure par Lettres Recommandées avec Accusé de Réception (29 juin 2026)
 
-<hr><hr>
+<hr>
 
 ## 2. CHRONOLOGIE DES FAITS
 
 *Rappel des dates clés démontrant l'urgence et la gravité de la situation.*
 
-- 29 mai 2026 :** Date de l'accident au sein de l'établissement SAS LES MAUVAIS GARCONS. Le préposé Ayoub BENNOURINE monte sur la vasque du bac à shampoing qui bascule. En tentant de le protéger par réflexe, Sébastien GRAZIDE heurte une cassure tranchante préexistante de la vasque. Section des tendons et nerfs de l'index droit.
-- 30 mai 2026 :** Intervention en urgence de microchirurgie à la Clinique de l'Union par Dr Iskander DJERBI.
+- **[J+0 Accident] :** Date de l'accident au sein de l'établissement SAS LES MAUVAIS GARCONS. Le préposé Ayoub BENNOURINE monte sur la vasque du bac à shampoing qui bascule. En tentant de le protéger par réflexe, Sébastien GRAZIDE heurte une cassure tranchante préexistante de la vasque. Section des tendons et nerfs de l'index droit.
+- **[J+1 Chirurgie] :** Intervention en urgence de microchirurgie à la Clinique de l'Union par Dr Iskander DJERBI.
 - **1er juin 2026 :** Dépôt de plainte officiel par la victime (Pièce ACQ-09).
-- 29 juin 2026 :** Envoi des Mises en demeure (LRAR) visant à obtenir l'attestation d'assurance de la SAS (Pièce ACQ-17). Silence radio des dirigeants.
-- 5 juillet 2026 :** Signalements administratifs effectués auprès des diverses autorités (Inspection du Travail, CODAF, etc.) face au refus persistant de coopération de l'employeur.
+- **[J+31 Mises en demeure] :** Envoi des Mises en demeure (LRAR) visant à obtenir l'attestation d'assurance de la SAS (Pièce ACQ-17). Silence radio des dirigeants.
+- **[J+37 Assignation 145] :** Signalements administratifs effectués auprès des diverses autorités (Inspection du Travail, CODAF, etc.) face au refus persistant de coopération de l'employeur.
 - **Date non fixée (à planifier) :** Date de la présente audience de référé pour obtenir l'indemnisation provisionnelle et forcer la communication de la couverture assurantielle.
 
-<hr><hr>
+<hr>
 
 ## 3. DISCUSSION JURIDIQUE STRUCTURÉE
 
 ### A. Responsabilité de plein droit du gardien (Art. 1242 C. civ.)
 
-Sur le fondement de l'[Article 1242 alinéa 1er du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), le gardien de la chose instrument du dommage est responsable de plein droit.
+Sur le fondement de l'article 1242 alinéa 1er du Code civil, le gardien de la chose instrument du dommage est responsable de plein droit.
 - **La vasque = chose instrument du dommage :** Son état de délabrement (cassure préexistante tranchante) et son basculement constituent le rôle actif incontestable dans la réalisation du dommage.
 - **La garde :** SAS LES MAUVAIS GARCONS est le propriétaire et l'exploitant du matériel défectueux.
 - **Absence d'exonération :** La réaction réflexe de sauvegarde de Sébastien GRAZIDE pour éviter la chute du préposé ne constitue en aucun cas une faute. Il n'y a pas non plus de force majeure invocable.
 
 ### B. Action directe contre l'assureur (Art. L.124-3 C. assur.)
 
-La victime bénéficie d'un droit d'action directe et autonome contre l'assureur de responsabilité civile du responsable, selon l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449). L'obstruction de la direction de la SAS à communiquer le nom de cet assureur justifie pleinement cette saisine en référé pour obtenir les informations sous astreinte.
+La victime bénéficie d'un droit d'action directe et autonome contre l'assureur de responsabilité civile du responsable, selon l'article L. 124-3 du Code des assurances. L'obstruction de la direction de la SAS à communiquer le nom de cet assureur justifie pleinement cette saisine en référé pour obtenir les informations sous astreinte.
 
 ### C. Faute détachable des dirigeants (Jurisprudence SATI)
 
@@ -86,20 +86,20 @@ La responsabilité de Mountasser SABIR et Catherine ANDISSAC est directement eng
 
 ### D. Manquement à l'obligation de sécurité
 
-Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant est tenu par une obligation générale de sécurité prévue à l'[Article L. 421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) et aux règles des ERP. Maintenir une vasque brisée et tranchante dans un tel espace constitue une négligence coupable d'une extrême gravité.
+Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant est tenu par une obligation générale de sécurité prévue à l'article L. 421-3 du Code de la consommation et aux règles des ERP. Maintenir une vasque brisée et tranchante dans un tel espace constitue une négligence coupable d'une extrême gravité.
 
-<hr><hr>
+<hr>
 
 ## 4. JURISPRUDENCE CLÉ
 
 L'argumentation développée s'appuie sur une jurisprudence constante :
 
-- **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** [N° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831). Le préposé Ayoub BENNOURINE ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
-- **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322). Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
-- **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** [N° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369). Le refus de communication et l'éventuel défaut d'assurance caractérisent une faute détachable de l'exercice normal des fonctions sociales des dirigeants, justifiant leur condamnation personnelle.
+- **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** N° 97-17.378. Le préposé Ayoub BENNOURINE ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
+- **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** N° 00-82.066. Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
+- **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** N° 99-17.092. Le refus de communication et l'éventuel défaut d'assurance caractérisent une faute détachable de l'exercice normal des fonctions sociales des dirigeants, justifiant leur condamnation personnelle.
 - **Principe de réparation intégrale (Cass. Civ. 2e, 8 juillet 2021) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour Sébastien GRAZIDE, informaticien indépendant, l'incidence professionnelle est majeure.
 
-<hr><hr>
+<hr>
 
 ## 5. PIÈCES À CITER IMPÉRATIVEMENT
 
@@ -109,7 +109,7 @@ Monsieur le Juge, je vous renvoie aux pièces listées dans notre bordereau, et 
 - **Pièce ACQ-17** (AR des mises en demeure) prouvant notre démarche de conciliation restée lettre morte de la part des défendeurs.
 - **Pièce ACQ-09** (Plainte officielle) prouvant les démarches entreprises au pénal par la victime.
 
-<hr><hr>
+<hr>
 
 ## 6. MONTANTS DEMANDÉS
 
@@ -119,7 +119,7 @@ La présente procédure de référé ne vise pas à solder définitivement le do
 - **Provision demandée à l'audience :** 5 000 €
 - **Demande au titre de l'Article 700 du Code de procédure civile :** 3 000 € (frais de justice, avocat et constats)
 
-<hr><hr>
+<hr>
 
 ## 7. QUESTIONS PROBABLES DU JUGE ET RÉPONSES PRÉPARÉES
 
@@ -127,7 +127,7 @@ La présente procédure de référé ne vise pas à solder définitivement le do
 **Réponse :** Monsieur le Juge, l'audience de référé vise à allouer une indemnisation provisionnelle d'urgence pour faire face aux premiers frais et à la perte immédiate d'exploitation. L'évaluation définitive du déficit fonctionnel et de l'incidence professionnelle de Sébastien GRAZIDE nécessite une consolidation médicale (expertise de novembre), justifiant de limiter la demande immédiate à une somme incontestable.
 
 **Q2 : "Avez-vous l'attestation d'assurance de la société SAS LES MAUVAIS GARCONS ?"**
-**Réponse :** Non, Monsieur le Juge. C'est précisément l'une des raisons de notre présence aujourd'hui. Malgré nos lettres recommandées de mise en demeure, les dirigeants font une obstruction manifeste. Nous vous demandons, sur le fondement de l'Article 145 du CPC, de contraindre la partie adverse à fournir ce document sous astreinte financière journalière.
+**Réponse :** Non, Monsieur le Juge. C'est précisément l'une des raisons de notre présence aujourd'hui. Malgré nos lettres recommandées de mise en demeure, les dirigeants font une obstruction manifeste. Nous vous demandons, sur le fondement de l'article 145 du CPC, de contraindre la partie adverse à fournir ce document sous astreinte financière journalière.
 
 **Q3 : "Le préposé était-il véritablement dans l'exercice de ses fonctions lorsqu'il est monté sur le bac ?"**
 **Réponse :** Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'enceinte de l'établissement pendant ses horaires de travail pour accomplir une tâche au profit de l'exploitation. Il bénéficie donc de l'immunité civile selon la jurisprudence Costedoat, et la responsabilité de SAS LES MAUVAIS GARCONS en tant que commettant est pleinement engagée.

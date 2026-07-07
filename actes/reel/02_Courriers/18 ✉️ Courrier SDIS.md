@@ -49,7 +49,7 @@ La presente est adressee a vos services par Sébastien GRAZIDE, victime d'un acc
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
-<hr><hr>
+<hr>
 
 ## OBJET DU SIGNALEMENT
 

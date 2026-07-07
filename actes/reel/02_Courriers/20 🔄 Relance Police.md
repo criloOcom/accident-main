@@ -27,7 +27,7 @@ Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac
 Courriel : sebastien.grazide@gmail.com
 
-**Police Nationale — Commissariat de Foix**
+**Police Nationale — Commissariat de [La Ville de l'Accident]**
 
 [À compléter]
 
@@ -43,7 +43,7 @@ Madame, Monsieur l'Officier de Police Judiciaire,
 
 La presente est adressee a vos services par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS, situe 22 Rue Lafaurie, 09000 Foix a Foix.
 
-<hr><hr>
+<hr>
 
 ## OBJET DE LA RELANCE
 

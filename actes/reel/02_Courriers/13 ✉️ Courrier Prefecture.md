@@ -56,7 +56,7 @@ Cet accident a ete cause par la chute brutale du prepose de l'exploitation depui
 - [III — SIGNALEMENTS TRANSMIS](#iii--signalements-transmis)
 - [IV — DEMANDE DE CONFIRMATION ET DE SUITE](#iv--demande-de-confirmation-et-de-suite)
 
-<hr><hr>
+<hr>
 
 ## I — RAPPEL DES FAITS
 
@@ -66,7 +66,7 @@ Ma main droite, tendue par reflexe, a heurte la cassure preexistante, entrainant
 
 **Cet accident revele de multiples manquements aux regles de securite applicables aux etablissements recevant du public (ERP) et au Code du travail.**
 
-<hr><hr>
+<hr>
 
 ## II — PROCEDURES EN COURS
 
@@ -80,7 +80,7 @@ Plusieurs procedures ont ete engagees a ce jour :
 6. Demande d'enquete a l'Inspection du Travail (DDETS 09 / DREETS Occitanie)
 7. Saisine du CODAF
 
-<hr><hr>
+<hr>
 
 ## III — SIGNALEMENTS TRANSMIS
 
@@ -94,7 +94,7 @@ Je porte par ailleurs a votre connaissance les manquements suivants, constates d
 - Defaut presumee d'assurance RC professionnelle
 - Travail dissimule presume
 
-<hr><hr>
+<hr>
 
 ## IV — DEMANDE DE CONFIRMATION ET DE SUITE
 

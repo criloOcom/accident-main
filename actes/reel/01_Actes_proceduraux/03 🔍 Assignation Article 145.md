@@ -51,7 +51,7 @@ Elle a pour objet d'obtenir, sous astreinte, la communication de la police d'ass
   - [C. Sur le refus caracterise et l'astreinte sollicitee](#c-sur-le-refus-caracterise-et-lastreinte-sollicitee)
 - [PAR CES MOTIFS](#par-ces-motifs)
 
-<hr><hr>
+<hr>
 
 ## I — EXPOSE DES FAITS
 
@@ -59,13 +59,13 @@ Le 29 mai 2026, alors qu'il se trouvait au sein du salon de coiffure exploite pa
 
 Alors que Ayoub BENNOURINE escaladait la vasque en ceramique du bac a shampoing pour acceder au poste de television, l'equipement a bascule. Par reflexe, Sébastien GRAZIDE a tendu la main droite pour proteger le prepose ; sa paume a heurte une cassure majeure preexistante non signalee aux aretes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit ayant necessite une microchirurgie d'urgence le 30 mai 2026.
 
-A la suite de cet accident, Sébastien GRAZIDE a vainement sollicite de SAS LES MAUVAIS GARCONS la communication de l'identite de son assureur de responsabilite civile professionnelle. Ni la societe, ni son President Mountasser SABIR, ni sa Directrice Generale Catherine ANDISSAC n'ont repondu aux courriers recommandes qui leur ont ete adresses le 29 juin 2026 **(Pièces n°7, n°8 et n°9)**.
+A la suite de cet accident, Sébastien GRAZIDE a vainement sollicite de SAS LES MAUVAIS GARCONS la communication de l'identite de son assureur de responsabilite civile professionnelle. Ni la societe, ni son President Mountasser SABIR, ni sa Directrice Generale Catherine ANDISSAC n'ont repondu aux courriers recommandes qui leur ont ete adresses le 29 juin 2026 **(Pièces n°10, n°11 et n°12)**.
 
-L'accuse de reception du courrier recommande adresse au proprietaire des murs, Romain DELRIEU, a ete retourne signe le 3 juillet 2026, mais celui-ci n'a pas davantage communique l'information **(Pièce n°10)**.
+L'accuse de reception du courrier recommande adresse au proprietaire des murs, Romain DELRIEU, a ete retourne signe le 3 juillet 2026, mais celui-ci n'a pas davantage communique l'information **(Pièce n°13)**.
 
 A ce jour, l'identite de l'assureur RC professionnelle de SAS LES MAUVAIS GARCONS demeure inconnue.
 
-<hr><hr>
+<hr>
 
 ## II — DISCUSSION JURIDIQUE
 
@@ -102,9 +102,9 @@ Les demandes amiables de Sébastien GRAZIDE sont restees lettres mortes :
 
 Ce silence delibere caracterise un refus de communiquer qui justifie que soit ordonnee la communication sous astreinte.
 
-L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu : en l'absence de cette information, l'indemnisation d'un prejudice corporel grave evalue a 59 600 € est entierement bloquee.
+L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu : en l'absence de cette information, l'indemnisation d'un prejudice corporel grave evalue a ~90 000 € est entierement bloquee.
 
-<hr><hr>
+<hr>
 
 ## PAR CES MOTIFS
 
@@ -128,16 +128,16 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 
 4. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Mountasser SABIR et Catherine ANDISSAC a payer a Sébastien GRAZIDE la somme de 1 500 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
 
-<hr><hr>
+<hr>
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 
-- **Pièce n°7 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à SAS LES MAUVAIS GARCONS (29 juin 2026)
-- **Pièce n°8 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à Mountasser SABIR (29 juin 2026)
-- **Pièce n°9 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à Catherine ANDISSAC (29 juin 2026)
-- **Pièce n°10 :** Lettre Recommandée avec Accusé de Réception (LRAR) adressée à Romain DELRIEU et son Accusé de Réception signé (3 juillet 2026)
+- **Pièce n°10 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à SAS LES MAUVAIS GARCONS (29 juin 2026)
+- **Pièce n°11 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à Mountasser SABIR (29 juin 2026)
+- **Pièce n°12 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à Catherine ANDISSAC (29 juin 2026)
+- **Pièce n°13 :** Lettre Recommandée avec Accusé de Réception (LRAR) adressée à Romain DELRIEU et son Accusé de Réception signé (3 juillet 2026)
 
-<hr><hr>
+<hr>
 
 Fait a Foix, le 5 juillet 2026.
 
@@ -148,5 +148,6 @@ Sébastien GRAZIDE
 1. Pièce n°1 : Copie du procès-verbal de police n°2026/015967 établi par le Commissariat de [La Ville de l'Accident]
 2. Pièce n°2 : Certificat médical initial du Dr Julie JARDON (SMUR 09) en date du 29 mai 2026
 3. Pièce n°3 : Compte-rendu opératoire du Dr Iskander DJERBI (SOS Main) en date du 30 mai 2026
-4. Pièce n°4 : Mises en demeure par Lettre Recommandée avec Accusé de Réception (LRAR) du 29 juin 2026 adressées à la société et à ses dirigeants (sans AR retournés ou sans réponse)
-5. Pièce n°5 : Preuve de paiement par virement instantané de 15,00 € (et remboursement ultérieur) témoignant de la présence de la victime sur les lieux
+4. Pièce n°4 : Facture de pharmacie post-opératoire (29 mai 2026)
+5. Pièce n°5 : Facture de chirurgie SOS Main (790,23 €) (10 juin 2026)
+6. Pièce n°6 : Preuve de paiement par virement instantané de 15,00 € (et remboursement ultérieur) témoignant de la présence de la victime sur les lieux

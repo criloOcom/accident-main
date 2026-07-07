@@ -43,7 +43,7 @@ Le présent plan d'action et chronologie de la procédure a été établi par S�
 - [Autorités Judiciaires et Policières à Foix](#autorits-judiciaires-et-policires-la-ville-de-laccident)
 - [Services Juridiques et de Santé](#services-juridiques-et-de-sant)
 
-<hr><hr>
+<hr>
 
 ## I. Chronologie et Plan d'Action
 
@@ -63,7 +63,7 @@ Dès juillet 2026, en l'absence de réponse satisfaisante sous 15 jours, une ass
 
 Cette procédure permet de solliciter judiciairement une avance financière (provision) et la nomination d'un expert médical judiciaire pour évaluer les taux de déficit fonctionnel et les souffrances endurées.
 
-Par ailleurs, si la société persiste dans son refus de communiquer les coordonnées de sa compagnie d'assurance, une procédure de référé-communication sur le fondement de l'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) (CPC) sera engagée parallèlement en juillet 2026. Cette action vise à contraindre judiciairement l'exploitant à produire son attestation d'assurance sous astreinte journalière de retard pour permettre l'exercice de l'action directe.
+Par ailleurs, si la société persiste dans son refus de communiquer les coordonnées de sa compagnie d'assurance, une procédure de référé-communication sur le fondement de l'article 145 du Code de procédure civile (CPC) sera engagée parallèlement en juillet 2026. Cette action vise à contraindre judiciairement l'exploitant à produire son attestation d'assurance sous astreinte journalière de retard pour permettre l'exercice de l'action directe.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
@@ -72,31 +72,31 @@ Le second semestre 2026 sera consacré au suivi de l'expertise (notamment le pas
 L'aboutissement prévu est une assignation au fond en septembre pour obtenir un jugement définitif de condamnation de l'assureur d'ici décembre 2026.
 
 
-<hr><hr>
+<hr>
 
 ## II. Fondements Juridiques
 
 ## Responsabilité Civile et Action Directe
 
-L'action repose principalement sur l'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) (responsabilité du fait des choses et du commettant).
+L'action repose principalement sur l'article 1242 du Code civil (responsabilité du fait des choses et du commettant).
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
-La victime exerce son droit propre via l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
+La victime exerce son droit propre via l'article L. 124-3 du Code des assurances.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
 ## Responsabilité des Dirigeants et Mesures d'Instruction
 
-Conformément à [l'Arrêt Sati](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) (Cass. Com., 20 mai 2003), l'action directe est couplée à la mise en cause personnelle des dirigeants pour faute détachable.
+Conformément à l'arrêt Sati (Cass. Com., 20 mai 2003, n° 99-17.092), l'action directe est couplée à la mise en cause personnelle des dirigeants pour faute détachable.
 
 > Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
 > Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
 
-En cas de blocage sur l'identité de l'assureur, l'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) fonde la demande de mesures d'instruction in futurum.
+En cas de blocage sur l'identité de l'assureur, l'article 145 du Code de procédure civile fonde la demande de mesures d'instruction in futurum.
 
 
-<hr><hr>
+<hr>
 
 ## III. Inventaire des Pièces
 
@@ -109,17 +109,17 @@ Le dossier comprend les comptes rendus opératoires du Dr Iskander DJERBI, les c
 Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel défectueux, les photos de l'accident et les témoignages des clients et employés présents.
 
 
-<hr><hr>
+<hr>
 
 ## IV. Contacts et Annuaires
 
 ## Autorités Judiciaires et Policières à Foix
 
-- Tribunal Judiciaire : 2 Rue des Déportés (05 61 65 75 00) / Commissariat : 8 Avenue du 19 Mars 1962 (05 61 65 73 00).
+- Tribunal Judiciaire : **[Adresse Tribunal Judiciaire]** (**[Téléphone Tribunal Judiciaire]**) / Commissariat : **[Adresse Commissariat]** (**[Téléphone Commissariat]**).
 
 ## Services Juridiques et de Santé
 
-- Ordre des Avocats de Foix (05 61 65 00 10) / Huissiers : Étude LAPORTE (05 61 65 70 70) / UMJ de Toulouse.
+- Ordre des Avocats de Foix (**[Téléphone Ordre Avocats]**) / Huissiers : Étude d'Huissiers **[Nom Huissier]** (**[Téléphone Huissier]**) / UMJ de Toulouse.
 
 **Note administrative :** Dès le 15 juillet 2026 (le lendemain de la fin du délai amiable de mise en demeure), délivrance immédiate de l'assignation en référé par commissaire de justice, matérialisant la fin de la phase comminatoire amiable.
 
