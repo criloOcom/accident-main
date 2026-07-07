@@ -63,7 +63,7 @@ Enquête en cours — Procédure pénale [ ... ].
 
 Pour les faits de :
 
-Blessures involontaires ayant entraîné une ITT de 56 jours par la violation manifestement délibérée d'une obligation de sécurité [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) — basculement d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes.
+Blessures involontaires ayant entraîné une ITT de 56 jours par la violation manifestement délibérée d'une obligation de sécurité article 222-20 du Code pénal — basculement d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes.
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
@@ -73,7 +73,7 @@ Je demande au tribunal de condamner la (ou les) personne(s) désignée(s) ci-des
 
 Je demande au tribunal de condamner l'intéressé(e) [ou les intéressé(e)s] à me payer la somme de :
 
-- 3 000 € en remboursement des frais exposés lors de cette procédure ([Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107)).
+- 3 000 € en remboursement des frais exposés lors de cette procédure (article 475-1 du Code de procédure pénale).
 
 Pour justifier le préjudice subi :
 
