@@ -29,9 +29,11 @@ La présente étude d'indemnisation a pour objet d'évaluer l'intégralité des 
 
 Cette évaluation chiffrée, établie poste par poste, tient compte du statut de travailleur indépendant de la victime et de son activité professionnelle déclarée sous le numéro **[L'Identifiant Professionnel de la Victime]**.
 
-L'étude vise à déterminer le montant maximal de l'indemnisation susceptible d'être obtenue, dans le respect du principe de réparation intégrale sans perte ni profit consacré par l'[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571).
+L'étude vise à déterminer le montant maximal de l'indemnisation susceptible d'être obtenue, dans le respect du principe de réparation intégrale sans perte ni profit consacré par l'article 1240 du Code civil.
 
-> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
+> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+> **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II** <br>
+> [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 
 Document rédigé par **[La Victime]**
 
@@ -63,7 +65,7 @@ Document rédigé par **[La Victime]**
 
 ## I. PRINCIPE DE LA RÉPARATION INTÉGRALE
 
-Le droit français de la responsabilité civile consacre le principe de la réparation intégrale sans perte ni profit pour la victime, conformément à l'[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571). Ce principe exige que la victime soit replacée dans la situation exacte où elle se serait trouvée si l'accident n'avait pas eu lieu.
+Le droit français de la responsabilité civile consacre le principe de la réparation intégrale sans perte ni profit pour la victime, conformément à l'article 1240 du Code civil. Ce principe exige que la victime soit replacée dans la situation exacte où elle se serait trouvée si l'accident n'avait pas eu lieu.
 
 L'évaluation s'effectue poste par poste à l'aide de la Nomenclature Dintilhac, outil de référence harmonisé pour les cours françaises.
 
@@ -118,10 +120,12 @@ Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un 
 | Préjudice d'Agrément | 3 000 € | **8 000 €** |
 | Préjudice Esthétique Permanent (PEP) | *(oublié)* | **3 000 €** |
 | Frais divers (kiné, déplacements) | *(oublié)* | **2 000 €** |
-| Frais d'assistance ([Article 700 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)) | 3 000 € | 4 000 € |
+| Frais d'assistance (Article 700 CPC) | 3 000 € | 4 000 € |
 | TOTAL ESTIMATIF | **59 600 €** | **~105 000 €** |
 
-> « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. »
+> « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. » <br>
+> **Code de procédure civile > Partie législative > Livre II > Titre Ier > Chapitre Ier > Section 2** <br>
+> [Article 700](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
 
 <hr>
 
@@ -129,24 +133,27 @@ Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un 
 
 ### A. Capitalisation des dépenses de santé futures
 
-L'arrêt [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) confirme le droit à une capitalisation des dépenses futures sans contrôle restrictif de l'assureur, garantissant la libre disposition des fonds par la victime.
+L'arrêt Cass. Civ. 2e, 4 avril 2024, n° 22-19.307 confirme le droit à une capitalisation des dépenses futures sans contrôle restrictif de l'assureur, garantissant la libre disposition des fonds par la victime.
 
-> Attendu : « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »
-> Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
+> « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. » <br>
+> **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307** <br>
+> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
 
 ### B. Aggravation du dommage
 
-Selon l'arrêt [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126), toute aggravation médicale ultérieure ouvre un nouveau droit à réparation, l'assureur initial restant garant du sinistre.
+Selon l'arrêt Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106, toute aggravation médicale ultérieure ouvre un nouveau droit à réparation, l'assureur initial restant garant du sinistre.
 
-> Attendu : « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »
-> Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
+> « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. » <br>
+> **Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106** <br>
+> [Arrêt n°20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
 
 ### C. Incidence professionnelle
 
-La jurisprudence [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) rappelle que l'incidence professionnelle est un préjudice distinct indemnisant notamment la dévalorisation sociale ressentie par la victime du fait de son exclusion du monde du travail.
+La jurisprudence Cass. Civ. 2e, 6 mai 2021, n° 19-23.173 rappelle que l'incidence professionnelle est un préjudice distinct indemnisant notamment la dévalorisation sociale ressentie par la victime du fait de son exclusion du monde du travail.
 
-> Attendu : « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. »
-> Résumé : L'indemnisation au titre de l'incidence professionnelle est cumulable avec la perte de gains professionnels futurs et répare la dévalorisation sur le marché de l'emploi et l'exclusion sociale qui en découlent.
+> « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. » <br>
+> **Cour de cassation, 2e chambre civile, 6 mai 2021, n° 19-23.173** <br>
+> [Arrêt n°19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
 
 <hr>
 
@@ -158,10 +165,10 @@ Les arrêts suivants, déjà intégrés dans le dossier, confirment la cohérenc
 
 | Arrêt | Principe | Application au dossier |
 |-------|----------|----------------------|
-| [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) | Capitalisation des dépenses de santé futures sans contrôle restrictif de l'assureur. | Appuie la demande de provision pour frais futurs (rééducation, matériel ergonomique). |
-| [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) | Aggravation du dommage : toute aggravation médicale ultérieure ouvre un nouveau droit à réparation. | Permet de réévaluer le préjudice en cas d'aggravation après expertise initiale. |
-| [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) | Incidence professionnelle : poste distinct indemnisant la dévalorisation sur le marché du travail. | Confirme l'IP de 15 000 € (dévalorisation en tant qu'informaticien indépendant). |
-| [Cass. Civ. 1ère, 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) | Libre disposition des indemnités : la victime peut utiliser les fonds sans contrôle du responsable. | Justifie que les 59 600 € demandés peuvent être librement affectés (rééducation, aménagement ergonomique). |
+| Cass. Civ. 2e, 4 avril 2024, n° 22-19.307 | Capitalisation des dépenses de santé futures sans contrôle restrictif de l'assureur. | Appuie la demande de provision pour frais futurs (rééducation, matériel ergonomique). |
+| Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106 | Aggravation du dommage : toute aggravation médicale ultérieure ouvre un nouveau droit à réparation. | Permet de réévaluer le préjudice en cas d'aggravation après expertise initiale. |
+| Cass. Civ. 2e, 6 mai 2021, n° 19-23.173 | Incidence professionnelle : poste distinct indemnisant la dévalorisation sur le marché du travail. | Confirme l'IP de 15 000 € (dévalorisation en tant qu'informaticien indépendant). |
+| Cass. Civ. 1ère, 8 décembre 2021, n° 20-16.463 | Libre disposition des indemnités : la victime peut utiliser les fonds sans contrôle du responsable. | Justifie que les 59 600 € demandés peuvent être librement affectés (rééducation, aménagement ergonomique). |
 
 <hr>
 
@@ -191,11 +198,11 @@ Cette étude souligne la nécessité d'une réparation intégrale tenant compte 
 
 ## ANNEXES ET SOURCES JURIDIQUES
 
-- [Article 1240 du Code civil - Responsabilité pour faute.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-- **[Nomenclature Dintilhac]** - Référentiel des préjudices.
-- [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307 - Libre disposition des indemnités.](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
-- [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106 - Réserves d'aggravation.](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
-- [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173 - Incidence professionnelle (dévalorisation sociale).](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
+- Article 1240 du Code civil — Responsabilité pour faute
+- Nomenclature Dintilhac — Référentiel des préjudices
+- Cass. Civ. 2e, 4 avril 2024, n° 22-19.307 — Libre disposition des indemnités
+- Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106 — Réserves d'aggravation
+- Cass. Civ. 2e, 6 mai 2021, n° 19-23.173 — Incidence professionnelle (dévalorisation sociale)
 
 Pour justifier solidement l'Incidence Professionnelle de 30 000 €, il convient d'annexer au dossier d'expertise des devis précis pour l'acquisition d'outils d'accessibilité (logiciel de dictée vocale Dragon Professionnel, clavier ergonomique scindé, souris verticale).
 
