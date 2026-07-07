@@ -217,7 +217,7 @@ format: Arial JUSTIFIED
 
 ### Pièce n° 38
 
-- **26/01/1993** — Cour de cassation (Ch. Com.) : [Arrêt n° 91-11.285](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007030228) — survie de la personnalité morale d'une société pour les besoins de sa liquidation.
+- **26/01/1993** — Cour de cassation (Ch. Com.) : Arrêt n° 91-11.285 — survie de la personnalité morale d'une société pour les besoins de sa liquidation.
 - **14/12/2001** — Cour de cassation (Ass. Plén.) : Arrêt Cousin (n° 00-82.066) — levée de l'immunité du préposé en cas d'infraction pénale intentionnelle.
 - **20/05/2003** — Cour de cassation (Ch. Com.) : Arrêt SATI (n° 99-17.092) — définition de la faute détachable du dirigeant.
 - **04/04/2024** — Cour de cassation (Civ. 2e) : Arrêt n° 22-19.307 — capitalisation sans contrôle de l'assureur.

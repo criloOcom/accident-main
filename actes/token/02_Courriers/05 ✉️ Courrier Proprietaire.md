@@ -98,7 +98,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 1. D'obtenir les informations nécessaires à l'identification de l'assureur de responsabilité civile ;
 
-2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat ([Article L. 113-2, 4° du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)), lequel devra répondre dans un délai raisonnable ;
+2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat (article L. 113-2, 4° du Code des assurances), lequel devra répondre dans un délai raisonnable ;
 
 > « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. » <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré** <br>

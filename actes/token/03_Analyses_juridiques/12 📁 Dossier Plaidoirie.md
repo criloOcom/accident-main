@@ -94,9 +94,9 @@ Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant 
 
 L'argumentation développée s'appuie sur une jurisprudence constante :
 
-- **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** [N° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831). Le préposé **[Le Préposé de l'Exploitation]** ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
-- **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322). Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
-- **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** [N° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369). Le refus de communication et l'éventuel défaut d'assurance caractérisent une faute détachable de l'exercice normal des fonctions sociales des dirigeants, justifiant leur condamnation personnelle.
+- **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** N° 97-17.378. Le préposé **[Le Préposé de l'Exploitation]** ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
+- **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** N° 00-82.066. Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
+- **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** N° 99-17.092. Le refus de communication et l'éventuel défaut d'assurance caractérisent une faute détachable de l'exercice normal des fonctions sociales des dirigeants, justifiant leur condamnation personnelle.
 - **Principe de réparation intégrale (Cass. Civ. 2e, 8 juillet 2021) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour **[La Victime]**, informaticien indépendant, l'incidence professionnelle est majeure.
 
 <hr>
