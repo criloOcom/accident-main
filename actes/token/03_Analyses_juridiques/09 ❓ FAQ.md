@@ -36,11 +36,13 @@ Rédigé le **[J+32 Assignation référé]**
 
 La présente synthèse juridique et FAQ a été rédigée par **[La Victime]** dans le cadre du contentieux l'opposant à **[L'Exploitant du Commerce (La SAS)]** à la suite de l'accident corporel du **[J+0 Accident]**.
 
-Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de l'[Article 1231-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032010123), la responsabilité délictuelle sur le fondement de l'[Article 1240 du même code](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571), ainsi que la garantie des vices cachés prévue à l'[Article 1641 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924).
+Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de l'article 1231-1 du Code civil, la responsabilité délictuelle sur le fondement de l'article 1240 du même code, ainsi que la garantie des vices cachés prévue à l'article 1641 du Code civil.
 
 La présente synthèse répond en outre aux questions pratiques que la victime est susceptible de se poser dans le cadre de la conduite de son dossier.
 
-> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
+> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+> **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II** <br>
+> [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 
 <hr>
 
@@ -84,37 +86,48 @@ Malgré une intervention de microchirurgie réalisée le **[J+1 Chirurgie]** à 
 
 ### Q : Le gérant peut-il refuser de me donner le nom de sa compagnie d'assurance ?
 
-Non, ce refus est abusif et contraire au principe de loyauté. La victime dispose d'un droit d'action directe contre l'assureur ([Art. L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)). Si le gérant fait obstruction, la victime peut obtenir du juge des référés ([Art. 145 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)) une injonction de communiquer l'attestation d'assurance sous astreinte financière quotidienne.
+Non, ce refus est abusif et contraire au principe de loyauté. La victime dispose d'un droit d'action directe contre l'assureur (Art. L. 124-3 du Code des assurances). Si le gérant fait obstruction, la victime peut obtenir du juge des référés (Art. 145 CPC) une injonction de communiquer l'attestation d'assurance sous astreinte financière quotidienne.
 
-> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
+> **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier** <br>
+> [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
-> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
+> **Code de procédure civile > Partie législative > Livre II > Titre VII > Section I** <br>
+> [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
 ### Q : Quelles sont les obligations de déclaration de la société suite à l'accident ?
 
-La société doit obligatoirement déclarer l'accident corporel à son assureur RC sous 5 jours ouvrés ([Art. L. 113-2 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)).
+La société doit obligatoirement déclarer l'accident corporel à son assureur RC sous 5 jours ouvrés (Art. L. 113-2 du Code des assurances).
 
 De plus, elle doit consigner l'incident dans son registre de sécurité interne d'ERP (Établissement Recevant du Public).
 
 Le fait de cacher l'accident à son assureur ou de refuser de communiquer les coordonnées constitue une faute de gestion caractérisée des dirigeants.
 
-> « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. »
+> « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. » <br>
+> **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre III** <br>
+> [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)
 
 
 <hr>
 
 ## III. STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
 
-La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la **[L'Exploitant du Commerce (La SAS)]** est engagée en tant que commettant du fait de son préposé, sur le fondement de l'[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
+La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la **[L'Exploitant du Commerce (La SAS)]** est engagée en tant que commettant du fait de son préposé, sur le fondement de l'article 1242 du Code civil, mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
 
-> « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
+> « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. » <br>
+> **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II** <br>
+> [Article 1242](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
 
-Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence [Cass. Com., 20 mai 2003, n° 99-17.092 ([Arrêt Sati](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369))](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369), **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'[Article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036).
+Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
 
-> « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »
+> « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
+> **Code de commerce > Partie législative > Livre V > Titre II > Chapitre Ier > Section 5 > Sous-section 3** <br>
+> [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
 
-> Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
-> Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
+> « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. » <br>
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
+> [Arrêt Sati — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 Enfin, le propriétaire des murs, **[Le Propriétaire des Murs]**, a été sollicité par LRAR le **[J+31 Mises en demeure]** non pas en tant que responsable de l'accident, mais comme source d'information : le bail commercial l'oblige à détenir l'attestation d'assurance RC Pro de son locataire (la SAS). À ce jour, l'AR a été retourné signé mais sans réponse sur le fond.
 
@@ -133,21 +146,25 @@ Sur le plan civil, plusieurs mises en demeure ont été expédiées le **[J+31 M
 
 - Demande de communication d'assurance au **[propriétaire des murs]** ;
 
-- Action directe contre **[l'assureur de responsabilité civile]** (fondée sur l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)).
+- Action directe contre **[l'assureur de responsabilité civile]** (fondée sur l'article L. 124-3 du Code des assurances).
 
 <hr>
 
 ## V. CALENDRIER ET DÉLAIS DE PROCÉDURE
 
-La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jours pour répondre aux mises en demeure avant l'engagement d'un référé-provision sur le fondement de l'[Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
+La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jours pour répondre aux mises en demeure avant l'engagement d'un référé-provision sur le fondement de l'article 835 du Code de procédure civile.
 
-> « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
+> « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. » <br>
+> **Code de procédure civile > Partie législative > Livre II > Titre III > Chapitre Ier** <br>
+> [Article 835](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
 
 Une étape cruciale est fixée au **[J+167 Expertise UMJ]** pour l'expertise médicale à l'UMJ de **[La Métropole Régionale]**, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à 59 600 €).
 
-À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation ([Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259)).
+À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation (Article 2226 du Code civil).
 
-> « L'action en responsabilité née d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices, se prescrit par dix ans à compter de la date de la consolidation du dommage corporel initial ou aggravé. »
+> « L'action en responsabilité née d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices, se prescrit par dix ans à compter de la date de la consolidation du dommage corporel initial ou aggravé. » <br>
+> **Code civil > Partie législative > Livre III > Titre XX > Chapitre II > Section 2** <br>
+> [Article 2226](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259)
 
 
 <hr>
@@ -162,8 +179,10 @@ Néanmoins, l'action directe et la responsabilité personnelle des dirigeants co
 
 *Q15 : Que se passe-t-il si **[L'Exploitant du Commerce (La SAS)]** est mise en liquidation ou radiée pendant la procédure ?*
 
-*Réponse : La personnalité morale de la société survit pour les besoins de la liquidation ([Art. L. 237-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063)).
+*Réponse : La personnalité morale de la société survit pour les besoins de la liquidation (Art. L. 237-2 du Code de commerce).
 
-De plus, l'action directe contre l'assureur ([Art. L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)) est autonome et reste recevable même après la dissolution ou la liquidation de l'entreprise responsable, garantissant l'indemnisation finale par la compagnie d'assurance.*
+De plus, l'action directe contre l'assureur (Art. L. 124-3 du Code des assurances) est autonome et reste recevable même après la dissolution ou la liquidation de l'entreprise responsable, garantissant l'indemnisation finale par la compagnie d'assurance.*
 
-> « La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la clôture de celle-ci. »
+> « La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la clôture de celle-ci. » <br>
+> **Code de commerce > Partie législative > Livre V > Titre IV > Chapitre IV > Section 3** <br>
+> [Article L. 237-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063)
