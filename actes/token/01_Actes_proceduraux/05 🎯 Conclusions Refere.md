@@ -126,7 +126,7 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 - les frais médicaux et paramédicaux passés et à venir : 5 000 € ;
 - une provision au titre des souffrances endurées : 5 000 € ;
 - une provision au titre de l'incidence professionnelle : 1 620 € ;
-- les frais irrépétibles au sens de l'article 700 du Code de procédure civile : 2 000 €.
+- les frais irrépétibles au sens de l'article 700 du Code de procédure civile : 3 000 €.
 
 **II.** De condamner la société défenderesse au paiement d'une **astreinte de 100 € par jour de retard** à compter de l'expiration d'un délai de huit jours à compter de la signification de l'ordonnance.
 
@@ -152,7 +152,7 @@ Cette version a été rédigée à partir du mémoire juridique produit par l'as
 
 | Point | Version antérieure | Version Glose | Version finale |
 |---|---|---|---|---|
-| Provision | 5 000 € | 8 000 € | **15 000 €** (PGPA 1 380 + frais méd. 5 000 + SE 5 000 + IP 1 620 + art. 700 2 000) |
+| Provision | 5 000 € | 8 000 € | **15 000 €** (PGPA 1 380 + frais méd. 5 000 + SE 5 000 + IP 1 620 + art. 700 3 000) |
 | Astreinte | (non spécifiée) | 100 €/jour | 100 €/jour |
 | Art. 145 CPC | Expertise médicale | Expertise médicale + comm. assurance | Expertise médicale + comm. assurance |
 | Art. R. 4323-58 CT | *(absent)* | *(absent)* | **Ajouté** (violation norme impérative) |

@@ -11,7 +11,7 @@ format: Arial JUSTIFIED
 **Quoi :** Accident corporel survenu le 29 mai 2026. Lésions graves à la main droite (section partielle du tendon fléchisseur, du paquet collatéral et nécessité d'une neurolyse du nerf palmaire de l'index droit).
 **Contre qui :** SAS LES MAUVAIS GARÇONS (exploitante du commerce) ainsi que ses dirigeants agissant à titre personnel (faute détachable).
 **Où en est-on :** La phase amiable s'est clôturée le 14 juillet 2026 suite à des mises en demeure restées infructueuses. Une assignation en référé est initiée (audience à fixer).
-**Montant total estimé des préjudices :** 59 600 €
+**Montant total estimé des préjudices :** ~90 000 €
 
 <hr><hr>
 
@@ -96,12 +96,15 @@ D'après la Matrice des Preuves, le dossier médical et procédural est solide (
 
 ## 6. Évaluation Financière Détaillée
 
-Le montant total estimé des préjudices est de **59 600 €**, réparti comme suit :
-- **PGPA (Pertes de Gains Professionnels Actuels) :** 1 400 € (Calculé au prorata réel sur 56 jours d'ITT)
-- **IP (Invalidité Permanente / AIPP) :** 15 000 € (Montant provisionnel demandé en phase amiable)
-- **DFP (Déficit Fonctionnel Permanent) :** 25 200 € (Plus gros poste d'indemnisation lié à la perte de mobilité de l'index)
-- **SE (Souffrances Endurées) :** 12 000 € (Liées à l'intervention chirurgicale et à la rééducation)
-- **Préjudice d'Agrément :** 3 000 € (Impact sur la vie courante/loisirs)
+Le montant total estimé des préjudices est de **~90 000 €**, réparti comme suit :
+- **PGPA (Pertes de Gains Professionnels Actuels) :** 1 380 € (Calculé au prorata réel sur 56 jours d'ITT)
+- **IP (Invalidité Permanente / AIPP) :** 30 000 € (Méthode BIBAL — indemnisation indépendants)
+- **DFP (Déficit Fonctionnel Permanent) :** 25 000 € (10 % — barème Mornet 2024)
+- **SE (Souffrances Endurées) :** 15 000 € (4/7 — intervention chirurgicale et rééducation)
+- **Préjudice d'Agrément :** 5 000 € (Impact sur la vie courante/loisirs)
+- **PEP (Préjudice Esthétique Permanent) :** 3 000 € (Cicatrice palmaire 8,5 cm)
+- **DEP (Dévalorisation Professionnelle Future) :** 3 000 € (Perte de clientèle et compétitivité)
+- **Frais divers :** 3 000 € (Kiné, déplacements)
 - **Article 700 CPC :** 3 000 € (Frais irrépétibles)
 
 <hr><hr>
@@ -109,7 +112,7 @@ Le montant total estimé des préjudices est de **59 600 €**, réparti comme s
 ## 7. Calendrier
 
 - **14 juillet 2026 :** Fin de la phase amiable (échéance des mises en demeure de 15 jours).
-- **[J+32 — assignation référé] :** Audience de référé (demande de provision de 5 000 € et communication sous astreinte de l'assurance RC Pro).
+- **[J+32 — assignation référé] :** Audience de référé (demande de provision de 15 000 € et communication sous astreinte de l'assurance RC Pro).
 - **12 novembre 2026 :** Expertise médicale judiciaire (évaluation des taux de DFP et de l'état de consolidation de **[La Victime]**).
 
 <hr><hr>

@@ -71,7 +71,7 @@ PHASE AMIABLE (terminée)
 PHASE JUDICIAIRE (en cours — TOI seul peux avancer)
   1. [À FAIRE] Trouver un huissier → constat vidéosurveillance + état des lieux
   2. [À FAIRE] Contacter un avocat → déposer assignation référé provision
-  3. [À FAIRE] Fixer audience(s) → provision 5 000 € + Art. 145 assurance
+  3. [À FAIRE] Fixer audience(s) → provision 15 000 € + Art. 145 assurance
   4. [À FAIRE] Envoyer attestations témoins → preuve des faits
   5. [À FAIRE] Relancer Dr DJERBI → certificat consolidation
   ↓

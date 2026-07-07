@@ -35,7 +35,7 @@ Rédigé le **[J+32 Assignation référé]**
 
 La présente assignation en référé-provision et demande d'expertise médicale est introduite par **[La Victime]** à l'encontre de **[L'Exploitant du Commerce (La SAS)]**, personne morale exploitant un salon de coiffure, pris en la personne de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, et personnellement contre ces derniers, au sein duquel la victime a subi un grave accident corporel le **[J+0 Accident]**. 
 
-Par cet acte, **[La Victime]** sollicite du président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, l'allocation d'une provision de 5 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de l'[Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
+Par cet acte, **[La Victime]** sollicite du président du Tribunal Judiciaire de **[La Ville de l'Accident]**, statuant en référé, l'allocation d'une provision de 15 000 € à valoir sur la réparation intégrale de ses préjudices, sur le fondement de l'[Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
 
@@ -149,15 +149,15 @@ L'obligation à réparation de **[L'Exploitant du Commerce (La SAS)]** n'étant 
 
 ### E. Justification du montant de la provision
 
-Le montant de 5 000 € sollicité à titre de provision est justifié par les éléments suivants :
+Le montant de 15 000 € sollicité à titre de provision est justifié par les éléments suivants :
 
 **1. Le montant se situe dans la fourchette basse des provisions usuelles**
 
-Le référentiel indicatif des cours d'appel fixe la fourchette des provisions pour blessures légères à modérées entre **5 000 € et 20 000 €**. Le cas d'**[La Victime]** (section tendineuse et nerveuse de la main droite dominante, intervention chirurgicale lourde, ITT de 56 jours, séquelles nerveuses persistantes, absence de consolidation) se situe dans cette catégorie. La demande de 5 000 € constitue le **minimum de cette fourchette**.
+Le référentiel indicatif des cours d'appel fixe la fourchette des provisions pour blessures légères à modérées entre **10 000 € et 20 000 €**. Le cas d'**[La Victime]** (section tendineuse et nerveuse de la main droite dominante, intervention chirurgicale lourde, ITT de 56 jours, séquelles nerveuses persistantes, absence de consolidation) se situe dans cette catégorie. La demande de 15 000 € constitue le **minimum de cette fourchette**.
 
 **2. La provision est proportionnée au préjudice global estimé**
 
-Le préjudice global est estimé à **59 600 €** selon la nomenclature Dintilhac (PGPA : 1 400 €, DFP : 25 200 €, SE : 12 000 €, IP : 15 000 €, Préjudice d'agrément : 3 000 €, Frais art. 700 CPC : 3 000 €). Ce montant correspond à l'évaluation détaillée figurant au sein de l'étude d'indemnisation produite par la victime. La provision de 5 000 € représente moins de **10 % du préjudice total**, ce qui est raisonnable et proportionné.
+Le préjudice global est estimé à **~90 000 €** selon la nomenclature Dintilhac (PGPA : 1 380 €, DFP : 25 000 €, SE : 15 000 €, IP : 30 000 €, Préjudice d'agrément : 5 000 €, PEP : 3 000 €, DEP : 3 000 €, Frais divers : 3 000 €, Frais art. 700 CPC : 3 000 €). Ce montant correspond à l'évaluation détaillée figurant au sein de l'étude d'indemnisation produite par la victime. La provision de 15 000 € représente moins de **20 % du préjudice total**, ce qui est raisonnable et proportionné.
 
 **3. La provision inclut une part *ad litem***
 
@@ -192,24 +192,30 @@ Il est donc demandé au juge des référés d'ordonner à **[L'Exploitant du Com
 **[La Victime]** est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.
 
 - **Pertes de Gains Professionnels Actuels (PGPA)** : <br>
-    Evaluées à 1 400 € au titre de la perte de revenus durant les 56 jours d'ITT (sur la base du chiffre d'affaires mensuel moyen de 750 € déclaré à l'URSSAF).
+    Evaluées à 1 380 € au titre de la perte de revenus durant les 56 jours d'ITT (sur la base du chiffre d'affaires mensuel moyen de 750 € déclaré à l'URSSAF).
 
 - **Déficit Fonctionnel Permanent (DFP / AIPP)** : <br>
-    Chiffrage provisionnel et indicatif, sous réserve de consolidation médicale future et d'expertise judiciaire contradictoire. Estimation provisoire sur la base d'un taux de 12 % (25 200 € au barème de capitalisation pour un homme de 44 ans).
+    Chiffrage provisionnel et indicatif, sous réserve de consolidation médicale future et d'expertise judiciaire contradictoire. Estimation provisoire sur la base d'un taux de 10 % (25 000 € au barème de capitalisation pour un homme de 44 ans).
 
 - **Souffrances Endurées (SE)** : <br>
-    Echelonnées à 4/7 en raison de l'accident, de la chirurgie et de la rééducation intensive requise (chiffrées à 12 000 €).
+    Echelonnées à 4/7 en raison de l'accident, de la chirurgie et de la rééducation intensive requises (chiffrées à 15 000 €).
 
 - **Incidence Professionnelle (IP)** : <br>
-    Prévisions d'aménagements ergonomiques spécifiques de poste informatique estimées à 15 000 € (claviers et souris adaptés).
+    Prévisions d'aménagements ergonomiques spécifiques de poste informatique et de dévalorisation professionnelle estimées à 30 000 €.
 
 - **Préjudice d'Agrément** : <br>
-    Estimation à 3 000 € au titre de la privation temporaire des activités personnelles de codage et de la pratique de la guitare.
+    Estimation à 5 000 € au titre de la privation temporaire des activités personnelles de codage et de la pratique de la guitare.
+
+- **Préjudice Esthétique Permanent (PEP)** : <br>
+    Estimation à 3 000 € au titre de la cicatrice palmaire de 8,5 cm.
+
+- **Dévalorisation Professionnelle Future (DEP)** : <br>
+    Estimation à 3 000 € au titre de la perte de clientèle et de compétitivité.
 
 - **Frais Article 700 CPC** : <br>
     Estimation à 3 000 € au titre des frais irrépétibles exposés.
 
-Dans l'attente du dépôt du rapport de l'expert judiciaire, **[La Victime]** sollicite l'allocation d'une provision de 5 000 € à valoir sur l'indemnisation finale de son préjudice corporel.
+Dans l'attente du dépôt du rapport de l'expert judiciaire, **[La Victime]** sollicite l'allocation d'une provision de 15 000 € à valoir sur l'indemnisation finale de son préjudice corporel.
 
 <hr><hr>
 
@@ -234,7 +240,7 @@ Vu les pièces versées aux débats,
 
 5. **SE RÉSERVER** la liquidation de l'astreinte ;
 
-6. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à verser à **[La Victime]** la somme de 5 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
+6. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à verser à **[La Victime]** la somme de 15 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
 
 7. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à payer à **[La Victime]** la somme de 3 000 € sur le fondement de l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647394), ainsi qu'aux entiers dépens.
 

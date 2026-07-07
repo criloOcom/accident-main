@@ -48,9 +48,9 @@
 
 ## Provisions et astreintes
 
-- MONTANT_PROVISION_REFERE : 10 000 € (compromis après mémoire Glose qui recommande 8 000 €)
+- MONTANT_PROVISION_REFERE : 15 000 € (provision référé — conformément aux conclusions)
 - MONTANT_PROVISION_AMIABLE : 15 000 € (demande amiable en mise en demeure)
-- MONTANT_PROVISION_PENALE : 5 000 € (constitution de partie civile)
+- MONTANT_PROVISION_PENALE : 15 000 € (constitution de partie civile)
 - MONTANT_ASTREINTE_REFERE : 100 €/jour (selon recommandation Glose)
 - MONTANT_ASTREINTE_145 : 150 €/jour
 - MONTANT_ARTICLE_700 : 3 000 € (compromis)

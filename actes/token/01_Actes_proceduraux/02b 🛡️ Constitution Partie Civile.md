@@ -149,14 +149,16 @@ Les prejudices subis par **[La Victime]** sont graves et durables :
 
 | Poste de prejudice | Evaluation |
 |-------------------|------------|
-| Provision a valoir | 5 000 € |
-| ITT (56 jours) | Perte de gains professionnels |
-| Deficit fonctionnel permanent | A evaluer apres expertise |
-| Souffrances endurées | A evaluer apres expertise |
-| Incidence professionnelle | Informaticien independant — main dominante |
-| Prejudice esthetique permanent (PEP) | Cicatrice palmaire de 8,5 cm |
-| Devalorisation professionnelle future (DEP) | Perte de clientele et de competitivite |
-| Total estime | 59 600 € (a parfaire apres expertise) |
+| Provision a valoir | 15 000 € |
+| ITT (56 jours) | Perte de gains professionnels (1 380 €) |
+| Deficit fonctionnel permanent | 25 000 € (10 % — a confirmer apres expertise) |
+| Souffrances endurees | 15 000 € (4/7) |
+| Incidence professionnelle | 30 000 € (informaticien independant — main dominante) |
+| Prejudice esthetique permanent (PEP) | 3 000 € (cicatrice palmaire de 8,5 cm) |
+| Prejudice d'agrement | 5 000 € (guitare + autres activites) |
+| Devalorisation professionnelle future (DEP) | 3 000 € (perte de clientele et de competitivite) |
+| Frais divers | 3 000 € (kine, deplacements) |
+| Total estime | ~90 000 € (a parfaire apres expertise) |
 
 <hr><hr>
 
@@ -168,7 +170,7 @@ Par ces motifs, **[La Victime]** sollicite qu'il plaise a Monsieur le Doyen des 
 
 2. **DESIGNER** tel expert Medical qu'il plaira au tribunal avec mission d'evaluer l'integralite des chefs de prejudice selon la nomenclature Dintilhac ;
 
-3. **ACCORDER** a **[La Victime]** une provision conservatoire de 5 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS **[L'Exploitant du Commerce (La SAS)]**, de **[Le President de l'Exploitation]** et de **[La Directrice Generale de l'Exploitation]** ;
+3. **ACCORDER** a **[La Victime]** une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS **[L'Exploitant du Commerce (La SAS)]**, de **[Le President de l'Exploitation]** et de **[La Directrice Generale de l'Exploitation]** ;
 
 4. **CONDAMNER IN SOLIDUM** la SAS **[L'Exploitant du Commerce (La SAS)]**, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a **[La Victime]** la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
 
@@ -193,7 +195,7 @@ Vu les pieces versees aux debats,
 
 2. **ORDONNER** une expertise medicale judiciaire ;
 
-3. **CONDAMNER IN SOLIDUM** la SAS **[L'Exploitant du Commerce (La SAS)]**, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a verser a **[La Victime]** une provision conservatoire de 5 000 € a valoir sur la reparation definitive de ses prejudices ;
+3. **CONDAMNER IN SOLIDUM** la SAS **[L'Exploitant du Commerce (La SAS)]**, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a verser a **[La Victime]** une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices ;
 
 4. **CONDAMNER IN SOLIDUM** la SAS **[L'Exploitant du Commerce (La SAS)]**, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a **[La Victime]** la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
 
@@ -211,3 +213,10 @@ Fait a **[La Ville de Residence de la Victime]**, le **[J+38 Constitution PC]**
 4. **Pièce n°4 :** Certificats médicaux d'arrêts de travail justifiant 56 jours d'Incapacité Totale de Travail (ITT)
 5. **Pièce n°5 :** Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
 6. **Pièce n°6 :** Preuves de l'opération de paiement Wero de 15,00 € (**[J+0 Accident]**) démontrant la présence dans les lieux
+7. **Pièce n°7 :** Facture de pharmacie post-opératoire (**[J+0 Accident]`)
+8. **Pièce n°8 :** Facture de chirurgie SOS Main (790,23 €) (**[J+12 Facture]**)
+9. **Pièce n°9 :** Dossier de Recours Contre Tiers (RCT) CPAM
+10. **Pièce n°10 :** LRAR de mise en demeure adressée à **[L'Exploitant du Commerce (La SAS)]** (**[J+31 Mises en demeure]**)
+11. **Pièce n°11 :** LRAR de mise en demeure adressée à **[Le Président de l'Exploitation]** (**[J+31 Mises en demeure]**)
+12. **Pièce n°12 :** LRAR de mise en demeure adressée à **[La Directrice Générale de l'Exploitation]** (**[J+31 Mises en demeure]**)
+13. **Pièce n°13 :** LRAR adressée à **[Le Propriétaire des Murs]** et son AR signé (**[J+35 AR propriétaire]**)
