@@ -1,6 +1,6 @@
 ---
-titre: Bordereau de pièces (version audience)
-date: 2026-07-06
+titre: Bordereau de pièces (unifié)
+date: 2026-07-07
 type: acte
 categorie: procedure
 auteur: La Victime
@@ -19,7 +19,7 @@ tags:
 - bordereau
 - pieces
 - référé
-statut: brouillon
+statut: final
 source: drive
 drive_id: ''
 format: Arial JUSTIFIED
@@ -157,4 +157,91 @@ format: Arial JUSTIFIED
 
 ---
 
-> *Document mis à jour le **[J+38 Mise à jour]** — Les pièces sont classées par groupe thématique, numérotation séquentielle. Les pièces marquées Gabarit sont à faire remplir par les témoins.*
+## GROUPE G — PIÈCES COMPLÉMENTAIRES
+
+### Pièce n° 26
+
+- **[J+5 Ouverture CPAM]** — Déclaration d'accident CPAM (Ameli) : Déclaration de recours contre tiers enregistrée sous le n° 31713398 contre la SAS **[L'Exploitant du Commerce (La SAS)]**.
+
+### Pièce n° 27
+
+- **[J+1 Chirurgie]** — Frais de séjour SOS Main (GHS) : Frais de séjour et soins dossier CPAM n° **[N° Dossier CPAM]**.
+- **[J+12 Facture]** — Relevé de prestations CPAM : Enregistrement de l'acte de chirurgie (ADC) du **[J+1 Chirurgie]**.
+
+### Pièce n° 28
+
+- **[J+18 Incohérence CPAM]** — Demande de renseignements CPAM (**[La Gestionnaire CPAM]**) : INCOHÉRENCE — dossier n° **[N° Dossier CPAM erroné]** au lieu du n° **[N° Dossier CPAM]**.
+- **18/06/2026** — Note de cadrage médico-légale : Confirmation de la zone lésée (index droit) et du dossier RCT.
+- **[J+21 Contrôle chirurgical]** — Rectification du compte-rendu opératoire : Index droit rétabli, date du **[J+1 Chirurgie]** confirmée.
+
+### Pièce n° 29
+
+- **[J+5 Ouverture CPAM]** — Envoi des volets 1 et 2 d'arrêt de travail : Correction manuelle de l'erreur de date.
+- **05/06/2026** — Déclaration de sinistre corporel aux assurances privées (limite légale de 5 jours).
+- **[J+25 Première kiné]** — Première séance de rééducation spécialisée de la main (SOS Main).
+
+### Pièce n° 30
+
+- **Sans date** — Pansements post-chirurgicaux lourds toutes les 48 heures (Cabinet infirmier **[La Métropole Régionale]**).
+- **12/06/2026** — Consultation de contrôle (**[Le Médecin Généraliste]**) : Planification de la prolongation d'arrêt de travail.
+- **[J+25 Première kiné]** — Consultation de contrôle post-opératoire (**[Le Chirurgien SOS Main]**) : Bonne évolution cicatricielle, déficit neurologique noté.
+
+### Pièce n° 31
+
+- **[J+0 Accident]** — Prescription initiale de 25 jours d'arrêt de travail (**[Le Médecin Généraliste]**).
+
+### Pièce n° 32
+
+- **05/06/2026** — Envoi recommandé d'arrêt de travail (LR n° 870014140507947).
+
+### Pièce n° 33
+
+- **[J+4 Dépôt de plainte]** — Relevés de prestations CPAM Tiers Payant : Dossier **[N° Dossier CPAM]** (seul le NIR présent).
+
+### Pièce n° 34
+
+- **Sans date** — Soins et remboursements CPAM (dossier n° **[N° Dossier CPAM]** et **[N° Dossier CPAM erroné]**) : Frais pharmaceutiques, hospitalisation et arrêts de travail.
+
+### Pièce n° 35
+
+- **[J+4 Dépôt de plainte]** — Information droits des victimes (Ministère de l'Intérieur) : Récépissé et note d'information (avocat, indemnisation, aide juridictionnelle).
+
+### Pièce n° 36
+
+- **Sans date** — Analyse de sinistre corporel : Vasque céramique avec cassure préexistante tranchante (index droit impacté).
+- **[J+4 Dépôt de plainte]** — Remboursement de prestations CPAM : Part complémentaire pour les soins du **[J+0 Accident]**.
+
+### Pièce n° 37
+
+- **Sans date** — Évaluation indiciaire des postes de préjudice : PGPA (1 400 €), SE (12 000 € — 4/7), DFP (25 200 € — 12 %), IP (15 000 €), Préjudice d'agrément (3 000 €).
+
+### Pièce n° 38
+
+- **26/01/1993** — Cour de cassation (Ch. Com.) : [Arrêt n° 91-11.285](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007030228) — survie de la personnalité morale d'une société pour les besoins de sa liquidation.
+- **14/12/2001** — Cour de cassation (Ass. Plén.) : Arrêt Cousin (n° 00-82.066) — levée de l'immunité du préposé en cas d'infraction pénale intentionnelle.
+- **20/05/2003** — Cour de cassation (Ch. Com.) : Arrêt SATI (n° 99-17.092) — définition de la faute détachable du dirigeant.
+- **04/04/2024** — Cour de cassation (Civ. 2e) : Arrêt n° 22-19.307 — capitalisation sans contrôle de l'assureur.
+
+### Pièce n° 39
+
+- **04/11/2024** — Me J. Plouton : Article — TJ Bordeaux (RG 22/05793), brûlure cuir chevelu en salon de coiffure (13 913 €). Responsabilité des salons de coiffure pour manquement à l'obligation de sécurité.
+
+### Pièce n° 40
+
+- **Sans date** — Devis matériels ergonomiques : Logiciel dictée vocale Dragon Professional, clavier ergonomique scindé, souris verticale. Justification du poste IP à 15 000 €.
+
+### Pièce n° 41
+
+- **[J+27 Confirmation kiné]** — Confirmation de rendez-vous de rééducation (Doctolib).
+
+### Pièce n° 42
+
+- **01/05/2026** — Mémo indemnités journalières CPAM (Réf. CPAM 31_2399_05/26).
+
+### Pièce n° 43
+
+- **05/06/2026** — Preuve de dépôt LRAR arrêt de travail (La Poste, **[La Ville de Résidence de la Victime]**) : Décalage de date constaté (vignette 03/06, flash postal 05/06).
+
+---
+
+> *Document mis à jour le **[J+38 Mise à jour]** — Pièces classées par groupe thématique (A-G), numérotation séquentielle unique. Les pièces marquées Gabarit sont à faire remplir par les témoins.*

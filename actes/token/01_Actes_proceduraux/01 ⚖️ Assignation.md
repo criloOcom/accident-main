@@ -74,7 +74,7 @@ PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCI
 
 ## I. EXPOSÉ DES FAITS
 
-Le **[J+0 Accident]**, **[La Victime]** s'est rendu au salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]** pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero (15,00 €) **(Pièce n°1)**.
+Le **[J+0 Accident]**, **[La Victime]** s'est rendu au salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]** pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero (15,00 €) **(Pièce n°6)**.
 
 Alors qu'il se trouvait au bac à shampoing, **[Le Préposé de l'Exploitation]**, qui était monté sur la vasque en céramique, a provoqué le basculement brutal de l'équipement en tentant d'en descendre. Par un réflexe d'assistance pour retenir la chute, **[La Victime]** a tendu sa main droite, qui a heurté une cassure majeure préexistante non signalée sur le flanc de la vasque.
 
@@ -90,7 +90,7 @@ En raison de la gravité des lésions subies à sa main droite dominante (sectio
 
 Cet état de handicap temporaire sévère et documenté explique et justifie le délai nécessaire pour la finalisation de la présente procédure, engagée dès que son état de santé a permis d'entreprendre des démarches de rédaction.
 
-Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du **[J+4 Dépôt de plainte]**) **(Pièce n°5)**. Un dossier de Recours contre Tiers a également été ouvert auprès de la CPAM sous la référence [ ... ] **(Pièce n°6)**.
+Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du **[J+4 Dépôt de plainte]**) **(Pièce n°1)**. Un dossier de Recours contre Tiers a également été ouvert auprès de la CPAM sous la référence [ ... ] **(Pièce n°9)**.
 
 À ce jour, le cumul des arrêts de travail prescrits s'élève à 56 jours d'ITT continue (du **[J+0 Accident]** au **[J+55 Fin d'ITT]** inclus) **(Pièce n°4)**.
 
@@ -165,7 +165,7 @@ La demande inclut implicitement une provision *ad litem* destinée à couvrir le
 
 **4. Absence de contestation sérieuse établie par les faits**
 
-Aucun élément versé aux débats ne permet de contester sérieusement ni la matérialité des faits (PV de police, pièce n°5), ni le lien de causalité direct entre le défaut d'entretien de la vasque en céramique et les lésions constatées (CR opératoire SOS Main, pièce n°3), ni l'existence de la relation commerciale (paiement Wero, pièce n°1). L'obligation à réparation de **[L'Exploitant du Commerce (La SAS)]** n'est donc pas sérieusement contestable au sens de l'article 835 alinéa 2 du Code de procédure civile.
+Aucun élément versé aux débats ne permet de contester sérieusement ni la matérialité des faits (PV de police, pièce n°1), ni le lien de causalité direct entre le défaut d'entretien de la vasque en céramique et les lésions constatées (CR opératoire SOS Main, pièce n°3), ni l'existence de la relation commerciale (paiement Wero, pièce n°6). L'obligation à réparation de **[L'Exploitant du Commerce (La SAS)]** n'est donc pas sérieusement contestable au sens de l'article 835 alinéa 2 du Code de procédure civile.
 
 **5. Jurisprudence**
 
@@ -242,16 +242,19 @@ Vu les pièces versées aux débats,
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 
-- **Pièce n°1 :** Preuves de l'opération de paiement Wero de 15,00 € (**[J+0 Accident]**)
-- **Pièce n°2 :** Certificat médical de premiers soins d'urgence rédigé par **[Le Médecin en Urgence]** (**[J+0 Accident]**)
+- **Pièce n°1 :** Procès-verbal de police n° **[N° PV Police]** (Police Nationale **[La Métropole Régionale]**) — dépôt de plainte pour blessures involontaires
+- **Pièce n°2 :** Certificat médical initial constatant les blessures, rédigé par **[Le Médecin en Urgence]** (**[J+0 Accident]**)
 - **Pièce n°3 :** Compte-rendu opératoire de microchirurgie rédigé par **[Le Chirurgien SOS Main]** (**[J+1 Chirurgie]**)
 - **Pièce n°4 :** Certificats médicaux d'arrêts de travail justifiant 56 jours d'ITT
-- **Pièce n°5 :** Dépôt de plainte officielle et procès-verbal de police pour blessures involontaires
-- **Pièce n°6 :** Dossier de Recours Contre Tiers (RCT) CPAM
-- **Pièce n°7 :** LRAR de mise en demeure adressée à **[L'Exploitant du Commerce (La SAS)]** (**[J+31 Mises en demeure]**)
-- **Pièce n°8 :** LRAR de mise en demeure adressée à **[Le Président de l'Exploitation]** (**[J+31 Mises en demeure]**)
-- **Pièce n°9 :** LRAR de mise en demeure adressée à **[La Directrice Générale de l'Exploitation]** (**[J+31 Mises en demeure]**)
-- **Pièce n°10 :** LRAR adressée à **[Le Propriétaire des Murs]** et son AR signé (**[J+35 AR propriétaire]**)
+- **Pièce n°5 :** Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
+- **Pièce n°6 :** Preuves de l'opération de paiement Wero de 15,00 € (**[J+0 Accident]**)
+- **Pièce n°7 :** Facture de pharmacie post-opératoire (**[J+0 Accident]**)
+- **Pièce n°8 :** Facture de chirurgie SOS Main (790,23 €) (**[J+12 Facture]**)
+- **Pièce n°9 :** Dossier de Recours Contre Tiers (RCT) CPAM
+- **Pièce n°10 :** LRAR de mise en demeure adressée à **[L'Exploitant du Commerce (La SAS)]** (**[J+31 Mises en demeure]**)
+- **Pièce n°11 :** LRAR de mise en demeure adressée à **[Le Président de l'Exploitation]** (**[J+31 Mises en demeure]**)
+- **Pièce n°12 :** LRAR de mise en demeure adressée à **[La Directrice Générale de l'Exploitation]** (**[J+31 Mises en demeure]**)
+- **Pièce n°13 :** LRAR adressée à **[Le Propriétaire des Murs]** et son AR signé (**[J+35 AR propriétaire]**)
 
 <hr><hr>
 

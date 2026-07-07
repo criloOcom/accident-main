@@ -1,6 +1,6 @@
 ---
 titre: Index de l'État Final du Dossier
-date: 2026-06-30
+date: 2026-07-07
 type: acte
 categorie: inventaire
 auteur: La Victime
@@ -25,7 +25,7 @@ format: Arial JUSTIFIED
 
 # INDEX DU DOSSIER **[La Victime]**
 
-Rédigé le **[J+32 Assignation référé]** — Mis à jour le **[J+37 Assignation 145]** (post-intégration)
+Rédigé le **[J+32 Assignation référé]** — Mis à jour le **[J+38 Mise à jour]** (unification bordereau 43 pièces)
 
 ## INTRODUCTION
 
@@ -68,8 +68,11 @@ Partage depuis : **[L'Email de la Victime]**
 
 - 2026-06-29 - 01 ⚖️ Assignation - V1 ✓ Vérifié : Projet d'assignation en référé-provision (5 000 €) fondé sur l'[Article 835 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
 - 2026-06-01 - 02 🚔 Plainte - V1 ✓ Vérifié : Plainte complémentaire défaut assurance RC (victime agissant en qualité de client).
-- 2026-07-05 - 03 🔍 Assignation Article 145 - V1 ✓ Brouillon : Assignation en référé pour communication forcée police d'assurance RC Pro sous astreinte.
-- 2026-07-05 - 04 📑 Bordereau de pieces - V1 ✓ Vérifié : Bordereau récapitulatif des pièces du dossier.
+- 2026-07-07 - 03 🔍 Assignation Article 145 - V1 ✓ Màj : Références pièces mises à jour (nouveau bordereau unifié).
+- 2026-07-07 - 04 📑 Bordereau de pieces unifié - V2 ✓ À jour : Bordereau unifié 43 pièces (groupes A-G) à numérotation séquentielle.
+- 2026-07-05 - 05 🎯 Conclusions Référé - V1 ✓ Vérifié : Conclusions détaillées pour l'audience (en attente de date).
+- 2026-07-05 - 06 📸 Requête Constat Huissier - V1 ✓ Vérifié : Requête aux fins de constat d'huissier (Art. 145 CPC).
+- 2026-07-05 - 07 🛡️ Constitution Partie Civile - V1 ✓ Vérifié : Constitution PC complémentaire avec mises en cause personnelles dirigeants.
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
 
@@ -100,6 +103,8 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-07-05 - 22 📋 Attestation Témoin Client - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
 - 2026-07-05 - 23 📋 Attestation Pompier SAMU - V1 ✓ Vérifié : Gabarit d'attestation d'intervention.
 - 2026-07-05 - 24 📋 Attestation Employé - V1 ✓ Vérifié : Gabarit d'attestation d'employé.
+- 2026-07-05 - 25 📧 Relance Dr DJERBI - V1 ✓ Vérifié : Relance demande certificat médical de consolidation.
+- 2026-07-05 - 26-28 📧 Attestations Témoin - V1 ✓ Vérifié : Attestations témoin (client, pompier, employé) versions réalistes.
 
 <hr><hr>
 
@@ -113,6 +118,8 @@ Et, [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIART
 
 - 2026-06-29 - 09 ❓ FAQ - V1 ✓ Vérifié : Synthèse juridique et questions-réponses.
 - 2026-06-02 - 13 📜 Responsabilites legales - V1 ✓ Vérifié : Analyse sur l'[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
+- 2026-07-05 - 12 📁 Dossier Plaidoirie - V1 ✓ Vérifié : Dossier complet de plaidoirie pour l'audience.
+- 2026-07-05 - 14 Stratégie jurisprudentielle - V1 ✓ Brouillon : Stratégie jurisprudentielle pour l'audience.
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
 <hr><hr>
@@ -120,6 +127,7 @@ Et, [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIART
 ## 04 — Études d'indemnisation
 
 - 2026-06-01 - 11 💰 Etude indemnisation - V1 ✓ Vérifié : Étude d'indemnisation des préjudices corporels selon la **[réparation intégrale]**(https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278).
+- 2026-07-05 - 12 Évaluation Dintilhac détaillée - V1 ✓ Vérifié : Évaluation détaillée de tous les postes de préjudice Dintilhac.
 
 > Attendu : « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »
 > Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
@@ -131,6 +139,7 @@ Et, [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIART
 - 2026-06-01 - 10 🗂️ Plan action - V1 ✓ Vérifié : Plan d'action et chronologie de procédure.
 - 2026-07-05 - 11 📅 Calendrier procedural - V1 ✓ Vérifié : Calendrier procédural et échéances.
 - 2026-06-29 - 00 📇 Index (ce document) ✓ Vérifié : Index et structure du dossier.
+- 2026-07-05 - 20 📦 Bon envoi physique - V1 ✓ Vérifié : Bon d'envoi physique des pièces au tribunal.
 
 <hr><hr>
 
@@ -183,6 +192,9 @@ Documents non indexés conservés dans `archives/` :
 10. Restructuration `actes/` — 00 à 05 + archives ✓
 11. Anciens dossiers `contentieux-civil/` et `contentieux-penal/` supprimés ✓
 12. 06_Annexes/` déplacé dans `archives/annexes/` ✓
+13. Bordereau unifié V2 — fusion Audience + ancien, 43 pièces séquentielles ✓
+14. Références croisées mises à jour dans tous les actes (01, 02b, 03) ✓
+15. Ancien « Bordereau de pieces.md » supprimé ✓
 
 <hr><hr>
 
@@ -217,14 +229,18 @@ Documents non indexés conservés dans `archives/` :
 
 <hr><hr>
 
-## STATISTIQUES DU DOSSIER (màj **[J+37 Assignation 145]**)
+## STATISTIQUES DU DOSSIER (màj **[J+38 Mise à jour]**)
 
-- Nombre total de documents : 16 (dans 00-05) + 21 courriers/gabarits (03-24, hors 10+17 supprimés) + 1 acte (03 Article 145) + 14 (mémoires d'audit) + 8 (archivés) = 60 documents au total
-- Nouveaux fichiers ajoutés : Bordereau, Gabarits (x3), Calendrier, et Mémoires d'audit (x14)
-- Documents vérifiés : 60/60 (100%)
-- Références jurisprudentielles : 7 vérifiées
-- Liens Légifrance ajoutés : 10+
-- **17 courriers rediges** (03-09, 11-16, 18-21), **7 injectés sur Drive** (UNIFIE_ANONYME)
+- Actes procéduraux : **7** (Assignation 01, Plainte 02, Constitution PC 02b, Assignation 145 03, Bordereau unifié 04, Conclusions 05, Constat Huissier 06)
+- Courriers/Gabarits : **24** (03-28, hors 10+17 supprimés)
+- Analyses juridiques : **5** (Plaidoirie 07, FAQ 09, Dossier Plaidoirie 12, Responsabilités 13, Stratégie 14)
+- Études indemnisation : **2** (Étude 11, Évaluation Dintilhac 12)
+- Organisation : **4** (Index 00, Plan 10, Calendrier 11, Bon envoi 20)
+- Mémoires d'audit : **14**
+- Archives : **8** (dont 3 annexes)
+- **Total : ~64 documents**
+- Références jurisprudentielles : 7 vérifiées + 1 doctrine (Me Plouton)
+- Pièces au bordereau unifié : **43 numérotées séquentiellement** (groupes A-G)
 
 *NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à **[La Victime]**. Seule l'Étude d'indemnisation (Piece 03) est conservée dans 04_Etudes_indemnisation.*
 
@@ -232,10 +248,9 @@ Documents non indexés conservés dans `archives/` :
 
 ## TRAVAUX RESTANTS
 
-1. **Injection Drive** — Injecter les courriers 10-21 (hors 10+17 supprimes) + 03 Article 145 sur Drive avec JUSTIFIED.
-2. **Envoi LRAR** — Expedier les courriers 07, 09, 11, 12, 13, 14, 15, 16, 19 par LRAR electronique.
-3. **Envoi emails** — Expedier 08 (Adjoint Maire), 18 (SDIS), 20 (Police), 21 (CPAM).
-4. **Relance SAS/dirigeants** — Attendre le 14 juillet (delai legal 15 jours) avant seconde mise en demeure.
-5. **Dossier de correspondance reelle** — Creer le document de substitution tokens → identites reelles au moment de l'envoi.
+1. **Audience de référé** — Planifier audience (date non fixée).
+2. **Injection Drive** — Mettre à jour les documents sur Drive avec le nouveau bordereau unifié.
+3. **Envoi LRAR** — Expédier les courriers 07, 09, 11, 12, 13, 14, 15, 16, 19 par LRAR électronique.
+4. **Envoi emails** — Expédier 08 (Adjoint Maire), 18 (SDIS), 20 (Police), 21 (CPAM).
+5. **Relance SAS/dirigeants** — Seconde mise en demeure si pas de réponse au 14 juillet.
 6. **Preuves officielles** — Insérer les documents physiques dans `00_Preuves_officielles/`.
-7. **Verifier citation art. 145 CPC** avant envoi.

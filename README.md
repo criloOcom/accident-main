@@ -62,8 +62,7 @@ Le dossier repose sur une **double strate de documents** générée par [generat
 | 02 | [02 🚔 Plainte.md](./actes/token/01_Actes_proceduraux/02 🚔 Plainte.md) | Plainte complémentaire défaut assurance RC |
 | 02b | [02b 🛡️ Constitution Partie Civile.md](./actes/token/01_Actes_proceduraux/02b%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) | Constitution de partie civile (Art. 222-19/222-20 CP + L.227-8 C.com.) |
 | 03 | [03 🔍 Assignation Article 145.md](./actes/token/01_Actes_proceduraux/03%20%F0%9F%94%8D%20Assignation%20Article%20145.md) | Communication forcée police d'assurance (Art. 145 CPC) |
-| 04 | [04 📑 Bordereau de pieces.md](./actes/token/01_Actes_proceduraux/04%20%F0%9F%93%91%20Bordereau%20de%20pieces.md) | Bordereau général (archive) |
-| 04b | [04 📑 Bordereau Audience.md](./actes/token/01_Actes_proceduraux/04 📑 Bordereau Audience.md) | Bordereau séquentiel propre (25 pièces) |
+| 04 | [04 📑 Bordereau unifié.md](./actes/token/01_Actes_proceduraux/04%20%F0%9F%93%91%20Bordereau.md) | Bordereau unifié 43 pièces (groupes A-G) |
 | 05 | [05 🎯 Conclusions Refere.md](./actes/token/01_Actes_proceduraux/05%20%F0%9F%8E%AF%20Conclusions%20Refere.md) | Conclusions référé (date à fixer) |
 | 06 | [06 📸 Requete Constat Huissier.md](./actes/token/01_Actes_proceduraux/06%20%F0%9F%93%B8%20Requete%20Constat%20Huissier.md) | Requête constat d'huissier (Art. 145 CPC) |
 
