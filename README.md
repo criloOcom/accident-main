@@ -32,6 +32,11 @@
 
 📁 **[app/](./app/)** — Scripts Python
 
+📁 **[reports/](./reports/)** — Rapports d'analyse et de validation
+├── 📁 **[audit/](./reports/audit/)** — Rapports d'audit et vérifications
+├── 📁 **[expertise/](./reports/expertise/)** — Rapports d'analyse et mémoires juridiques
+└── 📁 **[ordalie/](./reports/ordalie/)** — Validation juridique
+
 📁 **[pieces/](./pieces/)** — Pièces originales extraites des PDFs
 
 ---
@@ -110,6 +115,16 @@ Le dossier repose sur une **double strate de documents** générée par [generat
 | [10 🗂️ Plan action.md](./actes/token/05_Organisation/10%20%F0%9F%97%82%EF%B8%8F%20Plan%20action.md) | Plan d'action |
 | [11 📅 Calendrier procedural.md](./actes/token/05_Organisation/11%20%F0%9F%93%85%20Calendrier%20procedural.md) | Calendrier procédural |
 | [20 📦 Bon envoi physique.md](./actes/token/05_Organisation/20%20%F0%9F%93%A6%20Bon%20envoi%20physique.md) | Bon d'envoi physique — checklist impression/envoi |
+
+---
+
+## Rapports d'expertise et validation ([reports/](./reports/))
+
+| Dossier | Description |
+|---------|-------------|
+| [audit/](./reports/audit/) | Rapports d'audit, suivi des agents, rapports techniques et d'anonymisation |
+| [expertise/](./reports/expertise/) | Mémoires juridiques, analyses approfondies et gloses |
+| [ordalie/](./reports/ordalie/) | Rapports de validation juridique et tests de cohérence ("ordalie") |
 
 ---
 

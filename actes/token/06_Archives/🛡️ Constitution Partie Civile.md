@@ -59,9 +59,9 @@ Adresse du tribunal :
 
 Tribunal Correctionnel de **[La Ville de l'Accident]**
 
-10 Rue du Palais
+**[Adresse Tribunal Judiciaire]**
 
-09000 **[La Ville de l'Accident]**
+**[Code Postal de l'Accident]** **[La Ville de l'Accident]**
 
 Je soussigné(e) :
 

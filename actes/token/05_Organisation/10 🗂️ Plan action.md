@@ -115,11 +115,11 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 
 ## Autorités Judiciaires et Policières à **[La Ville de l'Accident]**
 
-- Tribunal Judiciaire : 2 Rue des Déportés (05 61 65 75 00) / Commissariat : 8 Avenue du 19 Mars 1962 (05 61 65 73 00).
+- Tribunal Judiciaire : **[Adresse Tribunal Judiciaire]** (**[Téléphone Tribunal Judiciaire]**) / Commissariat : **[Adresse Commissariat]** (**[Téléphone Commissariat]**).
 
 ## Services Juridiques et de Santé
 
-- Ordre des Avocats de **[La Ville de l'Accident]** (05 61 65 00 10) / Huissiers : Étude LAPORTE (05 61 65 70 70) / UMJ de **[La Métropole Régionale]**.
+- Ordre des Avocats de **[La Ville de l'Accident]** (**[Téléphone Ordre Avocats]**) / Huissiers : Étude d'Huissiers **[Nom Huissier]** (**[Téléphone Huissier]**) / UMJ de **[La Métropole Régionale]**.
 
 **Note administrative :** Dès le 1**[J+37 Assignation 145]** (le lendemain de la fin du délai amiable de mise en demeure), délivrance immédiate de l'assignation en référé par commissaire de justice, matérialisant la fin de la phase comminatoire amiable.
 

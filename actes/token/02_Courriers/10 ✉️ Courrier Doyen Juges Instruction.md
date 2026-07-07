@@ -4,7 +4,7 @@ date: 2026-07-06
 type: acte
 categorie: procedure
 auteur: La Victime
-destinataire: Doyen des Juges d'Instruction Foix
+destinataire: Doyen des Juges d'Instruction de **[La Ville de l'Accident]**
 personnes:
 - La Victime
 - L'Exploitant du Commerce (La SAS)
@@ -36,7 +36,7 @@ Courriel : **[L'Email de la Victime]**
 
 À l'attention de Monsieur le Doyen des Juges d'Instruction
 Tribunal Judiciaire de **[La Ville de l'Accident]**
-14 Boulevard du Sud — BP 50078
+**[Adresse Tribunal Judiciaire]**
 09008 **[La Ville de l'Accident]** Cedex
 
 

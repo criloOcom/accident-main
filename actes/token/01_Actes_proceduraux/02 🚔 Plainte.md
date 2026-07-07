@@ -40,7 +40,7 @@ Courriel : **[L'Email de la Victime]**
 
 Tribunal Judiciaire de **[La Ville de l'Accident]**
 
-14 Boulevard du Sud — BP 50078
+**[Adresse Tribunal Judiciaire]**
 
 09008 **[La Ville de l'Accident]** Cedex
 

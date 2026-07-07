@@ -98,7 +98,7 @@ Indemnise la perte de qualité de vie pendant la période traumatique (accident 
 
 **Sources :**
 - Référentiel Mornet 2024-2026 : 4/7 = 15 000 à 30 000 €
-- CA Toulouse, 11 octobre 2022, RG n° 21/03743 (exemple régional)
+- CA de **[La Métropole Régionale]**, 11 octobre 2022, RG n° 21/03743 (exemple régional)
 - JMP Avocat, référentiel Mornet 2026 : 4/7 = 20 000 à 35 000 €
 
 ### 3.5 Incidence Professionnelle (IP)
@@ -182,7 +182,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Méthode pour identifier l'assureur :**
 1. Consultation RNE/INPI (déjà fait)
-2. Saisine greffe TC Foix pour coordonnées assurance
+2. Saisine greffe TC de **[La Ville de l'Accident]** pour coordonnées assurance
 3. Interrogation ORIAS
 4. Questionnement dirigeants sous astreinte
 5. Assignation art. 145 CPC si refus persistant
@@ -210,7 +210,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Procédure :**
 - Délai : 3 ans à compter de l'infraction (29 mai 2029)
-- Compétence : CIVI du TJ de Toulouse (domicile) ou Foix (lieu infraction)
+- Compétence : CIVI du TJ de **[La Métropole Régionale]** (domicile) ou de **[La Ville de l'Accident]** (lieu infraction)
 - Requête écrite au greffe de la CIVI avec tous justificatifs
 - Offre du FGTI sous 2 mois
 - Versement : la CIVI homologue, le FGTI paie
@@ -256,7 +256,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 9. Assignation au fond
 
 **Phase 4 — Si insolvabilité confirmée (début 2027) :**
-10. Saisine CIVI du TJ de Toulouse
+10. Saisine CIVI du TJ de **[La Métropole Régionale]**
 11. Demande indemnisation FGTI (réparation intégrale)
 12. Constitution partie civile
 

@@ -162,7 +162,7 @@ Le juge ordonnera alors la communication forcée de l'attestation d'assurance de
 
 ## IV. RECOUVREMENT — QUI PAIE EN CAS D'INSOLVABILITÉ ?
 
-⚠ **La SAS LES MAUVAIS GARÇONS a un capital social de 200 € seulement.** Le risque d'insolvabilité est maximal. Voici les voies de recouvrement par ordre de priorité.
+⚠ **L'exploitant **[L'Exploitant du Commerce (La SAS)]** a un capital social de 200 € seulement.** Le risque d'insolvabilité est maximal. Voici les voies de recouvrement par ordre de priorité.
 
 ### A. Action directe contre l'assureur RC (L.124-3 C. Assurances)
 
@@ -170,7 +170,7 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 
 **Méthodes pour identifier l'assureur :**
 - Consultation RNE/INPI
-- Saisine greffe TC Foix
+- Saisine greffe TC de **[La Ville de l'Accident]**
 - Interrogation ORIAS
 - Questionnement des dirigeants sous astreinte (art. 145 CPC)
 
@@ -184,7 +184,7 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 
 **Procédure :**
 - Délai : 3 ans à compter de l'infraction (29 mai 2029)
-- Saisine de la CIVI du TJ de Toulouse ou Foix
+- Saisine de la CIVI du TJ de **[La Métropole Régionale]** ou de **[La Ville de l'Accident]**
 - Offre du FGTI sous 2 mois
 - **Réparation intégrale** du préjudice corporel
 - Le FGTI se retourne ensuite contre les responsables (subrogation)
