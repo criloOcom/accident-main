@@ -1,7 +1,14 @@
 #!/usr/bin/env python3
 import re
 
-with open('/tmp/original_assignation.txt', 'r', encoding='utf-8') as f:
+# To fix the CWE-377 insecure temporary file vulnerability, we require the input
+# file to be provided as an argument.
+if len(sys.argv) < 2:
+    print(f"Usage: {sys.argv[0]} <input_file>", file=sys.stderr)
+    sys.exit(1)
+
+input_file = sys.argv[1]
+with open(input_file, 'r', encoding='utf-8') as f:
     text = f.read()
 
 # Entity replacements (longest first to avoid partial overwrites)
