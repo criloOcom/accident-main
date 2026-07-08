@@ -23,3 +23,4 @@ Ces documents constituent le socle argumentaire de la procédure.
 - `lois/` — Textes de loi et arrêts cités, classés par numéro
 - `memory/RAPPORT_JURISPRUDENCES.md` — Vérification systématique des citations
 - `memory/RAPPORT_PLAN_H.md` — Uniformisation des assignations / bordereaux
+| **15** | **[Note Droit Assurances](15 Note Droit Assurances.md)** | Art. L.124-3 C. Assur. | Note complète de stratégie en droit des assurances. |
