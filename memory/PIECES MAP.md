@@ -80,6 +80,13 @@ L'identifiant d'une pièce est le triplet (date, émetteur, objet) — pas un nu
 | 03/06/2026 | CPAM Haute-Garonne | Dossier RCT | [🔗 Voir](https://drive.google.com/file/d/1mTGqygF0mS0Y5Yx-kRg3bM-7HHTajZqJ/view) |
 | 29/06/2026 | **[La Victime]** | Mise en demeure SAS | [🔗 Voir](https://drive.google.com/file/d/1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn/view) |
 
+### Doc 06 V2 — Relance Dirigeants
+[🔗 Voir](https://docs.google.com/document/d/1YDGxvFAuZff1jsjnVmUDfsj6AoGUNaVJ3AlPIty0vhw/edit?usp=drivesdk)
+| Date | Auteur | Objet | Drive |
+|------|--------|-------|-------|
+| 08/07/2026 | **[La Victime]** | Preuve dépôt LRAR Relance V2 (870014282662911) | [🔗 Voir](https://drive.google.com/file/d/1YUjYLGjr9rFmZtun98mm6LSMwT-_z2By/view) |
+| 08/07/2026 | **[La Victime]** | Facture en ligne LRAR Relance V2 (Z0132713629) | [🔗 Voir](https://drive.google.com/file/d/1AxsqIizJ8d9_3EERA8_FklqQLkMl-tKU/view) |
+
 ### Doc 07 — ETUDE Indemnisation MAX
 [🔗 Voir](https://drive.google.com/file/d/1PiBFn1oA1DtkT61N-zvdPmsCYsmR0au9V4BA9IZzrH4/view)
 | Date | Auteur | Objet | Montant | Drive |
@@ -183,6 +190,7 @@ Ce tableau remplace toute version antérieure. La référence d'une pièce est s
 | Pièce | Intitulé | Citée dans | Valeur probatoire |
 |-------|----------|-----------|-------------------|
 | 10 | LRAR mise en demeure SAS (J+31) | Assignation 01, Assignation 145 03 | Preuve de la carence amiable |
+| 10b | LRAR relance V2 dirigeants (08/07/2026) — Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf) | Relance Dirigeants | Preuve du renouvellement des demandes et de l'obstruction |
 | 11 | LRAR mise en demeure **[Le Président de l'Exploitation]** (J+31) | Assignation 01, Assignation 145 03 | Mise en cause personnelle du dirigeant |
 | 12 | LRAR mise en demeure **[La Directrice Générale de l'Exploitation]** (J+31) | Assignation 01, Assignation 145 03 | Mise en cause personnelle de la dirigeante |
 | 13 | LRAR mise en demeure **[Le Propriétaire des Murs]** (J+31) + AR signé | Assignation 01, Assignation 145 03 | Preuve de la carence du propriétaire |
