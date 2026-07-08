@@ -23,3 +23,5 @@
 | **Total** | **59 600 €** |
 
 > 📌 Le rapport d'expertise médicale du **12 novembre 2026** permettra d'actualiser ces chiffres avec les séquelles définitives.
+-
+- `13 Note strategique FGTI CIVI.md`
