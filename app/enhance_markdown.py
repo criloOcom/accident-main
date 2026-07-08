@@ -34,6 +34,17 @@ HEADING_PATTERNS_COMPILED = [re.compile(pat, re.IGNORECASE) for pat in HEADING_P
 H1_PATTERNS_COMPILED = [re.compile(pat, re.IGNORECASE) for pat in H1_PATTERNS]
 H2_PATTERNS_COMPILED = [re.compile(pat, re.IGNORECASE) for pat in H2_PATTERNS]
 
+PROTECTED_PATTERNS = [
+    (re.compile(r'\bM\.'), 'M§DOT§'),
+    (re.compile(r'\bMe\b'), 'Me'),
+    (re.compile(r'\bDr\b'), 'Dr'),
+    (re.compile(r'\bMme\b'), 'Mme'),
+    (re.compile(r'\bn°\b'), 'n°'),
+    (re.compile(r'\bArt\.'), 'Art§DOT§'),
+    (re.compile(r'\bL\.(?=\s+\d)'), 'L§DOT§'),
+]
+
+
 def is_heading(line):
     stripped = line.strip()
     if not stripped:
@@ -42,6 +53,7 @@ def is_heading(line):
         if pat.match(stripped):
             return True
     return False
+
 
 def get_heading_level(line):
     stripped = line.strip()
@@ -53,20 +65,11 @@ def get_heading_level(line):
             return 2
     return 2
 
+
 def split_sentences(text):
     """Split text into sentences with paragraph breaks."""
-    # Protect common abbreviations from being treated as sentence endings
-    protected = {
-        r'\bM\.': 'M§DOT§',
-        r'\bMe\b': 'Me',
-        r'\bDr\b': 'Dr',
-        r'\bMme\b': 'Mme',
-        r'\bn°\b': 'n°',
-        r'\bArt\.': 'Art§DOT§',
-        r'\bL\.(?=\s+\d)': 'L§DOT§',
-    }
-    for pattern, replacement in protected.items():
-        text = re.sub(pattern, replacement, text)
+    for pattern, replacement in PROTECTED_PATTERNS:
+        text = pattern.sub(replacement, text)
 
     # Split into lines first
     lines = text.split('\n')
@@ -88,12 +91,10 @@ def split_sentences(text):
         # These should NOT be split
         marker_match = re.match(r'^([A-D]\.|1°?\.|2°?\.|3°?\.)\s+(.+)', stripped)
         if marker_match:
-            # Treat as a sub-heading or keep as-is
             result_lines.append(stripped)
             continue
 
         # For normal text, split by sentence endings
-        # Sentences end with . ! ? followed by space and capital letter or [
         sentences = re.split(r'(?<=[.!?])\s+(?=[A-Z«\[\(\d])', stripped)
 
         for i, sent in enumerate(sentences):
@@ -101,29 +102,28 @@ def split_sentences(text):
             if sent:
                 result_lines.append(sent)
 
-        # Add an empty line after non-empty paragraphs
         result_lines.append('')
 
     text = '\n'.join(result_lines)
 
-    # Restore protected abbreviations
     text = text.replace('§DOT§', '.')
 
-    # Collapse triple+ newlines to double
     text = re.sub(r'\n{4,}', '\n\n', text)
     text = re.sub(r'\n{3}', '\n\n', text)
 
     return text
 
+
 def bold_tokens(text):
-    """Wrap all [token] patterns with ** for bold."""
     text = re.sub(r'(\[[^\]]+\])', r'**\1**', text)
     return text
+
 
 def enhance(text):
     text = split_sentences(text)
     text = bold_tokens(text)
     return text
+
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
