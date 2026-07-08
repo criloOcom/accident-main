@@ -28,7 +28,7 @@ format: Arial JUSTIFIED
 10 Avenue de Purpan, 31700 Blagnac <br>
 sebastien.grazide@gmail.com
 
-Mountasser SABIR et Catherine ANDISSAC
+Sabir MOUNTASSER et Catherine ANDISSAC
 
 SAS LES MAUVAIS GARCONS <br>
 22 Rue Lafaurie, 09000 Foix
@@ -44,7 +44,7 @@ Réf : Dossier Sébastien GRAZIDE / SAS LES MAUVAIS GARCONS
 Madame la Directrice Générale, Monsieur le Président,
 
 ## INTRODUCTION
-La présente lettre de mise en demeure est adressée conjointement par Sébastien GRAZIDE à Mountasser SABIR et Catherine ANDISSAC, en leur qualité de dirigeants de SAS LES MAUVAIS GARCONS, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le 29 mai 2026.
+La présente lettre de mise en demeure est adressée conjointement par Sébastien GRAZIDE à Sabir MOUNTASSER et Catherine ANDISSAC, en leur qualité de dirigeants de SAS LES MAUVAIS GARCONS, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le 29 mai 2026.
 
 **Ce courrier constitue une démarche constructive et préalable à toute action contentieuse, conformément aux obligations légales et à la jurisprudence applicable en matière de responsabilité personnelle des dirigeants.**
 

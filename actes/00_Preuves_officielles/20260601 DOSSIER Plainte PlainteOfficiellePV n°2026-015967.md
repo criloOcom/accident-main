@@ -59,7 +59,7 @@ verifie: false
 
 ○ **Adresse du siège social :** 22 Rue Lafaurie, 09000 Foix 
 
-○ **Président de la SAS :** M. Mountasser Sabir (né en 08/1992, résidant à Foix) ○ **Directrice Générale de la SAS :** Mme Catherine Sorroche, épouse Andissac (née en 04/1970, résidant à Toulouse) 
+○ **Président de la SAS :** M. Sabir MOUNTASSER (né en 08/1992, résidant à Foix) ○ **Directrice Générale de la SAS :** Mme Catherine Sorroche, épouse Andissac (née en 04/1970, résidant à Toulouse) 
 
 ● **La Personne Physique (L'auteur matériel des faits) :** 
 

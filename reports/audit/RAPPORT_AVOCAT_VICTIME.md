@@ -16,7 +16,7 @@ L'assignation en référé actuelle invoque la responsabilité civile délictuel
 *   **Recommandation :** Modifier le fondement principal de la responsabilité de la SAS LES MAUVAIS GARÇONS dans les conclusions au fond pour viser l'**article 1231-1 du Code civil** (responsabilité contractuelle pour manquement à l'obligation de sécurité) tout en maintenant à titre subsidiaire le fondement délictuel si la qualité de client était contestée. Pour le référé-provision, l'existence de l'obligation reste non sérieusement contestable (Art. 835 al. 2 CPC) quel que soit le fondement, mais il convient de sécuriser l'écriture.
 
 ### B. La faute détachable des dirigeants (Jurisprudence SATI - Cass. Com., 20 mai 2003)
-Pour contourner l'insolvabilité probable de la SAS LES MAUVAIS GARÇONS (capital social de 200 €), l'action vise personnellement le Président (Mountasser SABIR) et la Directrice Générale (Catherine ANDISSAC).
+Pour contourner l'insolvabilité probable de la SAS LES MAUVAIS GARÇONS (capital social de 200 €), l'action vise personnellement le Président (Sabir MOUNTASSER) et la Directrice Générale (Catherine ANDISSAC).
 *   **Condition de la faute détachable :** Il faut caractériser une faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales.
 *   **Arguments à valoriser :**
     1.  *L'inaction délibérée* face à un danger connu : tolérer l'utilisation d'une vasque présentant une cassure majeure préexistante non signalée.

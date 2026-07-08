@@ -164,5 +164,5 @@ Pièces administratives :
 
 Pièces de procédure :
 - 29 juin 2026 — Mise en demeure SAS LES MAUVAIS GARCONS
-- 29 juin 2026 — Mise en demeure Mountasser SABIR
+- 29 juin 2026 — Mise en demeure Sabir MOUNTASSER
 - 29 juin 2026 — Mise en demeure Catherine ANDISSAC

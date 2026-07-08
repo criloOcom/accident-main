@@ -47,6 +47,6 @@
 
 ## Pièges connus :
 - `batch_anonymize.py` utilise `str.replace()` donc **ne capture pas** les variantes en casse mixte non listées
-- Les noms en "Prénom Nom" (ex. "Mountasser Sabir" au lieu de "Mountasser SABIR") ne sont pas remplacés → à ajouter manuellement dans le script
+- Les noms en "Prénom Nom" (ex. "Mountasser Sabir" — ancien format inversé — ou "Sabir MOUNTASSER" — format correct) ne sont pas remplacés → à ajouter manuellement dans le script
 - Les prénoms seuls ("Sébastien", "Catherine") ne sont pas dans la table → correction manuelle dans le markdown avant injection
 - Vérifier les annexes des originaux qui contiennent des tableaux de correspondance (docs 1, 2, 4) → les supprimer des copies UNIFIE_ANONYME

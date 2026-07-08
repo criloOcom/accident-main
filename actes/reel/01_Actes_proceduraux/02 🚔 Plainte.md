@@ -80,7 +80,7 @@ Alors que Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à
 
 Ces faits, constitutifs de blessures involontaires au sens de l'[Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643), ont fait l'objet d'une plainte initiale enregistrée sous le numéro [ ... ].
 
-Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de SAS LES MAUVAIS GARCONS. Ni le Président de la SAS, Mountasser SABIR, ni la co-dirigeante, Catherine ANDISSAC, n'ont déféré aux demandes amiables de Sébastien GRAZIDE, ni à celles adressées au propriétaire des murs, Romain DELRIEU. 
+Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de SAS LES MAUVAIS GARCONS. Ni le Président de la SAS, Sabir MOUNTASSER, ni la co-dirigeante, Catherine ANDISSAC, n'ont déféré aux demandes amiables de Sébastien GRAZIDE, ni à celles adressées au propriétaire des murs, Romain DELRIEU. 
 
 Ce silence persistant, malgré l'envoi de courriers recommandés le 29 juin 2026, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
 

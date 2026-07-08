@@ -4,7 +4,7 @@
 | Texte original | Jeton |
 |---|---|
 | Sébastien GRAZIDE / Grazide / GRAZIDE | `**[La Victime]**` |
-| Mountasser SABIR / SABIR / Mountasser Sabir | `**[Le Président de l'Exploitation]**` |
+| Sabir MOUNTASSER / MOUNTASSER / Mountasser SABIR / SABIR / Mountasser Sabir | `**[Le Président de l'Exploitation]**` |
 | Catherine ANDISSAC / SORROCHE / Catherine Andissac / Catherine Sorroche | `**[La Directrice Générale de l'Exploitation]**` |
 | Ayoub Bennourine / BENNOURINE | `**[Le Préposé de l'Exploitation]**` |
 | Romain DELRIEU / DELRIEU | `**[Le Propriétaire des Murs]**` |
@@ -37,5 +37,5 @@
 
 ## Limitations connues du script batch_anonymize.py
 - Le script utilise `str.replace()` — il ne capture que les chaînes exactes listées
-- Les prénoms/noms en casse mixte sans espace entre les deux (ex. "Mountasser Sabir") doivent être ajoutés manuellement comme entrées au script
-- Les prénoms seuls (ex. "Sébastien", "Mountasser") ne sont pas dans la table — ils peuvent apparaître dans des documents conversationnels (doc 11)
+- Les prénoms/noms en casse mixte sans espace entre les deux (ex. "Mountasser Sabir" — ancien format inversé) doivent être ajoutés manuellement comme entrées au script
+- Les prénoms seuls (ex. "Sébastien", "Sabir") ne sont pas dans la table — ils peuvent apparaître dans des documents conversationnels (doc 11)

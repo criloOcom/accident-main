@@ -37,7 +37,7 @@ Tribunal Judiciaire de Foix
 Blagnac, le 6 juillet 2026
 
 ## INTRODUCTION
-La presente constitution de partie civile est formee par Sébastien GRAZIDE dans le cadre de la procedure penale suivie a l'encontre de la SAS SAS LES MAUVAIS GARCONS, de son President Mountasser SABIR et de sa Directrice Generale Catherine ANDISSAC, en application des articles 2 et suivants du Code de procedure penale.
+La presente constitution de partie civile est formee par Sébastien GRAZIDE dans le cadre de la procedure penale suivie a l'encontre de la SAS SAS LES MAUVAIS GARCONS, de son President Sabir MOUNTASSER et de sa Directrice Generale Catherine ANDISSAC, en application des articles 2 et suivants du Code de procedure penale.
 
 Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la reparation de l'integralite des prejudices corporels, materiels et moraux decoulant de l'accident survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS.
 
@@ -67,7 +67,7 @@ Le prepose de l'exploitation, Ayoub BENNOURINE, a escalade la vasque en ceramiqu
 Une microchirurgie d'urgence a ete pratiquee le 30 mai 2026 par Dr Iskander DJERBI au centre SOS Main de Foix.
 
 ### ANTECEDENTS ET CARENCES DES MIS EN CAUSE
-La SAS SAS LES MAUVAIS GARCONS, immatriculee au RCS sous le SIREN 938 033 222, a ete constituee avec un capital social de 200 € seulement. Son President, Mountasser SABIR, et sa Directrice Generale, Catherine ANDISSAC, n'ont souscrit aucune assurance de responsabilite civile professionnelle pour l'exploitation du salon, en violation des obligations legales et reglementaires applicables aux etablissements recevant du public (ERP).
+La SAS SAS LES MAUVAIS GARCONS, immatriculee au RCS sous le SIREN 938 033 222, a ete constituee avec un capital social de 200 € seulement. Son President, Sabir MOUNTASSER, et sa Directrice Generale, Catherine ANDISSAC, n'ont souscrit aucune assurance de responsabilite civile professionnelle pour l'exploitation du salon, en violation des obligations legales et reglementaires applicables aux etablissements recevant du public (ERP).
 
 Malgre des mises en demeure recommandees adressees le 29 juin 2026 a la SAS, au President et a la Directrice Generale, aucun des mis en cause n'a communique les coordonnees d'un assureur, laissant presumer une absence totale de couverture.
 
@@ -183,9 +183,9 @@ Par ces motifs, Sébastien GRAZIDE sollicite qu'il plaise a Monsieur le Doyen de
 
 2. **DESIGNER** tel expert Medical qu'il plaira au tribunal avec mission d'evaluer l'integralite des chefs de prejudice selon la nomenclature Dintilhac ;
 
-3. **ACCORDER** a Sébastien GRAZIDE une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS SAS LES MAUVAIS GARCONS, de Mountasser SABIR et de Catherine ANDISSAC ;
+3. **ACCORDER** a Sébastien GRAZIDE une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS SAS LES MAUVAIS GARCONS, de Sabir MOUNTASSER et de Catherine ANDISSAC ;
 
-4. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Mountasser SABIR et Catherine ANDISSAC a payer a Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
+4. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC a payer a Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
 
 <hr>
 
@@ -207,9 +207,9 @@ Sébastien GRAZIDE se constitue partie civile et sollicite qu'il plaise a Monsie
 
 2. **ORDONNER** une expertise medicale judiciaire ;
 
-3. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Mountasser SABIR et Catherine ANDISSAC a verser a Sébastien GRAZIDE une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices ;
+3. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC a verser a Sébastien GRAZIDE une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices ;
 
-4. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Mountasser SABIR et Catherine ANDISSAC a payer a Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
+4. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC a payer a Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
 
 5. **SE RESERVER** la liquidation de l'astreinte et la fixation des dommages et interets definitifs apres depot du rapport d'expertise medicale.
 
@@ -228,6 +228,6 @@ Sébastien GRAZIDE
 8. **Pièce n°8 :** Facture de chirurgie SOS Main (790,23 €) (10 juin 2026)
 9. **Pièce n°9 :** Dossier de Recours Contre Tiers (RCT) CPAM
 10. **Pièce n°10 :** LRAR de mise en demeure adressée à SAS LES MAUVAIS GARCONS (29 juin 2026)
-11. **Pièce n°11 :** LRAR de mise en demeure adressée à Mountasser SABIR (29 juin 2026)
+11. **Pièce n°11 :** LRAR de mise en demeure adressée à Sabir MOUNTASSER (29 juin 2026)
 12. **Pièce n°12 :** LRAR de mise en demeure adressée à Catherine ANDISSAC (29 juin 2026)
 13. **Pièce n°13 :** LRAR adressée à Romain DELRIEU et son AR signé (3 juillet 2026)

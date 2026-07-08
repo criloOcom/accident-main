@@ -168,7 +168,7 @@ Documents non indexés conservés dans `archives/` :
 <hr>
 
 ## MODIFICATIONS CLÉS
-1. Ayoub BENNOURINE -> Mountasser SABIR + Catherine ANDISSAC ✓
+1. Ayoub BENNOURINE -> Sabir MOUNTASSER + Catherine ANDISSAC ✓
 1. Stratégie : faute détachable des dirigeants ✓
 2. Paragraphe faute détachable dans Assignation ✓
 3. Plaidoirie refondue ✓

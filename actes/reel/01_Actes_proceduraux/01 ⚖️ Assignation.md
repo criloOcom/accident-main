@@ -31,7 +31,7 @@ format: Arial JUSTIFIED
 Rédigé le 30 juin 2026
 
 ## INTRODUCTION
-La présente assignation en référé-provision et demande d'expertise médicale est introduite par Sébastien GRAZIDE à l'encontre de SAS LES MAUVAIS GARCONS, personne morale exploitant un salon de coiffure, pris en la personne de ses dirigeants, Mountasser SABIR et Catherine ANDISSAC, et personnellement contre ces derniers, au sein duquel la victime a subi un grave accident corporel le 29 mai 2026. 
+La présente assignation en référé-provision et demande d'expertise médicale est introduite par Sébastien GRAZIDE à l'encontre de SAS LES MAUVAIS GARCONS, personne morale exploitant un salon de coiffure, pris en la personne de ses dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC, et personnellement contre ces derniers, au sein duquel la victime a subi un grave accident corporel le 29 mai 2026. 
 
 Par cet acte, Sébastien GRAZIDE sollicite du président du Tribunal Judiciaire de Foix, statuant en référé, l'allocation d'une provision de 15 000 € à valoir sur la réparation intégrale de ses préjudices.
 
@@ -51,9 +51,9 @@ Sébastien GRAZIDE, né le 18 janvier 1982, de nationalité française, demeuran
 
 CONTRE :
 
-1. SAS LES MAUVAIS GARCONS, Société par Actions Simplifiée au capital de 200 €, immatriculée au RCS de Foix sous le numéro SIRET 938 033 222 00010, ayant son siège social au 22 Rue Lafaurie, 09000 Foix, prise en la personne de ses dirigeants, Mountasser SABIR et Catherine ANDISSAC ;
+1. SAS LES MAUVAIS GARCONS, Société par Actions Simplifiée au capital de 200 €, immatriculée au RCS de Foix sous le numéro SIRET 938 033 222 00010, ayant son siège social au 22 Rue Lafaurie, 09000 Foix, prise en la personne de ses dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC ;
 
-2. Mountasser SABIR, Président de SAS LES MAUVAIS GARCONS, demeurant 108 Avenue Paul Bert, 09000 Foix, pris en sa qualité de dirigeant de droit et personnellement ;
+2. Sabir MOUNTASSER, Président de SAS LES MAUVAIS GARCONS, demeurant 108 Avenue Paul Bert, 09000 Foix, pris en sa qualité de dirigeant de droit et personnellement ;
 
 3. Catherine ANDISSAC, Directrice Générale de SAS LES MAUVAIS GARCONS, prise en sa qualité de dirigeante de droit et personnellement.
 
@@ -146,7 +146,7 @@ Constitue une faute personnelle séparable des fonctions sociales engageant la r
 > **Cour de cassation, chambre commerciale, 7 septembre 2022, n° 20-20.404** <br>
 > [Arrêt n°20-20.404](https://www.legifrance.gouv.fr/juri/id/JURITEXT000046282365)
 
-En l'espèce, le défaut d'entretien des locaux et de sécurisation de la vasque céramique présentant une cassure préexistante non signalée, le défaut d'assurance de responsabilité civile professionnelle et le silence systématique opposé aux demandes de la victime caractérisent une méconnaissance des obligations essentielles de sécurité dont le caractère réitéré et l'absence de toute mesure corrective excluent qu'ils aient pu légitimement ignorer le risque pour la clientèle. Une telle carence est de nature à engager la responsabilité personnelle in solidum de Mountasser SABIR et de Catherine ANDISSAC avec la personne morale.
+En l'espèce, le défaut d'entretien des locaux et de sécurisation de la vasque céramique présentant une cassure préexistante non signalée, le défaut d'assurance de responsabilité civile professionnelle et le silence systématique opposé aux demandes de la victime caractérisent une méconnaissance des obligations essentielles de sécurité dont le caractère réitéré et l'absence de toute mesure corrective excluent qu'ils aient pu légitimement ignorer le risque pour la clientèle. Une telle carence est de nature à engager la responsabilité personnelle in solidum de Sabir MOUNTASSER et de Catherine ANDISSAC avec la personne morale.
 
 L'extrême sous-capitalisation de la société (capital social de 200 €), ne lui permettant manifestement pas de faire face à l'indemnisation d'un accident corporel grave, confirme la nécessité de retenir la responsabilité personnelle des dirigeants, seuls garants effectifs de la solvabilité de l'indemnisation.
 
@@ -298,9 +298,9 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 
 5. **SE RÉSERVER** la liquidation de l'astreinte ;
 
-6. **CONDAMNER IN SOLIDUM** SAS LES MAUVAIS GARCONS, Mountasser SABIR et Catherine ANDISSAC à verser à Sébastien GRAZIDE la somme de 15 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
+6. **CONDAMNER IN SOLIDUM** SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC à verser à Sébastien GRAZIDE la somme de 15 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
 
-7. **CONDAMNER IN SOLIDUM** SAS LES MAUVAIS GARCONS, Mountasser SABIR et Catherine ANDISSAC à payer à Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
+7. **CONDAMNER IN SOLIDUM** SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC à payer à Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
 
 <hr>
 
@@ -315,7 +315,7 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 - **Pièce n°8 :** Facture de chirurgie SOS Main (790,23 €) (10 juin 2026)
 - **Pièce n°9 :** Dossier de Recours Contre Tiers (RCT) CPAM
 - **Pièce n°10 :** LRAR de mise en demeure adressée à SAS LES MAUVAIS GARCONS (29 juin 2026)
-- **Pièce n°11 :** LRAR de mise en demeure adressée à Mountasser SABIR (29 juin 2026)
+- **Pièce n°11 :** LRAR de mise en demeure adressée à Sabir MOUNTASSER (29 juin 2026)
 - **Pièce n°12 :** LRAR de mise en demeure adressée à Catherine ANDISSAC (29 juin 2026)
 - **Pièce n°13 :** LRAR adressée à Romain DELRIEU et son AR signé (3 juillet 2026)
 

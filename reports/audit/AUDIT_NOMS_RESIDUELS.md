@@ -49,8 +49,8 @@
   - **Contexte:** `• **[La Victime]** = Sébastien GRAZIDE`
 
 - **Fichier:** `actes/06_Archives/annexes/ANNEXE A Lexique Tokens.md` (Ligne 9)
-  - **Nom(s) trouvé(s):** Mountasser, SABIR
-  - **Contexte:** `• **[Le Président de l'Exploitation]** = Mountasser SABIR`
+  - **Nom(s) trouvé(s):** Sabir, MOUNTASSER
+  - **Contexte:** `• **[Le Président de l'Exploitation]** = Sabir MOUNTASSER`
 
 - **Fichier:** `actes/06_Archives/annexes/ANNEXE A Lexique Tokens.md` (Ligne 11)
   - **Nom(s) trouvé(s):** ANDISSAC
@@ -109,8 +109,8 @@
   - **Contexte:** `- 08/07/2026 — Dr Iskander DJERBI — CR de reprise J+39 — [🔗 Drive](https://drive.google.com/file/d/1t1wRleVkYYByK25vBjONn6XU1E8JY9OT/view)`
 
 - **Fichier:** `memory/DECISIONS.md` (Ligne 54)
-  - **Nom(s) trouvé(s):** Sébastien, Mountasser, Sabir
-  - **Contexte:** `- Les prénoms seuls ("Sébastien") et les noms en casse mixte ("Mountasser Sabir") ne sont pas remplacés`
+  - **Nom(s) trouvé(s):** Sébastien, Sabir, MOUNTASSER
+  - **Contexte:** `- Les prénoms seuls ("Sébastien") et les noms en casse mixte ("Mountasser Sabir", ancien format inversé) ne sont pas remplacés`
 
 - **Fichier:** `memory/PIECES MAP.md` (Ligne 17)
   - **Nom(s) trouvé(s):** Julie, JARDON
@@ -209,8 +209,8 @@
   - **Contexte:** `| 30/05/2026 | Dr Iskander DJERBI | CR opératoire | [🔗 Voir](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |`
 
 - **Fichier:** `memory/STATUS.md` (Ligne 213)
-  - **Nom(s) trouvé(s):** SABIR, ANDISSAC
-  - **Contexte:** `- **06_Courrier President DG.md** : créé par fusion des pièces SABIR et ANDISSAC en courrier unique double destinataire`
+  - **Nom(s) trouvé(s):** MOUNTASSER, ANDISSAC
+  - **Contexte:** `- **06_Courrier President DG.md** : créé par fusion des pièces MOUNTASSER et ANDISSAC en courrier unique double destinataire`
 
 - **Fichier:** `memory/STATUS.md` (Ligne 267)
   - **Nom(s) trouvé(s):** DJERBI
@@ -237,8 +237,8 @@
   - **Contexte:** `| Sébastien GRAZIDE / Grazide / GRAZIDE | `**[La Victime]**` |`
 
 - **Fichier:** `memory/TOKEN MAP.md` (Ligne 7)
-  - **Nom(s) trouvé(s):** Sabir, Mountasser, SABIR
-  - **Contexte:** `| Mountasser SABIR / SABIR / Mountasser Sabir | `**[Le Président de l'Exploitation]**` |`
+  - **Nom(s) trouvé(s):** Sabir, MOUNTASSER, Mountasser, SABIR
+  - **Contexte:** `| Sabir MOUNTASSER / MOUNTASSER / Mountasser SABIR / SABIR / Mountasser Sabir | `**[Le Président de l'Exploitation]**` |`
 
 - **Fichier:** `memory/TOKEN MAP.md` (Ligne 8)
   - **Nom(s) trouvé(s):** ANDISSAC, Sorroche, Andissac
@@ -269,16 +269,16 @@
   - **Contexte:** `| Sigrid DESBOIS / DESBOIS | `**[La Gestionnaire CPAM]**` |`
 
 - **Fichier:** `memory/TOKEN MAP.md` (Ligne 40)
-  - **Nom(s) trouvé(s):** Sabir, Mountasser
-  - **Contexte:** `- Les prénoms/noms en casse mixte sans espace entre les deux (ex. "Mountasser Sabir") doivent être ajoutés manuellement comme entrées au script`
+  - **Nom(s) trouvé(s):** Sabir, MOUNTASSER
+  - **Contexte:** `- Les prénoms/noms en casse mixte sans espace entre les deux (ex. "Mountasser Sabir" — ancien format inversé) doivent être ajoutés manuellement comme entrées au script`
 
 - **Fichier:** `memory/TOKEN MAP.md` (Ligne 41)
-  - **Nom(s) trouvé(s):** Sébastien, Mountasser
-  - **Contexte:** `- Les prénoms seuls (ex. "Sébastien", "Mountasser") ne sont pas dans la table — ils peuvent apparaître dans des documents conversationnels (doc 11)`
+  - **Nom(s) trouvé(s):** Sébastien, Sabir
+  - **Contexte:** `- Les prénoms seuls (ex. "Sébastien", "Sabir") ne sont pas dans la table — ils peuvent apparaître dans des documents conversationnels (doc 11)`
 
 - **Fichier:** `memory/WORKFLOW.md` (Ligne 39)
-  - **Nom(s) trouvé(s):** Sabir, Mountasser, SABIR
-  - **Contexte:** `- Les noms en "Prénom Nom" (ex. "Mountasser Sabir" au lieu de "Mountasser SABIR") ne sont pas remplacés → à ajouter manuellement dans le script`
+  - **Nom(s) trouvé(s):** Sabir, MOUNTASSER, SABIR, Mountasser
+  - **Contexte:** `- Les noms en "Prénom Nom" (ex. "Mountasser Sabir" — ancien format inversé — ou "Sabir MOUNTASSER" — format correct) ne sont pas remplacés → à ajouter manuellement dans le script`
 
 - **Fichier:** `memory/WORKFLOW.md` (Ligne 40)
   - **Nom(s) trouvé(s):** Sébastien

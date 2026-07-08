@@ -53,7 +53,7 @@ Agissant en mon nom personnel.
 
 Déclare me constituer partie civile contre :
 
-SAS LES MAUVAIS GARCONS (Mountasser SABIR, Président) et Catherine ANDISSAC (Directrice Générale).
+SAS LES MAUVAIS GARCONS (Sabir MOUNTASSER, Président) et Catherine ANDISSAC (Directrice Générale).
 
 Dans l'affaire qui doit être examinée par le tribunal :
 

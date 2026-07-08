@@ -67,7 +67,7 @@ A ce jour, les procedures suivantes ont ete engagees :
 
 1. **Phase amiable** (29 juin 2026) : Mises en demeure LRAR adressees a la SAS SAS LES MAUVAIS GARCONS et a ses dirigeants, restees sans reponse a ce jour.
 
-2. **Assignation en refere-provision** (30 juin 2026) : Saisine du Tribunal Judiciaire de Foix sur le fondement de l'Article 835 du Code de procedure civile, a l'encontre de SAS LES MAUVAIS GARCONS et de ses dirigeants, Mountasser SABIR et Catherine ANDISSAC, in solidum.
+2. **Assignation en refere-provision** (30 juin 2026) : Saisine du Tribunal Judiciaire de Foix sur le fondement de l'Article 835 du Code de procedure civile, a l'encontre de SAS LES MAUVAIS GARCONS et de ses dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC, in solidum.
 
 3. **Assignation Article 145 CPC** (5 juillet 2026) : Saisine du Tribunal Judiciaire de Foix pour communication forcee de la police d'assurance RC professionnelle sous astreinte.
 

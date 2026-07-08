@@ -66,6 +66,6 @@
 
 ## Limitations du script batch_anonymize.py
 - Utilise `str.replace()` → ne capture que les chaînes exactes
-- Les prénoms seuls ("Sébastien") et les noms en casse mixte ("Mountasser Sabir") ne sont pas remplacés
+- Les prénoms seuls ("Sébastien") et les noms en casse mixte ("Mountasser Sabir", ancien format inversé) ne sont pas remplacés
 - Doc 11 a nécessité une correction manuelle pour les noms résiduels
 - **À améliorer (optionnel)** : passer à une approche regex insensible à la casse

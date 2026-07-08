@@ -86,7 +86,7 @@ Sébastien GRAZIDE agit actuellement en son nom propre et a formalisé les déma
 - Pièce 05 (Courrier 2) - Action Directe et Mise en demeure Assureur RC.
 - Pièce 06 (Acte 3) - Assignation en référé provision (Tribunal de Foix) : Modèle d'assignation pour provision de 5 000 €.
 - Pièce 08 (Courrier 3) - Demande d'assurance au Propriétaire des murs (Romain DELRIEU).
-- Pièce 09 (Courrier 4) - Mise en demeure de communication d'assurance (destinée à l'adresse personnelle de Mountasser SABIR).
+- Pièce 09 (Courrier 4) - Mise en demeure de communication d'assurance (destinée à l'adresse personnelle de Sabir MOUNTASSER).
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 

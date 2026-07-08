@@ -34,7 +34,7 @@ Cabinet du Juge des Referes
 Foix, le 5 juillet 2026
 
 ## INTRODUCTION
-La presente assignation en refere est introduite par Sébastien GRAZIDE a l'encontre de la SAS SAS LES MAUVAIS GARCONS, prise en la personne de ses dirigeants, Mountasser SABIR et Catherine ANDISSAC, et personnellement contre ces derniers (SIREN 938 033 222), sur le fondement de l'Article 145 du Code de procedure civile.
+La presente assignation en refere est introduite par Sébastien GRAZIDE a l'encontre de la SAS SAS LES MAUVAIS GARCONS, prise en la personne de ses dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC, et personnellement contre ces derniers (SIREN 938 033 222), sur le fondement de l'Article 145 du Code de procedure civile.
 
 Elle a pour objet d'obtenir, sous astreinte, la communication de la police d'assurance de responsabilite civile professionnelle souscrite par la societe defendereese, seule mesure permettant a la victime d'exercer son action directe contre l'assureur sur le fondement de l'Article L.124-3 du Code des assurances.
 
@@ -54,7 +54,7 @@ Le 29 mai 2026, alors qu'il se trouvait au sein du salon de coiffure exploite pa
 
 Alors que Ayoub BENNOURINE escaladait la vasque en ceramique du bac a shampoing pour acceder au poste de television, l'equipement a bascule. Par reflexe, Sébastien GRAZIDE a tendu la main droite pour proteger le prepose ; sa paume a heurte une cassure majeure preexistante non signalee aux aretes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit ayant necessite une microchirurgie d'urgence le 30 mai 2026.
 
-A la suite de cet accident, Sébastien GRAZIDE a vainement sollicite de SAS LES MAUVAIS GARCONS la communication de l'identite de son assureur de responsabilite civile professionnelle. Ni la societe, ni son President Mountasser SABIR, ni sa Directrice Generale Catherine ANDISSAC n'ont repondu aux courriers recommandes qui leur ont ete adresses le 29 juin 2026 **(Pièces n°10, n°11 et n°12)**.
+A la suite de cet accident, Sébastien GRAZIDE a vainement sollicite de SAS LES MAUVAIS GARCONS la communication de l'identite de son assureur de responsabilite civile professionnelle. Ni la societe, ni son President Sabir MOUNTASSER, ni sa Directrice Generale Catherine ANDISSAC n'ont repondu aux courriers recommandes qui leur ont ete adresses le 29 juin 2026 **(Pièces n°10, n°11 et n°12)**.
 
 L'accuse de reception du courrier recommande adresse au proprietaire des murs, Romain DELRIEU, a ete retourne signe le 3 juillet 2026, mais celui-ci n'a pas davantage communique l'information **(Pièce n°13)**.
 
@@ -95,7 +95,7 @@ Neanmoins, en pratique, l'exercice de ce droit suppose de connaitre l'identite d
 Les demandes amiables de Sébastien GRAZIDE sont restees lettres mortes :
 
 - LRAR du 29 juin 2026 a SAS LES MAUVAIS GARCONS : aucun AR retourne
-- LRAR du 29 juin 2026 a Mountasser SABIR : aucun AR retourne
+- LRAR du 29 juin 2026 a Sabir MOUNTASSER : aucun AR retourne
 - LRAR du 29 juin 2026 a Catherine ANDISSAC : aucun AR retourne
 - LRAR du 29 juin 2026 a Romain DELRIEU : AR retourne signe, mais sans reponse
 
@@ -128,13 +128,13 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 
 3. **SE RESERVER** la liquidation de l'astreinte ;
 
-4. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Mountasser SABIR et Catherine ANDISSAC a payer a Sébastien GRAZIDE la somme de 1 500 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
+4. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC a payer a Sébastien GRAZIDE la somme de 1 500 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
 
 <hr>
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 - **Pièce n°10 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à SAS LES MAUVAIS GARCONS (29 juin 2026)
-- **Pièce n°11 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à Mountasser SABIR (29 juin 2026)
+- **Pièce n°11 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à Sabir MOUNTASSER (29 juin 2026)
 - **Pièce n°12 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à Catherine ANDISSAC (29 juin 2026)
 - **Pièce n°13 :** Lettre Recommandée avec Accusé de Réception (LRAR) adressée à Romain DELRIEU et son Accusé de Réception signé (3 juillet 2026)
 

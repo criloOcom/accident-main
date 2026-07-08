@@ -15,7 +15,7 @@
 
 ## 2. Validation de l'Anonymisation
 **Diagnostic : PASS**
-- **Données nominatives :** Aucune mention de "GRAZIDE", "SABIR", "MOUNTASSER", "ANDISSAC", ou "BENNOURINE" n'a été détectée dans les actes actifs.
+- **Données nominatives :** Aucune mention de "GRAZIDE", "MOUNTASSER", "Sabir", "ANDISSAC", ou "BENNOURINE" n'a été détectée dans les actes actifs.
 - **Civilités :** Aucune civilité incorrecte (ex: "Monsieur **[La Victime]**") n'est adossée aux tokens.
 - **Remplacement :** Le terme "coiffeur" a été correctement remplacé par le token exact **[Le Préposé de l'Exploitation]** dans l'intégralité des fichiers et archives (notamment `04_Courrier Assureur.md`, `11_Etude indemnisation.md` et tous les fichiers d'analyses stratégiques).
 

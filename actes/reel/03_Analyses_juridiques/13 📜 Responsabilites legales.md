@@ -110,7 +110,7 @@ En vertu de l'article 1242 alinéa 5 du Code civil, les employeurs sont responsa
 La SAS est donc automatiquement responsable de l'imprudence commise par Ayoub BENNOURINE dans l'exercice de sa mission.
 
 ### C. LA FAUTE DÉTACHABLE DES DIRIGEANTS
-La responsabilité personnelle des dirigeants, Mountasser SABIR et Catherine ANDISSAC, peut être engagée sur le fondement de l'article 1240 du Code civil.
+La responsabilité personnelle des dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC, peut être engagée sur le fondement de l'article 1240 du Code civil.
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
 > **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II** <br>

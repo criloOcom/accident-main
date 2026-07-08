@@ -90,7 +90,7 @@ céramique qui était déjà brisée avant l'incident et présentait des arêtes
 tendineuse, nerveuse et artérielle lourde.
 
 Nom et adresse de la personne qui, selon vous, est responsable des faits : PERSONNE MORALE : SAS LES MAUVAIS
-GARCONS Adresse du siège social : 22 Rue Lafaurie, 09000 Foix SIRET : 938 033 222 00010 / DIRIGEANTS : M. Mountasser Sabir
+GARCONS Adresse du siège social : 22 Rue Lafaurie, 09000 Foix SIRET : 938 033 222 00010 / DIRIGEANTS : M. Sabir MOUNTASSER
 (Président) et Mme Catherine Andissac (de son nom de naissance Catherine Sorroche; Directrice Générale) / PERSONNE NOMMÉE : Les
 transactions Wero (présentées par le coiffeur responsable qui à causé le basculement) indique M. Ayoub Bennourine.
 L'identité précise de la compagnie d'assurances ainsi que le numéro de sinistre

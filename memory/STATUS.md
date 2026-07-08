@@ -466,7 +466,7 @@ code Python lit ensuite en fallback.
 - **03_Courrier SAS.md** : créé et anonymisé depuis `pieces/20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md`
 - **04_Courrier Assureur.md** : créé depuis `archives/ActionDirecte_AssureurRC.md` + alignement montant global 59 600€
 - **05_Courrier Proprietaire.md** : créé et anonymisé depuis `pieces/20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU.md`
-- **06_Courrier President DG.md** : créé par fusion des pièces SABIR et ANDISSAC en courrier unique double destinataire
+- **06_Courrier President DG.md** : créé par fusion des pièces MOUNTASSER et ANDISSAC en courrier unique double destinataire
 - **Tous les courriers** : YAML frontmatter, liens Légifrance, tokens en **gras**
 - **Scripts mis à jour** : `add_yaml_actes.py` (4 entrées), `batch_link_legifrance.py` (chemins corrigés + support JURITEXT)
 - **Index mis à jour** : stats (14 docs), mention fichiers à insérer supprimée, travaux restants nettoyés

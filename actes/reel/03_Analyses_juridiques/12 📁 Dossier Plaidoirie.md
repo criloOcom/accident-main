@@ -28,7 +28,7 @@ format: Arial JUSTIFIED
 
 **PARTIES AU LITIGE :**
 - **Demandeur :** Sébastien GRAZIDE, informaticien indépendant
-- **Défendeurs :** SAS LES MAUVAIS GARCONS, ainsi que ses dirigeants Mountasser SABIR et Catherine ANDISSAC
+- **Défendeurs :** SAS LES MAUVAIS GARCONS, ainsi que ses dirigeants Sabir MOUNTASSER et Catherine ANDISSAC
 
 **OBJET DE LA DEMANDE :**
 - Allocation d'une provision ad litem à valoir sur la réparation du préjudice corporel
@@ -73,7 +73,7 @@ Sur le fondement de l'[Article 1242 alinéa 1er du Code civil](https://www.legif
 La victime bénéficie d'un droit d'action directe et autonome contre l'assureur de responsabilité civile du responsable, selon l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449). L'obstruction de la direction de la SAS à communiquer le nom de cet assureur justifie pleinement cette saisine en référé pour obtenir les informations sous astreinte.
 
 ### C. FAUTE DÉTACHABLE DES DIRIGEANTS (JURISPRUDENCE SATI)
-La responsabilité de Mountasser SABIR et Catherine ANDISSAC est directement engagée :
+La responsabilité de Sabir MOUNTASSER et Catherine ANDISSAC est directement engagée :
 - **Défaut d'assurance ou obstruction :** Conformément à l'arrêt SATI de la Cour de cassation, l'absence (ou la dissimulation) délibérée de souscription d'assurances obligatoires constitue une **faute détachable** des fonctions sociales.
 - **Conséquence :** La responsabilité personnelle et solidaire du Président et de la Directrice Générale sur leurs deniers propres est acquise.
 

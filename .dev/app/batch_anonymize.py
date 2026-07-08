@@ -57,6 +57,11 @@ REPLACEMENTS = [
     ("Monsieur SABIR", "[Le Président de l'Exploitation]"),
     ("SABIR", "[Le Président de l'Exploitation]"),
     ("Sabir", "[Le Président de l'Exploitation]"),
+    ("Sabir MOUNTASSER", "[Le Président de l'Exploitation]"),
+    ("Sabir Mountasser", "[Le Président de l'Exploitation]"),
+    ("Monsieur Sabir MOUNTASSER", "[Le Président de l'Exploitation]"),
+    ("MOUNTASSER", "[Le Président de l'Exploitation]"),
+    ("Mountasser", "[Le Président de l'Exploitation]"),
 
     # --- References (police, CPAM) ---
     ("CPAM de Haute-Garonne", "CPAM"),

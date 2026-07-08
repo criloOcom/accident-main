@@ -31,7 +31,7 @@ Sébastien GRAZIDE, né le 18 janvier 1982, de nationalité française, demeuran
 
 **CONTRE :**
 
-SAS LES MAUVAIS GARCONS, Société par Actions Simplifiée, immatriculée au RCS de Foix sous le numéro SIRET 938 033 222 00010, ayant son siège social au 22 Rue Lafaurie, 09000 Foix, représentée par ses co-dirigeants Mountasser SABIR et Catherine ANDISSAC.
+SAS LES MAUVAIS GARCONS, Société par Actions Simplifiée, immatriculée au RCS de Foix sous le numéro SIRET 938 033 222 00010, ayant son siège social au 22 Rue Lafaurie, 09000 Foix, représentée par ses co-dirigeants Sabir MOUNTASSER et Catherine ANDISSAC.
 
 *Défenderesse*
 

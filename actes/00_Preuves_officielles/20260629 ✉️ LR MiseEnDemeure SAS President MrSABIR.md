@@ -1,13 +1,13 @@
 ---
-titre: Lettre Recommandée — Mise en Demeure SAS Président Monsieur SABIR
+titre: Lettre Recommandée — Mise en Demeure SAS Président Monsieur MOUNTASSER
 date: 2026-06-29
 type: piece
 categorie: juridique
 emetteur: Sébastien GRAZIDE
-destinataire: Monsieur SABIR (Président SAS)
+destinataire: Monsieur MOUNTASSER (Président SAS)
 personnes:
   - Sébastien GRAZIDE
-  - Monsieur SABIR
+  - Monsieur MOUNTASSER
 tags:
   - LR
   - mise en demeure
@@ -34,7 +34,7 @@ Sébastien GRAZIDE​
 31700 Blagnac​
 Courriel : sebastien.grazide@gmail.com
 
-Monsieur Mountasser SABIR, Président​
+Monsieur Sabir MOUNTASSER, Président​
 108 Cite Aime Surre avenue paul bert​
 09000 FOIX
 

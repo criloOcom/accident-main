@@ -62,7 +62,7 @@ Cette synthèse a pour objet de récapituler les éléments factuels et juridiqu
 
 La victime, Sébastien GRAZIDE, né le 18/01/1982, exerce la profession d'informaticien indépendant (500 474 457) à Blagnac.
 
-Les parties mises en cause incluent la SAS elle-même, ses dirigeants Mountasser SABIR et Catherine ANDISSAC, ainsi que Romain DELRIEU, propriétaire des murs commerciaux.
+Les parties mises en cause incluent la SAS elle-même, ses dirigeants Sabir MOUNTASSER et Catherine ANDISSAC, ainsi que Romain DELRIEU, propriétaire des murs commerciaux.
 
 
 <hr>
@@ -112,7 +112,7 @@ La stratégie repose sur une mise en cause plurielle pour garantir la réparatio
 > **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II** <br>
 > [Article 1242](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
 
-Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), Mountasser SABIR et Catherine ANDISSAC engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
+Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), Sabir MOUNTASSER et Catherine ANDISSAC engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
 
 > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
 > **Code de commerce > Partie législative > Livre V > Titre II > Chapitre Ier > Section 5 > Sous-section 3** <br>
@@ -132,7 +132,7 @@ Enfin, le propriétaire des murs, Romain DELRIEU, a été sollicité par LRAR le
 
 Sur le plan civil, plusieurs mises en demeure ont été expédiées le 29 juin 2026 pour identifier l'assureur et solliciter une provision :
 
-- Courrier à l'attention du Président Mountasser SABIR ;
+- Courrier à l'attention du Président Sabir MOUNTASSER ;
 
 - Courrier à la Directrice Générale Catherine ANDISSAC ;
 

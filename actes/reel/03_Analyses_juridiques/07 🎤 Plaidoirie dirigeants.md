@@ -61,9 +61,9 @@ Le présent mémorandum analyse les fondements de la responsabilité civile et p
 
 Lors de cet événement, le basculement d'un équipement défectueux a causé une section nerveuse et tendineuse grave à la main dominante de Sébastien GRAZIDE.
 
-La situation est complexifiée par le silence des dirigeants, Mountasser SABIR et Catherine ANDISSAC, concernant la couverture assurantielle de la structure.
+La situation est complexifiée par le silence des dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC, concernant la couverture assurantielle de la structure.
 
-PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, Sébastien GRAZIDE est désigné comme « La Victime », SAS LES MAUVAIS GARCONS comme « L'Exploitant », et Mountasser SABIR et Catherine ANDISSAC comme « Les Dirigeants ».
+PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, Sébastien GRAZIDE est désigné comme « La Victime », SAS LES MAUVAIS GARCONS comme « L'Exploitant », et Sabir MOUNTASSER et Catherine ANDISSAC comme « Les Dirigeants ».
 
 
 <hr>

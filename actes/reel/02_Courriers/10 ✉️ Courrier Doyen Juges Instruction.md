@@ -51,7 +51,7 @@ Monsieur le Doyen des Juges d'Instruction,
 
 Par la présente et conformément aux dispositions des articles 85 et suivants du Code de procédure pénale, j'ai l'honneur de me constituer partie civile entre vos mains, pour des faits de blessures involontaires (Articles 222-19 et 222-20 du Code pénal).
 
-Ces faits sont survenus le 29 mai 2026 dans les locaux de la SAS SAS LES MAUVAIS GARCONS, sise 22 Rue Lafaurie, 09000 Foix. Ils engagent la responsabilité pénale et civile de la personne morale ainsi que celle de ses dirigeants, Mountasser SABIR et Catherine ANDISSAC, pour violation manifestement délibérée d'une obligation de prudence ou de sécurité et défaut d'assurance de responsabilité civile professionnelle.
+Ces faits sont survenus le 29 mai 2026 dans les locaux de la SAS SAS LES MAUVAIS GARCONS, sise 22 Rue Lafaurie, 09000 Foix. Ils engagent la responsabilité pénale et civile de la personne morale ainsi que celle de ses dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC, pour violation manifestement délibérée d'une obligation de prudence ou de sécurité et défaut d'assurance de responsabilité civile professionnelle.
 
 À la suite du dépôt de ma plainte simple le 2 juin 2026 auprès du Commissariat de Foix (PV n° [ ... ]), et en l'absence de toute suite connue à ce jour et face au refus persistant des mis en cause de communiquer leurs informations d'assurance, je me vois contraint de saisir votre juridiction pour faire valoir mes droits.
 

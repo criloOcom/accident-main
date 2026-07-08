@@ -71,7 +71,7 @@ Les procedures suivantes ont ete engagees :
 
 **2. Mises en demeure LRAR** du 29 juin 2026
 - Mise en demeure a la SAS SAS LES MAUVAIS GARCONS
-- Mise en demeure a Mountasser SABIR et a Catherine ANDISSAC
+- Mise en demeure a Sabir MOUNTASSER et a Catherine ANDISSAC
 - Action directe contre l'assureur RC (Article L.124-3 du Code des assurances)
 
 **3. Demande d'enquete administrative**

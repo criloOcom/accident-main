@@ -60,7 +60,7 @@ format: Arial JUSTIFIED
 
 ## Pièce n° 8 — LRAR mise en demeure au Président
 
-- 29 juin 2026 — Sébastien GRAZIDE : LRAR de mise en demeure adressée à Mountasser SABIR. Aucun AR retourné.
+- 29 juin 2026 — Sébastien GRAZIDE : LRAR de mise en demeure adressée à Sabir MOUNTASSER. Aucun AR retourné.
 
 ## Pièce n° 9 — LRAR mise en demeure à la Directrice Générale
 

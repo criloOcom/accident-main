@@ -62,7 +62,7 @@ format: Arial JUSTIFIED
 | 24/06/2026 | EVT-30 | Démarche administrative / Email | Procédure | Envoyé |
 | **[J+27 Confirmation kiné]** | EVT-48 | Confirmation de rendez-vous Kinésithérapie | Médical |  |
 | 29 juin 2026 | COR-01 | Envoi Mise en demeure SAS | Correspondance | Distribué |
-| 29 juin 2026 | COR-02 | Envoi Mise en demeure Président Mountasser SABIR | Correspondance | Distribué |
+| 29 juin 2026 | COR-02 | Envoi Mise en demeure Président Sabir MOUNTASSER | Correspondance | Distribué |
 | 29 juin 2026 | COR-03 | Envoi Mise en demeure DG Catherine ANDISSAC | Correspondance | Distribué |
 | 29 juin 2026 | COR-04 | Envoi Mise en demeure Bailleur | Correspondance | Distribué |
 | 29 juin 2026 | COR-07 | Action Directe Assureur RC | Correspondance | Envoi effectué |

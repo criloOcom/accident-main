@@ -52,7 +52,7 @@ Le 30 juin 2026
 ## I. INTRODUCTION ET CONTEXTE
 Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de Sébastien GRAZIDE (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi 29 mai 2026 à 15h00.
 
-L'incident s'est produit au sein de l'établissement « SAS LES MAUVAIS GARCONS » (ci-après désigné "L'Exploitant"), exploité par une SAS dont la direction est assurée par Mountasser SABIR et Catherine ANDISSAC.
+L'incident s'est produit au sein de l'établissement « SAS LES MAUVAIS GARCONS » (ci-après désigné "L'Exploitant"), exploité par une SAS dont la direction est assurée par Sabir MOUNTASSER et Catherine ANDISSAC.
 
 Cette analyse s'appuie sur le principe de la réparation intégrale, visant à rétablir Sébastien GRAZIDE dans la situation qui aurait été la sienne sans la survenance du dommage, conformément à [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571).
 

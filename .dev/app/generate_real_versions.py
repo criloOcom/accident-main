@@ -4,8 +4,8 @@ import glob
 
 REVERSE_MAP = {
     "**[La Victime]**": "Sébastien GRAZIDE",
-    "**[Le Président de l'Exploitation]**": "Mountasser SABIR",
-    "**[Le President de l'Exploitation]**": "Mountasser SABIR",
+    "**[Le Président de l'Exploitation]**": "Sabir MOUNTASSER",
+    "**[Le President de l'Exploitation]**": "Sabir MOUNTASSER",
     "**[La Directrice Générale de l'Exploitation]**": "Catherine ANDISSAC",
     "**[La Directrice Generale de l'Exploitation]**": "Catherine ANDISSAC",
     "**[Le Préposé de l'Exploitation]**": "Ayoub BENNOURINE",
@@ -15,8 +15,8 @@ REVERSE_MAP = {
     "**[Le Chirurgien SOS Main]**": "Dr Iskander DJERBI",
     "**[Le Médecin en Urgence]**": "Dr Julie JARDON",
     "**[La Victime]**": "Sébastien GRAZIDE",
-    "**[Le Président de l'Exploitation]**": "Mountasser SABIR",
-    "**[Le President de l'Exploitation]**": "Mountasser SABIR",
+    "**[Le Président de l'Exploitation]**": "Sabir MOUNTASSER",
+    "**[Le President de l'Exploitation]**": "Sabir MOUNTASSER",
     "**[La Directrice Générale de l'Exploitation]**": "Catherine ANDISSAC",
     "**[La Directrice Generale de l'Exploitation]**": "Catherine ANDISSAC",
     "**[Le Préposé de l'Exploitation]**": "Ayoub BENNOURINE",

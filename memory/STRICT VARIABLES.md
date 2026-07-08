@@ -103,7 +103,7 @@
 | Médecin Généraliste | `**[Le Médecin Généraliste]**` |
 | Gestionnaire CPAM | `**[La Gestionnaire CPAM]**` |
 
-⚠ **Statut de la SAS vérifié (2026-07-06)** : Active (état administratif "A"), créée le 01/06/2024, siège social au 22 Rue Lafaurie 09000 Foix. Président : Mountasser Sabir. Directrice Générale : Catherine Andissac/Sorroche. Aucune procédure de dissolution ou liquidation en cours (source : API Recherche Entreprises).
+⚠ **Statut de la SAS vérifié (2026-07-06)** : Active (état administratif "A"), créée le 01/06/2024, siège social au 22 Rue Lafaurie 09000 Foix. Président : Sabir MOUNTASSER. Directrice Générale : Catherine Andissac/Sorroche. Aucune procédure de dissolution ou liquidation en cours (source : API Recherche Entreprises).
 
 ## Personnes morales (tokens)
 | Rôle | Jeton | Note |

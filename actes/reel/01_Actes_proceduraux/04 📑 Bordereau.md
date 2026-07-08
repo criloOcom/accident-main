@@ -70,7 +70,7 @@ format: Arial JUSTIFIED
 - 29 juin 2026 — Mise en demeure de la SAS SAS LES MAUVAIS GARCONS (LRAR n° 87001424863012T) : Demande de communication de l'attestation d'assurance RC Pro et de la somme de 5 000 € à titre de provision. Distribué. Échéance au 14 juillet 2026.
 
 ### PIÈCE N° 11
-- 29 juin 2026 — Mise en demeure de Mountasser SABIR (LRAR n° 87001424862879J) : Mise en cause personnelle pour faute détachable (absence d'assurance, défaut de sécurité). Distribué.
+- 29 juin 2026 — Mise en demeure de Sabir MOUNTASSER (LRAR n° 87001424862879J) : Mise en cause personnelle pour faute détachable (absence d'assurance, défaut de sécurité). Distribué.
 
 ### PIÈCE N° 12
 - 29 juin 2026 — Mise en demeure de Catherine ANDISSAC (LRAR n° 87001424721856G) : Mise en cause personnelle pour faute détachable. Distribué.
