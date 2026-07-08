@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
-#!/usr/bin/env python3
 """Extract legal references from a document and generate Annexe B."""
 
-import re
 import sys
 
 # Legal references mapping from annuaire spreadsheet
@@ -49,14 +47,7 @@ LEGAL_REFS = {
 def extract_legal_refs(text):
     """Extract legal references from document text."""
     found = {}
-    
-    # Search for article references
-    patterns = [
-        (r'(?:article|art\.?)\s*(\d+[\-\d]*)\s*(?:du\s+)?(?:Code\s+(?:civil|pénal|de\s+procédure\s+(?:civile|pénale)|des\s+assurances|de\s+la\s+consommation|de\s+commerce))', 'article'),
-        (r'(?:article\s+)?L\.?\s*(\d+[\-\d]*)\s*(?:du\s+)?(?:Code\s+(?:des\s+assurances|de\s+la\s+consommation|de\s+commerce))', 'L-article'),
-        (r'(?:Cass\.|Civ\.\s*\d+e?)[^,]*,\s*\d+\s+\w+\s+\d{4}[^,]*n°\s*([\d\-\.]+)', 'arret'),
-        (r'Arrêt\s+(?:SATI|Sati|Gabillet|Costedoat|Cousin)', 'arret-nom'),
-    ]
+    text_lower = text.lower()
     
     # Check for specific references
     for ref_key, ref_data in LEGAL_REFS.items():
@@ -65,7 +56,7 @@ def extract_legal_refs(text):
         # Simple check: look for key parts of the title
         if ref_key.startswith("Art."):
             art_num = ref_key.replace("Art.", "")
-            if f"article {art_num}" in text.lower() or f"art. {art_num}" in text.lower() or f"art.{art_num}" in text.lower():
+            if f"article {art_num}" in text_lower or f"art. {art_num}" in text_lower or f"art.{art_num}" in text_lower:
                 found[ref_key] = ref_data
         elif ref_key.startswith("CCASS."):
             # For jurisprudence, check for case number
