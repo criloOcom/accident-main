@@ -116,7 +116,7 @@ La responsabilité personnelle des dirigeants, **[Le Président de l'Exploitatio
 > **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II** <br>
 > [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 
-> « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. » <br>
+> « La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. » <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
 > [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
@@ -127,11 +127,11 @@ Il convient de noter que le préposé bénéficie d'une immunité civile selon l
 
 > « N'engage pas sa responsabilité civile à l'égard des tiers le préposé qui agit dans les limites de la mission à lui impartie par son commettant. » <br>
 > **Cour de cassation, Assemblée plénière, 25 février 2000, n° 97-17.378** <br>
-> [Arrêt Costedoat](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831)
+> [Arrêt Costedoat](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)
 
 > « Le préposé qui agit dans les limites de la mission qui lui a été impartie n'engage sa responsabilité personnelle à l'égard des tiers que s'il a commis une faute pénale intentionnelle. » <br>
 > **Cour de cassation, Assemblée plénière, 14 décembre 2001, n° 00-82.066** <br>
-> [Arrêt Cousin](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322)
+> [Arrêt Cousin](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351)
 
 ### A. ACTION DIRECTE CONTRE L'ASSUREUR
 Le levier le plus efficace demeure l'action directe contre l'assureur RC de la SAS, fondée sur l'article L. 124-3 du Code des assurances, garantissant la réparation intégrale des préjudices (pertes de revenus, préjudice corporel et moral) estimés à ce jour à 59 600 € (selon l'étude d'indemnisation détaillée).
@@ -172,7 +172,7 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 
 > « L'action directe de la victime contre l'assureur garantissant la responsabilité civile de l'auteur du dommage est indépendante de l'action que la victime pourrait exercer contre l'assuré lui-même. » <br>
 > **Cour de cassation, 3e chambre civile, 11 mai 2022, n° 21-12.478** <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045683755)
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770)
 
 **Méthodes pour identifier l'assureur :**
 - Consultation RNE/INPI
@@ -200,7 +200,7 @@ Faute détachable des fonctions : maintien d'un équipement dangereux, défaut d
 
 > « La faute personnelle du dirigeant, détachable des fonctions, ouvre droit à réparation pour la victime du dommage causé par cette faute, sans que l'action doive être exercée par les représentants légaux de la personne morale. » <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
-> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007152625)
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 ### D. SARVI (SERVICE D'AIDE AU RECOUVREMENT)
 Si condamnation pénale non exécutée : verse 100 % jusqu'à 1 000 €, 30 % au-delà (max 3 000 €).

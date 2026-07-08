@@ -1,6 +1,59 @@
-# STATUT D'AVANCEMENT — 7 juillet 2026
+# STATUT D'AVANCEMENT — 8 juillet 2026
 
-## Phase 11b — Audit complet et corrections markdown + URLs Légifrance (7 juillet 2026) ✅
+## Phase 13 — Corrections hallucinations et JURITEXT (8 juillet 2026) ✅
+
+### Hallucination SATI (99-17.092) corrigée dans 12 fichiers
+- **Problème** : La citation « *Commet une faute détachable [...] qui n'a pas souscrit les assurances obligatoires* » était **entièrement inventée**. Le vrai arrêt SATI (Cass. Com., 20 mai 2003) traite de la **fraude sur cession de créances** (faute détachable = fraude intentionnelle sur solvabilité)
+- **JURITEXT000007152625** (inexistant, erreur 400 API) → remplacé par **JURITEXT000007047369**
+- **Fichiers corrigés** : 01 Assignation, 02 Plainte, 02b Constitution PC, 04 Bordereau, 07 Plaidoirie dirigeants, 09 FAQ, 12 Dossier Plaidoirie, 13 Responsabilités, 00 Index, 10 Plan action, 06 Courrier Président DG + 4 archives
+- **Quote remplacée** par la vraie règle : « *La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normale des fonctions sociales.* »
+
+### Corrections supplémentaires
+- **20-16.463** : date corrigée (13 mai 2021 → **8 décembre 2021**) + JURITEXT corrigé dans `04 Courrier Assureur.md`
+- **JURITEXT000050460532** → **JURITEXT000049418278** vérifié (22-19.307, déjà corrigé précédemment)
+- **Placeholder incomplet** dans `12 Dossier Plaidoirie.md` (l.91) → remplacé par Art. 1240 C. civ.
+## Phase 13b — Corrections JURITEXT supplémentaires vérifiées via MCP Légifrance :
+
+### Vérification MCP complète de tous les JURITEXT (24 uniques + 6 nouveaux identifiés)
+- **14 JURITEXT validés** : 78-12.440, 82-13.234, 08-17.959, 17-14.499, 19-23.173, 20-15.106, 21-12.478, 91-11.285, 22-19.307, 02-14.783, 00-82.066, 97-17.378, 23-15.345, 24-20.972
+- **6 JURITEXT invalides identifiés et corrigés** :
+  - JURITEXT000044515079 → **JURITEXT000044105739** (20-17.263) + correction date "13/01/2022" → "09/09/2021"
+  - JURITEXT000036835776 → **JURITEXT000036780068** (17-14.499)
+  - JURITEXT000049914357 → **JURITEXT000049857400** (23-15.345)
+  - JURITEXT000045683755 → **JURITEXT000045822770** (21-12.478)
+  - JURITEXT000046284523 → **JURITEXT000046282365** (20-20.404)
+  - JURITEXT000028994017 → **JURITEXT000029014493** (13-80.849) — déjà corrigé
+- **1 probable hallucination identifiée** :
+  - **08-15.103** : numéro d'affaire introuvable dans Légifrance (0 résultat). Citation « DFT inclut agrément temporaire » marquée "À VÉRIFIER" dans les fichiers
+
+### Fichiers corrigés (Phase 13b — ce tour)
+| Arrêt | Correction | Fichiers |
+|-------|-----------|----------|
+| 20-17.263 | JURITEXT + date | 12 Évaluation Dintilhac (token + reel) |
+| 08-15.103 | Marqué "À VÉRIFIER" | 12 Évaluation Dintilhac (token + reel) |
+| 17-14.499 | JURITEXT | 12 Évaluation Dintilhac (token + reel) |
+| 23-15.345 | JURITEXT | 12 Évaluation Dintilhac (token + reel) |
+| 21-12.478 | JURITEXT | 12 Évaluation Dintilhac + 13 Responsabilités (token + reel) |
+| 20-20.404 | JURITEXT | 01 Assignation (token + reel) |
+
+### Anciennes erreurs déjà corrigées
+| Arrêt | JURITEXT fausse | Bonne JURITEXT | Fichiers |
+|-------|----------------|----------------|----------|
+| 02-14.783 | JURITEXT000006485532 | **JURITEXT000007047223** | 12 Évaluation Dintilhac |
+| 00-82.066 Cousin | JURITEXT000007043322 | **JURITEXT000007071351** | 13 Responsabilités, 12 Dossier Plaidoirie, 00 Index |
+| 97-17.378 Costedoat | JURITEXT000007043831 | **JURITEXT000007043704** | ANALYSE Jurisprudence, 13 Responsabilités, 12 Dossier Plaidoirie, 00 Index |
+| ~~14-19.108~~ | ~~JURITEXT000039122827~~ | ~~JURITEXT000033127860~~ | **ANNULÉE** — 14-19.108 n'existe pas. JURITEXT000039122827 restaurée (18-13.791) |
+
+### Bilan des 4 phases de corrections
+| Phase | Fichiers modifiés | Erreurs corrigées |
+|-------|-------------------|-------------------|
+| Phase 12 (précédente) | 21 | 6 findings procéduraux + 3 JURITEXT + 1 placeholder |
+| Phase 13 (ce tour) | 16 | 1 hallucination SATI ×12 fichiers + 1 JURITEXT 20-16.463 |
+| Phase 13b (vérification Légifrance) | 6 | 3 JURITEXT fausses corrigées + 1 URL correcte restaurée |
+| Phase 13c (vérification MCP complète) | 7 fichiers (token + reel) | 6 JURITEXT invalides corrigées + 1 date + 1 hallucination identifiée |
+| **Total** | **50** | **25 erreurs corrigées + 1 restauration + 1 hallucination identifiée** |
+
+## Phase 12 — Corrections post-audit + 26 PRs Jules (7-8 juillet 2026) ✅
 
 ### Ce qui a été fait
 - **Audit complet en 3 tâches parallèles** :

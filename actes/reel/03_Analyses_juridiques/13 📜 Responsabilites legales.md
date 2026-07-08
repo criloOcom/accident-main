@@ -172,7 +172,7 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 
 > « L'action directe de la victime contre l'assureur garantissant la responsabilité civile de l'auteur du dommage est indépendante de l'action que la victime pourrait exercer contre l'assuré lui-même. » <br>
 > **Cour de cassation, 3e chambre civile, 11 mai 2022, n° 21-12.478** <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045683755)
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770)
 
 **Méthodes pour identifier l'assureur :**
 - Consultation RNE/INPI

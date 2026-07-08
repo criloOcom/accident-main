@@ -86,8 +86,8 @@ L'article L.124-3 du Code des assurances consacre le droit de la victime d'agir 
 Ce droit est autonome et ne peut etre paralysé par la carence du responsable a communiquer les coordonnees de son assureur. La Cour de cassation rappelle que l'action directe est recevable meme si la societe responsable a ete dissoute.
 
 > « Le bénéfice de l'action directe ouverte à la victime d'un dommage contre l'assureur garantissant la responsabilité civile de la personne responsable ne peut lui être refusé par le motif que le contrat d'assurance a pris fin avant que le dommage ne se réalise. » <br>
-> **Cour de cassation, 1re chambre civile, 13 mai 2021, n° 20-16.463** <br>
-> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043514489)
+> **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463** <br>
+> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 
 Neanmoins, en pratique, l'exercice de ce droit suppose de connaitre l'identite de l'assureur. L'obstruction caracterisee de **[L'Exploitant du Commerce (La SAS)]** a la communication de cette information prive **[La Victime]** de son droit d'agir et constitue une entrave a ses droits les plus fondamentaux.
 

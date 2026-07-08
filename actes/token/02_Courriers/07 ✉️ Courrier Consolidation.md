@@ -87,7 +87,7 @@ Ce certificat permettra a mon conseil de finaliser l'evaluation indemnitaire et,
 
 > « La libre disposition de son corps par la victime ne fait pas obstacle à ce que soit réparé le préjudice corporel subi. » <br>
 > **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307** <br>
-> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000050460532)
+> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
 
 Transparence sur la suite donnee au dossier
 

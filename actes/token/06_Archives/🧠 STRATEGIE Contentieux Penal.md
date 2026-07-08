@@ -105,9 +105,9 @@ Ce complément vise à porter à la connaissance de l'autorité judiciaire cette
 ### 3.4 RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS
 Les dirigeants de **[L'Exploitant du Commerce (La SAS)]**, à savoir **[Le Président de l'Exploitation]** (Président) et **[La Directrice Générale de l'Exploitation]** (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales, ainsi que sur le fondement de [Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928).
 
-> « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. » <br>
+> « La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. » <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
-> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007152625)
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 Le défaut de souscription d'assurance responsabilité civile professionnelle constitue une faute d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales, caractérisant une faute détachable engageant la responsabilité personnelle des dirigeants sur leurs biens propres.
 

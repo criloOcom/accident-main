@@ -55,7 +55,9 @@ La présente lettre de mise en demeure est adressée conjointement par **[La Vic
 > **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
-La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions. La Cour de cassation a jugé que constitue une faute détachable le fait pour un dirigeant de ne pas avoir souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain.
+La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions.
+
+La Cour de cassation a jugé que constitue une faute détachable la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales (arrêt SATI, Cass. Com., 20 mai 2003, n° 99-17.092).
 
 L'article L. 227-8 du Code de commerce dispose que les dirigeants d'une société commerciale sont responsables, individuellement ou solidairement, selon le cas, envers les tiers des conséquences dommageables de leurs actes.
 
@@ -77,7 +79,9 @@ Je tiens tout d'abord à vous remercier pour votre réactivité le jour même de
 
 Comme vous le savez, l'accident a entraîné une blessure importante à ma main droite (index droit), nécessitant une opération de microchirurgie d'urgence par **[Le Chirurgien SOS Main]** le samedi **[J+1 Chirurgie]** au service SOS Main de **[L'Établissement SOS Main]** (suture tendineuse 6 brins, suture microchirurgicale des nerfs et vaisseaux, neurolyse d'urgence).
 
-Le chirurgien a évalué le pronostic de récupération neurologique à un an minimum, avec un résultat souvent partiel s'agissant d'une suture nerveuse. Du fait de mon activité d'informaticien indépendant (**[L'Identifiant Professionnel de la Victime]**), l'incapacité d'utiliser mon index et ma main dominante me paralyse totalement dans mon travail quotidien.
+Le chirurgien a évalué le pronostic de récupération neurologique à un an minimum, avec un résultat souvent partiel s'agissant d'une suture nerveuse.
+
+Du fait de mon activité d'informaticien indépendant (**[L'Identifiant Professionnel de la Victime]**), l'incapacité d'utiliser mon index et ma main dominante me paralyse totalement dans mon travail quotidien.
 
 En tant que citoyen, je ne connaissais pas les formalités nécessaires dans ce type de situation. C'est à la suite de mes démarches administratives auprès de la CPAM (recours contre tiers n° **[N° Dossier CPAM]**) et des services de police que j'ai été informé de l'obligation de recueillir les coordonnées de l'assureur de responsabilité civile professionnelle de votre salon afin de lui transmettre mon dossier médical.
 
@@ -121,7 +125,11 @@ Dans cette hypothèse, je serai également contraint de rechercher la responsabi
 
 Transparence sur la suite donnée au dossier
 
-La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
+La présente lettre constitue une première démarche amiable.
+
+Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal.
+
+Elle permet :
 
 1. D'obtenir les informations nécessaires à l'identification de l'assureur de responsabilité civile ;
 

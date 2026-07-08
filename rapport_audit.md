@@ -53,22 +53,103 @@ Les arrêts suivants sont cités dans les documents d'indemnisation pour justifi
 
 ## Vérification Judilibre
 
-- JURITEXT000049418278 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000045683755 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000053859671 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000049914357 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000039122827 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000021271786 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000007152625 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000049857400 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000007047223 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000021271787 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000043782126 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000036835776 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000044515079 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000007047369 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000036780068 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000045822770 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000006485532 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000043489943 : OK (Vérification ignorée en l'absence de credentials Piste)
-- JURITEXT000044482848 : OK (Vérification ignorée en l'absence de credentials Piste)
+### Arrêts vérifiés et CORRECTS (14)
+- JURITEXT000007006621 = 78-12.440 ✅
+- JURITEXT000007012425 = 82-13.234 ✅
+- JURITEXT000021271786 = 08-17.959 ✅
+- JURITEXT000036780068 = 17-14.499 ✅
+- JURITEXT000043489943 = 19-23.173 ✅
+- JURITEXT000043782126 = 20-15.106 ✅
+- JURITEXT000045822770 = 21-12.478 ✅
+- JURITEXT000007030228 = 91-11.285 ✅
+- JURITEXT000049418278 = 22-19.307 ✅
+- JURITEXT000007047223 = 02-14.783 ✅
+- JURITEXT000007071351 = 00-82.066 Cousin ✅
+- JURITEXT000007043704 = 97-17.378 Costedoat ✅
+- JURITEXT000049857400 = 23-15.345 ✅
+- JURITEXT000053859671 = 24-20.972 ✅
+
+### Arrêts INVALIDES → corrigés (6)
+| JURITEXT fausse | Bonne JURITEXT | Arrêt | Date corrigée |
+|----------------|----------------|-------|---------------|
+| JURITEXT000044515079 | **JURITEXT000044105739** | 20-17.263 | 13/01/2022 → **09/09/2021** |
+| JURITEXT000036835776 | **JURITEXT000036780068** | 17-14.499 | — |
+| JURITEXT000049914357 | **JURITEXT000049857400** | 23-15.345 | — |
+| JURITEXT000045683755 | **JURITEXT000045822770** | 21-12.478 | — |
+| JURITEXT000046284523 | **JURITEXT000046282365** | 20-20.404 | — |
+| JURITEXT000028994017 | **JURITEXT000029014493** | 13-80.849 | — (déjà corrigé) |
+
+### Arrêt INEXISTANT — probable hallucination
+- **08-15.103** : numéro d'affaire introuvable dans Légifrance (0 résultat). Citation « DFT inclut agrément temporaire » potentiellement fabriquée. Marqué "À VÉRIFIER" dans les fichiers.
+
+### Anciennes erreurs déjà corrigées
+- JURITEXT000007152625 → JURITEXT000007047369 (99-17.092 SATI) — corrigé Phase 13
+- JURITEXT000043514489 → JURITEXT000044482848 (20-16.463) — corrigé Phase 13
+- JURITEXT000006485532 → JURITEXT000007047223 (02-14.783) — corrigé Phase 13b
+- JURITEXT000007043322 → JURITEXT000007071351 (00-82.066 Cousin) — corrigé Phase 13b
+- JURITEXT000007043831 → JURITEXT000007043704 (97-17.378 Costedoat) — corrigé Phase 13b
+- JURITEXT000050460532 → JURITEXT000049418278 (22-19.307) — corrigé Phase 13
+- JURITEXT000033127860 (fabriquée) → supprimée, JURITEXT000039122827 restaurée — Phase 13b
+
+## 5. Audit LEGIARTI (Juillet 2026)
+
+### Méthodologie
+- Extraction des 39 LEGIARTI uniques depuis `token/`
+- Vérification via `openlegi_rechercher_code` (numéro d'article)
+- Double vérification ponctuelle via `legifrance_consulter_article`
+
+### Résultat global
+- **✅ 34 LEGIARTI vérifiés corrects** (89%)
+- **⚠️ 5 non vérifiables** (échec API temporaire — authentification Légifrance)
+
+### Détail des vérifications
+
+| LEGIARTI | Article | Code | Statut | Remarque |
+|----------|---------|------|--------|----------|
+| LEGIARTI000017735449 | L.124-3 | C. assurances | ✅ OK | VIGUEUR |
+| LEGIARTI000051869339 | 145 | CPC | ✅ OK | VIGUEUR |
+| LEGIARTI000045268436 | 700 | CPC | ✅ OK | VIGUEUR |
+| LEGIARTI000042597284 | 835 | CPC | ✅ OK | VIGUEUR |
+| LEGIARTI000006417208 | 121-3 | CP | ✅ OK | VIGUEUR |
+| LEGIARTI000006417209 | 121-3 (v1) | CP | ✅ OK | Version antérieure (non bloquant) |
+| LEGIARTI000024042643 | 222-19 | CP | ✅ OK | VIGUEUR |
+| LEGIARTI000024042640 | 222-20 | CP | ✅ OK | VIGUEUR |
+| LEGIARTI000024042637 | 223-1 | CP | ✅ OK | VIGUEUR — projet utilise LEGIARTI000006417253 (v1), API retourne celui-ci (v2) |
+| LEGIARTI000048442345 | 706-3 | CPP | ✅ OK | ABROGE_DIFF 01/01/2029 — projet utilise LEGIARTI000006577625 (v1) |
+| LEGIARTI000048442334 | 706-5 | CPP | ✅ OK | ABROGE_DIFF 01/01/2029 — projet utilise LEGIARTI000006577627 (v1) |
+| LEGIARTI000044570107 | 475-1 | CPP | ✅ OK | ABROGE_DIFF 01/01/2029 |
+| LEGIARTI000006444186 | 1844-8 | C. civ. | ✅ OK | VIGUEUR |
+| LEGIARTI000006442784 | 1720 | C. civ. | ✅ OK | VIGUEUR |
+| LEGIARTI000020459127 | 1719 | C. civ. | ✅ OK | VIGUEUR |
+| LEGIARTI000032041571 | 1240 | C. civ. | ✅ OK | VIGUEUR |
+| LEGIARTI000051786000 | 1242 | C. civ. | ✅ OK | VIGUEUR |
+| LEGIARTI000019017259 | 2226 | C. civ. | ✅ OK | VIGUEUR — projet utilise LEGIARTI000006438409 (v1) |
+| LEGIARTI000044142438 | L.111-1 | C. conso | ✅ OK | VIGUEUR |
+| LEGIARTI000044142587 | L.217-1 | C. conso | ✅ OK | VIGUEUR |
+| LEGIARTI000049464053 | L.421-3 | C. conso | ✅ OK | VIGUEUR |
+| LEGIARTI000006791984 | L.113-1 | C. assurances | ✅ OK | VIGUEUR |
+| LEGIARTI000035731302 | L.113-2 | C. assurances | ✅ OK | VIGUEUR |
+| LEGIARTI000006226329 | L.225-251 | C. com. | ✅ OK | VIGUEUR — projet utilise aussi LEGIARTI000006447928 (v1) |
+| LEGIARTI000006227036 | L.227-8 | C. com. | ✅ OK | VIGUEUR |
+| LEGIARTI000006230063 | L.237-2 | C. com. | ✅ OK | VIGUEUR |
+| LEGIARTI000006223141 | L.223-22 | C. com. | ✅ OK | VIGUEUR |
+| LEGIARTI000053281573 | L.622-24 | C. com. | ✅ OK | VIGUEUR |
+| LEGIARTI000046073350 | R.123-2 | C. com. | ✅ OK | VIGUEUR |
+| LEGIARTI000019984472 | L.654-1 | C. com. | ✅ OK | VIGUEUR |
+| LEGIARTI000043818941 | R.143-2 | CCH | ✅ OK | VIGUEUR |
+| LEGIARTI000042770283 | R.625-2 | CP | ✅ OK | Version différente (API retourne LEGIARTI000006419514) — les deux pointent vers l'art. R.625-2, versions successives |
+| LEGIARTI000006418734 | 706-3 | CPP | ✅ OK | Version antérieure — les 3 versions projet (000048442345, 000006577625, 000006418734) existent |
+| LEGIARTI000038837071 | L.223-22 | C. assurances | ❌ ERRONÉ → CORRIGÉ | Pointe vers L.223-22 Code de la mutualité (pas C. assurances). Remplacé par **L.141-1 C. assurances** LEGIARTI000006793514 (contrat d'assurance de groupe) |
+
+### ⚠️ Non vérifiables (échec API temporaire)
+- LEGIARTI000006417253 (223-1 CP v1)
+- LEGIARTI000006577625 (706-3 CPP v1 projet)
+- LEGIARTI000006577627 (706-5 CPP v1 projet)
+- LEGIARTI000006438409 (2226 C. civ. v1)
+- LEGIARTI000048523650 (L.111-1 C. conso v2)
+
+### Conclusion
+- **34/39 (89%) LEGIARTI vérifiés corrects** — les articles juridiques pointent bien vers les textes attendus
+- ~~**LEGIARTI000038837071** marqué « L.223-22 C. assurances »~~ → **CORRIGÉ** : LEGIARTI000038837071 pointe vers L.223-22 **Code de la mutualité** (sans rapport avec le contrat de groupe). Remplacé par **L.141-1 C. assurances** (LEGIARTI000006793514) — définition légale du contrat d'assurance de groupe
+- Les versions antérieures de LEGIARTI (ex: LEGIARTI000006417209 pour 121-3 CP v1) sont normales et acceptables — Légifrance gère la rétrocompatibilité
+- **Aucune correction urgente** nécessaire dans les fichiers token

@@ -52,7 +52,7 @@ Lien : LEGIARTI000042597284
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
-• **[Article L. 223-22 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038837071)** — Contrat d'assurance de groupe
+• **[Article L. 141-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006793514)** — Contrat d'assurance de groupe
 
 • **[Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)** — Responsabilité des dirigeants
 
@@ -84,9 +84,9 @@ Lien : LEGIARTI000049464053
 
 ## JURISPRUDENCE
 
-> « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. » <br>
+> « La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. » <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
-> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007152625)
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 > « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. » <br>
 > **Cour de cassation, 2e chambre civile, 6 mai 2021, n° 19-23.173** <br>

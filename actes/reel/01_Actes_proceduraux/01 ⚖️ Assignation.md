@@ -136,7 +136,7 @@ Constitue une faute personnelle séparable des fonctions sociales engageant la r
 
 > « Le dirigeant d'une société en procédure collective peut engager sa responsabilité personnelle s'il a commis une faute de gestion ayant contribué à l'insuffisance d'actif. » <br>
 > **Cour de cassation, chambre commerciale, 7 septembre 2022, n° 20-20.404** <br>
-> [Arrêt n°20-20.404](https://www.legifrance.gouv.fr/juri/id/JURITEXT000046284523)
+> [Arrêt n°20-20.404](https://www.legifrance.gouv.fr/juri/id/JURITEXT000046282365)
 
 En l'espèce, le défaut d'entretien des locaux et de sécurisation de la vasque céramique présentant une cassure préexistante non signalée, le défaut d'assurance de responsabilité civile professionnelle et le silence systématique opposé aux demandes de la victime caractérisent une méconnaissance des obligations essentielles de sécurité dont le caractère réitéré et l'absence de toute mesure corrective excluent qu'ils aient pu légitimement ignorer le risque pour la clientèle. Une telle carence est de nature à engager la responsabilité personnelle in solidum de Mountasser SABIR et de Catherine ANDISSAC avec la personne morale.
 
