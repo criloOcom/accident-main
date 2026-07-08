@@ -62,17 +62,18 @@ def check_internal_links() -> None:
 
 # ── 2. Tokens connus ──────────────────────────────────────────────────
 def check_tokens() -> None:
-    annexe_a = Path("actes/token/06_Archives/annexes") / "📚 ANNEXE A Lexique Tokens.md"
-    if not annexe_a.exists():
-        err("ANNEXE_A introuvable — impossible de vérifier les tokens")
+    token_map = Path("memory/TOKEN MAP.md")
+    if not token_map.exists():
+        err("TOKEN MAP.md introuvable — impossible de vérifier les tokens")
         return
 
-    token_lines = annexe_a.read_text(encoding="utf-8").splitlines()
+    token_lines = token_map.read_text(encoding="utf-8").splitlines()
     known_tokens = set()
     for line in token_lines:
-        m = re.match(r'.*\[([^\]]+)\]\s*=', line)
-        if m:
-            known_tokens.add(m.group(1))
+        for m in re.finditer(r'\[([^\]]+)\]', line):
+            tok = m.group(1).replace("**", "").strip()
+            if tok and tok != "...":
+                known_tokens.add(tok)
 
     acte_files = all_acte_md()
     token_usage = re.compile(r'\[([^\]]+)\](?!\s*\()')
