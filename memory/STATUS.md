@@ -53,6 +53,29 @@
 | Phase 13c (vérification MCP complète) | 7 fichiers (token + reel) | 6 JURITEXT invalides corrigées + 1 date + 1 hallucination identifiée |
 | **Total** | **50** | **25 erreurs corrigées + 1 restauration + 1 hallucination identifiée** |
 
+## Phase 14 — Merge 3 PRs Jules + corrections résiduelles (8 juillet 2026) ✅
+
+### PR #69 ⚡ Optimisation regex `extract_pieces.py`
+- **Verdict** : ❌ Fermée sans merge. Benchmark uniquement, optimisation jamais appliquée au code. Fichier cible (`extract_pieces.py`) inexistant sur `main` (obsolète post-Phase 13c).
+
+### PR #70 🧹 Remove unused import shutil
+- **Verdict** : ✅ **Mergée** (commit `93ed0ba`). Rebase propre sur `origin/main` avec résolution conflit.
+- **Réel diff** : `.dev/app/add_page_breaks.py` — 1 ligne supprimée. Toutes les autres modifs (token/Phase 13c) déjà dans `main`.
+
+### PR #71 📊 Rapport audit jurisprudence + corrections token
+- **Verdict** : ❌ Fermée sans merge direct (branche pré-Phase 13c, rebase impossible sans centaines de conflits).
+- **Contributions extraites** → commit `5e90346` :
+  - `reports/jurisprudence/rapport_audit_jurisprudence.md` (750 lignes — nouveau)
+  - 6 fichiers `actes/token/` enrichis : 32 insertions, 22 suppressions (ratios vérifiés, remplacement Art. 2226 → L.124-3 C.assur., ajout arrêts Soc. 11-14.339, Civ2 90-14.261, Civ2 15-15.306, Civ2 96-16.128)
+
+### Commits finaux sur `main`
+| Commit | Message | Fichiers |
+|--------|---------|----------|
+| `93ed0ba` | fix: Remove unused import shutil | 1 |
+| `5e90346` | feat: add jurisprudence audit report + enrich token citations | 7 |
+| `f35d056` | docs: Jules session closing protocol (RULES #12, DECISIONS, AGENTS #12, WORKFLOW) | 4 |
+| `66de8b6` | fix: Phase 13b/13c corrections résiduelles — JURITEXT, tokens, rapports, protocole | 26 |
+
 ## Phase 12 — Corrections post-audit + 26 PRs Jules (7-8 juillet 2026) ✅
 
 ### Ce qui a été fait
