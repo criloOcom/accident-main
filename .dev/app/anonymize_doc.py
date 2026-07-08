@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import re, sys
+import re
 
 with open('/tmp/original_assignation.txt', 'r', encoding='utf-8') as f:
     text = f.read()
