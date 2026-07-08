@@ -1,6 +1,5 @@
 import re
 import os
-import shutil
 
 NORMALIZED_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'markdown_normalized')
 RAW_DIR = '/tmp/opencode/markdown_originals'
