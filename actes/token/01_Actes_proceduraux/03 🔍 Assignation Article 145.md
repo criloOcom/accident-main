@@ -75,9 +75,6 @@ Le refus persistant de la partie adverse de communiquer cette information consti
 La jurisprudence admet que la communication forcee d'un document contractuel constitue une mesure d'instruction licite au sens de l'Article 145 CPC, des lors qu'elle est necessaire a la preparation d'un proces futur.
 
 > « L'autorisation de licenciement est requise pendant six mois pour le candidat au premier ou au second tour des élections aux fonctions de délégué du personnel à compter de l'envoi à l'employeur de la lettre du syndicat lui notifiant cette candidature, sans que son retrait ultérieur de la liste à l'occasion du report des élections n'ait d'incidence sur cette protection. » <br>
-> **Cour de cassation, chambre sociale, 26 septembre 2012, n° 11-14.339** <br>
-> [Arrêt n°11-14.339](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026432928)
-
 ### B. SUR LE DROIT D'ACTION DIRECTE DE LA VICTIME (L.124-3)
 L'article L.124-3 du Code des assurances consacre le droit de la victime d'agir directement contre l'assureur de la personne responsable :
 
@@ -109,7 +106,7 @@ L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu
 Vu l'Article 145 du Code de procédure civile,
 Vu l'Article L. 124-3 du Code des assurances,
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions** <br>
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Les assurances de responsabilité** <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
 Vu les articles L. 227-8 et L. 225-251 du Code de commerce,

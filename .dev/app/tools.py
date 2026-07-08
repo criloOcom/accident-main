@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import json
 import os
+import stat
 import sys
 import urllib.request
 import urllib.parse
@@ -56,7 +57,7 @@ def _get_gdrive_token() -> str:
         creds.refresh(Request())
         saved['access_token'] = creds.token
         saved['expiry_date'] = int(creds.expiry.timestamp() * 1000) if creds.expiry else 0
-        with open(CREDS_PATH, 'w') as f:
+        with open(os.open(CREDS_PATH, os.O_WRONLY | os.O_CREAT | os.O_TRUNC, stat.S_IRUSR | stat.S_IWUSR), 'w') as f:
             json.dump(saved, f)
     return creds.token
 
