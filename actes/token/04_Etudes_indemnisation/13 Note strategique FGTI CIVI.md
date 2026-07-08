@@ -47,7 +47,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 - Le FGTI prendra en charge la totalité des préjudices validés par l'expertise judiciaire, déduction faite des provisions déjà versées et des créances des tiers payeurs (CPAM).
 
 ## 6. PIÈCES NÉCESSAIRES POUR LA DEMANDE CIVI
-- Copie de la plainte et du procès-verbal de police (n°2026/015967).
+- Copie de la plainte et du procès-verbal de police (n°[N° PV Police]).
 - Certificats médicaux (dont le CMI constatant les blessures) et arrêts de travail justifiant de l'ITT de 56 jours.
 - Comptes-rendus opératoires (notamment SOS Main).
 - Justificatifs des pertes de revenus (PGPA, déclarations URSSAF) et des frais divers engagés.

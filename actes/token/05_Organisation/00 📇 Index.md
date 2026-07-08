@@ -98,7 +98,7 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-07-05 - 22 📋 Attestation Témoin Client - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
 - 2026-07-05 - 23 📋 Attestation Pompier SAMU - V1 ✓ Vérifié : Gabarit d'attestation d'intervention.
 - 2026-07-05 - 24 📋 Attestation Employé - V1 ✓ Vérifié : Gabarit d'attestation d'employé.
-- 2026-07-05 - 25 📧 Relance Dr DJERBI - V1 ✓ Vérifié : Relance demande certificat médical de consolidation.
+- 2026-07-05 - 25 📧 Relance [Le Chirurgien SOS Main] - V1 ✓ Vérifié : Relance demande certificat médical de consolidation.
 - 2026-07-05 - 26-28 📧 Attestations Témoin - V1 ✓ Vérifié : Attestations témoin (client, pompier, employé) versions réalistes.
 
 <hr>
