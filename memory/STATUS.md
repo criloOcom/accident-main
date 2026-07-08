@@ -1,5 +1,50 @@
 # STATUT D'AVANCEMENT — 8 juillet 2026
 
+## Phase 15 — Merge 12 PRs Jules + RGPD + Chiffrage (8 juillet 2026) ✅
+
+### Merge 12 PRs Jules (toutes mergées sur main)
+| PR | Titre | Statut | Fichiers |
+|----|-------|--------|----------|
+| #73 | Rapport audit avocat | ✅ Mergée (rebase) | `reports/audit/rapport_audit_avocat.md` |
+| #74 | Audit RGPD | ✅ Mergée (rebase) | `reports/audit/RAPPORT_AUDIT_RGPD.md` |
+| #75 | Expertise barémique | ✅ Mergée (rebase) | `reports/expertise/20260708_Rapport_Baremique_Dintilhac.md` |
+| #76 | Note stratégique FGTI/CIVI | ✅ Mergée (1er) | `actes/{token,reel}/04_Etudes_indemnisation/13 Note strategique FGTI CIVI.md` |
+| #77 | Audit organisation | ✅ Mergée (rebase) | `reports/audit/RAPPORT_ORGANISATION_METHODE.md` |
+| #78 | Audit dirigeants | ✅ Mergée (rebase) | `reports/audit/RAPPORT_DIRIGEANTS.md` |
+| #79 | Rapport conformité ERP | ✅ Mergée (rebase) | `reports/audit/rapport_conformite_erp.md` |
+| #80 | Note Droit Assurances (token+reel) | ✅ Mergée (rebase) | `actes/{token,reel}/03_Analyses_juridiques/15 Note Droit Assurances.md` |
+| #81 | Rapport assurance | ✅ Mergée (rebase) | `reports/expertise/analyse_strategie_assurance.md` |
+| #82 | Ordonnance référé | ✅ Déjà mergée | `reports/ordonnance_refere.md` |
+| #83 | Réquisitoire introductif (token) | ✅ Mergée (rebase + force push) | `actes/token/01_Actes_proceduraux/15 ⚖️ Réquisitoire introductif.md` |
+| #84 | Mémoire défense adverse (token) | ✅ Mergée (rebase) | `actes/token/03_Analyses_juridiques/99 🛡️ Memoire en defense adverse.md` |
+
+### Génération reel (#83, #84)
+- `generate_real_versions.py` : 57 fichiers générés dans `actes/reel/`
+- ✅ Réquisitoire et Mémoire défense désormais disponibles en versions réelles
+
+### RGPD — Fuites critiques nettoyées
+- **Supprimé** : `actes/token/06_Archives/annexes/📚 ANNEXE A Lexique Tokens.md` (contenait toutes les correspondances identités réelles)
+- **DJERBI** → `[Le Chirurgien SOS Main]` dans `00 📇 Index.md`
+- **PV police 2026/015967** → `[N° PV Police]` dans 5 fichiers token (Réquisitoire, Mémoire défense, Stratégie, FGTI, Conclusions)
+- **0 nom réel** restant dans `actes/token/`
+- **Commit** : `56ca5bc` (fix RGPD)
+
+### Chiffrage — Ajustements post-audits
+| Poste | Avant | Après |
+|-------|-------|-------|
+| ATP (Tierce Personne) | *(absent)* | **2 000 €** |
+| **Total Dintilhac** | **~90 000 €** | **~92 000 €** |
+| SE / DFP / Frais | *(déjà alignés audits)* | ✅ Inchangés (SE 15k, DFP 10%/25k, Frais 3k) |
+
+### Commits sur main
+| Commit | Message |
+|--------|---------|
+| `20cf664` | feat: merge 4 PRs Jules — nouveaux actes (FGTI, Assurances, Réquisitoire, Défense) + reel |
+| `56ca5bc` | fix(rgpd): supprimer ANNEXE A + anonymiser PV police et DJERBI |
+| `cc204a6` | feat(chiffrage): ajout ATP tierce personne (2k€), total 90k→92k |
+
+---
+
 ## Phase 13 — Corrections hallucinations et JURITEXT (8 juillet 2026) ✅
 
 ### Hallucination SATI (99-17.092) corrigée dans 12 fichiers

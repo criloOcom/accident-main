@@ -65,6 +65,7 @@ Le dossier repose sur une **double strate de documents** générée par [generat
 | 04 | [04 📑 Bordereau unifié.md](./actes/token/01_Actes_proceduraux/04%20%F0%9F%93%91%20Bordereau.md) | Bordereau unifié 43 pièces (groupes A-G) |
 | 05 | [05 🎯 Conclusions Refere.md](./actes/token/01_Actes_proceduraux/05%20%F0%9F%8E%AF%20Conclusions%20Refere.md) | Conclusions référé (date à fixer) |
 | 06 | [06 📸 Requete Constat Huissier.md](./actes/token/01_Actes_proceduraux/06%20%F0%9F%93%B8%20Requete%20Constat%20Huissier.md) | Requête constat d'huissier (Art. 145 CPC) |
+| 15 | [15 ⚖️ Réquisitoire introductif.md](./actes/token/01_Actes_proceduraux/15%20%E2%9A%96%EF%B8%8F%20R%C3%A9quisitoire%20introductif.md) | Réquisitoire introductif enquête pénale |
 
 ### Courriers et gabarits ([02_Courriers/](./actes/token/02_Courriers/))
 
@@ -99,12 +100,17 @@ Le dossier repose sur une **double strate de documents** générée par [generat
 | [09 ❓ FAQ.md](./actes/token/03_Analyses_juridiques/09 ❓ FAQ.md) | FAQ juridique |
 | [12 📁 Dossier Plaidoirie.md](./actes/token/03_Analyses_juridiques/12%20%F0%9F%93%81%20Dossier%20Plaidoirie.md) | Dossier de plaidoirie (date à fixer) |
 | [13 📜 Responsabilites legales.md](./actes/token/03_Analyses_juridiques/13%20%F0%9F%93%9C%20Responsabilites%20legales.md) | Responsabilités légales dirigeants |
+| [14 📐 Stratégie jurisprudentielle.md](./actes/token/03_Analyses_juridiques/14%20Strat%C3%A9gie%20jurisprudentielle.md) | Stratégie jurisprudentielle |
+| [15 📝 Note Droit Assurances.md](./actes/token/03_Analyses_juridiques/15%20Note%20Droit%20Assurances.md) | Note sur le droit des assurances |
+| [99 🛡️ Memoire en defense adverse.md](./actes/token/03_Analyses_juridiques/99%20%F0%9F%9B%A1%EF%B8%8F%20Memoire%20en%20defense%20adverse.md) | Mémoire en défense adverse anticipé |
 
 ### Études indemnisation ([04_Etudes_indemnisation/](./actes/token/04_Etudes_indemnisation/))
 
 | Document | Description |
 |----------|-------------|
 | [11 💰 Etude indemnisation.md](./actes/token/04_Etudes_indemnisation/11%20%F0%9F%92%B0%20Etude%20indemnisation.md) | Évaluation Dintilhac 59 600 € |
+| [11+12 📊 Evaluation Dintilhac consolidee.md](./actes/token/04_Etudes_indemnisation/11+12%20%F0%9F%93%8A%20Evaluation%20Dintilhac%20consolidee.md) | Évaluation consolidée ~92 000 € |
+| [13 📋 Note strategique FGTI CIVI.md](./actes/token/04_Etudes_indemnisation/13%20Note%20strategique%20FGTI%20CIVI.md) | Note stratégique FGTI / CIVI |
 
 ### Organisation ([05_Organisation/](./actes/token/05_Organisation/))
 
@@ -123,7 +129,10 @@ Le dossier repose sur une **double strate de documents** générée par [generat
 |---------|-------------|
 | [audit/](./reports/audit/) | Rapports d'audit, suivi des agents, rapports techniques et d'anonymisation |
 | [expertise/](./reports/expertise/) | Mémoires juridiques, analyses approfondies et gloses |
+| [jurisprudence/](./reports/jurisprudence/) | Rapports d'audit de jurisprudence |
 | [ordalie/](./reports/ordalie/) | Rapports de validation juridique et tests de cohérence ("ordalie") |
+| [anonymisation/](./reports/anonymisation/) | Rapports d'audit d'anonymisation |
+| [ordonnance_refere.md](./reports/ordonnance_refere.md) | Projet d'ordonnance de référé motivée |
 
 ---
 

@@ -11,11 +11,10 @@
 ## 📋 TABLEAU DE BORD SÉBASTIEN
 
 ### ✅ Dernières actions IA (8 juillet 2026)
-- **Chiffrage unifié** : 59 600 € → **~90 000 €** dans toutes les analyses actives + plainte
-- **Provision alignée** : Dossier Plaidoirie 5 000 → **15 000 €** (conforme assignation)
-- **08-15.103 supprimé** : hallucination confirmée (0 résultat Judilibre + Légifrance)
-- **Sync NotebookLM** : sync automatique Drive activée (126 fichiers, push → Drive)
-- **Adresse PV police** : variance "DE LA FAURIE" documentée dans STRICT VARIABLES
+- **12 PRs Jules mergées** (#73-84) : audits avocat, RGPD, barémique, assurance, FGTI, organisation, dirigeants, ERP, ordonnance
+- **RGPD nettoyé** : ANNEXE A supprimée, fuites DJERBI et PV police anonymisées
+- **Chiffrage** : +ATP tierce personne (2k€), total révisé **~92 000 €**
+- **Réel généré** : 57 fichiers (incl. Réquisitoire + Mémoire défense)
 
 ### 🔔 Dates à fixer (rappel quotidien)
 
