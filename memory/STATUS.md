@@ -471,6 +471,7 @@ code Python lit ensuite en fallback.
 - **Scripts mis à jour** : `add_yaml_actes.py` (4 entrées), `batch_link_legifrance.py` (chemins corrigés + support JURITEXT)
 - **Index mis à jour** : stats (14 docs), mention fichiers à insérer supprimée, travaux restants nettoyés
 - `python3 app/check_consistency.py` : 0 erreur, 1 avertissement (bénin)
+- **Sync NotebookLM** : `.dev/app/sync_notebooklm.py` + `.github/workflows/sync-notebooklm.yml` créés. Sync automatique vers Drive `Accident Main - NotebookLM/` (Actes Reel, Memory, Lois). Secrets GitHub configurés (GOOGLE_DRIVE_CLIENT_ID, CLIENT_SECRET, REFRESH_TOKEN). 126 fichiers uploadés lors du premier sync.
 
 ## Phase 5c — Injection des 4 courriers sur Drive (5 juillet 2026) ✅
 
