@@ -141,7 +141,7 @@ Pour La Victime, informaticien indépendant, l'incidence professionnelle est maj
 
 Elle ne se limite pas à la perte de gains actuels mais inclut la dévalorisation sur le marché du travail et la pénibilité accrue.
 
-Le préjudice global est estimé à 59 600 €, incluant le déficit fonctionnel permanent et les souffrances endurées, tel que détaillé dans l'étude d'indemnisation prospective.
+Le préjudice global est estimé à **~90 000 €**, incluant le déficit fonctionnel permanent et les souffrances endurées, tel que détaillé dans l'étude d'indemnisation prospective.
 
 
 <hr>

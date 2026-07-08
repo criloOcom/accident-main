@@ -130,7 +130,7 @@ Le pronostic de récupération est réservé, avec un délai minimal d'un an év
 
 Sur le plan financier, le plaignant est privé de revenus depuis l'accident.
 
-Les pertes d'exploitation sont d'ores et déjà significatives et le préjudice global est estimé à ce jour à la somme de 59 600 €.
+Les pertes d'exploitation sont d'ores et déjà significatives et le préjudice global est estimé à ce jour à la somme de **~90 000 €**.
 
 L'absence de communication de l'assurance bloque toute offre d'indemnisation amiable, l'accès à une expertise médicale contradictoire et la prise en charge des soins par la CPAM (dossier [ ... ]).
 

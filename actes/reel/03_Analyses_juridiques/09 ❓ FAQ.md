@@ -149,7 +149,7 @@ La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jour
 > **Code de procédure civile > Partie législative > Livre II > Titre III > Chapitre Ier** <br>
 > [Article 835](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
 
-Une étape cruciale est fixée au 12 novembre 2026 pour l'expertise médicale à l'UMJ de Toulouse, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à 59 600 €).
+Une étape cruciale est fixée au 12 novembre 2026 pour l'expertise médicale à l'UMJ de Toulouse, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à **~90 000 €**).
 
 À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation (Article 2226 du Code civil).
 
@@ -163,7 +163,7 @@ Une étape cruciale est fixée au 12 novembre 2026 pour l'expertise médicale à
 ## VI. POINTS DE VIGILANCE ET CONCLUSION
 Bien que le dossier soit solide, certains points bloquants persistent, notamment l'absence de constat d'huissier immédiat et le refus des dirigeants de communiquer les coordonnées de leur assureur.
 
-Néanmoins, l'action directe et la responsabilité personnelle des dirigeants constituent des leviers puissants pour obtenir une indemnisation juste, estimée globalement à 59 600 € sous réserves d'aggravation.
+Néanmoins, l'action directe et la responsabilité personnelle des dirigeants constituent des leviers puissants pour obtenir une indemnisation juste, estimée globalement à **~90 000 €** sous réserves d'aggravation.
 
 *Synthèse établie pour servir et valoir ce que de droit. © Sébastien GRAZIDE.*
 

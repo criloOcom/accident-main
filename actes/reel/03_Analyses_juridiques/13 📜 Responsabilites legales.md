@@ -134,7 +134,7 @@ Il convient de noter que le préposé bénéficie d'une immunité civile selon l
 > [Arrêt Cousin](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351)
 
 ### A. ACTION DIRECTE CONTRE L'ASSUREUR
-Le levier le plus efficace demeure l'action directe contre l'assureur RC de la SAS, fondée sur l'article L. 124-3 du Code des assurances, garantissant la réparation intégrale des préjudices (pertes de revenus, préjudice corporel et moral) estimés à ce jour à 59 600 € (selon l'étude d'indemnisation détaillée).
+Le levier le plus efficace demeure l'action directe contre l'assureur RC de la SAS, fondée sur l'article L. 124-3 du Code des assurances, garantissant la réparation intégrale des préjudices (pertes de revenus, préjudice corporel et moral) estimés à ce jour à **~90 000 €** (selon l'étude d'indemnisation détaillée).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier** <br>

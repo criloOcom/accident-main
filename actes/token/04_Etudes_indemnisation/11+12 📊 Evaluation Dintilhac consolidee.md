@@ -102,7 +102,7 @@ L'estimation médiane révisée est de **~85 000 à 105 000 €** (fourchette co
 | DEP *(poste ajouté)* | *(absent)* | *(absent)* | 2 000-5 000 € | **3 000 €** |
 | Frais divers | 2 000 € | 3 500 € | 3 000-5 000 € | **3 000 €** |
 | Article 700 CPC | 4 000 € | 2 250 € | 1 500-3 000 € | **3 000 €** |
-| **TOTAL** | **~105 000 €** | **~45 000 €** | **55 000-105 000 €** | **~88 780 €** |
+| **TOTAL** | **~105 000 €** | **~45 000 €** | **55 000-105 000 €** | **~90 000 €** |
 
 ## 2.2 FOURCHETTES D'INDEMNISATION PAR POSTE
 
@@ -481,7 +481,7 @@ Trois évaluations convergent vers une provision minimale de **10 000 à 15 000 
 | Glose | 8 000 € | PGPA 1 380 + frais méd. 3 000 + SE 3 000 + art. 700 2 000 |
 | Critique Glose | 15 000 € minimum | Confirme notre position |
 
-**Compromis retenu : Demander 10 000 € en provision + 3 000 € art. 700 = 13 000 €**
+**Compromis retenu : Demander 15 000 € en provision (dont 3 000 € art. 700)**
 
 ## 5.2 JUSTIFICATION DE L'URGENCE
 
@@ -498,7 +498,7 @@ Trois évaluations convergent vers une provision minimale de **10 000 à 15 000 
 
 ## 5.4 RECOMMANDATION FINALE
 
-La provision de 13 000 € est justifiée par :
+La provision de 15 000 € est justifiée par :
 1. L'urgence médicale (rééducation, adaptation ergonomique)
 2. L'insolvabilité de la SAS (capital 200 €)
 3. La nécessité de préparer l'expertise du 12 novembre 2026
@@ -524,5 +524,5 @@ La provision de 13 000 € est justifiée par :
 | DEP (dévalorisation future) | 3 000 € |
 | Frais divers | 3 000 € |
 | Frais Art. 700 CPC | 3 000 € |
-| **TOTAL DEMANDÉ** | **~88 780 €** |
-| **Provision référé demandée** | **13 000 €** |
+| **TOTAL DEMANDÉ** | **~90 000 €** |
+| **Provision référé demandée** | **15 000 €** |

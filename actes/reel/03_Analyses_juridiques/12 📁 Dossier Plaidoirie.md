@@ -38,7 +38,7 @@ format: Arial JUSTIFIED
 **ÉVÉNEMENT :** Accident corporel grave survenu le 29 mai 2026. Basculement d'un équipement défectueux causant une section nerveuse et tendineuse à la main droite de Sébastien GRAZIDE.
 
 **MONTANTS EN JEU :**
-- Évaluation globale provisoire du préjudice : 59 600 €
+- Évaluation globale provisoire du préjudice : ~90 000 €
 - Demande de provision en référé : 5 000 €
 - Frais irrépétibles (Article 700 du CPC) : 3 000 €
 
@@ -107,7 +107,7 @@ Monsieur le Juge, je vous renvoie aux pièces listées dans notre bordereau, et 
 ## 6. MONTANTS DEMANDÉS
 La présente procédure de référé ne vise pas à solder définitivement le dossier (dans l'attente de la consolidation) mais à accorder une provision.
 
-- **Évaluation globale estimée du préjudice final :** 59 600 €
+- **Évaluation globale estimée du préjudice final :** ~90 000 €
   
 - **Provision demandée à l'audience :** 5 000 €
   
@@ -116,7 +116,7 @@ La présente procédure de référé ne vise pas à solder définitivement le do
 <hr><hr>
 
 ## 7. QUESTIONS PROBABLES DU JUGE ET RÉPONSES PRÉPARÉES
-**Q1 : "Pourquoi demandez-vous seulement 5 000 € en provision alors que vous estimez le préjudice à près de 60 000 € ?"** <br>
+**Q1 : "Pourquoi demandez-vous seulement 5 000 € en provision alors que vous estimez le préjudice à près de 90 000 € ?"** <br>
 Monsieur le Juge, l'audience de référé vise à allouer une indemnisation provisionnelle d'urgence pour faire face aux premiers frais et à la perte immédiate d'exploitation. L'évaluation définitive du déficit fonctionnel et de l'incidence professionnelle de Sébastien GRAZIDE nécessite une consolidation médicale (expertise de novembre), justifiant de limiter la demande immédiate à une somme incontestable.
 
 **Q2 : "Avez-vous l'attestation d'assurance de la société SAS LES MAUVAIS GARCONS ?"** <br>

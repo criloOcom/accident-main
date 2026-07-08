@@ -81,6 +81,7 @@
 - ZONE_LESEE : Index droit uniquement (section partielle tendon fléchisseur + paquet collatéral + neurolyse nerf palmaire)
 - PREUVE_BANCAIRE : Wero 15,00 € payé puis remboursé le jour même (preuve de présence matérielle dans les lieux et de relation contractuelle)
 - DATE_ACCIDENT_CERTIFICAT_ERREUR : Certains certificats mentionnent 29/06/2026 par erreur (date réelle : 29/05/2026)
+- ADRESSE_PV_POLICE_ERREUR : PV police n°2026/015967 écrit "22, RUE DE LA FAURIE" (orthographe police). Tous les documents utilisent "22 Rue Lafaurie" (orthographe correcte). Variance mineure sans incidence.
 
 ## Mécanisme de l'accident (VÉRITÉ FACTUELLE)
 1. Le coiffeur (**[Le Préposé de l'Exploitation]**) est monté physiquement sur la vasque en céramique du bac à shampoing
