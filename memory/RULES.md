@@ -105,6 +105,14 @@
 - Tokens d'anonymisation en **bold** dans le body
 - Se référer à `memory/DESIGN.md` pour le détail complet de la charte
 
+## #13 — NOTEBOOKLM MCP — SOURCE DE CONTEXTE PROJET
+- **NotebookLM** est une source de contexte supplémentaire : les sources du projet sont chargées dans le notebook `accident-main`
+- Tout agent doit utiliser `notebooklm_ask_question(notebook_id="accident-main")` pour obtenir des réponses contextuelles ancrées dans ces sources
+- Le `session_id` retourné doit être conservé et réutilisé pour les questions de suivi (conversation contextuelle)
+- **Ne pas utiliser NotebookLM comme unique source de vérité** juridique — les vérifications JURITEXT/LEGIARTI via Légifrance/Judilibre restent obligatoires (Règle #10)
+- NotebookLM complète la recherche juridique existante : il peut synthétiser et recouper les sources du projet
+- Voir la section dédiée dans `AGENTS.md` pour les détails de configuration
+
 ## #12 — CYCLE DE VIE DES SESSIONS JULES — RÈGLE ABSOLUE
 - **TOUTE session Jules doit être conclue par un message de clôture** explicite (pas seulement abandonnée).
 - Une session qui a terminé son travail (rapport reçu, PR créé, mission accomplie) reçoit un message de type : « Mission terminée, tu peux archiver cette session. » ou « Rapport reçu, tu peux clôturer. »

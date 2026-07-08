@@ -6,3 +6,4 @@
 - [13 📜 Responsabilites legales.md](13 📜 Responsabilites legales.md)
 - [14 Stratégie jurisprudentielle.md](14 Stratégie jurisprudentielle.md)
 - [15 Note Droit Assurances.md](15 Note Droit Assurances.md)
+- [99 🛡️ Memoire en defense adverse.md](99 🛡️ Memoire en defense adverse.md)

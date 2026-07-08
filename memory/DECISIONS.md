@@ -64,6 +64,14 @@
 - **Anti-pattern** : laisser des sessions en plan (« l'agent a fini, je passe à autre chose ») — les agents restent dans un état d'attente indéfini.
 - **Propagation** : cette décision est enregistrée dans RULES.md (#12), AGENTS.md (règle #12), WORKFLOW.md et DECISIONS.md pour visibilité maximale.
 
+## NotebookLM MCP — DÉCISION 2026-07-08
+- **Un notebook NotebookLM** a été créé et chargé avec les sources du projet : ID `accident-main`, URL `https://notebooklm.google.com/notebook/3dbe69da-5e8a-4f23-bc0c-d277bcf993d6`
+- **MCP server** `notebooklm` configuré dans `opencode.jsonc` et accessible à tous les agents opencode
+- **Usage** : tout agent peut poser des questions contextuelles via `notebooklm_ask_question(notebook_id="accident-main")` pour obtenir des réponses ancrées dans les sources chargées
+- **Audio Overview** : possible via la chaîne `generate_audio` → `get_audio_status` → `download_audio`
+- **Auth** : cookies Google persistés ; `notebooklm_get_health` pour vérifier l'état ; `setup_auth` / `re_auth` pour reconnecter si besoin
+- **Propagation** : cette décision est enregistrée dans AGENTS.md (section NotebookLM), RULES.md (#13) et DECISIONS.md
+
 ## Limitations du script batch_anonymize.py
 - Utilise `str.replace()` → ne capture que les chaînes exactes
 - Les prénoms seuls ("Sébastien") et les noms en casse mixte ("Mountasser Sabir", ancien format inversé) ne sont pas remplacés

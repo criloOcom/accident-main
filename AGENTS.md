@@ -48,6 +48,17 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
     └── ...
 ```
 
+## NotebookLM (MCP)
+
+Le projet dispose d'un notebook **Google NotebookLM** dédié (`accident-main`) qui contient les sources versées. Il est accessible via le MCP `notebooklm` configuré dans `opencode.jsonc`.
+
+- **Notebook ID** : `accident-main`
+- **URL** : `https://notebooklm.google.com/notebook/3dbe69da-5e8a-4f23-bc0c-d277bcf993d6`
+- **Commande** : `notebooklm_ask_question` (conserver le `session_id` pour le contexte conversationnel)
+- **Audio Overview** : `notebooklm_generate_audio` + `notebooklm_get_audio_status` + `notebooklm_download_audio`
+
+**Tout agent** peut et doit interroger ce notebook pour obtenir des réponses contextuelles ancrées dans les sources du projet (lois, documents, pièces). Utiliser `notebooklm_ask_question` avec `notebook_id: "accident-main"` après chaque source ajoutée pour valider que le contenu est bien indexé.
+
 ## Règles essentielles
 
 0. 🔴 **Lire `memory/VACCIN.md` AVANT toute action** — protocole de vaccination
@@ -55,11 +66,12 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
 1. **Toute mémoire persistante** doit être dans `/home/crilocom/accident-main/memory/` — **PAS** dans un dossier privé d'agent
 2. **Toute modification** de document Google Docs doit suivre le workflow décrit dans `memory/WORKFLOW.md`
 3. **Les tokens d'anonymisation** sont définis dans `.dev/app/batch_anonymize.py` — toute modification des tokens doit être faite dans les DEUX endroits (script + TOKEN MAP.md)
-4. **Compétences MCP** disponibles dans `/home/crilocom/.agents/skills/` :
-   - `google-docs-linking` — insertion de liens Légifrance/Judilibre
-   - `google-docs-design` — mise en page professionnelle
-   - `accident-main-legal-research` — recherche juridique
-   - `document-anonymization` — règles d'anonymisation
+4. **Compétences MCP** disponibles :
+   - `notebooklm` (MCP serveur) — interroger NotebookLM sur les sources du projet
+   - `google-docs-linking` (skill) — insertion de liens Légifrance/Judilibre
+   - `google-docs-design` (skill) — mise en page professionnelle
+   - `accident-main-legal-research` (skill) — recherche juridique
+   - `document-anonymization` (skill) — règles d'anonymisation
 5. **Interdiction absolue** d'utiliser du markdown brut, regex, ou find/replace direct sur les Google Docs — toujours passer par le workflow local puis `replaceDocumentWithMarkdown`
 6. **Google Sheets — RÈGLE ABSOLUE** : ne JAMAIS supposer la structure des colonnes. Avant d'écrire dans une feuille, **lis la ligne d'en-tête** et **3 lignes de données** pour valider le mapping exact. Supposer = cracher à la gueule de l'utilisateur.
 7. **Double strate token/reel** : les fichiers dans `actes/token/` (dossiers 00-06) DOIVENT toujours rester tokenisés (identités anonymisées). Les versions réelles (noms, adresses, email réels) sont générées dans `actes/reel/` via `.dev/app/generate_real_versions.py` — ne JAMAIS écrire de version réelle dans `actes/token/`.
