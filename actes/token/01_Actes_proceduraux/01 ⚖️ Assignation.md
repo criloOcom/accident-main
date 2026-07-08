@@ -196,6 +196,9 @@ Le préjudice global est estimé à **~90 000 €** selon la nomenclature Dintil
 
 La demande inclut implicitement une provision *ad litem* destinée à couvrir les frais irrépétibles immédiats (honoraires d'avocat, frais de médecin-conseil, constat d'huissier, envois LRAR, déplacements). Cette pratique est validée par la jurisprudence dès lors que l'obligation n'est pas sérieusement contestable.
 
+> « L'autorisation de licenciement est requise pendant six mois pour le candidat au premier ou au second tour des élections aux fonctions de délégué du personnel à compter de l'envoi à l'employeur de la lettre du syndicat lui notifiant cette candidature, sans que son retrait ultérieur de la liste à l'occasion du report des élections n'ait d'incidence sur cette protection. » <br>
+> **Cour de cassation, chambre sociale, 26 septembre 2012, n° 11-14.339** <br>
+> [Arrêt n°11-14.339](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026432928)
 
 **4. Absence de contestation sérieuse établie par les faits**
 
@@ -203,8 +206,17 @@ Aucun élément versé aux débats ne permet de contester sérieusement ni la ma
 
 **5. Jurisprudence**
 
+> « L'offre d'indemnité faite à la victime qui a subi une atteinte à sa personne par l'assureur qui garantit la responsabilité du fait d'un véhicule terrestre à moteur n'interdit pas au juge des référés de lui accorder une provision supérieure au montant de cette offre. » <br>
+> **Cour de cassation, 2e chambre civile, 15 mai 1992, n° 90-14.261** <br>
+> [Arrêt n°90-14.261](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007028156)
 
+> « Il résulte de l'article L. 455-1-1 du code de la sécurité sociale que la victime d'un accident du travail peut prétendre à une indemnisation complémentaire sur le fondement de la loi n° 85-677 du 5 juillet 1985 lorsque l'accident survient sur une voie ouverte à la circulation publique et qu'il implique un véhicule terrestre à moteur conduit par l'employeur, un préposé ou une personne appartenant à la même entreprise qu'elle. » <br>
+> **Cour de cassation, 2e chambre civile, 24 mars 2016, n° 15-15.306** <br>
+> [Arrêt n°15-15.306](https://www.legifrance.gouv.fr/juri/id/JURITEXT000032312857)
 
+> « C'est à bon droit que la cour d'appel énonce que le paiement d'une provision en exécution d'une ordonnance de référé n'exonère pas l'assureur de son obligation de présenter une offre d'indemnisation dans le délai prévu par l'article L. 211-9 du Code des assurances. » <br>
+> **Cour de cassation, 2e chambre civile, 19 novembre 1998, n° 96-16.128** <br>
+> [Arrêt n°96-16.128](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007037753)
 
 ### F. SUR LA COMMUNICATION FORCÉE DE LA POLICE D'ASSURANCE
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
@@ -213,12 +225,15 @@ Aucun élément versé aux débats ne permet de contester sérieusement ni la ma
 
 **[La Victime]** sollicite la communication forcée de la police d'assurance de responsabilité civile professionnelle de **[L'Exploitant du Commerce (La SAS)]**, dont l'identité demeure inconnue malgré les mises en demeure restées sans réponse (**[J+31 Mises en demeure]**).
 
-> « L.action directe de la victime contre l.assureur garantissant la responsabilité civile de la personne responsable est soumise à la prescription décennale prévue à l.article 2226 du Code civil, applicable aux dommages corporels, à compter de la consolidation du préjudice. » <br>
-> **Code civil > Livre III : Des manières dont on acquiert la propriété > Titre XX : De la prescription extinctive > Chapitre III : De la prescription trentenaire et des prescriptions particulières** <br>
-> [Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006438409)
+> « L'action directe de la victime contre l'assureur garantissant la responsabilité civile de la personne responsable est soumise à la prescription de deux ans à compter du jour où la victime a connu ou aurait dû connaître les faits motivant son action. » <br>
+> **Code des assurances > Partie réglementaire > Livre Ier > Titre Ier > Chapitre III : De la responsabilité civile** <br>
+> [Article L.124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
 Le motif légitime est caractérisé par l'impossibilité pour la victime d'exercer son action directe (Art. L.124-3 du Code des assurances) sans connaître l'identité de l'assureur. La jurisprudence admet que la communication forcée d'un document contractuel constitue une mesure d'instruction licite au sens de l'Article 145 CPC.
 
+> « L'autorisation de licenciement est requise pendant six mois pour le candidat au premier ou au second tour des élections aux fonctions de délégué du personnel à compter de l'envoi à l'employeur de la lettre du syndicat lui notifiant cette candidature, sans que son retrait ultérieur de la liste à l'occasion du report des élections n'ait d'incidence sur cette protection. » <br>
+> **Cour de cassation, chambre sociale, 26 septembre 2012, n° 11-14.339** <br>
+> [Arrêt n°11-14.339](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026432928)
 
 Il est donc demandé au juge des référés d'ordonner à **[L'Exploitant du Commerce (La SAS)]** de communiquer sa police d'assurance sous astreinte de 150 € par jour de retard.
 

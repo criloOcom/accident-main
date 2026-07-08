@@ -102,7 +102,7 @@ L'estimation médiane révisée est de **~85 000 à 105 000 €** (fourchette co
 | DEP *(poste ajouté)* | *(absent)* | *(absent)* | 2 000-5 000 € | **3 000 €** |
 | Frais divers | 2 000 € | 3 500 € | 3 000-5 000 € | **3 000 €** |
 | Article 700 CPC | 4 000 € | 2 250 € | 1 500-3 000 € | **3 000 €** |
-| **TOTAL** | **~105 000 €** | **~45 000 €** | **55 000-105 000 €** | **~89 780 €** |
+| **TOTAL** | **~105 000 €** | **~45 000 €** | **55 000-105 000 €** | **~88 780 €** |
 
 ## 2.2 FOURCHETTES D'INDEMNISATION PAR POSTE
 
@@ -118,7 +118,7 @@ L'estimation médiane révisée est de **~85 000 à 105 000 €** (fourchette co
 | DEP | 2 000 € | 5 000 € | 3 000 € |
 | Frais divers | 1 500 € | 5 000 € | 3 000 € |
 | Article 700 CPC | 1 500 € | 5 000 € | 3 000 € |
-| **TOTAL** | **~77 000 €** | **~139 000 €** | **~89 780 €** |
+| **TOTAL** | **~77 000 €** | **~139 000 €** | **~88 780 €** |
 
 <hr><hr>
 
@@ -524,5 +524,5 @@ La provision de 13 000 € est justifiée par :
 | DEP (dévalorisation future) | 3 000 € |
 | Frais divers | 3 000 € |
 | Frais Art. 700 CPC | 3 000 € |
-| **TOTAL DEMANDÉ** | **~89 780 €** |
+| **TOTAL DEMANDÉ** | **~88 780 €** |
 | **Provision référé demandée** | **13 000 €** |

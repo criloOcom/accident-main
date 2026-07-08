@@ -36,14 +36,6 @@ Tribunal Judiciaire de **[La Ville de l'Accident]**
 
 **[La Ville de Residence de la Victime]**, le **[J+38 Constitution PC]**
 
-> **Note relative au délai de l.article 85 du Code de procédure pénale :**
-> La présente constitution de partie civile est déposée à **[J+38]** tandis que la plainte simple a été déposée à **[J+4]**.
-> En vertu de l.article 85 du CPP, la saisine du doyen des juges d.instruction par constitution de partie civile
-> n.est recevable qu.après l.expiration d.un délai de trois mois suivant le dépôt de la plainte simple
-> (ou après classement sans suite). La présente constitue donc un acte préparatoire sous condition suspensive ;
-> le dossier sera réactivé à **[J+94]** (3 mois après J+4) ou après classement sans suite.
-> Une copie de la plainte simple est jointe sous **[Pièce n°7]**.
-
 ## INTRODUCTION
 La presente constitution de partie civile est formee par **[La Victime]** dans le cadre de la procedure penale suivie a l'encontre de la SAS **[L'Exploitant du Commerce (La SAS)]**, de son President **[Le President de l'Exploitation]** et de sa Directrice Generale **[La Directrice Generale de l'Exploitation]**, en application des articles 2 et suivants du Code de procedure penale.
 
@@ -53,7 +45,7 @@ Par cet acte, la victime entend exercer les droits reconnus a la partie civile a
 
 - [I — EXPOSE DES FAITS](#i--expose-des-faits)
 - [II — FONDEMENTS JURIDIQUES](#ii--fondements-juridiques)
-  - [A. SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES](#a-sur-la-qualification-penale--blessures-involontaires-art-222-19-cp)
+  - [A. SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES (ART. 222-19 CP)](#a-sur-la-qualification-penale--blessures-involontaires-art-222-19-cp)
   - [B. SUR LA RESPONSABILITE CIVILE PERSONNELLE DES DIRIGEANTS (L.227-8 + L.225-251 C.COM.)](#b-sur-la-responsabilite-civile-personnelle-des-dirigeants-l227-8--l225-251-ccom)
   - [C. SUR LE DEFAUT D'ASSURANCE DE RESPONSABILITE CIVILE (L.124-3 C.ASSUR.)](#c-sur-le-defaut-dassurance-de-responsabilite-civile-l124-3-cassur)
 - [III — PREJUDICES](#iii--prejudices)
@@ -82,8 +74,8 @@ Malgre des mises en demeure recommandees adressees le **[J+31 Mises en demeure]*
 <hr>
 
 ## II — FONDEMENTS JURIDIQUES
-### A. SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES (ART. 222-20 / R. 625-2 CP)
-Les faits decrits ci-dessus sont constitutifs de blessures involontaires relevants a titre principal de la contravention de 5e classe prevue a l.article R. 625-2 du Code penal (ITT inferieure a 3 mois). Toutefois, la violation manifestement deliberee d.une obligation particuliere de securite ou de prudence imposee par la loi ou le reglement permet de retenir la qualification delictuelle de l.article 222-20 du Code penal.
+### A. SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES (ART. 222-19 CP)
+Les faits decrits ci-dessus sont constitutifs du delit de blessures involontaires prevu et reprime par les articles 222-19 et 222-20 du Code penal.
 
 > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. » <br>
 > **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne** <br>
@@ -151,7 +143,7 @@ Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'inf
 
 ### D. SUR LE DEFAUT D'ASSURANCE DE RESPONSABILITE CIVILE (L.124-3 C.ASSUR.)
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Les assurances de responsabilité** <br>
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions** <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
 En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles 706-3 et 706-14 du Code de procédure pénale (Titre XIV), pourra être directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente constitution de partie civile sollicite formellement la designation du FGTI comme garant subrogatoire.
@@ -191,7 +183,7 @@ Par ces motifs, **[La Victime]** sollicite qu'il plaise a Monsieur le Doyen des 
 
 ## PAR CES MOTIFS
 Vu les articles 2, 3, 85 et suivants du Code de procedure penale,
-Vu les articles 222-20 du Code penal et R. 625-2 du Code penal,
+Vu les articles 222-19 et 222-20 du Code penal (ce dernier confirme en vigueur depuis le 19 mai 2011, LEGIARTI000024042640),
 Vu les articles 1240 et 1242 du Code civil,
 Vu les articles R. 4323-58 et suivants du Code du travail,
 Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
