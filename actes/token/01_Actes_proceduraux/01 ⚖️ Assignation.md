@@ -122,7 +122,13 @@ De surcroît, les faits se sont produits sous le contrôle du préposé de l'ét
 > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées** <br>
 > [Article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
 
-Par ailleurs, l'article L. 225-251 du Code de commerce précise le régime de responsabilité des dirigeants dans les termes suivants :
+L'article L. 227-1 du Code de commerce dispose que les règles des sociétés anonymes sont applicables aux SAS :
+
+> « Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes [...] sont applicables à la société par actions simplifiée. » <br>
+> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées** <br>
+> [Article L. 227-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177)
+
+En application de ce renvoi, l'article L. 225-251 du même code précise le régime de responsabilité des dirigeants dans les termes suivants :
 
 > « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. » <br>
 > **Code de commerce > Section 8 : De la responsabilité civile** <br>
