@@ -81,7 +81,7 @@ Je vous demande donc de me communiquer sous 15 jours :
 Cette démarche a pour but de déclarer le sinistre et de permettre un règlement amiable par votre assureur, conformément au droit d'action directe de la victime (article L. 124-3 du Code des assurances). Je reste pleinement ouvert à une médiation ou à un échange amiable.
 
 ### Signalements administratifs
-Compte tenu de la gravité de l'accident et des manquements flagrants à l'obligation de sécurité des locaux, j'ai régularisé des signalements auprès de l'Inspection du travail (DREETS - article L. 4121-1 du Code du travail) et de la commission de sécurité des ERP.
+Compte tenu de la gravité de l'accident et des manquements flagrants à l'obligation de sécurité des locaux, je me réserve le droit de procéder à des signalements auprès de l'Inspection du travail (DREETS - article L. 4121-1 du Code du travail) et de la commission de sécurité des ERP.
 
 ---
 
