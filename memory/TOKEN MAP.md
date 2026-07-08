@@ -35,6 +35,12 @@
 | 938 033 222 00010 | `**[L'Identifiant de l'Exploitation]**` |
 | 31727387 / 2026/015967 | `[ ... ]` (ou le contexte approprié) |
 
+## Tokens temporaires / date tokens (generate_real_versions.py)
+| Token | Valeur réelle |
+|---|---|
+| `**[DATE RELANCE V2]**` | 8 juillet 2026 |
+| `**[DATE REOUVERTURE BOUTIQUE]**` | 6 juillet 2026 |
+
 ## Limitations connues du script batch_anonymize.py
 - Le script utilise `str.replace()` — il ne capture que les chaînes exactes listées
 - Les prénoms/noms en casse mixte sans espace entre les deux (ex. "Mountasser Sabir" — ancien format inversé) doivent être ajoutés manuellement comme entrées au script

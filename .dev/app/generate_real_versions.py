@@ -77,6 +77,10 @@ REVERSE_MAP = {
     "**[J+55 Fin d'ITT]**": "23 juillet 2026",
     "**[J+167 Expertise UMJ]**": "12 novembre 2026",
 
+    # Relance V2 specific tokens
+    "**[DATE RELANCE V2]**": "8 juillet 2026",
+    "**[DATE REOUVERTURE BOUTIQUE]**": "6 juillet 2026",
+
     # Reference tokens
     "**[N° Dossier CPAM]**": "31727387",
     "**[N° Dossier CPAM erroné]**": "2631103960",
@@ -89,6 +93,7 @@ REVERSE_MAP = {
     "**[N° LRAR Parquet]**": "87001424923505I",
     "**[N° Transaction Wero]**": "IPR000297029234",
     "**[N° PV Police]**": "2026/015967",
+    "[N° PV Police]": "2026/015967",  # fallback for bare-bracket variants
 }
 
 def replace_header_block(content):

@@ -29,7 +29,7 @@ Tribunal Judiciaire de Foix
 Le Procureur de la République
 
 RÉFÉRENCE PARQUET : [À compléter]
-RÉFÉRENCE PLAINTE : PV n° 2026/015967
+RÉFÉRENCE PLAINTE : PV n°2026/015967
 
 À l'attention de Monsieur le Doyen des Juges d'Instruction,
 Tribunal Judiciaire de Foix

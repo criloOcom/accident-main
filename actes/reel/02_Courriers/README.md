@@ -3,6 +3,7 @@
 - [03 ✉️ Courrier SAS.md](03 ✉️ Courrier SAS.md)
 - [04 ✉️ Courrier Assureur.md](04 ✉️ Courrier Assureur.md)
 - [05 ✉️ Courrier Proprietaire.md](05 ✉️ Courrier Proprietaire.md)
+- [06 V2 ✉️ Relance Dirigeants.md](06 V2 ✉️ Relance Dirigeants.md)
 - [06 ✉️ Courrier President DG.md](06 ✉️ Courrier President DG.md)
 - [07 ✉️ Courrier Consolidation.md](07 ✉️ Courrier Consolidation.md)
 - [08 ✉️ Courrier Suivi Adjoint Maire.md](08 ✉️ Courrier Suivi Adjoint Maire.md)

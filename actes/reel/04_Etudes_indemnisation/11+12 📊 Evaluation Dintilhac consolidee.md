@@ -44,9 +44,10 @@ Rédigé le 30 juin 2026
   - [3.5 IP — Incidence Professionnelle](#35-ip--incidence-professionnelle)
   - [3.6 Préjudice d'Agrément](#36-préjudice-dagrément)
   - [3.7 PEP — Préjudice Esthétique Permanent](#37-pep--préjudice-esthétique-permanent)
-  - [3.8 DEP — Dévalorisation Professionnelle Future](#38-dep--dévalorisation-professionnelle-future)
-  - [3.9 Frais Divers](#39-frais-divers)
-  - [3.10 Article 700 CPC](#310-article-700-cpc)
+   - [3.8 DEP — Dévalorisation Professionnelle Future](#38-dep--dévalorisation-professionnelle-future)
+   - [3.9 ATP — Assistance par Tierce Personne](#39-atp--assistance-par-tierce-personne)
+   - [3.10 Frais Divers](#310-frais-divers)
+   - [3.11 Article 700 CPC](#311-article-700-cpc)
 - [4. STRATÉGIE DE RECOUVREMENT](#4-stratégie-de-recouvrement)
 - [5. DEMANDE DE PROVISION EN RÉFÉRÉ](#5-demande-de-provision-en-référé)
 
@@ -100,9 +101,10 @@ L'estimation médiane révisée est de **~85 000 à 105 000 €** (fourchette co
 | Agrément | 8 000 € | 3 500 € | 2 000-5 000 € | **5 000 €** |
 | PEP | 3 000 € | *(inclus)* | 2 000-5 000 € | **3 000 €** |
 | DEP *(poste ajouté)* | *(absent)* | *(absent)* | 2 000-5 000 € | **3 000 €** |
+| ATP (Tierce Personne) *(poste ajouté)* | *(absent)* | *(absent)* | 1 500-3 000 € | **2 000 €** |
 | Frais divers | 2 000 € | 3 500 € | 3 000-5 000 € | **3 000 €** |
 | Article 700 CPC | 4 000 € | 2 250 € | 1 500-3 000 € | **3 000 €** |
-| **TOTAL** | **~105 000 €** | **~45 000 €** | **55 000-105 000 €** | **~90 000 €** |
+| **TOTAL** | **~105 000 €** | **~45 000 €** | **55 000-105 000 €** | **~92 000 €** |
 
 ## 2.2 FOURCHETTES D'INDEMNISATION PAR POSTE
 
@@ -116,9 +118,10 @@ L'estimation médiane révisée est de **~85 000 à 105 000 €** (fourchette co
 | Agrément | 5 000 € | 15 000 € | 5 000 € |
 | PEP | 2 000 € | 5 000 € | 3 000 € |
 | DEP | 2 000 € | 5 000 € | 3 000 € |
+| ATP (Tierce Personne) | 1 500 € | 3 000 € | 2 000 € |
 | Frais divers | 1 500 € | 5 000 € | 3 000 € |
 | Article 700 CPC | 1 500 € | 5 000 € | 3 000 € |
-| **TOTAL** | **~77 000 €** | **~139 000 €** | **~88 780 €** |
+| **TOTAL** | **~77 000 €** | **~139 000 €** | **~90 780 €** |
 
 <hr><hr>
 
@@ -317,7 +320,25 @@ Ce poste avait été omis dans le dossier initial.
 
 ---
 
-## 3.9 Frais Divers
+## 3.9 ATP — Assistance par Tierce Personne
+
+> Le poste ATP (Assistance par Tierce Personne) indemnise le besoin d'aide humaine temporaire ou permanente pour accomplir les actes de la vie courante que la victime ne peut plus réaliser seule du fait de ses séquelles.
+
+**Définition :** Besoin d'aide pour les tâches domestiques et les actes de la vie quotidienne durant la période post-opératoire (courses, ménage, préparation des repas, transport).
+
+**Calcul technique :**
+- Période : 56 jours d'ITT avec incapacité fonctionnelle de la main droite dominante
+- Taux horaire : 12-15 €/h (tarif moyen aide à domicile non médicalisée)
+- Volume : ~2-3 h/semaine (courses, ménage lourd, préparation repas)
+- Total : 8 semaines × 2,5 h × 13,50 € = **~2 000 €** (fourchette 1 500-3 000 €)
+
+**Justification :** Un informaticien droitier avec section tendineuse et nerveuse de l'index dominant ne peut assurer les tâches nécessitant la préhension fine (courses, cuisine, ménage) pendant la durée de l'ITT. Ce poste avait été omis dans les évaluations initiales.
+
+**Compromis retenu : 2 000 €**
+
+---
+
+## 3.10 Frais Divers
 
 **Proposition : 3 000 €** (kinésithérapie 3×/semaine, déplacements, frais dossier, contre-expertise éventuelle)
 
@@ -325,7 +346,7 @@ Ce poste avait été omis dans le dossier initial.
 
 ---
 
-## 3.10 Article 700 CPC
+## 3.11 Article 700 CPC
 
 > « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. » <br>
 > **Code de procédure civile > Partie législative > Livre II > Titre Ier > Chapitre Ier > Section 2** <br>
@@ -513,7 +534,7 @@ La provision de 15 000 € est justifiée par :
 ## Tableau récapitulatif des demandes indemnitaires
 
 | Poste | Montant retenu |
-|---|---|
+|---|---|---|
 | PGPA (Inactivité 56j) | 1 380 € |
 | DFT (Incapacité 56j) | 1 400 € |
 | DFP (10% médian) | 25 000 € |
@@ -522,7 +543,8 @@ La provision de 15 000 € est justifiée par :
 | Préjudice d'Agrément | 5 000 € |
 | PEP (cicatrice 8,5 cm) | 3 000 € |
 | DEP (dévalorisation future) | 3 000 € |
+| ATP (Tierce Personne) | 2 000 € |
 | Frais divers | 3 000 € |
 | Frais Art. 700 CPC | 3 000 € |
-| **TOTAL DEMANDÉ** | **~90 000 €** |
+| **TOTAL DEMANDÉ** | **~92 000 €** |
 | **Provision référé demandée** | **15 000 €** |
