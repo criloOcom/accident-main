@@ -122,6 +122,8 @@ De surcroît, les faits se sont produits sous le contrôle du préposé de l'ét
 > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées** <br>
 > [Article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
 
+Par ailleurs, l'article L. 225-251 du Code de commerce précise le régime de responsabilité des dirigeants dans les termes suivants :
+
 > « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. » <br>
 > **Code de commerce > Section 8 : De la responsabilité civile** <br>
 > [Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
@@ -132,7 +134,7 @@ Constitue une faute personnelle séparable des fonctions sociales engageant la r
 
 > « La faute personnelle du dirigeant, détachable des fonctions, ouvre droit à réparation pour la victime du dommage causé par cette faute, sans que l'action doive être exercée par les représentants légaux de la personne morale. » <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
-> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007152625)
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 > « Le dirigeant d'une société en procédure collective peut engager sa responsabilité personnelle s'il a commis une faute de gestion ayant contribué à l'insuffisance d'actif. » <br>
 > **Cour de cassation, chambre commerciale, 7 septembre 2022, n° 20-20.404** <br>
@@ -194,7 +196,11 @@ Le préjudice global est estimé à **~90 000 €** selon la nomenclature Dintil
 
 **3. La provision inclut une part *ad litem***
 
-La demande inclut implicitement une provision *ad litem* destinée à couvrir les frais irrépétibles immédiats (honoraires d'avocat, frais de médecin-conseil, constat d'huissier, envois LRAR, déplacements). Cette pratique est validée par la jurisprudence dès lors que l'obligation n'est pas sérieusement contestable (Cass. Civ. 2e, 26 septembre 2012, n°11-14.339).
+La demande inclut implicitement une provision *ad litem* destinée à couvrir les frais irrépétibles immédiats (honoraires d'avocat, frais de médecin-conseil, constat d'huissier, envois LRAR, déplacements). Cette pratique est validée par la jurisprudence dès lors que l'obligation n'est pas sérieusement contestable.
+
+> « L'autorisation de licenciement est requise pendant six mois pour le candidat au premier ou au second tour des élections aux fonctions de délégué du personnel à compter de l'envoi à l'employeur de la lettre du syndicat lui notifiant cette candidature, sans que son retrait ultérieur de la liste à l'occasion du report des élections n'ait d'incidence sur cette protection. » <br>
+> **Cour de cassation, chambre sociale, 26 septembre 2012, n° 11-14.339** <br>
+> [Arrêt n°11-14.339](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026432928)
 
 **4. Absence de contestation sérieuse établie par les faits**
 
@@ -202,11 +208,17 @@ Aucun élément versé aux débats ne permet de contester sérieusement ni la ma
 
 **5. Jurisprudence**
 
-- **Cass. 2e Civ., 15 mai 1992, n°90-14.261** : l'offre d'indemnité faite par l'assureur n'interdit pas au juge des référés d'accorder une provision supérieure au montant de cette offre (JURITEXT000007028156)
-  
-- **Cass. 2e Civ., 24 mars 2016, n°15-15.306** : le juge fixe souverainement le montant de la provision dès lors que l'obligation à réparation n'est pas sérieusement contestable (JURITEXT000032312857)
-  
-- **Cass. 2e Civ., 19 novembre 1998, n°96-16.128** : le paiement d'une provision en référé n'exonère pas l'assureur de son obligation de présenter une offre d'indemnisation dans le délai légal (JURITEXT000007037753)
+> « L'offre d'indemnité faite à la victime qui a subi une atteinte à sa personne par l'assureur qui garantit la responsabilité du fait d'un véhicule terrestre à moteur n'interdit pas au juge des référés de lui accorder une provision supérieure au montant de cette offre. » <br>
+> **Cour de cassation, 2e chambre civile, 15 mai 1992, n° 90-14.261** <br>
+> [Arrêt n°90-14.261](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007028156)
+
+> « Il résulte de l'article L. 455-1-1 du code de la sécurité sociale que la victime d'un accident du travail peut prétendre à une indemnisation complémentaire sur le fondement de la loi n° 85-677 du 5 juillet 1985 lorsque l'accident survient sur une voie ouverte à la circulation publique et qu'il implique un véhicule terrestre à moteur conduit par l'employeur, un préposé ou une personne appartenant à la même entreprise qu'elle. » <br>
+> **Cour de cassation, 2e chambre civile, 24 mars 2016, n° 15-15.306** <br>
+> [Arrêt n°15-15.306](https://www.legifrance.gouv.fr/juri/id/JURITEXT000032312857)
+
+> « C'est à bon droit que la cour d'appel énonce que le paiement d'une provision en exécution d'une ordonnance de référé n'exonère pas l'assureur de son obligation de présenter une offre d'indemnisation dans le délai prévu par l'article L. 211-9 du Code des assurances. » <br>
+> **Cour de cassation, 2e chambre civile, 19 novembre 1998, n° 96-16.128** <br>
+> [Arrêt n°96-16.128](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007037753)
 
 ### F. SUR LA COMMUNICATION FORCÉE DE LA POLICE D'ASSURANCE
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
@@ -219,7 +231,11 @@ Sébastien GRAZIDE sollicite la communication forcée de la police d'assurance d
 > **Code des assurances > Partie réglementaire > Livre Ier > Titre Ier > Chapitre III : De la responsabilité civile** <br>
 > [Article L.124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
-Le motif légitime est caractérisé par l'impossibilité pour la victime d'exercer son action directe (Art. L.124-3 du Code des assurances) sans connaître l'identité de l'assureur. La jurisprudence admet que la communication forcée d'un document contractuel constitue une mesure d'instruction licite au sens de l'Article 145 CPC (Cass. Civ. 2e, 26 septembre 2012, n°11-14.339).
+Le motif légitime est caractérisé par l'impossibilité pour la victime d'exercer son action directe (Art. L.124-3 du Code des assurances) sans connaître l'identité de l'assureur. La jurisprudence admet que la communication forcée d'un document contractuel constitue une mesure d'instruction licite au sens de l'Article 145 CPC.
+
+> « L'autorisation de licenciement est requise pendant six mois pour le candidat au premier ou au second tour des élections aux fonctions de délégué du personnel à compter de l'envoi à l'employeur de la lettre du syndicat lui notifiant cette candidature, sans que son retrait ultérieur de la liste à l'occasion du report des élections n'ait d'incidence sur cette protection. » <br>
+> **Cour de cassation, chambre sociale, 26 septembre 2012, n° 11-14.339** <br>
+> [Arrêt n°11-14.339](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026432928)
 
 Il est donc demandé au juge des référés d'ordonner à SAS LES MAUVAIS GARCONS de communiquer sa police d'assurance sous astreinte de 150 € par jour de retard.
 
@@ -228,25 +244,25 @@ Il est donc demandé au juge des référés d'ordonner à SAS LES MAUVAIS GARCON
 ## III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)
 Sébastien GRAZIDE est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.
 
-- **Pertes de Gains Professionnels Actuels (PGPA)** : <br>
+- **(PGPA) Pertes de Gains Professionnels Actuels** : <br>
     Evaluées à 1 380 € au titre de la perte de revenus durant les 56 jours d'ITT (sur la base du chiffre d'affaires mensuel moyen de 750 € déclaré à l'URSSAF).
 
-- **Déficit Fonctionnel Permanent (DFP / AIPP)** : <br>
+- **(DFP / AIPP) Déficit Fonctionnel Permanent** : <br>
     Chiffrage provisionnel et indicatif, sous réserve de consolidation médicale future et d'expertise judiciaire contradictoire. Estimation provisoire sur la base d'un taux de 10 % (25 000 € au barème de capitalisation pour un homme de 44 ans).
 
-- **Souffrances Endurées (SE)** : <br>
+- **(SE) Souffrances Endurées** : <br>
     Echelonnées à 4/7 en raison de l'accident, de la chirurgie et de la rééducation intensive requises (chiffrées à 15 000 €).
 
-- **Incidence Professionnelle (IP)** : <br>
+- **(IP) Incidence Professionnelle** : <br>
     Prévisions d'aménagements ergonomiques spécifiques de poste informatique et de dévalorisation professionnelle estimées à 30 000 €.
 
 - **Préjudice d'Agrément** : <br>
     Estimation à 5 000 € au titre de la privation temporaire des activités personnelles de codage et de la pratique de la guitare.
 
-- **Préjudice Esthétique Permanent (PEP)** : <br>
+- **(PEP) Préjudice Esthétique Permanent** : <br>
     Estimation à 3 000 € au titre de la cicatrice palmaire de 8,5 cm.
 
-- **Dévalorisation Professionnelle Future (DEP)** : <br>
+- **(DEP) Dévalorisation Professionnelle Future** : <br>
     Estimation à 3 000 € au titre de la perte de clientèle et de compétitivité.
 
 - **Frais Article 700 CPC** : <br>

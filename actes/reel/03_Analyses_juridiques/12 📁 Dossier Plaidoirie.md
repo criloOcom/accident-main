@@ -85,10 +85,10 @@ Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant 
 ## 4. JURISPRUDENCE CLÉ
 L'argumentation développée s'appuie sur une jurisprudence constante :
 
-- **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** [N° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831). Le préposé Ayoub BENNOURINE ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
-- **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322). Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
-- **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** [N° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369). Le refus de communication et l'éventuel défaut d'assurance caractérisent une faute détachable de l'exercice normal des fonctions sociales des dirigeants, justifiant leur condamnation personnelle.
-- **Principe de réparation intégrale (Cass. Civ. 2e, 8 juillet 2021) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour Sébastien GRAZIDE, informaticien indépendant, l'incidence professionnelle est majeure.
+- **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** [N° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704). Le préposé Ayoub BENNOURINE ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
+- **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351). Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
+- **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** [N° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369). Le dirigeant qui commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions engage sa responsabilité personnelle. En l'espèce, l'obstruction des dirigeants et le défaut de communication caractérisent une faute détachable.
+- **Principe de réparation intégrale (Art. 1240 C. civ.) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour Sébastien GRAZIDE, informaticien indépendant, l'incidence professionnelle est majeure.
 
 <hr><hr>
 

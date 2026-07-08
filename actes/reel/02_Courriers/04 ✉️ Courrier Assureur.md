@@ -81,7 +81,11 @@ En application de l'article L. 124-3 du Code des assurances, je dispose d'un dro
 > **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463** <br>
 > [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 
-En vertu d'une jurisprudence constante (Cass. Civ. 1ère, 8 décembre 2021, n° 20-16.463 et Cass. Civ. 2e, 14 mai 2020, n° 19-15.659), cette action directe est autonome et n'est pas subordonnée à la survie de la personne morale ni à la déclaration préalable de créance en cas de procédure collective ou de radiation de la société assurée.
+En vertu d'une jurisprudence constante, cette action directe est autonome et n'est pas subordonnée à la survie de la personne morale ni à la déclaration préalable de créance en cas de procédure collective ou de radiation de la société assurée.
+
+> « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. » <br>
+> **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463** <br>
+> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 
 Je vous mets en demeure par la présente :
 

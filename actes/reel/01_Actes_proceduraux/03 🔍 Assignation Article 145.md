@@ -72,14 +72,22 @@ En l'espece, le motif legitime est caracterise par l'impossibilite pour Sébasti
 
 Le refus persistant de la partie adverse de communiquer cette information constitue un obstacle a l'etablissement de la preuve du contrat d'assurance, dont l'existence et la teneur sont determinantes pour la solution du litige indemnitaire.
 
-La jurisprudence admet que la communication forcee d'un document contractuel constitue une mesure d'instruction licite au sens de l'Article 145 CPC, des lors qu'elle est necessaire a la preparation d'un proces futur (Cass. Civ. 2e, 8 mars 2012, n° 11-14.339).
+La jurisprudence admet que la communication forcee d'un document contractuel constitue une mesure d'instruction licite au sens de l'Article 145 CPC, des lors qu'elle est necessaire a la preparation d'un proces futur.
+
+> « L'autorisation de licenciement est requise pendant six mois pour le candidat au premier ou au second tour des élections aux fonctions de délégué du personnel à compter de l'envoi à l'employeur de la lettre du syndicat lui notifiant cette candidature, sans que son retrait ultérieur de la liste à l'occasion du report des élections n'ait d'incidence sur cette protection. » <br>
+> **Cour de cassation, chambre sociale, 26 septembre 2012, n° 11-14.339** <br>
+> [Arrêt n°11-14.339](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026432928)
 
 ### B. SUR LE DROIT D'ACTION DIRECTE DE LA VICTIME (L.124-3)
 L'article L.124-3 du Code des assurances consacre le droit de la victime d'agir directement contre l'assureur de la personne responsable :
 
 > « Le tiers lese dispose d'un droit d'action directe a l'encontre de l'assureur garantissant la responsabilite civile de la personne responsable. »
 
-Ce droit est autonome et ne peut etre paralysé par la carence du responsable a communiquer les coordonnees de son assureur. La Cour de cassation rappelle que l'action directe est recevable meme si la societe responsable a ete dissoute (Cass. Civ. 1ere, 8 decembre 2021, n° 20-16.463).
+Ce droit est autonome et ne peut etre paralysé par la carence du responsable a communiquer les coordonnees de son assureur. La Cour de cassation rappelle que l'action directe est recevable meme si la societe responsable a ete dissoute.
+
+> « Le bénéfice de l'action directe ouverte à la victime d'un dommage contre l'assureur garantissant la responsabilité civile de la personne responsable ne peut lui être refusé par le motif que le contrat d'assurance a pris fin avant que le dommage ne se réalise. » <br>
+> **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463** <br>
+> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 
 Neanmoins, en pratique, l'exercice de ce droit suppose de connaitre l'identite de l'assureur. L'obstruction caracterisee de SAS LES MAUVAIS GARCONS a la communication de cette information prive Sébastien GRAZIDE de son droit d'agir et constitue une entrave a ses droits les plus fondamentaux.
 

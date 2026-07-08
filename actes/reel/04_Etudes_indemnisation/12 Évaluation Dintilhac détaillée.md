@@ -154,7 +154,7 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 
 > « Le préjudice d'agrément correspond à la perte de joie ou de plaisir que la victime tirait des loisirs ou activités de vie courante auxquelles elle ne peut plus se livrer du fait des séquelles de l'accident. » <br>
 > **Cour de cassation, assemblée plénière, 19 décembre 2003, n° 02-14.783** <br>
-> [Arrêt n°02-14.783](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006485532)
+> [Arrêt n°02-14.783](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047223)
 
 > « Le caractère limitation de la pratique d'une activité suffit à caractériser le préjudice d'agrément, sans qu'existe une impossibilité totale de cette pratique. » <br>
 > **Cour de cassation, 2e chambre civile, 29 mars 2018, n° 17-14.499** <br>
@@ -185,7 +185,7 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 
 > « Le préjudice d'agrément correspond à la perte de joie ou de plaisir que la victime tirait des loisirs ou activités de vie courante auxquelles elle ne peut plus se livrer du fait des séquelles de l'accident. » <br>
 > **Cour de cassation, assemblée plénière, 19 décembre 2003, n° 02-14.783** <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006485532)
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047223)
 
 > « Le déficit fonctionnel temporaire inclut le préjudice d'agrément temporaire, dès lors que la victime ne peut plus exercer ses activités habituelles pendant la période de consolidation. » <br>
 > **Cour de cassation, 2e chambre civile, [DATE À VÉRIFIER], n° 08-15.103** <br>
@@ -233,7 +233,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 > « La faute personnelle du dirigeant, détachable des fonctions, ouvre droit à réparation pour la victime du dommage causé par cette faute, sans que l'action doive être exercée par les représentants légaux de la personne morale. » <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
-> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007152625)
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 **Fondements potentiels :**
 1. Absence d'assurance RC (si inexistante) → faute de gestion

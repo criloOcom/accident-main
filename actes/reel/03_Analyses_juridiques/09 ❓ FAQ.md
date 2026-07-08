@@ -79,11 +79,13 @@ Le bilan médical est lourd : une section partielle du tendon fléchisseur de l'
 Malgré une intervention de microchirurgie réalisée le 30 mai 2026 à la Clinique de l'Union par le Dr Iskander DJERBI, la victime souffre à ce jour d'une insensibilité totale de l'index et d'un blocage mécanique de la flexion. Son activité d'informaticien est gravement compromise, justifiant une ITT initiale de 56 jours.
 
 ### Q : LE GÉRANT PEUT-IL REFUSER DE ME DONNER LE NOM DE SA COMPAGNIE D'ASSURANCE ?
-Non, ce refus est abusif et contraire au principe de loyauté. La victime dispose d'un droit d'action directe contre l'assureur (Art. L. 124-3 du Code des assurances). Si le gérant fait obstruction, la victime peut obtenir du juge des référés (Art. 145 CPC) une injonction de communiquer l'attestation d'assurance sous astreinte financière quotidienne.
+Non, ce refus est abusif et contraire au principe de loyauté. La victime dispose d'un droit d'action directe contre l'assureur (Art. L. 124-3 du Code des assurances).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier** <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+
+Si le gérant fait obstruction, la victime peut obtenir du juge des référés (Art. 145 CPC) une injonction de communiquer l'attestation d'assurance sous astreinte financière quotidienne.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
 > **Code de procédure civile > Partie législative > Livre II > Titre VII > Section I** <br>
@@ -116,7 +118,7 @@ Par ailleurs, une attention particulière est portée à la faute détachable de
 > **Code de commerce > Partie législative > Livre V > Titre II > Chapitre Ier > Section 5 > Sous-section 3** <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
 
-> « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. » <br>
+> « La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. » <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
 > [Arrêt Sati — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 

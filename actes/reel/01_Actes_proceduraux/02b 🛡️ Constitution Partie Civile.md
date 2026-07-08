@@ -110,11 +110,13 @@ La **violation manifestement deliberee** est caracterisee par :
 
 Cette disposition constitue le fondement de la responsabilite personnelle des dirigeants de SAS, qui peut etre engagee pour des fautes commises dans l'exercice de leurs fonctions.
 
+En application de l'article L. 227-1 du Code de commerce qui soumet les SAS aux règles des SA, l'article L. 225-251 du même code fixe le régime détaillé de cette responsabilité dans les termes suivants :
+
 > « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. » <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre III : Des sociétés anonymes > Section 8 : De la responsabilité** <br>
 > [Article L. 225-251](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
 
-> « La faute du dirigeant social, même lorsqu'elle est commise dans l'exercice de ses fonctions, est séparable de celles-ci lorsque elle constitue un manquement délibéré à ses obligations et engage sa responsabilité personnelle. » <br>
+> « La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. » <br>
 > **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 

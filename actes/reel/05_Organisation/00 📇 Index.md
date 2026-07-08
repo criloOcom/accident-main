@@ -188,19 +188,19 @@ Documents non indexés conservés dans `archives/` :
 <hr>
 
 ## RÉFÉRENCES JURISPRUDENTIELLES
-- [Arrêt Costedoat : Ass. Plén., 25 février 2000, n° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831) ✓
+- [Arrêt Costedoat : Ass. Plén., 25 février 2000, n° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704) ✓
 > Attendu : « N'engage pas sa responsabilité civile à l'égard des tiers le préposé qui agit dans les limites de la mission à lui impartie par son commettant. »
 > Résumé : Le salarié agissant dans le cadre de ses fonctions professionnelles bénéficie d'une immunité civile de principe. Seul l'employeur (commettant) est responsable des dommages causés aux tiers.
 
-- [Arrêt Cousin : Ass. Plén., 14 décembre 2001, n° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043322) ✓
+- [Arrêt Cousin : Ass. Plén., 14 décembre 2001, n° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351) ✓
 > Attendu : « Le préposé qui agit dans les limites de la mission qui lui a été impartie n'engage sa responsabilité personnelle à l'égard des tiers que s'il a commis une faute pénale intentionnelle. »
 > Résumé : Le salarié commettant une infraction pénale intentionnelle perd son immunité de préposé (dite jurisprudence Costedoat) et engage sa responsabilité civile personnelle solidairement avec l'employeur.
 
 - Arrêt SATI : [Cass. Com., 20 mai 2003, n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ✓
-> Attendu : « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. »
-> Résumé : Le défaut délibéré de souscription des assurances obligatoires requises par la loi constitue une faute détachable des fonctions sociales engageant la responsabilité personnelle et civile du dirigeant.
+> Attendu : « La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »
+> Résumé : Le dirigeant qui commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions engage sa responsabilité personnelle. Application au cas de dirigeant qui trompe délibérément un cocontractant sur la solvabilité de la société.
 
-- [Cass. Crim., 27 mai 2014, n° 13-80.849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000028994017) ✓
+- [Cass. Crim., 27 mai 2014, n° 13-80.849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029014493) ✓
 > Attendu : « Les personnes morales sont responsables pénalement des infractions commises pour leur compte par leurs organes ou représentants, y compris par le biais de délégations de pouvoirs. »
 > Résumé : Les infractions commises par les salariés ou préposés dans l'exercice de leurs fonctions engagent la responsabilité pénale de la personne morale s'ils ont agi pour le compte de cette dernière.
 

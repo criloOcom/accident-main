@@ -98,17 +98,21 @@ Cette action est autonome et n'est pas affectée par une éventuelle radiation d
 ### B. RESPONSABILITÉ DES DIRIGEANTS POUR FAUTE DÉTACHABLE
 La responsabilité personnelle des Dirigeants peut être engagée sur le fondement de la faute détachable des fonctions de direction. Selon la jurisprudence, le maintien en service d'un équipement manifestement dangereux dans un établissement recevant du public (ERP) sans protection adéquate caractérise une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales.
 
-> « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. » <br>
+> « La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. » <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
-> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007152625)
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 ### C. SITUATION JURIDIQUE DU PRÉPOSÉ
-Conformément à [l'arrêt Costedoat (Ass. Plén. 25 fév. 2000)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043831), le préposé bénéficie en principe d'une immunité civile.
+Conformément à [l'arrêt Costedoat (Ass. Plén. 25 fév. 2000)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704), le préposé bénéficie en principe d'une immunité civile.
 
 > Attendu : « N'engage pas sa responsabilité civile à l'égard des tiers le préposé qui agit dans les limites de la mission à lui impartie par son commettant. »
 > Résumé : Le salarié agissant dans le cadre de ses fonctions professionnelles bénéficie d'une immunité civile de principe. Seul l'employeur (commettant) est responsable des dommages causés aux tiers.
 
-Toutefois, s'agissant de blessures involontaires ([Art. 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)), l'action se concentrera sur SAS LES MAUVAIS GARCONS et ses Dirigeants, l'infraction non intentionnelle n'excluant pas l'immunité du préposé selon la jurisprudence récente (Cass. Crim., 27 mai 2014, n° 13-80.849).
+Toutefois, s'agissant de blessures involontaires ([Art. 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)), l'action se concentrera sur SAS LES MAUVAIS GARCONS et ses Dirigeants, l'infraction non intentionnelle n'excluant pas l'immunité du préposé selon la jurisprudence récente.
+
+> « La loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation ne fait pas obstacle à ce que la victime d'un accident de la circulation puisse rechercher la responsabilité du gardien du véhicule sur le fondement de l'article 1242, alinéa 5, du Code civil. » <br>
+> **Cour de cassation, chambre criminelle, 27 mai 2014, n° 13-80.849** <br>
+> [Arrêt n°13-80.849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029014493)
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 

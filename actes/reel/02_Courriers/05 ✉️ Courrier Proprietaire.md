@@ -76,7 +76,7 @@ Afin d'éviter toute mise en cause indirecte ou toute procédure de référé d'
 
 Mes coordonnées pour réponse : 10 Avenue de Purpan, 31700 Blagnac / Courriel : sebastien.grazide@gmail.com
 
-Cette démarche amiable vise exclusivement à orienter notre recours directement vers l'assureur légitime et à préserver les droits de la victime (y compris les réserves d'aggravation future, arrêt Civ. 2e, 8 juillet 2021, n° 20-15.106 — JURITEXT000043782126).
+Cette démarche amiable vise exclusivement à orienter notre recours directement vers l'assureur légitime et à préserver les droits de la victime, y compris les réserves d'aggravation future.
 
 > « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. » <br>
 > **Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106** <br>
@@ -94,7 +94,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 1. D'obtenir les informations nécessaires à l'identification de l'assureur de responsabilité civile ;
 
-2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat (Article L. 113-2, 4° du Code des assurances), lequel devra répondre dans un délai raisonnable ;
+2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat, lequel devra répondre dans un délai raisonnable ;
 
 > « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. » <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré** <br>

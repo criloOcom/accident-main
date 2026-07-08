@@ -96,7 +96,11 @@ En l'absence d'assurance, l'indemnisation de la victime au titre de l'action dir
 ### B. SUR L'ENTRAVE À L'EXERCICE DE L'ACTION DIRECTE
 L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) consacre le droit propre et l'action directe de la victime à l'encontre de l'assureur du responsable.
 
-Cette autonomie de l'action directe a été fermement rappelée par la jurisprudence (Cass. Civ. 1ère, 8 décembre 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
+Cette autonomie de l'action directe a été fermement rappelée par la jurisprudence.
+
+> « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. » <br>
+> **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463** <br>
+> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 
 > Attendu : « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »  <br>
 >
@@ -108,9 +112,9 @@ En dissimulant l'identité de leur assureur, les mis en cause commettent une ent
 
 Par ailleurs, ce défaut de souscription ou d'information peut constituer une faute détachable des fonctions de direction engageant la responsabilité personnelle des dirigeants sur leur patrimoine propre.
 
-> « Commet une faute détachable de ses fonctions le dirigeant d'une société qui n'a pas souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain. » <br>
+> « La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. » <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
-> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007152625)
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 
 <hr><hr>

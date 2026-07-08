@@ -51,19 +51,22 @@ La présente lettre de mise en demeure est adressée conjointement par **[La Vic
 <hr>
 
 ## RAPPEL DES OBLIGATIONS LÉGALES
-> « La faute du dirigeant social, même lorsqu'elle est commise dans l'exercice de ses fonctions, est séparable de celles-ci lorsque elle constitue un manquement délibéré à ses obligations et engage sa responsabilité personnelle. » <br>
-> **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
-> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions.
 
 La Cour de cassation a jugé que constitue une faute détachable la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales (arrêt SATI, Cass. Com., 20 mai 2003, n° 99-17.092).
+
+> « La faute du dirigeant social, même lorsqu'elle est commise dans l'exercice de ses fonctions, est séparable de celles-ci lorsque elle constitue un manquement délibéré à ses obligations et engage sa responsabilité personnelle. » <br>
+> **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092** <br>
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 L'article L. 227-8 du Code de commerce dispose que les dirigeants d'une société commerciale sont responsables, individuellement ou solidairement, selon le cas, envers les tiers des conséquences dommageables de leurs actes.
 
 > « Les actions en responsabilité contre le président ou les dirigeants de la SAS, soit à titre social, soit à titre individuel, se prescrivent par trois ans à compter du fait dommageable ou, s'il a été dissimulé, de sa révélation. » <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre IV : Des sociétés par actions simplifiées > Chapitre VII : De la responsabilité** <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
+
+En application de l'article L. 227-1 du Code de commerce qui soumet les SAS aux règles des SA pour les matières non spécifiquement prévues, l'article L. 225-251 du même code dispose que :
 
 > « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. » <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre III : Des sociétés anonymes > Section 8 : De la responsabilité** <br>
