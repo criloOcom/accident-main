@@ -34,7 +34,7 @@ format: Arial JUSTIFIED
 **[La Directrice Générale de l'Exploitation]**
 **[L'Adresse de l'Exploitation]**
 
-**[La Ville de l'Accident]**, le **[DATE RELANCE]**
+**[La Ville de l'Accident]**, le **[DATE RELANCE V2]**
 
 Objet : Relance — Demande d'information assurance RC et communication d'une adresse de correspondance — Accident **[J+0 Accident]**
 

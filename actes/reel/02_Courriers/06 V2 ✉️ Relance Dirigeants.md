@@ -34,7 +34,7 @@ Sabir MOUNTASSER
 Catherine ANDISSAC
 22 Rue Lafaurie, 09000 Foix
 
-Foix, le **[DATE RELANCE]**
+Foix, le 8 juillet 2026
 
 Objet : Relance — Demande d'information assurance RC et communication d'une adresse de correspondance — Accident 29 mai 2026
 
