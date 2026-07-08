@@ -1,6 +1,6 @@
 # TODO — Plans d'action + Tableau de bord Sébastien
 
-> **Dernière mise à jour :** 6 juillet 2026
+> **Dernière mise à jour :** 8 juillet 2026
 >
 > **Règle absolue :** tout nouvel article de loi cité DOIT être lu via MCP
 > Légifrance (`consulter_article` ou `rechercher_code`) pour vérifier le contexte
@@ -9,6 +9,13 @@
 ---
 
 ## 📋 TABLEAU DE BORD SÉBASTIEN
+
+### ✅ Dernières actions IA (8 juillet 2026)
+- **Chiffrage unifié** : 59 600 € → **~90 000 €** dans toutes les analyses actives + plainte
+- **Provision alignée** : Dossier Plaidoirie 5 000 → **15 000 €** (conforme assignation)
+- **08-15.103 supprimé** : hallucination confirmée (0 résultat Judilibre + Légifrance)
+- **Sync NotebookLM** : sync automatique Drive activée (126 fichiers, push → Drive)
+- **Adresse PV police** : variance "DE LA FAURIE" documentée dans STRICT VARIABLES
 
 ### 🔔 Dates à fixer (rappel quotidien)
 

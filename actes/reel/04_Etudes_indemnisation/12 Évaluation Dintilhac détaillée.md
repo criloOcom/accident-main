@@ -187,9 +187,6 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 > **Cour de cassation, assemblée plénière, 19 décembre 2003, n° 02-14.783** <br>
 > [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047223)
 
-> « Le déficit fonctionnel temporaire inclut le préjudice d'agrément temporaire, dès lors que la victime ne peut plus exercer ses activités habituelles pendant la période de consolidation. » <br>
-> **Cour de cassation, 2e chambre civile, [DATE À VÉRIFIER], n° 08-15.103** <br>
-> [Arrêt — À VÉRIFIER : numéro d'affaire introuvable dans Légifrance]
 
 > « Le caractère limitation de la pratique d'une activité suffit à caractériser le préjudice d'agrément, sans qu'existe une impossibilité totale de cette pratique. » <br>
 > **Cour de cassation, 2e chambre civile, 29 mars 2018, n° 17-14.499** <br>
