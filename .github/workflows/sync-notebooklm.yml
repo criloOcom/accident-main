@@ -1,0 +1,37 @@
+name: Sync NotebookLM
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'actes/reel/**'
+      - 'memory/**'
+      - 'lois/**'
+      - '.dev/app/sync_notebooklm.py'
+      - '.dev/app/drive_auth.py'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install google-api-python-client google-auth
+
+      - name: Sync to Google Drive
+        env:
+          GOOGLE_DRIVE_CLIENT_ID: ${{ secrets.GOOGLE_DRIVE_CLIENT_ID }}
+          GOOGLE_DRIVE_CLIENT_SECRET: ${{ secrets.GOOGLE_DRIVE_CLIENT_SECRET }}
+          GOOGLE_DRIVE_REFRESH_TOKEN: ${{ secrets.GOOGLE_DRIVE_REFRESH_TOKEN }}
+        run: python3 .dev/app/sync_notebooklm.py
