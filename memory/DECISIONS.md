@@ -2,7 +2,7 @@
 
 ## Tokens
 - Utiliser le bon français avec articles : `**[La Victime]**` PAS `**[Victime]**`
-- `**[L'Exploitant du Commerce (La SAS)]**` (pas "Salon" — on ne précise pas la nature du commerce)
+- `**[L'Exploitant du Commerce]**` (pas "Salon" — on ne précise pas la nature du commerce)
 - `**[Le Préposé de l'Exploitation]**` (pas "Coiffeur" — on ne précise pas le métier)
 - Tous les jetons de la table sont corrects et validés
 
@@ -28,12 +28,6 @@
 
 ## Identifiants des pièces — RÈGLE 2026-07-02
 - **L'identifiant d'une pièce est le triplet (date, émetteur, objet)** — pas un numéro
-
-## Répertoire souverain — DÉCISION 2026-07-06
-- Le projet réside exclusivement dans `/home/crilocom/accident-main/`.
-- Tout clone parallèle (tmp, backup, `/tmp/opencode/`) est **interdit**.
-- Les opérations git (pull, push) se font depuis ce dossier uniquement.
-- Cette règle est écrite dans AGENTS.md, RULES.md, DECISIONS.md et VACCIN.md pour garantir sa persistance.
 - Les numéros de pièce du spreadsheet `1KNRJpDE24jpDXkLBTCZcVXsUbOueoe6Lg-7FJdM9jEE` sont **provisoires et non validés par l'utilisateur**
 - Dans Annexe C : formater en `date — émetteur complet — objet — 🔗 Drive` sans numéro
 - L'ordre de numérotation est inconnu de l'utilisateur — ne pas l'utiliser comme source de vérité
@@ -48,12 +42,6 @@
 - **Mise en page lettre** : en-tête (adresses, date, objet, réf) entre le H1 et `## INTRODUCTION`.
 - **Sources des faits citées** : les déclarations non vérifiées sont attribuées à leur source (courriel, déclaration verbale) — pas présentées comme des faits avérés.
 - **Script `app/batch_link_legifrance.py`** : outil de remplacement regex pour lier en masse. À exécuter après toute introduction de nouvelle référence légale.
-
-## Séparation stricte tokens ↔ correspondance réelle (règle 2026-07-05)
-- Les fichiers de travail (actes/, memory/, courriers en .md) sont **100% en tokens anonymes**
-- Le **dossier de correspondance réelle** est un document séparé créé UNIQUEMENT au moment de l'envoi, par substitution via le TOKEN MAP.md
-- Aucun fichier « mixte » tokens+réel ne doit exister
-- Cette règle est permanente pour tout le cycle de vie du dossier
 
 ## Limitations du script batch_anonymize.py
 - Utilise `str.replace()` → ne capture que les chaînes exactes

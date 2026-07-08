@@ -1,35 +1,10 @@
 # RÈGLES PERMANENTES — Dossier Accident de la Main
 
-## VÉRIFICATION API AVANT INTÉGRATION
-- TOUTE nouvelle citation juridique (LEGIARTI, JURITEXT, n° pourvoi) DOIT être vérifiée via MCP Légifrance/Judilibre AVANT intégration
-- Le checker exécute désormais cette vérification automatiquement
-- Ne JAMAIS contourner cette règle — une jurisprudence fabriquée invalide tout le dossier
-
-## #0 — RÉPERTOIRE SOUVERAIN LOCAL
-- Le répertoire de travail local est et restera toujours **`/home/crilocom/accident-main/`**.
-- Aucun agent, quel qu'il soit, ne peut travailler ailleurs. Aucune exception.
-- La création de clones parallèles (tmp, backup, clonage dans `/tmp/opencode/`) est **interdite**.
-- Toute opération git (pull, add, commit, push) se fait exclusivement depuis ce dossier.
-
-## #1 — INTERDICTION DE POSER DES QUESTIONS AU CONDITIONNEL
-- Tu ne demandes JAMAIS « est-ce que c'est déjà fait ? » ou « est-ce que je le fais ? ».
-- Si l'information existe dans les fichiers, tu la lis et tu décides.
-- Si une action est possible, tu l'exécutes, pas la demandes.
-- La question à l'humain est le dernier recours quand l'information n'existe nulle part.
-
 ## PRIORITÉ MCP — Toujours utiliser les outils MCP en premier
 - Tout appel à Légifrance, Judilibre ou Google Docs DOIT passer par les outils MCP dédiés
 - Ne JAMAIS utiliser webfetch, curl, HTTP requests ou scraping direct sur ces services (bloqués 403/anti-bot)
 - Si un MCP crash (erreur d'import, timeout), le FIXER et RELANCER le serveur immédiatement — ne pas dériver vers des solutions alternatives sans MCP
 - Les MCP sont gérés par le runtime opencode ; le fix du code source + redémarrage du processus est la seule procédure valide
-
-## PROTOCOLE DE VACCINATION (OBLIGATOIRE — À FAIRE EN TOUT PREMIER)
-- 🔴 **Lire et appliquer** `/home/crilocom/accident-main/memory/VACCIN.md` avant la
-  moindre action — c'est le protocole de vaccination contre la médiocrité
-- **Checklist VACCIN** : analyser 3 exemples existants avant d'en créer un
-  nouveau, remplir TOUTES les colonnes, vérifier avec MCP avant de citer
-- **Ne JAMAIS** livrer un travail partiellement complété (colonnes vides,
-  champs absents, format incohérent avec l'existant)
 
 ## PROTOCOLE DE MÉMOIRE (OBLIGATOIRE EN DÉBUT DE SESSION)
 - **Lire** `/home/crilocom/accident-main/AGENTS.md` en premier
@@ -53,7 +28,7 @@
 6. `applyParagraphStyle` → JUSTIFIED sur tout le document
 
 ## RÈGLES D'ANONYMIZATION
-- Personnes physiques/morales → jetons en bon français avec articles (`**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS)]**`)
+- Personnes physiques/morales → jetons en bon français avec articles (`**[La Victime]**`, `**[L'Exploitant du Commerce]**`)
 - Toute donnée localisante (adresse, ville, email, SIREN, CPAM, PV police) → token descriptif en bon français
 - Pas de `[ ... ]` générique (sauf pour cacher des références procédurales)
 - Pas de civilité devant un token (supprimer "Monsieur/Madame/Dr" avant les tokens)
@@ -65,14 +40,6 @@
 - Si le statut est inconnu, le formuler comme une incertitude : "À ce jour, le statut exact de **[l'entreprise]** demeure incertain"
 - Ne pas extrapoler l'absence de réponse à un courrier comme une preuve de liquidation
 
-## SÉPARATION STRICTE TOKENS ↔ CORRESPONDANCE RÉELLE
-- **Tout document de travail** (actes/, analyses, courriers en rédaction) est rédigé exclusivement en tokens anonymes (`**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS)]**`, etc.)
-- **Un dossier de correspondance réelle séparé** est créé au moment de l'envoi uniquement, par substitution des tokens → identités réelles
-- **Ne JAMAIS** mélanger tokens et identités réelles dans un même fichier
-- **Ne JAMAIS** créer de document « mixte » — soit 100% tokens, soit 100% réél
-- **Objectif** : permettre aux agents IA de travailler sur la structure du dossier sans exposer les données personnelles, et garder un seul point de vérité pour le mapping (TOKEN MAP.md)
-- Ce comportement est **permanent et non négociable** pour tout le cycle de vie du dossier
-
 ## VÉRIFICATION OBLIGATOIRE AVANT FINALISATION (DOUBLE-PASS)
 - Avant de finaliser l'écriture de tout document, extraire toutes les dates, montants et identifiants
 - Comparer UN PAR UN avec le fichier `memory/STRICT VARIABLES.md`
@@ -83,7 +50,7 @@
 - Après TOUTE modification d'un fichier dans `actes/`, `memory/`, ou `annexes/`, lancer impérativement : `python3 app/check_consistency.py`
 - Ce script vérifie : liens internes valides, tokens connus, LEGIARTI/JURITEXT joignables, frontmatter cohérent
 - Ne JAMAIS commit/push sans vérification préalable — une régression (lien mort, token inconnu, donnée contradictoire) invalide tout le dossier
-- Les fichiers `actes/archives/STRATEGIE_Contentieux_Civil.md` et `actes/archives/STRATEGIE_Contentieux_Penal.md` sont les portes d'entrée — leur mise à jour est prioritaire
+- Les fichiers `actes/15_Strategie_Contentieux_Civil.md` et `actes/16_Strategie_Contentieux_Penal.md` sont les portes d'entrée — leur mise à jour est prioritaire
 
 ## STRUCTURE DES DOCUMENTS UNIFIE_ANONYME (voir aussi DESIGN.md)
 - Titre du document en TITLE (20pt, CENTER, BOLD — PAS le 36pt par défaut)

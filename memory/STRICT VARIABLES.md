@@ -3,87 +3,44 @@
 **NE JAMAIS MODIFIER NI INVENTER.** Ces valeurs prévalent sur tout autre contenu.
 
 ## Identité de la victime
-- NOM : **[La Victime]**
+- NOM : GRAZIDE Sébastien
 - DATE_NAISSANCE : **18 janvier 1982** (⚠ jamais 12 mars)
-- VILLE_NAISSANCE : **[La Métropole Régionale]**
+- VILLE_NAISSANCE : Toulouse (31)
 - NATIONALITÉ : française
 - PROFESSION : informaticien indépendant
-- ADRESSE : **[L'Adresse de la Victime]**
-- EMAIL : **[L'Email de la Victime]**
-- SIREN : **[L'Identifiant Professionnel de la Victime]**
+- ADRESSE : 10 Avenue de Purpan, 31700 Blagnac (31)
+- EMAIL : sebastien.grazide@gmail.com
+- SIREN : 500 474 457
 
-## Montants financiers — Évaluation principale (optimiste)
-
-- MONTANT_TOTAL_ESTIME : ~105 000 € (évaluation Dintilhac détaillée — voir 12 Évaluation Dintilhac détaillée.md)
-- CA_MENSUEL_MOYEN : 750 € (déclaré URSSAF, CA annuel 9 000 € net)
-- PGPA : 1 900 € (dont 1 400 € prorata + 500 € perte de chance)
-- DFT : 1 400 € (56 jours × 25 €/jour)
-- DFP : 31 200 € (12 % × 2 600 €/point, barème Mornet 2024 médian)
-- SE : 24 000 € (4/7, fourchette Mornet 2024)
-- IP : 30 000 € (méthode BIBAL : 9 000 × 12 % × 27,5)
-- AGREMENT : 8 000 € (guitare 6 000 + autres 2 000)
-- PEP : 3 000 € (cicatrice palmaire 8,5 cm)
-- FRAIS_DIVERS : 2 000 € (kiné, déplacements)
-- DEP : 3 000 € (dévalorisation professionnelle future — poste ajouté après 3e analyse)
-- FACTURE_CHIRURGIE : 790,23 €
-
-## Montants financiers — Évaluation conservative (Glose, juillet 2026)
-
-- TOTAL_ESTIME_CONSERVATIF : ~45 000 € (médian, fourchette 28 000-65 000 €)
-- PGPA_CONSERVATIF : 1 380 € (56/30,44 × 750)
-- DFP_CONSERVATIF : 25 000 € (8 % médian, fourchette 15 000-35 000 €)
-- SE_CONSERVATIF : 8 500 € (fourchette 5 000-12 000 €)
-- IP_CONSERVATIF : 2 250 € (750 × 25 % × 12 mois)
-- AGREMENT_CONSERVATIF : 3 500 € (fourchette 2 000-5 000 €)
-- FRAIS_MEDICAUX_CONSERVATIF : 3 500 € (fourchette 2 000-5 000 €)
-- ART_700_CONSERVATIF : 2 250 € (fourchette 1 500-3 000 €)
-
-## Montants — Compromis recommandé
-
-- TOTAL_COMPROMIS : ~85 000 € (voir 12 Évaluation Dintilhac détaillée.md section 7)
-- DFP_COMPROMIS : 25 000 € (10 % en attendant expertise UMJ)
-- SE_COMPROMIS : 15 000 €
-- AGREMENT_COMPROMIS : 5 000 €
-- FRAIS_DIVERS_COMPROMIS : 3 000 €
-
-## Provisions et astreintes
-
-- MONTANT_PROVISION_REFERE : 15 000 € (provision référé — conformément aux conclusions)
+## Montants financiers
+- MONTANT_PROVISION_REFERE : 5 000 € (demande judiciaire en référé)
 - MONTANT_PROVISION_AMIABLE : 15 000 € (demande amiable en mise en demeure)
-- MONTANT_PROVISION_PENALE : 15 000 € (constitution de partie civile)
-- MONTANT_ASTREINTE_REFERE : 100 €/jour (selon recommandation Glose)
-- MONTANT_ASTREINTE_145 : 150 €/jour
-- MONTANT_ARTICLE_700 : 3 000 € (compromis)
-- MONTANT_ARTICLE_700_145 : 1 500 € (assignation article 145)
-- MONTANT_ARTICLE_475_1 : 3 000 € (constitution partie civile)
+- MONTANT_ARTICLE_700 : 3 000 €
+- MONTANT_TOTAL_ESTIME : 59 600 € (selon tableau détaillé Doc 7 : PGPA 1 400 + IP 15 000 + DFP 25 200 + SE 12 000 + Agrément 3 000 + Art.700 3 000)
+- CA_MENSUEL_MOYEN : 750 € (déclaré URSSAF, CA annuel 9 000 € net)
+- PGPA_ASSIGNATION : 7 500 € (évaluation forfaitaire dans assignation)
+- PGPA_ETUDE : 1 400 € (prorata réel : 750/30×56 jours)
 
-## Plafonds à connaître
-- FGTI_PROVISION_MAX : 3 000 € (art. L.422-7 CA — 30 % plafonné)
-- SARVI_MAX : 3 000 € (30 % au-delà de 1 000 €)
-
-⚠ **Explication montants** : L'évaluation initiale (59 600 €) sous-évaluait plusieurs postes (SE, IP, DFP) et oubliait le DFT, le PEP et les frais divers. L'évaluation Dintilhac (105 000 €) corrige ces lacunes. Le mémoire Glose (juillet 2026) propose une évaluation plus conservative (~45 000 €). Le compromis recommandé est ~85 000 €.
-
-⚠ **Recouvrement** : La SAS a un capital de 200 €. En cas d'insolvabilité, la voie principale est **FGTI/CIVI** (art. 706-3 CPP). Voir section FGTI dans 13 Responsabilites legales.md.
+⚠ **Explication 5k€ vs 15k€** : La demande amiable (15k€) est volontairement plus élevée que la demande en référé (5k€). C'est une stratégie juridique normale : la phase amiable fixe un plafond de négociation, le référé demande un minimum immédiat. Ce n'est pas une incohérence.
+⚠ **Doc 7 vs Doc 1** : Les deux documents utilisent des bases de calcul PGPA différentes (forfaitaire vs prorata réel). Ce n'est pas une contradiction — l'assignation fait une estimation large, l'étude détaille le calcul précis. Les deux peuvent coexister.
 
 ## Dates clés (⚠ précision absolue requise)
 - DATE_ACCIDENT : **29 mai 2026** (vendredi)
-- HEURE_ACCIDENT : 15h00
 - DATE_CHIRURGIE_SOS_MAIN : **30 mai 2026** (samedi — ⚠ JAMAIS 31 ; le 31/05 est la date du COMPTE-RENDU, pas de la chirurgie)
-- LIEU_ACCIDENT : **[L'Adresse de l'Exploitation]**
-- ETABLISSEMENT : **[L'Exploitant du Commerce (La SAS)]**
-- SERVICES_URGENCE : SMUR 09 (Centre Ariégeois de Soins Immédiats)
+- LIEU_ACCIDENT : 22 Rue Lafaurie, 09000 Foix (09)
+- ETABLISSEMENT : SAS LES MAUVAIS GARCONS
 - ITT_TOTAL : 56 jours (29/05/2026 → 23/07/2026)
-- ⚠ ITT_INITIALE_ERREUR : **[Le Médecin Généraliste]** a noté 1 jour le 01/06 (erreur matérielle, rectifiée à 56j)
+- ⚠ ITT_INITIALE_ERREUR : Dr Oxybel a noté 1 jour le 01/06 (erreur matérielle, rectifiée à 56j)
 - PV_POLICE : 2026/015967 (⚠ info non confirmée par retour officiel — source : courriel Mairie de **[La Ville de l'Accident]** du 01/06/2026 + dossier de plainte déposé par **[La Victime]**)
 - DOSSIER_CPAM : **31727387** (⚠ jamais 31713398 — obsolète)
 - CAPITAL_SOCIAL : 200 € (2 000 actions de 0,10 €)
 - MAIN_ATTEINTE : Main droite uniquement — index droit (⚠ jamais 5e doigt/auriculaire)
 - ZONE_LESEE : Index droit uniquement (section partielle tendon fléchisseur + paquet collatéral + neurolyse nerf palmaire)
-- PREUVE_BANCAIRE : Wero 15,00 € payé puis remboursé le jour même (preuve de présence matérielle dans les lieux et de relation contractuelle)
+- PREUVE_BANCAIRE : Wero 15,00 € payé puis remboursé le jour même (aveu implicite de responsabilité)
 - DATE_ACCIDENT_CERTIFICAT_ERREUR : Certains certificats mentionnent 29/06/2026 par erreur (date réelle : 29/05/2026)
 
 ## Mécanisme de l'accident (VÉRITÉ FACTUELLE)
-1. Le coiffeur (**[Le Préposé de l'Exploitation]**) est monté physiquement sur la vasque en céramique du bac à shampoing
+1. Le coiffeur (Ayoub Bennourine) est monté physiquement sur la vasque en céramique du bac à shampoing
 2. En descendant, son poids a provoqué le **basculement** de l'équipement
 3. La victime a tendu la main droite par réflexe pour protéger le coiffeur
 4. La paume a heurté une **cassure majeure préexistante** non signalée sur le flanc de la vasque
@@ -103,22 +60,10 @@
 | Médecin Généraliste | `**[Le Médecin Généraliste]**` |
 | Gestionnaire CPAM | `**[La Gestionnaire CPAM]**` |
 
-⚠ **Statut de la SAS vérifié (2026-07-06)** : Active (état administratif "A"), créée le 01/06/2024, siège social au 22 Rue Lafaurie 09000 Foix. Président : Mountasser Sabir. Directrice Générale : Catherine Andissac/Sorroche. Aucune procédure de dissolution ou liquidation en cours (source : API Recherche Entreprises).
+⚠ **Statut de la SAS inconnu (2026-07-03)** : Aucune information disponible sur le statut actuel de la SAS LES MAUVAIS GARÇONS (activité, fermeture, liquidation, radiation). Les courriers recommandés envoyés le 29 juin 2026 sont restés sans réponse ni AR signé. **Ne jamais affirmer un statut juridique (liquidation, dissolution, etc.) sans source vérifiable.**
 
 ## Personnes morales (tokens)
-| Rôle | Jeton | Note |
-|------|-------|------|
-| Exploitant du commerce (la SAS) | `**[L'Exploitant du Commerce (La SAS)]**` | ⚠ Désigne la PERSONNE MORALE SAS, pas ses dirigeants. L'ajout `(La SAS)` prévient toute confusion. Le singulier est correct car une SAS = une entité unique. |
-| Établissement SOS Main | `**[L'Établissement SOS Main]**` | |
-
-## Codéfendeurs — Stratégie de mise en cause plurielle
-⚠ **Capital 200 € — risque majeur d'insolvabilité.** La SAS seule ne pourra probablement pas indemniser. **Les dirigeants (Président + DG) doivent être assignés PERSONNELLEMENT** comme codéfendeurs, in solidum avec la SAS.
-
-| Défendeur | Qualité | Fondement |
-|-----------|---------|-----------|
-| `**[L'Exploitant du Commerce (La SAS)]**` | Personne morale (gardienne de la chose + commettant) | Art. 1240, 1242 C.civ. + L.4121-1 C.trav. |
-| `**[Le Président de l'Exploitation]**` | Dirigeant de droit (L.227-6 C.com.) | L.227-8 + L.225-251 C.com. + 1240 C.civ. (faute séparable) |
-| `**[La Directrice Générale de l'Exploitation]**` | Dirigeante de droit (L.227-6 C.com.) | L.227-8 + L.225-251 C.com. + 1240 C.civ. (faute séparable) |
-
-**Formulation standard à employer partout :**
-> *à l'encontre de **[L'Exploitant du Commerce (La SAS)]**, pris en la personne de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, et personnellement contre ces derniers*
+| Rôle | Jeton |
+|------|-------|
+| Exploitant du commerce | `**[L'Exploitant du Commerce]**` |
+| Établissement SOS Main | `**[L'Établissement SOS Main]**` |

@@ -12,13 +12,12 @@
 | Dr Julie Jardon / JARDON | `**[Le Médecin en Urgence]**` |
 | Dr Oxybel / Oxybel | `**[Le Médecin Généraliste]**` |
 | Sigrid DESBOIS / DESBOIS | `**[La Gestionnaire CPAM]**` |
-| (Avocat de la victime — nom réel à définir) | `**[Nom de l'Avocat de la Victime]**` |
 
 ## Personnes morales
-| Texte original | Jeton | Note |
-|---|---|---|
-| SAS LES MAUVAIS GARCONS / LES MAUVAIS GARÇONS | `**[L'Exploitant du Commerce (La SAS)]**` | ⚠ Personne morale UNIQUE — PAS le Président ni la DG. L'ajout `(La SAS)` clarifie qu'il s'agit de la société, pas de ses dirigeants. |
-| Clinique de l'Union | `**[L'Établissement SOS Main]**` | |
+| Texte original | Jeton |
+|---|---|
+| SAS LES MAUVAIS GARCONS / LES MAUVAIS GARÇONS | `**[L'Exploitant du Commerce]**` |
+| Clinique de l'Union | `**[L'Établissement SOS Main]**` |
 
 ## Données localisantes / identifiantes
 | Texte original | Jeton |

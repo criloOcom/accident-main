@@ -1,12 +1,9 @@
 __pycache__/
 *.pyc
 .env
-.dev/.env
 .venv/
-.dev/.venv/
 node_modules/
 *.pdf
-!lois/pdfs/*.pdf
 /tmp/
 .drive-token.json
 .piste-credentials.json

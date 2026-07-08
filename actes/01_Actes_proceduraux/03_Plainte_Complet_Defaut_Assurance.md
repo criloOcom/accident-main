@@ -1,0 +1,168 @@
+---
+titre: Plainte Complément — Défaut d'Assurance RC
+date: 2026-06-30
+type: acte
+categorie: penale
+auteur: La Victime
+destinataire: Procureur de la République
+personnes:
+  - La Victime
+  - L'Exploitant du Commerce
+tags:
+  - plainte
+  - défaut d'assurance
+  - pénal
+statut: final
+source: drive
+drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
+---
+
+**Table des matières**
+
+- [INTRODUCTION](#introduction)
+- [I. Exposé des Faits](#i-expos-des-faits)
+- [II. Discussion Juridique](#ii-discussion-juridique)
+  - [A. Sur l'absence d'assurance de responsabilité civile](#a-sur-labsence-dassurance-de-responsabilit-civile)
+  - [B. Sur l'entrave à l'exercice de l'action directe](#b-sur-lentrave-lexercice-de-laction-directe)
+- [III. Conséquences et Préjudices](#iii-consquences-et-prjudices)
+- [IV. Demandes](#iv-demandes)
+
+
+ ---
+titre: Plainte Complément — Défaut d'Assurance RC
+date: 2026-06-30
+type: acte
+categorie: penale
+auteur: La Victime
+destinataire: Procureur de la République
+personnes:
+  - La Victime
+  - L'Exploitant du Commerce
+tags:
+  - plainte
+  - défaut d'assurance
+  - pénal
+statut: final
+source: drive
+drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
+---
+
+# COMPLÉMENT DE PLAINTE PÉNALE — DÉFAUT D'ASSURANCE RC
+
+Rédigé le 30 juin 2026
+
+
+**[L'Adresse de la Victime]**
+
+**[La Ville de Résidence de la Victime]**
+
+Courriel : **[L'Email de la Victime]**
+
+**[L'Identifiant Professionnel de la Victime]**
+
+À l'attention de Monsieur le Procureur de la République
+
+Tribunal Judiciaire de **[La Ville de l'Accident]**
+
+14 Boulevard du Sud — BP 50078
+
+09008 **[La Ville de l'Accident]** Cedex
+
+**[La Ville de Résidence de la Victime]**, le 30 juin 2026
+
+OBJET : COMPLÉMENT DE PLAINTE PÉNALE
+
+Dénonciation de défaut d'assurance de responsabilité civile professionnelle et d'entrave à l'exercice de l'action directe
+
+RÉFÉRENCE : Dossier [ ... ]
+
+## INTRODUCTION
+
+Le présent complément de plainte pénale est déposé par **[La Victime]** auprès de Monsieur le Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** afin de signaler l'absence d'assurance de responsabilité civile professionnelle de **[L'Exploitant du Commerce]**.
+
+Malgré les demandes amiables répétées, **[L'Exploitant du Commerce]** n'a jamais communiqué d'attestation d'assurance RC Pro, laissant présumer une absence de couverture assurantielle. Cette carence constitue un obstacle majeur à l'exercice de l'action directe de la victime contre l'assureur ([article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)) et entrave gravement ses droits à indemnisation. En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en charge par le Fonds de Garantie (FGTI) sur le fondement de [[l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
+
+
+=== PAGE BREAK ===
+
+## I. Exposé des Faits
+
+Le 29 mai 2026, **[La Victime]** a été victime d'un accident corporel grave au sein du salon de coiffure exploité par **[L'Exploitant du Commerce]**, sise **[L'Adresse de l'Exploitation]**.
+
+Alors que l'employé coiffeur était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger le coiffeur ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
+
+Ces faits, constitutifs de blessures involontaires au sens de [l'article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042635), ont fait l'objet d'une plainte initiale enregistrée sous le numéro [ ... ].
+
+Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce]**. Ni le Président de la SAS, **[Le Président de l'Exploitation]**, ni la co-dirigeante, **[La Directrice Générale de l'Exploitation]**, n'ont déféré aux demandes amiables de **[La Victime]**, ni à celles adressées au propriétaire des murs, **[Le Propriétaire des Murs]**.
+
+Ce silence persistant, malgré l'envoi de courriers recommandés le 29 juin 2026, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
+
+
+=== PAGE BREAK ===
+
+## II. Discussion Juridique
+
+### A. Sur l'absence d'assurance de responsabilité civile
+
+Malgré les demandes amiables de **[La Victime]**, **[L'Exploitant du Commerce]** n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle. Cette absence de réponse laisse présumer soit une absence de couverture assurantielle, soit une volonté de dissimulation.
+
+En l'absence d'assurance, l'indemnisation de la victime au titre de l'action directe prévue à [[[l'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) est gravement compromise. Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734), sur le fondement de [[l'article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625), pourrait alors être saisi pour assurer l'indemnisation de **[La Victime]**.
+
+### B. Sur l'entrave à l'exercice de l'action directe
+
+[[L'article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) consacre le droit propre et l'action directe de la victime à l'encontre de l'assureur du responsable.
+
+Cette autonomie de l'action directe a été fermement rappelée par la jurisprudence (Cass. Civ. 1ère, 8 décembre 2021, [n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)).
+
+En dissimulant l'identité de leur assureur, les mis en cause commettent une entrave caractérisée aux droits de la victime, susceptible de relever des dispositions de [l'article 434-12 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209).
+
+Par ailleurs, ce défaut de souscription ou d'information peut constituer une faute détachable des fonctions de direction engageant la responsabilité personnelle des dirigeants sur leur patrimoine propre (Cass. Com., 20 mai 2003, [n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)).
+
+
+=== PAGE BREAK ===
+
+## III. Conséquences et Préjudices
+
+Le préjudice subi par **[La Victime]** est d'une particulière gravité.
+
+En sa qualité d'informaticien indépendant, l'usage de sa main dominante est indispensable à son activité professionnelle.
+
+La section complète du nerf collatéral radial et du tendon fléchisseur a entraîné un blocage mécanique de la flexion et une insensibilité thermique totale de l'index droit.
+
+Le pronostic de récupération est réservé, avec un délai minimal d'un an évalué par **[Le Chirurgien SOS Main]**.
+
+Sur le plan financier, le plaignant est privé de revenus depuis l'accident.
+
+Les pertes d'exploitation sont d'ores et déjà significatives et le préjudice global est estimé à ce jour à la somme de 58 100 €.
+
+L'absence de communication de l'assurance bloque toute offre d'indemnisation amiable, l'accès à une expertise médicale contradictoire et la prise en charge des soins par la CPAM (dossier [ ... ]).
+
+
+=== PAGE BREAK ===
+
+## IV. Demandes
+
+Par ces motifs, **[La Victime]** sollicite qu'il plaise à Monsieur le Procureur de la République d'ordonner une enquête complémentaire visant à :
+
+1. Vérifier l'existence et la validité du contrat d'assurance de responsabilité civile de **[L'Exploitant du Commerce]** au jour du sinistre ;
+
+2. Identifier la compagnie d'assurance concernée par tout moyen d'investigation (Fichier Central des Assurances, ORIAS) ;
+
+3. Recueillir les explications des mis en cause sur la dissimulation des informations d'assurance ;
+
+4. Ordonner la préservation urgente et la saisie des enregistrements de vidéosurveillance du salon pour la journée du 29 mai 2026, afin de prévenir toute destruction de preuve.
+
+Le plaignant se constitue partie civile et se tient à la disposition de la justice pour toute mesure d'expertise ou audition nécessaire à la manifestation de la vérité.
+
+**[La Victime]**
+
+**Note administrative :** Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+
+Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement du présent document.
+
+
+=== PAGE BREAK ===
+
+
+
+---
