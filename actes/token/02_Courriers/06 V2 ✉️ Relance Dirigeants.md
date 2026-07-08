@@ -67,7 +67,7 @@ J'ai constaté que votre salon de coiffure a fermé ses portes au public immédi
 **Par la présente, je vous demande expressément de conserver et de ne pas altérer, effacer ou détruire tout enregistrement vidéo, photographie, document ou objet en lien avec l'accident du **[J+0 Accident]**.** À défaut, la destruction de ces éléments serait susceptible de constituer une entrave à la manifestation de la vérité, au sens de l'article 434-4 du Code pénal.
 
 > « Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. »
-> **Article 434-4 du Code pénal** ([Lien Legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608))
+> **Article 434-4 du Code pénal (version en vigueur au 29 mai 2026)**
 
 Par ailleurs, sachez que ma présence et les circonstances de l'accident sont d'ores et déjà attestées par des éléments indépendants : transaction Wero de remboursement, géolocalisation Google Maps, certificats médicaux du SOS Main et procès-verbal de police. La matérialité des faits est donc solidement établie.
 
@@ -75,7 +75,7 @@ Par ailleurs, sachez que ma présence et les circonstances de l'accident sont d'
 
 ## RAPPEL DE LA DEMANDE
 
-Le **[J+0 Accident]** à 15h00, alors que j'étais client dans votre établissement, la vasque en céramique sur laquelle mon coiffeur est monté pour accéder à ma nuque s'est brisée brutalement, me sectionnant les tendons et les nerfs de l'index droit. Cette blessure a nécessité une microchirurgie d'urgence le **[J+1 Chirurgie]** par **[Le Chirurgien SOS Main]** au service SOS Main de **[L'Établissement SOS Main]**. Les conséquences de cette lésion sur mon quotidien et mon activité professionnelle sont importantes.
+Le **[J+0 Accident]** à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur. En descendant, son poids a provoqué le basculement soudain de l'équipement. Par réflexe, afin de le protéger d'une chute, j'ai tendu la main droite. Ma paume a alors heurté une cassure majeure préexistante et non signalée sur le flanc de la vasque, me sectionnant les tendons et les nerfs de l'index droit. Cette grave blessure a nécessité une microchirurgie d'urgence le **[J+1 Chirurgie]** par **[Le Chirurgien SOS Main]** au service SOS Main de **[L'Établissement SOS Main]**. Les conséquences fonctionnelles de cette lésion sur mon quotidien et mon activité professionnelle sont majeures.
 
 Dans l'attente de votre réponse, je vous remercie de bien vouloir me communiquer par écrit les informations suivantes :
 
@@ -112,9 +112,9 @@ Cette adresse pourra être, au choix de votre société :
 La responsabilité personnelle des dirigeants d'une SAS peut être engagée pour faute détachable de leurs fonctions. La Cour de cassation a jugé que constitue une faute détachable la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales (Cass. Com., 20 mai 2003, n° 99-17.092, arrêt SATI).
 
 > « La faute du dirigeant social, même lorsqu'elle est commise dans l'exercice de ses fonctions, est séparable de celles-ci lorsqu'elle constitue un manquement délibéré à ses obligations et engage sa responsabilité personnelle. »
-> **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092** ([Lien Legifrance](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369))
+> **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092 (arrêt SATI)**
 
-Par renvoi des articles L. 227-1 et L. 225-251 du Code de commerce ([Lien Legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)), les dirigeants d'une SAS sont responsables, individuellement ou solidairement, envers les tiers des conséquences dommageables de leurs actes, notamment des infractions aux dispositions législatives ou des fautes commises dans leur gestion.
+Par renvoi des articles L. 227-1 et L. 225-251 du Code de commerce, les dirigeants d'une SAS sont responsables, individuellement ou solidairement, envers les tiers des conséquences dommageables de leurs actes, notamment des infractions aux dispositions législatives ou des fautes commises dans leur gestion.
 
 Le maintien en service d'un équipement connu comme défectueux (vasque cassée) et l'absence de signalement ou d'interdiction d'usage constituent un manquement délibéré à l'obligation de sécurité et de prévention des risques imposée par la loi, susceptible de caractériser une faute détachable engageant votre patrimoine personnel.
 
@@ -127,7 +127,7 @@ Un salon de coiffure est un Établissement Recevant du Public (ERP) soumis au Co
 À défaut de réponse de votre part dans un délai de quinze (15) jours à compter de la réception de la présente, je me verrai contraint de saisir le juge des référés du tribunal judiciaire de **[La Ville de l'Accident]** par voie de **requête** (non contradictoire) afin d'obtenir, sur le fondement de l'article 145 du Code de procédure civile, une mesure d'instruction in futurum aux fins d'identification de l'assureur et de constat de l'état des lieux.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
-> **Article 145 du Code de procédure civile** ([Lien Legifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339))
+> **Article 145 du Code de procédure civile**
 
 Je vous remercie de l'attention que vous porterez à cette démarche et reste disponible pour tout échange constructif.
 
