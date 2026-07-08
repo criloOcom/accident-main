@@ -472,6 +472,7 @@ code Python lit ensuite en fallback.
 - **Index mis à jour** : stats (14 docs), mention fichiers à insérer supprimée, travaux restants nettoyés
 - `python3 app/check_consistency.py` : 0 erreur, 1 avertissement (bénin)
 - **Sync NotebookLM** : `.dev/app/sync_notebooklm.py` + `.github/workflows/sync-notebooklm.yml` créés. Sync automatique vers Drive `Accident Main - NotebookLM/` (Actes Reel, Memory, Lois). Secrets GitHub configurés (GOOGLE_DRIVE_CLIENT_ID, CLIENT_SECRET, REFRESH_TOKEN). 126 fichiers uploadés lors du premier sync.
+- **Unification chiffrage (juil. 2026)** : Passages 59 600 € → ~90 000 € dans analyses actives (03_Analyses_juridiques/07, 09, 12, 13 + Plainte). Provision alignée 15 000 € (11+12). STRICT VARIABLES : note adresse PV police ajoutée.
 
 ## Phase 5c — Injection des 4 courriers sur Drive (5 juillet 2026) ✅
 
