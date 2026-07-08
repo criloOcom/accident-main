@@ -5,7 +5,7 @@ Ce dossier contient les scripts fonctionnels utilisés pour le traitement, l'ano
 | Script | Description | Usage | Dépendances |
 |--------|-------------|-------|-------------|
 | **agent.py** | Point d'entrée principal définissant l'agent IA (multi-agent ADK). | `python3 .dev/app/agent.py` | Google ADK, mcp_bridge, app_utils |
-| **anonymize_doc.py** | Script basique de remplacement des entités nominatives par des tokens (obsolète/test remplacé par batch_anonymize). | `python3 .dev/app/anonymize_doc.py` | `re`, `sys` |
+| **anonymize_doc.py** | Script basique de remplacement des entités nominatives par des tokens (obsolète/test remplacé par batch_anonymize). | `python3 .dev/app/anonymize_doc.py <input_file>` | `re`, `sys` |
 | **batch_anonymize.py** | Script officiel d'anonymisation en masse avec la table maîtresse des tokens (cf. TOKEN MAP.md). | `python3 .dev/app/batch_anonymize.py <input> <output>` | `re`, `sys`, `os` |
 | **batch_link_legifrance.py** | Script d'ajout en masse de liens hypertextes Légifrance (inline) dans les actes. | `python3 .dev/app/batch_link_legifrance.py` | `re`, `os` |
 | **check_consistency.py** | Outil essentiel de vérification cross-document (liens, tokens, frontmatter, etc.). | `python3 .dev/app/check_consistency.py` | `re`, `os`, `sys`, `pathlib` |
