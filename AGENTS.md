@@ -30,6 +30,7 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
 │   ├── RULES.md           ← Règles permanentes (INTERDICTIONS incluses)
 │   ├── STRICT VARIABLES.md ← Source Unique de Vérité (dates, montants, faits)
 │   ├── PIECES MAP.md      ← Correspondance document → pièces citées
+│   ├── JURITEXT_PROTOCOL.md ← 🔴 PROTOCOLE STRICT vérification JURITEXT
 │   └── RAPPORT_*.md       ← Rapports d'audits, vérifications, synthèses
 ├── reports/               ← Rapports d'audit, évaluations, plans d'action (lecture humaine)
 └── .dev/                  ← Développement, scripts, tests, déploiement (technique)
@@ -65,6 +66,8 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
 8. **GitHub Token** : stocké dans Google Secret Manager (`projects/crilo-prod-automation/secrets/GITHUB_TOKEN`). En local, il est aussi dans `~/.git-credentials` (solution de repli). Tout agent DOIT lire depuis Secret Manager, pas depuis une variable d'environnement ou un fichier `.dev/.env`.
 9. **README.md** : doit être maintenu à jour après chaque modification de la structure du projet. C'est une consigne absolue — toute création/déplacement/suppression de dossier ou fichier notable doit être répercuté dans README.md.
 10. **RÉPERTOIRE SOUVERAIN ABSOLU** : `/home/crilocom/accident-main/` est le SEUL et UNIQUE répertoire de travail local. Aucun agent ne doit créer, cloner, ou travailler dans un autre répertoire (notamment `/tmp/opencode/`, `/tmp/`, ou tout autre chemin). Toute action locale (lecture, écriture, git, scripts) se fait DEPUIS CE DOSSIER. Aucune exception.
+11. **VÉRIFICATION JURITEXT OBLIGATOIRE** : Lire `memory/JURITEXT_PROTOCOL.md` avant toute insertion/modification de JURITEXT. Vérification en 2 étapes (Légifrance-prod PUIS OpenLegi) SANS EXCEPTION. Ne JAMAIS deviner un JURITEXT — si introuvable, marquer "À VÉRIFIER" et signaler. Ne JAMAIS se fier à une coche "✓" dans un fichier. Propagation : si une JURITEXT est fausse, chercher et corriger TOUTES les occurrences.
+12. **CLÔTURE DES SESSIONS JULES** : Toute session Jules (qu'elle soit terminée, bloquée, ou en échec) DOIT recevoir un message de clôture explicite avant d'être abandonnée. L'API REST Jules n'a pas de delete/archive — le message de clôture est le seul mécanisme pour libérer l'agent. Google archive automatiquement les sessions clôturées. Voir `memory/RULES.md #12` et `memory/DECISIONS.md`.
 
 ## Workflow création d'un document
 

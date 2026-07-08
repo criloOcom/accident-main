@@ -34,6 +34,17 @@
   3. Corriger les erreurs signalées avant de commit
   4. Vérifier que `actes/archives/STRATEGIE_Contentieux_Civil.md` et `actes/archives/STRATEGIE_Contentieux_Penal.md` listent bien le nouvel acte
 
+## Gestion des sessions Jules — CYCLE DE VIE
+- Une session Jules est créée avec `jules_create_session` pour exécuter une tâche de code.
+- **Surveiller** l'état avec `jules_get_session_state` — statuts : `busy` (travail en cours), `stable` (en attente), `failed` (erreur système).
+- **Débloquer** les sessions bloquées en lisant l'état, puis en envoyant la réponse appropriée via `jules_send_reply_to_session`.
+- **CLÔTURER IMPÉRATIVEMENT** toute session terminée par un message de clôture explicite.
+  - Session réussie (PR créé, rapport reçu) → « Mission terminée, tu peux clôturer et archiver cette session. »
+  - Session débloquée (réponse envoyée) → « Réponse envoyée ci-dessus. Tu peux continuer ou clôturer si fini. »
+  - Session en échec irrécupérable → « Session en échec. Tu peux clôturer. »
+- **Pourquoi c'est indispensable** : l'API REST Jules n'a pas de endpoint `delete` ou `archive`. Un message de clôture est le SEUL moyen de dire à l'agent que son travail est fini. Sans cela, l'agent reste en attente indéfinie.
+- Google archivera automatiquement les sessions clôturées côté serveur.
+
 ## Pièges connus :
 - `batch_anonymize.py` utilise `str.replace()` donc **ne capture pas** les variantes en casse mixte non listées
 - Les noms en "Prénom Nom" (ex. "Mountasser Sabir" au lieu de "Mountasser SABIR") ne sont pas remplacés → à ajouter manuellement dans le script

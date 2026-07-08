@@ -55,6 +55,15 @@
 - Aucun fichier « mixte » tokens+réel ne doit exister
 - Cette règle est permanente pour tout le cycle de vie du dossier
 
+## Clôture des sessions Jules — DÉCISION 2026-07-08
+- **Toute session Jules doit recevoir un message de clôture explicite** une fois le travail terminé (rapport reçu, PR créé, solution envoyée, etc.)
+- Le message type : « Session terminée, tu peux clôturer et archiver. » ou équivalent.
+- Les sessions bloquées qui reçoivent une réponse de déblocage doivent être informées : « Réponse envoyée — tu peux continuer ou clôturer si fini. »
+- L'API REST Jules n'a pas de méthode `delete`/`archive` — le message de clôture est le seul mécanisme pour marquer la fin de la conversation.
+- Google archivera automatiquement les sessions clôturées côté serveur.
+- **Anti-pattern** : laisser des sessions en plan (« l'agent a fini, je passe à autre chose ») — les agents restent dans un état d'attente indéfini.
+- **Propagation** : cette décision est enregistrée dans RULES.md (#12), AGENTS.md (règle #12), WORKFLOW.md et DECISIONS.md pour visibilité maximale.
+
 ## Limitations du script batch_anonymize.py
 - Utilise `str.replace()` → ne capture que les chaînes exactes
 - Les prénoms seuls ("Sébastien") et les noms en casse mixte ("Mountasser Sabir") ne sont pas remplacés

@@ -5,6 +5,14 @@
 - Le checker exécute désormais cette vérification automatiquement
 - Ne JAMAIS contourner cette règle — une jurisprudence fabriquée invalide tout le dossier
 
+## VÉRIFICATION JURITEXT — PROTOCOLE STRICT (Règle n°10)
+- **Lire** `/home/crilocom/accident-main/memory/JURITEXT_PROTOCOL.md` avant toute insertion/modification de JURITEXT
+- **Vérification en 2 étapes OBLIGATOIRE** : `legifrance-prod_rechercher_jurisprudence` PUIS `openlegi_rechercher_jurisprudence_judiciaire` — les 2 doivent concorder
+- **JAMAIS deviner** un JURITEXT — si introuvable, marquer "À VÉRIFIER" et signaler
+- **JAMAIS se fier** à une coche "✓" dans un fichier — la coche ne prouve rien
+- **Propagation** : si une JURITEXT est fausse, chercher et corriger TOUTES les occurrences dans le projet
+- **Anti-pattern** : "Judilibre retourne 0, donc l'ID est probablement correct" → FAUX, utiliser Légifrance-prod
+
 ## #0 — RÉPERTOIRE SOUVERAIN LOCAL
 - Le répertoire de travail local est et restera toujours **`/home/crilocom/accident-main/`**.
 - Aucun agent, quel qu'il soit, ne peut travailler ailleurs. Aucune exception.
@@ -96,3 +104,11 @@
 - Si des références légales sont citées, les lier via applyTextStyle + linkUrl
 - Tokens d'anonymisation en **bold** dans le body
 - Se référer à `memory/DESIGN.md` pour le détail complet de la charte
+
+## #12 — CYCLE DE VIE DES SESSIONS JULES — RÈGLE ABSOLUE
+- **TOUTE session Jules doit être conclue par un message de clôture** explicite (pas seulement abandonnée).
+- Une session qui a terminé son travail (rapport reçu, PR créé, mission accomplie) reçoit un message de type : « Mission terminée, tu peux archiver cette session. » ou « Rapport reçu, tu peux clôturer. »
+- Une session bloquée qui a reçu une réponse de déblocage doit être informée que la réponse a été envoyée.
+- **NE JAMAIS laisser une session Jules en plan** sans message de conclusion — cela laisse des agents en attente indéfiniment et pollue la file d'exécution.
+- L'API REST Jules ne dispose pas de méthode `delete` ou `archive` — l'envoi d'un message de clôture est le SEUL moyen de marquer proprement la fin d'une session.
+- Ce message de clôture est le signal pour l'agent que son travail est terminé et accepté ; Google archivera automatiquement les sessions clôturées côté serveur.
