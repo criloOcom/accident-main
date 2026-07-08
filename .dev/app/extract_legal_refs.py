@@ -2,7 +2,6 @@
 #!/usr/bin/env python3
 """Extract legal references from a document and generate Annexe B."""
 
-import re
 import sys
 
 # Legal references mapping from annuaire spreadsheet
@@ -49,14 +48,6 @@ LEGAL_REFS = {
 def extract_legal_refs(text):
     """Extract legal references from document text."""
     found = {}
-    
-    # Search for article references
-    patterns = [
-        (r'(?:article|art\.?)\s*(\d+[\-\d]*)\s*(?:du\s+)?(?:Code\s+(?:civil|pénal|de\s+procédure\s+(?:civile|pénale)|des\s+assurances|de\s+la\s+consommation|de\s+commerce))', 'article'),
-        (r'(?:article\s+)?L\.?\s*(\d+[\-\d]*)\s*(?:du\s+)?(?:Code\s+(?:des\s+assurances|de\s+la\s+consommation|de\s+commerce))', 'L-article'),
-        (r'(?:Cass\.|Civ\.\s*\d+e?)[^,]*,\s*\d+\s+\w+\s+\d{4}[^,]*n°\s*([\d\-\.]+)', 'arret'),
-        (r'Arrêt\s+(?:SATI|Sati|Gabillet|Costedoat|Cousin)', 'arret-nom'),
-    ]
     
     # Check for specific references
     for ref_key, ref_data in LEGAL_REFS.items():
