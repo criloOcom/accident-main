@@ -5,6 +5,12 @@
 - **LE DOUTE SYSTÉMATIQUE** : Si une information (statut de l'entreprise, décision, nom, date) n'est pas explicitement documentée, l'agent doit indiquer que la donnée est "inconnue en l'état" au lieu de l'extrapoler ou de la deviner.
 - **RÈGLE DU DOUBLE-PASS (RELECTURE)** : Avant de finaliser une action ou de proposer un document, l'agent doit relire son propre travail en extrayant individuellement toutes les dates, sommes et citations pour les comparer une par une avec les variables de référence.
 
+## VÉRIFICATION SUR PIÈCES SOURCE AVANT TOUTE RÉDACTION (Règle n°14)
+- **RÈGLE ABSOLUE** : Avant de rédiger ou modifier un acte, courrier ou email mentionnant une date, un lieu, un numéro de PV ou une information procédurale, l'agent DOIT retrouver et vérifier l'information sur la pièce source originale dans `⚖️_Actes/00_Preuves_officielles/`
+- **Ne JAMAIS** reproduire une information procédurale (date de plainte, lieu de dépôt, numéro de PV, date de chirurgie) depuis une version antérieure d'un document sans la recouper avec la pièce source
+- **Mécanisme concret** : pour chaque donnée factuelle dans le document en rédaction, tracer sa provenance : quelle pièce source, quel drive_id, quel numéro de page
+- **Sanction** : une information erronée reproduite sans vérification est une faute professionnelle immédiate
+
 ## VÉRIFICATION API AVANT INTÉGRATION
 - TOUTE nouvelle citation juridique (LEGIARTI, JURITEXT, n° pourvoi) DOIT être vérifiée via MCP Légifrance/Judilibre AVANT intégration
 - Le checker exécute désormais cette vérification automatiquement

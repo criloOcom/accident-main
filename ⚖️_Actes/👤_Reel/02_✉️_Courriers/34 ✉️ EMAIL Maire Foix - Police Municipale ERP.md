@@ -20,7 +20,7 @@ Monsieur l'Adjoint au Maire,
 
 Je me permets de vous recontacter à la suite de notre échange du 1er juin 2026, au cours duquel vous m'aviez indiqué avoir pris l'attache des services de la préfecture concernant les suites administratives de l'accident corporel grave dont j'ai été victime le 29 mai 2026 au sein de l'établissement situé au 22 Rue Lafaurie.
 
-Sur le plan médical, mon parcours de soins se poursuit. J'ai subi une microchirurgie d'urgence à Clinique de l'Union pour une section partielle du tendon fléchisseur de l'index droit dominant et une double section nerveuse collatérale. Je suis actuellement ma rééducation de kinésithérapie à raison de 3 séances par semaine. Mon indisponibilité professionnelle (ITT) a été fixée à 56 jours.
+Lors de la consultation de contrôle du 23 juin 2026 auprès du Dr Iskander DJERBI, chirurgien de la main à Clinique de l'Union, ce dernier a constaté une bonne cicatrisation et une mobilité jugée satisfaisante. Il a prescrit 3 séances de kinésithérapie par semaine pour récupérer la souplesse articulaire de l'index droit. Il a précisé que la récupération de la sensibilité s'étendra sur une durée d'environ un an et reste souvent partielle après une suture nerveuse. Je suis actuellement ma rééducation selon ce protocole.
 
 Habitant à Toulouse, je constate que les courriers recommandés adressés à SAS LES MAUVAIS GARCONS à l'adresse de son siège social (22 Rue Lafaurie) me sont retournés avec la mention NPAI. Pourtant, le commerce semble avoir rouvert ses portes et paraît en activité régulière, et les registres publics du RNE (INPI) indiquent que cette SAS est toujours officiellement active à cette même adresse, sans modification de siège social.
 
@@ -32,7 +32,9 @@ Dans ce contexte, et afin de disposer d'éléments factuels fiables sur la situa
 
 Ces constatations factuelles par des agents publics assermentés sont primordiales pour faire toute la lumière sur la situation de ce local et garantir la sécurité des usagers.
 
-Je me déplacerai à Foix la semaine prochaine pour finaliser mon dépôt de plainte et ne manquerai pas de me présenter à votre secrétariat.
+Le dépôt de plainte initial a été effectué le 2 juin 2026 auprès des services de la Police Nationale de Toulouse (PV n° 2026/015967). Les suites judiciaires de cette procédure sont en cours.
+
+Le dossier constitué à l'appui de la procédure pénale est disponible pour toute transmission officielle que vos services estimeraient nécessaire.
 
 Je vous remercie par avance pour votre action et votre suivi.
 
