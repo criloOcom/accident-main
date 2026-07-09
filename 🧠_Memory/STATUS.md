@@ -7,14 +7,14 @@
 |----|-------|--------|----------|
 | #73 | Rapport audit avocat | ✅ Mergée (rebase) | `📊_Rapports/🗄️_Archives/audit/rapport_audit_avocat.md` |
 | #74 | Audit RGPD | ✅ Mergée (rebase) | `📊_Rapports/🗄️_Archives/audit/RAPPORT_AUDIT_RGPD.md` |
-| #75 | Expertise barémique | ✅ Mergée (rebase) | `📊_Rapports/expertise/20260708_Rapport_Baremique_Dintilhac.md` |
+| #75 | Expertise barémique | ✅ Mergée (rebase) | `📊_Rapports/20260708_Rapport_Baremique_Dintilhac.md` |
 | #76 | Note stratégique FGTI/CIVI | ✅ Mergée (1er) | `⚖️_Actes/{token,reel}/04_💰_Etudes_indemnisation/13 Note strategique FGTI CIVI.md` |
 | #77 | Audit organisation | ✅ Mergée (rebase) | `📊_Rapports/🗄️_Archives/audit/RAPPORT_ORGANISATION_METHODE.md` |
 | #78 | Audit dirigeants | ✅ Mergée (rebase) | `📊_Rapports/🗄️_Archives/audit/RAPPORT_DIRIGEANTS.md` |
 | #79 | Rapport conformité ERP | ✅ Mergée (rebase) | `📊_Rapports/🗄️_Archives/audit/rapport_conformite_erp.md` |
 | #80 | Note Droit Assurances (token+reel) | ✅ Mergée (rebase) | `⚖️_Actes/{token,reel}/03_📚_Analyses_juridiques/15 Note Droit Assurances.md` |
 | #81 | Rapport assurance | ✅ Mergée (rebase) | `📊_Rapports/expertise/analyse_strategie_assurance.md` |
-| #82 | Ordonnance référé | ✅ Déjà mergée | `📊_Rapports/ordonnance_refere.md` |
+| #82 | Ordonnance référé | ✅ Déjà mergée | `⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/07 ⚖️ Projet Ordonnance Refere.md` |
 | #83 | Réquisitoire introductif (token) | ✅ Mergée (rebase + force push) | `⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/15 ⚖️ Réquisitoire introductif.md` |
 | #84 | Mémoire défense adverse (token) | ✅ Mergée (rebase) | `⚖️_Actes/🔑_Token/03_📚_Analyses_juridiques/99 🛡️ Memoire en defense adverse.md` |
 

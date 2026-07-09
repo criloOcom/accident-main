@@ -132,7 +132,7 @@ Le dossier repose sur une **double strate de documents** générée par [generat
 | [jurisprudence/](./📊_Rapports/jurisprudence/) | Rapports d'audit de jurisprudence |
 | [ordalie/](./📊_Rapports/🗄️_Archives/ordalie/) | Rapports de validation juridique et tests de cohérence ("ordalie") |
 | [anonymisation/](./📊_Rapports/🗄️_Archives/anonymisation/) | Rapports d'audit d'anonymisation |
-| [ordonnance_refere.md](./📊_Rapports/ordonnance_refere.md) | Projet d'ordonnance de référé motivée |
+| [ordonnance_refere.md](./⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/07 ⚖️ Projet Ordonnance Refere.md) | Projet d'ordonnance de référé motivée |
 
 ---
 

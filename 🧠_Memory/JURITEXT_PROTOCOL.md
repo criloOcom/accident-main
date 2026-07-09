@@ -1,24 +1,7 @@
 # PROTOCOLE JURITEXT — Vérification obligatoire des identifiants de jurisprudence
 
-> **Origine** : erreurs récurrentes de JURITEXT fausses dans les actes, malgré
-> l'accès aux outils MCP. Cette erreur est **inexcusable** quand les outils
-> existent — elle provient de raccourcis et de l'absence de vérification
-> systématique.
->
 > **Règle absolue** : tout agent qui insère, modifie ou vérifie une JURITEXT
 > DOIT suivre ce protocole. Pas d'exception.
-
----
-
-## LE PROBLÈME
-
-Des JURITEXT fausses ont été introduites dans les actes à plusieurs reprises :
-1. **JURITEXT000007152625** — ID inexistant (erreur 400 API), utilisé comme source d'une citation fabriquée (hallucination SATI)
-2. **JURITEXT000043514489** — mauvais ID pour l'arrêt 20-16.463 (le bon est JURITEXT000044482848)
-3. **JURITEXT000028994017** — mauvais ID pour l'arrêt 13-80.849 (le bon est JURITEXT000029014493), introduit en voulant "corriger" un autre mauvais ID
-4. **JURITEXT000050460532** — mauvais ID pour 22-19.307 (le bon est JURITEXT000049418278)
-
-**Pattern commun** : l'agent a trouvé 0 résultat sur un outil, puis a **deviné** un remplaçant au lieu d'utiliser l'outil suivant disponible.
 
 ---
 
@@ -122,22 +105,3 @@ Besoin : insérer la JURITEXT pour l'arrêt n° 13-80.849
 ```
 
 ---
-
-## HISTORIQUE DES ERREURS (pour mémoire)
-
-| Date | JURITEXT fausse | Bonne JURITEXT | Arrêt | Cause |
-|------|----------------|----------------|-------|-------|
-| 2026-07-08 | JURITEXT000007152625 | JURITEXT000007047369 | 99-17.092 SATI | Citation inventée, ID inexistant |
-| 2026-07-08 | JURITEXT000043514489 | JURITEXT000044482848 | 20-16.463 | Mauvais ID |
-| 2026-07-08 | JURITEXT000028994017 | JURITEXT000029014493 | 13-80.849 | ID deviné en voulant corriger un autre faux |
-| 2026-07-08 | JURITEXT000050460532 | JURITEXT000049418278 | 22-19.307 | Mauvais ID |
-| 2026-07-08 | JURITEXT000006485532 | JURITEXT000007047223 | 02-14.783 | Mauvais ID |
-| 2026-07-08 | JURITEXT000007043322 | JURITEXT000007071351 | 00-82.066 Cousin | Mauvais ID |
-| 2026-07-08 | JURITEXT000007043831 | JURITEXT000007043704 | 97-17.378 Costedoat | Mauvais ID |
-| 2026-07-08 | JURITEXT000033127860 (fabriquée) | JURITEXT000039122827 | 18-13.791 | L'agent a remplacé un JURITEXT correct par un ID fabriqué, sans vérifier le contexte de la ligne |
-| 2026-07-08 | JURITEXT000044515079 | JURITEXT000044105739 | 20-17.263 | Mauvais ID + erreur de date (13/01/2022 → 09/09/2021) |
-| 2026-07-08 | JURITEXT000021271787 | À VÉRIFIER | 08-15.103 | Numéro d'affaire introuvable dans Légifrance — citation potentiellement fabriquée |
-| 2026-07-08 | JURITEXT000036835776 | JURITEXT000036780068 | 17-14.499 | Mauvais ID |
-| 2026-07-08 | JURITEXT000049914357 | JURITEXT000049857400 | 23-15.345 | Mauvais ID |
-| 2026-07-08 | JURITEXT000045683755 | JURITEXT000045822770 | 21-12.478 | Mauvais ID |
-| 2026-07-08 | JURITEXT000046284523 | JURITEXT000046282365 | 20-20.404 | Mauvais ID |
