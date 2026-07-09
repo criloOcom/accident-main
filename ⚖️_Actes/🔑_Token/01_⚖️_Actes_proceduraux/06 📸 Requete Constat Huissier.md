@@ -38,6 +38,17 @@ Cet accident a été causé par le basculement d'une vasque défectueuse, ce qui
 
 Afin de préserver les droits du requérant dans la perspective d'une éventuelle action en responsabilité, il est d'une nécessité impérieuse et urgente de conserver la preuve matérielle de l'état exact de la vasque litigieuse avant toute modification, réparation ou fermeture définitive du salon.
 
+### C. Urgence — Risque de disparition des preuves
+
+Des bruits de couloir et informations persistantes font état d'une réouverture imminente de l'établissement sous une nouvelle structure juridique, avec la potentielle réutilisation des murs et du mobilier existant. La possible désignation d'un mandataire ad hoc (conformément à l'article L. 611-3 du Code de commerce) concernant **[L'Exploitant du Commerce (La SAS)]** accentue ce risque de disparition.
+
+Face à cette menace imminente de dissimulation ou de destruction des preuves matérielles, il y a urgence à faire constater sans délai :
+- L'état de la vasque en céramique défectueuse.
+- La présence ou l'absence de caméras de surveillance dans les locaux.
+- L'état et l'agencement actuels du fonds de commerce.
+
+Cette urgence caractérisée justifie pleinement le recours aux dispositions de l'article 145 du Code de procédure civile (mesure d'instruction *in futurum*), combinées avec celles de l'article 873 alinéa 2 du Code de procédure civile (référé urgence), afin de prévenir le dépérissement des preuves matérielles indispensables à la manifestation de la vérité.
+
 ---
 
 ## 3. FONDEMENT JURIDIQUE
