@@ -40,7 +40,7 @@ Dans ce contexte d'opacité, et afin de garantir la sécurité des usagers de ce
 
 1. **Identifier** précisément la structure juridique et l'identité de l'exploitant physique actuellement en activité dans les locaux (contrôle du Kbis et de l'affichage légal obligatoire).
 2. **Vérifier** si les installations litigieuses ayant causé l'accident (notamment la vasque en céramique présentant une cassure préexistante tranchante) sont toujours présentes et accessibles au public, ou si des mesures de mise en conformité ont été réalisées.
-3. **Contrôler** l'affichage obligatoire des informations relatives à l'assurance de responsabilité civile de l'établissement.
+3. **Contrôler** la détention et la validité de l'attestation d'assurance de responsabilité civile professionnelle de l'établissement.
 
 Ces constatations factuelles par des agents publics assermentés sont primordiales pour faire toute la lumière sur la situation de ce local.
 

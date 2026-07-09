@@ -32,13 +32,15 @@ Sur le plan médical, lors de ma consultation de contrôle du 23 juin 2026, le D
 
 Sur le plan administratif, résidant à **[L'Adresse de la Victime]**, j'ai fait adresser des mises en demeure par courriers recommandés à **[L'Exploitant du Commerce (La SAS)]** à l'adresse de son siège social (22 Rue Lafaurie) le 29 juin 2026. Or, ces courriers n'ont pas pu être distribués (mentions défaut d'adresse, distribution impossible).
 
+Par souci de complète transparence avec vos services, je vous informe qu'à cette même date du 29 juin 2026, j'ai également transmis l'intégralité de mon dossier médical (11 pièces — comptes rendus opératoires, certificats médicaux, arrêts de travail, notes médico-légales) ainsi que ma constitution de partie civile et mes conclusions au Procureur de la République près le Tribunal Judiciaire de Foix (PV n° 2026/015967), afin de permettre à l'autorité judiciaire d'apprécier la réalité et l'étendue de mon préjudice corporel dans le cadre de l'enquête préliminaire ouverte.
+
 Pourtant, le commerce a rouvert ses portes le 6 juillet 2026 et paraît en activité régulière. Les registres publics du RNE (INPI) indiquent par ailleurs que cette SAS est toujours officiellement active à cette même adresse, sans modification de siège social.
 
 Dans ce contexte d'opacité, et afin de garantir la sécurité des usagers de cet Établissement Recevant du Public (ERP), je sollicite l'intervention de vos services de police municipale. Il s'agirait, lors de leurs patrouilles, de procéder aux constatations suivantes :
 
 1. **Identifier** précisément la structure juridique et l'identité de l'exploitant physique actuellement en activité dans les locaux (contrôle du Kbis et de l'affichage légal obligatoire).
 2. **Vérifier** si les installations litigieuses ayant causé l'accident (notamment la vasque en céramique présentant une cassure préexistante tranchante) sont toujours présentes et accessibles au public, ou si des mesures de mise en conformité ont été réalisées.
-3. **Contrôler** l'affichage obligatoire des informations relatives à l'assurance de responsabilité civile de l'établissement.
+3. **Contrôler** la détention et la validité de l'attestation d'assurance de responsabilité civile professionnelle de l'établissement.
 
 Ces constatations factuelles par des agents publics assermentés sont primordiales pour faire toute la lumière sur la situation de ce local.
 
