@@ -26,8 +26,8 @@ ROOT_FOLDER_NAME = "Accident Main - NotebookLM"
 
 SOURCE_DIRS = {
     "Actes Reel": "⚖️_Actes/👤_Reel",
-    "Memory": "memory",
-    "Lois": "lois",
+    "Memory": "🧠_Memory",
+    "Lois": "📜_Lois",
 }
 
 
