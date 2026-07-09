@@ -1,5 +1,5 @@
 ---
-titre: Email révisé à l'Adjoint au Maire de Foix — Demande de suivi de l'exploitation locale - Version réelle
+titre: Email définitif à l'Adjoint au Maire de Foix — Demande de contrôle ERP par police municipale - Version réelle
 date: 2026-07-10
 type: email
 categorie: urgence
@@ -8,38 +8,33 @@ destinataire: L'Adjoint au Maire de la Commune
 statut: brouillon
 ---
 
-# EMAIL — Demande de suivi de l'exploitation et constat d'activité ERP (Lafaurie)
+# EMAIL — Demande d'intervention pour contrôle de sécurité et d'exploitation (22 Rue Lafaurie)
 
 **Destinataire** : `secretariat@mairie-foix.fr` (À l'attention de l'Adjoint au Maire en charge de la sécurité/du dossier)
 **Expéditeur** : `sebastien.grazide@gmail.com`
-**Objet** : Suite à notre échange du 1er juin – Nouvelles de ma rééducation et demande de vérification au 22 Rue Lafaurie
+**Objet** : Suite à notre échange du 1er juin – Demande d'intervention pour contrôle de sécurité et d'exploitation (22 Rue Lafaurie)
 
 ---
 
-Monsieur l’Adjoint au Maire,
+Monsieur l'Adjoint au Maire,
 
-Je me permets de vous recontacter à la suite de notre échange du 1er juin 2026, au cours duquel vous m'aviez chaleureusement apporté votre soutien et indiqué avoir pris l'attache des services de la préfecture pour faire intervenir l'Inspection du Travail et le CODAF suite à mon accident. Je tenais à vous remercier de nouveau pour cette diligence.
+Je me permets de vous recontacter à la suite de notre échange du 1er juin 2026, au cours duquel vous m'aviez indiqué avoir pris l'attache des services de la préfecture concernant les suites administratives de l'accident corporel grave dont j'ai été victime le 29 mai 2026 au sein de l'établissement situé au 22 Rue Lafaurie.
 
-### Des nouvelles de mon état de santé
-Sur le plan médical, mon parcours de soins est encore long. J'ai subi une microchirurgie d'urgence à la Clinique de l'Union (SOS Main) pour une section partielle du tendon fléchisseur de l'index droit dominant et une double section nerveuse collatérale. Je suis actuellement ma rééducation de kinésithérapie à raison de 3 séances par semaine. Mon arrêt de travail (ITT) a été fixé à 56 jours par mon médecin. Bien que la cicatrisation progresse, je garde des douleurs neuropathiques et une perte partielle de sensibilité de l'index qui impactent significativement mon activité d'informaticien indépendant.
+Sur le plan médical, mon parcours de soins se poursuit. J'ai subi une microchirurgie d'urgence à Clinique de l'Union pour une section partielle du tendon fléchisseur de l'index droit dominant et une double section nerveuse collatérale. Je suis actuellement ma rééducation de kinésithérapie à raison de 3 séances par semaine. Mon indisponibilité professionnelle (ITT) a été fixée à 56 jours.
 
-### Inquiétudes sur l'accès et les bruits de couloir à Foix
-Habitant à Toulouse, je ne peux me déplacer quotidiennement à Foix, mais des bruits de couloir et des retours locaux concordants m'ont été signalés. Il semblerait que le rideau métallique du salon de coiffure du 22 Rue Lafaurie, resté fermé près d'un mois après l'accident, soit de nouveau levé et que l'activité ait repris. Les informations font état de la présence de nouvelles personnes assurant l'exploitation du salon.
+Habitant à Toulouse, je constate que les courriers recommandés adressés à SAS LES MAUVAIS GARCONS à l'adresse de son siège social (22 Rue Lafaurie) me sont retournés avec la mention NPAI. Pourtant, le commerce semble avoir rouvert ses portes et paraît en activité régulière, et les registres publics du RNE (INPI) indiquent que cette SAS est toujours officiellement active à cette même adresse, sans modification de siège social.
 
-De mon côté, les courriers recommandés officiels que j'ai adressés à la SAS LES MAUVAIS GARCONS à cette adresse me reviennent systématiquement avec la mention NPAI ("N'habite pas à l'adresse indiquée"). Pourtant, les registres publics du RNE (INPI) indiquent que cette SAS est toujours officiellement active à cette même adresse et n'a fait l'objet d'aucune modification de siège social.
+Dans ce contexte, et afin de disposer d'éléments factuels fiables sur la situation de cet établissement recevant du public (ERP), je sollicite l'intervention de vos services de police municipale. Il s'agirait, lors de leurs patrouilles, de procéder aux constatations suivantes :
 
-### Notre demande de vérification
-Afin de ne pas perturber l'enquête pénale en cours et d'avoir des informations fiables, je souhaiterais savoir s'il serait possible que les agents de la Police Municipale de Foix, lors de leurs patrouilles régulières en centre-ville, effectuent un passage au 22 Rue Lafaurie.
+1. **Identifier** précisément la structure juridique et l'identité de l'exploitant physique actuellement en activité dans les locaux (contrôle de l'affichage légal obligatoire, extrait Kbis).
+2. **Vérifier** si les installations litigieuses ayant causé l'accident (notamment la vasque en céramique présentant une cassure préexistante) sont toujours présentes sur les lieux ou si des mesures de mise en conformité et de sécurité ont été réalisées.
+3. **Recueillir** des éléments sur le respect des obligations déclaratives de ce sinistre auprès de l'assurance de responsabilité civile.
 
-L'objectif serait simplement de s'assurer :
-- Si l'activité de coiffure est bien en cours.
-- Quelle est l'identité ou la raison sociale affichée obligatoirement en vitrine ou à l'intérieur du salon.
+Ces constatations factuelles par des agents publics assermentés sont primordiales pour faire toute la lumière sur la situation de ce local et garantir la sécurité des usagers.
 
-Ces éléments factuels me permettraient de comprendre si mon recommandé n'est pas distribué par simple évitement ou si une exploitation de fait s'est installée en dehors des cadres déclaratifs du RNE.
+Je me déplacerai à Foix la semaine prochaine pour finaliser mon dépôt de plainte et ne manquerai pas de me présenter à votre secrétariat.
 
-Je me déplace personnellement à Foix la semaine prochaine pour effectuer mon dépôt de plainte formel au commissariat. Je ne manquerai pas de passer vous saluer si votre emploi du temps le permet.
-
-Je vous remercie vivement pour votre écoute et votre aide continue.
+Je vous remercie par avance pour votre action et votre suivi.
 
 Bien cordialement,
 
