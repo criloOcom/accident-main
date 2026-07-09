@@ -124,6 +124,63 @@
 - NotebookLM complète la recherche juridique existante : il peut synthétiser et recouper les sources du projet
 - Voir la section dédiée dans `AGENTS.md` pour les détails de configuration
 
+## AVENANT JURIDIQUE — FIABILISATION DE LA NOMENCLATURE DES STATUTS D'ENVOI (Règle n°15)
+
+### PRINCIPE DE SÉPARATION STRICTE : Document rédigé ≠ Acte expédié
+
+Il est formellement interdit de qualifier un document de « Envoyé » sur le seul fait de sa finalisation technique (statut YAML `final`) ou de sa présence sur le stockage partagé (Google Drive `source: drive`). Un document juridique rédigé ne constitue pas une preuve de notification ou d'expédition.
+
+### MATRICE DE QUALIFICATION D'UN STATUT (applicable à tous les agents)
+
+| Statut déclaré | Conditions matérielles strictes |
+|----------------|--------------------------------|
+| 🟢 **ENVOYÉ / DÉPOSÉ** | Preuve externe annexée au dossier : numéro de suivi LRAR valide, accusé de réception signé par le destinataire, récépissé de dépôt de greffe, ou confirmation d'email expédié (capture d'écran). |
+| 🟡 **PROJET / BROUILLON** | Fichier sans preuve postale/judiciaire, texte comportant des balises non complétées (`[À compléter]`, `[Adresse]`, `[...]`), ou document sur le Drive uniquement. |
+| 🟠 **PRÊT POUR ENVOI** | Fichier finalisé (`statut: final`), balises remplies, adresse complète, mais pas encore expédié (aucune preuve LRAR/email). |
+| 🔴 **GABARIT** | Modèle type, formulaire Cerfa vierge, ou structure de document non personnalisée, destiné à être rempli puis expédié. |
+
+### JURISPRUDENCE DES CAS LITIGIEUX (classement définitif — vérifié par lecture directe des fichiers)
+
+| N° Document | Statut réel | Raison |
+|:-----------:|:-----------:|--------|
+| **04** (Action directe assureur) | 🟡 PROJET | `[A compléter]` dans l'adresse — assureur non identifié. Statut YAML `final` erroné. |
+| **05** (Mise en demeure propriétaire) | 🟡 PROJET | `[A compléter]` dans l'adresse. Statut YAML `final` erroné. |
+| **06** (Mise en demeure dirigeants) | 🟡 PROJET | Adresses complètes mais pas de numéro LRAR ni preuve d'envoi. Statut YAML `final` erroné. |
+| **06 V2** (Relance dirigeants) | 🟢 ENVOYÉS (échec PND) | 3 LRAR : 87001424863012T (SAS PND), 87001424721856G (retour), 87001424862879J (attente). **Seul fichier avec preuve matérielle.** |
+| **07** (Demande consolidation) | 🟡 BROUILLON | `[A compléter]` adresse Dr DJERBI. Accident 29/05, état non consolidé (suivi ~1 an). |
+| **08** (Suivi Mairie TAVELLA) | 🟡 BROUILLON | `[Adresse de la Mairie]` non renseigné. |
+| **09** (Inspection Travail) | 🟡 PROJET | `[A compléter]` adresse DDETS. Texte au conditionnel : « Je me réserve le droit... » |
+| **10** (CPC Doyen TJ) | 🟡 PROJET | `[Adresse Tribunal Judiciaire]` non renseigné. |
+| **11 à 21** (INPI, URSSAF, Préf., CODAF, SIE, CD09, CPAM, SDIS, FGTI, Police, CPAM) | 🟡 PROJETS | Tous les 11 fichiers ont des `[A compléter]` dans les adresses. Statut YAML `final` erroné. Aucune preuve LRAR ou email dans aucun fichier. |
+| **22-24** (Attestations témoins) | 🔴 GABARITS | Modèles Cerfa vierges, à compléter avant transmission. |
+| **25-28** (Emails relances) | 🟡 BROUILLONS | Statut YAML `brouillon`, emails des destinataires inconnus. |
+| **32** (Mutualisation SIE/URSSAF) | 🟡 PROJET | Statut YAML `projet`, pas sur Drive. |
+| **33** (Constat huissier 145 CPC) | 🟡 PROJET | Statut YAML `projet`, aucun huissier contacté. |
+| **34** (Email Maire Foix Police) | 🟠 PRÊT POUR ENVOI | Fichier finalisé, envoi prévu le 11/07/2026 8h00. |
+
+### CONSIGNES D'AUDIT POUR LES AGENTS
+
+1. **Interdiction de l'alignement aveugle** : Ne jamais valider le statut d'une pièce en se basant uniquement sur un fichier déclaratif (`STATUS.md`, `TODO.md`). Seule l'existence d'une preuve matérielle d'expédition fait foi (numéro LRAR, AR signé, preuve de dépôt en greffe, email expédié).
+
+2. **Exigence de complétude** : Tout fichier portant le statut YAML `final` mais dont le corps comporte des crochets non résolus (`[À compléter]`, `[Adresse]`) ou des adresses manquantes doit être rétrogradé au statut 🟡 PROJET/BROUILLON.
+
+3. **Preuve matérielle obligatoire** : Un document est juridiquement « ENVOYÉ » uniquement si le dossier contient :
+   - Un numéro de suivi LRAR La Poste valide (format : `870014XXXXXXXXX`)
+   - Un accusé de réception signé par le destinataire
+   - Un récépissé de dépôt de greffe (TJ, TC, etc.)
+   - Une confirmation d'email expédié (capture d'écran ou trace dans les fichiers)
+   
+   En l'absence de ces preuves, tout document, même finalisé, est considéré comme 🟡 PROJET ou 🟠 PRÊT POUR ENVOI.
+
+4. **Les vrais envois confirmés** (preuves matérielles dans le dossier) :
+   - **03** (SAS) : LRAR 87001424863012T
+   - **05** (Propriétaire) : AR signé par le bailleur (M. Romain Delrieu)
+   - **06** (Dirigeants) : LRAR 87001424721856G + 87001424862879J
+   - **06 V2** (Relance) : Preuve dépôt LRAR 870014282662911 + facture Z0132713629
+   - **10** (CPC Doyen) : Déposé au TJ Foix
+
+5. **Correction dans STATUS.md** : Les documents 04, 07, 09, 11-16, 17, 18, 19, 20, 21 ne sont pas « Envoyés » mais « Projets/Brouillons » (sauf preuve matérielle à retrouver dans les pièces).
+
 ## #12 — CYCLE DE VIE DES SESSIONS JULES — RÈGLE ABSOLUE
 - **TOUTE session Jules doit être conclue par un message de clôture** explicite (pas seulement abandonnée).
 - Une session qui a terminé son travail (rapport reçu, PR créé, mission accomplie) reçoit un message de type : « Mission terminée, tu peux archiver cette session. » ou « Rapport reçu, tu peux clôturer. »
