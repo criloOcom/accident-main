@@ -10,3 +10,4 @@ node_modules/
 /tmp/
 .drive-token.json
 .piste-credentials.json
+venv/
