@@ -1,4 +1,41 @@
-# STATUT D'AVANCEMENT — 9 juillet 2026
+# STATUT D'AVANCEMENT — 10 juillet 2026
+
+## Phase 17 — Urgence tactique pivot Foix + Merge PRs #121-#125 (10 juillet 2026) ✅
+
+### Actions réalisées
+
+#### 🔴 Priorité 1 : Email Maire Foix — Demande intervention Police Municipale
+- **Fichier créé** : `⚖️_Actes/🔑_Token/02_✉️_Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md`
+- **Destinataire** : Mme Marine BORDES, Maire de Foix (`secretariat@mairie-foix.fr`)
+- **Objet** : Demande d'intervention Police Municipale pour contrôle ERP au 22 Rue Lafaurie
+- **Statut** : ✅ Brouillon prêt — envoi prévu à 8h00 (draft Gmail bloqué par OAuth `invalid_grant`, fichier local disponible pour copier-coller)
+- **Base** : `21 📋 Plan Constat Police Foix.md` (créé par l'utilisateur)
+
+#### 🟡 Priorité 2 : Audit RNE/INPI — Non-distribution LRAR
+- **Recherches effectuées** : Annuaire-entreprises.data.gouv.fr, Societe.com (RNE), INPI
+- **Constat principal** : SAS LES MAUVAIS GARCONS (938 033 222) toujours **Active** à l'adresse 22 Rue Lafaurie — aucun changement de siège, aucune dissolution
+- **Aucune structure miroir trouvée** au 22 Rue Lafaurie
+- **Cause probable NPAI** : Salon fermé, 0 salarié, personne pour réceptionner le courrier
+- **Fichier créé** : `⚖️_Actes/🔑_Token/03_📚_Analyses_juridiques/18 Note Audit RNE NPAI SAS.md`
+- **Version réelle générée** : ✅ via `generate_real_versions.py` (76 fichiers)
+
+#### 🟢 Priorité 3 : Merge PRs #121-#125
+| PR | Titre | Statut |
+|----|-------|--------|
+| #121 | M08 - Note responsabilité dirigeants dissolution | ✅ **MERGED** |
+| #122 | M09 - Courrier INPI opposition | ✅ **MERGED** |
+| #123 | M10 - Courrier SIE/URSSAF mutualisation | ✅ **MERGED** |
+| #124 | M12 - Requête constat huissier 145 CPC | ✅ **MERGED** |
+| #125 | M14 - Fiche réflexe 48h victime | ✅ **MERGED** |
+- **Commit** : `f0b3326` (feat: add email + note audit)
+- **Push** : ✅ sur `origin/main`
+
+## Phase 16 — Livrables M08-M15 + Merge PRs #121-#125 (9-10 juillet 2026) ✅
+
+- Branches créées et pushées : M01-M15 (tous les livrables)
+- **PRs #121-#125 mergées** via `gh pr merge --rebase` (voir Phase 17 ci-dessus)
+- `generate_real_versions.py` : 76 fichiers générés (incl. nouveaux fichiers)
+- M01, M15 déjà sur `main` (pas besoin de PR)
 
 ## Phase 15 — Merge 12 PRs Jules + RGPD + Chiffrage (8 juillet 2026) ✅
 
