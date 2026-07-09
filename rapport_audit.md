@@ -9,7 +9,7 @@ L'audit porte sur les documents :
 - `12 Évaluation Dintilhac détaillée.md`
 - `11+12 📊 Evaluation Dintilhac consolidee.md`
 
-Les montants doivent être cohérents avec la source unique de vérité `memory/STRICT VARIABLES.md`.
+Les montants doivent être cohérents avec la source unique de vérité `🧠_Memory/STRICT VARIABLES.md`.
 
 ## 2. Tableau de vérification par poste de préjudice
 

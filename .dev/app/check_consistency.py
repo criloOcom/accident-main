@@ -16,7 +16,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 ACTES = REPO / "actes"
-ANNEXES = REPO / "actes" / "token" / "06_Archives" / "annexes"
+ANNEXES = REPO / "actes" / "token" / "06_🗄️_Archives" / "annexes"
 MEMORY = REPO / "memory"
 APP = REPO / "app"
 
@@ -62,7 +62,7 @@ def check_internal_links() -> None:
 
 # ── 2. Tokens connus ──────────────────────────────────────────────────
 def check_tokens() -> None:
-    token_map = Path("memory/TOKEN MAP.md")
+    token_map = Path("🧠_Memory/TOKEN MAP.md")
     if not token_map.exists():
         err("TOKEN MAP.md introuvable — impossible de vérifier les tokens")
         return

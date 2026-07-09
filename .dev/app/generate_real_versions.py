@@ -94,6 +94,23 @@ REVERSE_MAP = {
     "**[N° Transaction Wero]**": "IPR000297029234",
     "**[N° PV Police]**": "2026/015967",
     "[N° PV Police]": "2026/015967",  # fallback for bare-bracket variants
+
+    # Financial tokens
+    "**[Finance Provision Référé]**": "15 000 €",
+    "**[Finance Article 700]**": "3 000 €",
+    "**[Finance Astreinte 145]**": "150 €",
+    "**[Finance Article 700 Référé 145]**": "1 500 €",
+    "**[Finance Article 475-1]**": "3 000 €",
+    "**[Finance PGPA]**": "1 380 €",
+    "**[Finance DFP]**": "25 000 €",
+    "**[Finance Souffrances Endurées]**": "15 000 €",
+    "**[Finance Incidence Professionnelle]**": "30 000 €",
+    "**[Finance Préjudice Agrément]**": "5 000 €",
+    "**[Finance Préjudice Esthétique]**": "3 000 €",
+    "**[Finance Dévalorisation Pro]**": "3 000 €",
+    "**[Finance Frais Divers]**": "3 000 €",
+    "**[Finance Facture Chirurgie]**": "790,23 €",
+    "**[Finance Prestation Salon]**": "15,00 €",
 }
 
 def replace_header_block(content):
@@ -110,8 +127,8 @@ def update_yaml_frontmatter(content):
     return re.sub(r'^titre:\s*.*$', replacer, content, flags=re.MULTILINE)
 
 def main():
-    input_base = 'actes/token'
-    output_base = 'actes/reel'
+    input_base = '⚖️_Actes/🔑_Token'
+    output_base = '⚖️_Actes/👤_Reel'
 
     generated = []
 
