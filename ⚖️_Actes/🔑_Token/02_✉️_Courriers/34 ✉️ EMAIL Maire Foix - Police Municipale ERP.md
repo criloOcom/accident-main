@@ -23,8 +23,10 @@ Afin de contextualiser ma présente démarche, je me permets de retracer briève
 
 - **Le 1er juin 2026**, je vous ai alerté de la dangerosité des équipements de ce salon de coiffure.
 - **Ce même 1er juin**, vous m'avez répondu avec une grande diligence pour m'informer de votre saisine des services de la Préfecture, de l'Inspection du Travail et du CODAF.
-- **Le 2 juin 2026**, je vous ai transmis la preuve officielle de l'ouverture de ma procédure pénale (PV n° 2026/015967).
+- **Le 2 juin 2026**, je vous ai transmis la preuve officielle de l'ouverture de ma procédure pénale (PV n° **[N° PV Police]**).
 - **Le 5 juillet 2026**, je vous ai adressé une demande d'information concernant l'avancement de ces enquêtes administratives.
+
+En ma qualité de victime directe de cet accident corporel, et conformément au droit d'accès aux documents administratifs, je vous sollicite formellement afin d'obtenir les références officielles ainsi que les copies des courriers de saisine que vous avez adressés le 1er juin 2026 à la Préfecture, à l'Inspection du Travail et au CODAF. Ces éléments de référence sont indispensables pour me permettre de suivre l'évolution de ces dossiers et pour être transmis à l'autorité judiciaire en charge de mon dossier pénal.
 
 Si je me permets de vous solliciter à nouveau aujourd'hui, c'est en raison d'une évolution particulièrement anormale de la situation qui requiert l'attention de vos services.
 
@@ -32,7 +34,7 @@ Sur le plan médical, lors de ma consultation de contrôle du 23 juin 2026, le *
 
 Sur le plan administratif, résidant à **[L'Adresse de la Victime]**, j'ai fait adresser des mises en demeure par courriers recommandés à **[L'Exploitant du Commerce (La SAS)]** à l'adresse de son siège social (**[L'Adresse de l'Exploitation]**) le 29 juin 2026. Or, ces courriers n'ont pas pu être distribués (mentions défaut d'adresse, distribution impossible).
 
-Par souci de complète transparence avec vos services, je vous informe qu'à cette même date du 29 juin 2026, j'ai également transmis l'intégralité de mon dossier médical (11 pièces — comptes rendus opératoires, certificats médicaux, arrêts de travail, notes médico-légales) ainsi que ma constitution de partie civile et mes conclusions au Procureur de la République près le Tribunal Judiciaire de Foix (PV n° 2026/015967), afin de permettre à l'autorité judiciaire d'apprécier la réalité et l'étendue de mon préjudice corporel dans le cadre de l'enquête préliminaire ouverte.
+Par souci de complète transparence avec vos services, je vous informe qu'à cette même date du 29 juin 2026, j'ai également transmis l'intégralité de mon dossier médical (11 pièces — comptes rendus opératoires, certificats médicaux, arrêts de travail, notes médico-légales) ainsi que ma constitution de partie civile et mes conclusions au Procureur de la République près le Tribunal Judiciaire de Foix (PV n° **[N° PV Police]**), afin de permettre à l'autorité judiciaire d'apprécier la réalité et l'étendue de mon préjudice corporel dans le cadre de l'enquête préliminaire ouverte.
 
 Pourtant, le commerce a rouvert ses portes le 6 juillet 2026 et paraît en activité régulière. Les registres publics du RNE (INPI) indiquent par ailleurs que cette SAS est toujours officiellement active à cette même adresse, sans modification de siège social.
 

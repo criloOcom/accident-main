@@ -26,6 +26,8 @@ Afin de contextualiser ma présente démarche, je me permets de retracer briève
 - **Le 2 juin 2026**, je vous ai transmis la preuve officielle de l'ouverture de ma procédure pénale (PV n° 2026/015967).
 - **Le 5 juillet 2026**, je vous ai adressé une demande d'information concernant l'avancement de ces enquêtes administratives.
 
+En ma qualité de victime directe de cet accident corporel, et conformément au droit d'accès aux documents administratifs, je vous sollicite formellement afin d'obtenir les références officielles ainsi que les copies des courriers de saisine que vous avez adressés le 1er juin 2026 à la Préfecture, à l'Inspection du Travail et au CODAF. Ces éléments de référence sont indispensables pour me permettre de suivre l'évolution de ces dossiers et pour être transmis à l'autorité judiciaire en charge de mon dossier pénal.
+
 Si je me permets de vous solliciter à nouveau aujourd'hui, c'est en raison d'une évolution particulièrement anormale de la situation qui requiert l'attention de vos services.
 
 Sur le plan médical, lors de ma consultation de contrôle du 23 juin 2026, le Dr Iskander DJERBI (SOS Main — Clinique de l'Union) a prescrit un protocole de kinésithérapie stricte (3 séances par semaine) et certifié que la récupération de la sensibilité de mon index s'étendra sur une durée d'environ un an et restera probablement partielle après une suture nerveuse.
