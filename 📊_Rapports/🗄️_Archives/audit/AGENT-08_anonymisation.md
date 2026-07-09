@@ -9,7 +9,7 @@ L'objectif de cet audit est de s'assurer de l'intégrité absolue de l'anonymisa
 Bien que la majorité des documents de travail et courriers principaux respectent les consignes d'anonymisation, **plusieurs fuites de données sensibles substantielles** ont été détectées au sein du répertoire `⚖️_Actes/🔑_Token/`.
 
 Les fuites identifiées se répartissent en 5 catégories :
-1. **Noms de personnes physiques** : Persistance des noms de praticiens médicaux (Dr DJERBI, Dr JARDON, Dr OXYBEL).
+1. **Noms de personnes physiques** : Persistance des noms de praticiens médicaux (Dr DJERBI, Dr JARDON, Dr OXYBEL). — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Envoyer le courrier de relance pour certificat de consolidation)**
 2. **Données localisantes (géographie et adresses)** : Présence en clair de la ville de "Foix", du quartier/hôpital "Purpan", et de la métropole "Toulouse".
 3. **Noms de personnes morales** : Persistance de la mention de "SAS Les Mauvais Garçons".
 4. **Identifiants techniques** : Numéro SIRET de la victime en clair, numéro de dossier CPAM.
@@ -22,21 +22,21 @@ Les fuites identifiées se répartissent en 5 catégories :
 | Fichier | Ligne(s) | Contenu trouvé | Type de fuite | Token de remplacement ou Correction suggérée |
 | :--- | :--- | :--- | :--- | :--- |
 | [01_Dossier_UMJ_Preparation.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/00_📂_Preuves_officielles/01_Dossier_UMJ_Preparation.md) | 4 | `**Lieu :** UMJ Purpan` | Donnée géographique | `**Lieu :** UMJ de **[La Métropole Régionale]**` |
-| [01_Dossier_UMJ_Preparation.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/00_📂_Preuves_officielles/01_Dossier_UMJ_Preparation.md) | 17, 20, 29, 47, 48 | `Dr DJERBI` | Nom médecin | `**[Le Chirurgien SOS Main]**` |
+| [01_Dossier_UMJ_Preparation.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/00_📂_Preuves_officielles/01_Dossier_UMJ_Preparation.md) | 17, 20, 29, 47, 48 | `Dr DJERBI` | Nom médecin | `**[Le Chirurgien SOS Main]**` | — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Envoyer le courrier de relance pour certificat de consolidation)**
 | [01_Dossier_UMJ_Preparation.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/00_📂_Preuves_officielles/01_Dossier_UMJ_Preparation.md) | 18, 19, 49, 50 | `Dr JARDON` | Nom médecin | `**[Le Médecin en Urgence]**` |
 | [01_Dossier_UMJ_Preparation.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/00_📂_Preuves_officielles/01_Dossier_UMJ_Preparation.md) | 23, 51 | `Dr OXYBEL` | Nom médecin | `**[Le Médecin Généraliste]**` |
 | [01_Dossier_UMJ_Preparation.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/00_📂_Preuves_officielles/01_Dossier_UMJ_Preparation.md) | 40 | `(RCT 31727387)` | Identifiant CPAM | `(RCT **[N° Dossier CPAM]**)` |
 | [04_Bordereau_Audience.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/04_Bordereau_Audience.md) | 55, 56 | `UMJ de Purpan` / `Purpan` | Donnée géographique | `UMJ de **[La Métropole Régionale]**` |
 | [08_Courrier Suivi TAVELLA.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/08_Courrier%20Suivi%20TAVELLA.md) | Nom du fichier | `TAVELLA` | Nom de famille | Renommer le fichier en `08_Courrier Suivi Adjoint Maire.md` |
-| [README.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/README.md) | 22 | `Dr DJERBI` | Nom médecin | `**[Le Chirurgien SOS Main]**` |
+| [README.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/README.md) | 22 | `Dr DJERBI` | Nom médecin | `**[Le Chirurgien SOS Main]**` | — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Envoyer le courrier de relance pour certificat de consolidation)**
 | [README.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/README.md) | 28 | `TAVELLA` (dans [Suivi TAVELLA]) | Nom de famille | Modifier en `[Suivi Adjoint Maire]` |
 | [14_Courrier CODAF.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/14_Courrier%20CODAF.md) | 92 | `Foix` et `Toulouse` | Données géographiques | `**[La Ville de l'Accident]**` et `**[La Métropole Régionale]**` |
 | [15_Courrier SIE.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/15_Courrier%20SIE.md) | 7, 29 | `Foix` | Donnée géographique | `**[La Ville de l'Accident]**` |
 | [20_Relance Police.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/20_Relance%20Police.md) | 7, 30 | `Foix` | Donnée géographique | `**[La Ville de l'Accident]**` |
-| [25_Email Relance Dr DJERBI.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/25_Email%20Relance%20Dr%20DJERBI.md) | 2 | `Dr DJERBI` | Nom médecin | `**[Le Chirurgien SOS Main]**` |
-| [25_Email Relance Dr DJERBI.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/25_Email%20Relance%20Dr%20DJERBI.md) | 32 | `Purpan` | Donnée géographique | `**[La Métropole Régionale]**` |
+| [25_Email Relance Dr DJERBI.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/25_Email%20Relance%20Dr%20DJERBI.md) | 2 | `Dr DJERBI` | Nom médecin | `**[Le Chirurgien SOS Main]**` | — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Envoyer le courrier de relance pour certificat de consolidation)**
+| [25_Email Relance Dr DJERBI.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/25_Email%20Relance%20Dr%20DJERBI.md) | 32 | `Purpan` | Donnée géographique | `**[La Métropole Régionale]**` | — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Envoyer le courrier de relance pour certificat de consolidation)**
 | [FAQ.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/03_📚_Analyses_juridiques/09_FAQ.md) | 146 | `Purpan` | Donnée géographique | `**[La Métropole Régionale]**` |
-| [00_Index.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/05_🗂️_Organisation/00_Index.md) | 87 | `Dr DJERBI` | Nom médecin | `**[Le Chirurgien SOS Main]**` |
+| [00_Index.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/05_🗂️_Organisation/00_Index.md) | 87 | `Dr DJERBI` | Nom médecin | `**[Le Chirurgien SOS Main]**` | — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Envoyer le courrier de relance pour certificat de consolidation)**
 | [00_Index.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/05_🗂️_Organisation/00_Index.md) | 88, 237 | `TAVELLA` | Nom de famille | `l'Adjoint au Maire` ou `l'Adjoint` |
 | [Plan action.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/05_🗂️_Organisation/10_Plan%20action.md) | 70 | `Purpan` | Donnée géographique | `**[La Métropole Régionale]**` |
 | [Plan action.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/05_🗂️_Organisation/10_Plan%20action.md) | 122 | `Purpan` | Donnée géographique | `**[La Métropole Régionale]**` |

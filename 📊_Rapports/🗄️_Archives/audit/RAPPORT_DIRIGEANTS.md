@@ -31,7 +31,7 @@ L'arrêt SATI dispose expressément :
 ### 2.2 L'absence d'assurance ou la dissimulation de garantie
 * **Les faits** : Les courriers recommandés avec accusé de réception adressés le 29 juin 2026 à **[Le Président de l'Exploitation]**, à **[La Directrice Générale de l'Exploitation]** et au siège de la société sont restés sans réponse. Aucun élément de couverture d'assurance n'a été produit à la victime, à la CPAM (dossier n° 31727387) ou aux enquêteurs.
 * **Qualification juridique** :
-  * Si la société n'a pas souscrit de contrat de RC professionnelle, le défaut d'assurance constitue une faute détachable caractérisée selon la jurisprudence SATI, engageant directement le patrimoine personnel du Président et de la Directrice Générale.
+  * Si la société n'a pas souscrit de contrat de RC professionnelle, le défaut d'assurance constitue une faute détachable caractérisée selon la jurisprudence SATI, engageant directement le patrimoine personnel du Président et de la Directrice Générale. — **✅ ✅ FAIT (Plainte complémentaire rédigée et intégrée)**
   * Si l'assurance existe mais est dissimulée volontairement, cette obstruction active et persistante fait obstacle au droit d'action directe de la victime (consacré par l'article L. 124-3 du Code des assurances) et constitue un manquement grave à l'obligation de loyauté, de nature à engager leur responsabilité civile sur le fondement de l'article 1240 du Code civil.
 
 ### 2.3 L'impact de la sous-capitalisation de la SAS

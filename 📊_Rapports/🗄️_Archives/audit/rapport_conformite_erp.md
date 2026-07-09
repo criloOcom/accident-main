@@ -11,7 +11,7 @@
 1. **Maintien d'un équipement dangereux** : Présence d'une vasque en céramique présentant une cassure majeure préexistante, non signalée et tranchante, utilisée dans les locaux recevant du public.
 2. **Usage anormal et détourné de l'équipement** : L'employé (**[Le Préposé de l'Exploitation]**) est physiquement monté sur la vasque en céramique du bac à shampoing (équipement non conçu pour supporter le poids d'un adulte) pour accéder à un poste de télévision installé en hauteur.
 3. **Absence de Document Unique d'Évaluation des Risques Professionnels (DUERP)** : Défaut d'évaluation des risques liés au travail en hauteur et à l'utilisation des équipements, et défaut de mise à disposition d'équipements de travail en hauteur appropriés (escabeau normé).
-4. **Défaut d'assurance** : Absence de souscription d'une assurance de responsabilité civile professionnelle par l'exploitant, obligatoire pour couvrir les risques liés à l'activité dans un ERP.
+4. **Défaut d'assurance** : Absence de souscription d'une assurance de responsabilité civile professionnelle par l'exploitant, obligatoire pour couvrir les risques liés à l'activité dans un ERP. — **✅ ✅ FAIT (Plainte complémentaire rédigée et intégrée)**
 5. **Défaut de surveillance et négligence (Alcoolémie présumée)** : Bien que les documents n'établissent pas formellement l'ivresse au moment des faits, le défaut d'encadrement par la direction et le fait de tolérer un comportement manifestement imprudent (monter sur un bac à shampoing) au sein d'un établissement mixte (bar/coiffure) constituent un manquement caractérisé à l'obligation de sécurité.
 6. **Défaut de formation à la sécurité** : L'action de l'employé démontre une absence totale de sensibilisation ou de formation adéquate aux risques professionnels.
 
@@ -42,7 +42,7 @@
 
 ### Sanctions Civiles
 *   **Réparation intégrale des préjudices** : Condamnation (in solidum) de la SAS et de ses dirigeants au paiement des dommages et intérêts à la victime. (Provision demandée : 15 000 € ; évaluation totale autour de ~85 000 € à ~105 000 €).
-*   **Action récursoire** : En l'absence d'assurance, le préjudice financier sera supporté directement par la SAS (capital 200 €) et les patrimoines personnels des dirigeants en cas de faute séparable retenue (ex: défaut d'assurance intentionnel).
+*   **Action récursoire** : En l'absence d'assurance, le préjudice financier sera supporté directement par la SAS (capital 200 €) et les patrimoines personnels des dirigeants en cas de faute séparable retenue (ex: défaut d'assurance intentionnel). — **✅ ✅ FAIT (Plainte complémentaire rédigée et intégrée)**
 
 ## 4. MESURES CONSERVATOIRES À PRENDRE (IMMÉDIATES)
 

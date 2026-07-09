@@ -11,7 +11,7 @@ Bien que le courrier utilise explicitement l'expression « permettre une résolu
 
 ## 2. Climat
 **Évaluation : Très défavorable.**
-Le climat instauré par ce courrier est tendu, accusatoire et anxiogène. En insinuant — même avec des précautions sémantiques — que la fermeture du salon pourrait être liée à une dissimulation ou destruction de preuves (vidéosurveillance, vasque), et en brandissant des peines de prison et de lourdes amendes (articles 434-4 et 322-1 du Code pénal), le rédacteur braque inévitablement ses interlocuteurs. Loin de préparer le terrain à une discussion constructive, cette lettre pousse les destinataires à adopter une posture défensive, à se murer dans le silence, ou à déclencher une riposte par l'intermédiaire de leurs avocats.
+Le climat instauré par ce courrier est tendu, accusatoire et anxiogène. En insinuant — même avec des précautions sémantiques — que la fermeture du salon pourrait être liée à une dissimulation ou destruction de preuves (vidéosurveillance, vasque), et en brandissant des peines de prison et de lourdes amendes (articles 434-4 et 322-1 du Code pénal), le rédacteur braque inévitablement ses interlocuteurs. Loin de préparer le terrain à une discussion constructive, cette lettre pousse les destinataires à adopter une posture défensive, à se murer dans le silence, ou à déclencher une riposte par l'intermédiaire de leurs avocats. — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Vérifier si les vidéos ont été conservées sous 30 jours)**
 
 ## 3. Alternatives proposées
 **Évaluation : Inexistantes.**

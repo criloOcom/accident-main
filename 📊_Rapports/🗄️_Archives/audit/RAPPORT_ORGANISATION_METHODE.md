@@ -13,7 +13,7 @@
 
 *   **Limitations de l'anonymisation :** Comme documenté, le script `batch_anonymize.py` repose sur des remplacements de chaînes exactes via `str.replace()`. Il est fragile face aux variations de casse (ex: casse mixte), aux prénoms isolés ou aux fautes de frappe. Cela requiert souvent une vérification manuelle pour nettoyer les résidus (ex. Document 11).
 *   **Documentation technique vs non-initié :** Bien que complète, la documentation de la partie automatisation et workflow des agents (MCP, ADK, injection Drive) peut sembler abstruse pour un avocat ou un professionnel du droit non initié aux concepts DevOps/LegalTech. Les concepts de Git, de CI/CD et des scripts Python restent très techniques.
-*   **Points bloquants (Actions humaines non déléguées) :** Les processus s'arrêtent là où l'humain doit intervenir physiquement (trouver un huissier, signer des Cerfa, prendre un avocat, relancer un médecin). Ces tâches s'accumulent dans `TODO.md` et créent un goulet d'étranglement car l'IA ne peut pas franchir la barrière du monde réel pour ces tâches spécifiques.
+*   **Points bloquants (Actions humaines non déléguées) :** Les processus s'arrêtent là où l'humain doit intervenir physiquement (trouver un huissier, signer des Cerfa, prendre un avocat, relancer un médecin). Ces tâches s'accumulent dans `TODO.md` et créent un goulet d'étranglement car l'IA ne peut pas franchir la barrière du monde réel pour ces tâches spécifiques. — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Contacter un commissaire de justice pour constat virtuel/physique)**
 
 ## 3. Risques
 
@@ -25,7 +25,7 @@
     *   **Surcharge cognitive :** L'accumulation des règles dans `RULES.md` et `DECISIONS.md` devient si dense qu'un nouvel agent pourrait négliger certaines contraintes.
 *   **Risques juridiques et humains :**
     *   **Fuite de données personnelles :** Si une modification malencontreuse du script `generate_real_versions.py` ou de la `TOKEN MAP.md` se produit, des données réelles pourraient se retrouver exposées dans des répertoires de tokens ou commitées sur GitHub (même en dépôt privé, cela rompt la règle d'anonymat).
-    *   **Délais stricts :** Le non-respect des échéances (prescription de 10 ans, délai de 30 jours pour la vidéosurveillance) repose sur l'humain.
+    *   **Délais stricts :** Le non-respect des échéances (prescription de 10 ans, délai de 30 jours pour la vidéosurveillance) repose sur l'humain. — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Vérifier si les vidéos ont été conservées sous 30 jours)**
 
 ## 4. Recommandations Prioritaires
 
@@ -43,7 +43,7 @@
     *   Développer un script automatisé pour relancer l'humain concernant les dates butoirs (intégration calendrier).
     *   Mettre en place une ADK multi-agent permettant à différents agents (un chercheur juridique, un rédacteur, un réviseur) de collaborer de manière asynchrone sur des tâches plus complexes.
 *   **Long terme (6 mois) :**
-    *   Intégrer une API de signature électronique (ex: DocuSign ou Yousign) directement appelable par l'IA pour automatiser la collecte des attestations (attestations témoins Cerfa).
+    *   Intégrer une API de signature électronique (ex: DocuSign ou Yousign) directement appelable par l'IA pour automatiser la collecte des attestations (attestations témoins Cerfa). — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Faire signer les CERFA 11527 aux témoins : client, pompier, employé)**
 
 ## 6. Note de Maturité du Projet
 

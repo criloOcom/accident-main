@@ -36,7 +36,7 @@ Pourtant, le dossier empile la responsabilité extracontractuelle (1240, 1242 al
 
 Chercher la responsabilité personnelle in solidum des dirigeants (pour pallier le capital dérisoire de 200 €) est tactiquement astucieux. Le rappel de la *jurisprudence SATI* est pertinent sur la règle de droit (la faute détachable).
 
-*Critique :* La démonstration en l'espèce est fragile. La "faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales" exige une intentionnalité ou une gravité exceptionnelle. Le simple défaut d'entretien de la vasque ou le défaut d'assurance RC (non obligatoire pour les coiffeurs) demeurent des fautes de gestion imputables à la seule SAS. La personnalité morale fera probablement écran.
+*Critique :* La démonstration en l'espèce est fragile. La "faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales" exige une intentionnalité ou une gravité exceptionnelle. Le simple défaut d'entretien de la vasque ou le défaut d'assurance RC (non obligatoire pour les coiffeurs) demeurent des fautes de gestion imputables à la seule SAS. La personnalité morale fera probablement écran. — **✅ ✅ FAIT (Plainte complémentaire rédigée et intégrée)**
 
 ## 4. Nomenclature Dintilhac et respect académique
 **Note : A-**

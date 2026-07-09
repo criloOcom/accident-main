@@ -52,7 +52,7 @@
 ### `⚖️_Actes/02_✉️_Courriers/18_Courrier SDIS.md`
 - Set source to drive
 
-### `⚖️_Actes/02_✉️_Courriers/22_Gabarit Attestation Témoin Client.md`
+### `⚖️_Actes/02_✉️_Courriers/22_Gabarit Attestation Témoin Client.md` — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Faire signer les CERFA 11527 aux témoins : client, pompier, employé)**
 - Added titre
 - Added date
 - Set type to acte

@@ -137,5 +137,5 @@ Fondement : art. 835 al.2 CPC — obligation non sérieusement contestable.
 - Fiches jurisprudence : [70-12.124](../../📜_Lois/70-12.124_CourCassation.md), [74-10.466](../../📜_Lois/74-10.466_CourCassation.md), [89-18.422](../../📜_Lois/89-18.422_CourCassation.md), [91-13.580](../../📜_Lois/91-13.580_CourCassation.md), [91-15.035](../../📜_Lois/91-15.035_CourCassation.md), [24-21.702](../../📜_Lois/24-21.702_CourCassation.md)
 - Note responsabilités légales : [13 📜 Responsabilites legales.md](13%20📜%20Responsabilites%20legales.md)
 - Évaluation financière : [12 Évaluation Dintilhac détaillée.md](../04_💰_Etudes_indemnisation/12%20%C3%89valuation%20Dintilhac%20d%C3%A9taill%C3%A9e.md)
-- Validation ordalie : [20260707 Validation juridique ordalie.md](../../📊_Rapports/ordalie/20260707%20Validation%20juridique%20ordalie.md)
+- Validation ordalie : [20260707 Validation juridique ordalie.md](../../📊_Rapports/🗄️_Archives/ordalie/20260707%20Validation%20juridique%20ordalie.md)
 - Preuves : PV police n°2026/015967 (basculement), constat huissier (cassure préexistante)

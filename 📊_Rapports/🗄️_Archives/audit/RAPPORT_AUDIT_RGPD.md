@@ -16,7 +16,7 @@ Ce fichier centralise l'ensemble de la correspondance entre les tokens et les do
 *   **Données identifiantes :** adresses (10 Avenue de Purpan, 22 Rue Lafaurie, 108 Avenue Paul Bert), SIREN/SIRET (938 033 222, 938 033 222 00010, 500 474 457), N° Dossier CPAM (31727387), N° PV Police (2026/015967), email (sebastien.grazide@gmail.com).
 
 **Fichier : `⚖️_Actes/🔑_Token/05_🗂️_Organisation/00 📇 Index.md`**
-*   Ligne 101 : `2026-07-05 - 25 📧 Relance Dr DJERBI - V1 ✓ Vérifié` (Nom du médecin).
+*   Ligne 101 : `2026-07-05 - 25 📧 Relance Dr DJERBI - V1 ✓ Vérifié` (Nom du médecin). — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Envoyer le courrier de relance pour certificat de consolidation)**
 
 **Fichier : `⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/05 🎯 Conclusions Refere.md`**
 *   Lignes 58 et 80 : Mention en clair du numéro de PV de police `2026/015967`.

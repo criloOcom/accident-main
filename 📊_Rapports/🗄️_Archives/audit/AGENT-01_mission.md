@@ -32,7 +32,7 @@ Date de l'audit : 2026-07-06
 - Ligne 51 : Mention d'une lésion à l'auriculaire / 5e doigt (seul l'index droit est touché)
 - Ligne 108 : Mention d'une lésion à l'auriculaire / 5e doigt (seul l'index droit est touché)
 - Ligne 141 : Mention d'une lésion à l'auriculaire / 5e doigt (seul l'index droit est touché)
-- Ligne 161 : Lien interne cassé vers '../02_✉️_Courriers/22_Gabarit%20Attestation%20Témoin%20Client.md' (résolu en '/home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/22_Gabarit%20Attestation%20Témoin%20Client.md')
+- Ligne 161 : Lien interne cassé vers '../02_✉️_Courriers/22_Gabarit%20Attestation%20Témoin%20Client.md' (résolu en '/home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/22_Gabarit%20Attestation%20Témoin%20Client.md') — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Faire signer les CERFA 11527 aux témoins : client, pompier, employé)**
 - Ligne 165 : Lien interne cassé vers '../02_✉️_Courriers/23_Gabarit%20Attestation%20Pompier%20SAMU.md' (résolu en '/home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/23_Gabarit%20Attestation%20Pompier%20SAMU.md')
 - Ligne 169 : Lien interne cassé vers '../02_✉️_Courriers/24_Gabarit%20Attestation%20Employé.md' (résolu en '/home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/24_Gabarit%20Attestation%20Employé.md')
 
@@ -51,7 +51,7 @@ Date de l'audit : 2026-07-06
 ## Fichier : `⚖️_Actes/🔑_Token/02_✉️_Courriers/12_Courrier URSSAF.md`
 - Ligne 45 : Token '[Le Prepose de l'Exploitation]' mal formaté (doit être gras : '**[Le Prepose de l'Exploitation]**')
 
-## Fichier : `⚖️_Actes/🔑_Token/02_✉️_Courriers/22_Gabarit Attestation Témoin Client.md`
+## Fichier : `⚖️_Actes/🔑_Token/02_✉️_Courriers/22_Gabarit Attestation Témoin Client.md` — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Faire signer les CERFA 11527 aux témoins : client, pompier, employé)**
 - Ligne 22 : Token '[À compléter]' mal formaté (doit être gras : '**[À compléter]**')
 - Ligne 26 : Token '[À compléter]' mal formaté (doit être gras : '**[À compléter]**')
 - Ligne 27 : Token '[À compléter]' mal formaté (doit être gras : '**[À compléter]**')
@@ -84,7 +84,7 @@ Date de l'audit : 2026-07-06
 - Ligne 44 : Token '[À compléter]' mal formaté (doit être gras : '**[À compléter]**')
 - Ligne 44 : Token '[À compléter]' mal formaté (doit être gras : '**[À compléter]**')
 
-## Fichier : `⚖️_Actes/🔑_Token/02_✉️_Courriers/25_Email Relance Dr DJERBI.md`
+## Fichier : `⚖️_Actes/🔑_Token/02_✉️_Courriers/25_Email Relance Dr DJERBI.md` — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Envoyer le courrier de relance pour certificat de consolidation)**
 - Ligne 2 : Nom réel 'Djerbi' non anonymisé
 
 ## Fichier : `⚖️_Actes/🔑_Token/02_✉️_Courriers/README.md`

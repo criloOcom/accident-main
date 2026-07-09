@@ -33,9 +33,9 @@
 📁 **[app/](./app/)** — Scripts Python
 
 📁 **[📊_Rapports/](./📊_Rapports/)** — Rapports d'analyse et de validation <br>
-├── 📁 **[audit/](./📊_Rapports/audit/)** — Rapports d'audit et vérifications <br>
+├── 📁 **[audit/](./📊_Rapports/🗄️_Archives/audit/)** — Rapports d'audit et vérifications <br>
 ├── 📁 **[expertise/](./📊_Rapports/expertise/)** — Rapports d'analyse et mémoires juridiques <br>
-└── 📁 **[ordalie/](./📊_Rapports/ordalie/)** — Validation juridique
+└── 📁 **[ordalie/](./📊_Rapports/🗄️_Archives/ordalie/)** — Validation juridique
 
 📁 **[pieces/](./pieces/)** — Pièces originales extraites des PDFs
 
@@ -127,11 +127,11 @@ Le dossier repose sur une **double strate de documents** générée par [generat
 
 | Dossier | Description |
 |---------|-------------|
-| [audit/](./📊_Rapports/audit/) | Rapports d'audit, suivi des agents, rapports techniques et d'anonymisation |
+| [audit/](./📊_Rapports/🗄️_Archives/audit/) | Rapports d'audit, suivi des agents, rapports techniques et d'anonymisation |
 | [expertise/](./📊_Rapports/expertise/) | Mémoires juridiques, analyses approfondies et gloses |
 | [jurisprudence/](./📊_Rapports/jurisprudence/) | Rapports d'audit de jurisprudence |
-| [ordalie/](./📊_Rapports/ordalie/) | Rapports de validation juridique et tests de cohérence ("ordalie") |
-| [anonymisation/](./📊_Rapports/anonymisation/) | Rapports d'audit d'anonymisation |
+| [ordalie/](./📊_Rapports/🗄️_Archives/ordalie/) | Rapports de validation juridique et tests de cohérence ("ordalie") |
+| [anonymisation/](./📊_Rapports/🗄️_Archives/anonymisation/) | Rapports d'audit d'anonymisation |
 | [ordonnance_refere.md](./📊_Rapports/ordonnance_refere.md) | Projet d'ordonnance de référé motivée |
 
 ---

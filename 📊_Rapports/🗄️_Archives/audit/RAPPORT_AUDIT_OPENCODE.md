@@ -9,9 +9,9 @@
 
 ## Résultats par plan
 
-### Plan A — Correction L.211-26
+### Plan A — Correction L.211-26 — **✅ ✅ CORRIGÉ (Article erroné supprimé et remplacé)**
 - Statut : PASS
-- Détails : Le code L.211-26 n'apparaît plus ni dans les actes juridiques ni dans le code source de l'application. 
+- Détails : Le code L.211-26 n'apparaît plus ni dans les actes juridiques ni dans le code source de l'application.  — **✅ ✅ CORRIGÉ (Article erroné supprimé et remplacé)**
 - Preuves : Une recherche (`grep`) exhaustive sur `⚖️_Actes/` et `app/` ne renvoie aucun résultat. Il est présent uniquement dans `🧠_Memory/TODO.md` pour documenter la correction.
 
 ### Plan C — CIVI/FGTI

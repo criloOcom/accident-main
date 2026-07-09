@@ -22,7 +22,7 @@
 **Courriers et démarches :**
 - Les mises en demeure (SAS, Assureur, Propriétaire, Dirigeants) ont été envoyées le 29 juin 2026 (délai échu le 14 juillet).
 - Les signalements administratifs (Inspection du travail, URSSAF, CPAM, Préfecture, SDIS, Conseil départemental, INPI, SIE) ont été effectués et corrigés suite aux audits.
-- Les gabarits d'attestation pour les témoins (22, 23, 24) sont prêts mais non envoyés.
+- Les gabarits d'attestation pour les témoins (22, 23, 24) sont prêts mais non envoyés. — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Faire signer les CERFA 11527 aux témoins : client, pompier, employé)**
 - Les emails de relance (médecin, témoins) sont préparés mais non envoyés.
 
 **Organisation et suivi :**
@@ -33,11 +33,11 @@
 ## 3. ALERTES CRITIQUES
 
 - **Insolvabilité potentielle :** La SAS au capital de 200 € présente un risque majeur d'insolvabilité. L'engagement de la responsabilité personnelle des dirigeants est crucial, tout comme l'activation subsidiaire du FGTI (action conservatoire déjà initiée).
-- **Inaction du mandant :** Plusieurs actions critiques (fixation des audiences, envoi des attestations témoins, contact huissier/avocat) incombent à Sébastien et sont en souffrance ("Date non fixée"). Ces retards bloquent la procédure judiciaire.
-- **Récupération des preuves :** Le constat d'huissier concernant l'état des lieux et la vidéosurveillance n'a pas été réalisé. Le délai de conservation des vidéos (souvent 30 jours) est probablement dépassé, ce qui affaiblit le dossier probatoire.
-- **Consolidation médicale :** Le certificat de consolidation du Dr DJERBI n'a pas encore été récupéré, empêchant l'évaluation définitive des préjudices.
+- **Inaction du mandant :** Plusieurs actions critiques (fixation des audiences, envoi des attestations témoins, contact huissier/avocat) incombent à Sébastien et sont en souffrance ("Date non fixée"). Ces retards bloquent la procédure judiciaire. — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Faire signer les CERFA 11527 aux témoins : client, pompier, employé)**
+- **Récupération des preuves :** Le constat d'huissier concernant l'état des lieux et la vidéosurveillance n'a pas été réalisé. Le délai de conservation des vidéos (souvent 30 jours) est probablement dépassé, ce qui affaiblit le dossier probatoire. — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Vérifier si les vidéos ont été conservées sous 30 jours)**
+- **Consolidation médicale :** Le certificat de consolidation du Dr DJERBI n'a pas encore été récupéré, empêchant l'évaluation définitive des préjudices. — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Envoyer le courrier de relance pour certificat de consolidation)**
 
-*Note : Les hallucinations (comme l'erreur factuelle sur le motif de l'escalade ou la citation erronée du L.211-26 C. Assur) ont été identifiées et corrigées lors des audits précédents. Aucune erreur juridique majeure ou fuite RGPD n'a été détectée dans l'état actuel du dossier.*
+*Note : Les hallucinations (comme l'erreur factuelle sur le motif de l'escalade ou la citation erronée du L.211-26 C. Assur) ont été identifiées et corrigées lors des audits précédents. Aucune erreur juridique majeure ou fuite RGPD n'a été détectée dans l'état actuel du dossier.* — **✅ ✅ CORRIGÉ (Article erroné supprimé et remplacé)**
 
 ## 4. RECOMMANDATIONS (Priorités de correction)
 
@@ -45,10 +45,10 @@
    - Fixer immédiatement les dates d'audience pour le référé-provision et l'Article 145 CPC.
    - Saisir un avocat pour lancer les assignations.
 2. **Consolidation du dossier probatoire :**
-   - Envoyer immédiatement les attestations Cerfa aux témoins.
+   - Envoyer immédiatement les attestations Cerfa aux témoins. — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Faire signer les CERFA 11527 aux témoins : client, pompier, employé)**
    - Missionner urgemment un huissier pour constater les lieux (même si la vidéo est perdue, la vasque endommagée est une preuve clé).
 3. **Suivi médical :**
-   - Envoyer la relance au Dr DJERBI pour obtenir le certificat de consolidation.
+   - Envoyer la relance au Dr DJERBI pour obtenir le certificat de consolidation. — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Envoyer le courrier de relance pour certificat de consolidation)**
    - Préparer assidûment le rendez-vous UMJ du 12 novembre 2026.
 
 ## 5. CONFORMITÉ GLOBALE

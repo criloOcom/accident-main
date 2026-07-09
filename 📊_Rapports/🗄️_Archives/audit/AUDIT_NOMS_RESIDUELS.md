@@ -2,7 +2,7 @@
 
 - **Fichier:** `⚖️_Actes/05_🗂️_Organisation/00_Index.md` (Ligne 82)
   - **Nom(s) trouvé(s):** DJERBI
-  - **Contexte:** `- 2026-07-05 - 07_Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au Dr DJERBI.`
+  - **Contexte:** `- 2026-07-05 - 07_Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au Dr DJERBI.` — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Envoyer le courrier de relance pour certificat de consolidation)**
 
 - **Fichier:** `⚖️_Actes/06_🗄️_Archives/STRATEGIE_Contentieux_Civil.md` (Ligne 161)
   - **Nom(s) trouvé(s):** Julie, JARDON
@@ -230,7 +230,7 @@
 
 - **Fichier:** `🧠_Memory/TODO.md` (Ligne 65)
   - **Nom(s) trouvé(s):** DJERBI
-  - **Contexte:** `1. Demander certificat médical de consolidation au Dr DJERBI`
+  - **Contexte:** `1. Demander certificat médical de consolidation au Dr DJERBI` — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Envoyer le courrier de relance pour certificat de consolidation)**
 
 - **Fichier:** `🧠_Memory/TOKEN MAP.md` (Ligne 6)
   - **Nom(s) trouvé(s):** Sébastien, Grazide, GRAZIDE

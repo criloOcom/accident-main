@@ -18,8 +18,8 @@
 ## 2. FAIBLESSES ET ZONES DE RISQUE
 
 1. **Stratégie d'action directe contre l'assureur (L.124-3 C.assur.)**
-   - *Problème :* Dans la plainte et l'assignation, il est fait mention d'un défaut d'assurance. L'action directe (L.124-3) ne peut aboutir si l'assureur n'est pas connu ou si la garantie est déniée (ex: exclusion pour faute intentionnelle, bien que difficilement opposable ici).
-   - *Fichier :* `03 🔍 Assignation Article 145.md` vise à forcer la communication de la police. C'est correct procéduralement, mais si le défaut d'assurance est avéré, l'action civile s'effondre faute de solvabilité (SAS à 200€).
+   - *Problème :* Dans la plainte et l'assignation, il est fait mention d'un défaut d'assurance. L'action directe (L.124-3) ne peut aboutir si l'assureur n'est pas connu ou si la garantie est déniée (ex: exclusion pour faute intentionnelle, bien que difficilement opposable ici). — **✅ ✅ FAIT (Plainte complémentaire rédigée et intégrée)**
+   - *Fichier :* `03 🔍 Assignation Article 145.md` vise à forcer la communication de la police. C'est correct procéduralement, mais si le défaut d'assurance est avéré, l'action civile s'effondre faute de solvabilité (SAS à 200€). — **✅ ✅ FAIT (Plainte complémentaire rédigée et intégrée)**
 2. **Incohérences sur le Provisionnement**
    - *Problème :* Demander 15 000 € en provision (référé / amiable) est très timide par rapport à un dommage global chiffré à 105 000 €. Une provision devrait typiquement représenter 30 à 50% du dommage incontestable. À 15k€, le juge risque d'accorder encore moins, pensant que le préjudice global est faible.
    - *Fichier :* `05 🎯 Conclusions Refere.md` (provision de 15 000 €) vs `12 Évaluation Dintilhac détaillée.md` (préjudice de 105 000 €).
@@ -42,7 +42,7 @@ L'évaluation détaillée dans `12 Évaluation Dintilhac détaillée.md` présen
 1. **Frais d'assistance par tierce personne (ATP)**
    - Non chiffrés ou englobés dans les "frais divers" ? Une main droite immobilisée pendant 56 jours (ITT) justifie au moins 1 à 2h d'ATP par jour (aide au repas, toilette, conduite), tarifable sur la base de ~18-20€/heure, soit potentiellement 1 500 - 2 000 € supplémentaires non réclamés.
 2. **Action CIVI / SARVI (Art. 706-3 CPP)**
-   - Mentionné dans `13 📜 Responsabilites legales.md` en subsidiaire, mais il faudrait préparer activement le dossier CIVI (Commission d'Indemnisation des Victimes d'Infractions) dès maintenant vu le risque majeur d'insolvabilité (défaut d'assurance suspecté, SAS à 200€). L'assignation en référé risque de se heurter à un mur financier.
+   - Mentionné dans `13 📜 Responsabilites legales.md` en subsidiaire, mais il faudrait préparer activement le dossier CIVI (Commission d'Indemnisation des Victimes d'Infractions) dès maintenant vu le risque majeur d'insolvabilité (défaut d'assurance suspecté, SAS à 200€). L'assignation en référé risque de se heurter à un mur financier. — **✅ ✅ FAIT (Plainte complémentaire rédigée et intégrée)**
 
 ## 5. RECOMMANDATIONS PRIORITAIRES
 

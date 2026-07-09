@@ -25,7 +25,7 @@
 
 ## 1. PROBLÈMES CRITIQUES
 
-### 1.1 Anonymisation — `22 Rue Lafaurie, 09000 Foix` en clair
+### 1.1 Anonymisation — `22 Rue Lafaurie, 09000 Foix` en clair — **✅ ✅ CORRIGÉ (Anonymisé dans actes_⚖️/token_🔑 et compilé dans actes_⚖️/reel_👤)**
 > Réviseur technique — Erreur critique
 
 L'adresse réelle figure en clair dans un fichier du répertoire `token/` qui doit être entièrement anonymisé. **Correction impérative :** remplacer par `**[L'Adresse de l'Exploitation]**`.
@@ -64,10 +64,10 @@ La blessure grave (section tendineuse + nerveuse, microchirurgie) est expédiée
 
 Le courrier mentionne le risque de perte de la vidéo mais **n'exige pas formellement** la conservation/sauvegarde scellée des enregistrements. Injonction claire requise.
 
-### 2.4 Référé → Requête
+### 2.4 Référé → Requête — **✅ ✅ FAIT (Assignations et requêtes distinctes rédigées : Référé Art 835 et Requête Art 145)**
 > Huissier (8.5/10), Procéduraliste civil, Magistrat (9/10)
 
-Le courrier menace de saisir le juge des **référés** (contradictoire). Pour éviter la destruction des preuves, il faut viser la **requête** (non contradictoire, effet de surprise). Deux notions radicalement différentes.
+Le courrier menace de saisir le juge des **référés** (contradictoire). Pour éviter la destruction des preuves, il faut viser la **requête** (non contradictoire, effet de surprise). Deux notions radicalement différentes. — **✅ ✅ FAIT (Assignations et requêtes distinctes rédigées : Référé Art 835 et Requête Art 145)**
 
 ### 2.5 Preuves alternatives non exploitées
 > Preuves numériques (6.5/10)
@@ -107,8 +107,8 @@ Transaction Wero (15 € remboursés), géolocalisation Google Maps, métadonné
 ## 4. PLAN D'AMÉLIORATION V3
 
 ### Round 1 — Corrections obligatoires
-1. Anonymiser `22 Rue Lafaurie` → `**[L'Adresse de l'Exploitation]**`
-2. Remplacer "référé" par "requête" (art. 145 CPC)
+1. Anonymiser `22 Rue Lafaurie` → `**[L'Adresse de l'Exploitation]**` — **✅ ✅ CORRIGÉ (L'adresse est tokenisée)**
+2. Remplacer "référé" par "requête" (art. 145 CPC) — **✅ ✅ FAIT (Assignations et requêtes distinctes rédigées : Référé Art 835 et Requête Art 145)**
 3. Ajouter clause Legal Hold : exiger conservation vidéo + vasque
 4. Ajouter un paragraphe "Autorités" (Inspection du travail, CODAF)
 
