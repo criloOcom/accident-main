@@ -26,7 +26,7 @@ Afin de contextualiser ma présente démarche, je me permets de retracer briève
 - **Le 2 juin 2026**, je vous ai transmis la preuve officielle de l'ouverture de ma procédure pénale (PV n° **[N° PV Police]**).
 - **Le 5 juillet 2026**, je vous ai adressé une demande d'information concernant l'avancement de ces enquêtes administratives.
 
-En ma qualité de victime directe de cet accident corporel, et conformément au droit d'accès aux documents administratifs, je vous sollicite formellement afin d'obtenir les références officielles ainsi que les copies des courriers de saisine que vous avez adressés le 1er juin 2026 à la Préfecture, à l'Inspection du Travail et au CODAF. Ces éléments de référence sont indispensables pour me permettre de suivre l'évolution de ces dossiers et pour être transmis à l'autorité judiciaire en charge de mon dossier pénal.
+Pour assurer un bon suivi de mon dossier et dans un souci de bonne coordination administrative, je vous serais reconnaissant de bien vouloir me communiquer, si elles sont disponibles, les références des saisines que vous avez adressées le 1er juin 2026 à la Préfecture, à l'Inspection du Travail et au CODAF. Cela me permettrait de suivre l'évolution de ces dossiers et, le cas échéant, de les porter à la connaissance de l'autorité judiciaire.
 
 Si je me permets de vous solliciter à nouveau aujourd'hui, c'est en raison d'une évolution particulièrement anormale de la situation qui requiert l'attention de vos services.
 
