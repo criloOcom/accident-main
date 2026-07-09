@@ -32,6 +32,8 @@ Sur le plan médical, lors de ma consultation de contrôle du 23 juin 2026, le D
 
 Sur le plan administratif, résidant à 10 Avenue de Purpan, 31700 Blagnac, j'ai fait adresser des mises en demeure par courriers recommandés à SAS LES MAUVAIS GARCONS à l'adresse de son siège social (22 Rue Lafaurie) le 29 juin 2026. Or, ces courriers n'ont pas pu être distribués (mentions défaut d'adresse, distribution impossible).
 
+Par souci de complète transparence avec vos services, je vous informe qu'à cette même date du 29 juin 2026, j'ai également transmis l'intégralité de mon dossier médical (11 pièces — comptes rendus opératoires, certificats médicaux, arrêts de travail, notes médico-légales) ainsi que ma constitution de partie civile et mes conclusions au Procureur de la République près le Tribunal Judiciaire de Foix (PV n° 2026/015967), afin de permettre à l'autorité judiciaire d'apprécier la réalité et l'étendue de mon préjudice corporel dans le cadre de l'enquête préliminaire ouverte.
+
 Pourtant, le commerce a rouvert ses portes le 6 juillet 2026 et paraît en activité régulière. Les registres publics du RNE (INPI) indiquent par ailleurs que cette SAS est toujours officiellement active à cette même adresse, sans modification de siège social.
 
 Dans ce contexte d'opacité, et afin de garantir la sécurité des usagers de cet Établissement Recevant du Public (ERP), je sollicite l'intervention de vos services de police municipale. Il s'agirait, lors de leurs patrouilles, de procéder aux constatations suivantes :
