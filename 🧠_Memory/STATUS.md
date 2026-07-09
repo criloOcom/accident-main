@@ -61,7 +61,13 @@
 ### Notes
 - M11 (note FGTI/CIVI urgence) : déjà couvert par `13 Note strategique FGTI CIVI.md` (existant)
 - Sessions Jules M08-M15 closes (non utilisées — production directe plus rapide)
-- **PRs GitHub à créer manuellement** : les 7 branches ci-dessus n'ont pas de PR ouverte (limitation API MCP GitHub)
+- **PRs GitHub créées** via `gh` CLI avec le token Secret Manager :
+  - PR #121 : `feat/M08-responsabilite-dirigeants` → main
+  - PR #122 : `feat/M09-courrier-inpi-opposition` → main
+  - PR #123 : `feat/M10-courrier-sie-urssaf` → main
+  - PR #124 : `feat/M12-requete-constat-huissier-145` → main
+  - PR #125 : `feat/M14-fiche-reflexe-48h` → main
+- M01, M15 déjà sur `main` (pas besoin de PR)
 
 ### Nouveaux fichiers créés
 - `⚖️_Actes/🔑_Token/02_✉️_Courriers/32 ✉️ Courrier SIE URSSAF Mutualisation.md`
