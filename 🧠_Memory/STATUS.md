@@ -1,4 +1,4 @@
-# STATUT D'AVANCEMENT — 8 juillet 2026
+# STATUT D'AVANCEMENT — 9 juillet 2026
 
 ## Phase 15 — Merge 12 PRs Jules + RGPD + Chiffrage (8 juillet 2026) ✅
 
@@ -42,6 +42,32 @@
 | `20cf664` | feat: merge 4 PRs Jules — nouveaux actes (FGTI, Assurances, Réquisitoire, Défense) + reel |
 | `56ca5bc` | fix(rgpd): supprimer ANNEXE A + anonymiser PV police et DJERBI |
 | `cc204a6` | feat(chiffrage): ajout ATP tierce personne (2k€), total 90k→92k |
+
+---
+
+## Phase 16 — Livrables restants M10-M15 (9 juillet 2026) ✅
+
+### Branches créées et pushées
+| Livrable | Description | Branche |
+|----------|-------------|---------|
+| M01 | Rapport statut SAS temps réel | `feat/M01-rapport-statut-sas` (déjà pushé) |
+| M08 | Note responsabilité dirigeants dissolution | `feat/M08-responsabilite-dirigeants` (déjà pushé) |
+| M09 | Courrier INPI opposition | `feat/M09-courrier-inpi-opposition` (déjà pushé) |
+| M10 | Courrier SIE/URSSAF mutualisation (L.252, L.274 LPF) | `feat/M10-courrier-sie-urssaf` |
+| M12 | Requête constat huissier (Art. 145 CPC) | `feat/M12-requete-constat-huissier-145` |
+| M14 | Fiche réflexe 48h victime | `feat/M14-fiche-reflexe-48h` |
+| M15 | Note contentieux administratif (REP, TA) | `feat/M15-note-contentieux-administratif` |
+
+### Notes
+- M11 (note FGTI/CIVI urgence) : déjà couvert par `13 Note strategique FGTI CIVI.md` (existant)
+- Sessions Jules M08-M15 closes (non utilisées — production directe plus rapide)
+- **PRs GitHub à créer manuellement** : les 7 branches ci-dessus n'ont pas de PR ouverte (limitation API MCP GitHub)
+
+### Nouveaux fichiers créés
+- `⚖️_Actes/🔑_Token/02_✉️_Courriers/32 ✉️ Courrier SIE URSSAF Mutualisation.md`
+- `⚖️_Actes/🔑_Token/02_✉️_Courriers/33 ✉️ Requête Constat Huissier 145 CPC.md`
+- `⚖️_Actes/🔑_Token/06_🗄️_Archives/11 Fiche Reflexe 48h Victime.md`
+- `⚖️_Actes/🔑_Token/03_📚_Analyses_juridiques/17 Note Contentieux Administratif.md`
 
 ---
 
