@@ -23,7 +23,7 @@ format: Arial JUSTIFIED
 # OPPOSITION À IMMATRICULATION AU REGISTRE NATIONAL DES ENTREPRISES
 **[Nom de l'Avocat de la Victime]**
 
-**À L'ATTENTION DU GREFFIER DU TRIBUNAL DE COMMERCE DE FOIX**
+**À L'ATTENTION DU GREFFIER DU Tribunal de Commerce de **[La Ville de l'Accident]****
 **Service du Registre National des Entreprises (RNE)**
 
 **[La Ville de l'Accident]**, le 9 juillet 2026

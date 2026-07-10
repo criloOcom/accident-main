@@ -4,7 +4,7 @@ date: 2026-07-09
 type: acte
 categorie: procedure
 auteur: Nom de l'Avocat de la Victime
-destinataire: Tribunal de Commerce de Foix
+destinataire: Tribunal de Commerce de **[La Ville de l'Accident]**
 personnes:
 - L'Exploitant du Commerce (La SAS)
 - La Victime
@@ -21,7 +21,7 @@ format: Arial JUSTIFIED
 # OPPOSITION CONSERVATOIRE À RADIATION DE SOCIÉTÉ
 **[Nom de l'Avocat de la Victime]**
 
-**À L'ATTENTION DE MONSIEUR LE PRÉSIDENT DU TRIBUNAL DE COMMERCE DE FOIX**
+**À L'ATTENTION DE MONSIEUR LE PRÉSIDENT DU Tribunal de Commerce de **[La Ville de l'Accident]****
 Service du Registre du Commerce et des Sociétés
 
 **[La Ville de l'Accident]**, le 9 juillet 2026
