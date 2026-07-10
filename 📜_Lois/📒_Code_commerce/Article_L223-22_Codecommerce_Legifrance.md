@@ -1,5 +1,15 @@
 # Article L. 223-22
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L223-22_Codecommerce_Legifrance.md ](.Article_L223-22_Codecommerce_Legifrance.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L223-22_Codecommerce_Legifrance.md ](.Article_L223-22_Codecommerce_Legifrance.md)
+```
+
 > **Nature** : Code
 
 ---

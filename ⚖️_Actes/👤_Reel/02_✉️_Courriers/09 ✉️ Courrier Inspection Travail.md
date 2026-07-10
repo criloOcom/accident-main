@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 09 ✉️ Courrier Inspection Travail.md ](.09 ✉️ Courrier Inspection Travail.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 09 ✉️ Courrier Inspection Travail.md ](.09 ✉️ Courrier Inspection Travail.md)
+```
+
 ---
 titre: Demande d'Information a l'Inspection du Travail - Version réelle
 date: 2026-07-05
@@ -19,7 +27,6 @@ source: drive
 drive_id: 1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/09 ✉️ Courrier Inspection Travail.md
-token_path: ../../🔑_Token/02_✉️_Courriers/09 ✉️ Courrier Inspection Travail.md
 ---
 # DEMANDE D'INFORMATION A L'INSPECTION DU TRAVAIL
 Sébastien GRAZIDE

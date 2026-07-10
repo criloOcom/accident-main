@@ -1,5 +1,15 @@
 # Article 706-3 du Code de procédure pénale
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_procedure_penale ](../README.md) > 📄 [ Article_706-3_CodeProcedurePenale_Legifrance.md ](.Article_706-3_CodeProcedurePenale_Legifrance.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_procedure_penale ](../README.md) > 📄 [ Article_706-3_CodeProcedurePenale_Legifrance.md ](.Article_706-3_CodeProcedurePenale_Legifrance.md)
+```
+
 **Identifiant Légifrance :** LEGIARTI000006577625 (à vérifier)
 **Thème :** Fonds de garantie des victimes (FGTI)
 **Utilisation :** Indemnisation des victimes d'infractions

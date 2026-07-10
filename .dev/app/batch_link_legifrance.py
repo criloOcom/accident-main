@@ -3,6 +3,27 @@
 
 Processes all identified unlinked references + fixes wrong LEGIARTI IDs in ANNEXE B.
 Run from project root: python3 .dev/app/batch_link_legifrance.py
+
+EXEMPLES D'UTILISATION MCP:
+-----------------------
+
+# Exemple 1: Recherche dans les codes
+from mcp_legifrance.server import LegifranceClient
+client = LegifranceClient()
+result = client.search('responsabilité civile', 'CODE', page_size=10)
+
+# Exemple 2: Recherche jurisprudence
+result = client.search('accident salon coiffure', 'JURI', page_size=5)
+
+# Exemple 3: Consultation article spécifique
+article = client.consulte_article('LEGIARTI000032041571')
+
+# Exemple 4: Recherche avec Judilibre
+from mcp_judilibre.server import JudilibreClient
+judilibre = JudilibreClient()
+result = judilibre.search('accident travail', chamber='soc', solution='cassation')
+
+Voir 📜_Lois/EXEMPLES_REQUETES_MCP.md pour plus d'exemples détaillés.
 """
 
 import re

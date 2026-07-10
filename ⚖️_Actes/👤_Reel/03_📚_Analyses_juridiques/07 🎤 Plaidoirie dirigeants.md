@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 07 🎤 Plaidoirie dirigeants.md ](.07 🎤 Plaidoirie dirigeants.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 07 🎤 Plaidoirie dirigeants.md ](.07 🎤 Plaidoirie dirigeants.md)
+```
+
 ---
 titre: Mémorandum Juridique — Responsabilité des Dirigeants - Version réelle
 date: 2026-06-30
@@ -20,7 +28,6 @@ source: drive
 drive_id: 1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/07 🎤 Plaidoirie dirigeants.md
-token_path: ../../🔑_Token/03_📚_Analyses_juridiques/07 🎤 Plaidoirie dirigeants.md
 ---
 # **MÉMORANDUM JURIDIQUE : RESPONSABILITÉ DES DIRIGEANTS ET RÉPARATION DES PRÉJUDICES**
 Rédigé le 30 juin 2026

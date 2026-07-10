@@ -1,5 +1,15 @@
 # ⚖️ Bibliothèque Juridique
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ README.md ](.README.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ README.md ](.README.md)
+```
+
 ```
 🏠 [Accueil](../README.md) → ⚖️ 📜_Lois/
 ```
@@ -36,15 +46,15 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [Art. 1720](📒_Code_civil/Article1720_CodeCivil_LegiFrance.md) — Réparations locatives
 - [Art. 2226](📒_Code_civil/Article_2226_Code_Legifrance.md) — Prescription décennale
 
-### 📒 Code pénal (8 articles)
+### 📒 Code pénal (10 articles)
 - [Art. 121-3](📒_Autres_codes/Article_121-3_Code_Legifrance.md) — Responsabilité des personnes morales
 - [Art. 222-19](📒_Code_penal/Article_222-19_CodePenal_Legifrance.md) — Blessures involontaires
 - [Art. 222-20](📒_Code_penal/Article222-20_CodePenal_LegiFrance.md) — Blessures avec circonstances aggravantes
 - [Art. 223-1](📒_Autres_codes/Article_223-1_Code_Legifrance.md) — Mise en danger d'autrui
 - [Art. 314-7](📒_Code_penal/Article_314-7_CodePenal_Legifrance.md) — Fraude sociale ✨ NOUVEAU
 - [Art. 434-4](📒_Code_penal/Article_434-4_CodePenal_Legifrance.md) — Refus de communication ✨ NOUVEAU
-- [Art. 434-15](📒_Autres_codes/Article_434-15_CodePenal_Legifrance.md) — Obstruction à la justice ✨ NOUVEAU
-- [Art. 434-15-1](📒_Autres_codes/Article_434-15-1_CodePenal_Legifrance.md) — Obstruction aggravée ✨ NOUVEAU
+- [Art. 434-15](📒_Code_penal/Article_434-15_CodePenal_Legifrance.md) — Obstruction à la justice ✨ NOUVEAU
+- [Art. 434-15-1](📒_Code_penal/Article_434-15-1_CodePenal_Legifrance.md) — Obstruction aggravée ✨ NOUVEAU
 
 ### 📒 Code de procédure civile (4 articles)
 - [Art. 145](📒_Autres_codes/Article_145_CodeDeProcédureCivile_Legifrance.md) — Mesures d'instruction

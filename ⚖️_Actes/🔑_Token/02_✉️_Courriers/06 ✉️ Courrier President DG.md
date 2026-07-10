@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 06 ✉️ Courrier President DG.md ](.06 ✉️ Courrier President DG.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 06 ✉️ Courrier President DG.md ](.06 ✉️ Courrier President DG.md)
+```
+
 ---
 titre: Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC
 date: 2026-06-29

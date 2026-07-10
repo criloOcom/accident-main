@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 31 ✉️ Courrier INPI Opposition.md ](.31 ✉️ Courrier INPI Opposition.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 31 ✉️ Courrier INPI Opposition.md ](.31 ✉️ Courrier INPI Opposition.md)
+```
+
 ---
 titre: Opposition à immatriculation INPI
 date: 2026-07-09

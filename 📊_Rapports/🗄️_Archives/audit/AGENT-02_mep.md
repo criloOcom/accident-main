@@ -1,5 +1,15 @@
 # RAPPORT DE VALIDATION : MISE EN PAGE & CONTEXTE (MEP)
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AGENT-02_mep.md ](.AGENT-02_mep.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AGENT-02_mep.md ](.AGENT-02_mep.md)
+```
+
 ## 📌 Introduction
 Ce rapport présente l'audit de mise en page, de hiérarchie des titres, de respect de la charte graphique (police Arial) et de la cohérence de forme croisée (tokens d'anonymisation) pour l'ensemble des documents du répertoire `⚖️_Actes/🔑_Token/`.
 

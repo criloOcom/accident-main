@@ -1,5 +1,15 @@
 # Rapport de correction — L.227-8 et Courrier 31
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ corrections_L227-8_courrier31.md ](.corrections_L227-8_courrier31.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ corrections_L227-8_courrier31.md ](.corrections_L227-8_courrier31.md)
+```
+
 Date : 2026-07-10
 
 ## Corrections effectuées

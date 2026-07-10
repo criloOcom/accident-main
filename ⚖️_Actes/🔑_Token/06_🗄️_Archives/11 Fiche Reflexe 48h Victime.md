@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 11 Fiche Reflexe 48h Victime.md ](.11 Fiche Reflexe 48h Victime.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 11 Fiche Reflexe 48h Victime.md ](.11 Fiche Reflexe 48h Victime.md)
+```
+
 ---
 titre: Fiche Reflexe 48h — Victime d'Accident Corporel
 date: 2026-07-09

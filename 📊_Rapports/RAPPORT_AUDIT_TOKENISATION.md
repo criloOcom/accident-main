@@ -1,5 +1,15 @@
 # RAPPORT D'AUDIT DE TOKENISATION
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_TOKENISATION.md ](.RAPPORT_AUDIT_TOKENISATION.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_TOKENISATION.md ](.RAPPORT_AUDIT_TOKENISATION.md)
+```
+
 **Date :** 10 juillet 2026
 **Objet :** Audit des fuites de données personnelles dans `⚖️_Actes/🔑_Token/`
 **Méthode :** Scan regex exhaustif (noms, emails, adresses, SIREN, téléphones, dates brutes) + revue manuelle

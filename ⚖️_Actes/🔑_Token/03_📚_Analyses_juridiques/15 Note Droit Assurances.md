@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 15 Note Droit Assurances.md ](.15 Note Droit Assurances.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 15 Note Droit Assurances.md ](.15 Note Droit Assurances.md)
+```
+
 ---
 titre: Note d'Analyse Juridique - Droit des Assurances
 date: 2026-07-08

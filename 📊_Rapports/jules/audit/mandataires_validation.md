@@ -1,5 +1,15 @@
 # Validation des Mandataires de Justice et Avocats
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ mandataires_validation.md ](.mandataires_validation.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ mandataires_validation.md ](.mandataires_validation.md)
+```
+
 | Type | Nom | Mission | Honoraires | Coordonnées | Vérification |
 |---|---|---|---|---|---|
 | Avocat | **[Nom de l'Avocat de la Victime]** | Avocat constitué. Représentation de la victime, référé provision, requêtes (mandataire ad hoc, injonctions). | Non spécifiés explicitement. Couverts par provision ad litem ou Aide Juridictionnelle. | Barreau de **[La Ville de l'Accident]** | Mentionné dans l'Assignation (01), Courriers (30, 31). Aucune convention d'honoraires présente dans le dossier. |

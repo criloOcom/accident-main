@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 📁 Dossier Presentation.md ](.📁 Dossier Presentation.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 📁 Dossier Presentation.md ](.📁 Dossier Presentation.md)
+```
+
 ---
 titre: Dossier de Présentation destiné au Conseil Juridique - Version réelle
 date: 2026-06-30
@@ -18,7 +26,6 @@ source: drive
 drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/06_🗄️_Archives/📁 Dossier Presentation.md
-token_path: ../../🔑_Token/06_🗄️_Archives/📁 Dossier Presentation.md
 ---
 **Table des matières**
 

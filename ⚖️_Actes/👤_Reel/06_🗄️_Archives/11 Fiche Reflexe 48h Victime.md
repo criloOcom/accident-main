@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 11 Fiche Reflexe 48h Victime.md ](.11 Fiche Reflexe 48h Victime.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 11 Fiche Reflexe 48h Victime.md ](.11 Fiche Reflexe 48h Victime.md)
+```
+
 ---
 titre: Fiche Reflexe 48h — Victime d'Accident Corporel - Version réelle
 date: 2026-07-09
@@ -15,7 +23,6 @@ statut: projet
 source: local
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/06_🗄️_Archives/11 Fiche Reflexe 48h Victime.md
-token_path: ../../🔑_Token/06_🗄️_Archives/11 Fiche Reflexe 48h Victime.md
 ---
 # FICHE REFLEXE 48H
 

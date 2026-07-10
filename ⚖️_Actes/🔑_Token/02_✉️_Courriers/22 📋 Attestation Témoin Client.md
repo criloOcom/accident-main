@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 22 📋 Attestation Témoin Client.md ](.22 📋 Attestation Témoin Client.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 22 📋 Attestation Témoin Client.md ](.22 📋 Attestation Témoin Client.md)
+```
+
 ---
 titre: 22 Gabarit Attestation Témoin Client - V1
 date: '2026-06-30'

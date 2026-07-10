@@ -1,5 +1,15 @@
 # Article L113-2
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L113-2_Codesassurances_Legifrance.md ](.Article_L113-2_Codesassurances_Legifrance.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L113-2_Codesassurances_Legifrance.md ](.Article_L113-2_Codesassurances_Legifrance.md)
+```
+
 > **Nature** : Code
 
 ---

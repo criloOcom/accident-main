@@ -1,5 +1,15 @@
 # Code civil — Art. 1240
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_civil ](../README.md) > 📄 [ Article1240_CodeCivil.md ](.Article1240_CodeCivil.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_civil ](../README.md) > 📄 [ Article1240_CodeCivil.md ](.Article1240_CodeCivil.md)
+```
+
 > **Nature** : Code
 
 ---

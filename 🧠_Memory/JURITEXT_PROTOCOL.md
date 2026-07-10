@@ -1,5 +1,15 @@
 # PROTOCOLE JURITEXT — Vérification obligatoire des identifiants de jurisprudence
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ JURITEXT_PROTOCOL.md ](.JURITEXT_PROTOCOL.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ JURITEXT_PROTOCOL.md ](.JURITEXT_PROTOCOL.md)
+```
+
 > **Règle absolue** : tout agent qui insère, modifie ou vérifie une JURITEXT
 > DOIT suivre ce protocole. Pas d'exception.
 

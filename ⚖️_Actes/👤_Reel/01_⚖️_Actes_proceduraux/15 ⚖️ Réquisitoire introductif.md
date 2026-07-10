@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 15 ⚖️ Réquisitoire introductif.md ](.15 ⚖️ Réquisitoire introductif.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 15 ⚖️ Réquisitoire introductif.md ](.15 ⚖️ Réquisitoire introductif.md)
+```
+
 ---
 titre: Réquisitoire Introductif - Version réelle
 date: 2026-07-15
@@ -21,7 +29,6 @@ source: drive
 drive_id: [À compléter]
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/15 ⚖️ Réquisitoire introductif.md
-token_path: ../../🔑_Token/01_⚖️_Actes_proceduraux/15 ⚖️ Réquisitoire introductif.md
 ---
 # RÉQUISITOIRE INTRODUCTIF DU MINISTÈRE PUBLIC
 **Ouverture d'une information judiciaire — Blessures involontaires et infractions connexes**

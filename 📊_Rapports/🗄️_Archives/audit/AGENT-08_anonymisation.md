@@ -1,5 +1,15 @@
 # RAPPORT D'ANONYMISATION — DOSSIER ACTES/TOKEN/
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AGENT-08_anonymisation.md ](.AGENT-08_anonymisation.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AGENT-08_anonymisation.md ](.AGENT-08_anonymisation.md)
+```
+
 ## 1. Objectif et Contexte
 L'objectif de cet audit est de s'assurer de l'intégrité absolue de l'anonymisation des documents contenus dans le répertoire `⚖️_Actes/🔑_Token/` conformément à la table de correspondance définie dans [TOKEN MAP.md](file:///home/crilocom/accident-main/🧠_Memory/TOKEN%20MAP.md). Aucun nom réel, prénom, adresse, adresse courriel ou donnée localisante/identifiante ne doit subsister dans ces fichiers de diffusion.
 

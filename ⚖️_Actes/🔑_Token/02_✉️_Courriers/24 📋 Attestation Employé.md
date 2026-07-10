@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 24 📋 Attestation Employé.md ](.24 📋 Attestation Employé.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 24 📋 Attestation Employé.md ](.24 📋 Attestation Employé.md)
+```
+
 ---
 titre: 24 Gabarit Attestation Employé - V1
 date: '2026-06-30'

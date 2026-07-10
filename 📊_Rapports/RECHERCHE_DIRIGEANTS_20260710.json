@@ -1,0 +1,1042 @@
+{
+  "responsabilite_dirigeant": {
+    "page": 1,
+    "page_size": 10,
+    "query": {
+      "query": "responsabilité dirigeant",
+      "page": 1,
+      "pageSize": "10",
+      "field": [],
+      "type": [],
+      "theme": [],
+      "chamber": [],
+      "formation": [],
+      "jurisdiction": [],
+      "location": [],
+      "publication": [],
+      "solution": []
+    },
+    "total": 120630,
+    "previous_page": "query=responsabilit%C3%A9+dirigeant&page=0&pageSize=10",
+    "next_page": "query=responsabilit%C3%A9+dirigeant&page=2&pageSize=10",
+    "took": 107,
+    "max_score": 2359.8784,
+    "results": [
+      {
+        "score": 0.9520393084660633,
+        "highlights": {
+          "text": [
+            "Adresse 2], prise en sa qualité de liquidateur judiciaire de la société [B] Investissements, société à <em>responsabilité</em>",
+            "B] était le <em>dirigeant</em>, a été mise en redressement judiciaire",
+            "Le liquidateur, Mme [M], a recherché la <em>responsabilité</em> du <em>dirigeant</em> pour insuffisance d'actif",
+            "en cours et aux instances en <em>responsabilité</em> en cours ; que pour condamner M",
+            "en cours et aux instances en <em>responsabilité</em> en cours"
+          ]
+        },
+        "id": "66fce2748d6ea26f688da3d5",
+        "jurisdiction": "cc",
+        "chamber": "comm",
+        "number": "23-15.995",
+        "numbers": [
+          "23-15.995"
+        ],
+        "ecli": "ECLI:FR:CCASS:2024:CO00533",
+        "formation": "frh",
+        "publication": [
+          "b"
+        ],
+        "decision_date": "2024-10-02",
+        "solution": "cassation",
+        "type": "other",
+        "summary": "La loi n° 2016-172 du 9 décembre 2016, qui écarte, en cas de simple négligence dans la gestion de la société, la responsabilité du dirigeant au titre de l'insuffisance d'actif, est applicable immédiatement aux procédures collectives en cours et aux instances en responsabilité en cours. \nIl en résulte que, pour condamner un dirigeant au titre de sa responsabilité pour insuffisance d'actif, une cour d'appel doit caractériser une faute de gestion à sa charge qui n'est pas une simple négligence",
+        "themes": [
+          "entreprise en difficulte (loi du 26 juillet 2005)",
+          "responsabilités et sanctions",
+          "responsabilité pour insuffisance d'actif",
+          "domaine d'application",
+          "exclusion",
+          "cas",
+          "simple négligence dans la gestion de la société",
+          "article l. 651-2 du code de commerce",
+          "application dans le temps",
+          "détermination"
+        ],
+        "files": [],
+        "titlesAndSummaries": [
+          {
+            "titles": [
+              "ENTREPRISE EN DIFFICULTE (loi du 26 juillet 2005)",
+              "Responsabilités et sanctions",
+              "Responsabilité pour insuffisance d'actif",
+              "Domaine d'application",
+              "Exclusion",
+              "Cas",
+              "Simple négligence dans la gestion de la société",
+              "Article L. 651-2 du code de commerce",
+              "Application dans le temps",
+              "Détermination"
+            ],
+            "summary": "La loi n° 2016-172 du 9 décembre 2016, qui écarte, en cas de simple négligence dans la gestion de la société, la responsabilité du dirigeant au titre de l'insuffisance d'actif, est applicable immédiatement aux procédures collectives en cours et aux instances en responsabilité en cours. Il en résulte que, pour condamner un dirigeant au titre de sa responsabilité pour insuffisance d'actif, une cour d'appel doit caractériser une faute de gestion à sa charge qui n'est pas une simple négligence",
+            "secondaryTitles": [
+              [
+                "LOIS ET REGLEMENTS",
+                "Application immédiate",
+                "Application aux instances en cours",
+                "Cas",
+                "Loi n° 2016-1691 du 9 décembre 2016",
+                "Article L. 651-2 du code de commerce"
+              ]
+            ]
+          }
+        ],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9513454591558616,
+        "highlights": {
+          "text": [
+            "une assurance - <em>responsabilité</em>, en condamnation solidaire au paiement de l'insuffisance d'actif des",
+            "de l'assuré, l'arrêt retient que, la garantie des conséquences de la <em>responsabilité</em> pour insuffisance",
+            "dans le cadre d'une action en <em>responsabilité</em> pour insuffisance d'actif- dans la limite de",
+            "des <em>dirigeants</em>\" souscrite à effet du 29 août 2013 par la SAS ACE auprès de la société AIG pour ses <em>dirigeants</em>",
+            "F... de ses fonctions de <em>dirigeant</em>, la cour d'appel, qui a en réalité mis à sa charge une <em>responsabilité</em>"
+          ]
+        },
+        "id": "604b7b9fd94342699a69ff3c",
+        "jurisdiction": "cc",
+        "chamber": "comm",
+        "number": "19-12.825",
+        "numbers": [
+          "19-12.825",
+          "19-17.066"
+        ],
+        "ecli": "ECLI:FR:CCASS:2021:CO00206",
+        "formation": "frh",
+        "publication": [
+          "b"
+        ],
+        "decision_date": "2021-03-10",
+        "solution": "rejet",
+        "type": "other",
+        "summary": "Le liquidateur qui agit en responsabilité pour insuffisance d'actif contre le dirigeant d'une société mise en liquidation judiciaire est recevable à exercer une action directe contre l'assureur garantissant la responsabilité civile de la personne responsable dès lors  que les conséquences de cette responsabilité ne sont pas exclues par le contrat d'assurance, aucune disposition légale ou réglementaire n'interdisant par ailleurs au liquidateur de joindre, dans la même instance, à sa demande de condamnation du dirigeant, celle de l'assureur, l'incompétence du tribunal saisi de la procédure de liquidation judiciaire n'ayant pas été soulevée",
+        "themes": [
+          "entreprise en difficulte (loi du 26 juillet 2005)",
+          "responsabilités et sanctions",
+          "responsabilité pour insuffisance d'actif",
+          "recevabilité",
+          "qualité à agir",
+          "liquidateur",
+          "cas",
+          "action directe contre l'assureur garantissant la responsabilité civile du dirigeant",
+          "condition"
+        ],
+        "files": [],
+        "titlesAndSummaries": [
+          {
+            "titles": [
+              "ENTREPRISE EN DIFFICULTE (loi du 26 juillet 2005)",
+              "Responsabilités et sanctions",
+              "Responsabilité pour insuffisance d'actif",
+              "Recevabilité",
+              "Qualité à agir",
+              "Liquidateur",
+              "Cas",
+              "Action directe contre l'assureur garantissant la responsabilité civile du dirigeant",
+              "Condition"
+            ],
+            "summary": "Le liquidateur qui agit en responsabilité pour insuffisance d'actif contre le dirigeant d'une société mise en liquidation judiciaire est recevable à exercer une action directe contre l'assureur garantissant la responsabilité civile de la personne responsable dès lors que les conséquences de cette responsabilité ne sont pas exclues par le contrat d'assurance, aucune disposition légale ou réglementaire n'interdisant par ailleurs au liquidateur de joindre, dans la même instance, à sa demande de condamnation du dirigeant, celle de l'assureur, l'incompétence du tribunal saisi de la procédure de liquidation judiciaire n'ayant pas été soulevée",
+            "secondaryTitles": [
+              [
+                "ASSURANCE RESPONSABILITE",
+                "Action directe de la victime",
+                "Recevabilité",
+                "Cas",
+                "Liquidateur agissant en responsabilité pour insuffisance d'actif"
+              ]
+            ]
+          }
+        ],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9513052028443498,
+        "highlights": {
+          "text": [
+            "D'AVOIR DECLARE NON PRESCRITE L'ACTION DU SYNDIC DE LA LIQUIDATION DES BIENS DE LA SOCIETE A <em>RESPONSABILITE</em>",
+            "L'ARTICLE 101 DE LA LOI DU 13 JUILLET 1967 ALORS, SELON LE POURVOI, QUE L'ACTION TENDANT A CE QUE LE <em>DIRIGEANT</em>",
+            "CIVILE DU <em>DIRIGEANT</em> AYANT COMMIS CERTAINES FAUTES DANS LA GESTION AU PREJUDICE DES CREANCIERS SOCIAU…",
+            "QU'ELLE EST A CE TITRE SOUMISE A LA PRESCRIPTION TRIENNALE DES ACTIONS EN <em>RESPONSABILITE</em> VISANT LES",
+            "<em>DIRIGEANTS</em> SOCIAU…, SANS QU'AUCUNE DISPOSITION LEGALE AUTORISE A EN ECARTER L'APPLICATION LORSQU'UNE"
+          ]
+        },
+        "id": "6079d3759ba5988459c596d9",
+        "jurisdiction": "cc",
+        "chamber": "comm",
+        "number": "80-15.003",
+        "numbers": [
+          "80-15.003"
+        ],
+        "publication": [
+          "b"
+        ],
+        "decision_date": "1981-12-07",
+        "solution": "rejet",
+        "type": "arret",
+        "summary": "Les dispositions relatives aux courtes prescriptions étant de droit strict, l'action dont l'objet est l'ouverture d'une procédure collective à l'encontre du dirigeant social auquel est reproché un des agissements prévus à l'article 101 de la loi du 13 juillet 1967 ne rentre pas dans les prévisions de l'article 53 de la loi du 24 juillet 1966 qui soumet à la prescription de trois ans les seules actions en responsabilité visées aux articles 50 et 52 de cette dernière loi.",
+        "themes": [
+          "faillite reglement judiciaire liquidation des biens",
+          "personne morale",
+          "dirigeants sociaux",
+          "règlement judiciaire ou liquidation des biens",
+          "action en justice",
+          "prescription",
+          "prescription triennale prévue par l'article 53 de la loi du 24 juillet 1966 (non)",
+          "prescription civile",
+          "courtes prescriptions",
+          "application restrictive",
+          "societe a responsabilite limitee",
+          "gérant",
+          "responsabilité",
+          "action",
+          "prescription triennale",
+          "domaine d'application",
+          "action en règlement judiciaire ou liquidation des biens du dirigeant d'une personne morale (non)"
+        ],
+        "files": [],
+        "titlesAndSummaries": [],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9490657230474249,
+        "highlights": {
+          "text": [
+            "…... étant nommé liquidateur ; que ce dernier a assigné en <em>responsabilité</em> pour insuffisance d'actif M",
+            "Y... à combler l'insuffisance d'actif de la société Sedna santé, sur la <em>responsabilité</em> personnelle de",
+            "de l'article L 651-1 du même Code, rendant applicable le régime de la <em>responsabilité</em> pour insuffisance",
+            "Y... à combler l'insuffisance d'actif de la société Sedna Santé, sur la <em>responsabilité</em> personnelle de",
+            "de l'article L 651-1 du même Code, rendant applicable le régime de la <em>responsabilité</em> pour insuffisance"
+          ]
+        },
+        "id": "6079e0329ba5988459c5c0ab",
+        "jurisdiction": "cc",
+        "chamber": "comm",
+        "number": "12-16.099",
+        "numbers": [
+          "12-16.099"
+        ],
+        "ecli": "ECLI:FR:CCASS:2013:CO01115",
+        "publication": [
+          "b"
+        ],
+        "decision_date": "2013-11-19",
+        "solution": "rejet",
+        "type": "arret",
+        "summary": "L'article L. 651-1 du code de commerce, selon lequel les dispositions relatives à la responsabilité pour insuffisance d'actif sont applicables aux dirigeants d'une personne morale de droit privé soumise à une procédure collective ainsi qu'aux personnes physiques représentants permanents de ces dirigeants personnes morales, ne subordonne pas la condamnation du représentant permanent de la personne morale à la condamnation de celle-ci",
+        "themes": [
+          "entreprise en difficulte (loi du 26 juillet 2005)",
+          "responsabilités et sanctions",
+          "responsabilité pour insuffisance d'actif",
+          "dirigeants visés",
+          "représentants permanents des dirigeants personnes morales",
+          "conditions",
+          "condamnation de la personne morale représentée (non)"
+        ],
+        "files": [],
+        "titlesAndSummaries": [],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9450366595160158,
+        "highlights": {
+          "text": [
+            "n'était pas séparable des fonctions de <em>dirigeant</em> ; qu'il ajoute que la société STS a négocié avec une",
+            "D'AVOIR débouté les époux …... de leurs demandes en réparation dirigée à l'encontre de Madame Y..., <em>dirigeante</em>",
+            "n'est pas séparable des fonctions de <em>dirigeant</em> ; qu'il s'en déduit que la <em>responsabilité</em> civile personnelle",
+            "qu'en omettant sciemment de satisfaire à son obligation d'assurance en matière de construction le <em>dirigeant</em>",
+            "son gérant, Madame Y... car la faute pénale ainsi commise n'est pas détachable de ses fonctions de <em>dirigeante</em>"
+          ]
+        },
+        "id": "6079de659ba5988459c5bfe2",
+        "jurisdiction": "cc",
+        "chamber": "comm",
+        "number": "09-66.255",
+        "numbers": [
+          "09-66.255"
+        ],
+        "ecli": "ECLI:FR:CCASS:2010:CO00915",
+        "publication": [
+          "b"
+        ],
+        "decision_date": "2010-09-28",
+        "solution": "cassation",
+        "type": "arret",
+        "summary": "Le gérant d'une société à responsabilité limitée qui commet une faute constitutive d'une infraction pénale intentionnelle, séparable comme telle de ses fonctions sociales, engage sa responsabilité civile à l'égard des tiers à qui cette faute a porté préjudice.\nViole dès lors l'article L. 223-22 du code de commerce, ensemble l'article L. 243-3 du code des assurances, la cour d'appel qui, pour rejeter la demande de dommages-intérêts formée à l'encontre de la gérante d'une société à responsabilité limitée, retient que, même constitutif du délit prévu et réprimé par les articles L. 111-34 du code de la construction et de l'habitation et L. 243-3 du code des assurances, et caractérisant une abstention fautive imputable à la gérante, le défaut de souscription des assurances obligatoires de dommages et de responsabilité n'était pas séparable des fonctions de dirigeant, alors qu'il résultait de ses constatations que la gérante avait sciemment accepté d'ouvrir un chantier sans que la société fût couverte par une assurance",
+        "themes": [
+          "societe a responsabilite limitee",
+          "gérant",
+          "responsabilité civile",
+          "responsabilité à l'égard des tiers",
+          "conditions",
+          "faute séparable des fonctions",
+          "cas",
+          "infraction pénale intentionnelle",
+          "défaut de souscription des assurances obligatoires de dommages et de responsabilité assurance responsabilite",
+          "assurance obligatoire",
+          "travaux de bâtiment",
+          "construction",
+          "souscription d'une assurance responsabilité",
+          "défaut",
+          "effets",
+          "infraction pénale",
+          "infraction séparable des fonctions de gérant d'une société assurance dommages",
+          "assurance dommages",
+          "ouvrage",
+          "souscription d'une assurance dommages",
+          "infraction séparable des fonctions de gérant d'une société"
+        ],
+        "files": [],
+        "titlesAndSummaries": [],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9448927537961277,
+        "highlights": {
+          "text": [
+            "Pierre et Marcel …..., le premier en tant que gérant de la société à <em>responsabilité</em> limitée Saintonge",
+            "Bâtiment, en liquidation des biens, le second comme <em>dirigeant</em> de fait de celle-ci, à payer au syndic",
+            "les <em>dirigeants</em> impliqués doivent faire la preuve qu'ils ont apporté à la gestion des affaires sociales",
+            "Pierre …..., <em>dirigeant</em> de droit de la société débitrice n'a pas justifié devant les juges du fond qu'il",
+            "Marcel …..., <em>dirigeant</em> de fait de la société Saintonge Bâtiment, et de l'avoir condamné en conséquence"
+          ]
+        },
+        "id": "6079d3679ba5988459c5902d",
+        "jurisdiction": "cc",
+        "chamber": "comm",
+        "number": "85-18.811",
+        "numbers": [
+          "85-18.811"
+        ],
+        "publication": [
+          "b"
+        ],
+        "decision_date": "1987-05-26",
+        "solution": "rejet",
+        "type": "arret",
+        "summary": "Les dispositions de l'article 99 de la loi du 13 juillet 1967 ne sont contraires ni à celles de l'article 6 de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales, ni à celles de l'article 1er du protocole additionnel à cette convention",
+        "themes": [
+          "reglement judiciaire, liquidation des biens (loi du 13 juillet 1967)",
+          "personne morale",
+          "dirigeants sociaux",
+          "paiement des dettes sociales",
+          "article 99 de la loi du 13 juillet 1967",
+          "action introduite sur son fondement",
+          "action contraire à la convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales (non)",
+          "convention europeenne des droits de l'homme",
+          "interprétation",
+          "article 6",
+          "règlement judiciaire ou liquidation des biens",
+          "personnes morales",
+          "action fondée sur l'article 99 de la loi du 13 juillet 1967",
+          "premier protocole additionnel",
+          "article 1er",
+          "droit au respect de ses biens",
+          "responsabilité pécuniaire des dirigeants sociaux"
+        ],
+        "files": [],
+        "titlesAndSummaries": [],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9431168148324931,
+        "highlights": {
+          "text": [
+            "qui il impute des fautes de gestion, l'action en <em>responsabilité</em> qui appartient exclusivement aux",
+            "…..., Y... et Z... font le même grief à l'arrêt, alors, selon le moyen\nque l'action en <em>responsabilité</em>",
+            "est séparable de ses fonctions et permet d'engager sa <em>responsabilité</em> personnelle lorsque celui-ci a",
+            "qui il impute des fautes de gestion, l'action en <em>responsabilité</em> qui appartient exclusivement aux",
+            "personnelle des <em>dirigeants</em> ; qu'il ne peut être utilement soutenu en effet que, dès lors que les <em>dirigeants</em>"
+          ]
+        },
+        "id": "6079d8669ba5988459c5bd3d",
+        "jurisdiction": "cc",
+        "chamber": "comm",
+        "number": "08-21.547",
+        "numbers": [
+          "08-21.547",
+          "08-21.793"
+        ],
+        "ecli": "ECLI:FR:CCASS:2010:CO00294",
+        "publication": [
+          "b"
+        ],
+        "decision_date": "2010-03-09",
+        "solution": "cassation",
+        "type": "arret",
+        "summary": "La recevabilité de l'action exercée par un associé à l'encontre des dirigeants d'une société faisant l'objet d'une procédure collective, pour des faits antérieurs au jugement d'ouverture, est subordonnée à l'allégation d'un préjudice personnel, peu important que la procédure collective fasse apparaître une insuffisance d'actif",
+        "themes": [
+          "entreprise en difficulte (loi du 25 janvier 1985)",
+          "responsabilité",
+          "dirigeant social",
+          "faits antérieurs au jugement d'ouverture",
+          "responsabilité personnelle",
+          "conditions",
+          "préjudice personnel distinct résultant d'une faute séparable des fonctions",
+          "societe anonyme",
+          "administrateur",
+          "faute",
+          "détermination",
+          "directeur général",
+          "actionnaires",
+          "actions",
+          "souscription",
+          "manquement à l'obligation d'information",
+          "préjudice",
+          "perte d'une chance",
+          "définition"
+        ],
+        "files": [],
+        "titlesAndSummaries": [],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9420079441381386,
+        "highlights": {
+          "text": [
+            "du code civil, à la suite de l'inexécution par une société Sarao de son engagement de caution, les <em>responsabilités</em>",
+            "du code civil, à la suite de l'inexécution par une société Sarao de son engagement de caution, les <em>responsabilités</em>",
+            "conditions et obligations et encourent les mêmes <em>responsabilités</em> civile et pénale que s'ils étaient",
+            "commerciales étaient incompétentes pour connaître de l'action en <em>responsabilité</em> exercée à l'encontre",
+            "Y..., <em>dirigeant</em> de la société Angel Gate, elle-même <em>dirigeante</em> de la société par actions simplifiée Air"
+          ]
+        },
+        "id": "6079d7a39ba5988459c5bceb",
+        "jurisdiction": "cc",
+        "chamber": "comm",
+        "number": "08-20.384",
+        "numbers": [
+          "08-20.384"
+        ],
+        "ecli": "ECLI:FR:CCASS:2009:CO00977",
+        "publication": [
+          "b"
+        ],
+        "decision_date": "2009-10-27",
+        "solution": "cassation",
+        "type": "arret",
+        "summary": "Viole l'article L. 721-3 du code de commerce, la cour d'appel statuant sur contredit, qui, pour écarter la compétence du tribunal de commerce, retient que, bien qu'il soit soutenu que des dirigeants sociaux auraient commis, à l'occasion de leur gestion, des fautes les rendant justiciables du tribunal de commerce, ces sociétés n'ont pas été appelées devant cette juridiction, alors que cette circonstance ne pouvait avoir pour effet de soustraire ces dirigeants à la compétence de la juridiction consulaire",
+        "themes": [
+          "tribunal de commerce",
+          "compétence",
+          "compétence matérielle",
+          "contestations relatives aux sociétés commerciales",
+          "domaine d'application",
+          "cas",
+          "action contre un dirigeant social à l'occasion de sa gestion d'une société commerciale",
+          "faits se rattachant par un lien direct à la gestion d'une société commerciale"
+        ],
+        "files": [],
+        "titlesAndSummaries": [],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9395036201865317,
+        "highlights": {
+          "text": [
+            "collective nationale des services de l'automobile, lequel correspondrait \"au degré d'autonomie et des <em>responsabilités</em>",
+            "Y..., gérant de la SARL MCA\" ; qu'en exonérant l'employeur de toute <em>responsabilité</em> des conséquences d'une",
+            "son rythme de travail démesuré et préjudiciable à sa santé\" ; qu'en exonérant l'employeur de toute <em>responsabilité</em>",
+            "doit remplir simultanément 4 conditions\ndiriger l'entreprise\navoir des <em>responsabilités</em>",
+            "doit remplir simultanément 4 conditions\ndiriger l'entreprise\navoir des <em>responsabilités</em>"
+          ]
+        },
+        "id": "6079c08c9ba5988459c57271",
+        "jurisdiction": "cc",
+        "chamber": "soc",
+        "number": "09-67.798",
+        "numbers": [
+          "09-67.798",
+          "10-17.552"
+        ],
+        "ecli": "ECLI:FR:CCASS:2011:SO02461",
+        "publication": [
+          "b"
+        ],
+        "decision_date": "2011-11-30",
+        "solution": "rejet",
+        "type": "arret",
+        "summary": "La carence fautive de l'employeur qui n'accomplit pas les diligences nécessaires à la mise en place d'institutions représentatives du personnel ne constitue pas un manquement de nature à fonder la résiliation judiciaire d'un contrat de travail à ses torts",
+        "themes": [
+          "representation des salaries",
+          "institution représentative du personnel",
+          "mise en place",
+          "obligation",
+          "carence",
+          "effets",
+          "résiliation judiciaire prononcée aux torts de l'employeur (non)",
+          "contrat de travail, execution",
+          "employeur",
+          "obligations",
+          "mise en place d'institutions représentatives du personnel"
+        ],
+        "files": [],
+        "titlesAndSummaries": [],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9381385074756394,
+        "highlights": {
+          "text": [
+            "Mardochée et Roland font grief à l'arrêt d'avoir ordonné une expertise in futurum, pour rechercher la <em>responsabilité</em>",
+            "des <em>dirigeants</em> des sociétés Ibertrans et Iberfrance dans leur mise en liquidation judiciaire, alors",
+            "des <em>dirigeants</em> de ces sociétés pouvait être engagée, et qu'il ne lui était pas demandé de simplement",
+            "des <em>dirigeants</em> ; qu'en statuant ainsi, la cour d'appel a violé l'article 145 du nouveau Code de procédure",
+            "tant des dispositions des articles 178 à 195 de la loi du 25 janvier 1985, que du droit commun de la <em>responsabilité</em>"
+          ]
+        },
+        "id": "6079d3589ba5988459c58743",
+        "jurisdiction": "cc",
+        "chamber": "comm",
+        "number": "95-13.477",
+        "numbers": [
+          "95-13.477"
+        ],
+        "publication": [
+          "b"
+        ],
+        "decision_date": "1997-10-01",
+        "solution": "rejet",
+        "type": "arret",
+        "summary": "Ayant souverainement retenu, par une décision motivée, qu'un liquidateur judiciaire avait un intérêt légitime à la mesure sollicitée, une cour d'appel, statuant en référé, ne fait qu'user des pouvoirs qu'elle tient de l'article 145 du nouveau Code de procédure civile en donnant à un expert mission de relever tous faits pouvant entraîner la mise en cause de la responsabilité de tous intervenants dans la gestion, l'exploitation et le financement des sociétés mises en liquidation, ce en vertu tant des dispositions des articles 178 à 195 de la loi du 25 janvier 1985, que du droit commun de la responsabilité civile et de fournir au tribunal tous éléments de fait lui permettant de statuer ultérieurement au fond sur les responsabilités éventuellement encourues.",
+        "themes": [
+          "refere",
+          "sauvegarde d'éléments de preuve avant tout procès",
+          "applications diverses",
+          "redressement et liquidation judiciaires",
+          "responsabilité des dirigeants sociaux",
+          "motif légitime",
+          "appréciation souveraine"
+        ],
+        "files": [],
+        "titlesAndSummaries": [],
+        "particularInterest": false
+      }
+    ],
+    "relaxed": false,
+    "searchQuery": "{\"index\":\"judilibre_0\",\"preference\":\"preventbouncingresults\",\"explain\":false,\"from\":10,\"size\":10,\"_source\":true,\"body\":{\"track_scores\":true,\"query\":{\"function_score\":{\"query\":{\"bool\":{\"filter\":[{\"terms\":{\"jurisdiction\":[\"cc\"]}}],\"must\":{\"simple_query_string\":{\"query\":\"responsabilité dirigeant\",\"fields\":[\"text\"],\"default_operator\":\"OR\",\"auto_generate_synonyms_phrase_query\":true,\"fuzzy_max_expansions\":50,\"fuzzy_transpositions\":true}}}},\"boost\":5,\"functions\":[{\"filter\":{\"match\":{\"publication\":\"b\"}},\"weight\":50},{\"filter\":{\"match\":{\"publication\":\"r\"}},\"weight\":10},{\"filter\":{\"match\":{\"publication\":\"c\"}},\"weight\":5},{\"filter\":{\"match\":{\"publication\":\"l\"}},\"weight\":2},{\"filter\":{\"match\":{\"publication\":\"n\"}},\"weight\":0.1},{\"filter\":{\"match\":{\"lowInterest\":true}},\"weight\":0.1},{\"filter\":{\"match\":{\"jurisdiction\":\"ca\"}},\"weight\":0.1},{\"filter\":{\"match\":{\"jurisdiction\":\"tj\"}},\"weight\":0.1},{\"filter\":{\"match\":{\"jurisdiction\":\"tcom\"}},\"weight\":0.1}],\"score_mode\":\"max\",\"boost_mode\":\"multiply\"}},\"sort\":[{\"_score\":\"desc\"},{\"decision_date\":\"desc\"}],\"highlight\":{\"fields\":{\"text\":{}}}}}",
+    "date": "2026-07-10T15:32:36.987Z"
+  },
+  "faute_detachable": {
+    "page": 1,
+    "page_size": 10,
+    "query": {
+      "query": "faute détachable",
+      "page": 1,
+      "pageSize": "10",
+      "field": [],
+      "type": [],
+      "theme": [],
+      "chamber": [],
+      "formation": [],
+      "jurisdiction": [],
+      "location": [],
+      "publication": [],
+      "solution": []
+    },
+    "total": 124866,
+    "previous_page": "query=faute+d%C3%A9tachable&page=0&pageSize=10",
+    "next_page": "query=faute+d%C3%A9tachable&page=2&pageSize=10",
+    "took": 92,
+    "max_score": 3410.4072,
+    "results": [
+      {
+        "score": 0.9674437117069187,
+        "highlights": {
+          "text": [
+            "commises par le docteur Y... n'ont en rien le caractère de la <em>faute</em> personnelle <em>détachable</em> du service",
+            "commise par le prévenu n'avait pas le caractère d'une <em>faute</em> personnelle <em>détachable</em> du service\nAttendu",
+            "qu'ils ont ainsi définies \" n'ont en rien le caractère de la <em>faute</em> personnelle <em>détachable</em> du service",
+            "personnelle <em>détachable</em> en raison de sa nature inexcusable de la fonction exercée et donc soumise, aux",
+            "fins de réparation du préjudice causé, à l'examen de la juridiction répressive, mais d'une <em>faute</em> de"
+          ]
+        },
+        "id": "6079a8389ba5988459c4c243",
+        "jurisdiction": "cc",
+        "chamber": "cr",
+        "number": "84-93.325",
+        "numbers": [
+          "84-93.325"
+        ],
+        "publication": [
+          "b"
+        ],
+        "decision_date": "1986-10-07",
+        "solution": "rejet",
+        "type": "arret",
+        "summary": "Justifie sa décision la Cour d'appel qui, après avoir analysé les fautes commises par un chirurgien employé à temps plein dans un établissement hospitalier public, relève notamment, pour estimer que celles-ci ne revêtent pas le caractère de fautes personnelles détachables du service \" qu'elles consistent en une négligence et une erreur dans l'appréciation de la gravité de l'état du malade et ne sont pas le signe d'une carence particulièrement lourde \".",
+        "themes": [
+          "separation des pouvoirs",
+          "agent d'un service public",
+          "délit commis dans l'exercice des fonctions",
+          "faute non détachable du service",
+          "application",
+          "chirurgien des hopitaux",
+          "action civile",
+          "compétence administrative"
+        ],
+        "files": [],
+        "titlesAndSummaries": [],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9642488439503647,
+        "highlights": {
+          "text": [
+            "d'apprécier si dans l'exécution de la tâche dont il était le maître-d\"oeuvre, il n'a pas commis une <em>faute</em>",
+            "de mesures imposant une protection du puits litigieux qui lui est reprochée, constituerait non une <em>faute</em>",
+            "personnelle mais une <em>faute</em> non <em>détachable</em> de la fonction de maire ; que, dès lors, la juridiction correctionnelle",
+            "Alexandre\nAttendu que, contrairement à ce que soutient le moyen, l'existence présumée d'une <em>faute</em>",
+            "rend le demandeur justiciable des tribunaux répressifs, la notion de <em>faute</em> <em>détachable</em> ou non <em>détachable</em>"
+          ]
+        },
+        "id": "6079a80e9ba5988459c4bb41",
+        "jurisdiction": "cc",
+        "chamber": "cr",
+        "number": "79-94.117",
+        "numbers": [
+          "79-94.117"
+        ],
+        "publication": [
+          "b"
+        ],
+        "decision_date": "1980-07-08",
+        "solution": "rejet",
+        "type": "arret",
+        "summary": "Les tribunaux de l'ordre judiciaire sont seuls compétents sauf disposition de la loi, pour l'instruction et le jugement des infractions pénales commises par un maire dans l'exercice des fonctions, que la faute soit détachable ou non de la fonction.",
+        "themes": [
+          "separation des pouvoirs",
+          "agent d'un service public",
+          "délit commis dans l'exercice des fonctions",
+          "compétence des tribunaux répressifs de l'ordre judiciaire",
+          "crimes et delits commis par des magistrats et certains fonctionnaires",
+          "crimes et délits commis dans l'exercice des fonctions",
+          "compétence",
+          "tribunaux répressifs de l'ordre judiciaire"
+        ],
+        "files": [],
+        "titlesAndSummaries": [],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9635517424429552,
+        "highlights": {
+          "text": [
+            "<em>détachable</em> des fonctions de l'agent public ; qu'en l'espèce, en énonçant, pour retenir la compétence",
+            "du juge judiciaire, que les <em>fautes</em> relevées à l'encontre de M",
+            "Y], dont le caractère volontaire n'est pas établi, ne caractérisent pas une <em>faute</em> personnelle <em>détachable</em>",
+            "<em>détachable</em> des fonctions de l'agent public ; qu'en l'espèce, en énonçant, pour retenir la compétence",
+            "E] [B] avait commis de son plein gré une <em>faute</em> inexcusable constitutive d'une <em>faute</em> <em>détachable</em> du service"
+          ]
+        },
+        "id": "63c79ef0da31367c908eb8fc",
+        "jurisdiction": "cc",
+        "chamber": "civ1",
+        "number": "21-13.369",
+        "numbers": [
+          "21-13.369"
+        ],
+        "ecli": "ECLI:FR:CCASS:2023:C100052",
+        "formation": "frh",
+        "publication": [
+          "b"
+        ],
+        "decision_date": "2023-01-18",
+        "solution": "cassation",
+        "type": "other",
+        "summary": "Il résulte des dispositions combinées des articles 550, 551 et 68, alinéa 1, du code de procédure civile qu'une partie peut former appel incident, en intimant l'appelant principal d'un jugement qui a statué exclusivement sur la compétence, par conclusions notifiées aux parties à l'instance contre lesquelles il est dirigé, sans être tenu aux délai et formes prévus par les articles 84 et 85 du code précité, propres à l'appelant principal",
+        "themes": [
+          "appel civil",
+          "procédure avec représentation obligatoire",
+          "appel de la décision statuant exclusivement sur la compétence",
+          "appel incident",
+          "appel formé par conclusions notifiées aux parties à l'instance",
+          "articles 84 et 85 du code de procédure civile",
+          "application (non)"
+        ],
+        "files": [],
+        "titlesAndSummaries": [
+          {
+            "titles": [
+              "APPEL CIVIL",
+              "Procédure avec représentation obligatoire",
+              "Appel de la décision statuant exclusivement sur la compétence",
+              "Appel incident",
+              "Appel formé par conclusions notifiées aux parties à l'instance",
+              "Articles 84 et 85 du code de procédure civile",
+              "Application (non)"
+            ],
+            "summary": "Il résulte des dispositions combinées des articles 550, 551 et 68, alinéa 1, du code de procédure civile qu'une partie peut former appel incident, en intimant l'appelant principal d'un jugement qui a statué exclusivement sur la compétence, par conclusions notifiées aux parties à l'instance contre lesquelles il est dirigé, sans être tenu aux délai et formes prévus par les articles 84 et 85 du code précité, propres à l'appelant principal",
+            "secondaryTitles": []
+          },
+          {
+            "titles": [
+              "SEPARATION DES POUVOIRS",
+              "Service public",
+              "Agents et employés",
+              "Dommages causés par eux dans l'exercice de leurs fonctions",
+              "Faute détachable",
+              "Action en responsabilité",
+              "Compétence judiciaire"
+            ],
+            "summary": "Un agent public n'engage sa responsabilité personnelle devant la juridiction judiciaire que dans le cas d'une faute personnelle détachable du service, caractérisée par un manquement volontaire et inexcusable à des obligations d'ordre professionnel et déontologique. Dès lors, viole la loi des 16-24 août 1790 et le décret du 16 fructidor an III la cour d'appel qui, pour écarter une exception d'incompétence au profit de la juridiction administrative, retient qu'un médecin stomatologue exerçant son activité en secteur public n'a pas pris en charge une patiente conformément aux bonnes pratiques, qu'en dépit de l'examen pratiqué et des douleurs et malaises rapportés, il n'a ni proposé d'hospitalisation ni fait procéder à un scanner en urgence, que le traitement prescrit était inadapté et insuffisant au vu du tableau clinique et qu'il a ainsi laissé une cellulite évoluer vers une forme diffusée qui aurait pu engager le pronostic vital de la patiente et que ces manquements, ne constituant pas de simples retard, négligence ou désinvolture, caractérisent en raison de leur gravité une faute personnelle dépourvue de tout lien avec le service public, de tels motifs étant impropres à caractériser un manquement volontaire et inexcusable du médecin à ses obligations professionnelles et déontologiques",
+            "secondaryTitles": [
+              [
+                "FONCTIONNAIRES ET AGENTS PUBLICS",
+                "Responsabilité",
+                "Faute",
+                "Faute détachable des fonctions",
+                "Définition",
+                "Faute personnelle",
+                "Caractérisation"
+              ]
+            ]
+          }
+        ],
+        "particularInterest": false
+      },
+      {
+        "score": 0.96292079139406,
+        "highlights": {
+          "text": [
+            "A..., le caractère <em>détachable</em> de cette <em>faute</em> du dirigeant de ses fonctions sociales n'est pas sans incidence",
+            "prouvée qu'elle soit ou non <em>détachable</em> de ses fonctions sociales ; qu'il ne saurait en résulter une",
+            "pénale intentionnelle du dirigeant constitue ipso facto une <em>faute</em> <em>détachable</em> des fonctions, en sorte",
+            "A..., le caractère <em>détachable</em> de cette <em>faute</em> du dirigeant de ses fonctions sociales n'est pas sans incidence",
+            "pénale intentionnelle du dirigeant constitue ipso facto une <em>faute</em> <em>détachable</em> des fonctions, en sorte"
+          ]
+        },
+        "id": "5fca67b1c864315129fc468a",
+        "jurisdiction": "cc",
+        "chamber": "comm",
+        "number": "16-26.962",
+        "numbers": [
+          "16-26.962"
+        ],
+        "ecli": "ECLI:FR:CCASS:2019:CO00659",
+        "formation": "frh",
+        "publication": [
+          "b"
+        ],
+        "decision_date": "2019-09-18",
+        "solution": "rejet",
+        "type": "other",
+        "summary": "Le dirigeant social d'une société détient un pouvoir de représentation de la société d'origine légale, de sorte que les dispositions spécifiques du code civil régissant le mandat n'ont pas vocation à s'appliquer dans les rapports entre la société et son dirigeant",
+        "themes": [
+          "societe commerciale (règles générales)",
+          "dirigeant social",
+          "origine légale du pouvoir de représentation de la société",
+          "rapports entre la société et son dirigeant",
+          "règles du mandat prévues par le code civil",
+          "application (non)"
+        ],
+        "files": [],
+        "titlesAndSummaries": [
+          {
+            "titles": [
+              "SOCIETE COMMERCIALE (règles générales)",
+              "Dirigeant social",
+              "Origine légale du pouvoir de représentation de la société",
+              "Rapports entre la société et son dirigeant",
+              "Règles du mandat prévues par le code civil",
+              "Application (non)"
+            ],
+            "summary": "Le dirigeant social d'une société détient un pouvoir de représentation de la société d'origine légale, de sorte que les dispositions spécifiques du code civil régissant le mandat n'ont pas vocation à s'appliquer dans les rapports entre la société et son dirigeant",
+            "secondaryTitles": []
+          }
+        ],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9613538230859939,
+        "highlights": {
+          "text": [
+            "personnelle <em>détachable</em> de la mission de service public qui lui avait été confiée alors que, d'une part",
+            "service public, la simple imprudence qui lui est imputée, fût-elle grave, ne peut caractériser une <em>faute</em>",
+            "personnelle <em>détachable</em> de sa mission de service public ; alors que, d'autre part et subsidiairement",
+            "en se bornant à affirmer \" l'absence de toute <em>faute</em> démontrée de la part de \" la ville de Vichy, sans",
+            "personnelle, <em>détachable</em> de la mission de service public, si elle présente une gravité certaine"
+          ]
+        },
+        "id": "60794cc59ba5988459c46d23",
+        "jurisdiction": "cc",
+        "chamber": "civ1",
+        "number": "95-21.583",
+        "numbers": [
+          "95-21.583",
+          "95-22.115"
+        ],
+        "publication": [
+          "b"
+        ],
+        "decision_date": "1997-10-21",
+        "solution": "rejet",
+        "type": "arret",
+        "summary": "Une imprudence peut constituer une faute personnelle détachable de la mission de service public si elle présente une gravité certaine.",
+        "themes": [
+          "separation des pouvoirs",
+          "service public",
+          "particuliers chargés d'une mission de service public",
+          "dommages causés par eux dans l'exercice de leur mission",
+          "faute détachable de la mission",
+          "imprudence",
+          "acte pouvant constituer une faute personnelle",
+          "conditions",
+          "gravité certaine",
+          "acte involontaire"
+        ],
+        "files": [],
+        "titlesAndSummaries": [],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9592916646434478,
+        "highlights": {
+          "text": [
+            "<em>détachable</em> de la fonction, et que l'omission involontaire, sur le lieu où l'accident s'est produit",
+            "l'exercice de ses fonctions sans pouvoir être considérée comme une <em>faute</em> personnelle <em>détachable</em> du service",
+            "commise par la SEPAD ne peut être assimilée à une <em>faute</em> <em>détachable</em> du service et que les juridictions",
+            "même involontaire, peut constituer une <em>faute</em> personnelle <em>détachable</em> du service lorsqu'elle présente",
+            "<em>détachable</em> du service, qu'il ne s'agissait pas d'une <em>faute</em> volontaire mais d'une omission involontaire"
+          ]
+        },
+        "id": "607956a99ba5988459c492d4",
+        "jurisdiction": "cc",
+        "chamber": "civ1",
+        "number": "09-10.560",
+        "numbers": [
+          "09-10.560"
+        ],
+        "ecli": "ECLI:FR:CCASS:2010:C100341",
+        "publication": [
+          "b"
+        ],
+        "decision_date": "2010-03-31",
+        "solution": "cassation",
+        "type": "arret",
+        "summary": "Une personne morale de droit privé, chargée de l'exploitation d'un domaine skiable, assure un service public industriel et commercial et les liens unissant un tel service à ses usagers sont des liens de droit privé, de sorte que les juridictions de l'ordre judiciaire sont seules compétentes pour connaître de l'action en déclaration de responsabilité et réparation des dommages exercée par l'usager, victime d'un accident de ski alors qu'il empruntait le talus formé par le damage de l'aire de départ du télésiège",
+        "themes": [
+          "separation des pouvoirs",
+          "compétence judiciaire",
+          "domaine d'application",
+          "litige opposant un service public industriel et commercial à ses usagers",
+          "applications diverses",
+          "tourisme",
+          "equipements et aménagements",
+          "aménagements des espaces à vocation touristique",
+          "montagne",
+          "remontées mécaniques et pistes de ski",
+          "services des remontées mécaniques et pistes de ski",
+          "nature",
+          "détermination",
+          "portée"
+        ],
+        "files": [],
+        "titlesAndSummaries": [],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9579018599303919,
+        "highlights": {
+          "text": [
+            "commise par Patrick Y... était une <em>faute</em> non <em>détachable</em> du service, et que les juridictions judiciaires",
+            "non <em>détachable</em> du service et dont le contentieux relève des juridictions administratives\nalors, d'une",
+            "personnelle <em>détachable</em> du service, relèvent de la compétence des tribunaux judiciaires ; qu'en l'espèce",
+            "personnelle <em>détachable</em> du service\nAttendu qu'il résulte de l'arrêt attaqué et des pièces de procédure",
+            "commise n'est pas <em>détachable</em> du service et que le contentieux de sa réparation relève des juridictions"
+          ]
+        },
+        "id": "614032eb5de709d63d36b2b6",
+        "jurisdiction": "cc",
+        "chamber": "cr",
+        "number": "08-84.339",
+        "numbers": [
+          "08-84.339"
+        ],
+        "ecli": "ECLI:FR:CCASS:2009:CR00987",
+        "publication": [
+          "b"
+        ],
+        "decision_date": "2009-02-10",
+        "solution": "cassation",
+        "type": "arret",
+        "summary": "Si la responsabilité de l'Etat est engagée en raison des fautes commises par ses agents lorsqu'elles ne sont pas dépourvues de tout lien avec le service, cette responsabilité n'est pas exclusive de celle des fonctionnaires auxquels est reprochée une faute personnelle détachable du service.\nEncourt la cassation l'arrêt d'une cour d'appel qui, après avoir condamné un fonctionnaire de la police nationale pour des violences aggravées commises sur le conducteur d'un véhicule qu'il venait d'interpeller, en lui portant des coups de poing au visage et en usant de \"bien plus de force que nécessaire\", se déclare incompétente pour connaître des demandes en réparation formées par la partie civile à l'encontre du policier, aux motifs que, si les violences exercées par le policier constituent une infraction pénale, elles l'ont été avec les moyens du service et à l'occasion de l'interpellation d'un délinquant, de sorte que la faute commise n'est pas détachable du service et que le contentieux de sa réparation relève des juridictions administratives",
+        "themes": [
+          "separation des pouvoirs",
+          "agent d'un service public",
+          "délit commis dans l'exercice des fonctions",
+          "faute personnelle détachable",
+          "définition",
+          "action civile",
+          "compétence judiciaire competence",
+          "compétence d'attribution",
+          "juridictions correctionnelles",
+          "délit commis dans l'exercice de ses fonctions par un agent d'un service public"
+        ],
+        "files": [],
+        "titlesAndSummaries": [],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9563617505850914,
+        "highlights": {
+          "text": [
+            "que les tribunaux judiciaires sont incompétents pour réparer les conséquences dommageables d'une <em>faute</em>",
+            "non <em>détachable</em> du service engageant la responsabilité d'une personne morale de droit public ; que les",
+            "dont l'Agence nationale pour l'emploi a été déclarée coupable n'est pas <em>détachable</em> du service ; qu'il",
+            "<em>détachable</em> du service, celle commise par un agent de l'A.N.P.E. qui accomplit un acte contraire à sa",
+            "ainsi commise n'était pas une <em>faute</em> <em>détachable</em> du service, la cour d'appel a violé les textes susvisés"
+          ]
+        },
+        "id": "61403425e400c8da91d520c9",
+        "jurisdiction": "cc",
+        "chamber": "cr",
+        "number": "07-87.734",
+        "numbers": [
+          "07-87.734"
+        ],
+        "ecli": "ECLI:FR:CCASS:2008:CR05131",
+        "publication": [
+          "b"
+        ],
+        "decision_date": "2008-09-30",
+        "solution": "rejet",
+        "type": "arret",
+        "summary": "Il résulte de la loi des 16-24 août 1790 et du décret du 16 fructidor an III que, sauf dispositions contraires, les tribunaux judiciaires ne sont pas compétents pour réparer les conséquences dommageables d'une faute engageant la responsabilité d'une personne morale de droit public à l'occasion de la gestion d'un service public administratif",
+        "themes": [
+          "separation des pouvoirs",
+          "personne morale de droit public",
+          "faute commise à l'occasion de la gestion d'un service public administratif",
+          "action civile",
+          "compétence administrative"
+        ],
+        "files": [],
+        "titlesAndSummaries": [],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9443715987932467,
+        "highlights": {
+          "text": [
+            "PART, LE DELIT DE BLESSURES INVOLONTAIRES IMPUTE AU… PREVENUS, AGENTS D'UN SERVICE PUBLIC, N'EST PAS <em>DETACHABLE</em>",
+            "TOUT DROIT A AGIR DEVANT LE JUGE REPRESSIF DES LORS QUE L'ACTION PUBLIQUE EST DEFINITIVEMENT ETEINTE, <em>FAUTE</em>",
+            "L'E…ISTENCE D'UNE <em>FAUTE</em> PERSONNELLE <em>DETACHABLE</em> DE L'ACCOMPLISSEMENT DU SERVICE DONT ILS AVAIENT LA CHARGE",
+            "PERSONNELLE <em>DETACHABLE</em> DE LA FONCTION\nATTENDU QU'IL RESULTE DES ENONCIATIONS DE L'ARRET ATTAQUE",
+            "IMPUTEE A CEU…-CI PRESENTAIT LE CARACTERE D'UNE <em>FAUTE</em> PERSONNELLE <em>DETACHABLE</em> DE LA FONCTION, LA COUR"
+          ]
+        },
+        "id": "6079a8089ba5988459c4b9f4",
+        "jurisdiction": "cc",
+        "chamber": "cr",
+        "number": "81-90.228",
+        "numbers": [
+          "81-90.228"
+        ],
+        "publication": [
+          "b"
+        ],
+        "decision_date": "1981-10-28",
+        "solution": "cassation",
+        "type": "arret",
+        "summary": "Encourt la cassation l'arrêt qui, après avoir reconnu deux agents hospitaliers coupables de blessures involontaires, se prononce sur leur responsabilité civile sans avoir recherché si la faute qui leur était imputée présentait le caractère d'une faute personnelle détachable de la fonction (1).",
+        "themes": [
+          "1) separation des pouvoirs",
+          "agent d'un service public",
+          "délit commis dans l'exercice des fonctions",
+          "faute personnelle détachable",
+          "action civile",
+          "compétence judiciaire",
+          "agents hospitaliers",
+          "2) cassation",
+          "moyen",
+          "moyen d'ordre public",
+          "exception d'incompétence des juridictions de l'ordre judiciaire",
+          "competence",
+          "exception d'incompétence",
+          "caractère d'ordre public"
+        ],
+        "files": [],
+        "titlesAndSummaries": [],
+        "particularInterest": false
+      },
+      {
+        "score": 0.9423770862318142,
+        "highlights": {
+          "text": [
+            "<em>détachable</em> a été faite par une décision du tribunal des conflits du 19 octobre 1998 (préfet du Tarn",
+            "personnelle <em>détachable</em> du service ; qu'il en résulte qu'il est sans conséquence sur la mise en cause",
+            "personnelle dépourvue de tout lien avec le service ou une <em>faute</em> personnelle <em>détachable</em> du service",
+            "personnelle dépourvue de tout lien avec le service ou une <em>faute</em> personnelle <em>détachable</em> du service, les",
+            "Gérard C\nconstituent des <em>fautes</em> non <em>détachables</em> du service\", la cour d'appel s'est contredite"
+          ]
+        },
+        "id": "6079a87a9ba5988459c4d6c4",
+        "jurisdiction": "cc",
+        "chamber": "cr",
+        "number": "00-86.726",
+        "numbers": [
+          "00-86.726",
+          "00-86.727",
+          "01-83.943",
+          "01-83.944",
+          "01-83.945",
+          "03-81.763"
+        ],
+        "publication": [
+          "b"
+        ],
+        "decision_date": "2004-10-13",
+        "solution": "rejet",
+        "type": "arret",
+        "summary": "L'exigence de motivation de l'ordonnance de renvoi devant le tribunal correctionnel, prévue par l'article 184 du Code de procédure pénale, est satisfaite lorsque le juge d'instruction rend une ordonnance conforme au réquisitoire motivé du procureur de la République et s'y réfère explicitement.",
+        "themes": [
+          "instruction",
+          "ordonnances",
+          "ordonnance de renvoi devant le tribunal correctionnel",
+          "motifs",
+          "ordonnance se référant explicitement au réquisitoire motivé du procureur de la république",
+          "validité",
+          "responsabilite penale",
+          "préfet",
+          "ordre illégal",
+          "cas",
+          "fonctionnaires et agents publics",
+          "fonctionnaires",
+          "responsabilité pénale",
+          "causes d'irresponsabilité ou d'atténuation",
+          "commandement de l'autorité légitime",
+          "obéissance à l'ordre d'un supérieur hiérarchique",
+          "exclusion",
+          "ordre manifestement illégal",
+          "délit commis dans l'exercice de ses fonctions par un agent d'un service public",
+          "faute non détachable du service",
+          "absence d'influence",
+          "separation des pouvoirs",
+          "agent d'un service public",
+          "délit commis dans l'exercice des fonctions",
+          "faute personnelle détachable",
+          "action civile",
+          "compétence judiciaire",
+          "competence",
+          "compétence d'attribution",
+          "juridictions correctionnelles",
+          "compétence administrative"
+        ],
+        "files": [],
+        "titlesAndSummaries": [],
+        "particularInterest": false
+      }
+    ],
+    "relaxed": false,
+    "searchQuery": "{\"index\":\"judilibre_0\",\"preference\":\"preventbouncingresults\",\"explain\":false,\"from\":10,\"size\":10,\"_source\":true,\"body\":{\"track_scores\":true,\"query\":{\"function_score\":{\"query\":{\"bool\":{\"filter\":[{\"terms\":{\"jurisdiction\":[\"cc\"]}}],\"must\":{\"simple_query_string\":{\"query\":\"faute détachable\",\"fields\":[\"text\"],\"default_operator\":\"OR\",\"auto_generate_synonyms_phrase_query\":true,\"fuzzy_max_expansions\":50,\"fuzzy_transpositions\":true}}}},\"boost\":5,\"functions\":[{\"filter\":{\"match\":{\"publication\":\"b\"}},\"weight\":50},{\"filter\":{\"match\":{\"publication\":\"r\"}},\"weight\":10},{\"filter\":{\"match\":{\"publication\":\"c\"}},\"weight\":5},{\"filter\":{\"match\":{\"publication\":\"l\"}},\"weight\":2},{\"filter\":{\"match\":{\"publication\":\"n\"}},\"weight\":0.1},{\"filter\":{\"match\":{\"lowInterest\":true}},\"weight\":0.1},{\"filter\":{\"match\":{\"jurisdiction\":\"ca\"}},\"weight\":0.1},{\"filter\":{\"match\":{\"jurisdiction\":\"tj\"}},\"weight\":0.1},{\"filter\":{\"match\":{\"jurisdiction\":\"tcom\"}},\"weight\":0.1}],\"score_mode\":\"max\",\"boost_mode\":\"multiply\"}},\"sort\":[{\"_score\":\"desc\"},{\"decision_date\":\"desc\"}],\"highlight\":{\"fields\":{\"text\":{}}}}}",
+    "date": "2026-07-10T15:32:37.278Z"
+  }
+}

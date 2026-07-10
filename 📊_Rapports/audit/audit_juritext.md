@@ -1,5 +1,15 @@
 # Rapport d'Audit JURITEXT — Mission M6
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_juritext.md ](.audit_juritext.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_juritext.md ](.audit_juritext.md)
+```
+
 **Date :** 10 juillet 2026  
 **Périmètre :** `⚖️_Actes/🔑_Token/` (dossiers 01 à 06)  
 **Méthode :** Extraction par grep + vérification API `openlegi_get_decision_judiciaire`  

@@ -1,5 +1,15 @@
 # Article L210-6
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L210-6_Codecommerce_Legifrance.md ](.Article_L210-6_Codecommerce_Legifrance.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L210-6_Codecommerce_Legifrance.md ](.Article_L210-6_Codecommerce_Legifrance.md)
+```
+
 > **Nature** : Code
 
 ---

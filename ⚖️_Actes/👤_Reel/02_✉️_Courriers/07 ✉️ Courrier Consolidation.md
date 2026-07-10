@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 07 ✉️ Courrier Consolidation.md ](.07 ✉️ Courrier Consolidation.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 07 ✉️ Courrier Consolidation.md ](.07 ✉️ Courrier Consolidation.md)
+```
+
 ---
 titre: Demande de Certificat Medical de Consolidation au Chirurgien SOS Main - Version réelle
 date: 2026-07-05
@@ -20,7 +28,6 @@ source: drive
 drive_id: 1PSv6c0YFvLa0WDEbwc3AVxL14z7ARi5ne50ctJgCvWI
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/07 ✉️ Courrier Consolidation.md
-token_path: ../../🔑_Token/02_✉️_Courriers/07 ✉️ Courrier Consolidation.md
 ---
 **Table des matieres**
 

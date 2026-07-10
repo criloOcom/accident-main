@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 14 ✉️ Courrier CODAF.md ](.14 ✉️ Courrier CODAF.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 14 ✉️ Courrier CODAF.md ](.14 ✉️ Courrier CODAF.md)
+```
+
 ---
 titre: Signalement Officiel au CODAF - Version réelle
 date: 2026-07-05
@@ -21,7 +29,6 @@ source: drive
 drive_id: 1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/14 ✉️ Courrier CODAF.md
-token_path: ../../🔑_Token/02_✉️_Courriers/14 ✉️ Courrier CODAF.md
 ---
 # SIGNALEMENT OFFICIEL AU COMITE DEPARTEMENTAL ANTI-FRAUDE DE L'ARIEGE
 Sébastien GRAZIDE

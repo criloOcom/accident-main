@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 06 📸 Requete Constat Huissier.md ](.06 📸 Requete Constat Huissier.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 06 📸 Requete Constat Huissier.md ](.06 📸 Requete Constat Huissier.md)
+```
+
 ---
 titre: Requête aux fins de constat d'huissier - Version réelle
 date: 2026-07-06
@@ -19,7 +27,6 @@ tags:
 statut: brouillon
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/06 📸 Requete Constat Huissier.md
-token_path: ../../🔑_Token/01_⚖️_Actes_proceduraux/06 📸 Requete Constat Huissier.md
 ---
 # REQUÊTE AUX FINS DE CONSTAT D'HUISSIER (ARTICLES 145 ET 873 CPC)
 **À l'attention de :** Tel huissier de justice territorialement compétent

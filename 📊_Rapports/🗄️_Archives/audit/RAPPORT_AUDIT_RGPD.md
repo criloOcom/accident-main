@@ -1,5 +1,15 @@
 # Audit RGPD et Anonymisation — Dossier Accident de la Main
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_AUDIT_RGPD.md ](.RAPPORT_AUDIT_RGPD.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_AUDIT_RGPD.md ](.RAPPORT_AUDIT_RGPD.md)
+```
+
 ## 1. Bilan des risques
 
 Le dossier juridique manipule des données à caractère personnel (DCP) hautement sensibles, notamment des données de santé (dossiers médicaux, préjudices corporels, etc.) soumises à l'article 9 du RGPD. Le risque principal réside dans la compromission de ces données en cas d'accès non autorisé au dépôt GitHub, qui est par nature un environnement moins sécurisé qu'un coffre-fort numérique qualifié.

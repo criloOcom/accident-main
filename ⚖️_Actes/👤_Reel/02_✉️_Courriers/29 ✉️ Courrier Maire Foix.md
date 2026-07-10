@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 29 ✉️ Courrier Maire Foix.md ](.29 ✉️ Courrier Maire Foix.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 29 ✉️ Courrier Maire Foix.md ](.29 ✉️ Courrier Maire Foix.md)
+```
+
 ---
 titre: Mise en demeure de la Mairie — Police Administrative - Version réelle
 date: 2026-07-09
@@ -15,7 +23,6 @@ tags:
 statut: final
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/29 ✉️ Courrier Maire Foix.md
-token_path: ../../🔑_Token/02_✉️_Courriers/29 ✉️ Courrier Maire Foix.md
 ---
 # LETTRE RECOMMANDÉE AVEC ACCUSÉ DE RÉCEPTION
 

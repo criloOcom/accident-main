@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ NOTE_SYNTHESE_AVOCAT.md ](.NOTE_SYNTHESE_AVOCAT.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ NOTE_SYNTHESE_AVOCAT.md ](.NOTE_SYNTHESE_AVOCAT.md)
+```
+
 ---
 format: Arial JUSTIFIED
 ---

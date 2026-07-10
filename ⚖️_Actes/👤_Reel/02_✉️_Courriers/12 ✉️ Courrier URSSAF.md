@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 12 ✉️ Courrier URSSAF.md ](.12 ✉️ Courrier URSSAF.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 12 ✉️ Courrier URSSAF.md ](.12 ✉️ Courrier URSSAF.md)
+```
+
 ---
 titre: Signalement de Travail Dissimule Presume - Version réelle
 date: 2026-07-05
@@ -19,7 +27,6 @@ source: drive
 drive_id: 1LdLfCnWLiD2v1N1SMF3FAeh681znM0kXOrAlBXeOe8w
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/12 ✉️ Courrier URSSAF.md
-token_path: ../../🔑_Token/02_✉️_Courriers/12 ✉️ Courrier URSSAF.md
 ---
 # SIGNALEMENT DE TRAVAIL DISSIMULE PRESUME
 Sébastien GRAZIDE

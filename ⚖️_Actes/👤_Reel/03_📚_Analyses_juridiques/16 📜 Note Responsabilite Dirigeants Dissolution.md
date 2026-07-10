@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 16 📜 Note Responsabilite Dirigeants Dissolution.md ](.16 📜 Note Responsabilite Dirigeants Dissolution.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 16 📜 Note Responsabilite Dirigeants Dissolution.md ](.16 📜 Note Responsabilite Dirigeants Dissolution.md)
+```
+
 ---
 titre: Note Responsabilité Dirigeants Dissolution - Version réelle
 date: 2026-07-09
@@ -19,7 +27,6 @@ tags:
 statut: final
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/16 📜 Note Responsabilite Dirigeants Dissolution.md
-token_path: ../../🔑_Token/03_📚_Analyses_juridiques/16 📜 Note Responsabilite Dirigeants Dissolution.md
 ---
 # NOTE JURIDIQUE SUR LA RESPONSABILITÉ DES DIRIGEANTS EN CAS DE DISSOLUTION FRAUDULEUSE
 

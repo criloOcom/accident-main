@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 11 ✉️ Courrier INPI.md ](.11 ✉️ Courrier INPI.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 11 ✉️ Courrier INPI.md ](.11 ✉️ Courrier INPI.md)
+```
+
 ---
 titre: Signalement de Litige au Registre National des Entreprises - Version réelle
 date: 2026-07-05
@@ -23,7 +31,6 @@ source: drive
 drive_id: 1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/11 ✉️ Courrier INPI.md
-token_path: ../../🔑_Token/02_✉️_Courriers/11 ✉️ Courrier INPI.md
 ---
 # DEMANDE DE SIGNALEMENT DE LITIGE AU REGISTRE NATIONAL DES ENTREPRISES
 Sébastien GRAZIDE

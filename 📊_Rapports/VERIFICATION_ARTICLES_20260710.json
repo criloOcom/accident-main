@@ -1,0 +1,60 @@
+{
+  "01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md": {
+    "LEGIARTI000042597284": {
+      "status": "✓ Valide",
+      "num": "835",
+      "texte": "Le président du tribunal judiciaire ou le juge des contentieux de la protection dans les limites de "
+    },
+    "LEGIARTI000032041571": {
+      "status": "✓ Valide",
+      "num": "1240",
+      "texte": "Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il "
+    },
+    "LEGIARTI000051786000": {
+      "status": "✓ Valide",
+      "num": "1242",
+      "texte": "On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui"
+    }
+  },
+  "01_⚖️_Actes_proceduraux/02 🚔 Plainte.md": {
+    "LEGIARTI000017735449": {
+      "status": "✗ Erreur: API client error 429 - {\"id\": \"LEGIARTI000017735449\"}",
+      "num": "N/A",
+      "texte": "N/A"
+    },
+    "LEGIARTI000006418734": {
+      "status": "✓ Valide",
+      "num": "435-6",
+      "texte": "Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues pa"
+    },
+    "LEGIARTI000006577625": {
+      "status": "✓ Valide",
+      "num": "9",
+      "texte": "La décision est notifiée à l'organisation nationale agréée de consommateurs qui en informe sans déla"
+    }
+  },
+  "01_⚖️_Actes_proceduraux/02b 🛡️ Constitution Partie Civile.md": {
+    "LEGIARTI000024042643": {
+      "status": "✓ Valide",
+      "num": "222-19",
+      "texte": "Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3"
+    },
+    "LEGIARTI000024042640": {
+      "status": "✓ Valide",
+      "num": "222-20",
+      "texte": "Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière  "
+    },
+    "LEGIARTI000006227036": {
+      "status": "✓ Valide",
+      "num": "L227-8",
+      "texte": "Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des soc"
+    }
+  },
+  "01_⚖️_Actes_proceduraux/03 🔍 Assignation Article 145.md": {
+    "LEGIARTI000017735449": {
+      "status": "✓ Valide",
+      "num": "L124-3",
+      "texte": "Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la respons"
+    }
+  }
+}

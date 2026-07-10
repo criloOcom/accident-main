@@ -1,5 +1,15 @@
 # Code pénal — Art. 222-19
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_222-19_CodePenal_Legifrance.md ](.Article_222-19_CodePenal_Legifrance.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_222-19_CodePenal_Legifrance.md ](.Article_222-19_CodePenal_Legifrance.md)
+```
+
 > **Nature** : Code
 
 ---

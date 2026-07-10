@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 📚 ANALYSE Jurisprudence.md ](.📚 ANALYSE Jurisprudence.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 📚 ANALYSE Jurisprudence.md ](.📚 ANALYSE Jurisprudence.md)
+```
+
 ---
 titre: Rapport d'Expertise Juridique — Analyse des Préjudices Corporels - Version réelle
 date: 2026-06-30
@@ -17,7 +25,6 @@ source: drive
 drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/06_🗄️_Archives/📚 ANALYSE Jurisprudence.md
-token_path: ../../🔑_Token/06_🗄️_Archives/📚 ANALYSE Jurisprudence.md
 ---
 **Table des matières**
 

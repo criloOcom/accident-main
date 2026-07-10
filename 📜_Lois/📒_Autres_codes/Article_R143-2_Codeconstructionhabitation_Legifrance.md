@@ -1,5 +1,15 @@
 # Articles R. 143-2 et suivants CCH
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_R143-2_Codeconstructionhabitation_Legifrance.md ](.Article_R143-2_Codeconstructionhabitation_Legifrance.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_R143-2_Codeconstructionhabitation_Legifrance.md ](.Article_R143-2_Codeconstructionhabitation_Legifrance.md)
+```
+
 > **Nature** : Code
 
 ---

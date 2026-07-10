@@ -1,5 +1,15 @@
 # 🏛️ Dossier Juridique « Accident Main » - Sébastien GRAZIDE
 
+
+```
+🏠 [Accueil](../README.md) > 📄 [ README.md ](.README.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📄 [ README.md ](.README.md)
+```
+
 **📅 Dernière mise à jour : 10 juillet 2026** | **🔴 Statut : Phase Judiciaire Active**
 
 ---
@@ -83,6 +93,7 @@
 | **TODO.md** | 🧠_Memory/ | Liste des tâches à faire |
 | **Assignation.md** | ⚖️_Actes/👤_Reel/01_... | Document principal à envoyer au tribunal |
 | **Courrier n°35** | ⚖️_Actes/👤_Reel/02_... | À envoyer **URGENT** au TJ Foix |
+| **Plainte n°36** | ⚖️_Actes/👤_Reel/02_... | Plainte complémentaire pour obstruction |
 
 ### 🎯 **Dossiers par Thème**
 
@@ -291,6 +302,7 @@ python3 .dev/app/sync_notebooklm.py
 
 ### 🔴 **URGENT (11-15 juillet 2026)**
 
+- [ ] 📋 **Déposer plainte n°36** au commissariat (obstruction à la justice)
 - [ ] ✉️ **Envoyer courrier n°35** au TJ Foix (LRAR)
 - [ ] 🕵️ **Trouver et mandater un huissier**
 - [ ] 📋 **Obtenir 3 attestations de témoins**

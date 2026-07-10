@@ -1,5 +1,15 @@
 # Code pénal — Art. 222-20
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article222-20_CodePenal_LegiFrance.md ](.Article222-20_CodePenal_LegiFrance.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article222-20_CodePenal_LegiFrance.md ](.Article222-20_CodePenal_LegiFrance.md)
+```
+
 > **Nature** : Code
 
 ---

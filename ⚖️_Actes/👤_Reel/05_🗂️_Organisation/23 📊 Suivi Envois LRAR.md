@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 23 📊 Suivi Envois LRAR.md ](.23 📊 Suivi Envois LRAR.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 23 📊 Suivi Envois LRAR.md ](.23 📊 Suivi Envois LRAR.md)
+```
+
 ---
 titre: Suivi des Envois LRAR - Version réelle
 date: 2026-07-11
@@ -14,7 +22,6 @@ tags:
 statut: preparation
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/05_🗂️_Organisation/23 📊 Suivi Envois LRAR.md
-token_path: ../../🔑_Token/05_🗂️_Organisation/23 📊 Suivi Envois LRAR.md
 ---
 # SUIVI DES ENVOIS LRAR
 

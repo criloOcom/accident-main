@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 11 💰 Etude indemnisation.md ](.11 💰 Etude indemnisation.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 11 💰 Etude indemnisation.md ](.11 💰 Etude indemnisation.md)
+```
+
 ---
 titre: Étude d'Indemnisation Maximale (Nomenclature Dintilhac) - Version réelle
 date: 2026-06-30
@@ -18,7 +26,6 @@ source: drive
 drive_id: 1PiBFn1oA1DtkT61N-zvdPmsCYsmR0au9V4BA9IZzrH4
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/04_💰_Etudes_indemnisation/11 💰 Etude indemnisation.md
-token_path: ../../🔑_Token/04_💰_Etudes_indemnisation/11 💰 Etude indemnisation.md
 ---
 # ÉTUDE D'INDEMNISATION MAXIMALE (NOMENCLATURE DINTILHAC)
 

@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 31 ✉️ Courrier INPI Opposition.md ](.31 ✉️ Courrier INPI Opposition.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 31 ✉️ Courrier INPI Opposition.md ](.31 ✉️ Courrier INPI Opposition.md)
+```
+
 ---
 titre: Opposition à immatriculation INPI - Version réelle
 date: 2026-07-09
@@ -19,7 +27,6 @@ tags:
 statut: final
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/31 ✉️ Courrier INPI Opposition.md
-token_path: ../../🔑_Token/02_✉️_Courriers/31 ✉️ Courrier INPI Opposition.md
 ---
 # OPPOSITION À IMMATRICULATION AU REGISTRE NATIONAL DES ENTREPRISES
 Nom Prénom de l'Avocat

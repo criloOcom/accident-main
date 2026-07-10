@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 13 Note strategique FGTI CIVI.md ](.13 Note strategique FGTI CIVI.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 13 Note strategique FGTI CIVI.md ](.13 Note strategique FGTI CIVI.md)
+```
+
 ---
 titre: Note stratégique FGTI/CIVI - Version réelle
 date: 2026-07-08
@@ -13,7 +21,6 @@ tags:
 statut: brouillon
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/04_💰_Etudes_indemnisation/13 Note strategique FGTI CIVI.md
-token_path: ../../🔑_Token/04_💰_Etudes_indemnisation/13 Note strategique FGTI CIVI.md
 ---
 # NOTE STRATÉGIQUE FGTI/CIVI
 

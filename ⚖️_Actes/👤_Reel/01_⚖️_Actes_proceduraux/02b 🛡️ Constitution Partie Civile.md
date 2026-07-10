@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 02b 🛡️ Constitution Partie Civile.md ](.02b 🛡️ Constitution Partie Civile.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 02b 🛡️ Constitution Partie Civile.md ](.02b 🛡️ Constitution Partie Civile.md)
+```
+
 ---
 titre: Constitution de Partie Civile — Blessures Involontaires - Version réelle
 date: 2026-07-06
@@ -22,7 +30,6 @@ drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
 format: Arial JUSTIFIED
 notes: Version Glose produite le 07/07/2026 — voir 📊_Rapports/expertise/20260707 Mémoire juridique Glose.md
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/02b 🛡️ Constitution Partie Civile.md
-token_path: ../../🔑_Token/01_⚖️_Actes_proceduraux/02b 🛡️ Constitution Partie Civile.md
 ---
 # CONSTITUTION DE PARTIE CIVILE
 **Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants**

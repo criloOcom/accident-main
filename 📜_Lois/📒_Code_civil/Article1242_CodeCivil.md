@@ -1,5 +1,15 @@
 # Code civil — Art. 1242
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_civil ](../README.md) > 📄 [ Article1242_CodeCivil.md ](.Article1242_CodeCivil.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_civil ](../README.md) > 📄 [ Article1242_CodeCivil.md ](.Article1242_CodeCivil.md)
+```
+
 > **Nature** : Code
 
 ---

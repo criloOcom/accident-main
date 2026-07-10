@@ -1,5 +1,15 @@
 # Article 434-4 du Code pénal
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_434-4_CodePenal_Legifrance.md ](.Article_434-4_CodePenal_Legifrance.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_434-4_CodePenal_Legifrance.md ](.Article_434-4_CodePenal_Legifrance.md)
+```
+
 **Identifiant Légifrance :** LEGIARTI000006418608
 **Thème :** Fraude et dissimulation
 **Utilisation :** Sanction de la dissimulation d'informations

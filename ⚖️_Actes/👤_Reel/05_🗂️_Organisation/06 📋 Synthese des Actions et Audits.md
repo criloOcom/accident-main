@@ -1,7 +1,14 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 06 📋 Synthese des Actions et Audits.md ](.06 📋 Synthese des Actions et Audits.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 06 📋 Synthese des Actions et Audits.md ](.06 📋 Synthese des Actions et Audits.md)
+```
+
 ---
 reel_path: ../../👤_Reel/05_🗂️_Organisation/06 📋 Synthese des Actions et Audits.md
 statut: brouillon
-token_path: ../../🔑_Token/05_🗂️_Organisation/06 📋 Synthese des Actions et Audits.md
 ---
 # Note de Synthèse — Avancement des Audits & Recommandations
 

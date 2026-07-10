@@ -1,5 +1,15 @@
 # DÉCISIONS CLÉS
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ DECISIONS.md ](.DECISIONS.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ DECISIONS.md ](.DECISIONS.md)
+```
+
 ## Tokens
 - Utiliser le bon français avec articles : `**[La Victime]**` PAS `**[Victime]**`
 - `**[L'Exploitant du Commerce (La SAS)]**` (pas "Salon" — on ne précise pas la nature du commerce)
