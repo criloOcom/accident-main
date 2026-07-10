@@ -111,6 +111,7 @@ REVERSE_MAP = {
     "**[Finance Frais Divers]**": "3 000 €",
     "**[Finance Facture Chirurgie]**": "790,23 €",
     "**[Finance Prestation Salon]**": "15,00 €",
+    "**[Le Téléphone de la Victime]**": "06 30 51 67 75",
 }
 
 def replace_header_block(content):

@@ -235,7 +235,7 @@ Aucun élément versé aux débats ne permet de contester sérieusement ni la ma
 
 > « L'action directe de la victime contre l'assureur garantissant la responsabilité civile de la personne responsable est soumise à la prescription de deux ans à compter du jour où la victime a connu ou aurait dû connaître les faits motivant son action. » <br>
 > [Article L.124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
-> **Code des assurances > Partie réglementaire > Livre Ier > Titre Ier > Chapitre III : De la responsabilité civile**
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité**
 
 Le motif légitime est caractérisé par l'impossibilité pour la victime d'exercer son action directe (Art. L.124-3 du Code des assurances) sans connaître l'identité de l'assureur. La jurisprudence admet que la communication forcée d'un document contractuel constitue une mesure d'instruction licite au sens de l'Article 145 CPC.
 

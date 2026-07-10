@@ -656,7 +656,12 @@ code Python lit ensuite en fallback.
 - **drive_id mis à jour** dans les fichiers locaux YAML
 - Drive IDs : `1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw` (08), `1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM` (09)
 
-## Phase 6b — Rédaction des 12 courriers d'alerte preventives (5 juillet 2026) ✅
+## Phase 6b — Rédaction des 12 courriers d'alerte preventives (⚠️ PROJETS — NON ENVOYÉS) (5 juillet 2026) ✅
+
+### ⚠️ IMPORTANT — Statut réel de ces courriers
+**Aucun de ces courriers n'a été expédié par LRAR ou email.** Ils ont été rédigés et injectés sur Google Drive uniquement. Tous les fichiers contiennent des `[À compléter]` dans les adresses destinataires et 0 numéro LRAR.
+
+La mention "Phase 6b" dans STATUS.md signifie uniquement **rédaction + injection Drive**, pas envoi postal. Voir `RULES.md` Avenant n°15 pour la nomenclature stricte.
 
 ### Ce qui a été fait
 - **Règle permanente ajoutée** dans RULES.md et DECISIONS.md : séparation stricte tokens ↔ dossier de correspondance réelle
@@ -715,7 +720,7 @@ code Python lit ensuite en fallback.
 - **3 actes procéduraux** (01 Assignation, 02 Plainte, 03 Article 145)
 - **0 erreur** à la consistency check (a vérifier)
 
-## Phase 6d — Injection Drive des 11 documents (5 juillet 2026) ✅
+## Phase 6d — Injection Drive des 11 documents (⚠️ INJECTION DRIVE — PAS D'ENVOI POSTAL) (5 juillet 2026) ✅
 
 ### Documents injectés sur Drive (dossier `1LnXAHlLLLHN0quyhiRq4CdVAKHRGolWk`)
 
