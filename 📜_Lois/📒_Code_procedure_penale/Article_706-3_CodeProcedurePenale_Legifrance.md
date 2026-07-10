@@ -1,12 +1,3 @@
----
-title: Article 706-3 du Code de procédure pénale
-code: Code Procedure Penale
-article: 706
-date: 2026-07-10
-source: Légifrance
-status: En vigueur
----
-
 # Article 706-3 du Code de procédure pénale
 
 

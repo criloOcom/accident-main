@@ -1,12 +1,3 @@
----
-title: Article 700
-code: Code Procedure Civile
-article: 700
-date: 2026-07-10
-source: Légifrance
-status: En vigueur
----
-
 # Article 700
 
 

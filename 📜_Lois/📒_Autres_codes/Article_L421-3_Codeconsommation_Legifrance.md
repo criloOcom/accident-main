@@ -1,12 +1,3 @@
----
-title: Article L421-3
-code: Autres Codes
-article: L421
-date: 2026-07-10
-source: Légifrance
-status: En vigueur
----
-
 # Article L421-3
 
 

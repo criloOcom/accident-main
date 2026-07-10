@@ -1,12 +1,3 @@
----
-title: Article L210-6
-code: Code Commerce
-article: L210
-date: 2026-07-10
-source: Légifrance
-status: En vigueur
----
-
 # Article L210-6
 
 

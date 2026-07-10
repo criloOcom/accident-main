@@ -1,12 +1,3 @@
----
-title: Code civil — Art. 835
-code: Code Procedure Civile
-article: Inconnu
-date: 2026-07-10
-source: Légifrance
-status: En vigueur
----
-
 # Code civil — Art. 835
 
 

@@ -1,12 +1,3 @@
----
-title: Article 1844-8
-code: Autres Codes
-article: 1844
-date: 2026-07-10
-source: Légifrance
-status: En vigueur
----
-
 # Article 1844-8
 
 

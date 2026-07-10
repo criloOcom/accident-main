@@ -1,12 +1,3 @@
----
-title: Articles R. 143-2 et suivants CCH
-code: Autres Codes
-article: R143
-date: 2026-07-10
-source: Légifrance
-status: En vigueur
----
-
 # Articles R. 143-2 et suivants CCH
 
 

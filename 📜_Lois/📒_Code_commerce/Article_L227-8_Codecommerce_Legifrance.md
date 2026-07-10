@@ -1,12 +1,3 @@
----
-title: Article L227-8
-code: Code Commerce
-article: L227
-date: 2026-07-10
-source: Légifrance
-status: En vigueur
----
-
 # Article L227-8
 
 

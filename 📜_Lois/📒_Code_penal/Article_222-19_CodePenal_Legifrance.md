@@ -1,12 +1,3 @@
----
-title: Code pénal — Art. 222-19
-code: Code Penal
-article: 222
-date: 2026-07-10
-source: Légifrance
-status: En vigueur
----
-
 # Code pénal — Art. 222-19
 
 

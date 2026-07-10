@@ -1,12 +1,3 @@
----
-title: Article 434-4 du Code pénal
-code: Code Penal
-article: 434
-date: 2026-07-10
-source: Légifrance
-status: En vigueur
----
-
 # Article 434-4 du Code pénal
 
 

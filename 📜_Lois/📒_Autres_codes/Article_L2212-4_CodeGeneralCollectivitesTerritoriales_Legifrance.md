@@ -1,12 +1,3 @@
----
-title: Article L. 2212-4 du Code général des collectivités territoriales
-code: Autres Codes
-article: L2212
-date: 2026-07-10
-source: Légifrance
-status: En vigueur
----
-
 # Article L. 2212-4 du Code général des collectivités territoriales
 
 

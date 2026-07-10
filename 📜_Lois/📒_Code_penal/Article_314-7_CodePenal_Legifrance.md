@@ -1,12 +1,3 @@
----
-title: Article 314-7 du Code pénal
-code: Code Penal
-article: 314
-date: 2026-07-10
-source: Légifrance
-status: En vigueur
----
-
 # Article 314-7 du Code pénal
 
 
