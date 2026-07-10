@@ -5,6 +5,7 @@ article: 314
 date: 2026-07-10
 source: Légifrance
 status: En vigueur
+url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418347
 ---
 
 # Article 314-7 du Code pénal

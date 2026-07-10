@@ -5,6 +5,7 @@ article: 222
 date: 2026-07-10
 source: Légifrance
 status: En vigueur
+url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417899
 ---
 
 # Code pénal — Art. 222-19

@@ -5,6 +5,7 @@ article: Inconnu
 date: 2026-07-10
 source: Légifrance
 status: En vigueur
+url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
 ---
 
 # Code civil — Art. 1240
