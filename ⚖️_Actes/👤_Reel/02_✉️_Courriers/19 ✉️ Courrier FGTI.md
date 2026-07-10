@@ -92,7 +92,7 @@ L'accident est survenu dans un contexte de multiples irregularites de la part de
 <hr>
 
 ## INDEMNITES SOLLICITEES
-Le montant total estime de mon prejudice corporel, selon la nomenclature Dintilhac, s'eleve a **~105 000 €**, se decomposant comme suit :
+Le montant total estime de mon prejudice corporel, selon la nomenclature Dintilhac (estimation haute sous reserve d'expertise medicale), s'eleve a **~109 500 €**, se decomposant comme suit :
 
 - Pertes de gains professionnels actuels (PGPA) : 1 900 €
 
@@ -106,9 +106,11 @@ Le montant total estime de mon prejudice corporel, selon la nomenclature Dintilh
 
 - Prejudice d'agrement : 8 000 €
 
-- Pretium doloris (PEP) : 3 000 €
+- Prejudice Esthetique Permanent (PEP) : 3 000 €
 
 - Frais divers (kiné, déplacements) : 2 000 €
+
+- Assistance tierce personne (ATP) : 2 000 €
 
 - Dévalorisation professionnelle (DEP) : 3 000 €
 

@@ -13,6 +13,7 @@
 | Dr Oxybel / Oxybel | `**[Le Médecin Généraliste]**` |
 | Sigrid DESBOIS / DESBOIS | `**[La Gestionnaire CPAM]**` |
 | (Avocat de la victime — nom réel à définir) | `**[Nom de l'Avocat de la Victime]**` |
+| Bernard TAVELLA / TAVELLA / M. TAVELLA | `**[L'Adjoint au Maire de la Commune]**` |
 
 ## Personnes morales
 | Texte original | Jeton | Note |
@@ -33,7 +34,15 @@
 | sebastien.grazide@gmail.com | `**[L'Email de la Victime]**` |
 | 500 474 457 | `**[L'Identifiant Professionnel de la Victime]**` |
 | 938 033 222 00010 | `**[L'Identifiant de l'Exploitation]**` |
+| 938 033 222 | `**[SIREN de l'Exploitation]**` |
 | 31727387 / 2026/015967 | `[ ... ]` (ou le contexte approprié) |
+
+## Personnes morales (suite)
+| Texte original | Jeton |
+|---|---|
+| Monsieur TAVELLA | `**[L'Adjoint au Maire de la Commune]**` |
+| btavella@mairie-foix.fr | `**[L'Email de l'Adjoint au Maire]**` |
+| secretariat@mairie-foix.fr | `**[L'Email du Secrétariat de la Mairie]**` |
 
 ## Tokens temporaires / date tokens (generate_real_versions.py)
 | Token | Valeur réelle |

@@ -49,6 +49,8 @@ REVERSE_MAP = {
     "**[L'Identifiant Professionnel de la Victime]**": "500 474 457",
     "**[L'Identifiant de l'Exploitation]**": "938 033 222 00010",
     "**[L'Adjoint au Maire de la Commune]**": "Monsieur TAVELLA",
+    "**[L'Email de l'Adjoint au Maire]**": "btavella@mairie-foix.fr",
+    "**[L'Email du Secrétariat de la Mairie]**": "secretariat@mairie-foix.fr",
 
     # New actors
     "**[Agent PJ, dépôt de plainte]**": "Jordy RODRIGUEZ CAPARROS",

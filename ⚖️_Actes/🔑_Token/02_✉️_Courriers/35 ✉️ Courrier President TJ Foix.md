@@ -91,7 +91,7 @@ Je reste a la disposition du Tribunal pour fournir tout element complementaire o
 ## PIECES JOINTES
 - Accuses de reception des courriers recommandes retournes (29 juin 2026)
 - Copie du PV n°2026/015967
-- Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]** (938 033 222)
+- Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]** (**[SIREN de l'Exploitation]**)
 - Note d'audit RNE/INPI du 10 juillet 2026
 
 Je vous remercie de bien vouloir me faire parvenir un accuse de reception ecrit de la presente.

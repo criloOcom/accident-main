@@ -18,15 +18,15 @@ Ce plan vise à corriger la formulation de l'e-mail pour éliminer tout terme in
 ## 2. Nouveau modèle d'e-mail à soumettre à validation
 
 ```markdown
-Objet : Suite à notre échange du 1er juin – Demande d'intervention pour contrôle de sécurité et d'exploitation (22 Rue Lafaurie)
+Objet : Suite à notre échange du 1 juin 2026 – Demande d'intervention pour contrôle de sécurité et d'exploitation (22 Rue Lafaurie, 09000 Foix)
 
-Monsieur l’Adjoint au Maire,
+Monsieur l'Adjoint au Maire,
 
-Je me permets de vous recontacter à la suite de notre échange du 1er juin 2026, au cours duquel vous m'aviez indiqué avoir pris l'attache des services de la préfecture concernant les suites administratives de l'accident corporel grave dont j'ai été victime le 29 mai 2026 au sein de l'établissement situé au 22 Rue Lafaurie.
+Je me permets de vous recontacter à la suite de notre échange du 1 juin 2026, au cours duquel vous m'aviez indiqué avoir pris l'attache des services de la préfecture concernant les suites administratives de l'accident corporel grave dont j'ai été victime le 29 mai 2026 au sein de l'établissement situé au 22 Rue Lafaurie, 09000 Foix.
 
 Je tiens à vous apporter des nouvelles de mon état de santé : suite à la microchirurgie subie pour les sections tendineuses et nerveuses de ma main droite dominante, je poursuis une rééducation lourde (3 séances par semaine), mon indisponibilité professionnelle (ITT) ayant été fixée à 56 jours.
 
-Habitant à Toulouse, je constate que les courriers recommandés adressés à la SAS LES MAUVAIS GARCONS à l'adresse de son siège social (22 Rue Lafaurie) me sont retournés avec la mention NPAI. Pourtant, le commerce semble avoir rouvert ses portes et être en activité régulière.
+Habitant à Blagnac, je constate que les courriers recommandés adressés à SAS LES MAUVAIS GARCONS à l'adresse de son siège social (22 Rue Lafaurie, 09000 Foix) me sont retournés avec la mention NPAI. Pourtant, le commerce semble avoir rouvert ses portes et être en activité régulière.
 
 Dans ce contexte, et afin d'assurer la sécurité publique au sein de cet établissement recevant du public (ERP), je sollicite l'intervention de vos services de police municipale afin que des agents assermentés puissent se rendre sur place pour procéder à des vérifications indispensables :
 1. Identifier précisément la structure juridique et l'identité de l'exploitant physique actuellement en activité dans les locaux (contrôle de l'affichage légal obligatoire, extrait Kbis).

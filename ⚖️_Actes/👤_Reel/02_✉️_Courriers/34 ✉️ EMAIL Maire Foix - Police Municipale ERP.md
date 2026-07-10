@@ -4,7 +4,7 @@ date: 2026-07-10
 type: email
 categorie: urgence
 auteur: La Victime
-destinataire: Adjoint au Maire de Foix (M. Bernard TAVELLA)
+destinataire: Adjoint au Maire de Foix (Monsieur TAVELLA)
 statut: brouillon
 ---
 
@@ -21,10 +21,10 @@ Monsieur l'Adjoint au Maire,
 
 Afin de contextualiser ma présente démarche, je me permets de retracer brièvement nos correspondances relatives à l'accident corporel grave dont j'ai été victime le 29 mai 2026 au sein de l'établissement situé au 22 Rue Lafaurie, 09000 Foix :
 
-- **Le 1er juin 2026**, je vous ai alerté de la dangerosité des équipements de ce salon de coiffure.
-- **Ce même 1er juin**, vous m'avez répondu avec une grande diligence pour m'informer de votre saisine des services de la Préfecture, de l'Inspection du Travail et du CODAF.
-- **Le 2 juin 2026**, je vous ai transmis la preuve officielle de l'ouverture de ma procédure pénale (PV n° 2026/015967).
-- **Le 5 juillet 2026**, je vous ai adressé une demande d'information concernant l'avancement de ces enquêtes administratives.
+- **Le [J+3 Premiers arrêts]**, je vous ai alerté de la dangerosité des équipements de ce salon de coiffure.
+- **Ce même [J+3 Premiers arrêts]**, vous m'avez répondu avec une grande diligence pour m'informer de votre saisine des services de la Préfecture, de l'Inspection du Travail et du CODAF.
+- **Le [J+4 Dépôt de plainte]**, je vous ai transmis la preuve officielle de l'ouverture de ma procédure pénale (PV n° 2026/015967).
+- **Le [J+37 Assignation 145]**, je vous ai adressé une demande d'information concernant l'avancement de ces enquêtes administratives.
 
 Afin d'assurer un suivi rigoureux de mon dossier et conformément aux dispositions de l'article L. 311-1 du Code des relations entre le public et l'administration (CRPA), je vous serais reconnaissant de bien vouloir me communiquer une copie des courriers de saisine que vous avez adressés le 1er juin 2026 à la Préfecture, à l'Inspection du Travail et au CODAF. Cette communication m'est indispensable pour tenir informée l'autorité judiciaire de l'évolution de ces enquêtes.
 

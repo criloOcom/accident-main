@@ -18,15 +18,15 @@ Ce plan vise à corriger la formulation de l'e-mail pour éliminer tout terme in
 ## 2. Nouveau modèle d'e-mail à soumettre à validation
 
 ```markdown
-Objet : Suite à notre échange du 1er juin – Demande d'intervention pour contrôle de sécurité et d'exploitation (22 Rue Lafaurie)
+Objet : Suite à notre échange du **[J+3 Premiers arrêts]** – Demande d'intervention pour contrôle de sécurité et d'exploitation (**[L'Adresse de l'Exploitation]**)
 
-Monsieur l’Adjoint au Maire,
+Monsieur l'Adjoint au Maire,
 
-Je me permets de vous recontacter à la suite de notre échange du 1er juin 2026, au cours duquel vous m'aviez indiqué avoir pris l'attache des services de la préfecture concernant les suites administratives de l'accident corporel grave dont j'ai été victime le 29 mai 2026 au sein de l'établissement situé au 22 Rue Lafaurie.
+Je me permets de vous recontacter à la suite de notre échange du **[J+3 Premiers arrêts]**, au cours duquel vous m'aviez indiqué avoir pris l'attache des services de la préfecture concernant les suites administratives de l'accident corporel grave dont j'ai été victime le **[J+0 Accident]** au sein de l'établissement situé au **[L'Adresse de l'Exploitation]**.
 
 Je tiens à vous apporter des nouvelles de mon état de santé : suite à la microchirurgie subie pour les sections tendineuses et nerveuses de ma main droite dominante, je poursuis une rééducation lourde (3 séances par semaine), mon indisponibilité professionnelle (ITT) ayant été fixée à 56 jours.
 
-Habitant à Toulouse, je constate que les courriers recommandés adressés à la SAS LES MAUVAIS GARCONS à l'adresse de son siège social (22 Rue Lafaurie) me sont retournés avec la mention NPAI. Pourtant, le commerce semble avoir rouvert ses portes et être en activité régulière.
+Habitant à **[La Ville de Résidence de la Victime]**, je constate que les courriers recommandés adressés à **[L'Exploitant du Commerce (La SAS)]** à l'adresse de son siège social (**[L'Adresse de l'Exploitation]**) me sont retournés avec la mention NPAI. Pourtant, le commerce semble avoir rouvert ses portes et être en activité régulière.
 
 Dans ce contexte, et afin d'assurer la sécurité publique au sein de cet établissement recevant du public (ERP), je sollicite l'intervention de vos services de police municipale afin que des agents assermentés puissent se rendre sur place pour procéder à des vérifications indispensables :
 1. Identifier précisément la structure juridique et l'identité de l'exploitant physique actuellement en activité dans les locaux (contrôle de l'affichage légal obligatoire, extrait Kbis).
@@ -41,7 +41,7 @@ Je vous remercie par avance pour votre action et votre suivi.
 
 Bien cordialement,
 
-Sébastien GRAZIDE
-10 Avenue de Purpan, 31700 Blagnac
-sebastien.grazide@gmail.com
+**[La Victime]**
+**[L'Adresse de la Victime]**
+**[L'Email de la Victime]**
 ```

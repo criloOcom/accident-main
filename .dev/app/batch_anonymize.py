@@ -63,6 +63,16 @@ REPLACEMENTS = [
     ("MOUNTASSER", "[Le Président de l'Exploitation]"),
     ("Mountasser", "[Le Président de l'Exploitation]"),
 
+    # --- Mairie contacts ---
+    ("Bernard TAVELLA", "[L'Adjoint au Maire de la Commune]"),
+    ("Bernard TAVELA", "[L'Adjoint au Maire de la Commune]"),
+    ("M. Bernard TAVELLA", "[L'Adjoint au Maire de la Commune]"),
+    ("M. TAVELLA", "[L'Adjoint au Maire de la Commune]"),
+    ("TAVELLA", "[L'Adjoint au Maire de la Commune]"),
+    ("btavella@mairie-foix.fr", "[L'Email de l'Adjoint au Maire]"),
+    ("secretariat@mairie-foix.fr", "[L'Email du Secrétariat de la Mairie]"),
+    ("mairie@mairie-foix.fr", "[L'Email du Secrétariat de la Mairie]"),
+
     # --- References (police, CPAM) ---
     ("CPAM de Haute-Garonne", "CPAM"),
     ("dossier n° 31727387", "[ ... ]"),

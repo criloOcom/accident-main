@@ -20,12 +20,12 @@ statut: final
 ### 1. Statut officiel de [L'Exploitant du Commerce (La SAS)]
 | Champ | Valeur |
 |-------|--------|
-| SIREN | 938 033 222 |
+| SIREN | **[SIREN de l'Exploitation]** |
 | Statut RNE | **Active** (inscrite, dernière MAJ 08/07/2026) |
 | Siège social | 22 Rue Lafaurie, 09000 Foix (inchangé) |
 | Capital | 200 € |
-| Président | **[Le Président de l'Exploitation]** (Sabir MOUNTASSER, né 1992, 108 Cité Aimé Surre, 09000 Foix) |
-| DG | **[La Directrice Générale de l'Exploitation]** (Catherine SORROCHE/ANDISSAC, née 1970, 7 Rue Camille Mussat, 31100 Toulouse) |
+| Président | **[Le Président de l'Exploitation]** |
+| DG | **[La Directrice Générale de l'Exploitation]** |
 | Salariés | 0 (zéro) |
 | Établissements | 1 (unique au 22 Rue Lafaurie) |
 | Comptes | **En défaut de publication** |

@@ -28,13 +28,13 @@ format: Arial JUSTIFIED
 ### 4 jeux de pieces jointes (pour les courriers 12-14-19)
 - [ ] Copie PV n°2026/015967 (x3)
 - [ ] Accuses de reception NPAI 29/06 (x3)
-- [ ] Extrait Kbis SAS LES MAUVAIS GARCONS (x3)
-- [ ] Dossier medical complet 11 pieces (x3)
+ - [ ] Extrait Kbis SAS LES MAUVAIS GARCONS (x3)
+ - [ ] Dossier medical complet 11 pieces (x3)
 
 ### 1 jeu de pieces jointes specifique (courrier 35 TJ)
-- [ ] Copie PV n°2026/015967
-- [ ] Accuses de reception NPAI 29/06
-- [ ] Extrait Kbis SAS LES MAUVAIS GARCONS
+ - [ ] Copie PV n°2026/015967
+ - [ ] Accuses de reception NPAI 29/06
+ - [ ] Extrait Kbis SAS LES MAUVAIS GARCONS
 - [ ] Note audit INPI 10/07
 
 ### Verification
@@ -59,14 +59,14 @@ format: Arial JUSTIFIED
 
 ### Email URSSAF
 - [ ] Destinataire : [email dans le courrier 12 reel]
-- [ ] Objet : PV n°2026/015967 — Transmission de preuves — Sebastien GRAZIDE
+- [ ] Objet : PV n°2026/015967 — Transmission de preuves — Sébastien GRAZIDE
 - [ ] Joindre PV, NPAI, Kbis, dossier medical en PDF
 - [ ] Demander AR de lecture
 - [ ] Noter date/heure envoi : ___________________
 
 ### Email CODAF
 - [ ] Destinataire : [email dans le courrier 14 reel]
-- [ ] Objet : PV n°2026/015967 — Transmission de preuves — Sebastien GRAZIDE
+- [ ] Objet : PV n°2026/015967 — Transmission de preuves — Sébastien GRAZIDE
 - [ ] Joindre PV, NPAI, Kbis, dossier medical en PDF
 - [ ] Demander AR de lecture
 - [ ] Noter date/heure envoi : ___________________

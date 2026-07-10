@@ -99,7 +99,7 @@ Je sollicite du CODAF qu'une enquete soit diligentee afin de verifier l'ensemble
 ## PIECES JOINTES
 - Copie du PV n°2026/015967 (procedure penale)
 - Accuses de reception des courriers recommandes retournes (29 juin 2026 — mentions NPAI)
-- Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]** (938 033 222)
+- Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]** (**[SIREN de l'Exploitation]**)
 - Dossier medical complet (11 pieces)
 
 Je vous remercie de bien vouloir me faire parvenir un accuse de reception ecrit de la presente, ainsi qu'une response dans un delai de 15 jours.

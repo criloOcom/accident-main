@@ -96,7 +96,7 @@ Conformement a l'Article L.8271-1-2 du Code du travail, les agents de l'URSSAF s
 ## PIECES JOINTES
 - Copie du PV n°2026/015967 (procedure penale)
 - Accuses de reception des courriers recommandes retournes (29 juin 2026 — mentions NPAI)
-- Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]** (938 033 222)
+- Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]** (**[SIREN de l'Exploitation]**)
 
 Je vous remercie de bien vouloir me faire parvenir un accuse de reception ecrit de la presente, ainsi qu'une response dans un delai de 15 jours.
 

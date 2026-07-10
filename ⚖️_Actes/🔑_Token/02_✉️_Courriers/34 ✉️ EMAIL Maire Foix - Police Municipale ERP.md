@@ -4,14 +4,14 @@ date: 2026-07-10
 type: email
 categorie: urgence
 auteur: La Victime
-destinataire: Adjoint au Maire de **[La Ville de l'Accident]** (M. Bernard TAVELLA)
+destinataire: Adjoint au Maire de **[La Ville de l'Accident]** (**[L'Adjoint au Maire de la Commune]**)
 statut: brouillon
 ---
 
 # EMAIL — Éléments d'actualisation sur le dossier ERP (**[L'Adresse de l'Exploitation]**)
 
-**Destinataire** : `btavella@mairie-foix.fr`
-**Copie (Cc)** : `secretariat@mairie-foix.fr`
+**Destinataire** : `**[L'Email de l'Adjoint au Maire]**`
+**Copie (Cc)** : `**[L'Email du Secrétariat de la Mairie]**`
 **Expéditeur** : `**[L'Email de la Victime]**`
 **Objet** : Suite à nos échanges – Éléments d'actualisation sur le dossier ERP (**[L'Adresse de l'Exploitation]**)
 
@@ -19,18 +19,18 @@ statut: brouillon
 
 Monsieur l'Adjoint au Maire,
 
-Afin de contextualiser ma présente démarche, je me permets de retracer brièvement nos correspondances relatives à l'accident corporel grave dont j'ai été victime le 29 mai 2026 au sein de l'établissement situé au **[L'Adresse de l'Exploitation]** :
+Afin de contextualiser ma présente démarche, je me permets de retracer brièvement nos correspondances relatives à l'accident corporel grave dont j'ai été victime le **[J+0 Accident]** au sein de l'établissement situé au **[L'Adresse de l'Exploitation]** :
 
-- **Le 1er juin 2026**, je vous ai alerté de la dangerosité des équipements de ce salon de coiffure.
-- **Ce même 1er juin**, vous m'avez répondu avec une grande diligence pour m'informer de votre saisine des services de la Préfecture, de l'Inspection du Travail et du CODAF.
-- **Le 2 juin 2026**, je vous ai transmis la preuve officielle de l'ouverture de ma procédure pénale (PV n° **[N° PV Police]**).
-- **Le 5 juillet 2026**, je vous ai adressé une demande d'information concernant l'avancement de ces enquêtes administratives.
+- **Le [J+3 Premiers arrêts]**, je vous ai alerté de la dangerosité des équipements de ce salon de coiffure.
+- **Ce même [J+3 Premiers arrêts]**, vous m'avez répondu avec une grande diligence pour m'informer de votre saisine des services de la Préfecture, de l'Inspection du Travail et du CODAF.
+- **Le [J+4 Dépôt de plainte]**, je vous ai transmis la preuve officielle de l'ouverture de ma procédure pénale (PV n° **[N° PV Police]**).
+- **Le [J+37 Assignation 145]**, je vous ai adressé une demande d'information concernant l'avancement de ces enquêtes administratives.
 
 Afin d'assurer un suivi rigoureux de mon dossier et conformément aux dispositions de l'article L. 311-1 du Code des relations entre le public et l'administration (CRPA), je vous serais reconnaissant de bien vouloir me communiquer une copie des courriers de saisine que vous avez adressés le 1er juin 2026 à la Préfecture, à l'Inspection du Travail et au CODAF. Cette communication m'est indispensable pour tenir informée l'autorité judiciaire de l'évolution de ces enquêtes.
 
 Si je me permets de vous écrire à nouveau aujourd'hui, c'est en raison d'une évolution particulièrement anormale de la situation qui requiert l'attention de vos services.
 
-Sur le plan médical, lors de ma consultation de contrôle du 23 juin 2026, le **[Le Chirurgien SOS Main]** (SOS Main — **[L'Établissement SOS Main]**) a prescrit un protocole de kinésithérapie stricte (3 séances par semaine) et certifié que la récupération de la sensibilité de mon index s'étendra sur une durée d'environ un an, tout en restant probablement partielle suite à la suture nerveuse.
+Sur le plan médical, lors de ma consultation de contrôle du **[J+25 Première kiné]**, le **[Le Chirurgien SOS Main]** (SOS Main — **[L'Établissement SOS Main]**) a prescrit un protocole de kinésithérapie stricte (3 séances par semaine) et certifié que la récupération de la sensibilité de mon index s'étendra sur une durée d'environ un an, tout en restant probablement partielle suite à la suture nerveuse.
 
 Sur le plan administratif, résidant à **[L'Adresse de la Victime]**, j'ai fait adresser des mises en demeure par courriers recommandés à **[L'Exploitant du Commerce (La SAS)]** à l'adresse de son siège social (**[L'Adresse de l'Exploitation]**) le 29 juin 2026. Or, ces courriers m'ont été retournés (mentions défaut d'adresse, distribution impossible).
 
