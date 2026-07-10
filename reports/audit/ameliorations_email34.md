@@ -1,3 +1,28 @@
+# Rapport d'Audit et Améliorations - Email 34 (Mairie de Foix)
+
+## 1. Analyse section par section
+
+### Ton et structure
+Le message initial est courtois et retrace bien la chronologie. Cependant, s'agissant d'une correspondance avec un élu (Adjoint au Maire) visant à mobiliser les pouvoirs de police municipale, le ton doit être plus formel et juridiquement étayé. Il convient de rappeler les obligations légales incombant à l'autorité municipale en matière de sécurité publique.
+
+### Demandes et précision
+Les demandes sont factuelles mais manquent de fondement juridique. La sollicitation de communication des correspondances administratives (saisines de l'Inspection du Travail, CODAF, Préfecture) doit s'inscrire formellement dans le cadre du droit d'accès aux documents administratifs.
+
+### Références manquantes
+- **Pouvoir de police du Maire** : Il est impératif de viser l'**article L. 2212-2 du Code général des collectivités territoriales (CGCT)**, qui fonde la compétence du Maire (et de ses services) pour assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques, particulièrement dans les Établissements Recevant du Public (ERP).
+- **Accès aux documents administratifs (CADA)** : La demande de communication des saisines doit expressément viser l'**article L. 311-1 du Code des relations entre le public et l'administration (CRPA)**, garantissant le droit d'accès aux documents administratifs.
+
+### Lien entre le PV de police municipale et la sécurité ERP
+Il faut expliciter en quoi le constat de la police municipale est essentiel : il permet d'établir une constatation authentique et objective par des agents assermentés. Ces constats (absence de mise en conformité, identité de l'exploitant) fondent ensuite l'exercice des pouvoirs de police administrative du Maire (ex. fermeture administrative de l'ERP si danger) et sont opposables judiciairement.
+
+### Mention CADA pour l'accès aux documents
+L'intégration de la référence au CRPA clarifie la demande : ce n'est pas une "faveur" mais un droit d'accès à des documents administratifs communicables.
+
+---
+
+## 2. Version Améliorée (à intégrer au fichier)
+
+```markdown
 ---
 titre: Email définitif à l'Adjoint au Maire de Foix — Demande de contrôle ERP par police municipale
 date: 2026-07-10
@@ -59,3 +84,4 @@ Bien cordialement,
 **[L'Email de la Victime]**
 **[Le Téléphone de la Victime]**
 *(SIREN : **[L'Identifiant Professionnel de la Victime]**)*
+```
