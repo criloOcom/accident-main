@@ -1,5 +1,5 @@
 ---
-titre: Email définitif à l'Adjoint au Maire de **[La Ville de l'Accident]** — Demande de contrôle ERP par police municipale
+titre: Email définitif à l'Adjoint au Maire de **[La Ville de l'Accident]** — Éléments d'actualisation sur le dossier ERP
 date: 2026-07-10
 type: email
 categorie: urgence
@@ -8,12 +8,12 @@ destinataire: Adjoint au Maire de **[La Ville de l'Accident]** (M. Bernard TAVEL
 statut: brouillon
 ---
 
-# EMAIL — Demande d'intervention pour contrôle de sécurité et d'exploitation (**[L'Adresse de l'Exploitation]**)
+# EMAIL — Éléments d'actualisation sur le dossier ERP (**[L'Adresse de l'Exploitation]**)
 
 **Destinataire** : `btavella@mairie-foix.fr`
 **Copie (Cc)** : `secretariat@mairie-foix.fr`
 **Expéditeur** : `**[L'Email de la Victime]**`
-**Objet** : Suite à nos échanges – Demande d'intervention au titre de vos pouvoirs de police (ERP **[L'Adresse de l'Exploitation]**)
+**Objet** : Suite à nos échanges – Éléments d'actualisation sur le dossier ERP (**[L'Adresse de l'Exploitation]**)
 
 ---
 
@@ -28,7 +28,7 @@ Afin de contextualiser ma présente démarche, je me permets de retracer briève
 
 Afin d'assurer un suivi rigoureux de mon dossier et conformément aux dispositions de l'article L. 311-1 du Code des relations entre le public et l'administration (CRPA), je vous serais reconnaissant de bien vouloir me communiquer une copie des courriers de saisine que vous avez adressés le 1er juin 2026 à la Préfecture, à l'Inspection du Travail et au CODAF. Cette communication m'est indispensable pour tenir informée l'autorité judiciaire de l'évolution de ces enquêtes.
 
-Si je me permets de vous solliciter à nouveau aujourd'hui, c'est en raison d'une évolution particulièrement anormale de la situation qui requiert la pleine mobilisation de vos pouvoirs de police.
+Si je me permets de vous écrire à nouveau aujourd'hui, c'est en raison d'une évolution particulièrement anormale de la situation qui requiert l'attention de vos services.
 
 Sur le plan médical, lors de ma consultation de contrôle du 23 juin 2026, le **[Le Chirurgien SOS Main]** (SOS Main — **[L'Établissement SOS Main]**) a prescrit un protocole de kinésithérapie stricte (3 séances par semaine) et certifié que la récupération de la sensibilité de mon index s'étendra sur une durée d'environ un an, tout en restant probablement partielle suite à la suture nerveuse.
 
@@ -38,19 +38,11 @@ Par souci de complète transparence avec vos services, je vous informe qu'à cet
 
 Pourtant, le commerce a rouvert ses portes le 6 juillet 2026 et paraît en activité régulière, alors même que les registres du RNE (INPI) indiquent que cette SAS est toujours officiellement domiciliée à cette adresse.
 
-Dans ce contexte d'opacité, et afin de garantir la sécurité des usagers de cet Établissement Recevant du Public (ERP), je sollicite officiellement l'intervention de la police municipale, sur le fondement de l'article L. 2212-2 du Code général des collectivités territoriales (CGCT) relatif aux pouvoirs de police du Maire visant à assurer le bon ordre, la sûreté et la sécurité publique.
+Dans ce contexte, je tenais à porter ces éléments à votre connaissance, pour information, dans l'hypothèse où ils seraient utiles à vos services dans le cadre de l'exercice de vos missions.
 
-Il conviendrait que vos agents assermentés, lors d'une visite de contrôle, procèdent aux constatations suivantes :
+Le dossier complet de ma procédure reste à la disposition de vos services. Bien entendu, si ces éléments appelaient une suite de votre part, je reste à la disposition de vos services.
 
-1. **Identifier** précisément l'identité de l'exploitant actuellement en activité dans les locaux et vérifier l'affichage légal obligatoire.
-2. **Vérifier** si l'installation dangereuse (la vasque en céramique présentant une cassure préexistante tranchante) est toujours présente et accessible au public, ou si une véritable mise en conformité a été effectuée.
-3. **Contrôler** la validité de l'attestation d'assurance de responsabilité civile professionnelle de l'établissement.
-
-Ces constatations authentiques permettront non seulement de fonder d'éventuelles mesures de police administrative (telles qu'une mise en demeure ou une fermeture au public en cas de péril persistant), mais également d'éclairer l'enquête pénale en cours.
-
-Le dossier complet de ma procédure reste bien entendu à l'entière disposition de vos services.
-
-Je vous remercie par avance pour votre action diligente en faveur de la protection de nos concitoyens.
+Je vous remercie par avance de l'attention que vous voudrez bien porter à ces éléments.
 
 Bien cordialement,
 
