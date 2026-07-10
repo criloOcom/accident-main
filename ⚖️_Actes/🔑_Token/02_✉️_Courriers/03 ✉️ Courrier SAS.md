@@ -58,11 +58,11 @@ L'article L. 124-3 du Code des assurances reconnaît à la victime une action di
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre II : L'assurance de responsabilité > Chapitre Ier : La garantie de l'assureur**
 
-L'article L. 227-8 du Code de commerce dispose que les dirigeants d'une société commerciale sont responsables, individuellement ou solidairement, envers les tiers des conséquences dommageables de leurs actes. Le défaut d'information sur l'assurance constitue un manquement à l'obligation de loyauté contractuelle.
+L'article L. 227-8 du Code de commerce dispose que les règles de responsabilité applicables aux sociétés anonymes s'imposent aux dirigeants de la SAS, renvoyant ainsi au régime de responsabilité de droit commun des sociétés anonymes. Le défaut d'information sur l'assurance constitue un manquement à l'obligation de loyauté contractuelle.
 
-> « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. » <br>
+> « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
-> **Code de commerce > Partie législative > Livre V : Les sociétés commerciales > Titre II : Sociétés à responsabilité limitée et sociétés anonymes > Chapitre Ier : Dispositions communes > Section 5 : Administration de la société > Sous-section 3 : Responsabilité des administrateurs et du directeur général**
+> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées**
 
 Ces dispositions sont d'ordre public : elles s'imposent à la société et à ses dirigeants.
 
