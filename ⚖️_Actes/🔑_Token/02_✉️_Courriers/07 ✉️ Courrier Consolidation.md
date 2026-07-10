@@ -19,8 +19,8 @@ statut: final
 source: drive
 drive_id: 1PSv6c0YFvLa0WDEbwc3AVxL14z7ARi5ne50ctJgCvWI
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/07 ✉️ Courrier Consolidation.md
 ---
-
 **Table des matieres**
 
 - [INTRODUCTION](#introduction)

@@ -25,8 +25,9 @@ statut: final
 source: drive
 drive_id: 1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md
+token_path: ../../🔑_Token/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md
 ---
-
 # ASSIGNATION EN RÉFÉRÉ-PROVISION ET DEMANDE D'EXPERTISE MÉDICALE
 Rédigé le 30 juin 2026
 

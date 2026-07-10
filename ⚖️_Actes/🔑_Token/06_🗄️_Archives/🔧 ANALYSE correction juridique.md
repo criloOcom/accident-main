@@ -16,8 +16,8 @@ tags:
 statut: final
 source: drive
 drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
+reel_path: ../../👤_Reel/06_🗄️_Archives/🔧 ANALYSE correction juridique.md
 ---
-
 **Table des matières**
 
 - [INTRODUCTION](#introduction)

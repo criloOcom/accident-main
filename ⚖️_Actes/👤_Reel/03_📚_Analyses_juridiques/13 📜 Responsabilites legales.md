@@ -21,8 +21,9 @@ statut: final
 source: drive
 drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/13 📜 Responsabilites legales.md
+token_path: ../../🔑_Token/03_📚_Analyses_juridiques/13 📜 Responsabilites legales.md
 ---
-
 # ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE **[L'EXPLOITANT DU COMMERCE (LA SAS)]**
 Rédigé le 30 juin 2026
 

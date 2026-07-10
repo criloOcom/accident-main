@@ -17,8 +17,9 @@ tags:
 - LRAR
 statut: final
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/35 ✉️ Courrier President TJ Foix.md
+token_path: ../../🔑_Token/02_✉️_Courriers/35 ✉️ Courrier President TJ Foix.md
 ---
-
 # TRANSMISSION DE PREUVES COMPLEMENTAIRES AU TRIBUNAL JUDICIAIRE DE FOIX
 
 Sébastien GRAZIDE

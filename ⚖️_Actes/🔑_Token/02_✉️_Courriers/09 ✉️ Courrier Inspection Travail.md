@@ -18,8 +18,8 @@ statut: final
 source: drive
 drive_id: 1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/09 ✉️ Courrier Inspection Travail.md
 ---
-
 # DEMANDE D'INFORMATION A L'INSPECTION DU TRAVAIL
 **[L'Adresse de la Victime]**
 

@@ -13,8 +13,8 @@ tags:
   - procédure
 statut: final
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/05_🗂️_Organisation/05 📋 Dossier Special CERFA.md
 ---
-
 # DOSSIER SPÉCIAL : FORMULAIRES CERFA APPLICABLES
 
 Dans le cadre du dossier d'accident corporel de **[La Victime]**, plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditions de mise en œuvre et les pièces justificatives requises.

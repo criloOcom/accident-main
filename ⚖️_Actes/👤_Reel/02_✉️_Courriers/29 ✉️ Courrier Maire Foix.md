@@ -14,8 +14,9 @@ tags:
   - COMSUR
 statut: final
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/29 ✉️ Courrier Maire Foix.md
+token_path: ../../🔑_Token/02_✉️_Courriers/29 ✉️ Courrier Maire Foix.md
 ---
-
 # LETTRE RECOMMANDÉE AVEC ACCUSÉ DE RÉCEPTION
 
 Sébastien GRAZIDE

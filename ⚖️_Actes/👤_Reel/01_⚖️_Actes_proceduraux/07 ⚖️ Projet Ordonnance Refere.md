@@ -17,8 +17,9 @@ tags:
   - article 145
 statut: final
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/07 ⚖️ Projet Ordonnance Refere.md
+token_path: ../../🔑_Token/01_⚖️_Actes_proceduraux/07 ⚖️ Projet Ordonnance Refere.md
 ---
-
 # TRIBUNAL JUDICIAIRE DE [La Ville de l'Accident]
 
 ## ORDONNANCE DE RÉFÉRÉ DU 31 JUILLET 2026

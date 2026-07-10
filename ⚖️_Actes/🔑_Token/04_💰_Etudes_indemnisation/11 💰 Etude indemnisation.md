@@ -17,8 +17,8 @@ statut: final
 source: drive
 drive_id: 1PiBFn1oA1DtkT61N-zvdPmsCYsmR0au9V4BA9IZzrH4
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/04_💰_Etudes_indemnisation/11 💰 Etude indemnisation.md
 ---
-
 # ÉTUDE D'INDEMNISATION MAXIMALE (NOMENCLATURE DINTILHAC)
 
 **[L'Adresse de la Victime]** <br>

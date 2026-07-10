@@ -18,8 +18,8 @@ tags:
   - huissier
 statut: brouillon
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/06 📸 Requete Constat Huissier.md
 ---
-
 # REQUÊTE AUX FINS DE CONSTAT D'HUISSIER (ARTICLES 145 ET 873 CPC)
 **À l'attention de :** Tel huissier de justice territorialement compétent
 

@@ -14,8 +14,9 @@ tags:
 - sas
 statut: final
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/Note Conservation Preuves Numeriques.md
+token_path: ../../🔑_Token/03_📚_Analyses_juridiques/Note Conservation Preuves Numeriques.md
 ---
-
 # NOTE SUR LA CONSERVATION DES PREUVES EXTÉRIEURES ET NUMÉRIQUES
 
 ## PROBLÉMATIQUE

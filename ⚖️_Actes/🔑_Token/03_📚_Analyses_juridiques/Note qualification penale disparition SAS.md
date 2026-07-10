@@ -1,3 +1,7 @@
+---
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/Note qualification penale disparition SAS.md
+statut: brouillon
+---
 # Note juridique : Qualification pénale — Disparition de la SAS
 
 **Dossier :** **[La Victime]** c/ **[L'Exploitant du Commerce (La SAS)]**

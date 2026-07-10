@@ -21,8 +21,9 @@ statut: final
 source: drive
 drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/05_🗂️_Organisation/00 📇 Index.md
+token_path: ../../🔑_Token/05_🗂️_Organisation/00 📇 Index.md
 ---
-
 # INDEX DU DOSSIER **[LA VICTIME]**
 Rédigé le 30 juin 2026 — Mis à jour le **[J+38 Mise à jour]** (unification bordereau 43 pièces)
 

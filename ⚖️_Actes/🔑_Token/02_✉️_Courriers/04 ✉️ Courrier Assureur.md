@@ -21,8 +21,8 @@ statut: final
 source: drive
 drive_id: 14VIXTJK4n9eH66eVNZ6hJO6gLkiRBqnJpWijsDbkE2k
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/04 ✉️ Courrier Assureur.md
 ---
-
 # ACTION DIRECTE — MISE EN DEMEURE ASSUREUR RC
 **[L'Adresse de la Victime]**
 

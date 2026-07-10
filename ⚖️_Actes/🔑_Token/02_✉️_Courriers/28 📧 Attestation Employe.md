@@ -12,8 +12,8 @@ tags:
 statut: brouillon
 source: local
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/28 📧 Attestation Employe.md
 ---
-
 # TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (EMPLOYÉ)
 Objet : Attestation de témoin — Accident du **[J+0 Accident]** au **[L'Adresse de l'Exploitation]**
 

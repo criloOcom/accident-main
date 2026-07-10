@@ -18,8 +18,9 @@ tags:
 statut: final
 source: local
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/15 Note Droit Assurances.md
+token_path: ../../🔑_Token/03_📚_Analyses_juridiques/15 Note Droit Assurances.md
 ---
-
 # NOTE D'ANALYSE JURIDIQUE SPÉCIALE - DROIT DES ASSURANCES
 
 ## INTRODUCTION

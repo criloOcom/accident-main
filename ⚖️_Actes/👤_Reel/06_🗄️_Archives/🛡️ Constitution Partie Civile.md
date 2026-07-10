@@ -16,8 +16,9 @@ statut: final
 source: drive
 drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/06_🗄️_Archives/🛡️ Constitution Partie Civile.md
+token_path: ../../🔑_Token/06_🗄️_Archives/🛡️ Constitution Partie Civile.md
 ---
-
 **Table des matières**
 
 - [INTRODUCTION](#introduction)

@@ -19,8 +19,9 @@ statut: final
 source: drive
 drive_id: 1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/07 🎤 Plaidoirie dirigeants.md
+token_path: ../../🔑_Token/03_📚_Analyses_juridiques/07 🎤 Plaidoirie dirigeants.md
 ---
-
 # **MÉMORANDUM JURIDIQUE : RESPONSABILITÉ DES DIRIGEANTS ET RÉPARATION DES PRÉJUDICES**
 Rédigé le 30 juin 2026
 

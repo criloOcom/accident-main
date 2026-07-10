@@ -14,7 +14,7 @@
 
 ## Montants financiers — Évaluation principale (optimiste)
 
-- MONTANT_TOTAL_ESTIME : ~105 000 € (évaluation Dintilhac détaillée — voir 12 Évaluation Dintilhac détaillée.md)
+- MONTANT_TOTAL_ESTIME : ~109 500 € (évaluation Dintilhac détaillée — voir 12 Évaluation Dintilhac détaillée.md)
 - CA_MENSUEL_MOYEN : 750 € (déclaré URSSAF, CA annuel 9 000 € net)
 - PGPA : 1 900 € (dont 1 400 € prorata + 500 € perte de chance)
 - DFT : 1 400 € (56 jours × 25 €/jour)
@@ -23,6 +23,7 @@
 - IP : 30 000 € (méthode BIBAL : 9 000 × 12 % × 27,5)
 - AGREMENT : 8 000 € (guitare 6 000 + autres 2 000)
 - PEP : 3 000 € (cicatrice palmaire 8,5 cm)
+- ATP : 2 000 € (assistance tierce personne — 56 jours, environ 1 h/j)
 - FRAIS_DIVERS : 2 000 € (kiné, déplacements)
 - DEP : 3 000 € (dévalorisation professionnelle future — poste ajouté après 3e analyse)
 - FACTURE_CHIRURGIE : 790,23 €
@@ -61,7 +62,7 @@
 - FGTI_PROVISION_MAX : 3 000 € (art. L.422-7 CA — 30 % plafonné)
 - SARVI_MAX : 3 000 € (30 % au-delà de 1 000 €)
 
-⚠ **Explication montants** : L'évaluation initiale (59 600 €) sous-évaluait plusieurs postes (SE, IP, DFP) et oubliait le DFT, le PEP et les frais divers. L'évaluation Dintilhac (105 000 €) corrige ces lacunes. Le mémoire Glose (juillet 2026) propose une évaluation plus conservative (~45 000 €). Le compromis recommandé est ~85 000 €.
+⚠ **Explication montants** : L'évaluation initiale (59 600 €) sous-évaluait plusieurs postes (SE, IP, DFP) et oubliait le DFT, le PEP, l'ATP, la DEP et les frais divers. L'évaluation Dintilhac (109 500 €) corrige ces lacunes — ultérieurement majorée de l'ATP (+2 000 €) et DEP (+3 000 €) après analyse. Le mémoire Glose (juillet 2026) propose une évaluation plus conservative (~45 000 €). Le compromis recommandé est ~85 000 €.
 
 ⚠ **Recouvrement** : La SAS a un capital de 200 €. En cas d'insolvabilité, la voie principale est **FGTI/CIVI** (art. 706-3 CPP). Voir section FGTI dans 13 Responsabilites legales.md.
 

@@ -13,8 +13,8 @@ tags:
 - tableau
 statut: preparation
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/05_🗂️_Organisation/23 📊 Suivi Envois LRAR.md
 ---
-
 # SUIVI DES ENVOIS LRAR
 
 ## TABLEAU DE BORD

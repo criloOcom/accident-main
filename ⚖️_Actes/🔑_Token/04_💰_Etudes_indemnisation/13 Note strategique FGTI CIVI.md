@@ -10,10 +10,10 @@ tags:
   - CIVI
   - indemnisation
   - stratégie
-statut: draft
+statut: brouillon
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/04_💰_Etudes_indemnisation/13 Note strategique FGTI CIVI.md
 ---
-
 # NOTE STRATÉGIQUE FGTI/CIVI
 
 ## 1. CONDITIONS D'ACCÈS AU FGTI (Art. 706-3 CPP)

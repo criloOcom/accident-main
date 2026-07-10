@@ -18,8 +18,9 @@ statut: final
 source: drive
 drive_id: 1LdLfCnWLiD2v1N1SMF3FAeh681znM0kXOrAlBXeOe8w
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/12 ✉️ Courrier URSSAF.md
+token_path: ../../🔑_Token/02_✉️_Courriers/12 ✉️ Courrier URSSAF.md
 ---
-
 # SIGNALEMENT DE TRAVAIL DISSIMULE PRESUME
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac

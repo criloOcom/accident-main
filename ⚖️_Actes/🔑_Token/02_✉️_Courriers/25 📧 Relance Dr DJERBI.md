@@ -12,8 +12,8 @@ tags:
 statut: brouillon
 source: local
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/25 📧 Relance Dr DJERBI.md
 ---
-
 # RELANCE — DEMANDE DE CERTIFICAT MÉDICAL DE CONSOLIDATION
 Objet : Demande de certificat médical de consolidation — Suite courrier du **[J+37 Assignation 145]**
 

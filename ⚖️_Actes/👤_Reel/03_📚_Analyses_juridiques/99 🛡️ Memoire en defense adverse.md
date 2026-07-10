@@ -18,8 +18,9 @@ tags:
   - contestation
 statut: final
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/99 🛡️ Memoire en defense adverse.md
+token_path: ../../🔑_Token/03_📚_Analyses_juridiques/99 🛡️ Memoire en defense adverse.md
 ---
-
 # MÉMOIRE EN DÉFENSE ADVERSE
 **Pour :** SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC (Partie Défenderesse)
 **Contre :** Sébastien GRAZIDE (Partie Demanderesse)

@@ -13,8 +13,8 @@ statut: final
 source: drive
 drive_id: '1Icvl9wM3-XrrgSkLUAObecWiEvjkvk9Lj6AvWCakv2o'
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/24 📋 Attestation Employé.md
 ---
-
 # ATTESTATION DE TÉMOIN (CERFA N° 11527*03)Article 202 du Code de procédure civile
 
 > **INSTRUCTIONS DE REMPLISSAGE (à lire avant de compléter) :**

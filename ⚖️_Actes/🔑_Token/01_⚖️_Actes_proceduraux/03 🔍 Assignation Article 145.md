@@ -22,8 +22,8 @@ statut: fusionné_dans_01
 source: drive
 drive_id: 1R26179ks7vLkzw0hYEHL888i0p1VS9ppa6s8R8kQ_gg
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/03 🔍 Assignation Article 145.md
 ---
-
 # ASSIGNATION EN REFERE — COMMUNICATION DE POLICE D'ASSURANCE RC PROFESSIONNELLE
 **[L'Adresse de la Victime]** <br>
 **[L'Email de la Victime]**

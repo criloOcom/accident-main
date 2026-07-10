@@ -17,8 +17,8 @@ tags:
   - audience
 statut: final
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/12 📁 Dossier Plaidoirie.md
 ---
-
 # **DOSSIER DE PLAIDOIRIE POUR L'AUDIENCE DE RÉFÉRÉ DU 31 JUILLET 2026**
 <hr><hr>
 

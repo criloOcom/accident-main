@@ -20,8 +20,9 @@ statut: final
 source: drive
 drive_id: 1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/14 ✉️ Courrier CODAF.md
+token_path: ../../🔑_Token/02_✉️_Courriers/14 ✉️ Courrier CODAF.md
 ---
-
 # SIGNALEMENT OFFICIEL AU COMITE DEPARTEMENTAL ANTI-FRAUDE DE L'ARIEGE
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac

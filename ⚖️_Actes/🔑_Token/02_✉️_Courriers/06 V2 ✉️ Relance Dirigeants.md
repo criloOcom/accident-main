@@ -19,11 +19,12 @@ tags:
 - LRAR
 - fermeture boutique
 - preuves
-statut: projet
+statut: envoye
 source: local
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md
+proof_delivery: "LRAR 870014282662911 + facture Z0132713629"
 ---
-
 # RELANCE — DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE
 
 **[L'Adresse de la Victime]**

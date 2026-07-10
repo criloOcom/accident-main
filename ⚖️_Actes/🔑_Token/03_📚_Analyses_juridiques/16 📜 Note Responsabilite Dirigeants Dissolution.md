@@ -18,8 +18,8 @@ tags:
 - banqueroute
 statut: final
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/16 📜 Note Responsabilite Dirigeants Dissolution.md
 ---
-
 # NOTE JURIDIQUE SUR LA RESPONSABILITÉ DES DIRIGEANTS EN CAS DE DISSOLUTION FRAUDULEUSE
 
 ## I. PROBLÉMATIQUE

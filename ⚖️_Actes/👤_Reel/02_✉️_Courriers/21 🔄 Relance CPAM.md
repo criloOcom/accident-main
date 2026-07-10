@@ -17,8 +17,9 @@ statut: final
 source: drive
 drive_id: 1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/21 🔄 Relance CPAM.md
+token_path: ../../🔑_Token/02_✉️_Courriers/21 🔄 Relance CPAM.md
 ---
-
 # RELANCE CPAM — SUIVI DU DOSSIER DE RECOURS CONTRE TIERS
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac

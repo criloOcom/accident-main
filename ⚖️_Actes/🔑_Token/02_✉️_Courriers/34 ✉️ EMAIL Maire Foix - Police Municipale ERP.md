@@ -6,8 +6,8 @@ categorie: urgence
 auteur: La Victime
 destinataire: Adjoint au Maire de **[La Ville de l'Accident]** (**[L'Adjoint au Maire de la Commune]**)
 statut: brouillon
+reel_path: ../../👤_Reel/02_✉️_Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md
 ---
-
 # EMAIL — Éléments d'actualisation sur le dossier ERP (**[L'Adresse de l'Exploitation]**)
 
 **Destinataire** : `**[L'Email de l'Adjoint au Maire]**`

@@ -22,8 +22,8 @@ tags:
 statut: projet
 source: local
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/32 ✉️ Courrier SIE URSSAF Mutualisation.md
 ---
-
 # DEMANDE DE MUTUALISATION FISCALE ET SOCIALE URGENTE
 
 **[L'Adresse de la Victime]**

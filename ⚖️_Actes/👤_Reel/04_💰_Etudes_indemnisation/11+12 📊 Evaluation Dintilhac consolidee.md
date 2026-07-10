@@ -17,8 +17,9 @@ tags:
 statut: final
 source: local
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/04_💰_Etudes_indemnisation/11+12 📊 Evaluation Dintilhac consolidee.md
+token_path: ../../🔑_Token/04_💰_Etudes_indemnisation/11+12 📊 Evaluation Dintilhac consolidee.md
 ---
-
 # ÉVALUATION DINTILHAC CONSOLIDÉE — 11 + 12
 
 10 Avenue de Purpan, 31700 Blagnac <br>
@@ -83,7 +84,7 @@ L'évaluation initiale du dossier s'établissait à **59 600 €**. Après analy
 4. **Préjudice d'Agrément à 3 000 €** faible pour un guitariste
 5. **DFP à 2 100 €/point** en bas de fourchette (Mornet : 2 140-3 070 €/point pour 11-20%)
 
-L'estimation médiane révisée est de **~85 000 à 105 000 €** (fourchette complète : 77 000 - 139 000 €), selon le compromis retenu entre les trois analyses (optimiste, Glose conservative, critique Glose).
+L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette complète : 82 500 - 150 000 €), selon le compromis retenu entre les trois analyses (optimiste, Glose conservative, critique Glose).
 
 <hr><hr>
 
@@ -104,7 +105,7 @@ L'estimation médiane révisée est de **~85 000 à 105 000 €** (fourchette co
 | ATP (Tierce Personne) *(poste ajouté)* | *(absent)* | *(absent)* | 1 500-3 000 € | **2 000 €** |
 | Frais divers | 2 000 € | 3 500 € | 3 000-5 000 € | **3 000 €** |
 | Article 700 CPC | 4 000 € | 2 250 € | 1 500-3 000 € | **3 000 €** |
-| **TOTAL** | **~105 000 €** | **~45 000 €** | **55 000-105 000 €** | **~92 000 €** |
+| **TOTAL** | **~109 500 €** | **~45 000 €** | **55 000-107 000 €** | **~92 000 €** |
 
 ## 2.2 FOURCHETTES D'INDEMNISATION PAR POSTE
 
@@ -121,7 +122,7 @@ L'estimation médiane révisée est de **~85 000 à 105 000 €** (fourchette co
 | ATP (Tierce Personne) | 1 500 € | 3 000 € | 2 000 € |
 | Frais divers | 1 500 € | 5 000 € | 3 000 € |
 | Article 700 CPC | 1 500 € | 5 000 € | 3 000 € |
-| **TOTAL** | **~77 000 €** | **~139 000 €** | **~90 780 €** |
+| **TOTAL** | **~82 500 €** | **~150 000 €** | **~90 780 €** |
 
 <hr><hr>
 

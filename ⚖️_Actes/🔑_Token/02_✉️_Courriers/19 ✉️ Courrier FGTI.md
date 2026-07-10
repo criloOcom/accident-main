@@ -22,8 +22,8 @@ statut: final
 source: drive
 drive_id: 13jocmpqETy64lldco9LGCKLJZp_ml_9u53NB7OySmrs
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/19 ✉️ Courrier FGTI.md
 ---
-
 # SAISINE CONSERVATOIRE DU FONDS DE GARANTIE DES VICTIMES
 **[L'Adresse de la Victime]**
 

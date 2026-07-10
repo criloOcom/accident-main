@@ -1,3 +1,8 @@
+---
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/Note qualification penale disparition SAS.md
+statut: brouillon
+token_path: ../../🔑_Token/03_📚_Analyses_juridiques/Note qualification penale disparition SAS.md
+---
 # Note juridique : Qualification pénale — Disparition de la SAS
 
 **Dossier :** Sébastien GRAZIDE c/ SAS LES MAUVAIS GARCONS

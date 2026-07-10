@@ -16,8 +16,9 @@ tags:
 - assignation
 - check-list
 statut: preparation
+reel_path: ../../👤_Reel/05_🗂️_Organisation/20 📦 Bon envoi physique.md
+token_path: ../../🔑_Token/05_🗂️_Organisation/20 📦 Bon envoi physique.md
 ---
-
 # BON D'ENVOI PHYSIQUE — IMPRESSION + ENVOI
 ## DOCUMENTS À IMPRIMER (2 EXEMPLAIRES CHACUN)
 | # | Document | Fichier reel/ | Exemplaires |

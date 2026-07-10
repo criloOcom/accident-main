@@ -19,8 +19,9 @@ statut: final
 source: drive
 drive_id: 171CF_LzNopYxIS6Tn4i3t3Ghx3ut14F1gh6-KjHevCA
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/20 🔄 Relance Police.md
+token_path: ../../🔑_Token/02_✉️_Courriers/20 🔄 Relance Police.md
 ---
-
 # RELANCE POLICE NATIONALE — SUIVI DE PLAINTE ET DEMANDE DE VIDEOS
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac

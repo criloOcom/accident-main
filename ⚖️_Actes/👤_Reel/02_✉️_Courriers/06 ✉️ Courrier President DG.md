@@ -18,12 +18,14 @@ tags:
 - assurance
 - faute détachable
 - LRAR
-statut: final
+statut: envoye
 source: drive
 drive_id: 1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/06 ✉️ Courrier President DG.md
+proof_delivery: "LRAR 87001424721856G + 87001424862879J"
+token_path: ../../🔑_Token/02_✉️_Courriers/06 ✉️ Courrier President DG.md
 ---
-
 # MISE EN DEMEURE AUX DIRIGEANTS — DEMANDE D'INFORMATION ASSURANCE RC
 10 Avenue de Purpan, 31700 Blagnac <br>
 sebastien.grazide@gmail.com

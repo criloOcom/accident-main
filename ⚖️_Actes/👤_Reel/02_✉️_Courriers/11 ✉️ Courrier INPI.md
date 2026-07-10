@@ -22,8 +22,9 @@ statut: final
 source: drive
 drive_id: 1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/11 ✉️ Courrier INPI.md
+token_path: ../../🔑_Token/02_✉️_Courriers/11 ✉️ Courrier INPI.md
 ---
-
 # DEMANDE DE SIGNALEMENT DE LITIGE AU REGISTRE NATIONAL DES ENTREPRISES
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac

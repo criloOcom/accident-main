@@ -1,3 +1,8 @@
+---
+reel_path: ../../👤_Reel/00_📂_Preuves_officielles/01 📁 Dossier UMJ Preparation.md
+statut: brouillon
+token_path: ../../🔑_Token/00_📂_Preuves_officielles/01 📁 Dossier UMJ Preparation.md
+---
 # DOSSIER UMJ — PRÉPARATION EXPERTISE MÉDICALE
 **Date :** 12 novembre 2026 à 13h45
 **Lieu :** UMJ de Toulouse

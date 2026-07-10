@@ -16,12 +16,13 @@ tags:
 - SAS
 - assurance
 - LRAR
-statut: final
+statut: envoye
 source: drive
 drive_id: 1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/03 ✉️ Courrier SAS.md
+proof_delivery: "LRAR 87001424863012T"
 ---
-
 **Table des matières**
 
 - [INTRODUCTION](#introduction)

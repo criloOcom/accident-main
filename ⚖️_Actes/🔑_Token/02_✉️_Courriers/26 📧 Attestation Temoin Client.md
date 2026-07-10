@@ -12,8 +12,8 @@ tags:
 statut: brouillon
 source: local
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/26 📧 Attestation Temoin Client.md
 ---
-
 # TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (CLIENT)
 Objet : Attestation de témoin — Accident du **[J+0 Accident]** au salon **[L'Adresse de l'Exploitation]**
 

@@ -18,8 +18,9 @@ tags:
 - RNE
 statut: final
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/31 ✉️ Courrier INPI Opposition.md
+token_path: ../../🔑_Token/02_✉️_Courriers/31 ✉️ Courrier INPI Opposition.md
 ---
-
 # OPPOSITION À IMMATRICULATION AU REGISTRE NATIONAL DES ENTREPRISES
 Nom Prénom de l'Avocat
 

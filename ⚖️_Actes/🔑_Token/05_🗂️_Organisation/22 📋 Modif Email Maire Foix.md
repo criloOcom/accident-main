@@ -1,3 +1,7 @@
+---
+reel_path: ../../👤_Reel/05_🗂️_Organisation/22 📋 Modif Email Maire Foix.md
+statut: brouillon
+---
 # Plan : Ajustement du courriel à l'Adjoint au Maire (Police Municipale et ERP)
 
 Ce plan vise à corriger la formulation de l'e-mail pour éliminer tout terme inapproprié (« bruits de couloir ») et poser une demande d'intervention factuelle d'agents assermentés de la police municipale pour contrôler la situation sur place.

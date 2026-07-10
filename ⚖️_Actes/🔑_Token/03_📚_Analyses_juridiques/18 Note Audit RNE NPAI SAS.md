@@ -5,8 +5,8 @@ type: analyse
 categorie: urgence
 auteur: La Victime
 statut: final
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/18 Note Audit RNE NPAI SAS.md
 ---
-
 # Analyse — Non-distribution LRAR et suspicion de structure miroir
 
 ## Sources vérifiées

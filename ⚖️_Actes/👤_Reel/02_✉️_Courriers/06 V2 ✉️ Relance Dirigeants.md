@@ -19,11 +19,13 @@ tags:
 - LRAR
 - fermeture boutique
 - preuves
-statut: projet
+statut: envoye
 source: local
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md
+proof_delivery: "LRAR 870014282662911 + facture Z0132713629"
+token_path: ../../🔑_Token/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md
 ---
-
 # RELANCE — DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE
 
 10 Avenue de Purpan, 31700 Blagnac

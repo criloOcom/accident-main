@@ -16,8 +16,8 @@ statut: final
 source: drive
 drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/06_🗄️_Archives/📚 ANALYSE Jurisprudence.md
 ---
-
 **Table des matières**
 
 - [INTRODUCTION](#introduction)

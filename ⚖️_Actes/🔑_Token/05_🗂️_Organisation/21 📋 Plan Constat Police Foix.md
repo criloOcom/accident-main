@@ -1,6 +1,10 @@
+---
+reel_path: ../../👤_Reel/05_🗂️_Organisation/21 📋 Plan Constat Police Foix.md
+statut: brouillon
+---
 # Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)
 
-Ce plan analyse la possibilité juridique de demander au Maire de Foix d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce au 22 Rue Lafaurie, et définit la marche à suivre pour votre courrier de demain matin.
+Ce plan analyse la possibilité juridique de demander au Maire de **[La Ville de l'Accident]** d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à **[L'Adresse de l'Exploitation]** , et définit la marche à suivre pour votre courrier de demain matin.
 
 ---
 
@@ -9,7 +13,7 @@ Ce plan analyse la possibilité juridique de demander au Maire de Foix d'envoyer
 ### Peut-on demander à la police de faire le constat à la place d'un huissier ?
 
 *   **Oui, mais uniquement sous l'angle de la sécurité publique (Police Administrative)** : 
-    Le Maire de Foix est responsable de la sécurité des Établissements Recevant du Public (ERP) sur sa commune ([art. L. 2212-2 du CGCT](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370)). En tant qu'autorité de police, il peut mandater la police municipale ou la commission de sécurité pour vérifier la conformité des installations d'un ERP.
+    Le Maire de **[La Ville de l'Accident]** est responsable de la sécurité des Établissements Recevant du Public (ERP) sur sa commune ([art. L. 2212-2 du CGCT](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370)). En tant qu'autorité de police, il peut mandater la police municipale ou la commission de sécurité pour vérifier la conformité des installations d'un ERP.
 *   **La limite majeure (Procédure Civile)** : 
     Un rapport de police municipale a une valeur administrative ou pénale, mais **n'a pas la force probante d'un constat de Commissaire de Justice (Huissier)** devant un tribunal civil pour l'indemnisation de vos préjudices. La police ne constatera pas pour votre compte le "nom de la nouvelle entreprise" ou les détails civils dans le but de vous aider à monter votre dossier de dommages-intérêts (ce n'est pas leur rôle légal).
 *   **La complémentarité des deux démarches** :
@@ -45,7 +49,7 @@ Je me permets de solliciter votre intervention urgente au titre de vos pouvoirs 
 
 Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein du salon de coiffure situé au 22 Rue Lafaurie à Foix (plaie palmaire profonde par bris de céramique défectueuse d'un bac à shampoing, 56 jours d'ITT). Une plainte pénale est en cours.
 
-Nous apprenons que l'établissement, exploité par la SAS LES MAUVAIS GARCONS (qui tente de se rendre insolvable et ne dispose pas d'assurance de responsabilité civile), fait l'objet d'une réouverture suspecte, potentiellement sous une nouvelle enseigne ou structure administrative non déclarée, tout en conservant le matériel dangereux à l'origine de mon accident.
+Nous apprenons que l'établissement, exploité par la SAS (qui tente de se rendre insolvable et ne dispose pas d'assurance de responsabilité civile), fait l'objet d'une réouverture suspecte, potentiellement sous une nouvelle enseigne ou structure administrative non déclarée, tout en conservant le matériel dangereux à l'origine de mon accident.
 
 Face au péril grave et imminent de réitération d'un tel accident sur d'autres usagers ou clients de ce salon, je vous demande respectueusement de bien vouloir :
 1. Mandater les agents de police municipale ou les services techniques de la mairie pour procéder à un contrôle sur place de la conformité des équipements de ce salon.

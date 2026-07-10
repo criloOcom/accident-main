@@ -14,12 +14,13 @@ tags:
   - bailleur
   - assurance
   - LRAR
-statut: final
+statut: envoye
 source: drive
 drive_id: 1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/05 ✉️ Courrier Proprietaire.md
+proof_delivery: "AR signé par le bailleur"
 ---
-
 # DEMANDE DE COMMUNICATION D'ASSURANCE RC
 **[L'Adresse de la Victime]** <br>
 **[L'Email de la Victime]**

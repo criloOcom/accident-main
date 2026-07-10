@@ -14,19 +14,21 @@ tags:
 statut: final
 source: local
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/04_💰_Etudes_indemnisation/12 Évaluation Dintilhac détaillée.md
 ---
-
 # ÉVALUATION FINANCIÈRE DINTILHAC DÉTAILLÉE
 > Évaluation poste par poste réalisée le 7 juillet 2026 selon la nomenclature Dintilhac, barème Mornet 2024 et jurisprudence de la Cour de cassation.
 
 ---
 
 ## 1. RÉSUMÉ EXÉCUTIF
-Le dossier initial évalue le préjudice à **59 600 €**. Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**. L'estimation médiane est de **~105 000 €** (fourchette 77 000 - 139 000 €).
+Le dossier initial évalue le préjudice à **59 600 €**. Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**. L'estimation médiane est de **~109 500 €** (fourchette 77 000 - 139 000 €).
 
 Postes oubliés dans le dossier initial :
 - **DFT (Déficit Fonctionnel Temporaire)** : 1 400 €
 - **PEP (Préjudice Esthétique Permanent)** : 3 000 €
+- **ATP (Assistance Tierce Personne)** : 2 000 €
+- **DEP (Dévalorisation Professionnelle Future)** : 3 000 €
 - **Frais divers (kiné, déplacements)** : 2 000 €
 
 ---
@@ -42,9 +44,11 @@ Postes oubliés dans le dossier initial :
 | Incidence pro | 15 000 € | 20 000 € | 40 000 € | 30 000 € |
 | Agrément | 3 000 € | 5 000 € | 15 000 € | 8 000 € |
 | PEP *(oublié)* | 0 € | 2 000 € | 5 000 € | 3 000 € |
+| ATP *(oublié)* | 0 € | 1 500 € | 3 000 € | 2 000 € |
+| DEP *(oublié)* | 0 € | 2 000 € | 5 000 € | 3 000 € |
 | Frais divers | 0 € | 1 500 € | 3 000 € | 2 000 € |
-| Art. 700 CPC | 3 000 € | 3 000 € | 5 000 € | 4 000 € |
-| **TOTAL** | **59 600 €** | **~77 000 €** | **~139 000 €** | **~105 000 €** |
+| Art. 700 CPC | 3 000 € | 3 000 € | 5 000 € | 3 000 € |
+| **TOTAL** | **~62 600 €** | **~82 500 €** | **~150 000 €** | **~109 500 €** |
 
 ### AVIS SUR L'ÉVALUATION INITIALE
 Le total de 59 600 € est **sous-évalué** pour 5 raisons :
@@ -167,10 +171,20 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 ### 3.7 PEP (PRÉJUDICE ESTHÉTIQUE PERMANENT) — POSTE OUBLIÉ
 **Proposition : 3 000 €** (cicatrice palmaire 8,5 cm, référentiel Mornet 1/7 à 4/7 : 1 200 à 20 000 €)
 
-### 3.8 FRAIS DIVERS
+### 3.8 ATP — ASSISTANCE TIERCE PERSONNE (POSTE AJOUTÉ)
+**Définition :** Besoin d'aide pour les tâches domestiques et les actes de la vie quotidienne durant la période post-opératoire (courses, ménage, préparation des repas, transport).
+
+**Calcul :** 56 jours d'ITT × ~2,5 h/sem × 13,50 €/h = **2 000 €** (fourchette 1 500-3 000 €)
+
+### 3.9 DEP — DÉVALORISATION PROFESSIONNELLE FUTURE (POSTE AJOUTÉ)
+**Définition :** Perte de valeur sur le marché du travail due aux séquelles visibles ou handicapantes, distincte de l'IP.
+
+**Proposition : 3 000 €** (prudent, en attendant expertise UMJ)
+
+### 3.10 FRAIS DIVERS
 **Proposition : 2 000 €** (kiné 3×/semaine, déplacements, frais dossier, contre-expertise éventuelle)
 
-### 3.9 ARTICLE 700 CPC
+### 3.11 ARTICLE 700 CPC
 **Proposition : 4 000 €** (complexité du dossier : expertise, recherches assurance, procédure CIVI)
 
 ---
@@ -332,7 +346,9 @@ Un mémoire juridique externe (Glose, 7 juillet 2026) propose une évaluation **
 | PEP | 3 000 € | *(inclus frais méd.)* | *(inclus)* | N/A |
 | Frais divers | 2 000 € | 2 000-5 000 € | 3 500 € | +1 500 € |
 | Art. 700 | 4 000 € | 1 500-3 000 € | 2 250 € | -1 750 € |
-| **TOTAL** | **~105 000 €** | **28 000-65 000 €** | **~45 000 €** | **-60 000 €** |
+| ATP | 2 000 € | *(incl. frais méd.)* | *(incl.)* | N/A |
+| DEP | 3 000 € | *(incl. frais méd.)* | *(incl.)* | N/A |
+| **TOTAL** | **~109 500 €** | **28 000-65 000 €** | **~45 000 €** | **-64 500 €** |
 
 ### 7.2 ANALYSE DES ÉCARTS
 **PGPA** : L'écart est minime (1 900 vs 1 380 €). Notre estimation inclut une perte de chance complémentaire (500 €). La formule Glose (56/30,44 × 750 = 1 380 €) est arithmétiquement plus précise que notre prorata 56/30.
@@ -396,9 +412,10 @@ Un tiers a produit une analyse critique du mémoire Glose, globalement convergen
 | Agrément | 8 000 € | 3 500 € | 2 000-5 000 € | **5 000 €** |
 | PEP | 3 000 € | *(inclus)* | 2 000-5 000 € | **3 000 €** |
 | DEP | *(absent)* | *(absent)* | 2 000-5 000 € | **3 000 €** |
+| ATP | *(absent)* | *(absent)* | 1 500-3 000 € | **2 000 €** |
 | Frais divers | 2 000 € | 3 500 € | 3 000-5 000 € | 3 000 € |
 | Art. 700 | 4 000 € | 2 250 € | 1 500-3 000 € | 3 000 € |
-| **TOTAL** | **~105 000 €** | **~45 000 €** | **55 000-105 000 €** | **~90 000 €** |
+| **TOTAL** | **~109 500 €** | **~45 000 €** | **55 000-107 000 €** | **~92 000 €** |
 
 ### 8.4 PROVISION RÉFÉRÉ RECOMMANDÉE
 - **Notre recommandation (renforcée)** : 15 000 € minimum

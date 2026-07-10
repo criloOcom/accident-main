@@ -6,8 +6,9 @@ categorie: urgence
 auteur: La Victime
 destinataire: Adjoint au Maire de Foix (Monsieur TAVELLA)
 statut: brouillon
+reel_path: ../../👤_Reel/02_✉️_Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md
+token_path: ../../🔑_Token/02_✉️_Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md
 ---
-
 # EMAIL — Éléments d'actualisation sur le dossier ERP (22 Rue Lafaurie, 09000 Foix)
 
 **Destinataire** : `btavella@mairie-foix.fr`

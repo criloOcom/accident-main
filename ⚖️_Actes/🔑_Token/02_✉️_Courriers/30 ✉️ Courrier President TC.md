@@ -16,8 +16,8 @@ tags:
 - LRAR
 statut: final
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/30 ✉️ Courrier President TC.md
 ---
-
 # OPPOSITION CONSERVATOIRE À RADIATION DE SOCIÉTÉ
 **[Nom de l'Avocat de la Victime]**
 

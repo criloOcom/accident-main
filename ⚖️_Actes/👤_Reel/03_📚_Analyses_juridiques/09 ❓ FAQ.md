@@ -23,6 +23,8 @@ statut: final
 source: drive
 drive_id: 1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/09 ❓ FAQ.md
+token_path: ../../🔑_Token/03_📚_Analyses_juridiques/09 ❓ FAQ.md
 ---
 # SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE **[LA VICTIME]** C/ **[L'EXPLOITANT DU COMMERCE (LA SAS)]**
 Rédigé par : Sébastien GRAZIDE

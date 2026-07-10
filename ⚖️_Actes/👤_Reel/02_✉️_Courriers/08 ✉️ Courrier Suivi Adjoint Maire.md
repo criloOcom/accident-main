@@ -17,8 +17,9 @@ statut: final
 source: drive
 drive_id: 1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
+token_path: ../../🔑_Token/02_✉️_Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
 ---
-
 # SUIVI — DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac

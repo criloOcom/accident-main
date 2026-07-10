@@ -18,8 +18,9 @@ statut: final
 source: drive
 drive_id: 153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/05_🗂️_Organisation/10 🗂️ Plan action.md
+token_path: ../../🔑_Token/05_🗂️_Organisation/10 🗂️ Plan action.md
 ---
-
 # PLAN D'ACTION ET CHRONOLOGIE DE LA PROCÉDURE
 Rédigé le 30 juin 2026
 

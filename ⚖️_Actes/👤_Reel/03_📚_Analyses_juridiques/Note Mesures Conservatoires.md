@@ -14,8 +14,9 @@ tags:
 - JEX
 statut: final
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/Note Mesures Conservatoires.md
+token_path: ../../🔑_Token/03_📚_Analyses_juridiques/Note Mesures Conservatoires.md
 ---
-
 # NOTE JURIDIQUE : MESURES CONSERVATOIRES AVANT DISPARITION
 
 ## I. PROBLÉMATIQUE

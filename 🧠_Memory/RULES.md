@@ -188,3 +188,47 @@ Il est formellement interdit de qualifier un document de « Envoyé » sur le se
 - **NE JAMAIS laisser une session Jules en plan** sans message de conclusion — cela laisse des agents en attente indéfiniment et pollue la file d'exécution.
 - L'API REST Jules ne dispose pas de méthode `delete` ou `archive` — l'envoi d'un message de clôture est le SEUL moyen de marquer proprement la fin d'une session.
 - Ce message de clôture est le signal pour l'agent que son travail est terminé et accepté ; Google archivera automatiquement les sessions clôturées côté serveur.
+
+## #13 — SYSTÈME DE STATUTS — CONVENTION
+
+Tout fichier `.md` dans ⚖️_Actes DOIT avoir un champ `statut` dans son YAML front matter, ainsi que les champs de cross-reference :
+
+### Champs YAML standardisés
+
+```yaml
+---
+titre: Mon Document
+statut: final           # ← obligatoire
+reel_path: ../../👤_Reel/{subdir}/{fichier}.md  # ← dans les fichiers token
+token_path: ../../🔑_Token/{subdir}/{fichier}.md  # ← dans les fichiers reel
+---
+```
+
+### Échelle des statuts
+
+| Valeur | Signification |
+|--------|---------------|
+| `brouillon` | En cours de rédaction, pas prêt pour relecture |
+| `projet` | Version projet, en attente de relecture/validation |
+| `preparation` | En préparation (checklists, plannings, suivis) |
+| `final` | Document finalisé, envoyé, ou prêt à l'emploi |
+| `fusionné_dans_01` | Fusionné avec un autre document (préciser lequel) |
+| `archive` | Document historique conservé pour référence |
+
+### Dossier /🚦 Status/
+
+Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
+
+| Index | Statuts YAML | Critère |
+|-------|-------------|---------|
+| `01_PREPARATION.md` | `brouillon`, `projet`, `fusionné_dans_01` | En cours |
+| `02_PRET_POUR_ENVOI.md` | `final`, `preparation` | Finalisé mais `proof_delivery: null` |
+| `03_ENVOYE.md` | `envoye` | `proof_delivery` rempli |
+
+### Liens croisés token↔reel
+
+- Dans `🔑_Token/` : `reel_path` pointe vers le fichier réel correspondant dans `👤_Reel/`
+- Dans `👤_Reel/` : `token_path` pointe vers le fichier tokenisé correspondant dans `🔑_Token/`
+- Les liens sont des chemins relatifs (fonctionnent depuis GitHub)
+- `proof_delivery` : champ YAML optionnel contenant le numéro LRAR/AR/preuve
+- Gérés automatiquement par `.dev/app/update_status_system.py` et `.dev/app/update_proof_delivery.py`

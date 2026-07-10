@@ -1,3 +1,8 @@
+---
+reel_path: ../../👤_Reel/05_🗂️_Organisation/06 📋 Synthese des Actions et Audits.md
+statut: brouillon
+token_path: ../../🔑_Token/05_🗂️_Organisation/06 📋 Synthese des Actions et Audits.md
+---
 # Note de Synthèse — Avancement des Audits & Recommandations
 
 Cette note récapitule l'analyse systématique de tous les rapports d'audit dans `📊_Rapports/` et catégorise l'état d'avancement des tâches en suspens.
@@ -17,7 +22,7 @@ Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent
 - [ ] **Communiquer les adresses emails** de ces témoins afin de pouvoir leur transmettre les gabarits pré-remplis de manière électronique.
 
 ### C. Démarches Médicales & Consolidation
-- [ ] **Relancer le Dr DJERBI** : Transmettre la relance pour le certificat de consolidation de votre main droite (Pièce n°25) afin de pouvoir chiffrer précisément les préjudices fonctionnels permanents selon le barème Dintilhac.
+- [ ] **Relancer le chirurgien SOS Main** : Transmettre la relance pour le certificat de consolidation de votre main droite (Pièce n°25) afin de pouvoir chiffrer précisément les préjudices fonctionnels permanents selon le barème Dintilhac.
 - [ ] **UMJ Purpan (12 Novembre 2026 à 13h45)** : Assurer votre présence à la convocation judiciaire d'évaluation de l'ITT avec un dossier médical complet.
 
 ### D. Assistance Juridique & Aide Juridictionnelle
@@ -30,7 +35,7 @@ Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent
 
 Toutes les erreurs techniques de rédaction relevées par les réviseurs et spécialistes juridiques ont été traitées.
 
-- **Nettoyage RGPD & Anonymisation** : L'adresse de l'exploitation (`22 Rue Lafaurie`) ainsi que les noms complets ont été tokenisés dans la totalité des documents de travail (`⚖️_Actes/🔑_Token/`).
+- **Nettoyage RGPD & Anonymisation** : L'adresse de l'exploitation ainsi que les noms complets ont été tokenisés dans la totalité des documents de travail (`⚖️_Actes/🔑_Token/`).
 - **Correction des Articles de Loi Erronés** : Suppression définitive de l'article erroné `L.211-26 C. assurances` et correction systématique de toutes les citations.
 - **Référé vs Requête** : Distanciation formelle des démarches contradictoires (référé pour provision à valoir de 15 000 €) et des mesures urgentes in futurum (requête de constat urgent art. 145 CPC).
 - **Intégration de la clause Legal Hold** : Clause formelle de préservation des preuves ajoutée dans les mises en demeure.

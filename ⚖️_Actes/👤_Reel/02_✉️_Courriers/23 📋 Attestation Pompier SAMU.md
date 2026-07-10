@@ -13,8 +13,9 @@ statut: final
 source: drive
 drive_id: '1U2TD8Ftkjmtx2f6THDKNC3-1KXFH07KolM9nAN1TJXw'
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/23 📋 Attestation Pompier SAMU.md
+token_path: ../../🔑_Token/02_✉️_Courriers/23 📋 Attestation Pompier SAMU.md
 ---
-
 # ATTESTATION DE TÉMOIN (CERFA N° 11527*03)Article 202 du Code de procédure civile
 
 > **INSTRUCTIONS DE REMPLISSAGE (à lire avant de compléter) :**

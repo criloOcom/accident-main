@@ -21,8 +21,9 @@ statut: final
 source: drive
 drive_id: 1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/13 ✉️ Courrier Prefecture.md
+token_path: ../../🔑_Token/02_✉️_Courriers/13 ✉️ Courrier Prefecture.md
 ---
-
 # CONFIRMATION OFFICIELLE DE SIGNALEMENT A LA PREFECTURE DE L'ARIEGE
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac

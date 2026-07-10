@@ -14,8 +14,8 @@ statut: final
 source: drive
 drive_id: ''
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/05_🗂️_Organisation/11 📅 Calendrier procedural.md
 ---
-
 # 11 - CALENDRIER PROCÉDURAL
 ## I. ÉVÉNEMENTS PASSÉS
 | Date | ID | Événement | Catégorie | Statut |

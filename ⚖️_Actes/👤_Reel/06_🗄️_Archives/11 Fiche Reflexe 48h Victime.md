@@ -14,8 +14,9 @@ tags:
 statut: projet
 source: local
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/06_🗄️_Archives/11 Fiche Reflexe 48h Victime.md
+token_path: ../../🔑_Token/06_🗄️_Archives/11 Fiche Reflexe 48h Victime.md
 ---
-
 # FICHE REFLEXE 48H
 
 ## Victime d'accident corporel — Conduite a tenir

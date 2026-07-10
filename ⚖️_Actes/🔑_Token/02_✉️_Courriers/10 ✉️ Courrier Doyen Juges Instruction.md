@@ -15,12 +15,13 @@ tags:
 - partie civile
 - juge instruction
 - envoi
-statut: final
+statut: envoye
 source: drive
 drive_id: 1nFSf3EDB_bVudz5Xhf0NvXlibTesCL8M5hepEZqxd5w
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/10 ✉️ Courrier Doyen Juges Instruction.md
+proof_delivery: "Déposé au TJ Foix le 06/07/2026"
 ---
-
 # ENVOI CONSTITUTION DE PARTIE CIVILE
 **[La Victime]**
 

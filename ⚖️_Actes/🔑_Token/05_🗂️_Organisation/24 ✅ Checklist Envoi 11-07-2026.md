@@ -13,8 +13,8 @@ tags:
 - 11-juillet
 statut: preparation
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/05_🗂️_Organisation/24 ✅ Checklist Envoi 11-07-2026.md
 ---
-
 # CHECKLIST ENVOI LRAR — 11 JUILLET 2026
 
 ## 1. AVANT DEPART — PREPARATION

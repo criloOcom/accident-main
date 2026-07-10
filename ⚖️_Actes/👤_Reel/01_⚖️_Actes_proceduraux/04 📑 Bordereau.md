@@ -23,8 +23,9 @@ statut: final
 source: drive
 drive_id: ''
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/04 📑 Bordereau.md
+token_path: ../../🔑_Token/01_⚖️_Actes_proceduraux/04 📑 Bordereau.md
 ---
-
 # BORDEREAU DE PIÈCES
 | Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : Sébastien GRAZIDE | Défendeur : SAS LES MAUVAIS GARCONS |
 |:---|:---|:---|

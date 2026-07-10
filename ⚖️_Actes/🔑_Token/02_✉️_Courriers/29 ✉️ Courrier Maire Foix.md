@@ -14,8 +14,8 @@ tags:
   - COMSUR
 statut: final
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/29 ✉️ Courrier Maire Foix.md
 ---
-
 # LETTRE RECOMMANDÉE AVEC ACCUSÉ DE RÉCEPTION
 
 **[La Victime]**

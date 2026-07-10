@@ -12,8 +12,8 @@ tags:
 statut: brouillon
 source: local
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/27 📧 Attestation Pompier SAMU.md
 ---
-
 # TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (POMPIER / SAMU)
 Objet : Attestation de témoin — Intervention du **[J+0 Accident]** au **[L'Adresse de l'Exploitation]**
 

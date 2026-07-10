@@ -18,8 +18,8 @@ tags:
   - contestation
 statut: final
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/99 🛡️ Memoire en defense adverse.md
 ---
-
 # MÉMOIRE EN DÉFENSE ADVERSE
 **Pour :** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** (Partie Défenderesse)
 **Contre :** **[La Victime]** (Partie Demanderesse)

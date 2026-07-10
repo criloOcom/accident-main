@@ -23,8 +23,8 @@ statut: final
 source: drive
 drive_id: ''
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/04 📑 Bordereau.md
 ---
-
 # BORDEREAU DE PIÈCES
 | Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : **[La Victime]** | Défendeur : **[L'Exploitant du Commerce (La SAS)]** |
 |:---|:---|:---|

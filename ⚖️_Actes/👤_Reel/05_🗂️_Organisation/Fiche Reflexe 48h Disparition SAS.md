@@ -13,10 +13,11 @@ tags:
 - parquet
 - inpi
 - constat
-statut: draft
+statut: brouillon
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/05_🗂️_Organisation/Fiche Reflexe 48h Disparition SAS.md
+token_path: ../../🔑_Token/05_🗂️_Organisation/Fiche Reflexe 48h Disparition SAS.md
 ---
-
 # FICHE RÉFLEXE 48H : DISPARITION DE LA SAS
 
 ## PROBLÉMATIQUE

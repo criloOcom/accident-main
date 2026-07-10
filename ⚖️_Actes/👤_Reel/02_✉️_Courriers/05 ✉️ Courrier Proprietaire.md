@@ -14,12 +14,14 @@ tags:
   - bailleur
   - assurance
   - LRAR
-statut: final
+statut: envoye
 source: drive
 drive_id: 1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/05 ✉️ Courrier Proprietaire.md
+proof_delivery: "AR signé par le bailleur"
+token_path: ../../🔑_Token/02_✉️_Courriers/05 ✉️ Courrier Proprietaire.md
 ---
-
 # DEMANDE DE COMMUNICATION D'ASSURANCE RC
 10 Avenue de Purpan, 31700 Blagnac <br>
 sebastien.grazide@gmail.com

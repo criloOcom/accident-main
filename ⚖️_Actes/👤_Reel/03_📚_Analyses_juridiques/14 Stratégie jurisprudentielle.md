@@ -15,8 +15,9 @@ tags:
 statut: final
 source: local
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/14 Stratégie jurisprudentielle.md
+token_path: ../../🔑_Token/03_📚_Analyses_juridiques/14 Stratégie jurisprudentielle.md
 ---
-
 # STRATÉGIE JURISPRUDENTIELLE — BASCULEMENT VASQUE SALON DE COIFFURE
 
 > **Objet** : Mapping des arrêts de la Cour de cassation au cas concret, hiérarchie argumentative et préparation des débats.

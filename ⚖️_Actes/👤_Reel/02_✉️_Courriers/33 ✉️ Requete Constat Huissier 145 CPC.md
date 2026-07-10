@@ -20,8 +20,9 @@ tags:
 statut: projet
 source: local
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/33 ✉️ Requete Constat Huissier 145 CPC.md
+token_path: ../../🔑_Token/02_✉️_Courriers/33 ✉️ Requete Constat Huissier 145 CPC.md
 ---
-
 # REQUETE AU PRESIDENT DU TRIBUNAL JUDICIAIRE DE Foix
 
 **AUX FINS DE DESIGNATION D'HUISSIER DE JUSTICE POUR CONSTAT**

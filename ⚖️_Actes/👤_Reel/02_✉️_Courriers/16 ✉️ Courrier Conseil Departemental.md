@@ -18,8 +18,9 @@ statut: final
 source: drive
 drive_id: 1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ
 format: Arial JUSTIFIED
+reel_path: ../../👤_Reel/02_✉️_Courriers/16 ✉️ Courrier Conseil Departemental.md
+token_path: ../../🔑_Token/02_✉️_Courriers/16 ✉️ Courrier Conseil Departemental.md
 ---
-
 # SIGNALEMENT DE NON-CONFORMITE D'ERP AU CONSEIL DEPARTEMENTAL DE L'ARIEGE
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac
