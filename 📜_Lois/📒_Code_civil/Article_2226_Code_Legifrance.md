@@ -1,3 +1,12 @@
+---
+title: Article 2226
+code: Code Civil
+article: 2226
+date: 2026-07-10
+source: Légifrance
+status: En vigueur
+---
+
 # Article 2226
 
 

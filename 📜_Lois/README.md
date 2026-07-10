@@ -46,7 +46,7 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [Art. 1720](📒_Code_civil/Article1720_CodeCivil_LegiFrance.md) — Réparations locatives
 - [Art. 2226](📒_Code_civil/Article_2226_Code_Legifrance.md) — Prescription décennale
 
-### 📒 Code pénal (10 articles)
+### 📒 Code pénal (6 articles)
 - [Art. 121-3](📒_Autres_codes/Article_121-3_Code_Legifrance.md) — Responsabilité des personnes morales
 - [Art. 222-19](📒_Code_penal/Article_222-19_CodePenal_Legifrance.md) — Blessures involontaires
 - [Art. 222-20](📒_Code_penal/Article222-20_CodePenal_LegiFrance.md) — Blessures avec circonstances aggravantes
@@ -67,10 +67,10 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [Art. 706-3](📒_Code_procedure_penale/Article_706-3_CodeProcedurePenale_Legifrance.md) — FGTI ✨ NOUVEAU
 
 ### 📒 Code des assurances (2 articles)
-- [Art. L.113-2](📒_Autres_codes/Article_L113-2_Codesassurances_Legifrance.md) — Déclaration du risque
-- [Art. L.124-3](📒_Autres_codes/Article_L124-3_Codesassurances_Legifrance.md) — Action directe
+- [Art. L.113-2](📒_Code_assurances/Article_L113-2_Codesassurances_Legifrance.md) — Déclaration du risque
+- [Art. L.124-3](📒_Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) — Action directe
 
-### 📒 Code de commerce (6 articles)
+### 📒 Code de commerce (5 articles)
 - [Art. L.210-6](📒_Code_commerce/Article_L210-6_Codecommerce_Legifrance.md) — Responsabilité des dirigeants
 - [Art. L.223-22](📒_Code_commerce/Article_L223-22_Codecommerce_Legifrance.md) — Nullité des actes
 - [Art. L.225-251](📒_Code_commerce/Article_L225-251_Codecommerce_Legifrance.md) — Responsabilité en cas de liquidation
@@ -78,7 +78,7 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [Art. L.227-1](📒_Code_commerce/Article_L227-1_Code_Legifrance.md) — Pouvoirs du président
 - [Art. L.237-2](📒_Code_commerce/Article_L237-2_Codecommerce_Legifrance.md) — Responsabilité des dirigeants
 
-### 📒 Autres codes (6 articles)
+### 📒 Autres codes (9 articles)
 - [Art. L.421-3](📒_Autres_codes/Article_L421-3_Codeconsommation_Legifrance.md) — Sécurité des consommateurs
 - [Art. R.143-2](📒_Autres_codes/Article_R143-2_Codeconstructionhabitation_Legifrance.md) — Sécurité des ERP
 - [Art. L.2212-2](📒_Autres_codes/Article_L2212-2_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Pouvoirs de police du maire ✨ NOUVEAU

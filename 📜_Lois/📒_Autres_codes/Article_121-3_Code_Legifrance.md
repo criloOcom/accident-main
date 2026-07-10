@@ -1,3 +1,12 @@
+---
+title: Article 121-3
+code: Autres Codes
+article: 121
+date: 2026-07-10
+source: Légifrance
+status: En vigueur
+---
+
 # Article 121-3
 
 

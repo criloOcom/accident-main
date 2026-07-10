@@ -1,3 +1,12 @@
+---
+title: Article L113-2
+code: Autres Codes
+article: L113
+date: 2026-07-10
+source: Légifrance
+status: En vigueur
+---
+
 # Article L113-2
 
 

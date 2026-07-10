@@ -1,3 +1,12 @@
+---
+title: Articles 121-1 à 121-7
+code: Autres Codes
+article: L121
+date: 2026-07-10
+source: Légifrance
+status: En vigueur
+---
+
 # Articles 121-1 à 121-7
 
 

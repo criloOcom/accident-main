@@ -1,3 +1,12 @@
+---
+title: Article L237-2
+code: Code Commerce
+article: L237
+date: 2026-07-10
+source: Légifrance
+status: En vigueur
+---
+
 # Article L237-2
 
 
