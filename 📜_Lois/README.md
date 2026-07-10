@@ -38,11 +38,11 @@ Le dossier a été réorganisé pour une meilleure navigation :
 
 ### 📒 Code pénal (8 articles)
 - [Art. 121-3](📒_Autres_codes/Article_121-3_Code_Legifrance.md) — Responsabilité des personnes morales
-- [Art. 222-19](📒_Autres_codes/Article_222-19_CodePenal_Legifrance.md) — Blessures involontaires
+- [Art. 222-19](📒_Code_penal/Article_222-19_CodePenal_Legifrance.md) — Blessures involontaires
 - [Art. 222-20](📒_Code_penal/Article222-20_CodePenal_LegiFrance.md) — Blessures avec circonstances aggravantes
 - [Art. 223-1](📒_Autres_codes/Article_223-1_Code_Legifrance.md) — Mise en danger d'autrui
-- [Art. 314-7](📒_Autres_codes/Article_314-7_CodePenal_Legifrance.md) — Fraude sociale ✨ NOUVEAU
-- [Art. 434-4](📒_Autres_codes/Article_434-4_CodePenal_Legifrance.md) — Refus de communication ✨ NOUVEAU
+- [Art. 314-7](📒_Code_penal/Article_314-7_CodePenal_Legifrance.md) — Fraude sociale ✨ NOUVEAU
+- [Art. 434-4](📒_Code_penal/Article_434-4_CodePenal_Legifrance.md) — Refus de communication ✨ NOUVEAU
 - [Art. 434-15](📒_Autres_codes/Article_434-15_CodePenal_Legifrance.md) — Obstruction à la justice ✨ NOUVEAU
 - [Art. 434-15-1](📒_Autres_codes/Article_434-15-1_CodePenal_Legifrance.md) — Obstruction aggravée ✨ NOUVEAU
 
@@ -54,7 +54,7 @@ Le dossier a été réorganisé pour une meilleure navigation :
 
 ### 📒 Code de procédure pénale (2 articles)
 - [Art. 475-1](📒_Code_procedure_penale/Article475-1_CodeProcedurePenale.md) — Constitution de partie civile
-- [Art. 706-3](📒_Autres_codes/Article_706-3_CodeProcedurePenale_Legifrance.md) — FGTI ✨ NOUVEAU
+- [Art. 706-3](📒_Code_procedure_penale/Article_706-3_CodeProcedurePenale_Legifrance.md) — FGTI ✨ NOUVEAU
 
 ### 📒 Code des assurances (2 articles)
 - [Art. L.113-2](📒_Autres_codes/Article_L113-2_Codesassurances_Legifrance.md) — Déclaration du risque
