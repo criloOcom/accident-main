@@ -1,23 +1,10 @@
 # TODO — Plans d'action + Tableau de bord Sébastien
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ TODO.md ](.TODO.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ TODO.md ](.TODO.md)
-```
-
 > **Dernière mise à jour :** 10 juillet 2026
 >
 > **Règle absolue :** tout nouvel article de loi cité DOIT être lu via MCP
 > Légifrance (`consulter_article` ou `rechercher_code`) pour vérifier le contexte
 > avant intégration.
->
-> **Nouveau :** Voir `📜_Lois/EXEMPLES_REQUETES_MCP.md` pour des exemples
-> concrets et testés d'utilisation des MCP Légifrance et Judilibre.
 
 ---
 
@@ -26,9 +13,6 @@
 ### ✅ Dernières actions IA (10 juillet 2026)
 - **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → `📊_Rapports/RAPPORT_AUDIT_RISQUES.md`
 - **Risques prioritaires identifiés** : 4 critiques (🔴 R1-R3-R5) et 6 urgents (🟠 R4-R6-R7-R8-R9-R19)
-- **Intégration jurisprudentielle** : 3 décisions clés + annexes complètes → `⚖️_Actes/📎_Annexes/`
-- **Plainte complémentaire** : création du document n°36 pour obstruction à la justice → `⚖️_Actes/👤_Reel/02_✉️_Courriers/36 ✉️ Plainte Complémentaire Police Foix.md`
-- **Articles de loi ajoutés** : Articles 434-15 et 434-15-1 du Code pénal → `📜_Lois/📒_Code_penal/`
 
 ### ✅ Dernières actions IA (8 juillet 2026)
 - **12 PRs Jules mergées** (#73-84) : audits avocat, RGPD, barémique, assurance, FGTI, organisation, dirigeants, ERP, ordonnance
@@ -57,7 +41,6 @@ ni contacter des personnes à ta place.
 ### ✅ Check-list actions à faire par toi
 
 #### Court terme (cette semaine)
-- [ ] **Déposer la plainte complémentaire n°36** au commissariat de Foix (obstruction à la justice)
 - [ ] **Trouver un huissier** pour constater l'état du salon et la vidéosurveillance
 - [ ] **Communiquer les emails** des 3 témoins (client, pompier SAMU, employé)
 - [ ] **Communiquer email/tél du Dr DJERBI** pour relance consolidation

@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 35 ✉️ Courrier President TJ Foix.md ](.35 ✉️ Courrier President TJ Foix.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 35 ✉️ Courrier President TJ Foix.md ](.35 ✉️ Courrier President TJ Foix.md)
-```
-
 ---
 titre: Transmission de preuves complementaires au Tribunal Judiciaire de Foix - Version réelle
 date: 2026-07-12
@@ -26,6 +18,7 @@ tags:
 statut: final
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/35 ✉️ Courrier President TJ Foix.md
+token_path: ../../🔑_Token/02_✉️_Courriers/35 ✉️ Courrier President TJ Foix.md
 ---
 # TRANSMISSION DE PREUVES COMPLEMENTAIRES AU TRIBUNAL JUDICIAIRE DE FOIX
 

@@ -1,15 +1,5 @@
 # RAPPORT D'AUDIT DE CONFORMITÉ RÉGLEMENTAIRE (ERP TYPE N)
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ rapport_conformite_erp.md ](.rapport_conformite_erp.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ rapport_conformite_erp.md ](.rapport_conformite_erp.md)
-```
-
 **Établissement :** **[L'Exploitant du Commerce (La SAS)]** (Bar avec salon de coiffure)
 **Rédigé par :** Expert conformité ERP / Inspecteur du Travail
 **Date :** 8 juillet 2026

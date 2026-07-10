@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 02 🚔 Plainte.md ](.02 🚔 Plainte.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 02 🚔 Plainte.md ](.02 🚔 Plainte.md)
-```
-
 ---
 titre: Plainte Complément — Défaut d'Assurance RC
 date: 2026-06-30

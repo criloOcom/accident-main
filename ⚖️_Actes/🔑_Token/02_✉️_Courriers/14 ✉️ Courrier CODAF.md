@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 14 ✉️ Courrier CODAF.md ](.14 ✉️ Courrier CODAF.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 14 ✉️ Courrier CODAF.md ](.14 ✉️ Courrier CODAF.md)
-```
-
 ---
 titre: Signalement Officiel au CODAF
 date: 2026-07-05

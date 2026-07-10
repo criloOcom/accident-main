@@ -1,15 +1,5 @@
 # 🚦 Status — Index des documents par statut
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🚦_Status ](../README.md) > 📄 [ README.md ](.README.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🚦_Status ](../README.md) > 📄 [ README.md ](.README.md)
-```
-
 Ce dossier regroupe tous les documents du dossier **Accident Main** classés par statut de délivrance.
 
 ## Index

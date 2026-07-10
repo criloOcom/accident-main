@@ -1,15 +1,5 @@
 # RAPPORT D'ÉVALUATION MAGISTRAT : COURRIER DE RELANCE DIRIGEANTS V2
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ Evaluation_Magistrat_06_V2.md ](.Evaluation_Magistrat_06_V2.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ Evaluation_Magistrat_06_V2.md ](.Evaluation_Magistrat_06_V2.md)
-```
-
 **Dossier :** **[La Victime]** c/ **[L'Exploitant du Commerce (La SAS)]**
 **Pièce analysée :** Relance — Demande d'information Assurance RC et d'adresse de correspondance (06 V2)
 **Analyste :** Magistrat, Président du Tribunal Judiciaire

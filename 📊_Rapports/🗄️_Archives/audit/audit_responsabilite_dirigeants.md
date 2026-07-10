@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_responsabilite_dirigeants.md ](.audit_responsabilite_dirigeants.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_responsabilite_dirigeants.md ](.audit_responsabilite_dirigeants.md)
-```
-
 ---
 titre: Audit de la Responsabilité des Dirigeants
 date: 2026-07-08

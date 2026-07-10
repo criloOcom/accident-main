@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 02 🚔 Plainte.md ](.02 🚔 Plainte.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 02 🚔 Plainte.md ](.02 🚔 Plainte.md)
-```
-
 ---
 titre: Plainte Complément — Défaut d'Assurance RC - Version réelle
 date: 2026-06-30
@@ -30,6 +22,7 @@ source: drive
 drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/02 🚔 Plainte.md
+token_path: ../../🔑_Token/01_⚖️_Actes_proceduraux/02 🚔 Plainte.md
 ---
 # COMPLÉMENT DE PLAINTE PÉNALE — DÉFAUT D'ASSURANCE RC
 Rédigé le 30 juin 2026

@@ -1,15 +1,5 @@
 # RAPPORT D'AUDIT — PLAN D'ACTION ET ORDONNANCEMENT
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_PLAN_ACTION.md ](.RAPPORT_AUDIT_PLAN_ACTION.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_PLAN_ACTION.md ](.RAPPORT_AUDIT_PLAN_ACTION.md)
-```
-
 **Date :** 10 juillet 2026  
 **Objet :** Audit de cohérence transverse entre le Plan d'action, le Calendrier procédural, les actions réalisées IA, les tâches humaines en suspens, et le suivi LRAR  
 **Périmètre :** `10 🗂️ Plan action.md`, `11 📅 Calendrier procedural.md`, `06 📋 Synthese des Actions et Audits.md`, `23 📊 Suivi Envois LRAR.md`, `🧠_Memory/TODO.md`, `🧠_Memory/STATUS.md`

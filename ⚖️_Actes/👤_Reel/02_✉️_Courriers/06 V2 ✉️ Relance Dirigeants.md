@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 06 V2 ✉️ Relance Dirigeants.md ](.06 V2 ✉️ Relance Dirigeants.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 06 V2 ✉️ Relance Dirigeants.md ](.06 V2 ✉️ Relance Dirigeants.md)
-```
-
 ---
 titre: Relance — Demande d'information Assurance RC et d'adresse de correspondance - Version réelle
 date: 2026-07-08
@@ -32,6 +24,7 @@ source: local
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md
 proof_delivery: "LRAR 870014282662911 + facture Z0132713629"
+token_path: ../../🔑_Token/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md
 ---
 # RELANCE — DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE
 

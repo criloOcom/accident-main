@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 11+12 📊 Evaluation Dintilhac consolidee.md ](.11+12 📊 Evaluation Dintilhac consolidee.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 11+12 📊 Evaluation Dintilhac consolidee.md ](.11+12 📊 Evaluation Dintilhac consolidee.md)
-```
-
 ---
 titre: "Évaluation Dintilhac Consolidée — 11 + 12"
 date: 2026-07-07

@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 21 🔄 Relance CPAM.md ](.21 🔄 Relance CPAM.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 21 🔄 Relance CPAM.md ](.21 🔄 Relance CPAM.md)
-```
-
 ---
 titre: Relance CPAM — Suivi du Dossier de Recours Contre Tiers - Version réelle
 date: 2026-07-05
@@ -26,6 +18,7 @@ source: drive
 drive_id: 1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/21 🔄 Relance CPAM.md
+token_path: ../../🔑_Token/02_✉️_Courriers/21 🔄 Relance CPAM.md
 ---
 # RELANCE CPAM — SUIVI DU DOSSIER DE RECOURS CONTRE TIERS
 Sébastien GRAZIDE

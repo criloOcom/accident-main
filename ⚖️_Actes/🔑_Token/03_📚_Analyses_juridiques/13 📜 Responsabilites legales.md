@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 13 📜 Responsabilites legales.md ](.13 📜 Responsabilites legales.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 13 📜 Responsabilites legales.md ](.13 📜 Responsabilites legales.md)
-```
-
 ---
 titre: Analyse des Fondements de la Responsabilité Juridique
 date: 2026-06-30

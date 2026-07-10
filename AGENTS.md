@@ -1,15 +1,5 @@
 # AGENTS — Documentation Partagée
 
-
-```
-🏠 [Accueil](../README.md) > 📄 [ AGENTS.md ](.AGENTS.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📄 [ AGENTS.md ](.AGENTS.md)
-```
-
 Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, etc.) travaillant sur le dossier Accident de la Main.
 
 ## Structure du projet

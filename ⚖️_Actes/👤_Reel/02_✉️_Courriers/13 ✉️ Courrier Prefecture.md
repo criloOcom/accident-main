@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 13 ✉️ Courrier Prefecture.md ](.13 ✉️ Courrier Prefecture.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 13 ✉️ Courrier Prefecture.md ](.13 ✉️ Courrier Prefecture.md)
-```
-
 ---
 titre: Confirmation Officielle de Signalement a la Prefecture - Version réelle
 date: 2026-07-05
@@ -30,6 +22,7 @@ source: drive
 drive_id: 1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/13 ✉️ Courrier Prefecture.md
+token_path: ../../🔑_Token/02_✉️_Courriers/13 ✉️ Courrier Prefecture.md
 ---
 # CONFIRMATION OFFICIELLE DE SIGNALEMENT A LA PREFECTURE DE L'ARIEGE
 Sébastien GRAZIDE

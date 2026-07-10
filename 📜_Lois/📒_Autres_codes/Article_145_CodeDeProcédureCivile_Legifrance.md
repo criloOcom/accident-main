@@ -1,15 +1,5 @@
 # Code civil — Art. 145
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_145_CodeDeProcédureCivile_Legifrance.md ](.Article_145_CodeDeProcédureCivile_Legifrance.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_145_CodeDeProcédureCivile_Legifrance.md ](.Article_145_CodeDeProcédureCivile_Legifrance.md)
-```
-
 > **Nature** : Code
 
 ---

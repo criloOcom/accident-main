@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 03 🔍 Assignation Article 145.md ](.03 🔍 Assignation Article 145.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 03 🔍 Assignation Article 145.md ](.03 🔍 Assignation Article 145.md)
-```
-
 ---
 titre: Assignation en Refere Article 145 CPC — Communication Police d'Assurance RC
 date: 2026-07-05

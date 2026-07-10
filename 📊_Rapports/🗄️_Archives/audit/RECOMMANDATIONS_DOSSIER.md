@@ -1,15 +1,5 @@
 # RECOMMANDATIONS ET ÉLÉMENTS MANQUANTS DU DOSSIER
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RECOMMANDATIONS_DOSSIER.md ](.RECOMMANDATIONS_DOSSIER.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RECOMMANDATIONS_DOSSIER.md ](.RECOMMANDATIONS_DOSSIER.md)
-```
-
 Suite à l'analyse approfondie du dossier `accident-main` et à des recherches juridiques complémentaires, voici la synthèse des éléments manquants et des recommandations stratégiques.
 
 ## 1. STRATÉGIE PÉNALE ET INDEMNISATION (CIVI / SARVI)

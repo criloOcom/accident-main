@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 12 Évaluation Dintilhac détaillée.md ](.12 Évaluation Dintilhac détaillée.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 12 Évaluation Dintilhac détaillée.md ](.12 Évaluation Dintilhac détaillée.md)
-```
-
 ---
 titre: Évaluation financière Dintilhac détaillée - Version réelle
 date: 2026-07-07
@@ -23,6 +15,7 @@ statut: final
 source: local
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/04_💰_Etudes_indemnisation/12 Évaluation Dintilhac détaillée.md
+token_path: ../../🔑_Token/04_💰_Etudes_indemnisation/12 Évaluation Dintilhac détaillée.md
 ---
 # ÉVALUATION FINANCIÈRE DINTILHAC DÉTAILLÉE
 > Évaluation poste par poste réalisée le 7 juillet 2026 selon la nomenclature Dintilhac, barème Mornet 2024 et jurisprudence de la Cour de cassation.

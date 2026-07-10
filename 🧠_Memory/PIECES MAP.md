@@ -1,15 +1,5 @@
 # PIECES MAP — Correspondance Documents ↔ Pièces
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ PIECES MAP.md ](.PIECES MAP.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ PIECES MAP.md ](.PIECES MAP.md)
-```
-
 Source : Spreadsheet [🔗 Voir](https://drive.google.com/file/d/1KNRJpDE24jpDXkLBTCZcVXsUbOueoe6Lg-7FJdM9jEE/view)
 Drive pièces : [🔗 Voir](https://drive.google.com/file/d/1dQlB-56-h1AUDH3o5xpQw1c1PaehHoMP/view)
 

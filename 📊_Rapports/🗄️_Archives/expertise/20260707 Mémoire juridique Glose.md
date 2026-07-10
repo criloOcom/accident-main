@@ -1,15 +1,5 @@
 # Mémoire juridique — Accident corporel salon de coiffure
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ 20260707 Mémoire juridique Glose.md ](.20260707 Mémoire juridique Glose.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ 20260707 Mémoire juridique Glose.md ](.20260707 Mémoire juridique Glose.md)
-```
-
 > Rédigé par l'assistant juridique Glose, reçu le 7 juillet 2026.
 > Analyse indépendante, évaluation plus conservative que notre estimation locale.
 

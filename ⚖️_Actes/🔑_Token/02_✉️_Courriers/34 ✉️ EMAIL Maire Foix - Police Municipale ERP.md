@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md ](.34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md ](.34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md)
-```
-
 ---
 titre: Email définitif à l'Adjoint au Maire de **[La Ville de l'Accident]** — Éléments d'actualisation sur le dossier ERP
 date: 2026-07-10

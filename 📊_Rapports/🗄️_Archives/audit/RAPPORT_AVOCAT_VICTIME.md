@@ -1,15 +1,5 @@
 # Rapport d'Audit Juridique et Stratégique — Avocat de la Victime
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_AVOCAT_VICTIME.md ](.RAPPORT_AVOCAT_VICTIME.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_AVOCAT_VICTIME.md ](.RAPPORT_AVOCAT_VICTIME.md)
-```
-
 **Dossier :** Sébastien GRAZIDE c/ SAS LES MAUVAIS GARÇONS et consorts  
 **Date du rapport :** 6 juillet 2026  
 **Rédacteur :** AGENT 4 — Avocat de la Victime (AVOCAT_VICTIME)  

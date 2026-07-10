@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 09 ✉️ Courrier Inspection Travail.md ](.09 ✉️ Courrier Inspection Travail.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 09 ✉️ Courrier Inspection Travail.md ](.09 ✉️ Courrier Inspection Travail.md)
-```
-
 ---
 titre: Demande d'Information a l'Inspection du Travail
 date: 2026-07-05

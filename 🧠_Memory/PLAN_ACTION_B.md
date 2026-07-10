@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ PLAN_ACTION_B.md ](.PLAN_ACTION_B.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ PLAN_ACTION_B.md ](.PLAN_ACTION_B.md)
-```
-
 ---
 format: Arial JUSTIFIED
 ---

@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 28 📧 Attestation Employe.md ](.28 📧 Attestation Employe.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 28 📧 Attestation Employe.md ](.28 📧 Attestation Employe.md)
-```
-
 ---
 titre: Email Transmission Attestation Employé
 date: 2026-07-06

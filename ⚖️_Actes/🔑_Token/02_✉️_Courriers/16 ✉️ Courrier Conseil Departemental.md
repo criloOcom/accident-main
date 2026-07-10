@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 16 ✉️ Courrier Conseil Departemental.md ](.16 ✉️ Courrier Conseil Departemental.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 16 ✉️ Courrier Conseil Departemental.md ](.16 ✉️ Courrier Conseil Departemental.md)
-```
-
 ---
 titre: Signalement de Non-Conformite ERP au Conseil Departemental
 date: 2026-07-05

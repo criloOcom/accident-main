@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 22 📋 Attestation Témoin Client.md ](.22 📋 Attestation Témoin Client.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 22 📋 Attestation Témoin Client.md ](.22 📋 Attestation Témoin Client.md)
-```
-
 ---
 titre: 22 Gabarit Attestation Témoin Client - V1 - Version réelle
 date: '2026-06-30'
@@ -22,6 +14,7 @@ source: drive
 drive_id: '1mLVji0_j8CTh2TjPr7bXAkoBaR2NmWEH89KXTk7Xbk4'
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/22 📋 Attestation Témoin Client.md
+token_path: ../../🔑_Token/02_✉️_Courriers/22 📋 Attestation Témoin Client.md
 ---
 # ATTESTATION DE TÉMOIN (CERFA N° 11527*03)Article 202 du Code de procédure civile
 

@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 24 📋 Attestation Employé.md ](.24 📋 Attestation Employé.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 24 📋 Attestation Employé.md ](.24 📋 Attestation Employé.md)
-```
-
 ---
 titre: 24 Gabarit Attestation Employé - V1 - Version réelle
 date: '2026-06-30'
@@ -22,6 +14,7 @@ source: drive
 drive_id: '1Icvl9wM3-XrrgSkLUAObecWiEvjkvk9Lj6AvWCakv2o'
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/24 📋 Attestation Employé.md
+token_path: ../../🔑_Token/02_✉️_Courriers/24 📋 Attestation Employé.md
 ---
 # ATTESTATION DE TÉMOIN (CERFA N° 11527*03)Article 202 du Code de procédure civile
 

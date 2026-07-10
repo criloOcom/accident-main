@@ -1,15 +1,5 @@
 # Rapport d'Audit Organisationnel et Méthodologique
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_ORGANISATION_METHODE.md ](.RAPPORT_ORGANISATION_METHODE.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_ORGANISATION_METHODE.md ](.RAPPORT_ORGANISATION_METHODE.md)
-```
-
 ## 1. Forces
 
 *   **Structure du projet (arborescence) :** L'arborescence est très cohérente, logique et extensible. La séparation claire entre les actes (`⚖️_Actes/`), les lois (`📜_Lois/`), la mémoire persistante (`🧠_Memory/`), les rapports (`📊_Rapports/`), et le code source (`.dev/`) facilite la navigation. Au sein des actes, la division thématique (Preuves, Actes procéduraux, Courriers, Analyses, Études, Organisation, Archives) numérotée de 00 à 06 offre une excellente granularité et un ordre logique du traitement d'un dossier.

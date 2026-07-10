@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 13 Note strategique FGTI CIVI.md ](.13 Note strategique FGTI CIVI.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 13 Note strategique FGTI CIVI.md ](.13 Note strategique FGTI CIVI.md)
-```
-
 ---
 titre: Note stratégique FGTI/CIVI
 date: 2026-07-08

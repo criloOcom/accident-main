@@ -1,15 +1,5 @@
 # RAPPORT D'AUDIT JURIDIQUE
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_JURIDIQUE.md ](.RAPPORT_AUDIT_JURIDIQUE.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_JURIDIQUE.md ](.RAPPORT_AUDIT_JURIDIQUE.md)
-```
-
 > **Mission** : Audit des articles de loi cités dans les actes principaux du dossier Accident Main  
 > **Date** : 10 juillet 2026  
 > **Objet** : Vérification de conformité des citations juridiques, cohérence procédurale, et recommandations

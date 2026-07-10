@@ -1,15 +1,5 @@
 # Code civil — Art. 1719
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_civil ](../README.md) > 📄 [ Article1719_CodeCivil_LegiFrance.md ](.Article1719_CodeCivil_LegiFrance.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_civil ](../README.md) > 📄 [ Article1719_CodeCivil_LegiFrance.md ](.Article1719_CodeCivil_LegiFrance.md)
-```
-
 > **Nature** : Code
 
 ---

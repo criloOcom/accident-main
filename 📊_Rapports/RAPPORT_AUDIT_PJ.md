@@ -1,15 +1,5 @@
 # RAPPORT D'AUDIT — Pièces Jointes (PJ) des Courriers 03 à 35
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_PJ.md ](.RAPPORT_AUDIT_PJ.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_PJ.md ](.RAPPORT_AUDIT_PJ.md)
-```
-
 **Date :** 10 juillet 2026
 **Périmètre :** 33 courriers dans `⚖️_Actes/🔑_Token/02_✉️_Courriers/` (03 à 35)
 **Référentiel :** `🧠_Memory/PIECES MAP.md` + `⚖️_Actes/00_📂_Preuves_officielles/` (physique)

@@ -1,15 +1,5 @@
 # RAPPORT D'AUDIT LIGNE À LIGNE
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AGENT-01_mission.md ](.AGENT-01_mission.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AGENT-01_mission.md ](.AGENT-01_mission.md)
-```
-
 Date de l'audit : 2026-07-06
 
 ## Fichier : `⚖️_Actes/🔑_Token/00_📂_Preuves_officielles/01_Dossier_UMJ_Preparation.md`

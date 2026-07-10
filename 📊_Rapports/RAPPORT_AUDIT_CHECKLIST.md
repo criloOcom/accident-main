@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_CHECKLIST.md ](.RAPPORT_AUDIT_CHECKLIST.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_CHECKLIST.md ](.RAPPORT_AUDIT_CHECKLIST.md)
-```
-
 ---
 titre: RAPPORT D'AUDIT — Checklist Envoi LRAR 11-07-2026
 date: 2026-07-11

@@ -1,15 +1,5 @@
 # Rapport de Relecture — Actes de Procédure
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ relecture ](../README.md) > 📄 [ 20260707_Relecture_actes_procedure.md ](.20260707_Relecture_actes_procedure.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ relecture ](../README.md) > 📄 [ 20260707_Relecture_actes_procedure.md ](.20260707_Relecture_actes_procedure.md)
-```
-
 **Date :** 07 juillet 2026
 **Dossier :** Accident de la Main (La Victime c/ L'Exploitant du Commerce)
 **Actes analysés :**

@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 04 📑 Bordereau Audience.md ](.04 📑 Bordereau Audience.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 04 📑 Bordereau Audience.md ](.04 📑 Bordereau Audience.md)
-```
-
 ---
 titre: Bordereau de pièces (version audience) - Version réelle
 date: 2026-07-06

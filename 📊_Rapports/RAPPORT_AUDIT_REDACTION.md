@@ -1,15 +1,5 @@
 # RAPPORT D'AUDIT RÉDACTIONNEL
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_REDACTION.md ](.RAPPORT_AUDIT_REDACTION.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_REDACTION.md ](.RAPPORT_AUDIT_REDACTION.md)
-```
-
 **Date :** 12 juillet 2026  
 **Périmètre :** 8 courriers token (03, 10, 12, 14, 19, 33, 34, 35) + 3 analyses juridiques token (07, 13, 14)  
 **Méthode :** Relecture systématique orthographe/grammaire/ton/structure/longueur/clarté juridique/tokens/style

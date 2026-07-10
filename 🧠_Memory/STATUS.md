@@ -1,17 +1,5 @@
 # STATUT D'AVANCEMENT — 10 juillet 2026
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ STATUS.md ](.STATUS.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ STATUS.md ](.STATUS.md)
-```
-
-> **Nouveau :** Documentation MCP mise à jour - Voir `📜_Lois/EXEMPLES_REQUETES_MCP.md`
->
 ## Phase 18 — Audit des risques — Matrice complète + Plan d'atténuation (10 juillet 2026) ✅
 
 ### Actions réalisées

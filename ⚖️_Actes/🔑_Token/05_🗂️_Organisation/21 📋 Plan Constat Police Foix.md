@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 21 📋 Plan Constat Police Foix.md ](.21 📋 Plan Constat Police Foix.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 21 📋 Plan Constat Police Foix.md ](.21 📋 Plan Constat Police Foix.md)
-```
-
 ---
 reel_path: ../../👤_Reel/05_🗂️_Organisation/21 📋 Plan Constat Police Foix.md
 statut: brouillon

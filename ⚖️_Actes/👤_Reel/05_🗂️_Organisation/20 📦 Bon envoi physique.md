@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 20 📦 Bon envoi physique.md ](.20 📦 Bon envoi physique.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 20 📦 Bon envoi physique.md ](.20 📦 Bon envoi physique.md)
-```
-
 ---
 titre: Bon d'Envoi Physique — Lot Juillet 2026 - Version réelle
 date: 2026-07-06
@@ -25,6 +17,7 @@ tags:
 - check-list
 statut: preparation
 reel_path: ../../👤_Reel/05_🗂️_Organisation/20 📦 Bon envoi physique.md
+token_path: ../../🔑_Token/05_🗂️_Organisation/20 📦 Bon envoi physique.md
 ---
 # BON D'ENVOI PHYSIQUE — IMPRESSION + ENVOI
 ## DOCUMENTS À IMPRIMER (2 EXEMPLAIRES CHACUN)

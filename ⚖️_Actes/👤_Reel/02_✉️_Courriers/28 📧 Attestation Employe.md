@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 28 📧 Attestation Employe.md ](.28 📧 Attestation Employe.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 28 📧 Attestation Employe.md ](.28 📧 Attestation Employe.md)
-```
-
 ---
 titre: Email Transmission Attestation Employé - Version réelle
 date: 2026-07-06
@@ -21,6 +13,7 @@ statut: brouillon
 source: local
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/28 📧 Attestation Employe.md
+token_path: ../../🔑_Token/02_✉️_Courriers/28 📧 Attestation Employe.md
 ---
 # TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (EMPLOYÉ)
 Objet : Attestation de témoin — Accident du 29 mai 2026 au 22 Rue Lafaurie, 09000 Foix

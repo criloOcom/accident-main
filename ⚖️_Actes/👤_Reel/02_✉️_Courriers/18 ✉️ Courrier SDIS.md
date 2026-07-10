@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 18 ✉️ Courrier SDIS.md ](.18 ✉️ Courrier SDIS.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 18 ✉️ Courrier SDIS.md ](.18 ✉️ Courrier SDIS.md)
-```
-
 ---
 titre: Signalement de Securite ERP au SDIS - Version réelle
 date: 2026-07-05
@@ -27,6 +19,7 @@ source: drive
 drive_id: 1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/18 ✉️ Courrier SDIS.md
+token_path: ../../🔑_Token/02_✉️_Courriers/18 ✉️ Courrier SDIS.md
 ---
 **Table des matieres**
 

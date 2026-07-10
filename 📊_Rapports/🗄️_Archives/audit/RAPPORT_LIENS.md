@@ -1,15 +1,5 @@
 # Rapport d'Audit des Liens Légifrance
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_LIENS.md ](.RAPPORT_LIENS.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_LIENS.md ](.RAPPORT_LIENS.md)
-```
-
 Date de l'audit : 06/07/2026 16:59:21
 
 ## Synthèse

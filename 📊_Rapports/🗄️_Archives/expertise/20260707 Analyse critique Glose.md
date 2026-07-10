@@ -1,15 +1,5 @@
 # Analyse critique du mémoire Glose — Recommandations d'ajustement
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ 20260707 Analyse critique Glose.md ](.20260707 Analyse critique Glose.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ 20260707 Analyse critique Glose.md ](.20260707 Analyse critique Glose.md)
-```
-
 > Reçu le 7 juillet 2026 — Analyse d'un tiers (indépendant).
 > Cette analyse valide nos montants Dintilhac comme plus réalistes que ceux de Glose.
 

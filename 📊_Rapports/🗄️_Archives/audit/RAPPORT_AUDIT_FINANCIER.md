@@ -1,15 +1,5 @@
 # RAPPORT D'AUDIT FINANCIER ET INDEMNITAIRE
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_AUDIT_FINANCIER.md ](.RAPPORT_AUDIT_FINANCIER.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_AUDIT_FINANCIER.md ](.RAPPORT_AUDIT_FINANCIER.md)
-```
-
 **Date de l'audit** : 4 Juillet 2026
 **Objet** : Vérification de la cohérence, du réalisme, et de la justification de tous les montants et demandes financières formulées dans le dossier "Accident de la Main".
 

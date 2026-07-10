@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 08 ✉️ Courrier Suivi Adjoint Maire.md ](.08 ✉️ Courrier Suivi Adjoint Maire.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 08 ✉️ Courrier Suivi Adjoint Maire.md ](.08 ✉️ Courrier Suivi Adjoint Maire.md)
-```
-
 ---
 titre: Suivi Courrier Adjoint au Maire — Demande d'Information Inspection du Travail et CODAF - Version réelle
 date: 2026-07-05
@@ -26,6 +18,7 @@ source: drive
 drive_id: 1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
+token_path: ../../🔑_Token/02_✉️_Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
 ---
 # SUIVI — DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF
 Sébastien GRAZIDE

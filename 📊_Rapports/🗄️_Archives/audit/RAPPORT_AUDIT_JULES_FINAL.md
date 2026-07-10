@@ -1,15 +1,5 @@
 # RAPPORT D'AUDIT JURIDIQUE ET TECHNIQUE FINAL
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_AUDIT_JULES_FINAL.md ](.RAPPORT_AUDIT_JULES_FINAL.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_AUDIT_JULES_FINAL.md ](.RAPPORT_AUDIT_JULES_FINAL.md)
-```
-
 **Projet :** accident-main
 **Auditeur :** Jules
 **Date de l'audit :** 2026-07-05

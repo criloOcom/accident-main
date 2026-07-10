@@ -1,15 +1,5 @@
 # Rapport de Vérification des Liens Légifrance
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_LEGIFRANCE.md ](.RAPPORT_LEGIFRANCE.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_LEGIFRANCE.md ](.RAPPORT_LEGIFRANCE.md)
-```
-
 | ID Légifrance | Statut | Titre / Article | Fichiers concernés | Remarques (Format) |
 |---|---|---|---|---|
 | LEGIARTI000006227036 | ✅ | Article L227-8 - Article | ⚖️_Actes/10_Synthese_FAQ.md |  |

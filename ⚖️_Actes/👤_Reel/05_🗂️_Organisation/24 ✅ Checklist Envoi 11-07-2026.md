@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 24 ✅ Checklist Envoi 11-07-2026.md ](.24 ✅ Checklist Envoi 11-07-2026.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 24 ✅ Checklist Envoi 11-07-2026.md ](.24 ✅ Checklist Envoi 11-07-2026.md)
-```
-
 ---
 titre: Checklist Envoi LRAR — 11 juillet 2026 - Version réelle
 date: 2026-07-11
@@ -22,6 +14,7 @@ tags:
 statut: preparation
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/05_🗂️_Organisation/24 ✅ Checklist Envoi 11-07-2026.md
+token_path: ../../🔑_Token/05_🗂️_Organisation/24 ✅ Checklist Envoi 11-07-2026.md
 ---
 # CHECKLIST ENVOI LRAR — 11 JUILLET 2026
 

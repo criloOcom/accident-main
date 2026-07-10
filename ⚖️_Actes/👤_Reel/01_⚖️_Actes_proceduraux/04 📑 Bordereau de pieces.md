@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 04 📑 Bordereau de pieces.md ](.04 📑 Bordereau de pieces.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 04 📑 Bordereau de pieces.md ](.04 📑 Bordereau de pieces.md)
-```
-
 ---
 titre: Bordereau de pièces - Version réelle
 date: 2026-07-15

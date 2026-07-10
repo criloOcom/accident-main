@@ -1,15 +1,5 @@
 # VARIABLES FINANCIÈRES — Source Unique de Vérité
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ FINANCIAL_VARIABLES.md ](.FINANCIAL_VARIABLES.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ FINANCIAL_VARIABLES.md ](.FINANCIAL_VARIABLES.md)
-```
-
 Ce fichier regroupe l'ensemble des montants financiers (provisions, préjudices Dintilhac, astreintes et dépens) pour le dossier de **[La Victime]**. Ces valeurs sont la référence unique du projet pour toutes les substitutions.
 
 ---

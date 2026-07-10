@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 27 📧 Attestation Pompier SAMU.md ](.27 📧 Attestation Pompier SAMU.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 27 📧 Attestation Pompier SAMU.md ](.27 📧 Attestation Pompier SAMU.md)
-```
-
 ---
 titre: Email Transmission Attestation Pompier SAMU
 date: 2026-07-06

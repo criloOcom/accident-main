@@ -1,15 +1,5 @@
 # RAPPORT DE SYNTHÈSE GLOBALE
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_SYNTHESE_GLOBALE.md ](.RAPPORT_SYNTHESE_GLOBALE.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_SYNTHESE_GLOBALE.md ](.RAPPORT_SYNTHESE_GLOBALE.md)
-```
-
 **Projet :** accident-main — Préjudice corporel (main droite écrasée)  
 **Date du rapport :** 11 juillet 2026  
 **Rédacteur :** IA de synthèse (analyse transversale des 5 piliers du dossier)

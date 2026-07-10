@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 04 ✉️ Courrier Assureur.md ](.04 ✉️ Courrier Assureur.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 04 ✉️ Courrier Assureur.md ](.04 ✉️ Courrier Assureur.md)
-```
-
 ---
 titre: Action Directe Assureur RC (Art. L.124-3 Code des assurances)
   — Mise en Demeure

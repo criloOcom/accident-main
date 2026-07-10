@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🔧 ANALYSE correction juridique.md ](.🔧 ANALYSE correction juridique.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🔧 ANALYSE correction juridique.md ](.🔧 ANALYSE correction juridique.md)
-```
-
 ---
 titre: Mémorandum Juridique — Audit Stratégique et Restructuration Contentieuse - Version réelle
 date: 2026-06-30
@@ -25,6 +17,7 @@ statut: final
 source: drive
 drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
 reel_path: ../../👤_Reel/06_🗄️_Archives/🔧 ANALYSE correction juridique.md
+token_path: ../../🔑_Token/06_🗄️_Archives/🔧 ANALYSE correction juridique.md
 ---
 **Table des matières**
 

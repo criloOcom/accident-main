@@ -1,15 +1,5 @@
 # Rapport de correction — JURITEXT erronés
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ correction_juritext_05.md ](.correction_juritext_05.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ correction_juritext_05.md ](.correction_juritext_05.md)
-```
-
 **Fichier corrigé :** `⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/05 🎯 Conclusions Refere.md`
 **Date :** 10/07/2026
 

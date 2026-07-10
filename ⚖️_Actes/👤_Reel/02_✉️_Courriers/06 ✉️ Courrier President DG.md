@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 06 ✉️ Courrier President DG.md ](.06 ✉️ Courrier President DG.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 06 ✉️ Courrier President DG.md ](.06 ✉️ Courrier President DG.md)
-```
-
 ---
 titre: Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC - Version réelle
 date: 2026-06-29
@@ -32,6 +24,7 @@ drive_id: 1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/06 ✉️ Courrier President DG.md
 proof_delivery: "LRAR 87001424721856G + 87001424862879J"
+token_path: ../../🔑_Token/02_✉️_Courriers/06 ✉️ Courrier President DG.md
 ---
 # MISE EN DEMEURE AUX DIRIGEANTS — DEMANDE D'INFORMATION ASSURANCE RC
 10 Avenue de Purpan, 31700 Blagnac <br>

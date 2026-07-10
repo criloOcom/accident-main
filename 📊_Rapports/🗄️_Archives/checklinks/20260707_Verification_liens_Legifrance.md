@@ -1,15 +1,5 @@
 # Vérification des liens Légifrance
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ checklinks ](../README.md) > 📄 [ 20260707_Verification_liens_Legifrance.md ](.20260707_Verification_liens_Legifrance.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ checklinks ](../README.md) > 📄 [ 20260707_Verification_liens_Legifrance.md ](.20260707_Verification_liens_Legifrance.md)
-```
-
 | Lien | Statut |
 |---|---|
 | JURITEXT000006987399 | ✅ VALIDE |

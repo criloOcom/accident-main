@@ -1,15 +1,5 @@
 # Rapport de Vérification des Citations Juridiques
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ citations ](../README.md) > 📄 [ 20260707_Verification_citations_juridiques.md ](.20260707_Verification_citations_juridiques.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ citations ](../README.md) > 📄 [ 20260707_Verification_citations_juridiques.md ](.20260707_Verification_citations_juridiques.md)
-```
-
 Ce rapport identifie les articles de loi cités dans les documents qui ne sont pas accompagnés de leur texte reproduit à proximité immédiate.
 
 ## Fichier : `⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md`

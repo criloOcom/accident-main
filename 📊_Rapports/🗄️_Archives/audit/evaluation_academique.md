@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ evaluation_academique.md ](.evaluation_academique.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ evaluation_academique.md ](.evaluation_academique.md)
-```
-
 ---
 titre: Évaluation académique et juridique du dossier
 date: 2026-07-08

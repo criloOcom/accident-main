@@ -1,14 +1,4 @@
 # RAPPORT DE JURISPRUDENCE
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ jurisprudence ](../README.md) > 📄 [ recherche_responsabilite_commune_ERP.md ](.recherche_responsabilite_commune_ERP.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ jurisprudence ](../README.md) > 📄 [ recherche_responsabilite_commune_ERP.md ](.recherche_responsabilite_commune_ERP.md)
-```
 ## Responsabilité des communes pour défaut de contrôle de sécurité des ERP
 
 **Mission** : M3 du dossier accident-main

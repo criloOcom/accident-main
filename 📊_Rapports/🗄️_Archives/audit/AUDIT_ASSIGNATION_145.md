@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AUDIT_ASSIGNATION_145.md ](.AUDIT_ASSIGNATION_145.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AUDIT_ASSIGNATION_145.md ](.AUDIT_ASSIGNATION_145.md)
-```
-
 ---
 titre: Rapport d'Audit Assignation Article 145 CPC
 date: 2026-07-05

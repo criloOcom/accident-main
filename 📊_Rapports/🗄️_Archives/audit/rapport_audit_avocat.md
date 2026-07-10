@@ -1,14 +1,4 @@
 # RAPPORT D'AUDIT JURIDIQUE — DOSSIER ACCIDENT DE LA MAIN
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ rapport_audit_avocat.md ](.rapport_audit_avocat.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ rapport_audit_avocat.md ](.rapport_audit_avocat.md)
-```
 > Audit réalisé par un Avocat spécialiste en réparation du préjudice corporel
 > Date : 8 juillet 2026
 

@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 99 🛡️ Memoire en defense adverse.md ](.99 🛡️ Memoire en defense adverse.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 99 🛡️ Memoire en defense adverse.md ](.99 🛡️ Memoire en defense adverse.md)
-```
-
 ---
 titre: Mémoire en défense adverse — SAS Les Mauvais Garçons - Version réelle
 date: 2026-07-09
@@ -27,6 +19,7 @@ tags:
 statut: final
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/99 🛡️ Memoire en defense adverse.md
+token_path: ../../🔑_Token/03_📚_Analyses_juridiques/99 🛡️ Memoire en defense adverse.md
 ---
 # MÉMOIRE EN DÉFENSE ADVERSE
 **Pour :** SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC (Partie Défenderesse)

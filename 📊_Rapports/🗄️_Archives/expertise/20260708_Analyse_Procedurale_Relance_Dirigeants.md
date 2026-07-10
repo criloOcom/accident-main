@@ -1,15 +1,5 @@
 # ANALYSE PROCÉDURALE DU COURRIER DE RELANCE AUX DIRIGEANTS
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ 20260708_Analyse_Procedurale_Relance_Dirigeants.md ](.20260708_Analyse_Procedurale_Relance_Dirigeants.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ 20260708_Analyse_Procedurale_Relance_Dirigeants.md ](.20260708_Analyse_Procedurale_Relance_Dirigeants.md)
-```
-
 **Objet :** Évaluation stratégique et procédurale du projet "06 V2 ✉️ Relance Dirigeants.md"
 **Date :** 8 juillet 2026
 **Rédacteur :** Avocat spécialiste en réparation du préjudice corporel

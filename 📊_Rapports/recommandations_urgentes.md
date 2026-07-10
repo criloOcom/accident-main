@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ recommandations_urgentes.md ](.recommandations_urgentes.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ recommandations_urgentes.md ](.recommandations_urgentes.md)
-```
-
 ---
 titre: Recommandations Urgentes et Priorisation des Actions
 date: 2026-06-30

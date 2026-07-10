@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🧠 STRATEGIE Contentieux Civil.md ](.🧠 STRATEGIE Contentieux Civil.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🧠 STRATEGIE Contentieux Civil.md ](.🧠 STRATEGIE Contentieux Civil.md)
-```
-
 ---
 titre: STRATEGIE Contentieux Civil - Version réelle
 date: 2026-07-04
@@ -28,6 +20,7 @@ source: drive
 drive_id: null
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/06_🗄️_Archives/🧠 STRATEGIE Contentieux Civil.md
+token_path: ../../🔑_Token/06_🗄️_Archives/🧠 STRATEGIE Contentieux Civil.md
 ---
 **Table des matières**
 

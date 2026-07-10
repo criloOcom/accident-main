@@ -1,15 +1,5 @@
 # WORKFLOW D'ANONYMIZATION
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ WORKFLOW.md ](.WORKFLOW.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ WORKFLOW.md ](.WORKFLOW.md)
-```
-
 ## Pour chaque document original :
 1. **Lire** l'original avec `readDocument` (format text)
 2. **Copier** le fichier avec `copyFile` → nouveau nom = "UNIFIE_ANONYME - " + titre original

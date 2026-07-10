@@ -1,15 +1,5 @@
 # RAPPORT D'AUDIT DU CALENDRIER PROCÉDURAL
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_CALENDRIER.md ](.RAPPORT_AUDIT_CALENDRIER.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_CALENDRIER.md ](.RAPPORT_AUDIT_CALENDRIER.md)
-```
-
 **Référence :** J+0 = 29/05/2026 (vendredi)
 **Généré le :** 10/07/2026
 **Méthode :** Vérification de chaque jalon du `📅 Calendrier procedural.md` (token + reel) et des dates frontmatter de tous les actes/courriers.

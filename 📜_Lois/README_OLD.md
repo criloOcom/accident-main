@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ README_OLD.md ](.README_OLD.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ README_OLD.md ](.README_OLD.md)
-```
-
 [🏠](../README.md) → ⚖️ 📜_Lois/
 
 ---

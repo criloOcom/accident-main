@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 07 🎤 Plaidoirie dirigeants.md ](.07 🎤 Plaidoirie dirigeants.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 07 🎤 Plaidoirie dirigeants.md ](.07 🎤 Plaidoirie dirigeants.md)
-```
-
 ---
 titre: Mémorandum Juridique — Responsabilité des Dirigeants
 date: 2026-06-30

@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 05 📋 Dossier Special CERFA.md ](.05 📋 Dossier Special CERFA.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 05 📋 Dossier Special CERFA.md ](.05 📋 Dossier Special CERFA.md)
-```
-
 ---
 titre: 05 Dossier Spécial CERFA - Version réelle
 date: 2026-07-08
@@ -22,6 +14,7 @@ tags:
 statut: final
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/05_🗂️_Organisation/05 📋 Dossier Special CERFA.md
+token_path: ../../🔑_Token/05_🗂️_Organisation/05 📋 Dossier Special CERFA.md
 ---
 # DOSSIER SPÉCIAL : FORMULAIRES CERFA APPLICABLES
 

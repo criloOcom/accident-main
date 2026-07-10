@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 07 ⚖️ Projet Ordonnance Refere.md ](.07 ⚖️ Projet Ordonnance Refere.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 07 ⚖️ Projet Ordonnance Refere.md ](.07 ⚖️ Projet Ordonnance Refere.md)
-```
-
 ---
 titre: Projet d'Ordonnance de Référé - Version réelle
 date: 2026-07-31
@@ -26,6 +18,7 @@ tags:
 statut: final
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/07 ⚖️ Projet Ordonnance Refere.md
+token_path: ../../🔑_Token/01_⚖️_Actes_proceduraux/07 ⚖️ Projet Ordonnance Refere.md
 ---
 # TRIBUNAL JUDICIAIRE DE [La Ville de l'Accident]
 

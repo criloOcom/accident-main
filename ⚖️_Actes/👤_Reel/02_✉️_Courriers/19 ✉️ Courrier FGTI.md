@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 19 ✉️ Courrier FGTI.md ](.19 ✉️ Courrier FGTI.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 19 ✉️ Courrier FGTI.md ](.19 ✉️ Courrier FGTI.md)
-```
-
 ---
 titre: Saisine Conservatoire du Fonds de Garantie des Victimes - Version réelle
 date: 2026-07-06
@@ -31,6 +23,7 @@ source: drive
 drive_id: 13jocmpqETy64lldco9LGCKLJZp_ml_9u53NB7OySmrs
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/19 ✉️ Courrier FGTI.md
+token_path: ../../🔑_Token/02_✉️_Courriers/19 ✉️ Courrier FGTI.md
 ---
 # SAISINE CONSERVATOIRE DU FONDS DE GARANTIE DES VICTIMES
 Sébastien GRAZIDE

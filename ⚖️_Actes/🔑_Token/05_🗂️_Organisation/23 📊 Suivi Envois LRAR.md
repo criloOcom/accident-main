@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 23 📊 Suivi Envois LRAR.md ](.23 📊 Suivi Envois LRAR.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 23 📊 Suivi Envois LRAR.md ](.23 📊 Suivi Envois LRAR.md)
-```
-
 ---
 titre: Suivi des Envois LRAR
 date: 2026-07-11

@@ -1,14 +1,4 @@
 # ANALYSE DE LA STRATÉGIE ASSURANCE ET RESPONSABILITÉ CIVILE (RC)
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ analyse_strategie_assurance.md ](.analyse_strategie_assurance.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ analyse_strategie_assurance.md ](.analyse_strategie_assurance.md)
-```
 **Dossier : Accident Corporel - [La Victime] c/ [L'Exploitant du Commerce (La SAS)]**
 Date de l'accident : 29 mai 2026
 

@@ -1,11 +1,3 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ jurisprudence ](../README.md) > 📄 [ audit_juritext_dintilhac.md ](.audit_juritext_dintilhac.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ jurisprudence ](../README.md) > 📄 [ audit_juritext_dintilhac.md ](.audit_juritext_dintilhac.md)
-```
-
 | JURITEXT | Titre | Chambre | Date | Solution | Statut | Commentaire |
 |---|---|---|---|---|---|---|
 | JURITEXT000021271786 | Cour de cassation, civile, Chambre civile 2, 10 novembre 2009, 08-17.959, Inédit | Chambre civile 2 | 10 novembre 2009 | Cassation partielle | ✅ VALIDE | Confirmé |
