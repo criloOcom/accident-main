@@ -1,5 +1,31 @@
 # STATUT D'AVANCEMENT — 10 juillet 2026
 
+## Phase 18 — Audit des risques — Matrice complète + Plan d'atténuation (10 juillet 2026) ✅
+
+### Actions réalisées
+- **Analyse exhaustive** des 21 risques juridiques, procéduraux, documentaires, financiers et transverses
+- **Matrice des risques** avec évaluation probabilité × impact × sévérité (5 niveaux)
+- **Fiches détaillées** pour chaque risque : description, probabilité, impact, sévérité, tendance, facteurs aggravants, atténuation existante, plan d'atténuation
+- **Plan d'atténuation global** : 5 actions d'urgence, 5 court terme, 4 moyen terme, 3 long terme
+- **Vigilances permanentes** : surveillance continue + interdictions absolues + indicateurs de levée
+- **Fichier créé** : `📊_Rapports/RAPPORT_AUDIT_RISQUES.md` (478 lignes)
+
+### Risques critiques identifiés (sévérité 5 🔴)
+| ID | Risque | Atténuation clé |
+|----|--------|-----------------|
+| R1 | Assureur RC non identifié — action directe impossible | Assignation Art. 145 CPC |
+| R2 | Insolvabilité SAS (capital 200 €) | FGTI/CIVI prioritaire |
+| R3 | Absence d'avocat — paralysie totale | AJ à déposer + mandatement |
+| R5 | Dissipation preuves matérielles | Huissier + commission rogatoire |
+
+### Risques urgents (sévérité 4 🟠)
+- R4 : Vidéosurveillance effacée (95 % perte)
+- R6 : LRAR NPAI (aucun AR signé)
+- R7 : Calendrier fictif (aucune audience fixée)
+- R8 : Fuite dirigeants (dissolution frauduleuse)
+- R9 : Condition FGTI non établie formellement
+- R19 : Impossibilité recouvrement dirigeants
+
 ## Phase 17 — Urgence tactique pivot Foix + Merge PRs #121-#125 (10 juillet 2026) ✅
 
 ### Actions réalisées

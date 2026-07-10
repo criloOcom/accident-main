@@ -1,6 +1,6 @@
 # TODO — Plans d'action + Tableau de bord Sébastien
 
-> **Dernière mise à jour :** 8 juillet 2026
+> **Dernière mise à jour :** 10 juillet 2026
 >
 > **Règle absolue :** tout nouvel article de loi cité DOIT être lu via MCP
 > Légifrance (`consulter_article` ou `rechercher_code`) pour vérifier le contexte
@@ -9,6 +9,10 @@
 ---
 
 ## 📋 TABLEAU DE BORD SÉBASTIEN
+
+### ✅ Dernières actions IA (10 juillet 2026)
+- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → `📊_Rapports/RAPPORT_AUDIT_RISQUES.md`
+- **Risques prioritaires identifiés** : 4 critiques (🔴 R1-R3-R5) et 6 urgents (🟠 R4-R6-R7-R8-R9-R19)
 
 ### ✅ Dernières actions IA (8 juillet 2026)
 - **12 PRs Jules mergées** (#73-84) : audits avocat, RGPD, barémique, assurance, FGTI, organisation, dirigeants, ERP, ordonnance
