@@ -5,7 +5,6 @@ article: L121
 date: 2026-07-10
 source: Légifrance
 status: En vigueur
-url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006440300
 ---
 
 # Articles 121-1 à 121-7
