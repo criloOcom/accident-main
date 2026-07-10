@@ -1,10 +1,10 @@
 ---
-titre: Email définitif à l'Adjoint au Maire de Foix — Demande de contrôle ERP par police municipale
+titre: Email définitif à l'Adjoint au Maire de **[La Ville de l'Accident]** — Demande de contrôle ERP par police municipale
 date: 2026-07-10
 type: email
 categorie: urgence
 auteur: La Victime
-destinataire: Adjoint au Maire de Foix (M. Bernard TAVELLA)
+destinataire: Adjoint au Maire de **[La Ville de l'Accident]** (M. Bernard TAVELLA)
 statut: brouillon
 ---
 
@@ -34,7 +34,7 @@ Sur le plan médical, lors de ma consultation de contrôle du 23 juin 2026, le *
 
 Sur le plan administratif, résidant à **[L'Adresse de la Victime]**, j'ai fait adresser des mises en demeure par courriers recommandés à **[L'Exploitant du Commerce (La SAS)]** à l'adresse de son siège social (**[L'Adresse de l'Exploitation]**) le 29 juin 2026. Or, ces courriers m'ont été retournés (mentions défaut d'adresse, distribution impossible).
 
-Dans un souci de complète transparence, je vous informe qu'à cette même date du 29 juin 2026, j'ai transmis l'intégralité de mon dossier médical ainsi que ma constitution de partie civile au Procureur de la République près le Tribunal Judiciaire de Foix (PV n° **[N° PV Police]**), afin de permettre d'apprécier la réalité de mon préjudice corporel dans le cadre de l'enquête préliminaire.
+Par souci de complète transparence avec vos services, je vous informe qu'à cette même date du 29 juin 2026, j'ai également transmis l'intégralité de mon dossier médical (11 pièces — comptes rendus opératoires, certificats médicaux, arrêts de travail, notes médico-légales) ainsi que ma constitution de partie civile et mes conclusions au Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** (PV n° **[N° PV Police]**), afin de permettre à l'autorité judiciaire d'apprécier la réalité et l'étendue de mon préjudice corporel dans le cadre de l'enquête préliminaire ouverte.
 
 Pourtant, le commerce a rouvert ses portes le 6 juillet 2026 et paraît en activité régulière, alors même que les registres du RNE (INPI) indiquent que cette SAS est toujours officiellement domiciliée à cette adresse.
 
