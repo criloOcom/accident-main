@@ -83,7 +83,7 @@ Les procedures suivantes ont ete engagees :
 ## III — DEMANDE DE SIGNALEMENT
 Conformement aux dispositions du Code de commerce relatives au Registre National des Entreprises, je sollicite l'inscription d'un signalement au dossier RNE de la SAS SAS LES MAUVAIS GARCONS (SIREN 938 033 222) afin de porter a la connaissance des tiers et de l'administration l'existence du litige en cours.
 
-Cette demande est motivee par la necessite de prevenir toute modification de la situation juridique de la societe (dissolution, liquidation, radiation ou cession) qui pourrait intervenir sans que les autorites et les tiers aient connaissance des creances et actions en justice en cours a l'encontre de la societe. Les montants en jeu sont estimes a **59 600 €** au titre de la reparation integrale des prejudices corporels.
+Cette demande est motivee par la necessite de prevenir toute modification de la situation juridique de la societe (dissolution, liquidation, radiation ou cession) qui pourrait intervenir sans que les autorites et les tiers aient connaissance des creances et actions en justice en cours a l'encontre de la societe. Les montants en jeu sont estimes a **92 000 €** au titre de la reparation integrale des prejudices corporels.
 
 Mes coordonnees : 10 Avenue de Purpan, 31700 Blagnac — Courriel : sebastien.grazide@gmail.com
 

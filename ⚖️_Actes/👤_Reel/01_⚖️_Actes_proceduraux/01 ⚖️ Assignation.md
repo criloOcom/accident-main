@@ -198,7 +198,7 @@ Le référentiel indicatif des cours d'appel fixe la fourchette des provisions p
 
 **2. La provision est proportionnée au préjudice global estimé**
 
-Le préjudice global est estimé à **~90 000 €** selon la nomenclature Dintilhac (PGPA : 1 380 €, DFP : 25 000 €, SE : 15 000 €, IP : 30 000 €, Préjudice d'agrément : 5 000 €, PEP : 3 000 €, DEP : 3 000 €, Frais divers : 3 000 €, Frais art. 700 CPC : 3 000 €). Ce montant correspond à l'évaluation détaillée figurant au sein de l'étude d'indemnisation produite par la victime. La provision de 15 000 € représente moins de **20 % du préjudice total**, ce qui est raisonnable et proportionné.
+Le préjudice global est estimé à **~92 000 €** selon la nomenclature Dintilhac (PGPA : 1 380 €, DFP : 25 000 €, SE : 15 000 €, IP : 30 000 €, Préjudice d'agrément : 5 000 €, PEP : 3 000 €, DEP : 3 000 €, Frais divers : 3 000 €, Frais art. 700 CPC : 3 000 €). Ce montant correspond à l'évaluation détaillée figurant au sein de l'étude d'indemnisation produite par la victime. La provision de 15 000 € représente moins de **20 % du préjudice total**, ce qui est raisonnable et proportionné.
 
 **3. La provision inclut une part *ad litem***
 

@@ -29,6 +29,6 @@ Bienvenue dans le dossier central du contentieux. Ce dossier repose sur une **do
 | `01` | **[Actes procéduraux](token/01_⚖️_Actes_proceduraux/README.md)** | Assignations, conclusions, requêtes |
 | `02` | **[Courriers](token/02_✉️_Courriers/README.md)** | Mises en demeure, signalements, relances |
 | `03` | **[Analyses juridiques](token/03_📚_Analyses_juridiques/README.md)** | Plaidoiries, FAQ, mémorandums |
-| `04` | **[Études d'indemnisation](token/04_💰_Etudes_indemnisation/README.md)** | Évaluation Dintilhac (59 600 €) |
+| `04` | **[Études d'indemnisation](token/04_💰_Etudes_indemnisation/README.md)** | Évaluation Dintilhac (92 000 €) |
 | `05` | **[Organisation](token/05_🗂️_Organisation/README.md)** | Index, plan d'action, calendrier |
 | `06` | **[Archives](token/06_🗄️_Archives/README.md)** | Anciens documents de travail, annexes |

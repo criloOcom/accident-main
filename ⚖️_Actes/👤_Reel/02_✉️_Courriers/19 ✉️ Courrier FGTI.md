@@ -92,7 +92,7 @@ L'accident est survenu dans un contexte de multiples irregularites de la part de
 <hr>
 
 ## INDEMNITES SOLLICITEES
-Le montant total estime de mon prejudice corporel, selon la nomenclature Dintilhac, s'eleve a **59 600 €**, se decomposant comme suit :
+Le montant total estime de mon prejudice corporel, selon la nomenclature Dintilhac, s'eleve a **92 000 €**, se decomposant comme suit :
 
 - Pertes de gains professionnels actuels (PGPA) : 1 400 €
 

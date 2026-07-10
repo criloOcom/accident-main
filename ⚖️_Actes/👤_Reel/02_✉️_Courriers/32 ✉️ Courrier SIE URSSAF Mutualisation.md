@@ -49,7 +49,7 @@ La presente est adressee conjointement a vos deux services par Sébastien GRAZID
 
 L'accident, cause par la chute du prepose depuis un bac a shampoing en ceramique instable et casse, a entraine des lesions graves de la main droite (section partielle du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant) ayant necessite une microchirurgie d'urgence en SOS Main.
 
-**Les montants en jeu sont estimes a 105 000 €** (evaluation Dintilhac detaillee), dont 15 000 € de provision immediatement exigible en reféré.
+**Les montants en jeu sont estimes a 92 000 €** (evaluation Dintilhac detaillee), dont 15 000 € de provision immediatement exigible en reféré.
 
 ## II — RISQUE FISCAL ET SOCIAL IDENTIFIE
 
@@ -59,7 +59,7 @@ La SAS SAS LES MAUVAIS GARCONS presente les caracteristiques suivantes, revelatr
 2. **Dirigeants non localisables** : le President et la Directrice Generale n'ont repondu a aucune mise en demeure LRAR, aucun courrier recommande, et aucune sollicitation directe
 3. **Absence de salarie declare** : la societe ne declare aucun salarie (source INSEE), malgre l'exploitation d'un salon de coiffure necessitant du personnel
 4. **Absence d'assurance RC professionnelle** : a ce jour, aucun assureur ne s'est manifeste, ce qui suggere une absence de couverture d'assurance RC professionnelle obligatoire
-5. **Passif latent** : creance indemnitaire estimee a 105 000 € qui viendra s'ajouter aux eventuelles dettes fiscales et sociales de la societe
+5. **Passif latent** : creance indemnitaire estimee a 92 000 € qui viendra s'ajouter aux eventuelles dettes fiscales et sociales de la societe
 
 L'absence totale de reponse des dirigeants laisse presager un risque de **dissolution, liquidation ou radiation volontaire** de la societe avant que les creances ne puissent etre recouvrees, conformement au mecanisme de _fraus omnia corrumpit_.
 

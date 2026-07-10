@@ -83,7 +83,7 @@ L'évaluation initiale du dossier s'établissait à **59 600 €**. Après analy
 4. **Préjudice d'Agrément à 3 000 €** faible pour un guitariste
 5. **DFP à 2 100 €/point** en bas de fourchette (Mornet : 2 140-3 070 €/point pour 11-20%)
 
-L'estimation médiane révisée est de **~85 000 à 105 000 €** (fourchette complète : 77 000 - 139 000 €), selon le compromis retenu entre les trois analyses (optimiste, Glose conservative, critique Glose).
+L'estimation médiane révisée est de **~92 000 €** (fourchette complète : 77 000 - 139 000 €), selon le compromis retenu entre les trois analyses (optimiste, Glose conservative, critique Glose).
 
 <hr><hr>
 
@@ -93,18 +93,18 @@ L'estimation médiane révisée est de **~85 000 à 105 000 €** (fourchette co
 
 | Poste | Notre estimation (optimiste) | Glose (conservatif) | Critique Glose | **Compromis final retenu** |
 |---|---|---|---|---|
-| PGPA | 1 900 € | 1 380 € | 1 380 € | **1 380 €** |
+| PGPA | 1 400 € | 1 380 € | 1 380 € | **1 380 €** |
 | DFT | 1 400 € | *(inclus)* | *(inclus)* | **1 400 €** |
 | DFP | 31 200 € (12%) | 25 000 € (8%) | 18 000-45 000 € (10-12%) | **25 000 €** |
-| Souffrances Endurées | 24 000 € | 8 500 € | 15 000-24 000 € | **15 000 €** |
+| Souffrances Endurées | 15 000 € | 8 500 € | 15 000-24 000 € | **15 000 €** |
 | Incidence Professionnelle | 30 000 € | 2 250 € | 10 000-30 000 € | **30 000 €** |
-| Agrément | 8 000 € | 3 500 € | 2 000-5 000 € | **5 000 €** |
+| Agrément | 5 000 € | 3 500 € | 2 000-5 000 € | **5 000 €** |
 | PEP | 3 000 € | *(inclus)* | 2 000-5 000 € | **3 000 €** |
 | DEP *(poste ajouté)* | *(absent)* | *(absent)* | 2 000-5 000 € | **3 000 €** |
 | ATP (Tierce Personne) *(poste ajouté)* | *(absent)* | *(absent)* | 1 500-3 000 € | **2 000 €** |
 | Frais divers | 2 000 € | 3 500 € | 3 000-5 000 € | **3 000 €** |
-| Article 700 CPC | 4 000 € | 2 250 € | 1 500-3 000 € | **3 000 €** |
-| **TOTAL** | **~105 000 €** | **~45 000 €** | **55 000-105 000 €** | **~92 000 €** |
+| Article 700 CPC | 3 000 € | 2 250 € | 1 500-3 000 € | **3 000 €** |
+| **TOTAL** | **~92 000 €** | **~45 000 €** | **55 000-92 000 €** | **~92 000 €** |
 
 ## 2.2 FOURCHETTES D'INDEMNISATION PAR POSTE
 
@@ -214,7 +214,7 @@ L'estimation médiane révisée est de **~85 000 à 105 000 €** (fourchette co
 - Stress post-traumatique
 - ITT 56 jours
 
-**Analyse des écarts :** Notre estimation initiale (24 000 €) se situe dans la fourchette haute du Mornet 2024. Glose propose 5 000-12 000 €, fourchette très basse. La critique Glose valide notre fourchette à 15 000-24 000 €.
+**Analyse des écarts :** Notre estimation initiale (15 000 €) se situe dans la fourchette haute du Mornet 2024. Glose propose 5 000-12 000 €, fourchette très basse. La critique Glose valide notre fourchette à 15 000-24 000 €.
 
 **Compromis retenu : 15 000 €** (estimation prudente milieu de fourchette Occitanie)
 

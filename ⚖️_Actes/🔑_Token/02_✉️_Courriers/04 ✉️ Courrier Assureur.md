@@ -47,7 +47,7 @@ Madame, Monsieur,
 ## INTRODUCTION
 La présente lettre de mise en demeure est adressée par **[La Victime]** à la compagnie d'assurance de **[L'Exploitant du Commerce (La SAS)]** sur le fondement de l'article L. 124-3 du Code des assurances, lequel institue une action directe de la victime contre l'assureur du responsable.
 
-Par ce courrier, **[La Victime]** met en demeure l'assureur de prendre en charge le sinistre corporel survenu le **[J+0 Accident]** dans les locaux de **[L'Exploitant du Commerce (La SAS)]** et de procéder au règlement des préjudices subis, dont le montant total estimé s'élève à **59 600 €** selon l'étude d'indemnisation établie conformément à la Nomenclature Dintilhac.
+Par ce courrier, **[La Victime]** met en demeure l'assureur de prendre en charge le sinistre corporel survenu le **[J+0 Accident]** dans les locaux de **[L'Exploitant du Commerce (La SAS)]** et de procéder au règlement des préjudices subis, dont le montant total estimé s'élève à **92 000 €** selon l'étude d'indemnisation établie conformément à la Nomenclature Dintilhac.
 
 Cette action directe permet à la victime de saisir directement l'assureur sans passer par l'intermédiaire de la société responsable, conformément aux dispositions du Code des assurances.
 
@@ -95,7 +95,7 @@ Je vous mets en demeure par la présente :
 
 3. De procéder au versement d'une provision financière de première urgence d'un montant de **15 000 €** sous un délai de 15 jours à compter de la réception du présent pli, afin de compenser les premières pertes d'exploitation me concernant, travailleur indépendant (**[L'Identifiant Professionnel de la Victime]**) actuellement dans l'incapacité d'utiliser sa main droite pour exercer son activité professionnelle d'informaticien.
 
-L'évaluation globale de mon préjudice corporel, détaillée dans l'étude d'indemnisation, s'établit à **59 600 €** selon les postes de préjudice suivants :
+L'évaluation globale de mon préjudice corporel, détaillée dans l'étude d'indemnisation, s'établit à **92 000 €** selon les postes de préjudice suivants :
 
 - Pertes de gains professionnels actuels (PGPA) : **1 400 €**
 - Incidence professionnelle (IP) : **30 000 €**

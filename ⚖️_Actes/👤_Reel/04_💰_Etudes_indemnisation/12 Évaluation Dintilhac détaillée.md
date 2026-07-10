@@ -22,7 +22,7 @@ format: Arial JUSTIFIED
 ---
 
 ## 1. RÉSUMÉ EXÉCUTIF
-Le dossier initial évalue le préjudice à **59 600 €**. Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**. L'estimation médiane est de **~105 000 €** (fourchette 77 000 - 139 000 €).
+Le dossier initial évalue le préjudice à **59 600 €**. Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**. L'estimation médiane est de **~92 000 €** (fourchette 77 000 - 139 000 €).
 
 Postes oubliés dans le dossier initial :
 - **DFT (Déficit Fonctionnel Temporaire)** : 1 400 €
@@ -35,16 +35,16 @@ Postes oubliés dans le dossier initial :
 ### FOURCHETTES D'INDEMNISATION
 | Poste | Initial | Fourchette basse | Fourchette haute | Médian |
 |---|---|---|---|---|
-| PGPA | 1 400 € | 1 400 € | 2 400 € | 1 900 € |
+| PGPA | 1 400 € | 1 400 € | 2 400 € | 1 400 € |
 | DFT *(oublié)* | 0 € | 1 400 € | 1 680 € | 1 400 € |
 | DFP (12%) | 25 200 € | 25 680 € | 36 840 € | 31 200 € |
 | Souffrances (4/7) | 12 000 € | 18 000 € | 30 000 € | 24 000 € |
 | Incidence pro | 15 000 € | 20 000 € | 40 000 € | 30 000 € |
-| Agrément | 3 000 € | 5 000 € | 15 000 € | 8 000 € |
+| Agrément | 3 000 € | 5 000 € | 15 000 € | 5 000 € |
 | PEP *(oublié)* | 0 € | 2 000 € | 5 000 € | 3 000 € |
 | Frais divers | 0 € | 1 500 € | 3 000 € | 2 000 € |
-| Art. 700 CPC | 3 000 € | 3 000 € | 5 000 € | 4 000 € |
-| **TOTAL** | **59 600 €** | **~77 000 €** | **~139 000 €** | **~105 000 €** |
+| Art. 700 CPC | 3 000 € | 3 000 € | 5 000 € | 3 000 € |
+| **TOTAL** | **59 600 €** | **~77 000 €** | **~139 000 €** | **~92 000 €** |
 
 ### AVIS SUR L'ÉVALUATION INITIALE
 Le total de 59 600 € est **sous-évalué** pour 5 raisons :
@@ -323,23 +323,23 @@ Un mémoire juridique externe (Glose, 7 juillet 2026) propose une évaluation **
 ### 7.1 TABLEAU COMPARATIF
 | Poste | Notre estimation | Glose (basse-haute) | Glose (médian) | Écart |
 |---|---|---|---|---|
-| PGPA | 1 900 € | 1 380 € | 1 380 € | -520 € |
+| PGPA | 1 400 € | 1 380 € | 1 380 € | -20 € |
 | DFT | 1 400 € | *(non séparé)* | *(inclus frais)* | N/A |
 | IP | 30 000 € | 1 500-3 000 € | 2 250 € | -27 750 € |
 | DFP (12% / 8%) | 31 200 € (12%) | 15 000-35 000 € (8%) | 25 000 € | -6 200 € |
-| SE (4/7) | 24 000 € | 5 000-12 000 € | 8 500 € | -15 500 € |
-| Agrément | 8 000 € | 2 000-5 000 € | 3 500 € | -4 500 € |
+| SE (4/7) | 15 000 € | 5 000-12 000 € | 8 500 € | -6 500 € |
+| Agrément | 5 000 € | 2 000-5 000 € | 3 500 € | -1 500 € |
 | PEP | 3 000 € | *(inclus frais méd.)* | *(inclus)* | N/A |
 | Frais divers | 2 000 € | 2 000-5 000 € | 3 500 € | +1 500 € |
-| Art. 700 | 4 000 € | 1 500-3 000 € | 2 250 € | -1 750 € |
-| **TOTAL** | **~105 000 €** | **28 000-65 000 €** | **~45 000 €** | **-60 000 €** |
+| Art. 700 | 3 000 € | 1 500-3 000 € | 2 250 € | -750 € |
+| **TOTAL** | **~92 000 €** | **28 000-65 000 €** | **~45 000 €** | **-47 000 €** |
 
 ### 7.2 ANALYSE DES ÉCARTS
-**PGPA** : L'écart est minime (1 900 vs 1 380 €). Notre estimation inclut une perte de chance complémentaire (500 €). La formule Glose (56/30,44 × 750 = 1 380 €) est arithmétiquement plus précise que notre prorata 56/30.
+**PGPA** : L'écart est minime (1 400 vs 1 380 €). Notre estimation inclut une perte de chance complémentaire (500 €). La formule Glose (56/30,44 × 750 = 1 380 €) est arithmétiquement plus précise que notre prorata 56/30.
 
 **DFP** : L'écart principal vient du taux. Glose retient **8%** comme hypothèse médiane, nous retenons **12%**. C'est une différence d'appréciation sur le barème médico-légal avant consolidation. Le taux réel sera déterminé par l'expertise UMJ du 12 novembre 2026. Garder 12% comme maximum et 8% comme plancher.
 
-**SE** : L'écart est très important (24 000 vs 8 500 €). Notre estimation (24 000 €) se situe dans la fourchette haute du Mornet 2024 (15 000-30 000 € pour 4/7). Glose est dans une fourchette très basse (5 000-12 000 €). La fourchette médiane la plus réaliste est 12 000-18 000 €. **Recommandation : ajuster à 15 000 € comme estimation prudente.**
+**SE** : L'écart est très important (15 000 vs 8 500 €). Notre estimation (15 000 €) se situe dans la fourchette haute du Mornet 2024 (15 000-30 000 € pour 4/7). Glose est dans une fourchette très basse (5 000-12 000 €). La fourchette médiane la plus réaliste est 12 000-18 000 €. **Recommandation : ajuster à 15 000 € comme estimation prudente.**
 
 **IP** : L'écart est le plus frappant (30 000 vs 2 250 €). Glose calcule l'IP comme une perte temporaire sur 12 mois (750 € × 25% × 12), tandis que notre méthode BIBAL capitalise sur la durée de vie professionnelle restante (9 000 € × 12% × 27,5). La méthode BIBAL est plus conforme à la jurisprudence récente (notamment Cass. 2e civ., 2 avril 2026, n° 24-20.972 sur l'indemnisation in concreto des indépendants). Glose semble sous-évaluer ce poste. Notre estimation (30 000 €) est plus proche de la pratique judiciaire pour un indépendant avec séquelles de la main dominante.
 
@@ -355,7 +355,7 @@ Un mémoire juridique externe (Glose, 7 juillet 2026) propose une évaluation **
 | PEP | Conserver | 3 000 € |
 | Frais divers | Conserver Glose (plus large) | 3 000 € |
 | Art. 700 | Compromis | 3 000 € |
-| **TOTAL révisé** | | **~85 000 €** |
+| **TOTAL révisé** | | **~92 000 €** |
 
 ### 7.4 PROVISION RÉFÉRÉ
 - **Notre recommandation** : 15 000 € (objectif haut)
@@ -388,17 +388,17 @@ Un tiers a produit une analyse critique du mémoire Glose, globalement convergen
 ### 8.3 TABLEAU RÉCAPITULATIF FINAL (3 ANALYSES)
 | Poste | Nôtre (optimiste) | Glose (conservatif) | Critique Glose | **Compromis final** |
 |---|---|---|---|---|
-| PGPA | 1 900 € | 1 380 € | 1 380 € | 1 380 € |
+| PGPA | 1 400 € | 1 380 € | 1 380 € | 1 380 € |
 | DFT | 1 400 € | *(inclus)* | *(inclus)* | 1 400 € |
 | DFP | 31 200 € (12%) | 25 000 € (8%) | 18 000-45 000 € (10-12%) | **25 000 €** |
 | SE | 24 000 € | 8 500 € | 15 000-24 000 € | **15 000 €** |
 | IP | 30 000 € | 2 250 € | 10 000-30 000 € | **30 000 €** |
-| Agrément | 8 000 € | 3 500 € | 2 000-5 000 € | **5 000 €** |
+| Agrément | 5 000 € | 3 500 € | 2 000-5 000 € | **5 000 €** |
 | PEP | 3 000 € | *(inclus)* | 2 000-5 000 € | **3 000 €** |
 | DEP | *(absent)* | *(absent)* | 2 000-5 000 € | **3 000 €** |
 | Frais divers | 2 000 € | 3 500 € | 3 000-5 000 € | 3 000 € |
-| Art. 700 | 4 000 € | 2 250 € | 1 500-3 000 € | 3 000 € |
-| **TOTAL** | **~105 000 €** | **~45 000 €** | **55 000-105 000 €** | **~90 000 €** |
+| Art. 700 | 3 000 € | 2 250 € | 1 500-3 000 € | 3 000 € |
+| **TOTAL** | **~92 000 €** | **~45 000 €** | **55 000-92 000 €** | **~92 000 €** |
 
 ### 8.4 PROVISION RÉFÉRÉ RECOMMANDÉE
 - **Notre recommandation (renforcée)** : 15 000 € minimum

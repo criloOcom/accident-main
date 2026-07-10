@@ -101,7 +101,7 @@ Les demandes amiables de Sébastien GRAZIDE sont restees lettres mortes :
 
 Ce silence delibere caracterise un refus de communiquer qui justifie que soit ordonnee la communication sous astreinte.
 
-L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu : en l'absence de cette information, l'indemnisation d'un prejudice corporel grave evalue a ~90 000 € est entierement bloquee.
+L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu : en l'absence de cette information, l'indemnisation d'un prejudice corporel grave evalue a ~92 000 € est entierement bloquee.
 
 <hr>
 

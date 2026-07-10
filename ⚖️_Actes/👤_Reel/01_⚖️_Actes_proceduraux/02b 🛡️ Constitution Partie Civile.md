@@ -172,7 +172,7 @@ Les prejudices subis par Sébastien GRAZIDE sont graves et durables :
 | Prejudice d'agrement | 5 000 € (guitare + autres activites) |
 | Devalorisation professionnelle future (DEP) | 3 000 € (perte de clientele et de competitivite) |
 | Frais divers | 3 000 € (kine, deplacements) |
-| Total estime | ~90 000 € (a parfaire apres expertise) |
+| Total estime | ~92 000 € (a parfaire apres expertise) |
 
 <hr>
 

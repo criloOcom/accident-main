@@ -43,7 +43,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 
 ## 5. MONTANT ESTIMÉ ET PLAFOND FGTI
 - **Principe** : Le FGTI assure la **réparation intégrale** des préjudices corporels résultant de l'infraction, sans application d'un plafond global légal pour les atteintes graves (contrairement au SARVI).
-- **Montant estimé** : L'évaluation détaillée (Dintilhac) fait état d'un préjudice global de **~105 000 €** (évaluation haute) à **~45 000 €** (évaluation Glose, conservative). Le compromis retenu s'établit autour de **~85 000 €**.
+- **Montant estimé** : L'évaluation détaillée (Dintilhac) fait état d'un préjudice global de **~92 000 €** (évaluation haute) à **~45 000 €** (évaluation Glose, conservative). Le compromis retenu s'établit autour de **~92 000 €**.
 - Le FGTI prendra en charge la totalité des préjudices validés par l'expertise judiciaire, déduction faite des provisions déjà versées et des créances des tiers payeurs (CPAM).
 
 ## 6. PIÈCES NÉCESSAIRES POUR LA DEMANDE CIVI

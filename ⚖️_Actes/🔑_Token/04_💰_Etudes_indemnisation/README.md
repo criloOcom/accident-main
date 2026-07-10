@@ -12,7 +12,7 @@
 
 | # | Document | Montant | Détail |
 |---|----------|---------|--------|
-| **11** | **[Étude indemnisation](11%20%F0%9F%92%B0%20Etude%20indemnisation.md)** | **59 600 €** | Évaluation maximale Dintilhac : ITT, DFT, souffrances endurées, préjudice esthétique, incidence professionnelle, déficit fonctionnel permanent. |
+| **11** | **[Étude indemnisation](11%20%F0%9F%92%B0%20Etude%20indemnisation.md)** | **92 000 €** | Évaluation maximale Dintilhac : ITT, DFT, souffrances endurées, préjudice esthétique, incidence professionnelle, déficit fonctionnel permanent. |
 
 ## 💸 Synthèse rapide
 
@@ -20,7 +20,7 @@
 |-------|---------|
 | **Période « consolidation »** (avant consolidation) | ~12 000 € |
 | **Période « aggravée »** (après consolidation) | ~47 600 € |
-| **Total** | **59 600 €** |
+| **Total** | **92 000 €** |
 
 > 📌 Le rapport d'expertise médicale du **12 novembre 2026** permettra d'actualiser ces chiffres avec les séquelles définitives.
 -

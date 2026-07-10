@@ -106,11 +106,11 @@ Proposition médiane : 12 × 2 600 € = **31 200 €**.
 
 - **Souffrances Endurées** <br>
 Évaluées à 4/7 (choc, microchirurgie SOS Main, rééducation, douleurs neuropathiques). <br> Référentiel Mornet 2024 pour 4/7 : 15 000 à 30 000 €.<br>
-Proposition : **24 000 €**.
+Proposition : **15 000 €**.
 
 - **Préjudice d'Agrément** <br>
 Répare l'impossibilité de pratiquer des loisirs (guitare, projets personnels de codage). <br>
-Proposition : **8 000 €** (guitare 6 000 € + autres 2 000 €).
+Proposition : **5 000 €** (guitare 3 500 € + autres 1 500 €).
 
 - **(PEP) Préjudice Esthétique Permanent** <br>
 Cicatrice palmaire 8,5 cm. <br>
@@ -121,15 +121,15 @@ Proposition : **3 000 €**. (Poste oublié dans les versions antérieures.)
 ## III. RÉCAPITULATIF DU CHIFFRAGE ESTIMATIF
 | Poste de Préjudice | Montant Initial | Proposition Dintilhac |
 | --- | --- | --- |
-| (PGPA) Pertes de Gains Professionnels Actuels | 1 400 € | 1 900 € |
+| (PGPA) Pertes de Gains Professionnels Actuels | 1 400 € | 1 400 € |
 | (DFT) Déficit Fonctionnel Temporaire | *(oublié)* | **1 400 €** |
 | (IP) Incidence Professionnelle | 15 000 € | **30 000 €** |
 | (DFP) Déficit Fonctionnel Permanent | 25 200 € | **31 200 €** |
-| (SE) Souffrances Endurées | 12 000 € | **24 000 €** |
-| Préjudice d'Agrément | 3 000 € | **8 000 €** |
+| (SE) Souffrances Endurées | 12 000 € | **15 000 €** |
+| Préjudice d'Agrément | 3 000 € | **5 000 €** |
 | (PEP) Préjudice Esthétique Permanent | *(oublié)* | **3 000 €** |
 | Frais divers (kiné, déplacements) | *(oublié)* | **2 000 €** |
-| Frais d'assistance ([Article 700 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)) | 3 000 € | 4 000 € |
+| Frais d'assistance ([Article 700 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)) | 3 000 € | 3 000 € |
 | TOTAL ESTIMATIF | **59 600 €** | **~105 000 €** |
 
 > « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. » <br>
@@ -185,7 +185,7 @@ Plusieurs éléments spécifiques aggravent le préjudice de **[La Victime]** :
 <hr><hr>
 
 ## VII. CONCLUSION ET ANALYSE
-L'indemnisation initialement estimée à 59 600 € a été réévaluée à **~105 000 €** après analyse détaillée (barème Mornet 2024, méthode BIBAL). Cette réévaluation tient compte de postes oubliés (DFT, PEP, frais divers) et d'une revalorisation des SE, IP, DFP et agrément conformément aux référentiels actualisés.
+L'indemnisation initialement estimée à 59 600 € a été réévaluée à **~92 000 €** après analyse détaillée (barème Mornet 2024, méthode BIBAL). Cette réévaluation tient compte de postes oubliés (DFT, PEP, frais divers) et d'une revalorisation des SE, IP, DFP et agrément conformément aux référentiels actualisés.
 
 Ce montant sera affiné suite à l'expertise médicale prévue le **[J+167 Expertise UMJ]** et à la consolidation.
 
@@ -218,14 +218,14 @@ La Cour de cassation (REF-08 et REF-13) rappelle que la victime dispose libremen
 
 - DFP (12% estimé) : 31 200 € (séquelles articulaires et neurologiques permanentes, barème Mornet 2 600 €/point)
 
-- Souffrances Endurées (4/7) : 24 000 € (douleur physique, microchirurgie, rééducation)
+- Souffrances Endurées (4/7) : 15 000 € (douleur physique, microchirurgie, rééducation)
 
-- Préjudice d'Agrément : 8 000 € (guitare, développement personnel)
+- Préjudice d'Agrément : 5 000 € (guitare, développement personnel)
 
 - PEP : 3 000 € (cicatrice palmaire 8,5 cm)
 
 - Frais divers : 2 000 € (kiné, déplacements)
 
-- Frais Art. 700 CPC : 4 000 € (compensation des frais d'instance)
+- Frais Art. 700 CPC : 3 000 € (compensation des frais d'instance)
 
-- TOTAL DEMANDÉ (estimation médiane) : ~105 000 €
+- TOTAL DEMANDÉ (estimation médiane) : ~92 000 €
