@@ -61,12 +61,12 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [Art. L.124-3](📒_Autres_codes/Article_L124-3_Codesassurances_Legifrance.md) — Action directe
 
 ### 📒 Code de commerce (6 articles)
-- [Art. L.210-6](📒_Autres_codes/Article_L210-6_Codecommerce_Legifrance.md) — Responsabilité des dirigeants
-- [Art. L.223-22](📒_Autres_codes/Article_L223-22_Codecommerce_Legifrance.md) — Nullité des actes
-- [Art. L.225-251](📒_Autres_codes/Article_L225-251_Codecommerce_Legifrance.md) — Responsabilité en cas de liquidation
-- [Art. L.227-8](📒_Autres_codes/Article_L227-8_Codecommerce_Legifrance.md) — Responsabilité des dirigeants de SAS
-- [Art. L.227-1](📒_Autres_codes/Article_L227-1_Code_Legifrance.md) — Pouvoirs du président
-- [Art. L.237-2](📒_Autres_codes/Article_L237-2_Codecommerce_Legifrance.md) — Responsabilité des dirigeants
+- [Art. L.210-6](📒_Code_commerce/Article_L210-6_Codecommerce_Legifrance.md) — Responsabilité des dirigeants
+- [Art. L.223-22](📒_Code_commerce/Article_L223-22_Codecommerce_Legifrance.md) — Nullité des actes
+- [Art. L.225-251](📒_Code_commerce/Article_L225-251_Codecommerce_Legifrance.md) — Responsabilité en cas de liquidation
+- [Art. L.227-8](📒_Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) — Responsabilité des dirigeants de SAS
+- [Art. L.227-1](📒_Code_commerce/Article_L227-1_Code_Legifrance.md) — Pouvoirs du président
+- [Art. L.237-2](📒_Code_commerce/Article_L237-2_Codecommerce_Legifrance.md) — Responsabilité des dirigeants
 
 ### 📒 Autres codes (6 articles)
 - [Art. L.421-3](📒_Autres_codes/Article_L421-3_Codeconsommation_Legifrance.md) — Sécurité des consommateurs
