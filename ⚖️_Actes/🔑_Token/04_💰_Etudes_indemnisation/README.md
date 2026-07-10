@@ -1,10 +1,7 @@
-# 💰 Études d'Indemnisation
-
-```
 🏠 [Accueil](../../../README.md) → 📁 [actes](../../README.md) → 🔒 [token](../README.md) → 💰 04_💰_Etudes_indemnisation/
-```
+<hr>
 
----
+# 💰 Études d'Indemnisation
 
 **Ce dossier contient l'évaluation financière des préjudices subis par la victime, selon la nomenclature Dintilhac.**
 
