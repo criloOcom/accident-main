@@ -110,7 +110,7 @@ Vu l'Article 145 du Code de procédure civile,
 Vu l'Article L. 124-3 du Code des assurances,
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions**
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité**
 
 Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu les pièces versées aux débats,

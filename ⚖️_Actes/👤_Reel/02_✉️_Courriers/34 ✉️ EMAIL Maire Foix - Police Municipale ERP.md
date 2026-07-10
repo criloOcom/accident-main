@@ -26,17 +26,17 @@ Afin de contextualiser ma présente démarche, je me permets de retracer briève
 - **Le 2 juin 2026**, je vous ai transmis la preuve officielle de l'ouverture de ma procédure pénale (PV n° 2026/015967).
 - **Le 5 juillet 2026**, je vous ai adressé une demande d'information concernant l'avancement de ces enquêtes administratives.
 
-Pour assurer un bon suivi de mon dossier et dans un souci de bonne coordination administrative, je vous serais reconnaissant de bien vouloir me communiquer, si elles sont disponibles, les références des saisines que vous avez adressées le 1er juin 2026 à la Préfecture, à l'Inspection du Travail et au CODAF. Cela me permettrait de suivre l'évolution de ces dossiers et, le cas échéant, de les porter à la connaissance de l'autorité judiciaire.
+Afin d'assurer un suivi rigoureux de mon dossier et conformément aux dispositions de l'article L. 311-1 du Code des relations entre le public et l'administration (CRPA), je vous serais reconnaissant de bien vouloir me communiquer une copie des courriers de saisine que vous avez adressés le 1er juin 2026 à la Préfecture, à l'Inspection du Travail et au CODAF. Cette communication m'est indispensable pour tenir informée l'autorité judiciaire de l'évolution de ces enquêtes.
 
 Si je me permets de vous écrire à nouveau aujourd'hui, c'est en raison d'une évolution particulièrement anormale de la situation qui requiert l'attention de vos services.
 
-Sur le plan médical, lors de ma consultation de contrôle du 23 juin 2026, le Dr Iskander DJERBI (SOS Main — Clinique de l'Union) a prescrit un protocole de kinésithérapie stricte (3 séances par semaine) et certifié que la récupération de la sensibilité de mon index s'étendra sur une durée d'environ un an et restera probablement partielle après une suture nerveuse.
+Sur le plan médical, lors de ma consultation de contrôle du 23 juin 2026, le Dr Iskander DJERBI (SOS Main — Clinique de l'Union) a prescrit un protocole de kinésithérapie stricte (3 séances par semaine) et certifié que la récupération de la sensibilité de mon index s'étendra sur une durée d'environ un an, tout en restant probablement partielle suite à la suture nerveuse.
 
-Sur le plan administratif, résidant à 10 Avenue de Purpan, 31700 Blagnac, j'ai fait adresser des mises en demeure par courriers recommandés à SAS LES MAUVAIS GARCONS à l'adresse de son siège social (22 Rue Lafaurie, 09000 Foix) le 29 juin 2026. Or, ces courriers n'ont pas pu être distribués (mentions défaut d'adresse, distribution impossible).
+Sur le plan administratif, résidant à 10 Avenue de Purpan, 31700 Blagnac, j'ai fait adresser des mises en demeure par courriers recommandés à SAS LES MAUVAIS GARCONS à l'adresse de son siège social (22 Rue Lafaurie, 09000 Foix) le 29 juin 2026. Or, ces courriers m'ont été retournés (mentions défaut d'adresse, distribution impossible).
 
 Par souci de complète transparence avec vos services, je vous informe qu'à cette même date du 29 juin 2026, j'ai également transmis l'intégralité de mon dossier médical (11 pièces — comptes rendus opératoires, certificats médicaux, arrêts de travail, notes médico-légales) ainsi que ma constitution de partie civile et mes conclusions au Procureur de la République près le Tribunal Judiciaire de Foix (PV n° 2026/015967), afin de permettre à l'autorité judiciaire d'apprécier la réalité et l'étendue de mon préjudice corporel dans le cadre de l'enquête préliminaire ouverte.
 
-Pourtant, le commerce a rouvert ses portes le 6 juillet 2026 et paraît en activité régulière. Les registres publics du RNE (INPI) indiquent par ailleurs que cette SAS est toujours officiellement active à cette même adresse, sans modification de siège social.
+Pourtant, le commerce a rouvert ses portes le 6 juillet 2026 et paraît en activité régulière, alors même que les registres du RNE (INPI) indiquent que cette SAS est toujours officiellement domiciliée à cette adresse.
 
 Dans ce contexte, je tenais à porter ces éléments à votre connaissance, pour information, dans l'hypothèse où ils seraient utiles à vos services dans le cadre de l'exercice de vos missions.
 

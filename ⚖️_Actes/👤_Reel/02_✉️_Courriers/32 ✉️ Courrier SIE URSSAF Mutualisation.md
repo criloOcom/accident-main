@@ -35,7 +35,7 @@ Courriel : sebastien.grazide@gmail.com
 
 [À compléter]
 
-Foix, le **9 juillet 2026**
+Foix, le **[J+41 Courrier SIE URSSAF]**
 
 Objet : Demande de mutualisation fiscale et sociale urgente — SAS SAS LES MAUVAIS GARCONS
 

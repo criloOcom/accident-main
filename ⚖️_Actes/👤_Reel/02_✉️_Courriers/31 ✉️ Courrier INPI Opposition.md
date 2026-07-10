@@ -23,7 +23,7 @@ format: Arial JUSTIFIED
 # OPPOSITION À IMMATRICULATION AU REGISTRE NATIONAL DES ENTREPRISES
 Nom Prénom de l'Avocat
 
-**À L'ATTENTION DU GREFFIER DU TRIBUNAL DE COMMERCE DE FOIX**
+**À L'ATTENTION DU GREFFIER DU Tribunal de Commerce de Foix**
 **Service du Registre National des Entreprises (RNE)**
 
 Foix, le 9 juillet 2026
@@ -42,19 +42,19 @@ Il existe de sérieuses raisons de penser que la société SAS LES MAUVAIS GARCO
 
 ## II. FONDEMENTS JURIDIQUES
 
-### A. Pouvoir du ministère public — Article L.123-5-1 C.com.
+### A. Pouvoir du ministère public et de tout intéressé — Article L.123-5-1 C.com.
 
-> « Le ministère public peut, dans un délai de deux mois à compter de la publication de l'immatriculation, former opposition à celle-ci par exploit d'huissier de justice lorsque l'immatriculation a été indûment obtenue par des moyens frauduleux. »
-> **Code de commerce** [Article L.123-5-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278086)
+> « À la demande de tout intéressé ou du ministère public, le président du tribunal, statuant en référé, peut enjoindre sous astreinte au dirigeant de toute personne morale de procéder au dépôt des pièces et actes au registre du commerce et des sociétés auquel celle-ci est tenue par des dispositions législatives ou réglementaires. »
+> **Code de commerce** [Article L.123-5-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291)
 
-Bien que cet article confère ce pouvoir au ministère public, il manifeste la volonté du législateur de s'opposer aux immatriculations frauduleuses. Par la présente, je sollicite que le Parquet soit saisi pour exercer ce pouvoir d'opposition.
+Cet article permet à tout intéressé — ici Sébastien GRAZIDE, créancière d'une obligation indemnitaire — de solliciter du président du tribunal, statuant en référé, qu'il enjoigne sous astreinte aux dirigeants de régulariser leur situation au registre. Il manifeste également la volonté du législateur de confier au ministère public un rôle de surveillance des immatriculations. Par la présente, je sollicite que le Parquet soit saisi pour exercer ce pouvoir.
 
-### B. Radiation sur intérêt de tiers — Article R.123-143 C.com.
+### B. Droit d'action de tout intéressé — Article L.123-3 C.com.
 
-> « Tout déposant au greffe peut, sur justification d'un intérêt légitime et après en avoir informé le ministère public, former opposition à une inscription ou à un dépôt. »
-> **Code de commerce** [Article R.123-143](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039868542)
+> « Faute par un commerçant personne physique de requérir son immatriculation dans le délai prescrit, le juge commis soit d'office, soit à la requête du procureur de la République ou de toute personne justifiant y avoir intérêt, rend une ordonnance lui enjoignant, le cas échéant sous astreinte, de demander son immatriculation. Dans les mêmes conditions, le juge peut enjoindre, le cas échéant sous astreinte, à toute personne immatriculée au registre du commerce et des sociétés [...] de faire procéder [...] à la radiation. »
+> **Code de commerce** [Article L.123-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422)
 
-Cet article permet à un tiers justifiant d'un intérêt légitime — ici Sébastien GRAZIDE, créancière d'une obligation indemnitaire — de former opposition à une inscription au registre.
+Cet article permet à un tiers justifiant d'un intérêt légitime — ici Sébastien GRAZIDE, créancière d'une obligation indemnitaire — de solliciter du juge commis à la surveillance du registre qu'il enjoigne aux dirigeants de régulariser l'immatriculation ou de procéder à la radiation de toute inscription irrégulière.
 
 ### C. Fraus omnia corrumpit
 

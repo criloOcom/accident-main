@@ -26,10 +26,10 @@ format: Arial JUSTIFIED
 Courriel : **[L'Email de la Victime]**
 
 **URSSAF Midi-Pyrenees**
+TSA 90002
+93517 MONTREUIL CEDEX
 
-**[Adresse à compléter]**
-
-**[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
+**[La Ville de l'Accident]**, le 11 juillet 2026
 
 Objet : Signalement de travail dissimule presume — SAS **[L'Exploitant du Commerce (La SAS)]**
 
@@ -90,6 +90,15 @@ Je sollicite de vos services qu'une verification soit effectuee concernant :
 3. L'existence d'eventuelles autres irregularites
 
 Conformement a l'Article L.8271-1-2 du Code du travail, les agents de l'URSSAF sont competents pour rechercher et constater les infractions de travail dissimule.
+
+<hr>
+
+## PIECES JOINTES
+- Copie du PV n°2026/015967 (procedure penale)
+- Accuses de reception des courriers recommandes retournes (29 juin 2026 — mentions NPAI)
+- Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]** (938 033 222)
+
+Je vous remercie de bien vouloir me faire parvenir un accuse de reception ecrit de la presente, ainsi qu'une response dans un delai de 15 jours.
 
 Mes coordonnees : **[L'Adresse de la Victime]** — Courriel : **[L'Email de la Victime]**
 

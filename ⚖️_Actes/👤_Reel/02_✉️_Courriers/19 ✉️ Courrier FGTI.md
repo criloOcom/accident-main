@@ -30,10 +30,10 @@ Sébastien GRAZIDE
 Courriel : sebastien.grazide@gmail.com
 
 **Fonds de Garantie des Victimes (FGTI)**
+64 Rue de la République
+75011 Paris
 
-[À compléter]
-
-Blagnac, le 6 juillet 2026
+Blagnac, le 12 juillet 2026
 
 Objet : Saisine conservatoire — Accident du 29 mai 2026 — SAS SAS LES MAUVAIS GARCONS — Constitution de partie civile deposee
 
@@ -64,9 +64,9 @@ A la date de la presente, les procedures suivantes ont ete engagees :
 
 1. **Mises en demeure LRAR** (29 juin 2026) : adressees a la SAS et a ses dirigeants, **sans aucun retour** a ce jour.
 
-2. **Assignation en refere-provision** (30 juin 2026) : Tribunal Judiciaire de Foix, a l'encontre de la SAS et de ses dirigeants in solidum.
+2. **Assignation en refere-provision** (30 juin 2026) : redigee et prete a etre deposee au Tribunal Judiciaire de Foix, a l'encontre de la SAS et de ses dirigeants in solidum.
 
-3. **Assignation Article 145 CPC** (5 juillet 2026) : pour communication forcee de la police d'assurance RC.
+3. **Assignation Article 145 CPC** (5 juillet 2026) : redigee et prete a etre deposee pour communication forcee de la police d'assurance RC.
 
 4. **Constitution de partie civile** (6 juillet 2026) : deposee aupres du Doyen des Juges d'Instruction de Foix sur le fondement des articles 222-19 et 222-20 du Code penal.
 
@@ -92,17 +92,25 @@ L'accident est survenu dans un contexte de multiples irregularites de la part de
 <hr>
 
 ## INDEMNITES SOLLICITEES
-Le montant total estime de mon prejudice corporel, selon la nomenclature Dintilhac, s'eleve a **59 600 €**, se decomposant comme suit :
+Le montant total estime de mon prejudice corporel, selon la nomenclature Dintilhac, s'eleve a **~105 000 €**, se decomposant comme suit :
 
-- Pertes de gains professionnels actuels (PGPA) : 1 400 €
+- Pertes de gains professionnels actuels (PGPA) : 1 900 €
+
+- Deficit fonctionnel temporaire (DFT) : 1 400 €
 
 - Incidence professionnelle (IP) : 30 000 €
 
-- Deficit fonctionnel permanent (DFP) : 25 000 €
+- Deficit fonctionnel permanent (DFP) : 31 200 €
 
-- Souffrances endurees (SE) : 15 000 €
+- Souffrances endurees (SE) : 24 000 €
 
-- Prejudice d'agrement : 3 000 €
+- Prejudice d'agrement : 8 000 €
+
+- Pretium doloris (PEP) : 3 000 €
+
+- Frais divers (kiné, déplacements) : 2 000 €
+
+- Dévalorisation professionnelle (DEP) : 3 000 €
 
 - Article 700 du CPC : 3 000 €
 
@@ -125,6 +133,16 @@ Je sollicite en consequence :
 - **L'information sur les conditions d'indemnisation** par le FGTI dans l'hypothese d'insolvabilite de la SAS et de ses dirigeants ;
 - **La communication du barème d'indemnisation** et des documents necessaires a la constitution d'un dossier FGTI le cas echeant ;
 - **Toute information** sur le delai de carence et les conditions de recevabilite de ma demande au regard de l'avancement de la procedure penale.
+
+<hr>
+
+## PIECES JOINTES
+- Copie du PV n°2026/015967 (procedure penale)
+- Accuses de reception des courriers recommandes retournes (29 juin 2026 — mentions NPAI)
+- Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS (938 033 222)
+- Dossier medical complet (11 pieces)
+
+Je vous remercie de bien vouloir me faire parvenir un accuse de reception ecrit de la presente, ainsi qu'une response dans un delai de 15 jours.
 
 Mes coordonnees : 10 Avenue de Purpan, 31700 Blagnac — Courriel : sebastien.grazide@gmail.com
 

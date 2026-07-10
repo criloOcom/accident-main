@@ -60,11 +60,11 @@ La Cour de cassation a jugé que constitue une faute détachable la faute intent
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092**
 
-L'article L. 227-8 du Code de commerce dispose que les dirigeants d'une société commerciale sont responsables, individuellement ou solidairement, selon le cas, envers les tiers des conséquences dommageables de leurs actes.
+L'article L. 227-8 du Code de commerce dispose que les règles de responsabilité applicables aux sociétés anonymes s'imposent au président et aux dirigeants de la SAS.
 
-> « Les actions en responsabilité contre le président ou les dirigeants de la SAS, soit à titre social, soit à titre individuel, se prescrivent par trois ans à compter du fait dommageable ou, s'il a été dissimulé, de sa révélation. » <br>
+> « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
-> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre IV : Des sociétés par actions simplifiées > Chapitre VII : De la responsabilité**
+> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées**
 
 L'article L. 227-1 du Code de commerce dispose que les règles des sociétés anonymes sont applicables aux SAS :
 

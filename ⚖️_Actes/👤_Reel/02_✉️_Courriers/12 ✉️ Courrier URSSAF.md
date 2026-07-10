@@ -26,10 +26,10 @@ Sébastien GRAZIDE
 Courriel : sebastien.grazide@gmail.com
 
 **URSSAF Midi-Pyrenees**
+TSA 90002
+93517 MONTREUIL CEDEX
 
-[À compléter]
-
-Foix, le 5 juillet 2026
+Foix, le 11 juillet 2026
 
 Objet : Signalement de travail dissimule presume — SAS SAS LES MAUVAIS GARCONS
 
@@ -90,6 +90,15 @@ Je sollicite de vos services qu'une verification soit effectuee concernant :
 3. L'existence d'eventuelles autres irregularites
 
 Conformement a l'Article L.8271-1-2 du Code du travail, les agents de l'URSSAF sont competents pour rechercher et constater les infractions de travail dissimule.
+
+<hr>
+
+## PIECES JOINTES
+- Copie du PV n°2026/015967 (procedure penale)
+- Accuses de reception des courriers recommandes retournes (29 juin 2026 — mentions NPAI)
+- Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS (938 033 222)
+
+Je vous remercie de bien vouloir me faire parvenir un accuse de reception ecrit de la presente, ainsi qu'une response dans un delai de 15 jours.
 
 Mes coordonnees : 10 Avenue de Purpan, 31700 Blagnac — Courriel : sebastien.grazide@gmail.com
 

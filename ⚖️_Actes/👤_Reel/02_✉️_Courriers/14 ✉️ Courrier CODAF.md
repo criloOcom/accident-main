@@ -28,10 +28,12 @@ Sébastien GRAZIDE
 Courriel : sebastien.grazide@gmail.com
 
 **CODAF de l'Ariege**
+Prefécture de l'Ariège
+2 Rue de la Préfecture
+BP 40087
+09007 Foix Cedex
 
-[À compléter]
-
-Foix, le 5 juillet 2026
+Foix, le 11 juillet 2026
 
 Objet : Signalement officiel de manquements et demandes d'enquete — SAS SAS LES MAUVAIS GARCONS
 
@@ -91,6 +93,16 @@ Les manquements suivants sont susceptibles de relever de la competence du CODAF 
 
 ## III — DEMANDE D'ENQUETE
 Je sollicite du CODAF qu'une enquete soit diligentee afin de verifier l'ensemble de ces elements. Conformement a l'Article 40 du Code de procedure penale, si les faits constates sont constitutifs d'infractions, je vous remercie de bien vouloir en informer le Procureur de la Republique.
+
+<hr>
+
+## PIECES JOINTES
+- Copie du PV n°2026/015967 (procedure penale)
+- Accuses de reception des courriers recommandes retournes (29 juin 2026 — mentions NPAI)
+- Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS (938 033 222)
+- Dossier medical complet (11 pieces)
+
+Je vous remercie de bien vouloir me faire parvenir un accuse de reception ecrit de la presente, ainsi qu'une response dans un delai de 15 jours.
 
 Mes coordonnees pour reponse : 10 Avenue de Purpan, 31700 Blagnac — Courriel : sebastien.grazide@gmail.com
 

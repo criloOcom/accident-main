@@ -21,7 +21,7 @@ format: Arial JUSTIFIED
 # OPPOSITION CONSERVATOIRE À RADIATION DE SOCIÉTÉ
 Nom Prénom de l'Avocat
 
-**À L'ATTENTION DE MONSIEUR LE PRÉSIDENT DU TRIBUNAL DE COMMERCE DE FOIX**
+**À L'ATTENTION DE MONSIEUR LE PRÉSIDENT DU Tribunal de Commerce de Foix**
 Service du Registre du Commerce et des Sociétés
 
 Foix, le 9 juillet 2026

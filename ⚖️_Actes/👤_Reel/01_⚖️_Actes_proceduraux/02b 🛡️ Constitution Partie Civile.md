@@ -104,9 +104,9 @@ La **violation manifestement deliberee** est caracterisee par :
 - L'absence de mise a disposition d'un escabeau, contraignant le prepose a escalader la vasque
 
 ### B. SUR LA RESPONSABILITE CIVILE PERSONNELLE DES DIRIGEANTS (L.227-8 + L.225-251 C.COM.)
-> « Les actions en responsabilité contre le président ou les dirigeants de la SAS, soit à titre social, soit à titre individuel, se prescrivent par trois ans à compter du fait dommageable ou, s'il a été dissimulé, de sa révélation. » <br>
+> « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
-> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre IV : Des sociétés par actions simplifiées > Chapitre VII : De la responsabilité**
+> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées**
 
 Cette disposition constitue le fondement de la responsabilite personnelle des dirigeants de SAS, qui peut etre engagee pour des fautes commises dans l'exercice de leurs fonctions.
 
@@ -152,7 +152,7 @@ Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'inf
 ### D. SUR LE DEFAUT D'ASSURANCE DE RESPONSABILITE CIVILE (L.124-3 C.ASSUR.)
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions**
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité**
 
 En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles 706-3 et 706-14 du Code de procédure pénale (Titre XIV), pourra être directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente constitution de partie civile sollicite formellement la designation du FGTI comme garant subrogatoire.
 
