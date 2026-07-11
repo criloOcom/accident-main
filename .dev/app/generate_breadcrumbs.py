@@ -1,118 +1,191 @@
 #!/usr/bin/env python3
 """
-Génère des fils d'Ariane dans les fichiers .md.
-Format (3 lignes, ligne 1-3) :
-<!-- Breadcrumb -->
-[🏠](../README.md)
-<!-- /Breadcrumb -->
-"""
+generate_breadcrumbs.py — (Ré)génère le fil d'Ariane HIÉRARCHIQUE de tous les
+fichiers .md du dépôt /home/crilocom/accident-main.
 
+Convention (Règle #13 / #15 / #16) :
+  - Balises <!-- Breadcrumb --> ... <!-- /Breadcrumb --> sur les lignes 1-3.
+  - Fil d'Ariane COMPLET : tous les dossiers parents (racine -> parent direct)
+    affichés et CLIQUABLES via chemins relatifs corrects.
+  - Dernier élément (dossier courant pour un README, fichier courant sinon) :
+    affiché en TEXTE (non cliquable).
+  - Séparateur : " › " (espace, chevron U+203A, espace).
+  - AUCUN lien absolu. Un niveau n'est cliquable QUE si son README.md existe
+    réellement (sinon texte brut -> zéro lien mort, Règle #16).
+
+Usage :
+  python3 .dev/app/generate_breadcrumbs.py            # dry-run (défaut)
+  python3 .dev/app/generate_breadcrumbs.py --apply     # applique les modifs
+"""
 import os
 import re
-from pathlib import Path
+import sys
 
 ROOT = "/home/crilocom/accident-main"
+SKIP_DIRS = {'.git', '.pytest_cache', '.venv', 'node_modules', '__pycache__', '.opencode'}
+
+SEP = " › "
 
 
-def compute_root_link(file_path):
-    """Retourne le chemin relatif vers README.md racine."""
-    full_path = Path(file_path)
-    root = Path(ROOT)
-    try:
-        relative_path = full_path.relative_to(root)
-    except ValueError:
+def link_for_ups(ups):
+    """Renvoie le chemin relatif vers un README.md situé 'ups' niveaux au-dessus."""
+    if ups <= 0:
+        return "./README.md"
+    return "../" * ups + "README.md"
+
+
+def read_title(readme_path):
+    if not os.path.isfile(readme_path):
         return None
-
-    parts = list(relative_path.parts)
-    depth = len(parts) - 1  # nombre de niveaux de dossiers
-    if depth <= 0:
-        return "README.md"
-    return os.path.join(*([".."] * depth + ["README.md"]))
-
-
-# Patterns de blocs breadcrumb pour suppression (anciens + nouveau format)
-_BREADCRUMB_PATTERNS = [
-    # Code block avec breadcrumb
-    re.compile(r'```\s*\n.*?🏠\s*\[.*?```', re.DOTALL),
-    # Nouveau format : <!-- Breadcrumb --> ... <!-- /Breadcrumb -->
-    re.compile(r'<!-- Breadcrumb -->.*?<!-- /Breadcrumb -->', re.DOTALL),
-    # Ancien format : <!-- [🏠](...) > ... -->
-    re.compile(r'<!--\s*\[?🏠.*?-->', re.DOTALL),
-    # Ligne plain text commençant par 🏠 [
-    re.compile(r'^🏠\s*\[.*$', re.MULTILINE),
-    # Ligne avec → contenant 🏠
-    re.compile(r'^.*🏠.*→.*$', re.MULTILINE),
-    # Format broken accident-main
-    re.compile(r'^🏠\s*>\s*\[.*$', re.MULTILINE),
-]
-
-
-def strip_all_breadcrumbs(content):
-    """Supprime TOUS les breadcrumbs (où qu'ils soient dans le fichier)."""
-    new_content = content
-    for pattern in _BREADCRUMB_PATTERNS:
-        new_content = pattern.sub('', new_content)
-    # Nettoyer lignes vides multiples résultant des suppressions
-    new_content = re.sub(r'\n{3,}', '\n\n', new_content)
-    return new_content.strip()
-
-
-def add_breadcrumb_to_file(file_path):
-    root_link = compute_root_link(file_path)
-    if not root_link:
-        return False
-
     try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            original = f.read()
-    except Exception as e:
-        print(f"Erreur de lecture {file_path}: {e}")
-        return False
-
-    cleaned = strip_all_breadcrumbs(original)
-    breadcrumb_block = f"<!-- Breadcrumb -->\n[🏠]({root_link})\n<!-- /Breadcrumb -->"
-
-    new_content = f"{breadcrumb_block}\n\n{cleaned}\n"
-
-    try:
-        with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(new_content)
-        return True
-    except Exception as e:
-        print(f"Erreur d'écriture {file_path}: {e}")
-        return False
+        txt = open(readme_path, encoding="utf-8").read()
+    except Exception:
+        return None
+    m = re.search(r'^---\s*\ntitle:\s*["\'](.*?)["\']', txt, re.MULTILINE)
+    if m:
+        return m.group(1).strip()
+    return None
 
 
-def process_all_markdown_files():
-    stats = {'total_files': 0, 'modified_files': 0, 'skipped_files': 0, 'errors': 0}
-    md_files = []
+def dir_label(dirname):
+    """Label lisible d'un dossier : underscore -> espace."""
+    return dirname.replace("_", " ").strip()
 
-    for root, dirs, files in os.walk(ROOT):
-        dirs[:] = [d for d in dirs if d not in ('.venv', '__pycache__', '.git', 'node_modules', '.opencode', '.pytest_cache')]
-        for f in files:
-            if f.endswith('.md'):
-                md_files.append(os.path.join(root, f))
 
-    stats['total_files'] = len(md_files)
+def file_label(fname):
+    """Label lisible d'un fichier : retire .md, underscore -> espace."""
+    base = os.path.splitext(fname)[0]
+    return base.replace("_", " ").strip()
 
-    for fp in md_files:
-        try:
-            if add_breadcrumb_to_file(fp):
-                stats['modified_files'] += 1
-                print(f"✅ {fp}")
+
+def build_breadcrumb(rel_md_path):
+    abs_p = os.path.join(ROOT, rel_md_path)
+    d = os.path.dirname(abs_p)
+    rel_dir = os.path.relpath(d, ROOT)
+    segs = [] if rel_dir == "." else rel_dir.split(os.sep)
+    N = len(segs)  # profondeur du dossier contenant le fichier
+    is_readme = os.path.basename(rel_md_path) == "README.md"
+
+    levels = []  # (label, lien_ou_None)
+
+    # Racine
+    levels.append(("🏠", link_for_ups(N)))
+
+    # Ancêtres (profondeur 1 .. N-1) -> exclus le dossier courant
+    for k in range(N - 1):
+        ancestor_dir = os.path.join(ROOT, *segs[: k + 1])
+        rpath = os.path.join(ancestor_dir, "README.md")
+        ups = N - k - 1
+        if os.path.isfile(rpath):
+            title = read_title(rpath)
+            label = title if title else dir_label(segs[k])
+            levels.append((label, link_for_ups(ups)))
+        else:
+            levels.append((dir_label(segs[k]), None))
+
+    # Dossier courant
+    if is_readme:
+        if N == 0:
+            return "<!-- Breadcrumb -->\n[🏠](README.md)\n<!-- /Breadcrumb -->"
+        leaf_label = dir_label(segs[-1])
+    else:
+        if N == 0:
+            # fichier à la racine (ex. AGENTS.md) : pas de dossier parent
+            pass
+        else:
+            cur_readme = os.path.join(d, "README.md")
+            if os.path.isfile(cur_readme):
+                t = read_title(cur_readme)
+                levels.append((t if t else dir_label(segs[-1]), "./README.md"))
             else:
-                stats['skipped_files'] += 1
-        except Exception as e:
-            stats['errors'] += 1
-            print(f"❌ {fp}: {e}")
+                levels.append((dir_label(segs[-1]), None))
+        leaf_label = file_label(os.path.basename(rel_md_path))
 
-    return stats
+    parts = [f"[{lab}]({lnk})" if lnk else lab for lab, lnk in levels]
+    parts.append(leaf_label)
+    line = SEP.join(parts)
+    return f"<!-- Breadcrumb -->\n{line}\n<!-- /Breadcrumb -->"
+
+
+def strip_existing_breadcrumb(content):
+    lines = content.split("\n")
+    if lines and lines[0].strip() == "<!-- Breadcrumb -->":
+        if len(lines) >= 3 and lines[2].strip() == "<!-- /Breadcrumb -->":
+            rest = lines[3:]
+        else:
+            rest = lines[1:]
+        while rest and rest[0].strip() == "":
+            rest.pop(0)
+        return "\n".join(rest)
+    return content
+
+
+def apply_to_file(rel_md_path, dry_run):
+    abs_p = os.path.join(ROOT, rel_md_path)
+    try:
+        content = open(abs_p, encoding="utf-8").read()
+    except Exception as e:
+        return ("skip", f"lecture impossible: {e}")
+    new_bc = build_breadcrumb(rel_md_path)
+    body = strip_existing_breadcrumb(content)
+    new_content = new_bc + "\n\n" + body.lstrip("\n")
+    if new_content == content:
+        return ("unchanged", None)
+    if not dry_run:
+        open(abs_p, "w", encoding="utf-8").write(new_content)
+    return ("changed", new_bc)
+
+
+def main():
+    dry_run = "--apply" not in sys.argv
+    targets = []
+    missing_parent = set()
+    for dp, dn, fn in os.walk(ROOT):
+        parts = os.path.relpath(dp, ROOT).split(os.sep)
+        if any(p in SKIP_DIRS for p in parts):
+            continue
+        for f in fn:
+            if f.endswith(".md"):
+                rel = os.path.relpath(os.path.join(dp, f), ROOT)
+                targets.append(rel)
+                # détecte dossiers parents sans README (pour rapport)
+                d = os.path.dirname(os.path.join(ROOT, rel))
+                rel_dir = os.path.relpath(d, ROOT)
+                if rel_dir != ".":
+                    for i in range(1, len(rel_dir.split(os.sep))):
+                        anc = os.path.join(ROOT, *rel_dir.split(os.sep)[:i], "README.md")
+                        if not os.path.isfile(anc):
+                            missing_parent.add(os.path.relpath(anc, ROOT))
+    targets.sort()
+    changed = 0
+    unchanged = 0
+    skipped = 0
+    samples = []
+    for rel in targets:
+        status, info = apply_to_file(rel, dry_run)
+        if status == "changed":
+            changed += 1
+            if len(samples) < 6:
+                samples.append((rel, info))
+        elif status == "unchanged":
+            unchanged += 1
+        else:
+            skipped += 1
+    print(f"MODE: {'DRY-RUN' if dry_run else 'APPLY'}")
+    print(f"Fichiers .md trouvés : {len(targets)}")
+    print(f"  modifiés : {changed}")
+    print(f"  déjà OK  : {unchanged}")
+    print(f"  ignorés  : {skipped}")
+    print(f"Dossiers parents sans README.md (niveaux en texte brut) : {len(missing_parent)}")
+    print("\n--- ÉCHANTILLONS DE BREADCRUMBS GÉNÉRÉS ---")
+    for rel, bc in samples:
+        print(f"\n* {rel}")
+        print(bc)
+    if missing_parent:
+        print("\n--- PARENTS SANS README (extrait) ---")
+        for m in sorted(missing_parent)[:15]:
+            print("  ", m)
 
 
 if __name__ == "__main__":
-    print("🚀 Génération des fils d'Ariane...")
-    print("=" * 60)
-    st = process_all_markdown_files()
-    print("\n" + "=" * 60)
-    print(f"📊  Fichiers: {st['total_files']} | Modifiés: {st['modified_files']} | Ignorés: {st['skipped_files']} | Erreurs: {st['errors']}")
-    print("✅ Terminé!")
+    main()

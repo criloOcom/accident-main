@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../README.md)
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_civil](./README.md) › Article1242 CodeCivil
 <!-- /Breadcrumb -->
 
 ---

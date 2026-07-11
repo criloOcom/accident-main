@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../README.md)
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_penal](./README.md) › Article 222-19 CodePenal Legifrance
 <!-- /Breadcrumb -->
 
 ---

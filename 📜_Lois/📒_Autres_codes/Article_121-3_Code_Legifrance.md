@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../README.md)
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article 121-3 Code Legifrance
 <!-- /Breadcrumb -->
 
 ---

@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../../README.md)
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 01_⚖️_Actes_proceduraux (Versions Réelles)](./README.md) › 01 ⚖️ Assignation
 <!-- /Breadcrumb -->
 
 ---
@@ -13,7 +13,7 @@ tags:
   - provision
   - expertise médicale
   - article 145
-statut: final
+statut: projet
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md

@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../README.md)
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_commerce](./README.md) › Article L210-6 Codecommerce Legifrance
 <!-- /Breadcrumb -->
 
 ---

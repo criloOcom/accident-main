@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../../README.md)
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 31 ✉️ Courrier INPI Opposition
 <!-- /Breadcrumb -->
 
 ---
@@ -13,7 +13,7 @@ tags:
   - immatriculation
   - fraude
   - RNE
-statut: final
+statut: projet
 destinataire: INPI
 auteur: Nom de l'Avocat de la Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/31 ✉️ Courrier INPI Opposition.md

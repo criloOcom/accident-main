@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../../README.md)
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › RAPPORT LEGIFRANCE
 <!-- /Breadcrumb -->
 
 ---
@@ -37,8 +37,8 @@ type: rapport
 | JURITEXT000007043831 | ✅ | Cour de Cassation, Chambre civile 3, du 12 mai 1999, 98-70.069, Publié au bulletin | ⚖️_Actes/14_ANALYSE_Responsabilites_Legales.md |  |
 | JURITEXT000007047369 | ✅ | Cour de Cassation, Chambre commerciale, du 20 mai 2003, 99-17.092, Publié au bulletin | ⚖️_Actes/03_Plainte_Complet_Defaut_Assurance.md, ⚖️_Actes/04_Assignation_Refere_Provision_V1.md, ⚖️_Actes/08_Index_EtatFinal_Dossier.md, ⚖️_Actes/09_PlanAction_Chronologie.md, ⚖️_Actes/10_Synthese_FAQ.md, ⚖️_Actes/11_ANALYSE_correction_juridique.md, ⚖️_Actes/12_ANALYSE_Jurisprudence.md, ⚖️_Actes/13_ANALYSE_Plaidoirie_Dirigeants.md, ⚖️_Actes/14_ANALYSE_Responsabilites_Legales.md | ⚠️ Doublon `[URL](URL)` |
 | JURITEXT000028994017 | ✅ | Cass. Crim., 27 mai 2014, n° 13-80.849 | ⚖️_Actes/08_Index_EtatFinal_Dossier.md |  |
-| JURITEXT000037672235 | ❌ | INCONNU (Recherche Judilibre infructueuse pour 17-26.282) | ⚖️_Actes/07_ETUDE_Indemnisation_MAX.md, ⚖️_Actes/08_Index_EtatFinal_Dossier.md | ⚠️ Doublon `[URL](URL)` |
-| JURITEXT000037679875 | ❌ | INCONNU (Recherche Judilibre infructueuse pour 17-26.282) | ⚖️_Actes/07_ETUDE_Indemnisation_MAX.md |  |
+| JURITEXT000037672235 | ❌ | INCONNU — 17-26.282 N'EXISTE PAS. Remplacé par 92-13.880 (1994), 01-02.274 (2002), 22-18.089 (2024), 24-17.944 (2026) | ⚖️_Actes/07_ETUDE_Indemnisation_MAX.md, ⚖️_Actes/08_Index_EtatFinal_Dossier.md | ⚠️ Doublon `[URL](URL)` |
+| JURITEXT000037679875 | ❌ | INCONNU — 17-26.282 N'EXISTE PAS. Remplacé par 92-13.880 (1994), 01-02.274 (2002), 22-18.089 (2024), 24-17.944 (2026) | ⚖️_Actes/07_ETUDE_Indemnisation_MAX.md |  |
 | JURITEXT000041999264 | ✅ | Cass. Civ. 2e, 28 mai 2020, n° 19-15.659 | ⚖️_Actes/02_ActionDirecte_AssureurRC.md | ⚠️ Doublon `[URL](URL)` |
 | JURITEXT000043782126 | ✅ | Cour de cassation, civile, Chambre civile 2, 8 juillet 2021, 20-15.106, Inédit | ⚖️_Actes/02_ActionDirecte_AssureurRC.md, ⚖️_Actes/07_ETUDE_Indemnisation_MAX.md, ⚖️_Actes/08_Index_EtatFinal_Dossier.md, ⚖️_Actes/12_ANALYSE_Jurisprudence.md | ⚠️ Doublon `[URL](URL)` |
 | JURITEXT000044482848 | ✅ | Cour de cassation, civile, Chambre civile 1, 8 décembre 2021, 20-16.463, Inédit | ⚖️_Actes/02_ActionDirecte_AssureurRC.md, ⚖️_Actes/03_Plainte_Complet_Defaut_Assurance.md, ⚖️_Actes/04_Assignation_Refere_Provision_V1.md, ⚖️_Actes/11_ANALYSE_correction_juridique.md, ⚖️_Actes/12_ANALYSE_Jurisprudence.md | ⚠️ Doublon `[URL](URL)` |

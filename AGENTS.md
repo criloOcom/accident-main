@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](README.md)
+[🏠](./README.md) › AGENTS
 <!-- /Breadcrumb -->
 
 ---
@@ -50,6 +50,7 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
     │   ├── tools.py           ← Outils MCP (Légifrance, Judilibre, Drive)
     │   ├── check_consistency.py
     │   ├── generate_real_versions.py
+    │   ├── sync_readme_listings.py  ← Synchronise READMEs fichiers manquants
     │   └── ...
     ├── tests/             ← Tests unitaires, intégration, évaluation
     ├── deployment/        ← Terraform, déploiement

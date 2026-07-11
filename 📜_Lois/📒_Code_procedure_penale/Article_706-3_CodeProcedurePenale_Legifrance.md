@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../README.md)
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_procedure_penale](./README.md) › Article 706-3 CodeProcedurePenale Legifrance
 <!-- /Breadcrumb -->
 
 ---

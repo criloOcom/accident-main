@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../README.md)
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_commerce](./README.md) › Article L225-251 Codecommerce Legifrance
 <!-- /Breadcrumb -->
 
 ---

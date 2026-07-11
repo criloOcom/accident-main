@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../README.md)
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code des Assurances](./README.md) › Article L124-3 Codesassurances Legifrance
 <!-- /Breadcrumb -->
 
 ---

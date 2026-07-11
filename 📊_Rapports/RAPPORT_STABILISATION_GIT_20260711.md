@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../README.md)
+[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT STABILISATION GIT 20260711
 <!-- /Breadcrumb -->
 
 ---

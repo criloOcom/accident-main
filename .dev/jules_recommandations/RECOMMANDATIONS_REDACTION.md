@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../README.md)
+[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › [jules recommandations](./README.md) › RECOMMANDATIONS REDACTION
 <!-- /Breadcrumb -->
 
 ---

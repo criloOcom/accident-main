@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../README.md)
+[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › RULES
 <!-- /Breadcrumb -->
 
 ---
@@ -269,3 +269,13 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 2. **Seuls les liens externes** (Légifrance, Judilibre, sites web) peuvent être des URL absolues `https://...`
 3. **Sanction** : un fichier contenant un lien interne absolu (`file://` ou `/⚖️_Actes/...`) est considéré comme cassé et doit être corrigé immédiatement
 4. **Vérification** : tout script d'audit ou de vérification doit signaler les liens absolus internes comme des erreurs bloquantes
+
+## #16 — PRINCIPE DE PRÉCISION ABSOLUE (RÈGLE PERMANENTE)
+
+- **La précision l'emporte sur la vitesse en toutes circonstances. Aucun compromis.**
+- Aucune approximation tolérée : pas de « assez bon », pas de « on verra plus tard », pas de déduction sans source.
+- Si une donnée est incertaine → lire la source originale ou marquer explicitement « inconnu en l'état ».
+- Le temps nécessaire à l'exactitude est toujours du temps bien investi. La rapidité n'est jamais une excuse pour l'inexactitude.
+- Cette règle s'applique à tous les agents, scripts, et processus automatisés du projet.
+- Toute proposition de « solution plus rapide mais moins précise » doit être rejetée par principe.
+- **Rappel** : l'objectif du dossier est la production de documents juridiques — une erreur peut invalider un acte ou coûter des droits à la victime.

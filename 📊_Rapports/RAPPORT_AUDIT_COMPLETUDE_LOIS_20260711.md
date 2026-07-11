@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../README.md)
+[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT COMPLETUDE LOIS 20260711
 <!-- /Breadcrumb -->
 
 ---
@@ -49,7 +49,7 @@ Le dossier `📜_Lois` contient **92 fichiers** organisés comme suit :
 | 13-80.849 | ✅ Présent | Mise en danger d'autrui |
 | 14-15.326 | ✅ Présent | Obligation d'assurance du bailleur |
 | 16-24.631 | ✅ Présent | Préjudice corporel |
-| 17-26.282 | ✅ Présent | Réserve d'aggravation |
+| 17-26.282 | ❌ INVALIDE | Numéro inexistant. Remplacé par 92-13.880, 01-02.274, 22-18.089, 24-17.944 |
 | 18-17.868 | ✅ Présent | Incidence professionnelle |
 | 19-15.659 | ✅ Présent | Action directe contre l'assureur |
 | 19-23.173 | ✅ Présent | Incidence professionnelle |

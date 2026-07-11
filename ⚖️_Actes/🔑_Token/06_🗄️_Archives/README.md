@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../../README.md)
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › 06 🗄️ Archives
 <!-- /Breadcrumb -->
 
 ---
@@ -25,7 +25,8 @@ type: readme
 | **[📁 Dossier Presentation](📁 Dossier Presentation.md)** | Dossier de présentation destiné au conseil juridique |
 | **[🧠 STRATEGIE Contentieux Civil](🧠 STRATEGIE Contentieux Civil.md)** | Note de stratégie — volet civil |
 | **[🧠 STRATEGIE Contentieux Penal](🧠 STRATEGIE Contentieux Penal.md)** | Note de stratégie — volet pénal |
-
+| **[🏥 Fiche Reflexe 48h Victime](11%20Fiche%20Reflexe%2048h%20Victime.md)** | Guide d'urgence 48h pour victime d'accident corporel — démarches, preuves, droits à préserver, contacts utiles. |
+ 
 ### Analyses
 
 | Document | Contenu |

@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../../README.md)
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › 00 Preuves officielles › [📁 20260708 LR Relance ASSURANCE](./README.md) › 06 V2 ✉️ Relance Dirigeants - Réel
 <!-- /Breadcrumb -->
 
 ---
@@ -7,6 +7,7 @@ title: "RELANCE — DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPON
 description: "Mr Sébastien GRAZIDE"
 type: document
 ---
+statut: preuve
 
 # RELANCE — DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE
 

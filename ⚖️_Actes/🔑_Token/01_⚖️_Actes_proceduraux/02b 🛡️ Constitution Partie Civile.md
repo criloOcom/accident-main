@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../../README.md)
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 02b 🛡️ Constitution Partie Civile
 <!-- /Breadcrumb -->
 
 ---
@@ -13,7 +13,7 @@ tags:
   - penal
   - blessures involontaires
   - L.227-8
-statut: final
+statut: projet
 destinataire: Doyen des Juges d'Instruction
 auteur: La Victime
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/02b 🛡️ Constitution Partie Civile.md

@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../../README.md)
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 04_💰_Etudes_indemnisation (Versions Réelles)](./README.md) › 13 Note strategique FGTI CIVI
 <!-- /Breadcrumb -->
 
 ---

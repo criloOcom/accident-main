@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../README.md)
+[🏠](../README.md) › 📜 Lois
 <!-- /Breadcrumb -->
 
 ---
@@ -82,13 +82,14 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [Art. L.611-3](📒_Autres_codes/Article_L611-3_Code_Legifrance.md) — Procédure de sauvegarde
 - [Art. L.123-2](📒_Autres_codes/Article_L123-2_Code_Legifrance.md) — Immatriculation des sociétés
 
-## 🏛️ Jurisprudence (Cour de cassation) — 24 arrêts
+## 🏛️ Jurisprudence (Cour de cassation) — 26 arrêts
 
 Tous les arrêts sont disponibles dans le dossier [📜_Jurisprudence/](📜_Jurisprudence/)
 
 | N° pourvoi | Arrêt | Thème |
 |------------|-------|-------|
 | [00-82.066](📜_Jurisprudence/00-82.066_CourCassation.md) | **Ass. Plén., 25 février 2000** — Arrêt *Cousin* | Responsabilité du commettant |
+| [01-02.274](📜_Jurisprudence/01-02.274_CourCassation.md) | **Civ. 2e, 26 sept. 2002** | Transaction sous réserve d'aggravation — prescription |
 | [80-14.994](📜_Jurisprudence/80-14.994_CourCassation.md) | **Ass. Plén., 25 février 2000** — Arrêt *Gabillet* | Cumul responsabilités contractuelle/délictuelle |
 | [97-17.378](📜_Jurisprudence/97-17.378_CourCassation.md) | **Ass. Plén., 25 février 2000** — Arrêt *Costedoat* | Responsabilité personnelle du dirigeant |
 | [99-17.092](📜_Jurisprudence/99-17.092_CourCassation.md) | **Com., 20 mai 2003** | Responsabilité pour défaut d'assurance |
@@ -96,29 +97,37 @@ Tous les arrêts sont disponibles dans le dossier [📜_Jurisprudence/](📜_Jur
 | [13-80.849](📜_Jurisprudence/13-80.849_CourCassation.md) | **Crim., 27 mai 2014** | Mise en danger d'autrui |
 | [14-15.326](📜_Jurisprudence/14-15.326_CourCassation.md) | **Civ. 3e** | Obligation d'assurance du bailleur |
 | [16-24.631](📜_Jurisprudence/16-24.631_CourCassation.md) | **Civ. 2e** | Préjudice corporel |
-| [17-26.282](📜_Jurisprudence/17-26.282_CourCassation.md) | **Civ. 2e** | Réserve d'aggravation |
+
 | [18-17.868](📜_Jurisprudence/18-17.868_CourCassation.md) | **Civ. 2e** | Incidence professionnelle |
 | [19-15.659](📜_Jurisprudence/19-15.659_CourCassation.md) | **Civ. 2e, 14 mai 2020** | Action directe contre l'assureur |
 | [19-23.173](📜_Jurisprudence/19-23.173_CourCassation.md) | **Civ. 2e, 6 mai 2021** | Incidence professionnelle |
 | [20-15.106](📜_Jurisprudence/20-15.106_CourCassation.md) | **Civ. 2e, 8 juillet 2021** | Réserves d'aggravation, incidence professionnelle |
 | [20-16.463](📜_Jurisprudence/20-16.463_CourCassation.md) | **Civ. 1re, 8 décembre 2021** | Action directe, dissolution société |
 | [21-14.197](📜_Jurisprudence/21-14.197_CourCassation.md) | **Civ. 2e** | Préjudice corporel |
+| [22-18.089](📜_Jurisprudence/22-18.089_CourCassation.md) | **Civ. 2e, 21 mars 2024** | Autonomie action aggravation — prescription (publié Bulletin) |
 | [22-19.307](📜_Jurisprudence/22-19.307_CourCassation.md) | **Civ. 2e, 4 avril 2024** | Réserve d'aggravation |
 | [23-12.369](📜_Jurisprudence/23-12.369_CourCassation.md) | **Civ. 2e** | Évaluation préjudice |
+| [24-17.944](📜_Jurisprudence/24-17.944_CourCassation.md) | **Civ. 2e, 2 avril 2026** | Aggravation — force majeure gardien de la chose |
 | [70-12.124](📜_Jurisprudence/70-12.124_CourCassation.md) | **Civ. 2e, 23 fév. 1972** — Arrêt *Leroy* | Baignoire passive exposée à la vente |
 | [74-10.466](📜_Jurisprudence/74-10.466_CourCassation.md) | **Civ. 2e, 5 mai 1975** | Vice inhérent ≠ cause d'exonération |
 | [89-18.422](📜_Jurisprudence/89-18.422_CourCassation.md) | **Civ. 2e, 13 fév. 1991** | Échelle qui bascule = instrument du dommage |
 | [91-13.580](📜_Jurisprudence/91-13.580_CourCassation.md) | **Civ. 2e, 25 nov. 1992** | Chose inerte — position anormale à prouver |
 | [91-15.035](📜_Jurisprudence/91-15.035_CourCassation.md) | **Civ. 2e, 5 mai 1993** | Charge preuve instrument du dommage (chose inerte) |
+| [92-13.880](📜_Jurisprudence/92-13.880_CourCassation.md) | **Civ. 2e, 2 fév. 1994** | Transaction sous réserve d'aggravation — expertise |
 | [24-21.702](📜_Jurisprudence/24-21.702_CourCassation.md) | **Civ. 2e, 28 mai 2026** | Échelle instable — preuve position anormale insuffisante |
+
+## 🔧 Documents techniques
+
+- **[EXEMPLES_REQUETES_MCP](EXEMPLES_REQUETES_MCP.md)** — Exemples concrets de requêtes MCP Légifrance et Judilibre pour le projet.
+- **[RAPPORT_ORGANISATION_20260711](RAPPORT_ORGANISATION_20260711.md)** — Rapport d'organisation et d'audit de la bibliothèque juridique (11 juillet 2026).
 
 ## 📊 Statistiques (Juillet 2026)
 
-- **Total fichiers** : 54 fichiers juridiques
-- **Jurisprudence** : 24 arrêts (100% complet)
-- **Articles de loi** : 30 articles (66,7% complet)
-- **Nouveaux articles ajoutés** : 6 articles prioritaires
-- **Taux de complétude** : 78,3%
+- **Total fichiers** : 62 fichiers juridiques
+- **Jurisprudence** : 28 arrêts
+- **Articles de loi** : 34 articles (75,6% complet)
+- **Nouveaux articles ajoutés** : 10 articles prioritaires
+- **Taux de complétude** : 79,3%
 
 ## 📁 PDFs
 

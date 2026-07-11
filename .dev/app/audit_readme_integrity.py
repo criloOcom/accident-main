@@ -18,6 +18,7 @@ import json
 import os
 import re
 import sys
+from urllib.parse import unquote
 
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 
@@ -60,8 +61,31 @@ def load_content(path):
 
 
 def find_files_in_text(content):
-    """Extrait les noms de fichiers markdown référencés dans le README."""
-    return set(re.findall(r'\[([^\]]+\.md)\]', content))
+    """Analyse un README pour trouver les fichiers .md référencés.
+    
+    Retourne un tuple (bare_refs, url_refs) :
+      - bare_refs (set) : fichiers mentionnés via [fichier.md] ou **fichier.md**
+        → doivent exister dans le même dossier
+      - url_refs  (set) : fichiers mentionnés via [texte](chemin/fichier.md)
+        → doivent exister à l'endroit indiqué (relatif au README)
+    
+    Les regex évitent les sauts de ligne pour ne pas capturer du contenu
+   跨-ligne en cas de markdown mal formé.
+    """
+    bare = set()
+    urls = set()
+    # 1) URLs dans les liens markdown : [texte](fichier.md) ou **[texte](fichier.md)**
+    for m in re.finditer(r'\]\(([^)\n]+\.md)\)', content):
+        url = unquote(m.group(1))
+        urls.add(url)
+    # 2) Références nues : [fichier.md] — sur UNE SEULE ligne
+    for m in re.finditer(r'\[([^\]\n]+\.md)\]', content):
+        bare.add(m.group(1))
+    # 3) Gras simple : **fichier.md** — sur UNE SEULE ligne
+    for m in re.finditer(r'\*\*([^*\n]+\.md)\*\*', content):
+        bare.add(m.group(1))
+    bare.discard("README.md")
+    return bare, urls
 
 
 def actual_files_in_dir(readme_path):
@@ -96,6 +120,9 @@ def has_envoi_evidence(content):
 def check_statut_declared_sent(content, readme_path, results):
     """Parcourt les tableaux de statuts et vérifie les ✅ Envoyé sans preuve."""
     rel_dir = os.path.relpath(readme_path, BASE_DIR)
+    # 🚦_Status/README.md est un index de catégories, pas un tracker de documents
+    if rel_dir == os.path.join("🚦_Status", "README.md"):
+        return
     # cherche lignes avec "✅ Envoyé" ou "Envoyé" et vérifie si une preuve LRAR existe
     lines = content.split("\n")
     for i, line in enumerate(lines, 1):
@@ -138,7 +165,7 @@ def check_text_anomalies(content, readme_path, results):
                 "msg": f"Balise '[Adresse...]' non résolue (l. {i})"
             })
         # détection TODO résiduels (hors Memory/ qui contient des TODOs volontaires)
-        if re.search(r'\bTODO\b', line) and "TODOs volontaires" not in content:
+        if re.search(r'\bTODO\b', line) and "TODOs volontaires" not in content and not re.search(r'TODO\.md', line):
             results.append({
                 "severity": "warning",
                 "file": rel_dir,
@@ -150,17 +177,42 @@ def check_text_anomalies(content, readme_path, results):
 def check_alignment(readme_path, results):
     rel_dir = os.path.relpath(readme_path, BASE_DIR)
     content = load_content(readme_path)
-    declared = find_files_in_text(content)
+    bare, urls = find_files_in_text(content)
     actual = actual_files_in_dir(readme_path)
-    missing = declared - actual
-    for f in sorted(missing):
-        results.append({
-            "severity": "warning",
-            "file": rel_dir,
-            "msg": f"Fichier déclaré '{f}' introuvable dans {rel_dir}"
-        })
-    # fichiers réels non listés ?
-    extra = actual - declared - {"README.md"}
+    readme_dir = os.path.dirname(readme_path)
+
+    # ── 1) Vérifier les [fichier.md] / **fichier.md** (doivent être dans le même dossier)
+    for f in sorted(bare):
+        if f not in actual:
+            results.append({
+                "severity": "warning",
+                "file": rel_dir,
+                "msg": f"Fichier déclaré '{f}' introuvable dans {rel_dir}"
+            })
+
+    # ── 2) Vérifier les [texte](chemin/fichier.md) (résoudre le chemin relatif)
+    for url in sorted(urls):
+        # Ignorer les protocoles ou chemins absolus
+        if url.startswith(("file://", "http://", "https://", "/")):
+            continue
+        full_path = os.path.join(readme_dir, url)
+        if not os.path.isfile(full_path):
+            # Fallback : chercher le nom de base dans le dossier
+            bn = os.path.basename(url)
+            if bn not in actual:
+                results.append({
+                    "severity": "warning",
+                    "file": rel_dir,
+                    "msg": f"Fichier déclaré '{url}' introuvable"
+                })
+
+    # ── 3) Fichiers réels non listés ?
+    # Un fichier est considéré « listé » s'il apparaît dans bare, ou si son
+    # basename apparaît dans une URL
+    listed = bare.copy()
+    for url in urls:
+        listed.add(os.path.basename(url))
+    extra = actual - listed - {"README.md"}
     for f in sorted(extra):
         results.append({
             "severity": "warning",

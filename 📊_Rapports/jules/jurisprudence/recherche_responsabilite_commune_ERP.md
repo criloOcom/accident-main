@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../../README.md)
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › jules › [📁 jurisprudence](./README.md) › recherche responsabilite commune ERP
 <!-- /Breadcrumb -->
 
 ---

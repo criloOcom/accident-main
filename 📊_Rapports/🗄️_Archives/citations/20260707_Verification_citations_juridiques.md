@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../../README.md)
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 citations](./README.md) › 20260707 Verification citations juridiques
 <!-- /Breadcrumb -->
 
 ---

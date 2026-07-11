@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-[🏠](../../../README.md)
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 anonymisation](./README.md) › 20260707 Audit anonymisation
 <!-- /Breadcrumb -->
 
 ---
