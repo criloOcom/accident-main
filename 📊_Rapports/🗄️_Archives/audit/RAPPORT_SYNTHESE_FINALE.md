@@ -1,5 +1,15 @@
 # RAPPORT DE SYNTHÈSE GLOBALE — MISSION D'AUDIT FINAL
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_SYNTHESE_FINALE.md ](.RAPPORT_SYNTHESE_FINALE.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_SYNTHESE_FINALE.md ](.RAPPORT_SYNTHESE_FINALE.md)
+```
+
 ## 1. RÉSUMÉ DU DOSSIER
 
 **Faits :** Le 29 mai 2026, **[La Victime]** a subi un accident grave dans les locaux de **[L'Exploitant du Commerce (La SAS)]** (à **[La Ville de l'Accident]**). **[Le Préposé de l'Exploitation]** est monté sur la vasque d'un bac à shampoing pour régler une télévision, provoquant le basculement de l'équipement. En tentant de protéger le préposé, **[La Victime]** a heurté une cassure préexistante de la vasque, entraînant une section partielle du tendon fléchisseur, du paquet collatéral et du nerf palmaire de l'index droit. L'ITT a été fixée à 56 jours.

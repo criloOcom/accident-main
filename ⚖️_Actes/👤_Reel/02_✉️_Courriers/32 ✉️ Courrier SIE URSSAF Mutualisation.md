@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 32 ✉️ Courrier SIE URSSAF Mutualisation.md ](.32 ✉️ Courrier SIE URSSAF Mutualisation.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 32 ✉️ Courrier SIE URSSAF Mutualisation.md ](.32 ✉️ Courrier SIE URSSAF Mutualisation.md)
+```
+
 ---
 titre: Demande de Surveillance Fiscale et Sociale Urgente - Version réelle
 date: 2026-07-09
@@ -23,7 +31,6 @@ statut: projet
 source: local
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/32 ✉️ Courrier SIE URSSAF Mutualisation.md
-token_path: ../../🔑_Token/02_✉️_Courriers/32 ✉️ Courrier SIE URSSAF Mutualisation.md
 ---
 # DEMANDE DE MUTUALISATION FISCALE ET SOCIALE URGENTE
 

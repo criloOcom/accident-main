@@ -1,5 +1,15 @@
 # RÈGLES PERMANENTES — Dossier Accident de la Main
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ RULES.md ](.RULES.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ RULES.md ](.RULES.md)
+```
+
 ## 🛑 PROTOCOLE ANTI-HALLUCINATION STRICT (ZÉRO INVENTIONS)
 - **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet (`🧠_Memory/STRICT VARIABLES.md` ou `🧠_Memory/KNOWLEDGE_GRAPH.json`).
 - **LE DOUTE SYSTÉMATIQUE** : Si une information (statut de l'entreprise, décision, nom, date) n'est pas explicitement documentée, l'agent doit indiquer que la donnée est "inconnue en l'état" au lieu de l'extrapoler ou de la deviner.

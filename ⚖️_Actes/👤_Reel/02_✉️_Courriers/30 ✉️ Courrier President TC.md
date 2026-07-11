@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 30 ✉️ Courrier President TC.md ](.30 ✉️ Courrier President TC.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 30 ✉️ Courrier President TC.md ](.30 ✉️ Courrier President TC.md)
+```
+
 ---
 titre: Opposition conservatoire à radiation de la SAS - Version réelle
 date: 2026-07-09
@@ -17,7 +25,6 @@ tags:
 statut: final
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/30 ✉️ Courrier President TC.md
-token_path: ../../🔑_Token/02_✉️_Courriers/30 ✉️ Courrier President TC.md
 ---
 # OPPOSITION CONSERVATOIRE À RADIATION DE SOCIÉTÉ
 Nom Prénom de l'Avocat

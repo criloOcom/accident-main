@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 02b 🛡️ Constitution Partie Civile.md ](.02b 🛡️ Constitution Partie Civile.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 02b 🛡️ Constitution Partie Civile.md ](.02b 🛡️ Constitution Partie Civile.md)
+```
+
 ---
 titre: Constitution de Partie Civile — Blessures Involontaires
 date: 2026-07-06

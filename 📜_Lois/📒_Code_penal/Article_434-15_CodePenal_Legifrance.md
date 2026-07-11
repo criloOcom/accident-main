@@ -1,13 +1,3 @@
----
-title: Article 434-15 du Code pénal
-code: Code Penal
-article: 434
-date: 2026-07-10
-source: Légifrance
-status: En vigueur
-url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417900
----
-
 ```
 🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..README.md) > 📁 [ 📒_Code_penal ](.README.md) > 📄 [ Article_434-15_CodePenal_Legifrance.md ](.Article_434-15_CodePenal_Legifrance.md)
 ```

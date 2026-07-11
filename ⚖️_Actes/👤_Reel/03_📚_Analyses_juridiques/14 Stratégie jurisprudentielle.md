@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 14 Stratégie jurisprudentielle.md ](.14 Stratégie jurisprudentielle.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 14 Stratégie jurisprudentielle.md ](.14 Stratégie jurisprudentielle.md)
+```
+
 ---
 titre: Stratégie jurisprudentielle — Basculement vasque salon de coiffure - Version réelle
 date: 2026-07-07
@@ -16,7 +24,6 @@ statut: final
 source: local
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/14 Stratégie jurisprudentielle.md
-token_path: ../../🔑_Token/03_📚_Analyses_juridiques/14 Stratégie jurisprudentielle.md
 ---
 # STRATÉGIE JURISPRUDENTIELLE — BASCULEMENT VASQUE SALON DE COIFFURE
 

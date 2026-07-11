@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 12 📁 Dossier Plaidoirie.md ](.12 📁 Dossier Plaidoirie.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 12 📁 Dossier Plaidoirie.md ](.12 📁 Dossier Plaidoirie.md)
+```
+
 ---
 titre: Dossier de Plaidoirie - Audience de Référé - Version réelle
 date: 2026-07-28
@@ -18,7 +26,6 @@ tags:
 statut: final
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/12 📁 Dossier Plaidoirie.md
-token_path: ../../🔑_Token/03_📚_Analyses_juridiques/12 📁 Dossier Plaidoirie.md
 ---
 # **DOSSIER DE PLAIDOIRIE POUR L'AUDIENCE DE RÉFÉRÉ DU 31 JUILLET 2026**
 <hr><hr>

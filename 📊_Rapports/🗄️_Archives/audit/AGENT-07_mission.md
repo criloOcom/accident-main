@@ -1,5 +1,15 @@
 # RAPPORT D'AUDIT SUR LA RESPONSABILITÉ CIVILE ET PÉNALE DES DIRIGEANTS DE LA SAS
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AGENT-07_mission.md ](.AGENT-07_mission.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AGENT-07_mission.md ](.AGENT-07_mission.md)
+```
+
 **Date de l'audit** : 6 Juillet 2026
 **Auteur** : Agent 7 — Dirigeants de la SAS
 **Objet** : Analyse de la responsabilité personnelle civile et pénale de **[Le Président de l'Exploitation]** (Président) et de **[La Directrice Générale de l'Exploitation]** (Directrice Générale), dirigeants de la SAS **[L'Exploitant du Commerce (La SAS)]**, au regard des pièces du dossier (INPI/INSEE, URSSAF, PV de police) et de la jurisprudence (SATI, Costedoat, Cousin).

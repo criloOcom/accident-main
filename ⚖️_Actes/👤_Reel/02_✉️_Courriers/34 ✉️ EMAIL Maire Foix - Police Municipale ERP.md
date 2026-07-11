@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md ](.34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md ](.34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md)
+```
+
 ---
 titre: Email définitif à l'Adjoint au Maire de Foix — Éléments d'actualisation sur le dossier ERP - Version réelle
 date: 2026-07-10
@@ -7,7 +15,6 @@ auteur: La Victime
 destinataire: Adjoint au Maire de Foix (Monsieur TAVELLA)
 statut: brouillon
 reel_path: ../../👤_Reel/02_✉️_Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md
-token_path: ../../🔑_Token/02_✉️_Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md
 ---
 # EMAIL — Éléments d'actualisation sur le dossier ERP (22 Rue Lafaurie, 09000 Foix)
 

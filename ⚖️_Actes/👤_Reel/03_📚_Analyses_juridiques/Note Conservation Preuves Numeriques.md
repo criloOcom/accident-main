@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ Note Conservation Preuves Numeriques.md ](.Note Conservation Preuves Numeriques.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ Note Conservation Preuves Numeriques.md ](.Note Conservation Preuves Numeriques.md)
+```
+
 ---
 titre: Note Conservation Preuves Numeriques - Version réelle
 date: 2026-07-09
@@ -15,7 +23,6 @@ tags:
 statut: final
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/Note Conservation Preuves Numeriques.md
-token_path: ../../🔑_Token/03_📚_Analyses_juridiques/Note Conservation Preuves Numeriques.md
 ---
 # NOTE SUR LA CONSERVATION DES PREUVES EXTÉRIEURES ET NUMÉRIQUES
 

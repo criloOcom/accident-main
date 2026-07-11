@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 10 🗂️ Plan action.md ](.10 🗂️ Plan action.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 10 🗂️ Plan action.md ](.10 🗂️ Plan action.md)
+```
+
 ---
 titre: Plan d'Action et Chronologie de la Procédure - Version réelle
 date: 2026-06-30
@@ -19,7 +27,6 @@ source: drive
 drive_id: 153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/05_🗂️_Organisation/10 🗂️ Plan action.md
-token_path: ../../🔑_Token/05_🗂️_Organisation/10 🗂️ Plan action.md
 ---
 # PLAN D'ACTION ET CHRONOLOGIE DE LA PROCÉDURE
 Rédigé le 30 juin 2026

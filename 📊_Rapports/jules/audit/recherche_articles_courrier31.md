@@ -1,5 +1,15 @@
 # Rapport de Recherche — Articles L.123-5-1 et R.123-143 du Code de commerce
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ recherche_articles_courrier31.md ](.recherche_articles_courrier31.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ recherche_articles_courrier31.md ](.recherche_articles_courrier31.md)
+```
+
 **Mission :** Vérification des articles cités dans le Courrier 31 (Opposition INPI)
 **Date :** 10/07/2026
 **Auteur :** Agent de recherche juridique

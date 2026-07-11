@@ -1,5 +1,15 @@
 # Audit de Tokenisation Résiduelle (RGPD)
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_tokenisation_residuelle.md ](.audit_tokenisation_residuelle.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_tokenisation_residuelle.md ](.audit_tokenisation_residuelle.md)
+```
+
 | Fichier | Ligne | Type | Donnée Trouvée | Statut |
 |---------|-------|------|----------------|--------|
 | `⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md` | 50 | Date Naissance | 18 janvier 1982 | 🔴 Non tokenisé |

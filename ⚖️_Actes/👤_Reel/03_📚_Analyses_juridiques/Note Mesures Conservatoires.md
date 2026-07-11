@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ Note Mesures Conservatoires.md ](.Note Mesures Conservatoires.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ Note Mesures Conservatoires.md ](.Note Mesures Conservatoires.md)
+```
+
 ---
 titre: Note Mesures Conservatoires - Version réelle
 date: 2026-07-09
@@ -15,7 +23,6 @@ tags:
 statut: final
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/Note Mesures Conservatoires.md
-token_path: ../../🔑_Token/03_📚_Analyses_juridiques/Note Mesures Conservatoires.md
 ---
 # NOTE JURIDIQUE : MESURES CONSERVATOIRES AVANT DISPARITION
 

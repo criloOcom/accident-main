@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ STATS_DOSSIER.md ](.STATS_DOSSIER.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ STATS_DOSSIER.md ](.STATS_DOSSIER.md)
+```
+
 ---
 format: Arial JUSTIFIED
 ---

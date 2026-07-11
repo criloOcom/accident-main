@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 15 Note Droit Assurances.md ](.15 Note Droit Assurances.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 15 Note Droit Assurances.md ](.15 Note Droit Assurances.md)
+```
+
 ---
 titre: Note d'Analyse Juridique - Droit des Assurances - Version réelle
 date: 2026-07-08
@@ -19,7 +27,6 @@ statut: final
 source: local
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/15 Note Droit Assurances.md
-token_path: ../../🔑_Token/03_📚_Analyses_juridiques/15 Note Droit Assurances.md
 ---
 # NOTE D'ANALYSE JURIDIQUE SPÉCIALE - DROIT DES ASSURANCES
 

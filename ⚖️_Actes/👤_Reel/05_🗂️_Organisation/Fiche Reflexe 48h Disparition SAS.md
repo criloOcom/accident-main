@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ Fiche Reflexe 48h Disparition SAS.md ](.Fiche Reflexe 48h Disparition SAS.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ Fiche Reflexe 48h Disparition SAS.md ](.Fiche Reflexe 48h Disparition SAS.md)
+```
+
 ---
 titre: Fiche Réflexe 48h - Disparition SAS - Version réelle
 date: 2026-07-09
@@ -16,7 +24,6 @@ tags:
 statut: brouillon
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/05_🗂️_Organisation/Fiche Reflexe 48h Disparition SAS.md
-token_path: ../../🔑_Token/05_🗂️_Organisation/Fiche Reflexe 48h Disparition SAS.md
 ---
 # FICHE RÉFLEXE 48H : DISPARITION DE LA SAS
 

@@ -1,5 +1,15 @@
 # RAPPORT D'AUDIT — Repository GitHub
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_GITHUB.md ](.RAPPORT_AUDIT_GITHUB.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_GITHUB.md ](.RAPPORT_AUDIT_GITHUB.md)
+```
+
 **Projet** : accident-main · **Remote** : `github.com/criloOcom/accident-main.git`
 **Date** : 10 juillet 2026 · **Auditeur** : Agent opencode
 

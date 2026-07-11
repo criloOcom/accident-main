@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 15 ✉️ Courrier SIE.md ](.15 ✉️ Courrier SIE.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 15 ✉️ Courrier SIE.md ](.15 ✉️ Courrier SIE.md)
+```
+
 ---
 titre: Information de Litige au Service des Impots des Entreprises - Version réelle
 date: 2026-07-05
@@ -19,7 +27,6 @@ source: drive
 drive_id: 1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/02_✉️_Courriers/15 ✉️ Courrier SIE.md
-token_path: ../../🔑_Token/02_✉️_Courriers/15 ✉️ Courrier SIE.md
 ---
 # INFORMATION DE LITIGE AU SERVICE DES IMPOTS DES ENTREPRISES
 Sébastien GRAZIDE

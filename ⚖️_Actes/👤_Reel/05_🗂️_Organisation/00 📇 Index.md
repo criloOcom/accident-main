@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 00 📇 Index.md ](.00 📇 Index.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 00 📇 Index.md ](.00 📇 Index.md)
+```
+
 ---
 titre: Index de l'État Final du Dossier - Version réelle
 date: 2026-07-07
@@ -22,7 +30,6 @@ source: drive
 drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/05_🗂️_Organisation/00 📇 Index.md
-token_path: ../../🔑_Token/05_🗂️_Organisation/00 📇 Index.md
 ---
 # INDEX DU DOSSIER **[LA VICTIME]**
 Rédigé le 30 juin 2026 — Mis à jour le **[J+38 Mise à jour]** (unification bordereau 43 pièces)

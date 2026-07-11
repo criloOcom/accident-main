@@ -1,5 +1,3 @@
-🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Code_civil](README.md) > 📄 [Article_2226_Code_Legifrance.md](Article_2226_Code_Legifrance.md)
-
 ---
 title: Article 2226
 code: Code Civil
@@ -7,11 +5,23 @@ article: 2226
 date: 2026-07-10
 source: Légifrance
 status: En vigueur
-url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006437800
 ---
 
 # Article 2226
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_2226_Code_Legifrance.md ](.Article_2226_Code_Legifrance.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_2226_Code_Legifrance.md ](.Article_2226_Code_Legifrance.md)
+```
+
+> **Nature** : Code
+
+---
 
 Code civil
 EN VIGUEUR DEPUIS LE 19/06/2008

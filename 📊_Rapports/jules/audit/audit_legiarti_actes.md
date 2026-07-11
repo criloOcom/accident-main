@@ -1,5 +1,15 @@
 # Audit des LEGIARTI — Actes de procédure (01-17)
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_legiarti_actes.md ](.audit_legiarti_actes.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_legiarti_actes.md ](.audit_legiarti_actes.md)
+```
+
 **Mission : M5 — Auditeur juridique**
 **Date : 10/07/2026**
 **Source :** `⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/`

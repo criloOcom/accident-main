@@ -1,5 +1,3 @@
-🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Autres_codes](README.md) > 📄 [Article_L421-3_Codeconsommation_Legifrance.md](Article_L421-3_Codeconsommation_Legifrance.md)
-
 ---
 title: Article L421-3
 code: Autres Codes
@@ -7,11 +5,23 @@ article: L421
 date: 2026-07-10
 source: Légifrance
 status: En vigueur
-url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006440000
 ---
 
 # Article L421-3
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L421-3_Codeconsommation_Legifrance.md ](.Article_L421-3_Codeconsommation_Legifrance.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L421-3_Codeconsommation_Legifrance.md ](.Article_L421-3_Codeconsommation_Legifrance.md)
+```
+
+> **Nature** : Code
+
+---
 
 Code de la consommation
 EN VIGUEUR DEPUIS LE 13/12/2024

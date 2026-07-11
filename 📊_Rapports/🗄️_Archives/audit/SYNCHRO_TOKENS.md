@@ -1,5 +1,15 @@
 # SYNCHRONISATION TOKEN MAP ↔ BATCH_ANONYMIZE.PY
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ SYNCHRO_TOKENS.md ](.SYNCHRO_TOKENS.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ SYNCHRO_TOKENS.md ](.SYNCHRO_TOKENS.md)
+```
+
 ## Méthodologie
 
 Une analyse programmatique a été effectuée pour comparer les tokens utilisés dans `app/batch_anonymize.py` avec ceux documentés dans `🧠_Memory/TOKEN MAP.md`.

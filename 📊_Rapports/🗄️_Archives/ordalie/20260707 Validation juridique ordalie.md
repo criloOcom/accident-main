@@ -1,5 +1,15 @@
 # Validation juridique ordalie — 7 juillet 2026
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ ordalie ](../README.md) > 📄 [ 20260707 Validation juridique ordalie.md ](.20260707 Validation juridique ordalie.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ ordalie ](../README.md) > 📄 [ 20260707 Validation juridique ordalie.md ](.20260707 Validation juridique ordalie.md)
+```
+
 > Validation externe par l'IA juridique ordalie.com de la stratégie jurisprudentielle accident-main.
 
 ---

@@ -1,5 +1,3 @@
-🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Autres_codes](README.md) > 📄 [Article_R143-2_Codeconstructionhabitation_Legifrance.md](Article_R143-2_Codeconstructionhabitation_Legifrance.md)
-
 ---
 title: Articles R. 143-2 et suivants CCH
 code: Autres Codes
@@ -7,11 +5,23 @@ article: R143
 date: 2026-07-10
 source: Légifrance
 status: En vigueur
-url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006440100
 ---
 
 # Articles R. 143-2 et suivants CCH
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_R143-2_Codeconstructionhabitation_Legifrance.md ](.Article_R143-2_Codeconstructionhabitation_Legifrance.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_R143-2_Codeconstructionhabitation_Legifrance.md ](.Article_R143-2_Codeconstructionhabitation_Legifrance.md)
+```
+
+> **Nature** : Code
+
+---
 
 Code de la construction et de l'habitation
 EN VIGUEUR DEPUIS LE 01/07/2021

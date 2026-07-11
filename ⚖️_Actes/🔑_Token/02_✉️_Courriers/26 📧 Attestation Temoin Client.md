@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 26 📧 Attestation Temoin Client.md ](.26 📧 Attestation Temoin Client.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 26 📧 Attestation Temoin Client.md ](.26 📧 Attestation Temoin Client.md)
+```
+
 ---
 titre: Email Transmission Attestation Témoin Client
 date: 2026-07-06

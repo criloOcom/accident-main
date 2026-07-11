@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 12 📁 Dossier Plaidoirie.md ](.12 📁 Dossier Plaidoirie.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 12 📁 Dossier Plaidoirie.md ](.12 📁 Dossier Plaidoirie.md)
+```
+
 ---
 titre: Dossier de Plaidoirie - Audience de Référé
 date: 2026-07-28

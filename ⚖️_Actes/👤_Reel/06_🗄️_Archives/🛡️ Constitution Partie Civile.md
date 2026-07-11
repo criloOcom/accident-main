@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🛡️ Constitution Partie Civile.md ](.🛡️ Constitution Partie Civile.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🛡️ Constitution Partie Civile.md ](.🛡️ Constitution Partie Civile.md)
+```
+
 ---
 titre: Constitution de Partie Civile - Version réelle
 date: 2026-06-30
@@ -17,7 +25,6 @@ source: drive
 drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/06_🗄️_Archives/🛡️ Constitution Partie Civile.md
-token_path: ../../🔑_Token/06_🗄️_Archives/🛡️ Constitution Partie Civile.md
 ---
 **Table des matières**
 

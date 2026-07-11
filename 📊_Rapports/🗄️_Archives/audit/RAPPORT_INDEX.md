@@ -1,4 +1,14 @@
 # RAPPORT DE VÉRIFICATION DE L'INDEX
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_INDEX.md ](.RAPPORT_INDEX.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_INDEX.md ](.RAPPORT_INDEX.md)
+```
 Date de vérification : 2026-07-05
 
 ## 1. Fichiers manquants dans l'Index (Présents sur disque mais absents de l'index)

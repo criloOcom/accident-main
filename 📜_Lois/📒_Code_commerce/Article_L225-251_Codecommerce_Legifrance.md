@@ -1,0 +1,39 @@
+---
+title: Article L. 225-251
+code: Code Commerce
+article: L225
+date: 2026-07-10
+source: Légifrance
+status: En vigueur
+---
+
+# Article L. 225-251
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L225-251_Codecommerce_Legifrance.md ](.Article_L225-251_Codecommerce_Legifrance.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L225-251_Codecommerce_Legifrance.md ](.Article_L225-251_Codecommerce_Legifrance.md)
+```
+
+> **Nature** : Code
+
+---
+
+Code de commerce
+EN VIGUEUR DEPUIS LE 16/05/2001
+
+Article L225-251
+VERSION EN VIGUEUR DEPUIS LE 16/05/2001
+
+Modifié par Loi n°2001-420 du 15 mai 2001 - art. 107
+Les administrateurs et le directeur général sont responsables individuellement ou solidairement
+selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives
+ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des
+fautes commises dans leur gestion.
+Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux
+mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du
+dommage.

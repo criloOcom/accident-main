@@ -1,18 +1,21 @@
-# 📒 Code Pénal
+# 📒_Code_penal
 
-Ce dossier contient les articles du Code pénal français cités dans les actes du dossier.
+```
+🏠 > [📁 accident-main](../README.md) > [📁 crilocom](../README.md) > [📁 home](../README.md) > [📁 ](../README.md) > [📄 README.md](./README.md)
+```
 
-## 📜 Articles disponibles
+---
 
-### Responsabilité pénale générale
-- [Article 121-1 à 121-7](Article_121-1a121-7_CodePenal_Legifrance.md) - Principes généraux de responsabilité pénale
-- [Article 121-3](Article_121-3_Code_Legifrance.md) - Responsabilité des personnes morales
+**Dossier contenant les articles de loi relatifs à 📒_Code_penal.**
 
-### Infraction de blessures involontaires
-- [Article 222-19](Article_222-19_CodePenal_Legifrance.md) - Blessures involontaires ayant entraîné une ITT
-- [Article 222-20](Article222-20_CodePenal_LegiFrance.md) - Violences ayant entraîné une ITT supérieure à 3 mois
+## Liste des articles
 
-## 🔗 Navigation
+- [222](Article_222-19_CodePenal_Legifrance.md)
+- [314](Article_314-7_CodePenal_Legifrance.md)
+- [434](Article_434-15-1_CodePenal_Legifrance.md)
+- [434](Article_434-15_CodePenal_Legifrance.md)
+- [434](Article_434-4_CodePenal_Legifrance.md)
 
-- [Retour à l'index](../📊_Index/README.md)
-- [Retour à 📜_Lois](../README.md)
+---
+
+> **Dernière mise à jour :** {datetime.now().strftime('%d %B %Y')}

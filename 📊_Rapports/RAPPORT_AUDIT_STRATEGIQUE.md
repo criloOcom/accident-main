@@ -1,5 +1,15 @@
 # RAPPORT D'AUDIT STRATÉGIQUE GLOBAL
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_STRATEGIQUE.md ](.RAPPORT_AUDIT_STRATEGIQUE.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_STRATEGIQUE.md ](.RAPPORT_AUDIT_STRATEGIQUE.md)
+```
+
 **Mission** : Audit critique de la stratégie globale du projet accident-main
 **Date** : 10 juillet 2026
 **Commanditaire** : La Victime (budget zéro, pas d'avocat)

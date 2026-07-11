@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🛡️ Constitution Partie Civile.md ](.🛡️ Constitution Partie Civile.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🛡️ Constitution Partie Civile.md ](.🛡️ Constitution Partie Civile.md)
+```
+
 ---
 titre: Constitution de Partie Civile
 date: 2026-06-30

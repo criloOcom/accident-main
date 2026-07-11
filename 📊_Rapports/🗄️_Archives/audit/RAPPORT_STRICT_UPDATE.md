@@ -1,5 +1,15 @@
 # Rapport de mise à jour de STRICT VARIABLES.md post-audits
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_STRICT_UPDATE.md ](.RAPPORT_STRICT_UPDATE.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_STRICT_UPDATE.md ](.RAPPORT_STRICT_UPDATE.md)
+```
+
 Ce document consigne l'ensemble des corrections appliquées au fichier `🧠_Memory/STRICT VARIABLES.md` suite aux 7 audits de conformité, garantissant qu'aucune valeur n'a été modifiée sans source vérifiable.
 
 ## 1. Modifications liées à l'anonymisation

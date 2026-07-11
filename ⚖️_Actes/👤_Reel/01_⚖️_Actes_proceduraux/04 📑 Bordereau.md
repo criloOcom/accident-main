@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 04 📑 Bordereau.md ](.04 📑 Bordereau.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 04 📑 Bordereau.md ](.04 📑 Bordereau.md)
+```
+
 ---
 titre: Bordereau de pièces (unifié) - Version réelle
 date: 2026-07-07
@@ -24,7 +32,6 @@ source: drive
 drive_id: ''
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/04 📑 Bordereau.md
-token_path: ../../🔑_Token/01_⚖️_Actes_proceduraux/04 📑 Bordereau.md
 ---
 # BORDEREAU DE PIÈCES
 | Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : Sébastien GRAZIDE | Défendeur : SAS LES MAUVAIS GARCONS |

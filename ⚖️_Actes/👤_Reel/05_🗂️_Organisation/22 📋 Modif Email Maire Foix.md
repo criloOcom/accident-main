@@ -1,7 +1,14 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 22 📋 Modif Email Maire Foix.md ](.22 📋 Modif Email Maire Foix.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 22 📋 Modif Email Maire Foix.md ](.22 📋 Modif Email Maire Foix.md)
+```
+
 ---
 reel_path: ../../👤_Reel/05_🗂️_Organisation/22 📋 Modif Email Maire Foix.md
 statut: brouillon
-token_path: ../../🔑_Token/05_🗂️_Organisation/22 📋 Modif Email Maire Foix.md
 ---
 # Plan : Ajustement du courriel à l'Adjoint au Maire (Police Municipale et ERP)
 

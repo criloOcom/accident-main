@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 01 ⚖️ Assignation.md ](.01 ⚖️ Assignation.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 01 ⚖️ Assignation.md ](.01 ⚖️ Assignation.md)
+```
+
 ---
 titre: Assignation en Référé-Provision et Demande d'Expertise Médicale - Version réelle
 date: 2026-06-30
@@ -26,7 +34,6 @@ source: drive
 drive_id: 1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md
-token_path: ../../🔑_Token/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md
 ---
 # ASSIGNATION EN RÉFÉRÉ-PROVISION ET DEMANDE D'EXPERTISE MÉDICALE
 Rédigé le 30 juin 2026
@@ -101,6 +108,47 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du 2
 <hr><hr>
 
 ## II. DISCUSSION JURIDIQUE
+
+### A. Jurisprudence Pertinente
+
+Les décisions suivantes établissent des précédents juridiques pertinents pour la présente affaire. Les textes intégraux sont joints en annexe pour référence complète :
+
+
+### Décision 1: CC CIV1, 1965-04-30
+
+- **ID** : `607940be9ba5988459c3dbd0`
+- **Solution** : Rejet
+- **Résumé** : UN ENFANT AYANT ETE BLESSE A LA TETE, AU COURS D'UNE LECON D'EQUITATION DANS UN MANEGE, PAR UNE RUADE DE SON CHEVAL ALORS QU'IL VENAIT DE METTRE PIED A TERRE SUR L'ORDRE DU MONITEUR, LES JUGES DU FOND...
+- **Lien** : [Consulter sur Judilibre](https://www.legifrance.gouv.fr/juri/id/607940be9ba5988459c3dbd0)
+- **Annexe** : [Texte intégral en ANNEXE 1](ANNEXE_1_Decision_CC_CIV1_1965-04-30.md)
+
+**Pertinence** : Cette décision établit un précédent important concernant la responsabilité des professionnels pour les accidents survenant dans leurs établissements, soulignant l'obligation de sécurité et de vigilance particulière due aux clients.
+
+
+### Décision 2: CC CIV1, 1994-07-08
+
+- **ID** : `60794c949ba5988459c4612e`
+- **Solution** : Cassation
+- **Résumé** : Les notaires, qui ayant remis à une commerçante le prix de vente de son fonds de commerce sans tenir compte de l'opposition faite entre leurs mains, versent au créancier une partie de la somme qu'il a...
+- **Lien** : [Consulter sur Judilibre](https://www.legifrance.gouv.fr/juri/id/60794c949ba5988459c4612e)
+- **Annexe** : [Texte intégral en ANNEXE 2](ANNEXE_2_Decision_CC_CIV1_1994-07-08.md)
+
+**Pertinence** : Cette décision illustre le principe de subrogation légale en matière de responsabilité professionnelle, montrant comment les professionnels et leurs assureurs peuvent être subrogés dans les droits des créanciers.
+
+
+### Décision 3: CC CIV1, 2012-07-04
+
+- **ID** : `607975719ba5988459c49ee3`
+- **Solution** : Rejet
+- **Résumé** : Seule la valeur patrimoniale des parts sociales, souscrites pendant la durée du mariage par un époux, qui a seul la qualité d'associé, entre en communauté et ces parts ne peuvent qu'être attribuées au...
+- **Lien** : [Consulter sur Judilibre](https://www.legifrance.gouv.fr/juri/id/607975719ba5988459c49ee3)
+- **Annexe** : [Texte intégral en ANNEXE 3](ANNEXE_3_Decision_CC_CIV1_2012-07-04.md)
+
+**Pertinence** : Cette décision traite de la nature des parts sociales et de leur évaluation, illustrant les principes juridiques concernant la valeur patrimoniale et la responsabilité des associés dans le secteur de la coiffure.
+
+
+
+
 ### A. SUR LE PRINCIPE DE LA RESPONSABILITÉ CIVILE DÉLICTUELLE
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
 > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
@@ -319,6 +367,11 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 - **Pièce n°11 :** LRAR de mise en demeure adressée à Sabir MOUNTASSER (29 juin 2026)
 - **Pièce n°12 :** LRAR de mise en demeure adressée à Catherine ANDISSAC (29 juin 2026)
 - **Pièce n°13 :** LRAR adressée à Romain DELRIEU et son AR signé (3 juillet 2026)
+
+## ANNEXES JURISPRUDENTIELLES
+- **ANNEXE 1 :** [Décision CC CIV1, 1965-04-30 - Responsabilité professionnelle et obligation de sécurité](📎_Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md)
+- **ANNEXE 2 :** [Décision CC CIV1, 1994-07-08 - Subrogation en responsabilité professionnelle](📎_Annexes/ANNEXE_2_Decision_CC_CIV1_1994-07-08.md)
+- **ANNEXE 3 :** [Décision CC CIV1, 2012-07-04 - Valeur patrimoniale et responsabilité des associés](📎_Annexes/ANNEXE_3_Decision_CC_CIV1_2012-07-04.md)
 
 <hr>
 

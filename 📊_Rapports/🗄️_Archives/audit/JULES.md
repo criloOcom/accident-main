@@ -1,5 +1,15 @@
 # JULES — Guide pour l'agent Google Jules
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ JULES.md ](.JULES.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ JULES.md ](.JULES.md)
+```
+
 Ce fichier documente tout ce que Jules (Google Jules) doit savoir pour travailler sur ce projet.
 
 ## Structure du projet

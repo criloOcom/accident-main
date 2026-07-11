@@ -1,3 +1,11 @@
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 11 📅 Calendrier procedural.md ](.11 📅 Calendrier procedural.md)
+```
+
+```
+🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 11 📅 Calendrier procedural.md ](.11 📅 Calendrier procedural.md)
+```
+
 ---
 titre: 11 Calendrier procedural - V1 - Version réelle
 date: '2026-06-30'
@@ -15,7 +23,6 @@ source: drive
 drive_id: ''
 format: Arial JUSTIFIED
 reel_path: ../../👤_Reel/05_🗂️_Organisation/11 📅 Calendrier procedural.md
-token_path: ../../🔑_Token/05_🗂️_Organisation/11 📅 Calendrier procedural.md
 ---
 # 11 - CALENDRIER PROCÉDURAL
 ## I. ÉVÉNEMENTS PASSÉS

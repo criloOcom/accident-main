@@ -1,5 +1,15 @@
 # RAPPORT D'AUDIT — Travail opencode sur accident-main
 
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_AUDIT_OPENCODE.md ](.RAPPORT_AUDIT_OPENCODE.md)
+```
+
+
+```
+🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_AUDIT_OPENCODE.md ](.RAPPORT_AUDIT_OPENCODE.md)
+```
+
 > Date : 05/07/2026
 > Auditeur : Jules
 
