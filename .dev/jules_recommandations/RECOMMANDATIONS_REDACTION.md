@@ -8,6 +8,9 @@ type: readme
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › [📁 jules_recommandations](./README.md) › RECOMMANDATIONS REDACTION
 <!-- /Breadcrumb -->

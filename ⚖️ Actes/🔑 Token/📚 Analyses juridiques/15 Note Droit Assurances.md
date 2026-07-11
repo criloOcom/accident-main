@@ -18,8 +18,11 @@ source: local
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 15 Note Droit Assurances
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 15 Note Droit Assurances
 <!-- /Breadcrumb -->
 
 # NOTE D'ANALYSE JURIDIQUE SPÉCIALE - DROIT DES ASSURANCES

@@ -8,6 +8,9 @@ type: rapport
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️ Archives](../README.md) › [📁 expertise](./README.md) › 20260707 Mémoire juridique Glose
 <!-- /Breadcrumb -->

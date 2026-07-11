@@ -14,6 +14,9 @@ article: "223-1"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Autres codes](./README.md) › Article 223-1 Code Legifrance
 <!-- /Breadcrumb -->

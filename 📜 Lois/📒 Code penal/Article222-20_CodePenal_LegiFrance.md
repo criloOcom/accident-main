@@ -14,6 +14,9 @@ article: "222-20"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code penal](./README.md) › Article222-20 CodePenal LegiFrance
 <!-- /Breadcrumb -->

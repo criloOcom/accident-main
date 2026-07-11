@@ -10,8 +10,11 @@ reel_path: ../../👤 Reel/🗂️ Organisation/06 📋 Synthese des Actions et 
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › 06 📋 Synthese des Actions et Audits
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › 06 📋 Synthese des Actions et Audits
 <!-- /Breadcrumb -->
 
 # Note de Synthèse — Avancement des Audits & Recommandations

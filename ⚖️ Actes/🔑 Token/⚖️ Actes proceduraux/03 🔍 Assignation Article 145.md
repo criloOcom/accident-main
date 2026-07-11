@@ -21,8 +21,11 @@ drive_id: 1R26179ks7vLkzw0hYEHL888i0p1VS9ppa6s8R8kQ_gg
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 03 🔍 Assignation Article 145
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 03 🔍 Assignation Article 145
 <!-- /Breadcrumb -->
 
 # ASSIGNATION EN REFERE — COMMUNICATION DE POLICE D'ASSURANCE RC PROFESSIONNELLE
@@ -40,23 +43,18 @@ La presente assignation en refere est introduite par **[La Victime]** a l'encont
 
 Elle a pour objet d'obtenir, sous astreinte, la communication de la police d'assurance de responsabilite civile professionnelle souscrite par la societe defendereese, seule mesure permettant a la victime d'exercer son action directe contre l'assureur sur le fondement de l'Article L.124-3 du Code des assurances.
 
-<hr>
-
-- [I — EXPOSE DES FAITS](#i--expose-des-faits)
-- [II — DISCUSSION JURIDIQUE](#ii--discussion-juridique)
-  - [A. SUR LE MOTIF LEGITIME DE L'ARTICLE 145 CPC](#a-sur-le-motif-legitime-de-larticle-145-cpc)
-  - [B. SUR LE DROIT D'ACTION DIRECTE DE LA VICTIME (L.124-3)](#b-sur-le-droit-daction-directe-de-la-victime-l124-3)
-  - [C. SUR LE REFUS CARACTERISE ET L'ASTREINTE SOLLICITEE](#c-sur-le-refus-caracterise-et-lastreinte-sollicitee)
-- [PAR CES MOTIFS](#par-ces-motifs)
-
-<hr>
+<hr><hr>
 
 ## I — EXPOSE DES FAITS
 Le **[J+0 Accident]**, alors qu'il se trouvait au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]** en qualite de client, **[La Victime]** a ete victime d'un accident corporel grave.
 
-Alors que **[Le Prepose de l'Exploitation]** escaladait la vasque en ceramique du bac a shampoing pour acceder au poste de television, l'equipement a bascule. Par reflexe, **[La Victime]** a tendu la main droite pour proteger le prepose ; sa paume a heurte une cassure majeure preexistante non signalee aux aretes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit ayant necessite une microchirurgie d'urgence le **[J+1 Chirurgie]**.
+Alors que **[Le Prepose de l'Exploitation]** escaladait la vasque en ceramique du bac a shampoing pour acceder au poste de television, l'equipement a bascule.
 
-A la suite de cet accident, **[La Victime]** a vainement sollicite de **[L'Exploitant du Commerce (La SAS)]** la communication de l'identite de son assureur de responsabilite civile professionnelle. Ni la societe, ni son President **[Le President de l'Exploitation]**, ni sa Directrice Generale **[La Directrice Generale de l'Exploitation]** n'ont repondu aux courriers recommandes qui leur ont ete adresses le **[J+31 Mises en demeure]** **(Pièces n°10, n°11 et n°12)**.
+Par reflexe, **[La Victime]** a tendu la main droite pour proteger le prepose ; sa paume a heurte une cassure majeure preexistante non signalee aux aretes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit ayant necessite une microchirurgie d'urgence le **[J+1 Chirurgie]**.
+
+A la suite de cet accident, **[La Victime]** a vainement sollicite de **[L'Exploitant du Commerce (La SAS)]** la communication de l'identite de son assureur de responsabilite civile professionnelle.
+
+Ni la societe, ni son President **[Le President de l'Exploitation]**, ni sa Directrice Generale **[La Directrice Generale de l'Exploitation]** n'ont repondu aux courriers recommandes qui leur ont ete adresses le **[J+31 Mises en demeure]** **(Pièces n°10, n°11 et n°12)**.
 
 L'accuse de reception du courrier recommande adresse au proprietaire des murs, **[Le Proprietaire des Murs]**, a ete retourne signe le **[J+35 AR propriétaire]**, mais celui-ci n'a pas davantage communique l'information **(Pièce n°13)**.
 
@@ -97,8 +95,11 @@ Neanmoins, en pratique, l'exercice de ce droit suppose de connaitre l'identite d
 Les demandes amiables de **[La Victime]** sont restees lettres mortes :
 
 - LRAR du **[J+31 Mises en demeure]** a **[L'Exploitant du Commerce (La SAS)]** : aucun AR retourne
+
 - LRAR du **[J+31 Mises en demeure]** a **[Le President de l'Exploitation]** : aucun AR retourne
+
 - LRAR du **[J+31 Mises en demeure]** a **[La Directrice Generale de l'Exploitation]** : aucun AR retourne
+
 - LRAR du **[J+31 Mises en demeure]** a **[Le Proprietaire des Murs]** : AR retourne signe, mais sans reponse
 
 Ce silence delibere caracterise un refus de communiquer qui justifie que soit ordonnee la communication sous astreinte.
@@ -122,8 +123,11 @@ Vu les pièces versées aux débats,
 1. **ORDONNER** a la SAS **[L'Exploitant du Commerce (La SAS)]** de communiquer a **[La Victime]** l'integralite de sa police d'assurance de responsabilite civile professionnelle en vigueur au **[J+0 Accident]**, ou, a defaut, une attestation de l'assureur mentionnant :
 
    - La denomination et l'adresse de la compagnie d'assurance
+
    - Le numero de police
+
    - Les garanties souscrites et leurs plafonds
+
    - La validite du contrat a la date du sinistre
 
 2. **ASSORTIR** cette obligation d'une astreinte de **[Finance Astreinte 145]** par jour de retard a compter du 8eme jour suivant la signification de l'ordonnance a intervenir ;

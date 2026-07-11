@@ -1,5 +1,6 @@
 ---
 title: "Index — ⚖️ Actes proceduraux (Versions Réelles)"
+breadcrumb: "⚖️ Actes procéduraux"
 description: "- [01 ⚖️ Assignation.md](01%20%E2%9A%96%EF%B8%8F%20Assignation.md)"
 type: readme
 ---
@@ -8,8 +9,11 @@ type: readme
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › ⚖️ Actes proceduraux
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › ⚖️ Actes proceduraux
 <!-- /Breadcrumb -->
 
 # Index — ⚖️ Actes proceduraux (Versions Réelles)

@@ -19,8 +19,11 @@ drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 📚 Analyses juridiques (Versions Réelles)](./README.md) › 13 📜 Responsabilites legales
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses](./README.md) › 13 📜 Responsabilites legales
 <!-- /Breadcrumb -->
 
 # ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE **[L'EXPLOITANT DU COMMERCE (LA SAS)]**

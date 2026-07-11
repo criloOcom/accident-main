@@ -14,6 +14,9 @@ article: "L421-3"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Autres codes](./README.md) › Article L421-3 Codeconsommation Legifrance
 <!-- /Breadcrumb -->

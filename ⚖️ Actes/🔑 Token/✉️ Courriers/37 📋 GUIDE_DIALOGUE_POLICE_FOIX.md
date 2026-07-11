@@ -19,8 +19,11 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 37 📋 GUIDE DIALOGUE POLICE FOIX
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 37 📋 GUIDE DIALOGUE POLICE FOIX
 <!-- /Breadcrumb -->
 
 # GUIDE DE DIALOGUE — ÉCHANGES AVEC LA POLICE DE FOIX

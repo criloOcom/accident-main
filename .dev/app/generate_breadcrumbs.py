@@ -34,17 +34,31 @@ def link_for_ups(ups):
     return "../" * ups + "README.md"
 
 
-def read_title(readme_path):
+def read_yaml_field(readme_path, field):
+    """Lit un champ YAML dans le frontmatter. Retourne None si absent."""
     if not os.path.isfile(readme_path):
         return None
     try:
         txt = open(readme_path, encoding="utf-8").read()
     except Exception:
         return None
-    m = re.search(r'^---\s*\ntitle:\s*["\'](.*?)["\']', txt, re.MULTILINE)
+    m = re.search(r'^---\s*\n.*?^' + re.escape(field) + r':\s*(.+?)$', txt, re.MULTILINE | re.DOTALL)
     if m:
-        return m.group(1).strip()
+        return m.group(1).strip().strip('"').strip("'")
     return None
+
+
+def read_title(readme_path):
+    """Lit le titre d'un README depuis son YAML (champ 'title')."""
+    return read_yaml_field(readme_path, "title")
+
+
+def read_breadcrumb_label(readme_path):
+    """Lit le libellé court pour le fil d'Ariane (champ 'breadcrumb' ou 'title')."""
+    val = read_yaml_field(readme_path, "breadcrumb")
+    if val:
+        return val
+    return read_title(readme_path)
 
 
 def dir_label(dirname):
@@ -77,7 +91,7 @@ def build_breadcrumb(rel_md_path):
         rpath = os.path.join(ancestor_dir, "README.md")
         ups = N - k - 1
         if os.path.isfile(rpath):
-            title = read_title(rpath)
+            title = read_breadcrumb_label(rpath)
             label = title if title else dir_label(segs[k])
             levels.append((label, link_for_ups(ups)))
         else:
@@ -95,7 +109,7 @@ def build_breadcrumb(rel_md_path):
         else:
             cur_readme = os.path.join(d, "README.md")
             if os.path.isfile(cur_readme):
-                t = read_title(cur_readme)
+                t = read_breadcrumb_label(cur_readme)
                 levels.append((t if t else dir_label(segs[-1]), "./README.md"))
             else:
                 levels.append((dir_label(segs[-1]), None))

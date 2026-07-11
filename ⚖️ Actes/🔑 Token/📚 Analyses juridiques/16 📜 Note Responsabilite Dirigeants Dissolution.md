@@ -19,8 +19,11 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/16 📜 Note Responsabilite 
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 16 📜 Note Responsabilite Dirigeants Dissolution
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 16 📜 Note Responsabilite Dirigeants Dissolution
 <!-- /Breadcrumb -->
 
 # NOTE JURIDIQUE SUR LA RESPONSABILITÉ DES DIRIGEANTS EN CAS DE DISSOLUTION FRAUDULEUSE

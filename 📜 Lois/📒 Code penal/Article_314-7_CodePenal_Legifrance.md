@@ -14,6 +14,9 @@ article: "314-7"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code penal](./README.md) › Article 314-7 CodePenal Legifrance
 <!-- /Breadcrumb -->

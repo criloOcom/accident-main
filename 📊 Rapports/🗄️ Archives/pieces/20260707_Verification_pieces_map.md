@@ -8,6 +8,9 @@ type: rapport
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️ Archives](../README.md) › [📁 pieces](./README.md) › 20260707 Verification pieces map
 <!-- /Breadcrumb -->

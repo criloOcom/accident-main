@@ -19,8 +19,11 @@ drive_id: 1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 📚 Analyses juridiques (Versions Réelles)](./README.md) › 07 🎤 Plaidoirie dirigeants
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses](./README.md) › 07 🎤 Plaidoirie dirigeants
 <!-- /Breadcrumb -->
 
 # **MÉMORANDUM JURIDIQUE : RESPONSABILITÉ DES DIRIGEANTS ET RÉPARATION DES PRÉJUDICES**

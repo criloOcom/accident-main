@@ -18,8 +18,11 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/99 🛡️ Memoire en defens
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 📚 Analyses juridiques (Versions Réelles)](./README.md) › 99 🛡️ Memoire en defense adverse
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses](./README.md) › 99 🛡️ Memoire en defense adverse
 <!-- /Breadcrumb -->
 
 # MÉMOIRE EN DÉFENSE ADVERSE

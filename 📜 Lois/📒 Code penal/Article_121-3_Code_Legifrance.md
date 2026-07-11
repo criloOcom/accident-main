@@ -14,6 +14,9 @@ article: "121-3"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code penal](./README.md) › Article 121-3 Code Legifrance
 <!-- /Breadcrumb -->

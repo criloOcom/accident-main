@@ -12,8 +12,11 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/18 Note Audit RNE NPAI SAS.m
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 18 Note Audit RNE NPAI SAS
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 18 Note Audit RNE NPAI SAS
 <!-- /Breadcrumb -->
 
 # Analyse — Non-distribution LRAR et suspicion de structure miroir

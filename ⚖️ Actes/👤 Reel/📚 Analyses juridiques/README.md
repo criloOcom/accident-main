@@ -1,5 +1,6 @@
 ---
 title: "Index — 📚 Analyses juridiques (Versions Réelles)"
+breadcrumb: "📚 Analyses"
 description: "- [07 🎤 Plaidoirie dirigeants.md](07%20%F0%9F%8E%A4%20Plaidoirie%20dirigeants.md)"
 type: readme
 ---
@@ -8,8 +9,11 @@ type: readme
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › 📚 Analyses juridiques
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › 📚 Analyses juridiques
 <!-- /Breadcrumb -->
 
 # Index — 📚 Analyses juridiques (Versions Réelles)

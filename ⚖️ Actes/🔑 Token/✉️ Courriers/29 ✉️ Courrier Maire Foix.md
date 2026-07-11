@@ -17,8 +17,11 @@ reel_path: ../../👤 Reel/✉️ Courriers/29 ✉️ Courrier Maire Foix.md
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 29 ✉️ Courrier Maire Foix
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 29 ✉️ Courrier Maire Foix
 <!-- /Breadcrumb -->
 
 # LETTRE RECOMMANDÉE AVEC ACCUSÉ DE RÉCEPTION

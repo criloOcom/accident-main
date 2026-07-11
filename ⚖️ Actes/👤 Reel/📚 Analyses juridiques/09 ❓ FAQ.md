@@ -19,8 +19,11 @@ drive_id: 1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 📚 Analyses juridiques (Versions Réelles)](./README.md) › 09 ❓ FAQ
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses](./README.md) › 09 ❓ FAQ
 <!-- /Breadcrumb -->
 
 # SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE **[LA VICTIME]** C/ **[L'EXPLOITANT DU COMMERCE (LA SAS)]**

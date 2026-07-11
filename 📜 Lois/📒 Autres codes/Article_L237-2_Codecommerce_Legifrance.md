@@ -14,6 +14,9 @@ article: "L237-2"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Autres codes](./README.md) › Article L237-2 Codecommerce Legifrance
 <!-- /Breadcrumb -->

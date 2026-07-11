@@ -8,6 +8,9 @@ type: memory
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › NOTE SYNTHESE AVOCAT
 <!-- /Breadcrumb -->

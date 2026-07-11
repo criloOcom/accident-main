@@ -14,6 +14,9 @@ article: "L227-8"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code commerce](./README.md) › Article L227-8 Codecommerce Legifrance
 <!-- /Breadcrumb -->

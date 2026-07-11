@@ -18,8 +18,11 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/12 📁 Dossier Plaidoirie.m
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 📚 Analyses juridiques (Versions Réelles)](./README.md) › 12 📁 Dossier Plaidoirie
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses](./README.md) › 12 📁 Dossier Plaidoirie
 <!-- /Breadcrumb -->
 
 # **DOSSIER DE PLAIDOIRIE POUR L'AUDIENCE DE RÉFÉRÉ DU 31 JUILLET 2026**

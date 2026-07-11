@@ -14,6 +14,9 @@ article: "2226"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code civil](./README.md) › Article 2226 Code Legifrance
 <!-- /Breadcrumb -->

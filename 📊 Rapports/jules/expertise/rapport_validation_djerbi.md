@@ -8,6 +8,9 @@ type: rapport
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › [📁 expertise](./README.md) › rapport validation djerbi
 <!-- /Breadcrumb -->

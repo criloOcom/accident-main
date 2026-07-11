@@ -18,8 +18,11 @@ source: local
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 25 📧 Relance Dr DJERBI
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 25 📧 Relance Dr DJERBI
 <!-- /Breadcrumb -->
 
 # RELANCE — DEMANDE DE CERTIFICAT MÉDICAL DE CONSOLIDATION

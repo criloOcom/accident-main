@@ -1,5 +1,6 @@
 ---
 title: "Index — 💰 Etudes indemnisation (Versions Réelles)"
+breadcrumb: "💰 Indemnisation"
 description: "- [11 💰 Etude indemnisation.md](11%20%F0%9F%92%B0%20Etude%20indemnisation.md)"
 type: readme
 ---
@@ -8,8 +9,11 @@ type: readme
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › 💰 Etudes indemnisation
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › 💰 Etudes indemnisation
 <!-- /Breadcrumb -->
 
 # Index — 💰 Etudes indemnisation (Versions Réelles)

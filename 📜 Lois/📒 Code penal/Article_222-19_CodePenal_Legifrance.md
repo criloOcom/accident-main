@@ -14,6 +14,9 @@ article: "222-19"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code penal](./README.md) › Article 222-19 CodePenal Legifrance
 <!-- /Breadcrumb -->

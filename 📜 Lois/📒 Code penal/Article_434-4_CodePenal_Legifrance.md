@@ -14,6 +14,9 @@ article: "434-4"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code penal](./README.md) › Article 434-4 CodePenal Legifrance
 <!-- /Breadcrumb -->

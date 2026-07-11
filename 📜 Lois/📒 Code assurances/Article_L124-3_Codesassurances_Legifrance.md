@@ -14,6 +14,9 @@ article: "L124-3"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code assurances](./README.md) › Article L124-3 Codesassurances Legifrance
 <!-- /Breadcrumb -->

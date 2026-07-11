@@ -8,6 +8,9 @@ type: status
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../README.md) › [🚦 Status — Index des documents par statut](./README.md) › 01 PREPARATION
 <!-- /Breadcrumb -->

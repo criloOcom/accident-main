@@ -17,8 +17,11 @@ source: local
 
 
 
+
+
+
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 14 Stratégie jurisprudentielle
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 14 Stratégie jurisprudentielle
 <!-- /Breadcrumb -->
 
 # STRATÉGIE JURISPRUDENTIELLE — BASCULEMENT VASQUE SALON DE COIFFURE
