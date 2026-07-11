@@ -1,21 +1,17 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 38 ✅ CHECKLIST_DEPLACEMENT_POLICE_FOIX.md ](.38 ✅ CHECKLIST_DEPLACEMENT_POLICE_FOIX.md) -->
-
 ---
-titre: Checklist Complète — Déplacement au Commissariat de Foix - Version réelle
+title: "Checklist Complète — Déplacement au Commissariat de Foix - Version réelle"
+description: "Date prévue :** [Date à compléter]"
+type: courrier
 date: 2026-07-11
-type: checklist
-categorie: organisation
-auteur: La Victime
-destinataire: Commissariat de Police de Foix
-personnes:
-- La Victime
 tags:
-- checklist
-- déplacement
-- police
-- organisation
+  - checklist
+  - déplacement
+  - police
+  - organisation
 statut: final
-format: Arial JUSTIFIED
+destinataire: Commissariat de Police de Foix
+auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_FOIX.md
 ---
 

@@ -1,9 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ Note qualification penale disparition SAS.md ](.Note qualification penale disparition SAS.md) -->
-
 ---
-reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/Note qualification penale disparition SAS.md
+title: "Note juridique : Qualification pénale — Disparition de la SAS"
+description: "Dossier :** **[La Victime]** c/ **[L'Exploitant du Commerce (La SAS)]"
+type: analyse_juridique
 statut: brouillon
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/Note qualification penale disparition SAS.md
 ---
+
 # Note juridique : Qualification pénale — Disparition de la SAS
 
 **Dossier :** **[La Victime]** c/ **[L'Exploitant du Commerce (La SAS)]**

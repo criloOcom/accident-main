@@ -1,27 +1,18 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260602 👮‍♂️ Police PV ](../README.md) > 📄 [ 20260601 DOSSIER Plainte PlainteOfficiellePV n°2026-015967.md ](.20260601 DOSSIER Plainte PlainteOfficiellePV n°2026-015967.md) -->
-
 ---
-titre: Dossier de Plainte — Plainte Officielle PV n°2026-015967
+title: "Dossier de Plainte — Plainte Officielle PV n°2026-015967"
+description: "Document de type document"
+type: document
 date: 2026-06-01
-type: piece
-categorie: penal
-emetteur: Commissariat de Police de la Ville de l'Accident
-destinataire: Procureur de la République
-personnes:
-  - Sébastien GRAZIDE
-  - L'Exploitant du Commerce
 tags:
   - plainte
   - procès-verbal
   - PV
   - police
 statut: original
+destinataire: Procureur de la République
 source: drive
 drive_id: 1estaaOWMphbrt5VXhy6MsTfHqBGIdj22
-drive_url: https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view
-ocr: false
-pages: 6
-verifie: false
 ---
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**

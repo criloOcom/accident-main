@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_FINAL_INTEGRATION_20260710.md ](.RAPPORT_FINAL_INTEGRATION_20260710.md) -->
+---
+title: "RAPPORT FINAL - Intégration des Recherches MCP"
+description: "Date** : 10 juillet 2026"
+type: rapport
+---
 
 # RAPPORT FINAL - Intégration des Recherches MCP
 

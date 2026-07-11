@@ -1,14 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 11+12 📊 Evaluation Dintilhac consolidee.md ](.11+12 📊 Evaluation Dintilhac consolidee.md) -->
-
 ---
-titre: "Évaluation Dintilhac Consolidée — 11 + 12" - Version réelle
+title: "Évaluation Dintilhac Consolidée — 11 + 12" - Version réelle"
+description: "10 Avenue de Purpan, 31700 Blagnac <br>"
+type: etude_indemnisation
 date: 2026-07-07
-type: analyse
-categorie: indemnisation
-auteur: La Victime
-destinataire: null
-personnes:
-  - La Victime
 tags:
   - dintilhac
   - indemnisation
@@ -17,10 +12,11 @@ tags:
   - CIVI
   - FGTI
 statut: final
-source: local
-format: Arial JUSTIFIED
+auteur: La Victime
 reel_path: ../../👤_Reel/04_💰_Etudes_indemnisation/11+12 📊 Evaluation Dintilhac consolidee.md
+source: local
 ---
+
 # ÉVALUATION DINTILHAC CONSOLIDÉE — 11 + 12
 
 10 Avenue de Purpan, 31700 Blagnac <br>

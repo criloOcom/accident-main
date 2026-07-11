@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AUDIT_DATES.md ](.AUDIT_DATES.md) -->
+---
+title: "Audit de Cohérence des Dates"
+description: "Ce document recense les anomalies de dates détectées dans les actes par rapport au fichier `scratch_master_final.json` et aux règles métier."
+type: rapport
+---
 
 # Audit de Cohérence des Dates
 

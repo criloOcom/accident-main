@@ -1,25 +1,20 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 20 📦 Bon envoi physique.md ](.20 📦 Bon envoi physique.md) -->
-
 ---
-titre: Bon d'Envoi Physique — Lot Juillet 2026 - Version réelle
+title: "Bon d'Envoi Physique — Lot Juillet 2026 - Version réelle"
+description: "| # | Document | Fichier reel/ | Exemplaires |"
+type: readme
 date: 2026-07-06
-type: acte
-categorie: organisation
-auteur: La Victime
-personnes:
-- La Victime
-- L'Exploitant du Commerce (La SAS)
-- Le Président de l'Exploitation
-- La Directrice Générale de l'Exploitation
 tags:
-- envoi
-- LRAR
-- CPC
-- assignation
-- check-list
+  - envoi
+  - LRAR
+  - CPC
+  - assignation
+  - check-list
 statut: preparation
+auteur: La Victime
 reel_path: ../../👤_Reel/05_🗂️_Organisation/20 📦 Bon envoi physique.md
 ---
+
 # BON D'ENVOI PHYSIQUE — IMPRESSION + ENVOI
 ## DOCUMENTS À IMPRIMER (2 EXEMPLAIRES CHACUN)
 | # | Document | Fichier reel/ | Exemplaires |

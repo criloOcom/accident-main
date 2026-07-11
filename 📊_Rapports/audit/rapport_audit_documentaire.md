@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ rapport_audit_documentaire.md ](.rapport_audit_documentaire.md) -->
+---
+title: "rapport_audit_documentaire"
+description: "Document de type rapport"
+type: rapport
+---
 
 | Fichier | Problème | Gravité (🔴/🟡/🟢) | Correction |
 |---|---|---|---|

@@ -1,9 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 00_📂_Preuves_officielles ](../README.md) > 📄 [ 01 📁 Dossier UMJ Preparation.md ](.01 📁 Dossier UMJ Preparation.md) -->
-
 ---
-reel_path: ../../👤_Reel/00_📂_Preuves_officielles/01 📁 Dossier UMJ Preparation.md
+title: "DOSSIER UMJ — PRÉPARATION EXPERTISE MÉDICALE"
+description: "Date :** 12 novembre 2026 à 13h45"
+type: preuve
 statut: brouillon
+reel_path: ../../👤_Reel/00_📂_Preuves_officielles/01 📁 Dossier UMJ Preparation.md
 ---
+
 # DOSSIER UMJ — PRÉPARATION EXPERTISE MÉDICALE
 **Date :** 12 novembre 2026 à 13h45
 **Lieu :** UMJ de **[La Métropole Régionale]**

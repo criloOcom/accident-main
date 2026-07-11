@@ -1,31 +1,23 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 11 ✉️ Courrier INPI.md ](.11 ✉️ Courrier INPI.md) -->
-
 ---
-titre: Signalement de Litige au Registre National des Entreprises
+title: "Signalement de Litige au Registre National des Entreprises"
+description: "[L'Adresse de la Victime]"
+type: courrier
 date: 2026-07-05
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: INPI
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- La Directrice Generale de l'Exploitation
-- La Directrice Générale de l'Exploitation
-- La Victime
-- Le President de l'Exploitation
-- Le Président de l'Exploitation
 tags:
-- INPI
-- RNE
-- signalement
-- litige
-- LRAR
+  - INPI
+  - RNE
+  - signalement
+  - litige
+  - LRAR
 statut: final
+destinataire: INPI
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/11 ✉️ Courrier INPI.md
 source: drive
 drive_id: 1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/11 ✉️ Courrier INPI.md
 ---
+
 # DEMANDE DE SIGNALEMENT DE LITIGE AU REGISTRE NATIONAL DES ENTREPRISES
 **[L'Adresse de la Victime]**
 

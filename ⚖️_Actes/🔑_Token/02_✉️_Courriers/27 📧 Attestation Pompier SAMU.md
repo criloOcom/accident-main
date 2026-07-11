@@ -1,21 +1,20 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 27 📧 Attestation Pompier SAMU.md ](.27 📧 Attestation Pompier SAMU.md) -->
-
 ---
-titre: Email Transmission Attestation Pompier SAMU
+title: "Email Transmission Attestation Pompier SAMU"
+description: "Objet : Attestation de témoin — Intervention du **[J+0 Accident]** au **[L'Adresse de l'Exploitation]"
+type: courrier
 date: 2026-07-06
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Services de secours intervenus le **[J+0 Accident]**
 tags:
-- email
-- attestation
-- temoin
+  - email
+  - attestation
+  - temoin
 statut: brouillon
-source: local
-format: Arial JUSTIFIED
+destinataire: Services de secours intervenus le **[J+0 Accident]**
+auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/27 📧 Attestation Pompier SAMU.md
+source: local
 ---
+
 # TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (POMPIER / SAMU)
 Objet : Attestation de témoin — Intervention du **[J+0 Accident]** au **[L'Adresse de l'Exploitation]**
 

@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "Index — 04_💰_Etudes_indemnisation (Versions Réelles)"
+description: "- [11 💰 Etude indemnisation.md](11 💰 Etude indemnisation.md)"
+type: readme
+---
 
 # Index — 04_💰_Etudes_indemnisation (Versions Réelles)
 

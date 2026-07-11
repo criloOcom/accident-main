@@ -1,24 +1,16 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_responsabilite_dirigeants.md ](.audit_responsabilite_dirigeants.md) -->
-
 ---
-titre: Audit de la Responsabilité des Dirigeants
-date: 2026-07-08
+title: "Audit de la Responsabilité des Dirigeants"
+description: "Contexte :** Accident corporel survenu le **[J+0 Accident]** au sein du salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]**."
 type: rapport
-categorie: audit
-auteur: La Victime
-destinataire: null
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- Le Président de l'Exploitation
-- La Directrice Générale de l'Exploitation
-- Le Préposé de l'Exploitation
-- La Victime
+date: 2026-07-08
 tags:
-- responsabilité
-- dirigeants
-- SAS
-- faute détachable
+  - responsabilité
+  - dirigeants
+  - SAS
+  - faute détachable
 statut: final
+auteur: La Victime
 ---
 
 # AUDIT DE LA RESPONSABILITÉ DES DIRIGEANTS

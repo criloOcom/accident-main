@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ analyse_huissier_relance_dirigeants.md ](.analyse_huissier_relance_dirigeants.md) -->
+---
+title: "Analyse du Commissaire de Justice (Huissier) : Courrier de Relance Dirigeants"
+description: "Ce rapport présente l'analyse du projet de courrier de relance (`⚖️_Actes/🔑_Token/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md`) sous l'angle de la pratique des commissaires de justice."
+type: rapport
+---
 
 # Analyse du Commissaire de Justice (Huissier) : Courrier de Relance Dirigeants
 

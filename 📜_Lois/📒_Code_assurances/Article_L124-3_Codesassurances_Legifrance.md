@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_assurances ](../README.md) > 📄 [ Article_L124-3_Codesassurances_Legifrance.md ](.Article_L124-3_Codesassurances_Legifrance.md) -->
-
 ---
-title: Article L124-3
-code: Autres Codes
-article: L124
+title: "Article L124-3"
+description: "Code des assurances"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Autres Codes
+article: L124
 ---
 
 # Article L124-3

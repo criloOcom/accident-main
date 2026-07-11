@@ -1,30 +1,21 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 13 📜 Responsabilites legales.md ](.13 📜 Responsabilites legales.md) -->
-
 ---
-titre: Analyse des Fondements de la Responsabilité Juridique - Version réelle
+title: "Analyse des Fondements de la Responsabilité Juridique - Version réelle"
+description: "Rédigé le 30 juin 2026"
+type: analyse_juridique
 date: 2026-06-30
-type: acte
-categorie: analyse
-auteur: La Victime
-destinataire: null
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- La Directrice Générale de l'Exploitation
-- La Victime
-- Le Chirurgien SOS Main
-- Le Préposé de l'Exploitation
-- Le Président de l'Exploitation
 tags:
-- responsabilité
-- fondements
-- analyse
-- juridique
+  - responsabilité
+  - fondements
+  - analyse
+  - juridique
 statut: final
+auteur: La Victime
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/13 📜 Responsabilites legales.md
 source: drive
 drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/13 📜 Responsabilites legales.md
 ---
+
 # ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE **[L'EXPLOITANT DU COMMERCE (LA SAS)]**
 Rédigé le 30 juin 2026
 

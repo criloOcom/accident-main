@@ -1,14 +1,11 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_des_assurances ](../README.md) > 📄 [ Article_L124-3_Codesassurances_Legifrance.md ](.Article_L124-3_Codesassurances_Legifrance.md) -->
-
 ---
 title: "Article L124-3 — Code des assurances"
-type: law_article
-code: "Code des assurances"
-article: "L124-3"
+description: "Code des assurances"
+type: loi
 legiarti: LEGIARTI000017735449
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449"
+code: Code des assurances
+article: L124-3
 ---
 
 # Article L124-3

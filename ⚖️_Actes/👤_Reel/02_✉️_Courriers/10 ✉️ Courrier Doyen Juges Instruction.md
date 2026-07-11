@@ -1,29 +1,22 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 10 ✉️ Courrier Doyen Juges Instruction.md ](.10 ✉️ Courrier Doyen Juges Instruction.md) -->
-
 ---
-titre: Courrier Doyen des Juges d'Instruction — Constitution de Partie Civile - Version réelle
+title: "Courrier Doyen des Juges d'Instruction — Constitution de Partie Civile - Version réelle"
+description: "Sébastien GRAZIDE"
+type: courrier
 date: 2026-07-06
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Doyen des Juges d'Instruction de Foix
-personnes:
-- La Victime
-- L'Exploitant du Commerce (La SAS)
-- Le Président de l'Exploitation
-- La Directrice Générale de l'Exploitation
 tags:
-- constitution
-- partie civile
-- juge instruction
-- envoi
+  - constitution
+  - partie civile
+  - juge instruction
+  - envoi
 statut: envoye
+destinataire: Doyen des Juges d'Instruction de Foix
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/10 ✉️ Courrier Doyen Juges Instruction.md
 source: drive
 drive_id: 1nFSf3EDB_bVudz5Xhf0NvXlibTesCL8M5hepEZqxd5w
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/10 ✉️ Courrier Doyen Juges Instruction.md
-proof_delivery: "Déposé au TJ Foix le 06/07/2026"
 ---
+
 # ENVOI CONSTITUTION DE PARTIE CIVILE
 Sébastien GRAZIDE
 

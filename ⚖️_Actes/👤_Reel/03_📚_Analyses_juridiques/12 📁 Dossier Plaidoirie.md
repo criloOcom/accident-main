@@ -1,26 +1,20 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 12 📁 Dossier Plaidoirie.md ](.12 📁 Dossier Plaidoirie.md) -->
-
 ---
-titre: Dossier de Plaidoirie - Audience de Référé - Version réelle
+title: "Dossier de Plaidoirie - Audience de Référé - Version réelle"
+description: "<hr><hr>"
+type: analyse_juridique
 date: 2026-07-28
-type: acte
-categorie: plaidoirie
-auteur: La Victime
-destinataire: Juge des Référés
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce (La SAS)
-  - Le Président de l'Exploitation
-  - La Directrice Générale de l'Exploitation
 tags:
   - référé
   - plaidoirie
   - provision
   - audience
 statut: final
-format: Arial JUSTIFIED
+destinataire: Juge des Référés
+auteur: La Victime
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/12 📁 Dossier Plaidoirie.md
 ---
+
 # **DOSSIER DE PLAIDOIRIE POUR L'AUDIENCE DE RÉFÉRÉ DU 31 JUILLET 2026**
 <hr><hr>
 

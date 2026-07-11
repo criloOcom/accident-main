@@ -1,25 +1,21 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 📚 ANALYSE Jurisprudence.md ](.📚 ANALYSE Jurisprudence.md) -->
-
 ---
-titre: Rapport d'Expertise Juridique — Analyse des Préjudices Corporels - Version réelle
+title: "Rapport d'Expertise Juridique — Analyse des Préjudices Corporels - Version réelle"
+description: "Rédigé le 30 juin 2026"
+type: archive
 date: 2026-06-30
-type: acte
-categorie: analyse
-auteur: La Victime
-destinataire: null
-personnes:
-  - La Victime
 tags:
   - expertise
   - jurisprudence
   - préjudice
   - dintilhac
 statut: final
+auteur: La Victime
+reel_path: ../../👤_Reel/06_🗄️_Archives/📚 ANALYSE Jurisprudence.md
 source: drive
 drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/06_🗄️_Archives/📚 ANALYSE Jurisprudence.md
 ---
+
 **Table des matières**
 
 - [INTRODUCTION](#introduction)

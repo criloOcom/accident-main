@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_des_assurances ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "📒 Code des Assurances"
+description: "Ce dossier contient les articles du Code des assurances français cités dans les actes du dossier."
+type: readme
+---
 
 # 📒 Code des Assurances
 
@@ -11,8 +16,3 @@ Ce dossier contient les articles du Code des assurances français cités dans le
 
 ### Action directe
 - [Article L124-3](Article_L124-3_Codesassurances_Legifrance.md) - Action directe de la victime contre l'assureur
-
-## 🔗 Navigation
-
-- [Retour à l'index](../📊_Index/README.md)
-- [Retour à 📜_Lois](../README.md)

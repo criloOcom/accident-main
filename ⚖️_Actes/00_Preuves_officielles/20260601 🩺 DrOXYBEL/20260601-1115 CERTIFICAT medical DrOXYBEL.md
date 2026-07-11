@@ -1,23 +1,15 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260601 🩺 DrOXYBEL ](../README.md) > 📄 [ 20260601-1115 CERTIFICAT medical DrOXYBEL.md ](.20260601-1115 CERTIFICAT medical DrOXYBEL.md) -->
-
 ---
-titre: Certificat Médical Initial — Docteur OXYBEL
+title: "Certificat Médical Initial — Docteur OXYBEL"
+description: "Document de type document"
+type: document
 date: 2026-06-01
-type: piece
-categorie: medical
-emetteur: Dr Yogan OXYBEL
-personnes:
-  - Sébastien GRAZIDE
 tags:
   - certificat médical initial
   - ITT
 statut: original
 source: drive
 drive_id: 1SIcpCYIIJp84_6TY9dVbyMMr8Rlxbeda
-drive_url: https://drive.google.com/file/d/1SIcpCYIIJp84_6TY9dVbyMMr8Rlxbeda/view
-ocr: true
-pages: 1
-verifie: false
 ---
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**

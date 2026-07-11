@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ RAPPORT_ORGANISATION_20260711.md ](.RAPPORT_ORGANISATION_20260711.md) -->
+---
+title: "📋 Rapport d'Organisation des Textes Juridiques"
+description: "Date** : 11 juillet 2026"
+type: loi
+---
 
 # 📋 Rapport d'Organisation des Textes Juridiques
 

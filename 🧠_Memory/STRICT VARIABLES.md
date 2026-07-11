@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ STRICT VARIABLES.md ](.STRICT VARIABLES.md) -->
+---
+title: "VARIABLES STRICTES — Source Unique de Vérité"
+description: "NE JAMAIS MODIFIER NI INVENTER.** Ces valeurs prévalent sur tout autre contenu."
+type: memory
+---
 
 # VARIABLES STRICTES — Source Unique de Vérité
 
@@ -126,3 +131,25 @@
 
 **Formulation standard à employer partout :**
 > *à l'encontre de **[L'Exploitant du Commerce (La SAS)]**, pris en la personne de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, et personnellement contre ces derniers*
+
+## Correspondance tokens financiers alternatifs `[Finance ...]`
+
+Ces tokens sont utilisés dans les assignations et courriers. Leurs valeurs sont redirigées vers les variables canoniques ci-dessus. Ce fichier est la Source Unique de Vérité ; `FINANCIAL_VARIABLES.md` est déprécié.
+
+| Token alternatif | Variable canonique | Valeur |
+| :--- | :--- | :--- |
+| `[Finance Provision Référé]` | MONTANT_PROVISION_REFERE | 15 000 € |
+| `[Finance Article 700]` | MONTANT_ARTICLE_700 | 3 000 € |
+| `[Finance Astreinte 145]` | MONTANT_ASTREINTE_145 | 150 €/jour |
+| `[Finance Article 700 Référé 145]` | MONTANT_ARTICLE_700_145 | 1 500 € |
+| `[Finance Article 475-1]` | MONTANT_ARTICLE_475_1 | 3 000 € |
+| `[Finance PGPA]` | PGPA_CONSERVATIF | 1 380 € |
+| `[Finance DFP]` | DFP_COMPROMIS | 25 000 € |
+| `[Finance Souffrances Endurées]` | SE_COMPROMIS | 15 000 € |
+| `[Finance Incidence Professionnelle]` | IP | 30 000 € |
+| `[Finance Préjudice Agrément]` | AGREMENT_COMPROMIS | 5 000 € |
+| `[Finance Préjudice Esthétique]` | PEP | 3 000 € |
+| `[Finance Dévalorisation Pro]` | DEP | 3 000 € |
+| `[Finance Frais Divers]` | FRAIS_DIVERS_COMPROMIS | 3 000 € |
+| `[Finance Facture Chirurgie]` | FACTURE_CHIRURGIE | 790,23 € |
+| `[Finance Prestation Salon]` | PREUVE_BANCAIRE (Wero) | 15,00 € |

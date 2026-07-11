@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_INDEX.md ](.RAPPORT_INDEX.md) -->
+---
+title: "RAPPORT DE VÉRIFICATION DE L'INDEX"
+description: "Date de vérification : 2026-07-05"
+type: rapport
+---
 
 # RAPPORT DE VÉRIFICATION DE L'INDEX
 

@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ synthese-audits-v2.md ](.synthese-audits-v2.md) -->
+---
+title: "Synthèse des 15 audits — V2 Relance Dirigeants → V3"
+description: "| Rôle | Score | Angle |"
+type: rapport
+---
 
 # Synthèse des 15 audits — V2 Relance Dirigeants → V3
 

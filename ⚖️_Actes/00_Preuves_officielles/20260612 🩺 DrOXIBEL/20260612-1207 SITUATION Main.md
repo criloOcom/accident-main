@@ -1,13 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260612 🩺 DrOXIBEL ](../README.md) > 📄 [ 20260612-1207 SITUATION Main.md ](.20260612-1207 SITUATION Main.md) -->
-
 ---
-titre: Situation Main — Consultation de Suivi
+title: "Situation Main — Consultation de Suivi"
+description: "Document de type document"
+type: document
 date: 2026-06-12
-type: piece
-categorie: medical
-emetteur: Dr Julie JARDON
-personnes:
-  - Sébastien GRAZIDE
 tags:
   - suivi
   - main
@@ -15,10 +11,6 @@ tags:
 statut: original
 source: drive
 drive_id: 1gezULqgCQwUWSAJXePpLpTxUQ3A9u6bm
-drive_url: https://drive.google.com/file/d/1gezULqgCQwUWSAJXePpLpTxUQ3A9u6bm/view
-ocr: false
-pages: 2
-verifie: false
 ---
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**

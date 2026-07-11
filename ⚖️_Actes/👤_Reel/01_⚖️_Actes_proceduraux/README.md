@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "Index — 01_⚖️_Actes_proceduraux (Versions Réelles)"
+description: "- [01 ⚖️ Assignation.md](01 ⚖️ Assignation.md)"
+type: readme
+---
 
 # Index — 01_⚖️_Actes_proceduraux (Versions Réelles)
 

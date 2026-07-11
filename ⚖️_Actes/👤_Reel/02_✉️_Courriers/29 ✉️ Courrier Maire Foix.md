@@ -1,23 +1,19 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 29 ✉️ Courrier Maire Foix.md ](.29 ✉️ Courrier Maire Foix.md) -->
-
 ---
-titre: Mise en demeure de la Mairie — Police Administrative - Version réelle
+title: "Mise en demeure de la Mairie — Police Administrative - Version réelle"
+description: "Sébastien GRAZIDE"
+type: courrier
 date: 2026-07-09
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Le Maire
-personnes:
-  - La Victime
-  - Le Maire
 tags:
   - mairie
   - police administrative
   - COMSUR
 statut: final
-format: Arial JUSTIFIED
+destinataire: Le Maire
+auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/29 ✉️ Courrier Maire Foix.md
 ---
+
 # LETTRE RECOMMANDÉE AVEC ACCUSÉ DE RÉCEPTION
 
 Sébastien GRAZIDE

@@ -1,14 +1,11 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_121-3_Code_Legifrance.md ](.Article_121-3_Code_Legifrance.md) -->
-
 ---
 title: "Article 121-3 — Code pénal"
-type: law_article
-code: "Code pénal"
-article: "121-3"
+description: "Code pénal"
+type: loi
 legiarti: LEGIARTI000006417208
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208"
+code: Code pénal
+article: 121-3
 ---
 
 # Article 121-3

@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "⚖️ Bibliothèque Juridique"
+description: "Ce dossier contient les textes de loi et les arrêts de jurisprudence cités dans les actes du dossier."
+type: readme
+---
 
 # ⚖️ Bibliothèque Juridique
 
@@ -124,9 +129,3 @@ Pour ajouter un nouvel article :
 3. Ajouter une entrée dans le tableau ci-dessus
 4. Mettre à jour le taux de complétude
 
-## 🔗 Navigation
-
-- `🧠_Memory/RAPPORT_JURISPRUDENCES.md` — Vérification systématique des citations
-- `🧠_Memory/STRICT VARIABLES.md` — Sources uniques de vérité
-- [Actes token/06_🗄️_Archives/](../⚖️_Actes/🔑_Token/06_🗄️_Archives/README.md) — Analyses juridiques
-- [RAPPORT_AUDIT_COMPLETUDE_LOIS_20260711.md](../RAPPORT_AUDIT_COMPLETUDE_LOIS_20260711.md) — Audit complet de complétude

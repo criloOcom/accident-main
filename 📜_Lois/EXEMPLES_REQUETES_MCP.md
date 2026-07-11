@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ EXEMPLES_REQUETES_MCP.md ](.EXEMPLES_REQUETES_MCP.md) -->
+---
+title: "Exemples de Requêtes MCP Valides"
+description: "Ce document fournit des exemples concrets et testés pour utiliser les MCP Légifrance et Judilibre dans le cadre du projet "accident-main"."
+type: loi
+---
 
 # Exemples de Requêtes MCP Valides
 

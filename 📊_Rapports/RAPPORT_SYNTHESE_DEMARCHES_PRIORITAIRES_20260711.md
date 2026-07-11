@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md ](.RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md) -->
+---
+title: "RAPPORT DE SYNTHÈSE - Démarches Prioritaires à Entreprendre"
+description: "Date** : 11 juillet 2026"
+type: rapport
+---
 
 # RAPPORT DE SYNTHÈSE - Démarches Prioritaires à Entreprendre
 

@@ -1,21 +1,16 @@
 <!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ EVIDENCE_MATRIX.md ](.EVIDENCE_MATRIX.md) -->
-
 ---
-titre: Matrice des Preuves
+title: "Matrice des Preuves"
+description: "<hr><hr>"
+type: memory
 date: 2026-07-06
-type: document
-categorie: memoire
-auteur: La Victime
-destinataire: null
-personnes:
-  - La Victime
 tags:
   - preuves
   - evidence
   - matrice
   - plan
 statut: final
-format: Arial JUSTIFIED
+auteur: La Victime
 ---
 
 # Matrice des Preuves

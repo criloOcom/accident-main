@@ -1,13 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260529 🩹 DrJARDON ](../README.md) > 📄 [ 20260529-1630 SITUATION DrJulieJARDON.md ](.20260529-1630 SITUATION DrJulieJARDON.md) -->
-
 ---
-titre: Compte Rendu de Situation — Docteur Julie JARDON
+title: "Compte Rendu de Situation — Docteur Julie JARDON"
+description: "Document de type document"
+type: document
 date: 2026-05-29
-type: piece
-categorie: medical
-emetteur: Dr Julie JARDON
-personnes:
-  - Sébastien GRAZIDE
 tags:
   - compte rendu
   - situation
@@ -15,10 +11,6 @@ tags:
 statut: original
 source: drive
 drive_id: 1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf
-drive_url: https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view
-ocr: false
-pages: 1
-verifie: false
 ---
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**

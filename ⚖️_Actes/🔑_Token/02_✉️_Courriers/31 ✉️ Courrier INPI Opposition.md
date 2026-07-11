@@ -1,27 +1,21 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 31 ✉️ Courrier INPI Opposition.md ](.31 ✉️ Courrier INPI Opposition.md) -->
-
 ---
-titre: Opposition à immatriculation INPI
+title: "Opposition à immatriculation INPI"
+description: "[Nom de l'Avocat de la Victime]"
+type: courrier
 date: 2026-07-09
-type: acte
-categorie: procedure
-auteur: Nom de l'Avocat de la Victime
-destinataire: INPI
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- La Victime
-- Le Président de l'Exploitation
-- La Directrice Générale de l'Exploitation
 tags:
-- INPI
-- opposition
-- immatriculation
-- fraude
-- RNE
+  - INPI
+  - opposition
+  - immatriculation
+  - fraude
+  - RNE
 statut: final
-format: Arial JUSTIFIED
+destinataire: INPI
+auteur: Nom de l'Avocat de la Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/31 ✉️ Courrier INPI Opposition.md
 ---
+
 # OPPOSITION À IMMATRICULATION AU REGISTRE NATIONAL DES ENTREPRISES
 **[Nom de l'Avocat de la Victime]**
 

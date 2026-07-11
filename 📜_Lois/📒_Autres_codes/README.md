@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "📒_Autres_codes"
+description: "Dossier contenant les articles de loi relatifs à 📒_Autres_codes."
+type: readme
+---
 
 # 📒_Autres_codes
 

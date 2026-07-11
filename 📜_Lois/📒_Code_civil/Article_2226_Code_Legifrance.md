@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_civil ](../README.md) > 📄 [ Article_2226_Code_Legifrance.md ](.Article_2226_Code_Legifrance.md) -->
-
 ---
-title: Article 2226
-code: Code Civil
-article: 2226
+title: "Article 2226"
+description: "Code civil"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Code Civil
+article: 2226
 ---
 
 # Article 2226

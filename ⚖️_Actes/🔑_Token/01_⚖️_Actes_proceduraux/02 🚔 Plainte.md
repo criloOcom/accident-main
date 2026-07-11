@@ -1,30 +1,21 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 02 🚔 Plainte.md ](.02 🚔 Plainte.md) -->
-
 ---
-titre: Plainte Complément — Défaut d'Assurance RC
+title: "Plainte Complément — Défaut d'Assurance RC"
+description: "Rédigé le **[J+32 Assignation référé]"
+type: assignation
 date: 2026-06-30
-type: acte
-categorie: penale
-auteur: La Victime
-destinataire: Procureur de la République
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- La Directrice Générale de l'Exploitation
-- La Victime
-- Le Chirurgien SOS Main
-- Le Propriétaire des Murs
-- Le Préposé de l'Exploitation
-- Le Président de l'Exploitation
 tags:
-- plainte
-- défaut d'assurance
-- pénal
+  - plainte
+  - défaut d'assurance
+  - pénal
 statut: final
+destinataire: Procureur de la République
+auteur: La Victime
+reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/02 🚔 Plainte.md
 source: drive
 drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/02 🚔 Plainte.md
 ---
+
 # COMPLÉMENT DE PLAINTE PÉNALE — DÉFAUT D'ASSURANCE RC
 Rédigé le **[J+32 Assignation référé]**
 

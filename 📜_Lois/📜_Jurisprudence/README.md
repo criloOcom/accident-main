@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📜_Jurisprudence ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "📜_Jurisprudence"
+description: "Dossier contenant les articles de loi relatifs à 📜_Jurisprudence."
+type: readme
+---
 
 # 📜_Jurisprudence
 

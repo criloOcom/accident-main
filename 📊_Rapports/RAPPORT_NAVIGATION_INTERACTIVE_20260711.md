@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_NAVIGATION_INTERACTIVE_20260711.md ](.RAPPORT_NAVIGATION_INTERACTIVE_20260711.md) -->
+---
+title: "Rapport: Navigation Interactive README.md"
+description: "Améliorer la navigation humaine dans le projet en convertissant toutes les références de fichiers et dossiers en liens cliquables dans les fichiers README.md, suivant le principe que toute mention de fichier ou dossier doit être interactive."
+type: rapport
+---
 
 # Rapport: Navigation Interactive README.md
 

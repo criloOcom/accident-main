@@ -1,3 +1,9 @@
+---
+title: "Documentation des scripts de l'application (.dev/app/)"
+description: "Ce dossier contient les scripts fonctionnels utilisés pour le traitement, l'anonymisation, le déploiement et la gestion du dossier Accident de la Main."
+type: readme
+---
+
 # Documentation des scripts de l'application (.dev/app/)
 
 Ce dossier contient les scripts fonctionnels utilisés pour le traitement, l'anonymisation, le déploiement et la gestion du dossier Accident de la Main.

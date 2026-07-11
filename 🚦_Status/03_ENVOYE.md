@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 🚦_Status ](../README.md) > 📄 [ 03_ENVOYE.md ](.03_ENVOYE.md) -->
+---
+title: "✅ Envoyé"
+description: "Documents avec preuve de délivrance (LRAR, AR, dépôt au greffe)."
+type: status
+---
 
 # ✅ Envoyé
 

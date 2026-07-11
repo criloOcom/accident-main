@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L223-22_Codecommerce_Legifrance.md ](.Article_L223-22_Codecommerce_Legifrance.md) -->
-
 ---
-title: Article L. 223-22
-code: Code Commerce
-article: L223
+title: "Article L. 223-22"
+description: "Code de commerce"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Code Commerce
+article: L223
 ---
 
 # Article L. 223-22

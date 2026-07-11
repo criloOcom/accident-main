@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 🚦_Status ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "🚦 Status — Index des documents par statut"
+description: "Ce dossier regroupe tous les documents du dossier **Accident Main** classés par statut de délivrance."
+type: readme
+---
 
 # 🚦 Status — Index des documents par statut
 

@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ jurisprudence ](../README.md) > 📄 [ recherche_npai_assignation.md ](.recherche_npai_assignation.md) -->
+---
+title: "Rapport de jurisprudence — NPAI / Défaut d'adresse dans le cadre d'assignations de sociétés"
+description: "| Article | Texte (version VIGUEUR) |"
+type: rapport
+---
 
 # Rapport de jurisprudence — NPAI / Défaut d'adresse dans le cadre d'assignations de sociétés
 

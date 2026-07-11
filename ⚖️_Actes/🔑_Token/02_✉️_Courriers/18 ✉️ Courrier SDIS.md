@@ -1,27 +1,23 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 18 ✉️ Courrier SDIS.md ](.18 ✉️ Courrier SDIS.md) -->
-
 ---
-titre: Signalement de Securite ERP au SDIS
+title: "Signalement de Securite ERP au SDIS"
+description: "[L'Adresse de la Victime]"
+type: courrier
 date: 2026-07-05
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: SDIS de l'Ariege
-personnes:
-- La Victime
-- L'Exploitant du Commerce (La SAS)
 tags:
-- SDIS
-- ERP
-- securite incendie
-- signalement
-- email
+  - SDIS
+  - ERP
+  - securite incendie
+  - signalement
+  - email
 statut: final
+destinataire: SDIS de l'Ariege
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/18 ✉️ Courrier SDIS.md
 source: drive
 drive_id: 1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/18 ✉️ Courrier SDIS.md
 ---
+
 **Table des matieres**
 
 - [INTRODUCTION](#introduction)

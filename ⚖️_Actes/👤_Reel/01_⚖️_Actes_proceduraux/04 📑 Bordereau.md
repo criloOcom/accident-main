@@ -1,32 +1,20 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 04 📑 Bordereau.md ](.04 📑 Bordereau.md) -->
-
 ---
-titre: Bordereau de pièces (unifié) - Version réelle
+title: "Bordereau de pièces (unifié) - Version réelle"
+description: "| Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : Sébastien GRAZIDE | Défendeur : SAS LES MAUVAIS GARCONS |"
+type: assignation
 date: 2026-07-07
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Tribunal Judiciaire de la Ville de l'Accident
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- L'Établissement SOS Main
-- La Gestionnaire CPAM
-- La Victime
-- Le Chirurgien SOS Main
-- Le Médecin Généraliste
-- Le Propriétaire des Murs
-- Le Président de l'Exploitation
-- La Directrice Générale de l'Exploitation
 tags:
-- bordereau
-- pieces
-- référé
+  - bordereau
+  - pieces
+  - référé
 statut: final
-source: drive
-drive_id: ''
-format: Arial JUSTIFIED
+destinataire: Tribunal Judiciaire de la Ville de l'Accident
+auteur: La Victime
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/04 📑 Bordereau.md
+source: drive
 ---
+
 # BORDEREAU DE PIÈCES
 | Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : Sébastien GRAZIDE | Défendeur : SAS LES MAUVAIS GARCONS |
 |:---|:---|:---|

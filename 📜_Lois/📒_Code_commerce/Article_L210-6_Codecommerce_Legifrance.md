@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L210-6_Codecommerce_Legifrance.md ](.Article_L210-6_Codecommerce_Legifrance.md) -->
-
 ---
-title: Article L210-6
-code: Code Commerce
-article: L210
+title: "Article L210-6"
+description: "Code de commerce"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Code Commerce
+article: L210
 ---
 
 # Article L210-6

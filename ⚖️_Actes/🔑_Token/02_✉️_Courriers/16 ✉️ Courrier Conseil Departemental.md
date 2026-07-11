@@ -1,27 +1,23 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 16 ✉️ Courrier Conseil Departemental.md ](.16 ✉️ Courrier Conseil Departemental.md) -->
-
 ---
-titre: Signalement de Non-Conformite ERP au Conseil Departemental
+title: "Signalement de Non-Conformite ERP au Conseil Departemental"
+description: "[L'Adresse de la Victime]"
+type: courrier
 date: 2026-07-05
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Conseil Departemental de l'Ariege
-personnes:
-- La Victime
-- L'Exploitant du Commerce (La SAS)
 tags:
-- conseil departemental
-- ERP
-- securite
-- signalement
-- LRAR
+  - conseil departemental
+  - ERP
+  - securite
+  - signalement
+  - LRAR
 statut: final
+destinataire: Conseil Departemental de l'Ariege
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/16 ✉️ Courrier Conseil Departemental.md
 source: drive
 drive_id: 1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/16 ✉️ Courrier Conseil Departemental.md
 ---
+
 # SIGNALEMENT DE NON-CONFORMITE D'ERP AU CONSEIL DEPARTEMENTAL DE L'ARIEGE
 **[L'Adresse de la Victime]**
 

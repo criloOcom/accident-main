@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_procedure_civile ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "📒_Code_procedure_civile"
+description: "Dossier contenant les articles de loi relatifs à 📒_Code_procedure_civile."
+type: readme
+---
 
 # 📒_Code_procedure_civile
 

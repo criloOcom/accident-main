@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ jurisprudence ](../README.md) > 📄 [ audit_juritext_dintilhac.md ](.audit_juritext_dintilhac.md) -->
+---
+title: "audit_juritext_dintilhac"
+description: "Document de type rapport"
+type: rapport
+---
 
 | JURITEXT | Titre | Chambre | Date | Solution | Statut | Commentaire |
 |---|---|---|---|---|---|---|

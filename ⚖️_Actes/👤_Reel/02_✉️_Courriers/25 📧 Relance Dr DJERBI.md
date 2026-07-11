@@ -1,21 +1,20 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 25 📧 Relance Dr DJERBI.md ](.25 📧 Relance Dr DJERBI.md) -->
-
 ---
-titre: Relance Dr Iskander DJERBI - Certificat de Consolidation - Version réelle
+title: "Relance Dr Iskander DJERBI - Certificat de Consolidation - Version réelle"
+description: "Objet : Demande de certificat médical de consolidation — Suite courrier du 5 juillet 2026"
+type: courrier
 date: 2026-07-06
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Le Chirurgien SOS Main
 tags:
-- relance
-- consolidation
-- certificat medical
+  - relance
+  - consolidation
+  - certificat medical
 statut: brouillon
-source: local
-format: Arial JUSTIFIED
+destinataire: Le Chirurgien SOS Main
+auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/25 📧 Relance Dr DJERBI.md
+source: local
 ---
+
 # RELANCE — DEMANDE DE CERTIFICAT MÉDICAL DE CONSOLIDATION
 Objet : Demande de certificat médical de consolidation — Suite courrier du 5 juillet 2026
 

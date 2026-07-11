@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_REDACTION.md ](.RAPPORT_AUDIT_REDACTION.md) -->
+---
+title: "RAPPORT D'AUDIT RÉDACTIONNEL"
+description: "Date :** 12 juillet 2026"
+type: rapport
+---
 
 # RAPPORT D'AUDIT RÉDACTIONNEL
 

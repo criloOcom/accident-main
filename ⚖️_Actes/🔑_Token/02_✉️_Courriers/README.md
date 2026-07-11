@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "✉️ Courriers"
+description: "Ce dossier rassemble l'ensemble des courriers envoyés dans le cadre de la procédure : mises en demeure, signalements administratifs, relances."
+type: readme
+---
 
 # ✉️ Courriers
 
@@ -49,8 +54,3 @@ Chaque courrier a un objectif précis : obtenir des informations, mettre en deme
 | **23** | **[Attestation Pompier SAMU](23%20%F0%9F%93%8B%20Attestation%20Pompier%20SAMU.md)** | Gabarit pour attestation des secours intervenus |
 | **24** | **[Attestation Employé](24%20%F0%9F%93%8B%20Attestation%20Employ%C3%A9.md)** | Gabarit pour attestation d'employé de l'exploitation |
 
-## 🔗 Navigation
-
-- [Versions réelles](../../reel/02_✉️_Courriers/README.md) — ces mêmes courriers avec les identités résolues
-- [Index général](../../../⚖️_Actes/🔑_Token/05_🗂️_Organisation/00 📇 Index.md) — état complet du dossier
-- [TOKEN MAP](../../../🧠_Memory/TOKEN%20MAP.md) — correspondance tokens → identités réelles

@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_LEGIFRANCE.md ](.RAPPORT_LEGIFRANCE.md) -->
+---
+title: "Rapport de Vérification des Liens Légifrance"
+description: "| ID Légifrance | Statut | Titre / Article | Fichiers concernés | Remarques (Format) |"
+type: rapport
+---
 
 # Rapport de Vérification des Liens Légifrance
 

@@ -1,14 +1,11 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_121-1a121-7_CodePenal_Legifrance.md ](.Article_121-1a121-7_CodePenal_Legifrance.md) -->
-
 ---
 title: "Articles 121-1 à 121-7 — Code pénal"
-type: law_article
-code: "Code pénal"
-article: "121-1 à 121-7"
+description: "Code pénal"
+type: loi
 legiarti: LEGIARTI000006417206
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417206"
+code: Code pénal
+article: 121-1 à 121-7
 ---
 
 # Articles 121-1 à 121-7

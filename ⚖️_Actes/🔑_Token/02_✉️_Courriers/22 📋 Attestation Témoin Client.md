@@ -1,22 +1,18 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 22 📋 Attestation Témoin Client.md ](.22 📋 Attestation Témoin Client.md) -->
-
 ---
-titre: 22 Gabarit Attestation Témoin Client - V1
-date: '2026-06-30'
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: null
-personnes:
-- La Victime
+title: "22 Gabarit Attestation Témoin Client - V1"
+description: "Je soussigné(e) [À compléter],"
+type: courrier
+date: 2026-06-30
 tags:
-- dossier
-statut: final
-source: drive
-drive_id: '1mLVji0_j8CTh2TjPr7bXAkoBaR2NmWEH89KXTk7Xbk4'
-format: Arial JUSTIFIED
+  - dossier
+statut: projet
+auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/22 📋 Attestation Témoin Client.md
+source: drive
+drive_id: 1mLVji0_j8CTh2TjPr7bXAkoBaR2NmWEH89KXTk7Xbk4
 ---
+
 # ATTESTATION DE TÉMOIN (CERFA N° 11527*03)Article 202 du Code de procédure civile
 
 > **INSTRUCTIONS DE REMPLISSAGE (à lire avant de compléter) :**

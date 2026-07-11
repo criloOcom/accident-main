@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ TOKEN MAP.md ](.TOKEN MAP.md) -->
+---
+title: "TABLE DE SUBSTITUTION — Anonymisation (tokens V2)"
+description: "| Texte original | Jeton |"
+type: memory
+---
 
 # TABLE DE SUBSTITUTION — Anonymisation (tokens V2)
 

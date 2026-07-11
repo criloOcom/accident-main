@@ -1,9 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 16 ⚠️ Signalement Parquet Fraud.md ](.16 ⚠️ Signalement Parquet Fraud.md) -->
-
 ---
-reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/16 ⚠️ Signalement Parquet Fraud.md
+title: "SIGNALEMENT AU PROCUREUR DE LA RÉPUBLIQUE"
+description: "À L'ATTENTION DE MONSIEUR LE PROCUREUR DE LA RÉPUBLIQUE"
+type: assignation
 statut: brouillon
+reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/16 ⚠️ Signalement Parquet Fraud.md
 ---
+
 # SIGNALEMENT AU PROCUREUR DE LA RÉPUBLIQUE
 ## (Article 40 du Code de procédure pénale)
 

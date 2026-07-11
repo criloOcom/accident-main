@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_121-3_Code_Legifrance.md ](.Article_121-3_Code_Legifrance.md) -->
-
 ---
-title: Article 121-3
-code: Autres Codes
-article: 121
+title: "Article 121-3"
+description: "Code pénal"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Autres Codes
+article: 121
 ---
 
 # Article 121-3

@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_CORRECTIONS_20260711.md ](.RAPPORT_CORRECTIONS_20260711.md) -->
+---
+title: "🎯 Rapport de Corrections - Projet accident-main"
+description: "Date** : 11 juillet 2026"
+type: rapport
+---
 
 # 🎯 Rapport de Corrections - Projet accident-main
 

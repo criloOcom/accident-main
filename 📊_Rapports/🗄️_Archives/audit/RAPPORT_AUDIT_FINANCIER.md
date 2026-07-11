@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_AUDIT_FINANCIER.md ](.RAPPORT_AUDIT_FINANCIER.md) -->
+---
+title: "RAPPORT D'AUDIT FINANCIER ET INDEMNITAIRE"
+description: "Date de l'audit** : 4 Juillet 2026"
+type: rapport
+---
 
 # RAPPORT D'AUDIT FINANCIER ET INDEMNITAIRE
 

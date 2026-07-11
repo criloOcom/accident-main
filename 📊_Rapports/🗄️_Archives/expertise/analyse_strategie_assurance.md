@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ analyse_strategie_assurance.md ](.analyse_strategie_assurance.md) -->
+---
+title: "ANALYSE DE LA STRATÉGIE ASSURANCE ET RESPONSABILITÉ CIVILE (RC)"
+description: "Dossier : Accident Corporel - [La Victime] c/ [L'Exploitant du Commerce (La SAS)]"
+type: rapport
+---
 
 # ANALYSE DE LA STRATÉGIE ASSURANCE ET RESPONSABILITÉ CIVILE (RC)
 

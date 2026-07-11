@@ -1,32 +1,21 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 09 ❓ FAQ.md ](.09 ❓ FAQ.md) -->
-
 ---
-titre: Synthèse Juridique et FAQ - Version réelle
+title: "Synthèse Juridique et FAQ - Version réelle"
+description: "Rédigé par : Sébastien GRAZIDE"
+type: analyse_juridique
 date: 2026-06-30
-type: acte
-categorie: analyse
-auteur: La Victime
-destinataire: null
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- L'Établissement SOS Main
-- La Directrice Générale de l'Exploitation
-- La Victime
-- Le Chirurgien SOS Main
-- Le Propriétaire des Murs
-- Le Préposé de l'Exploitation
-- Le Président de l'Exploitation
 tags:
-- faq
-- synthèse
-- juridique
-- questions
+  - faq
+  - synthèse
+  - juridique
+  - questions
 statut: final
+auteur: La Victime
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/09 ❓ FAQ.md
 source: drive
 drive_id: 1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/09 ❓ FAQ.md
 ---
+
 # SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE **[LA VICTIME]** C/ **[L'EXPLOITANT DU COMMERCE (LA SAS)]**
 Rédigé par : Sébastien GRAZIDE
 

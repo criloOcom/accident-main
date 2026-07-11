@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_COMPLET_20260711.md ](.RAPPORT_AUDIT_COMPLET_20260711.md) -->
+---
+title: "🔍 Rapport d'Audit Complet du Projet accident-main"
+description: "Date** : 11 juillet 2026"
+type: rapport
+---
 
 # 🔍 Rapport d'Audit Complet du Projet accident-main
 

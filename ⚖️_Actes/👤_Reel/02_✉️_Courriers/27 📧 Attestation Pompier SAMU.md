@@ -1,21 +1,20 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 27 📧 Attestation Pompier SAMU.md ](.27 📧 Attestation Pompier SAMU.md) -->
-
 ---
-titre: Email Transmission Attestation Pompier SAMU - Version réelle
+title: "Email Transmission Attestation Pompier SAMU - Version réelle"
+description: "Objet : Attestation de témoin — Intervention du 29 mai 2026 au 22 Rue Lafaurie, 09000 Foix"
+type: courrier
 date: 2026-07-06
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Services de secours intervenus le 29 mai 2026
 tags:
-- email
-- attestation
-- temoin
+  - email
+  - attestation
+  - temoin
 statut: brouillon
-source: local
-format: Arial JUSTIFIED
+destinataire: Services de secours intervenus le 29 mai 2026
+auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/27 📧 Attestation Pompier SAMU.md
+source: local
 ---
+
 # TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (POMPIER / SAMU)
 Objet : Attestation de témoin — Intervention du 29 mai 2026 au 22 Rue Lafaurie, 09000 Foix
 

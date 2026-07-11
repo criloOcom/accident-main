@@ -1,14 +1,11 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_de_procedure_civile ](../README.md) > 📄 [ Article_700_Codeproc_Legifrance.md ](.Article_700_Codeproc_Legifrance.md) -->
-
 ---
 title: "Article 700 — Code de procédure civile"
-type: law_article
-code: "Code de procédure civile"
-article: "700"
+description: "Code de procédure civile"
+type: loi
 legiarti: LEGIARTI000045268436
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436"
+code: Code de procédure civile
+article: 700
 ---
 
 # Article 700

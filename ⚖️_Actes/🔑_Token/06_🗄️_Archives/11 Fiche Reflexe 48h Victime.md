@@ -1,23 +1,22 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 11 Fiche Reflexe 48h Victime.md ](.11 Fiche Reflexe 48h Victime.md) -->
-
 ---
-titre: Fiche Reflexe 48h — Victime d'Accident Corporel
+title: "Fiche Reflexe 48h — Victime d'Accident Corporel"
+description: "Etape 1 — Securite et sante"
+type: archive
 date: 2026-07-09
-type: fiche
-categorie: urgence
-auteur: La Victime
-destinataire: La Victime
 tags:
-- fiche
-- reflexe
-- urgence
-- 48h
-- procedure
+  - fiche
+  - reflexe
+  - urgence
+  - 48h
+  - procedure
 statut: projet
-source: local
-format: Arial JUSTIFIED
+destinataire: La Victime
+auteur: La Victime
 reel_path: ../../👤_Reel/06_🗄️_Archives/11 Fiche Reflexe 48h Victime.md
+source: local
 ---
+
 # FICHE REFLEXE 48H
 
 ## Victime d'accident corporel — Conduite a tenir

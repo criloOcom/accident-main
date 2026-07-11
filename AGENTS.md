@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📄 [ AGENTS.md ](.AGENTS.md) -->
+---
+title: "AGENTS — Documentation Partagée"
+description: "Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, etc.) travaillant sur le dossier Accident de la Main."
+type: document
+---
 
 # AGENTS — Documentation Partagée
 

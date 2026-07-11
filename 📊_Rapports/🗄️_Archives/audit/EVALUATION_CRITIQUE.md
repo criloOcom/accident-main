@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ EVALUATION_CRITIQUE.md ](.EVALUATION_CRITIQUE.md) -->
+---
+title: "ÉVALUATION CRITIQUE DU DOSSIER "ACCIDENT DE LA MAIN""
+description: "En tant qu'expert juridique (magistrat, avocat, ou représentant de l'État), voici une évaluation **extrêmement critique, sans concession et sincère** de ce dossier. L'objectif est de mettre en lumière les failles béantes de votre stratégie actuelle a"
+type: rapport
+---
 
 # ÉVALUATION CRITIQUE DU DOSSIER "ACCIDENT DE LA MAIN"
 

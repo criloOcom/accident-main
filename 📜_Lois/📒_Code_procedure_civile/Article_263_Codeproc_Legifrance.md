@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_procedure_civile ](../README.md) > 📄 [ Article_263_Codeproc_Legifrance.md ](.Article_263_Codeproc_Legifrance.md) -->
-
 ---
-title: Articles 263 et suivants
-code: Code Procedure Civile
-article: 263
+title: "Articles 263 et suivants"
+description: "Code de procédure civile"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Code Procedure Civile
+article: 263
 ---
 
 # Articles 263 et suivants

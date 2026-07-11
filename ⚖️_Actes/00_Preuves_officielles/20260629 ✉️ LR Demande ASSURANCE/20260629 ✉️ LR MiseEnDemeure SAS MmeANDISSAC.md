@@ -1,26 +1,17 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Demande ASSURANCE ](../README.md) > 📄 [ 20260629 ✉️ LR MiseEnDemeure SAS MmeANDISSAC.md ](.20260629 ✉️ LR MiseEnDemeure SAS MmeANDISSAC.md) -->
-
 ---
-titre: Lettre Recommandée — Mise en Demeure SAS Madame ANDISSAC
+title: "Lettre Recommandée — Mise en Demeure SAS Madame ANDISSAC"
+description: "Document de type document"
+type: document
 date: 2026-06-29
-type: piece
-categorie: juridique
-emetteur: Sébastien GRAZIDE
-destinataire: SAS ANDISSAC
-personnes:
-  - Sébastien GRAZIDE
-  - SAS ANDISSAC
 tags:
   - LR
   - mise en demeure
   - SAS
 statut: original
+destinataire: SAS ANDISSAC
 source: drive
 drive_id: 1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93
-drive_url: https://drive.google.com/file/d/1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93/view
-ocr: false
-pages: 1
-verifie: false
 ---
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**

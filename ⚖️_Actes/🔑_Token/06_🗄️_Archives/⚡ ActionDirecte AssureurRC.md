@@ -1,26 +1,22 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ ⚡ ActionDirecte AssureurRC.md ](.⚡ ActionDirecte AssureurRC.md) -->
-
 ---
-titre: Action Directe Assureur RC ([Art. L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449))
+title: "Action Directe Assureur RC ([Art. L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449))"
+description: "Rédigé le **[J+31 Mises en demeure]"
+type: archive
 date: 2026-06-29
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce (La SAS)
 tags:
   - action directe
   - assurance
   - mise en demeure
   - L.124-3
 statut: final
+destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
+auteur: La Victime
+reel_path: ../../👤_Reel/06_🗄️_Archives/⚡ ActionDirecte AssureurRC.md
 source: drive
 drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/06_🗄️_Archives/⚡ ActionDirecte AssureurRC.md
 ---
+
 **Table des matières**
 
 - [INTRODUCTION](#introduction)

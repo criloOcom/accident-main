@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_CALENDRIER.md ](.RAPPORT_AUDIT_CALENDRIER.md) -->
+---
+title: "RAPPORT D'AUDIT DU CALENDRIER PROCÉDURAL"
+description: "Référence :** J+0 = 29/05/2026 (vendredi)"
+type: rapport
+---
 
 # RAPPORT D'AUDIT DU CALENDRIER PROCÉDURAL
 

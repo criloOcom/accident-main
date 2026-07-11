@@ -1,32 +1,23 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 06 ✉️ Courrier President DG.md ](.06 ✉️ Courrier President DG.md) -->
-
 ---
-titre: Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC
+title: "Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC"
+description: "[L'Adresse de la Victime]** <br>"
+type: courrier
 date: 2026-06-29
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Dirigeants de l'Exploitant du Commerce
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- L'Établissement SOS Main
-- La Directrice Générale de l'Exploitation
-- La Victime
-- Le Chirurgien SOS Main
-- Le Président de l'Exploitation
 tags:
-- mise en demeure
-- dirigeants
-- assurance
-- faute détachable
-- LRAR
+  - mise en demeure
+  - dirigeants
+  - assurance
+  - faute détachable
+  - LRAR
 statut: envoye
+destinataire: Dirigeants de l'Exploitant du Commerce
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/06 ✉️ Courrier President DG.md
 source: drive
 drive_id: 1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/06 ✉️ Courrier President DG.md
-proof_delivery: "LRAR 87001424721856G + 87001424862879J"
 ---
+
 # MISE EN DEMEURE AUX DIRIGEANTS — DEMANDE D'INFORMATION ASSURANCE RC
 **[L'Adresse de la Victime]** <br>
 **[L'Email de la Victime]**

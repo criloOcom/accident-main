@@ -1,27 +1,22 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 09 ✉️ Courrier Inspection Travail.md ](.09 ✉️ Courrier Inspection Travail.md) -->
-
 ---
-titre: Demande d'Information a l'Inspection du Travail - Version réelle
+title: "Demande d'Information a l'Inspection du Travail - Version réelle"
+description: "Sébastien GRAZIDE"
+type: courrier
 date: 2026-07-05
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: DDETS de la Region
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- La Victime
-- Le Préposé de l'Exploitation
 tags:
-- inspection du travail
-- enquete
-- securite
-- DUERP
-statut: final
+  - inspection du travail
+  - enquete
+  - securite
+  - DUERP
+statut: projet
+destinataire: DDETS de la Region
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/09 ✉️ Courrier Inspection Travail.md
 source: drive
 drive_id: 1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/09 ✉️ Courrier Inspection Travail.md
 ---
+
 # DEMANDE D'INFORMATION A L'INSPECTION DU TRAVAIL
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac

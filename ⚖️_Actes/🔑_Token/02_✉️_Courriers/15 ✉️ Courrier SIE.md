@@ -1,27 +1,23 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 15 ✉️ Courrier SIE.md ](.15 ✉️ Courrier SIE.md) -->
-
 ---
-titre: Information de Litige au Service des Impots des Entreprises
+title: "Information de Litige au Service des Impots des Entreprises"
+description: "[L'Adresse de la Victime]"
+type: courrier
 date: 2026-07-05
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Service des Impôts des Entreprises de **[La Ville de l'Accident]**
-personnes:
-- La Victime
-- L'Exploitant du Commerce (La SAS)
 tags:
-- SIE
-- impot
-- information
-- litige
-- LRAR
+  - SIE
+  - impot
+  - information
+  - litige
+  - LRAR
 statut: final
+destinataire: Service des Impôts des Entreprises de **[La Ville de l'Accident]**
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/15 ✉️ Courrier SIE.md
 source: drive
 drive_id: 1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/15 ✉️ Courrier SIE.md
 ---
+
 # INFORMATION DE LITIGE AU SERVICE DES IMPOTS DES ENTREPRISES
 **[L'Adresse de la Victime]**
 

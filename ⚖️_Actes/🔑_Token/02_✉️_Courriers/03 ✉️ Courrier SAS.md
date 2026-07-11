@@ -1,30 +1,22 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 03 ✉️ Courrier SAS.md ](.03 ✉️ Courrier SAS.md) -->
-
 ---
-titre: Mise en Demeure — Déclaration d'Accident Corporel et Demande d'Information
-  Assurance RC
+title: "Mise en Demeure — Déclaration d'Accident Corporel et Demande d'Information"
+description: "[L'Adresse de la Victime]"
+type: courrier
 date: 2026-06-29
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: L'Exploitant du Commerce (La SAS)
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- L'Établissement SOS Main
-- La Victime
-- Le Chirurgien SOS Main
 tags:
-- mise en demeure
-- SAS
-- assurance
-- LRAR
+  - mise en demeure
+  - SAS
+  - assurance
+  - LRAR
 statut: envoye
+destinataire: L'Exploitant du Commerce (La SAS)
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/03 ✉️ Courrier SAS.md
 source: drive
 drive_id: 1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/03 ✉️ Courrier SAS.md
-proof_delivery: "LRAR 87001424863012T"
 ---
+
 **Table des matières**
 
 - [INTRODUCTION](#introduction)

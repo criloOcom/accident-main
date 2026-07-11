@@ -1,15 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 06 📸 Requete Constat Huissier.md ](.06 📸 Requete Constat Huissier.md) -->
-
 ---
-titre: Requête aux fins de constat d'huissier - Version réelle
+title: "Requête aux fins de constat d'huissier - Version réelle"
+description: "À l'attention de :** Tel huissier de justice territorialement compétent"
+type: assignation
 date: 2026-07-06
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Tel huissier de justice territorialement compétent
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce (La SAS)
 tags:
   - requête
   - article 145
@@ -19,9 +13,11 @@ tags:
   - constat
   - huissier
 statut: brouillon
-format: Arial JUSTIFIED
+destinataire: Tel huissier de justice territorialement compétent
+auteur: La Victime
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/06 📸 Requete Constat Huissier.md
 ---
+
 # REQUÊTE AUX FINS DE CONSTAT D'HUISSIER (ARTICLES 145 ET 873 CPC)
 **À l'attention de :** Tel huissier de justice territorialement compétent
 

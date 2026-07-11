@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L237-2_Codecommerce_Legifrance.md ](.Article_L237-2_Codecommerce_Legifrance.md) -->
-
 ---
-title: Article L237-2
-code: Code Commerce
-article: L237
+title: "Article L237-2"
+description: "Code de commerce"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Code Commerce
+article: L237
 ---
 
 # Article L237-2

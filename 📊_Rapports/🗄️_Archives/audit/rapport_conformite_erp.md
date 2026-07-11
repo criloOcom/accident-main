@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ rapport_conformite_erp.md ](.rapport_conformite_erp.md) -->
+---
+title: "RAPPORT D'AUDIT DE CONFORMITÉ RÉGLEMENTAIRE (ERP TYPE N)"
+description: "Établissement :** **[L'Exploitant du Commerce (La SAS)]** (Bar avec salon de coiffure)"
+type: rapport
+---
 
 # RAPPORT D'AUDIT DE CONFORMITÉ RÉGLEMENTAIRE (ERP TYPE N)
 

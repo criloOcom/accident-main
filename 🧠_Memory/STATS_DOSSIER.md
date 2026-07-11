@@ -1,7 +1,8 @@
 <!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ STATS_DOSSIER.md ](.STATS_DOSSIER.md) -->
-
 ---
-format: Arial JUSTIFIED
+title: "Statistiques Générales du Dossier"
+description: "Le dossier comporte **62 fichiers .md** répartis dans les sous-dossiers :"
+type: memory
 ---
 
 # Statistiques Générales du Dossier
@@ -28,8 +29,8 @@ La chronologie détaillée est intégrée dans les actes (notamment `01_⚖️_A
 La cartographie des pièces totalise **44 pièces uniques** (liens Google Drive uniques).
 
 ## 5. Aspects Financiers
-- **Montant total estimé** : 59 600 €
-- **Plus gros poste d'indemnisation** : DFP (Déficit Fonctionnel Permanent) à 25 200 €
+- **Montant total estimé** : 85 000 € (compromis recommandé, fourchette 45 000-109 500 €)
+- **Plus gros poste d'indemnisation** : DFP (Déficit Fonctionnel Permanent) à 25 000 €
 
 ## 6. Parties Impliquées
 Le dossier référence les entités et acteurs suivants :

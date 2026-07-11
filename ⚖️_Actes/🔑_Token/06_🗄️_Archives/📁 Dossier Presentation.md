@@ -1,26 +1,22 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 📁 Dossier Presentation.md ](.📁 Dossier Presentation.md) -->
-
 ---
-titre: Dossier de Présentation destiné au Conseil Juridique
+title: "Dossier de Présentation destiné au Conseil Juridique"
+description: "Rédigé le **[J+32 Assignation référé]"
+type: archive
 date: 2026-06-30
-type: acte
-categorie: synthese
-auteur: La Victime
-destinataire: Conseil Juridique
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce (La SAS)
 tags:
   - présentation
   - synthèse
   - avocat
   - dossier
 statut: final
+destinataire: Conseil Juridique
+auteur: La Victime
+reel_path: ../../👤_Reel/06_🗄️_Archives/📁 Dossier Presentation.md
 source: drive
 drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/06_🗄️_Archives/📁 Dossier Presentation.md
 ---
+
 **Table des matières**
 
 - [INTRODUCTION](#introduction)

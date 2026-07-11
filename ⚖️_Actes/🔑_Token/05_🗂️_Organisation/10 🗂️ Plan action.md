@@ -1,27 +1,21 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 10 🗂️ Plan action.md ](.10 🗂️ Plan action.md) -->
-
 ---
-titre: Plan d'Action et Chronologie de la Procédure
+title: "Plan d'Action et Chronologie de la Procédure"
+description: "Rédigé le **[J+32 Assignation référé]"
+type: readme
 date: 2026-06-30
-type: acte
-categorie: organisation
-auteur: La Victime
-destinataire: null
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- La Victime
-- Le Chirurgien SOS Main
 tags:
-- plan
-- chronologie
-- procédure
-- stratégie
+  - plan
+  - chronologie
+  - procédure
+  - stratégie
 statut: final
+auteur: La Victime
+reel_path: ../../👤_Reel/05_🗂️_Organisation/10 🗂️ Plan action.md
 source: drive
 drive_id: 153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/05_🗂️_Organisation/10 🗂️ Plan action.md
 ---
+
 # PLAN D'ACTION ET CHRONOLOGIE DE LA PROCÉDURE
 Rédigé le **[J+32 Assignation référé]**
 

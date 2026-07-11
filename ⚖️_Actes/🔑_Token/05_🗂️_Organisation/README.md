@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "🗂️ Organisation"
+description: "Ce dossier centralise les outils de navigation et de pilotage du dossier : index général, plan d'action, calendrier."
+type: readme
+---
 
 # 🗂️ Organisation
 

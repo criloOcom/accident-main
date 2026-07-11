@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ DECISIONS.md ](.DECISIONS.md) -->
+---
+title: "DÉCISIONS CLÉS"
+description: "- Utiliser le bon français avec articles : `**[La Victime]**` PAS `**[Victime]**`"
+type: memory
+---
 
 # DÉCISIONS CLÉS
 

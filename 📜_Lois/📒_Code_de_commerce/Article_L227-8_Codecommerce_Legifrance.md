@@ -1,14 +1,11 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_de_commerce ](../README.md) > 📄 [ Article_L227-8_Codecommerce_Legifrance.md ](.Article_L227-8_Codecommerce_Legifrance.md) -->
-
 ---
 title: "Article L227-8 — Code de commerce"
-type: law_article
-code: "Code de commerce"
-article: "L227-8"
+description: "Code de commerce"
+type: loi
 legiarti: LEGIARTI000006227036
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036"
+code: Code de commerce
+article: L227-8
 ---
 
 # Article L227-8

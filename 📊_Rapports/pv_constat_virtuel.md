@@ -1,21 +1,16 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ pv_constat_virtuel.md ](.pv_constat_virtuel.md) -->
-
 ---
-titre: Procès-Verbal de Constat Virtuel (Cahier des charges)
+title: "Procès-Verbal de Constat Virtuel (Cahier des charges)"
+description: "Ce document décrit, en amont de la réalisation physique du constat, le déroulé précis et exhaustif des opérations de constatations matérielles requises au sein du salon de coiffure **[L'Exploitant du Commerce (La SAS)]** sis **[L'Adresse de l'Exploit"
+type: rapport
 date: 2026-06-30
-type: report
-categorie: huissier
-auteur: Huissier de Justice
-destinataire: La Victime
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce (La SAS)
 tags:
   - constat
   - huissier
   - preuves
 statut: final
-format: Arial JUSTIFIED
+destinataire: La Victime
+auteur: Huissier de Justice
 ---
 
 # PROCÈS-VERBAL DE CONSTAT VIRTUEL — CAHIER DES CHARGES DES OPÉRATIONS À MENER

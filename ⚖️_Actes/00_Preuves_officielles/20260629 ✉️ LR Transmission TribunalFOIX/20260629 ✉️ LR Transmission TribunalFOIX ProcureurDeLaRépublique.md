@@ -1,15 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Transmission TribunalFOIX ](../README.md) > 📄 [ 20260629 ✉️ LR Transmission TribunalFOIX ProcureurDeLaRépublique.md ](.20260629 ✉️ LR Transmission TribunalFOIX ProcureurDeLaRépublique.md) -->
-
 ---
-titre: Lettre Recommandée — Transmission Tribunal de FOIX au Procureur de la République
+title: "Lettre Recommandée — Transmission Tribunal de FOIX au Procureur de la République"
+description: "Document de type document"
+type: document
 date: 2026-06-29
-type: piece
-categorie: juridique
-emetteur: Sébastien GRAZIDE
-destinataire: Procureur de la République près le Tribunal Judiciaire de FOIX
-personnes:
-  - Sébastien GRAZIDE
-  - Procureur de la République
 tags:
   - LR
   - transmission
@@ -17,12 +11,9 @@ tags:
   - FOIX
   - procureur
 statut: original
+destinataire: Procureur de la République près le Tribunal Judiciaire de FOIX
 source: drive
 drive_id: 1wpqT0wnHd5uwwKDJb65w576jG9H9wYzm
-drive_url: https://drive.google.com/file/d/1wpqT0wnHd5uwwKDJb65w576jG9H9wYzm/view
-ocr: false
-pages: 1
-verifie: false
 ---
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**

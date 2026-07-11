@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_STABILISATION_GIT_20260711.md ](.RAPPORT_STABILISATION_GIT_20260711.md) -->
+---
+title: "Rapport de Stabilisation Git - 11 Juillet 2026"
+description: "Stabiliser la branche `main` sur GitHub en intégrant toutes les corrections et améliorations des différentes branches de développement, tout en résolvant les conflits et en assurant la cohérence du projet."
+type: rapport
+---
 
 # Rapport de Stabilisation Git - 11 Juillet 2026
 

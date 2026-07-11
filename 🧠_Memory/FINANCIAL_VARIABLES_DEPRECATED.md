@@ -1,8 +1,15 @@
-<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ FINANCIAL_VARIABLES.md ](.FINANCIAL_VARIABLES.md) -->
+<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ FINANCIAL_VARIABLES_DEPRECATED.md ](.FINANCIAL_VARIABLES_DEPRECATED.md) -->
+---
+title: "⚠ DÉPRÉCIÉ — VARIABLES FINANCIÈRES (voir STRICT VARIABLES.md)"
+description: "Ce fichier regroupe l'ensemble des montants financiers (provisions, préjudices Dintilhac, astreintes et dépens) pour le dossier de **[La Victime]**. Ces valeurs sont la référence unique du projet pour toutes les substitutions."
+type: memory
+---
 
-# VARIABLES FINANCIÈRES — Source Unique de Vérité
+# ⚠ DÉPRÉCIÉ — VARIABLES FINANCIÈRES
 
-Ce fichier regroupe l'ensemble des montants financiers (provisions, préjudices Dintilhac, astreintes et dépens) pour le dossier de **[La Victime]**. Ces valeurs sont la référence unique du projet pour toutes les substitutions.
+**Ce fichier est déprécié.** La Source Unique de Vérité est désormais `STRICT VARIABLES.md`, qui contient une section "Correspondance tokens financiers alternatifs `[Finance ...]`" reprenant l'intégralité de ce contenu.
+
+Conserver pour archive uniquement — ne plus utiliser.
 
 ---
 

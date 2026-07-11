@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_RISQUES.md ](.RAPPORT_AUDIT_RISQUES.md) -->
+---
+title: "RAPPORT D'AUDIT — MATRICE DES RISQUES JURIDIQUES ET PROCÉDURAUX"
+description: "Date :** 10 juillet 2026"
+type: rapport
+---
 
 # RAPPORT D'AUDIT — MATRICE DES RISQUES JURIDIQUES ET PROCÉDURAUX
 

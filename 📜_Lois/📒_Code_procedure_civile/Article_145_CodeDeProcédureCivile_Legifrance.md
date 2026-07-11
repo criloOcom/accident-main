@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_procedure_civile ](../README.md) > 📄 [ Article_145_CodeDeProcédureCivile_Legifrance.md ](.Article_145_CodeDeProcédureCivile_Legifrance.md) -->
-
 ---
-title: Code civil — Art. 145
-code: Code Procedure Civile
-article: 145
+title: "Code civil — Art. 145"
+description: "Code de procédure civile"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Code Procedure Civile
+article: 145
 ---
 
 # Code civil — Art. 145

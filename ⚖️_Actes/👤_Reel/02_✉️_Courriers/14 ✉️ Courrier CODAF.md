@@ -1,29 +1,22 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 14 ✉️ Courrier CODAF.md ](.14 ✉️ Courrier CODAF.md) -->
-
 ---
-titre: Signalement Officiel au CODAF - Version réelle
+title: "Signalement Officiel au CODAF - Version réelle"
+description: "Sébastien GRAZIDE"
+type: courrier
 date: 2026-07-05
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: CODAF de l'Ariege
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- La Directrice Generale de l'Exploitation
-- La Victime
-- Le President de l'Exploitation
-- Le Préposé de l'Exploitation
 tags:
-- CODAF
-- signalement
-- fraude
-- LRAR
+  - CODAF
+  - signalement
+  - fraude
+  - LRAR
 statut: final
+destinataire: CODAF de l'Ariege
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/14 ✉️ Courrier CODAF.md
 source: drive
 drive_id: 1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/14 ✉️ Courrier CODAF.md
 ---
+
 # SIGNALEMENT OFFICIEL AU COMITE DEPARTEMENTAL ANTI-FRAUDE DE L'ARIEGE
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac

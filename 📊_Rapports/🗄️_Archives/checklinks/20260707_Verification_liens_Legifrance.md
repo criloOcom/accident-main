@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ checklinks ](../README.md) > 📄 [ 20260707_Verification_liens_Legifrance.md ](.20260707_Verification_liens_Legifrance.md) -->
+---
+title: "Vérification des liens Légifrance"
+description: "| Lien | Statut |"
+type: rapport
+---
 
 # Vérification des liens Légifrance
 

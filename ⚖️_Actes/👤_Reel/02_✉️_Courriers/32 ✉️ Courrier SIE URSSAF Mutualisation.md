@@ -1,31 +1,23 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 32 ✉️ Courrier SIE URSSAF Mutualisation.md ](.32 ✉️ Courrier SIE URSSAF Mutualisation.md) -->
-
 ---
-titre: Demande de Surveillance Fiscale et Sociale Urgente - Version réelle
+title: "Demande de Surveillance Fiscale et Sociale Urgente - Version réelle"
+description: "Sébastien GRAZIDE"
+type: courrier
 date: 2026-07-09
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Service des Impôts des Entreprises de Foix et URSSAF Midi-Pyrenees
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- La Victime
-- Le President de l'Exploitation
-- La Président de l'Exploitation
-- Le Directrice Generale de l'Exploitation
-- La Directrice Générale de l'Exploitation
 tags:
-- SIE
-- URSSAF
-- mutualisation
-- fraude
-- LPF
-- LRAR
+  - SIE
+  - URSSAF
+  - mutualisation
+  - fraude
+  - LPF
+  - LRAR
 statut: projet
-source: local
-format: Arial JUSTIFIED
+destinataire: Service des Impôts des Entreprises de Foix et URSSAF Midi-Pyrenees
+auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/32 ✉️ Courrier SIE URSSAF Mutualisation.md
+source: local
 ---
+
 # DEMANDE DE MUTUALISATION FISCALE ET SOCIALE URGENTE
 
 Sébastien GRAZIDE

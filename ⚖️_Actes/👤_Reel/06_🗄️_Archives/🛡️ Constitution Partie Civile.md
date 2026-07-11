@@ -1,25 +1,21 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🛡️ Constitution Partie Civile.md ](.🛡️ Constitution Partie Civile.md) -->
-
 ---
-titre: Constitution de Partie Civile - Version réelle
+title: "Constitution de Partie Civile - Version réelle"
+description: "Rédigé le 30 juin 2026"
+type: archive
 date: 2026-06-30
-type: acte
-categorie: penale
-auteur: La Victime
-destinataire: Tribunal Correctionnel
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce (La SAS)
 tags:
   - constitution
   - partie civile
   - pénal
 statut: final
+destinataire: Tribunal Correctionnel
+auteur: La Victime
+reel_path: ../../👤_Reel/06_🗄️_Archives/🛡️ Constitution Partie Civile.md
 source: drive
 drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/06_🗄️_Archives/🛡️ Constitution Partie Civile.md
 ---
+
 **Table des matières**
 
 - [INTRODUCTION](#introduction)

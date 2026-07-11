@@ -1,26 +1,19 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md ](.36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md) -->
-
 ---
-titre: Plainte Complémentaire — Obstruction à la Justice et Dissimulation de Preuves - Version réelle
+title: "Plainte Complémentaire — Obstruction à la Justice et Dissimulation de Preuves - Version réelle"
+description: "Sébastien GRAZIDE"
+type: courrier
 date: 2026-07-11
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Commissariat de Police de Foix
-personnes:
-- La Victime
-- L'Exploitant du Commerce (La SAS)
-- Le Président de l'Exploitation
-- La Directrice Générale de l'Exploitation
 tags:
-- plainte
-- complémentaire
-- obstruction
-- dissimulation
-- preuves
-- police
+  - plainte
+  - complémentaire
+  - obstruction
+  - dissimulation
+  - preuves
+  - police
 statut: brouillon
-format: Arial JUSTIFIED
+destinataire: Commissariat de Police de Foix
+auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md
 ---
 

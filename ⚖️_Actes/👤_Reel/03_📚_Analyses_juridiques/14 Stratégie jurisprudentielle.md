@@ -1,24 +1,19 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 14 Stratégie jurisprudentielle.md ](.14 Stratégie jurisprudentielle.md) -->
-
 ---
-titre: Stratégie jurisprudentielle — Basculement vasque salon de coiffure - Version réelle
+title: "Stratégie jurisprudentielle — Basculement vasque salon de coiffure - Version réelle"
+description: "| Élément à prouver | Notre preuve | Arrêt de référence |"
+type: analyse_juridique
 date: 2026-07-07
-type: analyse
-categorie: strategie
-auteur: La Victime
-destinataire: null
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce (La SAS)
 tags:
   - jurisprudence
   - stratégie
   - cour de cassation
 statut: final
-source: local
-format: Arial JUSTIFIED
+auteur: La Victime
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/14 Stratégie jurisprudentielle.md
+source: local
 ---
+
 # STRATÉGIE JURISPRUDENTIELLE — BASCULEMENT VASQUE SALON DE COIFFURE
 
 > **Objet** : Mapping des arrêts de la Cour de cassation au cas concret, hiérarchie argumentative et préparation des débats.

@@ -1,30 +1,22 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 04 ✉️ Courrier Assureur.md ](.04 ✉️ Courrier Assureur.md) -->
-
 ---
-titre: Action Directe Assureur RC (Art. L.124-3 Code des assurances) - Version réelle
-  — Mise en Demeure
+title: "Action Directe Assureur RC (Art. L.124-3 Code des assurances) - Version réelle"
+description: "Sébastien GRAZIDE"
+type: courrier
 date: 2026-06-29
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- L'Établissement SOS Main
-- La Victime
-- Le Chirurgien SOS Main
-- Le Préposé de l'Exploitation
 tags:
-- action directe
-- assurance
-- mise en demeure
-- L.124-3
-statut: final
+  - action directe
+  - assurance
+  - mise en demeure
+  - L.124-3
+statut: projet
+destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/04 ✉️ Courrier Assureur.md
 source: drive
 drive_id: 14VIXTJK4n9eH66eVNZ6hJO6gLkiRBqnJpWijsDbkE2k
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/04 ✉️ Courrier Assureur.md
 ---
+
 # ACTION DIRECTE — MISE EN DEMEURE ASSUREUR RC
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac

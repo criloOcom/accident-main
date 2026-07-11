@@ -1,27 +1,18 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260618 🛡️ Assurance INFORMATION ](../README.md) > 📄 [ 20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement.md ](.20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement.md) -->
-
 ---
-titre: Document Assurance Maladie — Demande de Renseignement
+title: "Document Assurance Maladie — Demande de Renseignement"
+description: "Document de type document"
+type: document
 date: 2026-06-18
-type: piece
-categorie: administratif
-emetteur: Caisse Primaire d'Assurance Maladie (CPAM)
-destinataire: Dr Julie JARDON
-personnes:
-  - Sébastien GRAZIDE
-  - Dr Julie JARDON
 tags:
   - assurance maladie
   - CPAM
   - demande
   - renseignement
 statut: original
+destinataire: Dr Julie JARDON
 source: drive
 drive_id: 1XtFxLG3IsVBtTlF4bN7YeWxB3KZAEqBn
-drive_url: https://drive.google.com/file/d/1XtFxLG3IsVBtTlF4bN7YeWxB3KZAEqBn/view
-ocr: false
-pages: 3
-verifie: false
 ---
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**

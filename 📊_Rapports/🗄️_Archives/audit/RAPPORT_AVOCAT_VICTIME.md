@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_AVOCAT_VICTIME.md ](.RAPPORT_AVOCAT_VICTIME.md) -->
+---
+title: "Rapport d'Audit Juridique et Stratégique — Avocat de la Victime"
+description: "Dossier :** Sébastien GRAZIDE c/ SAS LES MAUVAIS GARÇONS et consorts"
+type: rapport
+---
 
 # Rapport d'Audit Juridique et Stratégique — Avocat de la Victime
 

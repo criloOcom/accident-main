@@ -1,27 +1,23 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 15 ✉️ Courrier SIE.md ](.15 ✉️ Courrier SIE.md) -->
-
 ---
-titre: Information de Litige au Service des Impots des Entreprises - Version réelle
+title: "Information de Litige au Service des Impots des Entreprises - Version réelle"
+description: "Sébastien GRAZIDE"
+type: courrier
 date: 2026-07-05
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Service des Impôts des Entreprises de Foix
-personnes:
-- La Victime
-- L'Exploitant du Commerce (La SAS)
 tags:
-- SIE
-- impot
-- information
-- litige
-- LRAR
-statut: final
+  - SIE
+  - impot
+  - information
+  - litige
+  - LRAR
+statut: projet
+destinataire: Service des Impôts des Entreprises de Foix
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/15 ✉️ Courrier SIE.md
 source: drive
 drive_id: 1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/15 ✉️ Courrier SIE.md
 ---
+
 # INFORMATION DE LITIGE AU SERVICE DES IMPOTS DES ENTREPRISES
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac

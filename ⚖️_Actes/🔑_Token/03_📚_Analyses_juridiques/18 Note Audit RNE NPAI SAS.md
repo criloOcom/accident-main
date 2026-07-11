@@ -1,14 +1,14 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 18 Note Audit RNE NPAI SAS.md ](.18 Note Audit RNE NPAI SAS.md) -->
-
 ---
-titre: Analyse — Non-réception LRAR et statut RNE de [L'Exploitant du Commerce (La SAS)]
+title: "Analyse — Non-réception LRAR et statut RNE de [L'Exploitant du Commerce (La SAS)]"
+description: "- Annuaire-entreprises.data.gouv.fr (INSEE)"
+type: analyse_juridique
 date: 2026-07-10
-type: analyse
-categorie: urgence
-auteur: La Victime
 statut: final
+auteur: La Victime
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/18 Note Audit RNE NPAI SAS.md
 ---
+
 # Analyse — Non-distribution LRAR et suspicion de structure miroir
 
 ## Sources vérifiées

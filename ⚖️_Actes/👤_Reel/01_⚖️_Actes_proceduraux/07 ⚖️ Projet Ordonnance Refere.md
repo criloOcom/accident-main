@@ -1,26 +1,20 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 07 ⚖️ Projet Ordonnance Refere.md ](.07 ⚖️ Projet Ordonnance Refere.md) -->
-
 ---
-titre: Projet d'Ordonnance de Référé - Version réelle
+title: "Projet d'Ordonnance de Référé - Version réelle"
+description: "Demandeur :"
+type: assignation
 date: 2026-07-31
-type: acte
-categorie: procedure
-auteur: Juge des Référés
-destinataire: Toutes les parties
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce (La SAS)
-  - Le Président de l'Exploitation
-  - La Directrice Générale de l'Exploitation
 tags:
   - référé
   - provision
   - article 835
   - article 145
 statut: final
-format: Arial JUSTIFIED
+destinataire: Toutes les parties
+auteur: Juge des Référés
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/07 ⚖️ Projet Ordonnance Refere.md
 ---
+
 # TRIBUNAL JUDICIAIRE DE [La Ville de l'Accident]
 
 ## ORDONNANCE DE RÉFÉRÉ DU 31 JUILLET 2026

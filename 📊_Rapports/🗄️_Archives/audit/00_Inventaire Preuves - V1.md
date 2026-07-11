@@ -1,15 +1,14 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ 00_Inventaire Preuves - V1.md ](.00_Inventaire Preuves - V1.md) -->
-
 ---
-titre: Inventaire des Preuves Officielles
+title: "Inventaire des Preuves Officielles"
+description: "| N° | Date | Description | Source | Lien Drive | Utilité juridique | Catégorie |"
+type: rapport
 date: 2026-07-06
-type: document
 tags:
   - inventaire
   - preuves
   - tribunal
 statut: draft
-format: Arial JUSTIFIED
 ---
 
 # Inventaire des Preuves Officielles

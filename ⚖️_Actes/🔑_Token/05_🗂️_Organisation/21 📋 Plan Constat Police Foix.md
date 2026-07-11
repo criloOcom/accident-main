@@ -1,9 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 21 📋 Plan Constat Police Foix.md ](.21 📋 Plan Constat Police Foix.md) -->
-
 ---
-reel_path: ../../👤_Reel/05_🗂️_Organisation/21 📋 Plan Constat Police Foix.md
+title: "Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)"
+description: "Ce plan analyse la possibilité juridique de demander au Maire de **[La Ville de l'Accident]** d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à **[L'Adresse de l'Exploitation]** , et définit la marche"
+type: readme
 statut: brouillon
+reel_path: ../../👤_Reel/05_🗂️_Organisation/21 📋 Plan Constat Police Foix.md
 ---
+
 # Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)
 
 Ce plan analyse la possibilité juridique de demander au Maire de **[La Ville de l'Accident]** d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à **[L'Adresse de l'Exploitation]** , et définit la marche à suivre pour votre courrier de demain matin.

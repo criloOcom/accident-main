@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "📒_Code_penal"
+description: "Dossier contenant les articles de loi relatifs à 📒_Code_penal."
+type: readme
+---
 
 # 📒_Code_penal
 

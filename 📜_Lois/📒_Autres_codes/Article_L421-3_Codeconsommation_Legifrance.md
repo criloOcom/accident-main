@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L421-3_Codeconsommation_Legifrance.md ](.Article_L421-3_Codeconsommation_Legifrance.md) -->
-
 ---
-title: Article L421-3
-code: Autres Codes
-article: L421
+title: "Article L421-3"
+description: "Code de la consommation"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Autres Codes
+article: L421
 ---
 
 # Article L421-3

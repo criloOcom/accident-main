@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_legiarti_actes.md ](.audit_legiarti_actes.md) -->
+---
+title: "Audit des LEGIARTI — Actes de procédure (01-17)"
+description: "Mission : M5 — Auditeur juridique"
+type: rapport
+---
 
 # Audit des LEGIARTI — Actes de procédure (01-17)
 

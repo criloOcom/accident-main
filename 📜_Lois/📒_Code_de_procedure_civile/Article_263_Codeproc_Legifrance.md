@@ -1,14 +1,11 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_de_procedure_civile ](../README.md) > 📄 [ Article_263_Codeproc_Legifrance.md ](.Article_263_Codeproc_Legifrance.md) -->
-
 ---
 title: "Article 263 — Code de procédure civile"
-type: law_article
-code: "Code de procédure civile"
-article: "263"
+description: "Code de procédure civile"
+type: loi
 legiarti: LEGIARTI000006410394
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410394"
+code: Code de procédure civile
+article: 263
 ---
 
 # Articles 263 et suivants

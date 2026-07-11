@@ -1,28 +1,22 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 07 ✉️ Courrier Consolidation.md ](.07 ✉️ Courrier Consolidation.md) -->
-
 ---
-titre: Demande de Certificat Medical de Consolidation au Chirurgien SOS Main
+title: "Demande de Certificat Medical de Consolidation au Chirurgien SOS Main"
+description: "[L'Adresse de la Victime]"
+type: courrier
 date: 2026-07-05
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Le Chirurgien SOS Main
-personnes:
-- L'Établissement SOS Main
-- La Victime
-- Le Chirurgien SOS Main
-- Le Médecin Généraliste
 tags:
-- certificat de consolidation
-- medical
-- expertise
-- DFP
+  - certificat de consolidation
+  - medical
+  - expertise
+  - DFP
 statut: final
+destinataire: Le Chirurgien SOS Main
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/07 ✉️ Courrier Consolidation.md
 source: drive
 drive_id: 1PSv6c0YFvLa0WDEbwc3AVxL14z7ARi5ne50ctJgCvWI
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/07 ✉️ Courrier Consolidation.md
 ---
+
 **Table des matieres**
 
 - [INTRODUCTION](#introduction)

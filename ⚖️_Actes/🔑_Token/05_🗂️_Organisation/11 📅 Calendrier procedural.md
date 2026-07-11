@@ -1,23 +1,17 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 11 📅 Calendrier procedural.md ](.11 📅 Calendrier procedural.md) -->
-
 ---
-titre: 11 Calendrier procedural - V1
-date: '2026-06-30'
-type: acte
-categorie: organisation
-auteur: La Victime
-destinataire: null
-personnes:
-- Le Président de l'Exploitation
-- La Directrice Générale de l'Exploitation
+title: "11 Calendrier procedural - V1"
+description: "| Date | ID | Événement | Catégorie | Statut |"
+type: readme
+date: 2026-06-30
 tags:
-- dossier
+  - dossier
 statut: final
-source: drive
-drive_id: ''
-format: Arial JUSTIFIED
+auteur: La Victime
 reel_path: ../../👤_Reel/05_🗂️_Organisation/11 📅 Calendrier procedural.md
+source: drive
 ---
+
 # 11 - CALENDRIER PROCÉDURAL
 ## I. ÉVÉNEMENTS PASSÉS
 | Date | ID | Événement | Catégorie | Statut |

@@ -1,14 +1,11 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_des_assurances ](../README.md) > 📄 [ Article_L113-2_Codesassurances_Legifrance.md ](.Article_L113-2_Codesassurances_Legifrance.md) -->
-
 ---
 title: "Article L113-2 — Code des assurances"
-type: law_article
-code: "Code des assurances"
-article: "L113-2"
+description: "Code des assurances"
+type: loi
 legiarti: LEGIARTI000035731302
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302"
+code: Code des assurances
+article: L113-2
 ---
 
 # Article L113-2

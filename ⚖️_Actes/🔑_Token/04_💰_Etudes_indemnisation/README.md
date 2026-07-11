@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "💰 Études d'Indemnisation"
+description: "Ce dossier contient l'évaluation financière des préjudices subis par la victime, selon la nomenclature Dintilhac."
+type: readme
+---
 
 <hr>
 

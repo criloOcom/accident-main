@@ -1,27 +1,20 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 99 🛡️ Memoire en defense adverse.md ](.99 🛡️ Memoire en defense adverse.md) -->
-
 ---
-titre: Mémoire en défense adverse — SAS Les Mauvais Garçons
+title: "Mémoire en défense adverse — SAS Les Mauvais Garçons"
+description: "Pour :** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** (Partie Défenderesse)"
+type: analyse_juridique
 date: 2026-07-09
-type: analyse
-categorie: procedure
-auteur: Avocat de la défense
-destinataire: La Victime
-personnes:
-  - L'Exploitant du Commerce (La SAS)
-  - Le Président de l'Exploitation
-  - La Directrice Générale de l'Exploitation
-  - La Victime
-  - Le Préposé de l'Exploitation
 tags:
   - défense
   - conclusions
   - provision
   - contestation
 statut: final
-format: Arial JUSTIFIED
+destinataire: La Victime
+auteur: Avocat de la défense
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/99 🛡️ Memoire en defense adverse.md
 ---
+
 # MÉMOIRE EN DÉFENSE ADVERSE
 **Pour :** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** (Partie Défenderesse)
 **Contre :** **[La Victime]** (Partie Demanderesse)

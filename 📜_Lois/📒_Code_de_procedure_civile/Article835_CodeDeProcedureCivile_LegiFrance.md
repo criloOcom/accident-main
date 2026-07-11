@@ -1,14 +1,11 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_de_procedure_civile ](../README.md) > 📄 [ Article835_CodeDeProcedureCivile_LegiFrance.md ](.Article835_CodeDeProcedureCivile_LegiFrance.md) -->
-
 ---
 title: "Article 835 — Code de procédure civile"
-type: law_article
-code: "Code de procédure civile"
-article: "835"
+description: "Code de procédure civile"
+type: loi
 legiarti: LEGIARTI000042597284
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284"
+code: Code de procédure civile
+article: 835
 ---
 
 # Code civil — Art. 835

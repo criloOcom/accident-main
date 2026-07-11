@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_JURIDIQUE.md ](.RAPPORT_AUDIT_JURIDIQUE.md) -->
+---
+title: "RAPPORT D'AUDIT JURIDIQUE"
+description: "Courriers examinés** (7) :"
+type: rapport
+---
 
 # RAPPORT D'AUDIT JURIDIQUE
 

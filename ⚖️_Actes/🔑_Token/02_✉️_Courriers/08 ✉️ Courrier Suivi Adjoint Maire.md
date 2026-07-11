@@ -1,26 +1,22 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 08 ✉️ Courrier Suivi Adjoint Maire.md ](.08 ✉️ Courrier Suivi Adjoint Maire.md) -->
-
 ---
-titre: Suivi Courrier Adjoint au Maire — Demande d'Information Inspection du Travail et CODAF
+title: "Suivi Courrier Adjoint au Maire — Demande d'Information Inspection du Travail et CODAF"
+description: "[L'Adresse de la Victime]"
+type: courrier
 date: 2026-07-05
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: L'Adjoint au Maire de la Commune
-personnes:
-  - La Victime
-  - L'Adjoint au Maire de la Commune
 tags:
   - inspection du travail
   - CODAF
   - prefecture
   - suivi
 statut: final
+destinataire: L'Adjoint au Maire de la Commune
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
 source: drive
 drive_id: 1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
 ---
+
 # SUIVI — DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF
 **[L'Adresse de la Victime]**
 

@@ -1,26 +1,17 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Demande ASSURANCE ](../README.md) > 📄 [ 20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU.md ](.20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU.md) -->
-
 ---
-titre: Lettre Recommandée — Mise en Demeure Bailleur Monsieur DELRIEU
+title: "Lettre Recommandée — Mise en Demeure Bailleur Monsieur DELRIEU"
+description: "Document de type document"
+type: document
 date: 2026-06-29
-type: piece
-categorie: juridique
-emetteur: Sébastien GRAZIDE
-destinataire: Monsieur DELRIEU (Bailleur)
-personnes:
-  - Sébastien GRAZIDE
-  - Monsieur DELRIEU
 tags:
   - LR
   - mise en demeure
   - bailleur
 statut: original
+destinataire: Monsieur DELRIEU (Bailleur)
 source: drive
 drive_id: 114JeqDjs9-0PRC_PHQrBxH1CZ3PoZgIv
-drive_url: https://drive.google.com/file/d/114JeqDjs9-0PRC_PHQrBxH1CZ3PoZgIv/view
-ocr: false
-pages: 1
-verifie: false
 ---
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**

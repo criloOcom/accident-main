@@ -1,26 +1,21 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 11 💰 Etude indemnisation.md ](.11 💰 Etude indemnisation.md) -->
-
 ---
-titre: Étude d'Indemnisation Maximale (Nomenclature Dintilhac) - Version réelle
+title: "Étude d'Indemnisation Maximale (Nomenclature Dintilhac) - Version réelle"
+description: "10 Avenue de Purpan, 31700 Blagnac <br>"
+type: etude_indemnisation
 date: 2026-06-30
-type: acte
-categorie: evaluation
-auteur: La Victime
-destinataire: null
-personnes:
-- La Victime
-- Le Préposé de l'Exploitation
 tags:
-- indemnisation
-- dintilhac
-- préjudice
-- évaluation
+  - indemnisation
+  - dintilhac
+  - préjudice
+  - évaluation
 statut: final
+auteur: La Victime
+reel_path: ../../👤_Reel/04_💰_Etudes_indemnisation/11 💰 Etude indemnisation.md
 source: drive
 drive_id: 1PiBFn1oA1DtkT61N-zvdPmsCYsmR0au9V4BA9IZzrH4
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/04_💰_Etudes_indemnisation/11 💰 Etude indemnisation.md
 ---
+
 # ÉTUDE D'INDEMNISATION MAXIMALE (NOMENCLATURE DINTILHAC)
 
 10 Avenue de Purpan, 31700 Blagnac <br>

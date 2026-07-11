@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "Index — 03_📚_Analyses_juridiques (Versions Réelles)"
+description: "- [07 🎤 Plaidoirie dirigeants.md](07 🎤 Plaidoirie dirigeants.md)"
+type: readme
+---
 
 # Index — 03_📚_Analyses_juridiques (Versions Réelles)
 

@@ -1,3 +1,9 @@
+---
+title: "Evaluation Datasets"
+description: "This directory contains evaluation datasets for testing agent behavior."
+type: readme
+---
+
 # Evaluation Datasets
 
 This directory contains evaluation datasets for testing agent behavior.

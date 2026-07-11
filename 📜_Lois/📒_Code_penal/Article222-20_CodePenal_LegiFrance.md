@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article222-20_CodePenal_LegiFrance.md ](.Article222-20_CodePenal_LegiFrance.md) -->
-
 ---
-title: Code pénal — Art. 222-20
-code: Code Penal
-article: Inconnu
+title: "Code pénal — Art. 222-20"
+description: "Code pénal"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Code Penal
+article: Inconnu
 ---
 
 # Code pénal — Art. 222-20

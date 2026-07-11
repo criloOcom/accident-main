@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_STRATEGIQUE.md ](.RAPPORT_AUDIT_STRATEGIQUE.md) -->
+---
+title: "RAPPORT D'AUDIT STRATÉGIQUE GLOBAL"
+description: "Mission** : Audit critique de la stratégie globale du projet accident-main"
+type: rapport
+---
 
 # RAPPORT D'AUDIT STRATÉGIQUE GLOBAL
 

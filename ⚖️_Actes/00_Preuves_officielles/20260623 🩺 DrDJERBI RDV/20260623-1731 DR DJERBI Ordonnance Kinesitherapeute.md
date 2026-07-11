@@ -1,13 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260623 🩺 DrDJERBI RDV ](../README.md) > 📄 [ 20260623-1731 DR DJERBI Ordonnance Kinesitherapeute.md ](.20260623-1731 DR DJERBI Ordonnance Kinesitherapeute.md) -->
-
 ---
-titre: Ordonnance de Kinésithérapie — Docteur DJERBI
+title: "Ordonnance de Kinésithérapie — Docteur DJERBI"
+description: "Document de type document"
+type: document
 date: 2026-06-23
-type: piece
-categorie: medical
-emetteur: Dr DJERBI
-personnes:
-  - Sébastien GRAZIDE
 tags:
   - ordonnance
   - kinésithérapie
@@ -15,10 +11,6 @@ tags:
 statut: original
 source: drive
 drive_id: 1t-DHwIZUyJgWwQGOAFHtNvNC2xVtMozp
-drive_url: https://drive.google.com/file/d/1t-DHwIZUyJgWwQGOAFHtNvNC2xVtMozp/view
-ocr: true
-pages: 2
-verifie: false
 ---
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**

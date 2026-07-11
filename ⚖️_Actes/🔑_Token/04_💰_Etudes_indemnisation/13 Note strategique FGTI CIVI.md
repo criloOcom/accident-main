@@ -1,21 +1,20 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 13 Note strategique FGTI CIVI.md ](.13 Note strategique FGTI CIVI.md) -->
-
 ---
-titre: Note stratégique FGTI/CIVI
+title: "Note stratégique FGTI/CIVI"
+description: "Les conditions posées par l'article 706-3 du Code de procédure pénale sont intégralement remplies :"
+type: etude_indemnisation
 date: 2026-07-08
-type: note
-categorie: stratégie
-auteur: Expert FGTI/CIVI
-destinataire: La Victime
 tags:
   - FGTI
   - CIVI
   - indemnisation
   - stratégie
 statut: brouillon
-format: Arial JUSTIFIED
+destinataire: La Victime
+auteur: Expert FGTI/CIVI
 reel_path: ../../👤_Reel/04_💰_Etudes_indemnisation/13 Note strategique FGTI CIVI.md
 ---
+
 # NOTE STRATÉGIQUE FGTI/CIVI
 
 ## 1. CONDITIONS D'ACCÈS AU FGTI (Art. 706-3 CPP)

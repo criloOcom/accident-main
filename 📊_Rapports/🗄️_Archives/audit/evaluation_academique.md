@@ -1,14 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ evaluation_academique.md ](.evaluation_academique.md) -->
-
 ---
-titre: Évaluation académique et juridique du dossier
+title: "Évaluation académique et juridique du dossier"
+description: "NOTE GLOBALE : B+ (14/20)"
+type: rapport
 date: 2026-07-08
-type: audit
-categorie: evaluation
-auteur: Professeur de Droit
-destinataire: La Victime
 statut: final
-format: Arial JUSTIFIED
+destinataire: La Victime
+auteur: Professeur de Droit
 ---
 
 # ÉVALUATION ACADÉMIQUE ET JURIDIQUE DU DOSSIER

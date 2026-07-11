@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ JULES_MCP_GUIDELINES.md ](.JULES_MCP_GUIDELINES.md) -->
+---
+title: "Directives et Bonnes Pratiques d'Orchestration avec Google Jules MCP"
+description: "Ce document consigne les règles permanentes apprises de la documentation de blog et des retours d'expérience sur la connexion des agents autonomes d'édition au dépôt Git."
+type: memory
+---
 
 # Directives et Bonnes Pratiques d'Orchestration avec Google Jules MCP
 

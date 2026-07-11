@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "📁 Actes — Dossier Contentieux"
+description: "Bienvenue dans le dossier central du contentieux. Ce dossier repose sur une **double strate** : des versions anonymisées pour le travail courant, et des versions réelles pour l'impression et l'envoi."
+type: readme
+---
 
 # 📁 Actes — Dossier Contentieux
 

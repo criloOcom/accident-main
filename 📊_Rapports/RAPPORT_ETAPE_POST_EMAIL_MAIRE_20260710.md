@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md ](.RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md) -->
+---
+title: "RAPPORT D'ÉTAPE - Post Email Maire Foix (Document 34)"
+description: "Date:** 10 juillet 2026"
+type: rapport
+---
 
 # RAPPORT D'ÉTAPE - Post Email Maire Foix (Document 34)
 

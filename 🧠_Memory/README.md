@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "🧠 Mémoire du Projet"
+description: "Ce dossier contient les documents de référence, les variables strictes, et la mémoire institutionnelle du projet accident-main."
+type: readme
+---
 
 # 🧠 Mémoire du Projet
 
@@ -17,9 +22,3 @@ Ce dossier contient les documents de référence, les variables strictes, et la 
 
 - **RAPPORT_JURISPRUDENCES.md** - Analyse des jurisprudences citées
 - **RAPPORT_AUDIT_*.md** - Rapports d'audit technique
-
-## 🔗 Navigation
-
-- [Retour à l'accueil](../README.md)
-- [Actes procéduraux](../⚖️_Actes/README.md)
-- [Textes de loi](../📜_Lois/README.md)

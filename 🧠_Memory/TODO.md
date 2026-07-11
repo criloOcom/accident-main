@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ TODO.md ](.TODO.md) -->
+---
+title: "TODO — Plans d'action + Tableau de bord Sébastien"
+description: "- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → `📊_Rapports/RAPPORT_AUDIT_RISQUES.md`"
+type: memory
+---
 
 # TODO — Plans d'action + Tableau de bord Sébastien
 

@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_1844-8_Code_Legifrance.md ](.Article_1844-8_Code_Legifrance.md) -->
-
 ---
-title: Article 1844-8
-code: Autres Codes
-article: 1844
+title: "Article 1844-8"
+description: "Code civil"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Autres Codes
+article: 1844
 ---
 
 # Article 1844-8

@@ -1,13 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260530 🆘 SOSMain ](../README.md) > 📄 [ 20260530 CR Opératoire RapportInterventionMainDroite.md ](.20260530 CR Opératoire RapportInterventionMainDroite.md) -->
-
 ---
-titre: Compte Rendu Opératoire — Rapport d'Intervention Main Droite
+title: "Compte Rendu Opératoire — Rapport d'Intervention Main Droite"
+description: "Document de type document"
+type: document
 date: 2026-05-30
-type: piece
-categorie: medical
-emetteur: Dr Julie JARDON
-personnes:
-  - Sébastien GRAZIDE
 tags:
   - compte rendu opératoire
   - intervention
@@ -15,10 +11,6 @@ tags:
 statut: original
 source: drive
 drive_id: 1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9
-drive_url: https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view
-ocr: false
-pages: 3
-verifie: false
 ---
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**

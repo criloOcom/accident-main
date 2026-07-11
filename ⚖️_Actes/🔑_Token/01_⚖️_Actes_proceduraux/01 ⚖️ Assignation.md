@@ -1,22 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 01 ⚖️ Assignation.md ](.01 ⚖️ Assignation.md) -->
-
 ---
-titre: Assignation en Référé-Provision et Demande d'Expertise Médicale
+title: "Assignation en Référé-Provision et Demande d'Expertise Médicale"
+description: "Rédigé le **[J+32 Assignation référé]"
+type: assignation
 date: 2026-06-30
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Tribunal Judiciaire de la Ville de l'Accident
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- Le Président de l'Exploitation
-- La Directrice Générale de l'Exploitation
-- L'Établissement SOS Main
-- La Victime
-- Le Chirurgien SOS Main
-- Le Médecin en Urgence
-- Le Préposé de l'Exploitation
-- Nom de l'Avocat de la Victime
 tags:
   - assignation
   - référé
@@ -24,11 +11,13 @@ tags:
   - expertise médicale
   - article 145
 statut: final
+destinataire: Tribunal Judiciaire de la Ville de l'Accident
+auteur: La Victime
+reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md
 source: drive
 drive_id: 1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md
 ---
+
 # ASSIGNATION EN RÉFÉRÉ-PROVISION ET DEMANDE D'EXPERTISE MÉDICALE
 Rédigé le **[J+32 Assignation référé]**
 

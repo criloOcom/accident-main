@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "📊 Rapports et Analyses"
+description: "Ce dossier contient tous les rapports générés, analyses et documents de suivi du projet."
+type: readme
+---
 
 # 📊 Rapports et Analyses
 
@@ -23,8 +28,3 @@ Ce dossier contient tous les rapports générés, analyses et documents de suivi
 - **RAPPORT_AUDIT_*.md** - Audits techniques complets
 - **RAPPORT_ORGANISATION_*.md** - Organisation et structure
 - **RAPPORT_JURIDIQUE_*.md** - Analyses juridiques
-
-## 🔗 Navigation
-
-- [Retour à l'accueil](../README.md)
-- [Mémoire du projet](../🧠_Memory/README.md)

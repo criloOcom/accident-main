@@ -1,26 +1,22 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 21 🔄 Relance CPAM.md ](.21 🔄 Relance CPAM.md) -->
-
 ---
-titre: Relance CPAM — Suivi du Dossier de Recours Contre Tiers
+title: "Relance CPAM — Suivi du Dossier de Recours Contre Tiers"
+description: "[L'Adresse de la Victime]"
+type: courrier
 date: 2026-07-05
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: CPAM Haute-Garonne
-personnes:
-- La Victime
-- L'Exploitant du Commerce (La SAS)
 tags:
-- CPAM
-- recours contre tiers
-- suivi
-- email
+  - CPAM
+  - recours contre tiers
+  - suivi
+  - email
 statut: final
+destinataire: CPAM Haute-Garonne
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/21 🔄 Relance CPAM.md
 source: drive
 drive_id: 1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/21 🔄 Relance CPAM.md
 ---
+
 # RELANCE CPAM — SUIVI DU DOSSIER DE RECOURS CONTRE TIERS
 **[L'Adresse de la Victime]**
 

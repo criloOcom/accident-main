@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L121-1a121-7_Code_Legifrance.md ](.Article_L121-1a121-7_Code_Legifrance.md) -->
-
 ---
-title: Articles 121-1 à 121-7
-code: Autres Codes
-article: L121
+title: "Articles 121-1 à 121-7"
+description: "Code pénal"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Autres Codes
+article: L121
 ---
 
 # Articles 121-1 à 121-7

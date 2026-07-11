@@ -1,22 +1,18 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md ](.37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md) -->
-
 ---
-titre: Guide de Dialogue — Échanges avec la Police de Foix - Version réelle
+title: "Guide de Dialogue — Échanges avec la Police de Foix - Version réelle"
+description: "Objectif :** Ce guide vous accompagne pas à pas lors de votre déplacement au commissariat de Foix. Il contient les phrases clés à utiliser, les questions à poser, les réponses aux objections possibles, et la stratégie pour présenter efficacement votr"
+type: courrier
 date: 2026-07-11
-type: guide
-categorie: procedure
-auteur: La Victime
-destinataire: Commissariat de Police de Foix
-personnes:
-- La Victime
 tags:
-- guide
-- dialogue
-- police
-- plainte
-- procedure
+  - guide
+  - dialogue
+  - police
+  - plainte
+  - procedure
 statut: final
-format: Arial JUSTIFIED
+destinataire: Commissariat de Police de Foix
+auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md
 ---
 

@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_VALIDATION_URLS_20260711.md ](.RAPPORT_VALIDATION_URLS_20260711.md) -->
+---
+title: "📊 Rapport de Validation des URLs Légifrance"
+description: "Date :** 11 juillet 2026"
+type: rapport
+---
 
 # 📊 Rapport de Validation des URLs Légifrance
 

@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_314-7_CodePenal_Legifrance.md ](.Article_314-7_CodePenal_Legifrance.md) -->
-
 ---
-title: Article 314-7 du Code pénal
-code: Code Penal
-article: 314
+title: "Article 314-7 du Code pénal"
+description: "Identifiant Légifrance :** LEGIARTI000006418226"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Code Penal
+article: 314
 ---
 
 # Article 314-7 du Code pénal

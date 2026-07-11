@@ -1,3 +1,10 @@
+<!-- [🏠](../README.md) > 📁 [ .dev ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "🛠️ Environnement de Développement"
+description: "Ce dossier contient le code, les scripts et les outils de développement du projet."
+type: readme
+---
+
 # 🛠️ Environnement de Développement
 
 Ce dossier contient le code, les scripts et les outils de développement du projet.
@@ -39,7 +46,3 @@ source .dev/.venv/bin/activate
 python3 script.py
 ```
 
-## 🔗 Navigation
-
-- [Retour à l'accueil](../README.md)
-- [Documentation technique](../README.md#développement)

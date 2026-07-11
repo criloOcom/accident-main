@@ -1,27 +1,22 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 12 ✉️ Courrier URSSAF.md ](.12 ✉️ Courrier URSSAF.md) -->
-
 ---
-titre: Signalement de Travail Dissimule Presume
+title: "Signalement de Travail Dissimule Presume"
+description: "[L'Adresse de la Victime]"
+type: courrier
 date: 2026-07-05
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: URSSAF Midi-Pyrenees
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- La Victime
-- Le Préposé de l'Exploitation
 tags:
-- URSSAF
-- travail dissimule
-- signalement
-- LRAR
+  - URSSAF
+  - travail dissimule
+  - signalement
+  - LRAR
 statut: final
+destinataire: URSSAF Midi-Pyrenees
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/12 ✉️ Courrier URSSAF.md
 source: drive
 drive_id: 1LdLfCnWLiD2v1N1SMF3FAeh681znM0kXOrAlBXeOe8w
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/12 ✉️ Courrier URSSAF.md
 ---
+
 # SIGNALEMENT DE TRAVAIL DISSIMULE PRESUME
 **[L'Adresse de la Victime]**
 

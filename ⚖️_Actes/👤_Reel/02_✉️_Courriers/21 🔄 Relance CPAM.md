@@ -1,26 +1,22 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 21 🔄 Relance CPAM.md ](.21 🔄 Relance CPAM.md) -->
-
 ---
-titre: Relance CPAM — Suivi du Dossier de Recours Contre Tiers - Version réelle
+title: "Relance CPAM — Suivi du Dossier de Recours Contre Tiers - Version réelle"
+description: "Sébastien GRAZIDE"
+type: courrier
 date: 2026-07-05
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: CPAM Haute-Garonne
-personnes:
-- La Victime
-- L'Exploitant du Commerce (La SAS)
 tags:
-- CPAM
-- recours contre tiers
-- suivi
-- email
-statut: final
+  - CPAM
+  - recours contre tiers
+  - suivi
+  - email
+statut: projet
+destinataire: CPAM Haute-Garonne
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/21 🔄 Relance CPAM.md
 source: drive
 drive_id: 1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/21 🔄 Relance CPAM.md
 ---
+
 # RELANCE CPAM — SUIVI DU DOSSIER DE RECOURS CONTRE TIERS
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac

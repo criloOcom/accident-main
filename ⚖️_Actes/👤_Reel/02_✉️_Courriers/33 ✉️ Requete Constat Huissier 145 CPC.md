@@ -1,29 +1,23 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 33 ✉️ Requete Constat Huissier 145 CPC.md ](.33 ✉️ Requete Constat Huissier 145 CPC.md) -->
-
 ---
-titre: Requête au Président du TJ aux Fins de Constat d'Huissier (Art. 145 CPC) - Version réelle
+title: "Requête au Président du TJ aux Fins de Constat d'Huissier (Art. 145 CPC) - Version réelle"
+description: "AUX FINS DE DESIGNATION D'HUISSIER DE JUSTICE POUR CONSTAT"
+type: courrier
 date: 2026-07-09
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Président du Tribunal Judiciaire de Foix
-personnes:
-- La Victime
-- L'Exploitant du Commerce (La SAS)
-- Le President de l'Exploitation
-- La Directrice Generale de l'Exploitation
 tags:
-- requete
-- constat
-- huissier
-- article 145 CPC
-- urgence
-- TJ
+  - requete
+  - constat
+  - huissier
+  - article 145 CPC
+  - urgence
+  - TJ
 statut: projet
-source: local
-format: Arial JUSTIFIED
+destinataire: Président du Tribunal Judiciaire de Foix
+auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/33 ✉️ Requete Constat Huissier 145 CPC.md
+source: local
 ---
+
 # REQUETE AU PRESIDENT DU TRIBUNAL JUDICIAIRE DE Foix
 
 **AUX FINS DE DESIGNATION D'HUISSIER DE JUSTICE POUR CONSTAT**

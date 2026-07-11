@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_434-15-1_CodePenal_Legifrance.md ](.Article_434-15-1_CodePenal_Legifrance.md) -->
+---
+title: "Article 434-15-1 du Code pénal"
+description: "Dernière mise à jour :** 10 juillet 2026"
+type: loi
+---
 
 # Article 434-15-1 du Code pénal
 

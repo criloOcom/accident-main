@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 🚦_Status ](../README.md) > 📄 [ 01_PREPARATION.md ](.01_PREPARATION.md) -->
+---
+title: "📋 Préparation"
+description: "Documents en cours de rédaction ou en projet — statuts brouillon, projet, fusionné."
+type: status
+---
 
 # 📋 Préparation
 

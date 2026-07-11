@@ -1,15 +1,15 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md ](.34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md) -->
-
 ---
-titre: Email définitif à l'Adjoint au Maire de **[La Ville de l'Accident]** — Éléments d'actualisation sur le dossier ERP
+title: "Email définitif à l'Adjoint au Maire de **[La Ville de l'Accident]** — Éléments d'actualisation sur le dossier ERP"
+description: "Destinataire** : `**[L'Email de l'Adjoint au Maire]**`"
+type: courrier
 date: 2026-07-10
-type: email
-categorie: urgence
-auteur: La Victime
-destinataire: Adjoint au Maire de **[La Ville de l'Accident]** (**[L'Adjoint au Maire de la Commune]**)
 statut: brouillon
+destinataire: Adjoint au Maire de **[La Ville de l'Accident]** (**[L'Adjoint au Maire de la Commune]**)
+auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md
 ---
+
 # EMAIL — Éléments d'actualisation sur le dossier ERP (**[L'Adresse de l'Exploitation]**)
 
 **Destinataire** : `**[L'Email de l'Adjoint au Maire]**`

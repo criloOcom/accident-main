@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_procedure_penale ](../README.md) > 📄 [ Article475-1_CodeProcedurePenale.md ](.Article475-1_CodeProcedurePenale.md) -->
-
 ---
-title: Code pénal — Art. 475-1
-code: Code Procedure Penale
-article: Inconnu
+title: "Code pénal — Art. 475-1"
+description: "Code de procédure pénale"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Code Procedure Penale
+article: Inconnu
 ---
 
 # Code pénal — Art. 475-1

@@ -1,12 +1,10 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ evaluation_rc_pro_relance_v2.md ](.evaluation_rc_pro_relance_v2.md) -->
-
 ---
-titre: Rapport d'Expertise - Analyse du Courrier de Relance (V2)
-date: 2024-05-18
+title: "Rapport d'Expertise - Analyse du Courrier de Relance (V2)"
+description: "Document de type rapport"
 type: rapport
-categorie: expertise
+date: 2024-05-18
 auteur: Avocat Spécialiste en Réparation du Préjudice Corporel
-format: Arial JUSTIFIED
 ---
 
 <div style="font-family: Arial, sans-serif; text-align: justify;">

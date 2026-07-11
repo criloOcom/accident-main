@@ -1,18 +1,16 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ recommandations_urgentes.md ](.recommandations_urgentes.md) -->
-
 ---
-titre: Recommandations Urgentes et Priorisation des Actions
+title: "Recommandations Urgentes et Priorisation des Actions"
+description: "Ordre de priorité des opérations pour la sauvegarde des preuves."
+type: rapport
 date: 2026-06-30
-type: report
-categorie: huissier
-auteur: Huissier de Justice
-destinataire: La Victime
 tags:
   - urgence
   - recommandations
   - preuves
 statut: final
-format: Arial JUSTIFIED
+destinataire: La Victime
+auteur: Huissier de Justice
 ---
 
 # RECOMMANDATIONS URGENTES DE L'HUISSIER DE JUSTICE

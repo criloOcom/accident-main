@@ -1,21 +1,20 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 26 📧 Attestation Temoin Client.md ](.26 📧 Attestation Temoin Client.md) -->
-
 ---
-titre: Email Transmission Attestation Témoin Client - Version réelle
+title: "Email Transmission Attestation Témoin Client - Version réelle"
+description: "Objet : Attestation de témoin — Accident du 29 mai 2026 au salon 22 Rue Lafaurie, 09000 Foix"
+type: courrier
 date: 2026-07-06
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Témoin client présent le 29 mai 2026
 tags:
-- email
-- attestation
-- temoin
+  - email
+  - attestation
+  - temoin
 statut: brouillon
-source: local
-format: Arial JUSTIFIED
+destinataire: Témoin client présent le 29 mai 2026
+auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/26 📧 Attestation Temoin Client.md
+source: local
 ---
+
 # TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (CLIENT)
 Objet : Attestation de témoin — Accident du 29 mai 2026 au salon 22 Rue Lafaurie, 09000 Foix
 

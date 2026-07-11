@@ -1,13 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ Article835_CodeDeProcedureCivile_LegiFrance.md ](.Article835_CodeDeProcedureCivile_LegiFrance.md) -->
-
 ---
-title: Code civil — Art. 835
-code: Code Procedure Civile
-article: Inconnu
+title: "Code civil — Art. 835"
+description: "Code de procédure civile"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
-url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006438600
+code: Code Procedure Civile
+article: Inconnu
 ---
 
 # Code civil — Art. 835

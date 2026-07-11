@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_ASSUREUR.md ](.RAPPORT_ASSUREUR.md) -->
+---
+title: "RAPPORT D'AUDIT JURIDIQUE ET ASSURANTIEL"
+description: "Dossier d'Accident Corporel — M. Sébastien GRAZIDE"
+type: rapport
+---
 
 # RAPPORT D'AUDIT JURIDIQUE ET ASSURANTIEL
 

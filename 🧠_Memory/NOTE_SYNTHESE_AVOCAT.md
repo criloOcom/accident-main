@@ -1,7 +1,8 @@
 <!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ NOTE_SYNTHESE_AVOCAT.md ](.NOTE_SYNTHESE_AVOCAT.md) -->
-
 ---
-format: Arial JUSTIFIED
+title: "Note de Synthèse pour Avocat"
+description: "<hr><hr>"
+type: memory
 ---
 
 # Note de Synthèse pour Avocat

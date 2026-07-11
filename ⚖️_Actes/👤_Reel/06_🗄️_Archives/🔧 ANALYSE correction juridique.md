@@ -1,25 +1,21 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🔧 ANALYSE correction juridique.md ](.🔧 ANALYSE correction juridique.md) -->
-
 ---
-titre: Mémorandum Juridique — Audit Stratégique et Restructuration Contentieuse - Version réelle
+title: "Mémorandum Juridique — Audit Stratégique et Restructuration Contentieuse - Version réelle"
+description: "Rédigé le 30 juin 2026"
+type: archive
 date: 2026-06-30
-type: acte
-categorie: analyse
-auteur: La Victime
-destinataire: null
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce (La SAS)
 tags:
   - audit
   - correction
   - stratégie
   - juridique
 statut: final
+auteur: La Victime
+reel_path: ../../👤_Reel/06_🗄️_Archives/🔧 ANALYSE correction juridique.md
 source: drive
 drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
-reel_path: ../../👤_Reel/06_🗄️_Archives/🔧 ANALYSE correction juridique.md
 ---
+
 **Table des matières**
 
 - [INTRODUCTION](#introduction)

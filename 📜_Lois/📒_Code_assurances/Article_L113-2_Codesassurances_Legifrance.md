@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_assurances ](../README.md) > 📄 [ Article_L113-2_Codesassurances_Legifrance.md ](.Article_L113-2_Codesassurances_Legifrance.md) -->
-
 ---
-title: Article L113-2
-code: Autres Codes
-article: L113
+title: "Article L113-2"
+description: "Code des assurances"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Autres Codes
+article: L113
 ---
 
 # Article L113-2

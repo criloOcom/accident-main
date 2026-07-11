@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ correction_juritext_05.md ](.correction_juritext_05.md) -->
+---
+title: "Rapport de correction — JURITEXT erronés"
+description: "Fichier corrigé :** `⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/05 🎯 Conclusions Refere.md`"
+type: rapport
+---
 
 # Rapport de correction — JURITEXT erronés
 

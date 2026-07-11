@@ -1,28 +1,23 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 20 🔄 Relance Police.md ](.20 🔄 Relance Police.md) -->
-
 ---
-titre: Relance Police Nationale — Suivi de Plainte et Demande de Videos
+title: "Relance Police Nationale — Suivi de Plainte et Demande de Videos"
+description: "[L'Adresse de la Victime]"
+type: courrier
 date: 2026-07-05
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Police Nationale de **[La Ville de l'Accident]**
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- La Victime
-- Le Préposé de l'Exploitation
 tags:
-- police
-- relance
-- plainte
-- videosurveillance
-- email
+  - police
+  - relance
+  - plainte
+  - videosurveillance
+  - email
 statut: final
+destinataire: Police Nationale de **[La Ville de l'Accident]**
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/20 🔄 Relance Police.md
 source: drive
 drive_id: 171CF_LzNopYxIS6Tn4i3t3Ghx3ut14F1gh6-KjHevCA
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/20 🔄 Relance Police.md
 ---
+
 # RELANCE POLICE NATIONALE — SUIVI DE PLAINTE ET DEMANDE DE VIDEOS
 **[L'Adresse de la Victime]**
 

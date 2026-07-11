@@ -1,28 +1,20 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🧠 STRATEGIE Contentieux Civil.md ](.🧠 STRATEGIE Contentieux Civil.md) -->
-
 ---
-titre: STRATEGIE Contentieux Civil
+title: "STRATEGIE Contentieux Civil"
+description: "Rédigé le **[J+36 Lettre consolidation]"
+type: archive
 date: 2026-07-04
-type: acte
-categorie: strategie
-auteur: La Victime
-destinataire: null
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce (La SAS)
-  - Le Président de l'Exploitation
-  - La Directrice Générale de l'Exploitation
 tags:
   - stratégie
   - contentieux
   - civil
   - procédure
 statut: final
-source: drive
-drive_id: null
-format: Arial JUSTIFIED
+auteur: La Victime
 reel_path: ../../👤_Reel/06_🗄️_Archives/🧠 STRATEGIE Contentieux Civil.md
+source: drive
 ---
+
 **Table des matières**
 
 - [1. PRÉSENTATION](#1-prsentation)

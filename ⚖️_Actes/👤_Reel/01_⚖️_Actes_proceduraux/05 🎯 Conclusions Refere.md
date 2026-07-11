@@ -1,15 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 05 🎯 Conclusions Refere.md ](.05 🎯 Conclusions Refere.md) -->
-
 ---
-titre: Conclusions Référé Provision (version Glose) - Version réelle
+title: "Conclusions Référé Provision (version Glose) - Version réelle"
+description: "POUR :"
+type: assignation
 date: 2026-07-07
-type: acte_procedural
-categorie: contentieux
-auteur: La Victime
-destinataire: Juge des Référés du Tribunal Judiciaire
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce (La SAS)
 tags:
   - conclusions
   - référé
@@ -18,9 +12,11 @@ tags:
   - art.145 CPC
   - version Glose
 statut: final
-format: Arial JUSTIFIED
+destinataire: Juge des Référés du Tribunal Judiciaire
+auteur: La Victime
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/05 🎯 Conclusions Refere.md
 ---
+
 # AU JUGE DES RÉFÉRÉS DU TRIBUNAL JUDICIAIRE
 ## DEMANDE D'ORDONNANCE DE RÉFÉRÉ-PROVISION ET DE MESURES D'INSTRUCTION EN APPLICATION DES ARTICLES 835 ET 145 DU CODE DE PROCÉDURE CIVILE
 ---

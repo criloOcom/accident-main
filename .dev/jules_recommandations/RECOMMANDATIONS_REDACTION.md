@@ -1,3 +1,9 @@
+---
+title: "Recommandations pour la Rédaction des Actes Juridiques"
+description: "Ce document compile les recommandations issues de recherches web et de l'analyse du dossier `⚖️_Actes/` afin d'améliorer la qualité, le professionnalisme et la clarté des actes juridiques produits (assignations, constitutions de partie civile, etc.)."
+type: readme
+---
+
 # Recommandations pour la Rédaction des Actes Juridiques
 
 ## Introduction

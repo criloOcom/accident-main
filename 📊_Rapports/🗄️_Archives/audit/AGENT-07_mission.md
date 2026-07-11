@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AGENT-07_mission.md ](.AGENT-07_mission.md) -->
+---
+title: "RAPPORT D'AUDIT SUR LA RESPONSABILITÉ CIVILE ET PÉNALE DES DIRIGEANTS DE LA SAS"
+description: "Date de l'audit** : 6 Juillet 2026"
+type: rapport
+---
 
 # RAPPORT D'AUDIT SUR LA RESPONSABILITÉ CIVILE ET PÉNALE DES DIRIGEANTS DE LA SAS
 

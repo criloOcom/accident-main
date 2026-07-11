@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260708 ✉️ LR Relance ASSURANCE ](../README.md) > 📄 [ 06 V2 ✉️ Relance Dirigeants - Réel.md ](.06 V2 ✉️ Relance Dirigeants - Réel.md) -->
+---
+title: "RELANCE — DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE"
+description: "Mr Sébastien GRAZIDE"
+type: document
+---
 
 # RELANCE — DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE
 

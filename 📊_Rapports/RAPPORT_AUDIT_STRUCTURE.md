@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_STRUCTURE.md ](.RAPPORT_AUDIT_STRUCTURE.md) -->
+---
+title: "RAPPORT D'AUDIT DE STRUCTURE"
+description: "Date :** 10 juillet 2026"
+type: rapport
+---
 
 # RAPPORT D'AUDIT DE STRUCTURE
 

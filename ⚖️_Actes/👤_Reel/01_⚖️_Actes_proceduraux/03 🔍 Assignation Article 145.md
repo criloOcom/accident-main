@@ -1,31 +1,23 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 03 🔍 Assignation Article 145.md ](.03 🔍 Assignation Article 145.md) -->
-
 ---
-titre: Assignation en Refere Article 145 CPC — Communication Police d'Assurance RC - Version réelle
+title: "Assignation en Refere Article 145 CPC — Communication Police d'Assurance RC - Version réelle"
+description: "10 Avenue de Purpan, 31700 Blagnac <br>"
+type: assignation
 date: 2026-07-05
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Tribunal Judiciaire de la Ville de l'Accident
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- La Directrice Générale de l'Exploitation
-- La Victime
-- Le Propriétaire des Murs
-- Le Préposé de l'Exploitation
-- Le Président de l'Exploitation
 tags:
-- assignation
-- refere
-- article 145
-- assurance
-- astreinte
+  - assignation
+  - refere
+  - article 145
+  - assurance
+  - astreinte
 statut: fusionné_dans_01
+destinataire: Tribunal Judiciaire de la Ville de l'Accident
+auteur: La Victime
+reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/03 🔍 Assignation Article 145.md
 source: drive
 drive_id: 1R26179ks7vLkzw0hYEHL888i0p1VS9ppa6s8R8kQ_gg
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/03 🔍 Assignation Article 145.md
 ---
+
 # ASSIGNATION EN REFERE — COMMUNICATION DE POLICE D'ASSURANCE RC PROFESSIONNELLE
 10 Avenue de Purpan, 31700 Blagnac <br>
 sebastien.grazide@gmail.com

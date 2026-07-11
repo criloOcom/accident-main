@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_procedure_penale ](../README.md) > 📄 [ Article_706-3_CodeProcedurePenale_Legifrance.md ](.Article_706-3_CodeProcedurePenale_Legifrance.md) -->
-
 ---
-title: Article 706-3 du Code de procédure pénale
-code: Code Procedure Penale
-article: 706
+title: "Article 706-3 du Code de procédure pénale"
+description: "Identifiant Légifrance :** LEGIARTI000006577625 (à vérifier)"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Code Procedure Penale
+article: 706
 ---
 
 # Article 706-3 du Code de procédure pénale

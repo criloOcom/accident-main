@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_assurances ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "📒_Code_assurances"
+description: "Dossier contenant les articles du Code des assurances."
+type: readme
+---
 
 # 📒_Code_assurances
 

@@ -1,26 +1,20 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 35 ✉️ Courrier President TJ Foix.md ](.35 ✉️ Courrier President TJ Foix.md) -->
-
 ---
-titre: Transmission de preuves complementaires au Tribunal Judiciaire de Foix - Version réelle
+title: "Transmission de preuves complementaires au Tribunal Judiciaire de Foix - Version réelle"
+description: "Sébastien GRAZIDE"
+type: courrier
 date: 2026-07-12
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: President du Tribunal Judiciaire de Foix
-personnes:
-- La Victime
-- L'Exploitant du Commerce (La SAS)
-- Le President de l'Exploitation
-- La Directrice Generale de l'Exploitation
 tags:
-- TJ
-- preuves
-- transmission
-- LRAR
+  - TJ
+  - preuves
+  - transmission
+  - LRAR
 statut: final
-format: Arial JUSTIFIED
+destinataire: President du Tribunal Judiciaire de Foix
+auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/35 ✉️ Courrier President TJ Foix.md
 ---
+
 # TRANSMISSION DE PREUVES COMPLEMENTAIRES AU TRIBUNAL JUDICIAIRE DE FOIX
 
 Sébastien GRAZIDE

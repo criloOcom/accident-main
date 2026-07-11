@@ -1,22 +1,19 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 23 📊 Suivi Envois LRAR.md ](.23 📊 Suivi Envois LRAR.md) -->
-
 ---
-titre: Suivi des Envois LRAR
+title: "Suivi des Envois LRAR"
+description: "| # | Destinataire | Date envoi | N° LRAR | AR recu | Reponse | Date reponse | Relance J+15 | Email | Statut | Notes |"
+type: readme
 date: 2026-07-11
-type: acte
-categorie: organisation
-auteur: La Victime
-personnes:
-- La Victime
 tags:
-- suivi
-- LRAR
-- envoi
-- tableau
+  - suivi
+  - LRAR
+  - envoi
+  - tableau
 statut: preparation
-format: Arial JUSTIFIED
+auteur: La Victime
 reel_path: ../../👤_Reel/05_🗂️_Organisation/23 📊 Suivi Envois LRAR.md
 ---
+
 # SUIVI DES ENVOIS LRAR
 
 ## TABLEAU DE BORD

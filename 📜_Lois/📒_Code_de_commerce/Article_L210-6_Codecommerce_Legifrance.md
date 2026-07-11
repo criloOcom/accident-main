@@ -1,14 +1,11 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_de_commerce ](../README.md) > 📄 [ Article_L210-6_Codecommerce_Legifrance.md ](.Article_L210-6_Codecommerce_Legifrance.md) -->
-
 ---
 title: "Article L210-6 — Code de commerce"
-type: law_article
-code: "Code de commerce"
-article: "L210-6"
+description: "Code de commerce"
+type: loi
 legiarti: LEGIARTI000006222358
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222358"
+code: Code de commerce
+article: L210-6
 ---
 
 # Article L210-6

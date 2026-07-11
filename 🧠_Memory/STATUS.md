@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ STATUS.md ](.STATUS.md) -->
+---
+title: "STATUT D'AVANCEMENT — 10 juillet 2026"
+description: "- **Analyse exhaustive** des 21 risques juridiques, procéduraux, documentaires, financiers et transverses"
+type: memory
+---
 
 # STATUT D'AVANCEMENT — 10 juillet 2026
 

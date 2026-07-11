@@ -1,30 +1,23 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 13 ✉️ Courrier Prefecture.md ](.13 ✉️ Courrier Prefecture.md) -->
-
 ---
-titre: Confirmation Officielle de Signalement a la Prefecture
+title: "Confirmation Officielle de Signalement a la Prefecture"
+description: "[L'Adresse de la Victime]"
+type: courrier
 date: 2026-07-05
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Prefecture de l'Ariege
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- La Directrice Generale de l'Exploitation
-- La Victime
-- Le President de l'Exploitation
-- Le Préposé de l'Exploitation
 tags:
-- prefecture
-- signalement
-- securite
-- ERP
-- LRAR
+  - prefecture
+  - signalement
+  - securite
+  - ERP
+  - LRAR
 statut: final
+destinataire: Prefecture de l'Ariege
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/13 ✉️ Courrier Prefecture.md
 source: drive
 drive_id: 1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/13 ✉️ Courrier Prefecture.md
 ---
+
 # CONFIRMATION OFFICIELLE DE SIGNALEMENT A LA PREFECTURE DE L'ARIEGE
 **[L'Adresse de la Victime]**
 

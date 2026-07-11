@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ jurisprudence_hallucinations_report.md ](.jurisprudence_hallucinations_report.md) -->
+---
+title: "jurisprudence_hallucinations_report"
+description: "Document de type rapport"
+type: rapport
+---
 
 RAPPORT D'AUDIT JURISPRUDENTIEL : DÉTECTION D'HALLUCINATIONS
 ============================================================

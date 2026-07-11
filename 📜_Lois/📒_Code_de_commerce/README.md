@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_de_commerce ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "📒 Code de Commerce"
+description: "Ce dossier contient les articles du Code de commerce français cités dans les actes du dossier."
+type: readme
+---
 
 # 📒 Code de Commerce
 
@@ -14,8 +19,3 @@ Ce dossier contient les articles du Code de commerce français cités dans les a
 
 ### Conflits d'intérêts
 - [Article L237-2](Article_L237-2_Codecommerce_Legifrance.md) - Conflits d'intérêts dans les sociétés
-
-## 🔗 Navigation
-
-- [Retour à l'index](../📊_Index/README.md)
-- [Retour à 📜_Lois](../README.md)

@@ -1,30 +1,23 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 17 ✉️ Courrier CPAM.md ](.17 ✉️ Courrier CPAM.md) -->
-
 ---
-titre: Transmission et Bordeau Recapitulatif CPAM — Recours Contre Tiers
+title: "Transmission et Bordeau Recapitulatif CPAM — Recours Contre Tiers"
+description: "[L'Adresse de la Victime]"
+type: courrier
 date: 2026-07-06
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: CPAM Haute-Garonne
-personnes:
-- La Victime
-- L'Exploitant du Commerce (La SAS)
-- Le President de l'Exploitation
-- La Directrice Generale de l'Exploitation
-- Le Chirurgien SOS Main
 tags:
-- CPAM
-- recours contre tiers
-- bordereau
-- transmission
-- LRAR
+  - CPAM
+  - recours contre tiers
+  - bordereau
+  - transmission
+  - LRAR
 statut: final
+destinataire: CPAM Haute-Garonne
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/17 ✉️ Courrier CPAM.md
 source: drive
 drive_id: 1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/17 ✉️ Courrier CPAM.md
 ---
+
 # TRANSMISSION ET BORDEREAU RECAPITULATIF — RECOURS CONTRE TIERS
 **[L'Adresse de la Victime]**
 

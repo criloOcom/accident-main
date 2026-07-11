@@ -1,26 +1,17 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Demande ASSURANCE ](../README.md) > 📄 [ 20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md ](.20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md) -->
-
 ---
-titre: Lettre Recommandée — Mise en Demeure SAS Les Mauvais Garçons
+title: "Lettre Recommandée — Mise en Demeure SAS Les Mauvais Garçons"
+description: "Document de type document"
+type: document
 date: 2026-06-29
-type: piece
-categorie: juridique
-emetteur: Sébastien GRAZIDE
-destinataire: SAS Les Mauvais Garçons
-personnes:
-  - Sébastien GRAZIDE
-  - SAS Les Mauvais Garçons
 tags:
   - LR
   - mise en demeure
   - SAS
 statut: original
+destinataire: SAS Les Mauvais Garçons
 source: drive
 drive_id: 1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn
-drive_url: https://drive.google.com/file/d/1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn/view
-ocr: false
-pages: 1
-verifie: false
 ---
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**

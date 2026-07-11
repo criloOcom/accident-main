@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ README_OLD.md ](.README_OLD.md) -->
+---
+title: "⚖️ Bibliothèque Juridique"
+description: "Ce dossier contient les textes de loi et les arrêts de jurisprudence cités dans les actes du dossier."
+type: loi
+---
 
 ---
 
@@ -52,8 +57,3 @@ Chaque fichier est une fiche dédiée, conservant le texte intégral ou un extra
 
 Le dossier `pdfs/` contient les documents源 originaux téléchargés depuis Légifrance.
 
-## 🔗 Navigation
-
-- `🧠_Memory/RAPPORT_JURISPRUDENCES.md` — Vérification systématique des citations
-- `🧠_Memory/STRICT VARIABLES.md` — Sources uniques de vérité
-- [Actes token/06_🗄️_Archives/](../⚖️_Actes/🔑_Token/06_🗄️_Archives/README.md) — Analyses juridiques

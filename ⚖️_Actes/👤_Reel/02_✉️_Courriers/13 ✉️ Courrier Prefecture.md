@@ -1,30 +1,23 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 13 ✉️ Courrier Prefecture.md ](.13 ✉️ Courrier Prefecture.md) -->
-
 ---
-titre: Confirmation Officielle de Signalement a la Prefecture - Version réelle
+title: "Confirmation Officielle de Signalement a la Prefecture - Version réelle"
+description: "Sébastien GRAZIDE"
+type: courrier
 date: 2026-07-05
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Prefecture de l'Ariege
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- La Directrice Generale de l'Exploitation
-- La Victime
-- Le President de l'Exploitation
-- Le Préposé de l'Exploitation
 tags:
-- prefecture
-- signalement
-- securite
-- ERP
-- LRAR
-statut: final
+  - prefecture
+  - signalement
+  - securite
+  - ERP
+  - LRAR
+statut: projet
+destinataire: Prefecture de l'Ariege
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/13 ✉️ Courrier Prefecture.md
 source: drive
 drive_id: 1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/13 ✉️ Courrier Prefecture.md
 ---
+
 # CONFIRMATION OFFICIELLE DE SIGNALEMENT A LA PREFECTURE DE L'ARIEGE
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac

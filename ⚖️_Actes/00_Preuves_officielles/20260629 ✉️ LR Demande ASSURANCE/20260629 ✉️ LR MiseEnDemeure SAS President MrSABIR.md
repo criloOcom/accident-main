@@ -1,27 +1,18 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Demande ASSURANCE ](../README.md) > 📄 [ 20260629 ✉️ LR MiseEnDemeure SAS President MrSABIR.md ](.20260629 ✉️ LR MiseEnDemeure SAS President MrSABIR.md) -->
-
 ---
-titre: Lettre Recommandée — Mise en Demeure SAS Président Monsieur MOUNTASSER
+title: "Lettre Recommandée — Mise en Demeure SAS Président Monsieur MOUNTASSER"
+description: "Document de type document"
+type: document
 date: 2026-06-29
-type: piece
-categorie: juridique
-emetteur: Sébastien GRAZIDE
-destinataire: Monsieur MOUNTASSER (Président SAS)
-personnes:
-  - Sébastien GRAZIDE
-  - Monsieur MOUNTASSER
 tags:
   - LR
   - mise en demeure
   - président
   - SAS
 statut: original
+destinataire: Monsieur MOUNTASSER (Président SAS)
 source: drive
 drive_id: 117sFmGu7yFbYzd0VrKYNSCK_tDYHugrL
-drive_url: https://drive.google.com/file/d/117sFmGu7yFbYzd0VrKYNSCK_tDYHugrL/view
-ocr: false
-pages: 1
-verifie: false
 ---
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**

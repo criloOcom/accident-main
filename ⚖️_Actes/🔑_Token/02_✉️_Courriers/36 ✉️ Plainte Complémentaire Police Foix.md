@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 36 ✉️ Plainte Complémentaire Police Foix.md ](.36 ✉️ Plainte Complémentaire Police Foix.md) -->
+---
+title: "📋 PLAINTE COMPLÉMENTAIRE — OBSTRUCTION À LA JUSTICE"
+description: "À l'attention de :"
+type: courrier
+---
 
 # 📋 PLAINTE COMPLÉMENTAIRE — OBSTRUCTION À LA JUSTICE
 # **Dossier PV n°2026/015967 — Accident du 29 mai 2026**

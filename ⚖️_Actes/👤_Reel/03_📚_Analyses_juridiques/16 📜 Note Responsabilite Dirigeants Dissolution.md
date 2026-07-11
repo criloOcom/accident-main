@@ -1,27 +1,21 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 16 📜 Note Responsabilite Dirigeants Dissolution.md ](.16 📜 Note Responsabilite Dirigeants Dissolution.md) -->
-
 ---
-titre: Note Responsabilité Dirigeants Dissolution - Version réelle
+title: "Note Responsabilité Dirigeants Dissolution - Version réelle"
+description: "Dans l'hypothèse où Sabir MOUNTASSER et Catherine ANDISSAC procèderaient à la dissolution ou à la radiation de SAS LES MAUVAIS GARCONS afin d'échapper aux poursuites et à l'indemnisation de Sébastien GRAZIDE, leur responsabilité personnelle pourrait"
+type: analyse_juridique
 date: 2026-07-09
-type: acte
-categorie: analyse
-auteur: L'Avocat de la Victime
-destinataire: La Victime
-personnes:
-- La Victime
-- L'Exploitant du Commerce (La SAS)
-- Le Président de l'Exploitation
-- La Directrice Générale de l'Exploitation
 tags:
-- dirigeants
-- responsabilité
-- dissolution
-- insuffisance d'actif
-- banqueroute
+  - dirigeants
+  - responsabilité
+  - dissolution
+  - insuffisance d'actif
+  - banqueroute
 statut: final
-format: Arial JUSTIFIED
+destinataire: La Victime
+auteur: L'Avocat de la Victime
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/16 📜 Note Responsabilite Dirigeants Dissolution.md
 ---
+
 # NOTE JURIDIQUE SUR LA RESPONSABILITÉ DES DIRIGEANTS EN CAS DE DISSOLUTION FRAUDULEUSE
 
 ## I. PROBLÉMATIQUE

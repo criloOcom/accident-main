@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_COURRIERS.md ](.RAPPORT_AUDIT_COURRIERS.md) -->
+---
+title: "RAPPORT D'AUDIT — Courriers (02_✉️_Courriers)"
+description: "Date :** 10 juillet 2026"
+type: rapport
+---
 
 # RAPPORT D'AUDIT — Courriers (02_✉️_Courriers)
 

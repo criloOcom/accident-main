@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_SYNTHESE_FINALE.md ](.RAPPORT_SYNTHESE_FINALE.md) -->
+---
+title: "RAPPORT DE SYNTHÈSE GLOBALE — MISSION D'AUDIT FINAL"
+description: "Faits :** Le 29 mai 2026, **[La Victime]** a subi un accident grave dans les locaux de **[L'Exploitant du Commerce (La SAS)]** (à **[La Ville de l'Accident]**). **[Le Préposé de l'Exploitation]** est monté sur la vasque d'un bac à shampoing pour régl"
+type: rapport
+---
 
 # RAPPORT DE SYNTHÈSE GLOBALE — MISSION D'AUDIT FINAL
 

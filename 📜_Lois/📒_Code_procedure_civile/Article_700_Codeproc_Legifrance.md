@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_procedure_civile ](../README.md) > 📄 [ Article_700_Codeproc_Legifrance.md ](.Article_700_Codeproc_Legifrance.md) -->
-
 ---
-title: Article 700
-code: Code Procedure Civile
-article: 700
+title: "Article 700"
+description: "Code de procédure civile"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Code Procedure Civile
+article: 700
 ---
 
 # Article 700

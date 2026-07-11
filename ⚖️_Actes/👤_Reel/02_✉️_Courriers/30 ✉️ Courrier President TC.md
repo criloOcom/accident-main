@@ -1,25 +1,21 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 30 ✉️ Courrier President TC.md ](.30 ✉️ Courrier President TC.md) -->
-
 ---
-titre: Opposition conservatoire à radiation de la SAS - Version réelle
+title: "Opposition conservatoire à radiation de la SAS - Version réelle"
+description: "Nom Prénom de l'Avocat"
+type: courrier
 date: 2026-07-09
-type: acte
-categorie: procedure
-auteur: Nom de l'Avocat de la Victime
-destinataire: Tribunal de Commerce de Foix
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- La Victime
 tags:
-- Tribunal de Commerce
-- opposition
-- radiation
-- SAS
-- LRAR
+  - Tribunal de Commerce
+  - opposition
+  - radiation
+  - SAS
+  - LRAR
 statut: final
-format: Arial JUSTIFIED
+destinataire: Tribunal de Commerce de Foix
+auteur: Nom de l'Avocat de la Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/30 ✉️ Courrier President TC.md
 ---
+
 # OPPOSITION CONSERVATOIRE À RADIATION DE SOCIÉTÉ
 Nom Prénom de l'Avocat
 

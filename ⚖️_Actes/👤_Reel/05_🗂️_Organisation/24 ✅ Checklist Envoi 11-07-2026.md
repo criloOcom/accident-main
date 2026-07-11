@@ -1,22 +1,19 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 24 ✅ Checklist Envoi 11-07-2026.md ](.24 ✅ Checklist Envoi 11-07-2026.md) -->
-
 ---
-titre: Checklist Envoi LRAR — 11 juillet 2026 - Version réelle
+title: "Checklist Envoi LRAR — 11 juillet 2026 - Version réelle"
+description: "- [ ] 12 ✉️ Courrier URSSAF.md"
+type: readme
 date: 2026-07-11
-type: acte
-categorie: organisation
-auteur: La Victime
-personnes:
-- La Victime
 tags:
-- checklist
-- LRAR
-- envoi
-- 11-juillet
+  - checklist
+  - LRAR
+  - envoi
+  - 11-juillet
 statut: preparation
-format: Arial JUSTIFIED
+auteur: La Victime
 reel_path: ../../👤_Reel/05_🗂️_Organisation/24 ✅ Checklist Envoi 11-07-2026.md
 ---
+
 # CHECKLIST ENVOI LRAR — 11 JUILLET 2026
 
 ## 1. AVANT DEPART — PREPARATION

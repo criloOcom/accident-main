@@ -1,27 +1,20 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 15 Note Droit Assurances.md ](.15 Note Droit Assurances.md) -->
-
 ---
-titre: Note d'Analyse Juridique - Droit des Assurances - Version réelle
+title: "Note d'Analyse Juridique - Droit des Assurances - Version réelle"
+description: "La présente note détaille la stratégie et l'analyse en droit des assurances concernant le litige opposant Sébastien GRAZIDE à SAS LES MAUVAIS GARCONS et ses dirigeants, suite à l'accident corporel survenu le 29 mai 2026. Elle aborde la validité de l'"
+type: analyse_juridique
 date: 2026-07-08
-type: analyse
-categorie: juridique
-auteur: La Victime
-destinataire: null
-personnes:
-  - La Victime
-  - L'Exploitant du Commerce (La SAS)
-  - Le Président de l'Exploitation
-  - La Directrice Générale de l'Exploitation
 tags:
   - action directe
   - assurances
   - exclusions
   - prescription
 statut: final
-source: local
-format: Arial JUSTIFIED
+auteur: La Victime
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/15 Note Droit Assurances.md
+source: local
 ---
+
 # NOTE D'ANALYSE JURIDIQUE SPÉCIALE - DROIT DES ASSURANCES
 
 ## INTRODUCTION

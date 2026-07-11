@@ -1,9 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 06 📋 Synthese des Actions et Audits.md ](.06 📋 Synthese des Actions et Audits.md) -->
-
 ---
-reel_path: ../../👤_Reel/05_🗂️_Organisation/06 📋 Synthese des Actions et Audits.md
+title: "Note de Synthèse — Avancement des Audits & Recommandations"
+description: "Cette note récapitule l'analyse systématique de tous les rapports d'audit dans `📊_Rapports/` et catégorise l'état d'avancement des tâches en suspens."
+type: readme
 statut: brouillon
+reel_path: ../../👤_Reel/05_🗂️_Organisation/06 📋 Synthese des Actions et Audits.md
 ---
+
 # Note de Synthèse — Avancement des Audits & Recommandations
 
 Cette note récapitule l'analyse systématique de tous les rapports d'audit dans `📊_Rapports/` et catégorise l'état d'avancement des tâches en suspens.
@@ -40,4 +43,4 @@ Toutes les erreurs techniques de rédaction relevées par les réviseurs et spé
 - **Correction des Articles de Loi Erronés** : Suppression définitive de l'article erroné `L.211-26 C. assurances` et correction systématique de toutes les citations.
 - **Référé vs Requête** : Distanciation formelle des démarches contradictoires (référé pour provision à valoir de 15 000 €) et des mesures urgentes in futurum (requête de constat urgent art. 145 CPC).
 - **Intégration de la clause Legal Hold** : Clause formelle de préservation des preuves ajoutée dans les mises en demeure.
-- **Tokenisation Financière** : Centralisation complète de tous les montants financiers dans un unique fichier `FINANCIAL_VARIABLES.md` de référence pour éviter les asymétries de chiffrage.
+- **Tokenisation Financière** : Centralisation complète de tous les montants financiers dans un unique fichier `FINANCIAL_VARIABLES_DEPRECATED.md` de référence pour éviter les asymétries de chiffrage.

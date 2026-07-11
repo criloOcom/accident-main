@@ -1,9 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ Note qualification penale disparition SAS.md ](.Note qualification penale disparition SAS.md) -->
-
 ---
-reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/Note qualification penale disparition SAS.md
+title: "Note juridique : Qualification pénale — Disparition de la SAS"
+description: "Dossier :** Sébastien GRAZIDE c/ SAS LES MAUVAIS GARCONS"
+type: analyse_juridique
 statut: brouillon
+reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/Note qualification penale disparition SAS.md
 ---
+
 # Note juridique : Qualification pénale — Disparition de la SAS
 
 **Dossier :** Sébastien GRAZIDE c/ SAS LES MAUVAIS GARCONS

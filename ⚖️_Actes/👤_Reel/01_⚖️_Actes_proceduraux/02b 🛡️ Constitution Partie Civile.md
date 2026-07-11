@@ -1,30 +1,23 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 02b 🛡️ Constitution Partie Civile.md ](.02b 🛡️ Constitution Partie Civile.md) -->
-
 ---
-titre: Constitution de Partie Civile — Blessures Involontaires - Version réelle
+title: "Constitution de Partie Civile — Blessures Involontaires - Version réelle"
+description: "Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants"
+type: assignation
 date: 2026-07-06
-type: acte
-categorie: penale
-auteur: La Victime
-destinataire: Doyen des Juges d'Instruction
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- La Directrice Generale de l'Exploitation
-- La Victime
-- Le President de l'Exploitation
 tags:
-- constitution
-- partie civile
-- penal
-- blessures involontaires
-- L.227-8
+  - constitution
+  - partie civile
+  - penal
+  - blessures involontaires
+  - L.227-8
 statut: final
+destinataire: Doyen des Juges d'Instruction
+auteur: La Victime
+reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/02b 🛡️ Constitution Partie Civile.md
 source: drive
 drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
-format: Arial JUSTIFIED
-notes: Version Glose produite le 07/07/2026 — voir 📊_Rapports/expertise/20260707 Mémoire juridique Glose.md
-reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/02b 🛡️ Constitution Partie Civile.md
 ---
+
 # CONSTITUTION DE PARTIE CIVILE
 **Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants**
 

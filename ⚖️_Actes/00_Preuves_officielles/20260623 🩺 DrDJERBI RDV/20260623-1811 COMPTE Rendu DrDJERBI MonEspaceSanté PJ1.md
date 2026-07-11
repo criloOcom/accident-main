@@ -1,13 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260623 🩺 DrDJERBI RDV ](../README.md) > 📄 [ 20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ1.md ](.20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ1.md) -->
-
 ---
-titre: Compte Rendu — Docteur DJERBI MonEspaceSanté (PJ1)
+title: "Compte Rendu — Docteur DJERBI MonEspaceSanté (PJ1)"
+description: "Document de type document"
+type: document
 date: 2026-06-23
-type: piece
-categorie: medical
-emetteur: Dr DJERBI
-personnes:
-  - Sébastien GRAZIDE
 tags:
   - compte rendu
   - MonEspaceSanté
@@ -15,10 +11,6 @@ tags:
 statut: original
 source: drive
 drive_id: 1WMUNB4CIElU9s6SV86iIVJAP4Nn8FfEP
-drive_url: https://drive.google.com/file/d/1WMUNB4CIElU9s6SV86iIVJAP4Nn8FfEP/view
-ocr: false
-pages: 2
-verifie: false
 ---
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**

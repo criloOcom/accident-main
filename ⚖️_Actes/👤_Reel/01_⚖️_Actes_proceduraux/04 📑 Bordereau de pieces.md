@@ -1,28 +1,18 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 04 📑 Bordereau de pieces.md ](.04 📑 Bordereau de pieces.md) -->
-
 ---
-titre: Bordereau de pièces - Version réelle
+title: "Bordereau de pièces - Version réelle"
+description: "| Procédure : Référé Article 145 CPC | Demandeur : Sébastien GRAZIDE | Défendeur : SAS LES MAUVAIS GARCONS |"
+type: assignation
 date: 2026-07-15
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Tribunal Judiciaire de la Ville de l'Accident
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- L'Établissement SOS Main
-- La Gestionnaire CPAM
-- La Victime
-- Le Chirurgien SOS Main
-- Le Médecin Généraliste
 tags:
   - bordereau
   - pieces
   - référé
   - article 145
 statut: final
+destinataire: Tribunal Judiciaire de la Ville de l'Accident
+auteur: La Victime
 source: drive
-drive_id: ''
-format: Arial JUSTIFIED
 ---
 
 # BORDEREAU DE PIÈCES

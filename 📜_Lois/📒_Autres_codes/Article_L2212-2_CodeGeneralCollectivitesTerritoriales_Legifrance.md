@@ -1,12 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L2212-2_CodeGeneralCollectivitesTerritoriales_Legifrance.md ](.Article_L2212-2_CodeGeneralCollectivitesTerritoriales_Legifrance.md) -->
-
 ---
-title: Article L. 2212-2 du Code général des collectivités territoriales
-code: Autres Codes
-article: L2212
+title: "Article L. 2212-2 du Code général des collectivités territoriales"
+description: "Identifiant Légifrance :** LEGIARTI000029946370"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
+code: Autres Codes
+article: L2212
 ---
 
 # Article L. 2212-2 du Code général des collectivités territoriales

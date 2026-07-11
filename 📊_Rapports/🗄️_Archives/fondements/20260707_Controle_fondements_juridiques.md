@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ fondements ](../README.md) > 📄 [ 20260707_Controle_fondements_juridiques.md ](.20260707_Controle_fondements_juridiques.md) -->
+---
+title: "Contrôle des fondements juridiques (Mars 2022)"
+description: "Ce rapport vérifie l'existence et la validité à la date de l'accident (mars 2022) de tous les articles de loi cités dans les actes et lois du dossier."
+type: rapport
+---
 
 # Contrôle des fondements juridiques (Mars 2022)
 

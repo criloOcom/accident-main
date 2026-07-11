@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 🚦_Status ](../README.md) > 📄 [ 02_PRET_POUR_ENVOI.md ](.02_PRET_POUR_ENVOI.md) -->
+---
+title: "📤 Prêt pour envoi"
+description: "Documents finalisés mais sans preuve matérielle de délivrance — statuts final, preparation."
+type: status
+---
 
 # 📤 Prêt pour envoi
 

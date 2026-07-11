@@ -1,21 +1,20 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 28 📧 Attestation Employe.md ](.28 📧 Attestation Employe.md) -->
-
 ---
-titre: Email Transmission Attestation Employé
+title: "Email Transmission Attestation Employé"
+description: "Objet : Attestation de témoin — Accident du **[J+0 Accident]** au **[L'Adresse de l'Exploitation]"
+type: courrier
 date: 2026-07-06
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Employé(e) du salon présent(e) le **[J+0 Accident]**
 tags:
-- email
-- attestation
-- temoin
+  - email
+  - attestation
+  - temoin
 statut: brouillon
-source: local
-format: Arial JUSTIFIED
+destinataire: Employé(e) du salon présent(e) le **[J+0 Accident]**
+auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/28 📧 Attestation Employe.md
+source: local
 ---
+
 # TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (EMPLOYÉ)
 Objet : Attestation de témoin — Accident du **[J+0 Accident]** au **[L'Adresse de l'Exploitation]**
 

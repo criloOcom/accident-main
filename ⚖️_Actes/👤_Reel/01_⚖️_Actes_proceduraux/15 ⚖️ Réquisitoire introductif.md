@@ -1,29 +1,22 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 15 ⚖️ Réquisitoire introductif.md ](.15 ⚖️ Réquisitoire introductif.md) -->
-
 ---
-titre: Réquisitoire Introductif - Version réelle
+title: "Réquisitoire Introductif - Version réelle"
+description: "Ouverture d'une information judiciaire — Blessures involontaires et infractions connexes"
+type: assignation
 date: 2026-07-15
-type: acte
-categorie: penale
-auteur: Procureur de la République
-destinataire: Doyen des Juges d'Instruction
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- La Directrice Générale de l'Exploitation
-- La Victime
-- Le Président de l'Exploitation
-- Le Préposé de l'Exploitation
 tags:
-- pénal
-- réquisitoire
-- blessures involontaires
-- information
-statut: final
-source: drive
-drive_id: [À compléter]
-format: Arial JUSTIFIED
+  - pénal
+  - réquisitoire
+  - blessures involontaires
+  - information
+statut: projet
+destinataire: Doyen des Juges d'Instruction
+auteur: Procureur de la République
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/15 ⚖️ Réquisitoire introductif.md
+source: drive
+drive_id: À compléter
 ---
+
 # RÉQUISITOIRE INTRODUCTIF DU MINISTÈRE PUBLIC
 **Ouverture d'une information judiciaire — Blessures involontaires et infractions connexes**
 

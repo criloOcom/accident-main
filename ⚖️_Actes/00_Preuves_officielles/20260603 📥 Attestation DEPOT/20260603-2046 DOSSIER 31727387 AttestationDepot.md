@@ -1,13 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260603 📥 Attestation DEPOT ](../README.md) > 📄 [ 20260603-2046 DOSSIER 31727387 AttestationDepot.md ](.20260603-2046 DOSSIER 31727387 AttestationDepot.md) -->
-
 ---
-titre: Attestation de Dépôt de Plainte DOSSIER n°31727387
+title: "Attestation de Dépôt de Plainte DOSSIER n°31727387"
+description: "Document de type document"
+type: document
 date: 2026-06-03
-type: piece
-categorie: penal
-emetteur: Commissariat de Police de la Ville de l'Accident
-personnes:
-  - Sébastien GRAZIDE
 tags:
   - attestation
   - dépôt
@@ -16,10 +12,6 @@ tags:
 statut: original
 source: drive
 drive_id: 1wyKSNyNvbJ4HygvQ4N-J_3jx88ItXYzR
-drive_url: https://drive.google.com/file/d/1wyKSNyNvbJ4HygvQ4N-J_3jx88ItXYzR/view
-ocr: false
-pages: 1
-verifie: false
 ---
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**

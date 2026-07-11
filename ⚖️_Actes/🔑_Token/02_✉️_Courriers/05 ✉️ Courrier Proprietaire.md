@@ -1,28 +1,22 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 05 ✉️ Courrier Proprietaire.md ](.05 ✉️ Courrier Proprietaire.md) -->
-
 ---
-titre: Demande de Communication d'Assurance RC au Propriétaire des Murs
+title: "Demande de Communication d'Assurance RC au Propriétaire des Murs"
+description: "[L'Adresse de la Victime]** <br>"
+type: courrier
 date: 2026-06-29
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Le Propriétaire des Murs
-personnes:
-  - La Victime
-  - Le Propriétaire des Murs
-  - L'Exploitant du Commerce (La SAS)
 tags:
   - mise en demeure
   - bailleur
   - assurance
   - LRAR
 statut: envoye
+destinataire: Le Propriétaire des Murs
+auteur: La Victime
+reel_path: ../../👤_Reel/02_✉️_Courriers/05 ✉️ Courrier Proprietaire.md
 source: drive
 drive_id: 1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4
-format: Arial JUSTIFIED
-reel_path: ../../👤_Reel/02_✉️_Courriers/05 ✉️ Courrier Proprietaire.md
-proof_delivery: "AR signé par le bailleur"
 ---
+
 # DEMANDE DE COMMUNICATION D'ASSURANCE RC
 **[L'Adresse de la Victime]** <br>
 **[L'Email de la Victime]**

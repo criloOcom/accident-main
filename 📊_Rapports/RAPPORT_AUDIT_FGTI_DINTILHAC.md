@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_FGTI_DINTILHAC.md ](.RAPPORT_AUDIT_FGTI_DINTILHAC.md) -->
+---
+title: "RAPPORT D'AUDIT FGTI / DINTILHAC"
+description: "Date :** 10 juillet 2026"
+type: rapport
+---
 
 # RAPPORT D'AUDIT FGTI / DINTILHAC
 
@@ -27,7 +32,7 @@
 
 ## 2. AUDIT POSTE PAR POSTE — TABLEAU DE CONCORDANCE
 
-| Poste Dintilhac | Doc 11 (Optimiste) | Doc 12 (Optimiste) | Doc 11+12 (Compromis) | Courrier FGTI (19) | FINANCIAL_VARIABLES.md | STRICT_VARIABLES.md | Rapport barémique | **Statut** |
+| Poste Dintilhac | Doc 11 (Optimiste) | Doc 12 (Optimiste) | Doc 11+12 (Compromis) | Courrier FGTI (19) | FINANCIAL_VARIABLES_DEPRECATED.md | STRICT_VARIABLES.md | Rapport barémique | **Statut** |
 |----------------|-------------------|-------------------|----------------------|-------------------|----------------------|-------------------|------------------|-----------|
 | PGPA | 1 900 € | 1 900 € | **1 380 €** | **1 900 €** | 1 380 € | 1 900 € | 1 380 € | **INCOHÉRENT** (FGTI utilise l'optimiste) |
 | DFT | 1 400 € | 1 400 € | 1 400 € | 1 400 € | (absent) | 1 400 € | 1 400 € | ✅ Cohérent |
@@ -148,7 +153,7 @@ Le FGTI applique un barème de frais pour l'ouverture et la gestion du dossier. 
 
 ### 5.2 Priorité moyenne — harmoniser les sources
 
-6. **Mettre à jour** STRICT VARIABLES.md pour ajouter explicitement les valeurs "compromis" pour tous les postes (comme FINANCIAL_VARIABLES.md)
+6. **Mettre à jour** STRICT VARIABLES.md pour ajouter explicitement les valeurs "compromis" pour tous les postes (comme FINANCIAL_VARIABLES_DEPRECATED.md)
 7. **Mettre à jour** le README du dossier 04 pour refléter les 3 niveaux d'évaluation
 8. **Ajouter** une mention dans le courrier FGTI précisant "estimation haute sous réserve d'expertise" pour prévenir toute contestation
 

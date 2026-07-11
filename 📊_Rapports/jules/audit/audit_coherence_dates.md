@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_coherence_dates.md ](.audit_coherence_dates.md) -->
+---
+title: "Audit de Cohérence Documentaire : Dates (Courriers 09 à 34)"
+description: "Objectif** : Vérification de la cohérence des dates dans les courriers prêts à envoyer (actes 09 à 34) conformément au référentiel `STRICT VARIABLES.md`."
+type: rapport
+---
 
 # Audit de Cohérence Documentaire : Dates (Courriers 09 à 34)
 

@@ -1,32 +1,23 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 06 V2 ✉️ Relance Dirigeants.md ](.06 V2 ✉️ Relance Dirigeants.md) -->
-
 ---
-titre: Relance — Demande d'information Assurance RC et d'adresse de correspondance - Version réelle
+title: "Relance — Demande d'information Assurance RC et d'adresse de correspondance - Version réelle"
+description: "10 Avenue de Purpan, 31700 Blagnac"
+type: courrier
 date: 2026-07-08
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Dirigeants de l'Exploitant du Commerce
-personnes:
-- L'Exploitant du Commerce (La SAS)
-- L'Établissement SOS Main
-- La Directrice Générale de l'Exploitation
-- La Victime
-- Le Chirurgien SOS Main
-- Le Président de l'Exploitation
 tags:
-- relance
-- dirigeants
-- assurance
-- LRAR
-- fermeture boutique
-- preuves
+  - relance
+  - dirigeants
+  - assurance
+  - LRAR
+  - fermeture boutique
+  - preuves
 statut: envoye
-source: local
-format: Arial JUSTIFIED
+destinataire: Dirigeants de l'Exploitant du Commerce
+auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md
-proof_delivery: "LRAR 870014282662911 + facture Z0132713629"
+source: local
 ---
+
 # RELANCE — DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE
 
 10 Avenue de Purpan, 31700 Blagnac

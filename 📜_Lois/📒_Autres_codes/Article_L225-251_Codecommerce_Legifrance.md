@@ -1,13 +1,12 @@
 <!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L225-251_Codecommerce_Legifrance.md ](.Article_L225-251_Codecommerce_Legifrance.md) -->
-
 ---
-title: Article L. 225-251
-code: Code Commerce
-article: L225
+title: "Article L. 225-251"
+description: "Code de commerce"
+type: loi
 date: 2026-07-10
 source: Légifrance
-status: En vigueur
-url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006439400
+code: Code Commerce
+article: L225
 ---
 
 # Article L. 225-251

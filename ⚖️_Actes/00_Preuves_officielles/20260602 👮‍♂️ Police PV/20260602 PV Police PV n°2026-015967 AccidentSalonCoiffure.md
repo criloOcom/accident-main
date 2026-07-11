@@ -1,14 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260602 👮‍♂️ Police PV ](../README.md) > 📄 [ 20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md ](.20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md) -->
-
 ---
-titre: Procès-Verbal de Police n°2026-015967 — Accident Salon de Coiffure
+title: "Procès-Verbal de Police n°2026-015967 — Accident Salon de Coiffure"
+description: "Document de type document"
+type: document
 date: 2026-06-02
-type: piece
-categorie: penal
-emetteur: Commissariat de Police de la Ville de l'Accident
-personnes:
-  - Sébastien GRAZIDE
-  - L'Exploitant du Commerce
 tags:
   - procès-verbal
   - PV
@@ -18,10 +13,6 @@ tags:
 statut: original
 source: drive
 drive_id: 1YXaJE81FFPTKcrcShg9DI5jUZ82T988V
-drive_url: https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view
-ocr: true
-pages: 12
-verifie: false
 ---
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**

@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ README.md ](.README.md) -->
+---
+title: "⚖️ Actes Procéduraux"
+description: "Ce dossier contient l'ensemble des actes juridiques destinés à être déposés au greffe du tribunal judiciaire."
+type: readme
+---
 
 # ⚖️ Actes Procéduraux
 

@@ -1,21 +1,20 @@
 <!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 28 📧 Attestation Employe.md ](.28 📧 Attestation Employe.md) -->
-
 ---
-titre: Email Transmission Attestation Employé - Version réelle
+title: "Email Transmission Attestation Employé - Version réelle"
+description: "Objet : Attestation de témoin — Accident du 29 mai 2026 au 22 Rue Lafaurie, 09000 Foix"
+type: courrier
 date: 2026-07-06
-type: acte
-categorie: procedure
-auteur: La Victime
-destinataire: Employé(e) du salon présent(e) le 29 mai 2026
 tags:
-- email
-- attestation
-- temoin
+  - email
+  - attestation
+  - temoin
 statut: brouillon
-source: local
-format: Arial JUSTIFIED
+destinataire: Employé(e) du salon présent(e) le 29 mai 2026
+auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/28 📧 Attestation Employe.md
+source: local
 ---
+
 # TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (EMPLOYÉ)
 Objet : Attestation de témoin — Accident du 29 mai 2026 au 22 Rue Lafaurie, 09000 Foix
 

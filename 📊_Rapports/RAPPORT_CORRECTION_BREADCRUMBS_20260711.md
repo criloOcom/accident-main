@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_CORRECTION_BREADCRUMBS_20260711.md ](.RAPPORT_CORRECTION_BREADCRUMBS_20260711.md) -->
+---
+title: "📊 Rapport de Correction des Fils d'Ariane"
+description: "Date :** 11 juillet 2026"
+type: rapport
+---
 
 # 📊 Rapport de Correction des Fils d'Ariane
 

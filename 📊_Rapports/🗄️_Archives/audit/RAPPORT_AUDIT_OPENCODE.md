@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_AUDIT_OPENCODE.md ](.RAPPORT_AUDIT_OPENCODE.md) -->
+---
+title: "RAPPORT D'AUDIT — Travail opencode sur accident-main"
+description: "- [x] Total erreurs critiques : 1"
+type: rapport
+---
 
 # RAPPORT D'AUDIT — Travail opencode sur accident-main
 

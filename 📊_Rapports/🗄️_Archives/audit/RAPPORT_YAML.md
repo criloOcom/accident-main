@@ -1,4 +1,9 @@
 <!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_YAML.md ](.RAPPORT_YAML.md) -->
+---
+title: "RAPPORT AUDIT YAML"
+description: "- **Total fichiers audités :** 31"
+type: rapport
+---
 
 # RAPPORT AUDIT YAML
 
