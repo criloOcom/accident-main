@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """
 Génère des fils d'Ariane dans les fichiers .md.
-Format (commentaire HTML, ligne 1) :
-<!-- [🏠](../README.md) > 📁 [Dossier](../README.md) > 📄 [Fichier](./fichier.md) -->
+Format (3 lignes, ligne 1-3) :
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
 """
 
 import os
@@ -12,7 +14,8 @@ from pathlib import Path
 ROOT = "/home/crilocom/accident-main"
 
 
-def generate_breadcrumb(file_path):
+def compute_root_link(file_path):
+    """Retourne le chemin relatif vers README.md racine."""
     full_path = Path(file_path)
     root = Path(ROOT)
     try:
@@ -21,23 +24,19 @@ def generate_breadcrumb(file_path):
         return None
 
     parts = list(relative_path.parts)
-    breadcrumb_parts = ["[🏠](../README.md)"]
-
-    for i, part in enumerate(parts[:-1]):
-        relative_link = os.path.join(".." * (len(parts) - i - 1), "README.md")
-        breadcrumb_parts.append(f"📁 [ {part} ]({relative_link})")
-
-    filename = parts[-1]
-    breadcrumb_parts.append(f"📄 [ {filename} ](.{filename})")
-
-    return " > ".join(breadcrumb_parts)
+    depth = len(parts) - 1  # nombre de niveaux de dossiers
+    if depth <= 0:
+        return "README.md"
+    return os.path.join(*([".."] * depth + ["README.md"]))
 
 
-# Patterns de blocs breadcrumb pour suppression
+# Patterns de blocs breadcrumb pour suppression (anciens + nouveau format)
 _BREADCRUMB_PATTERNS = [
     # Code block avec breadcrumb
     re.compile(r'```\s*\n.*?🏠\s*\[.*?```', re.DOTALL),
-    # HTML comment avec breadcrumb
+    # Nouveau format : <!-- Breadcrumb --> ... <!-- /Breadcrumb -->
+    re.compile(r'<!-- Breadcrumb -->.*?<!-- /Breadcrumb -->', re.DOTALL),
+    # Ancien format : <!-- [🏠](...) > ... -->
     re.compile(r'<!--\s*\[?🏠.*?-->', re.DOTALL),
     # Ligne plain text commençant par 🏠 [
     re.compile(r'^🏠\s*\[.*$', re.MULTILINE),
@@ -59,8 +58,8 @@ def strip_all_breadcrumbs(content):
 
 
 def add_breadcrumb_to_file(file_path):
-    breadcrumb = generate_breadcrumb(file_path)
-    if not breadcrumb:
+    root_link = compute_root_link(file_path)
+    if not root_link:
         return False
 
     try:
@@ -71,14 +70,9 @@ def add_breadcrumb_to_file(file_path):
         return False
 
     cleaned = strip_all_breadcrumbs(original)
-    new_html = f"<!-- {breadcrumb} -->"
+    breadcrumb_block = f"<!-- Breadcrumb -->\n[🏠]({root_link})\n<!-- /Breadcrumb -->"
 
-    if cleaned != original.strip():
-        # Il y avait des breadcrumbs à supprimer
-        new_content = f"{new_html}\n\n{cleaned}\n"
-    else:
-        # Pas de breadcrumb trouvé — juste insérer en ligne 1
-        new_content = f"{new_html}\n\n{original}"
+    new_content = f"{breadcrumb_block}\n\n{cleaned}\n"
 
     try:
         with open(file_path, 'w', encoding='utf-8') as f:

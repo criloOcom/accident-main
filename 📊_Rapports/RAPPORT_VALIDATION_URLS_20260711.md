@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_VALIDATION_URLS_20260711.md ](.RAPPORT_VALIDATION_URLS_20260711.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "📊 Rapport de Validation des URLs Légifrance"
 description: "Date :** 11 juillet 2026"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ README.md ](.README.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "📊 Rapports et Analyses"
 description: "Ce dossier contient tous les rapports générés, analyses et documents de suivi du projet."

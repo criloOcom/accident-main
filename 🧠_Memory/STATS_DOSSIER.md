@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ STATS_DOSSIER.md ](.STATS_DOSSIER.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Statistiques Générales du Dossier"
 description: "Le dossier comporte **62 fichiers .md** répartis dans les sous-dossiers :"

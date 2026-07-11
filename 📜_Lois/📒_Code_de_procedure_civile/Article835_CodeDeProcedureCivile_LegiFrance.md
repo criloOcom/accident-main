@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_de_procedure_civile ](../README.md) > 📄 [ Article835_CodeDeProcedureCivile_LegiFrance.md ](.Article835_CodeDeProcedureCivile_LegiFrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article 835 — Code de procédure civile"
 description: "Code de procédure civile"

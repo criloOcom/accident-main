@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md ](.RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "RAPPORT DE SYNTHÈSE - Démarches Prioritaires à Entreprendre"
 description: "Date** : 11 juillet 2026"

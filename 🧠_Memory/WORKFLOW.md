@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ WORKFLOW.md ](.WORKFLOW.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "WORKFLOW D'ANONYMIZATION"
 description: "1. **Lire** l'original avec `readDocument` (format text)"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ ordalie ](../README.md) > 📄 [ 20260707 Validation juridique ordalie.md ](.20260707 Validation juridique ordalie.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Validation juridique ordalie — 7 juillet 2026"
 description: "| Citation | Vérification | Appréciation |"

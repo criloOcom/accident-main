@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_procedure_civile ](../README.md) > 📄 [ Article_700_Codeproc_Legifrance.md ](.Article_700_Codeproc_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article 700"
 description: "Code de procédure civile"

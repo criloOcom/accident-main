@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L210-6_Codecommerce_Legifrance.md ](.Article_L210-6_Codecommerce_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article L210-6"
 description: "Code de commerce"

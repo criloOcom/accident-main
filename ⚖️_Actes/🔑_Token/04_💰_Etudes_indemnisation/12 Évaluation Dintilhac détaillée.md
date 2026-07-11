@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 12 Évaluation Dintilhac détaillée.md ](.12 Évaluation Dintilhac détaillée.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Évaluation financière Dintilhac détaillée"
 description: "Le dossier initial évalue le préjudice à **59 600 €**. Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**. L'estimation médiane est de **~109 500 €** (fourchette 77 000 - 139 000 €)."

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ jurisprudence_hallucinations_report.md ](.jurisprudence_hallucinations_report.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "jurisprudence_hallucinations_report"
 description: "Document de type rapport"

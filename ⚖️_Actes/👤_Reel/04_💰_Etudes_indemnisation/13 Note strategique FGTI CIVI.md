@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 13 Note strategique FGTI CIVI.md ](.13 Note strategique FGTI CIVI.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Note stratégique FGTI/CIVI - Version réelle"
 description: "Les conditions posées par l'article 706-3 du Code de procédure pénale sont intégralement remplies :"

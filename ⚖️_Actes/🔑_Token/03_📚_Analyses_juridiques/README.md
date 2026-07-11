@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ README.md ](.README.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "📚 Analyses Juridiques"
 description: "Ce dossier contient les notes d'analyse juridique, les plaidoiries, et les documents de synthèse destinés à l'audience."

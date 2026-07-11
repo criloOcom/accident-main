@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article222-20_CodePenal_LegiFrance.md ](.Article222-20_CodePenal_LegiFrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Code pénal — Art. 222-20"
 description: "Code pénal"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_121-1a121-7_CodePenal_Legifrance.md ](.Article_121-1a121-7_CodePenal_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Articles 121-1 à 121-7 — Code pénal"
 description: "Code pénal"

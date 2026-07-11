@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 27 📧 Attestation Pompier SAMU.md ](.27 📧 Attestation Pompier SAMU.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Email Transmission Attestation Pompier SAMU - Version réelle"
 description: "Objet : Attestation de témoin — Intervention du 29 mai 2026 au 22 Rue Lafaurie, 09000 Foix"

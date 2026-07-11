@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](..../README.md) > 📁 [ 📎_Annexes ](../README.md) > 📄 [ ANNEXE_2_Decision_CC_CIV1_1994-07-08.md ](.ANNEXE_2_Decision_CC_CIV1_1994-07-08.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "ANNEXE 2 - Décision Cour de Cassation, Première Chambre Civile, 8 juillet 1994"
 description: "Numéro de pourvoi:** 90-14.591"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_civil ](../README.md) > 📄 [ Article_2226_Code_Legifrance.md ](.Article_2226_Code_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article 2226"
 description: "Code civil"

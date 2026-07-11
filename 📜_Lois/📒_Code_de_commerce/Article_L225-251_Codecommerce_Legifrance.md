@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_de_commerce ](../README.md) > 📄 [ Article_L225-251_Codecommerce_Legifrance.md ](.Article_L225-251_Codecommerce_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article L225-251 — Code de commerce"
 description: "Code de commerce"

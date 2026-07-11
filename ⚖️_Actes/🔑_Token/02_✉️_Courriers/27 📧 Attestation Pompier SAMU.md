@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 27 📧 Attestation Pompier SAMU.md ](.27 📧 Attestation Pompier SAMU.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Email Transmission Attestation Pompier SAMU"
 description: "Objet : Attestation de témoin — Intervention du **[J+0 Accident]** au **[L'Adresse de l'Exploitation]"

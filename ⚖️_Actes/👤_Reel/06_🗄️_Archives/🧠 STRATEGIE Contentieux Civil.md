@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🧠 STRATEGIE Contentieux Civil.md ](.🧠 STRATEGIE Contentieux Civil.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "STRATEGIE Contentieux Civil - Version réelle"
 description: "Rédigé le **[J+36 Lettre consolidation]"

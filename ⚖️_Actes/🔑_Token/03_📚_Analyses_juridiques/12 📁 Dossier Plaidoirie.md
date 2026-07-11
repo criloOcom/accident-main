@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 12 📁 Dossier Plaidoirie.md ](.12 📁 Dossier Plaidoirie.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Dossier de Plaidoirie - Audience de Référé"
 description: "<hr><hr>"

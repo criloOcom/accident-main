@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ pdfs ](../README.md) > 📄 [ README.md ](.README.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "pdfs"
 description: "Dossier contenant les articles de loi relatifs à pdfs."

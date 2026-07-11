@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 06 ✉️ Courrier President DG.md ](.06 ✉️ Courrier President DG.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC - Version réelle"
 description: "10 Avenue de Purpan, 31700 Blagnac <br>"

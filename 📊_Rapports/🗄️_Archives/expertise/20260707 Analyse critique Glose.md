@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ 20260707 Analyse critique Glose.md ](.20260707 Analyse critique Glose.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Analyse critique du mémoire Glose — Recommandations d'ajustement"
 description: "L'article 222-20 CP existe et est en vigueur** (depuis le 19 mai 2011, modifié par LOI n°2011-525)."

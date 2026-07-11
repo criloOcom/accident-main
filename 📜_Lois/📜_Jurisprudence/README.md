@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📜_Jurisprudence ](../README.md) > 📄 [ README.md ](.README.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "📜_Jurisprudence"
 description: "Dossier contenant les articles de loi relatifs à 📜_Jurisprudence."

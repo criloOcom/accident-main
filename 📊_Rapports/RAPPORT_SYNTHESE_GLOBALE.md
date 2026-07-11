@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_SYNTHESE_GLOBALE.md ](.RAPPORT_SYNTHESE_GLOBALE.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "RAPPORT DE SYNTHÈSE GLOBALE"
 description: "Projet :** accident-main — Préjudice corporel (main droite écrasée)"

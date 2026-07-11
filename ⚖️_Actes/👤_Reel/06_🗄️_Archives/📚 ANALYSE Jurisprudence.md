@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 📚 ANALYSE Jurisprudence.md ](.📚 ANALYSE Jurisprudence.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Rapport d'Expertise Juridique — Analyse des Préjudices Corporels - Version réelle"
 description: "Rédigé le 30 juin 2026"

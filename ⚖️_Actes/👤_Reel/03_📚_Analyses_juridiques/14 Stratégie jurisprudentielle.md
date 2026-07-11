@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 14 Stratégie jurisprudentielle.md ](.14 Stratégie jurisprudentielle.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Stratégie jurisprudentielle — Basculement vasque salon de coiffure - Version réelle"
 description: "| Élément à prouver | Notre preuve | Arrêt de référence |"

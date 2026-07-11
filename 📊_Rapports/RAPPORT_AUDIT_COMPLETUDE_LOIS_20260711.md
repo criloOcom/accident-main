@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_COMPLETUDE_LOIS_20260711.md ](.RAPPORT_AUDIT_COMPLETUDE_LOIS_20260711.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "RAPPORT D'AUDIT — Complétude du Dossier 📜_Lois"
 description: "Date** : 11 juillet 2026"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_PRIORITES.md ](.RAPPORT_AUDIT_PRIORITES.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "RAPPORT D'AUDIT — PRIORITÉS D'ENVOI DES COURRIERS"
 description: "| Catégorie | N° | Destinataire | Type envoi | Urgence |"

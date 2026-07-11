@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ RULES.md ](.RULES.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "RÈGLES PERMANENTES — Dossier Accident de la Main"
 description: "- **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet (`🧠_Memory/STRICT VARIABLES.md` ou `🧠_M"
@@ -247,7 +250,7 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 - Utilise `[🏠](../README.md)` (emoji maison comme lien) — PAS le mot "Accueil"
 - Exemple :
   ```html
-  <!-- [🏠](../README.md) > 📁 [Dossier](../README.md) > 📄 [Fichier](./fichier.md) -->
+  
   ```
 
 ### Règles

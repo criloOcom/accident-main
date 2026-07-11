@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_general_des_collectivites_territoriales ](../README.md) > 📄 [ README.md ](.README.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "📒 Code Général des Collectivités Territoriales (CGCT)"
 description: "Ce dossier contient les articles du Code général des collectivités territoriales cités dans les actes du projet."

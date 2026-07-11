@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_des_assurances ](../README.md) > 📄 [ Article_L124-3_Codesassurances_Legifrance.md ](.Article_L124-3_Codesassurances_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article L124-3 — Code des assurances"
 description: "Code des assurances"

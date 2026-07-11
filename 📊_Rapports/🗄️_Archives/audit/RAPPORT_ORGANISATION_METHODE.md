@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_ORGANISATION_METHODE.md ](.RAPPORT_ORGANISATION_METHODE.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Rapport d'Audit Organisationnel et Méthodologique"
 description: "Structure du projet (arborescence) :** L'arborescence est très cohérente, logique et extensible. La séparation claire entre les actes (`⚖️_Actes/`), les lois (`📜_Lois/`), la mémoire persistante (`🧠_Memory/`), les rapports (`📊_Rapports/`), et le code"

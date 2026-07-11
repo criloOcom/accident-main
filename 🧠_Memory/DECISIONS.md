@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ DECISIONS.md ](.DECISIONS.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "DÉCISIONS CLÉS"
 description: "- Utiliser le bon français avec articles : `**[La Victime]**` PAS `**[Victime]**`"
@@ -80,7 +83,7 @@ type: memory
 - **Propagation** : cette décision est enregistrée dans AGENTS.md (section NotebookLM), RULES.md (#13) et DECISIONS.md
 
 ## Format des fils d'Ariane — DÉCISION 2026-07-11
-- **Format** : commentaire HTML `<!-- [🏠](../README.md) > ... -->` sur la **ligne 1**
+- **Format** : commentaire HTML `` sur la **ligne 1**
 - **Pas de "Accueil"** : utiliser `[🏠]` (emoji maison) comme lien racine
 - **Un seul breadcrumb par fichier** — script dédié `.dev/app/generate_breadcrumbs.py`
 - **Détection par script** : le script cherche tous les patterns connus (code blocks, HTML comments, texte brut) et les remplace par le format canonique unique

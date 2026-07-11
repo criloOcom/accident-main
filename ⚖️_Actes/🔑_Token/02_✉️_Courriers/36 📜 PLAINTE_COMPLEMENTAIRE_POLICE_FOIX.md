@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md ](.36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Plainte Complémentaire — Obstruction à la Justice et Dissimulation de Preuves"
 description: "[La Victime]"

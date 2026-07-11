@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 07 🎤 Plaidoirie dirigeants.md ](.07 🎤 Plaidoirie dirigeants.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Mémorandum Juridique — Responsabilité des Dirigeants - Version réelle"
 description: "Rédigé le 30 juin 2026"

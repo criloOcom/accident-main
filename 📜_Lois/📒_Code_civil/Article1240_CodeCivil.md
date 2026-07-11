@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_civil ](../README.md) > 📄 [ Article1240_CodeCivil.md ](.Article1240_CodeCivil.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Code civil — Art. 1240"
 description: "Code civil"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 13 📜 Responsabilites legales.md ](.13 📜 Responsabilites legales.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Analyse des Fondements de la Responsabilité Juridique"
 description: "Rédigé le **[J+32 Assignation référé]"

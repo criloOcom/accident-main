@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ README.md ](.README.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "🧠 Mémoire du Projet"
 description: "Ce dossier contient les documents de référence, les variables strictes, et la mémoire institutionnelle du projet accident-main."

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260623 🩺 DrDJERBI RDV ](../README.md) > 📄 [ 20260623-1730 DR DJERBI Bilan.md ](.20260623-1730 DR DJERBI Bilan.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Bilan — Docteur DJERBI"
 description: "Document de type document"

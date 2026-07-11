@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ JURITEXT_PROTOCOL.md ](.JURITEXT_PROTOCOL.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "PROTOCOLE JURITEXT — Vérification obligatoire des identifiants de jurisprudence"
 description: "Quand tu dois insérer ou vérifier une JURITEXT :"

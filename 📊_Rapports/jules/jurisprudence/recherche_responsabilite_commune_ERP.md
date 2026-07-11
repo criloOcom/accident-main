@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ jurisprudence ](../README.md) > 📄 [ recherche_responsabilite_commune_ERP.md ](.recherche_responsabilite_commune_ERP.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "RAPPORT DE JURISPRUDENCE"
 description: "Mission** : M3 du dossier accident-main"

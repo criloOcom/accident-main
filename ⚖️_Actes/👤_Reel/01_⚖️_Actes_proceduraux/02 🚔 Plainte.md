@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 02 🚔 Plainte.md ](.02 🚔 Plainte.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Plainte Complément — Défaut d'Assurance RC - Version réelle"
 description: "Rédigé le 30 juin 2026"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](......../README.md) > 📁 [ 🔑_Token ](....../README.md) > 📁 [ 06_🗄️_Archives ](..../README.md) > 📁 [ annexes ](../README.md) > 📄 [ ⚖️ ANNEXE B Lois Jurisprudence.md ](.⚖️ ANNEXE B Lois Jurisprudence.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "ANNEXE B — TEXTES DE LOI ET JURISPRUDENCE CITÉS"
 description: "• **[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)** — Responsabilité pour faute"

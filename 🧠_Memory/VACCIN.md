@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ VACCIN.md ](.VACCIN.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "VACCIN — Protocole obligatoire avant chaque action"
 description: "- [ ] `/home/crilocom/accident-main/` est le SEUL répertoire — vérifie que tu y es"

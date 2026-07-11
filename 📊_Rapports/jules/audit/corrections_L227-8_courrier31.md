@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ corrections_L227-8_courrier31.md ](.corrections_L227-8_courrier31.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Rapport de correction — L.227-8 et Courrier 31"
 description: "Date : 2026-07-10"

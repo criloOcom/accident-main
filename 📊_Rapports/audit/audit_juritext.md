@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_juritext.md ](.audit_juritext.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Rapport d'Audit JURITEXT — Mission M6"
 description: "Date :** 10 juillet 2026"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](..../README.md) > 📁 [ 🗄️_Archives ](../README.md) > 📄 [ matrice_coherence_jurisprudence.md ](.matrice_coherence_jurisprudence.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Matrice d'Audit Jurisprudentiel"
 description: "Vérification de la cohérence des citations d'arrêts (chambre, date, ratio) à travers les fichiers du dossier `⚖️_Actes/🔑_Token/`."

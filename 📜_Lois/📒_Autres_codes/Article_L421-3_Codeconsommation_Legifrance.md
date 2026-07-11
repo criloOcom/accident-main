@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L421-3_Codeconsommation_Legifrance.md ](.Article_L421-3_Codeconsommation_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article L421-3"
 description: "Code de la consommation"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🧠 STRATEGIE Contentieux Penal.md ](.🧠 STRATEGIE Contentieux Penal.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "STRATEGIE Contentieux Penal"
 description: "Rédigé le **[J+36 Lettre consolidation]"

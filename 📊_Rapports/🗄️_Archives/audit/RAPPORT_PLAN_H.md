@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_PLAN_H.md ](.RAPPORT_PLAN_H.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "RAPPORT D'EXÉCUTION DU PLAN H : Uniformisation des Assignations"
 description: "Uniformiser les dispositions des actes de procédure, ajouter systématiquement un bordereau de pièces pour chaque assignation et s'assurer de la cohérence des références aux pièces dans le corps des documents."

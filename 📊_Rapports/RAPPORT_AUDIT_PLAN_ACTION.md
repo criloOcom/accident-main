@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_PLAN_ACTION.md ](.RAPPORT_AUDIT_PLAN_ACTION.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "RAPPORT D'AUDIT — PLAN D'ACTION ET ORDONNANCEMENT"
 description: "Date :** 10 juillet 2026"

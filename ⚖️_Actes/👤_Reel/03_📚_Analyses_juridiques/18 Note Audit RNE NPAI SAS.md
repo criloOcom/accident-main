@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 18 Note Audit RNE NPAI SAS.md ](.18 Note Audit RNE NPAI SAS.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Analyse — Non-réception LRAR et statut RNE de [L'Exploitant du Commerce (La SAS)] - Version réelle"
 description: "- Annuaire-entreprises.data.gouv.fr (INSEE)"

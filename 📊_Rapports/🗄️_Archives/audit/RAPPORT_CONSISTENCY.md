@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_CONSISTENCY.md ](.RAPPORT_CONSISTENCY.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Rapport de Consistency"
 description: "L'exécution de `python3 app/check_consistency.py` a généré les avertissements suivants :"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_civil ](../README.md) > 📄 [ Article1242_CodeCivil.md ](.Article1242_CodeCivil.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Code civil — Art. 1242"
 description: "Code civil"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_434-4_CodePenal_Legifrance.md ](.Article_434-4_CodePenal_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article 434-4 du Code pénal"
 description: "Identifiant Légifrance :** LEGIARTI000006418608"

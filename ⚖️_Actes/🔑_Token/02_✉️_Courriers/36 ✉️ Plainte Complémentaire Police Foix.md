@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 36 ✉️ Plainte Complémentaire Police Foix.md ](.36 ✉️ Plainte Complémentaire Police Foix.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "📋 PLAINTE COMPLÉMENTAIRE — OBSTRUCTION À LA JUSTICE"
 description: "À l'attention de :"

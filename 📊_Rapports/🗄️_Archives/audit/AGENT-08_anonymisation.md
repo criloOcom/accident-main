@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AGENT-08_anonymisation.md ](.AGENT-08_anonymisation.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "RAPPORT D'ANONYMISATION — DOSSIER ACTES/TOKEN/"
 description: "L'objectif de cet audit est de s'assurer de l'intégrité absolue de l'anonymisation des documents contenus dans le répertoire `⚖️_Actes/🔑_Token/` conformément à la table de correspondance définie dans [TOKEN MAP.md](file:///home/crilocom/accident-main"

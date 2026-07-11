@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ 20260707 Mémoire juridique Glose.md ](.20260707 Mémoire juridique Glose.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Mémoire juridique — Accident corporel salon de coiffure"
 description: "| Aspect | Notre évaluation | Glose | Écart |"

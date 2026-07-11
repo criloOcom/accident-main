@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_121-3_Code_Legifrance.md ](.Article_121-3_Code_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article 121-3 — Code pénal"
 description: "Code pénal"

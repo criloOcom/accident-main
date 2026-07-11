@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 00 📇 Index.md ](.00 📇 Index.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Index de l'État Final du Dossier"
 description: "Rédigé le **[J+32 Assignation référé]** — Mis à jour le **[J+38 Mise à jour]** (unification bordereau 43 pièces)"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Demande ASSURANCE ](../README.md) > 📄 [ 20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md ](.20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Lettre Recommandée — Mise en Demeure SAS Les Mauvais Garçons"
 description: "Document de type document"

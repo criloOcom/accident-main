@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_FGTI_DINTILHAC.md ](.RAPPORT_AUDIT_FGTI_DINTILHAC.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "RAPPORT D'AUDIT FGTI / DINTILHAC"
 description: "Date :** 10 juillet 2026"

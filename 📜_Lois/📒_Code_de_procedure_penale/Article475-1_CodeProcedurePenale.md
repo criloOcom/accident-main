@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_de_procedure_penale ](../README.md) > 📄 [ Article475-1_CodeProcedurePenale.md ](.Article475-1_CodeProcedurePenale.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article 475-1 — Code de procédure pénale"
 description: "Code de procédure pénale"

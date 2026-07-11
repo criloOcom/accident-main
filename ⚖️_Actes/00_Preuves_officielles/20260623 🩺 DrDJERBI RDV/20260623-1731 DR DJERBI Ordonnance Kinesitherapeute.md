@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260623 🩺 DrDJERBI RDV ](../README.md) > 📄 [ 20260623-1731 DR DJERBI Ordonnance Kinesitherapeute.md ](.20260623-1731 DR DJERBI Ordonnance Kinesitherapeute.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Ordonnance de Kinésithérapie — Docteur DJERBI"
 description: "Document de type document"

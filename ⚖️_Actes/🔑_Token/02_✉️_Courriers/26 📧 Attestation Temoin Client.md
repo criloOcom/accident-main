@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 26 📧 Attestation Temoin Client.md ](.26 📧 Attestation Temoin Client.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Email Transmission Attestation Témoin Client"
 description: "Objet : Attestation de témoin — Accident du **[J+0 Accident]** au salon **[L'Adresse de l'Exploitation]"

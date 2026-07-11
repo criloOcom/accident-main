@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L237-2_Codecommerce_Legifrance.md ](.Article_L237-2_Codecommerce_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article L237-2"
 description: "Code de commerce"

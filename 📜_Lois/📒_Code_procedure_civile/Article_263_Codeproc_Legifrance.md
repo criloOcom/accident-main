@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_procedure_civile ](../README.md) > 📄 [ Article_263_Codeproc_Legifrance.md ](.Article_263_Codeproc_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Articles 263 et suivants"
 description: "Code de procédure civile"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 99 🛡️ Memoire en defense adverse.md ](.99 🛡️ Memoire en defense adverse.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Mémoire en défense adverse — SAS Les Mauvais Garçons - Version réelle"
 description: "Pour :** SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC (Partie Défenderesse)"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ recherche_articles_courrier31.md ](.recherche_articles_courrier31.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Rapport de Recherche — Articles L.123-5-1 et R.123-143 du Code de commerce"
 description: "Mission :** Vérification des articles cités dans le Courrier 31 (Opposition INPI)"

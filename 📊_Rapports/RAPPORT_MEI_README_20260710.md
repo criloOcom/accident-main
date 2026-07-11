@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_MEI_README_20260710.md ](.RAPPORT_MEI_README_20260710.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "RAPPORT - Mise à Jour README.md pour Interface Humaine"
 description: "Date:** 10 juillet 2026"

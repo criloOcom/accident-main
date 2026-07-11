@@ -1,4 +1,6 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](../../README.md) > 📁 [ 📎_Annexes ](../README.md) > 📄 [ README.md ](README.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
 
 # 📁 📎_Annexes
 

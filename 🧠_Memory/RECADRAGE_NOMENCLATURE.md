@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ RECADRAGE_NOMENCLATURE.md ](.RECADRAGE_NOMENCLATURE.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "NOTIFICATION — Application immédiate de l'Avenant Nomenclature"
 description: "Date** : 10 juillet 2026"

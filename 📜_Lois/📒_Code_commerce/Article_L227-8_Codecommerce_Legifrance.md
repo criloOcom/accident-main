@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L227-8_Codecommerce_Legifrance.md ](.Article_L227-8_Codecommerce_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article L227-8"
 description: "Code de commerce"

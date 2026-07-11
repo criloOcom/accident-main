@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 38 ✅ CHECKLIST_DEPLACEMENT_POLICE_FOIX.md ](.38 ✅ CHECKLIST_DEPLACEMENT_POLICE_FOIX.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Checklist Complète — Déplacement au Commissariat de Foix - Version réelle"
 description: "Date prévue :** [Date à compléter]"

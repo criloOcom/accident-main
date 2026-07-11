@@ -1,8 +1,13 @@
-<!-- [🏠](../README.md) > 📄 [ README.md ](.README.md) -->
+<!-- Breadcrumb -->
+[🏠](README.md)
+<!-- /Breadcrumb -->
+
 ---
+<!-- YAML -->
 title: "🏛️ Dossier Juridique « Accident Main » - Sébastien GRAZIDE"
 description: "Porte d'entrée du dossier — navigation hypertexte vers tous les actes, lois, mémoires et rapports"
 type: readme
+<!-- YAML -->
 ---
 
 # 🏛️ Dossier Juridique « Accident Main » - Sébastien GRAZIDE

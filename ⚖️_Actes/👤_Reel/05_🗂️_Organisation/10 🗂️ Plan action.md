@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 10 🗂️ Plan action.md ](.10 🗂️ Plan action.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Plan d'Action et Chronologie de la Procédure - Version réelle"
 description: "Rédigé le 30 juin 2026"

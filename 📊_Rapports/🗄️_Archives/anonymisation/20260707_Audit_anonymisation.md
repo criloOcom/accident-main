@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ anonymisation ](../README.md) > 📄 [ 20260707_Audit_anonymisation.md ](.20260707_Audit_anonymisation.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Audit d'Anonymisation"
 description: "Date :** 2026-07-07"

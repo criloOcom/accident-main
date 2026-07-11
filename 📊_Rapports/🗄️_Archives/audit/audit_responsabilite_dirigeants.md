@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_responsabilite_dirigeants.md ](.audit_responsabilite_dirigeants.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Audit de la Responsabilité des Dirigeants"
 description: "Contexte :** Accident corporel survenu le **[J+0 Accident]** au sein du salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]**."

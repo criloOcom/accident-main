@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ EVIDENCE_MATRIX.md ](.EVIDENCE_MATRIX.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Matrice des Preuves"
 description: "<hr><hr>"

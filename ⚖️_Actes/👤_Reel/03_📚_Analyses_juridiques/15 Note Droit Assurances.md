@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 15 Note Droit Assurances.md ](.15 Note Droit Assurances.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Note d'Analyse Juridique - Droit des Assurances - Version réelle"
 description: "La présente note détaille la stratégie et l'analyse en droit des assurances concernant le litige opposant Sébastien GRAZIDE à SAS LES MAUVAIS GARCONS et ses dirigeants, suite à l'accident corporel survenu le 29 mai 2026. Elle aborde la validité de l'"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ 20260708_Rapport_Baremique_Dintilhac.md ](.20260708_Rapport_Baremique_Dintilhac.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Rapport d'expertise barémique — Évaluation Dintilhac"
 description: "Contexte :** Évaluation financière des préjudices corporels subis par la victime. Analyse détaillée poste par poste au regard des barèmes de référence (Mornet 2024, BIBAL, jurisprudence)."

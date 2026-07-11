@@ -1,4 +1,6 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](../../../README.md) > 📁 [ 00_Preuves_officielles ](../../README.md) > 📁 [ 20260708 ✉️ LR Relance ASSURANCE ](../README.md) > 📄 [ README.md ](README.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
 
 # 📁 20260708 ✉️ LR Relance ASSURANCE
 

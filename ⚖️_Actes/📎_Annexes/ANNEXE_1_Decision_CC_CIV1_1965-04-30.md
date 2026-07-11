@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](..../README.md) > 📁 [ 📎_Annexes ](../README.md) > 📄 [ ANNEXE_1_Decision_CC_CIV1_1965-04-30.md ](.ANNEXE_1_Decision_CC_CIV1_1965-04-30.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "ANNEXE 1 - Décision Cour de Cassation, Première Chambre Civile, 30 avril 1965"
 description: "Numéro de pourvoi:** 63-13.613"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 15 ⚖️ Réquisitoire introductif.md ](.15 ⚖️ Réquisitoire introductif.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Réquisitoire Introductif"
 description: "Ouverture d'une information judiciaire — Blessures involontaires et infractions connexes"

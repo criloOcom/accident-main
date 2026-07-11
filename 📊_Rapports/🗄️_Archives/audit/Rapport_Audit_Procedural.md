@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ Rapport_Audit_Procedural.md ](.Rapport_Audit_Procedural.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "RAPPORT D'AUDIT PROCÉDURAL — Conformité et anomalies"
 description: "En qualité de Procureur de la République, l'audit des actes procéduraux versés au dossier révèle de multiples irrégularités manifestes. Les voies de droit sont parfois mal orientées, les fondements juridiques erronés et les délais légaux non respecté"

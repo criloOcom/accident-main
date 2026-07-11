@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_434-15_CodePenal_Legifrance.md ](.Article_434-15_CodePenal_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article 434-15 du Code pénal"
 description: "Dernière mise à jour :** 10 juillet 2026"

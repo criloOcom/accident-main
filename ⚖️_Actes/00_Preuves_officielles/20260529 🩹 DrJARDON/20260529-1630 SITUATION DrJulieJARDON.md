@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260529 🩹 DrJARDON ](../README.md) > 📄 [ 20260529-1630 SITUATION DrJulieJARDON.md ](.20260529-1630 SITUATION DrJulieJARDON.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Compte Rendu de Situation — Docteur Julie JARDON"
 description: "Document de type document"

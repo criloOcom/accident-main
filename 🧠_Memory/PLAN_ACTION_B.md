@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ PLAN_ACTION_B.md ](.PLAN_ACTION_B.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "PLAN D'ACTION B — OBTENTION DES PREUVES MATÉRIELLES"
 description: "| Action | Détail | Documents nécessaires | Destinataire | Statut |"

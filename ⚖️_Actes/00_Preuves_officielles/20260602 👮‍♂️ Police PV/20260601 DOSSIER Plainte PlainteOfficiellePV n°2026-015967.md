@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260602 👮‍♂️ Police PV ](../README.md) > 📄 [ 20260601 DOSSIER Plainte PlainteOfficiellePV n°2026-015967.md ](.20260601 DOSSIER Plainte PlainteOfficiellePV n°2026-015967.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Dossier de Plainte — Plainte Officielle PV n°2026-015967"
 description: "Document de type document"

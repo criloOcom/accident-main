@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_assurances ](../README.md) > 📄 [ Article_L113-2_Codesassurances_Legifrance.md ](.Article_L113-2_Codesassurances_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article L113-2"
 description: "Code des assurances"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](..../README.md) > 📁 [ 🔑_Token ](../README.md) > 📄 [ README.md ](.README.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "🎭 Actes / token — Version Anonymisée"
 description: "Ce dossier contient la version de travail de tous les actes."

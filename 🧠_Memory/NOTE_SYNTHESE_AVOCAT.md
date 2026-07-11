@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ NOTE_SYNTHESE_AVOCAT.md ](.NOTE_SYNTHESE_AVOCAT.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Note de Synthèse pour Avocat"
 description: "<hr><hr>"

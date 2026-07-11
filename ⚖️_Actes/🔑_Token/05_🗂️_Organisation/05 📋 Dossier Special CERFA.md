@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 05 📋 Dossier Special CERFA.md ](.05 📋 Dossier Special CERFA.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "05 Dossier Spécial CERFA"
 description: "Dans le cadre du dossier d'accident corporel de **[La Victime]**, plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditi"

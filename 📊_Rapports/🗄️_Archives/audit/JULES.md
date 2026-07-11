@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ JULES.md ](.JULES.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "JULES — Guide pour l'agent Google Jules"
 description: "Ce fichier documente tout ce que Jules (Google Jules) doit savoir pour travailler sur ce projet."

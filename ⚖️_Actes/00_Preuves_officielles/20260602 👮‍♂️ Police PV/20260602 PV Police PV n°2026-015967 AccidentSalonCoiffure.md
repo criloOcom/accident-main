@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260602 👮‍♂️ Police PV ](../README.md) > 📄 [ 20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md ](.20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Procès-Verbal de Police n°2026-015967 — Accident Salon de Coiffure"
 description: "Document de type document"

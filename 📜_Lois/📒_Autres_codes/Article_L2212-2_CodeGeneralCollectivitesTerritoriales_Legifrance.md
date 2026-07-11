@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L2212-2_CodeGeneralCollectivitesTerritoriales_Legifrance.md ](.Article_L2212-2_CodeGeneralCollectivitesTerritoriales_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article L. 2212-2 du Code général des collectivités territoriales"
 description: "Identifiant Légifrance :** LEGIARTI000029946370"

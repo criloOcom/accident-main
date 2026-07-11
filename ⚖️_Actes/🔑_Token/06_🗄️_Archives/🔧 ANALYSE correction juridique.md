@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🔧 ANALYSE correction juridique.md ](.🔧 ANALYSE correction juridique.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Mémorandum Juridique — Audit Stratégique et Restructuration Contentieuse"
 description: "Rédigé le **[J+32 Assignation référé]"

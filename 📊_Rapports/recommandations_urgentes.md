@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ recommandations_urgentes.md ](.recommandations_urgentes.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Recommandations Urgentes et Priorisation des Actions"
 description: "Ordre de priorité des opérations pour la sauvegarde des preuves."

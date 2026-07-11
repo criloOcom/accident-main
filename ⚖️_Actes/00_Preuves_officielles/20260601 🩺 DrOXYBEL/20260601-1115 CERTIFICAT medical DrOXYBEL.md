@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260601 🩺 DrOXYBEL ](../README.md) > 📄 [ 20260601-1115 CERTIFICAT medical DrOXYBEL.md ](.20260601-1115 CERTIFICAT medical DrOXYBEL.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Certificat Médical Initial — Docteur OXYBEL"
 description: "Document de type document"

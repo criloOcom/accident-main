@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 26 📧 Attestation Temoin Client.md ](.26 📧 Attestation Temoin Client.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Email Transmission Attestation Témoin Client - Version réelle"
 description: "Objet : Attestation de témoin — Accident du 29 mai 2026 au salon 22 Rue Lafaurie, 09000 Foix"

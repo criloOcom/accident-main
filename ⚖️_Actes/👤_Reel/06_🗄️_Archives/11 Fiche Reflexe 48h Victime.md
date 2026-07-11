@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 11 Fiche Reflexe 48h Victime.md ](.11 Fiche Reflexe 48h Victime.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Fiche Reflexe 48h — Victime d'Accident Corporel - Version réelle"
 description: "Etape 1 — Securite et sante"

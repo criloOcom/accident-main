@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 29 ✉️ Courrier Maire Foix.md ](.29 ✉️ Courrier Maire Foix.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Mise en demeure de la Mairie — Police Administrative - Version réelle"
 description: "Sébastien GRAZIDE"

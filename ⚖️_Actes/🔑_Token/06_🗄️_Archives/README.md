@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ README.md ](.README.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "📦 Archives"
 description: "Ce dossier regroupe les documents historiques et les annexes qui ne font pas partie des actes vivants du dossier mais qui restent nécessaires à la compréhension complète du contentieux."
@@ -35,4 +38,3 @@ type: readme
 | Dossier | Contenu |
 |---------|---------|
 | **`annexes/`** | **ANNEXE A** — Lexique des tokens • **ANNEXE B** — Lois et jurisprudence • **ANNEXE C** — Pièces |
-

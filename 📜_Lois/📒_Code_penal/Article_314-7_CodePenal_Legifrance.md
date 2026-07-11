@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_314-7_CodePenal_Legifrance.md ](.Article_314-7_CodePenal_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article 314-7 du Code pénal"
 description: "Identifiant Légifrance :** LEGIARTI000006418226"

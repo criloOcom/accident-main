@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ README_OLD.md ](.README_OLD.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "⚖️ Bibliothèque Juridique"
 description: "Ce dossier contient les textes de loi et les arrêts de jurisprudence cités dans les actes du dossier."
@@ -56,4 +59,3 @@ Chaque fichier est une fiche dédiée, conservant le texte intégral ou un extra
 ## 📁 PDFs
 
 Le dossier `pdfs/` contient les documents源 originaux téléchargés depuis Légifrance.
-

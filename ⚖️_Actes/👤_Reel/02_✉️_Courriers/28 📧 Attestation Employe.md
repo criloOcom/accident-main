@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 28 📧 Attestation Employe.md ](.28 📧 Attestation Employe.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Email Transmission Attestation Employé - Version réelle"
 description: "Objet : Attestation de témoin — Accident du 29 mai 2026 au 22 Rue Lafaurie, 09000 Foix"

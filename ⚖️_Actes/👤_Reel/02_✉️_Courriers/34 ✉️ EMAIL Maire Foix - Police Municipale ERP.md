@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md ](.34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Email définitif à l'Adjoint au Maire de Foix — Éléments d'actualisation sur le dossier ERP - Version réelle"
 description: "Destinataire** : `btavella@mairie-foix.fr`"

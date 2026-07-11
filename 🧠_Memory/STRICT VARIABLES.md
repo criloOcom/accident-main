@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ STRICT VARIABLES.md ](.STRICT VARIABLES.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "VARIABLES STRICTES — Source Unique de Vérité"
 description: "NE JAMAIS MODIFIER NI INVENTER.** Ces valeurs prévalent sur tout autre contenu."

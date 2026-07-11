@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ JUSTIFICATION_PROVISION_15000.md ](.JUSTIFICATION_PROVISION_15000.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Justification de la Provision de 15 000 € en Référé"
 description: "Condition** : l'obligation ne doit pas être sérieusement contestable."

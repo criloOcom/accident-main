@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_civil ](../README.md) > 📄 [ Article_1844-8_Code_Legifrance.md ](.Article_1844-8_Code_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article 1844-8 — Code civil"
 description: "Code civil"

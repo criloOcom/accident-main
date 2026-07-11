@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 25 📧 Relance Dr DJERBI.md ](.25 📧 Relance Dr DJERBI.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Relance **[Le Chirurgien SOS Main]** - Certificat de Consolidation"
 description: "Objet : Demande de certificat médical de consolidation — Suite courrier du **[J+37 Assignation 145]"

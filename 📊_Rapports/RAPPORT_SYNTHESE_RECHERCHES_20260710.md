@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_SYNTHESE_RECHERCHES_20260710.md ](.RAPPORT_SYNTHESE_RECHERCHES_20260710.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "RAPPORT DE SYNTHÈSE - Recherches Juridiques MCP"
 description: "Date** : 10 juillet 2026"

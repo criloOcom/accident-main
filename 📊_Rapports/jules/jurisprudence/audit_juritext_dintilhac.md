@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ jurisprudence ](../README.md) > 📄 [ audit_juritext_dintilhac.md ](.audit_juritext_dintilhac.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "audit_juritext_dintilhac"
 description: "Document de type rapport"

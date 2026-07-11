@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 25 📧 Relance Dr DJERBI.md ](.25 📧 Relance Dr DJERBI.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Relance Dr Iskander DJERBI - Certificat de Consolidation - Version réelle"
 description: "Objet : Demande de certificat médical de consolidation — Suite courrier du 5 juillet 2026"

@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_de_procedure_civile ](../README.md) > 📄 [ Article_263_Codeproc_Legifrance.md ](.Article_263_Codeproc_Legifrance.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Article 263 — Code de procédure civile"
 description: "Code de procédure civile"

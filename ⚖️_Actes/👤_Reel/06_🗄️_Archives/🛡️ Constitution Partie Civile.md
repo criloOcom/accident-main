@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🛡️ Constitution Partie Civile.md ](.🛡️ Constitution Partie Civile.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Constitution de Partie Civile - Version réelle"
 description: "Rédigé le 30 juin 2026"

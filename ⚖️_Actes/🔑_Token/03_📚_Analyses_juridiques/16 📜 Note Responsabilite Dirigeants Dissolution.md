@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 16 📜 Note Responsabilite Dirigeants Dissolution.md ](.16 📜 Note Responsabilite Dirigeants Dissolution.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Note Responsabilité Dirigeants Dissolution"
 description: "Dans l'hypothèse où **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** procèderaient à la dissolution ou à la radiation de **[L'Exploitant du Commerce (La SAS)]** afin d'échapper aux poursuites et à l'indemnisation"

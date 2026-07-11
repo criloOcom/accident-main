@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ README.md ](.README.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "⚖️ Bibliothèque Juridique"
 description: "Ce dossier contient les textes de loi et les arrêts de jurisprudence cités dans les actes du dossier."
@@ -128,4 +131,3 @@ Pour ajouter un nouvel article :
 2. Utiliser le template standard (voir les fichiers existants)
 3. Ajouter une entrée dans le tableau ci-dessus
 4. Mettre à jour le taux de complétude
-

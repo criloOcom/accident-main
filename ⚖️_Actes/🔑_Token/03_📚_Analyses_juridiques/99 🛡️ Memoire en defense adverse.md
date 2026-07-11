@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 99 🛡️ Memoire en defense adverse.md ](.99 🛡️ Memoire en defense adverse.md) -->
+<!-- Breadcrumb -->
+[🏠](../../../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "Mémoire en défense adverse — SAS Les Mauvais Garçons"
 description: "Pour :** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** (Partie Défenderesse)"
