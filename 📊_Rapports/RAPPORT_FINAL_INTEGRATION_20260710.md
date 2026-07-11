@@ -58,12 +58,12 @@ type: rapport
 - **Objectif** : Enrichir les actes avec les références
 - **Résultats** : 3 décisions jurisprudentielles intégrées dans l'assignation + création d'annexes complètes
 - **Fichiers modifiés** :
-  - `⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md`
-  - `⚖️_Actes/👤_Reel/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md`
+  - [⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md](⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md)
+  - [⚖️_Actes/👤_Reel/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md](⚖️_Actes/👤_Reel/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md)
 - **Annexes créées** :
-  - `⚖️_Actes/📎_Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md`
-  - `⚖️_Actes/📎_Annexes/ANNEXE_2_Decision_CC_CIV1_1994-07-08.md`
-  - `⚖️_Actes/📎_Annexes/ANNEXE_3_Decision_CC_CIV1_2012-07-04.md`
+  - [⚖️_Actes/📎_Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md](⚖️_Actes/📎_Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md)
+  - [⚖️_Actes/📎_Annexes/ANNEXE_2_Decision_CC_CIV1_1994-07-08.md](⚖️_Actes/📎_Annexes/ANNEXE_2_Decision_CC_CIV1_1994-07-08.md)
+  - [⚖️_Actes/📎_Annexes/ANNEXE_3_Decision_CC_CIV1_2012-07-04.md](⚖️_Actes/📎_Annexes/ANNEXE_3_Decision_CC_CIV1_2012-07-04.md)
 
 ### ✅ ÉTAPE 7: Génération des Versions Réelles
 - **Objectif** : Mettre à jour les versions avec identités réelles
@@ -104,7 +104,7 @@ type: rapport
 
 ### Assignation en Référé-Provision
 
-**Fichier** : `⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md`
+**Fichier** : [⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md](⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md)
 
 **Section ajoutée** : "A. Jurisprudence Pertinente" après "II. DISCUSSION JURIDIQUE"
 
@@ -129,7 +129,7 @@ type: rapport
 
 ### Annexes Jurisprudentielles
 
-**Répertoire créé** : `⚖️_Actes/📎_Annexes/`
+**Répertoire créé** : [⚖️_Actes/📎_Annexes](⚖️_Actes/📎_Annexes/README.md)
 
 **Contenu** :
 - **ANNEXE 1** : Décision complète du 30/04/1965 (responsabilité professionnelle)
@@ -221,11 +221,11 @@ Rien à signaler — tout est cohérent.
 
 ### Ressources Disponibles
 
-- **Données brutes** : 3.6 MB de données juridiques dans `📊_Rapports/`
+- **Données brutes** : 3.6 MB de données juridiques dans [📊_Rapports](📊_Rapports/README.md)
 - **Références formatées** : `REFERENCES_MARKDOWN_20260710.json`
 - **Décisions sélectionnées** : `DECISIONS_SELECTIONNEES_20260710.json`
-- **Documentation** : `📜_Lois/EXEMPLES_REQUETES_MCP.md`
-- **Annexes jurisprudentielles** : `⚖️_Actes/📎_Annexes/` (3 décisions complètes)
+- **Documentation** : [📜_Lois/EXEMPLES_REQUETES_MCP.md](📜_Lois/EXEMPLES_REQUETES_MCP.md)
+- **Annexes jurisprudentielles** : [⚖️_Actes/📎_Annexes](⚖️_Actes/📎_Annexes/README.md) (3 décisions complètes)
 
 ---
 

@@ -4,14 +4,14 @@
 
 ---
 title: "Recommandations pour la Rédaction des Actes Juridiques"
-description: "Ce document compile les recommandations issues de recherches web et de l'analyse du dossier `⚖️_Actes/` afin d'améliorer la qualité, le professionnalisme et la clarté des actes juridiques produits (assignations, constitutions de partie civile, etc.)."
+description: "Ce document compile les recommandations issues de recherches web et de l'analyse du dossier [⚖️_Actes](⚖️_Actes/README.md) afin d'améliorer la qualité, le professionnalisme et la clarté des actes juridiques produits (assignations, constitutions de partie civile, etc.)."
 type: readme
 ---
 
 # Recommandations pour la Rédaction des Actes Juridiques
 
 ## Introduction
-Ce document compile les recommandations issues de recherches web et de l'analyse du dossier `⚖️_Actes/` afin d'améliorer la qualité, le professionnalisme et la clarté des actes juridiques produits (assignations, constitutions de partie civile, etc.).
+Ce document compile les recommandations issues de recherches web et de l'analyse du dossier [⚖️_Actes](⚖️_Actes/README.md) afin d'améliorer la qualité, le professionnalisme et la clarté des actes juridiques produits (assignations, constitutions de partie civile, etc.).
 
 ## 1. Principes Fondamentaux de la Rédaction Juridique
 - **Clarté, Précision et Rigueur :** Les actes doivent être rédigés dans un langage clair, sans ambiguïté. Chaque terme juridique doit être utilisé à bon escient.
@@ -31,7 +31,7 @@ Ce document compile les recommandations issues de recherches web et de l'analyse
 - **Chiffrage des demandes :** Prévoir une évaluation (même provisionnelle) des préjudices en s'appuyant sur des nomenclatures reconnues (ex: nomenclature Dintilhac).
 - **Demande d'expertise :** Si l'évaluation finale n'est pas possible, formuler explicitement une demande d'expertise médicale judiciaire.
 
-## 3. Amélioration Formelle des Documents du Dossier `⚖️_Actes/`
+## 3. Amélioration Formelle des Documents du Dossier [⚖️_Actes](⚖️_Actes/README.md)
 - **Uniformisation :** S'assurer que tous les actes (civils et pénaux) respectent la même charte de présentation (polices, marges, alignement justifié).
 - **Gestion des Pièces :** S'assurer que les références aux pièces (ex: `🔒 PIÈCE ORIGINALE`) sont correctement insérées et listées dans les actes.
 - **Anonymisation / Tokens :** Continuer d'appliquer rigoureusement la logique de tokens (`[La Victime]`, `[L'Exploitant du Commerce (La SAS)]`) et vérifier systématiquement qu'aucune donnée personnelle n'est laissée en clair, conformément au `TOKEN MAP.md`.

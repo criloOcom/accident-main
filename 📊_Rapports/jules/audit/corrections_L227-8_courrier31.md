@@ -58,7 +58,7 @@ Tous les textes ont été vérifiés via l'API OpenLegi (Légifrance) le 10/07/2
 
 ## Fichiers modifiés
 
-1. `⚖️_Actes/🔑_Token/02_✉️_Courriers/03 ✉️ Courrier SAS.md` — L.227-8 texte corrigé
-2. `⚖️_Actes/🔑_Token/02_✉️_Courriers/06 ✉️ Courrier President DG.md` — L.227-8 texte corrigé
-3. `⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/02b 🛡️ Constitution Partie Civile.md` — L.227-8 texte corrigé
-4. `⚖️_Actes/🔑_Token/02_✉️_Courriers/31 ✉️ Courrier INPI Opposition.md` — L.123-5-1 et R.123-143 remplacés par textes réels
+1. [⚖️_Actes/🔑_Token/02_✉️_Courriers/03 ✉️ Courrier SAS.md](⚖️_Actes/🔑_Token/02_✉️_Courriers/03 ✉️ Courrier SAS.md) — L.227-8 texte corrigé
+2. [⚖️_Actes/🔑_Token/02_✉️_Courriers/06 ✉️ Courrier President DG.md](⚖️_Actes/🔑_Token/02_✉️_Courriers/06 ✉️ Courrier President DG.md) — L.227-8 texte corrigé
+3. [⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/02b 🛡️ Constitution Partie Civile.md](⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/02b 🛡️ Constitution Partie Civile.md) — L.227-8 texte corrigé
+4. [⚖️_Actes/🔑_Token/02_✉️_Courriers/31 ✉️ Courrier INPI Opposition.md](⚖️_Actes/🔑_Token/02_✉️_Courriers/31 ✉️ Courrier INPI Opposition.md) — L.123-5-1 et R.123-143 remplacés par textes réels

@@ -4,14 +4,14 @@
 
 ---
 title: "Rapport d'Audit : Cohérence des organismes et adresses"
-description: "Vérifier la cohérence des noms d'organismes, des adresses, des sigles et des tribunaux compétents dans l'ensemble des courriers 03 à 34 du dossier tokenisé (`⚖️_Actes/🔑_Token/02_✉️_Courriers/`)."
+description: "Vérifier la cohérence des noms d'organismes, des adresses, des sigles et des tribunaux compétents dans l'ensemble des courriers 03 à 34 du dossier tokenisé ([⚖️_Actes/🔑_Token/02_✉️_Courriers](⚖️_Actes/🔑_Token/02_✉️_Courriers/README.md))."
 type: rapport
 ---
 
 # Rapport d'Audit : Cohérence des organismes et adresses
 
 ## Objectif
-Vérifier la cohérence des noms d'organismes, des adresses, des sigles et des tribunaux compétents dans l'ensemble des courriers 03 à 34 du dossier tokenisé (`⚖️_Actes/🔑_Token/02_✉️_Courriers/`).
+Vérifier la cohérence des noms d'organismes, des adresses, des sigles et des tribunaux compétents dans l'ensemble des courriers 03 à 34 du dossier tokenisé ([⚖️_Actes/🔑_Token/02_✉️_Courriers](⚖️_Actes/🔑_Token/02_✉️_Courriers/README.md)).
 
 ## Vérifications effectuées
 
@@ -36,4 +36,4 @@ Vérifier la cohérence des noms d'organismes, des adresses, des sigles et des t
    - Les courriers destinés aux organismes publics (CPAM, URSSAF, Inspection du Travail, SIE, etc.) ne contiennent pas d'adresses en clair dans le corps du texte (en dehors des informations tokenisées), celles-ci étant gérées par les en-têtes YAML (ex: `destinataire: CPAM Haute-Garonne`, `destinataire: URSSAF Midi-Pyrenees`, `destinataire: Service des Impôts des Entreprises de **[La Ville de l'Accident]**`) ou de manière générique.
 
 ## Conclusion
-L'audit a permis de relever et corriger quelques fuites d'anonymisation restantes relatives à la ville ("Foix") rattachée aux juridictions compétentes. Les courriers 03 à 34 sont désormais pleinement cohérents et respectent la table de tokens définie dans `🧠_Memory/TOKEN MAP.md`.
+L'audit a permis de relever et corriger quelques fuites d'anonymisation restantes relatives à la ville ("Foix") rattachée aux juridictions compétentes. Les courriers 03 à 34 sont désormais pleinement cohérents et respectent la table de tokens définie dans [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md).

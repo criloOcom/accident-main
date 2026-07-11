@@ -57,9 +57,9 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 
 | # | Document | Type | Statut | Emplacement |
 |---|----------|------|--------|-------------|
-| 36 | **Plainte Complémentaire** | Acte juridique | ✅ Finalisé | `⚖️_Actes/👤_Reel/02_✉️_Courriers/` |
-| 37 | **Guide de Dialogue** | Guide pratique | ✅ Finalisé | `⚖️_Actes/👤_Reel/02_✉️_Courriers/` |
-| 38 | **Checklist Déplacement** | Organisation | ✅ Finalisé | `⚖️_Actes/👤_Reel/02_✉️_Courriers/` |
+| 36 | **Plainte Complémentaire** | Acte juridique | ✅ Finalisé | [⚖️_Actes/👤_Reel/02_✉️_Courriers](⚖️_Actes/👤_Reel/02_✉️_Courriers/README.md) |
+| 37 | **Guide de Dialogue** | Guide pratique | ✅ Finalisé | [⚖️_Actes/👤_Reel/02_✉️_Courriers](⚖️_Actes/👤_Reel/02_✉️_Courriers/README.md) |
+| 38 | **Checklist Déplacement** | Organisation | ✅ Finalisé | [⚖️_Actes/👤_Reel/02_✉️_Courriers](⚖️_Actes/👤_Reel/02_✉️_Courriers/README.md) |
 
 ### Documents Existants Mis à Jour
 
@@ -497,17 +497,17 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 ### Ressources Disponibles
 
 **📂 Dossier complet disponible dans :**
-- `⚖️_Actes/👤_Reel/02_✉️_Courriers/` (versions réelles)
-- `⚖️_Actes/🔑_Token/02_✉️_Courriers/` (versions anonymisées)
+- [⚖️_Actes/👤_Reel/02_✉️_Courriers](⚖️_Actes/👤_Reel/02_✉️_Courriers/README.md) (versions réelles)
+- [⚖️_Actes/🔑_Token/02_✉️_Courriers](⚖️_Actes/🔑_Token/02_✉️_Courriers/README.md) (versions anonymisées)
 
 **📊 Rapports de référence :**
-- `📊_Rapports/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md`
-- `📊_Rapports/RAPPORT_AUDIT_RISQUES.md`
-- `📊_Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md`
+- [📊_Rapports/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md](📊_Rapports/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md)
+- [📊_Rapports/RAPPORT_AUDIT_RISQUES.md](📊_Rapports/RAPPORT_AUDIT_RISQUES.md)
+- [📊_Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md](📊_Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md)
 
 **📚 Documentation juridique :**
-- `📜_Lois/EXEMPLES_REQUETES_MCP.md`
-- `⚖️_Actes/📎_Annexes/` (3 décisions jurisprudentielles)
+- [📜_Lois/EXEMPLES_REQUETES_MCP.md](📜_Lois/EXEMPLES_REQUETES_MCP.md)
+- [⚖️_Actes/📎_Annexes](⚖️_Actes/📎_Annexes/README.md) (3 décisions jurisprudentielles)
 
 ---
 

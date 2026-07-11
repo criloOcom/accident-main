@@ -33,16 +33,16 @@ type: rapport
   2. **Cour de Cassation, Civ. 1ère, 08/07/1994** - Subrogation en responsabilité professionnelle
   3. **Cour de Cassation, Civ. 1ère, 04/07/2012** - Valeur patrimoniale et responsabilité des associés
 
-- **3 annexes complètes créées** dans `⚖️_Actes/📎_Annexes/`:
+- **3 annexes complètes créées** dans [⚖️_Actes/📎_Annexes](⚖️_Actes/📎_Annexes/README.md):
   - Texte intégral de chaque décision
   - Résumé et analyse de pertinence
   - Liens Légifrance fonctionnels
   - Format Markdown professionnel
 
 - **Documents mis à jour:**
-  - `⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md`
-  - `⚖️_Actes/👤_Reel/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md`
-  - `📊_Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md`
+  - [⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md](⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md)
+  - [⚖️_Actes/👤_Reel/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md](⚖️_Actes/👤_Reel/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md)
+  - [📊_Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md](📊_Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md)
 
 #### Communication Administrative
 - **Email n°34 envoyé** à l'adjoint au maire de Foix (11/07/2026 8h00)

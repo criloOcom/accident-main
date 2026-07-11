@@ -34,6 +34,6 @@ Ces documents constituent le socle argumentaire de la procédure.
  
 ## 🔗 Références croisées
 
-- `📜_Lois/` — Textes de loi et arrêts cités, classés par numéro
+- [📜_Lois](📜_Lois/README.md) — Textes de loi et arrêts cités, classés par numéro
 - `🧠_Memory/RAPPORT_JURISPRUDENCES.md` — Vérification systématique des citations
 - `🧠_Memory/RAPPORT_PLAN_H.md` — Uniformisation des assignations / bordereaux

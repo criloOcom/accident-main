@@ -118,178 +118,178 @@ type: rapport
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `- 08/07/2026 — Dr Iskander DJERBI — CR de reprise J+39 — [🔗 Drive](https://drive.google.com/file/d/1t1wRleVkYYByK25vBjONn6XU1E8JY9OT/view)`
 
-- **Fichier:** `🧠_Memory/DECISIONS.md` (Ligne 54)
+- **Fichier:** [🧠_Memory/DECISIONS.md](🧠_Memory/DECISIONS.md) (Ligne 54)
   - **Nom(s) trouvé(s):** Sébastien, Sabir, MOUNTASSER
   - **Contexte:** `- Les prénoms seuls ("Sébastien") et les noms en casse mixte ("Mountasser Sabir", ancien format inversé) ne sont pas remplacés`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 17)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 17)
   - **Nom(s) trouvé(s):** Julie, JARDON
   - **Contexte:** `| 29/05/2026 16:30 | Dr Julie JARDON | Premiers soins urgence | [🔗 Voir](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 20)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 20)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 30/05/2026 | Dr Iskander DJERBI | CR opératoire microchirurgie | [🔗 Voir](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 21)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 21)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 30/05/2026 17:00 | Dr Iskander DJERBI | Ordonnance sortie antalgiques | [🔗 Voir](https://drive.google.com/file/d/1CasEuj6N2FVmg9kAxKhdqKD70UYmq4Vh/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 53)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 53)
   - **Nom(s) trouvé(s):** Julie, JARDON
   - **Contexte:** `| 29/05/2026 16:30 | Dr Julie JARDON | Premiers soins | [🔗 Voir](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 54)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 54)
   - **Nom(s) trouvé(s):** Julie, JARDON
   - **Contexte:** `| 29/05/2026 16:31 | Dr Julie JARDON | Prescription | [🔗 Voir](https://drive.google.com/file/d/16ZtYjUZW0dmH0UPrHQG9bLlpWdOwflcA/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 59)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 59)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 30/05/2026 | Dr Iskander DJERBI | CR opératoire | [🔗 Voir](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 66)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 66)
   - **Nom(s) trouvé(s):** Julie, JARDON
   - **Contexte:** `| 29/05/2026 16:30 | Dr Julie JARDON | Premiers soins | [🔗 Voir](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 67)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 67)
   - **Nom(s) trouvé(s):** Julie, JARDON
   - **Contexte:** `| 29/05/2026 16:31 | Dr Julie JARDON | Prescription | [🔗 Voir](https://drive.google.com/file/d/16ZtYjUZW0dmH0UPrHQG9bLlpWdOwflcA/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 69)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 69)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 30/05/2026 | Dr Iskander DJERBI | CR opératoire | [🔗 Voir](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 70)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 70)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 30/05/2026 17:00 | Dr Iskander DJERBI | Ordonnance sortie | [🔗 Voir](https://drive.google.com/file/d/1CasEuj6N2FVmg9kAxKhdqKD70UYmq4Vh/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 77)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 77)
   - **Nom(s) trouvé(s):** Julie, JARDON
   - **Contexte:** `| 29/05/2026 16:30 | Dr Julie JARDON | Premiers soins | [🔗 Voir](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 78)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 78)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 30/05/2026 | Dr Iskander DJERBI | CR opératoire | [🔗 Voir](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 87)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 87)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 30/05/2026 | Dr Iskander DJERBI | CR opératoire | | [🔗 Voir](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 90)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 90)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 10/06/2026 | Dr Iskander DJERBI | Facture chir. 790,23€ | 790,23€ | [🔗 Voir](https://drive.google.com/file/d/10vU_UlMgUnCuyao6D_6GlUTmdt5VOf-n/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 99)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 99)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 30/05/2026 | Dr Iskander DJERBI | CR opératoire | [🔗 Voir](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 103)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 103)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 19/06/2026 | Dr Iskander DJERBI | CR contrôle J+20 | [🔗 Voir](https://drive.google.com/file/d/1CSoaFFL8CJknPxeQKlYHAh3viPR2zPYa/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 110)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 110)
   - **Nom(s) trouvé(s):** Julie, JARDON
   - **Contexte:** `| 29/05/2026 | Dr Julie JARDON | Premiers soins | [🔗 Voir](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 111)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 111)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 30/05/2026 | Dr Iskander DJERBI | CR opératoire | [🔗 Voir](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 122)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 122)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 30/05/2026 | Dr Iskander DJERBI | CR opératoire | [🔗 Voir](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 132)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 132)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 30/05/2026 | Dr Iskander DJERBI | CR opératoire | [🔗 Voir](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 141)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 141)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 30/05/2026 | Dr Iskander DJERBI | CR opératoire | [🔗 Voir](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 144)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 144)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 10/06/2026 | Dr Iskander DJERBI | Facture 790,23€ | [🔗 Voir](https://drive.google.com/file/d/10vU_UlMgUnCuyao6D_6GlUTmdt5VOf-n/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 150)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 150)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 30/05/2026 | Dr Iskander DJERBI | CR opératoire | [🔗 Voir](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |`
 
-- **Fichier:** `🧠_Memory/PIECES MAP.md` (Ligne 160)
+- **Fichier:** [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) (Ligne 160)
   - **Nom(s) trouvé(s):** Iskander, DJERBI
   - **Contexte:** `| 30/05/2026 | Dr Iskander DJERBI | CR opératoire | [🔗 Voir](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |`
 
-- **Fichier:** `🧠_Memory/STATUS.md` (Ligne 213)
+- **Fichier:** [🧠_Memory/STATUS.md](🧠_Memory/STATUS.md) (Ligne 213)
   - **Nom(s) trouvé(s):** MOUNTASSER, ANDISSAC
   - **Contexte:** `- **06_Courrier President DG.md** : créé par fusion des pièces MOUNTASSER et ANDISSAC en courrier unique double destinataire`
 
-- **Fichier:** `🧠_Memory/STATUS.md` (Ligne 267)
+- **Fichier:** [🧠_Memory/STATUS.md](🧠_Memory/STATUS.md) (Ligne 267)
   - **Nom(s) trouvé(s):** DJERBI
   - **Contexte:** `## Phase 5d — Courrier Consolidation Dr DJERBI (Plan E) (5 juillet 2026) ✅`
 
-- **Fichier:** `🧠_Memory/STRICT VARIABLES.md` (Ligne 6)
+- **Fichier:** [🧠_Memory/STRICT VARIABLES.md](🧠_Memory/STRICT VARIABLES.md) (Ligne 6)
   - **Nom(s) trouvé(s):** Sébastien, GRAZIDE
   - **Contexte:** `- NOM : GRAZIDE Sébastien`
 
-- **Fichier:** `🧠_Memory/STRICT VARIABLES.md` (Ligne 33)
+- **Fichier:** [🧠_Memory/STRICT VARIABLES.md](🧠_Memory/STRICT VARIABLES.md) (Ligne 33)
   - **Nom(s) trouvé(s):** Oxybel
   - **Contexte:** `- ⚠ ITT_INITIALE_ERREUR : Dr Oxybel a noté 1 jour le 01/06 (erreur matérielle, rectifiée à 56j)`
 
-- **Fichier:** `🧠_Memory/STRICT VARIABLES.md` (Ligne 43)
+- **Fichier:** [🧠_Memory/STRICT VARIABLES.md](🧠_Memory/STRICT VARIABLES.md) (Ligne 43)
   - **Nom(s) trouvé(s):** Bennourine, Ayoub
   - **Contexte:** `1. Le coiffeur (Ayoub Bennourine) est monté physiquement sur la vasque en céramique du bac à shampoing`
 
-- **Fichier:** `🧠_Memory/TODO.md` (Ligne 65)
+- **Fichier:** [🧠_Memory/TODO.md](🧠_Memory/TODO.md) (Ligne 65)
   - **Nom(s) trouvé(s):** DJERBI
   - **Contexte:** `1. Demander certificat médical de consolidation au Dr DJERBI` — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Envoyer le courrier de relance pour certificat de consolidation)**
 
-- **Fichier:** `🧠_Memory/TOKEN MAP.md` (Ligne 6)
+- **Fichier:** [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md) (Ligne 6)
   - **Nom(s) trouvé(s):** Sébastien, Grazide, GRAZIDE
   - **Contexte:** `| Sébastien GRAZIDE / Grazide / GRAZIDE | `**[La Victime]**` |`
 
-- **Fichier:** `🧠_Memory/TOKEN MAP.md` (Ligne 7)
+- **Fichier:** [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md) (Ligne 7)
   - **Nom(s) trouvé(s):** Sabir, MOUNTASSER, Mountasser, SABIR
   - **Contexte:** `| Sabir MOUNTASSER / MOUNTASSER / Mountasser SABIR / SABIR / Mountasser Sabir | `**[Le Président de l'Exploitation]**` |`
 
-- **Fichier:** `🧠_Memory/TOKEN MAP.md` (Ligne 8)
+- **Fichier:** [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md) (Ligne 8)
   - **Nom(s) trouvé(s):** ANDISSAC, Sorroche, Andissac
   - **Contexte:** `| Catherine ANDISSAC / SORROCHE / Catherine Andissac / Catherine Sorroche | `**[La Directrice Générale de l'Exploitation]**` |`
 
-- **Fichier:** `🧠_Memory/TOKEN MAP.md` (Ligne 9)
+- **Fichier:** [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md) (Ligne 9)
   - **Nom(s) trouvé(s):** BENNOURINE, Bennourine, Ayoub
   - **Contexte:** `| Ayoub Bennourine / BENNOURINE | `**[Le Préposé de l'Exploitation]**` |`
 
-- **Fichier:** `🧠_Memory/TOKEN MAP.md` (Ligne 10)
+- **Fichier:** [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md) (Ligne 10)
   - **Nom(s) trouvé(s):** Romain, DELRIEU
   - **Contexte:** `| Romain DELRIEU / DELRIEU | `**[Le Propriétaire des Murs]**` |`
 
-- **Fichier:** `🧠_Memory/TOKEN MAP.md` (Ligne 11)
+- **Fichier:** [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md) (Ligne 11)
   - **Nom(s) trouvé(s):** Djerbi, Iskander, DJERBI
   - **Contexte:** `| Dr Iskander Djerbi / DJERBI | `**[Le Chirurgien SOS Main]**` |`
 
-- **Fichier:** `🧠_Memory/TOKEN MAP.md` (Ligne 12)
+- **Fichier:** [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md) (Ligne 12)
   - **Nom(s) trouvé(s):** Julie, Jardon, JARDON
   - **Contexte:** `| Dr Julie Jardon / JARDON | `**[Le Médecin en Urgence]**` |`
 
-- **Fichier:** `🧠_Memory/TOKEN MAP.md` (Ligne 13)
+- **Fichier:** [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md) (Ligne 13)
   - **Nom(s) trouvé(s):** Oxybel
   - **Contexte:** `| Dr Oxybel / Oxybel | `**[Le Médecin Généraliste]**` |`
 
-- **Fichier:** `🧠_Memory/TOKEN MAP.md` (Ligne 14)
+- **Fichier:** [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md) (Ligne 14)
   - **Nom(s) trouvé(s):** Sigrid, DESBOIS
   - **Contexte:** `| Sigrid DESBOIS / DESBOIS | `**[La Gestionnaire CPAM]**` |`
 
-- **Fichier:** `🧠_Memory/TOKEN MAP.md` (Ligne 40)
+- **Fichier:** [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md) (Ligne 40)
   - **Nom(s) trouvé(s):** Sabir, MOUNTASSER
   - **Contexte:** `- Les prénoms/noms en casse mixte sans espace entre les deux (ex. "Mountasser Sabir" — ancien format inversé) doivent être ajoutés manuellement comme entrées au script`
 
-- **Fichier:** `🧠_Memory/TOKEN MAP.md` (Ligne 41)
+- **Fichier:** [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md) (Ligne 41)
   - **Nom(s) trouvé(s):** Sébastien, Sabir
   - **Contexte:** `- Les prénoms seuls (ex. "Sébastien", "Sabir") ne sont pas dans la table — ils peuvent apparaître dans des documents conversationnels (doc 11)`
 
-- **Fichier:** `🧠_Memory/WORKFLOW.md` (Ligne 39)
+- **Fichier:** [🧠_Memory/WORKFLOW.md](🧠_Memory/WORKFLOW.md) (Ligne 39)
   - **Nom(s) trouvé(s):** Sabir, MOUNTASSER, SABIR, Mountasser
   - **Contexte:** `- Les noms en "Prénom Nom" (ex. "Mountasser Sabir" — ancien format inversé — ou "Sabir MOUNTASSER" — format correct) ne sont pas remplacés → à ajouter manuellement dans le script`
 
-- **Fichier:** `🧠_Memory/WORKFLOW.md` (Ligne 40)
+- **Fichier:** [🧠_Memory/WORKFLOW.md](🧠_Memory/WORKFLOW.md) (Ligne 40)
   - **Nom(s) trouvé(s):** Sébastien
   - **Contexte:** `- Les prénoms seuls ("Sébastien", "Catherine") ne sont pas dans la table → correction manuelle dans le markdown avant injection`

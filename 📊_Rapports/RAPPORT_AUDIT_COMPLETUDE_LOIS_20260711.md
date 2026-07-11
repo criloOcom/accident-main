@@ -12,7 +12,7 @@ type: rapport
 
 **Date** : 11 juillet 2026
 **Projet** : Accident Main - Dossier Sébastien GRAZIDE
-**Objectif** : Vérifier que le dossier `📜_Lois` contient toutes les lois citées dans les actes juridiques
+**Objectif** : Vérifier que le dossier [📜_Lois](📜_Lois/README.md) contient toutes les lois citées dans les actes juridiques
 
 ---
 
@@ -31,7 +31,7 @@ type: rapport
 
 ### Structure Actuelle
 
-Le dossier `📜_Lois` contient **92 fichiers** organisés comme suit :
+Le dossier [📜_Lois](📜_Lois/README.md) contient **92 fichiers** organisés comme suit :
 
 - **40 fichiers** de jurisprudence (arrêts de la Cour de cassation)
 - **52 fichiers** d'articles de loi (codes civil, pénal, commerce, etc.)

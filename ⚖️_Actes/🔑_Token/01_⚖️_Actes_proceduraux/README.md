@@ -33,7 +33,7 @@ Ces documents constituent le corps de la procédure en référé.
  
 ## 🔗 Liens vers les versions réelles
 
-> `⚖️_Actes/👤_Reel/01_⚖️_Actes_proceduraux/README.md`
+> [⚖️_Actes/👤_Reel/01_⚖️_Actes_proceduraux/README.md](⚖️_Actes/👤_Reel/01_⚖️_Actes_proceduraux/README.md)
 
 ## 📅 Échéances
 

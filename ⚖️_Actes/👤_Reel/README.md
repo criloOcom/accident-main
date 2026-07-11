@@ -18,7 +18,7 @@ Les tokens anonymisés (`**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS
 ## ⚠️ Règle
 
 > **Ne jamais modifier les fichiers dans `reel/` directement.**  
-> Toute modification doit être faite dans `⚖️_Actes/🔑_Token/`, puis regénérée via :
+> Toute modification doit être faite dans [⚖️_Actes/🔑_Token](⚖️_Actes/🔑_Token/README.md), puis regénérée via :
 > ```bash
 > python3 app/generate_real_versions.py
 > ```
@@ -37,4 +37,4 @@ Les tokens anonymisés (`**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS
 ## 🔗 Source
 
 Tous ces fichiers sont générés depuis :
-> `⚖️_Actes/🔑_Token/` → `python3 app/generate_real_versions.py` → `⚖️_Actes/👤_Reel/`
+> [⚖️_Actes/🔑_Token](⚖️_Actes/🔑_Token/README.md) → `python3 app/generate_real_versions.py` → [⚖️_Actes/👤_Reel](⚖️_Actes/👤_Reel/README.md)

@@ -22,7 +22,7 @@ type: rapport
 | 🔴 Fuite token GitHub dans `.git/config` | **CRITIQUE** | 🔴🔴🔴 |
 | 🔴 Token dans `~/.git-credentials` (visible tout process) | **CRITIQUE** | 🔴🔴🔴 |
 | 🟡 Pollution branches (80+ locales, 100+ distantes) | **ÉLEVÉ** | 🟡🟡 |
-| 🟡 Répertoires rapports dupliqués (`reports/` + `📊_Rapports/`) | **MOYEN** | 🟡 |
+| 🟡 Répertoires rapports dupliqués (`reports/` + [📊_Rapports](📊_Rapports/README.md)) | **MOYEN** | 🟡 |
 | 🟢 README.md à jour | **BON** | ✅ |
 | 🟢 pre-commit hook actif | **BON** | ✅ |
 | 🟢 .gitignore complet | **BON** | ✅ |
@@ -75,7 +75,7 @@ venv/
 **Statut : 🟡 Satisfaisant mais incomplet**
 - ✅ `.env` / `.venv` / `__pycache__` exclus
 - ✅ Fichiers token Drive/Piste exclus
-- ✅ PDFs exclus sauf `📜_Lois/pdfs/` (jurisprudence)
+- ✅ PDFs exclus sauf [📜_Lois/pdfs](📜_Lois/pdfs/README.md) (jurisprudence)
 - ⚠️ `.git-credentials` non listé (ne peut pas être ignoré par `.gitignore`)
 - ⚠️ `.git/config` non protégeable via `.gitignore` — le token y est stocké en clair
 - ⚠️ `.dev/artifacts/` et `.dev/data/scratch/` non exclus (fichiers volumineux)
@@ -156,7 +156,7 @@ https://criloOcom:[REVOKED_TOKEN]@github.com
 | Plus gros fichiers en historique | `uv.lock` (545 KB), `results_*.json/html` (jusqu'à 443 KB), PDFs jurisprudence (jusqu'à 218 KB) |
 
 **Analyse** :
-- Le poids vient surtout des **PDFs** dans `📜_Lois/pdfs/` (117 Mo estimés)
+- Le poids vient surtout des **PDFs** dans [📜_Lois/pdfs](📜_Lois/pdfs/README.md) (117 Mo estimés)
 - `.dev/artifacts/` contient des artefacts de test volumineux (json + html)
 - 318 objets `prune-packable` indiquent des réécritures d'historique partielles
 - **Propre** : pas de blobs géants (> 1 Mo) dans l'historique
@@ -172,7 +172,7 @@ https://criloOcom:[REVOKED_TOKEN]@github.com
 - ✅ Tableau d'échéances impératives (envoi n°34 aujourd'hui)
 - ✅ Arborescence documentée
 - ✅ Tableau des courriers avec statuts réels (envoyés/prêts/projets/gabarits)
-- ✅ Liens vers `🧠_Memory/` (VACCIN, STATUS, RULES, etc.)
+- ✅ Liens vers [🧠_Memory](🧠_Memory/README.md) (VACCIN, STATUS, RULES, etc.)
 - ✅ Workflow quotidien documenté (8 étapes)
 - ✅ Scripts listés avec rôles
 - ✅ Remote GitHub et token référencé (Secret Manager)
@@ -202,7 +202,7 @@ https://criloOcom:[REVOKED_TOKEN]@github.com
 
 | Problème | Impact | Remédiation |
 |----------|--------|-------------|
-| `reports/` ET `📊_Rapports/` | Ambiguïté, fragmentation | Fusionner dans `📊_Rapports/` ou décider d'un seul standard |
+| `reports/` ET [📊_Rapports](📊_Rapports/README.md) | Ambiguïté, fragmentation | Fusionner dans [📊_Rapports](📊_Rapports/README.md) ou décider d'un seul standard |
 
 ### 🟢 AMÉLIORATIONS SOUHAITABLES
 

@@ -105,7 +105,7 @@ Ce dossier contient la correspondance officielle envoyée le 10 juillet 2026 à 
 ### Correspondance avec le Courrier n°34
 
 Ce dossier est directement lié au **courrier n°34** du projet :
-- **Document** : `⚖️_Actes/🔑_Token/02_✉️_Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md`
+- **Document** : [⚖️_Actes/🔑_Token/02_✉️_Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md](⚖️_Actes/🔑_Token/02_✉️_Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md)
 - **Type** : Email de suivi administratif
 - **Date** : 10 juillet 2026
 - **Objectif** : Mise à jour du dossier ERP et demande d'intervention
@@ -143,7 +143,7 @@ gantt
 ### A. Documentation du Dossier
 
 **Fichier créé :** `RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711.md`
-- Emplacement : `📊_Rapports/`
+- Emplacement : [📊_Rapports](📊_Rapports/README.md)
 - Contenu : Documentation complète du nouveau dossier
 - Objectif : Reference pour tous les agents du projet
 

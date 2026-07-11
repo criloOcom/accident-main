@@ -31,7 +31,7 @@ Le dossier mentionne une plainte pénale, une constitution de partie civile, ain
 ## 3. GESTION DU DOSSIER ET BONNES PRATIQUES
 
 ### Éléments manquants et recommandations :
-*   **`🧠_Memory/STRICT VARIABLES.md`** : Le fichier existant s'appelle `STRICT VARIABLES.md` (avec un espace) mais est parfois documenté ou recherché comme `STRICT_VARIABLES.md`. **Recommandation :** Unifier la nomenclature des fichiers pour éviter les erreurs de scripts.
+*   **[🧠_Memory/STRICT VARIABLES.md](🧠_Memory/STRICT VARIABLES.md)** : Le fichier existant s'appelle `STRICT VARIABLES.md` (avec un espace) mais est parfois documenté ou recherché comme `STRICT_VARIABLES.md`. **Recommandation :** Unifier la nomenclature des fichiers pour éviter les erreurs de scripts.
 *   **Pièces Médicales et "Aveu"** : La pièce financière Wero (15,00 € remboursé) est considérée comme un "aveu implicite". Juridiquement, c'est fragile. Il faut s'appuyer avant tout sur les témoignages (si existants) et le PV de police pour établir la matérialité des faits.
 *   **Assurance Protection Juridique (PJ)** : Mentionnée dans le dossier de présentation. **Action requise :** La victime doit déclarer le sinistre à sa propre assurance PJ au plus vite (les délais sont souvent courts, de l'ordre de 5 jours ouvrés).
 

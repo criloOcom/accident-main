@@ -74,7 +74,7 @@ Tous les documents en version Token perdent systématiquement les accents franç
 
 ### 1.3 Références internes brisées
 
-Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../../📜_Lois/XXX.md` qui pointent vers des fichiers qui existent dans `📜_Lois/` — MAIS le chemin relatif depuis `🔑_Token/03_📚_Analyses_juridiques/` vers `📜_Lois/` est `../../../📜_Lois/`, pas `../../📜_Lois/`.
+Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../../📜_Lois/XXX.md` qui pointent vers des fichiers qui existent dans [📜_Lois](📜_Lois/README.md) — MAIS le chemin relatif depuis `🔑_Token/03_📚_Analyses_juridiques/` vers [📜_Lois](📜_Lois/README.md) est `../../../📜_Lois/`, pas `../../📜_Lois/`.
 
 | Lien dans 14 | Chemin actuel | Chemin correct |
 |---|---|---|

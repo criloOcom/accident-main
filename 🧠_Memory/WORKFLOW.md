@@ -23,7 +23,7 @@ type: memory
 ## Après injection (application de la charte DESIGN.md) :
 - **NE PAS** inclure l'ANNEXE 1 (tableau des acteurs) dans les copies UNIFIE_ANONYME — elle contient la correspondance jeton ↔ identité réelle
 - Les tables de correspondance sont conservées dans TOKEN MAP.md (hors du Drive)
-- **Appliquer la charte graphique** définie dans `🧠_Memory/DESIGN.md` :
+- **Appliquer la charte graphique** définie dans [🧠_Memory/DESIGN.md](🧠_Memory/DESIGN.md) :
   1. `applyParagraphStyle` → JUSTIFIED sur tout le document
   2. `applyTextStyle` → liens Légifrance/Judilibre sur les refs légales
   3. `applyTextStyle` → bold sur les tokens `**[La Victime]**`, `**[L'Exploitant]**`, etc.
@@ -42,7 +42,7 @@ type: memory
   1. `cd /home/crilocom/accident-main && python3 app/check_consistency.py`
   2. Le script signale les liens morts, tokens inconnus, LEGIARTI invalides, dates incohérentes
   3. Corriger les erreurs signalées avant de commit
-  4. Vérifier que `⚖️_Actes/archives/STRATEGIE_Contentieux_Civil.md` et `⚖️_Actes/archives/STRATEGIE_Contentieux_Penal.md` listent bien le nouvel acte
+  4. Vérifier que [⚖️_Actes/🔑_Token/06_🗄️_Archives/🧠 STRATEGIE Contentieux Civil.md](⚖️_Actes/🔑_Token/06_🗄️_Archives/🧠 STRATEGIE Contentieux Civil.md) et [⚖️_Actes/🔑_Token/06_🗄️_Archives/🧠 STRATEGIE Contentieux Penal.md](⚖️_Actes/🔑_Token/06_🗄️_Archives/🧠 STRATEGIE Contentieux Penal.md) listent bien le nouvel acte
 
 ## Gestion des sessions Jules — CYCLE DE VIE
 - Une session Jules est créée avec `jules_create_session` pour exécuter une tâche de code.

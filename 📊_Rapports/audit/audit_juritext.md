@@ -11,7 +11,7 @@ type: rapport
 # Rapport d'Audit JURITEXT — Mission M6
 
 **Date :** 10 juillet 2026  
-**Périmètre :** `⚖️_Actes/🔑_Token/` (dossiers 01 à 06)  
+**Périmètre :** [⚖️_Actes/🔑_Token](⚖️_Actes/🔑_Token/README.md) (dossiers 01 à 06)  
 **Méthode :** Extraction par grep + vérification API `openlegi_get_decision_judiciaire`  
 **Protocole :** JURITEXT_PROTOCOL.md
 

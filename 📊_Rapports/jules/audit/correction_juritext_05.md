@@ -4,13 +4,13 @@
 
 ---
 title: "Rapport de correction — JURITEXT erronés"
-description: "Fichier corrigé :** `⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/05 🎯 Conclusions Refere.md`"
+description: "Fichier corrigé :** [⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/05 🎯 Conclusions Refere.md](⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/05 🎯 Conclusions Refere.md)"
 type: rapport
 ---
 
 # Rapport de correction — JURITEXT erronés
 
-**Fichier corrigé :** `⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/05 🎯 Conclusions Refere.md`
+**Fichier corrigé :** [⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/05 🎯 Conclusions Refere.md](⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/05 🎯 Conclusions Refere.md)
 **Date :** 10/07/2026
 
 ---
@@ -43,4 +43,4 @@ type: rapport
 
 ## Note annexe
 
-Le fichier miroir `⚖️_Actes/👤_Reel/01_⚖️_Actes_proceduraux/05 🎯 Conclusions Refere.md` contient les **mêmes JURITEXT erronés** aux lignes 85 et 93. Il devra être corrigé manuellement ou via regénération (`generate_real_versions.py`).
+Le fichier miroir [⚖️_Actes/👤_Reel/01_⚖️_Actes_proceduraux/05 🎯 Conclusions Refere.md](⚖️_Actes/👤_Reel/01_⚖️_Actes_proceduraux/05 🎯 Conclusions Refere.md) contient les **mêmes JURITEXT erronés** aux lignes 85 et 93. Il devra être corrigé manuellement ou via regénération (`generate_real_versions.py`).

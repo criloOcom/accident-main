@@ -11,7 +11,7 @@ type: rapport
 # RAPPORT D'AUDIT DE TOKENISATION
 
 **Date :** 10 juillet 2026
-**Objet :** Audit des fuites de données personnelles dans `⚖️_Actes/🔑_Token/`
+**Objet :** Audit des fuites de données personnelles dans [⚖️_Actes/🔑_Token](⚖️_Actes/🔑_Token/README.md)
 **Méthode :** Scan regex exhaustif (noms, emails, adresses, SIREN, téléphones, dates brutes) + revue manuelle
 
 ---
@@ -207,7 +207,7 @@ type: rapport
 
 10. **Supprimer les doublons** dans `REVERSE_MAP` (lignes dupliquées pour les mêmes tokens).
 
-11. **Ajouter un test** d'intégrité qui vérifie qu'aucun fichier dans `⚖️_Actes/🔑_Token/` ne contient de pattern PII (email, téléphone, SIREN, etc.).
+11. **Ajouter un test** d'intégrité qui vérifie qu'aucun fichier dans [⚖️_Actes/🔑_Token](⚖️_Actes/🔑_Token/README.md) ne contient de pattern PII (email, téléphone, SIREN, etc.).
 
 ---
 

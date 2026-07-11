@@ -4,13 +4,13 @@
 
 ---
 title: "Évaluation d'Accessibilité - Courrier de Relance Dirigeants"
-description: "Document analysé :** `⚖️_Actes/🔑_Token/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md`"
+description: "Document analysé :** [⚖️_Actes/🔑_Token/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md](⚖️_Actes/🔑_Token/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md)"
 type: rapport
 ---
 
 # Évaluation d'Accessibilité - Courrier de Relance Dirigeants
 
-**Document analysé :** `⚖️_Actes/🔑_Token/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md`
+**Document analysé :** [⚖️_Actes/🔑_Token/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md](⚖️_Actes/🔑_Token/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md)
 **Auteur :** La Victime (non-juriste)
 **Destinataire :** Dirigeants de PME
 **Évaluateur :** Avocat généraliste

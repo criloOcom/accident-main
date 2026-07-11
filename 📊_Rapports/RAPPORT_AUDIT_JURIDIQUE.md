@@ -68,7 +68,7 @@ type: rapport
 
 ### 2.3 Jurisprudence vérifiée (Cour de cassation — 25 arrêts dans 📜_Lois)
 
-Tous les arrêts listés dans `📜_Lois/README.md` sont présents et vérifiables. Les arrêts clés pour l'affaire :
+Tous les arrêts listés dans [📜_Lois/README.md](📜_Lois/README.md) sont présents et vérifiables. Les arrêts clés pour l'affaire :
 - **89-18.422** (Civ. 2e, 13 fév. 1991) — Échelle qui bascule = instrument du dommage → utile pour le bac à shampoing
 - **91-13.580** (Civ. 2e, 25 nov. 1992) — Chose inerte, position anormale à prouver
 - **91-15.035** (Civ. 2e, 5 mai 1993) — Charge preuve instrument du dommage

@@ -56,7 +56,7 @@ Les fichiers `.md` dans `markdown_normalized/` utilisent le marqueur `<hr><hr>` 
 
 ## Mapping fichiers ↔ Google Docs
 
-Le fichier `🧠_Memory/PIECES MAP.md` contient le mapping complet :
+Le fichier [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) contient le mapping complet :
 - Nom du fichier `.md` → ID Google Docs
 - Les IDs sont stables (ne changent pas après renommage)
 
@@ -140,9 +140,9 @@ Ces fichiers doivent être présents dans `/home/crilocom/.opencode/` :
 
 **Ne JAMAIS commit ces fichiers dans Git.** Ils sont dans `.gitignore`.
 
-## Bibliothèque juridique locale (`📜_Lois/`)
+## Bibliothèque juridique locale ([📜_Lois](📜_Lois/README.md))
 
-Le dossier `📜_Lois/` contient 16 textes juridiques (articles de code + jurisprudences) extraits du Drive dossier **00 Lois**, convertis en `.md`.
+Le dossier [📜_Lois](📜_Lois/README.md) contient 16 textes juridiques (articles de code + jurisprudences) extraits du Drive dossier **00 Lois**, convertis en `.md`.
 
 - `📜_Lois/INDEX.md` — tableau récapitulatif des 16 fichiers
 - Lire un fichier : `cat 📜_Lois/Article1242_CodeCivil.md`
@@ -233,7 +233,7 @@ readDocument(documentId, maxLength=500)
 ## Règles importantes
 
 1. **Ne JAMAIS inventer de statut juridique** — si une info n'est pas dans les sources, ne pas l'inventer
-2. **Toujours vérifier** les tokens d'anonymisation dans `🧠_Memory/TOKEN MAP.md` avant modification
+2. **Toujours vérifier** les tokens d'anonymisation dans [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md) avant modification
 3. **Les sauts de page** (`<hr><hr>`) sont obligatoires : intro, sections, annexes
-4. **Le mapping** fichier ↔ Google Doc est dans `🧠_Memory/PIECES MAP.md` — le consulter avant toute injection
+4. **Le mapping** fichier ↔ Google Doc est dans [🧠_Memory/PIECES MAP.md](🧠_Memory/PIECES MAP.md) — le consulter avant toute injection
 5. **Ne pas modifier** directement les Google Docs avec find/replace ou regex — toujours passer par `replaceDocumentWithMarkdown`

@@ -8,10 +8,10 @@ description: "Document de type rapport"
 type: rapport
 ---
 
-1. **Créer le fichier `🧠_Memory/NOTE_SYNTHESE_AVOCAT.md`**
+1. **Créer le fichier [🧠_Memory/NOTE_SYNTHESE_AVOCAT.md](🧠_Memory/NOTE_SYNTHESE_AVOCAT.md)**
    - Utiliser le format Arial JUSTIFIED comme demandé (frontmatter).
    - Inclure un résumé exécutif (victime, responsable, accident, montant, statut).
-   - Créer un tableau des parties avec tokens et identités réelles d'après `🧠_Memory/TOKEN MAP.md` (victime: Sébastien GRAZIDE, Président: Sabir MOUNTASSER, etc.).
+   - Créer un tableau des parties avec tokens et identités réelles d'après [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md) (victime: Sébastien GRAZIDE, Président: Sabir MOUNTASSER, etc.).
    - Dresser la chronologie avec les événements majeurs (accident le 29/05, opération le 30/05, plainte le 01-02/06, ARs de mise en demeure le 29/06, échéance le 14/07, référé le 31/07, expertise le 12/11).
    - Lister les preuves acquises (CR opératoire, plainte, preuves Wero) et manquantes (vidéo, huissier, RC Pro) d'après `EVIDENCE_MATRIX.md` et `PLAN_ACTION_B.md`.
    - Élaborer une analyse juridique détaillée (Art. 1242 C. civ., Art. L.124-3 C. assur. pour l'action directe, faute détachable jurisprudence SATI, Art. 222-20 CP plainte pénale, CIVI/FGTI en subsidiaire Art. 706-3 CPP / 706-5 CPP).

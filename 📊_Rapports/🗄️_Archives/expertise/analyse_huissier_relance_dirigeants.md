@@ -4,13 +4,13 @@
 
 ---
 title: "Analyse du Commissaire de Justice (Huissier) : Courrier de Relance Dirigeants"
-description: "Ce rapport présente l'analyse du projet de courrier de relance (`⚖️_Actes/🔑_Token/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md`) sous l'angle de la pratique des commissaires de justice."
+description: "Ce rapport présente l'analyse du projet de courrier de relance ([⚖️_Actes/🔑_Token/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md](⚖️_Actes/🔑_Token/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md)) sous l'angle de la pratique des commissaires de justice."
 type: rapport
 ---
 
 # Analyse du Commissaire de Justice (Huissier) : Courrier de Relance Dirigeants
 
-Ce rapport présente l'analyse du projet de courrier de relance (`⚖️_Actes/🔑_Token/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md`) sous l'angle de la pratique des commissaires de justice.
+Ce rapport présente l'analyse du projet de courrier de relance ([⚖️_Actes/🔑_Token/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md](⚖️_Actes/🔑_Token/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md)) sous l'angle de la pratique des commissaires de justice.
 
 ## 1. Notification par Commissaire de Justice
 La menace de recourir à un huissier pour les notifications futures est **totalement crédible et justifiée**.

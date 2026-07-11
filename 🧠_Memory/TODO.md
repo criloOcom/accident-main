@@ -4,7 +4,7 @@
 
 ---
 title: "TODO — Plans d'action + Tableau de bord Sébastien"
-description: "- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → `📊_Rapports/RAPPORT_AUDIT_RISQUES.md`"
+description: "- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → [📊_Rapports/RAPPORT_AUDIT_RISQUES.md](📊_Rapports/RAPPORT_AUDIT_RISQUES.md)"
 type: memory
 ---
 
@@ -16,7 +16,7 @@ type: memory
 > Légifrance (`consulter_article` ou `rechercher_code`) pour vérifier le contexte
 > avant intégration.
 >
-> **Nouveau :** Voir `📜_Lois/EXEMPLES_REQUETES_MCP.md` pour des exemples
+> **Nouveau :** Voir [📜_Lois/EXEMPLES_REQUETES_MCP.md](📜_Lois/EXEMPLES_REQUETES_MCP.md) pour des exemples
 > concrets et testés d'utilisation des MCP Légifrance et Judilibre.
 
 ---
@@ -24,11 +24,11 @@ type: memory
 ## 📋 TABLEAU DE BORD SÉBASTIEN
 
 ### ✅ Dernières actions IA (10 juillet 2026)
-- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → `📊_Rapports/RAPPORT_AUDIT_RISQUES.md`
+- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → [📊_Rapports/RAPPORT_AUDIT_RISQUES.md](📊_Rapports/RAPPORT_AUDIT_RISQUES.md)
 - **Risques prioritaires identifiés** : 4 critiques (🔴 R1-R3-R5) et 6 urgents (🟠 R4-R6-R7-R8-R9-R19)
-- **Intégration jurisprudentielle** : 3 décisions clés + annexes complètes → `⚖️_Actes/📎_Annexes/`
-- **Plainte complémentaire** : création du document n°36 pour obstruction à la justice → `⚖️_Actes/👤_Reel/02_✉️_Courriers/36 ✉️ Plainte Complémentaire Police Foix.md`
-- **Articles de loi ajoutés** : Articles 434-15 et 434-15-1 du Code pénal → `📜_Lois/📒_Code_penal/`
+- **Intégration jurisprudentielle** : 3 décisions clés + annexes complètes → [⚖️_Actes/📎_Annexes](⚖️_Actes/📎_Annexes/README.md)
+- **Plainte complémentaire** : création du document n°36 pour obstruction à la justice → [⚖️_Actes/👤_Reel/02_✉️_Courriers/36 ✉️ Plainte Complémentaire Police Foix.md](⚖️_Actes/👤_Reel/02_✉️_Courriers/36 ✉️ Plainte Complémentaire Police Foix.md)
+- **Articles de loi ajoutés** : Articles 434-15 et 434-15-1 du Code pénal → [📜_Lois/📒_Code_penal](📜_Lois/📒_Code_penal/README.md)
 
 ### ✅ Dernières actions IA (8 juillet 2026)
 - **12 PRs Jules mergées** (#73-84) : audits avocat, RGPD, barémique, assurance, FGTI, organisation, dirigeants, ERP, ordonnance
@@ -160,7 +160,7 @@ PHASE POST-CONSOLIDATION (quand consolidation obtenue)
 
 ---
 
-### PLAN F — RESTRUCTURATION `⚖️_Actes/` ✅ TERMINÉ
+### PLAN F — RESTRUCTURATION [⚖️_Actes](⚖️_Actes/README.md) ✅ TERMINÉ
 
 - Nouvelle arborescence `{00-06}` + token/reel
 - Scripts mis à jour

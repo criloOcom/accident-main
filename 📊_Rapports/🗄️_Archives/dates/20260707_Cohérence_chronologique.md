@@ -33,7 +33,7 @@ type: rapport
 
 ## 4. Conclusion sur la cohérence
 
-La chronologie interne du dossier est **strictement cohérente autour de la date du 29 mai 2026**, qui est la source unique de vérité définie dans `🧠_Memory/STRICT VARIABLES.md`.
+La chronologie interne du dossier est **strictement cohérente autour de la date du 29 mai 2026**, qui est la source unique de vérité définie dans [🧠_Memory/STRICT VARIABLES.md](🧠_Memory/STRICT VARIABLES.md).
 
 - Accident : 29 mai 2026
 - Première procédure / Plainte : 1er juin 2026

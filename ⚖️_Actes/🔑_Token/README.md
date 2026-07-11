@@ -19,7 +19,7 @@ Les identités réelles (noms, adresses, email, immatriculations) y sont remplac
 
 - **Toute modification se fait ici.** Ne jamais modifier les fichiers dans `reel/`.
 - Un fichier créé ou modifié dans `token/` doit être propagé dans `reel/` via le script.
-- Les tokens sont définis dans `🧠_Memory/TOKEN MAP.md` et `🧠_Memory/STRICT VARIABLES.md`.
+- Les tokens sont définis dans [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md) et [🧠_Memory/STRICT VARIABLES.md](🧠_Memory/STRICT VARIABLES.md).
 
 ## 📂 Contenu
 

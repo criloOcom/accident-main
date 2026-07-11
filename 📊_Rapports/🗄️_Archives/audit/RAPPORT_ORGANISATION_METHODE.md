@@ -4,7 +4,7 @@
 
 ---
 title: "Rapport d'Audit Organisationnel et Méthodologique"
-description: "Structure du projet (arborescence) :** L'arborescence est très cohérente, logique et extensible. La séparation claire entre les actes (`⚖️_Actes/`), les lois (`📜_Lois/`), la mémoire persistante (`🧠_Memory/`), les rapports (`📊_Rapports/`), et le code"
+description: "Structure du projet (arborescence) :** L'arborescence est très cohérente, logique et extensible. La séparation claire entre les actes ([⚖️_Actes](⚖️_Actes/README.md)), les lois ([📜_Lois](📜_Lois/README.md)), la mémoire persistante ([🧠_Memory](🧠_Memory/README.md)), les rapports ([📊_Rapports](📊_Rapports/README.md)), et le code"
 type: rapport
 ---
 
@@ -12,8 +12,8 @@ type: rapport
 
 ## 1. Forces
 
-*   **Structure du projet (arborescence) :** L'arborescence est très cohérente, logique et extensible. La séparation claire entre les actes (`⚖️_Actes/`), les lois (`📜_Lois/`), la mémoire persistante (`🧠_Memory/`), les rapports (`📊_Rapports/`), et le code source (`.dev/`) facilite la navigation. Au sein des actes, la division thématique (Preuves, Actes procéduraux, Courriers, Analyses, Études, Organisation, Archives) numérotée de 00 à 06 offre une excellente granularité et un ordre logique du traitement d'un dossier.
-*   **Double strate token/reel :** L'approche est brillante. En séparant strictement les fichiers de travail tokenisés (`⚖️_Actes/🔑_Token/`) des versions réelles générées automatiquement (`⚖️_Actes/👤_Reel/`), le projet protège l'identité des parties impliquées tout en permettant aux agents d'intelligence artificielle de traiter le dossier sans risque d'exposer des données confidentielles. Le reverse-mapping via le script `generate_real_versions.py` et le tableau de correspondance (`TOKEN MAP.md`) est bien exécuté et respecte scrupuleusement la Règle d'Or de la séparation stricte.
+*   **Structure du projet (arborescence) :** L'arborescence est très cohérente, logique et extensible. La séparation claire entre les actes ([⚖️_Actes](⚖️_Actes/README.md)), les lois ([📜_Lois](📜_Lois/README.md)), la mémoire persistante ([🧠_Memory](🧠_Memory/README.md)), les rapports ([📊_Rapports](📊_Rapports/README.md)), et le code source (`.dev/`) facilite la navigation. Au sein des actes, la division thématique (Preuves, Actes procéduraux, Courriers, Analyses, Études, Organisation, Archives) numérotée de 00 à 06 offre une excellente granularité et un ordre logique du traitement d'un dossier.
+*   **Double strate token/reel :** L'approche est brillante. En séparant strictement les fichiers de travail tokenisés ([⚖️_Actes/🔑_Token](⚖️_Actes/🔑_Token/README.md)) des versions réelles générées automatiquement ([⚖️_Actes/👤_Reel](⚖️_Actes/👤_Reel/README.md)), le projet protège l'identité des parties impliquées tout en permettant aux agents d'intelligence artificielle de traiter le dossier sans risque d'exposer des données confidentielles. Le reverse-mapping via le script `generate_real_versions.py` et le tableau de correspondance (`TOKEN MAP.md`) est bien exécuté et respecte scrupuleusement la Règle d'Or de la séparation stricte.
 *   **Memory persistante :** La gestion de la mémoire est l'un des points forts du projet. L'utilisation de fichiers tels que `STATUS.md`, `TODO.md`, `STRICT VARIABLES.md`, `RULES.md`, et `VACCIN.md` permet aux agents de conserver un contexte précis et actualisé des actions passées et à venir, garantissant ainsi une continuité sans faille dans le traitement du dossier.
 *   **Workflow Agent (VACCIN, AGENTS.md) :** Les protocoles stricts, notamment la lecture obligatoire de `VACCIN.md` et `AGENTS.md` avant toute action, imposent une discipline salutaire qui limite les erreurs, les "hallucinations" juridiques, et assurent la cohérence du projet.
 *   **Documentation (README) :** Le README est détaillé, à jour et offre une excellente porte d'entrée pour quiconque aborde le projet, listant les documents clés et expliquant la logique globale.

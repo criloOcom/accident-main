@@ -45,10 +45,10 @@ Améliorer la navigation humaine dans le projet en convertissant toutes les réf
 
 ### 3. Vérification des README.md Existants
 Tous les dossiers principaux ont des fichiers README.md fonctionnels:
-- ✅ `⚖️_Actes/README.md`
-- ✅ `📜_Lois/README.md`
-- ✅ `🧠_Memory/README.md`
-- ✅ `📊_Rapports/README.md`
+- ✅ [⚖️_Actes/README.md](⚖️_Actes/README.md)
+- ✅ [📜_Lois/README.md](📜_Lois/README.md)
+- ✅ [🧠_Memory/README.md](🧠_Memory/README.md)
+- ✅ [📊_Rapports/README.md](📊_Rapports/README.md)
 - ✅ `🚦_Status/README.md`
 - ✅ `.dev/README.md`
 
