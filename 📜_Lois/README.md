@@ -16,7 +16,23 @@ type: readme
 **Ce dossier contient les textes de loi et les arrêts de jurisprudence cités dans les actes du dossier.**
 Chaque fichier est une fiche dédiée, conservant le texte intégral ou un extrait significatif de la source officielle.
 
-## 🗂️ Nouvelle Organisation (Juillet 2026)
+## 🗺️ Cartographie des sources (interactif)
+
+```mermaid
+graph LR
+    L[📜 Lois] --> C[📒 Code civil]
+    L --> CO[📒 Code commercial]
+    L --> AC[📒 Autres codes]
+    L --> J[📜 Jurisprudence]
+    L --> I[📊 Index]
+    C --> C1[Art. 1240]
+    C --> C2[Art. 121-3]
+    AC --> AC1[Art. 223-1 CP]
+    AC --> AC2[Art. L611-3 C.com]
+    AC --> AC3[Art. L227-1 C.com]
+    J --> J1[Arrêts Civ. 2e]
+    J --> J2[Arrêt 17-26.282]
+```
 
 Le dossier a été réorganisé pour une meilleure navigation :
 

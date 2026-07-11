@@ -13,7 +13,20 @@ type: readme
 
 Ce dossier contient les documents de référence, les variables strictes, et la mémoire institutionnelle du projet accident-main.
 
-## 📁 Organisation
+## 🗺️ Cartographie mémoire (interactif)
+
+```mermaid
+graph TD
+    M[🧠 Memory] --> V[VACCIN — lire en 1er]
+    M --> S[STATUS — avancement]
+    M --> R[RULES — règles]
+    M --> D[DECISIONS]
+    M --> T[TOKEN MAP]
+    M --> SV[STRICT VARIABLES]
+    M --> P[PIECES MAP]
+    M --> J[JURITEXT PROTOCOL]
+    M --> RA[RAPPORTS — audits]
+```
 
 ### Fichiers Principaux
 

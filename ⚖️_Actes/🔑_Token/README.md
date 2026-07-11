@@ -20,16 +20,36 @@ Les identités réelles (noms, adresses, email, immatriculations) y sont remplac
 
 - **Toute modification se fait ici.** Ne jamais modifier les fichiers dans `reel/`.
 - Un fichier créé ou modifié dans `token/` doit être propagé dans `reel/` via le script.
-- Les tokens sont définis dans [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md) et [🧠_Memory/STRICT VARIABLES.md](🧠_Memory/STRICT VARIABLES.md).
+- Les tokens sont définis dans [🧠_Memory/TOKEN MAP.md](../../🧠_Memory/TOKEN MAP.md) et [🧠_Memory/STRICT VARIABLES.md](../../🧠_Memory/STRICT VARIABLES.md).
 
 ## 📂 Contenu
 
-| N° | Dossier | Fichiers | Description |
-|----|---------|----------|-------------|
-| `00` | **[Preuves officielles](00_📂_Preuves_officielles/README.md)** | 0 | Documents physiques (en attente d'insertion) |
-| `01` | **[Actes procéduraux](01_⚖️_Actes_proceduraux/README.md)** | 6 | Pièces juridiques principales (assignations, conclusions) |
-| `02` | **[Courriers](02_✉️_Courriers/README.md)** | 20 | Correspondance avec tiers (administrations, assurances) |
-| `03` | **[Analyses juridiques](03_📚_Analyses_juridiques/README.md)** | 4 | Plaidoiries, FAQ, analyses de fond |
-| `04` | **[Études d'indemnisation](04_💰_Etudes_indemnisation/README.md)** | 1 | Évaluation financière des préjudices |
-| `05` | **[Organisation](05_🗂️_Organisation/README.md)** | 3 | Index, plan d'action, calendrier |
-| `06` | **[Archives](06_🗄️_Archives/README.md)** | 7 | Anciennes versions, annexes, lexique |
+- **[00 — Preuves officielles](00_📂_Preuves_officielles/README.md)** — 0 fichier · Documents physiques (en attente d'insertion)
+- **[01 — Actes procéduraux](01_⚖️_Actes_proceduraux/README.md)** — 6 fichiers · Pièces juridiques principales (assignations, conclusions)
+- **[02 — Courriers](02_✉️_Courriers/README.md)** — 20 fichiers · Correspondance avec tiers (administrations, assurances)
+- **[03 — Analyses juridiques](03_📚_Analyses_juridiques/README.md)** — 4 fichiers · Plaidoiries, FAQ, analyses de fond
+- **[04 — Études d'indemnisation](04_💰_Etudes_indemnisation/README.md)** — 1 fichier · Évaluation financière des préjudices
+- **[05 — Organisation](05_🗂️_Organisation/README.md)** — 3 fichiers · Index, plan d'action, calendrier
+- **[06 — Archives](06_🗄️_Archives/README.md)** — 7 fichiers · Anciennes versions, annexes, lexique
+
+## 🗺️ Cartographie du dossier (interactif)
+
+```mermaid
+graph TD
+    A[🎭 Actes / token] --> B[00 Preuves officielles]
+    A --> C[01 Actes procéduraux]
+    A --> D[02 Courriers]
+    A --> E[03 Analyses juridiques]
+    A --> F[04 Études indemnisation]
+    A --> G[05 Organisation]
+    A --> H[06 Archives]
+    C --> C1[01 Assignation]
+    C --> C2[02 Plainte]
+    C --> C3[07 Constitution partie civile]
+    C --> C4[08 Projet ordonnance]
+    C --> C5[09 Réquisitoire]
+    C --> C6[10 Signalement parquet]
+    C --> C7[11 Requête mandataire ad hoc]
+    D --> D1[20 courriers tiers]
+    E --> E1[04 analyses de fond]
+```

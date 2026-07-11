@@ -305,3 +305,14 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
   - `.dev/app/audit_citation_links.py` — vérifie qu'aucune citation interne n'est laissée en texte brut non lié (signale comme avertissement).
 - **Objectif** : la navigation entre tous les fichiers du dépôt doit être totale — aucun fichier ni dossier cité ne doit être inaccessible par un clic. C'est une règle de non-régression qualité : chaque agent intervenant sur le projet doit la respecter.
 - **Exception** : les chemins purement illustratifs/historiques pointant vers des cibles inexistantes (ex. anciennes conventions `{token,reel}`) doivent être soit corrigés vers la cible réelle, soit supprimés — jamais laissés comme texte mort non lié sans signalement.
+## #18 — PRÉSENTATION : LISTES PRÉFÉRÉES AUX TABLEAUX, MERMAID POUR LA CARTOGRAPHIE (RÈGLE PERMANENTE)
+
+- **Les tableaux Markdown à colonne de numéros (`#`, `N°`, `01`, `02`...) sont INTERDITS pour les listes de fichiers/dossiers/documents.** Ils sont illisibles sur la prévisualisation GitHub (mobile notamment) et la colonne de numéros n'apporte rien à la lecture humaine.
+- **Format imposé pour un listing de fichiers** : liste à puces Markdown, une entrée par fichier, sous la forme :
+  `- **[Nom lisible](chemin/relatif.md)** — *Fondement* — Résumé court.`
+  Le chemin du lien doit être le **vrai nom de fichier** (jamais une URL encodée type `03%20%F0%9F%94%8D%20...md` — toujours décoder via `urllib.parse.unquote`).
+- **Les tableaux de DONNÉES** (comparaisons chiffrées, montants, dates croisées) restent autorisés quand ils apportent une valeur de lecture réelle.
+- **Cartographie interactive** : tout README de dossier/hub de navigation DOIT inclure un diagramme **Mermaid** (bloc ```` ```mermaid ````) représentant l'arborescence ou les relations des fichiers à lire. Cela donne une vue interactive (cliquable sur GitHub) de « quoi lire ».
+- **Scripts de référence** :
+  - `.dev/app/convert_tables_to_lists.py` — convertit automatiquement les tableaux de listing en listes à puces (décode les liens URL-encodés). Dry-run par défaut, `--apply` pour écrire, `--path` pour cibler un dossier.
+- **Raison** : lisibilité humaine et mobile-first. Les tableaux à numéros cassent la lecture ; les listes et le Mermaid la fluidifient.

@@ -13,7 +13,21 @@ type: readme
 
 Ce dossier contient tous les rapports générés, analyses et documents de suivi du projet.
 
-## 📁 Structure
+## 🗺️ Cartographie rapports (interactif)
+
+```mermaid
+graph TD
+    R[📊 Rapports] --> A[Audits]
+    R --> E[Expertises]
+    R --> J[Jurisprudence]
+    R --> O[🗄️ Archives]
+    A --> A1[Audit YAML]
+    A --> A2[Audit tokenisation]
+    A --> A3[Audit navigation]
+    E --> E1[Baremique Dintilhac]
+    E --> E2[Analyse Glose]
+    J --> J1[Audit jurisprudence]
+```
 
 ### 🗄️_Archives/
 - Rapports historiques et versions précédentes

@@ -15,12 +15,30 @@ type: readme
 
 Bienvenue dans le dossier central du contentieux. Ce dossier repose sur une **double strate** : des versions anonymisées pour le travail courant, et des versions réelles pour l'impression et l'envoi.
 
-## 🗂️ Structure
+## 🗺️ Cartographie interactive (Mermaid)
 
-| Dossier | Contenu |
-|---------|---------|
-| **[`🔑_Token/`](🔑_Token/README.md)** | **Versions tokenisées** — Identités remplacées par `**[La Victime]**`, etc. C'est la strate de travail. |
-| **[`👤_Reel/`](👤_Reel/README.md)** | **Versions réelles** — Tokens résolus (noms, adresses, email réels). Version imprimable et envoyable. |
+```mermaid
+graph TD
+    A[📁 Actes — Dossier Contentieux] --> T[🔑 Token — travail]
+    A --> R[👤 Reel — envoi]
+    T --> T0[00 Preuves]
+    T --> T1[01 Actes procéduraux]
+    T --> T2[02 Courriers]
+    T --> T3[03 Analyses]
+    T --> T4[04 Indemnisation]
+    T --> T5[05 Organisation]
+    T --> T6[06 Archives]
+    R --> R0[00 Preuves]
+    R --> R1[01 Actes procéduraux]
+    R --> R2[02 Courriers]
+    R --> R3[03 Analyses]
+    R --> R4[04 Indemnisation]
+    R --> R5[05 Organisation]
+    R --> R6[06 Archives]
+    T1 -->|assignations, conclusions| A1[11 actes]
+    T2 -->|courriers tiers| A2[20 courriers]
+    T4 -->|Dintilhac| A4[59 600 €]
+```
 
 ## 🔄 Workflow
 
@@ -30,12 +48,10 @@ Bienvenue dans le dossier central du contentieux. Ce dossier repose sur une **do
 
 ## 📋 Sous-dossiers 🔑_Token/ (miroir identique dans 👤_Reel/)
 
-| N° | Dossier | Description |
-|----|---------|-------------|
-| `00` | **[Preuves officielles](🔑_Token/00_📂_Preuves_officielles/README.md)** | Documents physiques, CR opératoire, PV police |
-| `01` | **[Actes procéduraux](🔑_Token/01_⚖️_Actes_proceduraux/README.md)** | Assignations, conclusions, requêtes |
-| `02` | **[Courriers](🔑_Token/02_✉️_Courriers/README.md)** | Mises en demeure, signalements, relances |
-| `03` | **[Analyses juridiques](🔑_Token/03_📚_Analyses_juridiques/README.md)** | Plaidoiries, FAQ, mémorandums |
-| `04` | **[Études d'indemnisation](🔑_Token/04_💰_Etudes_indemnisation/README.md)** | Évaluation Dintilhac (59 600 €) |
-| `05` | **[Organisation](🔑_Token/05_🗂️_Organisation/README.md)** | Index, plan d'action, calendrier |
-| `06` | **[Archives](🔑_Token/06_🗄️_Archives/README.md)** | Anciens documents de travail, annexes |
+- **[Preuves officielles](🔑_Token/00_📂_Preuves_officielles/README.md)** — Documents physiques, CR opératoire, PV police
+- **[Actes procéduraux](🔑_Token/01_⚖️_Actes_proceduraux/README.md)** — Assignations, conclusions, requêtes
+- **[Courriers](🔑_Token/02_✉️_Courriers/README.md)** — Mises en demeure, signalements, relances
+- **[Analyses juridiques](🔑_Token/03_📚_Analyses_juridiques/README.md)** — Plaidoiries, FAQ, mémorandums
+- **[Études d'indemnisation](🔑_Token/04_💰_Etudes_indemnisation/README.md)** — Évaluation Dintilhac (59 600 €)
+- **[Organisation](🔑_Token/05_🗂️_Organisation/README.md)** — Index, plan d'action, calendrier
+- **[Archives](🔑_Token/06_🗄️_Archives/README.md)** — Anciens documents de travail, annexes
