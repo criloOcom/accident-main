@@ -316,3 +316,11 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 - **Scripts de référence** :
   - `.dev/app/convert_tables_to_lists.py` — convertit automatiquement les tableaux de listing en listes à puces (décode les liens URL-encodés). Dry-run par défaut, `--apply` pour écrire, `--path` pour cibler un dossier.
 - **Raison** : lisibilité humaine et mobile-first. Les tableaux à numéros cassent la lecture ; les listes et le Mermaid la fluidifient.
+## #19 — LIEN CLIQUABLE GOOGLE DRIVE SUR TOUT `drive_id` (RÈGLE PERMANENTE)
+
+- Tout fichier dont le YAML contient un champ `drive_id: <ID>` DOIT exposer un **lien cliquable** vers la source Google Drive dans son corps (le front matter YAML n'est pas rendu cliquable sur GitHub).
+- Format imposé (ligne juste après le bloc YAML, avant le titre `#`) :
+  `> 🔗 Source Google Drive : [<ID court>](https://drive.google.com/open?id=<ID>)`
+- L'URL absolue `https://drive.google.com/open?id=<ID>` est un lien EXTERNE — elle est autorisée par la Règle #15 (seuls les liens internes doivent être relatifs).
+- **Script de référence** : `.dev/app/add_drive_links.py` — ajoute automatiquement le lien cliquable pour tout `drive_id` du YAML ne l'ayant pas encore. Dry-run par défaut, `--apply` pour écrire.
+- **Objectif** : ouvrir la pièce source d'un clic depuis la prévisualisation GitHub, sans copier/coller l'ID.

@@ -29,10 +29,10 @@ Réorganiser le dossier 📜_Lois/ pour une meilleure navigation et maintenance 
 📜_Lois/
 ├── 📒_Code_civil/                  (6 articles)
 ├── 📒_Code_penal/                  (4 articles)
-├── 📒_Code_de_procedure_civile/     (4 articles)
-├── 📒_Code_de_procedure_penale/     (1 article)
-├── 📒_Code_de_commerce/             (5 articles)
-├── 📒_Code_des_assurances/          (2 articles)
+├── 📒_Code_procedure_civile/     (4 articles)
+├── 📒_Code_procedure_penale/     (2 articles)
+├── 📒_Code_commerce/             (6 articles)
+├── 📒_Code_assurances/          (2 articles)
 ├── 📒_Autres_codes/                 (2 articles)
 ├── 📒_Code_general_des_collectivites_territoriales/ (vide - à compléter)
 ├── 📜_Jurisprudence/                (24 arrêts)
@@ -57,23 +57,25 @@ Réorganiser le dossier 📜_Lois/ pour une meilleure navigation et maintenance 
 - Article_222-19_CodePenal_Legifrance.md
 - Article222-20_CodePenal_LegiFrance.md
 
-#### 📒_Code_de_procedure_civile/ (4 articles)
+#### 📒_Code_procedure_civile/ (4 articles)
 - Article_145_CodeDeProcédureCivile_Legifrance.md
 - Article_263_Codeproc_Legifrance.md
 - Article_700_Codeproc_Legifrance.md
 - Article835_CodeDeProcedureCivile_LegiFrance.md
 
-#### 📒_Code_de_procedure_penale/ (1 article)
+#### 📒_Code_procedure_penale/ (2 articles)
 - Article475-1_CodeProcedurePenale.md
+- Article_706-3_CodeProcedurePenale_Legifrance.md
 
-#### 📒_Code_de_commerce/ (5 articles)
+#### 📒_Code_commerce/ (6 articles)
 - Article_L210-6_Codecommerce_Legifrance.md
 - Article_L223-22_Codecommerce_Legifrance.md
 - Article_L225-251_Codecommerce_Legifrance.md
+- Article_L227-1_Code_Legifrance.md
 - Article_L227-8_Codecommerce_Legifrance.md
 - Article_L237-2_Codecommerce_Legifrance.md
 
-#### 📒_Code_des_assurances/ (2 articles)
+#### 📒_Code_assurances/ (2 articles)
 - Article_L113-2_Codesassurances_Legifrance.md
 - Article_L124-3_Codesassurances_Legifrance.md
 

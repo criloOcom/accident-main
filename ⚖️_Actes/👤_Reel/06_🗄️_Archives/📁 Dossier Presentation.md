@@ -30,6 +30,7 @@ drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
 - [III. ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES](#iii-actions-engages-et-bordereau-des-pices)
 
 # DOSSIER DE PRÉSENTATION : DESTINÉ AU CONSEIL JURIDIQUE
+> 🔗 Source Google Drive : [1DdpbOypghzt…](https://drive.google.com/open?id=1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU)
 Rédigé le 30 juin 2026
 
 ## INTRODUCTION

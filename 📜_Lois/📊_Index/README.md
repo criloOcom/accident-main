@@ -32,24 +32,26 @@ Ce dossier contient l'index complet et organisé de tous les textes de loi et ar
 - [Article 222-20](📒_Code_penal/Article222-20_CodePenal_LegiFrance.md) - Violences ayant entraîné une ITT
 
 #### 📜 Code de Procédure Civile (4 articles)
-- [Article 145](📒_Code_de_procedure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) - Mesures d'instruction in futurum
-- [Article 263](📒_Code_de_procedure_civile/Article_263_Codeproc_Legifrance.md) - Pouvoirs du juge
-- [Article 700](📒_Code_de_procedure_civile/Article_700_Codeproc_Legifrance.md) - Frais irrépétibles
-- [Article 835](📒_Code_de_procedure_civile/Article835_CodeDeProcedureCivile_LegiFrance.md) - Provision
+- [Article 145](📒_Code_procedure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) - Mesures d'instruction in futurum
+- [Article 263](📒_Code_procedure_civile/Article_263_Codeproc_Legifrance.md) - Pouvoirs du juge
+- [Article 700](📒_Code_procedure_civile/Article_700_Codeproc_Legifrance.md) - Frais irrépétibles
+- [Article 835](📒_Code_procedure_civile/Article835_CodeDeProcedureCivile_LegiFrance.md) - Provision
 
-#### 📜 Code de Procédure Pénale (1 article)
-- [Article 475-1](📒_Code_de_procedure_penale/Article475-1_CodeProcedurePenale.md) - Constitution de partie civile
+#### 📜 Code de Procédure Pénale (2 articles)
+- [Article 475-1](📒_Code_procedure_penale/Article475-1_CodeProcedurePenale.md) - Constitution de partie civile
+- [Article 706-3](📒_Code_procedure_penale/Article_706-3_CodeProcedurePenale_Legifrance.md) - Indemnisation des victimes d'infractions
 
-#### 📜 Code de Commerce (5 articles)
-- [Article L210-6](📒_Code_de_commerce/Article_L210-6_Codecommerce_Legifrance.md) - Responsabilité des dirigeants
-- [Article L223-22](📒_Code_de_commerce/Article_L223-22_Codecommerce_Legifrance.md) - Dissolution de SARL
-- [Article L225-251](📒_Code_de_commerce/Article_L225-251_Codecommerce_Legifrance.md) - Responsabilité des dirigeants de SA
-- [Article L227-8](📒_Code_de_commerce/Article_L227-8_Codecommerce_Legifrance.md) - Responsabilité des gérants de SAS
-- [Article L237-2](📒_Code_de_commerce/Article_L237-2_Codecommerce_Legifrance.md) - Conflits d'intérêts
+#### 📜 Code de Commerce (6 articles)
+- [Article L210-6](📒_Code_commerce/Article_L210-6_Codecommerce_Legifrance.md) - Responsabilité des dirigeants
+- [Article L223-22](📒_Code_commerce/Article_L223-22_Codecommerce_Legifrance.md) - Dissolution de SARL
+- [Article L225-251](📒_Code_commerce/Article_L225-251_Codecommerce_Legifrance.md) - Responsabilité des dirigeants de SA
+- [Article L227-1](📒_Code_commerce/Article_L227-1_Code_Legifrance.md) - Transformation de SAS
+- [Article L227-8](📒_Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) - Responsabilité des gérants de SAS
+- [Article L237-2](📒_Code_commerce/Article_L237-2_Codecommerce_Legifrance.md) - Conflits d'intérêts
 
 #### 📜 Code des Assurances (2 articles)
-- [Article L113-2](📒_Code_des_assurances/Article_L113-2_Codesassurances_Legifrance.md) - Obligation de déclaration du risque
-- [Article L124-3](📒_Code_des_assurances/Article_L124-3_Codesassurances_Legifrance.md) - Action directe de la victime
+- [Article L113-2](📒_Code_assurances/Article_L113-2_Codesassurances_Legifrance.md) - Obligation de déclaration du risque
+- [Article L124-3](📒_Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) - Action directe de la victime
 
 #### 📜 Autres Codes (2 articles)
 - [Article L421-3](📒_Autres_codes/Article_L421-3_Codeconsommation_Legifrance.md) - Sécurité des consommateurs (Code de la consommation)

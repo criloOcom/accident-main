@@ -34,6 +34,7 @@ drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
 - [IV. PLAN D'ACTION CONTENTIEUX](#iv-plan-daction-contentieux)
 
 # **MÉMORANDUM JURIDIQUE : AFFAIRE [LA VICTIME]**
+> 🔗 Source Google Drive : [1Ikk9wlfyLuF…](https://drive.google.com/open?id=1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes)
 Rédigé le 30 juin 2026
 
 ## INTRODUCTION
