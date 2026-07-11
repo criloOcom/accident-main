@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › 05 🗂️ Organisation
-<!-- /Breadcrumb -->
-
 ---
 title: "Index — 05_🗂️_Organisation (Versions Réelles)"
 description: "- [00 📇 Index.md](00 📇 Index.md)"
 type: readme
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › 05 🗂️ Organisation
+<!-- /Breadcrumb -->
 
 # Index — 05_🗂️_Organisation (Versions Réelles)
 

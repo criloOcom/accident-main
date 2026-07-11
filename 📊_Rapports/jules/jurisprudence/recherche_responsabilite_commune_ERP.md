@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › jules › [📁 jurisprudence](./README.md) › recherche responsabilite commune ERP
-<!-- /Breadcrumb -->
-
 ---
 title: "RAPPORT DE JURISPRUDENCE"
 description: "Mission** : M3 du dossier accident-main"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › [📁 jurisprudence](./README.md) › recherche responsabilite commune ERP
+<!-- /Breadcrumb -->
 
 # RAPPORT DE JURISPRUDENCE
 

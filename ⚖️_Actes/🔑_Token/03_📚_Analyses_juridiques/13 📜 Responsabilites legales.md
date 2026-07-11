@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 13 📜 Responsabilites legales
-<!-- /Breadcrumb -->
-
 ---
 title: "Analyse des Fondements de la Responsabilité Juridique"
 description: "Rédigé le **[J+32 Assignation référé]"
@@ -18,6 +14,11 @@ reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/13 📜 Responsabilites l
 source: drive
 drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 13 📜 Responsabilites legales
+<!-- /Breadcrumb -->
 
 # ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE **[L'EXPLOITANT DU COMMERCE (LA SAS)]**
 Rédigé le **[J+32 Assignation référé]**

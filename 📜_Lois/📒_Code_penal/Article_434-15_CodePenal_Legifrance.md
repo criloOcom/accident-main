@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_penal](./README.md) › Article 434-15 CodePenal Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article 434-15 du Code pénal"
 description: "Dernière mise à jour :** 10 juillet 2026"
 type: loi
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_penal](./README.md) › Article 434-15 CodePenal Legifrance
+<!-- /Breadcrumb -->
 
 # Article 434-15 du Code pénal
 

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Code civil
-<!-- /Breadcrumb -->
-
 ---
 title: "📒_Code_civil"
 description: "Dossier contenant les articles de loi relatifs à 📒_Code_civil."
 type: readme
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Code civil
+<!-- /Breadcrumb -->
 
 # 📒_Code_civil
 

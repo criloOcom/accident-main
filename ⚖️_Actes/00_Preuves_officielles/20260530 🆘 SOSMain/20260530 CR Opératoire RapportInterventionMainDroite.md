@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › 00 Preuves officielles › [📁 20260530 SOSMain](./README.md) › 20260530 CR Opératoire RapportInterventionMainDroite
-<!-- /Breadcrumb -->
-
 ---
 title: "Compte Rendu Opératoire — Rapport d'Intervention Main Droite"
 description: "Document de type document"
@@ -15,6 +11,11 @@ statut: original
 source: drive
 drive_id: 1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260530 SOSMain](./README.md) › 20260530 CR Opératoire RapportInterventionMainDroite
+<!-- /Breadcrumb -->
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**
 > Ce fichier est une copie textuelle exacte de la pièce originale (PDF).

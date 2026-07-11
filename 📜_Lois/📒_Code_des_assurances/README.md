@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Code des assurances
-<!-- /Breadcrumb -->
-
 ---
 title: "📒 Code des Assurances"
 description: "Ce dossier contient les articles du Code des assurances français cités dans les actes du dossier."
 type: readme
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Code des assurances
+<!-- /Breadcrumb -->
 
 # 📒 Code des Assurances
 

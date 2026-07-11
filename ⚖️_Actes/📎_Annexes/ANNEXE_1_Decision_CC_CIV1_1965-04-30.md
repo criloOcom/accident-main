@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [📁 Actes — Dossier Contentieux](../README.md) › [📁 📎_Annexes](./README.md) › ANNEXE 1 Decision CC CIV1 1965-04-30
-<!-- /Breadcrumb -->
-
 ---
 title: "ANNEXE 1 - Décision Cour de Cassation, Première Chambre Civile, 30 avril 1965"
 description: "Numéro de pourvoi:** 63-13.613"
 type: archive
 ---
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [📁 Actes — Dossier Contentieux](../README.md) › [📁 📎_Annexes](./README.md) › ANNEXE 1 Decision CC CIV1 1965-04-30
+<!-- /Breadcrumb -->
+
 statut: annexe
 
 # ANNEXE 1 - Décision Cour de Cassation, Première Chambre Civile, 30 avril 1965

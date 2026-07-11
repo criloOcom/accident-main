@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 03_📚_Analyses_juridiques (Versions Réelles)](./README.md) › 12 📁 Dossier Plaidoirie
-<!-- /Breadcrumb -->
-
 ---
 title: "Dossier de Plaidoirie - Audience de Référé - Version réelle"
 description: "<hr><hr>"
@@ -17,6 +13,11 @@ destinataire: Juge des Référés
 auteur: La Victime
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/12 📁 Dossier Plaidoirie.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 03_📚_Analyses_juridiques (Versions Réelles)](./README.md) › 12 📁 Dossier Plaidoirie
+<!-- /Breadcrumb -->
 
 # **DOSSIER DE PLAIDOIRIE POUR L'AUDIENCE DE RÉFÉRÉ DU 31 JUILLET 2026**
 <hr><hr>

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › rapport audit avocat
-<!-- /Breadcrumb -->
-
 ---
 title: "RAPPORT D'AUDIT JURIDIQUE — DOSSIER ACCIDENT DE LA MAIN"
 description: "1. **Qualification de la faute (Art. 1240 / 1242 C.civ.)"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › rapport audit avocat
+<!-- /Breadcrumb -->
 
 # RAPPORT D'AUDIT JURIDIQUE — DOSSIER ACCIDENT DE LA MAIN
 

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › RAPPORT INDEX
-<!-- /Breadcrumb -->
-
 ---
 title: "RAPPORT DE VÉRIFICATION DE L'INDEX"
 description: "Date de vérification : 2026-07-05"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › RAPPORT INDEX
+<!-- /Breadcrumb -->
 
 # RAPPORT DE VÉRIFICATION DE L'INDEX
 

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › jules › [📁 audit](./README.md) › correction juritext 05
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport de correction — JURITEXT erronés"
 description: "Fichier corrigé :** [⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/05 🎯 Conclusions Refere.md](⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/05 🎯 Conclusions Refere.md)"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › [📁 audit](./README.md) › correction juritext 05
+<!-- /Breadcrumb -->
 
 # Rapport de correction — JURITEXT erronés
 

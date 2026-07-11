@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 17 ✉️ Courrier CPAM
-<!-- /Breadcrumb -->
-
 ---
 title: "Transmission et Bordeau Recapitulatif CPAM — Recours Contre Tiers"
 description: "[L'Adresse de la Victime]"
@@ -20,6 +16,11 @@ reel_path: ../../👤_Reel/02_✉️_Courriers/17 ✉️ Courrier CPAM.md
 source: drive
 drive_id: 1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 17 ✉️ Courrier CPAM
+<!-- /Breadcrumb -->
 
 # TRANSMISSION ET BORDEREAU RECAPITULATIF — RECOURS CONTRE TIERS
 **[L'Adresse de la Victime]**

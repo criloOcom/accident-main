@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › plan
-<!-- /Breadcrumb -->
-
 ---
 title: "plan"
 description: "Document de type rapport"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › plan
+<!-- /Breadcrumb -->
 
 1. **Créer le fichier [🧠_Memory/NOTE_SYNTHESE_AVOCAT.md](🧠_Memory/NOTE_SYNTHESE_AVOCAT.md)**
    - Utiliser le format Arial JUSTIFIED comme demandé (frontmatter).

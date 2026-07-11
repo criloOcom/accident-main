@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › 00 Preuves officielles › [📁 20260529 DrJARDON](./README.md) › 20260529-1630 SITUATION DrJulieJARDON
-<!-- /Breadcrumb -->
-
 ---
 title: "Compte Rendu de Situation — Docteur Julie JARDON"
 description: "Document de type document"
@@ -15,6 +11,11 @@ statut: original
 source: drive
 drive_id: 1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260529 DrJARDON](./README.md) › 20260529-1630 SITUATION DrJulieJARDON
+<!-- /Breadcrumb -->
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**
 > Ce fichier est une copie textuelle exacte de la pièce originale (PDF).

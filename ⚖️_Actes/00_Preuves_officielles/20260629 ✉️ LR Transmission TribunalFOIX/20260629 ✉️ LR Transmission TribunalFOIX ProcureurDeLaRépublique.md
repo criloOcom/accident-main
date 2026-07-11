@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › 00 Preuves officielles › [📁 20260629 LR Transmission TribunalFOIX](./README.md) › 20260629 ✉️ LR Transmission TribunalFOIX ProcureurDeLaRépublique
-<!-- /Breadcrumb -->
-
 ---
 title: "Lettre Recommandée — Transmission Tribunal de FOIX au Procureur de la République"
 description: "Document de type document"
@@ -18,6 +14,11 @@ destinataire: Procureur de la République près le Tribunal Judiciaire de FOIX
 source: drive
 drive_id: 1wpqT0wnHd5uwwKDJb65w576jG9H9wYzm
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260629 LR Transmission TribunalFOIX](./README.md) › 20260629 ✉️ LR Transmission TribunalFOIX ProcureurDeLaRépublique
+<!-- /Breadcrumb -->
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**
 > Ce fichier est une copie textuelle exacte de la pièce originale (PDF).

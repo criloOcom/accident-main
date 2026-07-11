@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT STRUCTURE
-<!-- /Breadcrumb -->
-
 ---
 title: "RAPPORT D'AUDIT DE STRUCTURE"
 description: "Date :** 10 juillet 2026"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT STRUCTURE
+<!-- /Breadcrumb -->
 
 # RAPPORT D'AUDIT DE STRUCTURE
 

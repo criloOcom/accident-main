@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 23 📋 Attestation Pompier SAMU
-<!-- /Breadcrumb -->
-
 ---
 title: "23 Gabarit Attestation Pompier SAMU - V1 - Version réelle"
 description: "Je soussigné(e) [À compléter],"
@@ -15,6 +11,11 @@ reel_path: ../../👤_Reel/02_✉️_Courriers/23 📋 Attestation Pompier SAMU.
 source: drive
 drive_id: 1U2TD8Ftkjmtx2f6THDKNC3-1KXFH07KolM9nAN1TJXw
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 23 📋 Attestation Pompier SAMU
+<!-- /Breadcrumb -->
 
 # ATTESTATION DE TÉMOIN (CERFA N° 11527*03)Article 202 du Code de procédure civile
 

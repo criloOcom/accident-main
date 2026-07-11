@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [📁 Actes — Dossier Contentieux](../README.md) › [📁 📎_Annexes](./README.md) › ANNEXE 2 Decision CC CIV1 1994-07-08
-<!-- /Breadcrumb -->
-
 ---
 title: "ANNEXE 2 - Décision Cour de Cassation, Première Chambre Civile, 8 juillet 1994"
 description: "Numéro de pourvoi:** 90-14.591"
 type: archive
 ---
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [📁 Actes — Dossier Contentieux](../README.md) › [📁 📎_Annexes](./README.md) › ANNEXE 2 Decision CC CIV1 1994-07-08
+<!-- /Breadcrumb -->
+
 statut: annexe
 
 # ANNEXE 2 - Décision Cour de Cassation, Première Chambre Civile, 8 juillet 1994

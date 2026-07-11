@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article L121-1a121-7 Code Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Articles 121-1 à 121-7"
 description: "Code pénal"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Autres Codes
 article: L121
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article L121-1a121-7 Code Legifrance
+<!-- /Breadcrumb -->
 
 # Articles 121-1 à 121-7
 

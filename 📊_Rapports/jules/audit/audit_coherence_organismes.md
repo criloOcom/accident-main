@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › jules › [📁 audit](./README.md) › audit coherence organismes
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport d'Audit : Cohérence des organismes et adresses"
 description: "Vérifier la cohérence des noms d'organismes, des adresses, des sigles et des tribunaux compétents dans l'ensemble des courriers 03 à 34 du dossier tokenisé ([⚖️_Actes/🔑_Token/02_✉️_Courriers](⚖️_Actes/🔑_Token/02_✉️_Courriers/README.md))."
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › [📁 audit](./README.md) › audit coherence organismes
+<!-- /Breadcrumb -->
 
 # Rapport d'Audit : Cohérence des organismes et adresses
 

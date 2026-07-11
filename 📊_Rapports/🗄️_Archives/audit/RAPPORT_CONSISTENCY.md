@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › RAPPORT CONSISTENCY
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport de Consistency"
 description: "L'exécution de `python3 app/check_consistency.py` a généré les avertissements suivants :"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › RAPPORT CONSISTENCY
+<!-- /Breadcrumb -->
 
 # Rapport de Consistency
 

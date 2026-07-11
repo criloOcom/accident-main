@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 expertise](./README.md) › evaluation rc pro relance v2
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport d'Expertise - Analyse du Courrier de Relance (V2)"
 description: "Document de type rapport"
@@ -9,6 +5,11 @@ type: rapport
 date: 2024-05-18
 auteur: Avocat Spécialiste en Réparation du Préjudice Corporel
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 expertise](./README.md) › evaluation rc pro relance v2
+<!-- /Breadcrumb -->
 
 <div style="font-family: Arial, sans-serif; text-align: justify;">
 

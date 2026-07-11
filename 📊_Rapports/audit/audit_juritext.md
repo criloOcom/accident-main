@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [📁 audit](./README.md) › audit juritext
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport d'Audit JURITEXT — Mission M6"
 description: "Date :** 10 juillet 2026"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [📁 audit](./README.md) › audit juritext
+<!-- /Breadcrumb -->
 
 # Rapport d'Audit JURITEXT — Mission M6
 

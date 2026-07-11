@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 03 🔍 Assignation Article 145
-<!-- /Breadcrumb -->
-
 ---
 title: "Assignation en Refere Article 145 CPC — Communication Police d'Assurance RC"
 description: "[L'Adresse de la Victime]** <br>"
@@ -20,6 +16,11 @@ reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/03 🔍 Assignation Artic
 source: drive
 drive_id: 1R26179ks7vLkzw0hYEHL888i0p1VS9ppa6s8R8kQ_gg
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 03 🔍 Assignation Article 145
+<!-- /Breadcrumb -->
 
 # ASSIGNATION EN REFERE — COMMUNICATION DE POLICE D'ASSURANCE RC PROFESSIONNELLE
 **[L'Adresse de la Victime]** <br>

@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 01_⚖️_Actes_proceduraux (Versions Réelles)](./README.md) › 04 📑 Bordereau Audience
-<!-- /Breadcrumb -->
-
 ---
 title: "Bordereau de pièces (version audience) - Version réelle"
 description: "| Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : Sébastien GRAZIDE | Défendeur : SAS LES MAUVAIS GARCONS |"
@@ -16,6 +12,11 @@ destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
 source: drive
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 01_⚖️_Actes_proceduraux (Versions Réelles)](./README.md) › 04 📑 Bordereau Audience
+<!-- /Breadcrumb -->
 
 # BORDEREAU DE PIÈCES
 

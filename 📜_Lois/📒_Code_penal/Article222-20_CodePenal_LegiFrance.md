@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_penal](./README.md) › Article222-20 CodePenal LegiFrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Code pénal — Art. 222-20"
 description: "Code pénal"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Code Penal
 article: Inconnu
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_penal](./README.md) › Article222-20 CodePenal LegiFrance
+<!-- /Breadcrumb -->
 
 # Code pénal — Art. 222-20
 

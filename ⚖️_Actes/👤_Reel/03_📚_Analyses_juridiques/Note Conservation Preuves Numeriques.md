@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 03_📚_Analyses_juridiques (Versions Réelles)](./README.md) › Note Conservation Preuves Numeriques
-<!-- /Breadcrumb -->
-
 ---
 title: "Note Conservation Preuves Numeriques - Version réelle"
 description: "Dans le cadre du litige opposant Sébastien GRAZIDE à SAS LES MAUVAIS GARCONS, il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploitation réelle d"
@@ -16,6 +12,11 @@ destinataire: La Victime
 auteur: L'Avocat de la Victime
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/Note Conservation Preuves Numeriques.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 03_📚_Analyses_juridiques (Versions Réelles)](./README.md) › Note Conservation Preuves Numeriques
+<!-- /Breadcrumb -->
 
 # NOTE SUR LA CONSERVATION DES PREUVES EXTÉRIEURES ET NUMÉRIQUES
 

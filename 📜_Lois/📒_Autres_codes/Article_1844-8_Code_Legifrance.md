@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article 1844-8 Code Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article 1844-8"
 description: "Code civil"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Autres Codes
 article: 1844
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article 1844-8 Code Legifrance
+<!-- /Breadcrumb -->
 
 # Article 1844-8
 

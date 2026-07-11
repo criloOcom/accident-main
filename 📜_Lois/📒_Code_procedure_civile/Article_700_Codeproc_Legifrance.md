@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_procedure_civile](./README.md) › Article 700 Codeproc Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article 700"
 description: "Code de procédure civile"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Code Procedure Civile
 article: 700
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_procedure_civile](./README.md) › Article 700 Codeproc Legifrance
+<!-- /Breadcrumb -->
 
 # Article 700
 

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 anonymisation](./README.md) › 20260707 Audit anonymisation
-<!-- /Breadcrumb -->
-
 ---
 title: "Audit d'Anonymisation"
 description: "Date :** 2026-07-07"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 anonymisation](./README.md) › 20260707 Audit anonymisation
+<!-- /Breadcrumb -->
 
 # Audit d'Anonymisation
 

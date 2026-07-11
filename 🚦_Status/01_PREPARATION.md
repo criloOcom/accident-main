@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [🚦 Status — Index des documents par statut](./README.md) › 01 PREPARATION
-<!-- /Breadcrumb -->
-
 ---
 title: "📋 Préparation"
 description: "Documents en cours de rédaction ou en projet — statuts brouillon, projet, fusionné."
 type: status
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [🚦 Status — Index des documents par statut](./README.md) › 01 PREPARATION
+<!-- /Breadcrumb -->
 
 # 📋 Préparation
 

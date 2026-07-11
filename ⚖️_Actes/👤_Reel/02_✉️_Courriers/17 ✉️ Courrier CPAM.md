@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 17 ✉️ Courrier CPAM
-<!-- /Breadcrumb -->
-
 ---
 title: "Transmission et Bordeau Recapitulatif CPAM — Recours Contre Tiers - Version réelle"
 description: "Sébastien GRAZIDE"
@@ -20,6 +16,11 @@ reel_path: ../../👤_Reel/02_✉️_Courriers/17 ✉️ Courrier CPAM.md
 source: drive
 drive_id: 1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 17 ✉️ Courrier CPAM
+<!-- /Breadcrumb -->
 
 # TRANSMISSION ET BORDEREAU RECAPITULATIF — RECOURS CONTRE TIERS
 Sébastien GRAZIDE

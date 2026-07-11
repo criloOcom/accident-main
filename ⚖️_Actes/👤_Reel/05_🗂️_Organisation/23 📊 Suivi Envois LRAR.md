@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 05_🗂️_Organisation (Versions Réelles)](./README.md) › 23 📊 Suivi Envois LRAR
-<!-- /Breadcrumb -->
-
 ---
 title: "Suivi des Envois LRAR - Version réelle"
 description: "| # | Destinataire | Date envoi | N° LRAR | AR recu | Reponse | Date reponse | Relance J+15 | Email | Statut | Notes |"
@@ -16,6 +12,11 @@ statut: preparation
 auteur: La Victime
 reel_path: ../../👤_Reel/05_🗂️_Organisation/23 📊 Suivi Envois LRAR.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 05_🗂️_Organisation (Versions Réelles)](./README.md) › 23 📊 Suivi Envois LRAR
+<!-- /Breadcrumb -->
 
 # SUIVI DES ENVOIS LRAR
 

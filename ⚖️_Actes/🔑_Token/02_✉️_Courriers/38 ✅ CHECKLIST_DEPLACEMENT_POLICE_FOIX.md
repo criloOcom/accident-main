@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 38 ✅ CHECKLIST DEPLACEMENT POLICE FOIX
-<!-- /Breadcrumb -->
-
 ---
 title: "Checklist Complète — Déplacement au Commissariat de Foix"
 description: "Date prévue :** [Date à compléter]"
@@ -17,6 +13,11 @@ destinataire: Commissariat de Police de Foix
 auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_FOIX.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 38 ✅ CHECKLIST DEPLACEMENT POLICE FOIX
+<!-- /Breadcrumb -->
 
 # CHECKLIST COMPLÈTE — DÉPLACEMENT AU COMMISSARIAT DE FOIX
 

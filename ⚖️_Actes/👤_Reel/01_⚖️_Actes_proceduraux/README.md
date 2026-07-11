@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › 01 ⚖️ Actes proceduraux
-<!-- /Breadcrumb -->
-
 ---
 title: "Index — 01_⚖️_Actes_proceduraux (Versions Réelles)"
 description: "- [01 ⚖️ Assignation.md](01 ⚖️ Assignation.md)"
 type: readme
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › 01 ⚖️ Actes proceduraux
+<!-- /Breadcrumb -->
 
 # Index — 01_⚖️_Actes_proceduraux (Versions Réelles)
 

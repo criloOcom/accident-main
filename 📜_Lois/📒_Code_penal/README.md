@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Code penal
-<!-- /Breadcrumb -->
-
 ---
 title: "📒_Code_penal"
 description: "Dossier contenant les articles de loi relatifs à 📒_Code_penal."
 type: readme
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Code penal
+<!-- /Breadcrumb -->
 
 # 📒_Code_penal
 

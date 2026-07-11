@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 03_📚_Analyses_juridiques (Versions Réelles)](./README.md) › 99 🛡️ Memoire en defense adverse
-<!-- /Breadcrumb -->
-
 ---
 title: "Mémoire en défense adverse — SAS Les Mauvais Garçons - Version réelle"
 description: "Pour :** SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC (Partie Défenderesse)"
@@ -17,6 +13,11 @@ destinataire: La Victime
 auteur: Avocat de la défense
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/99 🛡️ Memoire en defense adverse.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 03_📚_Analyses_juridiques (Versions Réelles)](./README.md) › 99 🛡️ Memoire en defense adverse
+<!-- /Breadcrumb -->
 
 # MÉMOIRE EN DÉFENSE ADVERSE
 **Pour :** SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC (Partie Défenderesse)

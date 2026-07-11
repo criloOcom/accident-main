@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 36 📜 PLAINTE COMPLEMENTAIRE POLICE FOIX
-<!-- /Breadcrumb -->
-
 ---
 title: "Plainte Complémentaire — Obstruction à la Justice et Dissimulation de Preuves - Version réelle"
 description: "Sébastien GRAZIDE"
@@ -19,6 +15,11 @@ destinataire: Commissariat de Police de Foix
 auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 36 📜 PLAINTE COMPLEMENTAIRE POLICE FOIX
+<!-- /Breadcrumb -->
 
 # PLAINTE COMPLÉMENTAIRE
 # OBSTRUCTION À LA JUSTICE ET DISSIMULATION DE PREUVES

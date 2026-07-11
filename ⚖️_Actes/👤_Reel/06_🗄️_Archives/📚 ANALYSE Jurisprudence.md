@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 06_🗄️_Archives (Versions Réelles)](./README.md) › 📚 ANALYSE Jurisprudence
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport d'Expertise Juridique — Analyse des Préjudices Corporels - Version réelle"
 description: "Rédigé le 30 juin 2026"
@@ -18,6 +14,11 @@ reel_path: ../../👤_Reel/06_🗄️_Archives/📚 ANALYSE Jurisprudence.md
 source: drive
 drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 06_🗄️_Archives (Versions Réelles)](./README.md) › 📚 ANALYSE Jurisprudence
+<!-- /Breadcrumb -->
 
 **Table des matières**
 

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › dates
-<!-- /Breadcrumb -->
-
 ---
 title: "📁 dates"
 description: "README du dossier dates"
 type: directory
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › dates
+<!-- /Breadcrumb -->
 
 # 📁 dates
 

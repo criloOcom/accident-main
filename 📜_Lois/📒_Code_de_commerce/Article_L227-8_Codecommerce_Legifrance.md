@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code de Commerce](./README.md) › Article L227-8 Codecommerce Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article L227-8 — Code de commerce"
 description: "Code de commerce"
@@ -10,6 +6,11 @@ legiarti: LEGIARTI000006227036
 code: Code de commerce
 article: L227-8
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code de Commerce](./README.md) › Article L227-8 Codecommerce Legifrance
+<!-- /Breadcrumb -->
 
 # Article L227-8
 

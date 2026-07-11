@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › 03 📚 Analyses juridiques
-<!-- /Breadcrumb -->
-
 ---
 title: "Index — 03_📚_Analyses_juridiques (Versions Réelles)"
 description: "- [07 🎤 Plaidoirie dirigeants.md](07 🎤 Plaidoirie dirigeants.md)"
 type: readme
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › 03 📚 Analyses juridiques
+<!-- /Breadcrumb -->
 
 # Index — 03_📚_Analyses_juridiques (Versions Réelles)
 

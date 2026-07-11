@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_assurances](./README.md) › Article L124-3 Codesassurances Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article L124-3"
 description: "Code des assurances"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Autres Codes
 article: L124
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_assurances](./README.md) › Article L124-3 Codesassurances Legifrance
+<!-- /Breadcrumb -->
 
 # Article L124-3
 

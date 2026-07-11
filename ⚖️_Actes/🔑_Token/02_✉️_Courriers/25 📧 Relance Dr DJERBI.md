@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 25 📧 Relance Dr DJERBI
-<!-- /Breadcrumb -->
-
 ---
 title: "Relance **[Le Chirurgien SOS Main]** - Certificat de Consolidation"
 description: "Objet : Demande de certificat médical de consolidation — Suite courrier du **[J+37 Assignation 145]"
@@ -17,6 +13,11 @@ auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/25 📧 Relance Dr DJERBI.md
 source: local
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 25 📧 Relance Dr DJERBI
+<!-- /Breadcrumb -->
 
 # RELANCE — DEMANDE DE CERTIFICAT MÉDICAL DE CONSOLIDATION
 Objet : Demande de certificat médical de consolidation — Suite courrier du **[J+37 Assignation 145]**

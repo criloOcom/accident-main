@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [💰 Études d](./README.md) › 13 Note strategique FGTI CIVI
-<!-- /Breadcrumb -->
-
 ---
 title: "Note stratégique FGTI/CIVI"
 description: "Les conditions posées par l'article 706-3 du Code de procédure pénale sont intégralement remplies :"
@@ -17,6 +13,11 @@ destinataire: La Victime
 auteur: Expert FGTI/CIVI
 reel_path: ../../👤_Reel/04_💰_Etudes_indemnisation/13 Note strategique FGTI CIVI.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [💰 Études d](./README.md) › 13 Note strategique FGTI CIVI
+<!-- /Breadcrumb -->
 
 # NOTE STRATÉGIQUE FGTI/CIVI
 

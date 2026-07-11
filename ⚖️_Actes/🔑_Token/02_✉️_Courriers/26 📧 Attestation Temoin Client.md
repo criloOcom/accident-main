@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 26 📧 Attestation Temoin Client
-<!-- /Breadcrumb -->
-
 ---
 title: "Email Transmission Attestation Témoin Client"
 description: "Objet : Attestation de témoin — Accident du **[J+0 Accident]** au salon **[L'Adresse de l'Exploitation]"
@@ -17,6 +13,11 @@ auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/26 📧 Attestation Temoin Client.md
 source: local
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 26 📧 Attestation Temoin Client
+<!-- /Breadcrumb -->
 
 # TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (CLIENT)
 Objet : Attestation de témoin — Accident du **[J+0 Accident]** au salon **[L'Adresse de l'Exploitation]**

@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 01_⚖️_Actes_proceduraux (Versions Réelles)](./README.md) › 01 ⚖️ Assignation
-<!-- /Breadcrumb -->
-
 ---
 title: "Assignation en Référé-Provision et Demande d'Expertise Médicale - Version réelle"
 description: "Rédigé le 30 juin 2026"
@@ -20,6 +16,11 @@ reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md
 source: drive
 drive_id: 1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 01_⚖️_Actes_proceduraux (Versions Réelles)](./README.md) › 01 ⚖️ Assignation
+<!-- /Breadcrumb -->
 
 # ASSIGNATION EN RÉFÉRÉ-PROVISION ET DEMANDE D'EXPERTISE MÉDICALE
 Rédigé le 30 juin 2026

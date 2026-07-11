@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › audit responsabilite dirigeants
-<!-- /Breadcrumb -->
-
 ---
 title: "Audit de la Responsabilité des Dirigeants"
 description: "Contexte :** Accident corporel survenu le **[J+0 Accident]** au sein du salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]**."
@@ -15,6 +11,11 @@ tags:
 statut: final
 auteur: La Victime
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › audit responsabilite dirigeants
+<!-- /Breadcrumb -->
 
 # AUDIT DE LA RESPONSABILITÉ DES DIRIGEANTS
 **Contexte :** Accident corporel survenu le **[J+0 Accident]** au sein du salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]**.

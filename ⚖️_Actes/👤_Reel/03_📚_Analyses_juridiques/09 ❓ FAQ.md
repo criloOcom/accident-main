@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 03_📚_Analyses_juridiques (Versions Réelles)](./README.md) › 09 ❓ FAQ
-<!-- /Breadcrumb -->
-
 ---
 title: "Synthèse Juridique et FAQ - Version réelle"
 description: "Rédigé par : Sébastien GRAZIDE"
@@ -18,6 +14,11 @@ reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/09 ❓ FAQ.md
 source: drive
 drive_id: 1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 03_📚_Analyses_juridiques (Versions Réelles)](./README.md) › 09 ❓ FAQ
+<!-- /Breadcrumb -->
 
 # SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE **[LA VICTIME]** C/ **[L'EXPLOITANT DU COMMERCE (LA SAS)]**
 Rédigé par : Sébastien GRAZIDE

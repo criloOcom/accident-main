@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_civil](./README.md) › Article 2226 Code Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article 2226"
 description: "Code civil"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Code Civil
 article: 2226
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_civil](./README.md) › Article 2226 Code Legifrance
+<!-- /Breadcrumb -->
 
 # Article 2226
 

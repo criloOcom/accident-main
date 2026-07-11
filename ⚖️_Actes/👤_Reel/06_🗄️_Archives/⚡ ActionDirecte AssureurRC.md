@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 06_🗄️_Archives (Versions Réelles)](./README.md) › ⚡ ActionDirecte AssureurRC
-<!-- /Breadcrumb -->
-
 ---
 title: "Action Directe Assureur RC ([Art. L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)) - Version réelle"
 description: "Rédigé le 29 juin 2026"
@@ -19,6 +15,11 @@ reel_path: ../../👤_Reel/06_🗄️_Archives/⚡ ActionDirecte AssureurRC.md
 source: drive
 drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 06_🗄️_Archives (Versions Réelles)](./README.md) › ⚡ ActionDirecte AssureurRC
+<!-- /Breadcrumb -->
 
 **Table des matières**
 

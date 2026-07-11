@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › TOKEN MAP
-<!-- /Breadcrumb -->
-
 ---
 title: "TABLE DE SUBSTITUTION — Anonymisation (tokens V2)"
 description: "| Texte original | Jeton |"
 type: memory
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › TOKEN MAP
+<!-- /Breadcrumb -->
 
 # TABLE DE SUBSTITUTION — Anonymisation (tokens V2)
 

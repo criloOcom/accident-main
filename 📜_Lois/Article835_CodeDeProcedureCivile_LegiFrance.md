@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [⚖️ Bibliothèque Juridique](./README.md) › Article835 CodeDeProcedureCivile LegiFrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Code civil — Art. 835"
 description: "Code de procédure civile"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Code Procedure Civile
 article: Inconnu
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [⚖️ Bibliothèque Juridique](./README.md) › Article835 CodeDeProcedureCivile LegiFrance
+<!-- /Breadcrumb -->
 
 # Code civil — Art. 835
 

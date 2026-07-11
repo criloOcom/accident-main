@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › 00 Preuves officielles › [📁 20260603 Attestation DEPOT](./README.md) › 20260603-2046 DOSSIER 31727387 AttestationDepot
-<!-- /Breadcrumb -->
-
 ---
 title: "Attestation de Dépôt de Plainte DOSSIER n°31727387"
 description: "Document de type document"
@@ -16,6 +12,11 @@ statut: original
 source: drive
 drive_id: 1wyKSNyNvbJ4HygvQ4N-J_3jx88ItXYzR
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260603 Attestation DEPOT](./README.md) › 20260603-2046 DOSSIER 31727387 AttestationDepot
+<!-- /Breadcrumb -->
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**
 > Ce fichier est une copie textuelle exacte de la pièce originale (PDF).

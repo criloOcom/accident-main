@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 14 ✉️ Courrier CODAF
-<!-- /Breadcrumb -->
-
 ---
 title: "Signalement Officiel au CODAF - Version réelle"
 description: "Sébastien GRAZIDE"
@@ -19,6 +15,11 @@ reel_path: ../../👤_Reel/02_✉️_Courriers/14 ✉️ Courrier CODAF.md
 source: drive
 drive_id: 1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 14 ✉️ Courrier CODAF
+<!-- /Breadcrumb -->
 
 # SIGNALEMENT OFFICIEL AU COMITE DEPARTEMENTAL ANTI-FRAUDE DE L'ARIEGE
 Sébastien GRAZIDE

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT STABILISATION GIT 20260711
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport de Stabilisation Git - 11 Juillet 2026"
 description: "Stabiliser la branche `main` sur GitHub en intégrant toutes les corrections et améliorations des différentes branches de développement, tout en résolvant les conflits et en assurant la cohérence du projet."
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT STABILISATION GIT 20260711
+<!-- /Breadcrumb -->
 
 # Rapport de Stabilisation Git - 11 Juillet 2026
 

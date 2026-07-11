@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 34 ✉️ EMAIL Maire Foix - Police Municipale ERP
-<!-- /Breadcrumb -->
-
 ---
 title: "Email définitif à l'Adjoint au Maire de **[La Ville de l'Accident]** — Éléments d'actualisation sur le dossier ERP"
 description: "Destinataire** : `**[L'Email de l'Adjoint au Maire]**`"
@@ -12,6 +8,11 @@ destinataire: Adjoint au Maire de **[La Ville de l'Accident]** (**[L'Adjoint au 
 auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 34 ✉️ EMAIL Maire Foix - Police Municipale ERP
+<!-- /Breadcrumb -->
 
 # EMAIL — Éléments d'actualisation sur le dossier ERP (**[L'Adresse de l'Exploitation]**)
 

@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_procedure_civile](./README.md) › Article 145 CodeDeProcédureCivile Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Code civil — Art. 145"
 description: "Code de procédure civile"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Code Procedure Civile
 article: 145
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_procedure_civile](./README.md) › Article 145 CodeDeProcédureCivile Legifrance
+<!-- /Breadcrumb -->
 
 # Code civil — Art. 145
 

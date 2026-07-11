@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article L611-3 Code Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article L611-3"
 description: "Code de commerce — Procédure de sauvegarde"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Autres Codes
 article: L611-3
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article L611-3 Code Legifrance
+<!-- /Breadcrumb -->
 
 # Article L611-3
 

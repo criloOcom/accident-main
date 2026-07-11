@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › jules › expertise
-<!-- /Breadcrumb -->
-
 ---
 title: "📁 expertise"
 description: "README du dossier expertise"
 type: directory
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › expertise
+<!-- /Breadcrumb -->
 
 # 📁 expertise
 

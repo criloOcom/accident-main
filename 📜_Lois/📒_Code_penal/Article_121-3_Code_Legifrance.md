@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_penal](./README.md) › Article 121-3 Code Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article 121-3 — Code pénal"
 description: "Code pénal"
@@ -10,6 +6,11 @@ legiarti: LEGIARTI000006417208
 code: Code pénal
 article: 121-3
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_penal](./README.md) › Article 121-3 Code Legifrance
+<!-- /Breadcrumb -->
 
 # Article 121-3
 

@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 05_🗂️_Organisation (Versions Réelles)](./README.md) › 21 📋 Plan Constat Police Foix
-<!-- /Breadcrumb -->
-
 ---
 title: "Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)"
 description: "Ce plan analyse la possibilité juridique de demander au Maire de Foix d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à 22 Rue Lafaurie, 09000 Foix , et définit la marche à suivre pour votre courrier"
@@ -9,6 +5,11 @@ type: readme
 statut: brouillon
 reel_path: ../../👤_Reel/05_🗂️_Organisation/21 📋 Plan Constat Police Foix.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 05_🗂️_Organisation (Versions Réelles)](./README.md) › 21 📋 Plan Constat Police Foix
+<!-- /Breadcrumb -->
 
 # Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)
 

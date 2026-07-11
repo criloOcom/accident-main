@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › JURITEXT PROTOCOL
-<!-- /Breadcrumb -->
-
 ---
 title: "PROTOCOLE JURITEXT — Vérification obligatoire des identifiants de jurisprudence"
 description: "Quand tu dois insérer ou vérifier une JURITEXT :"
 type: memory
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › JURITEXT PROTOCOL
+<!-- /Breadcrumb -->
 
 # PROTOCOLE JURITEXT — Vérification obligatoire des identifiants de jurisprudence
 

@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 01_⚖️_Actes_proceduraux (Versions Réelles)](./README.md) › 02 🚔 Plainte
-<!-- /Breadcrumb -->
-
 ---
 title: "Plainte Complément — Défaut d'Assurance RC - Version réelle"
 description: "Rédigé le 30 juin 2026"
@@ -18,6 +14,11 @@ reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/02 🚔 Plainte.md
 source: drive
 drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 01_⚖️_Actes_proceduraux (Versions Réelles)](./README.md) › 02 🚔 Plainte
+<!-- /Breadcrumb -->
 
 # COMPLÉMENT DE PLAINTE PÉNALE — DÉFAUT D'ASSURANCE RC
 Rédigé le 30 juin 2026

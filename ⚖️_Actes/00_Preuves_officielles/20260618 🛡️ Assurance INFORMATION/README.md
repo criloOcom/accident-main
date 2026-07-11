@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › 00 Preuves officielles › 20260618 🛡️ Assurance INFORMATION
-<!-- /Breadcrumb -->
-
 ---
 title: "📁 20260618 Assurance INFORMATION"
 description: "README de la pièce Assurance INFORMATION"
 type: directory
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📂 Preuves officielles](../README.md) › 20260618 🛡️ Assurance INFORMATION
+<!-- /Breadcrumb -->
 
 # 📁 20260618 🛡️ Assurance INFORMATION
 

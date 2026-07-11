@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › jules › [📁 expertise](./README.md) › rapport validation djerbi
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport d'Expertise : Validation des Coordonnées et du Bilan Médical du Dr DJERBI"
 description: "Suite à l'analyse des pièces médicales du dossier (Bilan du 23/06/2026 et Ordonnance), voici les coordonnées complètes du médecin :"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › [📁 expertise](./README.md) › rapport validation djerbi
+<!-- /Breadcrumb -->
 
 # Rapport d'Expertise : Validation des Coordonnées et du Bilan Médical du Dr DJERBI
 

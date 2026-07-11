@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code de Commerce](./README.md) › Article L225-251 Codecommerce Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article L225-251 — Code de commerce"
 description: "Code de commerce"
@@ -10,6 +6,11 @@ legiarti: LEGIARTI000006226329
 code: Code de commerce
 article: L225-251
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code de Commerce](./README.md) › Article L225-251 Codecommerce Legifrance
+<!-- /Breadcrumb -->
 
 # Article L. 225-251
 

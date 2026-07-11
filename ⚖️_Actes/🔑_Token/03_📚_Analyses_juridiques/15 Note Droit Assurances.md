@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 15 Note Droit Assurances
-<!-- /Breadcrumb -->
-
 ---
 title: "Note d'Analyse Juridique - Droit des Assurances"
 description: "La présente note détaille la stratégie et l'analyse en droit des assurances concernant le litige opposant **[La Victime]** à **[L'Exploitant du Commerce (La SAS)]** et ses dirigeants, suite à l'accident corporel survenu le 29 mai 2026. Elle aborde la"
@@ -17,6 +13,11 @@ auteur: La Victime
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/15 Note Droit Assurances.md
 source: local
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 15 Note Droit Assurances
+<!-- /Breadcrumb -->
 
 # NOTE D'ANALYSE JURIDIQUE SPÉCIALE - DROIT DES ASSURANCES
 

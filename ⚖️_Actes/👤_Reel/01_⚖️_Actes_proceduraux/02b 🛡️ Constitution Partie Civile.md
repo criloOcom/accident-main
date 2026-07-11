@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 01_⚖️_Actes_proceduraux (Versions Réelles)](./README.md) › 02b 🛡️ Constitution Partie Civile
-<!-- /Breadcrumb -->
-
 ---
 title: "Constitution de Partie Civile — Blessures Involontaires - Version réelle"
 description: "Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants"
@@ -20,6 +16,11 @@ reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/02b 🛡️ Constitution 
 source: drive
 drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 01_⚖️_Actes_proceduraux (Versions Réelles)](./README.md) › 02b 🛡️ Constitution Partie Civile
+<!-- /Breadcrumb -->
 
 # CONSTITUTION DE PARTIE CIVILE
 **Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants**

@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › 20260708 Rapport Baremique Dintilhac
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport d'expertise barémique — Évaluation Dintilhac"
 description: "Contexte :** Évaluation financière des préjudices corporels subis par la victime. Analyse détaillée poste par poste au regard des barèmes de référence (Mornet 2024, BIBAL, jurisprudence)."
@@ -16,6 +12,11 @@ statut: final
 destinataire: Dossier / Equipe Juridique
 auteur: Expert en chiffrage Dintilhac (Jules)
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › 20260708 Rapport Baremique Dintilhac
+<!-- /Breadcrumb -->
 
 # RAPPORT D'EXPERTISE BARÉMIQUE — ÉVALUATION DINTILHAC
 

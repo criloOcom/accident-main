@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_penal](./README.md) › Article 434-4 CodePenal Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article 434-4 du Code pénal"
 description: "Identifiant Légifrance :** LEGIARTI000006418608"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Code Penal
 article: 434
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_penal](./README.md) › Article 434-4 CodePenal Legifrance
+<!-- /Breadcrumb -->
 
 # Article 434-4 du Code pénal
 

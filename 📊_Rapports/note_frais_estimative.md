@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › note frais estimative
-<!-- /Breadcrumb -->
-
 ---
 title: "Note de Frais Estimative — Constat et Mesures d'Instruction"
 description: "Cette note présente une estimation indicative des frais de justice (débours, émoluments et honoraires) liés à l'intervention de l'huissier de justice (commissaire de justice) pour le constat des lieux et autres actes accessoires dans le dossier oppos"
@@ -15,6 +11,11 @@ statut: final
 destinataire: La Victime
 auteur: Huissier de Justice
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › note frais estimative
+<!-- /Breadcrumb -->
 
 # NOTE DE FRAIS ESTIMATIVE ET DEMANDE DE PROVISION
 

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 36 ✉️ Plainte Complémentaire Police Foix
-<!-- /Breadcrumb -->
-
 ---
 title: "📋 PLAINTE COMPLÉMENTAIRE — OBSTRUCTION À LA JUSTICE"
 description: "À l'attention de :"
 type: courrier
 ---
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 36 ✉️ Plainte Complémentaire Police Foix
+<!-- /Breadcrumb -->
+
 statut: projet
 
 # 📋 PLAINTE COMPLÉMENTAIRE — OBSTRUCTION À LA JUSTICE

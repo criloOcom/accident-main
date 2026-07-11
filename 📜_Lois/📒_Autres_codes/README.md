@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Autres codes
-<!-- /Breadcrumb -->
-
 ---
 title: "📒_Autres_codes"
 description: "Dossier contenant les articles de loi relatifs à 📒_Autres_codes."
 type: readme
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Autres codes
+<!-- /Breadcrumb -->
 
 # 📒_Autres_codes
 

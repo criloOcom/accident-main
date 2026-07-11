@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Code de commerce
-<!-- /Breadcrumb -->
-
 ---
 title: "📒 Code de Commerce"
 description: "Ce dossier contient les articles du Code de commerce français cités dans les actes du dossier."
 type: readme
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Code de commerce
+<!-- /Breadcrumb -->
 
 # 📒 Code de Commerce
 

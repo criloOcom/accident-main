@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › 05 🗂️ Organisation
-<!-- /Breadcrumb -->
-
 ---
 title: "🗂️ Organisation"
 description: "Ce dossier centralise les outils de navigation et de pilotage du dossier : index général, plan d'action, calendrier."
 type: readme
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › 05 🗂️ Organisation
+<!-- /Breadcrumb -->
 
 # 🗂️ Organisation
 

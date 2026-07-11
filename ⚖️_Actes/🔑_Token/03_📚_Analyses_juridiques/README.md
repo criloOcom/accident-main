@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › 03 📚 Analyses juridiques
-<!-- /Breadcrumb -->
-
 ---
 title: "📚 Analyses Juridiques"
 description: "Ce dossier contient les notes d'analyse juridique, les plaidoiries, et les documents de synthèse destinés à l'audience."
 type: readme
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › 03 📚 Analyses juridiques
+<!-- /Breadcrumb -->
 
 # 📚 Analyses Juridiques
 

@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code de Procédure Pénale](./README.md) › Article475-1 CodeProcedurePenale
-<!-- /Breadcrumb -->
-
 ---
 title: "Article 475-1 — Code de procédure pénale"
 description: "Code de procédure pénale"
@@ -10,6 +6,11 @@ legiarti: LEGIARTI000044570107
 code: Code de procédure pénale
 article: 475-1
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code de Procédure Pénale](./README.md) › Article475-1 CodeProcedurePenale
+<!-- /Breadcrumb -->
 
 # Code pénal — Art. 475-1
 

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › ordalie
-<!-- /Breadcrumb -->
-
 ---
 title: "📁 ordalie"
 description: "README du dossier ordalie"
 type: directory
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › ordalie
+<!-- /Breadcrumb -->
 
 # 📁 ordalie
 

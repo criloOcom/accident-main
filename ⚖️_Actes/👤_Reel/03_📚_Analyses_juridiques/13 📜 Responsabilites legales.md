@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 03_📚_Analyses_juridiques (Versions Réelles)](./README.md) › 13 📜 Responsabilites legales
-<!-- /Breadcrumb -->
-
 ---
 title: "Analyse des Fondements de la Responsabilité Juridique - Version réelle"
 description: "Rédigé le 30 juin 2026"
@@ -18,6 +14,11 @@ reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/13 📜 Responsabilites l
 source: drive
 drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 03_📚_Analyses_juridiques (Versions Réelles)](./README.md) › 13 📜 Responsabilites legales
+<!-- /Breadcrumb -->
 
 # ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE **[L'EXPLOITANT DU COMMERCE (LA SAS)]**
 Rédigé le 30 juin 2026

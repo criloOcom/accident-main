@@ -3,8 +3,9 @@
 Injecte ou normalise le front matter YAML dans tous les fichiers .md
 du projet accident-main.
 
-Préserve le fil d'Ariane (<!-- [🏠] ... -->) en ligne 1.
-Insère YAML après le fil d'Ariane, avant le contenu.
+Insère YAML en ligne 1 (devant le fil d'Ariane), avant le contenu.
+Préserve le fil d'Ariane (<!-- [🏠] ... -->) quel que soit son emplacement.
+Ordre canonique : YAML (ligne 1) → breadcrumb → contenu (pour prévisualisation GitHub).
 Normalise les champs existants (titre → title, categorie → tags, etc.)
 Ajoute un description automatique si absent.
 

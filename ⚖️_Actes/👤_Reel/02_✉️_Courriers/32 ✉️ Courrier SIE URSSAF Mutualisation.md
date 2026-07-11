@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 32 ✉️ Courrier SIE URSSAF Mutualisation
-<!-- /Breadcrumb -->
-
 ---
 title: "Demande de Surveillance Fiscale et Sociale Urgente - Version réelle"
 description: "Sébastien GRAZIDE"
@@ -20,6 +16,11 @@ auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/32 ✉️ Courrier SIE URSSAF Mutualisation.md
 source: local
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 32 ✉️ Courrier SIE URSSAF Mutualisation
+<!-- /Breadcrumb -->
 
 # DEMANDE DE MUTUALISATION FISCALE ET SOCIALE URGENTE
 

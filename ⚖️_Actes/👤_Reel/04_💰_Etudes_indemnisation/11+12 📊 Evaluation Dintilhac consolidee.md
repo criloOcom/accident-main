@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 04_💰_Etudes_indemnisation (Versions Réelles)](./README.md) › 11+12 📊 Evaluation Dintilhac consolidee
-<!-- /Breadcrumb -->
-
 ---
 title: "Évaluation Dintilhac Consolidée — 11 + 12 - Version réelle"
 description: "10 Avenue de Purpan, 31700 Blagnac <br>"
@@ -19,6 +15,11 @@ auteur: La Victime
 reel_path: ../../👤_Reel/04_💰_Etudes_indemnisation/11+12 📊 Evaluation Dintilhac consolidee.md
 source: local
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 04_💰_Etudes_indemnisation (Versions Réelles)](./README.md) › 11+12 📊 Evaluation Dintilhac consolidee
+<!-- /Breadcrumb -->
 
 # ÉVALUATION DINTILHAC CONSOLIDÉE — 11 + 12
 

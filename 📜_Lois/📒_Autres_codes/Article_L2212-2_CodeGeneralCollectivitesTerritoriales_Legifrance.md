@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article L2212-2 CodeGeneralCollectivitesTerritoriales Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article L. 2212-2 du Code général des collectivités territoriales"
 description: "Identifiant Légifrance :** LEGIARTI000029946370"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Autres Codes
 article: L2212
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article L2212-2 CodeGeneralCollectivitesTerritoriales Legifrance
+<!-- /Breadcrumb -->
 
 # Article L. 2212-2 du Code général des collectivités territoriales
 

@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 06_🗄️_Archives (Versions Réelles)](./README.md) › 🛡️ Constitution Partie Civile
-<!-- /Breadcrumb -->
-
 ---
 title: "Constitution de Partie Civile - Version réelle"
 description: "Rédigé le 30 juin 2026"
@@ -18,6 +14,11 @@ reel_path: ../../👤_Reel/06_🗄️_Archives/🛡️ Constitution Partie Civil
 source: drive
 drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 06_🗄️_Archives (Versions Réelles)](./README.md) › 🛡️ Constitution Partie Civile
+<!-- /Breadcrumb -->
 
 **Table des matières**
 

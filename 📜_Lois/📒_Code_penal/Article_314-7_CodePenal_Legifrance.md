@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_penal](./README.md) › Article 314-7 CodePenal Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article 314-7 du Code pénal"
 description: "Identifiant Légifrance :** LEGIARTI000006418226"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Code Penal
 article: 314
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_penal](./README.md) › Article 314-7 CodePenal Legifrance
+<!-- /Breadcrumb -->
 
 # Article 314-7 du Code pénal
 

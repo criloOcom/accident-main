@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code des Assurances](./README.md) › Article L113-2 Codesassurances Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article L113-2 — Code des assurances"
 description: "Code des assurances"
@@ -10,6 +6,11 @@ legiarti: LEGIARTI000035731302
 code: Code des assurances
 article: L113-2
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code des Assurances](./README.md) › Article L113-2 Codesassurances Legifrance
+<!-- /Breadcrumb -->
 
 # Article L113-2
 

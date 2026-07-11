@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › 11 Fiche Reflexe 48h Victime
-<!-- /Breadcrumb -->
-
 ---
 title: "Fiche Reflexe 48h — Victime d'Accident Corporel"
 description: "Etape 1 — Securite et sante"
@@ -19,6 +15,11 @@ auteur: La Victime
 reel_path: ../../👤_Reel/06_🗄️_Archives/11 Fiche Reflexe 48h Victime.md
 source: local
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › 11 Fiche Reflexe 48h Victime
+<!-- /Breadcrumb -->
 
 # FICHE REFLEXE 48H
 

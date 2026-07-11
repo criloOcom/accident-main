@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 06 V2 ✉️ Relance Dirigeants
-<!-- /Breadcrumb -->
-
 ---
 title: "Relance — Demande d'information Assurance RC et d'adresse de correspondance - Version réelle"
 description: "10 Avenue de Purpan, 31700 Blagnac"
@@ -20,6 +16,11 @@ auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md
 source: local
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 06 V2 ✉️ Relance Dirigeants
+<!-- /Breadcrumb -->
 
 # RELANCE — DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE
 

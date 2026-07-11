@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › RAPPORT AUDIT RGPD
-<!-- /Breadcrumb -->
-
 ---
 title: "Audit RGPD et Anonymisation — Dossier Accident de la Main"
 description: "Le dossier juridique manipule des données à caractère personnel (DCP) hautement sensibles, notamment des données de santé (dossiers médicaux, préjudices corporels, etc.) soumises à l'article 9 du RGPD. Le risque principal réside dans la compromission"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › RAPPORT AUDIT RGPD
+<!-- /Breadcrumb -->
 
 # Audit RGPD et Anonymisation — Dossier Accident de la Main
 

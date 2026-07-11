@@ -2,12 +2,13 @@
 """
 Schéma YAML canonique pour tous les fichiers .md du projet accident-main.
 
-Chaque fichier .md doit avoir un front matter YAML APRES le fil d'Ariane
-(ligne 1) et AVANT le contenu.
+Chaque fichier .md doit avoir un front matter YAML EN LIGNE 1 (première
+ligne du fichier), puis le fil d'Ariane (commentaire HTML), puis le contenu.
+Cet ordre est imposé pour que la prévisualisation GitHub des fichiers .md
+rende correctement le bloc YAML (un commentaire HTML devant le YAML empêche
+GitHub de le parser comme front matter).
 
 Structure:
-    <!-- [🏠] breadcrumb... -->
-
     ---
     title: "..."
     description: "..."
@@ -16,6 +17,12 @@ Structure:
     tags: [...]
     statut: "..."
     ---
+
+    <!-- Breadcrumb -->
+    [🏠](README.md) › ...
+    <!-- /Breadcrumb -->
+
+    # Titre du document
 """
 
 from __future__ import annotations
@@ -177,23 +184,32 @@ def get_first_line(content: str) -> str:
     return content[:idx] if idx >= 0 else content
 
 
+def extract_breadcrumb_anywhere(content):
+    """Extrait le bloc fil d'Ariane (commentaire HTML) à n'importe quelle position.
+    Retourne (breadcrumb_block, content_sans_breadcrumb)."""
+    m = re.search(r'<!-- Breadcrumb -->.*?<!-- /Breadcrumb -->', content, re.DOTALL)
+    if not m:
+        # ancien format monobloc <!-- ... -->
+        m2 = re.search(r'<!--\s*\[🏠\].*?-->', content, re.DOTALL)
+        if not m2:
+            return "", content
+        m = m2
+    bc = m.group(0).strip()
+    rest = (content[:m.start()] + content[m.end():]).strip("\n")
+    return bc, rest
+
+
 def update_yaml_header(filepath: str, dry_run: bool = False) -> str | None:
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # Extract breadcrumb (must be first line, comment)
-    first_newline = content.find("\n")
-    first_line = content[:first_newline] if first_newline >= 0 else content
-    breadcrumb = ""
-    rest = content
-    if first_line.strip().startswith("<!--"):
-        breadcrumb = first_line + "\n"
-        rest = content[first_newline + 1:]
+    # 1. Extraire le breadcrumb (peu importe sa position : ligne 1 ou apres YAML)
+    breadcrumb, rest = extract_breadcrumb_anywhere(content)
 
-    # Strip leading whitespace for reliable YAML detection
+    # 2. Strip leading whitespace for reliable YAML detection
     rest_stripped = rest.lstrip("\n")
 
-    # Detect existing YAML
+    # 3. Detect existing YAML (maintenant en ligne 1)
     yaml_match = re.match(r'^---\s*\n(.*?)\n---\s*\n?', rest_stripped, re.DOTALL)
     existing_yaml = yaml_match.group(1) if yaml_match else ""
     if yaml_match:
@@ -266,7 +282,11 @@ def update_yaml_header(filepath: str, dry_run: bool = False) -> str | None:
                          statut=statut or None,
                          extra=extra if extra else None)
 
-    new_content = breadcrumb + new_yaml + "\n\n" + rest.lstrip("\n")
+    # ORDRE CANONIQUE : YAML (ligne 1) puis breadcrumb puis contenu
+    new_content = new_yaml + "\n\n"
+    if breadcrumb:
+        new_content += breadcrumb + "\n\n"
+    new_content += rest.lstrip("\n")
 
     if new_content == content:
         return None

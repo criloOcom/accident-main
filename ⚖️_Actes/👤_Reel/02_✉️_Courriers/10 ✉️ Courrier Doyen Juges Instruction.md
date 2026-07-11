@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 10 ✉️ Courrier Doyen Juges Instruction
-<!-- /Breadcrumb -->
-
 ---
 title: "Courrier Doyen des Juges d'Instruction — Constitution de Partie Civile - Version réelle"
 description: "Sébastien GRAZIDE"
@@ -19,6 +15,11 @@ reel_path: ../../👤_Reel/02_✉️_Courriers/10 ✉️ Courrier Doyen Juges In
 source: drive
 drive_id: 1nFSf3EDB_bVudz5Xhf0NvXlibTesCL8M5hepEZqxd5w
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 10 ✉️ Courrier Doyen Juges Instruction
+<!-- /Breadcrumb -->
 
 # ENVOI CONSTITUTION DE PARTIE CIVILE
 Sébastien GRAZIDE

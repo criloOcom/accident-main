@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › jules › [📁 audit](./README.md) › mandataires validation
-<!-- /Breadcrumb -->
-
 ---
 title: "Validation des Mandataires de Justice et Avocats"
 description: "| Type | Nom | Mission | Honoraires | Coordonnées | Vérification |"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › [📁 audit](./README.md) › mandataires validation
+<!-- /Breadcrumb -->
 
 # Validation des Mandataires de Justice et Avocats
 

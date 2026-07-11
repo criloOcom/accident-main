@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [📁 🗄️_Archives](./README.md) › audit report
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport d'Audit — Anonymisation et protection des données"
 description: "Suite à l'analyse exhaustive des fichiers du répertoire [⚖️_Actes/🔑_Token](⚖️_Actes/🔑_Token/README.md) (sous-dossiers 00 à 06) afin de détecter la présence éventuelle de données personnelles réelles (noms propres hors crochets, numéros de téléphone, adresses e-mail, adresses p"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [📁 🗄️_Archives](./README.md) › audit report
+<!-- /Breadcrumb -->
 
 # Rapport d'Audit — Anonymisation et protection des données
 

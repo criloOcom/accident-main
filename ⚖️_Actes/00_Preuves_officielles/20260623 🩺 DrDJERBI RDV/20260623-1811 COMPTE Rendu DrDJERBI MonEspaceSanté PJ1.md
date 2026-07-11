@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › 00 Preuves officielles › [📁 20260623 DrDJERBI RDV](./README.md) › 20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ1
-<!-- /Breadcrumb -->
-
 ---
 title: "Compte Rendu — Docteur DJERBI MonEspaceSanté (PJ1)"
 description: "Document de type document"
@@ -15,6 +11,11 @@ statut: original
 source: drive
 drive_id: 1WMUNB4CIElU9s6SV86iIVJAP4Nn8FfEP
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260623 DrDJERBI RDV](./README.md) › 20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ1
+<!-- /Breadcrumb -->
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**
 > Ce fichier est une copie textuelle exacte de la pièce originale (PDF).

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › jules › [📁 audit](./README.md) › audit legiarti courriers
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport d'Audit — LEGIARTI des courriers 03 à 34"
 description: "Mission M4** | **Date :** 10/07/2026 | **Auditeur :** Agent ADK"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › [📁 audit](./README.md) › audit legiarti courriers
+<!-- /Breadcrumb -->
 
 # Rapport d'Audit — LEGIARTI des courriers 03 à 34
 

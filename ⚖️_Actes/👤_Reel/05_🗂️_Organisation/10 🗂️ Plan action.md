@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 05_🗂️_Organisation (Versions Réelles)](./README.md) › 10 🗂️ Plan action
-<!-- /Breadcrumb -->
-
 ---
 title: "Plan d'Action et Chronologie de la Procédure - Version réelle"
 description: "Rédigé le 30 juin 2026"
@@ -18,6 +14,11 @@ reel_path: ../../👤_Reel/05_🗂️_Organisation/10 🗂️ Plan action.md
 source: drive
 drive_id: 153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 05_🗂️_Organisation (Versions Réelles)](./README.md) › 10 🗂️ Plan action
+<!-- /Breadcrumb -->
 
 # PLAN D'ACTION ET CHRONOLOGIE DE LA PROCÉDURE
 Rédigé le 30 juin 2026

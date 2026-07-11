@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 03_📚_Analyses_juridiques (Versions Réelles)](./README.md) › Note qualification penale disparition SAS
-<!-- /Breadcrumb -->
-
 ---
 title: "Note juridique : Qualification pénale — Disparition de la SAS"
 description: "Dossier :** Sébastien GRAZIDE c/ SAS LES MAUVAIS GARCONS"
@@ -9,6 +5,11 @@ type: analyse_juridique
 statut: brouillon
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/Note qualification penale disparition SAS.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 03_📚_Analyses_juridiques (Versions Réelles)](./README.md) › Note qualification penale disparition SAS
+<!-- /Breadcrumb -->
 
 # Note juridique : Qualification pénale — Disparition de la SAS
 

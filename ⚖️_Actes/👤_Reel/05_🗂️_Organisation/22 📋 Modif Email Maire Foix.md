@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 05_🗂️_Organisation (Versions Réelles)](./README.md) › 22 📋 Modif Email Maire Foix
-<!-- /Breadcrumb -->
-
 ---
 title: "Plan : Ajustement du courriel à l'Adjoint au Maire (Police Municipale et ERP)"
 description: "Ce plan vise à corriger la formulation de l'e-mail pour éliminer tout terme inapproprié (« bruits de couloir ») et poser une demande d'intervention factuelle d'agents assermentés de la police municipale pour contrôler la situation sur place."
@@ -9,6 +5,11 @@ type: readme
 statut: brouillon
 reel_path: ../../👤_Reel/05_🗂️_Organisation/22 📋 Modif Email Maire Foix.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 05_🗂️_Organisation (Versions Réelles)](./README.md) › 22 📋 Modif Email Maire Foix
+<!-- /Breadcrumb -->
 
 # Plan : Ajustement du courriel à l'Adjoint au Maire (Police Municipale et ERP)
 

@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 06 ✉️ Courrier President DG
-<!-- /Breadcrumb -->
-
 ---
 title: "Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC"
 description: "[L'Adresse de la Victime]** <br>"
@@ -20,6 +16,11 @@ reel_path: ../../👤_Reel/02_✉️_Courriers/06 ✉️ Courrier President DG.m
 source: drive
 drive_id: 1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 06 ✉️ Courrier President DG
+<!-- /Breadcrumb -->
 
 # MISE EN DEMEURE AUX DIRIGEANTS — DEMANDE D'INFORMATION ASSURANCE RC
 **[L'Adresse de la Victime]** <br>

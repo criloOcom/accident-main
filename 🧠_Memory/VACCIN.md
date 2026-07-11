@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › VACCIN
-<!-- /Breadcrumb -->
-
 ---
 title: "VACCIN — Protocole obligatoire avant chaque action"
 description: "- [ ] `/home/crilocom/accident-main/` est le SEUL répertoire — vérifie que tu y es"
 type: memory
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › VACCIN
+<!-- /Breadcrumb -->
 
 # VACCIN — Protocole obligatoire avant chaque action
 

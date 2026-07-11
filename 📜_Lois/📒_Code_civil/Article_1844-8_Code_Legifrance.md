@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_civil](./README.md) › Article 1844-8 Code Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article 1844-8 — Code civil"
 description: "Code civil"
@@ -10,6 +6,11 @@ legiarti: LEGIARTI000006444186
 code: Code civil
 article: 1844-8
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_civil](./README.md) › Article 1844-8 Code Legifrance
+<!-- /Breadcrumb -->
 
 # Article 1844-8
 

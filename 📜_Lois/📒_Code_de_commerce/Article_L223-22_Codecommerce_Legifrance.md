@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code de Commerce](./README.md) › Article L223-22 Codecommerce Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article L223-22 — Code de commerce"
 description: "Code de commerce"
@@ -10,6 +6,11 @@ legiarti: LEGIARTI000006223141
 code: Code de commerce
 article: L223-22
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code de Commerce](./README.md) › Article L223-22 Codecommerce Legifrance
+<!-- /Breadcrumb -->
 
 # Article L. 223-22
 

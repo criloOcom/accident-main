@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › Note Conservation Preuves Numeriques
-<!-- /Breadcrumb -->
-
 ---
 title: "Note Conservation Preuves Numeriques"
 description: "Dans le cadre du litige opposant **[La Victime]** à **[L'Exploitant du Commerce (La SAS)]**, il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploi"
@@ -16,6 +12,11 @@ destinataire: La Victime
 auteur: L'Avocat de la Victime
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/Note Conservation Preuves Numeriques.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › Note Conservation Preuves Numeriques
+<!-- /Breadcrumb -->
 
 # NOTE SUR LA CONSERVATION DES PREUVES EXTÉRIEURES ET NUMÉRIQUES
 

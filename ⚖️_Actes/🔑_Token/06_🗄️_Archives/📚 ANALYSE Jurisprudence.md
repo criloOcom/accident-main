@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › 📚 ANALYSE Jurisprudence
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport d'Expertise Juridique — Analyse des Préjudices Corporels"
 description: "Rédigé le **[J+32 Assignation référé]"
@@ -18,6 +14,11 @@ reel_path: ../../👤_Reel/06_🗄️_Archives/📚 ANALYSE Jurisprudence.md
 source: drive
 drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › 📚 ANALYSE Jurisprudence
+<!-- /Breadcrumb -->
 
 **Table des matières**
 

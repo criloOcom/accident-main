@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 35 ✉️ Courrier President TJ Foix
-<!-- /Breadcrumb -->
-
 ---
 title: "Transmission de preuves complementaires au Tribunal Judiciaire de Foix - Version réelle"
 description: "Sébastien GRAZIDE"
@@ -17,6 +13,11 @@ destinataire: President du Tribunal Judiciaire de Foix
 auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/35 ✉️ Courrier President TJ Foix.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 35 ✉️ Courrier President TJ Foix
+<!-- /Breadcrumb -->
 
 # TRANSMISSION DE PREUVES COMPLEMENTAIRES AU TRIBUNAL JUDICIAIRE DE FOIX
 

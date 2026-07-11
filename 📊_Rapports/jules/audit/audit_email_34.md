@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › jules › [📁 audit](./README.md) › audit email 34
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport d'Audit : Email N°34 (Mairie de Foix - Police Municipale ERP)"
 description: "Document analysé :** [⚖️_Actes/👤_Reel/02_✉️_Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md](⚖️_Actes/👤_Reel/02_✉️_Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md)"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › [📁 audit](./README.md) › audit email 34
+<!-- /Breadcrumb -->
 
 # Rapport d'Audit : Email N°34 (Mairie de Foix - Police Municipale ERP)
 

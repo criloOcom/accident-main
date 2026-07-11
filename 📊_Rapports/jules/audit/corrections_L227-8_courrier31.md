@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › jules › [📁 audit](./README.md) › corrections L227-8 courrier31
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport de correction — L.227-8 et Courrier 31"
 description: "Date : 2026-07-10"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › [📁 audit](./README.md) › corrections L227-8 courrier31
+<!-- /Breadcrumb -->
 
 # Rapport de correction — L.227-8 et Courrier 31
 

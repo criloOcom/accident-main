@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › jules › [📁 jurisprudence](./README.md) › audit juritext dintilhac
-<!-- /Breadcrumb -->
-
 ---
 title: "audit_juritext_dintilhac"
 description: "Document de type rapport"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › [📁 jurisprudence](./README.md) › audit juritext dintilhac
+<!-- /Breadcrumb -->
 
 | JURITEXT | Titre | Chambre | Date | Solution | Statut | Commentaire |
 |---|---|---|---|---|---|---|

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › STATUS
-<!-- /Breadcrumb -->
-
 ---
 title: "STATUT D'AVANCEMENT — 10 juillet 2026"
 description: "- **Analyse exhaustive** des 21 risques juridiques, procéduraux, documentaires, financiers et transverses"
 type: memory
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › STATUS
+<!-- /Breadcrumb -->
 
 # STATUT D'AVANCEMENT — 10 juillet 2026
 

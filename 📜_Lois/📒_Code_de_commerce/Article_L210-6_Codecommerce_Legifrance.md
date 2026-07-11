@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code de Commerce](./README.md) › Article L210-6 Codecommerce Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article L210-6 — Code de commerce"
 description: "Code de commerce"
@@ -10,6 +6,11 @@ legiarti: LEGIARTI000006222358
 code: Code de commerce
 article: L210-6
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code de Commerce](./README.md) › Article L210-6 Codecommerce Legifrance
+<!-- /Breadcrumb -->
 
 # Article L210-6
 

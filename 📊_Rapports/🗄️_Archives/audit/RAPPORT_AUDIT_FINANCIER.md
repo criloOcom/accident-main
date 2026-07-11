@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › RAPPORT AUDIT FINANCIER
-<!-- /Breadcrumb -->
-
 ---
 title: "RAPPORT D'AUDIT FINANCIER ET INDEMNITAIRE"
 description: "Date de l'audit** : 4 Juillet 2026"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › RAPPORT AUDIT FINANCIER
+<!-- /Breadcrumb -->
 
 # RAPPORT D'AUDIT FINANCIER ET INDEMNITAIRE
 

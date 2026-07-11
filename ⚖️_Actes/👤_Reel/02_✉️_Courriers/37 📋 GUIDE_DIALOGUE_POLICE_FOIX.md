@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 37 📋 GUIDE DIALOGUE POLICE FOIX
-<!-- /Breadcrumb -->
-
 ---
 title: "Guide de Dialogue — Échanges avec la Police de Foix - Version réelle"
 description: "Objectif :** Ce guide vous accompagne pas à pas lors de votre déplacement au commissariat de Foix. Il contient les phrases clés à utiliser, les questions à poser, les réponses aux objections possibles, et la stratégie pour présenter efficacement votr"
@@ -18,6 +14,11 @@ destinataire: Commissariat de Police de Foix
 auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 37 📋 GUIDE DIALOGUE POLICE FOIX
+<!-- /Breadcrumb -->
 
 # GUIDE DE DIALOGUE — ÉCHANGES AVEC LA POLICE DE FOIX
 

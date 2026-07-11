@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 04_💰_Etudes_indemnisation (Versions Réelles)](./README.md) › 12 Évaluation Dintilhac détaillée
-<!-- /Breadcrumb -->
-
 ---
 title: "Évaluation financière Dintilhac détaillée - Version réelle"
 description: "Le dossier initial évalue le préjudice à **59 600 €**. Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**. L'estimation médiane est de **~109 500 €** (fourchette 77 000 - 139 000 €)."
@@ -16,6 +12,11 @@ auteur: La Victime
 reel_path: ../../👤_Reel/04_💰_Etudes_indemnisation/12 Évaluation Dintilhac détaillée.md
 source: local
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 04_💰_Etudes_indemnisation (Versions Réelles)](./README.md) › 12 Évaluation Dintilhac détaillée
+<!-- /Breadcrumb -->
 
 # ÉVALUATION FINANCIÈRE DINTILHAC DÉTAILLÉE
 > Évaluation poste par poste réalisée le 7 juillet 2026 selon la nomenclature Dintilhac, barème Mornet 2024 et jurisprudence de la Cour de cassation.

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › RAPPORT YAML
-<!-- /Breadcrumb -->
-
 ---
 title: "RAPPORT AUDIT YAML"
 description: "- **Total fichiers audités :** 31"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › RAPPORT YAML
+<!-- /Breadcrumb -->
 
 # RAPPORT AUDIT YAML
 

@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › 00 Preuves officielles › [📁 20260629 LR Demande ASSURANCE](./README.md) › 20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons
-<!-- /Breadcrumb -->
-
 ---
 title: "Lettre Recommandée — Mise en Demeure SAS Les Mauvais Garçons"
 description: "Document de type document"
@@ -16,6 +12,11 @@ destinataire: SAS Les Mauvais Garçons
 source: drive
 drive_id: 1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260629 LR Demande ASSURANCE](./README.md) › 20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons
+<!-- /Breadcrumb -->
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**
 > Ce fichier est une copie textuelle exacte de la pièce originale (PDF).

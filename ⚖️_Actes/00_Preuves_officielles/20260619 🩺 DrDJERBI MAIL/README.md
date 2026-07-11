@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › 00 Preuves officielles › 20260619 🩺 DrDJERBI MAIL
-<!-- /Breadcrumb -->
-
 ---
 title: "📁 20260619 DrDJERBI MAIL"
 description: "README de la pièce Dr DJERBI MAIL"
 type: directory
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📂 Preuves officielles](../README.md) › 20260619 🩺 DrDJERBI MAIL
+<!-- /Breadcrumb -->
 
 # 📁 20260619 🩺 DrDJERBI MAIL
 

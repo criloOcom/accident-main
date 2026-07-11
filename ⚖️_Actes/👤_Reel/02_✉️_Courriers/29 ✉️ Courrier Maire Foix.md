@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 29 ✉️ Courrier Maire Foix
-<!-- /Breadcrumb -->
-
 ---
 title: "Mise en demeure de la Mairie — Police Administrative - Version réelle"
 description: "Sébastien GRAZIDE"
@@ -16,6 +12,11 @@ destinataire: Le Maire
 auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/29 ✉️ Courrier Maire Foix.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 29 ✉️ Courrier Maire Foix
+<!-- /Breadcrumb -->
 
 # LETTRE RECOMMANDÉE AVEC ACCUSÉ DE RÉCEPTION
 

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › jules › [📁 audit](./README.md) › audit legiarti actes
-<!-- /Breadcrumb -->
-
 ---
 title: "Audit des LEGIARTI — Actes de procédure (01-17)"
 description: "Mission : M5 — Auditeur juridique"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › [📁 audit](./README.md) › audit legiarti actes
+<!-- /Breadcrumb -->
 
 # Audit des LEGIARTI — Actes de procédure (01-17)
 

@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 04 ✉️ Courrier Assureur
-<!-- /Breadcrumb -->
-
 ---
 title: "Action Directe Assureur RC (Art. L.124-3 Code des assurances) - Version réelle"
 description: "Sébastien GRAZIDE"
@@ -19,6 +15,11 @@ reel_path: ../../👤_Reel/02_✉️_Courriers/04 ✉️ Courrier Assureur.md
 source: drive
 drive_id: 14VIXTJK4n9eH66eVNZ6hJO6gLkiRBqnJpWijsDbkE2k
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 04 ✉️ Courrier Assureur
+<!-- /Breadcrumb -->
 
 # ACTION DIRECTE — MISE EN DEMEURE ASSUREUR RC
 Sébastien GRAZIDE

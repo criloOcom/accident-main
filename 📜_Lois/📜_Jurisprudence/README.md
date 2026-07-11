@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📜 Jurisprudence
-<!-- /Breadcrumb -->
-
 ---
 title: "📜_Jurisprudence"
 description: "Dossier contenant les articles de loi relatifs à 📜_Jurisprudence."
 type: readme
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📜 Jurisprudence
+<!-- /Breadcrumb -->
 
 # 📜_Jurisprudence
 

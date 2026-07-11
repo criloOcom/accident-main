@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › 00 Preuves officielles › [📁 20260623 DrDJERBI RDV](./README.md) › 20260623-1731 DR DJERBI Ordonnance Kinesitherapeute
-<!-- /Breadcrumb -->
-
 ---
 title: "Ordonnance de Kinésithérapie — Docteur DJERBI"
 description: "Document de type document"
@@ -15,6 +11,11 @@ statut: original
 source: drive
 drive_id: 1t-DHwIZUyJgWwQGOAFHtNvNC2xVtMozp
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260623 DrDJERBI RDV](./README.md) › 20260623-1731 DR DJERBI Ordonnance Kinesitherapeute
+<!-- /Breadcrumb -->
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**
 > Ce fichier est une copie textuelle exacte de la pièce originale (PDF).

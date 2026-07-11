@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT CHECKLIST
-<!-- /Breadcrumb -->
-
 ---
 title: "RAPPORT D'AUDIT — Checklist Envoi LRAR 11-07-2026"
 description: "Contexte :** Vérification de la cohérence entre le fichier `23 📊 Suivi Envois LRAR.md`, le fichier `24 ✅ Checklist Envoi 11-07-2026.md`, et les courriers réels (12, 14, 19, 35)."
@@ -16,6 +12,11 @@ tags:
 statut: final
 auteur: Agent d'audit
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT CHECKLIST
+<!-- /Breadcrumb -->
 
 # RAPPORT D'AUDIT — CHECKLIST ENVOI LRAR 11 JUILLET 2026
 

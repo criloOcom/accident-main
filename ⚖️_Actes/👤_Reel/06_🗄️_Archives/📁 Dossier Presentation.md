@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 06_🗄️_Archives (Versions Réelles)](./README.md) › 📁 Dossier Presentation
-<!-- /Breadcrumb -->
-
 ---
 title: "Dossier de Présentation destiné au Conseil Juridique - Version réelle"
 description: "Rédigé le 30 juin 2026"
@@ -19,6 +15,11 @@ reel_path: ../../👤_Reel/06_🗄️_Archives/📁 Dossier Presentation.md
 source: drive
 drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 06_🗄️_Archives (Versions Réelles)](./README.md) › 📁 Dossier Presentation
+<!-- /Breadcrumb -->
 
 **Table des matières**
 

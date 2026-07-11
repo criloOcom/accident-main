@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [📁 🗄️_Archives](./README.md) › matrice coherence jurisprudence
-<!-- /Breadcrumb -->
-
 ---
 title: "Matrice d'Audit Jurisprudentiel"
 description: "Vérification de la cohérence des citations d'arrêts (chambre, date, ratio) à travers les fichiers du dossier [⚖️_Actes/🔑_Token](⚖️_Actes/🔑_Token/README.md)."
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [📁 🗄️_Archives](./README.md) › matrice coherence jurisprudence
+<!-- /Breadcrumb -->
 
 # Matrice d'Audit Jurisprudentiel
 

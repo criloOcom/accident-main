@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › RAPPORT JURISPRUDENCES
-<!-- /Breadcrumb -->
-
 ---
 title: "RAPPORT DE VÉRIFICATION DES JURISPRUDENCES ET LOIS"
 description: "🔧 **L'article L. 227-8 du Code de commerce** — `LEGIARTI000006226329` (incorrect, L. 225-251) → `LEGIARTI000006227036` (L. 227-8) [Fichiers: 06_Courrier President DG.md, 03_Courrier SAS.md, 07_Plaidoirie dirigeants.md, ANNEXE B Lois Jurisprudence.md]"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › RAPPORT JURISPRUDENCES
+<!-- /Breadcrumb -->
 
 # RAPPORT DE VÉRIFICATION DES JURISPRUDENCES ET LOIS
 

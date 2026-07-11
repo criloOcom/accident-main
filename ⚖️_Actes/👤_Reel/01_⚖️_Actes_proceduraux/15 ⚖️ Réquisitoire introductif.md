@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 01_⚖️_Actes_proceduraux (Versions Réelles)](./README.md) › 15 ⚖️ Réquisitoire introductif
-<!-- /Breadcrumb -->
-
 ---
 title: "Réquisitoire Introductif - Version réelle"
 description: "Ouverture d'une information judiciaire — Blessures involontaires et infractions connexes"
@@ -19,6 +15,11 @@ reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/15 ⚖️ Réquisitoire i
 source: drive
 drive_id: À compléter
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 01_⚖️_Actes_proceduraux (Versions Réelles)](./README.md) › 15 ⚖️ Réquisitoire introductif
+<!-- /Breadcrumb -->
 
 # RÉQUISITOIRE INTRODUCTIF DU MINISTÈRE PUBLIC
 **Ouverture d'une information judiciaire — Blessures involontaires et infractions connexes**

@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 11 ✉️ Courrier INPI
-<!-- /Breadcrumb -->
-
 ---
 title: "Signalement de Litige au Registre National des Entreprises - Version réelle"
 description: "Sébastien GRAZIDE"
@@ -20,6 +16,11 @@ reel_path: ../../👤_Reel/02_✉️_Courriers/11 ✉️ Courrier INPI.md
 source: drive
 drive_id: 1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 11 ✉️ Courrier INPI
+<!-- /Breadcrumb -->
 
 # DEMANDE DE SIGNALEMENT DE LITIGE AU REGISTRE NATIONAL DES ENTREPRISES
 Sébastien GRAZIDE

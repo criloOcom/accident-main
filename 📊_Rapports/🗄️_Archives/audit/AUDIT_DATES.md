@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › AUDIT DATES
-<!-- /Breadcrumb -->
-
 ---
 title: "Audit de Cohérence des Dates"
 description: "Ce document recense les anomalies de dates détectées dans les actes par rapport au fichier `scratch_master_final.json` et aux règles métier."
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › AUDIT DATES
+<!-- /Breadcrumb -->
 
 # Audit de Cohérence des Dates
 

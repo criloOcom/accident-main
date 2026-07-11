@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Code procedure penale
-<!-- /Breadcrumb -->
-
 ---
 title: "📒_Code_procedure_penale"
 description: "Dossier contenant les articles de loi relatifs à 📒_Code_procedure_penale."
 type: readme
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Code procedure penale
+<!-- /Breadcrumb -->
 
 # 📒_Code_procedure_penale
 

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › 04 💰 Etudes indemnisation
-<!-- /Breadcrumb -->
-
 ---
 title: "Index — 04_💰_Etudes_indemnisation (Versions Réelles)"
 description: "- [11 💰 Etude indemnisation.md](11 💰 Etude indemnisation.md)"
 type: readme
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › 04 💰 Etudes indemnisation
+<!-- /Breadcrumb -->
 
 # Index — 04_💰_Etudes_indemnisation (Versions Réelles)
 

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › 🧠 Memory
-<!-- /Breadcrumb -->
-
 ---
 title: "🧠 Mémoire du Projet"
 description: "Ce dossier contient les documents de référence, les variables strictes, et la mémoire institutionnelle du projet accident-main."
 type: readme
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › 🧠 Memory
+<!-- /Breadcrumb -->
 
 # 🧠 Mémoire du Projet
 

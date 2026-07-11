@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [⚖️ Bibliothèque Juridique](./README.md) › RAPPORT ORGANISATION 20260711
-<!-- /Breadcrumb -->
-
 ---
 title: "📋 Rapport d'Organisation des Textes Juridiques"
 description: "Date** : 11 juillet 2026"
 type: loi
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [⚖️ Bibliothèque Juridique](./README.md) › RAPPORT ORGANISATION 20260711
+<!-- /Breadcrumb -->
 
 # 📋 Rapport d'Organisation des Textes Juridiques
 

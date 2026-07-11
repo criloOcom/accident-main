@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › 00 📇 Index
-<!-- /Breadcrumb -->
-
 ---
 title: "Index de l'État Final du Dossier"
 description: "Rédigé le **[J+32 Assignation référé]** — Mis à jour le **[J+38 Mise à jour]** (unification bordereau 43 pièces)"
@@ -18,6 +14,11 @@ reel_path: ../../👤_Reel/05_🗂️_Organisation/00 📇 Index.md
 source: drive
 drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › 00 📇 Index
+<!-- /Breadcrumb -->
 
 # INDEX DU DOSSIER **[LA VICTIME]**
 Rédigé le **[J+32 Assignation référé]** — Mis à jour le **[J+38 Mise à jour]** (unification bordereau 43 pièces)

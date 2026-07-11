@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 checklinks](./README.md) › 20260707 Verification liens Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Vérification des liens Légifrance"
 description: "| Lien | Statut |"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 checklinks](./README.md) › 20260707 Verification liens Legifrance
+<!-- /Breadcrumb -->
 
 # Vérification des liens Légifrance
 

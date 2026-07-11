@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 citations](./README.md) › 20260707 Verification citations juridiques
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport de Vérification des Citations Juridiques"
 description: "Ce rapport identifie les articles de loi cités dans les documents qui ne sont pas accompagnés de leur texte reproduit à proximité immédiate."
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 citations](./README.md) › 20260707 Verification citations juridiques
+<!-- /Breadcrumb -->
 
 # Rapport de Vérification des Citations Juridiques
 

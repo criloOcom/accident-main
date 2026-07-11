@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 06_🗄️_Archives (Versions Réelles)](./README.md) › 🧠 STRATEGIE Contentieux Penal
-<!-- /Breadcrumb -->
-
 ---
 title: "STRATEGIE Contentieux Penal - Version réelle"
 description: "Rédigé le **[J+36 Lettre consolidation]"
@@ -17,6 +13,11 @@ auteur: La Victime
 reel_path: ../../👤_Reel/06_🗄️_Archives/🧠 STRATEGIE Contentieux Penal.md
 source: drive
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 06_🗄️_Archives (Versions Réelles)](./README.md) › 🧠 STRATEGIE Contentieux Penal
+<!-- /Breadcrumb -->
 
 **Table des matières**
 

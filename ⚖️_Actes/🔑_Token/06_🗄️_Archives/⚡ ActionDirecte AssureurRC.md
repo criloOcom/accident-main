@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › ⚡ ActionDirecte AssureurRC
-<!-- /Breadcrumb -->
-
 ---
 title: "Action Directe Assureur RC ([Art. L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449))"
 description: "Rédigé le **[J+31 Mises en demeure]"
@@ -19,6 +15,11 @@ reel_path: ../../👤_Reel/06_🗄️_Archives/⚡ ActionDirecte AssureurRC.md
 source: drive
 drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › ⚡ ActionDirecte AssureurRC
+<!-- /Breadcrumb -->
 
 **Table des matières**
 

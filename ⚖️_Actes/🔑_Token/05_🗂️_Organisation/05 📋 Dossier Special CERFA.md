@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › 05 📋 Dossier Special CERFA
-<!-- /Breadcrumb -->
-
 ---
 title: "05 Dossier Spécial CERFA"
 description: "Dans le cadre du dossier d'accident corporel de **[La Victime]**, plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditi"
@@ -18,6 +14,11 @@ destinataire: La Victime
 auteur: L'Expert Juridique
 reel_path: ../../👤_Reel/05_🗂️_Organisation/05 📋 Dossier Special CERFA.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › 05 📋 Dossier Special CERFA
+<!-- /Breadcrumb -->
 
 # DOSSIER SPÉCIAL : FORMULAIRES CERFA APPLICABLES
 

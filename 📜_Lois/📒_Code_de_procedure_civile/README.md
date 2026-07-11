@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Code de procedure civile
-<!-- /Breadcrumb -->
-
 ---
 title: "📒 Code de Procédure Civile"
 description: "Ce dossier contient les articles du Code de procédure civile français cités dans les actes du dossier."
 type: readme
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Code de procedure civile
+<!-- /Breadcrumb -->
 
 # 📒 Code de Procédure Civile
 

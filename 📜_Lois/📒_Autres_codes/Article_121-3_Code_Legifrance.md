@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article 121-3 Code Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article 121-3"
 description: "Code pénal"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Autres Codes
 article: 121
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article 121-3 Code Legifrance
+<!-- /Breadcrumb -->
 
 # Article 121-3
 

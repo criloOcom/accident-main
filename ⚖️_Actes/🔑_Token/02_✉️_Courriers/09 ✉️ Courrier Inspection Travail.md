@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 09 ✉️ Courrier Inspection Travail
-<!-- /Breadcrumb -->
-
 ---
 title: "Demande d'Information a l'Inspection du Travail"
 description: "[L'Adresse de la Victime]"
@@ -19,6 +15,11 @@ reel_path: ../../👤_Reel/02_✉️_Courriers/09 ✉️ Courrier Inspection Tra
 source: drive
 drive_id: 1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 09 ✉️ Courrier Inspection Travail
+<!-- /Breadcrumb -->
 
 # DEMANDE D'INFORMATION A L'INSPECTION DU TRAVAIL
 **[L'Adresse de la Victime]**

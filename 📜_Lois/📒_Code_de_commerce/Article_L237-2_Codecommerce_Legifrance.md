@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code de Commerce](./README.md) › Article L237-2 Codecommerce Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article L237-2 — Code de commerce"
 description: "Code de commerce"
@@ -10,6 +6,11 @@ legiarti: LEGIARTI000006230063
 code: Code de commerce
 article: L237-2
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code de Commerce](./README.md) › Article L237-2 Codecommerce Legifrance
+<!-- /Breadcrumb -->
 
 # Article L237-2
 

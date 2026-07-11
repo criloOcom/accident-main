@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › recommandations urgentes
-<!-- /Breadcrumb -->
-
 ---
 title: "Recommandations Urgentes et Priorisation des Actions"
 description: "Ordre de priorité des opérations pour la sauvegarde des preuves."
@@ -15,6 +11,11 @@ statut: final
 destinataire: La Victime
 auteur: Huissier de Justice
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › recommandations urgentes
+<!-- /Breadcrumb -->
 
 # RECOMMANDATIONS URGENTES DE L'HUISSIER DE JUSTICE
 **Ordre de priorité des opérations pour la sauvegarde des preuves.**

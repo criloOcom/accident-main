@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_penal](./README.md) › Article 121-1a121-7 CodePenal Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Articles 121-1 à 121-7 — Code pénal"
 description: "Code pénal"
@@ -10,6 +6,11 @@ legiarti: LEGIARTI000006417206
 code: Code pénal
 article: 121-1 à 121-7
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_penal](./README.md) › Article 121-1a121-7 CodePenal Legifrance
+<!-- /Breadcrumb -->
 
 # Articles 121-1 à 121-7
 

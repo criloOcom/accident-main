@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › jules › [📁 expertise](./README.md) › analyse coherence dintilhac
-<!-- /Breadcrumb -->
-
 ---
 title: "Analyse de cohérence - Évaluation Dintilhac"
 description: "En qualité d'Avocat spécialiste en réparation du préjudice corporel, j'ai procédé à l'analyse détaillée des montants réclamés au titre de l'indemnisation de **[La Victime]** suite à l'accident du 29 mai 2026, au regard de la nomenclature Dintilhac et"
@@ -10,6 +6,11 @@ date: 2026-07-09
 statut: final
 auteur: Avocat spécialiste en réparation du préjudice corporel (Jules)
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › [📁 expertise](./README.md) › analyse coherence dintilhac
+<!-- /Breadcrumb -->
 
 # VÉRIFICATION DE LA COHÉRENCE DES MONTANTS D'INDEMNISATION
 

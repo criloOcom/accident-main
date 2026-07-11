@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › jules › [📁 audit](./README.md) › audit tokenisation residuelle
-<!-- /Breadcrumb -->
-
 ---
 title: "Audit de Tokenisation Résiduelle (RGPD)"
 description: "| Fichier | Ligne | Type | Donnée Trouvée | Statut |"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › [📁 audit](./README.md) › audit tokenisation residuelle
+<!-- /Breadcrumb -->
 
 # Audit de Tokenisation Résiduelle (RGPD)
 

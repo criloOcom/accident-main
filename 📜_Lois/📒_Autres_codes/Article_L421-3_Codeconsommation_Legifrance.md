@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article L421-3 Codeconsommation Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article L421-3"
 description: "Code de la consommation"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Autres Codes
 article: L421
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article L421-3 Codeconsommation Legifrance
+<!-- /Breadcrumb -->
 
 # Article L421-3
 

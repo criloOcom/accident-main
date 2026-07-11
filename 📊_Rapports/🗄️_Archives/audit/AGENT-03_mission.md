@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › AGENT-03 mission
-<!-- /Breadcrumb -->
-
 ---
 title: "RAPPORT D'AUDIT ET VÉRIFICATION DES CITATIONS JURIDIQUES"
 description: "Ce rapport présente l'analyse critique de l'ensemble des citations de jurisprudence et de textes de loi figurant dans les documents du dossier d'accident corporel de la main, situés dans [/home/crilocom/accident-main/⚖️_Actes/🔑_Token](/home/crilocom/accident-main/⚖️_Actes/🔑_Token/README.md)."
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › AGENT-03 mission
+<!-- /Breadcrumb -->
 
 # RAPPORT D'AUDIT ET VÉRIFICATION DES CITATIONS JURIDIQUES
 

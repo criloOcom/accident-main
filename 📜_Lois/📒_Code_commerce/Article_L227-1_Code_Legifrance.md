@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_commerce](./README.md) › Article L227-1 Code Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article L227-1"
 description: "Code de commerce — Sociétés par actions simplifiée (SAS)"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Code de commerce
 article: L227-1
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_commerce](./README.md) › Article L227-1 Code Legifrance
+<!-- /Breadcrumb -->
 
 # Article L227-1
 

@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › Fiche Reflexe 48h Disparition SAS
-<!-- /Breadcrumb -->
-
 ---
 title: "Fiche Réflexe 48h - Disparition SAS"
 description: "La disparition soudaine de **[L'Exploitant du Commerce (La SAS)]** et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de **[La Victime]** et geler la situation factuelle et juridique"
@@ -17,6 +13,11 @@ statut: brouillon
 auteur: Nom de l'Avocat de la Victime
 reel_path: ../../👤_Reel/05_🗂️_Organisation/Fiche Reflexe 48h Disparition SAS.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › Fiche Reflexe 48h Disparition SAS
+<!-- /Breadcrumb -->
 
 # FICHE RÉFLEXE 48H : DISPARITION DE LA SAS
 

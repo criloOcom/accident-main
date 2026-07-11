@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › evaluation academique
-<!-- /Breadcrumb -->
-
 ---
 title: "Évaluation académique et juridique du dossier"
 description: "NOTE GLOBALE : B+ (14/20)"
@@ -11,6 +7,11 @@ statut: final
 destinataire: La Victime
 auteur: Professeur de Droit
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › evaluation academique
+<!-- /Breadcrumb -->
 
 # ÉVALUATION ACADÉMIQUE ET JURIDIQUE DU DOSSIER
 

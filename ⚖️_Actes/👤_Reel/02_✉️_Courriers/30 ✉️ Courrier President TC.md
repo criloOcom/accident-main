@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 30 ✉️ Courrier President TC
-<!-- /Breadcrumb -->
-
 ---
 title: "Opposition conservatoire à radiation de la SAS - Version réelle"
 description: "Nom Prénom de l'Avocat"
@@ -18,6 +14,11 @@ destinataire: Tribunal de Commerce de Foix
 auteur: Nom de l'Avocat de la Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/30 ✉️ Courrier President TC.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 30 ✉️ Courrier President TC
+<!-- /Breadcrumb -->
 
 # OPPOSITION CONSERVATOIRE À RADIATION DE SOCIÉTÉ
 Nom Prénom de l'Avocat

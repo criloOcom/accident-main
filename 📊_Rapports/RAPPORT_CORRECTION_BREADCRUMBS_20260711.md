@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT CORRECTION BREADCRUMBS 20260711
-<!-- /Breadcrumb -->
-
 ---
 title: "📊 Rapport de Correction des Fils d'Ariane"
 description: "Date :** 11 juillet 2026"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT CORRECTION BREADCRUMBS 20260711
+<!-- /Breadcrumb -->
 
 # 📊 Rapport de Correction des Fils d'Ariane
 

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [⚖️ Bibliothèque Juridique](./README.md) › EXEMPLES REQUETES MCP
-<!-- /Breadcrumb -->
-
 ---
 title: "Exemples de Requêtes MCP Valides"
 description: "Ce document fournit des exemples concrets et testés pour utiliser les MCP Légifrance et Judilibre dans le cadre du projet 'accident-main'."
 type: loi
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [⚖️ Bibliothèque Juridique](./README.md) › EXEMPLES REQUETES MCP
+<!-- /Breadcrumb -->
 
 # Exemples de Requêtes MCP Valides
 

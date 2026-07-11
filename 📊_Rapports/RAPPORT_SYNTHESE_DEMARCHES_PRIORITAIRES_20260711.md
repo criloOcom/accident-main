@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT SYNTHESE DEMARCHES PRIORITAIRES 20260711
-<!-- /Breadcrumb -->
-
 ---
 title: "RAPPORT DE SYNTHÈSE - Démarches Prioritaires à Entreprendre"
 description: "Date** : 11 juillet 2026"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT SYNTHESE DEMARCHES PRIORITAIRES 20260711
+<!-- /Breadcrumb -->
 
 # RAPPORT DE SYNTHÈSE - Démarches Prioritaires à Entreprendre
 

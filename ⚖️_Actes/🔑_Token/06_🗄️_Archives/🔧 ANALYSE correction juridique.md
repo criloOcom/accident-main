@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › 🔧 ANALYSE correction juridique
-<!-- /Breadcrumb -->
-
 ---
 title: "Mémorandum Juridique — Audit Stratégique et Restructuration Contentieuse"
 description: "Rédigé le **[J+32 Assignation référé]"
@@ -18,6 +14,11 @@ reel_path: ../../👤_Reel/06_🗄️_Archives/🔧 ANALYSE correction juridique
 source: drive
 drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › 🔧 ANALYSE correction juridique
+<!-- /Breadcrumb -->
 
 **Table des matières**
 

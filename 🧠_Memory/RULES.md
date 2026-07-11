@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › RULES
-<!-- /Breadcrumb -->
-
 ---
 title: "RÈGLES PERMANENTES — Dossier Accident de la Main"
 description: "- **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet ([🧠_Memory/STRICT VARIABLES.md](🧠_Memory/STRICT VARIABLES.md) ou `🧠_M"
 type: memory
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › RULES
+<!-- /Breadcrumb -->
 
 # RÈGLES PERMANENTES — Dossier Accident de la Main
 
@@ -246,16 +247,28 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 ## #14 — FORMAT DES FILS D'ARIANE (BREADCRUMBS) — RÈGLE STRICTE
 
 ### Format imposé
-- Le fil d'Ariane est sur la **ligne 1** du fichier, dans un **commentaire HTML** `<!-- ... -->`
-- Utilise `[🏠](../README.md)` (emoji maison comme lien) — PAS le mot "Accueil"
+- Le **front matter YAML est sur la LIGNE 1** du fichier (bloc `--- ... ---`), suivi du fil d'Ariane dans un **commentaire HTML** `<!-- ... -->`, puis le contenu.
+- ORDRE CANONIQUE : `---` (YAML) en ligne 1 → fil d'Ariane (commentaire HTML) → titre `#` et contenu.
+- Raison : la prévisualisation GitHub des fichiers .md ne rend le YAML comme front matter QUE s'il est en première ligne. Un commentaire HTML devant le YAML empêche GitHub de le parser.
+- Le fil d'Ariane utilise `[🏠](../README.md)` (emoji maison comme lien) — PAS le mot "Accueil"
 - Exemple :
   ```html
-  
+  ---
+  title: "..."
+  description: "..."
+  type: "..."
+  ---
+
+  <!-- Breadcrumb -->
+  [🏠](../../README.md) › ...
+  <!-- /Breadcrumb -->
+
+  # Titre du document
   ```
 
 ### Règles
 1. **Un seul fil d'Ariane par fichier** — toute duplication est une erreur
-2. **Toujours en ligne 1**, avant tout titre ou contenu
+2. **Toujours APRÈS le bloc YAML** (ligne 1 = `---`), avant tout titre `#` de contenu
 3. **Format commentaire HTML** pour détection facile par script
 4. **Généré automatiquement** par `.dev/app/generate_breadcrumbs.py`
 5. **Ne JAMAIS ajouter** de breadcrumb à la main — toujours passer par le script

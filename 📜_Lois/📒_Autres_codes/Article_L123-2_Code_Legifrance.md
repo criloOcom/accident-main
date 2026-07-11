@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article L123-2 Code Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article L123-2"
 description: "Code de commerce — Immatriculation des commerçants"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Autres Codes
 article: L123-2
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article L123-2 Code Legifrance
+<!-- /Breadcrumb -->
 
 # Article L123-2
 

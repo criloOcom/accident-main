@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 05_🗂️_Organisation (Versions Réelles)](./README.md) › 20 📦 Bon envoi physique
-<!-- /Breadcrumb -->
-
 ---
 title: "Bon d'Envoi Physique — Lot Juillet 2026 - Version réelle"
 description: "| # | Document | Fichier reel/ | Exemplaires |"
@@ -17,6 +13,11 @@ statut: preparation
 auteur: La Victime
 reel_path: ../../👤_Reel/05_🗂️_Organisation/20 📦 Bon envoi physique.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 05_🗂️_Organisation (Versions Réelles)](./README.md) › 20 📦 Bon envoi physique
+<!-- /Breadcrumb -->
 
 # BON D'ENVOI PHYSIQUE — IMPRESSION + ENVOI
 ## DOCUMENTS À IMPRIMER (2 EXEMPLAIRES CHACUN)

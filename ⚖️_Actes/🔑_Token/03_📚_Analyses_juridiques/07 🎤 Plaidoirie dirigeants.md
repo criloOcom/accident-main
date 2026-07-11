@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 07 🎤 Plaidoirie dirigeants
-<!-- /Breadcrumb -->
-
 ---
 title: "Mémorandum Juridique — Responsabilité des Dirigeants"
 description: "Rédigé le **[J+32 Assignation référé]"
@@ -18,6 +14,11 @@ reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/07 🎤 Plaidoirie dirige
 source: drive
 drive_id: 1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 07 🎤 Plaidoirie dirigeants
+<!-- /Breadcrumb -->
 
 # **MÉMORANDUM JURIDIQUE : RESPONSABILITÉ DES DIRIGEANTS ET RÉPARATION DES PRÉJUDICES**
 Rédigé le **[J+32 Assignation référé]**

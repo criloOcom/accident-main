@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_commerce](./README.md) › Article L227-8 Codecommerce Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article L227-8"
 description: "Code de commerce"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Code Commerce
 article: L227
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_commerce](./README.md) › Article L227-8 Codecommerce Legifrance
+<!-- /Breadcrumb -->
 
 # Article L227-8
 

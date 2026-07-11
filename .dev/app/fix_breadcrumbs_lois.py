@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Script pour corriger les fils d'Ariane dans les fichiers Article*.md
-Conforme au protocole : fil d'Ariane en ligne 1, puis YAML, puis contenu
+Conforme au protocole : YAML en ligne 1, puis fil d'Ariane, puis contenu
 """
 
 from pathlib import Path

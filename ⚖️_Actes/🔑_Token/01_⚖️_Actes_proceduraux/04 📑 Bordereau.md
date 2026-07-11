@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 04 📑 Bordereau
-<!-- /Breadcrumb -->
-
 ---
 title: "Bordereau de pièces (unifié)"
 description: "| Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : **[La Victime]** | Défendeur : **[L'Exploitant du Commerce (La SAS)]** |"
@@ -17,6 +13,11 @@ auteur: La Victime
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/04 📑 Bordereau.md
 source: drive
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 04 📑 Bordereau
+<!-- /Breadcrumb -->
 
 # BORDEREAU DE PIÈCES
 | Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : **[La Victime]** | Défendeur : **[L'Exploitant du Commerce (La SAS)]** |

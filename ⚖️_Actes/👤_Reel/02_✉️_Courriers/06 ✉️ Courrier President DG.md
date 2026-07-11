@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 06 ✉️ Courrier President DG
-<!-- /Breadcrumb -->
-
 ---
 title: "Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC - Version réelle"
 description: "10 Avenue de Purpan, 31700 Blagnac <br>"
@@ -20,6 +16,11 @@ reel_path: ../../👤_Reel/02_✉️_Courriers/06 ✉️ Courrier President DG.m
 source: drive
 drive_id: 1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 06 ✉️ Courrier President DG
+<!-- /Breadcrumb -->
 
 # MISE EN DEMEURE AUX DIRIGEANTS — DEMANDE D'INFORMATION ASSURANCE RC
 10 Avenue de Purpan, 31700 Blagnac <br>

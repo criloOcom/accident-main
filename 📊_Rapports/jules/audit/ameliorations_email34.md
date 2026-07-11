@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › jules › [📁 audit](./README.md) › ameliorations email34
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport d'Audit et Améliorations - Email 34 (Mairie de Foix)"
 description: "Le message initial est courtois et retrace bien la chronologie. Cependant, s'agissant d'une correspondance avec un élu (Adjoint au Maire) visant à mobiliser les pouvoirs de police municipale, le ton doit être plus formel et juridiquement étayé. Il co"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › [📁 audit](./README.md) › ameliorations email34
+<!-- /Breadcrumb -->
 
 # Rapport d'Audit et Améliorations - Email 34 (Mairie de Foix)
 

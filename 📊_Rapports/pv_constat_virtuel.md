@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › pv constat virtuel
-<!-- /Breadcrumb -->
-
 ---
 title: "Procès-Verbal de Constat Virtuel (Cahier des charges)"
 description: "Ce document décrit, en amont de la réalisation physique du constat, le déroulé précis et exhaustif des opérations de constatations matérielles requises au sein du salon de coiffure **[L'Exploitant du Commerce (La SAS)]** sis **[L'Adresse de l'Exploit"
@@ -15,6 +11,11 @@ statut: final
 destinataire: La Victime
 auteur: Huissier de Justice
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › pv constat virtuel
+<!-- /Breadcrumb -->
 
 # PROCÈS-VERBAL DE CONSTAT VIRTUEL — CAHIER DES CHARGES DES OPÉRATIONS À MENER
 

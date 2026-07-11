@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 08 ✉️ Courrier Suivi Adjoint Maire
-<!-- /Breadcrumb -->
-
 ---
 title: "Suivi Courrier Adjoint au Maire — Demande d'Information Inspection du Travail et CODAF"
 description: "[L'Adresse de la Victime]"
@@ -19,6 +15,11 @@ reel_path: ../../👤_Reel/02_✉️_Courriers/08 ✉️ Courrier Suivi Adjoint 
 source: drive
 drive_id: 1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 08 ✉️ Courrier Suivi Adjoint Maire
+<!-- /Breadcrumb -->
 
 # SUIVI — DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF
 **[L'Adresse de la Victime]**

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT PLAN ACTION
-<!-- /Breadcrumb -->
-
 ---
 title: "RAPPORT D'AUDIT — PLAN D'ACTION ET ORDONNANCEMENT"
 description: "Date :** 10 juillet 2026"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT PLAN ACTION
+<!-- /Breadcrumb -->
 
 # RAPPORT D'AUDIT — PLAN D'ACTION ET ORDONNANCEMENT
 

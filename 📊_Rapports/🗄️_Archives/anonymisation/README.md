@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › anonymisation
-<!-- /Breadcrumb -->
-
 ---
 title: "📁 anonymisation"
 description: "README du dossier anonymisation"
 type: directory
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › anonymisation
+<!-- /Breadcrumb -->
 
 # 📁 anonymisation
 

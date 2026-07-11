@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_civil](./README.md) › Article1240 CodeCivil
-<!-- /Breadcrumb -->
-
 ---
 title: "Code civil — Art. 1240"
 description: "Code civil"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Code Civil
 article: Inconnu
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_civil](./README.md) › Article1240 CodeCivil
+<!-- /Breadcrumb -->
 
 # Code civil — Art. 1240
 

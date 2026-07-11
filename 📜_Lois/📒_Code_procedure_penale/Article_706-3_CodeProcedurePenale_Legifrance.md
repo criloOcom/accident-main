@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_procedure_penale](./README.md) › Article 706-3 CodeProcedurePenale Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article 706-3 du Code de procédure pénale"
 description: "Identifiant Légifrance :** LEGIARTI000006577625 (à vérifier)"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Code Procedure Penale
 article: 706
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_procedure_penale](./README.md) › Article 706-3 CodeProcedurePenale Legifrance
+<!-- /Breadcrumb -->
 
 # Article 706-3 du Code de procédure pénale
 

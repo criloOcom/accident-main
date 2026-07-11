@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 01_⚖️_Actes_proceduraux (Versions Réelles)](./README.md) › 17 ⚖️ Requete Mandataire Ad Hoc
-<!-- /Breadcrumb -->
-
 ---
 title: "REQUÊTE AUX FINS DE DÉSIGNATION D'UN MANDATAIRE AD HOC ET MESURES CONSERVATOIRES"
 description: "POUR :"
@@ -9,6 +5,11 @@ type: assignation
 statut: brouillon
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/17 ⚖️ Requete Mandataire Ad Hoc.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 01_⚖️_Actes_proceduraux (Versions Réelles)](./README.md) › 17 ⚖️ Requete Mandataire Ad Hoc
+<!-- /Breadcrumb -->
 
 # REQUÊTE AUX FINS DE DÉSIGNATION D'UN MANDATAIRE AD HOC ET MESURES CONSERVATOIRES
 ## (Articles L.611-3 et L.227-8 du Code de commerce, Article 873 alinéa 2 du Code de procédure civile)

@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 05_🗂️_Organisation (Versions Réelles)](./README.md) › Fiche Reflexe 48h Disparition SAS
-<!-- /Breadcrumb -->
-
 ---
 title: "Fiche Réflexe 48h - Disparition SAS - Version réelle"
 description: "La disparition soudaine de SAS LES MAUVAIS GARCONS et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de Sébastien GRAZIDE et geler la situation factuelle et juridique avant toute te"
@@ -17,6 +13,11 @@ statut: brouillon
 auteur: Nom de l'Avocat de la Victime
 reel_path: ../../👤_Reel/05_🗂️_Organisation/Fiche Reflexe 48h Disparition SAS.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 05_🗂️_Organisation (Versions Réelles)](./README.md) › Fiche Reflexe 48h Disparition SAS
+<!-- /Breadcrumb -->
 
 # FICHE RÉFLEXE 48H : DISPARITION DE LA SAS
 

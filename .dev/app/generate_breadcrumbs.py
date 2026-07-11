@@ -108,16 +108,15 @@ def build_breadcrumb(rel_md_path):
 
 
 def strip_existing_breadcrumb(content):
-    lines = content.split("\n")
-    if lines and lines[0].strip() == "<!-- Breadcrumb -->":
-        if len(lines) >= 3 and lines[2].strip() == "<!-- /Breadcrumb -->":
-            rest = lines[3:]
-        else:
-            rest = lines[1:]
-        while rest and rest[0].strip() == "":
-            rest.pop(0)
-        return "\n".join(rest)
-    return content
+    """Retire le bloc fil d'Ariane (peu importe sa position)."""
+    m = re.search(r'<!-- Breadcrumb -->.*?<!-- /Breadcrumb -->', content, re.DOTALL)
+    if not m:
+        m = re.search(r'<!--\s*\[🏠\].*?-->', content, re.DOTALL)
+    if not m:
+        return content
+    rest = (content[:m.start()] + content[m.end():]).strip("\n")
+    # retire aussi le double saut de ligne residuel
+    return rest
 
 
 def apply_to_file(rel_md_path, dry_run):
@@ -127,8 +126,18 @@ def apply_to_file(rel_md_path, dry_run):
     except Exception as e:
         return ("skip", f"lecture impossible: {e}")
     new_bc = build_breadcrumb(rel_md_path)
+    # Retire l'ancien breadcrumb (peu importe position)
     body = strip_existing_breadcrumb(content)
-    new_content = new_bc + "\n\n" + body.lstrip("\n")
+    # Le corps commence par le YAML (ligne 1). On insère le breadcrumb APRES le YAML.
+    # Délimite le bloc YAML ---
+    m_yaml = re.match(r'^---\s*\n.*?\n---\s*\n?', body, re.DOTALL)
+    if m_yaml:
+        yaml_block = m_yaml.group(0)
+        after = body[m_yaml.end():]
+        new_content = yaml_block + "\n" + new_bc + "\n\n" + after.lstrip("\n")
+    else:
+        # Pas de YAML : on met le breadcrumb en 2e (YAML manquant, rare)
+        new_content = new_bc + "\n\n" + body.lstrip("\n")
     if new_content == content:
         return ("unchanged", None)
     if not dry_run:

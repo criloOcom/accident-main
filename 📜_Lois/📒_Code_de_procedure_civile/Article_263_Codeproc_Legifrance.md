@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code de Procédure Civile](./README.md) › Article 263 Codeproc Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article 263 — Code de procédure civile"
 description: "Code de procédure civile"
@@ -10,6 +6,11 @@ legiarti: LEGIARTI000006410394
 code: Code de procédure civile
 article: 263
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code de Procédure Civile](./README.md) › Article 263 Codeproc Legifrance
+<!-- /Breadcrumb -->
 
 # Articles 263 et suivants
 

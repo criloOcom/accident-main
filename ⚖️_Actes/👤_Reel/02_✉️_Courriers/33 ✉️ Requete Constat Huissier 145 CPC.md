@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 33 ✉️ Requete Constat Huissier 145 CPC
-<!-- /Breadcrumb -->
-
 ---
 title: "Requête au Président du TJ aux Fins de Constat d'Huissier (Art. 145 CPC) - Version réelle"
 description: "AUX FINS DE DESIGNATION D'HUISSIER DE JUSTICE POUR CONSTAT"
@@ -20,6 +16,11 @@ auteur: La Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/33 ✉️ Requete Constat Huissier 145 CPC.md
 source: local
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 02_✉️_Courriers (Versions Réelles)](./README.md) › 33 ✉️ Requete Constat Huissier 145 CPC
+<!-- /Breadcrumb -->
 
 # REQUETE AU PRESIDENT DU TRIBUNAL JUDICIAIRE DE Foix
 

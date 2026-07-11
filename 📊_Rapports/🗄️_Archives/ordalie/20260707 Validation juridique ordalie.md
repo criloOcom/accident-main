@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 ordalie](./README.md) › 20260707 Validation juridique ordalie
-<!-- /Breadcrumb -->
-
 ---
 title: "Validation juridique ordalie — 7 juillet 2026"
 description: "| Citation | Vérification | Appréciation |"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 ordalie](./README.md) › 20260707 Validation juridique ordalie
+<!-- /Breadcrumb -->
 
 # Validation juridique ordalie — 7 juillet 2026
 

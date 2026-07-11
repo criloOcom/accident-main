@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article R143-2 Codeconstructionhabitation Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Articles R. 143-2 et suivants CCH"
 description: "Code de la construction et de l'habitation"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Autres Codes
 article: R143
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article R143-2 Codeconstructionhabitation Legifrance
+<!-- /Breadcrumb -->
 
 # Articles R. 143-2 et suivants CCH
 

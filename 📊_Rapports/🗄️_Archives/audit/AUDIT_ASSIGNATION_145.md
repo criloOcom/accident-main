@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › AUDIT ASSIGNATION 145
-<!-- /Breadcrumb -->
-
 ---
 title: "Rapport d'Audit Assignation Article 145 CPC"
 description: "L'assignation en référé sur le fondement de l'article 145 du Code de procédure civile (`⚖️_Actes/01_⚖️_Actes_proceduraux/03_Assignation Article 145.md`) a été auditée selon les 6 critères définis."
@@ -9,6 +5,11 @@ type: rapport
 date: 2026-07-05
 auteur: Jules
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › AUDIT ASSIGNATION 145
+<!-- /Breadcrumb -->
 
 # REVUE COMPLÈTE ASSIGNATION ARTICLE 145 CPC
 

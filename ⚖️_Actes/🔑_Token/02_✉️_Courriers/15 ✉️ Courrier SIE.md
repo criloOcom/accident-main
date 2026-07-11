@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 15 ✉️ Courrier SIE
-<!-- /Breadcrumb -->
-
 ---
 title: "Information de Litige au Service des Impots des Entreprises"
 description: "[L'Adresse de la Victime]"
@@ -20,6 +16,11 @@ reel_path: ../../👤_Reel/02_✉️_Courriers/15 ✉️ Courrier SIE.md
 source: drive
 drive_id: 1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 15 ✉️ Courrier SIE
+<!-- /Breadcrumb -->
 
 # INFORMATION DE LITIGE AU SERVICE DES IMPOTS DES ENTREPRISES
 **[L'Adresse de la Victime]**

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT REDACTION
-<!-- /Breadcrumb -->
-
 ---
 title: "RAPPORT D'AUDIT RÉDACTIONNEL"
 description: "Date :** 12 juillet 2026"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT REDACTION
+<!-- /Breadcrumb -->
 
 # RAPPORT D'AUDIT RÉDACTIONNEL
 

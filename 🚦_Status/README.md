@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../README.md) › 🚦 Status
-<!-- /Breadcrumb -->
-
 ---
 title: "🚦 Status — Index des documents par statut"
 description: "Ce dossier regroupe tous les documents du dossier **Accident Main** classés par statut de délivrance."
 type: readme
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../README.md) › 🚦 Status
+<!-- /Breadcrumb -->
 
 # 🚦 Status — Index des documents par statut
 

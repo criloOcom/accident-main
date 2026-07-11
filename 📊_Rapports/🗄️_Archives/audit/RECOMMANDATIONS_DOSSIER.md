@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › RECOMMANDATIONS DOSSIER
-<!-- /Breadcrumb -->
-
 ---
 title: "RECOMMANDATIONS ET ÉLÉMENTS MANQUANTS DU DOSSIER"
 description: "Suite à l'analyse approfondie du dossier `accident-main` et à des recherches juridiques complémentaires, voici la synthèse des éléments manquants et des recommandations stratégiques."
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › RECOMMANDATIONS DOSSIER
+<!-- /Breadcrumb -->
 
 # RECOMMANDATIONS ET ÉLÉMENTS MANQUANTS DU DOSSIER
 

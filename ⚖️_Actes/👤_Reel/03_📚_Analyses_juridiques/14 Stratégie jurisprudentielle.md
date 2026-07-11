@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 03_📚_Analyses_juridiques (Versions Réelles)](./README.md) › 14 Stratégie jurisprudentielle
-<!-- /Breadcrumb -->
-
 ---
 title: "Stratégie jurisprudentielle — Basculement vasque salon de coiffure - Version réelle"
 description: "| Élément à prouver | Notre preuve | Arrêt de référence |"
@@ -16,6 +12,11 @@ auteur: La Victime
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/14 Stratégie jurisprudentielle.md
 source: local
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 03_📚_Analyses_juridiques (Versions Réelles)](./README.md) › 14 Stratégie jurisprudentielle
+<!-- /Breadcrumb -->
 
 # STRATÉGIE JURISPRUDENTIELLE — BASCULEMENT VASQUE SALON DE COIFFURE
 

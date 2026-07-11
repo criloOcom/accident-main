@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › 00 Preuves officielles › [📁 20260629 LR Demande ASSURANCE](./README.md) › 20260629 ✉️ LR MiseEnDemeure SAS President MrSABIR
-<!-- /Breadcrumb -->
-
 ---
 title: "Lettre Recommandée — Mise en Demeure SAS Président Monsieur MOUNTASSER"
 description: "Document de type document"
@@ -17,6 +13,11 @@ destinataire: Monsieur MOUNTASSER (Président SAS)
 source: drive
 drive_id: 117sFmGu7yFbYzd0VrKYNSCK_tDYHugrL
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260629 LR Demande ASSURANCE](./README.md) › 20260629 ✉️ LR MiseEnDemeure SAS President MrSABIR
+<!-- /Breadcrumb -->
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**
 > Ce fichier est une copie textuelle exacte de la pièce originale (PDF).

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](./README.md) › AGENTS
-<!-- /Breadcrumb -->
-
 ---
 title: "AGENTS — Documentation Partagée"
 description: "Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, etc.) travaillant sur le dossier Accident de la Main."
 type: document
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](./README.md) › AGENTS
+<!-- /Breadcrumb -->
 
 # AGENTS — Documentation Partagée
 
@@ -92,7 +93,7 @@ Le projet dispose d'un notebook **Google NotebookLM** dédié (`accident-main`) 
 11. **VÉRIFICATION JURITEXT OBLIGATOIRE** : Lire [🧠_Memory/JURITEXT_PROTOCOL.md](🧠_Memory/JURITEXT_PROTOCOL.md) avant toute insertion/modification de JURITEXT. Vérification en 2 étapes (Légifrance-prod PUIS OpenLegi) SANS EXCEPTION. Ne JAMAIS deviner un JURITEXT — si introuvable, marquer "À VÉRIFIER" et signaler. Ne JAMAIS se fier à une coche "✓" dans un fichier. Propagation : si une JURITEXT est fausse, chercher et corriger TOUTES les occurrences.
 12. **CLÔTURE DES SESSIONS JULES** : Toute session Jules (qu'elle soit terminée, bloquée, ou en échec) DOIT recevoir un message de clôture explicite avant d'être abandonnée. L'API REST Jules n'a pas de delete/archive — le message de clôture est le seul mécanisme pour libérer l'agent. Google archive automatiquement les sessions clôturées. Voir `🧠_Memory/RULES.md #12` et [🧠_Memory/DECISIONS.md](🧠_Memory/DECISIONS.md).
 13. **PROPRETÉ DU PROJET** :
-    - **Fils d'Ariane** : commentaire HTML `` ligne 1. Script `.dev/app/generate_breadcrumbs.py`. Pas de "Accueil", pas de doublons.
+    - **Fils d'Ariane** : commentaire HTML placé APRÈS le bloc YAML (ligne 1 = `---`). Le YAML doit rester en première ligne pour la prévisualisation GitHub. Script `.dev/app/generate_breadcrumbs.py`. Pas de "Accueil", pas de doublons.
     - **Scripts** : tout `.py` dans `.dev/app/`, jamais à la racine.
     - **Rapports** : tout `.md` de rapport dans [📊_Rapports](📊_Rapports/README.md), jamais à la racine.
     - **Caches** : supprimer `__pycache__` et `.pytest_cache` après exécution de scripts.

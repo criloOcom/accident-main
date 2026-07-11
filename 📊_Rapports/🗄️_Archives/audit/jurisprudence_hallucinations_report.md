@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › jurisprudence hallucinations report
-<!-- /Breadcrumb -->
-
 ---
 title: "jurisprudence_hallucinations_report"
 description: "Document de type rapport"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › jurisprudence hallucinations report
+<!-- /Breadcrumb -->
 
 RAPPORT D'AUDIT JURISPRUDENTIEL : DÉTECTION D'HALLUCINATIONS
 ============================================================

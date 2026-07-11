@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › SYNCHRO TOKENS
-<!-- /Breadcrumb -->
-
 ---
 title: "SYNCHRONISATION TOKEN MAP ↔ BATCH_ANONYMIZE.PY"
 description: "Une analyse programmatique a été effectuée pour comparer les tokens utilisés dans `app/batch_anonymize.py` avec ceux documentés dans [🧠_Memory/TOKEN MAP.md](🧠_Memory/TOKEN MAP.md)."
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › SYNCHRO TOKENS
+<!-- /Breadcrumb -->
 
 # SYNCHRONISATION TOKEN MAP ↔ BATCH_ANONYMIZE.PY
 

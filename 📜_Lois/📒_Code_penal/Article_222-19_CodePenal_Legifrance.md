@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_penal](./README.md) › Article 222-19 CodePenal Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Code pénal — Art. 222-19"
 description: "Code pénal"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Code Penal
 article: 222
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Code_penal](./README.md) › Article 222-19 CodePenal Legifrance
+<!-- /Breadcrumb -->
 
 # Code pénal — Art. 222-19
 

@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 01_⚖️_Actes_proceduraux (Versions Réelles)](./README.md) › 04 📑 Bordereau de pieces
-<!-- /Breadcrumb -->
-
 ---
 title: "Bordereau de pièces - Version réelle"
 description: "| Procédure : Référé Article 145 CPC | Demandeur : Sébastien GRAZIDE | Défendeur : SAS LES MAUVAIS GARCONS |"
@@ -17,6 +13,11 @@ destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
 source: drive
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 01_⚖️_Actes_proceduraux (Versions Réelles)](./README.md) › 04 📑 Bordereau de pieces
+<!-- /Breadcrumb -->
 
 # BORDEREAU DE PIÈCES
 

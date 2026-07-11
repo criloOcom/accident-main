@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › jules › jurisprudence
-<!-- /Breadcrumb -->
-
 ---
 title: "📁 jurisprudence"
 description: "README du dossier jurisprudence"
 type: directory
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › jurisprudence
+<!-- /Breadcrumb -->
 
 # 📁 jurisprudence
 

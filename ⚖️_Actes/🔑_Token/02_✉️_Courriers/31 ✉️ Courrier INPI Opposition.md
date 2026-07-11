@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 31 ✉️ Courrier INPI Opposition
-<!-- /Breadcrumb -->
-
 ---
 title: "Opposition à immatriculation INPI"
 description: "[Nom de l'Avocat de la Victime]"
@@ -18,6 +14,11 @@ destinataire: INPI
 auteur: Nom de l'Avocat de la Victime
 reel_path: ../../👤_Reel/02_✉️_Courriers/31 ✉️ Courrier INPI Opposition.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 31 ✉️ Courrier INPI Opposition
+<!-- /Breadcrumb -->
 
 # OPPOSITION À IMMATRICULATION AU REGISTRE NATIONAL DES ENTREPRISES
 **[Nom de l'Avocat de la Victime]**

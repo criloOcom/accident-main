@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › 06 📋 Synthese des Actions et Audits
-<!-- /Breadcrumb -->
-
 ---
 title: "Note de Synthèse — Avancement des Audits & Recommandations"
 description: "Cette note récapitule l'analyse systématique de tous les rapports d'audit dans [📊_Rapports](📊_Rapports/README.md) et catégorise l'état d'avancement des tâches en suspens."
@@ -9,6 +5,11 @@ type: readme
 statut: brouillon
 reel_path: ../../👤_Reel/05_🗂️_Organisation/06 📋 Synthese des Actions et Audits.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › 06 📋 Synthese des Actions et Audits
+<!-- /Breadcrumb -->
 
 # Note de Synthèse — Avancement des Audits & Recommandations
 

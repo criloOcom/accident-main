@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 99 🛡️ Memoire en defense adverse
-<!-- /Breadcrumb -->
-
 ---
 title: "Mémoire en défense adverse — SAS Les Mauvais Garçons"
 description: "Pour :** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** (Partie Défenderesse)"
@@ -17,6 +13,11 @@ destinataire: La Victime
 auteur: Avocat de la défense
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/99 🛡️ Memoire en defense adverse.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 99 🛡️ Memoire en defense adverse
+<!-- /Breadcrumb -->
 
 # MÉMOIRE EN DÉFENSE ADVERSE
 **Pour :** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** (Partie Défenderesse)

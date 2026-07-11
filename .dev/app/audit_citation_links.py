@@ -20,8 +20,10 @@ LINK_RE = re.compile(r'\]\(([^)]+)\)')
 def resolve_target(cand, base_dir):
     """Renvoie True si la cible existe (depuis base_dir pour les chemins relatifs)."""
     cand = cand.rstrip('/')
-    # chemin relatif (commence par ./ ou ../ ou ne contient pas de dossier racine connu)
-    if cand.startswith(('.', '../', './')) or '/' not in cand.split('/')[0]:
+    # chemin relatif si premier segment n'est pas un dossier racine connu du depot
+    first = cand.split('/')[0]
+    ROOT_KEYS = ('⚖️_Actes', '📜_Lois', '🧠_Memory', '📊_Rapports', '📎_Annexes', '.dev')
+    if cand.startswith(('.', '../', './')) or first not in ROOT_KEYS:
         target = os.path.normpath(os.path.join(base_dir, cand))
     else:
         target = os.path.join(ROOT, cand)

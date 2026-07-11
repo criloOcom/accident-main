@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [💰 Études d](./README.md) › 11 💰 Etude indemnisation
-<!-- /Breadcrumb -->
-
 ---
 title: "Étude d'Indemnisation Maximale (Nomenclature Dintilhac)"
 description: "[L'Adresse de la Victime]** <br>"
@@ -18,6 +14,11 @@ reel_path: ../../👤_Reel/04_💰_Etudes_indemnisation/11 💰 Etude indemnisat
 source: drive
 drive_id: 1PiBFn1oA1DtkT61N-zvdPmsCYsmR0au9V4BA9IZzrH4
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [💰 Études d](./README.md) › 11 💰 Etude indemnisation
+<!-- /Breadcrumb -->
 
 # ÉTUDE D'INDEMNISATION MAXIMALE (NOMENCLATURE DINTILHAC)
 

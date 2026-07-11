@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 03_📚_Analyses_juridiques (Versions Réelles)](./README.md) › Note Mesures Conservatoires
-<!-- /Breadcrumb -->
-
 ---
 title: "Note Mesures Conservatoires - Version réelle"
 description: "Dans le cadre du dossier concernant Sébastien GRAZIDE à l'encontre de SAS LES MAUVAIS GARCONS et de ses représentants, il convient d'envisager la mise en œuvre de mesures conservatoires urgentes. Cette nécessité est motivée par le risque de dissipati"
@@ -16,6 +12,11 @@ destinataire: La Victime
 auteur: L'Avocat de la Victime
 reel_path: ../../👤_Reel/03_📚_Analyses_juridiques/Note Mesures Conservatoires.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📁 Actes / reel — Version Réelle](../README.md) › [Index — 03_📚_Analyses_juridiques (Versions Réelles)](./README.md) › Note Mesures Conservatoires
+<!-- /Breadcrumb -->
 
 # NOTE JURIDIQUE : MESURES CONSERVATOIRES AVANT DISPARITION
 

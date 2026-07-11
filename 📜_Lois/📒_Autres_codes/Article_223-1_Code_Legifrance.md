@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article 223-1 Code Legifrance
-<!-- /Breadcrumb -->
-
 ---
 title: "Article 223-1"
 description: "Code pénal — Mise en danger d'autrui"
@@ -11,6 +7,11 @@ source: Légifrance
 code: Autres Codes
 article: 223-1
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒_Autres_codes](./README.md) › Article 223-1 Code Legifrance
+<!-- /Breadcrumb -->
 
 # Article 223-1
 

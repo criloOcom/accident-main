@@ -1,7 +1,3 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 06 📸 Requete Constat Huissier
-<!-- /Breadcrumb -->
-
 ---
 title: "Requête aux fins de constat d'huissier"
 description: "À l'attention de :** Tel huissier de justice territorialement compétent"
@@ -20,6 +16,11 @@ destinataire: Tel huissier de justice territorialement compétent
 auteur: La Victime
 reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/06 📸 Requete Constat Huissier.md
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 06 📸 Requete Constat Huissier
+<!-- /Breadcrumb -->
 
 # REQUÊTE AUX FINS DE CONSTAT D'HUISSIER (ARTICLES 145 ET 873 CPC)
 **À l'attention de :** Tel huissier de justice territorialement compétent

@@ -1,12 +1,13 @@
-<!-- Breadcrumb -->
-[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › GEMINI
-<!-- /Breadcrumb -->
-
 ---
 title: "Coding Agent Guide"
 description: "Install the CLI (one-time):"
 type: rapport
 ---
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️_Archives](../README.md) › [📁 audit](./README.md) › GEMINI
+<!-- /Breadcrumb -->
 
 # Coding Agent Guide
 
