@@ -1,7 +1,13 @@
 ---
 title: "Article 434-15-1 du Code pénal"
-description: "Dernière mise à jour :** 10 juillet 2026"
+description: "Code pénal — Subornation de témoin"
 type: loi
+legiarti: "LEGIARTI000038876031"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038876031"
+date: "2026-07-11"
+source: "Légifrance/LEGIARTI000038876031"
+code: "Code pénal"
+article: "434-15-1"
 ---
 
 

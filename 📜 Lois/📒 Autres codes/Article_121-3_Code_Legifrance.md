@@ -1,11 +1,13 @@
 ---
 title: "Article 121-3"
-description: "Code pénal"
+description: "Code pénal — Faute caractérisée, distinction des degrés de faute"
 type: loi
-date: 2026-07-10
-source: Légifrance
-code: Autres Codes
-article: 121
+legiarti: "LEGIARTI000006417208"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208"
+date: "2026-07-10"
+source: "Légifrance/LEGIARTI000006417208"
+code: "Code pénal"
+article: "121-3"
 ---
 
 

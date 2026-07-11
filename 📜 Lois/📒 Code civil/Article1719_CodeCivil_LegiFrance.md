@@ -1,11 +1,13 @@
 ---
 title: "Code civil — Art. 1719"
-description: "Code civil"
+description: "Code civil — Obligations du bailleur"
 type: loi
-date: 2026-07-10
-source: Légifrance
-code: Code Civil
-article: Inconnu
+legiarti: "LEGIARTI000020459127"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127"
+date: "2026-07-10"
+source: "Légifrance/LEGIARTI000020459127"
+code: "Code civil"
+article: "1719"
 ---
 
 

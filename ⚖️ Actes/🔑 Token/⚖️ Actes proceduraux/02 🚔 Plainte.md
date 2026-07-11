@@ -62,16 +62,7 @@ En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en 
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
-<hr>
-
-- [I. EXPOSÉ DES FAITS](#i-expos-des-faits)
-- [II. DISCUSSION JURIDIQUE](#ii-discussion-juridique)
-  - [A. SUR L'ABSENCE D'ASSURANCE DE RESPONSABILITÉ CIVILE](#a-sur-labsence-dassurance-de-responsabilit-civile)
-  - [B. SUR L'ENTRAVE À L'EXERCICE DE L'ACTION DIRECTE](#b-sur-lentrave-lexercice-de-laction-directe)
-- [III. CONSÉQUENCES ET PRÉJUDICES](#iii-consquences-et-prjudices)
-- [IV. DEMANDES](#iv-demandes)
-
-<hr>
+<hr><hr>
 
 ## I. EXPOSÉ DES FAITS
 Le **[J+0 Accident]**, alors qu'il se trouvait dans le salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]** en qualité de client, **[La Victime]** a été victime d'un accident corporel grave au sein de l'établissement, sise **[L'Adresse de l'Exploitation]**. 
@@ -80,7 +71,9 @@ Alors que **[Le Préposé de l'Exploitation]** était monté sur la vasque en c�
 
 Ces faits, constitutifs de blessures involontaires au sens de l'[Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643), ont fait l'objet d'une plainte initiale enregistrée sous le numéro [ ... ].
 
-Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce (La SAS)]**. Ni le Président de la SAS, **[Le Président de l'Exploitation]**, ni la co-dirigeante, **[La Directrice Générale de l'Exploitation]**, n'ont déféré aux demandes amiables de **[La Victime]**, ni à celles adressées au propriétaire des murs, **[Le Propriétaire des Murs]**. 
+Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce (La SAS)]**.
+
+Ni le Président de la SAS, **[Le Président de l'Exploitation]**, ni la co-dirigeante, **[La Directrice Générale de l'Exploitation]**, n'ont déféré aux demandes amiables de **[La Victime]**, ni à celles adressées au propriétaire des murs, **[Le Propriétaire des Murs]**. 
 
 Ce silence persistant, malgré l'envoi de courriers recommandés le **[J+31 Mises en demeure]**, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
 
@@ -88,7 +81,9 @@ Ce silence persistant, malgré l'envoi de courriers recommandés le **[J+31 Mise
 
 ## II. DISCUSSION JURIDIQUE
 ### A. SUR L'ABSENCE D'ASSURANCE DE RESPONSABILITÉ CIVILE
-Malgré les demandes amiables de **[La Victime]**, **[L'Exploitant du Commerce (La SAS)]** n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle. Cette absence de réponse laisse présumer soit une absence de couverture assurantielle, soit une volonté de dissimulation.
+Malgré les demandes amiables de **[La Victime]**, **[L'Exploitant du Commerce (La SAS)]** n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle.
+
+Cette absence de réponse laisse présumer soit une absence de couverture assurantielle, soit une volonté de dissimulation.
 
 En l'absence d'assurance, l'indemnisation de la victime au titre de l'action directe prévue à l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) est gravement compromise. Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734), sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625), pourrait alors être saisi pour assurer l'indemnisation de **[La Victime]**.
 

@@ -1,11 +1,13 @@
 ---
 title: "Code civil — Art. 1720"
-description: "Code civil"
+description: "Code civil — Obligation d'entretien du bailleur"
 type: loi
-date: 2026-07-10
-source: Légifrance
-code: Code Civil
-article: Inconnu
+legiarti: "LEGIARTI000006442784"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784"
+date: "2026-07-10"
+source: "Légifrance/LEGIARTI000006442784"
+code: "Code civil"
+article: "1720"
 ---
 
 

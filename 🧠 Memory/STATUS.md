@@ -14,6 +14,7 @@ type: memory
 
 # STATUT D'AVANCEMENT — 10 juillet 2026
 
+> **Nouveau :** Enrichissement YAML 📜 Lois terminé (69 fichiers) — Voir [AGENTS.md](../AGENTS.md)
 > **Nouveau :** Documentation MCP mise à jour - Voir [📜 Lois/EXEMPLES_REQUETES_MCP.md](📜%20Lois/EXEMPLES_REQUETES_MCP.md)
 >
 ## Phase 18 — Audit des risques — Matrice complète + Plan d'atténuation (10 juillet 2026) ✅

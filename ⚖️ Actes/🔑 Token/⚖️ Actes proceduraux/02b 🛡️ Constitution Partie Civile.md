@@ -17,10 +17,6 @@ source: drive
 drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
 ---
 
-
-
-
-
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 02b 🛡️ Constitution Partie Civile
 <!-- /Breadcrumb -->
@@ -44,18 +40,7 @@ La presente constitution de partie civile est formee par **[La Victime]** dans l
 
 Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la reparation de l'integralite des prejudices corporels, materiels et moraux decoulant de l'accident survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]**.
 
-<hr>
-
-- [I — EXPOSE DES FAITS](#i--expose-des-faits)
-- [II — FONDEMENTS JURIDIQUES](#ii--fondements-juridiques)
-  - [A. SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES (ART. 222-19 CP)](#a-sur-la-qualification-penale--blessures-involontaires-art-222-19-cp)
-  - [B. SUR LA RESPONSABILITE CIVILE PERSONNELLE DES DIRIGEANTS (L.227-8 + L.225-251 C.COM.)](#b-sur-la-responsabilite-civile-personnelle-des-dirigeants-l227-8--l225-251-ccom)
-  - [C. SUR LE DEFAUT D'ASSURANCE DE RESPONSABILITE CIVILE (L.124-3 C.ASSUR.)](#c-sur-le-defaut-dassurance-de-responsabilite-civile-l124-3-cassur)
-- [III — PREJUDICES](#iii--prejudices)
-- [IV — DEMANDES](#iv--demandes)
-- [PAR CES MOTIFS](#par-ces-motifs)
-
-<hr>
+<hr><hr>
 
 ## I — EXPOSE DES FAITS
 Le **[J+0 Accident]**, alors que **[La Victime]** se trouvait en qualite de client au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]** sis **[L'Adresse de l'Exploitation]**, un grave accident corporel est survenu.
@@ -77,7 +62,7 @@ Malgre des mises en demeure recommandees adressees le **[J+31 Mises en demeure]*
 <hr>
 
 ## II — FONDEMENTS JURIDIQUES
-### A. SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES (ART. 222-19 CP)
+### A. SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES
 Les faits decrits ci-dessus sont constitutifs du delit de blessures involontaires prevu et reprime par les articles 222-19 et 222-20 du Code penal.
 
 > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. » <br>
@@ -106,7 +91,7 @@ La **violation manifestement deliberee** est caracterisee par :
   
 - L'absence de mise a disposition d'un escabeau, contraignant le prepose a escalader la vasque
 
-### B. SUR LA RESPONSABILITE CIVILE PERSONNELLE DES DIRIGEANTS (L.227-8 + L.225-251 C.COM.)
+### B. SUR LA RESPONSABILITE CIVILE PERSONNELLE DES DIRIGEANTS
 > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées**
@@ -152,7 +137,7 @@ Ces fautes, commises personnellement par le President et la Directrice Generale,
 
 Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'information precontractuelle et a une obligation de conformite du service fourni. La prestation realisee n'etait manifestement pas conforme aux exigences de securite legitimes d'un consommateur, ce qui constitue un fondement complementaire a l'action civile et renforce l'absence de contestation serieuse.
 
-### D. SUR LE DEFAUT D'ASSURANCE DE RESPONSABILITE CIVILE (L.124-3 C.ASSUR.)
+### D. SUR LE DEFAUT D'ASSURANCE DE RESPONSABILITE CIVILE
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité**

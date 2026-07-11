@@ -58,19 +58,6 @@ CONTRE :
 
 PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCIDENT]**
 
-<hr>
-
-- [I. EXPOSÉ DES FAITS](#i-expos-des-faits)
-- [II. DISCUSSION JURIDIQUE](#ii-discussion-juridique)
-  - [A. SUR LE PRINCIPE DE LA RESPONSABILITÉ CIVILE DÉLICTUELLE](#a-sur-le-principe-de-la-responsabilit-civile-dlictuelle)
-  - [B. SUR LE FONDEMENT DU DROIT DE LA CONSOMMATION](#b-sur-le-fondement-du-droit-de-la-consommation)
-  - [C. SUR LA DEMANDE D'EXPERTISE MÉDICALE](#c-sur-la-demande-dexpertise-mdicale)
-  - [D. SUR L'OCTROI D'UNE PROVISION FINANCIÈRE](#d-sur-loctroi-dune-provision-financire)
-  - [E. JUSTIFICATION DU MONTANT DE LA PROVISION](#e-justification-du-montant-de-la-provision)
-  - [F. SUR LA COMMUNICATION FORCÉE DE LA POLICE D'ASSURANCE](#f-sur-la-communication-force-de-la-police-dassurance)
-- [III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)](#iii-valuation-provisoire-des-prjudices-nomenclature-dintilhac)
-- [PAR CES MOTIFS](#par-ces-motifs)
-
 <hr><hr>
 
 ## I. EXPOSÉ DES FAITS

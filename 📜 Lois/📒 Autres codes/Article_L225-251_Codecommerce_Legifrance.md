@@ -1,11 +1,13 @@
 ---
 title: "Article L. 225-251"
-description: "Code de commerce"
+description: "Code de commerce — Responsabilité des dirigeants"
 type: loi
-date: 2026-07-10
-source: Légifrance
-code: Code Commerce
-article: L225
+legiarti: "LEGIARTI000006226329"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329"
+date: "2026-07-10"
+source: "Légifrance/LEGIARTI000006226329"
+code: "Code de commerce"
+article: "L225-251"
 ---
 
 

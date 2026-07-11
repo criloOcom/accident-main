@@ -1,11 +1,13 @@
 ---
 title: "Article 2226"
-description: "Code civil"
+description: "Code civil — Prescription décennale pour dommage corporel"
 type: loi
-date: 2026-07-10
-source: Légifrance
-code: Code Civil
-article: 2226
+legiarti: "LEGIARTI000019017259"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259"
+date: "2026-07-10"
+source: "Légifrance/LEGIARTI000019017259"
+code: "Code civil"
+article: "2226"
 ---
 
 

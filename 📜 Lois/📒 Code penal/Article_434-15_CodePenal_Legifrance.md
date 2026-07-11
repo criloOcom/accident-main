@@ -1,7 +1,13 @@
 ---
 title: "Article 434-15 du Code pénal"
-description: "Dernière mise à jour :** 10 juillet 2026"
+description: "Code pénal — Faux témoignage"
 type: loi
+legiarti: "LEGIARTI000006417900"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417900"
+date: "2026-07-11"
+source: "Légifrance/LEGIARTI000006417900"
+code: "Code pénal"
+article: "434-15"
 ---
 
 

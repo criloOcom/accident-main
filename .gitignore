@@ -11,3 +11,8 @@ node_modules/
 .drive-token.json
 .piste-credentials.json
 venv/
+
+# Répertoires locaux — pas de place dans le dépôt
+.github/workflows/
+.obsidian/
+.opencode/

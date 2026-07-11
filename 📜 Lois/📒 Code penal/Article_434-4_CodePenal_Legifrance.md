@@ -1,11 +1,13 @@
 ---
 title: "Article 434-4 du Code pénal"
-description: "Identifiant Légifrance :** LEGIARTI000006418608"
+description: "Code pénal — Destruction de preuves"
 type: loi
-date: 2026-07-10
-source: Légifrance
-code: Code Penal
-article: 434
+legiarti: "LEGIARTI000006418608"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608"
+date: "2026-07-10"
+source: "Légifrance/LEGIARTI000006418608"
+code: "Code pénal"
+article: "434-4"
 ---
 
 

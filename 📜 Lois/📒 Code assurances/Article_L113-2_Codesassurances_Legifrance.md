@@ -1,11 +1,13 @@
 ---
 title: "Article L113-2"
-description: "Code des assurances"
+description: "Code des assurances — Obligations de l'assuré"
 type: loi
-date: 2026-07-10
-source: Légifrance
-code: Autres Codes
-article: L113
+legiarti: "LEGIARTI000035731302"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302"
+date: "2026-07-10"
+source: "Légifrance/LEGIARTI000035731302"
+code: "Code des assurances"
+article: "L113-2"
 ---
 
 

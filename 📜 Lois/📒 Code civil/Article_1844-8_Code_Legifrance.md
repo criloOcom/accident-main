@@ -1,10 +1,13 @@
 ---
 title: "Article 1844-8 — Code civil"
-description: "Code civil"
+description: "Code civil — Survie de la personnalité morale pour la liquidation"
 type: loi
-legiarti: LEGIARTI000006444186
-code: Code civil
-article: 1844-8
+legiarti: "LEGIARTI000006444186"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186"
+date: "2026-07-11"
+source: "Légifrance/LEGIARTI000006444186"
+code: "Code civil"
+article: "1844-8"
 ---
 
 

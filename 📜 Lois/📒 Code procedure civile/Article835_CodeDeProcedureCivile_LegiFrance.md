@@ -1,11 +1,13 @@
 ---
 title: "Code civil — Art. 835"
-description: "Code de procédure civile"
+description: "Code de procédure civile — Référé-provision"
 type: loi
-date: 2026-07-10
-source: Légifrance
-code: Code Procedure Civile
-article: Inconnu
+legiarti: "LEGIARTI000042597284"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284"
+date: "2026-07-10"
+source: "Légifrance/LEGIARTI000042597284"
+code: "Code de procédure civile"
+article: "835"
 ---
 
 

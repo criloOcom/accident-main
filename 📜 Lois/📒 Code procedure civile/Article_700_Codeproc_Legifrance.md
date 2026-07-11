@@ -1,11 +1,13 @@
 ---
 title: "Article 700"
-description: "Code de procédure civile"
+description: "Code de procédure civile — Frais irrépétibles"
 type: loi
-date: 2026-07-10
-source: Légifrance
-code: Code Procedure Civile
-article: 700
+legiarti: "LEGIARTI000045268436"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436"
+date: "2026-07-10"
+source: "Légifrance/LEGIARTI000045268436"
+code: "Code de procédure civile"
+article: "700"
 ---
 
 

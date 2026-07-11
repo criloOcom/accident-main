@@ -1,11 +1,13 @@
 ---
 title: "Article L237-2"
-description: "Code de commerce"
+description: "Code de commerce — Survie de la personnalité morale pour la liquidation"
 type: loi
-date: 2026-07-10
-source: Légifrance
-code: Code Commerce
-article: L237
+legiarti: "LEGIARTI000006230063"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063"
+date: "2026-07-10"
+source: "Légifrance/LEGIARTI000006230063"
+code: "Code de commerce"
+article: "L237-2"
 ---
 
 

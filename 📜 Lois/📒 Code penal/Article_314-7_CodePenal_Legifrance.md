@@ -1,11 +1,13 @@
 ---
 title: "Article 314-7 du Code pénal"
-description: "Identifiant Légifrance :** LEGIARTI000006418226"
+description: "Code pénal — Organisation frauduleuse d'insolvabilité"
 type: loi
-date: 2026-07-10
-source: Légifrance
-code: Code Penal
-article: 314
+legiarti: "LEGIARTI000006418226"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226"
+date: "2026-07-10"
+source: "Légifrance/LEGIARTI000006418226"
+code: "Code pénal"
+article: "314-7"
 ---
 
 

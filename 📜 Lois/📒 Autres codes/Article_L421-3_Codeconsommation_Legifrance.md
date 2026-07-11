@@ -1,11 +1,13 @@
 ---
 title: "Article L421-3"
-description: "Code de la consommation"
+description: "Code de la consommation — Obligation générale de sécurité"
 type: loi
-date: 2026-07-10
-source: Légifrance
-code: Autres Codes
-article: L421
+legiarti: "LEGIARTI000049464053"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053"
+date: "2026-07-10"
+source: "Légifrance/LEGIARTI000049464053"
+code: "Code de la consommation"
+article: "L421-3"
 ---
 
 

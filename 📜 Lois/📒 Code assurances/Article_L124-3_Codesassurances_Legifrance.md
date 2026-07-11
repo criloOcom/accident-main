@@ -1,11 +1,13 @@
 ---
 title: "Article L124-3"
-description: "Code des assurances"
+description: "Code des assurances — Action directe de la victime contre l'assureur"
 type: loi
-date: 2026-07-10
-source: Légifrance
-code: Autres Codes
-article: L124
+legiarti: "LEGIARTI000017735449"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449"
+date: "2026-07-10"
+source: "Légifrance/LEGIARTI000017735449"
+code: "Code des assurances"
+article: "L124-3"
 ---
 
 

@@ -1,11 +1,13 @@
 ---
 title: "Article L210-6"
-description: "Code de commerce"
+description: "Code de commerce — Commercial par la forme"
 type: loi
-date: 2026-07-10
-source: Légifrance
-code: Code Commerce
-article: L210
+legiarti: "LEGIARTI000006222358"
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222358"
+date: "2026-07-10"
+source: "Légifrance/LEGIARTI000006222358"
+code: "Code de commerce"
+article: "L210-6"
 ---
 
 
