@@ -36,23 +36,23 @@ Améliorer la navigation humaine dans le projet en convertissant toutes les réf
 ### 2. Structure des Liens Implémentée
 ```markdown
 📁 [accident-main/](./)  ← Dossier racine
-├── ⚖️ [📁 _Actes/](⚖️ Actes/README.md)
-│   ├── 🔑 [📁 _Token/](⚖️ Actes/🔑 Token/README.md)  ← Versions anonymisées
-│   └── 👤 [📁 _Reel/](⚖️ Actes/👤 Reel/README.md)  ← Versions réelles
-├── 📜 [📁 _Lois/](📜 Lois/README.md)  ← Fiches jurisprudence + articles
-├── 🧠 [📁 _Memory/](🧠 Memory/README.md)  ← Mémoire persistante
-├── 📊 [📁 _Rapports/](📊 Rapports/README.md)  ← Rapports d'audit
-├── 🚦 [📁 _Status/](🚦 Status/README.md)  ← Statut et suivi
+├── ⚖️ [📁 _Actes/](⚖️%20Actes/README.md)
+│   ├── 🔑 [📁 _Token/](⚖️%20Actes/🔑%20Token/README.md)  ← Versions anonymisées
+│   └── 👤 [📁 _Reel/](⚖️%20Actes/👤%20Reel/README.md)  ← Versions réelles
+├── 📜 [📁 _Lois/](📜%20Lois/README.md)  ← Fiches jurisprudence + articles
+├── 🧠 [📁 _Memory/](🧠%20Memory/README.md)  ← Mémoire persistante
+├── 📊 [📁 _Rapports/](📊%20Rapports/README.md)  ← Rapports d'audit
+├── 🚦 [📁 _Status/](🚦%20Status/README.md)  ← Statut et suivi
 ├── .dev [📁 /app/](.dev/app/README.md)  ← Scripts Python
 └── 📄 [README.md](./README.md)  ← Cette page
 ```
 
 ### 3. Vérification des README.md Existants
 Tous les dossiers principaux ont des fichiers README.md fonctionnels:
-- ✅ [⚖️ Actes/README.md](⚖️ Actes/README.md)
-- ✅ [📜 Lois/README.md](📜 Lois/README.md)
-- ✅ [🧠 Memory/README.md](🧠 Memory/README.md)
-- ✅ [📊 Rapports/README.md](📊 Rapports/README.md)
+- ✅ [⚖️ Actes/README.md](⚖️%20Actes/README.md)
+- ✅ [📜 Lois/README.md](📜%20Lois/README.md)
+- ✅ [🧠 Memory/README.md](🧠%20Memory/README.md)
+- ✅ [📊 Rapports/README.md](📊%20Rapports/README.md)
 - ✅ `🚦 Status/README.md`
 - ✅ `.dev/README.md`
 

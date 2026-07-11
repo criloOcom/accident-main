@@ -36,7 +36,7 @@ type: rapport
 ## 3. Exactitude Juridique
 **Diagnostic : PASS**
 - **Délai CIVI :** Les délais de prescription pour la saisine de la CIVI sont bien mentionnés à **3 ans** dans les stratégies civile et pénale. Aucune ambiguïté avec la prescription décennale de 10 ans de l'action en réparation d'un dommage corporel n'a été relevée dans ces contextes.
-- **Références légales (Hyperliens imbriqués) :** Toutes les anomalies structurelles de type liens Markdown imbriqués (ex: `[[[[[l'article...]]]]]`) ciblant Légifrance ou Judilibre ont été corrigées avec précision via sed pour retrouver un format standard valide (`[Texte](URL)`) dans l'ensemble de l'arborescence [⚖️ Actes](⚖️ Actes/README.md) (fichiers courriers et archives) **sans altérer ni corrompre les URL ou la syntaxe Markdown**.
+- **Références légales (Hyperliens imbriqués) :** Toutes les anomalies structurelles de type liens Markdown imbriqués (ex: `[[[[[l'article...]]]]]`) ciblant Légifrance ou Judilibre ont été corrigées avec précision via sed pour retrouver un format standard valide (`[Texte](URL)`) dans l'ensemble de l'arborescence [⚖️ Actes](⚖️%20Actes/README.md) (fichiers courriers et archives) **sans altérer ni corrompre les URL ou la syntaxe Markdown**.
 
 ## 4. Mise en page, Titres et Structure
 **Diagnostic : PASS**

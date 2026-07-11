@@ -66,10 +66,10 @@ url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571"
 **Problème** : 4 fichiers README.md manquants dans des dossiers principaux.
 
 **Solution** :
-- Créé [🧠 Memory/README.md](🧠 Memory/README.md)
-- Créé [📊 Rapports/README.md](📊 Rapports/README.md)
+- Créé [🧠 Memory/README.md](🧠%20Memory/README.md)
+- Créé [📊 Rapports/README.md](📊%20Rapports/README.md)
 - Créé `.dev/README.md`
-- Créé [📜 Lois/📒 Code general des collectivites territoriales/README.md](📜 Lois/📒 Code general des collectivites territoriales/README.md)
+- Créé [📜 Lois/📒 Code general des collectivites territoriales/README.md](📜%20Lois/📒%20Code%20general%20des%20collectivites%20territoriales/README.md)
 
 **Fichiers créés** : 4/4 ✅
 

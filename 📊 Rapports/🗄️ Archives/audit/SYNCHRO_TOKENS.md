@@ -1,6 +1,6 @@
 ---
 title: "SYNCHRONISATION TOKEN MAP ↔ BATCH_ANONYMIZE.PY"
-description: "Une analyse programmatique a été effectuée pour comparer les tokens utilisés dans `app/batch_anonymize.py` avec ceux documentés dans [🧠 Memory/TOKEN MAP.md](🧠 Memory/TOKEN MAP.md)."
+description: "Une analyse programmatique a été effectuée pour comparer les tokens utilisés dans `app/batch_anonymize.py` avec ceux documentés dans [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md)."
 type: rapport
 ---
 
@@ -16,7 +16,7 @@ type: rapport
 
 ## Méthodologie
 
-Une analyse programmatique a été effectuée pour comparer les tokens utilisés dans `app/batch_anonymize.py` avec ceux documentés dans [🧠 Memory/TOKEN MAP.md](🧠 Memory/TOKEN MAP.md).
+Une analyse programmatique a été effectuée pour comparer les tokens utilisés dans `app/batch_anonymize.py` avec ceux documentés dans [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md).
 
 *   **Extraction côté Python :** Un script a extrait tous les éléments cibles de remplacement (colonne de droite de la table `REPLACEMENTS`) dont la valeur débute par `[`.
 *   **Extraction côté Markdown :** Un script a parcouru tous les tableaux du document `TOKEN MAP.md` pour extraire les tokens formatés selon la syntaxe Markdown `[Token]`.

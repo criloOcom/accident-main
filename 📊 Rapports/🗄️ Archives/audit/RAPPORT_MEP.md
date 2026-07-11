@@ -1,6 +1,6 @@
 ---
 title: "RAPPORT DE VALIDATION : MISE EN PAGE & CONTEXTE (MEP)"
-description: "Ce rapport présente l'audit de mise en page, de hiérarchie des titres, de respect de la charte graphique (police Arial) et de la cohérence de forme croisée (tokens d'anonymisation) pour l'ensemble des documents du répertoire [⚖️ Actes/🔑 Token](⚖️ Actes/🔑 Token/README.md)."
+description: "Ce rapport présente l'audit de mise en page, de hiérarchie des titres, de respect de la charte graphique (police Arial) et de la cohérence de forme croisée (tokens d'anonymisation) pour l'ensemble des documents du répertoire [⚖️ Actes/🔑 Token](⚖️%20Actes/🔑%20Token/README.md)."
 type: rapport
 ---
 
@@ -15,7 +15,7 @@ type: rapport
 # RAPPORT DE VALIDATION : MISE EN PAGE & CONTEXTE (MEP)
 
 ## 📌 Introduction
-Ce rapport présente l'audit de mise en page, de hiérarchie des titres, de respect de la charte graphique (police Arial) et de la cohérence de forme croisée (tokens d'anonymisation) pour l'ensemble des documents du répertoire [⚖️ Actes/🔑 Token](⚖️ Actes/🔑 Token/README.md).
+Ce rapport présente l'audit de mise en page, de hiérarchie des titres, de respect de la charte graphique (police Arial) et de la cohérence de forme croisée (tokens d'anonymisation) pour l'ensemble des documents du répertoire [⚖️ Actes/🔑 Token](⚖️%20Actes/🔑%20Token/README.md).
 
 ---
 

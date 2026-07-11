@@ -1,6 +1,6 @@
 ---
 title: "Rapport d'Audit : Email N°34 (Mairie de Foix - Police Municipale ERP)"
-description: "Document analysé :** [⚖️ Actes/👤 Reel/✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md](⚖️ Actes/👤 Reel/✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md)"
+description: "Document analysé :** [⚖️ Actes/👤 Reel/✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md](⚖️%20Actes/👤%20Reel/✉️%20Courriers/34%20✉️%20EMAIL%20Maire%20Foix%20-%20Police%20Municipale%20ERP.md)"
 type: rapport
 ---
 
@@ -14,7 +14,7 @@ type: rapport
 
 # Rapport d'Audit : Email N°34 (Mairie de Foix - Police Municipale ERP)
 
-**Document analysé :** [⚖️ Actes/👤 Reel/✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md](⚖️ Actes/👤 Reel/✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md)
+**Document analysé :** [⚖️ Actes/👤 Reel/✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md](⚖️%20Actes/👤%20Reel/✉️%20Courriers/34%20✉️%20EMAIL%20Maire%20Foix%20-%20Police%20Municipale%20ERP.md)
 **Version :** Réelle (V4)
 
 ## Points de vérification

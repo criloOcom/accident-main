@@ -27,13 +27,13 @@ type: memory
 ### 1. LIS les fichiers de mémoire
 
 - [ ] `/home/crilocom/accident-main/` est le SEUL répertoire — vérifie que tu y es
-- [ ] [🧠 Memory/VACCIN.md](🧠 Memory/VACCIN.md) ← ce fichier
+- [ ] [🧠 Memory/VACCIN.md](🧠%20Memory/VACCIN.md) ← ce fichier
 - [ ] `AGENTS.md` — règles du projet, structure, workflow
-- [ ] [🧠 Memory/STATUS.md](🧠 Memory/STATUS.md) — état d'avancement global
-- [ ] [🧠 Memory/TODO.md](🧠 Memory/TODO.md) — plans restants et priorités
-- [ ] [🧠 Memory/DECISIONS.md](🧠 Memory/DECISIONS.md) — décisions d'architecture et règles
-- [ ] [🧠 Memory/RULES.md](🧠 Memory/RULES.md) — règles permanentes, interdictions
-- [ ] [🧠 Memory/STRICT VARIABLES.md](🧠 Memory/STRICT VARIABLES.md) — source unique de vérité (montants, dates)
+- [ ] [🧠 Memory/STATUS.md](🧠%20Memory/STATUS.md) — état d'avancement global
+- [ ] [🧠 Memory/TODO.md](🧠%20Memory/TODO.md) — plans restants et priorités
+- [ ] [🧠 Memory/DECISIONS.md](🧠%20Memory/DECISIONS.md) — décisions d'architecture et règles
+- [ ] [🧠 Memory/RULES.md](🧠%20Memory/RULES.md) — règles permanentes, interdictions
+- [ ] [🧠 Memory/STRICT VARIABLES.md](🧠%20Memory/STRICT%20VARIABLES.md) — source unique de vérité (montants, dates)
 
 ### 2. ANALYSE ce qui existe déjà
 
@@ -118,7 +118,7 @@ que tu dois lire avant d'écrire. Si tu ne le lis pas, tu es en faute.
 | MCP Légifrance | `consulter_article`, `rechercher_code` |
 | MCP Judilibre | `rechercher_par_ecli`, `consulter_decision` |
 | Google Sheet Blog | `1-LDy23fj4l2hoH94cswDHdP2wS1agbma7r3SGjtQ8Ec` (feuille `@`) |
-| URLs légales inline | `[Article X](URL Légifrance)` — lien obligatoire |
+| URLs légales inline | `[Article X](URL%20Légifrance)` — lien obligatoire |
 
 ---
 

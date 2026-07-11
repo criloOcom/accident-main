@@ -62,12 +62,12 @@ type: rapport
 - **Objectif** : Enrichir les actes avec les références
 - **Résultats** : 3 décisions jurisprudentielles intégrées dans l'assignation + création d'annexes complètes
 - **Fichiers modifiés** :
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/01 ⚖️ Assignation.md)
-  - [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/01 ⚖️ Assignation.md)
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
+  - [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️%20Actes/👤%20Reel/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
 - **Annexes créées** :
-  - [⚖️ Actes/📎 Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md](⚖️ Actes/📎 Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md)
-  - [⚖️ Actes/📎 Annexes/ANNEXE_2_Decision_CC_CIV1_1994-07-08.md](⚖️ Actes/📎 Annexes/ANNEXE_2_Decision_CC_CIV1_1994-07-08.md)
-  - [⚖️ Actes/📎 Annexes/ANNEXE_3_Decision_CC_CIV1_2012-07-04.md](⚖️ Actes/📎 Annexes/ANNEXE_3_Decision_CC_CIV1_2012-07-04.md)
+  - [⚖️ Actes/📎 Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md](⚖️%20Actes/📎%20Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md)
+  - [⚖️ Actes/📎 Annexes/ANNEXE_2_Decision_CC_CIV1_1994-07-08.md](⚖️%20Actes/📎%20Annexes/ANNEXE_2_Decision_CC_CIV1_1994-07-08.md)
+  - [⚖️ Actes/📎 Annexes/ANNEXE_3_Decision_CC_CIV1_2012-07-04.md](⚖️%20Actes/📎%20Annexes/ANNEXE_3_Decision_CC_CIV1_2012-07-04.md)
 
 ### ✅ ÉTAPE 7: Génération des Versions Réelles
 - **Objectif** : Mettre à jour les versions avec identités réelles
@@ -108,7 +108,7 @@ type: rapport
 
 ### Assignation en Référé-Provision
 
-**Fichier** : [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/01 ⚖️ Assignation.md)
+**Fichier** : [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
 
 **Section ajoutée** : "A. Jurisprudence Pertinente" après "II. DISCUSSION JURIDIQUE"
 
@@ -133,7 +133,7 @@ type: rapport
 
 ### Annexes Jurisprudentielles
 
-**Répertoire créé** : [⚖️ Actes/📎 Annexes](⚖️ Actes/📎 Annexes/README.md)
+**Répertoire créé** : [⚖️ Actes/📎 Annexes](⚖️%20Actes/📎%20Annexes/README.md)
 
 **Contenu** :
 - **ANNEXE 1** : Décision complète du 30/04/1965 (responsabilité professionnelle)
@@ -225,11 +225,11 @@ Rien à signaler — tout est cohérent.
 
 ### Ressources Disponibles
 
-- **Données brutes** : 3.6 MB de données juridiques dans [📊 Rapports](📊 Rapports/README.md)
+- **Données brutes** : 3.6 MB de données juridiques dans [📊 Rapports](📊%20Rapports/README.md)
 - **Références formatées** : `REFERENCES_MARKDOWN_20260710.json`
 - **Décisions sélectionnées** : `DECISIONS_SELECTIONNEES_20260710.json`
-- **Documentation** : [📜 Lois/EXEMPLES_REQUETES_MCP.md](📜 Lois/EXEMPLES_REQUETES_MCP.md)
-- **Annexes jurisprudentielles** : [⚖️ Actes/📎 Annexes](⚖️ Actes/📎 Annexes/README.md) (3 décisions complètes)
+- **Documentation** : [📜 Lois/EXEMPLES_REQUETES_MCP.md](📜%20Lois/EXEMPLES_REQUETES_MCP.md)
+- **Annexes jurisprudentielles** : [⚖️ Actes/📎 Annexes](⚖️%20Actes/📎%20Annexes/README.md) (3 décisions complètes)
 
 ---
 

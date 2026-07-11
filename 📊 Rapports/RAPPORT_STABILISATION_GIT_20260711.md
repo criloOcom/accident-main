@@ -40,11 +40,11 @@ Stabiliser la branche `main` sur GitHub en intégrant toutes les corrections et 
 git merge interactive-navigation-upgrade
 ```
 **Résultat** : Fast-forward merge réussi
-- 73 fichiers de jurisprudence ajoutés dans [📜 Lois/📜 Jurisprudence](📜 Lois/📜 Jurisprudence/README.md)
+- 73 fichiers de jurisprudence ajoutés dans [📜 Lois/📜 Jurisprudence](📜%20Lois/📜%20Jurisprudence/README.md)
 - Navigation interactive implémentée dans README.md
 - 10 scripts Python ajoutés pour la gestion des lois
 - 5 rapports de correction et audit générés
-- Structure des dossiers [📜 Lois](📜 Lois/README.md) organisée par codes
+- Structure des dossiers [📜 Lois](📜%20Lois/README.md) organisée par codes
 
 ### Étape 2 : Fusion des corrections Mistral Vibe
 ```bash
@@ -69,7 +69,7 @@ git push origin main
 
 ### Contenu de la branche main stabilisée
 
-#### 1. Structure des Dossiers [📜 Lois](📜 Lois/README.md)
+#### 1. Structure des Dossiers [📜 Lois](📜%20Lois/README.md)
 ```
 📜 Lois/
 ├── 📒 Autres codes/              (2 articles)

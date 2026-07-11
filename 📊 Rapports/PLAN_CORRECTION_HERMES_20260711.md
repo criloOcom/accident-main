@@ -16,7 +16,7 @@ statut: projet
 # PLAN DE CORRECTION HERMÈS — Audit 2026-07-11
 
 **Mode** : read-only (ce document est un plan ; aucune modification du dépôt n'est effectuée).
-**Référence** : [📊 Rapports/RAPPORT_AUDIT_HERMES_20260711.md](📊 Rapports/RAPPORT_AUDIT_HERMES_20260711.md)
+**Référence** : [📊 Rapports/RAPPORT_AUDIT_HERMES_20260711.md](📊%20Rapports/RAPPORT_AUDIT_HERMES_20260711.md)
 **Dépôt** : `/home/crilocom/accident-main/`
 
 > Chaque action ci-dessous est exécutable de façon déterministe. Les actions **[SCRIPT]** sont automatisables via un script Python (approved par l'utilisateur au cas par cas). Les actions **[MANUEL]** nécessitent une décision humaine ou une vérification (RGPD, statuts juridiques).
@@ -31,7 +31,7 @@ statut: projet
 - **Correction** : remplacer `](/⚖️ Actes/` par `](../⚖️ Actes/` (et `](/📊 Rapports/` par `](../📊 Rapports/` si présent).
 - **Impact** : 164 liens réparés. À rejouer `check_consistency.py` après.
 
-### P0-2 — [⚖️ Actes/README.md](⚖️ Actes/README.md) : dossiers renommés  [SCRIPT]
+### P0-2 — [⚖️ Actes/README.md](⚖️%20Actes/README.md) : dossiers renommés  [SCRIPT]
 - **Lignes** : L21-40 (arborescence).
 - **Défaut** : `token/` et `reel/` n'existent plus (renommés `🔑 Token`/`👤 Reel`).
 - **Correction** : `token/` → `🔑 Token/`, `reel/` → `👤 Reel/` dans les liens (9 occ.).
@@ -39,16 +39,16 @@ statut: projet
 
 ### P0-3 — Liens jurisprudence : sous-dossier `📜 Jurisprudence/` manquant  [SCRIPT]
 - **Cibles** :
-  - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/13 📜 Responsabilites legales.md](⚖️ Actes/🔑 Token/📚 Analyses juridiques/13 📜 Responsabilites legales.md) (L92-98, 4 liens `../../../📜 Lois/X.md`)
-  - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/14 Stratégie jurisprudentielle.md](⚖️ Actes/🔑 Token/📚 Analyses juridiques/14 Stratégie jurisprudentielle.md) (L30-37, ~11 liens `../../📜 Lois/X.md`)
+  - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/13 📜 Responsabilites legales.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/13%20📜%20Responsabilites%20legales.md) (L92-98, 4 liens `../../../📜 Lois/X.md`)
+  - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/14 Stratégie jurisprudentielle.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/14%20Stratégie%20jurisprudentielle.md) (L30-37, ~11 liens `../../📜 Lois/X.md`)
   - (et les 2 versions `👤 Reel/` correspondantes → total ~30 liens)
 - **Correction** : insérer `📜 Jurisprudence/` → `../../../📜 Lois/📜 Jurisprudence/X.md` (token) / `../../📜 Lois/📜 Jurisprudence/X.md` (reel).
-- **Vérifier** cible existe : [📜 Lois/📜 Jurisprudence/89-18.422_CourCassation.md](📜 Lois/📜 Jurisprudence/89-18.422_CourCassation.md) ✅ présent.
+- **Vérifier** cible existe : [📜 Lois/📜 Jurisprudence/89-18.422_CourCassation.md](📜%20Lois/📜%20Jurisprudence/89-18.422_CourCassation.md) ✅ présent.
 
 ### P0-4 — `01 ⚖️ Assignation.md` : chemins d'annexe  [SCRIPT]
 - **Cibles** : `⚖️ Actes/{🔑 Token,👤 Reel}/⚖️ Actes proceduraux/01 ⚖️ Assignation.md` (L106-126, 347-349)
 - **Défaut** : `ANNEXE_1_Decision_CC_CIV1_1965-04-30.md` (fichier à la racine du dossier) et `📎 Annexes/ANNEXE_...md` (dossier `📎 Annexes` introuvable depuis ce chemin).
-- **Correction** : préfixer `📎 Annexes/` → `📎 Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md` (les 3 annexes sont dans [⚖️ Actes/📎 Annexes](⚖️ Actes/📎 Annexes/README.md)).
+- **Correction** : préfixer `📎 Annexes/` → `📎 Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md` (les 3 annexes sont dans [⚖️ Actes/📎 Annexes](⚖️%20Actes/📎%20Annexes/README.md)).
 - **Vérifier** : `⚖️ Actes/📎 Annexes/ANNEXE_1/2/3_Decision_CC_CIV1_*.md` ✅ présents.
 
 ### P0-5 — `05 📋 Dossier Special CERFA.md` : 6 liens `file://` cassés  [MANUEL + SCRIPT]
@@ -61,10 +61,10 @@ statut: projet
 
 ### P0-6 — 8 fichiers `statut: final` contenant `[...]`  [MANUEL]
 - **Cibles** :
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/01 ⚖️ Assignation.md)
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/02b 🛡️ Constitution Partie Civile.md](⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/02b 🛡️ Constitution Partie Civile.md)
-  - [⚖️ Actes/🔑 Token/✉️ Courriers/31 ✉️ Courrier INPI Opposition.md](⚖️ Actes/🔑 Token/✉️ Courriers/31 ✉️ Courrier INPI Opposition.md)
-  - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/11+12 📊 Evaluation Dintilhac consolidee.md](⚖️ Actes/🔑 Token/💰 Etudes indemnisation/11+12 📊 Evaluation Dintilhac consolidee.md)
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/02b 🛡️ Constitution Partie Civile.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/02b%20🛡️%20Constitution%20Partie%20Civile.md)
+  - [⚖️ Actes/🔑 Token/✉️ Courriers/31 ✉️ Courrier INPI Opposition.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/31%20✉️%20Courrier%20INPI%20Opposition.md)
+  - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/11+12 📊 Evaluation Dintilhac consolidee.md](⚖️%20Actes/🔑%20Token/💰%20Etudes%20indemnisation/11+12%20📊%20Evaluation%20Dintilhac%20consolidee.md)
   - (et les 4 versions `👤 Reel/`)
 - **Défaut** : `statut: final` mais `[...]` non résolu dans le corps → incohérent avec RULES #15.
 - **Action** : soit compléter le contenu, soit rétrograder en `statut: projet`. **Décision humaine requise** (le contenu `[...]` peut être volontaire en attendant une donnée réelle).
@@ -74,7 +74,7 @@ statut: projet
 ## P1 — Conformité frontmatter & navigation
 
 ### P1-1 — README de sous-dossiers sans frontmatter  [SCRIPT + MANUEL]
-- **Cibles** (~15) : tous les `⚖️ Actes/Preuves officielles/{date}*/README.md`, [⚖️ Actes/🔑 Token/🗄️ Archives/annexes/README.md](⚖️ Actes/🔑 Token/🗄️ Archives/annexes/README.md), [⚖️ Actes/📎 Annexes/README.md](⚖️ Actes/📎 Annexes/README.md), `.dev/jules_recommandations/README.md`.
+- **Cibles** (~15) : tous les `⚖️ Actes/Preuves officielles/{date}*/README.md`, [⚖️ Actes/🔑 Token/🗄️ Archives/annexes/README.md](⚖️%20Actes/🔑%20Token/🗄️%20Archives/annexes/README.md), [⚖️ Actes/📎 Annexes/README.md](⚖️%20Actes/📎%20Annexes/README.md), `.dev/jules_recommandations/README.md`.
 - **Correction** : insérer après le breadcrumb (ligne 4) :
   ```
   ---
@@ -93,12 +93,12 @@ statut: projet
 - **Recommandation** : voie (a) — moins destructif, reflète la réalité du dossier.
 
 ### P1-3 — `🔙` et « Retour à l'accueil »  [SCRIPT]
-- **Cibles** : 20 README de sous-dossiers (`⚖️ Actes/Preuves officielles/{date}*/README.md` L7 : `🔙 [📁 ...](../README.md)`) + [📊 Rapports/RAPPORT_NAVIGATION_INTERACTIVE_20260711.md](📊 Rapports/RAPPORT_NAVIGATION_INTERACTIVE_20260711.md) L78 (`Retour à l'accueil`).
+- **Cibles** : 20 README de sous-dossiers (`⚖️ Actes/Preuves officielles/{date}*/README.md` L7 : `🔙 [📁 ...](../README.md)`) + [📊 Rapports/RAPPORT_NAVIGATION_INTERACTIVE_20260711.md](📊%20Rapports/RAPPORT_NAVIGATION_INTERACTIVE_20260711.md) L78 (`Retour à l'accueil`).
 - **Correction** : supprimer les lignes contenant `🔙` et `Retour à l'accueil` (le fil d'Ariane suffit).
 
 ### P1-4 — `README_OLD.md` interdit  [MANUEL]
 - **Cible** : `📜 Lois/README_OLD.md` (62 lignes, obsolète).
-- **Action** : archiver dans [📊 Rapports/🗄️ Archives](📊 Rapports/🗄️ Archives/README.md) ou supprimer (après confirmation qu'il ne sert plus). Génère 45 liens fantômes.
+- **Action** : archiver dans [📊 Rapports/🗄️ Archives](📊%20Rapports/🗄️%20Archives/README.md) ou supprimer (après confirmation qu'il ne sert plus). Génère 45 liens fantômes.
 
 ---
 
@@ -106,7 +106,7 @@ statut: projet
 
 ### P2-1 — `Preuves officielles/README.md` manquant  [SCRIPT]
 - **Défaut** : 13 sous-dossiers `Preuves officielles/{date}*/README.md` pointent vers `../README.md` (parent absent).
-- **Correction** : créer [⚖️ Actes/Preuves officielles/README.md](⚖️ Actes/Preuves officielles/README.md) (frontmatter `type: readme`) listant les 13 sous-dossiers.
+- **Correction** : créer [⚖️ Actes/Preuves officielles/README.md](⚖️%20Actes/Preuves%20officielles/README.md) (frontmatter `type: readme`) listant les 13 sous-dossiers.
 
 ### P2-2 — `.pytest_cache/README.md` altéré  [SCRIPT]
 - **Défaut** : breadcrumb injecté dans le README natif de pytest (lignes 1-3).
@@ -123,14 +123,14 @@ statut: projet
 
 ### P3-2 — 37 fichiers orphelins  [MANUEL]
 - **Cibles** : rapports `RAPPORT_AUDIT_*.md`, `RAPPORT_CORRECTION_*.md`, `RAPPORT_*.md` du 11-07 + `🧠 Memory/{JULES_MCP_GUIDELINES, NOTE_SYNTHESE_AVOCAT, RECADRAGE_NOMENCLATURE, JUSTIFICATION_PROVISION_15000}.md`.
-- **Action** : relier depuis un index ([📊 Rapports/README.md](📊 Rapports/README.md)) ou archiver dans [📊 Rapports/🗄️ Archives](📊 Rapports/🗄️ Archives/README.md).
+- **Action** : relier depuis un index ([📊 Rapports/README.md](📊%20Rapports/README.md)) ou archiver dans [📊 Rapports/🗄️ Archives](📊%20Rapports/🗄️%20Archives/README.md).
 
 ### P3-3 — URLs Légifrance `ceta/...`  [MANUEL]
 - **Cibles** : `11+12 … Dintilhac consolidee.md` L265, `12 … Dintilhac détaillée.md` L147 (+ reel).
 - **Action** : vérifier via MCP Légifrance que `CETATEXT000049375170` est bien un arrêt du Conseil d'État (et non une JURITEXT de Cassation). Corriger si besoin.
 
 ### P3-4 — README quasi-vide  [SCRIPT]
-- **Cible** : [⚖️ Actes/👤 Reel/📂 Preuves officielles/README.md](⚖️ Actes/👤 Reel/📂 Preuves officielles/README.md) (3 lignes).
+- **Cible** : [⚖️ Actes/👤 Reel/📂 Preuves officielles/README.md](⚖️%20Actes/👤%20Reel/📂%20Preuves%20officielles/README.md) (3 lignes).
 - **Action** : compléter ou supprimer (doublon du token ?).
 
 ---

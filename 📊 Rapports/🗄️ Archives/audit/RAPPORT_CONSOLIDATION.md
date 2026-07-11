@@ -41,7 +41,7 @@ type: rapport
 * Correction effectuée: `⚖️ Actes/⚖️ Actes proceduraux/03_Assignation Article 145.md` - L'article 700 est passé de 1 500 € à 3 000 €.
 
 ## 3. AUDIT_NOMS_RESIDUELS.md
-* Les noms mentionnés comme résiduels dans l'audit sont présents dans [🧠 Memory/PIECES MAP.md](🧠 Memory/PIECES MAP.md), [🧠 Memory/STATUS.md](🧠 Memory/STATUS.md), [🧠 Memory/TODO.md](🧠 Memory/TODO.md) etc, qui ne sont pas dans [⚖️ Actes](⚖️ Actes/README.md). Les instructions demandaient de corriger les fichiers sources (dans [⚖️ Actes](⚖️ Actes/README.md)).
+* Les noms mentionnés comme résiduels dans l'audit sont présents dans [🧠 Memory/PIECES MAP.md](🧠%20Memory/PIECES%20MAP.md), [🧠 Memory/STATUS.md](🧠%20Memory/STATUS.md), [🧠 Memory/TODO.md](🧠%20Memory/TODO.md) etc, qui ne sont pas dans [⚖️ Actes](⚖️%20Actes/README.md). Les instructions demandaient de corriger les fichiers sources (dans [⚖️ Actes](⚖️%20Actes/README.md)).
 * Le script `app/batch_anonymize.py` a été exécuté sur les actes si nécessaire ou complété précédemment, et lors des vérifications manuelles sur les actes modifiés, les noms sont bien sous forme de tokens (e.g. `**[La Victime]**`).
 
 ## 4. AUDIT_COHERENCE_TRANSVERSALE.md

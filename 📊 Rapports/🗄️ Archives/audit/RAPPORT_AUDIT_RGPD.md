@@ -22,20 +22,20 @@ L'architecture à double strate (fichiers "token" contenant des pseudonymes et f
 
 ## 2. Fuites de données détectées
 
-L'analyse des fichiers du répertoire [⚖️ Actes/🔑 Token](⚖️ Actes/🔑 Token/README.md) a mis en évidence plusieurs fuites de données où les identités réelles ou des informations directement identifiantes ont échappé au processus d'anonymisation :
+L'analyse des fichiers du répertoire [⚖️ Actes/🔑 Token](⚖️%20Actes/🔑%20Token/README.md) a mis en évidence plusieurs fuites de données où les identités réelles ou des informations directement identifiantes ont échappé au processus d'anonymisation :
 
 **Fichier : `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📚 ANNEXE A Lexique Tokens.md`**
 Ce fichier centralise l'ensemble de la correspondance entre les tokens et les données réelles. Sa présence même dans le répertoire "token" annule l'intérêt de la double strate, car il permet la ré-identification immédiate de l'ensemble des acteurs.
 *   **Fuites :** Sébastien GRAZIDE, Sabir MOUNTASSER, Catherine ANDISSAC, Ayoub BENNOURINE, Romain DELRIEU, Dr Iskander DJERBI, Dr Julie JARDON, Dr Yogan OXYBEL, Sigrid DESBOIS, SAS LES MAUVAIS GARÇONS.
 *   **Données identifiantes :** adresses (10 Avenue de Purpan, 22 Rue Lafaurie, 108 Avenue Paul Bert), SIREN/SIRET (938 033 222, 938 033 222 00010, 500 474 457), N° Dossier CPAM (31727387), N° PV Police (2026/015967), email (sebastien.grazide@gmail.com).
 
-**Fichier : [⚖️ Actes/🔑 Token/🗂️ Organisation/00 📇 Index.md](⚖️ Actes/🔑 Token/🗂️ Organisation/00 📇 Index.md)**
+**Fichier : [⚖️ Actes/🔑 Token/🗂️ Organisation/00 📇 Index.md](⚖️%20Actes/🔑%20Token/🗂️%20Organisation/00%20📇%20Index.md)**
 *   Ligne 101 : `2026-07-05 - 25 📧 Relance Dr DJERBI - V1 ✓ Vérifié` (Nom du médecin). — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Envoyer le courrier de relance pour certificat de consolidation)**
 
-**Fichier : [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/05 🎯 Conclusions Refere.md](⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/05 🎯 Conclusions Refere.md)**
+**Fichier : [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/05 🎯 Conclusions Refere.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/05%20🎯%20Conclusions%20Refere.md)**
 *   Lignes 58 et 80 : Mention en clair du numéro de PV de police `2026/015967`.
 
-**Fichier : [⚖️ Actes/🔑 Token/📚 Analyses juridiques/14 Stratégie jurisprudentielle.md](⚖️ Actes/🔑 Token/📚 Analyses juridiques/14 Stratégie jurisprudentielle.md)**
+**Fichier : [⚖️ Actes/🔑 Token/📚 Analyses juridiques/14 Stratégie jurisprudentielle.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/14%20Stratégie%20jurisprudentielle.md)**
 *   Ligne 141 : Mention en clair du numéro de PV de police `n°2026/015967`.
 
 ## 3. Évaluation technique : `batch_anonymize.py` et `generate_real_versions.py`
@@ -48,7 +48,7 @@ Ce fichier centralise l'ensemble de la correspondance entre les tokens et les do
     *   **Données indirectement identifiantes :** Les numéros de téléphone, IBAN ou plaques d'immatriculation non explicitement listés passeraient au travers.
 
 **`generate_real_versions.py` (Génération des fichiers réels)**
-*   **Sécurité :** Ce script ne pose pas de problème en soi, à condition que le répertoire de sortie ([⚖️ Actes/👤 Reel](⚖️ Actes/👤 Reel/README.md)) soit strictement exclu du contrôle de version via `.gitignore` pour éviter tout commit accidentel des données en clair. C'est le cas actuellement.
+*   **Sécurité :** Ce script ne pose pas de problème en soi, à condition que le répertoire de sortie ([⚖️ Actes/👤 Reel](⚖️%20Actes/👤%20Reel/README.md)) soit strictement exclu du contrôle de version via `.gitignore` pour éviter tout commit accidentel des données en clair. C'est le cas actuellement.
 
 ## 4. Conformité CNIL et Juridique
 
@@ -72,11 +72,11 @@ Le traitement actuel des données personnelles dans ce projet pose plusieurs pro
 
 ### Recommandations Juridiques
 
-1.  **Chiffrement au repos :** Chiffrer le dépôt entier si possible, ou au moins les répertoires contenant les clés de ré-identification ([🧠 Memory/TOKEN MAP.md](🧠 Memory/TOKEN MAP.md) et [🧠 Memory/STRICT VARIABLES.md](🧠 Memory/STRICT VARIABLES.md)), en utilisant des outils comme `git-crypt` ou `SOPS`.
+1.  **Chiffrement au repos :** Chiffrer le dépôt entier si possible, ou au moins les répertoires contenant les clés de ré-identification ([🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md) et [🧠 Memory/STRICT VARIABLES.md](🧠%20Memory/STRICT%20VARIABLES.md)), en utilisant des outils comme `git-crypt` ou `SOPS`.
 2.  **Hébergement :** S'assurer que le service d'hébergement Git utilisé (ex: GitHub) présente les garanties nécessaires (DPA - Data Processing Agreement). Éviter à tout prix les dépôts publics.
 3.  **Minimisation des données :** Ne conserver dans `STRICT VARIABLES.md` que les données strictement nécessaires au traitement du dossier.
 4.  **Délai de conservation :** Définir et appliquer une politique de purge des données une fois le dossier juridique clos et les délais de prescription échus.
 
 ### Annexe : Google Drive
 
-Concernant la synchronisation Google Drive mentionnée dans les directives du projet, il est impératif que **seules les versions token** soient stockées sur Google Drive, dans la mesure où le Drive est utilisé comme espace de travail collaboratif potentiellement exposé. Si des documents du répertoire [⚖️ Actes/👤 Reel](⚖️ Actes/👤 Reel/README.md) sont synchronisés, cela constitue une violation de la politique de sécurité du projet et du RGPD.
+Concernant la synchronisation Google Drive mentionnée dans les directives du projet, il est impératif que **seules les versions token** soient stockées sur Google Drive, dans la mesure où le Drive est utilisé comme espace de travail collaboratif potentiellement exposé. Si des documents du répertoire [⚖️ Actes/👤 Reel](⚖️%20Actes/👤%20Reel/README.md) sont synchronisés, cela constitue une violation de la politique de sécurité du projet et du RGPD.

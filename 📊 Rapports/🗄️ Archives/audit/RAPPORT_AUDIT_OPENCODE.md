@@ -26,7 +26,7 @@ type: rapport
 ### Plan A — Correction L.211-26 — **✅ ✅ CORRIGÉ (Article erroné supprimé et remplacé)**
 - Statut : PASS
 - Détails : Le code L.211-26 n'apparaît plus ni dans les actes juridiques ni dans le code source de l'application.  — **✅ ✅ CORRIGÉ (Article erroné supprimé et remplacé)**
-- Preuves : Une recherche (`grep`) exhaustive sur [⚖️ Actes](⚖️ Actes/README.md) et `app/` ne renvoie aucun résultat. Il est présent uniquement dans [🧠 Memory/TODO.md](🧠 Memory/TODO.md) pour documenter la correction.
+- Preuves : Une recherche (`grep`) exhaustive sur [⚖️ Actes](⚖️%20Actes/README.md) et `app/` ne renvoie aucun résultat. Il est présent uniquement dans [🧠 Memory/TODO.md](🧠%20Memory/TODO.md) pour documenter la correction.
 
 ### Plan C — CIVI/FGTI
 - Statut : FAIL
@@ -40,7 +40,7 @@ type: rapport
 
 ### Plan F — Arborescence
 - Statut : PASS
-- Détails : La nouvelle arborescence (01 à 05) a bien été créée dans [⚖️ Actes](⚖️ Actes/README.md). Les anciens dossiers `contentieux-civil` et `contentieux-penal` sont toujours présents intacts.
+- Détails : La nouvelle arborescence (01 à 05) a bien été créée dans [⚖️ Actes](⚖️%20Actes/README.md). Les anciens dossiers `contentieux-civil` et `contentieux-penal` sont toujours présents intacts.
 - Preuves : La vérification via `ls -ld` confirme la présence des anciens et nouveaux dossiers avec la bonne nomenclature.
 
 ### Plan G — TdM + consistency
@@ -75,7 +75,7 @@ Un échantillon de 10 liens trouvés dans les actes a été testé avec `legifra
 
 ## Vérification des tokens d'anonymisation
 - Statut : PASS
-- [🧠 Memory/TOKEN MAP.md](🧠 Memory/TOKEN MAP.md) existe et recense correctement la structure de remplacement (victime, président, directrice...). Les tokens sont bien respectés dans les documents (validé par `check_consistency.py`).
+- [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md) existe et recense correctement la structure de remplacement (victime, président, directrice...). Les tokens sont bien respectés dans les documents (validé par `check_consistency.py`).
 
 ## Conclusion
 - [ ] Travail validé — aucune erreur

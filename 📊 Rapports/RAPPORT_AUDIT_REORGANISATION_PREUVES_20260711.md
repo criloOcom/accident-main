@@ -155,14 +155,14 @@ grep -r "SITUATION DrJulieJARDON\|CR Opératoire\|NOTE DrOXYBEL\|PV Police\|Atte
 
 **Fichiers avec références au dossier (non critiques) :**
 - `AGENTS.md` : Référence générique au dossier
-- [⚖️ Actes/README.md](⚖️ Actes/README.md) : Lien relatif vers le README
-- [⚖️ Actes/🔑 Token/README.md](⚖️ Actes/🔑 Token/README.md) : Lien relatif vers le README
-- [⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md](⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md) : Lien relatif
-- [⚖️ Actes/👤 Reel/📂 Preuves officielles/README.md](⚖️ Actes/👤 Reel/📂 Preuves officielles/README.md) : Lien relatif
-- [⚖️ Actes/🔑 Token/🗂️ Organisation/00 📇 Index.md](⚖️ Actes/🔑 Token/🗂️ Organisation/00 📇 Index.md) : Référence générique
+- [⚖️ Actes/README.md](⚖️%20Actes/README.md) : Lien relatif vers le README
+- [⚖️ Actes/🔑 Token/README.md](⚖️%20Actes/🔑%20Token/README.md) : Lien relatif vers le README
+- [⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md](⚖️%20Actes/🔑%20Token/📂%20Preuves%20officielles/README.md) : Lien relatif
+- [⚖️ Actes/👤 Reel/📂 Preuves officielles/README.md](⚖️%20Actes/👤%20Reel/📂%20Preuves%20officielles/README.md) : Lien relatif
+- [⚖️ Actes/🔑 Token/🗂️ Organisation/00 📇 Index.md](⚖️%20Actes/🔑%20Token/🗂️%20Organisation/00%20📇%20Index.md) : Référence générique
 
 **Fichiers avec références aux documents (via Google Drive) :**
-- [⚖️ Actes/🔑 Token/📂 Preuves officielles/01 📁 Dossier UMJ Preparation.md](⚖️ Actes/🔑 Token/📂 Preuves officielles/01 📁 Dossier UMJ Preparation.md) : Liens Google Drive
+- [⚖️ Actes/🔑 Token/📂 Preuves officielles/01 📁 Dossier UMJ Preparation.md](⚖️%20Actes/🔑%20Token/📂%20Preuves%20officielles/01%20📁%20Dossier%20UMJ%20Preparation.md) : Liens Google Drive
 
 ### Conclusion sur les Références
 

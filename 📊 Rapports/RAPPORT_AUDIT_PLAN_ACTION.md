@@ -16,7 +16,7 @@ type: rapport
 
 **Date :** 10 juillet 2026  
 **Objet :** Audit de cohérence transverse entre le Plan d'action, le Calendrier procédural, les actions réalisées IA, les tâches humaines en suspens, et le suivi LRAR  
-**Périmètre :** `10 🗂️ Plan action.md`, `11 📅 Calendrier procedural.md`, `06 📋 Synthese des Actions et Audits.md`, `23 📊 Suivi Envois LRAR.md`, [🧠 Memory/TODO.md](🧠 Memory/TODO.md), [🧠 Memory/STATUS.md](🧠 Memory/STATUS.md)
+**Périmètre :** `10 🗂️ Plan action.md`, `11 📅 Calendrier procedural.md`, `06 📋 Synthese des Actions et Audits.md`, `23 📊 Suivi Envois LRAR.md`, [🧠 Memory/TODO.md](🧠%20Memory/TODO.md), [🧠 Memory/STATUS.md](🧠%20Memory/STATUS.md)
 
 ---
 

@@ -109,7 +109,7 @@ Ce dossier contient la correspondance officielle envoyée le 10 juillet 2026 à 
 ### Correspondance avec le Courrier n°34
 
 Ce dossier est directement lié au **courrier n°34** du projet :
-- **Document** : [⚖️ Actes/🔑 Token/✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md](⚖️ Actes/🔑 Token/✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md)
+- **Document** : [⚖️ Actes/🔑 Token/✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/34%20✉️%20EMAIL%20Maire%20Foix%20-%20Police%20Municipale%20ERP.md)
 - **Type** : Email de suivi administratif
 - **Date** : 10 juillet 2026
 - **Objectif** : Mise à jour du dossier ERP et demande d'intervention
@@ -147,7 +147,7 @@ gantt
 ### A. Documentation du Dossier
 
 **Fichier créé :** `RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711.md`
-- Emplacement : [📊 Rapports](📊 Rapports/README.md)
+- Emplacement : [📊 Rapports](📊%20Rapports/README.md)
 - Contenu : Documentation complète du nouveau dossier
 - Objectif : Reference pour tous les agents du projet
 
@@ -157,8 +157,8 @@ gantt
 ```markdown
 # Index — 📂 Preuves officielles (Versions Réelles)
 
-- [01 📁 Dossier UMJ Preparation.md](01 📁 Dossier UMJ Preparation.md)
-- [20260710 📧 Actualisation Dossier ERP/](20260710 📧 Actualisation Dossier ERP/)
+- [01 📁 Dossier UMJ Preparation.md](01%20📁%20Dossier%20UMJ%20Preparation.md)
+- [20260710 📧 Actualisation Dossier ERP/](20260710%20📧%20Actualisation%20Dossier%20ERP/)
 ```
 
 **⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md**

@@ -38,12 +38,12 @@ Ce plan analyse la possibilité juridique de demander au Maire de Foix d'envoyer
 
 ### Action 1 : Envoi du mail au Maire de Foix (Demain matin, 8h00)
 Vous allez envoyer un courriel officiel et circonstancié au Maire de Foix (Cabinet du Maire / Secrétariat) en vous appuyant sur le projet déjà rédigé par DeepSeek/Jules :
-*   **Fichier source** : **[29 ✉️ Courrier Maire Foix.md](../✉️ Courriers/29%20✉️%20Courrier%20Maire%20Foix.md)**.
+*   **Fichier source** : **[29 ✉️ Courrier Maire Foix.md](../✉️%20Courriers/29%20✉️%20Courrier%20Maire%20Foix.md)**.
 *   **Objet** : Demande d'intervention de la police municipale / commission de sécurité pour contrôle de conformité ERP au 22 Rue Lafaurie.
 
 ### Action 2 : Maintien de la Requête d'Huissier (Art. 145 CPC)
 Même si le Maire envoie la police, vous devez maintenir la démarche d'huissier car c'est la seule preuve opposable en droit civil pour votre indemnisation :
-*   **Fichier source** : **[33 ✉️ Requete Constat Huissier 145 CPC.md](../✉️ Courriers/33%20✉️%20Requete%20Constat%20Huissier%20145%20CPC.md)**.
+*   **Fichier source** : **[33 ✉️ Requete Constat Huissier 145 CPC.md](../✉️%20Courriers/33%20✉️%20Requete%20Constat%20Huissier%20145%20CPC.md)**.
 *   **Action** : Soumettre la requête au Président du TJ de Foix la semaine prochaine lors de votre déplacement.
 
 ---

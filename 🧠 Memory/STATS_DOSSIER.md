@@ -14,7 +14,7 @@ type: memory
 
 # Statistiques Générales du Dossier
 
-## 1. Fichiers et Documents ([⚖️ Actes](⚖️ Actes/README.md))
+## 1. Fichiers et Documents ([⚖️ Actes](⚖️%20Actes/README.md))
 Le dossier comporte **62 fichiers .md** répartis dans les sous-dossiers :
 - `📂 Preuves officielles` : 2
 - `⚖️ Actes proceduraux` : 9
@@ -24,7 +24,7 @@ Le dossier comporte **62 fichiers .md** répartis dans les sous-dossiers :
 - `🗂️ Organisation` : 5
 - `🗄️ Archives` : 11
 
-## 2. Anonymisation ([🧠 Memory/TOKEN MAP.md](🧠 Memory/TOKEN MAP.md))
+## 2. Anonymisation ([🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md))
 Le fichier de mappage compte **22 tokens** uniques recensant les personnes physiques, morales et données localisantes/identifiantes.
 
 ## 3. Chronologie des Événements
@@ -32,7 +32,7 @@ La timeline des faits couvre la période du 29/05/2026 (accident) au 12/11/2026 
 Étapes clés : accident → chirurgie → plainte → mises en demeure → assignation référé → expertise.
 La chronologie détaillée est intégrée dans les actes (notamment `⚖️ Actes proceduraux`).
 
-## 4. Pièces Justificatives ([🧠 Memory/PIECES MAP.md](🧠 Memory/PIECES MAP.md))
+## 4. Pièces Justificatives ([🧠 Memory/PIECES MAP.md](🧠%20Memory/PIECES%20MAP.md))
 La cartographie des pièces totalise **44 pièces uniques** (liens Google Drive uniques).
 
 ## 5. Aspects Financiers

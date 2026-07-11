@@ -16,7 +16,7 @@ type: rapport
 
 **Mission : M5 — Auditeur juridique**
 **Date : 10/07/2026**
-**Source :** [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux](⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md)
+**Source :** [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/README.md)
 
 **Méthode :** Vérification de chaque article cité via MCP OpenLegi (`rechercher_code`) sur Légifrance.
 

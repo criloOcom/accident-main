@@ -1,6 +1,6 @@
 ---
 title: "Rapport de mise à jour de STRICT VARIABLES.md post-audits"
-description: "Ce document consigne l'ensemble des corrections appliquées au fichier [🧠 Memory/STRICT VARIABLES.md](🧠 Memory/STRICT VARIABLES.md) suite aux 7 audits de conformité, garantissant qu'aucune valeur n'a été modifiée sans source vérifiable."
+description: "Ce document consigne l'ensemble des corrections appliquées au fichier [🧠 Memory/STRICT VARIABLES.md](🧠%20Memory/STRICT%20VARIABLES.md) suite aux 7 audits de conformité, garantissant qu'aucune valeur n'a été modifiée sans source vérifiable."
 type: rapport
 ---
 
@@ -14,7 +14,7 @@ type: rapport
 
 # Rapport de mise à jour de STRICT VARIABLES.md post-audits
 
-Ce document consigne l'ensemble des corrections appliquées au fichier [🧠 Memory/STRICT VARIABLES.md](🧠 Memory/STRICT VARIABLES.md) suite aux 7 audits de conformité, garantissant qu'aucune valeur n'a été modifiée sans source vérifiable.
+Ce document consigne l'ensemble des corrections appliquées au fichier [🧠 Memory/STRICT VARIABLES.md](🧠%20Memory/STRICT%20VARIABLES.md) suite aux 7 audits de conformité, garantissant qu'aucune valeur n'a été modifiée sans source vérifiable.
 
 ## 1. Modifications liées à l'anonymisation
 **Source :** `🧠 Memory/AUDIT_NOMS_RESIDUELS.md` et les règles générales de non-anonymisation définies dans le projet.

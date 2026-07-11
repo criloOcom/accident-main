@@ -52,11 +52,11 @@ type: memory
 - Dans Annexe C : formater en `date — émetteur complet — objet — 🔗 Drive` sans numéro
 - L'ordre de numérotation est inconnu de l'utilisateur — ne pas l'utiliser comme source de vérité
 
-## Markdown source files ([⚖️ Actes](⚖️ Actes/README.md)) — RÈGLES DE STRUCTURE
+## Markdown source files ([⚖️ Actes](⚖️%20Actes/README.md)) — RÈGLES DE STRUCTURE
 
 - **H1 unique** : seul le titre du document est `# Titre`. Sections I./II./III. en `##`, sous-sections A./B. en `###`, sous-sous-sections 1./2. en `####`.
 - **Articles de loi exclus des headings** : aucune référence législative entre parenthèses dans les titres. Les articles sont uniquement dans le corps du texte.
-- **Liens Légifrance inline obligatoires** : toute occurrence « Article X du Code Y » DOIT être `[Article X du Code Y](Légifrance URL)`. Pas de texte non lié, pas de « Lien : » séparé sur une autre ligne.
+- **Liens Légifrance inline obligatoires** : toute occurrence « Article X du Code Y » DOIT être `[Article X du Code Y](Légifrance%20URL)`. Pas de texte non lié, pas de « Lien : » séparé sur une autre ligne.
 - **Tokens en gras** : `[Token]` → `**[Token]**`.
 - **Ligne vide** entre chaque phrase/idée/paragraphe.
 - **Mise en page lettre** : en-tête (adresses, date, objet, réf) entre le H1 et `## INTRODUCTION`.
@@ -91,7 +91,7 @@ type: memory
 - **Pas de "Accueil"** : utiliser `[🏠]` (emoji maison) comme lien racine
 - **Un seul breadcrumb par fichier** — script dédié `.dev/app/generate_breadcrumbs.py`
 - **Détection par script** : le script cherche tous les patterns connus (code blocks, HTML comments, texte brut) et les remplace par le format canonique unique
-- **Scripts et fichiers à la racine interdits** : tout .py va dans `.dev/app/`, tout rapport va dans [📊 Rapports](📊 Rapports/README.md)
+- **Scripts et fichiers à la racine interdits** : tout .py va dans `.dev/app/`, tout rapport va dans [📊 Rapports](📊%20Rapports/README.md)
 - **Propreté du projet** : `__pycache__`, `.pytest_cache` sont à supprimer après exécution — le `.gitignore` les couvre déjà
 - **PRs terminées à fermer** : toute PR dont le contenu est intégré dans `main` DOIT être fermée (sans merge) et sa branche supprimée
 

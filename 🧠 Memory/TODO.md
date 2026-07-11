@@ -1,6 +1,6 @@
 ---
 title: "TODO — Plans d'action + Tableau de bord Sébastien"
-description: "- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → [📊 Rapports/RAPPORT_AUDIT_RISQUES.md](📊 Rapports/RAPPORT_AUDIT_RISQUES.md)"
+description: "- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → [📊 Rapports/RAPPORT_AUDIT_RISQUES.md](📊%20Rapports/RAPPORT_AUDIT_RISQUES.md)"
 type: memory
 ---
 
@@ -20,7 +20,7 @@ type: memory
 > Légifrance (`consulter_article` ou `rechercher_code`) pour vérifier le contexte
 > avant intégration.
 >
-> **Nouveau :** Voir [📜 Lois/EXEMPLES_REQUETES_MCP.md](📜 Lois/EXEMPLES_REQUETES_MCP.md) pour des exemples
+> **Nouveau :** Voir [📜 Lois/EXEMPLES_REQUETES_MCP.md](📜%20Lois/EXEMPLES_REQUETES_MCP.md) pour des exemples
 > concrets et testés d'utilisation des MCP Légifrance et Judilibre.
 
 ---
@@ -28,11 +28,11 @@ type: memory
 ## 📋 TABLEAU DE BORD SÉBASTIEN
 
 ### ✅ Dernières actions IA (10 juillet 2026)
-- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → [📊 Rapports/RAPPORT_AUDIT_RISQUES.md](📊 Rapports/RAPPORT_AUDIT_RISQUES.md)
+- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → [📊 Rapports/RAPPORT_AUDIT_RISQUES.md](📊%20Rapports/RAPPORT_AUDIT_RISQUES.md)
 - **Risques prioritaires identifiés** : 4 critiques (🔴 R1-R3-R5) et 6 urgents (🟠 R4-R6-R7-R8-R9-R19)
-- **Intégration jurisprudentielle** : 3 décisions clés + annexes complètes → [⚖️ Actes/📎 Annexes](⚖️ Actes/📎 Annexes/README.md)
-- **Plainte complémentaire** : création du document n°36 pour obstruction à la justice → [⚖️ Actes/👤 Reel/✉️ Courriers/36 ✉️ Plainte Complémentaire Police Foix.md](⚖️ Actes/👤 Reel/✉️ Courriers/36 ✉️ Plainte Complémentaire Police Foix.md)
-- **Articles de loi ajoutés** : Articles 434-15 et 434-15-1 du Code pénal → [📜 Lois/📒 Code penal](📜 Lois/📒 Code penal/README.md)
+- **Intégration jurisprudentielle** : 3 décisions clés + annexes complètes → [⚖️ Actes/📎 Annexes](⚖️%20Actes/📎%20Annexes/README.md)
+- **Plainte complémentaire** : création du document n°36 pour obstruction à la justice → [⚖️ Actes/👤 Reel/✉️ Courriers/36 ✉️ Plainte Complémentaire Police Foix.md](⚖️%20Actes/👤%20Reel/✉️%20Courriers/36%20✉️%20Plainte%20Complémentaire%20Police%20Foix.md)
+- **Articles de loi ajoutés** : Articles 434-15 et 434-15-1 du Code pénal → [📜 Lois/📒 Code penal](📜%20Lois/📒%20Code%20penal/README.md)
 
 ### ✅ Dernières actions IA (8 juillet 2026)
 - **12 PRs Jules mergées** (#73-84) : audits avocat, RGPD, barémique, assurance, FGTI, organisation, dirigeants, ERP, ordonnance
@@ -92,7 +92,7 @@ ni contacter des personnes à ta place.
 - [ ] Relancer Inspection du Travail / CODAF (pas d'accusé réception ?)
 - [ ] Vérifier retour AR de la mise en demeure SAS
 - [ ] Suivre le courrier Mairie de Foix / TAVELLA
-- [ ] **Consulter le Dossier Spécial CERFA** ([05 📋 Dossier Special CERFA.md](../⚖️ Actes/🔑 Token/🗂️ Organisation/05%20📋%20Dossier%20Special%20CERFA.md)) pour l'organisation des démarches administratives officieuses.
+- [ ] **Consulter le Dossier Spécial CERFA** ([05 📋 Dossier Special CERFA.md](../⚖️%20Actes/🔑%20Token/🗂️%20Organisation/05%20📋%20Dossier%20Special%20CERFA.md)) pour l'organisation des démarches administratives officieuses.
 
 ### Processus général (vision d'ensemble)
 
@@ -164,7 +164,7 @@ PHASE POST-CONSOLIDATION (quand consolidation obtenue)
 
 ---
 
-### PLAN F — RESTRUCTURATION [⚖️ Actes](⚖️ Actes/README.md) ✅ TERMINÉ
+### PLAN F — RESTRUCTURATION [⚖️ Actes](⚖️%20Actes/README.md) ✅ TERMINÉ
 
 - Nouvelle arborescence `{00-06}` + token/reel
 - Scripts mis à jour

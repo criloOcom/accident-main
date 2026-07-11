@@ -1,6 +1,6 @@
 ---
 title: "Matrice d'Audit Jurisprudentiel"
-description: "Vérification de la cohérence des citations d'arrêts (chambre, date, ratio) à travers les fichiers du dossier [⚖️ Actes/🔑 Token](⚖️ Actes/🔑 Token/README.md)."
+description: "Vérification de la cohérence des citations d'arrêts (chambre, date, ratio) à travers les fichiers du dossier [⚖️ Actes/🔑 Token](⚖️%20Actes/🔑%20Token/README.md)."
 type: rapport
 ---
 
@@ -14,7 +14,7 @@ type: rapport
 
 # Matrice d'Audit Jurisprudentiel
 
-Vérification de la cohérence des citations d'arrêts (chambre, date, ratio) à travers les fichiers du dossier [⚖️ Actes/🔑 Token](⚖️ Actes/🔑 Token/README.md).
+Vérification de la cohérence des citations d'arrêts (chambre, date, ratio) à travers les fichiers du dossier [⚖️ Actes/🔑 Token](⚖️%20Actes/🔑%20Token/README.md).
 
 | Arrêt | Fichier | Chambre | Date | Ratio | Incohérences (Flags) |
 |---|---|---|---|---|---|

@@ -15,7 +15,7 @@ type: rapport
 # RAPPORT D'AUDIT — Courriers (✉️ Courriers)
 
 **Date :** 10 juillet 2026  
-**Périmètre :** [⚖️ Actes/🔑 Token/✉️ Courriers](⚖️ Actes/🔑 Token/✉️ Courriers/README.md) (fichiers 03 à 35)  
+**Périmètre :** [⚖️ Actes/🔑 Token/✉️ Courriers](⚖️%20Actes/🔑%20Token/✉️%20Courriers/README.md) (fichiers 03 à 35)  
 **Objet :** Vérification structurelle, YAML, tokens non résolus, cohérence inter-courriers, existence des versions réelles
 
 ---
@@ -232,7 +232,7 @@ type: rapport
 
 ## CORRESPONDANCE VERSIONS RÉELLES
 
-Tous les fichiers token (03 à 35) ont leur équivalent réel dans [⚖️ Actes/👤 Reel/✉️ Courriers](⚖️ Actes/👤 Reel/✉️ Courriers/README.md). ✅
+Tous les fichiers token (03 à 35) ont leur équivalent réel dans [⚖️ Actes/👤 Reel/✉️ Courriers](⚖️%20Actes/👤%20Reel/✉️%20Courriers/README.md). ✅
 
 **Fichier manquant côté reel :** `.gitkeep` présent côté token uniquement (normal).
 

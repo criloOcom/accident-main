@@ -1,6 +1,6 @@
 ---
 title: "Rapport d'Audit : Cohérence des organismes et adresses"
-description: "Vérifier la cohérence des noms d'organismes, des adresses, des sigles et des tribunaux compétents dans l'ensemble des courriers 03 à 34 du dossier tokenisé ([⚖️ Actes/🔑 Token/✉️ Courriers](⚖️ Actes/🔑 Token/✉️ Courriers/README.md))."
+description: "Vérifier la cohérence des noms d'organismes, des adresses, des sigles et des tribunaux compétents dans l'ensemble des courriers 03 à 34 du dossier tokenisé ([⚖️ Actes/🔑 Token/✉️ Courriers](⚖️%20Actes/🔑%20Token/✉️%20Courriers/README.md))."
 type: rapport
 ---
 
@@ -15,7 +15,7 @@ type: rapport
 # Rapport d'Audit : Cohérence des organismes et adresses
 
 ## Objectif
-Vérifier la cohérence des noms d'organismes, des adresses, des sigles et des tribunaux compétents dans l'ensemble des courriers 03 à 34 du dossier tokenisé ([⚖️ Actes/🔑 Token/✉️ Courriers](⚖️ Actes/🔑 Token/✉️ Courriers/README.md)).
+Vérifier la cohérence des noms d'organismes, des adresses, des sigles et des tribunaux compétents dans l'ensemble des courriers 03 à 34 du dossier tokenisé ([⚖️ Actes/🔑 Token/✉️ Courriers](⚖️%20Actes/🔑%20Token/✉️%20Courriers/README.md)).
 
 ## Vérifications effectuées
 
@@ -40,4 +40,4 @@ Vérifier la cohérence des noms d'organismes, des adresses, des sigles et des t
    - Les courriers destinés aux organismes publics (CPAM, URSSAF, Inspection du Travail, SIE, etc.) ne contiennent pas d'adresses en clair dans le corps du texte (en dehors des informations tokenisées), celles-ci étant gérées par les en-têtes YAML (ex: `destinataire: CPAM Haute-Garonne`, `destinataire: URSSAF Midi-Pyrenees`, `destinataire: Service des Impôts des Entreprises de **[La Ville de l'Accident]**`) ou de manière générique.
 
 ## Conclusion
-L'audit a permis de relever et corriger quelques fuites d'anonymisation restantes relatives à la ville ("Foix") rattachée aux juridictions compétentes. Les courriers 03 à 34 sont désormais pleinement cohérents et respectent la table de tokens définie dans [🧠 Memory/TOKEN MAP.md](🧠 Memory/TOKEN MAP.md).
+L'audit a permis de relever et corriger quelques fuites d'anonymisation restantes relatives à la ville ("Foix") rattachée aux juridictions compétentes. Les courriers 03 à 34 sont désormais pleinement cohérents et respectent la table de tokens définie dans [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md).

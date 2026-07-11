@@ -107,8 +107,8 @@ Réorganiser le dossier 📜 Lois/ pour une meilleure navigation et maintenance 
 ### 2. Création de la documentation
 - ✅ [README.md principal](README.md) - Vue d'ensemble complète
 - ✅ README.md pour chaque sous-dossier de code
-- ✅ [📊 Index/README.md](📊 Index/README.md) - Index complet et organisé
-- ✅ [📜 Jurisprudence/README.md](📜 Jurisprudence/README.md) - Liste détaillée des arrêts
+- ✅ [📊 Index/README.md](📊%20Index/README.md) - Index complet et organisé
+- ✅ [📜 Jurisprudence/README.md](📜%20Jurisprudence/README.md) - Liste détaillée des arrêts
 
 ### 3. Standardisation
 - ✅ Format de nommage cohérent : `Article_XXX-YY_CodeNom_Legifrance.md`

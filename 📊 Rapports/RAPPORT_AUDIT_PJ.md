@@ -15,8 +15,8 @@ type: rapport
 # RAPPORT D'AUDIT — Pièces Jointes (PJ) des Courriers 03 à 35
 
 **Date :** 10 juillet 2026
-**Périmètre :** 33 courriers dans [⚖️ Actes/🔑 Token/✉️ Courriers](⚖️ Actes/🔑 Token/✉️ Courriers/README.md) (03 à 35)
-**Référentiel :** [🧠 Memory/PIECES MAP.md](🧠 Memory/PIECES MAP.md) + `⚖️ Actes/📂 Preuves officielles/` (physique)
+**Périmètre :** 33 courriers dans [⚖️ Actes/🔑 Token/✉️ Courriers](⚖️%20Actes/🔑%20Token/✉️%20Courriers/README.md) (03 à 35)
+**Référentiel :** [🧠 Memory/PIECES MAP.md](🧠%20Memory/PIECES%20MAP.md) + `⚖️ Actes/📂 Preuves officielles/` (physique)
 
 ---
 

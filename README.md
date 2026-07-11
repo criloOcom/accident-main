@@ -20,21 +20,21 @@ type: readme
 
 ## 📂 Arborescence
 
-- [**⚖️ Actes**](./⚖️ Actes/README.md) — Actes, courriers, analyses juridiques, études d'indemnisation (versions tokenisées + réelles)
-- [**📜 Lois et jurisprudence**](./📜 Lois/README.md) — Codes, articles, arrêts de la Cour de cassation, index juridique
-- [**🧠 Mémoire du projet**](./🧠 Memory/README.md) — Règles, décisions, état d'avancement, correspondances tokens, protocoles
-- [**📊 Rapports**](./📊 Rapports/README.md) — Audits, évaluations, expertise, archives
-- [**🚦 Status des actes**](./🚦 Status/README.md) — Suivi d'envoi par statut (préparation, prêt, envoyé)
+- [**⚖️ Actes**](./⚖️%20Actes/README.md) — Actes, courriers, analyses juridiques, études d'indemnisation (versions tokenisées + réelles)
+- [**📜 Lois et jurisprudence**](./📜%20Lois/README.md) — Codes, articles, arrêts de la Cour de cassation, index juridique
+- [**🧠 Mémoire du projet**](./🧠%20Memory/README.md) — Règles, décisions, état d'avancement, correspondances tokens, protocoles
+- [**📊 Rapports**](./📊%20Rapports/README.md) — Audits, évaluations, expertise, archives
+- [**🚦 Status des actes**](./🚦%20Status/README.md) — Suivi d'envoi par statut (préparation, prêt, envoyé)
 - [**🔧 Développement**](./.dev/README.md) — Scripts, tests, déploiement
 
 ## 🔗 Accès rapide
 
-- [État d'avancement complet](./🧠 Memory/STATUS.md)
-- [Token Map (correspondance token ↔ réel)](./🧠 Memory/TOKEN%20MAP.md)
-- [Pièces citées (PIECES MAP)](./🧠 Memory/PIECES%20MAP.md)
-- [Règles permanentes](./🧠 Memory/RULES.md)
-- [Dernière évaluation Dintilhac](./⚖️ Actes/🔑 Token/💰 Etudes indemnisation/12%20Évaluation%20Dintilhac%20détaillée.md)
-- [Todo & priorités](./🧠 Memory/TODO.md)
+- [État d'avancement complet](./🧠%20Memory/STATUS.md)
+- [Token Map (correspondance token ↔ réel)](./🧠%20Memory/TOKEN%20MAP.md)
+- [Pièces citées (PIECES MAP)](./🧠%20Memory/PIECES%20MAP.md)
+- [Règles permanentes](./🧠%20Memory/RULES.md)
+- [Dernière évaluation Dintilhac](./⚖️%20Actes/🔑%20Token/💰%20Etudes%20indemnisation/12%20Évaluation%20Dintilhac%20détaillée.md)
+- [Todo & priorités](./🧠%20Memory/TODO.md)
 
 ---
 

@@ -311,8 +311,8 @@ type: rapport
 ### Modèles de Lettres Disponibles
 
 Tous les modèles sont disponibles dans :
-- [⚖️ Actes/🔑 Token/✉️ Courriers](⚖️ Actes/🔑 Token/✉️ Courriers/README.md) (versions anonymisées)
-- [⚖️ Actes/👤 Reel/✉️ Courriers](⚖️ Actes/👤 Reel/✉️ Courriers/README.md) (versions réelles)
+- [⚖️ Actes/🔑 Token/✉️ Courriers](⚖️%20Actes/🔑%20Token/✉️%20Courriers/README.md) (versions anonymisées)
+- [⚖️ Actes/👤 Reel/✉️ Courriers](⚖️%20Actes/👤%20Reel/✉️%20Courriers/README.md) (versions réelles)
 
 ### Procédure d'Envoi
 
@@ -416,11 +416,11 @@ gantt
 
 ### Ressources Disponibles
 
-- **Données juridiques** : 3.6 MB dans [📊 Rapports](📊 Rapports/README.md)
+- **Données juridiques** : 3.6 MB dans [📊 Rapports](📊%20Rapports/README.md)
 - **Références formatées** : `REFERENCES_MARKDOWN_20260710.json`
 - **Décisions sélectionnées** : `DECISIONS_SELECTIONNEES_20260710.json`
 - **Annexes jurisprudentielles** : `⚖️ Actes/📎 Annexes/` (3 décisions complètes)
-- **Documentation MCP** : [📜 Lois/EXEMPLES_REQUETES_MCP.md](📜 Lois/EXEMPLES_REQUETES_MCP.md)
+- **Documentation MCP** : [📜 Lois/EXEMPLES_REQUETES_MCP.md](📜%20Lois/EXEMPLES_REQUETES_MCP.md)
 
 ### Indicateurs de Succès
 
