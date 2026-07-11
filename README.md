@@ -1,8 +1,13 @@
 # Accident Main — Dossier Juridique
 
-**Victime** : Sébastien GRAZIDE · **Date accident** : 29 mai 2026 · **Lieu** : 22 Rue Lafaurie, 09000 Foix
+**Victime** : Sébastien GRAZIDE ·
+**Date accident** : 29 mai 2026 ·
+**Lieu** : 22 Rue Lafaurie, 09000 Foix
+
 **Nature** : Section nerveuse/tendineuse main droite (suture nerf) — chute après escalade d'une vasque céramique cassée
+
 **Contentieux** : Civil (référé-provision 835 CPC, action directe L.124-3 C.assur.) + Pénal (plainte, CPC)
+
 **Évaluation préjudices** : ~92 000 € (Dintilhac consolidé)
 
 ---
@@ -20,18 +25,16 @@
 
 ## 🗂️ Arborescence du dossier
 
-```
-📁 accident-main/
-├── ⚖️_Actes/
-│   ├── 🔑_Token/          ← Versions anonymisées (travail courant des agents)
-│   └── 👤_Reel/           ← Versions réelles (générées automatiquement)
-├── 📜_Lois/               ← Fiches jurisprudence + articles de loi vérifiés
-├── 🧠_Memory/             ← Mémoire persistante (agents IA + humains)
-├── 📊_Rapports/            ← Rapports d'audit, expertise, validation
-├── 📦_pieces/              ← Pièces originales (stockage, pas d'édition)
-├── .dev/app/               ← Scripts Python (tools, scripts, pipelines)
-└── README.md                ← 🔴 CETTE PAGE — Porte d'entrée (toujours à jour)
-```
+📁 [accident-main/](./)  ← Dossier racine
+├── ⚖️ [📁 _Actes/](⚖️_Actes/README.md)
+│   ├── 🔑 [📁 _Token/](⚖️_Actes/🔑_Token/README.md)  ← Versions anonymisées (travail courant des agents)
+│   └── 👤 [📁 _Reel/](⚖️_Actes/👤_Reel/README.md)  ← Versions réelles (générées automatiquement)
+├── 📜 [📁 _Lois/](📜_Lois/README.md)  ← Fiches jurisprudence + articles de loi vérifiés
+├── 🧠 [📁 _Memory/](🧠_Memory/README.md)  ← Mémoire persistante (agents IA + humains)
+├── 📊 [📁 _Rapports/](📊_Rapports/README.md)  ← Rapports d'audit, expertise, validation
+├── 🚦 [📁 _Status/](🚦_Status/README.md)  ← Statut et suivi du projet
+├── .dev [📁 /app/](.dev/app/README.md)  ← Scripts Python (tools, scripts, pipelines)
+└── 📄 [README.md](./README.md)  ← 🔴 CETTE PAGE — Porte d'entrée (toujours à jour)
 
 ---
 
@@ -141,6 +144,7 @@
 | `.dev/app/drive_client.py` | Client Google Drive CLI |
 | `.dev/app/batch_anonymize.py` | Anonymisation de documents |
 | `.dev/app/batch_link_legifrance.py` | Insertion liens Légifrance/Judilibre |
+| `.dev/app/inject_frontmatter.py` | Injection YAML frontmatter (LEGIARTI/JURITEXT) dans 📜_Lois/ |
 
 ---
 

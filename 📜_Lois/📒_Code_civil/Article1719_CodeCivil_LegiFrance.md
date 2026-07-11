@@ -1,0 +1,30 @@
+🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Code_civil](README.md) > 📄 [Article1719_CodeCivil_LegiFrance.md](Article1719_CodeCivil_LegiFrance.md)
+
+---
+title: "Article 1719 — Code civil"
+type: law_article
+code: "Code civil"
+article: "1719"
+legiarti: LEGIARTI000020459127
+status: "en_vigueur"
+last_verified:
+url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127"
+---
+
+# Code civil — Art. 1719
+
+
+Code civil
+EN VIGUEUR DEPUIS LE 28/03/2009
+Article 1719
+VERSION EN VIGUEUR DEPUIS LE 28/03/2009
+Modifié par LOI n°2009-323 du 25 mars 2009 - art. 58
+Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation
+particulière :
+1° De délivrer au preneur la chose louée et, s'il s'agit de son habitation principale, un logement
+décent. Lorsque des locaux loués à usage d'habitation sont impropres à cet usage, le bailleur ne
+peut se prévaloir de la nullité du bail ou de sa résiliation pour demander l'expulsion de
+l'occupant ;
+2° D'entretenir cette chose en état de servir à l'usage pour lequel elle a été louée ;
+3° D'en faire jouir paisiblement le preneur pendant la durée du bail ;
+4° D'assurer également la permanence et la qualité des plantations.
