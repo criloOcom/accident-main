@@ -1,14 +1,13 @@
 🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Code_penal](README.md) > 📄 [Article222-20_CodePenal_LegiFrance.md](Article222-20_CodePenal_LegiFrance.md)
 
 ---
-title: "Article 222-20 — Code pénal"
-type: law_article
-code: "Code pénal"
-article: "222-20"
-legiarti: LEGIARTI000024042640
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640"
+title: Code pénal — Art. 222-20
+code: Code Penal
+article: Inconnu
+date: 2026-07-10
+source: Légifrance
+status: En vigueur
+url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417900
 ---
 
 # Code pénal — Art. 222-20

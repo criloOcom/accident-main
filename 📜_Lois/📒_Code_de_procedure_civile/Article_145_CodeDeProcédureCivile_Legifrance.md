@@ -1,14 +1,13 @@
 🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Code_de_procedure_civile](README.md) > 📄 [Article_145_CodeDeProcédureCivile_Legifrance.md](Article_145_CodeDeProcédureCivile_Legifrance.md)
 
 ---
-title: "Article 145 — Code de procédure civile"
-type: law_article
-code: "Code de procédure civile"
-article: "145"
-legiarti: LEGIARTI000051869339
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339"
+title: Code civil — Art. 145
+code: Code Procedure Civile
+article: 145
+date: 2026-07-10
+source: Légifrance
+status: En vigueur
+url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006438100
 ---
 
 # Code civil — Art. 145

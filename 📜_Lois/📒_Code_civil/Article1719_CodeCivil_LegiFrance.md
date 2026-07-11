@@ -1,14 +1,13 @@
 🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Code_civil](README.md) > 📄 [Article1719_CodeCivil_LegiFrance.md](Article1719_CodeCivil_LegiFrance.md)
 
 ---
-title: "Article 1719 — Code civil"
-type: law_article
-code: "Code civil"
-article: "1719"
-legiarti: LEGIARTI000020459127
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127"
+title: Code civil — Art. 1719
+code: Code Civil
+article: Inconnu
+date: 2026-07-10
+source: Légifrance
+status: En vigueur
+url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006437410
 ---
 
 # Code civil — Art. 1719

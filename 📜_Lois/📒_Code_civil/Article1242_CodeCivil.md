@@ -1,14 +1,13 @@
 🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Code_civil](README.md) > 📄 [Article1242_CodeCivil.md](Article1242_CodeCivil.md)
 
 ---
-title: "Article 1242 — Code civil"
-type: law_article
-code: "Code civil"
-article: "1242"
-legiarti: LEGIARTI000051786000
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000"
+title: Code civil — Art. 1242
+code: Code Civil
+article: Inconnu
+date: 2026-07-10
+source: Légifrance
+status: En vigueur
+url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006436343
 ---
 
 # Code civil — Art. 1242

@@ -1,14 +1,13 @@
 🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Autres_codes](README.md) > 📄 [Article_R143-2_Codeconstructionhabitation_Legifrance.md](Article_R143-2_Codeconstructionhabitation_Legifrance.md)
 
 ---
-title: "Article R143-2 — Code de la construction et de l'habitation"
-type: law_article
-code: "Code de la construction et de l'habitation"
-article: "R143-2"
-legiarti: LEGIARTI000043818941
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818941"
+title: Articles R. 143-2 et suivants CCH
+code: Autres Codes
+article: R143
+date: 2026-07-10
+source: Légifrance
+status: En vigueur
+url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006440100
 ---
 
 # Articles R. 143-2 et suivants CCH

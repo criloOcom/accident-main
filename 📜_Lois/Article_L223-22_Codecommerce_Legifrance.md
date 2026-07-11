@@ -1,3 +1,13 @@
+---
+title: Article L. 223-22
+code: Code Commerce
+article: L223
+date: 2026-07-10
+source: Légifrance
+status: En vigueur
+url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006439300
+---
+
 # Article L. 223-22
 
 > **Nature** : Code

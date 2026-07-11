@@ -1,14 +1,13 @@
 🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Code_penal](README.md) > 📄 [Article_222-19_CodePenal_Legifrance.md](Article_222-19_CodePenal_Legifrance.md)
 
 ---
-title: "Article 222-19 — Code pénal"
-type: law_article
-code: "Code pénal"
-article: "222-19"
-legiarti: LEGIARTI000024042643
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643"
+title: Code pénal — Art. 222-19
+code: Code Penal
+article: 222
+date: 2026-07-10
+source: Légifrance
+status: En vigueur
+url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417899
 ---
 
 # Code pénal — Art. 222-19

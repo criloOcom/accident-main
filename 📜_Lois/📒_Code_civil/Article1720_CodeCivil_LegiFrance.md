@@ -1,14 +1,13 @@
 🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Code_civil](README.md) > 📄 [Article1720_CodeCivil_LegiFrance.md](Article1720_CodeCivil_LegiFrance.md)
 
 ---
-title: "Article 1720 — Code civil"
-type: law_article
-code: "Code civil"
-article: "1720"
-legiarti: LEGIARTI000006442784
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784"
+title: Code civil — Art. 1720
+code: Code Civil
+article: Inconnu
+date: 2026-07-10
+source: Légifrance
+status: En vigueur
+url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006437411
 ---
 
 # Code civil — Art. 1720

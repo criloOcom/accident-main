@@ -1,14 +1,13 @@
 🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Autres_codes](README.md) > 📄 [Article_L421-3_Codeconsommation_Legifrance.md](Article_L421-3_Codeconsommation_Legifrance.md)
 
 ---
-title: "Article L421-3 — Code de la consommation"
-type: law_article
-code: "Code de la consommation"
-article: "L421-3"
-legiarti: LEGIARTI000049464053
-status: "en_vigueur"
-last_verified:
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053"
+title: Article L421-3
+code: Autres Codes
+article: L421
+date: 2026-07-10
+source: Légifrance
+status: En vigueur
+url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006440000
 ---
 
 # Article L421-3

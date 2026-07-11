@@ -1,3 +1,13 @@
+---
+title: Article L. 225-251
+code: Code Commerce
+article: L225
+date: 2026-07-10
+source: Légifrance
+status: En vigueur
+url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006439400
+---
+
 # Article L. 225-251
 
 > **Nature** : Code
