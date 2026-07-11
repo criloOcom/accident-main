@@ -40,7 +40,7 @@ graph TD
 
 ### Documentation Technique
 
-- **RAPPORT_JURISPRUDENCES.md** - Analyse des jurisprudences citées
+- **[RAPPORT_JURISPRUDENCES.md](../📊%20Rapports/🗄️%20Archives/audit/RAPPORT_JURISPRUDENCES.md)** - Analyse des jurisprudences citées
 - **[DESIGN](DESIGN.md)**
 - **[EVIDENCE_MATRIX](EVIDENCE_MATRIX.md)**
 - **[FINANCIAL_VARIABLES_DEPRECATED](FINANCIAL_VARIABLES_DEPRECATED.md)**

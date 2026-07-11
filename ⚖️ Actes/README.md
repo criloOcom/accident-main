@@ -51,10 +51,10 @@ graph TD
 
 ## 📋 Sous-dossiers 🔑 Token/ (miroir identique dans 👤 Reel/)
 
-- **[Preuves officielles](%F0%9F%94%91_Token/00_%F0%9F%93%82_Preuves_officielles/README.md)** — Documents physiques, CR opératoire, PV police
-- **[Actes procéduraux](%F0%9F%94%91_Token/01_%E2%9A%96%EF%B8%8F_Actes_proceduraux/README.md)** — Assignations, conclusions, requêtes
-- **[Courriers](%F0%9F%94%91_Token/02_%E2%9C%89%EF%B8%8F_Courriers/README.md)** — Mises en demeure, signalements, relances
-- **[Analyses juridiques](%F0%9F%94%91_Token/03_%F0%9F%93%9A_Analyses_juridiques/README.md)** — Plaidoiries, FAQ, mémorandums
-- **[Études d'indemnisation](%F0%9F%94%91_Token/04_%F0%9F%92%B0_Etudes_indemnisation/README.md)** — Évaluation Dintilhac (59 600 €)
-- **[Organisation](%F0%9F%94%91_Token/05_%F0%9F%97%82%EF%B8%8F_Organisation/README.md)** — Index, plan d'action, calendrier
-- **[Archives](%F0%9F%94%91_Token/06_%F0%9F%97%84%EF%B8%8F_Archives/README.md)** — Anciens documents de travail, annexes
+- **[📂 Preuves officielles](🔑%20Token/📂%20Preuves%20officielles/README.md)** — Documents physiques, CR opératoire, PV police
+- **[⚖️ Actes procéduraux](🔑%20Token/⚖️%20Actes%20proceduraux/README.md)** — Assignations, conclusions, requêtes
+- **[✉️ Courriers](🔑%20Token/✉️%20Courriers/README.md)** — Mises en demeure, signalements, relances
+- **[📚 Analyses juridiques](🔑%20Token/📚%20Analyses%20juridiques/README.md)** — Plaidoiries, FAQ, mémorandums
+- **[💰 Études d'indemnisation](🔑%20Token/💰%20Etudes%20indemnisation/README.md)** — Évaluation Dintilhac (59 600 €)
+- **[🗂️ Organisation](🔑%20Token/🗂️%20Organisation/README.md)** — Index, plan d'action, calendrier
+- **[🗄️ Archives](🔑%20Token/🗄️%20Archives/README.md)** — Anciens documents de travail, annexes

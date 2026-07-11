@@ -73,9 +73,9 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [Art. 434-15-1](📒%20Code%20penal/Article_434-15-1_CodePenal_Legifrance.md) — Obstruction aggravée ✨ NOUVEAU
 
 ### 📒 Code de procédure civile (4 articles)
-- [Art. 145](📒%20Autres%20codes/Article_145_CodeDeProcédureCivile_Legifrance.md) — Mesures d'instruction
-- [Art. 263](📒%20Autres%20codes/Article_263_Codeproc_Legifrance.md) — Expertise judiciaire
-- [Art. 700](📒%20Autres%20codes/Article_700_Codeproc_Legifrance.md) — Frais irrépétibles
+- [Art. 145](📒%20Code%20procedure%20civile/Article_145_CodeDeProcédureCivile_Legifrance.md) — Mesures d'instruction
+- [Art. 263](📒%20Code%20procedure%20civile/Article_263_Codeproc_Legifrance.md) — Expertise judiciaire
+- [Art. 700](📒%20Code%20procedure%20civile/Article_700_Codeproc_Legifrance.md) — Frais irrépétibles
 - [Art. 835](📒%20Code%20procedure%20civile/Article835_CodeDeProcedureCivile_LegiFrance.md) — Référé-provision
 
 ### 📒 Code de procédure pénale (2 articles)

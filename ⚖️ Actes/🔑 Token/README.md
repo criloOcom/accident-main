@@ -23,17 +23,17 @@ Les identités réelles (noms, adresses, email, immatriculations) y sont remplac
 
 - **Toute modification se fait ici.** Ne jamais modifier les fichiers dans `reel/`.
 - Un fichier créé ou modifié dans `token/` doit être propagé dans `reel/` via le script.
-- Les tokens sont définis dans [🧠 Memory/TOKEN MAP.md](../../%F0%9F%A7%A0_Memory/TOKEN%20MAP.md) et [🧠 Memory/STRICT VARIABLES.md](../../%F0%9F%A7%A0_Memory/STRICT%20VARIABLES.md).
+- Les tokens sont définis dans [🧠 Memory/TOKEN MAP.md](../../🧠%20Memory/TOKEN%20MAP.md) et [🧠 Memory/STRICT VARIABLES.md](../../🧠%20Memory/STRICT%20VARIABLES.md).
 
 ## 📂 Contenu
 
-- **[00 — Preuves officielles](00_%F0%9F%93%82_Preuves_officielles/README.md)** — 0 fichier · Documents physiques (en attente d'insertion)
-- **[01 — Actes procéduraux](01_%E2%9A%96%EF%B8%8F_Actes_proceduraux/README.md)** — 6 fichiers · Pièces juridiques principales (assignations, conclusions)
-- **[02 — Courriers](02_%E2%9C%89%EF%B8%8F_Courriers/README.md)** — 20 fichiers · Correspondance avec tiers (administrations, assurances)
-- **[03 — Analyses juridiques](03_%F0%9F%93%9A_Analyses_juridiques/README.md)** — 4 fichiers · Plaidoiries, FAQ, analyses de fond
-- **[04 — Études d'indemnisation](04_%F0%9F%92%B0_Etudes_indemnisation/README.md)** — 1 fichier · Évaluation financière des préjudices
-- **[05 — Organisation](05_%F0%9F%97%82%EF%B8%8F_Organisation/README.md)** — 3 fichiers · Index, plan d'action, calendrier
-- **[06 — Archives](06_%F0%9F%97%84%EF%B8%8F_Archives/README.md)** — 7 fichiers · Anciennes versions, annexes, lexique
+- **[00 — Preuves officielles](📂%20Preuves%20officielles/README.md)** — 0 fichier · Documents physiques (en attente d'insertion)
+- **[01 — Actes procéduraux](⚖️%20Actes%20proceduraux/README.md)** — 6 fichiers · Pièces juridiques principales (assignations, conclusions)
+- **[02 — Courriers](✉️%20Courriers/README.md)** — 20 fichiers · Correspondance avec tiers (administrations, assurances)
+- **[03 — Analyses juridiques](📚%20Analyses%20juridiques/README.md)** — 4 fichiers · Plaidoiries, FAQ, analyses de fond
+- **[04 — Études d'indemnisation](💰%20Etudes%20indemnisation/README.md)** — 1 fichier · Évaluation financière des préjudices
+- **[05 — Organisation](🗂️%20Organisation/README.md)** — 3 fichiers · Index, plan d'action, calendrier
+- **[06 — Archives](🗄️%20Archives/README.md)** — 7 fichiers · Anciennes versions, annexes, lexique
 
 ## 🗺️ Cartographie du dossier (interactif)
 
