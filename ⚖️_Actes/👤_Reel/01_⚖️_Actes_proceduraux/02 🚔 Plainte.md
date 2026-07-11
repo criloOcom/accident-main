@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 02 🚔 Plainte.md ](.02 🚔 Plainte.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 02 🚔 Plainte.md ](.02 🚔 Plainte.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 02 🚔 Plainte.md ](.02 🚔 Plainte.md) -->
 
 ---
 titre: Plainte Complément — Défaut d'Assurance RC - Version réelle
@@ -33,7 +27,6 @@ reel_path: ../../👤_Reel/01_⚖️_Actes_proceduraux/02 🚔 Plainte.md
 ---
 # COMPLÉMENT DE PLAINTE PÉNALE — DÉFAUT D'ASSURANCE RC
 Rédigé le 30 juin 2026
-
 
 10 Avenue de Purpan, 31700 Blagnac
 
@@ -92,7 +85,6 @@ Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la comm
 
 Ce silence persistant, malgré l'envoi de courriers recommandés le 29 juin 2026, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
 
-
 <hr><hr>
 
 ## II. DISCUSSION JURIDIQUE
@@ -124,7 +116,6 @@ Par ailleurs, ce défaut de souscription ou d'information peut constituer une fa
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
 
-
 <hr><hr>
 
 ## III. CONSÉQUENCES ET PRÉJUDICES
@@ -141,7 +132,6 @@ Sur le plan financier, le plaignant est privé de revenus depuis l'accident.
 Les pertes d'exploitation sont d'ores et déjà significatives et le préjudice global est estimé à ce jour à la somme de **~90 000 €**.
 
 L'absence de communication de l'assurance bloque toute offre d'indemnisation amiable, l'accès à une expertise médicale contradictoire et la prise en charge des soins par la CPAM (dossier [ ... ]).
-
 
 <hr><hr>
 

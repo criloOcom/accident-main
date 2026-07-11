@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_121-3_Code_Legifrance.md ](.Article_121-3_Code_Legifrance.md) -->
+
 ---
 title: Article 121-3
 code: Autres Codes
@@ -8,16 +10,6 @@ status: En vigueur
 ---
 
 # Article 121-3
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_121-3_Code_Legifrance.md ](.Article_121-3_Code_Legifrance.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_121-3_Code_Legifrance.md ](.Article_121-3_Code_Legifrance.md)
-```
 
 > **Nature** : Code
 

@@ -1,4 +1,4 @@
-🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Code_de_procedure_penale](README.md) > 📄 [Article475-1_CodeProcedurePenale.md](Article475-1_CodeProcedurePenale.md)
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_de_procedure_penale ](../README.md) > 📄 [ Article475-1_CodeProcedurePenale.md ](.Article475-1_CodeProcedurePenale.md) -->
 
 ---
 title: "Article 475-1 — Code de procédure pénale"
@@ -12,7 +12,6 @@ url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107"
 ---
 
 # Code pénal — Art. 475-1
-
 
 Code de procédure pénale
 EN VIGUEUR DEPUIS LE 24/12/2021

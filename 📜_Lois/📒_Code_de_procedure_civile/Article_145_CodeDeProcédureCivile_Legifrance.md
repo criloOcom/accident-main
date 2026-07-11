@@ -1,4 +1,4 @@
-🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Code_de_procedure_civile](README.md) > 📄 [Article_145_CodeDeProcédureCivile_Legifrance.md](Article_145_CodeDeProcédureCivile_Legifrance.md)
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_de_procedure_civile ](../README.md) > 📄 [ Article_145_CodeDeProcédureCivile_Legifrance.md ](.Article_145_CodeDeProcédureCivile_Legifrance.md) -->
 
 ---
 title: Code civil — Art. 145
@@ -11,7 +11,6 @@ url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006438100
 ---
 
 # Code civil — Art. 145
-
 
 Code de procédure civile
 EN VIGUEUR DEPUIS LE 01/09/2025

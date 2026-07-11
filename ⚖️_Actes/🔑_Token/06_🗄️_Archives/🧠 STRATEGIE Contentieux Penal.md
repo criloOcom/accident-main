@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🧠 STRATEGIE Contentieux Penal.md ](.🧠 STRATEGIE Contentieux Penal.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🧠 STRATEGIE Contentieux Penal.md ](.🧠 STRATEGIE Contentieux Penal.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🧠 STRATEGIE Contentieux Penal.md ](.🧠 STRATEGIE Contentieux Penal.md) -->
 
 ---
 titre: STRATEGIE Contentieux Penal
@@ -44,7 +38,6 @@ reel_path: ../../👤_Reel/06_🗄️_Archives/🧠 STRATEGIE Contentieux Penal.
   - [3.5 INDEMNISATION PAR LE FGTI / CIVI](#35-indemnisation-par-le-fgti-civi)
 - [4. CALENDRIER PROCÉDURAL](#4-calendrier-procdural)
 - [5. RÉCAPITULATIF DES PIÈCES](#5-rcapitulatif-des-pices)
-
 
 # STRATEGIE CONTENTIEUX PENAL
 Rédigé le **[J+36 Lettre consolidation]**

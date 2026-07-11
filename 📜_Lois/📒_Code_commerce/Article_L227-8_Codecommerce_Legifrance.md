@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L227-8_Codecommerce_Legifrance.md ](.Article_L227-8_Codecommerce_Legifrance.md) -->
+
 ---
 title: Article L227-8
 code: Code Commerce
@@ -8,16 +10,6 @@ status: En vigueur
 ---
 
 # Article L227-8
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L227-8_Codecommerce_Legifrance.md ](.Article_L227-8_Codecommerce_Legifrance.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L227-8_Codecommerce_Legifrance.md ](.Article_L227-8_Codecommerce_Legifrance.md)
-```
 
 > **Nature** : Code
 

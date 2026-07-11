@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 29 ✉️ Courrier Maire Foix.md ](.29 ✉️ Courrier Maire Foix.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 29 ✉️ Courrier Maire Foix.md ](.29 ✉️ Courrier Maire Foix.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 29 ✉️ Courrier Maire Foix.md ](.29 ✉️ Courrier Maire Foix.md) -->
 
 ---
 titre: Mise en demeure de la Mairie — Police Administrative - Version réelle

@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_procedure_civile ](../README.md) > 📄 [ Article_700_Codeproc_Legifrance.md ](.Article_700_Codeproc_Legifrance.md) -->
+
 ---
 title: Article 700
 code: Code Procedure Civile
@@ -8,16 +10,6 @@ status: En vigueur
 ---
 
 # Article 700
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_700_Codeproc_Legifrance.md ](.Article_700_Codeproc_Legifrance.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_700_Codeproc_Legifrance.md ](.Article_700_Codeproc_Legifrance.md)
-```
 
 > **Nature** : Code
 

@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 10 ✉️ Courrier Doyen Juges Instruction.md ](.10 ✉️ Courrier Doyen Juges Instruction.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 10 ✉️ Courrier Doyen Juges Instruction.md ](.10 ✉️ Courrier Doyen Juges Instruction.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 10 ✉️ Courrier Doyen Juges Instruction.md ](.10 ✉️ Courrier Doyen Juges Instruction.md) -->
 
 ---
 titre: Courrier Doyen des Juges d'Instruction — Constitution de Partie Civile
@@ -41,20 +35,16 @@ Courriel : **[L'Email de la Victime]**
 
 **[L'Identifiant Professionnel de la Victime]**
 
-
 À l'attention de Monsieur le Doyen des Juges d'Instruction
 Tribunal Judiciaire de **[La Ville de l'Accident]**
 **[Adresse Tribunal Judiciaire]**
 09008 **[La Ville de l'Accident]** Cedex
 
-
 **[La Ville de Résidence de la Victime]**, le **[J+38 Constitution PC]**
-
 
 **Objet : Dépôt d'une plainte avec constitution de partie civile pour blessures involontaires**
 
 **Réf. Parquet : Plainte initiale n° [ ... ] (dépôt du **[J+4 Dépôt de plainte]**)**
-
 
 Monsieur le Doyen des Juges d'Instruction,
 
@@ -73,7 +63,6 @@ Je me tiens à votre entière disposition pour être entendu et participer à to
 Je vous prie d'agréer, Monsieur le Doyen des Juges d'Instruction, l'expression de mes salutations respectueuses.
 
 **[La Victime]**
-
 
 **Pièces jointes :**
 - Plainte avec constitution de partie civile datée du **[J+38 Constitution PC]**

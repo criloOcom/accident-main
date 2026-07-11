@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_REORGANISATION_PREUVES_20260711.md ](.RAPPORT_AUDIT_REORGANISATION_PREUVES_20260711.md) -->
+
 # RAPPORT D'AUDIT — Réorganisation des Preuves Officielles
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_REORGANISATION_PREUVES_20260711.md ](.RAPPORT_AUDIT_REORGANISATION_PREUVES_20260711.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_REORGANISATION_PREUVES_20260711.md ](.RAPPORT_AUDIT_REORGANISATION_PREUVES_20260711.md)
-```
 
 **Date** : 11 juillet 2026
 **Projet** : Accident Main - Dossier Sébastien GRAZIDE

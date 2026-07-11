@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ EXEMPLES_REQUETES_MCP.md ](.EXEMPLES_REQUETES_MCP.md) -->
+
 # Exemples de Requêtes MCP Valides
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ EXEMPLES_REQUETES_MCP.md ](.EXEMPLES_REQUETES_MCP.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ EXEMPLES_REQUETES_MCP.md ](.EXEMPLES_REQUETES_MCP.md)
-```
 
 Ce document fournit des exemples concrets et testés pour utiliser les MCP Légifrance et Judilibre dans le cadre du projet "accident-main".
 

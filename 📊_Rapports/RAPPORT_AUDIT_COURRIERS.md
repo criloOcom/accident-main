@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_COURRIERS.md ](.RAPPORT_AUDIT_COURRIERS.md) -->
+
 # RAPPORT D'AUDIT — Courriers (02_✉️_Courriers)
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_COURRIERS.md ](.RAPPORT_AUDIT_COURRIERS.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_COURRIERS.md ](.RAPPORT_AUDIT_COURRIERS.md)
-```
 
 **Date :** 10 juillet 2026  
 **Périmètre :** `⚖️_Actes/🔑_Token/02_✉️_Courriers/` (fichiers 03 à 35)  

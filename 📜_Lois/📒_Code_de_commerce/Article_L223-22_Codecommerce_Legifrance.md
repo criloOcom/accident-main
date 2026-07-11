@@ -1,4 +1,4 @@
-🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Code_de_commerce](README.md) > 📄 [Article_L223-22_Codecommerce_Legifrance.md](Article_L223-22_Codecommerce_Legifrance.md)
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_de_commerce ](../README.md) > 📄 [ Article_L223-22_Codecommerce_Legifrance.md ](.Article_L223-22_Codecommerce_Legifrance.md) -->
 
 ---
 title: "Article L223-22 — Code de commerce"
@@ -12,7 +12,6 @@ url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141"
 ---
 
 # Article L. 223-22
-
 
 Code de commerce
 EN VIGUEUR DEPUIS LE 21/09/2000

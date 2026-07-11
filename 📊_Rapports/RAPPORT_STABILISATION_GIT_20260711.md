@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_STABILISATION_GIT_20260711.md ](.RAPPORT_STABILISATION_GIT_20260711.md) -->
+
 # Rapport de Stabilisation Git - 11 Juillet 2026
 
 ## Statut : ✅ COMPLÉTÉ - Branche main stabilisée et synchronisée

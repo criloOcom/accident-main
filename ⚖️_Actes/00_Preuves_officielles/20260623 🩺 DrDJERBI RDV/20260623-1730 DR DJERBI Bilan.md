@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260623 🩺 DrDJERBI RDV ](../README.md) > 📄 [ 20260623-1730 DR DJERBI Bilan.md ](.20260623-1730 DR DJERBI Bilan.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260623 🩺 DrDJERBI RDV ](../README.md) > 📄 [ 20260623-1730 DR DJERBI Bilan.md ](.20260623-1730 DR DJERBI Bilan.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260623 🩺 DrDJERBI RDV ](../README.md) > 📄 [ 20260623-1730 DR DJERBI Bilan.md ](.20260623-1730 DR DJERBI Bilan.md) -->
 
 ---
 titre: Bilan — Docteur DJERBI
@@ -32,8 +26,6 @@ verifie: false
 > En cas d'erreur, corriger le PDF source et ré-exporter.
 > drive_id: 1Xaz3iA_-40WtHRkOe_db1NcO-tBxAENQ
 > drive_url: https://drive.google.com/file/d/1Xaz3iA_-40WtHRkOe_db1NcO-tBxAENQ/view
-
-
 
 --- Page 1 ---
 
@@ -80,4 +72,3 @@ ts is 5 ee
 €
 
 fs «4. LE
-

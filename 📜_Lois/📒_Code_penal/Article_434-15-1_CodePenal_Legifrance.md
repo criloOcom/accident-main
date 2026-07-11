@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..README.md) > 📁 [ 📒_Code_penal ](.README.md) > 📄 [ Article_434-15-1_CodePenal_Legifrance.md ](.Article_434-15-1_CodePenal_Legifrance.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..README.md) > 📁 [ 📒_Code_penal ](.README.md) > 📄 [ Article_434-15-1_CodePenal_Legifrance.md ](.Article_434-15-1_CodePenal_Legifrance.md)
-```
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_434-15-1_CodePenal_Legifrance.md ](.Article_434-15-1_CodePenal_Legifrance.md) -->
 
 # Article 434-15-1 du Code pénal
 

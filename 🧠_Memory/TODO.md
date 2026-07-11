@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ TODO.md ](.TODO.md) -->
+
 # TODO — Plans d'action + Tableau de bord Sébastien
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ TODO.md ](.TODO.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ TODO.md ](.TODO.md)
-```
 
 > **Dernière mise à jour :** 10 juillet 2026
 >

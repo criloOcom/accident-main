@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](..../README.md) > 📁 [ 📎_Annexes ](../README.md) > 📄 [ ANNEXE_2_Decision_CC_CIV1_1994-07-08.md ](.ANNEXE_2_Decision_CC_CIV1_1994-07-08.md) -->
+
 # ANNEXE 2 - Décision Cour de Cassation, Première Chambre Civile, 8 juillet 1994
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](..../README.md) > 📁 [ 📎_Annexes ](../README.md) > 📄 [ ANNEXE_2_Decision_CC_CIV1_1994-07-08.md ](.ANNEXE_2_Decision_CC_CIV1_1994-07-08.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](..../README.md) > 📁 [ 📎_Annexes ](../README.md) > 📄 [ ANNEXE_2_Decision_CC_CIV1_1994-07-08.md ](.ANNEXE_2_Decision_CC_CIV1_1994-07-08.md)
-```
 
 **Numéro de pourvoi:** 90-14.591
 **ID Judilibre:** `60794c949ba5988459c4612e`

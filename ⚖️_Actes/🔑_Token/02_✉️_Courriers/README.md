@@ -1,18 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ README.md ](.README.md) -->
+
 # ✉️ Courriers
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ README.md ](.README.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ README.md ](.README.md)
-```
-
-```
-🏠 [Accueil](../../../README.md) → 📁 [actes](../../README.md) → 🔒 [token](../README.md) → ✉️ 02_✉️_Courriers/
-```
 
 ---
 

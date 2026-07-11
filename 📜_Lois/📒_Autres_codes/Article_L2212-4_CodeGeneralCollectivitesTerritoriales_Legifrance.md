@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L2212-4_CodeGeneralCollectivitesTerritoriales_Legifrance.md ](.Article_L2212-4_CodeGeneralCollectivitesTerritoriales_Legifrance.md) -->
+
 ---
 title: Article L. 2212-4 du Code général des collectivités territoriales
 code: Autres Codes
@@ -8,16 +10,6 @@ status: En vigueur
 ---
 
 # Article L. 2212-4 du Code général des collectivités territoriales
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L2212-4_CodeGeneralCollectivitesTerritoriales_Legifrance.md ](.Article_L2212-4_CodeGeneralCollectivitesTerritoriales_Legifrance.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L2212-4_CodeGeneralCollectivitesTerritoriales_Legifrance.md ](.Article_L2212-4_CodeGeneralCollectivitesTerritoriales_Legifrance.md)
-```
 
 **Identifiant Légifrance :** LEGIARTI000006390155
 **Thème :** Pouvoirs de police du maire en cas de danger

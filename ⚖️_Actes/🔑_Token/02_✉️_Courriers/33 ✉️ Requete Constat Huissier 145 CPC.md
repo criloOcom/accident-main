@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 33 ✉️ Requete Constat Huissier 145 CPC.md ](.33 ✉️ Requete Constat Huissier 145 CPC.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 33 ✉️ Requete Constat Huissier 145 CPC.md ](.33 ✉️ Requete Constat Huissier 145 CPC.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 33 ✉️ Requete Constat Huissier 145 CPC.md ](.33 ✉️ Requete Constat Huissier 145 CPC.md) -->
 
 ---
 titre: Requête au Président du TJ aux Fins de Constat d'Huissier (Art. 145 CPC)

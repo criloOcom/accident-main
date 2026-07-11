@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ ameliorations_email34.md ](.ameliorations_email34.md) -->
+
 # Rapport d'Audit et Améliorations - Email 34 (Mairie de Foix)
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ ameliorations_email34.md ](.ameliorations_email34.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ ameliorations_email34.md ](.ameliorations_email34.md)
-```
 
 ## 1. Analyse section par section
 

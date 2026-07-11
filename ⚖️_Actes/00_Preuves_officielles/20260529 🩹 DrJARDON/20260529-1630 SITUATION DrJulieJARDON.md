@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260529 🩹 DrJARDON ](../README.md) > 📄 [ 20260529-1630 SITUATION DrJulieJARDON.md ](.20260529-1630 SITUATION DrJulieJARDON.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260529 🩹 DrJARDON ](../README.md) > 📄 [ 20260529-1630 SITUATION DrJulieJARDON.md ](.20260529-1630 SITUATION DrJulieJARDON.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260529 🩹 DrJARDON ](../README.md) > 📄 [ 20260529-1630 SITUATION DrJulieJARDON.md ](.20260529-1630 SITUATION DrJulieJARDON.md) -->
 
 ---
 titre: Compte Rendu de Situation — Docteur Julie JARDON
@@ -78,5 +72,3 @@ Signé via Doctolib le 29/05/2026
 Julie Jardon
 
 1/1
-
-

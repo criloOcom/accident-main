@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_NAVIGATION_INTERACTIVE_20260711.md ](.RAPPORT_NAVIGATION_INTERACTIVE_20260711.md) -->
+
 # Rapport: Navigation Interactive README.md
 
 ## Date: 11 juillet 2026

@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Transmission TribunalFOIX ](../README.md) > 📄 [ 20260629 ✉️ LR Transmission TribunalFOIX ProcureurDeLaRépublique.md ](.20260629 ✉️ LR Transmission TribunalFOIX ProcureurDeLaRépublique.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Transmission TribunalFOIX ](../README.md) > 📄 [ 20260629 ✉️ LR Transmission TribunalFOIX ProcureurDeLaRépublique.md ](.20260629 ✉️ LR Transmission TribunalFOIX ProcureurDeLaRépublique.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Transmission TribunalFOIX ](../README.md) > 📄 [ 20260629 ✉️ LR Transmission TribunalFOIX ProcureurDeLaRépublique.md ](.20260629 ✉️ LR Transmission TribunalFOIX ProcureurDeLaRépublique.md) -->
 
 ---
 titre: Lettre Recommandée — Transmission Tribunal de FOIX au Procureur de la République
@@ -107,5 +101,3 @@ travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement
 d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire
 justifie la prolongation involontaire de mes démarches administratives et les délais
 d'acheminement de la présente mise en demeure.
-
-

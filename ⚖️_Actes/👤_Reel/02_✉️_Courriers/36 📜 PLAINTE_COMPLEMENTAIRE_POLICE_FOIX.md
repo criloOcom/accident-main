@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md ](.36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md ](.36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md ](.36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md) -->
 
 ---
 titre: Plainte Complémentaire — Obstruction à la Justice et Dissimulation de Preuves - Version réelle

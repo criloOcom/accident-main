@@ -1,18 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ README.md ](.README.md) -->
+
 # ⚖️ Actes Procéduraux
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ README.md ](.README.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ README.md ](.README.md)
-```
-
-```
-🏠 [Accueil](../../../README.md) → 📁 [actes](../../README.md) → 🔒 [token](../README.md) → ⚖️ 01_⚖️_Actes_proceduraux/
-```
 
 ---
 

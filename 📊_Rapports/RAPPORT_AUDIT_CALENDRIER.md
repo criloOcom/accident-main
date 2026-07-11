@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_CALENDRIER.md ](.RAPPORT_AUDIT_CALENDRIER.md) -->
+
 # RAPPORT D'AUDIT DU CALENDRIER PROCÉDURAL
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_CALENDRIER.md ](.RAPPORT_AUDIT_CALENDRIER.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_CALENDRIER.md ](.RAPPORT_AUDIT_CALENDRIER.md)
-```
 
 **Référence :** J+0 = 29/05/2026 (vendredi)
 **Généré le :** 10/07/2026

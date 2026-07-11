@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 10 ✉️ Courrier Doyen Juges Instruction.md ](.10 ✉️ Courrier Doyen Juges Instruction.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 10 ✉️ Courrier Doyen Juges Instruction.md ](.10 ✉️ Courrier Doyen Juges Instruction.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 10 ✉️ Courrier Doyen Juges Instruction.md ](.10 ✉️ Courrier Doyen Juges Instruction.md) -->
 
 ---
 titre: Courrier Doyen des Juges d'Instruction — Constitution de Partie Civile - Version réelle
@@ -41,20 +35,16 @@ Courriel : sebastien.grazide@gmail.com
 
 500 474 457
 
-
 À l'attention de Monsieur le Doyen des Juges d'Instruction
 Tribunal Judiciaire de Foix
 **[Adresse Tribunal Judiciaire]**
 09008 Foix Cedex
 
-
 Blagnac, le 6 juillet 2026
-
 
 **Objet : Dépôt d'une plainte avec constitution de partie civile pour blessures involontaires**
 
 **Réf. Parquet : Plainte initiale n° [ ... ] (dépôt du 2 juin 2026)**
-
 
 Monsieur le Doyen des Juges d'Instruction,
 
@@ -73,7 +63,6 @@ Je me tiens à votre entière disposition pour être entendu et participer à to
 Je vous prie d'agréer, Monsieur le Doyen des Juges d'Instruction, l'expression de mes salutations respectueuses.
 
 Sébastien GRAZIDE
-
 
 **Pièces jointes :**
 - Plainte avec constitution de partie civile datée du 6 juillet 2026

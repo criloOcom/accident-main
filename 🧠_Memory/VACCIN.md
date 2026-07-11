@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ VACCIN.md ](.VACCIN.md) -->
+
 # VACCIN — Protocole obligatoire avant chaque action
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ VACCIN.md ](.VACCIN.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ VACCIN.md ](.VACCIN.md)
-```
 
 > **Objectif** : empêcher l'IA de livrer du travail médiocre en la forçant à
 > s'imprégner du contexte existant avant d'agir.

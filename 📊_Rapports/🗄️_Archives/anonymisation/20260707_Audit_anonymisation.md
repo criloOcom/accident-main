@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ anonymisation ](../README.md) > 📄 [ 20260707_Audit_anonymisation.md ](.20260707_Audit_anonymisation.md) -->
+
 # Audit d'Anonymisation
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ anonymisation ](../README.md) > 📄 [ 20260707_Audit_anonymisation.md ](.20260707_Audit_anonymisation.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ anonymisation ](../README.md) > 📄 [ 20260707_Audit_anonymisation.md ](.20260707_Audit_anonymisation.md)
-```
 
 **Date :** 2026-07-07
 **Périmètre :** `⚖️_Actes/🔑_Token/` (récursif)

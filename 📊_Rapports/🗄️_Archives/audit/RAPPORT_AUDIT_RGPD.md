@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_AUDIT_RGPD.md ](.RAPPORT_AUDIT_RGPD.md) -->
+
 # Audit RGPD et Anonymisation — Dossier Accident de la Main
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_AUDIT_RGPD.md ](.RAPPORT_AUDIT_RGPD.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_AUDIT_RGPD.md ](.RAPPORT_AUDIT_RGPD.md)
-```
 
 ## 1. Bilan des risques
 

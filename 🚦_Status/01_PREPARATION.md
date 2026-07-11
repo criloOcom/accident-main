@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 🚦_Status ](../README.md) > 📄 [ 01_PREPARATION.md ](.01_PREPARATION.md) -->
+
 # 📋 Préparation
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🚦_Status ](../README.md) > 📄 [ 01_PREPARATION.md ](.01_PREPARATION.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🚦_Status ](../README.md) > 📄 [ 01_PREPARATION.md ](.01_PREPARATION.md)
-```
 
 Documents en cours de rédaction ou en projet — statuts brouillon, projet, fusionné.
 

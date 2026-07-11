@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260602 👮‍♂️ Police PV ](../README.md) > 📄 [ 20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md ](.20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260602 👮‍♂️ Police PV ](../README.md) > 📄 [ 20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md ](.20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260602 👮‍♂️ Police PV ](../README.md) > 📄 [ 20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md ](.20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md) -->
 
 ---
 titre: Procès-Verbal de Police n°2026-015967 — Accident Salon de Coiffure
@@ -36,8 +30,6 @@ verifie: false
 > En cas d'erreur, corriger le PDF source et ré-exporter.
 > drive_id: 1YXaJE81FFPTKcrcShg9DI5jUZ82T988V
 > drive_url: https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view
-
-
 
 --- Page 1 ---
 
@@ -109,9 +101,6 @@ avoir été victime de blessures involontaires commis le 29/05/2026 à 15h35
 environ, à Foix (09).---
 2026/0141045791
 
-
-
-
 --- Page 2 ---
 
 Suite PV n° 2026/015967.... du 02/06/2026. PLAINTE ER
@@ -182,9 +171,6 @@ incident.---
 
 --Le 30 mai j'ai donc été opéré de la main à la Centre de Chirurgie de la
 
-
-
-
 --- Page 3 ---
 
 Suite PV n° 2026/015967... du 02/06/2026 PLAINTE Page 3/3
@@ -244,5 +230,3 @@ victimes, un récépissé de sa plainte et la copie du présent procès-verbal.-
 Page 3/5
 
 2026/0141045791
-
-

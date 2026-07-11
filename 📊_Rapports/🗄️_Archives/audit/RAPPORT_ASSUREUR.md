@@ -1,14 +1,7 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_ASSUREUR.md ](.RAPPORT_ASSUREUR.md) -->
+
 # RAPPORT D'AUDIT JURIDIQUE ET ASSURANTIEL
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_ASSUREUR.md ](.RAPPORT_ASSUREUR.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_ASSUREUR.md ](.RAPPORT_ASSUREUR.md)
-```
 **Dossier d'Accident Corporel — M. Sébastien GRAZIDE**  
 **Réf. Assureur / CPAM : Dossier RCT n° 31727387**
 

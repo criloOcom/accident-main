@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📄 [ README.md ](.README.md) -->
+
 # 🏛️ Dossier Juridique « Accident Main » - Sébastien GRAZIDE
-
-
-```
-🏠 [Accueil](../README.md) > 📄 [ README.md ](.README.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📄 [ README.md ](.README.md)
-```
 
 **📅 Dernière mise à jour : 10 juillet 2026** | **🔴 Statut : Phase Judiciaire Active**
 

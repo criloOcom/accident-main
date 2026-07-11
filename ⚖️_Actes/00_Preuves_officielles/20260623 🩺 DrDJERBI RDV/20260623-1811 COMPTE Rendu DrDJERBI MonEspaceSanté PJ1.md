@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260623 🩺 DrDJERBI RDV ](../README.md) > 📄 [ 20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ1.md ](.20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ1.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260623 🩺 DrDJERBI RDV ](../README.md) > 📄 [ 20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ1.md ](.20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ1.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260623 🩺 DrDJERBI RDV ](../README.md) > 📄 [ 20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ1.md ](.20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ1.md) -->
 
 ---
 titre: Compte Rendu — Docteur DJERBI MonEspaceSanté (PJ1)
@@ -62,5 +56,3 @@ Le nerf collatéral ulnaire et radial est comprimé par l'hématome. Libération
 voie d'abord.
 Lavage abondant du site opératoire au sérum physiologique
 , Fermeture de la peau par des points séparés de fils résorbables
-
-

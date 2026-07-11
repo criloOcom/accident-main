@@ -1,18 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 00_📂_Preuves_officielles ](../README.md) > 📄 [ README.md ](.README.md) -->
+
 # 📄 Preuves Officielles
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 00_📂_Preuves_officielles ](../README.md) > 📄 [ README.md ](.README.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 00_📂_Preuves_officielles ](../README.md) > 📄 [ README.md ](.README.md)
-```
-
-```
-🏠 [Accueil](../../../README.md) → 📁 [actes](../../README.md) → 🔒 [token](../README.md) → 📄 00_📂_Preuves_officielles/
-```
 
 ---
 

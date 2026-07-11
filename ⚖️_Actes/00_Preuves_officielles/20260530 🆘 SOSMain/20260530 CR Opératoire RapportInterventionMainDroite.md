@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260530 🆘 SOSMain ](../README.md) > 📄 [ 20260530 CR Opératoire RapportInterventionMainDroite.md ](.20260530 CR Opératoire RapportInterventionMainDroite.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260530 🆘 SOSMain ](../README.md) > 📄 [ 20260530 CR Opératoire RapportInterventionMainDroite.md ](.20260530 CR Opératoire RapportInterventionMainDroite.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260530 🆘 SOSMain ](../README.md) > 📄 [ 20260530 CR Opératoire RapportInterventionMainDroite.md ](.20260530 CR Opératoire RapportInterventionMainDroite.md) -->
 
 ---
 titre: Compte Rendu Opératoire — Rapport d'Intervention Main Droite
@@ -101,5 +95,3 @@ M
 
 Envoi n°R-580474118
 Messagerie sécurisée Lifen
-
-

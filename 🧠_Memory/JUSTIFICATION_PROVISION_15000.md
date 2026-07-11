@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ JUSTIFICATION_PROVISION_15000.md ](.JUSTIFICATION_PROVISION_15000.md) -->
+
 # Justification de la Provision de 15 000 € en Référé
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ JUSTIFICATION_PROVISION_15000.md ](.JUSTIFICATION_PROVISION_15000.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ JUSTIFICATION_PROVISION_15000.md ](.JUSTIFICATION_PROVISION_15000.md)
-```
 
 ## 1. Fondement juridique (Article 835 al. 2 CPC)
 

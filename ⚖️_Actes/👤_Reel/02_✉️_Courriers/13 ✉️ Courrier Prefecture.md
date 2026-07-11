@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 13 ✉️ Courrier Prefecture.md ](.13 ✉️ Courrier Prefecture.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 13 ✉️ Courrier Prefecture.md ](.13 ✉️ Courrier Prefecture.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 13 ✉️ Courrier Prefecture.md ](.13 ✉️ Courrier Prefecture.md) -->
 
 ---
 titre: Confirmation Officielle de Signalement a la Prefecture - Version réelle

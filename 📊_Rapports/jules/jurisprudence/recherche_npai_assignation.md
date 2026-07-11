@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ jurisprudence ](../README.md) > 📄 [ recherche_npai_assignation.md ](.recherche_npai_assignation.md) -->
+
 # Rapport de jurisprudence — NPAI / Défaut d'adresse dans le cadre d'assignations de sociétés
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ jurisprudence ](../README.md) > 📄 [ recherche_npai_assignation.md ](.recherche_npai_assignation.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ jurisprudence ](../README.md) > 📄 [ recherche_npai_assignation.md ](.recherche_npai_assignation.md)
-```
 
 ## 1. Cadre juridique (Code de procédure civile)
 

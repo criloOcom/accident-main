@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ Rapport_Audit_Procedural.md ](.Rapport_Audit_Procedural.md) -->
+
 # RAPPORT D'AUDIT PROCÉDURAL — Conformité et anomalies
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ Rapport_Audit_Procedural.md ](.Rapport_Audit_Procedural.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ Rapport_Audit_Procedural.md ](.Rapport_Audit_Procedural.md)
-```
 
 En qualité de Procureur de la République, l'audit des actes procéduraux versés au dossier révèle de multiples irrégularités manifestes. Les voies de droit sont parfois mal orientées, les fondements juridiques erronés et les délais légaux non respectés.
 

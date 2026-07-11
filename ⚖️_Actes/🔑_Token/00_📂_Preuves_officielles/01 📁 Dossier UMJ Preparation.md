@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 00_📂_Preuves_officielles ](../README.md) > 📄 [ 01 📁 Dossier UMJ Preparation.md ](.01 📁 Dossier UMJ Preparation.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 00_📂_Preuves_officielles ](../README.md) > 📄 [ 01 📁 Dossier UMJ Preparation.md ](.01 📁 Dossier UMJ Preparation.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 00_📂_Preuves_officielles ](../README.md) > 📄 [ 01 📁 Dossier UMJ Preparation.md ](.01 📁 Dossier UMJ Preparation.md) -->
 
 ---
 reel_path: ../../👤_Reel/00_📂_Preuves_officielles/01 📁 Dossier UMJ Preparation.md

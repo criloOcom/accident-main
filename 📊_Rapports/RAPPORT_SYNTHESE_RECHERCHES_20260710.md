@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_SYNTHESE_RECHERCHES_20260710.md ](.RAPPORT_SYNTHESE_RECHERCHES_20260710.md) -->
+
 # RAPPORT DE SYNTHÈSE - Recherches Juridiques MCP
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_SYNTHESE_RECHERCHES_20260710.md ](.RAPPORT_SYNTHESE_RECHERCHES_20260710.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_SYNTHESE_RECHERCHES_20260710.md ](.RAPPORT_SYNTHESE_RECHERCHES_20260710.md)
-```
 
 **Date** : 10 juillet 2026
 **Projet** : Accident Main - Dossier Sébastien GRAZIDE

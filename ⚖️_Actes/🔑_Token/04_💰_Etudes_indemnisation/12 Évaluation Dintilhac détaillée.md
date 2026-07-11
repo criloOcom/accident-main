@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 12 Évaluation Dintilhac détaillée.md ](.12 Évaluation Dintilhac détaillée.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 12 Évaluation Dintilhac détaillée.md ](.12 Évaluation Dintilhac détaillée.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 12 Évaluation Dintilhac détaillée.md ](.12 Évaluation Dintilhac détaillée.md) -->
 
 ---
 titre: Évaluation financière Dintilhac détaillée
@@ -208,7 +202,6 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 > « Le préjudice d'agrément correspond à la perte de joie ou de plaisir que la victime tirait des loisirs ou activités de vie courante auxquelles elle ne peut plus se livrer du fait des séquelles de l'accident. » <br>
 > [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047223) <br>
 > **Cour de cassation, assemblée plénière, 19 décembre 2003, n° 02-14.783**
-
 
 > « Le caractère limitation de la pratique d'une activité suffit à caractériser le préjudice d'agrément, sans qu'existe une impossibilité totale de cette pratique. » <br>
 > [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000036780068) <br>

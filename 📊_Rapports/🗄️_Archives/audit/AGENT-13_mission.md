@@ -1,14 +1,7 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AGENT-13_mission.md ](.AGENT-13_mission.md) -->
+
 # RAPPORT D'AUDIT JURIDIQUE ET ASSURANTIEL
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AGENT-13_mission.md ](.AGENT-13_mission.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AGENT-13_mission.md ](.AGENT-13_mission.md)
-```
 **Dossier d'Accident Corporel — M. Sébastien GRAZIDE**  
 **Réf. Assureur / CPAM : Dossier RCT n° 31727387**
 

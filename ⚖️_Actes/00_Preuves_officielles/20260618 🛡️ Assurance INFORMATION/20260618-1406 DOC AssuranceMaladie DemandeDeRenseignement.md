@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260618 🛡️ Assurance INFORMATION ](../README.md) > 📄 [ 20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement.md ](.20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260618 🛡️ Assurance INFORMATION ](../README.md) > 📄 [ 20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement.md ](.20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260618 🛡️ Assurance INFORMATION ](../README.md) > 📄 [ 20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement.md ](.20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement.md) -->
 
 ---
 titre: Document Assurance Maladie — Demande de Renseignement
@@ -190,5 +184,3 @@ ATTACHER
 
 3679
 3. Le Compte-Rendu Opératoire de SOS Main / Clinique de l'Union établissant la chirurgie réparatrice.
-
-

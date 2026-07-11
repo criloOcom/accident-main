@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 13 📜 Responsabilites legales.md ](.13 📜 Responsabilites legales.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 13 📜 Responsabilites legales.md ](.13 📜 Responsabilites legales.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 13 📜 Responsabilites legales.md ](.13 📜 Responsabilites legales.md) -->
 
 ---
 titre: Analyse des Fondements de la Responsabilité Juridique - Version réelle
@@ -88,7 +82,6 @@ En vertu de l'article 121-3 du Code pénal, cette maladresse expose les dirigean
 > « Il n'y a point de crime ou de délit sans intention de le commettre. (...) Toutefois, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particularité gravité qu'elles ne pouvaient ignorer. » <br>
 > [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209) <br>
 > **Code pénal > Partie législative > Livre Ier : Dispositions générales > Titre III : La criminalité et la délinquance, les sanctions pénales et certaines mesures de sûreté > Chapitre Ier : De la responsabilité des personnes physiques**
-
 
 <hr>
 

@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_procedure_civile ](../README.md) > 📄 [ Article_145_CodeDeProcédureCivile_Legifrance.md ](.Article_145_CodeDeProcédureCivile_Legifrance.md) -->
+
 ---
 title: Code civil — Art. 145
 code: Code Procedure Civile
@@ -8,16 +10,6 @@ status: En vigueur
 ---
 
 # Code civil — Art. 145
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_145_CodeDeProcédureCivile_Legifrance.md ](.Article_145_CodeDeProcédureCivile_Legifrance.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_145_CodeDeProcédureCivile_Legifrance.md ](.Article_145_CodeDeProcédureCivile_Legifrance.md)
-```
 
 > **Nature** : Code
 

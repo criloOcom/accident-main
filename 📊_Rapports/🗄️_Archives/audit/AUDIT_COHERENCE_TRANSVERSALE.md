@@ -1,14 +1,7 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AUDIT_COHERENCE_TRANSVERSALE.md ](.AUDIT_COHERENCE_TRANSVERSALE.md) -->
+
 # AUDIT DE COHÉRENCE TRANSVERSALE
 
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AUDIT_COHERENCE_TRANSVERSALE.md ](.AUDIT_COHERENCE_TRANSVERSALE.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AUDIT_COHERENCE_TRANSVERSALE.md ](.AUDIT_COHERENCE_TRANSVERSALE.md)
-```
 **Date d'audit :** 2026-07-07
 **Périmètre :** Tous les documents .md sous ⚖️_Actes/
 **Référentiel :** 🧠_Memory/STRICT VARIABLES.md

@@ -1,4 +1,4 @@
-🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Code_penal](README.md) > 📄 [Article_121-1a121-7_CodePenal_Legifrance.md](Article_121-1a121-7_CodePenal_Legifrance.md)
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_121-1a121-7_CodePenal_Legifrance.md ](.Article_121-1a121-7_CodePenal_Legifrance.md) -->
 
 ---
 title: "Articles 121-1 à 121-7 — Code pénal"
@@ -12,7 +12,6 @@ url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417206"
 ---
 
 # Articles 121-1 à 121-7
-
 
 Code pénal
 VERSION EN VIGUEUR AU 28/06/2026

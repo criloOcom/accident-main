@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ recommandations_urgentes.md ](.recommandations_urgentes.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ recommandations_urgentes.md ](.recommandations_urgentes.md)
-```
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ recommandations_urgentes.md ](.recommandations_urgentes.md) -->
 
 ---
 titre: Recommandations Urgentes et Priorisation des Actions

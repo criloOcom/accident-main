@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_STRUCTURE.md ](.RAPPORT_AUDIT_STRUCTURE.md) -->
+
 # RAPPORT D'AUDIT DE STRUCTURE
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_STRUCTURE.md ](.RAPPORT_AUDIT_STRUCTURE.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_STRUCTURE.md ](.RAPPORT_AUDIT_STRUCTURE.md)
-```
 
 **Date :** 10 juillet 2026
 **Projet :** accident-main

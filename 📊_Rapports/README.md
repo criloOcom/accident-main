@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ README.md ](.README.md) -->
+
 # 📊 Rapports et Analyses
 
 Ce dossier contient tous les rapports générés, analyses et documents de suivi du projet.

@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md ](.RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md) -->
+
 # RAPPORT DE SYNTHÈSE - Démarches Prioritaires à Entreprendre
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md ](.RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md ](.RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md)
-```
 
 **Date** : 11 juillet 2026
 **Projet** : Accident Main - Dossier Sébastien GRAZIDE

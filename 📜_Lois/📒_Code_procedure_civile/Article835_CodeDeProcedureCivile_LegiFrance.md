@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_procedure_civile ](../README.md) > 📄 [ Article835_CodeDeProcedureCivile_LegiFrance.md ](.Article835_CodeDeProcedureCivile_LegiFrance.md) -->
+
 ---
 title: Code civil — Art. 835
 code: Code Procedure Civile
@@ -8,16 +10,6 @@ status: En vigueur
 ---
 
 # Code civil — Art. 835
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_procedure_civile ](../README.md) > 📄 [ Article835_CodeDeProcedureCivile_LegiFrance.md ](.Article835_CodeDeProcedureCivile_LegiFrance.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_procedure_civile ](../README.md) > 📄 [ Article835_CodeDeProcedureCivile_LegiFrance.md ](.Article835_CodeDeProcedureCivile_LegiFrance.md)
-```
 
 > **Nature** : Code
 

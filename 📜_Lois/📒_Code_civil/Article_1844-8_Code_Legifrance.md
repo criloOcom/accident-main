@@ -1,4 +1,4 @@
-🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Code_civil](README.md) > 📄 [Article_1844-8_Code_Legifrance.md](Article_1844-8_Code_Legifrance.md)
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_civil ](../README.md) > 📄 [ Article_1844-8_Code_Legifrance.md ](.Article_1844-8_Code_Legifrance.md) -->
 
 ---
 title: "Article 1844-8 — Code civil"
@@ -12,7 +12,6 @@ url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186"
 ---
 
 # Article 1844-8
-
 
 Code civil
 EN VIGUEUR DEPUIS LE 06/01/1988

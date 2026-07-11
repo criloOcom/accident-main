@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ rapport_audit_documentaire.md ](.rapport_audit_documentaire.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ rapport_audit_documentaire.md ](.rapport_audit_documentaire.md)
-```
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ rapport_audit_documentaire.md ](.rapport_audit_documentaire.md) -->
 
 | Fichier | Problème | Gravité (🔴/🟡/🟢) | Correction |
 |---|---|---|---|

@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_CONSISTENCY.md ](.RAPPORT_CONSISTENCY.md) -->
+
 # Rapport de Consistency
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_CONSISTENCY.md ](.RAPPORT_CONSISTENCY.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_CONSISTENCY.md ](.RAPPORT_CONSISTENCY.md)
-```
 
 ## État Initial
 L'exécution de `python3 app/check_consistency.py` a généré les avertissements suivants :

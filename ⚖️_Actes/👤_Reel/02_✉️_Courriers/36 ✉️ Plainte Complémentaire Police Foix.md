@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 36 ✉️ Plainte Complémentaire Police Foix.md ](.36%20%F0%9F%93%AE%20Plainte%20Compl%C3%A9mentaire%20Police%20Foix.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 36 ✉️ Plainte Complémentaire Police Foix.md ](.36%20%F0%9F%93%AE%20Plainte%20Compl%C3%A9mentaire%20Police%20Foix.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 36 ✉️ Plainte Complémentaire Police Foix.md ](.36 ✉️ Plainte Complémentaire Police Foix.md) -->
 
 # 📋 PLAINTE COMPLÉMENTAIRE — OBSTRUCTION À LA JUSTICE
 # **Dossier PV n°2026/015967 — Accident du 29 mai 2026**

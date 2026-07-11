@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 16 📜 Note Responsabilite Dirigeants Dissolution.md ](.16 📜 Note Responsabilite Dirigeants Dissolution.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 16 📜 Note Responsabilite Dirigeants Dissolution.md ](.16 📜 Note Responsabilite Dirigeants Dissolution.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 16 📜 Note Responsabilite Dirigeants Dissolution.md ](.16 📜 Note Responsabilite Dirigeants Dissolution.md) -->
 
 ---
 titre: Note Responsabilité Dirigeants Dissolution

@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](..../README.md) > 📁 [ 📎_Annexes ](../README.md) > 📄 [ ANNEXE_1_Decision_CC_CIV1_1965-04-30.md ](.ANNEXE_1_Decision_CC_CIV1_1965-04-30.md) -->
+
 # ANNEXE 1 - Décision Cour de Cassation, Première Chambre Civile, 30 avril 1965
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](..../README.md) > 📁 [ 📎_Annexes ](../README.md) > 📄 [ ANNEXE_1_Decision_CC_CIV1_1965-04-30.md ](.ANNEXE_1_Decision_CC_CIV1_1965-04-30.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](..../README.md) > 📁 [ 📎_Annexes ](../README.md) > 📄 [ ANNEXE_1_Decision_CC_CIV1_1965-04-30.md ](.ANNEXE_1_Decision_CC_CIV1_1965-04-30.md)
-```
 
 **Numéro de pourvoi:** 63-13.613
 **ID Judilibre:** `607940be9ba5988459c3dbd0`

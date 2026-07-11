@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L223-22_Codecommerce_Legifrance.md ](.Article_L223-22_Codecommerce_Legifrance.md) -->
+
 ---
 title: Article L. 223-22
 code: Code Commerce

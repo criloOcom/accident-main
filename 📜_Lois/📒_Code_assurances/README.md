@@ -1,8 +1,6 @@
-# 📒_Code_assurances
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_assurances ](../README.md) > 📄 [ README.md ](.README.md) -->
 
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📁 [ 📒_Code_assurances ](.README.md)
-```
+# 📒_Code_assurances
 
 ---
 

@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ RECADRAGE_NOMENCLATURE.md ](.RECADRAGE_NOMENCLATURE.md) -->
+
 # NOTIFICATION — Application immédiate de l'Avenant Nomenclature
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ RECADRAGE_NOMENCLATURE.md ](.RECADRAGE_NOMENCLATURE.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ RECADRAGE_NOMENCLATURE.md ](.RECADRAGE_NOMENCLATURE.md)
-```
 
 **Date** : 10 juillet 2026
 **Destinataires** : Tous les agents (opencode, Jules, NotebookLM, Google Gemini, tiers)

@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ jurisprudence_hallucinations_report.md ](.jurisprudence_hallucinations_report.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ jurisprudence_hallucinations_report.md ](.jurisprudence_hallucinations_report.md)
-```
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ jurisprudence_hallucinations_report.md ](.jurisprudence_hallucinations_report.md) -->
 
 RAPPORT D'AUDIT JURISPRUDENTIEL : DÉTECTION D'HALLUCINATIONS
 ============================================================

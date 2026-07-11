@@ -1,7 +1,9 @@
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ pdfs ](../README.md) > 📄 [ README.md ](.README.md) -->
+
 # pdfs
 
 ```
-🏠 > [📁 accident-main](../README.md) > [📁 crilocom](../README.md) > [📁 home](../README.md) > [📁 ](../README.md) > [📄 README.md](./README.md)
+
 ```
 
 ---
@@ -9,7 +11,6 @@
 **Dossier contenant les articles de loi relatifs à pdfs.**
 
 ## Liste des articles
-
 
 ---
 

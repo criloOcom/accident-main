@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_CORRECTION_BREADCRUMBS_20260711.md ](.RAPPORT_CORRECTION_BREADCRUMBS_20260711.md) -->
+
 # 📊 Rapport de Correction des Fils d'Ariane
 
 **Date :** 11 juillet 2026
@@ -28,12 +30,6 @@
 5. **Format** : Symbole → remplacé par >
 
 ### Structure standardisée :
-```
-🏠 [Accueil](../README.md) > 📁 [Dossier](../README.md) > 📄 [Fichier](./README.md)
-# Titre du fichier
----
-Contenu...
-```
 
 ---
 

@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_MEI_README_20260710.md ](.RAPPORT_MEI_README_20260710.md) -->
+
 # RAPPORT - Mise à Jour README.md pour Interface Humaine
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_MEI_README_20260710.md ](.RAPPORT_MEI_README_20260710.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_MEI_README_20260710.md ](.RAPPORT_MEI_README_20260710.md)
-```
 
 **Date:** 10 juillet 2026
 **Projet:** Accident Main - Dossier Sébastien GRAZIDE

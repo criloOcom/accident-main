@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260708 ✉️ LR Relance ASSURANCE ](../README.md) > 📄 [ 06 V2 ✉️ Relance Dirigeants - Réel.md ](.06 V2 ✉️ Relance Dirigeants - Réel.md) -->
+
 # RELANCE — DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260708 ✉️ LR Relance ASSURANCE ](../README.md) > 📄 [ 06 V2 ✉️ Relance Dirigeants - Réel.md ](.06 V2 ✉️ Relance Dirigeants - Réel.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260708 ✉️ LR Relance ASSURANCE ](../README.md) > 📄 [ 06 V2 ✉️ Relance Dirigeants - Réel.md ](.06 V2 ✉️ Relance Dirigeants - Réel.md)
-```
 
 Mr Sébastien GRAZIDE  
 10 Avenue de Purpan, 31700 Blagnac  
@@ -110,4 +102,3 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
 **Article 145 du Code de procédure civile** :
 
 *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »*
-

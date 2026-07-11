@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_314-7_CodePenal_Legifrance.md ](.Article_314-7_CodePenal_Legifrance.md) -->
+
 ---
 title: Article 314-7 du Code pénal
 code: Code Penal
@@ -8,16 +10,6 @@ status: En vigueur
 ---
 
 # Article 314-7 du Code pénal
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_314-7_CodePenal_Legifrance.md ](.Article_314-7_CodePenal_Legifrance.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_penal ](../README.md) > 📄 [ Article_314-7_CodePenal_Legifrance.md ](.Article_314-7_CodePenal_Legifrance.md)
-```
 
 **Identifiant Légifrance :** LEGIARTI000006418226
 **Thème :** Fraude fiscale et sociale

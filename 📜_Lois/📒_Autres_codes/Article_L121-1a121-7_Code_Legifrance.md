@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L121-1a121-7_Code_Legifrance.md ](.Article_L121-1a121-7_Code_Legifrance.md) -->
+
 ---
 title: Articles 121-1 à 121-7
 code: Autres Codes
@@ -8,16 +10,6 @@ status: En vigueur
 ---
 
 # Articles 121-1 à 121-7
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L121-1a121-7_Code_Legifrance.md ](.Article_L121-1a121-7_Code_Legifrance.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L121-1a121-7_Code_Legifrance.md ](.Article_L121-1a121-7_Code_Legifrance.md)
-```
 
 > **Nature** : Code
 

@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ EVALUATION_CRITIQUE.md ](.EVALUATION_CRITIQUE.md) -->
+
 # ÉVALUATION CRITIQUE DU DOSSIER "ACCIDENT DE LA MAIN"
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ EVALUATION_CRITIQUE.md ](.EVALUATION_CRITIQUE.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ EVALUATION_CRITIQUE.md ](.EVALUATION_CRITIQUE.md)
-```
 
 En tant qu'expert juridique (magistrat, avocat, ou représentant de l'État), voici une évaluation **extrêmement critique, sans concession et sincère** de ce dossier. L'objectif est de mettre en lumière les failles béantes de votre stratégie actuelle avant d'aller au "casse-pipe" devant les tribunaux.
 

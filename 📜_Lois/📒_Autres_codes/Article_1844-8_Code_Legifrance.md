@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_1844-8_Code_Legifrance.md ](.Article_1844-8_Code_Legifrance.md) -->
+
 ---
 title: Article 1844-8
 code: Autres Codes
@@ -8,16 +10,6 @@ status: En vigueur
 ---
 
 # Article 1844-8
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_1844-8_Code_Legifrance.md ](.Article_1844-8_Code_Legifrance.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_1844-8_Code_Legifrance.md ](.Article_1844-8_Code_Legifrance.md)
-```
 
 > **Nature** : Code
 

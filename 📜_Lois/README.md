@@ -1,18 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ README.md ](.README.md) -->
+
 # ⚖️ Bibliothèque Juridique
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ README.md ](.README.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](../README.md) > 📄 [ README.md ](.README.md)
-```
-
-```
-🏠 [Accueil](../README.md) → ⚖️ 📜_Lois/
-```
 
 ---
 

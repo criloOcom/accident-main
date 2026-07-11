@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_CORRECTIONS_20260711.md ](.RAPPORT_CORRECTIONS_20260711.md) -->
+
 # 🎯 Rapport de Corrections - Projet accident-main
 
 **Date** : 11 juillet 2026  
@@ -30,21 +32,6 @@
 **Fichiers corrigés** : 24/24 ✅
 
 **Exemple de correction** :
-```
-# Avant
----
-title: "Article 1240 — Code civil"
-...
----
-
-# Après  
-🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Code_civil](README.md) > 📄 [Article1240_CodeCivil.md](Article1240_CodeCivil.md)
-
----
-title: "Article 1240 — Code civil"
-...
----
-```
 
 ### 1.2 Ajout des URLs Légifrance (🟡 HAUTE PRIORITÉ)
 

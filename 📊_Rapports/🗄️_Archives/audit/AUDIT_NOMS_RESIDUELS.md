@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AUDIT_NOMS_RESIDUELS.md ](.AUDIT_NOMS_RESIDUELS.md) -->
+
 # AUDIT NOMS RÉELS RÉSIDUELS
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AUDIT_NOMS_RESIDUELS.md ](.AUDIT_NOMS_RESIDUELS.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AUDIT_NOMS_RESIDUELS.md ](.AUDIT_NOMS_RESIDUELS.md)
-```
 
 - **Fichier:** `⚖️_Actes/05_🗂️_Organisation/00_Index.md` (Ligne 82)
   - **Nom(s) trouvé(s):** DJERBI

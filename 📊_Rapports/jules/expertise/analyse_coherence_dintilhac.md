@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ analyse_coherence_dintilhac.md ](.analyse_coherence_dintilhac.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ analyse_coherence_dintilhac.md ](.analyse_coherence_dintilhac.md)
-```
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ expertise ](../README.md) > 📄 [ analyse_coherence_dintilhac.md ](.analyse_coherence_dintilhac.md) -->
 
 ---
 titre: Analyse de cohérence - Évaluation Dintilhac

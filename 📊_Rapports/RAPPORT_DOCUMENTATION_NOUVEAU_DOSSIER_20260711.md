@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711.md ](.RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711.md) -->
+
 # RAPPORT DE DOCUMENTATION — Nouveau Dossier ERP
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711.md ](.RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711.md ](.RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711.md)
-```
 
 **Date** : 11 juillet 2026
 **Projet** : Accident Main - Dossier Sébastien GRAZIDE

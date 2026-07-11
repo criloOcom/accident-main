@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ STRICT VARIABLES.md ](.STRICT VARIABLES.md) -->
+
 # VARIABLES STRICTES — Source Unique de Vérité
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ STRICT VARIABLES.md ](.STRICT VARIABLES.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ STRICT VARIABLES.md ](.STRICT VARIABLES.md)
-```
 
 **NE JAMAIS MODIFIER NI INVENTER.** Ces valeurs prévalent sur tout autre contenu.
 

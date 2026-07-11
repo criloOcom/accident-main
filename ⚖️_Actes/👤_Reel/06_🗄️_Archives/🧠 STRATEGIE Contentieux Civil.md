@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🧠 STRATEGIE Contentieux Civil.md ](.🧠 STRATEGIE Contentieux Civil.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🧠 STRATEGIE Contentieux Civil.md ](.🧠 STRATEGIE Contentieux Civil.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🧠 STRATEGIE Contentieux Civil.md ](.🧠 STRATEGIE Contentieux Civil.md) -->
 
 ---
 titre: STRATEGIE Contentieux Civil - Version réelle
@@ -45,7 +39,6 @@ reel_path: ../../👤_Reel/06_🗄️_Archives/🧠 STRATEGIE Contentieux Civil.
 - [5. CALENDRIER PROCÉDURAL](#5-calendrier-procdural)
 - [6. RÉCAPITULATIF DES PIÈCES](#6-rcapitulatif-des-pices)
 
-
 # STRATEGIE CONTENTIEUX CIVIL
 Rédigé le **[J+36 Lettre consolidation]**
 
@@ -61,7 +54,6 @@ SAS LES MAUVAIS GARCONS est civilement responsable des dommages causés par ses 
 La responsabilité de la SAS est engagée de plein droit en application de [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000), alinéa 5 (responsabilité du commettant du fait de son préposé).
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
-
 
 ### 2.2 ACTION DIRECTE CONTRE L'ASSUREUR
 L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable.

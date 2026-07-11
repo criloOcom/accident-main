@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](..../README.md) > 📁 [ 🗄️_Archives ](../README.md) > 📄 [ matrice_coherence_jurisprudence.md ](.matrice_coherence_jurisprudence.md) -->
+
 # Matrice d'Audit Jurisprudentiel
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](..../README.md) > 📁 [ 🗄️_Archives ](../README.md) > 📄 [ matrice_coherence_jurisprudence.md ](.matrice_coherence_jurisprudence.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](..../README.md) > 📁 [ 🗄️_Archives ](../README.md) > 📄 [ matrice_coherence_jurisprudence.md ](.matrice_coherence_jurisprudence.md)
-```
 
 Vérification de la cohérence des citations d'arrêts (chambre, date, ratio) à travers les fichiers du dossier `⚖️_Actes/🔑_Token/`.
 

@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 03 ✉️ Courrier SAS.md ](.03 ✉️ Courrier SAS.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 03 ✉️ Courrier SAS.md ](.03 ✉️ Courrier SAS.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 03 ✉️ Courrier SAS.md ](.03 ✉️ Courrier SAS.md) -->
 
 ---
 titre: Mise en Demeure — Déclaration d'Accident Corporel et Demande d'Information

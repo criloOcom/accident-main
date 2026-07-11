@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ 20260708_Rapport_Baremique_Dintilhac.md ](.20260708_Rapport_Baremique_Dintilhac.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ 20260708_Rapport_Baremique_Dintilhac.md ](.20260708_Rapport_Baremique_Dintilhac.md)
-```
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ 20260708_Rapport_Baremique_Dintilhac.md ](.20260708_Rapport_Baremique_Dintilhac.md) -->
 
 ---
 titre: Rapport d'expertise barémique — Évaluation Dintilhac

@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ ⚡ ActionDirecte AssureurRC.md ](.⚡ ActionDirecte AssureurRC.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ ⚡ ActionDirecte AssureurRC.md ](.⚡ ActionDirecte AssureurRC.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ ⚡ ActionDirecte AssureurRC.md ](.⚡ ActionDirecte AssureurRC.md) -->
 
 ---
 titre: Action Directe Assureur RC ([Art. L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449))
@@ -30,7 +24,6 @@ reel_path: ../../👤_Reel/06_🗄️_Archives/⚡ ActionDirecte AssureurRC.md
 **Table des matières**
 
 - [INTRODUCTION](#introduction)
-
 
 # ACTION DIRECTE — MISE EN DEMEURE ASSUREUR RC
 Rédigé le **[J+31 Mises en demeure]**

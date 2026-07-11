@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 🚦_Status ](../README.md) > 📄 [ 02_PRET_POUR_ENVOI.md ](.02_PRET_POUR_ENVOI.md) -->
+
 # 📤 Prêt pour envoi
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🚦_Status ](../README.md) > 📄 [ 02_PRET_POUR_ENVOI.md ](.02_PRET_POUR_ENVOI.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🚦_Status ](../README.md) > 📄 [ 02_PRET_POUR_ENVOI.md ](.02_PRET_POUR_ENVOI.md)
-```
 
 Documents finalisés mais sans preuve matérielle de délivrance — statuts final, preparation.
 

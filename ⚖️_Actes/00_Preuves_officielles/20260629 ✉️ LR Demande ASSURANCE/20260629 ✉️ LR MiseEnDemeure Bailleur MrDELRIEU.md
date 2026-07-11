@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Demande ASSURANCE ](../README.md) > 📄 [ 20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU.md ](.20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Demande ASSURANCE ](../README.md) > 📄 [ 20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU.md ](.20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Demande ASSURANCE ](../README.md) > 📄 [ 20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU.md ](.20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU.md) -->
 
 ---
 titre: Lettre Recommandée — Mise en Demeure Bailleur Monsieur DELRIEU
@@ -120,5 +114,3 @@ justifie la prolongation involontaire de mes démarches administratives et les d
 d'acheminement de la présente mise en demeure.
 
 3
-
-

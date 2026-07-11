@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ DECISIONS.md ](.DECISIONS.md) -->
+
 # DÉCISIONS CLÉS
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ DECISIONS.md ](.DECISIONS.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ DECISIONS.md ](.DECISIONS.md)
-```
 
 ## Tokens
 - Utiliser le bon français avec articles : `**[La Victime]**` PAS `**[Victime]**`
@@ -81,6 +73,15 @@
 - **Audio Overview** : possible via la chaîne `generate_audio` → `get_audio_status` → `download_audio`
 - **Auth** : cookies Google persistés ; `notebooklm_get_health` pour vérifier l'état ; `setup_auth` / `re_auth` pour reconnecter si besoin
 - **Propagation** : cette décision est enregistrée dans AGENTS.md (section NotebookLM), RULES.md (#13) et DECISIONS.md
+
+## Format des fils d'Ariane — DÉCISION 2026-07-11
+- **Format** : commentaire HTML `<!-- [🏠](../README.md) > ... -->` sur la **ligne 1**
+- **Pas de "Accueil"** : utiliser `[🏠]` (emoji maison) comme lien racine
+- **Un seul breadcrumb par fichier** — script dédié `.dev/app/generate_breadcrumbs.py`
+- **Détection par script** : le script cherche tous les patterns connus (code blocks, HTML comments, texte brut) et les remplace par le format canonique unique
+- **Scripts et fichiers à la racine interdits** : tout .py va dans `.dev/app/`, tout rapport va dans `📊_Rapports/`
+- **Propreté du projet** : `__pycache__`, `.pytest_cache` sont à supprimer après exécution — le `.gitignore` les couvre déjà
+- **PRs terminées à fermer** : toute PR dont le contenu est intégré dans `main` DOIT être fermée (sans merge) et sa branche supprimée
 
 ## Limitations du script batch_anonymize.py
 - Utilise `str.replace()` → ne capture que les chaînes exactes

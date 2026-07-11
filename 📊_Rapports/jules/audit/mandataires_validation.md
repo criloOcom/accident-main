@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ mandataires_validation.md ](.mandataires_validation.md) -->
+
 # Validation des Mandataires de Justice et Avocats
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ mandataires_validation.md ](.mandataires_validation.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ mandataires_validation.md ](.mandataires_validation.md)
-```
 
 | Type | Nom | Mission | Honoraires | Coordonnées | Vérification |
 |---|---|---|---|---|---|

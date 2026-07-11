@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 18 Note Audit RNE NPAI SAS.md ](.18 Note Audit RNE NPAI SAS.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 18 Note Audit RNE NPAI SAS.md ](.18 Note Audit RNE NPAI SAS.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 18 Note Audit RNE NPAI SAS.md ](.18 Note Audit RNE NPAI SAS.md) -->
 
 ---
 titre: Analyse — Non-réception LRAR et statut RNE de [L'Exploitant du Commerce (La SAS)]

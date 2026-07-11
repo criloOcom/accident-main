@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ RULES.md ](.RULES.md) -->
+
 # RÈGLES PERMANENTES — Dossier Accident de la Main
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ RULES.md ](.RULES.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ RULES.md ](.RULES.md)
-```
 
 ## 🛑 PROTOCOLE ANTI-HALLUCINATION STRICT (ZÉRO INVENTIONS)
 - **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet (`🧠_Memory/STRICT VARIABLES.md` ou `🧠_Memory/KNOWLEDGE_GRAPH.json`).
@@ -242,3 +234,23 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 - Les liens sont des chemins relatifs (fonctionnent depuis GitHub)
 - `proof_delivery` : champ YAML optionnel contenant le numéro LRAR/AR/preuve
 - Gérés automatiquement par `.dev/app/update_status_system.py` et `.dev/app/update_proof_delivery.py`
+
+## #14 — FORMAT DES FILS D'ARIANE (BREADCRUMBS) — RÈGLE STRICTE
+
+### Format imposé
+- Le fil d'Ariane est sur la **ligne 1** du fichier, dans un **commentaire HTML** `<!-- ... -->`
+- Utilise `[🏠](../README.md)` (emoji maison comme lien) — PAS le mot "Accueil"
+- Exemple :
+  ```html
+  <!-- [🏠](../README.md) > 📁 [Dossier](../README.md) > 📄 [Fichier](./fichier.md) -->
+  ```
+
+### Règles
+1. **Un seul fil d'Ariane par fichier** — toute duplication est une erreur
+2. **Toujours en ligne 1**, avant tout titre ou contenu
+3. **Format commentaire HTML** pour détection facile par script
+4. **Généré automatiquement** par `.dev/app/generate_breadcrumbs.py`
+5. **Ne JAMAIS ajouter** de breadcrumb à la main — toujours passer par le script
+6. **Ne JAMAIS laisser** de scripts .py ni de fichiers orphelins à la racine du projet — tout va dans `.dev/app/`
+7. **Ne JAMAIS laisser** de fichiers Rapport*.md à la racine — tout va dans `📊_Rapports/`
+8. **Ne JAMAIS laisser** de `__pycache__` ou `.pytest_cache` traîner — supprimer après exécution de scripts

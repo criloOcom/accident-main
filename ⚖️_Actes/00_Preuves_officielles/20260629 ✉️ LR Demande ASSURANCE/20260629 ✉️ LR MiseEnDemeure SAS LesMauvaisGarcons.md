@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Demande ASSURANCE ](../README.md) > 📄 [ 20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md ](.20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Demande ASSURANCE ](../README.md) > 📄 [ 20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md ](.20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Demande ASSURANCE ](../README.md) > 📄 [ 20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md ](.20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md) -->
 
 ---
 titre: Lettre Recommandée — Mise en Demeure SAS Les Mauvais Garçons
@@ -109,5 +103,3 @@ l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement 
 travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier
 d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire
 explique le délai de transmission de mes demandes administratives.
-
-

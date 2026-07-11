@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 07 🎤 Plaidoirie dirigeants.md ](.07 🎤 Plaidoirie dirigeants.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 07 🎤 Plaidoirie dirigeants.md ](.07 🎤 Plaidoirie dirigeants.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 07 🎤 Plaidoirie dirigeants.md ](.07 🎤 Plaidoirie dirigeants.md) -->
 
 ---
 titre: Mémorandum Juridique — Responsabilité des Dirigeants
@@ -43,11 +37,9 @@ Ce document examine les fondements juridiques de la mise en cause de la responsa
 > [Article L. 223-22](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141) <br>
 > **Code de commerce > Partie législative > Livre V > Titre II > Chapitre Ier > Section 5 > Sous-section 3**
 
-
 > « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. » <br>
 > [Article L. 225-251](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) <br>
 > **Code de commerce > Partie législative > Livre V > Titre III > Chapitre III > Section 6 > Sous-section 1**
-
 
 Il identifie les manquements aux obligations légales et réglementaires imputables aux dirigeants et évalue les perspectives d'engagement de leur responsabilité personnelle à l'égard de la victime.
 
@@ -73,7 +65,6 @@ La situation est complexifiée par le silence des dirigeants, **[Le Président d
 
 PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, **[La Victime]** est désigné comme « La Victime », **[L'Exploitant du Commerce (La SAS)]** comme « L'Exploitant », et **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** comme « Les Dirigeants ».
 
-
 <hr>
 
 ## II. LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS
@@ -86,7 +77,6 @@ Selon la jurisprudence constante Cass. Com., 20 mai 2003 (Arrêt SATI, n° 99-17
 > [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
 
-
 Le défaut de souscription d'une assurance obligatoire ou la dissimulation volontaire de celle-ci, entravant l'action directe de La Victime, s'inscrit dans ce cadre.
 
 Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SAS, dont le capital social statutaire s'élève au montant dérisoire de 200 € (article 25 des statuts), rendant la société structurellement incapable d'assumer la réparation d'un sinistre corporel grave sans assurance active.
@@ -97,7 +87,6 @@ Ce manquement à l'obligation de sécurité est également codifié à l'article
 > « Dans les établissements soumis aux prescriptions du présent chapitre, les propriétaires, directeurs ou exploitants sont tenus, tant au moment de la construction qu'au cours de l'exploitation, de respecter les mesures de prévention et de sauvegarde propres à assurer la sécurité des personnes contre les risques d'incendie et de panique. » <br>
 > [Article R. 143-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818941) <br>
 > **Code de la construction et de l'habitation > Partie réglementaire > Titre Ier > Chapitre Ier** 
-
 
 À titre subsidiaire, face à toute allégation de partage de responsabilité, le réflexe naturel de protection de La Victime face à un danger imminent ne saurait caractériser une faute et exclut toute réduction d'indemnisation supérieure à 10 ou 20% au maximum.
 
@@ -115,8 +104,6 @@ Une condamnation pour blessures involontaires sur le fondement de l'article 222-
 > [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)  <br>
 > **Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2**
 
-
-
 <hr>
 
 ## III. MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
@@ -127,13 +114,11 @@ La Victime dispose d'un droit propre et autonome sur l'indemnité d'assurance en
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier** 
 
-
 Cette action, dite "action directe", peut être exercée même si la société est radiée ou en liquidation, car la personnalité morale subsiste pour les besoins de la liquidation conformément à l'article L. 237-2 du Code de commerce.
 
 > « La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la clôture de celle-ci. » <br>
 > [Article L. 237-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063) <br>
 > **Code de commerce > Partie législative > Livre V > Titre IV > Chapitre IV > Section 3** 
-
 
 Des demandes formelles ont été initiées pour identifier l'assureur et solliciter une provision.
 
@@ -144,13 +129,11 @@ La réparation intégrale, pilier du droit français régi par l'article 1240 du
 > [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
 > **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II** 
 
-
 Pour La Victime, informaticien indépendant, l'incidence professionnelle est majeure.
 
 Elle ne se limite pas à la perte de gains actuels mais inclut la dévalorisation sur le marché du travail et la pénibilité accrue.
 
 Le préjudice global est estimé à **~90 000 €**, incluant le déficit fonctionnel permanent et les souffrances endurées, tel que détaillé dans l'étude d'indemnisation prospective.
-
 
 <hr>
 

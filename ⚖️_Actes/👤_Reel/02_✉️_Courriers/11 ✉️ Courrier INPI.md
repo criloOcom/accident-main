@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 11 ✉️ Courrier INPI.md ](.11 ✉️ Courrier INPI.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 11 ✉️ Courrier INPI.md ](.11 ✉️ Courrier INPI.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 11 ✉️ Courrier INPI.md ](.11 ✉️ Courrier INPI.md) -->
 
 ---
 titre: Signalement de Litige au Registre National des Entreprises - Version réelle

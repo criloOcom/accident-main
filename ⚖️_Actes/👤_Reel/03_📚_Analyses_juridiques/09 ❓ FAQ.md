@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 09 ❓ FAQ.md ](.09 ❓ FAQ.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 09 ❓ FAQ.md ](.09 ❓ FAQ.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 09 ❓ FAQ.md ](.09 ❓ FAQ.md) -->
 
 ---
 titre: Synthèse Juridique et FAQ - Version réelle
@@ -73,7 +67,6 @@ La victime, Sébastien GRAZIDE, né le 18/01/1982, exerce la profession d'inform
 
 Les parties mises en cause incluent la SAS elle-même, ses dirigeants Sabir MOUNTASSER et Catherine ANDISSAC, ainsi que Romain DELRIEU, propriétaire des murs commerciaux.
 
-
 <hr>
 
 ## II. FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE
@@ -111,7 +104,6 @@ Le fait de cacher l'accident à son assureur ou de refuser de communiquer les co
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre III**
 
-
 <hr>
 
 ## III. STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
@@ -132,7 +124,6 @@ Par ailleurs, une attention particulière est portée à la faute détachable de
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
 
 Enfin, le propriétaire des murs, Romain DELRIEU, a été sollicité par LRAR le 29 juin 2026 non pas en tant que responsable de l'accident, mais comme source d'information : le bail commercial l'oblige à détenir l'attestation d'assurance RC Pro de son locataire (la SAS). À ce jour, l'AR a été retourné signé mais sans réponse sur le fond.
-
 
 <hr>
 
@@ -165,7 +156,6 @@ Une étape cruciale est fixée au 12 novembre 2026 pour l'expertise médicale à
 > « L'action en responsabilité née d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices, se prescrit par dix ans à compter de la date de la consolidation du dommage corporel initial ou aggravé. » <br>
 > [Article 2226](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259) <br>
 > **Code civil > Partie législative > Livre III > Titre XX > Chapitre II > Section 2**
-
 
 <hr>
 

@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_coherence_dates.md ](.audit_coherence_dates.md) -->
+
 # Audit de Cohérence Documentaire : Dates (Courriers 09 à 34)
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_coherence_dates.md ](.audit_coherence_dates.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_coherence_dates.md ](.audit_coherence_dates.md)
-```
 
 **Objectif** : Vérification de la cohérence des dates dans les courriers prêts à envoyer (actes 09 à 34) conformément au référentiel `STRICT VARIABLES.md`.
 

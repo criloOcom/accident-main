@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ README.md ](.README.md) -->
+
 # 🧠 Mémoire du Projet
 
 Ce dossier contient les documents de référence, les variables strictes, et la mémoire institutionnelle du projet accident-main.

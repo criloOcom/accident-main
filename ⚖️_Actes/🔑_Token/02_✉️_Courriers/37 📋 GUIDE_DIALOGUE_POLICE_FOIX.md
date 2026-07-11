@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md ](.37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md ](.37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md ](.37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md) -->
 
 ---
 titre: Guide de Dialogue — Échanges avec la Police de Foix

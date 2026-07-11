@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260612 🩺 DrOXIBEL ](../README.md) > 📄 [ 20260612-1207 SITUATION Main.md ](.20260612-1207 SITUATION Main.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260612 🩺 DrOXIBEL ](../README.md) > 📄 [ 20260612-1207 SITUATION Main.md ](.20260612-1207 SITUATION Main.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260612 🩺 DrOXIBEL ](../README.md) > 📄 [ 20260612-1207 SITUATION Main.md ](.20260612-1207 SITUATION Main.md) -->
 
 ---
 titre: Situation Main — Consultation de Suivi
@@ -85,5 +79,3 @@ Djerbi.
 ●​ Jeudi 12 novembre 2026 à 13h45 : Examen médical légiste fixé à l'UMJ de l'Hôpital de Purpan
 (Bâtiment Raymonde Fournet) suite à la réquisition policière, visant à réévaluer l'ITT de l'infraction
 pénale au vu des pièces chirurgicales.
-
-

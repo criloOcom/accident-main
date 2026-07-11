@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_civil ](../README.md) > 📄 [ Article1720_CodeCivil_LegiFrance.md ](.Article1720_CodeCivil_LegiFrance.md) -->
+
 ---
 title: Code civil — Art. 1720
 code: Code Civil
@@ -8,16 +10,6 @@ status: En vigueur
 ---
 
 # Code civil — Art. 1720
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_civil ](../README.md) > 📄 [ Article1720_CodeCivil_LegiFrance.md ](.Article1720_CodeCivil_LegiFrance.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_civil ](../README.md) > 📄 [ Article1720_CodeCivil_LegiFrance.md ](.Article1720_CodeCivil_LegiFrance.md)
-```
 
 > **Nature** : Code
 

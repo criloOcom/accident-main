@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 99 🛡️ Memoire en defense adverse.md ](.99 🛡️ Memoire en defense adverse.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 99 🛡️ Memoire en defense adverse.md ](.99 🛡️ Memoire en defense adverse.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 99 🛡️ Memoire en defense adverse.md ](.99 🛡️ Memoire en defense adverse.md) -->
 
 ---
 titre: Mémoire en défense adverse — SAS Les Mauvais Garçons

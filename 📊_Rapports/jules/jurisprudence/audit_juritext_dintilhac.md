@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ jurisprudence ](../README.md) > 📄 [ audit_juritext_dintilhac.md ](.audit_juritext_dintilhac.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ jurisprudence ](../README.md) > 📄 [ audit_juritext_dintilhac.md ](.audit_juritext_dintilhac.md)
-```
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ jurisprudence ](../README.md) > 📄 [ audit_juritext_dintilhac.md ](.audit_juritext_dintilhac.md) -->
 
 | JURITEXT | Titre | Chambre | Date | Solution | Statut | Commentaire |
 |---|---|---|---|---|---|---|

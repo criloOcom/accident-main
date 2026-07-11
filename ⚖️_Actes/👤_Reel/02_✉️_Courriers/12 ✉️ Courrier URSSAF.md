@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 12 ✉️ Courrier URSSAF.md ](.12 ✉️ Courrier URSSAF.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 12 ✉️ Courrier URSSAF.md ](.12 ✉️ Courrier URSSAF.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 12 ✉️ Courrier URSSAF.md ](.12 ✉️ Courrier URSSAF.md) -->
 
 ---
 titre: Signalement de Travail Dissimule Presume - Version réelle

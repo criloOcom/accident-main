@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 10 🗂️ Plan action.md ](.10 🗂️ Plan action.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 10 🗂️ Plan action.md ](.10 🗂️ Plan action.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 10 🗂️ Plan action.md ](.10 🗂️ Plan action.md) -->
 
 ---
 titre: Plan d'Action et Chronologie de la Procédure - Version réelle
@@ -74,7 +68,6 @@ Le second semestre 2026 sera consacré au suivi de l'expertise (notamment le pas
 
 L'aboutissement prévu est une assignation au fond en septembre pour obtenir un jugement définitif de condamnation de l'assureur d'ici décembre 2026.
 
-
 <hr>
 
 ## II. FONDEMENTS JURIDIQUES
@@ -95,7 +88,6 @@ Conformément à [l'Arrêt Sati](https://www.legifrance.gouv.fr/juri/id/JURITEXT
 
 En cas de blocage sur l'identité de l'assureur, [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) fonde la demande de mesures d'instruction in futurum.
 
-
 <hr>
 
 ## III. INVENTAIRE DES PIÈCES
@@ -104,7 +96,6 @@ Le dossier comprend les comptes rendus opératoires du Dr Iskander DJERBI, les c
 
 ### B. PREUVES MATÉRIELLES ET TÉMOIGNAGES
 Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel défectueux, les photos de l'accident et les témoignages des clients et employés présents.
-
 
 <hr>
 

@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🔧 ANALYSE correction juridique.md ](.🔧 ANALYSE correction juridique.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🔧 ANALYSE correction juridique.md ](.🔧 ANALYSE correction juridique.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🔧 ANALYSE correction juridique.md ](.🔧 ANALYSE correction juridique.md) -->
 
 ---
 titre: Mémorandum Juridique — Audit Stratégique et Restructuration Contentieuse - Version réelle
@@ -39,7 +33,6 @@ reel_path: ../../👤_Reel/06_🗄️_Archives/🔧 ANALYSE correction juridique
   - [B. ÉVALUATION DU PRÉJUDICE ET LIBRE DISPOSITION DES FONDS](#b-valuation-du-prjudice-et-libre-disposition-des-fonds)
 - [IV. PLAN D'ACTION CONTENTIEUX](#iv-plan-daction-contentieux)
 
-
 # **MÉMORANDUM JURIDIQUE : AFFAIRE [LA VICTIME]**
 Rédigé le 30 juin 2026
 
@@ -61,7 +54,6 @@ L'affaire met en cause la responsabilité de la personne morale, dirigée par Sa
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
-
 <hr>
 
 ## II. CADRE JURIDIQUE DE LA RESPONSABILITÉ
@@ -78,7 +70,6 @@ La responsabilité personnelle des dirigeants peut être engagée, nonobstant l'
 > « La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. » <br>
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
-
 
 <hr>
 
@@ -97,7 +88,6 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 > [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) <br>
 > **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307**
 
-
 <hr>
 
 ## IV. PLAN D'ACTION CONTENTIEUX
@@ -108,9 +98,6 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
-
 <hr>
-
-
 
 ---

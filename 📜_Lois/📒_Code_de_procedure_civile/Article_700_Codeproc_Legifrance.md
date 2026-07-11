@@ -1,4 +1,4 @@
-🏠 [Accueil](../../README.md) > 📁 [📜_Lois](README.md) > 📁 [📒_Code_de_procedure_civile](README.md) > 📄 [Article_700_Codeproc_Legifrance.md](Article_700_Codeproc_Legifrance.md)
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_de_procedure_civile ](../README.md) > 📄 [ Article_700_Codeproc_Legifrance.md ](.Article_700_Codeproc_Legifrance.md) -->
 
 ---
 title: "Article 700 — Code de procédure civile"
@@ -12,7 +12,6 @@ url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436"
 ---
 
 # Article 700
-
 
 Code de procédure civile
 EN VIGUEUR DEPUIS LE 27/02/2022

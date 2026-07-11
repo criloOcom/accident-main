@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_SYNTHESE_FINALE.md ](.RAPPORT_SYNTHESE_FINALE.md) -->
+
 # RAPPORT DE SYNTHÈSE GLOBALE — MISSION D'AUDIT FINAL
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_SYNTHESE_FINALE.md ](.RAPPORT_SYNTHESE_FINALE.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_SYNTHESE_FINALE.md ](.RAPPORT_SYNTHESE_FINALE.md)
-```
 
 ## 1. RÉSUMÉ DU DOSSIER
 

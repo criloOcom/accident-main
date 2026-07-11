@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 11 💰 Etude indemnisation.md ](.11 💰 Etude indemnisation.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 11 💰 Etude indemnisation.md ](.11 💰 Etude indemnisation.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ 11 💰 Etude indemnisation.md ](.11 💰 Etude indemnisation.md) -->
 
 ---
 titre: Étude d'Indemnisation Maximale (Nomenclature Dintilhac) - Version réelle
@@ -79,7 +73,6 @@ L'évaluation s'effectue poste par poste à l'aide de la Nomenclature Dintilhac,
 L'évaluation s'appuie ici sur le statut réel de Sébastien GRAZIDE, travailleur indépendant (500 474 457).
 
 Les déclarations URSSAF constatent des recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
-
 
 <hr>
 

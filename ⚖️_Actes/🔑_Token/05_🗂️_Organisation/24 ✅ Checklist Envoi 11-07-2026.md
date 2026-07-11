@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 24 ✅ Checklist Envoi 11-07-2026.md ](.24 ✅ Checklist Envoi 11-07-2026.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 24 ✅ Checklist Envoi 11-07-2026.md ](.24 ✅ Checklist Envoi 11-07-2026.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 05_🗂️_Organisation ](../README.md) > 📄 [ 24 ✅ Checklist Envoi 11-07-2026.md ](.24 ✅ Checklist Envoi 11-07-2026.md) -->
 
 ---
 titre: Checklist Envoi LRAR — 11 juillet 2026

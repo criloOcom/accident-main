@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_COMPLETUDE_LOIS_20260711.md ](.RAPPORT_AUDIT_COMPLETUDE_LOIS_20260711.md) -->
+
 # RAPPORT D'AUDIT — Complétude du Dossier 📜_Lois
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_COMPLETUDE_LOIS_20260711.md ](.RAPPORT_AUDIT_COMPLETUDE_LOIS_20260711.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_COMPLETUDE_LOIS_20260711.md ](.RAPPORT_AUDIT_COMPLETUDE_LOIS_20260711.md)
-```
 
 **Date** : 11 juillet 2026
 **Projet** : Accident Main - Dossier Sébastien GRAZIDE

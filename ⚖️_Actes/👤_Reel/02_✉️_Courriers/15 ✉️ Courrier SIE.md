@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 15 ✉️ Courrier SIE.md ](.15 ✉️ Courrier SIE.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 15 ✉️ Courrier SIE.md ](.15 ✉️ Courrier SIE.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 02_✉️_Courriers ](../README.md) > 📄 [ 15 ✉️ Courrier SIE.md ](.15 ✉️ Courrier SIE.md) -->
 
 ---
 titre: Information de Litige au Service des Impots des Entreprises - Version réelle
@@ -44,7 +38,6 @@ Objet : Information de litige en cours — SAS SAS LES MAUVAIS GARCONS
 <hr>
 
 Ref : SIREN 938 033 222
-
 
 Madame, Monsieur le Responsable,
 

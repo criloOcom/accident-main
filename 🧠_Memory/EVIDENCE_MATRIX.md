@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ EVIDENCE_MATRIX.md ](.EVIDENCE_MATRIX.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ EVIDENCE_MATRIX.md ](.EVIDENCE_MATRIX.md)
-```
+<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ EVIDENCE_MATRIX.md ](.EVIDENCE_MATRIX.md) -->
 
 ---
 titre: Matrice des Preuves

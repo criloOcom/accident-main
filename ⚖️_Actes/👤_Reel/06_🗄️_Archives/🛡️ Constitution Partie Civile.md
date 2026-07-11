@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🛡️ Constitution Partie Civile.md ](.🛡️ Constitution Partie Civile.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🛡️ Constitution Partie Civile.md ](.🛡️ Constitution Partie Civile.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🛡️ Constitution Partie Civile.md ](.🛡️ Constitution Partie Civile.md) -->
 
 ---
 titre: Constitution de Partie Civile - Version réelle
@@ -29,7 +23,6 @@ reel_path: ../../👤_Reel/06_🗄️_Archives/🛡️ Constitution Partie Civil
 **Table des matières**
 
 - [INTRODUCTION](#introduction)
-
 
 # CONSTITUTION DE PARTIE CIVILE
 Rédigé le 30 juin 2026
@@ -91,9 +84,6 @@ Fait à Blagnac, le 30 juin 2026
 
 Signature :
 
-
 <hr>
-
-
 
 ---

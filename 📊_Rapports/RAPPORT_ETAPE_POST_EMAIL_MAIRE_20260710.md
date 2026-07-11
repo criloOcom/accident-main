@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md ](.RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md) -->
+
 # RAPPORT D'ÉTAPE - Post Email Maire Foix (Document 34)
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md ](.RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md ](.RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md)
-```
 
 **Date:** 10 juillet 2026
 **Projet:** Accident Main - Dossier Sébastien GRAZIDE

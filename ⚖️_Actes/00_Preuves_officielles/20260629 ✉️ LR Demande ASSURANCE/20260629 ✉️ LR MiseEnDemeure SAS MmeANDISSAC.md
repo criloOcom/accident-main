@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Demande ASSURANCE ](../README.md) > 📄 [ 20260629 ✉️ LR MiseEnDemeure SAS MmeANDISSAC.md ](.20260629 ✉️ LR MiseEnDemeure SAS MmeANDISSAC.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Demande ASSURANCE ](../README.md) > 📄 [ 20260629 ✉️ LR MiseEnDemeure SAS MmeANDISSAC.md ](.20260629 ✉️ LR MiseEnDemeure SAS MmeANDISSAC.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260629 ✉️ LR Demande ASSURANCE ](../README.md) > 📄 [ 20260629 ✉️ LR MiseEnDemeure SAS MmeANDISSAC.md ](.20260629 ✉️ LR MiseEnDemeure SAS MmeANDISSAC.md) -->
 
 ---
 titre: Lettre Recommandée — Mise en Demeure SAS Madame ANDISSAC
@@ -114,5 +108,3 @@ travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement
 d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire
 justifie la prolongation involontaire de mes démarches administratives et les délais
 d'acheminement de la présente mise en demeure.
-
-

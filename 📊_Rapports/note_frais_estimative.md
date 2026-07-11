@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ note_frais_estimative.md ](.note_frais_estimative.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ note_frais_estimative.md ](.note_frais_estimative.md)
-```
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ note_frais_estimative.md ](.note_frais_estimative.md) -->
 
 ---
 titre: Note de Frais Estimative — Constat et Mesures d'Instruction

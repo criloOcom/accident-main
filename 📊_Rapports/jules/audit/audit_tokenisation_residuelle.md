@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_tokenisation_residuelle.md ](.audit_tokenisation_residuelle.md) -->
+
 # Audit de Tokenisation Résiduelle (RGPD)
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_tokenisation_residuelle.md ](.audit_tokenisation_residuelle.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ jules ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ audit_tokenisation_residuelle.md ](.audit_tokenisation_residuelle.md)
-```
 
 | Fichier | Ligne | Type | Donnée Trouvée | Statut |
 |---------|-------|------|----------------|--------|

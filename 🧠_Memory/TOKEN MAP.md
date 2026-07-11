@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ TOKEN MAP.md ](.TOKEN MAP.md) -->
+
 # TABLE DE SUBSTITUTION — Anonymisation (tokens V2)
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ TOKEN MAP.md ](.TOKEN MAP.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ TOKEN MAP.md ](.TOKEN MAP.md)
-```
 
 ## Personnes physiques
 | Texte original | Jeton |

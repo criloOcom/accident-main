@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AGENT-07_mission.md ](.AGENT-07_mission.md) -->
+
 # RAPPORT D'AUDIT SUR LA RESPONSABILITÉ CIVILE ET PÉNALE DES DIRIGEANTS DE LA SAS
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AGENT-07_mission.md ](.AGENT-07_mission.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ AGENT-07_mission.md ](.AGENT-07_mission.md)
-```
 
 **Date de l'audit** : 6 Juillet 2026
 **Auteur** : Agent 7 — Dirigeants de la SAS

@@ -1,18 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](..../README.md) > 📁 [ 🔑_Token ](../README.md) > 📄 [ README.md ](.README.md) -->
+
 # 🎭 Actes / token — Version Anonymisée
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](..../README.md) > 📁 [ 🔑_Token ](../README.md) > 📄 [ README.md ](.README.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](..../README.md) > 📁 [ 🔑_Token ](../README.md) > 📄 [ README.md ](.README.md)
-```
-
-```
-🏠 [Accueil](../../README.md) → 📁 [actes](../README.md) → 🔒 token/
-```
 
 ---
 

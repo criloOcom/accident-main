@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ pv_constat_virtuel.md ](.pv_constat_virtuel.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ pv_constat_virtuel.md ](.pv_constat_virtuel.md)
-```
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ pv_constat_virtuel.md ](.pv_constat_virtuel.md) -->
 
 ---
 titre: Procès-Verbal de Constat Virtuel (Cahier des charges)

@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ SYNCHRO_TOKENS.md ](.SYNCHRO_TOKENS.md) -->
+
 # SYNCHRONISATION TOKEN MAP ↔ BATCH_ANONYMIZE.PY
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ SYNCHRO_TOKENS.md ](.SYNCHRO_TOKENS.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ SYNCHRO_TOKENS.md ](.SYNCHRO_TOKENS.md)
-```
 
 ## Méthodologie
 

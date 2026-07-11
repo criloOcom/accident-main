@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260623 🩺 DrDJERBI RDV ](../README.md) > 📄 [ 20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ2.md ](.20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ2.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260623 🩺 DrDJERBI RDV ](../README.md) > 📄 [ 20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ2.md ](.20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ2.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260623 🩺 DrDJERBI RDV ](../README.md) > 📄 [ 20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ2.md ](.20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ2.md) -->
 
 ---
 titre: Compte Rendu — Docteur DJERBI MonEspaceSanté (PJ2)
@@ -55,5 +49,3 @@ Veuillez agréer, Cher confrère, Cher ami, l'expression de mes sentiments les m
 Bien confraternellement.
 
 Dr Iskander DJERBI
-
-

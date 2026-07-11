@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L421-3_Codeconsommation_Legifrance.md ](.Article_L421-3_Codeconsommation_Legifrance.md) -->
+
 ---
 title: Article L421-3
 code: Autres Codes
@@ -8,16 +10,6 @@ status: En vigueur
 ---
 
 # Article L421-3
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L421-3_Codeconsommation_Legifrance.md ](.Article_L421-3_Codeconsommation_Legifrance.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Autres_codes ](../README.md) > 📄 [ Article_L421-3_Codeconsommation_Legifrance.md ](.Article_L421-3_Codeconsommation_Legifrance.md)
-```
 
 > **Nature** : Code
 

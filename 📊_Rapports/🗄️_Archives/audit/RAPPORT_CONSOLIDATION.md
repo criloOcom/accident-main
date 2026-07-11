@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_CONSOLIDATION.md ](.RAPPORT_CONSOLIDATION.md) -->
+
 # Rapport de Consolidation des 7 Audits
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_CONSOLIDATION.md ](.RAPPORT_CONSOLIDATION.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_CONSOLIDATION.md ](.RAPPORT_CONSOLIDATION.md)
-```
 
 ## 1. AUDIT_DATES.md
 * Fichiers modifiés pour les heures 15h20 -> 15h00 :

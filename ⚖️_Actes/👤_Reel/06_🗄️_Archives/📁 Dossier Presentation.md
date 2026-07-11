@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 📁 Dossier Presentation.md ](.📁 Dossier Presentation.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 📁 Dossier Presentation.md ](.📁 Dossier Presentation.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 📁 Dossier Presentation.md ](.📁 Dossier Presentation.md) -->
 
 ---
 titre: Dossier de Présentation destiné au Conseil Juridique - Version réelle
@@ -35,7 +29,6 @@ reel_path: ../../👤_Reel/06_🗄️_Archives/📁 Dossier Presentation.md
 - [II. EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE](#ii-expos-factuel-des-faits-et-de-la-procdure-chronologique)
 - [III. ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES](#iii-actions-engages-et-bordereau-des-pices)
 
-
 # DOSSIER DE PRÉSENTATION : DESTINÉ AU CONSEIL JURIDIQUE
 Rédigé le 30 juin 2026
 
@@ -65,7 +58,6 @@ Afin de lever tout obstacle financier pour Sébastien GRAZIDE, travailleur indé
 
 4. La demande de provision ad hoc pour frais de procédure : Lors de l'assignation en référé-provision, l'avocat sollicitera une provision ad hoc à valoir sur les frais futurs d'expertise médicale et d'assistance juridique.
 
-
 <hr>
 
 ## II. EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE
@@ -80,7 +72,6 @@ Sa paume est entrée en contact direct avec la vasque en céramique. Or, celle-c
 Ce choc a provoqué une section profonde de 8,5 cm au niveau de sa paume droite (main dominante, pince pouce-index). Sébastien GRAZIDE a été opéré le samedi 30 mai 2026 par le Dr Iskander DJERBI au service SOS Main de Clinique de l'Union.
 
 Les examens cliniques constatent une section partielle du tendon fléchisseur, une section complète du paquet collatéral et une neurolyse du nerf palmaire, entraînant une ITT de 56 jours (jusqu'au 23 juillet 2026 inclus) et des paresthésies sévères de l'index droit.
-
 
 <hr>
 
@@ -100,9 +91,6 @@ Sébastien GRAZIDE agit actuellement en son nom propre et a formalisé les déma
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
-
 <hr>
-
-
 
 ---

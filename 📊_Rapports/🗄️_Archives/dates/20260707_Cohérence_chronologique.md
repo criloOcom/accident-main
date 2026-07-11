@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ dates ](../README.md) > 📄 [ 20260707_Cohérence_chronologique.md ](.20260707_Cohérence_chronologique.md) -->
+
 # Rapport de Cohérence Chronologique
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ dates ](../README.md) > 📄 [ 20260707_Cohérence_chronologique.md ](.20260707_Cohérence_chronologique.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ dates ](../README.md) > 📄 [ 20260707_Cohérence_chronologique.md ](.20260707_Cohérence_chronologique.md)
-```
 
 ## 1. Conflit majeur sur la date de l'accident
 - **Chronologie demandée (mission) :** Accident en **mars 2022**, première procédure en **2022**.

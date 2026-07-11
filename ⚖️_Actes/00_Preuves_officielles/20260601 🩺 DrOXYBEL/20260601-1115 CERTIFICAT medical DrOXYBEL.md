@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260601 🩺 DrOXYBEL ](../README.md) > 📄 [ 20260601-1115 CERTIFICAT medical DrOXYBEL.md ](.20260601-1115 CERTIFICAT medical DrOXYBEL.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260601 🩺 DrOXYBEL ](../README.md) > 📄 [ 20260601-1115 CERTIFICAT medical DrOXYBEL.md ](.20260601-1115 CERTIFICAT medical DrOXYBEL.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260601 🩺 DrOXYBEL ](../README.md) > 📄 [ 20260601-1115 CERTIFICAT medical DrOXYBEL.md ](.20260601-1115 CERTIFICAT medical DrOXYBEL.md) -->
 
 ---
 titre: Certificat Médical Initial — Docteur OXYBEL
@@ -32,8 +26,6 @@ verifie: false
 > En cas d'erreur, corriger le PDF source et ré-exporter.
 > drive_id: 1SIcpCYIIJp84_6TY9dVbyMMr8Rlxbeda
 > drive_url: https://drive.google.com/file/d/1SIcpCYIIJp84_6TY9dVbyMMr8Rlxbeda/view
-
-
 
 --- Page 1 ---
 
@@ -101,5 +93,3 @@ En dehors des heures d'ouverture du cabinet et en cas d'urgence vitale composer 
 à
 |
 £
-
-

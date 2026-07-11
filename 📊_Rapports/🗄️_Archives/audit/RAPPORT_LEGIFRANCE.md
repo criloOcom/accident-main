@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_LEGIFRANCE.md ](.RAPPORT_LEGIFRANCE.md) -->
+
 # Rapport de Vérification des Liens Légifrance
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_LEGIFRANCE.md ](.RAPPORT_LEGIFRANCE.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_LEGIFRANCE.md ](.RAPPORT_LEGIFRANCE.md)
-```
 
 | ID Légifrance | Statut | Titre / Article | Fichiers concernés | Remarques (Format) |
 |---|---|---|---|---|

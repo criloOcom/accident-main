@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🛡️ Constitution Partie Civile.md ](.🛡️ Constitution Partie Civile.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🛡️ Constitution Partie Civile.md ](.🛡️ Constitution Partie Civile.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 06_🗄️_Archives ](../README.md) > 📄 [ 🛡️ Constitution Partie Civile.md ](.🛡️ Constitution Partie Civile.md) -->
 
 ---
 titre: Constitution de Partie Civile
@@ -29,7 +23,6 @@ reel_path: ../../👤_Reel/06_🗄️_Archives/🛡️ Constitution Partie Civil
 **Table des matières**
 
 - [INTRODUCTION](#introduction)
-
 
 # CONSTITUTION DE PARTIE CIVILE
 Rédigé le **[J+32 Assignation référé]**
@@ -91,9 +84,6 @@ Fait à **[La Ville de Résidence de la Victime]**, le **[J+32 Assignation réf�
 
 Signature :
 
-
 <hr>
-
-
 
 ---

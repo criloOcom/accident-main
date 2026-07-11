@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260623 🩺 DrDJERBI RDV ](../README.md) > 📄 [ 20260623-1731 DR DJERBI Ordonnance Kinesitherapeute.md ](.20260623-1731 DR DJERBI Ordonnance Kinesitherapeute.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260623 🩺 DrDJERBI RDV ](../README.md) > 📄 [ 20260623-1731 DR DJERBI Ordonnance Kinesitherapeute.md ](.20260623-1731 DR DJERBI Ordonnance Kinesitherapeute.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 00_Preuves_officielles ](..../README.md) > 📁 [ 20260623 🩺 DrDJERBI RDV ](../README.md) > 📄 [ 20260623-1731 DR DJERBI Ordonnance Kinesitherapeute.md ](.20260623-1731 DR DJERBI Ordonnance Kinesitherapeute.md) -->
 
 ---
 titre: Ordonnance de Kinésithérapie — Docteur DJERBI
@@ -33,8 +27,6 @@ verifie: false
 > En cas d'erreur, corriger le PDF source et ré-exporter.
 > drive_id: 1t-DHwIZUyJgWwQGOAFHtNvNC2xVtMozp
 > drive_url: https://drive.google.com/file/d/1t-DHwIZUyJgWwQGOAFHtNvNC2xVtMozp/view
-
-
 
 --- Page 1 ---
 
@@ -105,5 +97,3 @@ r y 2
 sw
 
 TS
-
-

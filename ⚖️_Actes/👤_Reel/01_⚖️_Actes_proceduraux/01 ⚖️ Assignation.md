@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 01 ⚖️ Assignation.md ](.01 ⚖️ Assignation.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 01 ⚖️ Assignation.md ](.01 ⚖️ Assignation.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 01_⚖️_Actes_proceduraux ](../README.md) > 📄 [ 01 ⚖️ Assignation.md ](.01 ⚖️ Assignation.md) -->
 
 ---
 titre: Assignation en Référé-Provision et Demande d'Expertise Médicale - Version réelle
@@ -80,7 +74,6 @@ PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCI
 - [III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)](#iii-valuation-provisoire-des-prjudices-nomenclature-dintilhac)
 - [PAR CES MOTIFS](#par-ces-motifs)
 
-
 <hr><hr>
 
 ## I. EXPOSÉ DES FAITS
@@ -104,7 +97,6 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du 2
 
 À ce jour, le cumul des arrêts de travail prescrits s'élève à 56 jours d'ITT continue (du 29 mai 2026 au 23 juillet 2026 inclus) **(Pièce n°4)**.
 
-
 <hr><hr>
 
 ## II. DISCUSSION JURIDIQUE
@@ -112,7 +104,6 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du 2
 ### A. Jurisprudence Pertinente
 
 Les décisions suivantes établissent des précédents juridiques pertinents pour la présente affaire. Les textes intégraux sont joints en annexe pour référence complète :
-
 
 ### Décision 1: CC CIV1, 1965-04-30
 
@@ -124,7 +115,6 @@ Les décisions suivantes établissent des précédents juridiques pertinents pou
 
 **Pertinence** : Cette décision établit un précédent important concernant la responsabilité des professionnels pour les accidents survenant dans leurs établissements, soulignant l'obligation de sécurité et de vigilance particulière due aux clients.
 
-
 ### Décision 2: CC CIV1, 1994-07-08
 
 - **ID** : `60794c949ba5988459c4612e`
@@ -135,7 +125,6 @@ Les décisions suivantes établissent des précédents juridiques pertinents pou
 
 **Pertinence** : Cette décision illustre le principe de subrogation légale en matière de responsabilité professionnelle, montrant comment les professionnels et leurs assureurs peuvent être subrogés dans les droits des créanciers.
 
-
 ### Décision 3: CC CIV1, 2012-07-04
 
 - **ID** : `607975719ba5988459c49ee3`
@@ -145,9 +134,6 @@ Les décisions suivantes établissent des précédents juridiques pertinents pou
 - **Annexe** : [Texte intégral en ANNEXE 3](ANNEXE_3_Decision_CC_CIV1_2012-07-04.md)
 
 **Pertinence** : Cette décision traite de la nature des parts sociales et de leur évaluation, illustrant les principes juridiques concernant la valeur patrimoniale et la responsabilité des associés dans le secteur de la coiffure.
-
-
-
 
 ### A. SUR LE PRINCIPE DE LA RESPONSABILITÉ CIVILE DÉLICTUELLE
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
@@ -161,7 +147,6 @@ En l'espèce, le basculement brutal de l'équipement dû à l'escalade du prépo
 > **Code civil > ... > Chapitre Ier : La responsabilité extracontractuelle en général**
 
 Les commettants sont responsables du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés.
-
 
 De surcroît, les faits se sont produits sous le contrôle du préposé de l'établissement (Ayoub BENNOURINE). Par conséquent, la responsabilité délictuelle de SAS LES MAUVAIS GARCONS est engagée sans contestation possible.
 
@@ -230,11 +215,9 @@ L'état corporel de Sébastien GRAZIDE n'étant pas consolidé à ce jour, il es
 
 ### D. SUR L'OCTROI D'UNE PROVISION FINANCIÈRE
 
-
 > « Dans tous les cas où l'existence de l'obligation n'est pas sérieusement contestable, le président peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. » <br>
 > [Article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
 > **Code de procédure civile > Chapitre II : Les ordonnances de référé**
-
 
 L'obligation à réparation de SAS LES MAUVAIS GARCONS n'étant pas sérieusement contestable au vu du PV de police et des pièces médicales indiscutables, Sébastien GRAZIDE est fondé à réclamer le versement d'une provision financière.
 
@@ -376,6 +359,5 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 <hr>
 
 Fait à Foix, le 30 juin 2026.
-
 
 Pour Sébastien GRAZIDE Nom Prénom de l'Avocat

@@ -1,18 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](../README.md) > 📄 [ README.md ](.README.md) -->
+
 # 📁 Actes — Dossier Contentieux
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](../README.md) > 📄 [ README.md ](.README.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](../README.md) > 📄 [ README.md ](.README.md)
-```
-
-```
-🏠 [Accueil](../README.md) → 📁 ⚖️_Actes/
-```
 
 ---
 

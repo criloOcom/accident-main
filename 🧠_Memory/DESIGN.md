@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ DESIGN.md ](.DESIGN.md) -->
+
 # DESIGN — Charte Graphique Google Docs
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ DESIGN.md ](.DESIGN.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 🧠_Memory ](../README.md) > 📄 [ DESIGN.md ](.DESIGN.md)
-```
 
 ## Police unique
 - **Arial** obligatoire sur 100 % du document (police héritée par défaut via le thème Google Docs ; ne pas utiliser de police différente dans les `textStyle` explicites).

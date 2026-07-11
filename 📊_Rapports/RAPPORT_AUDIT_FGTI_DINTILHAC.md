@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_FGTI_DINTILHAC.md ](.RAPPORT_AUDIT_FGTI_DINTILHAC.md) -->
+
 # RAPPORT D'AUDIT FGTI / DINTILHAC
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_FGTI_DINTILHAC.md ](.RAPPORT_AUDIT_FGTI_DINTILHAC.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_FGTI_DINTILHAC.md ](.RAPPORT_AUDIT_FGTI_DINTILHAC.md)
-```
 
 **Date :** 10 juillet 2026
 **Objet :** Vérification de cohérence des montants Dintilhac et du courrier FGTI

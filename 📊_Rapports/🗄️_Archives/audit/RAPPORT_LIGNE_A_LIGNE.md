@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_LIGNE_A_LIGNE.md ](.RAPPORT_LIGNE_A_LIGNE.md) -->
+
 # RAPPORT D'AUDIT LIGNE À LIGNE
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_LIGNE_A_LIGNE.md ](.RAPPORT_LIGNE_A_LIGNE.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_LIGNE_A_LIGNE.md ](.RAPPORT_LIGNE_A_LIGNE.md)
-```
 
 Date de l'audit : 2026-07-06
 

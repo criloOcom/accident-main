@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L225-251_Codecommerce_Legifrance.md ](.Article_L225-251_Codecommerce_Legifrance.md) -->
+
 ---
 title: Article L. 225-251
 code: Code Commerce
@@ -8,16 +10,6 @@ status: En vigueur
 ---
 
 # Article L. 225-251
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L225-251_Codecommerce_Legifrance.md ](.Article_L225-251_Codecommerce_Legifrance.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📜_Lois ](..../README.md) > 📁 [ 📒_Code_commerce ](../README.md) > 📄 [ Article_L225-251_Codecommerce_Legifrance.md ](.Article_L225-251_Codecommerce_Legifrance.md)
-```
 
 > **Nature** : Code
 

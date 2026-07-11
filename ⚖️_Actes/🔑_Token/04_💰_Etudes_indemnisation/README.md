@@ -1,12 +1,5 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ README.md ](.README.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ README.md ](.README.md) -->
 
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 04_💰_Etudes_indemnisation ](../README.md) > 📄 [ README.md ](.README.md)
-```
-
-🏠 [Accueil](../../../README.md) → 📁 [actes](../../README.md) → 🔒 [token](../README.md) → 💰 04_💰_Etudes_indemnisation/
 <hr>
 
 # 💰 Études d'Indemnisation

@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_JURISPRUDENCES.md ](.RAPPORT_JURISPRUDENCES.md) -->
+
 # RAPPORT DE VÉRIFICATION DES JURISPRUDENCES ET LOIS
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_JURISPRUDENCES.md ](.RAPPORT_JURISPRUDENCES.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_JURISPRUDENCES.md ](.RAPPORT_JURISPRUDENCES.md)
-```
 
 ## 🔧 Citations corrigées (avant → après)
 🔧 **L'article L. 227-8 du Code de commerce** — `LEGIARTI000006226329` (incorrect, L. 225-251) → `LEGIARTI000006227036` (L. 227-8) [Fichiers: 06_Courrier President DG.md, 03_Courrier SAS.md, 07_Plaidoirie dirigeants.md, ANNEXE B Lois Jurisprudence.md]

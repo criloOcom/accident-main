@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_ORGANISATION_METHODE.md ](.RAPPORT_ORGANISATION_METHODE.md) -->
+
 # Rapport d'Audit Organisationnel et Méthodologique
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_ORGANISATION_METHODE.md ](.RAPPORT_ORGANISATION_METHODE.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](....../README.md) > 📁 [ 🗄️_Archives ](..../README.md) > 📁 [ audit ](../README.md) > 📄 [ RAPPORT_ORGANISATION_METHODE.md ](.RAPPORT_ORGANISATION_METHODE.md)
-```
 
 ## 1. Forces
 

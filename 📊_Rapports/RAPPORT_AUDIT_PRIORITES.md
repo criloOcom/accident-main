@@ -1,14 +1,6 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_PRIORITES.md ](.RAPPORT_AUDIT_PRIORITES.md) -->
+
 # RAPPORT D'AUDIT — PRIORITÉS D'ENVOI DES COURRIERS
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_PRIORITES.md ](.RAPPORT_AUDIT_PRIORITES.md)
-```
-
-
-```
-🏠 [Accueil](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_AUDIT_PRIORITES.md ](.RAPPORT_AUDIT_PRIORITES.md)
-```
 
 > **Date :** 10 juillet 2026  
 > **Objet :** Audit de l'ordonnancement des 35 courriers (Vague 1 = 11/07, Vague 2 = 13-14/07)  

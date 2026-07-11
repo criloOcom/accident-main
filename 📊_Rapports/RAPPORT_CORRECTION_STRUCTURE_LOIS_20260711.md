@@ -1,3 +1,5 @@
+<!-- [🏠](../README.md) > 📁 [ 📊_Rapports ](../README.md) > 📄 [ RAPPORT_CORRECTION_STRUCTURE_LOIS_20260711.md ](.RAPPORT_CORRECTION_STRUCTURE_LOIS_20260711.md) -->
+
 # 📊 Rapport de Correction de Structure — 📜_Lois
 
 **Date :** 11 juillet 2026

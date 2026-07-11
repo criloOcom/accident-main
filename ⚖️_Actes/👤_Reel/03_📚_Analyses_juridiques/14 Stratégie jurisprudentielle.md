@@ -1,10 +1,4 @@
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 14 Stratégie jurisprudentielle.md ](.14 Stratégie jurisprudentielle.md)
-```
-
-```
-🏠 [Accueil](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 🔑_Token ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 14 Stratégie jurisprudentielle.md ](.14 Stratégie jurisprudentielle.md)
-```
+<!-- [🏠](../README.md) > 📁 [ ⚖️_Actes ](....../README.md) > 📁 [ 👤_Reel ](..../README.md) > 📁 [ 03_📚_Analyses_juridiques ](../README.md) > 📄 [ 14 Stratégie jurisprudentielle.md ](.14 Stratégie jurisprudentielle.md) -->
 
 ---
 titre: Stratégie jurisprudentielle — Basculement vasque salon de coiffure - Version réelle
