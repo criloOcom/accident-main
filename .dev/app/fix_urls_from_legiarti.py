@@ -40,7 +40,7 @@ def fix_url_from_legiarti(file_path):
         return False
 
 def main():
-    lois_dir = Path("/home/crilocom/accident-main/📜_Lois")
+    lois_dir = Path("/home/crilocom/accident-main/📜 Lois")
     fixed_count = 0
     
     # Trouver tous les fichiers Article*.md

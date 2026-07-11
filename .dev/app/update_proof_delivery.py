@@ -9,11 +9,11 @@ BASE = '/home/crilocom/accident-main'
 
 SENT_FILES = {
     # (subdir, filename) -> proof value
-    ('02_✉️_Courriers', '03 ✉️ Courrier SAS.md'): 'LRAR 87001424863012T',
-    ('02_✉️_Courriers', '05 ✉️ Courrier Proprietaire.md'): 'AR signé par bailleur (M. Romain Delrieu)',
-    ('02_✉️_Courriers', '06 ✉️ Courrier President DG.md'): 'LRAR 87001424721856G + 87001424862879J',
-    ('02_✉️_Courriers', '06 V2 ✉️ Relance Dirigeants.md'): 'LRAR 870014282662911 + facture Z0132713629',
-    ('02_✉️_Courriers', '10 ✉️ Courrier Doyen Juges Instruction.md'): 'Déposé au TJ Foix le 06/07/2026',
+    ('✉️ Courriers', '03 ✉️ Courrier SAS.md'): 'LRAR 87001424863012T',
+    ('✉️ Courriers', '05 ✉️ Courrier Proprietaire.md'): 'AR signé par bailleur (M. Romain Delrieu)',
+    ('✉️ Courriers', '06 ✉️ Courrier President DG.md'): 'LRAR 87001424721856G + 87001424862879J',
+    ('✉️ Courriers', '06 V2 ✉️ Relance Dirigeants.md'): 'LRAR 870014282662911 + facture Z0132713629',
+    ('✉️ Courriers', '10 ✉️ Courrier Doyen Juges Instruction.md'): 'Déposé au TJ Foix le 06/07/2026',
 }
 
 def update_file(filepath, updates):
@@ -67,8 +67,8 @@ def update_file(filepath, updates):
 
 def main():
     for (subdir, fname), proof in SENT_FILES.items():
-        for kind in ['🔑_Token', '👤_Reel']:
-            filepath = os.path.join(BASE, '⚖️_Actes', kind, subdir, fname)
+        for kind in ['🔑 Token', '👤 Reel']:
+            filepath = os.path.join(BASE, '⚖️ Actes', kind, subdir, fname)
             if not os.path.exists(filepath):
                 print(f"  ~ INTROUVABLE: {filepath}")
                 continue

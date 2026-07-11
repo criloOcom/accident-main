@@ -22,7 +22,7 @@ def resolve_target(cand, base_dir):
     cand = cand.rstrip('/')
     # chemin relatif si premier segment n'est pas un dossier racine connu du depot
     first = cand.split('/')[0]
-    ROOT_KEYS = ('⚖️_Actes', '📜_Lois', '🧠_Memory', '📊_Rapports', '📎_Annexes', '.dev')
+    ROOT_KEYS = ('⚖️ Actes', '📜 Lois', '🧠 Memory', '📊 Rapports', '📎 Annexes', '.dev')
     if cand.startswith(('.', '../', './')) or first not in ROOT_KEYS:
         target = os.path.normpath(os.path.join(base_dir, cand))
     else:
@@ -32,7 +32,7 @@ def resolve_target(cand, base_dir):
     if os.path.isdir(target):
         return True
     if '{token,reel}' in cand:
-        for subst in ('🔑_Token', '👤_Reel'):
+        for subst in ('🔑 Token', '👤 Reel'):
             c2 = cand.replace('{token,reel}', subst)
             t2 = os.path.join(ROOT, c2)
             if os.path.isfile(t2) or os.path.isdir(t2):

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Script pour ajouter les URLs officielles Légifrance dans les métadonnées YAML
-des articles de loi dans le dossier 📜_Lois/
+des articles de loi dans le dossier 📜 Lois/
 """
 
 import re
@@ -112,7 +112,7 @@ def main():
     print("🔧 Ajout des URLs Légifrance aux articles de loi")
     print("=" * 60)
     
-    lois_dir = Path("📜_Lois")
+    lois_dir = Path("📜 Lois")
     total_files = 0
     updated_files = 0
     files_without_url = []

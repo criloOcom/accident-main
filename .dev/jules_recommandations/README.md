@@ -5,6 +5,9 @@ type: readme
 ---
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules recommandations
 <!-- /Breadcrumb -->
@@ -13,7 +16,7 @@ type: readme
 
 ## 📄 Contenu
 
-- **[Recommandations pour la Rédaction des Actes Juridiques](RECOMMANDATIONS_REDACTION.md)** — Ce document compile les recommandations issues de recherches web et de l'analyse du dossier [⚖️_Actes](⚖️_Actes/README.md) afin d'améliorer la qualité, le professionnalisme et la clarté des actes juridiques produits (assignations, constitutions de partie civile, etc.).
+- **[Recommandations pour la Rédaction des Actes Juridiques](RECOMMANDATIONS_REDACTION.md)** — Ce document compile les recommandations issues de recherches web et de l'analyse du dossier [⚖️ Actes](⚖️ Actes/README.md) afin d'améliorer la qualité, le professionnalisme et la clarté des actes juridiques produits (assignations, constitutions de partie civile, etc.).
 
 ---
 *README généré automatiquement le 11 juillet 2026*

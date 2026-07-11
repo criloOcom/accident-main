@@ -11,10 +11,14 @@
             "id": "ff9c03522facdd95",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "⚖️ Actes/👤 Reel/🗂️ Organisation/10 🗂️ Plan action.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 🗂️ Plan action"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:preuves",
+                "query": "tag:procédure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,19 +186,41 @@
   },
   "active": "ff9c03522facdd95",
   "lastOpenFiles": [
-    "⚖️_Actes/👤_Reel/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md",
-    "⚖️_Actes/🔑_Token/02_✉️_Courriers/06 V2 ✉️ Relance Dirigeants.md",
-    "📊_Rapports/🗄️_Archives/audit/00_Inventaire Preuves - V1.md",
-    "🧠_Memory/EVIDENCE_MATRIX.md",
-    "🧠_Memory/DECISIONS.md",
-    "⚖️_Actes/👤_Reel/00_📂_Preuves_officielles/01 📁 Dossier UMJ Preparation.md",
-    "🧠_Memory/DESIGN.md",
-    "🧠_Memory/FINANCIAL_VARIABLES.md",
-    "🧠_Memory/JULES_MCP_GUIDELINES.md",
-    "🧠_Memory/JURITEXT_PROTOCOL.md",
-    "🧠_Memory/PIECES MAP.md",
-    "🧠_Memory/JUSTIFICATION_PROVISION_15000.md",
-    "🚦_Status/01_PREPARATION.md",
-    "README.md"
+    "⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md",
+    "⚖️ Actes/👤 Reel/🗄️ Archives/🧠 STRATEGIE Contentieux Civil.md",
+    "⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Civil.md",
+    "⚖️ Actes/👤 Reel/🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md",
+    "⚖️ Actes/Preuves officielles/20260710 📧 Actualisation Dossier ERP/README.md",
+    "⚖️ Actes/Preuves officielles/20260710 📧 Actualisation Dossier ERP/20260710-0916 MAIL Actualisation Dossier ERP.pdf",
+    "⚖️ Actes/Preuves officielles/20260710 📧 Actualisation Dossier ERP/20260710-0916 MAIL Actualisation Dossier ERP.md",
+    "⚖️ Actes/Preuves officielles/20260710 📧 Actualisation Dossier ERP/20260710-0916 MAIL Actualisation Dossier ERP.docx",
+    "⚖️ Actes/Preuves officielles/20260708 ✉️ LR Relance ASSURANCE/README.md",
+    "⚖️ Actes/Preuves officielles/20260708 ✉️ LR Relance ASSURANCE/06 V2 ✉️ Relance Dirigeants - Réel.md",
+    "⚖️ Actes/Preuves officielles/20260629 ✉️ LR Transmission TribunalFOIX/README.md",
+    "⚖️ Actes/Preuves officielles/20260629 ✉️ LR Transmission TribunalFOIX/20260629 ✉️ LR Transmission TribunalFOIX ProcureurDeLaRépublique.md",
+    "⚖️ Actes/Preuves officielles/20260629 ✉️ LR Demande ASSURANCE/README.md",
+    "⚖️ Actes/Preuves officielles/20260629 ✉️ LR Demande ASSURANCE/20260629 ✉️ LR MiseEnDemeure SAS President MrSABIR.md",
+    "⚖️ Actes/Preuves officielles/20260629 ✉️ LR Demande ASSURANCE/20260629 ✉️ LR MiseEnDemeure SAS MmeANDISSAC.md",
+    "⚖️ Actes/Preuves officielles/20260629 ✉️ LR Demande ASSURANCE/20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md",
+    "⚖️ Actes/Preuves officielles/20260629 ✉️ LR Demande ASSURANCE/20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU.md",
+    "⚖️ Actes/Preuves officielles/20260623 🩺 DrDJERBI RDV/README.md",
+    "⚖️ Actes/Preuves officielles/20260623 🩺 DrDJERBI RDV/20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ2.md",
+    "⚖️ Actes/Preuves officielles/20260623 🩺 DrDJERBI RDV/20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ1.md",
+    "⚖️ Actes/Preuves officielles/20260623 🩺 DrDJERBI RDV/20260623-1731 DR DJERBI Ordonnance Kinesitherapeute.md",
+    "⚖️ Actes/Preuves officielles/20260623 🩺 DrDJERBI RDV/20260623-1730 DR DJERBI Bilan.md",
+    "⚖️ Actes/Preuves officielles/20260618 🛡️ Assurance INFORMATION/README.md",
+    "⚖️ Actes/Preuves officielles/20260618 🛡️ Assurance INFORMATION/20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement.md",
+    "⚖️ Actes/Preuves officielles/20260619 🩺 DrDJERBI MAIL/README.md",
+    "⚖️ Actes/Preuves officielles/20260619 🩺 DrDJERBI MAIL/20260619-1528 MAIL DrDjerbi.md",
+    "⚖️ Actes/Preuves officielles/20260612 🩺 DrOXIBEL/README.md",
+    "⚖️ Actes/Preuves officielles/20260612 🩺 DrOXIBEL/20260612-1207 SITUATION Main.md",
+    "⚖️ Actes/Preuves officielles/20260710 📧 Actualisation Dossier ERP",
+    "⚖️ Actes/Preuves officielles/20260708 ✉️ LR Relance ASSURANCE",
+    "⚖️ Actes/Preuves officielles/20260629 ✉️ LR Transmission TribunalFOIX",
+    "⚖️ Actes/Preuves officielles/20260629 ✉️ LR Demande ASSURANCE",
+    "⚖️ Actes/Preuves officielles/20260623 🩺 DrDJERBI RDV",
+    "⚖️ Actes/Preuves officielles/20260619 🩺 DrDJERBI MAIL",
+    "⚖️ Actes/Preuves officielles/20260618 🛡️ Assurance INFORMATION",
+    "⚖️ Actes/Preuves officielles/20260612 🩺 DrOXIBEL"
   ]
 }

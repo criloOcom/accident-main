@@ -41,7 +41,7 @@ def process_file(filepath):
 def main():
     total_modified = 0
     total_files = 0
-    for root, dirs, files in os.walk('⚖️_Actes/🔑_Token'):
+    for root, dirs, files in os.walk('⚖️ Actes/🔑 Token'):
         for fname in sorted(files):
             if not fname.endswith('.md'):
                 continue

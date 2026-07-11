@@ -1,0 +1,120 @@
+---
+title: "Relance — Demande d'information Assurance RC et d'adresse de correspondance"
+description: "[L'Adresse de la Victime]"
+type: courrier
+date: 2026-07-08
+tags:
+  - relance
+  - dirigeants
+  - assurance
+  - LRAR
+  - fermeture boutique
+  - preuves
+statut: envoye
+destinataire: Dirigeants de l'Exploitant du Commerce
+auteur: La Victime
+reel_path: ../../👤 Reel/✉️ Courriers/06 V2 ✉️ Relance Dirigeants.md
+source: local
+---
+
+
+
+
+
+<!-- Breadcrumb -->
+[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [✉️ Courriers](./README.md) › 06 V2 ✉️ Relance Dirigeants
+<!-- /Breadcrumb -->
+
+# RELANCE — DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE
+
+**[L'Adresse de la Victime]**
+**[L'Email de la Victime]**
+
+**[L'Exploitant du Commerce (La SAS)]**
+**[Le Président de l'Exploitation]**
+**[La Directrice Générale de l'Exploitation]**
+**[L'Adresse de l'Exploitation]**
+
+**[La Ville de l'Accident]**, le **[DATE RELANCE V2]**
+
+Objet : Relance — Demande d'information assurance RC et communication d'une adresse de correspondance — Accident **[J+0 Accident]**
+
+Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce (La SAS)]**
+
+Madame la Directrice Générale, Monsieur le Président,
+
+## PRÉAMBULE — ABSENCE DE RÉPONSE ET DISSIPATION DES PREUVES
+
+Par lettre de mise en demeure adressée le **[J+31 Mises en demeure]** en recommandé avec accusé de réception à chacun de vous à l'adresse du siège social (**[L'Adresse de l'Exploitation]**), j'ai sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce (La SAS)]**.
+
+À la date de la présente, je n'ai reçu aucune réponse. Le suivi postal fait apparaître que mes recommandés n'ont pu être distribués ou retirés :
+- **[L'Exploitant du Commerce (La SAS)]** (LRAR n° **[N° LRAR Exploitant]**) : distribution impossible.
+- Madame **[La Directrice Générale de l'Exploitation]** (LRAR n° **[N° LRAR Directrice]**) : retour à l'expéditeur pour défaut d'adresse.
+- Monsieur **[Le Président de l'Exploitation]** (LRAR n° **[N° LRAR Président]**) : en attente de retrait.
+
+Seuls le bailleur, le tribunal judiciaire de **[La Ville de l'Accident]** et la CPAM ont accusé réception de leurs courriers respectifs.
+
+Je conçois que la fermeture soudaine et la réorganisation de votre établissement aient pu perturber le traitement de vos correspondances. Je reste disponible pour un échange téléphonique direct afin de clarifier la situation sereinement.
+
+### Préservation des preuves et vidéosurveillance
+
+J'ai constaté que votre salon de coiffure a fermé ses portes immédiatement après l'accident du **[J+0 Accident]** pour ne rouvrir que le **[DATE REOUVERTURE BOUTIQUE]**. 
+
+L'absence de réponse à ma mise en demeure initiale ayant dépassé le délai légal de 30 jours, l'inertie de votre société a potentiellement déjà causé l'effacement ou la destruction irrémédiable des bandes de vidéosurveillance (dont la durée de sauvegarde est limitée par la CNIL et l'article L. 252-5 du Code de la sécurité intérieure). Par ailleurs, la vasque en céramique à l'origine du sinistre et son support ont pu être réparés ou retirés.
+
+Par la présente, je vous intime formellement l'injonction de conserver et de ne pas altérer tout élément matériel restant lié à l'accident. Toute destruction ou altération intentionnelle de ces éléments est susceptible de caractériser le délit d'entrave à la manifestation de la vérité prévu par l'article 434-4 du Code pénal (reproduit en Annexe 1).
+
+Ma présence ainsi que le déroulement de l'accident sont déjà documentés par des éléments indépendants (transaction Wero, géolocalisation, rapports médicaux et procès-verbal de police).
+
+---
+
+## RAPPEL DE LA DEMANDE D'ASSURANCE
+
+Le **[J+0 Accident]** à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur. En descendant, son poids a provoqué le basculement soudain de l'installation. Par réflexe, j'ai tendu la main droite pour le retenir. Ma paume a alors percuté une cassure majeure préexistante et non signalée sur le flanc de la vasque. 
+
+Cette percussion m'a sectionné les tendons et les nerfs de l'index droit, blessure grave ayant nécessité une chirurgie réparatrice d'urgence le **[J+1 Chirurgie]** par **[Le Chirurgien SOS Main]** à **[L'Établissement SOS Main]**. Les conséquences fonctionnelles de ce sinistre sur ma vie quotidienne et mon activité professionnelle sont majeures.
+
+Je vous demande donc de me communiquer sous 15 jours :
+1. Le nom et les coordonnées de l'assureur RC professionnelle de votre société au **[J+0 Accident]** ;
+2. Une copie de l'attestation de cette assurance ;
+3. Le numéro de police associé ainsi que le contact du gestionnaire de sinistres.
+
+Cette démarche a pour but de déclarer le sinistre et de permettre un règlement amiable par votre assureur, conformément au droit d'action directe de la victime (article L. 124-3 du Code des assurances). Je reste pleinement ouvert à une médiation ou à un échange amiable.
+
+### Signalements administratifs
+Compte tenu de la gravité de l'accident et des manquements flagrants à l'obligation de sécurité des locaux, je me réserve le droit de procéder à des signalements auprès de l'Inspection du travail (DREETS - article L. 4121-1 du Code du travail) et de la commission de sécurité des ERP.
+
+---
+
+## DEMANDE D'ADRESSE DE CORRESPONDANCE ET RISQUES FINANCIERS
+
+Face aux difficultés de distribution postale à votre siège social, je vous demande de me fournir par écrit une adresse de correspondance valide (boîte aux lettres, domicile ou adresse de votre conseil juridique).
+
+À défaut de réponse ou de communication d'une adresse valide dans un délai de quinze (15) jours, je serai contraint de :
+
+1. Faire signifier mes actes officiels par la voie d'un **Commissaire de Justice (ex-huissier)** à vos frais, ce qui figerait votre refus de coopérer devant les tribunaux ;
+2. Saisir le juge des référés du tribunal judiciaire de **[La Ville de l'Accident]** par voie de **requête** (non contradictoire, afin de préserver l'effet de surprise) sur le fondement de l'article 145 du Code de procédure civile, pour ordonner sous astreinte la communication des documents ;
+3. Solliciter devant ce juge votre condamnation solidaire au remboursement intégral de l'ensemble de mes frais d'avocat et de procédure sur le fondement de l'article 700 du Code de procédure civile.
+
+Dans l'attente d'un échange constructif, je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président, l'expression de mes salutations distinguées.
+
+**[La Victime]**
+
+---
+
+## ANNEXE JURIDIQUE — EXTRAIT DES TEXTES APPLICABLES
+
+### Annexe 1 : Entrave à la manifestation de la vérité
+**Article 434-4 du Code pénal (version en vigueur au 29 mai 2026)** :
+> « Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité :
+> 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices ;
+> 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. »
+
+### Annexe 2 : Responsabilité personnelle des dirigeants de SAS
+La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l'égard des tiers pour faute détachable de leurs fonctions, caractérisée par un manquement délibéré d'une particulière gravité (renvois des articles L. 227-1, L. 227-8 et L. 225-251 du Code de commerce).
+**Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092 (arrêt SATI)** :
+> « La faute du dirigeant social, même lorsqu'elle est commise dans l'exercice de ses fonctions, est séparable de celles-ci lorsqu'elle constitue un manquement délibéré à ses obligations et engage sa responsabilité personnelle. »
+
+### Annexe 3 : Mesures d'instruction in futurum (avant tout procès)
+**Article 145 du Code de procédure civile** :
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »

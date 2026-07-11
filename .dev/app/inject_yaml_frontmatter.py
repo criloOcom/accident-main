@@ -12,7 +12,7 @@ Ajoute un description automatique si absent.
 Usage:
     python3 .dev/app/inject_yaml_frontmatter.py              # run
     python3 .dev/app/inject_yaml_frontmatter.py --dry-run    # preview
-    python3 .dev/app/inject_yaml_frontmatter.py --path "📜_Lois/📒_Code_civil"  # cible
+    python3 .dev/app/inject_yaml_frontmatter.py --path "📜 Lois/📒 Code civil"  # cible
 """
 
 from __future__ import annotations
@@ -45,7 +45,7 @@ def main():
     parser = argparse.ArgumentParser(description="Inject YAML frontmatter into .md files")
     parser.add_argument("--dry-run", action="store_true", help="Preview only, no changes")
     parser.add_argument("--path", type=str, default=None,
-                        help="Target subpath (e.g. '📜_Lois/📒_Code_civil')")
+                        help="Target subpath (e.g. '📜 Lois/📒 Code civil')")
     args = parser.parse_args()
 
     root = PROJECT_ROOT

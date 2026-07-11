@@ -9,7 +9,7 @@ et génère un README.md avec liste à puces.
 Usage:
     python3 .dev/app/generate_readmes.py                  # génère tout
     python3 .dev/app/generate_readmes.py --dry-run        # preview
-    python3 .dev/app/generate_readmes.py --path "📜_Lois"  # cible
+    python3 .dev/app/generate_readmes.py --path "📜 Lois"  # cible
 """
 
 from __future__ import annotations

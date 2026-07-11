@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Script pour corriger la structure des fichiers dans 📜_Lois/
+Script pour corriger la structure des fichiers dans 📜 Lois/
 1. Corriger la nomenclature des breadcrumbs (🏠 au lieu de 🏠 HUB)
 2. Ajouter des README.md dans chaque dossier
 3. Réorganiser les articles de loi dans les bons dossiers
@@ -13,7 +13,7 @@ from pathlib import Path
 from datetime import datetime
 
 # Configuration
-BASE_DIR = Path("/home/crilocom/accident-main/📜_Lois")
+BASE_DIR = Path("/home/crilocom/accident-main/📜 Lois")
 CODE_PENAL_ARTICLES = [
     "121-3", "221-1", "222-19", "222-20", "223-1", "314-7", "434-4", "434-15", "434-15-1"
 ]
@@ -86,7 +86,7 @@ def create_readme_for_directory(dir_path, parent_readme_path):
 
 def reorganize_articles():
     """Réorganiser les articles dans les bons dossiers"""
-    autres_codes = BASE_DIR / "📒_Autres_codes"
+    autres_codes = BASE_DIR / "📒 Autres codes"
     
     if not autres_codes.exists():
         return
@@ -100,42 +100,42 @@ def reorganize_articles():
         # Vérifier Code pénal
         for article in CODE_PENAL_ARTICLES:
             if article.replace('-', '_') in filename or article.replace('-', '') in filename:
-                target_dir = BASE_DIR / "📒_Code_penal"
+                target_dir = BASE_DIR / "📒 Code penal"
                 break
         
         # Vérifier Code civil
         if not target_dir:
             for article in CODE_CIVIL_ARTICLES:
                 if article in filename:
-                    target_dir = BASE_DIR / "📒_Code_civil"
+                    target_dir = BASE_DIR / "📒 Code civil"
                     break
         
         # Vérifier Code de procédure civile
         if not target_dir:
             for article in CODE_PROCEDURE_CIVILE_ARTICLES:
                 if article in filename or f"Article{article}" in filename:
-                    target_dir = BASE_DIR / "📒_Code_procedure_civile"
+                    target_dir = BASE_DIR / "📒 Code procedure civile"
                     break
         
         # Vérifier Code de procédure pénale
         if not target_dir:
             for article in CODE_PROCEDURE_PENALE_ARTICLES:
                 if article in filename or f"Article{article}" in filename:
-                    target_dir = BASE_DIR / "📒_Code_procedure_penale"
+                    target_dir = BASE_DIR / "📒 Code procedure penale"
                     break
         
         # Vérifier Code des assurances
         if not target_dir:
             for article in CODE_ASSURANCES_ARTICLES:
                 if article in filename:
-                    target_dir = BASE_DIR / "📒_Code_assurances"
+                    target_dir = BASE_DIR / "📒 Code assurances"
                     break
         
         # Vérifier Code de commerce
         if not target_dir:
             for article in CODE_COMMERCE_ARTICLES:
                 if article.replace('-', '_') in filename or article.replace('-', '') in filename:
-                    target_dir = BASE_DIR / "📒_Code_commerce"
+                    target_dir = BASE_DIR / "📒 Code commerce"
                     break
         
         # Si un dossier cible est trouvé, déplacer le fichier
@@ -178,7 +178,7 @@ def process_directory(directory):
         print(f"Traité: {directory.name}/{md_file.name}")
 
 def main():
-    print("🔧 Correction de la structure des fichiers dans 📜_Lois/")
+    print("🔧 Correction de la structure des fichiers dans 📜 Lois/")
     print("=" * 60)
     
     # 1. Réorganiser les articles
@@ -206,7 +206,7 @@ def main():
     print("\n✅ Correction terminée!")
 
 def update_main_readme():
-    """Mettre à jour le README principal de 📜_Lois"""
+    """Mettre à jour le README principal de 📜 Lois"""
     readme_path = BASE_DIR / "README.md"
     
     with open(readme_path, 'r', encoding='utf-8') as f:
@@ -216,13 +216,13 @@ def update_main_readme():
     content = fix_breadcrumb_content(content)
     
     # Mettre à jour les comptes d'articles
-    code_penal_count = len(list((BASE_DIR / "📒_Code_penal").glob("Article*.md")))
-    code_civil_count = len(list((BASE_DIR / "📒_Code_civil").glob("Article*.md")))
-    code_proc_civile_count = len(list((BASE_DIR / "📒_Code_procedure_civile").glob("Article*.md")))
-    code_proc_penale_count = len(list((BASE_DIR / "📒_Code_procedure_penale").glob("Article*.md")))
-    code_assurances_count = len(list((BASE_DIR / "📒_Code_assurances").glob("Article*.md")))
-    code_commerce_count = len(list((BASE_DIR / "📒_Code_commerce").glob("Article*.md")))
-    autres_codes_count = len(list((BASE_DIR / "📒_Autres_codes").glob("Article*.md")))
+    code_penal_count = len(list((BASE_DIR / "📒 Code penal").glob("Article*.md")))
+    code_civil_count = len(list((BASE_DIR / "📒 Code civil").glob("Article*.md")))
+    code_proc_civile_count = len(list((BASE_DIR / "📒 Code procedure civile").glob("Article*.md")))
+    code_proc_penale_count = len(list((BASE_DIR / "📒 Code procedure penale").glob("Article*.md")))
+    code_assurances_count = len(list((BASE_DIR / "📒 Code assurances").glob("Article*.md")))
+    code_commerce_count = len(list((BASE_DIR / "📒 Code commerce").glob("Article*.md")))
+    autres_codes_count = len(list((BASE_DIR / "📒 Autres codes").glob("Article*.md")))
     
     # Mettre à jour les comptes
     content = re.sub(r'### 📒 Code pénal \(\d+ articles\)', f'### 📒 Code pénal ({code_penal_count} articles)', content)

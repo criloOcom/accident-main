@@ -1,55 +1,83 @@
 #!/usr/bin/env python3
 """
-Script simple pour corriger les fils d'Ariane dans les fichiers Article*.md
+fix_breadcrumbs_simple.py — Ajoute/génère le fil d'Ariane (<!-- Breadcrumb -->)
+dans les fichiers Article*.md sous 📜 Lois/.
+
+Usage: python3 fix_breadcrumbs_simple.py
 """
 
 from pathlib import Path
 
+LOIS_DIR = Path("/home/crilocom/accident-main/📜 Lois")
+SEP = " › "
+
+
+def generate_breadcrumb(file_path):
+    rel = file_path.relative_to(LOIS_DIR)
+    parent = rel.parent
+    depth = len(parent.parts) if parent != Path(".") else 0
+    home = "../" * (depth + 1) + "README.md"
+    leaf = file_path.name.replace(".md", "").replace("_", " ")
+
+    parts = [f"[🏠]({home})"]
+    parts.append(f"[📜 Lois](README.md)")
+
+    if parent != Path("."):
+        parts.append(f"[{parent.name}](./README.md)")
+
+    breadcrumb = SEP.join(parts) + SEP + leaf
+    return f"<!-- Breadcrumb -->\n{breadcrumb}\n<!-- /Breadcrumb -->"
+
+
+def strip_legacy_breadcrumb(content):
+    """Supprime un fil d'Ariane legacy (format >) ou HTML s'il existe."""
+    import re
+    # HTML format
+    m = re.search(r'<!-- Breadcrumb -->.*?<!-- /Breadcrumb -->', content, re.DOTALL)
+    if m:
+        return (content[:m.start()] + content[m.end():]).strip("\n")
+    # Legacy format with 🏠 and >
+    for line in content.split("\n"):
+        if line.strip().startswith("🏠") and ">" in line:
+            content = content.replace(line, "", 1)
+            break
+    return content.strip("\n")
+
+
 def main():
-    lois_dir = Path("/home/crilocom/accident-main/📜_Lois")
-    fixed_count = 0
-    
-    # Trouver tous les fichiers Article*.md
-    article_files = list(lois_dir.rglob("Article*.md"))
-    
-    print(f"Trouvé {len(article_files)} fichiers à traiter...")
-    
-    for file_path in article_files:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-        
-        # Vérifier si le fil d'Ariane est déjà présent
-        if content.startswith("🏠"):
-            print(f"✓ {file_path.name} - Fil d'Ariane déjà présent")
-            continue
-        
-        # Générer un fil d'Ariane simple
-        relative_path = file_path.relative_to(lois_dir)
-        parent_dir = relative_path.parent
-        
-        # Compter le nombre de niveaux pour les ..
-        depth = len(parent_dir.parts) if parent_dir != Path(".") else 0
-        home_link = "../" * (depth + 1) + "README.md"
-        
-        breadcrumb = f"🏠 [Accueil]({home_link}) > 📁 [📜_Lois](README.md)"
-        
-        # Ajouter le dossier spécifique si ce n'est pas la racine
-        if parent_dir != Path("."):
-            breadcrumb += f" > 📁 [{parent_dir.name}](README.md)"
-        
-        breadcrumb += f" > 📄 [{file_path.name}]({file_path.name})"
-        
-        # Ajouter le fil d'Ariane avant le contenu
-        new_content = f"{breadcrumb}\n\n{content}"
-        
-        # Écrire le fichier corrigé
-        with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(new_content)
-        
-        print(f"✓ {file_path.name} - Fil d'Ariane ajouté")
-        fixed_count += 1
-    
-    print(f"\n✅ Correction terminée : {fixed_count}/{len(article_files)} fichiers modifiés")
+    article_files = list(LOIS_DIR.rglob("Article*.md"))
+    print(f"Trouvé {len(article_files)} fichiers Article*.md")
+
+    fixed = 0
+    for fp in article_files:
+        content = fp.read_text(encoding="utf-8")
+        old_content = content
+
+        # Strip existing breadcrumb (any format)
+        content = strip_legacy_breadcrumb(content)
+
+        # Generate new breadcrumb
+        bc = generate_breadcrumb(fp)
+
+        # Insert after YAML if present
+        import re
+        m_yaml = re.match(r'^---\s*\n.*?\n---\s*\n?', content, re.DOTALL)
+        if m_yaml:
+            yaml_block = m_yaml.group(0)
+            after = content[m_yaml.end():]
+            new_content = yaml_block + "\n" + bc + "\n\n" + after.lstrip("\n")
+        else:
+            new_content = bc + "\n\n" + content.lstrip("\n")
+
+        if new_content != old_content:
+            fp.write_text(new_content, encoding="utf-8")
+            print(f"  ✅ {fp.name}")
+            fixed += 1
+        else:
+            print(f"  ✓ {fp.name} — déjà à jour")
+
+    print(f"\n✅ {fixed}/{len(article_files)} fichiers mis à jour")
+
 
 if __name__ == "__main__":
     main()

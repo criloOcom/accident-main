@@ -15,7 +15,7 @@ Détection d'un tableau "listing" à convertir :
 Usage :
   python3 .dev/app/convert_tables_to_lists.py            # dry-run
   python3 .dev/app/convert_tables_to_lists.py --apply     # écrit
-  python3 .dev/app/convert_tables_to_lists.py --path "⚖️_Actes"  # cible
+  python3 .dev/app/convert_tables_to_lists.py --path "⚖️ Actes"  # cible
 """
 import os
 import re

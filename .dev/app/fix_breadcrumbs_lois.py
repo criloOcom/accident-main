@@ -1,70 +1,79 @@
 #!/usr/bin/env python3
 """
-Script pour corriger les fils d'Ariane dans les fichiers Article*.md
-Conforme au protocole : YAML en ligne 1, puis fil d'Ariane, puis contenu
+fix_breadcrumbs_lois.py — Génère les fils d'Ariane (<!-- Breadcrumb -->)
+pour les fichiers Article*.md sous 📜 Lois/.
+Conforme au protocole : YAML en ligne 1, puis breadcrumb, puis contenu.
+
+Usage: python3 fix_breadcrumbs_lois.py
 """
 
 from pathlib import Path
 import re
 
+LOIS_DIR = Path("/home/crilocom/accident-main/📜 Lois")
+SEP = " › "
+
+
 def generate_breadcrumb(file_path):
-    """Génère le fil d'Ariane basé sur la position du fichier"""
-    parts = []
-    current = file_path.parent
-    
-    # Remonter jusqu'à la racine du projet
-    while str(current) != "/home/crilocom/accident-main":
-        if current.name == "📜_Lois":
-            parts.insert(0, f"📄 [{file_path.name}]({file_path.name})"
-            parts.insert(0, f"📁 [{current.name}](../README.md)")
-        elif current.name.startswith("📒_"):
-            parts.insert(0, f"📁 [{current.name}](../README.md)")
-        current = current.parent
-    
-    # Ajouter le lien vers l'accueil
-    depth = len(parts) - 1
-    home_link = "../" * depth + "README.md"
-    parts.insert(0, f"🏠 [Accueil]({home_link}) > ")
-    
-    return " > ".join(parts)
+    rel = file_path.relative_to(LOIS_DIR)
+    parent = rel.parent
+    depth = len(parent.parts) if parent != Path(".") else 0
+    home = "../" * (depth + 1) + "README.md"
+    leaf = file_path.name.replace(".md", "").replace("_", " ")
+
+    parts = [f"[🏠]({home})", f"[📜 Lois](README.md)"]
+
+    if parent != Path("."):
+        pname = parent.name.replace("_", " ")
+        parts.append(f"[{pname}](./README.md)")
+
+    breadcrumb = SEP.join(parts) + SEP + leaf
+    return f"<!-- Breadcrumb -->\n{breadcrumb}\n<!-- /Breadcrumb -->"
+
+
+def strip_legacy_breadcrumb(content):
+    m = re.search(r'<!-- Breadcrumb -->.*?<!-- /Breadcrumb -->', content, re.DOTALL)
+    if m:
+        return (content[:m.start()] + content[m.end():]).strip("\n")
+    for line in content.split("\n"):
+        if line.strip().startswith("🏠") and ">" in line:
+            content = content.replace(line, "", 1).strip("\n")
+            break
+    return content.strip("\n")
+
 
 def fix_breadcrumb_in_file(file_path):
-    """Corrige le fil d'Ariane dans un fichier spécifique"""
-    with open(file_path, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    # Vérifier si le fil d'Ariane est déjà présent
-    if content.startswith("🏠"):
-        print(f"✓ {file_path.name} - Fil d'Ariane déjà présent")
+    content = file_path.read_text(encoding="utf-8")
+    original = content
+
+    content = strip_legacy_breadcrumb(content)
+
+    bc = generate_breadcrumb(file_path)
+    m_yaml = re.match(r'^---\s*\n.*?\n---\s*\n?', content, re.DOTALL)
+    if m_yaml:
+        yaml_block = m_yaml.group(0)
+        after = content[m_yaml.end():]
+        new_content = yaml_block + "\n" + bc + "\n\n" + after.lstrip("\n")
+    else:
+        new_content = bc + "\n\n" + content.lstrip("\n")
+
+    if new_content == original:
+        print(f"  ✓ {file_path.name} — déjà à jour")
         return False
-    
-    # Générer le nouveau fil d'Ariane
-    breadcrumb = generate_breadcrumb(file_path)
-    
-    # Ajouter le fil d'Ariane avant le YAML
-    new_content = f"{breadcrumb}\n\n{content}"
-    
-    # Écrire le fichier corrigé
-    with open(file_path, 'w', encoding='utf-8') as f:
-        f.write(new_content)
-    
-    print(f"✓ {file_path.name} - Fil d'Ariane ajouté")
+
+    file_path.write_text(new_content, encoding="utf-8")
+    print(f"  ✅ {file_path.name}")
     return True
 
+
 def main():
-    lois_dir = Path("/home/crilocom/accident-main/📜_Lois")
-    fixed_count = 0
-    
-    # Trouver tous les fichiers Article*.md
-    article_files = list(lois_dir.rglob("Article*.md"))
-    
-    print(f"Trouvé {len(article_files)} fichiers à traiter...")
-    
-    for file_path in article_files:
-        if fix_breadcrumb_in_file(file_path):
-            fixed_count += 1
-    
-    print(f"\n✅ Correction terminée : {fixed_count}/{len(article_files)} fichiers modifiés")
+    article_files = list(LOIS_DIR.rglob("Article*.md"))
+    print(f"Trouvé {len(article_files)} fichiers Article*.md")
+
+    fixed = sum(1 for fp in article_files if fix_breadcrumb_in_file(fp))
+
+    print(f"\n✅ {fixed}/{len(article_files)} fichiers mis à jour")
+
 
 if __name__ == "__main__":
     main()

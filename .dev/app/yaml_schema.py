@@ -48,22 +48,22 @@ CANONICAL_TYPES: dict[str, str] = {
 }
 
 DIR_TYPE_MAP: dict[str, str] = {
-    "📜_Lois": "loi",
-    "📜_Jurisprudence": "jurisprudence",
-    "📊_Index": "readme",
-    "🔑_Token": "readme",
-    "👤_Reel": "readme",
-    "00_📂_Preuves_officielles": "preuve",
-    "01_⚖️_Actes_proceduraux": "assignation",
-    "02_✉️_Courriers": "courrier",
-    "03_📚_Analyses_juridiques": "analyse_juridique",
-    "04_💰_Etudes_indemnisation": "etude_indemnisation",
-    "05_🗂️_Organisation": "readme",
-    "06_🗄️_Archives": "archive",
-    "📎_Annexes": "archive",
-    "🧠_Memory": "memory",
-    "🚦_Status": "status",
-    "📊_Rapports": "rapport",
+    "📜 Lois": "loi",
+    "📜 Jurisprudence": "jurisprudence",
+    "📊 Index": "readme",
+    "🔑 Token": "readme",
+    "👤 Reel": "readme",
+    "📂 Preuves officielles": "preuve",
+    "01_⚖️ Actes_proceduraux": "assignation",
+    "✉️ Courriers": "courrier",
+    "📚 Analyses juridiques": "analyse_juridique",
+    "💰 Etudes indemnisation": "etude_indemnisation",
+    "🗂️ Organisation": "readme",
+    "06_🗄️ Archives": "archive",
+    "📎 Annexes": "archive",
+    "🧠 Memory": "memory",
+    "🚦 Status": "status",
+    "📊 Rapports": "rapport",
     ".dev": "readme",
 }
 
@@ -82,7 +82,7 @@ def detect_type(filepath: str) -> str:
     parts = filepath.replace("\\", "/").split("/")
     loisdir_idx = -1
     for i, part in enumerate(parts):
-        if "📜_Lois" in part or "📜_Lois" in part.replace("%20", " "):
+        if "📜 Lois" in part or "📜 Lois" in part.replace("%20", " "):
             loisdir_idx = i
     if loisdir_idx >= 0:
         for j in range(loisdir_idx, len(parts)):

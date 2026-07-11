@@ -5,6 +5,9 @@ type: readme
 ---
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](README.md)
 <!-- /Breadcrumb -->
@@ -17,21 +20,21 @@ type: readme
 
 ## 📂 Arborescence
 
-- [**⚖️ Actes**](./⚖️_Actes/README.md) — Actes, courriers, analyses juridiques, études d'indemnisation (versions tokenisées + réelles)
-- [**📜 Lois et jurisprudence**](./📜_Lois/README.md) — Codes, articles, arrêts de la Cour de cassation, index juridique
-- [**🧠 Mémoire du projet**](./🧠_Memory/README.md) — Règles, décisions, état d'avancement, correspondances tokens, protocoles
-- [**📊 Rapports**](./📊_Rapports/README.md) — Audits, évaluations, expertise, archives
-- [**🚦 Status des actes**](./🚦_Status/README.md) — Suivi d'envoi par statut (préparation, prêt, envoyé)
+- [**⚖️ Actes**](./⚖️ Actes/README.md) — Actes, courriers, analyses juridiques, études d'indemnisation (versions tokenisées + réelles)
+- [**📜 Lois et jurisprudence**](./📜 Lois/README.md) — Codes, articles, arrêts de la Cour de cassation, index juridique
+- [**🧠 Mémoire du projet**](./🧠 Memory/README.md) — Règles, décisions, état d'avancement, correspondances tokens, protocoles
+- [**📊 Rapports**](./📊 Rapports/README.md) — Audits, évaluations, expertise, archives
+- [**🚦 Status des actes**](./🚦 Status/README.md) — Suivi d'envoi par statut (préparation, prêt, envoyé)
 - [**🔧 Développement**](./.dev/README.md) — Scripts, tests, déploiement
 
 ## 🔗 Accès rapide
 
-- [État d'avancement complet](./🧠_Memory/STATUS.md)
-- [Token Map (correspondance token ↔ réel)](./🧠_Memory/TOKEN%20MAP.md)
-- [Pièces citées (PIECES MAP)](./🧠_Memory/PIECES%20MAP.md)
-- [Règles permanentes](./🧠_Memory/RULES.md)
-- [Dernière évaluation Dintilhac](./⚖️_Actes/🔑_Token/04_💰_Etudes_indemnisation/12%20Évaluation%20Dintilhac%20détaillée.md)
-- [Todo & priorités](./🧠_Memory/TODO.md)
+- [État d'avancement complet](./🧠 Memory/STATUS.md)
+- [Token Map (correspondance token ↔ réel)](./🧠 Memory/TOKEN%20MAP.md)
+- [Pièces citées (PIECES MAP)](./🧠 Memory/PIECES%20MAP.md)
+- [Règles permanentes](./🧠 Memory/RULES.md)
+- [Dernière évaluation Dintilhac](./⚖️ Actes/🔑 Token/💰 Etudes indemnisation/12%20Évaluation%20Dintilhac%20détaillée.md)
+- [Todo & priorités](./🧠 Memory/TODO.md)
 
 ---
 

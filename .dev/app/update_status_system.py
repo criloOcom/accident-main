@@ -13,8 +13,8 @@ import glob
 from collections import defaultdict
 
 BASE = '/home/crilocom/accident-main'
-TOKEN_BASE = os.path.join(BASE, '⚖️_Actes', '🔑_Token')
-REAL_BASE = os.path.join(BASE, '⚖️_Actes', '👤_Reel')
+TOKEN_BASE = os.path.join(BASE, '⚖️ Actes', '🔑 Token')
+REAL_BASE = os.path.join(BASE, '⚖️ Actes', '👤 Reel')
 STATUS_DIR = os.path.join(BASE, 'status')
 
 STATUT_NORMALIZE = {
