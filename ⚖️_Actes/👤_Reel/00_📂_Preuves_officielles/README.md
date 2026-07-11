@@ -1,6 +1,6 @@
 ---
 title: "Index — 00_📂_Preuves_officielles (Versions Réelles)"
-description: "- [01 📁 Dossier UMJ Preparation.md](01 📁 Dossier UMJ Preparation.md)"
+description: "- [01 📁 Dossier UMJ Preparation.md](01%20%F0%9F%93%81%20Dossier%20UMJ%20Preparation.md)"
 type: readme
 ---
 
@@ -11,4 +11,4 @@ type: readme
 
 # Index — 00_📂_Preuves_officielles (Versions Réelles)
 
-- [01 📁 Dossier UMJ Preparation.md](01 📁 Dossier UMJ Preparation.md)
+- [01 📁 Dossier UMJ Preparation.md](01%20%F0%9F%93%81%20Dossier%20UMJ%20Preparation.md)

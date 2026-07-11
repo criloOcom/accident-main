@@ -175,7 +175,7 @@ Documents non indexés conservés dans `archives/` :
 7. Nomenclature normalisée ✓
 8. Formatting appliqué ✓
 9. Liens Légifrance ajoutés ✓
-10. Restructuration [⚖️_Actes](⚖️_Actes/README.md) — 00 à 05 + archives ✓
+10. Restructuration [⚖️_Actes](%E2%9A%96%EF%B8%8F_Actes/README.md) — 00 à 05 + archives ✓
 11. Anciens dossiers `contentieux-civil/` et `contentieux-penal/` supprimés ✓
 12. 06_Annexes/` déplacé dans `archives/annexes/` ✓
 13. Bordereau unifié V2 — fusion Audience + ancien, 43 pièces séquentielles ✓

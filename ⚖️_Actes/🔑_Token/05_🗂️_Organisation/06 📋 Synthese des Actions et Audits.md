@@ -1,6 +1,6 @@
 ---
 title: "Note de Synthèse — Avancement des Audits & Recommandations"
-description: "Cette note récapitule l'analyse systématique de tous les rapports d'audit dans [📊_Rapports](📊_Rapports/README.md) et catégorise l'état d'avancement des tâches en suspens."
+description: "Cette note récapitule l'analyse systématique de tous les rapports d'audit dans [📊_Rapports](%F0%9F%93%8A_Rapports/README.md) et catégorise l'état d'avancement des tâches en suspens."
 type: readme
 statut: brouillon
 reel_path: ../../👤_Reel/05_🗂️_Organisation/06 📋 Synthese des Actions et Audits.md
@@ -13,7 +13,7 @@ reel_path: ../../👤_Reel/05_🗂️_Organisation/06 📋 Synthese des Actions 
 
 # Note de Synthèse — Avancement des Audits & Recommandations
 
-Cette note récapitule l'analyse systématique de tous les rapports d'audit dans [📊_Rapports](📊_Rapports/README.md) et catégorise l'état d'avancement des tâches en suspens.
+Cette note récapitule l'analyse systématique de tous les rapports d'audit dans [📊_Rapports](%F0%9F%93%8A_Rapports/README.md) et catégorise l'état d'avancement des tâches en suspens.
 
 ---
 
@@ -43,7 +43,7 @@ Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent
 
 Toutes les erreurs techniques de rédaction relevées par les réviseurs et spécialistes juridiques ont été traitées.
 
-- **Nettoyage RGPD & Anonymisation** : L'adresse de l'exploitation ainsi que les noms complets ont été tokenisés dans la totalité des documents de travail ([⚖️_Actes/🔑_Token](⚖️_Actes/🔑_Token/README.md)).
+- **Nettoyage RGPD & Anonymisation** : L'adresse de l'exploitation ainsi que les noms complets ont été tokenisés dans la totalité des documents de travail ([⚖️_Actes/🔑_Token](%E2%9A%96%EF%B8%8F_Actes/%F0%9F%94%91_Token/README.md)).
 - **Correction des Articles de Loi Erronés** : Suppression définitive de l'article erroné `L.211-26 C. assurances` et correction systématique de toutes les citations.
 - **Référé vs Requête** : Distanciation formelle des démarches contradictoires (référé pour provision à valoir de 15 000 €) et des mesures urgentes in futurum (requête de constat urgent art. 145 CPC).
 - **Intégration de la clause Legal Hold** : Clause formelle de préservation des preuves ajoutée dans les mises en demeure.

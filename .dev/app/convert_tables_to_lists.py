@@ -74,18 +74,22 @@ def is_listing_table(hdr, rows):
 
 
 def clean_cell(cell):
-    """Retire le gras/backticks autour d'un numero, garde le lien (decode l'URL)."""
+    """Retire le gras/backticks autour d'un numero, garde le lien.
+    Le LABEL est decode (lisible) ; la CIBLE est re-encodée (url-safe)
+    pour rester un lien cliquable sous GitHub (les espaces/emojis dans
+    une cible non encodée cassent le rendu du lien)."""
     # extrait le [texte](lien) si present
     m = re.search(r'\[([^\]]+)\]\(([^)]+)\)', cell)
     if m:
         label = m.group(1)
         link = m.group(2)
-        # decode les liens URL-encodes (ex. 03%20%F0%9F%94%8D%20X.md -> 03 🔍 X.md)
         try:
             import urllib.parse
-            decoded = urllib.parse.unquote(link)
-            if decoded != link:
-                link = decoded
+            # label lisible (decode pour l'affichage)
+            label = urllib.parse.unquote(label)
+            # cible : re-encode les espaces/emojis pour que le lien soit cliquable
+            if ' ' in link or any(ord(c) > 127 for c in link):
+                link = urllib.parse.quote(link)
         except Exception:
             pass
         return label, link
