@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 fondements
+---
+title: "📁 fondements"
+description: "README du dossier fondements"
+type: directory
+---
 
-🔙 [📁 🗄️_Archives](../README.md)
+# 📁 fondements
 
 ## 📄 Contenu
 

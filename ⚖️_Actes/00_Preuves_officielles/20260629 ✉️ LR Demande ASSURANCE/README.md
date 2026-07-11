@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 20260629 ✉️ LR Demande ASSURANCE
+---
+title: "📁 20260629 LR Demande ASSURANCE"
+description: "README de la pièce LR Demande ASSURANCE"
+type: directory
+---
 
-🔙 [📁 00_Preuves_officielles](../README.md)
+# 📁 20260629 ✉️ LR Demande ASSURANCE
 
 ## 📄 Contenu
 

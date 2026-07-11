@@ -116,3 +116,4 @@ Le projet dispose d'un notebook **Google NotebookLM** dédié (`accident-main`) 
 2. Après toute modification de structure : **mettre à jour README.md**
 3. Après toute création de document tokenisé : **générer version réelle** si nécessaire
 4. Token GitHub indisponible ? Vérifier dans Secret Manager avant d'utiliser le fallback `~/.git-credentials`
+5. **INTERDICTION FORMELLE des liens absolus en interne** : tout lien pointant vers un fichier du dépôt DOIT être un chemin relatif. Seuls les liens externes (Légifrance, Judilibre, sites web) peuvent être des URL absolues `https://...`. Voir `🧠_Memory/RULES.md #15`.

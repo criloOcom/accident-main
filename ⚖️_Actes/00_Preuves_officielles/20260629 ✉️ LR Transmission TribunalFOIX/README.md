@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 20260629 ✉️ LR Transmission TribunalFOIX
+---
+title: "📁 20260629 LR Transmission TribunalFOIX"
+description: "README de la pièce LR Transmission TribunalFOIX"
+type: directory
+---
 
-🔙 [📁 00_Preuves_officielles](../README.md)
+# 📁 20260629 ✉️ LR Transmission TribunalFOIX
 
 ## 📄 Contenu
 

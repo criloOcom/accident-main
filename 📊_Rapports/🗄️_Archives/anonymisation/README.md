@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 anonymisation
+---
+title: "📁 anonymisation"
+description: "README du dossier anonymisation"
+type: directory
+---
 
-🔙 [📁 🗄️_Archives](../README.md)
+# 📁 anonymisation
 
 ## 📄 Contenu
 

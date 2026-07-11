@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 expertise
+---
+title: "📁 expertise"
+description: "README du dossier expertise"
+type: directory
+---
 
-🔙 [📁 jules](../README.md)
+# 📁 expertise
 
 ## 📄 Contenu
 

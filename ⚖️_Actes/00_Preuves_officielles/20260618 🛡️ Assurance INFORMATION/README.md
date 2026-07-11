@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 20260618 🛡️ Assurance INFORMATION
+---
+title: "📁 20260618 Assurance INFORMATION"
+description: "README de la pièce Assurance INFORMATION"
+type: directory
+---
 
-🔙 [📁 00_Preuves_officielles](../README.md)
+# 📁 20260618 🛡️ Assurance INFORMATION
 
 ## 📄 Contenu
 

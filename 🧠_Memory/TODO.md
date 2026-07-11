@@ -88,7 +88,7 @@ ni contacter des personnes à ta place.
 - [ ] Relancer Inspection du Travail / CODAF (pas d'accusé réception ?)
 - [ ] Vérifier retour AR de la mise en demeure SAS
 - [ ] Suivre le courrier Mairie de Foix / TAVELLA
-- [ ] **Consulter le Dossier Spécial CERFA** ([05 📋 Dossier Special CERFA.md](file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/05_🗂️_Organisation/05%20%F0%9F%93%8B%20Dossier%20Special%20CERFA.md)) pour l'organisation des démarches administratives officieuses.
+- [ ] **Consulter le Dossier Spécial CERFA** ([05 📋 Dossier Special CERFA.md](../⚖️_Actes/🔑_Token/05_🗂️_Organisation/05%20📋%20Dossier%20Special%20CERFA.md)) pour l'organisation des démarches administratives officieuses.
 
 ### Processus général (vision d'ensemble)
 

@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 20260602 👮‍♂️ Police PV
+---
+title: "📁 20260602 Police PV"
+description: "README de la pièce Police PV"
+type: directory
+---
 
-🔙 [📁 00_Preuves_officielles](../README.md)
+# 📁 20260602 👮‍♂️ Police PV
 
 ## 📄 Contenu
 

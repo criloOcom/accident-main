@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 pieces
+---
+title: "📁 pieces"
+description: "README du dossier pieces"
+type: directory
+---
 
-🔙 [📁 🗄️_Archives](../README.md)
+# 📁 pieces
 
 ## 📄 Contenu
 

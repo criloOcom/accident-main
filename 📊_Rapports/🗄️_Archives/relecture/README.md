@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 relecture
+---
+title: "📁 relecture"
+description: "README du dossier relecture"
+type: directory
+---
 
-🔙 [📁 🗄️_Archives](../README.md)
+# 📁 relecture
 
 ## 📄 Contenu
 

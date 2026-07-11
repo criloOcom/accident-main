@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 20260603 📥 Attestation DEPOT
+---
+title: "📁 20260603 Attestation DEPOT"
+description: "README de la pièce Attestation DEPOT"
+type: directory
+---
 
-🔙 [📁 00_Preuves_officielles](../README.md)
+# 📁 20260603 📥 Attestation DEPOT
 
 ## 📄 Contenu
 

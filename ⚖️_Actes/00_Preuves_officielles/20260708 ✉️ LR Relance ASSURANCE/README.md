@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 20260708 ✉️ LR Relance ASSURANCE
+---
+title: "📁 20260708 LR Relance ASSURANCE"
+description: "README de la pièce Relance ASSURANCE"
+type: directory
+---
 
-🔙 [📁 00_Preuves_officielles](../README.md)
+# 📁 20260708 ✉️ LR Relance ASSURANCE
 
 ## 📄 Contenu
 

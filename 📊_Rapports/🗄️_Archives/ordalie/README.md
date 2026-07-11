@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 ordalie
+---
+title: "📁 ordalie"
+description: "README du dossier ordalie"
+type: directory
+---
 
-🔙 [📁 🗄️_Archives](../README.md)
+# 📁 ordalie
 
 ## 📄 Contenu
 

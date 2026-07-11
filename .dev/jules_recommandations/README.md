@@ -1,8 +1,8 @@
-<!-- [🏠](../README.md) > 📁 [ .dev ](../../README.md) > 📁 [ jules_recommandations ](../README.md) > 📄 [ README.md ](README.md) -->
+<!-- Breadcrumb -->
+[🏠](../../README.md)
+<!-- /Breadcrumb -->
 
 # 📁 jules_recommandations
-
-🔙 [📁 .dev](../README.md)
 
 ## 📄 Contenu
 

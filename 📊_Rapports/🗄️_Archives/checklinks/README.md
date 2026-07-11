@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 checklinks
+---
+title: "📁 checklinks"
+description: "README du dossier checklinks"
+type: directory
+---
 
-🔙 [📁 🗄️_Archives](../README.md)
+# 📁 checklinks
 
 ## 📄 Contenu
 

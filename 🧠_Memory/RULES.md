@@ -262,3 +262,10 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 6. **Ne JAMAIS laisser** de scripts .py ni de fichiers orphelins à la racine du projet — tout va dans `.dev/app/`
 7. **Ne JAMAIS laisser** de fichiers Rapport*.md à la racine — tout va dans `📊_Rapports/`
 8. **Ne JAMAIS laisser** de `__pycache__` ou `.pytest_cache` traîner — supprimer après exécution de scripts
+
+## #15 — INTERDICTION FORMELLE DES LIENS ABSOLUS EN INTERNE
+
+1. **Tout lien interne** (pointant vers un fichier du dépôt) DOIT être un **chemin relatif** — jamais `file://`, jamais `/chemin/absolu/depuis/la/racine`
+2. **Seuls les liens externes** (Légifrance, Judilibre, sites web) peuvent être des URL absolues `https://...`
+3. **Sanction** : un fichier contenant un lien interne absolu (`file://` ou `/⚖️_Actes/...`) est considéré comme cassé et doit être corrigé immédiatement
+4. **Vérification** : tout script d'audit ou de vérification doit signaler les liens absolus internes comme des erreurs bloquantes

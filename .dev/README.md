@@ -1,4 +1,7 @@
-<!-- [🏠](../README.md) > 📁 [ .dev ](../README.md) > 📄 [ README.md ](.README.md) -->
+<!-- Breadcrumb -->
+[🏠](../README.md)
+<!-- /Breadcrumb -->
+
 ---
 title: "🛠️ Environnement de Développement"
 description: "Ce dossier contient le code, les scripts et les outils de développement du projet."
@@ -45,4 +48,3 @@ python3 .dev/app/script.py
 source .dev/.venv/bin/activate
 python3 script.py
 ```
-

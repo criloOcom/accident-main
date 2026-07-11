@@ -88,7 +88,7 @@ def process_all_markdown_files():
     md_files = []
 
     for root, dirs, files in os.walk(ROOT):
-        dirs[:] = [d for d in dirs if d not in ('.venv', '.dev', '__pycache__', '.git', 'node_modules', '.opencode')]
+        dirs[:] = [d for d in dirs if d not in ('.venv', '__pycache__', '.git', 'node_modules', '.opencode', '.pytest_cache')]
         for f in files:
             if f.endswith('.md'):
                 md_files.append(os.path.join(root, f))

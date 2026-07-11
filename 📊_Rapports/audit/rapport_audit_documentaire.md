@@ -57,9 +57,9 @@ type: rapport
 | 04_💰_Etudes_indemnisation/12 Évaluation Dintilhac détaillée.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |
 | 05_🗂️_Organisation/00 📇 Index.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |
 | 05_🗂️_Organisation/00 📇 Index.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
-| 05_🗂️_Organisation/05 📋 Dossier Special CERFA.md | Lien mort trouvé: file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/26%20%F0%9F%93%8B%20Attestation%20Temoin%20Client.md | 🔴 | Corriger ou supprimer le lien |
-| 05_🗂️_Organisation/05 📋 Dossier Special CERFA.md | Lien mort trouvé: file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/27%20%F0%9F%93%8B%20Attestation%20Pompier%20SAMU.md | 🔴 | Corriger ou supprimer le lien |
-| 05_🗂️_Organisation/05 📋 Dossier Special CERFA.md | Lien mort trouvé: file:///home/crilocom/accident-main/⚖️_Actes/🔑_Token/02_✉️_Courriers/28%20%F0%9F%93%8B%20Attestation%20Employe.md | 🔴 | Corriger ou supprimer le lien |
+| 05_🗂️_Organisation/05 📋 Dossier Special CERFA.md | Lien mort (file://) trouvé: ../../⚖️_Actes/🔑_Token/02_✉️_Courriers/26%20%F0%9F%93%8B%20Attestation%20Temoin%20Client.md | 🔴 | Corriger ou supprimer le lien |
+| 05_🗂️_Organisation/05 📋 Dossier Special CERFA.md | Lien mort (file://) trouvé: ../../⚖️_Actes/🔑_Token/02_✉️_Courriers/27%20%F0%9F%93%8B%20Attestation%20Pompier%20SAMU.md | 🔴 | Corriger ou supprimer le lien |
+| 05_🗂️_Organisation/05 📋 Dossier Special CERFA.md | Lien mort (file://) trouvé: ../../⚖️_Actes/🔑_Token/02_✉️_Courriers/28%20%F0%9F%93%8B%20Attestation%20Employe.md | 🔴 | Corriger ou supprimer le lien |
 | 05_🗂️_Organisation/06 📋 Synthese des Actions et Audits.md | Frontmatter YAML manquant | 🔴 | Ajouter le bloc YAML |
 | 05_🗂️_Organisation/06 📋 Synthese des Actions et Audits.md | Fichiers Token/ et Reel/ identiques (pas d'anonymisation / génération effectuée ?) | 🟡 | Vérifier la nécessité des tokens ou regénérer |
 | 05_🗂️_Organisation/10 🗂️ Plan action.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |

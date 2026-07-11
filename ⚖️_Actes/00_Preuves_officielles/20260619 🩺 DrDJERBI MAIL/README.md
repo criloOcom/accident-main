@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 20260619 🩺 DrDJERBI MAIL
+---
+title: "📁 20260619 DrDJERBI MAIL"
+description: "README de la pièce Dr DJERBI MAIL"
+type: directory
+---
 
-🔙 [📁 00_Preuves_officielles](../README.md)
+# 📁 20260619 🩺 DrDJERBI MAIL
 
 ## 📄 Contenu
 

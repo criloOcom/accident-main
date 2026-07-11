@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 citations
+---
+title: "📁 citations"
+description: "README du dossier citations"
+type: directory
+---
 
-🔙 [📁 🗄️_Archives](../README.md)
+# 📁 citations
 
 ## 📄 Contenu
 

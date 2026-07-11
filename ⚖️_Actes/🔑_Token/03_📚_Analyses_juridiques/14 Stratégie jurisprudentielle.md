@@ -27,14 +27,14 @@ source: local
 ### PILIER 1 — LA CHOSE A ÉTÉ L'INSTRUMENT DU DOMMAGE (ART. 1242 AL.1)
 | Élément à prouver | Notre preuve | Arrêt de référence |
 |-------------------|-------------|-------------------|
-| Basculement de la chose = rôle actif | PV de police — la vasque a basculé et s'est brisée | **[89-18.422](../../📜_Lois/89-18.422_CourCassation.md)** (Civ. 2e, 13 fév. 1991) : échelle qui bascule → instrument du dommage |
-| Mauvais état de la chose | Constat d'huissier — cassure majeure préexistante aux arêtes tranchantes | **[91-15.035](../../📜_Lois/91-15.035_CourCassation.md)** (Civ. 2e, 5 mai 1993) : la preuve du mauvais état incombe à la victime, et elle est rapportée |
-| Position anormale | Bac douche conçu pour lavage, pas pour supporter le poids d'un adulte en hauteur | **[91-13.580](../../📜_Lois/91-13.580_CourCassation.md)** (Civ. 2e, 25 nov. 1992) définit la position anormale comme critère à prouver |
+| Basculement de la chose = rôle actif | PV de police — la vasque a basculé et s'est brisée | **[89-18.422](../../../📜_Lois/📜_Jurisprudence/89-18.422_CourCassation.md)** (Civ. 2e, 13 fév. 1991) : échelle qui bascule → instrument du dommage |
+| Mauvais état de la chose | Constat d'huissier — cassure majeure préexistante aux arêtes tranchantes | **[91-15.035](../../../📜_Lois/📜_Jurisprudence/91-15.035_CourCassation.md)** (Civ. 2e, 5 mai 1993) : la preuve du mauvais état incombe à la victime, et elle est rapportée |
+| Position anormale | Bac douche conçu pour lavage, pas pour supporter le poids d'un adulte en hauteur | **[91-13.580](../../../📜_Lois/📜_Jurisprudence/91-13.580_CourCassation.md)** (Civ. 2e, 25 nov. 1992) définit la position anormale comme critère à prouver |
 
 ### PILIER 2 — LE VICE INHÉRENT N'EXONÈRE JAMAIS LE GARDIEN
 | Argument défense attendu | Réponse juridique | Arrêt |
 |--------------------------|-------------------|-------|
-| "La vasque s'est brisée parce qu'elle était déjà fissurée" | Le vice inhérent **n'est pas** une cause d'exonération | **[74-10.466](../../📜_Lois/74-10.466_CourCassation.md)** (Civ. 2e, 5 mai 1975) |
+| "La vasque s'est brisée parce qu'elle était déjà fissurée" | Le vice inhérent **n'est pas** une cause d'exonération | **[74-10.466](../../../📜_Lois/📜_Jurisprudence/74-10.466_CourCassation.md)** (Civ. 2e, 5 mai 1975) |
 | "Le défaut était indécelable" | La gardienne assume les conséquences du vice, même invisible | Même arrêt — la pourriture du collet de l'arbre n'était pas visible |
 
 ### PILIER 3 — LE COMMETTANT RÉPOND DU PRÉPOSÉ (ART. 1242 AL.5)
@@ -134,7 +134,7 @@ Voir détails : [12 Évaluation Dintilhac détaillée.md](../04_💰_Etudes_inde
 Fondement : art. 835 al.2 CPC — obligation non sérieusement contestable.
 
 ## RÉFÉRENCES CROISÉES
-- Fiches jurisprudence : [70-12.124](../../📜_Lois/70-12.124_CourCassation.md), [74-10.466](../../📜_Lois/74-10.466_CourCassation.md), [89-18.422](../../📜_Lois/89-18.422_CourCassation.md), [91-13.580](../../📜_Lois/91-13.580_CourCassation.md), [91-15.035](../../📜_Lois/91-15.035_CourCassation.md), [24-21.702](../../📜_Lois/24-21.702_CourCassation.md)
+- Fiches jurisprudence : [70-12.124](../../../📜_Lois/📜_Jurisprudence/70-12.124_CourCassation.md), [74-10.466](../../../📜_Lois/📜_Jurisprudence/74-10.466_CourCassation.md), [89-18.422](../../../📜_Lois/📜_Jurisprudence/89-18.422_CourCassation.md), [91-13.580](../../../📜_Lois/📜_Jurisprudence/91-13.580_CourCassation.md), [91-15.035](../../../📜_Lois/📜_Jurisprudence/91-15.035_CourCassation.md), [24-21.702](../../../📜_Lois/📜_Jurisprudence/24-21.702_CourCassation.md)
 - Note responsabilités légales : [13 📜 Responsabilites legales.md](13%20📜%20Responsabilites%20legales.md)
 - Évaluation financière : [12 Évaluation Dintilhac détaillée.md](../04_💰_Etudes_indemnisation/12%20%C3%89valuation%20Dintilhac%20d%C3%A9taill%C3%A9e.md)
 - Validation ordalie : [20260707 Validation juridique ordalie.md](../../📊_Rapports/🗄️_Archives/ordalie/20260707%20Validation%20juridique%20ordalie.md)

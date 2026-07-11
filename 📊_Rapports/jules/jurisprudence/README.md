@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 jurisprudence
+---
+title: "📁 jurisprudence"
+description: "README du dossier jurisprudence"
+type: directory
+---
 
-🔙 [📁 jules](../README.md)
+# 📁 jurisprudence
 
 ## 📄 Contenu
 

@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 20260623 🩺 DrDJERBI RDV
+---
+title: "📁 20260623 DrDJERBI RDV"
+description: "README de la pièce Dr DJERBI RDV"
+type: directory
+---
 
-🔙 [📁 00_Preuves_officielles](../README.md)
+# 📁 20260623 🩺 DrDJERBI RDV
 
 ## 📄 Contenu
 

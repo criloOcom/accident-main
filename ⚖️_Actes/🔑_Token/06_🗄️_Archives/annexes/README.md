@@ -2,9 +2,13 @@
 [🏠](../../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 annexes
+---
+title: "📁 annexes"
+description: "README du dossier annexes"
+type: directory
+---
 
-🔙 [📁 06_🗄️_Archives](../README.md)
+# 📁 annexes
 
 ## 📄 Contenu
 

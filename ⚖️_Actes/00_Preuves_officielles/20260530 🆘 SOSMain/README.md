@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 20260530 🆘 SOSMain
+---
+title: "📁 20260530 SOSMain"
+description: "README de la pièce SOS Main"
+type: directory
+---
 
-🔙 [📁 00_Preuves_officielles](../README.md)
+# 📁 20260530 🆘 SOSMain
 
 ## 📄 Contenu
 

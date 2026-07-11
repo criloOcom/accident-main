@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 20260710 📧 Actualisation Dossier ERP
+---
+title: "📁 20260710 Actualisation Dossier ERP"
+description: "README de la pièce Actualisation Dossier ERP"
+type: directory
+---
 
-🔙 [📁 00_Preuves_officielles](../README.md)
+# 📁 20260710 📧 Actualisation Dossier ERP
 
 ## 📄 Contenu
 

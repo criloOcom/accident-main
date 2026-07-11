@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 20260601 🩺 DrOXYBEL
+---
+title: "📁 20260601 DrOXYBEL"
+description: "README de la pièce Dr OXYBEL"
+type: directory
+---
 
-🔙 [📁 00_Preuves_officielles](../README.md)
+# 📁 20260601 🩺 DrOXYBEL
 
 ## 📄 Contenu
 

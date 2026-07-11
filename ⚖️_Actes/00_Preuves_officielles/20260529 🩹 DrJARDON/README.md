@@ -2,9 +2,13 @@
 [🏠](../../../README.md)
 <!-- /Breadcrumb -->
 
-# 📁 20260529 🩹 DrJARDON
+---
+title: "📁 20260529 DrJARDON"
+description: "README de la pièce Dr JARDON"
+type: directory
+---
 
-🔙 [📁 00_Preuves_officielles](../README.md)
+# 📁 20260529 🩹 DrJARDON
 
 ## 📄 Contenu
 
