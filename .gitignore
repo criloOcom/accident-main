@@ -16,3 +16,4 @@ venv/
 .github/workflows/
 .obsidian/
 .opencode/
+.dev/.readme_backups/
