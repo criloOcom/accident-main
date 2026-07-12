@@ -42,7 +42,7 @@ L'opportunité de solliciter des mesures conservatoires repose sur les dispositi
 > « Toute personne dont la créance paraît fondée en son principe peut solliciter du juge l'autorisation de pratiquer une mesure conservatoire sur les biens de son débiteur, sans commandement préalable, si elle justifie de circonstances susceptibles d'en menacer le recouvrement.
 >
 > La mesure conservatoire prend la forme d'une saisie conservatoire ou d'une sûreté judiciaire. »
-> **Code des procédures civiles d'exécution** [Article L.511-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026104)
+> **Code des procédures civiles d'exécution** [Article L.511-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026104) <br>
 
 ### Sur le principe de créance fondé
 Le dossier démontre de manière probante le dommage corporel subi par Sébastien GRAZIDE imputable à SAS LES MAUVAIS GARCONS. Les éléments médicaux et factuels établissent indéniablement la responsabilité et, par voie de conséquence, l'existence d'une créance indemnitaire d'un montant significatif, permettant de qualifier le principe de créance.

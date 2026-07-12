@@ -39,21 +39,24 @@ La présente note analyse les trois voies de recours contre les dirigeants à ti
 ### A. Responsabilité civile des dirigeants de SAS — Article L.227-8 C.com.
 
 > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »
-> **Code de commerce** [Article L.227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
+> « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
+> **Code de commerce** [Article L.227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
 
 Cet article rend applicable aux dirigeants de SAS le régime de responsabilité des SA, notamment l'article L.225-251 pour les fautes de gestion. Toute décision de dissoudre la société sans avoir provisionné le passif indemnitaire issu de l'accident constitue un manquement caractérisé aux obligations de gestion.
 
 ### B. Insuffisance d'actif — Article L.651-2 C.com.
 
 > « Lorsqu'une liquidation judiciaire d'une personne morale fait apparaître une insuffisance d'actif, le tribunal peut, en cas de faute de gestion ayant contribué à cette insuffisance d'actif, décider que le montant de cette insuffisance sera supporté, en tout ou partie, par tous les dirigeants de droit ou de fait, ou certains d'entre eux, ayant contribué à la faute de gestion. »
-> **Code de commerce** [Article L.651-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025718687)
+> « Lorsqu'une liquidation judiciaire d'une personne morale fait apparaître une insuffisance d'actif, le tribunal peut, en cas de faute de gestion ayant contribué à cette insuffisance d'actif, décider que le montant de cette insuffisance sera supporté, en tout ou partie, par tous les dirigeants de droit ou de fait, ou certains d'entre eux, ayant contribué à la faute de gestion. » <br>
+> **Code de commerce** [Article L.651-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025718687) <br>
 
 Si la SAS est placée en liquidation judiciaire et que les dirigeants ont organisé sa mise en sommeil ou sa dissolution avant d'avoir répondu de leurs dettes, la faute de gestion sera constituée. Le tribunal pourra mettre à leur charge personnelle l'insuffisance d'actif, c'est-à-dire le montant des dommages et intérêts dus à Sébastien GRAZIDE que la société ne peut couvrir.
 
 ### C. Banqueroute par personne morale — Article L.654-6 C.com.
 
 > « Les personnes morales déclarées pénalement responsables, dans les conditions prévues à l'article 121-2 du code pénal, des infractions prévues à l'article L.654-2 encourent les peines suivantes : 1° L'amende, suivant les modalités prévues à l'article 131-38 du code pénal ; 2° Les peines prévues aux 2°, 4°, 5°, 6°, 7°, 8° et 9° de l'article 131-39 du même code. L'interdiction mentionnée au 8° de l'article 131-39 du même code porte sur une ou plusieurs activités professionnelles ou sociales. »
-> **Code de commerce** [Article L.654-6](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006481247)
+> « Les personnes morales déclarées pénalement responsables, dans les conditions prévues à l'article 121-2 du code pénal, des infractions prévues à l'article L.654-2 encourent les peines suivantes : 1° L'amende, suivant les modalités prévues à l'article 131-38 du code pénal ; 2° Les peines prévues aux 2°, 4°, 5°, 6°, 7°, 8° et 9° de l'article 131-39 du même code. L'interdiction mentionnée au 8° de l'article 131-39 du même code porte sur une ou plusieurs activités professionnelles ou sociales. » <br>
+> **Code de commerce** [Article L.654-6](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006481247) <br>
 
 La banqueroute par personne morale est constituée notamment en cas de tenue d'une comptabilité fictive, de détournement ou de dissimulation d'actifs. Les dirigeants ayant vidé la SAS pour recréer une structure sous une autre forme tombent sous le coup de ces dispositions pénales.
 

@@ -64,7 +64,7 @@ Dans l'attente que vous fixiez, le cas échéant, le montant de la consignation 
 
 > « Le juge d'instruction constate, par ordonnance, le dépôt de la plainte. En fonction des ressources de la partie civile, il fixe le montant de la consignation que celle-ci doit, si elle n'a obtenu l'aide juridictionnelle, déposer au greffe et le délai dans lequel elle devra être faite sous peine de non-recevabilité de la plainte. Il peut dispenser de consignation la partie civile. » <br>
 > **Code de procédure pénale > Section 2 : De la constitution de la partie civile et de ses effets — abrogation différée.** <br>
-> [Article 88 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575469)
+> [Article 88 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575469) <br>
 
 Je me tiens à votre entière disposition pour être entendu et participer à toute expertise médicale que vous jugerez utile d'ordonner.
 

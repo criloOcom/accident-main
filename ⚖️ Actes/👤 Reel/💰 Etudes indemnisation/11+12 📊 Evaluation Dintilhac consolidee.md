@@ -74,8 +74,9 @@ Sébastien GRAZIDE est travailleur indépendant inscrit sous le numéro 500 474 
 Le droit français de la responsabilité civile consacre le principe de la réparation intégrale sans perte ni profit pour la victime, conformément à l'article 1240 du Code civil :
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+> **Code civil > Livre III : Des différentes manières dont on acquiert la propriété > Titre III : Des sources d'obligations > Sous-titre II : La responsabilité extracontractuelle > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
 > [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
-> **Code civil > Livre III : Des différentes manières dont on acquiert la propriété > Titre III : Des sources d'obligations > Sous-titre II : La responsabilité extracontractuelle > Chapitre Ier : La responsabilité extracontractuelle en général**
 
 Ce principe exige que la victime soit replacée dans la situation exacte où elle se serait trouvée si l'accident n'avait pas eu lieu.
 
@@ -357,8 +358,9 @@ Ce poste avait été omis dans le dossier initial.
 ## 3.11 Article 700 CPC
 
 > « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. » <br>
+> « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. » <br>
+> **Code de procédure civile > Partie législative > Livre II > Titre Ier > Chapitre Ier > Section 2.** <br>
 > [Article 700](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
-> **Code de procédure civile > Partie législative > Livre II > Titre Ier > Chapitre Ier > Section 2**
 
 **Proposition : 3 000 €** (complexité du dossier : expertise, recherches assurance, procédure CIVI)
 
@@ -371,8 +373,9 @@ Ce poste avait été omis dans le dossier initial.
 ## 4.1 ACTION DIRECTE ASSUREUR
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité.** <br>
 > [Article L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité.**
 
 Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'action contre l'assuré. Même si la SAS disparaît, l'action subsiste contre l'assureur. L'assureur ne peut opposer à la victime les exceptions qu'il pourrait opposer à l'assuré (sauf faute intentionnelle).
 
@@ -381,8 +384,9 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 > **Cour de cassation, 3e chambre civile, 11 mai 2022, n° 21-12.478**
 
 > « Les pertes et les dommages occasionnés par des cas fortuits ou causés par la faute de l'assuré sont à la charge de l'assureur, sauf exclusion formelle et limitée contenue dans la police. Toutefois, l'assureur ne répond pas des pertes et dommages provenant d'une faute intentionnelle ou dolosive de l'assuré. » <br>
+> « Les pertes et les dommages occasionnés par des cas fortuits ou causés par la faute de l'assuré sont à la charge de l'assureur, sauf exclusion formelle et limitée contenue dans la police. Toutefois, l'assureur ne répond pas des pertes et dommages provenant d'une faute intentionnelle ou dolosive de l'assuré. » <br>
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.** <br>
 > [Article L.113-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006791984) <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.**
 
 **Méthode pour identifier l'assureur :**
 1. Consultation RNE/INPI (déjà fait)
@@ -392,8 +396,9 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 5. Assignation [art. 145 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) si refus persistant
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
+> **Code de procédure civile > Livre Ier : Dispositions communes à toutes les juridictions > Titre VII : L'administration judiciaire de la preuve > Sous-titre II : Les mesures d'instruction > Chapitre Ier : Dispositions générales > Section I : Décisions ordonnant des mesures d'instruction.** <br>
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
-> **Code de procédure civile > Livre Ier : Dispositions communes à toutes les juridictions > Titre VII : L'administration judiciaire de la preuve > Sous-titre II : Les mesures d'instruction > Chapitre Ier : Dispositions générales > Section I : Décisions ordonnant des mesures d'instruction.**
 
 ## 4.2 RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS
 
@@ -409,8 +414,9 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 3. Dissolution frauduleuse → abus de biens sociaux / banqueroute
 
 > « Les dispositions de la présente section sont applicables : 1° A toute personne exerçant une activité commerciale ou artisanale, à tout agriculteur et à toute personne physique exerçant une activité professionnelle indépendante, y compris une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé ; 2° A toute personne qui a, directement ou indirectement, en droit ou en fait, dirigé ou liquidé une personne morale de droit privé ; 3° Aux personnes physiques représentants permanents de personnes morales dirigeants des personnes morales définies au 2° ci-dessus. » <br>
+> « Les dispositions de la présente section sont applicables : 1° A toute personne exerçant une activité commerciale ou artisanale, à tout agriculteur et à toute personne physique exerçant une activité professionnelle indépendante, y compris une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé ; 2° A toute personne qui a, directement ou indirectement, en droit ou en fait, dirigé ou liquidé une personne morale de droit privé ; 3° Aux personnes physiques représentants permanents de personnes morales dirigeants des personnes morales définies au 2° ci-dessus. » <br>
+> **Code de commerce > Partie législative > Livre VI : Des difficultés des entreprises > Titre V : Des responsabilités et des sanctions > Chapitre IV : De la banqueroute et des autres infractions > Section 1 : De la banqueroute.** <br>
 > [Article L.654-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984472) <br>
-> **Code de commerce > Partie législative > Livre VI : Des difficultés des entreprises > Titre V : Des responsabilités et des sanctions > Chapitre IV : De la banqueroute et des autres infractions > Section 1 : De la banqueroute.**
 
 **Appréciation :** Voie subsidiaire. La faute détachable est difficile à caractériser.
 
@@ -419,8 +425,9 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 **Fondement :** Art. 706-3 du Code de procédure pénale.
 
 > « Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : [...] 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois [...] » <br>
+> « Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : [...] 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois [...] » <br>
+> **Code de procédure pénale > Partie législative > Livre IV : De quelques procédures particulières > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction.** <br>
 > [Article 706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) <br>
-> **Code de procédure pénale > Partie législative > Livre IV : De quelques procédures particulières > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction**
 
 **Conditions cumulatives :**
 1. Infraction pénale caractérisée → blessures involontaires (art. 222-19 CP) — ITT 56 jours
@@ -431,8 +438,9 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 6. Exclusion → hors Badinter, hors ONIAM → dans le champ
 
 > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. » <br>
+> « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. » <br>
+> **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
 > [Article 222-19](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) <br>
-> **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne**
 
 **Procédure :**
 - Délai : 3 ans à compter de l'infraction (29 mai 2029)
@@ -463,8 +471,9 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 - Déclaration de créance dans les 2 mois de la publication BODACC ([art. L.622-24 C. com.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281573))
 
 > « A partir de la publication du jugement, tous les créanciers dont la créance est née antérieurement au jugement d'ouverture, à l'exception des salariés, adressent la déclaration de leurs créances au mandataire judiciaire dans des délais fixés par décret en Conseil d'État. [...] » <br>
+> « A partir de la publication du jugement, tous les créanciers dont la créance est née antérieurement au jugement d'ouverture, à l'exception des salariés, adressent la déclaration de leurs créances au mandataire judiciaire dans des délais fixés par décret en Conseil d'État. [...] » <br>
+> **Code de commerce > Partie législative > Livre VI : Des difficultés des entreprises > Titre II : De la sauvegarde > Chapitre II : De l'entreprise au cours de la période d'observation.** <br>
 > [Article L.622-24](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281573) <br>
-> **Code de commerce > Partie législative > Livre VI : Des difficultés des entreprises > Titre II : De la sauvegarde > Chapitre II : De l'entreprise au cours de la période d'observation.**
 
 - Créance chirographaire (non privilégiée)
 - Intérêt : constater l'insolvabilité → facilite accès CIVI
@@ -534,8 +543,9 @@ La provision de 15 000 € est justifiée par :
 4. Le droit à réparation intégrale (art. 1240 C. civ.)
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+> **Code civil > Livre III : Des différentes manières dont on acquiert la propriété > Titre III : Des sources d'obligations > Sous-titre II : La responsabilité extracontractuelle > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
 > [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
-> **Code civil > Livre III : Des différentes manières dont on acquiert la propriété > Titre III : Des sources d'obligations > Sous-titre II : La responsabilité extracontractuelle > Chapitre Ier : La responsabilité extracontractuelle en général**
 
 <hr><hr>
 

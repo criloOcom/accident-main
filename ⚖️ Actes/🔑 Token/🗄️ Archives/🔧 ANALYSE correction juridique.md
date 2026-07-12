@@ -61,7 +61,7 @@ L'affaire met en cause la responsabilité de la personne morale, dirigée par **
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
@@ -73,11 +73,8 @@ La responsabilité de la SAS est engagée de plein droit en sa qualité de gardi
 
 > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
 > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
-> [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
->
 > « Les prestations de services doivent présenter, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles par le professionnel, la sécurité à laquelle on peut légitimement s'attendre et ne pas porter atteinte à la santé des personnes. » <br>
-> **Code de la consommation > Chapitre Ier : Obligation générale de sécurité.** <br>
-> [Article L421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053)
+> [Article L421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) <br>
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »
 
@@ -98,11 +95,8 @@ En vertu de [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/
 
 > « La dissolution de la société entraîne sa liquidation, hormis les cas prévus à l'article 1844-4 et au troisième alinéa de l'article 1844-5 . Elle n'a d'effet à l'égard des tiers qu'après sa publication. Le liquidateur est nommé conformément aux dispositions des statuts. Dans le silence de ceux-ci, il est nommé par les associés ou, si les associés n'ont pu procéder à cette nomination, par décision de justice. Le liquidateur peut être révoqué dans les mêmes conditions. La nomination et la révocation ne sont opposables aux tiers qu'à compter de leur publication. Ni la société ni les tiers ne peuvent, pour se soustraire à leurs engagements, se prévaloir d'une irrégularité dans la nomination ou dans la révocation du liquidateur, dès lors que celle-ci a été régulièrement publiée. La personnalité morale de la société subsiste pour les besoins de la liquidation jusqu'à la publication de la clôture de celle-ci. Si la clôture de la liquidation n'est pas intervenue dans un délai de trois ans à compter de la dissolution, le ministère public ou tout intéressé peut saisir le tribunal, qui fait procéder à la liquidation ou, si celle-ci a été commencée, à son achèvement. » <br>
 > **Code civil > Chapitre Ier : Dispositions générales.** <br>
-> [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186)
->
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 
 > « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. » <br>
 > [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) <br>

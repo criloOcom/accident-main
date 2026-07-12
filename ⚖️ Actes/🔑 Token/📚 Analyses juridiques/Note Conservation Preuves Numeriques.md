@@ -35,30 +35,27 @@ L'[article 1358 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/L
 
 > « Hors les cas où la loi en dispose autrement, la preuve peut être apportée par tout moyen. » <br>
 > **Code civil > Chapitre II : L'admissibilité des modes de preuve.** <br>
-> [Article 1358 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042316)
+> [Article 1358 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042316) <br>
 
 Cependant, en matière numérique, la force probante dépend des modalités de recueil :
 - L'[article 1369 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042421/) régit les actes authentiques (constat d'huissier / commissaire de justice).
 
 > « L'acte authentique est celui qui a été reçu, avec les solennités requises, par un officier public ayant compétence et qualité pour instrumenter. Il peut être dressé sur support électronique s'il est établi et conservé dans des conditions fixées par décret en Conseil d'État. Lorsqu'il est reçu par un notaire, il est dispensé de toute mention manuscrite exigée par la loi. » <br>
 > **Code civil > Sous-section 2 : L'acte authentique.** <br>
-> [Article 1369 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042446)
+> [Article 1369 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042446) <br>
 
 - L'[article 1378 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042398/) encadre la valeur des registres et documents domestiques.
 
 > « Les registres et documents que les professionnels doivent tenir ou établir ont, contre leur auteur, la même force probante que les écrits sous signature privée ; mais celui qui s'en prévaut ne peut en diviser les mentions pour n'en retenir que celles qui lui sont favorables. » <br>
 > **Code civil > Sous-section 4 : Autres écrits.** <br>
-> [Article 1378 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042401)
+> [Article 1378 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042401) <br>
 
 - La jurisprudence de la Cour de cassation (Chambre commerciale) rappelle que les captures d'écran simples peuvent être contestées si leur intégrité n'est pas garantie, mais sont généralement admises comme commencement de preuve par écrit ([article 1362 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042445/)) ou comme éléments de présomption ([article 1353 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042472/)).
 
 > « Constitue un commencement de preuve par écrit tout écrit qui, émanant de celui qui conteste un acte ou de celui qu'il représente, rend vraisemblable ce qui est allégué. Peuvent être considérés par le juge comme équivalant à un commencement de preuve par écrit les déclarations faites par une partie lors de sa comparution personnelle, son refus de répondre ou son absence à la comparution. La mention d'un écrit authentique ou sous signature privée sur un registre public vaut commencement de preuve par écrit. » <br>
 > **Code civil > Chapitre II : L'admissibilité des modes de preuve.** <br>
-> [Article 1362 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042296)
->
 > « Celui qui réclame l'exécution d'une obligation doit la prouver. Réciproquement, celui qui se prétend libéré doit justifier le paiement ou le fait qui a produit l'extinction de son obligation. » <br>
-> **Code civil > Chapitre Ier : Dispositions générales.** <br>
-> [Article 1353 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341)
+> [Article 1353 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341) <br>
 
 > La Cour de cassation admet la production de captures d'écran comme mode de preuve, sous réserve que leur authenticité et leur intégrité ne soient pas utilement remises en cause par la partie adverse, notamment au moyen d'un constat de commissaire de justice pour en figer le contenu.
 > **Cour de cassation, civile, Chambre commerciale, 17 mars 2021**

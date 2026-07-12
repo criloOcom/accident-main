@@ -61,7 +61,7 @@ Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le
 
 **Fondement juridique :**
 > "Le fait de détruire, de dégrader ou de détériorer un objet de quelque nature qu'il soit, de nature à faciliter la découverte d'une vérité ou la preuve d'un crime ou d'un délit, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende."
-> [Article 434-15](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418060) — Code pénal
+> [Article 434-15](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418060) — Code pénal <br>
 
 **Faits caractérisés :**
 
@@ -71,7 +71,7 @@ Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 
    - Ces courriers m'ont été retournés avec la mention "défaut d'adresse / distribution impossible", alors même que la société est toujours officiellement immatriculée à cette adresse (vérification RNE/INPI du 10 juillet 2026).
 
@@ -92,7 +92,7 @@ Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le
 
 **Fondement juridique :**
 > "Le fait, pour quiconque ayant connaissance d'un crime ou d'un délit dont il est encore possible de prévenir ou de limiter les effets, ou dont les auteurs sont encore susceptibles de causer des dommages, de ne pas en informer les autorités judiciaires ou administratives est puni de trois ans d'emprisonnement et de 45 000 euros d'amende."
-> [Article 434-15-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038876031) — Code pénal
+> [Article 434-15-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038876031) — Code pénal <br>
 
 **Faits caractérisés :**
 
@@ -114,7 +114,7 @@ Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le
 
 **Fondement juridique :**
 > "L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent des actions de prévention des risques professionnels, d'information et de formation ainsi que la mise en place d'une organisation et de moyens adaptés."
-> [Article L. 4121-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900156) — Code du travail
+> [Article L. 4121-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900156) — Code du travail <br>
 
 **Faits caractérisés :**
 
@@ -134,7 +134,7 @@ Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le
 
 **Fondement juridique :**
 > "Est réputé travail dissimulé par dissimulation d'activité l'exercice à but lucratif d'une activité de production, de transformation, de réparation ou de prestation de services ou l'accomplissement d'actes de commerce par toute personne physique ou morale qui [...] n'a pas effectué les déclarations qui doivent être faites aux organismes de protection sociale ou à l'administration fiscale."
-> [Article L. 8221-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901135) — Code du travail
+> [Article L. 8221-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901135) — Code du travail <br>
 
 **Faits caractérisés :**
 
@@ -237,7 +237,7 @@ Je sollicite également :
 
 > « Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale, y compris lorsque ces plaintes sont déposées dans un service ou une unité de police judiciaire territorialement incompétents. Dans ce cas, la plainte est, s'il y a lieu, transmise au service ou à l'unité territorialement compétents. Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime, qui mentionne les délais de prescription de l'action publique définis aux articles 7 à 9 ainsi que la possibilité d'interrompre le délai de prescription par le dépôt d'une plainte avec constitution de partie civile, en application de l'article 85 . Si elle en fait la demande, une copie du procès-verbal lui est immédiatement remise. Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procès-verbal par leur numéro d'immatriculation administrative. » <br>
 > **Code de procédure pénale > Section 1 : Dispositions générales — abrogation différée.** <br>
-> [Article 15-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441)
+> [Article 15-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) <br>
 
 4. **La possibilité de déposer** les pièces jointes en version numérique (clé USB) pour faciliter leur traitement.
 
@@ -249,7 +249,7 @@ Je déclare sur l'honneur que les faits exposés dans la présente plainte sont 
 
 > « Indépendamment des cas prévus au présent chapitre, est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait : 1° D'établir une attestation ou un certificat faisant état de faits matériellement inexacts ; 2° De falsifier une attestation ou un certificat originairement sincère ; 3° De faire usage d'une attestation ou d'un certificat inexact ou falsifié. Les peines sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende lorsque l'infraction est commise soit en vue de porter préjudice au Trésor public ou au patrimoine d'autrui, soit en vue d'obtenir un titre de séjour ou le bénéfice d'une protection contre l'éloignement. » <br>
 > **Code pénal > Chapitre Ier : Des faux.** <br>
-> [Article 441-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398925)
+> [Article 441-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398925) <br>
 
 Je reste à la disposition des services de police pour toute audition complémentaire et pour fournir tout élément supplémentaire utile à l'enquête.
 
