@@ -9,5 +9,6 @@
 - [21 📋 Plan Constat Police Foix.md](21 📋 Plan Constat Police Foix.md)
 - [22 📋 Modif Email Maire Foix.md](22 📋 Modif Email Maire Foix.md)
 - [23 📊 Suivi Envois LRAR.md](23 📊 Suivi Envois LRAR.md)
+- [24 ✅ Bordereau Pieces 15 Juillet.md](24 ✅ Bordereau Pieces 15 Juillet.md)
 - [24 ✅ Checklist Envoi 11-07-2026.md](24 ✅ Checklist Envoi 11-07-2026.md)
 - [Fiche Reflexe 48h Disparition SAS.md](Fiche Reflexe 48h Disparition SAS.md)

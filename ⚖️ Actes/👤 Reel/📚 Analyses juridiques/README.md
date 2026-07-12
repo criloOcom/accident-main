@@ -8,6 +8,8 @@
 - [15 Note Droit Assurances.md](15 Note Droit Assurances.md)
 - [16 📜 Note Responsabilite Dirigeants Dissolution.md](16 📜 Note Responsabilite Dirigeants Dissolution.md)
 - [18 Note Audit RNE NPAI SAS.md](18 Note Audit RNE NPAI SAS.md)
+- [20 🛡️ Tableau Defense Reponse.md](20 🛡️ Tableau Defense Reponse.md)
+- [21 🛡️ Memo Strategie Administrative Penale.md](21 🛡️ Memo Strategie Administrative Penale.md)
 - [99 🛡️ Memoire en defense adverse.md](99 🛡️ Memoire en defense adverse.md)
 - [Note Conservation Preuves Numeriques.md](Note Conservation Preuves Numeriques.md)
 - [Note Mesures Conservatoires.md](Note Mesures Conservatoires.md)

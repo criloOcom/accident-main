@@ -1,16 +1,14 @@
 ---
 title: "Guide de Dialogue — Échanges avec la Police de Foix"
-description: "Objectif :** Ce guide vous accompagne pas à pas lors de votre déplacement au commissariat de Foix. Il contient les phrases clés à utiliser, les questions à poser, les réponses aux objections possibles, et la stratégie pour présenter efficacement votr"
-type: courrier
+description: "Objectif : Ce guide vous accompagne pas à pas lors de votre déplacement au commissariat de Foix."
+type: guide_personnel
 date: 2026-07-11
 tags:
   - guide
   - dialogue
   - police
-  - plainte
-  - procedure
-statut: final
-destinataire: Commissariat de Police de Foix
+  - personnel
+statut: personnel
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md
 ---
@@ -28,6 +26,9 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 37 📋 GUIDE DIALOGUE POLICE FOIX
 <!-- /Breadcrumb -->
+
+> ⚠️ **DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER**
+> Aide-mémoire pour préparer l'audition. À lire avant, laisser chez soi.
 
 # GUIDE DE DIALOGUE — ÉCHANGES AVEC LA POLICE DE FOIX
 

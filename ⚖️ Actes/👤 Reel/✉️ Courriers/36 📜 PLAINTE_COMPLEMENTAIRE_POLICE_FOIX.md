@@ -1,16 +1,19 @@
 ---
-title: "Plainte Complémentaire — Obstruction à la Justice et Dissimulation de Preuves"
+title: "Plainte Complémentaire — Blessures Involontaires, Obstruction à la Justice"
 description: "[La Victime]"
 type: courrier
-date: 2026-07-11
+date: 2026-07-15
 tags:
   - plainte
   - complémentaire
+  - blessures-involontaires
   - obstruction
-  - dissimulation
   - preuves
   - police
-statut: brouillon
+  - 222-20
+  - 434-4
+  - 121-3
+statut: a_deposer_15_juillet
 destinataire: Commissariat de Police de Foix
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md
@@ -24,7 +27,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/36 📜 PLAINTE_COMPLEMENTAIRE_POLIC
 <!-- /Breadcrumb -->
 
 # PLAINTE COMPLÉMENTAIRE
-# OBSTRUCTION À LA JUSTICE ET DISSIMULATION DE PREUVES
+# BLESSURES INVOLONTAIRES ET OBSTRUCTION À LA JUSTICE
 
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac
@@ -37,7 +40,7 @@ sebastien.grazide@gmail.com
 
 Foix, le **[Date du dépôt]**
 
-**Objet : Plainte complémentaire pour obstruction à la justice, dissimulation de preuves et manquement aux obligations légales — PV n°2026/015967**
+**Objet : Plainte complémentaire pour blessures involontaires, obstruction à la justice et manquement aux obligations légales — PV n°2026/015967**
 
 Monsieur l'Officier de Police Judiciaire,
 
@@ -59,103 +62,79 @@ Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le
 
 ## II. FAITS NOUVEAUX CONSTITUTIFS D'INFRACTIONS PÉNALES
 
-### A. OBSTRUCTION À LA JUSTICE
+### A. BLESSURES INVOLONTAIRES (Articles 222-20 et 121-3 du Code pénal)
 
 **Fondement juridique :**
-> "Le fait de détruire, de dégrader ou de détériorer un objet de quelque nature qu'il soit, de nature à faciliter la découverte d'une vérité ou la preuve d'un crime ou d'un délit, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende."
-> [Article 434-15](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418060) — Code pénal <br>
+> "Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende."
+> [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) — Code pénal <br>
+
+> "Il n'y a point de crime ou de délit sans intention de le commettre. [...] Il y a également délit, lorsque la loi le prévoit, en cas de faute d'imprudence, de négligence ou de manquement à une obligation de prudence ou de sécurité prévue par la loi ou le règlement, s'il est établi que l'auteur des faits n'a pas accompli les diligences normales compte tenu, le cas échéant, de la nature de ses missions ou de ses fonctions, de ses compétences ainsi que du pouvoir et des moyens dont il disposait."
+> [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) — Code pénal <br>
+
+**Faits :**
+
+1. **État dangereux des équipements**
+   - La vasque en céramique du bac à shampoing présentait une **cassure majeure préexistante** aux arêtes tranchantes, maintenue en service sans signalisation ni protection.
+   - Aucun dispositif n'avait été mis en place par l'exploitant pour prévenir le risque de blessure pour la clientèle.
+   - Ce défaut d'entretien me paraît contraire aux obligations de prudence et de sécurité applicables aux établissements recevant du public.
+
+2. **Absence de moyens adaptés**
+   - Le préposé a dû escalader la vasque instable pour accéder au poste de télévision, faute d'escabeau ou d'échelle mis à disposition par l'employeur.
+   - Cette absence de moyens me semble révéler un manquement aux mesures nécessaires pour assurer la sécurité des personnes présentes dans l'établissement.
+
+3. **Conséquences**
+   - L'accident a entraîné une **plaie palmaire profonde de 8,5 cm** avec section partielle du tendon fléchisseur et du paquet vasculo-nerveux de l'index droit, nécessitant une microchirurgie d'urgence.
+   - L'incapacité totale de travail (ITT) a été fixée à **56 jours**, durée inférieure ou égale à trois mois au sens de l'article 222-20 du Code pénal.
+
+Il appartiendra à l'enquête et, le cas échéant, à la juridiction saisie, de déterminer si les manquements constatés constituent une violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité au sens de l'article 222-20 du Code pénal, ou une autre qualification que les circonstances pourraient justifier.
+
+### B. OBSTRUCTION À LA JUSTICE — ENTRAVE À LA MANIFESTATION DE LA VÉRITÉ (Article 434-4 du Code pénal)
+
+**Fondement juridique :**
+> "Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables."
+> [Article 434-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) — Code pénal <br>
 
 **Faits caractérisés :**
 
-1. **Refus systématique de communiquer l'attestation d'assurance RC**
+1. **Refus de communiquer l'attestation d'assurance RC**
+   - En date du 29 juin 2026, j'ai adressé par LRAR une mise en demeure aux dirigeants de la SAS pour obtenir les coordonnées de leur assureur RC.
+   - Ces courriers m'ont été retournés avec la mention "défaut d'adresse / distribution impossible", alors que la société est toujours officiellement immatriculée à cette adresse (vérification RNE/INPI du 10 juillet 2026).
+   - Ce refus de communiquer une information essentielle à l'indemnisation me semble susceptible de constituer une **dissimulation d'un document de nature à faciliter la recherche des preuves**.
 
-   - En date du 29 juin 2026, j'ai adressé par LRAR une mise en demeure aux dirigeants de la SAS (M. Sabir MOUNTASSER et Mme Catherine ANDISSAC) pour obtenir les coordonnées de leur assureur RC, conformément à l'obligation légale prévue par l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
+2. **Risque d'effacement des enregistrements de vidéosurveillance**
+   - L'établissement était équipé de caméras de vidéosurveillance. Les enregistrements constituent une preuve matérielle essentielle des circonstances de l'accident.
+   - Malgré ma demande formelle, ces enregistrements n'ont jamais été communiqués.
+   - Le délai de conservation standard de 60 jours expire avant le 15 août 2026, entraînant la destruction définitive de ces preuves.
+   - Ce risque d'effacement me paraît susceptible de constituer une **tentative de modification de l'état des lieux par effacement des traces**.
 
-> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
-
-   - Ces courriers m'ont été retournés avec la mention "défaut d'adresse / distribution impossible", alors même que la société est toujours officiellement immatriculée à cette adresse (vérification RNE/INPI du 10 juillet 2026).
-
-   - Ce refus caractérisé constitue une **entrave à l'action directe de la victime** contre l'assureur, prévue par la loi.
-
-2. **Dissimulation des enregistrements de vidéosurveillance**
-
-   - Lors du dépôt de ma plainte initiale, il a été mentionné que l'établissement était équipé de caméras de vidéosurveillance.
-
-   - Malgré ma demande formelle (courrier n°20 du 5 juillet 2026), ces enregistrements ne m'ont jamais été communiqués.
-
-   - Le délai légal de conservation de 30 jours (Article R. 613-3 du Code de la sécurité intérieure) est désormais échu, rendant impossible toute vérification indépendante des circonstances de l'accident.
+3. **Société injoignable malgré une immatriculation active**
+   - La SAS est officiellement active selon le RNE, mais aucun représentant légal n'est joignable à l'adresse déclarée.
+   - Les courriers recommandés sont systématiquement retournés NPAI.
+   - Cette situation me semble de nature à entraver la manifestation de la vérité.
 
 **Jurisprudence applicable :**
 > Cour de cassation, Crim., 10 janvier 2018, n° 16-87.542 : "Constitue une obstruction à la manifestation de la vérité la destruction ou la rétention de documents ou enregistrements de nature à établir la matérialité des faits."
 
-### B. DISSIMULATION DE PREUVES (Article 434-15-1 du Code pénal)
+Il appartiendra à l'enquête de déterminer si ces comportements sont constitutifs de l'infraction prévue à l'article 434-4 du Code pénal.
+
+### C. TRAVAIL DISSIMULÉ — SIGNALEMENT SECONDAIRE (Articles L. 8221-1 et L. 8221-3 du Code du travail)
 
 **Fondement juridique :**
-> "Le fait, pour quiconque ayant connaissance d'un crime ou d'un délit dont il est encore possible de prévenir ou de limiter les effets, ou dont les auteurs sont encore susceptibles de causer des dommages, de ne pas en informer les autorités judiciaires ou administratives est puni de trois ans d'emprisonnement et de 45 000 euros d'amende."
-> [Article 434-15-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038876031) — Code pénal <br>
+> "Sont interdits : 1° Le travail totalement ou partiellement dissimulé, défini et exercé dans les conditions prévues aux articles L. 8221-3 et L. 8221-5 ; 2° La publicité, par quelque moyen que ce soit, tendant à favoriser, en toute connaissance de cause, le travail dissimulé ; 3° Le fait de recourir sciemment, directement ou par personne interposée, aux services de celui qui exerce un travail dissimulé."
+> [Article L. 8221-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815) — Code du travail <br>
 
-**Faits caractérisés :**
+> "Est réputé travail dissimulé par dissimulation d'activité, l'exercice à but lucratif d'une activité de production, de transformation, de réparation ou de prestation de services ou l'accomplissement d'actes de commerce par toute personne qui, se soustrayant intentionnellement à ses obligations : [...] 2° Soit n'a pas procédé aux déclarations qui doivent être faites aux organismes de protection sociale ou à l'administration fiscale en vertu des dispositions légales en vigueur."
+> [Article L. 8221-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044056622) — Code du travail <br>
 
-1. **Société fantôme et absence de représentation légale**
-   - La SAS SAS LES MAUVAIS GARCONS est officiellement "active" selon le Registre National des Entreprises (dernière mise à jour 8 juillet 2026).
-   - Pourtant, aucun représentant légal n'est joignable à l'adresse déclarée.
-   - Les courriers recommandés sont systématiquement retournés NPAI, et aucun numéro de téléphone professionnel ne répond.
-   - Cette situation caractérise une **dissimulation de l'identité des responsables** et une **volonté de se soustraire aux obligations légales**.
+**Éléments portés à votre connaissance :**
 
-2. **Risque caractérisé de disparition des preuves matérielles**
-   - La vasque cassée, instrument du dommage, n'a jamais été sécurisée comme preuve.
-   - Aucune mesure de conservation n'a été prise par les dirigeants.
-   - Le risque de destruction ou de remplacement de cet élément est avéré.
+1. **Réouverture sans modification déclarée**
+   - Le commerce a rouvert ses portes le 6 juillet 2026, sans qu'aucune modification de l'exploitation ne soit mentionnée aux registres RNE/INPI.
 
-**Jurisprudence applicable :**
-> Cour de cassation, Crim., 5 décembre 2017, n° 16-83.316 : "La dissimulation de l'identité des responsables d'une personne morale dans le but d'échapper à leurs obligations légales constitue une infraction de dissimulation au sens de l'article 434-15-1 du Code pénal."
+2. **Absence de salariés déclarés malgré une activité apparente**
+   - La SAS déclare 0 salarié, alors que des personnes travaillent dans l'établissement.
 
-### C. MANQUEMENT AUX OBLIGATIONS DE SÉCURITÉ (Article L. 4121-1 du Code du travail)
-
-**Fondement juridique :**
-> "L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent des actions de prévention des risques professionnels, d'information et de formation ainsi que la mise en place d'une organisation et de moyens adaptés."
-> [Article L. 4121-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900156) — Code du travail <br>
-
-**Faits caractérisés :**
-
-1. **Défaut d'entretien des équipements**
-   - La vasque en céramique présentait une cassure majeure préexistante avec des arêtes tranchantes.
-   - Aucun dispositif de signalisation ou de protection n'avait été mis en place.
-   - Ce défaut d'entretien caractérise un **manquement caractérisé à l'obligation générale de sécurité**.
-
-2. **Absence de moyens adaptés**
-   - Le préposé a dû monter sur un équipement instable faute d'escabeau ou d'échelle adaptée.
-   - Cette situation révèle un **défaut d'organisation et de moyens** contraires aux obligations légales.
-
-**Jurisprudence applicable :**
-> Cour de cassation, Soc., 25 novembre 2015, n° 14-24.444 : "L'employeur est tenu d'une obligation de sécurité de résultat en matière de prévention des risques professionnels."
-
-### D. TRAVAIL DISSIMULÉ (Article L. 8221-1 du Code du travail)
-
-**Fondement juridique :**
-> "Est réputé travail dissimulé par dissimulation d'activité l'exercice à but lucratif d'une activité de production, de transformation, de réparation ou de prestation de services ou l'accomplissement d'actes de commerce par toute personne physique ou morale qui [...] n'a pas effectué les déclarations qui doivent être faites aux organismes de protection sociale ou à l'administration fiscale."
-> [Article L. 8221-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901135) — Code du travail <br>
-
-**Faits caractérisés :**
-
-1. **Réouverture suspecte du salon**
-
-   - Le commerce a rouvert ses portes le 6 juillet 2026 sans aucune communication officielle.
-
-   - Aucune déclaration n'a été faite concernant un éventuel changement de gérance.
-
-   - Les registres RNE/INPI ne mentionnent aucune modification de l'exploitation.
-
-2. **Absence de déclaration des salariés**
-
-   - La SAS déclare 0 salarié, alors que des personnes travaillent manifestement dans l'établissement.
-
-   - Cette situation caractérise un **travail dissimulé** au sens de la loi.
-
-**Jurisprudence applicable :**
-> Cour de cassation, Soc., 3 juillet 2019, n° 18-13.316 : "Le travail dissimulé est caractérisé dès lors qu'une activité économique est exercée sans déclaration aux organismes sociaux, indépendamment du nombre de salariés concernés."
+Ces éléments me laissent craindre l'existence de faits de travail dissimulé, que je souhaite signaler aux services compétents pour vérification.
 
 <hr><hr>
 
@@ -197,21 +176,23 @@ Au vu des éléments ci-dessus exposés, je sollicite de votre bienveillance l'o
 
 ## IV. PIÈCES JOINTES
 
-1. **Copie du PV initial n°2026/015967** (déposé le 1er juin 2026)
+1. **Copie du PV initial n°2026/015967** (établi le 2 juin 2026 par le Commissariat de Toulouse)
 
-2. **Accusés de réception des LRAR retournés NPAI** (29 juin 2026)
+2. **Copie de la requête Article 145 CPC** déposée le 15 juillet 2026 devant le TJ de Foix (identification assureur RC + conservation vidéos)
 
-3. **Extrait Kbis de la SAS [L'Exploitant du Commerce (La SAS)]** (SIREN 938 033 222)
+3. **Accusés de réception des LRAR retournés NPAI** (29 juin 2026)
 
-4. **Note d'audit RNE/INPI** du 10 juillet 2026
+4. **Extrait Kbis de la SAS [L'Exploitant du Commerce (La SAS)]** (SIREN 938 033 222)
 
-5. **Photos de l'accident et de la vasque cassée** (datées et légendées)
+5. **Note d'audit RNE/INPI** du 10 juillet 2026
 
-6. **Certificats médicaux** (CR opératoire, arrêts de travail)
+6. **Photos de l'accident et de la vasque cassée** (datées et légendées)
 
-7. **Copie des mises en demeure envoyées** aux dirigeants
+7. **Certificats médicaux** (CR opératoire, arrêts de travail)
 
-8. **Liste chronologique des démarches entreprises**
+8. **Copie des mises en demeure envoyées** aux dirigeants
+
+9. **Liste chronologique des démarches entreprises**
 
 <hr><hr>
 
@@ -219,11 +200,9 @@ Au vu des éléments ci-dessus exposés, je sollicite de votre bienveillance l'o
 
 | Infraction | Article | Peine encourue | Élément matériel |
 |-----------|---------|----------------|------------------|
-| Obstruction à la justice | Art. 434-15 CP | 3 ans + 45k€ | Refus de communiquer l'assurance RC |
-| Dissimulation de preuves | Art. 434-15-1 CP | 3 ans + 45k€ | Courriers NPAI, société fantôme |
-| Manquement obligations sécurité | Art. L. 4121-1 CT | 1 an + 10k€ | Vasque non entretenue, absence escabeau |
-| Travail dissimulé | Art. L. 8221-1 CT | 3 ans + 45k€ | Réouverture sans déclaration |
-| Blessures involontaires | Art. 222-19 CP | 1 an + 15k€ | ITT de 56 jours |
+| Blessures involontaires | Art. 222-20 + 121-3 CP | 1 an + 15k€ | ITT 56j, vasque non sécurisée, absence escabeau |
+| Obstruction à la justice | Art. 434-4 CP | 3 ans + 45k€ | Refus assurance RC, dissimulation vidéos, société fantôme |
+| Travail dissimulé (signalement) | Art. L. 8221-1 + L. 8221-3 CT | 3 ans + 45k€ | Réouverture, absence déclaration salariés |
 
 <hr><hr>
 
@@ -264,16 +243,15 @@ Sébastien GRAZIDE
 ## ANNEXE 1 : RÉFÉRENCES JURIDIQUES COMPLÈTES
 
 ### Code pénal
-- **Article 434-15** : Obstruction à la manifestation de la vérité
-- **Article 434-15-1** : Non-dénonciation de crimes ou délits
-- **Article 222-19** : Blessures involontaires ayant entraîné une ITT ≤ 3 mois
-- **Article 222-20** : Blessures involontaires ayant entraîné une ITT > 3 mois
+- **Article 222-20** : Blessures involontaires par violation manifestement délibérée d'une obligation de prudence/sécurité (ITT ≤ 3 mois)
+- **Article 121-3** : Principe de responsabilité pénale — faute d'imprudence, négligence, manquement à une obligation de prudence/sécurité
+- **Article 434-4** : Obstruction à la justice — entrave à la manifestation de la vérité (altération, destruction, dissimulation de preuves)
 - **Article 441-7** : Faux témoignage
 
 ### Code du travail
 - **Article L. 4121-1** : Obligation générale de sécurité de l'employeur
-- **Article L. 8221-1** : Travail dissimulé par dissimulation d'activité
-- **Article R. 4711-1** : Sanctions pour manquement aux obligations de sécurité
+- **Article L. 8221-1** : Interdiction du travail dissimulé
+- **Article L. 8221-3** : Définition du travail dissimulé par dissimulation d'activité
 
 ### Code des assurances
 - **Article L. 124-3** : Action directe de la victime contre l'assureur
@@ -290,14 +268,13 @@ Sébastien GRAZIDE
 
 | Date | Événement | Preuve |
 |------|-----------|--------|
-| 29/05/2026 | Accident corporel | PV n°2026/015967 |
-| 30/05/2026 | Microchirurgie d'urgence | CR opératoire |
-| 01/06/2026 | Dépôt de plainte initiale | PV police |
-| 29/06/2026 | Mises en demeure LRAR | AR retournés NPAI |
-| 06/07/2026 | Réouverture du salon | Constat visuel |
-| 10/07/2026 | Audit RNE/INPI | Note d'audit |
-| 11/07/2026 | Plainte complémentaire | Présent document |
-
-<hr><hr>
-
-**NOTE IMPORTANTE :** Ce document est accompagné d'un **guide de dialogue** et d'une **checklist complète** pour faciliter les échanges avec les services de police. Ces documents complémentaires sont disponibles sur demande.
+| 29/05/2026 | Accident corporel (basculement vasque, plaie main droite) | PV n°2026/015967 |
+| 30/05/2026 | Microchirurgie d'urgence SOS Main | CR opératoire |
+| 02/06/2026 | Dépôt de plainte initiale au Commissariat de Toulouse | PV n°2026/015967 |
+| 02/06/2026 | Procès-verbal de constat par police | PV n°2026/015967 |
+| 29/06/2026 | Mises en demeure LRAR aux dirigeants + propriétaire | AR retournés NPAI |
+| 05/07/2026 | Demande formelle de conservation des vidéos (courrier n°20) | Copie courrier |
+| 06/07/2026 | Réouverture suspecte du salon | Constat visuel |
+| 10/07/2026 | Audit RNE/INPI — société active mais injoignable | Note d'audit |
+| 15/07/2026 | Dépôt requête Art. 145 CPC (assurance RC + conservation vidéos) | Récépissé greffe |
+| 15/07/2026 | Présente plainte complémentaire | Récépissé Commissariat |

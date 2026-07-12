@@ -54,13 +54,14 @@ reel_path: ../../👤 Reel/✉️ Courriers/39 📋 GUIDE_DEMANDE_AJ.md
 ### Obligatoires
 
 - [ ] **Formulaire CERFA n° 16146*03** (disponible au greffe du TJ ou sur `justice.fr`)
-- [ ] **Avis d'imposition** le plus récent (ou attestation de situation fiscale)
+- [ ] **Avis d'imposition N-1** le plus récent (obligatoire)
+- [ ] **Déclarations URSSAF des 12 derniers mois** (justificatif revenus micro-entrepreneur — obligatoire)
+- [ ] **Attestation de non-imposition** si applicable (obligatoire si non-imposé)
 - [ ] **Pièce d'identité** en cours de validité (CNI ou passeport)
 - [ ] **Justificatif de domicile** de moins de 3 mois (facture EDF, quittance loyer, attestation hébergement)
 
 ### Recommandés
 
-- [ ] **Déclaration URSSAF** des 12 derniers mois (pour justifier revenus micro-entrepreneur)
 - [ ] **Relevé bancaire** des 3 derniers mois (facultatif mais utile)
 - [ ] **Récépissé de dépôt de la requête Art. 145 CPC** (si déjà déposée le même jour)
 - [ ] **Certificats médicaux** (pour justifier l'urgence — traitement accéléré)

@@ -1,15 +1,15 @@
 ---
-title: "Assignation en Refere Article 145 CPC — Communication Police d'Assurance RC"
-description: "À déposer au greffe du TJ de Foix (15 juillet 2026) — utilisable comme REQUÊTE (pas besoin d'huissier). Imprimer 2 exemplaires, demander récépissé."
-type: assignation
+title: "Requête Article 145 CPC — Communication Assurance RC + Conservation Vidéos"
+description: "À déposer au greffe du TJ de Foix (15 juillet 2026) — REQUÊTE (pas d'assignation, pas d'huissier). Imprimer 2 exemplaires, demander récépissé."
+type: requete
 date: 2026-07-05
 tags:
-  - assignation
-  - refere
+  - requete
   - article 145
   - assurance
+  - videos
   - astreinte
-statut: fusionné_dans_01_utilisable_comme_requête_seul
+statut: a_deposer_greffe_15_juillet
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/03 🔍 Assignation Article 145.md
@@ -28,10 +28,10 @@ drive_id: 1R26179ks7vLkzw0hYEHL888i0p1VS9ppa6s8R8kQ_gg
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 03 🔍 Assignation Article 145
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 03 🔍 Requête Article 145
 <!-- /Breadcrumb -->
 
-# ASSIGNATION EN REFERE — COMMUNICATION DE POLICE D'ASSURANCE RC PROFESSIONNELLE
+# REQUÊTE — COMMUNICATION ASSURANCE RC + CONSERVATION VIDÉOS
 > 🔗 Source Google Drive : [1R26179ks7vL…](https://drive.google.com/open?id=1R26179ks7vLkzw0hYEHL888i0p1VS9ppa6s8R8kQ_gg)
 10 Avenue de Purpan, 31700 Blagnac <br>
 sebastien.grazide@gmail.com
@@ -39,16 +39,20 @@ sebastien.grazide@gmail.com
 A l'attention de Monsieur le President du Tribunal Judiciaire de Foix <br>
 Cabinet du Juge des Referes
 
-Foix, le 5 juillet 2026
+Foix, le **[J+37 Requête 145]**
 
 ## INTRODUCTION
-La presente assignation en refere est introduite par Sébastien GRAZIDE a l'encontre de la SAS SAS LES MAUVAIS GARCONS, prise en la personne de ses dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC, et personnellement contre ces derniers (SIREN 938 033 222), sur le fondement de l'Article 145 du Code de procedure civile.
+La presente requete est introduite par Sébastien GRAZIDE sur le fondement de l'Article 145 du Code de procedure civile.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 
-Elle a pour objet d'obtenir, sous astreinte, la communication de la police d'assurance de responsabilite civile professionnelle souscrite par la societe defendereese, seule mesure permettant a la victime d'exercer son action directe contre l'assureur sur le fondement de l'Article L.124-3 du Code des assurances.
+Elle a pour double objet d'obtenir, sous astreinte :
+
+1. La communication de la police d'assurance de responsabilite civile professionnelle souscrite par la SAS SAS LES MAUVAIS GARCONS, seule mesure permettant a Sébastien GRAZIDE d'exercer son action directe contre l'assureur sur le fondement de l'Article L.124-3 du Code des assurances ;
+
+2. La conservation et la communication des enregistrements de videosurveillance du salon de coiffure pour la periode du 25 mai au 5 juin 2026, avant leur ecrasement (delai standard de conservation de 60 jours).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
@@ -110,7 +114,21 @@ Ce droit est autonome et ne peut etre paralysé par la carence du responsable a 
 
 Neanmoins, en pratique, l'exercice de ce droit suppose de connaitre l'identite de l'assureur. L'obstruction caracterisee de SAS LES MAUVAIS GARCONS a la communication de cette information prive Sébastien GRAZIDE de son droit d'agir et constitue une entrave a ses droits les plus fondamentaux.
 
-### C. SUR LE REFUS CARACTERISE ET L'ASTREINTE SOLLICITEE
+### C. SUR L'URGENCE DE LA CONSERVATION DES VIDEOS
+
+Les enregistrements de videosurveillance constituent une preuve materielle essentielle pour etablir les circonstances exactes de l'accident et identifier les manquements a l'obligation de securite.
+
+Conformement a l'article L. 252-2 du Code de la securite interieure, les enregistrements de videosurveillance sont conserves pour une duree maximale d'un mois, sauf procedure judiciaire en cours. En l'espece, le delai de conservation standard de 60 jours expire avant le 15 aout 2026, entrainant la destruction definitive des enregistrements.
+
+Le motif legitime est d'autant plus caracterise que :
+
+- Les videos permettraient de visualiser l'etat de la vasque avant l'accident (cassure preexistante)
+- Elles permettraient de confirmer l'absence d'equipement d'acces en hauteur (escabeau)
+- Elles constituent le seul element objectif pour contredire d'eventuelles contestations de la partie adverse
+
+L'effacement de ces donnees avant toute mesure de conservation rendrait impossible l'etablissement de la preuve et priverait definitivement Sébastien GRAZIDE de son droit a la preuve.
+
+### D. SUR LE REFUS CARACTERISE ET L'ASTREINTE SOLLICITEE
 Les demandes amiables de Sébastien GRAZIDE sont restees lettres mortes :
 
 - LRAR du 29 juin 2026 a SAS LES MAUVAIS GARCONS : aucun AR retourne
@@ -153,11 +171,13 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 
    - La validite du contrat a la date du sinistre
 
-2. **ASSORTIR** cette obligation d'une astreinte de 150 € par jour de retard a compter du 8eme jour suivant la signification de l'ordonnance a intervenir ;
+2. **ORDONNER** a la SAS SAS LES MAUVAIS GARCONS de conserver et de communiquer a Sébastien GRAZIDE l'integralite des enregistrements de videosurveillance du salon de coiffure pour la periode du 25 mai 2026 au 5 juin 2026, sous peine de destruction definitive ;
 
-3. **SE RESERVER** la liquidation de l'astreinte ;
+3. **ASSORTIR** les obligations ci-dessus d'une astreinte de 150 € par jour de retard a compter du 8eme jour suivant la signification de l'ordonnance a intervenir ;
 
-4. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC a payer a Sébastien GRAZIDE la somme de 1 500 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
+4. **SE RESERVER** la liquidation de l'astreinte ;
+
+5. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC a payer a Sébastien GRAZIDE la somme de 1 500 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
 
 > « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. » <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.** <br>
@@ -173,7 +193,7 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 
 <hr>
 
-Fait a Foix, le 5 juillet 2026.
+Fait a Foix, le **[J+37 Requête 145]**.
 
 Sébastien GRAZIDE
 

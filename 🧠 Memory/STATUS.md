@@ -1,5 +1,5 @@
 ---
-title: "STATUT D'AVANCEMENT — 10 juillet 2026"
+title: "STATUT D'AVANCEMENT — 13 juillet 2026"
 description: "- **Analyse exhaustive** des 21 risques juridiques, procéduraux, documentaires, financiers et transverses"
 type: memory
 ---
@@ -62,8 +62,36 @@ type: memory
 2. **Action directe à "Compagnie d'Assurance de l'Exploitant"** : destinataire fictif, sans valeur. **Ne plus y compter.**
 
 ### Recommandation avocat
-- **Prendre un avocat spécialisé dommage corporel (AAPC) à Toulouse** (meilleur rapport spécialisation/distance Foix)
-- Contacter **semaine du 21 juillet** après obtention AJ
+- **NE PAS contacter d'avocat soi-même** — l'AJ totale déclenche une **désignation d'office par le BAJ**
+- Anticiper : préparer un dossier structuré à transmettre à l'avocat dès sa désignation
+
+---
+
+## Phase 20 — Corrections plainte complémentaire suite avocat + antisèche orale (13 juillet 2026) ✅
+
+### Corrections appliquées au fichier 36 📜 (version officielle)
+| Correction | Avant | Après |
+|------------|-------|-------|
+| **Infraction principale** | Obstruction à la justice (434-15 CP) | Blessures involontaires (222-20 + 121-3 CP) |
+| **Article obstruction** | 434-15 CP (subornation témoin, hors sujet) | 434-4 CP (entrave manifestation vérité, adapté) |
+| **434-15-1 CP** | Présent (non-dénonciation, hors sujet) | **Supprimé** |
+| **222-19 CP** | Cité (ITT > 3 mois) | **Remplacé** par 222-20 (ITT ≤ 3 mois, notre cas) |
+| **121-3 CP** | Absent | **Ajouté** (principe responsabilité pénale) |
+| **Requête 145 CPC** | Absente des pièces jointes | **Ajoutée** (pièce n°2) |
+| **Chronologie** | 7 entrées | 10 entrées, précise PV plainte 01/06 + constat 02/06 |
+| **Tableau récap** | 434-15, 434-15-1, L.4121-1, L.8221-1, 222-19 | 222-20+121-3, 434-4, L.8221-1 |
+| **Annexe juridique** | 434-15, 434-15-1, 222-19 | 222-20, 121-3, 434-4 |
+
+### Version A ✉️ reclassée en antisèche orale personnelle
+- **Renommage** : `36 ✉️ Plainte Complémentaire Police Foix.md` → `36 📋 Antisèche Orale Plainte Complémentaire.md`
+- **Statut** : `DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER`
+- **Usage** : aide-mémoire pour l'audition orale (script dialogue conservé)
+- **Références corrigées** : 434-15→434-4, 222-19→222-20, ajout 121-3
+
+### Documents à déposer le 15 juillet Foix
+1. **Matin — Greffe TJ Foix** : Requête Art. 145 CPC (fichier 03) + demande AJ (fichier 39)
+2. **Midi — 22 Rue Lafaurie** : Photos + constat personnel état vasque
+3. **Après-midi — Commissariat** : Plainte complémentaire (fichier 36 📜 imprimé + signé)
 
 ---
 

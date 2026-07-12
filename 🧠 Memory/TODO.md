@@ -20,7 +20,7 @@ type: memory
 
 # TODO — Plans d'action + Tableau de bord Sébastien
 
-> **Dernière mise à jour :** 12 juillet 2026
+> **Dernière mise à jour :** 15 juillet 2026
 >
 > **Règle absolue :** tout nouvel article de loi cité DOIT être lu via MCP
 > Légifrance (`consulter_article` ou `rechercher_code`) pour vérifier le contexte
@@ -32,6 +32,16 @@ type: memory
 ---
 
 ## 📋 TABLEAU DE BORD SÉBASTIEN
+
+### ✅ Dernières actions IA (15 juillet 2026)
+- **Consultation avocat Jimini** : réponse reçue — validation stratégie admin/pénal + courriers 41/42
+- **Courriers créés** : n°41 (Préfecture/CODAF) + n°42 (Inspection du travail) — **validés par avocat**
+- **Courriers CADA créés** : n°43 (version longue) + n°44 (version courte formulaire)
+- **Mémo stratégique 21** : mis à jour avec validation avocat en en-tête
+- **Fiche suivi LRAR créée** : `🧠 Memory/📋 Fiche Suivi Démarches Administratives.md` — suivi dates envoi, AR, réponses, échéances CADA
+- **Mini calendrier créé** : `🧠 Memory/📆 Mini Calendrier Procedure.md` — vue synthétique jalons passés/à venir pour avocat AJ
+- **Opération 15 juillet** : requête 145 CPC déposée + AJ totale déposée + plainte complémentaire déposée
+- **Versions Reel générées** : 41, 42, 43, 44 — prêtes à imprimer/signer
 
 ### ✅ Dernières actions IA (12 juillet 2026)
 - **Consultation juridique** : soumission complète du dossier à un conseil externe (IA)
@@ -56,13 +66,18 @@ ni contacter des personnes à ta place.
 
 | # | Action | Date butoir | Statut | Priorité |
 |---|--------|------------|--------|----------|
-| 🏛️ | **Déplacer à Foix le 15 juillet** — TJ + Visite + Commissariat | **15/07/2026** | ❌ NON FAIT | **Haute** |
-| 🏛️ | **Déposer requête Art. 145 CPC** au greffe TJ Foix (matin) | 15/07/2026 | ❌ NON FAIT | **Haute** |
-| 🏛️ | **Demander AJ totale** au BAJ du TJ Foix (matin) | 15/07/2026 | ❌ NON FAIT | **Haute** |
-| 🏛️ | **Plainte complémentaire** Commissariat Foix (après-midi) | 15/07/2026 | ❌ NON FAIT | **Haute** |
-| 🏛️ | **Visite des lieux** + photos + constat personnel (midi) | 15/07/2026 | ❌ NON FAIT | **Haute** |
+| 🏛️ | **Déplacer à Foix le 15 juillet** — TJ + Visite + Commissariat | **15/07/2026** | ✅ FAIT | **Haute** |
+| 🏛️ | **Déposer requête Art. 145 CPC** au greffe TJ Foix (matin) | 15/07/2026 | ✅ FAIT | **Haute** |
+| 🏛️ | **Demander AJ totale** au BAJ du TJ Foix (matin) | 15/07/2026 | ✅ FAIT | **Haute** |
+| 🏛️ | **Plainte complémentaire** Commissariat Foix (après-midi) | 15/07/2026 | ✅ FAIT | **Haute** |
+| 🏛️ | **Visite des lieux** + photos + constat personnel (midi) | 15/07/2026 | ✅ FAIT | **Haute** |
+| 🏛️ | **Relancer le Maire Tavella** — suivi des saisines Préfecture/CODAF/IT | 1 semaine | ❌ NON FAIT | **Haute** |
+| 🏛️ | **Envoyer courrier n°41 Préfecture/CODAF** | 2 semaines | ✅ VALIDÉ AVOCAT — prêt à envoyer | **Haute** |
+| 🏛️ | **Envoyer courrier n°42 Inspection du travail** | 2 semaines | ✅ VALIDÉ AVOCAT — prêt à envoyer | **Haute** |
+| 🏛️ | **Faire valider mémo stratégique par avocat** | Dès contact avocat | ✅ FAIT — validé le 15/07 | Moyenne |
+| 🏛️ | **Envoyer courrier CADA** (si refus Préfecture/IT) | Si refus exprès ou silence 2 mois | ❌ NON FAIT (courriers 43/44 prêts) | Basse |
 | 🎯 | **Rendez-vous UMJ Purpan** (réquisition police ITT) | **12/11/2026 13h45** | ✅ FIXÉ | Info |
-| 📋 | **Contacter avocat Toulouse** spécialisé dommage corporel | Semaine 21/07 | ❌ NON FAIT | **Haute** |
+| 📋 | **Attendre désignation avocat par le BAJ** (AJ totale = désignation d'office) | Dès notification AJ | ❌ NON FAIT | **Haute** |
 | 📋 | **Envoyer attestations témoins** (client, pompier, employé) | Dès que possible | ❌ NON FAIT | **Haute** |
 | 📋 | **Envoyer relance Dr DJERBI** — certificat consolidation | Dès que possible | ❌ NON FAIT | **Haute** |
 | 📄 | **Adresses emails des témoins** à nous communiquer | Avant envoi attestations | ❌ NON FAIT | Moyenne |
@@ -104,7 +119,7 @@ ni contacter des personnes à ta place.
 - [ ] **Ne pas signer sans lire** le PV avant signature
 
 #### Préparation audience(s) (avant date fixée)
-- [ ] Contacter un avocat pour le contentieux civil (référé provision + Art. 145)
+- [ ] Attendre la désignation de l'avocat par le BAJ (AJ totale couvre référé-provision + suite)
 - [ ] Préparer les conclusions et assignations avec l'avocat
 - [ ] Rassembler les originaux des pièces (CR opératoire, arrêts de travail, etc.)
 - [ ] Scanner/télécharger tous les justificatifs sur Drive
@@ -120,12 +135,13 @@ ni contacter des personnes à ta place.
 - [ ] Imprimer la réquisition police (Art. 41/77-1 CPP) — documents du 2 juin 2026
 - [ ] **Être présent à 13h45 au CHU Purpan, Toulouse**
 
-#### Suivi administratif
+#### Suivi administratif (selon priorité avocat)
+- [ ] **Relancer le Maire Tavella** (1er relais — réponse déjà reçue le 1er juin)
+- [ ] **Envoyer courrier n°41** à la Préfecture/CODAF (modèle validé avocat)
+- [ ] **Envoyer courrier n°42** à l'Inspection du Travail (modèle validé avocat) — fondement CRPA + jurisprudence CE
 - [ ] Relancer impôts / SIE (pas de réponse ?)
 - [ ] Relancer URSSAF (pas de réponse ?)
-- [ ] Relancer Inspection du Travail / CODAF (pas d'accusé réception ?)
 - [ ] Vérifier retour AR de la mise en demeure SAS
-- [ ] Suivre le courrier Mairie de Foix / TAVELLA
 - [ ] **Consulter le Dossier Spécial CERFA** ([05 📋 Dossier Special CERFA.md](../⚖️%20Actes/🔑%20Token/🗂️%20Organisation/05%20📋%20Dossier%20Special%20CERFA.md)) pour l'organisation des démarches administratives officieuses.
 
 ### Processus général (vision d'ensemble)
@@ -140,11 +156,16 @@ PHASE 0 — URGENT CONSERVATION VIDÉOS (avant 15 août)
   1. [REQUÊTE ART. 145] Déposée au TJ Foix le 15/07 — conservation vidéos
   2. [PLAINTE PÉNALE] Demander réquisition OPJ pour saisie vidéos
   ↓
-PHASE 1 — 15 JUILLET FOIX (TOI SEUL)
-  1. [MATIN] TJ Foix : déposer requête Art. 145 + demande AJ totale
-  2. [MIDI] Visite 22 Rue Lafaurie : photos + constat personnel
-  3. [APRÈS-MIDI] Commissariat : plainte complémentaire (nouveau PV)
-  ↓
+PHASE 1 — 15 JUILLET FOIX (TOI SEUL) ✅ FAIT
+   1. [MATIN] TJ Foix : dépôt requête Art. 145 + demande AJ totale
+   2. [MIDI] Visite 22 Rue Lafaurie : photos + constat personnel
+   3. [APRÈS-MIDI] Commissariat : plainte complémentaire (nouveau PV)
+   ↓
+PHASE 1B — RELANCES ADMINISTRATIVES (post-15 juillet)
+   1. Relancer le Maire Tavella
+   2. Courrier n°41 Préfecture/CODAF
+   3. Courrier n°42 Inspection du travail
+   ↓
 PHASE 2 — ATTENTE (15 juillet → ~15 août)
   → AJ totale (2-6 semaines) → avocat commis d'office
   → Ordonnance Art. 145 → identification assureur

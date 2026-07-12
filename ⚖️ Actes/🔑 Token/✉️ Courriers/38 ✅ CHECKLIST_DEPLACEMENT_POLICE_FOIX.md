@@ -1,15 +1,14 @@
 ---
 title: "Checklist Complète — Déplacement au Commissariat de Foix"
-description: "Date prévue :** [Date à compléter]"
-type: courrier
+description: "DOCUMENT PERSONNEL"
+type: checklist_personnelle
 date: 2026-07-11
 tags:
   - checklist
   - déplacement
   - police
-  - organisation
-statut: final
-destinataire: Commissariat de Police de Foix
+  - personnel
+statut: personnel
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_FOIX.md
 ---
@@ -27,6 +26,9 @@ reel_path: ../../👤 Reel/✉️ Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 38 ✅ CHECKLIST DEPLACEMENT POLICE FOIX
 <!-- /Breadcrumb -->
+
+> ⚠️ **DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER**
+> Checklist personnelle pour organiser le déplacement à Foix.
 
 # CHECKLIST COMPLÈTE — DÉPLACEMENT À FOIX (15 JUILLET 2026)
 
@@ -60,8 +62,9 @@ reel_path: ../../👤 Reel/✉️ Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_
 ### 🏛️ Documents pour le BAJ — Demande d'AJ totale
 
 - [ ] **Formulaire AJ** (CERFA n° 16146*03) : Rempli et signé
-- [ ] **Avis d'imposition** : Le plus récent
-- [ ] **Justificatifs revenus micro-entrepreneur** : Déclarations URSSAF
+- [ ] **Avis d'imposition N-1** : Le plus récent (obligatoire)
+- [ ] **Déclarations URSSAF 12 derniers mois** : Justificatifs revenus micro-entrepreneur (obligatoire)
+- [ ] **Attestation de non-imposition** : Si applicable
 - [ ] **Pièce d'identité** : Original + copie
 - [ ] **Justificatif de domicile** : < 3 mois
 - [ ] **Demande de traitement accéléré** : Motif : conservation preuves vidéos en péril
@@ -388,7 +391,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_
 - [ ] Suivre l'état de la requête Art. 145
 - [ ] Suivre l'état de la demande AJ
 - [ ] Préparer la relance si silence
-- [ ] **Contacter un avocat Toulouse** spécialisé dommage corporel (AAPC) — si AJ en cours
+- [ ] **Attendre désignation avocat par le BAJ** (AJ totale = désignation d'office, ne pas contacter soi-même)
 
 ---
 
