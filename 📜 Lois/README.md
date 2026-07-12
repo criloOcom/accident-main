@@ -36,7 +36,15 @@ Le dossier a été réorganisé pour une meilleure navigation :
 
 ```
 📜 Lois/
-├── 📜 Jurisprudence/          # 24 arrêts de la Cour de cassation
+├── 📜 Jurisprudence/          # 26 arrêts de la Cour de cassation
+│   ├── 🏛️ Responsabilité du fait des choses/     # 7 arrêts
+│   ├── 🏛️ Transaction sous réserve d'aggravation/ # 3 arrêts
+│   ├── 🏛️ Réserve d'aggravation/                  # 2 arrêts
+│   ├── 🏛️ Préjudice corporel/                     # 5 arrêts
+│   ├── 🏛️ Responsabilité des dirigeants/          # 3 arrêts
+│   ├── 🏛️ Action directe et assurance/            # 3 arrêts
+│   ├── 🏛️ Responsabilité du commettant/           # 2 arrêts
+│   └── 🏛️ Mise en danger d'autrui/                # 1 arrêt
 ├── 📒 Code civil/             # 5 articles
 ├── 📒 Code penal/             # 4 articles
 ├── 📒 Code procedure civile/  # 4 articles
@@ -44,20 +52,19 @@ Le dossier a été réorganisé pour une meilleure navigation :
 ├── 📒 Code assurances/         # 2 articles
 ├── 📒 Code commerce/          # 6 articles
 ├── 📒 Autres codes/            # CGCT, C.trav, CCH, etc. (10 articles)
-├── pdfs/                     # Documents originaux Légifrance
 └── README.md                 # Ce fichier
 ```
 
 ## 📜 Codes et textes législatifs
 
-### 📒 Code civil (5 articles)
+### [📒 Code civil (5 articles)](📒%20Code%20civil/README.md)
 - [Art. 1240](📒%20Code%20civil/Article1240_CodeCivil.md) — Responsabilité délictuelle
 - [Art. 1242](📒%20Code%20civil/Article1242_CodeCivil.md) — Responsabilité du fait des choses
 - [Art. 1719](📒%20Code%20civil/Article1719_CodeCivil_LegiFrance.md) — Obligations du bailleur
 - [Art. 1720](📒%20Code%20civil/Article1720_CodeCivil_LegiFrance.md) — Réparations locatives
 - [Art. 2226](📒%20Code%20civil/Article_2226_Code_Legifrance.md) — Prescription décennale
 
-### 📒 Code pénal (10 articles)
+### [📒 Code pénal (10 articles)](📒%20Code%20penal/README.md)
 - [Art. 121-3](📒%20Autres%20codes/Article_121-3_Code_Legifrance.md) — Responsabilité des personnes morales
 - [Art. 222-19](📒%20Code%20penal/Article_222-19_CodePenal_Legifrance.md) — Blessures involontaires
 - [Art. 222-20](📒%20Code%20penal/Article222-20_CodePenal_LegiFrance.md) — Blessures avec circonstances aggravantes
@@ -67,21 +74,21 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [Art. 434-15](📒%20Code%20penal/Article_434-15_CodePenal_Legifrance.md) — Obstruction à la justice
 - [Art. 434-15-1](📒%20Code%20penal/Article_434-15-1_CodePenal_Legifrance.md) — Obstruction aggravée
 
-### 📒 Code de procédure civile (4 articles)
+### [📒 Code de procédure civile (4 articles)](📒%20Code%20procedure%20civile/README.md)
 - [Art. 145](📒%20Code%20procedure%20civile/Article_145_CodeDeProcédureCivile_Legifrance.md) — Mesures d'instruction
 - [Art. 263](📒%20Code%20procedure%20civile/Article_263_Codeproc_Legifrance.md) — Expertise judiciaire
 - [Art. 700](📒%20Code%20procedure%20civile/Article_700_Codeproc_Legifrance.md) — Frais irrépétibles
 - [Art. 835](📒%20Code%20procedure%20civile/Article835_CodeDeProcedureCivile_LegiFrance.md) — Référé-provision
 
-### 📒 Code de procédure pénale (2 articles)
+### [📒 Code de procédure pénale (2 articles)](📒%20Code%20procedure%20penale/README.md)
 - [Art. 475-1](📒%20Code%20procedure%20penale/Article475-1_CodeProcedurePenale.md) — Constitution de partie civile
 - [Art. 706-3](📒%20Code%20procedure%20penale/Article_706-3_CodeProcedurePenale_Legifrance.md) — FGTI
 
-### 📒 Code des assurances (2 articles)
+### [📒 Code des assurances (2 articles)](📒%20Code%20assurances/README.md)
 - [Art. L.113-2](📒%20Code%20assurances/Article_L113-2_Codesassurances_Legifrance.md) — Déclaration du risque
 - [Art. L.124-3](📒%20Code%20assurances/Article_L124-3_Codesassurances_Legifrance.md) — Action directe
 
-### 📒 Code de commerce (5 articles)
+### [📒 Code de commerce (5 articles)](📒%20Code%20commerce/README.md)
 - [Art. L.210-6](📒%20Code%20commerce/Article_L210-6_Codecommerce_Legifrance.md) — Responsabilité des dirigeants
 - [Art. L.223-22](📒%20Code%20commerce/Article_L223-22_Codecommerce_Legifrance.md) — Nullité des actes
 - [Art. L.225-251](📒%20Code%20commerce/Article_L225-251_Codecommerce_Legifrance.md) — Responsabilité en cas de liquidation
@@ -89,7 +96,7 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [Art. L.227-1](📒%20Code%20commerce/Article_L227-1_Code_Legifrance.md) — Pouvoirs du président
 - [Art. L.237-2](📒%20Code%20commerce/Article_L237-2_Codecommerce_Legifrance.md) — Responsabilité des dirigeants
 
-### 📒 Autres codes (9 articles)
+### [📒 Autres codes (9 articles)](📒%20Autres%20codes/README.md)
 - [Art. L.421-3](📒%20Autres%20codes/Article_L421-3_Codeconsommation_Legifrance.md) — Sécurité des consommateurs
 - [Art. R.143-2](📒%20Autres%20codes/Article_R143-2_Codeconstructionhabitation_Legifrance.md) — Sécurité des ERP
 - [Art. L.2212-2](📒%20Autres%20codes/Article_L2212-2_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Pouvoirs de police du maire
@@ -101,47 +108,47 @@ Le dossier a été réorganisé pour une meilleure navigation :
 
 Tous les arrêts sont disponibles dans le dossier [📜 Jurisprudence/](📜%20Jurisprudence/)
 
-### 🏛️ Responsabilité du fait des choses (7 arrêts)
-- [70-12.124](📜%20Jurisprudence/70-12.124_CourCassation.md) — **Civ. 2e, 23 fév. 1972** — Arrêt *Leroy* — Baignoire passive exposée à la vente
-- [74-10.466](📜%20Jurisprudence/74-10.466_CourCassation.md) — **Civ. 2e, 5 mai 1975** — Vice inhérent ≠ cause d'exonération
-- [89-18.422](📜%20Jurisprudence/89-18.422_CourCassation.md) — **Civ. 2e, 13 fév. 1991** — Échelle qui bascule = instrument du dommage
-- [91-13.580](📜%20Jurisprudence/91-13.580_CourCassation.md) — **Civ. 2e, 25 nov. 1992** — Chose inerte — position anormale à prouver
-- [91-15.035](📜%20Jurisprudence/91-15.035_CourCassation.md) — **Civ. 2e, 5 mai 1993** — Charge preuve instrument du dommage (chose inerte)
-- [24-17.944](📜%20Jurisprudence/24-17.944_CourCassation.md) — **Civ. 2e, 2 avril 2026** — Aggravation — force majeure gardien de la chose
-- [24-21.702](📜%20Jurisprudence/24-21.702_CourCassation.md) — **Civ. 2e, 28 mai 2026** — Échelle instable — preuve position anormale insuffisante
+### [🏛️ Responsabilité du fait des choses (7 arrêts)](📜%20Jurisprudence/🏛️%20Responsabilité%20du%20fait%20des%20choses/README.md)
+- [70-12.124](📜%20Jurisprudence/🏛️%20Responsabilité%20du%20fait%20des%20choses/70-12.124_CourCassation.md) — **Civ. 2e, 23 fév. 1972** — Arrêt *Leroy* — Baignoire passive exposée à la vente
+- [74-10.466](📜%20Jurisprudence/🏛️%20Responsabilité%20du%20fait%20des%20choses/74-10.466_CourCassation.md) — **Civ. 2e, 5 mai 1975** — Vice inhérent ≠ cause d'exonération
+- [89-18.422](📜%20Jurisprudence/🏛️%20Responsabilité%20du%20fait%20des%20choses/89-18.422_CourCassation.md) — **Civ. 2e, 13 fév. 1991** — Échelle qui bascule = instrument du dommage
+- [91-13.580](📜%20Jurisprudence/🏛️%20Responsabilité%20du%20fait%20des%20choses/91-13.580_CourCassation.md) — **Civ. 2e, 25 nov. 1992** — Chose inerte — position anormale à prouver
+- [91-15.035](📜%20Jurisprudence/🏛️%20Responsabilité%20du%20fait%20des%20choses/91-15.035_CourCassation.md) — **Civ. 2e, 5 mai 1993** — Charge preuve instrument du dommage (chose inerte)
+- [24-17.944](📜%20Jurisprudence/🏛️%20Responsabilité%20du%20fait%20des%20choses/24-17.944_CourCassation.md) — **Civ. 2e, 2 avril 2026** — Aggravation — force majeure gardien de la chose
+- [24-21.702](📜%20Jurisprudence/🏛️%20Responsabilité%20du%20fait%20des%20choses/24-21.702_CourCassation.md) — **Civ. 2e, 28 mai 2026** — Échelle instable — preuve position anormale insuffisante
 
-### 🏛️ Transaction sous réserve d'aggravation (3 arrêts)
-- [01-02.274](📜%20Jurisprudence/01-02.274_CourCassation.md) — **Civ. 2e, 26 sept. 2002** — Transaction sous réserve d'aggravation — prescription
-- [92-13.880](📜%20Jurisprudence/92-13.880_CourCassation.md) — **Civ. 2e, 2 fév. 1994** — Transaction sous réserve d'aggravation — expertise
-- [22-18.089](📜%20Jurisprudence/22-18.089_CourCassation.md) — **Civ. 2e, 21 mars 2024** — Autonomie action aggravation — prescription (publié Bulletin)
+### [🏛️ Transaction sous réserve d'aggravation (3 arrêts)](📜%20Jurisprudence/🏛️%20Transaction%20sous%20réserve%20d'aggravation/README.md)
+- [01-02.274](📜%20Jurisprudence/🏛️%20Transaction%20sous%20réserve%20d'aggravation/01-02.274_CourCassation.md) — **Civ. 2e, 26 sept. 2002** — Transaction sous réserve d'aggravation — prescription
+- [92-13.880](📜%20Jurisprudence/🏛️%20Transaction%20sous%20réserve%20d'aggravation/92-13.880_CourCassation.md) — **Civ. 2e, 2 fév. 1994** — Transaction sous réserve d'aggravation — expertise
+- [22-18.089](📜%20Jurisprudence/🏛️%20Transaction%20sous%20réserve%20d'aggravation/22-18.089_CourCassation.md) — **Civ. 2e, 21 mars 2024** — Autonomie action aggravation — prescription (publié Bulletin)
 
-### 🏛️ Réserve d'aggravation (2 arrêts)
-- [20-15.106](📜%20Jurisprudence/20-15.106_CourCassation.md) — **Civ. 2e, 8 juillet 2021** — Réserves d'aggravation, incidence professionnelle
-- [22-19.307](📜%20Jurisprudence/22-19.307_CourCassation.md) — **Civ. 2e, 4 avril 2024** — Réserve d'aggravation
+### [🏛️ Réserve d'aggravation (2 arrêts)](📜%20Jurisprudence/🏛️%20Réserve%20d'aggravation/README.md)
+- [20-15.106](📜%20Jurisprudence/🏛️%20Réserve%20d'aggravation/20-15.106_CourCassation.md) — **Civ. 2e, 8 juillet 2021** — Réserves d'aggravation, incidence professionnelle
+- [22-19.307](📜%20Jurisprudence/🏛️%20Réserve%20d'aggravation/22-19.307_CourCassation.md) — **Civ. 2e, 4 avril 2024** — Réserve d'aggravation
 
-### 🏛️ Préjudice corporel et incidence professionnelle (5 arrêts)
-- [16-24.631](📜%20Jurisprudence/16-24.631_CourCassation.md) — **Civ. 2e** — Préjudice corporel
-- [18-17.868](📜%20Jurisprudence/18-17.868_CourCassation.md) — **Civ. 2e** — Incidence professionnelle
-- [19-23.173](📜%20Jurisprudence/19-23.173_CourCassation.md) — **Civ. 2e, 6 mai 2021** — Incidence professionnelle
-- [21-14.197](📜%20Jurisprudence/21-14.197_CourCassation.md) — **Civ. 2e** — Préjudice corporel
-- [23-12.369](📜%20Jurisprudence/23-12.369_CourCassation.md) — **Civ. 2e** — Évaluation préjudice
+### [🏛️ Préjudice corporel et incidence professionnelle (5 arrêts)](📜%20Jurisprudence/🏛️%20Préjudice%20corporel%20et%20incidence%20professionnelle/README.md)
+- [16-24.631](📜%20Jurisprudence/🏛️%20Préjudice%20corporel%20et%20incidence%20professionnelle/16-24.631_CourCassation.md) — **Civ. 2e** — Préjudice corporel
+- [18-17.868](📜%20Jurisprudence/🏛️%20Préjudice%20corporel%20et%20incidence%20professionnelle/18-17.868_CourCassation.md) — **Civ. 2e** — Incidence professionnelle
+- [19-23.173](📜%20Jurisprudence/🏛️%20Préjudice%20corporel%20et%20incidence%20professionnelle/19-23.173_CourCassation.md) — **Civ. 2e, 6 mai 2021** — Incidence professionnelle
+- [21-14.197](📜%20Jurisprudence/🏛️%20Préjudice%20corporel%20et%20incidence%20professionnelle/21-14.197_CourCassation.md) — **Civ. 2e** — Préjudice corporel
+- [23-12.369](📜%20Jurisprudence/🏛️%20Préjudice%20corporel%20et%20incidence%20professionnelle/23-12.369_CourCassation.md) — **Civ. 2e** — Évaluation préjudice
 
-### 🏛️ Responsabilité des dirigeants (3 arrêts)
-- [97-17.378](📜%20Jurisprudence/97-17.378_CourCassation.md) — **Ass. Plén., 25 février 2000** — Arrêt *Costedoat* — Responsabilité personnelle du dirigeant
-- [99-17.092](📜%20Jurisprudence/99-17.092_CourCassation.md) — **Com., 20 mai 2003** — Responsabilité pour défaut d'assurance
-- [11-15.699](📜%20Jurisprudence/11-15.699_CourCassation.md) — **Com.** — Responsabilité dirigeant
+### [🏛️ Responsabilité des dirigeants (3 arrêts)](📜%20Jurisprudence/🏛️%20Responsabilité%20des%20dirigeants/README.md)
+- [97-17.378](📜%20Jurisprudence/🏛️%20Responsabilité%20des%20dirigeants/97-17.378_CourCassation.md) — **Ass. Plén., 25 février 2000** — Arrêt *Costedoat* — Responsabilité personnelle du dirigeant
+- [99-17.092](📜%20Jurisprudence/🏛️%20Responsabilité%20des%20dirigeants/99-17.092_CourCassation.md) — **Com., 20 mai 2003** — Responsabilité pour défaut d'assurance
+- [11-15.699](📜%20Jurisprudence/🏛️%20Responsabilité%20des%20dirigeants/11-15.699_CourCassation.md) — **Com.** — Responsabilité dirigeant
 
-### 🏛️ Action directe et obligation d'assurance (3 arrêts)
-- [14-15.326](📜%20Jurisprudence/14-15.326_CourCassation.md) — **Civ. 3e** — Obligation d'assurance du bailleur
-- [19-15.659](📜%20Jurisprudence/19-15.659_CourCassation.md) — **Civ. 2e, 14 mai 2020** — Action directe contre l'assureur
-- [20-16.463](📜%20Jurisprudence/20-16.463_CourCassation.md) — **Civ. 1re, 8 décembre 2021** — Action directe, dissolution société
+### [🏛️ Action directe et obligation d'assurance (3 arrêts)](📜%20Jurisprudence/🏛️%20Action%20directe%20et%20obligation%20d'assurance/README.md)
+- [14-15.326](📜%20Jurisprudence/🏛️%20Action%20directe%20et%20obligation%20d'assurance/14-15.326_CourCassation.md) — **Civ. 3e** — Obligation d'assurance du bailleur
+- [19-15.659](📜%20Jurisprudence/🏛️%20Action%20directe%20et%20obligation%20d'assurance/19-15.659_CourCassation.md) — **Civ. 2e, 14 mai 2020** — Action directe contre l'assureur
+- [20-16.463](📜%20Jurisprudence/🏛️%20Action%20directe%20et%20obligation%20d'assurance/20-16.463_CourCassation.md) — **Civ. 1re, 8 décembre 2021** — Action directe, dissolution société
 
-### 🏛️ Responsabilité du commettant (2 arrêts)
-- [00-82.066](📜%20Jurisprudence/00-82.066_CourCassation.md) — **Ass. Plén., 25 février 2000** — Arrêt *Cousin* — Responsabilité du commettant
-- [80-14.994](📜%20Jurisprudence/80-14.994_CourCassation.md) — **Ass. Plén., 25 février 2000** — Arrêt *Gabillet* — Cumul responsabilités contractuelle/délictuelle
+### [🏛️ Responsabilité du commettant (2 arrêts)](📜%20Jurisprudence/🏛️%20Responsabilité%20du%20commettant/README.md)
+- [00-82.066](📜%20Jurisprudence/🏛️%20Responsabilité%20du%20commettant/00-82.066_CourCassation.md) — **Ass. Plén., 25 février 2000** — Arrêt *Cousin* — Responsabilité du commettant
+- [80-14.994](📜%20Jurisprudence/🏛️%20Responsabilité%20du%20commettant/80-14.994_CourCassation.md) — **Ass. Plén., 25 février 2000** — Arrêt *Gabillet* — Cumul responsabilités contractuelle/délictuelle
 
-### 🏛️ Mise en danger d'autrui (1 arrêt)
-- [13-80.849](📜%20Jurisprudence/13-80.849_CourCassation.md) — **Crim., 27 mai 2014** — Mise en danger d'autrui
+### [🏛️ Mise en danger d'autrui (1 arrêt)](📜%20Jurisprudence/🏛️%20Mise%20en%20danger%20d'autrui/README.md)
+- [13-80.849](📜%20Jurisprudence/🏛️%20Mise%20en%20danger%20d'autrui/13-80.849_CourCassation.md) — **Crim., 27 mai 2014** — Mise en danger d'autrui
 
 ## 🔧 Documents techniques
 
