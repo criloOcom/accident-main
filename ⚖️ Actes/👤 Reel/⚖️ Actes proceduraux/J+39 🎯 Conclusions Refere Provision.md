@@ -70,7 +70,7 @@ Une intervention chirurgicale a été réalisée en urgence le 30 mai 2026 par u
 Le paiement électronique (Wero) de 15,00 € effectué par la victime au salon le jour même, puis remboursé par le salon postérieurement à l'accident, constitue une preuve irréfutable de la présence de la victime et de la relation contractuelle.
 
 #### b) Le procès-verbal de police
-Le commissariat de police a dressé le [procès-verbal n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) qui confirme le basculement de la vasque. Ce procès-verbal constitue une pièce décisive établissant le mécanisme de l'accident.
+Le commissariat de police a dressé le [procès-verbal n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) qui confirme le basculement de la vasque. Ce procès-verbal constitue une pièce décisive établissant le mécanisme de l'accident.
 
 #### c) Le constat d'huissier
 Par l'intermédiaire d'un huissier de justice, il a été constaté la présence d'une **cassure majeure préexistante** sur la vasque, présentant des arêtes tranchantes constituant un danger manifeste pour toute personne se trouvant à proximité. Ce vice de la chose était **indécelable de l'extérieur** et n'avait fait l'objet d'aucune signalisation.

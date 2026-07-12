@@ -79,7 +79,7 @@ Ma main droite, tendue par reflexe, a heurte la cassure preexistante, entrainant
 Plusieurs procedures ont ete engagees a ce jour :
 
 1. Depot de plainte au commissariat de Foix (PV n° 2026/015967)
-2. [Constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise au Tribunal Judiciaire de Foix
+2. [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise au Tribunal Judiciaire de Foix
 3. Mises en demeure LRAR a la SAS, a ses dirigeants et au proprietaire des murs (29 juin 2026)
 4. Action directe contre l'assureur RC professionnelle (Article L.124-3 du Code des assurances)
 

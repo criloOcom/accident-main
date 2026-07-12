@@ -48,7 +48,7 @@ Objet : Relance pour suivi de plainte et demande de videosurveillance — PV n°
 
 <hr>
 
-Ref : Depot de plainte du 1er juin 2026 — [Constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) du 2 juin 2026
+Ref : Depot de plainte du 1er juin 2026 — [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) du 2 juin 2026
 
 Madame, Monsieur l'Officier de Police Judiciaire,
 

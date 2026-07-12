@@ -36,6 +36,6 @@ Ces pièces constituent le socle factuel du litige : constats, comptes rendus m�
 | **[J+31 Mises en demeure]** | Forensic Evidence File | Dossier de preuves numériques | ✅ Constitué |
 
 > ⚠️ Les fichiers physiques sont en attente d'insertion dans ce dossier.  
-> Consulter [🧠 Memory/PIECES MAP.md](🧠%20Memory/PIECES%20MAP.md) pour la cotation détaillée.
+> Consulter [🧠 Memory/PIECES MAP.md](../../../%F0%9F%A7%A0%20Memory/PIECES%20MAP.md) pour la cotation détaillée.
 
-- [J+167 📁 Preparation Expertise UMJ](J+167%20📁%20Preparation%20Expertise%20UMJ.md)
+- [J+167 📁 Preparation Expertise UMJ](J%2B167%20%F0%9F%93%81%20Preparation%20Expertise%20UMJ.md)

@@ -70,7 +70,7 @@ Malgré de multiples mises en demeure, les défendeurs n'ont apporté aucune ré
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^1] <br>
 
-Il ressort des pièces médicales produites ([certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) et [compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)) que Sébastien GRAZIDE a subi des lésions importantes dont la consolidation n'est pas acquise.
+Il ressort des pièces médicales produites ([certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) et [compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)) que Sébastien GRAZIDE a subi des lésions importantes dont la consolidation n'est pas acquise.
 
 L'évaluation complète de ses préjudices nécessite l'intervention d'un expert médical. La demande d'expertise est donc légitime et sera accueillie.
 

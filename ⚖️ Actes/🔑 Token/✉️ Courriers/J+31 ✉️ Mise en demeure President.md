@@ -101,7 +101,7 @@ Le chirurgien a évalué le pronostic de récupération neurologique à un an mi
 
 Du fait de mon activité d'informaticien indépendant ([**[L'Identifiant Professionnel de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-identifiant-professionnel-de-la-victime.md)), l'incapacité d'utiliser mon index et ma main dominante me paralyse totalement dans mon travail quotidien.
 
-En tant que citoyen, je ne connaissais pas les formalités nécessaires dans ce type de situation. C'est à la suite de mes démarches administratives auprès de la CPAM (recours contre tiers n° **[N° [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**) et des services de police que j'ai été informé de l'obligation de recueillir les coordonnées de l'assureur de responsabilité civile professionnelle de votre salon afin de lui transmettre mon dossier médical.
+En tant que citoyen, je ne connaissais pas les formalités nécessaires dans ce type de situation. C'est à la suite de mes démarches administratives auprès de la CPAM (recours contre tiers n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**) et des services de police que j'ai été informé de l'obligation de recueillir les coordonnées de l'assureur de responsabilité civile professionnelle de votre salon afin de lui transmettre mon dossier médical.
 
 C'est ce même assureur qui prendra en charge et indemnisera les conséquences matérielles et corporelles de ce sinistre, protégeant ainsi l'équilibre de votre propre entreprise.
 
@@ -173,6 +173,6 @@ Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Gén�
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
 
-> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) sur ma main droite dominante, je suis actuellement en [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
 > Cette situation de handicap physique temporaire explique le délai de transmission de mes demandes administratives.

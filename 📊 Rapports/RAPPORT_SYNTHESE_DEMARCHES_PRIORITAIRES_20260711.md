@@ -426,7 +426,7 @@ gantt
 - **Références formatées** : `REFERENCES_MARKDOWN_20260710.json`
 - **Décisions sélectionnées** : `DECISIONS_SELECTIONNEES_20260710.json`
 - **Annexes jurisprudentielles** : `⚖️ Actes/📎 Annexes/` (3 décisions complètes)
-- **Documentation MCP** : [📜 Lois/EXEMPLES_REQUETES_MCP.md](📜%20Lois/EXEMPLES_REQUETES_MCP.md)
+- **Documentation MCP** : [📜 Lois/EXEMPLES_REQUETES_MCP.md](../%F0%9F%93%9C%20Lois/EXEMPLES_REQUETES_MCP.md)
 
 ### Indicateurs de Succès
 

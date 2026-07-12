@@ -29,21 +29,21 @@ Les tokens anonymisés (`**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS
 ## ⚠️ Règle
 
 > **Ne jamais modifier les fichiers dans `reel/` directement.**  
-> Toute modification doit être faite dans [⚖️ Actes/🔑 Token](../🔑%20Token/README.md), puis regénérée via :
+> Toute modification doit être faite dans [⚖️ Actes/🔑 Token](../%F0%9F%94%91%20Token/README.md), puis regénérée via :
 > ```bash
 > python3 app/generate_real_versions.py
 > ```
 
 ## 📂 Contenu
 
-- **[⚖️ Actes proceduraux](⚖️%20Actes%20proceduraux/README.md)** — *6* — Assignations, conclusions, requêtes (versions réelles)
-- **[✉️ Courriers](✉️%20Courriers/README.md)** — *20* — Courriers et signalements (versions réelles)
-- **[📚 Analyses juridiques](📚%20Analyses%20juridiques/README.md)** — *4* — Plaidoiries, FAQ (versions réelles)
-- **[💰 Etudes indemnisation](💰%20Etudes%20indemnisation/README.md)** — *1* — Étude d'indemnisation (version réelle)
-- **[🗂️ Organisation](🗂️%20Organisation/README.md)** — *3* — Index, plan, calendrier (versions réelles)
-- **[🗄️ Archives](🗄️%20Archives/README.md)** — *7* — Archives (versions réelles)
+- **[⚖️ Actes proceduraux](%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/README.md)** — *6* — Assignations, conclusions, requêtes (versions réelles)
+- **[✉️ Courriers](%E2%9C%89%EF%B8%8F%20Courriers/README.md)** — *20* — Courriers et signalements (versions réelles)
+- **[📚 Analyses juridiques](%F0%9F%93%9A%20Analyses%20juridiques/README.md)** — *4* — Plaidoiries, FAQ (versions réelles)
+- **[💰 Etudes indemnisation](%F0%9F%92%B0%20Etudes%20indemnisation/README.md)** — *1* — Étude d'indemnisation (version réelle)
+- **[🗂️ Organisation](%F0%9F%97%82%EF%B8%8F%20Organisation/README.md)** — *3* — Index, plan, calendrier (versions réelles)
+- **[🗄️ Archives](%F0%9F%97%84%EF%B8%8F%20Archives/README.md)** — *7* — Archives (versions réelles)
 
 ## 🔗 Source
 
 Tous ces fichiers sont générés depuis :
-> [⚖️ Actes/🔑 Token](../🔑%20Token/README.md) → `python3 app/generate_real_versions.py` → [⚖️ Actes/👤 Reel](../👤%20Reel/README.md)
+> [⚖️ Actes/🔑 Token](../%F0%9F%94%91%20Token/README.md) → `python3 app/generate_real_versions.py` → [⚖️ Actes/👤 Reel](../%F0%9F%91%A4%20Reel/README.md)

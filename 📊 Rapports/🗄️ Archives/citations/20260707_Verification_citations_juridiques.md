@@ -127,15 +127,15 @@ Articles cités sans texte reproduit :
 Articles cités sans texte reproduit :
 - Article 475-1
 
-## Fichier : [⚖️ Actes/🔑 Token/🗄️ Archives/🛡️ Constitution Partie Civile.md](⚖️%20Actes/🔑%20Token/🗄️%20Archives/🛡️%20Constitution%20Partie%20Civile.md)
+## Fichier : [⚖️ Actes/🔑 Token/🗄️ Archives/🛡️ Constitution Partie Civile.md](../../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
 Articles cités sans texte reproduit :
 - Article 475-1 du Code de procédure pénale
 
-## Fichier : [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Civil.md](⚖️%20Actes/🔑%20Token/🗄️%20Archives/🧠%20STRATEGIE%20Contentieux%20Civil.md)
+## Fichier : [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Civil.md](../../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Civil.md)
 Articles cités sans texte reproduit :
 - Article 706-5 du Code de procédure pénale
 
-## Fichier : [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md](⚖️%20Actes/🔑%20Token/🗄️%20Archives/🧠%20STRATEGIE%20Contentieux%20Penal.md)
+## Fichier : [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md](../../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md)
 Articles cités sans texte reproduit :
 - Article 223-1 du Code pénal
 - Article 706-5 du Code de procédure pénale
@@ -248,11 +248,11 @@ Articles cités sans texte reproduit :
 - article 455
 - article 700
 
-## Fichier : [📜 Lois/Article475-1_CodeProcedurePenale.md](📜%20Lois/Article475-1_CodeProcedurePenale.md)
+## Fichier : [📜 Lois/Article475-1_CodeProcedurePenale.md](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20penale/Article475-1_CodeProcedurePenale.md)
 Articles cités sans texte reproduit :
 - article 470-1
 
-## Fichier : [📜 Lois/Article835_CodeDeProcedureCivile_LegiFrance.md](📜%20Lois/Article835_CodeDeProcedureCivile_LegiFrance.md)
+## Fichier : [📜 Lois/Article835_CodeDeProcedureCivile_LegiFrance.md](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20civile/Article835_CodeDeProcedureCivile_LegiFrance.md)
 Articles cités sans texte reproduit :
 - article 12
 

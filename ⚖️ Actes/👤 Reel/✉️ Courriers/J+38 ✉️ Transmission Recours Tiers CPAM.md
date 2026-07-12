@@ -85,7 +85,7 @@ A ce jour, les procedures suivantes ont ete engagees :
 
 3. **Assignation Article 145 CPC** (5 juillet 2026) : Saisine du Tribunal Judiciaire de Foix pour communication forcee de la police d'assurance RC professionnelle sous astreinte.
 
-4. **[Constitution de Partie Civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** (6 juillet 2026) : Depot d'une plainte avec [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) aupres du Doyen des Juges d'Instruction du Tribunal Judiciaire de Foix, fondee sur les articles 222-19 et 222-20 du Code penal (blessures involontaires), et engageant la responsabilite penale de la SAS et de ses dirigeants.
+4. **[Constitution de Partie Civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** (6 juillet 2026) : Depot d'une plainte avec [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) aupres du Doyen des Juges d'Instruction du Tribunal Judiciaire de Foix, fondee sur les articles 222-19 et 222-20 du Code penal (blessures involontaires), et engageant la responsabilite penale de la SAS et de ses dirigeants.
 
 <hr>
 
@@ -117,13 +117,13 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 | 10 | Preuve de paiement Wero 15,00 € (preuve de presence materielle) | 29 mai 2026 |
 | 11 | Assignation refere-provision (Art. 835 CPC) | [**[J+32 Assignation refere]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-32-assignation-refere.md) |
 | 12 | Assignation Article 145 CPC (communication assurance) | 5 juillet 2026 |
-| 13 | [Constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (Art. 222-19/222-20 CP) | 6 juillet 2026 |
+| 13 | [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (Art. 222-19/222-20 CP) | 6 juillet 2026 |
 
 **C. Pieces administratives CPAM**
 
 | N° | Piece | Reference |
 |----|-------|-----------|
-| 14 | Accuse de reception d'ouverture de [dossier RCT](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) | Dossier n° 31727387 |
+| 14 | Accuse de reception d'ouverture de [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) | Dossier n° 31727387 |
 | 15 | Courriers echanges avec la gestionnaire de dossier | Sigrid DESBOIS |
 
 <hr>
@@ -131,7 +131,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 ## IV — DEMANDE
 Je sollicite de vos services :
 
-**1. La confirmation de la bonne reception** des elements transmis par la presente et leur integration a mon [dossier RCT n° 31727387](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md).
+**1. La confirmation de la bonne reception** des elements transmis par la presente et leur integration a mon [dossier RCT n° 31727387](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md).
 
 **2. Le montant des debours definitifs** conformement a l'article L.376-1 du Code de la securite sociale, necessaire a l'evaluation globale de mon prejudice dans le cadre des procedures judiciaires en cours.
 
@@ -141,7 +141,7 @@ Je sollicite de vos services :
 
 **3. L'information sur le suivi du dossier** et les demarches complementaires eventuellement necessaires de ma part.
 
-**4. L'identification de l'assureur** de la SAS SAS LES MAUVAIS GARCONS si vos services disposent de cette information dans le cadre de la gestion du [dossier RCT](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md).
+**4. L'identification de l'assureur** de la SAS SAS LES MAUVAIS GARCONS si vos services disposent de cette information dans le cadre de la gestion du [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md).
 
 Mes coordonnees demeurent : 10 Avenue de Purpan, 31700 Blagnac — Courriel : sebastien.grazide@gmail.com
 

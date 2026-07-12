@@ -46,4 +46,4 @@ Vérifier la cohérence des noms d'organismes, des adresses, des sigles et des t
    - Les courriers destinés aux organismes publics (CPAM, URSSAF, Inspection du Travail, SIE, etc.) ne contiennent pas d'adresses en clair dans le corps du texte (en dehors des informations tokenisées), celles-ci étant gérées par les en-têtes YAML (ex: `destinataire: CPAM Haute-Garonne`, `destinataire: URSSAF Midi-Pyrenees`, `destinataire: Service des Impôts des Entreprises de **[La Ville de l'Accident]**`) ou de manière générique.
 
 ## Conclusion
-L'audit a permis de relever et corriger quelques fuites d'anonymisation restantes relatives à la ville ("Foix") rattachée aux juridictions compétentes. Les courriers 03 à 34 sont désormais pleinement cohérents et respectent la table de tokens définie dans [🧠 Memory/TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md).
+L'audit a permis de relever et corriger quelques fuites d'anonymisation restantes relatives à la ville ("Foix") rattachée aux juridictions compétentes. Les courriers 03 à 34 sont désormais pleinement cohérents et respectent la table de tokens définie dans [🧠 Memory/TOKEN MAP.md](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md).

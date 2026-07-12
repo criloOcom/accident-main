@@ -30,7 +30,7 @@ type: readme
 
 ## Liste des articles
 
-- [145](Article_145_CodeDeProcédureCivile_Legifrance.md)
+- [145](Article_145_CodeDeProc%C3%A9dureCivile_Legifrance.md)
 - [263](Article_263_Codeproc_Legifrance.md)
 - [700](Article_700_Codeproc_Legifrance.md)
 

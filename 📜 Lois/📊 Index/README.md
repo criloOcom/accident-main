@@ -68,7 +68,7 @@ Ce dossier contient l'index complet et organisé de tous les textes de loi et ar
 
 ### 🏛️ Jurisprudence (24 arrêts)
 
-Consultez le dossier [📜 Jurisprudence](../📜%20Jurisprudence/) pour la liste complète des arrêts de la Cour de cassation.
+Consultez le dossier [📜 Jurisprudence](../%F0%9F%93%9C%20Jurisprudence/) pour la liste complète des arrêts de la Cour de cassation.
 
 ## 🔍 Recherche et Navigation
 

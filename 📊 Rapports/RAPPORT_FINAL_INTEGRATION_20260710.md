@@ -71,9 +71,9 @@ type: rapport
   - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
   - [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️%20Actes/👤%20Reel/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
 - **Annexes créées** :
-  - [⚖️ Actes/📎 Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md](⚖️%20Actes/📎%20Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md)
-  - [⚖️ Actes/📎 Annexes/ANNEXE_2_Decision_CC_CIV1_1994-07-08.md](⚖️%20Actes/📎%20Annexes/ANNEXE_2_Decision_CC_CIV1_1994-07-08.md)
-  - [⚖️ Actes/📎 Annexes/ANNEXE_3_Decision_CC_CIV1_2012-07-04.md](⚖️%20Actes/📎%20Annexes/ANNEXE_3_Decision_CC_CIV1_2012-07-04.md)
+  - [⚖️ Actes/📎 Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%93%8E%20Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md)
+  - [⚖️ Actes/📎 Annexes/ANNEXE_2_Decision_CC_CIV1_1994-07-08.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%93%8E%20Annexes/ANNEXE_2_Decision_CC_CIV1_1994-07-08.md)
+  - [⚖️ Actes/📎 Annexes/ANNEXE_3_Decision_CC_CIV1_2012-07-04.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%93%8E%20Annexes/ANNEXE_3_Decision_CC_CIV1_2012-07-04.md)
 
 ### ✅ ÉTAPE 7: Génération des Versions Réelles
 - **Objectif** : Mettre à jour les versions avec identités réelles
@@ -234,7 +234,7 @@ Rien à signaler — tout est cohérent.
 - **Données brutes** : 3.6 MB de données juridiques dans [📊 Rapports](📊%20Rapports/README.md)
 - **Références formatées** : `REFERENCES_MARKDOWN_20260710.json`
 - **Décisions sélectionnées** : `DECISIONS_SELECTIONNEES_20260710.json`
-- **Documentation** : [📜 Lois/EXEMPLES_REQUETES_MCP.md](📜%20Lois/EXEMPLES_REQUETES_MCP.md)
+- **Documentation** : [📜 Lois/EXEMPLES_REQUETES_MCP.md](../%F0%9F%93%9C%20Lois/EXEMPLES_REQUETES_MCP.md)
 - **Annexes jurisprudentielles** : [⚖️ Actes/📎 Annexes](⚖️%20Actes/📎%20Annexes/README.md) (3 décisions complètes)
 
 ---

@@ -164,7 +164,7 @@ gantt
 # Index — 📂 Preuves officielles (Versions Réelles)
 
 - [01 📁 Dossier UMJ Preparation.md](01%20📁%20Dossier%20UMJ%20Preparation.md)
-- [20260710 📧 Actualisation Dossier ERP/](20260710%20📧%20Actualisation%20Dossier%20ERP/)
+- [20260710 📧 Actualisation Dossier ERP/](../⚖️%20Actes/Preuves%20officielles/20260710%20📧%20Actualisation%20Dossier%20ERP)
 ```
 
 **⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md**

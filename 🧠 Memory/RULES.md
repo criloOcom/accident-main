@@ -1,6 +1,6 @@
 ---
 title: "RÈGLES PERMANENTES — Dossier Accident de la Main"
-description: "- **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet ([🧠 Memory/STRICT VARIABLES.md](🧠%20Memory/STRICT%20VARIABLES.md) ou `🧠_M"
+description: "- **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet ([🧠 Memory/STRICT VARIABLES.md](STRICT%20VARIABLES.md) ou `🧠_M"
 type: memory
 ---
 
@@ -21,12 +21,12 @@ type: memory
 # RÈGLES PERMANENTES — Dossier Accident de la Main
 
 ## 🛑 PROTOCOLE ANTI-HALLUCINATION STRICT (ZÉRO INVENTIONS)
-- **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet ([🧠 Memory/STRICT VARIABLES.md](🧠%20Memory/STRICT%20VARIABLES.md) ou [🧠 Memory/KNOWLEDGE_GRAPH.json](🧠%20Memory/KNOWLEDGE_GRAPH.json)).
+- **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet ([🧠 Memory/STRICT VARIABLES.md](STRICT%20VARIABLES.md) ou [🧠 Memory/KNOWLEDGE_GRAPH.json](KNOWLEDGE_GRAPH.json)).
 - **LE DOUTE SYSTÉMATIQUE** : Si une information (statut de l'entreprise, décision, nom, date) n'est pas explicitement documentée, l'agent doit indiquer que la donnée est "inconnue en l'état" au lieu de l'extrapoler ou de la deviner.
 - **RÈGLE DU DOUBLE-PASS (RELECTURE)** : Avant de finaliser une action ou de proposer un document, l'agent doit relire son propre travail en extrayant individuellement toutes les dates, sommes et citations pour les comparer une par une avec les variables de référence.
 
 ## VÉRIFICATION SUR PIÈCES SOURCE AVANT TOUTE RÉDACTION (Règle n°14)
-- **RÈGLE ABSOLUE** : Avant de rédiger ou modifier un acte, courrier ou email mentionnant une date, un lieu, un numéro de PV ou une information procédurale, l'agent DOIT retrouver et vérifier l'information sur la pièce source originale dans [⚖️ Actes/Preuves officielles](⚖️%20Actes/Preuves%20officielles/README.md)
+- **RÈGLE ABSOLUE** : Avant de rédiger ou modifier un acte, courrier ou email mentionnant une date, un lieu, un numéro de PV ou une information procédurale, l'agent DOIT retrouver et vérifier l'information sur la pièce source originale dans [⚖️ Actes/Preuves officielles](../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/README.md)
 - **Ne JAMAIS** reproduire une information procédurale (date de plainte, lieu de dépôt, numéro de PV, date de chirurgie) depuis une version antérieure d'un document sans la recouper avec la pièce source
 - **Mécanisme concret** : pour chaque donnée factuelle dans le document en rédaction, tracer sa provenance : quelle pièce source, quel drive_id, quel numéro de page
 - **Sanction** : une information erronée reproduite sans vérification est une faute professionnelle immédiate
@@ -37,7 +37,7 @@ type: memory
 - Ne JAMAIS contourner cette règle — une jurisprudence fabriquée invalide tout le dossier
 
 ## VÉRIFICATION JURITEXT — PROTOCOLE STRICT (Règle n°10)
-- **Lire** [/home/crilocom/accident-main/🧠 Memory/JURITEXT_PROTOCOL.md](/home/crilocom/accident-main/🧠%20Memory/JURITEXT_PROTOCOL.md) avant toute insertion/modification de JURITEXT
+- **Lire** [/home/crilocom/accident-main/🧠 Memory/JURITEXT_PROTOCOL.md](/home/crilocom/accident-main/%F0%9F%A7%A0%20Memory/JURITEXT_PROTOCOL.md) avant toute insertion/modification de JURITEXT
 - **Vérification en 2 étapes OBLIGATOIRE** : `legifrance-prod_rechercher_jurisprudence` PUIS `openlegi_rechercher_jurisprudence_judiciaire` — les 2 doivent concorder
 - **JAMAIS deviner** un JURITEXT — si introuvable, marquer "À VÉRIFIER" et signaler
 - **JAMAIS se fier** à une coche "✓" dans un fichier — la coche ne prouve rien
@@ -63,7 +63,7 @@ type: memory
 - Les MCP sont gérés par le runtime opencode ; le fix du code source + redémarrage du processus est la seule procédure valide
 
 ## PROTOCOLE DE VACCINATION (OBLIGATOIRE — À FAIRE EN TOUT PREMIER)
-- 🔴 **Lire et appliquer** [/home/crilocom/accident-main/🧠 Memory/VACCIN.md](/home/crilocom/accident-main/🧠%20Memory/VACCIN.md) avant la
+- 🔴 **Lire et appliquer** [/home/crilocom/accident-main/🧠 Memory/VACCIN.md](/home/crilocom/accident-main/%F0%9F%A7%A0%20Memory/VACCIN.md) avant la
   moindre action — c'est le protocole de vaccination contre la médiocrité
 - **Checklist VACCIN** : analyser 3 exemples existants avant d'en créer un
   nouveau, remplir TOUTES les colonnes, vérifier avec MCP avant de citer
@@ -72,7 +72,7 @@ type: memory
 
 ## PROTOCOLE DE MÉMOIRE (OBLIGATOIRE EN DÉBUT DE SESSION)
 - **Lire** `/home/crilocom/accident-main/AGENTS.md` en premier
-- **Lire** TOUS les fichiers de [/home/crilocom/accident-main/🧠 Memory](/home/crilocom/accident-main/🧠%20Memory/README.md) avant toute action
+- **Lire** TOUS les fichiers de [/home/crilocom/accident-main/🧠 Memory](/home/crilocom/accident-main/%F0%9F%A7%A0%20Memory/README.md) avant toute action
 - **Vérifier** que le STATUS.md est à jour ; si non, le corriger
 - **Ne JAMAIS** poser à l'utilisateur une question dont la réponse existe déjà dans les fichiers mémoire ou le Drive
 
@@ -114,15 +114,15 @@ type: memory
 
 ## VÉRIFICATION OBLIGATOIRE AVANT FINALISATION (DOUBLE-PASS)
 - Avant de finaliser l'écriture de tout document, extraire toutes les dates, montants et identifiants
-- Comparer UN PAR UN avec le fichier [🧠 Memory/STRICT VARIABLES.md](🧠%20Memory/STRICT%20VARIABLES.md)
+- Comparer UN PAR UN avec le fichier [🧠 Memory/STRICT VARIABLES.md](STRICT%20VARIABLES.md)
 - Si une seule donnée diffère, CORRIGER le document avant de le présenter
 - Ne JAMAIS inventer une date, un montant ou un identifiant — utiliser uniquement les valeurs de STRICT VARIABLES.md
 
 ## ANTI-RÉGRESSION — VÉRIFICATION CROSS-DOCUMENT OBLIGATOIRE
-- Après TOUTE modification d'un fichier dans [⚖️ Actes](⚖️%20Actes/README.md), [🧠 Memory](🧠%20Memory/README.md), ou `annexes/`, lancer impérativement : `python3 app/check_consistency.py`
+- Après TOUTE modification d'un fichier dans [⚖️ Actes](../%E2%9A%96%EF%B8%8F%20Actes/README.md), [🧠 Memory](README.md), ou `annexes/`, lancer impérativement : `python3 app/check_consistency.py`
 - Ce script vérifie : liens internes valides, tokens connus, LEGIARTI/JURITEXT joignables, frontmatter cohérent
 - Ne JAMAIS commit/push sans vérification préalable — une régression (lien mort, token inconnu, donnée contradictoire) invalide tout le dossier
-- Les fichiers [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Civil.md](⚖️%20Actes/🔑%20Token/🗄️%20Archives/🧠%20STRATEGIE%20Contentieux%20Civil.md) et [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md](⚖️%20Actes/🔑%20Token/🗄️%20Archives/🧠%20STRATEGIE%20Contentieux%20Penal.md) sont les portes d'entrée — leur mise à jour est prioritaire
+- Les fichiers [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Civil.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Civil.md) et [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md) sont les portes d'entrée — leur mise à jour est prioritaire
 
 ## STRUCTURE DES DOCUMENTS UNIFIE_ANONYME (voir aussi DESIGN.md)
 - Titre du document en TITLE (20pt, CENTER, BOLD — PAS le 36pt par défaut)
@@ -134,7 +134,7 @@ type: memory
 - **NE PAS inclure** d'annexes avec correspondance des acteurs
 - Si des références légales sont citées, les lier via applyTextStyle + linkUrl
 - Tokens d'anonymisation en **bold** dans le body
-- Se référer à [🧠 Memory/DESIGN.md](🧠%20Memory/DESIGN.md) pour le détail complet de la charte
+- Se référer à [🧠 Memory/DESIGN.md](DESIGN.md) pour le détail complet de la charte
 
 ## #13 — NOTEBOOKLM MCP — SOURCE DE CONTEXTE PROJET
 - **NotebookLM** est une source de contexte supplémentaire : les sources du projet sont chargées dans le notebook `accident-main`
@@ -282,7 +282,7 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 4. **Généré automatiquement** par `.dev/app/generate_breadcrumbs.py`
 5. **Ne JAMAIS ajouter** de breadcrumb à la main — toujours passer par le script
 6. **Ne JAMAIS laisser** de scripts .py ni de fichiers orphelins à la racine du projet — tout va dans `.dev/app/`
-7. **Ne JAMAIS laisser** de fichiers Rapport*.md à la racine — tout va dans [📊 Rapports](📊%20Rapports/README.md)
+7. **Ne JAMAIS laisser** de fichiers Rapport*.md à la racine — tout va dans [📊 Rapports](../%F0%9F%93%8A%20Rapports/README.md)
 8. **Ne JAMAIS laisser** de `__pycache__` ou `.pytest_cache` traîner — supprimer après exécution de scripts
 
 ## #15 — INTERDICTION FORMELLE DES LIENS ABSOLUS EN INTERNE
@@ -305,7 +305,7 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 ## #17 — LIENS OBLIGATOIRES SUR TOUTE CITATION INTERNE (RÈGLE PERMANENTE)
 
 - **Toute citation d'un dossier ou d'un fichier interne au dépôt DOIT être un lien relatif cliquable** (Markdown `[texte](chemin.md)`), jamais un simple texte entre backticks sans lien.
-- **Citation de DOSSIER** : le lien doit pointer vers le `README.md` de ce dossier (ex. [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/README.md) → `[01 ⚖️ Actes procéduraux](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/README.md)`).
+- **Citation de DOSSIER** : le lien doit pointer vers le `README.md` de ce dossier (ex. [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/README.md) → `[01 ⚖️ Actes procéduraux](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/README.md)`).
 - **Citation de FICHIER** : le lien doit pointer directement vers le fichier (ex. `[RAPPORT_X](📊%20Rapports/RAPPORT_X.md)`).
 - Le texte du lien doit être lisible (nom du dossier/fichier cité), pas un chemin illisible sauf si le contexte l'exige.
 - **Interdiction** : écrire `` `📊 Rapports/RAPPORT_X.md` `` sans le transformer en lien. Idem pour les dossiers.

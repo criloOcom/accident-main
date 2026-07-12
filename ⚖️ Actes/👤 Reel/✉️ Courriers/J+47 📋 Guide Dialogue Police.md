@@ -45,10 +45,10 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 - [ ] Plainte complémentaire signée (document n°36)
 - [ ] Copie du PV initial n°2026/015967
 - [ ] Accusés de réception des LRAR retournés NPAI
-- [ ] [Extrait Kbis](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS
+- [ ] [Extrait Kbis](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS
 - [ ] Note d'audit RNE/INPI du 10/07/2026
 - [ ] Photos de l'accident et de la vasque cassée (format papier + numérique)
-- [ ] Certificats médicaux ([CR opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md), [arrêts de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md))
+- [ ] Certificats médicaux ([CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md), [arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md))
 - [ ] Liste chronologique des démarches
 
 **📋 Documents de support (à garder avec vous) :**
@@ -73,7 +73,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ### À l'accueil du commissariat
 
-**Vous :** "Bonjour Madame/Monsieur, je suis Sébastien GRAZIDE. J'ai déposé une plainte le 1er juin 2026 ([PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour un accident corporel grave survenu au salon de coiffure 'Les Mauvais Garçons'. Je souhaite déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves. Pouvez-vous me diriger vers le service compétent ?"
+**Vous :** "Bonjour Madame/Monsieur, je suis Sébastien GRAZIDE. J'ai déposé une plainte le 1er juin 2026 ([PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour un accident corporel grave survenu au salon de coiffure 'Les Mauvais Garçons'. Je souhaite déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves. Pouvez-vous me diriger vers le service compétent ?"
 
 **Si on vous demande d'attendre :**
 "Bien sûr, je comprends. Puis-je avoir un numéro ou un ticket pour suivre mon tour ? Combien de temps l'attente est-elle généralement ?"
@@ -87,7 +87,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ### Introduction auprès de l'officier
 
-**Vous :** "Bonjour Monsieur/Madame l'Officier. Je m'appelle Sébastien GRAZIDE, je suis la victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiffure 'Les Mauvais Garçons' situé au 22 Rue Lafaurie. J'ai déjà déposé une plainte initiale le 1er juin ([PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)), et je souhaite aujourd'hui déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves par les dirigeants de l'établissement."
+**Vous :** "Bonjour Monsieur/Madame l'Officier. Je m'appelle Sébastien GRAZIDE, je suis la victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiffure 'Les Mauvais Garçons' situé au 22 Rue Lafaurie. J'ai déjà déposé une plainte initiale le 1er juin ([PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)), et je souhaite aujourd'hui déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves par les dirigeants de l'établissement."
 
 **Remettez votre dossier en disant :**
 "Voici le dossier complet que j'ai préparé. Il contient la plainte complémentaire détaillée avec toutes les références juridiques, ainsi que les pièces justificatives. Je peux vous en faire un résumé si vous le souhaitez, ou vous préférez le parcourir d'abord ?"
@@ -128,7 +128,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 > [Article 86 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062) <br>
 
 **Q : "Avez-vous des preuves tangibles de cette obstruction ?"**
-**R :** "Oui, absolument. J'ai ici les accusés de réception des courriers recommandés retournés 'défaut d'adresse' (je les montre), alors que l'[extrait Kbis](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) prouve que la société est toujours à cette adresse. J'ai aussi la note d'audit RNE/INPI qui confirme qu'aucun changement n'a été déclaré. Et surtout, j'ai le silence radio complet malgré mes multiples tentatives de contact."
+**R :** "Oui, absolument. J'ai ici les accusés de réception des courriers recommandés retournés 'défaut d'adresse' (je les montre), alors que l'[extrait Kbis](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) prouve que la société est toujours à cette adresse. J'ai aussi la note d'audit RNE/INPI qui confirme qu'aucun changement n'a été déclaré. Et surtout, j'ai le silence radio complet malgré mes multiples tentatives de contact."
 
 **Q : "Pourquoi ne pas avoir saisi directement un avocat ?"**
 **R :** "J'ai entamé des démarches pour trouver un avocat, mais en parallèle, je considère que ces faits relèvent du pénal et nécessitent une intervention des autorités. L'obstruction à la justice est un délit puni par le Code pénal, et il appartient à la police judiciaire d'enquêter. De plus, je souhaite que ces agissements soient officiellement consignés dans une procédure pénale."
@@ -161,7 +161,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 **5. Accusé de réception :**
 "Pouvez-vous me remettre un accusé de réception de ma plainte complémentaire, avec mention des suites qui seront données, conformément à l'article 15-3 du Code de procédure pénale ?"
 
-> « Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale, y compris lorsque ces plaintes sont déposées dans un service ou une unité de police judiciaire territorialement incompétents. Dans ce cas, la plainte est, s'il y a lieu, transmise au service ou à l'unité territorialement compétents. Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime, qui mentionne les délais de prescription de l'action publique définis aux articles 7 à 9 ainsi que la possibilité d'interrompre le délai de prescription par le dépôt d'une plainte avec [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md), en application de l'article 85 . Si elle en fait la demande, une copie du procès-verbal lui est immédiatement remise. Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procès-verbal par leur numéro d'immatriculation administrative. » <br>
+> « Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale, y compris lorsque ces plaintes sont déposées dans un service ou une unité de police judiciaire territorialement incompétents. Dans ce cas, la plainte est, s'il y a lieu, transmise au service ou à l'unité territorialement compétents. Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime, qui mentionne les délais de prescription de l'action publique définis aux articles 7 à 9 ainsi que la possibilité d'interrompre le délai de prescription par le dépôt d'une plainte avec [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md), en application de l'article 85 . Si elle en fait la demande, une copie du procès-verbal lui est immédiatement remise. Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procès-verbal par leur numéro d'immatriculation administrative. » <br>
 > **Code de procédure pénale > Section 1 : Dispositions générales — abrogation différée.** <br>
 > [Article 15-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) <br>
 

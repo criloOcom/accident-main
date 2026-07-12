@@ -15,19 +15,19 @@ type: readme
 
 ## 📂 Arborescence
 
-- [**⚖️ Actes**](./⚖️%20Actes/README.md) <br>
+- [**⚖️ Actes**](./%E2%9A%96%EF%B8%8F%20Actes/README.md) <br>
 Actes, courriers, analyses juridiques, études d'indemnisation (versions tokenisées + réelles)
 
-- [**📜 Lois et jurisprudence**](./📜%20Lois/README.md) <br>
+- [**📜 Lois et jurisprudence**](./%F0%9F%93%9C%20Lois/README.md) <br>
 Codes, articles, arrêts de la Cour de cassation, index juridique
 
-- [**🧠 Mémoire du projet**](./🧠%20Memory/README.md) <br>
+- [**🧠 Mémoire du projet**](./%F0%9F%A7%A0%20Memory/README.md) <br>
 Règles, décisions, état d'avancement, correspondances tokens, protocoles
 
-- [**📊 Rapports**](./📊%20Rapports/README.md) <br>
+- [**📊 Rapports**](./%F0%9F%93%8A%20Rapports/README.md) <br>
 Audits, évaluations, expertise, archives
 
-- [**🚦 Status des actes**](./🚦%20Status/README.md) <br>
+- [**🚦 Status des actes**](./%F0%9F%9A%A6%20Status/README.md) <br>
 Suivi d'envoi par statut (préparation, prêt, envoyé)
 
 - [**🔧 Développement**](./.dev/README.md) <br>
@@ -36,12 +36,12 @@ Scripts, tests, déploiement
 
 ## 🔗 Accès rapide
 
-- [État d'avancement complet](./🧠%20Memory/STATUS.md)
-- [Token Map (correspondance token ↔ réel)](./🧠%20Memory/TOKEN%20MAP.md)
-- [Pièces citées (PIECES MAP)](./🧠%20Memory/PIECES%20MAP.md)
-- [Règles permanentes](./🧠%20Memory/RULES.md)
-- [Dernière évaluation Dintilhac consolidée](./⚖️%20Actes/🔑%20Token/💰%20Etudes%20indemnisation/11+12%20📊%20Evaluation%20Dintilhac%20consolidee.md)
-- [Todo & priorités](./🧠%20Memory/TODO.md)
+- [État d'avancement complet](./%F0%9F%A7%A0%20Memory/STATUS.md)
+- [Token Map (correspondance token ↔ réel)](./%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md)
+- [Pièces citées (PIECES MAP)](./%F0%9F%A7%A0%20Memory/PIECES%20MAP.md)
+- [Règles permanentes](./%F0%9F%A7%A0%20Memory/RULES.md)
+- [Dernière évaluation Dintilhac consolidée](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/J%2B39%20%F0%9F%93%8A%20Evaluation%20Dintilhac%20Consolidee.md)
+- [Todo & priorités](./%F0%9F%A7%A0%20Memory/TODO.md)
 
 ---
 

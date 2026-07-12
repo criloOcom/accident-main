@@ -41,10 +41,10 @@ Partage depuis : sebastien.grazide@gmail.com
 ## 00 — PREUVES OFFICIELLES
 *(Documents physiques — dossier `📂 Preuves officielles/` en attente d'insertion)*
 
-- 2026-05-30 - [CR opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) ✓ Vérifié : Compte rendu opératoire du Dr Iskander DJERBI (microchirurgie 30 mai 2026).
+- 2026-05-30 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) ✓ Vérifié : Compte rendu opératoire du Dr Iskander DJERBI (microchirurgie 30 mai 2026).
 - 2026-06-01 - Dossier plainte ✓ Vérifié : Copie complète de la plainte officielle déposée au commissariat.
 - 2026-06-02 - PV Police ✓ Vérifié : Procès-verbal de constat n°[ ...].
-- 2026-06-19 - [CR opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) Dr Iskander DJERBI ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
+- 2026-06-19 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) Dr Iskander DJERBI ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
 - 2026-06-29 - Forensic Evidence File ✓ Vérifié : Dossier de preuves numériques et médicales.
 
 <hr><hr>
@@ -86,7 +86,7 @@ Partage depuis : sebastien.grazide@gmail.com
 - 2026-07-05 - 18 ✉️ Courrier SDIS - V1 ✓ Vérifié : Signalement sécurité ERP.
 - 2026-07-05 - 19 ✉️ Courrier FGTI - V1 ✓ Vérifié : Information conservatoire (LRAR + email).
 - 2026-07-05 - 20 🔄 Relance Police - V1 ✓ Vérifié : Suivi plainte + demande vidéos.
-- 2026-07-05 - 21 🔄 Relance CPAM - V1 ✓ Vérifié : Suivi [dossier RCT](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) 31727387.
+- 2026-07-05 - 21 🔄 Relance CPAM - V1 ✓ Vérifié : Suivi [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) 31727387.
 - 2026-07-05 - J+32 📋 Attestation Temoin Client - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
 - 2026-07-05 - 23 📋 Attestation Pompier SAMU - V1 ✓ Vérifié : Gabarit d'attestation d'intervention.
 - 2026-07-05 - J+32 📋 Attestation Employe - V1 ✓ Vérifié : Gabarit d'attestation d'employé.
@@ -131,34 +131,34 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 <hr><hr>
 
 ## MÉMOIRES D'AUDIT
-- [AUDIT_DATES.md](../📊%20Rapports/🗄️%20Archives/audit/AUDIT_DATES.md) ✓ Vérifié : Audit de la chronologie des faits.
-- [AUDIT_MONTANTS.md](../📊%20Rapports/🗄️%20Archives/audit/AUDIT_MONTANTS.md) ✓ Vérifié : Audit des calculs d'indemnisation.
-- [AUDIT_NOMS_RESIDUELS.md](../📊%20Rapports/🗄️%20Archives/audit/AUDIT_NOMS_RESIDUELS.md) ✓ Vérifié : Vérification de l'anonymisation.
-- [AUDIT_COHERENCE_TRANSVERSALE.md](../📊%20Rapports/🗄️%20Archives/audit/AUDIT_COHERENCE_TRANSVERSALE.md) ✓ Vérifié : Audit de la cohérence entre les documents.
-- [AUDIT_ASSIGNATION_145.md](../📊%20Rapports/🗄️%20Archives/audit/AUDIT_ASSIGNATION_145.md) ✓ Vérifié : Audit du projet d'assignation.
-- [EVIDENCE_MATRIX.md](../📊%20Rapports/🗄️%20Archives/audit/EVIDENCE_MATRIX.md) ✓ Vérifié : Matrice des preuves.
-- [PLAN_ACTION_B.md](../📊%20Rapports/🗄️%20Archives/audit/PLAN_ACTION_B.md) ✓ Vérifié : Plan d'action alternatif.
-- [STATS_DOSSIER.md](../📊%20Rapports/🗄️%20Archives/audit/STATS_DOSSIER.md) ✓ Vérifié : Statistiques détaillées du dossier.
-- [RAPPORT_CONSISTENCY.md](../📊%20Rapports/🗄️%20Archives/audit/RAPPORT_CONSISTENCY.md) ✓ Vérifié : Rapport du script de cohérence.
-- [RAPPORT_INDEX.md](../📊%20Rapports/🗄️%20Archives/audit/RAPPORT_INDEX.md) ✓ Vérifié : Rapport d'indexation.
-- [SYNCHRO_TOKENS.md](../📊%20Rapports/🗄️%20Archives/audit/SYNCHRO_TOKENS.md) ✓ Vérifié : État de la synchronisation des tokens.
-- [TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md) ✓ Vérifié : Table de correspondance des tokens.
-- [STRICT VARIABLES.md](../../🧠%20Memory/STRICT%20VARIABLES.md) ✓ Vérifié : Variables et faits inaltérables.
-- [PIECES MAP.md](../../🧠%20Memory/PIECES%20MAP.md) ✓ Vérifié : Correspondance documents et pièces.
+- [AUDIT_DATES.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/AUDIT_DATES.md) ✓ Vérifié : Audit de la chronologie des faits.
+- [AUDIT_MONTANTS.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/AUDIT_MONTANTS.md) ✓ Vérifié : Audit des calculs d'indemnisation.
+- [AUDIT_NOMS_RESIDUELS.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/AUDIT_NOMS_RESIDUELS.md) ✓ Vérifié : Vérification de l'anonymisation.
+- [AUDIT_COHERENCE_TRANSVERSALE.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/AUDIT_COHERENCE_TRANSVERSALE.md) ✓ Vérifié : Audit de la cohérence entre les documents.
+- [AUDIT_ASSIGNATION_145.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/AUDIT_ASSIGNATION_145.md) ✓ Vérifié : Audit du projet d'assignation.
+- [EVIDENCE_MATRIX.md](../../../%F0%9F%A7%A0%20Memory/EVIDENCE_MATRIX.md) ✓ Vérifié : Matrice des preuves.
+- [PLAN_ACTION_B.md](../../../%F0%9F%A7%A0%20Memory/PLAN_ACTION_B.md) ✓ Vérifié : Plan d'action alternatif.
+- [STATS_DOSSIER.md](../../../%F0%9F%A7%A0%20Memory/STATS_DOSSIER.md) ✓ Vérifié : Statistiques détaillées du dossier.
+- [RAPPORT_CONSISTENCY.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/RAPPORT_CONSISTENCY.md) ✓ Vérifié : Rapport du script de cohérence.
+- [RAPPORT_INDEX.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/RAPPORT_INDEX.md) ✓ Vérifié : Rapport d'indexation.
+- [SYNCHRO_TOKENS.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/SYNCHRO_TOKENS.md) ✓ Vérifié : État de la synchronisation des tokens.
+- [TOKEN MAP.md](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md) ✓ Vérifié : Table de correspondance des tokens.
+- [STRICT VARIABLES.md](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md) ✓ Vérifié : Variables et faits inaltérables.
+- [PIECES MAP.md](../../../%F0%9F%A7%A0%20Memory/PIECES%20MAP.md) ✓ Vérifié : Correspondance documents et pièces.
 
 <hr><hr>
 
 ## ARCHIVES
 Documents non indexés conservés dans `archives/` :
 
-- [archives/annexes/](archives/annexes/README.md) — [📚 ANNEXE A Lexique Tokens](archives/annexes/📚%20ANNEXE%20A%20Lexique%20Tokens.md), [⚖️ ANNEXE B Lois Jurisprudence](archives/annexes/⚖️%20ANNEXE%20B%20Lois%20Jurisprudence.md), [📑 ANNEXE C Pièces](archives/annexes/📑%20ANNEXE%20C%20Pièces.md)
-- [archives/🛡️ Constitution Partie Civile.md](archives/🛡️%20Constitution%20Partie%20Civile.md)
-- [archives/⚡ ActionDirecte AssureurRC.md](archives/⚡%20ActionDirecte%20AssureurRC.md)
-- [archives/🔧 ANALYSE correction juridique.md](archives/🔧%20ANALYSE%20correction%20juridique.md)
-- [archives/📚 ANALYSE Jurisprudence.md](archives/📚%20ANALYSE%20Jurisprudence.md)
-- [archives/🧠 STRATEGIE Contentieux Civil.md](archives/🧠%20STRATEGIE%20Contentieux%20Civil.md)
-- [archives/🧠 STRATEGIE Contentieux Penal.md](archives/🧠%20STRATEGIE%20Contentieux%20Penal.md)
-- [archives/📁 Dossier Presentation.md](archives/📁%20Dossier%20Presentation.md)
+- [archives/annexes/](archives/annexes/README.md) — [📚 ANNEXE A Lexique Tokens](archives/annexes/📚%20ANNEXE%20A%20Lexique%20Tokens.md), [⚖️ ANNEXE B Lois Jurisprudence](../../%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%E2%9A%96%EF%B8%8F%20ANNEXE%20B%20Lois%20Jurisprudence.md), [📑 ANNEXE C Pièces](../../%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%F0%9F%93%91%20ANNEXE%20C%20Pieces.md)
+- [archives/🛡️ Constitution Partie Civile.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
+- [archives/⚡ ActionDirecte AssureurRC.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%E2%9A%A1%20ActionDirecte%20AssureurRC.md)
+- [archives/🔧 ANALYSE correction juridique.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%94%A7%20ANALYSE%20correction%20juridique.md)
+- [archives/📚 ANALYSE Jurisprudence.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%93%9A%20ANALYSE%20Jurisprudence.md)
+- [archives/🧠 STRATEGIE Contentieux Civil.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Civil.md)
+- [archives/🧠 STRATEGIE Contentieux Penal.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md)
+- [archives/📁 Dossier Presentation.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%93%81%20Dossier%20Presentation.md)
 
 <hr><hr>
 

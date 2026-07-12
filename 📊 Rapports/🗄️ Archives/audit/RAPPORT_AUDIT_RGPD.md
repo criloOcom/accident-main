@@ -78,7 +78,7 @@ Le traitement actuel des données personnelles dans ce projet pose plusieurs pro
 
 ### Recommandations Juridiques
 
-1.  **Chiffrement au repos :** Chiffrer le dépôt entier si possible, ou au moins les répertoires contenant les clés de ré-identification ([🧠 Memory/TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md) et [🧠 Memory/STRICT VARIABLES.md](🧠%20Memory/STRICT%20VARIABLES.md)), en utilisant des outils comme `git-crypt` ou `SOPS`.
+1.  **Chiffrement au repos :** Chiffrer le dépôt entier si possible, ou au moins les répertoires contenant les clés de ré-identification ([🧠 Memory/TOKEN MAP.md](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md) et [🧠 Memory/STRICT VARIABLES.md](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md)), en utilisant des outils comme `git-crypt` ou `SOPS`.
 2.  **Hébergement :** S'assurer que le service d'hébergement Git utilisé (ex: GitHub) présente les garanties nécessaires (DPA - Data Processing Agreement). Éviter à tout prix les dépôts publics.
 3.  **Minimisation des données :** Ne conserver dans `STRICT VARIABLES.md` que les données strictement nécessaires au traitement du dossier.
 4.  **Délai de conservation :** Définir et appliquer une politique de purge des données une fois le dossier juridique clos et les délais de prescription échus.

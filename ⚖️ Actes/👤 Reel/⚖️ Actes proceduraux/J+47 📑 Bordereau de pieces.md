@@ -42,15 +42,15 @@ source: drive
 
 ## Pièce n° 2 — Certificat médical d'urgence
 
-- 29 mai 2026 — Dr Julie JARDON (SMUR 09) : Certificat médical de [premiers soins d'urgence](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) constatant la section tendineuse et nerveuse de l'index droit.
+- 29 mai 2026 — Dr Julie JARDON (SMUR 09) : Certificat médical de [premiers soins d'urgence](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) constatant la section tendineuse et nerveuse de l'index droit.
 
-## Pièce n° 3 — [Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) SOS Main
+## Pièce n° 3 — [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) SOS Main
 
-- 30 mai 2026 — Dr Iskander DJERBI (SOS Main) : [Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie d'urgence (réparation tendineuse et nerveuse).
+- 30 mai 2026 — Dr Iskander DJERBI (SOS Main) : [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie d'urgence (réparation tendineuse et nerveuse).
 
-## Pièce n° 4 — Certificats d'[arrêts de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)
+## Pièce n° 4 — Certificats d'[arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)
 
-- 29 mai 2026 à **[J+56 ITT]** — Dr Oxybel / Dr Iskander DJERBI : Certificats médicaux d'[arrêts de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 56 jours d'ITT.
+- 29 mai 2026 à **[J+56 ITT]** — Dr Oxybel / Dr Iskander DJERBI : Certificats médicaux d'[arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 56 jours d'ITT.
 
 ## Pièce n° 5 — Plainte pénale et procès-verbal de police
 
@@ -82,34 +82,34 @@ source: drive
 
 ## Pièce n° 12 — Frais de séjour SOS Main + Relevé de prestations
 
-- 30 mai 2026 — Clinique de l'Union : Frais de séjour et soins (GHS) [dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° 31727387.
+- 30 mai 2026 — Clinique de l'Union : Frais de séjour et soins (GHS) [dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° 31727387.
 - 10 juin 2026 — Assurance Maladie (CPAM) : Relevé de prestations avec enregistrement de l'acte de chirurgie (ADC) du 30 mai 2026.
 
 ## Pièce n° 13 — Rectification administrative CPAM et chirurgicale
 
 - 16 juin 2026 — Sigrid DESBOIS (CPAM Haute-Garonne) : Demande de renseignements — INCOHÉRENCE : dossier n° 2631103960 au lieu du n° 31727387.
 - **18/06/2026** — Sébastien GRAZIDE : Note de cadrage médico-légale confirmant la zone lésée (index droit) et la référence Recours 31727387.
-- 19 juin 2026 — Secrétariat du Dr Iskander DJERBI : Rectification du [compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) : index droit au lieu du 5e doigt, date du 30 mai 2026 rétablie.
+- 19 juin 2026 — Secrétariat du Dr Iskander DJERBI : Rectification du [compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) : index droit au lieu du 5e doigt, date du 30 mai 2026 rétablie.
 
-## Pièce n° 14 — Envoi [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et déclaration sinistre
+## Pièce n° 14 — Envoi [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et déclaration sinistre
 
-- 3 juin 2026 — Sébastien GRAZIDE : Envoi des volets 1 et 2 d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) après correction manuelle de l'erreur de date.
+- 3 juin 2026 — Sébastien GRAZIDE : Envoi des volets 1 et 2 d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) après correction manuelle de l'erreur de date.
 - **05/06/2026** — Sébastien GRAZIDE : Déclaration de sinistre corporel aux assurances privées (limite légale de 5 jours).
 - 23 juin 2026 — Clinique de l'Union : Première séance de rééducation spécialisée de la main.
 
 ## Pièce n° 15 — Soins post-opératoires et consultation de contrôle
 
 - **Sans date** — Cabinet infirmier Rue Mathieu Lanes (Toulouse) : Pansements post-chirurgicaux lourds toutes les 48 heures.
-- **12/06/2026** — Dr Oxybel (Blagnac) : Consultation de contrôle planifiant la prolongation de l'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
+- **12/06/2026** — Dr Oxybel (Blagnac) : Consultation de contrôle planifiant la prolongation de l'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
 - 23 juin 2026 — Dr Iskander DJERBI : Consultation de contrôle post-opératoire (J+24) — bonne évolution cicatricielle, déficit neurologique (insensibilité) noté.
 
 ## Pièce n° 16 — Consultation et prescription d'arrêt initial
 
-- 29 mai 2026 — Dr Oxybel : Prescription initiale de 25 jours d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
+- 29 mai 2026 — Dr Oxybel : Prescription initiale de 25 jours d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
 
-## Pièce n° 17 — LRAR [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)
+## Pièce n° 17 — LRAR [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)
 
-- **05/06/2026** — Sébastien GRAZIDE : Envoi recommandé d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (LR n° 870014140507947).
+- **05/06/2026** — Sébastien GRAZIDE : Envoi recommandé d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (LR n° 870014140507947).
 
 ## Pièce n° 18 — Relevés de prestations CPAM Tiers Payant
 
@@ -117,7 +117,7 @@ source: drive
 
 ## Pièce n° 19 — Soins et remboursements CPAM
 
-- **Sans date** — CPAM (n° 31727387 et 2631103960) : Frais pharmaceutiques, hospitalisation et [arrêts de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) liés au préjudice corporel.
+- **Sans date** — CPAM (n° 31727387 et 2631103960) : Frais pharmaceutiques, hospitalisation et [arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) liés au préjudice corporel.
 
 ## Pièce n° 20 — Information droits des victimes
 
@@ -167,6 +167,6 @@ source: drive
 
 - **01/05/2026** — CPAM Haute-Garonne : Document informatif général sur les indemnités journalières (Réf. CPAM 31_2399_05/26).
 
-## Pièce n° 31 — Preuve dépôt LRAR [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)
+## Pièce n° 31 — Preuve dépôt LRAR [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)
 
 - **05/06/2026** — La Poste (Automate Blagnac) : Preuve de dépôt LRAR — décalage de date constaté (vignette 03/06, flash postal 05/06).

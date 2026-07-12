@@ -37,7 +37,7 @@ statut: projet
 | Catégorie la plus solide | Breadcrumbs (quasi parfaits) |
 | Catégorie la plus faible | YAML frontmatter + liens brisés |
 
-**Bilan** : Le travail de mise en forme annoncé (uniformisation des breadcrumbs, suppression des `## 🔗 Navigation`, consolidation des variables, rétrogradation de 20 fichiers `final`→`projet`, nettoyage des branches) est **réel et vérifiable** sur les breadcrumbs et la navigation. En revanche, l'audit révèle une **couche structurelle sous-jacente fragile** non corrigée : presence de fichiers obsolètes/fantômes référencés, README de sous-dossiers sans frontmatter, types YAML hors nomenclature, et un lot de liens cassés dus à des renommages de dossiers non propagés (`token/`→`🔑 Token/`, `reel/`→`👤 Reel/`, omission du sous-dossier `📜 Jurisprudence/`).
+**Bilan** : Le travail de mise en forme annoncé (uniformisation des breadcrumbs, suppression des `## 🔗 Navigation`, consolidation des variables, rétrogradation de 20 fichiers `final`→`projet`, nettoyage des branches) est **réel et vérifiable** sur les breadcrumbs et la navigation. En revanche, l'audit révèle une **couche structurelle sous-jacente fragile** non corrigée : presence de fichiers obsolètes/fantômes référencés, README de sous-dossiers sans frontmatter, types YAML hors nomenclature, et un lot de liens cassés dus à des renommages de dossiers non propagés (`token/`→`🔑 Token/`, `reel/`→`👤 Reel/`, omission du sous-dossier `📜 Jurisprudence/README.md`).
 
 ---
 
@@ -87,8 +87,8 @@ statut: projet
 - 🔴 **Dossier `🚦 Status/` EXISTE** (avec `01_PREPARATION.md`, `02_PRET_POUR_ENVOI.md`, `03_ENVOYE.md`) — corrigendum : l'audit initial indiquait à tort « inexistant ». Le vrai défaut : ses 3 index utilisent des **chemins absolus** `/⚖️ Actes/...` au lieu de chemins relatifs `../⚖️ Actes/...`. Résultat : 164 liens morts (voir Cat 5). `README.md` L25 pointe correctement vers `./🚦 Status/README.md`.
 - 🔴 **`README_OLD.md` interdit présent** : `📜 Lois/README_OLD.md` (62 lignes). Les règles interdisent les fichiers orphelins/obsolètes à la racine ; un `README_OLD` est un résidu à archiver ou supprimer. (Il génère 45 liens cassés fantômes.)
 - 🔴 **`🔙` (retour) présent dans 20 README de sous-dossiers** (ex. [⚖️ Actes/Preuves officielles/20260529 🩹 DrJARDON/README.md](⚖️%20Actes/Preuves%20officielles/20260529%20🩹%20DrJARDON/README.md) L7 : `🔙 [📁 Preuves officielles](../README.md)`). Pattern de navigation interdit non supprimé lors du nettoyage.
-- 🔴 **1 « Retour à l'accueil »** : [📊 Rapports/RAPPORT_NAVIGATION_INTERACTIVE_20260711.md](📊%20Rapports/RAPPORT_NAVIGATION_INTERACTIVE_20260711.md) L78 — pattern interdit.
-- 🟡 **8 occurrences de « Accueil »** en texte (ex. `README.md` L34 « [AGENTS.md](./AGENTS.md) pour les instructions agents » — acceptable, mais 8 cas à revoir).
+- 🔴 **1 « Retour à l'accueil »** : [📊 Rapports/RAPPORT_NAVIGATION_INTERACTIVE_20260711.md](RAPPORT_NAVIGATION_INTERACTIVE_20260711.md) L78 — pattern interdit.
+- 🟡 **8 occurrences de « Accueil »** en texte (ex. `README.md` L34 « [AGENTS.md](../AGENTS.md) pour les instructions agents » — acceptable, mais 8 cas à revoir).
 - 🟡 **13 sous-dossiers de `Preuves officielles/` sans `README.md` parent** : [⚖️ Actes/Preuves officielles/README.md](⚖️%20Actes/Preuves%20officielles/README.md) n'existe pas, or chaque sous-dossier `…/README.md` pointe vers `../README.md` (parent absent) → 13 liens cassés.
 - ✅ Aucun `## 🔗 Navigation` résiduel détecté (suppression confirmée).
 
@@ -101,17 +101,17 @@ statut: projet
 |---|---|---|
 | `01_PREPARATION.md` / `02_PRET_POUR_ENVOI.md` / `03_ENVOYE.md` | 164 | Chemins absolus `/⚖️ Actes/...` au lieu de `../⚖️ Actes/...` (dossier `🚦 Status/` existe bien) |
 | `README.md` (racine) | 52 | Liens vers fichiers déplacés/renommés |
-| `J+39 📜 Strategie Jurisprudentielle.md` | 22 | Liens jurisprudence omettant `📜 Jurisprudence/` |
+| `J+39 📜 Strategie Jurisprudentielle.md` | 22 | Liens jurisprudence omettant `📜 Jurisprudence/README.md` |
 | `01 ⚖️ Assignation.md` | 12 | Annexes référencées sans chemin correct (`ANNEXE_1_…md` au lieu de `📎 Annexes/ANNEXE_1_…md`) |
 | `📜 Lois/README_OLD.md` | 45 | Fichier obsolète |
 | `RAPPORT_NAVIGATION_INTERACTIVE_20260711.md` | 13 | Rapport |
-| `13 📜 Responsabilites legales.md` | 8 | Liens jurisprudence omettant `📜 Jurisprudence/` |
+| `13 📜 Responsabilites legales.md` | 8 | Liens jurisprudence omettant `📜 Jurisprudence/README.md` |
 | [⚖️ Actes/README.md](⚖️%20Actes/README.md) | 9 | Pointe vers `token/` et `reel/` (renommés `🔑 Token`/`👤 Reel`) |
 | `STATUS.md`, `DESIGN.md`, `VACCIN.md`, `DECISIONS.md`, rapport doc | 12 | Divers |
 
 **Vrais bugs de liens (indépendants des fichiers fantômes) :**
 - 🔴 [⚖️ Actes/README.md](⚖️%20Actes/README.md) L21-40 : `token/README.md`, `reel/README.md`, `token/0X_…/README.md` → dossiers renommés `🔑 Token`/`👤 Reel` non propagés.
-- 🔴 `13 📜 Responsabilites legales.md` L92-98 et `J+39 📜 Strategie Jurisprudentielle.md` : `../../../📜 Lois/89-18.422_CourCassation.md` → le fichier réel est [📜 Lois/📜 Jurisprudence/89-18.422_CourCassation.md](📜%20Lois/📜%20Jurisprudence/89-18.422_CourCassation.md) (sous-dossier omis).
+- 🔴 `13 📜 Responsabilites legales.md` L92-98 et `J+39 📜 Strategie Jurisprudentielle.md` : `../../../📜 Lois/89-18.422_CourCassation.md` → le fichier réel est [📜 Lois/📜 Jurisprudence/README.md89-18.422_CourCassation.md](../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md) (sous-dossier omis).
 - 🔴 `01 ⚖️ Assignation.md` L106-126, 347-349 : `ANNEXE_1_Decision_CC_CIV1_1965-04-30.md` / `📎 Annexes/ANNEXE_…md` → les annexes sont dans [⚖️ Actes/📎 Annexes](⚖️%20Actes/📎%20Annexes/README.md) (chemin relatif faux).
 - 🔴 **6 liens `file://` cassés** (`J+40 📋 Dossier Special CERFA.md` L43-45, token + reel) : pointent vers `26 📋 Attestation Temoin Client.md`, `27 📋 Attestation Pompier SAMU.md`, `28 📋 Attestation Employe.md` — or les fichiers réels sont `26 📧 …`, `27 📧 …`, `28 📧 …` (mismatch 📋/📧). Lien mort + nommage incohérent.
 - 🟡 **4 URLs Légifrance** format `ceta/id/...` (`11+12 … Dintilhac consolidee.md` L265, `12 … Dintilhac détaillée.md` L147, + versions reel) — `ceta` (Conseil d'État) vs `juri` (Cassation) ; à confirmer que l'ID est bien un CETA et non une JURITEXT.
@@ -120,7 +120,7 @@ statut: projet
 ### Catégorie 6 — Propreté générale
 **Score : 12 / 20**
 
-- 🟡 **37 fichiers « orphelins »** (non référencés par nom dans aucun autre `.md`) — majoritairement des **rapports d'audit du 11-07** (`RAPPORT_AUDIT_*.md`, `RAPPORT_CORRECTION_*.md`, `RAPPORT_*.md` de méthodologie) + [🧠 Memory/JULES_MCP_GUIDELINES.md](🧠%20Memory/JULES_MCP_GUIDELINES.md), `NOTE_SYNTHESE_AVOCAT.md`, `RECADRAGE_NOMENCLATURE.md`, `JUSTIFICATION_PROVISION_15000.md`. La plupart sont des rapports de bord — utiles mais non reliés entre eux. À relier depuis un index ou à archiver.
+- 🟡 **37 fichiers « orphelins »** (non référencés par nom dans aucun autre `.md`) — majoritairement des **rapports d'audit du 11-07** (`RAPPORT_AUDIT_*.md`, `RAPPORT_CORRECTION_*.md`, `RAPPORT_*.md` de méthodologie) + [🧠 Memory/JULES_MCP_GUIDELINES.md](../%F0%9F%A7%A0%20Memory/JULES_MCP_GUIDELINES.md), `NOTE_SYNTHESE_AVOCAT.md`, `RECADRAGE_NOMENCLATURE.md`, `JUSTIFICATION_PROVISION_15000.md`. La plupart sont des rapports de bord — utiles mais non reliés entre eux. À relier depuis un index ou à archiver.
 - 🔴 **`.pytest_cache/README.md` ALTÉRÉ** : le README standard de pytest a reçu un breadcrumb injecté en lignes 1-3 (`<!-- Breadcrumb -->` / `[🏠](../README.md)` / `<!-- /Breadcrumb -->`). Le contenu pytest d'origine commence par `# pytest cache directory #` sans breadcrumb. Altération non autorisée d'un fichier de cache (doit rester hors périmètre). À restaurer au contenu pytest natif ou à ignorer.
 - ⚪ **1 fichier quasi-vide** : [⚖️ Actes/👤 Reel/📂 Preuves officielles/README.md](⚖️%20Actes/👤%20Reel/📂%20Preuves%20officielles/README.md) (3 lignes de contenu). À compléter ou supprimer.
 - 🔴 **Tokens non résolus dans `statut: final`** : voir Cat 3 (8 fichiers avec `[...]`).
@@ -132,7 +132,7 @@ statut: projet
 **P0 — Correctifs bloquants (intégrité)**
 1. **Dossier `🚦 Status/` existe** — corriger ses 3 index (`01_PREPARATION.md`, `02_PRET_POUR_ENVOI.md`, `03_ENVOYE.md`) : remplacer tous les liens absolus `/⚖️ Actes/...` par des chemins relatifs `../⚖️ Actes/...`. (164 liens dépendent de ça.)
 2. Corriger [⚖️ Actes/README.md](⚖️%20Actes/README.md) L21-40 : remplacer `token/`→`🔑 Token/`, `reel/`→`👤 Reel/` (9 liens).
-3. Corriger les liens jurisprudence (`13 Responsabilites`, `14 Stratégie`) : ajouter le sous-dossier `📜 Jurisprudence/` (≈30 liens).
+3. Corriger les liens jurisprudence (`13 Responsabilites`, `14 Stratégie`) : ajouter le sous-dossier `📜 Jurisprudence/README.md` (≈30 liens).
 4. Corriger `01 ⚖️ Assignation.md` : préfixer `📎 Annexes/` aux liens d'annexe (L106-126, 347-349).
 5. Corriger les 6 `file://` de `05 📋 Dossier Special CERFA.md` : `📋`→`📧` (ou renommer les fichiers cibles).
 6. Rétrograder ou compléter les 8 fichiers `final` contenant `[...]` (Cat 3).

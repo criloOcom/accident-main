@@ -60,13 +60,13 @@ Je porte par la presente a votre connaissance l'existence d'un litige en cours e
 
 Les procedures suivantes ont ete engagees :
 
-- Depot de plainte et [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (TJ de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md))
+- Depot de plainte et [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (TJ de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md))
 
 - Mises en demeure LRAR a la societe et a ses dirigeants ([**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-31-mises-en-demeure.md))
 
 - Demande d'enquete a l'Inspection du Travail et au CODAF
 
-- Dossier de recours contre tiers a la CPAM (n° **[N° [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**)
+- Dossier de recours contre tiers a la CPAM (n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**)
 
 Je souhaiterais etre informe de toute modification de la situation fiscale de la societe qui pourrait intervenir (cessation d'activite, liquidation, radiation) dans le cadre de la presente procedure.
 

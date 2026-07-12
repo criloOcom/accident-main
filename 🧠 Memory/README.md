@@ -45,11 +45,11 @@ graph TD
 - **WORKFLOW.md** - Processus et workflows du projet
 
 - **[GESTIONNAIRE_DOC](GESTIONNAIRE_DOC.md)**
-- **[📆 Mini Calendrier Procedure](📆%20Mini%20Calendrier%20Procedure.md)**
-- **[📋 Fiche Suivi Démarches Administratives](📋%20Fiche%20Suivi%20Démarches%20Administratives.md)**
+- **[📆 Mini Calendrier Procedure](%F0%9F%93%86%20Mini%20Calendrier%20Procedure.md)**
+- **[📋 Fiche Suivi Démarches Administratives](%F0%9F%93%8B%20Fiche%20Suivi%20D%C3%A9marches%20Administratives.md)**
 ### Documentation Technique
 
-- **[RAPPORT_JURISPRUDENCES.md](../📊%20Rapports/🗄️%20Archives/audit/RAPPORT_JURISPRUDENCES.md)** - Analyse des jurisprudences citées
+- **[RAPPORT_JURISPRUDENCES.md](../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/RAPPORT_JURISPRUDENCES.md)** - Analyse des jurisprudences citées
 - **[DESIGN](DESIGN.md)**
 - **[EVIDENCE_MATRIX](EVIDENCE_MATRIX.md)**
 - **[FINANCIAL_VARIABLES_DEPRECATED](FINANCIAL_VARIABLES_DEPRECATED.md)**

@@ -138,7 +138,7 @@ ACCIDENT 29/05/2026
 | N° | Action |
 |----|--------|
 | 1 | Vérifier la recevabilité de la requête 145 CPC |
-| 2 | [Constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) si pertinent |
+| 2 | [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) si pertinent |
 | 3 | Référé-provision (15 000 €) |
 | 4 | Expertise médicale judiciaire |
 | 5 | Instance au fond |

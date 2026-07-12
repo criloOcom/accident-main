@@ -22,7 +22,7 @@ type: rapport
 
 **Date :** 10 juillet 2026
 **Périmètre :** 33 courriers dans [⚖️ Actes/🔑 Token/✉️ Courriers](⚖️%20Actes/🔑%20Token/✉️%20Courriers/README.md) (03 à 35)
-**Référentiel :** [🧠 Memory/PIECES MAP.md](🧠%20Memory/PIECES%20MAP.md) + `⚖️ Actes/📂 Preuves officielles/` (physique)
+**Référentiel :** [🧠 Memory/PIECES MAP.md](../%F0%9F%A7%A0%20Memory/PIECES%20MAP.md) + `⚖️ Actes/📂 Preuves officielles/` (physique)
 
 ---
 

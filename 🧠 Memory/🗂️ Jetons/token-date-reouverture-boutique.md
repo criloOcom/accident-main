@@ -7,6 +7,17 @@
 | Champ | Valeur |
 |---|---|
 | **Token** | `**[DATE REOUVERTURE BOUTIQUE]**` |
+| **Type** | Token temporaire — date à définir |
+
+## Contexte
+
+Ce token est utilisé dans les courriers et assignations pour désigner la date hypothétique de réouverture de l'établissement après sa fermeture administrative. Pertinent pour le préjudice d'agrément et la perte de chiffre d'affaires.
+
+NB : L'établissement semble fermé depuis l'accident (Signalement Préfecture/CODAF J+37). La date de réouverture est inconnue.
+
+## Statut
+
+**Non renseigné** — valeur inconnue à ce stade. Mettre à jour si l'information est obtenue (enquête de police, constat huissier, ou déclaration du dirigeant).
 
 ## Source
 

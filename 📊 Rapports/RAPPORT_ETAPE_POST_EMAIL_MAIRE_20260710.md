@@ -52,7 +52,7 @@ type: rapport
 - **Documents mis à jour:**
   - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
   - [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️%20Actes/👤%20Reel/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
-  - [📊 Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md](📊%20Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md)
+  - [📊 Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md](RAPPORT_FINAL_INTEGRATION_20260710.md)
 
 #### Communication Administrative
 - **Email n°34 envoyé** à l'adjoint au maire de Foix (11/07/2026 8h00)

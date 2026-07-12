@@ -43,7 +43,7 @@ Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%9
 
 [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md), le [**[J+37 Assignation 145]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-37-assignation-145.md)
 
-Objet : Relance et demande d'etat d'avancement — Recours contre tiers n° **[N° [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
+Objet : Relance et demande d'etat d'avancement — Recours contre tiers n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
 
 <hr>
 
@@ -56,11 +56,11 @@ La presente est adressee a vos services par [**[La Victime]**](../../../%F0%9F%A
 <hr>
 
 ## I — OBJET DE LA RELANCE
-Un dossier de recours contre tiers a ete ouvert par vos services sous le numero **[N° [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** le [**[J+5 Ouverture CPAM]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-5-ouverture-cpam.md) a la suite de mon accident.
+Un dossier de recours contre tiers a ete ouvert par vos services sous le numero **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** le [**[J+5 Ouverture CPAM]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-5-ouverture-cpam.md) a la suite de mon accident.
 
 Je me permets de solliciter de vos services :
 
-**1. L'etat d'avancement du [dossier RCT](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° [N° [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** <br>
+**1. L'etat d'avancement du [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° [N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** <br>
 Je souhaiterais connaitre l'etat actuel de l'instruction de mon dossier et, le cas echeant, les prochaines etapes de la procedure.
 
 **2. L'identite de la gestionnaire en charge du dossier** <br>

@@ -7,7 +7,32 @@
 | Champ | Valeur |
 |---|---|
 | **Donnée réelle** | 09000 |
-| **Type** | Données localisantes / identifiantes |
+| **Type** | Donnée localisante / identifiante |
+| **Commune rattachée** | Foix (préfecture de l'Ariège, 09) — voir [La Ville de l'Accident](token-la-ville-de-l-accident.md) |
+| **Adresse complète** | 22 Rue Lafaurie, 09000 Foix — voir [L'Adresse de l'Exploitation](token-l-adresse-de-l-exploitation.md) |
+
+## Contexte
+
+Code postal du **lieu de l'accident** survenu le [29 mai 2026](token-j-0-accident.md) dans les locaux de [L'Exploitant du Commerce (La SAS)](token-l-exploitant-du-commerce-la-sas.md), 22 Rue Lafaurie.
+
+Ce code postal n'est pas une simple coordonnée : il **fixe la compétence territoriale** de toutes les juridictions saisies dans le dossier.
+
+## Enjeu procédural
+
+- **Compétence civile** : le Tribunal judiciaire de **Foix** (ressort du 09000) est compétent pour le référé-provision et la requête en constat (art. 42 et 46 CPC — lieu du fait dommageable).
+- **Compétence pénale** : le lieu de l'infraction (blessures involontaires) fonde la compétence du Parquet et du Doyen des juges d'instruction de Foix.
+- **Cohérence géographique** : à distinguer du code postal de résidence de la victime (31700 Blagnac) — voir [La Ville de Résidence de la Victime](token-la-ville-de-residence-de-la-victime.md).
+
+## Croisements
+
+- [Code Postal de l'Accident] ⇄ [La Ville de l'Accident](token-la-ville-de-l-accident.md) ⇄ [L'Adresse de l'Exploitation](token-l-adresse-de-l-exploitation.md)
+
+## Documents liés
+
+- [Assignation Référé-Provision (compétence territoriale TJ Foix)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B32%20%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md)
+- [Plainte Défaut Assurance RC (lieu de l'infraction)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B32%20%F0%9F%9A%94%20Plainte%20Defaut%20Assurance%20RC.md)
+- [Requête Article 145 CPC (désignation TJ Foix)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B47%20%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md)
+- [Constitution de Partie Civile (compétence Doyen des juges d'instruction)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
 
 ## Source
 

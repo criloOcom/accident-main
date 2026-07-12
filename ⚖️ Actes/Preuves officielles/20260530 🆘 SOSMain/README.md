@@ -22,7 +22,7 @@ type: directory
 
 ## 📄 Contenu
 
-- **[Compte Rendu Opératoire — Rapport d'Intervention Main Droite](20260530%20CR%20Opératoire%20RapportInterventionMainDroite.md)** — Document de type document
+- **[Compte Rendu Opératoire — Rapport d'Intervention Main Droite](20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Document de type document
 
 - **[20260530-1700 Ordonnance Sortie DrDJERBI](20260530-1700%20Ordonnance%20Sortie%20DrDJERBI.md)**
 ---

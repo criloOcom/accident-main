@@ -46,7 +46,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 ## 2. ARTICULATION AVEC LES AUTRES PROCÉDURES ET ASSURANCES
 - **Si la SAS n'a pas d'assurance RC** : Le FGTI intervient à titre subsidiaire. Compte tenu de la quasi-insolvabilité de la SAS (capital de 200 €), c'est la voie principale et la plus sécurisée pour obtenir l'indemnisation.
 - **Si la SAS possède une assurance RC** : La victime peut, et doit, privilégier l'action directe contre l'assureur (art. L.124-3 C. assur.), qui est généralement plus rapide qu'une procédure CIVI/FGTI si la garantie est acquise sans contestation. Toutefois, la saisine de la CIVI reste possible en parallèle. Le FGTI n'a pas vocation à se substituer à un assureur solvable, mais la CIVI peut accorder une provision si le processus amiable s'enlise.
-- **Voie pénale et civile** : La [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) a l'avantage de faire constater officiellement l'infraction (qui est le fait générateur de l'intervention du FGTI). Néanmoins, l'action civile devant la juridiction répressive (ou au civil) et la procédure CIVI sont autonomes. Il est possible, et même recommandé, de saisir la CIVI avant l'issue du procès pénal pour obtenir rapidement une provision, le jugement pénal n'étant pas un préalable obligatoire (la CIVI apprécie elle-même la matérialité de l'infraction).
+- **Voie pénale et civile** : La [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) a l'avantage de faire constater officiellement l'infraction (qui est le fait générateur de l'intervention du FGTI). Néanmoins, l'action civile devant la juridiction répressive (ou au civil) et la procédure CIVI sont autonomes. Il est possible, et même recommandé, de saisir la CIVI avant l'issue du procès pénal pour obtenir rapidement une provision, le jugement pénal n'étant pas un préalable obligatoire (la CIVI apprécie elle-même la matérialité de l'infraction).
 
 ## 3. PROCÉDURE DÉTAILLÉE DEVANT LA CIVI
 1. **Saisine** : Dépôt d'une requête devant la Commission d'Indemnisation des Victimes d'Infractions (CIVI) rattachée au Tribunal Judiciaire (TJ de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-metropole-regionale.md) ou de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md)).
@@ -67,7 +67,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 
 ## 6. PIÈCES NÉCESSAIRES POUR LA DEMANDE CIVI
 - Copie de la plainte et du procès-verbal de police (n°[N° PV Police]).
-- Certificats médicaux (dont le CMI constatant les blessures) et [arrêts de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant de l'ITT de 56 jours.
+- Certificats médicaux (dont le CMI constatant les blessures) et [arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant de l'ITT de 56 jours.
 - Comptes-rendus opératoires (notamment SOS Main).
 - Justificatifs des pertes de revenus (PGPA, déclarations URSSAF) et des frais divers engagés.
 - Éventuellement, décision d'indemnisation ou de refus d'indemnisation d'un organisme tiers.

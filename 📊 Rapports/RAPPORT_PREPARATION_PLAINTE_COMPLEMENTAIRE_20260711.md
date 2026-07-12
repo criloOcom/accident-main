@@ -511,12 +511,12 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 - [⚖️ Actes/🔑 Token/✉️ Courriers](⚖️%20Actes/🔑%20Token/✉️%20Courriers/README.md) (versions anonymisées)
 
 **📊 Rapports de référence :**
-- [📊 Rapports/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md](📊%20Rapports/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md)
-- [📊 Rapports/RAPPORT_AUDIT_RISQUES.md](📊%20Rapports/RAPPORT_AUDIT_RISQUES.md)
-- [📊 Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md](📊%20Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md)
+- [📊 Rapports/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md](RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md)
+- [📊 Rapports/RAPPORT_AUDIT_RISQUES.md](RAPPORT_AUDIT_RISQUES.md)
+- [📊 Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md](RAPPORT_FINAL_INTEGRATION_20260710.md)
 
 **📚 Documentation juridique :**
-- [📜 Lois/EXEMPLES_REQUETES_MCP.md](📜%20Lois/EXEMPLES_REQUETES_MCP.md)
+- [📜 Lois/EXEMPLES_REQUETES_MCP.md](../%F0%9F%93%9C%20Lois/EXEMPLES_REQUETES_MCP.md)
 - [⚖️ Actes/📎 Annexes](⚖️%20Actes/📎%20Annexes/README.md) (3 décisions jurisprudentielles)
 
 ---

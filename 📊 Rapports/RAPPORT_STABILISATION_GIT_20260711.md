@@ -88,7 +88,7 @@ git push origin main
 ├── 📒 Code general des collectivites territoriales/ (0 articles)
 ├── 📒 Code penal/               (4 articles)
 ├── 📊 Index/                    (index complet)
-└── 📜 Jurisprudence/            (24 arrêts Cour de cassation)
+└── 📜 Jurisprudence/README.md            (24 arrêts Cour de cassation)
 ```
 
 **Total** : 50 fichiers de loi + 24 jurisprudences = 74 documents juridiques

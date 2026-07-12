@@ -44,7 +44,7 @@ type: rapport
   - 📒 Code penal/README.md
   - 📒 Code procedure civile/README.md
   - 📒 Code procedure penale/README.md
-  - 📜 Jurisprudence/README.md
+  - 📜 Jurisprudence/README.mdREADME.md
   - pdfs/README.md
 
 ### 3. ✅ Réorganisation des articles de loi
@@ -86,7 +86,7 @@ type: rapport
 | Code des assurances | 2 | 📒 Code assurances/ ✨ |
 | Code de commerce | 5 | 📒 Code commerce/ |
 | Autres codes | 8 | 📒 Autres codes/ |
-| Jurisprudence | 24 | 📜 Jurisprudence/ |
+| Jurisprudence | 24 | 📜 Jurisprudence/README.md |
 
 **Total :** 56 fichiers de loi + 24 arrêts = 80 documents juridiques
 
@@ -121,7 +121,7 @@ type: rapport
 
 ```
 📜 Lois/
-├── 📜 Jurisprudence/          # 24 arrêts (README.md ✅)
+├── 📜 Jurisprudence/README.md          # 24 arrêts (README.md ✅)
 ├── 📒 Code civil/             # 5 articles (README.md ✅)
 ├── 📒 Code penal/             # 6 articles (README.md ✅)
 ├── 📒 Code procedure civile/  # 4 articles (README.md ✅)

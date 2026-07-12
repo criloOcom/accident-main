@@ -44,7 +44,7 @@ Réorganiser le dossier 📜 Lois/ pour une meilleure navigation et maintenance 
 ├── 📒 Code assurances/          (2 articles)
 ├── 📒 Autres codes/                 (2 articles)
 ├── 📒 Code general des collectivites territoriales/ (vide - à compléter)
-├── 📜 Jurisprudence/                (24 arrêts)
+├── 📜 Jurisprudence/README.md                (24 arrêts)
 ├── 📊 Index/                        (index complet)
 ├── pdfs/                           (documents originaux)
 └── README.md                       (documentation principale)
@@ -92,7 +92,7 @@ Réorganiser le dossier 📜 Lois/ pour une meilleure navigation et maintenance 
 - Article_L421-3_Codeconsommation_Legifrance.md
 - Article_R143-2_Codeconstructionhabitation_Legifrance.md
 
-#### 📜 Jurisprudence/ (23 arrêts)
+#### 📜 Jurisprudence/README.md (23 arrêts)
 23 arrêts de la Cour de cassation (fichiers nommés selon le format : N°pourvoi_CourCassation.md)
 
 ## 📊 Statistiques
@@ -113,8 +113,8 @@ Réorganiser le dossier 📜 Lois/ pour une meilleure navigation et maintenance 
 ### 2. Création de la documentation
 - ✅ [README.md principal](README.md) - Vue d'ensemble complète
 - ✅ README.md pour chaque sous-dossier de code
-- ✅ [📊 Index/README.md](📊%20Index/README.md) - Index complet et organisé
-- ✅ [📜 Jurisprudence/README.md](📜%20Jurisprudence/README.md) - Liste détaillée des arrêts
+- ✅ [📊 Index/README.md](%F0%9F%93%8A%20Index/README.md) - Index complet et organisé
+- ✅ [📜 Jurisprudence/README.mdREADME.md](%F0%9F%93%9C%20Jurisprudence/README.md) - Liste détaillée des arrêts
 
 ### 3. Standardisation
 - ✅ Format de nommage cohérent : `Article_XXX-YY_CodeNom_Legifrance.md`

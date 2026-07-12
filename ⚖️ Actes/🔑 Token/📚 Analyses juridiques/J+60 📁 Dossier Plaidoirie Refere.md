@@ -55,7 +55,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/12 📁 Dossier Plaidoirie.m
 **PIÈCES CLÉS DU DOSSIER :**
 - **Pièce ACQ-10 :** Procès-verbal de constat de police confirmant les circonstances matérielles ([**[J+4 Dépôt de plainte]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-4-depot-de-plainte.md))
 - **Pièce ACQ-09 :** Dépôt de plainte officiel formalisant l'infraction pénale ([**[J+3 Premiers arrêts]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-3-premiers-arrets.md))
-- **Pièce ACQ-04 :** [Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) attestant de la section tendineuse et nerveuse ([**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-1-chirurgie.md))
+- **Pièce ACQ-04 :** [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) attestant de la section tendineuse et nerveuse ([**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-1-chirurgie.md))
 - **Pièce ACQ-17 :** Mises en demeure par Lettres Recommandées avec Accusé de Réception ([**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-31-mises-en-demeure.md))
 
 <hr><hr>
@@ -114,7 +114,7 @@ L'argumentation développée s'appuie sur une jurisprudence constante :
 Monsieur le Juge, je vous renvoie aux pièces listées dans notre bordereau, et tout particulièrement à :
 - **Pièce ACQ-10** (PV de Police) établissant sans ambiguïté les constations factuelles de l'événement.
   
-- **Pièce ACQ-04** ([Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)) de [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md) pour mesurer la gravité médicale de l'atteinte tendineuse et nerveuse.
+- **Pièce ACQ-04** ([Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)) de [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md) pour mesurer la gravité médicale de l'atteinte tendineuse et nerveuse.
   
 - **Pièce ACQ-17** (AR des mises en demeure) prouvant notre démarche de conciliation restée lettre morte de la part des défendeurs.
   

@@ -22,7 +22,7 @@ statut: projet
 # PLAN DE CORRECTION HERMÈS — Audit 2026-07-11
 
 **Mode** : read-only (ce document est un plan ; aucune modification du dépôt n'est effectuée).
-**Référence** : [📊 Rapports/RAPPORT_AUDIT_HERMES_20260711.md](📊%20Rapports/RAPPORT_AUDIT_HERMES_20260711.md)
+**Référence** : [📊 Rapports/RAPPORT_AUDIT_HERMES_20260711.md](RAPPORT_AUDIT_HERMES_20260711.md)
 **Dépôt** : `/home/crilocom/accident-main/`
 
 > Chaque action ci-dessous est exécutable de façon déterministe. Les actions **[SCRIPT]** sont automatisables via un script Python (approved par l'utilisateur au cas par cas). Les actions **[MANUEL]** nécessitent une décision humaine ou une vérification (RGPD, statuts juridiques).
@@ -43,13 +43,13 @@ statut: projet
 - **Correction** : `token/` → `🔑 Token/`, `reel/` → `👤 Reel/` dans les liens (9 occ.).
 - **Note** : vérifier aussi `📂 Preuves officielles/` existe bien sous `🔑 Token/`.
 
-### P0-3 — Liens jurisprudence : sous-dossier `📜 Jurisprudence/` manquant  [SCRIPT]
+### P0-3 — Liens jurisprudence : sous-dossier `📜 Jurisprudence/README.md` manquant  [SCRIPT]
 - **Cibles** :
   - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/13 📜 Responsabilites legales.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/13%20📜%20Responsabilites%20legales.md) (L92-98, 4 liens `../../../📜 Lois/X.md`)
   - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/14%20Stratégie%20jurisprudentielle.md) (L30-37, ~11 liens `../../📜 Lois/X.md`)
   - (et les 2 versions `👤 Reel/` correspondantes → total ~30 liens)
-- **Correction** : insérer `📜 Jurisprudence/` → `../../../📜 Lois/📜 Jurisprudence/X.md` (token) / `../../📜 Lois/📜 Jurisprudence/X.md` (reel).
-- **Vérifier** cible existe : [📜 Lois/📜 Jurisprudence/89-18.422_CourCassation.md](📜%20Lois/📜%20Jurisprudence/89-18.422_CourCassation.md) ✅ présent.
+- **Correction** : insérer `📜 Jurisprudence/README.md` → `../../../📜 Lois/📜 Jurisprudence/README.mdX.md` (token) / `../../📜 Lois/📜 Jurisprudence/README.mdX.md` (reel).
+- **Vérifier** cible existe : [📜 Lois/📜 Jurisprudence/README.md89-18.422_CourCassation.md](../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md) ✅ présent.
 
 ### P0-4 — `01 ⚖️ Assignation.md` : chemins d'annexe  [SCRIPT]
 - **Cibles** : `⚖️ Actes/{🔑 Token,👤 Reel}/⚖️ Actes proceduraux/01 ⚖️ Assignation.md` (L106-126, 347-349)
@@ -99,7 +99,7 @@ statut: projet
 - **Recommandation** : voie (a) — moins destructif, reflète la réalité du dossier.
 
 ### P1-3 — `🔙` et « Retour à l'accueil »  [SCRIPT]
-- **Cibles** : 20 README de sous-dossiers (`⚖️ Actes/Preuves officielles/{date}*/README.md` L7 : `🔙 [📁 ...](../README.md)`) + [📊 Rapports/RAPPORT_NAVIGATION_INTERACTIVE_20260711.md](📊%20Rapports/RAPPORT_NAVIGATION_INTERACTIVE_20260711.md) L78 (`Retour à l'accueil`).
+- **Cibles** : 20 README de sous-dossiers (`⚖️ Actes/Preuves officielles/{date}*/README.md` L7 : `🔙 [📁 ...](../README.md)`) + [📊 Rapports/RAPPORT_NAVIGATION_INTERACTIVE_20260711.md](RAPPORT_NAVIGATION_INTERACTIVE_20260711.md) L78 (`Retour à l'accueil`).
 - **Correction** : supprimer les lignes contenant `🔙` et `Retour à l'accueil` (le fil d'Ariane suffit).
 
 ### P1-4 — `README_OLD.md` interdit  [MANUEL]

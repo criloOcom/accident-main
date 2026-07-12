@@ -33,13 +33,13 @@ type: memory
 ### 1. LIS les fichiers de mémoire
 
 - [ ] `/home/crilocom/accident-main/` est le SEUL répertoire — vérifie que tu y es
-- [ ] [🧠 Memory/VACCIN.md](🧠%20Memory/VACCIN.md) ← ce fichier
+- [ ] [🧠 Memory/VACCIN.md](VACCIN.md) ← ce fichier
 - [ ] `AGENTS.md` — règles du projet, structure, workflow
-- [ ] [🧠 Memory/STATUS.md](🧠%20Memory/STATUS.md) — état d'avancement global
-- [ ] [🧠 Memory/TODO.md](🧠%20Memory/TODO.md) — plans restants et priorités
-- [ ] [🧠 Memory/DECISIONS.md](🧠%20Memory/DECISIONS.md) — décisions d'architecture et règles
-- [ ] [🧠 Memory/RULES.md](🧠%20Memory/RULES.md) — règles permanentes, interdictions
-- [ ] [🧠 Memory/STRICT VARIABLES.md](🧠%20Memory/STRICT%20VARIABLES.md) — source unique de vérité (montants, dates)
+- [ ] [🧠 Memory/STATUS.md](STATUS.md) — état d'avancement global
+- [ ] [🧠 Memory/TODO.md](TODO.md) — plans restants et priorités
+- [ ] [🧠 Memory/DECISIONS.md](DECISIONS.md) — décisions d'architecture et règles
+- [ ] [🧠 Memory/RULES.md](RULES.md) — règles permanentes, interdictions
+- [ ] [🧠 Memory/STRICT VARIABLES.md](STRICT%20VARIABLES.md) — source unique de vérité (montants, dates)
 
 ### 2. ANALYSE ce qui existe déjà
 

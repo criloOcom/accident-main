@@ -7,6 +7,15 @@
 | Champ | Valeur |
 |---|---|
 | **Token** | `**[DATE RELANCE V2]**` |
+| **Type** | Token temporaire — date à définir |
+
+## Contexte
+
+Ce token est utilisé dans les courriers de relance (notamment relance Mairie/Préfecture après délai CADA). La date exacte dépend de la réception des AR et de l'expiration des délais de réponse (2 mois pour CADA).
+
+## Statut
+
+**Non renseigné** — date à fixer manuellement par l'utilisateur en fonction de l'avancement des démarches administratives.
 
 ## Source
 

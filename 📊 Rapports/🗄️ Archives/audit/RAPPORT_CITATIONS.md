@@ -1,6 +1,6 @@
 ---
 title: "RAPPORT D'AUDIT ET VÉRIFICATION DES CITATIONS JURIDIQUES"
-description: "Ce rapport présente l'analyse critique de l'ensemble des citations de jurisprudence et de textes de loi figurant dans les documents du dossier d'accident corporel de la main, situés dans [/home/crilocom/accident-main/⚖️ Actes/🔑 Token](/home/crilocom/accident-main/⚖️%20Actes/🔑%20Token/README.md)."
+description: "Ce rapport présente l'analyse critique de l'ensemble des citations de jurisprudence et de textes de loi figurant dans les documents du dossier d'accident corporel de la main, situés dans [/home/crilocom/accident-main/⚖️ Actes/🔑 Token](/home/crilocom/accident-main/%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)."
 type: rapport
 ---
 
@@ -20,7 +20,7 @@ type: rapport
 
 # RAPPORT D'AUDIT ET VÉRIFICATION DES CITATIONS JURIDIQUES
 
-Ce rapport présente l'analyse critique de l'ensemble des citations de jurisprudence et de textes de loi figurant dans les documents du dossier d'accident corporel de la main, situés dans [/home/crilocom/accident-main/⚖️ Actes/🔑 Token](/home/crilocom/accident-main/⚖️%20Actes/🔑%20Token/README.md).
+Ce rapport présente l'analyse critique de l'ensemble des citations de jurisprudence et de textes de loi figurant dans les documents du dossier d'accident corporel de la main, situés dans [/home/crilocom/accident-main/⚖️ Actes/🔑 Token](/home/crilocom/accident-main/%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md).
 
 ---
 

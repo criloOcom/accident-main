@@ -14,10 +14,10 @@ type: readme
 
 ## Sous-dossiers
 
-- [📒 Code civil](📒%20Code%20civil/README.md) — 5 articles
-- [📒 Code penal](📒%20Code%20penal/README.md) — 4 articles
-- [📒 Code procedure civile](📒%20Code%20procedure%20civile/README.md) — 4 articles
-- [📒 Code procedure penale](📒%20Code%20procedure%20penale/README.md) — 2 articles
-- [📒 Code assurances](📒%20Code%20assurances/README.md) — 2 articles
-- [📒 Code commerce](📒%20Code%20commerce/README.md) — 6 articles
-- [📒 Autres codes](📒%20Autres%20codes/README.md) — CGCT, C. travail, CCH, etc. (7 articles)
+- [📒 Code civil](%F0%9F%93%92%20Code%20civil/README.md) — 5 articles
+- [📒 Code penal](%F0%9F%93%92%20Code%20penal/README.md) — 4 articles
+- [📒 Code procedure civile](%F0%9F%93%92%20Code%20procedure%20civile/README.md) — 4 articles
+- [📒 Code procedure penale](%F0%9F%93%92%20Code%20procedure%20penale/README.md) — 2 articles
+- [📒 Code assurances](%F0%9F%93%92%20Code%20assurances/README.md) — 2 articles
+- [📒 Code commerce](%F0%9F%93%92%20Code%20commerce/README.md) — 6 articles
+- [📒 Autres codes](%F0%9F%93%92%20Autres%20codes/README.md) — CGCT, C. travail, CCH, etc. (7 articles)

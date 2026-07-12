@@ -76,7 +76,7 @@ L'arret de travail total (ITT) initialement prescrit par **[Le Medecin Generalis
 
 La sensibilite de l'index droit reste partiellement alteree, la flexion active est limitee, et la douleur neuropathique persiste.
 
-Dans le cadre de la procedure judiciaire en cours (recours contre tiers aupres de la CPAM, dossier n° **[N° [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**), l'evaluation definitive des postes de prejudice — notamment le Defficit Fonctionnel Permanent (DFP), l'Incidence Professionnelle (IP) et les Souffrances Endurees (SE) — necessite la fixation prealable d'une **date de consolidation** par certificat medical.
+Dans le cadre de la procedure judiciaire en cours (recours contre tiers aupres de la CPAM, dossier n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**), l'evaluation definitive des postes de prejudice — notamment le Defficit Fonctionnel Permanent (DFP), l'Incidence Professionnelle (IP) et les Souffrances Endurees (SE) — necessite la fixation prealable d'une **date de consolidation** par certificat medical.
 
 Je sollicite donc votre bienveillance afin de :
 

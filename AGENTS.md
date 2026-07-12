@@ -83,10 +83,10 @@ Le projet dispose d'un notebook **Google NotebookLM** dédié (`accident-main`) 
 
 ## Règles essentielles
 
-0. 🔴 **Lire [🧠 Memory/VACCIN.md](🧠%20Memory/VACCIN.md) AVANT toute action** — protocole de vaccination
+0. 🔴 **Lire [🧠 Memory/VACCIN.md](%F0%9F%A7%A0%20Memory/VACCIN.md) AVANT toute action** — protocole de vaccination
    obligatoire. Ne pas le lire constitue une faute professionnelle.
-1. **Toute mémoire persistante** doit être dans [/home/crilocom/accident-main/🧠 Memory](/home/crilocom/accident-main/🧠%20Memory/README.md) — **PAS** dans un dossier privé d'agent
-2. **Toute modification** de document Google Docs doit suivre le workflow décrit dans [🧠 Memory/WORKFLOW.md](🧠%20Memory/WORKFLOW.md)
+1. **Toute mémoire persistante** doit être dans [/home/crilocom/accident-main/🧠 Memory](/home/crilocom/accident-main/%F0%9F%A7%A0%20Memory/README.md) — **PAS** dans un dossier privé d'agent
+2. **Toute modification** de document Google Docs doit suivre le workflow décrit dans [🧠 Memory/WORKFLOW.md](%F0%9F%A7%A0%20Memory/WORKFLOW.md)
 3. **Les tokens d'anonymisation** sont définis dans `.dev/app/batch_anonymize.py` — toute modification des tokens doit être faite dans les DEUX endroits (script + TOKEN MAP.md)
 4. **Compétences MCP** disponibles :
    - `notebooklm` (MCP serveur) — interroger NotebookLM sur les sources du projet
@@ -96,18 +96,18 @@ Le projet dispose d'un notebook **Google NotebookLM** dédié (`accident-main`) 
    - `document-anonymization` (skill) — règles d'anonymisation
 5. **Interdiction absolue** d'utiliser du markdown brut, regex, ou find/replace direct sur les Google Docs — toujours passer par le workflow local puis `replaceDocumentWithMarkdown`
 6. **Google Sheets — RÈGLE ABSOLUE** : ne JAMAIS supposer la structure des colonnes. Avant d'écrire dans une feuille, **lis la ligne d'en-tête** et **3 lignes de données** pour valider le mapping exact. Supposer = cracher à la gueule de l'utilisateur.
-7. **Double strate 🔑 Token/👤 Reel** : les fichiers dans [⚖️ Actes/🔑 Token](⚖️%20Actes/🔑%20Token/README.md) (dossiers 📂 Preuves officielles, ⚖️ Actes proceduraux, ✉️ Courriers, 📚 Analyses juridiques, 💰 Etudes indemnisation, 🗂️ Organisation, 🗄️ Archives) DOIVENT toujours rester tokenisés (identités anonymisées). Les versions réelles (noms, adresses, email réels) sont générées dans [⚖️ Actes/👤 Reel](⚖️%20Actes/👤%20Reel/README.md) via `.dev/app/generate_real_versions.py` — ne JAMAIS écrire de version réelle dans [⚖️ Actes/🔑 Token](⚖️%20Actes/🔑%20Token/README.md).
+7. **Double strate 🔑 Token/👤 Reel** : les fichiers dans [⚖️ Actes/🔑 Token](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (dossiers 📂 Preuves officielles, ⚖️ Actes proceduraux, ✉️ Courriers, 📚 Analyses juridiques, 💰 Etudes indemnisation, 🗂️ Organisation, 🗄️ Archives) DOIVENT toujours rester tokenisés (identités anonymisées). Les versions réelles (noms, adresses, email réels) sont générées dans [⚖️ Actes/👤 Reel](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/README.md) via `.dev/app/generate_real_versions.py` — ne JAMAIS écrire de version réelle dans [⚖️ Actes/🔑 Token](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md).
 8. **GitHub Token** : stocké dans Google Secret Manager (`projects/crilo-prod-automation/secrets/GITHUB_TOKEN`). En local, il est aussi dans `~/.git-credentials` (solution de repli). Tout agent DOIT lire depuis Secret Manager, pas depuis une variable d'environnement ou un fichier `.dev/.env`.
 9. **README.md** : doit être maintenu à jour après chaque modification de la structure du projet. C'est une consigne absolue — toute création/déplacement/suppression de dossier ou fichier notable doit être répercuté dans README.md.
 10. **RÉPERTOIRE SOUVERAIN ABSOLU** : `/home/crilocom/accident-main/` est le SEUL et UNIQUE répertoire de travail local. Aucun agent ne doit créer, cloner, ou travailler dans un autre répertoire (notamment `/tmp/opencode/`, `/tmp/`, ou tout autre chemin). Toute action locale (lecture, écriture, git, scripts) se fait DEPUIS CE DOSSIER. Aucune exception.
-11. **VÉRIFICATION JURITEXT OBLIGATOIRE** : Lire [🧠 Memory/JURITEXT_PROTOCOL.md](🧠%20Memory/JURITEXT_PROTOCOL.md) avant toute insertion/modification de JURITEXT. Vérification en 2 étapes (Légifrance-prod PUIS OpenLegi) SANS EXCEPTION. Ne JAMAIS deviner un JURITEXT — si introuvable, marquer "À VÉRIFIER" et signaler. Ne JAMAIS se fier à une coche "✓" dans un fichier. Propagation : si une JURITEXT est fausse, chercher et corriger TOUTES les occurrences.
-12. **CLÔTURE DES SESSIONS JULES** : Toute session Jules (qu'elle soit terminée, bloquée, ou en échec) DOIT recevoir un message de clôture explicite avant d'être abandonnée. L'API REST Jules n'a pas de delete/archive — le message de clôture est le seul mécanisme pour libérer l'agent. Google archive automatiquement les sessions clôturées. Voir `🧠 Memory/RULES.md #12` et [🧠 Memory/DECISIONS.md](🧠%20Memory/DECISIONS.md).
+11. **VÉRIFICATION JURITEXT OBLIGATOIRE** : Lire [🧠 Memory/JURITEXT_PROTOCOL.md](%F0%9F%A7%A0%20Memory/JURITEXT_PROTOCOL.md) avant toute insertion/modification de JURITEXT. Vérification en 2 étapes (Légifrance-prod PUIS OpenLegi) SANS EXCEPTION. Ne JAMAIS deviner un JURITEXT — si introuvable, marquer "À VÉRIFIER" et signaler. Ne JAMAIS se fier à une coche "✓" dans un fichier. Propagation : si une JURITEXT est fausse, chercher et corriger TOUTES les occurrences.
+12. **CLÔTURE DES SESSIONS JULES** : Toute session Jules (qu'elle soit terminée, bloquée, ou en échec) DOIT recevoir un message de clôture explicite avant d'être abandonnée. L'API REST Jules n'a pas de delete/archive — le message de clôture est le seul mécanisme pour libérer l'agent. Google archive automatiquement les sessions clôturées. Voir `🧠 Memory/RULES.md #12` et [🧠 Memory/DECISIONS.md](%F0%9F%A7%A0%20Memory/DECISIONS.md).
 13. **PROPRETÉ DU PROJET** :
     - **Fils d'Ariane** : commentaire HTML placé APRÈS le bloc YAML (ligne 1 = `---`). Le YAML doit rester en première ligne pour la prévisualisation GitHub. Script `.dev/app/generate_breadcrumbs.py`. Pas de "Accueil", pas de doublons.
     - **Scripts** : tout `.py` dans `.dev/app/`, jamais à la racine.
-    - **Rapports** : tout `.md` de rapport dans [📊 Rapports](📊%20Rapports/README.md), jamais à la racine.
+    - **Rapports** : tout `.md` de rapport dans [📊 Rapports](%F0%9F%93%8A%20Rapports/README.md), jamais à la racine.
     - **Caches** : supprimer `__pycache__` et `.pytest_cache` après exécution de scripts.
-    - **PRs** : fermer sans merge les PRs déjà intégrées dans `main`. Supprimer les branches. Voir `🧠 Memory/RULES.md #14` et [🧠 Memory/DECISIONS.md](🧠%20Memory/DECISIONS.md).
+    - **PRs** : fermer sans merge les PRs déjà intégrées dans `main`. Supprimer les branches. Voir `🧠 Memory/RULES.md #14` et [🧠 Memory/DECISIONS.md](%F0%9F%A7%A0%20Memory/DECISIONS.md).
 
 ## Workflow création d'un document
 
@@ -124,7 +124,7 @@ Le projet dispose d'un notebook **Google NotebookLM** dédié (`accident-main`) 
 
 ## Workflow maintien du dossier
 
-1. Avant toute action : lire [🧠 Memory/VACCIN.md](🧠%20Memory/VACCIN.md) + `AGENTS.md` + [🧠 Memory/STATUS.md](🧠%20Memory/STATUS.md)
+1. Avant toute action : lire [🧠 Memory/VACCIN.md](%F0%9F%A7%A0%20Memory/VACCIN.md) + `AGENTS.md` + [🧠 Memory/STATUS.md](%F0%9F%A7%A0%20Memory/STATUS.md)
 2. Après toute modification de structure : **mettre à jour README.md**
 3. Après toute création de document tokenisé : **générer version réelle** si nécessaire
 4. Token GitHub indisponible ? Vérifier dans Secret Manager avant d'utiliser le fallback `~/.git-credentials`

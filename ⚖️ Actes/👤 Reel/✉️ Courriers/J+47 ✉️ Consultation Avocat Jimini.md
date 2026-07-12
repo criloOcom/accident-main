@@ -39,7 +39,7 @@ Le **29 mai 2026**, je suis victime d'un accident dans un salon de coiffure « L
 
 La SAS exploitante a un capital de **200 €**, **0 salarié déclaré**, et tous mes courriers recommandés à cette adresse reviennent NPAI, alors même que le salon a rouvert. Malgré mes demandes écrites, je n'ai obtenu aucune communication du nom de son assureur responsabilité civile, ce qui bloque toute démarche d'indemnisation.
 
-Un **procès-verbal de police** a été établi le 2 juin 2026 ([PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md), Commissariat de Toulouse).
+Un **procès-verbal de police** a été établi le 2 juin 2026 ([PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md), Commissariat de Toulouse).
 
 ## Démarches déjà faites
 

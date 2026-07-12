@@ -1,6 +1,6 @@
 ---
 title: "TODO — Plans d'action + Tableau de bord Sébastien"
-description: "- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → [📊 Rapports/RAPPORT_AUDIT_RISQUES.md](📊%20Rapports/RAPPORT_AUDIT_RISQUES.md)"
+description: "- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → [📊 Rapports/RAPPORT_AUDIT_RISQUES.md](../%F0%9F%93%8A%20Rapports/RAPPORT_AUDIT_RISQUES.md)"
 type: memory
 ---
 
@@ -26,7 +26,7 @@ type: memory
 > Légifrance (`consulter_article` ou `rechercher_code`) pour vérifier le contexte
 > avant intégration.
 >
-> **Nouveau :** Voir [📜 Lois/EXEMPLES_REQUETES_MCP.md](📜%20Lois/EXEMPLES_REQUETES_MCP.md) pour des exemples
+> **Nouveau :** Voir [📜 Lois/EXEMPLES_REQUETES_MCP.md](../%F0%9F%93%9C%20Lois/EXEMPLES_REQUETES_MCP.md) pour des exemples
 > concrets et testés d'utilisation des MCP Légifrance et Judilibre.
 
 ---
@@ -142,7 +142,7 @@ ni contacter des personnes à ta place.
 - [ ] Relancer impôts / SIE (pas de réponse ?)
 - [ ] Relancer URSSAF (pas de réponse ?)
 - [ ] Vérifier retour AR de la mise en demeure SAS
-- [ ] **Consulter le Dossier Spécial CERFA** ([05 📋 Dossier Special CERFA.md](../⚖️%20Actes/🔑%20Token/🗂️%20Organisation/05%20📋%20Dossier%20Special%20CERFA.md)) pour l'organisation des démarches administratives officieuses.
+- [ ] **Consulter le Dossier Spécial CERFA** ([05 📋 Dossier Special CERFA.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/J%2B40%20%F0%9F%93%8B%20Dossier%20Special%20CERFA.md)) pour l'organisation des démarches administratives officieuses.
 
 ### Processus général (vision d'ensemble)
 
@@ -230,7 +230,7 @@ PHASE 5 — INSTANCE AU FOND (2027)
 
 ---
 
-### PLAN F — RESTRUCTURATION [⚖️ Actes](⚖️%20Actes/README.md) ✅ TERMINÉ
+### PLAN F — RESTRUCTURATION [⚖️ Actes](../%E2%9A%96%EF%B8%8F%20Actes/README.md) ✅ TERMINÉ
 
 - Nouvelle arborescence `{00-06}` + token/reel
 - Scripts mis à jour

@@ -42,7 +42,7 @@ source: drive
 | [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-1-chirurgie.md) | EVT-04 | Intervention chirurgicale microchirurgie | Médical | Fait |
 | [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-1-chirurgie.md) | EVT-05 | Consultation Spécifique Anesthésie (U03) | Médical | Fait |
 | [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-1-chirurgie.md) | EVT-20 | Frais de séjour et soins (GHS) | Médical | Payé |
-| [**[J+3 Premiers arrêts]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-3-premiers-arrets.md) | EVT-06 | [Arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) initial (ITT) | Médical | Fait |
+| [**[J+3 Premiers arrêts]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-3-premiers-arrets.md) | EVT-06 | [Arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) initial (ITT) | Médical | Fait |
 | [**[J+3 Premiers arrêts]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-3-premiers-arrets.md) | EVT-07 | Signalement administratif | Procédure | Fait |
 | [**[J+3 Premiers arrêts]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-3-premiers-arrets.md) | EVT-44 | Signalement d'accident grave et Dossier de Plainte Pénale | Médical |  |
 | [**[J+4 Dépôt de plainte]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-4-depot-de-plainte.md) | EVT-09 | Réquisition Judiciaire médicale | Procédure | Fait |
@@ -53,13 +53,13 @@ source: drive
 | [**[J+4 Dépôt de plainte]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-4-depot-de-plainte.md) 10:00 | EVT-08 | Dépôt de plainte pénale | Procédure | En cours |
 | [**[J+5 Ouverture CPAM]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-5-ouverture-cpam.md) | EVT-11 | Ouverture dossier Recours contre Tiers | Procédure | Validé |
 | [**[J+5 Ouverture CPAM]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-5-ouverture-cpam.md) | COR-08 | Déclaration d'accident | Correspondance | Terminé |
-| [**[J+5 Ouverture CPAM]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-5-ouverture-cpam.md) | COR-09 | Envoi de l'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) | Correspondance | À faire (Urgent) |
+| [**[J+5 Ouverture CPAM]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-5-ouverture-cpam.md) | COR-09 | Envoi de l'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) | Correspondance | À faire (Urgent) |
 | 05/06/2026 | COR-10 | Déclaration de sinistre corporel | Correspondance | À faire |
 | 05/06/2026 | EVT-24 | Dépôt légal officiel du recommandé | Médical | Fait |
 | 05/06/2026 | COR-11 | Envoi recommandé (LRAR) | Correspondance | Expédié |
-| 05/06/2026 | EVT-46 | Preuve de dépôt LRAR (Avis d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)) | Correspondance |  |
+| 05/06/2026 | EVT-46 | Preuve de dépôt LRAR (Avis d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)) | Correspondance |  |
 | [**[J+12 Facture]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-12-facture.md) | EVT-21 | Relevé de prestations | Médical | Fait |
-| 12/06/2026 | EVT-12 | Prolongation [Arrêt de Travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) | Médical | Fait |
+| 12/06/2026 | EVT-12 | Prolongation [Arrêt de Travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) | Médical | Fait |
 | 12/06/2026 | EVT-25 | Consultation de contrôle | Médical | À faire |
 | [**[J+18 Incohérence CPAM]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-18-incoherence-cpam.md) | COR-12 | Demande de renseignements (Recours contre Tiers) | Correspondance |  |
 | 18/06/2026 | COR-13 | Note de cadrage médico-légale et transmission de pièces | Correspondance |  |
@@ -71,7 +71,7 @@ source: drive
 | 24/06/2026 | EVT-14 | Transmission de pièces CPAM | Correspondance | Fait |
 | 24/06/2026 | EVT-30 | Démarche administrative / Email | Procédure | Envoyé |
 | [**[J+27 Confirmation kiné]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-27-confirmation-kine.md) | EVT-48 | Confirmation de rendez-vous Kinésithérapie | Médical |  |
-| [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-31-mises-en-demeure.md) | COR-01 | Envoi [Mise en demeure SAS](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md) | Correspondance | Distribué |
+| [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-31-mises-en-demeure.md) | COR-01 | Envoi [Mise en demeure SAS](../%E2%9C%89%EF%B8%8F%20Courriers/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md) | Correspondance | Distribué |
 | [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-31-mises-en-demeure.md) | COR-02 | Envoi Mise en demeure Président [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) | Correspondance | Distribué |
 | [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-31-mises-en-demeure.md) | COR-03 | Envoi Mise en demeure DG [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) | Correspondance | Distribué |
 | [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-31-mises-en-demeure.md) | COR-04 | Envoi Mise en demeure Bailleur | Correspondance | Distribué |
@@ -82,7 +82,7 @@ source: drive
 | Non précisé | EVT-28 | Soins et remboursements (Généralités) | Procédure | À convoquer en cas d'audience (déclaration de jugement commun) |
 | Non précisé | EVT-36 | Analyse de sinistre corporel | Médical | En cours / Litige |
 | Non précisé | EVT-37 | Expertise médicale / Indemnisation | Médical | À réaliser / Barème |
-| Non précisé | EVT-38 | Consultation et prescription d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) | Médical | Terminé |
+| Non précisé | EVT-38 | Consultation et prescription d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) | Médical | Terminé |
 | Non précisé | EVT-39 | Évaluation des Pertes de Gains Professionnels Actuels (PGPA) | Médical | Chiffrage estimatif |
 | Non précisé | EVT-40 | Évaluation des Souffrances Endurées | Médical | Chiffrage estimatif |
 | Non précisé | EVT-41 | Dépenses de Santé Futures (DSF) | Médical | Chiffrage prospectif |

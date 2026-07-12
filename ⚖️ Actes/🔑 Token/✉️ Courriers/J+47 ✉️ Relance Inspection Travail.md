@@ -61,4 +61,4 @@ Veuillez agréer, Madame, Monsieur, l'expression de ma considération distingué
 ### Pièces jointes suggérées
 - Copie du courriel de M. Tavella (1er juin 2026)
 - PV initial n°2026/015967
-- [Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) / certificat médical
+- [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) / certificat médical

@@ -33,7 +33,7 @@ type: memory
 ## Après injection (application de la charte DESIGN.md) :
 - **NE PAS** inclure l'ANNEXE 1 (tableau des acteurs) dans les copies UNIFIE_ANONYME — elle contient la correspondance jeton ↔ identité réelle
 - Les tables de correspondance sont conservées dans TOKEN MAP.md (hors du Drive)
-- **Appliquer la charte graphique** définie dans [🧠 Memory/DESIGN.md](🧠%20Memory/DESIGN.md) :
+- **Appliquer la charte graphique** définie dans [🧠 Memory/DESIGN.md](DESIGN.md) :
   1. `applyParagraphStyle` → JUSTIFIED sur tout le document
   2. `applyTextStyle` → liens Légifrance/Judilibre sur les refs légales
   3. `applyTextStyle` → bold sur les tokens `**[La Victime]**`, `**[L'Exploitant]**`, etc.
@@ -52,7 +52,7 @@ type: memory
   1. `cd /home/crilocom/accident-main && python3 app/check_consistency.py`
   2. Le script signale les liens morts, tokens inconnus, LEGIARTI invalides, dates incohérentes
   3. Corriger les erreurs signalées avant de commit
-  4. Vérifier que [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Civil.md](⚖️%20Actes/🔑%20Token/🗄️%20Archives/🧠%20STRATEGIE%20Contentieux%20Civil.md) et [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md](⚖️%20Actes/🔑%20Token/🗄️%20Archives/🧠%20STRATEGIE%20Contentieux%20Penal.md) listent bien le nouvel acte
+  4. Vérifier que [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Civil.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Civil.md) et [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md) listent bien le nouvel acte
 
 ## Gestion des sessions Jules — CYCLE DE VIE
 - Une session Jules est créée avec `jules_create_session` pour exécuter une tâche de code.

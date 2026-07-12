@@ -80,7 +80,7 @@ Le vendredi 29 mai 2026 à 15h00, j'ai été victime d'un accident corporel grav
 
 Je mets en œuvre l'action directe contre l'assureur de responsabilité civile de l'exploitant commercial.
 
-N'ayant pu, en raison de mon [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et de mon incapacité à utiliser ma main droite dominante, effectuer plus tôt les démarches nécessaires, je sollicite aujourd'hui votre aide afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de SAS LES MAUVAIS GARCONS.
+N'ayant pu, en raison de mon [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et de mon incapacité à utiliser ma main droite dominante, effectuer plus tôt les démarches nécessaires, je sollicite aujourd'hui votre aide afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de SAS LES MAUVAIS GARCONS.
 
 En tant que propriétaire bailleur, vous disposez d'un exemplaire du bail commercial liant votre propriété à SAS LES MAUVAIS GARCONS, lequel impose réglementairement à l'exploitant de justifier chaque année de sa couverture d'assurance de responsabilité civile en cours de validité (attestation d'assurance obligatoire).
 
@@ -126,6 +126,6 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 
 Sébastien GRAZIDE
 
-> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
 > Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement de la présente mise en demeure.

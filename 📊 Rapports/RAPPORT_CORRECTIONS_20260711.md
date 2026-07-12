@@ -103,7 +103,7 @@ url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571"
 ├── 📒 Code assurances/          (2 articles ✅)
 ├── 📒 Autres codes/                 (2 articles ✅)
 ├── 📒 Code general des collectivites territoriales/ (vide ✅ README ajouté)
-├── 📜 Jurisprudence/                (23 arrêts ✅)
+├── 📜 Jurisprudence/README.md                (23 arrêts ✅)
 ├── 📊 Index/                        (index complet ✅)
 └── pdfs/                           (documents originaux ✅)
 ```

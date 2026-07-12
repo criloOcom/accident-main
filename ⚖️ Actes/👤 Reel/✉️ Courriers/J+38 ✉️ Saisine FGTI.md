@@ -46,9 +46,9 @@ Courriel : sebastien.grazide@gmail.com
 
 Blagnac, le 12 juillet 2026
 
-Objet : Saisine conservatoire — Accident du 29 mai 2026 — SAS SAS LES MAUVAIS GARCONS — [Constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) deposee
+Objet : Saisine conservatoire — Accident du 29 mai 2026 — SAS SAS LES MAUVAIS GARCONS — [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) deposee
 
-Ref : SIREN 938 033 222 — [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° 31727387
+Ref : SIREN 938 033 222 — [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° 31727387
 
 Madame, Monsieur le Directeur,
 
@@ -79,7 +79,7 @@ A la date de la presente, les procedures suivantes ont ete engagees :
 
 3. **Assignation Article 145 CPC** (5 juillet 2026) : redigee et prete a etre deposee pour communication forcee de la police d'assurance RC.
 
-4. **[Constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** (6 juillet 2026) : deposee aupres du Doyen des Juges d'Instruction de Foix sur le fondement des articles 222-19 et 222-20 du Code penal.
+4. **[Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** (6 juillet 2026) : deposee aupres du Doyen des Juges d'Instruction de Foix sur le fondement des articles 222-19 et 222-20 du Code penal.
 
 Ces procedures constituent le prerequis necessaire a une eventuelle saisine du FGTI au titre de l'article 706-3 du Code de procedure penale.
 
@@ -138,7 +138,7 @@ Je sollicite par la presente l'ouverture d'un dossier conservatoire aupres du FG
 
 1. La SAS SAS LES MAUVAIS GARCONS est une societe au capital de 200 € ne declarant aucun salarie, ne repondant a aucune sollicitation, et ne justifiant d'aucune assurance RC professionnelle.
 
-2. Une [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) a ete deposee ce jour (6 juillet 2026) aupres du Doyen des Juges d'Instruction de Foix, ouvrant une information judiciaire du chef de blessures involontaires (Art. 222-19 et 222-20 CP) a l'encontre de la SAS et de ses dirigeants personnels.
+2. Une [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) a ete deposee ce jour (6 juillet 2026) aupres du Doyen des Juges d'Instruction de Foix, ouvrant une information judiciaire du chef de blessures involontaires (Art. 222-19 et 222-20 CP) a l'encontre de la SAS et de ses dirigeants personnels.
 
 3. Il existe un risque caracterise que la societe, financee a hauteur de 200 € seulement et dirigee par des gerants de paille, soit dissoute ou fasse l'objet d'une liquidation avant l'aboutissement de la procedure, privant la victime de toute indemnisation.
 
@@ -154,9 +154,9 @@ Je sollicite en consequence :
 <hr>
 
 ## PIECES JOINTES
-- Copie du [PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procedure penale)
+- Copie du [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procedure penale)
 - Accuses de reception des courriers recommandes retournes (29 juin 2026 — mentions NPAI)
-- [Extrait Kbis](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS SAS LES MAUVAIS GARCONS (938 033 222)
+- [Extrait Kbis](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS SAS LES MAUVAIS GARCONS (938 033 222)
 - Dossier medical complet (11 pieces)
 
 Je vous remercie de bien vouloir me faire parvenir un accuse de reception ecrit de la presente, ainsi qu'une response dans un delai de 15 jours.

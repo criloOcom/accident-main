@@ -95,4 +95,4 @@ Si SAS LES MAUVAIS GARCONS fait l'objet d'une procédure collective, les actes d
 
 ## CONCLUSION
 
-La faiblesse du capital social (200 €) de SAS LES MAUVAIS GARCONS impose une vigilance extrême. Si la société vient à disparaître ou à être vidée de sa substance, une plainte avec [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) devra être déposée entre les mains du Doyen des juges d'instruction ou directement au Parquet, ciblant personnellement Sabir MOUNTASSER et Catherine ANDISSAC.
+La faiblesse du capital social (200 €) de SAS LES MAUVAIS GARCONS impose une vigilance extrême. Si la société vient à disparaître ou à être vidée de sa substance, une plainte avec [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) devra être déposée entre les mains du Doyen des juges d'instruction ou directement au Parquet, ciblant personnellement Sabir MOUNTASSER et Catherine ANDISSAC.
