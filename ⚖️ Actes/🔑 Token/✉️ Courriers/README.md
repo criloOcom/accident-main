@@ -71,9 +71,9 @@ Chaque courrier a un objectif précis : obtenir des informations, mettre en deme
  
 ### Gabarits d'attestations
 
-- **[Attestation Témoin Client](22%20%F0%9F%93%8B%20Attestation%20T%C3%A9moin%20Client.md)** — Gabarit pour attestation de témoin présent dans le commerce
+- **[Attestation Temoin Client](J%2B32%20%F0%9F%93%8B%20Attestation%20Temoin%20Client.md)** — Gabarit pour attestation de témoin présent dans le commerce
 - **[Attestation Pompier SAMU](23%20%F0%9F%93%8B%20Attestation%20Pompier%20SAMU.md)** — Gabarit pour attestation des secours intervenus
-- **[Attestation Employé](24%20%F0%9F%93%8B%20Attestation%20Employ%C3%A9.md)** — Gabarit pour attestation d'employé de l'exploitation
+- **[Attestation Employe](J%2B32%20%F0%9F%93%8B%20Attestation%20Employe.md)** — Gabarit pour attestation d'employé de l'exploitation
 - **[Transmission Attestation Témoin Client](26%20%F0%9F%93%A7%20Attestation%20Temoin%20Client.md)** — Gabarit email transmission attestation témoin client
 - **[Transmission Attestation Pompier SAMU](27%20%F0%9F%93%A7%20Attestation%20Pompier%20SAMU.md)** — Gabarit email transmission attestation secours intervenus
 - **[Transmission Attestation Employé](28%20%F0%9F%93%A7%20Attestation%20Employe.md)** — Gabarit email transmission attestation employé du salon

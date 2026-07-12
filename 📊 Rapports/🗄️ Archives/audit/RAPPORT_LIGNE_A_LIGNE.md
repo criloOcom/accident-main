@@ -71,7 +71,7 @@ Date de l'audit : 2026-07-06
 ## Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/12_Courrier URSSAF.md`
 - Ligne 45 : Token '[Le Prepose de l'Exploitation]' mal formaté (doit être gras : '**[Le Prepose de l'Exploitation]**')
 
-## Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/22_Gabarit Attestation Témoin Client.md` — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Faire signer les CERFA 11527 aux témoins : client, pompier, employé)**
+## Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/J+32_Gabarit Attestation Temoin Client.md` — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Faire signer les CERFA 11527 aux témoins : client, pompier, employé)**
 - Ligne 22 : Token '[À compléter]' mal formaté (doit être gras : '**[À compléter]**')
 - Ligne 26 : Token '[À compléter]' mal formaté (doit être gras : '**[À compléter]**')
 - Ligne 27 : Token '[À compléter]' mal formaté (doit être gras : '**[À compléter]**')
@@ -93,7 +93,7 @@ Date de l'audit : 2026-07-06
 - Ligne 43 : Token '[À compléter]' mal formaté (doit être gras : '**[À compléter]**')
 - Ligne 43 : Token '[À compléter]' mal formaté (doit être gras : '**[À compléter]**')
 
-## Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/24_Gabarit Attestation Employé.md`
+## Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/J+32_Gabarit Attestation Employe.md`
 - Ligne 22 : Token '[À compléter]' mal formaté (doit être gras : '**[À compléter]**')
 - Ligne 26 : Token '[À compléter]' mal formaté (doit être gras : '**[À compléter]**')
 - Ligne 27 : Token '[À compléter]' mal formaté (doit être gras : '**[À compléter]**')

@@ -57,14 +57,14 @@ Conformément à l'Article 202 du Code de procédure civile, ce document permet 
 ### A. Témoins identifiés et documents associés
 
 #### **Le Témoin Client (Présent le jour J)**
-[22 📋 Attestation Témoin Client.md](../✉️%20Courriers/22%20%F0%9F%93%8B%20Attestation%20T%C3%A9moin%20Client.md)
+[J+32 📋 Attestation Temoin Client.md](../✉️%20Courriers/J%2B32%20%F0%9F%93%8B%20Attestation%20Temoin%20Client.md)
 (Email de relance : [26 📧 Attestation Temoin Client.md](../✉️%20Courriers/26%20%F0%9F%93%A7%20Attestation%20Temoin%20Client.md))
 
 #### **Le Secouriste / Pompier (Intervenant d'urgence)**
 [23 📋 Attestation Pompier SAMU.md](../✉️%20Courriers/23%20%F0%9F%93%8B%20Attestation%20Pompier%20SAMU.md) (Email de relance : [27 📧 Attestation Pompier SAMU.md](../✉️%20Courriers/27%20%F0%9F%93%A7%20Attestation%20Pompier%20SAMU.md))
 
 #### **L'Employé du Salon (Témoin de la défectuosité préalable)**
-[24 📋 Attestation Employé.md](../✉️%20Courriers/24%20%F0%9F%93%8B%20Attestation%20Employ%C3%A9.md) (Email de relance : [28 📧 Attestation Employe.md](../✉️%20Courriers/28%20%F0%9F%93%A7%20Attestation%20Employe.md))
+[J+32 📋 Attestation Employe.md](../✉️%20Courriers/J%2B32%20%F0%9F%93%8B%20Attestation%20Employe.md) (Email de relance : [28 📧 Attestation Employe.md](../✉️%20Courriers/28%20%F0%9F%93%A7%20Attestation%20Employe.md))
 
 ### B. Pièce obligatoire à joindre
 - Une copie recto-verso d'une pièce d'identité officielle du témoin comportant sa signature (Carte Nationale d'Identité, Passeport, ou Titre de séjour).

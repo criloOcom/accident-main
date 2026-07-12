@@ -72,7 +72,7 @@ type: rapport
 ### `⚖️ Actes/✉️ Courriers/18_Courrier SDIS.md`
 - Set source to drive
 
-### `⚖️ Actes/✉️ Courriers/22_Gabarit Attestation Témoin Client.md` — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Faire signer les CERFA 11527 aux témoins : client, pompier, employé)**
+### `⚖️ Actes/✉️ Courriers/J+32_Gabarit Attestation Temoin Client.md` — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Faire signer les CERFA 11527 aux témoins : client, pompier, employé)**
 - Added titre
 - Added date
 - Set type to acte
@@ -85,7 +85,7 @@ type: rapport
 - Set source to drive
 - Added drive_id
 
-### `⚖️ Actes/✉️ Courriers/24_Gabarit Attestation Employé.md`
+### `⚖️ Actes/✉️ Courriers/J+32_Gabarit Attestation Employe.md`
 - Added titre
 - Added date
 - Set type to acte

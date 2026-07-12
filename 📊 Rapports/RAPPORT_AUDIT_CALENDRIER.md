@@ -184,9 +184,9 @@ type: rapport
 | 19 FGTI | 06/07/2026 | J+38 | ✓ |
 | 20 Relance Police | 05/07/2026 | J+37 | ✓ |
 | 21 Relance CPAM | 05/07/2026 | J+37 | ✓ |
-| 22 Attestation Témoin Client | 30/06/2026 | J+32 | ✓ |
+| J+32 Attestation Temoin Client | 30/06/2026 | J+32 | ✓ |
 | 23 Attestation Pompier SAMU | 30/06/2026 | J+32 | ✓ |
-| 24 Attestation Employé | 30/06/2026 | J+32 | ✓ |
+| J+32 Attestation Employe | 30/06/2026 | J+32 | ✓ |
 | 25 Relance Dr DJERBI | 06/07/2026 | J+38 | ✓ |
 | 26 Email Attestation Témoin | 06/07/2026 | J+38 | ✓ |
 | 27 Email Attestation Pompier | 06/07/2026 | J+38 | ✓ |

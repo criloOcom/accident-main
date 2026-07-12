@@ -87,9 +87,9 @@ Partage depuis : **[L'Email de la Victime]**
 - 2026-07-05 - 19 ✉️ Courrier FGTI - V1 ✓ Vérifié : Information conservatoire (LRAR + email).
 - 2026-07-05 - 20 🔄 Relance Police - V1 ✓ Vérifié : Suivi plainte + demande vidéos.
 - 2026-07-05 - 21 🔄 Relance CPAM - V1 ✓ Vérifié : Suivi dossier RCT **[N° Dossier CPAM]**.
-- 2026-07-05 - 22 📋 Attestation Témoin Client - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
+- 2026-07-05 - J+32 📋 Attestation Temoin Client - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
 - 2026-07-05 - 23 📋 Attestation Pompier SAMU - V1 ✓ Vérifié : Gabarit d'attestation d'intervention.
-- 2026-07-05 - 24 📋 Attestation Employé - V1 ✓ Vérifié : Gabarit d'attestation d'employé.
+- 2026-07-05 - J+32 📋 Attestation Employe - V1 ✓ Vérifié : Gabarit d'attestation d'employé.
 - 2026-07-05 - 25 📧 Relance [Le Chirurgien SOS Main] - V1 ✓ Vérifié : Relance demande certificat médical de consolidation.
 - 2026-07-05 - 26-28 📧 Attestations Témoin - V1 ✓ Vérifié : Attestations témoin (client, pompier, employé) versions réalistes.
 

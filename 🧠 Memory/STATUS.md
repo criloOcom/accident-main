@@ -83,7 +83,7 @@ type: memory
 | **Annexe juridique** | 434-15, 434-15-1, 222-19 | 222-20, 121-3, 434-4 |
 
 ### Version A ✉️ reclassée en antisèche orale personnelle
-- **Renommage** : `36 ✉️ Plainte Complémentaire Police Foix.md` → `36 📋 Antisèche Orale Plainte Complémentaire.md`
+- **Renommage** : `36 ✉️ Plainte Complémentaire Police Foix.md` → `J+47 📋 Antiseche Orale Plainte.md`
 - **Statut** : `DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER`
 - **Usage** : aide-mémoire pour l'audition orale (script dialogue conservé)
 - **Références corrigées** : 434-15→434-4, 222-19→222-20, ajout 121-3

@@ -50,9 +50,9 @@ type: rapport
 | 19 | FGTI | final | drive | Aucun | OK |
 | 20 | Relance Police | final | drive | `[Adresse à compléter]` | 1 adresse + simple crochet dans titre |
 | 21 | Relance CPAM | final | drive | `[Adresse à compléter]` | 1 adresse non résolue |
-| 22 | Attestation Témoin Client | final | drive | `[À compléter]` (x5) | **Intentionnel** (gabarit) — `destinataire: null` |
+| J+32 | Attestation Temoin Client | final | drive | `[À compléter]` (x5) | **Intentionnel** (gabarit) — `destinataire: null` |
 | 23 | Attestation Pompier SAMU | final | drive | `[À compléter]` (x5) | **Intentionnel** (gabarit) — `destinataire: null` |
-| 24 | Attestation Employé | final | drive | `[À compléter]` (x5) | **Intentionnel** (gabarit) — `destinataire: null` |
+| J+32 | Attestation Employe | final | drive | `[À compléter]` (x5) | **Intentionnel** (gabarit) — `destinataire: null` |
 | 25 | Relance Dr DJERBI | **brouillon** | local | Aucun | `[La Métropole Régionale]` en simple crochet + `statut: brouillon` |
 | 26 | Email Attestation Témoin | **brouillon** | local | Aucun | `source: local`, single bracket tokens |
 | 27 | Email Attestation Pompier | **brouillon** | local | Aucun | `source: local`, single bracket tokens |
