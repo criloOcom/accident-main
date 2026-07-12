@@ -25,12 +25,12 @@ drive_id: 1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90
 
 # **MÉMORANDUM JURIDIQUE : RESPONSABILITÉ DES DIRIGEANTS ET RÉPARATION DES PRÉJUDICES**
 > 🔗 Source Google Drive : [1uHOesWZrUf1…](https://drive.google.com/open?id=1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90)
-Rédigé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+Rédigé le [**[J+32 Assignation référé]**](../../../🧠 Memory/🗂️ Jetons/token-j-32-assignation-refere.md)
 
 Rédigé par : La Victime
 
 ## INTRODUCTION
-Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) dans le cadre de l'accident corporel survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels).
+Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md) dans le cadre de l'accident corporel survenu le [**[J+0 Accident]**](../../../🧠 Memory/🗂️ Jetons/token-j-0-accident.md).
 
 Ce document examine les fondements juridiques de la mise en cause de la responsabilité des dirigeants sur le terrain du droit des sociétés, notamment sur le fondement des articles L. 223-22 et L. 225-251 du Code de commerce, ainsi que sur le terrain du droit commun de la responsabilité civile.
 
@@ -47,13 +47,13 @@ Il identifie les manquements aux obligations légales et réglementaires imputab
 <hr><hr>
 
 ## I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
-Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein du salon exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales).
+Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le [**[J+0 Accident]**](../../../🧠 Memory/🗂️ Jetons/token-j-0-accident.md) au sein du salon exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md).
 
-Lors de cet événement, le basculement d'un équipement défectueux a causé une section nerveuse et tendineuse grave à la main dominante de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques).
+Lors de cet événement, le basculement d'un équipement défectueux a causé une section nerveuse et tendineuse grave à la main dominante de [**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md).
 
-La situation est complexifiée par le silence des dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), concernant la couverture assurantielle de la structure.
+La situation est complexifiée par le silence des dirigeants, [**[Le Président de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-la-directrice-generale-de-l-exploitation.md), concernant la couverture assurantielle de la structure.
 
-PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) est désigné comme « La Victime », [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) comme « L'Exploitant », et [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) comme « Les Dirigeants ».
+PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, [**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md) est désigné comme « La Victime », [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md) comme « L'Exploitant », et [**[Le Président de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-la-directrice-generale-de-l-exploitation.md) comme « Les Dirigeants ».
 
 <hr><hr>
 

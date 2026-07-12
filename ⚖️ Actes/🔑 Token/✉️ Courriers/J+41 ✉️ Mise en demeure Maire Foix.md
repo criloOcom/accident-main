@@ -30,22 +30,22 @@ reel_path: ../../👤 Reel/✉️ Courriers/29 ✉️ Courrier Maire Foix.md
 
 # LETTRE RECOMMANDÉE AVEC ACCUSÉ DE RÉCEPTION
 
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
-[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
-Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+[**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md)
+[**[L'Adresse de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-la-victime.md)
+Courriel : [**[L'Email de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-email-de-la-victime.md)
 
 **Monsieur le Maire**
-Mairie de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+Mairie de [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md)
 45 Cours Gabriel Fauré
-09000 [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+09000 [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md)
 
-[**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le 9 juillet 2026
+[**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md), le 9 juillet 2026
 
-**Objet : Demande d'intervention au titre de vos pouvoirs de police administrative – Mise en péril de la sécurité publique au sein de l'établissement [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)**
+**Objet : Demande d'intervention au titre de vos pouvoirs de police administrative – Mise en péril de la sécurité publique au sein de l'établissement [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md)**
 
 Monsieur le Maire,
 
-Par la présente, je me permets d'attirer votre attention sur une situation constitutive d'un péril grave et imminent pour la sécurité de vos administrés, au sein de l'établissement exploité par la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), sis [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) à [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
+Par la présente, je me permets d'attirer votre attention sur une situation constitutive d'un péril grave et imminent pour la sécurité de vos administrés, au sein de l'établissement exploité par la société [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md), sis [**[L'Adresse de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-l-exploitation.md) à [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md).
 
 Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein de cet établissement recevant du public (ERP). Une vasque en céramique lourdement endommagée, ne respectant pas les normes élémentaires de sécurité, a causé des blessures majeures ayant entraîné une intervention chirurgicale en urgence et une incapacité temporaire totale (ITT) de 56 jours.
 
@@ -63,16 +63,16 @@ Par ailleurs, conformément à l'[article L. 2212-4 du Code général des collec
 
 Face à la gravité des faits et à la probabilité de réitération d'un tel accident sur d'autres usagers de cet établissement, je vous demande formellement, au titre de l'exercice de vos pouvoirs de police administrative :
 
-1. De mandater les services compétents de la Mairie afin de procéder à une **vérification approfondie des installations** de l'établissement exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), et notamment de contrôler la conformité des équipements.
+1. De mandater les services compétents de la Mairie afin de procéder à une **vérification approfondie des installations** de l'établissement exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md), et notamment de contrôler la conformité des équipements.
 
 2. De procéder à un **signalement au Comité de Sécurité (COMSUR)** ou à la Commission de Sécurité compétente pour les ERP, afin d'évaluer la conformité des locaux et équipements.
 
 3. D'envisager, si les infractions et manquements graves à la sécurité sont établis, une mesure de **fermeture administrative** de l'établissement jusqu'à sa mise en conformité totale, afin de prévenir tout nouveau dommage corporel.
 
-Il est de la responsabilité de la commune de prévenir tout dommage prévisible découlant de l'exploitation d'un ERP dangereux sur son territoire. J'attire votre attention sur le fait qu'une procédure pénale est d'ores et déjà ouverte suite à un dépôt de plainte, et qu'une action visant à engager la responsabilité civile de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) et de ses dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), est en cours.
+Il est de la responsabilité de la commune de prévenir tout dommage prévisible découlant de l'exploitation d'un ERP dangereux sur son territoire. J'attire votre attention sur le fait qu'une procédure pénale est d'ores et déjà ouverte suite à un dépôt de plainte, et qu'une action visant à engager la responsabilité civile de [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md) et de ses dirigeants, [**[Le Président de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-la-directrice-generale-de-l-exploitation.md), est en cours.
 
 Je vous remercie par avance des diligences que vous voudrez bien accomplir pour garantir la sécurité du public.
 
 Je vous prie de croire, Monsieur le Maire, à l'expression de ma considération distinguée.
 
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+[**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md)

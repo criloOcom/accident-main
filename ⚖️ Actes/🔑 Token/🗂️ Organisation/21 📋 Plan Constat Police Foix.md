@@ -1,6 +1,6 @@
 ---
 title: "Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)"
-description: "Ce plan analyse la possibilité juridique de demander au Maire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) , et définit la marche"
+description: "Ce plan analyse la possibilité juridique de demander au Maire de [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md) d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à [**[L'Adresse de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-l-exploitation.md) , et définit la marche"
 type: readme
 statut: brouillon
 reel_path: ../../👤 Reel/🗂️ Organisation/21 📋 Plan Constat Police Foix.md
@@ -16,7 +16,7 @@ reel_path: ../../👤 Reel/🗂️ Organisation/21 📋 Plan Constat Police Foix
 
 # Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)
 
-Ce plan analyse la possibilité juridique de demander au Maire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) , et définit la marche à suivre pour votre courrier de demain matin.
+Ce plan analyse la possibilité juridique de demander au Maire de [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md) d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à [**[L'Adresse de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-l-exploitation.md) , et définit la marche à suivre pour votre courrier de demain matin.
 
 <hr><hr>
 
@@ -25,7 +25,7 @@ Ce plan analyse la possibilité juridique de demander au Maire de [**[La Ville d
 ### Peut-on demander à la police de faire le constat à la place d'un huissier ?
 
 *   **Oui, mais uniquement sous l'angle de la sécurité publique (Police Administrative)** : 
-    Le Maire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) est responsable de la sécurité des Établissements Recevant du Public (ERP) sur sa commune ([art. L. 2212-2 du CGCT](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370)). En tant qu'autorité de police, il peut mandater la police municipale ou la commission de sécurité pour vérifier la conformité des installations d'un ERP.
+    Le Maire de [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md) est responsable de la sécurité des Établissements Recevant du Public (ERP) sur sa commune ([art. L. 2212-2 du CGCT](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370)). En tant qu'autorité de police, il peut mandater la police municipale ou la commission de sécurité pour vérifier la conformité des installations d'un ERP.
 *   **La limite majeure (Procédure Civile)** : 
     Un rapport de police municipale a une valeur administrative ou pénale, mais **n'a pas la force probante d'un constat de Commissaire de Justice (Huissier)** devant un tribunal civil pour l'indemnisation de vos préjudices. La police ne constatera pas pour votre compte le "nom de la nouvelle entreprise" ou les détails civils dans le but de vous aider à monter votre dossier de dommages-intérêts (ce n'est pas leur rôle légal).
 *   **La complémentarité des deux démarches** :

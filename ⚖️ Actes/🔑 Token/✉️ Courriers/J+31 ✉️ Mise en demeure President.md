@@ -34,26 +34,26 @@ drive_id: 1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I
 
 # MISE EN DEMEURE AUX DIRIGEANTS — DEMANDE D'INFORMATION ASSURANCE RC
 > 🔗 Source Google Drive : [1pheN3_rudxy…](https://drive.google.com/open?id=1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I)
-[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) <br>
-[**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+[**[L'Adresse de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-la-victime.md) <br>
+[**[L'Email de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-email-de-la-victime.md)
 
-[**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+[**[Le Président de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-la-directrice-generale-de-l-exploitation.md)
 
-[**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) <br>
-[**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+[**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md) <br>
+[**[L'Adresse de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-l-exploitation.md)
 
-[**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+[**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md), le [**[J+31 Mises en demeure]**](../../../🧠 Memory/🗂️ Jetons/token-j-31-mises-en-demeure.md)
 
-Objet : Demande d'information et communication d'assurance — Accident [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) — L.R.A.R.
+Objet : Demande d'information et communication d'assurance — Accident [**[J+0 Accident]**](../../../🧠 Memory/🗂️ Jetons/token-j-0-accident.md) — L.R.A.R.
 
 <hr>
 
-Réf : Dossier [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) / [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)
+Réf : Dossier [**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md) / [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md)
 
 Madame la Directrice Générale, Monsieur le Président,
 
 ## INTRODUCTION
-La présente lettre de mise en demeure est adressée conjointement par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) à [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), en leur qualité de dirigeants de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels).
+La présente lettre de mise en demeure est adressée conjointement par [**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md) à [**[Le Président de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-la-directrice-generale-de-l-exploitation.md), en leur qualité de dirigeants de [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md), afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le [**[J+0 Accident]**](../../../🧠 Memory/🗂️ Jetons/token-j-0-accident.md).
 
 **Ce courrier constitue une démarche constructive et préalable à toute action contentieuse, conformément aux obligations légales et à la jurisprudence applicable en matière de responsabilité personnelle des dirigeants.**
 
@@ -91,21 +91,21 @@ En application de ce renvoi, l'article L. 225-251 du même code dispose que :
 
 <hr>
 
-Je me permets de vous adresser la présente lettre dans une démarche constructive et explicative concernant l'accident corporel dont j'ai été la victime au sein de votre salon de coiffure le vendredi [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) à 15h00.
+Je me permets de vous adresser la présente lettre dans une démarche constructive et explicative concernant l'accident corporel dont j'ai été la victime au sein de votre salon de coiffure le vendredi [**[J+0 Accident]**](../../../🧠 Memory/🗂️ Jetons/token-j-0-accident.md) à 15h00.
 
 Je tiens tout d'abord à vous remercier pour votre réactivité le jour même de l'accident, notamment pour l'annulation de la transaction de 15 € effectuée par virement Wero. Cette attention a été particulièrement appréciée dans ces circonstances difficiles.
 
-Comme vous le savez, l'accident a entraîné une blessure importante à ma main droite (index droit), nécessitant une opération de microchirurgie d'urgence par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) le samedi [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au service SOS Main de [**[L'Établissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) (suture tendineuse 6 brins, suture microchirurgicale des nerfs et vaisseaux, neurolyse d'urgence).
+Comme vous le savez, l'accident a entraîné une blessure importante à ma main droite (index droit), nécessitant une opération de microchirurgie d'urgence par [**[Le Chirurgien SOS Main]**](../../../🧠 Memory/🗂️ Jetons/token-le-chirurgien-sos-main.md) le samedi [**[J+1 Chirurgie]**](../../../🧠 Memory/🗂️ Jetons/token-j-1-chirurgie.md) au service SOS Main de [**[L'Établissement SOS Main]**](../../../🧠 Memory/🗂️ Jetons/token-l-etablissement-sos-main.md) (suture tendineuse 6 brins, suture microchirurgicale des nerfs et vaisseaux, neurolyse d'urgence).
 
 Le chirurgien a évalué le pronostic de récupération neurologique à un an minimum, avec un résultat souvent partiel s'agissant d'une suture nerveuse.
 
-Du fait de mon activité d'informaticien indépendant ([**[L'Identifiant Professionnel de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), l'incapacité d'utiliser mon index et ma main dominante me paralyse totalement dans mon travail quotidien.
+Du fait de mon activité d'informaticien indépendant ([**[L'Identifiant Professionnel de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-identifiant-professionnel-de-la-victime.md)), l'incapacité d'utiliser mon index et ma main dominante me paralyse totalement dans mon travail quotidien.
 
 En tant que citoyen, je ne connaissais pas les formalités nécessaires dans ce type de situation. C'est à la suite de mes démarches administratives auprès de la CPAM (recours contre tiers n° **[N° [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**) et des services de police que j'ai été informé de l'obligation de recueillir les coordonnées de l'assureur de responsabilité civile professionnelle de votre salon afin de lui transmettre mon dossier médical.
 
 C'est ce même assureur qui prendra en charge et indemnisera les conséquences matérielles et corporelles de ce sinistre, protégeant ainsi l'équilibre de votre propre entreprise.
 
-Je sollicite donc aujourd'hui votre aide bienveillante afin que vous puissiez me transmettre par écrit les coordonnées de votre compagnie d'assurance (nom de l'assureur et numéro de police d'assurance civile professionnelle en vigueur au [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)).
+Je sollicite donc aujourd'hui votre aide bienveillante afin que vous puissiez me transmettre par écrit les coordonnées de votre compagnie d'assurance (nom de l'assureur et numéro de police d'assurance civile professionnelle en vigueur au [**[J+0 Accident]**](../../../🧠 Memory/🗂️ Jetons/token-j-0-accident.md)).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.** <br>
@@ -115,7 +115,7 @@ La victime dispose d'une action directe contre l'assureur de responsabilité civ
 
 Je vous remercie de bien vouloir me communiquer, dans les meilleurs délais, les informations suivantes :
 
-1. Le nom et les coordonnées complètes de la compagnie d'assurance couvrant la responsabilité civile professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) au titre de la police en vigueur le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) ;
+1. Le nom et les coordonnées complètes de la compagnie d'assurance couvrant la responsabilité civile professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md) au titre de la police en vigueur le [**[J+0 Accident]**](../../../🧠 Memory/🗂️ Jetons/token-j-0-accident.md) ;
 
 2. Le numéro de contrat d'assurance souscrit ;
 
@@ -129,7 +129,7 @@ En l'absence de retour de votre part sous un délai raisonnable de 15 jours à c
 > **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.** <br>
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 
-À défaut de réponse dans ce délai, je me verrai contraint de saisir le juge des référés du tribunal judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) afin d'obtenir une mesure d'instruction in futurum aux fins d'identification de l'assureur.
+À défaut de réponse dans ce délai, je me verrai contraint de saisir le juge des référés du tribunal judiciaire de [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md) afin d'obtenir une mesure d'instruction in futurum aux fins d'identification de l'assureur.
 
 Dans cette hypothèse, je serai également contraint de rechercher la responsabilité personnelle des dirigeants pour défaut d'information sur le fondement de la faute détachable.
 
@@ -165,14 +165,14 @@ Elle permet :
 > **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.** <br>
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 
-À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — d'abord en référé pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md) — d'abord en référé pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 
 Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président, l'expression de mes salutations distinguées.
 
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+[**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md)
 
-> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) sur ma main droite dominante, je suis actuellement en [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [**[J+0 Accident]**](../../../🧠 Memory/🗂️ Jetons/token-j-0-accident.md) sur ma main droite dominante, je suis actuellement en [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
 > Cette situation de handicap physique temporaire explique le délai de transmission de mes demandes administratives.

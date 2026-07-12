@@ -45,7 +45,8 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
 │   ├── STATUS.md          ← État d'avancement détaillé
 │   ├── TODO.md            ← Plans restants et priorités
 │   ├── WORKFLOW.md        ← Procédure d'anonymisation
-│   ├── TOKEN MAP.md       ← Correspondance jeton ↔ identité réelle
+│   ├── TOKEN MAP.md       ← Correspondance jeton ↔ identité réelle (tableau maître)
+│   ├── 🗂️ Jetons/            ← 53 fiches individuelles enrichies par token
 │   ├── DECISIONS.md       ← Décisions d'architecture et règles
 │   ├── RULES.md           ← Règles permanentes (INTERDICTIONS incluses)
 │   ├── STRICT VARIABLES.md ← Source Unique de Vérité (dates, montants, faits)

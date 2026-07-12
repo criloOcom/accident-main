@@ -125,7 +125,7 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 <hr>
 
 ## IV. CONTACTS ET ANNUAIRES
-## AUTORITÉS JUDICIAIRES ET POLICIÈRES À [**[LA VILLE DE L'ACCIDENT]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+## AUTORITÉS JUDICIAIRES ET POLICIÈRES À [**[LA VILLE DE L'ACCIDENT]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md)
 - Tribunal Judiciaire : [**[Adresse Tribunal Judiciaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) ([**[Téléphone Tribunal Judiciaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / Commissariat : **[Adresse Commissariat]** ([**[Téléphone Commissariat]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)).
 
 ## SERVICES JURIDIQUES ET DE SANTÉ

@@ -32,10 +32,10 @@ drive_id: 153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s
 
 # PLAN D'ACTION ET CHRONOLOGIE DE LA PROCÉDURE
 > 🔗 Source Google Drive : [153cOANMpw-O…](https://drive.google.com/open?id=153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s)
-Rédigé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+Rédigé le [**[J+32 Assignation référé]**](../../../🧠 Memory/🗂️ Jetons/token-j-32-assignation-refere.md)
 
 ## INTRODUCTION
-Le présent plan d'action et chronologie de la procédure a été établi par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) afin de structurer et de piloter l'ensemble des démarches juridiques entreprises à la suite de l'accident corporel du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels). Ce document de travail récapitule les étapes procédurales déjà accomplies, les actions prioritaires à engager et les échéances à respecter dans le cadre du contentieux opposant [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales). Il constitue un outil de pilotage et de suivi permettant d'assurer la coordination efficace de la stratégie contentieuse et le respect des délais de procédure.
+Le présent plan d'action et chronologie de la procédure a été établi par [**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md) afin de structurer et de piloter l'ensemble des démarches juridiques entreprises à la suite de l'accident corporel du [**[J+0 Accident]**](../../../🧠 Memory/🗂️ Jetons/token-j-0-accident.md). Ce document de travail récapitule les étapes procédurales déjà accomplies, les actions prioritaires à engager et les échéances à respecter dans le cadre du contentieux opposant [**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md) à [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md). Il constitue un outil de pilotage et de suivi permettant d'assurer la coordination efficace de la stratégie contentieuse et le respect des délais de procédure.
 
 <hr>
 
@@ -49,23 +49,23 @@ Le présent plan d'action et chronologie de la procédure a été établi par [*
   - [A. PREUVES MÉDICALES ET ADMINISTRATIVES](#a-preuves-mdicales-et-administratives)
   - [B. PREUVES MATÉRIELLES ET TÉMOIGNAGES](#b-preuves-matrielles-et-tmoignages)
 - [IV. CONTACTS ET ANNUAIRES](#iv-contacts-et-annuaires)
-- [Autorités Judiciaires et Policières à [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)](#autorits-judiciaires-et-policires-la-ville-de-laccident)
+- [Autorités Judiciaires et Policières à [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md)](#autorits-judiciaires-et-policires-la-ville-de-laccident)
 - [SERVICES JURIDIQUES ET DE SANTÉ](#services-juridiques-et-de-sant)
 
 <hr>
 
 ## I. CHRONOLOGIE ET PLAN D'ACTION
 ## ACTIONS URGENTES ET PHASE AMIABLE (JUIN 2026)
-La première étape consiste en l'envoi de mises en demeure par lettre recommandée avec accusé de réception (LRAR) à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) et à ses dirigeants.
+La première étape consiste en l'envoi de mises en demeure par lettre recommandée avec accusé de réception (LRAR) à [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md) et à ses dirigeants.
 
-Ces courriers, expédiés le [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels), visent à obtenir les coordonnées de l'assurance responsabilité civile professionnelle, étape préalable obligatoire avant toute action au fond.
+Ces courriers, expédiés le [**[J+31 Mises en demeure]**](../../../🧠 Memory/🗂️ Jetons/token-j-31-mises-en-demeure.md), visent à obtenir les coordonnées de l'assurance responsabilité civile professionnelle, étape préalable obligatoire avant toute action au fond.
 
-Parallèlement, une action directe est engagée auprès de l'assureur pour solliciter l'ouverture d'un dossier de sinistre, la désignation d'un expert médical et le versement d'une provision financière de première urgence pour compenser les pertes d'exploitation de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), informaticien indépendant.
+Parallèlement, une action directe est engagée auprès de l'assureur pour solliciter l'ouverture d'un dossier de sinistre, la désignation d'un expert médical et le versement d'une provision financière de première urgence pour compenser les pertes d'exploitation de [**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md), informaticien indépendant.
 
 Sur le plan probatoire, des démarches immédiates sont entreprises pour la conservation des preuves : une requête auprès du Procureur de la République pour la saisie des enregistrements de vidéosurveillance et l'intervention d'un huissier de justice pour constater la défectuosité du matériel (bac à shampoing).
 
 ## PROCÉDURES JUDICIAIRES ET EXPERTISE (JUILLET - DÉCEMBRE 2026)
-Dès juillet 2026, en l'absence de réponse satisfaisante sous 15 jours, une assignation en référé-provision sera délivrée devant le Tribunal de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
+Dès juillet 2026, en l'absence de réponse satisfaisante sous 15 jours, une assignation en référé-provision sera délivrée devant le Tribunal de [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md).
 
 Cette procédure permet de solliciter judiciairement une avance financière (provision) et la nomination d'un expert médical judiciaire pour évaluer les taux de déficit fonctionnel et les souffrances endurées.
 
@@ -77,7 +77,7 @@ Par ailleurs, si la société persiste dans son refus de communiquer les coordon
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
-Le second semestre 2026 sera consacré au suivi de l'expertise (notamment le passage à l'UMJ de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) le [**[J+167 Expertise UMJ]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)) et à la rédaction des conclusions de partie civile.
+Le second semestre 2026 sera consacré au suivi de l'expertise (notamment le passage à l'UMJ de [**[La Métropole Régionale]**](../../../🧠 Memory/🗂️ Jetons/token-la-metropole-regionale.md) le [**[J+167 Expertise UMJ]**](../../../🧠 Memory/🗂️ Jetons/token-j-167-expertise-umj.md)) et à la rédaction des conclusions de partie civile.
 
 L'aboutissement prévu est une assignation au fond en septembre pour obtenir un jugement définitif de condamnation de l'assureur d'ici décembre 2026.
 
@@ -117,7 +117,7 @@ En cas de blocage sur l'identité de l'assureur, [Article 145 du Code de procéd
 
 ## III. INVENTAIRE DES PIÈCES
 ### A. PREUVES MÉDICALES ET ADMINISTRATIVES
-Le dossier comprend les comptes rendus opératoires du [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), les certificats médicaux initiaux, les avis d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et la note de synthèse médico-légale. Le [dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) "Recours contre Tiers" n° [ ... ] est également ouvert.
+Le dossier comprend les comptes rendus opératoires du [**[Le Chirurgien SOS Main]**](../../../🧠 Memory/🗂️ Jetons/token-le-chirurgien-sos-main.md), les certificats médicaux initiaux, les avis d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et la note de synthèse médico-légale. Le [dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) "Recours contre Tiers" n° [ ... ] est également ouvert.
 
 ### B. PREUVES MATÉRIELLES ET TÉMOIGNAGES
 Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel défectueux, les photos de l'accident et les témoignages des clients et employés présents.
@@ -125,12 +125,12 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 <hr>
 
 ## IV. CONTACTS ET ANNUAIRES
-## AUTORITÉS JUDICIAIRES ET POLICIÈRES À [**[LA VILLE DE L'ACCIDENT]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+## AUTORITÉS JUDICIAIRES ET POLICIÈRES À [**[LA VILLE DE L'ACCIDENT]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md)
 - Tribunal Judiciaire : [**[Adresse Tribunal Judiciaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) ([**[Téléphone Tribunal Judiciaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / Commissariat : **[Adresse Commissariat]** ([**[Téléphone Commissariat]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)).
 
 ## SERVICES JURIDIQUES ET DE SANTÉ
-- Ordre des Avocats de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) ([**[Téléphone Ordre Avocats]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / Huissiers : Étude d'Huissiers **[Nom Huissier]** ([**[Téléphone Huissier]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / UMJ de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
+- Ordre des Avocats de [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md) ([**[Téléphone Ordre Avocats]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / Huissiers : Étude d'Huissiers **[Nom Huissier]** ([**[Téléphone Huissier]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / UMJ de [**[La Métropole Régionale]**](../../../🧠 Memory/🗂️ Jetons/token-la-metropole-regionale.md).
 
-**Note administrative :** Dès le 1[**[J+37 Assignation 145]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) (le lendemain de la fin du délai amiable de mise en demeure), délivrance immédiate de l'assignation en référé par commissaire de justice, matérialisant la fin de la phase comminatoire amiable.
+**Note administrative :** Dès le 1[**[J+37 Assignation 145]**](../../../🧠 Memory/🗂️ Jetons/token-j-37-assignation-145.md) (le lendemain de la fin du délai amiable de mise en demeure), délivrance immédiate de l'assignation en référé par commissaire de justice, matérialisant la fin de la phase comminatoire amiable.
 
-*Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) sur ma main droite dominante, je suis actuellement en [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la prolongation involontaire de certaines démarches.*
+*Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [**[J+0 Accident]**](../../../🧠 Memory/🗂️ Jetons/token-j-0-accident.md) sur ma main droite dominante, je suis actuellement en [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la prolongation involontaire de certaines démarches.*

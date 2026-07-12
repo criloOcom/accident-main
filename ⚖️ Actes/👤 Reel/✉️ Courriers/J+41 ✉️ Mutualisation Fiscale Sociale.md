@@ -36,7 +36,7 @@ Courriel : sebastien.grazide@gmail.com
 
 [À compléter]
 
-Foix, le [**[J+41 Courrier SIE URSSAF]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+Foix, le [**[J+41 Courrier SIE URSSAF]**](../../../🧠 Memory/🗂️ Jetons/token-j-41-courrier-sie-urssaf.md)
 
 Objet : Demande de mutualisation fiscale et sociale urgente — SAS SAS LES MAUVAIS GARCONS
 
