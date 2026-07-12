@@ -1,6 +1,6 @@
 ---
 title: "Assignation en Refere Article 145 CPC — Communication Police d'Assurance RC"
-description: "[L'Adresse de la Victime]** <br>"
+description: "À déposer au greffe du TJ de Foix (15 juillet 2026) — utilisable comme REQUÊTE (pas besoin d'huissier). Imprimer 2 exemplaires, demander récépissé."
 type: assignation
 date: 2026-07-05
 tags:
@@ -9,7 +9,7 @@ tags:
   - article 145
   - assurance
   - astreinte
-statut: fusionné_dans_01
+statut: fusionné_dans_01_utilisable_comme_requête_seul
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/03 🔍 Assignation Article 145.md

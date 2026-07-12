@@ -20,7 +20,7 @@ type: memory
 
 # TODO — Plans d'action + Tableau de bord Sébastien
 
-> **Dernière mise à jour :** 10 juillet 2026
+> **Dernière mise à jour :** 12 juillet 2026
 >
 > **Règle absolue :** tout nouvel article de loi cité DOIT être lu via MCP
 > Légifrance (`consulter_article` ou `rechercher_code`) pour vérifier le contexte
@@ -33,12 +33,14 @@ type: memory
 
 ## 📋 TABLEAU DE BORD SÉBASTIEN
 
-### ✅ Dernières actions IA (10 juillet 2026)
-- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → [📊 Rapports/RAPPORT_AUDIT_RISQUES.md](📊%20Rapports/RAPPORT_AUDIT_RISQUES.md)
-- **Risques prioritaires identifiés** : 4 critiques (🔴 R1-R3-R5) et 6 urgents (🟠 R4-R6-R7-R8-R9-R19)
-- **Intégration jurisprudentielle** : 3 décisions clés + annexes complètes → [⚖️ Actes/📎 Annexes](⚖️%20Actes/📎%20Annexes/README.md)
-- **Plainte complémentaire** : création du document n°36 pour obstruction à la justice → [⚖️ Actes/👤 Reel/✉️ Courriers/36 ✉️ Plainte Complémentaire Police Foix.md](⚖️%20Actes/👤%20Reel/✉️%20Courriers/36%20✉️%20Plainte%20Complémentaire%20Police%20Foix.md)
-- **Articles de loi ajoutés** : Articles 434-15 et 434-15-1 du Code pénal → [📜 Lois/📒 Code penal](📜%20Lois/📒%20Code/📒%20Code%20penal/README.md)
+### ✅ Dernières actions IA (12 juillet 2026)
+- **Consultation juridique** : soumission complète du dossier à un conseil externe (IA)
+- **6 questions stratégiques** posées et répondues — séquence corrigée
+- **2 erreurs identifiées** : FGTI sans objet, action directe inopérante
+- **Priorités réordonnées** : Art. 145 CPC → AJ → Plainte complémentaire → Référé (dans cet ordre)
+- **Plan 15 juillet défini** : TJ Foix (matin) + Visite lieux + Commissariat (après-midi)
+- **AJ totale confirmée éligible** — couvre avocat, huissier, expert
+- **Référé-provision > 10 000 €** : besoin d'un avocat (AJ obligatoire avant)
 
 ### ✅ Dernières actions IA (8 juillet 2026)
 - **12 PRs Jules mergées** (#73-84) : audits avocat, RGPD, barémique, assurance, FGTI, organisation, dirigeants, ERP, ordonnance
@@ -54,26 +56,52 @@ ni contacter des personnes à ta place.
 
 | # | Action | Date butoir | Statut | Priorité |
 |---|--------|------------|--------|----------|
-| 🏛️ | **Fixer audience référé-provision** (Art. 835 CPC) | Urgent — assignation prête | ❌ NON FAIT | **Haute** |
-| 🏛️ | **Fixer audience Art. 145 CPC** (communication assurance) | Urgent — assignation prête | ❌ NON FAIT | **Haute** |
+| 🏛️ | **Déplacer à Foix le 15 juillet** — TJ + Visite + Commissariat | **15/07/2026** | ❌ NON FAIT | **Haute** |
+| 🏛️ | **Déposer requête Art. 145 CPC** au greffe TJ Foix (matin) | 15/07/2026 | ❌ NON FAIT | **Haute** |
+| 🏛️ | **Demander AJ totale** au BAJ du TJ Foix (matin) | 15/07/2026 | ❌ NON FAIT | **Haute** |
+| 🏛️ | **Plainte complémentaire** Commissariat Foix (après-midi) | 15/07/2026 | ❌ NON FAIT | **Haute** |
+| 🏛️ | **Visite des lieux** + photos + constat personnel (midi) | 15/07/2026 | ❌ NON FAIT | **Haute** |
 | 🎯 | **Rendez-vous UMJ Purpan** (réquisition police ITT) | **12/11/2026 13h45** | ✅ FIXÉ | Info |
-| 📋 | **Contacter un huissier** pour constat (Art. 145 CPC) | Avant mi-juillet | ❌ NON FAIT | **Haute** |
+| 📋 | **Contacter avocat Toulouse** spécialisé dommage corporel | Semaine 21/07 | ❌ NON FAIT | **Haute** |
 | 📋 | **Envoyer attestations témoins** (client, pompier, employé) | Dès que possible | ❌ NON FAIT | **Haute** |
 | 📋 | **Envoyer relance Dr DJERBI** — certificat consolidation | Dès que possible | ❌ NON FAIT | **Haute** |
-| 👨‍⚖️ | **Prendre un avocat** (contentieux civil + pénal) | Avant audience | ❌ NON FAIT | **Haute** |
 | 📄 | **Adresses emails des témoins** à nous communiquer | Avant envoi attestations | ❌ NON FAIT | Moyenne |
 | 📄 | **Email/téléphone Dr DJERBI** à nous communiquer | Avant relance | ❌ NON FAIT | Moyenne |
 
 ### ✅ Check-list actions à faire par toi
 
-#### Court terme (cette semaine)
-- [ ] **Déposer la plainte complémentaire n°36** au commissariat de Foix (obstruction à la justice)
-- [ ] **Trouver un huissier** pour constater l'état du salon et la vidéosurveillance
-- [ ] **Communiquer les emails** des 3 témoins (client, pompier SAMU, employé)
-- [ ] **Communiquer email/tél du Dr DJERBI** pour relance consolidation
-- [ ] **Envoyer les attestations Cerfa** aux témoins (signature électronique ou papier)
-- [ ] **Étudier et préparer le dossier d'Aide Juridictionnelle** (CERFA n° 16146*03) si éligible pour couvrir les frais de justice
-- [ ] **Vérifier si les vidéos de surveillance existent encore** (délai 30 jours peut-être échu)
+#### 🔴 AVANT LE 15 JUILLET — PRÉPARATION
+- [ ] **Imprimer la requête Art. 145 CPC** (2 exemplaires) + pièces jointes
+- [ ] **Imprimer la plainte complémentaire n°36** + pièces jointes
+- [ ] **Remplir formulaire AJ** (CERFA n° 16146*03) — disponible au greffe ou en ligne
+- [ ] **Préparer le lot de pièces** : identité, PV 2026/015967, certificats médicaux, Kbis, photos
+- [ ] **Préparer un PV de constat vierge** pour la visite des lieux
+- [ ] **Vérifier l'adresse exacte du TJ de Foix** + horaires greffe civil
+- [ ] **Vérifier l'adresse du commissariat de Foix** + horaires d'ouverture
+- [ ] **Charger l'appareil photo/téléphone** pour les photos
+
+#### 📍 15 JUILLET — JOUR J À FOIX
+
+**Matin : Tribunal judiciaire de Foix (greffe civil + BAJ)**
+- [ ] **Déposer requête Art. 145 CPC** au greffe civil (2 exemplaires) — demander récépissé
+- [ ] **Pièces à joindre** : PV initial, certificats médicaux, arrêts travail, photos, Kbis
+- [ ] **Déposer demande AJ totale** au BAJ (formulaire + avis imposition + justificatifs)
+- [ ] **Demander traitement accéléré** (conservation preuves vidéos en péril)
+- [ ] **Conserver précieusement** le récépissé de dépôt et le numéro de dossier
+
+**Midi : Visite des lieux (22 Rue Lafaurie)**
+- [ ] **Photos de la devanture** (enseigne, fermeture, nouvelle occupation)
+- [ ] **Photos de l'intérieur** via vitrines (emplacement vasque, caméras)
+- [ ] **Relevé des caméras de surveillance visibles**
+- [ ] **Rédiger un constat personnel** daté + signé (sur place)
+- [ ] **Chercher des témoins** (voisins, commerçants) → attestation sur l'honneur
+
+**Après-midi : Commissariat de Police de Foix**
+- [ ] **Déposer plainte complémentaire** — nouveau PV avec réf. au PV initial 2026/015967
+- [ ] **Demander qualification** : 223-1 CP (mise en danger), 434-15 CP (obstruction), L.324-2 C.assur. (défaut assurance)
+- [ ] **Pièces à apporter** : identité, PV initial, certificats médicaux, Kbis, photos
+- [ ] **Obtenir** : numéro de nouveau PV + nom officier référent + copie si possible
+- [ ] **Ne pas signer sans lire** le PV avant signature
 
 #### Préparation audience(s) (avant date fixée)
 - [ ] Contacter un avocat pour le contentieux civil (référé provision + Art. 145)
@@ -108,19 +136,30 @@ PHASE AMIABLE (terminée)
   → Délai 15 jours → échu le 14 juillet 2026
   → Silence de la SAS, de l'assureur, du propriétaire
   ↓
-PHASE JUDICIAIRE (en cours — TOI seul peux avancer)
-  1. [À FAIRE] Trouver un huissier → constat vidéosurveillance + état des lieux
-  2. [À FAIRE] Contacter un avocat → déposer assignation référé provision
-  3. [À FAIRE] Fixer audience(s) → provision 15 000 € + Art. 145 assurance
-  4. [À FAIRE] Envoyer attestations témoins → preuve des faits
-  5. [À FAIRE] Relancer Dr DJERBI → certificat consolidation
+PHASE 0 — URGENT CONSERVATION VIDÉOS (avant 15 août)
+  1. [REQUÊTE ART. 145] Déposée au TJ Foix le 15/07 — conservation vidéos
+  2. [PLAINTE PÉNALE] Demander réquisition OPJ pour saisie vidéos
   ↓
-PHASE MÉDICO-LÉGALE (date fixée)
-  → 12 novembre 2026 : UMJ Purpan évaluation ITT
+PHASE 1 — 15 JUILLET FOIX (TOI SEUL)
+  1. [MATIN] TJ Foix : déposer requête Art. 145 + demande AJ totale
+  2. [MIDI] Visite 22 Rue Lafaurie : photos + constat personnel
+  3. [APRÈS-MIDI] Commissariat : plainte complémentaire (nouveau PV)
   ↓
-PHASE POST-CONSOLIDATION (quand consolidation obtenue)
+PHASE 2 — ATTENTE (15 juillet → ~15 août)
+  → AJ totale (2-6 semaines) → avocat commis d'office
+  → Ordonnance Art. 145 → identification assureur
+  ↓
+PHASE 3 — RÉFÉRÉ-PROVISION (dès AJ + assureur OK)
+  → Avocat commis d'office rédige et signifie l'assignation
+  → Audience référé → provision 15 000 €
+  ↓
+PHASE 4 — EXPERTISE MÉDICALE (août-septembre)
+  → Ne pas attendre décembre UMJ
+  → Demander expertise via Art. 145 ou avocat
+  ↓
+PHASE 5 — INSTANCE AU FOND (2027)
   → Évaluation Dintilhac définitive
-  → Demande indemnisation complète
+  → Demande indemnisation complète ~85 000-109 500 €
 ```
 
 ---

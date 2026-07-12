@@ -20,9 +20,53 @@ type: memory
 
 # STATUT D'AVANCEMENT — 10 juillet 2026
 
-> **Nouveau :** Enrichissement YAML 📜 Lois terminé (69 fichiers) — Voir [AGENTS.md](../AGENTS.md)
-> **Nouveau :** Documentation MCP mise à jour - Voir [📜 Lois/EXEMPLES_REQUETES_MCP.md](📜%20Lois/EXEMPLES_REQUETES_MCP.md)
+> **Nouveau :** Consultation juridique externe (IA) — Validation stratégie + corrections + plan 15 juillet
 >
+## Phase 19 — Consultation juridique + Plan d'action 15 juillet Foix (12 juillet 2026) ✅
+
+### Ce qui a été fait
+- **Consultation externe** : présentation complète du dossier à un conseil juridique (IA spécialisée)
+- **6 questions stratégiques posées** : séquence, avocat, bailleur, cession, vidéos, expertise
+- **Réponses reçues** et intégrées ci-dessous
+
+### Validations et corrections apportées
+
+| Point | Statut |
+|-------|--------|
+| **Art. 145 CPC** déposable seul au greffe sans avocat | ✅ Confirmé |
+| **Plainte complémentaire** = nouveau PV avec réf. 2026/015967 | ✅ Confirmé |
+| **AJ totale** éligible (revenus ~9 000 €/an < plafond) | ✅ Confirmé |
+| **Référé-provision 15 000 €** bloqué sans avocat (> 10 000 €) | ❌ Confirmé — besoin AJ d'abord |
+| **FGTI** sans objet (hors champ art. 706-3 CPP) | ❌ À retirer du plan |
+| **Action directe** inopérante sans assureur identifié | ❌ À désactiver |
+| **Bailleur** inutile pour l'instant | ❌ À retirer du plan |
+| **Prescription** 10 ans à compter consolidation | ✅ Pas d'urgence |
+
+### Nouvelles priorités (séquence corrigée)
+
+| Phase | Action | Délai |
+|-------|--------|-------|
+| **0 — Ultra-urgent** | Conservation vidéos (Art. 145 + requête pénale) | **Avant 15 août** |
+| **1 — 15 juillet** | **Art. 145 CPC au TJ Foix** (assureur + vidéos + expertise) | **Matin** |
+| **2 — 15 juillet** | Visite des lieux + photos + constat personnel | **Midi** |
+| **3 — 15 juillet** | Plainte complémentaire Commissariat Foix (nouveau PV) | **Après-midi** |
+| **4 — 15 juillet** | Demande d'AJ totale au BAJ du TJ de Foix | Même jour |
+| **5** | Attendre AJ (2-6 semaines) + identification assureur | J+15 à J+45 |
+| **6** | Référé-provision 15k€ par avocat commis d'office | Dès AJ + assureur OK |
+| **7** | Expertise médicale judiciaire (ne pas attendre décembre) | Août-sept 2026 |
+| **8** | Instance au fond pour solde (~85 000-109 500 €) | 2027 |
+
+### 2 erreurs déjà commises — correction
+
+1. **Saisine FGTI envoyée le 11/07** : prématurée, sans objet. **Ne plus relancer.**
+2. **Action directe à "Compagnie d'Assurance de l'Exploitant"** : destinataire fictif, sans valeur. **Ne plus y compter.**
+
+### Recommandation avocat
+- **Prendre un avocat spécialisé dommage corporel (AAPC) à Toulouse** (meilleur rapport spécialisation/distance Foix)
+- Contacter **semaine du 21 juillet** après obtention AJ
+
+---
+
 ## Phase 18 — Audit des risques — Matrice complète + Plan d'atténuation (10 juillet 2026) ✅
 
 ### Actions réalisées

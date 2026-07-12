@@ -11,7 +11,7 @@ tags:
   - CPC
   - LRAR
   - email
-statut: final
+statut: obsolète_ne_pas_relancer
 destinataire: FGTI
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/19 ✉️ Courrier FGTI.md

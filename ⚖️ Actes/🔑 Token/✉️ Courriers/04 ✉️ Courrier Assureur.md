@@ -8,7 +8,7 @@ tags:
   - assurance
   - mise en demeure
   - L.124-3
-statut: final
+statut: inopérant_destinataire_inconnu
 destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/04 ✉️ Courrier Assureur.md
