@@ -55,7 +55,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/12 📁 Dossier Plaidoirie.m
 **PIÈCES CLÉS DU DOSSIER :**
 - **Pièce ACQ-10 :** Procès-verbal de constat de police confirmant les circonstances matérielles (2 juin 2026)
 - **Pièce ACQ-09 :** Dépôt de plainte officiel formalisant l'infraction pénale (1 juin 2026)
-- **Pièce ACQ-04 :** Compte-rendu opératoire attestant de la section tendineuse et nerveuse (30 mai 2026)
+- **Pièce ACQ-04 :** [Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) attestant de la section tendineuse et nerveuse (30 mai 2026)
 - **Pièce ACQ-17 :** Mises en demeure par Lettres Recommandées avec Accusé de Réception (29 juin 2026)
 
 <hr><hr>
@@ -114,7 +114,7 @@ L'argumentation développée s'appuie sur une jurisprudence constante :
 Monsieur le Juge, je vous renvoie aux pièces listées dans notre bordereau, et tout particulièrement à :
 - **Pièce ACQ-10** (PV de Police) établissant sans ambiguïté les constations factuelles de l'événement.
   
-- **Pièce ACQ-04** (Compte-rendu opératoire) de Dr Iskander DJERBI pour mesurer la gravité médicale de l'atteinte tendineuse et nerveuse.
+- **Pièce ACQ-04** ([Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)) de Dr Iskander DJERBI pour mesurer la gravité médicale de l'atteinte tendineuse et nerveuse.
   
 - **Pièce ACQ-17** (AR des mises en demeure) prouvant notre démarche de conciliation restée lettre morte de la part des défendeurs.
   

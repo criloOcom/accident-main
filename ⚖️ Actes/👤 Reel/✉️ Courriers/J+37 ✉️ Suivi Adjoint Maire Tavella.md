@@ -34,9 +34,9 @@ Monsieur TAVELLA
 
 Mairie de Foix
 
-**[Adresse de la Mairie]**
+[**[Adresse de la Mairie]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-**[Code Postal de l'Accident]** Foix
+[**[Code Postal de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) Foix
 
 Foix, le 5 juillet 2026
 

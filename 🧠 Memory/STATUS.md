@@ -1,6 +1,6 @@
 ---
 title: "STATUT D'AVANCEMENT — 13 juillet 2026"
-description: "- **Analyse exhaustive** des 21 risques juridiques, procéduraux, documentaires, financiers et transverses"
+description: "- **Phase 21** Navigation Interactive Cross-Document : 1 766 liens relatifs créés (✅ TERMINÉ)"
 type: memory
 ---
 
@@ -18,11 +18,36 @@ type: memory
 [🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › STATUS
 <!-- /Breadcrumb -->
 
-# STATUT D'AVANCEMENT — 10 juillet 2026
+# STATUT D'AVANCEMENT — 13 juillet 2026
+
+> **Phase 21 ✅** Navigation Interactive Cross-Document — 1 766 liens relatifs créés
+>
+> ## Phase 21 — Navigation Interactive Cross-Document (13 juillet 2026) ✅ [TERMINÉ]
+
+### Objectif
+Transformer toutes les mentions textuelles de pièces et de tokens d'anonymisation en **liens relatifs URL-encodés** vers leurs fichiers .md, rendant le dossier entièrement navigable en local.
+
+### Chiffres clés
+| Métrique | Valeur |
+|----------|--------|
+| **Liens créés** | **1 766** (388 pièces + 1 378 tokens) |
+| **Fichiers modifiés** | **132** sur 170 analysés |
+| **Stubs .md créés** | **10** (pièces Google Drive-only) |
+
+### Actions réalisées
+1. **Analyse** — compréhension du besoin, matrice de correspondance fichiers↔mentions
+2. **Script** `.dev/app/link_documents.py` — dry-run, --apply, --strate, URL-encoding, protection double-liens
+3. **10 stubs** créés dans `⚖️ Actes/Preuves officielles/` pour pièces non téléchargées
+4. **TOKEN MAP.md** enrichi : 5 ancres + section `#tokens-evenementiels`
+5. **Vérification** : `check_consistency.py` → “Rien à signaler”
+6. **Sync README** : `sync_readme_listings.py --apply` → 20 READMEs mis à jour
+7. **Nettoyage** : `__pycache__/` supprimé
+
+---
 
 > **Nouveau :** Consultation juridique externe (IA) — Validation stratégie + corrections + plan 15 juillet
 >
-## Phase 19 — Consultation juridique + Plan d'action 15 juillet Foix (12 juillet 2026) ✅
+> ## Phase 19 — Consultation juridique + Plan d'action 15 juillet Foix (12 juillet 2026) ✅
 
 ### Ce qui a été fait
 - **Consultation externe** : présentation complète du dossier à un conseil juridique (IA spécialisée)

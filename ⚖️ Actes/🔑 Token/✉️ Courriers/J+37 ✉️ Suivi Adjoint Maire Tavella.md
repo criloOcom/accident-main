@@ -26,19 +26,19 @@ drive_id: 1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw
 
 # SUIVI — DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF
 > 🔗 Source Google Drive : [1Xj4wf-v-ShC…](https://drive.google.com/open?id=1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw)
-**[L'Adresse de la Victime]**
+[**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-Courriel : **[L'Email de la Victime]**
+Courriel : [**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-**[L'Adjoint au Maire de la Commune]**
+[**[L'Adjoint au Maire de la Commune]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
 
-Mairie de **[La Ville de l'Accident]**
+Mairie de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-**[Adresse de la Mairie]**
+[**[Adresse de la Mairie]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-**[Code Postal de l'Accident]** **[La Ville de l'Accident]**
+[**[Code Postal de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-**[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
+[**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+37 Assignation 145]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
 
 Objet : Suite a votre message du 1er juin 2026 — Demande d'information sur les diligences Inspection du Travail et CODAF
 
@@ -49,11 +49,11 @@ Monsieur l'Adjoint au Maire,
 <hr><hr>
 
 ## INTRODUCTION
-La presente lettre fait suite a votre courriel du 1er juin 2026 par lequel vous m'informiez avoir pris l'attache des services de la prefecture afin de diligenter l'inspection du travail et le CODAF (Comite Operationnel Departemental Anti Fraude) a la suite de l'accident corporel grave dont j'ai ete victime le **[J+0 Accident]** au sein du salon de coiffure **[Le Commerce de l'Exploitation]**.
+La presente lettre fait suite a votre courriel du 1er juin 2026 par lequel vous m'informiez avoir pris l'attache des services de la prefecture afin de diligenter l'inspection du travail et le CODAF (Comite Operationnel Departemental Anti Fraude) a la suite de l'accident corporel grave dont j'ai ete victime le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein du salon de coiffure **[Le Commerce de l'Exploitation]**.
 
 Je vous remercie chaleureusement pour votre diligence et votre soutien.
 
-Dans le cadre de la procedure judiciaire que j'ai engagee a l'encontre de l'exploitant (plainte deposee au commissariat de **[La Ville de l'Accident]** le 1er juin 2026, PV n° **[N° PV Police]**), je constitue un dossier d'indemnisation complet et permanent.
+Dans le cadre de la procedure judiciaire que j'ai engagee a l'encontre de l'exploitant (plainte deposee au commissariat de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) le 1er juin 2026, PV n° [**[N° PV Police]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), je constitue un dossier d'indemnisation complet et permanent.
 
 A ce titre, les elements suivants me seraient d'une grande utilite pour etayer mon dossier civil et penal :
 
@@ -75,4 +75,4 @@ Je vous rappelle que l'Article L. 311-1 du Code des relations entre le public et
 
 Dans l'attente de votre retour, je vous prie de croire, Monsieur l'Adjoint au Maire, a l'expression de ma consideration distinguee.
 
-**[La Victime]**
+[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)

@@ -22,3 +22,5 @@ type: readme
 - [🏛️ Action directe et obligation d'assurance](🏛️%20Action%20directe%20et%20obligation%20d'assurance/README.md) — 3 arrêts
 - [🏛️ Responsabilité du commettant](🏛️%20Responsabilité%20du%20commettant/README.md) — 2 arrêts
 - [🏛️ Mise en danger d'autrui](🏛️%20Mise%20en%20danger%20d'autrui/README.md) — 1 arrêt
+
+- [17-26.282_CourCassation](17-26.282_CourCassation.md)

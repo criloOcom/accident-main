@@ -11,7 +11,7 @@ tags:
   - litige
   - LRAR
 statut: final
-destinataire: Service des Impôts des Entreprises de **[La Ville de l'Accident]**
+destinataire: Service des Impôts des Entreprises de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/15 ✉️ Courrier SIE.md
 source: drive
@@ -34,44 +34,44 @@ drive_id: 1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA
 
 # INFORMATION DE LITIGE AU SERVICE DES IMPOTS DES ENTREPRISES
 > 🔗 Source Google Drive : [1yl55r__e8V0…](https://drive.google.com/open?id=1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA)
-**[L'Adresse de la Victime]**
+[**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-Courriel : **[L'Email de la Victime]**
+Courriel : [**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 **Service des Impôts des Entreprises de [La Ville de l'Accident]**
 
 **[Adresse à compléter]**
 
-**[La Ville de l'Accident]**, le **[J+37 Assignation 145]**
+[**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+37 Assignation 145]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
 
-Objet : Information de litige en cours — SAS **[L'Exploitant du Commerce (La SAS)]**
+Objet : Information de litige en cours — SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)
 
 <hr>
 
-Ref : SIREN **[SIREN de l'Exploitation]**
+Ref : SIREN [**[SIREN de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 Madame, Monsieur le Responsable,
 
-La presente est adressee a vos services par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]**, immatriculee sous le SIREN **[SIREN de l'Exploitation]**.
+La presente est adressee a vos services par [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), immatriculee sous le SIREN [**[SIREN de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, et a entraine des lesions graves de la main droite (plaie palmaire avec section du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant) ayant necessite une microchirurgie d'urgence.
 
-Je porte par la presente a votre connaissance l'existence d'un litige en cours engageant la responsabilite civile et penale de la SAS **[L'Exploitant du Commerce (La SAS)]** et de ses dirigeants, pour des montants estimes a **59 600 €** au titre de la reparation integrale de mes prejudices corporels, sans prejudice des procedures en cours devant les juridictions civiles et penales.
+Je porte par la presente a votre connaissance l'existence d'un litige en cours engageant la responsabilite civile et penale de la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) et de ses dirigeants, pour des montants estimes a **59 600 €** au titre de la reparation integrale de mes prejudices corporels, sans prejudice des procedures en cours devant les juridictions civiles et penales.
 
 Les procedures suivantes ont ete engagees :
 
-- Depot de plainte et constitution de partie civile (TJ de **[La Ville de l'Accident]**)
+- Depot de plainte et [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (TJ de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes))
 
-- Mises en demeure LRAR a la societe et a ses dirigeants (**[J+31 Mises en demeure]**)
+- Mises en demeure LRAR a la societe et a ses dirigeants ([**[J+31 Mises en demeure]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
 
 - Demande d'enquete a l'Inspection du Travail et au CODAF
 
-- Dossier de recours contre tiers a la CPAM (n° **[N° Dossier CPAM]**)
+- Dossier de recours contre tiers a la CPAM (n° **[N° [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**)
 
 Je souhaiterais etre informe de toute modification de la situation fiscale de la societe qui pourrait intervenir (cessation d'activite, liquidation, radiation) dans le cadre de la presente procedure.
 
-Mes coordonnees : **[L'Adresse de la Victime]** — Courriel : **[L'Email de la Victime]**
+Mes coordonnees : [**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — Courriel : [**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 
-**[La Victime]**
+[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)

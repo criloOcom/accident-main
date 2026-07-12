@@ -34,21 +34,21 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/07 ⚖️ Projet Ordonnance 
 ## ORDONNANCE DE RÉFÉRÉ DU 31 JUILLET 2026
 
 **Demandeur :**
-**[La Victime]**, de nationalité française, demeurant au **[L'Adresse de la Victime]**
+[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), de nationalité française, demeurant au [**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 **Défendeurs :**
-1. **[L'Exploitant du Commerce (La SAS)]**, prise en la personne de ses dirigeants.
+1. [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), prise en la personne de ses dirigeants.
 
-2. **[Le Président de l'Exploitation]**, pris en sa qualité de dirigeant de droit et personnellement.
+2. [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), pris en sa qualité de dirigeant de droit et personnellement.
 
-3. **[La Directrice Générale de l'Exploitation]**, prise en sa qualité de dirigeante de droit et personnellement.
+3. [**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), prise en sa qualité de dirigeante de droit et personnellement.
 
 <hr><hr>
 
 ### EXPOSÉ DU LITIGE
-Par acte d'huissier, **[La Victime]** a fait assigner devant le juge des référés **[L'Exploitant du Commerce (La SAS)]** ainsi que **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**.
+Par acte d'huissier, [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a fait assigner devant le juge des référés [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) ainsi que [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et [**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques).
 
-Il est exposé que le 29 mai 2026, au sein du salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]**, **[La Victime]** a été victime d'un accident corporel grave. Le préposé de l'établissement étant monté sur une vasque en céramique, celle-ci a basculé.
+Il est exposé que le 29 mai 2026, au sein du salon de coiffure exploité par [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a été victime d'un accident corporel grave. Le préposé de l'établissement étant monté sur une vasque en céramique, celle-ci a basculé.
 
 En tentant de retenir la chute, le demandeur a heurté une cassure préexistante non signalée de la vasque, subissant une section partielle du tendon fléchisseur et une section complète des paquets collatéraux vasculo-nerveux de l'index droit, ayant nécessité une intervention microchirurgicale d'urgence et entraîné une incapacité totale de travail de 56 jours.
 
@@ -70,7 +70,7 @@ Malgré de multiples mises en demeure, les défendeurs n'ont apporté aucune ré
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^1] <br>
 
-Il ressort des pièces médicales produites (certificat médical initial et compte-rendu opératoire) que **[La Victime]** a subi des lésions importantes dont la consolidation n'est pas acquise.
+Il ressort des pièces médicales produites ([certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) et [compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)) que [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a subi des lésions importantes dont la consolidation n'est pas acquise.
 
 L'évaluation complète de ses préjudices nécessite l'intervention d'un expert médical. La demande d'expertise est donc légitime et sera accueillie.
 
@@ -85,9 +85,9 @@ Il y a lieu d'enjoindre aux défendeurs de produire ce document sous astreinte.
 > [Article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
 
 
-En l'espèce, la matérialité de l'accident au sein de l'établissement **[L'Exploitant du Commerce (La SAS)]** et l'intervention du matériel défectueux (vasque) sont établies par le procès-verbal de police et les éléments médicaux.
+En l'espèce, la matérialité de l'accident au sein de l'établissement [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) et l'intervention du matériel défectueux (vasque) sont établies par le procès-verbal de police et les éléments médicaux.
 
-La responsabilité de plein droit de **[L'Exploitant du Commerce (La SAS)]** en tant que gardienne de la chose n'est pas sérieusement contestable, pas plus que sa responsabilité en tant que commettant.
+La responsabilité de plein droit de [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) en tant que gardienne de la chose n'est pas sérieusement contestable, pas plus que sa responsabilité en tant que commettant.
 
 S'agissant des dirigeants, leur silence persistant, l'absence de sécurisation du matériel malgré le danger, et la dissimulation ou l'absence d'assurance de responsabilité civile caractérisent une faute détachable de leurs fonctions sociales.
 
@@ -119,15 +119,15 @@ Il serait inéquitable de les laisser à sa charge. Les défendeurs seront conda
 
 Nous, Juge des référés, statuant publiquement, par ordonnance réputée contradictoire et en premier ressort,
 
-**ORDONNONS** une expertise médicale de **[La Victime]** ;
+**ORDONNONS** une expertise médicale de [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) ;
 
 **DÉSIGNONS** tel expert médical inscrit qu'il plaira au tribunal, avec pour mission d'évaluer les préjudices corporels selon la nomenclature Dintilhac ;
 
-**ORDONNONS** in solidum à **[L'Exploitant du Commerce (La SAS)]**, à **[Le Président de l'Exploitation]** et à **[La Directrice Générale de l'Exploitation]** de communiquer à **[La Victime]** la police d'assurance de responsabilité civile professionnelle de l'établissement, sous astreinte provisoire de 100 euros par jour de retard, passé un délai de 15 jours suivant la signification de la présente ordonnance ;
+**ORDONNONS** in solidum à [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), à [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et à [**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) de communiquer à [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) la police d'assurance de responsabilité civile professionnelle de l'établissement, sous astreinte provisoire de 100 euros par jour de retard, passé un délai de 15 jours suivant la signification de la présente ordonnance ;
 
-**CONDAMNONS** in solidum **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à payer à **[La Victime]** une provision de **15 000 euros** à valoir sur l'indemnisation définitive de son préjudice corporel ;
+**CONDAMNONS** in solidum [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et [**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) à payer à [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) une provision de **15 000 euros** à valoir sur l'indemnisation définitive de son préjudice corporel ;
 
-**CONDAMNONS** in solidum **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à payer à **[La Victime]** la somme de **2 000 euros** sur le fondement de l'article 700 du Code de procédure civile ;
+**CONDAMNONS** in solidum [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et [**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) à payer à [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) la somme de **2 000 euros** sur le fondement de l'article 700 du Code de procédure civile ;
 
 > « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. » <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.** <br>

@@ -29,12 +29,12 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/18 Note Audit RNE NPAI SAS.m
 ### 1. Statut officiel de [L'Exploitant du Commerce (La SAS)]
 | Champ | Valeur |
 |-------|--------|
-| SIREN | **[SIREN de l'Exploitation]** |
+| SIREN | [**[SIREN de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) |
 | Statut RNE | **Active** (inscrite, dernière MAJ 08/07/2026) |
 | Siège social | 22 Rue Lafaurie, 09000 Foix (inchangé) |
 | Capital | 200 € |
-| Président | **[Le Président de l'Exploitation]** |
-| DG | **[La Directrice Générale de l'Exploitation]** |
+| Président | [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) |
+| DG | [**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) |
 | Salariés | 0 (zéro) |
 | Établissements | 1 (unique au 22 Rue Lafaurie) |
 | Comptes | **En défaut de publication** |
@@ -50,7 +50,7 @@ Les courriers recommandés adressés à la SAS reviennent NPAI alors que la soci
 La société a 0 salarié. Le salon est fermé depuis l'accident (29 mai 2026). Personne ne réceptionne le courrier.
 
 #### 2. **Directeurs résidant hors Foix**
-**[La Directrice Générale de l'Exploitation]** réside à Toulouse (31100). **[Le Président de l'Exploitation]** réside à Foix mais peut avoir quitté les lieux.
+[**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) réside à Toulouse (31100). [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) réside à Foix mais peut avoir quitté les lieux.
 
 #### 3. **Évitement délibéré**
 Les dirigeants peuvent avoir demandé le renvoi du courrier ou laissent le courrier s'accumuler sans le réclamer.

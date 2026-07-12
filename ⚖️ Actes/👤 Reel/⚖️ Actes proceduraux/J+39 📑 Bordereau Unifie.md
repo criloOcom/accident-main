@@ -40,13 +40,13 @@ source: drive
 - 2 juin 2026 — Procès-verbal de police n° 2026/015967 (Police Nationale Toulouse) : Dépôt de plainte de Sébastien GRAZIDE pour blessures involontaires. Description de l'accident : montée du coiffeur sur la vasque en céramique, basculement, cassure préexistante. PV complet 3 pages.
 
 ### PIÈCE N° 2
-- 29 mai 2026 16h30** — Certificat médical initial (Dr Julie JARDON, Centre Ariégeois de Soins Immédiats) : Exploration de plaie palmaire profonde, lavage et désinfection sous anesthésie locale. Référence d'urgence chirurgicale.
+- 29 mai 2026 16h30** — [Certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (Dr Julie JARDON, Centre Ariégeois de Soins Immédiats) : Exploration de plaie palmaire profonde, lavage et désinfection sous anesthésie locale. Référence d'urgence chirurgicale.
 
 ### PIÈCE N° 3
-- 30 mai 2026 — Compte rendu opératoire (Dr Iskander DJERBI, SOS Main Clinique de l'Union) : Suture du tendon fléchisseur superficiel index droit (6 brins), suture des paquets collatéraux, neurolyse du nerf palmaire. Dossier CPAM n° 31727387.
+- 30 mai 2026 — Compte rendu opératoire (Dr Iskander DJERBI, SOS Main Clinique de l'Union) : Suture du tendon fléchisseur superficiel index droit (6 brins), suture des paquets collatéraux, neurolyse du nerf palmaire. [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° 31727387.
 
 ### PIÈCE N° 4
-- 1 juin 2026 au 23 juillet 2026 — Arrêts de travail et prolongations (Dr Oxybel, Dr Oxybel) : ITT totale de 56 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 30 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.
+- 1 juin 2026 au 23 juillet 2026 — [Arrêts de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et prolongations (Dr Oxybel, Dr Oxybel) : ITT totale de 56 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 30 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.
 
 ### PIÈCE N° 5
 - 2 juin 2026 — Réquisition judiciaire à personne (Police Nationale, Agent Jordy RODRIGUEZ CAPARROS) : Réquisition pour examen médical par l'UMJ de Toulouse sur le fondement des Art. 41 et 77-1 CPP. Rendez-vous fixé au 12 novembre 2026 à 13h45**.
@@ -65,7 +65,7 @@ source: drive
 - 10 juin 2026 — Facture de chirurgie (Dr Iskander DJERBI, SOS Main Clinique de l'Union) : Acte chirurgical d'un montant de 790,23 € pris en charge à 100 % par la CSS.
 
 ### PIÈCE N° 9
-- 3 juin 2026 — Dossier Recours Contre Tiers CPAM n° 31727387 (CPAM de la Haute-Garonne) : Ouverture du dossier RCT suite au signalement sur Ameli. Active la subrogation de l'assurance maladie pour récupération des débours (frais d'hospitalisation, soins, indemnités).
+- 3 juin 2026 — Dossier Recours Contre Tiers CPAM n° 31727387 (CPAM de la Haute-Garonne) : Ouverture du [dossier RCT](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) suite au signalement sur Ameli. Active la subrogation de l'assurance maladie pour récupération des débours (frais d'hospitalisation, soins, indemnités).
 
 ---
 
@@ -125,7 +125,7 @@ source: drive
 - 5 juillet 2026 — Relance Police : Suivi de la plainte et demande de transmission des vidéos de vidéosurveillance. Email envoyé.
 
 ### PIÈCE N° 25
-- 5 juillet 2026 — Relance CPAM : Suivi du dossier RCT n° 31727387 et demande de mise à jour. Email envoyé.
+- 5 juillet 2026 — Relance CPAM : Suivi du [dossier RCT n° 31727387](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) et demande de mise à jour. Email envoyé.
 
 ---
 
@@ -134,35 +134,35 @@ source: drive
 - 3 juin 2026 — Déclaration d'accident CPAM (Ameli) : Déclaration de recours contre tiers enregistrée sous le n° 31713398 contre la SAS SAS LES MAUVAIS GARCONS.
 
 ### PIÈCE N° 27
-- 30 mai 2026 — Frais de séjour SOS Main (GHS) : Frais de séjour et soins dossier CPAM n° 31727387.
+- 30 mai 2026 — Frais de séjour SOS Main (GHS) : Frais de séjour et soins [dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° 31727387.
 - 10 juin 2026 — Relevé de prestations CPAM : Enregistrement de l'acte de chirurgie (ADC) du 30 mai 2026.
 
 ### PIÈCE N° 28
 - 16 juin 2026 — Demande de renseignements CPAM (Sigrid DESBOIS) : INCOHÉRENCE — dossier n° 2631103960 au lieu du n° 31727387.
-- **18/06/2026** — Note de cadrage médico-légale : Confirmation de la zone lésée (index droit) et du dossier RCT.
-- 19 juin 2026 — Rectification du compte-rendu opératoire : Index droit rétabli, date du 30 mai 2026 confirmée.
+- **18/06/2026** — Note de cadrage médico-légale : Confirmation de la zone lésée (index droit) et du [dossier RCT](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md).
+- 19 juin 2026 — Rectification du [compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) : Index droit rétabli, date du 30 mai 2026 confirmée.
 
 ### PIÈCE N° 29
-- 3 juin 2026 — Envoi des volets 1 et 2 d'arrêt de travail : Correction manuelle de l'erreur de date.
+- 3 juin 2026 — Envoi des volets 1 et 2 d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) : Correction manuelle de l'erreur de date.
 - **05/06/2026** — Déclaration de sinistre corporel aux assurances privées (limite légale de 5 jours).
 - 23 juin 2026 — Première séance de rééducation spécialisée de la main (SOS Main).
 
 ### PIÈCE N° 30
 - **Sans date** — Pansements post-chirurgicaux lourds toutes les 48 heures (Cabinet infirmier Toulouse).
-- **12/06/2026** — Consultation de contrôle (Dr Oxybel) : Planification de la prolongation d'arrêt de travail.
+- **12/06/2026** — Consultation de contrôle (Dr Oxybel) : Planification de la prolongation d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
 - 23 juin 2026 — Consultation de contrôle post-opératoire (Dr Iskander DJERBI) : Bonne évolution cicatricielle, déficit neurologique noté.
 
 ### PIÈCE N° 31
-- 29 mai 2026 — Prescription initiale de 25 jours d'arrêt de travail (Dr Oxybel).
+- 29 mai 2026 — Prescription initiale de 25 jours d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (Dr Oxybel).
 
 ### PIÈCE N° 32
-- **05/06/2026** — Envoi recommandé d'arrêt de travail (LR n° 870014140507947).
+- **05/06/2026** — Envoi recommandé d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (LR n° 870014140507947).
 
 ### PIÈCE N° 33
 - 2 juin 2026 — Relevés de prestations CPAM Tiers Payant : Dossier 31727387 (seul le NIR présent).
 
 ### PIÈCE N° 34
-- **Sans date** — Soins et remboursements CPAM (dossier n° 31727387 et 2631103960) : Frais pharmaceutiques, hospitalisation et arrêts de travail.
+- **Sans date** — Soins et remboursements CPAM (dossier n° 31727387 et 2631103960) : Frais pharmaceutiques, hospitalisation et [arrêts de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
 
 ### PIÈCE N° 35
 - 2 juin 2026 — Information droits des victimes (Ministère de l'Intérieur) : Récépissé et note d'information (avocat, indemnisation, aide juridictionnelle).
@@ -196,10 +196,10 @@ source: drive
 - **Sans date** — Devis matériels ergonomiques : Logiciel dictée vocale Dragon Professional, clavier ergonomique scindé, souris verticale. Justification du poste IP à 30 000 €.
 
 ### PIÈCE N° 41
-- **[J+27 Confirmation kiné]** — Confirmation de rendez-vous de rééducation (Doctolib).
+- [**[J+27 Confirmation kiné]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) — Confirmation de rendez-vous de rééducation (Doctolib).
 
 ### PIÈCE N° 42
 - **01/05/2026** — Mémo indemnités journalières CPAM (Réf. CPAM 31_2399_05/26).
 
 ### PIÈCE N° 43
-- **05/06/2026** — Preuve de dépôt LRAR arrêt de travail (La Poste, Blagnac) : Décalage de date constaté (vignette 03/06, flash postal 05/06).
+- **05/06/2026** — Preuve de dépôt LRAR [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (La Poste, Blagnac) : Décalage de date constaté (vignette 03/06, flash postal 05/06).

@@ -55,9 +55,9 @@ reel_path: ../../👤 Reel/✉️ Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_
 
 - [ ] **Requête Art. 145 CPC** : Imprimée en 2 exemplaires (pièce 03 adaptée en requête simple)
 - [ ] **PV initial n°2026/015967** : Copie
-- [ ] **Certificats médicaux** : CR opératoire + arrêts de travail
+- [ ] **Certificats médicaux** : [CR opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) + [arrêts de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)
 - [ ] **Photos de la vasque** : Si disponibles
-- [ ] **Extrait Kbis** : Version récente (< 1 mois)
+- [ ] **[Extrait Kbis](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** : Version récente (< 1 mois)
 - [ ] **Pièce d'identité** : Original + copie
 
 ### 🏛️ Documents pour le BAJ — Demande d'AJ totale
@@ -75,10 +75,10 @@ reel_path: ../../👤 Reel/✉️ Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_
 - [ ] **Plainte complémentaire (n°36)** : Imprimée et signée (2 exemplaires)
 - [ ] **PV initial n°2026/015967** : Copie
 - [ ] **LRAR retournés NPAI** : Accusés de réception originaux
-- [ ] **Extrait Kbis** : Version récente (< 1 mois)
+- [ ] **[Extrait Kbis](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** : Version récente (< 1 mois)
 - [ ] **Note d'audit RNE/INPI** : Datée du 10/07/2026
 - [ ] **Photos accident** : Format 10x15 + version numérique
-- [ ] **Certificats médicaux** : CR opératoire + arrêts de travail
+- [ ] **Certificats médicaux** : [CR opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) + [arrêts de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)
 - [ ] **Liste démarches** : Chronologie complète
 
 ### 📸 Documents pour la visite des lieux
@@ -122,7 +122,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_
 - [ ] Plainte complémentaire signée (original + copie)
 - [ ] PV initial n°2026/015967
 - [ ] Accusés de réception LRAR
-- [ ] Extrait Kbis
+- [ ] [Extrait Kbis](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)
 - [ ] Note d'audit RNE/INPI
 - [ ] Photos accident (10x15)
 - [ ] Certificats médicaux

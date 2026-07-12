@@ -1,6 +1,6 @@
 ---
 title: "Email Transmission Attestation Pompier SAMU"
-description: "Objet : Attestation de témoin — Intervention du **[J+0 Accident]** au **[L'Adresse de l'Exploitation]"
+description: "Objet : Attestation de témoin — Intervention du [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au **[L'Adresse de l'Exploitation]"
 type: courrier
 date: 2026-07-06
 jx: J+38
@@ -9,7 +9,7 @@ tags:
   - attestation
   - temoin
 statut: brouillon
-destinataire: Services de secours intervenus le **[J+0 Accident]**
+destinataire: Services de secours intervenus le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/27 📧 Attestation Pompier SAMU.md
 source: local
@@ -30,13 +30,13 @@ source: local
 <!-- /Breadcrumb -->
 
 # TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (POMPIER / SAMU)
-Objet : Attestation de témoin — Intervention du **[J+0 Accident]** au **[L'Adresse de l'Exploitation]**
+Objet : Attestation de témoin — Intervention du [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au [**[L'Adresse de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 ---
 
 Bonjour,
 
-Vous êtes intervenu(e) le **[J+0 Accident]** vers 15h00 au salon **Exploitant du Commerce** situé au **[L'Adresse de l'Exploitation]** pour porter secours à la victime d'un accident corporel (section tendineuse et nerveuse de la main droite).
+Vous êtes intervenu(e) le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) vers 15h00 au salon **Exploitant du Commerce** situé au [**[L'Adresse de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) pour porter secours à la victime d'un accident corporel (section tendineuse et nerveuse de la main droite).
 
 Je me permets de vous solliciter pour remplir une **attestation de témoin** (Cerfa n° 11527\*03) afin de décrire ce que vous avez constaté lors de votre intervention : la nature et la gravité de la blessure, le saignement abondant, l'état de la vasque en céramique, et toute information utile sur les circonstances.
 
@@ -60,8 +60,8 @@ Je vous remercie par avance de votre contribution.
 
 Cordialement,
 
-**[La Victime]**
-**[L'Email de la Victime]**
+[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+[**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 ---
 

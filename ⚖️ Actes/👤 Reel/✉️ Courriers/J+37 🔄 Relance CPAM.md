@@ -60,7 +60,7 @@ Un dossier de recours contre tiers a ete ouvert par vos services sous le numero 
 
 Je me permets de solliciter de vos services :
 
-**1. L'etat d'avancement du dossier RCT n° [N° Dossier CPAM]** <br>
+**1. L'etat d'avancement du [dossier RCT](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° [N° [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** <br>
 Je souhaiterais connaitre l'etat actuel de l'instruction de mon dossier et, le cas echeant, les prochaines etapes de la procedure.
 
 **2. L'identite de la gestionnaire en charge du dossier** <br>

@@ -38,7 +38,7 @@ Tribunal Judiciaire de Foix
 Le Procureur de la République
 
 RÉFÉRENCE PARQUET : [À compléter]
-RÉFÉRENCE PLAINTE : PV n°2026/015967
+RÉFÉRENCE PLAINTE : [PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)
 
 À l'attention de Monsieur le Doyen des Juges d'Instruction,
 Tribunal Judiciaire de Foix
@@ -46,7 +46,7 @@ Tribunal Judiciaire de Foix
 <hr><hr>
 
 ## I. PROBLÉMATIQUE ET EXPOSÉ DES FAITS
-Le Ministère Public a été saisi par la plainte, puis par la constitution de partie civile en date du 6 juillet 2026, déposées par Sébastien GRAZIDE à l'encontre de la SAS SAS LES MAUVAIS GARCONS, ainsi que de ses dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC.
+Le Ministère Public a été saisi par la plainte, puis par la [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) en date du 6 juillet 2026, déposées par Sébastien GRAZIDE à l'encontre de la SAS SAS LES MAUVAIS GARCONS, ainsi que de ses dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC.
 
 Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, Sébastien GRAZIDE, qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS SAS LES MAUVAIS GARCONS, sis 22 Rue Lafaurie, 09000 Foix, a été victime d'un grave accident corporel.
 
@@ -148,7 +148,7 @@ Par ces motifs,
 
 Vu les articles 222-20, 223-1, 121-2 et 121-3 du Code pénal ;
 Vu les articles 80 et suivants du Code de procédure pénale ;
-Vu la plainte et la constitution de partie civile de Sébastien GRAZIDE ;
+Vu la plainte et la [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) de Sébastien GRAZIDE ;
 
 Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 

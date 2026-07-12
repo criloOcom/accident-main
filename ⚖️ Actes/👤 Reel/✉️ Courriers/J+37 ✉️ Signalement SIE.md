@@ -60,7 +60,7 @@ Je porte par la presente a votre connaissance l'existence d'un litige en cours e
 
 Les procedures suivantes ont ete engagees :
 
-- Depot de plainte et constitution de partie civile (TJ de Foix)
+- Depot de plainte et [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (TJ de Foix)
 
 - Mises en demeure LRAR a la societe et a ses dirigeants (29 juin 2026)
 

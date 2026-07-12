@@ -173,6 +173,6 @@ Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Gén�
 
 Sébastien GRAZIDE
 
-> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
 > Cette situation de handicap physique temporaire explique le délai de transmission de mes demandes administratives.

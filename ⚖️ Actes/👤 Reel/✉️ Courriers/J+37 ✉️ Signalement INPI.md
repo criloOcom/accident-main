@@ -75,7 +75,7 @@ Les procedures suivantes ont ete engagees :
 
 **1. Procedure penale**
 - Depot de plainte le 1er juin 2026 (PV n° 2026/015967)
-- Constitution de partie civile transmise le 29 juin 2026
+- [Constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise le 29 juin 2026
 - Plainte complementaire pour defaut d'assurance RC professionnelle et travail dissimule presume
 
 **2. Mises en demeure LRAR** du 29 juin 2026

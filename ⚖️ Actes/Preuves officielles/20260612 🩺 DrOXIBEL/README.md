@@ -24,5 +24,6 @@ type: directory
 
 - **[Situation Main — Consultation de Suivi](20260612-1207%20SITUATION%20Main.md)** — Document de type document
 
+- **[20260612-xxxx ARRET Travail Prolongation DrOXIBEL](20260612-xxxx%20ARRET%20Travail%20Prolongation%20DrOXIBEL.md)**
 ---
 *README généré automatiquement le 11 juillet 2026*

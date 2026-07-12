@@ -1,6 +1,6 @@
 ---
 title: "Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)"
-description: "Ce plan analyse la possibilité juridique de demander au Maire de **[La Ville de l'Accident]** d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à **[L'Adresse de l'Exploitation]** , et définit la marche"
+description: "Ce plan analyse la possibilité juridique de demander au Maire de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à [**[L'Adresse de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) , et définit la marche"
 type: readme
 statut: brouillon
 reel_path: ../../👤 Reel/🗂️ Organisation/21 📋 Plan Constat Police Foix.md
@@ -16,7 +16,7 @@ reel_path: ../../👤 Reel/🗂️ Organisation/21 📋 Plan Constat Police Foix
 
 # Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)
 
-Ce plan analyse la possibilité juridique de demander au Maire de **[La Ville de l'Accident]** d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à **[L'Adresse de l'Exploitation]** , et définit la marche à suivre pour votre courrier de demain matin.
+Ce plan analyse la possibilité juridique de demander au Maire de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à [**[L'Adresse de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) , et définit la marche à suivre pour votre courrier de demain matin.
 
 <hr><hr>
 
@@ -25,7 +25,7 @@ Ce plan analyse la possibilité juridique de demander au Maire de **[La Ville de
 ### Peut-on demander à la police de faire le constat à la place d'un huissier ?
 
 *   **Oui, mais uniquement sous l'angle de la sécurité publique (Police Administrative)** : 
-    Le Maire de **[La Ville de l'Accident]** est responsable de la sécurité des Établissements Recevant du Public (ERP) sur sa commune ([art. L. 2212-2 du CGCT](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370)). En tant qu'autorité de police, il peut mandater la police municipale ou la commission de sécurité pour vérifier la conformité des installations d'un ERP.
+    Le Maire de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) est responsable de la sécurité des Établissements Recevant du Public (ERP) sur sa commune ([art. L. 2212-2 du CGCT](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370)). En tant qu'autorité de police, il peut mandater la police municipale ou la commission de sécurité pour vérifier la conformité des installations d'un ERP.
 *   **La limite majeure (Procédure Civile)** : 
     Un rapport de police municipale a une valeur administrative ou pénale, mais **n'a pas la force probante d'un constat de Commissaire de Justice (Huissier)** devant un tribunal civil pour l'indemnisation de vos préjudices. La police ne constatera pas pour votre compte le "nom de la nouvelle entreprise" ou les détails civils dans le but de vous aider à monter votre dossier de dommages-intérêts (ce n'est pas leur rôle légal).
 *   **La complémentarité des deux démarches** :
@@ -67,7 +67,7 @@ Face au péril grave et imminent de réitération d'un tel accident sur d'autres
 1. Mandater les agents de police municipale ou les services techniques de la mairie pour procéder à un contrôle sur place de la conformité des équipements de ce salon.
 2. Faire constater par vos agents l'identité de l'exploitant réel actuellement en exercice dans ces locaux (vérification de l'affichage obligatoire des mentions légales et du registre public d'accessibilité).
 
-Je me déplace personnellement à Foix la semaine prochaine pour rencontrer les services de police et déposer ma constitution de partie civile. Un constat officiel de la situation actuelle de ce commerce par vos services en amont est indispensable pour prévenir tout trouble à la sécurité publique.
+Je me déplace personnellement à Foix la semaine prochaine pour rencontrer les services de police et déposer ma [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md). Un constat officiel de la situation actuelle de ce commerce par vos services en amont est indispensable pour prévenir tout trouble à la sécurité publique.
 
 Je vous remercie de votre proactivité pour la sécurité de vos administrés.
 

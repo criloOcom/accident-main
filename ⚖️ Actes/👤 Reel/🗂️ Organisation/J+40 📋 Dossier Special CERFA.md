@@ -87,11 +87,11 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 2. Une copie du dépôt de plainte et du Procès-Verbal de police n° 2026/015967.
 
-3. Le certificat médical initial (CMI) constatant les blessures de Sébastien GRAZIDE.
+3. Le [certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (CMI) constatant les blessures de Sébastien GRAZIDE.
 
 4. Les certificats de prolongation et de reprise d'activité justifiant l'ITT.
 
-5. Le compte-rendu opératoire de microchirurgie rédigé par Dr Iskander DJERBI.
+5. Le [compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par Dr Iskander DJERBI.
 
 6. Les justificatifs de pertes de revenus (déclarations URSSAF / avis fiscaux de Sébastien GRAZIDE en tant qu'indépendant).
 

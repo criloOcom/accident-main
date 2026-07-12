@@ -63,7 +63,7 @@ CONTRE :
 
 3. Catherine ANDISSAC, Directrice Générale de SAS LES MAUVAIS GARCONS, prise en sa qualité de dirigeante de droit et personnellement.
 
-PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCIDENT]**
+PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE [**[LA VILLE DE L'ACCIDENT]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 <hr><hr>
 
@@ -86,7 +86,7 @@ Cet état de handicap temporaire sévère et documenté explique et justifie le 
 
 Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du 2 juin 2026) **(Pièce n°1)**. Un dossier de Recours contre Tiers a également été ouvert auprès de la CPAM sous la référence [ ... ] **(Pièce n°9)**.
 
-À ce jour, le cumul des arrêts de travail prescrits s'élève à 56 jours d'ITT continue (du 29 mai 2026 au 23 juillet 2026 inclus) **(Pièce n°4)**.
+À ce jour, le cumul des [arrêts de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) prescrits s'élève à 56 jours d'ITT continue (du 29 mai 2026 au 23 juillet 2026 inclus) **(Pièce n°4)**.
 
 <hr><hr>
 
@@ -233,7 +233,7 @@ La demande inclut implicitement une provision *ad litem* destinée à couvrir le
 
 **4. Absence de contestation sérieuse établie par les faits**
 
-Aucun élément versé aux débats ne permet de contester sérieusement ni la matérialité des faits (PV de police, pièce n°1), ni le lien de causalité direct entre le défaut d'entretien de la vasque en céramique et les lésions constatées (CR opératoire SOS Main, pièce n°3), ni l'existence de la relation commerciale (paiement Wero, pièce n°6). L'obligation à réparation de SAS LES MAUVAIS GARCONS n'est donc pas sérieusement contestable au sens de l'article 835 alinéa 2 du Code de procédure civile.
+Aucun élément versé aux débats ne permet de contester sérieusement ni la matérialité des faits (PV de police, pièce n°1), ni le lien de causalité direct entre le défaut d'entretien de la vasque en céramique et les lésions constatées ([CR opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) SOS Main, pièce n°3), ni l'existence de la relation commerciale (paiement Wero, pièce n°6). L'obligation à réparation de SAS LES MAUVAIS GARCONS n'est donc pas sérieusement contestable au sens de l'article 835 alinéa 2 du Code de procédure civile.
 
 **5. Jurisprudence**
 
@@ -337,9 +337,9 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 - **Pièce n°1 :** Procès-verbal de police n° 2026/015967 (Police Nationale Toulouse) — dépôt de plainte pour blessures involontaires
-- **Pièce n°2 :** Certificat médical initial constatant les blessures, rédigé par Dr Julie JARDON (29 mai 2026)
-- **Pièce n°3 :** Compte-rendu opératoire de microchirurgie rédigé par Dr Iskander DJERBI (30 mai 2026)
-- **Pièce n°4 :** Certificats médicaux d'arrêts de travail justifiant 56 jours d'ITT
+- **Pièce n°2 :** [Certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) constatant les blessures, rédigé par Dr Julie JARDON (29 mai 2026)
+- **Pièce n°3 :** [Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par Dr Iskander DJERBI (30 mai 2026)
+- **Pièce n°4 :** Certificats médicaux d'[arrêts de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 56 jours d'ITT
 - **Pièce n°5 :** Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
 - **Pièce n°6 :** Preuves de l'opération de paiement Wero de 15,00 € (29 mai 2026)
 - **Pièce n°7 :** Facture de pharmacie post-opératoire (29 mai 2026)

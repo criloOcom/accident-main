@@ -44,9 +44,9 @@ N'ayant aucun lien de parenté, d'alliance, de subordination, ni d'intérêt com
 
 Atteste sur l'honneur des faits suivants :
 
-[À compléter : En tant que membre des services de secours (Pompier / SAMU), si le texte suivant correspond à votre intervention du **[J+0 Accident]**, vous pouvez le recopier ou vous en inspirer. Sinon, décrivez librement les faits.]
+[À compléter : En tant que membre des services de secours (Pompier / SAMU), si le texte suivant correspond à votre intervention du [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels), vous pouvez le recopier ou vous en inspirer. Sinon, décrivez librement les faits.]
 
-"Je suis intervenu(e) le **[J+0 Accident]** au sein du salon de coiffure **[L'Exploitant du Commerce (La SAS)]**. À notre arrivée sur les lieux, nous avons pris en charge un individu, **[La Victime]**, qui présentait une blessure grave et un saignement abondant au niveau de la main droite. Un pansement compressif d'urgence a dû être mis en place pour stopper l'hémorragie. L'état de la victime a nécessité une prise en charge immédiate et son transport en urgence vers la structure médicale appropriée."
+"Je suis intervenu(e) le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein du salon de coiffure [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales). À notre arrivée sur les lieux, nous avons pris en charge un individu, [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), qui présentait une blessure grave et un saignement abondant au niveau de la main droite. Un pansement compressif d'urgence a dû être mis en place pour stopper l'hémorragie. L'état de la victime a nécessité une prise en charge immédiate et son transport en urgence vers la structure médicale appropriée."
 
 Conscient que cette attestation pourra être utilisée en justice et que toute fausse déclaration de ma part m'expose à des sanctions pénales.
 

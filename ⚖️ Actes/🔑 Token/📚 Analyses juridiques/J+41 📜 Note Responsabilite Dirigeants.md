@@ -1,6 +1,6 @@
 ---
 title: "Note Responsabilité Dirigeants Dissolution"
-description: "Dans l'hypothèse où **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** procèderaient à la dissolution ou à la radiation de **[L'Exploitant du Commerce (La SAS)]** afin d'échapper aux poursuites et à l'indemnisation"
+description: "Dans l'hypothèse où [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et [**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) procèderaient à la dissolution ou à la radiation de [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) afin d'échapper aux poursuites et à l'indemnisation"
 type: analyse_juridique
 date: 2026-07-09
 jx: J+41
@@ -34,7 +34,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/16 📜 Note Responsabilite 
 
 ## I. PROBLÉMATIQUE
 
-Dans l'hypothèse où **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** procèderaient à la dissolution ou à la radiation de **[L'Exploitant du Commerce (La SAS)]** afin d'échapper aux poursuites et à l'indemnisation de **[La Victime]**, leur responsabilité personnelle pourrait être engagée sur plusieurs fondements.
+Dans l'hypothèse où [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et [**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) procèderaient à la dissolution ou à la radiation de [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) afin d'échapper aux poursuites et à l'indemnisation de [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), leur responsabilité personnelle pourrait être engagée sur plusieurs fondements.
 
 La présente note analyse les trois voies de recours contre les dirigeants à titre personnel.
 
@@ -54,7 +54,7 @@ Cet article rend applicable aux dirigeants de SAS le régime de responsabilité 
 > « Lorsqu'une liquidation judiciaire d'une personne morale fait apparaître une insuffisance d'actif, le tribunal peut, en cas de faute de gestion ayant contribué à cette insuffisance d'actif, décider que le montant de cette insuffisance sera supporté, en tout ou partie, par tous les dirigeants de droit ou de fait, ou certains d'entre eux, ayant contribué à la faute de gestion. » <br>
 > **Code de commerce** [Article L.651-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025718687) <br>
 
-Si la SAS est placée en liquidation judiciaire et que les dirigeants ont organisé sa mise en sommeil ou sa dissolution avant d'avoir répondu de leurs dettes, la faute de gestion sera constituée. Le tribunal pourra mettre à leur charge personnelle l'insuffisance d'actif, c'est-à-dire le montant des dommages et intérêts dus à **[La Victime]** que la société ne peut couvrir.
+Si la SAS est placée en liquidation judiciaire et que les dirigeants ont organisé sa mise en sommeil ou sa dissolution avant d'avoir répondu de leurs dettes, la faute de gestion sera constituée. Le tribunal pourra mettre à leur charge personnelle l'insuffisance d'actif, c'est-à-dire le montant des dommages et intérêts dus à [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) que la société ne peut couvrir.
 
 ### C. Banqueroute par personne morale — Article L.654-6 C.com.
 
@@ -80,4 +80,4 @@ La jurisprudence constante de la Cour de cassation (Assemblée plénière, arrê
 | L.654-6 C.com. | Pénale | Dissimulation d'actifs | Emprisonnement + amende |
 | Faute détachable (SATI) | Civile | Faute d'une gravité exceptionnelle | Responsabilité personnelle |
 
-**Conclusion :** la disparition frauduleuse de la SAS engage à titre personnel **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**. Il est recommandé de les mettre en cause personnellement dès la phase de référé-provision et de les viser dans le signalement au Parquet.
+**Conclusion :** la disparition frauduleuse de la SAS engage à titre personnel [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et [**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques). Il est recommandé de les mettre en cause personnellement dès la phase de référé-provision et de les viser dans le signalement au Parquet.

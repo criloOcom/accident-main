@@ -32,13 +32,13 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/05 🎯 Conclusions Refere.m
 
 **POUR :**
 
-**[La Victime]**, né le 18 janvier 1982, de nationalité française, demeurant au **[L'Adresse de la Victime]**, exerçant la profession d'informaticien indépendant.
+[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), né le 18 janvier 1982, de nationalité française, demeurant au [**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), exerçant la profession d'informaticien indépendant.
 
 *Demandeur*
 
 **CONTRE :**
 
-**[L'Exploitant du Commerce (La SAS)]**, Société par Actions Simplifiée, immatriculée au RCS de **[La Ville de l'Accident]** sous le numéro SIRET **[L'Identifiant de l'Exploitation]**, ayant son siège social au **[L'Adresse de l'Exploitation]**, représentée par ses co-dirigeants **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**.
+[**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), Société par Actions Simplifiée, immatriculée au RCS de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) sous le numéro SIRET [**[L'Identifiant de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), ayant son siège social au [**[L'Adresse de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), représentée par ses co-dirigeants [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et [**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques).
 
 *Défenderesse*
 
@@ -46,11 +46,11 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/05 🎯 Conclusions Refere.m
 
 ## I. EXPOSÉ DU LITIGE
 ### A. LE SINISTRE ET SES CONSÉQUENCES MATÉRIELLES
-Le **29 mai 2026**, aux environs de 15 heures, **[La Victime]**, informaticien indépendant de 44 ans, se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
+Le **29 mai 2026**, aux environs de 15 heures, [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), informaticien indépendant de 44 ans, se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
 
 Le coiffeur préposé de la défenderesse, dans l'exercice de ses fonctions et agissant par nécessité de service, est monté sur la vasque en céramique d'un bac à shampoing installé à demeure pour régler un poste de télévision, **faute d'avoir à sa disposition un équipement d'accès en hauteur** (escabeau, échelle ou marchepied).
 
-Au cours de cette manipulation, la vasque a **basculé** brutalement et s'est brisée. Par réflexe de protection, **[La Victime]** a tendu sa main droite — sa main dominante — pour protéger le préposé.
+Au cours de cette manipulation, la vasque a **basculé** brutalement et s'est brisée. Par réflexe de protection, [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a tendu sa main droite — sa main dominante — pour protéger le préposé.
 
 Sa paume a heurté violemment le flanc de la vasque qui présentait depuis une date indéterminée une **cassure majeure préexistante**, non signalée, aux arêtes extrêmement tranchantes.
 
@@ -193,7 +193,7 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 
 **[Ville]**, le **[date]**
 
-**[La Victime]**
+[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
 
 ---
 

@@ -14,3 +14,13 @@
 - [Note Conservation Preuves Numeriques.md](Note Conservation Preuves Numeriques.md)
 - [Note Mesures Conservatoires.md](Note Mesures Conservatoires.md)
 - [Note qualification penale disparition SAS.md](Note qualification penale disparition SAS.md)
+
+- [J+32 ❓ FAQ Juridique](J+32%20❓%20FAQ%20Juridique.md)
+- [J+32 🎤 Plaidoirie Responsabilite Dirigeants](J+32%20🎤%20Plaidoirie%20Responsabilite%20Dirigeants.md)
+- [J+32 📜 Analyse Responsabilites Legales](J+32%20📜%20Analyse%20Responsabilites%20Legales.md)
+- [J+40 📜 Note Droit Assurances](J+40%20📜%20Note%20Droit%20Assurances.md)
+- [J+41 📜 Note Responsabilite Dirigeants](J+41%20📜%20Note%20Responsabilite%20Dirigeants.md)
+- [J+42 📜 Audit RNE NPAI SAS](J+42%20📜%20Audit%20RNE%20NPAI%20SAS.md)
+- [J+47 🛡️ Memo Strategie Admin Penal](J+47%20🛡️%20Memo%20Strategie%20Admin%20Penal.md)
+- [J+47 🛡️ Tableau Defense Reponse](J+47%20🛡️%20Tableau%20Defense%20Reponse.md)
+- [J+60 📁 Dossier Plaidoirie Refere](J+60%20📁%20Dossier%20Plaidoirie%20Refere.md)

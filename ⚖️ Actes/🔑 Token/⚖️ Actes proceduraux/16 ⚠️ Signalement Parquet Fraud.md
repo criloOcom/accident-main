@@ -41,13 +41,13 @@ J'ai l'honneur de porter à votre connaissance les faits suivants, conformément
 > **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.** <br>
 > [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) <br>
 
-J'ai été informé que la SAS **[L'Exploitant du Commerce (La SAS)]**, immatriculée au Registre du Commerce et des Sociétés et dont le siège social est situé à **[L'Adresse de l'Exploitation]**, pourrait avoir cessé son activité.
+J'ai été informé que la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), immatriculée au Registre du Commerce et des Sociétés et dont le siège social est situé à [**[L'Adresse de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), pourrait avoir cessé son activité.
 
-Il a été porté à mon attention qu'une nouvelle structure pourrait avoir ouvert ses portes et commencé à exploiter une activité commerciale à cette même adresse, soit à **[L'Adresse de l'Exploitation]**.
+Il a été porté à mon attention qu'une nouvelle structure pourrait avoir ouvert ses portes et commencé à exploiter une activité commerciale à cette même adresse, soit à [**[L'Adresse de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
 
-Ces agissements s'inscrivent dans un contexte où la SAS **[L'Exploitant du Commerce (La SAS)]** et ses dirigeants, **[Le Président de l'Exploitation]** (Président) et **[La Directrice Générale de l'Exploitation]** (Directrice Générale), font actuellement l'objet de poursuites judiciaires suite à un grave accident corporel dont a été victime **[La Victime]** le 29 mai 2026.
+Ces agissements s'inscrivent dans un contexte où la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) et ses dirigeants, [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (Président) et [**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (Directrice Générale), font actuellement l'objet de poursuites judiciaires suite à un grave accident corporel dont a été victime [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) le 29 mai 2026.
 
-La concomitance de cette potentielle cessation d'activité et de la création d'une nouvelle structure à la même adresse, alors qu'une action en responsabilité est en cours à l'encontre de **[L'Exploitant du Commerce (La SAS)]**, pris en la personne de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, et personnellement contre ces derniers, soulève de sérieux doutes quant à la probité de cette opération.
+La concomitance de cette potentielle cessation d'activité et de la création d'une nouvelle structure à la même adresse, alors qu'une action en responsabilité est en cours à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), pris en la personne de ses dirigeants, [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et [**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), et personnellement contre ces derniers, soulève de sérieux doutes quant à la probité de cette opération.
 
 <hr>
 
@@ -74,11 +74,11 @@ Ces agissements, s'ils étaient confirmés, pourraient recevoir la qualification
 
 ### III. DEMANDES
 
-Au regard de la gravité de ces faits, qui semblent orchestrés dans le but manifeste d'échapper à d'éventuelles condamnations indemnitaires au préjudice de **[La Victime]**, je vous prie de bien vouloir faire diligenter toute enquête utile afin :
+Au regard de la gravité de ces faits, qui semblent orchestrés dans le but manifeste d'échapper à d'éventuelles condamnations indemnitaires au préjudice de [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), je vous prie de bien vouloir faire diligenter toute enquête utile afin :
 
-- De vérifier la réalité de la cessation d'activité de la SAS **[L'Exploitant du Commerce (La SAS)]**.
+- De vérifier la réalité de la cessation d'activité de la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales).
 
-- D'identifier la nouvelle structure opérant à **[L'Adresse de l'Exploitation]** et de déterminer les liens éventuels avec les dirigeants de la SAS **[L'Exploitant du Commerce (La SAS)]**.
+- D'identifier la nouvelle structure opérant à [**[L'Adresse de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) et de déterminer les liens éventuels avec les dirigeants de la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales).
 
 - D'établir, le cas échéant, l'intention frauduleuse et de procéder aux poursuites qui s'imposent.
 
@@ -86,7 +86,7 @@ Je me tiens à votre entière disposition pour tout renseignement complémentair
 
 Je vous prie de croire, Monsieur le Procureur de la République, en l'assurance de ma très haute considération.
 
-Fait à **[La Ville de l'Accident]**, le [Date].
+Fait à [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [Date].
 
-**[Nom de l'Avocat de la Victime]**
-Avocat de **[La Victime]**
+[**[Nom de l'Avocat de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+Avocat de [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)

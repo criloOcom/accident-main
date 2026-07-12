@@ -25,5 +25,6 @@ type: directory
 - **[Note Médicale — Docteur OXYBEL](20260601-1105%20NOTE%20DrOXYBEL.md)** — Document de type document
 - **[Certificat Médical Initial — Docteur OXYBEL](20260601-1115%20CERTIFICAT%20medical%20DrOXYBEL.md)** — Document de type document
 
+- **[20260601-1115 ARRET Travail Volet1 DrOXYBEL](20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)**
 ---
 *README généré automatiquement le 11 juillet 2026*

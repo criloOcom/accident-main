@@ -1,6 +1,6 @@
 ---
 title: "Index de l'État Final du Dossier"
-description: "Rédigé le 30 juin 2026 — Mis à jour le **[J+38 Mise à jour]** (unification bordereau 43 pièces)"
+description: "Rédigé le 30 juin 2026 — Mis à jour le [**[J+38 Mise à jour]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) (unification bordereau 43 pièces)"
 type: readme
 date: 2026-07-07
 jx: J+39
@@ -23,9 +23,9 @@ drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › 00 📇 Index
 <!-- /Breadcrumb -->
 
-# INDEX DU DOSSIER **[LA VICTIME]**
+# INDEX DU DOSSIER [**[LA VICTIME]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
 > 🔗 Source Google Drive : [1Zp-JK9kz0V0…](https://drive.google.com/open?id=1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU)
-Rédigé le 30 juin 2026 — Mis à jour le **[J+38 Mise à jour]** (unification bordereau 43 pièces)
+Rédigé le 30 juin 2026 — Mis à jour le [**[J+38 Mise à jour]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) (unification bordereau 43 pièces)
 
 ## INTRODUCTION
 *Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire Sébastien GRAZIDE c/ SAS LES MAUVAIS GARCONS, à la suite de l'accident corporel grave survenu le 29 mai 2026. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du 30 juin 2026 et reflète l'état final de la composition du dossier.*
@@ -41,10 +41,10 @@ Partage depuis : sebastien.grazide@gmail.com
 ## 00 — PREUVES OFFICIELLES
 *(Documents physiques — dossier `📂 Preuves officielles/` en attente d'insertion)*
 
-- 2026-05-30 - CR opératoire ✓ Vérifié : Compte rendu opératoire du Dr Iskander DJERBI (microchirurgie 30 mai 2026).
+- 2026-05-30 - [CR opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) ✓ Vérifié : Compte rendu opératoire du Dr Iskander DJERBI (microchirurgie 30 mai 2026).
 - 2026-06-01 - Dossier plainte ✓ Vérifié : Copie complète de la plainte officielle déposée au commissariat.
 - 2026-06-02 - PV Police ✓ Vérifié : Procès-verbal de constat n°[ ...].
-- 2026-06-19 - CR opératoire Dr Iskander DJERBI ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
+- 2026-06-19 - [CR opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) Dr Iskander DJERBI ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
 - 2026-06-29 - Forensic Evidence File ✓ Vérifié : Dossier de preuves numériques et médicales.
 
 <hr><hr>
@@ -86,7 +86,7 @@ Partage depuis : sebastien.grazide@gmail.com
 - 2026-07-05 - 18 ✉️ Courrier SDIS - V1 ✓ Vérifié : Signalement sécurité ERP.
 - 2026-07-05 - 19 ✉️ Courrier FGTI - V1 ✓ Vérifié : Information conservatoire (LRAR + email).
 - 2026-07-05 - 20 🔄 Relance Police - V1 ✓ Vérifié : Suivi plainte + demande vidéos.
-- 2026-07-05 - 21 🔄 Relance CPAM - V1 ✓ Vérifié : Suivi dossier RCT 31727387.
+- 2026-07-05 - 21 🔄 Relance CPAM - V1 ✓ Vérifié : Suivi [dossier RCT](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) 31727387.
 - 2026-07-05 - J+32 📋 Attestation Temoin Client - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
 - 2026-07-05 - 23 📋 Attestation Pompier SAMU - V1 ✓ Vérifié : Gabarit d'attestation d'intervention.
 - 2026-07-05 - J+32 📋 Attestation Employe - V1 ✓ Vérifié : Gabarit d'attestation d'employé.

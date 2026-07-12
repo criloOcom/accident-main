@@ -40,7 +40,7 @@ sebastien.grazide@gmail.com
 A l'attention de Monsieur le President du Tribunal Judiciaire de Foix <br>
 Cabinet du Juge des Referes
 
-Foix, le **[J+37 Requête 145]**
+Foix, le [**[J+37 Requête 145]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
 
 ## INTRODUCTION
 La presente requete est introduite par Sébastien GRAZIDE sur le fondement de l'Article 145 du Code de procedure civile.
@@ -194,14 +194,14 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 
 <hr>
 
-Fait a Foix, le **[J+37 Requête 145]**.
+Fait a Foix, le [**[J+37 Requête 145]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels).
 
 Sébastien GRAZIDE
 
 ## BORDEREAU DE PIÈCES ANNEXÉES
 1. Pièce n°1 : Copie du procès-verbal de police n°2026/015967 établi par le Commissariat de [La Ville de l'Accident]
-2. Pièce n°2 : Certificat médical initial du Dr Julie JARDON (SMUR 09) en date du 29 mai 2026
-3. Pièce n°3 : Compte-rendu opératoire du Dr Iskander DJERBI (SOS Main) en date du 30 mai 2026
+2. Pièce n°2 : [Certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du Dr Julie JARDON (SMUR 09) en date du 29 mai 2026
+3. Pièce n°3 : [Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) du Dr Iskander DJERBI (SOS Main) en date du 30 mai 2026
 4. Pièce n°4 : Facture de pharmacie post-opératoire (29 mai 2026)
 5. Pièce n°5 : Facture de chirurgie SOS Main (790,23 €) (10 juin 2026)
 6. Pièce n°6 : Preuve de paiement par virement instantané de 15,00 € (et remboursement ultérieur) témoignant de la présence de la victime sur les lieux

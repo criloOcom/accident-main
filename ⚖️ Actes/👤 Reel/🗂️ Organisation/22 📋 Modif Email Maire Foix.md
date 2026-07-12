@@ -51,7 +51,7 @@ Je tiens à vous apporter des nouvelles de mon état de santé : suite à la mic
 Habitant à Blagnac, je constate que les courriers recommandés adressés à SAS LES MAUVAIS GARCONS à l'adresse de son siège social (22 Rue Lafaurie, 09000 Foix) me sont retournés avec la mention NPAI. Pourtant, le commerce semble avoir rouvert ses portes et être en activité régulière.
 
 Dans ce contexte, et afin d'assurer la sécurité publique au sein de cet établissement recevant du public (ERP), je sollicite l'intervention de vos services de police municipale afin que des agents assermentés puissent se rendre sur place pour procéder à des vérifications indispensables :
-1. Identifier précisément la structure juridique et l'identité de l'exploitant physique actuellement en activité dans les locaux (contrôle de l'affichage légal obligatoire, extrait Kbis).
+1. Identifier précisément la structure juridique et l'identité de l'exploitant physique actuellement en activité dans les locaux (contrôle de l'affichage légal obligatoire, [extrait Kbis](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)).
 2. Vérifier si les installations litigieuses ayant causé l'accident (notamment la vasque en céramique présentant une cassure préexistante) sont toujours présentes sur les lieux ou si des mesures de mise en conformité et de sécurité ont été effectivement réalisées.
 3. Obtenir des éléments sur le respect des obligations de déclaration de ce sinistre auprès de leur assurance de responsabilité civile.
 

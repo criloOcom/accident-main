@@ -117,7 +117,7 @@ En cas de blocage sur l'identité de l'assureur, [Article 145 du Code de procéd
 
 ## III. INVENTAIRE DES PIÈCES
 ### A. PREUVES MÉDICALES ET ADMINISTRATIVES
-Le dossier comprend les comptes rendus opératoires du Dr Iskander DJERBI, les certificats médicaux initiaux, les avis d'arrêt de travail et la note de synthèse médico-légale. Le dossier CPAM "Recours contre Tiers" n° [ ... ] est également ouvert.
+Le dossier comprend les comptes rendus opératoires du Dr Iskander DJERBI, les certificats médicaux initiaux, les avis d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et la note de synthèse médico-légale. Le [dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) "Recours contre Tiers" n° [ ... ] est également ouvert.
 
 ### B. PREUVES MATÉRIELLES ET TÉMOIGNAGES
 Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel défectueux, les photos de l'accident et les témoignages des clients et employés présents.
@@ -125,12 +125,12 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 <hr>
 
 ## IV. CONTACTS ET ANNUAIRES
-## AUTORITÉS JUDICIAIRES ET POLICIÈRES À **[LA VILLE DE L'ACCIDENT]**
-- Tribunal Judiciaire : **[Adresse Tribunal Judiciaire]** (**[Téléphone Tribunal Judiciaire]**) / Commissariat : **[Adresse Commissariat]** (**[Téléphone Commissariat]**).
+## AUTORITÉS JUDICIAIRES ET POLICIÈRES À [**[LA VILLE DE L'ACCIDENT]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+- Tribunal Judiciaire : [**[Adresse Tribunal Judiciaire]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) ([**[Téléphone Tribunal Judiciaire]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / Commissariat : **[Adresse Commissariat]** ([**[Téléphone Commissariat]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)).
 
 ## SERVICES JURIDIQUES ET DE SANTÉ
-- Ordre des Avocats de Foix (**[Téléphone Ordre Avocats]**) / Huissiers : Étude d'Huissiers **[Nom Huissier]** (**[Téléphone Huissier]**) / UMJ de Toulouse.
+- Ordre des Avocats de Foix ([**[Téléphone Ordre Avocats]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / Huissiers : Étude d'Huissiers **[Nom Huissier]** ([**[Téléphone Huissier]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / UMJ de Toulouse.
 
 **Note administrative :** Dès le 15 juillet 2026 (le lendemain de la fin du délai amiable de mise en demeure), délivrance immédiate de l'assignation en référé par commissaire de justice, matérialisant la fin de la phase comminatoire amiable.
 
-*Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la prolongation involontaire de certaines démarches.*
+*Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la prolongation involontaire de certaines démarches.*

@@ -28,7 +28,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/41 ✉️ Relance Prefecture CODAF -
 
 ---
 
-**Expéditeur :** **[La Victime]** — **[L'Adresse de la Victime]**
+**Expéditeur :** [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) — [**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 **Destinataire :** Monsieur le Préfet de l'Ariège — Référent CODAF — Préfecture de l'Ariège, 2 Rue de la Préfecture, 09000 Foix
 **Date :** [Date d'envoi — À compléter avant impression]
 **Objet :** Suivi du signalement transmis par la Mairie de Foix — Salon « LES MAUVAIS GARÇONS » (22 Rue Lafaurie, 09000 Foix)
@@ -53,12 +53,12 @@ Le cas échéant, je me tiens à votre disposition pour vous transmettre toute p
 
 Je vous remercie de l'attention portée à la présente et vous prie d'agréer, Monsieur le Préfet, l'expression de ma considération distinguée.
 
-**[La Victime]**
+[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
 
 ---
 
 ### Pièces jointes suggérées
 - Copie du courriel de M. Tavella (1er juin 2026)
 - PV initial n°2026/015967
-- Certificat médical initial / compte-rendu opératoire
+- [Certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) / [compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)
 - Attestation sur l'honneur des faits

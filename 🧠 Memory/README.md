@@ -44,6 +44,9 @@ graph TD
 - **TODO.md** - Liste des tâches et roadmap
 - **WORKFLOW.md** - Processus et workflows du projet
 
+- **[GESTIONNAIRE_DOC](GESTIONNAIRE_DOC.md)**
+- **[📆 Mini Calendrier Procedure](📆%20Mini%20Calendrier%20Procedure.md)**
+- **[📋 Fiche Suivi Démarches Administratives](📋%20Fiche%20Suivi%20Démarches%20Administratives.md)**
 ### Documentation Technique
 
 - **[RAPPORT_JURISPRUDENCES.md](../📊%20Rapports/🗄️%20Archives/audit/RAPPORT_JURISPRUDENCES.md)** - Analyse des jurisprudences citées

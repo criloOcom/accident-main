@@ -33,9 +33,9 @@ drive_id: 1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY
 
 # SIGNALEMENT OFFICIEL AU COMITE DEPARTEMENTAL ANTI-FRAUDE DE L'ARIEGE
 > 🔗 Source Google Drive : [1Lva-hW9g9d6…](https://drive.google.com/open?id=1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY)
-**[L'Adresse de la Victime]**
+[**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-Courriel : **[L'Email de la Victime]**
+Courriel : [**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 **CODAF de l'Ariege**
 Prefécture de l'Ariège
@@ -43,16 +43,16 @@ Prefécture de l'Ariège
 BP 40087
 09007 Foix Cedex
 
-**[La Ville de l'Accident]**, le 11 juillet 2026
+[**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le 11 juillet 2026
 
-Objet : Signalement officiel de manquements et demandes d'enquete — SAS **[L'Exploitant du Commerce (La SAS)]**
+Objet : Signalement officiel de manquements et demandes d'enquete — SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)
 
-Ref : SIREN **[SIREN de l'Exploitation]** — Signalement Mairie de **[La Ville de l'Accident]** du 1er juin 2026
+Ref : SIREN [**[SIREN de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — Signalement Mairie de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) du 1er juin 2026
 
 Madame, Monsieur le President du CODAF,
 
 ## INTRODUCTION
-La presente est adressee au CODAF de l'Ariege par **[La Victime]**, victime d'un accident corporel grave survenu le **[J+0 Accident]** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]**, immatriculee sous le SIREN **[SIREN de l'Exploitation]**.
+La presente est adressee au CODAF de l'Ariege par [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), immatriculee sous le SIREN [**[SIREN de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
@@ -67,7 +67,7 @@ Sa chute a entraine sur ma main droite une plaie palmaire profonde avec lesions 
 <hr>
 
 ## I — RAPPEL DES FAITS
-La SAS **[L'Exploitant du Commerce (La SAS)]** a ete immatriculee le 1er juin 2024 avec un capital de 200 €. Selon les informations publiques disponibles, elle ne declare aucun salarie. Pourtant, le **[J+0 Accident]**, un prepose exerçait une activite de coiffure dans l'etablissement.
+La SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) a ete immatriculee le 1er juin 2024 avec un capital de 200 €. Selon les informations publiques disponibles, elle ne declare aucun salarie. Pourtant, le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels), un prepose exerçait une activite de coiffure dans l'etablissement.
 
 L'accident est survenu dans les conditions suivantes :
 - Le prepose est monte sur le bac a shampoing pour acceder au poste de television, en l'absence d'escabeau
@@ -109,7 +109,7 @@ Les manquements suivants sont susceptibles de relever de la competence du CODAF 
 **4. Fraude potentielle aux declarations**
 - Capital social de 200 € pour une activite commerciale
 - Possibilite de sous-capitalisation volontaire pour limiter la responsabilite
-- Dissociation entre siege social (**[La Ville de l'Accident]**) et domiciliation des dirigeants (**[La Ville de l'Accident]** et **[La Métropole Régionale]**)
+- Dissociation entre siege social ([**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) et domiciliation des dirigeants ([**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) et [**[La Métropole Régionale]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes))
 
 <hr>
 
@@ -123,15 +123,15 @@ Je sollicite du CODAF qu'une enquete soit diligentee afin de verifier l'ensemble
 <hr>
 
 ## PIECES JOINTES
-- Copie du PV n°2026/015967 (procedure penale)
+- Copie du [PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procedure penale)
 - Accuses de reception des courriers recommandes retournes (29 juin 2026 — mentions NPAI)
-- Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]** (**[SIREN de l'Exploitation]**)
+- [[Extrait Kbis](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) ([**[SIREN de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes))
 - Dossier medical complet (11 pieces)
 
 Je vous remercie de bien vouloir me faire parvenir un accuse de reception ecrit de la presente, ainsi qu'une response dans un delai de 15 jours.
 
-Mes coordonnees pour reponse : **[L'Adresse de la Victime]** — Courriel : **[L'Email de la Victime]**
+Mes coordonnees pour reponse : [**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — Courriel : [**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le President, l'expression de ma consideration distinguee.
 
-**[La Victime]**
+[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)

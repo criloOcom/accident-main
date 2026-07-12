@@ -43,15 +43,15 @@ source: drive
 
 ### Pièce n° 2
 
-- 29 mai 2026 16h30** — Certificat médical initial (Dr Julie JARDON, Centre Ariégeois de Soins Immédiats) : Exploration de plaie palmaire profonde, lavage et désinfection sous anesthésie locale. Référence d'urgence chirurgicale.
+- 29 mai 2026 16h30** — [Certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (Dr Julie JARDON, Centre Ariégeois de Soins Immédiats) : Exploration de plaie palmaire profonde, lavage et désinfection sous anesthésie locale. Référence d'urgence chirurgicale.
 
 ### Pièce n° 3
 
-- 30 mai 2026 — Compte rendu opératoire (Dr Iskander DJERBI, SOS Main Clinique de l'Union) : Suture du tendon fléchisseur superficiel index droit (6 brins), suture des paquets collatéraux, neurolyse du nerf palmaire. Dossier CPAM n° 31727387.
+- 30 mai 2026 — Compte rendu opératoire (Dr Iskander DJERBI, SOS Main Clinique de l'Union) : Suture du tendon fléchisseur superficiel index droit (6 brins), suture des paquets collatéraux, neurolyse du nerf palmaire. [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° 31727387.
 
 ### Pièce n° 4
 
-- 1 juin 2026 au 23 juillet 2026 — Arrêts de travail et prolongations (Dr Oxybel, Dr Oxybel) : ITT totale de 56 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 30 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.
+- 1 juin 2026 au 23 juillet 2026 — [Arrêts de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et prolongations (Dr Oxybel, Dr Oxybel) : ITT totale de 56 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 30 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.
 
 ### Pièce n° 5
 
@@ -76,7 +76,7 @@ source: drive
 
 ### Pièce n° 9
 
-- 3 juin 2026 — Dossier Recours Contre Tiers CPAM n° 31727387 (CPAM de la Haute-Garonne) : Ouverture du dossier RCT suite au signalement sur Ameli. Active la subrogation de l'assurance maladie pour récupération des débours (frais d'hospitalisation, soins, indemnités).
+- 3 juin 2026 — Dossier Recours Contre Tiers CPAM n° 31727387 (CPAM de la Haute-Garonne) : Ouverture du [dossier RCT](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) suite au signalement sur Ameli. Active la subrogation de l'assurance maladie pour récupération des débours (frais d'hospitalisation, soins, indemnités).
 
 ---
 
@@ -156,8 +156,8 @@ source: drive
 
 ### Pièce n° 25
 
-- 5 juillet 2026 — Relance CPAM : Suivi du dossier RCT n° 31727387 et demande de mise à jour. Email envoyé.
+- 5 juillet 2026 — Relance CPAM : Suivi du [dossier RCT n° 31727387](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) et demande de mise à jour. Email envoyé.
 
 ---
 
-> *Document mis à jour le **[J+38 Mise à jour]** — Les pièces sont classées par groupe thématique, numérotation séquentielle. Les pièces marquées Gabarit sont à faire remplir par les témoins.*
+> *Document mis à jour le [**[J+38 Mise à jour]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) — Les pièces sont classées par groupe thématique, numérotation séquentielle. Les pièces marquées Gabarit sont à faire remplir par les témoins.*
