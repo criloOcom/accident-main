@@ -15,13 +15,6 @@ source: drive
 drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 ---
 
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › 00 📇 Index
 <!-- /Breadcrumb -->
@@ -134,34 +127,34 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 <hr><hr>
 
 ## MÉMOIRES D'AUDIT
-- AUDIT_DATES.md ✓ Vérifié : Audit de la chronologie des faits.
-- AUDIT_MONTANTS.md ✓ Vérifié : Audit des calculs d'indemnisation.
-- AUDIT_NOMS_RESIDUELS.md ✓ Vérifié : Vérification de l'anonymisation.
-- AUDIT_COHERENCE_TRANSVERSALE.md ✓ Vérifié : Audit de la cohérence entre les documents.
-- AUDIT_ASSIGNATION_145.md ✓ Vérifié : Audit du projet d'assignation.
-- EVIDENCE_MATRIX.md ✓ Vérifié : Matrice des preuves.
-- PLAN_ACTION_B.md ✓ Vérifié : Plan d'action alternatif.
-- STATS_DOSSIER.md ✓ Vérifié : Statistiques détaillées du dossier.
-- RAPPORT_CONSISTENCY.md ✓ Vérifié : Rapport du script de cohérence.
-- RAPPORT_INDEX.md ✓ Vérifié : Rapport d'indexation.
-- SYNCHRO_TOKENS.md ✓ Vérifié : État de la synchronisation des tokens.
-- TOKEN MAP.md ✓ Vérifié : Table de correspondance des tokens.
-- STRICT VARIABLES.md ✓ Vérifié : Variables et faits inaltérables.
-- PIECES MAP.md ✓ Vérifié : Correspondance documents et pièces.
+- [AUDIT_DATES.md](../📊%20Rapports/🗄️%20Archives/audit/AUDIT_DATES.md) ✓ Vérifié : Audit de la chronologie des faits.
+- [AUDIT_MONTANTS.md](../📊%20Rapports/🗄️%20Archives/audit/AUDIT_MONTANTS.md) ✓ Vérifié : Audit des calculs d'indemnisation.
+- [AUDIT_NOMS_RESIDUELS.md](../📊%20Rapports/🗄️%20Archives/audit/AUDIT_NOMS_RESIDUELS.md) ✓ Vérifié : Vérification de l'anonymisation.
+- [AUDIT_COHERENCE_TRANSVERSALE.md](../📊%20Rapports/🗄️%20Archives/audit/AUDIT_COHERENCE_TRANSVERSALE.md) ✓ Vérifié : Audit de la cohérence entre les documents.
+- [AUDIT_ASSIGNATION_145.md](../📊%20Rapports/🗄️%20Archives/audit/AUDIT_ASSIGNATION_145.md) ✓ Vérifié : Audit du projet d'assignation.
+- [EVIDENCE_MATRIX.md](../📊%20Rapports/🗄️%20Archives/audit/EVIDENCE_MATRIX.md) ✓ Vérifié : Matrice des preuves.
+- [PLAN_ACTION_B.md](../📊%20Rapports/🗄️%20Archives/audit/PLAN_ACTION_B.md) ✓ Vérifié : Plan d'action alternatif.
+- [STATS_DOSSIER.md](../📊%20Rapports/🗄️%20Archives/audit/STATS_DOSSIER.md) ✓ Vérifié : Statistiques détaillées du dossier.
+- [RAPPORT_CONSISTENCY.md](../📊%20Rapports/🗄️%20Archives/audit/RAPPORT_CONSISTENCY.md) ✓ Vérifié : Rapport du script de cohérence.
+- [RAPPORT_INDEX.md](../📊%20Rapports/🗄️%20Archives/audit/RAPPORT_INDEX.md) ✓ Vérifié : Rapport d'indexation.
+- [SYNCHRO_TOKENS.md](../📊%20Rapports/🗄️%20Archives/audit/SYNCHRO_TOKENS.md) ✓ Vérifié : État de la synchronisation des tokens.
+- [TOKEN MAP.md](../../🧠%20Memory/TOKEN%20MAP.md) ✓ Vérifié : Table de correspondance des tokens.
+- [STRICT VARIABLES.md](../../🧠%20Memory/STRICT%20VARIABLES.md) ✓ Vérifié : Variables et faits inaltérables.
+- [PIECES MAP.md](../../🧠%20Memory/PIECES%20MAP.md) ✓ Vérifié : Correspondance documents et pièces.
 
 <hr><hr>
 
 ## ARCHIVES
 Documents non indexés conservés dans `archives/` :
 
-- `archives/annexes/` — 📚 📚 ANNEXE A Lexique Tokens, ⚖️ ⚖️ ANNEXE B Lois Jurisprudence, 📑 📑 ANNEXE C Pieces
-- `archives/🛡️ Constitution Partie Civile.md`
-- `archives/⚡ ActionDirecte AssureurRC.md`
-- `archives/🔧 ANALYSE correction juridique.md`
-- `archives/📚 ANALYSE Jurisprudence.md`
-- `archives/🧠 STRATEGIE Contentieux Civil.md`
-- `archives/🧠 STRATEGIE Contentieux Penal.md`
-- `archives/📁 Dossier Presentation.md`
+- [archives/annexes/](archives/annexes/README.md) — [📚 ANNEXE A Lexique Tokens](archives/annexes/📚%20ANNEXE%20A%20Lexique%20Tokens.md), [⚖️ ANNEXE B Lois Jurisprudence](archives/annexes/⚖️%20ANNEXE%20B%20Lois%20Jurisprudence.md), [📑 ANNEXE C Pièces](archives/annexes/📑%20ANNEXE%20C%20Pièces.md)
+- [archives/🛡️ Constitution Partie Civile.md](archives/🛡️%20Constitution%20Partie%20Civile.md)
+- [archives/⚡ ActionDirecte AssureurRC.md](archives/⚡%20ActionDirecte%20AssureurRC.md)
+- [archives/🔧 ANALYSE correction juridique.md](archives/🔧%20ANALYSE%20correction%20juridique.md)
+- [archives/📚 ANALYSE Jurisprudence.md](archives/📚%20ANALYSE%20Jurisprudence.md)
+- [archives/🧠 STRATEGIE Contentieux Civil.md](archives/🧠%20STRATEGIE%20Contentieux%20Civil.md)
+- [archives/🧠 STRATEGIE Contentieux Penal.md](archives/🧠%20STRATEGIE%20Contentieux%20Penal.md)
+- [archives/📁 Dossier Presentation.md](archives/📁%20Dossier%20Presentation.md)
 
 <hr><hr>
 
@@ -186,30 +179,32 @@ Documents non indexés conservés dans `archives/` :
 <hr><hr>
 
 ## RÉFÉRENCES JURISPRUDENTIELLES
-- [Arrêt Costedoat : Ass. Plén., 25 février 2000, n° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704) ✓
+
+- [Arrêt Costedoat : Ass. Plén., 25 février 2000, n° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)
 > Attendu : « N'engage pas sa responsabilité civile à l'égard des tiers le préposé qui agit dans les limites de la mission à lui impartie par son commettant. »
 > Résumé : Le salarié agissant dans le cadre de ses fonctions professionnelles bénéficie d'une immunité civile de principe. Seul l'employeur (commettant) est responsable des dommages causés aux tiers.
 
-- [Arrêt Cousin : Ass. Plén., 14 décembre 2001, n° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351) ✓
+- [Arrêt Cousin : Ass. Plén., 14 décembre 2001, n° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351)
 > Attendu : « Le préposé qui agit dans les limites de la mission qui lui a été impartie n'engage sa responsabilité personnelle à l'égard des tiers que s'il a commis une faute pénale intentionnelle. »
 > Résumé : Le salarié commettant une infraction pénale intentionnelle perd son immunité de préposé (dite jurisprudence Costedoat) et engage sa responsabilité civile personnelle solidairement avec l'employeur.
 
-- Arrêt SATI : [Cass. Com., 20 mai 2003, n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ✓
+- [Arrêt SATI : Cass. Com., 20 mai 2003, n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 > Attendu : « La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »
 > Résumé : Le dirigeant qui commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions engage sa responsabilité personnelle. Application au cas de dirigeant qui trompe délibérément un cocontractant sur la solvabilité de la société.
 
-- [Cass. Crim., 27 mai 2014, n° 13-80.849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029014493) ✓
+- [Cass. Crim., 27 mai 2014, n° 13-80.849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029014493)
 > Attendu : « Les personnes morales sont responsables pénalement des infractions commises pour leur compte par leurs organes ou représentants, y compris par le biais de délégations de pouvoirs. »
 > Résumé : Les infractions commises par les salariés ou préposés dans l'exercice de leurs fonctions engagent la responsabilité pénale de la personne morale s'ils ont agi pour le compte de cette dernière.
 
-- [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ✓
+- [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
 > Attendu : « L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. »
 > Résumé : L'indemnisation au titre de l'incidence professionnelle est cumulable avec la perte de gains professionnels futurs et répare la dévalorisation sur le marché de l'emploi et l'exclusion sociale qui en découlent.
 
-- [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) ✓
+- [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
+> Attendu : À VÉRIFIER — texte de l'arrêt à confirmer depuis Légifrance (JURITEXT000043489943).
+> Résumé : À VÉRIFIER.
 
-  
-- [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) ✓
+- [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
 > Attendu : « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »
 > Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
 
