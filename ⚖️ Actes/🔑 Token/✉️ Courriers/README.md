@@ -58,7 +58,8 @@ Chaque courrier a un objectif précis : obtenir des informations, mettre en deme
 - **[Plainte complémentaire Police](36%20%E2%9C%89%EF%B8%8F%20Plainte%20Compl%C3%A9mentaire%20Police%20Foix.md)** — *Commissariat de Police de Foix* — Plainte complémentaire  obstruction à la justice
 - **[Plainte complémentaire V2](36%20%F0%9F%93%9C%20PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md)** — *Commissariat de Police de Foix* — Plainte complémentaire  obstruction à la justice et dissimulation de preuves
 - **[Guide dialogue Police](37%20%F0%9F%93%8B%20GUIDE_DIALOGUE_POLICE_FOIX.md)** — *Commissariat de Police de Foix* — Guide de dialogue pas à pas pour le déplacement au commissariat
-- **[Checklist déplacement Police](38%20%E2%9C%85%20CHECKLIST_DEPLACEMENT_POLICE_FOIX.md)** — *Commissariat de Police de Foix* — Checklist complète de préparation au déplacement au commissariat
+- **[Checklist déplacement Foix](38%20%E2%9C%85%20CHECKLIST_DEPLACEMENT_POLICE_FOIX.md)** — *Foix (TJ + Visite + Commissariat)* — Checklist complète pour la journée du 15 juillet 2026 (3 étapes)
+- **[Guide demande AJ](39%20%F0%9F%93%8B%20GUIDE_DEMANDE_AJ.md)** — *BAJ du TJ de Foix* — Guide pas à pas pour déposer une demande d'aide juridictionnelle totale
  
 ### Relances
 
