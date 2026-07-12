@@ -41,7 +41,7 @@ Ce fichier centralise l'ensemble de la correspondance entre les tokens et les do
 **Fichier : [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/05 🎯 Conclusions Refere.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/05%20🎯%20Conclusions%20Refere.md)**
 *   Lignes 58 et 80 : Mention en clair du numéro de PV de police `2026/015967`.
 
-**Fichier : [⚖️ Actes/🔑 Token/📚 Analyses juridiques/14 Stratégie jurisprudentielle.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/14%20Stratégie%20jurisprudentielle.md)**
+**Fichier : [⚖️ Actes/🔑 Token/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/14%20Stratégie%20jurisprudentielle.md)**
 *   Ligne 141 : Mention en clair du numéro de PV de police `n°2026/015967`.
 
 ## 3. Évaluation technique : `batch_anonymize.py` et `generate_real_versions.py`

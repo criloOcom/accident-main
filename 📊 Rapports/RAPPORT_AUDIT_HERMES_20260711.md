@@ -101,7 +101,7 @@ statut: projet
 |---|---|---|
 | `01_PREPARATION.md` / `02_PRET_POUR_ENVOI.md` / `03_ENVOYE.md` | 164 | Chemins absolus `/⚖️ Actes/...` au lieu de `../⚖️ Actes/...` (dossier `🚦 Status/` existe bien) |
 | `README.md` (racine) | 52 | Liens vers fichiers déplacés/renommés |
-| `14 Stratégie jurisprudentielle.md` | 22 | Liens jurisprudence omettant `📜 Jurisprudence/` |
+| `J+39 📜 Strategie Jurisprudentielle.md` | 22 | Liens jurisprudence omettant `📜 Jurisprudence/` |
 | `01 ⚖️ Assignation.md` | 12 | Annexes référencées sans chemin correct (`ANNEXE_1_…md` au lieu de `📎 Annexes/ANNEXE_1_…md`) |
 | `📜 Lois/README_OLD.md` | 45 | Fichier obsolète |
 | `RAPPORT_NAVIGATION_INTERACTIVE_20260711.md` | 13 | Rapport |
@@ -111,7 +111,7 @@ statut: projet
 
 **Vrais bugs de liens (indépendants des fichiers fantômes) :**
 - 🔴 [⚖️ Actes/README.md](⚖️%20Actes/README.md) L21-40 : `token/README.md`, `reel/README.md`, `token/0X_…/README.md` → dossiers renommés `🔑 Token`/`👤 Reel` non propagés.
-- 🔴 `13 📜 Responsabilites legales.md` L92-98 et `14 Stratégie jurisprudentielle.md` : `../../../📜 Lois/89-18.422_CourCassation.md` → le fichier réel est [📜 Lois/📜 Jurisprudence/89-18.422_CourCassation.md](📜%20Lois/📜%20Jurisprudence/89-18.422_CourCassation.md) (sous-dossier omis).
+- 🔴 `13 📜 Responsabilites legales.md` L92-98 et `J+39 📜 Strategie Jurisprudentielle.md` : `../../../📜 Lois/89-18.422_CourCassation.md` → le fichier réel est [📜 Lois/📜 Jurisprudence/89-18.422_CourCassation.md](📜%20Lois/📜%20Jurisprudence/89-18.422_CourCassation.md) (sous-dossier omis).
 - 🔴 `01 ⚖️ Assignation.md` L106-126, 347-349 : `ANNEXE_1_Decision_CC_CIV1_1965-04-30.md` / `📎 Annexes/ANNEXE_…md` → les annexes sont dans [⚖️ Actes/📎 Annexes](⚖️%20Actes/📎%20Annexes/README.md) (chemin relatif faux).
 - 🔴 **6 liens `file://` cassés** (`J+40 📋 Dossier Special CERFA.md` L43-45, token + reel) : pointent vers `26 📋 Attestation Temoin Client.md`, `27 📋 Attestation Pompier SAMU.md`, `28 📋 Attestation Employe.md` — or les fichiers réels sont `26 📧 …`, `27 📧 …`, `28 📧 …` (mismatch 📋/📧). Lien mort + nommage incohérent.
 - 🟡 **4 URLs Légifrance** format `ceta/id/...` (`11+12 … Dintilhac consolidee.md` L265, `12 … Dintilhac détaillée.md` L147, + versions reel) — `ceta` (Conseil d'État) vs `juri` (Cassation) ; à confirmer que l'ID est bien un CETA et non une JURITEXT.

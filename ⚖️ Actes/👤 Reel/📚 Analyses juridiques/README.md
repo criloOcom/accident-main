@@ -4,7 +4,7 @@
 - [09 ❓ FAQ.md](09 ❓ FAQ.md)
 - [12 📁 Dossier Plaidoirie.md](12 📁 Dossier Plaidoirie.md)
 - [13 📜 Responsabilites legales.md](13 📜 Responsabilites legales.md)
-- [14 Stratégie jurisprudentielle.md](14 Stratégie jurisprudentielle.md)
+- [J+39 📜 Strategie Jurisprudentielle.md](J+39 📜 Strategie Jurisprudentielle.md)
 - [15 Note Droit Assurances.md](15 Note Droit Assurances.md)
 - [16 📜 Note Responsabilite Dirigeants Dissolution.md](16 📜 Note Responsabilite Dirigeants Dissolution.md)
 - [18 Note Audit RNE NPAI SAS.md](18 Note Audit RNE NPAI SAS.md)

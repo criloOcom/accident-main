@@ -9,7 +9,7 @@ tags:
   - cour de cassation
 statut: final
 auteur: La Victime
-reel_path: ../../👤 Reel/📚 Analyses juridiques/14 Stratégie jurisprudentielle.md
+reel_path: ../../👤 Reel/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md
 source: local
 ---
 

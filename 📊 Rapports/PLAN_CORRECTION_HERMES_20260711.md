@@ -46,7 +46,7 @@ statut: projet
 ### P0-3 — Liens jurisprudence : sous-dossier `📜 Jurisprudence/` manquant  [SCRIPT]
 - **Cibles** :
   - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/13 📜 Responsabilites legales.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/13%20📜%20Responsabilites%20legales.md) (L92-98, 4 liens `../../../📜 Lois/X.md`)
-  - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/14 Stratégie jurisprudentielle.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/14%20Stratégie%20jurisprudentielle.md) (L30-37, ~11 liens `../../📜 Lois/X.md`)
+  - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/14%20Stratégie%20jurisprudentielle.md) (L30-37, ~11 liens `../../📜 Lois/X.md`)
   - (et les 2 versions `👤 Reel/` correspondantes → total ~30 liens)
 - **Correction** : insérer `📜 Jurisprudence/` → `../../../📜 Lois/📜 Jurisprudence/X.md` (token) / `../../📜 Lois/📜 Jurisprudence/X.md` (reel).
 - **Vérifier** cible existe : [📜 Lois/📜 Jurisprudence/89-18.422_CourCassation.md](📜%20Lois/📜%20Jurisprudence/89-18.422_CourCassation.md) ✅ présent.

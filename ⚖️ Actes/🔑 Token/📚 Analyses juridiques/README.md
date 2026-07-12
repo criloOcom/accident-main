@@ -31,7 +31,7 @@ Ces documents constituent le socle argumentaire de la procédure.
 - **[FAQ](09%20%E2%9D%93%20FAQ.md)** — Synthèse juridique complète et FAQ. Document de référence pour comprendre les enjeux du dossier (responsabilités, préjudices, procédure).
 - **[Dossier de plaidoirie](12%20%F0%9F%93%81%20Dossier%20Plaidoirie.md)** — Dossier complet préparé pour l'audience de référé du **Date non fixée (à planifier)**. Contient l'argumentation structurée, les pièces citées, et les références jurisprudentielles.
 - **[Responsabilités légales](13%20%F0%9F%93%9C%20Responsabilites%20legales.md)** — Analyse détaillée des fondements juridiques de la responsabilité : responsabilité contractuelle, délictuelle, pénale des dirigeants.
-- **[Stratégie jurisprudentielle](14%20Strat%C3%A9gie%20jurisprudentielle.md)** — Analyse des arrêts de la Cour de cassation  responsabilité du fait des choses, basculement vasque salon de coiffure. Preuve de la position anormale.
+- **[Stratégie jurisprudentielle](J%2B39%20%F0%9F%93%9C%20Strategie%20Jurisprudentielle.md)** — Analyse des arrêts de la Cour de cassation  responsabilité du fait des choses, basculement vasque salon de coiffure. Preuve de la position anormale.
 - **[Responsabilité dirigeants dissolution](16%20%F0%9F%93%9C%20Note%20Responsabilite%20Dirigeants%20Dissolution.md)** — Analyse juridique : responsabilité des dirigeants en cas de dissolution/radiation  insuffisance d'actif, banqueroute.
 - **[Audit RNE/NPAI SAS](18%20Note%20Audit%20RNE%20NPAI%20SAS.md)** — Analyse de la non-distribution LRAR et suspicion de structure miroir  vérifications RNE/INSEE.
 - **[Note Droit Assurances](15%20Note%20Droit%20Assurances.md)** — Note complète de stratégie en droit des assurances (Art. L.124-3 C. assur.).

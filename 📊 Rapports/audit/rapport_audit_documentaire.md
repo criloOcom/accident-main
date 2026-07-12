@@ -43,18 +43,18 @@ type: rapport
 | 📚 Analyses juridiques/09 ❓ FAQ.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
 | 📚 Analyses juridiques/13 📜 Responsabilites legales.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |
 | 📚 Analyses juridiques/13 📜 Responsabilites legales.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
-| 📚 Analyses juridiques/14 Stratégie jurisprudentielle.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |
-| 📚 Analyses juridiques/14 Stratégie jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/89-18.422_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
-| 📚 Analyses juridiques/14 Stratégie jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/91-15.035_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
-| 📚 Analyses juridiques/14 Stratégie jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/91-13.580_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
-| 📚 Analyses juridiques/14 Stratégie jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/74-10.466_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
-| 📚 Analyses juridiques/14 Stratégie jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/70-12.124_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
-| 📚 Analyses juridiques/14 Stratégie jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/74-10.466_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
-| 📚 Analyses juridiques/14 Stratégie jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/89-18.422_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
-| 📚 Analyses juridiques/14 Stratégie jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/91-13.580_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
-| 📚 Analyses juridiques/14 Stratégie jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/91-15.035_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
-| 📚 Analyses juridiques/14 Stratégie jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/24-21.702_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
-| 📚 Analyses juridiques/14 Stratégie jurisprudentielle.md | Lien mort trouvé: ../../📊 Rapports/🗄️ Archives/ordalie/20260707%20Validation%20juridique%20ordalie.md | 🔴 | Corriger ou supprimer le lien |
+| 📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |
+| 📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/89-18.422_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
+| 📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/91-15.035_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
+| 📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/91-13.580_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
+| 📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/74-10.466_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
+| 📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/70-12.124_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
+| 📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/74-10.466_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
+| 📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/89-18.422_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
+| 📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/91-13.580_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
+| 📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/91-15.035_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
+| 📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md | Lien mort trouvé: ../../📜 Lois/24-21.702_CourCassation.md | 🔴 | Corriger ou supprimer le lien |
+| 📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md | Lien mort trouvé: ../../📊 Rapports/🗄️ Archives/ordalie/20260707%20Validation%20juridique%20ordalie.md | 🔴 | Corriger ou supprimer le lien |
 | 📚 Analyses juridiques/15 Note Droit Assurances.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |
 | 📚 Analyses juridiques/18 Note Audit RNE NPAI SAS.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |
 | 📚 Analyses juridiques/Note Conservation Preuves Numeriques.md | Non-respect de la convention de nommage [NUMÉRO] [TYPE] [DESCRIPTION].md | 🟡 | Renommer selon la convention |

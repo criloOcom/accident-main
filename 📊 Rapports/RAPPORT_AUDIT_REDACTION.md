@@ -212,7 +212,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | 🔴 **2 coquilles véritables** : "délins" → "délits" (l.60) ; "particularité gravité" → "particulière gravité" (l.80). Section IV présente mais sans titre dans la TDM |
 
-### 2.11 14 — Stratégie jurisprudentielle (`📚 Analyses juridiques/14 Stratégie jurisprudentielle.md`)
+### 2.11 14 — Stratégie jurisprudentielle (`📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md`)
 
 | Critère | Évaluation |
 |---|---|
