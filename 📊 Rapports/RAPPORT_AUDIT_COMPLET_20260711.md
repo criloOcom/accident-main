@@ -85,7 +85,7 @@ last_verified: "2026-07-11"
 
 ### 4.1 Références dans les Actes Procéduraux
 
-**Exemple de référence** (01 ⚖️ Assignation.md) :
+**Exemple de référence** (J+32 ⚖️ Assignation Refere Provision.md) :
 ```markdown
 > [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
 

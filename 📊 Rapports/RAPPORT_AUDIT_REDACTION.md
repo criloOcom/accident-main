@@ -101,7 +101,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 
 ## 2. ANALYSE PAR DOCUMENT
 
-### 2.1 03 — Courrier SAS (`✉️ Courriers/03 ✉️ Courrier SAS.md`)
+### 2.1 03 — Courrier SAS (`✉️ Courriers/J+31 ✉️ Mise en demeure SAS.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -112,7 +112,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents (voir 1.1). La section "Transparence" (l.87-109) donne l'impression que la victime explique la procédure à la SAS — peut affaiblir la position de force d'une mise en demeure |
 
-### 2.2 10 — Doyen des Juges d'Instruction (`✉️ Courriers/10 ✉️ Courrier Doyen Juges Instruction.md`)
+### 2.2 10 — Doyen des Juges d'Instruction (`✉️ Courriers/J+38 ✉️ Saisine Doyen Juges Instruction.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -123,7 +123,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟡 N° PV en `[ ... ]` (l.47) alors que d'autres docs utilisent `**[N° PV Police]**` — incohérence |
 | Problèmes | Accents absents. Token PV non standardisé |
 
-### 2.3 12 — Courrier URSSAF (`✉️ Courriers/12 ✉️ Courrier URSSAF.md`)
+### 2.3 12 — Courrier URSSAF (`✉️ Courriers/J+37 ✉️ Signalement URSSAF.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -134,7 +134,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents (voir 1.1). "response" au lieu de "réponse" |
 
-### 2.4 14 — Courrier CODAF (`✉️ Courriers/14 ✉️ Courrier CODAF.md`)
+### 2.4 14 — Courrier CODAF (`✉️ Courriers/J+37 ✉️ Signalement CODAF.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -145,7 +145,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents. "response" (l.105). `Article L.310-1-1-2` — vérifier que ce texte existe (loi 2024-364 du 22 avril 2024) |
 
-### 2.5 19 — Courrier FGTI (`✉️ Courriers/19 ✉️ Courrier FGTI.md`)
+### 2.5 19 — Courrier FGTI (`✉️ Courriers/J+38 ✉️ Saisine FGTI.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -156,7 +156,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents. "response". La grille indemnitaire en corps de texte alourdit inutilement le premier contact |
 
-### 2.6 33 — Requête Constat Huissier 145 CPC (`✉️ Courriers/33 ✉️ Requete Constat Huissier 145 CPC.md`)
+### 2.6 33 — Requête Constat Huissier 145 CPC (`✉️ Courriers/J+41 ✉️ Requete Constat Huissier.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -168,7 +168,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🔴 l.39 : `**[Adresse du TJ à compléter]**` — token non standard, devrait être uniforme |
 | Problèmes | Accents absents. Absence du formalisme "PAR CES MOTIFS". Token cassé |
 
-### 2.7 34 — Email Maire Foix (`✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md`)
+### 2.7 34 — Email Maire Foix (`✉️ Courriers/J+42 ✉️ Email Maire Tavella ERP.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -179,7 +179,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🔴 **Incohérent** — utilise "29 mai 2026" (date réelle, l.22) mais `**[J+0 Accident]**` ailleurs ; utilise "1er juin 2026" (l.24, l.25) au lieu de token |
 | Problèmes | Trop long pour un email. Dates réelles mélangées aux tokens. La demande (CRPA l.29) est noyée dans le récit |
 
-### 2.8 35 — Courrier Président TJ Foix (`✉️ Courriers/35 ✉️ Courrier President TJ Foix.md`)
+### 2.8 35 — Courrier Président TJ Foix (`✉️ Courriers/J+44 ✉️ Preuves Complementaires TJ Foix.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -190,7 +190,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🔴 **Incohérent** — utilise "29 mai 2026" et "12 juillet 2026" (dates réelles, l.35, l.57) au lieu de `**[J+0 Accident]**` |
 | Problèmes | Accents absents. Dates réelles au lieu de tokens |
 
-### 2.9 07 — Plaidoirie dirigeants (`📚 Analyses juridiques/07 🎤 Plaidoirie dirigeants.md`)
+### 2.9 07 — Plaidoirie dirigeants (`📚 Analyses juridiques/J+32 🎤 Plaidoirie Responsabilite Dirigeants.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -201,7 +201,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents. Quelques § très longs sans aération (ex. l.75-82) |
 
-### 2.10 13 — Responsabilités légales (`📚 Analyses juridiques/13 📜 Responsabilites legales.md`)
+### 2.10 13 — Responsabilités légales (`📚 Analyses juridiques/J+32 📜 Analyse Responsabilites Legales.md`)
 
 | Critère | Évaluation |
 |---|---|
