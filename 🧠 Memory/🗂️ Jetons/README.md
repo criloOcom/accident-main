@@ -43,7 +43,7 @@ Chaque fiche regroupe :
 | `**[L'Exploitant du Commerce (La SAS)]**` | [token-l-exploitant-du-commerce-la-sas.md](token-l-exploitant-du-commerce-la-sas.md) |
 | `**[L'Établissement SOS Main]**` | [token-l-etablissement-sos-main.md](token-l-etablissement-sos-main.md) |
 
-### Données localisantes / identifiantes (11)
+### Données localisantes / identifiantes (14)
 
 | Jeton | Fichier |
 |---|---|
@@ -54,6 +54,9 @@ Chaque fiche regroupe :
 | `**[La Ville de Résidence de la Victime]**` | [token-la-ville-de-residence-de-la-victime.md](token-la-ville-de-residence-de-la-victime.md) |
 | `**[La Métropole Régionale]**` | [token-la-metropole-regionale.md](token-la-metropole-regionale.md) |
 | `**[La Ville de l'Établissement SOS Main]**` | [token-la-ville-de-l-etablissement-sos-main.md](token-la-ville-de-l-etablissement-sos-main.md) |
+| `**[Le Téléphone de la Victime]**` | [token-le-telephone-de-la-victime.md](token-le-telephone-de-la-victime.md) |
+| `**[Code Postal de l'Accident]**` | [token-code-postal-de-l-accident.md](token-code-postal-de-l-accident.md) |
+| `**[Date de naissance de la victime]**` | [token-date-de-naissance-de-la-victime.md](token-date-de-naissance-de-la-victime.md) |
 | `**[L'Email de la Victime]**` | [token-l-email-de-la-victime.md](token-l-email-de-la-victime.md) |
 | `**[L'Identifiant Professionnel de la Victime]**` | [token-l-identifiant-professionnel-de-la-victime.md](token-l-identifiant-professionnel-de-la-victime.md) |
 | `**[L'Identifiant de l'Exploitation]**` | [token-l-identifiant-de-l-exploitation.md](token-l-identifiant-de-l-exploitation.md) |

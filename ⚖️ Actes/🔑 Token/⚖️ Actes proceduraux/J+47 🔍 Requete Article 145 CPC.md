@@ -40,7 +40,7 @@ drive_id: 1R26179ks7vLkzw0hYEHL888i0p1VS9ppa6s8R8kQ_gg
 A l'attention de Monsieur le President du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md) <br>
 Cabinet du Juge des Referes
 
-[**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md), le [**[J+37 Requête 145]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+[**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md), le [**[J+37 Requête 145]**](../../../🧠 Memory/🗂️ Jetons/token-j-37-assignation-145.md)
 
 ## INTRODUCTION
 La presente requete est introduite par [**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md) sur le fondement de l'Article 145 du Code de procedure civile.
@@ -194,7 +194,7 @@ Vu les pièces versées aux débats,
 
 <hr>
 
-Fait a [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md), le [**[J+37 Requête 145]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels).
+Fait a [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md), le [**[J+37 Requête 145]**](../../../🧠 Memory/🗂️ Jetons/token-j-37-assignation-145.md).
 
 [**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md)
 

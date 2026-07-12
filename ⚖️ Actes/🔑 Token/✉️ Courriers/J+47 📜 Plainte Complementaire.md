@@ -33,7 +33,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/36 📜 PLAINTE_COMPLEMENTAIRE_POLIC
 [**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md)
 [**[L'Adresse de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-la-victime.md)
 [**[L'Email de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-email-de-la-victime.md)
-[**[Le Téléphone de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+[**[Le Téléphone de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-le-telephone-de-la-victime.md)
 
 **Commissariat de Police de Foix**
 [**[Adresse du Commissariat]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
@@ -45,7 +45,7 @@ Foix, le **[Date du dépôt]**
 
 Monsieur l'Officier de Police Judiciaire,
 
-Je soussigné(e), [**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md), né(e) le [**[Date de naissance de la victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), demeurant [**[L'Adresse de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-la-victime.md), informaticien indépendant (SIREN [**[L'Identifiant Professionnel de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-identifiant-professionnel-de-la-victime.md)), victime d'un accident corporel grave survenu le 29 mai 2026 au sein de l'établissement "Les Mauvais Garçons" exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md) (SIREN [**[SIREN de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-siren-de-l-exploitation.md)), sis [**[L'Adresse de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-l-exploitation.md), 09000 Foix,
+Je soussigné(e), [**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md), né(e) le [**[Date de naissance de la victime]**](../../../🧠 Memory/🗂️ Jetons/token-date-de-naissance-de-la-victime.md), demeurant [**[L'Adresse de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-la-victime.md), informaticien indépendant (SIREN [**[L'Identifiant Professionnel de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-identifiant-professionnel-de-la-victime.md)), victime d'un accident corporel grave survenu le 29 mai 2026 au sein de l'établissement "Les Mauvais Garçons" exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md) (SIREN [**[SIREN de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-siren-de-l-exploitation.md)), sis [**[L'Adresse de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-l-exploitation.md), 09000 Foix,
 
 **VIENS PAR LA PRÉSENTE DÉPOSER PLAINTE COMPLÉMENTAIRE** contre les dirigeants de la société susmentionnée pour les faits suivants, constituant des infractions pénales caractérisées :
 

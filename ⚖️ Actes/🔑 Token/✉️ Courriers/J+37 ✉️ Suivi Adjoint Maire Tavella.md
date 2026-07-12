@@ -36,7 +36,7 @@ Mairie de [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/tok
 
 [**[Adresse de la Mairie]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-[**[Code Postal de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md)
+[**[Code Postal de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-code-postal-de-l-accident.md) [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md)
 
 [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md), le [**[J+37 Assignation 145]**](../../../🧠 Memory/🗂️ Jetons/token-j-37-assignation-145.md)
 

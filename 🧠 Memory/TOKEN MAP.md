@@ -71,6 +71,12 @@ type: memory
 | Toulouse | `**[La Métropole Régionale]**` |
 <a id="token-la-ville-de-l-etablissement-sos-main"></a>
 | Saint-Jean | `**[La Ville de l'Établissement SOS Main]**` |
+<a id="token-le-telephone-de-la-victime"></a>
+| 06 30 51 67 75 | `**[Le Téléphone de la Victime]**` |
+<a id="token-code-postal-de-l-accident"></a>
+| 09000 | `**[Code Postal de l'Accident]**` |
+<a id="token-date-de-naissance-de-la-victime"></a>
+| 18 janvier 1982 | `**[Date de naissance de la victime]**` |
 <a id="token-l-email-de-la-victime"></a>
 | sebastien.grazide@gmail.com | `**[L'Email de la Victime]**` |
 <a id="token-l-identifiant-professionnel-de-la-victime"></a>

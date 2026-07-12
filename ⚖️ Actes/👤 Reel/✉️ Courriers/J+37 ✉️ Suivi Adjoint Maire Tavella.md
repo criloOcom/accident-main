@@ -36,7 +36,7 @@ Mairie de Foix
 
 [**[Adresse de la Mairie]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-[**[Code Postal de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) Foix
+[**[Code Postal de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-code-postal-de-l-accident.md) Foix
 
 Foix, le 5 juillet 2026
 

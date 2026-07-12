@@ -44,6 +44,9 @@ TOKEN_MAP_RAW = {
     'La Ville de Résidence de la Victime': 'token-la-ville-de-residence-de-la-victime',
     'La Métropole Régionale': 'token-la-metropole-regionale',
     'La Ville de l\'Établissement SOS Main': 'token-la-ville-de-l-etablissement-sos-main',
+    'Le Téléphone de la Victime': 'token-le-telephone-de-la-victime',
+    'Code Postal de l\'Accident': 'token-code-postal-de-l-accident',
+    'Date de naissance de la victime': 'token-date-de-naissance-de-la-victime',
     'L\'Email de la Victime': 'token-l-email-de-la-victime',
     'L\'Identifiant Professionnel de la Victime': 'token-l-identifiant-professionnel-de-la-victime',
     'L\'Identifiant de l\'Exploitation': 'token-l-identifiant-de-l-exploitation',
@@ -69,6 +72,7 @@ TOKEN_MAP_RAW = {
     'J+35 AR propriétaire': 'token-j-35-ar-proprietaire',
     'J+36 Lettre consolidation': 'token-j-36-lettre-consolidation',
     'J+37 Assignation 145': 'token-j-37-assignation-145',
+    'J+37 Requête 145': 'token-j-37-assignation-145',
     'J+38 Constitution PC': 'token-j-38-constitution-pc',
     'J+38 Mise à jour': 'token-j-38-mise-a-jour',
     'J+40 Consultation suivi': 'token-j-40-consultation-suivi',
@@ -98,9 +102,7 @@ NON_TOKENS = {
     'Téléphone Huissier',
     'Téléphone Ordre Avocats',
     'Téléphone Tribunal Judiciaire',
-    'Le Téléphone de la Victime',
-    'Code Postal de l\'Accident',
-    'Date de naissance de la victime',
+    # Already have token files:
 }
 
 def resolve_token(name):
