@@ -11,6 +11,9 @@ type: rapport
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › PROMPT COMPLETION FICHES LOIS 20260711
 <!-- /Breadcrumb -->

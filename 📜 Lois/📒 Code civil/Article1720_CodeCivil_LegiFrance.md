@@ -17,6 +17,9 @@ article: "1720"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code civil](./README.md) › Article1720 CodeCivil LegiFrance
 <!-- /Breadcrumb -->

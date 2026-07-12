@@ -17,6 +17,9 @@ article: "L113-2"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code assurances](./README.md) › Article L113-2 Codesassurances Legifrance
 <!-- /Breadcrumb -->

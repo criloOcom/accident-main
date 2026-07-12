@@ -17,6 +17,9 @@ article: "L223-22"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code commerce](./README.md) › Article L223-22 Codecommerce Legifrance
 <!-- /Breadcrumb -->

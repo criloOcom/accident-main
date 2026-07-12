@@ -15,9 +15,11 @@ auteur: Nom de l'Avocat de la Victime
 reel_path: ../../👤 Reel/✉️ Courriers/31 ✉️ Courrier INPI Opposition.md
 ---
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 31 ✉️ Courrier INPI Opposition
-<hr>
 <!-- /Breadcrumb -->
 
 # OPPOSITION À IMMATRICULATION AU REGISTRE NATIONAL DES ENTREPRISES

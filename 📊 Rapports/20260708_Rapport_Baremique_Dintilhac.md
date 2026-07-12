@@ -20,6 +20,9 @@ auteur: Expert en chiffrage Dintilhac (Jules)
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › 20260708 Rapport Baremique Dintilhac
 <!-- /Breadcrumb -->

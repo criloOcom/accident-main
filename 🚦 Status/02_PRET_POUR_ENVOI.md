@@ -11,6 +11,9 @@ type: status
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../README.md) › [🚦 Status — Index des documents par statut](./README.md) › 02 PRET POUR ENVOI
 <!-- /Breadcrumb -->

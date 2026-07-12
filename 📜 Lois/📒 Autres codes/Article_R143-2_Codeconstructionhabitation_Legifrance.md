@@ -17,6 +17,9 @@ article: "R143-2"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Autres codes](./README.md) › Article R143-2 Codeconstructionhabitation Legifrance
 <!-- /Breadcrumb -->

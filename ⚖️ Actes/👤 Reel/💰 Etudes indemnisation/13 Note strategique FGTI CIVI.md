@@ -21,6 +21,9 @@ reel_path: ../../👤 Reel/💰 Etudes indemnisation/13 Note strategique FGTI CI
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [💰 Études d'Indemnisation](./README.md) › 13 Note strategique FGTI CIVI
 <!-- /Breadcrumb -->

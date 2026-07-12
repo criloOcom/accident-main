@@ -11,6 +11,9 @@ type: memory
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › JUSTIFICATION PROVISION 15000
 <!-- /Breadcrumb -->

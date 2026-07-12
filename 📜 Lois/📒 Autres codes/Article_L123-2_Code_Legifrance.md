@@ -17,6 +17,9 @@ article: "L123-2"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Autres codes](./README.md) › Article L123-2 Code Legifrance
 <!-- /Breadcrumb -->

@@ -11,6 +11,9 @@ type: rapport
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT ETAPE POST EMAIL MAIRE 20260710
 <!-- /Breadcrumb -->

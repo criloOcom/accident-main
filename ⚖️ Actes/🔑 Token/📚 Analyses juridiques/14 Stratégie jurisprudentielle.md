@@ -20,6 +20,9 @@ source: local
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 14 Stratégie jurisprudentielle
 <!-- /Breadcrumb -->

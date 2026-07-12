@@ -7,28 +7,32 @@ type: readme
 
 
 
-
-
-
-
 <!-- Breadcrumb -->
 [🏠](README.md)
 <!-- /Breadcrumb -->
 
-# 🏛️ Dossier Juridique « Accident Main » - Sébastien GRAZIDE
-
-**Victime :** Sébastien GRAZIDE · **Accident :** 29 mai 2026 · **Lieu :** Foix (09)
-
----
+# 🏛️ Dossier Juridique « Accident Main »
 
 ## 📂 Arborescence
 
-- [**⚖️ Actes**](./⚖️%20Actes/README.md) — Actes, courriers, analyses juridiques, études d'indemnisation (versions tokenisées + réelles)
-- [**📜 Lois et jurisprudence**](./📜%20Lois/README.md) — Codes, articles, arrêts de la Cour de cassation, index juridique
-- [**🧠 Mémoire du projet**](./🧠%20Memory/README.md) — Règles, décisions, état d'avancement, correspondances tokens, protocoles
-- [**📊 Rapports**](./📊%20Rapports/README.md) — Audits, évaluations, expertise, archives
-- [**🚦 Status des actes**](./🚦%20Status/README.md) — Suivi d'envoi par statut (préparation, prêt, envoyé)
-- [**🔧 Développement**](./.dev/README.md) — Scripts, tests, déploiement
+- [**⚖️ Actes**](./⚖️%20Actes/README.md) <br>
+Actes, courriers, analyses juridiques, études d'indemnisation (versions tokenisées + réelles)
+
+- [**📜 Lois et jurisprudence**](./📜%20Lois/README.md) <br>
+Codes, articles, arrêts de la Cour de cassation, index juridique
+
+- [**🧠 Mémoire du projet**](./🧠%20Memory/README.md) <br>
+Règles, décisions, état d'avancement, correspondances tokens, protocoles
+
+- [**📊 Rapports**](./📊%20Rapports/README.md) <br>
+Audits, évaluations, expertise, archives
+
+- [**🚦 Status des actes**](./🚦%20Status/README.md) <br>
+Suivi d'envoi par statut (préparation, prêt, envoyé)
+
+- [**🔧 Développement**](./.dev/README.md) <br>
+Scripts, tests, déploiement
+
 
 ## 🔗 Accès rapide
 

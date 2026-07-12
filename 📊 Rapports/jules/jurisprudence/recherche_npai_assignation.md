@@ -11,6 +11,9 @@ type: rapport
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [🤖 Jules](../README.md) › [📁 jurisprudence](./README.md) › recherche npai assignation
 <!-- /Breadcrumb -->

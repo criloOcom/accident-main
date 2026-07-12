@@ -11,6 +11,9 @@ type: readme
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../README.md) › 📜 Lois
 <!-- /Breadcrumb -->
@@ -70,10 +73,10 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [Art. 222-19](📒%20Code%20penal/Article_222-19_CodePenal_Legifrance.md) — Blessures involontaires
 - [Art. 222-20](📒%20Code%20penal/Article222-20_CodePenal_LegiFrance.md) — Blessures avec circonstances aggravantes
 - [Art. 223-1](📒%20Autres%20codes/Article_223-1_Code_Legifrance.md) — Mise en danger d'autrui
-- [Art. 314-7](📒%20Code%20penal/Article_314-7_CodePenal_Legifrance.md) — Fraude sociale ✨ NOUVEAU
-- [Art. 434-4](📒%20Code%20penal/Article_434-4_CodePenal_Legifrance.md) — Refus de communication ✨ NOUVEAU
-- [Art. 434-15](📒%20Code%20penal/Article_434-15_CodePenal_Legifrance.md) — Obstruction à la justice ✨ NOUVEAU
-- [Art. 434-15-1](📒%20Code%20penal/Article_434-15-1_CodePenal_Legifrance.md) — Obstruction aggravée ✨ NOUVEAU
+- [Art. 314-7](📒%20Code%20penal/Article_314-7_CodePenal_Legifrance.md) — Fraude sociale
+- [Art. 434-4](📒%20Code%20penal/Article_434-4_CodePenal_Legifrance.md) — Refus de communication
+- [Art. 434-15](📒%20Code%20penal/Article_434-15_CodePenal_Legifrance.md) — Obstruction à la justice
+- [Art. 434-15-1](📒%20Code%20penal/Article_434-15-1_CodePenal_Legifrance.md) — Obstruction aggravée
 
 ### 📒 Code de procédure civile (4 articles)
 - [Art. 145](📒%20Code%20procedure%20civile/Article_145_CodeDeProcédureCivile_Legifrance.md) — Mesures d'instruction
@@ -83,7 +86,7 @@ Le dossier a été réorganisé pour une meilleure navigation :
 
 ### 📒 Code de procédure pénale (2 articles)
 - [Art. 475-1](📒%20Code%20procedure%20penale/Article475-1_CodeProcedurePenale.md) — Constitution de partie civile
-- [Art. 706-3](📒%20Code%20procedure%20penale/Article_706-3_CodeProcedurePenale_Legifrance.md) — FGTI ✨ NOUVEAU
+- [Art. 706-3](📒%20Code%20procedure%20penale/Article_706-3_CodeProcedurePenale_Legifrance.md) — FGTI
 
 ### 📒 Code des assurances (2 articles)
 - [Art. L.113-2](📒%20Code%20assurances/Article_L113-2_Codesassurances_Legifrance.md) — Déclaration du risque
@@ -100,8 +103,8 @@ Le dossier a été réorganisé pour une meilleure navigation :
 ### 📒 Autres codes (9 articles)
 - [Art. L.421-3](📒%20Autres%20codes/Article_L421-3_Codeconsommation_Legifrance.md) — Sécurité des consommateurs
 - [Art. R.143-2](📒%20Autres%20codes/Article_R143-2_Codeconstructionhabitation_Legifrance.md) — Sécurité des ERP
-- [Art. L.2212-2](📒%20Autres%20codes/Article_L2212-2_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Pouvoirs de police du maire ✨ NOUVEAU
-- [Art. L.2212-4](📒%20Autres%20codes/Article_L2212-4_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Mesures d'urgence du maire ✨ NOUVEAU
+- [Art. L.2212-2](📒%20Autres%20codes/Article_L2212-2_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Pouvoirs de police du maire
+- [Art. L.2212-4](📒%20Autres%20codes/Article_L2212-4_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Mesures d'urgence du maire
 - [Art. L.611-3](📒%20Autres%20codes/Article_L611-3_Code_Legifrance.md) — Procédure de sauvegarde
 - [Art. L.123-2](📒%20Autres%20codes/Article_L123-2_Code_Legifrance.md) — Immatriculation des sociétés
 

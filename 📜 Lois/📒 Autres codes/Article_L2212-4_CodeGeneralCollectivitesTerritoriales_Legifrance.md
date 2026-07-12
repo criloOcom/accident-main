@@ -17,6 +17,9 @@ article: "L2212-4"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Autres codes](./README.md) › Article L2212-4 CodeGeneralCollectivitesTerritoriales Legifrance
 <!-- /Breadcrumb -->

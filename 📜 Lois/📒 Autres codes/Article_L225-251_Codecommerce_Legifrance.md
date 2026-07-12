@@ -17,6 +17,9 @@ article: "L225-251"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Autres codes](./README.md) › Article L225-251 Codecommerce Legifrance
 <!-- /Breadcrumb -->

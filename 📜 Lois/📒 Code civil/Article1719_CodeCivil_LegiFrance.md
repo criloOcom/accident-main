@@ -17,6 +17,9 @@ article: "1719"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code civil](./README.md) › Article1719 CodeCivil LegiFrance
 <!-- /Breadcrumb -->

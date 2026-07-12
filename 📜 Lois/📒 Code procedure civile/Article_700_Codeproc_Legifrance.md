@@ -17,6 +17,9 @@ article: "700"
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code procedure civile](./README.md) › Article 700 Codeproc Legifrance
 <!-- /Breadcrumb -->

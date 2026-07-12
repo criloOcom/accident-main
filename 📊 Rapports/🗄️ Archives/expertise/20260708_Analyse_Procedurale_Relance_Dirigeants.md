@@ -11,6 +11,9 @@ type: rapport
 
 
 
+
+
+
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [📁 🗄️ Archives](../README.md) › [📁 expertise](./README.md) › 20260708 Analyse Procedurale Relance Dirigeants
 <!-- /Breadcrumb -->
