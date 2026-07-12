@@ -72,7 +72,6 @@ L'Incapacité Totale de Travail (ITT) étant de 56 jours, soit une durée infér
 Cependant, la qualification de délit est encourue sur le fondement de l'article 222-20 du Code pénal, si les faits résultent de la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement.
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
-> « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
 > **Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2.** <br>
 > [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
 
@@ -81,7 +80,6 @@ Cependant, la qualification de délit est encourue sur le fondement de l'article
 ### B. SUR LA MISE EN DANGER DÉLIBÉRÉE DE LA VIE D'AUTRUI
 La qualification de mise en danger délibérée nécessite la violation d'une obligation particulière de sécurité ou de prudence exposant directement autrui à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente.
 
-> « Le fait d'exposer directement autrui à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
 > « Le fait d'exposer directement autrui à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
 > **Code pénal > Partie législative > Livre II > Titre II > Chapitre III.** <br>
 > [Article 223-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417759) <br>
@@ -97,7 +95,6 @@ L'article 121-2 du Code pénal dispose que les personnes morales sont pénalemen
 
 S'agissant des personnes physiques qui n'ont pas causé directement le dommage (les dirigeants), l'article 121-3 alinéa 4 exige la preuve d'une faute qualifiée.
 
-> « Dans le cas prévu par l'alinéa qui précède, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particulière gravité qu'elles ne pouvaient ignorer. » <br>
 > « Dans le cas prévu par l'alinéa qui précède, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particulière gravité qu'elles ne pouvaient ignorer. » <br>
 > **Code pénal > Partie législative > Livre Ier > Titre II > Chapitre Ier.** <br>
 > [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) <br>

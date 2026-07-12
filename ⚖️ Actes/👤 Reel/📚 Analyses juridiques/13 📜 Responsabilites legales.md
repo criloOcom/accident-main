@@ -60,7 +60,6 @@ Cette note vise à structurer les fondements juridiques permettant d'assurer la 
 Le salon est susceptible de voir sa responsabilité engagée sur le fondement de l'article 222-20 du Code pénal.
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
-> « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
 > **Code pénal > Partie législative > Livre II : Crimes et délits contre les personnes > Titre II : Crimes et délins contre la personne > Chapitre II : Atteintes involontaires à l'intégrité physique ou psychique de la personne > Section 2 : Blessures ou coups suivis d'incapacité totale de travail pendant une durée inférieure ou égale à trois mois.** <br>
 > [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
 
@@ -71,7 +70,6 @@ En l'espèce, la section nerveuse et tendineuse profonde de l'index droit de Sé
 ### A. MANQUEMENT À L'OBLIGATION DE SÉCURITÉ ET DE PRUDENCE
 En maintenant en service un équipement lourd (une vasque en céramique) présentant une cassure majeure et tranchante préexistante, sans signalisation ni protection, l'établissement a failli à son obligation générale de sécurité des produits et services régie par l'article L. 421-3 du Code de la consommation.
 
-> « Les prestations de services doivent présenter, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles par le professionnel, la sécurité à laquelle on peut légitimement s'attendre et ne pas porter atteinte à la santé des personnes. » <br>
 > « Les prestations de services doivent présenter, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles par le professionnel, la sécurité à laquelle on peut légitimement s'attendre et ne pas porter atteinte à la santé des personnes. » <br>
 > **Code de la consommation > Partie législative > Livre Ier : Généralités > Titre II : La protection des consommateurs > Chapitre II : Sécurité des produits et services > Section 1 : Principes généraux.** <br>
 > [Article L. 421-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) <br>
@@ -84,7 +82,6 @@ Le comportement de Ayoub BENNOURINE, consistant à monter physiquement sur la st
 En vertu de l'article 121-3 du Code pénal, cette maladresse expose les dirigeants à une responsabilité pénale individuelle pour manquement à la sécurité.
 
 > « Il n'y a point de crime ou de délit sans intention de le commettre. (...) Toutefois, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particularité gravité qu'elles ne pouvaient ignorer. » <br>
-> « Il n'y a point de crime ou de délit sans intention de le commettre. (...) Toutefois, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particularité gravité qu'elles ne pouvaient ignorer. » <br>
 > **Code pénal > Partie législative > Livre Ier : Dispositions générales > Titre III : La criminalité et la délinquance, les sanctions pénales et certaines mesures de sûreté > Chapitre Ier : De la responsabilité des personnes physiques.** <br>
 > [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209) <br>
 
@@ -96,7 +93,6 @@ Sur le plan civil, la SAS est tenue de réparer les dommages causés sans qu'il 
 ### A. RESPONSABILITÉ DU FAIT DES CHOSES
 Conformément à l'article 1242 alinéa 1er du Code civil, on est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des choses que l'on a sous sa garde.
 
-> « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. » <br>
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. » <br>
 > **Code civil > Partie législative > Livre III : Des différentes manières dont on peut acquérir la propriété > Titre IV : Des obligations > Sous-titre II : Des engagements qui naissent sans convention > Chapitre II : De la responsabilité civile.** <br>
 > [Article 1242](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) <br>
@@ -119,7 +115,6 @@ La SAS est donc automatiquement responsable de l'imprudence commise par Ayoub BE
 ### C. LA FAUTE DÉTACHABLE DES DIRIGEANTS
 La responsabilité personnelle des dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC, peut être engagée sur le fondement de l'article 1240 du Code civil.
 
-> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
 > **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.** <br>
 > [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
@@ -145,7 +140,6 @@ Il convient de noter que le préposé bénéficie d'une immunité civile selon l
 Le levier le plus efficace demeure l'action directe contre l'assureur RC de la SAS, fondée sur l'article L. 124-3 du Code des assurances, garantissant la réparation intégrale des préjudices (pertes de revenus, préjudice corporel et moral) estimés à ce jour à **~90 000 €** (selon l'étude d'indemnisation détaillée).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
-> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier.** <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 
@@ -153,14 +147,12 @@ Le levier le plus efficace demeure l'action directe contre l'assureur RC de la S
 La consolidation des preuves médicales (comptes rendus du Dr Iskander DJERBI) et matérielles est impérative. En cas de rétention d'informations sur l'assureur, l'article 145 du Code de procédure civile permet de saisir le juge des référés pour obtenir les pièces nécessaires.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
-> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
 > **Code de procédure civile > Partie législative > Livre II > Titre VII > Section I.** <br>
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 
 ### C. OBLIGATION D'INFORMATION DE L'ASSURANCE ET RÉFÉRÉ-COMMUNICATION
 En vertu de l'article L. 113-2, 4° du Code des assurances, l'assuré (la SAS) a l'obligation légale de déclarer tout sinistre à son assureur dans un délai de 5 jours ouvrés.
 
-> « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. » <br>
 > « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. » <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre III.** <br>
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>

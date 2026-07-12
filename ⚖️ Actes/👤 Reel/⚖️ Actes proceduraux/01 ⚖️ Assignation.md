@@ -38,7 +38,6 @@ La présente assignation en référé-provision et demande d'expertise médicale
 Par cet acte, Sébastien GRAZIDE sollicite du président du Tribunal Judiciaire de Foix, statuant en référé, l'allocation d'une provision de 15 000 € à valoir sur la réparation intégrale de ses préjudices.
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. » <br>
-> « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. » <br>
 > **Code de procédure civile > Chapitre II : Les ordonnances de référé.** <br>
 > [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
 
@@ -125,13 +124,11 @@ Les décisions suivantes établissent des précédents juridiques pertinents pou
 
 ### A. SUR LE PRINCIPE DE LA RESPONSABILITÉ CIVILE DÉLICTUELLE
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
-> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
 > **Code civil > ... > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
 > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
 
 En l'espèce, le basculement brutal de l'équipement dû à l'escalade du préposé sur la vasque en céramique, laquelle présentait une cassure préexistante non signalée, caractérise un manquement à l'obligation de sécurité imputable à l'exploitant.
 
-> « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. » <br>
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. » <br>
 > **Code civil > ... > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
 > [Article 1242 alinéa 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) <br>
@@ -143,20 +140,17 @@ De surcroît, les faits se sont produits sous le contrôle du préposé de l'ét
 **Sur la responsabilité personnelle des dirigeants :**
 
 > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
-> « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
 > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
 > [Article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
 
 L'article L. 227-1 du Code de commerce dispose que les règles des sociétés anonymes sont applicables aux SAS :
 
 > « Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes [...] sont applicables à la société par actions simplifiée. » <br>
-> « Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes [...] sont applicables à la société par actions simplifiée. » <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.** <br>
 > [Article L. 227-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177) <br>
 
 En application de ce renvoi, l'article L. 225-251 du même code précise le régime de responsabilité des dirigeants dans les termes suivants :
 
-> « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. » <br>
 > « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. » <br>
 > **Code de commerce > Section 8 : De la responsabilité civile.** <br>
 > [Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) <br>
@@ -181,13 +175,11 @@ L'extrême sous-capitalisation de la société (capital social de 200 €), ne l
 Le salon de coiffure, en tant que professionnel, est tenu à une obligation d'information précontractuelle.
 
 > « Avant que le consommateur ne soit lié par un contrat à titre onéreux, le professionnel communique au consommateur, de manière lisible et compréhensible, les informations suivantes : [...] 4° Les informations relatives à l'identité du professionnel, à ses coordonnées postales, téléphoniques et électroniques et à ses activités, pour autant qu'elles ne ressortent pas du contexte ; [...] » <br>
-> « Avant que le consommateur ne soit lié par un contrat à titre onéreux, le professionnel communique au consommateur, de manière lisible et compréhensible, les informations suivantes : [...] 4° Les informations relatives à l'identité du professionnel, à ses coordonnées postales, téléphoniques et électroniques et à ses activités, pour autant qu'elles ne ressortent pas du contexte ; [...] » <br>
 > **Code de la consommation > Partie législative > Livre Ier > Titre Ier > Chapitre Ier : Obligation générale d'information précontractuelle.** <br>
 > [Article L.111-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438) <br>
 
 Il est imposé une obligation de conformité du service fourni.
 
-> « Les dispositions du présent chapitre sont applicables aux contrats de vente de biens meubles corporels entre un vendeur professionnel, ou toute personne se présentant ou se comportant comme tel, et un acheteur agissant en qualité de consommateur. » <br>
 > « Les dispositions du présent chapitre sont applicables aux contrats de vente de biens meubles corporels entre un vendeur professionnel, ou toute personne se présentant ou se comportant comme tel, et un acheteur agissant en qualité de consommateur. » <br>
 > **Code de la consommation > Partie législative > Livre II > Titre Ier > Chapitre VII > Section 1 : Champ d'application.** <br>
 > [Article L.217-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587) <br>
@@ -203,7 +195,6 @@ Ce fondement complémentaire (droit de la consommation) renforce l'absence de co
 
 ### C. SUR LA DEMANDE D'EXPERTISE MÉDICALE
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
-> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 
@@ -211,7 +202,6 @@ L'état corporel de Sébastien GRAZIDE n'étant pas consolidé à ce jour, il es
 
 ### D. SUR L'OCTROI D'UNE PROVISION FINANCIÈRE
 
-> « Dans tous les cas où l'existence de l'obligation n'est pas sérieusement contestable, le président peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. » <br>
 > « Dans tous les cas où l'existence de l'obligation n'est pas sérieusement contestable, le président peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. » <br>
 > **Code de procédure civile > Chapitre II : Les ordonnances de référé.** <br>
 > [Article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
@@ -257,13 +247,11 @@ Aucun élément versé aux débats ne permet de contester sérieusement ni la ma
 
 ### F. SUR LA COMMUNICATION FORCÉE DE LA POLICE D'ASSURANCE
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
-> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
 > **Code de procédure civile > Titre VII > Section I : Décisions ordonnant des mesures d'instruction.** <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 
 Sébastien GRAZIDE sollicite la communication forcée de la police d'assurance de responsabilité civile professionnelle de SAS LES MAUVAIS GARCONS, dont l'identité demeure inconnue malgré les mises en demeure restées sans réponse (29 juin 2026).
 
-> « L'action directe de la victime contre l'assureur garantissant la responsabilité civile de la personne responsable est soumise à la prescription de deux ans à compter du jour où la victime a connu ou aurait dû connaître les faits motivant son action. » <br>
 > « L'action directe de la victime contre l'assureur garantissant la responsabilité civile de la personne responsable est soumise à la prescription de deux ans à compter du jour où la victime a connu ou aurait dû connaître les faits motivant son action. » <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité.** <br>
 > [Article L.124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>

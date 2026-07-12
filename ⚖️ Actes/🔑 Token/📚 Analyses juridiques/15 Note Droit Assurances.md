@@ -34,7 +34,6 @@ La présente note détaille la stratégie et l'analyse en droit des assurances c
 Le principe de l'action directe permet à la victime d'agir directement contre l'assureur de responsabilité civile de l'auteur du dommage, sans passer par le patrimoine de ce dernier.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
-> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier.** <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 
@@ -54,7 +53,6 @@ L'obstacle actuel réside dans la rétention d'informations par **[Le Président
 En matière d'assurance de responsabilité civile, les pertes et dommages occasionnés par un cas fortuit ou causés par la faute de l'assuré sont à la charge de l'assureur. Seule la faute intentionnelle ou dolosive est exclue de plein droit.
 
 > « Les pertes et les dommages occasionnés par des cas fortuits ou causés par la faute de l'assuré sont à la charge de l'assureur, sauf exclusion formelle et limitée contenue dans la police. Toutefois, l'assureur ne répond pas des pertes et dommages provenant d'une faute intentionnelle ou dolosive de l'assuré. » <br>
-> « Les pertes et les dommages occasionnés par des cas fortuits ou causés par la faute de l'assuré sont à la charge de l'assureur, sauf exclusion formelle et limitée contenue dans la police. Toutefois, l'assureur ne répond pas des pertes et dommages provenant d'une faute intentionnelle ou dolosive de l'assuré. » <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre III.** <br>
 > [Article L. 113-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006791986) *(Note : Citation de l'article L113-1 consolidé)* <br>
 
@@ -63,7 +61,6 @@ En matière d'assurance de responsabilité civile, les pertes et dommages occasi
 ## III. DÉCLARATION DE SINISTRE ET MISE EN DEMEURE (ART. L.113-2 C. ASSUR.)
 L'assuré a l'obligation stricte de déclarer le sinistre.
 
-> « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. » <br>
 > « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. » <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre III.** <br>
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
@@ -74,13 +71,11 @@ L'assuré a l'obligation stricte de déclarer le sinistre.
 Le délai de prescription en droit des assurances est un piège classique, mais inapplicable à la victime corporelle directe.
 
 > « Toutes actions dérivant d'un contrat d'assurance sont prescrites par deux ans à compter de l'événement qui y donne naissance. » <br>
-> « Toutes actions dérivant d'un contrat d'assurance sont prescrites par deux ans à compter de l'événement qui y donne naissance. » <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre IV.** <br>
 > [Article L. 114-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044607740) <br>
 
 **Analyse :** Cette prescription biennale (2 ans) de l'article L. 114-1 régit les relations entre l'assureur et l'assuré. En revanche, l'action directe de la victime contre l'assureur est soumise au même délai de prescription que son action contre le responsable, s'agissant d'un dommage corporel.
 
-> « L'action en responsabilité née à raison d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices qui en résultent, se prescrit par dix ans à compter de la date de la consolidation du dommage initial ou aggravé. » <br>
 > « L'action en responsabilité née à raison d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices qui en résultent, se prescrit par dix ans à compter de la date de la consolidation du dommage initial ou aggravé. » <br>
 > **Code civil > Livre III > Titre XX > Chapitre II > Section 2.** <br>
 > [Article 2226](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259) <br>
@@ -97,7 +92,6 @@ Le montant de compromis validé en interne s'élève à **~85 000 €**, justifi
 ## VI. ARTICULATION AVEC LE RÉFÉRÉ (ART. 835 CPC)
 L'action directe fonde la demande en référé-provision à l'encontre de l'assureur, dès lors que l'obligation d'indemniser n'est pas sérieusement contestable.
 
-> « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. » <br>
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. » <br>
 > **Code de procédure civile > Livre Ier > Titre XXI > Chapitre II.** <br>
 > [Article 835](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039480112) <br>
