@@ -66,14 +66,14 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784) [Art. 1720](📒%20Code/📒%20Code%20civil/Article1720_CodeCivil_LegiFrance.md) — Obligations du bailleur (grosses réparations)
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259) [Art. 2226](📒%20Code/📒%20Code%20civil/Article_2226_Code_Legifrance.md) — Prescription décennale
 
-### [📒 Code pénal (10 articles)](📒%20Code/📒%20Code%20penal/README.md)
-- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) [Art. 121-3](📒%20Code/📒%20Autres%20codes/Article_121-3_Code_Legifrance.md) — Responsabilité des personnes morales
+### [📒 Code pénal (8 articles)](📒%20Code/📒%20Code%20penal/README.md)
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) [Art. 121-3](📒%20Code/📒%20Autres%20codes/Article_121-3_Code_Legifrance.md) — Principe de la responsabilité pénale — intention, imprudence, mise en danger délibérée
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) [Art. 222-19](📒%20Code/📒%20Code%20penal/Article_222-19_CodePenal_Legifrance.md) — Blessures involontaires
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) [Art. 222-20](📒%20Code/📒%20Code%20penal/Article222-20_CodePenal_LegiFrance.md) — Blessures avec circonstances aggravantes
-- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253) [Art. 223-1](📒%20Code/📒%20Autres%20codes/Article_223-1_Code_Legifrance.md) — Mise en danger d'autrui
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637) [Art. 223-1](📒%20Code/📒%20Autres%20codes/Article_223-1_Code_Legifrance.md) — Mise en danger d'autrui
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226) [Art. 314-7](📒%20Code/📒%20Code%20penal/Article_314-7_CodePenal_Legifrance.md) — Fraude sociale
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) [Art. 434-4](📒%20Code/📒%20Code%20penal/Article_434-4_CodePenal_Legifrance.md) — Refus de communication
-- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417900) [Art. 434-15](📒%20Code/📒%20Code%20penal/Article_434-15_CodePenal_Legifrance.md) — Obstruction à la justice
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641) [Art. 434-15](📒%20Code/📒%20Code%20penal/Article_434-15_CodePenal_Legifrance.md) — Obstruction à la justice
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038876031) [Art. 434-15-1](📒%20Code/📒%20Code%20penal/Article_434-15-1_CodePenal_Legifrance.md) — Obstruction aggravée
 
 ### [📒 Code de procédure civile (4 articles)](📒%20Code/📒%20Code%20procedure%20civile/README.md)

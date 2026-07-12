@@ -1,6 +1,6 @@
 ---
 title: "📒 Code penal"
-description: "Dossier contenant les articles de loi relatifs à 📒 Code penal."
+description: "Dossier contenant les articles de loi relatifs à 📒 Code penal (8 articles)."
 type: readme
 ---
 
