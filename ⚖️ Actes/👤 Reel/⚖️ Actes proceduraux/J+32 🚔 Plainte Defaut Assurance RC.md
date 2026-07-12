@@ -46,7 +46,7 @@ Courriel : sebastien.grazide@gmail.com
 
 Tribunal Judiciaire de Foix
 
-[**[Adresse Tribunal Judiciaire]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+[**[Adresse Tribunal Judiciaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 09008 Foix Cedex
 

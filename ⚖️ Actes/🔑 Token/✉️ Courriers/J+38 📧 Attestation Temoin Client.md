@@ -1,6 +1,6 @@
 ---
 title: "Email Transmission Attestation Témoin Client"
-description: "Objet : Attestation de témoin — Accident du [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au salon **[L'Adresse de l'Exploitation]"
+description: "Objet : Attestation de témoin — Accident du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au salon **[L'Adresse de l'Exploitation]"
 type: courrier
 date: 2026-07-06
 jx: J+38
@@ -9,7 +9,7 @@ tags:
   - attestation
   - temoin
 statut: brouillon
-destinataire: Témoin client présent le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+destinataire: Témoin client présent le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/26 📧 Attestation Temoin Client.md
 source: local
@@ -30,13 +30,13 @@ source: local
 <!-- /Breadcrumb -->
 
 # TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (CLIENT)
-Objet : Attestation de témoin — Accident du [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au salon [**[L'Adresse de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+Objet : Attestation de témoin — Accident du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au salon [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 ---
 
 Bonjour,
 
-Vous étiez présent(e) le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au salon **Exploitant du Commerce** situé au [**[L'Adresse de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) lorsque l'accident s'est produit.
+Vous étiez présent(e) le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au salon **Exploitant du Commerce** situé au [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) lorsque l'accident s'est produit.
 
 Je me permets de vous solliciter pour remplir une **attestation de témoin** (Cerfa n° 11527\*03) afin de décrire ce que vous avez vu ce jour-là : la montée du coiffeur sur la vasque en céramique pour régler la télévision, le basculement de l'équipement, et le fait que ma main droite a heurté une cassure préexistante sur le flanc de la vasque.
 
@@ -65,8 +65,8 @@ Je vous remercie infiniment pour votre aide.
 
 Cordialement,
 
-[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
-[**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+[**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 ---
 

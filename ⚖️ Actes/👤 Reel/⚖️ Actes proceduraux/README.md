@@ -1,17 +1,5 @@
 # Index — ⚖️ Actes proceduraux (Versions Réelles)
 
-- [01 ⚖️ Assignation.md](01 ⚖️ Assignation.md)
-- [02 🚔 Plainte.md](02 🚔 Plainte.md)
-- [02b 🛡️ Constitution Partie Civile.md](02b 🛡️ Constitution Partie Civile.md)
-- [03 🔍 Assignation Article 145.md](03 🔍 Assignation Article 145.md)
-- [04 📑 Bordereau.md](04 📑 Bordereau.md)
-- [05 🎯 Conclusions Refere.md](05 🎯 Conclusions Refere.md)
-- [06 📸 Requete Constat Huissier.md](06 📸 Requete Constat Huissier.md)
-- [07 ⚖️ Projet Ordonnance Refere.md](07 ⚖️ Projet Ordonnance Refere.md)
-- [15 ⚖️ Réquisitoire introductif.md](15 ⚖️ Réquisitoire introductif.md)
-- [16 ⚠️ Signalement Parquet Fraud.md](16 ⚠️ Signalement Parquet Fraud.md)
-- [17 ⚖️ Requete Mandataire Ad Hoc.md](17 ⚖️ Requete Mandataire Ad Hoc.md)
-
 - [J+32 ⚖️ Assignation Refere Provision](J+32%20⚖️%20Assignation%20Refere%20Provision.md)
 - [J+32 🚔 Plainte Defaut Assurance RC](J+32%20🚔%20Plainte%20Defaut%20Assurance%20RC.md)
 - [J+38 📑 Bordereau Audience](J+38%20📑%20Bordereau%20Audience.md)
@@ -23,3 +11,5 @@
 - [J+47 📑 Bordereau de pieces](J+47%20📑%20Bordereau%20de%20pieces.md)
 - [J+47 🔍 Requete Article 145 CPC](J+47%20🔍%20Requete%20Article%20145%20CPC.md)
 - [J+63 ⚖️ Projet Ordonnance Refere](J+63%20⚖️%20Projet%20Ordonnance%20Refere.md)
+- [16 ⚠️ Signalement Parquet Fraud](16%20⚠️%20Signalement%20Parquet%20Fraud.md)
+- [17 ⚖️ Requete Mandataire Ad Hoc](17%20⚖️%20Requete%20Mandataire%20Ad%20Hoc.md)

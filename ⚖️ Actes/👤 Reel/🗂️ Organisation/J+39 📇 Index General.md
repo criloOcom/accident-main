@@ -1,6 +1,6 @@
 ---
 title: "Index de l'État Final du Dossier"
-description: "Rédigé le 30 juin 2026 — Mis à jour le [**[J+38 Mise à jour]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) (unification bordereau 43 pièces)"
+description: "Rédigé le 30 juin 2026 — Mis à jour le [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) (unification bordereau 43 pièces)"
 type: readme
 date: 2026-07-07
 jx: J+39
@@ -23,9 +23,9 @@ drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › 00 📇 Index
 <!-- /Breadcrumb -->
 
-# INDEX DU DOSSIER [**[LA VICTIME]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+# INDEX DU DOSSIER [**[LA VICTIME]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
 > 🔗 Source Google Drive : [1Zp-JK9kz0V0…](https://drive.google.com/open?id=1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU)
-Rédigé le 30 juin 2026 — Mis à jour le [**[J+38 Mise à jour]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) (unification bordereau 43 pièces)
+Rédigé le 30 juin 2026 — Mis à jour le [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) (unification bordereau 43 pièces)
 
 ## INTRODUCTION
 *Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire Sébastien GRAZIDE c/ SAS LES MAUVAIS GARCONS, à la suite de l'accident corporel grave survenu le 29 mai 2026. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du 30 juin 2026 et reflète l'état final de la composition du dossier.*
@@ -142,7 +142,7 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 - [RAPPORT_CONSISTENCY.md](../📊%20Rapports/🗄️%20Archives/audit/RAPPORT_CONSISTENCY.md) ✓ Vérifié : Rapport du script de cohérence.
 - [RAPPORT_INDEX.md](../📊%20Rapports/🗄️%20Archives/audit/RAPPORT_INDEX.md) ✓ Vérifié : Rapport d'indexation.
 - [SYNCHRO_TOKENS.md](../📊%20Rapports/🗄️%20Archives/audit/SYNCHRO_TOKENS.md) ✓ Vérifié : État de la synchronisation des tokens.
-- [TOKEN MAP.md](../../🧠%20Memory/TOKEN%20MAP.md) ✓ Vérifié : Table de correspondance des tokens.
+- [TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md) ✓ Vérifié : Table de correspondance des tokens.
 - [STRICT VARIABLES.md](../../🧠%20Memory/STRICT%20VARIABLES.md) ✓ Vérifié : Variables et faits inaltérables.
 - [PIECES MAP.md](../../🧠%20Memory/PIECES%20MAP.md) ✓ Vérifié : Correspondance documents et pièces.
 

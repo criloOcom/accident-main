@@ -160,4 +160,4 @@ source: drive
 
 ---
 
-> *Document mis à jour le [**[J+38 Mise à jour]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) — Les pièces sont classées par groupe thématique, numérotation séquentielle. Les pièces marquées Gabarit sont à faire remplir par les témoins.*
+> *Document mis à jour le [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) — Les pièces sont classées par groupe thématique, numérotation séquentielle. Les pièces marquées Gabarit sont à faire remplir par les témoins.*

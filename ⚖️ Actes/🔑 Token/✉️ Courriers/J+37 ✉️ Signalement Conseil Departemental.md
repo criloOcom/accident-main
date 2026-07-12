@@ -34,26 +34,26 @@ drive_id: 1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ
 
 # SIGNALEMENT DE NON-CONFORMITE D'ERP AU CONSEIL DEPARTEMENTAL DE L'ARIEGE
 > 🔗 Source Google Drive : [1pBi3ofZ86aG…](https://drive.google.com/open?id=1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ)
-[**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-Courriel : [**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 **Conseil Departemental de l'Ariege**
 
 **[Adresse à compléter]**
 
-[**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+37 Assignation 145]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+[**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+37 Assignation 145]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
 
-Objet : Signalement de non-conformite d'un ERP — SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)
+Objet : Signalement de non-conformite d'un ERP — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)
 
 <hr>
 
-Ref : SIREN [**[SIREN de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+Ref : SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 Madame, Monsieur le President du Conseil Departemental,
 
 ## INTRODUCTION
-La presente est adressee a vos services par [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), situe **[Adresse du Commerce]** a [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
+La presente est adressee a vos services par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), situe **[Adresse du Commerce]** a [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
@@ -98,8 +98,8 @@ Ces elements sont susceptibles de caracteriser un manquement aux obligations de 
 ## III — DEMANDE
 Je sollicite de vos services qu'une verification de la conformite de l'etablissement aux regles applicables aux ERP soit effectuee et, le cas echeant, que les mesures necessaires soient prises pour faire cesser les situations dangereuses constatees.
 
-Mes coordonnees pour reponse : [**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — Courriel : [**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+Mes coordonnees pour reponse : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le President, l'expression de ma consideration distinguee.
 
-[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)

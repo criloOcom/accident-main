@@ -70,7 +70,7 @@ source: drive
 | 23 juin 2026 | EVT-29 | Consultation de contrôle post-opératoire (J+24) | Médical | Réalisé |
 | 24/06/2026 | EVT-14 | Transmission de pièces CPAM | Correspondance | Fait |
 | 24/06/2026 | EVT-30 | Démarche administrative / Email | Procédure | Envoyé |
-| [**[J+27 Confirmation kiné]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) | EVT-48 | Confirmation de rendez-vous Kinésithérapie | Médical |  |
+| [**[J+27 Confirmation kiné]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) | EVT-48 | Confirmation de rendez-vous Kinésithérapie | Médical |  |
 | 29 juin 2026 | COR-01 | Envoi [Mise en demeure SAS](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md) | Correspondance | Distribué |
 | 29 juin 2026 | COR-02 | Envoi Mise en demeure Président Sabir MOUNTASSER | Correspondance | Distribué |
 | 29 juin 2026 | COR-03 | Envoi Mise en demeure DG Catherine ANDISSAC | Correspondance | Distribué |

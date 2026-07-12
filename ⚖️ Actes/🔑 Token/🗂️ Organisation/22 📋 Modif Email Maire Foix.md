@@ -40,15 +40,15 @@ Ce plan vise à corriger la formulation de l'e-mail pour éliminer tout terme in
 ## 2. Nouveau modèle d'e-mail à soumettre à validation
 
 ```markdown
-Objet : Suite à notre échange du [**[J+3 Premiers arrêts]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) – Demande d'intervention pour contrôle de sécurité et d'exploitation ([**[L'Adresse de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes))
+Objet : Suite à notre échange du [**[J+3 Premiers arrêts]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) – Demande d'intervention pour contrôle de sécurité et d'exploitation ([**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes))
 
 Monsieur l'Adjoint au Maire,
 
-Je me permets de vous recontacter à la suite de notre échange du [**[J+3 Premiers arrêts]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels), au cours duquel vous m'aviez indiqué avoir pris l'attache des services de la préfecture concernant les suites administratives de l'accident corporel grave dont j'ai été victime le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein de l'établissement situé au [**[L'Adresse de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
+Je me permets de vous recontacter à la suite de notre échange du [**[J+3 Premiers arrêts]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels), au cours duquel vous m'aviez indiqué avoir pris l'attache des services de la préfecture concernant les suites administratives de l'accident corporel grave dont j'ai été victime le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein de l'établissement situé au [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
 
 Je tiens à vous apporter des nouvelles de mon état de santé : suite à la microchirurgie subie pour les sections tendineuses et nerveuses de ma main droite dominante, je poursuis une rééducation lourde (3 séances par semaine), mon indisponibilité professionnelle (ITT) ayant été fixée à 56 jours.
 
-Habitant à [**[La Ville de Résidence de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), je constate que les courriers recommandés adressés à [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) à l'adresse de son siège social ([**[L'Adresse de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) me sont retournés avec la mention NPAI. Pourtant, le commerce semble avoir rouvert ses portes et être en activité régulière.
+Habitant à [**[La Ville de Résidence de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), je constate que les courriers recommandés adressés à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) à l'adresse de son siège social ([**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) me sont retournés avec la mention NPAI. Pourtant, le commerce semble avoir rouvert ses portes et être en activité régulière.
 
 Dans ce contexte, et afin d'assurer la sécurité publique au sein de cet établissement recevant du public (ERP), je sollicite l'intervention de vos services de police municipale afin que des agents assermentés puissent se rendre sur place pour procéder à des vérifications indispensables :
 1. Identifier précisément la structure juridique et l'identité de l'exploitant physique actuellement en activité dans les locaux (contrôle de l'affichage légal obligatoire, [extrait Kbis](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)).
@@ -63,7 +63,7 @@ Je vous remercie par avance pour votre action et votre suivi.
 
 Bien cordialement,
 
-[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
-[**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
-[**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+[**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 ```

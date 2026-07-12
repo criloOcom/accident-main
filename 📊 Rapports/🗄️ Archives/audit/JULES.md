@@ -243,7 +243,7 @@ readDocument(documentId, maxLength=500)
 ## Règles importantes
 
 1. **Ne JAMAIS inventer de statut juridique** — si une info n'est pas dans les sources, ne pas l'inventer
-2. **Toujours vérifier** les tokens d'anonymisation dans [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md) avant modification
+2. **Toujours vérifier** les tokens d'anonymisation dans [🧠 Memory/TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md) avant modification
 3. **Les sauts de page** (`<hr><hr>`) sont obligatoires : intro, sections, annexes
 4. **Le mapping** fichier ↔ Google Doc est dans [🧠 Memory/PIECES MAP.md](🧠%20Memory/PIECES%20MAP.md) — le consulter avant toute injection
 5. **Ne pas modifier** directement les Google Docs avec find/replace ou regex — toujours passer par `replaceDocumentWithMarkdown`

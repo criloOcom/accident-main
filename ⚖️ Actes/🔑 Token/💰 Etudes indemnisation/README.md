@@ -26,7 +26,6 @@ type: readme
 
 ## 📋 Fichiers
 
-- **[Evaluation Dintilhac consolidee](11+12%20📊%20Evaluation%20Dintilhac%20consolidee.md)** — ***~92 000 €*** — Document consolidé unique (fusion de l'étude initiale et de l'évaluation détaillée) : tous les postes Dintilhac, comparaison Glose, stratégie de recouvrement et demande de provision en référé.
 
 ## 💸 Synthèse rapide (compromis retenu)
 

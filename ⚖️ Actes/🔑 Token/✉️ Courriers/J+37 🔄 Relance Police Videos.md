@@ -11,7 +11,7 @@ tags:
   - videosurveillance
   - email
 statut: final
-destinataire: Police Nationale de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+destinataire: Police Nationale de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/20 🔄 Relance Police.md
 source: drive
@@ -34,30 +34,30 @@ drive_id: 171CF_LzNopYxIS6Tn4i3t3Ghx3ut14F1gh6-KjHevCA
 
 # RELANCE POLICE NATIONALE — SUIVI DE PLAINTE ET DEMANDE DE VIDEOS
 > 🔗 Source Google Drive : [171CF_LzNopY…](https://drive.google.com/open?id=171CF_LzNopYxIS6Tn4i3t3Ghx3ut14F1gh6-KjHevCA)
-[**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-Courriel : [**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 **Police Nationale — Commissariat de [La Ville de l'Accident]**
 
 **[Adresse à compléter]**
 
-[**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+37 Assignation 145]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+[**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+37 Assignation 145]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
 
-Objet : Relance pour suivi de plainte et demande de videosurveillance — PV n° [**[N° PV Police]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+Objet : Relance pour suivi de plainte et demande de videosurveillance — PV n° [**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 <hr>
 
-Ref : Depot de plainte du 1er juin 2026 — [Constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) du [**[J+4 Dépôt de plainte]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+Ref : Depot de plainte du 1er juin 2026 — [Constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) du [**[J+4 Dépôt de plainte]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
 
 Madame, Monsieur l'Officier de Police Judiciaire,
 
-La presente est adressee a vos services par [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), situe **[Adresse du Commerce]** a [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
+La presente est adressee a vos services par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), situe **[Adresse du Commerce]** a [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
 
 <hr>
 
 ## OBJET DE LA RELANCE
-J'ai depose plainte en vos services le 1er juin 2026 (PV n° [**[N° PV Police]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) et me suis constitue partie civile le [**[J+4 Dépôt de plainte]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels). Une requisition a personne qualifiee a ete delivree le meme jour aux fins d'examen medical.
+J'ai depose plainte en vos services le 1er juin 2026 (PV n° [**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) et me suis constitue partie civile le [**[J+4 Dépôt de plainte]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels). Une requisition a personne qualifiee a ete delivree le meme jour aux fins d'examen medical.
 
 Je me permets de solliciter de vos services :
 
@@ -73,8 +73,8 @@ Je sollicite donc que les images de videosurveillance de l'etablissement soient 
 
 ### **3. LA COMMUNICATION DE L'IDENTITE DE L'OFFICIER EN CHARGE DU DOSSIER** <BR>Afin de pouvoir suivre l'avancement de la procedure, je souhaiterais connaitre l'identite du ou des officiers de police judiciaire en charge de mon dossier.
 
-Mes coordonnees : [**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — Courriel : [**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+Mes coordonnees : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 
-[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)

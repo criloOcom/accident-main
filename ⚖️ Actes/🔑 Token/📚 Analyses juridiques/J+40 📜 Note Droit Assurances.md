@@ -1,6 +1,6 @@
 ---
 title: "Note d'Analyse Juridique - Droit des Assurances"
-description: "La présente note détaille la stratégie et l'analyse en droit des assurances concernant le litige opposant [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) à [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) et ses dirigeants, suite à l'accident corporel survenu le 29 mai 2026. Elle aborde la"
+description: "La présente note détaille la stratégie et l'analyse en droit des assurances concernant le litige opposant [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) et ses dirigeants, suite à l'accident corporel survenu le 29 mai 2026. Elle aborde la"
 type: analyse_juridique
 date: 2026-07-08
 jx: J+40
@@ -32,7 +32,7 @@ source: local
 # NOTE D'ANALYSE JURIDIQUE SPÉCIALE - DROIT DES ASSURANCES
 
 ## INTRODUCTION
-La présente note détaille la stratégie et l'analyse en droit des assurances concernant le litige opposant [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) à [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) et ses dirigeants, suite à l'accident corporel survenu le 29 mai 2026. Elle aborde la validité de l'action directe, les risques d'exclusion, la prescription, et la stratégie pré-contentieuse d'obtention de provision.
+La présente note détaille la stratégie et l'analyse en droit des assurances concernant le litige opposant [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) et ses dirigeants, suite à l'accident corporel survenu le 29 mai 2026. Elle aborde la validité de l'action directe, les risques d'exclusion, la prescription, et la stratégie pré-contentieuse d'obtention de provision.
 
 ## I. ÉTAT DE L'ACTION DIRECTE (ART. L.124-3 C. ASSUR.)
 Le principe de l'action directe permet à la victime d'agir directement contre l'assureur de responsabilité civile de l'auteur du dommage, sans passer par le patrimoine de ce dernier.
@@ -47,7 +47,7 @@ Le principe de l'action directe permet à la victime d'agir directement contre l
 > [Arrêt n°21-12.478](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770) <br>
 > **Cour de cassation, 3e chambre civile, 11 mai 2022, n° 21-12.478**
 
-L'obstacle actuel réside dans la rétention d'informations par [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) quant à l'identité de l'assureur, justifiant l'assignation en référé sur le fondement de l'article 145 du Code de procédure civile.
+L'obstacle actuel réside dans la rétention d'informations par [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) quant à l'identité de l'assureur, justifiant l'assignation en référé sur le fondement de l'article 145 du Code de procédure civile.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
@@ -69,7 +69,7 @@ L'assuré a l'obligation stricte de déclarer le sinistre.
 > **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre III.** <br>
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
 
-**Conséquences du défaut :** Si [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) n'a pas déclaré le sinistre, l'assureur pourrait théoriquement tenter de lui opposer une déchéance de garantie pour déclaration tardive. Cependant, cette déchéance ne peut être opposée à la victime exerçant son action directe, dont le droit à indemnisation est cristallisé au jour de l'accident. La mise en demeure adressée le 29 juin 2026 par [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a vocation à déclencher officiellement l'ouverture du dossier auprès de la compagnie.
+**Conséquences du défaut :** Si [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) n'a pas déclaré le sinistre, l'assureur pourrait théoriquement tenter de lui opposer une déchéance de garantie pour déclaration tardive. Cependant, cette déchéance ne peut être opposée à la victime exerçant son action directe, dont le droit à indemnisation est cristallisé au jour de l'accident. La mise en demeure adressée le 29 juin 2026 par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a vocation à déclencher officiellement l'ouverture du dossier auprès de la compagnie.
 
 ## IV. PRESCRIPTION : ART. L.114-1 VS ART. 2226 C. CIV.
 Le délai de prescription en droit des assurances est un piège classique, mais inapplicable à la victime corporelle directe.
@@ -84,7 +84,7 @@ Le délai de prescription en droit des assurances est un piège classique, mais 
 > **Code civil > Livre III > Titre XX > Chapitre II > Section 2.** <br>
 > [Article 2226](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259) <br>
 
-Ainsi, la prescription de notre action directe est strictement de **dix ans** à compter de la date de consolidation de [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (non encore acquise à ce jour).
+Ainsi, la prescription de notre action directe est strictement de **dix ans** à compter de la date de consolidation de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (non encore acquise à ce jour).
 
 ## V. OFFRE DE L'ASSUREUR ET STRATÉGIE TRANSACTIONNELLE
 Contrairement à la loi Badinter (L.211-9), la loi n'impose pas de délai strict pour une offre en responsabilité civile générale. Néanmoins, l'obligation de bonne foi contractuelle et la jurisprudence forcent les assureurs à examiner les demandes promptement.
@@ -103,7 +103,7 @@ L'action directe fonde la demande en référé-provision à l'encontre de l'assu
 Dès l'assureur identifié (suite à l'ordonnance Article 145), il sera mis en cause directement devant le juge des référés pour obtenir le paiement immédiat de la provision et la désignation d'un expert.
 
 ## VII. RECOURS SUBROGATOIRE ET ASSURANCES DU DIRIGEANT
-Après indemnisation, l'assureur de la SAS peut, par l'effet de la subrogation légale, se retourner contre les dirigeants ([**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et [**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)) s'il démontre l'existence d'une faute intentionnelle ou d'une faute personnelle détachable de leurs fonctions (dissimulation d'assurance, maintien fautif d'équipements dangereux).
+Après indemnisation, l'assureur de la SAS peut, par l'effet de la subrogation légale, se retourner contre les dirigeants ([**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)) s'il démontre l'existence d'une faute intentionnelle ou d'une faute personnelle détachable de leurs fonctions (dissimulation d'assurance, maintien fautif d'équipements dangereux).
 
 > « La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. » <br>
 > [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
@@ -119,7 +119,7 @@ Il est donc impératif de rechercher si les dirigeants disposent d'une assurance
 
 Madame, Monsieur,
 
-Je vous adresse la présente mise en demeure en votre qualité d'assureur garantissant la responsabilité civile de la société [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) (Assuré), en vertu de mon droit propre d'action directe prévu par l'article L. 124-3 du Code des assurances.
+Je vous adresse la présente mise en demeure en votre qualité d'assureur garantissant la responsabilité civile de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) (Assuré), en vertu de mon droit propre d'action directe prévu par l'article L. 124-3 du Code des assurances.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
@@ -144,4 +144,4 @@ Dans l'attente de votre prise de position urgente,
 
 Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 
-[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)

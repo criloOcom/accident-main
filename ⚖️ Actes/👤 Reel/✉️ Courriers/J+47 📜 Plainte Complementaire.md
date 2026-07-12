@@ -36,7 +36,7 @@ sebastien.grazide@gmail.com
 06 30 51 67 75
 
 **Commissariat de Police de Foix**
-[**[Adresse du Commissariat]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+[**[Adresse du Commissariat]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 09000 Foix
 
 Foix, le **[Date du dépôt]**
@@ -45,7 +45,7 @@ Foix, le **[Date du dépôt]**
 
 Monsieur l'Officier de Police Judiciaire,
 
-Je soussigné(e), Sébastien GRAZIDE, né(e) le [**[Date de naissance de la victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), demeurant 10 Avenue de Purpan, 31700 Blagnac, informaticien indépendant (SIREN 500 474 457), victime d'un accident corporel grave survenu le 29 mai 2026 au sein de l'établissement "Les Mauvais Garçons" exploité par la SAS SAS LES MAUVAIS GARCONS (SIREN 938 033 222), sis 22 Rue Lafaurie, 09000 Foix, 09000 Foix,
+Je soussigné(e), Sébastien GRAZIDE, né(e) le [**[Date de naissance de la victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), demeurant 10 Avenue de Purpan, 31700 Blagnac, informaticien indépendant (SIREN 500 474 457), victime d'un accident corporel grave survenu le 29 mai 2026 au sein de l'établissement "Les Mauvais Garçons" exploité par la SAS SAS LES MAUVAIS GARCONS (SIREN 938 033 222), sis 22 Rue Lafaurie, 09000 Foix, 09000 Foix,
 
 **VIENS PAR LA PRÉSENTE DÉPOSER PLAINTE COMPLÉMENTAIRE** contre les dirigeants de la société susmentionnée pour les faits suivants, constituant des infractions pénales caractérisées :
 

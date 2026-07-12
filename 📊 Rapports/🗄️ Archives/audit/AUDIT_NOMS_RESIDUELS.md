@@ -252,47 +252,47 @@ type: rapport
   - **Nom(s) trouvé(s):** DJERBI
   - **Contexte:** `1. Demander certificat médical de consolidation au Dr DJERBI` — **⏳ ⏳ À FAIRE PAR SÉBASTIEN (Envoyer le courrier de relance pour certificat de consolidation)**
 
-- **Fichier:** [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md) (Ligne 6)
+- **Fichier:** [🧠 Memory/TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md) (Ligne 6)
   - **Nom(s) trouvé(s):** Sébastien, Grazide, GRAZIDE
   - **Contexte:** `| Sébastien GRAZIDE / Grazide / GRAZIDE | `**[La Victime]**` |`
 
-- **Fichier:** [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md) (Ligne 7)
+- **Fichier:** [🧠 Memory/TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md) (Ligne 7)
   - **Nom(s) trouvé(s):** Sabir, MOUNTASSER, Mountasser, SABIR
   - **Contexte:** `| Sabir MOUNTASSER / MOUNTASSER / Mountasser SABIR / SABIR / Mountasser Sabir | `**[Le Président de l'Exploitation]**` |`
 
-- **Fichier:** [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md) (Ligne 8)
+- **Fichier:** [🧠 Memory/TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md) (Ligne 8)
   - **Nom(s) trouvé(s):** ANDISSAC, Sorroche, Andissac
   - **Contexte:** `| Catherine ANDISSAC / SORROCHE / Catherine Andissac / Catherine Sorroche | `**[La Directrice Générale de l'Exploitation]**` |`
 
-- **Fichier:** [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md) (Ligne 9)
+- **Fichier:** [🧠 Memory/TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md) (Ligne 9)
   - **Nom(s) trouvé(s):** BENNOURINE, Bennourine, Ayoub
   - **Contexte:** `| Ayoub Bennourine / BENNOURINE | `**[Le Préposé de l'Exploitation]**` |`
 
-- **Fichier:** [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md) (Ligne 10)
+- **Fichier:** [🧠 Memory/TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md) (Ligne 10)
   - **Nom(s) trouvé(s):** Romain, DELRIEU
   - **Contexte:** `| Romain DELRIEU / DELRIEU | `**[Le Propriétaire des Murs]**` |`
 
-- **Fichier:** [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md) (Ligne 11)
+- **Fichier:** [🧠 Memory/TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md) (Ligne 11)
   - **Nom(s) trouvé(s):** Djerbi, Iskander, DJERBI
   - **Contexte:** `| Dr Iskander Djerbi / DJERBI | `**[Le Chirurgien SOS Main]**` |`
 
-- **Fichier:** [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md) (Ligne 12)
+- **Fichier:** [🧠 Memory/TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md) (Ligne 12)
   - **Nom(s) trouvé(s):** Julie, Jardon, JARDON
   - **Contexte:** `| Dr Julie Jardon / JARDON | `**[Le Médecin en Urgence]**` |`
 
-- **Fichier:** [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md) (Ligne 13)
+- **Fichier:** [🧠 Memory/TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md) (Ligne 13)
   - **Nom(s) trouvé(s):** Oxybel
   - **Contexte:** `| Dr Oxybel / Oxybel | `**[Le Médecin Généraliste]**` |`
 
-- **Fichier:** [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md) (Ligne 14)
+- **Fichier:** [🧠 Memory/TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md) (Ligne 14)
   - **Nom(s) trouvé(s):** Sigrid, DESBOIS
   - **Contexte:** `| Sigrid DESBOIS / DESBOIS | `**[La Gestionnaire CPAM]**` |`
 
-- **Fichier:** [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md) (Ligne 40)
+- **Fichier:** [🧠 Memory/TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md) (Ligne 40)
   - **Nom(s) trouvé(s):** Sabir, MOUNTASSER
   - **Contexte:** `- Les prénoms/noms en casse mixte sans espace entre les deux (ex. "Mountasser Sabir" — ancien format inversé) doivent être ajoutés manuellement comme entrées au script`
 
-- **Fichier:** [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md) (Ligne 41)
+- **Fichier:** [🧠 Memory/TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md) (Ligne 41)
   - **Nom(s) trouvé(s):** Sébastien, Sabir
   - **Contexte:** `- Les prénoms seuls (ex. "Sébastien", "Sabir") ne sont pas dans la table — ils peuvent apparaître dans des documents conversationnels (doc 11)`
 

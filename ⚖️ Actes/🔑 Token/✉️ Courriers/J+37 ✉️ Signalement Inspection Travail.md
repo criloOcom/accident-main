@@ -26,9 +26,9 @@ drive_id: 1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM
 
 # DEMANDE D'INFORMATION A L'INSPECTION DU TRAVAIL
 > 🔗 Source Google Drive : [1tStFiBk8gxB…](https://drive.google.com/open?id=1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM)
-[**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-Courriel : [**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 **DDETS de l'Ariege** (Direction Departementale de l'Emploi, du Travail et des Solidarites)
 
@@ -36,18 +36,18 @@ Ou **DREETS Occitanie**
 
 **[Adresse à compléter]**
 
-[**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+37 Assignation 145]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+[**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+37 Assignation 145]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
 
-Objet : Demande d'information sur les diligences d'enquete — Accident du [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au salon **[Le Commerce de l'Exploitation]**
+Objet : Demande d'information sur les diligences d'enquete — Accident du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au salon **[Le Commerce de l'Exploitation]**
 
-Ref : Signalement effectue par la mairie de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) aupres de la Prefecture de l'Ariege le 1er juin 2026
+Ref : Signalement effectue par la mairie de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) aupres de la Prefecture de l'Ariege le 1er juin 2026
 
 Madame, Monsieur l'Inspecteur du Travail,
 
 <hr><hr>
 
 ## INTRODUCTION
-La presente lettre est adressee a vos services par [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein du salon de coiffure **[Le Commerce de l'Exploitation]**, situe **[Adresse du Commerce]** a [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
+La presente lettre est adressee a vos services par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein du salon de coiffure **[Le Commerce de l'Exploitation]**, situe **[Adresse du Commerce]** a [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
@@ -56,7 +56,7 @@ Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm ave
 <hr>
 
 ## CONTEXTE DE LA SAISINE DE VOS SERVICES
-Suite a cet accident, Monsieur [**[L'Adjoint au Maire de la Commune]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), Adjoint au Maire de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), m'a informe le 1er juin 2026 avoir pris l'attache des services de la Prefecture de l'Ariege afin de diligenter l'Inspection du Travail et le CODAF.
+Suite a cet accident, Monsieur [**[L'Adjoint au Maire de la Commune]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), Adjoint au Maire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), m'a informe le 1er juin 2026 avoir pris l'attache des services de la Prefecture de l'Ariege afin de diligenter l'Inspection du Travail et le CODAF.
 
 Je sollicite aujourd'hui vos services pour les motifs suivants :
 
@@ -77,7 +77,7 @@ Je me permets de porter a votre attention les elements suivants, susceptibles de
 > **Code du travail > Section 1 : Principes.** <br>
 > [Article L4321-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209) <br>
 
-- **Absence presumee de DUERP** : <br> A ce jour, aucun Document Unique d'Evaluation des Risques Professionnels ne m'a ete communique par l'exploitant, malgre une mise en demeure en LRAR du [**[J+31 Mises en demeure]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) restee sans reponse
+- **Absence presumee de DUERP** : <br> A ce jour, aucun Document Unique d'Evaluation des Risques Professionnels ne m'a ete communique par l'exploitant, malgre une mise en demeure en LRAR du [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) restee sans reponse
 
 - **Defaut presumee d'assurance RC Professionnelle** : <br>L'exploitant ne m'a pas communique l'identite de son assureur RC, en violation de l'obligation d'affichage prevue a l'Article L. 310-1-1-2 du Code des assurances modifie par la loi n° 2024-364 du 22 avril 2024
 
@@ -96,14 +96,14 @@ Je me permets de porter a votre attention les elements suivants, susceptibles de
 - **Travail dissimule presume** : <br>Possibilité que le prepose ne soit pas declare (a verifier par vos services)
 
 ### 4. TRANSMISSION AU PARQUET
-Si les faits constates sont constitutifs d'infractions penales, je vous remercie par avance de bien vouloir transmettre votre rapport au Procureur de la Republique pres le Tribunal Judiciaire de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) conformement a l'Article 40 du Code de procedure penale.
+Si les faits constates sont constitutifs d'infractions penales, je vous remercie par avance de bien vouloir transmettre votre rapport au Procureur de la Republique pres le Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) conformement a l'Article 40 du Code de procedure penale.
 
 > « Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1. Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. » <br>
 > **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.** <br>
 > [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) <br>
 
-Mes coordonnees pour reponse : [**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) / Courriel : [**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+Mes coordonnees pour reponse : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) / Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur l'Inspecteur du Travail, l'expression de ma consideration distinguee.
 
-[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)

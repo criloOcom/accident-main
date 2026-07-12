@@ -125,11 +125,11 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 <hr>
 
 ## IV. CONTACTS ET ANNUAIRES
-## AUTORITÉS JUDICIAIRES ET POLICIÈRES À [**[LA VILLE DE L'ACCIDENT]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
-- Tribunal Judiciaire : [**[Adresse Tribunal Judiciaire]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) ([**[Téléphone Tribunal Judiciaire]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / Commissariat : **[Adresse Commissariat]** ([**[Téléphone Commissariat]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)).
+## AUTORITÉS JUDICIAIRES ET POLICIÈRES À [**[LA VILLE DE L'ACCIDENT]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+- Tribunal Judiciaire : [**[Adresse Tribunal Judiciaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) ([**[Téléphone Tribunal Judiciaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / Commissariat : **[Adresse Commissariat]** ([**[Téléphone Commissariat]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)).
 
 ## SERVICES JURIDIQUES ET DE SANTÉ
-- Ordre des Avocats de Foix ([**[Téléphone Ordre Avocats]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / Huissiers : Étude d'Huissiers **[Nom Huissier]** ([**[Téléphone Huissier]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / UMJ de Toulouse.
+- Ordre des Avocats de Foix ([**[Téléphone Ordre Avocats]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / Huissiers : Étude d'Huissiers **[Nom Huissier]** ([**[Téléphone Huissier]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / UMJ de Toulouse.
 
 **Note administrative :** Dès le 15 juillet 2026 (le lendemain de la fin du délai amiable de mise en demeure), délivrance immédiate de l'assignation en référé par commissaire de justice, matérialisant la fin de la phase comminatoire amiable.
 

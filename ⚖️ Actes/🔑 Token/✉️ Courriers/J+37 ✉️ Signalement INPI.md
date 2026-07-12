@@ -34,24 +34,24 @@ drive_id: 1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E
 
 # DEMANDE DE SIGNALEMENT DE LITIGE AU REGISTRE NATIONAL DES ENTREPRISES
 > 🔗 Source Google Drive : [1gFhTi6GhD6u…](https://drive.google.com/open?id=1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E)
-[**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-Courriel : [**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 **INPI — Registre National des Entreprises**
 
 **[Adresse à compléter]**
 
-[**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+37 Assignation 145]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+[**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+37 Assignation 145]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
 
-Objet : Demande de signalement de litige en cours au RNE — SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)
+Objet : Demande de signalement de litige en cours au RNE — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)
 
-Ref : SIREN [**[SIREN de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)
+Ref : SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)
 
 Madame, Monsieur,
 
 ## INTRODUCTION
-La presente est adressee a l'INPI par [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), immatriculee au RNE sous le SIREN [**[SIREN de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
+La presente est adressee a l'INPI par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), immatriculee au RNE sous le SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
@@ -64,7 +64,7 @@ Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm ave
 <hr>
 
 ## I — RAPPEL DES FAITS
-Le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels), alors que je me trouvais dans l'etablissement pour une prestation de coiffure, le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television. Cet equipement etait instable et presentait une cassure majeure preexistante non signalee.
+Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels), alors que je me trouvais dans l'etablissement pour une prestation de coiffure, le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television. Cet equipement etait instable et presentait une cassure majeure preexistante non signalee.
 
 En descendant, le poids du prepose a provoque le basculement de l'equipement, et ma main droite, tendue par reflexe pour le proteger, a heurte la cassure preexistante, entrainant une plaie palmaire profonde et une section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant.
 
@@ -74,12 +74,12 @@ En descendant, le poids du prepose a provoque le basculement de l'equipement, et
 Les procedures suivantes ont ete engagees :
 
 **1. Procedure penale**
-- Depot de plainte le 1er juin 2026 (PV n° [**[N° PV Police]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes))
-- [Constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise le [**[J+31 Mises en demeure]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+- Depot de plainte le 1er juin 2026 (PV n° [**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes))
+- [Constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise le [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
 - Plainte complementaire pour defaut d'assurance RC professionnelle et travail dissimule presume
 
-**2. Mises en demeure LRAR** du [**[J+31 Mises en demeure]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
-- Mise en demeure a la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)
+**2. Mises en demeure LRAR** du [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+- Mise en demeure a la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)
 - Mise en demeure a **[Le President de l'Exploitation]** et a **[La Directrice Generale de l'Exploitation]**
 - Action directe contre l'assureur RC (Article L.124-3 du Code des assurances)
 
@@ -94,12 +94,12 @@ Les procedures suivantes ont ete engagees :
 <hr>
 
 ## III — DEMANDE DE SIGNALEMENT
-Conformement aux dispositions du Code de commerce relatives au Registre National des Entreprises, je sollicite l'inscription d'un signalement au dossier RNE de la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) (SIREN [**[SIREN de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) afin de porter a la connaissance des tiers et de l'administration l'existence du litige en cours.
+Conformement aux dispositions du Code de commerce relatives au Registre National des Entreprises, je sollicite l'inscription d'un signalement au dossier RNE de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) (SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) afin de porter a la connaissance des tiers et de l'administration l'existence du litige en cours.
 
 Cette demande est motivee par la necessite de prevenir toute modification de la situation juridique de la societe (dissolution, liquidation, radiation ou cession) qui pourrait intervenir sans que les autorites et les tiers aient connaissance des creances et actions en justice en cours a l'encontre de la societe. Les montants en jeu sont estimes a **59 600 €** au titre de la reparation integrale des prejudices corporels.
 
-Mes coordonnees : [**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — Courriel : [**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+Mes coordonnees : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 
-[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)

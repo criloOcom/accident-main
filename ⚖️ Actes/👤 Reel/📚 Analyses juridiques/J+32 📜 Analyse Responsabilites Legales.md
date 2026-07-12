@@ -30,7 +30,7 @@ drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 13 📜 Responsabilites legales
 <!-- /Breadcrumb -->
 
-# ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE [**[L'EXPLOITANT DU COMMERCE (LA SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)
+# ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE [**[L'EXPLOITANT DU COMMERCE (LA SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)
 > 🔗 Source Google Drive : [1lUKoGE8kozm…](https://drive.google.com/open?id=1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34)
 Rédigé le 30 juin 2026
 

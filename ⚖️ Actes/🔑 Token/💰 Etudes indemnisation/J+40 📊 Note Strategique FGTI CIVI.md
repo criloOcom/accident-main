@@ -49,7 +49,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 - **Voie pénale et civile** : La [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) a l'avantage de faire constater officiellement l'infraction (qui est le fait générateur de l'intervention du FGTI). Néanmoins, l'action civile devant la juridiction répressive (ou au civil) et la procédure CIVI sont autonomes. Il est possible, et même recommandé, de saisir la CIVI avant l'issue du procès pénal pour obtenir rapidement une provision, le jugement pénal n'étant pas un préalable obligatoire (la CIVI apprécie elle-même la matérialité de l'infraction).
 
 ## 3. PROCÉDURE DÉTAILLÉE DEVANT LA CIVI
-1. **Saisine** : Dépôt d'une requête devant la Commission d'Indemnisation des Victimes d'Infractions (CIVI) rattachée au Tribunal Judiciaire (TJ de [**[La Métropole Régionale]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) ou de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)).
+1. **Saisine** : Dépôt d'une requête devant la Commission d'Indemnisation des Victimes d'Infractions (CIVI) rattachée au Tribunal Judiciaire (TJ de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) ou de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)).
 2. **Phase amiable (FGTI)** : La requête est transmise au FGTI, qui dispose d'un délai de 2 mois pour formuler une offre d'indemnisation provisionnelle ou définitive.
 3. **Homologation ou contentieux** :
    - En cas d'accord, la CIVI homologue l'offre du FGTI.

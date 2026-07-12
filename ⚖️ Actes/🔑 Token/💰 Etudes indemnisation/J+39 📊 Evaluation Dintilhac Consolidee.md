@@ -33,11 +33,11 @@ source: local
 
 # ÉVALUATION DINTILHAC CONSOLIDÉE — 11 + 12
 
-[**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) <br>
-[**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) <br>
-[**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+32 Assignation référé]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) <br>
+[**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) <br>
+[**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
 
-Rédigé le [**[J+32 Assignation référé]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+Rédigé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
 
 <hr>
 
@@ -69,9 +69,9 @@ Rédigé le [**[J+32 Assignation référé]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP
 
 ## 1.1 FAITS DU SINISTRE
 
-La présente évaluation a pour objet d'évaluer l'intégralité des préjudices corporels subis par [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) à la suite de l'accident du [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) — au cours duquel, alors que l'employé [**[Le Préposé de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit.
+La présente évaluation a pour objet d'évaluer l'intégralité des préjudices corporels subis par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) à la suite de l'accident du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) — au cours duquel, alors que l'employé [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
-[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) est travailleur indépendant inscrit sous le numéro [**[L'Identifiant Professionnel de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), exerçant la profession d'informaticien droitier et guitariste. Les déclarations URSSAF attestent de recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) est travailleur indépendant inscrit sous le numéro [**[L'Identifiant Professionnel de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), exerçant la profession d'informaticien droitier et guitariste. Les déclarations URSSAF attestent de recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
 
 ## 1.2 PRINCIPE DE LA RÉPARATION INTÉGRALE
 
@@ -146,7 +146,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 **Définition :** Indemnise la perte de revenus durant l'incapacité temporaire totale (ITT).
 
 **Calcul technique :**
-- ITT : 56 jours (du 29 mai au [**[J+55 Fin d'ITT]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
+- ITT : 56 jours (du 29 mai au [**[J+55 Fin d'ITT]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
 - CA mensuel : 750 € → 750 / 30 × 56 = **1 400 €** (prorata)
 - Formule Glose plus précise : 56 / 30,44 × 750 = **1 380 €**
 
@@ -232,7 +232,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 **Sources :**
 - Référentiel Mornet 2024-2026 : 4/7 = 15 000 à 30 000 €
-- CA de [**[La Métropole Régionale]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), 11 octobre 2022, RG n° 21/03743
+- CA de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), 11 octobre 2022, RG n° 21/03743
 - JMP Avocat, référentiel Mornet 2026 : 4/7 = 20 000 à 35 000 €
 
 ---
@@ -390,7 +390,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Méthode pour identifier l'assureur :**
 1. Consultation RNE/INPI (déjà fait)
-2. Saisine greffe TC de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) pour coordonnées assurance
+2. Saisine greffe TC de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) pour coordonnées assurance
 3. Interrogation ORIAS
 4. Questionnement dirigeants sous astreinte
 5. Assignation [art. 145 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) si refus persistant
@@ -440,7 +440,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Procédure :**
 - Délai : 3 ans à compter de l'infraction (29 mai 2029)
-- Compétence : CIVI du TJ de [**[La Métropole Régionale]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (domicile) ou de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (lieu infraction)
+- Compétence : CIVI du TJ de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (domicile) ou de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (lieu infraction)
 - Requête écrite au greffe de la CIVI avec tous justificatifs
 - Offre du FGTI sous 2 mois
 - Versement : la CIVI homologue, le FGTI paie
@@ -491,7 +491,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 9. Assignation au fond
 
 ### Phase 4 — Si insolvabilité confirmée (début 2027)
-10. Saisine CIVI du TJ de [**[La Métropole Régionale]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+10. Saisine CIVI du TJ de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 11. Demande indemnisation FGTI (réparation intégrale)
 12. Constitution partie civile
 

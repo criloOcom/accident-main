@@ -32,39 +32,39 @@ drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
 > 🔗 Source Google Drive : [1FNHNbCe5WUH…](https://drive.google.com/open?id=1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg)
 **Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants**
 
-[**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-Courriel : [**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 A l'attention de Monsieur le Doyen des Juges d'Instruction
 
-Tribunal Judiciaire de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-**[La Ville de Residence de la Victime]**, le [**[J+38 Constitution PC]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+**[La Ville de Residence de la Victime]**, le [**[J+38 Constitution PC]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
 
 ## INTRODUCTION
-La presente [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) est formee par [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) dans le cadre de la procedure penale suivie a l'encontre de la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), de son President **[Le President de l'Exploitation]** et de sa Directrice Generale **[La Directrice Generale de l'Exploitation]**, en application des articles 2 et suivants du Code de procedure penale.
+La presente [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) est formee par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) dans le cadre de la procedure penale suivie a l'encontre de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), de son President **[Le President de l'Exploitation]** et de sa Directrice Generale **[La Directrice Generale de l'Exploitation]**, en application des articles 2 et suivants du Code de procedure penale.
 
-Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la reparation de l'integralite des prejudices corporels, materiels et moraux decoulant de l'accident survenu le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales).
+Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la reparation de l'integralite des prejudices corporels, materiels et moraux decoulant de l'accident survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales).
 
 <hr><hr>
 
 ## I — EXPOSE DES FAITS
-Le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels), alors que [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) se trouvait en qualite de client au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) sis [**[L'Adresse de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), un grave accident corporel est survenu.
+Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels), alors que [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) se trouvait en qualite de client au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) sis [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), un grave accident corporel est survenu.
 
-Le prepose de l'exploitation, **[Le Prepose de l'Exploitation]**, a escalade la vasque en ceramique du bac a shampoing pour acceder au poste de television. Cet equipement, instable et presentant une cassure majeure preexistante non signalee aux aretes tranchantes, a bascule sous son poids. Par reflexe, [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a tendu la main droite pour proteger le prepose ; sa paume a heurte la cassure tranchante, provoquant :
+Le prepose de l'exploitation, **[Le Prepose de l'Exploitation]**, a escalade la vasque en ceramique du bac a shampoing pour acceder au poste de television. Cet equipement, instable et presentant une cassure majeure preexistante non signalee aux aretes tranchantes, a bascule sous son poids. Par reflexe, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a tendu la main droite pour proteger le prepose ; sa paume a heurte la cassure tranchante, provoquant :
 
 - Une section partielle du tendon flechisseur superficial de l'index droit
 - Une section du paquet vasculo-nerveux radial de l'index dominant
 - Une plaie palmaire profonde de 8,5 cm
 - Une incapacite totale de travail (ITT) de 56 jours
 
-Une microchirurgie d'urgence a ete pratiquee le [**[J+1 Chirurgie]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) par [**[Le Chirurgien SOS Main]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) au centre SOS Main de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
+Une microchirurgie d'urgence a ete pratiquee le [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) au centre SOS Main de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
 
 ### ANTECEDENTS ET CARENCES DES MIS EN CAUSE
-La SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), immatriculee au RCS sous le SIREN [**[SIREN de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), a ete constituee avec un capital social de 200 € seulement. Son President, **[Le President de l'Exploitation]**, et sa Directrice Generale, **[La Directrice Generale de l'Exploitation]**, n'ont souscrit aucune assurance de responsabilite civile professionnelle pour l'exploitation du salon, en violation des obligations legales et reglementaires applicables aux etablissements recevant du public (ERP).
+La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), immatriculee au RCS sous le SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), a ete constituee avec un capital social de 200 € seulement. Son President, **[Le President de l'Exploitation]**, et sa Directrice Generale, **[La Directrice Generale de l'Exploitation]**, n'ont souscrit aucune assurance de responsabilite civile professionnelle pour l'exploitation du salon, en violation des obligations legales et reglementaires applicables aux etablissements recevant du public (ERP).
 
-Malgre des mises en demeure recommandees adressees le [**[J+31 Mises en demeure]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) a la SAS, au President et a la Directrice Generale, aucun des mis en cause n'a communique les coordonnees d'un assureur, laissant presumer une absence totale de couverture.
+Malgre des mises en demeure recommandees adressees le [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) a la SAS, au President et a la Directrice Generale, aucun des mis en cause n'a communique les coordonnees d'un assureur, laissant presumer une absence totale de couverture.
 
 <hr>
 
@@ -84,7 +84,7 @@ En l'espece :
   
 - **L'inobservation des regles de securite** applicables aux ERP (etablissements recevant du public) est caracterisee par le defaut d'entretien du materiel et l'absence de verification des installations.
 
-L'ITT de 56 jours, certifiee par [**[Le Chirurgien SOS Main]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), est inferieure a 3 mois, ce qui conduit a la qualification suivante :
+L'ITT de 56 jours, certifiee par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), est inferieure a 3 mois, ce qui conduit a la qualification suivante :
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
 > **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
@@ -154,7 +154,7 @@ En l'absence d'assurance, l'indemnisation de la victime est gravement compromise
 <hr>
 
 ## III — PREJUDICES
-Les prejudices subis par [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) sont graves et durables :
+Les prejudices subis par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) sont graves et durables :
 
 | Poste de prejudice | Evaluation |
 |-------------------|------------|
@@ -172,15 +172,15 @@ Les prejudices subis par [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md
 <hr>
 
 ## IV — DEMANDES
-Par ces motifs, [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction de :
+Par ces motifs, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction de :
 
 1. **DECLARER** recevable la presente [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) ;
 
 2. **DESIGNER** tel expert Medical qu'il plaira au tribunal avec mission d'evaluer l'integralite des chefs de prejudice selon la nomenclature Dintilhac ;
 
-3. **ACCORDER** a [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), de **[Le President de l'Exploitation]** et de **[La Directrice Generale de l'Exploitation]** ;
+3. **ACCORDER** a [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), de **[Le President de l'Exploitation]** et de **[La Directrice Generale de l'Exploitation]** ;
 
-4. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) la somme de **[Finance Article 700]** sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
+4. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) la somme de **[Finance Article 700]** sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
 
 > « Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. » <br>
 > **Code de procédure pénale > Paragraphe 1 : Dispositions générales — abrogation différée.** <br>
@@ -204,15 +204,15 @@ Vu les articles 706-3 et 706-14 du Code de procedure penale,
 Vu la jurisprudence de la Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092 (arret SATI),
 Vu les pieces versees aux debats,
 
-[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) se constitue partie civile et sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction, ou a tout magistrat compose le Tribunal Judiciaire de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), de :
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) se constitue partie civile et sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction, ou a tout magistrat compose le Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), de :
 
 1. **RECEVOIR** la presente [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) ;
 
 2. **ORDONNER** une expertise medicale judiciaire ;
 
-3. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a verser a [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices ;
+3. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a verser a [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices ;
 
-4. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) la somme de **[Finance Article 700]** sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
+4. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) la somme de **[Finance Article 700]** sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
 
 > « Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. » <br>
 > **Code de procédure pénale > Paragraphe 1 : Dispositions générales — abrogation différée.** <br>
@@ -220,21 +220,21 @@ Vu les pieces versees aux debats,
 
 5. **SE RESERVER** la liquidation de l'astreinte et la fixation des dommages et interets definitifs apres depot du rapport d'expertise medicale.
 
-Fait a **[La Ville de Residence de la Victime]**, le [**[J+38 Constitution PC]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+Fait a **[La Ville de Residence de la Victime]**, le [**[J+38 Constitution PC]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
 
-[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
 
 ## BORDEREAU DE PIÈCES ANNEXÉES
-1. **Pièce n°1 :** Procès-verbal de police n° [**[N° PV Police]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — dépôt de plainte pour blessures involontaires
-2. **Pièce n°2 :** [Certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) de constatation des blessures rédigé par [**[Le Médecin en Urgence]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) ([**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
-3. **Pièce n°3 :** [Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie d'urgence (suture nerveuse et tendineuse) rédigé par [**[Le Chirurgien SOS Main]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) ([**[J+1 Chirurgie]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
+1. **Pièce n°1 :** Procès-verbal de police n° [**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — dépôt de plainte pour blessures involontaires
+2. **Pièce n°2 :** [Certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) de constatation des blessures rédigé par [**[Le Médecin en Urgence]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) ([**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
+3. **Pièce n°3 :** [Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie d'urgence (suture nerveuse et tendineuse) rédigé par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) ([**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
 4. **Pièce n°4 :** Certificats médicaux d'[arrêts de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 56 jours d'Incapacité Totale de Travail (ITT)
 5. **Pièce n°5 :** Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
-6. **Pièce n°6 :** Preuves de l'opération de paiement Wero de **[Finance Prestation Salon]** ([**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)) démontrant la présence dans les lieux
+6. **Pièce n°6 :** Preuves de l'opération de paiement Wero de **[Finance Prestation Salon]** ([**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)) démontrant la présence dans les lieux
 7. **Pièce n°7 :** Facture de pharmacie post-opératoire (**[J+0 Accident]`)
-8. **Pièce n°8 :** Facture de chirurgie SOS Main (**[Finance Facture Chirurgie]**) ([**[J+12 Facture]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
+8. **Pièce n°8 :** Facture de chirurgie SOS Main (**[Finance Facture Chirurgie]**) ([**[J+12 Facture]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
 9. **Pièce n°9 :** Dossier de Recours Contre Tiers (RCT) CPAM
-10. **Pièce n°10 :** LRAR de mise en demeure adressée à [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) ([**[J+31 Mises en demeure]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
-11. **Pièce n°11 :** LRAR de mise en demeure adressée à [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) ([**[J+31 Mises en demeure]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
-12. **Pièce n°12 :** LRAR de mise en demeure adressée à [**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) ([**[J+31 Mises en demeure]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
-13. **Pièce n°13 :** LRAR adressée à [**[Le Propriétaire des Murs]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et son AR signé ([**[J+35 AR propriétaire]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
+10. **Pièce n°10 :** LRAR de mise en demeure adressée à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) ([**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
+11. **Pièce n°11 :** LRAR de mise en demeure adressée à [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) ([**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
+12. **Pièce n°12 :** LRAR de mise en demeure adressée à [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) ([**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
+13. **Pièce n°13 :** LRAR adressée à [**[Le Propriétaire des Murs]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et son AR signé ([**[J+35 AR propriétaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))

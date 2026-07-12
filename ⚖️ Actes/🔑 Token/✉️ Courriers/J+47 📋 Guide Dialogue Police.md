@@ -73,7 +73,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ### À l'accueil du commissariat
 
-**Vous :** "Bonjour Madame/Monsieur, je suis [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques). J'ai déposé une plainte le 1er juin 2026 ([PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour un accident corporel grave survenu au salon de coiffure 'Les Mauvais Garçons'. Je souhaite déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves. Pouvez-vous me diriger vers le service compétent ?"
+**Vous :** "Bonjour Madame/Monsieur, je suis [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques). J'ai déposé une plainte le 1er juin 2026 ([PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour un accident corporel grave survenu au salon de coiffure 'Les Mauvais Garçons'. Je souhaite déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves. Pouvez-vous me diriger vers le service compétent ?"
 
 **Si on vous demande d'attendre :**
 "Bien sûr, je comprends. Puis-je avoir un numéro ou un ticket pour suivre mon tour ? Combien de temps l'attente est-elle généralement ?"
@@ -87,7 +87,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ### Introduction auprès de l'officier
 
-**Vous :** "Bonjour Monsieur/Madame l'Officier. Je m'appelle [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), je suis la victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiffure 'Les Mauvais Garçons' situé au 22 Rue Lafaurie. J'ai déjà déposé une plainte initiale le 1er juin ([PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)), et je souhaite aujourd'hui déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves par les dirigeants de l'établissement."
+**Vous :** "Bonjour Monsieur/Madame l'Officier. Je m'appelle [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), je suis la victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiffure 'Les Mauvais Garçons' situé au 22 Rue Lafaurie. J'ai déjà déposé une plainte initiale le 1er juin ([PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)), et je souhaite aujourd'hui déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves par les dirigeants de l'établissement."
 
 **Remettez votre dossier en disant :**
 "Voici le dossier complet que j'ai préparé. Il contient la plainte complémentaire détaillée avec toutes les références juridiques, ainsi que les pièces justificatives. Je peux vous en faire un résumé si vous le souhaitez, ou vous préférez le parcourir d'abord ?"

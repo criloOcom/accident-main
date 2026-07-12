@@ -1,6 +1,6 @@
 ---
 title: "Fiche Réflexe 48h - Disparition SAS"
-description: "La disparition soudaine de [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et geler la situation factuelle et juridique"
+description: "La disparition soudaine de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et geler la situation factuelle et juridique"
 type: readme
 date: 2026-07-09
 tags:
@@ -32,7 +32,7 @@ reel_path: ../../👤 Reel/🗂️ Organisation/Fiche Reflexe 48h Disparition SA
 
 ## PROBLÉMATIQUE
 
-La disparition soudaine de [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et geler la situation factuelle et juridique avant toute tentative de dissimulation ou d'organisation d'insolvabilité.
+La disparition soudaine de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et geler la situation factuelle et juridique avant toute tentative de dissimulation ou d'organisation d'insolvabilité.
 
 La question centrale porte sur la temporalité et l'ordonnancement juridique : dans quel ordre faut-il agir et sur quels leviers juridiques s'appuyer en priorité pour garantir l'efficacité des mesures coercitives et conservatoires ?
 
@@ -54,7 +54,7 @@ Conformément aux obligations légales en la matière, ce signalement trouve son
 
 ### 1. Le constat par Commissaire de Justice (Action Immédiate : Ce soir ou demain matin)
 
-La priorité absolue est de figer la situation sur le terrain. Le recours à un Commissaire de Justice est indispensable pour constater objectivement la fermeture, la disparition, ou toute autre modification matérielle des locaux exploités par [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales). Cette mesure, qui ne souffre d'aucun délai, doit être exécutée inopinément.
+La priorité absolue est de figer la situation sur le terrain. Le recours à un Commissaire de Justice est indispensable pour constater objectivement la fermeture, la disparition, ou toute autre modification matérielle des locaux exploités par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales). Cette mesure, qui ne souffre d'aucun délai, doit être exécutée inopinément.
 
 ### 2. La vérification INPI (Action à J+1)
 
@@ -70,8 +70,8 @@ Dès lors que les premiers éléments de preuve (constat, vérifications INPI) s
 
 ### 4. L'envoi des LRAR (Action à J+2, en clôture de séquence)
 
-Ce n'est qu'une fois les éléments de preuve sécurisés (Constat) et les vérifications effectuées que la mise en demeure officielle par LRAR pourra être envoyée. Ces courriers, adressés à [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), à ses dirigeants, ainsi qu'à tout organisme pertinent, interviendront alors que la situation est verrouillée, supprimant ainsi toute opportunité pour la partie adverse d'organiser utilement sa fuite.
+Ce n'est qu'une fois les éléments de preuve sécurisés (Constat) et les vérifications effectuées que la mise en demeure officielle par LRAR pourra être envoyée. Ces courriers, adressés à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), à ses dirigeants, ainsi qu'à tout organisme pertinent, interviendront alors que la situation est verrouillée, supprimant ainsi toute opportunité pour la partie adverse d'organiser utilement sa fuite.
 
 ## CONCLUSION
 
-La présente fiche réflexe impose un séquencement strict : **Constat → Vérifications → Signalement → Mise en demeure**. Le non-respect de cet ordre, et particulièrement l'envoi prématuré d'une LRAR, compromettrait irrémédiablement l'effet de surprise et, *in fine*, les intérêts de [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques).
+La présente fiche réflexe impose un séquencement strict : **Constat → Vérifications → Signalement → Mise en demeure**. Le non-respect de cet ordre, et particulièrement l'envoi prématuré d'une LRAR, compromettrait irrémédiablement l'effet de surprise et, *in fine*, les intérêts de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques).

@@ -103,19 +103,19 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 | 1 | Certificat medical initial (Dr Dr Oxybel) | 29 mai 2026 |
 | 2 | Compte-rendu operatoire SOS Main (Dr Dr Iskander DJERBI) | 30 mai 2026 |
 | 3 | Bulletin de sortie Clinique de l'Union | 31 mai 2026 |
-| 4 | Certificats d'arret de travail (ITT 56 jours) | [**[J+3 Premiers arrets]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) |
-| 5 | Ordonnances et prescriptions medicales | [**[J+3 Premiers arrets]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) |
+| 4 | Certificats d'arret de travail (ITT 56 jours) | [**[J+3 Premiers arrets]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) |
+| 5 | Ordonnances et prescriptions medicales | [**[J+3 Premiers arrets]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) |
 | 6 | Facture de chirurgie (790,23 €) | 10 juin 2026 |
-| 7 | Compte-rendu de controle chirurgical | [**[J+21 Controle chirurgical]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) |
+| 7 | Compte-rendu de controle chirurgical | [**[J+21 Controle chirurgical]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) |
 
 **B. Pieces administratives**
 
 | N° | Piece | Date |
 |----|-------|------|
-| 8 | Recu de depot de plainte (Police Nationale, PV n° 2026/015967) | [**[J+4 Depot de plainte]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) |
+| 8 | Recu de depot de plainte (Police Nationale, PV n° 2026/015967) | [**[J+4 Depot de plainte]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) |
 | 9 | Mises en demeure LRAR (SAS + dirigeants + proprietaire) | 29 juin 2026 |
 | 10 | Preuve de paiement Wero 15,00 € (preuve de presence materielle) | 29 mai 2026 |
-| 11 | Assignation refere-provision (Art. 835 CPC) | [**[J+32 Assignation refere]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) |
+| 11 | Assignation refere-provision (Art. 835 CPC) | [**[J+32 Assignation refere]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) |
 | 12 | Assignation Article 145 CPC (communication assurance) | 5 juillet 2026 |
 | 13 | [Constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (Art. 222-19/222-20 CP) | 6 juillet 2026 |
 

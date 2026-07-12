@@ -34,16 +34,16 @@ drive_id: 1R26179ks7vLkzw0hYEHL888i0p1VS9ppa6s8R8kQ_gg
 
 # REQUÊTE — COMMUNICATION ASSURANCE RC + CONSERVATION VIDÉOS
 > 🔗 Source Google Drive : [1R26179ks7vL…](https://drive.google.com/open?id=1R26179ks7vLkzw0hYEHL888i0p1VS9ppa6s8R8kQ_gg)
-[**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) <br>
-[**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) <br>
+[**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-A l'attention de Monsieur le President du Tribunal Judiciaire de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) <br>
+A l'attention de Monsieur le President du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) <br>
 Cabinet du Juge des Referes
 
-[**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+37 Requête 145]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+[**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+37 Requête 145]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
 
 ## INTRODUCTION
-La presente requete est introduite par [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) sur le fondement de l'Article 145 du Code de procedure civile.
+La presente requete est introduite par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) sur le fondement de l'Article 145 du Code de procedure civile.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
@@ -51,7 +51,7 @@ La presente requete est introduite par [**[La Victime]**](%F0%9F%A7%A0%20Memory/
 
 Elle a pour double objet d'obtenir, sous astreinte :
 
-1. La communication de la police d'assurance de responsabilite civile professionnelle souscrite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), seule mesure permettant a [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) d'exercer son action directe contre l'assureur sur le fondement de l'Article L.124-3 du Code des assurances ;
+1. La communication de la police d'assurance de responsabilite civile professionnelle souscrite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), seule mesure permettant a [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) d'exercer son action directe contre l'assureur sur le fondement de l'Article L.124-3 du Code des assurances ;
 
 2. La conservation et la communication des enregistrements de videosurveillance du salon de coiffure pour la periode du 25 mai au 5 juin 2026, avant leur ecrasement (delai standard de conservation de 60 jours).
 
@@ -62,19 +62,19 @@ Elle a pour double objet d'obtenir, sous astreinte :
 <hr><hr>
 
 ## I — EXPOSE DES FAITS
-Le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels), alors qu'il se trouvait au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) en qualite de client, [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a ete victime d'un accident corporel grave.
+Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels), alors qu'il se trouvait au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) en qualite de client, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a ete victime d'un accident corporel grave.
 
 Alors que **[Le Prepose de l'Exploitation]** escaladait la vasque en ceramique du bac a shampoing pour acceder au poste de television, l'equipement a bascule.
 
-Par reflexe, [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a tendu la main droite pour proteger le prepose ; sa paume a heurte une cassure majeure preexistante non signalee aux aretes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit ayant necessite une microchirurgie d'urgence le [**[J+1 Chirurgie]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels).
+Par reflexe, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a tendu la main droite pour proteger le prepose ; sa paume a heurte une cassure majeure preexistante non signalee aux aretes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit ayant necessite une microchirurgie d'urgence le [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels).
 
-A la suite de cet accident, [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a vainement sollicite de [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) la communication de l'identite de son assureur de responsabilite civile professionnelle.
+A la suite de cet accident, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a vainement sollicite de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) la communication de l'identite de son assureur de responsabilite civile professionnelle.
 
-Ni la societe, ni son President **[Le President de l'Exploitation]**, ni sa Directrice Generale **[La Directrice Generale de l'Exploitation]** n'ont repondu aux courriers recommandes qui leur ont ete adresses le [**[J+31 Mises en demeure]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) **(Pièces n°10, n°11 et n°12)**.
+Ni la societe, ni son President **[Le President de l'Exploitation]**, ni sa Directrice Generale **[La Directrice Generale de l'Exploitation]** n'ont repondu aux courriers recommandes qui leur ont ete adresses le [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) **(Pièces n°10, n°11 et n°12)**.
 
-L'accuse de reception du courrier recommande adresse au proprietaire des murs, **[Le Proprietaire des Murs]**, a ete retourne signe le [**[J+35 AR propriétaire]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels), mais celui-ci n'a pas davantage communique l'information **(Pièce n°13)**.
+L'accuse de reception du courrier recommande adresse au proprietaire des murs, **[Le Proprietaire des Murs]**, a ete retourne signe le [**[J+35 AR propriétaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels), mais celui-ci n'a pas davantage communique l'information **(Pièce n°13)**.
 
-A ce jour, l'identite de l'assureur RC professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) demeure inconnue.
+A ce jour, l'identite de l'assureur RC professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) demeure inconnue.
 
 <hr>
 
@@ -88,7 +88,7 @@ L'article 145 du Code de procedure civile dispose :
 
 > « S'il existe un motif legitime de conserver ou d'etablir avant tout proces la preuve de faits dont pourrait dependre la solution d'un litige, les mesures d'instruction legalement admissibles peuvent etre ordonnees a la demande de tout interesse, sur requete ou en refere. »
 
-En l'espece, le motif legitime est caracterise par l'impossibilite pour [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) d'identifier la compagnie d'assurance de [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), information strictement necessaire a l'exercice de son action directe et sans laquelle toute voie d'indemnisation amiable ou judiciaire est bloquee.
+En l'espece, le motif legitime est caracterise par l'impossibilite pour [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) d'identifier la compagnie d'assurance de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), information strictement necessaire a l'exercice de son action directe et sans laquelle toute voie d'indemnisation amiable ou judiciaire est bloquee.
 
 Le refus persistant de la partie adverse de communiquer cette information constitue un obstacle a l'etablissement de la preuve du contrat d'assurance, dont l'existence et la teneur sont determinantes pour la solution du litige indemnitaire.
 
@@ -113,7 +113,7 @@ Ce droit est autonome et ne peut etre paralysé par la carence du responsable a 
 > [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) <br>
 > **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463**
 
-Neanmoins, en pratique, l'exercice de ce droit suppose de connaitre l'identite de l'assureur. L'obstruction caracterisee de [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) a la communication de cette information prive [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) de son droit d'agir et constitue une entrave a ses droits les plus fondamentaux.
+Neanmoins, en pratique, l'exercice de ce droit suppose de connaitre l'identite de l'assureur. L'obstruction caracterisee de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) a la communication de cette information prive [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) de son droit d'agir et constitue une entrave a ses droits les plus fondamentaux.
 
 ### C. SUR L'URGENCE DE LA CONSERVATION DES VIDEOS
 
@@ -127,18 +127,18 @@ Le motif legitime est d'autant plus caracterise que :
 - Elles permettraient de confirmer l'absence d'equipement d'acces en hauteur (escabeau)
 - Elles constituent le seul element objectif pour contredire d'eventuelles contestations de la partie adverse
 
-L'effacement de ces donnees avant toute mesure de conservation rendrait impossible l'etablissement de la preuve et priverait definitivement [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) de son droit a la preuve.
+L'effacement de ces donnees avant toute mesure de conservation rendrait impossible l'etablissement de la preuve et priverait definitivement [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) de son droit a la preuve.
 
 ### D. SUR LE REFUS CARACTERISE ET L'ASTREINTE SOLLICITEE
-Les demandes amiables de [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) sont restees lettres mortes :
+Les demandes amiables de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) sont restees lettres mortes :
 
-- LRAR du [**[J+31 Mises en demeure]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) a [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) : aucun AR retourne
+- LRAR du [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) a [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) : aucun AR retourne
 
-- LRAR du [**[J+31 Mises en demeure]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) a **[Le President de l'Exploitation]** : aucun AR retourne
+- LRAR du [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) a **[Le President de l'Exploitation]** : aucun AR retourne
 
-- LRAR du [**[J+31 Mises en demeure]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) a **[La Directrice Generale de l'Exploitation]** : aucun AR retourne
+- LRAR du [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) a **[La Directrice Generale de l'Exploitation]** : aucun AR retourne
 
-- LRAR du [**[J+31 Mises en demeure]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) a **[Le Proprietaire des Murs]** : AR retourne signe, mais sans reponse
+- LRAR du [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) a **[Le Proprietaire des Murs]** : AR retourne signe, mais sans reponse
 
 Ce silence delibere caracterise un refus de communiquer qui justifie que soit ordonnee la communication sous astreinte.
 
@@ -160,9 +160,9 @@ Vu l'Article L. 124-3 du Code des assurances,
 Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu les pièces versées aux débats,
 
-[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) demande qu'il plaise à Monsieur le Président du Tribunal Judiciaire de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), statuant en référé, de :
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) demande qu'il plaise à Monsieur le Président du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), statuant en référé, de :
 
-1. **ORDONNER** a la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) de communiquer a [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) l'integralite de sa police d'assurance de responsabilite civile professionnelle en vigueur au [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels), ou, a defaut, une attestation de l'assureur mentionnant :
+1. **ORDONNER** a la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) de communiquer a [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) l'integralite de sa police d'assurance de responsabilite civile professionnelle en vigueur au [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels), ou, a defaut, une attestation de l'assureur mentionnant :
 
    - La denomination et l'adresse de la compagnie d'assurance
 
@@ -172,13 +172,13 @@ Vu les pièces versées aux débats,
 
    - La validite du contrat a la date du sinistre
 
-2. **ORDONNER** a la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) de conserver et de communiquer a [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) l'integralite des enregistrements de videosurveillance du salon de coiffure pour la periode du 25 mai 2026 au 5 juin 2026, sous peine de destruction definitive ;
+2. **ORDONNER** a la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) de conserver et de communiquer a [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) l'integralite des enregistrements de videosurveillance du salon de coiffure pour la periode du 25 mai 2026 au 5 juin 2026, sous peine de destruction definitive ;
 
 3. **ASSORTIR** les obligations ci-dessus d'une astreinte de **[Finance Astreinte 145]** par jour de retard a compter du 8eme jour suivant la signification de l'ordonnance a intervenir ;
 
 4. **SE RESERVER** la liquidation de l'astreinte ;
 
-5. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) la somme de 1 500 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
+5. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) la somme de 1 500 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
 
 > « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. » <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.** <br>
@@ -187,21 +187,21 @@ Vu les pièces versées aux débats,
 <hr>
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
-- **Pièce n°10 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) ([**[J+31 Mises en demeure]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
-- **Pièce n°11 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) ([**[J+31 Mises en demeure]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
-- **Pièce n°12 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à [**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) ([**[J+31 Mises en demeure]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
-- **Pièce n°13 :** Lettre Recommandée avec Accusé de Réception (LRAR) adressée à [**[Le Propriétaire des Murs]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et son Accusé de Réception signé ([**[J+35 AR propriétaire]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
+- **Pièce n°10 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) ([**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
+- **Pièce n°11 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) ([**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
+- **Pièce n°12 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) ([**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
+- **Pièce n°13 :** Lettre Recommandée avec Accusé de Réception (LRAR) adressée à [**[Le Propriétaire des Murs]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et son Accusé de Réception signé ([**[J+35 AR propriétaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
 
 <hr>
 
-Fait a [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+37 Requête 145]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels).
+Fait a [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le [**[J+37 Requête 145]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels).
 
-[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
 
 ## BORDEREAU DE PIÈCES ANNEXÉES
-1. Pièce n°1 : Copie du procès-verbal de police n°[**[N° PV Police]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) établi par le Commissariat de [La Ville de l'Accident]
-2. Pièce n°2 : [Certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du [**[Le Médecin en Urgence]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (**[SMUR local]**) en date du [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
-3. Pièce n°3 : [Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) du [**[Le Chirurgien SOS Main]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (SOS Main) en date du [**[J+1 Chirurgie]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
-4. Pièce n°4 : Facture de pharmacie post-opératoire ([**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
-5. Pièce n°5 : Facture de chirurgie SOS Main (**[Finance Facture Chirurgie]**) ([**[J+12 Facture]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
+1. Pièce n°1 : Copie du procès-verbal de police n°[**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) établi par le Commissariat de [La Ville de l'Accident]
+2. Pièce n°2 : [Certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du [**[Le Médecin en Urgence]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (**[SMUR local]**) en date du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+3. Pièce n°3 : [Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) du [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (SOS Main) en date du [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+4. Pièce n°4 : Facture de pharmacie post-opératoire ([**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
+5. Pièce n°5 : Facture de chirurgie SOS Main (**[Finance Facture Chirurgie]**) ([**[J+12 Facture]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels))
 6. Pièce n°6 : Preuve de paiement par virement instantané de 15,00 € (et remboursement ultérieur) témoignant de la présence de la victime sur les lieux

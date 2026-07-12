@@ -40,7 +40,7 @@ reel_path: ../../👤 Reel/🗂️ Organisation/20 📦 Bon envoi physique.md
 **[LA VILLE DE L'ACCIDENT] — Tribunal Judiciaire de [LA VILLE DE L'ACCIDENT]**
 
 > **À :** Monsieur le Doyen des Juges d'Instruction
-> **Adresse :** Tribunal Judiciaire de [La Ville de l'Accident], [**[Adresse Tribunal Judiciaire]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), 09008 [La Ville de l'Accident] Cedex
+> **Adresse :** Tribunal Judiciaire de [La Ville de l'Accident], [**[Adresse Tribunal Judiciaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), 09008 [La Ville de l'Accident] Cedex
 > **Mode :** Lettre Recommandée avec Accusé de Réception (LRAR)
 
 ## PIÈCES JUSTIFICATIVES À JOINDRE (6 PIÈCES)

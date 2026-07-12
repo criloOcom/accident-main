@@ -81,7 +81,7 @@ Un échantillon de 10 liens trouvés dans les actes a été testé avec `legifra
 
 ## Vérification des tokens d'anonymisation
 - Statut : PASS
-- [🧠 Memory/TOKEN MAP.md](🧠%20Memory/TOKEN%20MAP.md) existe et recense correctement la structure de remplacement (victime, président, directrice...). Les tokens sont bien respectés dans les documents (validé par `check_consistency.py`).
+- [🧠 Memory/TOKEN MAP.md](../../../🧠%20Memory/TOKEN%20MAP.md) existe et recense correctement la structure de remplacement (victime, président, directrice...). Les tokens sont bien respectés dans les documents (validé par `check_consistency.py`).
 
 ## Conclusion
 - [ ] Travail validé — aucune erreur
