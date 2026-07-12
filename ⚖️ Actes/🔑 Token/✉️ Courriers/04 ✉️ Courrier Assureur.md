@@ -52,6 +52,10 @@ Madame, Monsieur,
 ## INTRODUCTION
 La présente lettre de mise en demeure est adressée par **[La Victime]** à la compagnie d'assurance de **[L'Exploitant du Commerce (La SAS)]** sur le fondement de l'article L. 124-3 du Code des assurances, lequel institue une action directe de la victime contre l'assureur du responsable.
 
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+
 Par ce courrier, **[La Victime]** met en demeure l'assureur de prendre en charge le sinistre corporel survenu le **[J+0 Accident]** dans les locaux de **[L'Exploitant du Commerce (La SAS)]** et de procéder au règlement des préjudices subis, dont le montant total estimé s'élève à **59 600 €** selon l'étude d'indemnisation établie conformément à la Nomenclature Dintilhac.
 
 Cette action directe permet à la victime de saisir directement l'assureur sans passer par l'intermédiaire de la société responsable, conformément aux dispositions du Code des assurances.
@@ -81,6 +85,10 @@ Il s'en est suivi une intervention de microchirurgie d'urgence le **[J+1 Chirurg
 Le pronostic de récupération neurologique a été évalué à un an minimum par le chirurgien, avec un résultat souvent partiel s'agissant d'une suture nerveuse.
 
 En application de l'article L. 124-3 du Code des assurances, je dispose d'un droit propre et d'une action directe à l'encontre de votre compagnie en tant qu'assureur de responsabilité civile de l'auteur du dommage.
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
 > « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. » <br>
 > [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) <br>

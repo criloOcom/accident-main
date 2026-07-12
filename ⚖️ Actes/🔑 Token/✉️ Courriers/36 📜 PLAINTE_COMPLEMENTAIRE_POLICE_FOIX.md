@@ -16,15 +16,9 @@ auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md
 ---
 
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 36 📜 PLAINTE COMPLEMENTAIRE POLICE FOIX
+<hr>
 <!-- /Breadcrumb -->
 
 # PLAINTE COMPLÉMENTAIRE
@@ -49,19 +43,21 @@ Je soussigné(e), **[La Victime]**, né(e) le **[Date de naissance de la victime
 
 **VIENS PAR LA PRÉSENTE DÉPOSER PLAINTE COMPLÉMENTAIRE** contre les dirigeants de la société susmentionnée pour les faits suivants, constituant des infractions pénales caractérisées :
 
----
+<hr><hr>
 
 ## I. RAPPEL DES FAITS INITIAUX (PV n°2026/015967)
 
-Le **29 mai 2026 vers 15h00**, alors que je me trouvais en qualité de client au sein du salon de coiffure "Les Mauvais Garçons", un préposé de l'établissement est monté sur un bac à shampoing en céramique instable pour régler un poste de télévision. Sous son poids, la vasque a basculé violemment, et ma main droite a heurté une cassure préexistante aux arêtes tranchantes, provoquant une **plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur et du paquet vasculo-nerveux de l'index droit**.
+Le **29 mai 2026 vers 15h00**, alors que je me trouvais en qualité de client au sein du salon de coiffure "Les Mauvais Garçons", un préposé de l'établissement est monté sur un bac à shampoing en céramique instable pour régler un poste de télévision.
+
+Sous son poids, la vasque a basculé violemment, et ma main droite a heurté une cassure préexistante aux arêtes tranchantes, provoquant une **plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur et du paquet vasculo-nerveux de l'index droit**.
 
 Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le 30 mai 2026 par le **[Le Chirurgien SOS Main]** au service SOS Main de **[L'Établissement SOS Main]**, suivie de 56 jours d'Incapacité Totale de Travail (ITT), avec un pronostic de récupération neurologique partielle sur une durée minimale d'un an.
 
----
+<hr><hr>
 
 ## II. FAITS NOUVEAUX CONSTITUTIFS D'INFRACTIONS PÉNALES
 
-### A. OBSTRUCTION À LA JUSTICE (Article 434-15 du Code pénal)
+### A. OBSTRUCTION À LA JUSTICE
 
 **Fondement juridique :**
 > "Le fait de détruire, de dégrader ou de détériorer un objet de quelque nature qu'il soit, de nature à faciliter la découverte d'une vérité ou la preuve d'un crime ou d'un délit, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende."
@@ -70,13 +66,23 @@ Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le
 **Faits caractérisés :**
 
 1. **Refus systématique de communiquer l'attestation d'assurance RC**
+
    - En date du 29 juin 2026, j'ai adressé par LRAR une mise en demeure aux dirigeants de la SAS (M. **[Le Président de l'Exploitation]** et Mme **[La Directrice Générale de l'Exploitation]**) pour obtenir les coordonnées de leur assureur RC, conformément à l'obligation légale prévue par l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+
    - Ces courriers m'ont été retournés avec la mention "défaut d'adresse / distribution impossible", alors même que la société est toujours officiellement immatriculée à cette adresse (vérification RNE/INPI du 10 juillet 2026).
+
    - Ce refus caractérisé constitue une **entrave à l'action directe de la victime** contre l'assureur, prévue par la loi.
 
 2. **Dissimulation des enregistrements de vidéosurveillance**
+
    - Lors du dépôt de ma plainte initiale, il a été mentionné que l'établissement était équipé de caméras de vidéosurveillance.
+
    - Malgré ma demande formelle (courrier n°20 du 5 juillet 2026), ces enregistrements ne m'ont jamais été communiqués.
+
    - Le délai légal de conservation de 30 jours (Article R. 613-3 du Code de la sécurité intérieure) est désormais échu, rendant impossible toute vérification indépendante des circonstances de l'accident.
 
 **Jurisprudence applicable :**
@@ -133,18 +139,23 @@ Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le
 **Faits caractérisés :**
 
 1. **Réouverture suspecte du salon**
+
    - Le commerce a rouvert ses portes le 6 juillet 2026 sans aucune communication officielle.
+
    - Aucune déclaration n'a été faite concernant un éventuel changement de gérance.
+
    - Les registres RNE/INPI ne mentionnent aucune modification de l'exploitation.
 
 2. **Absence de déclaration des salariés**
+
    - La SAS déclare 0 salarié, alors que des personnes travaillent manifestement dans l'établissement.
+
    - Cette situation caractérise un **travail dissimulé** au sens de la loi.
 
 **Jurisprudence applicable :**
 > Cour de cassation, Soc., 3 juillet 2019, n° 18-13.316 : "Le travail dissimulé est caractérisé dès lors qu'une activité économique est exercée sans déclaration aux organismes sociaux, indépendamment du nombre de salariés concernés."
 
----
+<hr><hr>
 
 ## III. DEMANDE D'ENQUÊTE APPROFONDIE
 
@@ -180,20 +191,27 @@ Au vu des éléments ci-dessus exposés, je sollicite de votre bienveillance l'o
 - **Contrôle des comptes bancaires** professionnels
 - **Audit des déclarations fiscales** récentes
 
----
+<hr><hr>
 
 ## IV. PIÈCES JOINTES
 
 1. **Copie du PV initial n°2026/015967** (déposé le 1er juin 2026)
+
 2. **Accusés de réception des LRAR retournés NPAI** (29 juin 2026)
+
 3. **Extrait Kbis de la SAS [L'Exploitant du Commerce (La SAS)]** (SIREN **[SIREN de l'Exploitation]**)
+
 4. **Note d'audit RNE/INPI** du 10 juillet 2026
+
 5. **Photos de l'accident et de la vasque cassée** (datées et légendées)
+
 6. **Certificats médicaux** (CR opératoire, arrêts de travail)
+
 7. **Copie des mises en demeure envoyées** aux dirigeants
+
 8. **Liste chronologique des démarches entreprises**
 
----
+<hr><hr>
 
 ## V. FONDEMENTS JURIDIQUES RÉCAPITULATIFS
 
@@ -205,7 +223,7 @@ Au vu des éléments ci-dessus exposés, je sollicite de votre bienveillance l'o
 | Travail dissimulé | Art. L. 8221-1 CT | 3 ans + 45k€ | Réouverture sans déclaration |
 | Blessures involontaires | Art. 222-19 CP | 1 an + 15k€ | ITT de 56 jours |
 
----
+<hr><hr>
 
 ## VI. DEMANDES SPÉCIFIQUES
 
@@ -217,13 +235,21 @@ Je sollicite également :
 
 3. **La communication écrite** des suites données à cette plainte, conformément à l'Article 15-3 du Code de procédure pénale.
 
+> « Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale, y compris lorsque ces plaintes sont déposées dans un service ou une unité de police judiciaire territorialement incompétents. Dans ce cas, la plainte est, s'il y a lieu, transmise au service ou à l'unité territorialement compétents. Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime, qui mentionne les délais de prescription de l'action publique définis aux articles 7 à 9 ainsi que la possibilité d'interrompre le délai de prescription par le dépôt d'une plainte avec constitution de partie civile, en application de l'article 85 . Si elle en fait la demande, une copie du procès-verbal lui est immédiatement remise. Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procès-verbal par leur numéro d'immatriculation administrative. » <br>
+> **Code de procédure pénale > Section 1 : Dispositions générales — abrogation différée.** <br>
+> [Article 15-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441)
+
 4. **La possibilité de déposer** les pièces jointes en version numérique (clé USB) pour faciliter leur traitement.
 
----
+<hr><hr>
 
 ## VII. DÉCLARATION SUR L'HONNEUR
 
 Je déclare sur l'honneur que les faits exposés dans la présente plainte sont exacts et conformes à la réalité. Je suis conscient(e) que toute déclaration mensongère peut entraîner des poursuites pénales pour faux témoignage (Article 441-7 du Code pénal).
+
+> « Indépendamment des cas prévus au présent chapitre, est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait : 1° D'établir une attestation ou un certificat faisant état de faits matériellement inexacts ; 2° De falsifier une attestation ou un certificat originairement sincère ; 3° De faire usage d'une attestation ou d'un certificat inexact ou falsifié. Les peines sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende lorsque l'infraction est commise soit en vue de porter préjudice au Trésor public ou au patrimoine d'autrui, soit en vue d'obtenir un titre de séjour ou le bénéfice d'une protection contre l'éloignement. » <br>
+> **Code pénal > Chapitre Ier : Des faux.** <br>
+> [Article 441-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398925)
 
 Je reste à la disposition des services de police pour toute audition complémentaire et pour fournir tout élément supplémentaire utile à l'enquête.
 
@@ -231,7 +257,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de P
 
 **[La Victime]**
 
----
+<hr><hr>
 
 ## ANNEXE 1 : RÉFÉRENCES JURIDIQUES COMPLÈTES
 
@@ -256,7 +282,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de P
 - **Article 53** : Pouvoirs de l'Officier de Police Judiciaire
 - **Article 75** : Enquête de flagrance
 
----
+<hr><hr>
 
 ## ANNEXE 2 : CHRONOLOGIE DES FAITS
 
@@ -270,6 +296,6 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de P
 | 10/07/2026 | Audit RNE/INPI | Note d'audit |
 | 11/07/2026 | Plainte complémentaire | Présent document |
 
----
+<hr><hr>
 
 **NOTE IMPORTANTE :** Ce document est accompagné d'un **guide de dialogue** et d'une **checklist complète** pour faciliter les échanges avec les services de police. Ces documents complémentaires sont disponibles sur demande.

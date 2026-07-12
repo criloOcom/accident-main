@@ -39,6 +39,14 @@ La présente synthèse juridique et FAQ a été rédigée par **[La Victime]** d
 
 Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de l'article 1231-1 du Code civil, la responsabilité délictuelle sur le fondement de l'article 1240 du même code, ainsi que la garantie des vices cachés prévue à l'article 1641 du Code civil.
 
+> « Le débiteur est condamné, s'il y a lieu, au paiement de dommages et intérêts soit à raison de l'inexécution de l'obligation, soit à raison du retard dans l'exécution, s'il ne justifie pas que l'exécution a été empêchée par la force majeure. » <br>
+> **Code civil > Sous-section 5 : La réparation du préjudice résultant de l'inexécution du contrat.** <br>
+> [Article 1231-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032010123)
+>
+> « Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus. » <br>
+> **Code civil > Paragraphe 2 : De la garantie des défauts de la chose vendue.** <br>
+> [Article 1641 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924)
+
 La présente synthèse répond en outre aux questions pratiques que la victime est susceptible de se poser dans le cadre de la conduite de son dossier.
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
@@ -139,6 +147,10 @@ Sur le plan civil, plusieurs mises en demeure ont été expédiées le **[J+31 M
 - Demande de communication d'assurance au **[propriétaire des murs]** ;
 
 - Action directe contre **[l'assureur de responsabilité civile]** (fondée sur l'article L. 124-3 du Code des assurances).
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
 <hr>
 

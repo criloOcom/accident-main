@@ -1,6 +1,6 @@
 ---
-title: "Analyse des Fondements de la Responsabilité Juridique - Version réelle"
-description: "Rédigé le 30 juin 2026"
+title: "Analyse des Fondements de la Responsabilité Juridique"
+description: "Rédigé le **[J+32 Assignation référé]"
 type: analyse_juridique
 date: 2026-06-30
 tags:
@@ -23,7 +23,7 @@ drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses](./README.md) › 13 📜 Responsabilites legales
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 13 📜 Responsabilites legales
 <!-- /Breadcrumb -->
 
 # ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE **[L'EXPLOITANT DU COMMERCE (LA SAS)]**
@@ -159,9 +159,17 @@ En vertu de l'article L. 113-2, 4° du Code des assurances, l'assuré (la SAS) a
 
 De plus, bien que le gérant tente de dissimuler l'identité de son assurance pour faire obstruction, l'article L. 124-3 du Code des assurances consacre le droit d'action directe autonome de la victime.
 
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+
 Pour rendre ce droit effectif, le gérant a un devoir de bonne foi de communiquer ses coordonnées d'assurance.
 
 En cas de refus persistant de transmettre les coordonnées de l'assureur RC, la victime peut saisir en urgence le Président du Tribunal judiciaire en référé sur le fondement de l'article 145 du Code de procédure civile.
+
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
 Le juge ordonnera alors la communication forcée de l'attestation d'assurance de responsabilité civile sous astreinte financière par jour de retard, à la charge exclusive de l'exploitant récalcitrant.
 

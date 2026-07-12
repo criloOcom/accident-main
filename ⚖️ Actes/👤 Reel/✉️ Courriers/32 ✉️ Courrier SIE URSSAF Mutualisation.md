@@ -1,6 +1,6 @@
 ---
-title: "Demande de Surveillance Fiscale et Sociale Urgente - Version réelle"
-description: "Sébastien GRAZIDE"
+title: "Demande de Surveillance Fiscale et Sociale Urgente"
+description: "[L'Adresse de la Victime]"
 type: courrier
 date: 2026-07-09
 tags:
@@ -17,15 +17,9 @@ reel_path: ../../👤 Reel/✉️ Courriers/32 ✉️ Courrier SIE URSSAF Mutual
 source: local
 ---
 
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 32 ✉️ Courrier SIE URSSAF Mutualisation
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 32 ✉️ Courrier SIE URSSAF Mutualisation
+<hr>
 <!-- /Breadcrumb -->
 
 # DEMANDE DE MUTUALISATION FISCALE ET SOCIALE URGENTE
@@ -47,6 +41,8 @@ Ref : SIREN 938 033 222
 
 Madame, Monsieur le Responsable,
 
+<hr><hr>
+
 ## I — OBJET DE LA DEMANDE
 
 La presente est adressee conjointement a vos deux services par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS (SIREN 938 033 222, capital 200 €).
@@ -55,17 +51,25 @@ L'accident, cause par la chute du prepose depuis un bac a shampoing en ceramique
 
 **Les montants en jeu sont estimes a 105 000 €** (evaluation Dintilhac detaillee), dont 15 000 € de provision immediatement exigible en reféré.
 
+<hr><hr>
+
 ## II — RISQUE FISCAL ET SOCIAL IDENTIFIE
 
 La SAS SAS LES MAUVAIS GARCONS presente les caracteristiques suivantes, revelatrices d'un risque eleve de disparition frauduleuse :
 
 1. **Capital social derisoire** : 200 € (2 000 actions de 0,10 €) — insuffisant pour faire face a toute creance significative
+
 2. **Dirigeants non localisables** : le President et la Directrice Generale n'ont repondu a aucune mise en demeure LRAR, aucun courrier recommande, et aucune sollicitation directe
+
 3. **Absence de salarie declare** : la societe ne declare aucun salarie (source INSEE), malgre l'exploitation d'un salon de coiffure necessitant du personnel
+
 4. **Absence d'assurance RC professionnelle** : a ce jour, aucun assureur ne s'est manifeste, ce qui suggere une absence de couverture d'assurance RC professionnelle obligatoire
+
 5. **Passif latent** : creance indemnitaire estimee a 105 000 € qui viendra s'ajouter aux eventuelles dettes fiscales et sociales de la societe
 
 L'absence totale de reponse des dirigeants laisse presager un risque de **dissolution, liquidation ou radiation volontaire** de la societe avant que les creances ne puissent etre recouvrees, conformement au mecanisme de _fraus omnia corrumpit_.
+
+<hr><hr>
 
 ## III — FONDEMENTS JURIDIQUES
 
@@ -76,6 +80,8 @@ L'absence totale de reponse des dirigeants laisse presager un risque de **dissol
 **Article L.8221-1 et suivants du Code du travail** : interdiction du travail dissimule, facilite par l'absence de declaration de salarie au sein de la societe exploitant un commerce de coiffure.
 
 **Mecanisme de la fraude fiscale et sociale** : la societe pourrait chercher a se soustraire a ses obligations declaratives et fiscales avant la mise en recouvrement des creances indemnitaires.
+
+<hr><hr>
 
 ## IV — DEMANDE DE MUTUALISATION
 

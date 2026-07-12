@@ -60,6 +60,10 @@ Madame, Monsieur,
 ## INTRODUCTION
 La présente lettre de mise en demeure est adressée par **[La Victime]** à la compagnie d'assurance de **[L'Exploitant du Commerce (La SAS)]** sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), lequel institue une action directe de la victime contre l'assureur du responsable.
 
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+
 Par ce courrier, **[La Victime]** met en demeure l'assureur de prendre en charge le sinistre corporel survenu le **[J+0 Accident]** dans les locaux de **[L'Exploitant du Commerce (La SAS)]** et de procéder au règlement des préjudices subis.
 
 Cette action directe permet à la victime de saisir directement l'assureur sans passer par l'intermédiaire de la société responsable, conformément aux dispositions du Code des assurances.
@@ -68,7 +72,15 @@ Rappel des obligations légales
 
 L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) institue une action directe de la victime contre l'assureur du responsable, ce qui me permet de vous saisir directement sans passer par l'intermédiaire de la société.
 
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+
 Conformément à [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339), le juge des référés peut ordonner toute mesure d'instruction légalement admissible s'il existe un motif légitime de conserver ou d'établir la preuve de faits dont pourrait dépendre la solution d'un litige.
+
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
 
@@ -83,6 +95,10 @@ Il s'en est suivi une intervention de microchirurgie d'urgence le **[J+1 Chirurg
 Le pronostic de récupération neurologique a été évalué à un an minimum par le chirurgien, avec un résultat souvent partiel s'agissant d'une suture nerveuse.
 
 En application de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), je dispose d'un droit propre et d'une action directe à l'encontre de votre compagnie en tant qu'assureur de responsabilité civile de l'auteur du dommage.
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
 En vertu d'une jurisprudence constante, cette action directe est autonome et n'est pas subordonnée à la survie de la personne morale ni à la déclaration préalable de créance en cas de procédure collective ou de radiation de la société assurée.
 
@@ -123,6 +139,10 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
 À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de **[La Ville de l'Accident]** — d'abord en référé sur le fondement de [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 

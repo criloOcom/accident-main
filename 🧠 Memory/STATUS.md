@@ -304,7 +304,7 @@ type: memory
 - `📊 Rapports/expertise/20260707 Analyse critique Glose.md` — NOUVEAU
 - `05 🎯 Conclusions Refere.md` — MIS À JOUR (provision, R.4323-58, tableau)
 - `02b 🛡️ Constitution Partie Civile.md` — MIS À JOUR (R.4323-58, 706-14, PEP, DEP)
-- `12 Évaluation Dintilhac détaillée.md` — MIS À JOUR (section 8)
+- `12 Évaluation Dintilhac détaillée.md` — FUSIONNÉ dans `11+12 📊 Evaluation Dintilhac consolidee.md` (supprimé le 11/07/2026)
 - `STRICT VARIABLES.md` — MIS À JOUR (DEP ajouté)
 
 ## Phase 10 — Intégration mémoire juridique externe (Glose, 7 juillet 2026) ✅
@@ -320,7 +320,7 @@ type: memory
   - `📊 Rapports/expertise/20260707 Mémoire juridique Glose.md` — mémoire complet sauvegardé
 - **Fichiers mis à jour** :
   - `05 🎯 Conclusions Refere.md` — remplacé par la version Glose (provision 8 000 €, astreinte 100 €/jour, art. 145 communication assurance)
-  - `12 Évaluation Dintilhac détaillée.md` — section 7 ajoutée (comparaison + compromis à ~85 000 €)
+  - `12 Évaluation Dintilhac détaillée.md` — FUSIONNÉ dans `11+12 📊 Evaluation Dintilhac consolidee.md` (supprimé le 11/07/2026)
   - `STRICT VARIABLES.md` — trois niveaux de montants (optimiste, conservative, compromis) + plafonds FGTI (3 000 €) et SARVI
   - `02b 🛡️ Constitution Partie Civile.md` — note de référence ajoutée
 

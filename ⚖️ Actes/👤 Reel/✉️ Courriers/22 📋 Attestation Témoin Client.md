@@ -1,5 +1,5 @@
 ---
-title: "22 Gabarit Attestation Témoin Client - V1 - Version réelle"
+title: "22 Gabarit Attestation Témoin Client - V1"
 description: "Je soussigné(e) [À compléter],"
 type: courrier
 date: 2026-06-30
@@ -20,7 +20,7 @@ drive_id: 1mLVji0_j8CTh2TjPr7bXAkoBaR2NmWEH89KXTk7Xbk4
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 22 📋 Attestation Témoin Client
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 22 📋 Attestation Témoin Client
 <!-- /Breadcrumb -->
 
 # ATTESTATION DE TÉMOIN (CERFA N° 11527*03)Article 202 du Code de procédure civile

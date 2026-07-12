@@ -31,7 +31,7 @@ type: memory
 
 ## Montants financiers — Évaluation principale (optimiste)
 
-- MONTANT_TOTAL_ESTIME : ~109 500 € (évaluation Dintilhac détaillée — voir 12 Évaluation Dintilhac détaillée.md)
+- MONTANT_TOTAL_ESTIME : ~109 500 € (évaluation Dintilhac détaillée — voir 11+12 📊 Evaluation Dintilhac consolidee.md)
 - CA_MENSUEL_MOYEN : 750 € (déclaré URSSAF, CA annuel 9 000 € net)
 - PGPA : 1 900 € (dont 1 400 € prorata + 500 € perte de chance)
 - DFT : 1 400 € (56 jours × 25 €/jour)
@@ -58,7 +58,7 @@ type: memory
 
 ## Montants — Compromis recommandé
 
-- TOTAL_COMPROMIS : ~85 000 € (voir 12 Évaluation Dintilhac détaillée.md section 7)
+- TOTAL_COMPROMIS : ~85 000 € (voir 11+12 📊 Evaluation Dintilhac consolidee.md section 2.1 / 8.3)
 - DFP_COMPROMIS : 25 000 € (10 % en attendant expertise UMJ)
 - SE_COMPROMIS : 15 000 €
 - AGREMENT_COMPROMIS : 5 000 €

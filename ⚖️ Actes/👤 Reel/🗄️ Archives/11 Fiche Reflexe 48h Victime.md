@@ -1,5 +1,5 @@
 ---
-title: "Fiche Reflexe 48h — Victime d'Accident Corporel - Version réelle"
+title: "Fiche Reflexe 48h — Victime d'Accident Corporel"
 description: "Etape 1 — Securite et sante"
 type: archive
 date: 2026-07-09
@@ -24,7 +24,7 @@ source: local
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [🗄️ Archives](./README.md) › 11 Fiche Reflexe 48h Victime
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📦 Archives](./README.md) › 11 Fiche Reflexe 48h Victime
 <!-- /Breadcrumb -->
 
 # FICHE REFLEXE 48H

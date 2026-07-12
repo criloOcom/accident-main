@@ -13,13 +13,6 @@ auteur: L'Avocat de la Victime
 reel_path: ../../👤 Reel/📚 Analyses juridiques/Note Conservation Preuves Numeriques.md
 ---
 
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › Note Conservation Preuves Numeriques
 <!-- /Breadcrumb -->
@@ -30,16 +23,42 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/Note Conservation Preuves Nu
 
 Dans le cadre du litige opposant **[La Victime]** à **[L'Exploitant du Commerce (La SAS)]**, il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploitation réelle du commerce à **[L'Adresse de l'Exploitation]**.
 
-La société exploitante pourrait tenter de supprimer sa présence en ligne ou d'altérer ses informations publiques pour organiser son insolvabilité ou contester la matérialité des faits. Cette note précise les mesures conservatoires à mettre en œuvre immédiatement pour figer la situation en ligne et collecter les éléments de preuve pertinents.
+La société exploitante pourrait tenter de supprimer sa présence en ligne ou d'altérer ses informations publiques pour organiser son insolvabilité ou contester la matérialité des faits.
+
+Cette note précise les mesures conservatoires à mettre en œuvre immédiatement pour figer la situation en ligne et collecter les éléments de preuve pertinents.
+
+<hr><hr>
 
 ## FONDEMENT JURIDIQUE
 
 L'[article 1358 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/) dispose que "la preuve peut être apportée par tout moyen" pour les faits juridiques.
 
+> « Hors les cas où la loi en dispose autrement, la preuve peut être apportée par tout moyen. » <br>
+> **Code civil > Chapitre II : L'admissibilité des modes de preuve.** <br>
+> [Article 1358 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042316)
+
 Cependant, en matière numérique, la force probante dépend des modalités de recueil :
 - L'[article 1369 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042421/) régit les actes authentiques (constat d'huissier / commissaire de justice).
+
+> « L'acte authentique est celui qui a été reçu, avec les solennités requises, par un officier public ayant compétence et qualité pour instrumenter. Il peut être dressé sur support électronique s'il est établi et conservé dans des conditions fixées par décret en Conseil d'État. Lorsqu'il est reçu par un notaire, il est dispensé de toute mention manuscrite exigée par la loi. » <br>
+> **Code civil > Sous-section 2 : L'acte authentique.** <br>
+> [Article 1369 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042446)
+
 - L'[article 1378 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042398/) encadre la valeur des registres et documents domestiques.
+
+> « Les registres et documents que les professionnels doivent tenir ou établir ont, contre leur auteur, la même force probante que les écrits sous signature privée ; mais celui qui s'en prévaut ne peut en diviser les mentions pour n'en retenir que celles qui lui sont favorables. » <br>
+> **Code civil > Sous-section 4 : Autres écrits.** <br>
+> [Article 1378 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042401)
+
 - La jurisprudence de la Cour de cassation (Chambre commerciale) rappelle que les captures d'écran simples peuvent être contestées si leur intégrité n'est pas garantie, mais sont généralement admises comme commencement de preuve par écrit ([article 1362 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042445/)) ou comme éléments de présomption ([article 1353 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042472/)).
+
+> « Constitue un commencement de preuve par écrit tout écrit qui, émanant de celui qui conteste un acte ou de celui qu'il représente, rend vraisemblable ce qui est allégué. Peuvent être considérés par le juge comme équivalant à un commencement de preuve par écrit les déclarations faites par une partie lors de sa comparution personnelle, son refus de répondre ou son absence à la comparution. La mention d'un écrit authentique ou sous signature privée sur un registre public vaut commencement de preuve par écrit. » <br>
+> **Code civil > Chapitre II : L'admissibilité des modes de preuve.** <br>
+> [Article 1362 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042296)
+>
+> « Celui qui réclame l'exécution d'une obligation doit la prouver. Réciproquement, celui qui se prétend libéré doit justifier le paiement ou le fait qui a produit l'extinction de son obligation. » <br>
+> **Code civil > Chapitre Ier : Dispositions générales.** <br>
+> [Article 1353 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341)
 
 > La Cour de cassation admet la production de captures d'écran comme mode de preuve, sous réserve que leur authenticité et leur intégrité ne soient pas utilement remises en cause par la partie adverse, notamment au moyen d'un constat de commissaire de justice pour en figer le contenu.
 > **Cour de cassation, civile, Chambre commerciale, 17 mars 2021**
@@ -47,11 +66,15 @@ Cependant, en matière numérique, la force probante dépend des modalités de r
 
 Afin de garantir l'admissibilité et l'incontestabilité de ces preuves, il convient de les sécuriser via des outils d'archivage certifiés et, si nécessaire, par des constats de commissaires de justice.
 
+<hr><hr>
+
 ## ARGUMENTATION ET STRATÉGIE DE COLLECTE
 
 ### 1. Conservation des réseaux sociaux (Facebook, Instagram)
 Les pages de **[L'Exploitant du Commerce (La SAS)]** sur les réseaux sociaux peuvent démontrer l'activité récente, la configuration des lieux (photos de l'intérieur du commerce, présence du téléviseur ou des bacs à shampoing) et les horaires d'ouverture.
+
 - **Action** : Réaliser des captures d'écran horodatées et enregistrer les pages web complètes.
+
 - **Outil** : Utilisation de l'outil Archive.org (Wayback Machine) pour figer la page dans le temps avec une URL pérenne.
 
 ### 2. Plateformes d'annuaires et d'information sur les sociétés
@@ -61,12 +84,17 @@ Ces plateformes prouvent que la société était bien référencée et active à
 
 ### 3. Avis Google (Google My Business)
 La page Google de l'établissement constitue une preuve majeure de son exploitation commerciale.
+
 - **Intérêt** : Les avis de clients, notamment aux alentours de la date de l'accident, prouvent que le commerce recevait bien du public. Les photos ajoutées par l'établissement ou les clients peuvent être utiles.
+
 - **Action** : Exporter ou archiver via Archive.org la page Google Maps/Google My Business.
 
 ### 4. Recours à un Commissaire de Justice
 Pour les preuves jugées essentielles et facilement altérables (photos intérieures effacées, changement d'adresse de siège social), il est vivement recommandé de faire procéder à un **constat d'internet par Commissaire de Justice**.
+
 Conformément à la norme AFNOR Z67-147, le Commissaire de Justice dressera un procès-verbal de constat figeant de manière irréfragable l'état des informations publiques de la société à un instant T.
+
+<hr><hr>
 
 ## CONCLUSION ET RECOMMANDATIONS
 

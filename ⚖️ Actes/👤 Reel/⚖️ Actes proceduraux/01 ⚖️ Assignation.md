@@ -1,6 +1,6 @@
 ---
-title: "Assignation en Référé-Provision et Demande d'Expertise Médicale - Version réelle"
-description: "Rédigé le 30 juin 2026"
+title: "Assignation en Référé-Provision et Demande d'Expertise Médicale"
+description: "Rédigé le **[J+32 Assignation référé]"
 type: assignation
 date: 2026-06-30
 tags:
@@ -25,7 +25,7 @@ drive_id: 1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [⚖️ Actes procéduraux](./README.md) › 01 ⚖️ Assignation
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 01 ⚖️ Assignation
 <!-- /Breadcrumb -->
 
 # ASSIGNATION EN RÉFÉRÉ-PROVISION ET DEMANDE D'EXPERTISE MÉDICALE
@@ -60,19 +60,6 @@ CONTRE :
 3. Catherine ANDISSAC, Directrice Générale de SAS LES MAUVAIS GARCONS, prise en sa qualité de dirigeante de droit et personnellement.
 
 PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCIDENT]**
-
-<hr>
-
-- [I. EXPOSÉ DES FAITS](#i-expos-des-faits)
-- [II. DISCUSSION JURIDIQUE](#ii-discussion-juridique)
-  - [A. SUR LE PRINCIPE DE LA RESPONSABILITÉ CIVILE DÉLICTUELLE](#a-sur-le-principe-de-la-responsabilit-civile-dlictuelle)
-  - [B. SUR LE FONDEMENT DU DROIT DE LA CONSOMMATION](#b-sur-le-fondement-du-droit-de-la-consommation)
-  - [C. SUR LA DEMANDE D'EXPERTISE MÉDICALE](#c-sur-la-demande-dexpertise-mdicale)
-  - [D. SUR L'OCTROI D'UNE PROVISION FINANCIÈRE](#d-sur-loctroi-dune-provision-financire)
-  - [E. JUSTIFICATION DU MONTANT DE LA PROVISION](#e-justification-du-montant-de-la-provision)
-  - [F. SUR LA COMMUNICATION FORCÉE DE LA POLICE D'ASSURANCE](#f-sur-la-communication-force-de-la-police-dassurance)
-- [III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)](#iii-valuation-provisoire-des-prjudices-nomenclature-dintilhac)
-- [PAR CES MOTIFS](#par-ces-motifs)
 
 <hr><hr>
 
@@ -314,6 +301,10 @@ Dans l'attente du dépôt du rapport de l'expert judiciaire, Sébastien GRAZIDE 
 Vu les articles 145 et 835 du Code de procédure civile,
 Vu les articles 1240 et 1242 du Code civil,
 Vu l'article L. 124-3 du Code des assurances,
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
 Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu les pièces versées aux débats,
@@ -333,6 +324,10 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 6. **CONDAMNER IN SOLIDUM** SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC à verser à Sébastien GRAZIDE la somme de 15 000 € à titre de provision à valoir sur la réparation définitive de ses préjudices ;
 
 7. **CONDAMNER IN SOLIDUM** SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC à payer à Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
+
+> « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. » <br>
+> **Code de procédure civile > Chapitre Ier : La charge des dépens.** <br>
+> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
 
 <hr>
 

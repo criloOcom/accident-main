@@ -36,7 +36,7 @@ type: readme
 - [Token Map (correspondance token ↔ réel)](./🧠%20Memory/TOKEN%20MAP.md)
 - [Pièces citées (PIECES MAP)](./🧠%20Memory/PIECES%20MAP.md)
 - [Règles permanentes](./🧠%20Memory/RULES.md)
-- [Dernière évaluation Dintilhac](./⚖️%20Actes/🔑%20Token/💰%20Etudes%20indemnisation/12%20Évaluation%20Dintilhac%20détaillée.md)
+- [Dernière évaluation Dintilhac consolidée](./⚖️%20Actes/🔑%20Token/💰%20Etudes%20indemnisation/11+12%20📊%20Evaluation%20Dintilhac%20consolidee.md)
 - [Todo & priorités](./🧠%20Memory/TODO.md)
 
 ---

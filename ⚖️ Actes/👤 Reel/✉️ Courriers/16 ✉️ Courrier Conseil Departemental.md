@@ -1,6 +1,6 @@
 ---
-title: "Signalement de Non-Conformite ERP au Conseil Departemental - Version réelle"
-description: "Sébastien GRAZIDE"
+title: "Signalement de Non-Conformite ERP au Conseil Departemental"
+description: "[L'Adresse de la Victime]"
 type: courrier
 date: 2026-07-05
 tags:
@@ -9,7 +9,7 @@ tags:
   - securite
   - signalement
   - LRAR
-statut: projet
+statut: final
 destinataire: Conseil Departemental de l'Ariege
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/16 ✉️ Courrier Conseil Departemental.md
@@ -25,7 +25,7 @@ drive_id: 1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 16 ✉️ Courrier Conseil Departemental
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 16 ✉️ Courrier Conseil Departemental
 <!-- /Breadcrumb -->
 
 # SIGNALEMENT DE NON-CONFORMITE D'ERP AU CONSEIL DEPARTEMENTAL DE L'ARIEGE

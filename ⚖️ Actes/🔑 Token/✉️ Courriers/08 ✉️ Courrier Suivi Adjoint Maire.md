@@ -16,15 +16,9 @@ source: drive
 drive_id: 1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw
 ---
 
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 08 ✉️ Courrier Suivi Adjoint Maire
+<hr>
 <!-- /Breadcrumb -->
 
 # SUIVI — DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF
@@ -48,6 +42,8 @@ Objet : Suite a votre message du 1er juin 2026 — Demande d'information sur les
 Ref : Votre courriel du 1er juin 2026
 
 Monsieur l'Adjoint au Maire,
+
+<hr><hr>
 
 ## INTRODUCTION
 La presente lettre fait suite a votre courriel du 1er juin 2026 par lequel vous m'informiez avoir pris l'attache des services de la prefecture afin de diligenter l'inspection du travail et le CODAF (Comite Operationnel Departemental Anti Fraude) a la suite de l'accident corporel grave dont j'ai ete victime le **[J+0 Accident]** au sein du salon de coiffure **[Le Commerce de l'Exploitation]**.

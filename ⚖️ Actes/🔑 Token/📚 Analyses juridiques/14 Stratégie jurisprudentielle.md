@@ -122,7 +122,7 @@ source: local
 | Art. 700 | 4 000 € | Frais procédure |
 | **Total** | **~105 000 €** | |
 
-Voir détails : [12 Évaluation Dintilhac détaillée.md](../💰%20Etudes%20indemnisation/12%20%C3%89valuation%20Dintilhac%20d%C3%A9taill%C3%A9e.md)
+Voir détails : [11+12 📊 Evaluation Dintilhac consolidee.md](../💰%20Etudes%20indemnisation/11+12%20📊%20Evaluation%20Dintilhac%20consolidee.md)
 
 ### QUI PAIE ?
 1. **Assureur RC** (si identifié) → action directe L.124-3 C. Assurances
@@ -143,6 +143,6 @@ Fondement : art. 835 al.2 CPC — obligation non sérieusement contestable.
 ## RÉFÉRENCES CROISÉES
 - Fiches jurisprudence : [70-12.124](../../../%F0%9F%93%9C_Lois/%F0%9F%93%9C_Jurisprudence/70-12.124_CourCassation.md), [74-10.466](../../../%F0%9F%93%9C_Lois/%F0%9F%93%9C_Jurisprudence/74-10.466_CourCassation.md), [89-18.422](../../../%F0%9F%93%9C_Lois/%F0%9F%93%9C_Jurisprudence/89-18.422_CourCassation.md), [91-13.580](../../../%F0%9F%93%9C_Lois/%F0%9F%93%9C_Jurisprudence/91-13.580_CourCassation.md), [91-15.035](../../../%F0%9F%93%9C_Lois/%F0%9F%93%9C_Jurisprudence/91-15.035_CourCassation.md), [24-21.702](../../../%F0%9F%93%9C_Lois/%F0%9F%93%9C_Jurisprudence/24-21.702_CourCassation.md)
 - Note responsabilités légales : [13 📜 Responsabilites legales.md](13%20📜%20Responsabilites%20legales.md)
-- Évaluation financière : [12 Évaluation Dintilhac détaillée.md](../💰%20Etudes%20indemnisation/12%20%C3%89valuation%20Dintilhac%20d%C3%A9taill%C3%A9e.md)
+- Évaluation financière : [11+12 📊 Evaluation Dintilhac consolidee.md](../💰%20Etudes%20indemnisation/11+12%20📊%20Evaluation%20Dintilhac%20consolidee.md)
 - Validation ordalie : [20260707 Validation juridique ordalie.md](../../📊%20Rapports/🗄️%20Archives/ordalie/20260707%20Validation%20juridique%20ordalie.md)
 - Preuves : PV police n°[N° PV Police] (basculement), constat huissier (cassure préexistante)

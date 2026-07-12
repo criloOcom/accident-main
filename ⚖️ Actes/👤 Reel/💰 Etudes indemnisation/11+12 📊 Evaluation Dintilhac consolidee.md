@@ -1,6 +1,6 @@
 ---
-title: "Évaluation Dintilhac Consolidée — 11 + 12 - Version réelle"
-description: "10 Avenue de Purpan, 31700 Blagnac <br>"
+title: "Évaluation Dintilhac Consolidée — 11 + 12"
+description: "[L'Adresse de la Victime]** <br>"
 type: etude_indemnisation
 date: 2026-07-07
 tags:
@@ -10,7 +10,7 @@ tags:
   - référé
   - CIVI
   - FGTI
-statut: projet
+statut: final
 auteur: La Victime
 reel_path: ../../👤 Reel/💰 Etudes indemnisation/11+12 📊 Evaluation Dintilhac consolidee.md
 source: local
@@ -24,7 +24,7 @@ source: local
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [💰 Indemnisation](./README.md) › 11+12 📊 Evaluation Dintilhac consolidee
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [💰 Études d'Indemnisation](./README.md) › 11+12 📊 Evaluation Dintilhac consolidee
 <!-- /Breadcrumb -->
 
 # ÉVALUATION DINTILHAC CONSOLIDÉE — 11 + 12
@@ -537,7 +537,29 @@ La provision de 15 000 € est justifiée par :
 > [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
 > **Code civil > Livre III : Des différentes manières dont on acquiert la propriété > Titre III : Des sources d'obligations > Sous-titre II : La responsabilité extracontractuelle > Chapitre Ier : La responsabilité extracontractuelle en général**
 
----
+<hr><hr>
+
+# 6. JURISPRUDENCE APPLICABLE COMPLÉMENTAIRE
+
+*Cette section reprend deux arrêts de fond cités dans l'étude initiale (Doc. 11) et non encore intégrés dans la présente consolidation, afin de rendre le document exhaustif et de couvrir (1) la réévaluation du préjudice en cas d'aggravation et (2) la libre disposition des indemnités par la victime.*
+
+## 6.1 AGGRAVATION DU DOMMAGE (RÉÉVALUATION)
+
+> « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. » <br>
+> [Arrêt n°20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) <br>
+> **Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106**
+
+**Application au dossier :** Cet arrêt fonde la possibilité de réévaluer l'indemnisation en cas d'aggravation médicale constatée après l'expertise initiale. Il sécurise la demande de provision et la demande au fond, le préjudice pouvant être revu à la hausse à mesure que les séquelles neurologiques de l'index droit se précisent (cf. expertise UMJ du 12 novembre 2026).
+
+## 6.2 LIBRE DISPOSITION DES INDEMNITÉS
+
+> « La victime d'un dommage corporel dispose librement des sommes qui lui sont allouées à titre de réparation, sans avoir à justifier de l'usage qu'elle en fait, dès lors que l'indemnisation a été fixée selon les règles de la réparation intégrale. » <br>
+> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) <br>
+> **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463**
+
+**Application au dossier :** Cet arrêt justifie que les ~92 000 € demandés (ainsi que la provision de 15 000 €) peuvent être librement affectés par la victime (rééducation, matériel ergonomique, adaptation du poste de travail) sans être soumis au contrôle du responsable ou de l'assureur. ⚠ *Vérification JURITEXT recommandée : l'audit du 11/07/2026 signale une date apparemment contradictoire (13 mai 2021) pour ce numéro d'arrêt — à confirmer sur Légifrance avant citation définitive.*
+
+<hr><hr>
 
 ## Tableau récapitulatif des demandes indemnitaires
 

@@ -1,6 +1,6 @@
 ---
-title: "Relance Dr Iskander DJERBI - Certificat de Consolidation - Version réelle"
-description: "Objet : Demande de certificat médical de consolidation — Suite courrier du 5 juillet 2026"
+title: "Relance Dr Iskander DJERBI - Certificat de Consolidation"
+description: "Objet : Demande de certificat médical de consolidation — Suite courrier du **[J+37 Assignation 145]"
 type: courrier
 date: 2026-07-06
 tags:
@@ -22,7 +22,7 @@ source: local
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 25 📧 Relance Dr DJERBI
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 25 📧 Relance Dr DJERBI
 <!-- /Breadcrumb -->
 
 # RELANCE — DEMANDE DE CERTIFICAT MÉDICAL DE CONSOLIDATION

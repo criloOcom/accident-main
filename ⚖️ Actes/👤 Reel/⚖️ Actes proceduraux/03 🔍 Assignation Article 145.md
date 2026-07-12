@@ -1,6 +1,6 @@
 ---
-title: "Assignation en Refere Article 145 CPC — Communication Police d'Assurance RC - Version réelle"
-description: "10 Avenue de Purpan, 31700 Blagnac <br>"
+title: "Assignation en Refere Article 145 CPC — Communication Police d'Assurance RC"
+description: "[L'Adresse de la Victime]** <br>"
 type: assignation
 date: 2026-07-05
 tags:
@@ -25,7 +25,7 @@ drive_id: 1R26179ks7vLkzw0hYEHL888i0p1VS9ppa6s8R8kQ_gg
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [⚖️ Actes procéduraux](./README.md) › 03 🔍 Assignation Article 145
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 03 🔍 Assignation Article 145
 <!-- /Breadcrumb -->
 
 # ASSIGNATION EN REFERE — COMMUNICATION DE POLICE D'ASSURANCE RC PROFESSIONNELLE
@@ -41,25 +41,28 @@ Foix, le 5 juillet 2026
 ## INTRODUCTION
 La presente assignation en refere est introduite par Sébastien GRAZIDE a l'encontre de la SAS SAS LES MAUVAIS GARCONS, prise en la personne de ses dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC, et personnellement contre ces derniers (SIREN 938 033 222), sur le fondement de l'Article 145 du Code de procedure civile.
 
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+
 Elle a pour objet d'obtenir, sous astreinte, la communication de la police d'assurance de responsabilite civile professionnelle souscrite par la societe defendereese, seule mesure permettant a la victime d'exercer son action directe contre l'assureur sur le fondement de l'Article L.124-3 du Code des assurances.
 
-<hr>
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
-- [I — EXPOSE DES FAITS](#i--expose-des-faits)
-- [II — DISCUSSION JURIDIQUE](#ii--discussion-juridique)
-  - [A. SUR LE MOTIF LEGITIME DE L'ARTICLE 145 CPC](#a-sur-le-motif-legitime-de-larticle-145-cpc)
-  - [B. SUR LE DROIT D'ACTION DIRECTE DE LA VICTIME (L.124-3)](#b-sur-le-droit-daction-directe-de-la-victime-l124-3)
-  - [C. SUR LE REFUS CARACTERISE ET L'ASTREINTE SOLLICITEE](#c-sur-le-refus-caracterise-et-lastreinte-sollicitee)
-- [PAR CES MOTIFS](#par-ces-motifs)
-
-<hr>
+<hr><hr>
 
 ## I — EXPOSE DES FAITS
 Le 29 mai 2026, alors qu'il se trouvait au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS en qualite de client, Sébastien GRAZIDE a ete victime d'un accident corporel grave.
 
-Alors que Ayoub BENNOURINE escaladait la vasque en ceramique du bac a shampoing pour acceder au poste de television, l'equipement a bascule. Par reflexe, Sébastien GRAZIDE a tendu la main droite pour proteger le prepose ; sa paume a heurte une cassure majeure preexistante non signalee aux aretes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit ayant necessite une microchirurgie d'urgence le 30 mai 2026.
+Alors que Ayoub BENNOURINE escaladait la vasque en ceramique du bac a shampoing pour acceder au poste de television, l'equipement a bascule.
 
-A la suite de cet accident, Sébastien GRAZIDE a vainement sollicite de SAS LES MAUVAIS GARCONS la communication de l'identite de son assureur de responsabilite civile professionnelle. Ni la societe, ni son President Sabir MOUNTASSER, ni sa Directrice Generale Catherine ANDISSAC n'ont repondu aux courriers recommandes qui leur ont ete adresses le 29 juin 2026 **(Pièces n°10, n°11 et n°12)**.
+Par reflexe, Sébastien GRAZIDE a tendu la main droite pour proteger le prepose ; sa paume a heurte une cassure majeure preexistante non signalee aux aretes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit ayant necessite une microchirurgie d'urgence le 30 mai 2026.
+
+A la suite de cet accident, Sébastien GRAZIDE a vainement sollicite de SAS LES MAUVAIS GARCONS la communication de l'identite de son assureur de responsabilite civile professionnelle.
+
+Ni la societe, ni son President Sabir MOUNTASSER, ni sa Directrice Generale Catherine ANDISSAC n'ont repondu aux courriers recommandes qui leur ont ete adresses le 29 juin 2026 **(Pièces n°10, n°11 et n°12)**.
 
 L'accuse de reception du courrier recommande adresse au proprietaire des murs, Romain DELRIEU, a ete retourne signe le 3 juillet 2026, mais celui-ci n'a pas davantage communique l'information **(Pièce n°13)**.
 
@@ -70,6 +73,10 @@ A ce jour, l'identite de l'assureur RC professionnelle de SAS LES MAUVAIS GARCON
 ## II — DISCUSSION JURIDIQUE
 ### A. SUR LE MOTIF LEGITIME DE L'ARTICLE 145 CPC
 L'article 145 du Code de procedure civile dispose :
+
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
 > « S'il existe un motif legitime de conserver ou d'etablir avant tout proces la preuve de faits dont pourrait dependre la solution d'un litige, les mesures d'instruction legalement admissibles peuvent etre ordonnees a la demande de tout interesse, sur requete ou en refere. »
 
@@ -86,6 +93,10 @@ La jurisprudence admet que la communication forcee d'un document contractuel con
 ### B. SUR LE DROIT D'ACTION DIRECTE DE LA VICTIME (L.124-3)
 L'article L.124-3 du Code des assurances consacre le droit de la victime d'agir directement contre l'assureur de la personne responsable :
 
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+
 > « Le tiers lese dispose d'un droit d'action directe a l'encontre de l'assureur garantissant la responsabilite civile de la personne responsable. »
 
 Ce droit est autonome et ne peut etre paralysé par la carence du responsable a communiquer les coordonnees de son assureur. La Cour de cassation rappelle que l'action directe est recevable meme si la societe responsable a ete dissoute.
@@ -100,8 +111,11 @@ Neanmoins, en pratique, l'exercice de ce droit suppose de connaitre l'identite d
 Les demandes amiables de Sébastien GRAZIDE sont restees lettres mortes :
 
 - LRAR du 29 juin 2026 a SAS LES MAUVAIS GARCONS : aucun AR retourne
+
 - LRAR du 29 juin 2026 a Sabir MOUNTASSER : aucun AR retourne
+
 - LRAR du 29 juin 2026 a Catherine ANDISSAC : aucun AR retourne
+
 - LRAR du 29 juin 2026 a Romain DELRIEU : AR retourne signe, mais sans reponse
 
 Ce silence delibere caracterise un refus de communiquer qui justifie que soit ordonnee la communication sous astreinte.
@@ -112,6 +126,10 @@ L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu
 
 ## PAR CES MOTIFS
 Vu l'Article 145 du Code de procédure civile,
+
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 Vu l'Article L. 124-3 du Code des assurances,
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
@@ -125,8 +143,11 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 1. **ORDONNER** a la SAS SAS LES MAUVAIS GARCONS de communiquer a Sébastien GRAZIDE l'integralite de sa police d'assurance de responsabilite civile professionnelle en vigueur au 29 mai 2026, ou, a defaut, une attestation de l'assureur mentionnant :
 
    - La denomination et l'adresse de la compagnie d'assurance
+
    - Le numero de police
+
    - Les garanties souscrites et leurs plafonds
+
    - La validite du contrat a la date du sinistre
 
 2. **ASSORTIR** cette obligation d'une astreinte de 150 € par jour de retard a compter du 8eme jour suivant la signification de l'ordonnance a intervenir ;
@@ -134,6 +155,10 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 3. **SE RESERVER** la liquidation de l'astreinte ;
 
 4. **CONDAMNER IN SOLIDUM** la SAS SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC a payer a Sébastien GRAZIDE la somme de 1 500 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
+
+> « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. » <br>
+> **Code de procédure civile > Chapitre Ier : La charge des dépens.** <br>
+> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
 
 <hr>
 

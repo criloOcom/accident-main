@@ -1,6 +1,6 @@
 ---
-title: "Signalement de Securite ERP au SDIS - Version réelle"
-description: "Sébastien GRAZIDE"
+title: "Signalement de Securite ERP au SDIS"
+description: "[L'Adresse de la Victime]"
 type: courrier
 date: 2026-07-05
 tags:
@@ -9,7 +9,7 @@ tags:
   - securite incendie
   - signalement
   - email
-statut: projet
+statut: final
 destinataire: SDIS de l'Ariege
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/18 ✉️ Courrier SDIS.md
@@ -25,7 +25,7 @@ drive_id: 1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 18 ✉️ Courrier SDIS
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 18 ✉️ Courrier SDIS
 <!-- /Breadcrumb -->
 
 **Table des matieres**

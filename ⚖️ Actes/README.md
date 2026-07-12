@@ -14,13 +14,14 @@ type: readme
 
 <!-- Breadcrumb -->
 [🏠](../README.md) › ⚖️ Actes
+<hr>
 <!-- /Breadcrumb -->
 
 # 📁 Actes — Dossier Contentieux
 
----
-
 Bienvenue dans le dossier central du contentieux. Ce dossier repose sur une **double strate** : des versions anonymisées pour le travail courant, et des versions réelles pour l'impression et l'envoi.
+
+---
 
 ## 🗺️ Cartographie interactive (Mermaid)
 
@@ -47,11 +48,7 @@ graph TD
     T4 -->|Dintilhac| A4[59 600 €]
 ```
 
-## 🔄 Workflow
-
-1. On travaille exclusivement dans `🔑 Token/` (création, modification, révision)
-2. On génère `👤 Reel/` via `python3 app/generate_real_versions.py`
-3. On imprime/envoie depuis `👤 Reel/`
+---
 
 ## 📋 Sous-dossiers 🔑 Token/ (miroir identique dans 👤 Reel/)
 
@@ -62,3 +59,11 @@ graph TD
 - **[💰 Études d'indemnisation](🔑%20Token/💰%20Etudes%20indemnisation/README.md)** — Évaluation Dintilhac (59 600 €)
 - **[🗂️ Organisation](🔑%20Token/🗂️%20Organisation/README.md)** — Index, plan d'action, calendrier
 - **[🗄️ Archives](🔑%20Token/🗄️%20Archives/README.md)** — Anciens documents de travail, annexes
+
+---
+
+## 🔄 Workflow
+
+1. On travaille exclusivement dans `🔑 Token/` (création, modification, révision)
+2. On génère `👤 Reel/` via `python3 app/generate_real_versions.py`
+3. On imprime/envoie depuis `👤 Reel/`

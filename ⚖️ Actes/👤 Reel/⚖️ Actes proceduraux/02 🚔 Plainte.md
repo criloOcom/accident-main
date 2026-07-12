@@ -1,6 +1,6 @@
 ---
-title: "Plainte Complément — Défaut d'Assurance RC - Version réelle"
-description: "Rédigé le 30 juin 2026"
+title: "Plainte Complément — Défaut d'Assurance RC"
+description: "Rédigé le **[J+32 Assignation référé]"
 type: assignation
 date: 2026-06-30
 tags:
@@ -23,7 +23,7 @@ drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [⚖️ Actes procéduraux](./README.md) › 02 🚔 Plainte
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 02 🚔 Plainte
 <!-- /Breadcrumb -->
 
 # COMPLÉMENT DE PLAINTE PÉNALE — DÉFAUT D'ASSURANCE RC
@@ -61,20 +61,19 @@ Malgré les demandes amiables répétées, SAS LES MAUVAIS GARCONS n'a jamais co
 
 Cette carence constitue un obstacle majeur à l'exercice de l'action directe de la victime contre l'assureur ([Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)) et entrave gravement ses droits à indemnisation.
 
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+
 En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en charge par le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
+
+> « Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. » <br>
+> **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.** <br>
+> [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
-<hr>
-
-- [I. EXPOSÉ DES FAITS](#i-expos-des-faits)
-- [II. DISCUSSION JURIDIQUE](#ii-discussion-juridique)
-  - [A. SUR L'ABSENCE D'ASSURANCE DE RESPONSABILITÉ CIVILE](#a-sur-labsence-dassurance-de-responsabilit-civile)
-  - [B. SUR L'ENTRAVE À L'EXERCICE DE L'ACTION DIRECTE](#b-sur-lentrave-lexercice-de-laction-directe)
-- [III. CONSÉQUENCES ET PRÉJUDICES](#iii-consquences-et-prjudices)
-- [IV. DEMANDES](#iv-demandes)
-
-<hr>
+<hr><hr>
 
 ## I. EXPOSÉ DES FAITS
 Le 29 mai 2026, alors qu'il se trouvait dans le salon de coiffure exploité par SAS LES MAUVAIS GARCONS en qualité de client, Sébastien GRAZIDE a été victime d'un accident corporel grave au sein de l'établissement, sise 22 Rue Lafaurie, 09000 Foix. 
@@ -83,7 +82,13 @@ Alors que Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à
 
 Ces faits, constitutifs de blessures involontaires au sens de l'[Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643), ont fait l'objet d'une plainte initiale enregistrée sous le numéro [ ... ].
 
-Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de SAS LES MAUVAIS GARCONS. Ni le Président de la SAS, Sabir MOUNTASSER, ni la co-dirigeante, Catherine ANDISSAC, n'ont déféré aux demandes amiables de Sébastien GRAZIDE, ni à celles adressées au propriétaire des murs, Romain DELRIEU. 
+> « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. » <br>
+> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+> [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
+
+Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de SAS LES MAUVAIS GARCONS.
+
+Ni le Président de la SAS, Sabir MOUNTASSER, ni la co-dirigeante, Catherine ANDISSAC, n'ont déféré aux demandes amiables de Sébastien GRAZIDE, ni à celles adressées au propriétaire des murs, Romain DELRIEU. 
 
 Ce silence persistant, malgré l'envoi de courriers recommandés le 29 juin 2026, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
 
@@ -91,12 +96,22 @@ Ce silence persistant, malgré l'envoi de courriers recommandés le 29 juin 2026
 
 ## II. DISCUSSION JURIDIQUE
 ### A. SUR L'ABSENCE D'ASSURANCE DE RESPONSABILITÉ CIVILE
-Malgré les demandes amiables de Sébastien GRAZIDE, SAS LES MAUVAIS GARCONS n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle. Cette absence de réponse laisse présumer soit une absence de couverture assurantielle, soit une volonté de dissimulation.
+Malgré les demandes amiables de Sébastien GRAZIDE, SAS LES MAUVAIS GARCONS n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle.
+
+Cette absence de réponse laisse présumer soit une absence de couverture assurantielle, soit une volonté de dissimulation.
 
 En l'absence d'assurance, l'indemnisation de la victime au titre de l'action directe prévue à l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) est gravement compromise. Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734), sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625), pourrait alors être saisi pour assurer l'indemnisation de Sébastien GRAZIDE.
 
+> « Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. » <br>
+> **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.** <br>
+> [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
+
 ### B. SUR L'ENTRAVE À L'EXERCICE DE L'ACTION DIRECTE
 L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) consacre le droit propre et l'action directe de la victime à l'encontre de l'assureur du responsable.
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
 Cette autonomie de l'action directe a été fermement rappelée par la jurisprudence.
 
@@ -109,6 +124,10 @@ Cette autonomie de l'action directe a été fermement rappelée par la jurisprud
 > Résumé : La dissolution et la clôture de la liquidation d'une personne morale n'éteignent pas l'action directe de la victime contre son assureur de responsabilité civile, qui reste recevable.
 
 En dissimulant l'identité de leur assureur, les mis en cause commettent une entrave caractérisée aux droits de la victime, susceptible de relever des dispositions de l'[Article 121-3 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208).
+
+> « Il n'y a point de crime ou de délit sans intention de le commettre. Toutefois, lorsque la loi le prévoit, il y a délit en cas de mise en danger délibérée de la personne d'autrui. Il y a également délit, lorsque la loi le prévoit, en cas de faute d'imprudence, de négligence ou de manquement à une obligation de prudence ou de sécurité prévue par la loi ou le règlement, s'il est établi que l'auteur des faits n'a pas accompli les diligences normales compte tenu, le cas échéant, de la nature de ses missions ou de ses fonctions, de ses compétences ainsi que du pouvoir et des moyens dont il disposait. Dans le cas prévu par l'alinéa qui précède, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particulière gravité qu'elles ne pouvaient ignorer. Il n'y a point de contravention en cas de force majeure. » <br>
+> **Code pénal > Chapitre Ier : Dispositions générales.** <br>
+> [Article 121-3 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
 
 > « Il n'y a point de crime ou de délit sans intention de le commettre. (...) Toutefois, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particularité gravité qu'elles ne pouvaient ignorer. »
 

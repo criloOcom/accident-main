@@ -1,5 +1,5 @@
 ---
-title: "Requête au Président du TJ aux Fins de Constat d'Huissier (Art. 145 CPC) - Version réelle"
+title: "Requête au Président du TJ aux Fins de Constat d'Huissier (Art. 145 CPC)"
 description: "AUX FINS DE DESIGNATION D'HUISSIER DE JUSTICE POUR CONSTAT"
 type: courrier
 date: 2026-07-09
@@ -25,7 +25,7 @@ source: local
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 33 ✉️ Requete Constat Huissier 145 CPC
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 33 ✉️ Requete Constat Huissier 145 CPC
 <!-- /Breadcrumb -->
 
 # REQUETE AU PRESIDENT DU TRIBUNAL JUDICIAIRE DE Foix
@@ -33,6 +33,10 @@ source: local
 **AUX FINS DE DESIGNATION D'HUISSIER DE JUSTICE POUR CONSTAT**
 
 **(Article 145 du Code de procedure civile)**
+
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
 Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac
@@ -63,6 +67,10 @@ Par reflexe, le requerant a tendu la main droite pour proteger le coiffeur. Sa p
 ## II — MOTIF LEGITIME (Art. 145 CPC)
 
 Conformement a l'article 145 du Code de procedure civile, il existe un motif legitime de conserver la preuve des faits dont pourrait dependre la solution du litige, avant tout proces au fond.
+
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
 **1. Risque de disparition des preuves materielles**
 

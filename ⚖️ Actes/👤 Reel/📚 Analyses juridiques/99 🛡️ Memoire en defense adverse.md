@@ -1,5 +1,5 @@
 ---
-title: "Mémoire en défense adverse — SAS Les Mauvais Garçons - Version réelle"
+title: "Mémoire en défense adverse — SAS Les Mauvais Garçons"
 description: "Pour :** SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC (Partie Défenderesse)"
 type: analyse_juridique
 date: 2026-07-09
@@ -22,7 +22,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/99 🛡️ Memoire en defens
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses](./README.md) › 99 🛡️ Memoire en defense adverse
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 99 🛡️ Memoire en defense adverse
 <!-- /Breadcrumb -->
 
 # MÉMOIRE EN DÉFENSE ADVERSE
@@ -40,15 +40,23 @@ Or, une analyse rigoureuse des pièces du dossier démontre l'existence de conte
 > [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
 > **Code de procédure civile > Chapitre II : Les ordonnances de référé**
 
-<hr>
+<hr><hr>
 
 ## I. SUR L'EXISTENCE DE CONTESTATIONS SÉRIEUSES (ART. 835 CPC)
 
 ### A. Une carence probatoire manifeste sur les circonstances
 La demanderesse allègue que l'accident aurait été causé par le basculement d'une vasque en céramique présentant une « cassure préexistante ». Cependant, **aucune preuve objective et irréfutable** n'est rapportée :
-1. **Absence de constat d'huissier :** À ce jour, la victime n'a produit aucun procès-verbal de constat d'huissier démontrant l'état de la vasque. La simple évocation d'une requête (Article 145 CPC) n'établit nullement la preuve d'un vice inhérent à la chose.
-2. **Absence de témoignages probants :** Les attestations Cerfa évoquées par la partie adverse ne sont, à ce stade, que de simples projets non signés (gabarits).
-3. **Incohérences documentaires :** Le PV de police n°2026/015967, sur lequel s'appuie la victime, comporte des erreurs factuelles (adresse erronée "22, RUE DE LA FAURIE"). De plus, les certificats médicaux initiaux faisaient état d'une ITT de 1 jour, inexplicablement portée à 56 jours par la suite, avec des incohérences sur la date de l'accident (29/06/2026 au lieu de 29/05/2026 sur certains documents).
+
+#### 1. Absence de constat d'huissier 
+À ce jour, la victime n'a produit aucun procès-verbal de constat d'huissier démontrant l'état de la vasque. La simple évocation d'une requête (Article 145 CPC) n'établit nullement la preuve d'un vice inhérent à la chose.
+
+#### 2. Absence de témoignages probants 
+Les attestations Cerfa évoquées par la partie adverse ne sont, à ce stade, que de simples projets non signés (gabarits).
+
+#### 3. Incohérences documentaires 
+Le PV de police n°2026/015967, sur lequel s'appuie la victime, comporte des erreurs factuelles (adresse erronée "22, RUE DE LA FAURIE").
+
+De plus, les certificats médicaux initiaux faisaient état d'une ITT de 1 jour, inexplicablement portée à 56 jours par la suite, avec des incohérences sur la date de l'accident (29/06/2026 au lieu de 29/05/2026 sur certains documents).
 
 ### B. La faute de la victime comme cause d'exonération
 La victime reconnaît elle-même avoir « tendu la main droite par réflexe » et avoir volontairement interagi avec la chose (le meuble). Cette intervention active, précipitée et inopportune de la victime constitue une faute d'imprudence au sens de l'article 1241 du Code civil.
@@ -59,7 +67,7 @@ La victime reconnaît elle-même avoir « tendu la main droite par réflexe » e
 
 Cette imprudence est de nature à exonérer, au moins partiellement, la gardienne de la chose de sa responsabilité, rendant l'obligation de réparation intégralement contestable en référé.
 
-<hr>
+<hr><hr>
 
 ## II. SUR LA MISE EN CAUSE ABUSIVE DES DIRIGEANTS
 
@@ -71,9 +79,11 @@ Cette argumentation est juridiquement infondée. L'écran de la personnalité mo
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
 
-Un prétendu défaut de signalisation d'une vasque ébréchée, à le supposer établi, relève tout au plus d'une négligence dans l'exploitation courante du salon, imputable à la seule SAS LES MAUVAIS GARCONS. Il n'y a ici aucune intention de nuire ni aucune infraction pénale intentionnelle de la part des dirigeants justifiant la levée de l'immunité.
+Un prétendu défaut de signalisation d'une vasque ébréchée, à le supposer établi, relève tout au plus d'une négligence dans l'exploitation courante du salon, imputable à la seule SAS LES MAUVAIS GARCONS.
 
-<hr>
+Il n'y a ici aucune intention de nuire ni aucune infraction pénale intentionnelle de la part des dirigeants justifiant la levée de l'immunité.
+
+<hr><hr>
 
 ## III. SUR LE CHIFFRAGE EXORBITANT ET PRÉMATURÉ DES PRÉJUDICES
 
@@ -81,22 +91,34 @@ La demande de provision de 15 000 €, fondée sur un préjudice global fantaisi
 
 ### A. L'absence de consolidation de la victime
 Il est constant qu'à ce jour, **aucun certificat de consolidation** n'a été produit par la victime (qui admet elle-même que son état n'est pas consolidé). En droit de la réparation du dommage corporel, les postes de préjudices permanents ne peuvent naître ni être chiffrés avant la consolidation.
+
 En conséquence, la demande indemnitaire au titre du DFP (Déficit Fonctionnel Permanent) évaluée à 31 200 € est irrecevable et prématurée.
 
 ### B. Contestation des postes de la nomenclature Dintilhac
-1. **Pertes de Gains Professionnels Actuels (PGPA) :** Réclamés à hauteur de 1 400 € pour 56 jours d'ITT. Une coupure tendineuse, bien que nécessitant un arrêt, ne justifie pas une paralysie totale d'une activité d'informaticien indépendant.
-2. **Incidence Professionnelle (IP) :** Chiffrée à 30 000 €. Outre le fait que l'IP est un poste permanent (nécessitant la consolidation), accorder l'IP en plus des PGPA pour la même incapacité professionnelle caractérise un enrichissement sans cause et une double indemnisation interdite par la Cour de cassation.
-3. **Préjudice d'Agrément :** Chiffré à 8 000 € au motif d'une pratique de la guitare. La victime ne produit **aucune preuve** (licence, attestation de club, factures de cours) justifiant d'une pratique sportive ou de loisir antérieure et régulière, condition indispensable fixée par la jurisprudence pour indemniser ce poste.
-4. **Frais divers et PEP :** Sortis ex nihilo après réévaluation, non justifiés par des factures probantes.
 
-<hr>
+#### 1. Pertes de Gains Professionnels Actuels (PGPA)
+Réclamés à hauteur de 1 400 € pour 56 jours d'ITT. Une coupure tendineuse, bien que nécessitant un arrêt, ne justifie pas une paralysie totale d'une activité d'informaticien indépendant.
+
+#### 2. Incidence Professionnelle (IP)
+Chiffrée à 30 000 €. Outre le fait que l'IP est un poste permanent (nécessitant la consolidation), accorder l'IP en plus des PGPA pour la même incapacité professionnelle caractérise un enrichissement sans cause et une double indemnisation interdite par la Cour de cassation.
+
+#### 3. Préjudice d'Agrément
+Chiffré à 8 000 € au motif d'une pratique de la guitare. La victime ne produit **aucune preuve** (licence, attestation de club, factures de cours) justifiant d'une pratique sportive ou de loisir antérieure et régulière, condition indispensable fixée par la jurisprudence pour indemniser ce poste.
+
+#### 4. Frais divers et PEP
+Sortis ex nihilo après réévaluation, non justifiés par des factures probantes.
+
+<hr><hr>
 
 ## CONCLUSION ET DEMANDES
 
 Le juge des référés est le juge de l'évidence. En l'espèce :
 - La matérialité de la défectuosité n'est pas prouvée (aucun constat, aucun témoin).
+
 - La faute d'imprudence de la victime vient rompre ou atténuer le lien de causalité.
+
 - La responsabilité personnelle des dirigeants est inopposable (absence de faute détachable).
+
 - L'évaluation des préjudices est prématurée (absence de consolidation) et largement surévaluée (DFP et IP infondés, Agrément sans preuve).
 
 L'obligation de SAS LES MAUVAIS GARCONS étant sérieusement contestable, la demande de provision de 15 000 € doit être rejetée en toutes ses dispositions. Tout au plus, si le juge ordonne une expertise médicale (Article 145 CPC), celle-ci devra se dérouler aux frais avancés de la demanderesse sans aucune provision financière préalable.

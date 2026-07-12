@@ -13,13 +13,6 @@ auteur: L'Avocat de la Victime
 reel_path: ../../👤 Reel/📚 Analyses juridiques/Note Mesures Conservatoires.md
 ---
 
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › Note Mesures Conservatoires
 <!-- /Breadcrumb -->
@@ -39,6 +32,8 @@ La présente note a pour objet d'analyser la faisabilité juridique et procédur
 - De la saisie conservatoire des meubles corporels ;
 
 - De la nécessité de requérir une autorisation préalable du Juge de l'Exécution (JEX).
+
+<hr><hr>
 
 ## II. FONDEMENT ET ARGUMENTATION
 
@@ -68,6 +63,8 @@ Il est également possible de procéder à la saisie des biens meubles corporels
 Dans la mesure où notre cabinet ne dispose pas, à ce stade, d'un titre exécutoire (décision de justice condamnant la partie adverse), ni de certaines autres dérogations spécifiques (loyer impayé, chèque sans provision), l'autorisation préalable du juge est strictement requise.
 
 Il est donc impératif de déposer une requête motivée auprès du Juge de l'Exécution (JEX) compétent, exposant en détail les fondements de la créance et caractérisant l'urgence ainsi que le péril pesant sur le recouvrement. L'ordonnance sur requête, rendue de manière non contradictoire, permettra de mandater un Commissaire de Justice pour pratiquer les saisies de manière impromptue.
+
+<hr><hr>
 
 ## III. CONCLUSION
 

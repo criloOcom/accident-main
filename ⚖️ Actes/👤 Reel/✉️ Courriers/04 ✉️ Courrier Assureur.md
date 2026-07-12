@@ -1,6 +1,6 @@
 ---
-title: "Action Directe Assureur RC (Art. L.124-3 Code des assurances) - Version réelle"
-description: "Sébastien GRAZIDE"
+title: "Action Directe Assureur RC (Art. L.124-3 Code des assurances)"
+description: "[L'Adresse de la Victime]"
 type: courrier
 date: 2026-06-29
 tags:
@@ -8,7 +8,7 @@ tags:
   - assurance
   - mise en demeure
   - L.124-3
-statut: projet
+statut: final
 destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/04 ✉️ Courrier Assureur.md
@@ -24,7 +24,7 @@ drive_id: 14VIXTJK4n9eH66eVNZ6hJO6gLkiRBqnJpWijsDbkE2k
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 04 ✉️ Courrier Assureur
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 04 ✉️ Courrier Assureur
 <!-- /Breadcrumb -->
 
 # ACTION DIRECTE — MISE EN DEMEURE ASSUREUR RC
@@ -51,6 +51,10 @@ Madame, Monsieur,
 
 ## INTRODUCTION
 La présente lettre de mise en demeure est adressée par Sébastien GRAZIDE à la compagnie d'assurance de SAS LES MAUVAIS GARCONS sur le fondement de l'article L. 124-3 du Code des assurances, lequel institue une action directe de la victime contre l'assureur du responsable.
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
 Par ce courrier, Sébastien GRAZIDE met en demeure l'assureur de prendre en charge le sinistre corporel survenu le 29 mai 2026 dans les locaux de SAS LES MAUVAIS GARCONS et de procéder au règlement des préjudices subis, dont le montant total estimé s'élève à **59 600 €** selon l'étude d'indemnisation établie conformément à la Nomenclature Dintilhac.
 
@@ -81,6 +85,10 @@ Il s'en est suivi une intervention de microchirurgie d'urgence le 30 mai 2026 au
 Le pronostic de récupération neurologique a été évalué à un an minimum par le chirurgien, avec un résultat souvent partiel s'agissant d'une suture nerveuse.
 
 En application de l'article L. 124-3 du Code des assurances, je dispose d'un droit propre et d'une action directe à l'encontre de votre compagnie en tant qu'assureur de responsabilité civile de l'auteur du dommage.
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
 > « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. » <br>
 > [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) <br>

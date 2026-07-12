@@ -40,7 +40,7 @@ Or, une analyse rigoureuse des pièces du dossier démontre l'existence de conte
 > [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
 > **Code de procédure civile > Chapitre II : Les ordonnances de référé**
 
-<hr>
+<hr><hr>
 
 ## I. SUR L'EXISTENCE DE CONTESTATIONS SÉRIEUSES (ART. 835 CPC)
 
@@ -67,7 +67,7 @@ La victime reconnaît elle-même avoir « tendu la main droite par réflexe » e
 
 Cette imprudence est de nature à exonérer, au moins partiellement, la gardienne de la chose de sa responsabilité, rendant l'obligation de réparation intégralement contestable en référé.
 
-<hr>
+<hr><hr>
 
 ## II. SUR LA MISE EN CAUSE ABUSIVE DES DIRIGEANTS
 
@@ -83,7 +83,7 @@ Un prétendu défaut de signalisation d'une vasque ébréchée, à le supposer �
 
 Il n'y a ici aucune intention de nuire ni aucune infraction pénale intentionnelle de la part des dirigeants justifiant la levée de l'immunité.
 
-<hr>
+<hr><hr>
 
 ## III. SUR LE CHIFFRAGE EXORBITANT ET PRÉMATURÉ DES PRÉJUDICES
 
@@ -108,7 +108,7 @@ Chiffré à 8 000 € au motif d'une pratique de la guitare. La victime ne produ
 #### 4. Frais divers et PEP
 Sortis ex nihilo après réévaluation, non justifiés par des factures probantes.
 
-<hr>
+<hr><hr>
 
 ## CONCLUSION ET DEMANDES
 

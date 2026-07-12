@@ -178,6 +178,10 @@ Par ces motifs, **[La Victime]** sollicite qu'il plaise a Monsieur le Doyen des 
 
 4. **CONDAMNER IN SOLIDUM** la SAS **[L'Exploitant du Commerce (La SAS)]**, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a **[La Victime]** la somme de **[Finance Article 700]** sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
 
+> « Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. » <br>
+> **Code de procédure pénale > Paragraphe 1 : Dispositions générales — abrogation différée.** <br>
+> [Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107)
+
 <hr>
 
 ## PAR CES MOTIFS
@@ -188,6 +192,10 @@ Vu les articles R. 4323-58 et suivants du Code du travail,
 Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
 Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu l'article L. 124-3 du Code des assurances,
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 Vu les articles 706-3 et 706-14 du Code de procedure penale,
 Vu la jurisprudence de la Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092 (arret SATI),
 Vu les pieces versees aux debats,
@@ -201,6 +209,10 @@ Vu les pieces versees aux debats,
 3. **CONDAMNER IN SOLIDUM** la SAS **[L'Exploitant du Commerce (La SAS)]**, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a verser a **[La Victime]** une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices ;
 
 4. **CONDAMNER IN SOLIDUM** la SAS **[L'Exploitant du Commerce (La SAS)]**, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a **[La Victime]** la somme de **[Finance Article 700]** sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
+
+> « Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. » <br>
+> **Code de procédure pénale > Paragraphe 1 : Dispositions générales — abrogation différée.** <br>
+> [Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107)
 
 5. **SE RESERVER** la liquidation de l'astreinte et la fixation des dommages et interets definitifs apres depot du rapport d'expertise medicale.
 

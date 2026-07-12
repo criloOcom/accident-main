@@ -1,6 +1,6 @@
 ---
-title: "Note d'Analyse Juridique - Droit des Assurances - Version réelle"
-description: "La présente note détaille la stratégie et l'analyse en droit des assurances concernant le litige opposant Sébastien GRAZIDE à SAS LES MAUVAIS GARCONS et ses dirigeants, suite à l'accident corporel survenu le 29 mai 2026. Elle aborde la validité de l'"
+title: "Note d'Analyse Juridique - Droit des Assurances"
+description: "La présente note détaille la stratégie et l'analyse en droit des assurances concernant le litige opposant Sébastien GRAZIDE à SAS LES MAUVAIS GARCONS et ses dirigeants, suite à l'accident corporel survenu le 29 mai 2026. Elle aborde la"
 type: analyse_juridique
 date: 2026-07-08
 tags:
@@ -22,7 +22,7 @@ source: local
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses](./README.md) › 15 Note Droit Assurances
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 15 Note Droit Assurances
 <!-- /Breadcrumb -->
 
 # NOTE D'ANALYSE JURIDIQUE SPÉCIALE - DROIT DES ASSURANCES
@@ -44,6 +44,10 @@ Le principe de l'action directe permet à la victime d'agir directement contre l
 > **Cour de cassation, 3e chambre civile, 11 mai 2022, n° 21-12.478**
 
 L'obstacle actuel réside dans la rétention d'informations par Sabir MOUNTASSER quant à l'identité de l'assureur, justifiant l'assignation en référé sur le fondement de l'article 145 du Code de procédure civile.
+
+> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
 ## II. RISQUES D'EXCLUSION DE GARANTIE (ART. L.113-1 C. ASSUR.)
 En matière d'assurance de responsabilité civile, les pertes et dommages occasionnés par un cas fortuit ou causés par la faute de l'assuré sont à la charge de l'assureur. Seule la faute intentionnelle ou dolosive est exclue de plein droit.
@@ -113,6 +117,10 @@ Madame, Monsieur,
 
 Je vous adresse la présente mise en demeure en votre qualité d'assureur garantissant la responsabilité civile de la société SAS LES MAUVAIS GARCONS (Assuré), en vertu de mon droit propre d'action directe prévu par l'article L. 124-3 du Code des assurances.
 
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+
 Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein des locaux de votre assuré, lorsqu'une vasque en céramique défectueuse a basculé à la suite d'une manœuvre imprudente de son préposé, entraînant une lésion sévère de ma main droite (tendons et nerfs sectionnés, ITT de 56 jours).
 
 L'entière responsabilité de votre assuré est acquise, ce dernier ayant manqué à son obligation de sécurité, le matériel utilisé étant incontestablement défectueux (art. 1242 du Code civil).
@@ -123,6 +131,10 @@ L'obligation d'indemnisation n'étant pas sérieusement contestable, je vous met
 3. Mandater un médecin expert pour évaluer mes préjudices selon la Nomenclature Dintilhac.
 
 À défaut de règlement spontané dans ce délai, je me verrai contraint de vous attraire devant le juge des référés du Tribunal Judiciaire sur le fondement de l'article 835 du Code de procédure civile, pour obtenir cette provision de façon forcée, assortie d'une demande de prise en charge des frais irrépétibles (Art. 700 CPC).
+
+> « Le président du tribunal judiciaire ou le juge des contentieux de la protection dans les limites de sa compétence peuvent toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. » <br>
+> **Code de procédure civile > Chapitre II : Les ordonnances de référé.** <br>
+> [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
 
 Dans l'attente de votre prise de position urgente,
 

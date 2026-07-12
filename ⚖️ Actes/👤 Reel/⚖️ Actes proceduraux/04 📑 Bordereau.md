@@ -1,5 +1,5 @@
 ---
-title: "Bordereau de pièces (unifié) - Version réelle"
+title: "Bordereau de pièces (unifié)"
 description: "| Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : Sébastien GRAZIDE | Défendeur : SAS LES MAUVAIS GARCONS |"
 type: assignation
 date: 2026-07-07
@@ -22,7 +22,7 @@ source: drive
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [⚖️ Actes procéduraux](./README.md) › 04 📑 Bordereau
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 04 📑 Bordereau
 <!-- /Breadcrumb -->
 
 # BORDEREAU DE PIÈCES

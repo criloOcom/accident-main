@@ -1,6 +1,6 @@
 ---
-title: "Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC - Version réelle"
-description: "10 Avenue de Purpan, 31700 Blagnac <br>"
+title: "Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC"
+description: "[L'Adresse de la Victime]** <br>"
 type: courrier
 date: 2026-06-29
 tags:
@@ -25,7 +25,7 @@ drive_id: 1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 06 ✉️ Courrier President DG
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 06 ✉️ Courrier President DG
 <!-- /Breadcrumb -->
 
 # MISE EN DEMEURE AUX DIRIGEANTS — DEMANDE D'INFORMATION ASSURANCE RC

@@ -1,6 +1,6 @@
 ---
-title: "Signalement de Litige au Registre National des Entreprises - Version réelle"
-description: "Sébastien GRAZIDE"
+title: "Signalement de Litige au Registre National des Entreprises"
+description: "[L'Adresse de la Victime]"
 type: courrier
 date: 2026-07-05
 tags:
@@ -9,7 +9,7 @@ tags:
   - signalement
   - litige
   - LRAR
-statut: projet
+statut: final
 destinataire: INPI
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/11 ✉️ Courrier INPI.md
@@ -25,7 +25,7 @@ drive_id: 1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 11 ✉️ Courrier INPI
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 11 ✉️ Courrier INPI
 <!-- /Breadcrumb -->
 
 # DEMANDE DE SIGNALEMENT DE LITIGE AU REGISTRE NATIONAL DES ENTREPRISES
@@ -78,6 +78,10 @@ Les procedures suivantes ont ete engagees :
 - Mise en demeure a la SAS SAS LES MAUVAIS GARCONS
 - Mise en demeure a Sabir MOUNTASSER et a Catherine ANDISSAC
 - Action directe contre l'assureur RC (Article L.124-3 du Code des assurances)
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
 **3. Demande d'enquete administrative**
 - Saisine de l'Inspection du Travail (DDETS 09 / DREETS Occitanie)

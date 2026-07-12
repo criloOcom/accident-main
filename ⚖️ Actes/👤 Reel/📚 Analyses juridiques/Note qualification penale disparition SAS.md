@@ -1,6 +1,6 @@
 ---
 title: "Note juridique : Qualification pénale — Disparition de la SAS"
-description: "Dossier :** Sébastien GRAZIDE c/ SAS LES MAUVAIS GARCONS"
+description: "Dossier :** Sébastien GRAZIDE c/ **[L'Exploitant du Commerce (La SAS)]"
 type: analyse_juridique
 statut: brouillon
 reel_path: ../../👤 Reel/📚 Analyses juridiques/Note qualification penale disparition SAS.md
@@ -14,7 +14,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/Note qualification penale di
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses](./README.md) › Note qualification penale disparition SAS
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › Note qualification penale disparition SAS
 <!-- /Breadcrumb -->
 
 # Note juridique : Qualification pénale — Disparition de la SAS
@@ -22,19 +22,21 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/Note qualification penale di
 **Dossier :** Sébastien GRAZIDE c/ SAS LES MAUVAIS GARCONS
 **Rédacteur :** Nom Prénom de l'Avocat
 
----
+<hr><hr>
 
 ## INTRODUCTION
 
 La présente note vise à analyser les qualifications pénales applicables dans l'hypothèse où Sabir MOUNTASSER et Catherine ANDISSAC procéderaient à la liquidation, la dissolution ou la cession des actifs de SAS LES MAUVAIS GARCONS (dont le capital social n'est que de 200 €) dans le but d'échapper au paiement des condamnations civiles à intervenir au profit de Sébastien GRAZIDE.
 
-Trois qualifications pénales majeures peuvent être soulevées devant le Parquet :
+**Trois qualifications pénales majeures peuvent être soulevées devant le Parquet :**
 
 1. L'organisation frauduleuse d'insolvabilité
+
 2. L'escroquerie
+
 3. La banqueroute par dissimulation d'actifs
 
----
+<hr><hr>
 
 ## 1. ORGANISATION FRAUDULEUSE D'INSOLVABILITÉ
 
@@ -50,7 +52,11 @@ La société SAS LES MAUVAIS GARCONS pourrait être vidée de ses actifs par ses
 **Argumentation :**
 L'article 314-7 du Code pénal permet expressément d'appréhender le comportement du débiteur qui organise son insolvabilité *avant même* que la décision de justice ne soit rendue. Si Sabir MOUNTASSER et Catherine ANDISSAC décident de dissoudre la structure ou de transférer le fonds de commerce à une autre entité sans provisionner le passif latent lié à l'accident du 29 mai 2026, l'infraction sera pleinement constituée. La peine encourue (jusqu'à 5 ans de prison et 375 000 € d'amende avec circonstances aggravantes) justifie la saisine du Parquet.
 
----
+> « Le fait, par un débiteur, même avant la décision judiciaire constatant sa dette, d'organiser ou d'aggraver son insolvabilité soit en augmentant le passif ou en diminuant l'actif de son patrimoine, soit en diminuant ou en dissimulant tout ou partie de ses revenus, soit en dissimulant certains de ses biens, en vue de se soustraire à l'exécution d'une condamnation de nature patrimoniale prononcée par une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou d'aliments, prononcée par une juridiction civile, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. Commet le même délit le dirigeant de droit ou de fait d'une personne morale qui organise ou aggrave l'insolvabilité de celle-ci dans les conditions définies à l'alinéa précédent en vue de la soustraire aux obligations pécuniaires résultant d'une condamnation prononcée en matière pénale, délictuelle ou quasi délictuelle. » <br>
+> **Code pénal > Section 3 : De l'organisation frauduleuse de l'insolvabilité.** <br>
+> [Article 314-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226)
+
+<hr><hr>
 
 ## 2. ESCROQUERIE
 
@@ -65,7 +71,7 @@ Dans l'hypothèse où une nouvelle société serait créée par Sabir MOUNTASSER
 **Argumentation :**
 Le montage juridique consistant à recréer une entité miroir (même activité, même clientèle, mêmes dirigeants) pour transférer frauduleusement le fonds de commerce, tout en laissant la coquille vide SAS LES MAUVAIS GARCONS faire face aux dettes indemnitaires, constitue une manœuvre frauduleuse. Cette manœuvre visant à tromper les créanciers (ici, Sébastien GRAZIDE) pour obtenir une décharge d'obligation caractérise le délit d'escroquerie, puni de 5 ans d'emprisonnement et 375 000 € d'amende.
 
----
+<hr><hr>
 
 ## 3. BANQUEROUTE PAR DISSIMULATION D'ACTIFS
 
@@ -80,7 +86,7 @@ L'ouverture d'une procédure de liquidation ou de redressement judiciaire suite 
 **Argumentation :**
 Si SAS LES MAUVAIS GARCONS fait l'objet d'une procédure collective, les actes de dissipation du patrimoine social accomplis par Sabir MOUNTASSER ou Catherine ANDISSAC tomberont sous le coup des dispositions relatives à la banqueroute. La dissimulation d'actifs, le détournement ou l'emploi ruineux des fonds sociaux (notamment en fuyant le passif) justifieront un signalement au Procureur de la République.
 
----
+<hr><hr>
 
 ## CONCLUSION
 

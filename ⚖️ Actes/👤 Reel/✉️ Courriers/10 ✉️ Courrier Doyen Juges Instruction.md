@@ -1,6 +1,6 @@
 ---
-title: "Courrier Doyen des Juges d'Instruction — Constitution de Partie Civile - Version réelle"
-description: "Sébastien GRAZIDE"
+title: "Courrier Doyen des Juges d'Instruction — Constitution de Partie Civile"
+description: "[La Victime]"
 type: courrier
 date: 2026-07-06
 tags:
@@ -24,7 +24,7 @@ drive_id: 1nFSf3EDB_bVudz5Xhf0NvXlibTesCL8M5hepEZqxd5w
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 10 ✉️ Courrier Doyen Juges Instruction
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 10 ✉️ Courrier Doyen Juges Instruction
 <!-- /Breadcrumb -->
 
 # ENVOI CONSTITUTION DE PARTIE CIVILE
@@ -61,6 +61,10 @@ Ces faits sont survenus le 29 mai 2026 dans les locaux de la SAS SAS LES MAUVAIS
 Vous trouverez ci-joint la plainte avec constitution de partie civile formelle détaillant les faits et les fondements juridiques, ainsi qu'un bordereau récapitulant les pièces justificatives que je verse au débat.
 
 Dans l'attente que vous fixiez, le cas échéant, le montant de la consignation prévue à l'article 88 du Code de procédure pénale (dont je sollicite toutefois l'exemption ou la modération compte tenu de ma situation financière actuelle liée à mon arrêt de travail prolongé),
+
+> « Le juge d'instruction constate, par ordonnance, le dépôt de la plainte. En fonction des ressources de la partie civile, il fixe le montant de la consignation que celle-ci doit, si elle n'a obtenu l'aide juridictionnelle, déposer au greffe et le délai dans lequel elle devra être faite sous peine de non-recevabilité de la plainte. Il peut dispenser de consignation la partie civile. » <br>
+> **Code de procédure pénale > Section 2 : De la constitution de la partie civile et de ses effets — abrogation différée.** <br>
+> [Article 88 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575469)
 
 Je me tiens à votre entière disposition pour être entendu et participer à toute expertise médicale que vous jugerez utile d'ordonner.
 

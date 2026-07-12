@@ -1,5 +1,5 @@
 ---
-title: "Index de l'État Final du Dossier - Version réelle"
+title: "Index de l'État Final du Dossier"
 description: "Rédigé le 30 juin 2026 — Mis à jour le **[J+38 Mise à jour]** (unification bordereau 43 pièces)"
 type: readme
 date: 2026-07-07
@@ -23,7 +23,7 @@ drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [🗂️ Organisation](./README.md) › 00 📇 Index
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › 00 📇 Index
 <!-- /Breadcrumb -->
 
 # INDEX DU DOSSIER **[LA VICTIME]**
@@ -39,20 +39,7 @@ Destinataire : Analyse tierce
 
 Partage depuis : sebastien.grazide@gmail.com
 
-<hr>
-
-- [00 — PREUVES OFFICIELLES](#00-preuves-officielles)
-- [01 — ACTES PROCÉDURAUX](#01-actes-procduraux)
-- [02 — COURRIERS](#02-courriers)
-- [03 — ANALYSES JURIDIQUES](#03-analyses-juridiques)
-- [04 — ÉTUDES D'INDEMNISATION](#04-tudes-dindemnisation)
-- [05 — ORGANISATION](#05-organisation)
-- [ARCHIVES](#archives)
-- [MODIFICATIONS CLÉS](#modifications-cls)
-- [RÉFÉRENCES JURISPRUDENTIELLES](#rfrences-jurisprudentielles)
-- [STATISTIQUES DU DOSSIER](#statistiques-du-dossier)
-
-<hr>
+<hr><hr>
 
 ## 00 — PREUVES OFFICIELLES
 *(Documents physiques — dossier `📂 Preuves officielles/` en attente d'insertion)*
@@ -63,7 +50,7 @@ Partage depuis : sebastien.grazide@gmail.com
 - 2026-06-19 - CR opératoire Dr Iskander DJERBI ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
 - 2026-06-29 - Forensic Evidence File ✓ Vérifié : Dossier de preuves numériques et médicales.
 
-<hr>
+<hr><hr>
 
 ## 01 — ACTES PROCÉDURAUX
 - 2026-06-29 - 01 ⚖️ Assignation - V1 ✓ Vérifié : Projet d'assignation en référé-provision (5 000 €) fondé sur [Article 835 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284).
@@ -76,11 +63,15 @@ Partage depuis : sebastien.grazide@gmail.com
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
 
-<hr>
+<hr><hr>
 
 ## 02 — COURRIERS
 - 2026-06-29 - 03 ✉️ Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à SAS LES MAUVAIS GARCONS.
 - 2026-06-29 - 04 ✉️ Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
 - 2026-06-01 - 05 ✉️ Courrier Proprietaire - V1 ✓ Vérifié : Demande d'information au propriétaire des murs (détient l'attestation d'assurance RC Pro du locataire via le bail commercial).
@@ -105,7 +96,7 @@ Partage depuis : sebastien.grazide@gmail.com
 - 2026-07-05 - 25 📧 Relance [Le Chirurgien SOS Main] - V1 ✓ Vérifié : Relance demande certificat médical de consolidation.
 - 2026-07-05 - 26-28 📧 Attestations Témoin - V1 ✓ Vérifié : Attestations témoin (client, pompier, employé) versions réalistes.
 
-<hr>
+<hr><hr>
 
 ## 03 — ANALYSES JURIDIQUES
 - 2026-06-29 - 07 🎤 Plaidoirie dirigeants - V1 ✓ Vérifié : Analyse de la responsabilité pour faute détachable selon l'Arrêt SATI juridique invoquant [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) du Code civil
@@ -116,20 +107,23 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 
 - 2026-06-29 - 09 ❓ FAQ - V1 ✓ Vérifié : Synthèse juridique et questions-réponses.
 - 2026-06-02 - 13 📜 Responsabilites legales - V1 ✓ Vérifié : Analyse sur [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
+
+> « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
+> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+> [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
 - 2026-07-05 - 12 📁 Dossier Plaidoirie - V1 ✓ Vérifié : Dossier complet de plaidoirie pour l'audience.
 - 2026-07-05 - 14 Stratégie jurisprudentielle - V1 ✓ Brouillon : Stratégie jurisprudentielle pour l'audience.
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
 
-<hr>
+<hr><hr>
 
 ## 04 — ÉTUDES D'INDEMNISATION
-- 2026-06-01 - 11 💰 Etude indemnisation - V1 ✓ Vérifié : Étude d'indemnisation des préjudices corporels selon la réparation intégrale.
-- 2026-07-05 - 12 Évaluation Dintilhac détaillée - V1 ✓ Vérifié : Évaluation détaillée de tous les postes de préjudice Dintilhac.
+- 2026-07-07 - 11+12 📊 Evaluation Dintilhac consolidee - V2 ✓ Vérifié : Document consolidé unique (fusion des docs 11 et 12) — tous postes Dintilhac, comparaison Glose, stratégie de recouvrement, provision référé (~92 000 €, provision 15 000 €).
 
 > Attendu : « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »
 > Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
 
-<hr>
+<hr><hr>
 
 ## 05 — ORGANISATION
 - 2026-06-01 - 10 🗂️ Plan action - V1 ✓ Vérifié : Plan d'action et chronologie de procédure.
@@ -137,7 +131,7 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 - 2026-06-29 - 00 📇 Index (ce document) ✓ Vérifié : Index et structure du dossier.
 - 2026-07-05 - 20 📦 Bon envoi physique - V1 ✓ Vérifié : Bon d'envoi physique des pièces au tribunal.
 
-<hr>
+<hr><hr>
 
 ## MÉMOIRES D'AUDIT
 - AUDIT_DATES.md ✓ Vérifié : Audit de la chronologie des faits.
@@ -155,7 +149,7 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 - STRICT VARIABLES.md ✓ Vérifié : Variables et faits inaltérables.
 - PIECES MAP.md ✓ Vérifié : Correspondance documents et pièces.
 
-<hr>
+<hr><hr>
 
 ## ARCHIVES
 Documents non indexés conservés dans `archives/` :
@@ -169,7 +163,7 @@ Documents non indexés conservés dans `archives/` :
 - `archives/🧠 STRATEGIE Contentieux Penal.md`
 - `archives/📁 Dossier Presentation.md`
 
-<hr>
+<hr><hr>
 
 ## MODIFICATIONS CLÉS
 1. Ayoub BENNOURINE -> Sabir MOUNTASSER + Catherine ANDISSAC ✓
@@ -189,7 +183,7 @@ Documents non indexés conservés dans `archives/` :
 14. Références croisées mises à jour dans tous les actes (01, 02b, 03) ✓
 15. Ancien « Bordereau de pieces.md » supprimé ✓
 
-<hr>
+<hr><hr>
 
 ## RÉFÉRENCES JURISPRUDENTIELLES
 - [Arrêt Costedoat : Ass. Plén., 25 février 2000, n° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704) ✓
@@ -219,7 +213,7 @@ Documents non indexés conservés dans `archives/` :
 > Attendu : « Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »
 > Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
 
-<hr>
+<hr><hr>
 
 ## STATISTIQUES DU DOSSIER (MÀJ **[J+38 MISE À JOUR]**)
 - Actes procéduraux : **7** (Assignation 01, Plainte 02, Constitution PC 02b, Assignation 145 03, Bordereau unifié 04, Conclusions 05, Constat Huissier 06)
@@ -235,7 +229,7 @@ Documents non indexés conservés dans `archives/` :
 
 *NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à Sébastien GRAZIDE. Seule l'Étude d'indemnisation (Piece 03) est conservée dans 💰 Etudes indemnisation.*
 
-<hr>
+<hr><hr>
 
 ## TRAVAUX RESTANTS
 1. **Audience de référé** — Planifier audience (date non fixée).

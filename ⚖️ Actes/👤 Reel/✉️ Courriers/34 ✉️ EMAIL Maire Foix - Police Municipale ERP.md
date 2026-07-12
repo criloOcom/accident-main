@@ -1,5 +1,5 @@
 ---
-title: "Email définitif à l'Adjoint au Maire de Foix — Éléments d'actualisation sur le dossier ERP - Version réelle"
+title: "Email définitif à l'Adjoint au Maire de Foix — Éléments d'actualisation sur le dossier ERP"
 description: "Destinataire** : `btavella@mairie-foix.fr`"
 type: courrier
 date: 2026-07-10
@@ -17,7 +17,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police 
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 34 ✉️ EMAIL Maire Foix - Police Municipale ERP
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 34 ✉️ EMAIL Maire Foix - Police Municipale ERP
 <!-- /Breadcrumb -->
 
 # EMAIL — Éléments d'actualisation sur le dossier ERP (22 Rue Lafaurie, 09000 Foix)

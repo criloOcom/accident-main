@@ -1,6 +1,6 @@
 ---
-title: "Information de Litige au Service des Impots des Entreprises - Version réelle"
-description: "Sébastien GRAZIDE"
+title: "Information de Litige au Service des Impots des Entreprises"
+description: "[L'Adresse de la Victime]"
 type: courrier
 date: 2026-07-05
 tags:
@@ -9,7 +9,7 @@ tags:
   - information
   - litige
   - LRAR
-statut: projet
+statut: final
 destinataire: Service des Impôts des Entreprises de Foix
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/15 ✉️ Courrier SIE.md
@@ -25,7 +25,7 @@ drive_id: 1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 15 ✉️ Courrier SIE
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 15 ✉️ Courrier SIE
 <!-- /Breadcrumb -->
 
 # INFORMATION DE LITIGE AU SERVICE DES IMPOTS DES ENTREPRISES

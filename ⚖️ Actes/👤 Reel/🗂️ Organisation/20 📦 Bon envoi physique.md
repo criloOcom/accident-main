@@ -1,5 +1,5 @@
 ---
-title: "Bon d'Envoi Physique — Lot Juillet 2026 - Version réelle"
+title: "Bon d'Envoi Physique — Lot Juillet 2026"
 description: "| # | Document | Fichier reel/ | Exemplaires |"
 type: readme
 date: 2026-07-06
@@ -22,7 +22,7 @@ reel_path: ../../👤 Reel/🗂️ Organisation/20 📦 Bon envoi physique.md
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [🗂️ Organisation](./README.md) › 20 📦 Bon envoi physique
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › 20 📦 Bon envoi physique
 <!-- /Breadcrumb -->
 
 # BON D'ENVOI PHYSIQUE — IMPRESSION + ENVOI

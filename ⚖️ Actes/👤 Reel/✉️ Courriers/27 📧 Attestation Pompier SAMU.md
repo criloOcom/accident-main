@@ -1,6 +1,6 @@
 ---
-title: "Email Transmission Attestation Pompier SAMU - Version réelle"
-description: "Objet : Attestation de témoin — Intervention du 29 mai 2026 au 22 Rue Lafaurie, 09000 Foix"
+title: "Email Transmission Attestation Pompier SAMU"
+description: "Objet : Attestation de témoin — Intervention du 29 mai 2026 au **[L'Adresse de l'Exploitation]"
 type: courrier
 date: 2026-07-06
 tags:
@@ -22,7 +22,7 @@ source: local
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 27 📧 Attestation Pompier SAMU
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 27 📧 Attestation Pompier SAMU
 <!-- /Breadcrumb -->
 
 # TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (POMPIER / SAMU)

@@ -301,6 +301,10 @@ Dans l'attente du dépôt du rapport de l'expert judiciaire, **[La Victime]** so
 Vu les articles 145 et 835 du Code de procédure civile,
 Vu les articles 1240 et 1242 du Code civil,
 Vu l'article L. 124-3 du Code des assurances,
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
 Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu les pièces versées aux débats,
@@ -320,6 +324,10 @@ Vu les pièces versées aux débats,
 6. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à verser à **[La Victime]** la somme de **[Finance Provision Référé]** à titre de provision à valoir sur la réparation définitive de ses préjudices ;
 
 7. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** à payer à **[La Victime]** la somme de **[Finance Article 700]** sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
+
+> « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. » <br>
+> **Code de procédure civile > Chapitre Ier : La charge des dépens.** <br>
+> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
 
 <hr>
 

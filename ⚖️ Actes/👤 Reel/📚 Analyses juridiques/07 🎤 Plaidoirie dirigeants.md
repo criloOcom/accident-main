@@ -1,6 +1,6 @@
 ---
-title: "Mémorandum Juridique — Responsabilité des Dirigeants - Version réelle"
-description: "Rédigé le 30 juin 2026"
+title: "Mémorandum Juridique — Responsabilité des Dirigeants"
+description: "Rédigé le **[J+32 Assignation référé]"
 type: analyse_juridique
 date: 2026-06-30
 tags:
@@ -23,7 +23,7 @@ drive_id: 1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses](./README.md) › 07 🎤 Plaidoirie dirigeants
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 07 🎤 Plaidoirie dirigeants
 <!-- /Breadcrumb -->
 
 # **MÉMORANDUM JURIDIQUE : RESPONSABILITÉ DES DIRIGEANTS ET RÉPARATION DES PRÉJUDICES**

@@ -4,24 +4,19 @@ description: "Ce plan analyse la possibilité juridique de demander au Maire de 
 type: readme
 statut: brouillon
 reel_path: ../../👤 Reel/🗂️ Organisation/21 📋 Plan Constat Police Foix.md
+
 ---
-
-
-
-
-
-
-
 
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › 21 📋 Plan Constat Police Foix
+<hr>
 <!-- /Breadcrumb -->
 
 # Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)
 
 Ce plan analyse la possibilité juridique de demander au Maire de **[La Ville de l'Accident]** d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à **[L'Adresse de l'Exploitation]** , et définit la marche à suivre pour votre courrier de demain matin.
 
----
+<hr><hr>
 
 ## 1. Analyse de Faisabilité Juridique
 
@@ -35,7 +30,7 @@ Ce plan analyse la possibilité juridique de demander au Maire de **[La Ville de
     1.  **La Police Municipale (via le Maire)** : Intervient pour la sécurité publique, constate les infractions aux normes ERP et peut provoquer une fermeture administrative si le bac à shampoing dangereux ou d'autres installations menacent d'autres clients.
     2.  **L'Huissier (Commissaire de Justice)** : Fait un constat précis et neutre de la configuration des lieux, de l'identité de l'exploitant réel présent sur le terrain, pour servir de preuve incontestable devant le tribunal.
 
----
+<hr><hr>
 
 ## 2. Plan d'Action Proposé
 
@@ -49,7 +44,7 @@ Même si le Maire envoie la police, vous devez maintenir la démarche d'huissier
 *   **Fichier source** : **[33 ✉️ Requete Constat Huissier 145 CPC.md](../✉️%20Courriers/33%20✉️%20Requete%20Constat%20Huissier%20145%20CPC.md)**.
 *   **Action** : Soumettre la requête au Président du TJ de Foix la semaine prochaine lors de votre déplacement.
 
----
+<hr><hr>
 
 ## 3. Modèle de Mail Prêt pour le Maire de Foix (Demain matin)
 

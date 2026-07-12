@@ -1,6 +1,6 @@
 ---
-title: "Suivi Courrier Adjoint au Maire — Demande d'Information Inspection du Travail et CODAF - Version réelle"
-description: "Sébastien GRAZIDE"
+title: "Suivi Courrier Adjoint au Maire — Demande d'Information Inspection du Travail et CODAF"
+description: "[L'Adresse de la Victime]"
 type: courrier
 date: 2026-07-05
 tags:
@@ -16,15 +16,9 @@ source: drive
 drive_id: 1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw
 ---
 
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 08 ✉️ Courrier Suivi Adjoint Maire
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 08 ✉️ Courrier Suivi Adjoint Maire
+<hr>
 <!-- /Breadcrumb -->
 
 # SUIVI — DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF
@@ -48,6 +42,8 @@ Objet : Suite a votre message du 1er juin 2026 — Demande d'information sur les
 Ref : Votre courriel du 1er juin 2026
 
 Monsieur l'Adjoint au Maire,
+
+<hr><hr>
 
 ## INTRODUCTION
 La presente lettre fait suite a votre courriel du 1er juin 2026 par lequel vous m'informiez avoir pris l'attache des services de la prefecture afin de diligenter l'inspection du travail et le CODAF (Comite Operationnel Departemental Anti Fraude) a la suite de l'accident corporel grave dont j'ai ete victime le 29 mai 2026 au sein du salon de coiffure SAS LES MAUVAIS GARCONS.

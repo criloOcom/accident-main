@@ -1,6 +1,6 @@
 ---
-title: "Email Transmission Attestation Employé - Version réelle"
-description: "Objet : Attestation de témoin — Accident du 29 mai 2026 au 22 Rue Lafaurie, 09000 Foix"
+title: "Email Transmission Attestation Employé"
+description: "Objet : Attestation de témoin — Accident du 29 mai 2026 au **[L'Adresse de l'Exploitation]"
 type: courrier
 date: 2026-07-06
 tags:
@@ -22,7 +22,7 @@ source: local
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 28 📧 Attestation Employe
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 28 📧 Attestation Employe
 <!-- /Breadcrumb -->
 
 # TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (EMPLOYÉ)

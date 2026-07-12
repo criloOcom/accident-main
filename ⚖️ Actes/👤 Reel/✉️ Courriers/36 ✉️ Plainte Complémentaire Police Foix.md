@@ -11,7 +11,7 @@ type: courrier
 
 
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 36 ✉️ Plainte Complémentaire Police Foix
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 36 ✉️ Plainte Complémentaire Police Foix
 <!-- /Breadcrumb -->
 
 statut: projet
@@ -52,11 +52,27 @@ Une plainte pénale a été déposée le 29 mai 2026 (PV n°2026/015967) pour bl
 **Faits constitutifs :**
 - Depuis le 29 mai 2026, malgré de multiples demandes officielles (LRAR 87001424863012T du 29/06/2026), la SAS LES MAUVAIS GARCONS refuse de communiquer les coordonnées de son assurance Responsabilité Civile.
 - Cette omission empêche l'exercice de mon droit à réparation prévu par l'**article L. 124-3 du Code des assurances**.
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 - Cette attitude caractérise une **obstruction à la manifestation de la vérité** au sens de l'**article 434-4 du Code pénal**.
+
+> « Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. Lorsque les faits prévus au présent article sont commis par une personne qui, par ses fonctions, est appelée à concourir à la manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende. » <br>
+> **Code pénal > Section 1 : Des entraves à la saisine de la justice.** <br>
+> [Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608)
 
 **Références juridiques :**
 - **Article 434-4 du Code pénal** : "Le fait, par quiconque, de faire obstacle à la manifestation de la vérité, soit en exerceant des pressions sur un témoin, une victime ou une partie civile, soit en usant de menaces, de violences, de manœuvres ou de promesses, est puni de trois ans d'emprisonnement et de 45 000 € d'amende."
+
+> « Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. Lorsque les faits prévus au présent article sont commis par une personne qui, par ses fonctions, est appelée à concourir à la manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende. » <br>
+> **Code pénal > Section 1 : Des entraves à la saisine de la justice.** <br>
+> [Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608)
 - **Article L. 124-3 du Code des assurances** : "La victime d'un dommage causé par un véhicule terrestre à moteur a le droit d'obtenir directement réparation de l'assureur du responsable."
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
 ### **3. Dissimulation de preuves — Vidéosurveillance non communiquée**
 
@@ -65,9 +81,21 @@ Une plainte pénale a été déposée le 29 mai 2026 (PV n°2026/015967) pour bl
 - Malgré les demandes répétées et l'obligation légale de conservation (30 jours minimum), les enregistrements n'ont jamais été communiqués.
 - Cette dissimulation constitue une **destruction ou altération de preuves** au sens de l'**article 434-15 du Code pénal**.
 
+> « Le fait d'user de promesses, offres, présents, pressions, menaces, voies de fait, manoeuvres ou artifices au cours d'une procédure ou en vue d'une demande ou défense en justice afin de déterminer autrui soit à faire ou délivrer une déposition, une déclaration ou une attestation mensongère, soit à s'abstenir de faire ou délivrer une déposition, une déclaration ou une attestation, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende, même si la subornation n'est pas suivie d'effet. » <br>
+> **Code pénal > Section 2 : Des entraves à l'exercice de la justice.** <br>
+> [Article 434-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641)
+
 **Références juridiques :**
 - **Article 434-15 du Code pénal** : "Le fait de détruire, de dégrader ou de détériorer un bien appartenant à autrui, par quelque moyen que ce soit, est puni de deux ans d'emprisonnement et de 30 000 € d'amende."
+
+> « Le fait d'user de promesses, offres, présents, pressions, menaces, voies de fait, manoeuvres ou artifices au cours d'une procédure ou en vue d'une demande ou défense en justice afin de déterminer autrui soit à faire ou délivrer une déposition, une déclaration ou une attestation mensongère, soit à s'abstenir de faire ou délivrer une déposition, une déclaration ou une attestation, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende, même si la subornation n'est pas suivie d'effet. » <br>
+> **Code pénal > Section 2 : Des entraves à l'exercice de la justice.** <br>
+> [Article 434-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641)
 - **Article 706-3 du Code de procédure pénale** : "Les enregistrements de vidéosurveillance doivent être conservés pendant un délai d'un mois."
+
+> « Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. » <br>
+> **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.** <br>
+> [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
 
 ### **4. Société fantôme — Courriers retournés NPAI malgré l'immatriculation**
 
@@ -80,6 +108,10 @@ Une plainte pénale a été déposée le 29 mai 2026 (PV n°2026/015967) pour bl
 **Références juridiques :**
 - **Article 314-7 du Code pénal** : "Le fait, pour toute personne, de faire obstacle à l'exercice des fonctions d'un officier de police judiciaire agissant en exécution d'un mandat de justice est puni de trois ans d'emprisonnement et de 45 000 € d'amende."
 
+> « Le fait, par un débiteur, même avant la décision judiciaire constatant sa dette, d'organiser ou d'aggraver son insolvabilité soit en augmentant le passif ou en diminuant l'actif de son patrimoine, soit en diminuant ou en dissimulant tout ou partie de ses revenus, soit en dissimulant certains de ses biens, en vue de se soustraire à l'exécution d'une condamnation de nature patrimoniale prononcée par une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou d'aliments, prononcée par une juridiction civile, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. Commet le même délit le dirigeant de droit ou de fait d'une personne morale qui organise ou aggrave l'insolvabilité de celle-ci dans les conditions définies à l'alinéa précédent en vue de la soustraire aux obligations pécuniaires résultant d'une condamnation prononcée en matière pénale, délictuelle ou quasi délictuelle. » <br>
+> **Code pénal > Section 3 : De l'organisation frauduleuse de l'insolvabilité.** <br>
+> [Article 314-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226)
+
 ### **5. Risque de disparition — Capital de 200 € et 0 salarié**
 
 **Faits constitutifs :**
@@ -89,7 +121,15 @@ Une plainte pénale a été déposée le 29 mai 2026 (PV n°2026/015967) pour bl
 
 **Références juridiques :**
 - **Article 222-19 du Code pénal** : "Les personnes morales, à l'exclusion de l'État, sont responsables pénalement des infractions commises, pour leur compte, par leurs organes ou représentants."
+
+> « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. » <br>
+> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+> [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
 - **Article 222-20 du Code pénal** : "La responsabilité pénale des personnes morales n'exclut pas celle des personnes physiques auteurs ou complices des mêmes faits."
+
+> « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
+> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+> [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
 
 ### **6. Mauvaise volonté — Pas de coopération malgré les mises en demeure**
 
@@ -111,6 +151,10 @@ Une plainte pénale a été déposée le 29 mai 2026 (PV n°2026/015967) pour bl
 ### **2. Recherche des vidéos**
 - **Vérification de la vidéosurveillance** : S'assurer que les enregistrements du 29 mai 2026 existent toujours.
 - **Récupération des données** : Saisir les enregistrements conformément à l'**article 706-3 du Code de procédure pénale**.
+
+> « Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. » <br>
+> **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.** <br>
+> [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
 
 ### **3. Identification des responsables**
 - **Dirigeants actuels** : Identifier les personnes qui gèrent effectivement le salon.
@@ -145,7 +189,15 @@ Une plainte pénale a été déposée le 29 mai 2026 (PV n°2026/015967) pour bl
 ### **Explication des faits**
 "Depuis mon accident, la société refuse systématiquement de coopérer :
 1. **Obstruction à la justice** : Ils refusent de communiquer leur assurance RC, ce qui m'empêche d'exercer mon droit à réparation (article L. 124-3 du Code des assurances).
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 2. **Dissimulation de preuves** : Les enregistrements de vidéosurveillance n'ont jamais été communiqués malgré l'obligation légale de conservation (article 706-3 du Code de procédure pénale).
+
+> « Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. » <br>
+> **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.** <br>
+> [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
 3. **Société fantôme** : Mes courriers recommandés sont retournés NPAI alors que la société est toujours immatriculée à cette adresse et le salon a rouvert.
 4. **Risque de disparition** : Avec un capital de seulement 200 € et 0 salarié, il y a un risque réel de dissolution frauduleuse."
 
@@ -165,12 +217,40 @@ Une plainte pénale a été déposée le 29 mai 2026 (PV n°2026/015967) pour bl
 
 ### **Textes applicables**
 - **Article 434-4 du Code pénal** : Obstruction à la manifestation de la vérité
+
+> « Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. Lorsque les faits prévus au présent article sont commis par une personne qui, par ses fonctions, est appelée à concourir à la manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende. » <br>
+> **Code pénal > Section 1 : Des entraves à la saisine de la justice.** <br>
+> [Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608)
 - **Article 434-15 du Code pénal** : Destruction ou altération de preuves
+
+> « Le fait d'user de promesses, offres, présents, pressions, menaces, voies de fait, manoeuvres ou artifices au cours d'une procédure ou en vue d'une demande ou défense en justice afin de déterminer autrui soit à faire ou délivrer une déposition, une déclaration ou une attestation mensongère, soit à s'abstenir de faire ou délivrer une déposition, une déclaration ou une attestation, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende, même si la subornation n'est pas suivie d'effet. » <br>
+> **Code pénal > Section 2 : Des entraves à l'exercice de la justice.** <br>
+> [Article 434-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641)
 - **Article 314-7 du Code pénal** : Obstacle à l'exercice des fonctions de police judiciaire
+
+> « Le fait, par un débiteur, même avant la décision judiciaire constatant sa dette, d'organiser ou d'aggraver son insolvabilité soit en augmentant le passif ou en diminuant l'actif de son patrimoine, soit en diminuant ou en dissimulant tout ou partie de ses revenus, soit en dissimulant certains de ses biens, en vue de se soustraire à l'exécution d'une condamnation de nature patrimoniale prononcée par une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou d'aliments, prononcée par une juridiction civile, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. Commet le même délit le dirigeant de droit ou de fait d'une personne morale qui organise ou aggrave l'insolvabilité de celle-ci dans les conditions définies à l'alinéa précédent en vue de la soustraire aux obligations pécuniaires résultant d'une condamnation prononcée en matière pénale, délictuelle ou quasi délictuelle. » <br>
+> **Code pénal > Section 3 : De l'organisation frauduleuse de l'insolvabilité.** <br>
+> [Article 314-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226)
 - **Article 222-19 du Code pénal** : Responsabilité pénale des personnes morales
+
+> « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. » <br>
+> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+> [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
 - **Article 222-20 du Code pénal** : Responsabilité pénale des personnes physiques
+
+> « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
+> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+> [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
 - **Article 706-3 du Code de procédure pénale** : Conservation des enregistrements de vidéosurveillance
+
+> « Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. » <br>
+> **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.** <br>
+> [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
 - **Article L. 124-3 du Code des assurances** : Droit à réparation directe
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
 ---
 

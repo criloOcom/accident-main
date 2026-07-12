@@ -1,6 +1,6 @@
 ---
-title: "Opposition conservatoire à radiation de la SAS - Version réelle"
-description: "Nom Prénom de l'Avocat"
+title: "Opposition conservatoire à radiation de la SAS"
+description: "[Nom de l'Avocat de la Victime]"
 type: courrier
 date: 2026-07-09
 tags:
@@ -15,15 +15,9 @@ auteur: Nom de l'Avocat de la Victime
 reel_path: ../../👤 Reel/✉️ Courriers/30 ✉️ Courrier President TC.md
 ---
 
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › 30 ✉️ Courrier President TC
+[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 30 ✉️ Courrier President TC
+<hr>
 <!-- /Breadcrumb -->
 
 # OPPOSITION CONSERVATOIRE À RADIATION DE SOCIÉTÉ
@@ -42,11 +36,19 @@ Monsieur le Président,
 
 J'interviens dans les intérêts de Monsieur Sébastien GRAZIDE, victime d'un accident corporel grave survenu au sein des locaux exploités par la société SAS LES MAUVAIS GARCONS.
 
+<hr><hr>
+
 ## I. PROBLÉMATIQUE : RISQUE DE DISPARITION DE LA PERSONNE MORALE
 
-À la suite de ce grave sinistre, de multiples manquements aux règles de sécurité, constitutifs d'infractions pénales, ont été constatés à l'encontre de la société SAS LES MAUVAIS GARCONS. Des procédures civiles et pénales sont actuellement en cours d'engagement pour faire valoir les droits de mon client et obtenir la réparation intégrale de son préjudice corporel, ainsi que la condamnation des responsables.
+À la suite de ce grave sinistre, de multiples manquements aux règles de sécurité, constitutifs d'infractions pénales, ont été constatés à l'encontre de la société SAS LES MAUVAIS GARCONS.
 
-Or, mes investigations révèlent un risque imminent de radiation de cette société du Registre du Commerce et des Sociétés, que ce soit à l'initiative de ses dirigeants ou d'office. Une telle radiation entraînerait la perte de la personnalité morale de l'entreprise, faisant ainsi obstacle aux actions en responsabilité civile et pénale initiées par mon client, et le privant de tout recours effectif à l'encontre de la société exploitante.
+Des procédures civiles et pénales sont actuellement en cours d'engagement pour faire valoir les droits de mon client et obtenir la réparation intégrale de son préjudice corporel, ainsi que la condamnation des responsables.
+
+Or, mes investigations révèlent un risque imminent de radiation de cette société du Registre du Commerce et des Sociétés, que ce soit à l'initiative de ses dirigeants ou d'office.
+
+Une telle radiation entraînerait la perte de la personnalité morale de l'entreprise, faisant ainsi obstacle aux actions en responsabilité civile et pénale initiées par mon client, et le privant de tout recours effectif à l'encontre de la société exploitante.
+
+<hr><hr>
 
 ## II. FONDEMENT JURIDIQUE : LA RADIATION D'OFFICE
 
@@ -58,18 +60,28 @@ Le Code de commerce encadre strictement les conditions de radiation d'office d'u
 > En application des deux premiers alinéas de l'article L. 613-4 du code de la sécurité sociale , est également radié d'office, dès que le greffier est informé de la radiation prononcée par un organisme de sécurité sociale, tout commerçant qui n'est plus affilié à cet organisme en sa qualité de travailleur indépendant. »
 > **Code de commerce** [Art. R.123-128](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214)
 
+<hr><hr>
+
 ## III. ARGUMENTATION : NÉCESSITÉ D'UNE MESURE CONSERVATOIRE
 
 Les dispositions précitées, si elles permettent l'assainissement du registre, ne sauraient être instrumentalisées par une entreprise débitrice d'obligations indemnitaires pour organiser son insolvabilité ou échapper à la justice.
 
-Dans le cas d'espèce, la disparition de la société SAS LES MAUVAIS GARCONS créerait un préjudice irréparable pour Sébastien GRAZIDE. Il est de jurisprudence constante que les créanciers justifiant d'un intérêt légitime peuvent former opposition à une radiation pour préserver leurs droits, le temps que la juridiction saisie du fond statue sur les responsabilités et les indemnisations. L'intérêt à agir de mon client est ici caractérisé et actuel, fondé sur un accident documenté et en cours de judiciarisation.
+Dans le cas d'espèce, la disparition de la société SAS LES MAUVAIS GARCONS créerait un préjudice irréparable pour Sébastien GRAZIDE.
+
+Il est de jurisprudence constante que les créanciers justifiant d'un intérêt légitime peuvent former opposition à une radiation pour préserver leurs droits, le temps que la juridiction saisie du fond statue sur les responsabilités et les indemnisations.
+
+L'intérêt à agir de mon client est ici caractérisé et actuel, fondé sur un accident documenté et en cours de judiciarisation.
+
+<hr><hr>
 
 ## IV. CONCLUSION : DEMANDE D'OPPOSITION
 
 Au vu de l'urgence et du risque avéré de dissipation des garanties, je vous prie de bien vouloir, par la présente :
 
 1. **Prendre acte** de l'opposition formelle de Sébastien GRAZIDE à toute demande de radiation, qu'elle soit amiable, consécutive à une dissolution anticipée, ou d'office, concernant la société SAS LES MAUVAIS GARCONS (RCS 938 033 222 00010).
+
 2. **Inscrire** une mention de cette opposition au dossier de la société.
+
 3. **M'informer** de toute formalité qui serait déposée par cette société en vue de sa radiation ou de sa liquidation.
 
 Je vous remercie de l'attention que vous porterez à cette demande, essentielle à la préservation des droits d'une victime de dommages corporels graves, et vous prie de croire, Monsieur le Président, en l'expression de mes salutations distinguées.
