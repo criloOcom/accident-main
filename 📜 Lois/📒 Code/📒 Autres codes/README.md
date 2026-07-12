@@ -1,30 +1,17 @@
 ---
+
 title: "📒 Autres codes"
 description: "Dossier contenant les articles de loi relatifs à 📒 Autres codes."
 type: readme
+
 ---
 
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Autres codes
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Autres codes*
+<hr>
 <!-- /Breadcrumb -->
 
 # 📒 Autres codes
-
-```
-
-```
-
----
 
 **Dossier contenant les articles de loi relatifs à 📒 Autres codes.**
 
@@ -46,6 +33,3 @@ type: readme
 - [Article_223-1_Code_Legifrance](Article_223-1_Code_Legifrance.md)
 - [Article_L123-2_Code_Legifrance](Article_L123-2_Code_Legifrance.md)
 - [Article_L611-3_Code_Legifrance](Article_L611-3_Code_Legifrance.md)
----
-
-> **Dernière mise à jour :** {datetime.now().strftime('%d %B %Y')}

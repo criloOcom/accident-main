@@ -38,7 +38,7 @@ type: memory
 - **Risques prioritaires identifiés** : 4 critiques (🔴 R1-R3-R5) et 6 urgents (🟠 R4-R6-R7-R8-R9-R19)
 - **Intégration jurisprudentielle** : 3 décisions clés + annexes complètes → [⚖️ Actes/📎 Annexes](⚖️%20Actes/📎%20Annexes/README.md)
 - **Plainte complémentaire** : création du document n°36 pour obstruction à la justice → [⚖️ Actes/👤 Reel/✉️ Courriers/36 ✉️ Plainte Complémentaire Police Foix.md](⚖️%20Actes/👤%20Reel/✉️%20Courriers/36%20✉️%20Plainte%20Complémentaire%20Police%20Foix.md)
-- **Articles de loi ajoutés** : Articles 434-15 et 434-15-1 du Code pénal → [📜 Lois/📒 Code penal](📜%20Lois/📒%20Code%20penal/README.md)
+- **Articles de loi ajoutés** : Articles 434-15 et 434-15-1 du Code pénal → [📜 Lois/📒 Code penal](📜%20Lois/📒%20Code/📒%20Code%20penal/README.md)
 
 ### ✅ Dernières actions IA (8 juillet 2026)
 - **12 PRs Jules mergées** (#73-84) : audits avocat, RGPD, barémique, assurance, FGTI, organisation, dirigeants, ERP, ordonnance

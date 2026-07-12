@@ -15,7 +15,7 @@ type: readme
 
 
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Code assurances
+[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Code assurances
 <!-- /Breadcrumb -->
 
 # 📒 Code assurances
