@@ -325,7 +325,20 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 - **Scripts de référence** :
   - `.dev/app/convert_tables_to_lists.py` — convertit automatiquement les tableaux de listing en listes à puces (décode les liens URL-encodés). Dry-run par défaut, `--apply` pour écrire, `--path` pour cibler un dossier.
 - **Raison** : lisibilité humaine et mobile-first. Les tableaux à numéros cassent la lecture ; les listes et le Mermaid la fluidifient.
-## #19 — LIEN CLIQUABLE GOOGLE DRIVE SUR TOUT `drive_id` (RÈGLE PERMANENTE)
+## #19 — MINI-CHARTE CITATION JURIDIQUE (RÈGLE PERMANENTE — AJOUTÉE LE 12/07/2026)
+
+- **Règle 19a — Vérification systématique** : toute citation d'un article de loi, code ou jurisprudence DOIT être vérifiée sur Légifrance (MCP legifrance-prod puis openlegi) AVANT insertion dans un document. Ne JAMAIS citer un article de mémoire.
+- **Règle 19b — Citations interdites (blacklist)** :
+  - **L.310-1-1-2 Code des assurances** : ne concerne PAS l'affichage RC (porte sur les placements des assureurs). Ne plus jamais l'utiliser pour l'affichage RC. À la place : description factuelle ("aucun affichage de l'assurance RC dans les locaux").
+  - **Art. 56-1 CPP** : ne concerne PAS les réquisitions de vidéosurveillance (porte sur les perquisitions chez les avocats). Ne plus jamais l'utiliser pour les vidéos. À la place : demande simple à l'OPJ, ou si besoin Art. 60-1/77-1-1 CPP sous contrôle avocat.
+- **Règle 19c — Précision et proportion des citations** :
+  - Citer l'article seul suffit (« conformément à l'article L.XXXX-X du Code X »). N'insérer un extrait blockquote que si vraiment utile, et court.
+  - Privilégier le positionnement « signalement aux fins de vérification » (faits objectifs + demande) plutôt que l'affirmation accusatoire.
+  - L'URL Légifrance est un plus pour le suivi interne, pas une obligation dans le courrier.
+- **Règle 19d — Bloc verrouillé** : les 12 articles suivants sont validés comme corrects et peuvent être réutilisés : L.4121-1, L.4321-1, R.4323-58, L.8221-5, R.4121-1, L.8271-1-2 CT ; L.124-3 C. assur. ; L.376-1 CSS ; Art. 40 CPP ; L.311-1 CRPA ; L.123-1 CCH ; Cass. 2e civ. 4 avril 2024 n°22-19.307.
+- **Origine** : audit avocat du 12/07/2026 sur le batch J+37 — cf. `📊 Rapports/PROMPT_AVOCAT_REVUE_J37.md` pour le détail complet.
+
+## #20 — LIEN CLIQUABLE GOOGLE DRIVE SUR TOUT `drive_id` (RÈGLE PERMANENTE)
 
 - Tout fichier dont le YAML contient un champ `drive_id: <ID>` DOIT exposer un **lien cliquable** vers la source Google Drive dans son corps (le front matter YAML n'est pas rendu cliquable sur GitHub).
 - Format imposé (ligne juste après le bloc YAML, avant le titre `#`) :

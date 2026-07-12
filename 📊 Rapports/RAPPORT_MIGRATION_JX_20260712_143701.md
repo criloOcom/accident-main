@@ -1,6 +1,14 @@
 ========================================================================
 RAPPORT DE MIGRATION J+X
 ========================================================================
+**Objectif :** Aligner tous les actes et documents datés du dossier sur un système de nommage chronologique `J+X` pour une lecture immédiate de la chronologie par le nom de fichier.
+
+**Périmètre :** ~82 fichiers Token + ~82 Reel, hors archives/ brouillons/ notes/ pièce adverse 99.
+
+**Non traité :** Références par numéro éditorial (`n°03`, `n°41`...) dans TOKEN MAP, PIECES MAP, TODO — chemins techniques à jour, remise à plat éditoriale J+X différée.
+
+**Validé par l'utilisateur :** 12/07/2026 — migration close.
+
 Mode: EXÉCUTION
 Date: 2026-07-12 14:37
 
