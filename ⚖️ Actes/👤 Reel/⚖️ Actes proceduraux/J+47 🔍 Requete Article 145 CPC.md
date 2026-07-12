@@ -40,7 +40,7 @@ sebastien.grazide@gmail.com
 A l'attention de Monsieur le President du Tribunal Judiciaire de Foix <br>
 Cabinet du Juge des Referes
 
-Foix, le [**[J+37 Requête 145]**](../../../🧠 Memory/🗂️ Jetons/token-j-37-assignation-145.md)
+Foix, le [**[J+37 Requête 145]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-37-assignation-145.md)
 
 ## INTRODUCTION
 La presente requete est introduite par Sébastien GRAZIDE sur le fondement de l'Article 145 du Code de procedure civile.
@@ -194,7 +194,7 @@ Sébastien GRAZIDE demande qu'il plaise à Monsieur le Président du Tribunal Ju
 
 <hr>
 
-Fait a Foix, le [**[J+37 Requête 145]**](../../../🧠 Memory/🗂️ Jetons/token-j-37-assignation-145.md).
+Fait a Foix, le [**[J+37 Requête 145]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-37-assignation-145.md).
 
 Sébastien GRAZIDE
 

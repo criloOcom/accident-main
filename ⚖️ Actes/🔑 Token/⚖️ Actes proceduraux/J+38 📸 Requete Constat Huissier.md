@@ -32,22 +32,22 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/06 📸 Requete Constat Huis
 
 ## 1. IDENTIFICATION DES PARTIES
 **Requérant :**
-[**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
 
 **Partie concernée :**
-[**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md)
+[**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md)
 
 <hr><hr>
 
 ## 2. EXPOSÉ DES FAITS ET DE L'URGENCE EXTRÊME
-Le [**[J+0 Accident]**](../../../🧠 Memory/🗂️ Jetons/token-j-0-accident.md), un accident corporel grave s'est produit dans les locaux de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md).
+Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md), un accident corporel grave s'est produit dans les locaux de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md).
 
-Cet accident a été causé par le basculement d'une vasque défectueuse, ce qui a entraîné la blessure sévère de [**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md).
+Cet accident a été causé par le basculement d'une vasque défectueuse, ce qui a entraîné la blessure sévère de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md).
 
 Afin de préserver les droits du requérant dans la perspective d'une éventuelle action en responsabilité, il est d'une nécessité impérieuse de conserver la preuve matérielle de l'état exact de la vasque litigieuse avant toute modification, réparation ou fermeture définitive du salon.
 
 ### URGENCE LIÉE AU RISQUE DE DISPARITION DES PREUVES
-Il est porté à la connaissance de la juridiction de céans que la société [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md) fait face à un risque imminent de disparition (dissolution, liquidation ou fermeture précipitée).
+Il est porté à la connaissance de la juridiction de céans que la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) fait face à un risque imminent de disparition (dissolution, liquidation ou fermeture précipitée).
 
 Le capital social de cette structure n'étant que de 200 euros, son insolvabilité et sa fermeture rapide sont fortement redoutées.
 
@@ -74,7 +74,7 @@ L'[Article 873 du Code de procédure civile](https://www.legifrance.gouv.fr/code
 > « Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. » <br>
 > [Article 873 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463) <br>
 
-La disparition des preuves matérielles indispensables à la future action au fond constituerait un dommage imminent et irréparable pour [**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md), justifiant l'intervention immédiate d'un huissier de justice (commissaire de justice) sans débat contradictoire préalable, afin de ménager l'effet de surprise et d'éviter toute déperdition de preuves.
+La disparition des preuves matérielles indispensables à la future action au fond constituerait un dommage imminent et irréparable pour [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), justifiant l'intervention immédiate d'un huissier de justice (commissaire de justice) sans débat contradictoire préalable, afin de ménager l'effet de surprise et d'éviter toute déperdition de preuves.
 
 <hr><hr>
 
@@ -107,4 +107,4 @@ Fait pour valoir ce que de droit,
 
 Le **[À compléter]**
 
-[**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)

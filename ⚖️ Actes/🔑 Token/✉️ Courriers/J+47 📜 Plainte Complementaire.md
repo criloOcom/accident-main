@@ -30,10 +30,10 @@ reel_path: ../../👤 Reel/✉️ Courriers/36 📜 PLAINTE_COMPLEMENTAIRE_POLIC
 # PLAINTE COMPLÉMENTAIRE
 # BLESSURES INVOLONTAIRES ET OBSTRUCTION À LA JUSTICE
 
-[**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md)
-[**[L'Adresse de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-la-victime.md)
-[**[L'Email de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-email-de-la-victime.md)
-[**[Le Téléphone de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-le-telephone-de-la-victime.md)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
+[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md)
+[**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
+[**[Le Téléphone de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-telephone-de-la-victime.md)
 
 **Commissariat de Police de Foix**
 [**[Adresse du Commissariat]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
@@ -45,7 +45,7 @@ Foix, le **[Date du dépôt]**
 
 Monsieur l'Officier de Police Judiciaire,
 
-Je soussigné(e), [**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md), né(e) le [**[Date de naissance de la victime]**](../../../🧠 Memory/🗂️ Jetons/token-date-de-naissance-de-la-victime.md), demeurant [**[L'Adresse de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-la-victime.md), informaticien indépendant (SIREN [**[L'Identifiant Professionnel de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-identifiant-professionnel-de-la-victime.md)), victime d'un accident corporel grave survenu le 29 mai 2026 au sein de l'établissement "Les Mauvais Garçons" exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md) (SIREN [**[SIREN de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-siren-de-l-exploitation.md)), sis [**[L'Adresse de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-l-exploitation.md), 09000 Foix,
+Je soussigné(e), [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), né(e) le [**[Date de naissance de la victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-date-de-naissance-de-la-victime.md), demeurant [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md), informaticien indépendant (SIREN [**[L'Identifiant Professionnel de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-identifiant-professionnel-de-la-victime.md)), victime d'un accident corporel grave survenu le 29 mai 2026 au sein de l'établissement "Les Mauvais Garçons" exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) (SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-siren-de-l-exploitation.md)), sis [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-l-exploitation.md), 09000 Foix,
 
 **VIENS PAR LA PRÉSENTE DÉPOSER PLAINTE COMPLÉMENTAIRE** contre les dirigeants de la société susmentionnée pour les faits suivants, constituant des infractions pénales caractérisées :
 
@@ -57,7 +57,7 @@ Le **29 mai 2026 vers 15h00**, alors que je me trouvais en qualité de client au
 
 Sous son poids, la vasque a basculé violemment, et ma main droite a heurté une cassure préexistante aux arêtes tranchantes, provoquant une **plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur et du paquet vasculo-nerveux de l'index droit**.
 
-Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le 30 mai 2026 par le [**[Le Chirurgien SOS Main]**](../../../🧠 Memory/🗂️ Jetons/token-le-chirurgien-sos-main.md) au service SOS Main de [**[L'Établissement SOS Main]**](../../../🧠 Memory/🗂️ Jetons/token-l-etablissement-sos-main.md), suivie de 56 jours d'Incapacité Totale de Travail (ITT), avec un pronostic de récupération neurologique partielle sur une durée minimale d'un an.
+Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le 30 mai 2026 par le [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md) au service SOS Main de [**[L'Établissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-etablissement-sos-main.md), suivie de 56 jours d'Incapacité Totale de Travail (ITT), avec un pronostic de récupération neurologique partielle sur une durée minimale d'un an.
 
 <hr><hr>
 
@@ -183,7 +183,7 @@ Au vu des éléments ci-dessus exposés, je sollicite de votre bienveillance l'o
 
 3. **Accusés de réception des LRAR retournés NPAI** (29 juin 2026)
 
-4. **[[Extrait Kbis](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS [L'Exploitant du Commerce (La SAS)]](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** (SIREN [**[SIREN de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-siren-de-l-exploitation.md))
+4. **[[Extrait Kbis](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS [L'Exploitant du Commerce (La SAS)]](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** (SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-siren-de-l-exploitation.md))
 
 5. **Note d'audit RNE/INPI** du 10 juillet 2026
 
@@ -237,7 +237,7 @@ Je reste à la disposition des services de police pour toute audition complémen
 
 Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de Police Judiciaire, l'expression de ma considération distinguée.
 
-[**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
 
 <hr><hr>
 

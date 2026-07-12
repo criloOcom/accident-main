@@ -34,38 +34,38 @@ source: local
 
 # RELANCE — DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE
 
-[**[L'Adresse de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-la-victime.md)
-[**[L'Email de la Victime]**](../../../🧠 Memory/🗂️ Jetons/token-l-email-de-la-victime.md)
+[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md)
+[**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
 
-[**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md)
-[**[Le Président de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-le-president-de-l-exploitation.md)
-[**[La Directrice Générale de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-la-directrice-generale-de-l-exploitation.md)
-[**[L'Adresse de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-l-exploitation.md)
+[**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md)
+[**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md)
+[**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md)
+[**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-l-exploitation.md)
 
-[**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md), le **[DATE RELANCE V2]**
+[**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md), le **[DATE RELANCE V2]**
 
-Objet : Relance — Demande d'information assurance RC et communication d'une adresse de correspondance — Accident [**[J+0 Accident]**](../../../🧠 Memory/🗂️ Jetons/token-j-0-accident.md)
+Objet : Relance — Demande d'information assurance RC et communication d'une adresse de correspondance — Accident [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md)
 
-Réf : Dossier [**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md) / [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md)
+Réf : Dossier [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) / [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md)
 
 Madame la Directrice Générale, Monsieur le Président,
 
 ## PRÉAMBULE — ABSENCE DE RÉPONSE ET DISSIPATION DES PREUVES
 
-Par lettre de mise en demeure adressée le [**[J+31 Mises en demeure]**](../../../🧠 Memory/🗂️ Jetons/token-j-31-mises-en-demeure.md) en recommandé avec accusé de réception à chacun de vous à l'adresse du siège social ([**[L'Adresse de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-l-adresse-de-l-exploitation.md)), j'ai sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md).
+Par lettre de mise en demeure adressée le [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-31-mises-en-demeure.md) en recommandé avec accusé de réception à chacun de vous à l'adresse du siège social ([**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-l-exploitation.md)), j'ai sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md).
 
 À la date de la présente, je n'ai reçu aucune réponse. Le suivi postal fait apparaître que mes recommandés n'ont pu être distribués ou retirés :
-- [**[L'Exploitant du Commerce (La SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md) (LRAR n° [**[N° LRAR Exploitant]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : distribution impossible.
-- Madame [**[La Directrice Générale de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-la-directrice-generale-de-l-exploitation.md) (LRAR n° [**[N° LRAR Directrice]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : retour à l'expéditeur pour défaut d'adresse.
-- Monsieur [**[Le Président de l'Exploitation]**](../../../🧠 Memory/🗂️ Jetons/token-le-president-de-l-exploitation.md) (LRAR n° [**[N° LRAR Président]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : en attente de retrait.
+- [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) (LRAR n° [**[N° LRAR Exploitant]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : distribution impossible.
+- Madame [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) (LRAR n° [**[N° LRAR Directrice]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : retour à l'expéditeur pour défaut d'adresse.
+- Monsieur [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) (LRAR n° [**[N° LRAR Président]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : en attente de retrait.
 
-Seuls le bailleur, le tribunal judiciaire de [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md) et la CPAM ont accusé réception de leurs courriers respectifs.
+Seuls le bailleur, le tribunal judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) et la CPAM ont accusé réception de leurs courriers respectifs.
 
 Je conçois que la fermeture soudaine et la réorganisation de votre établissement aient pu perturber le traitement de vos correspondances. Je reste disponible pour un échange téléphonique direct afin de clarifier la situation sereinement.
 
 ### Préservation des preuves et vidéosurveillance
 
-J'ai constaté que votre salon de coiffure a fermé ses portes immédiatement après l'accident du [**[J+0 Accident]**](../../../🧠 Memory/🗂️ Jetons/token-j-0-accident.md) pour ne rouvrir que le **[DATE REOUVERTURE BOUTIQUE]**. 
+J'ai constaté que votre salon de coiffure a fermé ses portes immédiatement après l'accident du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) pour ne rouvrir que le **[DATE REOUVERTURE BOUTIQUE]**. 
 
 L'absence de réponse à ma mise en demeure initiale ayant dépassé le délai légal de 30 jours, l'inertie de votre société a potentiellement déjà causé l'effacement ou la destruction irrémédiable des bandes de vidéosurveillance (dont la durée de sauvegarde est limitée par la CNIL et l'article L. 252-5 du Code de la sécurité intérieure). Par ailleurs, la vasque en céramique à l'origine du sinistre et son support ont pu être réparés ou retirés.
 
@@ -81,12 +81,12 @@ Ma présence ainsi que le déroulement de l'accident sont déjà documentés par
 
 ## RAPPEL DE LA DEMANDE D'ASSURANCE
 
-Le [**[J+0 Accident]**](../../../🧠 Memory/🗂️ Jetons/token-j-0-accident.md) à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur. En descendant, son poids a provoqué le basculement soudain de l'installation. Par réflexe, j'ai tendu la main droite pour le retenir. Ma paume a alors percuté une cassure majeure préexistante et non signalée sur le flanc de la vasque. 
+Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur. En descendant, son poids a provoqué le basculement soudain de l'installation. Par réflexe, j'ai tendu la main droite pour le retenir. Ma paume a alors percuté une cassure majeure préexistante et non signalée sur le flanc de la vasque. 
 
-Cette percussion m'a sectionné les tendons et les nerfs de l'index droit, blessure grave ayant nécessité une chirurgie réparatrice d'urgence le [**[J+1 Chirurgie]**](../../../🧠 Memory/🗂️ Jetons/token-j-1-chirurgie.md) par [**[Le Chirurgien SOS Main]**](../../../🧠 Memory/🗂️ Jetons/token-le-chirurgien-sos-main.md) à [**[L'Établissement SOS Main]**](../../../🧠 Memory/🗂️ Jetons/token-l-etablissement-sos-main.md). Les conséquences fonctionnelles de ce sinistre sur ma vie quotidienne et mon activité professionnelle sont majeures.
+Cette percussion m'a sectionné les tendons et les nerfs de l'index droit, blessure grave ayant nécessité une chirurgie réparatrice d'urgence le [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-1-chirurgie.md) par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md) à [**[L'Établissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-etablissement-sos-main.md). Les conséquences fonctionnelles de ce sinistre sur ma vie quotidienne et mon activité professionnelle sont majeures.
 
 Je vous demande donc de me communiquer sous 15 jours :
-1. Le nom et les coordonnées de l'assureur RC professionnelle de votre société au [**[J+0 Accident]**](../../../🧠 Memory/🗂️ Jetons/token-j-0-accident.md) ;
+1. Le nom et les coordonnées de l'assureur RC professionnelle de votre société au [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) ;
 2. Une copie de l'attestation de cette assurance ;
 3. Le numéro de police associé ainsi que le contact du gestionnaire de sinistres.
 
@@ -112,7 +112,7 @@ Face aux difficultés de distribution postale à votre siège social, je vous de
 À défaut de réponse ou de communication d'une adresse valide dans un délai de quinze (15) jours, je serai contraint de :
 
 1. Faire signifier mes actes officiels par la voie d'un **Commissaire de Justice (ex-huissier)** à vos frais, ce qui figerait votre refus de coopérer devant les tribunaux ;
-2. Saisir le juge des référés du tribunal judiciaire de [**[La Ville de l'Accident]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md) par voie de **requête** (non contradictoire, afin de préserver l'effet de surprise) sur le fondement de l'article 145 du Code de procédure civile, pour ordonner sous astreinte la communication des documents ;
+2. Saisir le juge des référés du tribunal judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) par voie de **requête** (non contradictoire, afin de préserver l'effet de surprise) sur le fondement de l'article 145 du Code de procédure civile, pour ordonner sous astreinte la communication des documents ;
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
@@ -125,7 +125,7 @@ Face aux difficultés de distribution postale à votre siège social, je vous de
 
 Dans l'attente d'un échange constructif, je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président, l'expression de mes salutations distinguées.
 
-[**[La Victime]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
 
 ---
 

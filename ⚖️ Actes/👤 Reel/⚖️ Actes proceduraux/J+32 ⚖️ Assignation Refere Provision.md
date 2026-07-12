@@ -63,7 +63,7 @@ CONTRE :
 
 3. Catherine ANDISSAC, Directrice Générale de SAS LES MAUVAIS GARCONS, prise en sa qualité de dirigeante de droit et personnellement.
 
-PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE [**[LA VILLE DE L'ACCIDENT]**](../../../🧠 Memory/🗂️ Jetons/token-la-ville-de-l-accident.md)
+PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE [**[LA VILLE DE L'ACCIDENT]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md)
 
 <hr><hr>
 

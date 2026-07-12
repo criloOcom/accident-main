@@ -22,7 +22,7 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/01 📁 Dossier UMJ Preparat
 
 # DOSSIER UMJ — PRÉPARATION EXPERTISE MÉDICALE
 **Date :** 12 novembre 2026 à 13h45
-**Lieu :** UMJ de [**[La Métropole Régionale]**](../../../🧠 Memory/🗂️ Jetons/token-la-metropole-regionale.md)
+**Lieu :** UMJ de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-metropole-regionale.md)
 **Réquisition :** Art. 41 et 77-1 CPP — Agent **[Agent PJ, dépôt de plainte]**
 
 ---
@@ -32,17 +32,17 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/01 📁 Dossier UMJ Preparat
 - [ ] Carte Vitale + attestation CPAM droit commun
 - [ ] Carte mutuelle
 
-### 2. DOCUMENTS MÉDICAUX — ACCIDENT INITIAL- [ ] **[Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** ([**[Le Chirurgien SOS Main]**](../../../🧠 Memory/🗂️ Jetons/token-le-chirurgien-sos-main.md), 30/05/2026) — microchirurgie tendons/nerfs index droit
-- [ ] **[Premiers soins](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** ([**[Le Médecin en Urgence]**](../../../🧠 Memory/🗂️ Jetons/token-le-medecin-en-urgence.md), 29/05/2026, 16h30)
-- [ ] **Prescription initiale** ([**[Le Médecin en Urgence]**](../../../🧠 Memory/🗂️ Jetons/token-le-medecin-en-urgence.md))
-- [ ] **[Ordonnance de sortie](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530-1700%20Ordonnance%20Sortie%20DrDJERBI.md)** ([**[Le Chirurgien SOS Main]**](../../../🧠 Memory/🗂️ Jetons/token-le-chirurgien-sos-main.md), 30/05/2026) — antalgiques
+### 2. DOCUMENTS MÉDICAUX — ACCIDENT INITIAL- [ ] **[Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md), 30/05/2026) — microchirurgie tendons/nerfs index droit
+- [ ] **[Premiers soins](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** ([**[Le Médecin en Urgence]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-medecin-en-urgence.md), 29/05/2026, 16h30)
+- [ ] **Prescription initiale** ([**[Le Médecin en Urgence]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-medecin-en-urgence.md))
+- [ ] **[Ordonnance de sortie](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530-1700%20Ordonnance%20Sortie%20DrDJERBI.md)** ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md), 30/05/2026) — antalgiques
 
-### 3. [ARRÊTS DE TRAVAIL](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)- [ ] **Arrêt initial** ([**[Le Médecin Généraliste]**](../../../🧠 Memory/🗂️ Jetons/token-le-medecin-generaliste.md), 01/06/2026, 15j)
+### 3. [ARRÊTS DE TRAVAIL](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)- [ ] **Arrêt initial** ([**[Le Médecin Généraliste]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-medecin-generaliste.md), 01/06/2026, 15j)
 - [ ] **Prolongation 1** (11j)
 - [ ] **Prolongation 2** (30j)
 - [ ] Soit total ITT : 56 jours
 
-### 4. SUIVI ET RÉÉDUCATION- [ ] **Consultation contrôle J+24** ([**[Le Chirurgien SOS Main]**](../../../🧠 Memory/🗂️ Jetons/token-le-chirurgien-sos-main.md) — bonne cicatrisation, déficit neurologique)
+### 4. SUIVI ET RÉÉDUCATION- [ ] **Consultation contrôle J+24** ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md) — bonne cicatrisation, déficit neurologique)
 - [ ] **Prescription kinésithérapie** (3 séances/semaine, pas de travail en résistance 4 semaines)
 - [ ] **Comptes-rendus séances kiné** (SOS Main Bâtiment B)
 
@@ -57,11 +57,11 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/01 📁 Dossier UMJ Preparat
 
 ## DOCUMENTS DÉJÀ DISPONIBLES SUR DRIVE| Pièce | Drive |
 |-------|-------|
-| [CR opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) [**[Le Chirurgien SOS Main]**](../../../🧠 Memory/🗂️ Jetons/token-le-chirurgien-sos-main.md) | [Lien](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |
-| Ordonnance sortie [**[Le Chirurgien SOS Main]**](../../../🧠 Memory/🗂️ Jetons/token-le-chirurgien-sos-main.md) | [Lien](https://drive.google.com/file/d/1CasEuj6N2FVmg9kAxKhdqKD70UYmq4Vh/view) |
-| [Premiers soins](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) [**[Le Médecin en Urgence]**](../../../🧠 Memory/🗂️ Jetons/token-le-medecin-en-urgence.md) | [Lien](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view) |
-| Prescription [**[Le Médecin en Urgence]**](../../../🧠 Memory/🗂️ Jetons/token-le-medecin-en-urgence.md) | [Lien](https://drive.google.com/file/d/16ZtYjUZW0dmH0UPrHQG9bLlpWdOwflcA/view) |
-| Arrêt travail [**[Le Médecin Généraliste]**](../../../🧠 Memory/🗂️ Jetons/token-le-medecin-generaliste.md) | [Lien](https://drive.google.com/file/d/1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm/view) |
+| [CR opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md) | [Lien](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |
+| Ordonnance sortie [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md) | [Lien](https://drive.google.com/file/d/1CasEuj6N2FVmg9kAxKhdqKD70UYmq4Vh/view) |
+| [Premiers soins](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) [**[Le Médecin en Urgence]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-medecin-en-urgence.md) | [Lien](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view) |
+| Prescription [**[Le Médecin en Urgence]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-medecin-en-urgence.md) | [Lien](https://drive.google.com/file/d/16ZtYjUZW0dmH0UPrHQG9bLlpWdOwflcA/view) |
+| Arrêt travail [**[Le Médecin Généraliste]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-medecin-generaliste.md) | [Lien](https://drive.google.com/file/d/1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm/view) |
 | Dépôt plainte Police | [Lien](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view) |
 | PV Police | [Lien](https://drive.google.com/file/d/18RdOzvO3Xwp1SVcsCdGDiY6RLQmWoHAnxJXnkQnomXs/view) |
 

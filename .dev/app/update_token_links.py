@@ -10,6 +10,7 @@ Usage: python3 .dev/app/update_token_links.py [--dry-run]
 """
 
 import os, re, sys, unicodedata
+from urllib.parse import quote
 
 BASE = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
 JETONS_DIR = os.path.join(BASE, "🧠 Memory", "🗂️ Jetons")
@@ -155,6 +156,7 @@ def replace_links(content, from_file):
     for t in tokens:
         old = t['full_match']
         new_url = os.path.join(rel_path, f"{t['anchor']}.md")
+        new_url = quote(new_url, safe='/')
         new = f"{t['display']}]({new_url})"
         if old in modified:
             modified = modified.replace(old, new, 1)

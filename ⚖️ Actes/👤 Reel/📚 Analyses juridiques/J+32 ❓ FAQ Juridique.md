@@ -30,7 +30,7 @@ drive_id: 1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 09 ❓ FAQ
 <!-- /Breadcrumb -->
 
-# SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE [**[LA VICTIME]**](../../../🧠 Memory/🗂️ Jetons/token-la-victime.md) C/ [**[L'EXPLOITANT DU COMMERCE (LA SAS)]**](../../../🧠 Memory/🗂️ Jetons/token-l-exploitant-du-commerce-la-sas.md)
+# SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE [**[LA VICTIME]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) C/ [**[L'EXPLOITANT DU COMMERCE (LA SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md)
 > 🔗 Source Google Drive : [1eoOJ-bcHBNn…](https://drive.google.com/open?id=1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM)
 Rédigé par : Sébastien GRAZIDE
 

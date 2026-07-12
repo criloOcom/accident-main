@@ -196,7 +196,7 @@ source: drive
 - **Sans date** — Devis matériels ergonomiques : Logiciel dictée vocale Dragon Professional, clavier ergonomique scindé, souris verticale. Justification du poste IP à 30 000 €.
 
 ### PIÈCE N° 41
-- [**[J+27 Confirmation kiné]**](../../../🧠 Memory/🗂️ Jetons/token-j-27-confirmation-kine.md) — Confirmation de rendez-vous de rééducation (Doctolib).
+- [**[J+27 Confirmation kiné]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-27-confirmation-kine.md) — Confirmation de rendez-vous de rééducation (Doctolib).
 
 ### PIÈCE N° 42
 - **01/05/2026** — Mémo indemnités journalières CPAM (Réf. CPAM 31_2399_05/26).
