@@ -4,23 +4,12 @@ description: "Ce dossier contient les textes de loi et les arrêts de jurisprude
 type: readme
 ---
 
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › 📜 Lois
+*[🏠](../README.md) › 📜 Lois*
+<hr>
 <!-- /Breadcrumb -->
 
 # ⚖️ Bibliothèque Juridique
-
----
 
 **Ce dossier contient les textes de loi et les arrêts de jurisprudence cités dans les actes du dossier.**
 Chaque fichier est une fiche dédiée, conservant le texte intégral ou un extrait significatif de la source officielle.
@@ -112,35 +101,47 @@ Le dossier a été réorganisé pour une meilleure navigation :
 
 Tous les arrêts sont disponibles dans le dossier [📜 Jurisprudence/](📜%20Jurisprudence/)
 
-| N° pourvoi | Arrêt | Thème |
-|------------|-------|-------|
-| [00-82.066](📜%20Jurisprudence/00-82.066_CourCassation.md) | **Ass. Plén., 25 février 2000** — Arrêt *Cousin* | Responsabilité du commettant |
-| [01-02.274](📜%20Jurisprudence/01-02.274_CourCassation.md) | **Civ. 2e, 26 sept. 2002** | Transaction sous réserve d'aggravation — prescription |
-| [80-14.994](📜%20Jurisprudence/80-14.994_CourCassation.md) | **Ass. Plén., 25 février 2000** — Arrêt *Gabillet* | Cumul responsabilités contractuelle/délictuelle |
-| [97-17.378](📜%20Jurisprudence/97-17.378_CourCassation.md) | **Ass. Plén., 25 février 2000** — Arrêt *Costedoat* | Responsabilité personnelle du dirigeant |
-| [99-17.092](📜%20Jurisprudence/99-17.092_CourCassation.md) | **Com., 20 mai 2003** | Responsabilité pour défaut d'assurance |
-| [11-15.699](📜%20Jurisprudence/11-15.699_CourCassation.md) | **Com.** | Responsabilité dirigeant |
-| [13-80.849](📜%20Jurisprudence/13-80.849_CourCassation.md) | **Crim., 27 mai 2014** | Mise en danger d'autrui |
-| [14-15.326](📜%20Jurisprudence/14-15.326_CourCassation.md) | **Civ. 3e** | Obligation d'assurance du bailleur |
-| [16-24.631](📜%20Jurisprudence/16-24.631_CourCassation.md) | **Civ. 2e** | Préjudice corporel |
+### 🏛️ Responsabilité du fait des choses (7 arrêts)
+- [70-12.124](📜%20Jurisprudence/70-12.124_CourCassation.md) — **Civ. 2e, 23 fév. 1972** — Arrêt *Leroy* — Baignoire passive exposée à la vente
+- [74-10.466](📜%20Jurisprudence/74-10.466_CourCassation.md) — **Civ. 2e, 5 mai 1975** — Vice inhérent ≠ cause d'exonération
+- [89-18.422](📜%20Jurisprudence/89-18.422_CourCassation.md) — **Civ. 2e, 13 fév. 1991** — Échelle qui bascule = instrument du dommage
+- [91-13.580](📜%20Jurisprudence/91-13.580_CourCassation.md) — **Civ. 2e, 25 nov. 1992** — Chose inerte — position anormale à prouver
+- [91-15.035](📜%20Jurisprudence/91-15.035_CourCassation.md) — **Civ. 2e, 5 mai 1993** — Charge preuve instrument du dommage (chose inerte)
+- [24-17.944](📜%20Jurisprudence/24-17.944_CourCassation.md) — **Civ. 2e, 2 avril 2026** — Aggravation — force majeure gardien de la chose
+- [24-21.702](📜%20Jurisprudence/24-21.702_CourCassation.md) — **Civ. 2e, 28 mai 2026** — Échelle instable — preuve position anormale insuffisante
 
-| [18-17.868](📜%20Jurisprudence/18-17.868_CourCassation.md) | **Civ. 2e** | Incidence professionnelle |
-| [19-15.659](📜%20Jurisprudence/19-15.659_CourCassation.md) | **Civ. 2e, 14 mai 2020** | Action directe contre l'assureur |
-| [19-23.173](📜%20Jurisprudence/19-23.173_CourCassation.md) | **Civ. 2e, 6 mai 2021** | Incidence professionnelle |
-| [20-15.106](📜%20Jurisprudence/20-15.106_CourCassation.md) | **Civ. 2e, 8 juillet 2021** | Réserves d'aggravation, incidence professionnelle |
-| [20-16.463](📜%20Jurisprudence/20-16.463_CourCassation.md) | **Civ. 1re, 8 décembre 2021** | Action directe, dissolution société |
-| [21-14.197](📜%20Jurisprudence/21-14.197_CourCassation.md) | **Civ. 2e** | Préjudice corporel |
-| [22-18.089](📜%20Jurisprudence/22-18.089_CourCassation.md) | **Civ. 2e, 21 mars 2024** | Autonomie action aggravation — prescription (publié Bulletin) |
-| [22-19.307](📜%20Jurisprudence/22-19.307_CourCassation.md) | **Civ. 2e, 4 avril 2024** | Réserve d'aggravation |
-| [23-12.369](📜%20Jurisprudence/23-12.369_CourCassation.md) | **Civ. 2e** | Évaluation préjudice |
-| [24-17.944](📜%20Jurisprudence/24-17.944_CourCassation.md) | **Civ. 2e, 2 avril 2026** | Aggravation — force majeure gardien de la chose |
-| [70-12.124](📜%20Jurisprudence/70-12.124_CourCassation.md) | **Civ. 2e, 23 fév. 1972** — Arrêt *Leroy* | Baignoire passive exposée à la vente |
-| [74-10.466](📜%20Jurisprudence/74-10.466_CourCassation.md) | **Civ. 2e, 5 mai 1975** | Vice inhérent ≠ cause d'exonération |
-| [89-18.422](📜%20Jurisprudence/89-18.422_CourCassation.md) | **Civ. 2e, 13 fév. 1991** | Échelle qui bascule = instrument du dommage |
-| [91-13.580](📜%20Jurisprudence/91-13.580_CourCassation.md) | **Civ. 2e, 25 nov. 1992** | Chose inerte — position anormale à prouver |
-| [91-15.035](📜%20Jurisprudence/91-15.035_CourCassation.md) | **Civ. 2e, 5 mai 1993** | Charge preuve instrument du dommage (chose inerte) |
-| [92-13.880](📜%20Jurisprudence/92-13.880_CourCassation.md) | **Civ. 2e, 2 fév. 1994** | Transaction sous réserve d'aggravation — expertise |
-| [24-21.702](📜%20Jurisprudence/24-21.702_CourCassation.md) | **Civ. 2e, 28 mai 2026** | Échelle instable — preuve position anormale insuffisante |
+### 🏛️ Transaction sous réserve d'aggravation (3 arrêts)
+- [01-02.274](📜%20Jurisprudence/01-02.274_CourCassation.md) — **Civ. 2e, 26 sept. 2002** — Transaction sous réserve d'aggravation — prescription
+- [92-13.880](📜%20Jurisprudence/92-13.880_CourCassation.md) — **Civ. 2e, 2 fév. 1994** — Transaction sous réserve d'aggravation — expertise
+- [22-18.089](📜%20Jurisprudence/22-18.089_CourCassation.md) — **Civ. 2e, 21 mars 2024** — Autonomie action aggravation — prescription (publié Bulletin)
+
+### 🏛️ Réserve d'aggravation (2 arrêts)
+- [20-15.106](📜%20Jurisprudence/20-15.106_CourCassation.md) — **Civ. 2e, 8 juillet 2021** — Réserves d'aggravation, incidence professionnelle
+- [22-19.307](📜%20Jurisprudence/22-19.307_CourCassation.md) — **Civ. 2e, 4 avril 2024** — Réserve d'aggravation
+
+### 🏛️ Préjudice corporel et incidence professionnelle (5 arrêts)
+- [16-24.631](📜%20Jurisprudence/16-24.631_CourCassation.md) — **Civ. 2e** — Préjudice corporel
+- [18-17.868](📜%20Jurisprudence/18-17.868_CourCassation.md) — **Civ. 2e** — Incidence professionnelle
+- [19-23.173](📜%20Jurisprudence/19-23.173_CourCassation.md) — **Civ. 2e, 6 mai 2021** — Incidence professionnelle
+- [21-14.197](📜%20Jurisprudence/21-14.197_CourCassation.md) — **Civ. 2e** — Préjudice corporel
+- [23-12.369](📜%20Jurisprudence/23-12.369_CourCassation.md) — **Civ. 2e** — Évaluation préjudice
+
+### 🏛️ Responsabilité des dirigeants (3 arrêts)
+- [97-17.378](📜%20Jurisprudence/97-17.378_CourCassation.md) — **Ass. Plén., 25 février 2000** — Arrêt *Costedoat* — Responsabilité personnelle du dirigeant
+- [99-17.092](📜%20Jurisprudence/99-17.092_CourCassation.md) — **Com., 20 mai 2003** — Responsabilité pour défaut d'assurance
+- [11-15.699](📜%20Jurisprudence/11-15.699_CourCassation.md) — **Com.** — Responsabilité dirigeant
+
+### 🏛️ Action directe et obligation d'assurance (3 arrêts)
+- [14-15.326](📜%20Jurisprudence/14-15.326_CourCassation.md) — **Civ. 3e** — Obligation d'assurance du bailleur
+- [19-15.659](📜%20Jurisprudence/19-15.659_CourCassation.md) — **Civ. 2e, 14 mai 2020** — Action directe contre l'assureur
+- [20-16.463](📜%20Jurisprudence/20-16.463_CourCassation.md) — **Civ. 1re, 8 décembre 2021** — Action directe, dissolution société
+
+### 🏛️ Responsabilité du commettant (2 arrêts)
+- [00-82.066](📜%20Jurisprudence/00-82.066_CourCassation.md) — **Ass. Plén., 25 février 2000** — Arrêt *Cousin* — Responsabilité du commettant
+- [80-14.994](📜%20Jurisprudence/80-14.994_CourCassation.md) — **Ass. Plén., 25 février 2000** — Arrêt *Gabillet* — Cumul responsabilités contractuelle/délictuelle
+
+### 🏛️ Mise en danger d'autrui (1 arrêt)
+- [13-80.849](📜%20Jurisprudence/13-80.849_CourCassation.md) — **Crim., 27 mai 2014** — Mise en danger d'autrui
 
 ## 🔧 Documents techniques
 
@@ -151,18 +152,5 @@ Tous les arrêts sont disponibles dans le dossier [📜 Jurisprudence/](📜%20J
 
 - **Total fichiers** : 62 fichiers juridiques
 - **Jurisprudence** : 28 arrêts
-- **Articles de loi** : 34 articles (75,6% complet)
+- **Articles de loi** : 34 articles
 - **Nouveaux articles ajoutés** : 10 articles prioritaires
-- **Taux de complétude** : 79,3%
-
-## 📁 PDFs
-
-Le dossier `pdfs/` contient les documents originaux téléchargés depuis Légifrance.
-
-## 🔧 Maintenance
-
-Pour ajouter un nouvel article :
-1. Créer un fichier Markdown dans le sous-dossier approprié
-2. Utiliser le template standard (voir les fichiers existants)
-3. Ajouter une entrée dans le tableau ci-dessus
-4. Mettre à jour le taux de complétude
