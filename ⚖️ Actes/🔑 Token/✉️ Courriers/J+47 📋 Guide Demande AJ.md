@@ -162,7 +162,7 @@ Avenue Paul Laffont
 
 ### À dire pour l'urgence
 
-> "Je sollicite un **traitement accéléré** car les enregistrements de vidéosurveillance du salon où j'ai été blessé le 29 mai 2026 risquent d'être écrasés avant le 15 août 2026 (délai standard de conservation de 60 jours). Une fois effacés, ces éléments de preuve seront irrémédiablement perdus."
+> *"Je sollicite un **traitement accéléré** car les enregistrements de vidéosurveillance du salon où j'ai été blessé le 29 mai 2026 risquent d'être écrasés avant le 15 août 2026 (délai standard de conservation de 60 jours). Une fois effacés, ces éléments de preuve seront irrémédiablement perdus."* <br>
 
 ### Ne pas oublier
 

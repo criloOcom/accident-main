@@ -56,7 +56,7 @@ Vous trouverez ci-joint la plainte avec [constitution de partie civile](../%E2%9
 
 Dans l'attente que vous fixiez, le cas échéant, le montant de la consignation prévue à l'article 88 du Code de procédure pénale (dont je sollicite toutefois l'exemption ou la modération compte tenu de ma situation financière actuelle liée à mon [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) prolongé),
 
-> « Le juge d'instruction constate, par ordonnance, le dépôt de la plainte. En fonction des ressources de la partie civile, il fixe le montant de la consignation que celle-ci doit, si elle n'a obtenu l'aide juridictionnelle, déposer au greffe et le délai dans lequel elle devra être faite sous peine de non-recevabilité de la plainte. Il peut dispenser de consignation la partie civile. » <br>
+> *« Le juge d'instruction constate, par ordonnance, le dépôt de la plainte. En fonction des ressources de la partie civile, il fixe le montant de la consignation que celle-ci doit, si elle n'a obtenu l'aide juridictionnelle, déposer au greffe et le délai dans lequel elle devra être faite sous peine de non-recevabilité de la plainte. Il peut dispenser de consignation la partie civile. »* <br>
 > [Article 88 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575469) <br>
 > **Code de procédure pénale > Section 2 : De la constitution de la partie civile et de ses effets — abrogation différée.**
 

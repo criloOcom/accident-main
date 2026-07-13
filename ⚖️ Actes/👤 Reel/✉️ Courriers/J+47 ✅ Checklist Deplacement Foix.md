@@ -14,7 +14,7 @@ auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_FOIX.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+47 ✅ Checklist Deplacement Foix*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › J+47 ✅ Checklist Deplacement Foix*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -292,7 +292,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_
 
 ### Résumé oral préparé (2-3 min)
 
-> "Le 29 mai 2026, j'étais client au salon de coiffure Les Mauvais Garçons, 22 Rue Lafaurie. Le coiffeur est monté sur le bac à shampoing en céramique pour régler une télévision. La vasque a basculé, j'ai tendu la main droite, et j'ai heurté une cassure préexistante non signalée — section du tendon fléchisseur et du nerf de l'index droit, opéré en urgence le 30 mai. La SAS a un capital de 200 €, ses dirigeants ne répondent pas, les LRAR sont NPAI. L'assureur RC est introuvable. Les vidéos de surveillance vont être écrasées d'ici quelques semaines."
+> *"Le 29 mai 2026, j'étais client au salon de coiffure Les Mauvais Garçons, 22 Rue Lafaurie. Le coiffeur est monté sur le bac à shampoing en céramique pour régler une télévision. La vasque a basculé, j'ai tendu la main droite, et j'ai heurté une cassure préexistante non signalée — section du tendon fléchisseur et du nerf de l'index droit, opéré en urgence le 30 mai. La SAS a un capital de 200 €, ses dirigeants ne répondent pas, les LRAR sont NPAI. L'assureur RC est introuvable. Les vidéos de surveillance vont être écrasées d'ici quelques semaines."* <br>
 
 ### Points à aborder
 

@@ -169,13 +169,13 @@ source: drive
 - **14/12/2001** — Cour de cassation (Ass. Plén.) : Arrêt Cousin (n° 00-82.066) — levée de l'immunité du préposé en cas d'infraction pénale intentionnelle.
 - **20/05/2003** — Cour de cassation (Ch. Com.) : Arrêt SATI (n° 99-17.092) — définition de la faute détachable du dirigeant.
 
-> « La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. » <br>
+> *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
 
 - **04/04/2024** — Cour de cassation (Civ. 2e) : Arrêt n° 22-19.307 — capitalisation sans contrôle de l'assureur.
 
-> « Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. » <br>
+> *« Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »* <br>
 > [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) <br>
 > **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307**
 

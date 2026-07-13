@@ -17,7 +17,7 @@ source: drive
 drive_id: 1PSv6c0YFvLa0WDEbwc3AVxL14z7ARi5ne50ctJgCvWI
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+37 ✉️ Relance Consolidation*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › J+37 ✉️ Relance Consolidation*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -86,7 +86,7 @@ Je sollicite donc votre bienveillance afin de :
 
 Ce certificat permettra a mon conseil de finaliser l'evaluation indemnitaire et, le cas echeant, de saisir le tribunal judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) pour obtenir la reparation integrale de mon prejudice corporel, conformement au principe degage par la Cour de cassation.
 
-> « La libre disposition de son corps par la victime ne fait pas obstacle à ce que soit réparé le préjudice corporel subi. » <br>
+> *« La libre disposition de son corps par la victime ne fait pas obstacle à ce que soit réparé le préjudice corporel subi. »* <br>
 > [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) <br>
 > **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307**
 

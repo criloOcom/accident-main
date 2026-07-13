@@ -14,7 +14,7 @@ auteur: Nom de l'Avocat de la Victime
 reel_path: ../../👤 Reel/🗂️ Organisation/Fiche Reflexe 48h Disparition SAS.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › Fiche Reflexe 48h Disparition SAS*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [🗂️ Organisation](./README.md) › Fiche Reflexe 48h Disparition SAS*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -36,7 +36,7 @@ Avertir la partie adverse avant de figer la situation factuelle exposerait le do
 L'action pénale vient appuyer l'action civile, notamment par la dénonciation des faits au Procureur de la République.
 Conformément aux obligations légales en la matière, ce signalement trouve son fondement direct dans l'article 40 du Code de procédure pénale :
 
-> « Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1. Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. » <br>
+> *« Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1. Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. »* <br>
 > [Article 40](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) <br>
 > **Code de procédure pénale > Partie législative > Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction > Titre Ier : Des autorités chargées de la conduite de la politique pénale, de l'action publique et de l'instruction > Chapitre II : Du ministère public > Section 3 : Des attributions du procureur de la République**
 
@@ -54,7 +54,7 @@ En parallèle ou immédiatement après l'intervention du Commissaire de Justice,
 
 Dès lors que les premiers éléments de preuve (constat, vérifications INPI) sont réunis et caractérisent de potentielles infractions (banqueroute, organisation frauduleuse d'insolvabilité, abus de biens sociaux), un signalement circonstancié au Parquet doit être effectué, en vertu de l'article 40 du Code de procédure pénale précité. L'intervention du Procureur de la République donne à la procédure une dimension coercitive supplémentaire.
 
-> « Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1. Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. » <br>
+> *« Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1. Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. »* <br>
 > [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) <br>
 > **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.**
 

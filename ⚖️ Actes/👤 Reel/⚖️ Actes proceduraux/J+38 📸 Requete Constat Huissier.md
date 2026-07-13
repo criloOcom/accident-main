@@ -18,7 +18,7 @@ auteur: La Victime
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/06 📸 Requete Constat Huissier.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › J+38 📸 Requete Constat Huissier*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [⚖️ Actes proceduraux](./README.md) › J+38 📸 Requete Constat Huissier*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -58,17 +58,17 @@ La présente requête est fondée sur les dispositions conjointes des articles 1
 ### SUR LES MESURES D'INSTRUCTION IN FUTURUM
 L'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) dispose que :
 
-> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+> *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. »* <br>
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
-> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
+> *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 
 ### SUR L'EXTRÊME URGENCE ET LE DOMMAGE IMMINENT
 L'[Article 873 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463) dispose que :
 
-> « Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. » <br>
+> *« Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 > **Code de procédure civile > Section I : Les ordonnances de référé.** <br>
-> « Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. » <br>
+> *« Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. »* <br>
 > [Article 873 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463) <br>
 
 La disparition des preuves matérielles indispensables à la future action au fond constituerait un dommage imminent et irréparable pour [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), justifiant l'intervention immédiate d'un huissier de justice (commissaire de justice) sans débat contradictoire préalable, afin de ménager l'effet de surprise et d'éviter toute déperdition de preuves.

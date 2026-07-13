@@ -64,11 +64,11 @@ Pour les faits de :
 
 Blessures involontaires ayant entraîné une ITT de 56 jours par la violation manifestement délibérée d'une obligation de sécurité [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) — basculement d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes.
 
-> « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
+> *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
 > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.**
 
-> « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »
+> *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 
 Je demande au tribunal de condamner la (ou les) personne(s) désignée(s) ci-dessus à me payer les sommes suivantes en réparation du préjudice subi :
 
@@ -78,7 +78,7 @@ Je demande au tribunal de condamner l'intéressé(e) [ou les intéressé(e)s] à
 
 - 3 000 € en remboursement des frais exposés lors de cette procédure ([Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107)).
 
-> « Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. » <br>
+> *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
 > [Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) <br>
 > **Code de procédure pénale > Paragraphe 1 : Dispositions générales — abrogation différée.**
 

@@ -90,7 +90,7 @@ Cette carence structurelle a contraint le préposé à escalader la vasque, cré
 
 Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code civil.
 
-> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+> *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
 > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.**
 
@@ -102,7 +102,7 @@ Le **basculement brutal** de cette chose a été l'**instrument actif** du domma
 
 La Cour de cassation, dans un arrêt de principe, a retenu qu'une échelle installée par un préposé qui bascule et blesse un tiers engage la responsabilité du gardien, qui ne peut s'exonérer qu'en prouvant une cause étrangère (force majeure, faute de la victime, fait d'un tiers).
 
-> « La Cour de cassation rappelle qu'une échelle installée par un préposé du commettant qui bascule et blesse un tiers engage la responsabilité du gardien sur le fondement de l'article 1242 alinéa 1er du Code civil. » <br>
+> *« La Cour de cassation rappelle qu'une échelle installée par un préposé du commettant qui bascule et blesse un tiers engage la responsabilité du gardien sur le fondement de l'article 1242 alinéa 1er du Code civil. »* <br>
 > [Arrêt n°89-18.422](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007026411) <br>
 > **Cour de cassation, 2e chambre civile, 13 février 1991, n° 89-18.422**
 
@@ -110,7 +110,7 @@ En l'espèce, la victime n'a commis aucune faute : elle n'a pas provoqué le bas
 
 Par ailleurs, la **cassure préexistante** constitue un **vice inhérent** de la chose. La Cour de cassation a jugé depuis longtemps que le vice inhérent à la chose, même indécelable, ne constitue pas un cas de force majeure ou une cause étrangère exonératoire.
 
-> « Le vice inhérent à la chose, même indécelable, ne constitue pas un cas de force majeure ou une cause étrangère exonératoire. » <br>
+> *« Le vice inhérent à la chose, même indécelable, ne constitue pas un cas de force majeure ou une cause étrangère exonératoire. »* <br>
 > [Arrêt n°74-10.466](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485) <br>
 > **Cour de cassation, 2e chambre civile, 5 mai 1975, n° 74-10.466**
 
@@ -166,7 +166,7 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 
 - les frais irrépétibles au sens de l'article 700 du Code de procédure civile : 3 000 €.
 
-> « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. » <br>
+> *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.**
 
@@ -178,7 +178,7 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 
 **IV.** De prendre toutes mesures d'instruction utiles en application de l'article 145 du Code de procédure civile, et notamment :
 
-> « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+> *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. »* <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.**
 

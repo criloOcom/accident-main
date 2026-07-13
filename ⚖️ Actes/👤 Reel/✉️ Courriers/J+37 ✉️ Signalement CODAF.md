@@ -17,7 +17,7 @@ source: drive
 drive_id: 1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+37 ✉️ Signalement CODAF*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › J+37 ✉️ Signalement CODAF*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -74,10 +74,10 @@ Les faits signalés ci-après sont susceptibles de caractériser des manquements
 
 Il ressort des éléments en ma possession que le préposé exerçant dans l'établissement ne faisait l'objet d'aucune déclaration préalable à l'embauche (DPAE) ni d'aucun affichage obligatoire, et à ma connaissance, aucun bulletin de paie ne lui a été délivré. Ces éléments me conduisent à soupçonner un recours au travail dissimulé par dissimulation d'emploi salarié au sens de l'article L. 8221-5 du Code du travail.
 
-> « Est réputé travail dissimulé par dissimulation d'emploi salarié le fait pour tout employeur :
+> *« Est réputé travail dissimulé par dissimulation d'emploi salarié le fait pour tout employeur :
 > - 1° Soit de se soustraire intentionnellement à l'accomplissement de la formalité prévue à l'article L. 1221-10 , relatif à la déclaration préalable à l'embauche ;
 > - 2° Soit de se soustraire intentionnellement à la délivrance d'un bulletin de paie ou d'un document équivalent défini par voie réglementaire, ou de mentionner sur le bulletin de paie ou le document équivalent un nombre d'heures de travail inférieur à celui réellement accompli, si cette mention ne résulte pas d'une convention ou d'un accord collectif d'aménagement du temps de travail conclu en application du titre II du livre Ier de la troisième partie ;
-> - 3° Soit de se soustraire intentionnellement aux déclarations relatives aux salaires ou aux cotisations sociales assises sur ceux-ci auprès des organismes de recouvrement des contributions et cotisations sociales ou de l'administration fiscale en vertu des dispositions légales. »  
+> - 3° Soit de se soustraire intentionnellement aux déclarations relatives aux salaires ou aux cotisations sociales assises sur ceux-ci auprès des organismes de recouvrement des contributions et cotisations sociales ou de l'administration fiscale en vertu des dispositions légales. »* <br>
 > **Code du travail > Section 3 : Travail dissimulé par dissimulation d'emploi salarié.**  
 > [Article L8221-5 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966)
 
@@ -96,7 +96,7 @@ L'exploitant n'a procédé à aucun affichage de son attestation d'assurance RC 
 
 L'absence d'équipement d'accès en hauteur (escabeau) ayant contraint le préposé à monter sur un mobilier sanitaire instable et cassé est susceptible de caractériser un manquement à l'obligation de sécurité de l'employeur (Article L. 4121-1 du Code du travail) et aux dispositions sur le travail en hauteur (Articles R. 4323-58 et suivants du Code du travail), ainsi qu'à l'obligation de conformité des équipements de travail (Article L. 4321-1 du Code du travail). L'absence de Document Unique d'Évaluation des Risques Professionnels (DUERP) à jour est également suspectée.
 
-> « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. »  
+> *« Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. »* <br>
 > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.**  
 > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
 
@@ -113,7 +113,7 @@ Le capital social de 200 € et la dissociation entre le siège social de l'acti
 
 En qualité de victime directe ayant subi des préjudices corporels sévères et irréversibles à la main droite, je sollicite du CODAF qu'une enquête soit diligentée afin de vérifier l'ensemble de ces éléments sociaux et déclaratifs. Conformément à l'Article 40 du Code de procédure pénale, si les faits constatés par vos services sont constitutifs d'infractions, je vous remercie de bien vouloir en informer le Procureur de la République.
 
-> « Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1.
+> *« Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1.
 >
 > Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. »  
 > **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.**  

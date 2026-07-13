@@ -66,7 +66,7 @@ Malgre des mises en demeure recommandees adressees le [**[J+31 Mises en demeure]
 ### A. SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES
 Les faits decrits ci-dessus sont constitutifs du delit de blessures involontaires prevu et reprime par les articles 222-19 et 222-20 du Code penal.
 
-> « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. » <br>
+> *« Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. »* <br>
 > [Article 222-19](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) <br>
 > **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne.**
 
@@ -80,7 +80,7 @@ En l'espece :
 
 L'ITT de 56 jours, certifiee par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md), est inferieure a 3 mois, ce qui conduit a la qualification suivante :
 
-> « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
+> *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 > [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
 > **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne.**
 
@@ -93,7 +93,7 @@ La **violation manifestement deliberee** est caracterisee par :
 - L'absence de mise a disposition d'un escabeau, contraignant le prepose a escalader la vasque
 
 ### B. SUR LA RESPONSABILITE CIVILE PERSONNELLE DES DIRIGEANTS
-> « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
+> *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.**
 
@@ -101,17 +101,17 @@ Cette disposition constitue le fondement de la responsabilite personnelle des di
 
 L'article L. 227-1 du Code de commerce dispose que les règles des sociétés anonymes sont applicables aux SAS :
 
-> « Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes [...] sont applicables à la société par actions simplifiée. » <br>
+> *« Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes [...] sont applicables à la société par actions simplifiée. »* <br>
 > [Article L. 227-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177) <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.**
 
 En application de ce renvoi, l'article L. 225-251 du même code fixe le régime détaillé de cette responsabilité dans les termes suivants :
 
-> « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. » <br>
+> *« Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. »* <br>
 > [Article L. 225-251](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre III : Des sociétés anonymes > Section 8 : De la responsabilité.**
 
-> « La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. » <br>
+> *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092**
 
@@ -128,18 +128,18 @@ En l'espece, les fautes separables des dirigeants sont caracterisees par :
 Ces fautes, commises personnellement par le President et la Directrice Generale, sont detachables de leurs fonctions sociales et engagent leur responsabilite sur leur patrimoine propre.
 
 ### C. SUR LE FONDEMENT DU DROIT DE LA CONSOMMATION
-> « Le professionnel de vente est tenu d'une obligation d'information précontractuelle sur les caractéristiques essentielles du bien ou du service. » <br>
+> *« Le professionnel de vente est tenu d'une obligation d'information précontractuelle sur les caractéristiques essentielles du bien ou du service. »* <br>
 > [Article L. 111-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438) <br>
 > **Code de la consommation > Partie réglementaire > Livre Ier : Information et education des consommateurs > Titre II : Information des consommateurs > Chapitre Ier : Obligation générale d'information précontractuelle.**
 
-> « Le professionnel de vente est tenu de livrer un bien conforme au contrat. » <br>
+> *« Le professionnel de vente est tenu de livrer un bien conforme au contrat. »* <br>
 > [Article L. 217-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587) <br>
 > **Code de la consommation > Partie législative > Livre Ier : Dispositions générales > Titre Ier : Objet et champ d'application.**
 
 Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'information precontractuelle et a une obligation de conformite du service fourni. La prestation realisee n'etait manifestement pas conforme aux exigences de securite legitimes d'un consommateur, ce qui constitue un fondement complementaire a l'action civile et renforce l'absence de contestation serieuse.
 
 ### D. SUR LE DEFAUT D'ASSURANCE DE RESPONSABILITE CIVILE
-> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
+> *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité.**
 
@@ -176,7 +176,7 @@ Par ces motifs, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%E
 
 4. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) la somme de **[Finance Article 700]** sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
 
-> « Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. » <br>
+> *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
 > [Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) <br>
 > **Code de procédure pénale > Paragraphe 1 : Dispositions générales — abrogation différée.**
 
@@ -191,7 +191,7 @@ Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
 Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu l'article L. 124-3 du Code des assurances,
 
-> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 Vu les articles 706-3 et 706-14 du Code de procedure penale,
@@ -208,7 +208,7 @@ Vu les pieces versees aux debats,
 
 4. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) la somme de **[Finance Article 700]** sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
 
-> « Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. » <br>
+> *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
 > [Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) <br>
 > **Code de procédure pénale > Paragraphe 1 : Dispositions générales — abrogation différée.**
 
