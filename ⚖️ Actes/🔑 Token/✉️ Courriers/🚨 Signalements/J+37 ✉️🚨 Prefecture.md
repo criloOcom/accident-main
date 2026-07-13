@@ -115,9 +115,9 @@ Mes coordonnees : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory
 
 - **[Mises en demeure LRAR](J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md)** — Mises en demeure du [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
 
-- **[Signalement Inspection du Travail](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20Inspection%20Travail.md)** — Demande d'enquete aupres de la DDETS 09
+- **[Signalement Inspection du Travail](J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md)** — Demande d'enquete aupres de la DDETS 09
 
-- **[Signalement CODAF](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20CODAF.md)** — Saisine du Comite Departemental Anti-Fraude
+- **[Signalement CODAF](J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20CODAF.md)** — Saisine du Comite Departemental Anti-Fraude
 
 - **[Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
 

@@ -117,7 +117,7 @@ Ce courrier fait suite au message de l'adjoint au maire du 1er juin 2026, par le
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️ Signalement Inspection Travail.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20Inspection%20Travail.md) (09) |
+| **Fichier** | [`J+37 ✉️🚨 Inspection Travail.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md) (09) |
 | **Destinataire** | DDETS de l'Ariège / DREETS Occitanie |
 | **Mode** | LRAR |
 | **Ton** | Formel, technique, juridique |
@@ -154,7 +154,7 @@ Courrier le plus technique du batch. Après un rappel des faits et du contexte (
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️ Signalement URSSAF.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20URSSAF.md) (12) |
+| **Fichier** | [`J+37 ✉️🚨 URSSAF.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20URSSAF.md) (12) |
 | **Destinataire** | URSSAF Midi-Pyrénées |
 | **Mode** | LRAR |
 | **Ton** | Accusatoire, factuel, technique |
@@ -184,7 +184,7 @@ Ce signalement dénonce un travail dissimulé présumé. Il s'appuie sur des él
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️ Signalement CODAF.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20CODAF.md) (14) |
+| **Fichier** | [`J+37 ✉️🚨 CODAF.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20CODAF.md) (14) |
 | **Destinataire** | CODAF de l'Ariège (Préfecture) |
 | **Mode** | LRAR |
 | **Ton** | Technique, très structuré, exhaustif |
@@ -213,7 +213,7 @@ Le CODAF est la structure interdépartementale de coordination anti-fraude réun
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️ Signalement Prefecture.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20Prefecture.md) (13) |
+| **Fichier** | [`J+37 ✉️🚨 Prefecture.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Prefecture.md) (13) |
 | **Destinataire** | Préfecture de l'Ariège |
 | **Mode** | LRAR |
 | **Ton** | Solennel, exhaustif, complet |
@@ -239,7 +239,7 @@ Ce courrier agit comme une « pièce maîtresse » qui confirme officiellement l
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️ Signalement Conseil Departemental.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20Conseil%20Departemental.md) (16) |
+| **Fichier** | [`J+37 ✉️🚨 Conseil Departemental.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Conseil%20Departemental.md) (16) |
 | **Destinataire** | Conseil Départemental de l'Ariège |
 | **Mode** | LRAR |
 | **Ton** | Formel, réglementaire |
@@ -264,7 +264,7 @@ Ce signalement cible spécifiquement les non-conformités ERP. Il qualifie le sa
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️ Signalement SDIS.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20SDIS.md) (18) |
+| **Fichier** | [`J+37 ✉️🚨 SDIS.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SDIS.md) (18) |
 | **Destinataire** | SDIS de l'Ariège |
 | **Mode** | Email (simple) |
 | **Ton** | Court, factuel |
@@ -289,7 +289,7 @@ Le plus court du batch (1 page). Il signale 2 dangers : l'équipement défectueu
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️ Signalement INPI.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20INPI.md) (11) |
+| **Fichier** | [`J+37 ✉️🚨 INPI.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20INPI.md) (11) |
 | **Destinataire** | INPI — Registre National des Entreprises |
 | **Mode** | LRAR |
 | **Ton** | Neutre, informatif |
@@ -312,7 +312,7 @@ Ce courrier demande un « flag » sur le RNE pour informer les tiers et l'admini
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️ Signalement SIE.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20SIE.md) (15) |
+| **Fichier** | [`J+37 ✉️🚨 SIE.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SIE.md) (15) |
 | **Destinataire** | Service des Impôts des Entreprises de [La Ville de l'Accident] |
 | **Mode** | LRAR |
 | **Ton** | Court, informatif, neutre |

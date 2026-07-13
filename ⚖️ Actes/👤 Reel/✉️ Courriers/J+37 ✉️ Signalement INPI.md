@@ -108,9 +108,9 @@ Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20M
 
 - **[Mises en demeure LRAR](J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md)** — Mises en demeure du [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
 
-- **[Signalement Inspection du Travail](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20Inspection%20Travail.md)** — Demande d'enquete aupres de la DDETS 09
+- **[Signalement Inspection du Travail](J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md)** — Demande d'enquete aupres de la DDETS 09
 
-- **[Signalement CODAF](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20CODAF.md)** — Saisine du CODAF
+- **[Signalement CODAF](J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20CODAF.md)** — Saisine du CODAF
 
 - **[Extrait Kbis](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md))
 

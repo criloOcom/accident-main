@@ -113,7 +113,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟡 N° PV en `[ ... ]` (l.47) alors que d'autres docs utilisent `**[N° PV Police]**` — incohérence |
 | Problèmes | Accents absents. Token PV non standardisé |
 
-### 2.3 12 — Courrier URSSAF (`✉️ Courriers/J+37 ✉️ Signalement URSSAF.md`)
+### 2.3 12 — Courrier URSSAF (`✉️ Courriers/J+37 ✉️🚨 URSSAF.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -124,7 +124,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents (voir 1.1). "response" au lieu de "réponse" |
 
-### 2.4 14 — Courrier CODAF (`✉️ Courriers/J+37 ✉️ Signalement CODAF.md`)
+### 2.4 14 — Courrier CODAF (`✉️ Courriers/J+37 ✉️🚨 CODAF.md`)
 
 | Critère | Évaluation |
 |---|---|

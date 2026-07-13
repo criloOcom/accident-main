@@ -51,25 +51,25 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
        → ✉️ Courriers/J+37 ✉️ Suivi Adjoint Maire Tavella.md
   ✓  ✉️ Courriers/09 ✉️ Courrier Inspection Travail.md
-       → ✉️ Courriers/J+37 ✉️ Signalement Inspection Travail.md
+       → ✉️ Courriers/J+37 ✉️🚨 Inspection Travail.md
   ✓  ✉️ Courriers/10 ✉️ Courrier Doyen Juges Instruction.md
        → ✉️ Courriers/J+38 ✉️ Saisine Doyen Juges Instruction.md
   ✓  ✉️ Courriers/11 ✉️ Courrier INPI.md
-       → ✉️ Courriers/J+37 ✉️ Signalement INPI.md
+       → ✉️ Courriers/J+37 ✉️🚨 INPI.md
   ✓  ✉️ Courriers/12 ✉️ Courrier URSSAF.md
-       → ✉️ Courriers/J+37 ✉️ Signalement URSSAF.md
+       → ✉️ Courriers/J+37 ✉️🚨 URSSAF.md
   ✓  ✉️ Courriers/13 ✉️ Courrier Prefecture.md
-       → ✉️ Courriers/J+37 ✉️ Signalement Prefecture.md
+       → ✉️ Courriers/J+37 ✉️🚨 Prefecture.md
   ✓  ✉️ Courriers/14 ✉️ Courrier CODAF.md
-       → ✉️ Courriers/J+37 ✉️ Signalement CODAF.md
+       → ✉️ Courriers/J+37 ✉️🚨 CODAF.md
   ✓  ✉️ Courriers/15 ✉️ Courrier SIE.md
-       → ✉️ Courriers/J+37 ✉️ Signalement SIE.md
+       → ✉️ Courriers/J+37 ✉️🚨 SIE.md
   ✓  ✉️ Courriers/16 ✉️ Courrier Conseil Departemental.md
-       → ✉️ Courriers/J+37 ✉️ Signalement Conseil Departemental.md
+       → ✉️ Courriers/J+37 ✉️🚨 Conseil Departemental.md
   ✓  ✉️ Courriers/17 ✉️ Courrier CPAM.md
        → ✉️ Courriers/J+38 ✉️ Transmission Recours Tiers CPAM.md
   ✓  ✉️ Courriers/18 ✉️ Courrier SDIS.md
-       → ✉️ Courriers/J+37 ✉️ Signalement SDIS.md
+       → ✉️ Courriers/J+37 ✉️🚨 SDIS.md
   ✓  ✉️ Courriers/19 ✉️ Courrier FGTI.md
        → ✉️ Courriers/J+38 ✉️ Saisine FGTI.md
   ✓  ✉️ Courriers/20 🔄 Relance Police.md
@@ -195,25 +195,25 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
        → ✉️ Courriers/J+37 ✉️ Suivi Adjoint Maire Tavella.md
   ✓  ✉️ Courriers/09 ✉️ Courrier Inspection Travail.md
-       → ✉️ Courriers/J+37 ✉️ Signalement Inspection Travail.md
+       → ✉️ Courriers/J+37 ✉️🚨 Inspection Travail.md
   ✓  ✉️ Courriers/10 ✉️ Courrier Doyen Juges Instruction.md
        → ✉️ Courriers/J+38 ✉️ Saisine Doyen Juges Instruction.md
   ✓  ✉️ Courriers/11 ✉️ Courrier INPI.md
-       → ✉️ Courriers/J+37 ✉️ Signalement INPI.md
+       → ✉️ Courriers/J+37 ✉️🚨 INPI.md
   ✓  ✉️ Courriers/12 ✉️ Courrier URSSAF.md
-       → ✉️ Courriers/J+37 ✉️ Signalement URSSAF.md
+       → ✉️ Courriers/J+37 ✉️🚨 URSSAF.md
   ✓  ✉️ Courriers/13 ✉️ Courrier Prefecture.md
-       → ✉️ Courriers/J+37 ✉️ Signalement Prefecture.md
+       → ✉️ Courriers/J+37 ✉️🚨 Prefecture.md
   ✓  ✉️ Courriers/14 ✉️ Courrier CODAF.md
-       → ✉️ Courriers/J+37 ✉️ Signalement CODAF.md
+       → ✉️ Courriers/J+37 ✉️🚨 CODAF.md
   ✓  ✉️ Courriers/15 ✉️ Courrier SIE.md
-       → ✉️ Courriers/J+37 ✉️ Signalement SIE.md
+       → ✉️ Courriers/J+37 ✉️🚨 SIE.md
   ✓  ✉️ Courriers/16 ✉️ Courrier Conseil Departemental.md
-       → ✉️ Courriers/J+37 ✉️ Signalement Conseil Departemental.md
+       → ✉️ Courriers/J+37 ✉️🚨 Conseil Departemental.md
   ✓  ✉️ Courriers/17 ✉️ Courrier CPAM.md
        → ✉️ Courriers/J+38 ✉️ Transmission Recours Tiers CPAM.md
   ✓  ✉️ Courriers/18 ✉️ Courrier SDIS.md
-       → ✉️ Courriers/J+37 ✉️ Signalement SDIS.md
+       → ✉️ Courriers/J+37 ✉️🚨 SDIS.md
   ✓  ✉️ Courriers/19 ✉️ Courrier FGTI.md
        → ✉️ Courriers/J+38 ✉️ Saisine FGTI.md
   ✓  ✉️ Courriers/20 🔄 Relance Police.md
@@ -323,8 +323,8 @@ Date: 2026-07-12 14:37
   📄 📊 Rapports/RAPPORT_AUDIT_REDACTION.md
        [parenthesized_url] 03 ✉️ Courrier SAS.md → J+31 ✉️ Mise en demeure SAS.md (1x)
        [parenthesized_url] 10 ✉️ Courrier Doyen Juges Instruction.md → J+38 ✉️ Saisine Doyen Juges Instruction.md (1x)
-       [parenthesized_url] 12 ✉️ Courrier URSSAF.md → J+37 ✉️ Signalement URSSAF.md (1x)
-       [parenthesized_url] 14 ✉️ Courrier CODAF.md → J+37 ✉️ Signalement CODAF.md (1x)
+       [parenthesized_url] 12 ✉️ Courrier URSSAF.md → J+37 ✉️🚨 URSSAF.md (1x)
+       [parenthesized_url] 14 ✉️ Courrier CODAF.md → J+37 ✉️🚨 CODAF.md (1x)
        [parenthesized_url] 19 ✉️ Courrier FGTI.md → J+38 ✉️ Saisine FGTI.md (1x)
        [parenthesized_url] 33 ✉️ Requete Constat Huissier 145 CPC.md → J+41 ✉️ Requete Constat Huissier.md (1x)
        [parenthesized_url] 34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md → J+42 ✉️ Email Maire Tavella ERP.md (1x)
