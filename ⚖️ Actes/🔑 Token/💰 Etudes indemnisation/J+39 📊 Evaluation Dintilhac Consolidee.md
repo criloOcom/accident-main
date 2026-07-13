@@ -173,6 +173,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 <hr><hr>
 
 ## III.3 — DFP — Déficit Fonctionnel Permanent
+
 > Note : Le DFP indemnise l'atteinte aux fonctions physiologiques après consolidation. Il est évalué en pourcentage d'incapacité permanente, multiplié par la valeur du point (selon le barème Mornet, qui varie selon l'âge de la victime). Le taux sera déterminé par l'expertise UMJ du 12 novembre 2026.]*
 
 **Définition :** Indemnise l'atteinte aux fonctions physiologiques après consolidation.
@@ -201,6 +202,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 <hr><hr>
 
 ## III.4 — SE — Souffrances Endurées
+
 > Note : Pédagogique : Les Souffrances Endurées évaluent la douleur physique et morale ressentie par la victime entre l'accident et la consolidation. Elles sont cotées de 0 à 7 sur une échelle subjective, et le référentiel Mornet 2024 propose des fourchettes d'indemnisation correspondant à chaque niveau.]*
 
 **Définition :** Évalue la douleur physique et morale ressentie entre l'accident et la consolidation.
@@ -228,6 +230,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 <hr><hr>
 
 ## III.5 — IP — Incidence Professionnelle
+
 > Note : Pédagogique : L'Incidence Professionnelle est un poste distinct des pertes de gains professionnels futurs. Elle indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. La méthode BIBAL consiste à capitaliser sur la durée de vie professionnelle restante.]*
 
 **Définition :** Poste distinct indemnisant la dévalorisation sur le marché du travail, la pénibilité accrue, la perte de clientèle et l'adaptation ergonomique.
@@ -268,6 +271,7 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 <hr><hr>
 
 ## III.6 — Préjudice d'Agrément
+
 > Note : Pédagogique : Le préjudice d'Agrément indemnise la perte ou la diminution des plaisirs et occupations de la victime (loisirs, activités sportives, culturelles, personnelles). La jurisprudence exige seulement une limitation de la pratique, pas une impossibilité totale.]*
 
 **Définition :** Répare l'impossibilité ou la limitation de pratiquer des loisirs (guitare, projets personnels de codage, développement personnel).
@@ -299,6 +303,7 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 <hr><hr>
 
 ## III.7 — PEP — Préjudice Esthétique Permanent
+
 > Note : Pédagogique : Le PEP indemnise le préjudice d'ordre esthétique permanent (cicatrice, difformité visible). Il est évalué selon un barème de 0 à 7, avec des fourchettes correspondantes dans le référentiel Mornet.]*
 
 **Définition :** Cicatrice palmaire de 8,5 cm, visible et définitive.
@@ -309,6 +314,7 @@ Ce poste avait été omis dans le dossier initial.
 <hr><hr>
 
 ## III.8 — DEP — Dévalorisation Professionnelle Future
+
 > Note : Pédagogique : Le DEP est un poste distinct de l'Incidence Professionnelle. Il indemnise la perte de valeur sur le marché du travail due aux séquelles visibles ou handicapantes, distincte de l'IP qui couvre l'incidence professionnelle stricto sensu (perte de clientèle, pénibilité accrue).]*
 
 **Définition :** Perte de valeur sur le marché du travail due aux séquelles visibles ou handicapantes.
@@ -467,26 +473,31 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 ## IV.7 — ORDRE DES ACTIONS RECOMMANDÉ
 
 ### Phase 1 — Urgence (été 2026)
+
 1. Relancer enquête pénale pour identifier assureur RC
 2. Préparer dossier expertise 12 novembre 2026
 3. Conserver tous justificatifs
 
 ### Phase 2 — Référé (avant expertise)
+
 4. Assigner SAS + dirigeants en référé-provision (15 000 €)
 5. Demander communication contrats d'assurance
 
 ### Phase 3 — Post-expertise (nov. 2026 - janv. 2027)
+
 6. Réception rapport expertise
 7. Chiffrage définitif des préjudices
 8. Négociation amiable avec assureur (si identifié)
 9. Assignation au fond
 
 ### Phase 4 — Si insolvabilité confirmée (début 2027)
+
 10. Saisine CIVI du TJ de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md)
 11. Demande indemnisation FGTI (réparation intégrale)
 12. Constitution partie civile
 
 ### Phase 5 — Substitution (mi 2027)
+
 13. Le FGTI indemnise la victime
 14. Le FGTI exerce recours subrogatoire
 15. Le SARVI intervient si condamnation pénale non exécutée

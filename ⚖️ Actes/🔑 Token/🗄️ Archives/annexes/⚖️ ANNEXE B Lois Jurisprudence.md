@@ -141,6 +141,7 @@ statut: annexe
 <hr><hr>
 
 ## DOCTRINE — ACCIDENTS EN SALON DE COIFFURE
+
 • **[Article Me J. Plouton — TJ Bordeaux, 4 novembre 2024 (RG 22/05793)](https://www.jplouton-avocat.fr/post/indemnisation-d-une-cliente-brul%C3%A9e-au-cuir-chevelu-lors-d-une-coloration-dans-un-salon-de-coiffure)**
   Indemnisation de 13 913 € pour une cliente brûlée au cuir chevelu lors d'une coloration dans un salon de coiffure. L'article détaille les postes de préjudice retenus et confirme la tendance jurisprudentielle à retenir la responsabilité du professionnel pour défaut de sécurité.
 

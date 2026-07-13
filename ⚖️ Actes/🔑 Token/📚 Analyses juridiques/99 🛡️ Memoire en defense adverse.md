@@ -22,6 +22,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/99 🛡️ Memoire en defens
 **Pour :** [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) (Partie Défenderesse)
 **Contre :** [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) (Partie Demanderesse)
 ## INTRODUCTION
+
 Le présent mémorandum est établi pour la défense des intérêts de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et de ses dirigeants, assignés en référé-provision par Monsieur [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) suite à un incident survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure.
 
 La partie demanderesse réclame une provision de [**[Finance Provision Référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) sur le fondement de l'article 835 alinéa 2 du Code de procédure civile, alléguant que l'obligation ne serait pas sérieusement contestable.
@@ -36,6 +37,7 @@ Or, une analyse rigoureuse des pièces du dossier démontre l'existence de conte
 ## I — SUR L'EXISTENCE DE CONTESTATIONS SÉRIEUSES (ART. 835 CPC)
 
 ### A. Une carence probatoire manifeste sur les circonstances
+
 La demanderesse allègue que l'accident aurait été causé par le basculement d'une vasque en céramique présentant une « cassure préexistante ». Cependant, **aucune preuve objective et irréfutable** n'est rapportée :
 
 #### 1. Absence de constat d'huissier 
@@ -50,6 +52,7 @@ Le PV de police n°[N° PV Police], sur lequel s'appuie la victime, comporte des
 De plus, les certificats médicaux initiaux faisaient état d'une ITT de 1 jour, inexplicablement portée à 56 jours par la suite, avec des incohérences sur la date de l'accident (29/06/2026 au lieu de 29/05/2026 sur certains documents).
 
 ### B. La faute de la victime comme cause d'exonération
+
 La victime reconnaît elle-même avoir « tendu la main droite par réflexe » et avoir volontairement interagi avec la chose (le meuble). Cette intervention active, précipitée et inopportune de la victime constitue une faute d'imprudence au sens de l'article 1241 du Code civil.
 
 > *« Chacun est responsable du dommage qu'il a causé non seulement par son fait, mais encore par sa négligence ou par son imprudence. »* <br>
@@ -79,6 +82,7 @@ Il n'y a ici aucune intention de nuire ni aucune infraction pénale intentionnel
 La demande de provision de [**[Finance Provision Référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md), fondée sur un préjudice global fantaisiste évalué par la partie adverse à près de 105 000 €, se heurte à des obstacles médico-légaux majeurs.
 
 ### A. L'absence de consolidation de la victime
+
 Il est constant qu'à ce jour, **aucun certificat de consolidation** n'a été produit par la victime (qui admet elle-même que son état n'est pas consolidé). En droit de la réparation du dommage corporel, les postes de préjudices permanents ne peuvent naître ni être chiffrés avant la consolidation.
 
 En conséquence, la demande indemnitaire au titre du DFP (Déficit Fonctionnel Permanent) évaluée à 31 200 € est irrecevable et prématurée.

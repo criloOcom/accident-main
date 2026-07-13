@@ -37,6 +37,7 @@ jx: J+43
 <hr><hr>
 
 ## II — SYNTHESE FINANCIERE
+
 | Lot | Nb LRAR | Cout unitaire | Total |
 |-----|---------|---------------|-------|
 | Vague 1 (11/07) : 12-14-19-35 | 4 | ~7,50 € | ~30,00 € |
@@ -45,6 +46,7 @@ jx: J+43
 <hr><hr>
 
 ## III — LEGENDE
+
 | Symbole | Signification |
 |---------|--------------|
 | A envoyer | Courrier prepare, envoi pas encore effectue |

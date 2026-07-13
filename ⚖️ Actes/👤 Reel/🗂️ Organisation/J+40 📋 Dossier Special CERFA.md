@@ -53,6 +53,7 @@ Conformément à l'Article 202 du Code de procédure civile, ce document permet 
 [J+32 📋 Attestation Employe.md](../%E2%9C%89%EF%B8%8F%20Courriers/J%2B32%20%F0%9F%93%8B%20Attestation%20Employe.md) (Email de relance : [28 📧 Attestation Employe.md](../%E2%9C%89%EF%B8%8F%20Courriers/J%2B38%20%F0%9F%93%A7%20Attestation%20Employe.md))
 
 ### B. Pièce obligatoire à joindre
+
 - Une copie recto-verso d'une pièce d'identité officielle du témoin comportant sa signature (Carte Nationale d'Identité, Passeport, ou Titre de séjour).
 <hr><hr>
 
@@ -61,6 +62,7 @@ Conformément à l'Article 202 du Code de procédure civile, ce document permet 
 Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infractions afin d'obtenir du **FGTI** le versement de provisions ou de l'indemnisation définitive suite aux blessures involontaires subies.
 
 ### A. Conditions d'éligibilité pour Sébastien
+
 - **Nature des faits** : Blessures involontaires par manquement délibéré ou négligence (caractère pénal de l'accident).
 
 - **Seuil d'ITT** : Sébastien présente une ITT continue de **56 jours**, ce qui dépasse largement le critère légal de **30 jours** (1 mois) d'ITT requis pour la saisine.
@@ -68,6 +70,7 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 - **Nationalité/Lieu** : Victime française, accident survenu en France.
 
 ### B. Pièces justificatives requises pour la requête
+
 1. Le formulaire **CERFA n° 16160*01** dûment rempli, daté et signé.
 
 2. Une copie du dépôt de plainte et du Procès-Verbal de police n° [2026/015967](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
@@ -88,6 +91,7 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 Si Sébastien souhaite solliciter l'aide de l'État pour couvrir les frais de justice (avocat pour les audiences de référé, huissier pour le constat physique du salon, médecin-conseil ou expert judiciaire), il peut déposer ce formulaire.
 
 ### A. Conditions d'accès (Aide Juridictionnelle)
+
 - L'attribution dépend du **Revenu Fiscal de Référence (RFR)** figurant sur le dernier avis d'imposition du demandeur.
 
 - Les plafonds de ressources sont revalorisés annuellement. Si les ressources mensuelles ou le RFR sont inférieurs aux limites fixées, l'aide est accordée à 100% ou à un taux partiel (55% ou 25%).

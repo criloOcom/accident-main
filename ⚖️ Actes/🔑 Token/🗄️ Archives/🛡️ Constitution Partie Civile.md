@@ -27,6 +27,7 @@ drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 > 🔗 Source Google Drive : [1tdFbDxNceGV…](https://drive.google.com/open?id=1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc)
 Rédigé le **[J+32 Assignation référé]**
 ## INTRODUCTION
+
 La présente constitution de partie civile est formée par **[La Victime]** dans le cadre de la procédure pénale suivie devant le Tribunal Correctionnel de **[La Ville de l'Accident]** à l'encontre de **[L'Exploitant du Commerce (La SAS)]**.
 
 Par cet acte, fondé sur les articles 2 et suivants du Code de procédure pénale, la victime entend exercer les droits reconnus à la partie civile afin d'obtenir la réparation de l'intégralité des préjudices découlant de l'accident corporel dont elle a été victime le **[J+0 Accident]** : alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé ; par réflexe, **[La Victime]** a tendu la main droite pour protéger **[Le Préposé de l'Exploitation]**, et sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.

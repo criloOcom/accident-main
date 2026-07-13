@@ -42,10 +42,12 @@ Ref : Accident du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%
 
 Madame, Monsieur,
 ## INTRODUCTION
+
 La presente est adressee a vos services par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) afin de vous informer de l'etat d'avancement des procedures judiciaires engagees a la suite de l'accident corporel grave dont j'ai ete victime le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), et de vous transmettre les elements actualises necessaires au suivi de mon dossier de recours contre tiers n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
 <hr><hr>
 
 ## I — RAPPEL DU DOSSIER
+
 Mon dossier de recours contre tiers a ete ouvert par vos services le [**[J+5 Ouverture CPAM]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-5-ouverture-cpam.md) sous le numero **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**, suite a l'accident corporel survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md).
 
 L'accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte mis a disposition par l'employeur. Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main le [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md).
@@ -54,6 +56,7 @@ Mon ITT a ete evaluee a 56 jours (du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%
 <hr><hr>
 
 ## II — PROCEDURES JUDICIAIRES ENGAGEES
+
 A ce jour, les procedures suivantes ont ete engagees :
 
 1. **Phase amiable** (29 mai 2026) : Mises en demeure LRAR adressees a la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et a ses dirigeants, restees sans reponse a ce jour.
@@ -70,6 +73,7 @@ A ce jour, les procedures suivantes ont ete engagees :
 <hr><hr>
 
 ## III — BORDEREAU RECAPITULATIF DES PIECES
+
 Conformement a l'article L.376-1 du Code de la securite sociale, je vous transmets par la presente l'etat actualise des pieces constitutives de mon dossier :
 
 > *« Lorsque, sans entrer dans les cas régis par les dispositions législatives applicables aux accidents du travail, la lésion dont l'assuré social ou son ayant droit est atteint est imputable à un tiers, l'assuré ou ses ayants droit conserve contre l'auteur de l'accident le droit de demander la réparation du préjudice causé, conformément aux règles du droit commun, dans la mesure où ce préjudice n'est pas réparé par application du présent livre ou du livre Ier.*
@@ -140,6 +144,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 <hr><hr>
 
 ## IV — DEMANDE
+
 Je sollicite de vos services :
 
 **1. La confirmation de la bonne reception** des elements transmis par la presente et leur integration a mon [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.

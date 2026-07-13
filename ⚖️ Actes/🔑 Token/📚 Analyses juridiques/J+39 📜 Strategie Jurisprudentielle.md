@@ -22,6 +22,7 @@ source: local
 > **Objet** : Mapping des arrêts de la Cour de cassation au cas concret, hiérarchie argumentative et préparation des débats.
 ## I — LES 3 PILIERS DE LA DÉMONSTRATION
 ### PILIER 1 — LA CHOSE A ÉTÉ L'INSTRUMENT DU DOMMAGE (ART. 1242 AL.1)
+
 | Élément à prouver | Notre preuve | Arrêt de référence |
 |-------------------|-------------|-------------------|
 | Basculement de la chose = rôle actif | PV de police — la vasque a basculé et s'est brisée | **[89-18.422](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md)** (Civ. 2e, 13 fév. 1991) : échelle qui bascule → instrument du dommage |
@@ -29,12 +30,14 @@ source: local
 | Position anormale | Bac douche conçu pour lavage, pas pour supporter le poids d'un adulte en hauteur | **[91-13.580](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/91-13.580_CourCassation.md)** (Civ. 2e, 25 nov. 1992) définit la position anormale comme critère à prouver |
 
 ### PILIER 2 — LE VICE INHÉRENT N'EXONÈRE JAMAIS LE GARDIEN
+
 | Argument défense attendu | Réponse juridique | Arrêt |
 |--------------------------|-------------------|-------|
 | "La vasque s'est brisée parce qu'elle était déjà fissurée" | Le vice inhérent **n'est pas** une cause d'exonération | **[74-10.466](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/74-10.466_CourCassation.md)** (Civ. 2e, 5 mai 1975) |
 | "Le défaut était indécelable" | La gardienne assume les conséquences du vice, même invisible | Même arrêt — la pourriture du collet de l'arbre n'était pas visible |
 
 ### PILIER 3 — LE COMMETTANT RÉPOND DU PRÉPOSÉ (ART. 1242 AL.5)
+
 | Situation | Principe | Arrêt |
 |-----------|----------|-------|
 | Le préposé monte sur la vasque pour régler la télévision | Le commettant répond des fautes du préposé dans l'exercice de ses fonctions | **Civ. 2e, 14 juin 1957** (n° pourvoi non retrouvé — fondement historique, se référer à Costedoat ci-contre pour la version moderne) |
@@ -44,17 +47,20 @@ source: local
 
 ## II — HIÉRARCHIE ARGUMENTATIVE (ORDRE DE PLAIDOIRIE)
 ### ARGUMENTS OFFENSIFS (À METTRE EN AVANT)
+
 1. **89-18.422** : Le cas est quasi identique. Échelle installée par un préposé → basculement → responsabilité du gardien. C'est notre arrêt de **tête**.
 2. **74-10.466** : Verrouillage de la défense « vice inhérent ». La fissure préexistante ne décharge pas le gardien. À citer systématiquement en réponse à l'argument de la cassure.
 3. **91-15.035** : La preuve est rapportée (constat d'huissier + PV police). L'arrêt pose la règle mais dans notre cas la condition est remplie.
 
 ### ARGUMENTS DÉFENSIFS (À DISTINGUER)
+
 4. **91-13.580** : La barrière conforme aux normes n'a pas été l'instrument → notre vasque n'était pas conforme (cassure).
 5. **24-21.702** : L'échelle n'a pas basculé selon les témoins → notre PV police établit le basculement.
 6. **70-12.124** : Baignoire exposée à la vente sans obligation de scellement → notre vasque était installée à demeure sur coque de douche.
 <hr><hr>
 
 ## III — TABLEAU DE CORRESPONDANCE ARRÊT → FAIT CONCRET
+
 | Arrêt | Fait de l'arrêt | Transposition à notre cas | Utilité |
 |-------|-----------------|--------------------------|---------|
 | 89-18.422 | Échelle posée par préposé bascule → blesse un employé d'une autre société | Vasque fixée par le commerçant, le préposé monte dessus → basculement et blessure du client | **Pilier 1** : quasi-identité factuelle |
@@ -68,6 +74,7 @@ source: local
 <hr><hr>
 
 ## IV — ANTICIPATION DES MOYENS DE LA DÉFENSE
+
 | Moyen attendu | Réponse |
 |---------------|---------|
 | « La victime a fauté en se trouvant sur le lieu du travail » | La victime était cliente dans un salon de coiffure, pas sur une zone technique — aucune faute |
@@ -78,6 +85,7 @@ source: local
 <hr><hr>
 
 ## V — SYNTHÈSE DES FORCES ET FAIBLESSES
+
 **Forces** :
 - Arrêt de tête quasi identique (89-18.422)
 - Vice inhérent verrouillé (74-10.466)
@@ -92,6 +100,7 @@ source: local
 
 ## VI — STRATÉGIE FINANCIÈRE ET RECOUVREMENT
 ### MONTANT ESTIMÉ : ~105 000 €
+
 | Poste | Montant | Base |
 |---|---|---|
 | PGPA | 1 900 € | 750/30×56 + perte de chance |
@@ -108,12 +117,14 @@ source: local
 Voir détails : [11+12 📊 Evaluation Dintilhac consolidee.md](../%F0%9F%92%B0%20Etudes%20indemnisation/J%2B39%20%F0%9F%93%8A%20Evaluation%20Dintilhac%20Consolidee.md)
 
 ### QUI PAIE ?
+
 1. **Assureur RC** (si identifié) → action directe L.124-3 C. Assurances
 2. **FGTI/CIVI** → voie principale si insolvabilité (capital 200 €). Art. 706-3 CPP.
 3. **Dirigeants** → faute détachable (subsidiaire)
 4. **SARVI** → si décision pénale non exécutée
 
 ### PROVISION À DEMANDER EN RÉFÉRÉ
+
 **Proposition : 15 000 €**
 - PGPA : 1 400 €
 - DFT : 1 400 €
@@ -125,6 +136,7 @@ Fondement : art. 835 al.2 CPC — obligation non sérieusement contestable.
 <hr><hr>
 
 ## VII — RÉFÉRENCES CROISÉES
+
 - Fiches jurisprudence : [70-12.124](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/70-12.124_CourCassation.md), [74-10.466](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/74-10.466_CourCassation.md), [89-18.422](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md), [91-13.580](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/91-13.580_CourCassation.md), [91-15.035](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/91-15.035_CourCassation.md), [24-21.702](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/24-21.702_CourCassation.md)
 - Note responsabilités légales : [13 📜 Responsabilites legales.md](J%2B32%20%F0%9F%93%9C%20Analyse%20Responsabilites%20Legales.md)
 - Évaluation financière : [11+12 📊 Evaluation Dintilhac consolidee.md](../%F0%9F%92%B0%20Etudes%20indemnisation/J%2B39%20%F0%9F%93%8A%20Evaluation%20Dintilhac%20Consolidee.md)

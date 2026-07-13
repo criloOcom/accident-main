@@ -21,10 +21,12 @@ jx: J+40
 
 # NOTE D'ANALYSE JURIDIQUE SPÉCIALE - DROIT DES ASSURANCES
 ## INTRODUCTION
+
 La présente note détaille la stratégie et l'analyse en droit des assurances concernant le litige opposant [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et ses dirigeants, suite à l'accident corporel survenu le 29 mai 2026. Elle aborde la validité de l'action directe, les risques d'exclusion, la prescription, et la stratégie pré-contentieuse d'obtention de provision.
 <hr><hr>
 
 ## I — ÉTAT DE L'ACTION DIRECTE (ART. L.124-3 C. ASSUR.)
+
 Le principe de l'action directe permet à la victime d'agir directement contre l'assureur de responsabilité civile de l'auteur du dommage, sans passer par le patrimoine de ce dernier.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
@@ -45,6 +47,7 @@ L'obstacle actuel réside dans la rétention d'informations par [Sabir MOUNTASSE
 <hr><hr>
 
 ## II — RISQUES D'EXCLUSION DE GARANTIE (ART. L.113-1 C. ASSUR.)
+
 En matière d'assurance de responsabilité civile, les pertes et dommages occasionnés par un cas fortuit ou causés par la faute de l'assuré sont à la charge de l'assureur. Seule la faute intentionnelle ou dolosive est exclue de plein droit.
 
 > *« Les pertes et les dommages occasionnés par des cas fortuits ou causés par la faute de l'assuré sont à la charge de l'assureur, sauf exclusion formelle et limitée contenue dans la police. Toutefois, l'assureur ne répond pas des pertes et dommages provenant d'une faute intentionnelle ou dolosive de l'assuré. »* <br>
@@ -55,6 +58,7 @@ En matière d'assurance de responsabilité civile, les pertes et dommages occasi
 <hr><hr>
 
 ## III — DÉCLARATION DE SINISTRE ET MISE EN DEMEURE (ART. L.113-2 C. ASSUR.)
+
 L'assuré a l'obligation stricte de déclarer le sinistre.
 
 > *« L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. »* <br>
@@ -65,6 +69,7 @@ L'assuré a l'obligation stricte de déclarer le sinistre.
 <hr><hr>
 
 ## IV — PRESCRIPTION : ART. L.114-1 VS ART. 2226 C. CIV.
+
 Le délai de prescription en droit des assurances est un piège classique, mais inapplicable à la victime corporelle directe.
 
 > *« Toutes actions dérivant d'un contrat d'assurance sont prescrites par deux ans à compter de l'événement qui y donne naissance. »* <br>
@@ -81,6 +86,7 @@ Ainsi, la prescription de notre action directe est strictement de **dix ans** à
 <hr><hr>
 
 ## V — OFFRE DE L'ASSUREUR ET STRATÉGIE TRANSACTIONNELLE
+
 Contrairement à la loi Badinter (L.211-9), la loi n'impose pas de délai strict pour une offre en responsabilité civile générale. Néanmoins, l'obligation de bonne foi contractuelle et la jurisprudence forcent les assureurs à examiner les demandes promptement.
 
 **Stratégie de provision avant audience :** Obtenir une provision amiable de 15 000 € avant le référé est complexe face à un assureur qui n'est pas encore identifié ni forcé au dialogue. Toutefois, la menace imminente d'une condamnation in solidum sous astreinte (article 145 CPC) et le coût des frais d'expertise judiciaire constituent un levier pour la négociation pré-contentieuse.
@@ -89,6 +95,7 @@ Le montant de compromis validé en interne s'élève à **~85 000 €**, justifi
 <hr><hr>
 
 ## VI — ARTICULATION AVEC LE RÉFÉRÉ (ART. 835 CPC)
+
 L'action directe fonde la demande en référé-provision à l'encontre de l'assureur, dès lors que l'obligation d'indemniser n'est pas sérieusement contestable.
 
 > *« Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
@@ -99,6 +106,7 @@ Dès l'assureur identifié (suite à l'ordonnance Article 145), il sera mis en c
 <hr><hr>
 
 ## VII — RECOURS SUBROGATOIRE ET ASSURANCES DU DIRIGEANT
+
 Après indemnisation, l'assureur de la SAS peut, par l'effet de la subrogation légale, se retourner contre les dirigeants ([Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md)) s'il démontre l'existence d'une faute intentionnelle ou d'une faute personnelle détachable de leurs fonctions (dissimulation d'assurance, maintien fautif d'équipements dangereux).
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>

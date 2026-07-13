@@ -37,6 +37,7 @@ source: drive
 # STRATEGIE CONTENTIEUX PENAL
 Rédigé le **[J+36 Lettre consolidation]**
 ## I — PRÉSENTATION
+
 Le 29 mai 2026, Sébastien GRAZIDE, informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par SAS LES MAUVAIS GARCONS (SAS LES MAUVAIS GARCONS, SIRET 938 033 222 00010), situé 22 Rue Lafaurie, 09000 Foix.
 
 Alors que l'employé Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé.
@@ -48,6 +49,7 @@ Le contentieux pénal a pour objet de faire reconnaître la culpabilité de SAS 
 
 ## II — INFRACTIONS CONSTITUÉES
 ### 2.1 BLESSURES INVOLONTAIRES
+
 Faits : le 29 mai 2026, Sébastien GRAZIDE a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes, au sein de l'établissement exploité par SAS LES MAUVAIS GARCONS.
 
 Ces faits sont constitutifs de blessures involontaires ayant entraîné une incapacité totale de travail (ITT) prévisible inférieure ou égale à trois mois.
@@ -61,6 +63,7 @@ L'infraction est prévue et réprimée par [l'Article 222-20 du Code pénal](htt
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 
 ### 2.2 ABSENCE D'ASSURANCE RESPONSABILITÉ CIVILE PROFESSIONNELLE
+
 SAS LES MAUVAIS GARCONS n'a pas communiqué d'attestation d'assurance de responsabilité civile professionnelle malgré les relances amiables de Sébastien GRAZIDE.
 
 Cette absence d'assurance, si elle est confirmée, prive la victime de l'exercice de l'action directe contre l'assureur prévue à [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^3], et justifie une saisine du [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418[^1]734) sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI00004[^4]8442345), qui prévoit l'indemnisation des victimes d'infractions lorsque l'auteur n'est pas assuré.
@@ -79,6 +82,7 @@ Cette absence d'assurance, si elle est confirmée, prive la victime de l'exercic
 > **Code des assurances > Section VII : Pénalités.[^5]**
 
 ### 2.3 MISE EN DANGER DE LA VIE D'AUTRUI
+
 Le maintien en service d'un équipement dangereux (bac à shampoing instable dont la vasque en céramique présentait une cassure majeure tranchante non signalée) exposant directement le public à un risque immédiat de blessure pourrait caractériser l'infraction de mise en danger de la vie d'autrui prévue à [Article 223-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253)[^6].
 
 > *« Le fait d'exposer directement autrui à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
@@ -90,6 +94,7 @@ Cette qualification nécessite la démonstration d'une violation délibérée d'
 
 ## III — PROCÉDURE PÉNALE ENGAGÉE
 ### 3.1 SIGNALEMENT ADMINISTRATIF ET DÉPÔT DE PLAINTE
+
 Un signalement a été adressé à la préfecture par la Mairie de Foix dès le 1er juin 2026, selon le courriel de l'adjoint au maire (btavella@mairie-foix.fr) en date du 1er juin 2026 à 16h15. La Mairie y indiquait avoir pris l'attache des services de la préfecture pour diligenter l'inspection du travail et le CODAF.
 
 Sébastien GRAZIDE a parallèlement déposé une plainte officielle le 1er juin 2026 au commissariat de Foix, retranscrite sous la référence PV n° 2026/015967 [🔗 Pièce](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view). Un procès-verbal de constat a été établi le 2 juin 2026 [🔗 Pièce](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view).
@@ -97,6 +102,7 @@ Sébastien GRAZIDE a parallèlement déposé une plainte officielle le 1er juin 
 **Note :** À ce jour, aucun accusé de réception officiel ni numéro de suivi de la préfecture n'a été communiqué à Sébastien GRAZIDE. Les informations relatives à la saisine de la préfecture proviennent exclusivement du courriel de la Mairie de Foix.
 
 ### 3.2 CONSTITUTION DE PARTIE CIVILE
+
 Une constitution de partie civile a été formée par Sébastien GRAZIDE le 30 juin 2026 devant le Tribunal Correctionnel de Foix. Cette démarche, fondée sur les articles 2 et suivants du Code de procédure pénale, permet à Sébastien GRAZIDE de :
 
 - Participer activement à la procédure pénale
@@ -112,6 +118,7 @@ Une constitution de partie civile a été formée par Sébastien GRAZIDE le 30 j
 La constitution de partie civile peut être réalisée par déclaration au greffe avant l'audience, par courrier recommandé, ou directement à l'audience.
 
 ### 3.3 COMPLÉMENT DE PLAINTE POUR ABSENCE D'ASSURANCE
+
 Un complément de plainte a été déposé le 30 juin 2026 auprès du Procureur de la République près le Tribunal Judiciaire de Foix pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par SAS LES MAUVAIS GARCONS.
 
 Ce complément vise à porter à la connaissance de l'autorité judiciaire cette carence, qui constitue un obstacle à l'indemnisation de la victime et justifie, le cas échéant, la saisine du [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442[^4]345).
@@ -121,6 +128,7 @@ Ce complément vise à porter à la connaissance de l'autorité judiciaire cette
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^4]**
 
 ### 3.4 RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS
+
 Les dirigeants de SAS LES MAUVAIS GARCONS, à savoir Sabir MOUNTASSER (Président) et Catherine ANDISSAC (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales, ainsi que sur le fondement de [Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928)[^8].
 
 > *« Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. »* <br>
@@ -134,6 +142,7 @@ Les dirigeants de SAS LES MAUVAIS GARCONS, à savoir Sabir MOUNTASSER (Présiden
 Le défaut de souscription d'assurance responsabilité civile professionnelle constitue une faute d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales, caractérisant une faute détachable engageant la responsabilité personnelle des dirigeants sur leurs biens propres.
 
 ### 3.5 INDEMNISATION PAR LE FGTI / CIVI
+
 L'absence d'assurance de SAS LES MAUVAIS GARCONS et son insolvabilité éventuelle justifient la mise en œuvre de la voie indemnitaire subsidiaire prévue aux [articles 706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)[^11] et suivants du Code de procédure pénale.
 
 Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] indemnise les victimes de dommages corporels résultant d'une infraction pénale lorsque l'auteur n'est pas assuré et que la réparation ne peut être obtenue à un autre titre.
@@ -161,6 +170,7 @@ Cette voie est indépendante de l'action pénale principale : la victime peut sa
 <hr><hr>
 
 ## IV — CALENDRIER PROCÉDURAL
+
 | Phase | Action | Échéance |
 |-------|--------|----------|
 | Enquête préliminaire | Constats, auditions, procès-verbal | Mai — Juin 2026 |
@@ -172,6 +182,7 @@ Cette voie est indépendante de l'action pénale principale : la victime peut sa
 <hr><hr>
 
 ## V — RÉCAPITULATIF DES PIÈCES
+
 Pièces pénales :
 - 1 juin 2026 — Foix Police — Dépôt de plainte officiel [🔗 Voir](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
 - 2 juin 2026 — Foix Police — Procès-verbal constat n°2026/015967 [🔗 Voir](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view)

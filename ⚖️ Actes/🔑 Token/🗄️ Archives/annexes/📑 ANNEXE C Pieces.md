@@ -13,6 +13,7 @@ statut: annexe
 
 # ANNEXE C<br>LISTE DES PIÈCES
 ## PIÈCES MÉDICALES
+
 - **[J+0 Accident]** — **[Le Médecin en Urgence]** — Premiers soins urgence — [🔗 Drive](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view)
 - **[J+0 Accident]** — **[Le Médecin en Urgence]** — Prescription médicale — [🔗 Drive](https://drive.google.com/file/d/16ZtYjUZW0dmH0UPrHQG9bLlpWdOwflcA/view)
 - **[J+0 Accident]** — Pharmacie de **[La Ville de l'Accident]** — Facture médicaments — [🔗 Drive](https://drive.google.com/file/d/17O_oFwJhrsQBsmEjaw8xjDlgVSYY8Iu9/view)
@@ -26,10 +27,12 @@ statut: annexe
 <hr><hr>
 
 ## PIÈCES FINANCIÈRES
+
 - **[J+0 Accident]** — Wero — Preuves paiement / remboursement prestation
 <hr><hr>
 
 ## PIÈCES PÉNALES
+
 - **[J+3 Premiers arrêts]** — **[La Ville de l'Accident]** Police — Dépôt de plainte officiel — [🔗 Drive](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
 - **[J+4 Dépôt de plainte]** — **[La Ville de l'Accident]** Police — Procès-verbal constat n°**[N° PV Police]** — [🔗 Drive](https://drive.google.com/file/d/18RdOzvO3Xwp1SVcsCdGDiY6RLQmWoHAnxJXnkQnomXs/view)
 - **[J+4 Dépôt de plainte]** — **[La Ville de l'Accident]** Police — Constitution Partie Civile — [🔗 Drive](https://drive.google.com/file/d/1zKC1OYRHYvz9Fy669yX_IcmLXiCOVOYu/view)
@@ -37,6 +40,7 @@ statut: annexe
 <hr><hr>
 
 ## PIÈCES ADMINISTRATIVES
+
 - **[J+5 Ouverture CPAM]** — CPAM Haute-Garonne — Dossier RCT **[N° Dossier CPAM]** — [🔗 Drive](https://drive.google.com/file/d/1mTGqygF0mS0Y5Yx-kRg3bM-7HHTajZqJ/view)
 - **[J+3 Premiers arrêts]** — INSEE — Avis de situation SAS — [🔗 Drive](https://drive.google.com/file/d/15PjlKa0QWpBOWtz7gpNa-PooxcHl4tPP/view)
 - **[J+3 Premiers arrêts]** — INPI — Fiche identité SAS — [🔗 Drive](https://drive.google.com/file/d/1ALpMIfxOZ65LGw_p__r7p9Lc2m7EeiWv/view)
@@ -45,6 +49,7 @@ statut: annexe
 <hr><hr>
 
 ## PIÈCES DE PROCÉDURE
+
 - **[J+31 Mises en demeure]** — **[La Victime]** — Mise en demeure **[L'Exploitant du Commerce (La SAS)]** — [🔗 Drive](https://drive.google.com/file/d/1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn/view)
 - **[J+31 Mises en demeure]** — **[La Victime]** — Mise en demeure **[Le Président de l'Exploitation]** — [🔗 Drive](https://drive.google.com/file/d/1U4kH6sTpR0oN3ZaS7vJ2wLgE5fX8cD9A/view)
 - **[J+31 Mises en demeure]** — **[La Victime]** — Mise en demeure **[La Directrice Générale de l'Exploitation]** — [🔗 Drive](https://drive.google.com/file/d/1V5lI7tUqS1pO4AbT8wK3xMgF6gY9dE0B/view)
@@ -52,6 +57,7 @@ statut: annexe
 <hr><hr>
 
 ## PREUVES RECOMMANDÉS
+
 - **[J+31 Mises en demeure]** — La Poste — AR n°1A 182 166 1031 7
 - **[J+31 Mises en demeure]** — La Poste — AR n°1A 182 166 1032 4
 - **[J+31 Mises en demeure]** — La Poste — AR n°1A 182 166 1033 1

@@ -36,6 +36,7 @@ drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
 > 🔗 Source Google Drive : [1AO7GLNpbNGa…](https://drive.google.com/open?id=1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU)
 Rédigé le 30 juin 2026
 ## INTRODUCTION
+
 Le présent rapport d'expertise juridique a été établi par Sébastien GRAZIDE afin d'évaluer l'étendue et la qualification juridique des préjudices corporels subis à la suite de l'accident du 29 mai 2026. Ce document procède à une analyse détaillée de chaque poste de préjudice selon la nomenclature Dintilhac, en s'appuyant sur les pièces médicales et administratives versées au dossier. L'évaluation est fondée sur les [articles 1240 et 1231-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1], ainsi que sur la jurisprudence constante de la Cour de cassation en matière de réparation intégrale. Chaque citation est présentée et interprétée de bonne foi, étant précisé que seuls les tribunaux ont autorité pour trancher définitivement les questions de droit soulevées.
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
@@ -46,6 +47,7 @@ Le 30 juin 2026
 <hr><hr>
 
 ## I — INTRODUCTION ET CONTEXTE
+
 Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de Sébastien GRAZIDE (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi 29 mai 2026 à 15h00.
 
 L'incident s'est produit au sein de l'établissement « SAS LES MAUVAIS GARCONS » (ci-après désigné "L'Exploitant"), exploité par une SAS dont la direction est assurée par Sabir MOUNTASSER et Catherine ANDISSAC.
@@ -58,6 +60,7 @@ Cette analyse s'appuie sur le principe de la réparation intégrale, visant à r
 <hr><hr>
 
 ## II — ANALYSE DES FAITS GÉNÉRATEURS DE RESPONSABILITÉ
+
 L'accident trouve son origine dans la manœuvre imprudente d'un employé préposé monté sur un bac à shampoing, entraînant le basculement soudain de cet équipement lourd.
 
 En tentant instinctivement de retenir le meuble pour éviter une chute plus grave, la main droite de Sébastien GRAZIDE a percuté une vasque en céramique avec cassure préexistante. Les arêtes tranchantes de la vasque ont causé des lésions profondes.
@@ -72,6 +75,7 @@ Il est à noter que l'établissement a procédé à un remboursement de 15 €, 
 <hr><hr>
 
 ## III — BILAN MÉDICAL ET PRÉJUDICES IDENTIFIÉS
+
 Après une prise en charge initiale par Dr Julie JARDON au SMUR 09, Sébastien GRAZIDE a été transférée en urgence clinique pour une microchirurgie réalisée le 30 mai 2026 par Le Chirurgien SOS Main.
 
 Le bilan clinique révèle une section partielle du tendon fléchisseur superficiel de l'index droit, une section complète du paquet collatéral ulnaire et radial, ainsi qu'une neurolyse du nerf collatéral palmaire.
@@ -83,6 +87,7 @@ Pour un informaticien indépendant dont la main droite est la main dominante, ce
 
 ## IV — STRATÉGIE DE RECOURS ET FONDEMENTS JURIDIQUES
 ### A. ACTION DIRECTE CONTRE L'ASSUREUR ET SURVIE DE LA PERSONNALITÉ MORALE
+
 La stratégie privilégie l'exercice de l'action directe contre L'Assureur de responsabilité civile de SAS LES MAUVAIS GARCONS, telle que prévue par [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^3].
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
@@ -98,6 +103,7 @@ Cette action est autonome et n'est pas affectée par une éventuelle radiation d
 > **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463[^4]**
 
 ### B. RESPONSABILITÉ DES DIRIGEANTS POUR FAUTE DÉTACHABLE
+
 La responsabilité personnelle des Dirigeants peut être engagée sur le fondement de la faute détachable des fonctions de direction. Selon la jurisprudence, le maintien en service d'un équipement manifestement dangereux dans un établissement recevant du public (ERP) sans protection adéquate caractérise une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales.
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
@@ -105,6 +111,7 @@ La responsabilité personnelle des Dirigeants peut être engagée sur le fondeme
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^5]**
 
 ### C. SITUATION JURIDIQUE DU PRÉPOSÉ
+
 Conformément à [l'arrêt Costedoat (Ass. Plén. 25 fév. 2000)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)[^6], le préposé bénéficie en principe d'une immunité civile.
 
 > Attendu : *« N'engage pas sa responsabilité civile à l'égard des tiers le préposé qui agit dans les limites de la mission à lui impartie par son commettant. »* <br>
@@ -124,6 +131,7 @@ Cette absence de substance financière de la société face à une éventuelle l
 <hr><hr>
 
 ## V — RECOMMANDATIONS ET CONCLUSION
+
 Il est impératif d'intégrer des réserves judiciaires pour d'éventuelles aggravations futures.
 
 > *« Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »* <br>
@@ -141,6 +149,7 @@ La capitalisation des dépenses de santé futures doit être exigée pour garant
 <hr><hr>
 
 ## CONCLUSION
+
 Le dossier présente des fondements juridiques solides.
 
 L'action directe contre L'Assureur, couplée à la mise en cause des Dirigeants pour faute détachable, assure une protection optimale de La Victime.
@@ -157,12 +166,15 @@ Dans ce dossier, les fondements juridiques sont solides :
 
 ## VI — LIMITES ET RÉSERVES SUR LA RECHERCHE JURISPRUDENTIELLE
 ### A. ABSENCE DE JURISPRUDENCE SPÉCIFIQUE
+
 Aucune décision de justice spécifique aux accidents impliquant des vasques en céramique dans des salons de coiffure n'a été trouvée dans les bases officielles (Judilibre, Légifrance). La stratégie recommandée consiste à s'appuyer sur la jurisprudence constante de la Cour de cassation concernant les principes généraux de responsabilité (art. 1240, 1242 C. civ.), l'action directe (art. L.124-3 C. assurances) et l'incidence professionnelle, sans rechercher une jurisprudence de fait inexistante.
 
 ### B. CONTRÔLE DES SOURCES EXTERNES
+
 Vérification Judilibre : les 5 arrêts cités par Mistral AI dans son analyse initiale ont été systématiquement vérifiés — 0 résultat (tous inexistants). Exemples : Cass. Crim. n°18-83.216, Cass. Civ. 1ère n°18-17.868, Cass. Civ. 2e n°19/05032, Cass. Civ. 1ère n°21-14.197, Cass. Civ. 2e n°18-19.307. Aucune citation jurisprudentielle ne doit être utilisée sans vérification préalable via Judilibre ou Légifrance.
 
 ### C. SOURCES DOCTRINALES IDENTIFIÉES
+
 Les seules références doctrinales spécifiques aux salons de coiffure sont :
 - **Me Plouton** (TJ Bordeaux, 4 novembre 2024) : indemnisation d'une cliente brûlée au cuir chevelu, 13 913 € — source doctrinale, pas jurisprudence officielle.
 - **Sylvie Personnic** (Village Justice) : responsabilité des salons de coiffure pour brûlures et réactions allergiques.

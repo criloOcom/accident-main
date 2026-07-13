@@ -1,6 +1,6 @@
 ---
 title: "STATUT D'AVANCEMENT — 13 juillet 2026"
-description: "- **Phase 21** Navigation Interactive Cross-Document : 1 766 liens relatifs créés (✅ TERMINÉ)"
+description: "- **Phase 23** Normalisation des sauts de ligne entre paragraphes : 80 fichiers Token + Reel (✅ TERMINÉ)"
 type: memory
 ---
 
@@ -13,6 +13,7 @@ type: memory
 
 > **Phase 21 ✅** Navigation Interactive Cross-Document — 1 766 liens relatifs créés
 > **Phase 22 ✅** Normalisation des séparateurs `<hr><hr>` et conventions de formatage
+> **Phase 23 ✅** Normalisation des sauts de ligne entre paragraphes — 80 fichiers Token + Reel (✅ TERMINÉ)
 >
 > ## Phase 21 — Navigation Interactive Cross-Document (13 juillet 2026) ✅ [TERMINÉ]
 
@@ -984,3 +985,23 @@ Unifier tous les séparateurs de section des fichiers `.md` au format `<hr><hr>`
 - **Subtitle edge case** : les `## (Article 40...)` après H1 étaient traités comme des sections de premier niveau → corrigé (exclusion des sous-titres)
 - **Breadcrumb preservation** : détection du commentaire breadcrumb par fenêtre ±5 lignes au lieu de `contains`
 - **1ère section cleanup** : suppression des `<hr>` résiduels avant la 1ère section (manquait dans la version initiale)
+
+---
+
+## Phase 23 — Normalisation des sauts de ligne entre paragraphes (13 juillet 2026) ✅ [TERMINÉ]
+
+### Objectif
+Normaliser les lignes vides (`\n\n`) entre chaque bloc de paragraphe dans tous les fichiers `.md` Token et Reel pour une lisibilité optimale en preview GitHub.
+
+### Actions réalisées
+1. **Création de `CONVENTIONS.md §XIII`** — règle des sauts de ligne entre paragraphes avec blocs concernés, exceptions et exemple visuel
+2. **Mise à jour de `DESIGN.md`** — ajout d'un bullet « Lignes vides entre paragraphes » dans les règles de formatage du corps
+3. **Mise à jour de `AGENTS.md`** — étape 4 du workflow création document : « ligne vide entre chaque bloc de paragraphe »
+4. **Création de `.dev/app/normalize_blank_lines.py`** — script en 3 patterns :
+   - **Pattern A** : paragraphe → `##`/`###` heading (ligne vide avant heading)
+   - **Pattern B** : `###` heading / `1. **Titre**` → `-` bullet (ligne vide avant bullet)
+   - **Pattern C** : `##`/`###` heading → contenu (ligne vide après heading)
+5. **Exécution sur Token** : 80 fichiers modifiés
+6. **Sync Reel** : exécution de `generate_real_versions.py` (50 fichiers générés)
+7. **Pipeline CONVENTIONS.md §XI** : ajout de `normalize_blank_lines.py` dans l'ordre d'exécution
+8. **Vérification** : `check_consistency.py` → tout cohérent

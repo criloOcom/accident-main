@@ -235,12 +235,13 @@ Généré automatiquement par `.dev/app/add_drive_links.py`.
 Après TOUTE création ou modification importante de fichiers `.md`, exécuter dans l'ordre :
 
 ```bash
-python3 .dev/app/normalize_sections.py --apply   # <hr><hr> entre sections
-python3 .dev/app/unify_headings.py --apply        # titres en chiffres romains
-python3 .dev/app/normalize_blocks.py --apply       # citations canoniques
-python3 .dev/app/dedup_citation_text.py --apply    # dédoublonnage
-python3 .dev/app/generate_real_versions.py         # sync Reel ← Token
-python3 .dev/app/check_consistency.py              # validation finale
+python3 .dev/app/normalize_sections.py --apply         # <hr><hr> entre sections
+python3 .dev/app/unify_headings.py --apply              # titres en chiffres romains
+python3 .dev/app/normalize_blank_lines.py               # lignes vides entre paragraphes
+python3 .dev/app/normalize_blocks.py --apply             # citations canoniques
+python3 .dev/app/dedup_citation_text.py --apply          # dédoublonnage
+python3 .dev/app/generate_real_versions.py               # sync Reel ← Token
+python3 .dev/app/check_consistency.py                    # validation finale
 ```
 
 Les caches (`__pycache__`, `.pytest_cache`) sont supprimés après exécution.
@@ -259,3 +260,45 @@ Les caches (`__pycache__`, `.pytest_cache`) sont supprimés après exécution.
 8. **Jamais d'article de loi dans les headings** (corps du texte seulement)
 9. **Jamais d'espace insécable** dans les liens ou chemins relatifs
 10. **Jamais de titre `#` en double** dans un même fichier
+
+<hr><hr>
+
+## XIII — SAUTS DE LIGNE ENTRE PARAGRAPHES
+
+### Règle
+Tout bloc de texte DOIT être séparé du bloc précédent par **une ligne vide** (`\n\n`), sauf exceptions ci-dessous.
+
+### Blocs concernés
+- Paragraphe → `##` / `###` heading
+- `###` heading → `-` bullet
+- `1. **Titre**` → `-` bullet
+- `**Titre gras:**` → blockquote `>`
+- Blockquote `>` → `##` heading
+- `##` heading → paragraphe
+
+### Exceptions (pas de ligne vide)
+1. **Headings consécutifs** : `## I — Section` suivi de `### A. Sous-section` — pas de vide
+2. **YAML front matter** : toujours lignes 1 à ~5, pas de vide interne
+3. **`<hr>` simple** après breadcrumb : formatage fixe
+4. **Blockquote multi-lignes** : lignes `>` consécutives sans vide = même citation
+5. **`<hr><hr>` séparateur** : déjà entouré de lignes vides par convention
+
+### Exemple visuel
+```markdown
+Texte du paragraphe.
+
+## I — SECTION
+
+### A. Sous-section
+### B. Sous-section
+
+1. **Titre**
+
+   - Premier élément
+   - Second élément
+
+**Fondement :**
+
+> « Citation... » <br>
+> [Article X](url)
+```

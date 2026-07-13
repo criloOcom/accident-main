@@ -41,6 +41,7 @@ Ref : Signalement effectue par la Mairie de [**[La Ville de l'Accident]**](../..
 
 Madame, Monsieur le Prefet,
 ## INTRODUCTION
+
 La presente est adressee a vos services par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), situe **[Adresse du Commerce]** a [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md).
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
@@ -49,6 +50,7 @@ Cet accident a ete cause par la chute brutale du prepose de l'exploitation depui
 <hr><hr>
 
 ## I — RAPPEL DES FAITS
+
 Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur. L'equipement, instable et presentant une cassure preexistante non signalee, a bascule sous le poids du prepose.
 
 Ma main droite, tendue par reflexe, a heurte la cassure preexistante, entrainant des lesions graves ayant necessite une microchirurgie d'urgence.
@@ -57,6 +59,7 @@ Ma main droite, tendue par reflexe, a heurte la cassure preexistante, entrainant
 <hr><hr>
 
 ## II — PROCEDURES EN COURS
+
 Plusieurs procedures ont ete engagees a ce jour :
 
 1. Depot de plainte au commissariat de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) (PV n° [**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes))
@@ -73,6 +76,7 @@ Plusieurs procedures ont ete engagees a ce jour :
 <hr><hr>
 
 ## III — SIGNALEMENTS TRANSMIS
+
 Il m'a ete indique par la Mairie de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) le 1er juin 2026 qu'un signalement avait ete effectue aupres de vos services et du CODAF. Je sollicite par la presente confirmation que ce signalement a bien ete reeu et instruit par vos services, et souhaite etre tenu informe des suites qui lui sont reservees.
 
 Je porte par ailleurs a votre connaissance les manquements suivants, constates dans cet ERP :
@@ -93,6 +97,7 @@ Je porte par ailleurs a votre connaissance les manquements suivants, constates d
 <hr><hr>
 
 ## IV — DEMANDE DE CONFIRMATION ET DE SUITE
+
 Je sollicite de vos services :
 
 1. La confirmation du signalement transmis par la Mairie le 1er juin 2026

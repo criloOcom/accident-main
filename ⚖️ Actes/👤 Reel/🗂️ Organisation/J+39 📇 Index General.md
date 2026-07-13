@@ -24,6 +24,7 @@ jx: J+39
 > 🔗 Source Google Drive : [1Zp-JK9kz0V0…](https://drive.google.com/open?id=1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU)
 Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) — Mis à jour le [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-mise-a-jour.md) (unification bordereau 43 pièces)
 ## INTRODUCTION
+
 *Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) c/ [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), à la suite de l'accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md). Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) et reflète l'état final de la composition du dossier.*
 
 *Structure finale au [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)*
@@ -34,6 +35,7 @@ Partage depuis : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F
 <hr><hr>
 
 ## 00 — PREUVES OFFICIELLES
+
 *(Documents physiques — dossier `📂 Preuves officielles/` en attente d'insertion)*
 
 - 2026-05-30 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) ✓ Vérifié : Compte rendu opératoire du [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) (microchirurgie [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md)).
@@ -44,6 +46,7 @@ Partage depuis : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F
 <hr><hr>
 
 ## 01 — ACTES PROCÉDURAUX
+
 - 2026-06-29 - 01 ⚖️ Assignation - V1 ✓ Vérifié : Projet d'assignation en référé-provision (5 000 €) fondé sur [Article 835 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)[^1].
 - 2026-06-01 - 02 🚔 Plainte - V1 ✓ Vérifié : Plainte complémentaire défaut assurance RC (victime agissant en qualité de client).
 - 2026-07-07 - 03 🔍 Assignation Article 145 - V1 ✓ Màj : Références pièces mises à jour (nouveau bordereau unifié).
@@ -56,6 +59,7 @@ Partage depuis : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F
 <hr><hr>
 
 ## 02 — COURRIERS
+
 - 2026-06-29 - 03 ✉️ Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
 - 2026-06-29 - 04 ✉️ Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^2].
 
@@ -88,6 +92,7 @@ Partage depuis : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F
 <hr><hr>
 
 ## 03 — ANALYSES JURIDIQUES
+
 - 2026-06-29 - 07 🎤 Plaidoirie dirigeants - V1 ✓ Vérifié : Analyse de la responsabilité pour faute détachable selon l'Arrêt SATI juridique invoquant [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^3] du Code civil
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 
@@ -106,6 +111,7 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 <hr><hr>
 
 ## 04 — ÉTUDES D'INDEMNISATION
+
 - 2026-07-07 - 11+12 📊 Evaluation Dintilhac consolidee - V2 ✓ Vérifié : Document consolidé unique (fusion des docs 11 et 12) — tous postes Dintilhac, comparaison Glose, stratégie de recouvrement, provision référé (~92 000 €, provision 15 000 €).
 
 > Attendu : *« Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »* <br>
@@ -113,6 +119,7 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 <hr><hr>
 
 ## 05 — ORGANISATION
+
 - 2026-06-01 - 10 🗂️ Plan action - V1 ✓ Vérifié : Plan d'action et chronologie de procédure.
 - 2026-07-05 - 11 📅 Calendrier procedural - V1 ✓ Vérifié : Calendrier procédural et échéances.
 - 2026-06-29 - 00 📇 Index (ce document) ✓ Vérifié : Index et structure du dossier.
@@ -120,6 +127,7 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 <hr><hr>
 
 ## MÉMOIRES D'AUDIT
+
 - [AUDIT_DATES.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/AUDIT_DATES.md) ✓ Vérifié : Audit de la chronologie des faits.
 - [AUDIT_MONTANTS.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/AUDIT_MONTANTS.md) ✓ Vérifié : Audit des calculs d'indemnisation.
 - [AUDIT_NOMS_RESIDUELS.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/AUDIT_NOMS_RESIDUELS.md) ✓ Vérifié : Vérification de l'anonymisation.
@@ -137,6 +145,7 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 <hr><hr>
 
 ## ARCHIVES
+
 Documents non indexés conservés dans `archives/` :
 
 - [archives/annexes/](archives/annexes/README.md) — [📚 ANNEXE A Lexique Tokens](archives/annexes/📚%20ANNEXE%20A%20Lexique%20Tokens.md), [⚖️ ANNEXE B Lois Jurisprudence](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%E2%9A%96%EF%B8%8F%20ANNEXE%20B%20Lois%20Jurisprudence.md), [📑 ANNEXE C Pièces](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%F0%9F%93%91%20ANNEXE%20C%20Pieces.md)
@@ -150,6 +159,7 @@ Documents non indexés conservés dans `archives/` :
 <hr><hr>
 
 ## MODIFICATIONS CLÉS
+
 1. [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-prepose-de-l-exploitation.md) -> [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) + [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) ✓
 1. Stratégie : faute détachable des dirigeants ✓
 2. Paragraphe faute détachable dans Assignation ✓
@@ -200,6 +210,7 @@ Documents non indexés conservés dans `archives/` :
 <hr><hr>
 
 ## STATISTIQUES DU DOSSIER (MÀJ **[J+38 MISE À JOUR]**)
+
 - Actes procéduraux : **7** (Assignation 01, Plainte 02, Constitution PC 02b, Assignation 145 03, Bordereau unifié 04, Conclusions 05, Constat Huissier 06)
 - Courriers/Gabarits : **24** (03-28, hors 10+17 supprimés)
 - Analyses juridiques : **5** (Plaidoirie 07, FAQ 09, Dossier Plaidoirie 12, Responsabilités 13, Stratégie 14)
@@ -215,6 +226,7 @@ Documents non indexés conservés dans `archives/` :
 <hr><hr>
 
 ## TRAVAUX RESTANTS
+
 1. **Audience de référé** — Planifier audience (date non fixée).
 2. **Injection Drive** — Mettre à jour les documents sur Drive avec le nouveau bordereau unifié.
 3. **Envoi LRAR** — Expédier les courriers 07, 09, 11, 12, 13, 14, 15, 16, 19 par LRAR électronique.

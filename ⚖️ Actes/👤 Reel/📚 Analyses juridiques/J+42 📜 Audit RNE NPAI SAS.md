@@ -15,6 +15,7 @@ jx: J+42
 
 # Analyse<br>Non-distribution LRAR et suspicion de structure miroir
 ## Sources vérifiées
+
 - Annuaire-entreprises.data.gouv.fr (INSEE)
 - Societe.com (RNE, mis à jour 08/07/2026)
 - Annonce JAL 14/11/2024 (création)
@@ -24,6 +25,7 @@ jx: J+42
 ## Constats
 
 ### 1. Statut officiel de [L'Exploitant du Commerce (La SAS)]
+
 | Champ | Valeur |
 |-------|--------|
 | SIREN | [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md) |

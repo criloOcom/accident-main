@@ -107,7 +107,7 @@ Le projet dispose d'un notebook **Google NotebookLM** dédié (`accident-main`) 
 1. Lire l'original (readDocument) → `/tmp/`
 2. Anonymiser (batch_anonymize.py) → `/tmp/`
 3. Vérifier noms résiduels
-4. Structurer en markdown (titres #, tokens **en gras**, sauts de ligne après points)
+4. Structurer en markdown (titres #, tokens **en gras**, **ligne vide entre chaque bloc de paragraphe**, sauts de ligne après points)
 5. Injecter dans Google Docs (replaceDocumentWithMarkdown)
 6. Appliquer styles (applyParagraphStyle JUSTIFIED, tailles police)
 7. Ajouter hyperliens juridiques (applyTextStyle linkUrl) + vérifier avec MCP Légifrance

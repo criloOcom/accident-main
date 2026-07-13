@@ -18,6 +18,7 @@ jx: J+32
 
 # 11 - CALENDRIER PROCÉDURAL
 ## I — ÉVÉNEMENTS PASSÉS
+
 | Date | ID | Événement | Catégorie | Statut |
 |---|---|---|---|---|
 | 26/01/1993 | EVT-31 | Arrêt (Jurisprudence) | Jurisprudence | Précédent juridique |
@@ -80,6 +81,7 @@ jx: J+32
 <hr><hr>
 
 ## II — ÉCHÉANCES À VENIR
+
 | Date | ID | Événement | Catégorie | Statut |
 |---|---|---|---|---|
 | [14 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-46-echeance-amiable.md) | EVT-15 | Échéance légale de mise en demeure | Échéance | À venir |
@@ -89,11 +91,13 @@ jx: J+32
 <hr><hr>
 
 ## III — SYNTHÈSE
+
 - **Total d'événements :** 61
 - **Événements passés :** 57 (dont 9 non datés)
 - **Échéances à venir :** 4
 
 ### DÉLAIS LÉGAUX ET CATÉGORIES- **Procédure :** 12
+
 - **Médical :** 26
 - **Correspondance :** 14
 - **Jurisprudence :** 5

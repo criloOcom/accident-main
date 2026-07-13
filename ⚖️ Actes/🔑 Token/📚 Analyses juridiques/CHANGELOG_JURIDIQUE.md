@@ -118,6 +118,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 Pour toute nouvelle référence juridique ajoutée au dossier :
 
 1. **Vérifier systématiquement sur :**
+
    - Légifrance (codes + jurisprudence)
    - OpenLegi (structure et état des codes)
 2. **Consigner dans ce fichier** toute correction « structurelle » :

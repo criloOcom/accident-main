@@ -40,6 +40,7 @@ jx: J+39
 *Défenderesse*
 ## I — EXPOSÉ DU LITIGE
 ### A. LE SINISTRE ET SES CONSÉQUENCES MATÉRIELLES
+
 Le **29 mai 2026**, aux environs de 15 heures, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), informaticien indépendant de 44 ans, se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
 
 Le coiffeur préposé de la défenderesse, dans l'exercice de ses fonctions et agissant par nécessité de service, est monté sur la vasque en céramique d'un bac à shampoing installé à demeure pour régler un poste de télévision, **faute d'avoir à sa disposition un équipement d'accès en hauteur** (escabeau, échelle ou marchepied).
@@ -141,10 +142,12 @@ L'obligation de la SAS envers la victime est établie par :
 - l'absence de tout élément de cause étrangère.
 
 ### B. CARACTÈRE URGENT
+
 Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 jours. En tant qu'informaticien indépendant, son activité repose exclusivement sur l'usage de sa main dominante. Ses frais médicaux sont réels et documentés. Les dirigeants de la SAS refusent toute coopération et n'ont pas communiqué les coordonnées de leur assureur RC Pro malgré demandes. Le capital social de la SAS (200 €) fait craindre une insolvabilité croissante si le recouvrement n'est pas accéléré.
 <hr><hr>
 
 ## III — DISPOSITIF
+
 **EN CONSÉQUENCE**, il est demandé au juge des référés :
 
 **PRINCIPALEMENT,**
@@ -211,6 +214,7 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 <hr><hr>
 
 ## NOTE DE RÉFÉRENCE
+
 Cette version a été rédigée à partir du mémoire juridique produit par l'assistant Glose (juillet 2026). Elle diffère de la version antérieure du 31 juillet 2026 sur les points suivants :
 
 | Point | Version antérieure | Version Glose | Version finale |

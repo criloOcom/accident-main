@@ -21,12 +21,14 @@ statut: archive
 
 **Déposant :** [Moi — mon identité]
 ## 🎯 **OBJET : PLAINTE COMPLÉMENTAIRE**
+
 **Infractions principales : BLESSURES INVOLONTAIRES (222-20 CP) / OBSTRUCTION À LA JUSTICE (434-4 CP) / TRAVAIL DISSIMULÉ (L.8221-1 CT)**
 <hr><hr>
 
 ## 📝 **EXPOSÉ DES FAITS**
 
 ### **1. Contexte initial ([PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))**
+
 Le 29 mai 2026, j'ai été victime d'un accident grave dans le salon de coiffure "LES MAUVAIS GARCONS" situé au 22 Rue Lafaurie, 09000 Foix, entraînant une section nerveuse et tendineuse de la main droite nécessitant une intervention chirurgicale en urgence.
 
 Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.
@@ -151,11 +153,13 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 ## 🔍 **DEMANDE D'ENQUÊTE APPROFONDIE**
 
 ### **1. Vérification de l'établissement**
+
 - **État actuel du salon** : Vérifier si le salon est effectivement ouvert et en activité.
 - **Présence des dirigeants** : Identifier qui gère actuellement l'établissement.
 - **Conformité ERP** : Contrôler le respect des normes de sécurité (décret n°2014-1273 du 30 octobre 2014).
 
 ### **2. Recherche des vidéos**
+
 - **Vérification de la vidéosurveillance** : S'assurer que les enregistrements du 29 mai 2026 existent toujours.
 - **Récupération des données** : Saisir les enregistrements conformément à l'**article 706-3 du Code de procédure pénale**.
 
@@ -164,14 +168,17 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^4]**
 
 ### **3. Identification des responsables**
+
 - **Dirigeants actuels** : Identifier les personnes qui gèrent effectivement le salon.
 - **Responsabilité pénale** : Établir la chaîne de responsabilité pour les infractions commises.
 
 ### **4. Contrôle de conformité**
+
 - **Respect des normes ERP** : Vérifier la conformité aux obligations de sécurité.
 - **Sanctions administratives** : Engager les procédures de mise en conformité ou de fermeture si nécessaire.
 
 ### **5. Enquête financière**
+
 - **Vérification de la solvabilité réelle** : Analyser la situation financière de la SAS.
 - **Risque de dissolution frauduleuse** : Prévenir toute tentative de disparition pour échapper aux responsabilités.
 <hr><hr>
@@ -189,21 +196,26 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 ## 🗣️ **SCRIPTS D'ACCUEIL — VERSION 30 SECONDES**
 
 ### **Greffe TJ Foix (dépôt requête 145)**
+
 > *« Bonjour, je viens déposer une requête fondée sur l'article 145 du Code de procédure civile. C'est une requête simple, sans assignation. Je voudrais un récépissé de dépôt, s'il vous plaît. »* <br>
 
 ### **BAJ TJ Foix (demande AJ totale)**
+
 > *« Bonjour, je souhaite déposer une demande d'aide juridictionnelle totale. J'ai rempli le formulaire et j'ai apporté mes justificatifs de revenus. Je voudrais un récépissé de dépôt, s'il vous plaît. »* <br>
 
 ### **Accueil Commissariat de Foix (plainte complémentaire)**
+
 > *« Bonjour, je viens déposer une plainte complémentaire. J'ai déjà un PV initial n°2026/015967 établi à Toulouse le 2 juin. J'ai préparé une plainte écrite et les pièces, et je souhaiterais qu'un OPJ puisse m'entendre. J'ai des éléments sur des preuves qui risquent de disparaître, notamment les vidéos de surveillance du salon. »* <br>
 
 ### **Si l'OPJ te reçoit en audition — amorce**
+
 > *« Bonjour Madame/Monsieur l'officier. Je suis [Mon nom], victime d'un accident grave le 29 mai au salon Les Mauvais Garçons. J'ai déjà un PV (2026/015967). Je viens pour une plainte complémentaire, parce que depuis, la société refuse de communiquer son assurance et ne répond à aucun courrier. Et surtout, les vidéos de surveillance risquent d'être écrasées d'un jour à l'autre si rien n'est fait. »* <br>
 <hr><hr>
 
 ## ⚖️ **FONDEMENTS JURIDIQUES**
 
 ### **Textes applicables**
+
 - **Article 434-4 du Code pénal** : Obstruction à la manifestation de la vérité
 
 > *« Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. Lorsque les faits prévus au présent article sont commis par une personne qui, par ses fonctions, est appelée à concourir à la manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende. »* <br>

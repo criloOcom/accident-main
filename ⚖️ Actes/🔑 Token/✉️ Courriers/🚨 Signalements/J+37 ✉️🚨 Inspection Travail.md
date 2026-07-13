@@ -78,12 +78,15 @@ Les procédures suivantes ont été engagées :
 En qualité de victime directe et de personne directement concernée par les faits, j'ai un intérêt légitime et direct à ce que les manquements soient formellement constatés pour éviter toute réitération. Je sollicite aujourd'hui vos services pour les motifs suivants :
 
 ### 1. INFORMATION SUR L'ÉTAT D'AVANCEMENT DE L'ENQUÊTE
+
 Je souhaiterais être informé de l'état d'avancement de votre enquête et, le cas échéant, de ses conclusions.
 
 ### 2. COMMUNICATION DU RAPPORT D'INSPECTION
+
 En qualité de personne directement concernée par les faits, je sollicite la transmission du rapport d'inspection sur le fondement de [l'article L. 311-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367683)[^2], sous réserve du secret de l'enquête en cours.
 
 ### 3. VÉRIFICATION DES ÉLÉMENTS DE SÉCURITÉ SUIVANTS
+
 Je porte à votre attention les faits suivants, susceptibles de caractériser des manquements à la réglementation du travail :
 
 - **Équipement de travail dangereux** :  
@@ -116,6 +119,7 @@ Il existe une possibilité que le préposé exerçant dans l'établissement ne s
 Cet indice est étayé par le fait que la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) déclare officiellement zéro salarié au Registre National des Entreprises, alors que l'activité commerciale du salon est continue et requiert la présence physique de ce préposé.
 
 ### 4. TRANSMISSION AU PARQUET
+
 Si les faits constatés par vos contrôles s'avèrent constitutifs d'infractions pénales, je vous remercie par avance de bien vouloir transmettre votre rapport au Procureur de la République près le Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) conformément à l'Article 40 du Code de procédure pénale.
 
 > *« Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1. Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. »* <br>

@@ -32,6 +32,7 @@ drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
 > 🔗 Source Google Drive : [1DdpbOypghzt…](https://drive.google.com/open?id=1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU)
 Rédigé le 30 juin 2026
 ## INTRODUCTION
+
 Le présent dossier de présentation est destiné au conseil juridique de Sébastien GRAZIDE dans le cadre du contentieux l'opposant à SAS LES MAUVAIS GARCONS à la suite de l'accident corporel grave survenu le 29 mai 2026.
 
 Ce document rassemble l'ensemble des éléments factuels, administratifs et juridiques nécessaires à la compréhension du litige et à la mise en œuvre de la stratégie de recouvrement.
@@ -43,6 +44,7 @@ Il contient une synthèse des faits, l'inventaire des pièces constitutives du d
 <hr><hr>
 
 ## I — STRATÉGIE DE RECOUVREMENT DES HONORAIRES PAR SUBROGATION ET PROTECTION FINANCIÈRE DE LA VICTIME
+
 L'assistance par un avocat est indispensable pour mener à bien la liquidation du préjudice corporel et sécuriser l'indemnisation face à l'assureur de SAS LES MAUVAIS GARCONS.
 
 Afin de lever tout obstacle financier pour Sébastien GRAZIDE, travailleur indépendant (500 474 457) actuellement privé de revenus professionnels, plusieurs mécanismes juridiques de subrogation et de remboursement des honoraires sont mobilisés :
@@ -64,6 +66,7 @@ Afin de lever tout obstacle financier pour Sébastien GRAZIDE, travailleur indé
 <hr><hr>
 
 ## II — EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE
+
 Le vendredi 29 mai 2026, Sébastien GRAZIDE s'est présenté au salon de coiffure « SAS LES MAUVAIS GARCONS » à Foix (22 Rue Lafaurie, 09000 Foix) pour une prestation de coupe de cheveux. Après réalisation de celle-ci, il a payé et quitté le salon vers 15h00.
 
 Moins de cinq minutes après sa sortie, Sébastien GRAZIDE est retourné au salon afin de solliciter une retouche. Il a alors constaté que l'employé (Ayoub BENNOURINE) était monté physiquement sur la vasque en céramique d'un bac à shampoing.
@@ -78,6 +81,7 @@ Les examens cliniques constatent une section partielle du tendon fléchisseur, u
 <hr><hr>
 
 ## III — ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES
+
 Sébastien GRAZIDE agit actuellement en son nom propre et a formalisé les démarches suivantes :
 
 - Pièce 01 - Conclusions de Partie Civile : Récit des faits et fondements juridiques d'obligation ([Article 1242 alinéas 1 et 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^3] ; [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042[^4]640)).

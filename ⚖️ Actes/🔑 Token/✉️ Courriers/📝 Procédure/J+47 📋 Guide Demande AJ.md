@@ -68,27 +68,33 @@ jx: J+47
 ## IV — COMMENT REMPLIR LE FORMULAIRE
 
 ### Section "Identité"
+
 - Nom, prénom, date et lieu de naissance, nationalité
 - Adresse complète
 
 ### Section "Situation familiale"
+
 - Célibataire/marié/pacsé — nombre d'enfants à charge
 
 ### Section "Ressources"
+
 - **Revenus professionnels** : déclarer le CA micro-entrepreneur (case "BIC/BNC/BA")
 - **Revenus fonciers** : aucun (sauf si vous en avez)
 - **Prestations sociales** : le cas échéant (RSA, AAH, etc.)
 
 ### Section "Objet de la demande"
+
 - **Cocher :** "Bénéficier de l'aide juridictionnelle pour une procédure"
 - **Nature de l'affaire :** "Demande d'indemnisation pour accident corporel — responsabilité civile"
 - **Juridiction :** "Tribunal judiciaire de Foix"
 - **Partie dans la procédure :** "Demandeur"
 
 ### Section "Urgence"
+
 - **Décrire l'urgence :** "Risque de destruction des preuves vidéos (écrasement à J+60/90, soit avant le 15 août 2026). Une requête Art. 145 CPC a été déposée pour conservation."
 
 ### Signature
+
 - Date et signature en bas du formulaire
 <hr><hr>
 

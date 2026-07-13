@@ -60,6 +60,7 @@ Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le
 ### A. BLESSURES INVOLONTAIRES (Articles 222-20 et 121-3 du Code pénal)
 
 **Fondement juridique :**
+
 > *"Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende."* <br>
 > [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)[^1] — Code pénal <br>
 
@@ -69,15 +70,18 @@ Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le
 **Faits :**
 
 1. **État dangereux des équipements**
+
    - La vasque en céramique du bac à shampoing présentait une **cassure majeure préexistante** aux arêtes tranchantes, maintenue en service sans signalisation ni protection.
    - Aucun dispositif n'avait été mis en place par l'exploitant pour prévenir le risque de blessure pour la clientèle.
    - Ce défaut d'entretien me paraît contraire aux obligations de prudence et de sécurité applicables aux établissements recevant du public.
 
 2. **Absence de moyens adaptés**
+
    - Le préposé a dû escalader la vasque instable pour accéder au poste de télévision, faute d'escabeau ou d'échelle mis à disposition par l'employeur.
    - Cette absence de moyens me semble révéler un manquement aux mesures nécessaires pour assurer la sécurité des personnes présentes dans l'établissement.
 
 3. **Conséquences**
+
    - L'accident a entraîné une **plaie palmaire profonde de 8,5 cm** avec section partielle du tendon fléchisseur et du paquet vasculo-nerveux de l'index droit, nécessitant une microchirurgie d'urgence.
    - L'incapacité totale de travail (ITT) a été fixée à **56 jours**, durée inférieure ou égale à trois mois au sens de l'article 222-20 du Code pénal.
 
@@ -86,12 +90,14 @@ Il appartiendra à l'enquête et, le cas échéant, à la juridiction saisie, de
 ### B. OBSTRUCTION À LA JUSTICE — ENTRAVE À LA MANIFESTATION DE LA VÉRITÉ (Article 434-4 du Code pénal)
 
 **Fondement juridique :**
+
 > *"Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables."* <br>
 > [Article 434-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608)[^3] — Code pénal <br>
 
 **Faits caractérisés :**
 
 1. **Refus de communiquer l'attestation d'assurance RC**
+
    - En date du 29 mai 2026, j'ai adressé par LRAR une mise en demeure aux dirigeants de la SAS pour obtenir les coordonnées de leur assureur RC.
    - Ces courriers m'ont été retournés avec la mention "défaut d'adresse / distribution impossible", alors que la société est toujours officiellement immatriculée à cette adresse (vérification RNE/INPI du 10 juillet 2026).
    - Ce refus de communiquer une information essentielle à l'indemnisation me semble susceptible de constituer une **dissimulation d'un document de nature à faciliter la recherche des preuves**.
@@ -105,6 +111,7 @@ Par courrier recommandé du 5 juillet 2026, j'ai demandé formellement à l'expl
 Or, à défaut d'intervention spécifique, les enregistrements de vidéosurveillance sont en principe supprimés automatiquement à l'expiration du délai légal ou contractuel de conservation (en pratique de l'ordre de quelques semaines). L'absence de réaction de l'exploitant fait craindre que ces images puissent disparaître sans avoir été versées à la procédure, alors même qu'elles sont de nature à éclairer la matérialité des faits et les responsabilités en cause.
 
 3. **Société injoignable malgré une immatriculation active**
+
    - La SAS est officiellement active selon le RNE, mais aucun représentant légal n'est joignable à l'adresse déclarée.
    - Les courriers recommandés sont systématiquement retournés NPAI.
    - Cette situation me semble de nature à entraver la manifestation de la vérité.
@@ -114,6 +121,7 @@ Il appartiendra à l'enquête de déterminer si ces comportements sont constitut
 ### C. TRAVAIL DISSIMULÉ — SIGNALEMENT SECONDAIRE (Articles L. 8221-1 et L. 8221-3 du Code du travail)
 
 **Fondement juridique :**
+
 > *"Sont interdits : 1° Le travail totalement ou partiellement dissimulé, défini et exercé dans les conditions prévues aux articles L. 8221-3 et L. 8221-5 ; 2° La publicité, par quelque moyen que ce soit, tendant à favoriser, en toute connaissance de cause, le travail dissimulé ; 3° Le fait de recourir sciemment, directement ou par personne interposée, aux services de celui qui exerce un travail dissimulé."* <br>
 > [Article L. 8221-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815)[^4] — Code du travail <br>
 
@@ -123,9 +131,11 @@ Il appartiendra à l'enquête de déterminer si ces comportements sont constitut
 **Éléments portés à votre connaissance :**
 
 1. **Réouverture sans modification déclarée**
+
    - Le commerce a rouvert ses portes le 6 juillet 2026, sans qu'aucune modification de l'exploitation ne soit mentionnée aux registres RNE/INPI.
 
 2. **Absence de salariés déclarés malgré une activité apparente**
+
    - La SAS déclare 0 salarié, alors que des personnes travaillent dans l'établissement.
 
 Ces éléments me laissent craindre l'existence de faits de travail dissimulé, que je souhaite signaler aux services compétents pour vérification.
@@ -223,21 +233,25 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de P
 ## ANNEXE 1 : RÉFÉRENCES JURIDIQUES COMPLÈTES
 
 ### Code pénal
+
 - **Article 222-20** : Blessures involontaires par violation manifestement délibérée d'une obligation de prudence/sécurité (ITT ≤ 3 mois)
 - **Article 121-3** : Principe de responsabilité pénale — faute d'imprudence, négligence, manquement à une obligation de prudence/sécurité
 - **Article 434-4** : Obstruction à la justice — entrave à la manifestation de la vérité (altération, destruction, dissimulation de preuves)
 - **Article 441-7** : Faux témoignage
 
 ### Code du travail
+
 - **Article L. 4121-1** : Obligation générale de sécurité de l'employeur
 - **Article L. 8221-1** : Interdiction du travail dissimulé
 - **Article L. 8221-3** : Définition du travail dissimulé par dissimulation d'activité
 
 ### Code des assurances
+
 - **Article L. 124-3** : Action directe de la victime contre l'assureur
 - **Article L. 113-2** : Obligation de déclaration de sinistre
 
 ### Code de procédure pénale
+
 - **Article 15-3** : Information de la victime sur les suites données
 - **Article 53** : Pouvoirs de l'Officier de Police Judiciaire
 - **Article 75** : Enquête de flagrance

@@ -37,6 +37,7 @@ source: drive
 # STRATEGIE CONTENTIEUX CIVIL
 Rédigé le **[J+36 Lettre consolidation]**
 ## I — PRÉSENTATION
+
 Le **[J+0 Accident]**, **[La Victime]** a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]** (**[L'Exploitant du Commerce (La SAS)]**, SIRET **[SIRET de l'Exploitation]**), situé **[L'Adresse de l'Exploitation]**. Alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger **[Le Préposé de l'Exploitation]** ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une microchirurgie SOS Main en urgence.
 
 Le contentieux civil a pour objet d'obtenir la réparation intégrale des préjudices subis, estimés à 59 600 € selon la nomenclature Dintilhac. Il se déploie sur plusieurs fondements juridiques complémentaires incluant, en cas de défaillance de l'auteur, la voie indemnitaire du Fonds de Garantie des Victimes d'Infractions (FGTI).
@@ -44,6 +45,7 @@ Le contentieux civil a pour objet d'obtenir la réparation intégrale des préju
 
 ## II — FONDEMENTS JURIDIQUES
 ### 2.1 RESPONSABILITÉ DU COMMETTANT
+
 **[L'Exploitant du Commerce (La SAS)]** est civilement responsable des dommages causés par ses préposés dans l'exercice de leurs fonctions. L'accident est survenu pendant une prestation de coupe de cheveux réalisée par un employé de la société dans l'enceinte de l'établissement.
 
 La responsabilité de la SAS est engagée de plein droit en application de [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^1], alinéa 5 (responsabilité du commettant du fait de son préposé).
@@ -55,6 +57,7 @@ La responsabilité de la SAS est engagée de plein droit en application de [Arti
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>
 
 ### 2.2 ACTION DIRECTE CONTRE L'ASSUREUR
+
 L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^2] confère à la victime d'un dommage un droit propre sur l'indemnité due par l'assureur du responsable. Cette action directe est totalement autonome : elle reste recevable même en cas de liquidation ou de dissolution de la société responsable.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
@@ -68,6 +71,7 @@ L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes
 La mise en demeure de l'assureur a été adressée le **[J+31 Mises en demeure]**, enjoignant à la compagnie de prendre en charge le sinistre et de procéder au règlement des préjudices sous 15 jours.
 
 ### 2.3 SURVIE DE LA PERSONNALITÉ MORALE
+
 Conformément à [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186)[^4], si **[L'Exploitant du Commerce (La SAS)]** venait à être dissoute ou radiée, la personnalité morale de la société survit pour les besoins de la liquidation jusqu'à la clôture de celle-ci. Ce mécanisme garantit que la société puisse encore être attraite en justice et que ses dettes soient apurées, incluant l'indemnisation due à **[La Victime]**.
 
 > *« La dissolution de la société entraîne sa liquidation, hormis les cas prévus à l'article 1844-4 et au troisième alinéa de l'article 1844-5 . Elle n'a d'effet à l'égard des tiers qu'après sa publication. Le liquidateur est nommé conformément aux dispositions des statuts. Dans le silence de ceux-ci, il est nommé par les associés ou, si les associés n'ont pu procéder à cette nomination, par décision de justice. Le liquidateur peut être révoqué dans les mêmes conditions. La nomination et la révocation ne sont opposables aux tiers qu'à compter de leur publication. Ni la société ni les tiers ne peuvent, pour se soustraire à leurs engagements, se prévaloir d'une irrégularité dans la nomination ou dans la révocation du liquidateur, dès lors que celle-ci a été régulièrement publiée. La personnalité morale de la société subsiste pour les besoins de la liquidation jusqu'à la publication de la clôture de celle-ci. Si la clôture de la liquidation n'est pas intervenue dans un délai de trois ans à compter de la dissolution, le ministère public ou tout intéressé peut saisir le tribunal, qui fait procéder à la liquidation ou, si celle-ci a été commencée, à son achèvement. »* <br>
@@ -77,6 +81,7 @@ Conformément à [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/c
 > *« La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la publication de la clôture de celle-ci. »* <br>
 
 ### 2.4 RESPONSABILITÉ POUR FAUTE
+
 À titre subsidiaire, la responsabilité pour faute de **[L'Exploitant du Commerce (La SAS)]** est engagée sur le fondement de [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^5] pour défaut d'entretien de son équipement et manquement à son obligation de sécurité. Le principe de réparation intégrale impose que la victime soit replacée dans la situation où elle se serait trouvée si l'accident n'avait pas eu lieu.
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
@@ -88,6 +93,7 @@ Conformément à [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/c
 
 ## III — VOIES DE PROCÉDURE ENGAGÉES
 ### 3.1 RÉFÉRÉ-PROVISION
+
 Une assignation en [référé-provision](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)[^6] (article 835 du Code de procédure civile) a été rédigée le **[J+32 Assignation référé]** pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive.
 
 > *« Le président du tribunal judiciaire ou le juge des contentieux de la protection dans les limites de sa compétence peuvent toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
@@ -107,9 +113,11 @@ La demande inclut également la désignation d'un expert médical judiciaire sur
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
 
 ### 3.2 RÉFÉRÉ-COMMUNICATION DE PIÈCES
+
 En parallèle, une procédure de référé-communication peut être engagée pour obtenir la communication forcée de la police d'assurance responsabilité civile de **[L'Exploitant du Commerce (La SAS)]** sous astreinte. Cette mesure conservatoire est essentielle pour permettre l'identification et la mise en cause de l'assureur dans le cadre de l'action directe.
 
 ### 3.3 VOIE CIVI / FGTI (SUBSIDIAIRE)
+
 Si l'absence d'assurance de **[L'Exploitant du Commerce (La SAS)]** est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^2] ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418[^8]734) sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI00004[^9]8442345).
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
@@ -145,6 +153,7 @@ Cette voie est subsidiaire : elle ne se substitue pas à l'action directe contre
 <hr><hr>
 
 ## IV — ÉVALUATION DES PRÉJUDICES
+
 L'évaluation des préjudices subis par **[La Victime]**, informaticien indépendant (SIREN **[L'Identifiant Professionnel de la Victime]**, chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :
 
 | Poste de préjudice | Montant |
@@ -171,6 +180,7 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 <hr><hr>
 
 ## V — CALENDRIER PROCÉDURAL
+
 | Phase | Action | Échéance |
 |-------|--------|----------|
 | Phase amiable | Mises en demeure, échanges courriers | Juin — Juillet 2026 |
@@ -183,6 +193,7 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 <hr><hr>
 
 ## VI — RÉCAPITULATIF DES PIÈCES
+
 Pièces médicales :
 - **[J+0 Accident]** — **[Le Médecin en Urgence]** — Premiers soins urgence
 - **[J+1 Chirurgie]** — **[Le Chirurgien SOS Main]** — CR opératoire

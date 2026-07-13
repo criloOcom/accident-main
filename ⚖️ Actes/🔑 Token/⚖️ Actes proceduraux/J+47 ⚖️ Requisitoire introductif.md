@@ -33,6 +33,7 @@ RÉFÉRENCE PLAINTE : PV n°[N° PV Police]
 À l'attention de Monsieur le Doyen des Juges d'Instruction,
 Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
 ## I — PROBLÉMATIQUE ET EXPOSÉ DES FAITS
+
 Le Ministère Public a été saisi par la plainte, puis par la [constitution de partie civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) en date du [**[J+38 Constitution PC]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md), déposées par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à l'encontre de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), ainsi que de ses dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md).
 
 Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), sis [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md), a été victime d'un grave accident corporel.
@@ -53,6 +54,7 @@ Il convient de déterminer si ces faits sont constitutifs d'infractions pénales
 ## II — FONDEMENTS JURIDIQUES ET QUALIFICATIONS PÉNALES ENVISAGÉES
 
 ### A. SUR LES BLESSURES INVOLONTAIRES
+
 L'Incapacité Totale de Travail (ITT) étant de 56 jours, soit une durée inférieure ou égale à trois mois, la qualification délictuelle ne peut être retenue sur le fondement de l'article 222-19 du Code pénal, qui exige une ITT supérieure à trois mois.
 
 > *« Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. »* <br>
@@ -68,6 +70,7 @@ Cependant, la qualification de délit est encourue sur le fondement de l'article
 À défaut d'une violation manifestement délibérée, les faits s'analysent a minima en une contravention de la 5ème classe sur le fondement des articles R. 625-2 ou R. 622-1 du Code pénal.
 
 ### B. SUR LA MISE EN DANGER DÉLIBÉRÉE DE LA VIE D'AUTRUI
+
 La qualification de mise en danger délibérée nécessite la violation d'une obligation particulière de sécurité ou de prudence exposant directement autrui à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente.
 
 > *« Le fait d'exposer directement autrui à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
@@ -77,6 +80,7 @@ La qualification de mise en danger délibérée nécessite la violation d'une ob
 Le défaut d'entretien des équipements au sein d'un Établissement Recevant du Public (ERP), matérialisé par la présence d'une vasque cassée aux arêtes tranchantes, est susceptible de constituer cette violation.
 
 ### C. SUR L'IMPUTABILITÉ DES FAITS : RESPONSABILITÉ DES PERSONNES MORALES ET PHYSIQUES
+
 L'article 121-2 du Code pénal dispose que les personnes morales sont pénalement responsables des infractions commises, pour leur compte, par leurs organes ou représentants.
 
 > *« Les personnes morales, à l'exclusion de l'Etat, sont responsables pénalement, selon les distinctions des articles 121-4 à 121-7 , des infractions commises, pour leur compte, par leurs organes ou représentants. Toutefois, les collectivités territoriales et leurs groupements ne sont responsables pénalement que des infractions commises dans l'exercice d'activités susceptibles de faire l'objet de conventions de délégation de service public. La responsabilité pénale des personnes morales n'exclut pas celle des personnes physiques auteurs ou complices des mêmes faits, sous réserve des dispositions du quatrième alinéa de l'article 121-3 . »* <br>
@@ -92,6 +96,7 @@ S'agissant des personnes physiques qui n'ont pas causé directement le dommage (
 Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md).
 
 ### D. SUR LA PRESCRIPTION
+
 Conformément à l'article 8 du Code de procédure pénale, l'action publique pour les délits se prescrit par six années révolues à compter du jour où l'infraction a été commise. L'infraction datant du 29 mai 2026, aucune prescription n'est acquise.
 
 > *« L'action publique des délits se prescrit par six années révolues à compter du jour où l'infraction a été commise. L'action publique des délits mentionnés aux articles 223-15-2 et 223-15-3 du code pénal et à l'article 706-47 du présent code, lorsqu'ils sont commis sur des mineurs, à l'exception de ceux mentionnés aux articles 222-29-1 et 227-26 du code pénal, se prescrit par dix années révolues à compter de la majorité de ces derniers. L'action publique des délits mentionnés aux articles 222-12 , 222-29-1 et 227-26 du même code, lorsqu'ils sont commis sur des mineurs, se prescrit par vingt années révolues à compter de la majorité de ces derniers. Toutefois, s'il s'agit d'une agression sexuelle ou d'une atteinte sexuelle commise sur un mineur, en cas de commission sur un autre mineur par la même personne, avant l'expiration des délais prévus aux deuxième et troisième alinéas du présent article, d'une agression sexuelle ou d'une atteinte sexuelle, le délai de prescription de la première infraction est prolongé, le cas échéant, jusqu'à la date de prescription de la nouvelle infraction. L'action publique du délit mentionné à l' article 434-3 du code pénal se prescrit, lorsque le défaut d'information concerne une agression ou un atteinte sexuelle commise sur un mineur, par dix années révolues à compter de la majorité de la victime et, lorsque le défaut d'information concerne un viol commis sur un mineur, par vingt années révolues à compter de la majorité de la victime. L'action publique des délits mentionnés à l'article 706-167 du présent code, lorsqu'ils sont punis de dix ans d'emprisonnement, ainsi que celle des délits mentionnés aux articles 706-16 du présent code, à l'exclusion de ceux définis aux articles 421-2-5 à 421-2-5-2 du code pénal, et 706-26 du présent code et au livre IV bis du code pénal se prescrivent par vingt années révolues à compter du jour où l'infraction a été commise. »* <br>
@@ -100,6 +105,7 @@ Conformément à l'article 8 du Code de procédure pénale, l'action publique po
 <hr><hr>
 
 ## III — ARGUMENTATION DU MINISTÈRE PUBLIC
+
 Les faits dénoncés revêtent une indéniable gravité, les conséquences pour la victime, informaticien de profession, étant majeures (atteinte nerveuse de la main dominante).
 
 L'enquête préliminaire se heurte actuellement à l'obstruction manifeste de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et de ses dirigeants, qui refusent de communiquer les attestations d'assurance de responsabilité civile professionnelle de l'établissement, paralysant l'indemnisation de la victime via l'action directe prévue par l'article L. 124-3 du Code des assurances.
@@ -152,6 +158,7 @@ Fait au Parquet de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory
 <hr><hr>
 
 ## V — ÉVALUATION PROSPECTIVE ET JURISPRUDENTIELLE DES POURSUITES
+
 À titre prospectif pour les suites de cette procédure, l'attention est attirée sur le fait que la jurisprudence (notamment l'arrêt de principe Sati, Cass. com. 20 mai 2003, n°99-17.092) est rigoureuse pour retenir la responsabilité personnelle d'un dirigeant : il faut prouver la faute intentionnelle d'une particulière gravité.
 
 Toutefois, la dissimulation d'assurance associée au maintien en état de fonctionnement d'un équipement brisé et coupant peut s'analyser comme une telle faute.

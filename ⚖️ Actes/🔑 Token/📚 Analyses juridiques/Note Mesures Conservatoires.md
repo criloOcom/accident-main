@@ -43,9 +43,11 @@ L'opportunité de solliciter des mesures conservatoires repose sur les dispositi
 > **Code des procédures civiles d'exécution** [Article L.511-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026104)[^1] <br>
 
 ### Sur le principe de créance fondé
+
 Le dossier démontre de manière probante le dommage corporel subi par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) imputable à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md). Les éléments médicaux et factuels établissent indéniablement la responsabilité et, par voie de conséquence, l'existence d'une créance indemnitaire d'un montant significatif, permettant de qualifier le principe de créance.
 
 ### Sur les circonstances menaçant le recouvrement
+
 Il conviendra d'apporter aux débats tout élément matériel permettant d'étayer le risque sérieux de disparition, de dissimulation ou de diminution du patrimoine de la société ou de ses dirigeants (ex : opérations suspectes, rumeurs de cession, organisation d'insolvabilité). L'absence de solvabilité apparente justifie l'urgence et la nécessité des mesures.
 
 ### Mesures envisagées
