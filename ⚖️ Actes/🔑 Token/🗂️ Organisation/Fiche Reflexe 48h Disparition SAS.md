@@ -20,13 +20,13 @@ reel_path: ../../👤 Reel/🗂️ Organisation/Fiche Reflexe 48h Disparition SA
 
 # FICHE RÉFLEXE 48H : DISPARITION DE LA SAS
 
-## PROBLÉMATIQUE
+## I — PROBLÉMATIQUE
 
 La disparition soudaine de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) et geler la situation factuelle et juridique avant toute tentative de dissimulation ou d'organisation d'insolvabilité.
 
 La question centrale porte sur la temporalité et l'ordonnancement juridique : dans quel ordre faut-il agir et sur quels leviers juridiques s'appuyer en priorité pour garantir l'efficacité des mesures coercitives et conservatoires ?
 
-## FONDEMENT ET DÉPENDANCES CRITIQUES
+## II — FONDEMENT ET DÉPENDANCES CRITIQUES
 
 L'ordonnancement des actions est dicté par une dépendance critique absolue : l'effet de surprise.
 Il est impératif que le constat dressé par un Commissaire de Justice intervienne *avant* toute alerte formelle de la société débitrice ou de ses dirigeants, et donc préalablement à l'envoi d'une lettre recommandée avec accusé de réception (LRAR).
@@ -40,7 +40,7 @@ Conformément aux obligations légales en la matière, ce signalement trouve son
 > [Article 40](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) <br>
 > **Code de procédure pénale > Partie législative > Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction > Titre Ier : Des autorités chargées de la conduite de la politique pénale, de l'action publique et de l'instruction > Chapitre II : Du ministère public > Section 3 : Des attributions du procureur de la République[^1]**
 
-## ARGUMENTATION ET PLAN D'ACTION SÉQUENTIEL
+## III — ARGUMENTATION ET PLAN D'ACTION SÉQUENTIEL
 
 ### 1. Le constat par Commissaire de Justice (Action Immédiate : Ce soir ou demain matin)
 
@@ -62,7 +62,7 @@ Dès lors que les premiers éléments de preuve (constat, vérifications INPI) s
 
 Ce n'est qu'une fois les éléments de preuve sécurisés (Constat) et les vérifications effectuées que la mise en demeure officielle par LRAR pourra être envoyée. Ces courriers, adressés à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), à ses dirigeants, ainsi qu'à tout organisme pertinent, interviendront alors que la situation est verrouillée, supprimant ainsi toute opportunité pour la partie adverse d'organiser utilement sa fuite.
 
-## CONCLUSION
+## IV — CONCLUSION
 
 La présente fiche réflexe impose un séquencement strict : **Constat → Vérifications → Signalement → Mise en demeure**. Le non-respect de cet ordre, et particulièrement l'envoi prématuré d'une LRAR, compromettrait irrémédiablement l'effet de surprise et, *in fine*, les intérêts de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md).
 

@@ -16,7 +16,7 @@ Ce plan vise à corriger la formulation de l'e-mail pour éliminer tout terme in
 
 ---
 
-## 1. Objectifs de la réécriture
+## I — Objectifs de la réécriture
 
 *   **Supprimer l'expression « bruits de couloir »** et toute conclusion prématurée.
 *   **Formuler une demande claire d'intervention sur site** par des agents assermentés (policiers municipaux).
@@ -27,7 +27,7 @@ Ce plan vise à corriger la formulation de l'e-mail pour éliminer tout terme in
 
 ---
 
-## 2. Nouveau modèle d'e-mail à soumettre à validation
+## II — Nouveau modèle d'e-mail à soumettre à validation
 
 ```markdown
 Objet : Suite à notre échange du [**[J+3 Premiers arrêts]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md) – Demande d'intervention pour contrôle de sécurité et d'exploitation ([**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md))

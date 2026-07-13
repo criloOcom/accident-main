@@ -24,7 +24,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/39 📋 GUIDE_DEMANDE_AJ.md
 
 ---
 
-## 1. SUIS-JE ÉLIGIBLE ?
+## I — SUIS-JE ÉLIGIBLE ?
 
 | Condition | Votre situation | Réponse |
 |-----------|----------------|---------|
@@ -36,7 +36,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/39 📋 GUIDE_DEMANDE_AJ.md
 
 ---
 
-## 2. CE QUE COUVRE L'AJ TOTALE
+## II — CE QUE COUVRE L'AJ TOTALE
 
 | Frais | Pris en charge ? |
 |-------|-----------------|
@@ -50,7 +50,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/39 📋 GUIDE_DEMANDE_AJ.md
 
 ---
 
-## 3. PIÈCES À FOURNIR
+## III — PIÈCES À FOURNIR
 
 ### Obligatoires
 
@@ -70,7 +70,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/39 📋 GUIDE_DEMANDE_AJ.md
 
 ---
 
-## 4. COMMENT REMPLIR LE FORMULAIRE
+## IV — COMMENT REMPLIR LE FORMULAIRE
 
 ### Section "Identité"
 - Nom, prénom, date et lieu de naissance, nationalité
@@ -98,7 +98,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/39 📋 GUIDE_DEMANDE_AJ.md
 
 ---
 
-## 5. DÉMARCHE AU TJ
+## V — DÉMARCHE AU TJ
 
 ### Où aller ?
 
@@ -130,7 +130,7 @@ Avenue Paul Laffont
 
 ---
 
-## 6. APRÈS L'AJ
+## VI — APRÈS L'AJ
 
 ### Si l'AJ est accordée
 
@@ -153,7 +153,7 @@ Avenue Paul Laffont
 
 ---
 
-## 7. CONSEILS POUR LE 15 JUILLET
+## VII — CONSEILS POUR LE 15 JUILLET
 
 ### Ordre recommandé
 

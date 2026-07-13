@@ -26,7 +26,7 @@ Dans le cadre du dossier d'accident corporel de [**[La Victime]**](../../../%F0%
 
 <hr><hr>
 
-## 1. SYNTHÈSE DES FORMULAIRES CERFA
+## I — SYNTHÈSE DES FORMULAIRES CERFA
 
 | Type de Démarche | Formulaire CERFA | Utilité Principale | Destinataire | Statut dans le Dossier |
 | :--- | :--- | :--- | :--- | :--- |
@@ -36,7 +36,7 @@ Dans le cadre du dossier d'accident corporel de [**[La Victime]**](../../../%F0%
 
 <hr><hr>
 
-## 2. DÉTAIL DU CERFA N° 11527*03 (ATTESTATION DE TÉMOIN)
+## II — DÉTAIL DU CERFA N° 11527*03 (ATTESTATION DE TÉMOIN)
 
 Conformément à l'Article 202 du Code de procédure civile, ce document permet de recueillir des témoignages écrits de tiers ayant assisté à l'accident ou ayant connaissance directe de l'état défectueux du salon.
 
@@ -61,7 +61,7 @@ Conformément à l'Article 202 du Code de procédure civile, ce document permet 
 
 <hr><hr>
 
-## 3. DÉTAIL DU CERFA N° 16160*01 (SAISINE DE LA CIVI)
+## III — DÉTAIL DU CERFA N° 16160*01 (SAISINE DE LA CIVI)
 
 Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infractions afin d'obtenir du **FGTI** le versement de provisions ou de l'indemnisation définitive suite aux blessures involontaires subies.
 
@@ -89,7 +89,7 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 <hr><hr>
 
-## 4. DÉTAIL DU CERFA N° 16146*03 (DEMANDE D'AIDE JURIDICTIONNELLE)
+## IV — DÉTAIL DU CERFA N° 16146*03 (DEMANDE D'AIDE JURIDICTIONNELLE)
 
 Si Sébastien souhaite solliciter l'aide de l'État pour couvrir les frais de justice (avocat pour les audiences de référé, huissier pour le constat physique du salon, médecin-conseil ou expert judiciaire), il peut déposer ce formulaire.
 

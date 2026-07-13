@@ -27,7 +27,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ---
 
-## I. PRÉPARATION AVANT LE DÉPLACEMENT
+## I — PRÉPARATION AVANT LE DÉPLACEMENT
 
 ### Checklist des documents à apporter
 
@@ -59,7 +59,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ---
 
-## II. ACCUEIL ET PREMIER CONTACT
+## II — ACCUEIL ET PREMIER CONTACT
 
 ### À l'accueil du commissariat
 
@@ -73,7 +73,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ---
 
-## III. PRÉSENTATION AU SERVICE DES PLAINTES
+## III — PRÉSENTATION AU SERVICE DES PLAINTES
 
 ### Introduction auprès de l'officier
 
@@ -84,7 +84,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ---
 
-## IV. PRÉSENTATION ORALE DES FAITS
+## IV — PRÉSENTATION ORALE DES FAITS
 
 ### Résumé structuré (2-3 minutes max)
 
@@ -106,7 +106,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ---
 
-## V. RÉPONSES AUX QUESTIONS COURANTES
+## V — RÉPONSES AUX QUESTIONS COURANTES
 
 ### Questions probables et réponses préparées
 
@@ -128,7 +128,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ---
 
-## VI. DEMANDES SPÉCIFIQUES À FORMULER
+## VI — DEMANDES SPÉCIFIQUES À FORMULER
 
 ### Demandes à faire oralement et par écrit
 
@@ -157,7 +157,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ---
 
-## VII. STRATÉGIE FACE AUX OBJECTIONS
+## VII — STRATÉGIE FACE AUX OBJECTIONS
 
 ### Objections possibles et réponses
 
@@ -183,7 +183,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ---
 
-## VIII. QUESTIONS À POSER AUX POLICIERS
+## VIII — QUESTIONS À POSER AUX POLICIERS
 
 ### Questions stratégiques pour faire avancer l'enquête
 
@@ -207,7 +207,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ---
 
-## IX. CLÔTURE DE L'ENTRETIEN
+## IX — CLÔTURE DE L'ENTRETIEN
 
 ### Phrases de conclusion
 
@@ -228,7 +228,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ---
 
-## X. SUIVI POST-DÉPÔT
+## X — SUIVI POST-DÉPÔT
 
 ### Actions à effectuer après le dépôt
 
@@ -255,7 +255,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ---
 
-## XI. MÉMO JURIDIQUE RAPIDE
+## XI — MÉMO JURIDIQUE RAPIDE
 
 ### Résumé des infractions dénoncées
 
@@ -281,7 +281,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ---
 
-## XII. CHECKLIST FINALE AVANT DE PARTIR
+## XII — CHECKLIST FINALE AVANT DE PARTIR
 
 **📋 Vérifications dernières minutes :**
 - [ ] J'ai bien tous mes documents (dossier + pièces d'identité)

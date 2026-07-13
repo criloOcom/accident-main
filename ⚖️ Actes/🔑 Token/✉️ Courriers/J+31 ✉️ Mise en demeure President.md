@@ -49,7 +49,7 @@ La présente lettre de mise en demeure est adressée conjointement par [**[La Vi
 
 <hr>
 
-## RAPPEL DES OBLIGATIONS LÉGALES
+## I — RAPPEL DES OBLIGATIONS LÉGALES
 
 La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions.
 

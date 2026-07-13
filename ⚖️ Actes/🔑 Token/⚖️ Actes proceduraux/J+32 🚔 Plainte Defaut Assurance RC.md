@@ -69,7 +69,7 @@ En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en 
 
 <hr><hr>
 
-## I. EXPOSÉ DES FAITS
+## I — EXPOSÉ DES FAITS
 Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), alors qu'il se trouvait dans le salon de coiffure exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) en qualité de client, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) a été victime d'un accident corporel grave au sein de l'établissement, sise [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md). 
 
 Alors que [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-prepose-de-l-exploitation.md) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) a tendu la main droite pour protéger [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-prepose-de-l-exploitation.md) ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
@@ -88,7 +88,7 @@ Ce silence persistant, malgré l'envoi de courriers recommandés le [**[J+31 Mis
 
 <hr><hr>
 
-## II. DISCUSSION JURIDIQUE
+## II — DISCUSSION JURIDIQUE
 ### A. SUR L'ABSENCE D'ASSURANCE DE RESPONSABILITÉ CIVILE
 Malgré les demandes amiables de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle.
 
@@ -133,7 +133,7 @@ Par ailleurs, ce défaut de souscription ou d'information peut constituer une fa
 
 <hr><hr>
 
-## III. CONSÉQUENCES ET PRÉJUDICES
+## III — CONSÉQUENCES ET PRÉJUDICES
 Le préjudice subi par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) est d'une particulière gravité.
 
 En sa qualité d'informaticien indépendant, l'usage de sa main dominante est indispensable à son activité professionnelle.
@@ -150,7 +150,7 @@ L'absence de communication de l'assurance bloque toute offre d'indemnisation ami
 
 <hr><hr>
 
-## IV. DEMANDES
+## IV — DEMANDES
 Par ces motifs, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) sollicite qu'il plaise à Monsieur le Procureur de la République d'ordonner une enquête complémentaire visant à :
 
 1. **VÉRIFIER** l'existence et la validité du contrat d'assurance de responsabilité civile de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) au jour du sinistre ;

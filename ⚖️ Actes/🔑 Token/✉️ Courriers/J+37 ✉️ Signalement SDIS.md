@@ -53,7 +53,7 @@ Cet accident a ete cause par la chute brutale du prepose de l'exploitation depui
 
 <hr>
 
-## OBJET DU SIGNALEMENT
+## I — OBJET DU SIGNALEMENT
 Le salon de coiffure constitue un Etablissement Recevant du Public (ERP) de 5e categorie.
 
 Je porte par la presente a votre connaissance les faits suivants, susceptibles de constituer des non-conformites aux regles de securite applicables aux ERP :

@@ -17,7 +17,7 @@ source: drive
 <!-- /Breadcrumb -->
 
 # 11 - CALENDRIER PROCÉDURAL
-## I. ÉVÉNEMENTS PASSÉS
+## I — ÉVÉNEMENTS PASSÉS
 | Date | ID | Événement | Catégorie | Statut |
 |---|---|---|---|---|
 | 26/01/1993 | EVT-31 | Arrêt (Jurisprudence) | Jurisprudence | Précédent juridique |
@@ -78,7 +78,7 @@ source: drive
 | Non précisé | EVT-41 | Dépenses de Santé Futures (DSF) | Médical | Chiffrage prospectif |
 | Non précisé | EVT-42 | Frais de justice (Article 475-1) | Procédure | Demande en justice |
 
-## II. ÉCHÉANCES À VENIR
+## II — ÉCHÉANCES À VENIR
 | Date | ID | Événement | Catégorie | Statut |
 |---|---|---|---|---|
 | [**[J+46 Échéance amiable]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-46-echeance-amiable.md) | EVT-15 | Échéance légale de mise en demeure | Échéance | À venir |
@@ -86,7 +86,7 @@ source: drive
 | 31/07/2026 | EVT-18 | Audience de référé-communication | Procédure | À venir |
 | [**[J+167 Expertise UMJ]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) 13:45 | EVT-17 | Expertise Médicale Judiciaire | Médical | Programmé |
 
-## III. SYNTHÈSE
+## III — SYNTHÈSE
 - **Total d'événements :** 61
 - **Événements passés :** 57 (dont 9 non datés)
 - **Échéances à venir :** 4

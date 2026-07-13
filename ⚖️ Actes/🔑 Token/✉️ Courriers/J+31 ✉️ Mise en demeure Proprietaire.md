@@ -44,7 +44,7 @@ Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grav
 
 <hr>
 
-### Rappel des obligations légales
+## I — RAPPEL DES OBLIGATIONS LÉGALES
 
 L'article 1719 du Code civil impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail.
 
@@ -90,7 +90,7 @@ Dans l'attente de votre retour rapide,
 
 <hr>
 
-### Transparence sur la suite donnée au dossier
+## II — TRANSPARENCE SUR LA SUITE DONNÉE AU DOSSIER
 
 La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
 

@@ -40,7 +40,7 @@ Réf : Dossier [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF
 
 Madame la Directrice Générale, Monsieur le Président,
 
-## PRÉAMBULE — ABSENCE DE RÉPONSE ET DISSIPATION DES PREUVES
+## I — PRÉAMBULE — ABSENCE DE RÉPONSE ET DISSIPATION DES PREUVES
 
 Par lettre de mise en demeure adressée le [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) en recommandé avec accusé de réception à chacun de vous à l'adresse du siège social ([**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md)), j'ai sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
 
@@ -71,7 +71,7 @@ Ma présence ainsi que le déroulement de l'accident sont déjà documentés par
 
 ---
 
-## RAPPEL DE LA DEMANDE D'ASSURANCE
+## II — RAPPEL DE LA DEMANDE D'ASSURANCE
 
 Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur.
 
@@ -105,7 +105,7 @@ Compte tenu de la gravité de l'accident et des manquements flagrants à l'oblig
 
 ---
 
-## DEMANDE D'ADRESSE DE CORRESPONDANCE ET RISQUES FINANCIERS
+## III — DEMANDE D'ADRESSE DE CORRESPONDANCE ET RISQUES FINANCIERS
 
 Face aux difficultés de distribution postale à votre siège social, je vous demande de me fournir par écrit une adresse de correspondance valide (boîte aux lettres, domicile ou adresse de votre conseil juridique).
 
@@ -147,7 +147,7 @@ Dans l'attente d'un échange constructif, je vous prie d'agréer, Madame la Dire
 
 ---
 
-## ANNEXE JURIDIQUE — EXTRAIT DES TEXTES APPLICABLES
+## IV — ANNEXE JURIDIQUE — EXTRAIT DES TEXTES APPLICABLES
 
 ### Annexe 1 : Entrave à la manifestation de la vérité
 **Article 434-4 du Code pénal (version en vigueur au 29 mai 2026)** :

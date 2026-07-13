@@ -55,7 +55,7 @@ Sa chute a entraîné sur ma main droite une plaie palmaire profonde de 8,5 cm a
 
 <hr>
 
-## PROCEDURES EN COURS
+## I — PROCÉDURES EN COURS
 
 Les procédures suivantes ont été engagées :
 
@@ -75,7 +75,7 @@ Les procédures suivantes ont été engagées :
 
 <hr>
 
-## CONTEXTE DE LA SAISINE DE VOS SERVICES
+## II — CONTEXTE DE LA SAISINE DE VOS SERVICES
 
 À la suite de cet accident, Monsieur [**[L'Adjoint au Maire de la Commune]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adjoint-au-maire-de-la-commune.md), Adjoint au Maire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), m'a informé le 1er juin 2026 avoir pris l'attache des services de la Préfecture de l'Ariège afin de diligenter l'Inspection du Travail et le CODAF.
 

@@ -19,7 +19,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/Note Conservation Preuves Nu
 
 # NOTE SUR LA CONSERVATION DES PREUVES EXTÉRIEURES ET NUMÉRIQUES
 
-## PROBLÉMATIQUE
+## I — PROBLÉMATIQUE
 
 Dans le cadre du litige opposant [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploitation réelle du commerce à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md).
 
@@ -29,7 +29,7 @@ Cette note précise les mesures conservatoires à mettre en œuvre immédiatemen
 
 <hr><hr>
 
-## FONDEMENT JURIDIQUE
+## II — FONDEMENT JURIDIQUE
 
 L'[article 1358 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/)[^1] dispose que "la preuve peut être apportée par tout moyen" pour les faits juridiques.
 
@@ -65,7 +65,7 @@ Afin de garantir l'admissibilité et l'incontestabilité de ces preuves, il conv
 
 <hr><hr>
 
-## ARGUMENTATION ET STRATÉGIE DE COLLECTE
+## III — ARGUMENTATION ET STRATÉGIE DE COLLECTE
 
 ### 1. Conservation des réseaux sociaux (Facebook, Instagram)
 Les pages de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) sur les réseaux sociaux peuvent démontrer l'activité récente, la configuration des lieux (photos de l'intérieur du commerce, présence du téléviseur ou des bacs à shampoing) et les horaires d'ouverture.
@@ -93,7 +93,7 @@ Conformément à la norme AFNOR Z67-147, le Commissaire de Justice dressera un p
 
 <hr><hr>
 
-## CONCLUSION ET RECOMMANDATIONS
+## IV — CONCLUSION ET RECOMMANDATIONS
 
 Il est impératif d'agir de manière proactive, avant même l'introduction de la procédure judiciaire formelle contre [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
 

@@ -19,7 +19,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/Note Mesures Conservatoires.
 
 # NOTE JURIDIQUE : MESURES CONSERVATOIRES AVANT DISPARITION
 
-## I. PROBLÉMATIQUE
+## I — PROBLÉMATIQUE
 
 Dans le cadre du dossier concernant [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et de ses représentants, il convient d'envisager la mise en œuvre de mesures conservatoires urgentes.
 
@@ -35,7 +35,7 @@ La présente note a pour objet d'analyser la faisabilité juridique et procédur
 
 <hr><hr>
 
-## II. FONDEMENT ET ARGUMENTATION
+## II — FONDEMENT ET ARGUMENTATION
 
 L'opportunité de solliciter des mesures conservatoires repose sur les dispositions du Code des procédures civiles d'exécution, lesquelles requièrent la démonstration de deux conditions cumulatives : un principe de créance et des circonstances menaçant le recouvrement.
 
@@ -66,7 +66,7 @@ Il est donc impératif de déposer une requête motivée auprès du Juge de l'Ex
 
 <hr><hr>
 
-## III. CONCLUSION
+## III — CONCLUSION
 
 Afin de préserver les droits de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), il est fortement recommandé de diligenter au plus vite une procédure sur requête aux fins d'être autorisé par le Juge de l'Exécution à faire pratiquer par un Commissaire de Justice :
 

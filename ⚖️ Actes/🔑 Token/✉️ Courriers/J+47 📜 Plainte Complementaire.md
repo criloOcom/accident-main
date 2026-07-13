@@ -48,7 +48,7 @@ Je soussigné(e), [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82
 
 <hr><hr>
 
-## I. RAPPEL DES FAITS INITIAUX ([PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))
+## I — RAPPEL DES FAITS INITIAUX ([PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))
 
 Le **29 mai 2026 vers 15h00**, alors que je me trouvais en qualité de client au sein du salon de coiffure "Les Mauvais Garçons", un préposé de l'établissement est monté sur un bac à shampoing en céramique instable pour régler un poste de télévision.
 
@@ -58,7 +58,7 @@ Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le
 
 <hr><hr>
 
-## II. FAITS NOUVEAUX CONSTITUTIFS D'INFRACTIONS PÉNALES
+## II — FAITS NOUVEAUX CONSTITUTIFS D'INFRACTIONS PÉNALES
 
 ### A. BLESSURES INVOLONTAIRES (Articles 222-20 et 121-3 du Code pénal)
 
@@ -135,7 +135,7 @@ Ces éléments me laissent craindre l'existence de faits de travail dissimulé, 
 
 <hr><hr>
 
-## III. DEMANDE D'ENQUÊTE APPROFONDIE
+## III — DEMANDE D'ENQUÊTE APPROFONDIE
 
 Au vu des éléments ci-dessus exposés, je sollicite respectueusement qu'il soit procédé, dans la mesure du possible, aux vérifications suivantes, sans préjudice de toute investigation que vous jugeriez utile.
 
@@ -163,7 +163,7 @@ Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière
 
 <hr><hr>
 
-## IV. PIÈCES JOINTES
+## IV — PIÈCES JOINTES
 
 1. **Copie du PV initial n°2026/015967** (établi le 2 juin 2026 par le Commissariat de Toulouse)
 
@@ -185,7 +185,7 @@ Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière
 
 <hr><hr>
 
-## V. FONDEMENTS JURIDIQUES RÉCAPITULATIFS
+## V — FONDEMENTS JURIDIQUES RÉCAPITULATIFS
 
 | Infraction | Article | Peine encourue | Élément matériel |
 |-----------|---------|----------------|------------------|
@@ -195,7 +195,7 @@ Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière
 
 <hr><hr>
 
-## VI. DEMANDES SPÉCIFIQUES
+## VI — DEMANDES SPÉCIFIQUES
 
 Je sollicite également :
 
@@ -213,7 +213,7 @@ Je sollicite également :
 
 <hr><hr>
 
-## VII. DÉCLARATION SUR L'HONNEUR
+## VII — DÉCLARATION SUR L'HONNEUR
 
 Je déclare sur l'honneur que les faits exposés dans la présente plainte sont exacts et conformes à la réalité. Je suis conscient(e) que toute déclaration mensongère peut entraîner des poursuites pénales pour faux témoignage (Article 441-7 du Code pénal).
 

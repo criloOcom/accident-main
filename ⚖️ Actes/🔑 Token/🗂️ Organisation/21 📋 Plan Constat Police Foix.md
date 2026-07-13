@@ -17,7 +17,7 @@ Ce plan analyse la possibilité juridique de demander au Maire de [**[La Ville d
 
 <hr><hr>
 
-## 1. Analyse de Faisabilité Juridique
+## I — Analyse de Faisabilité Juridique
 
 ### Peut-on demander à la police de faire le constat à la place d'un huissier ?
 
@@ -31,7 +31,7 @@ Ce plan analyse la possibilité juridique de demander au Maire de [**[La Ville d
 
 <hr><hr>
 
-## 2. Plan d'Action Proposé
+## II — Plan d'Action Proposé
 
 ### Action 1 : Envoi du mail au Maire de Foix (Demain matin, 8h00)
 Vous allez envoyer un courriel officiel et circonstancié au Maire de Foix (Cabinet du Maire / Secrétariat) en vous appuyant sur le projet déjà rédigé par DeepSeek/Jules :
@@ -45,7 +45,7 @@ Même si le Maire envoie la police, vous devez maintenir la démarche d'huissier
 
 <hr><hr>
 
-## 3. Modèle de Mail Prêt pour le Maire de Foix (Demain matin)
+## III — Modèle de Mail Prêt pour le Maire de Foix (Demain matin)
 
 Voici le corps du mail à envoyer demain matin à 8h00 à l'adresse de la Mairie de Foix (généralement `mairie@mairie-foix.fr` ou via leur formulaire de contact) :
 

@@ -23,7 +23,7 @@ source: local
 
 ---
 
-## LES 3 PILIERS DE LA DÉMONSTRATION
+## I — LES 3 PILIERS DE LA DÉMONSTRATION
 ### PILIER 1 — LA CHOSE A ÉTÉ L'INSTRUMENT DU DOMMAGE (ART. 1242 AL.1)
 | Élément à prouver | Notre preuve | Arrêt de référence |
 |-------------------|-------------|-------------------|
@@ -46,7 +46,7 @@ source: local
 
 ---
 
-## HIÉRARCHIE ARGUMENTATIVE (ORDRE DE PLAIDOIRIE)
+## II — HIÉRARCHIE ARGUMENTATIVE (ORDRE DE PLAIDOIRIE)
 ### ARGUMENTS OFFENSIFS (À METTRE EN AVANT)
 1. **89-18.422** : Le cas est quasi identique. Échelle installée par un préposé → basculement → responsabilité du gardien. C'est notre arrêt de **tête**.
 2. **74-10.466** : Verrouillage de la défense « vice inhérent ». La fissure préexistante ne décharge pas le gardien. À citer systématiquement en réponse à l'argument de la cassure.
@@ -59,7 +59,7 @@ source: local
 
 ---
 
-## TABLEAU DE CORRESPONDANCE ARRÊT → FAIT CONCRET
+## III — TABLEAU DE CORRESPONDANCE ARRÊT → FAIT CONCRET
 | Arrêt | Fait de l'arrêt | Transposition à notre cas | Utilité |
 |-------|-----------------|--------------------------|---------|
 | 89-18.422 | Échelle posée par préposé bascule → blesse un employé d'une autre société | Vasque fixée par le commerçant, le préposé monte dessus → basculement et blessure du client | **Pilier 1** : quasi-identité factuelle |
@@ -73,7 +73,7 @@ source: local
 
 ---
 
-## ANTICIPATION DES MOYENS DE LA DÉFENSE
+## IV — ANTICIPATION DES MOYENS DE LA DÉFENSE
 | Moyen attendu | Réponse |
 |---------------|---------|
 | « La victime a fauté en se trouvant sur le lieu du travail » | La victime était cliente dans un salon de coiffure, pas sur une zone technique — aucune faute |
@@ -84,7 +84,7 @@ source: local
 
 ---
 
-## SYNTHÈSE DES FORCES ET FAIBLESSES
+## V — SYNTHÈSE DES FORCES ET FAIBLESSES
 **Forces** :
 - Arrêt de tête quasi identique (89-18.422)
 - Vice inhérent verrouillé (74-10.466)
@@ -100,7 +100,7 @@ source: local
 
 ---
 
-## STRATÉGIE FINANCIÈRE ET RECOUVREMENT
+## VI — STRATÉGIE FINANCIÈRE ET RECOUVREMENT
 ### MONTANT ESTIMÉ : ~105 000 €
 | Poste | Montant | Base |
 |---|---|---|
@@ -133,7 +133,7 @@ Voir détails : [11+12 📊 Evaluation Dintilhac consolidee.md](../%F0%9F%92%B0%
 
 Fondement : art. 835 al.2 CPC — obligation non sérieusement contestable.
 
-## RÉFÉRENCES CROISÉES
+## VII — RÉFÉRENCES CROISÉES
 - Fiches jurisprudence : [70-12.124](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/70-12.124_CourCassation.md), [74-10.466](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/74-10.466_CourCassation.md), [89-18.422](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md), [91-13.580](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/91-13.580_CourCassation.md), [91-15.035](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/91-15.035_CourCassation.md), [24-21.702](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/24-21.702_CourCassation.md)
 - Note responsabilités légales : [13 📜 Responsabilites legales.md](J%2B32%20%F0%9F%93%9C%20Analyse%20Responsabilites%20Legales.md)
 - Évaluation financière : [11+12 📊 Evaluation Dintilhac consolidee.md](../%F0%9F%92%B0%20Etudes%20indemnisation/J%2B39%20%F0%9F%93%8A%20Evaluation%20Dintilhac%20Consolidee.md)

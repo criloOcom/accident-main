@@ -38,13 +38,13 @@ J'interviens dans les intérêts de [**[La Victime]**](../../../%F0%9F%A7%A0%20M
 
 <hr><hr>
 
-## I. EXPOSÉ DES FAITS
+## I — EXPOSÉ DES FAITS
 
 Il existe de sérieuses raisons de penser que la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et ses dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md), s'apprêtent à dissoudre ou à abandonner la structure actuelle pour recréer une nouvelle société exerçant la même activité à la même adresse, dans le but manifeste de se soustraire aux obligations indemnitaires nées de l'accident.
 
 <hr><hr>
 
-## II. FONDEMENTS JURIDIQUES
+## II — FONDEMENTS JURIDIQUES
 
 ### A. Pouvoir du ministère public et de tout intéressé
 
@@ -74,7 +74,7 @@ Si une nouvelle société est créée à la même adresse avec les mêmes dirige
 
 <hr><hr>
 
-## III. DEMANDE
+## III — DEMANDE
 
 Je vous prie de bien vouloir :
 

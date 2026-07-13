@@ -43,7 +43,7 @@ Il contient une synthèse des faits, l'inventaire des pièces constitutives du d
 
 <hr>
 
-## I. STRATÉGIE DE RECOUVREMENT DES HONORAIRES PAR SUBROGATION ET PROTECTION FINANCIÈRE DE LA VICTIME
+## I — STRATÉGIE DE RECOUVREMENT DES HONORAIRES PAR SUBROGATION ET PROTECTION FINANCIÈRE DE LA VICTIME
 L'assistance par un avocat est indispensable pour mener à bien la liquidation du préjudice corporel et sécuriser l'indemnisation face à l'assureur de **[L'Exploitant du Commerce (La SAS)]**.
 
 Afin de lever tout obstacle financier pour **[La Victime]**, travailleur indépendant (**[L'Identifiant Professionnel de la Victime]**) actuellement privé de revenus professionnels, plusieurs mécanismes juridiques de subrogation et de remboursement des honoraires sont mobilisés :
@@ -65,7 +65,7 @@ Afin de lever tout obstacle financier pour **[La Victime]**, travailleur indépe
 
 <hr>
 
-## II. EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE
+## II — EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE
 Le vendredi **[J+0 Accident]**, **[La Victime]** s'est présenté au salon de coiffure « **[L'Exploitant du Commerce (La SAS)]** » à **[La Ville de l'Accident]** (**[L'Adresse de l'Exploitation]**) pour une prestation de coupe de cheveux. Après réalisation de celle-ci, il a payé et quitté le salon vers 15h00.
 
 Moins de cinq minutes après sa sortie, **[La Victime]** est retourné au salon afin de solliciter une retouche. Il a alors constaté que l'employé (**[Le Préposé de l'Exploitation]**) était monté physiquement sur la vasque en céramique d'un bac à shampoing.
@@ -80,7 +80,7 @@ Les examens cliniques constatent une section partielle du tendon fléchisseur, u
 
 <hr>
 
-## III. ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES
+## III — ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES
 **[La Victime]** agit actuellement en son nom propre et a formalisé les démarches suivantes :
 
 - Pièce 01 - Conclusions de Partie Civile : Récit des faits et fondements juridiques d'obligation ([Article 1242 alinéas 1 et 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^3] ; [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042[^4]640)).

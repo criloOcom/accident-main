@@ -38,7 +38,7 @@ J'interviens dans les intérêts de Monsieur [**[La Victime]**](../../../%F0%9F%
 
 <hr><hr>
 
-## I. PROBLÉMATIQUE : RISQUE DE DISPARITION DE LA PERSONNE MORALE
+## I — PROBLÉMATIQUE : RISQUE DE DISPARITION DE LA PERSONNE MORALE
 
 À la suite de ce grave sinistre, de multiples manquements aux règles de sécurité, constitutifs d'infractions pénales, ont été constatés à l'encontre de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
 
@@ -50,7 +50,7 @@ Une telle radiation entraînerait la perte de la personnalité morale de l'entre
 
 <hr><hr>
 
-## II. FONDEMENT JURIDIQUE : LA RADIATION D'OFFICE
+## II — FONDEMENT JURIDIQUE : LA RADIATION D'OFFICE
 
 Le Code de commerce encadre strictement les conditions de radiation d'office d'un commerçant ou d'une personne morale, notamment afin de prévenir la soustraction aux poursuites.
 
@@ -62,7 +62,7 @@ Le Code de commerce encadre strictement les conditions de radiation d'office d'u
 
 <hr><hr>
 
-## III. ARGUMENTATION : NÉCESSITÉ D'UNE MESURE CONSERVATOIRE
+## III — ARGUMENTATION : NÉCESSITÉ D'UNE MESURE CONSERVATOIRE
 
 Les dispositions précitées, si elles permettent l'assainissement du registre, ne sauraient être instrumentalisées par une entreprise débitrice d'obligations indemnitaires pour organiser son insolvabilité ou échapper à la justice.
 
@@ -74,7 +74,7 @@ L'intérêt à agir de mon client est ici caractérisé et actuel, fondé sur un
 
 <hr><hr>
 
-## IV. CONCLUSION : DEMANDE D'OPPOSITION
+## IV — CONCLUSION : DEMANDE D'OPPOSITION
 
 Au vu de l'urgence et du risque avéré de dissipation des garanties, je vous prie de bien vouloir, par la présente :
 

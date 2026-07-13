@@ -27,7 +27,7 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/06 📸 Requete Constat Huis
 
 ---
 
-## 1. IDENTIFICATION DES PARTIES
+## I — IDENTIFICATION DES PARTIES
 **Requérant :**
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
 
@@ -36,7 +36,7 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/06 📸 Requete Constat Huis
 
 <hr><hr>
 
-## 2. EXPOSÉ DES FAITS ET DE L'URGENCE EXTRÊME
+## II — EXPOSÉ DES FAITS ET DE L'URGENCE EXTRÊME
 Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), un accident corporel grave s'est produit dans les locaux de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
 
 Cet accident a été causé par le basculement d'une vasque défectueuse, ce qui a entraîné la blessure sévère de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md).
@@ -52,7 +52,7 @@ Le capital social de cette structure n'étant que de 200 euros, son insolvabilit
 
 <hr><hr>
 
-## 3. FONDEMENTS JURIDIQUES
+## III — FONDEMENTS JURIDIQUES
 La présente requête est fondée sur les dispositions conjointes des articles 145 et 873 du Code de procédure civile.
 
 ### SUR LES MESURES D'INSTRUCTION IN FUTURUM
@@ -75,7 +75,7 @@ La disparition des preuves matérielles indispensables à la future action au fo
 
 <hr><hr>
 
-## 4. OBJET DU CONSTAT
+## IV — OBJET DU CONSTAT
 Il est sollicité qu'il plaise à l'huissier instrumentaire de se rendre en urgence sur les lieux de l'accident et de procéder aux constatations suivantes :
 
 ### 1.  **L'état du bac à shampoing (la vasque)**
@@ -95,7 +95,7 @@ Illustrer l'ensemble des constatations par des prises de vues photographiques ne
 
 <hr><hr>
 
-## 5. DISPOSITIF
+## V — DISPOSITIF
 Par ces motifs, et vu l'urgence extrême liée au risque de déperdition des preuves, il est demandé de :
 
 **Donner acte à l'huissier instrumentaire de ses constatations et photographies** dans le cadre du procès-verbal de constat qui sera dressé à l'issue de ses opérations.
