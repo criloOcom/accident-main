@@ -98,20 +98,26 @@ Le bac à shampoing en céramique, instable et présentant une cassure préexist
 > **Code du travail > Section 1 : Principes.[^3]**
 
 - **Absence de DUERP** :  
-À ce jour, aucun Document Unique d'Évaluation des Risques Professionnels ne m'a été communiqué par l'exploitant malgré ma mise en demeure du [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md). J'ignore si ce document existe effectivement ou s'il est à jour, et je sollicite de vos services la vérification de son existence et de sa mise à jour.
+À ce jour, aucun Document Unique d'Évaluation des Risques Professionnels ne m'a été communiqué par l'exploitant malgré ma mise en demeure du [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md).
+
+J'ignore si ce document existe effectivement ou s'il est à jour, et je sollicite de vos services la vérification de son existence et de sa mise à jour.
 
 - **Défaut d'assurance de Responsabilité Civile Professionnelle** :  
 L'exploitant n'a affiché aucune attestation d'assurance RC professionnelle au sein du salon de coiffure et a omis d'indiquer l'identité de son assureur malgré mes demandes répétées, ce qui fait craindre un défaut total de couverture obligatoire.
 
 - **Absence d'équipement d'accès en hauteur** :  
-Le préposé a dû monter sur le bac à shampoing pour accéder au poste de télévision, en l'absence de tout équipement de travail adapté (escabeau, marchepied) mis à disposition par l'employeur. Cette situation est susceptible de méconnaître l'obligation de sécurité de l'employeur (Article L. 4121-1 du Code du travail) et les règles relatives aux travaux en hauteur (Articles R. 4323-58 et suivants du Code du travail), l'employeur devant fournir un plan de travail ou un équipement d'accès approprié permettant l'intervention en sécurité.
+Le préposé a dû monter sur le bac à shampoing pour accéder au poste de télévision, en l'absence de tout équipement de travail adapté (escabeau, marchepied) mis à disposition par l'employeur.
+
+Cette situation est susceptible de méconnaître l'obligation de sécurité de l'employeur (Article L. 4121-1 du Code du travail) et les règles relatives aux travaux en hauteur (Articles R. 4323-58 et suivants du Code du travail), l'employeur devant fournir un plan de travail ou un équipement d'accès approprié permettant l'intervention en sécurité.
 
 > *« L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. »* <br>
 > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)  
 > **Code du travail > Chapitre Ier : Obligations de l'employeur.[^4]**
 
 - **Travail dissimulé présumé** :  
-Il existe une possibilité que le préposé exerçant dans l'établissement ne soit pas déclaré. Cet indice est étayé par le fait que la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) déclare officiellement zéro salarié au Registre National des Entreprises, alors que l'activité commerciale du salon est continue et requiert la présence physique de ce préposé.
+Il existe une possibilité que le préposé exerçant dans l'établissement ne soit pas déclaré.
+
+Cet indice est étayé par le fait que la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) déclare officiellement zéro salarié au Registre National des Entreprises, alors que l'activité commerciale du salon est continue et requiert la présence physique de ce préposé.
 
 ### 4. TRANSMISSION AU PARQUET
 Si les faits constatés par vos contrôles s'avèrent constitutifs d'infractions pénales, je vous remercie par avance de bien vouloir transmettre votre rapport au Procureur de la République près le Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) conformément à l'Article 40 du Code de procédure pénale.

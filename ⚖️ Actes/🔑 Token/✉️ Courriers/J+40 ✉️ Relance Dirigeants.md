@@ -57,7 +57,9 @@ Je conçois que la fermeture soudaine et la réorganisation de votre établissem
 
 J'ai constaté que votre salon de coiffure a fermé ses portes immédiatement après l'accident du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) pour ne rouvrir que le **[DATE REOUVERTURE BOUTIQUE]**. 
 
-L'absence de réponse à ma mise en demeure initiale ayant dépassé le délai légal de 30 jours, l'inertie de votre société a potentiellement déjà causé l'effacement ou la destruction irrémédiable des bandes de vidéosurveillance (dont la durée de sauvegarde est limitée par la CNIL et l'article L. 252-5 du Code de la sécurité intérieure). Par ailleurs, la vasque en céramique à l'origine du sinistre et son support ont pu être réparés ou retirés.
+L'absence de réponse à ma mise en demeure initiale ayant dépassé le délai légal de 30 jours, l'inertie de votre société a potentiellement déjà causé l'effacement ou la destruction irrémédiable des bandes de vidéosurveillance (dont la durée de sauvegarde est limitée par la CNIL et l'article L. 252-5 du Code de la sécurité intérieure).
+
+Par ailleurs, la vasque en céramique à l'origine du sinistre et son support ont pu être réparés ou retirés.
 
 Par la présente, je vous intime formellement l'injonction de conserver et de ne pas altérer tout élément matériel restant lié à l'accident. Toute destruction ou altération intentionnelle de ces éléments est susceptible de caractériser le délit d'entrave à la manifestation de la vérité prévu par l'article 434-4 du Code pénal (reproduit en Annexe 1).
 
@@ -71,9 +73,17 @@ Ma présence ainsi que le déroulement de l'accident sont déjà documentés par
 
 ## RAPPEL DE LA DEMANDE D'ASSURANCE
 
-Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur. En descendant, son poids a provoqué le basculement soudain de l'installation. Par réflexe, j'ai tendu la main droite pour le retenir. Ma paume a alors percuté une cassure majeure préexistante et non signalée sur le flanc de la vasque. 
+Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur.
 
-Cette percussion m'a sectionné les tendons et les nerfs de l'index droit, blessure grave ayant nécessité une chirurgie réparatrice d'urgence le [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) à [**[L'Établissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-etablissement-sos-main.md). Les conséquences fonctionnelles de ce sinistre sur ma vie quotidienne et mon activité professionnelle sont majeures.
+En descendant, son poids a provoqué le basculement soudain de l'installation.
+
+Par réflexe, j'ai tendu la main droite pour le retenir.
+
+Ma paume a alors percuté une cassure majeure préexistante et non signalée sur le flanc de la vasque. 
+
+Cette percussion m'a sectionné les tendons et les nerfs de l'index droit, blessure grave ayant nécessité une chirurgie réparatrice d'urgence le [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) à [**[L'Établissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-etablissement-sos-main.md).
+
+Les conséquences fonctionnelles de ce sinistre sur ma vie quotidienne et mon activité professionnelle sont majeures.
 
 Je vous demande donc de me communiquer sous 15 jours :
 1. Le nom et les coordonnées de l'assureur RC professionnelle de votre société au [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) ;
