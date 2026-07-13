@@ -24,12 +24,14 @@ graph TD
     M --> SV[STRICT VARIABLES]
     M --> P[PIECES MAP]
     M --> J[JURITEXT PROTOCOL]
+    M --> DEP[DEPENDANCES]
     M --> RA[RAPPORTS — audits]
 ```
 
 ### Fichiers Principaux
 
 - **DECISIONS.md** - Décisions clés et choix architecturaux
+- **DEPENDANCES.md** - Graphe des dépendances logiques des actes
 - **STRICT VARIABLES.md** - Variables et constantes de référence
 - **TODO.md** - Liste des tâches et roadmap
 - **WORKFLOW.md** - Processus et workflows du projet

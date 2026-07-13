@@ -13,6 +13,9 @@ type: readme
 **Ce dossier rassemble l'ensemble des courriers envoyés dans le cadre de la procédure, organisés par type d'acte juridique.**  
 Chaque courrier a un objectif précis : obtenir des informations, mettre en demeure, sécuriser des preuves, ou alerter les autorités compétentes.
 
+Pour visualiser l'ordre logique d'expédition de ces courriers et leurs interdépendances, consultez le [Graphe des Dépendances](../../../%F0%9F%A7%A0%20Memory/DEPENDANCES.md).
+
+
 ## Arborescence
 
 ```
