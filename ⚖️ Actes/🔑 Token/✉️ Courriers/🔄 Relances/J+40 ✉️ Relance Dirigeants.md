@@ -73,7 +73,7 @@ Ma présence ainsi que le déroulement de l'accident sont déjà documentés par
 
 ## II — RAPPEL DE LA DEMANDE D'ASSURANCE
 
-Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur.
+Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing.
 
 En descendant, son poids a provoqué le basculement soudain de l'installation.
 
@@ -81,7 +81,7 @@ Par réflexe, j'ai tendu la main droite pour le retenir.
 
 Ma paume a alors percuté une cassure majeure préexistante et non signalée sur le flanc de la vasque. 
 
-Cette percussion m'a sectionné les tendons et les nerfs de l'index droit, blessure grave ayant nécessité une chirurgie réparatrice d'urgence le [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) à [**[L'Établissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-etablissement-sos-main.md).
+Cette percussion m'a sectionné le tendon et les nerfs de l'index droit, blessure grave ayant nécessité une chirurgie réparatrice d'urgence le [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) à [**[L'Établissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-etablissement-sos-main.md).
 
 Les conséquences fonctionnelles de ce sinistre sur ma vie quotidienne et mon activité professionnelle sont majeures.
 
