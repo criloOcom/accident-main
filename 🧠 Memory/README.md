@@ -20,6 +20,7 @@ graph TD
     M[🧠 Memory] --> V[VACCIN — lire en 1er]
     M --> S[STATUS — avancement]
     M --> R[RULES — règles]
+    M --> C[CONVENTIONS — formatage]
     M --> D[DECISIONS]
     M --> T[TOKEN MAP]
     M --> SV[STRICT VARIABLES]
@@ -31,6 +32,7 @@ graph TD
 
 ### Fichiers Principaux
 
+- **[CONVENTIONS](CONVENTIONS.md)** - 🔴 Conventions de formatage unifiées
 - **DECISIONS.md** - Décisions clés et choix architecturaux
 - **DEPENDANCES.md** - Graphe des dépendances logiques des actes
 - **STRICT VARIABLES.md** - Variables et constantes de référence
