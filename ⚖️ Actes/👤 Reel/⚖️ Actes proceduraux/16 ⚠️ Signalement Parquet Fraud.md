@@ -56,7 +56,6 @@ Ces agissements, s'ils étaient confirmés, pourraient recevoir la qualification
 **Sur l'organisation frauduleuse d'insolvabilité :**
 
 > *« Le fait, par un débiteur, même avant la décision judiciaire constatant sa dette, d'organiser ou d'aggraver son insolvabilité soit en augmentant le passif ou en diminuant l'actif de son patrimoine, soit en diminuant ou en dissimulant tout ou partie de ses revenus, soit en dissimulant certains de ses biens, en vue de se soustraire à l'exécution d'une condamnation de nature patrimoniale prononcée par une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou d'aliments, prononcée par une juridiction civile, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. »* <br>
-> *« Le fait, par un débiteur, même avant la décision judiciaire constatant sa dette, d'organiser ou d'aggraver son insolvabilité soit en augmentant le passif ou en diminuant l'actif de son patrimoine, soit en diminuant ou en dissimulant tout ou partie de ses revenus, soit en dissimulant certains de ses biens, en vue de se soustraire à l'exécution d'une condamnation de nature patrimoniale prononcée par une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou d'aliments, prononcée par une juridiction civile, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. »* <br>
 > [Article 314-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226) <br>
 > **Code pénal.[^3]**
 
@@ -74,6 +73,13 @@ Au regard de la gravité de ces faits, qui semblent orchestrés dans le but mani
 
 Je me tiens à votre entière disposition pour tout renseignement complémentaire et pour la transmission de toute pièce utile à l'instruction de cette affaire.
 
+Je vous prie de croire, Monsieur le Procureur de la République, en l'assurance de ma très haute considération.
+
+Fait à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), le [Date].
+
+[Nom Prénom de l'Avocat](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
+Avocat de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+
 ---
 
 ## PIECES JOINTES
@@ -82,16 +88,7 @@ Je me tiens à votre entière disposition pour tout renseignement complémentair
 
 - **[Constitution de partie civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** — Procedure penale en cours
 
-- **[Mises en demeure J+31](../%F0%9F%93%AC%20Mise%20en%20demeure%20SAS.md)** — LRAR restees sans reponse
-
-Je vous prie de croire, Monsieur le Procureur de la République, en l'assurance de ma très haute considération.
-
-Fait à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), le [Date].
-
-[Nom Prénom de l'Avocat](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
-Avocat de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
-
+- **[Mises en demeure J+31](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md)** — LRAR restees sans reponse
 
 ## Sources Législation
 
