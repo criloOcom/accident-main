@@ -61,6 +61,7 @@ Le salon de coiffure constitue un Établissement Recevant du Public (ERP) de 5e 
 
 - **Installation dangereuse en hauteur** :  
 Un poste de télévision est installé en hauteur de manière inaccessible, nécessitant de monter sur le bac à shampoing en céramique pour toute intervention. Cette configuration matérielle est susceptible de compromettre la sécurité des personnes amenées à y accéder ou à stationner à proximité directe.
+
 - **Maintien en service d'un équipement sanitaire détérioré** :  
 Le bac à shampoing en céramique, instable et présentant une cassure préexistante majeure, a basculé sous le poids du préposé. En se brisant, il a exposé des arêtes tranchantes qui ont causé de graves lésions à ma main droite.
 

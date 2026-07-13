@@ -92,9 +92,13 @@ Je porte par ailleurs a votre connaissance les manquements suivants, constates d
 > *« Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. »* <br>
 > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) <br>
 > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.[^2]**
+
 - Equipement defectueux (bac a shampoing instable avec cassure preexistante)
+
 - Absence presumee de DUERP
+
 - Defaut presumee d'assurance RC professionnelle
+
 - Travail dissimule presume
 
 <hr>
