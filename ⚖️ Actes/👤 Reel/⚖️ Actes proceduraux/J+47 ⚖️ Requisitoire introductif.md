@@ -34,25 +34,25 @@ drive_id: À compléter
 # RÉQUISITOIRE INTRODUCTIF DU MINISTÈRE PUBLIC
 **Ouverture d'une information judiciaire — Blessures involontaires et infractions connexes**
 
-Tribunal Judiciaire de Foix
+Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md)
 Le Procureur de la République
 
 RÉFÉRENCE PARQUET : [À compléter]
-RÉFÉRENCE PLAINTE : [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)
+RÉFÉRENCE PLAINTE : PV n°2026/015967
 
 À l'attention de Monsieur le Doyen des Juges d'Instruction,
-Tribunal Judiciaire de Foix
+Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md)
 
 <hr><hr>
 
 ## I. PROBLÉMATIQUE ET EXPOSÉ DES FAITS
-Le Ministère Public a été saisi par la plainte, puis par la [constitution de partie civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) en date du 6 juillet 2026, déposées par Sébastien GRAZIDE à l'encontre de la SAS SAS LES MAUVAIS GARCONS, ainsi que de ses dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC.
+Le Ministère Public a été saisi par la plainte, puis par la [constitution de partie civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) en date du [6 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-38-constitution-pc.md), déposées par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) à l'encontre de la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), ainsi que de ses dirigeants, [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md).
 
-Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, Sébastien GRAZIDE, qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS SAS LES MAUVAIS GARCONS, sis 22 Rue Lafaurie, 09000 Foix, a été victime d'un grave accident corporel.
+Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), sis [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-l-exploitation.md), a été victime d'un grave accident corporel.
 
-Alors que Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à shampoing, cet équipement instable a basculé sous son poids.
+Alors que [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-prepose-de-l-exploitation.md) était monté sur la vasque en céramique d'un bac à shampoing, cet équipement instable a basculé sous son poids.
 
-En tentant par réflexe de retenir le préposé, Sébastien GRAZIDE a heurté de la main droite une cassure majeure préexistante et non signalée sur le flanc de la vasque.
+En tentant par réflexe de retenir le préposé, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) a heurté de la main droite une cassure majeure préexistante et non signalée sur le flanc de la vasque.
 
 Ce choc a provoqué une section nerveuse et tendineuse profonde de l'index droit, nécessitant une intervention microchirurgicale d'urgence le 30 mai 2026.
 
@@ -103,7 +103,7 @@ S'agissant des personnes physiques qui n'ont pas causé directement le dommage (
 > **Code pénal > Partie législative > Livre Ier > Titre II > Chapitre Ier.** <br>
 > [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) <br>
 
-Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à Sabir MOUNTASSER et Catherine ANDISSAC.
+Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md).
 
 ### D. SUR LA PRESCRIPTION
 Conformément à l'article 8 du Code de procédure pénale, l'action publique pour les délits se prescrit par six années révolues à compter du jour où l'infraction a été commise. L'infraction datant du 29 mai 2026, aucune prescription n'est acquise.
@@ -117,7 +117,7 @@ Conformément à l'article 8 du Code de procédure pénale, l'action publique po
 ## III. ARGUMENTATION DU MINISTÈRE PUBLIC
 Les faits dénoncés revêtent une indéniable gravité, les conséquences pour la victime, informaticien de profession, étant majeures (atteinte nerveuse de la main dominante).
 
-L'enquête préliminaire se heurte actuellement à l'obstruction manifeste de la société SAS LES MAUVAIS GARCONS et de ses dirigeants, qui refusent de communiquer les attestations d'assurance de responsabilité civile professionnelle de l'établissement, paralysant l'indemnisation de la victime via l'action directe prévue par l'article L. 124-3 du Code des assurances.
+L'enquête préliminaire se heurte actuellement à l'obstruction manifeste de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) et de ses dirigeants, qui refusent de communiquer les attestations d'assurance de responsabilité civile professionnelle de l'établissement, paralysant l'indemnisation de la victime via l'action directe prévue par l'article L. 124-3 du Code des assurances.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
@@ -148,11 +148,11 @@ Par ces motifs,
 
 Vu les articles 222-20, 223-1, 121-2 et 121-3 du Code pénal ;
 Vu les articles 80 et suivants du Code de procédure pénale ;
-Vu la plainte et la [constitution de partie civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) de Sébastien GRAZIDE ;
+Vu la plainte et la [constitution de partie civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) ;
 
 Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 
-**OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER, et Catherine ANDISSAC, du chef de :
+**OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md), et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md), du chef de :
 
 - Blessures involontaires avec incapacité n'excédant pas trois mois par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement (Art. 222-20 C. pénal) ;
 
@@ -162,7 +162,7 @@ Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 
 **DÉCERNER** tous mandats qu'il appartiendra.
 
-Fait au Parquet de Foix, le 15 juillet 2026.
+Fait au Parquet de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md), le 15 juillet 2026.
 
 **Le Procureur de la République**
 

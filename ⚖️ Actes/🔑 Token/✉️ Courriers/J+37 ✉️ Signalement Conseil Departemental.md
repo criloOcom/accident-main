@@ -18,18 +18,9 @@ source: drive
 drive_id: 1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ
 ---
 
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 16 ✉️ Courrier Conseil Departemental
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 16 ✉️ Courrier Conseil Departemental*
+<hr>
 <!-- /Breadcrumb -->
 
 # SIGNALEMENT DE NON-CONFORMITE D'ERP AU CONSEIL DEPARTEMENTAL DE L'ARIEGE
@@ -57,13 +48,7 @@ La presente est adressee a vos services par [**[La Victime]**](../../../%F0%9F%A
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
-<hr>
-
-- [I — RAPPEL DES FAITS](#i--rappel-des-faits)
-- [II — NON-CONFORMITES CONSTATÉES](#ii--non-conformites-constatees)
-- [III — DEMANDE](#iii--demande)
-
-<hr>
+<hr><hr>
 
 ## I — RAPPEL DES FAITS
 Le salon de coiffure constitue un Etablissement Recevant du Public (ERP) de 5e categorie, soumis aux dispositions du Code de la construction et de l'habitation ainsi qu'au Reglement de securite contre les risques d'incendie et de panique dans les ERP (arrete du 25 juin 1980 modifie).

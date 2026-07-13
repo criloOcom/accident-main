@@ -29,12 +29,12 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/18 Note Audit RNE NPAI SAS.m
 ### 1. Statut officiel de [L'Exploitant du Commerce (La SAS)]
 | Champ | Valeur |
 |-------|--------|
-| SIREN | 938 033 222 |
+| SIREN | [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-siren-de-l-exploitation.md) |
 | Statut RNE | **Active** (inscrite, dernière MAJ 08/07/2026) |
 | Siège social | 22 Rue Lafaurie, 09000 Foix (inchangé) |
 | Capital | 200 € |
-| Président | Sabir MOUNTASSER |
-| DG | Catherine ANDISSAC |
+| Président | [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) |
+| DG | [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) |
 | Salariés | 0 (zéro) |
 | Établissements | 1 (unique au 22 Rue Lafaurie) |
 | Comptes | **En défaut de publication** |
@@ -50,7 +50,7 @@ Les courriers recommandés adressés à la SAS reviennent NPAI alors que la soci
 La société a 0 salarié. Le salon est fermé depuis l'accident (29 mai 2026). Personne ne réceptionne le courrier.
 
 #### 2. **Directeurs résidant hors Foix**
-Catherine ANDISSAC réside à Toulouse (31100). Sabir MOUNTASSER réside à Foix mais peut avoir quitté les lieux.
+[Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) réside à Toulouse (31100). [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) réside à Foix mais peut avoir quitté les lieux.
 
 #### 3. **Évitement délibéré**
 Les dirigeants peuvent avoir demandé le renvoi du courrier ou laissent le courrier s'accumuler sans le réclamer.

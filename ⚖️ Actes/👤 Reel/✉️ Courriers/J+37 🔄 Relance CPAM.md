@@ -33,30 +33,30 @@ drive_id: 1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k
 
 # RELANCE CPAM — SUIVI DU DOSSIER DE RECOURS CONTRE TIERS
 > 🔗 Source Google Drive : [1MHhZf_KN4b3…](https://drive.google.com/open?id=1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k)
-Sébastien GRAZIDE
-10 Avenue de Purpan, 31700 Blagnac
-Courriel : sebastien.grazide@gmail.com
+[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md)
+
+Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
 
 **CPAM de la Haute-Garonne**
 
 [À compléter]
 
-Foix, le 5 juillet 2026
+[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md), le [5 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-37-assignation-145.md)
 
-Objet : Relance et demande d'etat d'avancement — Recours contre tiers n° 31727387
+Objet : Relance et demande d'etat d'avancement — Recours contre tiers n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
 
 <hr>
 
-Ref : Accident du 29 mai 2026 — SAS SAS LES MAUVAIS GARCONS
+Ref : Accident du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) — SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md)
 
 Madame, Monsieur,
 
-La presente est adressee a vos services par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS, immatriculee sous le SIREN 938 033 222.
+La presente est adressee a vos services par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), immatriculee sous le SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-siren-de-l-exploitation.md).
 
 <hr>
 
 ## I — OBJET DE LA RELANCE
-Un dossier de recours contre tiers a ete ouvert par vos services sous le numero 31727387 le 3 juin 2026 a la suite de mon accident.
+Un dossier de recours contre tiers a ete ouvert par vos services sous le numero **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** le [3 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-5-ouverture-cpam.md) a la suite de mon accident.
 
 Je me permets de solliciter de vos services :
 
@@ -76,8 +76,8 @@ Conformement a l'Article L.376-1 du Code de la securite sociale, je souhaiterais
 **4. Les demarches a entreprendre** <br>
 Je vous remercie de bien vouloir m'indiquer les demarches que je dois entreprendre pour le suivi de mon dossier et la transmission des informations necessaires au bon deroulement de la procedure.
 
-Mes coordonnees : 10 Avenue de Purpan, 31700 Blagnac — Courriel : sebastien.grazide@gmail.com
+Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md) — Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 
-Sébastien GRAZIDE
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)

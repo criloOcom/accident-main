@@ -26,19 +26,19 @@ drive_id: 1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw
 
 # SUIVI — DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF
 > 🔗 Source Google Drive : [1Xj4wf-v-ShC…](https://drive.google.com/open?id=1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw)
-Sébastien GRAZIDE
-10 Avenue de Purpan, 31700 Blagnac
-Courriel : sebastien.grazide@gmail.com
+[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md)
 
-Monsieur TAVELLA
+Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
 
-Mairie de Foix
+[Monsieur TAVELLA](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adjoint-au-maire-de-la-commune.md)
+
+Mairie de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md)
 
 [**[Adresse de la Mairie]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
-[**[Code Postal de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-code-postal-de-l-accident.md) Foix
+[**[Code Postal de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-code-postal-de-l-accident.md) [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md)
 
-Foix, le 5 juillet 2026
+[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md), le [5 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-37-assignation-145.md)
 
 Objet : Suite a votre message du 1er juin 2026 — Demande d'information sur les diligences Inspection du Travail et CODAF
 
@@ -49,11 +49,11 @@ Monsieur l'Adjoint au Maire,
 <hr><hr>
 
 ## INTRODUCTION
-La presente lettre fait suite a votre courriel du 1er juin 2026 par lequel vous m'informiez avoir pris l'attache des services de la prefecture afin de diligenter l'inspection du travail et le CODAF (Comite Operationnel Departemental Anti Fraude) a la suite de l'accident corporel grave dont j'ai ete victime le 29 mai 2026 au sein du salon de coiffure SAS LES MAUVAIS GARCONS.
+La presente lettre fait suite a votre courriel du 1er juin 2026 par lequel vous m'informiez avoir pris l'attache des services de la prefecture afin de diligenter l'inspection du travail et le CODAF (Comite Operationnel Departemental Anti Fraude) a la suite de l'accident corporel grave dont j'ai ete victime le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) au sein du salon de coiffure SAS LES MAUVAIS GARCONS.
 
 Je vous remercie chaleureusement pour votre diligence et votre soutien.
 
-Dans le cadre de la procedure judiciaire que j'ai engagee a l'encontre de l'exploitant (plainte deposee au commissariat de Foix le 1er juin 2026, PV n° 2026/015967), je constitue un dossier d'indemnisation complet et permanent.
+Dans le cadre de la procedure judiciaire que j'ai engagee a l'encontre de l'exploitant (plainte deposee au commissariat de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) le 1er juin 2026, PV n° [2026/015967](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), je constitue un dossier d'indemnisation complet et permanent.
 
 A ce titre, les elements suivants me seraient d'une grande utilite pour etayer mon dossier civil et penal :
 
@@ -75,4 +75,4 @@ Je vous rappelle que l'Article L. 311-1 du Code des relations entre le public et
 
 Dans l'attente de votre retour, je vous prie de croire, Monsieur l'Adjoint au Maire, a l'expression de ma consideration distinguee.
 
-Sébastien GRAZIDE
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)

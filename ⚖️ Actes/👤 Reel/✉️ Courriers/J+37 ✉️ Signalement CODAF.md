@@ -17,25 +17,16 @@ source: drive
 drive_id: 1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY
 ---
 
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 14 ✉️ Courrier CODAF
+<hr>
 <!-- /Breadcrumb -->
 
 # SIGNALEMENT OFFICIEL AU COMITE DEPARTEMENTAL ANTI-FRAUDE DE L'ARIEGE
 > 🔗 Source Google Drive : [1Lva-hW9g9d6…](https://drive.google.com/open?id=1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY)
-Sébastien GRAZIDE
-10 Avenue de Purpan, 31700 Blagnac
-Courriel : sebastien.grazide@gmail.com
+[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md)
+
+Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
 
 **CODAF de l'Ariege**
 Prefécture de l'Ariège
@@ -43,50 +34,53 @@ Prefécture de l'Ariège
 BP 40087
 09007 Foix Cedex
 
-Foix, le 11 juillet 2026
+[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md), le 11 juillet 2026
 
-Objet : Signalement officiel de manquements et demandes d'enquete — SAS SAS LES MAUVAIS GARCONS
+Objet : Signalement officiel de manquements et demandes d'enquete — SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md)
 
-Ref : SIREN 938 033 222 — Signalement Mairie de Foix du 1er juin 2026
+Ref : SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-siren-de-l-exploitation.md) — Signalement Mairie de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) du 1er juin 2026
 
 Madame, Monsieur le President du CODAF,
 
+<hr><hr>
+
 ## INTRODUCTION
-La presente est adressee au CODAF de l'Ariege par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS, immatriculee sous le SIREN 938 033 222.
+La presente est adressee au CODAF de l'Ariege par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), immatriculee sous le SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-siren-de-l-exploitation.md).
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
 Sa chute a entraine sur ma main droite une plaie palmaire profonde avec lesions tendineuses et vasculo-nerveuses de l'index dominant, ayant necessite une microchirurgie d'urgence.
 
-<hr>
-
-- [I — RAPPEL DES FAITS](#i--rappel-des-faits)
-- [II — MANQUEMENTS CONSTATES](#ii--manquements-constates)
-- [III — DEMANDE D'ENQUETE](#iii--demande-denquete)
-
-<hr>
+<hr><hr>
 
 ## I — RAPPEL DES FAITS
-La SAS SAS LES MAUVAIS GARCONS a ete immatriculee le 1er juin 2024 avec un capital de 200 €. Selon les informations publiques disponibles, elle ne declare aucun salarie. Pourtant, le 29 mai 2026, un prepose exerçait une activite de coiffure dans l'etablissement.
+La SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) a ete immatriculee le 1er juin 2024 avec un capital de 200 €. Selon les informations publiques disponibles, elle ne declare aucun salarie. Pourtant, le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md), un prepose exerçait une activite de coiffure dans l'etablissement.
 
 L'accident est survenu dans les conditions suivantes :
 - Le prepose est monte sur le bac a shampoing pour acceder au poste de television, en l'absence d'escabeau
+
 - La vasque en ceramique, instable et presentant une cassure preexistante, a bascule sous son poids
+
 - Ma main droite a heurte la cassure, entrainant une plaie grave
 
-<hr>
+<hr><hr>
 
 ## II — MANQUEMENTS CONSTATES
 Les manquements suivants sont susceptibles de relever de la competence du CODAF :
 
 **1. Travail dissimule presume** (Article L.8221-5 du Code du travail)
 
-> « Est réputé travail dissimulé par dissimulation d'emploi salarié le fait pour tout employeur : 1° Soit de se soustraire intentionnellement à l'accomplissement de la formalité prévue à l'article L. 1221-10 , relatif à la déclaration préalable à l'embauche ; 2° Soit de se soustraire intentionnellement à la délivrance d'un bulletin de paie ou d'un document équivalent défini par voie réglementaire, ou de mentionner sur le bulletin de paie ou le document équivalent un nombre d'heures de travail inférieur à celui réellement accompli, si cette mention ne résulte pas d'une convention ou d'un accord collectif d'aménagement du temps de travail conclu en application du titre II du livre Ier de la troisième partie ; 3° Soit de se soustraire intentionnellement aux déclarations relatives aux salaires ou aux cotisations sociales assises sur ceux-ci auprès des organismes de recouvrement des contributions et cotisations sociales ou de l'administration fiscale en vertu des dispositions légales. » <br>
+> « Est réputé travail dissimulé par dissimulation d'emploi salarié le fait pour tout employeur :
+> - 1° Soit de se soustraire intentionnellement à l'accomplissement de la formalité prévue à l'article L. 1221-10 , relatif à la déclaration préalable à l'embauche ;
+> - 2° Soit de se soustraire intentionnellement à la délivrance d'un bulletin de paie ou d'un document équivalent défini par voie réglementaire, ou de mentionner sur le bulletin de paie ou le document équivalent un nombre d'heures de travail inférieur à celui réellement accompli, si cette mention ne résulte pas d'une convention ou d'un accord collectif d'aménagement du temps de travail conclu en application du titre II du livre Ier de la troisième partie ;
+> - 3° Soit de se soustraire intentionnellement aux déclarations relatives aux salaires ou aux cotisations sociales assises sur ceux-ci auprès des organismes de recouvrement des contributions et cotisations sociales ou de l'administration fiscale en vertu des dispositions légales. » <br>
 > **Code du travail > Section 3 : Travail dissimulé par dissimulation d'emploi salarié.** <br>
 > [Article L8221-5 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966) <br>
+
 - Presence d'un employe non declare exerçant une activite de coiffure
 - Absence de DPAE, de bulletin de paie, d'affichage obligatoire
 - Dirigeants n'ayant fourni aucune information sociale malgre mise en demeure
+
 
 **2. Defaut d'assurance RC professionnelle presume**
 - Absence d'affichage de l'assurance RC dans l'etablissement
@@ -109,29 +103,31 @@ Les manquements suivants sont susceptibles de relever de la competence du CODAF 
 **4. Fraude potentielle aux declarations**
 - Capital social de 200 € pour une activite commerciale
 - Possibilite de sous-capitalisation volontaire pour limiter la responsabilite
-- Dissociation entre siege social (Foix) et domiciliation des dirigeants (Foix et Toulouse)
+- Dissociation entre siege social ([Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md)) et domiciliation des dirigeants ([Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) et [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-metropole-regionale.md))
 
-<hr>
+<hr><hr>
 
 ## III — DEMANDE D'ENQUETE
 Je sollicite du CODAF qu'une enquete soit diligentee afin de verifier l'ensemble de ces elements. Conformement a l'Article 40 du Code de procedure penale, si les faits constates sont constitutifs d'infractions, je vous remercie de bien vouloir en informer le Procureur de la Republique.
 
-> « Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1. Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. » <br>
+> « Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1.
+>
+> Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. » <br>
 > **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.** <br>
 > [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) <br>
 
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 - Copie du [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procedure penale)
 - Accuses de reception des courriers recommandes retournes (29 juin 2026 — mentions NPAI)
-- [Extrait Kbis](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS SAS LES MAUVAIS GARCONS (938 033 222)
+- [Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) ([938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-siren-de-l-exploitation.md))
 - Dossier medical complet (11 pieces)
 
 Je vous remercie de bien vouloir me faire parvenir un accuse de reception ecrit de la presente, ainsi qu'une response dans un delai de 15 jours.
 
-Mes coordonnees pour reponse : 10 Avenue de Purpan, 31700 Blagnac — Courriel : sebastien.grazide@gmail.com
+Mes coordonnees pour reponse : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md) — Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le President, l'expression de ma consideration distinguee.
 
-Sébastien GRAZIDE
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)

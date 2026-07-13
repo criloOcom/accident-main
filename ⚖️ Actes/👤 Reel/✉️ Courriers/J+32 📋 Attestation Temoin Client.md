@@ -43,10 +43,10 @@ N'ayant aucun lien de parenté, d'alliance, de subordination, ni d'intérêt com
 
 Atteste sur l'honneur des faits suivants :
 
-[À compléter : Si le texte suivant correspond à ce que vous avez vu et entendu le 29 mai 2026, vous pouvez le recopier ou vous en inspirer. Sinon, décrivez librement les faits avec vos propres mots.]
+[À compléter : Si le texte suivant correspond à ce que vous avez vu et entendu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md), vous pouvez le recopier ou vous en inspirer. Sinon, décrivez librement les faits avec vos propres mots.]
 
-"Je me trouvais dans le salon de coiffure SAS LES MAUVAIS GARCONS le 29 mai 2026. L'ambiance était normale. J'ai vu le coiffeur, Ayoub BENNOURINE, monter physiquement sur la vasque en céramique du bac à shampoing. En descendant, son poids a provoqué le basculement soudain de l'équipement, faisant un bruit important.
-J'ai alors vu un autre client, Sébastien GRAZIDE, tendre la main droite par un réflexe immédiat pour tenter de rattraper le coiffeur et le protéger de la chute. Sa paume a heurté le flanc de la vasque.
+"Je me trouvais dans le salon de coiffure [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md). L'ambiance était normale. J'ai vu le coiffeur, [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-prepose-de-l-exploitation.md), monter physiquement sur la vasque en céramique du bac à shampoing. En descendant, son poids a provoqué le basculement soudain de l'équipement, faisant un bruit important.
+J'ai alors vu un autre client, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), tendre la main droite par un réflexe immédiat pour tenter de rattraper le coiffeur et le protéger de la chute. Sa paume a heurté le flanc de la vasque.
 J'ai immédiatement constaté un saignement très abondant (beaucoup de sang) provenant de sa main. La situation était très urgente. Les secours (pompiers/SAMU) ont été appelés et sont arrivés rapidement sur les lieux pour le prendre en charge."
 
 Conscient que cette attestation pourra être utilisée en justice et que toute fausse déclaration de ma part m'expose à des sanctions pénales.

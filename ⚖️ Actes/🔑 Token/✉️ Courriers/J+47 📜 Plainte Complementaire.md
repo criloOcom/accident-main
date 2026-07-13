@@ -183,7 +183,7 @@ Au vu des éléments ci-dessus exposés, je sollicite de votre bienveillance l'o
 
 3. **Accusés de réception des LRAR retournés NPAI** (29 juin 2026)
 
-4. **[[Extrait Kbis](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS [L'Exploitant du Commerce (La SAS)]](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** (SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-siren-de-l-exploitation.md))
+4. **[Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]**](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** (SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-siren-de-l-exploitation.md))
 
 5. **Note d'audit RNE/INPI** du 10 juillet 2026
 

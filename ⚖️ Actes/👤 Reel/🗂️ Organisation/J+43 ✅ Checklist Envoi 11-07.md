@@ -41,13 +41,13 @@ reel_path: ../../👤 Reel/🗂️ Organisation/24 ✅ Checklist Envoi 11-07-202
 ### 4 jeux de pieces jointes (pour les courriers 12-14-19)
 - [ ] Copie [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (x3)
 - [ ] Accuses de reception NPAI 29/06 (x3)
- - [ ] [Extrait Kbis](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) SAS LES MAUVAIS GARCONS (x3)
+  - [ ] [Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) (x3)
  - [ ] Dossier medical complet 11 pieces (x3)
 
 ### 1 jeu de pieces jointes specifique (courrier 35 TJ)
  - [ ] Copie [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)
  - [ ] Accuses de reception NPAI 29/06
- - [ ] [Extrait Kbis](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) SAS LES MAUVAIS GARCONS
+ - [ ] [Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)
 - [ ] Note audit INPI 10/07
 
 ### Verification
@@ -72,14 +72,14 @@ reel_path: ../../👤 Reel/🗂️ Organisation/24 ✅ Checklist Envoi 11-07-202
 
 ### Email URSSAF
 - [ ] Destinataire : [email dans le courrier 12 reel]
-- [ ] Objet : [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Transmission de preuves — Sébastien GRAZIDE
+- [ ] Objet : [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Transmission de preuves — [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
 - [ ] Joindre PV, NPAI, Kbis, dossier medical en PDF
 - [ ] Demander AR de lecture
 - [ ] Noter date/heure envoi : ___________________
 
 ### Email CODAF
 - [ ] Destinataire : [email dans le courrier 14 reel]
-- [ ] Objet : [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Transmission de preuves — Sébastien GRAZIDE
+- [ ] Objet : [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Transmission de preuves — [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
 - [ ] Joindre PV, NPAI, Kbis, dossier medical en PDF
 - [ ] Demander AR de lecture
 - [ ] Noter date/heure envoi : ___________________

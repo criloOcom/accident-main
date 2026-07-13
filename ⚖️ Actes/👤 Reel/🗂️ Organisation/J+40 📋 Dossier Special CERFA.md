@@ -1,6 +1,6 @@
 ---
 title: "05 Dossier Spécial CERFA"
-description: "Dans le cadre du dossier d'accident corporel de Sébastien GRAZIDE, plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditi"
+description: "Dans le cadre du dossier d'accident corporel de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditi"
 type: readme
 date: 2026-07-08
 jx: J+40
@@ -32,7 +32,7 @@ reel_path: ../../👤 Reel/🗂️ Organisation/05 📋 Dossier Special CERFA.md
 
 # DOSSIER SPÉCIAL : FORMULAIRES CERFA APPLICABLES
 
-Dans le cadre du dossier d'accident corporel de Sébastien GRAZIDE, plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditions de mise en œuvre et les pièces justificatives requises.
+Dans le cadre du dossier d'accident corporel de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditions de mise en œuvre et les pièces justificatives requises.
 
 <hr><hr>
 
@@ -85,15 +85,15 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 ### B. Pièces justificatives requises pour la requête
 1. Le formulaire **CERFA n° 16160*01** dûment rempli, daté et signé.
 
-2. Une copie du dépôt de plainte et du Procès-Verbal de police n° 2026/015967.
+2. Une copie du dépôt de plainte et du Procès-Verbal de police n° [2026/015967](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
 
-3. Le [certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (CMI) constatant les blessures de Sébastien GRAZIDE.
+3. Le [certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (CMI) constatant les blessures de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md).
 
 4. Les certificats de prolongation et de reprise d'activité justifiant l'ITT.
 
-5. Le [compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par Dr Iskander DJERBI.
+5. Le [compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md).
 
-6. Les justificatifs de pertes de revenus (déclarations URSSAF / avis fiscaux de Sébastien GRAZIDE en tant qu'indépendant).
+6. Les justificatifs de pertes de revenus (déclarations URSSAF / avis fiscaux de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) en tant qu'indépendant).
 
 7. Le justificatif de nationalité française (copie de la carte d'identité ou du passeport).
 

@@ -32,13 +32,13 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/05 🎯 Conclusions Refere.m
 
 **POUR :**
 
-Sébastien GRAZIDE, né le 18 janvier 1982, de nationalité française, demeurant au 10 Avenue de Purpan, 31700 Blagnac, exerçant la profession d'informaticien indépendant.
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), né le 18 janvier 1982, de nationalité française, demeurant au [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md), exerçant la profession d'informaticien indépendant.
 
 *Demandeur*
 
 **CONTRE :**
 
-SAS LES MAUVAIS GARCONS, Société par Actions Simplifiée, immatriculée au RCS de Foix sous le numéro SIRET 938 033 222 00010, ayant son siège social au 22 Rue Lafaurie, 09000 Foix, représentée par ses co-dirigeants Sabir MOUNTASSER et Catherine ANDISSAC.
+[SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), Société par Actions Simplifiée, immatriculée au RCS de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) sous le numéro SIRET [938 033 222 00010](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-identifiant-de-l-exploitation.md), ayant son siège social au [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-l-exploitation.md), représentée par ses co-dirigeants [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md).
 
 *Défenderesse*
 
@@ -46,11 +46,11 @@ SAS LES MAUVAIS GARCONS, Société par Actions Simplifiée, immatriculée au RCS
 
 ## I. EXPOSÉ DU LITIGE
 ### A. LE SINISTRE ET SES CONSÉQUENCES MATÉRIELLES
-Le **29 mai 2026**, aux environs de 15 heures, Sébastien GRAZIDE, informaticien indépendant de 44 ans, se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
+Le **29 mai 2026**, aux environs de 15 heures, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), informaticien indépendant de 44 ans, se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
 
 Le coiffeur préposé de la défenderesse, dans l'exercice de ses fonctions et agissant par nécessité de service, est monté sur la vasque en céramique d'un bac à shampoing installé à demeure pour régler un poste de télévision, **faute d'avoir à sa disposition un équipement d'accès en hauteur** (escabeau, échelle ou marchepied).
 
-Au cours de cette manipulation, la vasque a **basculé** brutalement et s'est brisée. Par réflexe de protection, Sébastien GRAZIDE a tendu sa main droite — sa main dominante — pour protéger le préposé.
+Au cours de cette manipulation, la vasque a **basculé** brutalement et s'est brisée. Par réflexe de protection, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) a tendu sa main droite — sa main dominante — pour protéger le préposé.
 
 Sa paume a heurté violemment le flanc de la vasque qui présentait depuis une date indéterminée une **cassure majeure préexistante**, non signalée, aux arêtes extrêmement tranchantes.
 
@@ -70,7 +70,7 @@ Une intervention chirurgicale a été réalisée en urgence le 30 mai 2026 par u
 Le paiement électronique (Wero) de 15,00 € effectué par la victime au salon le jour même, puis remboursé par le salon postérieurement à l'accident, constitue une preuve irréfutable de la présence de la victime et de la relation contractuelle.
 
 #### b) Le procès-verbal de police
-Le commissariat de police a dressé le [procès-verbal n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) qui confirme le basculement de la vasque. Ce procès-verbal constitue une pièce décisive établissant le mécanisme de l'accident.
+Le commissariat de police a dressé le procès-verbal n°2026/015967 qui confirme le basculement de la vasque. Ce procès-verbal constitue une pièce décisive établissant le mécanisme de l'accident.
 
 #### c) Le constat d'huissier
 Par l'intermédiaire d'un huissier de justice, il a été constaté la présence d'une **cassure majeure préexistante** sur la vasque, présentant des arêtes tranchantes constituant un danger manifeste pour toute personne se trouvant à proximité. Ce vice de la chose était **indécelable de l'extérieur** et n'avait fait l'objet d'aucune signalisation.
@@ -193,7 +193,7 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 
 **[Ville]**, le **[date]**
 
-Sébastien GRAZIDE
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
 
 ---
 

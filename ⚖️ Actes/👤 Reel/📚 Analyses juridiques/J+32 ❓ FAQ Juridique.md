@@ -32,14 +32,14 @@ drive_id: 1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM
 
 # SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE [**[LA VICTIME]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) C/ [**[L'EXPLOITANT DU COMMERCE (LA SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md)
 > 🔗 Source Google Drive : [1eoOJ-bcHBNn…](https://drive.google.com/open?id=1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM)
-Rédigé par : Sébastien GRAZIDE
+Rédigé par : [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
 
-10 Avenue de Purpan, 31700 Blagnac
+[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md)
 
-Rédigé le 30 juin 2026
+Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-32-assignation-refere.md)
 
 ## INTRODUCTION
-La présente synthèse juridique et FAQ a été rédigée par Sébastien GRAZIDE dans le cadre du contentieux l'opposant à SAS LES MAUVAIS GARCONS à la suite de l'accident corporel du 29 mai 2026.
+La présente synthèse juridique et FAQ a été rédigée par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) dans le cadre du contentieux l'opposant à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) à la suite de l'accident corporel du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md).
 
 Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de l'article 1231-1 du Code civil, la responsabilité délictuelle sur le fondement de l'article 1240 du même code, ainsi que la garantie des vices cachés prévue à l'article 1641 du Code civil.
 
@@ -70,24 +70,24 @@ La présente synthèse répond en outre aux questions pratiques que la victime e
 <hr>
 
 ## I. PRÉSENTATION GÉNÉRALE DE L'AFFAIRE
-Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le 29 mai 2026 à 15h00 au sein du salon de coiffure exploité par SAS LES MAUVAIS GARCONS, situé au 22 Rue Lafaurie, 09000 Foix à Foix.
+Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) à 15h00 au sein du salon de coiffure exploité par [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), situé au [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-l-exploitation.md) à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md).
 
-La victime, Sébastien GRAZIDE, né le 18/01/1982, exerce la profession d'informaticien indépendant (500 474 457) à Blagnac.
+La victime, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), né le 18/01/1982, exerce la profession d'informaticien indépendant ([500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-identifiant-professionnel-de-la-victime.md)) à [Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-residence-de-la-victime.md).
 
-Les parties mises en cause incluent la SAS elle-même, ses dirigeants Sabir MOUNTASSER et Catherine ANDISSAC, ainsi que Romain DELRIEU, propriétaire des murs commerciaux.
+Les parties mises en cause incluent la SAS elle-même, ses dirigeants [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md), ainsi que [Romain DELRIEU](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-proprietaire-des-murs.md), propriétaire des murs commerciaux.
 
 <hr>
 
 ## II. FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE
 ### Q : DANS QUELLES CIRCONSTANCES L'ACCIDENT S'EST-IL PRODUIT ?
-Le jour de l'accident, Sébastien GRAZIDE est revenu au salon pour une simple retouche. Un employé de l'établissement est alors monté sur un bac à shampoing en céramique qui s'est déséquilibré. Par réflexe, Sébastien GRAZIDE a tendu la main droite pour protéger Ayoub BENNOURINE et stabiliser le meuble.
+Le jour de l'accident, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) est revenu au salon pour une simple retouche. Un employé de l'établissement est alors monté sur un bac à shampoing en céramique qui s'est déséquilibré. Par réflexe, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) a tendu la main droite pour protéger [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-prepose-de-l-exploitation.md) et stabiliser le meuble.
 
 Sa paume a percuté une cassure préexistante et tranchante de la vasque, provoquant une section profonde de 8,5 cm.
 
 ### Q : QUELLE EST LA GRAVITÉ DES LÉSIONS SUBIES ?
 Le bilan médical est lourd : une section partielle du tendon fléchisseur de l'index droit et une section complète du paquet vasculo-nerveux.
 
-Malgré une intervention de microchirurgie réalisée le 30 mai 2026 à la Clinique de l'Union par le Dr Iskander DJERBI, la victime souffre à ce jour d'une insensibilité totale de l'index et d'un blocage mécanique de la flexion. Son activité d'informaticien est gravement compromise, justifiant une ITT initiale de 56 jours.
+Malgré une intervention de microchirurgie réalisée le [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-1-chirurgie.md) à la [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-etablissement-sos-main.md) par le [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md), la victime souffre à ce jour d'une insensibilité totale de l'index et d'un blocage mécanique de la flexion. Son activité d'informaticien est gravement compromise, justifiant une ITT initiale de 56 jours.
 
 ### Q : LE GÉRANT PEUT-IL REFUSER DE ME DONNER LE NOM DE SA COMPAGNIE D'ASSURANCE ?
 Non, ce refus est abusif et contraire au principe de loyauté. La victime dispose d'un droit d'action directe contre l'assureur (Art. L. 124-3 du Code des assurances).
@@ -116,13 +116,13 @@ Le fait de cacher l'accident à son assureur ou de refuser de communiquer les co
 <hr>
 
 ## III. STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
-La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la SAS LES MAUVAIS GARCONS est engagée en tant que commettant du fait de son préposé, sur le fondement de l'article 1242 du Code civil, mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
+La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) est engagée en tant que commettant du fait de son préposé, sur le fondement de l'article 1242 du Code civil, mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
 
 > « Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. » <br>
 > **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.** <br>
 > [Article 1242](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) <br>
 
-Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), Sabir MOUNTASSER et Catherine ANDISSAC engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
+Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
 
 > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
 > **Code de commerce > Partie législative > Livre V > Titre II > Chapitre Ier > Section 5 > Sous-section 3.** <br>
@@ -132,18 +132,18 @@ Par ailleurs, une attention particulière est portée à la faute détachable de
 > [Arrêt Sati — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
 
-Enfin, le propriétaire des murs, Romain DELRIEU, a été sollicité par LRAR le 29 juin 2026 non pas en tant que responsable de l'accident, mais comme source d'information : le bail commercial l'oblige à détenir l'attestation d'assurance RC Pro de son locataire (la SAS). À ce jour, l'AR a été retourné signé mais sans réponse sur le fond.
+Enfin, le propriétaire des murs, [Romain DELRIEU](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-proprietaire-des-murs.md), a été sollicité par LRAR le [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-31-mises-en-demeure.md) non pas en tant que responsable de l'accident, mais comme source d'information : le bail commercial l'oblige à détenir l'attestation d'assurance RC Pro de son locataire (la SAS). À ce jour, l'AR a été retourné signé mais sans réponse sur le fond.
 
 <hr>
 
 ## IV. DÉMARCHES ET PROCÉDURES ENGAGÉES
 À ce jour, une plainte officielle a été déposée et un dossier de recours contre tiers a été ouvert auprès de la CPAM.
 
-Sur le plan civil, plusieurs mises en demeure ont été expédiées le 29 juin 2026 pour identifier l'assureur et solliciter une provision :
+Sur le plan civil, plusieurs mises en demeure ont été expédiées le [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-31-mises-en-demeure.md) pour identifier l'assureur et solliciter une provision :
 
-- Courrier à l'attention du Président Sabir MOUNTASSER ;
+- Courrier à l'attention du Président [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) ;
 
-- Courrier à la Directrice Générale Catherine ANDISSAC ;
+- Courrier à la Directrice Générale [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) ;
 
 - Demande de communication d'assurance au **[propriétaire des murs]** ;
 
@@ -162,7 +162,7 @@ La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jour
 > **Code de procédure civile > Partie législative > Livre II > Titre III > Chapitre Ier.** <br>
 > [Article 835](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
 
-Une étape cruciale est fixée au 12 novembre 2026 pour l'expertise médicale à l'UMJ de Toulouse, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à **~90 000 €**).
+Une étape cruciale est fixée au [12 novembre 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-167-expertise-umj.md) pour l'expertise médicale à l'UMJ de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-metropole-regionale.md), qui permettra de chiffrer définitivement les préjudices (actuellement estimés à **~90 000 €**).
 
 À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation (Article 2226 du Code civil).
 
@@ -177,9 +177,9 @@ Bien que le dossier soit solide, certains points bloquants persistent, notamment
 
 Néanmoins, l'action directe et la responsabilité personnelle des dirigeants constituent des leviers puissants pour obtenir une indemnisation juste, estimée globalement à **~90 000 €** sous réserves d'aggravation.
 
-*Synthèse établie pour servir et valoir ce que de droit. © Sébastien GRAZIDE.*
+*Synthèse établie pour servir et valoir ce que de droit. © [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md).*
 
-*Q15 : Que se passe-t-il si SAS LES MAUVAIS GARCONS est mise en liquidation ou radiée pendant la procédure ?*
+*Q15 : Que se passe-t-il si [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) est mise en liquidation ou radiée pendant la procédure ?*
 
 *Réponse : La personnalité morale de la société survit pour les besoins de la liquidation (Art. L. 237-2 du Code de commerce).
 

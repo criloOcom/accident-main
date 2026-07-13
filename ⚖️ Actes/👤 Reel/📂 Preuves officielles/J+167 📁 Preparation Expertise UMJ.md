@@ -22,7 +22,7 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/01 📁 Dossier UMJ Preparat
 
 # DOSSIER UMJ — PRÉPARATION EXPERTISE MÉDICALE
 **Date :** 12 novembre 2026 à 13h45
-**Lieu :** UMJ de Toulouse
+**Lieu :** UMJ de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-metropole-regionale.md)
 **Réquisition :** Art. 41 et 77-1 CPP — Agent Jordy RODRIGUEZ CAPARROS
 
 ---
@@ -32,17 +32,17 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/01 📁 Dossier UMJ Preparat
 - [ ] Carte Vitale + attestation CPAM droit commun
 - [ ] Carte mutuelle
 
-### 2. DOCUMENTS MÉDICAUX — ACCIDENT INITIAL- [ ] **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** (Dr Iskander DJERBI, 30/05/2026) — microchirurgie tendons/nerfs index droit
-- [ ] **[Premiers soins](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** (Dr Julie JARDON, 29/05/2026, 16h30)
-- [ ] **Prescription initiale** (Dr Julie JARDON)
-- [ ] **[Ordonnance de sortie](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530-1700%20Ordonnance%20Sortie%20DrDJERBI.md)** (Dr Iskander DJERBI, 30/05/2026) — antalgiques
+### 2. DOCUMENTS MÉDICAUX — ACCIDENT INITIAL- [ ] **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** ([Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md), 30/05/2026) — microchirurgie tendons/nerfs index droit
+- [ ] **[Premiers soins](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** ([Dr Julie JARDON](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-medecin-en-urgence.md), 29/05/2026, 16h30)
+- [ ] **Prescription initiale** ([Dr Julie JARDON](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-medecin-en-urgence.md))
+- [ ] **[Ordonnance de sortie](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530-1700%20Ordonnance%20Sortie%20DrDJERBI.md)** ([Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md), 30/05/2026) — antalgiques
 
-### 3. [ARRÊTS DE TRAVAIL](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)- [ ] **Arrêt initial** (Dr Oxybel, 01/06/2026, 15j)
+### 3. [ARRÊTS DE TRAVAIL](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)- [ ] **Arrêt initial** ([Dr Oxybel](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-medecin-generaliste.md), 01/06/2026, 15j)
 - [ ] **Prolongation 1** (11j)
 - [ ] **Prolongation 2** (30j)
 - [ ] Soit total ITT : 56 jours
 
-### 4. SUIVI ET RÉÉDUCATION- [ ] **Consultation contrôle J+24** (Dr Iskander DJERBI — bonne cicatrisation, déficit neurologique)
+### 4. SUIVI ET RÉÉDUCATION- [ ] **Consultation contrôle J+24** ([Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md) — bonne cicatrisation, déficit neurologique)
 - [ ] **Prescription kinésithérapie** (3 séances/semaine, pas de travail en résistance 4 semaines)
 - [ ] **Comptes-rendus séances kiné** (SOS Main Bâtiment B)
 
@@ -51,17 +51,17 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/01 📁 Dossier UMJ Preparat
 
 ### 6. AUTRES- [ ] Dépôt de plainte (01/06/2026)
 - [ ] Photos lésions initiales (si disponibles)
-- [ ] [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) (RCT 31727387)
+- [ ] [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) (RCT **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**)
 
 ---
 
 ## DOCUMENTS DÉJÀ DISPONIBLES SUR DRIVE| Pièce | Drive |
 |-------|-------|
-| [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) Dr Iskander DJERBI | [Lien](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |
-| Ordonnance sortie Dr Iskander DJERBI | [Lien](https://drive.google.com/file/d/1CasEuj6N2FVmg9kAxKhdqKD70UYmq4Vh/view) |
-| [Premiers soins](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) Dr Julie JARDON | [Lien](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view) |
-| Prescription Dr Julie JARDON | [Lien](https://drive.google.com/file/d/16ZtYjUZW0dmH0UPrHQG9bLlpWdOwflcA/view) |
-| Arrêt travail Dr Oxybel | [Lien](https://drive.google.com/file/d/1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm/view) |
+| [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md) | [Lien](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |
+| Ordonnance sortie [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md) | [Lien](https://drive.google.com/file/d/1CasEuj6N2FVmg9kAxKhdqKD70UYmq4Vh/view) |
+| [Premiers soins](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) [Dr Julie JARDON](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-medecin-en-urgence.md) | [Lien](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view) |
+| Prescription [Dr Julie JARDON](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-medecin-en-urgence.md) | [Lien](https://drive.google.com/file/d/16ZtYjUZW0dmH0UPrHQG9bLlpWdOwflcA/view) |
+| Arrêt travail [Dr Oxybel](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-medecin-generaliste.md) | [Lien](https://drive.google.com/file/d/1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm/view) |
 | Dépôt plainte Police | [Lien](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view) |
 | PV Police | [Lien](https://drive.google.com/file/d/18RdOzvO3Xwp1SVcsCdGDiY6RLQmWoHAnxJXnkQnomXs/view) |
 

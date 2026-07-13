@@ -26,9 +26,9 @@ drive_id: 1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM
 
 # DEMANDE D'INFORMATION A L'INSPECTION DU TRAVAIL
 > 🔗 Source Google Drive : [1tStFiBk8gxB…](https://drive.google.com/open?id=1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM)
-Sébastien GRAZIDE
-10 Avenue de Purpan, 31700 Blagnac
-Courriel : sebastien.grazide@gmail.com
+[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md)
+
+Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
 
 **DDETS de l'Ariege** (Direction Departementale de l'Emploi, du Travail et des Solidarites)
 
@@ -36,18 +36,18 @@ Ou **DREETS Occitanie**
 
 [À compléter]
 
-Foix, le 5 juillet 2026
+[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md), le [5 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-37-assignation-145.md)
 
-Objet : Demande d'information sur les diligences d'enquete — Accident du 29 mai 2026 au salon SAS LES MAUVAIS GARCONS
+Objet : Demande d'information sur les diligences d'enquete — Accident du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) au salon SAS LES MAUVAIS GARCONS
 
-Ref : Signalement effectue par la mairie de Foix aupres de la Prefecture de l'Ariege le 1er juin 2026
+Ref : Signalement effectue par la mairie de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) aupres de la Prefecture de l'Ariege le 1er juin 2026
 
 Madame, Monsieur l'Inspecteur du Travail,
 
 <hr><hr>
 
 ## INTRODUCTION
-La presente lettre est adressee a vos services par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure SAS LES MAUVAIS GARCONS, situe 22 Rue Lafaurie, 09000 Foix a Foix.
+La presente lettre est adressee a vos services par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) au sein du salon de coiffure SAS LES MAUVAIS GARCONS, situe 22 Rue Lafaurie, 09000 Foix a [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md).
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
@@ -56,7 +56,7 @@ Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm ave
 <hr>
 
 ## CONTEXTE DE LA SAISINE DE VOS SERVICES
-Suite a cet accident, Monsieur Monsieur TAVELLA, Adjoint au Maire de Foix, m'a informe le 1er juin 2026 avoir pris l'attache des services de la Prefecture de l'Ariege afin de diligenter l'Inspection du Travail et le CODAF.
+Suite a cet accident, Monsieur [Monsieur TAVELLA](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adjoint-au-maire-de-la-commune.md), Adjoint au Maire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md), m'a informe le 1er juin 2026 avoir pris l'attache des services de la Prefecture de l'Ariege afin de diligenter l'Inspection du Travail et le CODAF.
 
 Je sollicite aujourd'hui vos services pour les motifs suivants :
 
@@ -77,7 +77,7 @@ Je me permets de porter a votre attention les elements suivants, susceptibles de
 > **Code du travail > Section 1 : Principes.** <br>
 > [Article L4321-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209) <br>
 
-- **Absence presumee de DUERP** : <br> A ce jour, aucun Document Unique d'Evaluation des Risques Professionnels ne m'a ete communique par l'exploitant, malgre une mise en demeure en LRAR du 29 juin 2026 restee sans reponse
+- **Absence presumee de DUERP** : <br> A ce jour, aucun Document Unique d'Evaluation des Risques Professionnels ne m'a ete communique par l'exploitant, malgre une mise en demeure en LRAR du [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-31-mises-en-demeure.md) restee sans reponse
 
 - **Defaut presumee d'assurance RC Professionnelle** : <br>L'exploitant ne m'a pas communique l'identite de son assureur RC, en violation de l'obligation d'affichage prevue a l'Article L. 310-1-1-2 du Code des assurances modifie par la loi n° 2024-364 du 22 avril 2024
 
@@ -96,14 +96,14 @@ Je me permets de porter a votre attention les elements suivants, susceptibles de
 - **Travail dissimule presume** : <br>Possibilité que le prepose ne soit pas declare (a verifier par vos services)
 
 ### 4. TRANSMISSION AU PARQUET
-Si les faits constates sont constitutifs d'infractions penales, je vous remercie par avance de bien vouloir transmettre votre rapport au Procureur de la Republique pres le Tribunal Judiciaire de Foix conformement a l'Article 40 du Code de procedure penale.
+Si les faits constates sont constitutifs d'infractions penales, je vous remercie par avance de bien vouloir transmettre votre rapport au Procureur de la Republique pres le Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) conformement a l'Article 40 du Code de procedure penale.
 
 > « Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1. Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. » <br>
 > **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.** <br>
 > [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) <br>
 
-Mes coordonnees pour reponse : 10 Avenue de Purpan, 31700 Blagnac / Courriel : sebastien.grazide@gmail.com
+Mes coordonnees pour reponse : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md) / Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur l'Inspecteur du Travail, l'expression de ma consideration distinguee.
 
-Sébastien GRAZIDE
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)

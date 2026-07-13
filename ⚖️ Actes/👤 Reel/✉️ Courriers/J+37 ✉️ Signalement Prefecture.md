@@ -34,24 +34,24 @@ drive_id: 1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM
 
 # CONFIRMATION OFFICIELLE DE SIGNALEMENT A LA PREFECTURE DE L'ARIEGE
 > 🔗 Source Google Drive : [1sIkiScOSFZy…](https://drive.google.com/open?id=1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM)
-Sébastien GRAZIDE
-10 Avenue de Purpan, 31700 Blagnac
-Courriel : sebastien.grazide@gmail.com
+[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md)
+
+Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
 
 **Prefecture de l'Ariege**
 
 [À compléter]
 
-Foix, le 5 juillet 2026
+[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md), le [5 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-37-assignation-145.md)
 
-Objet : Confirmation officielle de signalement — Accident du 29 mai 2026 au salon SAS LES MAUVAIS GARCONS
+Objet : Confirmation officielle de signalement — Accident du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) au salon [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md)
 
-Ref : Signalement effectue par la Mairie de Foix le 1er juin 2026
+Ref : Signalement effectue par la Mairie de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) le 1er juin 2026
 
 Madame, Monsieur le Prefet,
 
 ## INTRODUCTION
-La presente est adressee a vos services par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS, situe 22 Rue Lafaurie, 09000 Foix a Foix.
+La presente est adressee a vos services par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), situe 22 Rue Lafaurie, 09000 Foix a [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md).
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
@@ -67,7 +67,7 @@ Cet accident a ete cause par la chute brutale du prepose de l'exploitation depui
 <hr>
 
 ## I — RAPPEL DES FAITS
-Le 29 mai 2026, le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur. L'equipement, instable et presentant une cassure preexistante non signalee, a bascule sous le poids du prepose.
+Le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md), le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur. L'equipement, instable et presentant une cassure preexistante non signalee, a bascule sous le poids du prepose.
 
 Ma main droite, tendue par reflexe, a heurte la cassure preexistante, entrainant des lesions graves ayant necessite une microchirurgie d'urgence.
 
@@ -78,22 +78,22 @@ Ma main droite, tendue par reflexe, a heurte la cassure preexistante, entrainant
 ## II — PROCEDURES EN COURS
 Plusieurs procedures ont ete engagees a ce jour :
 
-1. Depot de plainte au commissariat de Foix (PV n° 2026/015967)
-2. [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise au Tribunal Judiciaire de Foix
-3. Mises en demeure LRAR a la SAS, a ses dirigeants et au proprietaire des murs (29 juin 2026)
+1. Depot de plainte au commissariat de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) (PV n° [2026/015967](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes))
+2. [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise au Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md)
+3. Mises en demeure LRAR a la SAS, a ses dirigeants et au proprietaire des murs ([29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-31-mises-en-demeure.md))
 4. Action directe contre l'assureur RC professionnelle (Article L.124-3 du Code des assurances)
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
-5. Dossier de recours contre tiers a la CPAM (n° 31727387)
+5. Dossier de recours contre tiers a la CPAM (n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**)
 6. Demande d'enquete a l'Inspection du Travail (DDETS 09 / DREETS Occitanie)
 7. Saisine du CODAF
 
 <hr>
 
 ## III — SIGNALEMENTS TRANSMIS
-Il m'a ete indique par la Mairie de Foix le 1er juin 2026 qu'un signalement avait ete effectue aupres de vos services et du CODAF. Je sollicite par la presente confirmation que ce signalement a bien ete reeu et instruit par vos services, et souhaite etre tenu informe des suites qui lui sont reservees.
+Il m'a ete indique par la Mairie de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) le 1er juin 2026 qu'un signalement avait ete effectue aupres de vos services et du CODAF. Je sollicite par la presente confirmation que ce signalement a bien ete reeu et instruit par vos services, et souhaite etre tenu informe des suites qui lui sont reservees.
 
 Je porte par ailleurs a votre connaissance les manquements suivants, constates dans cet ERP :
 
@@ -116,8 +116,8 @@ Je sollicite de vos services :
 2. L'etat d'avancement des diligences entreprises par vos services et le CODAF
 3. La communication des suites reserves a ce signalement
 
-Mes coordonnees : 10 Avenue de Purpan, 31700 Blagnac — Courriel : sebastien.grazide@gmail.com
+Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md) — Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Prefet, l'expression de ma consideration distinguee.
 
-Sébastien GRAZIDE
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)

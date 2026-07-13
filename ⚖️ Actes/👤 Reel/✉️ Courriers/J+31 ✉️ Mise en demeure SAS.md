@@ -37,24 +37,24 @@ drive_id: 1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc
 
 # MISE EN DEMEURE — DÉCLARATION D'ACCIDENT CORPOREL
 > 🔗 Source Google Drive : [1s5_z0l9yti3…](https://drive.google.com/open?id=1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc)
-Sébastien GRAZIDE
-10 Avenue de Purpan, 31700 Blagnac
-Courriel : sebastien.grazide@gmail.com
+[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md)
 
-Direction de SAS LES MAUVAIS GARCONS
+Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
 
-22 Rue Lafaurie, 09000 Foix
+Direction de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md)
 
-Foix, le 29 juin 2026
+[22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-l-exploitation.md)
+
+[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md), le [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-31-mises-en-demeure.md)
 
 Objet : Déclaration d'accident corporel — Demande d'information assurance RC — L.R.A.R.
 
-Réf : Dossier Sébastien GRAZIDE / SAS LES MAUVAIS GARCONS
+Réf : Dossier [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) / [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md)
 
 Madame, Monsieur,
 
 ## INTRODUCTION
-La présente lettre de mise en demeure est adressée par Sébastien GRAZIDE à SAS LES MAUVAIS GARCONS afin de déclarer officiellement l'accident corporel survenu le 29 mai 2026 dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
+La présente lettre de mise en demeure est adressée par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) afin de déclarer officiellement l'accident corporel survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
 
 Ce courrier constitue la première étape amiable préalable à toute action contentieuse, conformément aux usages de la procédure civile.
 
@@ -76,19 +76,19 @@ L'article L. 227-8 du Code de commerce dispose que les règles de responsabilit�
 
 Ces dispositions sont d'ordre public : elles s'imposent à la société et à ses dirigeants.
 
-Je me permets de vous adresser ce courrier afin de vous informer officiellement de l'accident corporel dont j'ai été victime au sein de votre établissement le vendredi 29 mai 2026 à 15h00.
+Je me permets de vous adresser ce courrier afin de vous informer officiellement de l'accident corporel dont j'ai été victime au sein de votre établissement le vendredi [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) à 15h00.
 
-Lors de ma venue, et alors que je sollicitais une retouche de coupe de cheveux, le basculement accidentel d'un bac à shampoing a provoqué une coupure profonde de 8,5 cm au niveau de ma main droite (index droit) ayant sectionné le tendon fléchisseur superficiel ainsi que le paquet vasculo-nerveux collatéral ulnaire et radial, nécessitant mon transfert en urgence et une intervention de microchirurgie (suture tendineuse 6 brins, suture microchirurgicale des nerfs et vaisseaux à l'éthilon 9-0, neurolyse d'urgence) le 30 mai 2026 par Dr Iskander DJERBI au service SOS Main de Clinique de l'Union.
+Lors de ma venue, et alors que je sollicitais une retouche de coupe de cheveux, le basculement accidentel d'un bac à shampoing a provoqué une coupure profonde de 8,5 cm au niveau de ma main droite (index droit) ayant sectionné le tendon fléchisseur superficiel ainsi que le paquet vasculo-nerveux collatéral ulnaire et radial, nécessitant mon transfert en urgence et une intervention de microchirurgie (suture tendineuse 6 brins, suture microchirurgicale des nerfs et vaisseaux à l'éthilon 9-0, neurolyse d'urgence) le [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-1-chirurgie.md) par [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md) au service SOS Main de [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-etablissement-sos-main.md).
 
 Le chirurgien a évalué le pronostic de récupération neurologique à un an minimum, avec un résultat souvent partiel s'agissant d'une suture nerveuse.
 
-Travaillant à mon compte en tant qu'informaticien indépendant (500 474 457), cet accident me paralyse professionnellement et financièrement.
+Travaillant à mon compte en tant qu'informaticien indépendant ([500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-identifiant-professionnel-de-la-victime.md)), cet accident me paralyse professionnellement et financièrement.
 
-Mon dossier de recours contre tiers (n° 31727387) est actuellement ouvert auprès de la Caisse Primaire d'Assurance Maladie (CPAM).
+Mon dossier de recours contre tiers (n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**) est actuellement ouvert auprès de la Caisse Primaire d'Assurance Maladie (CPAM).
 
 Afin que les différents organismes de santé puissent entrer en contact direct avec votre compagnie d'assurance de responsabilité civile professionnelle pour la gestion de ce sinistre, je vous remercie de bien vouloir me transmettre par retour de courrier ou par courriel les coordonnées de votre assureur ainsi que votre numéro de police d'assurance.
 
-Mes coordonnées pour réponse : 10 Avenue de Purpan, 31700 Blagnac / Courriel : sebastien.grazide@gmail.com
+Mes coordonnées pour réponse : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md) / Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
 
 Je vous remercie par avance pour votre aide et reste à votre entière disposition pour tout renseignement complémentaire.
 
@@ -110,7 +110,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 4. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
-À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de Foix — d'abord en référé pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) — d'abord en référé pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
 > **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.** <br>
@@ -120,8 +120,8 @@ L'ensemble des pièces et de la procédure vous sera communiqué par transparenc
 
 Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 
-Sébastien GRAZIDE
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
 
-> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
 > Cette situation de handicap physique temporaire explique le délai de transmission de mes demandes administratives.

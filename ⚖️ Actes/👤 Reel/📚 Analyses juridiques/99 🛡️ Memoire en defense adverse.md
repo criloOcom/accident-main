@@ -1,6 +1,6 @@
 ---
 title: "Mémoire en défense adverse — SAS Les Mauvais Garçons"
-description: "Pour :** SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC (Partie Défenderesse)"
+description: "Pour :** [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) (Partie Défenderesse)"
 type: analyse_juridique
 date: 2026-07-09
 tags:
@@ -29,11 +29,11 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/99 🛡️ Memoire en defens
 <!-- /Breadcrumb -->
 
 # MÉMOIRE EN DÉFENSE ADVERSE
-**Pour :** SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC (Partie Défenderesse)
-**Contre :** Sébastien GRAZIDE (Partie Demanderesse)
+**Pour :** [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) (Partie Défenderesse)
+**Contre :** [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) (Partie Demanderesse)
 
 ## INTRODUCTION
-Le présent mémorandum est établi pour la défense des intérêts de la société SAS LES MAUVAIS GARCONS et de ses dirigeants, assignés en référé-provision par Monsieur Sébastien GRAZIDE suite à un incident survenu le 29 mai 2026 au sein du salon de coiffure.
+Le présent mémorandum est établi pour la défense des intérêts de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) et de ses dirigeants, assignés en référé-provision par Monsieur [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) suite à un incident survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) au sein du salon de coiffure.
 
 La partie demanderesse réclame une provision de 15 000 € sur le fondement de l'article 835 alinéa 2 du Code de procédure civile, alléguant que l'obligation ne serait pas sérieusement contestable.
 
@@ -74,7 +74,7 @@ Cette imprudence est de nature à exonérer, au moins partiellement, la gardienn
 
 ## II. SUR LA MISE EN CAUSE ABUSIVE DES DIRIGEANTS
 
-La demanderesse tente d'engager la responsabilité personnelle in solidum de Sabir MOUNTASSER et Catherine ANDISSAC en invoquant une prétendue « faute détachable ».
+La demanderesse tente d'engager la responsabilité personnelle in solidum de [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) en invoquant une prétendue « faute détachable ».
 
 Cette argumentation est juridiquement infondée. L'écran de la personnalité morale protège les dirigeants. Pour que leur responsabilité civile personnelle soit engagée à l'égard des tiers, la Cour de cassation exige la preuve d'une faute intentionnelle d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales (Arrêt SATI).
 
@@ -82,7 +82,7 @@ Cette argumentation est juridiquement infondée. L'écran de la personnalité mo
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
 
-Un prétendu défaut de signalisation d'une vasque ébréchée, à le supposer établi, relève tout au plus d'une négligence dans l'exploitation courante du salon, imputable à la seule SAS LES MAUVAIS GARCONS.
+Un prétendu défaut de signalisation d'une vasque ébréchée, à le supposer établi, relève tout au plus d'une négligence dans l'exploitation courante du salon, imputable à la seule [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md).
 
 Il n'y a ici aucune intention de nuire ni aucune infraction pénale intentionnelle de la part des dirigeants justifiant la levée de l'immunité.
 
@@ -124,6 +124,6 @@ Le juge des référés est le juge de l'évidence. En l'espèce :
 
 - L'évaluation des préjudices est prématurée (absence de consolidation) et largement surévaluée (DFP et IP infondés, Agrément sans preuve).
 
-L'obligation de SAS LES MAUVAIS GARCONS étant sérieusement contestable, la demande de provision de 15 000 € doit être rejetée en toutes ses dispositions. Tout au plus, si le juge ordonne une expertise médicale (Article 145 CPC), celle-ci devra se dérouler aux frais avancés de la demanderesse sans aucune provision financière préalable.
+L'obligation de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) étant sérieusement contestable, la demande de provision de 15 000 € doit être rejetée en toutes ses dispositions. Tout au plus, si le juge ordonne une expertise médicale (Article 145 CPC), celle-ci devra se dérouler aux frais avancés de la demanderesse sans aucune provision financière préalable.
 
 Fait pour valoir ce que de droit.

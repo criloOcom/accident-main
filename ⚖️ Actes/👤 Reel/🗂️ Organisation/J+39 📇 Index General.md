@@ -1,6 +1,6 @@
 ---
 title: "Index de l'État Final du Dossier"
-description: "Rédigé le 30 juin 2026 — Mis à jour le [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-38-mise-a-jour.md) (unification bordereau 43 pièces)"
+description: "Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-32-assignation-refere.md) — Mis à jour le [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-38-mise-a-jour.md) (unification bordereau 43 pièces)"
 type: readme
 date: 2026-07-07
 jx: J+39
@@ -25,26 +25,26 @@ drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 
 # INDEX DU DOSSIER [**[LA VICTIME]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
 > 🔗 Source Google Drive : [1Zp-JK9kz0V0…](https://drive.google.com/open?id=1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU)
-Rédigé le 30 juin 2026 — Mis à jour le [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-38-mise-a-jour.md) (unification bordereau 43 pièces)
+Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-32-assignation-refere.md) — Mis à jour le [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-38-mise-a-jour.md) (unification bordereau 43 pièces)
 
 ## INTRODUCTION
-*Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire Sébastien GRAZIDE c/ SAS LES MAUVAIS GARCONS, à la suite de l'accident corporel grave survenu le 29 mai 2026. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du 30 juin 2026 et reflète l'état final de la composition du dossier.*
+*Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) c/ [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), à la suite de l'accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md). Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-32-assignation-refere.md) et reflète l'état final de la composition du dossier.*
 
-*Structure finale au 29 mai 2026*
+*Structure finale au [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md)*
 
 Destinataire : Analyse tierce
 
-Partage depuis : sebastien.grazide@gmail.com
+Partage depuis : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
 
 <hr><hr>
 
 ## 00 — PREUVES OFFICIELLES
 *(Documents physiques — dossier `📂 Preuves officielles/` en attente d'insertion)*
 
-- 2026-05-30 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) ✓ Vérifié : Compte rendu opératoire du Dr Iskander DJERBI (microchirurgie 30 mai 2026).
+- 2026-05-30 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) ✓ Vérifié : Compte rendu opératoire du [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md) (microchirurgie [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-1-chirurgie.md)).
 - 2026-06-01 - Dossier plainte ✓ Vérifié : Copie complète de la plainte officielle déposée au commissariat.
 - 2026-06-02 - PV Police ✓ Vérifié : Procès-verbal de constat n°[ ...].
-- 2026-06-19 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) Dr Iskander DJERBI ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
+- 2026-06-19 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md) ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
 - 2026-06-29 - Forensic Evidence File ✓ Vérifié : Dossier de preuves numériques et médicales.
 
 <hr><hr>
@@ -63,7 +63,7 @@ Partage depuis : sebastien.grazide@gmail.com
 <hr><hr>
 
 ## 02 — COURRIERS
-- 2026-06-29 - 03 ✉️ Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à SAS LES MAUVAIS GARCONS.
+- 2026-06-29 - 03 ✉️ Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md).
 - 2026-06-29 - 04 ✉️ Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
@@ -74,7 +74,7 @@ Partage depuis : sebastien.grazide@gmail.com
 - 2026-06-01 - 05 ✉️ Courrier Proprietaire - V1 ✓ Vérifié : Demande d'information au propriétaire des murs (détient l'attestation d'assurance RC Pro du locataire via le bail commercial).
 
 - 2026-06-29 - 06 ✉️ Courrier President DG - V1 ✓ Vérifié : Mise en demeure personnelle aux dirigeants.
-- 2026-07-05 - 07 ✉️ Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au Dr Iskander DJERBI.
+- 2026-07-05 - 07 ✉️ Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md).
 - 2026-07-05 - 08 ✉️ Courrier Suivi Adjoint Maire - V1 ✓ Vérifié : Suivi Inspection du Travail + CODAF (réponse adjoint au maire).
 - 2026-07-05 - 09 ✉️ Courrier Inspection Travail - V1 ✓ Vérifié : Demande d'enquête directe à la DDETS/DREETS.
 - 2026-07-05 - 11 ✉️ Courrier INPI - V1 ✓ Vérifié : Signalement de litige au RNE.
@@ -86,7 +86,7 @@ Partage depuis : sebastien.grazide@gmail.com
 - 2026-07-05 - 18 ✉️ Courrier SDIS - V1 ✓ Vérifié : Signalement sécurité ERP.
 - 2026-07-05 - 19 ✉️ Courrier FGTI - V1 ✓ Vérifié : Information conservatoire (LRAR + email).
 - 2026-07-05 - 20 🔄 Relance Police - V1 ✓ Vérifié : Suivi plainte + demande vidéos.
-- 2026-07-05 - 21 🔄 Relance CPAM - V1 ✓ Vérifié : Suivi [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) 31727387.
+- 2026-07-05 - 21 🔄 Relance CPAM - V1 ✓ Vérifié : Suivi [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
 - 2026-07-05 - J+32 📋 Attestation Temoin Client - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
 - 2026-07-05 - 23 📋 Attestation Pompier SAMU - V1 ✓ Vérifié : Gabarit d'attestation d'intervention.
 - 2026-07-05 - J+32 📋 Attestation Employe - V1 ✓ Vérifié : Gabarit d'attestation d'employé.
@@ -151,7 +151,7 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 ## ARCHIVES
 Documents non indexés conservés dans `archives/` :
 
-- [archives/annexes/](archives/annexes/README.md) — [📚 ANNEXE A Lexique Tokens](archives/annexes/📚%20ANNEXE%20A%20Lexique%20Tokens.md), [⚖️ ANNEXE B Lois Jurisprudence](../../%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%E2%9A%96%EF%B8%8F%20ANNEXE%20B%20Lois%20Jurisprudence.md), [📑 ANNEXE C Pièces](../../%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%F0%9F%93%91%20ANNEXE%20C%20Pieces.md)
+- [archives/annexes/](archives/annexes/README.md) — [📚 ANNEXE A Lexique Tokens](archives/annexes/📚%20ANNEXE%20A%20Lexique%20Tokens.md), [⚖️ ANNEXE B Lois Jurisprudence](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%E2%9A%96%EF%B8%8F%20ANNEXE%20B%20Lois%20Jurisprudence.md), [📑 ANNEXE C Pièces](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%F0%9F%93%91%20ANNEXE%20C%20Pieces.md)
 - [archives/🛡️ Constitution Partie Civile.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
 - [archives/⚡ ActionDirecte AssureurRC.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%E2%9A%A1%20ActionDirecte%20AssureurRC.md)
 - [archives/🔧 ANALYSE correction juridique.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%94%A7%20ANALYSE%20correction%20juridique.md)
@@ -163,12 +163,12 @@ Documents non indexés conservés dans `archives/` :
 <hr><hr>
 
 ## MODIFICATIONS CLÉS
-1. Ayoub BENNOURINE -> Sabir MOUNTASSER + Catherine ANDISSAC ✓
+1. [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-prepose-de-l-exploitation.md) -> [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) + [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) ✓
 1. Stratégie : faute détachable des dirigeants ✓
 2. Paragraphe faute détachable dans Assignation ✓
 3. Plaidoirie refondue ✓
 4. Conclusions PC mises à jour ✓
-5. Courrier 06 avec Catherine ANDISSAC ✓
+5. Courrier 06 avec [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) ✓
 6. 4 doublons archivés ✓
 7. Nomenclature normalisée ✓
 8. Formatting appliqué ✓
@@ -226,7 +226,7 @@ Documents non indexés conservés dans `archives/` :
 - Références jurisprudentielles : 7 vérifiées + 1 doctrine (Me Plouton)
 - Pièces au bordereau unifié : **43 numérotées séquentiellement** (groupes A-G)
 
-*NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à Sébastien GRAZIDE. Seule l'Étude d'indemnisation (Piece 03) est conservée dans 💰 Etudes indemnisation.*
+*NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md). Seule l'Étude d'indemnisation (Piece 03) est conservée dans 💰 Etudes indemnisation.*
 
 <hr><hr>
 

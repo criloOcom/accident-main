@@ -33,11 +33,11 @@ source: local
 
 # ÉVALUATION DINTILHAC CONSOLIDÉE — 11 + 12
 
-10 Avenue de Purpan, 31700 Blagnac <br>
-sebastien.grazide@gmail.com <br>
-Foix, le 30 juin 2026
+[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md) <br>
+[sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md) <br>
+[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md), le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-32-assignation-refere.md)
 
-Rédigé le 30 juin 2026
+Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-32-assignation-refere.md)
 
 <hr>
 
@@ -69,9 +69,9 @@ Rédigé le 30 juin 2026
 
 ## 1.1 FAITS DU SINISTRE
 
-La présente évaluation a pour objet d'évaluer l'intégralité des préjudices corporels subis par Sébastien GRAZIDE à la suite de l'accident du 29 mai 2026 — au cours duquel, alors que l'employé Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de Sébastien GRAZIDE a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit.
+La présente évaluation a pour objet d'évaluer l'intégralité des préjudices corporels subis par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) à la suite de l'accident du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) — au cours duquel, alors que l'employé [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-prepose-de-l-exploitation.md) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
-Sébastien GRAZIDE est travailleur indépendant inscrit sous le numéro 500 474 457, exerçant la profession d'informaticien droitier et guitariste. Les déclarations URSSAF attestent de recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) est travailleur indépendant inscrit sous le numéro [500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-identifiant-professionnel-de-la-victime.md), exerçant la profession d'informaticien droitier et guitariste. Les déclarations URSSAF attestent de recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
 
 ## 1.2 PRINCIPE DE LA RÉPARATION INTÉGRALE
 
@@ -146,7 +146,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 **Définition :** Indemnise la perte de revenus durant l'incapacité temporaire totale (ITT).
 
 **Calcul technique :**
-- ITT : 56 jours (du 29 mai au 23 juillet 2026)
+- ITT : 56 jours (du 29 mai au [23 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-55-fin-d-itt.md))
 - CA mensuel : 750 € → 750 / 30 × 56 = **1 400 €** (prorata)
 - Formule Glose plus précise : 56 / 30,44 × 750 = **1 380 €**
 
@@ -232,7 +232,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 **Sources :**
 - Référentiel Mornet 2024-2026 : 4/7 = 15 000 à 30 000 €
-- CA de Toulouse, 11 octobre 2022, RG n° 21/03743
+- CA de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-metropole-regionale.md), 11 octobre 2022, RG n° 21/03743
 - JMP Avocat, référentiel Mornet 2026 : 4/7 = 20 000 à 35 000 €
 
 ---
@@ -390,7 +390,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Méthode pour identifier l'assureur :**
 1. Consultation RNE/INPI (déjà fait)
-2. Saisine greffe TC de Foix pour coordonnées assurance
+2. Saisine greffe TC de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) pour coordonnées assurance
 3. Interrogation ORIAS
 4. Questionnement dirigeants sous astreinte
 5. Assignation [art. 145 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) si refus persistant
@@ -440,7 +440,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Procédure :**
 - Délai : 3 ans à compter de l'infraction (29 mai 2029)
-- Compétence : CIVI du TJ de Toulouse (domicile) ou de Foix (lieu infraction)
+- Compétence : CIVI du TJ de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-metropole-regionale.md) (domicile) ou de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) (lieu infraction)
 - Requête écrite au greffe de la CIVI avec tous justificatifs
 - Offre du FGTI sous 2 mois
 - Versement : la CIVI homologue, le FGTI paie
@@ -491,7 +491,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 9. Assignation au fond
 
 ### Phase 4 — Si insolvabilité confirmée (début 2027)
-10. Saisine CIVI du TJ de Toulouse
+10. Saisine CIVI du TJ de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-metropole-regionale.md)
 11. Demande indemnisation FGTI (réparation intégrale)
 12. Constitution partie civile
 
