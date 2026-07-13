@@ -49,14 +49,14 @@ Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grav
 L'article 1719 du Code civil impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail.
 
 > « Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière : (...) 3° D'en faire jouir paisiblement le preneur pendant la durée du bail ; » <br>
-> **Code civil > Partie législative > Livre III : Des différentes manières dont on acquiert la propriété > Titre VIII : Du contrat de louage > Chapitre II : Du louage des choses > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.** <br>
 > [Article 1719](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) <br>
+> **Code civil > Partie législative > Livre III : Des différentes manières dont on acquiert la propriété > Titre VIII : Du contrat de louage > Chapitre II : Du louage des choses > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.**
 
 L'article 1720 du même code impose au bailleur d'entretenir les lieux en bon état de réparation de toute nature.
 
 > « Le bailleur est tenu de livrer la chose en bon état de réparations de toute espèce. Il doit y faire, pendant la durée du bail, toutes les réparations qui peuvent devenir nécessaires, autres que les locatives. » <br>
-> **Code civil > Partie législative > Livre III : Des différentes manières dont on acquiert la propriété > Titre VIII : Du contrat de louage > Chapitre II : Du louage des choses > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.** <br>
 > [Article 1720](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784) <br>
+> **Code civil > Partie législative > Livre III : Des différentes manières dont on acquiert la propriété > Titre VIII : Du contrat de louage > Chapitre II : Du louage des choses > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.**
 
 <hr>
 
@@ -65,8 +65,8 @@ Je me permets de prendre contact avec vous en votre qualité de propriétaire ba
 Le vendredi [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) à 15h00, j'ai été victime d'un accident corporel grave au sein de cet établissement, causé par le basculement d'un équipement lourd (bac à shampoing) défectueux et avec cassure préexistante, entraînant une section profonde de 8,5 cm au niveau de ma main droite dominante (section tendineuse et nerveuse de l'index droit opérée en urgence sous anesthésie le [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-1-chirurgie.md)) avec un pronostic de récupération neurologique évalué à un an minimum par le chirurgien (récupération souvent partielle s'agissant d'une suture nerveuse).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.** <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.**
 
 Je mets en œuvre l'action directe contre l'assureur de responsabilité civile de l'exploitant commercial.
 
@@ -99,16 +99,16 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat, lequel devra répondre dans un délai raisonnable ;
 
 > « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. » <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.** <br>
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.**
 
 3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
 À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) — d'abord en référé pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
-> **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.** <br>
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
+> **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.**
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 

@@ -16,7 +16,7 @@ source: drive
 drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [🗄️ Archives](./README.md) › 📁 Dossier Presentation*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📦 Archives](./README.md) › 📁 Dossier Presentation*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -86,8 +86,8 @@ Sébastien GRAZIDE agit actuellement en son nom propre et a formalisé les déma
 - Pièce 01 - Conclusions de Partie Civile : Récit des faits et fondements juridiques d'obligation ([Article 1242 alinéas 1 et 5 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ; [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)).
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
-> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
 > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
+> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.**
 - Pièce 02 - Rapport d'expertise juridique (Deep Research) : Note théorique sur la faute détachable du dirigeant et l'action directe.
 - Pièce 03 - Étude de l'Indemnisation Maximale : Évaluation chiffrée prospective.
 - Pièce 04 (Courrier 1) - Mise en demeure SAS (SAS LES MAUVAIS GARCONS) : Demandant à l'exploitant de déclarer le sinistre.

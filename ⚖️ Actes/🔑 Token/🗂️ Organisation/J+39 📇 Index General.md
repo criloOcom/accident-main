@@ -103,8 +103,8 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 - 2026-06-02 - 13 📜 Responsabilites legales - V1 ✓ Vérifié : Analyse sur [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
-> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
 > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
+> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.**
 - 2026-07-05 - 12 📁 Dossier Plaidoirie - V1 ✓ Vérifié : Dossier complet de plaidoirie pour l'audience.
 - 2026-07-05 - 14 Stratégie jurisprudentielle - V1 ✓ Brouillon : Stratégie jurisprudentielle pour l'audience.
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »

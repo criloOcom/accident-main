@@ -36,8 +36,8 @@ Cabinet du Juge des Referes
 La presente requete est introduite par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) sur le fondement de l'Article 145 du Code de procedure civile.
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
-> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
+> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.**
 
 Elle a pour double objet d'obtenir, sous astreinte :
 
@@ -46,8 +46,8 @@ Elle a pour double objet d'obtenir, sous astreinte :
 2. La conservation et la communication des enregistrements de videosurveillance du salon de coiffure pour la periode du 25 mai au 5 juin 2026, avant leur ecrasement (delai standard de conservation de 60 jours).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 
 <hr><hr>
 
@@ -73,8 +73,8 @@ A ce jour, l'identite de l'assureur RC professionnelle de [**[L'Exploitant du Co
 L'article 145 du Code de procedure civile dispose :
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
-> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
+> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.**
 
 > « S'il existe un motif legitime de conserver ou d'etablir avant tout proces la preuve de faits dont pourrait dependre la solution d'un litige, les mesures d'instruction legalement admissibles peuvent etre ordonnees a la demande de tout interesse, sur requete ou en refere. »
 
@@ -92,8 +92,8 @@ La jurisprudence admet que la communication forcee d'un document contractuel con
 L'article L.124-3 du Code des assurances consacre le droit de la victime d'agir directement contre l'assureur de la personne responsable :
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 
 > « Le tiers lese dispose d'un droit d'action directe a l'encontre de l'assureur garantissant la responsabilite civile de la personne responsable. »
 
@@ -140,12 +140,12 @@ L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu
 Vu l'Article 145 du Code de procédure civile,
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
-> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
+> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.**
 Vu l'Article L. 124-3 du Code des assurances,
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité.** <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité.**
 
 Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
 Vu les pièces versées aux débats,
@@ -171,8 +171,8 @@ Vu les pièces versées aux débats,
 5. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) la somme de 1 500 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
 
 > « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. » <br>
-> **Code de procédure civile > Chapitre Ier : La charge des dépens.** <br>
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
+> **Code de procédure civile > Chapitre Ier : La charge des dépens.**
 
 <hr>
 

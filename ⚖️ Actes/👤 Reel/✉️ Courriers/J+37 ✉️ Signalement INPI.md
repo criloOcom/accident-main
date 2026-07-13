@@ -18,7 +18,7 @@ source: drive
 drive_id: 1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › J+37 ✉️ Signalement INPI*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+37 ✉️ Signalement INPI*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -78,8 +78,8 @@ Les procedures suivantes ont ete engagees :
 - Action directe contre l'assureur RC (Article L.124-3 du Code des assurances)
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 
 **3. Demande d'enquete administrative**
 

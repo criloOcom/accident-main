@@ -47,8 +47,8 @@ Madame, Monsieur,
 La présente lettre de mise en demeure est adressée par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) à la compagnie d'assurance de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) sur le fondement de l'article L. 124-3 du Code des assurances, lequel institue une action directe de la victime contre l'assureur du responsable.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 
 Par ce courrier, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) met en demeure l'assureur de prendre en charge le sinistre corporel survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) dans les locaux de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) et de procéder au règlement des préjudices subis, dont le montant total estimé s'élève à **[Finance Evaluation Initiale]** selon l'étude d'indemnisation établie conformément à la Nomenclature Dintilhac.
 
@@ -61,12 +61,12 @@ Cette action directe permet à la victime de saisir directement l'assureur sans 
 L'article L. 124-3 du Code des assurances institue une action directe de la victime contre l'assureur du responsable, ce qui me permet de vous saisir directement sans passer par l'intermédiaire de la société.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
-> **Code des assurances > Partie législative > Livre Ier > Titre II : L'assurance de responsabilité > Chapitre Ier : La garantie de l'assureur.** <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Partie législative > Livre Ier > Titre II : L'assurance de responsabilité > Chapitre Ier : La garantie de l'assureur.**
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
-> **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.** <br>
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
+> **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.**
 
 Ces dispositions sont d'ordre public et s'imposent à toute compagnie d'assurance opérant sur le territoire français.
 
@@ -81,8 +81,8 @@ Le pronostic de récupération neurologique a été évalué à un an minimum pa
 En application de l'article L. 124-3 du Code des assurances, je dispose d'un droit propre et d'une action directe à l'encontre de votre compagnie en tant qu'assureur de responsabilité civile de l'auteur du dommage.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 
 > « L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. » <br>
 > [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) <br>
@@ -136,8 +136,8 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat (Article L. 113-2, 4° du Code des assurances), lequel devra répondre dans un délai raisonnable ;
 
 > « L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. » <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.** <br>
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.**
 
 3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 

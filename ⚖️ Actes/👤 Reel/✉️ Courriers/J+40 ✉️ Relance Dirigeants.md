@@ -18,7 +18,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/06 V2 ✉️ Relance Dirigeants.md
 source: local
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › J+40 ✉️ Relance Dirigeants*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+40 ✉️ Relance Dirigeants*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -62,8 +62,8 @@ L'absence de réponse à ma mise en demeure initiale ayant dépassé le délai l
 Par la présente, je vous intime formellement l'injonction de conserver et de ne pas altérer tout élément matériel restant lié à l'accident. Toute destruction ou altération intentionnelle de ces éléments est susceptible de caractériser le délit d'entrave à la manifestation de la vérité prévu par l'article 434-4 du Code pénal (reproduit en Annexe 1).
 
 > « Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. Lorsque les faits prévus au présent article sont commis par une personne qui, par ses fonctions, est appelée à concourir à la manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende. » <br>
-> **Code pénal > Section 1 : Des entraves à la saisine de la justice.** <br>
 > [Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) <br>
+> **Code pénal > Section 1 : Des entraves à la saisine de la justice.**
 
 Ma présence ainsi que le déroulement de l'accident sont déjà documentés par des éléments indépendants (transaction Wero, géolocalisation, rapports médicaux et procès-verbal de police).
 
@@ -83,15 +83,15 @@ Je vous demande donc de me communiquer sous 15 jours :
 Cette démarche a pour but de déclarer le sinistre et de permettre un règlement amiable par votre assureur, conformément au droit d'action directe de la victime (article L. 124-3 du Code des assurances). Je reste pleinement ouvert à une médiation ou à un échange amiable.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 
 ### Signalements administratifs
 Compte tenu de la gravité de l'accident et des manquements flagrants à l'obligation de sécurité des locaux, je me réserve le droit de procéder à des signalements auprès de l'Inspection du travail (DREETS - article L. 4121-1 du Code du travail) et de la commission de sécurité des ERP.
 
 > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
-> **Code du travail > Chapitre Ier : Obligations de l'employeur.** <br>
 > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) <br>
+> **Code du travail > Chapitre Ier : Obligations de l'employeur.**
 
 ---
 
@@ -105,13 +105,13 @@ Face aux difficultés de distribution postale à votre siège social, je vous de
 2. Saisir le juge des référés du tribunal judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) par voie de **requête** (non contradictoire, afin de préserver l'effet de surprise) sur le fondement de l'article 145 du Code de procédure civile, pour ordonner sous astreinte la communication des documents ;
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
-> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
+> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.**
 3. Solliciter devant ce juge votre condamnation solidaire au remboursement intégral de l'ensemble de mes frais d'avocat et de procédure sur le fondement de l'article 700 du Code de procédure civile.
 
 > « Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. » <br>
-> **Code de procédure civile > Chapitre Ier : La charge des dépens.** <br>
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
+> **Code de procédure civile > Chapitre Ier : La charge des dépens.**
 
 Dans l'attente d'un échange constructif, je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président, l'expression de mes salutations distinguées.
 
@@ -125,8 +125,8 @@ Dans l'attente d'un échange constructif, je vous prie d'agréer, Madame la Dire
 **Article 434-4 du Code pénal (version en vigueur au 29 mai 2026)** :
 
 > « Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. Lorsque les faits prévus au présent article sont commis par une personne qui, par ses fonctions, est appelée à concourir à la manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende. » <br>
-> **Code pénal > Section 1 : Des entraves à la saisine de la justice.** <br>
 > [Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) <br>
+> **Code pénal > Section 1 : Des entraves à la saisine de la justice.**
 
 ### Annexe 2 : Responsabilité personnelle des dirigeants de SAS
 La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l'égard des tiers pour faute détachable de leurs fonctions, caractérisée par un manquement délibéré d'une particulière gravité (renvois des articles L. 227-1, L. 227-8 et L. 225-251 du Code de commerce).

@@ -72,8 +72,8 @@ Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SA
 Ce manquement à l'obligation de sécurité est également codifié à l'article R. 143-2 du Code de la construction et de l'habitation, la vasque avec cassure préexistante faisant partie intégrante des installations d'accueil de l'ERP.
 
 > « Dans les établissements soumis aux prescriptions du présent chapitre, les propriétaires, directeurs ou exploitants sont tenus, tant au moment de la construction qu'au cours de l'exploitation, de respecter les mesures de prévention et de sauvegarde propres à assurer la sécurité des personnes contre les risques d'incendie et de panique. » <br>
-> **Code de la construction et de l'habitation > Partie réglementaire > Titre Ier > Chapitre Ier.** <br>
 > [Article R. 143-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818941) <br>
+> **Code de la construction et de l'habitation > Partie réglementaire > Titre Ier > Chapitre Ier.**
 
 À titre subsidiaire, face à toute allégation de partage de responsabilité, le réflexe naturel de protection de La Victime face à un danger imminent ne saurait caractériser une faute et exclut toute réduction d'indemnisation supérieure à 10 ou 20% au maximum.
 
@@ -82,14 +82,14 @@ Sur le plan pénal, Le Dirigeant répond de ses propres infractions, y compris n
 Le maintien en service d'un équipement dangereux dans un établissement recevant du public (ERP) contrevient à l'obligation générale de sécurité prévue par l'article L. 421-3 du Code de la consommation.
 
 > « Les prestations de services doivent présenter, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles par le professionnel, la sécurité à laquelle on peut légitimement s'attendre et ne pas porter atteinte à la santé des personnes. » <br>
-> **Code de la consommation > Partie législative > Livre Ier > Titre II > Chapitre II > Section 1.** <br>
 > [Article L. 421-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) <br>
+> **Code de la consommation > Partie législative > Livre Ier > Titre II > Chapitre II > Section 1.**
 
 Une condamnation pour blessures involontaires sur le fondement de l'article 222-20 du Code pénal permet de solliciter la réparation des préjudices directement sur les biens propres du dirigeant coupable, sans nécessité de prouver une faute détachable commerciale devant le juge répressif.
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
-> **Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2.** <br>
 > [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
+> **Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2.**
 
 <hr><hr>
 
@@ -98,14 +98,14 @@ Une condamnation pour blessures involontaires sur le fondement de l'article 222-
 La Victime dispose d'un droit propre et autonome sur l'indemnité d'assurance en vertu de l'article L. 124-3 du Code des assurances.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
-> **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier.** <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier.**
 
 Cette action, dite "action directe", peut être exercée même si la société est radiée ou en liquidation, car la personnalité morale subsiste pour les besoins de la liquidation conformément à l'article L. 237-2 du Code de commerce.
 
 > « La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la clôture de celle-ci. » <br>
-> **Code de commerce > Partie législative > Livre V > Titre IV > Chapitre IV > Section 3.** <br>
 > [Article L. 237-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063) <br>
+> **Code de commerce > Partie législative > Livre V > Titre IV > Chapitre IV > Section 3.**
 
 Des demandes formelles ont été initiées pour identifier l'assureur et solliciter une provision.
 
@@ -113,8 +113,8 @@ Des demandes formelles ont été initiées pour identifier l'assureur et sollici
 La réparation intégrale, pilier du droit français régi par l'article 1240 du Code civil, impose que La Victime soit replacée dans sa situation initiale.
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
-> **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.** <br>
 > [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
+> **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.**
 
 Pour La Victime, informaticien indépendant, l'incidence professionnelle est majeure.
 

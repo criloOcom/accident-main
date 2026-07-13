@@ -16,7 +16,7 @@ statut: final
 auteur: La Victime
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses juridiques](./README.md) › J+47 🛡️ Memo Strategie Admin Penal*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+47 🛡️ Memo Strategie Admin Penal*
 <hr>
 <!-- /Breadcrumb -->
 

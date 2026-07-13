@@ -15,7 +15,7 @@ source: drive
 drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [🗄️ Archives](./README.md) › 🔧 ANALYSE correction juridique*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📦 Archives](./README.md) › 🔧 ANALYSE correction juridique*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -53,8 +53,8 @@ L'affaire met en cause la responsabilité de la personne morale, dirigée par Sa
 À ce jour, le statut exact de L'Exploitant demeure incertain : les courriers recommandés adressés le 29 juin 2026 à la société et à ses dirigeants sont restés sans réponse ni accusé de réception signé. Dans ce contexte d'opacité, il convient de sécuriser l'ensemble des voies d'indemnisation, notamment l'action directe contre l'assureur sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449), ainsi que la mise en cause personnelle des dirigeants.
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »
 
