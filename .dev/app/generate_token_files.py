@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 generate_token_files.py — Génère les fiches individuelles pour chaque token
-dans 🧠 Memory/🗂️ Jetons/ avec contenu enrichi (identité, chronologie, documents liés).
+dans 🧠 Memory/🗂️ Tokens/ avec contenu enrichi (identité, chronologie, documents liés).
 
 Usage: python3 .dev/app/generate_token_files.py [--dry-run]
 """
@@ -9,7 +9,7 @@ Usage: python3 .dev/app/generate_token_files.py [--dry-run]
 import os, re, unicodedata, sys
 
 BASE = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
-JETONS_DIR = os.path.join(BASE, "🧠 Memory", "🗂️ Jetons")
+JETONS_DIR = os.path.join(BASE, "🧠 Memory", "🗂️ Tokens")
 TOKENMAP = os.path.join(BASE, "🧠 Memory", "TOKEN MAP.md")
 STRICT = os.path.join(BASE, "🧠 Memory", "STRICT VARIABLES.md")
 
@@ -347,7 +347,7 @@ def generate_evenementiel(e, strict_content, jplus_docs):
             lines.append('## Documents liés')
             lines.append('')
             for dp in doc_paths:
-                # Convert to relative path from Jetons directory
+                # Convert to relative path from Tokens directory
                 from_jeton = os.path.relpath(os.path.join(BASE, dp), JETONS_DIR)
                 display = os.path.basename(dp).replace('.md', '')
                 lines.append(f'- [{display}]({from_jeton})')
@@ -382,7 +382,7 @@ def main():
             seen.add(e['anchor'])
             unique.append(e)
 
-    print(f"Génération de {len(unique)} fiches jetons dans {JETONS_DIR}")
+    print(f"Génération de {len(unique)} fiches tokens dans {JETONS_DIR}")
 
     # Categories
     personne_physique_sections = {'Personnes physiques'}
@@ -428,7 +428,7 @@ def main():
 
         created += 1
 
-    print(f"\n{'[DRY-RUN] ' if DRY_RUN else ''}Crée {created} fichiers jetons.")
+    print(f"\n{'[DRY-RUN] ' if DRY_RUN else ''}Crée {created} fichiers tokens.")
 
 if __name__ == '__main__':
     main()

@@ -14,7 +14,7 @@ type: memory
 - Utiliser le bon français avec articles : `**[La Victime]**` PAS `**[Victime]**`
 - `**[L'Exploitant du Commerce (La SAS)]**` (pas "Salon" — on ne précise pas la nature du commerce)
 - `**[Le Préposé de l'Exploitation]**` (pas "Coiffeur" — on ne précise pas le métier)
-- Tous les jetons de la table sont corrects et validés
+- Tous les tokens de la table sont corrects et validés
 
 ## Méthode locale validée
 - Le workflow local (Python → .txt → .md → replaceDocumentWithMarkdown) a été validé
@@ -31,7 +31,7 @@ type: memory
 - Le dossier ARCHIVES contient les originaux en sécurité
 
 ## Annexes dans UNIFIE_ANONYME — RÈGLE 2026-07-02
-- **Les annexes contenant la correspondance jeton ↔ identité réelle ne doivent PAS être incluses dans les copies UNIFIE_ANONYME**
+- **Les annexes contenant la correspondance token ↔ identité réelle ne doivent PAS être incluses dans les copies UNIFIE_ANONYME**
 - Ces annexes (ANNEXE 1 — Tableau des acteurs) exposent les noms réels et annulent l'anonymisation
 - Les docs 1, 2, 4 ont dû être corrigés a posteriori pour retirer ces annexes
 - La table de correspondance est conservée uniquement dans TOKEN MAP.md (hors Drive)

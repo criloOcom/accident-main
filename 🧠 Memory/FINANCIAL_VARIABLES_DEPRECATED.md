@@ -18,7 +18,7 @@ Conserver pour archive uniquement — ne plus utiliser.
 
 ## 1. PROVISIONS ET DÉPENS DE RÉFÉRÉ
 
-| Variable financière | Jeton associé | Montant | Description |
+| Variable financière | Token associé | Montant | Description |
 | :--- | :--- | :--- | :--- |
 | **MONTANT_PROVISION_REFERE** | `[Finance Provision Référé]` | **15 000 €** | Provision réclamée au juge des référés |
 | **MONTANT_ARTICLE_700** | `[Finance Article 700]` | **3 000 €** | Indemnité réclamée au titre de l'article 700 du CPC |
@@ -32,7 +32,7 @@ Conserver pour archive uniquement — ne plus utiliser.
 
 Ces valeurs correspondent aux estimations raisonnables de réparation du préjudice corporel de la victime (totalisant **85 000 €**).
 
-| Poste de préjudice (Dintilhac) | Jeton associé | Montant | Détails |
+| Poste de préjudice (Dintilhac) | Token associé | Montant | Détails |
 | :--- | :--- | :--- | :--- |
 | **(PGPA) Pertes de gains pros actuels** | `[Finance PGPA]` | **1 380 €** | Basé sur 56 jours d'ITT et 750 €/mois de CA |
 | **(DFP) Déficit fonctionnel permanent** | `[Finance DFP]` | **25 000 €** | Taux estimé à 10% avant consolidation définitive |
@@ -47,7 +47,7 @@ Ces valeurs correspondent aux estimations raisonnables de réparation du préjud
 
 ## 3. FACTURES ET CRÉANCES DIVERSES
 
-| Variable financière | Jeton associé | Montant | Émetteur |
+| Variable financière | Token associé | Montant | Émetteur |
 | :--- | :--- | :--- | :--- |
 | **FACTURE_CHIRURGIE** | `[Finance Facture Chirurgie]` | **790,23 €** | Clinique de l'Union (Chirurgien SOS Main) |
 | **WERO_PRESTATION** | `[Finance Prestation Salon]` | **15,00 €** | Paiement initial (remboursé par le salon) |

@@ -21,7 +21,7 @@ type: memory
 8. **Vérifier** qu'aucun nom réel n'est visible (relire la copie UNIFIE_ANONYME avec `readDocument`)
 
 ## Après injection (application de la charte DESIGN.md) :
-- **NE PAS** inclure l'ANNEXE 1 (tableau des acteurs) dans les copies UNIFIE_ANONYME — elle contient la correspondance jeton ↔ identité réelle
+- **NE PAS** inclure l'ANNEXE 1 (tableau des acteurs) dans les copies UNIFIE_ANONYME — elle contient la correspondance token ↔ identité réelle
 - Les tables de correspondance sont conservées dans TOKEN MAP.md (hors du Drive)
 - **Appliquer la charte graphique** définie dans [🧠 Memory/DESIGN.md](DESIGN.md) :
   1. `applyParagraphStyle` → JUSTIFIED sur tout le document

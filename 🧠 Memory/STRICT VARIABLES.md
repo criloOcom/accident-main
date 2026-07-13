@@ -103,7 +103,7 @@ type: memory
 6. Seule la main droite est touchée — la main gauche est fonctionnelle, la dictée vocale est possible
 
 ## Personnes physiques (tokens)
-| Rôle | Jeton |
+| Rôle | Token |
 |------|-------|
 | Victime | `**[La Victime]**` |
 | Président de l'exploitation | `**[Le Président de l'Exploitation]**` |
@@ -118,7 +118,7 @@ type: memory
 ⚠ **Statut de la SAS vérifié (2026-07-06)** : Active (état administratif "A"), créée le 01/06/2024, siège social au 22 Rue Lafaurie 09000 Foix. Président : Sabir MOUNTASSER. Directrice Générale : Catherine Andissac/Sorroche. Aucune procédure de dissolution ou liquidation en cours (source : API Recherche Entreprises).
 
 ## Personnes morales (tokens)
-| Rôle | Jeton | Note |
+| Rôle | Token | Note |
 |------|-------|------|
 | Exploitant du commerce (la SAS) | `**[L'Exploitant du Commerce (La SAS)]**` | ⚠ Désigne la PERSONNE MORALE SAS, pas ses dirigeants. L'ajout `(La SAS)` prévient toute confusion. Le singulier est correct car une SAS = une entité unique. |
 | Établissement SOS Main | `**[L'Établissement SOS Main]**` | |

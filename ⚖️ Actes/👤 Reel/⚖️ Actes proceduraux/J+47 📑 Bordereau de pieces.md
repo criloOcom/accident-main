@@ -151,7 +151,7 @@ source: drive
 
 ## Pièce n° 29 — Confirmation rendez-vous kinésithérapie
 
-- [**[J+27 Confirmation kiné]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-27-confirmation-kine.md) — Doctolib : Confirmation de rendez-vous de rééducation ciblée suite à la chirurgie de l'index.
+- [**[J+27 Confirmation kiné]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-27-confirmation-kine.md) — Doctolib : Confirmation de rendez-vous de rééducation ciblée suite à la chirurgie de l'index.
 
 ## Pièce n° 30 — Mémo indemnités journalières CPAM
 

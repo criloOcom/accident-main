@@ -1,6 +1,6 @@
 ---
 title: "TABLE DE SUBSTITUTION — Anonymisation (tokens V2)"
-description: "| Texte original | Jeton |"
+description: "| Texte original | Token |"
 type: memory
 ---
 <!-- Breadcrumb -->
@@ -11,7 +11,7 @@ type: memory
 # TABLE DE SUBSTITUTION — Anonymisation (tokens V2)
 
 ## Personnes physiques {#personnes-physiques}
-| Texte original | Jeton |
+| Texte original | Token |
 |---|---|
 <a id="token-la-victime"></a>
 | Sébastien GRAZIDE / Grazide / GRAZIDE | `**[La Victime]**` |
@@ -37,7 +37,7 @@ type: memory
 | Bernard TAVELLA / TAVELLA / M. TAVELLA | `**[L'Adjoint au Maire de la Commune]**` |
 
 ## Personnes morales {#personnes-morales}
-| Texte original | Jeton | Note |
+| Texte original | Token | Note |
 |---|---|---|
 <a id="token-l-exploitant-du-commerce-la-sas"></a>
 | SAS LES MAUVAIS GARCONS / LES MAUVAIS GARÇONS | `**[L'Exploitant du Commerce (La SAS)]**` | ⚠ Personne morale UNIQUE — PAS le Président ni la DG. L'ajout `(La SAS)` clarifie qu'il s'agit de la société, pas de ses dirigeants. |
@@ -45,7 +45,7 @@ type: memory
 | Clinique de l'Union | `**[L'Établissement SOS Main]**` | |
 
 ## Données localisantes / identifiantes {#donnees-localisantes}
-| Texte original | Jeton |
+| Texte original | Token |
 |---|---|
 <a id="token-l-adresse-de-la-victime"></a>
 | 10 Avenue de Purpan, 31700 Blagnac | `**[L'Adresse de la Victime]**` |
@@ -78,7 +78,7 @@ type: memory
 | 31727387 / 2026/015967 | `[ ... ]` (ou le contexte approprié) |
 
 ## Personnes morales (suite) {#personnes-morales-suite}
-| Texte original | Jeton |
+| Texte original | Token |
 |---|---|
 <a id="token-l-adjoint-au-maire-de-la-commune"></a>
 | Monsieur TAVELLA | `**[L'Adjoint au Maire de la Commune]**` |

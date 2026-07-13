@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 update_token_links.py — Remplace les liens TOKEN MAP.md#section par
-des liens vers les fiches individuelles dans 🧠 Memory/🗂️ Jetons/.
+des liens vers les fiches individuelles dans 🧠 Memory/🗂️ Tokens/.
 
 Seules les liaisons de type [**[Token]**](...TOKEN MAP...) sont remplacées.
 Les non-tokens (N°..., Adresse..., Téléphone...) restent vers la section.
@@ -13,7 +13,7 @@ import os, re, sys, unicodedata
 from urllib.parse import quote
 
 BASE = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
-JETONS_DIR = os.path.join(BASE, "🧠 Memory", "🗂️ Jetons")
+JETONS_DIR = os.path.join(BASE, "🧠 Memory", "🗂️ Tokens")
 DRY_RUN = "--dry-run" in sys.argv
 
 # ─── build token mapping ───────────────────────────────────
@@ -166,7 +166,7 @@ def replace_links(content, from_file):
 def main():
     all_files = []
     for root, dirs, filenames in os.walk(BASE):
-        skip_dirs = {'.git', '__pycache__', '.pytest_cache', '🗂️ Jetons'}
+        skip_dirs = {'.git', '__pycache__', '.pytest_cache', '🗂️ Tokens'}
         dirs[:] = [d for d in dirs if d not in skip_dirs]
         for fn in filenames:
             if not fn.endswith('.md'):

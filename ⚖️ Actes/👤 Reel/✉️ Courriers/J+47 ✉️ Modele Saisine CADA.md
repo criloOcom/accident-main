@@ -29,7 +29,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/43 ✉️ Modele Saisine CADA.md
 
 ---
 
-**Expéditeur :** [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) — [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md)
+**Expéditeur :** [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) — [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md)
 **Destinataire :** Commission d'accès aux documents administratifs (CADA), 35 rue Saint-Dominique, 75700 Paris 07 SP
 **Date :** [Date d'envoi — À compléter]
 
@@ -43,7 +43,7 @@ Je saisis la Commission d'accès aux documents administratifs, en application du
 
 ## 1. Identité du demandeur
 
-Je soussigné(e) [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), demeurant [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md), victime d'un accident corporel grave survenu le **29 mai 2026** dans le salon de coiffure « LES MAUVAIS GARÇONS », 22 Rue Lafaurie, 09000 Foix (plaie palmaire profonde de la main droite, section partielle tendon fléchisseur + paquet vasculo-nerveux, ITT 56 jours — PV de police n°2026/015967).
+Je soussigné(e) [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), demeurant [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md), victime d'un accident corporel grave survenu le **29 mai 2026** dans le salon de coiffure « LES MAUVAIS GARÇONS », 22 Rue Lafaurie, 09000 Foix (plaie palmaire profonde de la main droite, section partielle tendon fléchisseur + paquet vasculo-nerveux, ITT 56 jours — PV de police n°2026/015967).
 
 ## 2. Administration(s) concernée(s)
 
@@ -93,4 +93,4 @@ Je vous remercie par avance de l'attention portée à la présente demande d'avi
 
 Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)

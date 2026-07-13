@@ -150,4 +150,4 @@ source: drive
 
 ---
 
-> *Document mis à jour le [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-38-mise-a-jour.md) — Les pièces sont classées par groupe thématique, numérotation séquentielle. Les pièces marquées Gabarit sont à faire remplir par les témoins.*
+> *Document mis à jour le [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-mise-a-jour.md) — Les pièces sont classées par groupe thématique, numérotation séquentielle. Les pièces marquées Gabarit sont à faire remplir par les témoins.*

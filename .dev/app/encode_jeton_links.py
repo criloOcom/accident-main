@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-encode_jeton_links.py — URL-encode les chemins des liens vers 🗂️ Jetons/
+encode_jeton_links.py — URL-encode les chemins des liens vers 🗂️ Tokens/
 qui ont été écrits avec des caractères littéraux (espaces, emojis).
 
 Les liens passent de :
-  ../../../🧠 Memory/🗂️ Jetons/token-la-victime.md
+  ../../../🧠 Memory/🗂️ Tokens/token-la-victime.md
 à :
-  ../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md
+  ../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md
 
 Usage: python3 .dev/app/encode_jeton_links.py [--dry-run]
 """
@@ -33,28 +33,28 @@ def main():
     total_fixed = 0
     total_files_changed = 0
     
-    # Pattern: ](some-path-with-Jetons-but-already-with-literal-chars)
-    # Match links pointing to Jetons that have NOT been URL-encoded
+    # Pattern: ](some-path-with-Tokens-but-already-with-literal-chars)
+    # Match links pointing to Tokens that have NOT been URL-encoded
     # (contain literal emoji characters or spaces)
     pattern = re.compile(
         r'(]\([^)]*)'            # ]( and the URL
         r'(\u2b50|\U0001f9e0|\U0001f5c2|\U0001f4c2|\u0020)'  # has literal unicode or space
         r'[^)]*'                  # rest of URL
-        r'Jetons[^)]*\.md\)',     # ends with Jetons/...md)
+        r'Tokens[^)]*\.md\)',     # ends with Tokens/...md)
         re.UNICODE
     )
     
-    # Simpler approach: find any ](url) where url contains literal 🧠 or 🗂️ or space in the Jetons path
-    # and the url is NOT already URL-encoded (no % in the Jetons part)
+    # Simpler approach: find any ](url) where url contains literal 🧠 or 🗂️ or space in the Tokens path
+    # and the url is NOT already URL-encoded (no % in the Tokens part)
     
     for fp in all_files:
         with open(fp) as f:
             content = f.read()
         
-        if '🗂️ Jetons' not in content and '🧠 Memory/🗂' not in content:
+        if '🗂️ Tokens' not in content and '🧠 Memory/🗂' not in content:
             continue
         
-        # Look for patterns like ](../../../🧠 Memory/🗂️ Jetons/token-xxx.md)
+        # Look for patterns like ](../../../🧠 Memory/🗂️ Tokens/token-xxx.md)
         # These have literal emoji and/or spaces in the URL
         fix_pattern = re.compile(
             r'(]\('
@@ -68,8 +68,8 @@ def main():
         
         for m in fix_pattern.finditer(content):
             url = m.group(2)
-            # Only touch links that point to Jetons with literal chars
-            if 'Jetons' not in url and '🗂️ Jetons' not in url:
+            # Only touch links that point to Tokens with literal chars
+            if 'Tokens' not in url and '🗂️ Tokens' not in url:
                 continue
             # Skip already-encoded links
             if '%' in url:
@@ -98,8 +98,8 @@ def main():
         
         for m in link_pattern.finditer(content):
             url = m.group(1)
-            # Only process Jetons links with literal chars
-            if 'Jetons' not in url and '🗂️ Jetons' not in url:
+            # Only process Tokens links with literal chars
+            if 'Tokens' not in url and '🗂️ Tokens' not in url:
                 continue
             if '%' in url:
                 continue

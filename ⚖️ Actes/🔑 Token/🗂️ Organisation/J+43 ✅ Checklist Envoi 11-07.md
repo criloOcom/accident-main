@@ -62,14 +62,14 @@ reel_path: ../../👤 Reel/🗂️ Organisation/24 ✅ Checklist Envoi 11-07-202
 
 ### Email URSSAF
 - [ ] Destinataire : [email dans le courrier 12 reel]
-- [ ] Objet : [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Transmission de preuves — [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
+- [ ] Objet : [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Transmission de preuves — [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
 - [ ] Joindre PV, NPAI, Kbis, dossier medical en PDF
 - [ ] Demander AR de lecture
 - [ ] Noter date/heure envoi : ___________________
 
 ### Email CODAF
 - [ ] Destinataire : [email dans le courrier 14 reel]
-- [ ] Objet : [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Transmission de preuves — [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
+- [ ] Objet : [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Transmission de preuves — [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
 - [ ] Joindre PV, NPAI, Kbis, dossier medical en PDF
 - [ ] Demander AR de lecture
 - [ ] Noter date/heure envoi : ___________________

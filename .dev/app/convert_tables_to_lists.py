@@ -8,7 +8,7 @@ de numéros sont illisibles sur GitHub). Les tableaux de DONNÉES (dates,
 montants, comparaisons) sont conservés.
 
 Détection d'un tableau "listing" à convertir :
-  - l'en-tête contient un jeton de numérotation (#, N°, N, Num) ET
+  - l'en-tête contient un token de numérotation (#, N°, N, Num) ET
   - une colonne avec un lien vers un fichier .md (ou un nom de document)
   - le corps a une colonne de numéros (01, 02, 1, 2...) en 1ère ou 2e colonne
 
@@ -52,7 +52,7 @@ def is_listing_table(hdr, rows):
     """Decide si ce tableau est un listing a convertir."""
     if not hdr:
         return False
-    # en-tete contient un jeton de numero OU de document/fichier
+    # en-tete contient un token de numero OU de document/fichier
     has_num_hdr = any(NUM_HEADER.search(h) for h in hdr)
     has_doc_hdr = any(re.search(r'document|fichier|dossier|piece|acte|nom', h, re.IGNORECASE) for h in hdr)
     # une colonne contient des liens .md ou noms de fichiers

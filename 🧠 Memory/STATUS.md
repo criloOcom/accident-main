@@ -548,7 +548,7 @@ Tous les 14 documents UNIFIE_ANONYME contiennent :
 1. ✅ Contenu principal avec tokens en gras (V2)
 2. ✅ Corrections factuelles appliquées
 3. ✅ Liens Légifrance/Judilibre cachés (7 docs : 6,7,8,9,10,11,14)
-4. ✅ Annexe A — Lexique des jetons
+4. ✅ Annexe A — Lexique des tokens
 5. ✅ Annexe B — Textes de loi et jurisprudence cités
 6. ✅ Annexe C — Liste des pièces citées avec liens Drive
 

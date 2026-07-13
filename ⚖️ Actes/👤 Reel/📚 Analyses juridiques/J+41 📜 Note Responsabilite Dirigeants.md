@@ -1,6 +1,6 @@
 ---
 title: "Note Responsabilité Dirigeants Dissolution"
-description: "Dans l'hypothèse où [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) procèderaient à la dissolution ou à la radiation de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) afin d'échapper aux poursuites et à l'indemnisation"
+description: "Dans l'hypothèse où [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) procèderaient à la dissolution ou à la radiation de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) afin d'échapper aux poursuites et à l'indemnisation"
 type: analyse_juridique
 date: 2026-07-09
 jx: J+41
@@ -24,7 +24,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/16 📜 Note Responsabilite 
 
 ## I. PROBLÉMATIQUE
 
-Dans l'hypothèse où [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) procèderaient à la dissolution ou à la radiation de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) afin d'échapper aux poursuites et à l'indemnisation de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), leur responsabilité personnelle pourrait être engagée sur plusieurs fondements.
+Dans l'hypothèse où [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) procèderaient à la dissolution ou à la radiation de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) afin d'échapper aux poursuites et à l'indemnisation de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), leur responsabilité personnelle pourrait être engagée sur plusieurs fondements.
 
 La présente note analyse les trois voies de recours contre les dirigeants à titre personnel.
 
@@ -44,7 +44,7 @@ Cet article rend applicable aux dirigeants de SAS le régime de responsabilité 
 > *« Lorsqu'une liquidation judiciaire d'une personne morale fait apparaître une insuffisance d'actif, le tribunal peut, en cas de faute de gestion ayant contribué à cette insuffisance d'actif, décider que le montant de cette insuffisance sera supporté, en tout ou partie, par tous les dirigeants de droit ou de fait, ou certains d'entre eux, ayant contribué à la faute de gestion. »* <br>
 > **Code de commerce** [Article L.651-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025718687)[^2] <br>
 
-Si la SAS est placée en liquidation judiciaire et que les dirigeants ont organisé sa mise en sommeil ou sa dissolution avant d'avoir répondu de leurs dettes, la faute de gestion sera constituée. Le tribunal pourra mettre à leur charge personnelle l'insuffisance d'actif, c'est-à-dire le montant des dommages et intérêts dus à [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) que la société ne peut couvrir.
+Si la SAS est placée en liquidation judiciaire et que les dirigeants ont organisé sa mise en sommeil ou sa dissolution avant d'avoir répondu de leurs dettes, la faute de gestion sera constituée. Le tribunal pourra mettre à leur charge personnelle l'insuffisance d'actif, c'est-à-dire le montant des dommages et intérêts dus à [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) que la société ne peut couvrir.
 
 > **Note de correction :** L'ancienne référence L.654-6 C.com. pointait vers un article abrogé depuis 2016. La nouvelle structuration des infractions de banqueroute place les actes de base aux articles L.654-2 (personnes physiques) et L.654-3/L.654-4 (variantes), tandis que **L.654-7** est le texte en vigueur qui fixe les peines applicables aux personnes morales. Voir [`CHANGELOG_JURIDIQUE.md`](CHANGELOG_JURIDIQUE.md).
 
@@ -72,7 +72,7 @@ La jurisprudence constante de la Cour de cassation (Assemblée plénière, arrê
 | L.654-7 C.com. | Pénale | Banqueroute par personne morale | Emprisonnement + amende |
 | Faute détachable (SATI) | Civile | Faute d'une gravité exceptionnelle | Responsabilité personnelle |
 
-**Conclusion :** la disparition frauduleuse de la SAS engage à titre personnel [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md). Il est recommandé de les mettre en cause personnellement dès la phase de référé-provision et de les viser dans le signalement au Parquet.
+**Conclusion :** la disparition frauduleuse de la SAS engage à titre personnel [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md). Il est recommandé de les mettre en cause personnellement dès la phase de référé-provision et de les viser dans le signalement au Parquet.
 
 
 

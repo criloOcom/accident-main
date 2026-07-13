@@ -70,7 +70,7 @@ type: memory
 - **INTERDIT** toute automatisation par script sur les Google Docs (str.replace, re.sub, regex direct)
 - **INTERDIT** `deleteContentRange` + `insertText` pour réécrire un doc (détruit formatage)
 - **INTERDIT** d'insérer des fichiers .md, .txt dans le Drive (sauf ARCHIVES)
-- **INTERDIT** d'inclure les annexes de correspondance (jeton ↔ identité réelle) dans les copies UNIFIE_ANONYME
+- **INTERDIT** d'inclure les annexes de correspondance (token ↔ identité réelle) dans les copies UNIFIE_ANONYME
 - **INTERDIT** d'utiliser des numéros de pièce (Pièce n°X) sans validation explicite de l'utilisateur. Ce qui identifie une pièce est le triplet **(date, émetteur, objet)** — pas un numéro. Les colonnes N° du spreadsheet sont provisoires, non validées, et ne doivent pas être citées dans les documents ni dans PIECES MAP.md.
 
 ## MÉTHODE AUTORISÉE POUR L'ANONYMIZATION
@@ -82,7 +82,7 @@ type: memory
 6. `applyParagraphStyle` → JUSTIFIED sur tout le document
 
 ## RÈGLES D'ANONYMIZATION
-- Personnes physiques/morales → jetons en bon français avec articles (`**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS)]**`)
+- Personnes physiques/morales → tokens en bon français avec articles (`**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS)]**`)
 - Toute donnée localisante (adresse, ville, email, SIREN, CPAM, PV police) → token descriptif en bon français
 - Pas de `[ ... ]` générique (sauf pour cacher des références procédurales)
 - Pas de civilité devant un token (supprimer "Monsieur/Madame/Dr" avant les tokens)

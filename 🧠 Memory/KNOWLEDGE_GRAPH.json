@@ -8,7 +8,7 @@
   "acteurs": {
     "physiques": [
       {
-        "jeton": "[La Victime]",
+        "token": "[La Victime]",
         "nom_reel": "Sébastien GRAZIDE",
         "role": "Victime",
         "details": {
@@ -19,7 +19,7 @@
         }
       },
       {
-        "jeton": "[Le Président de l'Exploitation]",
+        "token": "[Le Président de l'Exploitation]",
         "nom_reel": "Sabir MOUNTASSER",
         "role": "Président de la SAS",
         "relations": [
@@ -30,7 +30,7 @@
         ]
       },
       {
-        "jeton": "[La Directrice Générale de l'Exploitation]",
+        "token": "[La Directrice Générale de l'Exploitation]",
         "nom_reel": "Catherine ANDISSAC",
         "nom_jeune_fille": "SORROCHE",
         "role": "Directrice Générale de la SAS",
@@ -42,7 +42,7 @@
         ]
       },
       {
-        "jeton": "[Le Préposé de l'Exploitation]",
+        "token": "[Le Préposé de l'Exploitation]",
         "nom_reel": "Ayoub BENNOURINE",
         "role": "Coiffeur / Préposé",
         "relations": [
@@ -53,7 +53,7 @@
         ]
       },
       {
-        "jeton": "[Le Propriétaire des Murs]",
+        "token": "[Le Propriétaire des Murs]",
         "nom_reel": "Romain DELRIEU",
         "role": "Bailleur commercial",
         "relations": [
@@ -64,25 +64,25 @@
         ]
       },
       {
-        "jeton": "[Le Chirurgien SOS Main]",
+        "token": "[Le Chirurgien SOS Main]",
         "nom_reel": "Dr Iskander DJERBI",
         "role": "Microchirurgien",
         "affiliations": ["[L'Établissement SOS Main]"]
       },
       {
-        "jeton": "[Le Médecin en Urgence]",
+        "token": "[Le Médecin en Urgence]",
         "nom_reel": "Dr Julie JARDON",
         "role": "Médecin SMUR / Urgences"
       },
       {
-        "jeton": "[Le Médecin Généraliste]",
+        "token": "[Le Médecin Généraliste]",
         "nom_reel": "Dr Oxybel",
         "role": "Médecin traitant"
       }
     ],
     "morales": [
       {
-        "jeton": "[L'Exploitant du Commerce (La SAS)]",
+        "token": "[L'Exploitant du Commerce (La SAS)]",
         "nom_reel": "SAS LES MAUVAIS GARCONS",
         "statut": "Active",
         "capital_social": 200,
@@ -90,7 +90,7 @@
         "adresse": "[L'Adresse de l'Exploitation]"
       },
       {
-        "jeton": "[L'Établissement SOS Main]",
+        "token": "[L'Établissement SOS Main]",
         "nom_reel": "Clinique de l'Union",
         "ville": "Saint-Jean"
       }
