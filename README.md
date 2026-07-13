@@ -41,6 +41,7 @@ Scripts, tests, déploiement
 - [Dernière évaluation Dintilhac consolidée](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/J%2B39%20%F0%9F%93%8A%20Evaluation%20Dintilhac%20Consolidee.md)
 - [Todo & priorités](./%F0%9F%A7%A0%20Memory/TODO.md)
 
+- [GEMINI](GEMINI.md)
 ---
 
 _Mis à jour le 11 juillet 2026 · [AGENTS.md](./AGENTS.md) pour les instructions agents_

@@ -156,3 +156,4 @@ Tous les arrêts sont disponibles dans le dossier [📜 Jurisprudence/README.md]
 
 - **[EXEMPLES_REQUETES_MCP](EXEMPLES_REQUETES_MCP.md)** — Exemples concrets de requêtes MCP Légifrance et Judilibre pour le projet.
 - **[RAPPORT_ORGANISATION_20260711](RAPPORT_ORGANISATION_20260711.md)** — Rapport d'organisation et d'audit de la bibliothèque juridique (11 juillet 2026).
+- **[CHANGELOG_JURIDIQUE](CHANGELOG_JURIDIQUE.md)**
