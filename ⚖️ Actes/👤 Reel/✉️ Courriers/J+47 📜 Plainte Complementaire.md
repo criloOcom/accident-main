@@ -64,10 +64,10 @@ Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le
 
 **Fondement juridique :**
 > *"Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende."* <br>
-> [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) — Code pénal <br>
+> [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)[^1] — Code pénal <br>
 
 > *"Il n'y a point de crime ou de délit sans intention de le commettre. [...] Il y a également délit, lorsque la loi le prévoit, en cas de faute d'imprudence, de négligence ou de manquement à une obligation de prudence ou de sécurité prévue par la loi ou le règlement, s'il est établi que l'auteur des faits n'a pas accompli les diligences normales compte tenu, le cas échéant, de la nature de ses missions ou de ses fonctions, de ses compétences ainsi que du pouvoir et des moyens dont il disposait."* <br>
-> [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) — Code pénal <br>
+> [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)[^2] — Code pénal <br>
 
 **Faits :**
 
@@ -90,7 +90,7 @@ Il appartiendra à l'enquête et, le cas échéant, à la juridiction saisie, de
 
 **Fondement juridique :**
 > *"Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables."* <br>
-> [Article 434-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) — Code pénal <br>
+> [Article 434-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608)[^3] — Code pénal <br>
 
 **Faits caractérisés :**
 
@@ -118,10 +118,10 @@ Il appartiendra à l'enquête de déterminer si ces comportements sont constitut
 
 **Fondement juridique :**
 > *"Sont interdits : 1° Le travail totalement ou partiellement dissimulé, défini et exercé dans les conditions prévues aux articles L. 8221-3 et L. 8221-5 ; 2° La publicité, par quelque moyen que ce soit, tendant à favoriser, en toute connaissance de cause, le travail dissimulé ; 3° Le fait de recourir sciemment, directement ou par personne interposée, aux services de celui qui exerce un travail dissimulé."* <br>
-> [Article L. 8221-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815) — Code du travail <br>
+> [Article L. 8221-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815)[^4] — Code du travail <br>
 
 > *"Est réputé travail dissimulé par dissimulation d'activité, l'exercice à but lucratif d'une activité de production, de transformation, de réparation ou de prestation de services ou l'accomplissement d'actes de commerce par toute personne qui, se soustrayant intentionnellement à ses obligations : [...] 2° Soit n'a pas procédé aux déclarations qui doivent être faites aux organismes de protection sociale ou à l'administration fiscale en vertu des dispositions légales en vigueur."* <br>
-> [Article L. 8221-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044056622) — Code du travail <br>
+> [Article L. 8221-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044056622)[^5] — Code du travail <br>
 
 **Éléments portés à votre connaissance :**
 
@@ -206,7 +206,7 @@ Je sollicite également :
 3. **La communication écrite** des suites données à cette plainte, conformément à l'Article 15-3 du Code de procédure pénale.
 
 > *« Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale, y compris lorsque ces plaintes sont déposées dans un service ou une unité de police judiciaire territorialement incompétents. Dans ce cas, la plainte est, s'il y a lieu, transmise au service ou à l'unité territorialement compétents. Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime, qui mentionne les délais de prescription de l'action publique définis aux articles 7 à 9 ainsi que la possibilité d'interrompre le délai de prescription par le dépôt d'une plainte avec [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md), en application de l'article 85 . Si elle en fait la demande, une copie du procès-verbal lui est immédiatement remise. Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procès-verbal par leur numéro d'immatriculation administrative. »* <br>
-> [Article 15-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) <br>
+> [Article 15-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441)[^6] <br>
 > **Code de procédure pénale > Section 1 : Dispositions générales — abrogation différée.**
 
 4. **La possibilité de déposer** les pièces jointes en version numérique (clé USB) pour faciliter leur traitement.
@@ -218,7 +218,7 @@ Je sollicite également :
 Je déclare sur l'honneur que les faits exposés dans la présente plainte sont exacts et conformes à la réalité. Je suis conscient(e) que toute déclaration mensongère peut entraîner des poursuites pénales pour faux témoignage (Article 441-7 du Code pénal).
 
 > *« Indépendamment des cas prévus au présent chapitre, est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait : 1° D'établir une attestation ou un certificat faisant état de faits matériellement inexacts ; 2° De falsifier une attestation ou un certificat originairement sincère ; 3° De faire usage d'une attestation ou d'un certificat inexact ou falsifié. Les peines sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende lorsque l'infraction est commise soit en vue de porter préjudice au Trésor public ou au patrimoine d'autrui, soit en vue d'obtenir un titre de séjour ou le bénéfice d'une protection contre l'éloignement. »* <br>
-> [Article 441-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398925) <br>
+> [Article 441-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398925)[^7] <br>
 > **Code pénal > Chapitre Ier : Des faux.**
 
 Je reste à la disposition des services de police pour toute audition complémentaire et pour fournir tout élément supplémentaire utile à l'enquête.
@@ -327,3 +327,14 @@ Les éléments ci-après sont proposés à titre de suggestions pour l'enquête,
 ---
 
 Ces pistes ont pour seul objet de faciliter l'appréhension globale de la situation par les services d'enquête et de permettre, si vous le jugez opportun, de rassembler les éléments nécessaires à la manifestation de la vérité et à l'indemnisation de la victime.
+
+
+## Sources Législation
+
+[^1]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
+[^2]: [Article 121-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
+[^3]: [Article 434-4 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608)
+[^4]: [Article L. 8221-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815)
+[^5]: [Article L. 8221-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044056622](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044056622)
+[^6]: [Article 15-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441)
+[^7]: [Article 441-7 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398925](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398925)

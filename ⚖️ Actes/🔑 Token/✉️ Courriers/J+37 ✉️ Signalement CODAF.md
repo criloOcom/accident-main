@@ -79,7 +79,7 @@ Il ressort des éléments en ma possession que le préposé exerçant dans l'ét
 > - 2° Soit de se soustraire intentionnellement à la délivrance d'un bulletin de paie ou d'un document équivalent défini par voie réglementaire, ou de mentionner sur le bulletin de paie ou le document équivalent un nombre d'heures de travail inférieur à celui réellement accompli, si cette mention ne résulte pas d'une convention ou d'un accord collectif d'aménagement du temps de travail conclu en application du titre II du livre Ier de la troisième partie ;
 > - 3° Soit de se soustraire intentionnellement aux déclarations relatives aux salaires ou aux cotisations sociales assises sur ceux-ci auprès des organismes de recouvrement des contributions et cotisations sociales ou de l'administration fiscale en vertu des dispositions légales. »* <br>
 > **Code du travail > Section 3 : Travail dissimulé par dissimulation d'emploi salarié.**  
-> [Article L8221-5 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966)
+> [Article L8221-5 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966)[^1]
 
 - Présence physique et active d'un préposé non déclaré au salon.
 - Absence suspectée de déclaration préalable à l'embauche (DPAE) et de bulletins de paie.
@@ -98,7 +98,7 @@ L'absence d'équipement d'accès en hauteur (escabeau) ayant contraint le prépo
 
 > *« Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. »* <br>
 > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.**  
-> [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
+> [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)[^2]
 
 - Chute consécutive à l'absence de moyens adaptés pour le travail en hauteur.
 - Maintien en service d'un équipement sanitaire fissuré et instable.
@@ -117,7 +117,7 @@ En qualité de victime directe ayant subi des préjudices corporels sévères et
 >
 > Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. »  
 > **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.**  
-> [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)
+> [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)[^3]
 
 <hr><hr>
 
@@ -134,3 +134,10 @@ Mes coordonnées pour réponse : [**[L'Adresse de la Victime]**](../../../%F0%9F
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Président, l'expression de ma considération distinguée.
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
+
+
+## Sources Législation
+
+[^1]: [Article L8221-5 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966)
+[^2]: [Article R4323-58 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
+[^3]: [Article 40 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)

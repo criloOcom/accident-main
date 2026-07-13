@@ -42,7 +42,7 @@ L'opportunité de solliciter des mesures conservatoires repose sur les dispositi
 > *« Toute personne dont la créance paraît fondée en son principe peut solliciter du juge l'autorisation de pratiquer une mesure conservatoire sur les biens de son débiteur, sans commandement préalable, si elle justifie de circonstances susceptibles d'en menacer le recouvrement.
 >
 > La mesure conservatoire prend la forme d'une saisie conservatoire ou d'une sûreté judiciaire. »
-> **Code des procédures civiles d'exécution** [Article L.511-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026104) <br>
+> **Code des procédures civiles d'exécution** [Article L.511-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026104)[^1] <br>
 
 ### Sur le principe de créance fondé
 Le dossier démontre de manière probante le dommage corporel subi par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) imputable à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md). Les éléments médicaux et factuels établissent indéniablement la responsabilité et, par voie de conséquence, l'existence d'une créance indemnitaire d'un montant significatif, permettant de qualifier le principe de créance.
@@ -75,3 +75,8 @@ Afin de préserver les droits de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memo
 - Une saisie conservatoire des meubles corporels garnissant les locaux d'exploitation.
 
 La constitution sans délai d'un dossier probant démontrant la menace pesant sur le recouvrement est l'étape préalable et indispensable à la réussite de cette démarche.
+
+
+## Sources Législation
+
+[^1]: [Article L.511-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026104](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026104)

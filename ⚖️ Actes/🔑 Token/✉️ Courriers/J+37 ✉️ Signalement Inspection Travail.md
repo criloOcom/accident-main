@@ -67,7 +67,7 @@ Les procédures suivantes ont été engagées :
 **2. Mises en demeure LRAR** du [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-31-mises-en-demeure.md)
 - Mise en demeure à la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md)
 - Mise en demeure à [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et à [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md)
-- Action directe contre l'assureur RC ([Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449))
+- Action directe contre l'assureur RC ([Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1])
 
 <hr>
 
@@ -81,7 +81,7 @@ En qualité de victime directe et de personne directement concernée par les fai
 Je souhaiterais être informé de l'état d'avancement de votre enquête et, le cas échéant, de ses conclusions.
 
 ### 2. COMMUNICATION DU RAPPORT D'INSPECTION
-En qualité de personne directement concernée par les faits, je sollicite la transmission du rapport d'inspection sur le fondement de [l'article L. 311-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367683), sous réserve du secret de l'enquête en cours.
+En qualité de personne directement concernée par les faits, je sollicite la transmission du rapport d'inspection sur le fondement de [l'article L. 311-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367683)[^2], sous réserve du secret de l'enquête en cours.
 
 ### 3. VÉRIFICATION DES ÉLÉMENTS DE SÉCURITÉ SUIVANTS
 Je porte à votre attention les faits suivants, susceptibles de caractériser des manquements à la réglementation du travail :
@@ -90,7 +90,7 @@ Je porte à votre attention les faits suivants, susceptibles de caractériser de
 Le bac à shampoing en céramique, instable et présentant une cassure préexistante non signalée, est susceptible de caractériser un manquement à l'obligation de sécurité et de conformité des équipements de travail (Article L. 4321-1 du Code du travail).
 
 > *« Les équipements de travail et les moyens de protection mis en service ou utilisés dans les établissements destinés à recevoir des travailleurs sont équipés, installés, utilisés, réglés et maintenus de manière à préserver la santé et la sécurité des travailleurs, y compris en cas de modification de ces équipements de travail et de ces moyens de protection. »* <br>
-> [Article L4321-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209)  
+> [Article L4321-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209)[^3]  
 > **Code du travail > Section 1 : Principes.**
 
 - **Absence de DUERP** :  
@@ -103,7 +103,7 @@ L'exploitant n'a affiché aucune attestation d'assurance RC professionnelle au s
 Le préposé a dû monter sur le bac à shampoing pour accéder au poste de télévision, en l'absence de tout équipement de travail adapté (escabeau, marchepied) mis à disposition par l'employeur. Cette situation est susceptible de méconnaître l'obligation de sécurité de l'employeur (Article L. 4121-1 du Code du travail) et les règles relatives aux travaux en hauteur (Articles R. 4323-58 et suivants du Code du travail), l'employeur devant fournir un plan de travail ou un équipement d'accès approprié permettant l'intervention en sécurité.
 
 > *« L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. »* <br>
-> [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)  
+> [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)[^4]  
 > **Code du travail > Chapitre Ier : Obligations de l'employeur.**
 
 - **Travail dissimulé présumé** :  
@@ -113,7 +113,7 @@ Il existe une possibilité que le préposé exerçant dans l'établissement ne s
 Si les faits constatés par vos contrôles s'avèrent constitutifs d'infractions pénales, je vous remercie par avance de bien vouloir transmettre votre rapport au Procureur de la République près le Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) conformément à l'Article 40 du Code de procédure pénale.
 
 > *« Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1. Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. »* <br>
-> [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)  
+> [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)[^5]  
 > **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.**
 
 Je vous remercie de bien vouloir me faire parvenir un accusé de réception écrit de la présente.
@@ -121,3 +121,12 @@ Je vous remercie de bien vouloir me faire parvenir un accusé de réception écr
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur l'Inspecteur du Travail, l'expression de ma considération distinguée.
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
+
+
+## Sources Législation
+
+[^1]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+[^2]: [l'article L. 311-1 du Code des relations entre le public et l'administration — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367683](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367683)
+[^3]: [Article L4321-1 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209)
+[^4]: [Article L4121-1 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)
+[^5]: [Article 40 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)

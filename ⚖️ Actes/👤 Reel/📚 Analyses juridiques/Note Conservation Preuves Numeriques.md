@@ -31,35 +31,35 @@ Cette note précise les mesures conservatoires à mettre en œuvre immédiatemen
 
 ## FONDEMENT JURIDIQUE
 
-L'[article 1358 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/) dispose que "la preuve peut être apportée par tout moyen" pour les faits juridiques.
+L'[article 1358 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/)[^1] dispose que "la preuve peut être apportée par tout moyen" pour les faits juridiques.
 
 > *« Hors les cas où la loi en dispose autrement, la preuve peut être apportée par tout moyen. »* <br>
-> [Article 1358 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042316) <br>
+> [Article 1358 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042316)[^2] <br>
 > **Code civil > Chapitre II : L'admissibilité des modes de preuve.**
 
 Cependant, en matière numérique, la force probante dépend des modalités de recueil :
-- L'[article 1369 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042421/) régit les actes authentiques (constat d'huissier / commissaire de justice).
+- L'[article 1369 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042421/)[^3] régit les actes authentiques (constat d'huissier / commissaire de justice).
 
 > *« L'acte authentique est celui qui a été reçu, avec les solennités requises, par un officier public ayant compétence et qualité pour instrumenter. Il peut être dressé sur support électronique s'il est établi et conservé dans des conditions fixées par décret en Conseil d'État. Lorsqu'il est reçu par un notaire, il est dispensé de toute mention manuscrite exigée par la loi. »* <br>
-> [Article 1369 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042446) <br>
+> [Article 1369 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042446)[^4] <br>
 > **Code civil > Sous-section 2 : L'acte authentique.**
 
-- L'[article 1378 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042398/) encadre la valeur des registres et documents domestiques.
+- L'[article 1378 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042398/)[^5] encadre la valeur des registres et documents domestiques.
 
 > *« Les registres et documents que les professionnels doivent tenir ou établir ont, contre leur auteur, la même force probante que les écrits sous signature privée ; mais celui qui s'en prévaut ne peut en diviser les mentions pour n'en retenir que celles qui lui sont favorables. »* <br>
-> [Article 1378 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042401) <br>
+> [Article 1378 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042401)[^6] <br>
 > **Code civil > Sous-section 4 : Autres écrits.**
 
-- La jurisprudence de la Cour de cassation (Chambre commerciale) rappelle que les captures d'écran simples peuvent être contestées si leur intégrité n'est pas garantie, mais sont généralement admises comme commencement de preuve par écrit ([article 1362 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042445/)) ou comme éléments de présomption ([article 1353 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042472/)).
+- La jurisprudence de la Cour de cassation (Chambre commerciale) rappelle que les captures d'écran simples peuvent être contestées si leur intégrité n'est pas garantie, mais sont généralement admises comme commencement de preuve par écrit ([article 1362 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042445/)[^7]) ou comme éléments de présomption ([article 1353 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042472/)[^8]).
 
 > *« Constitue un commencement de preuve par écrit tout écrit qui, émanant de celui qui conteste un acte ou de celui qu'il représente, rend vraisemblable ce qui est allégué. Peuvent être considérés par le juge comme équivalant à un commencement de preuve par écrit les déclarations faites par une partie lors de sa comparution personnelle, son refus de répondre ou son absence à la comparution. La mention d'un écrit authentique ou sous signature privée sur un registre public vaut commencement de preuve par écrit. »* <br>
 > **Code civil > Chapitre II : L'admissibilité des modes de preuve.** <br>
 > *« Celui qui réclame l'exécution d'une obligation doit la prouver. Réciproquement, celui qui se prétend libéré doit justifier le paiement ou le fait qui a produit l'extinction de son obligation. »* <br>
-> [Article 1353 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341) <br>
+> [Article 1353 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341)[^9] <br>
 
 > La Cour de cassation admet la production de captures d'écran comme mode de preuve, sous réserve que leur authenticité et leur intégrité ne soient pas utilement remises en cause par la partie adverse, notamment au moyen d'un constat de commissaire de justice pour en figer le contenu.
 > **Cour de cassation, civile, Chambre commerciale, 17 mars 2021**
-> [Arrêt n°19-25.198](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043302280)
+> [Arrêt n°19-25.198](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043302280)[^10]
 
 Afin de garantir l'admissibilité et l'incontestabilité de ces preuves, il convient de les sécuriser via des outils d'archivage certifiés et, si nécessaire, par des constats de commissaires de justice.
 
@@ -100,3 +100,17 @@ Il est impératif d'agir de manière proactive, avant même l'introduction de la
 1. **Réaliser immédiatement** des sauvegardes via Wayback Machine (Archive.org) pour les réseaux sociaux, annuaires et avis Google.
 2. **Conserver les URL** d'archivage dans un fichier sécurisé.
 3. Si la société tente de modifier ses informations publiques ou de fermer ses comptes, solliciter en urgence un **Commissaire de Justice** pour réaliser un constat d'internet, afin de garantir la force probante des éléments recueillis.
+
+
+## Sources Législation
+
+[^1]: [article 1358 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/)
+[^2]: [Article 1358 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042316](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042316)
+[^3]: [article 1369 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042421/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042421/)
+[^4]: [Article 1369 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042446](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042446)
+[^5]: [article 1378 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042398/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042398/)
+[^6]: [Article 1378 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042401](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042401)
+[^7]: [article 1362 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042445/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042445/)
+[^8]: [article 1353 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042472/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042472/)
+[^9]: [Article 1353 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341)
+[^10]: [Arrêt n°19-25.198 — www.legifrance.gouv.fr/juri/id/JURITEXT000043302280](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043302280)

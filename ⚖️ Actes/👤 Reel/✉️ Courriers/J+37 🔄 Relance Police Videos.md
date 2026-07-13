@@ -58,7 +58,7 @@ Je me permets de solliciter de vos services :
 Je sollicite donc que les images de videosurveillance de l'etablissement soient requises et conservees, conformement a l'Article 77-1-1 du Code de procedure penale.
 
 > *« Le procureur de la République ou, sur autorisation de celui-ci, l'officier ou l'agent de police judiciaire ou, dans le cas prévu au 3° de l'article 21-3 et sous le contrôle de ces derniers, l'assistant d'enquête, peut, par tout moyen, requérir de toute personne, de tout établissement ou organisme privé ou public ou de toute administration publique qui sont susceptibles de détenir des informations intéressant l'enquête, y compris, sous réserve de l'article 60-1-2, celles issues d'un système informatique ou d'un traitement de données nominatives, de lui remettre ces informations, notamment sous forme numérique, le cas échéant selon des normes fixées par voie réglementaire, sans que puisse lui être opposée, sans motif légitime, l'obligation au secret professionnel. [...] Les réquisitions prévues au présent article peuvent faire l'objet d'autorisations du procureur de la République résultant d'instructions générales [...] lorsqu'elles ont pour objet : 1° La remise d'enregistrements issus d'un système de vidéoprotection concernant les lieux dans lesquels l'infraction a été commise [...] »* <br>
-> [Article 77-1-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052915) <br>
+> [Article 77-1-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052915)[^1] <br>
 > **Code de procédure pénale > Chapitre II : De l'enquête préliminaire.**
 
 ### **3. LA COMMUNICATION DE L'IDENTITE DE L'OFFICIER EN CHARGE DU DOSSIER** <BR>Afin de pouvoir suivre l'avancement de la procedure, je souhaiterais connaitre l'identite du ou des officiers de police judiciaire en charge de mon dossier.
@@ -68,3 +68,8 @@ Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20M
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
+
+
+## Sources Législation
+
+[^1]: [Article 77-1-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052915](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052915)

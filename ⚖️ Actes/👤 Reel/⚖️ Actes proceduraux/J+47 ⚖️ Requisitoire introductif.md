@@ -60,13 +60,13 @@ Il convient de déterminer si ces faits sont constitutifs d'infractions pénales
 L'Incapacité Totale de Travail (ITT) étant de 56 jours, soit une durée inférieure ou égale à trois mois, la qualification délictuelle ne peut être retenue sur le fondement de l'article 222-19 du Code pénal, qui exige une ITT supérieure à trois mois.
 
 > *« Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. »* <br>
-> [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) <br>
+> [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)[^1] <br>
 > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.**
 
 Cependant, la qualification de délit est encourue sur le fondement de l'article 222-20 du Code pénal, si les faits résultent de la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement.
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
-> [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
+> [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)[^2] <br>
 > **Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2.**
 
 À défaut d'une violation manifestement délibérée, les faits s'analysent a minima en une contravention de la 5ème classe sur le fondement des articles R. 625-2 ou R. 622-1 du Code pénal.
@@ -75,7 +75,7 @@ Cependant, la qualification de délit est encourue sur le fondement de l'article
 La qualification de mise en danger délibérée nécessite la violation d'une obligation particulière de sécurité ou de prudence exposant directement autrui à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente.
 
 > *« Le fait d'exposer directement autrui à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
-> [Article 223-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417759) <br>
+> [Article 223-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417759)[^3] <br>
 > **Code pénal > Partie législative > Livre II > Titre II > Chapitre III.**
 
 Le défaut d'entretien des équipements au sein d'un Établissement Recevant du Public (ERP), matérialisé par la présence d'une vasque cassée aux arêtes tranchantes, est susceptible de constituer cette violation.
@@ -84,13 +84,13 @@ Le défaut d'entretien des équipements au sein d'un Établissement Recevant du 
 L'article 121-2 du Code pénal dispose que les personnes morales sont pénalement responsables des infractions commises, pour leur compte, par leurs organes ou représentants.
 
 > *« Les personnes morales, à l'exclusion de l'Etat, sont responsables pénalement, selon les distinctions des articles 121-4 à 121-7 , des infractions commises, pour leur compte, par leurs organes ou représentants. Toutefois, les collectivités territoriales et leurs groupements ne sont responsables pénalement que des infractions commises dans l'exercice d'activités susceptibles de faire l'objet de conventions de délégation de service public. La responsabilité pénale des personnes morales n'exclut pas celle des personnes physiques auteurs ou complices des mêmes faits, sous réserve des dispositions du quatrième alinéa de l'article 121-3 . »* <br>
-> [Article 121-2 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204) <br>
+> [Article 121-2 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204)[^4] <br>
 > **Code pénal > Chapitre Ier : Dispositions générales.**
 
 S'agissant des personnes physiques qui n'ont pas causé directement le dommage (les dirigeants), l'article 121-3 alinéa 4 exige la preuve d'une faute qualifiée.
 
 > *« Dans le cas prévu par l'alinéa qui précède, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particulière gravité qu'elles ne pouvaient ignorer. »* <br>
-> [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) <br>
+> [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)[^5] <br>
 > **Code pénal > Partie législative > Livre Ier > Titre II > Chapitre Ier.**
 
 Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md).
@@ -99,7 +99,7 @@ Le défaut de souscription d'assurance et le maintien en service d'un équipemen
 Conformément à l'article 8 du Code de procédure pénale, l'action publique pour les délits se prescrit par six années révolues à compter du jour où l'infraction a été commise. L'infraction datant du 29 mai 2026, aucune prescription n'est acquise.
 
 > *« L'action publique des délits se prescrit par six années révolues à compter du jour où l'infraction a été commise. L'action publique des délits mentionnés aux articles 223-15-2 et 223-15-3 du code pénal et à l'article 706-47 du présent code, lorsqu'ils sont commis sur des mineurs, à l'exception de ceux mentionnés aux articles 222-29-1 et 227-26 du code pénal, se prescrit par dix années révolues à compter de la majorité de ces derniers. L'action publique des délits mentionnés aux articles 222-12 , 222-29-1 et 227-26 du même code, lorsqu'ils sont commis sur des mineurs, se prescrit par vingt années révolues à compter de la majorité de ces derniers. Toutefois, s'il s'agit d'une agression sexuelle ou d'une atteinte sexuelle commise sur un mineur, en cas de commission sur un autre mineur par la même personne, avant l'expiration des délais prévus aux deuxième et troisième alinéas du présent article, d'une agression sexuelle ou d'une atteinte sexuelle, le délai de prescription de la première infraction est prolongé, le cas échéant, jusqu'à la date de prescription de la nouvelle infraction. L'action publique du délit mentionné à l' article 434-3 du code pénal se prescrit, lorsque le défaut d'information concerne une agression ou un atteinte sexuelle commise sur un mineur, par dix années révolues à compter de la majorité de la victime et, lorsque le défaut d'information concerne un viol commis sur un mineur, par vingt années révolues à compter de la majorité de la victime. L'action publique des délits mentionnés à l'article 706-167 du présent code, lorsqu'ils sont punis de dix ans d'emprisonnement, ainsi que celle des délits mentionnés aux articles 706-16 du présent code, à l'exclusion de ceux définis aux articles 421-2-5 à 421-2-5-2 du code pénal, et 706-26 du présent code et au livre IV bis du code pénal se prescrivent par vingt années révolues à compter du jour où l'infraction a été commise. »* <br>
-> [Article 8 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911) <br>
+> [Article 8 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911)[^6] <br>
 > **Code de procédure pénale > Sous-titre Ier : De l'action publique et de l'action civile — abrogation différée.**
 
 <hr><hr>
@@ -110,7 +110,7 @@ Les faits dénoncés revêtent une indéniable gravité, les conséquences pour 
 L'enquête préliminaire se heurte actuellement à l'obstruction manifeste de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) et de ses dirigeants, qui refusent de communiquer les attestations d'assurance de responsabilité civile professionnelle de l'établissement, paralysant l'indemnisation de la victime via l'action directe prévue par l'article L. 124-3 du Code des assurances.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^7] <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 
 Ces carences multiples :
@@ -123,7 +123,7 @@ Ces carences multiples :
 justifient de rechercher si une "violation manifestement délibérée d'une obligation particulière de sécurité", ou une "faute caractérisée", imputable aux dirigeants, est constituée pour asseoir la qualification délictuelle (article 222-20 du Code pénal).
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
-> [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
+> [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)[^2] <br>
 > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.**
 
 La saisine d'une juridiction de jugement par voie de citation directe apparaît, à ce stade, prématurée en l'absence de vérification complète des contrats d'assurance, des règles internes de sécurité de l'entreprise, et des responsabilités individuelles exactes des dirigeants dans la gestion des équipements.
@@ -168,7 +168,19 @@ Il est à noter que le défaut de surveillance évoqué, si l'alcoolémie manife
 Concernant les sanctions encourues, la requalification délictuelles (Art. 222-20 et 223-1 C. pénal) expose les dirigeants à 1 an d'emprisonnement, 15 000 euros d'amende, mais également à des interdictions professionnelles majeures, telles que l'interdiction de gérer ou d'exploiter un fonds de commerce (peines complémentaires de l'article 131-27 du Code pénal).
 
 > *« Lorsqu'elle est encourue à titre de peine complémentaire pour un crime ou un délit, l'interdiction d'exercer une fonction publique ou d'exercer une activité professionnelle ou sociale est soit définitive, soit temporaire ; dans ce dernier cas, elle ne peut excéder une durée de cinq ans. L'interdiction d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale est soit définitive, soit temporaire ; dans ce dernier cas, elle ne peut excéder une durée de quinze ans. Cette interdiction n'est pas applicable à l'exercice d'un mandat électif ou de responsabilités syndicales. Elle n'est pas non plus applicable en matière de délit de presse. »* <br>
-> [Article 131-27 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887) <br>
+> [Article 131-27 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887)[^8] <br>
 > **Code pénal > Sous-section 5 : Du contenu et des modalités d'application de certaines peines.**
 
 Les chances d'aboutissement de la présente procédure d'information sont jugées **fortes**, compte tenu de l'existence de blessures objectivées (ITT > 8 jours), de la matérialité de l'accident (PV de police) et de la carence caractérisée en matière de sécurité (vasque cassée non signalée) au sein d'un ERP.
+
+
+## Sources Législation
+
+[^1]: [Article 222-19 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
+[^2]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
+[^3]: [Article 223-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417759](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417759)
+[^4]: [Article 121-2 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204)
+[^5]: [Article 121-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
+[^6]: [Article 8 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911)
+[^7]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+[^8]: [Article 131-27 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887)

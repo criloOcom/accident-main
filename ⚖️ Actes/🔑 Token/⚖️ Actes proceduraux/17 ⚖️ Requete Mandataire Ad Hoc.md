@@ -59,7 +59,7 @@ Il convient de rappeler que la responsabilité des dirigeants d'une Société pa
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
-> **Code de commerce** [Article L227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
+> **Code de commerce** [Article L227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)[^1] <br>
 
 Le comportement de Monsieur [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et de Madame [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) caractérise des fautes d'une gravité exceptionnelle, justifiant que des mesures de sauvegarde du patrimoine de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) soient ordonnées pour garantir la créance indemnitaire à naître.
 
@@ -69,7 +69,7 @@ Face aux graves manquements dans la gestion de la société et au risque pesant 
 
 > *« Le président du tribunal peut, à la demande d'un débiteur, désigner un mandataire ad hoc dont il détermine la mission. Le débiteur peut proposer le nom d'un mandataire ad hoc. La décision nommant le mandataire ad hoc est communiquée pour information aux commissaires aux comptes lorsqu'il en a été désigné. »* <br>
 > *« Le président du tribunal peut, à la demande d'un débiteur, désigner un mandataire ad hoc dont il détermine la mission. Le débiteur peut proposer le nom d'un mandataire ad hoc. La décision nommant le mandataire ad hoc est communiquée pour information aux commissaires aux comptes lorsqu'il en a été désigné. »* <br>
-> **Code de commerce** [Article L.611-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052542) <br>
+> **Code de commerce** [Article L.611-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052542)[^2] <br>
 
 Le requérant sollicite la nomination d'un mandataire ad hoc avec pour mission de :
 
@@ -85,7 +85,7 @@ L'organisation de l'insolvabilité de la société par ses dirigeants constitue 
 
 > *« Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite.
 > Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
-> **Code de procédure civile** [Article 873](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463) <br>
+> **Code de procédure civile** [Article 873](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463)[^3] <br>
 
 Par conséquent, il est indispensable de faire ordonner la communication sous astreinte de tous les documents sociaux (bilans, comptes de résultats, grands livres) et contrats d'assurance pertinents, et de prendre toute mesure conservatoire sur les comptes bancaires de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md).
 
@@ -99,7 +99,7 @@ Il est respectueusement demandé à Monsieur le Président du Tribunal de commer
 **VU** l'article 873 du Code de procédure civile,
 
 > *« Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
-> [Article 873 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463) <br>
+> [Article 873 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463)[^3] <br>
 > **Code de procédure civile > Section I : Les ordonnances de référé.**
 
 **ORDONNER** la désignation d'un mandataire ad hoc ayant pour mission de :
@@ -121,9 +121,17 @@ Il est respectueusement demandé à Monsieur le Président du Tribunal de commer
 **CONDAMNER** in solidum la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), Monsieur [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et Madame [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) au paiement de la somme de 3.000 euros au titre de l'article 700 du Code de procédure civile ainsi qu'aux entiers dépens de l'instance.
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
-> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
+> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)[^4] <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.**
 
 [**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-nom-de-l-avocat-de-la-victime.md)
 Avocat à la Cour
 Le [Date de signature]
+
+
+## Sources Législation
+
+[^1]: [Article L227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
+[^2]: [Article L.611-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052542](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052542)
+[^3]: [Article 873 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463)
+[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)

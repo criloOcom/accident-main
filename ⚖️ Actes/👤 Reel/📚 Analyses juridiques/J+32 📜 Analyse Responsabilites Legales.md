@@ -54,7 +54,7 @@ Cette note vise à structurer les fondements juridiques permettant d'assurer la 
 Le salon est susceptible de voir sa responsabilité engagée sur le fondement de l'article 222-20 du Code pénal.
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
-> [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
+> [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)[^1] <br>
 > **Code pénal > Partie législative > Livre II : Crimes et délits contre les personnes > Titre II : Crimes et délins contre la personne > Chapitre II : Atteintes involontaires à l'intégrité physique ou psychique de la personne > Section 2 : Blessures ou coups suivis d'incapacité totale de travail pendant une durée inférieure ou égale à trois mois.**
 
 Ce texte réprime les blessures involontaires ayant entraîné une ITT inférieure ou égale à trois mois par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement.
@@ -65,7 +65,7 @@ En l'espèce, la section nerveuse et tendineuse profonde de l'index droit de [S�
 En maintenant en service un équipement lourd (une vasque en céramique) présentant une cassure majeure et tranchante préexistante, sans signalisation ni protection, l'établissement a failli à son obligation générale de sécurité des produits et services régie par l'article L. 421-3 du Code de la consommation.
 
 > *« Les prestations de services doivent présenter, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles par le professionnel, la sécurité à laquelle on peut légitimement s'attendre et ne pas porter atteinte à la santé des personnes. »* <br>
-> [Article L. 421-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) <br>
+> [Article L. 421-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053)[^2] <br>
 > **Code de la consommation > Partie législative > Livre Ier : Généralités > Titre II : La protection des consommateurs > Chapitre II : Sécurité des produits et services > Section 1 : Principes généraux.**
 
 Ce défaut d'entretien constitue un danger manifeste pour le public.
@@ -76,7 +76,7 @@ Le comportement de [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%8
 En vertu de l'article 121-3 du Code pénal, cette maladresse expose les dirigeants à une responsabilité pénale individuelle pour manquement à la sécurité.
 
 > *« Il n'y a point de crime ou de délit sans intention de le commettre. (...) Toutefois, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particularité gravité qu'elles ne pouvaient ignorer. »* <br>
-> [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209) <br>
+> [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209)[^3] <br>
 > **Code pénal > Partie législative > Livre Ier : Dispositions générales > Titre III : La criminalité et la délinquance, les sanctions pénales et certaines mesures de sûreté > Chapitre Ier : De la responsabilité des personnes physiques.**
 
 <hr>
@@ -88,7 +88,7 @@ Sur le plan civil, la SAS est tenue de réparer les dommages causés sans qu'il 
 Conformément à l'article 1242 alinéa 1er du Code civil, on est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des choses que l'on a sous sa garde.
 
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>
-> [Article 1242](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) <br>
+> [Article 1242](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^4] <br>
 > **Code civil > Partie législative > Livre III : Des différentes manières dont on peut acquérir la propriété > Titre IV : Des obligations > Sous-titre II : Des engagements qui naissent sans convention > Chapitre II : De la responsabilité civile.**
 
 **Jurisprudence clé — Fondement de l'action** : L'arrêt [Civ. 2e, 13 février 1991, n° 89-18.422](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md) est le cas le plus proche : une échelle installée par un préposé bascule et blesse un tiers. La Cour retient que le **basculement** établit le fait de la chose et que le gardien ne peut s'exonérer qu'en prouvant une cause étrangère. Dans notre cas, la vasque a basculé et s'est brisée — le même mécanisme s'applique.
@@ -110,11 +110,11 @@ La SAS est donc automatiquement responsable de l'imprudence commise par [Ayoub B
 La responsabilité personnelle des dirigeants, [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md), peut être engagée sur le fondement de l'article 1240 du Code civil.
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
-> [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
+> [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^5] <br>
 > **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.**
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
-> [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+> [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^6] <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
 
 <hr>
@@ -123,38 +123,38 @@ La responsabilité personnelle des dirigeants, [Sabir MOUNTASSER](../../../%F0%9
 Il convient de noter que le préposé bénéficie d'une immunité civile selon l'arrêt Costedoat (Ass. Plén., 25 fév. 2000), sauf en cas de faute pénale intentionnelle (Arrêt Cousin).
 
 > *« N'engage pas sa responsabilité civile à l'égard des tiers le préposé qui agit dans les limites de la mission à lui impartie par son commettant. »* <br>
-> [Arrêt Costedoat](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704) <br>
+> [Arrêt Costedoat](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)[^7] <br>
 > **Cour de cassation, Assemblée plénière, 25 février 2000, n° 97-17.378**
 
 > *« Le préposé qui agit dans les limites de la mission qui lui a été impartie n'engage sa responsabilité personnelle à l'égard des tiers que s'il a commis une faute pénale intentionnelle. »* <br>
-> [Arrêt Cousin](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351) <br>
+> [Arrêt Cousin](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351)[^8] <br>
 > **Cour de cassation, Assemblée plénière, 14 décembre 2001, n° 00-82.066**
 
 ### A. ACTION DIRECTE CONTRE L'ASSUREUR
 Le levier le plus efficace demeure l'action directe contre l'assureur RC de la SAS, fondée sur l'article L. 124-3 du Code des assurances, garantissant la réparation intégrale des préjudices (pertes de revenus, préjudice corporel et moral) estimés à ce jour à **~90 000 €** (selon l'étude d'indemnisation détaillée).
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
-> [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^9] <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier.**
 
 ### B. PREUVES ET PROCÉDURES
 La consolidation des preuves médicales (comptes rendus du [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-chirurgien-sos-main.md)) et matérielles est impérative. En cas de rétention d'informations sur l'assureur, l'article 145 du Code de procédure civile permet de saisir le juge des référés pour obtenir les pièces nécessaires.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
-> [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
+> [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^10] <br>
 > **Code de procédure civile > Partie législative > Livre II > Titre VII > Section I.**
 
 ### C. OBLIGATION D'INFORMATION DE L'ASSURANCE ET RÉFÉRÉ-COMMUNICATION
 En vertu de l'article L. 113-2, 4° du Code des assurances, l'assuré (la SAS) a l'obligation légale de déclarer tout sinistre à son assureur dans un délai de 5 jours ouvrés.
 
 > *« L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. »* <br>
-> [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
+> [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)[^11] <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre III.**
 
 De plus, bien que le gérant tente de dissimuler l'identité de son assurance pour faire obstruction, l'article L. 124-3 du Code des assurances consacre le droit d'action directe autonome de la victime.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^9] <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 
 Pour rendre ce droit effectif, le gérant a un devoir de bonne foi de communiquer ses coordonnées d'assurance.
@@ -162,7 +162,7 @@ Pour rendre ce droit effectif, le gérant a un devoir de bonne foi de communique
 En cas de refus persistant de transmettre les coordonnées de l'assureur RC, la victime peut saisir en urgence le Président du Tribunal judiciaire en référé sur le fondement de l'article 145 du Code de procédure civile.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. »* <br>
-> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
+> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^10] <br>
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.**
 
 Le juge ordonnera alors la communication forcée de l'attestation d'assurance de responsabilité civile sous astreinte financière par jour de retard, à la charge exclusive de l'exploitant récalcitrant.
@@ -176,7 +176,7 @@ Le juge ordonnera alors la communication forcée de l'attestation d'assurance de
 Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe est **indépendante** de l'action contre l'assuré. Même si la SAS disparaît, l'action subsiste contre l'assureur.
 
 > *« L'action directe de la victime contre l'assureur garantissant la responsabilité civile de l'auteur du dommage est indépendante de l'action que la victime pourrait exercer contre l'assuré lui-même. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770) <br>
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770)[^12] <br>
 > **Cour de cassation, 3e chambre civile, 11 mai 2022, n° 21-12.478**
 
 **Méthodes pour identifier l'assureur :**
@@ -204,7 +204,7 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 Faute détachable des fonctions : maintien d'un équipement dangereux, défaut d'assurance RC, dissolution frauduleuse éventuelle. **Difficile à caractériser** mais à tenter.
 
 > *« La faute personnelle du dirigeant, détachable des fonctions, ouvre droit à réparation pour la victime du dommage causé par cette faute, sans que l'action doive être exercée par les représentants légaux de la personne morale. »* <br>
-> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^6] <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
 
 ### D. SARVI (SERVICE D'AIDE AU RECOUVREMENT)
@@ -221,3 +221,19 @@ Si condamnation pénale non exécutée : verse 100 % jusqu'à 1 000 €, 30 % au
 La responsabilité de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) est solidement établie tant sur le plan civil que pénal. Le montant total estimé de l'indemnisation est de **~105 000 €** (évaluation Dintilhac détaillée).
 
 La difficulté centrale est le **recouvrement** : capital social de 200 € seulement. La voie principale est la **saisine de la CIVI** pour obtenir l'indemnisation via le FGTI, qui contourne l'insolvabilité de la SAS. Les dirigeants doivent être mis en cause personnellement dès maintenant. L'action directe contre l'assureur RC, s'il est identifié, reste la voie la plus rapide.
+
+
+## Sources Législation
+
+[^1]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
+[^2]: [Article L. 421-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053)
+[^3]: [Article 121-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209)
+[^4]: [Article 1242 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
+[^5]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
+[^6]: [Arrêt SATI — n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
+[^7]: [Arrêt Costedoat — www.legifrance.gouv.fr/juri/id/JURITEXT000007043704](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)
+[^8]: [Arrêt Cousin — www.legifrance.gouv.fr/juri/id/JURITEXT000007071351](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351)
+[^9]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+[^10]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+[^11]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)
+[^12]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000045822770](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770)
