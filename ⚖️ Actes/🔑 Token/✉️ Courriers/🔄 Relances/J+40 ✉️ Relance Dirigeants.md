@@ -73,7 +73,7 @@ Ma présence ainsi que le déroulement de l'accident sont déjà documentés par
 
 ## II — RAPPEL DE LA DEMANDE D'ASSURANCE
 
-Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing.
+Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur.
 
 En descendant, son poids a provoqué le basculement soudain de l'installation.
 

@@ -95,12 +95,27 @@ type: memory
 - ADRESSE_PV_POLICE_ERREUR : PV police n°2026/015967 écrit "22, RUE DE LA FAURIE" (orthographe police). Tous les documents utilisent "22 Rue Lafaurie" (orthographe correcte). Variance mineure sans incidence.
 
 ## Mécanisme de l'accident (VÉRITÉ FACTUELLE)
-1. Le coiffeur (**[Le Préposé de l'Exploitation]**) est monté physiquement sur la vasque en céramique du bac à shampoing
+1. Le coiffeur (**[Le Préposé de l'Exploitation]**) est monté physiquement sur la vasque en céramique du bac à shampoing **pour régler le téléviseur**
 2. En descendant, son poids a provoqué le **basculement** de l'équipement
 3. La victime a tendu la main droite par réflexe pour protéger le coiffeur
 4. La paume a heurté une **cassure majeure préexistante** non signalée sur le flanc de la vasque
 5. La vasque ne s'est PAS effondrée — il n'y a PAS de débris de céramique
 6. Seule la main droite est touchée — la main gauche est fonctionnelle, la dictée vocale est possible
+
+## Preuves de suivi La Poste (LRAR — RÉELS, vérifiés le 13/07/2026 via le compte La Poste de la victime)
+⚠ **Ces numéros sont RÉELS et prouvés** (capture du compte La Poste + Google Doc de synthèse du 08/07). **NE JAMAIS les qualifier d'« inventés » ou de « factices »** — un audit antérieur s'est trompé sur ce point et a failli décrédibiliser le dossier. Tout agent doit les traiter comme des faits prouvés.
+
+| N° LRAR | Destinataire | Acheté le | Statut La Poste réel |
+|---------|--------------|-----------|----------------------|
+| `87001424863012T` | **[L'Exploitant du Commerce (La SAS)]** (mise en demeure J+31) | 29/06/2026 | Distribution impossible (PND) |
+| `87001424721856G` | **[La Directrice Générale de l'Exploitation]** (mise en demeure J+31) | 29/06/2026 | Retour à l'expéditeur (défaut d'adresse) |
+| `87001424862879J` | **[Le Président de l'Exploitation]** (mise en demeure J+31) | 29/06/2026 | En attente de retrait (FOIX R P) |
+| `87001424862462Y` | **[Le Propriétaire des Murs]** (M. Romain DELRIEU) | 29/06/2026 | Avis de réception numérique disponible (AR signé) |
+| `87001424923505I` | Tribunal Judiciaire de Foix (constitution de partie civile) | 29/06/2026 | Avis de réception numérique disponible |
+| `87001421903907I` | CPAM de Toulouse (dossier RCT) | 24/06/2026 | Avis de réception numérique disponible |
+| `870014282662911` | **[L'Exploitant du Commerce (La SAS)]** (Relance Dirigeants J+40, V2) | 08/07/2026 | En attente de retrait (FOIX R P) — preuve dépôt + facture Z0132713629 |
+
+Les tokens `[N° LRAR Exploitant]`, `[N° LRAR Directrice]`, `[N° LRAR Président]` (et équivalents) dans les courriers Token résolvent vers ces valeurs réelles via la strate 👤 Reel.
 
 ## Personnes physiques (tokens)
 | Rôle | Token |
