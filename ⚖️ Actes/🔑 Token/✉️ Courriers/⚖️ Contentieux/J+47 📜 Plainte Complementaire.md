@@ -178,8 +178,6 @@ Au vu des éléments ci-dessus exposés, je sollicite respectueusement qu'il soi
 
 - Qu'un constat puisse être réalisé, si cela est encore possible, de l'état de la vasque de shampooing et des équipements en place (ou de ceux qui les ont remplacés), ainsi que des éventuelles réparations ou modifications intervenues depuis l'accident.
 
-- Qu'il soit vérifié si, au moment des faits, un équipement d'accès en hauteur adapté (escabeau, marchepied, etc.) était disponible pour intervenir sur le poste de télévision, ou si, en pratique, les préposés devaient monter sur la vasque.
-
 - De manière générale, qu'il soit examiné si les conditions d'exploitation de l'établissement respectaient les obligations élémentaires de sécurité à l'égard du public et des personnes amenées à y travailler.
 
 <hr><hr>
@@ -339,8 +337,6 @@ Les éléments ci-après sont proposés à titre de suggestions pour l'enquête,
 - [ ] 4.1. Vérification de l'existence d'autorisations administratives relatives à l'établissement recevant du public (dossiers d'ouverture, avis de commission de sécurité, éventuels contrôles antérieurs).
 
 - [ ] 4.2. Examen de l'existence d'un registre de sécurité et de consignes d'évacuation affichées, ainsi que de la formation éventuelle du personnel aux règles de sécurité.
-
-- [ ] 4.3. Vérification de la présence d'un équipement d'accès en hauteur adapté (escabeau, marchepied, plateforme) pour intervenir sur le poste de télévision ou d'autres éléments en hauteur, au moment des faits et lors du constat.
 
 - [ ] 4.4. Examen des éventuelles mesures correctrices prises après l'accident (remplacement du bac, réorganisation de l'installation du téléviseur, ajout d'équipements de sécurité ou de consignes).
 

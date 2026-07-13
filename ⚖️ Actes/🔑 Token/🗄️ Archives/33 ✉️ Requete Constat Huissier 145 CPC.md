@@ -78,7 +78,7 @@ Le constat d'huissier devra porter sur :
 
 - **L'etat du bac a shampoing** : dimensions, materiaux, presence de cassure(s), stabilite, installation au sol
 
-- **La hauteur du poste de television** : mesurer la distance entre le sol et le poste, absence d'escabeau
+- **La hauteur du poste de television** : mesurer la distance entre le sol et le poste
 
 - **Le systeme de videoprotection** : existence, nombre de cameras, angle de prise de vue, duree de conservation des enregistrements
 
@@ -108,7 +108,7 @@ Par ces motifs, le requerant sollicite de Monsieur le President du Tribunal Judi
 
 - Constater l'etat, les dimensions, la stabilite et les eventuelles cassures du bac a shampoing
 
-- Mesurer la hauteur du poste de television et constater l'absence ou la presence d'escabeau
+- Mesurer la hauteur du poste de television
 
 - Verifier l'existence et le fonctionnement du systeme de videoprotection
 

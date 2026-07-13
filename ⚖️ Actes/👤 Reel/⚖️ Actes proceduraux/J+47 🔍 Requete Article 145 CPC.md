@@ -116,7 +116,7 @@ Le motif legitime est d'autant plus caracterise que :
 
 - Les videos permettraient de visualiser l'etat de la vasque avant l'accident (cassure preexistante)
 
-- Elles permettraient de confirmer l'absence d'equipement d'acces en hauteur (escabeau)
+- Elles permettraient de montrer la configuration des lieux au moment des faits (hauteur du poste de television, position du bac a shampoing)
 
 - Elles constituent le seul element objectif pour contredire d'eventuelles contestations de la partie adverse
 
