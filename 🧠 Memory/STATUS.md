@@ -1,6 +1,6 @@
 ---
 title: "STATUT D'AVANCEMENT — 13 juillet 2026"
-description: "- **Phase 23** Normalisation des sauts de ligne entre paragraphes : 80 fichiers Token + Reel (✅ TERMINÉ)"
+description: "- **Phase 23** Normalisation des sauts de ligne entre paragraphes : 80 fichiers Token + Reel (✅ TERMINÉ) — **Phase 23.1** Patterns D/E (listes) : 85 fichiers Token + 50 Reel (✅ TERMINÉ)"
 type: memory
 ---
 
@@ -14,6 +14,7 @@ type: memory
 > **Phase 21 ✅** Navigation Interactive Cross-Document — 1 766 liens relatifs créés
 > **Phase 22 ✅** Normalisation des séparateurs `<hr><hr>` et conventions de formatage
 > **Phase 23 ✅** Normalisation des sauts de ligne entre paragraphes — 80 fichiers Token + Reel (✅ TERMINÉ)
+> **Phase 23.1 ✅** Patterns D/E (listes) — ligne vide entre items numérotés (`N. **...**`) et à puces (`- ...`) : 85 fichiers Token + 50 Reel (✅ TERMINÉ)
 >
 > ## Phase 21 — Navigation Interactive Cross-Document (13 juillet 2026) ✅ [TERMINÉ]
 
@@ -1005,3 +1006,17 @@ Normaliser les lignes vides (`\n\n`) entre chaque bloc de paragraphe dans tous l
 6. **Sync Reel** : exécution de `generate_real_versions.py` (50 fichiers générés)
 7. **Pipeline CONVENTIONS.md §XI** : ajout de `normalize_blank_lines.py` dans l'ordre d'exécution
 8. **Vérification** : `check_consistency.py` → tout cohérent
+
+---
+
+## Phase 23.1 — Patterns D/E : ligne vide entre items de liste consécutifs (13 juillet 2026) ✅ [TERMINÉ]
+
+### Objectif
+Étendre la normalisation des lignes vides aux items de liste consécutifs — items numérotés (`1. **...**` → `2. **...**`) et items à puces (`- ...` → `- ...`) — dans tous les fichiers Token et Reel.
+
+### Actions réalisées
+1. **Script `normalize_blank_lines.py`** : ajout de `fix_pattern_d()` (numbered) et `fix_pattern_e()` (bullet) avec flags `--pattern-d`/`--pattern-e` et `--no-*`
+2. **CONVENTIONS.md §XIII** : ajout de 3 blocs concernés (numéroté→numéroté, puce→puce, puce indenté→puce indenté)
+3. **Exécution sur Token** : 85 fichiers modifiés (Patters D+E)
+4. **Sync Reel** : `generate_real_versions.py` → 50 fichiers générés
+5. **Vérification exhaustive** : zéro violation restante sur tous les patterns A/B/C/D/E
