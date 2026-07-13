@@ -60,7 +60,7 @@ La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/
 
 Malgre des mises en demeure recommandees adressees le [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) a la SAS, au President et a la Directrice Generale, aucun des mis en cause n'a communique les coordonnees d'un assureur, laissant presumer une absence totale de couverture.
 
-<hr>
+<hr><hr>
 
 ## II — FONDEMENTS JURIDIQUES
 ### A. SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES
@@ -145,7 +145,7 @@ Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'inf
 
 En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles 706-3 et 706-14 du Code de procédure pénale (Titre XIV), pourra être directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente [constitution de partie civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) sollicite formellement la designation du FGTI comme garant subrogatoire.
 
-<hr>
+<hr><hr>
 
 ## III — PREJUDICES
 Les prejudices subis par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) sont graves et durables :
@@ -163,7 +163,7 @@ Les prejudices subis par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9
 | Frais divers | 3 000 € (kine, deplacements) |
 | Total estime | ~90 000 € (a parfaire apres expertise) |
 
-<hr>
+<hr><hr>
 
 ## IV — DEMANDES
 Par ces motifs, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction de :
@@ -180,7 +180,7 @@ Par ces motifs, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%E
 > [Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) <br>
 > **Code de procédure pénale > Paragraphe 1 : Dispositions générales — abrogation différée.[^10]**
 
-<hr>
+<hr><hr>
 
 ## PAR CES MOTIFS
 Vu les articles 2, 3, 85 et suivants du Code de procedure penale,

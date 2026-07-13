@@ -45,7 +45,7 @@ Rédigé par : La Victime
 
 Le 30 juin 2026
 
-<hr>
+<hr><hr>
 
 ## I — INTRODUCTION ET CONTEXTE
 Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de Sébastien GRAZIDE (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi 29 mai 2026 à 15h00.
@@ -58,7 +58,7 @@ Cette analyse s'appuie sur le principe de la réparation intégrale, visant à r
 > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
 > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.[^1]**
 
-<hr>
+<hr><hr>
 
 ## II — ANALYSE DES FAITS GÉNÉRATEURS DE RESPONSABILITÉ
 L'accident trouve son origine dans la manœuvre imprudente d'un employé préposé monté sur un bac à shampoing, entraînant le basculement soudain de cet équipement lourd.
@@ -73,7 +73,7 @@ Il est à noter que l'établissement a procédé à un remboursement de 15 €, 
 
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>
 
-<hr>
+<hr><hr>
 
 ## III — BILAN MÉDICAL ET PRÉJUDICES IDENTIFIÉS
 Après une prise en charge initiale par Dr Julie JARDON au SMUR 09, Sébastien GRAZIDE a été transférée en urgence clinique pour une microchirurgie réalisée le 30 mai 2026 par Le Chirurgien SOS Main.
@@ -84,7 +84,7 @@ Ces lésions entraînent des séquelles fonctionnelles majeures, notamment des p
 
 Pour un informaticien indépendant dont la main droite est la main dominante, ce handicap impacte directement l'usage du clavier et de la souris, générant une incidence professionnelle substantielle estimée provisoirement à 15 000 € dans l'étude d'indemnisation jointe.
 
-<hr>
+<hr><hr>
 
 ## IV — STRATÉGIE DE RECOURS ET FONDEMENTS JURIDIQUES
 ### A. ACTION DIRECTE CONTRE L'ASSUREUR ET SURVIE DE LA PERSONNALITÉ MORALE
@@ -127,7 +127,7 @@ De plus, les statuts de SAS LES MAUVAIS GARCONS révèlent un capital social dé
 
 Cette absence de substance financière de la société face à une éventuelle liquidation rend indispensable la mise en cause personnelle du patrimoine des Dirigeants pour garantir l'effectivité de l'indemnisation.
 
-<hr>
+<hr><hr>
 
 ## V — RECOMMANDATIONS ET CONCLUSION
 Il est impératif d'intégrer des réserves judiciaires pour d'éventuelles aggravations futures.
@@ -159,7 +159,7 @@ Dans ce dossier, les fondements juridiques sont solides :
 - La responsabilité du commettant du fait de ses préposés ([Art. 1242 al.5 Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^2])
 - La responsabilité personnelle des Dirigeants pour faute détachable ([Art. 1240 Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1])
 
-<hr>
+<hr><hr>
 
 ## VI — LIMITES ET RÉSERVES SUR LA RECHERCHE JURISPRUDENTIELLE
 ### A. ABSENCE DE JURISPRUDENCE SPÉCIFIQUE

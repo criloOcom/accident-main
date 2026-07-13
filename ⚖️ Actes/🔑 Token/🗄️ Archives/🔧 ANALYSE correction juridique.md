@@ -41,7 +41,7 @@ Le présent mémorandum juridique constitue un audit stratégique et une restruc
 
 ## *AUDIT STRATÉGIQUE ET RESTRUCTURATION DE L'ARSENAL CONTENTIEUX*
 
-<hr>
+<hr><hr>
 
 ## I — PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 Le **[J+0 Accident]**, **[La Victime]** a subi un grave accident corporel au sein du salon exploité par **[L'Exploitant du Commerce (La SAS)]** (l'Exploitant).
@@ -58,7 +58,7 @@ L'affaire met en cause la responsabilité de la personne morale, dirigée par **
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 
-<hr>
+<hr><hr>
 
 ## II — CADRE JURIDIQUE DE LA RESPONSABILITÉ
 ### A. RESPONSABILITÉ DE PLEIN DROIT ET OBLIGATION DE SÉCURITÉ
@@ -80,7 +80,7 @@ La responsabilité personnelle des dirigeants peut être engagée, nonobstant l'
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^4]**
 
-<hr>
+<hr><hr>
 
 ## III — MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
 ### A. SURVIE DE LA PERSONNALITÉ MORALE ET ACTION DIRECTE
@@ -102,7 +102,7 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 > [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) <br>
 > **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307[^7]**
 
-<hr>
+<hr><hr>
 
 ## IV — PLAN D'ACTION CONTENTIEUX
 1. Référé-communication : Engager une procédure sur le fondement de [Article 145 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^8] pour obtenir la police d'assurance et interrompre la prescription.

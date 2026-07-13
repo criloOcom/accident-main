@@ -83,7 +83,7 @@ Compte tenu de la gravité de l'accident corporel survenu et du risque de réit�
 
 Je vous remercie par avance de m'adresser un accusé de réception écrit de la présente.
 
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 

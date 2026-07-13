@@ -41,7 +41,7 @@ Réf : Dossier [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF
 
 Madame, Monsieur,
 
-<hr>
+<hr><hr>
 
 ## INTRODUCTION
 La présente lettre de mise en demeure est adressée par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à la compagnie d'assurance de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) sur le fondement de l'article L. 124-3 du Code des assurances, lequel institue une action directe de la victime contre l'assureur du responsable.
@@ -145,7 +145,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 

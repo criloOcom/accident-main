@@ -123,7 +123,7 @@ Face aux difficultés de distribution postale à votre siège social, je vous de
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^5]**
 
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 

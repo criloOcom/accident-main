@@ -47,7 +47,7 @@ La présente lettre de mise en demeure est adressée conjointement par [**[La Vi
 
 **Ce courrier constitue une démarche constructive et préalable à toute action contentieuse, conformément aux obligations légales et à la jurisprudence applicable en matière de responsabilité personnelle des dirigeants.**
 
-<hr>
+<hr><hr>
 
 ## I — RAPPEL DES OBLIGATIONS LÉGALES
 
@@ -161,7 +161,7 @@ Elle permet :
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 

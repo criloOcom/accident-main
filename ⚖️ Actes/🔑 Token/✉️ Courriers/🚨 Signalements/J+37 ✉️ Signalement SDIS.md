@@ -51,7 +51,7 @@ La presente est adressee a vos services par [**[La Victime]**](../../../%F0%9F%A
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
-<hr>
+<hr><hr>
 
 ## I — OBJET DU SIGNALEMENT
 Le salon de coiffure constitue un Etablissement Recevant du Public (ERP) de 5e categorie.
@@ -64,7 +64,7 @@ Je porte par la presente a votre connaissance les faits suivants, susceptibles d
 
 Je vous remercie de bien vouloir me tenir informe des suites reserves a ce signalement.
 
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 

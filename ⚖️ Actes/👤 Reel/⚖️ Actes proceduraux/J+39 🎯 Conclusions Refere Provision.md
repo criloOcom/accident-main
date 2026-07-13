@@ -186,7 +186,7 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 
 - d'**enjoindre à la société défenderesse et à ses dirigeants** de communiquer dans un délai de quinze jours le contrat d'assurance responsabilité civile professionnelle souscrit, à défaut de quoi le juge pourrait ordonner leur assignation directe.
 
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 

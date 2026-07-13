@@ -42,7 +42,7 @@ La présente lettre est adressée par [**[La Victime]**](../../../%F0%9F%A7%A0%2
 
 Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grave accident corporel survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) dans lesdits locaux.
 
-<hr>
+<hr><hr>
 
 ## I — RAPPEL DES OBLIGATIONS LÉGALES
 
@@ -88,7 +88,7 @@ Je vous remercie d'avance pour votre diligence et votre coopération indispensab
 
 Dans l'attente de votre retour rapide,
 
-<hr>
+<hr><hr>
 
 ## II — TRANSPARENCE SUR LA SUITE DONNÉE AU DOSSIER
 
@@ -112,7 +112,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 

@@ -44,7 +44,7 @@ Réf : SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%
 
 Madame, Monsieur le Directeur,  
 
-<hr>
+<hr><hr>
 
 ## INTRODUCTION
 

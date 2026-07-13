@@ -90,7 +90,7 @@ Je vous prie de bien vouloir :
 > [Article L123-5-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291) <br>
 > **Code de commerce > Sous-section 1 : Des personnes tenues à l'immatriculation.[^1]**
 
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 

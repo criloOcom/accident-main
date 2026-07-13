@@ -100,7 +100,7 @@ Par ces motifs, et vu l'urgence extrême liée au risque de déperdition des pre
 
 **Donner acte à l'huissier instrumentaire de ses constatations et photographies** dans le cadre du procès-verbal de constat qui sera dressé à l'issue de ses opérations.
 
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 

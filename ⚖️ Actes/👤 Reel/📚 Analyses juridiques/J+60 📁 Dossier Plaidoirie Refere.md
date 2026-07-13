@@ -60,7 +60,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/12 📁 Dossier Plaidoirie.m
 - **[J+37 Assignation 145] :** Signalements administratifs effectués auprès des diverses autorités (Inspection du Travail, CODAF, etc.) face au refus persistant de coopération de l'employeur.
 - **Date non fixée (à planifier) :** Date de la présente audience de référé pour obtenir l'indemnisation provisionnelle et forcer la communication de la couverture assurantielle.
 
-<hr>
+<hr><hr>
 
 ## III — DISCUSSION JURIDIQUE STRUCTURÉE
 ### A. RESPONSABILITÉ DE PLEIN DROIT DU GARDIEN (ART. 1242 C. CIV.)

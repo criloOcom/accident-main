@@ -42,7 +42,7 @@ Le présent plan d'action et chronologie de la procédure a été établi par [S
 - [Autorités Judiciaires et Policières à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)](#autorits-judiciaires-et-policires-la-ville-de-laccident)
 - [SERVICES JURIDIQUES ET DE SANTÉ](#services-juridiques-et-de-sant)
 
-<hr>
+<hr><hr>
 
 ## I — CHRONOLOGIE ET PLAN D'ACTION
 ## ACTIONS URGENTES ET PHASE AMIABLE (JUIN 2026)
@@ -71,7 +71,7 @@ Le second semestre 2026 sera consacré au suivi de l'expertise (notamment le pas
 
 L'aboutissement prévu est une assignation au fond en septembre pour obtenir un jugement définitif de condamnation de l'assureur d'ici décembre 2026.
 
-<hr>
+<hr><hr>
 
 ## II — FONDEMENTS JURIDIQUES
 ## RESPONSABILITÉ CIVILE ET ACTION DIRECTE
@@ -103,7 +103,7 @@ En cas de blocage sur l'identité de l'assureur, [Article 145 du Code de procéd
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.[^1]**
 
-<hr>
+<hr><hr>
 
 ## III — INVENTAIRE DES PIÈCES
 ### A. PREUVES MÉDICALES ET ADMINISTRATIVES
@@ -112,7 +112,7 @@ Le dossier comprend les comptes rendus opératoires du [Dr Iskander DJERBI](../.
 ### B. PREUVES MATÉRIELLES ET TÉMOIGNAGES
 Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel défectueux, les photos de l'accident et les témoignages des clients et employés présents.
 
-<hr>
+<hr><hr>
 
 ## IV — CONTACTS ET ANNUAIRES
 ## AUTORITÉS JUDICIAIRES ET POLICIÈRES À [**[LA VILLE DE L'ACCIDENT]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)

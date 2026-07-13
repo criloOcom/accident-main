@@ -53,7 +53,7 @@ Cet accident a été causé par la chute brutale du préposé de l'exploitation 
 
 Sa chute a entraîné sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant nécessité une microchirurgie d'urgence en SOS Main.
 
-<hr>
+<hr><hr>
 
 ## I — PROCÉDURES EN COURS
 
@@ -73,7 +73,7 @@ Les procédures suivantes ont été engagées :
 
 - Action directe contre l'assureur RC ([Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1])
 
-<hr>
+<hr><hr>
 
 ## II — CONTEXTE DE LA SAISINE DE VOS SERVICES
 
@@ -128,7 +128,7 @@ Si les faits constatés par vos contrôles s'avèrent constitutifs d'infractions
 
 Je vous remercie de bien vouloir me faire parvenir un accusé de réception écrit de la présente.
 
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 

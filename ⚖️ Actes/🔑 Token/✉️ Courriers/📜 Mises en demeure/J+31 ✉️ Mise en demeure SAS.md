@@ -108,7 +108,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 

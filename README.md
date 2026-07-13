@@ -42,4 +42,4 @@ Scripts, tests, déploiement
 
 ---
 
-_Mis à jour le 11 juillet 2026 · [AGENTS.md](./AGENTS.md) pour les instructions agents_
+_Mis à jour le 11 juillet 2026 · [AGENTS.md](./AGENTS.md) pour les instructions agents · [GEMINI.md](./GEMINI.md) pour les instructions de langue_

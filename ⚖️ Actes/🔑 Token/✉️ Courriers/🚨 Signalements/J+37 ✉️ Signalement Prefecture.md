@@ -47,14 +47,7 @@ Cet accident a ete cause par la chute brutale du prepose de l'exploitation depui
 
 **Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main.**
 
-<hr>
-
-- [I — RAPPEL DES FAITS](#i--rappel-des-faits)
-- [II — PROCEDURES EN COURS](#ii--procedures-en-cours)
-- [III — SIGNALEMENTS TRANSMIS](#iii--signalements-transmis)
-- [IV — DEMANDE DE CONFIRMATION ET DE SUITE](#iv--demande-de-confirmation-et-de-suite)
-
-<hr>
+<hr><hr>
 
 ## I — RAPPEL DES FAITS
 Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur. L'equipement, instable et presentant une cassure preexistante non signalee, a bascule sous le poids du prepose.
@@ -63,7 +56,7 @@ Ma main droite, tendue par reflexe, a heurte la cassure preexistante, entrainant
 
 **Cet accident revele de multiples manquements aux regles de securite applicables aux etablissements recevant du public (ERP) et au Code du travail.**
 
-<hr>
+<hr><hr>
 
 ## II — PROCEDURES EN COURS
 Plusieurs procedures ont ete engagees a ce jour :
@@ -80,7 +73,7 @@ Plusieurs procedures ont ete engagees a ce jour :
 6. Demande d'enquete a l'Inspection du Travail (DDETS 09 / DREETS Occitanie)
 7. Saisine du CODAF
 
-<hr>
+<hr><hr>
 
 ## III — SIGNALEMENTS TRANSMIS
 Il m'a ete indique par la Mairie de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) le 1er juin 2026 qu'un signalement avait ete effectue aupres de vos services et du CODAF. Je sollicite par la presente confirmation que ce signalement a bien ete reeu et instruit par vos services, et souhaite etre tenu informe des suites qui lui sont reservees.
@@ -101,7 +94,7 @@ Je porte par ailleurs a votre connaissance les manquements suivants, constates d
 
 - Travail dissimule presume
 
-<hr>
+<hr><hr>
 
 ## IV — DEMANDE DE CONFIRMATION ET DE SUITE
 Je sollicite de vos services :
@@ -112,7 +105,7 @@ Je sollicite de vos services :
 
 Mes coordonnees : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) — Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
 
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 

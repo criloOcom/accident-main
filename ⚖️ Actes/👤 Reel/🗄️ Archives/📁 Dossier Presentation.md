@@ -41,7 +41,7 @@ Il contient une synthèse des faits, l'inventaire des pièces constitutives du d
 
 ## SYNTHÈSE DES FAITS, PIÈCES ADMINISTRATIVES ET STRATÉGIE DE RECOUVREMENT - AFFAIRE **[LA VICTIME]**
 
-<hr>
+<hr><hr>
 
 ## I — STRATÉGIE DE RECOUVREMENT DES HONORAIRES PAR SUBROGATION ET PROTECTION FINANCIÈRE DE LA VICTIME
 L'assistance par un avocat est indispensable pour mener à bien la liquidation du préjudice corporel et sécuriser l'indemnisation face à l'assureur de SAS LES MAUVAIS GARCONS.
@@ -63,7 +63,7 @@ Afin de lever tout obstacle financier pour Sébastien GRAZIDE, travailleur indé
 
 4. La demande de provision ad hoc pour frais de procédure : Lors de l'assignation en référé-provision, l'avocat sollicitera une provision ad hoc à valoir sur les frais futurs d'expertise médicale et d'assistance juridique.
 
-<hr>
+<hr><hr>
 
 ## II — EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE
 Le vendredi 29 mai 2026, Sébastien GRAZIDE s'est présenté au salon de coiffure « SAS LES MAUVAIS GARCONS » à Foix (22 Rue Lafaurie, 09000 Foix) pour une prestation de coupe de cheveux. Après réalisation de celle-ci, il a payé et quitté le salon vers 15h00.
@@ -78,7 +78,7 @@ Ce choc a provoqué une section profonde de 8,5 cm au niveau de sa paume droite 
 
 Les examens cliniques constatent une section partielle du tendon fléchisseur, une section complète du paquet collatéral et une neurolyse du nerf palmaire, entraînant une ITT de 56 jours (jusqu'au 23 juillet 2026 inclus) et des paresthésies sévères de l'index droit.
 
-<hr>
+<hr><hr>
 
 ## III — ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES
 Sébastien GRAZIDE agit actuellement en son nom propre et a formalisé les démarches suivantes :

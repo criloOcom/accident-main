@@ -33,22 +33,7 @@ L'analyse approfondie du dossier relatif à l'accident survenu le [**[J+0 Accide
 
 Cette note vise à structurer les fondements juridiques permettant d'assurer la réparation intégrale du préjudice subi.
 
-<hr>
-
-- [I. LA RESPONSABILITÉ PÉNALE POUR BLESSURES INVOLONTAIRES](#i-la-responsabilit-pnale-pour-blessures-involontaires)
-  - [A. MANQUEMENT À L'OBLIGATION DE SÉCURITÉ ET DE PRUDENCE](#a-manquement-lobligation-de-scurit-et-de-prudence)
-  - [B. L'IMPRUDENCE CARACTÉRISÉE DU PRÉPOSÉ](#b-limprudence-caractrise-du-prpos)
-- [II. LA RESPONSABILITÉ CIVILE DE PLEIN DROIT](#ii-la-responsabilit-civile-de-plein-droit)
-  - [A. RESPONSABILITÉ DU FAIT DES CHOSES](#a-responsabilit-du-fait-des-choses)
-  - [B. RESPONSABILITÉ DU COMMETTANT DU FAIT DE SES PRÉPOSÉS](#b-responsabilit-du-commettant-du-fait-de-ses-prposs)
-  - [C. LA FAUTE DÉTACHABLE DES DIRIGEANTS](#c-la-faute-dtachable-des-dirigeants)
-- [III. IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES](#iii-immunit-du-prpos-et-recours-stratgiques)
-  - [A. ACTION DIRECTE CONTRE L'ASSUREUR](#a-action-directe-contre-lassureur)
-  - [B. PREUVES ET PROCÉDURES](#b-preuves-et-procdures)
-  - [C. OBLIGATION D'INFORMATION DE L'ASSURANCE ET RÉFÉRÉ-COMMUNICATION](#c-obligation-dinformation-de-lassurance-et-rfr-communication)
-- [CONCLUSION](#conclusion)
-
-<hr>
+<hr><hr>
 
 ## I — LA RESPONSABILITÉ PÉNALE POUR BLESSURES INVOLONTAIRES
 Le salon est susceptible de voir sa responsabilité engagée sur le fondement de l'article 222-20 du Code pénal.
@@ -79,7 +64,7 @@ En vertu de l'article 121-3 du Code pénal, cette maladresse expose les dirigean
 > [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209) <br>
 > **Code pénal > Partie législative > Livre Ier : Dispositions générales > Titre III : La criminalité et la délinquance, les sanctions pénales et certaines mesures de sûreté > Chapitre Ier : De la responsabilité des personnes physiques.[^3]**
 
-<hr>
+<hr><hr>
 
 ## II — LA RESPONSABILITÉ CIVILE DE PLEIN DROIT
 Sur le plan civil, la SAS est tenue de réparer les dommages causés sans qu'il soit nécessaire de prouver une intention de nuire. Cette responsabilité repose sur plusieurs piliers du Code civil.
@@ -117,7 +102,7 @@ La responsabilité personnelle des dirigeants, [**[Le Président de l'Exploitati
 > [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^6]**
 
-<hr>
+<hr><hr>
 
 ## III — IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES
 Il convient de noter que le préposé bénéficie d'une immunité civile selon l'arrêt Costedoat (Ass. Plén., 25 fév. 2000), sauf en cas de faute pénale intentionnelle (Arrêt Cousin).

@@ -67,7 +67,7 @@ J'attire votre attention sur le fait qu'une procédure pénale est d'ores et dé
 
 Je vous remercie par avance des diligences que vous voudrez bien accomplir pour garantir la sécurité du public.
 
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 

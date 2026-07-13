@@ -46,12 +46,7 @@ Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20T
 
 Les informations publiques disponibles (INPI, INSEE) indiquent que cette societe, creee le 1er juin 2024 avec un capital de 200 €, ne declare aucun salarie.
 
-<hr>
-
-- [I — ELEMENTS LAISSANT PRESUMER UN TRAVAIL DISSIMULE](#i--elements-laissant-presumer-un-travail-dissimule)
-- [II — DEMANDE DE VERIFICATION](#ii--demande-de-verification)
-
-<hr>
+<hr><hr>
 
 ## I — ELEMENTS LAISSANT PRESUMER UN TRAVAIL DISSIMULE
 Les elements suivants sont susceptibles de caracteriser un travail dissimule par dissimulation d'emploi salarie (Article L.8221-5 du Code du travail) :
@@ -88,7 +83,7 @@ Les elements suivants sont susceptibles de caracteriser un travail dissimule par
 <br>
 - Aucune declaration d'accident du travail n'a ete transmise a la CPAM
 
-<hr>
+<hr><hr>
 
 ## II — DEMANDE DE VERIFICATION
 Je sollicite de vos services qu'une verification soit effectuee concernant :
@@ -105,7 +100,7 @@ Conformement a l'Article L.8271-1-2 du Code du travail, les agents de l'URSSAF s
 > [Article L8271-1-2 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334961) <br>
 > **Code du travail > Section 1 : Dispositions communes.[^3]**
 
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 - Copie du [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procedure penale)

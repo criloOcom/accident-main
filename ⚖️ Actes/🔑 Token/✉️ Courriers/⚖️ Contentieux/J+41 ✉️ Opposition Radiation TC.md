@@ -84,7 +84,7 @@ Au vu de l'urgence et du risque avéré de dissipation des garanties, je vous pr
 
 3. **M'informer** de toute formalité qui serait déposée par cette société en vue de sa radiation ou de sa liquidation.
 
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 

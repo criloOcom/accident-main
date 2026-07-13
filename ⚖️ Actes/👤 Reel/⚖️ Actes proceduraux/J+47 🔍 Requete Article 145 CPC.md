@@ -66,7 +66,7 @@ L'accuse de reception du courrier recommande adresse au proprietaire des murs, R
 
 A ce jour, l'identite de l'assureur RC professionnelle de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) demeure inconnue.
 
-<hr>
+<hr><hr>
 
 ## II — DISCUSSION JURIDIQUE
 ### A. SUR LE MOTIF LEGITIME DE L'ARTICLE 145 CPC
@@ -134,7 +134,7 @@ Ce silence delibere caracterise un refus de communiquer qui justifie que soit or
 
 L'astreinte sollicitee de 150 € par jour de retard est proportionnee a l'enjeu : en l'absence de cette information, l'indemnisation d'un prejudice corporel grave evalue a ~90 000 € est entierement bloquee.
 
-<hr>
+<hr><hr>
 
 ## PAR CES MOTIFS
 Vu l'Article 145 du Code de procédure civile,
@@ -174,7 +174,7 @@ Vu les pièces versées aux débats,
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^5]**
 
-<hr>
+<hr><hr>
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 - **Pièce n°10 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) ([29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
