@@ -126,7 +126,9 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 
 **Faits constitutifs :**
 - La SAS LES MAUVAIS GARCONS a un capital social de seulement 200 € et déclare 0 salarié.
+
 - Cette structure financière précaire suggère un **risque élevé de dissolution frauduleuse** pour échapper aux responsabilités civiles et pénales.
+
 - Cette situation est aggravée par l'absence totale de coopération malgré les mises en demeure.
 
 **Références juridiques :**
@@ -145,8 +147,11 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 
 **Faits constitutifs :**
 - Aucune réponse aux multiples mises en demeure (LRAR du 29/06/2026).
+
 - Aucun accusé de réception signé.
+
 - Refus systématique de communiquer toute information utile à l'enquête.
+
 - Cette attitude démontre une **volonté délibérée d'entraver la procédure judiciaire**.
 <hr><hr>
 
@@ -155,12 +160,15 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 ### **1. Vérification de l'établissement**
 
 - **État actuel du salon** : Vérifier si le salon est effectivement ouvert et en activité.
+
 - **Présence des dirigeants** : Identifier qui gère actuellement l'établissement.
+
 - **Conformité ERP** : Contrôler le respect des normes de sécurité (décret n°2014-1273 du 30 octobre 2014).
 
 ### **2. Recherche des vidéos**
 
 - **Vérification de la vidéosurveillance** : S'assurer que les enregistrements du 29 mai 2026 existent toujours.
+
 - **Récupération des données** : Saisir les enregistrements conformément à l'**article 706-3 du Code de procédure pénale**.
 
 > *« Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. »* <br>
@@ -170,26 +178,34 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 ### **3. Identification des responsables**
 
 - **Dirigeants actuels** : Identifier les personnes qui gèrent effectivement le salon.
+
 - **Responsabilité pénale** : Établir la chaîne de responsabilité pour les infractions commises.
 
 ### **4. Contrôle de conformité**
 
 - **Respect des normes ERP** : Vérifier la conformité aux obligations de sécurité.
+
 - **Sanctions administratives** : Engager les procédures de mise en conformité ou de fermeture si nécessaire.
 
 ### **5. Enquête financière**
 
 - **Vérification de la solvabilité réelle** : Analyser la situation financière de la SAS.
+
 - **Risque de dissolution frauduleuse** : Prévenir toute tentative de disparition pour échapper aux responsabilités.
 <hr><hr>
 
 ## 📌 **PIÈCES JUSTIFICATIVES JOINTS**
 
 1. **Copie du [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** (plainte initiale)
+
 2. **Copie des LRAR retournés NPAI** (preuves de l'obstruction)
+
 3. **Extrait RNE/INPI** (confirmation de l'immatriculation)
+
 4. **Photos du salon rouvert** (preuve de l'activité)
+
 5. **Dossier médical** (certificats médicaux, [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md))
+
 6. **Mises en demeure non répondus** (preuves de la mauvaise volonté)
 <hr><hr>
 
@@ -227,6 +243,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 > [Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) <br>
 > **Code pénal > Section 1 : Des entraves à la saisine de la justice.[^2]**
 - **Article 121-3 du Code pénal** : Principe de responsabilité pénale — faute d'imprudence, négligence, manquement à obligation de prudence/sécurité
+
 - **Article 314-7 du Code pénal** : Organisation frauduleuse de l'insolvabilité
 
 > *« Le fait, par un débiteur, même avant la décision judiciaire constatant sa dette, d'organiser ou d'aggraver son insolvabilité soit en augmentant le passif ou en diminuant l'actif de son patrimoine, soit en diminuant ou en dissimulant tout ou partie de ses revenus, soit en dissimulant certains de ses biens, en vue de se soustraire à l'exécution d'une condamnation de nature patrimoniale prononcée par une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou d'aliments, prononcée par une juridiction civile, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. Commet le même délit le dirigeant de droit ou de fait d'une personne morale qui organise ou aggrave l'insolvabilité de celle-ci dans les conditions définies à l'alinéa précédent en vue de la soustraire aux obligations pécuniaires résultant d'une condamnation prononcée en matière pénale, délictuelle ou quasi délictuelle. »* <br>
@@ -238,6 +255,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
 > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^7]**
 - **Article 121-3 du Code pénal** : Principe de responsabilité pénale (faute d'imprudence / négligence)
+
 - **Article 706-3 du Code de procédure pénale** : Conservation des enregistrements de vidéosurveillance
 
 > *« Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. »* <br>

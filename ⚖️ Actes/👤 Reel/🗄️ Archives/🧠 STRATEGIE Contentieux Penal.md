@@ -21,17 +21,29 @@ source: drive
 **Table des matières**
 
 - [1. PRÉSENTATION](#1-prsentation)
+
 - [2. INFRACTIONS CONSTITUÉES](#2-infractions-constitues)
+
   - [2.1 BLESSURES INVOLONTAIRES](#21-blessures-involontaires)
+
   - [2.2 ABSENCE D'ASSURANCE RESPONSABILITÉ CIVILE PROFESSIONNELLE](#22-absence-dassurance-responsabilit-civile-professionnelle)
+
   - [2.3 MISE EN DANGER DE LA VIE D'AUTRUI](#23-mise-en-danger-de-la-vie-dautrui)
+
 - [3. PROCÉDURE PÉNALE ENGAGÉE](#3-procdure-pnale-engage)
+
   - [3.1 SIGNALEMENT ADMINISTRATIF ET DÉPÔT DE PLAINTE](#31-signalement-administratif-et-dpt-de-plainte)
+
   - [3.2 CONSTITUTION DE PARTIE CIVILE](#32-constitution-de-partie-civile)
+
   - [3.3 COMPLÉMENT DE PLAINTE POUR ABSENCE D'ASSURANCE](#33-complment-de-plainte-pour-absence-dassurance)
+
   - [3.4 RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS](#34-responsabilit-personnelle-des-dirigeants)
+
   - [3.5 INDEMNISATION PAR LE FGTI / CIVI](#35-indemnisation-par-le-fgti-civi)
+
 - [4. CALENDRIER PROCÉDURAL](#4-calendrier-procdural)
+
 - [5. RÉCAPITULATIF DES PIÈCES](#5-rcapitulatif-des-pices)
 
 # STRATEGIE CONTENTIEUX PENAL
@@ -154,6 +166,7 @@ Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LE
 > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
 > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^2]**
 - Gravité du dommage : ITT de 56 jours (≥ 1 mois, condition de recevabilité).
+
 - Absence d'assurance confirmée par le défaut de réponse aux relances amiables.
 
 **Délai CIVI = 3 ans ([Article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)[^12]) :**
@@ -162,6 +175,7 @@ Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LE
 > [Article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334) <br>
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^13]**
 - **3 ans** à compter de l'infraction (29 mai 2026 → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
+
 - Ou **1 an** après une décision pénale définitive si elle intervient avant l'expiration du délai de 3 ans.
 
 **Procédure :** Saisine de la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de Foix, qui notifie le FGTI et instruit la demande d'indemnisation.
@@ -185,18 +199,25 @@ Cette voie est indépendante de l'action pénale principale : la victime peut sa
 
 Pièces pénales :
 - 1 juin 2026 — Foix Police — Dépôt de plainte officiel [🔗 Voir](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
+
 - 2 juin 2026 — Foix Police — Procès-verbal constat n°2026/015967 [🔗 Voir](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view)
+
 - 2 juin 2026 — Foix Police — Constitution de partie civile
+
 - 2 juin 2026 — Foix Police — Complément de plainte
 
 Pièces médicales (justificatifs du préjudice corporel) :
 - 29 mai 2026 — Dr Julie JARDON — Premiers soins urgence
+
 - 30 mai 2026 — Dr Iskander DJERBI — CR opératoire
+
 - 19 juin 2026 — Dr Iskander DJERBI — CR contrôle J+20
 
 Pièces administratives :
 - 3 juin 2026 — CPAM Haute-Garonne — Dossier RCT 31727387
+
 - 1 juin 2026 — INSEE — Avis de situation SAS
+
 - 1 juin 2026 — INPI — Fiche identité SAS
 <hr><hr>
 

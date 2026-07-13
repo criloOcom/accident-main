@@ -27,7 +27,9 @@ jx: J+41
 
 Le contenu de cette requête (demande de constat d'huissier au titre de l'article 145 CPC pour établir l'état de la vasque et des équipements) a été intégré dans la stratégie globale via :
 - La **requête 145 CPC** (03 🔍) déposée le 15 juillet 2026 au TJ de Foix
+
 - La **plainte complémentaire** (36 📜) déposée le même jour au Commissariat de Foix
+
 - La **visite des lieux** effectuée par la victime elle-même le 15 juillet 2026 avec constat personnel et photos
 
 > Pour le contenu original détaillé, se référer à la version dans `🗄️ Archives/`.

@@ -29,8 +29,11 @@ Monsieur l'Adjoint au Maire,
 Afin de contextualiser ma présente démarche, je me permets de retracer brièvement nos correspondances relatives à l'accident corporel grave dont j'ai été victime le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein de l'établissement situé au [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md) :
 
 - **Le [J+3 Premiers arrêts]**, je vous ai alerté de la dangerosité des équipements de ce salon de coiffure.
+
 - **Ce même [J+3 Premiers arrêts]**, vous m'avez répondu avec une grande diligence pour m'informer de votre saisine des services de la Préfecture, de l'Inspection du Travail et du CODAF.
+
 - **Le [J+4 Dépôt de plainte]**, je vous ai transmis la preuve officielle de l'ouverture de ma procédure pénale (PV n° [**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)).
+
 - **Le [J+37 Assignation 145]**, je vous ai adressé une demande d'information concernant l'avancement de ces enquêtes administratives.
 
 Afin d'assurer un suivi rigoureux de mon dossier et conformément aux dispositions de l'article L. 311-1 du Code des relations entre le public et l'administration (CRPA), je vous serais reconnaissant de bien vouloir me communiquer une copie des courriers de saisine que vous avez adressés le 1er juin 2026 à la Préfecture, à l'Inspection du Travail et au CODAF. Cette communication m'est indispensable pour tenir informée l'autorité judiciaire de l'évolution de ces enquêtes.

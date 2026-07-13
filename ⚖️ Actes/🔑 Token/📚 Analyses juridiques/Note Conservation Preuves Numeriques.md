@@ -76,6 +76,7 @@ Les pages de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20M
 
 Ces plateformes prouvent que la société était bien référencée et active à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md) :
 - **Societe.com** / **Infogreffe** : Permet de prouver l'immatriculation de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) sous son identifiant, l'identité de ses dirigeants ([**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md), [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md)), et l'adresse de son siège.
+
 - **Kompass** / **Pages Jaunes** : Prouve l'inscription commerciale et les coordonnées publiques de l'établissement au moment de l'accident.
 
 ### 3. Avis Google (Google My Business)
@@ -98,6 +99,7 @@ Conformément à la norme AFNOR Z67-147, le Commissaire de Justice dressera un p
 Il est impératif d'agir de manière proactive, avant même l'introduction de la procédure judiciaire formelle contre [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
 
 1. **Réaliser immédiatement** des sauvegardes via Wayback Machine (Archive.org) pour les réseaux sociaux, annuaires et avis Google.
+
 2. **Conserver les URL** d'archivage dans un fichier sécurisé.
 3. Si la société tente de modifier ses informations publiques ou de fermer ses comptes, solliciter en urgence un **Commissaire de Justice** pour réaliser un constat d'internet, afin de garantir la force probante des éléments recueillis.
 <hr><hr>

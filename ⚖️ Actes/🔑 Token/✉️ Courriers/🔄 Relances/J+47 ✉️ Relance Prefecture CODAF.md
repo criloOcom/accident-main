@@ -58,8 +58,11 @@ Je vous remercie de l'attention portée à la présente et vous prie d'agréer, 
 ## PIECES JOINTES
 
 - Copie du courriel de M. Tavella (1er juin 2026)
+
 - PV initial n°2026/015967
+
 - [Certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) / [compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)
+
 - Attestation sur l'honneur des faits
 
 <hr><hr>

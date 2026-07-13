@@ -31,28 +31,45 @@ jx: J+47
 
 **📂 Dossier principal (à remettre aux policiers) :**
 - [ ] Plainte complémentaire signée (document n°36)
+
 - [ ] Copie du PV initial n°2026/015967
+
 - [ ] Accusés de réception des LRAR retournés NPAI
+
 - [ ] [Extrait Kbis](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS
+
 - [ ] Note d'audit RNE/INPI du 10/07/2026
+
 - [ ] Photos de l'accident et de la vasque cassée (format papier + numérique)
+
 - [ ] Certificats médicaux ([CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md), [arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md))
+
 - [ ] Liste chronologique des démarches
 
 **📋 Documents de support (à garder avec vous) :**
 - [ ] Pièce d'identité (CNI/passeport)
+
 - [ ] Justificatif de domicile (< 3 mois)
+
 - [ ] Carnet de notes + stylo
+
 - [ ] Clé USB avec tous les documents numérisés
+
 - [ ] Guide de dialogue (ce document)
+
 - [ ] Checklist des demandes
+
 - [ ] Liste des questions à poser
 
 **💡 Conseils pratiques :**
 - Habillez-vous de manière professionnelle
+
 - Prévoyez 1 à 2 heures sur place
+
 - Apportez une bouteille d'eau et un en-cas
+
 - Chargez votre téléphone à 100%
+
 - Prévoyez un moyen de transport pour rentrer
 <hr><hr>
 
@@ -225,23 +242,32 @@ jx: J+47
 
 **Dans les 24 heures :**
 - [ ] Noter par écrit tous les éléments de l'entretien (date, heure, nom de l'officier, engagements pris)
+
 - [ ] Scanner et classer l'accusé de réception
+
 - [ ] Mettre à jour le dossier avec le numéro de plainte complémentaire
+
 - [ ] Envoyer un email de remerciement avec résumé des engagements
 
 **Dans les 48 heures :**
 - [ ] Vérifier que le dossier a bien été enregistré
+
 - [ ] Relancer par téléphone si aucun accusé de réception n'a été remis
+
 - [ ] Préparer un compte-rendu écrit de l'entretien
 
 **Dans la semaine :**
 - [ ] Contacter l'officier référent pour suivre l'avancement
+
 - [ ] Relancer si aucune action concrète n'a été engagée
+
 - [ ] Préparer une relance écrite si nécessaire
 
 **Dans les 15 jours :**
 - [ ] Vérifier si une enquête a été ouverte
+
 - [ ] Demander une copie du rapport d'enquête si disponible
+
 - [ ] Envisager un signalement au Procureur si aucune suite n'est donnée
 <hr><hr>
 
@@ -261,10 +287,12 @@ jx: J+47
 
 **Code pénal :**
 - Art. 434-15 : "Le fait de détruire, de dégrader ou de détériorer un objet de quelque nature qu'il soit, de nature à faciliter la découverte d'une vérité ou la preuve d'un crime ou d'un délit..."
+
 - Art. 434-15-1 : "Le fait, pour quiconque ayant connaissance d'un crime ou d'un délit... de ne pas en informer les autorités judiciaires ou administratives..."
 
 **Code du travail :**
 - Art. L. 4121-1 : "L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs."
+
 - Art. L. 8221-1 : "Est réputé travail dissimulé par dissimulation d'activité l'exercice à but lucratif d'une activité... sans déclaration aux organismes sociaux."
 
 **Code des assurances :**
@@ -275,28 +303,45 @@ jx: J+47
 
 **📋 Vérifications dernières minutes :**
 - [ ] J'ai bien tous mes documents (dossier + pièces d'identité)
+
 - [ ] J'ai relu ma plainte complémentaire
+
 - [ ] J'ai répété mon résumé oral (2-3 minutes)
+
 - [ ] J'ai préparé mes questions aux policiers
+
 - [ ] J'ai vérifié mon apparence (tenue professionnelle)
+
 - [ ] Mon téléphone est chargé et en mode silencieux
+
 - [ ] J'ai de quoi prendre des notes
+
 - [ ] J'ai prévu suffisamment de temps
 
 **💡 Derniers conseils :**
 - Restez calme et courtois en toutes circonstances
+
 - Parlez lentement et clairement
+
 - Soyez précis sur les dates et les faits
+
 - Citez les articles de loi quand c'est pertinent
+
 - Notez tout ce qui est dit
+
 - Ne signez rien sans avoir lu attentivement
+
 - Demandez des copies de tout document
 
 **⚠️ À ne pas faire :**
 - Ne vous énervez pas, même si les réponses ne vous satisfont pas
+
 - Ne mentionnez pas de noms sans preuve
+
 - Ne faites pas de promesses que vous ne pouvez tenir
+
 - Ne minimisez pas vos demandes
+
 - Ne partez pas sans accusé de réception
 
 <hr><hr>

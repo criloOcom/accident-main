@@ -32,15 +32,21 @@ Vous étiez présent(e) le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%
 Je me permets de vous solliciter pour remplir une **attestation de témoin** (Cerfa n° 11527\*03) afin de décrire ce que vous avez vu ce jour-là. Votre témoignage est particulièrement important sur les points suivants :
 
 - L'absence d'escabeau ou d'équipement adapté pour accéder en hauteur (poste de télévision)
+
 - L'état de la vasque en céramique et sa cassure préexistante (connue des employés)
+
 - Les consignes de sécurité (ou leur absence) données par la direction
+
 - Le déroulement de l'accident : votre collègue est monté sur la vasque pour régler la télévision, la vasque a basculé
 
 **Important :** Je comprends que cette démarche peut être délicate vis-à-vis de votre employeur. Sachez que :
 
 - L'attestation est protégée par l'Article 202 du CPC
+
 - Vous pouvez la rédiger librement, en toute objectivité
+
 - Aucune pression ou représentation n'est légale en la matière
+
 - Si vous préférez, vous pouvez adresser l'attestation directement au tribunal (Procureur de la République)
 
 **Comment procéder ?**

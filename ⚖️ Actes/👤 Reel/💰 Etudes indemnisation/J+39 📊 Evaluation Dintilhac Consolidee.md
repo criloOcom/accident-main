@@ -37,20 +37,35 @@ Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%
 # TABLE DES MATIÈRES
 
 - [1. INTRODUCTION ET PRINCIPES GÉNÉRAUX](%231-introduction-et-principes-g%C3%A9n%C3%A9raux)
+
 - [2. SYNTHÈSE DES ÉVALUATIONS](%232-synth%C3%A8se-des-%C3%A9valuations)
+
 - [3. ANALYSE POSTE PAR POSTE](#3-analyse-poste-par-poste)
+
   - [3.1 PGPA — Pertes de Gains Professionnels Actuels](#31-pgpa--pertes-de-gains-professionnels-actuels)
+
   - [3.2 DFT — Déficit Fonctionnel Temporaire](%2332-dft--d%C3%A9ficit-fonctionnel-temporaire)
+
   - [3.3 DFP — Déficit Fonctionnel Permanent](%2333-dfp--d%C3%A9ficit-fonctionnel-permanent)
+
   - [3.4 SE — Souffrances Endurées](%2334-se--souffrances-endur%C3%A9es)
+
   - [3.5 IP — Incidence Professionnelle](#35-ip--incidence-professionnelle)
+
   - [3.6 Préjudice d'Agrément](%2336-pr%C3%A9judice-dagr%C3%A9ment)
+
   - [3.7 PEP — Préjudice Esthétique Permanent](%2337-pep--pr%C3%A9judice-esth%C3%A9tique-permanent)
+
    - [3.8 DEP — Dévalorisation Professionnelle Future](%2338-dep--d%C3%A9valorisation-professionnelle-future)
+
    - [3.9 ATP — Assistance par Tierce Personne](#39-atp--assistance-par-tierce-personne)
+
    - [3.10 Frais Divers](#310-frais-divers)
+
    - [3.11 Article 700 CPC](#311-article-700-cpc)
+
 - [4. STRATÉGIE DE RECOUVREMENT](%234-strat%C3%A9gie-de-recouvrement)
+
 - [5. DEMANDE DE PROVISION EN RÉFÉRÉ](%235-demande-de-provision-en-r%C3%A9f%C3%A9r%C3%A9)
 
 <hr><hr>
@@ -81,9 +96,13 @@ Ce principe exige que la victime soit replacée dans la situation exacte où ell
 L'évaluation initiale du dossier s'établissait à [59 600 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-evaluation-initiale.md). Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**, pour cinq raisons principales :
 
 1. **DFT** non chiffré (56 jours × 25-30 €/jour = 1 400-1 680 €)
+
 2. **Souffrances Endurées à 12 000 €** en dessous du Mornet 2024 (15 000 € minimum pour 4/7)
+
 3. **Incidence Professionnelle à 15 000 €** trop basse pour un informaticien droitier avec perte de dextérité de la main dominante
+
 4. **Préjudice d'Agrément à 3 000 €** faible pour un guitariste
+
 5. **DFP à 2 100 €/point** en bas de fourchette (Mornet : 2 140-3 070 €/point pour 11-20%)
 
 L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette complète : 82 500 - 150 000 €), selon le compromis retenu entre les trois analyses (optimiste, Glose conservative, critique Glose).
@@ -141,7 +160,9 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 **Calcul technique :**
 - ITT : 56 jours (du 29 mai au [23 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md))
+
 - CA mensuel : 750 € → 750 / 30 × 56 = **1 400 €** (prorata)
+
 - Formule Glose plus précise : 56 / 30,44 × 750 = **1 380 €**
 
 **Vérification :** Pour un indépendant, les IJ CPAM sont calculées sur le revenu annuel moyen des 3 dernières années (1/720e × 50 %). Sous réserve du relevé de débours CPAM.
@@ -152,6 +173,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 **Sources :**
 - Nomenclature Dintilhac
+
 - Référentiel Mornet 2024
 
 > *« Le caractère intégral de la réparation du préjudice implique que la victime puisse obtenir la réparation de l'ensemble des postes de préjudices, y compris ceux qui n'ont pas été expressément prévus dans l'offre de l'assureur. »* <br>
@@ -194,6 +216,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 **Sources :**
 - Référentiel Mornet 2024 (éd. septembre 2024) — fourchette 2 140 à 3 070 €/point pour 11-20 %
+
 - Tableau de capitalisation des cours d'appel (Lexbase, actualisation 2024)
 
 > *« Le juge du fond dispose d'un pouvoir souverain pour fixer le montant de l'indemnisation allouée à la victime d'un dommage corporel, sans être tenu de se référer à un barème ou à un référentiel, dès lors qu'il justifie sa décision par des éléments objectifs. »* <br>
@@ -213,10 +236,15 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 **Justification :**
 - Intervention microchirurgicale lourde (suture tendon 6 brins + nerfs Ethilon 9-0)
+
 - Hospitalisation
+
 - Douleurs neuropathiques à l'index
+
 - Kinésithérapie 3×/semaine pendant plusieurs mois
+
 - Stress post-traumatique
+
 - ITT 56 jours
 
 **Analyse des écarts :** Notre estimation initiale (24 000 €) se situe dans la fourchette haute du Mornet 2024. Glose propose 5 000-12 000 €, fourchette très basse. La critique Glose valide notre fourchette à 15 000-24 000 €.
@@ -225,7 +253,9 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 **Sources :**
 - Référentiel Mornet 2024-2026 : 4/7 = 15 000 à 30 000 €
+
 - CA de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md), 11 octobre 2022, RG n° 21/03743
+
 - JMP Avocat, référentiel Mornet 2026 : 4/7 = 20 000 à 35 000 €
 <hr><hr>
 
@@ -254,7 +284,9 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 
 **Sources :**
 - Nomenclature Dintilhac, poste « Incidence professionnelle »
+
 - Référentiel Mornet 2024 : 10 000 à 80 000 €
+
 - Méthode BIBAL (Maître Frédéric BIBAL)
 
 > *« La victime d'un dommage corporel peut demander la capitalisation de sa perte de revenus professionnels futurs, sans que l'assureur ne puisse imposer un placement ou un mode de gestion particulier des sommes allouées. »* <br>
@@ -278,7 +310,9 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 
 **Justification :**
 - Guitare : impossibilité de flexion de l'index = impossibilité de jouer accords et arpèges
+
 - Pronostic neurologique souvent partiel
+
 - Autres activités : développement personnel, gaming, bricolage
 
 **Proposition : 5 000 €** (guitare 3 000 € + autres agréments 2 000 €)
@@ -332,8 +366,11 @@ Ce poste avait été omis dans le dossier initial.
 
 **Calcul technique :**
 - Période : 56 jours d'ITT avec incapacité fonctionnelle de la main droite dominante
+
 - Taux horaire : 12-15 €/h (tarif moyen aide à domicile non médicalisée)
+
 - Volume : ~2-3 h/semaine (courses, ménage lourd, préparation repas)
+
 - Total : 8 semaines × 2,5 h × 13,50 € = **~2 000 €** (fourchette 1 500-3 000 €)
 
 **Justification :** Un informaticien droitier avec section tendineuse et nerveuse de l'index dominant ne peut assurer les tâches nécessitant la préhension fine (courses, cuisine, ménage) pendant la durée de l'ITT. Ce poste avait été omis dans les évaluations initiales.
@@ -433,10 +470,15 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Procédure :**
 - Délai : 3 ans à compter de l'infraction (29 mai 2029)
+
 - Compétence : CIVI du TJ de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md) (domicile) ou de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) (lieu infraction)
+
 - Requête écrite au greffe de la CIVI avec tous justificatifs
+
 - Offre du FGTI sous 2 mois
+
 - Versement : la CIVI homologue, le FGTI paie
+
 - Montant : **réparation intégrale** du préjudice corporel
 
 **Avantage décisif :** Le FGTI verse l'indemnisation même si la SAS est insolvable, puis exerce son recours subrogatoire contre les responsables.
@@ -446,9 +488,13 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Avantages :**
 - Déclenche l'action publique
+
 - Décision pénale constatant la culpabilité
+
 - Provision possible dans le cadre de l'information judiciaire
+
 - Décision pénale définitive = titre exécutoire
+
 - Permet d'activer le SARVI
 <hr><hr>
 
@@ -467,6 +513,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 > **Code de commerce > Partie législative > Livre VI : Des difficultés des entreprises > Titre II : De la sauvegarde > Chapitre II : De l'entreprise au cours de la période d'observation.[^19]**
 
 - Créance chirographaire (non privilégiée)
+
 - Intérêt : constater l'insolvabilité → facilite accès CIVI
 <hr><hr>
 
@@ -523,8 +570,11 @@ Trois évaluations convergent vers une provision minimale de **10 000 à 15 000 
 ## V.2 — JUSTIFICATION DE L'URGENCE
 
 - **Capital de la SAS :** 200 € seulement
+
 - **Absence d'assurance RC identifiée** à ce stade
+
 - **Expertise UMJ prévue le 12 novembre 2026** — nécessité de fonds pour contre-expertise
+
 - **Rééducation en cours** — frais médicaux non remboursés
 <hr><hr>
 

@@ -47,12 +47,19 @@ La présente synthèse répond en outre aux questions pratiques que la victime e
 <hr><hr>
 
 - [I. PRÉSENTATION GÉNÉRALE DE L'AFFAIRE](#i-prsentation-gnrale-de-laffaire)
+
 - [II. FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE](#ii-foire-aux-questions-faq-dtaille)
+
   - [Q : DANS QUELLES CIRCONSTANCES L'ACCIDENT S'EST-IL PRODUIT ?](#q-dans-quelles-circonstances-laccident-sest-il-produit)
+
   - [Q : QUELLE EST LA GRAVITÉ DES LÉSIONS SUBIES ?](#q-quelle-est-la-gravit-des-lsions-subies)
+
   - [Q : LE GÉRANT PEUT-IL REFUSER DE ME DONNER LE NOM DE SA COMPAGNIE D'ASSURANCE ?](#q-le-grant-peut-il-refuser-de-me-donner-le-nom-de-sa-compagnie-dassurance)
+
   - [Q : QUELLES SONT LES OBLIGATIONS DE DÉCLARATION DE LA SOCIÉTÉ SUITE À L'ACCIDENT ?](#q-quelles-sont-les-obligations-de-dclaration-de-la-socit-suite-laccident)
+
 - [III. STRATÉGIE JURIDIQUE ET RESPONSABILITÉS](#iii-stratgie-juridique-et-responsabilits)
+
 - [IV. DÉMARCHES ET PROCÉDURES ENGAGÉES](#iv-dmarches-et-procdures-engages)
   [V. CALENDRIER ET DÉLAIS DE PROCÉDURE](#v-calendrier-et-dlais-de-procdure)
 - [VI. POINTS DE VIGILANCE ET CONCLUSION](#vi-points-de-vigilance-et-conclusion)

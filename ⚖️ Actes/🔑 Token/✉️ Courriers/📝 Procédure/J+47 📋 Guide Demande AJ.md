@@ -51,17 +51,25 @@ jx: J+47
 ### Obligatoires
 
 - [ ] **Formulaire CERFA n° 16146*03** (disponible au greffe du TJ ou sur `justice.fr`)
+
 - [ ] **Avis d'imposition N-1** le plus récent (obligatoire)
+
 - [ ] **Déclarations URSSAF des 12 derniers mois** (justificatif revenus micro-entrepreneur — obligatoire)
+
 - [ ] **Attestation de non-imposition** si applicable (obligatoire si non-imposé)
+
 - [ ] **Pièce d'identité** en cours de validité (CNI ou passeport)
+
 - [ ] **Justificatif de domicile** de moins de 3 mois (facture EDF, quittance loyer, attestation hébergement)
 
 ### Recommandés
 
 - [ ] **Relevé bancaire** des 3 derniers mois (facultatif mais utile)
+
 - [ ] **Récépissé de dépôt de la requête Art. 145 CPC** (si déjà déposée le même jour)
+
 - [ ] **Certificats médicaux** (pour justifier l'urgence — traitement accéléré)
+
 - [ ] **Courrier expliquant la situation** (optionnel — peut accélérer)
 <hr><hr>
 
@@ -70,6 +78,7 @@ jx: J+47
 ### Section "Identité"
 
 - Nom, prénom, date et lieu de naissance, nationalité
+
 - Adresse complète
 
 ### Section "Situation familiale"
@@ -79,14 +88,19 @@ jx: J+47
 ### Section "Ressources"
 
 - **Revenus professionnels** : déclarer le CA micro-entrepreneur (case "BIC/BNC/BA")
+
 - **Revenus fonciers** : aucun (sauf si vous en avez)
+
 - **Prestations sociales** : le cas échéant (RSA, AAH, etc.)
 
 ### Section "Objet de la demande"
 
 - **Cocher :** "Bénéficier de l'aide juridictionnelle pour une procédure"
+
 - **Nature de l'affaire :** "Demande d'indemnisation pour accident corporel — responsabilité civile"
+
 - **Juridiction :** "Tribunal judiciaire de Foix"
+
 - **Partie dans la procédure :** "Demandeur"
 
 ### Section "Urgence"
@@ -117,7 +131,9 @@ Avenue Paul Laffont
 3. Remettre le dossier complet
 4. **Demander un récépissé de dépôt** avec :
    - La date de dépôt
+
    - Le numéro d'enregistrement
+
    - Le cachet du BAJ
 5. **Demander un traitement accéléré** : expliquer que les preuves vidéos risquent d'être détruites avant le 15 août
 6. Demander un délai estimatif de traitement
@@ -125,7 +141,9 @@ Avenue Paul Laffont
 ### Délais
 
 - **Standard** : 2 à 6 semaines
+
 - **Accéléré** : possible sous 2-3 semaines si motif urgent établi
+
 - Si pas de réponse sous 2 mois : considéré comme **rejet implicite** → possibilité de recours
 <hr><hr>
 
@@ -138,16 +156,23 @@ Avenue Paul Laffont
 3. L'avocat vous contacte pour prendre le dossier
 4. L'avocat peut désormais :
    - Signifier l'assignation en référé-provision (15 000 €)
+
    - Demander une expertise médicale judiciaire
+
    - Reprendre l'Art. 145 CPC pour le fond
 
 ### Si l'AJ est refusée
 
 - Motifs possibles : revenus sous-évalués, patrimoine non déclaré, procédure sans fondement
+
 - Recours possible dans le mois suivant la notification
+
 - Solutions alternatives :
+
   - Médiation gratuite (CIAS, conciliateur de justice)
+
   - Défense seul pour les actes sans représentation obligatoire
+
   - Association d'aide aux victimes (France Victimes 09)
 <hr><hr>
 
@@ -156,6 +181,7 @@ Avenue Paul Laffont
 ### Ordre recommandé
 
 1. **D'abord au greffe civil** (rez-de-chaussée) : déposer la requête Art. 145 CPC → récépissé
+
 2. **Ensuite au BAJ** (même bâtiment) : déposer la demande d'AJ → récépissé
 
 ### À dire pour l'urgence
@@ -165,13 +191,18 @@ Avenue Paul Laffont
 ### Ne pas oublier
 
 - [ ] Remplir le formulaire AVANT le départ
+
 - [ ] Faire des **photocopies** de toutes les pièces (garder les originaux)
+
 - [ ] Prendre un **carnet** pour noter les numéros de dossier
+
 - [ ] **Conserver précieusement** les récépissés
 
 <hr><hr>
 
 **📞 Contacts utiles :**
 - BAJ du TJ de Foix : 05 61 65 38 00
+
 - Site AJ en ligne : `www.justice.fr/aide-juridictionnelle`
+
 - Formulaire CERFA : `www.service-public.fr` → "Aide juridictionnelle"

@@ -30,16 +30,27 @@ Le présent plan d'action et chronologie de la procédure a été établi par [*
 <hr><hr>
 
 - [I. CHRONOLOGIE ET PLAN D'ACTION](#i-chronologie-et-plan-daction)
+
 - [ACTIONS URGENTES ET PHASE AMIABLE (JUIN 2026)](#actions-urgentes-et-phase-amiable-juin-2026)
+
 - [PROCÉDURES JUDICIAIRES ET EXPERTISE (JUILLET - DÉCEMBRE 2026)](#procdures-judiciaires-et-expertise-juillet---dcembre-2026)
+
 - [II. FONDEMENTS JURIDIQUES](#ii-fondements-juridiques)
+
 - [RESPONSABILITÉ CIVILE ET ACTION DIRECTE](#responsabilit-civile-et-action-directe)
+
 - [RESPONSABILITÉ DES DIRIGEANTS ET MESURES D'INSTRUCTION](#responsabilit-des-dirigeants-et-mesures-dinstruction)
+
 - [III. INVENTAIRE DES PIÈCES](#iii-inventaire-des-pices)
+
   - [A. PREUVES MÉDICALES ET ADMINISTRATIVES](#a-preuves-mdicales-et-administratives)
+
   - [B. PREUVES MATÉRIELLES ET TÉMOIGNAGES](#b-preuves-matrielles-et-tmoignages)
+
 - [IV. CONTACTS ET ANNUAIRES](#iv-contacts-et-annuaires)
+
 - [Autorités Judiciaires et Policières à [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)](#autorits-judiciaires-et-policires-la-ville-de-laccident)
+
 - [SERVICES JURIDIQUES ET DE SANTÉ](#services-juridiques-et-de-sant)
 <hr><hr>
 

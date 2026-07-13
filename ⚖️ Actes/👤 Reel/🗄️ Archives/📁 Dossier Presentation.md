@@ -23,9 +23,13 @@ drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
 **Table des matières**
 
 - [INTRODUCTION](#introduction)
+
 - [Synthèse des faits, pièces administratives et stratégie de recouvrement - Affaire Sébastien GRAZIDE](#synthse-des-faits-pices-administratives-et-stratgie-de-recouvrement---affaire-la-victime)
+
 - [I. STRATÉGIE DE RECOUVREMENT DES HONORAIRES PAR SUBROGATION ET PROTECTION FINANCIÈRE DE LA VICTIME](#i-stratgie-de-recouvrement-des-honoraires-par-subrogation-et-protection-financire-de-la-victime)
+
 - [II. EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE](#ii-expos-factuel-des-faits-et-de-la-procdure-chronologique)
+
 - [III. ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES](#iii-actions-engages-et-bordereau-des-pices)
 
 # DOSSIER DE PRÉSENTATION : DESTINÉ AU CONSEIL JURIDIQUE
@@ -90,11 +94,17 @@ Sébastien GRAZIDE agit actuellement en son nom propre et a formalisé les déma
 > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
 > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^4]**
 - Pièce 02 - Rapport d'expertise juridique (Deep Research) : Note théorique sur la faute détachable du dirigeant et l'action directe.
+
 - Pièce 03 - Étude de l'Indemnisation Maximale : Évaluation chiffrée prospective.
+
 - Pièce 04 (Courrier 1) - Mise en demeure SAS (SAS LES MAUVAIS GARCONS) : Demandant à l'exploitant de déclarer le sinistre.
+
 - Pièce 05 (Courrier 2) - Action Directe et Mise en demeure Assureur RC.
+
 - Pièce 06 (Acte 3) - Assignation en référé provision (Tribunal de Foix) : Modèle d'assignation pour provision de 5 000 €.
+
 - Pièce 08 (Courrier 3) - Demande d'assurance au Propriétaire des murs (Romain DELRIEU).
+
 - Pièce 09 (Courrier 4) - Mise en demeure de communication d'assurance (destinée à l'adresse personnelle de Sabir MOUNTASSER).
 
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>

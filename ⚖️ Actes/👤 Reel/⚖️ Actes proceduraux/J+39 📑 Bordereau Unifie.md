@@ -42,6 +42,7 @@ jx: J+39
 ### PIÈCE N° 5
 
 - [2 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Réquisition judiciaire à personne (Police Nationale, Agent Jordy RODRIGUEZ CAPARROS) : Réquisition pour examen médical par l'UMJ de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md) sur le fondement des Art. 41 et 77-1 CPP. Rendez-vous fixé au [12 novembre 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) à 13h45**.
+
 - [2 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Retranscription téléphonique de la prise de rendez-vous UMJ : Confirmation du rendez-vous du [12 novembre 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) à [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md), instructions sur les documents à apporter.
 <hr><hr>
 
@@ -143,24 +144,31 @@ jx: J+39
 ### PIÈCE N° 27
 
 - [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) — Frais de séjour SOS Main (GHS) : Frais de séjour et soins [dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+
 - [10 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md) — Relevé de prestations CPAM : Enregistrement de l'acte de chirurgie (ADC) du [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md).
 
 ### PIÈCE N° 28
 
 - [16 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-18-incoherence-cpam.md) — Demande de renseignements CPAM ([Sigrid DESBOIS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-gestionnaire-cpam.md)) : INCOHÉRENCE — dossier n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) erroné]** au lieu du n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+
 - **18/06/2026** — Note de cadrage médico-légale : Confirmation de la zone lésée (index droit) et du [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md).
+
 - [19 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-21-controle-chirurgical.md) — Rectification du [compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) : Index droit rétabli, date du [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) confirmée.
 
 ### PIÈCE N° 29
 
 - [3 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-5-ouverture-cpam.md) — Envoi des volets 1 et 2 d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) : Correction manuelle de l'erreur de date.
+
 - **05/06/2026** — Déclaration de sinistre corporel aux assurances privées (limite légale de 5 jours).
+
 - [23 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-25-premiere-kine.md) — Première séance de rééducation spécialisée de la main (SOS Main).
 
 ### PIÈCE N° 30
 
 - **Sans date** — Pansements post-chirurgicaux lourds toutes les 48 heures (Cabinet infirmier [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md)).
+
 - **12/06/2026** — Consultation de contrôle ([Dr Oxybel](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-medecin-generaliste.md)) : Planification de la prolongation d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
+
 - [23 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-25-premiere-kine.md) — Consultation de contrôle post-opératoire ([Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md)) : Bonne évolution cicatricielle, déficit neurologique noté.
 
 ### PIÈCE N° 31
@@ -186,6 +194,7 @@ jx: J+39
 ### PIÈCE N° 36
 
 - **Sans date** — Analyse de sinistre corporel : Vasque céramique avec cassure préexistante tranchante (index droit impacté).
+
 - [2 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Remboursement de prestations CPAM : Part complémentaire pour les soins du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md).
 
 ### PIÈCE N° 37
@@ -195,7 +204,9 @@ jx: J+39
 ### PIÈCE N° 38
 
 - **26/01/1993** — Cour de cassation (Ch. Com.) : [Arrêt n° 91-11.285](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007030228)[^1] — survie de la personnalité morale d'une société pour les besoins de sa liquidation.
+
 - **14/12/2001** — Cour de cassation (Ass. Plén.) : Arrêt Cousin (n° 00-82.066) — levée de l'immunité du préposé en cas d'infraction pénale intentionnelle.
+
 - **20/05/2003** — Cour de cassation (Ch. Com.) : Arrêt SATI (n° 99-17.092) — définition de la faute détachable du dirigeant.
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>

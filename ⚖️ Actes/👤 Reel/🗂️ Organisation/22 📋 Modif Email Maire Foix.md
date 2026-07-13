@@ -16,7 +16,9 @@ Ce plan vise à corriger la formulation de l'e-mail pour éliminer tout terme in
 ## I — Objectifs de la réécriture
 
 *   **Supprimer l'expression « bruits de couloir »** et toute conclusion prématurée.
+
 *   **Formuler une demande claire d'intervention sur site** par des agents assermentés (policiers municipaux).
+
 *   **Définir les points de contrôle demandés** :
     1.  Constater la présence physique de l'exploitant réel actuel et son identité (statut, Kbis, affichage obligatoire).
     2.  Vérifier l'état de l'équipement litigieux (présence ou absence de la vasque en céramique endommagée).

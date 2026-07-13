@@ -22,14 +22,23 @@ drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
 **Table des matières**
 
 - [INTRODUCTION](#introduction)
+
 - [*AUDIT STRATÉGIQUE ET RESTRUCTURATION DE L'ARSENAL CONTENTIEUX*](#audit-stratgique-et-restructuration-de-larsenal-contentieux)
+
 - [I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL](#i-prsentation-du-litige-et-contexte-factuel)
+
 - [II. CADRE JURIDIQUE DE LA RESPONSABILITÉ](#ii-cadre-juridique-de-la-responsabilit)
+
   - [A. RESPONSABILITÉ DE PLEIN DROIT ET OBLIGATION DE SÉCURITÉ](#a-responsabilit-de-plein-droit-et-obligation-de-scurit)
+
   - [B. LA FAUTE DÉTACHABLE DES DIRIGEANTS](#b-la-faute-dtachable-des-dirigeants)
+
 - [III. MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE](#iii-mcanismes-dindemnisation-et-action-directe)
+
   - [A. SURVIE DE LA PERSONNALITÉ MORALE ET ACTION DIRECTE](#a-survie-de-la-personnalit-morale-et-action-directe)
+
   - [B. ÉVALUATION DU PRÉJUDICE ET LIBRE DISPOSITION DES FONDS](#b-valuation-du-prjudice-et-libre-disposition-des-fonds)
+
 - [IV. PLAN D'ACTION CONTENTIEUX](#iv-plan-daction-contentieux)
 
 # **MÉMORANDUM JURIDIQUE : AFFAIRE [LA VICTIME]**

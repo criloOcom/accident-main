@@ -23,8 +23,11 @@ jx: J+38
 ## I — DOCUMENTS À IMPRIMER (2 EXEMPLAIRES CHACUN)
 
 - **Courrier au Doyen des Juges d'Instruction** — *`reel/✉️ Courriers/10 ✉️ Courrier Doyen Juges Instruction.md`* — 2 (1 envoi + 1 copie)
+
 - **[Constitution de Partie Civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** — *`reel/⚖️ Actes proceduraux/02b 🛡️ Constitution Partie Civile.md`* — 2 (1 envoi + 1 copie)
+
 - **Bordereau de pièces CPC** — *(inclus dans le document #2)*
+
 - **Copies des 6 pièces justificatives** (voir liste ci-dessous)** — 1 jeu complet
 <hr><hr>
 
@@ -52,15 +55,22 @@ jx: J+38
 ## IV — INSTRUCTIONS
 
 1. **Imprimer** chaque document en A4, police Arial (ou équivalent lisible)
+
 2. **Signer** la CPC + le courrier au Doyen (signature manuscrite en bas)
+
 3. **Faire** un jeu de photocopies complet pour vous (votre copie personnelle)
+
 4. **Envoyer** le tout en LRAR au Doyen des Juges d'Instruction de [La Ville de l'Accident]
+
 5. **Conserver** l'Accusé de Réception (AR) dans la chemise « Preuves d'envoi »
 <hr><hr>
 
 ## V — RAPPELS
 
 - **Délai de réponse** du juge d'instruction : 1 à 3 mois
+
 - **Consignation** possible (art. 88 CPP) : solliciter l'exemption compte tenu de la situation financière
+
 - L'envoi de la CPC déclenche **l'ouverture d'une信息 judiciaire** et l'attribution d'un juge d'instruction
+
 - Conserver précieusement le récépissé de dépôt LRAR

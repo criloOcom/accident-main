@@ -70,7 +70,9 @@ Il est donc impératif de déposer une requête motivée auprès du Juge de l'Ex
 Afin de préserver les droits de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), il est fortement recommandé de diligenter au plus vite une procédure sur requête aux fins d'être autorisé par le Juge de l'Exécution à faire pratiquer par un Commissaire de Justice :
 
 - Une saisie conservatoire des comptes bancaires de la partie adverse ;
+
 - 
+
 - Une saisie conservatoire des meubles corporels garnissant les locaux d'exploitation.
 
 La constitution sans délai d'un dossier probant démontrant la menace pesant sur le recouvrement est l'étape préalable et indispensable à la réussite de cette démarche.

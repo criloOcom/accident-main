@@ -88,9 +88,13 @@ Les décisions suivantes établissent des précédents juridiques pertinents pou
 ### Décision 1: CC CIV1, 1965-04-30
 
 - **ID** : `607940be9ba5988459c3dbd0`
+
 - **Solution** : Rejet
+
 - **Résumé** : UN ENFANT AYANT ETE BLESSE A LA TETE, AU COURS D'UNE LECON D'EQUITATION DANS UN MANEGE, PAR UNE RUADE DE SON CHEVAL ALORS QU'IL VENAIT DE METTRE PIED A TERRE SUR L'ORDRE DU MONITEUR, LES JUGES DU FOND...
+
 - **Lien** : [Consulter sur Judilibre](https://www.legifrance.gouv.fr/juri/id/607940be9ba5988459c3dbd0)[^2]
+
 - **Annexe** : [Texte intégral en ANNEXE 1](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/63-13.613_CourCassation.md)
 
 **Pertinence** : Cette décision établit un précédent important concernant la responsabilité des professionnels pour les accidents survenant dans leurs établissements, soulignant l'obligation de sécurité et de vigilance particulière due aux clients.
@@ -98,9 +102,13 @@ Les décisions suivantes établissent des précédents juridiques pertinents pou
 ### Décision 2: CC CIV1, 1994-07-08
 
 - **ID** : `60794c949ba5988459c4612e`
+
 - **Solution** : Cassation
+
 - **Résumé** : Les notaires, qui ayant remis à une commerçante le prix de vente de son fonds de commerce sans tenir compte de l'opposition faite entre leurs mains, versent au créancier une partie de la somme qu'il a...
+
 - **Lien** : [Consulter sur Judilibre](https://www.legifrance.gouv.fr/juri/id/60794c949ba5988459c4612e)[^3]
+
 - **Annexe** : [Texte intégral en ANNEXE 2](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/90-14.591_CourCassation.md)
 
 **Pertinence** : Cette décision illustre le principe de subrogation légale en matière de responsabilité professionnelle, montrant comment les professionnels et leurs assureurs peuvent être subrogés dans les droits des créanciers.
@@ -108,9 +116,13 @@ Les décisions suivantes établissent des précédents juridiques pertinents pou
 ### Décision 3: CC CIV1, 2012-07-04
 
 - **ID** : `607975719ba5988459c49ee3`
+
 - **Solution** : Rejet
+
 - **Résumé** : Seule la valeur patrimoniale des parts sociales, souscrites pendant la durée du mariage par un époux, qui a seul la qualité d'associé, entre en communauté et ces parts ne peuvent qu'être attribuées au...
+
 - **Lien** : [Consulter sur Judilibre](https://www.legifrance.gouv.fr/juri/id/607975719ba5988459c49ee3)[^4]
+
 - **Annexe** : [Texte intégral en ANNEXE 3](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20des%20dirigeants/11-13.384_CourCassation.md)
 
 **Pertinence** : Cette décision traite de la nature des parts sociales et de leur évaluation, illustrant les principes juridiques concernant la valeur patrimoniale et la responsabilité des associés dans le secteur de la coiffure.
@@ -337,17 +349,29 @@ Pour [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%2
 ## BORDEREAU DES PIÈCES INVOQUÉES
 
 - **Pièce n°1 :** Procès-verbal de police n° [2026/015967](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (Police Nationale [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md)) — dépôt de plainte pour blessures involontaires
+
 - **Pièce n°2 :** [Certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) constatant les blessures, rédigé par [Dr Julie JARDON](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-medecin-en-urgence.md) ([29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
+
 - **Pièce n°3 :** [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) ([30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md))
+
 - **Pièce n°4 :** Certificats médicaux d'[arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 56 jours d'ITT
+
 - **Pièce n°5 :** Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
+
 - **Pièce n°6 :** Preuves de l'opération de paiement Wero de [15,00 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prestation-salon.md) ([29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
+
 - **Pièce n°7 :** Facture de pharmacie post-opératoire ([29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
+
 - **Pièce n°8 :** Facture de chirurgie SOS Main ([790,23 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-facture-chirurgie.md)) ([10 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md))
+
 - **Pièce n°9 :** Dossier de Recours Contre Tiers (RCT) CPAM
+
 - **Pièce n°10 :** LRAR de mise en demeure adressée à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) ([29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+
 - **Pièce n°11 :** LRAR de mise en demeure adressée à [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) ([29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+
 - **Pièce n°12 :** LRAR de mise en demeure adressée à [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) ([29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+
 - **Pièce n°13 :** LRAR adressée à [Romain DELRIEU](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-proprietaire-des-murs.md) et son AR signé ([3 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-35-ar-proprietaire.md))
 <hr><hr>
 

@@ -72,17 +72,21 @@ Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le
 1. **État dangereux des équipements**
 
    - La vasque en céramique du bac à shampoing présentait une **cassure majeure préexistante** aux arêtes tranchantes, maintenue en service sans signalisation ni protection.
+
    - Aucun dispositif n'avait été mis en place par l'exploitant pour prévenir le risque de blessure pour la clientèle.
+
    - Ce défaut d'entretien me paraît contraire aux obligations de prudence et de sécurité applicables aux établissements recevant du public.
 
 2. **Absence de moyens adaptés**
 
    - Le préposé a dû escalader la vasque instable pour accéder au poste de télévision, faute d'escabeau ou d'échelle mis à disposition par l'employeur.
+
    - Cette absence de moyens me semble révéler un manquement aux mesures nécessaires pour assurer la sécurité des personnes présentes dans l'établissement.
 
 3. **Conséquences**
 
    - L'accident a entraîné une **plaie palmaire profonde de 8,5 cm** avec section partielle du tendon fléchisseur et du paquet vasculo-nerveux de l'index droit, nécessitant une microchirurgie d'urgence.
+
    - L'incapacité totale de travail (ITT) a été fixée à **56 jours**, durée inférieure ou égale à trois mois au sens de l'article 222-20 du Code pénal.
 
 Il appartiendra à l'enquête et, le cas échéant, à la juridiction saisie, de déterminer si les manquements constatés constituent une violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité au sens de l'article 222-20 du Code pénal, ou une autre qualification que les circonstances pourraient justifier.
@@ -99,7 +103,9 @@ Il appartiendra à l'enquête et, le cas échéant, à la juridiction saisie, de
 1. **Refus de communiquer l'attestation d'assurance RC**
 
    - En date du 29 mai 2026, j'ai adressé par LRAR une mise en demeure aux dirigeants de la SAS pour obtenir les coordonnées de leur assureur RC.
+
    - Ces courriers m'ont été retournés avec la mention "défaut d'adresse / distribution impossible", alors que la société est toujours officiellement immatriculée à cette adresse (vérification RNE/INPI du 10 juillet 2026).
+
    - Ce refus de communiquer une information essentielle à l'indemnisation me semble susceptible de constituer une **dissimulation d'un document de nature à faciliter la recherche des preuves**.
 
 2. **Absence de suite donnée à la demande de conservation des enregistrements de vidéosurveillance**
@@ -113,7 +119,9 @@ Or, à défaut d'intervention spécifique, les enregistrements de vidéosurveill
 3. **Société injoignable malgré une immatriculation active**
 
    - La SAS est officiellement active selon le RNE, mais aucun représentant légal n'est joignable à l'adresse déclarée.
+
    - Les courriers recommandés sont systématiquement retournés NPAI.
+
    - Cette situation me semble de nature à entraver la manifestation de la vérité.
 
 Il appartiendra à l'enquête de déterminer si ces comportements sont constitutifs de l'infraction prévue à l'article 434-4 du Code pénal.
@@ -148,19 +156,25 @@ Au vu des éléments ci-dessus exposés, je sollicite respectueusement qu'il soi
 ### 1. Conservation et exploitation des éléments de preuve
 
 - Qu'il soit recherché si des enregistrements de vidéosurveillance relatifs à la période de l'accident sont encore disponibles auprès de l'exploitant, et, dans l'affirmative, qu'ils soient conservés et versés à la procédure afin de documenter précisément la scène.
+
 - Qu'il soit vérifié, le cas échéant, quelles mesures ont été prises (ou non) par l'exploitant à la suite de ma demande formelle de conservation des enregistrements, notamment quant au risque de suppression automatique des images.
+
 - Qu'il soit pris acte des difficultés rencontrées pour joindre les dirigeants (courriers recommandés revenus NPAI, société déclarée active mais injoignable à l'adresse officielle) en tant qu'éléments de contexte sur l'accès aux preuves et aux informations.
 
 ### 2. Identification des personnes responsables et du cadre d'exploitation
 
 - Qu'il puisse être procédé à l'audition des personnes travaillant ou ayant travaillé dans le salon, afin de préciser leurs fonctions, leurs conditions d'emploi et leur rôle au moment de l'accident.
+
 - Qu'il soit vérifié, auprès des registres compétents (RNE/INPI, URSSAF, etc.), la réalité des déclarations de salariés de la SAS ainsi que l'identité et l'adresse actuelle de ses dirigeants effectifs.
+
 - Qu'il soit recherché l'existence et les coordonnées de l'assureur en responsabilité civile de l'établissement, et, le cas échéant, les déclarations de sinistre éventuellement effectuées à la suite de l'accident.
 
 ### 3. Vérification des conditions matérielles de sécurité
 
 - Qu'un constat puisse être réalisé, si cela est encore possible, de l'état de la vasque de shampooing et des équipements en place (ou de ceux qui les ont remplacés), ainsi que des éventuelles réparations ou modifications intervenues depuis l'accident.
+
 - Qu'il soit vérifié si, au moment des faits, un équipement d'accès en hauteur adapté (escabeau, marchepied, etc.) était disponible pour intervenir sur le poste de télévision, ou si, en pratique, les préposés devaient monter sur la vasque.
+
 - De manière générale, qu'il soit examiné si les conditions d'exploitation de l'établissement respectaient les obligations élémentaires de sécurité à l'égard du public et des personnes amenées à y travailler.
 
 <hr><hr>
@@ -235,25 +249,33 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de P
 ### Code pénal
 
 - **Article 222-20** : Blessures involontaires par violation manifestement délibérée d'une obligation de prudence/sécurité (ITT ≤ 3 mois)
+
 - **Article 121-3** : Principe de responsabilité pénale — faute d'imprudence, négligence, manquement à une obligation de prudence/sécurité
+
 - **Article 434-4** : Obstruction à la justice — entrave à la manifestation de la vérité (altération, destruction, dissimulation de preuves)
+
 - **Article 441-7** : Faux témoignage
 
 ### Code du travail
 
 - **Article L. 4121-1** : Obligation générale de sécurité de l'employeur
+
 - **Article L. 8221-1** : Interdiction du travail dissimulé
+
 - **Article L. 8221-3** : Définition du travail dissimulé par dissimulation d'activité
 
 ### Code des assurances
 
 - **Article L. 124-3** : Action directe de la victime contre l'assureur
+
 - **Article L. 113-2** : Obligation de déclaration de sinistre
 
 ### Code de procédure pénale
 
 - **Article 15-3** : Information de la victime sur les suites données
+
 - **Article 53** : Pouvoirs de l'Officier de Police Judiciaire
+
 - **Article 75** : Enquête de flagrance
 <hr><hr>
 

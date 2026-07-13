@@ -34,7 +34,9 @@ Je me permets de vous solliciter pour remplir une **attestation de témoin** (Ce
 Votre témoignage est **très important** car il permettra de :
 
 - Établir la réalité des faits (basculement, cassure préexistante)
+
 - Confirmer l'absence d'équipement adapté (escabeau) pour accéder en hauteur
+
 - Contredire d'éventuelles contestations sur le déroulement de l'accident
 
 **Comment procéder ?**

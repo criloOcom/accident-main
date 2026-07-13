@@ -65,8 +65,11 @@ Conformement a l'article 145 du Code de procedure civile, il existe un motif leg
 Le salon de coiffure est toujours en activite a la date de la presente requete. Neanmoins :
 
 - La SAS presente un risque eleve de dissolution ou liquidation volontaire (capital social 200 €, dirigeants non repondants)
+
 - Les equipements litigieux (bac a shampoing en ceramique) pourraient etre remplaces, deplaces ou retrocedes
+
 - Le systeme de videoprotection pourrait voir ses enregistrements ecrases par ecoulement du temps
+
 - L'etat des lieux pourrait etre modifie par l'exploitant
 
 **2. Preuves a constater**
@@ -74,9 +77,13 @@ Le salon de coiffure est toujours en activite a la date de la presente requete. 
 Le constat d'huissier devra porter sur :
 
 - **L'etat du bac a shampoing** : dimensions, materiaux, presence de cassure(s), stabilite, installation au sol
+
 - **La hauteur du poste de television** : mesurer la distance entre le sol et le poste, absence d'escabeau
+
 - **Le systeme de videoprotection** : existence, nombre de cameras, angle de prise de vue, duree de conservation des enregistrements
+
 - **L'affichage obligatoire** : presence ou absence des affichages legaux (horaires, DUERP, consignes, convention collective)
+
 - **L'etat general des lieux** : organisation du salon, equipements de securite
 <hr><hr>
 
@@ -98,12 +105,19 @@ Par ces motifs, le requerant sollicite de Monsieur le President du Tribunal Judi
 **1. DESIGNER** tel Commissaire a l'execution de la preuve, Huissier de Justice de son ressort, avec mission de :
 
 - Se rendre au salon de coiffure situe 22 Rue Lafaurie, 09000 Foix
+
 - Constater l'etat, les dimensions, la stabilite et les eventuelles cassures du bac a shampoing
+
 - Mesurer la hauteur du poste de television et constater l'absence ou la presence d'escabeau
+
 - Verifier l'existence et le fonctionnement du systeme de videoprotection
+
 - Constater la presence ou l'absence des affichages obligatoires
+
 - Decrire l'etat general des lieux
+
 - Prendre toute photographie utile au constat
+
 - Se faire assister d'un serrurier en cas de besoin
 
 **2. DIRE** que les operations pourront etre effectuees meme en l'absence du responsable de l'etablissement

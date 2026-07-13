@@ -27,24 +27,32 @@ jx: J+60
 
 **PARTIES AU LITIGE :**
 - **Demandeur :** [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), informaticien indépendant
+
 - **Défendeurs :** [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), ainsi que ses dirigeants [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md)
 
 **OBJET DE LA DEMANDE :**
 - Allocation d'une provision ad litem à valoir sur la réparation du préjudice corporel
+
 - Communication sous astreinte de l'attestation d'assurance responsabilité civile professionnelle
+
 - Condamnation in solidum des défendeurs
 
 **ÉVÉNEMENT :** Accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md). Basculement d'un équipement défectueux causant une section nerveuse et tendineuse à la main droite de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md).
 
 **MONTANTS EN JEU :**
 - Évaluation globale provisoire du préjudice : ~90 000 €
+
 - Demande de provision en référé : 15 000 €
+
 - Frais irrépétibles (Article 700 du CPC) : 3 000 €
 
 **PIÈCES CLÉS DU DOSSIER :**
 - **Pièce ACQ-10 :** Procès-verbal de constat de police confirmant les circonstances matérielles ([2 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md))
+
 - **Pièce ACQ-09 :** Dépôt de plainte officiel formalisant l'infraction pénale ([1 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md))
+
 - **Pièce ACQ-04 :** [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) attestant de la section tendineuse et nerveuse ([30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md))
+
 - **Pièce ACQ-17 :** Mises en demeure par Lettres Recommandées avec Accusé de Réception ([29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
 <hr><hr>
 
@@ -53,10 +61,15 @@ jx: J+60
 *Rappel des dates clés démontrant l'urgence et la gravité de la situation.*
 
 - **[J+0 Accident] :** Date de l'accident au sein de l'établissement [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md). Le préposé [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-prepose-de-l-exploitation.md) monte sur la vasque du bac à shampoing qui bascule. En tentant de le protéger par réflexe, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) heurte une cassure tranchante préexistante de la vasque. Section des tendons et nerfs de l'index droit.
+
 - **[J+1 Chirurgie] :** Intervention en urgence de microchirurgie à la [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-etablissement-sos-main.md) par [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md).
+
 - **1er juin 2026 :** Dépôt de plainte officiel par la victime (Pièce ACQ-09).
+
 - **[J+31 Mises en demeure] :** Envoi des Mises en demeure (LRAR) visant à obtenir l'attestation d'assurance de la SAS (Pièce ACQ-17). Silence radio des dirigeants.
+
 - **[J+37 Assignation 145] :** Signalements administratifs effectués auprès des diverses autorités (Inspection du Travail, CODAF, etc.) face au refus persistant de coopération de l'employeur.
+
 - **Date non fixée (à planifier) :** Date de la présente audience de référé pour obtenir l'indemnisation provisionnelle et forcer la communication de la couverture assurantielle.
 <hr><hr>
 
@@ -65,7 +78,9 @@ jx: J+60
 
 Sur le fondement de l'[Article 1242 alinéa 1er du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^1], le gardien de la chose instrument du dommage est responsable de plein droit.
 - **La vasque = chose instrument du dommage :** Son état de délabrement (cassure préexistante tranchante) et son basculement constituent le rôle actif incontestable dans la réalisation du dommage.
+
 - **La garde :** [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) est le propriétaire et l'exploitant du matériel défectueux.
+
 - **Absence d'exonération :** La réaction réflexe de sauvegarde de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) pour éviter la chute du préposé ne constitue en aucun cas une faute. Il n'y a pas non plus de force majeure invocable.
 
 ### B. ACTION DIRECTE CONTRE L'ASSUREUR (ART. L.124-3 C. ASSUR.)
@@ -80,6 +95,7 @@ La victime bénéficie d'un droit d'action directe et autonome contre l'assureur
 
 La responsabilité de [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) est directement engagée :
 - **Défaut d'assurance ou obstruction :** Conformément à l'arrêt SATI de la Cour de cassation, l'absence (ou la dissimulation) délibérée de souscription d'assurances obligatoires constitue une **faute détachable** des fonctions sociales.
+
 - **Conséquence :** La responsabilité personnelle et solidaire du Président et de la Directrice Générale sur leurs deniers propres est acquise.
 
 ### D. MANQUEMENT À L'OBLIGATION DE SÉCURITÉ
@@ -96,8 +112,11 @@ Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant 
 L'argumentation développée s'appuie sur une jurisprudence constante :
 
 - **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** [N° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)[^4]. Le préposé [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-prepose-de-l-exploitation.md) ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
+
 - **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351)[^5]. Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
+
 - **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** [N° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^6]. Le dirigeant qui commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions engage sa responsabilité personnelle. En l'espèce, l'obstruction des dirigeants et le défaut de communication caractérisent une faute détachable.
+
 - **Principe de réparation intégrale (Art. 1240 C. civ.) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), informaticien indépendant, l'incidence professionnelle est majeure.
 <hr><hr>
 

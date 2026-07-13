@@ -88,15 +88,25 @@ L'accident est survenu dans les conditions matérielles suivantes :
 Le montant total estimé de mon préjudice corporel, selon la nomenclature Dintilhac, s'élève à **~109 500 €**, se décomposant comme suit. Ces estimations de préjudices sont établies à titre purement indicatif et sous toutes réserves dans l'attente d'une expertise médicale judiciaire et de l'appréciation définitive de la CIVI et du FGTI :
 
 - Pertes de gains professionnels actuels (PGPA) : 1 900 €
+
 - Déficit fonctionnel temporaire (DFT) : 1 400 €
+
 - Incidence professionnelle (IP) : 30 000 €
+
 - Déficit fonctionnel permanent (DFP) : 31 200 €
+
 - Souffrances endurées (SE) : 24 000 €
+
 - Préjudice d'agrément : 8 000 €
+
 - Préjudice Esthétique Permanent (PEP) : 3 000 €
+
 - Frais divers (kinésithérapie, déplacements) : 2 000 €
+
 - Assistance tierce personne (ATP) : 2 000 €
+
 - Dévalorisation professionnelle (DEP) : 3 000 €
+
 - Article 700 du CPC : 3 000 €
 <hr><hr>
 

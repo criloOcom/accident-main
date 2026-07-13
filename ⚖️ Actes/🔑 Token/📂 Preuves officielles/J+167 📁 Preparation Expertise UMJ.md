@@ -21,23 +21,29 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/J+167 📁 Preparation Exper
 ### 1. DOCUMENTS D'IDENTITÉ- [ ] Carte d'identité / Passeport
 
 - [ ] Carte Vitale + attestation CPAM droit commun
+
 - [ ] Carte mutuelle
 
 ### 2. DOCUMENTS MÉDICAUX — ACCIDENT INITIAL- [ ] **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md), 30/05/2026) — microchirurgie tendons/nerfs index droit
 
 - [ ] **[Premiers soins](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** ([**[Le Médecin en Urgence]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-medecin-en-urgence.md), 29/05/2026, 16h30)
+
 - [ ] **Prescription initiale** ([**[Le Médecin en Urgence]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-medecin-en-urgence.md))
+
 - [ ] **[Ordonnance de sortie](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530-1700%20Ordonnance%20Sortie%20DrDJERBI.md)** ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md), 30/05/2026) — antalgiques
 
 ### 3. [ARRÊTS DE TRAVAIL](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)- [ ] **Arrêt initial** ([**[Le Médecin Généraliste]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-medecin-generaliste.md), 01/06/2026, 15j)
 
 - [ ] **Prolongation 1** (11j)
+
 - [ ] **Prolongation 2** (30j)
+
 - [ ] Soit total ITT : 56 jours
 
 ### 4. SUIVI ET RÉÉDUCATION- [ ] **Consultation contrôle J+24** ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) — bonne cicatrisation, déficit neurologique)
 
 - [ ] **Prescription kinésithérapie** (3 séances/semaine, pas de travail en résistance 4 semaines)
+
 - [ ] **Comptes-rendus séances kiné** (SOS Main Bâtiment B)
 
 ### 5. IMAGERIE- [ ] **Scanner / IRM main droite** (si réalisé)
@@ -47,6 +53,7 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/J+167 📁 Preparation Exper
 ### 6. AUTRES- [ ] Dépôt de plainte (01/06/2026)
 
 - [ ] Photos lésions initiales (si disponibles)
+
 - [ ] [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) (RCT **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**)
 
 ---
@@ -67,6 +74,9 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/J+167 📁 Preparation Exper
 ## POINTS À SIGNALER AU MÉDECIN UMJ1. **Profession :** Informaticien indépendant — la main droite dominante est essentielle à l'activité
 
 2. **Séquelles :** Insensibilité index droit, limitation mobilité, douleurs résiduelles
+
 3. **Rééducation :** En cours (kiné SOS Main), pronostic 1 an minimum
+
 4. **Incidence professionnelle :** Incapacité totale de travail 56 jours, reprise partielle à évaluer
+
 5. **Préjudice :** Souffrances endurées 4/7, PGPA en cours, préjudice esthétique cicatriciel

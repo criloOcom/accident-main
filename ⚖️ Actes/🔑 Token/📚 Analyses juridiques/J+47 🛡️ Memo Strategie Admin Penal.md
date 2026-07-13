@@ -89,7 +89,9 @@ ACCIDENT 29/05/2026
 ### Limites connues
 
 - Le CODAF est une cellule de **coordination interne** : il peut opposer le secret des enquêtes, le secret fiscal ou social.
+
 - L'Inspection du travail peut refuser de communiquer tant que le contrôle est en cours.
+
 - **Aucune de ces procédures ne nous indemnisera directement.**
 <hr><hr>
 
@@ -142,7 +144,9 @@ ACCIDENT 29/05/2026
 ### À NE PAS faire
 
 - Saisine FGTI (sans objet — instructions reçues le 12/07)
+
 - Action directe à un assureur non identifié
+
 - Relances agressives ou injurieuses aux administrations
 <hr><hr>
 

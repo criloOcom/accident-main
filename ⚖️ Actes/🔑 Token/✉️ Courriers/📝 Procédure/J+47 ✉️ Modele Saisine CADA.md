@@ -51,6 +51,7 @@ Je soussigné(e) [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%
 La présente saisine concerne le refus de communication de documents par :
 
 - **[la Préfecture de l'Ariège]**, 2 Rue de la Préfecture, 09000 Foix
+
 - **[et/ou la DDETS de l'Ariège — Inspection du travail]**, Cité Administrative, 2 Rue de la Préfecture, 09000 Foix
 <hr><hr>
 
@@ -68,6 +69,7 @@ Par courriers recommandés des **[dates des courriers 41 et 42]**, j'ai sollicit
 **[Supprimer la mention inapplicable]**
 
 - **Refus exprès** : Par courrier du **[date du refus]**, l'administration m'a opposé un refus au motif suivant : **[motif invoqué : secret enquête / document interne / etc.]**.
+
 - **Refus implicite** : À ce jour, soit plus de deux mois après ma demande, je n'ai reçu aucune réponse, ce qui vaut décision implicite de refus de communication (CRPA Art. L. 231-4).
 <hr><hr>
 
@@ -76,7 +78,9 @@ Par courriers recommandés des **[dates des courriers 41 et 42]**, j'ai sollicit
 Je sollicite l'avis de la Commission sur la communicabilité, à mon égard, des documents suivants :
 
 1. **Tout rapport d'enquête, compte rendu de contrôle ou procès-verbal** établi par l'Inspection du travail ou par les services de la Préfecture à la suite de l'accident du 29 mai 2026, me mentionnant nominativement comme victime ;
+
 2. **Les courriers de saisine, correspondances ou décisions** relatifs à ce dossier (lettre de la Mairie de Foix à la Préfecture, instructions de la Préfecture à l'Inspection du travail ou au CODAF, réponses de ces services), dans la mesure où ils concernent directement l'accident dont j'ai été victime ;
+
 3. **Tout document administratif achevé** produit ou reçu par l'administration dans le cadre de ce dossier et me concernant personnellement.
 
 En ma qualité de victime directement concernée, j'estime que ces documents entrent dans le champ des **articles L. 300-1 et suivants et L. 311-1 et suivants du CRPA** et qu'ils sont en principe communicables, sous réserve des occultations nécessaires pour la protection des tiers (secret des affaires, données personnelles).
@@ -93,9 +97,13 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération dist
 ## PIECES JOINTES
 
 - Copie du courrier n°41 adressé à la Préfecture de l'Ariège
+
 - Copie du courrier n°42 adressé à la DDETS — Inspection du travail
+
 - Copie des réponses reçues (si refus exprès)
+
 - Copie du courriel de M. Tavella (1er juin 2026)
+
 - Copie du PV de police n°2026/015967
 
 <hr><hr>

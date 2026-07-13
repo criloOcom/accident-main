@@ -93,14 +93,21 @@ jx: J+32
 ## III — SYNTHÈSE
 
 - **Total d'événements :** 61
+
 - **Événements passés :** 57 (dont 9 non datés)
+
 - **Échéances à venir :** 4
 
 ### DÉLAIS LÉGAUX ET CATÉGORIES- **Procédure :** 12
 
 - **Médical :** 26
+
 - **Correspondance :** 14
+
 - **Jurisprudence :** 5
+
 - **Financier :** 2
+
 - **Fait Générateur :** 1
+
 - **Échéance :** 1

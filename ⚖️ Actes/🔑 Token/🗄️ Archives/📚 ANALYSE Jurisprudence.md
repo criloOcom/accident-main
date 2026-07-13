@@ -22,14 +22,23 @@ drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
 **Table des matières**
 
 - [INTRODUCTION](#introduction)
+
 - [I. INTRODUCTION ET CONTEXTE](#i-introduction-et-contexte)
+
 - [II. ANALYSE DES FAITS GÉNÉRATEURS DE RESPONSABILITÉ](#ii-analyse-des-faits-gnrateurs-de-responsabilit)
+
 - [III. BILAN MÉDICAL ET PRÉJUDICES IDENTIFIÉS](#iii-bilan-mdical-et-prjudices-identifis)
+
 - [IV. STRATÉGIE DE RECOURS ET FONDEMENTS JURIDIQUES](#iv-stratgie-de-recours-et-fondements-juridiques)
+
   - [A. ACTION DIRECTE CONTRE L'ASSUREUR ET SURVIE DE LA PERSONNALITÉ MORALE](#a-action-directe-contre-lassureur-et-survie-de-la-personnalit-morale)
+
   - [B. RESPONSABILITÉ DES DIRIGEANTS POUR FAUTE DÉTACHABLE](#b-responsabilit-des-dirigeants-pour-faute-dtachable)
+
   - [C. SITUATION JURIDIQUE DU PRÉPOSÉ](#c-situation-juridique-du-prpos)
+
 - [V. RECOMMANDATIONS ET CONCLUSION](#v-recommandations-et-conclusion)
+
 - [CONCLUSION](#conclusion)
 
 # RAPPORT D'EXPERTISE JURIDIQUE : ACCIDENT CORPOREL DE LA VICTIME
@@ -145,6 +154,7 @@ La capitalisation des dépenses de santé futures doit être exigée pour garant
 > **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307[^10]**
 
 - Intégrer des réserves judiciaires pour les préjudices futurs liés à l'aggravation
+
 - Capitaliser les dépenses de santé : matériels ergonomiques et aides techniques
 <hr><hr>
 
@@ -159,8 +169,11 @@ Le préjudice global estimé à 59 600 € doit faire l'objet d'une demande de p
 Dans ce dossier, les fondements juridiques sont solides :
 
 - L'action directe contre L'Assureur RC ([Art. L.124-3 Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^3])
+
 - La responsabilité du fait des choses ([Art. 1242 al.1 Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^2])
+
 - La responsabilité du commettant du fait de ses préposés ([Art. 1242 al.5 Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^2])
+
 - La responsabilité personnelle des Dirigeants pour faute détachable ([Art. 1240 Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1])
 <hr><hr>
 
@@ -177,6 +190,7 @@ Vérification Judilibre : les 5 arrêts cités par Mistral AI dans son analyse i
 
 Les seules références doctrinales spécifiques aux salons de coiffure sont :
 - **Me Plouton** (TJ Bordeaux, 4 novembre 2024) : indemnisation d'une cliente brûlée au cuir chevelu, 13 913 € — source doctrinale, pas jurisprudence officielle.
+
 - **Sylvie Personnic** (Village Justice) : responsabilité des salons de coiffure pour brûlures et réactions allergiques.
 Ces sources sont citées à titre de doctrine, non de jurisprudence.
 <hr><hr>

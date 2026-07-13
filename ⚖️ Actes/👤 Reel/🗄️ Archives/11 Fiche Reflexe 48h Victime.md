@@ -29,24 +29,34 @@ source: local
 
 **Etape 1 — Securite et sante**
 - [ ] Appeler le **112** (SAMU/pompiers) si blessure grave
+
 - [ ] **Ne pas quitter les lieux** avant d'avoir ete examine
+
 - [ ] **Ne pas signer** de document qui vous est presente par l'exploitant
+
 - [ ] Se faire examiner aux urgences et exiger un **certificat medical initial (CMI)** detaillant chaque lesion
 
 **Etape 2 — Preuve**
 - [ ] **Photographier** les lieux, le materiel en cause, vos blessures
+
 - [ ] **Temoin** : obtenir le nom, telephone et email de toute personne presente
+
 - [ ] **Garder** vos vetements, factures, tickets de caisse
+
 - [ ] Si possible, **filmer** la scene avant que rien ne bouge
 
 **Etape 3 — Deposer plainte**
 - [ ] Se rendre au commissariat ou a la gendarmerie pour **deposer plainte**
+
 - [ ] Exiger un **recu de depot de plainte** (mentionnant le numero de PV)
+
 - [ ] Demander a etre entendu(e) avec un **certificat medical** sous le bras
 
 **Etape 4 — Assurance / CPAM**
 - [ ] **Ne pas accepter** de signer de declaration d'accident du travail si vous n'etes pas salarie(e)
+
 - [ ] Contacter votre propre assurance (protection juridique + habitation)
+
 - [ ] Faire une **declaration de recours contre tiers** aupres de la CPAM
 
 <hr><hr>
@@ -55,21 +65,28 @@ source: local
 
 **Judiciaire**
 - [ ] **Ecrivez ce que vous vous rappelez** des faits dans un document date (les souvenirs s'estompent)
+
 - [ ] Conservez tous les **certificats medicaux** (urgences, SOS Main, generaliste)
+
 - [ ] Consultez un **avocat** specialise en dommage corporel (consultation gratuite possible)
 
 **Preuves**
 - [ ] **Relancer la police** pour obtenir une copie du PV si plainte deja deposee
+
 - [ ] **Videoprotection** : demander par ecrit a l'exploitant la conservation des enregistrements
+
 - [ ] **Photographier regularment** l'evolution de la cicatrice et de la rehabilitation
 
 **Social / Financier**
 - [ ] **Declarer l'accident** a votre assurance protection juridique
+
 - [ ] **Declaration de recours contre tiers** a la CPAM (formulaire en ligne ou courrier)
+
 - [ ] **Arrets de travail** : les faire signer par votre medecin traitant des le 1er jour
 
 **Administratif**
 - [ ] **Signaler le litige** a l'INPI (Registre National des Entreprises) pour bloquer d'eventuelles modifications de la societe
+
 - [ ] **Signaler** a l'Inspection du Travail, a l'URSSAF et au SIE
 
 <hr><hr>
@@ -104,8 +121,11 @@ source: local
 Pas de panique. Meme si les faits remontent a plusieurs jours ou semaines :
 
 1. **Toute preuve** est bonne a prendre (meme tardive)
+
 2. **Deposez plainte** quoi qu'il arrive — le delai de prescription penale est de 3 a 10 ans
+
 3. **Consultation juridique gratuite** disponible dans chaque TJ
+
 4. **Le FGTI/CIVI** peut intervenir jusqu'a 3 ans apres l'infraction
 
 Document realise le **[DATE]**. A conserver dans le dossier de l'accident.

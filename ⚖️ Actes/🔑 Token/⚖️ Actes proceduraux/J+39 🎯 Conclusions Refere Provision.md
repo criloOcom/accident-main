@@ -227,6 +227,7 @@ Cette version a été rédigée à partir du mémoire juridique produit par l'as
 
 Voir les mémoires complets :
 - `📊 Rapports/expertise/20260707 Mémoire juridique Glose.md`
+
 - `📊 Rapports/expertise/20260707 Analyse critique Glose.md`
 <hr><hr>
 

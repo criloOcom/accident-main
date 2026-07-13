@@ -21,17 +21,29 @@ source: drive
 **Table des matières**
 
 - [1. PRÉSENTATION](#1-prsentation)
+
 - [2. FONDEMENTS JURIDIQUES](#2-fondements-juridiques)
+
   - [2.1 RESPONSABILITÉ DU COMMETTANT](#21-responsabilit-du-commettant)
+
   - [2.2 ACTION DIRECTE CONTRE L'ASSUREUR](#22-action-directe-contre-lassureur)
+
   - [2.3 SURVIE DE LA PERSONNALITÉ MORALE](#23-survie-de-la-personnalit-morale)
+
   - [2.4 RESPONSABILITÉ POUR FAUTE](#24-responsabilit-pour-faute)
+
 - [3. VOIES DE PROCÉDURE ENGAGÉES](#3-voies-de-procdure-engages)
+
   - [3.1 RÉFÉRÉ-PROVISION](#31-rfr-provision)
+
   - [3.2 RÉFÉRÉ-COMMUNICATION DE PIÈCES](#32-rfr-communication-de-pices)
+
   - [3.3 VOIE CIVI / FGTI (SUBSIDIAIRE)](#33-voie-civi-fgti-subsidiaire)
+
 - [4. ÉVALUATION DES PRÉJUDICES](#4-valuation-des-prjudices)
+
 - [5. CALENDRIER PROCÉDURAL](#5-calendrier-procdural)
+
 - [6. RÉCAPITULATIF DES PIÈCES](#6-rcapitulatif-des-pices)
 
 # STRATEGIE CONTENTIEUX CIVIL
@@ -134,6 +146,7 @@ Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels rés
 > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
 > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^10]**
 - La victime doit être de nationalité française ou les faits commis sur le territoire national.
+
 - Le dommage corporel doit présenter une certaine gravité (ITT ≥ 1 mois — condition remplie avec 56 jours d'ITT).
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
@@ -146,7 +159,9 @@ Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels rés
 > [Article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334) <br>
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^12]**
 - La victime dispose de **3 ans** à compter de la date de l'infraction (29 mai 2026 → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
+
 - Si une décision pénale définitive intervient, ce délai est ramené à **1 an** à compter de cette décision.
+
 - En l'état de l'enquête préliminaire en cours, la date de référence est celle de l'infraction (29 mai 2026).
 
 Cette voie est subsidiaire : elle ne se substitue pas à l'action directe contre l'assureur, mais la sécurise en cas d'insolvabilité de l'auteur.
@@ -196,12 +211,19 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 
 Pièces médicales :
 - 29 mai 2026 — Dr Julie JARDON — Premiers soins urgence
+
 - 30 mai 2026 — Dr Iskander DJERBI — CR opératoire
+
 - 30 mai 2026 — Dr Iskander DJERBI — Ordonnance de sortie
+
 - 10 juin 2026 — Dr Iskander DJERBI — Facture chirurgie 790,23 €
+
 - 19 juin 2026 — Dr Iskander DJERBI — CR contrôle J+20
+
 - 30 juin 2026 — Dr Julie JARDON — Consultation urgence J+32
+
 - 1 juillet 2026 — Dr Oxybel — Consultation générale J+33
+
 - 8 juillet 2026 — Dr Iskander DJERBI — CR de reprise J+39
 
 Pièces financières :
@@ -209,13 +231,18 @@ Pièces financières :
 
 Pièces administratives :
 - 3 juin 2026 — CPAM Haute-Garonne — Dossier RCT 31727387
+
 - 1 juin 2026 — INSEE — Avis de situation SAS
+
 - 1 juin 2026 — INPI — Fiche identité SAS
+
 - 04/06/2026 — URSSAF Midi-Pyrénées — Attestations de vigilance
 
 Pièces de procédure :
 - 29 juin 2026 — Mise en demeure SAS LES MAUVAIS GARCONS
+
 - 29 juin 2026 — Mise en demeure Sabir MOUNTASSER
+
 - 29 juin 2026 — Mise en demeure Catherine ANDISSAC
 <hr><hr>
 

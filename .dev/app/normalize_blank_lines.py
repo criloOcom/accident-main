@@ -10,6 +10,12 @@ Pattern B: Insert blank line between a ### heading or a bold numbered point
 
 Pattern C: Insert blank line after ##/### heading when followed directly by a
             paragraph (non-blank, non-heading content line).
+
+Pattern D: Insert blank line between consecutive numbered list items
+            (N. **... immediately followed by N+1. **...).
+
+Pattern E: Insert blank line between consecutive bullet list items
+            (- ... immediately followed by another - ...).
 """
 
 import argparse
@@ -126,6 +132,50 @@ def fix_pattern_c(lines):
     return new_lines, modified
 
 
+def fix_pattern_d(lines):
+    """Insert blank line between consecutive numbered list items (N. **...)."""
+    modified = False
+    new_lines = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        prev_line = new_lines[-1] if new_lines else ""
+
+        is_numbered = bool(re.match(r"^\d+\.\s+\*\*", line))
+        prev_is_numbered = bool(re.match(r"^\d+\.\s+\*\*", prev_line))
+
+        if is_numbered and prev_is_numbered and prev_line.strip():
+            new_lines.append("")
+            modified = True
+
+        new_lines.append(line)
+        i += 1
+
+    return new_lines, modified
+
+
+def fix_pattern_e(lines):
+    """Insert blank line between consecutive bullet list items (- ...)."""
+    modified = False
+    new_lines = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        prev_line = new_lines[-1] if new_lines else ""
+
+        is_bullet = bool(re.match(r"^\s*[-*]\s+", line))
+        prev_is_bullet = bool(re.match(r"^\s*[-*]\s+", prev_line))
+
+        if is_bullet and prev_is_bullet and prev_line.strip():
+            new_lines.append("")
+            modified = True
+
+        new_lines.append(line)
+        i += 1
+
+    return new_lines, modified
+
+
 def process_file(filepath, args):
     """Process a single .md file, applying patterns A and/or B."""
     try:
@@ -165,6 +215,16 @@ def process_file(filepath, args):
         fixed_body, mod_c = fix_pattern_c(body_lines)
         body_lines = fixed_body
         body_modified = body_modified or mod_c
+
+    if args.pattern_d:
+        fixed_body, mod_d = fix_pattern_d(body_lines)
+        body_lines = fixed_body
+        body_modified = body_modified or mod_d
+
+    if args.pattern_e:
+        fixed_body, mod_e = fix_pattern_e(body_lines)
+        body_lines = fixed_body
+        body_modified = body_modified or mod_e
 
     if not body_modified:
         return False
@@ -226,6 +286,28 @@ def main():
         help="Disable Pattern C",
     )
     parser.add_argument(
+        "--pattern-d",
+        action="store_true",
+        default=True,
+        help="Fix Pattern D: blank line between numbered list items (default)",
+    )
+    parser.add_argument(
+        "--no-pattern-d",
+        action="store_true",
+        help="Disable Pattern D",
+    )
+    parser.add_argument(
+        "--pattern-e",
+        action="store_true",
+        default=True,
+        help="Fix Pattern E: blank line between bullet list items (default)",
+    )
+    parser.add_argument(
+        "--no-pattern-e",
+        action="store_true",
+        help="Disable Pattern E",
+    )
+    parser.add_argument(
         "files",
         nargs="*",
         help="Specific files to process (default: all .md in Token directory)",
@@ -240,6 +322,10 @@ def main():
         args.pattern_b = False
     if args.no_pattern_c:
         args.pattern_c = False
+    if args.no_pattern_d:
+        args.pattern_d = False
+    if args.no_pattern_e:
+        args.pattern_e = False
 
     if args.files:
         md_files = [Path(f) for f in args.files]

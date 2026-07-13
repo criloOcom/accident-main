@@ -104,10 +104,15 @@ Je vous mets en demeure par la présente :
 L'évaluation globale de mon préjudice corporel, détaillée dans l'étude d'indemnisation, s'établit à [**[Finance Evaluation Initiale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-evaluation-initiale.md) selon les postes de préjudice suivants :
 
 - Pertes de gains professionnels actuels (PGPA) : [**[Finance PGPA]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-pgpa.md)
+
 - Incidence professionnelle (IP) : [**[Finance Incidence Professionnelle]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-incidence-professionnelle.md)
+
 - Déficit fonctionnel permanent (DFP) : [**[Finance DFP]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-dfp.md)
+
 - Souffrances endurées (SE) : [**[Finance Souffrances Endurées]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-souffrances-endurees.md)
+
 - Préjudice d'agrément : [**[Finance Préjudice Agrément]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prejudice-agrement.md)
+
 - Frais de procédure (Article 700) : [**[Finance Article 700]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700.md)
 
 À défaut de réponse et du versement de la provision réclamée dans le délai de 15 jours, j'engagerai une procédure en référé-provision devant le Président du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), et assignerai directement votre compagnie en exécution forcée sur le fondement de l'action directe.

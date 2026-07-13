@@ -34,7 +34,9 @@ Je me permets de vous solliciter pour remplir une **attestation de témoin** (Ce
 Votre témoignage est **très important** car il permettra de :
 
 - Attester de la gravité objective des lésions (section tendineuse, hémorragie)
+
 - Confirmer l'état des lieux (vasque endommagée, absence d'escabeau)
+
 - Apporter une vision professionnelle et neutre des faits
 
 **Comment procéder ?**

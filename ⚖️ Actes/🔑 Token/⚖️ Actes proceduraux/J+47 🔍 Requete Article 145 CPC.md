@@ -115,7 +115,9 @@ Conformement a l'article L. 252-2 du Code de la securite interieure, les enregis
 Le motif legitime est d'autant plus caracterise que :
 
 - Les videos permettraient de visualiser l'etat de la vasque avant l'accident (cassure preexistante)
+
 - Elles permettraient de confirmer l'absence d'equipement d'acces en hauteur (escabeau)
+
 - Elles constituent le seul element objectif pour contredire d'eventuelles contestations de la partie adverse
 
 L'effacement de ces donnees avant toute mesure de conservation rendrait impossible l'etablissement de la preuve et priverait definitivement [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) de son droit a la preuve.
@@ -184,8 +186,11 @@ Fait a [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%8
 ## BORDEREAU DES PIÈCES INVOQUÉES
 
 - **Pièce n°10 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) ([**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+
 - **Pièce n°11 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) ([**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+
 - **Pièce n°12 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) ([**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+
 - **Pièce n°13 :** Lettre Recommandée avec Accusé de Réception (LRAR) adressée à [**[Le Propriétaire des Murs]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-proprietaire-des-murs.md) et son Accusé de Réception signé ([**[J+35 AR propriétaire]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-35-ar-proprietaire.md))
 <hr><hr>
 

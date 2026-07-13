@@ -275,6 +275,9 @@ Tout bloc de texte DOIT être séparé du bloc précédent par **une ligne vide*
 - `**Titre gras:**` → blockquote `>`
 - Blockquote `>` → `##` heading
 - `##` heading → paragraphe
+- Item numéroté `N. **...**` → item numéroté suivant `N+1. **...**`
+- Item à puce `- ...` (ou `* ...`) → item à puce suivant `- ...`
+- Item à puce indenté `   - ...` → item à puce indenté suivant `   - ...`
 
 ### Exceptions (pas de ligne vide)
 1. **Headings consécutifs** : `## I — Section` suivi de `### A. Sous-section` — pas de vide
@@ -295,6 +298,7 @@ Texte du paragraphe.
 1. **Titre**
 
    - Premier élément
+
    - Second élément
 
 **Fondement :**

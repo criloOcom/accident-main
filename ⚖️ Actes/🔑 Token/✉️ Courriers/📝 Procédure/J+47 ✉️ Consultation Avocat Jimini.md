@@ -45,7 +45,9 @@ Un **procès-verbal de police** a été établi le 2 juin 2026 ([PV n°2026/0159
 J'ai constitué un dossier complet et engagé plusieurs actions depuis l'accident :
 
 - **Signalement au Maire de Foix** (M. Tavella) dès le 1er juin — il m'a répondu par écrit avoir saisi la Préfecture, l'**Inspection du travail** et le **CODAF**.
+
 - **20+ courriers recommandés** envoyés : mises en demeure à la SAS/dirigeants (tous NPAI), signalements à l'URSSAF, INPI, SIE, Préfecture, Inspection du travail, CODAF, CPAM, etc.
+
 - **Demain 15 juillet** : dépôt au TJ de Foix d'une **requête Art. 145 CPC** (communication assurance + conservation vidéos) + **demande d'AJ totale** au BAJ ; puis dépôt d'une **plainte complémentaire** au Commissariat de Foix (obstruction à la manifestation de la vérité, blessures involontaires).
 <hr><hr>
 

@@ -46,7 +46,9 @@ Par lettre de mise en demeure adressée le [**[J+31 Mises en demeure]**](../../.
 
 À la date de la présente, je n'ai reçu aucune réponse. Le suivi postal fait apparaître que mes recommandés n'ont pu être distribués ou retirés :
 - [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) (LRAR n° [**[N° LRAR Exploitant]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : distribution impossible.
+
 - Madame [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) (LRAR n° [**[N° LRAR Directrice]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : retour à l'expéditeur pour défaut d'adresse.
+
 - Monsieur [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) (LRAR n° [**[N° LRAR Président]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : en attente de retrait.
 
 Seuls le bailleur, le tribunal judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) et la CPAM ont accusé réception de leurs courriers respectifs.

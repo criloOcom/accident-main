@@ -21,17 +21,29 @@ source: drive
 **Table des matières**
 
 - [1. PRÉSENTATION](#1-prsentation)
+
 - [2. INFRACTIONS CONSTITUÉES](#2-infractions-constitues)
+
   - [2.1 BLESSURES INVOLONTAIRES](#21-blessures-involontaires)
+
   - [2.2 ABSENCE D'ASSURANCE RESPONSABILITÉ CIVILE PROFESSIONNELLE](#22-absence-dassurance-responsabilit-civile-professionnelle)
+
   - [2.3 MISE EN DANGER DE LA VIE D'AUTRUI](#23-mise-en-danger-de-la-vie-dautrui)
+
 - [3. PROCÉDURE PÉNALE ENGAGÉE](#3-procdure-pnale-engage)
+
   - [3.1 SIGNALEMENT ADMINISTRATIF ET DÉPÔT DE PLAINTE](#31-signalement-administratif-et-dpt-de-plainte)
+
   - [3.2 CONSTITUTION DE PARTIE CIVILE](#32-constitution-de-partie-civile)
+
   - [3.3 COMPLÉMENT DE PLAINTE POUR ABSENCE D'ASSURANCE](#33-complment-de-plainte-pour-absence-dassurance)
+
   - [3.4 RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS](#34-responsabilit-personnelle-des-dirigeants)
+
   - [3.5 INDEMNISATION PAR LE FGTI / CIVI](#35-indemnisation-par-le-fgti-civi)
+
 - [4. CALENDRIER PROCÉDURAL](#4-calendrier-procdural)
+
 - [5. RÉCAPITULATIF DES PIÈCES](#5-rcapitulatif-des-pices)
 
 # STRATEGIE CONTENTIEUX PENAL
@@ -154,6 +166,7 @@ Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LE
 > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
 > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^2]**
 - Gravité du dommage : ITT de 56 jours (≥ 1 mois, condition de recevabilité).
+
 - Absence d'assurance confirmée par le défaut de réponse aux relances amiables.
 
 **Délai CIVI = 3 ans ([Article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)[^12]) :**
@@ -162,6 +175,7 @@ Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LE
 > [Article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334) <br>
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^13]**
 - **3 ans** à compter de l'infraction (**[J+0 Accident]** → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
+
 - Ou **1 an** après une décision pénale définitive si elle intervient avant l'expiration du délai de 3 ans.
 
 **Procédure :** Saisine de la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de **[La Ville de l'Accident]**, qui notifie le FGTI et instruit la demande d'indemnisation.
@@ -185,18 +199,25 @@ Cette voie est indépendante de l'action pénale principale : la victime peut sa
 
 Pièces pénales :
 - **[J+3 Premiers arrêts]** — **[La Ville de l'Accident]** Police — Dépôt de plainte officiel [🔗 Voir](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
+
 - **[J+4 Dépôt de plainte]** — **[La Ville de l'Accident]** Police — Procès-verbal constat n°**[N° PV Police]** [🔗 Voir](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view)
+
 - **[J+4 Dépôt de plainte]** — **[La Ville de l'Accident]** Police — Constitution de partie civile
+
 - **[J+4 Dépôt de plainte]** — **[La Ville de l'Accident]** Police — Complément de plainte
 
 Pièces médicales (justificatifs du préjudice corporel) :
 - **[J+0 Accident]** — **[Le Médecin en Urgence]** — Premiers soins urgence
+
 - **[J+1 Chirurgie]** — **[Le Chirurgien SOS Main]** — CR opératoire
+
 - **[J+21 Contrôle chirurgical]** — **[Le Chirurgien SOS Main]** — CR contrôle J+20
 
 Pièces administratives :
 - **[J+5 Ouverture CPAM]** — CPAM Haute-Garonne — Dossier RCT **[N° Dossier CPAM]**
+
 - **[J+3 Premiers arrêts]** — INSEE — Avis de situation SAS
+
 - **[J+3 Premiers arrêts]** — INPI — Fiche identité SAS
 <hr><hr>
 

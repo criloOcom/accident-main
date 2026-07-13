@@ -177,8 +177,11 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 
 **Méthodes pour identifier l'assureur :**
 - Consultation RNE/INPI
+
 - Saisine greffe TC de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
+
 - Interrogation ORIAS
+
 - Questionnement des dirigeants sous astreinte (art. 145 CPC)
 
 ### B. FGTI / CIVI — VOIE PRINCIPALE (ART. 706-3 CPP)
@@ -191,9 +194,13 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 
 **Procédure :**
 - Délai : 3 ans à compter de l'infraction (29 mai 2029)
+
 - Saisine de la CIVI du TJ de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md) ou de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
+
 - Offre du FGTI sous 2 mois
+
 - **Réparation intégrale** du préjudice corporel
+
 - Le FGTI se retourne ensuite contre les responsables (subrogation)
 
 ### C. RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS (VOIE SUBSIDIAIRE)
@@ -211,9 +218,13 @@ Si condamnation pénale non exécutée : verse 100 % jusqu'à 1 000 €, 30 % au
 ### E. ORDRE DES ACTIONS RECOMMANDÉ
 
 1. **Référé-provision** (15 000 €) + communication assurance
+
 2. **Expertise UMJ** 12 novembre 2026
+
 3. **Assignation au fond** contre SAS + assureur (si identifié)
+
 4. **Saisine CIVI** si insolvabilité confirmée → indemnisation FGTI
+
 5. **Constitution partie civile** (voie pénale)
 <hr><hr>
 
