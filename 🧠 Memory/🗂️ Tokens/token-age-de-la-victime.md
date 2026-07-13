@@ -1,0 +1,34 @@
+---
+title: "👤 Âge de la Victime"
+description: "Token :** `**[Âge de la Victime]**`"
+type: memory
+---
+
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-age-de-la-victime*
+<hr>
+<!-- /Breadcrumb -->
+
+# 👤 Âge de la Victime
+
+**Token :** `**[Âge de la Victime]**`
+
+## Valeur
+
+| Champ | Valeur |
+|---|---|
+| **Donnée réelle** | 44 ans |
+| **Type** | Données identifiantes |
+| **Contexte** | Âge de la victime au moment des faits (déduit de [Date de naissance de la victime](token-date-de-naissance-de-la-victime.md)). |
+
+## Contexte
+
+Âge mentionné dans les actes de procédure pour décrire la situation personnelle de la victime. Valeur dynamique pouvant nécessiter mise à jour annuelle.
+
+## Croisements
+
+- [Âge de la Victime](token-age-de-la-victime.md) ⇄ [Date de naissance de la Victime](token-date-de-naissance-de-la-victime.md)
+
+## Source
+
+[TOKEN MAP → Personnes physiques](../TOKEN%20MAP.md#token-age-de-la-victime)

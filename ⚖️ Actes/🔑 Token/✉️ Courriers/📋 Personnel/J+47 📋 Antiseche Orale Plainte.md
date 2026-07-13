@@ -29,14 +29,14 @@ statut: archive
 
 ### **1. Contexte initial ([PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))**
 
-Le 29 mai 2026, j'ai été victime d'un accident grave dans le salon de coiffure "LES MAUVAIS GARCONS" situé au 22 Rue Lafaurie, 09000 Foix, entraînant une section nerveuse et tendineuse de la main droite nécessitant une intervention chirurgicale en urgence.
+Le 29 mai 2026, j'ai été victime d'un accident grave dans le salon de coiffure [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) situé au [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md), entraînant une section nerveuse et tendineuse de la main droite nécessitant une intervention chirurgicale en urgence.
 
 Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.
 
 ### **2. Obstruction à la justice — Refus de communiquer l'assurance RC**
 
 **Faits constitutifs :**
-- Depuis le 29 mai 2026, malgré de multiples demandes officielles (LRAR 87001424863012T du 29/06/2026), la SAS LES MAUVAIS GARCONS refuse de communiquer les coordonnées de son assurance Responsabilité Civile.
+- Depuis le 29 mai 2026, malgré de multiples demandes officielles (LRAR 87001424863012T du 29/06/2026), la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) refuse de communiquer les coordonnées de son assurance Responsabilité Civile.
 
 - Cette omission empêche l'exercice de mon droit à réparation prévu par l'**article L. 124-3 du Code des assurances**.
 
@@ -107,7 +107,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 ### **4. Société fantôme — Courriers retournés NPAI malgré l'immatriculation**
 
 **Faits constitutifs :**
-- Les courriers recommandés adressés à la SAS LES MAUVAIS GARCONS (938 033 222) à son siège social officiel (22 Rue Lafaurie) sont systématiquement retournés avec la mention "NPAI — Défaut d'adresse".
+- Les courriers recommandés adressés à la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) ([**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md)) à son siège social officiel ([**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md)) sont systématiquement retournés avec la mention "NPAI — Défaut d'adresse".
 
 - Pourtant, les registres officiels (RNE/INPI) confirment que la société est toujours **active** à cette adresse, sans modification de siège.
 
@@ -125,7 +125,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 ### **5. Risque de disparition — Capital de 200 € et 0 salarié**
 
 **Faits constitutifs :**
-- La SAS LES MAUVAIS GARCONS a un capital social de seulement 200 € et déclare 0 salarié.
+- La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) a un capital social de seulement 200 € et déclare 0 salarié.
 
 - Cette structure financière précaire suggère un **risque élevé de dissolution frauduleuse** pour échapper aux responsabilités civiles et pénales.
 

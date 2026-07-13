@@ -33,8 +33,8 @@ jx: J+42
 |-------|--------|
 | SIREN | [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md) |
 | Statut RNE | **Active** (inscrite, dernière MAJ 08/07/2026) |
-| Siège social | 22 Rue Lafaurie, 09000 Foix (inchangé) |
-| Capital | 200 € |
+| Siège social | [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md) (inchangé) |
+| [**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-capital-social-de-l-exploitation.md) | 200 € |
 | Président | [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) |
 | DG | [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) |
 | Salariés | 0 (zéro) |

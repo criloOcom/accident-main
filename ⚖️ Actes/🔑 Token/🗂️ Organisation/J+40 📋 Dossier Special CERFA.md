@@ -61,11 +61,11 @@ Conformément à l'Article 202 du Code de procédure civile, ce document permet 
 
 Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infractions afin d'obtenir du **FGTI** le versement de provisions ou de l'indemnisation définitive suite aux blessures involontaires subies.
 
-### A. Conditions d'éligibilité pour Sébastien
+### A. Conditions d'éligibilité pour [**[Prénom de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-prenom-de-la-victime.md)
 
 - **Nature des faits** : Blessures involontaires par manquement délibéré ou négligence (caractère pénal de l'accident).
 
-- **Seuil d'ITT** : Sébastien présente une ITT continue de **56 jours**, ce qui dépasse largement le critère légal de **30 jours** (1 mois) d'ITT requis pour la saisine.
+- **Seuil d'ITT** : [**[Prénom de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-prenom-de-la-victime.md) présente une ITT continue de **56 jours**, ce qui dépasse largement le critère légal de **30 jours** (1 mois) d'ITT requis pour la saisine.
 
 - **Nationalité/Lieu** : Victime française, accident survenu en France.
 
@@ -88,7 +88,7 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 ## IV — DÉTAIL DU CERFA N° 16146*03 (DEMANDE D'AIDE JURIDICTIONNELLE)
 
-Si Sébastien souhaite solliciter l'aide de l'État pour couvrir les frais de justice (avocat pour les audiences de référé, huissier pour le constat physique du salon, médecin-conseil ou expert judiciaire), il peut déposer ce formulaire.
+Si [**[Prénom de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-prenom-de-la-victime.md) souhaite solliciter l'aide de l'État pour couvrir les frais de justice (avocat pour les audiences de référé, huissier pour le constat physique du salon, médecin-conseil ou expert judiciaire), il peut déposer ce formulaire.
 
 ### A. Conditions d'accès (Aide Juridictionnelle)
 
@@ -96,7 +96,7 @@ Si Sébastien souhaite solliciter l'aide de l'État pour couvrir les frais de ju
 
 - Les plafonds de ressources sont revalorisés annuellement. Si les ressources mensuelles ou le RFR sont inférieurs aux limites fixées, l'aide est accordée à 100% ou à un taux partiel (55% ou 25%).
 
-- **Attention** : L'aide juridictionnelle n'est pas applicable si Sébastien dispose d'une garantie de Protection Juridique (PJ) dans le cadre de ses contrats d'assurance personnels qui couvre déjà ces frais.
+- **Attention** : L'aide juridictionnelle n'est pas applicable si [**[Prénom de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-prenom-de-la-victime.md) dispose d'une garantie de Protection Juridique (PJ) dans le cadre de ses contrats d'assurance personnels qui couvre déjà ces frais.
 
 ### B. Pièces justificatives requises
 

@@ -32,13 +32,13 @@ jx: J+47
 **Expéditeur :** [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) — [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md)
 **Destinataire :** Monsieur le Préfet de l'Ariège — Référent CODAF — Préfecture de l'Ariège, 2 Rue de la Préfecture, 09000 Foix
 **Date :** [Date d'envoi — À compléter avant impression]
-**Objet :** Suivi du signalement transmis par la Mairie de Foix — Salon « LES MAUVAIS GARÇONS » (22 Rue Lafaurie, 09000 Foix)
+**Objet :** Suivi du signalement transmis par la Mairie de Foix — Salon « LES MAUVAIS GARÇONS » ([**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md))
 
 <hr><hr>
 
 Monsieur le Préfet,
 
-Par courriel du **1er juin 2026**, M. Bernard TAVELLA, Adjoint au Maire de Foix chargé de l'Urbanisme et des Travaux, m'a informé avoir pris l'attache de vos services afin de diligenter **l'Inspection du travail** et le **CODAF (Comité Opérationnel Départemental Anti-Fraude)** au sujet de l'accident corporel grave dont j'ai été victime le **29 mai 2026** dans le salon « LES MAUVAIS GARÇONS », 22 Rue Lafaurie, 09000 Foix.
+Par courriel du **1er juin 2026**, [**[L'Adjoint au Maire de la Commune]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adjoint-au-maire-de-la-commune.md), Adjoint au Maire de Foix chargé de l'Urbanisme et des Travaux, m'a informé avoir pris l'attache de vos services afin de diligenter **l'Inspection du travail** et le **CODAF (Comité Opérationnel Départemental Anti-Fraude)** au sujet de l'accident corporel grave dont j'ai été victime le **29 mai 2026** dans le salon « LES MAUVAIS GARÇONS », [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md).
 
 Victime directe de cet accident — **plaie palmaire profonde de la main droite avec section du tendon fléchisseur, du nerf digital et de l'artère collatérale de l'index droit**, opéré en urgence le 30 mai 2026, **ITT de 56 jours** — je souhaiterais savoir :
 
