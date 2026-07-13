@@ -20,149 +20,114 @@ source: drive
 drive_id: 13jocmpqETy64lldco9LGCKLJZp_ml_9u53NB7OySmrs
 ---
 
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
 [🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 19 ✉️ Courrier FGTI
 <!-- /Breadcrumb -->
 
-# SAISINE CONSERVATOIRE DU FONDS DE GARANTIE DES VICTIMES
+# DEMANDE D'INFORMATION ET DE PRÉ-ENREGISTREMENT — ARTICLE 706-3 DU CPP
 > 🔗 Source Google Drive : [13jocmpqETy6…](https://drive.google.com/open?id=13jocmpqETy64lldco9LGCKLJZp_ml_9u53NB7OySmrs)
-[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md)
 
-Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)  
+[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md)  
+[**[Le Téléphone de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-telephone-de-la-victime.md)  
+Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)  
 
-**Fonds de Garantie des Victimes (FGTI)**
-64 Rue de la République
-75011 Paris
+**Fonds de Garantie des Victimes (FGTI)**  
+64 Rue de la République  
+75011 Paris  
 
-**[La Ville de Residence de la Victime]**, le 12 juillet 2026
+[**[La Ville de Residence de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-residence-de-la-victime.md), le 12 juillet 2026  
 
-Objet : Saisine conservatoire — Accident du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) — [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) deposee
+**Objet : Demande d'information et pré-ouverture de dossier – Article 706-3 du CPP – Accident du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md)**  
 
-Ref : SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-siren-de-l-exploitation.md) — [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
+Réf : SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-siren-de-l-exploitation.md) — Dossier CPAM n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**  
 
-Madame, Monsieur le Directeur,
+Madame, Monsieur le Directeur,  
 
 <hr>
 
 ## INTRODUCTION
-La presente est adressee au FGTI par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), immatriculee sous le SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-siren-de-l-exploitation.md).
 
-Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
+La présente lettre est adressée au FGTI par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) (SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-siren-de-l-exploitation.md)).
 
-Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main. Mon ITT a ete evaluee a 56 jours (29 mai au [**[J+55 Fin d'ITT]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-55-fin-d-itt.md)).
+Cet accident a été causé par la chute brutale du préposé de l'exploitation depuis un bac à shampoing en céramique instable et cassé, sur lequel il avait dû monter pour accéder au poste de télévision, faute d'équipement d'accès adapté (escabeau) mis à disposition par l'employeur.
+
+Sa chute a entraîné sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant nécessité une microchirurgie d'urgence en SOS Main. Mon ITT a été évaluée à 56 jours (du 29 mai au [**[J+55 Fin d'ITT]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-55-fin-d-itt.md)).
 
 <hr>
 
-- [I — PROCEDURES JUDICIAIRES ENGAGEES](#i--procedures-judiciaires-engagees)
+- [I — PROCÉDURES JUDICIAIRES ENGAGÉES](#i--procedures-judiciaires-engagees)
 - [II — RAPPEL DES FAITS](#ii--rappel-des-faits)
-- [III — INDEMNITES SOLLICITEES](#iii--indemnites-sollicitees)
-- [IV — SAISINE CONSERVATOIRE](#iv--saisine-conservatoire)
+- [III — INDEMNITÉS SOLLICITÉES](#iii--indemnites-sollicitees)
+- [IV — PRÉ-ENREGISTREMENT ET DEMANDE D'INFORMATION](#iv--pre-enregistrement-et-demande-d-information)
 
 <hr>
 
-## PROCEDURES JUDICIAIRES ENGAGEES
-A la date de la presente, les procedures suivantes ont ete engagees :
+## I — PROCÉDURES JUDICIAIRES ENGAGÉES
 
-1. **Mises en demeure LRAR** (29 juin 2026) : adressees a la SAS et a ses dirigeants, **sans aucun retour** a ce jour.
+À la date de la présente, les procédures suivantes ont été engagées :
 
-2. **Assignation en refere-provision** (30 juin 2026) : redigee et prete a etre deposee au Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md), a l'encontre de la SAS et de ses dirigeants in solidum.
+1. **Mises en demeure LRAR** (29 juin 2026) : adressées à la SAS et à ses dirigeants personnels, restées sans réponse à ce jour.
+2. **Assignation en référé-provision** : rédigée et en cours de signification par commissaire de justice, à l'encontre de la SAS et de ses dirigeants in solidum.
+3. **Assignation Article 145 CPC** : en cours de préparation en vue d'obtenir la communication forcée de la police d'assurance RC.
+4. **[Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** (6 juillet 2026) : déposée auprès du Doyen des Juges d'Instruction de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) sur le fondement des articles 222-19 et 222-20 du Code pénal.
 
-3. **Assignation Article 145 CPC** (5 juillet 2026) : redigee et prete a etre deposee pour communication forcee de la police d'assurance RC.
+Ces démarches visent à identifier les débiteurs civils et à faire reconnaître les infractions, en vue, le cas échéant, d'une demande d'indemnisation au titre de l'article 706-3 du Code de procédure pénale.
 
-4. **[Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** (6 juillet 2026) : deposee aupres du Doyen des Juges d'Instruction de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) sur le fondement des articles 222-19 et 222-20 du Code penal.
-
-Ces procedures constituent le prerequis necessaire a une eventuelle saisine du FGTI au titre de l'article 706-3 du Code de procedure penale.
-
-> « Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. » <br>
-> **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.** <br>
-> [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) <br>
+> « Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. »  
+> **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.**  
+> [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
 
 <hr>
 
-## RAPPEL DES FAITS
-L'accident est survenu dans un contexte de multiples irregularites de la part de l'exploitant :
+## II — RAPPEL DES FAITS
 
-- Absence d'equipement d'acces en hauteur (escabeau) pour les interventions en hauteur
-
-- Equipement defectueux (bac a shampoing instable avec cassure preexistante)
-
-- Defaut presumee d'assurance RC professionnelle
-
-- Travail dissimule presume
-
-- Absence de DUERP
-
-- Dirigeants n'ayant repondu a aucune mise en demeure (LRAR du [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-31-mises-en-demeure.md) sans AR retourne)
+L'accident est survenu dans les conditions matérielles suivantes :
+- Le préposé a dû monter sur le bac à shampoing pour accéder au poste de télévision en l'absence d'équipement adapté (escabeau).
+- Le bac en céramique, instable et fissuré, a basculé sous son poids, me blessant grièvement à la main droite.
+- Il s'y ajoute des éléments de contexte tels qu'une absence présumée de DUERP, de déclaration préalable à l'embauche (DPAE) pour le préposé et d'assurance RC professionnelle.
 
 <hr>
 
-## INDEMNITES SOLLICITEES
-Le montant total estime de mon prejudice corporel, selon la nomenclature Dintilhac (estimation haute sous reserve d'expertise medicale), s'eleve a **~109 500 €**, se decomposant comme suit :
+## III — INDEMNITÉS SOLLICITÉES
+
+Le montant total estimé de mon préjudice corporel, selon la nomenclature Dintilhac, s'élève à **~109 500 €**, se décomposant comme suit. Ces estimations de préjudices sont établies à titre purement indicatif et sous toutes réserves dans l'attente d'une expertise médicale judiciaire et de l'appréciation définitive de la CIVI et du FGTI :
 
 - Pertes de gains professionnels actuels (PGPA) : 1 900 €
-
-- Deficit fonctionnel temporaire (DFT) : 1 400 €
-
+- Déficit fonctionnel temporaire (DFT) : 1 400 €
 - Incidence professionnelle (IP) : 30 000 €
-
-- Deficit fonctionnel permanent (DFP) : 31 200 €
-
-- Souffrances endurees (SE) : 24 000 €
-
-- Prejudice d'agrement : 8 000 €
-
-- Prejudice Esthetique Permanent (PEP) : 3 000 €
-
-- Frais divers (kiné, déplacements) : 2 000 €
-
+- Déficit fonctionnel permanent (DFP) : 31 200 €
+- Souffrances endurées (SE) : 24 000 €
+- Préjudice d'agrément : 8 000 €
+- Préjudice Esthétique Permanent (PEP) : 3 000 €
+- Frais divers (kinésithérapie, déplacements) : 2 000 €
 - Assistance tierce personne (ATP) : 2 000 €
-
 - Dévalorisation professionnelle (DEP) : 3 000 €
-
 - Article 700 du CPC : 3 000 €
 
 <hr>
 
-## SAISINE CONSERVATOIRE
-Je sollicite par la presente l'ouverture d'un dossier conservatoire aupres du FGTI, pour les motifs suivants :
+## IV — PRÉ-ENREGISTREMENT ET DEMANDE D'INFORMATION
 
-1. La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) est une societe au capital de 200 € ne declarant aucun salarie, ne repondant a aucune sollicitation, et ne justifiant d'aucune assurance RC professionnelle.
+Conformément aux articles 706-3 et suivants du Code de procédure pénale, je comprends qu'une indemnisation peut être sollicitée, par l'intermédiaire de la Commission d'Indemnisation des Victimes d'Infractions (CIVI), lorsque l'auteur de l'infraction est inconnu, insolvable ou dans l'impossibilité de réparer le dommage.
 
-2. Une [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) a ete deposee ce jour (6 juillet 2026) aupres du Doyen des Juges d'Instruction de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md), ouvrant une information judiciaire du chef de blessures involontaires (Art. 222-19 et 222-20 CP) a l'encontre de la SAS et de ses dirigeants personnels.
+La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) disposant d'un capital social de seulement 200 € et n'ayant justifié d'aucune assurance, il existe un risque caractérisé d'insolvabilité qui pourrait à terme justifier le recours à ce dispositif subsidiaire d'indemnisation.
 
-3. Il existe un risque caracterise que la societe, financee a hauteur de 200 € seulement et dirigee par des gerants de paille, soit dissoute ou fasse l'objet d'une liquidation avant l'aboutissement de la procedure, privant la victime de toute indemnisation.
-
-Conformement aux Articles 706-3 et suivants du Code de procedure penale, le FGTI a vocation a indemniser les victimes d'infractions lorsque l'auteur est inconnu ou insolvable.
-
-Je sollicite en consequence :
-
-- **L'ouverture d'un dossier conservatoire** a mon nom pour le suivi de cette affaire ;
-- **L'information sur les conditions d'indemnisation** par le FGTI dans l'hypothese d'insolvabilite de la SAS et de ses dirigeants ;
-- **La communication du barème d'indemnisation** et des documents necessaires a la constitution d'un dossier FGTI le cas echeant ;
-- **Toute information** sur le delai de carence et les conditions de recevabilite de ma demande au regard de l'avancement de la procedure penale.
+Je sollicite en conséquence de vos services :
+- **L'ouverture d'un dossier d'information et de pré-enregistrement** à mon nom pour le suivi de cette affaire ;
+- **Des précisions sur les conditions d'intervention du Fonds** dans l'hypothèse de l'insolvabilité constatée de la société d'exploitation ;
+- **La transmission des formulaires et barèmes** applicables pour la constitution future du dossier auprès de la CIVI.
 
 <hr>
 
-## PIECES JOINTES
-- Copie du [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procedure penale)
-- Accuses de reception des courriers recommandes retournes (29 juin 2026 — mentions NPAI)
+## PIÈCES JOINTES
+- Copie du [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procédure pénale)
+- Accusés de réception des courriers recommandés retournés (29 juin 2026 — mentions NPAI)
 - [Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]**](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) ([**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-siren-de-l-exploitation.md))
-- Dossier medical complet (11 pieces)
+- Dossier médical complet (11 pièces)
 
-Je vous remercie de bien vouloir me faire parvenir un accuse de reception ecrit de la presente, ainsi qu'une response dans un delai de 15 jours.
+Je vous remercie de bien vouloir me faire parvenir un accusé de réception écrit de la présente.
 
-Mes coordonnees : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md) — Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
-
-Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Directeur, l'expression de ma consideration distinguee.
+Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Directeur, l'expression de ma considération distinguée.
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
