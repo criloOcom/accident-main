@@ -186,7 +186,7 @@ Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière
 
 1. **Copie du PV initial n°2026/015967** (établi le 2 juin 2026 par le Commissariat de Toulouse)
 
-2. **Copie de la requête Article 145 CPC** déposée le 15 juillet 2026 devant le TJ de Foix (identification assureur RC + conservation vidéos)
+2. **Copie de la requête Article 145 CPC**[^13] déposée le 15 juillet 2026 devant le TJ de Foix (identification assureur RC + conservation vidéos)
 
 3. **Accusés de réception des LRAR retournés NPAI** (29 mai 2026)
 
@@ -207,9 +207,9 @@ Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière
 
 | Infraction | Article | Peine encourue | Élément matériel |
 |-----------|---------|----------------|------------------|
-| Blessures involontaires | Art. 222-20 + 121-3 CP | 1 an + 15k€ | ITT 56j, vasque non sécurisée, absence escabeau |
-| Obstruction à la justice | Art. 434-4 CP | 3 ans + 45k€ | Refus assurance RC, dissimulation vidéos, société fantôme |
-| Travail dissimulé (signalement) | Art. L. 8221-1 + L. 8221-3 CT | 3 ans + 45k€ | Réouverture, absence déclaration salariés |
+| Blessures involontaires | Art. 222-20[^1] + 121-3[^2] CP | 1 an + 15k€ | ITT 56j, vasque non sécurisée, absence escabeau |
+| Obstruction à la justice | Art. 434-4[^3] CP | 3 ans + 45k€ | Refus assurance RC, dissimulation vidéos, société fantôme |
+| Travail dissimulé (signalement) | Art. L. 8221-1[^4] + L. 8221-3[^5] CT | 3 ans + 45k€ | Réouverture, absence déclaration salariés |
 <hr><hr>
 
 ## VI — DEMANDES SPÉCIFIQUES
@@ -248,35 +248,35 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de P
 
 ### Code pénal
 
-- **Article 222-20** : Blessures involontaires par violation manifestement délibérée d'une obligation de prudence/sécurité (ITT ≤ 3 mois)
+- **Article 222-20**[^1] : Blessures involontaires par violation manifestement délibérée d'une obligation de prudence/sécurité (ITT ≤ 3 mois)
 
-- **Article 121-3** : Principe de responsabilité pénale — faute d'imprudence, négligence, manquement à une obligation de prudence/sécurité
+- **Article 121-3**[^2] : Principe de responsabilité pénale — faute d'imprudence, négligence, manquement à une obligation de prudence/sécurité
 
-- **Article 434-4** : Obstruction à la justice — entrave à la manifestation de la vérité (altération, destruction, dissimulation de preuves)
+- **Article 434-4**[^3] : Obstruction à la justice — entrave à la manifestation de la vérité (altération, destruction, dissimulation de preuves)
 
-- **Article 441-7** : Faux témoignage
+- **Article 441-7**[^7] : Faux témoignage
 
 ### Code du travail
 
-- **Article L. 4121-1** : Obligation générale de sécurité de l'employeur
+- **Article L. 4121-1**[^8] : Obligation générale de sécurité de l'employeur
 
-- **Article L. 8221-1** : Interdiction du travail dissimulé
+- **Article L. 8221-1**[^4] : Interdiction du travail dissimulé
 
-- **Article L. 8221-3** : Définition du travail dissimulé par dissimulation d'activité
+- **Article L. 8221-3**[^5] : Définition du travail dissimulé par dissimulation d'activité
 
 ### Code des assurances
 
-- **Article L. 124-3** : Action directe de la victime contre l'assureur
+- **Article L. 124-3**[^9] : Action directe de la victime contre l'assureur
 
-- **Article L. 113-2** : Obligation de déclaration de sinistre
+- **Article L. 113-2**[^10] : Obligation de déclaration de sinistre
 
 ### Code de procédure pénale
 
-- **Article 15-3** : Information de la victime sur les suites données
+- **Article 15-3**[^6] : Information de la victime sur les suites données
 
-- **Article 53** : Pouvoirs de l'Officier de Police Judiciaire
+- **Article 53**[^11] : Pouvoirs de l'Officier de Police Judiciaire
 
-- **Article 75** : Enquête de flagrance
+- **Article 75**[^12] : Enquête de flagrance
 <hr><hr>
 
 ## ANNEXE 2 : CHRONOLOGIE DES FAITS
@@ -291,7 +291,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de P
 | 05/07/2026 | Demande formelle de conservation des vidéos (courrier n°20) | Copie courrier |
 | 06/07/2026 | Réouverture suspecte du salon | Constat visuel |
 | 10/07/2026 | Audit RNE/INPI — société active mais injoignable | Note d'audit |
-| 15/07/2026 | Dépôt requête Art. 145 CPC (assurance RC + conservation vidéos) | Récépissé greffe |
+| 15/07/2026 | Dépôt requête Art. 145 CPC[^13] (assurance RC + conservation vidéos) | Récépissé greffe |
 | 15/07/2026 | Présente plainte complémentaire | Récépissé Commissariat |
 <hr><hr>
 
@@ -363,3 +363,9 @@ Ces pistes ont pour seul objet de faciliter l'appréhension globale de la situat
 [^5]: [Article L. 8221-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044056622](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044056622) ↩
 [^6]: [Article 15-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) ↩
 [^7]: [Article 441-7 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398925](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398925) ↩
+[^8]: [Article L. 4121-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) ↩
+[^9]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^10]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) ↩
+[^11]: [Article 53 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016) ↩
+[^12]: [Article 75 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031051941](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031051941) ↩
+[^13]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410268](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410268) ↩
