@@ -138,10 +138,6 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 - Accusés de réception des courriers recommandés retournés (29 mai 2026 — mentions NPAI)
 - [Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]**](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) ([**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md))
 - Dossier médical complet (11 pièces)
-
-Je vous serais reconnaissant de bien vouloir m'adresser un accusé de réception écrit de la présente, ainsi qu'une réponse, si possible dans un délai de 15 jours.
-
-Mes coordonnées pour réponse : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) — Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
 <hr><hr>
 
 ## Sources Législation

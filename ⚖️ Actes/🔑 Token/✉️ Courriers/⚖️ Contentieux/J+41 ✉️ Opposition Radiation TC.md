@@ -78,6 +78,11 @@ Au vu de l'urgence et du risque avéré de dissipation des garanties, je vous pr
 2. **Inscrire** une mention de cette opposition au dossier de la société.
 
 3. **M'informer** de toute formalité qui serait déposée par cette société en vue de sa radiation ou de sa liquidation.
+
+Je vous remercie de l'attention que vous porterez à cette demande, essentielle à la préservation des droits d'une victime de dommages corporels graves, et vous prie de croire, Monsieur le Président, en l'expression de mes salutations distinguées.
+
+[**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
+Avocat au Barreau
 <hr><hr>
 
 ## PIECES JOINTES
@@ -91,11 +96,6 @@ Au vu de l'urgence et du risque avéré de dissipation des garanties, je vous pr
 - **[Attestation de depot CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° Dossier CPAM]
 
 - **[Mise en demeure J+31 — SAS](../J%2B31%20%F0%9F%93%AC%20Mise%20en%20demeure%20SAS.md)** — LRAR n° [N° LRAR Exploitant] restee sans reponse
-
-Je vous remercie de l'attention que vous porterez à cette demande, essentielle à la préservation des droits d'une victime de dommages corporels graves, et vous prie de croire, Monsieur le Président, en l'expression de mes salutations distinguées.
-
-[**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
-Avocat au Barreau
 <hr><hr>
 
 ## Sources Législation

@@ -83,6 +83,11 @@ Je vous prie de bien vouloir :
 > *« A la demande de tout intéressé ou du ministère public, le président du tribunal, statuant en référé, peut enjoindre sous astreinte au dirigeant de toute personne morale de procéder au dépôt des pièces et actes au registre du commerce et des sociétés auquel celle-ci est tenue par des dispositions législatives ou réglementaires. Le président peut, dans les mêmes conditions et à cette même fin, désigner un mandataire chargé d'effectuer ces formalités. »* <br>
 > [Article L123-5-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291) <br>
 > **Code de commerce > Sous-section 1 : Des personnes tenues à l'immatriculation.[^1]**
+
+Je vous remercie de l'attention que vous porterez à cette demande et vous prie de croire, Monsieur le Greffier, en l'expression de mes salutations distinguées.
+
+[**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
+Avocat au Barreau
 <hr><hr>
 
 ## PIECES JOINTES
@@ -94,11 +99,6 @@ Je vous prie de bien vouloir :
 - **[Compte-rendu operatoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Blessure grave documentee par SOS Main
 
 - **[Attestation de depot CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° Dossier CPAM]
-
-Je vous remercie de l'attention que vous porterez à cette demande et vous prie de croire, Monsieur le Greffier, en l'expression de mes salutations distinguées.
-
-[**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
-Avocat au Barreau
 <hr><hr>
 
 ## Sources Législation

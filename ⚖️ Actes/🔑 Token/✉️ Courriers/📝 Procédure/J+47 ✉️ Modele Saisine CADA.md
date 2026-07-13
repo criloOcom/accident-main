@@ -82,6 +82,12 @@ Je sollicite l'avis de la Commission sur la communicabilité, à mon égard, des
 En ma qualité de victime directement concernée, j'estime que ces documents entrent dans le champ des **articles L. 300-1 et suivants et L. 311-1 et suivants du CRPA** et qu'ils sont en principe communicables, sous réserve des occultations nécessaires pour la protection des tiers (secret des affaires, données personnelles).
 
 Je suis conscient que certains éléments peuvent être couverts par le secret de la prévention des infractions. Dans cette hypothèse, je sollicite que l'administration procède aux **occultations nécessaires** plutôt qu'à un refus pur et simple.
+
+Je vous remercie par avance de l'attention portée à la présente demande d'avis et reste à votre disposition pour tout complément d'information.
+
+Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.
+
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
 <hr><hr>
 
 ## VI — Pièces jointes
@@ -93,9 +99,3 @@ Je suis conscient que certains éléments peuvent être couverts par le secret d
 - Copie du PV de police n°2026/015967
 
 <hr><hr>
-
-Je vous remercie par avance de l'attention portée à la présente demande d'avis et reste à votre disposition pour tout complément d'information.
-
-Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.
-
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
