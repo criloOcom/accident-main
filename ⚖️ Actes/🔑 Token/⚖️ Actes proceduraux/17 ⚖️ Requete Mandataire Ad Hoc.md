@@ -33,9 +33,6 @@ Et de sa Directrice Générale, Madame [**[La Directrice Générale de l'Exploit
 Monsieur le Président,
 
 Par la présente, il vous est respectueusement exposé ce qui suit :
-
-<hr><hr>
-
 ## I — EXPOSÉ DES FAITS
 
 Monsieur [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) a été victime d'un accident particulièrement grave dans les locaux de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), exploitée par Monsieur [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et Madame [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md).
@@ -47,7 +44,6 @@ Il apparaît de manière manifeste que de graves irrégularités, tant sur le pl
 Or, au lieu d'assumer leurs responsabilités, les dirigeants de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) semblent organiser l'opacité et l'insolvabilité de leur structure afin d'échapper à l'indemnisation inéluctable du préjudice subi par la victime.
 
 Il existe en l'espèce un risque d'organisation frauduleuse d'insolvabilité ou de cession d'actifs au détriment des créanciers.
-
 <hr><hr>
 
 ## II — DISCUSSION JURIDIQUE ET FONDEMENTS DE LA REQUÊTE
@@ -85,7 +81,6 @@ L'organisation de l'insolvabilité de la société par ses dirigeants constitue 
 > **Code de procédure civile** [Article 873](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463)[^3] <br>
 
 Par conséquent, il est indispensable de faire ordonner la communication sous astreinte de tous les documents sociaux (bilans, comptes de résultats, grands livres) et contrats d'assurance pertinents, et de prendre toute mesure conservatoire sur les comptes bancaires de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
-
 <hr><hr>
 
 ## PAR CES MOTIFS
@@ -124,8 +119,7 @@ Il est respectueusement demandé à Monsieur le Président du Tribunal de commer
 [**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
 Avocat à la Cour
 Le [Date de signature]
-
----
+<hr><hr>
 
 ## PIECES JOINTES
 
@@ -136,6 +130,7 @@ Le [Date de signature]
 - **[Extrait Kbis](../../Preuves%20officielles/20260609%20%F0%9F%93%8B%20Kbis%20SAS/20260609%20Kbis%20SAS%20L%20Exploitant.md)** — Situation juridique et capital social de la SAS
 
 - **[Mises en demeure J+31](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md)** — LRAR restees sans reponse
+<hr><hr>
 
 ## Sources Législation
 

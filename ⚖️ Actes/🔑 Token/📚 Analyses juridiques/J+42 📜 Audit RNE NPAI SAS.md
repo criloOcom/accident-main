@@ -14,12 +14,12 @@ jx: J+42
 <!-- /Breadcrumb -->
 
 # Analyse<br>Non-distribution LRAR et suspicion de structure miroir
-
 ## Sources vérifiées
 - Annuaire-entreprises.data.gouv.fr (INSEE)
 - Societe.com (RNE, mis à jour 08/07/2026)
 - Annonce JAL 14/11/2024 (création)
 - API Recherche Entreprises
+<hr><hr>
 
 ## Constats
 

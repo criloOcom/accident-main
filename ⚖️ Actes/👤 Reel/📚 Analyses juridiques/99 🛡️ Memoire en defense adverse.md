@@ -21,7 +21,6 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/99 🛡️ Memoire en defens
 # MÉMOIRE EN DÉFENSE ADVERSE
 **Pour :** [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) (Partie Défenderesse)
 **Contre :** [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) (Partie Demanderesse)
-
 ## INTRODUCTION
 Le présent mémorandum est établi pour la défense des intérêts de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et de ses dirigeants, assignés en référé-provision par Monsieur [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) suite à un incident survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure.
 
@@ -32,7 +31,6 @@ Or, une analyse rigoureuse des pièces du dossier démontre l'existence de conte
 > *« Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 > [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
 > **Code de procédure civile > Chapitre II : Les ordonnances de référé.[^1]**
-
 <hr><hr>
 
 ## I — SUR L'EXISTENCE DE CONTESTATIONS SÉRIEUSES (ART. 835 CPC)
@@ -59,7 +57,6 @@ La victime reconnaît elle-même avoir « tendu la main droite par réflexe » e
 > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.[^2]**
 
 Cette imprudence est de nature à exonérer, au moins partiellement, la gardienne de la chose de sa responsabilité, rendant l'obligation de réparation intégralement contestable en référé.
-
 <hr><hr>
 
 ## II — SUR LA MISE EN CAUSE ABUSIVE DES DIRIGEANTS
@@ -75,7 +72,6 @@ Cette argumentation est juridiquement infondée. L'écran de la personnalité mo
 Un prétendu défaut de signalisation d'une vasque ébréchée, à le supposer établi, relève tout au plus d'une négligence dans l'exploitation courante du salon, imputable à la seule [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
 
 Il n'y a ici aucune intention de nuire ni aucune infraction pénale intentionnelle de la part des dirigeants justifiant la levée de l'immunité.
-
 <hr><hr>
 
 ## III — SUR LE CHIFFRAGE EXORBITANT ET PRÉMATURÉ DES PRÉJUDICES
@@ -100,7 +96,6 @@ Chiffré à 8 000 € au motif d'une pratique de la guitare. La victime ne produ
 
 #### 4. Frais divers et PEP
 Sortis ex nihilo après réévaluation, non justifiés par des factures probantes.
-
 <hr><hr>
 
 ## CONCLUSION ET DEMANDES
@@ -117,8 +112,7 @@ Le juge des référés est le juge de l'évidence. En l'espèce :
 L'obligation de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) étant sérieusement contestable, la demande de provision de [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) doit être rejetée en toutes ses dispositions. Tout au plus, si le juge ordonne une expertise médicale (Article 145 CPC), celle-ci devra se dérouler aux frais avancés de la demanderesse sans aucune provision financière préalable.
 
 Fait pour valoir ce que de droit.
-
-
+<hr><hr>
 
 ## Sources Législation
 

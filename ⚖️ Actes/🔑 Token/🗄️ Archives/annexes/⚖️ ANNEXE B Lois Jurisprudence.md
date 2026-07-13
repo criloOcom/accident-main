@@ -12,7 +12,6 @@ type: readme
 statut: annexe
 
 # ANNEXE B<br>TEXTES DE LOI ET JURISPRUDENCE CITÉS
-
 ## TEXTES DE LOI
 
 • **[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1]** — Responsabilité pour faute (art. 1240)
@@ -139,7 +138,7 @@ statut: annexe
 > *« I.-Les dispositions du présent chapitre sont applicables aux contrats de vente de biens meubles corporels entre un vendeur professionnel, ou toute personne se présentant ou se comportant comme tel, et un acheteur agissant en qualité de consommateur. Sont assimilés à des contrats de vente aux fins du présent chapitre, les contrats en vertu desquels le professionnel délivre un bien et en transfère la propriété à un consommateur et ce dernier procure tout autre avantage, au lieu ou en complément du paiement d'un prix. Sont également assimilés à des contrats de vente aux fins du présent chapitre, les contrats de vente de biens à fabriquer ou à produire. Les dispositions du présent chapitre s'appliquent à l'eau, à l'électricité et au gaz lorsqu'ils sont conditionnés dans un volume délimité ou en quantité déterminée. Les dispositions du présent chapitre s'appliquent également aux biens comportant des éléments numériques au sens de l'article liminaire lorsque ces éléments sont fournis avec ces biens dans le cadre du contrat de vente, que ces contenus numériques ou services numériques soient fournis par le vendeur ou par un tiers. Lorsqu'il n'apparaît pas clairement que la fourniture d'un contenu numérique ou d'un service numérique fait l'objet d'un contrat distinct, cette fourniture est présumée relever du contrat de vente du bien. II.-Lorsqu'un contrat rassemble la vente de biens relevant du présent chapitre et d'autres biens non couverts par le présent chapitre, ce dernier ne s'applique qu'aux biens couverts par le présent chapitre. En outre, lorsqu'un contrat a pour objet principal la vente de biens couverts par le présent chapitre et, à titre accessoire, la fourniture de services non couverts par le présent chapitre, ce dernier ne s'applique qu'aux biens. Par ailleurs, dans le cas d'une offre groupée au sens de l'article L. 224-42-2 , les dispositions du présent chapitre ne s'appliquent qu'aux biens. Les conditions de résolution de ces contrats sont toutefois régies par l'article L. 217-16 . »* <br>
 > [Article L217-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587) <br>
 > **Code de la consommation > Section 1 : Champ d'application.[^21]**
-
+<hr><hr>
 
 ## DOCTRINE — ACCIDENTS EN SALON DE COIFFURE
 • **[Article Me J. Plouton — TJ Bordeaux, 4 novembre 2024 (RG 22/05793)](https://www.jplouton-avocat.fr/post/indemnisation-d-une-cliente-brul%C3%A9e-au-cuir-chevelu-lors-d-une-coloration-dans-un-salon-de-coiffure)**
@@ -147,6 +146,7 @@ statut: annexe
 
 • **[Synthèse Village Justice](https://www.village-justice.com/articles/coupe-ratee-teinture-loupee-cheveux-brules-abimes-par-une-coloration-reaction,45440.html)**
   Panorama de jurisprudence sur la responsabilité des salons de coiffure : coupe ratée, teinture loupée, cheveux brûlés. Confirme la responsabilité systématique du salon pour manquement à l'obligation de sécurité, tant sur le fondement civiliste (1240/1242 C.civ.) que sur celui du droit de la consommation.
+<hr><hr>
 
 ## JURISPRUDENCE
 
@@ -173,8 +173,7 @@ statut: annexe
 - [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)[^26]
 > Attendu : *« L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. »* <br>
 > Résumé : L'indemnisation au titre de l'incidence professionnelle est cumulable avec la perte de gains professionnels futurs et répare la dévalorisation sur le marché de l'emploi.
-
-
+<hr><hr>
 
 ## Sources Législation
 

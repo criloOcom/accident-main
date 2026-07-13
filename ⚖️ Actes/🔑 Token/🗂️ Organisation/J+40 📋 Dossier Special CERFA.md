@@ -23,9 +23,6 @@ jx: J+40
 # DOSSIER SPÉCIAL : FORMULAIRES CERFA APPLICABLES
 
 Dans le cadre du dossier d'accident corporel de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditions de mise en œuvre et les pièces justificatives requises.
-
-<hr><hr>
-
 ## I — SYNTHÈSE DES FORMULAIRES CERFA
 
 | Type de Démarche | Formulaire CERFA | Utilité Principale | Destinataire | Statut dans le Dossier |
@@ -33,7 +30,6 @@ Dans le cadre du dossier d'accident corporel de [**[La Victime]**](../../../%F0%
 | **Attestations de Témoins** | **CERFA n° 11527*03** | Prouver les circonstances matérielles de l'accident et l'état de la vasque défectueuse. | Tribunal Judiciaire / Assureurs | 📑 3 Gabarits prêts (Pièces 22, 23, 24) |
 | **Saisine de la CIVI** | **CERFA n° 16160*01** | Saisir la Commission d'Indemnisation pour obtenir le règlement des préjudices par le FGTI. | CIVI (Tribunal Judiciaire) | ⏳ Stratégie rédigée (À remplir si carence RC) |
 | **Aide Juridictionnelle** | **CERFA n° 16146*03** | Demander la prise en charge des honoraires d'avocat, frais d'huissier et d'expertise judiciaire. | Bureau d'Aide Juridictionnelle (TJ) | ⏳ À initier si ressources éligibles |
-
 <hr><hr>
 
 ## II — DÉTAIL DU CERFA N° 11527*03 (ATTESTATION DE TÉMOIN)
@@ -58,7 +54,6 @@ Conformément à l'Article 202 du Code de procédure civile, ce document permet 
 
 ### B. Pièce obligatoire à joindre
 - Une copie recto-verso d'une pièce d'identité officielle du témoin comportant sa signature (Carte Nationale d'Identité, Passeport, ou Titre de séjour).
-
 <hr><hr>
 
 ## III — DÉTAIL DU CERFA N° 16160*01 (SAISINE DE LA CIVI)
@@ -86,7 +81,6 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 6. Les justificatifs de pertes de revenus (déclarations URSSAF / avis fiscaux de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) en tant qu'indépendant).
 
 7. Le justificatif de nationalité française (copie de la carte d'identité ou du passeport).
-
 <hr><hr>
 
 ## IV — DÉTAIL DU CERFA N° 16146*03 (DEMANDE D'AIDE JURIDICTIONNELLE)
@@ -111,8 +105,7 @@ Si Sébastien souhaite solliciter l'aide de l'État pour couvrir les frais de ju
 4. Copie de la pièce d'identité.
 
 5. L'attestation de non-prise en charge par l'assureur (complétée par l'assureur confirmant l'absence de garantie Protection Juridique).
-
-
+<hr><hr>
 
 ## Sources Législation
 

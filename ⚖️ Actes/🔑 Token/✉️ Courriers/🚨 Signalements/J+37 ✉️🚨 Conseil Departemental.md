@@ -45,7 +45,6 @@ BP 60023
 Réf : SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md)  
 
 Madame, Monsieur le Président du Conseil Départemental,  
-
 ## INTRODUCTION
 
 La présente lettre a pour objet de vous informer de la situation de dangerosité matérielle et de non-conformité grave constatée au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), situé [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md) à [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md). Elle fait suite à un accident corporel grave dont j'ai été victime le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md).
@@ -53,7 +52,6 @@ La présente lettre a pour objet de vous informer de la situation de dangerosit�
 Cet accident a été causé par la chute brutale du préposé de l'exploitation depuis un bac à shampoing en céramique instable et cassé, sur lequel il avait dû monter pour accéder au poste de télévision, faute d'équipement d'accès adapté (escabeau) mis à disposition par l'employeur.
 
 Conscient que les pouvoirs de police spéciale relatifs à la sécurité et à la fermeture des ERP appartiennent au Maire de la commune ainsi qu'au Préfet de département, je sollicite de votre haute bienveillance le relais de ce signalement auprès des services de sécurité compétents (notamment la Commission Collégiale Départementale de Sécurité et d'Accessibilité - CCDSA).
-
 <hr><hr>
 
 ## I — RAPPEL DES FAITS
@@ -65,7 +63,6 @@ Un poste de télévision est installé en hauteur de manière inaccessible, néc
 
 - **Maintien en service d'un équipement sanitaire détérioré** :  
 Le bac à shampoing en céramique, instable et présentant une cassure préexistante majeure, a basculé sous le poids du préposé. En se brisant, il a exposé des arêtes tranchantes qui ont causé de graves lésions à ma main droite.
-
 <hr><hr>
 
 ## II — NON-CONFORMITÉS CONSTATÉES
@@ -75,7 +72,6 @@ Les faits portés à votre connaissance sont susceptibles de caractériser des m
 1. **Aménagement matériel dangereux** : Installation d'un équipement technique (téléviseur) en hauteur sans dispositif d'accès sécurisé fixe ou mobile.
 
 2. **Défaut de maintenance des installations** : Maintien à la disposition du public et du personnel d'un bac en céramique instable et présentant des dommages préexistants non réparés.
-
 <hr><hr>
 
 ## III — DEMANDE DE RELAIS
@@ -87,8 +83,7 @@ Je vous remercie par avance de m'adresser un accusé de réception écrit de la 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Président, l'expression de ma considération distinguée.
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
----
+<hr><hr>
 
 ## PIECES JOINTES
 

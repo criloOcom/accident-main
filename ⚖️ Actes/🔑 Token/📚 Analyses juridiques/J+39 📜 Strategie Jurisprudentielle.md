@@ -20,9 +20,6 @@ source: local
 # STRATÉGIE JURISPRUDENTIELLE<br>BASCULEMENT VASQUE SALON DE COIFFURE
 
 > **Objet** : Mapping des arrêts de la Cour de cassation au cas concret, hiérarchie argumentative et préparation des débats.
-
----
-
 ## I — LES 3 PILIERS DE LA DÉMONSTRATION
 ### PILIER 1 — LA CHOSE A ÉTÉ L'INSTRUMENT DU DOMMAGE (ART. 1242 AL.1)
 | Élément à prouver | Notre preuve | Arrêt de référence |
@@ -43,8 +40,7 @@ source: local
 | Le préposé monte sur la vasque pour régler la télévision | Le commettant répond des fautes du préposé dans l'exercice de ses fonctions | **Civ. 2e, 14 juin 1957** (n° pourvoi non retrouvé — fondement historique, se référer à Costedoat ci-contre pour la version moderne) |
 | Le préposé n'a pas commis de faute intentionnelle | Il bénéficie de l'immunité civile Costedoat | **Ass. Plén., 25 fév. 2000, n° 97-17.378** (Costedoat) |
 | La faute du préposé est une maladresse non intentionnelle | L'employeur assume seul la réparation | **Ass. Plén., 14 déc. 2001, n° 00-82.066** (Cousin) : seule une infraction pénale intentionnelle fait perdre l'immunité |
-
----
+<hr><hr>
 
 ## II — HIÉRARCHIE ARGUMENTATIVE (ORDRE DE PLAIDOIRIE)
 ### ARGUMENTS OFFENSIFS (À METTRE EN AVANT)
@@ -56,8 +52,7 @@ source: local
 4. **91-13.580** : La barrière conforme aux normes n'a pas été l'instrument → notre vasque n'était pas conforme (cassure).
 5. **24-21.702** : L'échelle n'a pas basculé selon les témoins → notre PV police établit le basculement.
 6. **70-12.124** : Baignoire exposée à la vente sans obligation de scellement → notre vasque était installée à demeure sur coque de douche.
-
----
+<hr><hr>
 
 ## III — TABLEAU DE CORRESPONDANCE ARRÊT → FAIT CONCRET
 | Arrêt | Fait de l'arrêt | Transposition à notre cas | Utilité |
@@ -70,8 +65,7 @@ source: local
 | 70-12.124 | Baignoire non scellée → pas de participation au dommage | Vasque installée à demeure (pas exposée à la vente) → distinction | **Distinction défensive** |
 | 14 juin 1957 (n° pourvoi non retrouvé) | Responsabilité du commettant du fait du préposé | Le préposé escalade la vasque dans le cadre de son service → employeur responsable | **Pilier 3** |
 | 11 janv. 1995 | Chose inerte : preuve position anormale ou mauvais état | Notre preuve (cassure + basculement) distingue ce cas défavorable | **Distinction défensive** |
-
----
+<hr><hr>
 
 ## IV — ANTICIPATION DES MOYENS DE LA DÉFENSE
 | Moyen attendu | Réponse |
@@ -81,8 +75,7 @@ source: local
 | « La cassure était indécelable » | 74-10.466 : le vice inhérent, même invisible, n'exonère pas le gardien |
 | « La vasque n'a pas eu de rôle actif » | Le PV établit le basculement et la chute = mouvement actif, pas inerte |
 | « L'échelle/escabeau manquant est une faute du préposé seul » | C'est une faute de service dont le commettant répond (art. 1242 al.5) + défaut d'équipement de l'employeur (L.4121-1 CT) |
-
----
+<hr><hr>
 
 ## V — SYNTHÈSE DES FORCES ET FAIBLESSES
 **Forces** :
@@ -95,10 +88,7 @@ source: local
 - La jurisprudence « chose inerte » (91-13.580, 91-15.035, 24-21.702) impose une charge probatoire
 - Mais cette charge est remplie dans notre dossier
 - Risque que le juge retienne une faute de la victime (position dangereuse volontaire)
-
----
-
----
+<hr><hr>
 
 ## VI — STRATÉGIE FINANCIÈRE ET RECOUVREMENT
 ### MONTANT ESTIMÉ : ~105 000 €
@@ -132,6 +122,7 @@ Voir détails : [11+12 📊 Evaluation Dintilhac consolidee.md](../%F0%9F%92%B0%
 - Provision sur IP : 3 000 €
 
 Fondement : art. 835 al.2 CPC — obligation non sérieusement contestable.
+<hr><hr>
 
 ## VII — RÉFÉRENCES CROISÉES
 - Fiches jurisprudence : [70-12.124](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/70-12.124_CourCassation.md), [74-10.466](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/74-10.466_CourCassation.md), [89-18.422](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md), [91-13.580](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/91-13.580_CourCassation.md), [91-15.035](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/91-15.035_CourCassation.md), [24-21.702](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/24-21.702_CourCassation.md)

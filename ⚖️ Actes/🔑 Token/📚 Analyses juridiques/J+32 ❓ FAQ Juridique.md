@@ -27,7 +27,6 @@ Rédigé par : [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF
 [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md)
 
 Rédigé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
-
 ## INTRODUCTION
 La présente synthèse juridique et FAQ a été rédigée par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) dans le cadre du contentieux l'opposant à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) à la suite de l'accident corporel du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md).
 
@@ -44,7 +43,7 @@ La présente synthèse répond en outre aux questions pratiques que la victime e
 > [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
 > **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.[^2]**
 
-<hr>
+<hr><hr>
 
 - [I. PRÉSENTATION GÉNÉRALE DE L'AFFAIRE](#i-prsentation-gnrale-de-laffaire)
 - [II. FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE](#ii-foire-aux-questions-faq-dtaille)
@@ -56,7 +55,6 @@ La présente synthèse répond en outre aux questions pratiques que la victime e
 - [IV. DÉMARCHES ET PROCÉDURES ENGAGÉES](#iv-dmarches-et-procdures-engages)
   [V. CALENDRIER ET DÉLAIS DE PROCÉDURE](#v-calendrier-et-dlais-de-procdure)
 - [VI. POINTS DE VIGILANCE ET CONCLUSION](#vi-points-de-vigilance-et-conclusion)
-
 <hr><hr>
 
 ## I — PRÉSENTATION GÉNÉRALE DE L'AFFAIRE
@@ -65,7 +63,6 @@ Cette synthèse a pour objet de récapituler les éléments factuels et juridiqu
 La victime, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), né le 18/01/1982, exerce la profession d'informaticien indépendant ([**[L'Identifiant Professionnel de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-identifiant-professionnel-de-la-victime.md)) à [**[La Ville de Résidence de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-residence-de-la-victime.md).
 
 Les parties mises en cause incluent la SAS elle-même, ses dirigeants [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md), ainsi que [**[Le Propriétaire des Murs]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-proprietaire-des-murs.md), propriétaire des murs commerciaux.
-
 <hr><hr>
 
 ## II — FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE
@@ -102,7 +99,6 @@ Le fait de cacher l'accident à son assureur ou de refuser de communiquer les co
 > *« L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. »* <br>
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre III.[^5]**
-
 <hr><hr>
 
 ## III — STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
@@ -123,7 +119,6 @@ Par ailleurs, une attention particulière est portée à la faute détachable de
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^8]**
 
 Enfin, le propriétaire des murs, [**[Le Propriétaire des Murs]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-proprietaire-des-murs.md), a été sollicité par LRAR le [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) non pas en tant que responsable de l'accident, mais comme source d'information : le bail commercial l'oblige à détenir l'attestation d'assurance RC Pro de son locataire (la SAS). À ce jour, l'AR a été retourné signé mais sans réponse sur le fond.
-
 <hr><hr>
 
 ## IV — DÉMARCHES ET PROCÉDURES ENGAGÉES
@@ -142,7 +137,6 @@ Sur le plan civil, plusieurs mises en demeure ont été expédiées le [**[J+31 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^3]**
-
 <hr><hr>
 
 ## V — CALENDRIER ET DÉLAIS DE PROCÉDURE
@@ -159,7 +153,6 @@ Une étape cruciale est fixée au [**[J+167 Expertise UMJ]**](../../../%F0%9F%A7
 > *« L'action en responsabilité née d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices, se prescrit par dix ans à compter de la date de la consolidation du dommage corporel initial ou aggravé. »* <br>
 > [Article 2226](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259) <br>
 > **Code civil > Partie législative > Livre III > Titre XX > Chapitre II > Section 2.[^10]**
-
 <hr><hr>
 
 ## VI — POINTS DE VIGILANCE ET CONCLUSION
@@ -178,8 +171,7 @@ De plus, l'action directe contre l'assureur (Art. L. 124-3 du Code des assurance
 > *« La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la clôture de celle-ci. »* <br>
 > [Article L. 237-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063) <br>
 > **Code de commerce > Partie législative > Livre V > Titre IV > Chapitre IV > Section 3.[^11]**
-
-
+<hr><hr>
 
 ## Sources Législation
 

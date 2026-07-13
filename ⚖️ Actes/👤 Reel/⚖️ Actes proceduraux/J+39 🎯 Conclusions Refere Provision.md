@@ -25,7 +25,7 @@ jx: J+39
 
 ***DEMANDE D'ORDONNANCE DE RÉFÉRÉ-PROVISION ET DE MESURES D'INSTRUCTION EN APPLICATION DES ARTICLES 835 ET 145 DU CODE DE PROCÉDURE CIVILE***
 
----
+<hr><hr>
 
 **POUR :**
 
@@ -38,9 +38,6 @@ jx: J+39
 [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), Société par Actions Simplifiée, immatriculée au RCS de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) sous le numéro SIRET [938 033 222 00010](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-identifiant-de-l-exploitation.md), ayant son siège social au [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md), représentée par ses co-dirigeants [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md).
 
 *Défenderesse*
-
----
-
 ## I — EXPOSÉ DU LITIGE
 ### A. LE SINISTRE ET SES CONSÉQUENCES MATÉRIELLES
 Le **29 mai 2026**, aux environs de 15 heures, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), informaticien indépendant de 44 ans, se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
@@ -74,8 +71,7 @@ Par l'intermédiaire d'un huissier de justice, il a été constaté la présence
 
 #### d) L'absence d'équipement
 Il n'existait dans le salon **aucun équipement d'accès en hauteur** (pas d'escabeau, pas d'échelle, pas de marchepied). Cette carence structurelle a contraint le préposé à emprunter la vasque, créant la condition même de l'accident.
-
----
+<hr><hr>
 
 ## II — DISCUSSION JURIDIQUE
 
@@ -146,8 +142,7 @@ L'obligation de la SAS envers la victime est établie par :
 
 ### B. CARACTÈRE URGENT
 Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 jours. En tant qu'informaticien indépendant, son activité repose exclusivement sur l'usage de sa main dominante. Ses frais médicaux sont réels et documentés. Les dirigeants de la SAS refusent toute coopération et n'ont pas communiqué les coordonnées de leur assureur RC Pro malgré demandes. Le capital social de la SAS (200 €) fait craindre une insolvabilité croissante si le recouvrement n'est pas accéléré.
-
----
+<hr><hr>
 
 ## III — DISPOSITIF
 **EN CONSÉQUENCE**, il est demandé au juge des référés :
@@ -189,8 +184,7 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 **[Ville]**, le **[date]**
 
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
----
+<hr><hr>
 
 ## PIECES JOINTES
 
@@ -205,8 +199,7 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 - **[Constat d'huissier]('J%2B38%20%F0%9F%93%B8%20Requete%20Constat%20Huissier.md')** — Etat des lieux de la vasque litigieuse
 
 - **[Mises en demeure J+31](../%F0%9F%93%AC%20Mise%20en%20demeure%20SAS.md)** — LRAR restees sans reponse
-
----
+<hr><hr>
 
 ## Sources Législation
 
@@ -215,8 +208,7 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 [^3]: [Arrêt n°74-10.466 — www.legifrance.gouv.fr/juri/id/JURITEXT000006993485](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485)
 [^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
 [^5]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
-
----
+<hr><hr>
 
 ## NOTE DE RÉFÉRENCE
 Cette version a été rédigée à partir du mémoire juridique produit par l'assistant Glose (juillet 2026). Elle diffère de la version antérieure du 31 juillet 2026 sur les points suivants :
@@ -232,8 +224,7 @@ Cette version a été rédigée à partir du mémoire juridique produit par l'as
 Voir les mémoires complets :
 - `📊 Rapports/expertise/20260707 Mémoire juridique Glose.md`
 - `📊 Rapports/expertise/20260707 Analyse critique Glose.md`
-
-
+<hr><hr>
 
 ## Sources Législation
 

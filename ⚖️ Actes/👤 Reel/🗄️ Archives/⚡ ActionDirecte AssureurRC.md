@@ -49,7 +49,6 @@ Objet : Mise en demeure — Action directe [Art. L.124-3](https://www.legifrance
 Réf : Dossier Sébastien GRAZIDE / SAS LES MAUVAIS GARCONS
 
 Madame, Monsieur,
-
 ## INTRODUCTION
 La présente lettre de mise en demeure est adressée par Sébastien GRAZIDE à la compagnie d'assurance de SAS LES MAUVAIS GARCONS sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1], lequel institue une action directe de la victime contre l'assureur du responsable.
 
@@ -144,8 +143,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 Mes coordonnées : 10 Avenue de Purpan, 31700 Blagnac / Courriel : sebastien.grazide@gmail.com
 
 Sébastien GRAZIDE
-
-
+<hr><hr>
 
 ## Sources Législation
 

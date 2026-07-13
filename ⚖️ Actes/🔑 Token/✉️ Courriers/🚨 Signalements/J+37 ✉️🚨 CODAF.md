@@ -43,9 +43,6 @@ BP 40087
 Réf : SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md) — Signalement Mairie de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) du 1er juin 2026  
 
 Madame, Monsieur le Président du CODAF,  
-
-<hr><hr>
-
 ## INTRODUCTION
 
 La présente est adressée au CODAF de l'Ariège par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), immatriculée sous le SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md).
@@ -53,7 +50,6 @@ La présente est adressée au CODAF de l'Ariège par [**[La Victime]**](../../..
 Cet accident a été causé par la chute brutale du préposé de l'exploitation depuis un bac à shampoing en céramique instable et cassé, sur lequel il avait dû monter pour accéder au poste de télévision, faute d'équipement d'accès adapté (escabeau) mis à disposition par l'employeur.
 
 Sa chute a entraîné sur ma main droite une plaie palmaire profonde avec lésions tendineuses et vasculo-nerveuses de l'index dominant, ayant nécessité une microchirurgie d'urgence.
-
 <hr><hr>
 
 ## I — RAPPEL DES FAITS
@@ -66,7 +62,6 @@ L'accident est survenu dans les conditions suivantes :
 - La vasque en céramique, instable et présentant une cassure préexistante, a basculé sous son poids.
 
 - Ma main droite a heurté la cassure préexistante aux arêtes coupantes, entraînant la plaie grave précitée.
-
 <hr><hr>
 
 ## II — MANQUEMENTS CONSTATÉS
@@ -119,7 +114,6 @@ L'absence de Document Unique d'Évaluation des Risques Professionnels (DUERP) à
 Le capital social de 200 € et la dissociation entre le siège social de l'activité ([**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)) et la domiciliation des dirigeants ([**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) et [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md)) ne constituent pas en soi des infractions, mais sont des éléments de contexte qui interrogent sur la sincérité et la pérennité de l'exploitation.
 
 Combinés aux autres manquements de sécurité et de déclaration suspectés, ils justifient un examen attentif de la part de vos services afin de prévenir des fraudes statutaires ou des organisations d'insolvabilité.
-
 <hr><hr>
 
 ## III — DEMANDE D'ENQUÊTE
@@ -137,8 +131,7 @@ Conformément à l'Article 40 du Code de procédure pénale, si les faits consta
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Président, l'expression de ma considération distinguée.
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
----
+<hr><hr>
 
 ## PIÈCES JOINTES
 - Copie du [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procédure pénale)
@@ -149,6 +142,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 Je vous serais reconnaissant de bien vouloir m'adresser un accusé de réception écrit de la présente, ainsi qu'une réponse, si possible dans un délai de 15 jours.
 
 Mes coordonnées pour réponse : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) — Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
+<hr><hr>
 
 ## Sources Législation
 

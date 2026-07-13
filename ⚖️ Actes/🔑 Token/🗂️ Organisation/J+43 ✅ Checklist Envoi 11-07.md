@@ -19,7 +19,6 @@ jx: J+43
 <!-- /Breadcrumb -->
 
 # CHECKLIST ENVOI LRAR<br>11 JUILLET 2026
-
 ## I — AVANT DEPART — PREPARATION
 
 ### Courriers a imprimer (👤 Reel/✉️ Courriers/)
@@ -45,6 +44,7 @@ jx: J+43
 - [ ] Courriers signes a la main (stylo noir)
 - [ ] Enveloppes preparees (format A4)
 - [ ] Stylo + carnet dans le sac pour noter les N° LRAR
+<hr><hr>
 
 ## II — A LA POSTE
 
@@ -57,6 +57,7 @@ jx: J+43
   - Courrier 35 (President TJ) : ___________________
 - [ ] Prendre photo de chaque courrier + PJ avant depot
 - [ ] Conserver les recus de depot
+<hr><hr>
 
 ## III — EMAILS (APRES RETOUR)
 
@@ -73,6 +74,7 @@ jx: J+43
 - [ ] Joindre PV, NPAI, Kbis, dossier medical en PDF
 - [ ] Demander AR de lecture
 - [ ] Noter date/heure envoi : ___________________
+<hr><hr>
 
 ## IV — ARCHIVAGE
 
@@ -80,6 +82,7 @@ jx: J+43
 - [ ] Scanner/classer les AR et recus
 - [ ] Sauvegarder les photos dans dossier preuves
 - [ ] Noter la relance J+15 = **26 juillet 2026**
+<hr><hr>
 
 ## V — RAPPELS
 

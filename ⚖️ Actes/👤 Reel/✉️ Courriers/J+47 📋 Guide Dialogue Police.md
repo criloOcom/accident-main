@@ -25,9 +25,6 @@ jx: J+47
 # GUIDE DE DIALOGUE<br>ÉCHANGES AVEC LA POLICE DE FOIX
 
 **Objectif :** Ce guide vous accompagne pas à pas lors de votre déplacement au commissariat de Foix. Il contient les phrases clés à utiliser, les questions à poser, les réponses aux objections possibles, et la stratégie pour présenter efficacement votre dossier.
-
----
-
 ## I. PRÉPARATION AVANT LE DÉPLACEMENT
 
 ### Checklist des documents à apporter
@@ -57,8 +54,7 @@ jx: J+47
 - Apportez une bouteille d'eau et un en-cas
 - Chargez votre téléphone à 100%
 - Prévoyez un moyen de transport pour rentrer
-
----
+<hr><hr>
 
 ## II. ACCUEIL ET PREMIER CONTACT
 
@@ -71,10 +67,10 @@ jx: J+47
 
 **Si on vous oriente vers un guichet spécifique :**
 "Merci beaucoup. Dois-je m'asseoir ou puis-je attendre directement au guichet ?"
-
----
+<hr><hr>
 
 ## III. PRÉSENTATION AU SERVICE DES PLAINTES
+<hr><hr>
 
 ### Introduction auprès de l'officier
 
@@ -82,8 +78,7 @@ jx: J+47
 
 **Remettez votre dossier en disant :**
 "Voici le dossier complet que j'ai préparé. Il contient la plainte complémentaire détaillée avec toutes les références juridiques, ainsi que les pièces justificatives. Je peux vous en faire un résumé si vous le souhaitez, ou vous préférez le parcourir d'abord ?"
-
----
+<hr><hr>
 
 ## IV. PRÉSENTATION ORALE DES FAITS
 
@@ -104,8 +99,7 @@ jx: J+47
 
 **4. Société fantôme (30 secondes) :**
 "Mon audit auprès du RNE et de l'INPI montre que la société est toujours 'active', mais en réalité, c'est une coquille vide : 0 salarié déclaré, pas de représentant joignable, et pourtant le commerce a rouvert le 6 juillet. C'est une dissimulation caractérisée de l'identité des vrais responsables."
-
----
+<hr><hr>
 
 ## V. RÉPONSES AUX QUESTIONS COURANTES
 
@@ -126,10 +120,10 @@ jx: J+47
 
 **Q : "Que souhaitez-vous que nous fassions précisément ?"**
 **R :** "Je sollicite plusieurs choses : 1) L'ouverture d'une enquête pour obstruction à la justice et dissimulation de preuves, 2) Un contrôle physique du salon pour vérifier l'état des lieux et rechercher les éventuelles vidéosurveillances, 3) L'identification des vrais responsables actuels de l'établissement, et 4) Un contrôle de conformité complet au titre des obligations ERP et du Code du travail."
-
----
+<hr><hr>
 
 ## VI. DEMANDES SPÉCIFIQUES À FORMULER
+<hr><hr>
 
 ### Demandes à faire oralement et par écrit
 
@@ -155,8 +149,7 @@ jx: J+47
 > *« Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale, y compris lorsque ces plaintes sont déposées dans un service ou une unité de police judiciaire territorialement incompétents. Dans ce cas, la plainte est, s'il y a lieu, transmise au service ou à l'unité territorialement compétents. Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime, qui mentionne les délais de prescription de l'action publique définis aux articles 7 à 9 ainsi que la possibilité d'interrompre le délai de prescription par le dépôt d'une plainte avec [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md), en application de l'article 85 . Si elle en fait la demande, une copie du procès-verbal lui est immédiatement remise. Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procès-verbal par leur numéro d'immatriculation administrative. »* <br>
 > [Article 15-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) <br>
 > **Code de procédure pénale > Section 1 : Dispositions générales — abrogation différée.[^4]**
-
----
+<hr><hr>
 
 ## VII. STRATÉGIE FACE AUX OBJECTIONS
 
@@ -181,8 +174,7 @@ jx: J+47
 **Objection : "Nous sommes débordés, cela peut prendre du temps"**
 **Réponse :**
 "Je comprends parfaitement les contraintes des services de police, et j'apprécie le travail que vous faites. Cependant, je tiens à souligner que le délai est un facteur crucial dans cette affaire. Plus le temps passe, plus le risque de disparition définitive des preuves augmente. C'est pourquoi je sollicite, si possible, qu'une première vérification sur place soit effectuée rapidement, ne serait-ce que pour constater l'état actuel du salon et tenter de récupérer d'éventuels enregistrements de vidéosurveillance avant qu'il ne soit trop tard."
-
----
+<hr><hr>
 
 ## VIII. QUESTIONS À POSER AUX POLICIERS
 
@@ -205,8 +197,7 @@ jx: J+47
 10. "Une coordination avec l'URSSAF et l'Inspection du Travail est-elle prévue ?"
 11. "Puis-je obtenir une copie du procès-verbal de dépôt de ma plainte complémentaire ?"
 12. "À qui dois-je m'adresser pour suivre l'avancement de l'enquête ?"
-
----
+<hr><hr>
 
 ## IX. CLÔTURE DE L'ENTRETIEN
 
@@ -226,8 +217,7 @@ jx: J+47
 1. Un accusé de réception de ma plainte complémentaire ?
 2. Le numéro de dossier ou de plainte pour référence future ?
 3. Les coordonnées précises de la personne à contacter pour le suivi ?"
-
----
+<hr><hr>
 
 ## X. SUIVI POST-DÉPÔT
 
@@ -253,8 +243,7 @@ jx: J+47
 - [ ] Vérifier si une enquête a été ouverte
 - [ ] Demander une copie du rapport d'enquête si disponible
 - [ ] Envisager un signalement au Procureur si aucune suite n'est donnée
-
----
+<hr><hr>
 
 ## XI. MÉMO JURIDIQUE RAPIDE
 
@@ -266,6 +255,7 @@ jx: J+47
 | Dissimulation preuves | Art. 434-15-1 CP | Courriers NPAI | 3 ans + 45k€ |
 | Manquement sécurité | Art. L. 4121-1 CT | Vasque non entretenue | 1 an + 10k€ |
 | Travail dissimulé | Art. L. 8221-1 CT | Réouverture non déclarée | 3 ans + 45k€ |
+<hr><hr>
 
 ### Textes clés à citer
 
@@ -279,8 +269,7 @@ jx: J+47
 
 **Code des assurances :**
 - Art. L. 124-3 : "Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile."
-
----
+<hr><hr>
 
 ## XII. CHECKLIST FINALE AVANT DE PARTIR
 
@@ -310,11 +299,10 @@ jx: J+47
 - Ne minimisez pas vos demandes
 - Ne partez pas sans accusé de réception
 
----
+<hr><hr>
 
 **BONNE CHANCE !** Ce guide est conçu pour vous donner confiance et structure lors de votre entretien. Vous avez préparé un dossier solide avec des preuves tangibles. Présentez-le avec calme et professionnalisme. Les policiers sont là pour vous aider - donnez-leur les éléments pour le faire efficacement.
-
-
+<hr><hr>
 
 ## Sources Législation
 

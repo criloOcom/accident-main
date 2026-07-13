@@ -40,7 +40,6 @@ Objet : Relance — Demande d'information assurance RC et communication d'une ad
 Réf : Dossier [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) / [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
 
 Madame la Directrice Générale, Monsieur le Président,
-
 ## I — PRÉAMBULE — ABSENCE DE RÉPONSE ET DISSIPATION DES PREUVES
 
 Par lettre de mise en demeure adressée le [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) en recommandé avec accusé de réception à chacun de vous à l'adresse du siège social ([**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md)), j'ai sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
@@ -69,8 +68,7 @@ Par la présente, je vous intime formellement l'injonction de conserver et de ne
 > **Code pénal > Section 1 : Des entraves à la saisine de la justice.[^1]**
 
 Ma présence ainsi que le déroulement de l'accident sont déjà documentés par des éléments indépendants (transaction Wero, géolocalisation, rapports médicaux et procès-verbal de police).
-
----
+<hr><hr>
 
 ## II — RAPPEL DE LA DEMANDE D'ASSURANCE
 
@@ -103,8 +101,7 @@ Compte tenu de la gravité de l'accident et des manquements flagrants à l'oblig
 > *« L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. »* <br>
 > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) <br>
 > **Code du travail > Chapitre Ier : Obligations de l'employeur.[^3]**
-
----
+<hr><hr>
 
 ## III — DEMANDE D'ADRESSE DE CORRESPONDANCE ET RISQUES FINANCIERS
 
@@ -127,10 +124,10 @@ Face aux difficultés de distribution postale à votre siège social, je vous de
 je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président, l'expression de mes salutations distinguées.
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
----
+<hr><hr>
 
 ## IV — ANNEXE JURIDIQUE — EXTRAIT DES TEXTES APPLICABLES
+<hr><hr>
 
 ### Annexe 1 : Entrave à la manifestation de la vérité
 **Article 434-4 du Code pénal (version en vigueur au 29 mai 2026)** :
@@ -138,11 +135,13 @@ je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président,
 > *« Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. Lorsque les faits prévus au présent article sont commis par une personne qui, par ses fonctions, est appelée à concourir à la manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende. »* <br>
 > [Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) <br>
 > **Code pénal > Section 1 : Des entraves à la saisine de la justice.[^1]**
+<hr><hr>
 
 ### Annexe 2 : Responsabilité personnelle des dirigeants de SAS
 La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l'égard des tiers pour faute détachable de leurs fonctions, caractérisée par un manquement délibéré d'une particulière gravité (renvois des articles L. 227-1, L. 227-8 et L. 225-251 du Code de commerce).
 **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092 (arrêt SATI)** :
 > *« La faute du dirigeant social, même lorsqu'elle est commise dans l'exercice de ses fonctions, est séparable de celles-ci lorsqu'elle constitue un manquement délibéré à ses obligations et engage sa responsabilité personnelle. »* <br>
+<hr><hr>
 
 ### Annexe 3 : Mesures d'instruction in futurum (avant tout procès)
 **Article 145 du Code de procédure civile** :
@@ -151,8 +150,7 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.[^4]** <br>
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
-
----
+<hr><hr>
 
 ## PIECES JOINTES
 
@@ -171,6 +169,7 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
 - **[Attestation de depot CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° Dossier CPAM]
 
 Dans l'attente d'un échange constructif,
+<hr><hr>
 
 ## Sources Législation
 

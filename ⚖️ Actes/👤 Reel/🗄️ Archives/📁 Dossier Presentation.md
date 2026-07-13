@@ -31,16 +31,15 @@ drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
 # DOSSIER DE PRÉSENTATION : DESTINÉ AU CONSEIL JURIDIQUE
 > 🔗 Source Google Drive : [1DdpbOypghzt…](https://drive.google.com/open?id=1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU)
 Rédigé le 30 juin 2026
-
 ## INTRODUCTION
 Le présent dossier de présentation est destiné au conseil juridique de Sébastien GRAZIDE dans le cadre du contentieux l'opposant à SAS LES MAUVAIS GARCONS à la suite de l'accident corporel grave survenu le 29 mai 2026.
 
 Ce document rassemble l'ensemble des éléments factuels, administratifs et juridiques nécessaires à la compréhension du litige et à la mise en œuvre de la stratégie de recouvrement.
 
 Il contient une synthèse des faits, l'inventaire des pièces constitutives du dossier, ainsi qu'une analyse des voies de droit envisageables pour assurer la réparation intégrale des préjudices subis par la victime.
+<hr><hr>
 
 ## SYNTHÈSE DES FAITS, PIÈCES ADMINISTRATIVES ET STRATÉGIE DE RECOUVREMENT - AFFAIRE **[LA VICTIME]**
-
 <hr><hr>
 
 ## I — STRATÉGIE DE RECOUVREMENT DES HONORAIRES PAR SUBROGATION ET PROTECTION FINANCIÈRE DE LA VICTIME
@@ -62,7 +61,6 @@ Afin de lever tout obstacle financier pour Sébastien GRAZIDE, travailleur indé
 3. L'intégration des honoraires de défense dans l'indemnisation au titre des 'frais divers' (**[Nomenclature Dintilhac]**) : Les frais engagés pour s'adjoindre les conseils d'un avocat ou d'un médecin conseil technique dans la phase amiable ou judiciaire constituent un préjudice financier direct imputable à l'accident, et doivent être réclamés à l'assureur de responsabilité civile de la SAS.
 
 4. La demande de provision ad hoc pour frais de procédure : Lors de l'assignation en référé-provision, l'avocat sollicitera une provision ad hoc à valoir sur les frais futurs d'expertise médicale et d'assistance juridique.
-
 <hr><hr>
 
 ## II — EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE
@@ -77,7 +75,6 @@ Sa paume est entrée en contact direct avec la vasque en céramique. Or, celle-c
 Ce choc a provoqué une section profonde de 8,5 cm au niveau de sa paume droite (main dominante, pince pouce-index). Sébastien GRAZIDE a été opéré le samedi 30 mai 2026 par le Dr Iskander DJERBI au service SOS Main de Clinique de l'Union.
 
 Les examens cliniques constatent une section partielle du tendon fléchisseur, une section complète du paquet collatéral et une neurolyse du nerf palmaire, entraînant une ITT de 56 jours (jusqu'au 23 juillet 2026 inclus) et des paresthésies sévères de l'index droit.
-
 <hr><hr>
 
 ## III — ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES
@@ -99,12 +96,7 @@ Sébastien GRAZIDE agit actuellement en son nom propre et a formalisé les déma
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
-
-<hr>
-
----
-
-
+<hr><hr>
 
 ## Sources Législation
 

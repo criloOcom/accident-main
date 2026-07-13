@@ -26,7 +26,6 @@ drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 # CONSTITUTION DE PARTIE CIVILE
 > 🔗 Source Google Drive : [1tdFbDxNceGV…](https://drive.google.com/open?id=1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc)
 Rédigé le **[J+32 Assignation référé]**
-
 ## INTRODUCTION
 La présente constitution de partie civile est formée par **[La Victime]** dans le cadre de la procédure pénale suivie devant le Tribunal Correctionnel de **[La Ville de l'Accident]** à l'encontre de **[L'Exploitant du Commerce (La SAS)]**.
 
@@ -91,12 +90,7 @@ Pour justifier le préjudice subi :
 Fait à **[La Ville de Résidence de la Victime]**, le **[J+32 Assignation référé]**
 
 Signature :
-
-<hr>
-
----
-
-
+<hr><hr>
 
 ## Sources Législation
 

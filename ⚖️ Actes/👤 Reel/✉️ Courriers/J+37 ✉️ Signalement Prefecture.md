@@ -40,7 +40,6 @@ Objet : Confirmation officielle de signalement — Accident du [29 mai 2026](../
 Ref : Signalement effectue par la Mairie de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) le 1er juin 2026
 
 Madame, Monsieur le Prefet,
-
 ## INTRODUCTION
 La presente est adressee a vos services par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), situe 22 Rue Lafaurie, 09000 Foix a [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md).
 
@@ -48,14 +47,13 @@ Cet accident a ete cause par la chute brutale du prepose de l'exploitation depui
 
 **Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main.**
 
-<hr>
+<hr><hr>
 
 - [I — RAPPEL DES FAITS](#i--rappel-des-faits)
 - [II — PROCEDURES EN COURS](#ii--procedures-en-cours)
 - [III — SIGNALEMENTS TRANSMIS](#iii--signalements-transmis)
 - [IV — DEMANDE DE CONFIRMATION ET DE SUITE](#iv--demande-de-confirmation-et-de-suite)
-
-<hr>
+<hr><hr>
 
 ## I — RAPPEL DES FAITS
 Le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur. L'equipement, instable et presentant une cassure preexistante non signalee, a bascule sous le poids du prepose.
@@ -63,8 +61,7 @@ Le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/t
 Ma main droite, tendue par reflexe, a heurte la cassure preexistante, entrainant des lesions graves ayant necessite une microchirurgie d'urgence.
 
 **Cet accident revele de multiples manquements aux regles de securite applicables aux etablissements recevant du public (ERP) et au Code du travail.**
-
-<hr>
+<hr><hr>
 
 ## II — PROCEDURES EN COURS
 Plusieurs procedures ont ete engagees a ce jour :
@@ -80,8 +77,7 @@ Plusieurs procedures ont ete engagees a ce jour :
 5. Dossier de recours contre tiers a la CPAM (n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**)
 6. Demande d'enquete a l'Inspection du Travail (DDETS 09 / DREETS Occitanie)
 7. Saisine du CODAF
-
-<hr>
+<hr><hr>
 
 ## III — SIGNALEMENTS TRANSMIS
 Il m'a ete indique par la Mairie de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) le 1er juin 2026 qu'un signalement avait ete effectue aupres de vos services et du CODAF. Je sollicite par la presente confirmation que ce signalement a bien ete reeu et instruit par vos services, et souhaite etre tenu informe des suites qui lui sont reservees.
@@ -101,8 +97,7 @@ Je porte par ailleurs a votre connaissance les manquements suivants, constates d
 - Defaut presumee d'assurance RC professionnelle
 
 - Travail dissimule presume
-
-<hr>
+<hr><hr>
 
 ## IV — DEMANDE DE CONFIRMATION ET DE SUITE
 Je sollicite de vos services :
@@ -112,8 +107,7 @@ Je sollicite de vos services :
 3. La communication des suites reserves a ce signalement
 
 Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) — Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
-
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 
@@ -132,8 +126,7 @@ Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20M
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Prefet, l'expression de ma consideration distinguee.
 
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
-
+<hr><hr>
 
 ## Sources Législation
 

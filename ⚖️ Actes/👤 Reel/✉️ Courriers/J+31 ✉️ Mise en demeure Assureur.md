@@ -41,9 +41,6 @@ Objet : Mise en demeure — Action directe Art. L.124-3 Code des assurances — 
 Réf : Dossier [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) / [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
 
 Madame, Monsieur,
-
-<hr>
-
 ## INTRODUCTION
 La présente lettre de mise en demeure est adressée par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à la compagnie d'assurance de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) sur le fondement de l'article L. 124-3 du Code des assurances, lequel institue une action directe de la victime contre l'assureur du responsable.
 
@@ -55,7 +52,7 @@ Par ce courrier, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%8
 
 Cette action directe permet à la victime de saisir directement l'assureur sans passer par l'intermédiaire de la société responsable, conformément aux dispositions du Code des assurances.
 
-<hr>
+<hr><hr>
 
 **Rappel des obligations légales**
 
@@ -126,7 +123,7 @@ Sous toutes réserves quant à l'aggravation future de l'état fonctionnel de sa
 
 Et de la capitalisation de ses dépenses de santé futures.
 
-<hr>
+<hr><hr>
 
 **Transparence sur la suite donnée au dossier**
 
@@ -145,8 +142,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) — d'abord en référé pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
-
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 
@@ -163,8 +159,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 Mes coordonnées : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) / Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
 
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
-
+<hr><hr>
 
 ## Sources Législation
 

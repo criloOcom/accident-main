@@ -35,12 +35,11 @@ drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
 # **MÉMORANDUM JURIDIQUE : AFFAIRE [LA VICTIME]**
 > 🔗 Source Google Drive : [1Ikk9wlfyLuF…](https://drive.google.com/open?id=1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes)
 Rédigé le **[J+32 Assignation référé]**
-
 ## INTRODUCTION
 Le présent mémorandum juridique constitue un audit stratégique et une restructuration de l'arsenal contentieux déployé par **[La Victime]** à l'encontre de **[L'Exploitant du Commerce (La SAS)]** à la suite de l'accident corporel survenu le **[J+0 Accident]**. Ce document analyse l'ensemble des voies de droit ouvertes à la victime, évalue la solidité des fondements juridiques invocables et propose une stratégie contentieuse cohérente et optimisée. Il examine successivement les actions relevant du droit civil, du droit pénal et du droit des assurances, en vue d'assurer la réparation intégrale des préjudices subis.
+<hr><hr>
 
 ## *AUDIT STRATÉGIQUE ET RESTRUCTURATION DE L'ARSENAL CONTENTIEUX*
-
 <hr><hr>
 
 ## I — PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
@@ -57,7 +56,6 @@ L'affaire met en cause la responsabilité de la personne morale, dirigée par **
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
-
 <hr><hr>
 
 ## II — CADRE JURIDIQUE DE LA RESPONSABILITÉ
@@ -79,7 +77,6 @@ La responsabilité personnelle des dirigeants peut être engagée, nonobstant l'
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^4]**
-
 <hr><hr>
 
 ## III — MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
@@ -101,7 +98,6 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 > *« Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »* <br>
 > [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) <br>
 > **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307[^7]**
-
 <hr><hr>
 
 ## IV — PLAN D'ACTION CONTENTIEUX
@@ -111,12 +107,7 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 1. Conclusion de partie civile : Déposer des conclusions motivées devant le Tribunal correctionnel.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
-
-<hr>
-
----
-
-
+<hr><hr>
 
 ## Sources Législation
 

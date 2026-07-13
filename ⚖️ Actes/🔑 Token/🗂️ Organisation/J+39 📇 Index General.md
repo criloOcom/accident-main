@@ -23,7 +23,6 @@ jx: J+39
 # INDEX DU DOSSIER [**[LA VICTIME]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
 > 🔗 Source Google Drive : [1Zp-JK9kz0V0…](https://drive.google.com/open?id=1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU)
 Rédigé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) — Mis à jour le [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-mise-a-jour.md) (unification bordereau 43 pièces)
-
 ## INTRODUCTION
 *Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) c/ [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), à la suite de l'accident corporel grave survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md). Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) et reflète l'état final de la composition du dossier.*
 
@@ -32,7 +31,6 @@ Rédigé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F
 Destinataire : Analyse tierce
 
 Partage depuis : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
-
 <hr><hr>
 
 ## 00 — PREUVES OFFICIELLES
@@ -43,7 +41,6 @@ Partage depuis : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F
 - 2026-06-02 - PV Police ✓ Vérifié : Procès-verbal de constat n°[ ...].
 - 2026-06-19 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
 - 2026-06-29 - Forensic Evidence File ✓ Vérifié : Dossier de preuves numériques et médicales.
-
 <hr><hr>
 
 ## 01 — ACTES PROCÉDURAUX
@@ -56,7 +53,6 @@ Partage depuis : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F
 - 2026-07-05 - 07 🛡️ Constitution Partie Civile - V1 ✓ Vérifié : Constitution PC complémentaire avec mises en cause personnelles dirigeants.
 
 > *« Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
-
 <hr><hr>
 
 ## 02 — COURRIERS
@@ -89,7 +85,6 @@ Partage depuis : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F
 - 2026-07-05 - J+32 📋 Attestation Employe - V1 ✓ Vérifié : Gabarit d'attestation d'employé.
 - 2026-07-05 - 25 📧 Relance [Le Chirurgien SOS Main] - V1 ✓ Vérifié : Relance demande certificat médical de consolidation.
 - 2026-07-05 - 26-28 📧 Attestations Témoin - V1 ✓ Vérifié : Attestations témoin (client, pompier, employé) versions réalistes.
-
 <hr><hr>
 
 ## 03 — ANALYSES JURIDIQUES
@@ -108,7 +103,6 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 - 2026-07-05 - 12 📁 Dossier Plaidoirie - V1 ✓ Vérifié : Dossier complet de plaidoirie pour l'audience.
 - 2026-07-05 - 14 Stratégie jurisprudentielle - V1 ✓ Brouillon : Stratégie jurisprudentielle pour l'audience.
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
-
 <hr><hr>
 
 ## 04 — ÉTUDES D'INDEMNISATION
@@ -116,7 +110,6 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 
 > Attendu : *« Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »* <br>
 > Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
-
 <hr><hr>
 
 ## 05 — ORGANISATION
@@ -124,7 +117,6 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 - 2026-07-05 - 11 📅 Calendrier procedural - V1 ✓ Vérifié : Calendrier procédural et échéances.
 - 2026-06-29 - 00 📇 Index (ce document) ✓ Vérifié : Index et structure du dossier.
 - 2026-07-05 - 20 📦 Bon envoi physique - V1 ✓ Vérifié : Bon d'envoi physique des pièces au tribunal.
-
 <hr><hr>
 
 ## MÉMOIRES D'AUDIT
@@ -142,7 +134,6 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 - [TOKEN MAP.md](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md) ✓ Vérifié : Table de correspondance des tokens.
 - [STRICT VARIABLES.md](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md) ✓ Vérifié : Variables et faits inaltérables.
 - [PIECES MAP.md](../../../%F0%9F%A7%A0%20Memory/PIECES%20MAP.md) ✓ Vérifié : Correspondance documents et pièces.
-
 <hr><hr>
 
 ## ARCHIVES
@@ -156,7 +147,6 @@ Documents non indexés conservés dans `archives/` :
 - [archives/🧠 STRATEGIE Contentieux Civil.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Civil.md)
 - [archives/🧠 STRATEGIE Contentieux Penal.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md)
 - [archives/📁 Dossier Presentation.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%93%81%20Dossier%20Presentation.md)
-
 <hr><hr>
 
 ## MODIFICATIONS CLÉS
@@ -176,7 +166,6 @@ Documents non indexés conservés dans `archives/` :
 13. Bordereau unifié V2 — fusion Audience + ancien, 43 pièces séquentielles ✓
 14. Références croisées mises à jour dans tous les actes (01, 02b, 03) ✓
 15. Ancien « Bordereau de pieces.md » supprimé ✓
-
 <hr><hr>
 
 ## RÉFÉRENCES JURISPRUDENTIELLES
@@ -208,7 +197,6 @@ Documents non indexés conservés dans `archives/` :
 - [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)[^12]
 > Attendu : *« Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »* <br>
 > Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
-
 <hr><hr>
 
 ## STATISTIQUES DU DOSSIER (MÀJ **[J+38 MISE À JOUR]**)
@@ -224,7 +212,6 @@ Documents non indexés conservés dans `archives/` :
 - Pièces au bordereau unifié : **43 numérotées séquentiellement** (groupes A-G)
 
 *NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md). Seule l'Étude d'indemnisation (Piece 03) est conservée dans 💰 Etudes indemnisation.*
-
 <hr><hr>
 
 ## TRAVAUX RESTANTS
@@ -234,8 +221,7 @@ Documents non indexés conservés dans `archives/` :
 4. **Envoi emails** — Expédier 08 (Adjoint Maire), 18 (SDIS), 20 (Police), 21 (CPAM).
 5. **Relance SAS/dirigeants** — Seconde mise en demeure si pas de réponse au 14 juillet.
 6. **Preuves officielles** — Insérer les documents physiques dans `📂 Preuves officielles/`.
-
-
+<hr><hr>
 
 ## Sources Législation
 

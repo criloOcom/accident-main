@@ -25,7 +25,6 @@ jx: J+32
 Rédigé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
 
 Rédigé par : La Victime
-
 ## INTRODUCTION
 Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) dans le cadre de l'accident corporel survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md).
 
@@ -40,7 +39,6 @@ Ce document examine les fondements juridiques de la mise en cause de la responsa
 > [Article L. 225-251](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) <br>
 
 Il identifie les manquements aux obligations légales et réglementaires imputables aux dirigeants et évalue les perspectives d'engagement de leur responsabilité personnelle à l'égard de la victime.
-
 <hr><hr>
 
 ## I — PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
@@ -51,7 +49,6 @@ Lors de cet événement, le basculement d'un équipement défectueux a causé un
 La situation est complexifiée par le silence des dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md), concernant la couverture assurantielle de la structure.
 
 PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) est désigné comme « La Victime », [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) comme « L'Exploitant », et [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) comme « Les Dirigeants ».
-
 <hr><hr>
 
 ## II — LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS
@@ -90,7 +87,6 @@ Une condamnation pour blessures involontaires sur le fondement de l'article 222-
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 > [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
 > **Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2.[^6]**
-
 <hr><hr>
 
 ## III — MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
@@ -121,17 +117,13 @@ Pour La Victime, informaticien indépendant, l'incidence professionnelle est maj
 Elle ne se limite pas à la perte de gains actuels mais inclut la dévalorisation sur le marché du travail et la pénibilité accrue.
 
 Le préjudice global est estimé à **~90 000 €**, incluant le déficit fonctionnel permanent et les souffrances endurées, tel que détaillé dans l'étude d'indemnisation prospective.
-
 <hr><hr>
 
 ## IV — SYNTHÈSE DES ACTIONS ET DÉMARCHES EN COURS
 Une stratégie multi-niveaux a été déployée : une plainte pénale complémentaire a été déposée pour défaut d'assurance et entrave, parallèlement à la transmission des pièces médicales au Procureur. 
 
 Enfin, des mises en demeure ont été adressées à L'Exploitant et à ses Dirigeants pour obtenir les garanties nécessaires à la résolution du litige, tandis que le propriétaire des murs a été sollicité pour la communication des coordonnées de l'assureur (via les annexes du bail commercial).
-
 <hr><hr>
-
-
 
 ## Sources Législation
 

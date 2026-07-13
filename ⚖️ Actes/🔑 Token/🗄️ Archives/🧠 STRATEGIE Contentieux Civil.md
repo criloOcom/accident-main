@@ -36,11 +36,11 @@ source: drive
 
 # STRATEGIE CONTENTIEUX CIVIL
 Rédigé le **[J+36 Lettre consolidation]**
-
 ## I — PRÉSENTATION
 Le **[J+0 Accident]**, **[La Victime]** a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]** (**[L'Exploitant du Commerce (La SAS)]**, SIRET **[SIRET de l'Exploitation]**), situé **[L'Adresse de l'Exploitation]**. Alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, **[La Victime]** a tendu la main droite pour protéger **[Le Préposé de l'Exploitation]** ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une microchirurgie SOS Main en urgence.
 
 Le contentieux civil a pour objet d'obtenir la réparation intégrale des préjudices subis, estimés à 59 600 € selon la nomenclature Dintilhac. Il se déploie sur plusieurs fondements juridiques complémentaires incluant, en cas de défaillance de l'auteur, la voie indemnitaire du Fonds de Garantie des Victimes d'Infractions (FGTI).
+<hr><hr>
 
 ## II — FONDEMENTS JURIDIQUES
 ### 2.1 RESPONSABILITÉ DU COMMETTANT
@@ -84,6 +84,7 @@ Conformément à [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/c
 > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.[^5]**
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
+<hr><hr>
 
 ## III — VOIES DE PROCÉDURE ENGAGÉES
 ### 3.1 RÉFÉRÉ-PROVISION
@@ -141,6 +142,7 @@ Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels rés
 - En l'état de l'enquête préliminaire en cours, la date de référence est celle de l'infraction (**[J+0 Accident]**).
 
 Cette voie est subsidiaire : elle ne se substitue pas à l'action directe contre l'assureur, mais la sécurise en cas d'insolvabilité de l'auteur.
+<hr><hr>
 
 ## IV — ÉVALUATION DES PRÉJUDICES
 L'évaluation des préjudices subis par **[La Victime]**, informaticien indépendant (SIREN **[L'Identifiant Professionnel de la Victime]**, chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :
@@ -166,6 +168,7 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 > *« L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. »* <br>
 > [Arrêt n°19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) <br>
 > **Cour de cassation, 2e chambre civile, 6 mai 2021, n° 19-23.173[^14]**
+<hr><hr>
 
 ## V — CALENDRIER PROCÉDURAL
 | Phase | Action | Échéance |
@@ -177,6 +180,7 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 | Audience de plaidoirie | Jugement au fond | 6 à 12 mois |
 | Appel éventuel | Si la décision est contestée par une partie | Délai d'appel : 1 mois |
 | Saisine CIVI (subsidiaire) | Demande d'indemnisation FGTI si SAS insolvable | Jusqu'à 3 ans post-infraction (prorogeable 1 an apres decision penale) |
+<hr><hr>
 
 ## VI — RÉCAPITULATIF DES PIÈCES
 Pièces médicales :
@@ -202,8 +206,7 @@ Pièces de procédure :
 - **[J+31 Mises en demeure]** — Mise en demeure **[L'Exploitant du Commerce (La SAS)]**
 - **[J+31 Mises en demeure]** — Mise en demeure **[Le Président de l'Exploitation]**
 - **[J+31 Mises en demeure]** — Mise en demeure **[La Directrice Générale de l'Exploitation]**
-
-
+<hr><hr>
 
 ## Sources Législation
 

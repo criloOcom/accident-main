@@ -37,17 +37,15 @@ jx: J+31
 
 Objet : Demande d'information et communication d'assurance — Accident [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — L.R.A.R.
 
-<hr>
+<hr><hr>
 
 Réf : Dossier [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) / [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
 
 Madame la Directrice Générale, Monsieur le Président,
-
 ## INTRODUCTION
 La présente lettre de mise en demeure est adressée conjointement par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md), en leur qualité de dirigeants de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md).
 
 **Ce courrier constitue une démarche constructive et préalable à toute action contentieuse, conformément aux obligations légales et à la jurisprudence applicable en matière de responsabilité personnelle des dirigeants.**
-
 <hr><hr>
 
 ## I — RAPPEL DES OBLIGATIONS LÉGALES
@@ -80,7 +78,7 @@ En application de ce renvoi, l'article L. 225-251 du même code dispose que :
 
 **Le défaut d'information de la victime sur l'identité de l'assureur constitue un manquement grave à l'obligation de loyauté et de transparence qui incombe à tout dirigeant d'entreprise.**
 
-<hr>
+<hr><hr>
 
 Je me permets de vous adresser la présente lettre dans une démarche constructive et explicative concernant l'accident corporel dont j'ai été la victime au sein de votre salon de coiffure le vendredi [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) à 15h00.
 
@@ -132,7 +130,7 @@ Dans cette hypothèse, je serai également contraint de rechercher la responsabi
 
 **Je vous remercie sincèrement de l'attention que vous porterez à cette demande administrative et reste disponible pour tout échange afin de faire avancer ce dossier dans le respect mutuel des parties.**
 
-<hr>
+<hr><hr>
 
 Transparence sur la suite donnée au dossier
 
@@ -169,8 +167,7 @@ je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président,
 > NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
 > Cette situation de handicap physique temporaire explique le délai de transmission de mes demandes administratives.
-
----
+<hr><hr>
 
 ## PIECES JOINTES
 
@@ -185,6 +182,7 @@ je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président,
 - **[Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
 
 Comptant sur votre diligence,
+<hr><hr>
 
 ## Sources Législation
 

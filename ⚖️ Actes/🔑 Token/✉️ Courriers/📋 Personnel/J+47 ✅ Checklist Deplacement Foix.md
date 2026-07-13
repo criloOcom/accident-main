@@ -23,7 +23,6 @@ jx: J+47
 > Checklist personnelle pour organiser le déplacement à Foix.
 
 # CHECKLIST COMPLÈTE<br>DÉPLACEMENT À FOIX (15 JUILLET 2026)
-
 ## 📋 PROGRAMME DE LA JOURNÉE
 
 | Créneau | Lieu | Action |
@@ -37,8 +36,7 @@ jx: J+47
 - **TJ de Foix** : Avenue Paul Laffont, 09000 Foix (tél : 05 61 65 38 00)
 - **Commissariat** : Rue du Capitaine Ferber, 09000 Foix (tél : 05 61 65 08 22)
 - **22 Rue Lafaurie** : Lieu de l'accident — salon "Les Mauvais Garçons"
-
----
+<hr><hr>
 
 ## 📅 PRÉPARATION 48H À L'AVANCE
 
@@ -102,8 +100,7 @@ jx: J+47
 - [ ] Prévoir un en-cas et une bouteille d'eau
 - [ ] Prévoir des vêtements professionnels
 - [ ] Vérifier la météo et adapter la tenue
-
----
+<hr><hr>
 
 ## 📂 DERNIÈRES VÉRIFICATIONS (VEILLE AU JOUR J)
 
@@ -142,8 +139,7 @@ jx: J+47
 - [ ] Montre
 - [ ] Lunettes (si besoin)
 - [ ] Médicaments (si traitement)
-
----
+<hr><hr>
 
 ## 🚗 JOUR J - MATIN
 
@@ -200,8 +196,7 @@ jx: J+47
 - [ ] Porte-monnaie (argent liquide + cartes)
 - [ ] Lunettes de soleil
 - [ ] Parapluie (si nécessaire)
-
----
+<hr><hr>
 
 ## 🏛️ ÉTAPE 1 — TJ DE FOIX (Matin, 9h-12h)
 
@@ -228,8 +223,7 @@ jx: J+47
 - [ ] **Demander le traitement accéléré** : expliquer urgence vidéos (péril avant 15 août)
 - [ ] **OBTENIR : un récépissé de dépôt AJ** avec numéro
 - [ ] Demander délai estimé (2 à 6 semaines annoncées)
-
----
+<hr><hr>
 
 ## 🏛️ ÉTAPE 2 — VISITE DES LIEUX (Midi, 22 Rue Lafaurie)
 
@@ -259,8 +253,7 @@ jx: J+47
   - Identité complète + copie pièce d'identité
   - "Je soussigné atteste que..."
   - Date et signature
-
----
+<hr><hr>
 
 ## 👮 ÉTAPE 3 — COMMISSARIAT DE POLICE (Après-midi, 14h-18h)
 
@@ -279,8 +272,7 @@ jx: J+47
 - [ ] Préparer mentalement la présentation
 - [ ] Noter l'heure d'arrivée
 - [ ] Rester calme et patient
-
----
+<hr><hr>
 
 ## 👮 ÉTAPE 3 (suite) — ENTRETIEN AVEC L'OFFICIER
 
@@ -324,8 +316,7 @@ jx: J+47
 | "Ce n'est pas pénal, c'est civil" | "La mise en danger (223-1 CP), l'obstruction (434-15 CP) et le défaut d'assurance (L.324-2 C.assur.) sont des **infractions pénales** caractérisées" |
 | "Il faut passer par un avocat" | "La loi m'autorise à déposer plainte moi-même sans avocat, c'est un droit constitutionnel (art. 15 DDHC + art. 40 CPP)" |
 | "On va transmettre au Parquet" | "Parfait, pouvez-vous me donner un **récépissé** de cette transmission ?" |
-
----
+<hr><hr>
 
 ## 📝 CLÔTURE — FIN DE JOURNÉE
 
@@ -351,8 +342,7 @@ jx: J+47
 - [ ] Remercier chaque interlocuteur pour son temps
 - [ ] Exprimer la disponibilité pour suite
 - [ ] Noter l'heure de fin
-
----
+<hr><hr>
 
 ## 🏠 RETOUR À DOMICILE
 
@@ -384,8 +374,7 @@ jx: J+47
 - [ ] Suivre l'état de la demande AJ
 - [ ] Préparer la relance si silence
 - [ ] **Attendre désignation avocat par le BAJ** (AJ totale = désignation d'office, ne pas contacter soi-même)
-
----
+<hr><hr>
 
 ## 📅 SUIVI POST-DÉPÔT
 
@@ -410,8 +399,7 @@ jx: J+47
 - [ ] Bilan des actions engagées
 - [ ] Décision suite à donner
 - [ ] Préparation prochaine étape
-
----
+<hr><hr>
 
 ## 💡 CONSEILS PRATIQUES
 
@@ -450,8 +438,7 @@ jx: J+47
 - N'oubliez pas de relancer
 - Ne restez pas sans réponse
 - Ne négligez pas le suivi
-
----
+<hr><hr>
 
 ## ✅ CHECKLIST RÉCAPITULATIVE
 
@@ -497,7 +484,7 @@ jx: J+47
 - [ ] Bilan J+7
 - [ ] Décision J+15
 
----
+<hr><hr>
 
 **📌 NOTE IMPORTANTE :** Cette checklist est conçue pour vous guider étape par étape. Cochez chaque item au fur et à mesure de son accomplissement. En cas de doute ou de situation imprévue, référez-vous au **Guide de Dialogue (n°37)** qui contient les réponses aux questions courantes et les stratégies pour faire face aux objections.
 

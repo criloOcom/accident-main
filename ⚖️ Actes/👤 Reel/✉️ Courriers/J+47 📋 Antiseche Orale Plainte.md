@@ -20,13 +20,9 @@ statut: archive
 **À l'attention de : Commissariat de Police de Foix — Service des Plaintes — Officier en charge du [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)**
 
 **Déposant :** [Moi — mon identité]
-
----
-
 ## 🎯 **OBJET : PLAINTE COMPLÉMENTAIRE**
 **Infractions principales : BLESSURES INVOLONTAIRES (222-20 CP) / OBSTRUCTION À LA JUSTICE (434-4 CP) / TRAVAIL DISSIMULÉ (L.8221-1 CT)**
-
----
+<hr><hr>
 
 ## 📝 **EXPOSÉ DES FAITS**
 
@@ -150,8 +146,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 - Aucun accusé de réception signé.
 - Refus systématique de communiquer toute information utile à l'enquête.
 - Cette attitude démontre une **volonté délibérée d'entraver la procédure judiciaire**.
-
----
+<hr><hr>
 
 ## 🔍 **DEMANDE D'ENQUÊTE APPROFONDIE**
 
@@ -179,8 +174,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 ### **5. Enquête financière**
 - **Vérification de la solvabilité réelle** : Analyser la situation financière de la SAS.
 - **Risque de dissolution frauduleuse** : Prévenir toute tentative de disparition pour échapper aux responsabilités.
-
----
+<hr><hr>
 
 ## 📌 **PIÈCES JUSTIFICATIVES JOINTS**
 
@@ -190,8 +184,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 4. **Photos du salon rouvert** (preuve de l'activité)
 5. **Dossier médical** (certificats médicaux, [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md))
 6. **Mises en demeure non répondus** (preuves de la mauvaise volonté)
-
----
+<hr><hr>
 
 ## 🗣️ **SCRIPTS D'ACCUEIL — VERSION 30 SECONDES**
 
@@ -206,8 +199,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 
 ### **Si l'OPJ te reçoit en audition — amorce**
 > *« Bonjour Madame/Monsieur l'officier. Je suis [Mon nom], victime d'un accident grave le 29 mai au salon Les Mauvais Garçons. J'ai déjà un PV (2026/015967). Je viens pour une plainte complémentaire, parce que depuis, la société refuse de communiquer son assurance et ne répond à aucun courrier. Et surtout, les vidéos de surveillance risquent d'être écrasées d'un jour à l'autre si rien n'est fait. »* <br>
-
----
+<hr><hr>
 
 ## ⚖️ **FONDEMENTS JURIDIQUES**
 
@@ -245,11 +237,10 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
 
----
+<hr><hr>
 
 > **Note :** ⚠️ DOCUMENT PERSONNEL — antisèche pour usage oral uniquement. Ne pas imprimer ni déposer. La version officielle à déposer est le fichier `36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md`.
-
-
+<hr><hr>
 
 ## Sources Législation
 

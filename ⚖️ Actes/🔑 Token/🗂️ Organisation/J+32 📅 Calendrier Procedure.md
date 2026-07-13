@@ -77,6 +77,7 @@ jx: J+32
 | Non précisé | EVT-40 | Évaluation des Souffrances Endurées | Médical | Chiffrage estimatif |
 | Non précisé | EVT-41 | Dépenses de Santé Futures (DSF) | Médical | Chiffrage prospectif |
 | Non précisé | EVT-42 | Frais de justice (Article 475-1) | Procédure | Demande en justice |
+<hr><hr>
 
 ## II — ÉCHÉANCES À VENIR
 | Date | ID | Événement | Catégorie | Statut |
@@ -85,6 +86,7 @@ jx: J+32
 | 15/07/2026 | EVT-16 | Lancement de l'assignation en référé | Procédure | À venir |
 | 31/07/2026 | EVT-18 | Audience de référé-communication | Procédure | À venir |
 | [**[J+167 Expertise UMJ]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) 13:45 | EVT-17 | Expertise Médicale Judiciaire | Médical | Programmé |
+<hr><hr>
 
 ## III — SYNTHÈSE
 - **Total d'événements :** 61

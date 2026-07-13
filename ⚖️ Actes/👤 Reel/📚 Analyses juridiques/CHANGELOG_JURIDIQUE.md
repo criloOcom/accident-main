@@ -15,9 +15,6 @@ statut: brouillon
 Enregistrement des corrections et mises à jour **juridiques** apportées aux actes et notes du dossier, avec date, type de correction et outils de vérification utilisés (Légifrance, OpenLegi).
 
 > Dernière mise à jour : 2026-07-13
-
----
-
 ## 1. Corrections sur les articles de codes
 
 ### 1.1 Code de commerce — procédures collectives
@@ -34,7 +31,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
   - OpenLegi : recherche `L.654-7` dans C.com. → `LEGIARTI000019984550` (VIGUEUR)
 - **Date :** 2026-07-13
 
----
+<hr><hr>
 
 ### 1.2 Code de procédure pénale — réquisitions de vidéosurveillance
 
@@ -49,7 +46,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
   - Légifrance : texte intégral des articles 56-1 et 77-1-1 CPP
 - **Date :** 2026-07-13
 
----
+<hr><hr>
 
 ### 1.3 Code de la construction et de l'habitation — ERP
 
@@ -64,7 +61,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
   - Légifrance (partie réglementaire CCH)
 - **Date :** 2026-07-13
 
----
+<hr><hr>
 
 ### 1.4 Code monétaire et financier — suppression de L. 224-98
 
@@ -77,8 +74,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 - **Vérification :**
   - OpenLegi : recherche `L.224-98` dans CMF et C. consom. → aucun résultat
 - **Date :** 2026-07-13
-
----
+<hr><hr>
 
 ## 2. Harmonisation des URL Légifrance
 
@@ -102,8 +98,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 - **Raison :** S'aligner sur l'identifiant correspondant à la rédaction en vigueur de l'article 706-3 CPP (version 2023).
 - **Vérification :** Légifrance (consultation dernière version 706-3 CPP)
 - **Date :** 2026-07-13
-
----
+<hr><hr>
 
 ## 3. Jurisprudence
 
@@ -116,8 +111,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 - **Raison :** Honnêteté intellectuelle : signaler l'absence de pourvoi vérifiable. Les arrêts Costedoat (Ass. plén., 25 fév. 2000, n° 97-17.378) et Cousin (Ass. plén., 14 déc. 2001, n° 00-82.066), déjà cités dans le même document, couvrent le même principe de manière plus actuelle.
 - **Vérification :** Légifrance (recherche par date/juridiction) — pourvoi non retrouvé dans la base.
 - **Date :** 2026-07-13
-
----
+<hr><hr>
 
 ## 4. Méthodologie
 

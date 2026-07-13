@@ -21,10 +21,9 @@ source: local
 <!-- /Breadcrumb -->
 
 # FICHE REFLEXE 48H
-
 ## Victime d'accident corporel — Conduite a tenir
 
----
+<hr><hr>
 
 ### SI VOUS ETES VICTIME MAINTENANT (urgence immediate)
 
@@ -50,7 +49,7 @@ source: local
 - [ ] Contacter votre propre assurance (protection juridique + habitation)
 - [ ] Faire une **declaration de recours contre tiers** aupres de la CPAM
 
----
+<hr><hr>
 
 ### DANS LES 48 HEURES
 
@@ -73,7 +72,7 @@ source: local
 - [ ] **Signaler le litige** a l'INPI (Registre National des Entreprises) pour bloquer d'eventuelles modifications de la societe
 - [ ] **Signaler** a l'Inspection du Travail, a l'URSSAF et au SIE
 
----
+<hr><hr>
 
 ### ECHEANCIER DES DELAIS IMPERATIFS
 
@@ -87,7 +86,7 @@ source: local
 | **4 ans** | Prescription creance fiscale | L.274 LPF |
 | **1 mois** | Contestation expertise UMJ | A compter de la notification |
 
----
+<hr><hr>
 
 ### REPERES TELEPHONIQUES
 
@@ -98,7 +97,7 @@ source: local
 | CPAM | Votre numero de dossier + plateforme telephone |
 | Avocat | Conseil departemental de l'ordre des avocats (permanence gratuite) |
 
----
+<hr><hr>
 
 ### SI VOUS LISEZ CE DOCUMENT APRES DELAI
 

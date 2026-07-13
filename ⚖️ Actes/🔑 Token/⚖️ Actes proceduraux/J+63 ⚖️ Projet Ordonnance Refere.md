@@ -21,7 +21,6 @@ jx: J+63
 <!-- /Breadcrumb -->
 
 # TRIBUNAL JUDICIAIRE DE [La Ville de l'Accident]
-
 ## ORDONNANCE DE RÉFÉRÉ DU 31 JUILLET 2026
 
 **Demandeur :**
@@ -33,7 +32,6 @@ jx: J+63
 2. [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md), pris en sa qualité de dirigeant de droit et personnellement.
 
 3. [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md), prise en sa qualité de dirigeante de droit et personnellement.
-
 <hr><hr>
 
 ### EXPOSÉ DU LITIGE
@@ -58,7 +56,6 @@ Le demandeur sollicite, sur le fondement de l'article 835 alinéa 2 du Code de p
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^1]**
 
 Malgré de multiples mises en demeure, les défendeurs n'ont apporté aucune réponse et n'ont pas communiqué les coordonnées de leur assureur de responsabilité civile.
-
 <hr><hr>
 
 ### MOTIFS DE LA DÉCISION
@@ -127,7 +124,6 @@ Il serait inéquitable de les laisser à sa charge. Les défendeurs seront conda
 > Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^1]**
-
 <hr><hr>
 
 ### PAR CES MOTIFS
@@ -159,7 +155,6 @@ Nous, Juge des référés, statuant publiquement, par ordonnance réputée contr
 <hr><hr>
 
 [^1]: [Article 145 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
-
 <hr><hr>
 
 ## Sources Législation

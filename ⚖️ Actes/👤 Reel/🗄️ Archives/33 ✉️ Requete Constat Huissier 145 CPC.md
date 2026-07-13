@@ -40,10 +40,9 @@ Foix, le **[J+41 Requete Constat 145]**
 
 Ref : Accident du 29 mai 2026 — SAS SAS LES MAUVAIS GARCONS
 
----
+<hr><hr>
 
 Madame, Monsieur le President,
-
 ## I — EXPOSE DES FAITS
 
 Sébastien GRAZIDE (ne le 18 janvier 1982, informaticien independant) a ete victime d'un accident corporel grave le 29 mai 2026 a 15h00 au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS (SIREN 938 033 222), sise 22 Rue Lafaurie, 09000 Foix.
@@ -51,6 +50,7 @@ Sébastien GRAZIDE (ne le 18 janvier 1982, informaticien independant) a ete vict
 Le prepose de l'exploitation, qui devait acceder a un poste de television installe en hauteur, a du monter sur un bac a shampoing en ceramique faute d'escabeau mis a disposition. En descendant, son poids a entraine le basculement de l'equipement, instable et presentant une cassure majeure preexistante non signalee sur son flanc.
 
 Par reflexe, le requerant a tendu la main droite pour proteger le coiffeur. Sa paume a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence (30 mai 2026, SOS Main, Clinique de l'Union) et une ITT de 56 jours.
+<hr><hr>
 
 ## II — MOTIF LEGITIME (Art. 145 CPC)
 
@@ -78,6 +78,7 @@ Le constat d'huissier devra porter sur :
 - **Le systeme de videoprotection** : existence, nombre de cameras, angle de prise de vue, duree de conservation des enregistrements
 - **L'affichage obligatoire** : presence ou absence des affichages legaux (horaires, DUERP, consignes, convention collective)
 - **L'etat general des lieux** : organisation du salon, equipements de securite
+<hr><hr>
 
 ## III — PROCEDURES EN COURS
 
@@ -88,6 +89,7 @@ Les procedures suivantes ont ete engagees a la date de la requete :
 3. Mises en demeure LRAR (29 mai 2026) — sans aucun retour des dirigeants
 4. Assignation en refere-provision (Art. 835 CPC) et assignation Art. 145 CPC pour communication d'assurance
 5. Signalements a l'Inspection du Travail, au CODAF, a l'INPI, au SIE et a l'URSSAF
+<hr><hr>
 
 ## IV — DEMANDE
 
@@ -115,8 +117,7 @@ Par ces motifs, le requerant sollicite de Monsieur le President du Tribunal Judi
 Fait pour valoir ce que de droit.
 
 Sébastien GRAZIDE
-
-
+<hr><hr>
 
 ## Sources Législation
 

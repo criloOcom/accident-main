@@ -24,16 +24,12 @@ jx: J+38
 
 # REQUÊTE AUX FINS DE CONSTAT D'HUISSIER
 **À l'attention de :** Tel huissier de justice territorialement compétent
-
----
-
 ## I — IDENTIFICATION DES PARTIES
 **Requérant :**
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
 
 **Partie concernée :**
 [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
-
 <hr><hr>
 
 ## II — EXPOSÉ DES FAITS ET DE L'URGENCE EXTRÊME
@@ -49,7 +45,6 @@ Il est porté à la connaissance de la juridiction de céans que la société [S
 Le capital social de cette structure n'étant que de 200 euros, son insolvabilité et sa fermeture rapide sont fortement redoutées.
 
 **L'urgence est extrême** : si la SAS disparaît, les preuves matérielles indispensables à la manifestation de la vérité disparaîtront avec elle, causant un préjudice irrémédiable au requérant. Il y a un risque immédiat de destruction, de modification ou de déplacement de la vasque défectueuse, ainsi que la potentielle effacement des enregistrements de vidéosurveillance ou la modification de l'état du fonds de commerce.
-
 <hr><hr>
 
 ## III — FONDEMENTS JURIDIQUES
@@ -72,7 +67,6 @@ L'[Article 873 du Code de procédure civile](https://www.legifrance.gouv.fr/code
 > [Article 873 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463) <br>
 
 La disparition des preuves matérielles indispensables à la future action au fond constituerait un dommage imminent et irréparable pour [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), justifiant l'intervention immédiate d'un huissier de justice (commissaire de justice) sans débat contradictoire préalable, afin de ménager l'effet de surprise et d'éviter toute déperdition de preuves.
-
 <hr><hr>
 
 ## IV — OBJET DU CONSTAT
@@ -92,7 +86,6 @@ Constater l'état d'activité ou de fermeture du salon, et les signes éventuels
 
 ### 5.  **Prises de photographies**
 Illustrer l'ensemble des constatations par des prises de vues photographiques nettes et probantes, qui seront annexées au procès-verbal.
-
 <hr><hr>
 
 ## V — DISPOSITIF
@@ -105,8 +98,7 @@ Fait pour valoir ce que de droit,
 Le [À compléter]
 
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
----
+<hr><hr>
 
 ## PIECES JOINTES
 
@@ -115,8 +107,7 @@ Le [À compléter]
 - **[Compte-rendu operatoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Preuve des blessures et de l'intervention chirurgicale
 
 - **[Certificat medical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Premiere constatation médicale des lesions
-
-
+<hr><hr>
 
 ## Sources Législation
 

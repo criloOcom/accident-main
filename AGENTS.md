@@ -38,6 +38,7 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
 │   ├── WORKFLOW.md        ← Procédure d'anonymisation
 │   ├── TOKEN MAP.md       ← Correspondance token ↔ identité réelle (tableau maître)
 │   ├── 🗂️ Tokens/            ← 56 fiches individuelles enrichies par token
+│   ├── CONVENTIONS.md     ← 🔴 Conventions de formatage unifiées (ordre canonique, séparateurs `<hr><hr>`, citations)
 │   ├── DECISIONS.md       ← Décisions d'architecture et règles
 │   ├── RULES.md           ← Règles permanentes (INTERDICTIONS incluses)
 │   ├── STRICT VARIABLES.md ← Source Unique de Vérité (dates, montants, faits)
@@ -52,6 +53,7 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
     │   ├── tools.py           ← Outils MCP (Légifrance, Judilibre, Drive)
     │   ├── check_consistency.py
     │   ├── generate_real_versions.py
+    │   ├── normalize_sections.py    ← Normalise séparateurs `<hr><hr>` (Token/Reel)
     │   ├── sync_readme_listings.py  ← Synchronise READMEs fichiers manquants
     │   └── ...
     ├── tests/             ← Tests unitaires, intégration, évaluation

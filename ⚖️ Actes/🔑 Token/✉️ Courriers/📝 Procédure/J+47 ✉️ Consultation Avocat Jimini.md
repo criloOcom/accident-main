@@ -24,16 +24,13 @@ auteur: La Victime
 
 > **Temporalité :** version pour envoi **avant** le 15 juillet. Si envoyé après, remplacer « Demain 15 juillet » par « Le 15 juillet ».
 
----
+<hr><hr>
 
 **Objet : Consultation — Accident corporel 29/05/2026, salon Les Mauvais Garçons (Foix)**
 
 Bonjour Maître,
 
 Je sollicite votre avis sur un point de procédure. Voici les faits.
-
----
-
 ## I — Faits et situation actuelle
 
 Le **29 mai 2026**, je suis victime d'un accident dans un salon de coiffure « Les Mauvais Garçons » (22 Rue Lafaurie, 09000 Foix). Un bac à shampooing s'est détaché du mur et m'a sectionné le tendon, le nerf et l'artère de l'index droit. Opéré en urgence le 30 mai à la Clinique SOS Main de Toulouse. ITT : **56 jours**. Je suis informaticien indépendant (~9 000 €/an).
@@ -41,6 +38,7 @@ Le **29 mai 2026**, je suis victime d'un accident dans un salon de coiffure « L
 La SAS exploitante a un capital de **200 €**, **0 salarié déclaré**, et tous mes courriers recommandés à cette adresse reviennent NPAI, alors même que le salon a rouvert. Malgré mes demandes écrites, je n'ai obtenu aucune communication du nom de son assureur responsabilité civile, ce qui bloque toute démarche d'indemnisation.
 
 Un **procès-verbal de police** a été établi le 2 juin 2026 ([PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md), Commissariat de Toulouse).
+<hr><hr>
 
 ## II — Démarches déjà faites
 
@@ -49,6 +47,7 @@ J'ai constitué un dossier complet et engagé plusieurs actions depuis l'acciden
 - **Signalement au Maire de Foix** (M. Tavella) dès le 1er juin — il m'a répondu par écrit avoir saisi la Préfecture, l'**Inspection du travail** et le **CODAF**.
 - **20+ courriers recommandés** envoyés : mises en demeure à la SAS/dirigeants (tous NPAI), signalements à l'URSSAF, INPI, SIE, Préfecture, Inspection du travail, CODAF, CPAM, etc.
 - **Demain 15 juillet** : dépôt au TJ de Foix d'une **requête Art. 145 CPC** (communication assurance + conservation vidéos) + **demande d'AJ totale** au BAJ ; puis dépôt d'une **plainte complémentaire** au Commissariat de Foix (obstruction à la manifestation de la vérité, blessures involontaires).
+<hr><hr>
 
 ## III — Questions à l'avocat
 
@@ -62,7 +61,7 @@ J'ai constitué un dossier complet et engagé plusieurs actions depuis l'acciden
 
 **5.** Concrètement : dans l'immédiat (15 juillet et semaines suivantes), comment puis-je structurer ma démarche pour obtenir un maximum d'informations des organismes saisis sans compromettre la procédure pénale ou civile ?
 
----
+<hr><hr>
 
 Je reste à votre disposition pour vous transmettre l'intégralité des pièces constituées (requête, plainte, évaluation indemnitaire, analyses juridiques, jurisprudence) sur simple demande.
 

@@ -18,7 +18,6 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/Note Conservation Preuves Nu
 <!-- /Breadcrumb -->
 
 # NOTE SUR LA CONSERVATION DES PREUVES EXTÉRIEURES ET NUMÉRIQUES
-
 ## I — PROBLÉMATIQUE
 
 Dans le cadre du litige opposant [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploitation réelle du commerce à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md).
@@ -26,7 +25,6 @@ Dans le cadre du litige opposant [**[La Victime]**](../../../%F0%9F%A7%A0%20Memo
 La société exploitante pourrait tenter de supprimer sa présence en ligne ou d'altérer ses informations publiques pour organiser son insolvabilité ou contester la matérialité des faits.
 
 Cette note précise les mesures conservatoires à mettre en œuvre immédiatement pour figer la situation en ligne et collecter les éléments de preuve pertinents.
-
 <hr><hr>
 
 ## II — FONDEMENT JURIDIQUE
@@ -62,7 +60,6 @@ Cependant, en matière numérique, la force probante dépend des modalités de r
 > [Arrêt n°19-25.198](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043302280)
 
 Afin de garantir l'admissibilité et l'incontestabilité de ces preuves, il convient de les sécuriser via des outils d'archivage certifiés et, si nécessaire, par des constats de commissaires de justice.
-
 <hr><hr>
 
 ## III — ARGUMENTATION ET STRATÉGIE DE COLLECTE
@@ -90,7 +87,6 @@ La page Google de l'établissement constitue une preuve majeure de son exploitat
 Pour les preuves jugées essentielles et facilement altérables (photos intérieures effacées, changement d'adresse de siège social), il est vivement recommandé de faire procéder à un **constat d'internet par Commissaire de Justice**.
 
 Conformément à la norme AFNOR Z67-147, le Commissaire de Justice dressera un procès-verbal de constat figeant de manière irréfragable l'état des informations publiques de la société à un instant T.
-
 <hr><hr>
 
 ## IV — CONCLUSION ET RECOMMANDATIONS
@@ -100,8 +96,7 @@ Il est impératif d'agir de manière proactive, avant même l'introduction de la
 1. **Réaliser immédiatement** des sauvegardes via Wayback Machine (Archive.org) pour les réseaux sociaux, annuaires et avis Google.
 2. **Conserver les URL** d'archivage dans un fichier sécurisé.
 3. Si la société tente de modifier ses informations publiques ou de fermer ses comptes, solliciter en urgence un **Commissaire de Justice** pour réaliser un constat d'internet, afin de garantir la force probante des éléments recueillis.
-
-
+<hr><hr>
 
 ## Sources Législation
 

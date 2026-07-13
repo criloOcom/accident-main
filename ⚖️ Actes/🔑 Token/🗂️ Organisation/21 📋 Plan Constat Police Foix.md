@@ -13,9 +13,6 @@ reel_path: ../../👤 Reel/🗂️ Organisation/21 📋 Plan Constat Police Foix
 # Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)
 
 Ce plan analyse la possibilité juridique de demander au Maire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md) , et définit la marche à suivre pour votre courrier de demain matin.
-
-<hr><hr>
-
 ## I — Analyse de Faisabilité Juridique
 
 ### Peut-on demander à la police de faire le constat à la place d'un huissier ?
@@ -27,7 +24,6 @@ Ce plan analyse la possibilité juridique de demander au Maire de [**[La Ville d
 *   **La complémentarité des deux démarches** :
     1.  **La Police Municipale (via le Maire)** : Intervient pour la sécurité publique, constate les infractions aux normes ERP et peut provoquer une fermeture administrative si le bac à shampoing dangereux ou d'autres installations menacent d'autres clients.
     2.  **L'Huissier (Commissaire de Justice)** : Fait un constat précis et neutre de la configuration des lieux, de l'identité de l'exploitant réel présent sur le terrain, pour servir de preuve incontestable devant le tribunal.
-
 <hr><hr>
 
 ## II — Plan d'Action Proposé
@@ -41,7 +37,6 @@ Vous allez envoyer un courriel officiel et circonstancié au Maire de Foix (Cabi
 Même si le Maire envoie la police, vous devez maintenir la démarche d'huissier car c'est la seule preuve opposable en droit civil pour votre indemnisation :
 *   **Fichier source** : **[33 ✉️ Requete Constat Huissier 145 CPC.md](../%F0%9F%97%84%EF%B8%8F%20Archives/33%20%E2%9C%89%EF%B8%8F%20Requete%20Constat%20Huissier%20145%20CPC.md)**.
 *   **Action** : Soumettre la requête au Président du TJ de Foix la semaine prochaine lors de votre déplacement.
-
 <hr><hr>
 
 ## III — Modèle de Mail Prêt pour le Maire de Foix (Demain matin)
@@ -73,8 +68,7 @@ Restant à votre entière disposition,
 [L'Adresse de la Victime]
 [L'Email de la Victime]
 ```
-
-
+<hr><hr>
 
 ## Sources Législation
 

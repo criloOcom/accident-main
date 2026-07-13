@@ -18,7 +18,6 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/Note Mesures Conservatoires.
 <!-- /Breadcrumb -->
 
 # NOTE JURIDIQUE : MESURES CONSERVATOIRES AVANT DISPARITION
-
 ## I — PROBLÉMATIQUE
 
 Dans le cadre du dossier concernant [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et de ses représentants, il convient d'envisager la mise en œuvre de mesures conservatoires urgentes.
@@ -32,7 +31,6 @@ La présente note a pour objet d'analyser la faisabilité juridique et procédur
 - De la saisie conservatoire des meubles corporels ;
 
 - De la nécessité de requérir une autorisation préalable du Juge de l'Exécution (JEX).
-
 <hr><hr>
 
 ## II — FONDEMENT ET ARGUMENTATION
@@ -63,7 +61,6 @@ Il est également possible de procéder à la saisie des biens meubles corporels
 Dans la mesure où notre cabinet ne dispose pas, à ce stade, d'un titre exécutoire (décision de justice condamnant la partie adverse), ni de certaines autres dérogations spécifiques (loyer impayé, chèque sans provision), l'autorisation préalable du juge est strictement requise.
 
 Il est donc impératif de déposer une requête motivée auprès du Juge de l'Exécution (JEX) compétent, exposant en détail les fondements de la créance et caractérisant l'urgence ainsi que le péril pesant sur le recouvrement. L'ordonnance sur requête, rendue de manière non contradictoire, permettra de mandater un Commissaire de Justice pour pratiquer les saisies de manière impromptue.
-
 <hr><hr>
 
 ## III — CONCLUSION
@@ -75,8 +72,7 @@ Afin de préserver les droits de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memo
 - Une saisie conservatoire des meubles corporels garnissant les locaux d'exploitation.
 
 La constitution sans délai d'un dossier probant démontrant la menace pesant sur le recouvrement est l'étape préalable et indispensable à la réussite de cette démarche.
-
-
+<hr><hr>
 
 ## Sources Législation
 

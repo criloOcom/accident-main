@@ -22,9 +22,6 @@ jx: J+47
 # GUIDE<br>DEMANDE D'AIDE JURIDICTIONNELLE TOTALE
 
 > À déposer au **BAJ (Bureau d'Aide Juridictionnelle)** du TJ de Foix, Avenue Paul Laffont, 09000 Foix
-
----
-
 ## 1. SUIS-JE ÉLIGIBLE ?
 
 | Condition | Votre situation | Réponse |
@@ -34,8 +31,7 @@ jx: J+47
 | Nationalité | Française ou ressortissant UE/régulier | ✅ AJ totale possible |
 
 ➡ **Vous êtes éligible à l'AJ TOTALE** (prise en charge à 100 %)
-
----
+<hr><hr>
 
 ## 2. CE QUE COUVRE L'AJ TOTALE
 
@@ -48,8 +44,7 @@ jx: J+47
 | Frais de greffe | ✅ OUI (déjà gratuits pour les requêtes) |
 
 **Vous n'avancez RIEN.** L'avocat perçoit ses honoraires de l'État.
-
----
+<hr><hr>
 
 ## 3. PIÈCES À FOURNIR
 
@@ -68,8 +63,7 @@ jx: J+47
 - [ ] **Récépissé de dépôt de la requête Art. 145 CPC** (si déjà déposée le même jour)
 - [ ] **Certificats médicaux** (pour justifier l'urgence — traitement accéléré)
 - [ ] **Courrier expliquant la situation** (optionnel — peut accélérer)
-
----
+<hr><hr>
 
 ## 4. COMMENT REMPLIR LE FORMULAIRE
 
@@ -96,8 +90,7 @@ jx: J+47
 
 ### Signature
 - Date et signature en bas du formulaire
-
----
+<hr><hr>
 
 ## 5. DÉMARCHE AU TJ
 
@@ -128,8 +121,7 @@ Avenue Paul Laffont
 - **Standard** : 2 à 6 semaines
 - **Accéléré** : possible sous 2-3 semaines si motif urgent établi
 - Si pas de réponse sous 2 mois : considéré comme **rejet implicite** → possibilité de recours
-
----
+<hr><hr>
 
 ## 6. APRÈS L'AJ
 
@@ -151,8 +143,7 @@ Avenue Paul Laffont
   - Médiation gratuite (CIAS, conciliateur de justice)
   - Défense seul pour les actes sans représentation obligatoire
   - Association d'aide aux victimes (France Victimes 09)
-
----
+<hr><hr>
 
 ## 7. CONSEILS POUR LE 15 JUILLET
 
@@ -172,7 +163,7 @@ Avenue Paul Laffont
 - [ ] Prendre un **carnet** pour noter les numéros de dossier
 - [ ] **Conserver précieusement** les récépissés
 
----
+<hr><hr>
 
 **📞 Contacts utiles :**
 - BAJ du TJ de Foix : 05 61 65 38 00

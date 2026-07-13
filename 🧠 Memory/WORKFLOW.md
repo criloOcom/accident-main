@@ -11,6 +11,11 @@ type: memory
 
 # WORKFLOW D'ANONYMIZATION
 
+## RÉFÉRENCE DE FORMATAGE
+- Toutes les conventions de formatage des fichiers `.md` sont définies dans [🧠 Memory/CONVENTIONS.md](CONVENTIONS.md) : ordre canonique, hiérarchie H1–H4, séparateurs `<hr><hr>`, citations, tokens, liens, pipeline d'unification.
+- **Tout agent** DOIT lire CONVENTIONS.md avant de créer ou modifier un fichier `.md` dans le dépôt.
+- Le script `.dev/app/normalize_sections.py` applique automatiquement la convention `<hr><hr>` sur tous les fichiers Token/Reel. Exécuter après toute modification structurelle.
+
 ## Pour chaque document original :
 1. **Lire** l'original avec `readDocument` (format text)
 2. **Copier** le fichier avec `copyFile` → nouveau nom = "UNIFIE_ANONYME - " + titre original

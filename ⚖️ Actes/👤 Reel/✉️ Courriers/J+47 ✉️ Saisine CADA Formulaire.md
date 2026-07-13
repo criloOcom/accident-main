@@ -23,16 +23,15 @@ jx: J+47
 # SAISINE CADA<br>VERSION COURTE (FORMULAIRE EN LIGNE)
 
 > **Quand utiliser :** Formulaire en ligne CADA (https://www.cada.fr/) — copier-coller les blocs ci-dessous dans les champs correspondants.
-
----
-
 ## Champ « Objet de votre demande / Description »
 
 > Victime d'un accident corporel grave le 29 mai 2026 dans le salon de coiffure *« Les Mauvais Garçons »* (22 rue Lafaurie, 09000 Foix), je sollicite l'avis de la CADA sur la communicabilité, à mon égard, des documents détenus par la Préfecture de l'Ariège et/ou la DDETS (Inspection du travail) concernant ce dossier. <br>
+<hr><hr>
 
 ## Champ « Précisions sur les documents demandés »
 
 > Je demande la communication de tout rapport d'enquête, compte rendu de contrôle, procès-verbal ou correspondance administrative achevé(e) relatif(ve) à cet accident et me mentionnant nominativement comme victime (signalement du Maire de Foix, suites données par la Préfecture, contrôles de l'Inspection du travail), dans la mesure où leur communication est possible au regard du Code des relations entre le public et l'administration (CRPA).
+<hr><hr>
 
 ## Champ « Décision contestée / Réponse de l'administration »
 
@@ -40,8 +39,7 @@ jx: J+47
 > — **[Soit]** Je n'ai reçu aucune réponse à ce jour, ce qui vaut refus implicite de communication.
 > — **[Soit]** Une réponse de refus m'a été adressée le **[date]**, sans proposition de communication, même partielle ou occultée.
 > Je saisis en conséquence la CADA pour avis.
-
----
+<hr><hr>
 
 ## Procédure
 

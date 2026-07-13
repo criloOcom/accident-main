@@ -41,9 +41,6 @@ Objet : Mise en demeure — Action directe Art. L.124-3 Code des assurances — 
 Réf : Dossier [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) / [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
 
 Madame, Monsieur,
-
-<hr><hr>
-
 ## INTRODUCTION
 La présente lettre de mise en demeure est adressée par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à la compagnie d'assurance de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) sur le fondement de l'article L. 124-3 du Code des assurances, lequel institue une action directe de la victime contre l'assureur du responsable.
 
@@ -55,7 +52,7 @@ Par ce courrier, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%
 
 Cette action directe permet à la victime de saisir directement l'assureur sans passer par l'intermédiaire de la société responsable, conformément aux dispositions du Code des assurances.
 
-<hr>
+<hr><hr>
 
 **Rappel des obligations légales**
 
@@ -126,7 +123,7 @@ Sous toutes réserves quant à l'aggravation future de l'état fonctionnel de sa
 
 Et de la capitalisation de ses dépenses de santé futures.
 
-<hr>
+<hr><hr>
 
 **Transparence sur la suite donnée au dossier**
 
@@ -151,8 +148,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 Mes coordonnées : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) / Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
----
+<hr><hr>
 
 ## PIECES JOINTES
 
@@ -163,6 +159,7 @@ Mes coordonnées : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memor
 - **[Compte-rendu operatoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
 
 - **[Arrets de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
+<hr><hr>
 
 ## Sources Législation
 

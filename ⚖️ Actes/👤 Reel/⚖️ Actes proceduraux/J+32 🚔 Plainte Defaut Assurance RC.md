@@ -47,7 +47,6 @@ OBJET : COMPLÉMENT DE PLAINTE PÉNALE
 Dénonciation de défaut d'assurance de responsabilité civile professionnelle et d'entrave à l'exercice de l'action directe
 
 RÉFÉRENCE : Dossier [ ... ]
-
 ## INTRODUCTION
 Le présent complément de plainte pénale est déposé par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) auprès de Monsieur le Procureur de la République près le Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) afin de signaler l'absence d'assurance de responsabilité civile professionnelle de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
 
@@ -66,7 +65,6 @@ En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en 
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^4]**
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
-
 <hr><hr>
 
 ## I — EXPOSÉ DES FAITS
@@ -85,7 +83,6 @@ Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la comm
 Ni le Président de la SAS, [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md), ni la co-dirigeante, [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md), n'ont déféré aux demandes amiables de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), ni à celles adressées au propriétaire des murs, [Romain DELRIEU](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-proprietaire-des-murs.md). 
 
 Ce silence persistant, malgré l'envoi de courriers recommandés le [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md), laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
-
 <hr><hr>
 
 ## II — DISCUSSION JURIDIQUE
@@ -130,7 +127,6 @@ Par ailleurs, ce défaut de souscription ou d'information peut constituer une fa
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^8]**
-
 <hr><hr>
 
 ## III — CONSÉQUENCES ET PRÉJUDICES
@@ -147,7 +143,6 @@ Sur le plan financier, le plaignant est privé de revenus depuis l'accident.
 Les pertes d'exploitation sont d'ores et déjà significatives et le préjudice global est estimé à ce jour à la somme de **~90 000 €**.
 
 L'absence de communication de l'assurance bloque toute offre d'indemnisation amiable, l'accès à une expertise médicale contradictoire et la prise en charge des soins par la CPAM (dossier [ ... ]).
-
 <hr><hr>
 
 ## IV — DEMANDES
@@ -164,8 +159,7 @@ Par ces motifs, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82
 Le plaignant se constitue partie civile et se tient à la disposition de la justice pour toute mesure d'expertise ou audition nécessaire à la manifestation de la vérité.
 
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
----
+<hr><hr>
 
 ## PIECES JOINTES
 
@@ -182,8 +176,7 @@ Le plaignant se constitue partie civile et se tient à la disposition de la just
 > **Note administrative :** Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 > 
 > Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement du présent document.
-
-
+<hr><hr>
 
 ## Sources Législation
 

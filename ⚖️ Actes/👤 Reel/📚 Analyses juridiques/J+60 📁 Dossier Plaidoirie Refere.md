@@ -20,8 +20,6 @@ jx: J+60
 <!-- /Breadcrumb -->
 
 # **DOSSIER DE PLAIDOIRIE POUR L'AUDIENCE DE RÉFÉRÉ DU 31 JUILLET 2026**
-<hr><hr>
-
 ## I — FICHE SYNTHÉTIQUE
 **JURIDICTION :** Tribunal Judiciaire statuant en référé
 **DATE DE L'AUDIENCE :** Date non fixée (à planifier)
@@ -47,7 +45,6 @@ jx: J+60
 - **Pièce ACQ-09 :** Dépôt de plainte officiel formalisant l'infraction pénale ([1 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md))
 - **Pièce ACQ-04 :** [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) attestant de la section tendineuse et nerveuse ([30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md))
 - **Pièce ACQ-17 :** Mises en demeure par Lettres Recommandées avec Accusé de Réception ([29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
-
 <hr><hr>
 
 ## II — CHRONOLOGIE DES FAITS
@@ -59,7 +56,6 @@ jx: J+60
 - **[J+31 Mises en demeure] :** Envoi des Mises en demeure (LRAR) visant à obtenir l'attestation d'assurance de la SAS (Pièce ACQ-17). Silence radio des dirigeants.
 - **[J+37 Assignation 145] :** Signalements administratifs effectués auprès des diverses autorités (Inspection du Travail, CODAF, etc.) face au refus persistant de coopération de l'employeur.
 - **Date non fixée (à planifier) :** Date de la présente audience de référé pour obtenir l'indemnisation provisionnelle et forcer la communication de la couverture assurantielle.
-
 <hr><hr>
 
 ## III — DISCUSSION JURIDIQUE STRUCTURÉE
@@ -87,7 +83,6 @@ Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant 
 > *« Les prestations de services doivent présenter, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles par le professionnel, la sécurité à laquelle on peut légitimement s'attendre et ne pas porter atteinte à la santé des personnes. »* <br>
 > [Article L421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) <br>
 > **Code de la consommation > Chapitre Ier : Obligation générale de sécurité.[^3]**
-
 <hr><hr>
 
 ## IV — JURISPRUDENCE CLÉ
@@ -97,7 +92,6 @@ L'argumentation développée s'appuie sur une jurisprudence constante :
 - **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351)[^5]. Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
 - **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** [N° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^6]. Le dirigeant qui commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions engage sa responsabilité personnelle. En l'espèce, l'obstruction des dirigeants et le défaut de communication caractérisent une faute détachable.
 - **Principe de réparation intégrale (Art. 1240 C. civ.) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), informaticien indépendant, l'incidence professionnelle est majeure.
-
 <hr><hr>
 
 ## V — PIÈCES À CITER IMPÉRATIVEMENT
@@ -109,7 +103,6 @@ Monsieur le Juge, je vous renvoie aux pièces listées dans notre bordereau, et 
 - **Pièce ACQ-17** (AR des mises en demeure) prouvant notre démarche de conciliation restée lettre morte de la part des défendeurs.
   
 - **Pièce ACQ-09** (Plainte officielle) prouvant les démarches entreprises au pénal par la victime.
-
 <hr><hr>
 
 ## VI — MONTANTS DEMANDÉS
@@ -124,7 +117,6 @@ La présente procédure de référé ne vise pas à solder définitivement le do
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^7]**
-
 <hr><hr>
 
 ## VII — QUESTIONS PROBABLES DU JUGE ET RÉPONSES PRÉPARÉES
@@ -136,8 +128,7 @@ Non, Monsieur le Juge. C'est précisément l'une des raisons de notre présence 
 
 **Q3 : "Le préposé était-il véritablement dans l'exercice de ses fonctions lorsqu'il est monté sur le bac ?"** <br>
 Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'enceinte de l'établissement pendant ses horaires de travail pour accomplir une tâche au profit de l'exploitation. Il bénéficie donc de l'immunité civile selon la jurisprudence Costedoat, et la responsabilité de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) en tant que commettant est pleinement engagée.
-
-
+<hr><hr>
 
 ## Sources Législation
 

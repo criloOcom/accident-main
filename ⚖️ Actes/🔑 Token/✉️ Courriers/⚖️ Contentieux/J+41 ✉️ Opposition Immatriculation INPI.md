@@ -36,13 +36,9 @@ jx: J+41
 Monsieur le Greffier,
 
 J'interviens dans les intérêts de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), victime d'un accident corporel grave survenu le 29 mai 2026 au sein des locaux exploités par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
-
-<hr><hr>
-
 ## I — EXPOSÉ DES FAITS
 
 Il existe de sérieuses raisons de penser que la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et ses dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md), s'apprêtent à dissoudre ou à abandonner la structure actuelle pour recréer une nouvelle société exerçant la même activité à la même adresse, dans le but manifeste de se soustraire aux obligations indemnitaires nées de l'accident.
-
 <hr><hr>
 
 ## II — FONDEMENTS JURIDIQUES
@@ -70,7 +66,6 @@ Cet article permet à un tiers justifiant d'un intérêt légitime — ici [**[L
 La maxime "la fraude corrompt tout" est un principe général du droit français permettant de faire échec à tout acte juridique entaché de fraude, y compris une demande d'immatriculation.
 
 Si une nouvelle société est créée à la même adresse avec les mêmes dirigeants exerçant la même activité, l'opération constitue une fraude à la loi.
-
 <hr><hr>
 
 ## III — DEMANDE
@@ -88,8 +83,7 @@ Je vous prie de bien vouloir :
 > *« A la demande de tout intéressé ou du ministère public, le président du tribunal, statuant en référé, peut enjoindre sous astreinte au dirigeant de toute personne morale de procéder au dépôt des pièces et actes au registre du commerce et des sociétés auquel celle-ci est tenue par des dispositions législatives ou réglementaires. Le président peut, dans les mêmes conditions et à cette même fin, désigner un mandataire chargé d'effectuer ces formalités. »* <br>
 > [Article L123-5-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291) <br>
 > **Code de commerce > Sous-section 1 : Des personnes tenues à l'immatriculation.[^1]**
-
----
+<hr><hr>
 
 ## PIECES JOINTES
 
@@ -105,8 +99,7 @@ Je vous remercie de l'attention que vous porterez à cette demande et vous prie 
 
 [**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
 Avocat au Barreau
-
-
+<hr><hr>
 
 ## Sources Législation
 

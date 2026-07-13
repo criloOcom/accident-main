@@ -11,16 +11,16 @@ tags:
 statut: final
 destinataire: Toutes les parties
 auteur: Juge des Référés
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/J+63 ⚖️ Projet Ordonnance Refere.md
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/07 ⚖️ Projet Ordonnance Refere.md
 jx: J+63
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › J+63 ⚖️ Projet Ordonnance Refere*
 <hr>
 <!-- /Breadcrumb -->
 
 # TRIBUNAL JUDICIAIRE DE [La Ville de l'Accident]
-
 ## ORDONNANCE DE RÉFÉRÉ DU 31 JUILLET 2026
 
 **Demandeur :**
@@ -32,7 +32,6 @@ jx: J+63
 2. [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md), pris en sa qualité de dirigeant de droit et personnellement.
 
 3. [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md), prise en sa qualité de dirigeante de droit et personnellement.
-
 <hr><hr>
 
 ### EXPOSÉ DU LITIGE
@@ -57,7 +56,6 @@ Le demandeur sollicite, sur le fondement de l'article 835 alinéa 2 du Code de p
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^1]**
 
 Malgré de multiples mises en demeure, les défendeurs n'ont apporté aucune réponse et n'ont pas communiqué les coordonnées de leur assureur de responsabilité civile.
-
 <hr><hr>
 
 ### MOTIFS DE LA DÉCISION
@@ -121,10 +119,11 @@ Il serait inéquitable de les laisser à sa charge. Les défendeurs seront conda
 >
 > 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ;
 >
-> 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
+> 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée.
+>
+> Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^1]**
-
 <hr><hr>
 
 ### PAR CES MOTIFS
@@ -141,7 +140,13 @@ Nous, Juge des référés, statuant publiquement, par ordonnance réputée contr
 
 **CONDAMNONS** in solidum [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) à payer à [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) la somme de **2 000 euros** sur le fondement de l'article 700 du Code de procédure civile ;
 
-> *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
+> *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer :
+>
+> 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ;
+>
+> 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée.
+>
+> Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^1]**
 
@@ -150,8 +155,7 @@ Nous, Juge des référés, statuant publiquement, par ordonnance réputée contr
 <hr><hr>
 
 [^1]: [Article 145 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
-
-
+<hr><hr>
 
 ## Sources Législation
 

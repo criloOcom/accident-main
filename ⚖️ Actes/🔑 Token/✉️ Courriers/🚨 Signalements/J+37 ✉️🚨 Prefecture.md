@@ -40,14 +40,12 @@ Objet : Confirmation officielle de signalement — Accident du [**[J+0 Accident]
 Ref : Signalement effectue par la Mairie de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) le 1er juin 2026
 
 Madame, Monsieur le Prefet,
-
 ## INTRODUCTION
 La presente est adressee a vos services par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), situe **[Adresse du Commerce]** a [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md).
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
 **Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main.**
-
 <hr><hr>
 
 ## I — RAPPEL DES FAITS
@@ -56,7 +54,6 @@ Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20T
 Ma main droite, tendue par reflexe, a heurte la cassure preexistante, entrainant des lesions graves ayant necessite une microchirurgie d'urgence.
 
 **Cet accident revele de multiples manquements aux regles de securite applicables aux etablissements recevant du public (ERP) et au Code du travail.**
-
 <hr><hr>
 
 ## II — PROCEDURES EN COURS
@@ -73,7 +70,6 @@ Plusieurs procedures ont ete engagees a ce jour :
 5. Dossier de recours contre tiers a la CPAM (n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**)
 6. Demande d'enquete a l'Inspection du Travail (DDETS 09 / DREETS Occitanie)
 7. Saisine du CODAF
-
 <hr><hr>
 
 ## III — SIGNALEMENTS TRANSMIS
@@ -94,7 +90,6 @@ Je porte par ailleurs a votre connaissance les manquements suivants, constates d
 - Defaut presumee d'assurance RC professionnelle
 
 - Travail dissimule presume
-
 <hr><hr>
 
 ## IV — DEMANDE DE CONFIRMATION ET DE SUITE
@@ -109,8 +104,7 @@ Mes coordonnees : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Prefet, l'expression de ma consideration distinguee.
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
----
+<hr><hr>
 
 ## PIECES JOINTES
 
@@ -125,6 +119,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Prefe
 - **[Signalement CODAF](J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20CODAF.md)** — Saisine du Comite Departemental Anti-Fraude
 
 - **[Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
+<hr><hr>
 
 ## Sources Législation
 

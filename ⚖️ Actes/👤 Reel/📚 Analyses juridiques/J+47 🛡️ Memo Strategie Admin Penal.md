@@ -29,9 +29,6 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/J+47 🛡️ Memo Strategie 
 > **Objet :** Articulation des deux voies de droit ouvertes contre le salon « LES MAUVAIS GARÇONS »
 >
 > **Conclusion avocat :** « Je valifie l'articulation proposée : voie pénale = axe principal (statut procédural fort, droits à l'information et à la réparation via art. 10-2 et 40-2 CPP) ; voies administratives = axe secondaire (pression institutionnelle, enrichissement du dossier pénal/civil, mais pas de statut de partie). Aucun risque juridique à être proactif tant que les courriers restent factuels, polis et espacés. »
-
----
-
 ## I — SCHÉMA RÉCAPITULATIF
 
 ```
@@ -67,8 +64,7 @@ ACCIDENT 29/05/2026
         │    constitution partie civile)          │
         └─────────────────────────────────────────┘
 ```
-
----
+<hr><hr>
 
 ## II — VOIE ADMINISTRATIVE — CE QUE L'AVOCAT A CONFIRMÉ
 
@@ -94,8 +90,7 @@ ACCIDENT 29/05/2026
 - Le CODAF est une cellule de **coordination interne** : il peut opposer le secret des enquêtes, le secret fiscal ou social.
 - L'Inspection du travail peut refuser de communiquer tant que le contrôle est en cours.
 - **Aucune de ces procédures ne nous indemnisera directement.**
-
----
+<hr><hr>
 
 ## III — VOIE PÉNALE — CE QUI NOUS DONNE DES DROITS FORTS
 
@@ -118,8 +113,7 @@ ACCIDENT 29/05/2026
 | Requête Art. 145 CPC | ✅ Déposée (TJ Foix, 15/07) |
 | Demande d'AJ totale | ✅ Déposée (BAJ Foix, 15/07) |
 | Constitution partie civile | ⏳ En attente (nécessite AJ + avocat désigné) |
-
----
+<hr><hr>
 
 ## IV — ARTICULATION STRATÉGIQUE — PLAN D'ACTION
 
@@ -148,8 +142,7 @@ ACCIDENT 29/05/2026
 - Saisine FGTI (sans objet — instructions reçues le 12/07)
 - Action directe à un assureur non identifié
 - Relances agressives ou injurieuses aux administrations
-
----
+<hr><hr>
 
 ## V — RAPPEL DES TEXTES CLÉS
 
@@ -161,6 +154,6 @@ ACCIDENT 29/05/2026
 | **Art. 145 CPC** | Mesure d'instruction in futurum (notre requête déposée le 15/07) |
 | **Jurisprudence CE** | Droit de la victime d'accéder au rapport d'enquête de l'Inspection du travail la concernant |
 
----
+<hr><hr>
 
 > **Note :** Ce mémo est un document de travail interne destiné à être soumis à l'avocat pour validation. Il synthétise les réponses reçues le 15 juillet 2026.

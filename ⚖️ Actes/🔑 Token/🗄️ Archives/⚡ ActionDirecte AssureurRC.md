@@ -49,7 +49,6 @@ Objet : Mise en demeure — Action directe [Art. L.124-3](https://www.legifrance
 Réf : Dossier **[La Victime]** / **[L'Exploitant du Commerce (La SAS)]**
 
 Madame, Monsieur,
-
 ## INTRODUCTION
 La présente lettre de mise en demeure est adressée par **[La Victime]** à la compagnie d'assurance de **[L'Exploitant du Commerce (La SAS)]** sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1], lequel institue une action directe de la victime contre l'assureur du responsable.
 
@@ -144,8 +143,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 Mes coordonnées : **[L'Adresse de la Victime]** / Courriel : **[L'Email de la Victime]**
 
 **[La Victime]**
-
-
+<hr><hr>
 
 ## Sources Législation
 

@@ -26,7 +26,6 @@ drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 # CONSTITUTION DE PARTIE CIVILE
 > 🔗 Source Google Drive : [1tdFbDxNceGV…](https://drive.google.com/open?id=1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc)
 Rédigé le 30 juin 2026
-
 ## INTRODUCTION
 La présente constitution de partie civile est formée par Sébastien GRAZIDE dans le cadre de la procédure pénale suivie devant le Tribunal Correctionnel de Foix à l'encontre de SAS LES MAUVAIS GARCONS.
 
@@ -91,12 +90,7 @@ Pour justifier le préjudice subi :
 Fait à Blagnac, le 30 juin 2026
 
 Signature :
-
-<hr>
-
----
-
-
+<hr><hr>
 
 ## Sources Législation
 

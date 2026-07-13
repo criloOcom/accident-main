@@ -23,11 +23,10 @@ jx: J+32
 # PLAN D'ACTION ET CHRONOLOGIE DE LA PROCÉDURE
 > 🔗 Source Google Drive : [153cOANMpw-O…](https://drive.google.com/open?id=153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s)
 Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
-
 ## INTRODUCTION
 Le présent plan d'action et chronologie de la procédure a été établi par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) afin de structurer et de piloter l'ensemble des démarches juridiques entreprises à la suite de l'accident corporel du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md). Ce document de travail récapitule les étapes procédurales déjà accomplies, les actions prioritaires à engager et les échéances à respecter dans le cadre du contentieux opposant [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md). Il constitue un outil de pilotage et de suivi permettant d'assurer la coordination efficace de la stratégie contentieuse et le respect des délais de procédure.
 
-<hr>
+<hr><hr>
 
 - [I. CHRONOLOGIE ET PLAN D'ACTION](#i-chronologie-et-plan-daction)
 - [ACTIONS URGENTES ET PHASE AMIABLE (JUIN 2026)](#actions-urgentes-et-phase-amiable-juin-2026)
@@ -41,10 +40,11 @@ Le présent plan d'action et chronologie de la procédure a été établi par [S
 - [IV. CONTACTS ET ANNUAIRES](#iv-contacts-et-annuaires)
 - [Autorités Judiciaires et Policières à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)](#autorits-judiciaires-et-policires-la-ville-de-laccident)
 - [SERVICES JURIDIQUES ET DE SANTÉ](#services-juridiques-et-de-sant)
-
 <hr><hr>
 
 ## I — CHRONOLOGIE ET PLAN D'ACTION
+<hr><hr>
+
 ## ACTIONS URGENTES ET PHASE AMIABLE (JUIN 2026)
 La première étape consiste en l'envoi de mises en demeure par lettre recommandée avec accusé de réception (LRAR) à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et à ses dirigeants.
 
@@ -53,6 +53,7 @@ Ces courriers, expédiés le [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9
 Parallèlement, une action directe est engagée auprès de l'assureur pour solliciter l'ouverture d'un dossier de sinistre, la désignation d'un expert médical et le versement d'une provision financière de première urgence pour compenser les pertes d'exploitation de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), informaticien indépendant.
 
 Sur le plan probatoire, des démarches immédiates sont entreprises pour la conservation des preuves : une requête auprès du Procureur de la République pour la saisie des enregistrements de vidéosurveillance et l'intervention d'un huissier de justice pour constater la défectuosité du matériel (bac à shampoing).
+<hr><hr>
 
 ## PROCÉDURES JUDICIAIRES ET EXPERTISE (JUILLET - DÉCEMBRE 2026)
 Dès juillet 2026, en l'absence de réponse satisfaisante sous 15 jours, une assignation en référé-provision sera délivrée devant le Tribunal de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md).
@@ -70,10 +71,11 @@ Par ailleurs, si la société persiste dans son refus de communiquer les coordon
 Le second semestre 2026 sera consacré au suivi de l'expertise (notamment le passage à l'UMJ de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md) le [12 novembre 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md)) et à la rédaction des conclusions de partie civile.
 
 L'aboutissement prévu est une assignation au fond en septembre pour obtenir un jugement définitif de condamnation de l'assureur d'ici décembre 2026.
-
 <hr><hr>
 
 ## II — FONDEMENTS JURIDIQUES
+<hr><hr>
+
 ## RESPONSABILITÉ CIVILE ET ACTION DIRECTE
 L'action repose principalement sur [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^2] (responsabilité du fait des choses et du commettant).
 
@@ -90,6 +92,7 @@ La victime exerce son droit propre via [Article L. 124-3 du Code des assurances]
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^3]**
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
+<hr><hr>
 
 ## RESPONSABILITÉ DES DIRIGEANTS ET MESURES D'INSTRUCTION
 Conformément à [l'Arrêt Sati](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^4] (Cass. Com., 20 mai 2003, n° 99-17.092), l'action directe est couplée à la mise en cause personnelle des dirigeants pour faute détachable.
@@ -102,7 +105,6 @@ En cas de blocage sur l'identité de l'assureur, [Article 145 du Code de procéd
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. »* <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.[^1]**
-
 <hr><hr>
 
 ## III — INVENTAIRE DES PIÈCES
@@ -111,12 +113,14 @@ Le dossier comprend les comptes rendus opératoires du [Dr Iskander DJERBI](../.
 
 ### B. PREUVES MATÉRIELLES ET TÉMOIGNAGES
 Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel défectueux, les photos de l'accident et les témoignages des clients et employés présents.
-
 <hr><hr>
 
 ## IV — CONTACTS ET ANNUAIRES
+<hr><hr>
+
 ## AUTORITÉS JUDICIAIRES ET POLICIÈRES À [**[LA VILLE DE L'ACCIDENT]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
 - Tribunal Judiciaire : [**[Adresse Tribunal Judiciaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) ([**[Téléphone Tribunal Judiciaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / Commissariat : **[Adresse Commissariat]** ([**[Téléphone Commissariat]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)).
+<hr><hr>
 
 ## SERVICES JURIDIQUES ET DE SANTÉ
 - Ordre des Avocats de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) ([**[Téléphone Ordre Avocats]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / Huissiers : Étude d'Huissiers **[Nom Huissier]** ([**[Téléphone Huissier]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / UMJ de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md).
@@ -124,8 +128,7 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 **Note administrative :** Dès le 1[5 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md) (le lendemain de la fin du délai amiable de mise en demeure), délivrance immédiate de l'assignation en référé par commissaire de justice, matérialisant la fin de la phase comminatoire amiable.
 
 *Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la prolongation involontaire de certaines démarches.*
-
-
+<hr><hr>
 
 ## Sources Législation
 

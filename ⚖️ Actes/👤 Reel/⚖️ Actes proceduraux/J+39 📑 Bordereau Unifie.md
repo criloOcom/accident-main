@@ -22,9 +22,6 @@ jx: J+39
 # BORDEREAU DE PIÈCES
 | Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) | Défendeur : [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) |
 |:---|:---|:---|
-
----
-
 ## GROUPE A — PREUVES DE L'ACCIDENT
 ### PIÈCE N° 1
 - [2 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Procès-verbal de police n° [2026/015967](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (Police Nationale [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md)) : Dépôt de plainte de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) pour blessures involontaires. Description de l'accident : montée du coiffeur sur la vasque en céramique, basculement, cassure préexistante. PV complet 3 pages.
@@ -41,8 +38,7 @@ jx: J+39
 ### PIÈCE N° 5
 - [2 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Réquisition judiciaire à personne (Police Nationale, Agent Jordy RODRIGUEZ CAPARROS) : Réquisition pour examen médical par l'UMJ de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md) sur le fondement des Art. 41 et 77-1 CPP. Rendez-vous fixé au [12 novembre 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) à 13h45**.
 - [2 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Retranscription téléphonique de la prise de rendez-vous UMJ : Confirmation du rendez-vous du [12 novembre 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) à [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md), instructions sur les documents à apporter.
-
----
+<hr><hr>
 
 ## GROUPE B — PREUVES FINANCIÈRES
 ### PIÈCE N° 6
@@ -56,8 +52,7 @@ jx: J+39
 
 ### PIÈCE N° 9
 - [3 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-5-ouverture-cpam.md) — Dossier Recours Contre Tiers CPAM n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** (CPAM de la Haute-Garonne) : Ouverture du [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) suite au signalement sur Ameli. Active la subrogation de l'assurance maladie pour récupération des débours (frais d'hospitalisation, soins, indemnités).
-
----
+<hr><hr>
 
 ## GROUPE C — CORRESPONDANCES ET MISES EN DEMEURE
 ### PIÈCE N° 10
@@ -77,8 +72,7 @@ jx: J+39
 
 ### PIÈCE N° 15
 - [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) — Transmission de la plainte au Procureur de la République (LRAR n° [87001424923505I](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : Dossier pénal complet transmis au Parquet de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md). Distribué.
-
----
+<hr><hr>
 
 ## GROUPE D — ACTES DE PROCÉDURE
 ### PIÈCE N° 16
@@ -89,8 +83,7 @@ jx: J+39
 
 ### PIÈCE N° 18
 - [1 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-33-plainte-complementaire.md) — Plainte complémentaire pour défaut d'assurance RC Pro : Signalement au Parquet de l'absence d'assurance de l'exploitant. Voie pénale.
-
----
+<hr><hr>
 
 ## GROUPE E — GABARITS DE PREUVES À CONSTITUER
 ### PIÈCE N° 19
@@ -101,8 +94,7 @@ jx: J+39
 
 ### PIÈCE N° 21
 - [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) — Gabarit d'attestation de témoin — Employé du salon (Cerfa n° 11527\*03) : Attestation destinée aux employés. Précise la cassure préexistante de la vasque, l'absence de consigne de sécurité, et l'absence d'escabeau pour accès en hauteur.
-
----
+<hr><hr>
 
 ## GROUPE F — DOCUMENTS ADMINISTRATIFS
 ### PIÈCE N° 22
@@ -116,8 +108,7 @@ jx: J+39
 
 ### PIÈCE N° 25
 - [5 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md) — Relance CPAM : Suivi du [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** et demande de mise à jour. Email envoyé.
-
----
+<hr><hr>
 
 ## GROUPE G — PIÈCES COMPLÉMENTAIRES
 ### PIÈCE N° 26
@@ -193,8 +184,7 @@ jx: J+39
 
 ### PIÈCE N° 43
 - **05/06/2026** — Preuve de dépôt LRAR [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (La Poste, [Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-residence-de-la-victime.md)) : Décalage de date constaté (vignette 03/06, flash postal 05/06).
-
-
+<hr><hr>
 
 ## Sources Législation
 

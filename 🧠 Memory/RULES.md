@@ -329,6 +329,21 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 - **Règle 19d — Bloc verrouillé** : les 12 articles suivants sont validés comme corrects et peuvent être réutilisés : L.4121-1, L.4321-1, R.4323-58, L.8221-5, R.4121-1, L.8271-1-2 CT ; L.124-3 C. assur. ; L.376-1 CSS ; Art. 40 CPP ; L.311-1 CRPA ; L.123-1 CCH ; Cass. 2e civ. 4 avril 2024 n°22-19.307.
 - **Origine** : audit avocat du 12/07/2026 sur le batch J+37 — cf. [`📊 Rapports/PROMPT_AVOCAT_REVUE_J37.md`](../%F0%9F%93%8A%20Rapports/PROMPT_AVOCAT_REVUE_J37.md) pour le détail complet.
 
+## #21 — CONVENTIONS DE FORMATAGE UNIFIÉES — SÉPARATEURS DE SECTION (RÈGLE PERMANENTE)
+
+- **Tout fichier `.md` du projet** DOIT respecter les conventions définies dans [🧠 Memory/CONVENTIONS.md](CONVENTIONS.md) : ordre canonique des éléments, hiérarchie H1–H4, séparateurs `<hr><hr>`, citations, etc.
+- **Séparateur de section unique** : `<hr><hr>` — placé **avant** chaque section de premier niveau (tout `##`, ou `###` avec chiffre romain ou mot-clé : EXPOSÉ, PAR CES MOTIFS, PIÈCES JOINTES, etc.), à l'exception de la 1ère section.
+- **Interdiction** d'utiliser `---` comme séparateur dans le corps d'un fichier (réservé au YAML front matter). Tout `---` dans le corps DOIT être remplacé par `<hr><hr>`.
+- **Interdiction** d'utiliser `<hr>` solitaire — DOIT être `<hr><hr>` partout, sauf dans le commentaire HTML du breadcrumb (détecté automatiquement).
+- **Pipeline de normalisation** : après toute modification structurelle d'un fichier `.md`, exécuter :
+  1. `python3 .dev/app/normalize_sections.py --apply --token` (Token)
+  2. `python3 .dev/app/generate_real_versions.py` (sync Reel)
+  3. `python3 .dev/app/normalize_sections.py --apply --reel` (Reel)
+  4. `python3 .dev/app/check_consistency.py` (vérification)
+- **Script** : `.dev/app/normalize_sections.py` — applique la convention `<hr><hr>` en 3 phases (Phase 1 : `---`→`<hr><hr>`, Phase 2 : séparateur avant chaque section, Phase 3 : `<hr>`→`<hr><hr>` + dédup).
+- **Sous-titres `## (Note ...)`** après H1 ne sont PAS traités comme des sections de premier niveau — exclus automatiquement par l'algorithme.
+- **Exceptions** : les fichiers `📂 Preuves officielles/` (231 fichiers sans YAML) sont exclus de toutes les corrections automatiques.
+
 ## #20 — LIEN CLIQUABLE GOOGLE DRIVE SUR TOUT `drive_id` (RÈGLE PERMANENTE)
 
 - Tout fichier dont le YAML contient un champ `drive_id: <ID>` DOIT exposer un **lien cliquable** vers la source Google Drive dans son corps (le front matter YAML n'est pas rendu cliquable sur GitHub).

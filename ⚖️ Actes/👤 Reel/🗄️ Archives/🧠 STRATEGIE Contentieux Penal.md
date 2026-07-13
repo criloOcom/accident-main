@@ -36,7 +36,6 @@ source: drive
 
 # STRATEGIE CONTENTIEUX PENAL
 Rédigé le **[J+36 Lettre consolidation]**
-
 ## I — PRÉSENTATION
 Le 29 mai 2026, Sébastien GRAZIDE, informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par SAS LES MAUVAIS GARCONS (SAS LES MAUVAIS GARCONS, SIRET 938 033 222 00010), situé 22 Rue Lafaurie, 09000 Foix.
 
@@ -45,6 +44,7 @@ Alors que l'employé Ayoub BENNOURINE était monté sur la vasque en céramique 
 Par réflexe, Sébastien GRAZIDE a tendu la main droite — sa main dominante indispensable à son activité professionnelle — pour protéger Ayoub BENNOURINE ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une prise en charge chirurgicale en urgence par le service SOS Main.
 
 Le contentieux pénal a pour objet de faire reconnaître la culpabilité de SAS LES MAUVAIS GARCONS et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive, y compris par la saisine du [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] via la CIVI en cas d'insolvabilité de l'auteur.
+<hr><hr>
 
 ## II — INFRACTIONS CONSTITUÉES
 ### 2.1 BLESSURES INVOLONTAIRES
@@ -86,6 +86,7 @@ Le maintien en service d'un équipement dangereux (bac à shampoing instable don
 > **Code pénal > Section 1 : Des risques causés à autrui.[^7]**
 
 Cette qualification nécessite la démonstration d'une violation délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le règlement.
+<hr><hr>
 
 ## III — PROCÉDURE PÉNALE ENGAGÉE
 ### 3.1 SIGNALEMENT ADMINISTRATIF ET DÉPÔT DE PLAINTE
@@ -157,6 +158,7 @@ Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LE
 **Procédure :** Saisine de la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de Foix, qui notifie le FGTI et instruit la demande d'indemnisation.
 
 Cette voie est indépendante de l'action pénale principale : la victime peut saisir la CIVI sans attendre l'issue de la procédure pénale, dès lors que les conditions de l'Article 706-3 sont réunies.
+<hr><hr>
 
 ## IV — CALENDRIER PROCÉDURAL
 | Phase | Action | Échéance |
@@ -167,6 +169,7 @@ Cette voie est indépendante de l'action pénale principale : la victime peut sa
 | Instruction (si ouverte) | Saisine juge d'instruction, expertises | 6 à 18 mois |
 | Audience correctionnelle | Examen au fond, plaidoiries | 12 à 24 mois |
 | Appel éventuel | Si décision contestée (délai d'appel : 10 jours) | +12 mois |
+<hr><hr>
 
 ## V — RÉCAPITULATIF DES PIÈCES
 Pièces pénales :
@@ -184,8 +187,7 @@ Pièces administratives :
 - 3 juin 2026 — CPAM Haute-Garonne — Dossier RCT 31727387
 - 1 juin 2026 — INSEE — Avis de situation SAS
 - 1 juin 2026 — INPI — Fiche identité SAS
-
-
+<hr><hr>
 
 ## Sources Législation
 

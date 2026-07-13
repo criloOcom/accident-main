@@ -42,7 +42,7 @@ Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%9
 
 Objet : Signalement de securite — ERP SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
 
-<hr>
+<hr><hr>
 
 Ref : SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md)
 
@@ -51,9 +51,6 @@ Madame, Monsieur le Directeur,
 La presente est adressee a vos services par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), situe 22 Rue Lafaurie, 09000 Foix a [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md).
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
-
-<hr>
-
 ## OBJET DU SIGNALEMENT
 Le salon de coiffure constitue un Etablissement Recevant du Public (ERP) de 5e categorie.
 
@@ -64,8 +61,7 @@ Je porte par la presente a votre connaissance les faits suivants, susceptibles d
 #### **2. ABSENCE D'EQUIPEMENT D'ACCES SECURISE**Le prepose a du monter sur ce bac a shampoing pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur, en violation des regles de securite contre les chutes de hauteur.
 
 Je vous remercie de bien vouloir me tenir informe des suites reserves a ce signalement.
-
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 

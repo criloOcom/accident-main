@@ -39,7 +39,6 @@ Objet : Signalement de travail dissimule presume — SAS [SAS LES MAUVAIS GARCON
 Ref : SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md)
 
 Madame, Monsieur le Directeur,
-
 ## INTRODUCTION
 Je vous signale par la presente des elements laissant presumer l'exercice d'un travail dissimule au sein de la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md)), conformement aux articles L.8221-1 et suivants du Code du travail.
 
@@ -47,12 +46,11 @@ Le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/t
 
 Les informations publiques disponibles (INPI, INSEE) indiquent que cette societe, creee le 1er juin 2024 avec un capital de 200 €, ne declare aucun salarie.
 
-<hr>
+<hr><hr>
 
 - [I — ELEMENTS LAISSANT PRESUMER UN TRAVAIL DISSIMULE](#i--elements-laissant-presumer-un-travail-dissimule)
 - [II — DEMANDE DE VERIFICATION](#ii--demande-de-verification)
-
-<hr>
+<hr><hr>
 
 ## I — ELEMENTS LAISSANT PRESUMER UN TRAVAIL DISSIMULE
 Les elements suivants sont susceptibles de caracteriser un travail dissimule par dissimulation d'emploi salarie (Article L.8221-5 du Code du travail) :
@@ -88,8 +86,7 @@ Les elements suivants sont susceptibles de caracteriser un travail dissimule par
 - L'exploitant et ses dirigeants n'ont repondu a aucune des sollicitations qui leur ont ete adressees<br>
 <br>
 - Aucune declaration d'accident du travail n'a ete transmise a la CPAM
-
-<hr>
+<hr><hr>
 
 ## II — DEMANDE DE VERIFICATION
 Je sollicite de vos services qu'une verification soit effectuee concernant :
@@ -105,8 +102,7 @@ Conformement a l'Article L.8271-1-2 du Code du travail, les agents de l'URSSAF s
 > *« Les agents de contrôle compétents en application de l'article L. 8271-1 sont : 1° Les agents de contrôle de l'inspection du travail mentionnés à l'article L. 8112-1 ; 2° Les officiers et agents de police judiciaire ; 3° Les agents des impôts et des douanes ; 4° Les agents des organismes de sécurité sociale, des caisses de mutualité sociale agricole et de leur caisse nationale ou centrale agréés à cet effet et assermentés ; 5° Les administrateurs des affaires maritimes, les officiers du corps technique et administratif des affaires maritimes et les fonctionnaires affectés dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer ; 6° Les fonctionnaires des corps techniques et administratifs de l'aviation civile chargés de la lutte contre le travail illégal commissionnés à cet effet et assermentés ; 7° Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres ; 8° Les agents de l'institution mentionnée à l'article L. 5312-1 , chargés de la prévention des fraudes, agréés et assermentés à cet effet ; 9° Les agents du Conseil national des activités privées de sécurité commissionnés par son directeur et assermentés. »* <br>
 > [Article L8271-1-2 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334961) <br>
 > **Code du travail > Section 1 : Dispositions communes.[^3]**
-
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 - Copie du [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procedure penale)
@@ -120,8 +116,7 @@ Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20M
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Directeur, l'expression de ma consideration distinguee.
 
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
-
+<hr><hr>
 
 ## Sources Législation
 

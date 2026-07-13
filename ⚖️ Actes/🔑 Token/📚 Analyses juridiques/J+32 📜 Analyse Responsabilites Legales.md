@@ -23,7 +23,6 @@ jx: J+32
 # ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE [**[L'EXPLOITANT DU COMMERCE (LA SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
 > 🔗 Source Google Drive : [1lUKoGE8kozm…](https://drive.google.com/open?id=1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34)
 Rédigé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
-
 ## INTRODUCTION
 L'analyse approfondie du dossier relatif à l'accident survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein de l'établissement exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) — au cours duquel [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), informaticien indépendant, a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes — permet de dégager deux axes de responsabilité majeurs.
 
@@ -32,7 +31,6 @@ L'analyse approfondie du dossier relatif à l'accident survenu le [**[J+0 Accide
 - D'autre part, une **responsabilité civile** de plein droit.
 
 Cette note vise à structurer les fondements juridiques permettant d'assurer la réparation intégrale du préjudice subi.
-
 <hr><hr>
 
 ## I — LA RESPONSABILITÉ PÉNALE POUR BLESSURES INVOLONTAIRES
@@ -63,7 +61,6 @@ En vertu de l'article 121-3 du Code pénal, cette maladresse expose les dirigean
 > *« Il n'y a point de crime ou de délit sans intention de le commettre. (...) Toutefois, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particularité gravité qu'elles ne pouvaient ignorer. »* <br>
 > [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209) <br>
 > **Code pénal > Partie législative > Livre Ier : Dispositions générales > Titre III : La criminalité et la délinquance, les sanctions pénales et certaines mesures de sûreté > Chapitre Ier : De la responsabilité des personnes physiques.[^3]**
-
 <hr><hr>
 
 ## II — LA RESPONSABILITÉ CIVILE DE PLEIN DROIT
@@ -101,7 +98,6 @@ La responsabilité personnelle des dirigeants, [**[Le Président de l'Exploitati
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
 > [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^6]**
-
 <hr><hr>
 
 ## III — IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES
@@ -153,6 +149,7 @@ En cas de refus persistant de transmettre les coordonnées de l'assureur RC, la 
 Le juge ordonnera alors la communication forcée de l'attestation d'assurance de responsabilité civile sous astreinte financière par jour de retard, à la charge exclusive de l'exploitant récalcitrant.
 
 *[Zoom Pédagogique - Le refus de fournir l'assurance est-il légal ? : Non. La loi interdit au responsable de bloquer vos droits. Si le gérant fait obstruction, le tribunal peut le condamner à vous fournir son attestation d'assurance sous peine d'amendes journalières (astreinte). C'est une procédure classique de référé pour vaincre la mauvaise foi.]*
+<hr><hr>
 
 ## IV — RECOUVREMENT — QUI PAIE EN CAS D'INSOLVABILITÉ ?
 ⚠ **L'exploitant [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) a un capital social de 200 € seulement.** Le risque d'insolvabilité est maximal. Voici les voies de recouvrement par ordre de priorité.
@@ -201,13 +198,13 @@ Si condamnation pénale non exécutée : verse 100 % jusqu'à 1 000 €, 30 % au
 3. **Assignation au fond** contre SAS + assureur (si identifié)
 4. **Saisine CIVI** si insolvabilité confirmée → indemnisation FGTI
 5. **Constitution partie civile** (voie pénale)
+<hr><hr>
 
 ## CONCLUSION
 La responsabilité de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) est solidement établie tant sur le plan civil que pénal. Le montant total estimé de l'indemnisation est de **~105 000 €** (évaluation Dintilhac détaillée).
 
 La difficulté centrale est le **recouvrement** : capital social de 200 € seulement. La voie principale est la **saisine de la CIVI** pour obtenir l'indemnisation via le FGTI, qui contourne l'insolvabilité de la SAS. Les dirigeants doivent être mis en cause personnellement dès maintenant. L'action directe contre l'assureur RC, s'il est identifié, reste la voie la plus rapide.
-
-
+<hr><hr>
 
 ## Sources Législation
 

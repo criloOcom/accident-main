@@ -37,13 +37,11 @@ Objet : Demande de communication d'assurance RC — Accident [29 mai 2026](../..
 Réf : Dossier [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) / [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
 
 Monsieur,
-
 ## INTRODUCTION
 La présente lettre est adressée par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à [Romain DELRIEU](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-proprietaire-des-murs.md) en sa qualité de propriétaire bailleur des locaux commerciaux situés au [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md), afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de l'exploitant.
 
 Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grave accident corporel survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) dans lesdits locaux.
-
-<hr>
+<hr><hr>
 
 ### Rappel des obligations légales
 
@@ -59,7 +57,7 @@ L'article 1720 du même code impose au bailleur d'entretenir les lieux en bon é
 > [Article 1720](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784) <br>
 > **Code civil > Partie législative > Livre III : Des différentes manières dont on acquiert la propriété > Titre VIII : Du contrat de louage > Chapitre II : Du louage des choses > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.[^2]**
 
-<hr>
+<hr><hr>
 
 Je me permets de prendre contact avec vous en votre qualité de propriétaire bailleur des locaux commerciaux situés au [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md), actuellement loués et exploités sous l'enseigne de coiffure [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
 
@@ -89,7 +87,7 @@ Je vous remercie d'avance pour votre diligence et votre coopération indispensab
 
 Dans l'attente de votre retour rapide,
 
-<hr>
+<hr><hr>
 
 ### Transparence sur la suite donnée au dossier
 
@@ -112,8 +110,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 > **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.[^6]**
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
-
-<hr>
+<hr><hr>
 
 ## PIECES JOINTES
 
@@ -132,8 +129,7 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 > NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
 > Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement de la présente mise en demeure.
-
-
+<hr><hr>
 
 ## Sources Législation
 

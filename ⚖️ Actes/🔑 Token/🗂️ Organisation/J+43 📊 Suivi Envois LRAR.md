@@ -19,7 +19,6 @@ jx: J+43
 <!-- /Breadcrumb -->
 
 # SUIVI DES ENVOIS LRAR
-
 ## I — TABLEAU DE BORD
 
 | # | Destinataire | Date envoi | N° LRAR | AR recu | Reponse | Date reponse | Relance J+15 | Email | Statut | Notes |
@@ -35,6 +34,7 @@ jx: J+43
 | 18 | SDIS | | | | | | | Non | A envoyer | |
 | 20 | Police | | | | | | | Non | A envoyer | |
 | 21 | CPAM | | | | | | | Non | A envoyer | |
+<hr><hr>
 
 ## II — SYNTHESE FINANCIERE
 | Lot | Nb LRAR | Cout unitaire | Total |
@@ -42,6 +42,7 @@ jx: J+43
 | Vague 1 (11/07) : 12-14-19-35 | 4 | ~7,50 € | ~30,00 € |
 | Vague 2 (13-14/07) : 11-13-15-16-18-20-21 | 7 | ~7,50 € | ~52,50 € |
 | **Total** | **12** | | **~82,50 €** |
+<hr><hr>
 
 ## III — LEGENDE
 | Symbole | Signification |

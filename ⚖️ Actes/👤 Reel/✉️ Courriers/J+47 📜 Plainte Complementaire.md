@@ -46,9 +46,6 @@ Monsieur l'Officier de Police Judiciaire,
 Je soussigné(e), [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), né(e) le [**[Date de naissance de la victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-date-de-naissance-de-la-victime.md), demeurant [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md), informaticien indépendant (SIREN [500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-identifiant-professionnel-de-la-victime.md)), victime d'un accident corporel grave survenu le 29 mai 2026 au sein de l'établissement "Les Mauvais Garçons" exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md)), sis [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md), 09000 Foix,
 
 **VIENS PAR LA PRÉSENTE DÉPOSER PLAINTE COMPLÉMENTAIRE** contre les dirigeants de la société susmentionnée pour les faits suivants, constituant des infractions pénales caractérisées :
-
-<hr><hr>
-
 ## I. RAPPEL DES FAITS INITIAUX ([PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))
 
 Le **29 mai 2026 vers 15h00**, alors que je me trouvais en qualité de client au sein du salon de coiffure "Les Mauvais Garçons", un préposé de l'établissement est monté sur un bac à shampoing en céramique instable pour régler un poste de télévision.
@@ -56,7 +53,6 @@ Le **29 mai 2026 vers 15h00**, alors que je me trouvais en qualité de client au
 Sous son poids, la vasque a basculé violemment, et ma main droite a heurté une cassure préexistante aux arêtes tranchantes, provoquant une **plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur et du paquet vasculo-nerveux de l'index droit**.
 
 Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le 30 mai 2026 par le [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) au service SOS Main de [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-etablissement-sos-main.md), suivie de 56 jours d'Incapacité Totale de Travail (ITT), avec un pronostic de récupération neurologique partielle sur une durée minimale d'un an.
-
 <hr><hr>
 
 ## II. FAITS NOUVEAUX CONSTITUTIFS D'INFRACTIONS PÉNALES
@@ -133,7 +129,6 @@ Il appartiendra à l'enquête de déterminer si ces comportements sont constitut
    - La SAS déclare 0 salarié, alors que des personnes travaillent dans l'établissement.
 
 Ces éléments me laissent craindre l'existence de faits de travail dissimulé, que je souhaite signaler aux services compétents pour vérification.
-
 <hr><hr>
 
 ## III. DEMANDE D'ENQUÊTE APPROFONDIE
@@ -158,10 +153,9 @@ Au vu des éléments ci-dessus exposés, je sollicite respectueusement qu'il soi
 - Qu'il soit vérifié si, au moment des faits, un équipement d'accès en hauteur adapté (escabeau, marchepied, etc.) était disponible pour intervenir sur le poste de télévision, ou si, en pratique, les préposés devaient monter sur la vasque.
 - De manière générale, qu'il soit examiné si les conditions d'exploitation de l'établissement respectaient les obligations élémentaires de sécurité à l'égard du public et des personnes amenées à y travailler.
 
----
+<hr><hr>
 
 Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière de conformité ERP et d'analyse financière de la société) peuvent être trouvées en **Annexe 3 : Pistes d'enquête complémentaires**, sans préjudice de votre appréciation souveraine sur les investigations utiles.
-
 <hr><hr>
 
 ## IV. PIÈCES JOINTES
@@ -183,7 +177,6 @@ Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière
 8. **Copie des mises en demeure envoyées** aux dirigeants
 
 9. **Liste chronologique des démarches entreprises**
-
 <hr><hr>
 
 ## V. FONDEMENTS JURIDIQUES RÉCAPITULATIFS
@@ -193,7 +186,6 @@ Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière
 | Blessures involontaires | Art. 222-20 + 121-3 CP | 1 an + 15k€ | ITT 56j, vasque non sécurisée, absence escabeau |
 | Obstruction à la justice | Art. 434-4 CP | 3 ans + 45k€ | Refus assurance RC, dissimulation vidéos, société fantôme |
 | Travail dissimulé (signalement) | Art. L. 8221-1 + L. 8221-3 CT | 3 ans + 45k€ | Réouverture, absence déclaration salariés |
-
 <hr><hr>
 
 ## VI. DEMANDES SPÉCIFIQUES
@@ -211,7 +203,6 @@ Je sollicite également :
 > **Code de procédure pénale > Section 1 : Dispositions générales — abrogation différée.[^6]**
 
 4. **La possibilité de déposer** les pièces jointes en version numérique (clé USB) pour faciliter leur traitement.
-
 <hr><hr>
 
 ## VII. DÉCLARATION SUR L'HONNEUR
@@ -227,7 +218,6 @@ Je reste à la disposition des services de police pour toute audition complémen
 Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de Police Judiciaire, l'expression de ma considération distinguée.
 
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
 <hr><hr>
 
 ## ANNEXE 1 : RÉFÉRENCES JURIDIQUES COMPLÈTES
@@ -251,7 +241,6 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de P
 - **Article 15-3** : Information de la victime sur les suites données
 - **Article 53** : Pouvoirs de l'Officier de Police Judiciaire
 - **Article 75** : Enquête de flagrance
-
 <hr><hr>
 
 ## ANNEXE 2 : CHRONOLOGIE DES FAITS
@@ -268,7 +257,6 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de P
 | 10/07/2026 | Audit RNE/INPI — société active mais injoignable | Note d'audit |
 | 15/07/2026 | Dépôt requête Art. 145 CPC (assurance RC + conservation vidéos) | Récépissé greffe |
 | 15/07/2026 | Présente plainte complémentaire | Récépissé Commissariat |
-
 <hr><hr>
 
 ## ANNEXE 3 : PISTES D'ENQUÊTE COMPLÉMENTAIRES
@@ -325,11 +313,10 @@ Les éléments ci-après sont proposés à titre de suggestions pour l'enquête,
 
 5.4. Recueil, le cas échéant, de tout élément laissant apparaître une organisation patrimoniale ou juridique destinée à soustraire des actifs à la réparation des dommages (multiplication de structures, dirigeants de paille, etc.).
 
----
+<hr><hr>
 
 Ces pistes ont pour seul objet de faciliter l'appréhension globale de la situation par les services d'enquête et de permettre, si vous le jugez opportun, de rassembler les éléments nécessaires à la manifestation de la vérité et à l'indemnisation de la victime.
-
-
+<hr><hr>
 
 ## Sources Législation
 

@@ -13,9 +13,6 @@ reel_path: ../../👤 Reel/🗂️ Organisation/06 📋 Synthese des Actions et 
 # Note de Synthèse<br>Avancement des Audits & Recommandations
 
 Cette note récapitule l'analyse systématique de tous les rapports d'audit dans [📊 Rapports](%F0%9F%93%8A_Rapports/README.md) et catégorise l'état d'avancement des tâches en suspens.
-
----
-
 ## I — 🟥 CE QU'IL RESTE À FAIRE (Démarches Humaines — En attente d'action de Sébastien)
 
 Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent vos démarches physiques auprès des tiers.
@@ -35,8 +32,7 @@ Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent
 ### D. Assistance Juridique & Aide Juridictionnelle
 - [ ] **Déposer le dossier d'Aide Juridictionnelle** : Remplir le CERFA n° 16146*03 (en utilisant le brouillon de 500 caractères validé pour l'exposé des faits et votre RFR de 3 052 €) pour obtenir une prise en charge à 100 % des honoraires d'avocat.
 - [ ] **Trouver et mandater un avocat** : Dès que l'AJ est accordée ou pour initier le référé-provision d'urgence.
-
----
+<hr><hr>
 
 ## II — 🟩 CE QUI A ÉTÉ CORRIGÉ & RÉSOLU (Actions Machines closes par l'IA)
 

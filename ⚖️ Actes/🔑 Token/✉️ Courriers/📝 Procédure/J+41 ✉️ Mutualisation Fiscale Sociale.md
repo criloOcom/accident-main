@@ -41,9 +41,6 @@ Objet : Demande de mutualisation fiscale et sociale urgente — SAS [**[L'Exploi
 Ref : SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md)
 
 Madame, Monsieur le Responsable,
-
-<hr><hr>
-
 ## I — OBJET DE LA DEMANDE
 
 La presente est adressee conjointement a vos deux services par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) (SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md), capital 200 €).
@@ -51,7 +48,6 @@ La presente est adressee conjointement a vos deux services par [**[La Victime]**
 L'accident, cause par la chute du prepose depuis un bac a shampoing en ceramique instable et casse, a entraine des lesions graves de la main droite (section partielle du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant) ayant necessite une microchirurgie d'urgence en SOS Main.
 
 **Les montants en jeu sont estimes a 105 000 €** (evaluation Dintilhac detaillee), dont 15 000 € de provision immediatement exigible en reféré.
-
 <hr><hr>
 
 ## II — RISQUE FISCAL ET SOCIAL IDENTIFIE
@@ -69,7 +65,6 @@ La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/
 5. **Passif latent** : creance indemnitaire estimee a 105 000 € qui viendra s'ajouter aux eventuelles dettes fiscales et sociales de la societe
 
 L'absence totale de reponse des dirigeants laisse presager un risque de **dissolution, liquidation ou radiation volontaire** de la societe avant que les creances ne puissent etre recouvrees, conformement au mecanisme de _fraus omnia corrumpit_.
-
 <hr><hr>
 
 ## III — FONDEMENTS JURIDIQUES
@@ -81,7 +76,6 @@ L'absence totale de reponse des dirigeants laisse presager un risque de **dissol
 **Article L.8221-1 et suivants du Code du travail** : interdiction du travail dissimule, facilite par l'absence de declaration de salarie au sein de la societe exploitant un commerce de coiffure.
 
 **Mecanisme de la fraude fiscale et sociale** : la societe pourrait chercher a se soustraire a ses obligations declaratives et fiscales avant la mise en recouvrement des creances indemnitaires.
-
 <hr><hr>
 
 ## IV — DEMANDE DE MUTUALISATION
@@ -103,8 +97,7 @@ Mes coordonnees : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
----
+<hr><hr>
 
 ## PIECES JOINTES
 

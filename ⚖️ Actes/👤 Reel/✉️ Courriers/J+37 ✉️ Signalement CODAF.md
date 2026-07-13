@@ -43,9 +43,6 @@ BP 40087
 Réf : SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md) — Signalement Mairie de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) du 1er juin 2026  
 
 Madame, Monsieur le Président du CODAF,  
-
-<hr><hr>
-
 ## INTRODUCTION
 
 La présente est adressée au CODAF de l'Ariège par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), immatriculée sous le SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md).
@@ -53,7 +50,6 @@ La présente est adressée au CODAF de l'Ariège par [Sébastien GRAZIDE](../../
 Cet accident a été causé par la chute brutale du préposé de l'exploitation depuis un bac à shampoing en céramique instable et cassé, sur lequel il avait dû monter pour accéder au poste de télévision, faute d'équipement d'accès adapté (escabeau) mis à disposition par l'employeur.
 
 Sa chute a entraîné sur ma main droite une plaie palmaire profonde avec lésions tendineuses et vasculo-nerveuses de l'index dominant, ayant nécessité une microchirurgie d'urgence.
-
 <hr><hr>
 
 ## I — RAPPEL DES FAITS
@@ -66,7 +62,6 @@ L'accident est survenu dans les conditions suivantes :
 - La vasque en céramique, instable et présentant une cassure préexistante, a basculé sous son poids.
 
 - Ma main droite a heurté la cassure préexistante aux arêtes coupantes, entraînant la plaie grave précitée.
-
 <hr><hr>
 
 ## II — MANQUEMENTS CONSTATÉS
@@ -119,7 +114,6 @@ L'absence de Document Unique d'Évaluation des Risques Professionnels (DUERP) à
 Le capital social de 200 € et la dissociation entre le siège social de l'activité ([Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)) et la domiciliation des dirigeants ([Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) et [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md)) ne constituent pas en soi des infractions, mais sont des éléments de contexte qui interrogent sur la sincérité et la pérennité de l'exploitation.
 
 Combinés aux autres manquements de sécurité et de déclaration suspectés, ils justifient un examen attentif de la part de vos services afin de prévenir des fraudes statutaires ou des organisations d'insolvabilité.
-
 <hr><hr>
 
 ## III — DEMANDE D'ENQUÊTE
@@ -133,7 +127,6 @@ Conformément à l'Article 40 du Code de procédure pénale, si les faits consta
 > Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. »  
 > **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.[^3]**  
 > [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)
-
 <hr><hr>
 
 ## PIÈCES JOINTES
@@ -149,8 +142,7 @@ Mes coordonnées pour réponse : [10 Avenue de Purpan, 31700 Blagnac](../../../%
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Président, l'expression de ma considération distinguée.
 
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
-
+<hr><hr>
 
 ## Sources Législation
 

@@ -23,9 +23,6 @@ jx: J+38
 
 | Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : Sébastien GRAZIDE | Défendeur : SAS LES MAUVAIS GARCONS |
 |:---|:---|:---|
-
----
-
 ## GROUPE A — PREUVES DE L'ACCIDENT
 
 ### Pièce n° 1
@@ -48,8 +45,7 @@ jx: J+38
 
 - 2 juin 2026 — Réquisition judiciaire à personne (Police Nationale, Agent Jordy RODRIGUEZ CAPARROS) : Réquisition pour examen médical par l'UMJ de Toulouse sur le fondement des Art. 41 et 77-1 CPP. Rendez-vous fixé au 12 novembre 2026 à 13h45**.
 - 2 juin 2026 — Retranscription téléphonique de la prise de rendez-vous UMJ : Confirmation du rendez-vous du 12 novembre 2026 à Toulouse, instructions sur les documents à apporter.
-
----
+<hr><hr>
 
 ## GROUPE B — PREUVES FINANCIÈRES
 
@@ -68,8 +64,7 @@ jx: J+38
 ### Pièce n° 9
 
 - 3 juin 2026 — Dossier Recours Contre Tiers CPAM n° 31727387 (CPAM de la Haute-Garonne) : Ouverture du [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) suite au signalement sur Ameli. Active la subrogation de l'assurance maladie pour récupération des débours (frais d'hospitalisation, soins, indemnités).
-
----
+<hr><hr>
 
 ## GROUPE C — CORRESPONDANCES ET MISES EN DEMEURE
 
@@ -96,8 +91,7 @@ jx: J+38
 ### Pièce n° 15
 
 - 29 juin 2026 — Transmission de la plainte au Procureur de la République (LRAR n° 87001424923505I) : Dossier pénal complet transmis au Parquet de Foix. Distribué.
-
----
+<hr><hr>
 
 ## GROUPE D — ACTES DE PROCÉDURE
 
@@ -112,8 +106,7 @@ jx: J+38
 ### Pièce n° 18
 
 - 1 juillet 2026 — Plainte complémentaire pour défaut d'assurance RC Pro : Signalement au Parquet de l'absence d'assurance de l'exploitant. Voie pénale.
-
----
+<hr><hr>
 
 ## GROUPE E — GABARITS DE PREUVES À CONSTITUER
 
@@ -128,8 +121,7 @@ jx: J+38
 ### Pièce n° 21
 
 - 30 juin 2026 — Gabarit d'attestation de témoin — Employé du salon (Cerfa n° 11527\*03) : Attestation destinée aux employés. Précise la cassure préexistante de la vasque, l'absence de consigne de sécurité, et l'absence d'escabeau pour accès en hauteur.
-
----
+<hr><hr>
 
 ## GROUPE F — DOCUMENTS ADMINISTRATIFS
 
@@ -149,6 +141,6 @@ jx: J+38
 
 - 5 juillet 2026 — Relance CPAM : Suivi du [dossier RCT n° 31727387](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) et demande de mise à jour. Email envoyé.
 
----
+<hr><hr>
 
 > *Document mis à jour le [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-mise-a-jour.md) — Les pièces sont classées par groupe thématique, numérotation séquentielle. Les pièces marquées Gabarit sont à faire remplir par les témoins.*

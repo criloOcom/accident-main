@@ -35,7 +35,6 @@ drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
 # RAPPORT D'EXPERTISE JURIDIQUE : ACCIDENT CORPOREL DE LA VICTIME
 > 🔗 Source Google Drive : [1AO7GLNpbNGa…](https://drive.google.com/open?id=1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU)
 Rédigé le 30 juin 2026
-
 ## INTRODUCTION
 Le présent rapport d'expertise juridique a été établi par Sébastien GRAZIDE afin d'évaluer l'étendue et la qualification juridique des préjudices corporels subis à la suite de l'accident du 29 mai 2026. Ce document procède à une analyse détaillée de chaque poste de préjudice selon la nomenclature Dintilhac, en s'appuyant sur les pièces médicales et administratives versées au dossier. L'évaluation est fondée sur les [articles 1240 et 1231-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1], ainsi que sur la jurisprudence constante de la Cour de cassation en matière de réparation intégrale. Chaque citation est présentée et interprétée de bonne foi, étant précisé que seuls les tribunaux ont autorité pour trancher définitivement les questions de droit soulevées.
 
@@ -44,7 +43,6 @@ Le présent rapport d'expertise juridique a été établi par Sébastien GRAZIDE
 Rédigé par : La Victime
 
 Le 30 juin 2026
-
 <hr><hr>
 
 ## I — INTRODUCTION ET CONTEXTE
@@ -57,7 +55,6 @@ Cette analyse s'appuie sur le principe de la réparation intégrale, visant à r
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
 > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.[^1]**
-
 <hr><hr>
 
 ## II — ANALYSE DES FAITS GÉNÉRATEURS DE RESPONSABILITÉ
@@ -72,7 +69,6 @@ Il est à noter que l'établissement a procédé à un remboursement de 15 €, 
 > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.[^2]**
 
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>
-
 <hr><hr>
 
 ## III — BILAN MÉDICAL ET PRÉJUDICES IDENTIFIÉS
@@ -83,7 +79,6 @@ Le bilan clinique révèle une section partielle du tendon fléchisseur superfic
 Ces lésions entraînent des séquelles fonctionnelles majeures, notamment des paresthésies sévères et une perte totale de sensibilité de l'index droit.
 
 Pour un informaticien indépendant dont la main droite est la main dominante, ce handicap impacte directement l'usage du clavier et de la souris, générant une incidence professionnelle substantielle estimée provisoirement à 15 000 € dans l'étude d'indemnisation jointe.
-
 <hr><hr>
 
 ## IV — STRATÉGIE DE RECOURS ET FONDEMENTS JURIDIQUES
@@ -126,7 +121,6 @@ Toutefois, s'agissant de blessures involontaires ([Art. 222-20 du Code pénal](h
 De plus, les statuts de SAS LES MAUVAIS GARCONS révèlent un capital social dérisoire de 200 € (divisé en 2 000 actions de 0,10 € détenues par Le Président), confirmant une sous-capitalisation notoire face aux risques d'un tel établissement recevant du public.
 
 Cette absence de substance financière de la société face à une éventuelle liquidation rend indispensable la mise en cause personnelle du patrimoine des Dirigeants pour garantir l'effectivité de l'indemnisation.
-
 <hr><hr>
 
 ## V — RECOMMANDATIONS ET CONCLUSION
@@ -144,6 +138,7 @@ La capitalisation des dépenses de santé futures doit être exigée pour garant
 
 - Intégrer des réserves judiciaires pour les préjudices futurs liés à l'aggravation
 - Capitaliser les dépenses de santé : matériels ergonomiques et aides techniques
+<hr><hr>
 
 ## CONCLUSION
 Le dossier présente des fondements juridiques solides.
@@ -158,7 +153,6 @@ Dans ce dossier, les fondements juridiques sont solides :
 - La responsabilité du fait des choses ([Art. 1242 al.1 Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^2])
 - La responsabilité du commettant du fait de ses préposés ([Art. 1242 al.5 Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^2])
 - La responsabilité personnelle des Dirigeants pour faute détachable ([Art. 1240 Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1])
-
 <hr><hr>
 
 ## VI — LIMITES ET RÉSERVES SUR LA RECHERCHE JURISPRUDENTIELLE
@@ -173,10 +167,7 @@ Les seules références doctrinales spécifiques aux salons de coiffure sont :
 - **Me Plouton** (TJ Bordeaux, 4 novembre 2024) : indemnisation d'une cliente brûlée au cuir chevelu, 13 913 € — source doctrinale, pas jurisprudence officielle.
 - **Sylvie Personnic** (Village Justice) : responsabilité des salons de coiffure pour brûlures et réactions allergiques.
 Ces sources sont citées à titre de doctrine, non de jurisprudence.
-
----
-
-
+<hr><hr>
 
 ## Sources Législation
 

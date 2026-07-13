@@ -27,14 +27,14 @@ jx: J+47
 > Courrier recommandé avec accusé de réception
 > Fondement : Code des relations entre le public et l'administration (CRPA, Art. L. 300-1 et suiv.)
 
----
+<hr><hr>
 
 **Expéditeur :** [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) — [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md)
 **Destinataire :** Monsieur le Préfet de l'Ariège — Référent CODAF — Préfecture de l'Ariège, 2 Rue de la Préfecture, 09000 Foix
 **Date :** [Date d'envoi — À compléter avant impression]
 **Objet :** Suivi du signalement transmis par la Mairie de Foix — Salon « LES MAUVAIS GARÇONS » (22 Rue Lafaurie, 09000 Foix)
 
----
+<hr><hr>
 
 Monsieur le Préfet,
 
@@ -55,9 +55,6 @@ Le cas échéant, je me tiens à votre disposition pour vous transmettre toute p
 Je vous remercie de l'attention portée à la présente et vous prie d'agréer, Monsieur le Préfet, l'expression de ma considération distinguée.
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
----
-
 ### Pièces jointes suggérées
 - Copie du courriel de M. Tavella (1er juin 2026)
 - PV initial n°2026/015967

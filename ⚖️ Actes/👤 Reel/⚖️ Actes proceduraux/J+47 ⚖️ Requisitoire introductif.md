@@ -32,9 +32,6 @@ RÉFÉRENCE PLAINTE : PV n°2026/015967
 
 À l'attention de Monsieur le Doyen des Juges d'Instruction,
 Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
-
-<hr><hr>
-
 ## I — PROBLÉMATIQUE ET EXPOSÉ DES FAITS
 Le Ministère Public a été saisi par la plainte, puis par la [constitution de partie civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) en date du [6 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md), déposées par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à l'encontre de la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), ainsi que de ses dirigeants, [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md).
 
@@ -51,7 +48,6 @@ L'Incapacité Totale de Travail (ITT) a été fixée à 56 jours (du 29/05/2026 
 Par ailleurs, malgré des mises en demeure répétées, la société et ses dirigeants n'ont justifié d'aucune assurance de responsabilité civile professionnelle pour l'exploitation du salon.
 
 Il convient de déterminer si ces faits sont constitutifs d'infractions pénales, d'identifier les responsabilités incombant tant à la personne morale qu'aux personnes physiques dirigeantes, et de justifier l'ouverture d'une information judiciaire.
-
 <hr><hr>
 
 ## II — FONDEMENTS JURIDIQUES ET QUALIFICATIONS PÉNALES ENVISAGÉES
@@ -101,7 +97,6 @@ Conformément à l'article 8 du Code de procédure pénale, l'action publique po
 > *« L'action publique des délits se prescrit par six années révolues à compter du jour où l'infraction a été commise. L'action publique des délits mentionnés aux articles 223-15-2 et 223-15-3 du code pénal et à l'article 706-47 du présent code, lorsqu'ils sont commis sur des mineurs, à l'exception de ceux mentionnés aux articles 222-29-1 et 227-26 du code pénal, se prescrit par dix années révolues à compter de la majorité de ces derniers. L'action publique des délits mentionnés aux articles 222-12 , 222-29-1 et 227-26 du même code, lorsqu'ils sont commis sur des mineurs, se prescrit par vingt années révolues à compter de la majorité de ces derniers. Toutefois, s'il s'agit d'une agression sexuelle ou d'une atteinte sexuelle commise sur un mineur, en cas de commission sur un autre mineur par la même personne, avant l'expiration des délais prévus aux deuxième et troisième alinéas du présent article, d'une agression sexuelle ou d'une atteinte sexuelle, le délai de prescription de la première infraction est prolongé, le cas échéant, jusqu'à la date de prescription de la nouvelle infraction. L'action publique du délit mentionné à l' article 434-3 du code pénal se prescrit, lorsque le défaut d'information concerne une agression ou un atteinte sexuelle commise sur un mineur, par dix années révolues à compter de la majorité de la victime et, lorsque le défaut d'information concerne un viol commis sur un mineur, par vingt années révolues à compter de la majorité de la victime. L'action publique des délits mentionnés à l'article 706-167 du présent code, lorsqu'ils sont punis de dix ans d'emprisonnement, ainsi que celle des délits mentionnés aux articles 706-16 du présent code, à l'exclusion de ceux définis aux articles 421-2-5 à 421-2-5-2 du code pénal, et 706-26 du présent code et au livre IV bis du code pénal se prescrivent par vingt années révolues à compter du jour où l'infraction a été commise. »* <br>
 > [Article 8 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911) <br>
 > **Code de procédure pénale > Sous-titre Ier : De l'action publique et de l'action civile — abrogation différée.[^6]**
-
 <hr><hr>
 
 ## III — ARGUMENTATION DU MINISTÈRE PUBLIC
@@ -129,7 +124,6 @@ justifient de rechercher si une "violation manifestement délibérée d'une obli
 La saisine d'une juridiction de jugement par voie de citation directe apparaît, à ce stade, prématurée en l'absence de vérification complète des contrats d'assurance, des règles internes de sécurité de l'entreprise, et des responsabilités individuelles exactes des dirigeants dans la gestion des équipements.
 
 L'ouverture d'une information judiciaire avec l'intervention d'un juge d'instruction, doté de pouvoirs d'investigation étendus (perquisitions, commissions rogatoires), est impérative.
-
 <hr><hr>
 
 ## IV — CONCLUSION ET REQUISITIONS
@@ -155,7 +149,6 @@ Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 Fait au Parquet de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), le 15 juillet 2026.
 
 **Le Procureur de la République**
-
 <hr><hr>
 
 ## V — ÉVALUATION PROSPECTIVE ET JURISPRUDENTIELLE DES POURSUITES
@@ -172,8 +165,7 @@ Concernant les sanctions encourues, la requalification délictuelles (Art. 222-2
 > **Code pénal > Sous-section 5 : Du contenu et des modalités d'application de certaines peines.[^8]**
 
 Les chances d'aboutissement de la présente procédure d'information sont jugées **fortes**, compte tenu de l'existence de blessures objectivées (ITT > 8 jours), de la matérialité de l'accident (PV de police) et de la carence caractérisée en matière de sécurité (vasque cassée non signalée) au sein d'un ERP.
-
-
+<hr><hr>
 
 ## Sources Législation
 
