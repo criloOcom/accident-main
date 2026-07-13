@@ -1,6 +1,6 @@
 ---
 title: "🗂️ Tokens — Fiches individuelles des tokens d'anonymisation"
-description: "71 fiches enrichies (55 identité + 16 financiers), une par token. Chaque fiche détaille l'identité, le contexte, la chronologie et les documents liés au token."
+description: "74 fiches enrichies (57 identité + 17 financiers), une par token. Chaque fiche détaille l'identité, le contexte, la chronologie et les documents liés au token."
 type: readme
 ---
 
@@ -36,6 +36,7 @@ Chaque fiche regroupe :
 | `**[La Gestionnaire CPAM]**` | [token-la-gestionnaire-cpam.md](token-la-gestionnaire-cpam.md) |
 | `**[Nom de l'Avocat de la Victime]**` | [token-nom-de-l-avocat-de-la-victime.md](token-nom-de-l-avocat-de-la-victime.md) |
 | `**[L'Adjoint au Maire de la Commune]**` | [token-l-adjoint-au-maire-de-la-commune.md](token-l-adjoint-au-maire-de-la-commune.md) |
+| `**[Prénom de la Victime]**` | [token-prenom-de-la-victime.md](token-prenom-de-la-victime.md) |
 
 ### Personnes morales (2)
 
@@ -62,6 +63,7 @@ Chaque fiche regroupe :
 | `**[L'Identifiant Professionnel de la Victime]**` | [token-l-identifiant-professionnel-de-la-victime.md](token-l-identifiant-professionnel-de-la-victime.md) |
 | `**[L'Identifiant de l'Exploitation]**` | [token-l-identifiant-de-l-exploitation.md](token-l-identifiant-de-l-exploitation.md) |
 | `**[SIREN de l'Exploitation]**` | [token-siren-de-l-exploitation.md](token-siren-de-l-exploitation.md) |
+| `**[Âge de la Victime]**` | [token-age-de-la-victime.md](token-age-de-la-victime.md) |
 
 ### Personnes morales (suite) (2)
 
@@ -129,6 +131,7 @@ Chaque fiche regroupe :
 | `**[Finance Facture Chirurgie]**` | [token-finance-facture-chirurgie.md](token-finance-facture-chirurgie.md) | 790,23 € |
 | `**[Finance Prestation Salon]**` | [token-finance-prestation-salon.md](token-finance-prestation-salon.md) | 15,00 € |
 | `**[Finance Evaluation Initiale]**` | [token-finance-evaluation-initiale.md](token-finance-evaluation-initiale.md) | 59 600 € |
+| `**[Capital Social de l'Exploitation]**` | [token-capital-social-de-l-exploitation.md](token-capital-social-de-l-exploitation.md) | 200 € |
 
 ---
 
