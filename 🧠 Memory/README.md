@@ -44,7 +44,7 @@ graph TD
 - **[📋 Fiche Suivi Démarches Administratives](%F0%9F%93%8B%20Fiche%20Suivi%20D%C3%A9marches%20Administratives.md)**
 ### Documentation Technique
 
-- **[RAPPORT_JURISPRUDENCES.md](../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/RAPPORT_JURISPRUDENCES.md)** - Analyse des jurisprudences citées
+<!-- RAPPORT_JURISPRUDENCES supprimé — le dossier 🗄️ Archives n'existe plus dans 📊 Rapports, et ce rapport n'a pas été retrouvé. -->
 - **[DESIGN](DESIGN.md)**
 - **[EVIDENCE_MATRIX](EVIDENCE_MATRIX.md)**
 - **[FINANCIAL_VARIABLES_DEPRECATED](FINANCIAL_VARIABLES_DEPRECATED.md)**

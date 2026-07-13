@@ -37,5 +37,5 @@ Ces documents constituent le socle argumentaire de la procédure.
 - [Note Mesures Conservatoires](Note%20Mesures%20Conservatoires.md)
 - [Note qualification penale disparition SAS](Note%20qualification%20penale%20disparition%20SAS.md)
 - [CHANGELOG_JURIDIQUE](CHANGELOG_JURIDIQUE.md)
-- `🧠 Memory/[📊 Rapports/🗄️ Archives/audit/RAPPORT_JURISPRUDENCES.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/RAPPORT_JURISPRUDENCES.md)` — Vérification systématique des citations
+<!-- RAPPORT_JURISPRUDENCES supprimé — ce rapport n'existe plus dans 📊 Rapports. -->
 - `🧠 Memory/RAPPORT_PLAN_H.md` — Uniformisation des assignations / bordereaux
