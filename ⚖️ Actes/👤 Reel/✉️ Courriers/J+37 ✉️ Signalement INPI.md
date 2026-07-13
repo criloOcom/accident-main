@@ -95,7 +95,7 @@ Conformement aux dispositions du Code de commerce relatives au Registre National
 
 Cette demande est motivee par la necessite de prevenir toute modification de la situation juridique de la societe (dissolution, liquidation, radiation ou cession) qui pourrait intervenir sans que les autorites et les tiers aient connaissance des creances et actions en justice en cours a l'encontre de la societe.
 
-Les montants en jeu sont estimes a **[Finance Evaluation Initiale]** au titre de la reparation integrale des prejudices corporels.
+Les montants en jeu sont estimes a **59 600 €** au titre de la reparation integrale des prejudices corporels.
 
 Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-la-victime.md) — Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-email-de-la-victime.md)
 
