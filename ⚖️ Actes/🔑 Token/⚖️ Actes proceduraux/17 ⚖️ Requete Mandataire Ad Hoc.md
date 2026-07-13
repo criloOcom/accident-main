@@ -1,7 +1,7 @@
 ---
 title: "REQUÊTE AUX FINS DE DÉSIGNATION D'UN MANDATAIRE AD HOC ET MESURES CONSERVATOIRES"
 description: "POUR :"
-type: assignation
+type: readme
 statut: brouillon
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/17 ⚖️ Requete Mandataire Ad Hoc.md
 ---

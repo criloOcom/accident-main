@@ -3,7 +3,6 @@ title: "Note d'Analyse Juridique - Droit des Assurances"
 description: "La présente note détaille la stratégie et l'analyse en droit des assurances concernant le litige opposant [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et ses dirigeants, suite à l'accident corporel survenu le 29 mai 2026. Elle aborde la"
 type: analyse_juridique
 date: 2026-07-08
-jx: J+40
 tags:
   - action directe
   - assurances
@@ -11,8 +10,9 @@ tags:
   - prescription
 statut: final
 auteur: La Victime
-reel_path: ../../👤 Reel/📚 Analyses juridiques/15 Note Droit Assurances.md
+reel_path: ../../👤 Reel/📚 Analyses juridiques/J+40 📜 Note Droit Assurances.md
 source: local
+jx: J+40
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+40 📜 Note Droit Assurances*

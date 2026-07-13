@@ -2,13 +2,13 @@
 title: "Article L. 2212-4 du Code général des collectivités territoriales"
 description: "CGCT — Mesures de police du maire"
 type: loi
-legiarti: "LEGIARTI000006390155"
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390155"
-date: "2026-07-10"
-source: "Légifrance/LEGIARTI000006390155"
-code: "Code général des collectivités territoriales"
-article: "L2212-4"
+date: 2026-07-10
+source: Légifrance/LEGIARTI000006390155
+legiarti: LEGIARTI000006390155
+code: Code général des collectivités territoriales
+article: L2212-4
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Autres codes](./README.md) › Article L2212-4 CodeGeneralCollectivitesTerritoriales Legifrance*
 <hr>

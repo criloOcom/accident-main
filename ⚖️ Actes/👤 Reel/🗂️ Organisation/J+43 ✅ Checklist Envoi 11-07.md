@@ -3,7 +3,6 @@ title: "Checklist Envoi LRAR — 11 juillet 2026"
 description: "- [ ] 12 ✉️ Courrier URSSAF.md"
 type: readme
 date: 2026-07-11
-jx: J+43
 tags:
   - checklist
   - LRAR
@@ -11,7 +10,8 @@ tags:
   - 11-juillet
 statut: preparation
 auteur: La Victime
-reel_path: ../../👤 Reel/🗂️ Organisation/24 ✅ Checklist Envoi 11-07-2026.md
+reel_path: ../../👤 Reel/🗂️ Organisation/J+43 ✅ Checklist Envoi 11-07.md
+jx: J+43
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+43 ✅ Checklist Envoi 11-07*

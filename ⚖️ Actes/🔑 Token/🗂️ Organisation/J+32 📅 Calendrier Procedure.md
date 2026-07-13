@@ -3,13 +3,13 @@ title: "11 Calendrier procedural - V1"
 description: "| Date | ID | Événement | Catégorie | Statut |"
 type: readme
 date: 2026-06-30
-jx: J+32
 tags:
   - dossier
 statut: final
 auteur: La Victime
-reel_path: ../../👤 Reel/🗂️ Organisation/11 📅 Calendrier procedural.md
+reel_path: ../../👤 Reel/🗂️ Organisation/J+32 📅 Calendrier Procedure.md
 source: drive
+jx: J+32
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+32 📅 Calendrier Procedure*

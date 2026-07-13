@@ -1,9 +1,8 @@
 ---
 title: "Relance — Demande d'information Assurance RC et d'adresse de correspondance"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-08
-jx: J+40
 tags:
   - relance
   - dirigeants
@@ -16,7 +15,9 @@ destinataire: Dirigeants de l'Exploitant du Commerce
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/06 V2 ✉️ Relance Dirigeants.md
 source: local
+jx: J+40
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🔄 Relances](./README.md) › J+40 ✉️ Relance Dirigeants*
 <hr>

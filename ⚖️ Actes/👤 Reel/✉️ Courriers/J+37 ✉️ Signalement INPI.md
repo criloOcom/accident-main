@@ -1,9 +1,8 @@
 ---
 title: "Signalement de Litige au Registre National des Entreprises"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-05
-jx: J+37
 tags:
   - INPI
   - RNE
@@ -16,7 +15,9 @@ auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/11 ✉️ Courrier INPI.md
 source: drive
 drive_id: 1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E
+jx: J+37
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+37 ✉️ Signalement INPI*
 <hr>

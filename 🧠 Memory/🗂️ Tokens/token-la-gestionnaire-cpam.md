@@ -1,3 +1,9 @@
+---
+title: "👤 La Gestionnaire CPAM"
+description: "Token :** `**[La Gestionnaire CPAM]**`"
+type: memory
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-la-gestionnaire-cpam*
 <hr>

@@ -1,3 +1,9 @@
+---
+title: "💰 Finance<br>Incidence Professionnelle"
+description: "Token :** `**[Finance Incidence Professionnelle]**`"
+type: memory
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-finance-incidence-professionnelle*
 <hr>

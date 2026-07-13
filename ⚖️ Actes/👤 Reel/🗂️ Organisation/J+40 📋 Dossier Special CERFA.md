@@ -3,7 +3,6 @@ title: "05 Dossier Spécial CERFA"
 description: "Dans le cadre du dossier d'accident corporel de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditi"
 type: readme
 date: 2026-07-08
-jx: J+40
 tags:
   - CERFA
   - CIVI
@@ -13,7 +12,8 @@ tags:
 statut: final
 destinataire: La Victime
 auteur: L'Expert Juridique
-reel_path: ../../👤 Reel/🗂️ Organisation/05 📋 Dossier Special CERFA.md
+reel_path: ../../👤 Reel/🗂️ Organisation/J+40 📋 Dossier Special CERFA.md
+jx: J+40
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+40 📋 Dossier Special CERFA*

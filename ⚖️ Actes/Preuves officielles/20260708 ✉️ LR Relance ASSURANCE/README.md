@@ -1,8 +1,9 @@
 ---
 title: "📁 20260708 LR Relance ASSURANCE"
 description: "README de la pièce Relance ASSURANCE"
-type: directory
+type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › 20260708 ✉️ LR Relance ASSURANCE*
 <hr>

@@ -3,6 +3,7 @@ title: "📝 Procédure"
 description: "Démarches connexes à la procédure : mutualisation fiscale et sociale, échanges avec le Maire, consultation d'avocat, demande d'aide juridictionnelle, saisine CADA."
 type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › 📝 Procédure*
 <hr>

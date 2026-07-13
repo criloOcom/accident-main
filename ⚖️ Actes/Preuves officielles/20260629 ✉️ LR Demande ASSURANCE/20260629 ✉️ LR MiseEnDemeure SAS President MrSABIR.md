@@ -1,18 +1,19 @@
 ---
 title: "Lettre Recommandée — Mise en Demeure SAS Président Monsieur MOUNTASSER"
 description: "Document de type document"
-type: document
+type: preuve
 date: 2026-06-29
 tags:
   - LR
   - mise en demeure
   - président
   - SAS
-statut: original
+statut: archive
 destinataire: Monsieur MOUNTASSER (Président SAS)
 source: drive
 drive_id: 117sFmGu7yFbYzd0VrKYNSCK_tDYHugrL
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260629 LR Demande ASSURANCE](./README.md) › 20260629 ✉️ LR MiseEnDemeure SAS President MrSABIR*
 <hr>

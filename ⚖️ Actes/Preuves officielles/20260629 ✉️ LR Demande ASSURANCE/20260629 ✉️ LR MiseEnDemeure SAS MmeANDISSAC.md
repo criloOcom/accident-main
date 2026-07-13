@@ -1,17 +1,18 @@
 ---
 title: "Lettre Recommandée — Mise en Demeure SAS Madame ANDISSAC"
 description: "Document de type document"
-type: document
+type: preuve
 date: 2026-06-29
 tags:
   - LR
   - mise en demeure
   - SAS
-statut: original
+statut: archive
 destinataire: SAS ANDISSAC
 source: drive
 drive_id: 1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260629 LR Demande ASSURANCE](./README.md) › 20260629 ✉️ LR MiseEnDemeure SAS MmeANDISSAC*
 <hr>

@@ -1,3 +1,14 @@
+---
+title: "Article 434-15-1 du Code pénal"
+description: "Dernière mise à jour :** 13 juillet 2026"
+type: loi
+---
+
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code penal](./README.md) › Article 434-15-1 CodePenal Legifrance*
+<hr>
+<!-- /Breadcrumb -->
+
 title: "Article 434-15-1 du Code pénal"
 description: "Code pénal — Refus de comparaître ou de déposer devant le juge d'instruction"
 type: loi
@@ -8,10 +19,7 @@ source: "Légifrance/LEGIARTI000006418645"
 code: "Code pénal"
 article: "434-15-1"
 ---
-<!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code penal](./README.md) › Article 434-15-1 CodePenal Legifrance*
-<hr>
-<!-- /Breadcrumb -->
+
 
 # Article 434-15-1 du Code pénal
 

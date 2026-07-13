@@ -1,8 +1,9 @@
 ---
 title: "📁 20260601 INSEE INPI"
 description: "README de la pièce INSEE INPI"
-type: directory
+type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › 20260601 🇫🇷 INSEE INPI*
 <hr>

@@ -3,7 +3,6 @@ title: "Analyse des Fondements de la Responsabilité Juridique"
 description: "Rédigé le **[J+32 Assignation référé]"
 type: analyse_juridique
 date: 2026-06-30
-jx: J+32
 tags:
   - responsabilité
   - fondements
@@ -11,9 +10,10 @@ tags:
   - juridique
 statut: final
 auteur: La Victime
-reel_path: ../../👤 Reel/📚 Analyses juridiques/13 📜 Responsabilites legales.md
+reel_path: ../../👤 Reel/📚 Analyses juridiques/J+32 📜 Analyse Responsabilites Legales.md
 source: drive
 drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
+jx: J+32
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+32 📜 Analyse Responsabilites Legales*

@@ -1,8 +1,9 @@
 ---
 title: "📁 audit"
 description: "README du dossier audit"
-type: directory
+type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › audit*
 <hr>

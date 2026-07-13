@@ -1,16 +1,17 @@
 ---
 title: "Situation Main — Consultation de Suivi"
 description: "Document de type document"
-type: document
+type: preuve
 date: 2026-06-12
 tags:
   - suivi
   - main
   - consultation
-statut: original
+statut: archive
 source: drive
 drive_id: 1gezULqgCQwUWSAJXePpLpTxUQ3A9u6bm
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260612 DrOXIBEL](./README.md) › 20260612-1207 SITUATION Main*
 <hr>

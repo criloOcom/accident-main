@@ -8,10 +8,10 @@ tags:
   - administratif
   - LRAR
   - CADA
-statut: travail_en_cours
+statut: brouillon
 auteur: La Victime
-categorie: fiche_suivi
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › 📋 Fiche Suivi Démarches Administratives*
 <hr>

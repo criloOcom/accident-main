@@ -1,9 +1,8 @@
 ---
 title: "Plainte Complémentaire — Blessures Involontaires, Obstruction à la Justice"
-description: "[La Victime]"
+description: "La Victime"
 type: courrier
 date: 2026-07-15
-jx: J+47
 tags:
   - plainte
   - complémentaire
@@ -14,11 +13,13 @@ tags:
   - 222-20
   - 434-4
   - 121-3
-statut: a_deposer_15_juillet
+statut: preparation
 destinataire: Commissariat de Police de Foix
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/J+47 📜 Plainte Complementaire.md
+jx: J+47
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [⚖️ Contentieux](./README.md) › J+47 📜 Plainte Complementaire*
 <hr>

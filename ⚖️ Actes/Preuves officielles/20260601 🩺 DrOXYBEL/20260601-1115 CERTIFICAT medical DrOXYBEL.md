@@ -1,15 +1,16 @@
 ---
 title: "Certificat Médical Initial — Docteur OXYBEL"
 description: "Document de type document"
-type: document
+type: preuve
 date: 2026-06-01
 tags:
   - certificat médical initial
   - ITT
-statut: original
+statut: archive
 source: drive
 drive_id: 1SIcpCYIIJp84_6TY9dVbyMMr8Rlxbeda
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260601 DrOXYBEL](./README.md) › 20260601-1115 CERTIFICAT medical DrOXYBEL*
 <hr>

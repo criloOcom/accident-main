@@ -1,11 +1,12 @@
 ---
 title: "Bordereau - Pièces opération 15 juillet 2026"
 description: "Liste minimale des pièces à emporter et à pouvoir déposer le 15/07/2026 (TJ Foix + Commissariat de Foix)"
-type: organisation
+type: readme
 date: 2026-07-15
-jx: J+47
 statut: final
 auteur: La Victime
+jx: J+47
+reel_path: ../../👤 Reel/🗂️ Organisation/J+47 ✅ Bordereau Pieces 15 Juillet.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+47 ✅ Bordereau Pieces 15 Juillet*

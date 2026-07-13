@@ -1,3 +1,9 @@
+---
+title: "RAPPORT_MIGRATION_JX_20260712_143701"
+description: "Document de type rapport"
+type: rapport
+---
+
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT MIGRATION JX 20260712 143701*
 <hr>

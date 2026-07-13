@@ -2,13 +2,13 @@
 title: "Code civil — Art. 1240"
 description: "Code civil — Responsabilité pour faute"
 type: loi
-legiarti: "LEGIARTI000032041571"
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571"
-date: "2026-07-10"
-source: "Légifrance/LEGIARTI000032041571"
-code: "Code civil"
-article: "1240"
+date: 2026-07-10
+source: Légifrance/LEGIARTI000032041571
+legiarti: LEGIARTI000032041571
+code: Code civil
+article: 1240
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code civil](./README.md) › Article1240 CodeCivil*
 <hr>

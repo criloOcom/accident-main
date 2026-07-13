@@ -1,3 +1,9 @@
+---
+title: "📍 L'Email de l'Adjoint au Maire"
+description: "Token :** `**[L'Email de l'Adjoint au Maire]**`"
+type: memory
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-l-email-de-l-adjoint-au-maire*
 <hr>

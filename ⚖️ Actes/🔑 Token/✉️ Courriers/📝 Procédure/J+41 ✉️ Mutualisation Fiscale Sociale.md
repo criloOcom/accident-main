@@ -1,9 +1,8 @@
 ---
 title: "Demande de Surveillance Fiscale et Sociale Urgente"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-09
-jx: J+41
 tags:
   - SIE
   - URSSAF
@@ -16,7 +15,9 @@ destinataire: Service des Impôts des Entreprises de [**[La Ville de l'Accident]
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/32 ✉️ Courrier SIE URSSAF Mutualisation.md
 source: local
+jx: J+41
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📝 Procédure](./README.md) › J+41 ✉️ Mutualisation Fiscale Sociale*
 <hr>

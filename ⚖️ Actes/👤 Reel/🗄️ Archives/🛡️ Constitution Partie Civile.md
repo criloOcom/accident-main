@@ -1,7 +1,7 @@
 ---
 title: "Constitution de Partie Civile"
 description: "Rédigé le **[J+32 Assignation référé]"
-type: archive
+type: readme
 date: 2026-06-30
 tags:
   - constitution

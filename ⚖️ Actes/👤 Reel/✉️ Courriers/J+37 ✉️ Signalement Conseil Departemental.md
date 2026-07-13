@@ -1,9 +1,8 @@
 ---
 title: "Signalement de Non-Conformite ERP au Conseil Departemental"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-05
-jx: J+37
 tags:
   - conseil departemental
   - ERP
@@ -16,7 +15,9 @@ auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/16 ✉️ Courrier Conseil Departemental.md
 source: drive
 drive_id: 1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ
+jx: J+37
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+37 ✉️ Signalement Conseil Departemental*
 <hr>

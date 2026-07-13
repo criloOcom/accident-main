@@ -1,9 +1,8 @@
 ---
 title: "Opposition à immatriculation INPI"
-description: "[Nom de l'Avocat de la Victime]"
+description: "Nom de l'Avocat de la Victime"
 type: courrier
 date: 2026-07-09
-jx: J+41
 tags:
   - INPI
   - opposition
@@ -14,7 +13,9 @@ statut: projet
 destinataire: INPI
 auteur: Nom de l'Avocat de la Victime
 reel_path: ../../👤 Reel/✉️ Courriers/31 ✉️ Courrier INPI Opposition.md
+jx: J+41
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+41 ✉️ Opposition Immatriculation INPI*
 <hr>

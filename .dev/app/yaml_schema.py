@@ -45,6 +45,43 @@ CANONICAL_TYPES: dict[str, str] = {
     "archive": "Document archivé",
     "fiche": "Fiche réflexe / note",
     "document": "Document général",
+    "directory": "Index de répertoire",
+}
+
+TYPE_NORMALIZE: dict[str, str] = {
+    "analyse": "analyse_juridique",
+    "analysis": "analyse_juridique",
+    "requete": "assignation",
+    "request": "assignation",
+    "organisation": "readme",
+    "guide_personnel": "readme",
+    "guide": "readme",
+    "checklist_personnelle": "readme",
+    "antisèche": "readme",
+    "gouvernance": "memory",
+    "government": "memory",
+    "document": "preuve",
+    "status": "readme",
+}
+
+STATUT_VALUES: set[str] = {
+    "final", "projet", "brouillon", "preparation",
+    "envoye", "archive", "fusionne",
+}
+
+STATUT_NORMALIZE: dict[str, str] = {
+    "obsolète_ne_pas_relancer": "archive",
+    "original": "archive",
+    "a_commander": "preparation",
+    "a_deposer_15_juillet": "preparation",
+    "a_deposer_greffe_15_juillet": "preparation",
+    "brouillon — utilisable si refus Préfecture/IT": "brouillon",
+    "final — validé avocat 15/07/2026": "projet",
+    "projet — validé avocat 15/07/2026": "projet",
+    "inopérant_destinataire_inconnu": "archive",
+    "personnel": "archive",
+    "reference": "archive",
+    "travail_en_cours": "brouillon",
 }
 
 DIR_TYPE_MAP: dict[str, str] = {
@@ -72,6 +109,8 @@ TAG_EXTRACTORS: list[str] = [
     "source", "drive_id", "legiarti", "juritext",
     "pourvoi", "code", "article", "jurisdiction",
     "ecli", "last_verified",
+    "date_creation", "date_modification", "proof_delivery",
+    "jx",
 ]
 
 
@@ -216,6 +255,9 @@ def update_yaml_header(filepath: str, dry_run: bool = False) -> str | None:
         rest = rest_stripped[yaml_match.end():]
 
     dtype = detect_type(filepath)
+    # Normaliser les types non-canoniques
+    if dtype in TYPE_NORMALIZE:
+        dtype = TYPE_NORMALIZE[dtype]
     extra: dict[str, str] = {}
 
     if existing_yaml:
@@ -243,6 +285,9 @@ def update_yaml_header(filepath: str, dry_run: bool = False) -> str | None:
         statut = str(statut) if not isinstance(statut, str) else statut
         if statut in ("null", "None"):
             statut = ""
+        # Normaliser les statuts non-canoniques
+        if statut and statut in STATUT_NORMALIZE:
+            statut = STATUT_NORMALIZE[statut]
 
         tags_raw = existing.get("tags", [])
         if isinstance(tags_raw, str):
@@ -276,6 +321,14 @@ def update_yaml_header(filepath: str, dry_run: bool = False) -> str | None:
     if not desc:
         desc = f"Document de type {dtype}"
 
+    # Valider le type
+    if dtype not in CANONICAL_TYPES:
+        print(f"  ⚠️  Type non-canonique '{dtype}' dans {os.path.basename(filepath)} — sera normalisé vers 'document'")
+
+    # Valider le statut
+    if statut and statut not in STATUT_VALUES:
+        print(f"  ⚠️  Statut non-canonique '{statut}' dans {os.path.basename(filepath)} — ENREGISTRÉ")
+
     new_yaml = make_yaml(title, desc, dtype,
                          date_str=date_str or None,
                          tags=tags or None,
@@ -296,3 +349,39 @@ def update_yaml_header(filepath: str, dry_run: bool = False) -> str | None:
             f.write(new_content)
 
     return new_content
+
+
+def main():
+    """
+    Applique le schéma YAML canonique à tous les fichiers .md du dépôt.
+    Usage:
+        python3 .dev/app/yaml_schema.py              # dry-run
+        python3 .dev/app/yaml_schema.py --apply       # écrit les modifications
+    """
+    import sys
+    import glob as glob_mod
+    base = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    base = os.path.dirname(base)  # remonter à la racine du projet
+
+    dry_run = "--apply" not in sys.argv
+
+    print(f"{'DRY-RUN' if dry_run else 'APPLY'} — Scan des fichiers .md dans {base}")
+    md_files = glob_mod.glob(os.path.join(base, "**/*.md"), recursive=True)
+
+    total = 0
+    for fp in sorted(md_files):
+        rel = os.path.relpath(fp, base)
+        # Ignorer .git, __pycache__, node_modules
+        if "/.git/" in fp or "/__pycache__/" in fp or "/node_modules/" in fp:
+            continue
+        result = update_yaml_header(fp, dry_run=dry_run)
+        if result:
+            total += 1
+            if dry_run:
+                print(f"  [DRY] {rel}")
+
+    print(f"\nRésumé : {total} fichiers {'à modifier (dry-run)' if dry_run else 'mis à jour'}.")
+
+
+if __name__ == "__main__":
+    main()

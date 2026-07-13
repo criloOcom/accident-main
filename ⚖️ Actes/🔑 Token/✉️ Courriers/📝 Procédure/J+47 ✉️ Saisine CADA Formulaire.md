@@ -3,17 +3,18 @@ title: "Saisine CADA — Version courte pour formulaire en ligne"
 description: "Blocs de texte prêts à copier-coller dans le formulaire de saisine en ligne de la CADA"
 type: courrier
 date: 2026-07-15
-jx: J+47
 tags:
   - CADA
   - formulaire
   - CRPA
   - version_courte
-statut: brouillon — utilisable si refus Préfecture/IT
+statut: brouillon
 destinataire: CADA (formulaire en ligne)
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/44 ✉️ Saisine CADA Version Courte.md
+jx: J+47
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📝 Procédure](./README.md) › J+47 ✉️ Saisine CADA Formulaire*
 <hr>

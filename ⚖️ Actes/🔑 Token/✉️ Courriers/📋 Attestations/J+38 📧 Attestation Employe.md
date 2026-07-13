@@ -3,7 +3,6 @@ title: "Email Transmission Attestation Employé"
 description: "Objet : Attestation de témoin — Accident du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au **[L'Adresse de l'Exploitation]"
 type: courrier
 date: 2026-07-06
-jx: J+38
 tags:
   - email
   - attestation
@@ -13,7 +12,9 @@ destinataire: Employé(e) du salon présent(e) le [**[J+0 Accident]**](../../../
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/28 📧 Attestation Employe.md
 source: local
+jx: J+38
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📋 Attestations](./README.md) › J+38 📧 Attestation Employe*
 <hr>

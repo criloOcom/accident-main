@@ -1,9 +1,8 @@
 ---
 title: "Bordereau de pièces (unifié)"
 description: "| Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) | Défendeur : [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) |"
-type: assignation
+type: readme
 date: 2026-07-07
-jx: J+39
 tags:
   - bordereau
   - pieces
@@ -11,8 +10,9 @@ tags:
 statut: final
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/04 📑 Bordereau.md
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/J+39 📑 Bordereau Unifie.md
 source: drive
+jx: J+39
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › J+39 📑 Bordereau Unifie*

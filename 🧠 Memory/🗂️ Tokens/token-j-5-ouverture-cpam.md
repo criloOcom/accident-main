@@ -1,3 +1,9 @@
+---
+title: "📅 J+5 Ouverture CPAM"
+description: "Token :** `**[J+5 Ouverture CPAM]**`"
+type: memory
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-5-ouverture-cpam*
 <hr>

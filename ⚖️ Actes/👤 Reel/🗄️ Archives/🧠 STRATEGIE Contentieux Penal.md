@@ -1,7 +1,7 @@
 ---
 title: "STRATEGIE Contentieux Penal"
 description: "Rédigé le **[J+36 Lettre consolidation]"
-type: archive
+type: readme
 date: 2026-07-04
 tags:
   - stratégie

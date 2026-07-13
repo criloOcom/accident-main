@@ -1,22 +1,23 @@
 ---
 title: "Confirmation Officielle de Signalement a la Prefecture"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-05
-jx: J+37
 tags:
   - prefecture
   - signalement
   - securite
   - ERP
   - LRAR
-statut: final
+statut: projet
 destinataire: Prefecture de l'Ariege
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/13 ✉️ Courrier Prefecture.md
 source: drive
 drive_id: 1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM
+jx: J+37
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🚨 Signalements](./README.md) › J+37 ✉️ Signalement Prefecture*
 <hr>

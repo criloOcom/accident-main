@@ -1,9 +1,8 @@
 ---
 title: "Requête aux fins de constat d'huissier"
 description: "À l'attention de :** Tel huissier de justice territorialement compétent"
-type: assignation
+type: readme
 date: 2026-07-06
-jx: J+38
 tags:
   - requête
   - article 145
@@ -15,7 +14,8 @@ tags:
 statut: brouillon
 destinataire: Tel huissier de justice territorialement compétent
 auteur: La Victime
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/06 📸 Requete Constat Huissier.md
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/J+38 📸 Requete Constat Huissier.md
+jx: J+38
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › J+38 📸 Requete Constat Huissier*

@@ -3,7 +3,6 @@ title: "Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC"
 description: "[L'Adresse de la Victime]** <br>"
 type: courrier
 date: 2026-06-29
-jx: J+31
 tags:
   - mise en demeure
   - dirigeants
@@ -16,7 +15,9 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/06 ✉️ Courrier President DG.md
 source: drive
 drive_id: 1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I
+jx: J+31
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › J+31 ✉️ Mise en demeure President*
 <hr>

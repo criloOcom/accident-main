@@ -1,12 +1,13 @@
 ---
 title: "Facture chirurgie — 790,23 €"
 description: "SOS Main — Clinique de l'Union — Facture intervention chirurgicale main droite"
-type: document
+type: preuve
 date: 2026-06-10
-statut: original
+statut: archive
 source: drive
 drive_id: 10vU_UlMgUnCuyao6D_6GlUTmdt5VOf-n
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260610 SOSMain Facture](./README.md) › 20260610-xxxx Facture Chirurgie SOSMain 790euros*
 <hr>

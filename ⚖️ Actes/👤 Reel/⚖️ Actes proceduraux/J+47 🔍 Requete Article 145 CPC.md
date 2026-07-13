@@ -1,21 +1,21 @@
 ---
 title: "Requête Article 145 CPC — Communication Assurance RC + Conservation Vidéos"
 description: "À déposer au greffe du TJ de Foix (15 juillet 2026) — REQUÊTE (pas d'assignation, pas d'huissier). Imprimer 2 exemplaires, demander récépissé."
-type: requete
+type: readme
 date: 2026-07-05
-jx: J+47
 tags:
   - requete
   - article 145
   - assurance
   - videos
   - astreinte
-statut: a_deposer_greffe_15_juillet
+statut: preparation
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/03 🔍 Assignation Article 145.md
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/J+47 🔍 Requete Article 145 CPC.md
 source: drive
 drive_id: 1R26179ks7vLkzw0hYEHL888i0p1VS9ppa6s8R8kQ_gg
+jx: J+47
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › J+47 🔍 Requete Article 145 CPC*

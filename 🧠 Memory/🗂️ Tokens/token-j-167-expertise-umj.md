@@ -1,3 +1,9 @@
+---
+title: "📅 J+167 Expertise UMJ"
+description: "Token :** `**[J+167 Expertise UMJ]**`"
+type: memory
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-167-expertise-umj*
 <hr>

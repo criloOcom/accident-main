@@ -1,18 +1,19 @@
 ---
 title: "Dossier de Plainte — Plainte Officielle PV n°2026-015967"
 description: "Document de type document"
-type: document
+type: preuve
 date: 2026-06-01
 tags:
   - plainte
   - procès-verbal
   - PV
   - police
-statut: original
+statut: archive
 destinataire: Procureur de la République
 source: drive
 drive_id: 1estaaOWMphbrt5VXhy6MsTfHqBGIdj22
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260602 Police PV](./README.md) › 20260601 DOSSIER Plainte PlainteOfficiellePV n°2026-015967*
 <hr>

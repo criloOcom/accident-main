@@ -1,8 +1,9 @@
 ---
 title: "📁 20260601 DrOXYBEL"
 description: "README de la pièce Dr OXYBEL"
-type: directory
+type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › 20260601 🩺 DrOXYBEL*
 <hr>

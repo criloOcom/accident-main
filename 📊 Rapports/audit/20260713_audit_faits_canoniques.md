@@ -1,6 +1,7 @@
 ---
 title: "AUDIT FAITS CANONIQUES — Écarts vs STRICT VARIABLES.md"
 description: "Audit ciblé des écarts factuels (dates, doigts, CPAM, LRAR) dans ⚖️ Actes/🔑 Token."
+type: rapport
 ---
 
 # Audit faits canoniques

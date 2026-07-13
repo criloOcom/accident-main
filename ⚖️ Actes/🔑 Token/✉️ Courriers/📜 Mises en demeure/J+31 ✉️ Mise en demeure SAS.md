@@ -1,9 +1,8 @@
 ---
 title: "Mise en Demeure — Déclaration d'Accident Corporel et Demande d'Information"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-06-29
-jx: J+31
 tags:
   - mise en demeure
   - SAS
@@ -15,7 +14,9 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/03 ✉️ Courrier SAS.md
 source: drive
 drive_id: 1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc
+jx: J+31
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › J+31 ✉️ Mise en demeure SAS*
 <hr>

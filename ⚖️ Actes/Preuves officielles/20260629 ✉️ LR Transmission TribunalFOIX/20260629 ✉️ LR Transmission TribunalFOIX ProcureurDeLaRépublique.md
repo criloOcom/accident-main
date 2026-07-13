@@ -1,7 +1,7 @@
 ---
 title: "Lettre Recommandée — Transmission Tribunal de FOIX au Procureur de la République"
 description: "Document de type document"
-type: document
+type: preuve
 date: 2026-06-29
 tags:
   - LR
@@ -9,11 +9,12 @@ tags:
   - tribunal
   - FOIX
   - procureur
-statut: original
+statut: archive
 destinataire: Procureur de la République près le Tribunal Judiciaire de FOIX
 source: drive
 drive_id: 1wpqT0wnHd5uwwKDJb65w576jG9H9wYzm
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260629 LR Transmission TribunalFOIX](./README.md) › 20260629 ✉️ LR Transmission TribunalFOIX ProcureurDeLaRépublique*
 <hr>

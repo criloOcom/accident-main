@@ -1,9 +1,8 @@
 ---
 title: "Signalement Officiel au CODAF"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-05
-jx: J+37
 tags:
   - CODAF
   - signalement
@@ -15,7 +14,9 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/14 ✉️ Courrier CODAF.md
 source: drive
 drive_id: 1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY
+jx: J+37
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🚨 Signalements](./README.md) › J+37 ✉️ Signalement CODAF*
 <hr>

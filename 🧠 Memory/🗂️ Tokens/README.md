@@ -1,8 +1,9 @@
 ---
 title: "🗂️ Tokens — Fiches individuelles des tokens d'anonymisation"
 description: "71 fiches enrichies (55 identité + 16 financiers), une par token. Chaque fiche détaille l'identité, le contexte, la chronologie et les documents liés au token."
-type: memory
+type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › 🗂️ Tokens*
 <hr>

@@ -1,3 +1,9 @@
+---
+title: "📍 L'Email du Secrétariat de la Mairie"
+description: "Token :** `**[L'Email du Secrétariat de la Mairie]**`"
+type: memory
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-l-email-du-secretariat-de-la-mairie*
 <hr>

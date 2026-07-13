@@ -1,21 +1,22 @@
 ---
 title: "Relance CPAM — Suivi du Dossier de Recours Contre Tiers"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-05
-jx: J+37
 tags:
   - CPAM
   - recours contre tiers
   - suivi
   - email
-statut: final
+statut: projet
 destinataire: CPAM Haute-Garonne
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/21 🔄 Relance CPAM.md
 source: drive
 drive_id: 1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k
+jx: J+37
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🔄 Relances](./README.md) › J+37 🔄 Relance CPAM*
 <hr>

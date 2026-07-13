@@ -3,14 +3,14 @@ title: "⚠️ OBSOLÈTE — Requête Constat Huissier 145 CPC (remplacé par 03
 description: "CE FICHIER EST OBSOLÈTE. Déplacé vers 🗄️ Archives/. La requête Art. 145 CPC active est 03 🔍 dans ⚖️ Actes proceduraux."
 type: courrier
 date: 2026-07-09
-jx: J+41
 tags:
   - obsolet
   - remplace_par_03
 statut: archive
-destinataire: null
 auteur: La Victime
+jx: J+41
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🗄️ Archivé](./README.md) › J+41 ✉️ Requete Constat Huissier*
 <hr>

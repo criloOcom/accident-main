@@ -1,9 +1,8 @@
 ---
 title: "Saisine Conservatoire du Fonds de Garantie des Victimes"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-06
-jx: J+38
 tags:
   - FGTI
   - garantie
@@ -12,13 +11,15 @@ tags:
   - CPC
   - LRAR
   - email
-statut: obsolète_ne_pas_relancer
+statut: archive
 destinataire: FGTI
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/19 ✉️ Courrier FGTI.md
 source: drive
 drive_id: 13jocmpqETy64lldco9LGCKLJZp_ml_9u53NB7OySmrs
+jx: J+38
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+38 ✉️ Saisine FGTI*
 <hr>

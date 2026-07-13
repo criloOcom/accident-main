@@ -2,13 +2,13 @@
 title: "Code civil — Art. 145"
 description: "Code de procédure civile — Mesures d'instruction in futurum"
 type: loi
-legiarti: "LEGIARTI000051869339"
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339"
-date: "2026-07-10"
-source: "Légifrance/LEGIARTI000051869339"
-code: "Code de procédure civile"
-article: "145"
+date: 2026-07-10
+source: Légifrance/LEGIARTI000051869339
+legiarti: LEGIARTI000051869339
+code: Code de procédure civile
+article: 145
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code procedure civile](./README.md) › Article 145 CodeDeProcédureCivile Legifrance*
 <hr>

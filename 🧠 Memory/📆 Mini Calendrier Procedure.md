@@ -9,10 +9,10 @@ tags:
   - penal
   - administratif
   - jalons
-statut: travail_en_cours
+statut: brouillon
 auteur: La Victime
-categorie: calendrier
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › 📆 Mini Calendrier Procedure*
 <hr>

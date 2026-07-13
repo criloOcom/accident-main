@@ -1,8 +1,9 @@
 ---
 title: "CHANGELOG JURIDIQUE"
 description: "Suivi des modifications apportées aux fiches juridiques (articles et jurisprudence)."
-type: document
+type: loi
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [⚖️ Bibliothèque Juridique](./README.md) › CHANGELOG JURIDIQUE*
 <hr>

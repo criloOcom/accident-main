@@ -1,9 +1,8 @@
 ---
 title: "Plainte Complément — Défaut d'Assurance RC"
 description: "Rédigé le **[J+32 Assignation référé]"
-type: assignation
+type: readme
 date: 2026-06-30
-jx: J+32
 tags:
   - plainte
   - défaut d'assurance
@@ -11,9 +10,10 @@ tags:
 statut: final
 destinataire: Procureur de la République
 auteur: La Victime
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/02 🚔 Plainte.md
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/J+32 🚔 Plainte Defaut Assurance RC.md
 source: drive
 drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
+jx: J+32
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › J+32 🚔 Plainte Defaut Assurance RC*

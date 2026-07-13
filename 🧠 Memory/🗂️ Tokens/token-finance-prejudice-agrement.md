@@ -1,3 +1,9 @@
+---
+title: "💰 Finance<br>Préjudice d'Agrément"
+description: "Token :** `**[Finance Préjudice Agrément]**`"
+type: memory
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-finance-prejudice-agrement*
 <hr>

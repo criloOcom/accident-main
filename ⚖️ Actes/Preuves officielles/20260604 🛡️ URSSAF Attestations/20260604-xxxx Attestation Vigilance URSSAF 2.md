@@ -1,12 +1,13 @@
 ---
 title: "Attestation de vigilance URSSAF n°2"
 description: "URSSAF Midi-Pyrénées — Seconde attestation de régularité sociale — SAS LES MAUVAIS GARCONS"
-type: document
+type: preuve
 date: 2026-06-04
-statut: original
+statut: archive
 source: drive
 drive_id: 1T8W4GrLrQ9MnO3YaS6uI0KdE5hX2cZ7F
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260604 URSSAF Attestations](./README.md) › 20260604-xxxx Attestation Vigilance URSSAF 2*
 <hr>

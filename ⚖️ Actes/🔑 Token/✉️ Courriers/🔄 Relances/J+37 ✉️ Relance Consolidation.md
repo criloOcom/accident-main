@@ -1,21 +1,22 @@
 ---
 title: "Demande de Certificat Medical de Consolidation au Chirurgien SOS Main"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-05
-jx: J+37
 tags:
   - certificat de consolidation
   - medical
   - expertise
   - DFP
-statut: final
+statut: projet
 destinataire: Le Chirurgien SOS Main
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/07 ✉️ Courrier Consolidation.md
 source: drive
 drive_id: 1PSv6c0YFvLa0WDEbwc3AVxL14z7ARi5ne50ctJgCvWI
+jx: J+37
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🔄 Relances](./README.md) › J+37 ✉️ Relance Consolidation*
 <hr>

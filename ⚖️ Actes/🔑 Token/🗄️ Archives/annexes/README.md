@@ -1,8 +1,9 @@
 ---
 title: "📁 annexes"
 description: "README du dossier annexes"
-type: directory
+type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📦 Archives](../README.md) › annexes*
 <hr>

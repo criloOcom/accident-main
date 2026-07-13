@@ -1,9 +1,8 @@
 ---
 title: "Réquisitoire Introductif"
 description: "Ouverture d'une information judiciaire — Blessures involontaires et infractions connexes"
-type: assignation
+type: readme
 date: 2026-07-15
-jx: J+47
 tags:
   - pénal
   - réquisitoire
@@ -12,9 +11,10 @@ tags:
 statut: projet
 destinataire: Doyen des Juges d'Instruction
 auteur: Procureur de la République
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/J+47 ⚖️ Requisitoire introductif.md
 source: drive
 drive_id: À compléter
+jx: J+47
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › J+47 ⚖️ Requisitoire introductif*

@@ -1,7 +1,7 @@
 ---
 title: "SIGNALEMENT AU PROCUREUR DE LA RÉPUBLIQUE"
 description: "À L'ATTENTION DE MONSIEUR LE PROCUREUR DE LA RÉPUBLIQUE"
-type: assignation
+type: readme
 statut: brouillon
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/16 ⚠️ Signalement Parquet Fraud.md
 ---

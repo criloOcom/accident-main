@@ -1,9 +1,8 @@
 ---
 title: "Mise en demeure de la Mairie — Police Administrative"
-description: "[La Victime]"
+description: "La Victime"
 type: courrier
 date: 2026-07-09
-jx: J+41
 tags:
   - mairie
   - police administrative
@@ -12,7 +11,9 @@ statut: final
 destinataire: Le Maire
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/29 ✉️ Courrier Maire Foix.md
+jx: J+41
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+41 ✉️ Mise en demeure Maire Foix*
 <hr>

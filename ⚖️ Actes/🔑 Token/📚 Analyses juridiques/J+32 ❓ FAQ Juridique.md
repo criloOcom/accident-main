@@ -3,7 +3,6 @@ title: "Synthèse Juridique et FAQ"
 description: "Rédigé par : **[La Victime]"
 type: analyse_juridique
 date: 2026-06-30
-jx: J+32
 tags:
   - faq
   - synthèse
@@ -11,9 +10,10 @@ tags:
   - questions
 statut: final
 auteur: La Victime
-reel_path: ../../👤 Reel/📚 Analyses juridiques/09 ❓ FAQ.md
+reel_path: ../../👤 Reel/📚 Analyses juridiques/J+32 ❓ FAQ Juridique.md
 source: drive
 drive_id: 1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM
+jx: J+32
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+32 ❓ FAQ Juridique*

@@ -1,3 +1,9 @@
+---
+title: "👤 Le Médecin en Urgence"
+description: "Token :** `**[Le Médecin en Urgence]**`"
+type: memory
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-le-medecin-en-urgence*
 <hr>

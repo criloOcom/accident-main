@@ -3,7 +3,6 @@ title: "Relance [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82
 description: "Objet : Demande de certificat médical de consolidation — Suite courrier du **[J+37 Assignation 145]"
 type: courrier
 date: 2026-07-06
-jx: J+38
 tags:
   - relance
   - consolidation
@@ -13,7 +12,9 @@ destinataire: Le Chirurgien SOS Main
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/25 📧 Relance Dr DJERBI.md
 source: local
+jx: J+38
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+38 📧 Relance Dr DJERBI Consolidation*
 <hr>

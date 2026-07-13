@@ -1,9 +1,8 @@
 ---
 title: "Transmission de preuves complementaires au Tribunal Judiciaire de Foix"
-description: "[La Victime]"
+description: "La Victime"
 type: courrier
 date: 2026-07-12
-jx: J+44
 tags:
   - TJ
   - preuves
@@ -13,7 +12,9 @@ statut: final
 destinataire: President du Tribunal Judiciaire de Foix
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/35 ✉️ Courrier President TJ Foix.md
+jx: J+44
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+44 ✉️ Preuves Complementaires TJ Foix*
 <hr>

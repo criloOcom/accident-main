@@ -3,7 +3,6 @@ title: "Bon d'Envoi Physique — Lot Juillet 2026"
 description: "| # | Document | Fichier reel/ | Exemplaires |"
 type: readme
 date: 2026-07-06
-jx: J+38
 tags:
   - envoi
   - LRAR
@@ -12,7 +11,8 @@ tags:
   - check-list
 statut: preparation
 auteur: La Victime
-reel_path: ../../👤 Reel/🗂️ Organisation/20 📦 Bon envoi physique.md
+reel_path: ../../👤 Reel/🗂️ Organisation/J+38 📦 Bon Envoi Physique.md
+jx: J+38
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+38 📦 Bon Envoi Physique*

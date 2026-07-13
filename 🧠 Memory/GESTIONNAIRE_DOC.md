@@ -1,11 +1,12 @@
 ---
 title: "Fiche rôle - Gestionnaire de documentation"
 description: "Définition du périmètre d'action de l'agent en charge de la structure documentaire du dossier"
-type: gouvernance
+type: memory
 date: 2026-07-15
-statut: reference
+statut: archive
 auteur: La Victime
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › GESTIONNAIRE DOC*
 <hr>

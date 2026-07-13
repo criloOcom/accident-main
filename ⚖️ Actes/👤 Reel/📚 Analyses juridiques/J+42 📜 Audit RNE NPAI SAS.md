@@ -3,10 +3,10 @@ title: "Analyse — Non-réception LRAR et statut RNE de [L'Exploitant du Commer
 description: "- Annuaire-entreprises.data.gouv.fr (INSEE)"
 type: analyse_juridique
 date: 2026-07-10
-jx: J+42
 statut: final
 auteur: La Victime
-reel_path: ../../👤 Reel/📚 Analyses juridiques/18 Note Audit RNE NPAI SAS.md
+reel_path: ../../👤 Reel/📚 Analyses juridiques/J+42 📜 Audit RNE NPAI SAS.md
+jx: J+42
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+42 📜 Audit RNE NPAI SAS*

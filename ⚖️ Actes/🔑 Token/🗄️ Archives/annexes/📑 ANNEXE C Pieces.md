@@ -1,8 +1,9 @@
 ---
 title: "ANNEXE C — LISTE DES PIÈCES"
 description: "- **[J+0 Accident]** — **[Le Médecin en Urgence]** — Premiers soins urgence — [🔗 Drive](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view)"
-type: archive
+type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📦 Archives](../README.md) › [📁 annexes](./README.md) › 📑 ANNEXE C Pieces*
 <hr>

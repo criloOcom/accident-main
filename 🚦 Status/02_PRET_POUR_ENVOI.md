@@ -1,8 +1,9 @@
 ---
 title: "📤 Prêt pour envoi"
 description: "Documents finalisés mais sans preuve matérielle de délivrance — statuts final, preparation."
-type: status
+type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🚦 Status — Index des documents par statut](./README.md) › 02 PRET POUR ENVOI*
 <hr>

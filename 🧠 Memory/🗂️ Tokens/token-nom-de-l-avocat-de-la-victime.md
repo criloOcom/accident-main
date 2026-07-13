@@ -1,3 +1,9 @@
+---
+title: "👤 Nom de l'Avocat de la Victime"
+description: "Token :** `**[Nom de l'Avocat de la Victime]**`"
+type: memory
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-nom-de-l-avocat-de-la-victime*
 <hr>

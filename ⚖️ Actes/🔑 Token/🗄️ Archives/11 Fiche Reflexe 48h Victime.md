@@ -1,7 +1,7 @@
 ---
 title: "Fiche Reflexe 48h — Victime d'Accident Corporel"
 description: "Etape 1 — Securite et sante"
-type: archive
+type: readme
 date: 2026-07-09
 tags:
   - fiche

@@ -1,8 +1,9 @@
 ---
 title: "📁 20260710 Actualisation Dossier ERP"
 description: "README de la pièce Actualisation Dossier ERP"
-type: directory
+type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › 20260710 📧 Actualisation Dossier ERP*
 <hr>

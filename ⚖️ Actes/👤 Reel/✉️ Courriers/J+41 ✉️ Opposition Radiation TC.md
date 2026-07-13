@@ -1,9 +1,8 @@
 ---
 title: "Opposition conservatoire à radiation de la SAS"
-description: "[Nom de l'Avocat de la Victime]"
+description: "Nom de l'Avocat de la Victime"
 type: courrier
 date: 2026-07-09
-jx: J+41
 tags:
   - Tribunal de Commerce
   - opposition
@@ -14,7 +13,9 @@ statut: final
 destinataire: Tribunal de Commerce de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
 auteur: Nom de l'Avocat de la Victime
 reel_path: ../../👤 Reel/✉️ Courriers/30 ✉️ Courrier President TC.md
+jx: J+41
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+41 ✉️ Opposition Radiation TC*
 <hr>

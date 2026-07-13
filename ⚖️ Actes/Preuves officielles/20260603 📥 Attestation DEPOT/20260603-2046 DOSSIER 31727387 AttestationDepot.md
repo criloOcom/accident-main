@@ -1,17 +1,18 @@
 ---
 title: "Attestation de Dépôt de Plainte DOSSIER n°31727387"
 description: "Document de type document"
-type: document
+type: preuve
 date: 2026-06-03
 tags:
   - attestation
   - dépôt
   - plainte
   - DOSSIER
-statut: original
+statut: archive
 source: drive
 drive_id: 1wyKSNyNvbJ4HygvQ4N-J_3jx88ItXYzR
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260603 Attestation DEPOT](./README.md) › 20260603-2046 DOSSIER 31727387 AttestationDepot*
 <hr>

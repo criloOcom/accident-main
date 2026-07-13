@@ -1,9 +1,8 @@
 ---
 title: "Signalement de Travail Dissimule Presume"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-05
-jx: J+37
 tags:
   - URSSAF
   - travail dissimule
@@ -15,7 +14,9 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/12 ✉️ Courrier URSSAF.md
 source: drive
 drive_id: 1LdLfCnWLiD2v1N1SMF3FAeh681znM0kXOrAlBXeOe8w
+jx: J+37
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🚨 Signalements](./README.md) › J+37 ✉️ Signalement URSSAF*
 <hr>

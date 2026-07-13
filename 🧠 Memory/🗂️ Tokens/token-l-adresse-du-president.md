@@ -1,3 +1,9 @@
+---
+title: "📍 L'Adresse du Président"
+description: "Token :** `**[L'Adresse du Président]**`"
+type: memory
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-l-adresse-du-president*
 <hr>

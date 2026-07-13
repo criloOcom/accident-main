@@ -3,7 +3,6 @@ title: "Modèle Saisine CADA — Refus communication documents administratifs"
 description: "Saisine de la Commission d'accès aux documents administratifs en cas de refus (exprès ou implicite) de la Préfecture ou de l'Inspection du travail de communiquer les rapports/enquêtes"
 type: courrier
 date: 2026-07-15
-jx: J+47
 tags:
   - CADA
   - CRPA
@@ -11,11 +10,13 @@ tags:
   - documents administratifs
   - préfecture
   - inspection du travail
-statut: brouillon — utilisable si refus Préfecture/IT
+statut: brouillon
 destinataire: Commission d'accès aux documents administratifs (CADA)
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/43 ✉️ Modele Saisine CADA.md
+jx: J+47
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📝 Procédure](./README.md) › J+47 ✉️ Modele Saisine CADA*
 <hr>

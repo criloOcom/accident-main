@@ -1,22 +1,23 @@
 ---
 title: "Signalement de Securite ERP au SDIS"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-05
-jx: J+37
 tags:
   - SDIS
   - ERP
   - securite incendie
   - signalement
   - email
-statut: final
+statut: projet
 destinataire: SDIS de l'Ariege
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/18 ✉️ Courrier SDIS.md
 source: drive
 drive_id: 1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE
+jx: J+37
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🚨 Signalements](./README.md) › J+37 ✉️ Signalement SDIS*
 <hr>

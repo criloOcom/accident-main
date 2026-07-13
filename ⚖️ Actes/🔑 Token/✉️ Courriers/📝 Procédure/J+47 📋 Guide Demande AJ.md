@@ -1,9 +1,8 @@
 ---
 title: "Guide — Demande d'Aide Juridictionnelle Totale"
 description: "Guide pas à pas pour déposer une demande d'AJ totale au TJ de Foix"
-type: guide
+type: courrier
 date: 2026-07-12
-jx: J+47
 tags:
   - AJ
   - aide juridictionnelle
@@ -12,7 +11,9 @@ tags:
 statut: final
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/39 📋 GUIDE_DEMANDE_AJ.md
+jx: J+47
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📝 Procédure](./README.md) › J+47 📋 Guide Demande AJ*
 <hr>

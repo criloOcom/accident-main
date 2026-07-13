@@ -1,8 +1,9 @@
 ---
 title: "📁 20260602 Police PV"
 description: "README de la pièce Police PV"
-type: directory
+type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › 20260602 👮‍♂️ Police PV*
 <hr>

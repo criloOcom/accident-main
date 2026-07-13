@@ -1,7 +1,7 @@
 ---
 title: "Procès-Verbal de Police n°2026-015967 — Accident Salon de Coiffure"
 description: "Document de type document"
-type: document
+type: preuve
 date: 2026-06-02
 tags:
   - procès-verbal
@@ -9,10 +9,11 @@ tags:
   - police
   - accident
   - salon de coiffure
-statut: original
+statut: archive
 source: drive
 drive_id: 1YXaJE81FFPTKcrcShg9DI5jUZ82T988V
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260602 Police PV](./README.md) › 20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure*
 <hr>

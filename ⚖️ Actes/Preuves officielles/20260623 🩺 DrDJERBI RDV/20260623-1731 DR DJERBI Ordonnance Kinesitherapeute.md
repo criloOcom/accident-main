@@ -1,16 +1,17 @@
 ---
 title: "Ordonnance de Kinésithérapie — Docteur DJERBI"
 description: "Document de type document"
-type: document
+type: preuve
 date: 2026-06-23
 tags:
   - ordonnance
   - kinésithérapie
   - Dr DJERBI
-statut: original
+statut: archive
 source: drive
 drive_id: 1t-DHwIZUyJgWwQGOAFHtNvNC2xVtMozp
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260623 DrDJERBI RDV](./README.md) › 20260623-1731 DR DJERBI Ordonnance Kinesitherapeute*
 <hr>

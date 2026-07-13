@@ -1,9 +1,8 @@
 ---
 title: "[Constitution de Partie Civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) — Blessures Involontaires"
 description: "Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants"
-type: assignation
+type: readme
 date: 2026-07-06
-jx: J+38
 tags:
   - constitution
   - partie civile
@@ -13,9 +12,10 @@ tags:
 statut: projet
 destinataire: Doyen des Juges d'Instruction
 auteur: La Victime
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/02b 🛡️ Constitution Partie Civile.md
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/J+38 🛡️ Constitution Partie Civile.md
 source: drive
 drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
+jx: J+38
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › J+38 🛡️ Constitution Partie Civile*

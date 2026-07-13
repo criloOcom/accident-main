@@ -3,6 +3,7 @@ title: "DESIGN — Charte Graphique Google Docs"
 description: "- **Arial** obligatoire sur 100 % du document (police héritée par défaut via le thème Google Docs ; ne pas utiliser de police différente dans les `textStyle` explicites)."
 type: memory
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › DESIGN*
 <hr>

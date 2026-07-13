@@ -1,8 +1,9 @@
 ---
 title: "📁 20260623 DrDJERBI RDV"
 description: "README de la pièce Dr DJERBI RDV"
-type: directory
+type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › 20260623 🩺 DrDJERBI RDV*
 <hr>

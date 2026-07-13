@@ -1,9 +1,9 @@
 ---
 title: "📁 Actes / reel — Version Réelle"
-breadcrumb: "👤 Réel"
 description: "Ce dossier contient les versions réelles de tous les actes."
 type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [📁 Actes](../README.md) › 👤 Reel*
 <hr>

@@ -1,16 +1,17 @@
 ---
 title: "Compte Rendu Opératoire — Rapport d'Intervention Main Droite"
 description: "Document de type document"
-type: document
+type: preuve
 date: 2026-05-30
 tags:
   - compte rendu opératoire
   - intervention
   - main droite
-statut: original
+statut: archive
 source: drive
 drive_id: 1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260530 SOSMain](./README.md) › 20260530 CR Opératoire RapportInterventionMainDroite*
 <hr>

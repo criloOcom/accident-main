@@ -1,18 +1,19 @@
 ---
 title: "Checklist Complète — Déplacement au Commissariat de Foix"
 description: "DOCUMENT PERSONNEL"
-type: checklist_personnelle
+type: courrier
 date: 2026-07-11
-jx: J+47
 tags:
   - checklist
   - déplacement
   - police
   - personnel
-statut: personnel
+statut: archive
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_FOIX.md
+jx: J+47
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📋 Personnel](./README.md) › J+47 ✅ Checklist Deplacement Foix*
 <hr>

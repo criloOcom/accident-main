@@ -1,3 +1,9 @@
+---
+title: "📍 La Ville de l'Établissement SOS Main"
+description: "Token :** `**[La Ville de l'Établissement SOS Main]**`"
+type: memory
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-la-ville-de-l-etablissement-sos-main*
 <hr>

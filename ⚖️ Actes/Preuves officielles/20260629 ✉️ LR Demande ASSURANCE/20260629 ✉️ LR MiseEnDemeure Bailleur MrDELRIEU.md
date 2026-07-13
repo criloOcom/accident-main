@@ -1,17 +1,18 @@
 ---
 title: "Lettre Recommandée — Mise en Demeure Bailleur Monsieur DELRIEU"
 description: "Document de type document"
-type: document
+type: preuve
 date: 2026-06-29
 tags:
   - LR
   - mise en demeure
   - bailleur
-statut: original
+statut: archive
 destinataire: Monsieur DELRIEU (Bailleur)
 source: drive
 drive_id: 114JeqDjs9-0PRC_PHQrBxH1CZ3PoZgIv
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260629 LR Demande ASSURANCE](./README.md) › 20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU*
 <hr>

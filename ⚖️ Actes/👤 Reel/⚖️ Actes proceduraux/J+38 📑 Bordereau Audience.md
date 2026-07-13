@@ -1,9 +1,8 @@
 ---
 title: "Bordereau de pièces (version audience) - Version réelle"
 description: "| Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : Sébastien GRAZIDE | Défendeur : SAS LES MAUVAIS GARCONS |"
-type: assignation
+type: readme
 date: 2026-07-06
-jx: J+38
 tags:
   - bordereau
   - pieces
@@ -12,7 +11,9 @@ statut: brouillon
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
 source: drive
+jx: J+38
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [⚖️ Actes proceduraux](./README.md) › J+38 📑 Bordereau Audience*
 <hr>

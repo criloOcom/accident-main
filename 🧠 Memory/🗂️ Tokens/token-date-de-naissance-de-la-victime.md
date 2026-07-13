@@ -1,3 +1,9 @@
+---
+title: "📍 Date de naissance de la victime"
+description: "Token :** `**[Date de naissance de la victime]**`"
+type: memory
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-date-de-naissance-de-la-victime*
 <hr>

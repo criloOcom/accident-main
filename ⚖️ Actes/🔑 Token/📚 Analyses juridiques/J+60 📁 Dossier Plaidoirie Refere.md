@@ -3,7 +3,6 @@ title: "Dossier de Plaidoirie - Audience de Référé"
 description: "<hr><hr>"
 type: analyse_juridique
 date: 2026-07-28
-jx: J+60
 tags:
   - référé
   - plaidoirie
@@ -12,7 +11,8 @@ tags:
 statut: final
 destinataire: Juge des Référés
 auteur: La Victime
-reel_path: ../../👤 Reel/📚 Analyses juridiques/12 📁 Dossier Plaidoirie.md
+reel_path: ../../👤 Reel/📚 Analyses juridiques/J+60 📁 Dossier Plaidoirie Refere.md
+jx: J+60
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+60 📁 Dossier Plaidoirie Refere*

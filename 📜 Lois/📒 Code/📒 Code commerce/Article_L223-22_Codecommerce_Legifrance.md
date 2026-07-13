@@ -2,13 +2,13 @@
 title: "Article L. 223-22"
 description: "Code de commerce — Gérant d'EURL"
 type: loi
-legiarti: "LEGIARTI000006223141"
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141"
-date: "2026-07-10"
-source: "Légifrance/LEGIARTI000006223141"
-code: "Code de commerce"
-article: "L223-22"
+date: 2026-07-10
+source: Légifrance/LEGIARTI000006223141
+legiarti: LEGIARTI000006223141
+code: Code de commerce
+article: L223-22
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code commerce](./README.md) › Article L223-22 Codecommerce Legifrance*
 <hr>

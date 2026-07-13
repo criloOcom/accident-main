@@ -1,9 +1,8 @@
 ---
 title: "Demande d'Information a l'Inspection du Travail"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-05
-jx: J+37
 tags:
   - inspection du travail
   - enquete
@@ -15,7 +14,9 @@ auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/09 ✉️ Courrier Inspection Travail.md
 source: drive
 drive_id: 1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM
+jx: J+37
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+37 ✉️ Signalement Inspection Travail*
 <hr>

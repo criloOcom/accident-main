@@ -3,6 +3,7 @@ title: "🏛️ Responsabilité du fait des choses"
 description: "Arrêts de la Cour de cassation sur la responsabilité du fait des choses (Art. 1242 C. civ.)"
 type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📜 Jurisprudence](../README.md) › 🏛️ Responsabilité du fait des choses*
 <hr>

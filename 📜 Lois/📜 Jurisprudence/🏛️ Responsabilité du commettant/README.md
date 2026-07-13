@@ -3,6 +3,7 @@ title: "🏛️ Responsabilité du commettant"
 description: "Arrêts de la Cour de cassation sur la responsabilité du commettant"
 type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📜 Jurisprudence](../README.md) › 🏛️ Responsabilité du commettant*
 <hr>

@@ -3,7 +3,6 @@ title: "Demande de Communication d'Assurance RC au Propriétaire des Murs"
 description: "[L'Adresse de la Victime]** <br>"
 type: courrier
 date: 2026-06-29
-jx: J+31
 tags:
   - mise en demeure
   - bailleur
@@ -15,7 +14,9 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/05 ✉️ Courrier Proprietaire.md
 source: drive
 drive_id: 1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4
+jx: J+31
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › J+31 ✉️ Mise en demeure Proprietaire*
 <hr>

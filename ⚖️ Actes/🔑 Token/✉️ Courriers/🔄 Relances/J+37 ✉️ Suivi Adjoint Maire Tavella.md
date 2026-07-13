@@ -1,9 +1,8 @@
 ---
 title: "Suivi Courrier Adjoint au Maire — Demande d'Information Inspection du Travail et CODAF"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-05
-jx: J+37
 tags:
   - inspection du travail
   - CODAF
@@ -15,7 +14,9 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
 source: drive
 drive_id: 1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw
+jx: J+37
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🔄 Relances](./README.md) › J+37 ✉️ Suivi Adjoint Maire Tavella*
 <hr>

@@ -1,16 +1,17 @@
 ---
 title: "Compte Rendu — Docteur DJERBI MonEspaceSanté (PJ2)"
 description: "Document de type document"
-type: document
+type: preuve
 date: 2026-06-23
 tags:
   - compte rendu
   - MonEspaceSanté
   - Dr DJERBI
-statut: original
+statut: archive
 source: drive
 drive_id: 1HaQVZh_Dsj2sbebvp6zHnps_6q791duR
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260623 DrDJERBI RDV](./README.md) › 20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ2*
 <hr>

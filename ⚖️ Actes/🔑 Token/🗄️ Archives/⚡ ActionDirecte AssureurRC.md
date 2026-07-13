@@ -1,14 +1,14 @@
 ---
 title: "Action Directe Assureur RC ([Art. L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449))"
 description: "Rédigé le **[J+31 Mises en demeure]"
-type: archive
+type: readme
 date: 2026-06-29
 tags:
   - action directe
   - assurance
   - mise en demeure
   - L.124-3
-statut: final
+statut: projet
 destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
 auteur: La Victime
 reel_path: ../../👤 Reel/🗄️ Archives/⚡ ActionDirecte AssureurRC.md

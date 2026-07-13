@@ -1,11 +1,12 @@
 ---
 title: "Tableau - Arguments de la défense / Réponses du dossier"
 description: "Préparation stratégique en vue des auditions, référé-provision et échanges avec l'avocat AJ"
-type: analyse
+type: analyse_juridique
 date: 2026-07-15
-jx: J+47
 statut: final
 auteur: La Victime
+jx: J+47
+reel_path: ../../👤 Reel/📚 Analyses juridiques/J+47 🛡️ Tableau Defense Reponse.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+47 🛡️ Tableau Defense Reponse*

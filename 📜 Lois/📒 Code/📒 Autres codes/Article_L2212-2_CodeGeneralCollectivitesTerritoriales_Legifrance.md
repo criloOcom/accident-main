@@ -2,13 +2,13 @@
 title: "Article L. 2212-2 du Code général des collectivités territoriales"
 description: "CGCT — Pouvoirs de police du maire"
 type: loi
-legiarti: "LEGIARTI000029946370"
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370"
-date: "2026-07-10"
-source: "Légifrance/LEGIARTI000029946370"
-code: "Code général des collectivités territoriales"
-article: "L2212-2"
+date: 2026-07-10
+source: Légifrance/LEGIARTI000029946370
+legiarti: LEGIARTI000029946370
+code: Code général des collectivités territoriales
+article: L2212-2
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Autres codes](./README.md) › Article L2212-2 CodeGeneralCollectivitesTerritoriales Legifrance*
 <hr>

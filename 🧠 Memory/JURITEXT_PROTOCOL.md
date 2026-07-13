@@ -3,6 +3,7 @@ title: "PROTOCOLE JURITEXT — Vérification obligatoire des identifiants de jur
 description: "Quand tu dois insérer ou vérifier une JURITEXT :"
 type: memory
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › JURITEXT PROTOCOL*
 <hr>

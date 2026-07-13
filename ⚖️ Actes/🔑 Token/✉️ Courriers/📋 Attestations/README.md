@@ -3,6 +3,7 @@ title: "📋 Attestations"
 description: "Gabarits d'attestations CERFA pour les témoins (employé, pompier/SAMU, client) et emails de transmission."
 type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › 📋 Attestations*
 <hr>

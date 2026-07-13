@@ -1,9 +1,8 @@
 ---
 title: "Mémo stratégique — Voies administrative et pénale"
 description: "Synthèse de la consultation avocat (15 juillet 2026) : articulation des procédures administrative (CODAF/Inspection du travail) et pénale (plainte + AJ + 145 CPC)"
-type: analyse
+type: analyse_juridique
 date: 2026-07-15
-jx: J+47
 tags:
   - strategie
   - CODAF
@@ -14,6 +13,8 @@ tags:
   - avocat
 statut: final
 auteur: La Victime
+jx: J+47
+reel_path: ../../👤 Reel/📚 Analyses juridiques/J+47 🛡️ Memo Strategie Admin Penal.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+47 🛡️ Memo Strategie Admin Penal*

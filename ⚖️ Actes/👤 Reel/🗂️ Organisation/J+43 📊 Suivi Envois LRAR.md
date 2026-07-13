@@ -3,7 +3,6 @@ title: "Suivi des Envois LRAR"
 description: "| # | Destinataire | Date envoi | N° LRAR | AR recu | Reponse | Date reponse | Relance J+15 | Email | Statut | Notes |"
 type: readme
 date: 2026-07-11
-jx: J+43
 tags:
   - suivi
   - LRAR
@@ -11,7 +10,8 @@ tags:
   - tableau
 statut: preparation
 auteur: La Victime
-reel_path: ../../👤 Reel/🗂️ Organisation/23 📊 Suivi Envois LRAR.md
+reel_path: ../../👤 Reel/🗂️ Organisation/J+43 📊 Suivi Envois LRAR.md
+jx: J+43
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+43 📊 Suivi Envois LRAR*

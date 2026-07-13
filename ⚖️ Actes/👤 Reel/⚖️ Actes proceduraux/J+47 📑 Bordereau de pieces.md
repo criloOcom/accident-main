@@ -1,9 +1,8 @@
 ---
 title: "Bordereau de pièces - Version réelle"
 description: "| Procédure : Référé Article 145 CPC | Demandeur : Sébastien GRAZIDE | Défendeur : SAS LES MAUVAIS GARCONS |"
-type: assignation
+type: readme
 date: 2026-07-15
-jx: J+47
 tags:
   - bordereau
   - pieces
@@ -13,7 +12,9 @@ statut: final
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
 source: drive
+jx: J+47
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [⚖️ Actes proceduraux](./README.md) › J+47 📑 Bordereau de pieces*
 <hr>

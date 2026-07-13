@@ -1,9 +1,8 @@
 ---
 title: "Courrier Doyen des Juges d'Instruction — [Constitution de Partie Civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)"
-description: "[La Victime]"
+description: "La Victime"
 type: courrier
 date: 2026-07-06
-jx: J+38
 tags:
   - constitution
   - partie civile
@@ -15,7 +14,9 @@ auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/10 ✉️ Courrier Doyen Juges Instruction.md
 source: drive
 drive_id: 1nFSf3EDB_bVudz5Xhf0NvXlibTesCL8M5hepEZqxd5w
+jx: J+38
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+38 ✉️ Saisine Doyen Juges Instruction*
 <hr>

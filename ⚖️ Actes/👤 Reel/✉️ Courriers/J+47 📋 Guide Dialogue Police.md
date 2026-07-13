@@ -1,18 +1,19 @@
 ---
 title: "Guide de Dialogue — Échanges avec la Police de Foix"
 description: "Objectif : Ce guide vous accompagne pas à pas lors de votre déplacement au commissariat de Foix."
-type: guide_personnel
+type: courrier
 date: 2026-07-11
-jx: J+47
 tags:
   - guide
   - dialogue
   - police
   - personnel
-statut: personnel
+statut: archive
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md
+jx: J+47
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+47 📋 Guide Dialogue Police*
 <hr>

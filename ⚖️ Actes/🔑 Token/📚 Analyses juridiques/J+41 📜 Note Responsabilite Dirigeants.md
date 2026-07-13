@@ -3,7 +3,6 @@ title: "Note Responsabilité Dirigeants Dissolution"
 description: "Dans l'hypothèse où [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) procèderaient à la dissolution ou à la radiation de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) afin d'échapper aux poursuites et à l'indemnisation"
 type: analyse_juridique
 date: 2026-07-09
-jx: J+41
 tags:
   - dirigeants
   - responsabilité
@@ -13,7 +12,8 @@ tags:
 statut: final
 destinataire: La Victime
 auteur: L'Avocat de la Victime
-reel_path: ../../👤 Reel/📚 Analyses juridiques/16 📜 Note Responsabilite Dirigeants Dissolution.md
+reel_path: ../../👤 Reel/📚 Analyses juridiques/J+41 📜 Note Responsabilite Dirigeants.md
+jx: J+41
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+41 📜 Note Responsabilite Dirigeants*

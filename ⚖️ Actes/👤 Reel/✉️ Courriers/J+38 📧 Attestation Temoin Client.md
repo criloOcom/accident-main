@@ -3,7 +3,6 @@ title: "Email Transmission Attestation Témoin Client"
 description: "Objet : Attestation de témoin — Accident du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au salon **[L'Adresse de l'Exploitation]"
 type: courrier
 date: 2026-07-06
-jx: J+38
 tags:
   - email
   - attestation
@@ -13,7 +12,9 @@ destinataire: Témoin client présent le [29 mai 2026](../../../%F0%9F%A7%A0%20M
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/26 📧 Attestation Temoin Client.md
 source: local
+jx: J+38
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+38 📧 Attestation Temoin Client*
 <hr>

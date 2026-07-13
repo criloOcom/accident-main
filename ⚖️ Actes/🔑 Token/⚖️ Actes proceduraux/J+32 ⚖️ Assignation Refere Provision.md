@@ -1,9 +1,8 @@
 ---
 title: "Assignation en Référé-Provision et Demande d'Expertise Médicale"
 description: "Rédigé le **[J+32 Assignation référé]"
-type: assignation
+type: readme
 date: 2026-06-30
-jx: J+32
 tags:
   - assignation
   - référé
@@ -13,9 +12,10 @@ tags:
 statut: projet
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/01 ⚖️ Assignation.md
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/J+32 ⚖️ Assignation Refere Provision.md
 source: drive
 drive_id: 1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg
+jx: J+32
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › J+32 ⚖️ Assignation Refere Provision*

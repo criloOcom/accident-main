@@ -1,22 +1,23 @@
 ---
 title: "Relance Police Nationale — Suivi de Plainte et Demande de Videos"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-05
-jx: J+37
 tags:
   - police
   - relance
   - plainte
   - videosurveillance
   - email
-statut: final
+statut: projet
 destinataire: Police Nationale de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/20 🔄 Relance Police.md
 source: drive
 drive_id: 171CF_LzNopYxIS6Tn4i3t3Ghx3ut14F1gh6-KjHevCA
+jx: J+37
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🔄 Relances](./README.md) › J+37 🔄 Relance Police Videos*
 <hr>

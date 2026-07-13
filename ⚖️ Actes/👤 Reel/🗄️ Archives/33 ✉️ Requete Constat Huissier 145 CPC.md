@@ -1,15 +1,15 @@
 ---
 title: "⚠️ ARCHIVE — Requête Constat Huissier 145 CPC (obsolète)"
 description: "DOCUMENT ARCHIVÉ — Remplacé par 03 🔍 Assignation Article 145.md dans ⚖️ Actes proceduraux"
-type: archive
+type: readme
 date: 2026-07-09
 tags:
   - archive
   - obsolet
   - remplace_par_03
 statut: archive
-destinataire: null
 auteur: La Victime
+reel_path: ../../👤 Reel/🗄️ Archives/33 ✉️ Requete Constat Huissier 145 CPC.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📦 Archives](./README.md) › 33 ✉️ Requete Constat Huissier 145 CPC*

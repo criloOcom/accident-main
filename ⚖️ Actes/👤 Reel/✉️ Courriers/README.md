@@ -1,3 +1,9 @@
+---
+title: "Index — ✉️ Courriers (Versions Réelles)"
+description: "- [J+31 ✉️ Mise en demeure Assureur.md](J+31 ✉️ Mise en demeure Assureur.md)"
+type: readme
+---
+
 # Index — ✉️ Courriers (Versions Réelles)
 
 - [J+31 ✉️ Mise en demeure Assureur.md](J+31 ✉️ Mise en demeure Assureur.md)

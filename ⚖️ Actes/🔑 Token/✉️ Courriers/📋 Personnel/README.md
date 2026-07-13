@@ -3,6 +3,7 @@ title: "📋 Personnel"
 description: "Documents d'usage interne : checklists, antisèches, guides de préparation aux rendez-vous et auditions."
 type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › 📋 Personnel*
 <hr>

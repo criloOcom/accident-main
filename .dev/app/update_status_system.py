@@ -21,6 +21,18 @@ STATUT_NORMALIZE = {
     'draft': 'brouillon',
     'DRAFT': 'brouillon',
     'Draft': 'brouillon',
+    'obsolète_ne_pas_relancer': 'archive',
+    'original': 'archive',
+    'a_commander': 'preparation',
+    'a_deposer_15_juillet': 'preparation',
+    'a_deposer_greffe_15_juillet': 'preparation',
+    'brouillon — utilisable si refus Préfecture/IT': 'brouillon',
+    'final — validé avocat 15/07/2026': 'projet',
+    'projet — validé avocat 15/07/2026': 'projet',
+    'inopérant_destinataire_inconnu': 'archive',
+    'personnel': 'archive',
+    'reference': 'archive',
+    'travail_en_cours': 'brouillon',
 }
 
 def extract_yaml(content):

@@ -3,7 +3,6 @@ title: "Mémorandum Juridique — Responsabilité des Dirigeants"
 description: "Rédigé le **[J+32 Assignation référé]"
 type: analyse_juridique
 date: 2026-06-30
-jx: J+32
 tags:
   - dirigeants
   - responsabilité
@@ -11,9 +10,10 @@ tags:
   - sociétés
 statut: final
 auteur: La Victime
-reel_path: ../../👤 Reel/📚 Analyses juridiques/07 🎤 Plaidoirie dirigeants.md
+reel_path: ../../👤 Reel/📚 Analyses juridiques/J+32 🎤 Plaidoirie Responsabilite Dirigeants.md
 source: drive
 drive_id: 1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90
+jx: J+32
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+32 🎤 Plaidoirie Responsabilite Dirigeants*

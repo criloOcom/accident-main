@@ -1,16 +1,17 @@
 ---
 title: "Compte Rendu de Situation — Docteur Julie JARDON"
 description: "Document de type document"
-type: document
+type: preuve
 date: 2026-05-29
 tags:
   - compte rendu
   - situation
   - main
-statut: original
+statut: archive
 source: drive
 drive_id: 1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260529 DrJARDON](./README.md) › 20260529-1630 SITUATION DrJulieJARDON*
 <hr>

@@ -3,7 +3,6 @@ title: "Index de l'État Final du Dossier"
 description: "Rédigé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) — Mis à jour le [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-mise-a-jour.md) (unification bordereau 43 pièces)"
 type: readme
 date: 2026-07-07
-jx: J+39
 tags:
   - index
   - inventaire
@@ -11,9 +10,10 @@ tags:
   - dossier
 statut: final
 auteur: La Victime
-reel_path: ../../👤 Reel/🗂️ Organisation/00 📇 Index.md
+reel_path: ../../👤 Reel/🗂️ Organisation/J+39 📇 Index General.md
 source: drive
 drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
+jx: J+39
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+39 📇 Index General*

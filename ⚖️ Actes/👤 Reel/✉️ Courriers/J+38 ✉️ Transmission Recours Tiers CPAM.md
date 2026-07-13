@@ -1,9 +1,8 @@
 ---
 title: "Transmission et Bordeau Recapitulatif CPAM — Recours Contre Tiers"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-06
-jx: J+38
 tags:
   - CPAM
   - recours contre tiers
@@ -16,7 +15,9 @@ auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/17 ✉️ Courrier CPAM.md
 source: drive
 drive_id: 1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY
+jx: J+38
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+38 ✉️ Transmission Recours Tiers CPAM*
 <hr>

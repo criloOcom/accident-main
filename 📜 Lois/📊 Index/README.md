@@ -3,6 +3,7 @@ title: "📊 Index des Textes Juridiques"
 description: "Ce dossier contient l'index complet et organisé de tous les textes de loi et articles juridiques référencés dans le projet."
 type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📊 Index*
 <hr>

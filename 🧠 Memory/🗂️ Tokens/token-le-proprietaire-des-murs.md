@@ -1,3 +1,9 @@
+---
+title: "👤 Le Propriétaire des Murs"
+description: "Token :** `**[Le Propriétaire des Murs]**`"
+type: memory
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-le-proprietaire-des-murs*
 <hr>

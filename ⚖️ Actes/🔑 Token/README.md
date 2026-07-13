@@ -1,9 +1,9 @@
 ---
 title: "🎭 Actes / token — Version Anonymisée"
-breadcrumb: "🎭 Token"
 description: "Ce dossier contient la version de travail de tous les actes."
 type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [📁 Actes](../README.md) › 🔑 Token*
 <hr>

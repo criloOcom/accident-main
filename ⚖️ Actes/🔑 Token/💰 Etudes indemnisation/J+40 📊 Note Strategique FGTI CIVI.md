@@ -3,7 +3,6 @@ title: "Note stratégique FGTI/CIVI"
 description: "Les conditions posées par l'article 706-3 du Code de procédure pénale sont intégralement remplies :"
 type: etude_indemnisation
 date: 2026-07-08
-jx: J+40
 tags:
   - FGTI
   - CIVI
@@ -12,7 +11,8 @@ tags:
 statut: brouillon
 destinataire: La Victime
 auteur: Expert FGTI/CIVI
-reel_path: ../../👤 Reel/💰 Etudes indemnisation/13 Note strategique FGTI CIVI.md
+reel_path: ../../👤 Reel/💰 Etudes indemnisation/J+40 📊 Note Strategique FGTI CIVI.md
+jx: J+40
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [💰 Études d'Indemnisation](./README.md) › J+40 📊 Note Strategique FGTI CIVI*

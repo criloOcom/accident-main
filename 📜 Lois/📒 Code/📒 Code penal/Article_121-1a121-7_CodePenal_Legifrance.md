@@ -2,13 +2,13 @@
 title: "Articles 121-1 à 121-7 — Code pénal"
 description: "Code pénal — Principes généraux de la responsabilité pénale"
 type: loi
-legiarti: "LEGIARTI000006417206"
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417206"
-date: "2026-07-11"
-source: "Légifrance/LEGIARTI000006417206"
-code: "Code pénal"
-article: "121-1 à 121-7"
+date: 2026-07-11
+source: Légifrance/LEGIARTI000006417206
+legiarti: LEGIARTI000006417206
+code: Code pénal
+article: 121-1 à 121-7
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code penal](./README.md) › Article 121-1a121-7 CodePenal Legifrance*
 <hr>

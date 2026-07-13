@@ -2,13 +2,13 @@
 title: "Code civil — Art. 1242"
 description: "Code civil — Responsabilité du fait des choses et du commettant"
 type: loi
-legiarti: "LEGIARTI000051786000"
-url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000"
-date: "2026-07-10"
-source: "Légifrance/LEGIARTI000051786000"
-code: "Code civil"
-article: "1242"
+date: 2026-07-10
+source: Légifrance/LEGIARTI000051786000
+legiarti: LEGIARTI000051786000
+code: Code civil
+article: 1242
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code civil](./README.md) › Article1242 CodeCivil*
 <hr>

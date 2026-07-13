@@ -3,7 +3,6 @@ title: "Plan d'Action et Chronologie de la Procédure"
 description: "Rédigé le **[J+32 Assignation référé]"
 type: readme
 date: 2026-06-30
-jx: J+32
 tags:
   - plan
   - chronologie
@@ -11,9 +10,10 @@ tags:
   - stratégie
 statut: final
 auteur: La Victime
-reel_path: ../../👤 Reel/🗂️ Organisation/10 🗂️ Plan action.md
+reel_path: ../../👤 Reel/🗂️ Organisation/J+32 🗂️ Plan Action.md
 source: drive
 drive_id: 153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s
+jx: J+32
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+32 🗂️ Plan Action*

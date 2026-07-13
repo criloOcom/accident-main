@@ -1,9 +1,8 @@
 ---
 title: "Conclusions Référé Provision (version Glose)"
 description: "POUR :"
-type: assignation
+type: readme
 date: 2026-07-07
-jx: J+39
 tags:
   - conclusions
   - référé
@@ -14,7 +13,8 @@ tags:
 statut: final
 destinataire: Juge des Référés du Tribunal Judiciaire
 auteur: La Victime
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/05 🎯 Conclusions Refere.md
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/J+39 🎯 Conclusions Refere Provision.md
+jx: J+39
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › J+39 🎯 Conclusions Refere Provision*

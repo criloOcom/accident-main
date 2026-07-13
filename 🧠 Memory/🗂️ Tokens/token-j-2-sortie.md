@@ -1,3 +1,9 @@
+---
+title: "📅 J+2 Sortie"
+description: "Token :** `**[J+2 Sortie]**`"
+type: memory
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-2-sortie*
 <hr>

@@ -1,18 +1,19 @@
 ---
 title: "Document Assurance Maladie — Demande de Renseignement"
 description: "Document de type document"
-type: document
+type: preuve
 date: 2026-06-18
 tags:
   - assurance maladie
   - CPAM
   - demande
   - renseignement
-statut: original
+statut: archive
 destinataire: Dr Julie JARDON
 source: drive
 drive_id: 1XtFxLG3IsVBtTlF4bN7YeWxB3KZAEqBn
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260618 Assurance INFORMATION](./README.md) › 20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement*
 <hr>

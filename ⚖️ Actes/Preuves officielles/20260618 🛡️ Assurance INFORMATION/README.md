@@ -1,8 +1,9 @@
 ---
 title: "📁 20260618 Assurance INFORMATION"
 description: "README de la pièce Assurance INFORMATION"
-type: directory
+type: readme
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › 20260618 🛡️ Assurance INFORMATION*
 <hr>

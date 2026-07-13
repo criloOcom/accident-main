@@ -1,12 +1,13 @@
 ---
 title: "Arrêt de travail — Volet 1"
 description: "Dr Yogan OXYBEL — Médecin généraliste — Arrêt de travail initial"
-type: document
+type: preuve
 date: 2026-06-01
-statut: original
+statut: archive
 source: drive
 drive_id: 1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260601 DrOXYBEL](./README.md) › 20260601-1115 ARRET Travail Volet1 DrOXYBEL*
 <hr>

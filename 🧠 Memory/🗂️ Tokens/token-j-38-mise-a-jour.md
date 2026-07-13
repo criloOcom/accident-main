@@ -1,3 +1,9 @@
+---
+title: "📅 J+38 Mise à jour"
+description: "Token :** `**[J+38 Mise à jour]**`"
+type: memory
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-38-mise-a-jour*
 <hr>

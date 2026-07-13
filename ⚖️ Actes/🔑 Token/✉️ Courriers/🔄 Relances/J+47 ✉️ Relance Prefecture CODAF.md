@@ -3,7 +3,6 @@ title: "Relance Préfecture / CODAF — Suite signalement Maire de Foix"
 description: "Suivi du signalement transmis par M. Tavella (Adjoint au Maire) le 1er juin 2026 — demande d'état d'avancement"
 type: courrier
 date: 2026-07-15
-jx: J+47
 tags:
   - prefecture
   - CODAF
@@ -11,11 +10,13 @@ tags:
   - maire
   - suivi
   - CRPA
-statut: final — validé avocat 15/07/2026
+statut: projet
 destinataire: Préfecture de l'Ariège — Référent CODAF
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/41 ✉️ Relance Prefecture CODAF - Suite Signalement Maire.md
+jx: J+47
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🔄 Relances](./README.md) › J+47 ✉️ Relance Prefecture CODAF*
 <hr>

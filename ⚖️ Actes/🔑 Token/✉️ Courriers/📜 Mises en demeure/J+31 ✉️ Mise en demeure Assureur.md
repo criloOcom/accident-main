@@ -1,21 +1,22 @@
 ---
 title: "Action Directe Assureur RC (Art. L.124-3 Code des assurances)"
-description: "[L'Adresse de la Victime]"
+description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-06-29
-jx: J+31
 tags:
   - action directe
   - assurance
   - mise en demeure
   - L.124-3
-statut: inopérant_destinataire_inconnu
+statut: archive
 destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/04 ✉️ Courrier Assureur.md
 source: drive
 drive_id: 14VIXTJK4n9eH66eVNZ6hJO6gLkiRBqnJpWijsDbkE2k
+jx: J+31
 ---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › J+31 ✉️ Mise en demeure Assureur*
 <hr>

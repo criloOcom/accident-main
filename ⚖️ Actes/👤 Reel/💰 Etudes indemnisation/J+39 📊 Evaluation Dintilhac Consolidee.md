@@ -3,7 +3,6 @@ title: "Évaluation Dintilhac Consolidée — 11 + 12"
 description: "[L'Adresse de la Victime]** <br>"
 type: etude_indemnisation
 date: 2026-07-07
-jx: J+39
 tags:
   - dintilhac
   - indemnisation
@@ -13,8 +12,9 @@ tags:
   - FGTI
 statut: final
 auteur: La Victime
-reel_path: ../../👤 Reel/💰 Etudes indemnisation/11+12 📊 Evaluation Dintilhac consolidee.md
+reel_path: ../../👤 Reel/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md
 source: local
+jx: J+39
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [💰 Études d'Indemnisation](./README.md) › J+39 📊 Evaluation Dintilhac Consolidee*
