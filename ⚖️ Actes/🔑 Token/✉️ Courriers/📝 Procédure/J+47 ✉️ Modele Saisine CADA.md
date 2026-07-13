@@ -10,10 +10,10 @@ tags:
   - documents administratifs
   - préfecture
   - inspection du travail
-statut: brouillon
+statut: brouillon — utilisable si refus Préfecture/IT
 destinataire: Commission d'accès aux documents administratifs (CADA)
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/43 ✉️ Modele Saisine CADA.md
+reel_path: ../../👤 Reel/✉️ Courriers/J+47 ✉️ Modele Saisine CADA.md
 jx: J+47
 ---
 

@@ -10,10 +10,10 @@ tags:
   - maire
   - suivi
   - CRPA
-statut: projet
+statut: final — validé avocat 15/07/2026
 destinataire: Préfecture de l'Ariège — Référent CODAF
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/J+47 ✉️ Relance Prefecture CODAF.md
+reel_path: ../../👤 Reel/✉️ Courriers/J+47 ✉️ Relance Prefecture CODAF.md
 jx: J+47
 ---
 
