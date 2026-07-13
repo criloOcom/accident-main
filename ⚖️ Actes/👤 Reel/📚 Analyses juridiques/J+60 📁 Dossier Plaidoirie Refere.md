@@ -26,9 +26,9 @@ jx: J+60
 **DATE DE L'AUDIENCE :** Date non fixée (à planifier)
 
 **PARTIES AU LITIGE :**
-- **Demandeur :** [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), informaticien indépendant
+- **Demandeur :** [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), informaticien indépendant
 
-- **Défendeurs :** [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), ainsi que ses dirigeants [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md)
+- **Défendeurs :** [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), ainsi que ses dirigeants [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
 
 **OBJET DE LA DEMANDE :**
 - Allocation d'une provision ad litem à valoir sur la réparation du préjudice corporel
@@ -37,7 +37,7 @@ jx: J+60
 
 - Condamnation in solidum des défendeurs
 
-**ÉVÉNEMENT :** Accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md). Basculement d'un équipement défectueux causant une section nerveuse et tendineuse à la main droite de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md).
+**ÉVÉNEMENT :** Accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md). Basculement d'un équipement défectueux causant une section nerveuse et tendineuse à la main droite de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md).
 
 **MONTANTS EN JEU :**
 - Évaluation globale provisoire du préjudice : ~90 000 €
@@ -60,9 +60,9 @@ jx: J+60
 
 *Rappel des dates clés démontrant l'urgence et la gravité de la situation.*
 
-- **[J+0 Accident] :** Date de l'accident au sein de l'établissement [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md). Le préposé [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-prepose-de-l-exploitation.md) monte sur la vasque du bac à shampoing qui bascule. En tentant de le protéger par réflexe, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) heurte une cassure tranchante préexistante de la vasque. Section des tendons et nerfs de l'index droit.
+- **[J+0 Accident] :** Date de l'accident au sein de l'établissement [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). Le préposé [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) monte sur la vasque du bac à shampoing qui bascule. En tentant de le protéger par réflexe, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) heurte une cassure tranchante préexistante de la vasque. Section des tendons et nerfs de l'index droit.
 
-- **[J+1 Chirurgie] :** Intervention en urgence de microchirurgie à la [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-etablissement-sos-main.md) par [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md).
+- **[J+1 Chirurgie] :** Intervention en urgence de microchirurgie à la [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md) par [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md).
 
 - **1er juin 2026 :** Dépôt de plainte officiel par la victime (Pièce ACQ-09).
 
@@ -79,9 +79,9 @@ jx: J+60
 Sur le fondement de l'[Article 1242 alinéa 1er du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^1], le gardien de la chose instrument du dommage est responsable de plein droit.
 - **La vasque = chose instrument du dommage :** Son état de délabrement (cassure préexistante tranchante) et son basculement constituent le rôle actif incontestable dans la réalisation du dommage.
 
-- **La garde :** [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) est le propriétaire et l'exploitant du matériel défectueux.
+- **La garde :** [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) est le propriétaire et l'exploitant du matériel défectueux.
 
-- **Absence d'exonération :** La réaction réflexe de sauvegarde de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) pour éviter la chute du préposé ne constitue en aucun cas une faute. Il n'y a pas non plus de force majeure invocable.
+- **Absence d'exonération :** La réaction réflexe de sauvegarde de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) pour éviter la chute du préposé ne constitue en aucun cas une faute. Il n'y a pas non plus de force majeure invocable.
 
 ### B. ACTION DIRECTE CONTRE L'ASSUREUR (ART. L.124-3 C. ASSUR.)
 
@@ -93,7 +93,7 @@ La victime bénéficie d'un droit d'action directe et autonome contre l'assureur
 
 ### C. FAUTE DÉTACHABLE DES DIRIGEANTS (JURISPRUDENCE SATI)
 
-La responsabilité de [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) est directement engagée :
+La responsabilité de [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) est directement engagée :
 - **Défaut d'assurance ou obstruction :** Conformément à l'arrêt SATI de la Cour de cassation, l'absence (ou la dissimulation) délibérée de souscription d'assurances obligatoires constitue une **faute détachable** des fonctions sociales.
 
 - **Conséquence :** La responsabilité personnelle et solidaire du Président et de la Directrice Générale sur leurs deniers propres est acquise.
@@ -111,13 +111,13 @@ Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant 
 
 L'argumentation développée s'appuie sur une jurisprudence constante :
 
-- **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** [N° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)[^4]. Le préposé [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-prepose-de-l-exploitation.md) ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
+- **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** [N° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)[^4]. Le préposé [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
 
 - **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351)[^5]. Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
 
 - **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** [N° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^6]. Le dirigeant qui commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions engage sa responsabilité personnelle. En l'espèce, l'obstruction des dirigeants et le défaut de communication caractérisent une faute détachable.
 
-- **Principe de réparation intégrale (Art. 1240 C. civ.) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), informaticien indépendant, l'incidence professionnelle est majeure.
+- **Principe de réparation intégrale (Art. 1240 C. civ.) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), informaticien indépendant, l'incidence professionnelle est majeure.
 <hr><hr>
 
 ## V — PIÈCES À CITER IMPÉRATIVEMENT
@@ -125,7 +125,7 @@ L'argumentation développée s'appuie sur une jurisprudence constante :
 Monsieur le Juge, je vous renvoie aux pièces listées dans notre bordereau, et tout particulièrement à :
 - **Pièce ACQ-10** (PV de Police) établissant sans ambiguïté les constations factuelles de l'événement.
   
-- **Pièce ACQ-04** ([Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)) de [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) pour mesurer la gravité médicale de l'atteinte tendineuse et nerveuse.
+- **Pièce ACQ-04** ([Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)) de [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) pour mesurer la gravité médicale de l'atteinte tendineuse et nerveuse.
   
 - **Pièce ACQ-17** (AR des mises en demeure) prouvant notre démarche de conciliation restée lettre morte de la part des défendeurs.
   
@@ -150,13 +150,13 @@ La présente procédure de référé ne vise pas à solder définitivement le do
 ## VII — QUESTIONS PROBABLES DU JUGE ET RÉPONSES PRÉPARÉES
 
 **Q1 : "Pourquoi demandez-vous seulement 15 000 € en provision alors que vous estimez le préjudice à près de 90 000 € ?"** <br>
-Monsieur le Juge, l'audience de référé vise à allouer une indemnisation provisionnelle d'urgence pour faire face aux premiers frais et à la perte immédiate d'exploitation. L'évaluation définitive du déficit fonctionnel et de l'incidence professionnelle de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) nécessite une consolidation médicale (expertise de novembre), justifiant de limiter la demande immédiate à une somme incontestable.
+Monsieur le Juge, l'audience de référé vise à allouer une indemnisation provisionnelle d'urgence pour faire face aux premiers frais et à la perte immédiate d'exploitation. L'évaluation définitive du déficit fonctionnel et de l'incidence professionnelle de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) nécessite une consolidation médicale (expertise de novembre), justifiant de limiter la demande immédiate à une somme incontestable.
 
-**Q2 : "Avez-vous l'attestation d'assurance de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) ?"** <br>
+**Q2 : "Avez-vous l'attestation d'assurance de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ?"** <br>
 Non, Monsieur le Juge. C'est précisément l'une des raisons de notre présence aujourd'hui. Malgré nos lettres recommandées de mise en demeure, les dirigeants font une obstruction manifeste. Nous vous demandons, sur le fondement de l'article 145 du CPC, de contraindre la partie adverse à fournir ce document sous astreinte financière journalière.
 
 **Q3 : "Le préposé était-il véritablement dans l'exercice de ses fonctions lorsqu'il est monté sur le bac ?"** <br>
-Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'enceinte de l'établissement pendant ses horaires de travail pour accomplir une tâche au profit de l'exploitation. Il bénéficie donc de l'immunité civile selon la jurisprudence Costedoat, et la responsabilité de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) en tant que commettant est pleinement engagée.
+Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'enceinte de l'établissement pendant ses horaires de travail pour accomplir une tâche au profit de l'exploitation. Il bénéficie donc de l'immunité civile selon la jurisprudence Costedoat, et la responsabilité de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) en tant que commettant est pleinement engagée.
 <hr><hr>
 
 ## Sources Législation

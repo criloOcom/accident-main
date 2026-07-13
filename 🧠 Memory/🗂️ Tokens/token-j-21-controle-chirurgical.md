@@ -18,11 +18,11 @@ type: memory
 | Champ | Valeur |
 |---|---|
 | **Date** | 19 juin 2026 (vendredi) |
-| **Médecin** | Dr [Le Chirurgien SOS Main](token-le-chirurgien-sos-main.md) |
+| **Médecin** | Dr [Le Chirurgien SOS Main](token-hopital-sosmain-chirurgien.md) |
 
 ## Description détaillée
 
-Consultation de contrôle post-opératoire à 3 semaines chez le Dr [Le Chirurgien SOS Main](token-le-chirurgien-sos-main.md) (Clinique de l'Union, Saint-Jean — voir [L'Établissement SOS Main](token-l-etablissement-sos-main.md)).
+Consultation de contrôle post-opératoire à 3 semaines chez le Dr [Le Chirurgien SOS Main](token-hopital-sosmain-chirurgien.md) (Clinique de l'Union, Saint-Jean — voir [L'Établissement SOS Main](token-hopital-sosmain-nom.md)).
 
 Examen clinique :
 - Cicatrisation satisfaisante de la plaie palmaire
@@ -45,7 +45,7 @@ Le chirurgien préconise la poursuite de la rééducation ([J+25 Première kiné
 
 ## Croisements
 
-- [J+21 Contrôle chirurgical](token-j-21-controle-chirurgical.md) ⇄ [Le Chirurgien SOS Main](token-le-chirurgien-sos-main.md) ⇄ [J+25 Première kiné](token-j-25-premiere-kine.md) (suite) ⇄ [J+36 Lettre consolidation](token-j-36-lettre-consolidation.md) (consolidation)
+- [J+21 Contrôle chirurgical](token-j-21-controle-chirurgical.md) ⇄ [Le Chirurgien SOS Main](token-hopital-sosmain-chirurgien.md) ⇄ [J+25 Première kiné](token-j-25-premiere-kine.md) (suite) ⇄ [J+36 Lettre consolidation](token-j-36-lettre-consolidation.md) (consolidation)
 
 ## Documents liés
 

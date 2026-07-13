@@ -22,23 +22,23 @@ jx: J+41
 <!-- /Breadcrumb -->
 
 # OPPOSITION À IMMATRICULATION <br> AU REGISTRE NATIONAL DES ENTREPRISES
-[**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
+[**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-avocat-nom.md)
 
-**À L'ATTENTION DU GREFFIER DU Tribunal de Commerce de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)**
+**À L'ATTENTION DU GREFFIER DU Tribunal de Commerce de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
 **Service du Registre National des Entreprises (RNE)**
 
-[**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), le 9 juillet 2026
+[**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 9 juillet 2026
 
-**Objet :** Opposition à l'immatriculation de toute nouvelle société à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md) présentant un lien avec les dirigeants de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
-**Référence RCS :** [**[L'Identifiant de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-identifiant-de-l-exploitation.md)
+**Objet :** Opposition à l'immatriculation de toute nouvelle société à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) présentant un lien avec les dirigeants de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
+**Référence RCS :** [**[L'Identifiant de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md)
 **Lettre Recommandée avec Accusé de Réception**
 
 Monsieur le Greffier,
 
-J'interviens dans les intérêts de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), victime d'un accident corporel grave survenu le 29 mai 2026 au sein des locaux exploités par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
+J'interviens dans les intérêts de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le 29 mai 2026 au sein des locaux exploités par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 ## I — EXPOSÉ DES FAITS
 
-Il existe de sérieuses raisons de penser que la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et ses dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md), s'apprêtent à dissoudre ou à abandonner la structure actuelle pour recréer une nouvelle société exerçant la même activité à la même adresse, dans le but manifeste de se soustraire aux obligations indemnitaires nées de l'accident.
+Il existe de sérieuses raisons de penser que la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et ses dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), s'apprêtent à dissoudre ou à abandonner la structure actuelle pour recréer une nouvelle société exerçant la même activité à la même adresse, dans le but manifeste de se soustraire aux obligations indemnitaires nées de l'accident.
 <hr><hr>
 
 ## II — FONDEMENTS JURIDIQUES
@@ -49,7 +49,7 @@ Il existe de sérieuses raisons de penser que la société [**[L'Exploitant du C
 > [Article L.123-5-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291) <br>
 > Code de commerce[^1] <br>
 
-Cet article permet à tout intéressé — ici [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), créancière d'une obligation indemnitaire — de solliciter du président du tribunal, statuant en référé, qu'il enjoigne sous astreinte aux dirigeants de régulariser leur situation au registre.
+Cet article permet à tout intéressé — ici [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), créancière d'une obligation indemnitaire — de solliciter du président du tribunal, statuant en référé, qu'il enjoigne sous astreinte aux dirigeants de régulariser leur situation au registre.
 
 Il manifeste également la volonté du législateur de confier au ministère public un rôle de surveillance des immatriculations.
 
@@ -61,7 +61,7 @@ Par la présente, je sollicite que le Parquet soit saisi pour exercer ce pouvoir
 > [Article L.123-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422) <br>
 > Code de commerce[^2] <br>
 
-Cet article permet à un tiers justifiant d'un intérêt légitime — ici [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), créancière d'une obligation indemnitaire — de solliciter du juge commis à la surveillance du registre qu'il enjoigne aux dirigeants de régulariser l'immatriculation ou de procéder à la radiation de toute inscription irrégulière.
+Cet article permet à un tiers justifiant d'un intérêt légitime — ici [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), créancière d'une obligation indemnitaire — de solliciter du juge commis à la surveillance du registre qu'il enjoigne aux dirigeants de régulariser l'immatriculation ou de procéder à la radiation de toute inscription irrégulière.
 
 ### C. Fraus omnia corrumpit
 
@@ -74,9 +74,9 @@ Si une nouvelle société est créée à la même adresse avec les mêmes dirige
 
 Je vous prie de bien vouloir :
 
-1. **Prendre acte** de la présente opposition à l'immatriculation de toute nouvelle société à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md) dont les dirigeants seraient liés à [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) ou [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md).
+1. **Prendre acte** de la présente opposition à l'immatriculation de toute nouvelle société à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) dont les dirigeants seraient liés à [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) ou [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
 
-2. **Inscrire** une mention d'opposition provisoire au dossier de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
+2. **Inscrire** une mention d'opposition provisoire au dossier de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
 3. **M'informer** de tout dépôt de dossier d'immatriculation à cette adresse dans les six prochains mois.
 
@@ -88,7 +88,7 @@ Je vous prie de bien vouloir :
 
 Je vous remercie de l'attention que vous porterez à cette demande et vous prie de croire, Monsieur le Greffier, en l'expression de mes salutations distinguées.
 
-[**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
+[**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-avocat-nom.md)
 Avocat au Barreau
 <hr><hr>
 

@@ -4,9 +4,9 @@ encode_jeton_links.py — URL-encode les chemins des liens vers 🗂️ Tokens/
 qui ont été écrits avec des caractères littéraux (espaces, emojis).
 
 Les liens passent de :
-  ../../../🧠 Memory/🗂️ Tokens/token-la-victime.md
+  ../../../🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md
 à :
-  ../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md
+  ../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md
 
 Usage: python3 .dev/app/encode_jeton_links.py [--dry-run]
 """

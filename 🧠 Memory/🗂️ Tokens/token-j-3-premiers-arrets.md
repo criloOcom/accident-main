@@ -18,7 +18,7 @@ type: memory
 | Champ | Valeur |
 |---|---|
 | **Date** | 1er juin 2026 (lundi) |
-| **Médecin** | Dr [Le Médecin Généraliste](token-le-medecin-generaliste.md) (OXYBEL) |
+| **Médecin** | Dr [Le Médecin Généraliste](token-victime-medecin-generaliste.md) (OXYBEL) |
 
 ## Description détaillée
 
@@ -44,7 +44,7 @@ L'arrêt d'1 jour est erroné compte tenu de la nature de la blessure (microchir
 
 ## Croisements
 
-- [J+3 Premiers arrêts](token-j-3-premiers-arrets.md) ⇄ [Le Médecin Généraliste](token-le-medecin-generaliste.md) (prescripteur) ⇄ [J+55 Fin d'ITT](token-j-55-fin-d-itt.md) (rectification 56j)
+- [J+3 Premiers arrêts](token-j-3-premiers-arrets.md) ⇄ [Le Médecin Généraliste](token-victime-medecin-generaliste.md) (prescripteur) ⇄ [J+55 Fin d'ITT](token-j-55-fin-d-itt.md) (rectification 56j)
 
 ## Documents liés
 

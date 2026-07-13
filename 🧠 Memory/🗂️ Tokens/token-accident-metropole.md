@@ -24,8 +24,8 @@ type: memory
 ## Contexte
 
 Toulouse est la métropole régionale de référence du dossier :
-- **Lieu de naissance** de [La Victime](token-la-victime.md) ([Date de naissance](token-date-de-naissance-de-la-victime.md) : 18 janvier 1982).
-- Pôle de **soins spécialisés** : [L'Établissement SOS Main](token-l-etablissement-sos-main.md) est à Saint-Jean, banlieue toulousaine.
+- **Lieu de naissance** de [La Victime](token-victime-nom-complet.md) ([Date de naissance](token-victime-date-naissance.md) : 18 janvier 1982).
+- Pôle de **soins spécialisés** : [L'Établissement SOS Main](token-hopital-sosmain-nom.md) est à Saint-Jean, banlieue toulousaine.
 - Lieu de l'**expertise UMJ** ([J+167 Expertise UMJ](token-j-167-expertise-umj.md)) — secteur Purpan.
 
 ## Enjeu juridique — Expertise
@@ -35,7 +35,7 @@ Toulouse est la métropole régionale de référence du dossier :
 
 ## Croisements
 
-- [La Métropole Régionale](token-la-metropole-regionale.md) ⇄ [La Ville de Résidence de la Victime](token-la-ville-de-residence-de-la-victime.md) (Blagnac) ⇄ [La Ville de l'Établissement SOS Main](token-la-ville-de-l-etablissement-sos-main.md) (Saint-Jean)
+- [La Métropole Régionale](token-accident-metropole.md) ⇄ [La Ville de Résidence de la Victime](token-victime-ville-residence.md) (Blagnac) ⇄ [La Ville de l'Établissement SOS Main](token-hopital-sosmain-ville.md) (Saint-Jean)
 
 ## Documents liés
 

@@ -18,7 +18,7 @@ type: memory
 | Champ | Valeur |
 |---|---|
 | **Nom réel** | *À définir* — avocat non encore désigné |
-| **Rôle** | Avocat de [La Victime](token-la-victime.md) |
+| **Rôle** | Avocat de [La Victime](token-victime-nom-complet.md) |
 | **Mode de désignation prévu** | **Commis d'office par le BAJ** dans le cadre de l'aide juridictionnelle totale |
 
 ## Contexte

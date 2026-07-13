@@ -20,11 +20,11 @@ type: memory
 | **Nom réel** | Dr Julie Jardon / JARDON |
 | **Rôle** | Médecin urgentiste — premiers soins le jour de l'accident |
 | **Profession** | Médecin urgentiste |
-| **Lieu d'intervention** | Urgences de [La Ville de l'Accident](token-la-ville-de-l-accident.md) (Foix) |
+| **Lieu d'intervention** | Urgences de [La Ville de l'Accident](token-accident-ville.md) (Foix) |
 
 ## Contexte
 
-Médecin ayant assuré la **prise en charge d'urgence** de [La Victime](token-la-victime.md) le **29 mai 2026** ([J+0 Accident](token-j-0-accident.md)), juste après l'accident, avant le transfert vers [L'Établissement SOS Main](token-l-etablissement-sos-main.md) pour la microchirurgie du lendemain ([J+1 Chirurgie](token-j-1-chirurgie.md)).
+Médecin ayant assuré la **prise en charge d'urgence** de [La Victime](token-victime-nom-complet.md) le **29 mai 2026** ([J+0 Accident](token-j-0-accident.md)), juste après l'accident, avant le transfert vers [L'Établissement SOS Main](token-hopital-sosmain-nom.md) pour la microchirurgie du lendemain ([J+1 Chirurgie](token-j-1-chirurgie.md)).
 
 ## Enjeu probatoire
 

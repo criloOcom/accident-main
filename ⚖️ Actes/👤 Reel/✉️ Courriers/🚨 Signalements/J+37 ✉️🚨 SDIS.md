@@ -31,25 +31,25 @@ jx: J+37
 
 # SIGNALEMENT DE SECURITE ERP <br> AU SDIS DE L'ARIEGE
 > 🔗 Source Google Drive : [1CCl3bFp_jkY…](https://drive.google.com/open?id=1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE)
-[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md)
+[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 
-Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
+Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
 **SDIS de l'Ariege**
 
 [À compléter]
 
-[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), le [5 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)
+[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [5 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)
 
-Objet : Signalement de securite — ERP SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
+Objet : Signalement de securite — ERP SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
 <hr><hr>
 
-Ref : SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md)
+Ref : SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)
 
 Madame, Monsieur le Directeur,
 
-La presente est adressee a vos services par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), situe 22 Rue Lafaurie, 09000 Foix a [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md).
+La presente est adressee a vos services par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), situe 22 Rue Lafaurie, 09000 Foix a [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 ## I — OBJET DU SIGNALEMENT
@@ -66,7 +66,7 @@ Je vous remercie de bien vouloir me tenir informe des suites reserves a ce signa
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Directeur, l'expression de ma consideration distinguee.
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
 ## PIECES JOINTES
@@ -75,4 +75,4 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Direc
 
 - **[Signalement Préfecture](J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Prefecture.md)** — Confirmation officielle transmise a la Prefecture de l'Ariege
 
-Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) — Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
+Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md) — Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)

@@ -24,24 +24,24 @@ jx: J+37
 
 # SIGNALEMENT DE TRAVAIL DISSIMULE PRESUME
 > 🔗 Source Google Drive : [1LdLfCnWLiD2…](https://drive.google.com/open?id=1LdLfCnWLiD2v1N1SMF3FAeh681znM0kXOrAlBXeOe8w)
-[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md)
+[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 
-Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
+Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
 **URSSAF Midi-Pyrenees**
 TSA 90002
 93517 MONTREUIL CEDEX
 
-[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), le 11 juillet 2026
+[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 11 juillet 2026
 
-Objet : Signalement de travail dissimule presume — SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
+Objet : Signalement de travail dissimule presume — SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
-Ref : SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md)
+Ref : SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)
 
 Madame, Monsieur le Directeur,
 ## INTRODUCTION
 
-Je vous signale par la presente des elements laissant presumer l'exercice d'un travail dissimule au sein de la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md)), conformement aux articles L.8221-1 et suivants du Code du travail.
+Je vous signale par la presente des elements laissant presumer l'exercice d'un travail dissimule au sein de la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)), conformement aux articles L.8221-1 et suivants du Code du travail.
 
 Le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), alors que je me trouvais dans l'etablissement exploite par cette societe, j'ai ete temoin de la presence d'une personne physique (Ayoub BENNOURINE) exercant une activite de coiffeur.
 
@@ -59,7 +59,7 @@ Les elements suivants sont susceptibles de caracteriser un travail dissimule par
 **1. Absence de declaration du prepose**<br>
 - Le prepose de l'exploitation exercait une activite professionnelle de coiffeur au sein de l'etablissement sans qu'aucune information sur son statut (contrat de travail, bulletin de paie, declaration prealable a l'embauche) n'ait pu etre communiquee<br>
 <br>
-- La SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) ne declare aucun salarie selon les informations publiques disponibles<br>
+- La SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ne declare aucun salarie selon les informations publiques disponibles<br>
 
 <br>
 
@@ -91,7 +91,7 @@ Je sollicite de vos services qu'une verification soit effectuee concernant :
 
 1. La situation de Ayoub BENNOURINE au regard des declarations sociales (DPAE, bulletin de paie)<br>
 <br>
-2. Le respect par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) de ses obligations declaratives<br>
+2. Le respect par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) de ses obligations declaratives<br>
 <br>
 3. L'existence d'eventuelles autres irregularites
 
@@ -103,7 +103,7 @@ Conformement a l'Article L.8271-1-2 du Code du travail, les agents de l'URSSAF s
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Directeur, l'expression de ma consideration distinguee.
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
 ## PIECES JOINTES
@@ -112,7 +112,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Direc
 
 - **Accusés de réception des courriers recommandés retournés (29 mai 2026 — mentions NPAI)**
 
-- **[Extrait Kbis de la SAS [L'Exploitant du Commerce (La SAS)]](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** ([938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md))
+- **[Extrait Kbis de la SAS [L'Exploitant du Commerce (La SAS)]](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** ([938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
 <hr><hr>
 
 ## Sources Législation

@@ -19,11 +19,11 @@ type: memory
 |---|---|
 | **Donnée réelle** | Blagnac (31 — Haute-Garonne) |
 | **Type** | Données localisantes / identifiantes |
-| **Contexte** | Domicile de la victime ([La Victime](token-la-victime.md)), banlieue toulousaine. |
+| **Contexte** | Domicile de la victime ([La Victime](token-victime-nom-complet.md)), banlieue toulousaine. |
 
 ## Contexte
 
-Blagnac est le domicile réel de la victime, dans la métropole [La Métropole Régionale](token-la-metropole-regionale.md) (Toulouse). À distinguer de [La Ville de l'Accident](token-la-ville-de-l-accident.md) (Foix, 09) où s'est produit le fait dommageable.
+Blagnac est le domicile réel de la victime, dans la métropole [La Métropole Régionale](token-accident-metropole.md) (Toulouse). À distinguer de [La Ville de l'Accident](token-accident-ville.md) (Foix, 09) où s'est produit le fait dommageable.
 
 ## Enjeu juridique — Domicile vs lieu de l'infraction
 
@@ -32,7 +32,7 @@ Blagnac est le domicile réel de la victime, dans la métropole [La Métropole R
 
 ## Croisements
 
-- [La Ville de Résidence de la Victime](token-la-ville-de-residence-de-la-victime.md) ⇄ [L'Adresse de la Victime](token-l-adresse-de-la-victime.md) ⇄ [La Métropole Régionale](token-la-metropole-regionale.md)
+- [La Ville de Résidence de la Victime](token-victime-ville-residence.md) ⇄ [L'Adresse de la Victime](token-victime-adresse.md) ⇄ [La Métropole Régionale](token-accident-metropole.md)
 
 ## Documents liés
 

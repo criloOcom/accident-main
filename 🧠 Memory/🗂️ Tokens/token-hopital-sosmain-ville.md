@@ -19,7 +19,7 @@ type: memory
 |---|---|
 | **Donnée réelle** | Saint-Jean (31) |
 | **Type** | Données localisantes / identifiantes |
-| **Contexte** | Ville de la Clinique de l'Union ([L'Établissement SOS Main](token-l-etablissement-sos-main.md)), banlieue toulousaine. |
+| **Contexte** | Ville de la Clinique de l'Union ([L'Établissement SOS Main](token-hopital-sosmain-nom.md)), banlieue toulousaine. |
 
 ## Contexte
 
@@ -28,11 +28,11 @@ Saint-Jean est la commune où se trouve la clinique ayant pratiqué la microchir
 ## Enjeu juridique — Chaîne de soins et preuve
 
 - Localisation de la production des **pièces médicales** (CR opératoire, facture 790,23 €) — preuves de la gravité de la lésion.
-- À distinguer de [La Ville de l'Accident](token-la-ville-de-l-accident.md) (Foix) et de la résidence de la victime (Blagnac).
+- À distinguer de [La Ville de l'Accident](token-accident-ville.md) (Foix) et de la résidence de la victime (Blagnac).
 
 ## Croisements
 
-- [La Ville de l'Établissement SOS Main](token-la-ville-de-l-etablissement-sos-main.md) ⇄ [L'Établissement SOS Main](token-l-etablissement-sos-main.md) ⇄ [Le Chirurgien SOS Main](token-le-chirurgien-sos-main.md)
+- [La Ville de l'Établissement SOS Main](token-hopital-sosmain-ville.md) ⇄ [L'Établissement SOS Main](token-hopital-sosmain-nom.md) ⇄ [Le Chirurgien SOS Main](token-hopital-sosmain-chirurgien.md)
 
 ## Documents liés
 

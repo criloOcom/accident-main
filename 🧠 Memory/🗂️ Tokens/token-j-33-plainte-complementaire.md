@@ -18,12 +18,12 @@ type: memory
 | Champ | Valeur |
 |---|---|
 | **Date** | 1er juillet 2026 (mercredi) |
-| **Lieu** | Commissariat de [La Ville de l'Accident](token-la-ville-de-l-accident.md) (Foix) |
+| **Lieu** | Commissariat de [La Ville de l'Accident](token-accident-ville.md) (Foix) |
 
 ## Description détaillée
 
 Dépôt d'une plainte complémentaire auprès du Commissariat de Foix pour :
-1. **Défaut d'assurance responsabilité civile professionnelle** de [L'Exploitant du Commerce (La SAS)](token-l-exploitant-du-commerce-la-sas.md)
+1. **Défaut d'assurance responsabilité civile professionnelle** de [L'Exploitant du Commerce (La SAS)](token-exploitation-raison-sociale.md)
 2. **Infractions ERP** (Établissement Recevant du Public) — vasque en céramique dangereuse, défaut d'entretien
 3. **Non-respect des obligations de sécurité** du code du travail
 

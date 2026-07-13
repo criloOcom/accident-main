@@ -19,7 +19,7 @@ type: memory
 |---|---|
 | **Donnée réelle** | 18 janvier 1982 |
 | **Type** | Données localisantes / identifiantes |
-| **Contexte** | Date de naissance de la victime ([La Victime](token-la-victime.md)), née à [La Métropole Régionale](token-la-metropole-regionale.md) (Toulouse). ⚠ Ne jamais confondre avec le 12 mars. |
+| **Contexte** | Date de naissance de la victime ([La Victime](token-victime-nom-complet.md)), née à [La Métropole Régionale](token-accident-metropole.md) (Toulouse). ⚠ Ne jamais confondre avec le 12 mars. |
 
 ## Contexte
 
@@ -32,7 +32,7 @@ Date d'état civil de la victime, reprise dans tous les actes de procédure (ide
 
 ## Croisements
 
-- [Date de naissance de la victime](token-date-de-naissance-de-la-victime.md) ⇄ [La Métropole Régionale](token-la-metropole-regionale.md) (lieu de naissance) ⇄ [La Victime](token-la-victime.md)
+- [Date de naissance de la victime](token-victime-date-naissance.md) ⇄ [La Métropole Régionale](token-accident-metropole.md) (lieu de naissance) ⇄ [La Victime](token-victime-nom-complet.md)
 
 ## Documents liés
 

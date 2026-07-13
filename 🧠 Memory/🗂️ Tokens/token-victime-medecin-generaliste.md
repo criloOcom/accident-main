@@ -23,7 +23,7 @@ type: memory
 
 ## Contexte
 
-Médecin traitant de [La Victime](token-la-victime.md). A prescrit les **arrêts de travail** consécutifs à l'accident à partir du **1er juin 2026** ([J+3 Premiers arrêts](token-j-3-premiers-arrets.md)).
+Médecin traitant de [La Victime](token-victime-nom-complet.md). A prescrit les **arrêts de travail** consécutifs à l'accident à partir du **1er juin 2026** ([J+3 Premiers arrêts](token-j-3-premiers-arrets.md)).
 
 ## Point de vigilance — Erreur matérielle sur l'ITT
 

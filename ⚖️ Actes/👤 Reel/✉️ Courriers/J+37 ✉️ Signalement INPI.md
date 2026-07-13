@@ -26,23 +26,23 @@ jx: J+37
 # SIGNALEMENT DE LITIGE <br> INPI
 
 > 🔗 Source Google Drive : [1gFhTi6GhD6u…](https://drive.google.com/open?id=1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E)
-[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md)
+[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 
-Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
+Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
 **INPI — Registre National des Entreprises**
 
 [À compléter]
 
-[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), le [5 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)
+[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [5 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)
 
-Objet : Demande de signalement de litige en cours au RNE — SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
+Objet : Demande de signalement de litige en cours au RNE — SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
-Ref : SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md) — SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
+Ref : SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) — SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
 Madame, Monsieur,
 ## INTRODUCTION
-La presente est adressee a l'INPI par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), immatriculee au RNE sous le SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md).
+La presente est adressee a l'INPI par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), immatriculee au RNE sous le SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md).
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
@@ -69,7 +69,7 @@ Les procedures suivantes ont ete engagees :
 
 **2. Mises en demeure LRAR** du [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
 
-- Mise en demeure a la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
+- Mise en demeure a la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
 - Mise en demeure a Sabir MOUNTASSER et a Catherine ANDISSAC
 
@@ -87,20 +87,20 @@ Les procedures suivantes ont ete engagees :
 <hr><hr>
 
 ## III — DEMANDE DE SIGNALEMENT
-Conformement aux dispositions du Code de commerce relatives au Registre National des Entreprises, je sollicite l'inscription d'un signalement au dossier RNE de la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md)) afin de porter a la connaissance des tiers et de l'administration l'existence du litige en cours.
+Conformement aux dispositions du Code de commerce relatives au Registre National des Entreprises, je sollicite l'inscription d'un signalement au dossier RNE de la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)) afin de porter a la connaissance des tiers et de l'administration l'existence du litige en cours.
 
 Cette demande est motivee par la necessite de prevenir toute modification de la situation juridique de la societe (dissolution, liquidation, radiation ou cession) qui pourrait intervenir sans que les autorites et les tiers aient connaissance des creances et actions en justice en cours a l'encontre de la societe.
 
 Les montants en jeu sont estimes a **59 600 €** au titre de la reparation integrale des prejudices corporels.
 
-Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) — Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
+Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md) — Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 <hr><hr>
 
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026
 
-- **[Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** — Procedure penale engagee devant le TJ de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
+- **[Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** — Procedure penale engagee devant le TJ de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
 - **[Mises en demeure LRAR](J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md)** — Mises en demeure du [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
 
@@ -108,11 +108,11 @@ Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20M
 
 - **[Signalement CODAF](J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20CODAF.md)** — Saisine du CODAF
 
-- **[Extrait Kbis](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md))
+- **[Extrait Kbis](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
 ## Sources Législation

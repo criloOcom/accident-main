@@ -25,7 +25,7 @@ jx: J+32
 Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
 ## INTRODUCTION
 
-Le présent plan d'action et chronologie de la procédure a été établi par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) afin de structurer et de piloter l'ensemble des démarches juridiques entreprises à la suite de l'accident corporel du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md). Ce document de travail récapitule les étapes procédurales déjà accomplies, les actions prioritaires à engager et les échéances à respecter dans le cadre du contentieux opposant [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md). Il constitue un outil de pilotage et de suivi permettant d'assurer la coordination efficace de la stratégie contentieuse et le respect des délais de procédure.
+Le présent plan d'action et chronologie de la procédure a été établi par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) afin de structurer et de piloter l'ensemble des démarches juridiques entreprises à la suite de l'accident corporel du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md). Ce document de travail récapitule les étapes procédurales déjà accomplies, les actions prioritaires à engager et les échéances à respecter dans le cadre du contentieux opposant [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). Il constitue un outil de pilotage et de suivi permettant d'assurer la coordination efficace de la stratégie contentieuse et le respect des délais de procédure.
 
 <hr><hr>
 
@@ -49,7 +49,7 @@ Le présent plan d'action et chronologie de la procédure a été établi par [S
 
 - [IV. CONTACTS ET ANNUAIRES](#iv-contacts-et-annuaires)
 
-- [Autorités Judiciaires et Policières à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)](#autorits-judiciaires-et-policires-la-ville-de-laccident)
+- [Autorités Judiciaires et Policières à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)](#autorits-judiciaires-et-policires-la-ville-de-laccident)
 
 - [SERVICES JURIDIQUES ET DE SANTÉ](#services-juridiques-et-de-sant)
 <hr><hr>
@@ -59,18 +59,18 @@ Le présent plan d'action et chronologie de la procédure a été établi par [S
 
 ## ACTIONS URGENTES ET PHASE AMIABLE (JUIN 2026)
 
-La première étape consiste en l'envoi de mises en demeure par lettre recommandée avec accusé de réception (LRAR) à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et à ses dirigeants.
+La première étape consiste en l'envoi de mises en demeure par lettre recommandée avec accusé de réception (LRAR) à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et à ses dirigeants.
 
 Ces courriers, expédiés le [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md), visent à obtenir les coordonnées de l'assurance responsabilité civile professionnelle, étape préalable obligatoire avant toute action au fond.
 
-Parallèlement, une action directe est engagée auprès de l'assureur pour solliciter l'ouverture d'un dossier de sinistre, la désignation d'un expert médical et le versement d'une provision financière de première urgence pour compenser les pertes d'exploitation de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), informaticien indépendant.
+Parallèlement, une action directe est engagée auprès de l'assureur pour solliciter l'ouverture d'un dossier de sinistre, la désignation d'un expert médical et le versement d'une provision financière de première urgence pour compenser les pertes d'exploitation de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), informaticien indépendant.
 
 Sur le plan probatoire, des démarches immédiates sont entreprises pour la conservation des preuves : une requête auprès du Procureur de la République pour la saisie des enregistrements de vidéosurveillance et l'intervention d'un huissier de justice pour constater la défectuosité du matériel (bac à shampoing).
 <hr><hr>
 
 ## PROCÉDURES JUDICIAIRES ET EXPERTISE (JUILLET - DÉCEMBRE 2026)
 
-Dès juillet 2026, en l'absence de réponse satisfaisante sous 15 jours, une assignation en référé-provision sera délivrée devant le Tribunal de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md).
+Dès juillet 2026, en l'absence de réponse satisfaisante sous 15 jours, une assignation en référé-provision sera délivrée devant le Tribunal de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
 
 Cette procédure permet de solliciter judiciairement une avance financière (provision) et la nomination d'un expert médical judiciaire pour évaluer les taux de déficit fonctionnel et les souffrances endurées.
 
@@ -82,7 +82,7 @@ Par ailleurs, si la société persiste dans son refus de communiquer les coordon
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
 
-Le second semestre 2026 sera consacré au suivi de l'expertise (notamment le passage à l'UMJ de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md) le [12 novembre 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md)) et à la rédaction des conclusions de partie civile.
+Le second semestre 2026 sera consacré au suivi de l'expertise (notamment le passage à l'UMJ de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) le [12 novembre 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md)) et à la rédaction des conclusions de partie civile.
 
 L'aboutissement prévu est une assignation au fond en septembre pour obtenir un jugement définitif de condamnation de l'assureur d'ici décembre 2026.
 <hr><hr>
@@ -126,7 +126,7 @@ En cas de blocage sur l'identité de l'assureur, [Article 145 du Code de procéd
 ## III — INVENTAIRE DES PIÈCES
 ### A. PREUVES MÉDICALES ET ADMINISTRATIVES
 
-Le dossier comprend les comptes rendus opératoires du [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md), les certificats médicaux initiaux, les avis d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et la note de synthèse médico-légale. Le [dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) "Recours contre Tiers" n° [ ... ] est également ouvert.
+Le dossier comprend les comptes rendus opératoires du [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md), les certificats médicaux initiaux, les avis d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et la note de synthèse médico-légale. Le [dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) "Recours contre Tiers" n° [ ... ] est également ouvert.
 
 ### B. PREUVES MATÉRIELLES ET TÉMOIGNAGES
 
@@ -136,14 +136,14 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 ## IV — CONTACTS ET ANNUAIRES
 <hr><hr>
 
-## AUTORITÉS JUDICIAIRES ET POLICIÈRES À [**[LA VILLE DE L'ACCIDENT]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
+## AUTORITÉS JUDICIAIRES ET POLICIÈRES À [**[LA VILLE DE L'ACCIDENT]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
 - Tribunal Judiciaire : [**[Adresse Tribunal Judiciaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) ([**[Téléphone Tribunal Judiciaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / Commissariat : **[Adresse Commissariat]** ([**[Téléphone Commissariat]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)).
 <hr><hr>
 
 ## SERVICES JURIDIQUES ET DE SANTÉ
 
-- Ordre des Avocats de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) ([**[Téléphone Ordre Avocats]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / Huissiers : Étude d'Huissiers **[Nom Huissier]** ([**[Téléphone Huissier]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / UMJ de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md).
+- Ordre des Avocats de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) ([**[Téléphone Ordre Avocats]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / Huissiers : Étude d'Huissiers **[Nom Huissier]** ([**[Téléphone Huissier]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / UMJ de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md).
 
 **Note administrative :** Dès le 1[5 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md) (le lendemain de la fin du délai amiable de mise en demeure), délivrance immédiate de l'assignation en référé par commissaire de justice, matérialisant la fin de la phase comminatoire amiable.
 

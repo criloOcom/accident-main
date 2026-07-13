@@ -21,7 +21,7 @@ type: memory
 
 ## Description détaillée
 
-Lettre adressée au Dr [Le Chirurgien SOS Main](token-le-chirurgien-sos-main.md) sollicitant un avis sur la date de consolidation de la blessure. La consolidation est la date à partir de laquelle l'état médical de **[La Victime]** est stabilisé (sans amélioration ni aggravation prévisible).
+Lettre adressée au Dr [Le Chirurgien SOS Main](token-hopital-sosmain-chirurgien.md) sollicitant un avis sur la date de consolidation de la blessure. La consolidation est la date à partir de laquelle l'état médical de **[La Victime]** est stabilisé (sans amélioration ni aggravation prévisible).
 
 Cette lettre constitue une étape préparatoire à l'expertise médicale ([J+167 Expertise UMJ](token-j-167-expertise-umj.md)) et à l'évaluation Dintilhac définitive.
 

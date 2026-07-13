@@ -21,13 +21,13 @@ jx: J+38
 <!-- /Breadcrumb -->
 
 # TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (CLIENT)
-Objet : Attestation de témoin — Accident du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au salon [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md)
+Objet : Attestation de témoin — Accident du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au salon [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
 
 <hr><hr>
 
 Bonjour,
 
-Vous étiez présent(e) le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au salon **Exploitant du Commerce** situé au [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md) lorsque l'accident s'est produit.
+Vous étiez présent(e) le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au salon **Exploitant du Commerce** situé au [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) lorsque l'accident s'est produit.
 
 Je me permets de vous solliciter pour remplir une **attestation de témoin** (Cerfa n° 11527\*03) afin de décrire ce que vous avez vu ce jour-là : la montée du coiffeur sur la vasque en céramique pour régler la télévision, le basculement de l'équipement, et le fait que ma main droite a heurté une cassure préexistante sur le flanc de la vasque.
 
@@ -56,8 +56,8 @@ Je vous remercie infiniment pour votre aide.
 
 Cordialement,
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-[sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
 <hr><hr>
 

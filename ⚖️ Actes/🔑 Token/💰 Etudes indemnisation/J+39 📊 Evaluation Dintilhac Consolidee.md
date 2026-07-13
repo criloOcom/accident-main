@@ -23,9 +23,9 @@ jx: J+39
 
 # ÉVALUATION DINTILHAC CONSOLIDÉE<br>11 + 12
 
-[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) <br>
-[**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md) <br>
-[**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
+[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md) <br>
+[**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md) <br>
+[**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
 
 Rédigé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
 
@@ -73,9 +73,9 @@ Rédigé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F
 # 1. INTRODUCTION ET PRINCIPES GÉNÉRAUX
 ## I.1 — FAITS DU SINISTRE
 
-La présente évaluation a pour objet d'évaluer l'intégralité des préjudices corporels subis par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à la suite de l'accident du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — au cours duquel, alors que l'employé [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-prepose-de-l-exploitation.md) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit.
+La présente évaluation a pour objet d'évaluer l'intégralité des préjudices corporels subis par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à la suite de l'accident du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — au cours duquel, alors que l'employé [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) est travailleur indépendant inscrit sous le numéro [**[L'Identifiant Professionnel de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-identifiant-professionnel-de-la-victime.md), exerçant la profession d'informaticien droitier et guitariste. Les déclarations URSSAF attestent de recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) est travailleur indépendant inscrit sous le numéro [**[L'Identifiant Professionnel de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md), exerçant la profession d'informaticien droitier et guitariste. Les déclarations URSSAF attestent de recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
 <hr><hr>
 
 ## I.2 — PRINCIPE DE LA RÉPARATION INTÉGRALE
@@ -254,7 +254,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 **Sources :**
 - Référentiel Mornet 2024-2026 : 4/7 = 15 000 à 30 000 €
 
-- CA de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md), 11 octobre 2022, RG n° 21/03743
+- CA de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md), 11 octobre 2022, RG n° 21/03743
 
 - JMP Avocat, référentiel Mornet 2026 : 4/7 = 20 000 à 35 000 €
 <hr><hr>
@@ -418,7 +418,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Méthode pour identifier l'assureur :**
 1. Consultation RNE/INPI (déjà fait)
-2. Saisine greffe TC de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) pour coordonnées assurance
+2. Saisine greffe TC de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) pour coordonnées assurance
 3. Interrogation ORIAS
 4. Questionnement dirigeants sous astreinte
 5. Assignation [art. 145 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^14] si refus persistant
@@ -471,7 +471,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 **Procédure :**
 - Délai : 3 ans à compter de l'infraction (29 mai 2029)
 
-- Compétence : CIVI du TJ de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md) (domicile) ou de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) (lieu infraction)
+- Compétence : CIVI du TJ de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) (domicile) ou de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) (lieu infraction)
 
 - Requête écrite au greffe de la CIVI avec tous justificatifs
 
@@ -539,7 +539,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 ### Phase 4 — Si insolvabilité confirmée (début 2027)
 
-10. Saisine CIVI du TJ de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md)
+10. Saisine CIVI du TJ de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)
 11. Demande indemnisation FGTI (réparation intégrale)
 12. Constitution partie civile
 

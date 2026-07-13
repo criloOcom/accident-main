@@ -10,7 +10,7 @@ tags:
   - SAS
   - LRAR
 statut: final
-destinataire: Tribunal de Commerce de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
+destinataire: Tribunal de Commerce de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 auteur: Nom de l'Avocat de la Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/30 ✉️ Courrier President TC.md
 jx: J+41
@@ -22,23 +22,23 @@ jx: J+41
 <!-- /Breadcrumb -->
 
 # OPPOSITION CONSERVATOIRE <br> RADIATION DE SOCIÉTÉ
-[Nom Prénom de l'Avocat](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
+[Nom Prénom de l'Avocat](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-avocat-nom.md)
 
-**À L'ATTENTION DE MONSIEUR LE PRÉSIDENT DU Tribunal de Commerce de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)**
+**À L'ATTENTION DE MONSIEUR LE PRÉSIDENT DU Tribunal de Commerce de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
 Service du Registre du Commerce et des Sociétés
 
-[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), le 9 juillet 2026
+[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 9 juillet 2026
 
-**Objet :** Demande d'opposition conservatoire à la radiation d'office ou volontaire de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
-**Référence RCS :** [938 033 222 00010](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-identifiant-de-l-exploitation.md)
+**Objet :** Demande d'opposition conservatoire à la radiation d'office ou volontaire de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
+**Référence RCS :** [938 033 222 00010](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md)
 **Lettre Recommandée avec Accusé de Réception**
 
 Monsieur le Président,
 
-J'interviens dans les intérêts de Monsieur [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), victime d'un accident corporel grave survenu au sein des locaux exploités par la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
+J'interviens dans les intérêts de Monsieur [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu au sein des locaux exploités par la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 ## I — PROBLÉMATIQUE : RISQUE DE DISPARITION DE LA PERSONNE MORALE
 
-À la suite de ce grave sinistre, de multiples manquements aux règles de sécurité, constitutifs d'infractions pénales, ont été constatés à l'encontre de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
+À la suite de ce grave sinistre, de multiples manquements aux règles de sécurité, constitutifs d'infractions pénales, ont été constatés à l'encontre de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
 Des procédures civiles et pénales sont actuellement en cours d'engagement pour faire valoir les droits de mon client et obtenir la réparation intégrale de son préjudice corporel, ainsi que la condamnation des responsables.
 
@@ -63,7 +63,7 @@ Le Code de commerce encadre strictement les conditions de radiation d'office d'u
 
 Les dispositions précitées, si elles permettent l'assainissement du registre, ne sauraient être instrumentalisées par une entreprise débitrice d'obligations indemnitaires pour organiser son insolvabilité ou échapper à la justice.
 
-Dans le cas d'espèce, la disparition de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) créerait un préjudice irréparable pour [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md).
+Dans le cas d'espèce, la disparition de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) créerait un préjudice irréparable pour [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md).
 
 Il est de jurisprudence constante que les créanciers justifiant d'un intérêt légitime peuvent former opposition à une radiation pour préserver leurs droits, le temps que la juridiction saisie du fond statue sur les responsabilités et les indemnisations.
 
@@ -74,7 +74,7 @@ L'intérêt à agir de mon client est ici caractérisé et actuel, fondé sur un
 
 Au vu de l'urgence et du risque avéré de dissipation des garanties, je vous prie de bien vouloir, par la présente :
 
-1. **Prendre acte** de l'opposition formelle de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à toute demande de radiation, qu'elle soit amiable, consécutive à une dissolution anticipée, ou d'office, concernant la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) (RCS [938 033 222 00010](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-identifiant-de-l-exploitation.md)).
+1. **Prendre acte** de l'opposition formelle de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à toute demande de radiation, qu'elle soit amiable, consécutive à une dissolution anticipée, ou d'office, concernant la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (RCS [938 033 222 00010](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md)).
 
 2. **Inscrire** une mention de cette opposition au dossier de la société.
 
@@ -82,7 +82,7 @@ Au vu de l'urgence et du risque avéré de dissipation des garanties, je vous pr
 
 Je vous remercie de l'attention que vous porterez à cette demande, essentielle à la préservation des droits d'une victime de dommages corporels graves, et vous prie de croire, Monsieur le Président, en l'expression de mes salutations distinguées.
 
-[Nom Prénom de l'Avocat](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
+[Nom Prénom de l'Avocat](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-avocat-nom.md)
 Avocat au Barreau
 <hr><hr>
 

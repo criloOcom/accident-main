@@ -19,7 +19,7 @@ type: memory
 |---|---|
 | **Donnée réelle** | 06 30 51 67 75 |
 | **Type** | Données localisantes / identifiantes |
-| **Contexte** | Téléphone mobile personnel de la victime ([La Victime](token-la-victime.md)). |
+| **Contexte** | Téléphone mobile personnel de la victime ([La Victime](token-victime-nom-complet.md)). |
 
 ## Contexte
 
@@ -28,11 +28,11 @@ Numéro de contact de la victime, utilisé dans les mentions de coordonnées des
 ## Enjeu juridique — Coordonnées de notification
 
 - Figure dans les **mentions de contact** (expéditeur des mises en demeure, demandeur de l'assignation, partie civile).
-- À conserver cohérent avec [L'Email de la Victime](token-l-email-de-la-victime.md) et [L'Adresse de la Victime](token-l-adresse-de-la-victime.md) sur tous les actes.
+- À conserver cohérent avec [L'Email de la Victime](token-victime-email.md) et [L'Adresse de la Victime](token-victime-adresse.md) sur tous les actes.
 
 ## Croisements
 
-- [Le Téléphone de la Victime](token-le-telephone-de-la-victime.md) ⇄ [L'Email de la Victime](token-l-email-de-la-victime.md) ⇄ [L'Adresse de la Victime](token-l-adresse-de-la-victime.md)
+- [Le Téléphone de la Victime](token-victime-telephone.md) ⇄ [L'Email de la Victime](token-victime-email.md) ⇄ [L'Adresse de la Victime](token-victime-adresse.md)
 
 ## Documents liés
 

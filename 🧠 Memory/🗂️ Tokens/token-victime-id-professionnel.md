@@ -32,7 +32,7 @@ SIREN d'immatriculation de l'activité professionnelle de la victime, informatic
 
 ## Croisements
 
-- [L'Identifiant Professionnel de la Victime](token-l-identifiant-professionnel-de-la-victime.md) ⇄ [La Victime](token-la-victime.md) (profession : informaticien indépendant) ⇄ [J+5 Ouverture CPAM](token-j-5-ouverture-cpam.md) (Saisine CPAM)
+- [L'Identifiant Professionnel de la Victime](token-victime-id-professionnel.md) ⇄ [La Victime](token-victime-nom-complet.md) (profession : informaticien indépendant) ⇄ [J+5 Ouverture CPAM](token-j-5-ouverture-cpam.md) (Saisine CPAM)
 
 ## Documents liés
 

@@ -19,21 +19,21 @@ type: memory
 |---|---|
 | **Donnée réelle** | 10 Avenue de Purpan, 31700 Blagnac |
 | **Type** | Données localisantes / identifiantes |
-| **Contexte** | Domicile de la victime Sébastien GRAZIDE ([La Victime](token-la-victime.md)). |
+| **Contexte** | Domicile de la victime Sébastien GRAZIDE ([La Victime](token-victime-nom-complet.md)). |
 
 ## Contexte
 
-Adresse personnelle de la victime, située à [La Ville de Résidence de la Victime](token-la-ville-de-residence-de-la-victime.md) (Blagnac, 31). Elle figure sur tous les courriers émanant de la victime et sur les actes de procédure la désignant en qualité de demandeur / partie civile.
+Adresse personnelle de la victime, située à [La Ville de Résidence de la Victime](token-victime-ville-residence.md) (Blagnac, 31). Elle figure sur tous les courriers émanant de la victime et sur les actes de procédure la désignant en qualité de demandeur / partie civile.
 
 ## Enjeu juridique — Notifications
 
 - Sert aux **notifications** à la victime (demandeur / partie civile). La compétence territoriale reste ancrée au lieu de l'infraction (Foix, art. 42 CPC).
 - Preuve de résidence confirmée par l'opération Wero de 15 € passée le jour de l'accident au salon (relation contractuelle + présence).
-- ⚠ Distincte de [L'Adresse de l'Exploitation](token-l-adresse-de-l-exploitation.md) (22 Rue Lafaurie, Foix) et [L'Adresse du Président](token-l-adresse-du-president.md).
+- ⚠ Distincte de [L'Adresse de l'Exploitation](token-exploitation-adresse.md) (22 Rue Lafaurie, Foix) et [L'Adresse du Président](token-exploitation-president-adresse.md).
 
 ## Croisements
 
-- [L'Adresse de la Victime](token-l-adresse-de-la-victime.md) ⇄ [La Ville de Résidence de la Victime](token-la-ville-de-residence-de-la-victime.md) ⇄ [L'Email de la Victime](token-l-email-de-la-victime.md) ⇄ [Le Téléphone de la Victime](token-le-telephone-de-la-victime.md)
+- [L'Adresse de la Victime](token-victime-adresse.md) ⇄ [La Ville de Résidence de la Victime](token-victime-ville-residence.md) ⇄ [L'Email de la Victime](token-victime-email.md) ⇄ [Le Téléphone de la Victime](token-victime-telephone.md)
 
 ## Documents liés
 

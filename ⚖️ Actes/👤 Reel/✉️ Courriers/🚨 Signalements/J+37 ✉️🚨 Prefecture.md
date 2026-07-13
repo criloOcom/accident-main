@@ -25,24 +25,24 @@ jx: J+37
 
 # CONFIRMATION OFFICIELLE DE SIGNALEMENT <br> A LA PREFECTURE DE L'ARIEGE
 > 🔗 Source Google Drive : [1sIkiScOSFZy…](https://drive.google.com/open?id=1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM)
-[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md)
+[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 
-Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
+Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
 **Prefecture de l'Ariege**
 
 [À compléter]
 
-[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), le [5 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)
+[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [5 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)
 
-Objet : Confirmation officielle de signalement — Accident du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au salon [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
+Objet : Confirmation officielle de signalement — Accident du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au salon [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
-Ref : Signalement effectue par la Mairie de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) le 1er juin 2026
+Ref : Signalement effectue par la Mairie de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) le 1er juin 2026
 
 Madame, Monsieur le Prefet,
 ## INTRODUCTION
 
-La presente est adressee a vos services par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), situe 22 Rue Lafaurie, 09000 Foix a [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md).
+La presente est adressee a vos services par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), situe 22 Rue Lafaurie, 09000 Foix a [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 
@@ -62,8 +62,8 @@ Ma main droite, tendue par reflexe, a heurte la cassure preexistante, entrainant
 
 Plusieurs procedures ont ete engagees a ce jour :
 
-1. Depot de plainte au commissariat de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) (PV n° [2026/015967](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes))
-2. [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise au Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
+1. Depot de plainte au commissariat de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) (PV n° [2026/015967](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes))
+2. [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise au Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 3. Mises en demeure LRAR a la SAS, a ses dirigeants et au proprietaire des murs ([29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
 4. Action directe contre l'assureur RC professionnelle (Article L.124-3 du Code des assurances)
 
@@ -77,7 +77,7 @@ Plusieurs procedures ont ete engagees a ce jour :
 
 ## III — SIGNALEMENTS TRANSMIS
 
-Il m'a ete indique par la Mairie de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) le 1er juin 2026 qu'un signalement avait ete effectue aupres de vos services et du CODAF. Je sollicite par la presente confirmation que ce signalement a bien ete reeu et instruit par vos services, et souhaite etre tenu informe des suites qui lui sont reservees.
+Il m'a ete indique par la Mairie de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) le 1er juin 2026 qu'un signalement avait ete effectue aupres de vos services et du CODAF. Je sollicite par la presente confirmation que ce signalement a bien ete reeu et instruit par vos services, et souhaite etre tenu informe des suites qui lui sont reservees.
 
 Je porte par ailleurs a votre connaissance les manquements suivants, constates dans cet ERP :
 
@@ -104,18 +104,18 @@ Je sollicite de vos services :
 2. L'etat d'avancement des diligences entreprises par vos services et le CODAF
 3. La communication des suites reserves a ce signalement
 
-Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) — Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
+Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md) — Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Prefet, l'expression de ma consideration distinguee.
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026
 
-- **[Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** — Procedure penale engagee devant le TJ de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
+- **[Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** — Procedure penale engagee devant le TJ de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
 - **[Mises en demeure LRAR](J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md)** — Mises en demeure du [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
 

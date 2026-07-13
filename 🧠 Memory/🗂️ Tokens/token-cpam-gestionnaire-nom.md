@@ -35,7 +35,7 @@ Interlocutrice CPAM pour le dossier **Recours Contre Tiers (RCT) n° 31727387**,
 
 ## Croisements
 
-- [La Gestionnaire CPAM](token-la-gestionnaire-cpam.md) ⇄ [J+5 Ouverture CPAM](token-j-5-ouverture-cpam.md) ⇄ [J+18 Incohérence CPAM](token-j-18-incoherence-cpam.md)
+- [La Gestionnaire CPAM](token-cpam-gestionnaire-nom.md) ⇄ [J+5 Ouverture CPAM](token-j-5-ouverture-cpam.md) ⇄ [J+18 Incohérence CPAM](token-j-18-incoherence-cpam.md)
 
 ## Documents liés
 

@@ -19,7 +19,7 @@ type: memory
 |---|---|
 | **Donnée réelle** | secretariat@mairie-foix.fr |
 | **Type** | Coordonnée de contact (administration) |
-| **Contexte** | Email générique du secrétariat de la Mairie de [La Ville de l'Accident](token-la-ville-de-l-accident.md) (Foix). |
+| **Contexte** | Email générique du secrétariat de la Mairie de [La Ville de l'Accident](token-accident-ville.md) (Foix). |
 
 ## Contexte
 
@@ -27,12 +27,12 @@ Adresse email de secrétariat de la mairie, canal de contact général pour les 
 
 ## Enjeu — Redondance de contact administratif
 
-- Sert de **canal de secours** si l'email direct de l'adjoint ([L'Email de l'Adjoint au Maire](token-l-email-de-l-adjoint-au-maire.md)) ne répond pas.
+- Sert de **canal de secours** si l'email direct de l'adjoint ([L'Email de l'Adjoint au Maire](token-mairie-adjoint-email.md)) ne répond pas.
 - Utilisé pour l'historique des échanges avec la commune (1er contact le 01/06/2026).
 
 ## Croisements
 
-- [L'Email du Secrétariat de la Mairie](token-l-email-du-secretariat-de-la-mairie.md) ⇄ [L'Adjoint au Maire de la Commune](token-l-adjoint-au-maire-de-la-commune.md) ⇄ [L'Email de l'Adjoint au Maire](token-l-email-de-l-adjoint-au-maire.md)
+- [L'Email du Secrétariat de la Mairie](token-mairie-secretariat-email.md) ⇄ [L'Adjoint au Maire de la Commune](token-mairie-adjoint-nom.md) ⇄ [L'Email de l'Adjoint au Maire](token-mairie-adjoint-email.md)
 
 ## Documents liés
 

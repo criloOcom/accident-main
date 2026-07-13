@@ -1,5 +1,5 @@
 ---
-title: "Relance [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) - Certificat de Consolidation"
+title: "Relance [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) - Certificat de Consolidation"
 description: "Objet : Demande de certificat médical de consolidation — Suite courrier du **[J+37 Assignation 145]"
 type: courrier
 date: 2026-07-06
@@ -23,7 +23,7 @@ jx: J+38
 # RELANCE<br>DEMANDE DE CERTIFICAT MÉDICAL DE CONSOLIDATION
 Objet : Demande de certificat médical de consolidation — Suite courrier du [**[J+37 Assignation 145]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)
 
-**Destinataire :** [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) — SOS Main [**[L'Établissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-etablissement-sos-main.md)
+**Destinataire :** [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) — SOS Main [**[L'Établissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)
 
 <hr><hr>
 
@@ -45,7 +45,7 @@ Je vous remercie de bien vouloir me transmettre ce document par tout moyen (emai
 
 Dans l'attente, je vous prie d'agréer, Docteur, l'expression de mes salutations distinguées.
 
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 
 <hr><hr>
 

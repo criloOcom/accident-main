@@ -25,59 +25,59 @@ Chaque fiche regroupe :
 
 | Token | Fichier |
 |---|---|
-| `**[La Victime]**` | [token-la-victime.md](token-la-victime.md) |
-| `**[Le Président de l'Exploitation]**` | [token-le-president-de-l-exploitation.md](token-le-president-de-l-exploitation.md) |
-| `**[La Directrice Générale de l'Exploitation]**` | [token-la-directrice-generale-de-l-exploitation.md](token-la-directrice-generale-de-l-exploitation.md) |
-| `**[Le Préposé de l'Exploitation]**` | [token-le-prepose-de-l-exploitation.md](token-le-prepose-de-l-exploitation.md) |
-| `**[Le Propriétaire des Murs]**` | [token-le-proprietaire-des-murs.md](token-le-proprietaire-des-murs.md) |
-| `**[Le Chirurgien SOS Main]**` | [token-le-chirurgien-sos-main.md](token-le-chirurgien-sos-main.md) |
-| `**[Le Médecin en Urgence]**` | [token-le-medecin-en-urgence.md](token-le-medecin-en-urgence.md) |
-| `**[Le Médecin Généraliste]**` | [token-le-medecin-generaliste.md](token-le-medecin-generaliste.md) |
-| `**[La Gestionnaire CPAM]**` | [token-la-gestionnaire-cpam.md](token-la-gestionnaire-cpam.md) |
-| `**[Nom de l'Avocat de la Victime]**` | [token-nom-de-l-avocat-de-la-victime.md](token-nom-de-l-avocat-de-la-victime.md) |
-| `**[L'Adjoint au Maire de la Commune]**` | [token-l-adjoint-au-maire-de-la-commune.md](token-l-adjoint-au-maire-de-la-commune.md) |
-| `**[Prénom de la Victime]**` | [token-prenom-de-la-victime.md](token-prenom-de-la-victime.md) |
+| `**[La Victime]**` | [token-victime-nom-complet.md](token-victime-nom-complet.md) |
+| `**[Le Président de l'Exploitation]**` | [token-exploitation-president-nom.md](token-exploitation-president-nom.md) |
+| `**[La Directrice Générale de l'Exploitation]**` | [token-exploitation-dg-nom.md](token-exploitation-dg-nom.md) |
+| `**[Le Préposé de l'Exploitation]**` | [token-exploitation-prepose-nom.md](token-exploitation-prepose-nom.md) |
+| `**[Le Propriétaire des Murs]**` | [token-exploitation-bailleur-nom.md](token-exploitation-bailleur-nom.md) |
+| `**[Le Chirurgien SOS Main]**` | [token-hopital-sosmain-chirurgien.md](token-hopital-sosmain-chirurgien.md) |
+| `**[Le Médecin en Urgence]**` | [token-hopital-urgence-medecin.md](token-hopital-urgence-medecin.md) |
+| `**[Le Médecin Généraliste]**` | [token-victime-medecin-generaliste.md](token-victime-medecin-generaliste.md) |
+| `**[La Gestionnaire CPAM]**` | [token-cpam-gestionnaire-nom.md](token-cpam-gestionnaire-nom.md) |
+| `**[Nom de l'Avocat de la Victime]**` | [token-victime-avocat-nom.md](token-victime-avocat-nom.md) |
+| `**[L'Adjoint au Maire de la Commune]**` | [token-mairie-adjoint-nom.md](token-mairie-adjoint-nom.md) |
+| `**[Prénom de la Victime]**` | [token-victime-prenom.md](token-victime-prenom.md) |
 
 ### Personnes morales (2)
 
 | Token | Fichier |
 |---|---|
-| `**[L'Exploitant du Commerce (La SAS)]**` | [token-l-exploitant-du-commerce-la-sas.md](token-l-exploitant-du-commerce-la-sas.md) |
-| `**[L'Établissement SOS Main]**` | [token-l-etablissement-sos-main.md](token-l-etablissement-sos-main.md) |
+| `**[L'Exploitant du Commerce (La SAS)]**` | [token-exploitation-raison-sociale.md](token-exploitation-raison-sociale.md) |
+| `**[L'Établissement SOS Main]**` | [token-hopital-sosmain-nom.md](token-hopital-sosmain-nom.md) |
 
 ### Données localisantes / identifiantes (14)
 
 | Token | Fichier |
 |---|---|
-| `**[L'Adresse de la Victime]**` | [token-l-adresse-de-la-victime.md](token-l-adresse-de-la-victime.md) |
-| `**[L'Adresse de l'Exploitation]**` | [token-l-adresse-de-l-exploitation.md](token-l-adresse-de-l-exploitation.md) |
-| `**[L'Adresse du Président]**` | [token-l-adresse-du-president.md](token-l-adresse-du-president.md) |
-| `**[La Ville de l'Accident]**` | [token-la-ville-de-l-accident.md](token-la-ville-de-l-accident.md) |
-| `**[La Ville de Résidence de la Victime]**` | [token-la-ville-de-residence-de-la-victime.md](token-la-ville-de-residence-de-la-victime.md) |
-| `**[La Métropole Régionale]**` | [token-la-metropole-regionale.md](token-la-metropole-regionale.md) |
-| `**[La Ville de l'Établissement SOS Main]**` | [token-la-ville-de-l-etablissement-sos-main.md](token-la-ville-de-l-etablissement-sos-main.md) |
-| `**[Le Téléphone de la Victime]**` | [token-le-telephone-de-la-victime.md](token-le-telephone-de-la-victime.md) |
-| `**[Code Postal de l'Accident]**` | [token-code-postal-de-l-accident.md](token-code-postal-de-l-accident.md) |
-| `**[Date de naissance de la victime]**` | [token-date-de-naissance-de-la-victime.md](token-date-de-naissance-de-la-victime.md) |
-| `**[L'Email de la Victime]**` | [token-l-email-de-la-victime.md](token-l-email-de-la-victime.md) |
-| `**[L'Identifiant Professionnel de la Victime]**` | [token-l-identifiant-professionnel-de-la-victime.md](token-l-identifiant-professionnel-de-la-victime.md) |
-| `**[L'Identifiant de l'Exploitation]**` | [token-l-identifiant-de-l-exploitation.md](token-l-identifiant-de-l-exploitation.md) |
-| `**[SIREN de l'Exploitation]**` | [token-siren-de-l-exploitation.md](token-siren-de-l-exploitation.md) |
-| `**[Âge de la Victime]**` | [token-age-de-la-victime.md](token-age-de-la-victime.md) |
+| `**[L'Adresse de la Victime]**` | [token-victime-adresse.md](token-victime-adresse.md) |
+| `**[L'Adresse de l'Exploitation]**` | [token-exploitation-adresse.md](token-exploitation-adresse.md) |
+| `**[L'Adresse du Président]**` | [token-exploitation-president-adresse.md](token-exploitation-president-adresse.md) |
+| `**[La Ville de l'Accident]**` | [token-accident-ville.md](token-accident-ville.md) |
+| `**[La Ville de Résidence de la Victime]**` | [token-victime-ville-residence.md](token-victime-ville-residence.md) |
+| `**[La Métropole Régionale]**` | [token-accident-metropole.md](token-accident-metropole.md) |
+| `**[La Ville de l'Établissement SOS Main]**` | [token-hopital-sosmain-ville.md](token-hopital-sosmain-ville.md) |
+| `**[Le Téléphone de la Victime]**` | [token-victime-telephone.md](token-victime-telephone.md) |
+| `**[Code Postal de l'Accident]**` | [token-accident-code-postal.md](token-accident-code-postal.md) |
+| `**[Date de naissance de la victime]**` | [token-victime-date-naissance.md](token-victime-date-naissance.md) |
+| `**[L'Email de la Victime]**` | [token-victime-email.md](token-victime-email.md) |
+| `**[L'Identifiant Professionnel de la Victime]**` | [token-victime-id-professionnel.md](token-victime-id-professionnel.md) |
+| `**[L'Identifiant de l'Exploitation]**` | [token-exploitation-id.md](token-exploitation-id.md) |
+| `**[SIREN de l'Exploitation]**` | [token-exploitation-siren.md](token-exploitation-siren.md) |
+| `**[Âge de la Victime]**` | [token-victime-age.md](token-victime-age.md) |
 
 ### Personnes morales (suite) (2)
 
 | Token | Fichier |
 |---|---|
-| `**[L'Email de l'Adjoint au Maire]**` | [token-l-email-de-l-adjoint-au-maire.md](token-l-email-de-l-adjoint-au-maire.md) |
-| `**[L'Email du Secrétariat de la Mairie]**` | [token-l-email-du-secretariat-de-la-mairie.md](token-l-email-du-secretariat-de-la-mairie.md) |
+| `**[L'Email de l'Adjoint au Maire]**` | [token-mairie-adjoint-email.md](token-mairie-adjoint-email.md) |
+| `**[L'Email du Secrétariat de la Mairie]**` | [token-mairie-secretariat-email.md](token-mairie-secretariat-email.md) |
 
 ### Tokens temporaires (2)
 
 | Token | Fichier |
 |---|---|
-| `**[DATE RELANCE V2]**` | [token-date-relance-v2.md](token-date-relance-v2.md) |
-| `**[DATE REOUVERTURE BOUTIQUE]**` | [token-date-reouverture-boutique.md](token-date-reouverture-boutique.md) |
+| `**[DATE RELANCE V2]**` | [token-accident-date-relance-v2.md](token-accident-date-relance-v2.md) |
+| `**[DATE REOUVERTURE BOUTIQUE]**` | [token-exploitation-date-reouverture.md](token-exploitation-date-reouverture.md) |
 
 ### Tokens événementiels (24)
 
@@ -131,7 +131,7 @@ Chaque fiche regroupe :
 | `**[Finance Facture Chirurgie]**` | [token-finance-facture-chirurgie.md](token-finance-facture-chirurgie.md) | 790,23 € |
 | `**[Finance Prestation Salon]**` | [token-finance-prestation-salon.md](token-finance-prestation-salon.md) | 15,00 € |
 | `**[Finance Evaluation Initiale]**` | [token-finance-evaluation-initiale.md](token-finance-evaluation-initiale.md) | 59 600 € |
-| `**[Capital Social de l'Exploitation]**` | [token-capital-social-de-l-exploitation.md](token-capital-social-de-l-exploitation.md) | 200 € |
+| `**[Capital Social de l'Exploitation]**` | [token-exploitation-capital-social.md](token-exploitation-capital-social.md) | 200 € |
 
 ---
 

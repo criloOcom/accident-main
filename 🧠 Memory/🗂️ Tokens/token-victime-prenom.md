@@ -19,7 +19,7 @@ type: memory
 |---|---|
 | **Donnée réelle** | Sébastien |
 | **Type** | Données identifiantes |
-| **Contexte** | Prénom de la victime ([La Victime](token-la-victime.md)). |
+| **Contexte** | Prénom de la victime ([La Victime](token-victime-nom-complet.md)). |
 
 ## Contexte
 
@@ -27,7 +27,7 @@ Prénom utilisé dans les documents internes (listes de tâches, notes personnel
 
 ## Croisements
 
-- [Prénom de la Victime](token-prenom-de-la-victime.md) ⇄ [La Victime](token-la-victime.md)
+- [Prénom de la Victime](token-victime-prenom.md) ⇄ [La Victime](token-victime-nom-complet.md)
 
 ## Source
 

@@ -18,7 +18,7 @@ type: memory
 | Champ | Valeur |
 |---|---|
 | **Date** | 12 novembre 2026 (jeudi) — 13h45 |
-| **Lieu** | UMJ Purpan, [La Métropole Régionale](token-la-metropole-regionale.md) (Toulouse) |
+| **Lieu** | UMJ Purpan, [La Métropole Régionale](token-accident-metropole.md) (Toulouse) |
 | **Objet** | Expertise médicale judiciaire — évaluation ITT + DFP + consolidation |
 
 ## Description détaillée
@@ -31,7 +31,7 @@ L'expertise évalue :
 - La date de consolidation
 - Les souffrances endurées (SE) — estimation : 4/7
 - Le préjudice esthétique (PEP) — cicatrice palmaire 8,5 cm
-- L'incidence professionnelle (IP) — perte d'activité d'auto-entrepreneur ([L'Identifiant Professionnel de la Victime](token-l-identifiant-professionnel-de-la-victime.md))
+- L'incidence professionnelle (IP) — perte d'activité d'auto-entrepreneur ([L'Identifiant Professionnel de la Victime](token-victime-id-professionnel.md))
 - Le préjudice d'agrément (guitare, loisirs)
 
 ## Acteurs concernés
@@ -39,7 +39,7 @@ L'expertise évalue :
 - **[La Victime]** — expertisé
 - **Médecin légiste UMJ Purpan** — expert
 - **[Le Chirurgien SOS Main]** — médecin traitant (transmission du dossier)
-- **Parquet de [La Ville de l'Accident](token-la-ville-de-l-accident.md)** — autorité requérante
+- **Parquet de [La Ville de l'Accident](token-accident-ville.md)** — autorité requérante
 
 ## Conséquences juridiques
 
@@ -50,7 +50,7 @@ L'expertise évalue :
 
 ## Croisements
 
-- [J+167 Expertise UMJ](token-j-167-expertise-umj.md) ⇄ [J+36 Lettre consolidation](token-j-36-lettre-consolidation.md) (consolidation) ⇄ [J+55 Fin d'ITT](token-j-55-fin-d-itt.md) (ITT) ⇄ [L'Établissement SOS Main](token-l-etablissement-sos-main.md) (origine des soins)
+- [J+167 Expertise UMJ](token-j-167-expertise-umj.md) ⇄ [J+36 Lettre consolidation](token-j-36-lettre-consolidation.md) (consolidation) ⇄ [J+55 Fin d'ITT](token-j-55-fin-d-itt.md) (ITT) ⇄ [L'Établissement SOS Main](token-hopital-sosmain-nom.md) (origine des soins)
 
 ## Documents liés
 

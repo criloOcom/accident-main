@@ -21,7 +21,7 @@ type: memory
 
 ## Description détaillée
 
-Accusé de réception de la mise en demeure adressée à [Le Propriétaire des Murs](token-le-proprietaire-des-murs.md) (Romain DELRIEU) — propriétaire-bailleur des locaux situés au 22 Rue Lafaurie, 09000 Foix ([L'Adresse de l'Exploitation](token-l-adresse-de-l-exploitation.md)).
+Accusé de réception de la mise en demeure adressée à [Le Propriétaire des Murs](token-exploitation-bailleur-nom.md) (Romain DELRIEU) — propriétaire-bailleur des locaux situés au 22 Rue Lafaurie, 09000 Foix ([L'Adresse de l'Exploitation](token-exploitation-adresse.md)).
 
 La mise en demeure invite le propriétaire à :
 - Prendre position sur sa responsabilité civile (défaut d'entretien des lieux)
@@ -41,7 +41,7 @@ La mise en demeure invite le propriétaire à :
 
 ## Croisements
 
-- [J+35 AR propriétaire](token-j-35-ar-proprietaire.md) ⇄ [Le Propriétaire des Murs](token-le-proprietaire-des-murs.md) ⇄ [J+31 Mises en demeure](token-j-31-mises-en-demeure.md) (acte à l'origine de l'AR)
+- [J+35 AR propriétaire](token-j-35-ar-proprietaire.md) ⇄ [Le Propriétaire des Murs](token-exploitation-bailleur-nom.md) ⇄ [J+31 Mises en demeure](token-j-31-mises-en-demeure.md) (acte à l'origine de l'AR)
 
 ## Documents liés
 

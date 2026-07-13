@@ -13,7 +13,7 @@ reel_path: ../../👤 Reel/🗂️ Organisation/06 📋 Synthese des Actions et 
 # Note de Synthèse<br>Avancement des Audits & Recommandations
 
 Cette note récapitule l'analyse systématique de tous les rapports d'audit dans [📊 Rapports](%F0%9F%93%8A_Rapports/README.md) et catégorise l'état d'avancement des tâches en suspens.
-## I — 🟥 CE QU'IL RESTE À FAIRE (Démarches Humaines — En attente d'action de [**[Prénom de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-prenom-de-la-victime.md))
+## I — 🟥 CE QU'IL RESTE À FAIRE (Démarches Humaines — En attente d'action de [**[Prénom de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-prenom.md))
 
 Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent vos démarches physiques auprès des tiers.
 

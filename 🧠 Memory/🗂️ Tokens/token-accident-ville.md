@@ -23,7 +23,7 @@ type: memory
 
 ## Contexte
 
-Foix est la ville où s'est produit l'accident ([J+0 Accident](token-j-0-accident.md)) et où se trouve le Tribunal Judiciaire compétent. Elle abrite aussi la mairie (interlocuteur [L'Adjoint au Maire de la Commune](token-l-adjoint-au-maire-de-la-commune.md)) et la police municipale.
+Foix est la ville où s'est produit l'accident ([J+0 Accident](token-j-0-accident.md)) et où se trouve le Tribunal Judiciaire compétent. Elle abrite aussi la mairie (interlocuteur [L'Adjoint au Maire de la Commune](token-mairie-adjoint-nom.md)) et la police municipale.
 
 ## Enjeu juridique — Compétence territoriale
 
@@ -33,7 +33,7 @@ Foix est la ville où s'est produit l'accident ([J+0 Accident](token-j-0-acciden
 
 ## Croisements
 
-- [La Ville de l'Accident](token-la-ville-de-l-accident.md) ⇄ [L'Adresse de l'Exploitation](token-l-adresse-de-l-exploitation.md) ⇄ [L'Adjoint au Maire de la Commune](token-l-adjoint-au-maire-de-la-commune.md)
+- [La Ville de l'Accident](token-accident-ville.md) ⇄ [L'Adresse de l'Exploitation](token-exploitation-adresse.md) ⇄ [L'Adjoint au Maire de la Commune](token-mairie-adjoint-nom.md)
 
 ## Documents liés
 

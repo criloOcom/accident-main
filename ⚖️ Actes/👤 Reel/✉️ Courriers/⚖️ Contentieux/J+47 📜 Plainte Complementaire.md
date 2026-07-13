@@ -28,10 +28,10 @@ jx: J+47
 # PLAINTE COMPLÉMENTAIRE
 # BLESSURES INVOLONTAIRES ET OBSTRUCTION À LA JUSTICE
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md)
-[sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
-[06 30 51 67 75](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-telephone-de-la-victime.md)
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
+[sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
+[06 30 51 67 75](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)
 
 **Commissariat de Police de Foix**
 [**[Adresse du Commissariat]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
@@ -43,7 +43,7 @@ Foix, le **[Date du dépôt]**
 
 Monsieur l'Officier de Police Judiciaire,
 
-Je soussigné(e), [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), né(e) le [**[Date de naissance de la victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-date-de-naissance-de-la-victime.md), demeurant [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md), informaticien indépendant (SIREN [500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-identifiant-professionnel-de-la-victime.md)), victime d'un accident corporel grave survenu le 29 mai 2026 au sein de l'établissement "Les Mauvais Garçons" exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md)), sis [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md), 09000 Foix,
+Je soussigné(e), [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), né(e) le [**[Date de naissance de la victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md), demeurant [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), informaticien indépendant (SIREN [500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)), victime d'un accident corporel grave survenu le 29 mai 2026 au sein de l'établissement "Les Mauvais Garçons" exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)), sis [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), 09000 Foix,
 
 **VIENS PAR LA PRÉSENTE DÉPOSER PLAINTE COMPLÉMENTAIRE** contre les dirigeants de la société susmentionnée pour les faits suivants, constituant des infractions pénales caractérisées :
 ## I — RAPPEL DES FAITS INITIAUX ([PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))
@@ -52,7 +52,7 @@ Le **29 mai 2026 vers 15h00**, alors que je me trouvais en qualité de client au
 
 Sous son poids, la vasque a basculé violemment, et ma main droite a heurté une cassure préexistante aux arêtes tranchantes, provoquant une **plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur et du paquet vasculo-nerveux de l'index droit**.
 
-Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le 30 mai 2026 par le [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) au service SOS Main de [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-etablissement-sos-main.md), suivie de 56 jours d'Incapacité Totale de Travail (ITT), avec un pronostic de récupération neurologique partielle sur une durée minimale d'un an.
+Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le 30 mai 2026 par le [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) au service SOS Main de [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md), suivie de 56 jours d'Incapacité Totale de Travail (ITT), avec un pronostic de récupération neurologique partielle sur une durée minimale d'un an.
 <hr><hr>
 
 ## II — FAITS NOUVEAUX CONSTITUTIFS D'INFRACTIONS PÉNALES
@@ -193,7 +193,7 @@ Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière
 
 3. **Accusés de réception des LRAR retournés NPAI** (29 mai 2026)
 
-4. **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md))
+4. **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
 
 5. **Note d'audit RNE/INPI** du 10 juillet 2026
 
@@ -244,7 +244,7 @@ Je reste à la disposition des services de police pour toute audition complémen
 
 Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de Police Judiciaire, l'expression de ma considération distinguée.
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
 ## ANNEXE 1 : RÉFÉRENCES JURIDIQUES COMPLÈTES

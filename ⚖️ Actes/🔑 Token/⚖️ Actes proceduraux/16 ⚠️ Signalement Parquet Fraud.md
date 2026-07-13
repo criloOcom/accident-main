@@ -30,13 +30,13 @@ J'ai l'honneur de porter à votre connaissance les faits suivants, conformément
 > [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) <br>
 > **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.[^1]**
 
-J'ai été informé que la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), immatriculée au Registre du Commerce et des Sociétés et dont le siège social est situé à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md), pourrait avoir cessé son activité.
+J'ai été informé que la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), immatriculée au Registre du Commerce et des Sociétés et dont le siège social est situé à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), pourrait avoir cessé son activité.
 
-Il a été porté à mon attention qu'une nouvelle structure pourrait avoir ouvert ses portes et commencé à exploiter une activité commerciale à cette même adresse, soit à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md).
+Il a été porté à mon attention qu'une nouvelle structure pourrait avoir ouvert ses portes et commencé à exploiter une activité commerciale à cette même adresse, soit à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md).
 
-Ces agissements s'inscrivent dans un contexte où la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et ses dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) (Président) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) (Directrice Générale), font actuellement l'objet de poursuites judiciaires suite à un grave accident corporel dont a été victime [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) le 29 mai 2026.
+Ces agissements s'inscrivent dans un contexte où la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et ses dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (Président) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (Directrice Générale), font actuellement l'objet de poursuites judiciaires suite à un grave accident corporel dont a été victime [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) le 29 mai 2026.
 
-La concomitance de cette potentielle cessation d'activité et de la création d'une nouvelle structure à la même adresse, alors qu'une action en responsabilité est en cours à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), pris en la personne de ses dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md), et personnellement contre ces derniers, soulève de sérieux doutes quant à la probité de cette opération.
+La concomitance de cette potentielle cessation d'activité et de la création d'une nouvelle structure à la même adresse, alors qu'une action en responsabilité est en cours à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), pris en la personne de ses dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), et personnellement contre ces derniers, soulève de sérieux doutes quant à la probité de cette opération.
 <hr><hr>
 
 ### II. FONDEMENTS JURIDIQUES
@@ -60,11 +60,11 @@ Ces agissements, s'ils étaient confirmés, pourraient recevoir la qualification
 
 ### III. DEMANDES
 
-Au regard de la gravité de ces faits, qui semblent orchestrés dans le but manifeste d'échapper à d'éventuelles condamnations indemnitaires au préjudice de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), je vous prie de bien vouloir faire diligenter toute enquête utile afin :
+Au regard de la gravité de ces faits, qui semblent orchestrés dans le but manifeste d'échapper à d'éventuelles condamnations indemnitaires au préjudice de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), je vous prie de bien vouloir faire diligenter toute enquête utile afin :
 
-- De vérifier la réalité de la cessation d'activité de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
+- De vérifier la réalité de la cessation d'activité de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
-- D'identifier la nouvelle structure opérant à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md) et de déterminer les liens éventuels avec les dirigeants de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
+- D'identifier la nouvelle structure opérant à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) et de déterminer les liens éventuels avec les dirigeants de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
 - D'établir, le cas échéant, l'intention frauduleuse et de procéder aux poursuites qui s'imposent.
 
@@ -72,10 +72,10 @@ Je me tiens à votre entière disposition pour tout renseignement complémentair
 
 Je vous prie de croire, Monsieur le Procureur de la République, en l'assurance de ma très haute considération.
 
-Fait à [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), le [Date].
+Fait à [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [Date].
 
-[**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
-Avocat de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+[**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-avocat-nom.md)
+Avocat de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
 ## PIECES JOINTES

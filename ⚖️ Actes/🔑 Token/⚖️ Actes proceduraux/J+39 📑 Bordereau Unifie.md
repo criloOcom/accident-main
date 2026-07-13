@@ -1,6 +1,6 @@
 ---
 title: "Bordereau de pièces (unifié)"
-description: "| Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) | Défendeur : [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) |"
+description: "| Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) | Défendeur : [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) |"
 type: readme
 date: 2026-07-07
 tags:
@@ -20,44 +20,44 @@ jx: J+39
 <!-- /Breadcrumb -->
 
 # BORDEREAU DE PIÈCES
-| Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) | Défendeur : [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) |
+| Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) | Défendeur : [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) |
 |:---|:---|:---|
 ## GROUPE A — PREUVES DE L'ACCIDENT
 ### PIÈCE N° 1
 
-- [**[J+4 Dépôt de plainte]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Procès-verbal de police n° [**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (Police Nationale [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md)) : Dépôt de plainte de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) pour blessures involontaires. Description de l'accident : montée du coiffeur sur la vasque en céramique, basculement, cassure préexistante. PV complet 3 pages.
+- [**[J+4 Dépôt de plainte]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Procès-verbal de police n° [**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (Police Nationale [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)) : Dépôt de plainte de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) pour blessures involontaires. Description de l'accident : montée du coiffeur sur la vasque en céramique, basculement, cassure préexistante. PV complet 3 pages.
 
 ### PIÈCE N° 2
 
-- [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) 16h30** — [Certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) ([**[Le Médecin en Urgence]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-medecin-en-urgence.md), **[Centre de soins immédiats]**) : Exploration de plaie palmaire profonde, lavage et désinfection sous anesthésie locale. Référence d'urgence chirurgicale.
+- [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) 16h30** — [Certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) ([**[Le Médecin en Urgence]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md), **[Centre de soins immédiats]**) : Exploration de plaie palmaire profonde, lavage et désinfection sous anesthésie locale. Référence d'urgence chirurgicale.
 
 ### PIÈCE N° 3
 
-- [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) — Compte rendu opératoire ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md), SOS Main [**[L'Établissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-etablissement-sos-main.md)) : Suture du tendon fléchisseur superficiel index droit (6 brins), suture des paquets collatéraux, neurolyse du nerf palmaire. [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+- [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) — Compte rendu opératoire ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md), SOS Main [**[L'Établissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)) : Suture du tendon fléchisseur superficiel index droit (6 brins), suture des paquets collatéraux, neurolyse du nerf palmaire. [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
 
 ### PIÈCE N° 4
 
-- [**[J+3 Premiers arrêts]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md) au [**[J+55 Fin d'ITT]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md) — [Arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et prolongations ([**[Le Médecin Généraliste]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-medecin-generaliste.md), [**[Le Médecin Généraliste]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-medecin-generaliste.md)) : ITT totale de 56 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 30 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.
+- [**[J+3 Premiers arrêts]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md) au [**[J+55 Fin d'ITT]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md) — [Arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et prolongations ([**[Le Médecin Généraliste]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-medecin-generaliste.md), [**[Le Médecin Généraliste]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-medecin-generaliste.md)) : ITT totale de 56 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 30 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.
 
 ### PIÈCE N° 5
 
-- [**[J+4 Dépôt de plainte]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Réquisition judiciaire à personne (Police Nationale, Agent **[Agent PJ, dépôt de plainte]**) : Réquisition pour examen médical par l'UMJ de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md) sur le fondement des Art. 41 et 77-1 CPP. Rendez-vous fixé au [**[J+167 Expertise UMJ]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) à 13h45**.
+- [**[J+4 Dépôt de plainte]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Réquisition judiciaire à personne (Police Nationale, Agent **[Agent PJ, dépôt de plainte]**) : Réquisition pour examen médical par l'UMJ de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) sur le fondement des Art. 41 et 77-1 CPP. Rendez-vous fixé au [**[J+167 Expertise UMJ]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) à 13h45**.
 
-- [**[J+4 Dépôt de plainte]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Retranscription téléphonique de la prise de rendez-vous UMJ : Confirmation du rendez-vous du [**[J+167 Expertise UMJ]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) à [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md), instructions sur les documents à apporter.
+- [**[J+4 Dépôt de plainte]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Retranscription téléphonique de la prise de rendez-vous UMJ : Confirmation du rendez-vous du [**[J+167 Expertise UMJ]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) à [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md), instructions sur les documents à apporter.
 <hr><hr>
 
 ## GROUPE B — PREUVES FINANCIÈRES
 ### PIÈCE N° 6
 
-- [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — Paiement et remboursement Wero : Paiement de 15 € pour la prestation de coiffure ([**[N° Transaction Wero]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), suivi d'un remboursement immédiat des 15 € par [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-prepose-de-l-exploitation.md) (preuve de présence matérielle dans les lieux et de relation contractuelle de prestation).
+- [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — Paiement et remboursement Wero : Paiement de 15 € pour la prestation de coiffure ([**[N° Transaction Wero]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), suivi d'un remboursement immédiat des 15 € par [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (preuve de présence matérielle dans les lieux et de relation contractuelle de prestation).
 
 ### PIÈCE N° 7
 
-- [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — Facture de pharmacie (Pharmacie de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)) : Médicaments post-opératoires prescrits en urgence.
+- [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — Facture de pharmacie (Pharmacie de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)) : Médicaments post-opératoires prescrits en urgence.
 
 ### PIÈCE N° 8
 
-- [**[J+12 Facture]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md) — Facture de chirurgie ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md), SOS Main [**[L'Établissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-etablissement-sos-main.md)) : Acte chirurgical d'un montant de 790,23 € pris en charge à 100 % par la CSS.
+- [**[J+12 Facture]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md) — Facture de chirurgie ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md), SOS Main [**[L'Établissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)) : Acte chirurgical d'un montant de 790,23 € pris en charge à 100 % par la CSS.
 
 ### PIÈCE N° 9
 
@@ -67,19 +67,19 @@ jx: J+39
 ## GROUPE C — CORRESPONDANCES ET MISES EN DEMEURE
 ### PIÈCE N° 10
 
-- [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) (LRAR n° [**[N° LRAR Exploitant]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : Demande de communication de l'attestation d'assurance RC Pro et de la somme de 5 000 € à titre de provision. Distribué. Échéance au [**[J+46 Échéance amiable]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-46-echeance-amiable.md).
+- [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (LRAR n° [**[N° LRAR Exploitant]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : Demande de communication de l'attestation d'assurance RC Pro et de la somme de 5 000 € à titre de provision. Distribué. Échéance au [**[J+46 Échéance amiable]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-46-echeance-amiable.md).
 
 ### PIÈCE N° 11
 
-- [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure de [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) (LRAR n° [**[N° LRAR Président]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : Mise en cause personnelle pour faute détachable (absence d'assurance, défaut de sécurité). Distribué.
+- [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure de [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (LRAR n° [**[N° LRAR Président]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : Mise en cause personnelle pour faute détachable (absence d'assurance, défaut de sécurité). Distribué.
 
 ### PIÈCE N° 12
 
-- [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure de [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) (LRAR n° [**[N° LRAR Directrice]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : Mise en cause personnelle pour faute détachable. Distribué.
+- [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure de [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (LRAR n° [**[N° LRAR Directrice]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : Mise en cause personnelle pour faute détachable. Distribué.
 
 ### PIÈCE N° 13
 
-- [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure de [**[Le Propriétaire des Murs]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-proprietaire-des-murs.md) (LRAR n° [**[N° LRAR Propriétaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : Demande de communication de son contrat d'assurance propriétaire non-occupant. Distribué.
+- [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure de [**[Le Propriétaire des Murs]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) (LRAR n° [**[N° LRAR Propriétaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : Demande de communication de son contrat d'assurance propriétaire non-occupant. Distribué.
 
 ### PIÈCE N° 14
 
@@ -87,7 +87,7 @@ jx: J+39
 
 ### PIÈCE N° 15
 
-- [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) — Transmission de la plainte au Procureur de la République (LRAR n° [**[N° LRAR Parquet]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : Dossier pénal complet transmis au Parquet de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md). Distribué.
+- [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) — Transmission de la plainte au Procureur de la République (LRAR n° [**[N° LRAR Parquet]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : Dossier pénal complet transmis au Parquet de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md). Distribué.
 <hr><hr>
 
 ## GROUPE D — ACTES DE PROCÉDURE
@@ -139,7 +139,7 @@ jx: J+39
 ## GROUPE G — PIÈCES COMPLÉMENTAIRES
 ### PIÈCE N° 26
 
-- [**[J+5 Ouverture CPAM]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-5-ouverture-cpam.md) — Déclaration d'accident CPAM (Ameli) : Déclaration de recours contre tiers enregistrée sous le n° 31727387 contre la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
+- [**[J+5 Ouverture CPAM]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-5-ouverture-cpam.md) — Déclaration d'accident CPAM (Ameli) : Déclaration de recours contre tiers enregistrée sous le n° 31727387 contre la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
 ### PIÈCE N° 27
 
@@ -149,7 +149,7 @@ jx: J+39
 
 ### PIÈCE N° 28
 
-- [**[J+18 Incohérence CPAM]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-18-incoherence-cpam.md) — Demande de renseignements CPAM ([**[La Gestionnaire CPAM]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-gestionnaire-cpam.md)) : INCOHÉRENCE — dossier n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) erroné]** au lieu du n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+- [**[J+18 Incohérence CPAM]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-18-incoherence-cpam.md) — Demande de renseignements CPAM ([**[La Gestionnaire CPAM]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-gestionnaire-nom.md)) : INCOHÉRENCE — dossier n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) erroné]** au lieu du n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
 
 - **18/06/2026** — Note de cadrage médico-légale : Confirmation de la zone lésée (index droit) et du [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md).
 
@@ -165,15 +165,15 @@ jx: J+39
 
 ### PIÈCE N° 30
 
-- **Sans date** — Pansements post-chirurgicaux lourds toutes les 48 heures (Cabinet infirmier [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md)).
+- **Sans date** — Pansements post-chirurgicaux lourds toutes les 48 heures (Cabinet infirmier [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)).
 
-- **12/06/2026** — Consultation de contrôle ([**[Le Médecin Généraliste]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-medecin-generaliste.md)) : Planification de la prolongation d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
+- **12/06/2026** — Consultation de contrôle ([**[Le Médecin Généraliste]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-medecin-generaliste.md)) : Planification de la prolongation d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
 
-- [**[J+25 Première kiné]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-25-premiere-kine.md) — Consultation de contrôle post-opératoire ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md)) : Bonne évolution cicatricielle, déficit neurologique noté.
+- [**[J+25 Première kiné]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-25-premiere-kine.md) — Consultation de contrôle post-opératoire ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)) : Bonne évolution cicatricielle, déficit neurologique noté.
 
 ### PIÈCE N° 31
 
-- [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — Prescription initiale de 25 jours d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) ([**[Le Médecin Généraliste]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-medecin-generaliste.md)).
+- [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — Prescription initiale de 25 jours d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) ([**[Le Médecin Généraliste]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-medecin-generaliste.md)).
 
 ### PIÈCE N° 32
 
@@ -237,7 +237,7 @@ jx: J+39
 
 ### PIÈCE N° 43
 
-- **05/06/2026** — Preuve de dépôt LRAR [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (La Poste, [**[La Ville de Résidence de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-residence-de-la-victime.md)) : Décalage de date constaté (vignette 03/06, flash postal 05/06).
+- **05/06/2026** — Preuve de dépôt LRAR [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (La Poste, [**[La Ville de Résidence de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)) : Décalage de date constaté (vignette 03/06, flash postal 05/06).
 <hr><hr>
 
 ## Sources Législation

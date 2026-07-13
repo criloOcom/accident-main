@@ -58,7 +58,7 @@ Vague de courriers de **pression fiscale et administrative** contre **[L'Exploit
 ## Croisements
 
 - [J+41 Courrier SIE URSSAF](token-j-41-courrier-sie-urssaf.md) s'inscrit dans la vague du [J+41 Requête Constat 145](token-j-41-requete-constat-145.md) (même jour).
-- Complète la pression : oppositions TC/INPI ([SIREN de l'Exploitation](token-siren-de-l-exploitation.md)), signalements administratifs de [J+37 Assignation 145](token-j-37-assignation-145.md).
+- Complète la pression : oppositions TC/INPI ([SIREN de l'Exploitation](token-exploitation-siren.md)), signalements administratifs de [J+37 Assignation 145](token-j-37-assignation-145.md).
 
 ## Source
 

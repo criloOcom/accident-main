@@ -51,7 +51,7 @@ Consultation juridique externe et suivi stratégique du dossier après le dépô
 ## Croisements
 
 - [J+40 Consultation suivi](token-j-40-consultation-suivi.md) fait suite à [J+37 Assignation 145](token-j-37-assignation-145.md) et [J+38 Constitution PC](token-j-38-constitution-pc.md).
-- Alimente la [Note responsabilité dirigeants J+41](token-j-41-requete-constat-145.md) et la stratégie de recouvrement (FGTI, voir [L'Exploitant du Commerce (La SAS)](token-l-exploitant-du-commerce-la-sas.md)).
+- Alimente la [Note responsabilité dirigeants J+41](token-j-41-requete-constat-145.md) et la stratégie de recouvrement (FGTI, voir [L'Exploitant du Commerce (La SAS)](token-exploitation-raison-sociale.md)).
 
 ## Source
 

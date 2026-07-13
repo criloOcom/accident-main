@@ -31,7 +31,7 @@ La rééducation est prolongée de 3 semaines supplémentaires.
 ## Acteurs concernés
 
 - **[La Victime]** — patient
-- **Kinésithérapeute** (prescrit par [Le Chirurgien SOS Main](token-le-chirurgien-sos-main.md))
+- **Kinésithérapeute** (prescrit par [Le Chirurgien SOS Main](token-hopital-sosmain-chirurgien.md))
 
 ## Conséquences juridiques
 

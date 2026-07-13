@@ -25,25 +25,25 @@ jx: J+31
 
 # MISE EN DEMEURE AUX DIRIGEANTS<br>DEMANDE D'INFORMATION ASSURANCE RC
 > 🔗 Source Google Drive : [1pheN3_rudxy…](https://drive.google.com/open?id=1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I)
-[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) <br>
-[sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
+[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md) <br>
+[sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
-[Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md)
+[Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
 
-[SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) <br>
-[22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md)
+[SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) <br>
+[22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
 
-[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), le [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
+[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
 
 Objet : Demande d'information et communication d'assurance — Accident [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — L.R.A.R.
 
 <hr><hr>
 
-Réf : Dossier [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) / [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
+Réf : Dossier [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) / [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
 Madame la Directrice Générale, Monsieur le Président,
 ## INTRODUCTION
-La présente lettre de mise en demeure est adressée conjointement par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md), en leur qualité de dirigeants de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md).
+La présente lettre de mise en demeure est adressée conjointement par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), en leur qualité de dirigeants de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md).
 
 **Ce courrier constitue une démarche constructive et préalable à toute action contentieuse, conformément aux obligations légales et à la jurisprudence applicable en matière de responsabilité personnelle des dirigeants.**
 <hr><hr>
@@ -84,11 +84,11 @@ Je me permets de vous adresser la présente lettre dans une démarche constructi
 
 Je tiens tout d'abord à vous remercier pour votre réactivité le jour même de l'accident, notamment pour l'annulation de la transaction de 15 € effectuée par virement Wero. Cette attention a été particulièrement appréciée dans ces circonstances difficiles.
 
-Comme vous le savez, l'accident a entraîné une blessure importante à ma main droite (index droit), nécessitant une opération de microchirurgie d'urgence par [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) le samedi [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) au service SOS Main de [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-etablissement-sos-main.md) (suture tendineuse 6 brins, suture microchirurgicale des nerfs et vaisseaux, neurolyse d'urgence).
+Comme vous le savez, l'accident a entraîné une blessure importante à ma main droite (index droit), nécessitant une opération de microchirurgie d'urgence par [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) le samedi [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) au service SOS Main de [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md) (suture tendineuse 6 brins, suture microchirurgicale des nerfs et vaisseaux, neurolyse d'urgence).
 
 Le chirurgien a évalué le pronostic de récupération neurologique à un an minimum, avec un résultat souvent partiel s'agissant d'une suture nerveuse.
 
-Du fait de mon activité d'informaticien indépendant ([500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-identifiant-professionnel-de-la-victime.md)), l'incapacité d'utiliser mon index et ma main dominante me paralyse totalement dans mon travail quotidien.
+Du fait de mon activité d'informaticien indépendant ([500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)), l'incapacité d'utiliser mon index et ma main dominante me paralyse totalement dans mon travail quotidien.
 
 En tant que citoyen, je ne connaissais pas les formalités nécessaires dans ce type de situation.
 
@@ -106,7 +106,7 @@ La victime dispose d'une action directe contre l'assureur de responsabilité civ
 
 Je vous remercie de bien vouloir me communiquer, dans les meilleurs délais, les informations suivantes :
 
-1. Le nom et les coordonnées complètes de la compagnie d'assurance couvrant la responsabilité civile professionnelle de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) au titre de la police en vigueur le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) ;
+1. Le nom et les coordonnées complètes de la compagnie d'assurance couvrant la responsabilité civile professionnelle de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au titre de la police en vigueur le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) ;
 
 2. Le numéro de contrat d'assurance souscrit ;
 
@@ -120,7 +120,7 @@ En l'absence de retour de votre part sous un délai raisonnable de 15 jours à c
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 > **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.[^6]**
 
-À défaut de réponse dans ce délai, je me verrai contraint de saisir le juge des référés du tribunal judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) afin d'obtenir une mesure d'instruction in futurum aux fins d'identification de l'assureur.
+À défaut de réponse dans ce délai, je me verrai contraint de saisir le juge des référés du tribunal judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) afin d'obtenir une mesure d'instruction in futurum aux fins d'identification de l'assureur.
 
 Dans cette hypothèse, je serai également contraint de rechercher la responsabilité personnelle des dirigeants pour défaut d'information sur le fondement de la faute détachable.
 
@@ -156,7 +156,7 @@ Elle permet :
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 > **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.[^6]**
 
-À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) — d'abord en référé pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) — d'abord en référé pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 <hr><hr>
@@ -175,7 +175,7 @@ L'ensemble des pièces et de la procédure vous sera communiqué par transparenc
 
 Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président, l'expression de mes salutations distinguées.
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 
 > NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >

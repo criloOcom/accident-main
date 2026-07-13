@@ -19,7 +19,7 @@ type: memory
 |---|---|
 | **Donnée réelle** | btavella@mairie-foix.fr |
 | **Type** | Coordonnée de contact (administration) |
-| **Contexte** | Adresse email de [L'Adjoint au Maire de la Commune](token-l-adjoint-au-maire-de-la-commune.md) (Bernard TAVELLA), Mairie de Foix. |
+| **Contexte** | Adresse email de [L'Adjoint au Maire de la Commune](token-mairie-adjoint-nom.md) (Bernard TAVELLA), Mairie de Foix. |
 
 ## Contexte
 
@@ -28,11 +28,11 @@ Email direct de l'adjoint au maire en charge de l'urbanisme et de la sécurité 
 ## Enjeu — Levier administratif ERP
 
 - Permet d'activer le **signalement ERP** et le relais vers la police municipale (constat sur les lieux, 22 Rue Lafaurie).
-- Complementaire de [L'Email du Secrétariat de la Mairie](token-l-email-du-secretariat-de-la-mairie.md) (secrétariat@mairie-foix.fr).
+- Complementaire de [L'Email du Secrétariat de la Mairie](token-mairie-secretariat-email.md) (secrétariat@mairie-foix.fr).
 
 ## Croisements
 
-- [L'Email de l'Adjoint au Maire](token-l-email-de-l-adjoint-au-maire.md) ⇄ [L'Adjoint au Maire de la Commune](token-l-adjoint-au-maire-de-la-commune.md) ⇄ [L'Email du Secrétariat de la Mairie](token-l-email-du-secretariat-de-la-mairie.md)
+- [L'Email de l'Adjoint au Maire](token-mairie-adjoint-email.md) ⇄ [L'Adjoint au Maire de la Commune](token-mairie-adjoint-nom.md) ⇄ [L'Email du Secrétariat de la Mairie](token-mairie-secretariat-email.md)
 
 ## Documents liés
 

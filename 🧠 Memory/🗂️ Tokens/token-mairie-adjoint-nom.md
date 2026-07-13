@@ -20,12 +20,12 @@ type: memory
 | **Nom réel** | Bernard TAVELLA / TAVELLA / M. TAVELLA |
 | **Rôle** | Adjoint au Maire de Foix (urbanisme, sécurité des ERP) |
 | **Profession** | Élu local |
-| **Email** | [L'Email de l'Adjoint au Maire](token-l-email-de-l-adjoint-au-maire.md) (btavella@mairie-foix.fr) |
-| **Secrétariat** | [L'Email du Secrétariat de la Mairie](token-l-email-du-secretariat-de-la-mairie.md) (secretariat@mairie-foix.fr) |
+| **Email** | [L'Email de l'Adjoint au Maire](token-mairie-adjoint-email.md) (btavella@mairie-foix.fr) |
+| **Secrétariat** | [L'Email du Secrétariat de la Mairie](token-mairie-secretariat-email.md) (secretariat@mairie-foix.fr) |
 
 ## Contexte
 
-Élu de la commune de [La Ville de l'Accident](token-la-ville-de-l-accident.md) (Foix), interlocuteur privilégié pour le volet **administratif et ERP** du dossier : signalement de l'établissement au titre de la sécurité des établissements recevant du public, échanges relatifs à une intervention de la police municipale.
+Élu de la commune de [La Ville de l'Accident](token-accident-ville.md) (Foix), interlocuteur privilégié pour le volet **administratif et ERP** du dossier : signalement de l'établissement au titre de la sécurité des établissements recevant du public, échanges relatifs à une intervention de la police municipale.
 
 Il a répondu à une première sollicitation le 1er juin 2026 et constitue le **premier relais administratif** avant l'escalade vers la Préfecture / le CODAF.
 
@@ -37,7 +37,7 @@ Il a répondu à une première sollicitation le 1er juin 2026 et constitue le **
 
 ## Croisements
 
-- [L'Adjoint au Maire de la Commune](token-l-adjoint-au-maire-de-la-commune.md) ⇄ [L'Email de l'Adjoint au Maire](token-l-email-de-l-adjoint-au-maire.md) ⇄ [L'Email du Secrétariat de la Mairie](token-l-email-du-secretariat-de-la-mairie.md)
+- [L'Adjoint au Maire de la Commune](token-mairie-adjoint-nom.md) ⇄ [L'Email de l'Adjoint au Maire](token-mairie-adjoint-email.md) ⇄ [L'Email du Secrétariat de la Mairie](token-mairie-secretariat-email.md)
 
 ## Documents liés
 

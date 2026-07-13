@@ -19,11 +19,11 @@ type: memory
 |---|---|
 | **Nom réel** | Clinique de l'Union |
 | **Rôle** | Établissement de santé spécialisé en chirurgie de la main (réseau SOS Main) |
-| **Ville** | [La Ville de l'Établissement SOS Main](token-la-ville-de-l-etablissement-sos-main.md) (Saint-Jean, 31) — banlieue de [La Métropole Régionale](token-la-metropole-regionale.md) (Toulouse) |
+| **Ville** | [La Ville de l'Établissement SOS Main](token-hopital-sosmain-ville.md) (Saint-Jean, 31) — banlieue de [La Métropole Régionale](token-accident-metropole.md) (Toulouse) |
 
 ## Contexte
 
-Établissement ayant réalisé la **microchirurgie d'urgence** de la main droite de [La Victime](token-la-victime.md) le **30 mai 2026** ([J+1 Chirurgie](token-j-1-chirurgie.md)), au lendemain de l'accident. Le chirurgien intervenant est [Le Chirurgien SOS Main](token-le-chirurgien-sos-main.md).
+Établissement ayant réalisé la **microchirurgie d'urgence** de la main droite de [La Victime](token-victime-nom-complet.md) le **30 mai 2026** ([J+1 Chirurgie](token-j-1-chirurgie.md)), au lendemain de l'accident. Le chirurgien intervenant est [Le Chirurgien SOS Main](token-hopital-sosmain-chirurgien.md).
 
 ## Enjeu probatoire et financier
 
@@ -32,7 +32,7 @@ type: memory
 
 ## Croisements
 
-- [L'Établissement SOS Main](token-l-etablissement-sos-main.md) ⇄ [Le Chirurgien SOS Main](token-le-chirurgien-sos-main.md) (chirurgien intervenant) ⇄ [J+1 Chirurgie](token-j-1-chirurgie.md)
+- [L'Établissement SOS Main](token-hopital-sosmain-nom.md) ⇄ [Le Chirurgien SOS Main](token-hopital-sosmain-chirurgien.md) (chirurgien intervenant) ⇄ [J+1 Chirurgie](token-j-1-chirurgie.md)
 
 ## Documents liés
 

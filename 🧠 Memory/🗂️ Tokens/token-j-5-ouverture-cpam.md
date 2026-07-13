@@ -19,13 +19,13 @@ type: memory
 |---|---|
 | **Date** | 3 juin 2026 (mercredi) |
 | **N° dossier** | **31727387** (⚠ jamais 31713398 / 31713387 — obsolètes) |
-| **Gestionnaire** | [La Gestionnaire CPAM](token-la-gestionnaire-cpam.md) (Sigrid DESBOIS) |
+| **Gestionnaire** | [La Gestionnaire CPAM](token-cpam-gestionnaire-nom.md) (Sigrid DESBOIS) |
 
 ## Description détaillée
 
-Ouverture du dossier de reconnaissance AT/MP auprès de la CPAM Haute-Garonne. [La Gestionnaire CPAM](token-la-gestionnaire-cpam.md) est l'interlocutrice désignée.
+Ouverture du dossier de reconnaissance AT/MP auprès de la CPAM Haute-Garonne. [La Gestionnaire CPAM](token-cpam-gestionnaire-nom.md) est l'interlocutrice désignée.
 
-Transmission des pièces initiales par **[La Victime]** ([L'Email de la Victime](token-l-email-de-la-victime.md)) :
+Transmission des pièces initiales par **[La Victime]** ([L'Email de la Victime](token-victime-email.md)) :
 - Certificat médical d'accident du travail
 - Déclaration d'accident du travail
 - Pièces d'identité
@@ -47,7 +47,7 @@ Transmission des pièces initiales par **[La Victime]** ([L'Email de la Victime]
 
 ## Croisements
 
-- [J+5 Ouverture CPAM](token-j-5-ouverture-cpam.md) ⇄ [La Gestionnaire CPAM](token-la-gestionnaire-cpam.md) ⇄ [J+18 Incohérence CPAM](token-j-18-incoherence-cpam.md) (anomalie réglée) ⇄ [J+38 Constitution PC](token-j-38-constitution-pc.md) (transmission recours tiers)
+- [J+5 Ouverture CPAM](token-j-5-ouverture-cpam.md) ⇄ [La Gestionnaire CPAM](token-cpam-gestionnaire-nom.md) ⇄ [J+18 Incohérence CPAM](token-j-18-incoherence-cpam.md) (anomalie réglée) ⇄ [J+38 Constitution PC](token-j-38-constitution-pc.md) (transmission recours tiers)
 
 ## Documents liés
 

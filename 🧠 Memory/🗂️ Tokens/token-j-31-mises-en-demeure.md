@@ -54,7 +54,7 @@ Chaque courrier impartit un délai de **15 jours** pour réponse, à l'issue duq
 
 ## Croisements
 
-- [J+31 Mises en demeure](token-j-31-mises-en-demeure.md) ⇄ [J+46 Échéance amiable](token-j-46-echeance-amiable.md) (15 jours de délai) ⇄ [L'Exploitant du Commerce (La SAS)](token-l-exploitant-du-commerce-la-sas.md) + [Le Président de l'Exploitation](token-le-president-de-l-exploitation.md) + [Le Propriétaire des Murs](token-le-proprietaire-des-murs.md) (destinataires)
+- [J+31 Mises en demeure](token-j-31-mises-en-demeure.md) ⇄ [J+46 Échéance amiable](token-j-46-echeance-amiable.md) (15 jours de délai) ⇄ [L'Exploitant du Commerce (La SAS)](token-exploitation-raison-sociale.md) + [Le Président de l'Exploitation](token-exploitation-president-nom.md) + [Le Propriétaire des Murs](token-exploitation-bailleur-nom.md) (destinataires)
 - Déclenche [J+32 Assignation Référé](token-j-32-assignation-refere.md) (sans réponse) et [J+35 AR propriétaire](token-j-35-ar-proprietaire.md) (accusés de réception).
 
 ## Source

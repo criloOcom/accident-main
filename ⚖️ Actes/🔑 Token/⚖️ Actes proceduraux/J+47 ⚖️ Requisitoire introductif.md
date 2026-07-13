@@ -24,23 +24,23 @@ jx: J+47
 # RÉQUISITOIRE INTRODUCTIF DU MINISTÈRE PUBLIC
 **Ouverture d'une information judiciaire — Blessures involontaires et infractions connexes**
 
-Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
+Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 Le Procureur de la République
 
 RÉFÉRENCE PARQUET : [À compléter]
 RÉFÉRENCE PLAINTE : PV n°[N° PV Police]
 
 À l'attention de Monsieur le Doyen des Juges d'Instruction,
-Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
+Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 ## I — PROBLÉMATIQUE ET EXPOSÉ DES FAITS
 
-Le Ministère Public a été saisi par la plainte, puis par la [constitution de partie civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) en date du [**[J+38 Constitution PC]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md), déposées par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à l'encontre de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), ainsi que de ses dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md).
+Le Ministère Public a été saisi par la plainte, puis par la [constitution de partie civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) en date du [**[J+38 Constitution PC]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md), déposées par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à l'encontre de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), ainsi que de ses dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
 
-Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), sis [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md), a été victime d'un grave accident corporel.
+Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), a été victime d'un grave accident corporel.
 
-Alors que [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-prepose-de-l-exploitation.md) était monté sur la vasque en céramique d'un bac à shampoing, cet équipement instable a basculé sous son poids.
+Alors que [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) était monté sur la vasque en céramique d'un bac à shampoing, cet équipement instable a basculé sous son poids.
 
-En tentant par réflexe de retenir le préposé, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) a heurté de la main droite une cassure majeure préexistante et non signalée sur le flanc de la vasque.
+En tentant par réflexe de retenir le préposé, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a heurté de la main droite une cassure majeure préexistante et non signalée sur le flanc de la vasque.
 
 Ce choc a provoqué une section nerveuse et tendineuse profonde de l'index droit, nécessitant une intervention microchirurgicale d'urgence le 30 mai 2026.
 
@@ -93,7 +93,7 @@ S'agissant des personnes physiques qui n'ont pas causé directement le dommage (
 > [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) <br>
 > **Code pénal > Partie législative > Livre Ier > Titre II > Chapitre Ier.[^5]**
 
-Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md).
+Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
 
 ### D. SUR LA PRESCRIPTION
 
@@ -108,7 +108,7 @@ Conformément à l'article 8 du Code de procédure pénale, l'action publique po
 
 Les faits dénoncés revêtent une indéniable gravité, les conséquences pour la victime, informaticien de profession, étant majeures (atteinte nerveuse de la main dominante).
 
-L'enquête préliminaire se heurte actuellement à l'obstruction manifeste de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et de ses dirigeants, qui refusent de communiquer les attestations d'assurance de responsabilité civile professionnelle de l'établissement, paralysant l'indemnisation de la victime via l'action directe prévue par l'article L. 124-3 du Code des assurances.
+L'enquête préliminaire se heurte actuellement à l'obstruction manifeste de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, qui refusent de communiquer les attestations d'assurance de responsabilité civile professionnelle de l'établissement, paralysant l'indemnisation de la victime via l'action directe prévue par l'article L. 124-3 du Code des assurances.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
@@ -138,11 +138,11 @@ Par ces motifs,
 
 Vu les articles 222-20, 223-1, 121-2 et 121-3 du Code pénal ;
 Vu les articles 80 et suivants du Code de procédure pénale ;
-Vu la plainte et la [constitution de partie civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) ;
+Vu la plainte et la [constitution de partie civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) ;
 
 Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 
-**OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md), et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md), du chef de :
+**OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), du chef de :
 
 - Blessures involontaires avec incapacité n'excédant pas trois mois par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement (Art. 222-20 C. pénal) ;
 
@@ -152,7 +152,7 @@ Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 
 **DÉCERNER** tous mandats qu'il appartiendra.
 
-Fait au Parquet de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), le 15 juillet 2026.
+Fait au Parquet de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 15 juillet 2026.
 
 **Le Procureur de la République**
 <hr><hr>

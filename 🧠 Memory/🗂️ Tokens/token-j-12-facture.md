@@ -19,7 +19,7 @@ type: memory
 |---|---|
 | **Date** | 10 juin 2026 (mercredi) |
 | **Montant** | **790,23 €** |
-| **Émetteur** | [L'Établissement SOS Main](token-l-etablissement-sos-main.md) (Clinique de l'Union) |
+| **Émetteur** | [L'Établissement SOS Main](token-hopital-sosmain-nom.md) (Clinique de l'Union) |
 
 ## Description détaillée
 
@@ -41,7 +41,7 @@ Cette facture constitue la **dépense de santé effective** supportée par **[La
 
 ## Croisements
 
-- [J+12 Facture](token-j-12-facture.md) ⇄ [L'Établissement SOS Main](token-l-etablissement-sos-main.md) ⇄ [J+1 Chirurgie](token-j-1-chirurgie.md) (origine de la dépense)
+- [J+12 Facture](token-j-12-facture.md) ⇄ [L'Établissement SOS Main](token-hopital-sosmain-nom.md) ⇄ [J+1 Chirurgie](token-j-1-chirurgie.md) (origine de la dépense)
 
 ## Documents liés
 

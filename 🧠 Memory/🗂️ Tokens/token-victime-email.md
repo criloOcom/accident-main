@@ -19,7 +19,7 @@ type: memory
 |---|---|
 | **Donnée réelle** | sebastien.grazide@gmail.com |
 | **Type** | Données localisantes / identifiantes |
-| **Contexte** | Principal moyen de contact de la victime ([La Victime](token-la-victime.md)). |
+| **Contexte** | Principal moyen de contact de la victime ([La Victime](token-victime-nom-complet.md)). |
 
 ## Contexte
 
@@ -27,12 +27,12 @@ Adresse email de la victime, utilisée dans les mentions de contact des courrier
 
 ## Enjeu juridique — Preuve de notification
 
-- Email déclaré comme contact auprès de la Mairie ([Mairie — Adjoint au Maire](token-l-adjoint-au-maire-de-la-commune.md)) et de la CPAM ([J+5 Ouverture CPAM](token-j-5-ouverture-cpam.md)).
-- Conserver cohérent avec [Le Téléphone de la Victime](token-le-telephone-de-la-victime.md) et [L'Adresse de la Victime](token-l-adresse-de-la-victime.md).
+- Email déclaré comme contact auprès de la Mairie ([Mairie — Adjoint au Maire](token-mairie-adjoint-nom.md)) et de la CPAM ([J+5 Ouverture CPAM](token-j-5-ouverture-cpam.md)).
+- Conserver cohérent avec [Le Téléphone de la Victime](token-victime-telephone.md) et [L'Adresse de la Victime](token-victime-adresse.md).
 
 ## Croisements
 
-- [L'Email de la Victime](token-l-email-de-la-victime.md) ⇄ [Le Téléphone de la Victime](token-le-telephone-de-la-victime.md) ⇄ [L'Adresse de la Victime](token-l-adresse-de-la-victime.md)
+- [L'Email de la Victime](token-victime-email.md) ⇄ [Le Téléphone de la Victime](token-victime-telephone.md) ⇄ [L'Adresse de la Victime](token-victime-adresse.md)
 
 ## Documents liés
 

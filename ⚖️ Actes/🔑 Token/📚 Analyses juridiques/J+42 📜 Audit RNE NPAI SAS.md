@@ -31,12 +31,12 @@ jx: J+42
 
 | Champ | Valeur |
 |-------|--------|
-| SIREN | [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md) |
+| SIREN | [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) |
 | Statut RNE | **Active** (inscrite, dernière MAJ 08/07/2026) |
-| Siège social | [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md) (inchangé) |
-| [**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-capital-social-de-l-exploitation.md) | 200 € |
-| Président | [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) |
-| DG | [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) |
+| Siège social | [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) (inchangé) |
+| [**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) | 200 € |
+| Président | [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) |
+| DG | [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) |
 | Salariés | 0 (zéro) |
 | Établissements | 1 (unique au 22 Rue Lafaurie) |
 | Comptes | **En défaut de publication** |
@@ -52,7 +52,7 @@ Les courriers recommandés adressés à la SAS reviennent NPAI alors que la soci
 La société a 0 salarié. Le salon est fermé depuis l'accident (29 mai 2026). Personne ne réceptionne le courrier.
 
 #### 2. **Directeurs résidant hors Foix**
-[**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) réside à Toulouse (31100). [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) réside à Foix mais peut avoir quitté les lieux.
+[**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) réside à Toulouse (31100). [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) réside à Foix mais peut avoir quitté les lieux.
 
 #### 3. **Évitement délibéré**
 Les dirigeants peuvent avoir demandé le renvoi du courrier ou laissent le courrier s'accumuler sans le réclamer.

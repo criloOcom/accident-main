@@ -21,7 +21,7 @@ type: memory
 
 ## Description détaillée
 
-Première séance de kinésithérapie pour la rééducation fonctionnelle de la main droite, suite à la prescription du Dr [Le Chirurgien SOS Main](token-le-chirurgien-sos-main.md).
+Première séance de kinésithérapie pour la rééducation fonctionnelle de la main droite, suite à la prescription du Dr [Le Chirurgien SOS Main](token-hopital-sosmain-chirurgien.md).
 
 Objectifs de la rééducation :
 - Récupération de la mobilité active et passive de l'index
@@ -34,7 +34,7 @@ La fréquence des séances est de 2 à 3 fois par semaine.
 ## Acteurs concernés
 
 - **[La Victime]** — patient
-- **Kinésithérapeute** (prescrit par [Le Chirurgien SOS Main](token-le-chirurgien-sos-main.md))
+- **Kinésithérapeute** (prescrit par [Le Chirurgien SOS Main](token-hopital-sosmain-chirurgien.md))
 
 ## Conséquences juridiques
 
@@ -44,7 +44,7 @@ La fréquence des séances est de 2 à 3 fois par semaine.
 
 ## Croisements
 
-- [J+25 Première kiné](token-j-25-premiere-kine.md) ⇄ [J+27 Confirmation kiné](token-j-27-confirmation-kine.md) (suivi) ⇄ [Le Chirurgien SOS Main](token-le-chirurgien-sos-main.md) (prescripteur)
+- [J+25 Première kiné](token-j-25-premiere-kine.md) ⇄ [J+27 Confirmation kiné](token-j-27-confirmation-kine.md) (suivi) ⇄ [Le Chirurgien SOS Main](token-hopital-sosmain-chirurgien.md) (prescripteur)
 
 ## Documents liés
 

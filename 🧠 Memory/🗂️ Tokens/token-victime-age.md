@@ -19,7 +19,7 @@ type: memory
 |---|---|
 | **Donnée réelle** | 44 ans |
 | **Type** | Données identifiantes |
-| **Contexte** | Âge de la victime au moment des faits (déduit de [Date de naissance de la victime](token-date-de-naissance-de-la-victime.md)). |
+| **Contexte** | Âge de la victime au moment des faits (déduit de [Date de naissance de la victime](token-victime-date-naissance.md)). |
 
 ## Contexte
 
@@ -27,7 +27,7 @@ type: memory
 
 ## Croisements
 
-- [Âge de la Victime](token-age-de-la-victime.md) ⇄ [Date de naissance de la Victime](token-date-de-naissance-de-la-victime.md)
+- [Âge de la Victime](token-victime-age.md) ⇄ [Date de naissance de la Victime](token-victime-date-naissance.md)
 
 ## Source
 

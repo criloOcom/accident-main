@@ -25,7 +25,7 @@ Détection par **[La Victime]** d'une incohérence dans le dossier CPAM :
 - Le numéro communiqué initialement (31713387 / 31713398) ne correspond pas au dossier ouvert (**31727387**)
 - Confusion entre plusieurs dossiers — risque de rejet de prise en charge ou de retard
 
-**[La Victime]** contacte [La Gestionnaire CPAM](token-la-gestionnaire-cpam.md) pour clarification et régularisation.
+**[La Victime]** contacte [La Gestionnaire CPAM](token-cpam-gestionnaire-nom.md) pour clarification et régularisation.
 
 ⚠ Incident fréquent en dossiers AT/MP — vigilance documentaire accrue.
 
@@ -42,7 +42,7 @@ Détection par **[La Victime]** d'une incohérence dans le dossier CPAM :
 
 ## Croisements
 
-- [J+18 Incohérence CPAM](token-j-18-incoherence-cpam.md) ⇄ [J+5 Ouverture CPAM](token-j-5-ouverture-cpam.md) (ouverture) ⇄ [La Gestionnaire CPAM](token-la-gestionnaire-cpam.md) (interlocutrice)
+- [J+18 Incohérence CPAM](token-j-18-incoherence-cpam.md) ⇄ [J+5 Ouverture CPAM](token-j-5-ouverture-cpam.md) (ouverture) ⇄ [La Gestionnaire CPAM](token-cpam-gestionnaire-nom.md) (interlocutrice)
 
 ## Documents liés
 

@@ -20,11 +20,11 @@ type: memory
 | **Nom réel** | Dr Iskander DJERBI / DJERBI |
 | **Rôle** | Chirurgien de la main — auteur de la microchirurgie et du suivi post-opératoire |
 | **Profession** | Chirurgien orthopédiste, spécialiste de la main |
-| **Établissement** | [L'Établissement SOS Main](token-l-etablissement-sos-main.md) (Clinique de l'Union) |
+| **Établissement** | [L'Établissement SOS Main](token-hopital-sosmain-nom.md) (Clinique de l'Union) |
 
 ## Contexte
 
-Chirurgien ayant pratiqué la **microchirurgie d'urgence** de la main droite de [La Victime](token-la-victime.md) le **30 mai 2026** ([J+1 Chirurgie](token-j-1-chirurgie.md)) : réparation de la section du tendon fléchisseur, du paquet collatéral et neurolyse du nerf palmaire de l'index droit.
+Chirurgien ayant pratiqué la **microchirurgie d'urgence** de la main droite de [La Victime](token-victime-nom-complet.md) le **30 mai 2026** ([J+1 Chirurgie](token-j-1-chirurgie.md)) : réparation de la section du tendon fléchisseur, du paquet collatéral et neurolyse du nerf palmaire de l'index droit.
 
 Il assure ensuite le **suivi chirurgical** : contrôle J+21 le 19 juin 2026 ([J+21 Contrôle chirurgical](token-j-21-controle-chirurgical.md)), prescription de kinésithérapie ([J+25 Première kiné](token-j-25-premiere-kine.md)).
 
@@ -36,7 +36,7 @@ Il assure ensuite le **suivi chirurgical** : contrôle J+21 le 19 juin 2026 ([J+
 
 ## Croisements
 
-- [Le Chirurgien SOS Main](token-le-chirurgien-sos-main.md) ⇄ [L'Établissement SOS Main](token-l-etablissement-sos-main.md) ⇄ [J+1 Chirurgie](token-j-1-chirurgie.md)
+- [Le Chirurgien SOS Main](token-hopital-sosmain-chirurgien.md) ⇄ [L'Établissement SOS Main](token-hopital-sosmain-nom.md) ⇄ [J+1 Chirurgie](token-j-1-chirurgie.md)
 
 ## Documents liés
 

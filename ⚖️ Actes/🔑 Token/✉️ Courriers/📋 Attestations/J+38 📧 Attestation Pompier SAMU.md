@@ -21,13 +21,13 @@ jx: J+38
 <!-- /Breadcrumb -->
 
 # TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (POMPIER / SAMU)
-Objet : Attestation de témoin — Intervention du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md)
+Objet : Attestation de témoin — Intervention du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
 
 <hr><hr>
 
 Bonjour,
 
-Vous êtes intervenu(e) le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) vers 15h00 au salon **Exploitant du Commerce** situé au [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md) pour porter secours à la victime d'un accident corporel (section tendineuse et nerveuse de la main droite).
+Vous êtes intervenu(e) le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) vers 15h00 au salon **Exploitant du Commerce** situé au [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) pour porter secours à la victime d'un accident corporel (section tendineuse et nerveuse de la main droite).
 
 Je me permets de vous solliciter pour remplir une **attestation de témoin** (Cerfa n° 11527\*03) afin de décrire ce que vous avez constaté lors de votre intervention : la nature et la gravité de la blessure, le saignement abondant, l'état de la vasque en céramique, et toute information utile sur les circonstances.
 
@@ -53,8 +53,8 @@ Je vous remercie par avance de votre contribution.
 
 Cordialement,
 
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-[**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
 <hr><hr>
 

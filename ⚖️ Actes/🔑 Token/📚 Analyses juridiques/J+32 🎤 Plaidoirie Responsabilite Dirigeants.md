@@ -27,7 +27,7 @@ Rédigé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F
 Rédigé par : La Victime
 ## INTRODUCTION
 
-Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) dans le cadre de l'accident corporel survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md).
+Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) dans le cadre de l'accident corporel survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md).
 
 Ce document examine les fondements juridiques de la mise en cause de la responsabilité des dirigeants sur le terrain du droit des sociétés, notamment sur le fondement des articles L. 223-22 et L. 225-251 du Code de commerce, ainsi que sur le terrain du droit commun de la responsabilité civile.
 
@@ -44,13 +44,13 @@ Il identifie les manquements aux obligations légales et réglementaires imputab
 
 ## I — PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 
-Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
+Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
-Lors de cet événement, le basculement d'un équipement défectueux a causé une section nerveuse et tendineuse grave à la main dominante de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md).
+Lors de cet événement, le basculement d'un équipement défectueux a causé une section nerveuse et tendineuse grave à la main dominante de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md).
 
-La situation est complexifiée par le silence des dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md), concernant la couverture assurantielle de la structure.
+La situation est complexifiée par le silence des dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), concernant la couverture assurantielle de la structure.
 
-PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) est désigné comme « La Victime », [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) comme « L'Exploitant », et [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) comme « Les Dirigeants ».
+PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) est désigné comme « La Victime », [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) comme « L'Exploitant », et [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) comme « Les Dirigeants ».
 <hr><hr>
 
 ## II — LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS
@@ -66,7 +66,7 @@ Selon la jurisprudence constante Cass. Com., 20 mai 2003 (Arrêt SATI, n° 99-17
 
 Le défaut de souscription d'une assurance obligatoire ou la dissimulation volontaire de celle-ci, entravant l'action directe de La Victime, s'inscrit dans ce cadre.
 
-Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SAS, dont le capital social statutaire s'élève au montant dérisoire de [**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-capital-social-de-l-exploitation.md) (article 25 des statuts), rendant la société structurellement incapable d'assumer la réparation d'un sinistre corporel grave sans assurance active.
+Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SAS, dont le capital social statutaire s'élève au montant dérisoire de [**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) (article 25 des statuts), rendant la société structurellement incapable d'assumer la réparation d'un sinistre corporel grave sans assurance active.
 
 ### B. RESPONSABILITÉ PÉNALE ET FAUTE CARACTÉRISÉE DE SÉCURITÉ
 
