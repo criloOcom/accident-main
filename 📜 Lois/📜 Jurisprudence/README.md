@@ -3,9 +3,9 @@ title: "📜 Jurisprudence"
 description: "Dossier regroupant les arrêts de la Cour de cassation classés par thème juridique."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📜 Jurisprudence
+*[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📜 Jurisprudence*
+<hr>
 <!-- /Breadcrumb -->
 
 # 📜 Jurisprudence

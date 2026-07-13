@@ -15,12 +15,9 @@ destinataire: Tribunal de Commerce de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%
 auteur: Nom de l'Avocat de la Victime
 reel_path: ../../👤 Reel/✉️ Courriers/30 ✉️ Courrier President TC.md
 ---
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 30 ✉️ Courrier President TC
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › J+41 ✉️ Opposition Radiation TC*
+<hr>
 <!-- /Breadcrumb -->
 
 # OPPOSITION CONSERVATOIRE À RADIATION DE SOCIÉTÉ

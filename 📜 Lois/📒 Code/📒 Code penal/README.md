@@ -3,19 +3,9 @@ title: "📒 Code penal"
 description: "Dossier contenant les articles de loi relatifs à 📒 Code penal (8 articles)."
 type: readme
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Code penal
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Code penal*
+<hr>
 <!-- /Breadcrumb -->
 
 # 📒 Code penal

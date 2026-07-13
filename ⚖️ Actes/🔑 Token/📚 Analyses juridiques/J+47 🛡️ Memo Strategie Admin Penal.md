@@ -15,9 +15,9 @@ tags:
 statut: final
 auteur: La Victime
 ---
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](./README.md) › [📚 Analyses juridiques](./README.md) › 21 🛡️ Memo Strategie Administrative Penale
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+47 🛡️ Memo Strategie Admin Penal*
+<hr>
 <!-- /Breadcrumb -->
 
 # MÉMO STRATÉGIQUE — VOIES ADMINISTRATIVE ET PÉNALE

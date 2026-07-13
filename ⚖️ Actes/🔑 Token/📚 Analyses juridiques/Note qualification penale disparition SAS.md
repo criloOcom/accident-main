@@ -5,19 +5,9 @@ type: analyse_juridique
 statut: brouillon
 reel_path: ../../👤 Reel/📚 Analyses juridiques/Note qualification penale disparition SAS.md
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › Note qualification penale disparition SAS
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › Note qualification penale disparition SAS*
+<hr>
 <!-- /Breadcrumb -->
 
 # Note juridique : Qualification pénale — Disparition de la SAS

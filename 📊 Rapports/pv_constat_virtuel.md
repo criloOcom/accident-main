@@ -11,19 +11,9 @@ statut: final
 destinataire: La Victime
 auteur: Huissier de Justice
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › pv constat virtuel
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › pv constat virtuel*
+<hr>
 <!-- /Breadcrumb -->
 
 # PROCÈS-VERBAL DE CONSTAT VIRTUEL — CAHIER DES CHARGES DES OPÉRATIONS À MENER

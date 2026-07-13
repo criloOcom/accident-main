@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000029946370"
 code: "Code général des collectivités territoriales"
 article: "L2212-2"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Autres codes](./README.md) › Article L2212-2 CodeGeneralCollectivitesTerritoriales Legifrance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Autres codes](./README.md) › Article L2212-2 CodeGeneralCollectivitesTerritoriales Legifrance*
+<hr>
 <!-- /Breadcrumb -->
 
 # Article L. 2212-2 du Code général des collectivités territoriales

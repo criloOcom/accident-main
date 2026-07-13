@@ -3,9 +3,9 @@ title: "🗂️ Jetons — Fiches individuelles des tokens d'anonymisation"
 description: "53 fiches enrichies, une par jeton de la TABLE DE SUBSTITUTION. Chaque fiche détaille l'identité, le contexte, la chronologie et les documents liés au jeton."
 type: memory
 ---
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › 🗂️ Jetons
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › 🗂️ Jetons*
+<hr>
 <!-- /Breadcrumb -->
 
 # 🗂️ Jetons — Fiches individuelles

@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT MIGRATION JX 20260712 143701*
+<hr>
+<!-- /Breadcrumb -->
+
 ========================================================================
 RAPPORT DE MIGRATION J+X
 ========================================================================

@@ -3,19 +3,9 @@ title: "TODO — Plans d'action + Tableau de bord Sébastien"
 description: "- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → [📊 Rapports/RAPPORT_AUDIT_RISQUES.md](../%F0%9F%93%8A%20Rapports/RAPPORT_AUDIT_RISQUES.md)"
 type: memory
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › TODO
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › TODO*
+<hr>
 <!-- /Breadcrumb -->
 
 # TODO — Plans d'action + Tableau de bord Sébastien

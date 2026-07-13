@@ -14,19 +14,9 @@ destinataire: President du Tribunal Judiciaire de Foix
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/35 ✉️ Courrier President TJ Foix.md
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 35 ✉️ Courrier President TJ Foix
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+44 ✉️ Preuves Complementaires TJ Foix*
+<hr>
 <!-- /Breadcrumb -->
 
 # TRANSMISSION DE PREUVES COMPLEMENTAIRES AU TRIBUNAL JUDICIAIRE DE FOIX

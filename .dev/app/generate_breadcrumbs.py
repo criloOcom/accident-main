@@ -100,7 +100,7 @@ def build_breadcrumb(rel_md_path):
     # Dossier courant
     if is_readme:
         if N == 0:
-            return "<!-- Breadcrumb -->\n[🏠](README.md)\n<!-- /Breadcrumb -->"
+            return "<!-- Breadcrumb -->\n*[🏠](README.md)*\n<hr>\n<!-- /Breadcrumb -->"
         leaf_label = dir_label(segs[-1])
     else:
         if N == 0:
@@ -118,7 +118,7 @@ def build_breadcrumb(rel_md_path):
     parts = [f"[{lab}]({lnk})" if lnk else lab for lab, lnk in levels]
     parts.append(leaf_label)
     line = SEP.join(parts)
-    return f"<!-- Breadcrumb -->\n{line}\n<!-- /Breadcrumb -->"
+    return f"<!-- Breadcrumb -->\n*{line}*\n<hr>\n<!-- /Breadcrumb -->"
 
 
 def strip_existing_breadcrumb(content):
@@ -144,11 +144,11 @@ def apply_to_file(rel_md_path, dry_run):
     body = strip_existing_breadcrumb(content)
     # Le corps commence par le YAML (ligne 1). On insère le breadcrumb APRES le YAML.
     # Délimite le bloc YAML ---
-    m_yaml = re.match(r'^---\s*\n.*?\n---\s*\n?', body, re.DOTALL)
+    m_yaml = re.match(r'^---\s*\n.*?\n---', body, re.DOTALL)
     if m_yaml:
-        yaml_block = m_yaml.group(0)
-        after = body[m_yaml.end():]
-        new_content = yaml_block + "\n" + new_bc + "\n\n" + after.lstrip("\n")
+        yaml_block = m_yaml.group(0).rstrip("\n")
+        after = body[m_yaml.end():].lstrip("\n")
+        new_content = yaml_block + "\n" + new_bc + "\n\n" + after
     else:
         # Pas de YAML : on met le breadcrumb en 2e (YAML manquant, rare)
         new_content = new_bc + "\n\n" + body.lstrip("\n")

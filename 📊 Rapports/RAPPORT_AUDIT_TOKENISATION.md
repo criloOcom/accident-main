@@ -3,19 +3,9 @@ title: "RAPPORT D'AUDIT DE TOKENISATION"
 description: "Date :** 10 juillet 2026"
 type: rapport
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT TOKENISATION
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT TOKENISATION*
+<hr>
 <!-- /Breadcrumb -->
 
 # RAPPORT D'AUDIT DE TOKENISATION

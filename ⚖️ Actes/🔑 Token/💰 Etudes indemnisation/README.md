@@ -3,19 +3,9 @@ title: "💰 Études d'Indemnisation"
 description: "Ce dossier contient l'évaluation financière des préjudices subis par la victime, selon la nomenclature Dintilhac."
 type: readme
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › 💰 Etudes indemnisation
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › 💰 Etudes indemnisation*
+<hr>
 <!-- /Breadcrumb -->
 
 <hr>

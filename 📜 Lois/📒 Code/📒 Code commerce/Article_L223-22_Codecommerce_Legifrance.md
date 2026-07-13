@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000006223141"
 code: "Code de commerce"
 article: "L223-22"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code commerce](./README.md) › Article L223-22 Codecommerce Legifrance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code commerce](./README.md) › Article L223-22 Codecommerce Legifrance*
+<hr>
 <!-- /Breadcrumb -->
 
 # Article L. 223-22

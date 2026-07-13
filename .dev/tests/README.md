@@ -3,19 +3,9 @@ title: "🧪 Tests"
 description: "Tests unitaires, d'intégration et d'évaluation du projet (dossier .dev/tests)."
 type: readme
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › tests
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › tests*
+<hr>
 <!-- /Breadcrumb -->
 
 # 🧪 Tests

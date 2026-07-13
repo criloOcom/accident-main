@@ -27,22 +27,37 @@ EXCLUDE_DIRS = {".venv", ".git", "node_modules", "__pycache__",
                 ".pytest_cache", ".opencode", ".obsidian"}
 
 
+SEP_BC = " › "
+
+
 def generate_breadcrumb_for_readme(dir_path: str) -> str:
-    """Build HTML-comment breadcrumb for a README at dir_path."""
+    """Build breadcrumb for a README at dir_path (canonical format)."""
     full = Path(dir_path)
     root = Path(PROJECT_ROOT)
     try:
         rel = full.relative_to(root)
     except ValueError:
         return ""
-    parts = list(rel.parts)
-    breadcrumbs = ["[🏠](../README.md)"]
-    for i, p in enumerate(parts):
-        depth = len(parts) - i
-        link = ("../" * depth + "README.md") if depth > 0 else "README.md"
-        breadcrumbs.append(f"📁 [ {p} ]({link})")
-    breadcrumbs.append("📄 [ README.md ](README.md)")
-    return "<!-- " + " > ".join(breadcrumbs) + " -->"
+    segs = list(rel.parts)
+    N = len(segs)
+
+    levels = []
+    # Racine
+    levels.append(("[🏠](../README.md)", True))
+
+    # Ancêtres
+    for k in range(N - 1):
+        label = segs[k]
+        ups = N - k - 1
+        link = "../" * ups + "README.md" if ups > 0 else "README.md"
+        levels.append((f"[{label}]({link})", True))
+
+    # Dossier courant
+    levels.append((segs[-1], False))
+
+    parts = [lab for lab, cl in levels]
+    line = SEP_BC.join(parts)
+    return f"<!-- Breadcrumb -->\n*{line}*\n<hr>\n<!-- /Breadcrumb -->"
 
 
 def read_yaml_from_file(filepath: str) -> dict:

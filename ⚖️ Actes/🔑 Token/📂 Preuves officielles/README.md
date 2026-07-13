@@ -3,19 +3,9 @@ title: "📄 Preuves Officielles"
 description: "Ce dossier recense les documents physiques et officiels produits dans le cadre de la procédure."
 type: readme
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › 📂 Preuves officielles
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › 📂 Preuves officielles*
+<hr>
 <!-- /Breadcrumb -->
 
 # 📄 Preuves Officielles

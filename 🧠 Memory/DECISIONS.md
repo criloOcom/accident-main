@@ -3,19 +3,9 @@ title: "DÉCISIONS CLÉS"
 description: "- Utiliser le bon français avec articles : `**[La Victime]**` PAS `**[Victime]**`"
 type: memory
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › DECISIONS
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › DECISIONS*
+<hr>
 <!-- /Breadcrumb -->
 
 # DÉCISIONS CLÉS

@@ -13,19 +13,9 @@ statut: personnel
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 37 📋 GUIDE DIALOGUE POLICE FOIX
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+47 📋 Guide Dialogue Police*
+<hr>
 <!-- /Breadcrumb -->
 
 > ⚠️ **DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER**
@@ -173,7 +163,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 **Objection : "C'est un litige civil, pas pénal"**
 **Réponse :**
-"Je comprends votre point de vue, mais permettez-moi de vous rappeler que l'obstruction à la justice (Article 434-15 du Code pénal) et la dissimulation de preuves (Article 434-15-1) sont des infractions pénales caractérisées. Ce n'est pas une simple affaire de responsabilité civile, mais bien une entrave délibérée à la manifestation de la vérité et à l'exercice de mes droits. La jurisprudence est claire sur ce point (Cour de cassation, Crim., 10 janvier 2018, n° 16-87.542)."
+"Je comprends votre point de vue, mais permettez-moi de vous rappeler que l'obstruction à la justice (Article 434-15 du Code pénal) et la dissimulation de preuves (Article 434-15-1) sont des infractions pénales caractérisées. Ce n'est pas une simple affaire de responsabilité civile, mais bien une entrave délibérée à la manifestation de la vérité et à l'exercice de mes droits. La jurisprudence est claire sur ce point."
 
 > « Le fait d'user de promesses, offres, présents, pressions, menaces, voies de fait, manoeuvres ou artifices au cours d'une procédure ou en vue d'une demande ou défense en justice afin de déterminer autrui soit à faire ou délivrer une déposition, une déclaration ou une attestation mensongère, soit à s'abstenir de faire ou délivrer une déposition, une déclaration ou une attestation, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende, même si la subornation n'est pas suivie d'effet. » <br>
 > **Code pénal > Section 2 : Des entraves à l'exercice de la justice.** <br>

@@ -11,19 +11,9 @@ reel_path: ../../👤 Reel/✉️ Courriers/J+32 📋 Attestation Temoin Client.
 source: drive
 drive_id: 1mLVji0_j8CTh2TjPr7bXAkoBaR2NmWEH89KXTk7Xbk4
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+32 📋 Attestation Temoin Client
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+32 📋 Attestation Temoin Client*
+<hr>
 <!-- /Breadcrumb -->
 
 # ATTESTATION DE TÉMOIN (CERFA N° 11527*03)Article 202 du Code de procédure civile

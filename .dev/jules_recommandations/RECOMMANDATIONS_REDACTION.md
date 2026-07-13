@@ -3,19 +3,9 @@ title: "Recommandations pour la Rédaction des Actes Juridiques"
 description: "Ce document compile les recommandations issues de recherches web et de l'analyse du dossier [⚖️ Actes](⚖️%20Actes/README.md) afin d'améliorer la qualité, le professionnalisme et la clarté des actes juridiques produits (assignations, constitutions de partie civile, etc.)."
 type: readme
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › [📁 jules_recommandations](./README.md) › RECOMMANDATIONS REDACTION
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › [📁 jules_recommandations](./README.md) › RECOMMANDATIONS REDACTION*
+<hr>
 <!-- /Breadcrumb -->
 
 # Recommandations pour la Rédaction des Actes Juridiques

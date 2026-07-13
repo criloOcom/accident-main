@@ -7,9 +7,9 @@ jx: J+47
 statut: final
 auteur: La Victime
 ---
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › 24 ✅ Bordereau Pieces 15 Juillet
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+47 ✅ Bordereau Pieces 15 Juillet*
+<hr>
 <!-- /Breadcrumb -->
 
 # BORDEREAU - PIÈCES OPÉRATION 15 JUILLET 2026

@@ -11,15 +11,9 @@ statut: original
 source: drive
 drive_id: 1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9
 ---
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260530 SOSMain](./README.md) › 20260530 CR Opératoire RapportInterventionMainDroite
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260530 SOSMain](./README.md) › 20260530 CR Opératoire RapportInterventionMainDroite*
+<hr>
 <!-- /Breadcrumb -->
 
 > 🔗 Source Google Drive : [1lwmms_NV6HY…](https://drive.google.com/open?id=1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9)

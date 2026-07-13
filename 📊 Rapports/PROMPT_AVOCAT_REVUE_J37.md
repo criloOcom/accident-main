@@ -12,6 +12,10 @@ tags:
   - audit-verrouille
 no_index: true
 ---
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › PROMPT AVOCAT REVUE J37*
+<hr>
+<!-- /Breadcrumb -->
 
 # Prompt Avocat — Revue des 12 Courriers J+37
 

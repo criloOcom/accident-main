@@ -3,7 +3,6 @@ title: "⚖️ Bibliothèque Juridique"
 description: "Ce dossier contient les textes de loi et les arrêts de jurisprudence cités dans les actes du dossier."
 type: readme
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › 📜 Lois*
 <hr>

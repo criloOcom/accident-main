@@ -3,19 +3,9 @@ title: "Documentation des scripts de l'application (.dev/app/)"
 description: "Ce dossier contient les scripts fonctionnels utilisés pour le traitement, l'anonymisation, le déploiement et la gestion du dossier Accident de la Main."
 type: readme
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › app
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › app*
+<hr>
 <!-- /Breadcrumb -->
 
 # Documentation des scripts de l'application (.dev/app/)

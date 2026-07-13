@@ -15,19 +15,9 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/13 📜 Responsabilites lega
 source: drive
 drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 13 📜 Responsabilites legales
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses juridiques](./README.md) › J+32 📜 Analyse Responsabilites Legales*
+<hr>
 <!-- /Breadcrumb -->
 
 # ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE [**[L'EXPLOITANT DU COMMERCE (LA SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md)

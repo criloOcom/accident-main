@@ -3,9 +3,9 @@ title: "🏛️ Préjudice corporel et incidence professionnelle"
 description: "Arrêts de la Cour de cassation sur l'évaluation du préjudice corporel et l'incidence professionnelle"
 type: readme
 ---
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📜 Jurisprudence](../README.md) › 🏛️ Préjudice corporel et incidence professionnelle
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📜 Jurisprudence](../README.md) › 🏛️ Préjudice corporel et incidence professionnelle*
+<hr>
 <!-- /Breadcrumb -->
 
 # 🏛️ Préjudice corporel et incidence professionnelle (5 arrêts)

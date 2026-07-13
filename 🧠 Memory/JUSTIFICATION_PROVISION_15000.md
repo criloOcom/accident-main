@@ -3,19 +3,9 @@ title: "Justification de la Provision de 15 000 € en Référé"
 description: "Condition** : l'obligation ne doit pas être sérieusement contestable."
 type: memory
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › JUSTIFICATION PROVISION 15000
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › JUSTIFICATION PROVISION 15000*
+<hr>
 <!-- /Breadcrumb -->
 
 # Justification de la Provision de 15 000 € en Référé

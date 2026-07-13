@@ -13,19 +13,9 @@ auteur: La Victime
 reel_path: ../../👤 Reel/🗄️ Archives/🧠 STRATEGIE Contentieux Civil.md
 source: drive
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📦 Archives](./README.md) › 🧠 STRATEGIE Contentieux Civil
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📦 Archives](./README.md) › 🧠 STRATEGIE Contentieux Civil*
+<hr>
 <!-- /Breadcrumb -->
 
 **Table des matières**
@@ -119,7 +109,7 @@ La demande inclut également la désignation d'un expert médical judiciaire sur
 En parallèle, une procédure de référé-communication peut être engagée pour obtenir la communication forcée de la police d'assurance responsabilité civile de **[L'Exploitant du Commerce (La SAS)]** sous astreinte. Cette mesure conservatoire est essentielle pour permettre l'identification et la mise en cause de l'assureur dans le cadre de l'action directe.
 
 ### 3.3 VOIE CIVI / FGTI (SUBSIDIAIRE)
-Si l'absence d'assurance de **[L'Exploitant du Commerce (La SAS)]** est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
+Si l'absence d'assurance de **[L'Exploitant du Commerce (La SAS)]** est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345).
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>

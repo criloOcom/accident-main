@@ -17,12 +17,9 @@ auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/32 ✉️ Courrier SIE URSSAF Mutualisation.md
 source: local
 ---
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 32 ✉️ Courrier SIE URSSAF Mutualisation
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+41 ✉️ Mutualisation Fiscale Sociale*
+<hr>
 <!-- /Breadcrumb -->
 
 # DEMANDE DE MUTUALISATION FISCALE ET SOCIALE URGENTE

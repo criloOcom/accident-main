@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000038876031"
 code: "Code pénal"
 article: "434-15-1"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code penal](./README.md) › Article 434-15-1 CodePenal Legifrance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code penal](./README.md) › Article 434-15-1 CodePenal Legifrance*
+<hr>
 <!-- /Breadcrumb -->
 
 # Article 434-15-1 du Code pénal

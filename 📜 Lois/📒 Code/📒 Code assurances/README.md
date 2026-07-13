@@ -3,19 +3,9 @@ title: "📒 Code assurances"
 description: "Dossier contenant les articles du Code des assurances."
 type: readme
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Code assurances
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Code assurances*
+<hr>
 <!-- /Breadcrumb -->
 
 # 📒 Code assurances

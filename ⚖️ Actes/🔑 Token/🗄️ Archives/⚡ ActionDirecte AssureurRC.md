@@ -15,19 +15,9 @@ reel_path: ../../👤 Reel/🗄️ Archives/⚡ ActionDirecte AssureurRC.md
 source: drive
 drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📦 Archives](./README.md) › ⚡ ActionDirecte AssureurRC
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📦 Archives](./README.md) › ⚡ ActionDirecte AssureurRC*
+<hr>
 <!-- /Breadcrumb -->
 
 **Table des matières**

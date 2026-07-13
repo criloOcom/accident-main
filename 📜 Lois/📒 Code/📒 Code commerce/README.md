@@ -3,19 +3,9 @@ title: "📒 Code commerce"
 description: "Dossier contenant les articles de loi relatifs à 📒 Code commerce."
 type: readme
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Code commerce
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Code commerce*
+<hr>
 <!-- /Breadcrumb -->
 
 # 📒 Code commerce

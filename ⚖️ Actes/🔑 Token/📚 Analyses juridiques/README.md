@@ -3,19 +3,9 @@ title: "📚 Analyses Juridiques"
 description: "Ce dossier contient les notes d'analyse juridique, les plaidoiries, et les documents de synthèse destinés à l'audience."
 type: readme
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › 📚 Analyses juridiques
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › 📚 Analyses juridiques*
+<hr>
 <!-- /Breadcrumb -->
 
 # 📚 Analyses Juridiques
@@ -45,5 +35,6 @@ Ces documents constituent le socle argumentaire de la procédure.
 - [Note Conservation Preuves Numeriques](Note%20Conservation%20Preuves%20Numeriques.md)
 - [Note Mesures Conservatoires](Note%20Mesures%20Conservatoires.md)
 - [Note qualification penale disparition SAS](Note%20qualification%20penale%20disparition%20SAS.md)
+- [CHANGELOG_JURIDIQUE](CHANGELOG_JURIDIQUE.md)
 - `🧠 Memory/[📊 Rapports/🗄️ Archives/audit/RAPPORT_JURISPRUDENCES.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/RAPPORT_JURISPRUDENCES.md)` — Vérification systématique des citations
 - `🧠 Memory/RAPPORT_PLAN_H.md` — Uniformisation des assignations / bordereaux

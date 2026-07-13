@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000032041571"
 code: "Code civil"
 article: "1240"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code civil](./README.md) › Article1240 CodeCivil
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code civil](./README.md) › Article1240 CodeCivil*
+<hr>
 <!-- /Breadcrumb -->
 
 # Code civil — Art. 1240

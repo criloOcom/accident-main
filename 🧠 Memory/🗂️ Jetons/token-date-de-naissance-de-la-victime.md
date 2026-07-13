@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Jetons — Fiches individuelles des tokens d'anonymisation](./README.md) › token-date-de-naissance-de-la-victime*
+<hr>
+<!-- /Breadcrumb -->
+
 # 📍 Date de naissance de la victime
 
 **Token :** `**[Date de naissance de la victime]**`

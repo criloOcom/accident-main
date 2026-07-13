@@ -5,19 +5,9 @@ type: readme
 statut: brouillon
 reel_path: ../../👤 Reel/🗂️ Organisation/06 📋 Synthese des Actions et Audits.md
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › 06 📋 Synthese des Actions et Audits
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [🗂️ Organisation](./README.md) › 06 📋 Synthese des Actions et Audits*
+<hr>
 <!-- /Breadcrumb -->
 
 # Note de Synthèse — Avancement des Audits & Recommandations

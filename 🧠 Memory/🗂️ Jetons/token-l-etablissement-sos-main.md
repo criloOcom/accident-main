@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Jetons — Fiches individuelles des tokens d'anonymisation](./README.md) › token-l-etablissement-sos-main*
+<hr>
+<!-- /Breadcrumb -->
+
 # 🏢 L'Établissement SOS Main
 
 **Token :** `**[L'Établissement SOS Main]**`

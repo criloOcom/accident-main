@@ -16,19 +16,9 @@ reel_path: ../../👤 Reel/✉️ Courriers/12 ✉️ Courrier URSSAF.md
 source: drive
 drive_id: 1LdLfCnWLiD2v1N1SMF3FAeh681znM0kXOrAlBXeOe8w
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 12 ✉️ Courrier URSSAF
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › J+37 ✉️ Signalement URSSAF*
+<hr>
 <!-- /Breadcrumb -->
 
 # SIGNALEMENT DE TRAVAIL DISSIMULE PRESUME

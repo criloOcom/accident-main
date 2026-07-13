@@ -13,19 +13,9 @@ destinataire: Le Maire
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/29 ✉️ Courrier Maire Foix.md
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 29 ✉️ Courrier Maire Foix
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › J+41 ✉️ Mise en demeure Maire Foix*
+<hr>
 <!-- /Breadcrumb -->
 
 # LETTRE RECOMMANDÉE AVEC ACCUSÉ DE RÉCEPTION

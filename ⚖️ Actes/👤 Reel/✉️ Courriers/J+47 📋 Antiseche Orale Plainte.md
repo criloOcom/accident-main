@@ -4,18 +4,9 @@ description: "DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER. Aide-mémoire pou
 type: antisèche
 statut: personnel
 ---
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+47 📋 Antiseche Orale Plainte
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › J+47 📋 Antiseche Orale Plainte*
+<hr>
 <!-- /Breadcrumb -->
 
 # ⚠️ DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER

@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Jetons — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-41-courrier-sie-urssaf*
+<hr>
+<!-- /Breadcrumb -->
+
 # 📅 J+41 Courrier SIE URSSAF
 
 **Token :** `**[J+41 Courrier SIE URSSAF]**`

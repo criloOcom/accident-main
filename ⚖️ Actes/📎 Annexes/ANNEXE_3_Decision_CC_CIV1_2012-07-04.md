@@ -3,18 +3,9 @@ title: "ANNEXE 3 - Décision Cour de Cassation, Première Chambre Civile, 4 juil
 description: "Numéro de pourvoi:** 11-13.384"
 type: archive
 ---
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [📁 Actes](../README.md) › [📎 Annexes](./README.md) › ANNEXE 3 Decision CC CIV1 2012-07-04
+*[🏠](../../README.md) › [📁 Actes](../README.md) › [📎 Annexes](./README.md) › ANNEXE 3 Decision CC CIV1 2012-07-04*
+<hr>
 <!-- /Breadcrumb -->
 
 statut: annexe

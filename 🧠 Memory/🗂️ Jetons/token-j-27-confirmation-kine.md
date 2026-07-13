@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Jetons — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-27-confirmation-kine*
+<hr>
+<!-- /Breadcrumb -->
+
 # 📅 J+27 Confirmation kiné
 
 **Token :** `**[J+27 Confirmation kiné]**`

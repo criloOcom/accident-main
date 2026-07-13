@@ -3,18 +3,9 @@ title: "ANNEXE 1 - Décision Cour de Cassation, Première Chambre Civile, 30 avr
 description: "Numéro de pourvoi:** 63-13.613"
 type: archive
 ---
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [📁 Actes](../README.md) › [📎 Annexes](./README.md) › ANNEXE 1 Decision CC CIV1 1965-04-30
+*[🏠](../../README.md) › [📁 Actes](../README.md) › [📎 Annexes](./README.md) › ANNEXE 1 Decision CC CIV1 1965-04-30*
+<hr>
 <!-- /Breadcrumb -->
 
 statut: annexe

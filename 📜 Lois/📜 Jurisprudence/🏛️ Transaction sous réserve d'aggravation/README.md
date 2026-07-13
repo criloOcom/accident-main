@@ -3,9 +3,9 @@ title: "🏛️ Transaction sous réserve d'aggravation"
 description: "Arrêts de la Cour de cassation sur la transaction sous réserve d'aggravation et la prescription"
 type: readme
 ---
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📜 Jurisprudence](../README.md) › 🏛️ Transaction sous réserve d'aggravation
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📜 Jurisprudence](../README.md) › 🏛️ Transaction sous réserve d'aggravation*
+<hr>
 <!-- /Breadcrumb -->
 
 # 🏛️ Transaction sous réserve d'aggravation (3 arrêts)

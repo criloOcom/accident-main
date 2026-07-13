@@ -3,19 +3,9 @@ title: "📁 20260629 LR Transmission TribunalFOIX"
 description: "README de la pièce LR Transmission TribunalFOIX"
 type: directory
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › 20260629 ✉️ LR Transmission TribunalFOIX
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › 20260629 ✉️ LR Transmission TribunalFOIX*
+<hr>
 <!-- /Breadcrumb -->
 
 # 📁 20260629 ✉️ LR Transmission TribunalFOIX

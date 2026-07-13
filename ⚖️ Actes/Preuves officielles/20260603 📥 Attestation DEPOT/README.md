@@ -3,19 +3,9 @@ title: "📁 20260603 Attestation DEPOT"
 description: "README de la pièce Attestation DEPOT"
 type: directory
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › 20260603 📥 Attestation DEPOT
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › 20260603 📥 Attestation DEPOT*
+<hr>
 <!-- /Breadcrumb -->
 
 # 📁 20260603 📥 Attestation DEPOT

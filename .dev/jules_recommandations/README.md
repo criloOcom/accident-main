@@ -3,19 +3,9 @@ title: "📁 jules_recommandations"
 description: "Recommandations issues de l'agent Jules pour la rédaction des actes juridiques."
 type: readme
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules recommandations
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules recommandations*
+<hr>
 <!-- /Breadcrumb -->
 
 # 📁 jules_recommandations

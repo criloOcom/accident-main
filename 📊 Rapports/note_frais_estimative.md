@@ -11,19 +11,9 @@ statut: final
 destinataire: La Victime
 auteur: Huissier de Justice
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › note frais estimative
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › note frais estimative*
+<hr>
 <!-- /Breadcrumb -->
 
 # NOTE DE FRAIS ESTIMATIVE ET DEMANDE DE PROVISION

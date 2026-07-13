@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Jetons — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-31-mises-en-demeure*
+<hr>
+<!-- /Breadcrumb -->
+
 # 📅 J+31 Mises en demeure
 
 **Token :** `**[J+31 Mises en demeure]**`

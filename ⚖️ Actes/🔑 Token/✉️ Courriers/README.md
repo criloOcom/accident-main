@@ -3,9 +3,9 @@ title: "✉️ Courriers"
 description: "Ce dossier rassemble l'ensemble des courriers envoyés dans le cadre de la procédure : mises en demeure, signalements administratifs, relances."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › ✉️ Courriers
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › ✉️ Courriers*
+<hr>
 <!-- /Breadcrumb -->
 
 # ✉️ Courriers

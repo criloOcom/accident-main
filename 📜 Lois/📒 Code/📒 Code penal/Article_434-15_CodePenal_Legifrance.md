@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000006418641"
 code: "Code pénal"
 article: "434-15"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code penal](./README.md) › Article 434-15 CodePenal Legifrance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code penal](./README.md) › Article 434-15 CodePenal Legifrance*
+<hr>
 <!-- /Breadcrumb -->
 
 # Article 434-15 du Code pénal

@@ -6,9 +6,9 @@ date: 2026-07-15
 statut: reference
 auteur: La Victime
 ---
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › GESTIONNAIRE DOC
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › GESTIONNAIRE DOC*
+<hr>
 <!-- /Breadcrumb -->
 
 # FICHE RÔLE - GESTIONNAIRE DE DOCUMENTATION

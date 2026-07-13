@@ -3,19 +3,9 @@ title: "RAPPORT DE SYNTHÈSE GLOBALE"
 description: "Projet :** accident-main — Préjudice corporel (main droite écrasée)"
 type: rapport
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT SYNTHESE GLOBALE
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT SYNTHESE GLOBALE*
+<hr>
 <!-- /Breadcrumb -->
 
 # RAPPORT DE SYNTHÈSE GLOBALE

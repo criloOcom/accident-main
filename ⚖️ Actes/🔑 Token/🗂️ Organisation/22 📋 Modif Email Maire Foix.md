@@ -5,19 +5,9 @@ type: readme
 statut: brouillon
 reel_path: ../../👤 Reel/🗂️ Organisation/22 📋 Modif Email Maire Foix.md
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › 22 📋 Modif Email Maire Foix
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › 22 📋 Modif Email Maire Foix*
+<hr>
 <!-- /Breadcrumb -->
 
 # Plan : Ajustement du courriel à l'Adjoint au Maire (Police Municipale et ERP)

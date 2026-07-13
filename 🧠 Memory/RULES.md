@@ -3,19 +3,9 @@ title: "RÈGLES PERMANENTES — Dossier Accident de la Main"
 description: "- **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet ([🧠 Memory/STRICT VARIABLES.md](STRICT%20VARIABLES.md) ou `🧠_M"
 type: memory
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › RULES
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › RULES*
+<hr>
 <!-- /Breadcrumb -->
 
 # RÈGLES PERMANENTES — Dossier Accident de la Main

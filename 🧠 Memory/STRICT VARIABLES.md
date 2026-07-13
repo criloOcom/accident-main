@@ -3,19 +3,9 @@ title: "VARIABLES STRICTES — Source Unique de Vérité"
 description: "NE JAMAIS MODIFIER NI INVENTER.** Ces valeurs prévalent sur tout autre contenu."
 type: memory
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › STRICT VARIABLES
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › STRICT VARIABLES*
+<hr>
 <!-- /Breadcrumb -->
 
 # VARIABLES STRICTES — Source Unique de Vérité

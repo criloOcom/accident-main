@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000024042637"
 code: "Code pénal"
 article: "223-1"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Autres codes](./README.md) › Article 223-1 Code Legifrance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Autres codes](./README.md) › Article 223-1 Code Legifrance*
+<hr>
 <!-- /Breadcrumb -->
 
 # Article 223-1

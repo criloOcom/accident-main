@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000006390155"
 code: "Code général des collectivités territoriales"
 article: "L2212-4"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Autres codes](./README.md) › Article L2212-4 CodeGeneralCollectivitesTerritoriales Legifrance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Autres codes](./README.md) › Article L2212-4 CodeGeneralCollectivitesTerritoriales Legifrance*
+<hr>
 <!-- /Breadcrumb -->
 
 # Article L. 2212-4 du Code général des collectivités territoriales

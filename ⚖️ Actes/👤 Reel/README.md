@@ -4,19 +4,9 @@ breadcrumb: "👤 Réel"
 description: "Ce dossier contient les versions réelles de tous les actes."
 type: readme
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [📁 Actes](../README.md) › 👤 Reel
+*[🏠](../../README.md) › [📁 Actes](../README.md) › 👤 Reel*
+<hr>
 <!-- /Breadcrumb -->
 
 # 📁 Actes / reel — Version Réelle

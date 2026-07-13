@@ -16,19 +16,9 @@ reel_path: ../../👤 Reel/✉️ Courriers/04 ✉️ Courrier Assureur.md
 source: drive
 drive_id: 14VIXTJK4n9eH66eVNZ6hJO6gLkiRBqnJpWijsDbkE2k
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 04 ✉️ Courrier Assureur
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+31 ✉️ Mise en demeure Assureur*
+<hr>
 <!-- /Breadcrumb -->
 
 # ACTION DIRECTE — MISE EN DEMEURE ASSUREUR RC

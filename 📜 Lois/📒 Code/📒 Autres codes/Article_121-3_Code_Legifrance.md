@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000006417208"
 code: "Code pénal"
 article: "121-3"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Autres codes](./README.md) › Article 121-3 Code Legifrance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Autres codes](./README.md) › Article 121-3 Code Legifrance*
+<hr>
 <!-- /Breadcrumb -->
 
 # Article 121-3

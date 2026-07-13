@@ -4,19 +4,9 @@ breadcrumb: "📎 Annexes"
 description: "README du dossier Annexes"
 type: directory
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [📁 Actes](../README.md) › 📎 Annexes
+*[🏠](../../README.md) › [📁 Actes](../README.md) › 📎 Annexes*
+<hr>
 <!-- /Breadcrumb -->
 
 # 📁 📎 Annexes

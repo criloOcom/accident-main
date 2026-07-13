@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Jetons — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-21-controle-chirurgical*
+<hr>
+<!-- /Breadcrumb -->
+
 # 📅 J+21 Contrôle chirurgical
 
 **Token :** `**[J+21 Contrôle chirurgical]**`

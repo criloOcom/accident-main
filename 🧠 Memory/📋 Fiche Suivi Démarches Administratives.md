@@ -12,9 +12,9 @@ statut: travail_en_cours
 auteur: La Victime
 categorie: fiche_suivi
 ---
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › 📋 Fiche Suivi Démarches Administratives
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › 📋 Fiche Suivi Démarches Administratives*
+<hr>
 <!-- /Breadcrumb -->
 
 # 📋 FICHE DE SUIVI — DÉMARCHES ADMINISTRATIVES

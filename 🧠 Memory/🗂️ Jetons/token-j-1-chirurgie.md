@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Jetons — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-1-chirurgie*
+<hr>
+<!-- /Breadcrumb -->
+
 # 📅 J+1 Chirurgie
 
 **Token :** `**[J+1 Chirurgie]**`

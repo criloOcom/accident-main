@@ -12,19 +12,9 @@ tags:
 statut: final
 auteur: Agent d'audit
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT CHECKLIST
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT CHECKLIST*
+<hr>
 <!-- /Breadcrumb -->
 
 # RAPPORT D'AUDIT — CHECKLIST ENVOI LRAR 11 JUILLET 2026

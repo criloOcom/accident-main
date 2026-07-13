@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000049464053"
 code: "Code de la consommation"
 article: "L421-3"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Autres codes](./README.md) › Article L421-3 Codeconsommation Legifrance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Autres codes](./README.md) › Article L421-3 Codeconsommation Legifrance*
+<hr>
 <!-- /Breadcrumb -->
 
 # Article L421-3

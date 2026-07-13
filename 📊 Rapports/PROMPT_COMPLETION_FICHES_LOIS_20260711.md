@@ -3,19 +3,9 @@ title: "PROMPT — Complétion des 5 fiches 📜 Lois (MCP Légifrance)"
 description: "Prompt à confier à l'agent disposant du MCP Légifrance/Judilibre pour compléter le corps des 5 fiches marquées À VÉRIFIER."
 type: rapport
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › PROMPT COMPLETION FICHES LOIS 20260711
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › PROMPT COMPLETION FICHES LOIS 20260711*
+<hr>
 <!-- /Breadcrumb -->
 
 # PROMPT — Complétion des 5 fiches 📜 Lois

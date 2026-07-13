@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Jetons — Fiches individuelles des tokens d'anonymisation](./README.md) › token-date-reouverture-boutique*
+<hr>
+<!-- /Breadcrumb -->
+
 # ⏱ DATE REOUVERTURE BOUTIQUE
 
 **Token :** `**[DATE REOUVERTURE BOUTIQUE]**`

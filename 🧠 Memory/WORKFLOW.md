@@ -3,19 +3,9 @@ title: "WORKFLOW D'ANONYMIZATION"
 description: "1. **Lire** l'original avec `readDocument` (format text)"
 type: memory
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › WORKFLOW
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › WORKFLOW*
+<hr>
 <!-- /Breadcrumb -->
 
 # WORKFLOW D'ANONYMIZATION

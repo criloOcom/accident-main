@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000006230063"
 code: "Code de commerce"
 article: "L237-2"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code commerce](./README.md) › Article L237-2 Codecommerce Legifrance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code commerce](./README.md) › Article L237-2 Codecommerce Legifrance*
+<hr>
 <!-- /Breadcrumb -->
 
 # Article L237-2

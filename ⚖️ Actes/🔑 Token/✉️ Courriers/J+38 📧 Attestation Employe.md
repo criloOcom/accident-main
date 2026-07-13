@@ -14,19 +14,9 @@ auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/28 📧 Attestation Employe.md
 source: local
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 28 📧 Attestation Employe
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+38 📧 Attestation Employe*
+<hr>
 <!-- /Breadcrumb -->
 
 # TRANSMISSION — GABARIT D'ATTESTATION DE TÉMOIN (EMPLOYÉ)

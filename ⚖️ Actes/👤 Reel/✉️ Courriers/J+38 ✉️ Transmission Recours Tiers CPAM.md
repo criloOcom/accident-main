@@ -17,19 +17,9 @@ reel_path: ../../👤 Reel/✉️ Courriers/17 ✉️ Courrier CPAM.md
 source: drive
 drive_id: 1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 17 ✉️ Courrier CPAM
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › J+38 ✉️ Transmission Recours Tiers CPAM*
+<hr>
 <!-- /Breadcrumb -->
 
 # TRANSMISSION ET BORDEREAU RECAPITULATIF — RECOURS CONTRE TIERS

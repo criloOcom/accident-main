@@ -13,9 +13,9 @@ statut: travail_en_cours
 auteur: La Victime
 categorie: calendrier
 ---
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › 📆 Mini Calendrier Procedure
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › 📆 Mini Calendrier Procedure*
+<hr>
 <!-- /Breadcrumb -->
 
 # 📆 MINI CALENDRIER — PROCÉDURE ACCIDENT FOIX

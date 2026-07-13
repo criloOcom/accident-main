@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000006444186"
 code: "Code civil"
 article: "1844-8"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Autres codes](./README.md) › Article 1844-8 Code Legifrance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Autres codes](./README.md) › Article 1844-8 Code Legifrance*
+<hr>
 <!-- /Breadcrumb -->
 
 # Article 1844-8

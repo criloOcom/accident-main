@@ -3,19 +3,9 @@ title: "AGENTS — Documentation Partagée"
 description: "Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, etc.) travaillant sur le dossier Accident de la Main."
 type: document
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](./README.md) › AGENTS
+*[🏠](./README.md) › AGENTS*
+<hr>
 <!-- /Breadcrumb -->
 
 # AGENTS — Documentation Partagée

@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000044052542"
 code: "Code de commerce"
 article: "L611-3"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Autres codes](./README.md) › Article L611-3 Code Legifrance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Autres codes](./README.md) › Article L611-3 Code Legifrance*
+<hr>
 <!-- /Breadcrumb -->
 
 # Article L611-3

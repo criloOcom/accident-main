@@ -3,9 +3,9 @@ title: "🏛️ Action directe et obligation d'assurance"
 description: "Arrêts de la Cour de cassation sur l'action directe contre l'assureur et l'obligation d'assurance"
 type: readme
 ---
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📜 Jurisprudence](../README.md) › 🏛️ Action directe et obligation d'assurance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📜 Jurisprudence](../README.md) › 🏛️ Action directe et obligation d'assurance*
+<hr>
 <!-- /Breadcrumb -->
 
 # 🏛️ Action directe et obligation d'assurance (3 arrêts)

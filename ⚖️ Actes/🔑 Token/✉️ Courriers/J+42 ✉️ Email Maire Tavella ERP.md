@@ -9,19 +9,9 @@ destinataire: Adjoint au Maire de [**[La Ville de l'Accident]**](../../../%F0%9F
 auteur: La Victime
 reel_path: ../../👤 Reel/✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 34 ✉️ EMAIL Maire Foix - Police Municipale ERP
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › J+42 ✉️ Email Maire Tavella ERP*
+<hr>
 <!-- /Breadcrumb -->
 
 # EMAIL — Éléments d'actualisation sur le dossier ERP ([**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-adresse-de-l-exploitation.md))

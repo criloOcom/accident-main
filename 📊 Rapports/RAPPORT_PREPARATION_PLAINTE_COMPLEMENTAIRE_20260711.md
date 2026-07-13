@@ -3,19 +3,9 @@ title: "RAPPORT DE PRÉPARATION — Plainte Complémentaire Police Foix"
 description: "Date** : 11 juillet 2026"
 type: rapport
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT PREPARATION PLAINTE COMPLEMENTAIRE 20260711
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT PREPARATION PLAINTE COMPLEMENTAIRE 20260711*
+<hr>
 <!-- /Breadcrumb -->
 
 # RAPPORT DE PRÉPARATION — Plainte Complémentaire Police Foix
@@ -95,7 +85,7 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 **A. Obstruction à la justice (Art. 434-15 CP)**
 - Refus de communiquer l'assurance RC (LRAR retournés NPAI)
 - Dissimulation des vidéosurveillances (délai 30 jours dépassé)
-- Jurisprudence : Cour de cassation, Crim., 10/01/2018, n° 16-87.542
+- Jurisprudence : (À identifier — Légifrance n'a pas retrouvé le pourvoi 16-87.542)
 
 **B. Dissimulation de preuves (Art. 434-15-1 CP)**
 - Société fantôme (0 salarié, pas de représentant joignable)

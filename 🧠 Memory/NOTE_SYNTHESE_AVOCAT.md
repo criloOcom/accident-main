@@ -3,19 +3,9 @@ title: "Note de Synthèse pour Avocat"
 description: "<hr><hr>"
 type: memory
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › NOTE SYNTHESE AVOCAT
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › NOTE SYNTHESE AVOCAT*
+<hr>
 <!-- /Breadcrumb -->
 
 # Note de Synthèse pour Avocat

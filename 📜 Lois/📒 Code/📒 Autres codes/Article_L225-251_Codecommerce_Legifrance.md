@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000006226329"
 code: "Code de commerce"
 article: "L225-251"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Autres codes](./README.md) › Article L225-251 Codecommerce Legifrance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Autres codes](./README.md) › Article L225-251 Codecommerce Legifrance*
+<hr>
 <!-- /Breadcrumb -->
 
 # Article L. 225-251

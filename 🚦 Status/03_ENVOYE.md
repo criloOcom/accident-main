@@ -3,19 +3,9 @@ title: "✅ Envoyé"
 description: "Documents avec preuve de délivrance (LRAR, AR, dépôt au greffe)."
 type: status
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [🚦 Status — Index des documents par statut](./README.md) › 03 ENVOYE
+*[🏠](../README.md) › [🚦 Status — Index des documents par statut](./README.md) › 03 ENVOYE*
+<hr>
 <!-- /Breadcrumb -->
 
 # ✅ Envoyé

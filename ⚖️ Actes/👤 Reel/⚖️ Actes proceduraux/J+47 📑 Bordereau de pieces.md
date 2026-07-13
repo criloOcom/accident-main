@@ -14,19 +14,9 @@ destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
 source: drive
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [⚖️ Actes proceduraux](./README.md) › 04 📑 Bordereau de pieces
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [⚖️ Actes proceduraux](./README.md) › J+47 📑 Bordereau de pieces*
+<hr>
 <!-- /Breadcrumb -->
 
 # BORDEREAU DE PIÈCES

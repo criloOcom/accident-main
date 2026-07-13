@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Jetons — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-2-sortie*
+<hr>
+<!-- /Breadcrumb -->
+
 # 📅 J+2 Sortie
 
 **Token :** `**[J+2 Sortie]**`

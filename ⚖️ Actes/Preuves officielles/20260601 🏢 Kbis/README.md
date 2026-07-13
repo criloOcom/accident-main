@@ -3,6 +3,10 @@ title: "📁 20260601 Kbis"
 description: "README de la pièce Kbis"
 type: directory
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › 20260601 🏢 Kbis*
+<hr>
+<!-- /Breadcrumb -->
 
 # 📁 20260601 🏢 Kbis
 

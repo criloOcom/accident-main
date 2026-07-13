@@ -17,15 +17,9 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/02b 🛡️ Constitution Par
 source: drive
 drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
 ---
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 02b 🛡️ Constitution Partie Civile
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › J+38 🛡️ Constitution Partie Civile*
+<hr>
 <!-- /Breadcrumb -->
 
 # [CONSTITUTION DE PARTIE CIVILE](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)

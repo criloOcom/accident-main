@@ -5,19 +5,9 @@ type: assignation
 statut: brouillon
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/16 ⚠️ Signalement Parquet Fraud.md
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 16 ⚠️ Signalement Parquet Fraud
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 16 ⚠️ Signalement Parquet Fraud*
+<hr>
 <!-- /Breadcrumb -->
 
 # SIGNALEMENT AU PROCUREUR DE LA RÉPUBLIQUE

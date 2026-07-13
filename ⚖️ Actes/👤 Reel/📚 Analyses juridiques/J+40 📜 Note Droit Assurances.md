@@ -14,19 +14,9 @@ auteur: La Victime
 reel_path: ../../👤 Reel/📚 Analyses juridiques/15 Note Droit Assurances.md
 source: local
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 15 Note Droit Assurances
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses juridiques](./README.md) › J+40 📜 Note Droit Assurances*
+<hr>
 <!-- /Breadcrumb -->
 
 # NOTE D'ANALYSE JURIDIQUE SPÉCIALE - DROIT DES ASSURANCES
@@ -98,7 +88,7 @@ L'action directe fonde la demande en référé-provision à l'encontre de l'assu
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. » <br>
 > **Code de procédure civile > Livre Ier > Titre XXI > Chapitre II.** <br>
-> [Article 835](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039480112) <br>
+> [Article 835](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
 
 Dès l'assureur identifié (suite à l'ordonnance Article 145), il sera mis en cause directement devant le juge des référés pour obtenir le paiement immédiat de la provision et la désignation d'un expert.
 

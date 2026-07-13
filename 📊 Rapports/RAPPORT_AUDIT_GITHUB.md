@@ -3,19 +3,9 @@ title: "RAPPORT D'AUDIT — Repository GitHub"
 description: "Projet** : accident-main · **Remote** : `github.com/criloOcom/accident-main.git`"
 type: rapport
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT GITHUB
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT GITHUB*
+<hr>
 <!-- /Breadcrumb -->
 
 # RAPPORT D'AUDIT — Repository GitHub

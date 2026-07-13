@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000006418608"
 code: "Code pénal"
 article: "434-4"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code penal](./README.md) › Article 434-4 CodePenal Legifrance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code penal](./README.md) › Article 434-4 CodePenal Legifrance*
+<hr>
 <!-- /Breadcrumb -->
 
 # Article 434-4 du Code pénal

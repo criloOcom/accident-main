@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000019017259"
 code: "Code civil"
 article: "2226"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code civil](./README.md) › Article 2226 Code Legifrance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code civil](./README.md) › Article 2226 Code Legifrance*
+<hr>
 <!-- /Breadcrumb -->
 
 # Article 2226

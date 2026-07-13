@@ -3,19 +3,9 @@ title: "PLAN D'ACTION B — OBTENTION DES PREUVES MATÉRIELLES"
 description: "| Action | Détail | Documents nécessaires | Destinataire | Statut |"
 type: memory
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › PLAN ACTION B
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › PLAN ACTION B*
+<hr>
 <!-- /Breadcrumb -->
 
 # PLAN D'ACTION B — OBTENTION DES PREUVES MATÉRIELLES

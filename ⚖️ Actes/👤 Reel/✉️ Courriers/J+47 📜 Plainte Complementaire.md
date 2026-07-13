@@ -17,14 +17,11 @@ tags:
 statut: a_deposer_15_juillet
 destinataire: Commissariat de Police de Foix
 auteur: La Victime
-reel_path: ../../👤 Reel/✉️ Courriers/36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md
+reel_path: ../../👤 Reel/✉️ Courriers/J+47 📜 Plainte Complementaire.md
 ---
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 36 📜 PLAINTE COMPLEMENTAIRE POLICE FOIX
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [✉️ Courriers](./README.md) › J+47 📜 Plainte Complementaire*
+<hr>
 <!-- /Breadcrumb -->
 
 # PLAINTE COMPLÉMENTAIRE
@@ -102,19 +99,18 @@ Il appartiendra à l'enquête et, le cas échéant, à la juridiction saisie, de
    - Ces courriers m'ont été retournés avec la mention "défaut d'adresse / distribution impossible", alors que la société est toujours officiellement immatriculée à cette adresse (vérification RNE/INPI du 10 juillet 2026).
    - Ce refus de communiquer une information essentielle à l'indemnisation me semble susceptible de constituer une **dissimulation d'un document de nature à faciliter la recherche des preuves**.
 
-2. **Risque d'effacement des enregistrements de vidéosurveillance**
-   - L'établissement était équipé de caméras de vidéosurveillance. Les enregistrements constituent une preuve matérielle essentielle des circonstances de l'accident.
-   - Malgré ma demande formelle, ces enregistrements n'ont jamais été communiqués.
-   - Le délai de conservation standard de 60 jours expire avant le 15 août 2026, entraînant la destruction définitive de ces preuves.
-   - Ce risque d'effacement me paraît susceptible de constituer une **tentative de modification de l'état des lieux par effacement des traces**.
+2. **Absence de suite donnée à la demande de conservation des enregistrements de vidéosurveillance**
+
+L'établissement était équipé de caméras de vidéosurveillance. Les enregistrements constituent une preuve matérielle importante des circonstances exactes de l'accident.
+
+Par courrier recommandé du 5 juillet 2026, j'ai demandé formellement à l'exploitant de conserver et de communiquer les enregistrements de vidéosurveillance couvrant la période de l'accident. À ce jour, je n'ai reçu aucune réponse ni indication que des mesures de conservation particulières auraient été prises.
+
+Or, à défaut d'intervention spécifique, les enregistrements de vidéosurveillance sont en principe supprimés automatiquement à l'expiration du délai légal ou contractuel de conservation (en pratique de l'ordre de quelques semaines). L'absence de réaction de l'exploitant fait craindre que ces images puissent disparaître sans avoir été versées à la procédure, alors même qu'elles sont de nature à éclairer la matérialité des faits et les responsabilités en cause.
 
 3. **Société injoignable malgré une immatriculation active**
    - La SAS est officiellement active selon le RNE, mais aucun représentant légal n'est joignable à l'adresse déclarée.
    - Les courriers recommandés sont systématiquement retournés NPAI.
    - Cette situation me semble de nature à entraver la manifestation de la vérité.
-
-**Jurisprudence applicable :**
-> Cour de cassation, Crim., 10 janvier 2018, n° 16-87.542 : "Constitue une obstruction à la manifestation de la vérité la destruction ou la rétention de documents ou enregistrements de nature à établir la matérialité des faits."
 
 Il appartiendra à l'enquête de déterminer si ces comportements sont constitutifs de l'infraction prévue à l'article 434-4 du Code pénal.
 
@@ -141,37 +137,29 @@ Ces éléments me laissent craindre l'existence de faits de travail dissimulé, 
 
 ## III. DEMANDE D'ENQUÊTE APPROFONDIE
 
-Au vu des éléments ci-dessus exposés, je sollicite de votre bienveillance l'ouverture d'une **enquête approfondie** afin de :
+Au vu des éléments ci-dessus exposés, je sollicite respectueusement qu'il soit procédé, dans la mesure du possible, aux vérifications suivantes, sans préjudice de toute investigation que vous jugeriez utile.
 
-### 1. VÉRIFICATION DE L'ÉTABLISSEMENT
-- **Contrôle physique** des locaux du salon "Les Mauvais Garçons"
-- **Vérification de l'état actuel** de la vasque cassée et des équipements
-- **Recherche des responsables présents** sur place
-- **Contrôle de l'affichage obligatoire** (registre du personnel, consignes de sécurité)
+### 1. Conservation et exploitation des éléments de preuve
 
-### 2. RECHERCHE DES VIDÉOS DE VIDÉOSURVEILLANCE
-- **Saisie des enregistrements** encore disponibles
-- **Vérification des systèmes de conservation**
-- **Audit des délais de conservation** respectés
-- **Recueil des déclarations** des personnes ayant eu accès aux enregistrements
+- Qu'il soit recherché si des enregistrements de vidéosurveillance relatifs à la période de l'accident sont encore disponibles auprès de l'exploitant, et, dans l'affirmative, qu'ils soient conservés et versés à la procédure afin de documenter précisément la scène.
+- Qu'il soit vérifié, le cas échéant, quelles mesures ont été prises (ou non) par l'exploitant à la suite de ma demande formelle de conservation des enregistrements, notamment quant au risque de suppression automatique des images.
+- Qu'il soit pris acte des difficultés rencontrées pour joindre les dirigeants (courriers recommandés revenus NPAI, société déclarée active mais injoignable à l'adresse officielle) en tant qu'éléments de contexte sur l'accès aux preuves et aux informations.
 
-### 3. IDENTIFICATION DES RESPONSABLES ACTUELS
-- **Audition des personnes présentes** dans le salon
-- **Vérification des déclarations** sociales et fiscales
-- **Recoupement avec les registres** RNE/INPI/URSSAF
-- **Recherche des bénéficiaires effectifs** de l'activité
+### 2. Identification des personnes responsables et du cadre d'exploitation
 
-### 4. CONTRÔLE DE CONFORMITÉ ERP
-- **Vérification du respect** des normes de sécurité des ERP
-- **Contrôle des équipements** et installations
-- **Audit des mesures de prévention** des risques
-- **Contrôle des assurances** obligatoires
+- Qu'il puisse être procédé à l'audition des personnes travaillant ou ayant travaillé dans le salon, afin de préciser leurs fonctions, leurs conditions d'emploi et leur rôle au moment de l'accident.
+- Qu'il soit vérifié, auprès des registres compétents (RNE/INPI, URSSAF, etc.), la réalité des déclarations de salariés de la SAS ainsi que l'identité et l'adresse actuelle de ses dirigeants effectifs.
+- Qu'il soit recherché l'existence et les coordonnées de l'assureur en responsabilité civile de l'établissement, et, le cas échéant, les déclarations de sinistre éventuellement effectuées à la suite de l'accident.
 
-### 5. ENQUÊTE FINANCIÈRE
-- **Vérification de la solvabilité** réelle de la SAS
-- **Recherche d'éventuels transferts** de fonds ou actifs
-- **Contrôle des comptes bancaires** professionnels
-- **Audit des déclarations fiscales** récentes
+### 3. Vérification des conditions matérielles de sécurité
+
+- Qu'un constat puisse être réalisé, si cela est encore possible, de l'état de la vasque de shampooing et des équipements en place (ou de ceux qui les ont remplacés), ainsi que des éventuelles réparations ou modifications intervenues depuis l'accident.
+- Qu'il soit vérifié si, au moment des faits, un équipement d'accès en hauteur adapté (escabeau, marchepied, etc.) était disponible pour intervenir sur le poste de télévision, ou si, en pratique, les préposés devaient monter sur la vasque.
+- De manière générale, qu'il soit examiné si les conditions d'exploitation de l'établissement respectaient les obligations élémentaires de sécurité à l'égard du public et des personnes amenées à y travailler.
+
+---
+
+Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière de conformité ERP et d'analyse financière de la société) peuvent être trouvées en **Annexe 3 : Pistes d'enquête complémentaires**, sans préjudice de votre appréciation souveraine sur les investigations utiles.
 
 <hr><hr>
 
@@ -279,3 +267,63 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de P
 | 10/07/2026 | Audit RNE/INPI — société active mais injoignable | Note d'audit |
 | 15/07/2026 | Dépôt requête Art. 145 CPC (assurance RC + conservation vidéos) | Récépissé greffe |
 | 15/07/2026 | Présente plainte complémentaire | Récépissé Commissariat |
+
+<hr><hr>
+
+## ANNEXE 3 : PISTES D'ENQUÊTE COMPLÉMENTAIRES
+
+Les éléments ci-après sont proposés à titre de suggestions pour l'enquête, sans préjudice de l'appréciation souveraine de l'Officier de Police Judiciaire et du Procureur de la République sur les investigations utiles.
+
+### 1. Vérification détaillée de l'établissement
+
+1.1. Constatation sur place de l'état des locaux du salon « Les Mauvais Garçons » (configuration des postes de coiffure, emplacement du poste de télévision, circulation du public).
+
+1.2. Vérification de l'état actuel du bac à shampoing en céramique impliqué dans l'accident (existence d'une cassure, de bords tranchants, stabilité de la vasque) ou, en cas de remplacement, constat de la modification intervenue.
+
+1.3. Vérification de la présence éventuelle de dispositifs de signalisation de danger, de protections provisoires ou de consignes écrites relatives à l'usage du bac à shampoing.
+
+1.4. Contrôle sur place de l'affichage légal obligatoire (coordonnées de l'exploitant, registre du personnel, consignes de sécurité, informations sur l'assurance RC, etc.).
+
+### 2. Recherche et conservation des enregistrements de vidéosurveillance
+
+2.1. Identification des dispositifs de vidéosurveillance installés dans le salon (nombre de caméras, zones couvertes, date de mise en service, prestataire éventuel).
+
+2.2. Vérification auprès de l'exploitant et/ou du prestataire de la durée effective de conservation des images et des procédures internes de suppression automatique.
+
+2.3. Recherche de l'existence d'enregistrements couvrant la date et l'heure de l'accident (29 mai 2026, vers 15h00) et, le cas échéant, saisie ou copie des images restantes.
+
+2.4. Recueil des explications de l'exploitant et/ou du prestataire sur les mesures (ou absence de mesures) prises à la suite des demandes de conservation formulées par la victime.
+
+### 3. Identification des personnes physiques impliquées et des conditions d'emploi
+
+3.1. Audition du préposé qui se trouvait sur le bac à shampoing au moment de l'accident, sur ses fonctions, son statut (salarié, stagiaire, aide non déclarée, etc.) et ses consignes de travail.
+
+3.2. Audition des autres personnes présentes (personnel, témoins, autres clients) sur les conditions dans lesquelles le préposé est monté sur la vasque et sur l'état visible du matériel.
+
+3.3. Vérification des déclarations de salariés de la SAS auprès des organismes compétents (URSSAF, RNE/INPI, etc.) pour s'assurer de la concordance entre l'activité constatée et les effectifs déclarés.
+
+3.4. Recueil des explications des dirigeants sur l'organisation du travail, la répartition des tâches et la présence éventuelle de personnes non déclarées dans l'établissement.
+
+### 4. Contrôle de conformité en matière de sécurité et d'ERP
+
+4.1. Vérification de l'existence d'autorisations administratives relatives à l'établissement recevant du public (dossiers d'ouverture, avis de commission de sécurité, éventuels contrôles antérieurs).
+
+4.2. Examen de l'existence d'un registre de sécurité et de consignes d'évacuation affichées, ainsi que de la formation éventuelle du personnel aux règles de sécurité.
+
+4.3. Vérification de la présence d'un équipement d'accès en hauteur adapté (escabeau, marchepied, plateforme) pour intervenir sur le poste de télévision ou d'autres éléments en hauteur, au moment des faits et lors du constat.
+
+4.4. Examen des éventuelles mesures correctrices prises après l'accident (remplacement du bac, réorganisation de l'installation du téléviseur, ajout d'équipements de sécurité ou de consignes).
+
+### 5. Pistes d'enquête financière et de solvabilité (en lien avec l'indemnisation)
+
+5.1. Vérification de la réalité de l'activité économique de la SAS (chiffre d'affaires, volume de clientèle, charges, effectifs), au regard notamment du capital social limité (200 €).
+
+5.2. Recherche d'éventuels transferts récents d'actifs ou de fonds (changement de siège, mouvements bancaires significatifs, cessions de parts, etc.) susceptibles d'affecter la solvabilité future de la société.
+
+5.3. Vérification de l'existence et des caractéristiques des contrats d'assurance (police de responsabilité civile professionnelle, garanties, exclusions, déclarations de sinistre faites ou non après l'accident).
+
+5.4. Recueil, le cas échéant, de tout élément laissant apparaître une organisation patrimoniale ou juridique destinée à soustraire des actifs à la réparation des dommages (multiplication de structures, dirigeants de paille, etc.).
+
+---
+
+Ces pistes ont pour seul objet de faciliter l'appréhension globale de la situation par les services d'enquête et de permettre, si vous le jugez opportun, de rassembler les éléments nécessaires à la manifestation de la vérité et à l'indemnisation de la victime.

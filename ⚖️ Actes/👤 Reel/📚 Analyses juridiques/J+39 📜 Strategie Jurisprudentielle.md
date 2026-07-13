@@ -12,19 +12,9 @@ auteur: La Victime
 reel_path: ../../👤 Reel/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md
 source: local
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 14 Stratégie jurisprudentielle
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses juridiques](./README.md) › J+39 📜 Strategie Jurisprudentielle*
+<hr>
 <!-- /Breadcrumb -->
 
 # STRATÉGIE JURISPRUDENTIELLE — BASCULEMENT VASQUE SALON DE COIFFURE
@@ -50,7 +40,7 @@ source: local
 ### PILIER 3 — LE COMMETTANT RÉPOND DU PRÉPOSÉ (ART. 1242 AL.5)
 | Situation | Principe | Arrêt |
 |-----------|----------|-------|
-| Le préposé monte sur la vasque pour régler la télévision | Le commettant répond des fautes du préposé dans l'exercice de ses fonctions | **Civ. 2e, 14 juin 1957** — fondement de la responsabilité du commettant |
+| Le préposé monte sur la vasque pour régler la télévision | Le commettant répond des fautes du préposé dans l'exercice de ses fonctions | **Civ. 2e, 14 juin 1957** (n° pourvoi non retrouvé — fondement historique, se référer à Costedoat ci-contre pour la version moderne) |
 | Le préposé n'a pas commis de faute intentionnelle | Il bénéficie de l'immunité civile Costedoat | **Ass. Plén., 25 fév. 2000, n° 97-17.378** (Costedoat) |
 | La faute du préposé est une maladresse non intentionnelle | L'employeur assume seul la réparation | **Ass. Plén., 14 déc. 2001, n° 00-82.066** (Cousin) : seule une infraction pénale intentionnelle fait perdre l'immunité |
 
@@ -78,7 +68,7 @@ source: local
 | 91-13.580 | Barrière conforme aux normes heurtée par skieuse → pas d'instrument | Vasque non conforme (cassure) + basculement → distinction | **Distinction défensive** |
 | 24-21.702 | Échelle pas prouvée comme ayant basculé → rejet | Basculé établi par PV → distinction | **Distinction défensive** |
 | 70-12.124 | Baignoire non scellée → pas de participation au dommage | Vasque installée à demeure (pas exposée à la vente) → distinction | **Distinction défensive** |
-| 14 juin 1957 | Responsabilité du commettant du fait du préposé | Le préposé escalade la vasque dans le cadre de son service → employeur responsable | **Pilier 3** |
+| 14 juin 1957 (n° pourvoi non retrouvé) | Responsabilité du commettant du fait du préposé | Le préposé escalade la vasque dans le cadre de son service → employeur responsable | **Pilier 3** |
 | 11 janv. 1995 | Chose inerte : preuve position anormale ou mauvais état | Notre preuve (cassure + basculement) distingue ce cas défavorable | **Distinction défensive** |
 
 ---

@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000045268436"
 code: "Code de procédure civile"
 article: "700"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code procedure civile](./README.md) › Article 700 Codeproc Legifrance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code procedure civile](./README.md) › Article 700 Codeproc Legifrance*
+<hr>
 <!-- /Breadcrumb -->
 
 # Article 700

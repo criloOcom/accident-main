@@ -9,19 +9,9 @@ source: "Légifrance/LEGIARTI000047591332"
 code: "Code de commerce"
 article: "L227-1"
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › [📒 Code commerce](./README.md) › Article L227-1 Code Legifrance
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code commerce](./README.md) › Article L227-1 Code Legifrance*
+<hr>
 <!-- /Breadcrumb -->
 
 # Article L227-1

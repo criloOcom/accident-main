@@ -5,7 +5,6 @@ description: "Dossier contenant les articles de loi relatifs à 📒 Autres code
 type: readme
 
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Autres codes*
 <hr>

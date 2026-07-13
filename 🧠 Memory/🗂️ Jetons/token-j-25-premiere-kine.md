@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Jetons — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-25-premiere-kine*
+<hr>
+<!-- /Breadcrumb -->
+
 # 📅 J+25 Première kiné
 
 **Token :** `**[J+25 Première kiné]**`

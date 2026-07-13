@@ -3,9 +3,9 @@ title: "📒 Code"
 description: "Dossier regroupant les articles de loi classés par code juridique."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Code
+*[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › 📒 Code*
+<hr>
 <!-- /Breadcrumb -->
 
 # 📒 Code

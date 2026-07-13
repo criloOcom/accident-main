@@ -3,19 +3,9 @@ title: "📁 20260530 SOSMain"
 description: "README de la pièce SOS Main"
 type: directory
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › 20260530 🆘 SOSMain
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › 20260530 🆘 SOSMain*
+<hr>
 <!-- /Breadcrumb -->
 
 # 📁 20260530 🆘 SOSMain

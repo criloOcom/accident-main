@@ -7,5 +7,9 @@ statut: original
 source: drive
 drive_id: 1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260601 DrOXYBEL](./README.md) › 20260601-1115 ARRET Travail Volet1 DrOXYBEL*
+<hr>
+<!-- /Breadcrumb -->
 
 > 🔗 Source Google Drive : https://drive.google.com/open?id=1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm

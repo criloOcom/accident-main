@@ -6,12 +6,9 @@ statut: brouillon
 reel_path: ../../👤 Reel/🗂️ Organisation/21 📋 Plan Constat Police Foix.md
 
 ---
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › 21 📋 Plan Constat Police Foix
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [🗂️ Organisation](./README.md) › 21 📋 Plan Constat Police Foix*
+<hr>
 <!-- /Breadcrumb -->
 
 # Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)

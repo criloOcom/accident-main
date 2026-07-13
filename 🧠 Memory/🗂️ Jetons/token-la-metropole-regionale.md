@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Jetons — Fiches individuelles des tokens d'anonymisation](./README.md) › token-la-metropole-regionale*
+<hr>
+<!-- /Breadcrumb -->
+
 # 📍 La Métropole Régionale
 
 **Token :** `**[La Métropole Régionale]**`

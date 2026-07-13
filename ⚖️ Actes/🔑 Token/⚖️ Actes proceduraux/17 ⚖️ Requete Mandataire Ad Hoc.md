@@ -6,14 +6,9 @@ statut: brouillon
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/17 ⚖️ Requete Mandataire Ad Hoc.md
 
 ---
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 17 ⚖️ Requete Mandataire Ad Hoc
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 17 ⚖️ Requete Mandataire Ad Hoc*
+<hr>
 <!-- /Breadcrumb -->
 
 # REQUÊTE AUX FINS DE DÉSIGNATION D'UN MANDATAIRE AD HOC ET MESURES CONSERVATOIRES

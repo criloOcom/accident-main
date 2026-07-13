@@ -3,9 +3,9 @@ title: "🏛️ Réserve d'aggravation"
 description: "Arrêts de la Cour de cassation sur la réserve d'aggravation"
 type: readme
 ---
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📜 Jurisprudence](../README.md) › 🏛️ Réserve d'aggravation
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📜 Jurisprudence](../README.md) › 🏛️ Réserve d'aggravation*
+<hr>
 <!-- /Breadcrumb -->
 
 # 🏛️ Réserve d'aggravation (2 arrêts)

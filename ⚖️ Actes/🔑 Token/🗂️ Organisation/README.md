@@ -3,19 +3,9 @@ title: "🗂️ Organisation"
 description: "Ce dossier centralise les outils de navigation et de pilotage du dossier : index général, plan d'action, calendrier."
 type: readme
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › 🗂️ Organisation
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › 🗂️ Organisation*
+<hr>
 <!-- /Breadcrumb -->
 
 # 🗂️ Organisation

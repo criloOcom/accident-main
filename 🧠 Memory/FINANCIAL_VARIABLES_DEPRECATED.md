@@ -3,19 +3,9 @@ title: "⚠ DÉPRÉCIÉ — VARIABLES FINANCIÈRES (voir STRICT VARIABLES.md)"
 description: "Ce fichier regroupe l'ensemble des montants financiers (provisions, préjudices Dintilhac, astreintes et dépens) pour le dossier de **[La Victime]**. Ces valeurs sont la référence unique du projet pour toutes les substitutions."
 type: memory
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › FINANCIAL VARIABLES DEPRECATED
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › FINANCIAL VARIABLES DEPRECATED*
+<hr>
 <!-- /Breadcrumb -->
 
 # ⚠ DÉPRÉCIÉ — VARIABLES FINANCIÈRES

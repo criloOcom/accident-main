@@ -3,19 +3,9 @@ title: "RAPPORT D'AUDIT STRATÉGIQUE GLOBAL"
 description: "Mission** : Audit critique de la stratégie globale du projet accident-main"
 type: rapport
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT STRATEGIQUE
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT STRATEGIQUE*
+<hr>
 <!-- /Breadcrumb -->
 
 # RAPPORT D'AUDIT STRATÉGIQUE GLOBAL

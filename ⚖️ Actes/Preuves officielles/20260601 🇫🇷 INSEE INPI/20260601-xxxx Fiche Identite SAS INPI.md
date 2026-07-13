@@ -7,5 +7,9 @@ statut: original
 source: drive
 drive_id: 1ALpMIfxOZ65LGw_p__r7p9Lc2m7EeiWv
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260601 INSEE INPI](./README.md) › 20260601-xxxx Fiche Identite SAS INPI*
+<hr>
+<!-- /Breadcrumb -->
 
 > 🔗 Source Google Drive : https://drive.google.com/open?id=1ALpMIfxOZ65LGw_p__r7p9Lc2m7EeiWv

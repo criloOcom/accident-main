@@ -4,19 +4,9 @@ description: "Audit read-only des breadcrumbs, liens internes, YAML frontmatter,
 type: rapport
 statut: projet
 ---
-
-
-
-
-
-
-
-
-
-
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT HERMES 20260711
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT HERMES 20260711*
+<hr>
 <!-- /Breadcrumb -->
 
 # RAPPORT AUDIT HERMÈS — Conformité technique du dépôt
