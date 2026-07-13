@@ -29,24 +29,24 @@ Ces courriers ont été expédiés et disposent d'un numéro de suivi postal LRA
 ### 🟠 Prêts pour envoi (Finalisés)
 Ces documents sont finalisés et prêts à être expédiés (les variables et adresses sont complétées).
 
-- **[J+37 ✉️ Relance Consolidation.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Relance%20Consolidation.md)** — *Destinataire : Le Chirurgien SOS Main* — Statut : `Prêt pour envoi`.
-- **[J+37 ✉️ Signalement CODAF.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20CODAF.md)** — *Destinataire : CODAF de l'Ariege* — Statut : `Prêt pour envoi`.
-- **[J+37 ✉️ Signalement Conseil Departemental.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20Conseil%20Departemental.md)** — *Destinataire : Conseil Departemental de l'Ariege* — Statut : `Prêt pour envoi`.
-- **[J+37 ✉️ Signalement INPI.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20INPI.md)** — *Destinataire : INPI* — Statut : `Prêt pour envoi`.
-- **[J+37 ✉️ Signalement Inspection Travail.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20Inspection%20Travail.md)** — *Destinataire : DDETS de la Region* — Statut : `Prêt pour envoi`.
-- **[J+37 ✉️ Signalement Prefecture.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20Prefecture.md)** — *Destinataire : Prefecture de l'Ariege* — Statut : `Prêt pour envoi`.
-- **[J+37 ✉️ Signalement SDIS.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20SDIS.md)** — *Destinataire : SDIS de l'Ariege* — Statut : `Prêt pour envoi`.
-- **[J+37 ✉️ Signalement SIE.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20SIE.md)** — *Destinataire : Service des Impôts des Entreprises de **[La Ville de l'Accident]*** — Statut : `Prêt pour envoi`.
-- **[J+37 ✉️ Signalement URSSAF.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20URSSAF.md)** — *Destinataire : URSSAF Midi-Pyrenees* — Statut : `Prêt pour envoi`.
-- **[J+37 ✉️ Suivi Adjoint Maire Tavella.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Suivi%20Adjoint%20Maire%20Tavella.md)** — *Destinataire : L'Adjoint au Maire de la Commune* — Statut : `Prêt pour envoi`.
-- **[J+37 🔄 Relance CPAM.md](J%2B37%20%F0%9F%94%84%20Relance%20CPAM.md)** — *Destinataire : CPAM Haute-Garonne* — Statut : `Prêt pour envoi`.
-- **[J+37 🔄 Relance Police Videos.md](J%2B37%20%F0%9F%94%84%20Relance%20Police%20Videos.md)** — *Destinataire : Police Nationale de **[La Ville de l'Accident]*** — Statut : `Prêt pour envoi`.
-- **[J+38 ✉️ Transmission Recours Tiers CPAM.md](J%2B38%20%E2%9C%89%EF%B8%8F%20Transmission%20Recours%20Tiers%20CPAM.md)** — *Destinataire : CPAM Haute-Garonne* — Statut : `Prêt pour envoi`.
-- **[J+41 ✉️ Mise en demeure Maire Foix.md](J%2B41%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Maire%20Foix.md)** — *Destinataire : Le Maire* — Statut : `Prêt pour envoi`.
-- **[J+41 ✉️ Opposition Radiation TC.md](J%2B41%20%E2%9C%89%EF%B8%8F%20Opposition%20Radiation%20TC.md)** — *Destinataire : Tribunal de Commerce de **[La Ville de l'Accident]*** — Statut : `Prêt pour envoi`.
-- **[J+44 ✉️ Preuves Complementaires TJ Foix.md](J%2B44%20%E2%9C%89%EF%B8%8F%20Preuves%20Complementaires%20TJ%20Foix.md)** — *Destinataire : President du Tribunal Judiciaire de Foix* — Statut : `Prêt pour envoi`.
-- **[J+47 ✉️ Consultation Avocat Jimini.md](J%2B47%20%E2%9C%89%EF%B8%8F%20Consultation%20Avocat%20Jimini.md)** — *Destinataire : Avocat* — Statut : `Prêt pour envoi`.
-- **[J+47 📋 Guide Demande AJ.md](J%2B47%20%F0%9F%93%8B%20Guide%20Demande%20AJ.md)** — *Destinataire : Inconnu* — Statut : `Prêt pour envoi`.
+- **[J+37 ✉️ Relance Consolidation.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Relance%20Consolidation.md)** — *Destinataire : Le Chirurgien SOS Main*
+- **[J+37 ✉️ Signalement CODAF.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20CODAF.md)** — *Destinataire : CODAF de l'Ariege*
+- **[J+37 ✉️ Signalement Conseil Departemental.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20Conseil%20Departemental.md)** — *Destinataire : Conseil Departemental de l'Ariege*
+- **[J+37 ✉️ Signalement INPI.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20INPI.md)** — *Destinataire : INPI*
+- **[J+37 ✉️ Signalement Inspection Travail.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20Inspection%20Travail.md)** — *Destinataire : DDETS de la Region*
+- **[J+37 ✉️ Signalement Prefecture.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20Prefecture.md)** — *Destinataire : Prefecture de l'Ariege*
+- **[J+37 ✉️ Signalement SDIS.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20SDIS.md)** — *Destinataire : SDIS de l'Ariege*
+- **[J+37 ✉️ Signalement SIE.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20SIE.md)** — *Destinataire : Service des Impôts des Entreprises de **[La Ville de l'Accident]***
+- **[J+37 ✉️ Signalement URSSAF.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20URSSAF.md)** — *Destinataire : URSSAF Midi-Pyrenees*
+- **[J+37 ✉️ Suivi Adjoint Maire Tavella.md](J%2B37%20%E2%9C%89%EF%B8%8F%20Suivi%20Adjoint%20Maire%20Tavella.md)** — *Destinataire : L'Adjoint au Maire de la Commune*
+- **[J+37 🔄 Relance CPAM.md](J%2B37%20%F0%9F%94%84%20Relance%20CPAM.md)** — *Destinataire : CPAM Haute-Garonne*
+- **[J+37 🔄 Relance Police Videos.md](J%2B37%20%F0%9F%94%84%20Relance%20Police%20Videos.md)** — *Destinataire : Police Nationale de **[La Ville de l'Accident]***
+- **[J+38 ✉️ Transmission Recours Tiers CPAM.md](J%2B38%20%E2%9C%89%EF%B8%8F%20Transmission%20Recours%20Tiers%20CPAM.md)** — *Destinataire : CPAM Haute-Garonne*
+- **[J+41 ✉️ Mise en demeure Maire Foix.md](J%2B41%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Maire%20Foix.md)** — *Destinataire : Le Maire*
+- **[J+41 ✉️ Opposition Radiation TC.md](J%2B41%20%E2%9C%89%EF%B8%8F%20Opposition%20Radiation%20TC.md)** — *Destinataire : Tribunal de Commerce de **[La Ville de l'Accident]***
+- **[J+44 ✉️ Preuves Complementaires TJ Foix.md](J%2B44%20%E2%9C%89%EF%B8%8F%20Preuves%20Complementaires%20TJ%20Foix.md)** — *Destinataire : President du Tribunal Judiciaire de Foix*
+- **[J+47 ✉️ Consultation Avocat Jimini.md](J%2B47%20%E2%9C%89%EF%B8%8F%20Consultation%20Avocat%20Jimini.md)** — *Destinataire : Avocat*
+- **[J+47 📋 Guide Demande AJ.md](J%2B47%20%F0%9F%93%8B%20Guide%20Demande%20AJ.md)** — *Destinataire : Inconnu*
 
 ### 🟡 En préparation / Brouillons
 Ces documents sont des brouillons de courriers, des guides personnels, des modèles d'attestations ou des gabarits à remplir.
