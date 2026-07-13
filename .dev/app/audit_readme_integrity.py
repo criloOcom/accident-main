@@ -79,7 +79,8 @@ def find_files_in_text(content):
         url = unquote(m.group(1))
         urls.add(url)
     # 2) Références nues : [fichier.md] — sur UNE SEULE ligne
-    for m in re.finditer(r'\[([^\]\n]+\.md)\]', content):
+    #    Exclut les cas où [texte] fait partie d'un lien markdown [texte](url)
+    for m in re.finditer(r'\[([^\]\n]+\.md)\](?!\()', content):
         bare.add(m.group(1))
     # 3) Gras simple : **fichier.md** — sur UNE SEULE ligne
     for m in re.finditer(r'\*\*([^*\n]+\.md)\*\*', content):
