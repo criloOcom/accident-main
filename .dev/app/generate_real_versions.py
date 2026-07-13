@@ -136,16 +136,17 @@ def main():
 
     generated = []
 
-    for subdir in sorted(os.listdir(input_base)):
-        input_dir = os.path.join(input_base, subdir)
-        if not os.path.isdir(input_dir):
+    for root, dirs, files in os.walk(input_base):
+        rel_path = os.path.relpath(root, input_base)
+        if rel_path == '.':
             continue
 
-        output_dir = os.path.join(output_base, subdir)
+        dirs.sort()
+        output_dir = os.path.join(output_base, rel_path)
         os.makedirs(output_dir, exist_ok=True)
 
         sub_generated = []
-        for filepath in sorted(glob.glob(os.path.join(input_dir, '*.md'))):
+        for filepath in sorted(glob.glob(os.path.join(root, '*.md'))):
             filename = os.path.basename(filepath)
             if filename in ('INDEX.md', 'README.md'):
                 continue
@@ -171,11 +172,11 @@ def main():
         if sub_generated:
             idx_path = os.path.join(output_dir, 'README.md')
             with open(idx_path, 'w', encoding='utf-8') as f:
-                f.write(f"# Index — {subdir} (Versions Réelles)\n\n")
+                f.write(f"# Index — {rel_path} (Versions Réelles)\n\n")
                 for fn in sorted(sub_generated):
                     f.write(f"- [{fn}]({fn})\n")
             print(f"  {idx_path}")
-            generated.append((subdir, sub_generated))
+            generated.append((rel_path, sub_generated))
 
     total = sum(len(files) for _, files in generated)
     print(f"\n--- {total} fichiers générés dans {output_base}/ ---")

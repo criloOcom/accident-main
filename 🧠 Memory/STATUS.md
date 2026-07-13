@@ -15,7 +15,11 @@ type: memory
 > **Phase 22 ✅** Normalisation des séparateurs `<hr><hr>` et conventions de formatage
 > **Phase 23 ✅** Normalisation des sauts de ligne entre paragraphes — 80 fichiers Token + Reel (✅ TERMINÉ)
 > **Phase 23.1 ✅** Patterns D/E (listes) — ligne vide entre items numérotés (`N. **...**`) et à puces (`- ...`) : 85 fichiers Token + 50 Reel (✅ TERMINÉ)
->
+> **Phase 24 ✅** Audit PII P0/P1 — Tokenisation des données personnelles résiduelles : 22 fichiers modifiés, 3 nouveaux tokens créés
+> **Phase 25 ✅** Audit P2 — Suppression demandes de vérification « escabeau » : 6 fichiers, 10 corrections
+> **Phase 26 ✅** Script Reel — Support des sous-dossiers : 96 fichiers générés (vs ~57 avant)
+> **Phase 27 ✅** Vérification JURITEXT exhaustive — 8 codes non audités vérifiés via MCP Légifrance-prod
+> 
 > ## Phase 21 — Navigation Interactive Cross-Document (13 juillet 2026) ✅ [TERMINÉ]
 
 ### Objectif
