@@ -102,7 +102,7 @@ statut: projet
 **Vrais bugs de liens (indépendants des fichiers fantômes) :**
 - 🔴 [⚖️ Actes/README.md](⚖️%20Actes/README.md) L21-40 : `token/README.md`, `reel/README.md`, `token/0X_…/README.md` → dossiers renommés `🔑 Token`/`👤 Reel` non propagés.
 - 🔴 `13 📜 Responsabilites legales.md` L92-98 et `J+39 📜 Strategie Jurisprudentielle.md` : `../../../📜 Lois/89-18.422_CourCassation.md` → le fichier réel est [📜 Lois/📜 Jurisprudence/README.md89-18.422_CourCassation.md](../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md) (sous-dossier omis).
-- 🔴 `01 ⚖️ Assignation.md` L106-126, 347-349 : `ANNEXE_1_Decision_CC_CIV1_1965-04-30.md` / `📎 Annexes/ANNEXE_…md` → les annexes sont dans [⚖️ Actes/📎 Annexes](⚖️%20Actes/📎%20Annexes/README.md) (chemin relatif faux).
+- ~~🔴 `01 ⚖️ Assignation.md` L106-126, 347-349 : `ANNEXE_1/2/3` → **CORRIGÉ** (déplacées dans [📜 Lois/📜 Jurisprudence/](%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/README.md)).
 - 🔴 **6 liens `file://` cassés** (`J+40 📋 Dossier Special CERFA.md` L43-45, token + reel) : pointent vers `26 📋 Attestation Temoin Client.md`, `27 📋 Attestation Pompier SAMU.md`, `28 📋 Attestation Employe.md` — or les fichiers réels sont `26 📧 …`, `27 📧 …`, `28 📧 …` (mismatch 📋/📧). Lien mort + nommage incohérent.
 - 🟡 **4 URLs Légifrance** format `ceta/id/...` (`11+12 … Dintilhac consolidee.md` L265, `12 … Dintilhac détaillée.md` L147, + versions reel) — `ceta` (Conseil d'État) vs `juri` (Cassation) ; à confirmer que l'ID est bien un CETA et non une JURITEXT.
 - ⚪ **453 ancres `#…`** internes : présentes (sommaires), non vérifiées une par une (toléré, mais ~453 cibles à valider si on veut 100 %).

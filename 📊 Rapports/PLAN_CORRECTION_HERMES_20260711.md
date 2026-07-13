@@ -43,9 +43,7 @@ statut: projet
 
 ### P0-4 — `01 ⚖️ Assignation.md` : chemins d'annexe  [SCRIPT]
 - **Cibles** : `⚖️ Actes/{🔑 Token,👤 Reel}/⚖️ Actes proceduraux/01 ⚖️ Assignation.md` (L106-126, 347-349)
-- **Défaut** : `ANNEXE_1_Decision_CC_CIV1_1965-04-30.md` (fichier à la racine du dossier) et `📎 Annexes/ANNEXE_...md` (dossier `📎 Annexes` introuvable depuis ce chemin).
-- **Correction** : préfixer `📎 Annexes/` → `📎 Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md` (les 3 annexes sont dans [⚖️ Actes/📎 Annexes](⚖️%20Actes/📎%20Annexes/README.md)).
-- **Vérifier** : `⚖️ Actes/📎 Annexes/ANNEXE_1/2/3_Decision_CC_CIV1_*.md` ✅ présents.
+- **Correction appliquée (juil. 2026)** : les 3 ANNEXES ont été déplacées dans [📜 Lois/📜 Jurisprudence/](%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/README.md) — voir `63-13.613`, `90-14.591`, `11-13.384`.
 
 ### P0-5 — `05 📋 Dossier Special CERFA.md` : 6 liens `file://` cassés  [MANUEL + SCRIPT]
 - **Cibles** : `⚖️ Actes/{🔑 Token,👤 Reel}/🗂️ Organisation/05 📋 Dossier Special CERFA.md` (L43-45)

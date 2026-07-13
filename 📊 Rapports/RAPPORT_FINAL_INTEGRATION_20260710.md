@@ -60,10 +60,10 @@ type: rapport
 - **Fichiers modifiés** :
   - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
   - [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️%20Actes/👤%20Reel/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
-- **Annexes créées** :
-  - [⚖️ Actes/📎 Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%93%8E%20Annexes/ANNEXE_1_Decision_CC_CIV1_1965-04-30.md)
-  - [⚖️ Actes/📎 Annexes/ANNEXE_2_Decision_CC_CIV1_1994-07-08.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%93%8E%20Annexes/ANNEXE_2_Decision_CC_CIV1_1994-07-08.md)
-  - [⚖️ Actes/📎 Annexes/ANNEXE_3_Decision_CC_CIV1_2012-07-04.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%93%8E%20Annexes/ANNEXE_3_Decision_CC_CIV1_2012-07-04.md)
+- **Annexes déplacées vers 📜 Lois/📜 Jurisprudence/** :
+  - [📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du fait des choses/63-13.613_CourCassation.md](../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/63-13.613_CourCassation.md)
+  - [📜 Lois/📜 Jurisprudence/🏛️ Action directe et obligation d'assurance/90-14.591_CourCassation.md](../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/90-14.591_CourCassation.md)
+  - [📜 Lois/📜 Jurisprudence/🏛️ Responsabilité des dirigeants/11-13.384_CourCassation.md](../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20des%20dirigeants/11-13.384_CourCassation.md)
 
 ### ✅ ÉTAPE 7: Génération des Versions Réelles
 - **Objectif** : Mettre à jour les versions avec identités réelles
@@ -129,7 +129,7 @@ type: rapport
 
 ### Annexes Jurisprudentielles
 
-**Répertoire créé** : [⚖️ Actes/📎 Annexes](⚖️%20Actes/📎%20Annexes/README.md)
+**Répertoire créé** : [📜 Lois/📜 Jurisprudence/](../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/README.md) (déplacé depuis 📎 Annexes)
 
 **Contenu** :
 - **ANNEXE 1** : Décision complète du 30/04/1965 (responsabilité professionnelle)
@@ -225,7 +225,7 @@ Rien à signaler — tout est cohérent.
 - **Références formatées** : `REFERENCES_MARKDOWN_20260710.json`
 - **Décisions sélectionnées** : `DECISIONS_SELECTIONNEES_20260710.json`
 - **Documentation** : [📜 Lois/EXEMPLES_REQUETES_MCP.md](../%F0%9F%93%9C%20Lois/EXEMPLES_REQUETES_MCP.md)
-- **Annexes jurisprudentielles** : [⚖️ Actes/📎 Annexes](⚖️%20Actes/📎%20Annexes/README.md) (3 décisions complètes)
+- **Annexes jurisprudentielles** : [📜 Lois/📜 Jurisprudence/](../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/README.md) (3 décisions — 63-13.613, 90-14.591, 11-13.384)
 
 ---
 

@@ -8,7 +8,7 @@ type: readme
 <hr>
 <!-- /Breadcrumb -->
 
-# 🏛️ Responsabilité du fait des choses (7 arrêts)
+# 🏛️ Responsabilité du fait des choses (8 arrêts)
 
 - [70-12.124](70-12.124_CourCassation.md) — **Civ. 2e, 23 fév. 1972** — Arrêt *Leroy* — Baignoire passive exposée à la vente
 - [74-10.466](74-10.466_CourCassation.md) — **Civ. 2e, 5 mai 1975** — Vice inhérent ≠ cause d'exonération
@@ -17,3 +17,4 @@ type: readme
 - [91-15.035](91-15.035_CourCassation.md) — **Civ. 2e, 5 mai 1993** — Charge preuve instrument du dommage (chose inerte)
 - [24-17.944](24-17.944_CourCassation.md) — **Civ. 2e, 2 avril 2026** — Aggravation — force majeure gardien de la chose
 - [24-21.702](24-21.702_CourCassation.md) — **Civ. 2e, 28 mai 2026** — Échelle instable — preuve position anormale insuffisante
+- [63-13.613](63-13.613_CourCassation.md) — **Civ. 1re, 30 avril 1965** — Obligation de sécurité du professionnel

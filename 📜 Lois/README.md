@@ -36,8 +36,8 @@ Le dossier a été réorganisé pour une meilleure navigation :
 
 ```
 📜 Lois/
-├── 📜 Jurisprudence/README.md          # 26 arrêts de la Cour de cassation
-│   ├── 🏛️ Responsabilité du fait des choses/     # 7 arrêts
+├── 📜 Jurisprudence/README.md          # 29 arrêts de la Cour de cassation
+│   ├── 🏛️ Responsabilité du fait des choses/     # 8 arrêts
 │   ├── 🏛️ Transaction sous réserve d'aggravation/ # 3 arrêts
 │   ├── 🏛️ Réserve d'aggravation/                  # 2 arrêts
 │   ├── 🏛️ Préjudice corporel et incidence prof./   # 5 arrêts
@@ -105,7 +105,7 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052542) [Art. L.611-3](%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/Article_L611-3_Code_Legifrance.md) — Procédure de sauvegarde
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051752672) [Art. L.123-2](%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/Article_L123-2_Code_Legifrance.md) — Immatriculation des sociétés
 
-## 🏛️ Jurisprudence (Cour de cassation) — 26 arrêts
+## 🏛️ Jurisprudence (Cour de cassation) — 29 arrêts
 
 Tous les arrêts sont disponibles dans le dossier [📜 Jurisprudence/README.md](%F0%9F%93%9C%20Jurisprudence/)
 
