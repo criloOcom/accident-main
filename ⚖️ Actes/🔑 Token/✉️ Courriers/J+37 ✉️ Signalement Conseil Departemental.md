@@ -75,10 +75,6 @@ Les faits portés à votre connaissance sont susceptibles de caractériser des m
 
 2. **Défaut de maintenance des installations** : Maintien à la disposition du public et du personnel d'un bac en céramique instable et présentant des dommages préexistants non réparés.
 
-3. **Absence d'affichage visible des consignes de sécurité** au sein de l'établissement.
-
-4. **Absence suspectée de tenue d'un registre public d'accessibilité** et de sécurité.
-
 <hr><hr>
 
 ## III — DEMANDE DE RELAIS
