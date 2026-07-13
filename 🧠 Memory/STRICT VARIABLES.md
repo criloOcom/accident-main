@@ -58,7 +58,23 @@ type: memory
 - AGREMENT_COMPROMIS : 5 000 €
 - FRAIS_DIVERS_COMPROMIS : 3 000 €
 
-## Provisions et astreintes
+## Montants financiers — Avis Dintilhac 2026-07-13 (référence actuelle)
+
+⚠ **Cette section remplace les évaluations antérieures comme référence.** L'avis externe Dintilhac du 13 juillet 2026 distingue deux scénarios (prudent DFP 10 % / médian DFP 15 %). Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](📊 Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md).
+
+### Scénario prudent (DFP 10 %)
+- EVAL_GLOBALE_PRUDENTE : ≈ 126 000 € (plancher, arrondi pratique 130 000 €)
+- DFP_10PC : 20 000 € (10 % × 2 000 €/pt)
+- INCIDENCE_PRO_PRUDENTE : 20 000 €
+- AGREMENT_MEDIAN : 4 000 € (fourchette 3 000–5 000 €)
+
+### Scénario médian (DFP 15 %)
+- EVAL_GLOBALE_MEDIANE : ≈ 161 500 € (fourchette 160 000–165 000 €)
+- DFP_15PC : 30 000 € (15 % × 2 000 €/pt)
+- INCIDENCE_PRO_MEDIANE : 30 000 €
+- AGREMENT_MEDIAN : 4 000 € (fourchette 3 000–5 000 €)
+
+### Provisions et astreintes
 
 - MONTANT_PROVISION_REFERE : 15 000 € (provision référé — conformément aux conclusions)
 - MONTANT_PROVISION_AMIABLE : 15 000 € (demande amiable en mise en demeure)
@@ -155,21 +171,25 @@ Les tokens `[N° LRAR Exploitant]`, `[N° LRAR Directrice]`, `[N° LRAR Préside
 
 Ces tokens sont utilisés dans les assignations et courriers. Leurs valeurs sont redirigées vers les variables canoniques ci-dessus. Ce fichier est la Source Unique de Vérité ; `FINANCIAL_VARIABLES.md` est déprécié.
 
-| Token alternatif | Variable canonique | Valeur |
-| :--- | :--- | :--- |
-| `[Finance Provision Référé]` | MONTANT_PROVISION_REFERE | 15 000 € |
-| `[Finance Article 700]` | MONTANT_ARTICLE_700 | 3 000 € |
-| `[Finance Astreinte 145]` | MONTANT_ASTREINTE_145 | 150 €/jour |
-| `[Finance Article 700 Référé 145]` | MONTANT_ARTICLE_700_145 | 1 500 € |
-| `[Finance Article 475-1]` | MONTANT_ARTICLE_475_1 | 3 000 € |
-| `[Finance PGPA]` | PGPA_CONSERVATIF | 1 380 € |
-| `[Finance DFP]` | DFP_COMPROMIS | 25 000 € |
-| `[Finance Souffrances Endurées]` | SE_COMPROMIS | 15 000 € |
-| `[Finance Incidence Professionnelle]` | IP | 30 000 € |
-| `[Finance Préjudice Agrément]` | AGREMENT_COMPROMIS | 5 000 € |
-| `[Finance Préjudice Esthétique]` | PEP | 3 000 € |
-| `[Finance Dévalorisation Pro]` | DEP | 3 000 € |
-| `[Finance Frais Divers]` | FRAIS_DIVERS_COMPROMIS | 3 000 € |
-| `[Finance Facture Chirurgie]` | FACTURE_CHIRURGIE | 790,23 € |
-| `[Finance Prestation Salon]` | PREUVE_BANCAIRE (Wero) | 15,00 € |
-| `[Finance Evaluation Initiale]` | MONTANT_EVALUATION_INITIALE | 59 600 € |
+| Token alternatif | Variable canonique | Valeur | Statut |
+| :--- | :--- | :--- | :--- |
+| `[Finance Provision Référé]` | MONTANT_PROVISION_REFERE | 15 000 € | ✅ Actif |
+| `[Finance Article 700]` | MONTANT_ARTICLE_700 | 3 000 € | ✅ Actif |
+| `[Finance Astreinte 145]` | MONTANT_ASTREINTE_145 | 150 €/jour | ✅ Actif |
+| `[Finance Article 700 Référé 145]` | MONTANT_ARTICLE_700_145 | 1 500 € | ✅ Actif |
+| `[Finance Article 475-1]` | MONTANT_ARTICLE_475_1 | 3 000 € | ✅ Actif |
+| `[Finance PGPA]` | PGPA_CONSERVATIF | 1 380 € | ✅ Actif |
+| `[Finance DFP]` | DFP_10PC (prudent) / DFP_15PC (médian) | 20 000 € / 30 000 € | ✅ Réf. Dintilhac 2026-07-13 |
+| `[Finance DFP]` (documents existants) | DFP_COMPROMIS | 25 000 € | 🔄 Obsolète — conservé pour compatibilité |
+| `[Finance Souffrances Endurées]` | SE_COMPROMIS | 15 000 € | ✅ Actif |
+| `[Finance Incidence Professionnelle]` | INCIDENCE_PRO_PRUDENTE / INCIDENCE_PRO_MEDIANE | 20 000 € / 30 000 € | ✅ Réf. Dintilhac 2026-07-13 |
+| `[Finance Incidence Professionnelle]` (documents existants) | IP | 30 000 € | 🔄 Obsolète — conservé pour compatibilité |
+| `[Finance Préjudice Agrément]` | AGREMENT_MEDIAN | 4 000 € | ✅ Réf. Dintilhac 2026-07-13 |
+| `[Finance Préjudice Agrément]` (documents existants) | AGREMENT_COMPROMIS | 5 000 € | 🔄 Obsolète — conservé pour compatibilité |
+| `[Finance Préjudice Esthétique]` | PEP | 3 000 € | ✅ Actif |
+| `[Finance Dévalorisation Pro]` | DEP | 3 000 € | ✅ Actif |
+| `[Finance Frais Divers]` | FRAIS_DIVERS_COMPROMIS | 3 000 € | ✅ Actif |
+| `[Finance Facture Chirurgie]` | FACTURE_CHIRURGIE | 790,23 € | ✅ Actif |
+| `[Finance Prestation Salon]` | PREUVE_BANCAIRE (Wero) | 15,00 € | ✅ Actif |
+| `[Finance Evaluation Globale]` | EVAL_GLOBALE_PRUDENTE / EVAL_GLOBALE_MEDIANE | 126 000 € / 161 500 € | ✅ Réf. Dintilhac 2026-07-13 |
+| `[Finance Evaluation Initiale]` (documents existants) | MONTANT_EVALUATION_INITIALE | 59 600 € | 🔄 Obsolète — conservé pour compatibilité |

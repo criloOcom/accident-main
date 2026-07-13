@@ -17,12 +17,13 @@ type: memory
 
 | Champ | Valeur |
 |---|---|
-| **Montant** | 5 000 € |
+| **Montant médian** | 4 000 € |
+| **Fourchette** | 3 000 € – 5 000 € |
 | **Poste Dintilhac** | Préjudice d'agrément |
-| **Tier** | Compromis |
-| **Variable canonique** | `AGREMENT_COMPROMIS` |
-| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md#correspondance-tokens-financiers-alternatifs-finance) |
+| **Tier** | Médian |
+| **Variable canonique** | `AGREMENT_MEDIAN` |
+| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md#correspondance-tokens-financiers-alternatifs-finance) — Avis Dintilhac 2026-07-13 |
 
 ## Contexte
 
-Préjudice lié à la perte de pratique de la guitare et autres activités de loisir. L'évaluation optimiste est de 8 000 € (guitare 6 000 € + autres 2 000 €). L'évaluation conservative Glose est de 3 500 € (fourchette 2 000-5 000 €).
+Préjudice d'agrément lié à la restriction du codage / développement informatique pratiqué à titre de loisir exclusif, en dehors de l'activité rémunérée. Les séquelles de la main droite (cicatrice palmaire de 8,5 cm, raideur, perte de dextérité) limitent fortement la pratique prolongée du clavier et l'utilisation d'outils de développement. Aucun autre loisir inventé (guitare, bricolage) n'est retenu. Fourchette de négociation : 3 000 € (plancher) – 5 000 € (haut), montant médian de référence : 4 000 €.

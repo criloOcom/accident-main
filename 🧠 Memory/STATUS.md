@@ -1,6 +1,6 @@
 ---
 title: "STATUT D'AVANCEMENT — 13 juillet 2026"
-description: "- **Phase 23** Normalisation des sauts de ligne entre paragraphes : 80 fichiers Token + Reel (✅ TERMINÉ) — **Phase 23.1** Patterns D/E (listes) : 85 fichiers Token + 50 Reel (✅ TERMINÉ)"
+description: "- **Phase 23** Normalisation des sauts de ligne entre paragraphes : 80 fichiers Token + Reel (✅ TERMINÉ) — **Phase 28** Avis Dintilhac externe : rapport + tokens financiers mis à jour (✅ TERMINÉ)"
 type: memory
 ---
 
@@ -19,6 +19,7 @@ type: memory
 > **Phase 25 ✅** Audit P2 — Suppression demandes de vérification « escabeau » : 6 fichiers, 10 corrections
 > **Phase 26 ✅** Script Reel — Support des sous-dossiers : 96 fichiers générés (vs ~57 avant)
 > **Phase 27 ✅** Vérification JURITEXT exhaustive — 8 codes non audités vérifiés via MCP Légifrance-prod
+> **Phase 28 ✅** Avis Dintilhac externe — Rapport + tokens financiers mis à jour (✅ TERMINÉ)
 > 
 > ## Phase 21 — Navigation Interactive Cross-Document (13 juillet 2026) ✅ [TERMINÉ]
 
@@ -1024,3 +1025,36 @@ Normaliser les lignes vides (`\n\n`) entre chaque bloc de paragraphe dans tous l
 3. **Exécution sur Token** : 85 fichiers modifiés (Patters D+E)
 4. **Sync Reel** : `generate_real_versions.py` → 50 fichiers générés
 5. **Vérification exhaustive** : zéro violation restante sur tous les patterns A/B/C/D/E
+
+---
+
+## Phase 28 — Avis Dintilhac externe : rapport + tokens financiers (13 juillet 2026) ✅ [TERMINÉ]
+
+### Objectif
+Intégrer l'avis indemnitaire externe Dintilhac (2ᵉ passe corrigée) : correction du préjudice d'agrément (guitare → codage), mise à jour des tokens financiers avec double scénario prudent/médian, création du rapport d'évaluation.
+
+### Actions réalisées
+1. **Correction token-finance-prejudice-agrement** — retrait définitif de toute référence à la guitare/bricolage (loisirs inventés), remplacement par codage informatique comme loisir exclusif. Montant : 4 000 € médian (fourchette 3 000–5 000 €).
+2. **Création `📊 Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`** — rapport complet avec contexte, hypothèses, tableau Dintilhac poste par poste (prudent/médian), analyse et fourchette de négociation (126 k€ – 161,5 k€).
+3. **Mise à jour token-finance-evaluation-initiale** → renommé en « Évaluation Globale Dintilhac » avec double scénario (126 k€ / 161,5 k€) et historique des évaluations antérieures marquées obsolètes.
+4. **Mise à jour token-finance-dfp** — double taux (10 % / 15 %), valeurs du point recalées à 2 000 €/pt, ancienne évaluation marquée obsolète.
+5. **Mise à jour token-finance-incidence-professionnelle** — double scénario (20 000 € / 30 000 €), ancienne valeur BIBAL unique marquée obsolète.
+6. **Mise à jour STRICT VARIABLES.md** — nouvelle section « Avis Dintilhac 2026-07-13 » + tableau de correspondance des tokens financiers enrichi (statut, double scénario).
+
+### Évaluations de référence (post-Phase 28)
+
+| Scénario | DFP | Total avant recours CPAM |
+|---|---|---|
+| **Prudent** (plancher) | 10 % | ≈ 126 000 € (arrondi 130 000 €) |
+| **Médian** (point de référence) | 15 % | ≈ 161 500 € (fourchette 160 000 – 165 000 €) |
+
+### Nouveaux fichiers créés
+- `📊 Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`
+
+### Fichiers modifiés
+- `🧠 Memory/🗂️ Tokens/token-finance-prejudice-agrement.md` — correction contenu + montant
+- `🧠 Memory/🗂️ Tokens/token-finance-evaluation-initiale.md` — refonte complète
+- `🧠 Memory/🗂️ Tokens/token-finance-dfp.md` — refonte complète
+- `🧠 Memory/🗂️ Tokens/token-finance-incidence-professionnelle.md` — refonte complète
+- `🧠 Memory/STRICT VARIABLES.md` — nouvelle section + tableau enrichi
+- `🧠 Memory/STATUS.md` — présente section
