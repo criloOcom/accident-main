@@ -8,7 +8,7 @@ type: rapport
 <hr>
 <!-- /Breadcrumb -->
 
-# RAPPORT D'AUDIT — Repository GitHub
+# RAPPORT D'AUDIT<br>Repository GitHub
 
 **Projet** : accident-main · **Remote** : `github.com/criloOcom/accident-main.git`
 **Date** : 10 juillet 2026 · **Auditeur** : Agent opencode
@@ -88,7 +88,7 @@ venv/
 
 ```bash
 #!/bin/bash
-# Hook pre-commit — vérifie l'intégrité des README.md avant chaque commit
+# Hook pre-commit<br>vérifie l'intégrité des README.md avant chaque commit
 echo "🔍 [AUDIT] Vérification automatique des README.md..."
 SCRIPT=".dev/app/audit_readme_integrity.py"
 ...

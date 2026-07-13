@@ -8,7 +8,7 @@ type: rapport
 <hr>
 <!-- /Breadcrumb -->
 
-# RAPPORT DE PRÉPARATION — Plainte Complémentaire Police Foix
+# RAPPORT DE PRÉPARATION<br>Plainte Complémentaire Police Foix
 
 **Date** : 11 juillet 2026
 **Projet** : Accident Main - Dossier Sébastien GRAZIDE

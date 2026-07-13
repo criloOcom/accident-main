@@ -8,7 +8,7 @@ type: memory
 <hr>
 <!-- /Breadcrumb -->
 
-# RÈGLES PERMANENTES — Dossier Accident de la Main
+# RÈGLES PERMANENTES<br>Dossier Accident de la Main
 
 ## 🛑 PROTOCOLE ANTI-HALLUCINATION STRICT (ZÉRO INVENTIONS)
 - **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet ([🧠 Memory/STRICT VARIABLES.md](STRICT%20VARIABLES.md) ou [🧠 Memory/KNOWLEDGE_GRAPH.json](KNOWLEDGE_GRAPH.json)).

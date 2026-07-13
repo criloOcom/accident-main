@@ -9,7 +9,7 @@ type: readme
 <hr>
 <!-- /Breadcrumb -->
 
-# 📁 Actes — Dossier Contentieux
+# 📁 Actes<br>Dossier Contentieux
 
 Bienvenue dans le dossier central du contentieux. Ce dossier repose sur une **double strate** : des versions anonymisées pour le travail courant, et des versions réelles pour l'impression et l'envoi.
 

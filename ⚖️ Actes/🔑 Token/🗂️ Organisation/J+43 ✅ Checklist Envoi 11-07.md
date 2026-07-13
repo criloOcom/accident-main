@@ -18,7 +18,7 @@ reel_path: ../../👤 Reel/🗂️ Organisation/24 ✅ Checklist Envoi 11-07-202
 <hr>
 <!-- /Breadcrumb -->
 
-# CHECKLIST ENVOI LRAR — 11 JUILLET 2026
+# CHECKLIST ENVOI LRAR<br>11 JUILLET 2026
 
 ## 1. AVANT DEPART — PREPARATION
 

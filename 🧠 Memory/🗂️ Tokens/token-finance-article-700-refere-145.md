@@ -3,7 +3,7 @@
 <hr>
 <!-- /Breadcrumb -->
 
-# 💰 Finance — Article 700 Référé 145
+# 💰 Finance<br>Article 700 Référé 145
 
 **Token :** `**[Finance Article 700 Référé 145]**`
 

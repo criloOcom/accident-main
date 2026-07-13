@@ -8,7 +8,7 @@ type: rapport
 <hr>
 <!-- /Breadcrumb -->
 
-# RAPPORT D'AUDIT — PRIORITÉS D'ENVOI DES COURRIERS
+# RAPPORT D'AUDIT<br>PRIORITÉS D'ENVOI DES COURRIERS
 
 > **Date :** 10 juillet 2026  
 > **Objet :** Audit de l'ordonnancement des 35 courriers (Vague 1 = 11/07, Vague 2 = 13-14/07)  

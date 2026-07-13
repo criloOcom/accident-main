@@ -8,7 +8,7 @@ type: rapport
 <hr>
 <!-- /Breadcrumb -->
 
-# RAPPORT — Liens obligatoires sur les citations internes
+# RAPPORT<br>Liens obligatoires sur les citations internes
 
 ## Objectif
 Garantir que **toute citation d'un dossier ou d'un fichier interne au dépôt** soit un **lien relatif cliquable** (Markdown `[texte](chemin)`), jamais un simple texte entre backticks sans lien. Objectif : navigation totale entre tous les fichiers, sans régression qualité par les agents futurs.

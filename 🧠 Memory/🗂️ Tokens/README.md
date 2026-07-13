@@ -8,7 +8,7 @@ type: memory
 <hr>
 <!-- /Breadcrumb -->
 
-# 🗂️ Tokens — Fiches individuelles
+# 🗂️ Tokens<br>Fiches individuelles
 
 Ce dossier contient **71 fiches individuelles** (55 identité + 16 financiers). Les fiches identité sont listées dans la `[TOKEN MAP.md](../TOKEN%20MAP.md)` ; les fiches financières sont documentées ci-dessous.
 

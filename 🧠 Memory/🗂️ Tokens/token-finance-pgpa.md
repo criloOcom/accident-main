@@ -3,7 +3,7 @@
 <hr>
 <!-- /Breadcrumb -->
 
-# 💰 Finance — PGPA
+# 💰 Finance<br>PGPA
 
 **Token :** `**[Finance PGPA]**`
 

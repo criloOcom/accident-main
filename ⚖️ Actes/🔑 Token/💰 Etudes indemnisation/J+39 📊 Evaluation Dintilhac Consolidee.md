@@ -21,7 +21,7 @@ source: local
 <hr>
 <!-- /Breadcrumb -->
 
-# ÉVALUATION DINTILHAC CONSOLIDÉE — 11 + 12
+# ÉVALUATION DINTILHAC CONSOLIDÉE<br>11 + 12
 
 [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) <br>
 [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md) <br>

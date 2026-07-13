@@ -3,7 +3,7 @@
 <hr>
 <!-- /Breadcrumb -->
 
-# 💰 Finance — Évaluation Initiale
+# 💰 Finance<br>Évaluation Initiale
 
 **Token :** `**[Finance Evaluation Initiale]**`
 

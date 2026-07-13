@@ -24,7 +24,7 @@ drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
 
 - [INTRODUCTION](#introduction)
 
-# ACTION DIRECTE — MISE EN DEMEURE ASSUREUR RC
+# ACTION DIRECTE<br>MISE EN DEMEURE ASSUREUR RC
 > 🔗 Source Google Drive : [1_tNTGHf1VGn…](https://drive.google.com/open?id=1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY)
 Rédigé le **[J+31 Mises en demeure]**
 

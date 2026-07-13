@@ -17,7 +17,7 @@ categorie: fiche_suivi
 <hr>
 <!-- /Breadcrumb -->
 
-# 📋 FICHE DE SUIVI — DÉMARCHES ADMINISTRATIVES
+# 📋 FICHE DE SUIVI<br>DÉMARCHES ADMINISTRATIVES
 
 ## 1. Tableau de suivi des courriers LRAR
 

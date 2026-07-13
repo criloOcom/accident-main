@@ -17,7 +17,7 @@ no_index: true
 <hr>
 <!-- /Breadcrumb -->
 
-# Prompt Avocat — Revue des 12 Courriers J+37
+# Prompt Avocat<br>Revue des 12 Courriers J+37
 
 > **⚠️ AUDIT VERROUILLÉ PAR L'AVOCAT LE 12/07/2026**
 > - Deux anomalies identifiées et corrigées : **L.310-1-1-2 C. assur.** (hors sujet affichage RC) et **Art. 56-1 CPP** (hors sujet vidéosurveillance)

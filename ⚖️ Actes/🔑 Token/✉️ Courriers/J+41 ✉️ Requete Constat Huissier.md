@@ -16,7 +16,7 @@ auteur: La Victime
 <hr>
 <!-- /Breadcrumb -->
 
-# ⚠️ FICHIER OBSOLÈTE — NE PLUS UTILISER
+# ⚠️ FICHIER OBSOLÈTE<br>NE PLUS UTILISER
 
 > Ce fichier a été remplacé par **[03 🔍 Assignation Article 145.md](../⚖️%20Actes%20proceduraux/03%20🔍%20Assignation%20Article%20145.md)** dans `⚖️ Actes proceduraux/`.
 >

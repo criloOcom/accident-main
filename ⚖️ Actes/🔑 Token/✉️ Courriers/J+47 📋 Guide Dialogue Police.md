@@ -21,7 +21,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 > ⚠️ **DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER**
 > Aide-mémoire pour préparer l'audition. À lire avant, laisser chez soi.
 
-# GUIDE DE DIALOGUE — ÉCHANGES AVEC LA POLICE DE FOIX
+# GUIDE DE DIALOGUE<br>ÉCHANGES AVEC LA POLICE DE FOIX
 
 **Objectif :** Ce guide vous accompagne pas à pas lors de votre déplacement au commissariat de Foix. Il contient les phrases clés à utiliser, les questions à poser, les réponses aux objections possibles, et la stratégie pour présenter efficacement votre dossier.
 

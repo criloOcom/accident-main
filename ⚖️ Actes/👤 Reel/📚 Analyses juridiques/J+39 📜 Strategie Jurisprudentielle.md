@@ -17,7 +17,7 @@ source: local
 <hr>
 <!-- /Breadcrumb -->
 
-# STRATÉGIE JURISPRUDENTIELLE — BASCULEMENT VASQUE SALON DE COIFFURE
+# STRATÉGIE JURISPRUDENTIELLE<br>BASCULEMENT VASQUE SALON DE COIFFURE
 
 > **Objet** : Mapping des arrêts de la Cour de cassation au cas concret, hiérarchie argumentative et préparation des débats.
 

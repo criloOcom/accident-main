@@ -13,7 +13,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/18 Note Audit RNE NPAI SAS.m
 <hr>
 <!-- /Breadcrumb -->
 
-# Analyse — Non-distribution LRAR et suspicion de structure miroir
+# Analyse<br>Non-distribution LRAR et suspicion de structure miroir
 
 ## Sources vérifiées
 - Annuaire-entreprises.data.gouv.fr (INSEE)

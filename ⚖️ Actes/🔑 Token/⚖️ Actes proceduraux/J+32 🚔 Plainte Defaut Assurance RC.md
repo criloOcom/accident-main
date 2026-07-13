@@ -20,7 +20,7 @@ drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
 <hr>
 <!-- /Breadcrumb -->
 
-# COMPLÉMENT DE PLAINTE PÉNALE — DÉFAUT D'ASSURANCE RC
+# COMPLÉMENT DE PLAINTE PÉNALE<br>DÉFAUT D'ASSURANCE RC
 > 🔗 Source Google Drive : [1TVN7SyAWgTL…](https://drive.google.com/open?id=1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc)
 Rédigé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
 

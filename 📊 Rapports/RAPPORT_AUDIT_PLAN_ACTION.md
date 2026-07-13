@@ -8,7 +8,7 @@ type: rapport
 <hr>
 <!-- /Breadcrumb -->
 
-# RAPPORT D'AUDIT — PLAN D'ACTION ET ORDONNANCEMENT
+# RAPPORT D'AUDIT<br>PLAN D'ACTION ET ORDONNANCEMENT
 
 **Date :** 10 juillet 2026  
 **Objet :** Audit de cohérence transverse entre le Plan d'action, le Calendrier procédural, les actions réalisées IA, les tâches humaines en suspens, et le suivi LRAR  

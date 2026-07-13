@@ -9,7 +9,7 @@ statut: projet
 <hr>
 <!-- /Breadcrumb -->
 
-# RAPPORT AUDIT HERMÈS — Conformité technique du dépôt
+# RAPPORT AUDIT HERMÈS<br>Conformité technique du dépôt
 
 **Date** : 2026-07-11
 **Auditeur** : Hermès (mode read-only, aucune modification du dépôt)

@@ -8,7 +8,7 @@ type: readme
 <hr>
 <!-- /Breadcrumb -->
 
-# 🚦 Status — Index des documents par statut
+# 🚦 Status<br>Index des documents par statut
 
 Ce dossier regroupe tous les documents du dossier **Accident Main** classés par statut de délivrance.
 

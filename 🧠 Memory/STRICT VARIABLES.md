@@ -8,7 +8,7 @@ type: memory
 <hr>
 <!-- /Breadcrumb -->
 
-# VARIABLES STRICTES — Source Unique de Vérité
+# VARIABLES STRICTES<br>Source Unique de Vérité
 
 **NE JAMAIS MODIFIER NI INVENTER.** Ces valeurs prévalent sur tout autre contenu.
 

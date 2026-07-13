@@ -3,7 +3,7 @@
 <hr>
 <!-- /Breadcrumb -->
 
-# 💰 Finance — Préjudice Esthétique
+# 💰 Finance<br>Préjudice Esthétique
 
 **Token :** `**[Finance Préjudice Esthétique]**`
 

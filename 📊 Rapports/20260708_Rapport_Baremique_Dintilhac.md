@@ -17,7 +17,7 @@ auteur: Expert en chiffrage Dintilhac (Jules)
 <hr>
 <!-- /Breadcrumb -->
 
-# RAPPORT D'EXPERTISE BARÉMIQUE — ÉVALUATION DINTILHAC
+# RAPPORT D'EXPERTISE BARÉMIQUE<br>ÉVALUATION DINTILHAC
 
 **Contexte :** Évaluation financière des préjudices corporels subis par la victime. Analyse détaillée poste par poste au regard des barèmes de référence (Mornet 2024, BIBAL, jurisprudence).
 

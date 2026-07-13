@@ -8,7 +8,7 @@ type: rapport
 <hr>
 <!-- /Breadcrumb -->
 
-# Rapport d'Audit JURITEXT — Mission M6
+# Rapport d'Audit JURITEXT<br>Mission M6
 
 **Date :** 10 juillet 2026  
 **Périmètre :** [⚖️ Actes/🔑 Token](⚖️%20Actes/🔑%20Token/README.md) (dossiers 01 à 06)  

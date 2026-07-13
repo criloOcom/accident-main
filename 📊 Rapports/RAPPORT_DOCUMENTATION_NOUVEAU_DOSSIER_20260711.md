@@ -8,7 +8,7 @@ type: rapport
 <hr>
 <!-- /Breadcrumb -->
 
-# RAPPORT DE DOCUMENTATION — Nouveau Dossier ERP
+# RAPPORT DE DOCUMENTATION<br>Nouveau Dossier ERP
 
 **Date** : 11 juillet 2026
 **Projet** : Accident Main - Dossier Sébastien GRAZIDE
@@ -151,7 +151,7 @@ gantt
 
 **⚖️ Actes/Preuves officielles/README.md**
 ```markdown
-# Index — 📂 Preuves officielles (Versions Réelles)
+# Index<br>📂 Preuves officielles (Versions Réelles)
 
 - [01 📁 Dossier UMJ Preparation.md](01%20📁%20Dossier%20UMJ%20Preparation.md)
 - [20260710 📧 Actualisation Dossier ERP/](../⚖️%20Actes/Preuves%20officielles/20260710%20📧%20Actualisation%20Dossier%20ERP)

@@ -8,7 +8,7 @@ type: rapport
 <hr>
 <!-- /Breadcrumb -->
 
-# RAPPORT D'AUDIT — MATRICE DES RISQUES JURIDIQUES ET PROCÉDURAUX
+# RAPPORT D'AUDIT<br>MATRICE DES RISQUES JURIDIQUES ET PROCÉDURAUX
 
 **Date :** 10 juillet 2026
 **Objet :** Analyse exhaustive des risques pesant sur l'issue du dossier Accident Main

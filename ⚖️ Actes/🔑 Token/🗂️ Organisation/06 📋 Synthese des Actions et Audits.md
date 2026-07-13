@@ -10,7 +10,7 @@ reel_path: ../../👤 Reel/🗂️ Organisation/06 📋 Synthese des Actions et 
 <hr>
 <!-- /Breadcrumb -->
 
-# Note de Synthèse — Avancement des Audits & Recommandations
+# Note de Synthèse<br>Avancement des Audits & Recommandations
 
 Cette note récapitule l'analyse systématique de tous les rapports d'audit dans [📊 Rapports](%F0%9F%93%8A_Rapports/README.md) et catégorise l'état d'avancement des tâches en suspens.
 

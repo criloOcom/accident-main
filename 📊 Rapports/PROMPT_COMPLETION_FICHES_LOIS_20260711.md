@@ -8,7 +8,7 @@ type: rapport
 <hr>
 <!-- /Breadcrumb -->
 
-# PROMPT — Complétion des 5 fiches 📜 Lois
+# PROMPT<br>Complétion des 5 fiches 📜 Lois
 
 ## Contexte
 5 fiches ont été créées dans [📜 Lois](📜%20Lois/README.md) avec un frontmatter valide mais un corps marqué `⚠️ À VÉRIFIER` (texte légal non récupéré car Légifrance était bloqué par Cloudflare dans l'environnement de création). Leur nom de fichier et leur emplacement respectent déjà les liens du [📜 Lois/README.md](📜%20Lois/README.md), donc les liens ne sont PAS morts — seul le corps légal est à compléter.

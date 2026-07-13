@@ -10,7 +10,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/Note qualification penale di
 <hr>
 <!-- /Breadcrumb -->
 
-# Note juridique : Qualification pénale — Disparition de la SAS
+# Note juridique : Qualification pénale<br>Disparition de la SAS
 
 **Dossier :** [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) c/ [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
 **Rédacteur :** [Nom Prénom de l'Avocat](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)

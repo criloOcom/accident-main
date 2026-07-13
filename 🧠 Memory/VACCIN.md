@@ -8,7 +8,7 @@ type: memory
 <hr>
 <!-- /Breadcrumb -->
 
-# VACCIN — Protocole obligatoire avant chaque action
+# VACCIN<br>Protocole obligatoire avant chaque action
 
 > **Objectif** : empêcher l'IA de livrer du travail médiocre en la forçant à
 > s'imprégner du contexte existant avant d'agir.

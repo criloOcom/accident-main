@@ -14,7 +14,7 @@ article: "145"
 <hr>
 <!-- /Breadcrumb -->
 
-# Code civil — Art. 145
+# Code civil<br>Art. 145
 
 > **Nature** : Code
 

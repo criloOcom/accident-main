@@ -14,7 +14,7 @@ article: "835"
 <hr>
 <!-- /Breadcrumb -->
 
-# Code civil — Art. 835
+# Code civil<br>Art. 835
 
 > **Nature** : Code
 

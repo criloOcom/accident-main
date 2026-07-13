@@ -8,7 +8,7 @@ type: memory
 <hr>
 <!-- /Breadcrumb -->
 
-# TODO — Plans d'action + Tableau de bord Sébastien
+# TODO<br>Plans d'action + Tableau de bord Sébastien
 
 > **Dernière mise à jour :** 15 juillet 2026
 >

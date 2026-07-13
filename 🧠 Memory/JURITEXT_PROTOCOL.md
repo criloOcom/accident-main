@@ -8,7 +8,7 @@ type: memory
 <hr>
 <!-- /Breadcrumb -->
 
-# PROTOCOLE JURITEXT — Vérification obligatoire des identifiants de jurisprudence
+# PROTOCOLE JURITEXT<br>Vérification obligatoire des identifiants de jurisprudence
 
 > **Règle absolue** : tout agent qui insère, modifie ou vérifie une JURITEXT
 > DOIT suivre ce protocole. Pas d'exception.

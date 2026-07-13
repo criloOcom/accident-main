@@ -14,7 +14,7 @@ article: "475-1"
 <hr>
 <!-- /Breadcrumb -->
 
-# Code pénal — Art. 475-1
+# Code pénal<br>Art. 475-1
 
 > **Nature** : Code
 

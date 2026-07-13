@@ -8,7 +8,7 @@ type: memory
 <hr>
 <!-- /Breadcrumb -->
 
-# TABLE DE SUBSTITUTION — Anonymisation (tokens V2)
+# TABLE DE SUBSTITUTION<br>Anonymisation (tokens V2)
 
 ## Personnes physiques {#personnes-physiques}
 | Texte original | Token |

@@ -16,7 +16,7 @@ auteur: Huissier de Justice
 <hr>
 <!-- /Breadcrumb -->
 
-# PROCÈS-VERBAL DE CONSTAT VIRTUEL — CAHIER DES CHARGES DES OPÉRATIONS À MENER
+# PROCÈS-VERBAL DE CONSTAT VIRTUEL<br>CAHIER DES CHARGES DES OPÉRATIONS À MENER
 
 Ce document décrit, en amont de la réalisation physique du constat, le déroulé précis et exhaustif des opérations de constatations matérielles requises au sein du salon de coiffure **[L'Exploitant du Commerce (La SAS)]** sis **[L'Adresse de l'Exploitation]**.
 

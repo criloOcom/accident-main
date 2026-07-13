@@ -8,7 +8,7 @@ type: memory
 <hr>
 <!-- /Breadcrumb -->
 
-# PLAN D'ACTION B — OBTENTION DES PREUVES MATÉRIELLES
+# PLAN D'ACTION B<br>OBTENTION DES PREUVES MATÉRIELLES
 
 ## Priorité 1 — Phase amiable (échéance 14 juillet 2026 — clôturée)
 

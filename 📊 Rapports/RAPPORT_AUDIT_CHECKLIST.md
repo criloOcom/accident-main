@@ -17,7 +17,7 @@ auteur: Agent d'audit
 <hr>
 <!-- /Breadcrumb -->
 
-# RAPPORT D'AUDIT — CHECKLIST ENVOI LRAR 11 JUILLET 2026
+# RAPPORT D'AUDIT<br>CHECKLIST ENVOI LRAR 11 JUILLET 2026
 
 **Contexte :** Vérification de la cohérence entre le fichier `23 📊 Suivi Envois LRAR.md`, le fichier `24 ✅ Checklist Envoi 11-07-2026.md`, et les courriers réels (12, 14, 19, 35).
 

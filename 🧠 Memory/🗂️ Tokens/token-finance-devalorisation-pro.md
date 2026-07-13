@@ -3,7 +3,7 @@
 <hr>
 <!-- /Breadcrumb -->
 
-# 💰 Finance — Dévalorisation Pro
+# 💰 Finance<br>Dévalorisation Pro
 
 **Token :** `**[Finance Dévalorisation Pro]**`
 

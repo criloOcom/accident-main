@@ -8,7 +8,7 @@ type: memory
 <hr>
 <!-- /Breadcrumb -->
 
-# ⚠ DÉPRÉCIÉ — VARIABLES FINANCIÈRES
+# ⚠ DÉPRÉCIÉ<br>VARIABLES FINANCIÈRES
 
 **Ce fichier est déprécié.** La Source Unique de Vérité est désormais `STRICT VARIABLES.md`, qui contient une section "Correspondance tokens financiers alternatifs `[Finance ...]`" reprenant l'intégralité de ce contenu.
 

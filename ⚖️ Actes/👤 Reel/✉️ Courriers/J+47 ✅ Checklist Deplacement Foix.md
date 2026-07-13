@@ -21,7 +21,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_
 > ⚠️ **DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER**
 > Checklist personnelle pour organiser le déplacement à Foix.
 
-# CHECKLIST COMPLÈTE — DÉPLACEMENT À FOIX (15 JUILLET 2026)
+# CHECKLIST COMPLÈTE<br>DÉPLACEMENT À FOIX (15 JUILLET 2026)
 
 ## 📋 PROGRAMME DE LA JOURNÉE
 

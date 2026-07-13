@@ -8,7 +8,7 @@ type: memory
 <hr>
 <!-- /Breadcrumb -->
 
-# STATUT D'AVANCEMENT — 13 juillet 2026
+# STATUT D'AVANCEMENT<br>13 juillet 2026
 
 > **Phase 21 ✅** Navigation Interactive Cross-Document — 1 766 liens relatifs créés
 >

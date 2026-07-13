@@ -18,7 +18,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/39 📋 GUIDE_DEMANDE_AJ.md
 <hr>
 <!-- /Breadcrumb -->
 
-# GUIDE — DEMANDE D'AIDE JURIDICTIONNELLE TOTALE
+# GUIDE<br>DEMANDE D'AIDE JURIDICTIONNELLE TOTALE
 
 > À déposer au **BAJ (Bureau d'Aide Juridictionnelle)** du TJ de Foix, Avenue Paul Laffont, 09000 Foix
 

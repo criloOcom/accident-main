@@ -3,7 +3,7 @@
 <hr>
 <!-- /Breadcrumb -->
 
-# 💰 Finance — Astreinte 145
+# 💰 Finance<br>Astreinte 145
 
 **Token :** `**[Finance Astreinte 145]**`
 

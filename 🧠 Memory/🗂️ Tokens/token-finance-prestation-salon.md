@@ -3,7 +3,7 @@
 <hr>
 <!-- /Breadcrumb -->
 
-# 💰 Finance — Prestation Salon
+# 💰 Finance<br>Prestation Salon
 
 **Token :** `**[Finance Prestation Salon]**`
 

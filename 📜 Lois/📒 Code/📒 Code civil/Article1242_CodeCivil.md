@@ -14,7 +14,7 @@ article: "1242"
 <hr>
 <!-- /Breadcrumb -->
 
-# Code civil — Art. 1242
+# Code civil<br>Art. 1242
 
 > **Nature** : Code
 

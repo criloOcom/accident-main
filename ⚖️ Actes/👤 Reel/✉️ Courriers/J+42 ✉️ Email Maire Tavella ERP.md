@@ -14,7 +14,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police 
 <hr>
 <!-- /Breadcrumb -->
 
-# EMAIL — Éléments d'actualisation sur le dossier ERP ([22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md))
+# EMAIL<br>Éléments d'actualisation sur le dossier ERP ([22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md))
 
 **Destinataire** : `[btavella@mairie-foix.fr](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-l-adjoint-au-maire.md)`
 **Copie (Cc)** : `[secretariat@mairie-foix.fr](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-du-secretariat-de-la-mairie.md)`

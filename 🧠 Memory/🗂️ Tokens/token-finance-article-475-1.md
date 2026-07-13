@@ -3,7 +3,7 @@
 <hr>
 <!-- /Breadcrumb -->
 
-# 💰 Finance — Article 475-1
+# 💰 Finance<br>Article 475-1
 
 **Token :** `**[Finance Article 475-1]**`
 

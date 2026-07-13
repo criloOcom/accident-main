@@ -9,12 +9,12 @@ statut: personnel
 <hr>
 <!-- /Breadcrumb -->
 
-# ⚠️ DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER
+# ⚠️ DOCUMENT PERSONNEL<br>NE PAS VERSER AU DOSSIER
 > Antisèche orale : aide-mémoire pour l'audition libre au Commissariat de Foix.
 > La version officielle à déposer est le fichier **36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md**.
 
-# 📋 ANTISÈCHE ORALE — Plainte Complémentaire
-# **Dossier [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Accident du 29 mai 2026**
+# 📋 ANTISÈCHE ORALE<br>Plainte Complémentaire
+# **Dossier [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)<br>Accident du 29 mai 2026**
 
 **À l'attention de : Commissariat de Police de Foix — Service des Plaintes — Officier en charge du [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)**
 

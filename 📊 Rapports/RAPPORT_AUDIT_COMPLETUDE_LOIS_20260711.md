@@ -8,7 +8,7 @@ type: rapport
 <hr>
 <!-- /Breadcrumb -->
 
-# RAPPORT D'AUDIT — Complétude du Dossier 📜 Lois
+# RAPPORT D'AUDIT<br>Complétude du Dossier 📜 Lois
 
 **Date** : 11 juillet 2026
 **Projet** : Accident Main - Dossier Sébastien GRAZIDE

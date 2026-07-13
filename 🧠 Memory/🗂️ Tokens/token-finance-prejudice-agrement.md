@@ -3,7 +3,7 @@
 <hr>
 <!-- /Breadcrumb -->
 
-# 💰 Finance — Préjudice d'Agrément
+# 💰 Finance<br>Préjudice d'Agrément
 
 **Token :** `**[Finance Préjudice Agrément]**`
 

@@ -14,7 +14,7 @@ article: "1720"
 <hr>
 <!-- /Breadcrumb -->
 
-# Code civil — Art. 1720
+# Code civil<br>Art. 1720
 
 > **Nature** : Code
 

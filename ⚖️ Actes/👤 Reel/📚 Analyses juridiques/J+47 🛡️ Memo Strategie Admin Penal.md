@@ -20,7 +20,7 @@ auteur: La Victime
 <hr>
 <!-- /Breadcrumb -->
 
-# MÉMO STRATÉGIQUE — VOIES ADMINISTRATIVE ET PÉNALE
+# MÉMO STRATÉGIQUE<br>VOIES ADMINISTRATIVE ET PÉNALE
 
 > **Date :** 15 juillet 2026
 > **Source :** Consultation avocat (réponse à nos questions sur la proactivité)

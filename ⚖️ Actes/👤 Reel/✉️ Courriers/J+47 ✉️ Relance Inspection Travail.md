@@ -20,7 +20,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/42 ✉️ Relance Inspection Travail
 <hr>
 <!-- /Breadcrumb -->
 
-# RELANCE — INSPECTION DU TRAVAIL
+# RELANCE<br>INSPECTION DU TRAVAIL
 
 > Courrier recommandé avec accusé de réception
 > Fondement : Code des relations entre le public et l'administration (CRPA, Art. L. 300-1)

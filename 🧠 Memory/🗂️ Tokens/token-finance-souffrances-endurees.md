@@ -3,7 +3,7 @@
 <hr>
 <!-- /Breadcrumb -->
 
-# 💰 Finance — Souffrances Endurées
+# 💰 Finance<br>Souffrances Endurées
 
 **Token :** `**[Finance Souffrances Endurées]**`
 

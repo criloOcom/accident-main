@@ -9,7 +9,7 @@ statut: projet
 <hr>
 <!-- /Breadcrumb -->
 
-# PLAN DE CORRECTION HERMÈS — Audit 2026-07-11
+# PLAN DE CORRECTION HERMÈS<br>Audit 2026-07-11
 
 **Mode** : read-only (ce document est un plan ; aucune modification du dépôt n'est effectuée).
 **Référence** : [📊 Rapports/RAPPORT_AUDIT_HERMES_20260711.md](RAPPORT_AUDIT_HERMES_20260711.md)

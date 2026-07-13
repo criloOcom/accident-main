@@ -10,7 +10,7 @@ type: archive
 
 statut: annexe
 
-# ANNEXE C — LISTE DES PIÈCES
+# ANNEXE C<br>LISTE DES PIÈCES
 
 ## PIÈCES MÉDICALES
 - **[J+0 Accident]** — **[Le Médecin en Urgence]** — Premiers soins urgence — [🔗 Drive](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view)

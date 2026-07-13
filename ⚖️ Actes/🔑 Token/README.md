@@ -9,7 +9,7 @@ type: readme
 <hr>
 <!-- /Breadcrumb -->
 
-# 🎭 Actes / token — Version Anonymisée
+# 🎭 Actes / token<br>Version Anonymisée
 
 ---
 

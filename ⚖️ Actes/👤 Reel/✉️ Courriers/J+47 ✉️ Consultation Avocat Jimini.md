@@ -19,7 +19,7 @@ auteur: La Victime
 <hr>
 <!-- /Breadcrumb -->
 
-# EMAIL — CONSULTATION PROACTIVITÉ VICTIME
+# EMAIL<br>CONSULTATION PROACTIVITÉ VICTIME
 
 > **Temporalité :** version pour envoi **avant** le 15 juillet. Si envoyé après, remplacer « Demain 15 juillet » par « Le 15 juillet ».
 

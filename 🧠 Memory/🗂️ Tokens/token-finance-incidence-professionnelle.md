@@ -3,7 +3,7 @@
 <hr>
 <!-- /Breadcrumb -->
 
-# 💰 Finance — Incidence Professionnelle
+# 💰 Finance<br>Incidence Professionnelle
 
 **Token :** `**[Finance Incidence Professionnelle]**`
 

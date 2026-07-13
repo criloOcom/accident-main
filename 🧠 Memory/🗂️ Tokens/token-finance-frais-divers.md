@@ -3,7 +3,7 @@
 <hr>
 <!-- /Breadcrumb -->
 
-# 💰 Finance — Frais Divers
+# 💰 Finance<br>Frais Divers
 
 **Token :** `**[Finance Frais Divers]**`
 

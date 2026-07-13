@@ -14,7 +14,7 @@ article: "222-20"
 <hr>
 <!-- /Breadcrumb -->
 
-# Code pénal — Art. 222-20
+# Code pénal<br>Art. 222-20
 
 > **Nature** : Code
 

@@ -8,7 +8,7 @@ type: memory
 <hr>
 <!-- /Breadcrumb -->
 
-# NOTIFICATION — Application immédiate de l'Avenant Nomenclature
+# NOTIFICATION<br>Application immédiate de l'Avenant Nomenclature
 
 **Date** : 10 juillet 2026
 **Destinataires** : Tous les agents (opencode, Jules, NotebookLM, Google Gemini, tiers)
