@@ -43,7 +43,7 @@ Il identifie les manquements aux obligations légales et réglementaires imputab
 
 <hr><hr>
 
-## I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
+## I — PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon exploité par [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md).
 
 Lors de cet événement, le basculement d'un équipement défectueux a causé une section nerveuse et tendineuse grave à la main dominante de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md).
@@ -54,7 +54,7 @@ PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-a
 
 <hr><hr>
 
-## II. LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS
+## II — LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS
 ### A. LA FAUTE DÉTACHABLE DES FONCTIONS ET L'ÉCRAN DE LA PERSONNALITÉ MORALE
 En principe, la personnalité morale de L'Exploitant protège le patrimoine personnel de ses dirigeants. Toutefois, la responsabilité civile personnelle du Président ou du Directeur Général peut être engagée en cas de "faute détachable".
 
@@ -93,7 +93,7 @@ Une condamnation pour blessures involontaires sur le fondement de l'article 222-
 
 <hr><hr>
 
-## III. MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
+## III — MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
 ### A. L'ACTION DIRECTE CONTRE L'ASSUREUR DE RESPONSABILITÉ CIVILE
 La Victime dispose d'un droit propre et autonome sur l'indemnité d'assurance en vertu de l'article L. 124-3 du Code des assurances.
 
@@ -124,7 +124,7 @@ Le préjudice global est estimé à **~90 000 €**, incluant le déficit foncti
 
 <hr><hr>
 
-## IV. SYNTHÈSE DES ACTIONS ET DÉMARCHES EN COURS
+## IV — SYNTHÈSE DES ACTIONS ET DÉMARCHES EN COURS
 Une stratégie multi-niveaux a été déployée : une plainte pénale complémentaire a été déposée pour défaut d'assurance et entrave, parallèlement à la transmission des pièces médicales au Procureur. 
 
 Enfin, des mises en demeure ont été adressées à L'Exploitant et à ses Dirigeants pour obtenir les garanties nécessaires à la résolution du litige, tandis que le propriétaire des murs a été sollicité pour la communication des coordonnées de l'assureur (via les annexes du bail commercial).

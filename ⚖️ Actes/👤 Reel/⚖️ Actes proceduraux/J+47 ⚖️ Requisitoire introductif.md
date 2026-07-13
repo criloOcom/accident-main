@@ -35,7 +35,7 @@ Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%
 
 <hr><hr>
 
-## I. PROBLÉMATIQUE ET EXPOSÉ DES FAITS
+## I — PROBLÉMATIQUE ET EXPOSÉ DES FAITS
 Le Ministère Public a été saisi par la plainte, puis par la [constitution de partie civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) en date du [6 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md), déposées par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à l'encontre de la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), ainsi que de ses dirigeants, [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md).
 
 Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), sis [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md), a été victime d'un grave accident corporel.
@@ -54,7 +54,7 @@ Il convient de déterminer si ces faits sont constitutifs d'infractions pénales
 
 <hr><hr>
 
-## II. FONDEMENTS JURIDIQUES ET QUALIFICATIONS PÉNALES ENVISAGÉES
+## II — FONDEMENTS JURIDIQUES ET QUALIFICATIONS PÉNALES ENVISAGÉES
 
 ### A. SUR LES BLESSURES INVOLONTAIRES
 L'Incapacité Totale de Travail (ITT) étant de 56 jours, soit une durée inférieure ou égale à trois mois, la qualification délictuelle ne peut être retenue sur le fondement de l'article 222-19 du Code pénal, qui exige une ITT supérieure à trois mois.
@@ -104,7 +104,7 @@ Conformément à l'article 8 du Code de procédure pénale, l'action publique po
 
 <hr><hr>
 
-## III. ARGUMENTATION DU MINISTÈRE PUBLIC
+## III — ARGUMENTATION DU MINISTÈRE PUBLIC
 Les faits dénoncés revêtent une indéniable gravité, les conséquences pour la victime, informaticien de profession, étant majeures (atteinte nerveuse de la main dominante).
 
 L'enquête préliminaire se heurte actuellement à l'obstruction manifeste de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et de ses dirigeants, qui refusent de communiquer les attestations d'assurance de responsabilité civile professionnelle de l'établissement, paralysant l'indemnisation de la victime via l'action directe prévue par l'article L. 124-3 du Code des assurances.
@@ -132,7 +132,7 @@ L'ouverture d'une information judiciaire avec l'intervention d'un juge d'instruc
 
 <hr><hr>
 
-## IV. CONCLUSION ET REQUISITIONS
+## IV — CONCLUSION ET REQUISITIONS
 
 Par ces motifs,
 
@@ -158,7 +158,7 @@ Fait au Parquet de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%2
 
 <hr><hr>
 
-## V. ÉVALUATION PROSPECTIVE ET JURISPRUDENTIELLE DES POURSUITES
+## V — ÉVALUATION PROSPECTIVE ET JURISPRUDENTIELLE DES POURSUITES
 À titre prospectif pour les suites de cette procédure, l'attention est attirée sur le fait que la jurisprudence (notamment l'arrêt de principe Sati, Cass. com. 20 mai 2003, n°99-17.092) est rigoureuse pour retenir la responsabilité personnelle d'un dirigeant : il faut prouver la faute intentionnelle d'une particulière gravité.
 
 Toutefois, la dissimulation d'assurance associée au maintien en état de fonctionnement d'un équipement brisé et coupant peut s'analyser comme une telle faute.

@@ -47,7 +47,7 @@ Le 30 juin 2026
 
 <hr>
 
-## I. INTRODUCTION ET CONTEXTE
+## I — INTRODUCTION ET CONTEXTE
 Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de Sébastien GRAZIDE (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi 29 mai 2026 à 15h00.
 
 L'incident s'est produit au sein de l'établissement « SAS LES MAUVAIS GARCONS » (ci-après désigné "L'Exploitant"), exploité par une SAS dont la direction est assurée par Sabir MOUNTASSER et Catherine ANDISSAC.
@@ -60,7 +60,7 @@ Cette analyse s'appuie sur le principe de la réparation intégrale, visant à r
 
 <hr>
 
-## II. ANALYSE DES FAITS GÉNÉRATEURS DE RESPONSABILITÉ
+## II — ANALYSE DES FAITS GÉNÉRATEURS DE RESPONSABILITÉ
 L'accident trouve son origine dans la manœuvre imprudente d'un employé préposé monté sur un bac à shampoing, entraînant le basculement soudain de cet équipement lourd.
 
 En tentant instinctivement de retenir le meuble pour éviter une chute plus grave, la main droite de Sébastien GRAZIDE a percuté une vasque en céramique avec cassure préexistante. Les arêtes tranchantes de la vasque ont causé des lésions profondes.
@@ -75,7 +75,7 @@ Il est à noter que l'établissement a procédé à un remboursement de 15 €, 
 
 <hr>
 
-## III. BILAN MÉDICAL ET PRÉJUDICES IDENTIFIÉS
+## III — BILAN MÉDICAL ET PRÉJUDICES IDENTIFIÉS
 Après une prise en charge initiale par Dr Julie JARDON au SMUR 09, Sébastien GRAZIDE a été transférée en urgence clinique pour une microchirurgie réalisée le 30 mai 2026 par Le Chirurgien SOS Main.
 
 Le bilan clinique révèle une section partielle du tendon fléchisseur superficiel de l'index droit, une section complète du paquet collatéral ulnaire et radial, ainsi qu'une neurolyse du nerf collatéral palmaire.
@@ -86,7 +86,7 @@ Pour un informaticien indépendant dont la main droite est la main dominante, ce
 
 <hr>
 
-## IV. STRATÉGIE DE RECOURS ET FONDEMENTS JURIDIQUES
+## IV — STRATÉGIE DE RECOURS ET FONDEMENTS JURIDIQUES
 ### A. ACTION DIRECTE CONTRE L'ASSUREUR ET SURVIE DE LA PERSONNALITÉ MORALE
 La stratégie privilégie l'exercice de l'action directe contre L'Assureur de responsabilité civile de SAS LES MAUVAIS GARCONS, telle que prévue par [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^3].
 
@@ -129,7 +129,7 @@ Cette absence de substance financière de la société face à une éventuelle l
 
 <hr>
 
-## V. RECOMMANDATIONS ET CONCLUSION
+## V — RECOMMANDATIONS ET CONCLUSION
 Il est impératif d'intégrer des réserves judiciaires pour d'éventuelles aggravations futures.
 
 > *« Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »* <br>
@@ -161,7 +161,7 @@ Dans ce dossier, les fondements juridiques sont solides :
 
 <hr>
 
-## VI. LIMITES ET RÉSERVES SUR LA RECHERCHE JURISPRUDENTIELLE
+## VI — LIMITES ET RÉSERVES SUR LA RECHERCHE JURISPRUDENTIELLE
 ### A. ABSENCE DE JURISPRUDENCE SPÉCIFIQUE
 Aucune décision de justice spécifique aux accidents impliquant des vasques en céramique dans des salons de coiffure n'a été trouvée dans les bases officielles (Judilibre, Légifrance). La stratégie recommandée consiste à s'appuyer sur la jurisprudence constante de la Cour de cassation concernant les principes généraux de responsabilité (art. 1240, 1242 C. civ.), l'action directe (art. L.124-3 C. assurances) et l'incidence professionnelle, sans rechercher une jurisprudence de fait inexistante.
 

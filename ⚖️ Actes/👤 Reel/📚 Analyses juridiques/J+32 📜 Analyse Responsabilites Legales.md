@@ -50,7 +50,7 @@ Cette note vise à structurer les fondements juridiques permettant d'assurer la 
 
 <hr>
 
-## I. LA RESPONSABILITÉ PÉNALE POUR BLESSURES INVOLONTAIRES
+## I — LA RESPONSABILITÉ PÉNALE POUR BLESSURES INVOLONTAIRES
 Le salon est susceptible de voir sa responsabilité engagée sur le fondement de l'article 222-20 du Code pénal.
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
@@ -81,7 +81,7 @@ En vertu de l'article 121-3 du Code pénal, cette maladresse expose les dirigean
 
 <hr>
 
-## II. LA RESPONSABILITÉ CIVILE DE PLEIN DROIT
+## II — LA RESPONSABILITÉ CIVILE DE PLEIN DROIT
 Sur le plan civil, la SAS est tenue de réparer les dommages causés sans qu'il soit nécessaire de prouver une intention de nuire. Cette responsabilité repose sur plusieurs piliers du Code civil.
 
 ### A. RESPONSABILITÉ DU FAIT DES CHOSES
@@ -119,7 +119,7 @@ La responsabilité personnelle des dirigeants, [Sabir MOUNTASSER](../../../%F0%9
 
 <hr>
 
-## III. IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES
+## III — IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES
 Il convient de noter que le préposé bénéficie d'une immunité civile selon l'arrêt Costedoat (Ass. Plén., 25 fév. 2000), sauf en cas de faute pénale intentionnelle (Arrêt Cousin).
 
 > *« N'engage pas sa responsabilité civile à l'égard des tiers le préposé qui agit dans les limites de la mission à lui impartie par son commettant. »* <br>
@@ -169,7 +169,7 @@ Le juge ordonnera alors la communication forcée de l'attestation d'assurance de
 
 *[Zoom Pédagogique - Le refus de fournir l'assurance est-il légal ? : Non. La loi interdit au responsable de bloquer vos droits. Si le gérant fait obstruction, le tribunal peut le condamner à vous fournir son attestation d'assurance sous peine d'amendes journalières (astreinte). C'est une procédure classique de référé pour vaincre la mauvaise foi.]*
 
-## IV. RECOUVREMENT — QUI PAIE EN CAS D'INSOLVABILITÉ ?
+## IV — RECOUVREMENT — QUI PAIE EN CAS D'INSOLVABILITÉ ?
 ⚠ **L'exploitant [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) a un capital social de 200 € seulement.** Le risque d'insolvabilité est maximal. Voici les voies de recouvrement par ordre de priorité.
 
 ### A. ACTION DIRECTE CONTRE L'ASSUREUR RC (L.124-3 C. ASSURANCES)

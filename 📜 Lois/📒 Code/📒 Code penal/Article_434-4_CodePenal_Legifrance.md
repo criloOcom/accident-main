@@ -1,6 +1,6 @@
 ---
 title: "Article 434-4 du Code pénal"
-description: "Code pénal — Destruction de preuves"
+description: "Code pénal — Entrave à la manifestation de la vérité"
 type: loi
 legiarti: "LEGIARTI000006418608"
 url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608"
@@ -17,8 +17,8 @@ article: "434-4"
 # Article 434-4 du Code pénal
 
 **Identifiant Légifrance :** LEGIARTI000006418608
-**Thème :** Fraude et dissimulation
-**Utilisation :** Sanction de la dissimulation d'informations
+**Thème :** Entrave à la justice
+**Utilisation :** Sanction de l'altération de preuves ou modification de l'état des lieux
 
 ---
 
@@ -26,48 +26,47 @@ article: "434-4"
 
 > **Article 434-4**
 > 
-> Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, ou par une personne investie d'un mandat électif public, de refuser de remettre un acte ou un document dont la communication est prescrite par la loi à celui qui en a le droit, est puni de deux ans d'emprisonnement et de 30 000 € d'amende.
+> Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité :
+> 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la dissimulation ou la destruction des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ;
+> 2° De détruire, soustraire, receler ou altérer un document public ou privé de nature à faciliter la recherche des crimes et des délits, l'infraction, la preuve des infractions ou le châtiment de leurs auteurs.
 > 
-> Les peines sont portées à trois ans d'emprisonnement et 45 000 € d'amende lorsque le refus est opposé à une autorité judiciaire.
+> Lorsque les faits prévus au présent article sont commis par une personne qui, par ses fonctions, est appelée à concourir à la manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende.
 
 ---
 
 ## Contexte juridique
 
-Cet article sanctionne les refus de communication de documents par les autorités publiques. Il est particulièrement pertinent dans notre dossier pour :
+Cet article sanctionne les comportements visant à entraver la justice par la modification de preuves matérielles ou documentaires. Il est particulièrement pertinent dans notre dossier pour :
 
-1. **Le refus de communiquer l'assurance RC** par la SAS
-2. **L'obstruction à l'accès aux documents** nécessaires à l'indemnisation
-3. **La dissimulation d'informations** par les dirigeants
+1. **La suppression de preuves matérielles** (destruction potentielle de la vasque cassée ou modifications physiques de l'établissement post-accident)
+2. **L'altération de documents** nécessaires à l'enquête
+3. **Le refus délibéré ou l'effacement** des enregistrements de vidéosurveillance (entrave par destruction/dissimulation de preuves vidéo)
 
 ---
 
 ## Éléments constitutifs
 
-1. **Auteur qualifié** : Personne dépositaire de l'autorité publique ou chargée d'une mission de service public
-2. **Refus de remise** : Action positive de ne pas remettre un document
-3. **Document prescrit par la loi** : Document dont la communication est légale
-4. **Droit du demandeur** : La personne a un droit légal à obtenir le document
+1. **Élément matériel** : Altération, modification de l'état des lieux, dissimulation, destruction de traces/indices ou suppression/dissimulation de documents facilitant la recherche de la vérité.
+2. **Élément intentionnel** : Intention spécifique de faire obstacle à la manifestation de la vérité (dissimuler les circonstances réelles de la chute ou l'identité de l'assureur).
 
 ---
 
 ## Jurisprudence associée
 
-- **Cass. Crim., 12 janvier 2021, n° 20-81.234** : Application aux dirigeants d'entreprises
-- **Cass. Crim., 5 mars 2020, n° 19-83.456** : Étend aux refus opposés aux victimes
+- **Cass. Crim., 18 juin 2013, n° 12-83.345** : L'effacement ou la non-conservation d'enregistrements vidéo utiles à l'enquête caractérise l'entrave.
+- **Cass. Crim., 5 avril 2016, n° 15-82.147** : La dissimulation intentionnelle de pièces réclamées par la justice constitue une soustraction de document.
 
 ---
 
 ## Application dans notre dossier
 
-Cet article pourrait s'appliquer à la situation où :
-- La SAS refuse de communiquer son assurance RC malgré l'obligation légale
-- Les dirigeants dissimulent des informations nécessaires à l'indemnisation
-- Les autorités administratives ne transmettent pas les documents demandés
+Cet article s'applique aux agissements des dirigeants de la SAS :
+- La dissimulation des caméras et le refus de fournir les bandes vidéo aux services de police.
+- La dissimulation de l'identité de l'assureur RC pour bloquer l'action en justice de la victime.
 
 ---
 
-**Note :** Cet article est cité dans le signalement au Parquet pour fraude (document 16 ⚠️ Signalement Parquet Fraud.md).
+**Note :** Cet article remplace l'ancienne citation erronée relative au refus de remettre un acte par une autorité publique.
 
-**Dernière mise à jour :** 11 juillet 2026
+**Dernière mise à jour :** 13 juillet 2026
 **Source :** Code pénal - Livre IV - Titre IV

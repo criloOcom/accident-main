@@ -41,7 +41,7 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/05 🎯 Conclusions Refere.m
 
 ---
 
-## I. EXPOSÉ DU LITIGE
+## I — EXPOSÉ DU LITIGE
 ### A. LE SINISTRE ET SES CONSÉQUENCES MATÉRIELLES
 Le **29 mai 2026**, aux environs de 15 heures, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), informaticien indépendant de 44 ans, se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
 
@@ -77,7 +77,7 @@ Il n'existait dans le salon **aucun équipement d'accès en hauteur** (pas d'esc
 
 ---
 
-## II. DISCUSSION JURIDIQUE
+## II — DISCUSSION JURIDIQUE
 
 ### A. CARACTÈRE NON CONTESTABLE DE L'OBLIGATION
 
@@ -149,7 +149,7 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 
 ---
 
-## III. DISPOSITIF
+## III — DISPOSITIF
 **EN CONSÉQUENCE**, il est demandé au juge des référés :
 
 **PRINCIPALEMENT,**

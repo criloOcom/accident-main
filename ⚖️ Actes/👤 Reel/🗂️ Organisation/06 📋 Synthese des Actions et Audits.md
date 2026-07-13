@@ -16,7 +16,7 @@ Cette note récapitule l'analyse systématique de tous les rapports d'audit dans
 
 ---
 
-## 1. 🟥 CE QU'IL RESTE À FAIRE (Démarches Humaines — En attente d'action de Sébastien)
+## I — 🟥 CE QU'IL RESTE À FAIRE (Démarches Humaines — En attente d'action de Sébastien)
 
 Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent vos démarches physiques auprès des tiers.
 
@@ -38,7 +38,7 @@ Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent
 
 ---
 
-## 2. 🟩 CE QUI A ÉTÉ CORRIGÉ & RÉSOLU (Actions Machines closes par l'IA)
+## II — 🟩 CE QUI A ÉTÉ CORRIGÉ & RÉSOLU (Actions Machines closes par l'IA)
 
 Toutes les erreurs techniques de rédaction relevées par les réviseurs et spécialistes juridiques ont été traitées.
 

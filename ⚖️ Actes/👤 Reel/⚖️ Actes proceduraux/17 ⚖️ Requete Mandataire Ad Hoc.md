@@ -37,7 +37,7 @@ Par la présente, il vous est respectueusement exposé ce qui suit :
 
 <hr><hr>
 
-## I. EXPOSÉ DES FAITS
+## I — EXPOSÉ DES FAITS
 
 Monsieur [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) a été victime d'un accident particulièrement grave dans les locaux de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), exploitée par Monsieur [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et Madame [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md).
 
@@ -51,7 +51,7 @@ Il existe en l'espèce un risque d'organisation frauduleuse d'insolvabilité ou 
 
 <hr><hr>
 
-## II. DISCUSSION JURIDIQUE ET FONDEMENTS DE LA REQUÊTE
+## II — DISCUSSION JURIDIQUE ET FONDEMENTS DE LA REQUÊTE
 
 ### A. Sur la responsabilité des dirigeants de la SAS
 

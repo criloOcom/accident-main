@@ -37,7 +37,7 @@ source: drive
 # STRATEGIE CONTENTIEUX PENAL
 Rédigé le **[J+36 Lettre consolidation]**
 
-## 1. PRÉSENTATION
+## I — PRÉSENTATION
 Le 29 mai 2026, Sébastien GRAZIDE, informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par SAS LES MAUVAIS GARCONS (SAS LES MAUVAIS GARCONS, SIRET 938 033 222 00010), situé 22 Rue Lafaurie, 09000 Foix.
 
 Alors que l'employé Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé.
@@ -46,7 +46,7 @@ Par réflexe, Sébastien GRAZIDE a tendu la main droite — sa main dominante in
 
 Le contentieux pénal a pour objet de faire reconnaître la culpabilité de SAS LES MAUVAIS GARCONS et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive, y compris par la saisine du [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] via la CIVI en cas d'insolvabilité de l'auteur.
 
-## 2. INFRACTIONS CONSTITUÉES
+## II — INFRACTIONS CONSTITUÉES
 ### 2.1 BLESSURES INVOLONTAIRES
 Faits : le 29 mai 2026, Sébastien GRAZIDE a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes, au sein de l'établissement exploité par SAS LES MAUVAIS GARCONS.
 
@@ -87,7 +87,7 @@ Le maintien en service d'un équipement dangereux (bac à shampoing instable don
 
 Cette qualification nécessite la démonstration d'une violation délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le règlement.
 
-## 3. PROCÉDURE PÉNALE ENGAGÉE
+## III — PROCÉDURE PÉNALE ENGAGÉE
 ### 3.1 SIGNALEMENT ADMINISTRATIF ET DÉPÔT DE PLAINTE
 Un signalement a été adressé à la préfecture par la Mairie de Foix dès le 1er juin 2026, selon le courriel de l'adjoint au maire (btavella@mairie-foix.fr) en date du 1er juin 2026 à 16h15. La Mairie y indiquait avoir pris l'attache des services de la préfecture pour diligenter l'inspection du travail et le CODAF.
 
@@ -158,7 +158,7 @@ Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LE
 
 Cette voie est indépendante de l'action pénale principale : la victime peut saisir la CIVI sans attendre l'issue de la procédure pénale, dès lors que les conditions de l'Article 706-3 sont réunies.
 
-## 4. CALENDRIER PROCÉDURAL
+## IV — CALENDRIER PROCÉDURAL
 | Phase | Action | Échéance |
 |-------|--------|----------|
 | Enquête préliminaire | Constats, auditions, procès-verbal | Mai — Juin 2026 |
@@ -168,7 +168,7 @@ Cette voie est indépendante de l'action pénale principale : la victime peut sa
 | Audience correctionnelle | Examen au fond, plaidoiries | 12 à 24 mois |
 | Appel éventuel | Si décision contestée (délai d'appel : 10 jours) | +12 mois |
 
-## 5. RÉCAPITULATIF DES PIÈCES
+## V — RÉCAPITULATIF DES PIÈCES
 Pièces pénales :
 - 1 juin 2026 — Foix Police — Dépôt de plainte officiel [🔗 Voir](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
 - 2 juin 2026 — Foix Police — Procès-verbal constat n°2026/015967 [🔗 Voir](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view)

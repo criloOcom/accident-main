@@ -37,12 +37,12 @@ source: drive
 # STRATEGIE CONTENTIEUX CIVIL
 Rédigé le **[J+36 Lettre consolidation]**
 
-## 1. PRÉSENTATION
+## I — PRÉSENTATION
 Le 29 mai 2026, Sébastien GRAZIDE a subi un accident corporel grave dans le salon de coiffure exploité par SAS LES MAUVAIS GARCONS (SAS LES MAUVAIS GARCONS, SIRET 938 033 222 00010), situé 22 Rue Lafaurie, 09000 Foix. Alors que l'employé Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, Sébastien GRAZIDE a tendu la main droite pour protéger Ayoub BENNOURINE ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une microchirurgie SOS Main en urgence.
 
 Le contentieux civil a pour objet d'obtenir la réparation intégrale des préjudices subis, estimés à 59 600 € selon la nomenclature Dintilhac. Il se déploie sur plusieurs fondements juridiques complémentaires incluant, en cas de défaillance de l'auteur, la voie indemnitaire du Fonds de Garantie des Victimes d'Infractions (FGTI).
 
-## 2. FONDEMENTS JURIDIQUES
+## II — FONDEMENTS JURIDIQUES
 ### 2.1 RESPONSABILITÉ DU COMMETTANT
 SAS LES MAUVAIS GARCONS est civilement responsable des dommages causés par ses préposés dans l'exercice de leurs fonctions. L'accident est survenu pendant une prestation de coupe de cheveux réalisée par un employé de la société dans l'enceinte de l'établissement.
 
@@ -85,7 +85,7 @@ Conformément à [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/c
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 
-## 3. VOIES DE PROCÉDURE ENGAGÉES
+## III — VOIES DE PROCÉDURE ENGAGÉES
 ### 3.1 RÉFÉRÉ-PROVISION
 Une assignation en [référé-provision](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)[^6] (article 835 du Code de procédure civile) a été rédigée le 30 juin 2026 pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive.
 
@@ -142,7 +142,7 @@ Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels rés
 
 Cette voie est subsidiaire : elle ne se substitue pas à l'action directe contre l'assureur, mais la sécurise en cas d'insolvabilité de l'auteur.
 
-## 4. ÉVALUATION DES PRÉJUDICES
+## IV — ÉVALUATION DES PRÉJUDICES
 L'évaluation des préjudices subis par Sébastien GRAZIDE, informaticien indépendant (SIREN 500 474 457, chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :
 
 | Poste de préjudice | Montant |
@@ -167,7 +167,7 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 > [Arrêt n°19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) <br>
 > **Cour de cassation, 2e chambre civile, 6 mai 2021, n° 19-23.173[^14]**
 
-## 5. CALENDRIER PROCÉDURAL
+## V — CALENDRIER PROCÉDURAL
 | Phase | Action | Échéance |
 |-------|--------|----------|
 | Phase amiable | Mises en demeure, échanges courriers | Juin — Juillet 2026 |
@@ -178,7 +178,7 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 | Appel éventuel | Si la décision est contestée par une partie | Délai d'appel : 1 mois |
 | Saisine CIVI (subsidiaire) | Demande d'indemnisation FGTI si SAS insolvable | Jusqu'à 3 ans post-infraction (prorogeable 1 an apres decision penale) |
 
-## 6. RÉCAPITULATIF DES PIÈCES
+## VI — RÉCAPITULATIF DES PIÈCES
 Pièces médicales :
 - 29 mai 2026 — Dr Julie JARDON — Premiers soins urgence
 - 30 mai 2026 — Dr Iskander DJERBI — CR opératoire

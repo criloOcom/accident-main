@@ -35,7 +35,7 @@ Or, une analyse rigoureuse des pièces du dossier démontre l'existence de conte
 
 <hr><hr>
 
-## I. SUR L'EXISTENCE DE CONTESTATIONS SÉRIEUSES (ART. 835 CPC)
+## I — SUR L'EXISTENCE DE CONTESTATIONS SÉRIEUSES (ART. 835 CPC)
 
 ### A. Une carence probatoire manifeste sur les circonstances
 La demanderesse allègue que l'accident aurait été causé par le basculement d'une vasque en céramique présentant une « cassure préexistante ». Cependant, **aucune preuve objective et irréfutable** n'est rapportée :
@@ -62,7 +62,7 @@ Cette imprudence est de nature à exonérer, au moins partiellement, la gardienn
 
 <hr><hr>
 
-## II. SUR LA MISE EN CAUSE ABUSIVE DES DIRIGEANTS
+## II — SUR LA MISE EN CAUSE ABUSIVE DES DIRIGEANTS
 
 La demanderesse tente d'engager la responsabilité personnelle in solidum de [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) en invoquant une prétendue « faute détachable ».
 
@@ -78,7 +78,7 @@ Il n'y a ici aucune intention de nuire ni aucune infraction pénale intentionnel
 
 <hr><hr>
 
-## III. SUR LE CHIFFRAGE EXORBITANT ET PRÉMATURÉ DES PRÉJUDICES
+## III — SUR LE CHIFFRAGE EXORBITANT ET PRÉMATURÉ DES PRÉJUDICES
 
 La demande de provision de [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md), fondée sur un préjudice global fantaisiste évalué par la partie adverse à près de 105 000 €, se heurte à des obstacles médico-légaux majeurs.
 

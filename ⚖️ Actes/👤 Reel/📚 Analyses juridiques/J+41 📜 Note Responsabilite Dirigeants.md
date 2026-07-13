@@ -22,13 +22,13 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/16 📜 Note Responsabilite 
 
 # NOTE JURIDIQUE <br> SUR LA RESPONSABILITÉ DES DIRIGEANTS EN CAS DE DISSOLUTION FRAUDULEUSE
 
-## I. PROBLÉMATIQUE
+## I — PROBLÉMATIQUE
 
 Dans l'hypothèse où [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) procèderaient à la dissolution ou à la radiation de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) afin d'échapper aux poursuites et à l'indemnisation de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), leur responsabilité personnelle pourrait être engagée sur plusieurs fondements.
 
 La présente note analyse les trois voies de recours contre les dirigeants à titre personnel.
 
-## II. FONDEMENTS JURIDIQUES
+## II — FONDEMENTS JURIDIQUES
 
 ### A. Responsabilité civile des dirigeants de SAS — Article L.227-8 C.com.
 
@@ -63,7 +63,7 @@ La jurisprudence constante de la Cour de cassation (Assemblée plénière, arrê
 > **Cour de cassation, Assemblée plénière, 13 mars 1981[^4]** — Arrêt SATI
 > [Pourvoi n°80-90923](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
-## III. SYNTHÈSE ET RECOMMANDATIONS
+## III — SYNTHÈSE ET RECOMMANDATIONS
 
 | Fondement | Nature | Condition | Effet |
 |---|---|---|---|

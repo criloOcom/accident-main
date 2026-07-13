@@ -20,7 +20,7 @@ reel_path: ../../👤 Reel/🗂️ Organisation/24 ✅ Checklist Envoi 11-07-202
 
 # CHECKLIST ENVOI LRAR<br>11 JUILLET 2026
 
-## 1. AVANT DEPART — PREPARATION
+## I — AVANT DEPART — PREPARATION
 
 ### Courriers a imprimer (👤 Reel/✉️ Courriers/)
 - [ ] 12 ✉️ Courrier URSSAF.md
@@ -46,7 +46,7 @@ reel_path: ../../👤 Reel/🗂️ Organisation/24 ✅ Checklist Envoi 11-07-202
 - [ ] Enveloppes preparees (format A4)
 - [ ] Stylo + carnet dans le sac pour noter les N° LRAR
 
-## 2. A LA POSTE
+## II — A LA POSTE
 
 - [ ] Deposer les 4 LRAR au guichet
 - [ ] Demander AR (Accuse de Reception) pour chaque
@@ -58,7 +58,7 @@ reel_path: ../../👤 Reel/🗂️ Organisation/24 ✅ Checklist Envoi 11-07-202
 - [ ] Prendre photo de chaque courrier + PJ avant depot
 - [ ] Conserver les recus de depot
 
-## 3. EMAILS (APRES RETOUR)
+## III — EMAILS (APRES RETOUR)
 
 ### Email URSSAF
 - [ ] Destinataire : [email dans le courrier 12 reel]
@@ -74,14 +74,14 @@ reel_path: ../../👤 Reel/🗂️ Organisation/24 ✅ Checklist Envoi 11-07-202
 - [ ] Demander AR de lecture
 - [ ] Noter date/heure envoi : ___________________
 
-## 4. ARCHIVAGE
+## IV — ARCHIVAGE
 
 - [ ] Completer tableau de suivi (fichier 23)
 - [ ] Scanner/classer les AR et recus
 - [ ] Sauvegarder les photos dans dossier preuves
 - [ ] Noter la relance J+15 = **26 juillet 2026**
 
-## 5. RAPPELS
+## V — RAPPELS
 
 | Point | Detail |
 |-------|--------|

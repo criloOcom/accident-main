@@ -44,7 +44,7 @@ Le présent plan d'action et chronologie de la procédure a été établi par [S
 
 <hr>
 
-## I. CHRONOLOGIE ET PLAN D'ACTION
+## I — CHRONOLOGIE ET PLAN D'ACTION
 ## ACTIONS URGENTES ET PHASE AMIABLE (JUIN 2026)
 La première étape consiste en l'envoi de mises en demeure par lettre recommandée avec accusé de réception (LRAR) à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et à ses dirigeants.
 
@@ -73,7 +73,7 @@ L'aboutissement prévu est une assignation au fond en septembre pour obtenir un 
 
 <hr>
 
-## II. FONDEMENTS JURIDIQUES
+## II — FONDEMENTS JURIDIQUES
 ## RESPONSABILITÉ CIVILE ET ACTION DIRECTE
 L'action repose principalement sur [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^2] (responsabilité du fait des choses et du commettant).
 
@@ -105,7 +105,7 @@ En cas de blocage sur l'identité de l'assureur, [Article 145 du Code de procéd
 
 <hr>
 
-## III. INVENTAIRE DES PIÈCES
+## III — INVENTAIRE DES PIÈCES
 ### A. PREUVES MÉDICALES ET ADMINISTRATIVES
 Le dossier comprend les comptes rendus opératoires du [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md), les certificats médicaux initiaux, les avis d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et la note de synthèse médico-légale. Le [dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) "Recours contre Tiers" n° [ ... ] est également ouvert.
 
@@ -114,7 +114,7 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 
 <hr>
 
-## IV. CONTACTS ET ANNUAIRES
+## IV — CONTACTS ET ANNUAIRES
 ## AUTORITÉS JUDICIAIRES ET POLICIÈRES À [**[LA VILLE DE L'ACCIDENT]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
 - Tribunal Judiciaire : [**[Adresse Tribunal Judiciaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) ([**[Téléphone Tribunal Judiciaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) / Commissariat : **[Adresse Commissariat]** ([**[Téléphone Commissariat]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)).
 

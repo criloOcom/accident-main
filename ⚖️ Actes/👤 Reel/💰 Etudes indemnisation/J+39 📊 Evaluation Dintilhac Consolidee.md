@@ -57,13 +57,13 @@ Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%
 
 # 1. INTRODUCTION ET PRINCIPES GÉNÉRAUX
 
-## 1.1 FAITS DU SINISTRE
+## I.1 — FAITS DU SINISTRE
 
 La présente évaluation a pour objet d'évaluer l'intégralité des préjudices corporels subis par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à la suite de l'accident du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — au cours duquel, alors que l'employé [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-prepose-de-l-exploitation.md) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) est travailleur indépendant inscrit sous le numéro [500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-identifiant-professionnel-de-la-victime.md), exerçant la profession d'informaticien droitier et guitariste. Les déclarations URSSAF attestent de recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
 
-## 1.2 PRINCIPE DE LA RÉPARATION INTÉGRALE
+## I.2 — PRINCIPE DE LA RÉPARATION INTÉGRALE
 
 Le droit français de la responsabilité civile consacre le principe de la réparation intégrale sans perte ni profit pour la victime, conformément à l'article 1240 du Code civil :
 
@@ -75,7 +75,7 @@ Ce principe exige que la victime soit replacée dans la situation exacte où ell
 
 *[Note Pédagogique : La Nomenclature Dintilhac n'est pas une loi contraignante mais un catalogue exhaustif des types de préjudices corporels (pertes de gains, souffrances, préjudice esthétique, etc.) garantissant qu'aucun impact de l'accident ne soit omis lors de l'indemnisation. Elle est utilisée par les cours françaises comme outil de référence harmonisé.]*
 
-## 1.3 CONSTAT DE SOUS-ÉVALUATION
+## I.3 — CONSTAT DE SOUS-ÉVALUATION
 
 L'évaluation initiale du dossier s'établissait à [59 600 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-evaluation-initiale.md). Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**, pour cinq raisons principales :
 
@@ -91,7 +91,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 # 2. SYNTHÈSE DES ÉVALUATIONS
 
-## 2.1 TABLEAU COMPARATIF GLOBAL (3 ANALYSES)
+## II.1 — TABLEAU COMPARATIF GLOBAL (3 ANALYSES)
 
 | Poste | Notre estimation (optimiste) | Glose (conservatif) | Critique Glose | **Compromis final retenu** |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 | Article 700 CPC | 4 000 € | 2 250 € | 1 500-3 000 € | **3 000 €** |
 | **TOTAL** | **~109 500 €** | **~45 000 €** | **55 000-107 000 €** | **~92 000 €** |
 
-## 2.2 FOURCHETTES D'INDEMNISATION PAR POSTE
+## II.2 — FOURCHETTES D'INDEMNISATION PAR POSTE
 
 | Poste | Fourchette basse | Fourchette haute | Médiane retenue |
 |---|---|---|---|
@@ -129,7 +129,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 # 3. ANALYSE POSTE PAR POSTE
 
-## 3.1 PGPA — Pertes de Gains Professionnels Actuels
+## III.1 — PGPA — Pertes de Gains Professionnels Actuels
 
 *[Note Pédagogique : La PGPA indemnise la perte de revenus durant l'incapacité temporaire totale (ITT), c'est-à-dire la période entre l'accident et la consolidation médicale. Pour un travailleur indépendant, le calcul se fonde sur le chiffre d'affaires réel déclaré.]*
 
@@ -156,7 +156,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 ---
 
-## 3.2 DFT — Déficit Fonctionnel Temporaire
+## III.2 — DFT — Déficit Fonctionnel Temporaire
 
 *[Note Pédagogique : Le DFT indemnise la perte de qualité de vie pendant la période traumatique (accident → consolidation). C'est un poste distinct de la PGPA qui ne répare que la perte de revenus. Le DFT couvre la gêne quotidienne, les douleurs, l'incapacité d'accomplir les actes de la vie courante.]*
 
@@ -170,7 +170,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 ---
 
-## 3.3 DFP — Déficit Fonctionnel Permanent
+## III.3 — DFP — Déficit Fonctionnel Permanent
 > Note : Le DFP indemnise l'atteinte aux fonctions physiologiques après consolidation. Il est évalué en pourcentage d'incapacité permanente, multiplié par la valeur du point (selon le barème Mornet, qui varie selon l'âge de la victime). Le taux sera déterminé par l'expertise UMJ du 12 novembre 2026.]*
 
 **Définition :** Indemnise l'atteinte aux fonctions physiologiques après consolidation.
@@ -199,7 +199,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 ---
 
-## 3.4 SE — Souffrances Endurées
+## III.4 — SE — Souffrances Endurées
 > Note : Pédagogique : Les Souffrances Endurées évaluent la douleur physique et morale ressentie par la victime entre l'accident et la consolidation. Elles sont cotées de 0 à 7 sur une échelle subjective, et le référentiel Mornet 2024 propose des fourchettes d'indemnisation correspondant à chaque niveau.]*
 
 **Définition :** Évalue la douleur physique et morale ressentie entre l'accident et la consolidation.
@@ -227,7 +227,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 ---
 
-## 3.5 IP — Incidence Professionnelle
+## III.5 — IP — Incidence Professionnelle
 > Note : Pédagogique : L'Incidence Professionnelle est un poste distinct des pertes de gains professionnels futurs. Elle indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. La méthode BIBAL consiste à capitaliser sur la durée de vie professionnelle restante.]*
 
 **Définition :** Poste distinct indemnisant la dévalorisation sur le marché du travail, la pénibilité accrue, la perte de clientèle et l'adaptation ergonomique.
@@ -268,7 +268,7 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 
 ---
 
-## 3.6 Préjudice d'Agrément
+## III.6 — Préjudice d'Agrément
 > Note : Pédagogique : Le préjudice d'Agrément indemnise la perte ou la diminution des plaisirs et occupations de la victime (loisirs, activités sportives, culturelles, personnelles). La jurisprudence exige seulement une limitation de la pratique, pas une impossibilité totale.]*
 
 **Définition :** Répare l'impossibilité ou la limitation de pratiquer des loisirs (guitare, projets personnels de codage, développement personnel).
@@ -300,7 +300,7 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 
 ---
 
-## 3.7 PEP — Préjudice Esthétique Permanent
+## III.7 — PEP — Préjudice Esthétique Permanent
 > Note : Pédagogique : Le PEP indemnise le préjudice d'ordre esthétique permanent (cicatrice, difformité visible). Il est évalué selon un barème de 0 à 7, avec des fourchettes correspondantes dans le référentiel Mornet.]*
 
 **Définition :** Cicatrice palmaire de 8,5 cm, visible et définitive.
@@ -311,7 +311,7 @@ Ce poste avait été omis dans le dossier initial.
 
 ---
 
-## 3.8 DEP — Dévalorisation Professionnelle Future
+## III.8 — DEP — Dévalorisation Professionnelle Future
 > Note : Pédagogique : Le DEP est un poste distinct de l'Incidence Professionnelle. Il indemnise la perte de valeur sur le marché du travail due aux séquelles visibles ou handicapantes, distincte de l'IP qui couvre l'incidence professionnelle stricto sensu (perte de clientèle, pénibilité accrue).]*
 
 **Définition :** Perte de valeur sur le marché du travail due aux séquelles visibles ou handicapantes.
@@ -322,7 +322,7 @@ Ce poste avait été omis dans le dossier initial.
 
 ---
 
-## 3.9 ATP — Assistance par Tierce Personne
+## III.9 — ATP — Assistance par Tierce Personne
 
 > Le poste ATP (Assistance par Tierce Personne) indemnise le besoin d'aide humaine temporaire ou permanente pour accomplir les actes de la vie courante que la victime ne peut plus réaliser seule du fait de ses séquelles.
 
@@ -340,7 +340,7 @@ Ce poste avait été omis dans le dossier initial.
 
 ---
 
-## 3.10 Frais Divers
+## III.10 — Frais Divers
 
 **Proposition : 3 000 €** (kinésithérapie 3×/semaine, déplacements, frais dossier, contre-expertise éventuelle)
 
@@ -348,7 +348,7 @@ Ce poste avait été omis dans le dossier initial.
 
 ---
 
-## 3.11 Article 700 CPC
+## III.11 — Article 700 CPC
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. »* <br>
 > [Article 700](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
@@ -362,7 +362,7 @@ Ce poste avait été omis dans le dossier initial.
 
 # 4. STRATÉGIE DE RECOUVREMENT
 
-## 4.1 ACTION DIRECTE ASSUREUR
+## IV.1 — ACTION DIRECTE ASSUREUR
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
@@ -389,7 +389,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 > **Code de procédure civile > Livre Ier : Dispositions communes à toutes les juridictions > Titre VII : L'administration judiciaire de la preuve > Sous-titre II : Les mesures d'instruction > Chapitre Ier : Dispositions générales > Section I : Décisions ordonnant des mesures d'instruction.[^14]**
 
-## 4.2 RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS
+## IV.2 — RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS
 
 **Fondement :** Faute détachable des fonctions.
 
@@ -408,7 +408,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Appréciation :** Voie subsidiaire. La faute détachable est difficile à caractériser.
 
-## 4.3 FGTI / CIVI — VOIE PRINCIPALE
+## IV.3 — FGTI / CIVI — VOIE PRINCIPALE
 
 **Fondement :** Art. 706-3 du Code de procédure pénale.
 
@@ -438,7 +438,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Avantage décisif :** Le FGTI verse l'indemnisation même si la SAS est insolvable, puis exerce son recours subrogatoire contre les responsables.
 
-## 4.4 [CONSTITUTION DE PARTIE CIVILE](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (VOIE PÉNALE)
+## IV.4 — [CONSTITUTION DE PARTIE CIVILE](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (VOIE PÉNALE)
 
 **Avantages :**
 - Déclenche l'action publique
@@ -447,12 +447,12 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 - Décision pénale définitive = titre exécutoire
 - Permet d'activer le SARVI
 
-## 4.5 SARVI (SERVICE D'AIDE AU RECOUVREMENT)
+## IV.5 — SARVI (SERVICE D'AIDE AU RECOUVREMENT)
 
 **Condition :** Décision pénale définitive accordant des dommages-intérêts.
 **Effet :** Verse 100 % jusqu'à 1 000 €, 30 % au-delà (max 3 000 €).
 
-## 4.6 PROCÉDURE COLLECTIVE (SI LIQUIDATION SAS)
+## IV.6 — PROCÉDURE COLLECTIVE (SI LIQUIDATION SAS)
 
 - Déclaration de créance dans les 2 mois de la publication BODACC ([art. L.622-24 C. com.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281573)[^19])
 
@@ -463,7 +463,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 - Créance chirographaire (non privilégiée)
 - Intérêt : constater l'insolvabilité → facilite accès CIVI
 
-## 4.7 ORDRE DES ACTIONS RECOMMANDÉ
+## IV.7 — ORDRE DES ACTIONS RECOMMANDÉ
 
 ### Phase 1 — Urgence (été 2026)
 1. Relancer enquête pénale pour identifier assureur RC
@@ -494,7 +494,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 # 5. DEMANDE DE PROVISION EN RÉFÉRÉ
 
-## 5.1 SYNTHÈSE DU COMPROMIS
+## V.1 — SYNTHÈSE DU COMPROMIS
 
 Trois évaluations convergent vers une provision minimale de **10 000 à 15 000 €** en référé :
 
@@ -506,20 +506,20 @@ Trois évaluations convergent vers une provision minimale de **10 000 à 15 000 
 
 **Compromis retenu : Demander 15 000 € en provision (dont 3 000 € art. 700)**
 
-## 5.2 JUSTIFICATION DE L'URGENCE
+## V.2 — JUSTIFICATION DE L'URGENCE
 
 - **Capital de la SAS :** 200 € seulement
 - **Absence d'assurance RC identifiée** à ce stade
 - **Expertise UMJ prévue le 12 novembre 2026** — nécessité de fonds pour contre-expertise
 - **Rééducation en cours** — frais médicaux non remboursés
 
-## 5.3 FONDEMENTS JURIDIQUES
+## V.3 — FONDEMENTS JURIDIQUES
 
 > *« Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »* <br>
 > [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) <br>
 > **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307[^20]**
 
-## 5.4 RECOMMANDATION FINALE
+## V.4 — RECOMMANDATION FINALE
 
 La provision de [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) est justifiée par :
 1. L'urgence médicale (rééducation, adaptation ergonomique)
@@ -537,7 +537,7 @@ La provision de [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8
 
 *Cette section reprend deux arrêts de fond cités dans l'étude initiale (Doc. 11) et non encore intégrés dans la présente consolidation, afin de rendre le document exhaustif et de couvrir (1) la réévaluation du préjudice en cas d'aggravation et (2) la libre disposition des indemnités par la victime.*
 
-## 6.1 AGGRAVATION DU DOMMAGE (RÉÉVALUATION)
+## VI.1 — AGGRAVATION DU DOMMAGE (RÉÉVALUATION)
 
 > *« Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »* <br>
 > [Arrêt n°20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) <br>
@@ -545,7 +545,7 @@ La provision de [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8
 
 **Application au dossier :** Cet arrêt fonde la possibilité de réévaluer l'indemnisation en cas d'aggravation médicale constatée après l'expertise initiale. Il sécurise la demande de provision et la demande au fond, le préjudice pouvant être revu à la hausse à mesure que les séquelles neurologiques de l'index droit se précisent (cf. expertise UMJ du 12 novembre 2026).
 
-## 6.2 LIBRE DISPOSITION DES INDEMNITÉS
+## VI.2 — LIBRE DISPOSITION DES INDEMNITÉS
 
 > *« La victime d'un dommage corporel dispose librement des sommes qui lui sont allouées à titre de réparation, sans avoir à justifier de l'usage qu'elle en fait, dès lors que l'indemnisation a été fixée selon les règles de la réparation intégrale. »* <br>
 > [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) <br>

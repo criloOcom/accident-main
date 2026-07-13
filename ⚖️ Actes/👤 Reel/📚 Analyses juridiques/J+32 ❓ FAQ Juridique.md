@@ -59,7 +59,7 @@ La présente synthèse répond en outre aux questions pratiques que la victime e
 
 <hr>
 
-## I. PRÉSENTATION GÉNÉRALE DE L'AFFAIRE
+## I — PRÉSENTATION GÉNÉRALE DE L'AFFAIRE
 Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) à 15h00 au sein du salon de coiffure exploité par [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), situé au [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md) à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md).
 
 La victime, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md), né le 18/01/1982, exerce la profession d'informaticien indépendant ([500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-identifiant-professionnel-de-la-victime.md)) à [Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-residence-de-la-victime.md).
@@ -68,7 +68,7 @@ Les parties mises en cause incluent la SAS elle-même, ses dirigeants [Sabir MOU
 
 <hr>
 
-## II. FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE
+## II — FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE
 ### Q : DANS QUELLES CIRCONSTANCES L'ACCIDENT S'EST-IL PRODUIT ?
 Le jour de l'accident, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) est revenu au salon pour une simple retouche. Un employé de l'établissement est alors monté sur un bac à shampoing en céramique qui s'est déséquilibré. Par réflexe, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) a tendu la main droite pour protéger [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-prepose-de-l-exploitation.md) et stabiliser le meuble.
 
@@ -105,7 +105,7 @@ Le fait de cacher l'accident à son assureur ou de refuser de communiquer les co
 
 <hr>
 
-## III. STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
+## III — STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
 La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) est engagée en tant que commettant du fait de son préposé, sur le fondement de l'article 1242 du Code civil, mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
 
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>
@@ -126,7 +126,7 @@ Enfin, le propriétaire des murs, [Romain DELRIEU](../../../%F0%9F%A7%A0%20Memor
 
 <hr>
 
-## IV. DÉMARCHES ET PROCÉDURES ENGAGÉES
+## IV — DÉMARCHES ET PROCÉDURES ENGAGÉES
 À ce jour, une plainte officielle a été déposée et un dossier de recours contre tiers a été ouvert auprès de la CPAM.
 
 Sur le plan civil, plusieurs mises en demeure ont été expédiées le [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) pour identifier l'assureur et solliciter une provision :
@@ -145,7 +145,7 @@ Sur le plan civil, plusieurs mises en demeure ont été expédiées le [29 juin 
 
 <hr>
 
-## V. CALENDRIER ET DÉLAIS DE PROCÉDURE
+## V — CALENDRIER ET DÉLAIS DE PROCÉDURE
 La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jours pour répondre aux mises en demeure avant l'engagement d'un référé-provision sur le fondement de l'article 835 du Code de procédure civile.
 
 > *« Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
@@ -162,7 +162,7 @@ Une étape cruciale est fixée au [12 novembre 2026](../../../%F0%9F%A7%A0%20Mem
 
 <hr>
 
-## VI. POINTS DE VIGILANCE ET CONCLUSION
+## VI — POINTS DE VIGILANCE ET CONCLUSION
 Bien que le dossier soit solide, certains points bloquants persistent, notamment l'absence de constat d'huissier immédiat et le refus des dirigeants de communiquer les coordonnées de leur assureur.
 
 Néanmoins, l'action directe et la responsabilité personnelle des dirigeants constituent des leviers puissants pour obtenir une indemnisation juste, estimée globalement à **~90 000 €** sous réserves d'aggravation.

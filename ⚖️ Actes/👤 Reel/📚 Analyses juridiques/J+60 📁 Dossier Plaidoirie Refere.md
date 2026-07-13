@@ -22,7 +22,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/12 📁 Dossier Plaidoirie.m
 # **DOSSIER DE PLAIDOIRIE POUR L'AUDIENCE DE RÉFÉRÉ DU 31 JUILLET 2026**
 <hr><hr>
 
-## 1. FICHE SYNTHÉTIQUE
+## I — FICHE SYNTHÉTIQUE
 **JURIDICTION :** Tribunal Judiciaire statuant en référé
 **DATE DE L'AUDIENCE :** Date non fixée (à planifier)
 
@@ -50,7 +50,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/12 📁 Dossier Plaidoirie.m
 
 <hr><hr>
 
-## 2. CHRONOLOGIE DES FAITS
+## II — CHRONOLOGIE DES FAITS
 *Rappel des dates clés démontrant l'urgence et la gravité de la situation.*
 
 - **[J+0 Accident] :** Date de l'accident au sein de l'établissement [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md). Le préposé [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-prepose-de-l-exploitation.md) monte sur la vasque du bac à shampoing qui bascule. En tentant de le protéger par réflexe, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) heurte une cassure tranchante préexistante de la vasque. Section des tendons et nerfs de l'index droit.
@@ -62,7 +62,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/12 📁 Dossier Plaidoirie.m
 
 <hr>
 
-## 3. DISCUSSION JURIDIQUE STRUCTURÉE
+## III — DISCUSSION JURIDIQUE STRUCTURÉE
 ### A. RESPONSABILITÉ DE PLEIN DROIT DU GARDIEN (ART. 1242 C. CIV.)
 Sur le fondement de l'[Article 1242 alinéa 1er du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^1], le gardien de la chose instrument du dommage est responsable de plein droit.
 - **La vasque = chose instrument du dommage :** Son état de délabrement (cassure préexistante tranchante) et son basculement constituent le rôle actif incontestable dans la réalisation du dommage.
@@ -90,7 +90,7 @@ Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant 
 
 <hr><hr>
 
-## 4. JURISPRUDENCE CLÉ
+## IV — JURISPRUDENCE CLÉ
 L'argumentation développée s'appuie sur une jurisprudence constante :
 
 - **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** [N° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)[^4]. Le préposé [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-prepose-de-l-exploitation.md) ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
@@ -100,7 +100,7 @@ L'argumentation développée s'appuie sur une jurisprudence constante :
 
 <hr><hr>
 
-## 5. PIÈCES À CITER IMPÉRATIVEMENT
+## V — PIÈCES À CITER IMPÉRATIVEMENT
 Monsieur le Juge, je vous renvoie aux pièces listées dans notre bordereau, et tout particulièrement à :
 - **Pièce ACQ-10** (PV de Police) établissant sans ambiguïté les constations factuelles de l'événement.
   
@@ -112,7 +112,7 @@ Monsieur le Juge, je vous renvoie aux pièces listées dans notre bordereau, et 
 
 <hr><hr>
 
-## 6. MONTANTS DEMANDÉS
+## VI — MONTANTS DEMANDÉS
 La présente procédure de référé ne vise pas à solder définitivement le dossier (dans l'attente de la consolidation) mais à accorder une provision.
 
 - **Évaluation globale estimée du préjudice final :** ~90 000 €
@@ -127,7 +127,7 @@ La présente procédure de référé ne vise pas à solder définitivement le do
 
 <hr><hr>
 
-## 7. QUESTIONS PROBABLES DU JUGE ET RÉPONSES PRÉPARÉES
+## VII — QUESTIONS PROBABLES DU JUGE ET RÉPONSES PRÉPARÉES
 **Q1 : "Pourquoi demandez-vous seulement 15 000 € en provision alors que vous estimez le préjudice à près de 90 000 € ?"** <br>
 Monsieur le Juge, l'audience de référé vise à allouer une indemnisation provisionnelle d'urgence pour faire face aux premiers frais et à la perte immédiate d'exploitation. L'évaluation définitive du déficit fonctionnel et de l'incidence professionnelle de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) nécessite une consolidation médicale (expertise de novembre), justifiant de limiter la demande immédiate à une somme incontestable.
 

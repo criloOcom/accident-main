@@ -31,7 +31,7 @@ auteur: La Victime
 
 ---
 
-## 1. SCHÉMA RÉCAPITULATIF
+## I — SCHÉMA RÉCAPITULATIF
 
 ```
 ACCIDENT 29/05/2026
@@ -69,7 +69,7 @@ ACCIDENT 29/05/2026
 
 ---
 
-## 2. VOIE ADMINISTRATIVE — CE QUE L'AVOCAT A CONFIRMÉ
+## II — VOIE ADMINISTRATIVE — CE QUE L'AVOCAT A CONFIRMÉ
 
 ### Ce qu'on peut faire (validé par l'avocat)
 
@@ -96,7 +96,7 @@ ACCIDENT 29/05/2026
 
 ---
 
-## 3. VOIE PÉNALE — CE QUI NOUS DONNE DES DROITS FORTS
+## III — VOIE PÉNALE — CE QUI NOUS DONNE DES DROITS FORTS
 
 ### Nos droits concrets en tant que victime (Art. 10-2 CPP)
 
@@ -120,7 +120,7 @@ ACCIDENT 29/05/2026
 
 ---
 
-## 4. ARTICULATION STRATÉGIQUE — PLAN D'ACTION
+## IV — ARTICULATION STRATÉGIQUE — PLAN D'ACTION
 
 ### À faire par nous (sans avocat, sans risque)
 
@@ -150,7 +150,7 @@ ACCIDENT 29/05/2026
 
 ---
 
-## 5. RAPPEL DES TEXTES CLÉS
+## V — RAPPEL DES TEXTES CLÉS
 
 | Texte | Contenu |
 |-------|---------|

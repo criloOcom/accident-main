@@ -31,7 +31,7 @@ La présente note vise à analyser les qualifications pénales applicables dans 
 
 <hr><hr>
 
-## 1. ORGANISATION FRAUDULEUSE D'INSOLVABILITÉ
+## I — ORGANISATION FRAUDULEUSE D'INSOLVABILITÉ
 
 **Fondement** : [Article 314-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226)[^1]
 
@@ -51,7 +51,7 @@ L'article 314-7 du Code pénal permet expressément d'appréhender le comporteme
 
 <hr><hr>
 
-## 2. ESCROQUERIE
+## II — ESCROQUERIE
 
 **Fondement** : [Article 313-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418192)[^2]
 
@@ -67,7 +67,7 @@ Le montage juridique consistant à recréer une entité miroir (même activité,
 
 <hr><hr>
 
-## 3. BANQUEROUTE PAR DISSIMULATION D'ACTIFS
+## III — BANQUEROUTE PAR DISSIMULATION D'ACTIFS
 
 **Fondement** : [Article L.654-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984472)[^3] (et suivants)
 

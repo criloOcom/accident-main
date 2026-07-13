@@ -1,6 +1,6 @@
 ---
 title: "Article 434-15 du Code pénal"
-description: "Code pénal — Faux témoignage"
+description: "Code pénal — Subornation de témoin"
 type: loi
 legiarti: "LEGIARTI000006418641"
 url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641"
@@ -16,7 +16,7 @@ article: "434-15"
 
 # Article 434-15 du Code pénal
 
-**Dernière mise à jour :** 10 juillet 2026
+**Dernière mise à jour :** 13 juillet 2026
 **Source :** Légifrance
 **Version :** En vigueur
 
@@ -26,56 +26,47 @@ article: "434-15"
 
 **Article 434-15**
 
-Le fait de détruire, de dégrader ou de détériorer un bien appartenant à autrui, par quelque moyen que ce soit, est puni de deux ans d'emprisonnement et de 30 000 € d'amende.
-
-Le fait de détruire, de dégrader ou de détériorer un bien appartenant à autrui par l'effet d'une substance explosive, d'un incendie ou de tout autre moyen de nature à créer un danger pour les personnes est puni de trois ans d'emprisonnement et de 45 000 € d'amende.
+Le fait d'user de promesses, offres, présents, pressions, menaces, voies de fait, manœuvres ou artifices au cours d'une procédure ou en vue d'une demande ou défense en justice pour déterminer autrui soit à faire une déposition, une déclaration ou une attestation mensongère, soit à s'abstenir de faire ou délivrer une déposition, une déclaration ou une attestation, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende, même si la subornation n'est pas suivie d'effet.
 
 ---
 
 ## Contexte et interprétation
 
 ### Champ d'application
-Cet article s'applique à toute destruction, dégradation ou détérioration d'un bien appartenant à autrui, quel que soit le moyen utilisé. Il couvre également les cas où ces actes créent un danger pour les personnes.
+Cet article punit le délit de subornation de témoin. Il s'applique à toute personne qui tente d'influencer un témoin ou un tiers appelé à témoigner ou à produire une attestation dans le cadre d'une procédure judiciaire ou en vue d'une telle procédure.
 
 ### Peines encourues
-- **Cas général** : 2 ans d'emprisonnement et 30 000 € d'amende
-- **Cas aggravé** (danger pour les personnes) : 3 ans d'emprisonnement et 45 000 € d'amende
+- **Peine principale** : 3 ans d'emprisonnement et 45 000 € d'amende.
+- L'infraction est consommée dès lors que les manœuvres, pressions ou menaces ont été exercées, peu important que le témoin ait effectivement menti ou se soit abstenu de témoigner ("même si la subornation n'est pas suivie d'effet").
 
 ### Application dans le contexte de l'affaire
-Dans le cadre de l'affaire "Accident Main", cet article est pertinent pour la **dissimulation de preuves**, notamment :
-- La non-communication des enregistrements de vidéosurveillance
-- La destruction potentielle de preuves matérielles
-- L'obstruction à la manifestation de la vérité
+Dans le cadre de notre dossier, cet article vise :
+- Les pressions potentielles exercées par les dirigeants sur le préposé ou les employés présents pour altérer leurs témoignages.
+- Les incitations ou menaces pour dissimuler la vérité sur le basculement de la vasque.
 
 ---
 
 ## Jurisprudence connexe
 
 ### Cour de cassation, Chambre criminelle
-- **Arrêt n° 12-83.345** (18 juin 2013) : La destruction de preuves numériques (enregistrements vidéo) constitue une infraction au sens de l'article 434-15.
-- **Arrêt n° 15-82.147** (5 avril 2016) : La dissimulation de documents essentiels à une enquête judiciaire est assimilable à une destruction de preuves.
+- **Cass. Crim., 10 mai 2006, n° 05-85.342** : La subornation de témoin est constituée dès lors que la tentative d'influencer le témoin est établie, même si ce dernier a refusé de céder aux pressions.
 
 ---
 
 ## Références croisées
 
-- **Article 434-4 du Code pénal** : Obstruction à la manifestation de la vérité
-- **Article 314-7 du Code pénal** : Obstacle à l'exercice des fonctions de police judiciaire
-- **Article 706-3 du Code de procédure pénale** : Conservation des enregistrements de vidéosurveillance
+- **Article 434-13 du Code pénal** : Faux témoignage sous serment.
+- **Article 434-4 du Code pénal** : Obstruction à la manifestation de la vérité.
 
 ---
 
 ## Notes pratiques
 
 ### Preuve de l'infraction
-Pour établir l'infraction, il faut démontrer :
-1. L'existence d'un bien appartenant à autrui
-2. L'acte de destruction, dégradation ou détérioration
-3. L'intention dolosive (volonté de nuire ou de dissimuler)
-
-### Prescription
-L'action publique se prescrit par **6 ans** à compter de la commission des faits (article 8 du Code de procédure pénale).
+Pour caractériser l'infraction, l'accusation doit démontrer :
+1. L'utilisation de l'un des moyens listés (promesses, menaces, pressions, manœuvres, etc.).
+2. L'intention de déterminer autrui à mentir ou à se taire en justice.
 
 ---
 
-> **Source officielle :** [Légifrance - Article 434-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417900/)
+> **Source officielle :** [Légifrance - Article 434-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641/)

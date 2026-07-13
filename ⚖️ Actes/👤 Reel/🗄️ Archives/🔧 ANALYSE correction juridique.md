@@ -43,7 +43,7 @@ Le présent mémorandum juridique constitue un audit stratégique et une restruc
 
 <hr>
 
-## I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
+## I — PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 Le 29 mai 2026, Sébastien GRAZIDE a subi un grave accident corporel au sein du salon exploité par SAS LES MAUVAIS GARCONS (l'Exploitant).
 
 Alors que l'employé Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, Sébastien GRAZIDE a tendu la main droite pour protéger Ayoub BENNOURINE ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse majeure à sa main dominante.
@@ -60,7 +60,7 @@ L'affaire met en cause la responsabilité de la personne morale, dirigée par Sa
 
 <hr>
 
-## II. CADRE JURIDIQUE DE LA RESPONSABILITÉ
+## II — CADRE JURIDIQUE DE LA RESPONSABILITÉ
 ### A. RESPONSABILITÉ DE PLEIN DROIT ET OBLIGATION DE SÉCURITÉ
 La responsabilité de la SAS est engagée de plein droit en sa qualité de gardienne du bac à shampoing instable — dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes — sur le fondement de [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^2]. Par ailleurs, [Article L. 421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464[^3]053) impose une obligation générale de sécurité des services, dont la violation est caractérisée par le maintien en service d'un équipement dangereux (vasque cassée non signalée, instabilité du meuble).
 
@@ -82,7 +82,7 @@ La responsabilité personnelle des dirigeants peut être engagée, nonobstant l'
 
 <hr>
 
-## III. MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
+## III — MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
 ### A. SURVIE DE LA PERSONNALITÉ MORALE ET ACTION DIRECTE
 En vertu de [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186)[^5], la personnalité morale de la SAS subsiste pour les besoins de la liquidation jusqu'à l'apurement des dettes. La Victime dispose d'un droit propre sur l'indemnité d'assurance via l'action directe consacrée par [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735[^1]449), action recevable même en cas de procédure collective.
 
@@ -104,7 +104,7 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 
 <hr>
 
-## IV. PLAN D'ACTION CONTENTIEUX
+## IV — PLAN D'ACTION CONTENTIEUX
 1. Référé-communication : Engager une procédure sur le fondement de [Article 145 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^8] pour obtenir la police d'assurance et interrompre la prescription.
 1. Référé-provision : Solliciter une provision de 5 000 € à valoir sur l'indemnisation finale.
 1. Expertise médicale : Obtenir une mesure d'expertise judiciaire pour évaluer les postes de préjudice corporel.

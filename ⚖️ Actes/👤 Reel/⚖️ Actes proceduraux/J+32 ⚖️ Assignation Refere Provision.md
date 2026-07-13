@@ -57,7 +57,7 @@ PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE [**[LA VILLE DE L'ACC
 
 <hr><hr>
 
-## I. EXPOSÉ DES FAITS
+## I — EXPOSÉ DES FAITS
 Le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) s'est rendu au salon de coiffure exploité par [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero ([15,00 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prestation-salon.md)) **(Pièce n°6)**.
 
 Alors qu'il se trouvait au bac à shampoing, [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-prepose-de-l-exploitation.md), qui était monté sur la vasque en céramique, a provoqué le basculement brutal de l'équipement en tentant d'en descendre. Par un réflexe d'assistance pour retenir la chute, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) a tendu sa main droite, qui a heurté une cassure majeure préexistante non signalée sur le flanc de la vasque.
@@ -80,7 +80,7 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du [
 
 <hr><hr>
 
-## II. DISCUSSION JURIDIQUE
+## II — DISCUSSION JURIDIQUE
 
 ### A. Jurisprudence Pertinente
 
@@ -260,7 +260,7 @@ Il est donc demandé au juge des référés d'ordonner à [SAS LES MAUVAIS GARCO
 
 <hr><hr>
 
-## III. ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)
+## III — ÉVALUATION PROVISOIRE DES PRÉJUDICES (NOMENCLATURE DINTILHAC)
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.
 
 - **(PGPA) Pertes de Gains Professionnels Actuels** : <br>
