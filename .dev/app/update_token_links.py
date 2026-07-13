@@ -52,6 +52,9 @@ TOKEN_MAP_RAW = {
     'L\'Identifiant Professionnel de la Victime': 'token-l-identifiant-professionnel-de-la-victime',
     'L\'Identifiant de l\'Exploitation': 'token-l-identifiant-de-l-exploitation',
     'SIREN de l\'Exploitation': 'token-siren-de-l-exploitation',
+    'Prénom de la Victime': 'token-prenom-de-la-victime',
+    'Âge de la Victime': 'token-age-de-la-victime',
+    'Capital Social de l\'Exploitation': 'token-capital-social-de-l-exploitation',
     'L\'Email de l\'Adjoint au Maire': 'token-l-email-de-l-adjoint-au-maire',
     'L\'Email du Secrétariat de la Mairie': 'token-l-email-du-secretariat-de-la-mairie',
     'DATE RELANCE V2': 'token-date-relance-v2',
@@ -163,7 +166,77 @@ def replace_links(content, from_file):
             count += 1
     return modified, count
 
+def link_plain_tokens_in_tokenmap():
+    """
+    Traite TOKEN MAP.md : transforme les `**[...]**` en texte brut
+    en liens cliquables vers 🗂️ Tokens/*.md.
+    """
+    tokenmap_path = os.path.join(BASE, "🧠 Memory", "TOKEN MAP.md")
+    if not os.path.isfile(tokenmap_path):
+        print("  ❌ TOKEN MAP.md introuvable")
+        return 0, 0
+
+    rel_tokens_dir = os.path.relpath(JETONS_DIR, os.path.dirname(tokenmap_path))
+
+    with open(tokenmap_path) as f:
+        content = f.read()
+
+    new_content = content
+    # Match `` `**[Token Name]**` `` OR `**[Token Name]**` (with or without backticks)
+    pattern = re.compile(r'`?\*\*\[([^\]]+)\]\*\*`?')
+    replaced = 0
+
+    # Find all matches; iterate in reverse order to preserve positions
+    matches = []
+    for m in pattern.finditer(content):
+        token_name = m.group(1).strip()
+        anchor = resolve_token(token_name)
+        if anchor is None:
+            continue
+        # Check not already inside a Markdown link
+        start = m.start()
+        # Look backwards to see if there's a `](...)` or similar link context
+        # A simple heuristic: if there's a `[` immediately before without `!`, it might be linked
+        before = content[max(0, start - 6):start]
+        if before.rstrip().endswith('[') and not before.rstrip().endswith('!['):
+            # Could be part of an existing link — check if followed by `](...)`
+            after = content[m.end():m.end() + 100]
+            # Skip if this is already inside a Markdown link (...) 
+            if after.lstrip().startswith(']('):
+                continue
+        matches.append(m)
+
+    # Process in reverse to maintain offsets
+    for m in reversed(matches):
+        token_name = m.group(1).strip()
+        anchor = resolve_token(token_name)
+        if anchor is None:
+            continue
+        # Build the link
+        token_file = f"{anchor}.md"
+        rel_url = os.path.join(rel_tokens_dir, token_file)
+        rel_url = quote(rel_url, safe='/')
+        new_link = f"[**[{token_name}]**]({rel_url})"
+        new_content = new_content[:m.start()] + new_link + new_content[m.end():]
+        replaced += 1
+
+    if replaced > 0:
+        if DRY_RUN:
+            print(f"  ~ 🧠 Memory/TOKEN MAP.md: {replaced} lien(s) (dry-run)")
+        else:
+            with open(tokenmap_path, 'w') as f:
+                f.write(new_content)
+            print(f"  ✅ 🧠 Memory/TOKEN MAP.md: {replaced} lien(s)")
+    else:
+        print("  ℹ️  🧠 Memory/TOKEN MAP.md: aucun changement")
+    return 1 if replaced > 0 else 0, replaced
+
+
 def main():
+    # ── Step 1: process TOKEN MAP.md itself ──
+    tmap_files, tmap_links = link_plain_tokens_in_tokenmap()
+
+    # ── Step 2: process all other .md files that reference TOKEN MAP.md ──
     all_files = []
     for root, dirs, filenames in os.walk(BASE):
         skip_dirs = {'.git', '__pycache__', '.pytest_cache', '🗂️ Tokens'}
@@ -172,8 +245,8 @@ def main():
             if not fn.endswith('.md'):
                 continue
             all_files.append(os.path.join(root, fn))
-    total_replaced = 0
-    total_files_changed = 0
+    total_replaced = tmap_links
+    total_files_changed = tmap_files
     for fp in all_files:
         with open(fp) as f:
             content = f.read()
