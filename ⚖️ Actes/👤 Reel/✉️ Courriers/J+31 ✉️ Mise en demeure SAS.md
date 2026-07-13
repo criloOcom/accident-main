@@ -96,7 +96,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.[^3]**
 
-3. De procéder au versement d'une provision amiable d'un montant de 15 000 € à valoir sur la réparation de mes préjudices, au titre de l'incidence professionnelle de l'accident ;
+3. De procéder au versement d'une provision amiable d'un montant de [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) à valoir sur la réparation de mes préjudices, au titre de l'incidence professionnelle de l'accident ;
 
 4. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
@@ -107,6 +107,20 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 > **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.[^4]**
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
+
+<hr>
+
+## PIECES JOINTES
+
+- **[Procès-verbal de police n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026
+
+- **[Certificat medical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr [**[Dr JARDON]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-dr-jardon.md)
+
+- **[Compte-rendu operatoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
+
+- **[Arrets de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
+
+- **[Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers ouvert a la CPAM (n° [**[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**])
 
 Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 

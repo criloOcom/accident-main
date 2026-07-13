@@ -150,7 +150,7 @@ Le dossier présente des fondements juridiques solides.
 
 L'action directe contre L'Assureur, couplée à la mise en cause des Dirigeants pour faute détachable, assure une protection optimale de La Victime.
 
-Le préjudice global estimé à 59 600 € doit faire l'objet d'une demande de provision de 15 000 € immédiate.
+Le préjudice global estimé à 59 600 € doit faire l'objet d'une demande de provision de [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) immédiate.
 
 Dans ce dossier, les fondements juridiques sont solides :
 

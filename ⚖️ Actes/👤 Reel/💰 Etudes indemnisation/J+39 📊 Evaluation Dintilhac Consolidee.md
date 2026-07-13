@@ -77,7 +77,7 @@ Ce principe exige que la victime soit replacée dans la situation exacte où ell
 
 ## 1.3 CONSTAT DE SOUS-ÉVALUATION
 
-L'évaluation initiale du dossier s'établissait à 59 600 €. Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**, pour cinq raisons principales :
+L'évaluation initiale du dossier s'établissait à [59 600 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-evaluation-initiale.md). Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**, pour cinq raisons principales :
 
 1. **DFT** non chiffré (56 jours × 25-30 €/jour = 1 400-1 680 €)
 2. **Souffrances Endurées à 12 000 €** en dessous du Mornet 2024 (15 000 € minimum pour 4/7)
@@ -521,7 +521,7 @@ Trois évaluations convergent vers une provision minimale de **10 000 à 15 000 
 
 ## 5.4 RECOMMANDATION FINALE
 
-La provision de 15 000 € est justifiée par :
+La provision de [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) est justifiée par :
 1. L'urgence médicale (rééducation, adaptation ergonomique)
 2. L'insolvabilité de la SAS (capital 200 €)
 3. La nécessité de préparer l'expertise du 12 novembre 2026

@@ -186,6 +186,22 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 
 - d'**enjoindre à la société défenderesse et à ses dirigeants** de communiquer dans un délai de quinze jours le contrat d'assurance responsabilité civile professionnelle souscrit, à défaut de quoi le juge pourrait ordonner leur assignation directe.
 
+<hr>
+
+## PIECES JOINTES
+
+- **[Procès-verbal de police n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Circonstances de l'accident etablissant la responsabilité
+
+- **[Compte-rendu operatoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Preuve des lesions et de l'intervention d'urgence
+
+- **[Certificat medical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation initiale des blessures
+
+- **[Arrets de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
+
+- **[Constat d'huissier]('J%2B38%20%F0%9F%93%B8%20Requete%20Constat%20Huissier.md')** — Etat des lieux de la vasque litigieuse
+
+- **[Mises en demeure J+31](../%F0%9F%93%AC%20Mise%20en%20demeure%20SAS.md)** — LRAR restees sans reponse
+
 ---
 
 **[Ville]**, le **[date]**

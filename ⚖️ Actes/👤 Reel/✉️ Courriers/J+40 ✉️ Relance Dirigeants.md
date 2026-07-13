@@ -57,7 +57,9 @@ Je conçois que la fermeture soudaine et la réorganisation de votre établissem
 
 J'ai constaté que votre salon de coiffure a fermé ses portes immédiatement après l'accident du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) pour ne rouvrir que le 6 juillet 2026. 
 
-L'absence de réponse à ma mise en demeure initiale ayant dépassé le délai légal de 30 jours, l'inertie de votre société a potentiellement déjà causé l'effacement ou la destruction irrémédiable des bandes de vidéosurveillance (dont la durée de sauvegarde est limitée par la CNIL et l'article L. 252-5 du Code de la sécurité intérieure). Par ailleurs, la vasque en céramique à l'origine du sinistre et son support ont pu être réparés ou retirés.
+L'absence de réponse à ma mise en demeure initiale ayant dépassé le délai légal de 30 jours, l'inertie de votre société a potentiellement déjà causé l'effacement ou la destruction irrémédiable des bandes de vidéosurveillance (dont la durée de sauvegarde est limitée par la CNIL et l'article L. 252-5 du Code de la sécurité intérieure).
+
+Par ailleurs, la vasque en céramique à l'origine du sinistre et son support ont pu être réparés ou retirés.
 
 Par la présente, je vous intime formellement l'injonction de conserver et de ne pas altérer tout élément matériel restant lié à l'accident. Toute destruction ou altération intentionnelle de ces éléments est susceptible de caractériser le délit d'entrave à la manifestation de la vérité prévu par l'article 434-4 du Code pénal (reproduit en Annexe 1).
 
@@ -71,9 +73,17 @@ Ma présence ainsi que le déroulement de l'accident sont déjà documentés par
 
 ## RAPPEL DE LA DEMANDE D'ASSURANCE
 
-Le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur. En descendant, son poids a provoqué le basculement soudain de l'installation. Par réflexe, j'ai tendu la main droite pour le retenir. Ma paume a alors percuté une cassure majeure préexistante et non signalée sur le flanc de la vasque. 
+Le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur.
 
-Cette percussion m'a sectionné les tendons et les nerfs de l'index droit, blessure grave ayant nécessité une chirurgie réparatrice d'urgence le [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) à [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-etablissement-sos-main.md). Les conséquences fonctionnelles de ce sinistre sur ma vie quotidienne et mon activité professionnelle sont majeures.
+En descendant, son poids a provoqué le basculement soudain de l'installation.
+
+Par réflexe, j'ai tendu la main droite pour le retenir.
+
+Ma paume a alors percuté une cassure majeure préexistante et non signalée sur le flanc de la vasque. 
+
+Cette percussion m'a sectionné les tendons et les nerfs de l'index droit, blessure grave ayant nécessité une chirurgie réparatrice d'urgence le [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) à [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-etablissement-sos-main.md).
+
+Les conséquences fonctionnelles de ce sinistre sur ma vie quotidienne et mon activité professionnelle sont majeures.
 
 Je vous demande donc de me communiquer sous 15 jours :
 1. Le nom et les coordonnées de l'assureur RC professionnelle de votre société au [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) ;
@@ -112,6 +122,24 @@ Face aux difficultés de distribution postale à votre siège social, je vous de
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^5]**
+
+<hr>
+
+## PIECES JOINTES
+
+- **[Procès-verbal de police n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du [J+4]
+
+- **[Compte-rendu operatoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Intervention de microchirurgie d'urgence du [J+1]
+
+- **[Mise en demeure J+31 — SAS](../J%2B31%20%F0%9F%93%AC%20Mise%20en%20demeure%20SAS.md)** — LRAR n° [N° LRAR Exploitant]
+
+- **[Mise en demeure J+31 — Président](../J%2B31%20%F0%9F%93%AC%20Mise%20en%20demeure%20Pr%C3%A9sident.md)** — LRAR n° [N° LRAR Président]
+
+- **[Mise en demeure J+31 — Directrice Générale](../J%2B31%20%F0%9F%93%AC%20Mise%20en%20demeure%20Directrice.md)** — LRAR n° [N° LRAR Directrice]
+
+- **[Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** — Procedure penale transmise au TJ de [La Ville de l'Accident]
+
+- **[Attestation de depot CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° Dossier CPAM]
 
 Dans l'attente d'un échange constructif, je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président, l'expression de mes salutations distinguées.
 

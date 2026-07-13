@@ -21,7 +21,7 @@ drive_id: 1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4
 <hr>
 <!-- /Breadcrumb -->
 
-# DEMANDE DE COMMUNICATION D'ASSURANCE RC
+# DEMANDE DE COMMUNICATION <br> D'ASSURANCE RC
 > 🔗 Source Google Drive : [1W-C6nM5G_GU…](https://drive.google.com/open?id=1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4)
 [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) <br>
 [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
@@ -111,6 +111,18 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 > **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.[^6]**
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
+
+<hr>
+
+## PIECES JOINTES
+
+- **[Procès-verbal de police n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026
+
+- **[Certificat medical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr [**[Dr JARDON]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-dr-jardon.md)
+
+- **[Extrait Kbis](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md))
+
+- **[Mise en demeure SAS](J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md)** — Mise en demeure adressee a l'exploitant le [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
 
 Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 

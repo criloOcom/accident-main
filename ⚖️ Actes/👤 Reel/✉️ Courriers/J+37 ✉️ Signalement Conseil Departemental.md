@@ -22,7 +22,7 @@ drive_id: 1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ
 <hr>
 <!-- /Breadcrumb -->
 
-# SIGNALEMENT DE NON-CONFORMITÉ D'ERP AU CONSEIL DÉPARTEMENTAL DE L'ARIÈGE
+# SIGNALEMENT DE NON-CONFORMITÉ D'ERP <br> CONSEIL DÉPARTEMENTAL
 > 🔗 Source Google Drive : [1pBi3ofZ86aG…](https://drive.google.com/open?id=1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ)
 
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)  
@@ -61,6 +61,7 @@ Le salon de coiffure constitue un Établissement Recevant du Public (ERP) de 5e 
 
 - **Installation dangereuse en hauteur** :  
 Un poste de télévision est installé en hauteur de manière inaccessible, nécessitant de monter sur le bac à shampoing en céramique pour toute intervention. Cette configuration matérielle est susceptible de compromettre la sécurité des personnes amenées à y accéder ou à stationner à proximité directe.
+
 - **Maintien en service d'un équipement sanitaire détérioré** :  
 Le bac à shampoing en céramique, instable et présentant une cassure préexistante majeure, a basculé sous le poids du préposé. En se brisant, il a exposé des arêtes tranchantes qui ont causé de graves lésions à ma main droite.
 
@@ -71,9 +72,8 @@ Le bac à shampoing en céramique, instable et présentant une cassure préexist
 Les faits portés à votre connaissance sont susceptibles de caractériser des manquements aux obligations de sécurité incombant à l'exploitant d'un ERP, conformément à la réglementation applicable aux établissements recevant du public issue du Code de la construction et de l'habitation et du règlement de sécurité contre l'incendie et la panique :
 
 1. **Aménagement matériel dangereux** : Installation d'un équipement technique (téléviseur) en hauteur sans dispositif d'accès sécurisé fixe ou mobile.
+
 2. **Défaut de maintenance des installations** : Maintien à la disposition du public et du personnel d'un bac en céramique instable et présentant des dommages préexistants non réparés.
-3. **Absence d'affichage visible des consignes de sécurité** au sein de l'établissement.
-4. **Absence suspectée de tenue d'un registre public d'accessibilité** et de sécurité.
 
 <hr><hr>
 
@@ -82,6 +82,14 @@ Les faits portés à votre connaissance sont susceptibles de caractériser des m
 Compte tenu de la gravité de l'accident corporel survenu et du risque de réitération pour d'autres clients ou usagers de cet ERP, je vous serais reconnaissant de bien vouloir transmettre ces éléments d'alerte aux services de contrôle départementaux compétents (Secrétariat de la CCDSA) afin qu'une inspection de conformité puisse être rapidement ordonnée en lien avec l'autorité municipale et préfectorale.
 
 Je vous remercie par avance de m'adresser un accusé de réception écrit de la présente.
+
+<hr>
+
+## PIECES JOINTES
+
+- **[Procès-verbal de police n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026
+
+- **[Signalement Préfecture](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20Prefecture.md)** — Confirmation officielle transmise à la Préfecture de l'Ariège
 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Président, l'expression de ma considération distinguée.
 

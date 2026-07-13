@@ -21,7 +21,7 @@ drive_id: 1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY
 <hr>
 <!-- /Breadcrumb -->
 
-# SIGNALEMENT OFFICIEL AU COMITÉ DÉPARTEMENTAL ANTI-FRAUDE DE L'ARIÈGE
+# SIGNALEMENT OFFICIEL <br> AU COMITÉ DÉPARTEMENTAL ANTI-FRAUDE DE L'ARIÈGE
 > 🔗 Source Google Drive : [1Lva-hW9g9d6…](https://drive.google.com/open?id=1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY)
 
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)  
@@ -61,7 +61,9 @@ La SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%
 
 L'accident est survenu dans les conditions suivantes :
 - Le préposé est monté sur le bac à shampoing pour accéder au poste de télévision, en l'absence de tout escabeau ou marchepied adapté.
+
 - La vasque en céramique, instable et présentant une cassure préexistante, a basculé sous son poids.
+
 - Ma main droite a heurté la cassure préexistante aux arêtes coupantes, entraînant la plaie grave précitée.
 
 <hr><hr>
@@ -72,7 +74,9 @@ Les faits signalés ci-après sont susceptibles de caractériser des manquements
 
 **1. Travail dissimulé présumé** (Article L. 8221-5 du Code du travail)
 
-Il ressort des éléments en ma possession que le préposé exerçant dans l'établissement ne faisait l'objet d'aucune déclaration préalable à l'embauche (DPAE) ni d'aucun affichage obligatoire, et à ma connaissance, aucun bulletin de paie ne lui a été délivré. Ces éléments me conduisent à soupçonner un recours au travail dissimulé par dissimulation d'emploi salarié au sens de l'article L. 8221-5 du Code du travail.
+Il ressort des éléments en ma possession que le préposé exerçant dans l'établissement ne faisait l'objet d'aucune déclaration préalable à l'embauche (DPAE) ni d'aucun affichage obligatoire, et à ma connaissance, aucun bulletin de paie ne lui a été délivré.
+
+Ces éléments me conduisent à soupçonner un recours au travail dissimulé par dissimulation d'emploi salarié au sens de l'article L. 8221-5 du Code du travail.
 
 > *« Est réputé travail dissimulé par dissimulation d'emploi salarié le fait pour tout employeur :
 > - 1° Soit de se soustraire intentionnellement à l'accomplissement de la formalité prévue à l'article L. 1221-10 , relatif à la déclaration préalable à l'embauche ;
@@ -82,7 +86,9 @@ Il ressort des éléments en ma possession que le préposé exerçant dans l'ét
 > [Article L8221-5 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966)
 
 - Présence physique et active d'un préposé non déclaré au salon.
+
 - Absence suspectée de déclaration préalable à l'embauche (DPAE) et de bulletins de paie.
+
 - Refus persistant des dirigeants de fournir la moindre information sociale ou d'identité du personnel malgré mes mises en demeure.
 
 **2. Défaut d'assurance de Responsabilité Civile Professionnelle**
@@ -90,28 +96,36 @@ Il ressort des éléments en ma possession que le préposé exerçant dans l'ét
 L'exploitant n'a procédé à aucun affichage de son attestation d'assurance RC professionnelle dans l'établissement et les dirigeants n'ont pas communiqué l'identité de l'assureur malgré mes demandes répétées, ce qui fait redouter une absence totale de couverture obligatoire pour cette activité commerciale ouverte au public.
 
 - Absence d'affichage légal et de communication spontanée de l'assureur.
+
 - Silence persistant à la suite de ma mise en demeure en LRAR.
 
 **3. Non-respect des règles de sécurité au travail**
 
-L'absence d'équipement d'accès en hauteur (escabeau) ayant contraint le préposé à monter sur un mobilier sanitaire instable et cassé est susceptible de caractériser un manquement à l'obligation de sécurité de l'employeur (Article L. 4121-1 du Code du travail) et aux dispositions sur le travail en hauteur (Articles R. 4323-58 et suivants du Code du travail), ainsi qu'à l'obligation de conformité des équipements de travail (Article L. 4321-1 du Code du travail). L'absence de Document Unique d'Évaluation des Risques Professionnels (DUERP) à jour est également suspectée.
+L'absence d'équipement d'accès en hauteur (escabeau) ayant contraint le préposé à monter sur un mobilier sanitaire instable et cassé est susceptible de caractériser un manquement à l'obligation de sécurité de l'employeur (Article L. 4121-1 du Code du travail) et aux dispositions sur le travail en hauteur (Articles R. 4323-58 et suivants du Code du travail), ainsi qu'à l'obligation de conformité des équipements de travail (Article L. 4321-1 du Code du travail).
+
+L'absence de Document Unique d'Évaluation des Risques Professionnels (DUERP) à jour est également suspectée.
 
 > *« Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. »* <br>
 > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.[^2]**  
 > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
 
 - Chute consécutive à l'absence de moyens adaptés pour le travail en hauteur.
+
 - Maintien en service d'un équipement sanitaire fissuré et instable.
 
 **4. Éléments contextuels relatifs à l'exploitation**
 
-Le capital social de 200 € et la dissociation entre le siège social de l'activité ([Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)) et la domiciliation des dirigeants ([Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) et [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md)) ne constituent pas en soi des infractions, mais sont des éléments de contexte qui interrogent sur la sincérité et la pérennité de l'exploitation. Combinés aux autres manquements de sécurité et de déclaration suspectés, ils justifient un examen attentif de la part de vos services afin de prévenir des fraudes statutaires ou des organisations d'insolvabilité.
+Le capital social de 200 € et la dissociation entre le siège social de l'activité ([Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)) et la domiciliation des dirigeants ([Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) et [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md)) ne constituent pas en soi des infractions, mais sont des éléments de contexte qui interrogent sur la sincérité et la pérennité de l'exploitation.
+
+Combinés aux autres manquements de sécurité et de déclaration suspectés, ils justifient un examen attentif de la part de vos services afin de prévenir des fraudes statutaires ou des organisations d'insolvabilité.
 
 <hr><hr>
 
 ## III — DEMANDE D'ENQUÊTE
 
-En qualité de victime directe ayant subi des préjudices corporels sévères et irréversibles à la main droite, je sollicite du CODAF qu'une enquête soit diligentée afin de vérifier l'ensemble de ces éléments sociaux et déclaratifs. Conformément à l'Article 40 du Code de procédure pénale, si les faits constatés par vos services sont constitutifs d'infractions, je vous remercie de bien vouloir en informer le Procureur de la République.
+En qualité de victime directe ayant subi des préjudices corporels sévères et irréversibles à la main droite, je sollicite du CODAF qu'une enquête soit diligentée afin de vérifier l'ensemble de ces éléments sociaux et déclaratifs.
+
+Conformément à l'Article 40 du Code de procédure pénale, si les faits constatés par vos services sont constitutifs d'infractions, je vous remercie de bien vouloir en informer le Procureur de la République.
 
 > *« Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1.
 >

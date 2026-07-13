@@ -27,7 +27,7 @@ drive_id: 1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE
 - [INTRODUCTION](#introduction)
 - [I — OBJET DU SIGNALEMENT](#i--objet-du-signalement)
 
-# SIGNALEMENT DE SECURITE ERP AU SDIS DE L'ARIEGE
+# SIGNALEMENT DE SECURITE ERP <br> AU SDIS DE L'ARIEGE
 > 🔗 Source Google Drive : [1CCl3bFp_jkY…](https://drive.google.com/open?id=1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE)
 [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md)
 
@@ -63,6 +63,14 @@ Je porte par la presente a votre connaissance les faits suivants, susceptibles d
 #### **2. ABSENCE D'EQUIPEMENT D'ACCES SECURISE**Le prepose a du monter sur ce bac a shampoing pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur, en violation des regles de securite contre les chutes de hauteur.
 
 Je vous remercie de bien vouloir me tenir informe des suites reserves a ce signalement.
+
+<hr>
+
+## PIECES JOINTES
+
+- **[Procès-verbal de police n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026
+
+- **[Signalement Préfecture](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20Prefecture.md)** — Confirmation officielle transmise a la Prefecture de l'Ariege
 
 Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) — Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
 

@@ -22,7 +22,7 @@ drive_id: 1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM
 <hr>
 <!-- /Breadcrumb -->
 
-# CONFIRMATION OFFICIELLE DE SIGNALEMENT A LA PREFECTURE DE L'ARIEGE
+# CONFIRMATION OFFICIELLE DE SIGNALEMENT <br> A LA PREFECTURE DE L'ARIEGE
 > 🔗 Source Google Drive : [1sIkiScOSFZy…](https://drive.google.com/open?id=1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM)
 [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md)
 
@@ -92,9 +92,13 @@ Je porte par ailleurs a votre connaissance les manquements suivants, constates d
 > *« Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. »* <br>
 > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) <br>
 > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.[^2]**
+
 - Equipement defectueux (bac a shampoing instable avec cassure preexistante)
+
 - Absence presumee de DUERP
+
 - Defaut presumee d'assurance RC professionnelle
+
 - Travail dissimule presume
 
 <hr>
@@ -107,6 +111,22 @@ Je sollicite de vos services :
 3. La communication des suites reserves a ce signalement
 
 Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) — Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
+
+<hr>
+
+## PIECES JOINTES
+
+- **[Procès-verbal de police n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026
+
+- **[Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** — Procedure penale engagee devant le TJ de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
+
+- **[Mises en demeure LRAR](J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md)** — Mises en demeure du [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
+
+- **[Signalement Inspection du Travail](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20Inspection%20Travail.md)** — Demande d'enquete aupres de la DDETS 09
+
+- **[Signalement CODAF](J%2B37%20%E2%9C%89%EF%B8%8F%20Signalement%20CODAF.md)** — Saisine du Comite Departemental Anti-Fraude
+
+- **[Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Prefet, l'expression de ma consideration distinguee.
 

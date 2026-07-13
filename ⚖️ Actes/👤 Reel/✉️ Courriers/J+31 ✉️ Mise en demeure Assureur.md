@@ -50,7 +50,7 @@ La présente lettre de mise en demeure est adressée par [Sébastien GRAZIDE](..
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
 
-Par ce courrier, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) met en demeure l'assureur de prendre en charge le sinistre corporel survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) dans les locaux de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et de procéder au règlement des préjudices subis, dont le montant total estimé s'élève à 59 600 € selon l'étude d'indemnisation établie conformément à la Nomenclature Dintilhac.
+Par ce courrier, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) met en demeure l'assureur de prendre en charge le sinistre corporel survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) dans les locaux de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et de procéder au règlement des préjudices subis, dont le montant total estimé s'élève à [59 600 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-evaluation-initiale.md) selon l'étude d'indemnisation établie conformément à la Nomenclature Dintilhac.
 
 Cette action directe permet à la victime de saisir directement l'assureur sans passer par l'intermédiaire de la société responsable, conformément aux dispositions du Code des assurances.
 
@@ -100,16 +100,16 @@ Je vous mets en demeure par la présente :
 
 2. De désigner sans délai un médecin expert afin de procéder à mon examen, en vue d'évaluer mes préjudices conformément à la Nomenclature Dintilhac.
 
-3. De procéder au versement d'une provision financière de première urgence d'un montant de 15 000 € sous un délai de 15 jours à compter de la réception du présent pli, afin de compenser les premières pertes d'exploitation me concernant, travailleur indépendant ([500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-identifiant-professionnel-de-la-victime.md)) actuellement dans l'incapacité d'utiliser sa main droite pour exercer son activité professionnelle d'informaticien.
+3. De procéder au versement d'une provision financière de première urgence d'un montant de [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) sous un délai de 15 jours à compter de la réception du présent pli, afin de compenser les premières pertes d'exploitation me concernant, travailleur indépendant ([500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-identifiant-professionnel-de-la-victime.md)) actuellement dans l'incapacité d'utiliser sa main droite pour exercer son activité professionnelle d'informaticien.
 
-L'évaluation globale de mon préjudice corporel, détaillée dans l'étude d'indemnisation, s'établit à 59 600 € selon les postes de préjudice suivants :
+L'évaluation globale de mon préjudice corporel, détaillée dans l'étude d'indemnisation, s'établit à [59 600 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-evaluation-initiale.md) selon les postes de préjudice suivants :
 
-- Pertes de gains professionnels actuels (PGPA) : 1 380 €
-- Incidence professionnelle (IP) : 30 000 €
-- Déficit fonctionnel permanent (DFP) : 25 000 €
-- Souffrances endurées (SE) : 15 000 €
-- Préjudice d'agrément : 5 000 €
-- Frais de procédure (Article 700) : 3 000 €
+- Pertes de gains professionnels actuels (PGPA) : [1 380 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-pgpa.md)
+- Incidence professionnelle (IP) : [30 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-incidence-professionnelle.md)
+- Déficit fonctionnel permanent (DFP) : [25 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-dfp.md)
+- Souffrances endurées (SE) : [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-souffrances-endurees.md)
+- Préjudice d'agrément : [5 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prejudice-agrement.md)
+- Frais de procédure (Article 700) : [3 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700.md)
 
 À défaut de réponse et du versement de la provision réclamée dans le délai de 15 jours, j'engagerai une procédure en référé-provision devant le Président du Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), et assignerai directement votre compagnie en exécution forcée sur le fondement de l'action directe.
 
@@ -144,6 +144,18 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) — d'abord en référé pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
+
+<hr>
+
+## PIECES JOINTES
+
+- **[Procès-verbal de police n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026
+
+- **[Certificat medical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr [**[Dr JARDON]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-dr-jardon.md)
+
+- **[Compte-rendu operatoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
+
+- **[Arrets de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
 
 Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 

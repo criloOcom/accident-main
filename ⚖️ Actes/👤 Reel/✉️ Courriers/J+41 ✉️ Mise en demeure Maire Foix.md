@@ -18,7 +18,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/29 ✉️ Courrier Maire Foix.md
 <hr>
 <!-- /Breadcrumb -->
 
-# LETTRE RECOMMANDÉE AVEC ACCUSÉ DE RÉCEPTION
+# LETTRE RECOMMANDÉE <br> ACCUSÉ DE RÉCEPTION
 
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
 [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md)
@@ -37,7 +37,9 @@ Monsieur le Maire,
 
 Par la présente, je me permets d'attirer votre attention sur une situation constitutive d'un péril grave et imminent pour la sécurité de vos administrés, au sein de l'établissement exploité par la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), sis [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-l-exploitation.md) à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md).
 
-Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein de cet établissement recevant du public (ERP). Une vasque en céramique lourdement endommagée, ne respectant pas les normes élémentaires de sécurité, a causé des blessures majeures ayant entraîné une intervention chirurgicale en urgence et une incapacité temporaire totale (ITT) de 56 jours.
+Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein de cet établissement recevant du public (ERP).
+
+Une vasque en céramique lourdement endommagée, ne respectant pas les normes élémentaires de sécurité, a causé des blessures majeures ayant entraîné une intervention chirurgicale en urgence et une incapacité temporaire totale (ITT) de 56 jours.
 
 En votre qualité de premier magistrat de la commune, il vous appartient d'assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques. En vertu de l'[article L. 2212-2 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370)[^1], la police municipale a pour objet d'assurer la sécurité et la commodité du passage dans les rues, quais, places et voies publiques, mais également de prévenir les accidents et les fléaux calamiteux au sein des établissements ouverts au public.
 
@@ -59,9 +61,23 @@ Face à la gravité des faits et à la probabilité de réitération d'un tel ac
 
 3. D'envisager, si les infractions et manquements graves à la sécurité sont établis, une mesure de **fermeture administrative** de l'établissement jusqu'à sa mise en conformité totale, afin de prévenir tout nouveau dommage corporel.
 
-Il est de la responsabilité de la commune de prévenir tout dommage prévisible découlant de l'exploitation d'un ERP dangereux sur son territoire. J'attire votre attention sur le fait qu'une procédure pénale est d'ores et déjà ouverte suite à un dépôt de plainte, et qu'une action visant à engager la responsabilité civile de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et de ses dirigeants, [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md), est en cours.
+Il est de la responsabilité de la commune de prévenir tout dommage prévisible découlant de l'exploitation d'un ERP dangereux sur son territoire.
+
+J'attire votre attention sur le fait qu'une procédure pénale est d'ores et déjà ouverte suite à un dépôt de plainte, et qu'une action visant à engager la responsabilité civile de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et de ses dirigeants, [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md), est en cours.
 
 Je vous remercie par avance des diligences que vous voudrez bien accomplir pour garantir la sécurité du public.
+
+<hr>
+
+## PIECES JOINTES
+
+- **[Procès-verbal de police n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026
+
+- **[Compte-rendu operatoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Blessures documentees par SOS Main
+
+- **[Certificat medical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr [Dr JARDON]
+
+- **[Arrets de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
 
 Je vous prie de croire, Monsieur le Maire, à l'expression de ma considération distinguée.
 

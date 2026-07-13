@@ -25,7 +25,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/99 🛡️ Memoire en defens
 ## INTRODUCTION
 Le présent mémorandum est établi pour la défense des intérêts de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et de ses dirigeants, assignés en référé-provision par Monsieur [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) suite à un incident survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure.
 
-La partie demanderesse réclame une provision de 15 000 € sur le fondement de l'article 835 alinéa 2 du Code de procédure civile, alléguant que l'obligation ne serait pas sérieusement contestable.
+La partie demanderesse réclame une provision de [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) sur le fondement de l'article 835 alinéa 2 du Code de procédure civile, alléguant que l'obligation ne serait pas sérieusement contestable.
 
 Or, une analyse rigoureuse des pièces du dossier démontre l'existence de contestations sérieuses tant sur la matérialité des faits, le lien de causalité, que sur l'évaluation particulièrement exagérée des préjudices.
 
@@ -80,7 +80,7 @@ Il n'y a ici aucune intention de nuire ni aucune infraction pénale intentionnel
 
 ## III. SUR LE CHIFFRAGE EXORBITANT ET PRÉMATURÉ DES PRÉJUDICES
 
-La demande de provision de 15 000 €, fondée sur un préjudice global fantaisiste évalué par la partie adverse à près de 105 000 €, se heurte à des obstacles médico-légaux majeurs.
+La demande de provision de [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md), fondée sur un préjudice global fantaisiste évalué par la partie adverse à près de 105 000 €, se heurte à des obstacles médico-légaux majeurs.
 
 ### A. L'absence de consolidation de la victime
 Il est constant qu'à ce jour, **aucun certificat de consolidation** n'a été produit par la victime (qui admet elle-même que son état n'est pas consolidé). En droit de la réparation du dommage corporel, les postes de préjudices permanents ne peuvent naître ni être chiffrés avant la consolidation.
@@ -114,7 +114,7 @@ Le juge des référés est le juge de l'évidence. En l'espèce :
 
 - L'évaluation des préjudices est prématurée (absence de consolidation) et largement surévaluée (DFP et IP infondés, Agrément sans preuve).
 
-L'obligation de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) étant sérieusement contestable, la demande de provision de 15 000 € doit être rejetée en toutes ses dispositions. Tout au plus, si le juge ordonne une expertise médicale (Article 145 CPC), celle-ci devra se dérouler aux frais avancés de la demanderesse sans aucune provision financière préalable.
+L'obligation de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) étant sérieusement contestable, la demande de provision de [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) doit être rejetée en toutes ses dispositions. Tout au plus, si le juge ordonne une expertise médicale (Article 145 CPC), celle-ci devra se dérouler aux frais avancés de la demanderesse sans aucune provision financière préalable.
 
 Fait pour valoir ce que de droit.
 

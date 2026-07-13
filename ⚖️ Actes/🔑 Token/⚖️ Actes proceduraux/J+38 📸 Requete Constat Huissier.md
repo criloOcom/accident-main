@@ -100,6 +100,16 @@ Par ces motifs, et vu l'urgence extrême liée au risque de déperdition des pre
 
 **Donner acte à l'huissier instrumentaire de ses constatations et photographies** dans le cadre du procès-verbal de constat qui sera dressé à l'issue de ses opérations.
 
+<hr>
+
+## PIECES JOINTES
+
+- **[Procès-verbal de police n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
+
+- **[Compte-rendu operatoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Preuve des blessures et de l'intervention chirurgicale
+
+- **[Certificat medical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Premiere constatation médicale des lesions
+
 Fait pour valoir ce que de droit,
 
 Le **[À compléter]**

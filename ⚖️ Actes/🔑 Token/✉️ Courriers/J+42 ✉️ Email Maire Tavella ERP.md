@@ -50,6 +50,16 @@ Le dossier complet de ma procédure reste à la disposition de vos services. Bie
 
 Je vous remercie par avance de l'attention que vous voudrez bien porter à ces éléments.
 
+<hr>
+
+## PIECES JOINTES
+
+- **[Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** — Procedure penale transmise au TJ de [La Ville de l'Accident]
+
+- **[Mises en demeure J+31](../J%2B31%20%F0%9F%93%AC%20Mise%20en%20demeure%20SAS.md)** — LRAR retournees a l'expediteur (defaut d'adresse)
+
+- **[Attestation de depot CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° Dossier CPAM]
+
 Bien cordialement,
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)

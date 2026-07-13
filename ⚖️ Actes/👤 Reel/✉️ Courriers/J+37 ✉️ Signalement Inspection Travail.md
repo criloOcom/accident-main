@@ -21,7 +21,7 @@ drive_id: 1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM
 <hr>
 <!-- /Breadcrumb -->
 
-# DEMANDE D'INFORMATION À L'INSPECTION DU TRAVAIL
+# DEMANDE D'INFORMATION <br> INSPECTION DU TRAVAIL
 > 🔗 Source Google Drive : [1tStFiBk8gxB…](https://drive.google.com/open?id=1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM)
 
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)  
@@ -61,12 +61,16 @@ Les procédures suivantes ont été engagées :
 
 **1. Procédure pénale**
 - Dépôt de plainte le 1er juin 2026 (PV n° [2026/015967](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes))
+
 - [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise le [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
+
 - Plainte complémentaire pour défaut d'assurance RC professionnelle et travail dissimulé présumé
 
 **2. Mises en demeure LRAR** du [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
 - Mise en demeure à la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md)
+
 - Mise en demeure à [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et à [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md)
+
 - Action directe contre l'assureur RC ([Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1])
 
 <hr>
@@ -94,20 +98,26 @@ Le bac à shampoing en céramique, instable et présentant une cassure préexist
 > **Code du travail > Section 1 : Principes.[^3]**
 
 - **Absence de DUERP** :  
-À ce jour, aucun Document Unique d'Évaluation des Risques Professionnels ne m'a été communiqué par l'exploitant malgré ma mise en demeure du [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md). J'ignore si ce document existe effectivement ou s'il est à jour, et je sollicite de vos services la vérification de son existence et de sa mise à jour.
+À ce jour, aucun Document Unique d'Évaluation des Risques Professionnels ne m'a été communiqué par l'exploitant malgré ma mise en demeure du [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md).
+
+J'ignore si ce document existe effectivement ou s'il est à jour, et je sollicite de vos services la vérification de son existence et de sa mise à jour.
 
 - **Défaut d'assurance de Responsabilité Civile Professionnelle** :  
 L'exploitant n'a affiché aucune attestation d'assurance RC professionnelle au sein du salon de coiffure et a omis d'indiquer l'identité de son assureur malgré mes demandes répétées, ce qui fait craindre un défaut total de couverture obligatoire.
 
 - **Absence d'équipement d'accès en hauteur** :  
-Le préposé a dû monter sur le bac à shampoing pour accéder au poste de télévision, en l'absence de tout équipement de travail adapté (escabeau, marchepied) mis à disposition par l'employeur. Cette situation est susceptible de méconnaître l'obligation de sécurité de l'employeur (Article L. 4121-1 du Code du travail) et les règles relatives aux travaux en hauteur (Articles R. 4323-58 et suivants du Code du travail), l'employeur devant fournir un plan de travail ou un équipement d'accès approprié permettant l'intervention en sécurité.
+Le préposé a dû monter sur le bac à shampoing pour accéder au poste de télévision, en l'absence de tout équipement de travail adapté (escabeau, marchepied) mis à disposition par l'employeur.
+
+Cette situation est susceptible de méconnaître l'obligation de sécurité de l'employeur (Article L. 4121-1 du Code du travail) et les règles relatives aux travaux en hauteur (Articles R. 4323-58 et suivants du Code du travail), l'employeur devant fournir un plan de travail ou un équipement d'accès approprié permettant l'intervention en sécurité.
 
 > *« L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. »* <br>
 > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)  
 > **Code du travail > Chapitre Ier : Obligations de l'employeur.[^4]**
 
 - **Travail dissimulé présumé** :  
-Il existe une possibilité que le préposé exerçant dans l'établissement ne soit pas déclaré. Cet indice est étayé par le fait que la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) déclare officiellement zéro salarié au Registre National des Entreprises, alors que l'activité commerciale du salon est continue et requiert la présence physique de ce préposé.
+Il existe une possibilité que le préposé exerçant dans l'établissement ne soit pas déclaré.
+
+Cet indice est étayé par le fait que la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) déclare officiellement zéro salarié au Registre National des Entreprises, alors que l'activité commerciale du salon est continue et requiert la présence physique de ce préposé.
 
 ### 4. TRANSMISSION AU PARQUET
 Si les faits constatés par vos contrôles s'avèrent constitutifs d'infractions pénales, je vous remercie par avance de bien vouloir transmettre votre rapport au Procureur de la République près le Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) conformément à l'Article 40 du Code de procédure pénale.
@@ -117,6 +127,22 @@ Si les faits constatés par vos contrôles s'avèrent constitutifs d'infractions
 > **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.[^5]**
 
 Je vous remercie de bien vouloir me faire parvenir un accusé de réception écrit de la présente.
+
+<hr>
+
+## PIECES JOINTES
+
+- **[Procès-verbal de police n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026 (PV n° [2026/015967](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes))
+
+- **[Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** — Procedure penale transmise au TJ de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)
+
+- **[Mises en demeure LRAR](J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md)** — Mises en demeure du [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) a la SAS, a son president et a sa directrice generale
+
+- **[Certificat medical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr [**[Dr JARDON]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-dr-jardon.md)
+
+- **[Compte-rendu operatoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
+
+- **[Arrets de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — Arrets de travail prescrits (ITT 56 jours)
 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur l'Inspecteur du Travail, l'expression de ma considération distinguée.
 
