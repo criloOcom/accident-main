@@ -150,6 +150,8 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 
 **EN CONSÉQUENCE**, il est demandé au juge des référés :
 
+S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 56 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.
+
 **PRINCIPALEMENT,**
 
 **I.** De constater que l'obligation de la société défenderesse n'est pas sérieusement contestable et d'ordonner la condamnation de cette dernière au paiement d'une provision provisoire de **15 000 €**, comprenant :

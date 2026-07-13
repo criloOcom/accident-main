@@ -24,3 +24,10 @@ Actes judiciaires et contentieux : saisines, oppositions, transmissions de pièc
 | [J+47 📜 Plainte Complementaire.md](J+47%20%F0%9F%93%9C%20Plainte%20Complementaire.md) | Police / Justice | 🟡 Brouillon |
 
 **Cas limite** : *Opposition Immatriculation INPI* est adressée à une administration (INPI) mais son objet est contentieux (opposition à radiation) → classée ici par nature d'acte.
+
+---
+
+### Stratégie Amiable & Négociation
+
+Pour servir de base de négociation ou de règlement amiable en parallèle de la procédure contentieuse, un protocole transactionnel formel basé sur le rapport Dintilhac a été rédigé :
+* [Protocole Transactionnel Dintilhac](../../💰%20Etudes%20indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md) — Base de négociation et accord amiable prêt à signer.
