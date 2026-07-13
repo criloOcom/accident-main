@@ -80,7 +80,11 @@ Ces elements etablissent que :
 
 Je reste a la disposition du Tribunal pour fournir tout element complementaire ou pour etre entendu si necessaire.
 
-<hr><hr>
+Dans l'attente de votre retour, je vous prie d'agreer, Monsieur le President, l'expression de ma consideration distinguee.
+
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+
+---
 
 ## PIECES JOINTES
 - Accuses de reception des courriers recommandes retournes (29 juin 2026)
@@ -89,7 +93,3 @@ Je reste a la disposition du Tribunal pour fournir tout element complementaire o
 - Note d'audit RNE/INPI du 10 juillet 2026
 
 Je vous remercie de bien vouloir me faire parvenir un accuse de reception ecrit de la presente.
-
-Dans l'attente de votre retour, je vous prie d'agreer, Monsieur le President, l'expression de ma consideration distinguee.
-
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)

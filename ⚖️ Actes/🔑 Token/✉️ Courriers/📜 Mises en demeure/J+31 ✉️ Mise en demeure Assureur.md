@@ -145,7 +145,13 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 
-<hr><hr>
+Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+Mes coordonnées : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) / Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
+
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+
+---
 
 ## PIECES JOINTES
 
@@ -156,14 +162,6 @@ L'ensemble des pièces et de la procédure vous sera communiqué par transparenc
 - **[Compte-rendu operatoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
 
 - **[Arrets de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
-
-Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
-
-Mes coordonnées : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) / Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
-
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
-
 
 ## Sources Législation
 

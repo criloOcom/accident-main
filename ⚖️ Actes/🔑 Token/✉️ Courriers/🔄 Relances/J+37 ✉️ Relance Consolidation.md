@@ -100,7 +100,13 @@ Je vous remercie par avance de l'attention que vous porterez a cette demande et 
 
 Mes coordonnees pour reponse : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) / Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
 
-<hr><hr>
+Je vous prie d'agreer, Madame, Docteur, l'expression de ma consideration distinguee.
+
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+
+NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) sur ma main droite dominante, je suis actuellement en arret de travail (ITT medicale de 56 jours) et dans l'incapacite d'utiliser normalement un clavier d'ordinateur ou d'ecrire manuellement. Cette situation de handicap physique temporaire explique le delai de transmission de mes demandes administratives.
+
+---
 
 ## PIECES JOINTES
 
@@ -111,14 +117,6 @@ Mes coordonnees pour reponse : [**[L'Adresse de la Victime]**](../../../%F0%9F%A
 - **[Arrets de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
 
 - **[Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
-
-Je vous prie d'agreer, Madame, Docteur, l'expression de ma consideration distinguee.
-
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
-NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) sur ma main droite dominante, je suis actuellement en arret de travail (ITT medicale de 56 jours) et dans l'incapacite d'utiliser normalement un clavier d'ordinateur ou d'ecrire manuellement. Cette situation de handicap physique temporaire explique le delai de transmission de mes demandes administratives.
-
-
 
 ## Sources Législation
 

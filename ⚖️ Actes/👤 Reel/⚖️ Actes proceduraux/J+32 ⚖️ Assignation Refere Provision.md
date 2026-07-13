@@ -323,7 +323,7 @@ Vu les pièces versées aux débats,
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^20]**
 
-<hr><hr>
+---
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 - **Pièce n°1 :** Procès-verbal de police n° [2026/015967](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (Police Nationale [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-metropole-regionale.md)) — dépôt de plainte pour blessures involontaires

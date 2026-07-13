@@ -128,7 +128,11 @@ Si les faits constatés par vos contrôles s'avèrent constitutifs d'infractions
 
 Je vous remercie de bien vouloir me faire parvenir un accusé de réception écrit de la présente.
 
-<hr><hr>
+Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur l'Inspecteur du Travail, l'expression de ma considération distinguée.
+
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+
+---
 
 ## PIECES JOINTES
 
@@ -143,12 +147,6 @@ Je vous remercie de bien vouloir me faire parvenir un accusé de réception écr
 - **[Compte-rendu operatoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
 
 - **[Arrets de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — Arrets de travail prescrits (ITT 56 jours)
-
-Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur l'Inspecteur du Travail, l'expression de ma considération distinguée.
-
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
-
 
 ## Sources Législation
 

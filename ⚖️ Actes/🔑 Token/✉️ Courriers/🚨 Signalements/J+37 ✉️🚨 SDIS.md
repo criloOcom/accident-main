@@ -64,7 +64,11 @@ Je porte par la presente a votre connaissance les faits suivants, susceptibles d
 
 Je vous remercie de bien vouloir me tenir informe des suites reserves a ce signalement.
 
-<hr><hr>
+Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Directeur, l'expression de ma consideration distinguee.
+
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+
+---
 
 ## PIECES JOINTES
 
@@ -73,7 +77,3 @@ Je vous remercie de bien vouloir me tenir informe des suites reserves a ce signa
 - **[Signalement Préfecture](J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Prefecture.md)** — Confirmation officielle transmise a la Prefecture de l'Ariege
 
 Mes coordonnees : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) — Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
-
-Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Directeur, l'expression de ma consideration distinguee.
-
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)

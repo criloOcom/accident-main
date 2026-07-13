@@ -99,7 +99,11 @@ L'absence de reponse dans un delai de **quinze jours** a compter de la reception
 
 Mes coordonnees : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) — Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
 
-<hr><hr>
+Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
+
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+
+---
 
 ## PIECES JOINTES
 
@@ -112,7 +116,3 @@ Mes coordonnees : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory
 - **[Signalement SIE](../J%2B31%20%F0%9F%93%AC%20Signalement%20SIE.md)** — Signalement fiscal adresse au SIE
 
 - **[Signalement Inspection du Travail](../J%2B31%20%F0%9F%93%AC%20Signalement%20Inspection%20Travail.md)** — Signalement social adresse a la DREETS
-
-Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
-
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)

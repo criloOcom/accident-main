@@ -100,7 +100,11 @@ Conformement a l'Article L.8271-1-2 du Code du travail, les agents de l'URSSAF s
 > [Article L8271-1-2 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334961) <br>
 > **Code du travail > Section 1 : Dispositions communes.[^3]**
 
-<hr><hr>
+Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Directeur, l'expression de ma consideration distinguee.
+
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+
+---
 
 ## PIECES JOINTES
 - Copie du [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procedure penale)
@@ -110,12 +114,6 @@ Conformement a l'Article L.8271-1-2 du Code du travail, les agents de l'URSSAF s
 Je vous remercie de bien vouloir me faire parvenir un accuse de reception ecrit de la presente, ainsi qu'une response dans un delai de 15 jours.
 
 Mes coordonnees : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) — Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
-
-Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Directeur, l'expression de ma consideration distinguee.
-
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
-
 
 ## Sources Législation
 

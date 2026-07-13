@@ -65,7 +65,11 @@ Je sollicite donc que les images de videosurveillance de l'etablissement soient 
 
 Mes coordonnees : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) — Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
 
-<hr><hr>
+Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
+
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+
+---
 
 ## PIECES JOINTES
 
@@ -74,12 +78,6 @@ Mes coordonnees : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory
 - **[Requete Article 145 CPC](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Demande de conservation des preuves et identification de l'assureur
 
 - **[Procès-verbal de police n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026 (PV n° [**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes))
-
-Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
-
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
-
 
 ## Sources Législation
 

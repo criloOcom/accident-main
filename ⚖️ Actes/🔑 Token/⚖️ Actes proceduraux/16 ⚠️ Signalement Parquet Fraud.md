@@ -74,7 +74,7 @@ Au regard de la gravité de ces faits, qui semblent orchestrés dans le but mani
 
 Je me tiens à votre entière disposition pour tout renseignement complémentaire et pour la transmission de toute pièce utile à l'instruction de cette affaire.
 
-<hr><hr>
+---
 
 ## PIECES JOINTES
 

@@ -50,7 +50,7 @@ Le dossier complet de ma procédure reste à la disposition de vos services. Bie
 
 Je vous remercie par avance de l'attention que vous voudrez bien porter à ces éléments.
 
-<hr><hr>
+---
 
 ## PIECES JOINTES
 

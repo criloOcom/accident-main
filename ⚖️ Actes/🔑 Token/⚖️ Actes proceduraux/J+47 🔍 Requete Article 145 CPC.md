@@ -174,7 +174,7 @@ Vu les pièces versées aux débats,
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^5]**
 
-<hr><hr>
+---
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 - **Pièce n°10 :** Lettre Recommandée avec Accusé de Réception (LRAR) de mise en demeure adressée à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) ([**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))

@@ -133,7 +133,11 @@ Conformément à l'Article 40 du Code de procédure pénale, si les faits consta
 > **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.[^3]**  
 > [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)
 
-<hr><hr>
+Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Président, l'expression de ma considération distinguée.
+
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+
+---
 
 ## PIÈCES JOINTES
 - Copie du [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procédure pénale)
@@ -144,12 +148,6 @@ Conformément à l'Article 40 du Code de procédure pénale, si les faits consta
 Je vous serais reconnaissant de bien vouloir m'adresser un accusé de réception écrit de la présente, ainsi qu'une réponse, si possible dans un délai de 15 jours.
 
 Mes coordonnées pour réponse : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md) — Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-email-de-la-victime.md)
-
-Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Président, l'expression de ma considération distinguée.
-
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
-
 
 ## Sources Législation
 

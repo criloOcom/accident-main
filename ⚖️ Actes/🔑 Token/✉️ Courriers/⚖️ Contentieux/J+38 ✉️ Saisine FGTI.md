@@ -121,7 +121,11 @@ Je sollicite en conséquence de vos services :
 
 - **La transmission des formulaires et barèmes** applicables pour la constitution future du dossier auprès de la CIVI.
 
-<hr><hr>
+Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Directeur, l'expression de ma considération distinguée.
+
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+
+---
 
 ## PIÈCES JOINTES
 - Copie du [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procédure pénale)
@@ -133,12 +137,6 @@ Je sollicite en conséquence de vos services :
 - Dossier médical complet (11 pièces)
 
 Je vous remercie de bien vouloir me faire parvenir un accusé de réception écrit de la présente.
-
-Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Directeur, l'expression de ma considération distinguée.
-
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-
-
 
 ## Sources Législation
 

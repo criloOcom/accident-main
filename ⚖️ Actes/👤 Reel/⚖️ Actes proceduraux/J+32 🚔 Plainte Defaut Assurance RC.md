@@ -163,7 +163,7 @@ Par ces motifs, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82
 
 Le plaignant se constitue partie civile et se tient à la disposition de la justice pour toute mesure d'expertise ou audition nécessaire à la manifestation de la vérité.
 
-<hr><hr>
+---
 
 ## PIECES JOINTES
 
