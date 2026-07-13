@@ -100,16 +100,16 @@ Je vous mets en demeure par la présente :
 
 2. De désigner sans délai un médecin expert afin de procéder à mon examen, en vue d'évaluer mes préjudices conformément à la Nomenclature Dintilhac.
 
-3. De procéder au versement d'une provision financière de première urgence d'un montant de **15 000 €** sous un délai de 15 jours à compter de la réception du présent pli, afin de compenser les premières pertes d'exploitation me concernant, travailleur indépendant ([**[L'Identifiant Professionnel de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-identifiant-professionnel-de-la-victime.md)) actuellement dans l'incapacité d'utiliser sa main droite pour exercer son activité professionnelle d'informaticien.
+3. De procéder au versement d'une provision financière de première urgence d'un montant de **[Finance Provision Référé]** sous un délai de 15 jours à compter de la réception du présent pli, afin de compenser les premières pertes d'exploitation me concernant, travailleur indépendant ([**[L'Identifiant Professionnel de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-identifiant-professionnel-de-la-victime.md)) actuellement dans l'incapacité d'utiliser sa main droite pour exercer son activité professionnelle d'informaticien.
 
 L'évaluation globale de mon préjudice corporel, détaillée dans l'étude d'indemnisation, s'établit à **[Finance Evaluation Initiale]** selon les postes de préjudice suivants :
 
-- Pertes de gains professionnels actuels (PGPA) : **1 400 €**
-- Incidence professionnelle (IP) : **30 000 €**
-- Déficit fonctionnel permanent (DFP) : **25 000 €**
-- Souffrances endurées (SE) : **15 000 €**
-- Préjudice d'agrément : **3 000 €**
-- Frais de procédure (Article 700) : **3 000 €**
+- Pertes de gains professionnels actuels (PGPA) : **[Finance PGPA]**
+- Incidence professionnelle (IP) : **[Finance Incidence Professionnelle]**
+- Déficit fonctionnel permanent (DFP) : **[Finance DFP]**
+- Souffrances endurées (SE) : **[Finance Souffrances Endurées]**
+- Préjudice d'agrément : **[Finance Préjudice Agrément]**
+- Frais de procédure (Article 700) : **[Finance Article 700]**
 
 À défaut de réponse et du versement de la provision réclamée dans le délai de 15 jours, j'engagerai une procédure en référé-provision devant le Président du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md), et assignerai directement votre compagnie en exécution forcée sur le fondement de l'action directe.
 

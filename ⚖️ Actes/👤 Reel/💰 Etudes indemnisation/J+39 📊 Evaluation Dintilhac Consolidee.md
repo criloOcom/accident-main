@@ -77,7 +77,7 @@ Ce principe exige que la victime soit replacée dans la situation exacte où ell
 
 ## 1.3 CONSTAT DE SOUS-ÉVALUATION
 
-L'évaluation initiale du dossier s'établissait à **[Finance Evaluation Initiale]**. Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**, pour cinq raisons principales :
+L'évaluation initiale du dossier s'établissait à 59 600 €. Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**, pour cinq raisons principales :
 
 1. **DFT** non chiffré (56 jours × 25-30 €/jour = 1 400-1 680 €)
 2. **Souffrances Endurées à 12 000 €** en dessous du Mornet 2024 (15 000 € minimum pour 4/7)

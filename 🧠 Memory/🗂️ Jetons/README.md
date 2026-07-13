@@ -1,6 +1,6 @@
 ---
 title: "🗂️ Jetons — Fiches individuelles des tokens d'anonymisation"
-description: "53 fiches enrichies, une par jeton de la TABLE DE SUBSTITUTION. Chaque fiche détaille l'identité, le contexte, la chronologie et les documents liés au jeton."
+description: "71 fiches enrichies (55 identité + 16 financiers), une par jeton. Chaque fiche détaille l'identité, le contexte, la chronologie et les documents liés au jeton."
 type: memory
 ---
 <!-- Breadcrumb -->
@@ -10,7 +10,7 @@ type: memory
 
 # 🗂️ Jetons — Fiches individuelles
 
-Ce dossier contient **53 fiches individuelles**, une par jeton de la `[TOKEN MAP.md](../TOKEN%20MAP.md)`.
+Ce dossier contient **71 fiches individuelles** (55 identité + 16 financiers). Les fiches identité sont listées dans la `[TOKEN MAP.md](../TOKEN%20MAP.md)` ; les fiches financières sont documentées ci-dessous.
 
 Chaque fiche regroupe :
 - **Identité** : le jeton et la valeur réelle substituée
@@ -105,6 +105,29 @@ Chaque fiche regroupe :
 | `**[J+46 Échéance amiable]**` | [token-j-46-echeance-amiable.md](token-j-46-echeance-amiable.md) |
 | `**[J+55 Fin d'ITT]**` | [token-j-55-fin-d-itt.md](token-j-55-fin-d-itt.md) |
 | `**[J+167 Expertise UMJ]**` | [token-j-167-expertise-umj.md](token-j-167-expertise-umj.md) |
+
+---
+
+### Tokens financiers (16)
+
+| Token | Fichier | Valeur |
+|-------|---------|--------|
+| `**[Finance Provision Référé]**` | [token-finance-provision-refere.md](token-finance-provision-refere.md) | 15 000 € |
+| `**[Finance Article 700]**` | [token-finance-article-700.md](token-finance-article-700.md) | 3 000 € |
+| `**[Finance Astreinte 145]**` | [token-finance-astreinte-145.md](token-finance-astreinte-145.md) | 150 €/jour |
+| `**[Finance Article 700 Référé 145]**` | [token-finance-article-700-refere-145.md](token-finance-article-700-refere-145.md) | 1 500 € |
+| `**[Finance Article 475-1]**` | [token-finance-article-475-1.md](token-finance-article-475-1.md) | 3 000 € |
+| `**[Finance PGPA]**` | [token-finance-pgpa.md](token-finance-pgpa.md) | 1 380 € |
+| `**[Finance DFP]**` | [token-finance-dfp.md](token-finance-dfp.md) | 25 000 € |
+| `**[Finance Souffrances Endurées]**` | [token-finance-souffrances-endurees.md](token-finance-souffrances-endurees.md) | 15 000 € |
+| `**[Finance Incidence Professionnelle]**` | [token-finance-incidence-professionnelle.md](token-finance-incidence-professionnelle.md) | 30 000 € |
+| `**[Finance Préjudice Agrément]**` | [token-finance-prejudice-agrement.md](token-finance-prejudice-agrement.md) | 5 000 € |
+| `**[Finance Préjudice Esthétique]**` | [token-finance-prejudice-esthetique.md](token-finance-prejudice-esthetique.md) | 3 000 € |
+| `**[Finance Dévalorisation Pro]**` | [token-finance-devalorisation-pro.md](token-finance-devalorisation-pro.md) | 3 000 € |
+| `**[Finance Frais Divers]**` | [token-finance-frais-divers.md](token-finance-frais-divers.md) | 3 000 € |
+| `**[Finance Facture Chirurgie]**` | [token-finance-facture-chirurgie.md](token-finance-facture-chirurgie.md) | 790,23 € |
+| `**[Finance Prestation Salon]**` | [token-finance-prestation-salon.md](token-finance-prestation-salon.md) | 15,00 € |
+| `**[Finance Evaluation Initiale]**` | [token-finance-evaluation-initiale.md](token-finance-evaluation-initiale.md) | 59 600 € |
 
 ---
 
