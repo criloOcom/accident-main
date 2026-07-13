@@ -20,7 +20,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/30 ✉️ Courrier President TC.md
 <hr>
 <!-- /Breadcrumb -->
 
-# OPPOSITION CONSERVATOIRE À RADIATION DE SOCIÉTÉ
+# OPPOSITION CONSERVATOIRE <br> RADIATION DE SOCIÉTÉ
 [**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
 
 **À L'ATTENTION DE MONSIEUR LE PRÉSIDENT DU Tribunal de Commerce de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)**

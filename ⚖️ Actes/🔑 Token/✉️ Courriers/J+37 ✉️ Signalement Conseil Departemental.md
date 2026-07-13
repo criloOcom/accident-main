@@ -22,7 +22,7 @@ drive_id: 1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ
 <hr>
 <!-- /Breadcrumb -->
 
-# SIGNALEMENT DE NON-CONFORMITÉ D'ERP <br> AU CONSEIL DÉPARTEMENTAL DE L'ARIÈGE
+# SIGNALEMENT DE NON-CONFORMITÉ D'ERP <br> CONSEIL DÉPARTEMENTAL
 > 🔗 Source Google Drive : [1pBi3ofZ86aG…](https://drive.google.com/open?id=1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ)
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)  
@@ -71,8 +71,11 @@ Le bac à shampoing en céramique, instable et présentant une cassure préexist
 Les faits portés à votre connaissance sont susceptibles de caractériser des manquements aux obligations de sécurité incombant à l'exploitant d'un ERP, conformément à la réglementation applicable aux établissements recevant du public issue du Code de la construction et de l'habitation et du règlement de sécurité contre l'incendie et la panique :
 
 1. **Aménagement matériel dangereux** : Installation d'un équipement technique (téléviseur) en hauteur sans dispositif d'accès sécurisé fixe ou mobile.
+
 2. **Défaut de maintenance des installations** : Maintien à la disposition du public et du personnel d'un bac en céramique instable et présentant des dommages préexistants non réparés.
+
 3. **Absence d'affichage visible des consignes de sécurité** au sein de l'établissement.
+
 4. **Absence suspectée de tenue d'un registre public d'accessibilité** et de sécurité.
 
 <hr><hr>

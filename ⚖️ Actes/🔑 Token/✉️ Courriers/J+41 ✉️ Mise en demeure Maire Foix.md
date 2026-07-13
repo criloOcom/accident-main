@@ -18,7 +18,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/29 ✉️ Courrier Maire Foix.md
 <hr>
 <!-- /Breadcrumb -->
 
-# LETTRE RECOMMANDÉE AVEC ACCUSÉ DE RÉCEPTION
+# LETTRE RECOMMANDÉE <br> ACCUSÉ DE RÉCEPTION
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
 [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-adresse-de-la-victime.md)
