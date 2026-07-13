@@ -14,6 +14,8 @@ type: readme
 
 **Ce dossier centralise les outils de navigation et de pilotage du dossier : index général, plan d'action, calendrier.**
 
+Pour visualiser l'ordre d'enchaînement logique et d'envoi de ces différents documents, vous pouvez consulter le [Graphe des Dépendances](../../../%F0%9F%A7%A0%20Memory/DEPENDANCES.md).
+
 ## 📋 Fichiers
 
  

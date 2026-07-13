@@ -42,7 +42,10 @@ graph TD
 
 ---
 
+Pour comprendre l'enchaînement logique et l'ordre d'expédition de ces actes et courriers, veuillez consulter le [Graphe des Dépendances](../🧠%20Memory/DEPENDANCES.md).
+
 ## 📋 Sous-dossiers 🔑 Token/ (miroir identique dans 👤 Reel/)
+
 
 - **[📂 Preuves officielles](%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/README.md)** — Documents physiques, CR opératoire, PV police
 - **[⚖️ Actes procéduraux](%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/README.md)** — Assignations, conclusions, requêtes

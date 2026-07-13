@@ -21,6 +21,7 @@ Les identités réelles (noms, adresses, email, immatriculations) y sont remplac
 - **Toute modification se fait ici.** Ne jamais modifier les fichiers dans `reel/`.
 - Un fichier créé ou modifié dans `token/` doit être propagé dans `reel/` via le script.
 - Les tokens sont définis dans [🧠 Memory/TOKEN MAP.md](../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md) et [🧠 Memory/STRICT VARIABLES.md](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md).
+- L'ordre chronologique et logique d'envoi des documents est régi par les dépendances de pièces, voir le [Graphe des Dépendances](../../%F0%9F%A7%A0%20Memory/DEPENDANCES.md).
 
 ## 📂 Contenu
 

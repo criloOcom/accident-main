@@ -47,6 +47,7 @@ Ces documents constituent le corps de la procédure en référé.
 - **Fin phase amiable** : 14 juillet 2026
 - **Audience de référé** : Date non fixée (à planifier)
 - **Expertise médicale** : 12 novembre 2026
+- **Dépendances des actes** : Voir le [Graphe des Dépendances](../../../%F0%9F%A7%A0%20Memory/DEPENDANCES.md) pour ordonner les procédures.
 
 ## 🗺️ Arbre des actes (interactif)
 
