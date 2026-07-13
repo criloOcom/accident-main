@@ -90,6 +90,6 @@ La faiblesse du capital social (200 €) de [**[L'Exploitant du Commerce (La SAS
 
 ## Sources Législation
 
-[^1]: [Article 314-7 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226)
-[^2]: [Article 313-1 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418192](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418192)
-[^3]: [Article L.654-1 du Code de commerce — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984472](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984472)
+[^1]: [Article 314-7 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226) ↩
+[^2]: [Article 313-1 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418192](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418192) ↩
+[^3]: [Article L.654-1 du Code de commerce — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984472](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984472) ↩

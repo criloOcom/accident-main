@@ -331,10 +331,10 @@ Ces pistes ont pour seul objet de faciliter l'appréhension globale de la situat
 
 ## Sources Législation
 
-[^1]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-[^2]: [Article 121-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
-[^3]: [Article 434-4 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608)
-[^4]: [Article L. 8221-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815)
-[^5]: [Article L. 8221-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044056622](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044056622)
-[^6]: [Article 15-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441)
-[^7]: [Article 441-7 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398925](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398925)
+[^1]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+[^2]: [Article 121-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) ↩
+[^3]: [Article 434-4 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) ↩
+[^4]: [Article L. 8221-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815) ↩
+[^5]: [Article L. 8221-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044056622](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044056622) ↩
+[^6]: [Article 15-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) ↩
+[^7]: [Article 441-7 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398925](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398925) ↩

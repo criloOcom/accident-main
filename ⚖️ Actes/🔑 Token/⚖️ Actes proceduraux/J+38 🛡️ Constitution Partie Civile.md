@@ -236,13 +236,13 @@ Fait a **[La Ville de Residence de la Victime]**, le [**[J+38 Constitution PC]**
 
 ## Sources Législation
 
-[^1]: [Article 222-19 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
-[^2]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-[^3]: [Article L. 227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
-[^4]: [Article L. 227-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177)
-[^5]: [Article L. 225-251 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
-[^6]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
-[^7]: [Article L. 111-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438)
-[^8]: [Article L. 217-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587)
-[^9]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^10]: [Article 475-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107)
+[^1]: [Article 222-19 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
+[^2]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+[^3]: [Article L. 227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) ↩
+[^4]: [Article L. 227-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177) ↩
+[^5]: [Article L. 225-251 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) ↩
+[^6]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
+[^7]: [Article L. 111-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438) ↩
+[^8]: [Article L. 217-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587) ↩
+[^9]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^10]: [Article 475-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) ↩

@@ -131,7 +131,7 @@ Le [Date de signature]
 
 ## Sources Législation
 
-[^1]: [Article L227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
-[^2]: [Article L.611-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052542](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052542)
-[^3]: [Article 873 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463)
-[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
+[^1]: [Article L227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) ↩
+[^2]: [Article L.611-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052542](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052542) ↩
+[^3]: [Article 873 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463) ↩
+[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩

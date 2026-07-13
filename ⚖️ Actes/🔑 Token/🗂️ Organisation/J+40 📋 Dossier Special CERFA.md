@@ -115,4 +115,4 @@ Si Sébastien souhaite solliciter l'aide de l'État pour couvrir les frais de ju
 
 ## Sources Législation
 
-[^1]: [Article 202 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330)
+[^1]: [Article 202 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330) ↩

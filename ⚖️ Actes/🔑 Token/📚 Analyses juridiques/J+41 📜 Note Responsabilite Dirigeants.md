@@ -77,7 +77,7 @@ La jurisprudence constante de la Cour de cassation (Assemblée plénière, arrê
 
 ## Sources Législation
 
-[^1]: [Article L.227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
-[^2]: [Article L.651-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025718687](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025718687)
-[^3]: [Article L.654-7 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984550](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984550)
-[^4]: [Pourvoi n°80-90923 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
+[^1]: [Article L.227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) ↩
+[^2]: [Article L.651-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025718687](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025718687) ↩
+[^3]: [Article L.654-7 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984550](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984550) ↩
+[^4]: [Pourvoi n°80-90923 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩

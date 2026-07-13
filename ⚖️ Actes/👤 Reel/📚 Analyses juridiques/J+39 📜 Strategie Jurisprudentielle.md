@@ -13,7 +13,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/J+39 📜 Strategie Jurispru
 source: local
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses juridiques](./README.md) › J+39 📜 Strategie Jurisprudentielle*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+39 📜 Strategie Jurisprudentielle*
 <hr>
 <!-- /Breadcrumb -->
 

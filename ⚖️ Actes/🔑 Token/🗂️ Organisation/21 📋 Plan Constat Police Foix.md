@@ -78,4 +78,4 @@ Restant à votre entière disposition,
 
 ## Sources Législation
 
-[^1]: [art. L. 2212-2 du CGCT — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370)
+[^1]: [art. L. 2212-2 du CGCT — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370) ↩

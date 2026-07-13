@@ -14,7 +14,7 @@ auteur: Avocat de la défense
 reel_path: ../../👤 Reel/📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses juridiques](./README.md) › 99 🛡️ Memoire en defense adverse*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 99 🛡️ Memoire en defense adverse*
 <hr>
 <!-- /Breadcrumb -->
 

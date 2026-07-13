@@ -92,4 +92,4 @@ Avocat au Barreau
 
 ## Sources Législation
 
-[^1]: [Art. R.123-128 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214)
+[^1]: [Art. R.123-128 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214) ↩

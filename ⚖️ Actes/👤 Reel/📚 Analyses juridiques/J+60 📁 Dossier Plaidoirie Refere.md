@@ -15,7 +15,7 @@ auteur: La Victime
 reel_path: ../../👤 Reel/📚 Analyses juridiques/12 📁 Dossier Plaidoirie.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses juridiques](./README.md) › J+60 📁 Dossier Plaidoirie Refere*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+60 📁 Dossier Plaidoirie Refere*
 <hr>
 <!-- /Breadcrumb -->
 

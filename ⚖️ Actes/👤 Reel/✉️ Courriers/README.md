@@ -1,8 +1,3 @@
-<!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › ✉️ Courriers*
-<hr>
-<!-- /Breadcrumb -->
-
 # Index — ✉️ Courriers (Versions Réelles)
 
 - [J+31 ✉️ Mise en demeure Assureur.md](J+31 ✉️ Mise en demeure Assureur.md)

@@ -16,7 +16,7 @@ auteur: L'Avocat de la Victime
 reel_path: ../../👤 Reel/📚 Analyses juridiques/16 📜 Note Responsabilite Dirigeants Dissolution.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses juridiques](./README.md) › J+41 📜 Note Responsabilite Dirigeants*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+41 📜 Note Responsabilite Dirigeants*
 <hr>
 <!-- /Breadcrumb -->
 

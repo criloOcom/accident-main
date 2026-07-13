@@ -104,13 +104,13 @@ Il est impératif d'agir de manière proactive, avant même l'introduction de la
 
 ## Sources Législation
 
-[^1]: [article 1358 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/)
-[^2]: [Article 1358 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042316](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042316)
-[^3]: [article 1369 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042421/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042421/)
-[^4]: [Article 1369 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042446](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042446)
-[^5]: [article 1378 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042398/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042398/)
-[^6]: [Article 1378 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042401](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042401)
-[^7]: [article 1362 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042445/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042445/)
-[^8]: [article 1353 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042472/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042472/)
-[^9]: [Article 1353 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341)
-[^10]: [Arrêt n°19-25.198 — www.legifrance.gouv.fr/juri/id/JURITEXT000043302280](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043302280)
+[^1]: [article 1358 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/) ↩
+[^2]: [Article 1358 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042316](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042316) ↩
+[^3]: [article 1369 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042421/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042421/) ↩
+[^4]: [Article 1369 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042446](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042446) ↩
+[^5]: [article 1378 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042398/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042398/) ↩
+[^6]: [Article 1378 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042401](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042401) ↩
+[^7]: [article 1362 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042445/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042445/) ↩
+[^8]: [article 1353 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042472/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042472/) ↩
+[^9]: [Article 1353 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341) ↩
+[^10]: [Arrêt n°19-25.198 — www.legifrance.gouv.fr/juri/id/JURITEXT000043302280](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043302280) ↩

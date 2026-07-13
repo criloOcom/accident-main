@@ -225,15 +225,15 @@ La difficulté centrale est le **recouvrement** : capital social de 200 € seul
 
 ## Sources Législation
 
-[^1]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-[^2]: [Article L. 421-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053)
-[^3]: [Article 121-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209)
-[^4]: [Article 1242 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
-[^5]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-[^6]: [Arrêt SATI — n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
-[^7]: [Arrêt Costedoat — www.legifrance.gouv.fr/juri/id/JURITEXT000007043704](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)
-[^8]: [Arrêt Cousin — www.legifrance.gouv.fr/juri/id/JURITEXT000007071351](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351)
-[^9]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^10]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
-[^11]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)
-[^12]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000045822770](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770)
+[^1]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+[^2]: [Article L. 421-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) ↩
+[^3]: [Article 121-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209) ↩
+[^4]: [Article 1242 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
+[^5]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+[^6]: [Arrêt SATI — n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
+[^7]: [Arrêt Costedoat — www.legifrance.gouv.fr/juri/id/JURITEXT000007043704](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704) ↩
+[^8]: [Arrêt Cousin — www.legifrance.gouv.fr/juri/id/JURITEXT000007071351](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351) ↩
+[^9]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^10]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+[^11]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) ↩
+[^12]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000045822770](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770) ↩

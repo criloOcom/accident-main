@@ -576,25 +576,25 @@ La provision de **[Finance Provision Référé]** est justifiée par :
 
 ## Sources Législation
 
-[^1]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-[^2]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000021271786](https://www.legifrance.gouv.fr/juri/id/JURITEXT000021271786)
-[^3]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000039122827](https://www.legifrance.gouv.fr/juri/id/JURITEXT000039122827)
-[^4]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000053859671](https://www.legifrance.gouv.fr/juri/id/JURITEXT000053859671)
-[^5]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000043489943](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
-[^6]: [Arrêt — www.legifrance.gouv.fr/ceta/id/CETATEXT000049375170](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000049375170)
-[^7]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000007047223](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047223)
-[^8]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000036780068](https://www.legifrance.gouv.fr/juri/id/JURITEXT000036780068)
-[^9]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000049857400](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049857400)
-[^10]: [Article 700 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
-[^11]: [Article L.124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^12]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000045822770](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770)
-[^13]: [Article L.113-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006791984](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006791984)
-[^14]: [art. 145 CPC — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
-[^15]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
-[^16]: [Article L.654-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984472](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984472)
-[^17]: [Article 706-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
-[^18]: [Article 222-19 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
-[^19]: [art. L.622-24 C. com. — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281573](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281573)
-[^20]: [Arrêt n°22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
-[^21]: [Arrêt n°20-15.106 — www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
-[^22]: [Arrêt n°20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
+[^1]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+[^2]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000021271786](https://www.legifrance.gouv.fr/juri/id/JURITEXT000021271786) ↩
+[^3]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000039122827](https://www.legifrance.gouv.fr/juri/id/JURITEXT000039122827) ↩
+[^4]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000053859671](https://www.legifrance.gouv.fr/juri/id/JURITEXT000053859671) ↩
+[^5]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000043489943](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) ↩
+[^6]: [Arrêt — www.legifrance.gouv.fr/ceta/id/CETATEXT000049375170](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000049375170) ↩
+[^7]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000007047223](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047223) ↩
+[^8]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000036780068](https://www.legifrance.gouv.fr/juri/id/JURITEXT000036780068) ↩
+[^9]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000049857400](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049857400) ↩
+[^10]: [Article 700 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
+[^11]: [Article L.124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^12]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000045822770](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770) ↩
+[^13]: [Article L.113-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006791984](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006791984) ↩
+[^14]: [art. 145 CPC — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+[^15]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
+[^16]: [Article L.654-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984472](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984472) ↩
+[^17]: [Article 706-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) ↩
+[^18]: [Article 222-19 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
+[^19]: [art. L.622-24 C. com. — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281573](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281573) ↩
+[^20]: [Arrêt n°22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ↩
+[^21]: [Arrêt n°20-15.106 — www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) ↩
+[^22]: [Arrêt n°20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) ↩

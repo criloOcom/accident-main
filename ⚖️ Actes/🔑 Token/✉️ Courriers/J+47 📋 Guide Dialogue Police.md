@@ -316,8 +316,8 @@ reel_path: ../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.m
 
 ## Sources Législation
 
-[^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^2]: [Article 86 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062)
-[^3]: [Article 53 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016)
-[^4]: [Article 15-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441)
-[^5]: [Article 434-15 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641)
+[^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^2]: [Article 86 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062) ↩
+[^3]: [Article 53 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016) ↩
+[^4]: [Article 15-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) ↩
+[^5]: [Article 434-15 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641) ↩

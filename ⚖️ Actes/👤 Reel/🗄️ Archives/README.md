@@ -1,8 +1,3 @@
-<!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › 🗄️ Archives*
-<hr>
-<!-- /Breadcrumb -->
-
 # Index — 🗄️ Archives (Versions Réelles)
 
 - [11 Fiche Reflexe 48h Victime.md](11 Fiche Reflexe 48h Victime.md)

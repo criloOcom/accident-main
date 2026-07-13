@@ -212,8 +212,8 @@ Voir les mémoires complets :
 
 ## Sources Législation
 
-[^1]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-[^2]: [Arrêt n°89-18.422 — www.legifrance.gouv.fr/juri/id/JURITEXT000007026411](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007026411)
-[^3]: [Arrêt n°74-10.466 — www.legifrance.gouv.fr/juri/id/JURITEXT000006993485](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485)
-[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
-[^5]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+[^1]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+[^2]: [Arrêt n°89-18.422 — www.legifrance.gouv.fr/juri/id/JURITEXT000007026411](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007026411) ↩
+[^3]: [Arrêt n°74-10.466 — www.legifrance.gouv.fr/juri/id/JURITEXT000006993485](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485) ↩
+[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
+[^5]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩

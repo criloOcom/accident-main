@@ -69,4 +69,4 @@ La présente fiche réflexe impose un séquencement strict : **Constat → Véri
 
 ## Sources Législation
 
-[^1]: [Article 40 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)
+[^1]: [Article 40 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) ↩

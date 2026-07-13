@@ -188,16 +188,16 @@ Pièces administratives :
 
 ## Sources Législation
 
-[^1]: [Fonds de Garantie (FGTI) — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)
-[^2]: [l'Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-[^3]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^4]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
-[^5]: [Article L. 211-26 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795644](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795644)
-[^6]: [Article 223-1 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253)
-[^7]: [Article 223-1 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637)
-[^8]: [Article L. 225-251 du Code de commerce — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928)
-[^9]: [Article L225-251 du Code de commerce — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
-[^10]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
-[^11]: [articles 706-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)
-[^12]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)
-[^13]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334)
+[^1]: [Fonds de Garantie (FGTI) — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) ↩
+[^2]: [l'Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+[^3]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^4]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) ↩
+[^5]: [Article L. 211-26 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795644](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795644) ↩
+[^6]: [Article 223-1 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253) ↩
+[^7]: [Article 223-1 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637) ↩
+[^8]: [Article L. 225-251 du Code de commerce — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928) ↩
+[^9]: [Article L225-251 du Code de commerce — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) ↩
+[^10]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
+[^11]: [articles 706-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625) ↩
+[^12]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627) ↩
+[^13]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334) ↩

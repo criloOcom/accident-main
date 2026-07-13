@@ -176,11 +176,11 @@ Les chances d'aboutissement de la présente procédure d'information sont jugée
 
 ## Sources Législation
 
-[^1]: [Article 222-19 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
-[^2]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-[^3]: [Article 223-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417759](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417759)
-[^4]: [Article 121-2 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204)
-[^5]: [Article 121-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
-[^6]: [Article 8 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911)
-[^7]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^8]: [Article 131-27 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887)
+[^1]: [Article 222-19 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
+[^2]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+[^3]: [Article 223-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417759](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417759) ↩
+[^4]: [Article 121-2 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204) ↩
+[^5]: [Article 121-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) ↩
+[^6]: [Article 8 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911) ↩
+[^7]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^8]: [Article 131-27 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887) ↩

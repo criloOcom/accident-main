@@ -206,17 +206,17 @@ Pièces de procédure :
 
 ## Sources Législation
 
-[^1]: [Article 1242 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
-[^2]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^3]: [Arrêt n°20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
-[^4]: [Article 1844-8 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186)
-[^5]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-[^6]: [référé-provision — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
-[^7]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
-[^8]: [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI) — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)
-[^9]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
-[^10]: [Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-[^11]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)
-[^12]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334)
-[^13]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
-[^14]: [Arrêt n°19-23.173 — www.legifrance.gouv.fr/juri/id/JURITEXT000043489943](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
+[^1]: [Article 1242 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
+[^2]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^3]: [Arrêt n°20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) ↩
+[^4]: [Article 1844-8 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186) ↩
+[^5]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+[^6]: [référé-provision — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) ↩
+[^7]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+[^8]: [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI) — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) ↩
+[^9]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) ↩
+[^10]: [Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+[^11]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627) ↩
+[^12]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334) ↩
+[^13]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
+[^14]: [Arrêt n°19-23.173 — www.legifrance.gouv.fr/juri/id/JURITEXT000043489943](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) ↩

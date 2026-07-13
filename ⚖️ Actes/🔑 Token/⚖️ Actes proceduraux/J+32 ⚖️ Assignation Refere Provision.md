@@ -354,23 +354,23 @@ Pour [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20J
 
 ## Sources Législation
 
-[^1]: [Article 835 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
-[^2]: [Consulter sur Judilibre — www.legifrance.gouv.fr/juri/id/607940be9ba5988459c3dbd0](https://www.legifrance.gouv.fr/juri/id/607940be9ba5988459c3dbd0)
-[^3]: [Consulter sur Judilibre — www.legifrance.gouv.fr/juri/id/60794c949ba5988459c4612e](https://www.legifrance.gouv.fr/juri/id/60794c949ba5988459c4612e)
-[^4]: [Consulter sur Judilibre — www.legifrance.gouv.fr/juri/id/607975719ba5988459c49ee3](https://www.legifrance.gouv.fr/juri/id/607975719ba5988459c49ee3)
-[^5]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-[^6]: [Article 1242 alinéa 5 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
-[^7]: [Article L. 227-8 du Code de commerce — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
-[^8]: [Article L. 227-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177)
-[^9]: [Article L. 225-251 du Code de commerce — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
-[^10]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
-[^11]: [Arrêt n°20-20.404 — www.legifrance.gouv.fr/juri/id/JURITEXT000046282365](https://www.legifrance.gouv.fr/juri/id/JURITEXT000046282365)
-[^12]: [Article L.111-1 du Code de la consommation — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438)
-[^13]: [Article L.217-1 du Code de la consommation — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587)
-[^14]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
-[^15]: [Arrêt n°11-14.339 — www.legifrance.gouv.fr/juri/id/JURITEXT000026432928](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026432928)
-[^16]: [Arrêt n°90-14.261 — www.legifrance.gouv.fr/juri/id/JURITEXT000007028156](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007028156)
-[^17]: [Arrêt n°15-15.306 — www.legifrance.gouv.fr/juri/id/JURITEXT000032312857](https://www.legifrance.gouv.fr/juri/id/JURITEXT000032312857)
-[^18]: [Arrêt n°96-16.128 — www.legifrance.gouv.fr/juri/id/JURITEXT000007037753](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007037753)
-[^19]: [Article L.124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^20]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
+[^1]: [Article 835 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) ↩
+[^2]: [Consulter sur Judilibre — www.legifrance.gouv.fr/juri/id/607940be9ba5988459c3dbd0](https://www.legifrance.gouv.fr/juri/id/607940be9ba5988459c3dbd0) ↩
+[^3]: [Consulter sur Judilibre — www.legifrance.gouv.fr/juri/id/60794c949ba5988459c4612e](https://www.legifrance.gouv.fr/juri/id/60794c949ba5988459c4612e) ↩
+[^4]: [Consulter sur Judilibre — www.legifrance.gouv.fr/juri/id/607975719ba5988459c49ee3](https://www.legifrance.gouv.fr/juri/id/607975719ba5988459c49ee3) ↩
+[^5]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+[^6]: [Article 1242 alinéa 5 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
+[^7]: [Article L. 227-8 du Code de commerce — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) ↩
+[^8]: [Article L. 227-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177) ↩
+[^9]: [Article L. 225-251 du Code de commerce — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) ↩
+[^10]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
+[^11]: [Arrêt n°20-20.404 — www.legifrance.gouv.fr/juri/id/JURITEXT000046282365](https://www.legifrance.gouv.fr/juri/id/JURITEXT000046282365) ↩
+[^12]: [Article L.111-1 du Code de la consommation — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438) ↩
+[^13]: [Article L.217-1 du Code de la consommation — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587) ↩
+[^14]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+[^15]: [Arrêt n°11-14.339 — www.legifrance.gouv.fr/juri/id/JURITEXT000026432928](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026432928) ↩
+[^16]: [Arrêt n°90-14.261 — www.legifrance.gouv.fr/juri/id/JURITEXT000007028156](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007028156) ↩
+[^17]: [Arrêt n°15-15.306 — www.legifrance.gouv.fr/juri/id/JURITEXT000032312857](https://www.legifrance.gouv.fr/juri/id/JURITEXT000032312857) ↩
+[^18]: [Arrêt n°96-16.128 — www.legifrance.gouv.fr/juri/id/JURITEXT000007037753](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007037753) ↩
+[^19]: [Article L.124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^20]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩

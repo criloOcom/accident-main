@@ -158,6 +158,7 @@ def main():
                 content = content.replace(token, real_val)
             content = content.replace("**[Adresse à compléter]**", "[À compléter]")
             content = content.replace("**[À compléter]**", "[À compléter]")
+            content = content.replace(" ↩", "")
 
             outpath = os.path.join(output_dir, filename)
             with open(outpath, 'w', encoding='utf-8') as f:

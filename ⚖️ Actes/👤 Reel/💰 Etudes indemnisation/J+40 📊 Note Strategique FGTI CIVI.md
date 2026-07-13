@@ -15,7 +15,7 @@ auteur: Expert FGTI/CIVI
 reel_path: ../../👤 Reel/💰 Etudes indemnisation/13 Note strategique FGTI CIVI.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [💰 Etudes indemnisation](./README.md) › J+40 📊 Note Strategique FGTI CIVI*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [💰 Études d'Indemnisation](./README.md) › J+40 📊 Note Strategique FGTI CIVI*
 <hr>
 <!-- /Breadcrumb -->
 

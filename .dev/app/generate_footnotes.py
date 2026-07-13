@@ -58,7 +58,19 @@ def process_file(filepath):
                 url_map[url] = [text, fn_counter]
             positions.append((i, end, url))
 
+    # If no new URLs — just ensure ↩ on existing footnote defs and exit
     if not positions:
+        modified = False
+        for i, line in enumerate(lines):
+            if is_footnote_def(line) and not line.rstrip("\n").endswith("↩"):
+                lines[i] = line.rstrip("\n") + " ↩\n"
+                modified = True
+        if modified:
+            with open(filepath, "w", encoding="utf-8") as f:
+                f.writelines(lines)
+            rel = filepath.relative_to(TOKEN_DIR.parent.parent)
+            print(f"  ↩ added  {rel}")
+            return True
         return False
 
     # Pass 2: insert markers (reversed to preserve indices)
@@ -73,7 +85,7 @@ def process_file(filepath):
     for url, (text, fn_num) in sorted(url_map.items(), key=lambda x: x[1][1]):
         short = url.replace("https://", "").replace("http://", "")
         link_text = f"{text} — {short}"
-        entries.append(f"[^{fn_num}]: [{link_text}]({url})")
+        entries.append(f"[^{fn_num}]: [{link_text}]({url}) ↩")
 
     new_section = ["\n", f"{SECTION_NEW}\n", "\n"]
     for e in entries:
@@ -95,7 +107,6 @@ def process_file(filepath):
             break
 
     if not found:
-        # Trim trailing blank lines, then append
         while lines and lines[-1].strip() == "":
             lines.pop()
         if lines and not lines[-1].endswith("\n"):

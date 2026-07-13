@@ -197,6 +197,6 @@ source: drive
 
 ## Sources Législation
 
-[^1]: [Arrêt n° 91-11.285 — www.legifrance.gouv.fr/juri/id/JURITEXT000007030228](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007030228)
-[^2]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
-[^3]: [Arrêt n°22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
+[^1]: [Arrêt n° 91-11.285 — www.legifrance.gouv.fr/juri/id/JURITEXT000007030228](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007030228) ↩
+[^2]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
+[^3]: [Arrêt n°22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ↩

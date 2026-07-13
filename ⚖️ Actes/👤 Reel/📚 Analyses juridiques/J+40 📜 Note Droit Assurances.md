@@ -15,7 +15,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/15 Note Droit Assurances.md
 source: local
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Réel](../README.md) › [📚 Analyses juridiques](./README.md) › J+40 📜 Note Droit Assurances*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+40 📜 Note Droit Assurances*
 <hr>
 <!-- /Breadcrumb -->
 

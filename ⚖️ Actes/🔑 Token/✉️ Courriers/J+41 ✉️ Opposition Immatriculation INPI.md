@@ -98,5 +98,5 @@ Avocat au Barreau
 
 ## Sources Législation
 
-[^1]: [Article L.123-5-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291)
-[^2]: [Article L.123-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422)
+[^1]: [Article L.123-5-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291) ↩
+[^2]: [Article L.123-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422) ↩
