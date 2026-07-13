@@ -186,6 +186,10 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 
 - d'**enjoindre à la société défenderesse et à ses dirigeants** de communiquer dans un délai de quinze jours le contrat d'assurance responsabilité civile professionnelle souscrit, à défaut de quoi le juge pourrait ordonner leur assignation directe.
 
+**[Ville]**, le **[date]**
+
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+
 ---
 
 ## PIECES JOINTES
@@ -204,9 +208,13 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 
 ---
 
-**[Ville]**, le **[date]**
+## Sources Législation
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
+[^1]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
+[^2]: [Arrêt n°89-18.422 — www.legifrance.gouv.fr/juri/id/JURITEXT000007026411](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007026411)
+[^3]: [Arrêt n°74-10.466 — www.legifrance.gouv.fr/juri/id/JURITEXT000006993485](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485)
+[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
+[^5]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
 ---
 
@@ -214,7 +222,7 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 Cette version a été rédigée à partir du mémoire juridique produit par l'assistant Glose (juillet 2026). Elle diffère de la version antérieure du 31 juillet 2026 sur les points suivants :
 
 | Point | Version antérieure | Version Glose | Version finale |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | Provision | 5 000 € | 8 000 € | **15 000 €** (PGPA 1 380 + frais méd. 5 000 + SE 5 000 + IP 1 620 + art. 700 3 000) |
 | Astreinte | (non spécifiée) | 100 €/jour | 100 €/jour |
 | Art. 145 CPC | Expertise médicale | Expertise médicale + comm. assurance | Expertise médicale + comm. assurance |
