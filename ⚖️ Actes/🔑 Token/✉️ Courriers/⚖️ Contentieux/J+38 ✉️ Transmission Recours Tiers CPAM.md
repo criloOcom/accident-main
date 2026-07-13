@@ -58,7 +58,7 @@ Mon ITT a ete evaluee a 56 jours (du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%
 ## II — PROCEDURES JUDICIAIRES ENGAGEES
 A ce jour, les procedures suivantes ont ete engagees :
 
-1. **Phase amiable** (29 juin 2026) : Mises en demeure LRAR adressees a la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et a ses dirigeants, restees sans reponse a ce jour.
+1. **Phase amiable** (29 mai 2026) : Mises en demeure LRAR adressees a la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et a ses dirigeants, restees sans reponse a ce jour.
 
 2. **Assignation en refere-provision** (30 juin 2026) : Saisine du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md) sur le fondement de l'Article 835 du Code de procedure civile, a l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et de ses dirigeants, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]**, in solidum.
 

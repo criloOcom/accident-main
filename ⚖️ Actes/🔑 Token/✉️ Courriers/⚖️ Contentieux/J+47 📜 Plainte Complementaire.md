@@ -95,7 +95,7 @@ Il appartiendra à l'enquête et, le cas échéant, à la juridiction saisie, de
 **Faits caractérisés :**
 
 1. **Refus de communiquer l'attestation d'assurance RC**
-   - En date du 29 juin 2026, j'ai adressé par LRAR une mise en demeure aux dirigeants de la SAS pour obtenir les coordonnées de leur assureur RC.
+   - En date du 29 mai 2026, j'ai adressé par LRAR une mise en demeure aux dirigeants de la SAS pour obtenir les coordonnées de leur assureur RC.
    - Ces courriers m'ont été retournés avec la mention "défaut d'adresse / distribution impossible", alors que la société est toujours officiellement immatriculée à cette adresse (vérification RNE/INPI du 10 juillet 2026).
    - Ce refus de communiquer une information essentielle à l'indemnisation me semble susceptible de constituer une **dissimulation d'un document de nature à faciliter la recherche des preuves**.
 
@@ -169,7 +169,7 @@ Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière
 
 2. **Copie de la requête Article 145 CPC** déposée le 15 juillet 2026 devant le TJ de Foix (identification assureur RC + conservation vidéos)
 
-3. **Accusés de réception des LRAR retournés NPAI** (29 juin 2026)
+3. **Accusés de réception des LRAR retournés NPAI** (29 mai 2026)
 
 4. **[Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]**](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** (SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-siren-de-l-exploitation.md))
 

@@ -85,7 +85,7 @@ Les procedures suivantes ont ete engagees a la date de la requete :
 
 1. Depot de plainte (1er juin 2026, PV n° 2026/015967)
 2. Constitution de partie civile (6 juillet 2026) — chef de blessures involontaires (Art. 222-19 CP)
-3. Mises en demeure LRAR (29 juin 2026) — sans aucun retour des dirigeants
+3. Mises en demeure LRAR (29 mai 2026) — sans aucun retour des dirigeants
 4. Assignation en refere-provision (Art. 835 CPC) et assignation Art. 145 CPC pour communication d'assurance
 5. Signalements a l'Inspection du Travail, au CODAF, a l'INPI, au SIE et a l'URSSAF
 
