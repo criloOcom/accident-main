@@ -50,6 +50,8 @@ Dans ce contexte, je tenais à porter ces éléments à votre connaissance, pour
 Le dossier complet de ma procédure reste à la disposition de vos services. Bien entendu, si ces éléments appelaient une suite de votre part, je reste à la disposition de vos services.
 
 Je vous remercie par avance de l'attention que vous voudrez bien porter à ces éléments.
+<hr><hr>
+
 ## PIECES JOINTES
 
 - **[Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** — Procedure penale transmise au TJ de [La Ville de l'Accident]

@@ -90,7 +90,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération dist
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
 <hr><hr>
 
-## VI — Pièces jointes
+## PIECES JOINTES
 
 - Copie du courrier n°41 adressé à la Préfecture de l'Ariège
 - Copie du courrier n°42 adressé à la DDETS — Inspection du travail

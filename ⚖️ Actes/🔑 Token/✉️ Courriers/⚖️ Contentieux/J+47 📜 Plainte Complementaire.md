@@ -158,7 +158,7 @@ Au vu des éléments ci-dessus exposés, je sollicite respectueusement qu'il soi
 Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière de conformité ERP et d'analyse financière de la société) peuvent être trouvées en **Annexe 3 : Pistes d'enquête complémentaires**, sans préjudice de votre appréciation souveraine sur les investigations utiles.
 <hr><hr>
 
-## IV — PIÈCES JOINTES
+## PIECES JOINTES
 
 1. **Copie du PV initial n°2026/015967** (établi le 2 juin 2026 par le Commissariat de Toulouse)
 

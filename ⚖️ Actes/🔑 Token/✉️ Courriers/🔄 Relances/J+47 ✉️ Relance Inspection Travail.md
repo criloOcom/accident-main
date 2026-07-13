@@ -56,7 +56,10 @@ Je vous remercie par avance de l'attention portée à la présente et reste à v
 Veuillez agréer, Madame, Monsieur, l'expression de ma considération distinguée.
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
-### Pièces jointes suggérées
+## PIECES JOINTES
+
 - Copie du courriel de M. Tavella (1er juin 2026)
 - PV initial n°2026/015967
 - [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) / certificat médical
+
+<hr><hr>
