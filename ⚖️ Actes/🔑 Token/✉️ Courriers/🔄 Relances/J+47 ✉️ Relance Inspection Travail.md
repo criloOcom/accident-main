@@ -58,10 +58,10 @@ Veuillez agréer, Madame, Monsieur, l'expression de ma considération distingué
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md)
 ## PIECES JOINTES
 
-- Copie du courriel de M. Tavella (1er juin 2026)
+- **Copie du courriel de M. Tavella (1er juin 2026)**
 
-- PV initial n°2026/015967
+- **PV initial n°2026/015967**
 
-- [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) / certificat médical
+- **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** / certificat médical
 
 <hr><hr>
