@@ -20,7 +20,7 @@ reel_path: ../../👤 Reel/✉️ Courriers/31 ✉️ Courrier INPI Opposition.m
 <hr>
 <!-- /Breadcrumb -->
 
-# OPPOSITION À IMMATRICULATION AU REGISTRE NATIONAL DES ENTREPRISES
+# OPPOSITION À IMMATRICULATION <br> AU REGISTRE NATIONAL DES ENTREPRISES
 [**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
 
 **À L'ATTENTION DU GREFFIER DU Tribunal de Commerce de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md)**
