@@ -166,3 +166,4 @@ Ces tokens sont utilisés dans les assignations et courriers. Leurs valeurs sont
 | `[Finance Frais Divers]` | FRAIS_DIVERS_COMPROMIS | 3 000 € |
 | `[Finance Facture Chirurgie]` | FACTURE_CHIRURGIE | 790,23 € |
 | `[Finance Prestation Salon]` | PREUVE_BANCAIRE (Wero) | 15,00 € |
+| `[Finance Evaluation Initiale]` | MONTANT_EVALUATION_INITIALE | 59 600 € |

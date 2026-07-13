@@ -60,7 +60,7 @@ La présente lettre de mise en demeure est adressée par [**[La Victime]**](../.
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 
-Par ce courrier, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) met en demeure l'assureur de prendre en charge le sinistre corporel survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) dans les locaux de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) et de procéder au règlement des préjudices subis, dont le montant total estimé s'élève à **59 600 €** selon l'étude d'indemnisation établie conformément à la Nomenclature Dintilhac.
+Par ce courrier, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) met en demeure l'assureur de prendre en charge le sinistre corporel survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) dans les locaux de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) et de procéder au règlement des préjudices subis, dont le montant total estimé s'élève à **[Finance Evaluation Initiale]** selon l'étude d'indemnisation établie conformément à la Nomenclature Dintilhac.
 
 Cette action directe permet à la victime de saisir directement l'assureur sans passer par l'intermédiaire de la société responsable, conformément aux dispositions du Code des assurances.
 
@@ -112,7 +112,7 @@ Je vous mets en demeure par la présente :
 
 3. De procéder au versement d'une provision financière de première urgence d'un montant de **15 000 €** sous un délai de 15 jours à compter de la réception du présent pli, afin de compenser les premières pertes d'exploitation me concernant, travailleur indépendant ([**[L'Identifiant Professionnel de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-identifiant-professionnel-de-la-victime.md)) actuellement dans l'incapacité d'utiliser sa main droite pour exercer son activité professionnelle d'informaticien.
 
-L'évaluation globale de mon préjudice corporel, détaillée dans l'étude d'indemnisation, s'établit à **59 600 €** selon les postes de préjudice suivants :
+L'évaluation globale de mon préjudice corporel, détaillée dans l'étude d'indemnisation, s'établit à **[Finance Evaluation Initiale]** selon les postes de préjudice suivants :
 
 - Pertes de gains professionnels actuels (PGPA) : **1 400 €**
 - Incidence professionnelle (IP) : **30 000 €**

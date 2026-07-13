@@ -56,7 +56,7 @@ La presente est adressee a vos services par [Sébastien GRAZIDE](../../../%F0%9F
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, et a entraine des lesions graves de la main droite (plaie palmaire avec section du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant) ayant necessite une microchirurgie d'urgence.
 
-Je porte par la presente a votre connaissance l'existence d'un litige en cours engageant la responsabilite civile et penale de la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) et de ses dirigeants, pour des montants estimes a **59 600 €** au titre de la reparation integrale de mes prejudices corporels, sans prejudice des procedures en cours devant les juridictions civiles et penales.
+Je porte par la presente a votre connaissance l'existence d'un litige en cours engageant la responsabilite civile et penale de la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) et de ses dirigeants, pour des montants estimes a **[Finance Evaluation Initiale]** au titre de la reparation integrale de mes prejudices corporels, sans prejudice des procedures en cours devant les juridictions civiles et penales.
 
 Les procedures suivantes ont ete engagees :
 
