@@ -10,7 +10,7 @@ type: memory
 
 # ⚠ DÉPRÉCIÉ<br>VARIABLES FINANCIÈRES
 
-**Ce fichier est déprécié.** La Source Unique de Vérité est désormais `STRICT VARIABLES.md`, qui contient une section "Correspondance tokens financiers alternatifs `[Finance ...]`" reprenant l'intégralité de ce contenu.
+**Ce fichier est déprécié.** La Source Unique de Vérité est désormais [`STRICT VARIABLES.md`](STRICT%20VARIABLES.md), qui contient une section "Correspondance tokens financiers alternatifs `[Finance ...]`" reprenant l'intégralité de ce contenu.
 
 Conserver pour archive uniquement — ne plus utiliser.
 

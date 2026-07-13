@@ -28,8 +28,8 @@ type: memory
 - **Courriers créés** : n°41 (Préfecture/CODAF) + n°42 (Inspection du travail) — **validés par avocat**
 - **Courriers CADA créés** : n°43 (version longue) + n°44 (version courte formulaire)
 - **Mémo stratégique 21** : mis à jour avec validation avocat en en-tête
-- **Fiche suivi LRAR créée** : `🧠 Memory/📋 Fiche Suivi Démarches Administratives.md` — suivi dates envoi, AR, réponses, échéances CADA
-- **Mini calendrier créé** : `🧠 Memory/📆 Mini Calendrier Procedure.md` — vue synthétique jalons passés/à venir pour avocat AJ
+- **Fiche suivi LRAR créée** : [`📋 Fiche Suivi Démarches Administratives.md`](%F0%9F%93%8B%20Fiche%20Suivi%20D%C3%A9marches%20Administratives.md) — suivi dates envoi, AR, réponses, échéances CADA
+- **Mini calendrier créé** : [`📆 Mini Calendrier Procedure.md`](%F0%9F%93%86%20Mini%20Calendrier%20Procedure.md) — vue synthétique jalons passés/à venir pour avocat AJ
 - **Opération 15 juillet** : requête 145 CPC déposée + AJ totale déposée + plainte complémentaire déposée
 - **Versions Reel générées** : 41, 42, 43, 44 — prêtes à imprimer/signer
 
@@ -183,8 +183,8 @@ PHASE 5 — INSTANCE AU FOND (2027)
 
 ### PLAN A — CORRECTION L.211-26 C. ASSURANCES ✅ TERMINÉ
 
-- L.211-26 supprimé de `STRATEGIE Contentieux Penal.md` (§2.2, §3.3),
-  `PLAINTE Complement Defaut Assurance RC.md`, scripts Python.
+- L.211-26 supprimé de [`STRATEGIE Contentieux Penal.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md) (§2.2, §3.3),
+  [`PLAINTE Complement Defaut Assurance RC.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B32%20%F0%9F%9A%94%20Plainte%20Defaut%20Assurance%20RC.md), scripts Python.
 - Remplacement par signalement de fait + Art. 706-3 CPP + Art. L.124-3 C. assur.
 - Règle absolue instaurée : vérification Légifrance avant toute citation.
 
@@ -201,8 +201,8 @@ PHASE 5 — INSTANCE AU FOND (2027)
 
 ### PLAN C — CIVI / FGTI ✅ TERMINÉ
 
-- `STRATEGIE Contentieux Civil.md` : nouveau §3.3 « Voie CIVI / FGTI (subsidiaire) »
-- `STRATEGIE Contentieux Penal.md` : §3.5 « Indemnisation par le FGTI / CIVI »
+- [`STRATEGIE Contentieux Civil.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Civil.md) : nouveau §3.3 « Voie CIVI / FGTI (subsidiaire) »
+- [`STRATEGIE Contentieux Penal.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md) : §3.5 « Indemnisation par le FGTI / CIVI »
 
 ---
 
@@ -250,7 +250,7 @@ PHASE 5 — INSTANCE AU FOND (2027)
 
 ### PHASE 7B — BORDEREAU + JUSTIFICATION PROVISION + EMAILS TÉMOINS ✅ TERMINÉ
 
-- `04_Bordereau_Audience.md` créé (25 pièces séquentielles)
+- [`04_Bordereau_Audience.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%93%91%20Bordereau%20Audience.md) créé (25 pièces séquentielles)
 - Assignation 01 enrichie §D (justification provision 5 000 €)
 - Emails 25-28 créés (relance DJERBI + 3 attestations témoins)
 - Versions réelles générées, push effectué

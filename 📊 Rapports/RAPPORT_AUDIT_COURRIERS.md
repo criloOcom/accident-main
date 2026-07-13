@@ -265,14 +265,14 @@ Tous les fichiers token (03 à 35) ont leur équivalent réel dans [⚖️ Actes
 ### 5. Incohérence de format `[Token]` vs `**[Token]**`
 Observé dans : 12, 15, 20, 22, 25, 26, 27, 28, 30, 31, 33, 34 (plus de 12 fichiers)
 
-### 6. Fautes dans YAML `personnes` — fichier 32
+### 6. Fautes dans YAML `personnes` — [fichier 32](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md)
 - `La Président de l'Exploitation` (faute d'accord)
 - `Le Directrice Generale de l'Exploitation` (faute d'accord)
 
 ### 7. 5 fichiers en `statut: projet` ou `brouillon` avec `source: local`
 - 06 V2 (projet), 25 (brouillon), 26 (brouillon), 27 (brouillon), 28 (brouillon), 32 (projet), 33 (projet), 34 (brouillon)
 
-### 8. Adresse email réelle dans strate token — fichier 34
+### 8. Adresse email réelle dans strate token — [fichier 34](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md)
 
 ---
 

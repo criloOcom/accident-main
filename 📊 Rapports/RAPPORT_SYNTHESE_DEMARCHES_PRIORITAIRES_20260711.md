@@ -317,7 +317,7 @@ Tous les modèles sont disponibles dans :
 3. **Imprimer et signer** le document
 4. **Préparer les pièces jointes** (selon checklist)
 5. **Envoyer par LRAR** et noter le numéro de suivi
-6. **Mettre à jour** le tableau de suivi (fichier 23)
+6. **Mettre à jour** le tableau de suivi ([fichier 23](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md))
 
 ---
 

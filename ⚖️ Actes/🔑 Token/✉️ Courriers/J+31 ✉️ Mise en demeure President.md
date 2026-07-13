@@ -147,7 +147,7 @@ Elle permet :
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.[^7]**
 
-3. De procéder au versement d'une provision amiable d'un montant de **[Finance Provision Référé]** à valoir sur la réparation de mes préjudices, au titre de l'incidence professionnelle de l'accident ;
+3. De procéder au versement d'une provision amiable d'un montant de [**[Finance Provision Référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) à valoir sur la réparation de mes préjudices, au titre de l'incidence professionnelle de l'accident ;
 
 4. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 

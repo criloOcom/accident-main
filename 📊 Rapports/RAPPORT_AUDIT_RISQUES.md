@@ -425,7 +425,7 @@ Chaque risque est évalué selon trois axes :
 |---|--------|---------------|--------|
 | T1 | **Mandater un avocat** (spécialisé dommage corporel, barreau Toulouse) | R3 (avocat), R7 (calendrier) | 1-2 h |
 | T2 | **Déposer les assignations** (référé-provision + Art. 145) via l'avocat | R1 (assureur), R7 (calendrier) | Variable |
-| T3 | **Envoyer attestations Cerfa aux témoins** (pièces 22-24) | R4 (vidéo), R5 (preuves) | 30 min |
+| T3 | **Envoyer attestations Cerfa aux témoins** ([pièces 22-24](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md)) | R4 (vidéo), R5 (preuves) | 30 min |
 | T4 | **Relancer Dr DJERBI** pour certificat consolidation (email 25) | R14 (consolidation) | 15 min |
 | T5 | **Demander la désignation d'un expert judiciaire** dans le cadre du référé | R14 (consolidation) | Inclus T2 |
 

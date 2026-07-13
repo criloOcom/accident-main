@@ -29,7 +29,7 @@ Rédigé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F
 ## INTRODUCTION
 La présente assignation en référé-provision et demande d'expertise médicale est introduite par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), personne morale exploitant un salon de coiffure, pris en la personne de ses dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md), et personnellement contre ces derniers, au sein duquel la victime a subi un grave accident corporel le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md). 
 
-Par cet acte, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) sollicite du président du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), statuant en référé, l'allocation d'une provision de **[Finance Provision Référé]** à valoir sur la réparation intégrale de ses préjudices.
+Par cet acte, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) sollicite du président du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), statuant en référé, l'allocation d'une provision de [**[Finance Provision Référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) à valoir sur la réparation intégrale de ses préjudices.
 
 > *« Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 > [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
@@ -58,7 +58,7 @@ PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE [**[LA VILLE DE L'ACC
 <hr><hr>
 
 ## I. EXPOSÉ DES FAITS
-Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) s'est rendu au salon de coiffure exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero (**[Finance Prestation Salon]**) **(Pièce n°6)**.
+Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) s'est rendu au salon de coiffure exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) pour y effectuer des prestations capillaires de coiffure, réglées le jour même via le service de paiement Wero ([**[Finance Prestation Salon]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prestation-salon.md)) **(Pièce n°6)**.
 
 Alors qu'il se trouvait au bac à shampoing, [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-prepose-de-l-exploitation.md), qui était monté sur la vasque en céramique, a provoqué le basculement brutal de l'équipement en tentant d'en descendre. Par un réflexe d'assistance pour retenir la chute, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) a tendu sa main droite, qui a heurté une cassure majeure préexistante non signalée sur le flanc de la vasque.
 
@@ -211,7 +211,7 @@ Le référentiel indicatif des cours d'appel fixe la fourchette des provisions p
 
 **2. La provision est proportionnée au préjudice global estimé**
 
-Le préjudice global est estimé à **~90 000 €** selon la nomenclature Dintilhac (PGPA : 1 380 €, DFP : 25 000 €, SE : 15 000 €, IP : 30 000 €, Préjudice d'agrément : 5 000 €, PEP : 3 000 €, DEP : 3 000 €, Frais divers : 3 000 €, Frais art. 700 CPC : 3 000 €). Ce montant correspond à l'évaluation détaillée figurant au sein de l'étude d'indemnisation produite par la victime. La provision de **[Finance Provision Référé]** représente moins de **20 % du préjudice total**, ce qui est raisonnable et proportionné.
+Le préjudice global est estimé à **~90 000 €** selon la nomenclature Dintilhac (PGPA : 1 380 €, DFP : 25 000 €, SE : 15 000 €, IP : 30 000 €, Préjudice d'agrément : 5 000 €, PEP : 3 000 €, DEP : 3 000 €, Frais divers : 3 000 €, Frais art. 700 CPC : 3 000 €). Ce montant correspond à l'évaluation détaillée figurant au sein de l'étude d'indemnisation produite par la victime. La provision de [**[Finance Provision Référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) représente moins de **20 % du préjudice total**, ce qui est raisonnable et proportionné.
 
 **3. La provision inclut une part *ad litem***
 
@@ -256,7 +256,7 @@ Le motif légitime est caractérisé par l'impossibilité pour la victime d'exer
 > [Arrêt n°11-14.339](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026432928) <br>
 > **Cour de cassation, chambre sociale, 26 septembre 2012, n° 11-14.339[^15]**
 
-Il est donc demandé au juge des référés d'ordonner à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) de communiquer sa police d'assurance sous astreinte de **[Finance Astreinte 145]** par jour de retard.
+Il est donc demandé au juge des référés d'ordonner à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) de communiquer sa police d'assurance sous astreinte de [**[Finance Astreinte 145]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-astreinte-145.md) par jour de retard.
 
 <hr><hr>
 
@@ -264,30 +264,30 @@ Il est donc demandé au juge des référés d'ordonner à [**[L'Exploitant du Co
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.
 
 - **(PGPA) Pertes de Gains Professionnels Actuels** : <br>
-    Evaluées à **[Finance PGPA]** au titre de la perte de revenus durant les 56 jours d'ITT (sur la base du chiffre d'affaires mensuel moyen de 750 € déclaré à l'URSSAF).
+    Evaluées à [**[Finance PGPA]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-pgpa.md) au titre de la perte de revenus durant les 56 jours d'ITT (sur la base du chiffre d'affaires mensuel moyen de 750 € déclaré à l'URSSAF).
 
 - **(DFP / AIPP) Déficit Fonctionnel Permanent** : <br>
-    Chiffrage provisionnel et indicatif, sous réserve de consolidation médicale future et d'expertise judiciaire contradictoire. Estimation provisoire sur la base d'un taux de 10 % (**[Finance DFP]** au barème de capitalisation pour un homme de 44 ans).
+    Chiffrage provisionnel et indicatif, sous réserve de consolidation médicale future et d'expertise judiciaire contradictoire. Estimation provisoire sur la base d'un taux de 10 % ([**[Finance DFP]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-dfp.md) au barème de capitalisation pour un homme de 44 ans).
 
 - **(SE) Souffrances Endurées** : <br>
-    Echelonnées à 4/7 en raison de l'accident, de la chirurgie et de la rééducation intensive requises (chiffrées à **[Finance Souffrances Endurées]**).
+    Echelonnées à 4/7 en raison de l'accident, de la chirurgie et de la rééducation intensive requises (chiffrées à [**[Finance Souffrances Endurées]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-souffrances-endurees.md)).
 
 - **(IP) Incidence Professionnelle** : <br>
-    Prévisions d'aménagements ergonomiques spécifiques de poste informatique et de dévalorisation professionnelle estimées à **[Finance Incidence Professionnelle]**.
+    Prévisions d'aménagements ergonomiques spécifiques de poste informatique et de dévalorisation professionnelle estimées à [**[Finance Incidence Professionnelle]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-incidence-professionnelle.md).
 
 - **Préjudice d'Agrément** : <br>
-    Estimation à **[Finance Préjudice Agrément]** au titre de la privation temporaire des activités personnelles de codage et de la pratique de la guitare.
+    Estimation à [**[Finance Préjudice Agrément]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prejudice-agrement.md) au titre de la privation temporaire des activités personnelles de codage et de la pratique de la guitare.
 
 - **(PEP) Préjudice Esthétique Permanent** : <br>
-    Estimation à **[Finance Préjudice Esthétique]** au titre de la cicatrice palmaire de 8,5 cm.
+    Estimation à [**[Finance Préjudice Esthétique]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prejudice-esthetique.md) au titre de la cicatrice palmaire de 8,5 cm.
 
 - **(DEP) Dévalorisation Professionnelle Future** : <br>
-    Estimation à **[Finance Dévalorisation Pro]** au titre de la perte de clientèle et de compétitivité.
+    Estimation à [**[Finance Dévalorisation Pro]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-devalorisation-pro.md) au titre de la perte de clientèle et de compétitivité.
 
 - **Frais Article 700 CPC** : <br>
-    Estimation à **[Finance Article 700]** au titre des frais irrépétibles exposés.
+    Estimation à [**[Finance Article 700]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700.md) au titre des frais irrépétibles exposés.
 
-Dans l'attente du dépôt du rapport de l'expert judiciaire, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) sollicite l'allocation d'une provision de **[Finance Provision Référé]** à valoir sur l'indemnisation finale de son préjudice corporel.
+Dans l'attente du dépôt du rapport de l'expert judiciaire, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) sollicite l'allocation d'une provision de [**[Finance Provision Référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) à valoir sur l'indemnisation finale de son préjudice corporel.
 
 <hr><hr>
 
@@ -311,13 +311,13 @@ Vu les pièces versées aux débats,
 
 3. **ORDONNER** à la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) de communiquer à [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) l'intégralité de sa police d'assurance de responsabilité civile professionnelle en vigueur au [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) ou, à défaut, une attestation de l'assureur mentionnant la dénomination et l'adresse de la compagnie, le numéro de police, les garanties souscrites et leurs plafonds, et la validité du contrat à la date du sinistre ;
 
-4. **ASSORTIR** cette obligation d'une astreinte de **[Finance Astreinte 145]** par jour de retard à compter du 8ème jour suivant la signification de l'ordonnance à intervenir ;
+4. **ASSORTIR** cette obligation d'une astreinte de [**[Finance Astreinte 145]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-astreinte-145.md) par jour de retard à compter du 8ème jour suivant la signification de l'ordonnance à intervenir ;
 
 5. **SE RÉSERVER** la liquidation de l'astreinte ;
 
-6. **CONDAMNER IN SOLIDUM** [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) à verser à [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) la somme de **[Finance Provision Référé]** à titre de provision à valoir sur la réparation définitive de ses préjudices ;
+6. **CONDAMNER IN SOLIDUM** [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) à verser à [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) la somme de [**[Finance Provision Référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) à titre de provision à valoir sur la réparation définitive de ses préjudices ;
 
-7. **CONDAMNER IN SOLIDUM** [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) à payer à [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) la somme de **[Finance Article 700]** sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
+7. **CONDAMNER IN SOLIDUM** [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md), [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) à payer à [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) la somme de [**[Finance Article 700]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700.md) sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
@@ -331,9 +331,9 @@ Vu les pièces versées aux débats,
 - **Pièce n°3 :** [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) ([**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md))
 - **Pièce n°4 :** Certificats médicaux d'[arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 56 jours d'ITT
 - **Pièce n°5 :** Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
-- **Pièce n°6 :** Preuves de l'opération de paiement Wero de **[Finance Prestation Salon]** ([**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
+- **Pièce n°6 :** Preuves de l'opération de paiement Wero de [**[Finance Prestation Salon]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prestation-salon.md) ([**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
 - **Pièce n°7 :** Facture de pharmacie post-opératoire ([**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
-- **Pièce n°8 :** Facture de chirurgie SOS Main (**[Finance Facture Chirurgie]**) ([**[J+12 Facture]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md))
+- **Pièce n°8 :** Facture de chirurgie SOS Main ([**[Finance Facture Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-facture-chirurgie.md)) ([**[J+12 Facture]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md))
 - **Pièce n°9 :** Dossier de Recours Contre Tiers (RCT) CPAM
 - **Pièce n°10 :** LRAR de mise en demeure adressée à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) ([**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
 - **Pièce n°11 :** LRAR de mise en demeure adressée à [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) ([**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))

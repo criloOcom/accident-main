@@ -164,7 +164,7 @@ Vu les pièces versées aux débats,
 
 2. **ORDONNER** a la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) de conserver et de communiquer a [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) l'integralite des enregistrements de videosurveillance du salon de coiffure pour la periode du 25 mai 2026 au 5 juin 2026, sous peine de destruction definitive ;
 
-3. **ASSORTIR** les obligations ci-dessus d'une astreinte de **[Finance Astreinte 145]** par jour de retard a compter du 8eme jour suivant la signification de l'ordonnance a intervenir ;
+3. **ASSORTIR** les obligations ci-dessus d'une astreinte de [**[Finance Astreinte 145]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-astreinte-145.md) par jour de retard a compter du 8eme jour suivant la signification de l'ordonnance a intervenir ;
 
 4. **SE RESERVER** la liquidation de l'astreinte ;
 
@@ -193,7 +193,7 @@ Fait a [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%8
 2. Pièce n°2 : [Certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du [**[Le Médecin en Urgence]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-medecin-en-urgence.md) (**[SMUR local]**) en date du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)
 3. Pièce n°3 : [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) du [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-chirurgien-sos-main.md) (SOS Main) en date du [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md)
 4. Pièce n°4 : Facture de pharmacie post-opératoire ([**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
-5. Pièce n°5 : Facture de chirurgie SOS Main (**[Finance Facture Chirurgie]**) ([**[J+12 Facture]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md))
+5. Pièce n°5 : Facture de chirurgie SOS Main ([**[Finance Facture Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-facture-chirurgie.md)) ([**[J+12 Facture]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md))
 6. Pièce n°6 : Preuve de paiement par virement instantané de 15,00 € (et remboursement ultérieur) témoignant de la présence de la victime sur les lieux
 
 

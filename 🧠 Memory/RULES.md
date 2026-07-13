@@ -61,7 +61,7 @@ type: memory
   champs absents, format incohérent avec l'existant)
 
 ## PROTOCOLE DE MÉMOIRE (OBLIGATOIRE EN DÉBUT DE SESSION)
-- **Lire** `/home/crilocom/accident-main/AGENTS.md` en premier
+- **Lire** [`AGENTS.md`](../AGENTS.md) en premier
 - **Lire** TOUS les fichiers de [/home/crilocom/accident-main/🧠 Memory](/home/crilocom/accident-main/%F0%9F%A7%A0%20Memory/README.md) avant toute action
 - **Vérifier** que le STATUS.md est à jour ; si non, le corriger
 - **Ne JAMAIS** poser à l'utilisateur une question dont la réponse existe déjà dans les fichiers mémoire ou le Drive
@@ -132,7 +132,7 @@ type: memory
 - Le `session_id` retourné doit être conservé et réutilisé pour les questions de suivi (conversation contextuelle)
 - **Ne pas utiliser NotebookLM comme unique source de vérité** juridique — les vérifications JURITEXT/LEGIARTI via Légifrance/Judilibre restent obligatoires (Règle #10)
 - NotebookLM complète la recherche juridique existante : il peut synthétiser et recouper les sources du projet
-- Voir la section dédiée dans `AGENTS.md` pour les détails de configuration
+- Voir la section dédiée dans [`AGENTS.md`](../AGENTS.md) pour les détails de configuration
 
 ## AVENANT JURIDIQUE — FIABILISATION DE LA NOMENCLATURE DES STATUTS D'ENVOI (Règle n°15)
 
@@ -170,7 +170,7 @@ Il est formellement interdit de qualifier un document de « Envoyé » sur le se
 
 ### CONSIGNES D'AUDIT POUR LES AGENTS
 
-1. **Interdiction de l'alignement aveugle** : Ne jamais valider le statut d'une pièce en se basant uniquement sur un fichier déclaratif (`STATUS.md`, `TODO.md`). Seule l'existence d'une preuve matérielle d'expédition fait foi (numéro LRAR, AR signé, preuve de dépôt en greffe, email expédié).
+1. **Interdiction de l'alignement aveugle** : Ne jamais valider le statut d'une pièce en se basant uniquement sur un fichier déclaratif ([`STATUS.md`](STATUS.md), [`TODO.md`](TODO.md)). Seule l'existence d'une preuve matérielle d'expédition fait foi (numéro LRAR, AR signé, preuve de dépôt en greffe, email expédié).
 
 2. **Exigence de complétude** : Tout fichier portant le statut YAML `final` mais dont le corps comporte des crochets non résolus (`[À compléter]`, `[Adresse]`) ou des adresses manquantes doit être rétrogradé au statut 🟡 PROJET/BROUILLON.
 
@@ -231,9 +231,9 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 
 | Index | Statuts YAML | Critère |
 |-------|-------------|---------|
-| `01_PREPARATION.md` | `brouillon`, `projet`, `fusionné_dans_01` | En cours |
-| `02_PRET_POUR_ENVOI.md` | `final`, `preparation` | Finalisé mais `proof_delivery: null` |
-| `03_ENVOYE.md` | `envoye` | `proof_delivery` rempli |
+| [`01_PREPARATION.md`](../%F0%9F%9A%A6%20Status/01_PREPARATION.md) | `brouillon`, `projet`, `fusionné_dans_01` | En cours |
+| [`02_PRET_POUR_ENVOI.md`](../%F0%9F%9A%A6%20Status/02_PRET_POUR_ENVOI.md) | `final`, `preparation` | Finalisé mais `proof_delivery: null` |
+| [`03_ENVOYE.md`](../%F0%9F%9A%A6%20Status/03_ENVOYE.md) | `envoye` | `proof_delivery` rempli |
 
 ### Liens croisés token↔reel
 
@@ -326,7 +326,7 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
   - Privilégier le positionnement « signalement aux fins de vérification » (faits objectifs + demande) plutôt que l'affirmation accusatoire.
   - L'URL Légifrance est un plus pour le suivi interne, pas une obligation dans le courrier.
 - **Règle 19d — Bloc verrouillé** : les 12 articles suivants sont validés comme corrects et peuvent être réutilisés : L.4121-1, L.4321-1, R.4323-58, L.8221-5, R.4121-1, L.8271-1-2 CT ; L.124-3 C. assur. ; L.376-1 CSS ; Art. 40 CPP ; L.311-1 CRPA ; L.123-1 CCH ; Cass. 2e civ. 4 avril 2024 n°22-19.307.
-- **Origine** : audit avocat du 12/07/2026 sur le batch J+37 — cf. `📊 Rapports/PROMPT_AVOCAT_REVUE_J37.md` pour le détail complet.
+- **Origine** : audit avocat du 12/07/2026 sur le batch J+37 — cf. [`📊 Rapports/PROMPT_AVOCAT_REVUE_J37.md`](../%F0%9F%93%8A%20Rapports/PROMPT_AVOCAT_REVUE_J37.md) pour le détail complet.
 
 ## #20 — LIEN CLIQUABLE GOOGLE DRIVE SUR TOUT `drive_id` (RÈGLE PERMANENTE)
 

@@ -95,7 +95,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 | 3 | Bulletin de sortie [**[L'Etablissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-etablissement-sos-main.md) | [**[J+2 Sortie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-2-sortie.md) |
 | 4 | Certificats d'arret de travail (ITT 56 jours) | [**[J+3 Premiers arrets]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md) |
 | 5 | Ordonnances et prescriptions medicales | [**[J+3 Premiers arrets]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md) |
-| 6 | Facture de chirurgie (**[Finance Facture Chirurgie]**) | [**[J+12 Facture]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md) |
+| 6 | Facture de chirurgie ([**[Finance Facture Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-facture-chirurgie.md)) | [**[J+12 Facture]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md) |
 | 7 | Compte-rendu de controle chirurgical | [**[J+21 Controle chirurgical]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-21-controle-chirurgical.md) |
 
 **B. Pieces administratives**

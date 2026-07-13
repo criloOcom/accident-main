@@ -50,7 +50,7 @@ La présente lettre de mise en demeure est adressée par [**[La Victime]**](../.
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
 
-Par ce courrier, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) met en demeure l'assureur de prendre en charge le sinistre corporel survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) dans les locaux de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et de procéder au règlement des préjudices subis, dont le montant total estimé s'élève à **[Finance Evaluation Initiale]** selon l'étude d'indemnisation établie conformément à la Nomenclature Dintilhac.
+Par ce courrier, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) met en demeure l'assureur de prendre en charge le sinistre corporel survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) dans les locaux de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) et de procéder au règlement des préjudices subis, dont le montant total estimé s'élève à [**[Finance Evaluation Initiale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-evaluation-initiale.md) selon l'étude d'indemnisation établie conformément à la Nomenclature Dintilhac.
 
 Cette action directe permet à la victime de saisir directement l'assureur sans passer par l'intermédiaire de la société responsable, conformément aux dispositions du Code des assurances.
 
@@ -100,16 +100,16 @@ Je vous mets en demeure par la présente :
 
 2. De désigner sans délai un médecin expert afin de procéder à mon examen, en vue d'évaluer mes préjudices conformément à la Nomenclature Dintilhac.
 
-3. De procéder au versement d'une provision financière de première urgence d'un montant de **[Finance Provision Référé]** sous un délai de 15 jours à compter de la réception du présent pli, afin de compenser les premières pertes d'exploitation me concernant, travailleur indépendant ([**[L'Identifiant Professionnel de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-identifiant-professionnel-de-la-victime.md)) actuellement dans l'incapacité d'utiliser sa main droite pour exercer son activité professionnelle d'informaticien.
+3. De procéder au versement d'une provision financière de première urgence d'un montant de [**[Finance Provision Référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) sous un délai de 15 jours à compter de la réception du présent pli, afin de compenser les premières pertes d'exploitation me concernant, travailleur indépendant ([**[L'Identifiant Professionnel de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-identifiant-professionnel-de-la-victime.md)) actuellement dans l'incapacité d'utiliser sa main droite pour exercer son activité professionnelle d'informaticien.
 
-L'évaluation globale de mon préjudice corporel, détaillée dans l'étude d'indemnisation, s'établit à **[Finance Evaluation Initiale]** selon les postes de préjudice suivants :
+L'évaluation globale de mon préjudice corporel, détaillée dans l'étude d'indemnisation, s'établit à [**[Finance Evaluation Initiale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-evaluation-initiale.md) selon les postes de préjudice suivants :
 
-- Pertes de gains professionnels actuels (PGPA) : **[Finance PGPA]**
-- Incidence professionnelle (IP) : **[Finance Incidence Professionnelle]**
-- Déficit fonctionnel permanent (DFP) : **[Finance DFP]**
-- Souffrances endurées (SE) : **[Finance Souffrances Endurées]**
-- Préjudice d'agrément : **[Finance Préjudice Agrément]**
-- Frais de procédure (Article 700) : **[Finance Article 700]**
+- Pertes de gains professionnels actuels (PGPA) : [**[Finance PGPA]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-pgpa.md)
+- Incidence professionnelle (IP) : [**[Finance Incidence Professionnelle]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-incidence-professionnelle.md)
+- Déficit fonctionnel permanent (DFP) : [**[Finance DFP]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-dfp.md)
+- Souffrances endurées (SE) : [**[Finance Souffrances Endurées]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-souffrances-endurees.md)
+- Préjudice d'agrément : [**[Finance Préjudice Agrément]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prejudice-agrement.md)
+- Frais de procédure (Article 700) : [**[Finance Article 700]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700.md)
 
 À défaut de réponse et du versement de la provision réclamée dans le délai de 15 jours, j'engagerai une procédure en référé-provision devant le Président du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-ville-de-l-accident.md), et assignerai directement votre compagnie en exécution forcée sur le fondement de l'action directe.
 

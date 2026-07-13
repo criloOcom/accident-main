@@ -199,9 +199,9 @@ Citée au courrier 35, absente physiquement et non référencée dans PIECES MAP
 | Doc 01-14 (analyses juridiques) | ✅ Mapping correct |
 | Bordereau V2 (43 pièces, groupes A-G) | ✅ Cadre théorique cohérent |
 | Pièces Drive listées | Liens accessibles (non vérifiés dans ce rapport) |
-| **AR NPAI (pièce 10-15)** | ❌ Absent physiquement → **à créer** |
-| **Extrait Kbis (pièce 13)** | ❌ Absent physiquement → **à commander** |
-| **Note RNE/INPI (pièce 35)** | ❌ Absente physiquement → **à créer** |
+| **AR NPAI ([pièce 10-15](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md))** | ❌ Absent physiquement → **à créer** |
+| **Extrait Kbis ([pièce 13](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md))** | ❌ Absent physiquement → **à commander** |
+| **Note RNE/INPI ([pièce 35](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md))** | ❌ Absente physiquement → **à créer** |
 
 ---
 

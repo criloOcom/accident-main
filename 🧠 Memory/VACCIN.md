@@ -24,7 +24,7 @@ type: memory
 
 - [ ] `/home/crilocom/accident-main/` est le SEUL répertoire — vérifie que tu y es
 - [ ] [🧠 Memory/VACCIN.md](VACCIN.md) ← ce fichier
-- [ ] `AGENTS.md` — règles du projet, structure, workflow
+- [ ] [`AGENTS.md`](../AGENTS.md) — règles du projet, structure, workflow
 - [ ] [🧠 Memory/STATUS.md](STATUS.md) — état d'avancement global
 - [ ] [🧠 Memory/TODO.md](TODO.md) — plans restants et priorités
 - [ ] [🧠 Memory/DECISIONS.md](DECISIONS.md) — décisions d'architecture et règles

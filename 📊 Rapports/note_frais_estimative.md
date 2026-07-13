@@ -55,4 +55,4 @@ Si le gérant refuse l'accès, l'exécution forcée nécessitera l'intervention 
 ### DEMANDE DE PROVISION
 Avant le début des opérations, il est demandé à **[La Victime]** le versement d'une **provision de 800,00 € TTC**.
 
-*Nota Bene :* Conformément à l'Article 700 du Code de procédure civile et à la demande des dépens dans l'assignation référé (Pièce 16), ces frais de constat et d'huissier, indispensables pour sauvegarder la preuve, pourront être mis à la charge définitive de la partie adverse par le juge.
+*Nota Bene :* Conformément à l'Article 700 du Code de procédure civile et à la demande des dépens dans [l'assignation référé](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B32%20⚖️%20Assignation%20Refere%20Provision.md) (Pièce 16), ces frais de constat et d'huissier, indispensables pour sauvegarder la preuve, pourront être mis à la charge définitive de la partie adverse par le juge.

@@ -38,8 +38,8 @@ Le gestionnaire de documentation :
    - correction des fautes d'orthographe, de grammaire et de typographie **sans modifier le fond**.
 
 4. **Contrôle de cohérence**  
-   - vérification des dates, des numéros de PV, des références d'articles, des noms de personnes (en se basant sur `STRICT VARIABLES.md`) ;
-   - signalement de toute contradiction détectée dans `STATUS.md` ou `TODO.md`.
+   - vérification des dates, des numéros de PV, des références d'articles, des noms de personnes (en se basant sur [`STRICT VARIABLES.md`](STRICT%20VARIABLES.md)) ;
+   - signalement de toute contradiction détectée dans [`STATUS.md`](STATUS.md) ou [`TODO.md`](TODO.md).
 
 ## 3. Périmètre d'autonomie
 
@@ -70,7 +70,7 @@ Toute proposition de modification de fond doit :
 En cas de contradiction détectée (dates différentes entre deux documents, article mal cité, etc.) :
 
 1. **Ne pas corriger directement** le fond.  
-2. Noter le problème dans `STATUS.md` ou `TODO.md` avec une entrée explicite.  
+2. Noter le problème dans [`STATUS.md`](STATUS.md) ou [`TODO.md`](TODO.md) avec une entrée explicite.  
 3. Proposer, en note ou dans un petit rapport, une ou plusieurs **options de correction**.  
 4. Attendre la validation de la victime / de l'avocat avant toute modification de fond.
 
@@ -78,4 +78,4 @@ En cas de contradiction détectée (dates différentes entre deux documents, art
 
 - Aucune **invention de faits** ou de pièces : tout élément nouveau doit provenir d'un document réel ou d'une instruction expresse de la victime.  
 - Toute interaction avec des textes de loi se fait via **Légifrance** ou une source officielle, et la version en vigueur doit être vérifiée.  
-- Toute opération importante (restructuration massive, archivage, renumérotation de pièces) doit être consignée dans `STATUS.md` avec date et résumé.
+- Toute opération importante (restructuration massive, archivage, renumérotation de pièces) doit être consignée dans [`STATUS.md`](STATUS.md) avec date et résumé.

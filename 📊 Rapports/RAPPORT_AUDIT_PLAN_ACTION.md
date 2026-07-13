@@ -86,8 +86,8 @@ Le TODO.md est le **seul document qui reflète la réalité des blocages** :
 | 🔴 Haute | Fixer audience référé-provision (Art. 835 CPC) | ❌ NON FAIT | Assignation PRÊTE mais pas déposée |
 | 🔴 Haute | Fixer audience Art. 145 CPC (communication assurance) | ❌ NON FAIT | Assignation PRÊTE mais pas déposée |
 | 🔴 Haute | Contacter un huissier pour constat | ❌ NON FAIT | Vidéosurveillance probablement perdue |
-| 🔴 Haute | Envoyer attestations témoins (client, pompier, employé) | ❌ NON FAIT | Gabarits Cerfa prêts (pièces 22-24) |
-| 🔴 Haute | Relancer Dr DJERBI — certificat consolidation | ❌ NON FAIT | Gabarit prêt (pièce 25, email 25) |
+| 🔴 Haute | Envoyer attestations témoins (client, pompier, employé) | ❌ NON FAIT | Gabarits Cerfa prêts ([pièces 22-24](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md)) |
+| 🔴 Haute | Relancer Dr DJERBI — certificat consolidation | ❌ NON FAIT | Gabarit prêt ([pièce 25](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md), email 25) |
 | 🔴 Haute | Prendre un avocat | ❌ NON FAIT | Nécessaire avant toute audience |
 | 🟡 Moyenne | Adresses emails des témoins | ❌ NON FAIT | Bloque l'envoi des attestations |
 | 🟡 Moyenne | Email/téléphone Dr DJERBI | ❌ NON FAIT | Bloque la relance |
@@ -240,8 +240,8 @@ Seule date réellement fixée et vérifiable. Le calendrier la mentionne à EVT-
 | B1 | **Transmettre les emails des 3 témoins + Dr DJERBI** pour débloquer les attestations et la relance consolidation | Information personnelle | 15 min | 🔴 **Haute** |
 | B2 | **Mandater un avocat** (même en attendant l'AJ) | A1 (AJ) | 1-2h | 🔴 **Haute** |
 | B3 | **Fixer les audiences de référé** avec l'avocat | B2 | Variable | 🔴 **Haute** |
-| B4 | **Envoyer attestations Cerfa aux témoins** (pièces 22-24) | B1 (emails) | 30 min | 🟡 **Haute** |
-| B5 | **Relancer Dr DJERBI** pour certificat consolidation (pièce 25) | B1 (coordonnées) | 15 min | 🟡 **Haute** |
+| B4 | **Envoyer attestations Cerfa aux témoins** ([pièces 22-24](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md)) | B1 (emails) | 30 min | 🟡 **Haute** |
+| B5 | **Relancer Dr DJERBI** pour certificat consolidation ([pièce 25](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md)) | B1 (coordonnées) | 15 min | 🟡 **Haute** |
 
 ### Avant novembre 2026
 
