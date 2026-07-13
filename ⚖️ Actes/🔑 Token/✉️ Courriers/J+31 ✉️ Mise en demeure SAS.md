@@ -55,14 +55,14 @@ Ce courrier constitue la première étape amiable préalable à toute action con
 L'article L. 124-3 du Code des assurances reconnaît à la victime une action directe contre l'assureur du responsable.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
-> [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1] <br>
-> **Code des assurances > Partie législative > Livre Ier > Titre II : L'assurance de responsabilité > Chapitre Ier : La garantie de l'assureur.**
+> [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Partie législative > Livre Ier > Titre II : L'assurance de responsabilité > Chapitre Ier : La garantie de l'assureur.[^1]**
 
 L'article L. 227-8 du Code de commerce dispose que les règles de responsabilité applicables aux sociétés anonymes s'imposent aux dirigeants de la SAS, renvoyant ainsi au régime de responsabilité de droit commun des sociétés anonymes. Le défaut d'information sur l'assurance constitue un manquement à l'obligation de loyauté contractuelle.
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
-> [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)[^2] <br>
-> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.**
+> [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
+> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.[^2]**
 
 Ces dispositions sont d'ordre public : elles s'imposent à la société et à ses dirigeants.
 
@@ -93,8 +93,8 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat (Article L. 113-2, 4° du Code des assurances), lequel devra répondre dans un délai raisonnable ;
 
 > *« L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. »* <br>
-> [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)[^3] <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.**
+> [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.[^3]**
 
 3. De procéder au versement d'une provision amiable d'un montant de **[Finance Provision Référé]** à valoir sur la réparation de mes préjudices, au titre de l'incidence professionnelle de l'accident ;
 
@@ -103,8 +103,8 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) — d'abord en référé pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
-> [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^4] <br>
-> **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.**
+> [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
+> **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.[^4]**
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 
@@ -115,6 +115,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 > NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
 > Cette situation de handicap physique temporaire explique le délai de transmission de mes demandes administratives.
+
 
 
 ## Sources Législation

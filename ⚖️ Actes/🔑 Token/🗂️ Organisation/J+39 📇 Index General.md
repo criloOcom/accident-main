@@ -64,9 +64,9 @@ Partage depuis : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F
 - 2026-06-29 - 04 ✉️ Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^2].
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^2]** <br>
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^2] <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 
 - 2026-06-01 - 05 ✉️ Courrier Proprietaire - V1 ✓ Vérifié : Demande d'information au propriétaire des murs (détient l'attestation d'assurance RC Pro du locataire via le bail commercial).
 
@@ -103,8 +103,8 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 - 2026-06-02 - 13 📜 Responsabilites legales - V1 ✓ Vérifié : Analyse sur [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)[^5].
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
-> [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)[^5] <br>
-> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.**
+> [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
+> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^5]**
 - 2026-07-05 - 12 📁 Dossier Plaidoirie - V1 ✓ Vérifié : Dossier complet de plaidoirie pour l'audience.
 - 2026-07-05 - 14 Stratégie jurisprudentielle - V1 ✓ Brouillon : Stratégie jurisprudentielle pour l'audience.
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
@@ -234,6 +234,7 @@ Documents non indexés conservés dans `archives/` :
 4. **Envoi emails** — Expédier 08 (Adjoint Maire), 18 (SDIS), 20 (Police), 21 (CPAM).
 5. **Relance SAS/dirigeants** — Seconde mise en demeure si pas de réponse au 14 juillet.
 6. **Preuves officielles** — Insérer les documents physiques dans `📂 Preuves officielles/`.
+
 
 
 ## Sources Législation

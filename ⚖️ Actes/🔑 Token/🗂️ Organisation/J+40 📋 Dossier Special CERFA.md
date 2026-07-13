@@ -41,8 +41,8 @@ Dans le cadre du dossier d'accident corporel de [**[La Victime]**](../../../%F0%
 Conformément à l'Article 202 du Code de procédure civile, ce document permet de recueillir des témoignages écrits de tiers ayant assisté à l'accident ou ayant connaissance directe de l'état défectueux du salon.
 
 > *« L'attestation contient la relation des faits auxquels son auteur a assisté ou qu'il a personnellement constatés. Elle mentionne les nom, prénoms, date et lieu de naissance, demeure et profession de son auteur ainsi que, s'il y a lieu, son lien de parenté ou d'alliance avec les parties, de subordination à leur égard, de collaboration ou de communauté d'intérêts avec elles. Elle indique en outre qu'elle est établie en vue de sa production en justice et que son auteur a connaissance qu'une fausse attestation de sa part l'expose à des sanctions pénales. L'attestation est écrite, datée et signée de la main de son auteur. Celui-ci doit lui annexer, en original ou en photocopie, tout document officiel justifiant de son identité et comportant sa signature. »* <br>
-> [Article 202 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330)[^1] <br>
-> **Code de procédure civile > Section I : Les attestations.**
+> [Article 202 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330) <br>
+> **Code de procédure civile > Section I : Les attestations.[^1]**
 
 ### A. Témoins identifiés et documents associés
 
@@ -111,6 +111,7 @@ Si Sébastien souhaite solliciter l'aide de l'État pour couvrir les frais de ju
 4. Copie de la pièce d'identité.
 
 5. L'attestation de non-prise en charge par l'assureur (complétée par l'assureur confirmant l'absence de garantie Protection Juridique).
+
 
 
 ## Sources Législation

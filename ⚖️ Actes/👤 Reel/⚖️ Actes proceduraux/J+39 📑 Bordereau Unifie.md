@@ -170,14 +170,14 @@ source: drive
 - **20/05/2003** — Cour de cassation (Ch. Com.) : Arrêt SATI (n° 99-17.092) — définition de la faute détachable du dirigeant.
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
-> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^2] <br>
-> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^2]**
 
 - **04/04/2024** — Cour de cassation (Civ. 2e) : Arrêt n° 22-19.307 — capitalisation sans contrôle de l'assureur.
 
 > *« Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »* <br>
-> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)[^3] <br>
-> **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307**
+> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) <br>
+> **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307[^3]**
 
 ### PIÈCE N° 39
 - **04/11/2024** — Me J. Plouton : Article — TJ Bordeaux (RG 22/05793), brûlure cuir chevelu en salon de coiffure (13 913 €). Responsabilité des salons de coiffure pour manquement à l'obligation de sécurité.
@@ -193,6 +193,7 @@ source: drive
 
 ### PIÈCE N° 43
 - **05/06/2026** — Preuve de dépôt LRAR [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (La Poste, [Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-residence-de-la-victime.md)) : Décalage de date constaté (vignette 03/06, flash postal 05/06).
+
 
 
 ## Sources Législation

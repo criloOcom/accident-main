@@ -55,8 +55,8 @@ L'incident s'est produit au sein de l'établissement « SAS LES MAUVAIS GARCONS 
 Cette analyse s'appuie sur le principe de la réparation intégrale, visant à rétablir Sébastien GRAZIDE dans la situation qui aurait été la sienne sans la survenance du dommage, conformément à [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1].
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
-> [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1] <br>
-> **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.**
+> [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
+> **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.[^1]**
 
 <hr>
 
@@ -68,8 +68,8 @@ En tentant instinctivement de retenir le meuble pour éviter une chute plus grav
 Il est à noter que l'établissement a procédé à un remboursement de 15 €, attestant de la réalité de la prestation et de la présence de la victime dans les lieux, sans préjudice de l'analyse juridique des causes de l'accident fondée sur [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^2].
 
 > *« On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. »* <br>
-> [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^2] <br>
-> **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.**
+> [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) <br>
+> **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.[^2]**
 
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>
 
@@ -91,23 +91,23 @@ Pour un informaticien indépendant dont la main droite est la main dominante, ce
 La stratégie privilégie l'exercice de l'action directe contre L'Assureur de responsabilité civile de SAS LES MAUVAIS GARCONS, telle que prévue par [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^3].
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^3] <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^3]**
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 
 Cette action est autonome et n'est pas affectée par une éventuelle radiation de la société. En effet, la jurisprudence confirme que la personnalité morale d'une société subsiste tant que son passif n'est pas apuré.
 
 > *« L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »* <br>
-> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)[^4] <br>
-> **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463**
+> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) <br>
+> **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463[^4]**
 
 ### B. RESPONSABILITÉ DES DIRIGEANTS POUR FAUTE DÉTACHABLE
 La responsabilité personnelle des Dirigeants peut être engagée sur le fondement de la faute détachable des fonctions de direction. Selon la jurisprudence, le maintien en service d'un équipement manifestement dangereux dans un établissement recevant du public (ERP) sans protection adéquate caractérise une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales.
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
-> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^5] <br>
-> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^5]**
 
 ### C. SITUATION JURIDIQUE DU PRÉPOSÉ
 Conformément à [l'arrêt Costedoat (Ass. Plén. 25 fév. 2000)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)[^6], le préposé bénéficie en principe d'une immunité civile.
@@ -118,8 +118,8 @@ Conformément à [l'arrêt Costedoat (Ass. Plén. 25 fév. 2000)](https://www.le
 Toutefois, s'agissant de blessures involontaires ([Art. 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)[^7]), l'action se concentrera sur SAS LES MAUVAIS GARCONS et ses Dirigeants, l'infraction non intentionnelle n'excluant pas l'immunité du préposé selon la jurisprudence récente.
 
 > *« La loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation ne fait pas obstacle à ce que la victime d'un accident de la circulation puisse rechercher la responsabilité du gardien du véhicule sur le fondement de l'article 1242, alinéa 5, du Code civil. »* <br>
-> [Arrêt n°13-80.849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029014493)[^8] <br>
-> **Cour de cassation, chambre criminelle, 27 mai 2014, n° 13-80.849**
+> [Arrêt n°13-80.849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029014493) <br>
+> **Cour de cassation, chambre criminelle, 27 mai 2014, n° 13-80.849[^8]**
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 
@@ -133,14 +133,14 @@ Cette absence de substance financière de la société face à une éventuelle l
 Il est impératif d'intégrer des réserves judiciaires pour d'éventuelles aggravations futures.
 
 > *« Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »* <br>
-> [Arrêt n°20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)[^9] <br>
-> **Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106**
+> [Arrêt n°20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) <br>
+> **Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106[^9]**
 
 La capitalisation des dépenses de santé futures doit être exigée pour garantir la libre disposition des fonds.
 
 > *« Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »* <br>
-> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)[^10] <br>
-> **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307**
+> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) <br>
+> **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307[^10]**
 
 - Intégrer des réserves judiciaires pour les préjudices futurs liés à l'aggravation
 - Capitaliser les dépenses de santé : matériels ergonomiques et aides techniques
@@ -175,6 +175,7 @@ Les seules références doctrinales spécifiques aux salons de coiffure sont :
 Ces sources sont citées à titre de doctrine, non de jurisprudence.
 
 ---
+
 
 
 ## Sources Législation

@@ -46,8 +46,8 @@ La société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20M
 L'article 314-7 du Code pénal permet expressément d'appréhender le comportement du débiteur qui organise son insolvabilité *avant même* que la décision de justice ne soit rendue. Si [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) décident de dissoudre la structure ou de transférer le fonds de commerce à une autre entité sans provisionner le passif latent lié à l'accident du 29 mai 2026, l'infraction sera pleinement constituée. La peine encourue (jusqu'à 5 ans de prison et 375 000 € d'amende avec circonstances aggravantes) justifie la saisine du Parquet.
 
 > *« Le fait, par un débiteur, même avant la décision judiciaire constatant sa dette, d'organiser ou d'aggraver son insolvabilité soit en augmentant le passif ou en diminuant l'actif de son patrimoine, soit en diminuant ou en dissimulant tout ou partie de ses revenus, soit en dissimulant certains de ses biens, en vue de se soustraire à l'exécution d'une condamnation de nature patrimoniale prononcée par une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou d'aliments, prononcée par une juridiction civile, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. Commet le même délit le dirigeant de droit ou de fait d'une personne morale qui organise ou aggrave l'insolvabilité de celle-ci dans les conditions définies à l'alinéa précédent en vue de la soustraire aux obligations pécuniaires résultant d'une condamnation prononcée en matière pénale, délictuelle ou quasi délictuelle. »* <br>
-> [Article 314-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226)[^1] <br>
-> **Code pénal > Section 3 : De l'organisation frauduleuse de l'insolvabilité.**
+> [Article 314-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226) <br>
+> **Code pénal > Section 3 : De l'organisation frauduleuse de l'insolvabilité.[^1]**
 
 <hr><hr>
 
@@ -86,6 +86,7 @@ Si [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%
 ## CONCLUSION
 
 La faiblesse du capital social (200 €) de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) impose une vigilance extrême. Si la société vient à disparaître ou à être vidée de sa substance, une plainte avec [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) devra être déposée entre les mains du Doyen des juges d'instruction ou directement au Parquet, ciblant personnellement [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md).
+
 
 
 ## Sources Législation

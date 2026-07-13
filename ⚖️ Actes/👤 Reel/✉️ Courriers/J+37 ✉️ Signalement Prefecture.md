@@ -74,8 +74,8 @@ Plusieurs procedures ont ete engagees a ce jour :
 4. Action directe contre l'assureur RC professionnelle (Article L.124-3 du Code des assurances)
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1] <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
 5. Dossier de recours contre tiers a la CPAM (n° **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**)
 6. Demande d'enquete a l'Inspection du Travail (DDETS 09 / DREETS Occitanie)
 7. Saisine du CODAF
@@ -90,8 +90,8 @@ Je porte par ailleurs a votre connaissance les manquements suivants, constates d
 - Absence d'equipement d'acces en hauteur (escabeau) pour les interventions en hauteur (Articles R.4323-58 du Code du travail)
 
 > *« Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. »* <br>
-> [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)[^2] <br>
-> **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.**
+> [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) <br>
+> **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.[^2]**
 - Equipement defectueux (bac a shampoing instable avec cassure preexistante)
 - Absence presumee de DUERP
 - Defaut presumee d'assurance RC professionnelle
@@ -111,6 +111,7 @@ Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20M
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Prefet, l'expression de ma consideration distinguee.
 
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
+
 
 
 ## Sources Législation

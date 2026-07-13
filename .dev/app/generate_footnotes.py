@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 """
 Scanne tous les fichiers .md dans ⚖️ Actes/🔑 Token/ et ajoute
-des marqueurs de footnote [^N] après chaque lien legifrance.gouv.fr,
+des marqueurs de footnote [^N] sur la ligne **chemin** (blockquote),
 puis crée/remplace la section ## Sources Législation en bas de document.
 
 Usage:
     python3 .dev/app/generate_footnotes.py
 
 Idempotent : peut être relancé sans risque.
+Migration automatique : les [^N] placés après les URLs sont déplacés
+vers la ligne **chemin**.
 """
 
 import re
@@ -20,9 +22,13 @@ FOOTNOTE_DEF = re.compile(r'^\[\^\d+\]:')
 SECTION_OLD = "## Notes de bas de page"
 SECTION_NEW = "## Sources Législation"
 
+# Pattern: ](legifrance_url)\s*[^N] — used to strip old-position markers
+STRIP_OLD_FN = re.compile(
+    r'\]\((https?://[^)]*legifrance\.gouv\.fr[^)]*)\)\s*\[\^\d+\]'
+)
+
 
 def is_yaml_line(idx, lines):
-    """Check if line idx is between YAML --- delimiters."""
     yaml_starts = [i for i, l in enumerate(lines) if l.strip() == YAML_DELIM]
     if len(yaml_starts) < 2:
         return False
@@ -34,13 +40,30 @@ def is_footnote_def(line):
     return bool(FOOTNOTE_DEF.match(line.strip()))
 
 
+def find_bold_chemin_line(lines, line_idx):
+    """Find the > **...** line adjacent to line_idx within the same blockquote."""
+    for offset in (-2, -1, 1, 2):
+        check = line_idx + offset
+        if 0 <= check < len(lines):
+            ln = lines[check]
+            if ln.strip().startswith('>') and '**' in ln:
+                return check
+    return None
+
+
 def process_file(filepath):
     with open(filepath, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
-    url_map = {}       # url -> [link_text, number]
-    positions = []     # (line_idx, end_pos_of_url, url)
+    url_map = {}
+    positions = []
     fn_counter = 0
+
+    # Pass 0: strip [^N] from after legifrance URLs (migration + clean slate)
+    for i, line in enumerate(lines):
+        if is_yaml_line(i, lines):
+            continue
+        lines[i] = STRIP_OLD_FN.sub(r'](\1)', line)
 
     # Pass 1: collect all legifrance URLs that need footnotes
     for i, line in enumerate(lines):
@@ -50,35 +73,45 @@ def process_file(filepath):
             text = m.group(1)
             url = m.group(2)
             end = m.end()
-            after = line[end:]
-            if after.lstrip().startswith('[^'):
-                continue
             if url not in url_map:
                 fn_counter += 1
                 url_map[url] = [text, fn_counter]
             positions.append((i, end, url))
 
-    # If no new URLs — just ensure ↩ on existing footnote defs and exit
-    if not positions:
-        modified = False
-        for i, line in enumerate(lines):
-            if is_footnote_def(line) and not line.rstrip("\n").endswith("↩"):
-                lines[i] = line.rstrip("\n") + " ↩\n"
-                modified = True
-        if modified:
-            with open(filepath, "w", encoding="utf-8") as f:
-                f.writelines(lines)
-            rel = filepath.relative_to(TOKEN_DIR.parent.parent)
-            print(f"  ↩ added  {rel}")
-            return True
+    # Ensure ↩ on existing footnote defs
+    any_arrow = False
+    for i, line in enumerate(lines):
+        if is_footnote_def(line) and not line.rstrip("\n").endswith("↩"):
+            lines[i] = line.rstrip("\n") + " ↩\n"
+            any_arrow = True
+
+    if not positions and not any_arrow:
         return False
 
-    # Pass 2: insert markers (reversed to preserve indices)
-    for line_idx, end, url in reversed(positions):
+    if not positions:
+        with open(filepath, "w", encoding="utf-8") as f:
+            f.writelines(lines)
+        rel = filepath.relative_to(TOKEN_DIR.parent.parent)
+        print(f"  ↩ only  {rel}")
+        return True
+
+    # Pass 2: insert [^N] on bold chemin line (or fallback after URL)
+    for line_idx, end, url in positions:
         fn_num = url_map[url][1]
         marker = f"[^{fn_num}]"
-        old = lines[line_idx]
-        lines[line_idx] = old[:end] + marker + old[end:]
+
+        bold_idx = find_bold_chemin_line(lines, line_idx)
+        if bold_idx is not None:
+            bold_line = lines[bold_idx]
+            last_ast = bold_line.rfind('**')
+            if last_ast >= 0:
+                lines[bold_idx] = bold_line[:last_ast] + marker + bold_line[last_ast:]
+            else:
+                old = lines[line_idx]
+                lines[line_idx] = old[:end] + marker + old[end:]
+        else:
+            old = lines[line_idx]
+            lines[line_idx] = old[:end] + marker + old[end:]
 
     # Build sources section
     entries = []

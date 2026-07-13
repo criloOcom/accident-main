@@ -56,26 +56,26 @@ La responsabilité personnelle des dirigeants peut être engagée pour faute dé
 La Cour de cassation a jugé que constitue une faute détachable la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales (arrêt SATI, Cass. Com., 20 mai 2003, n° 99-17.092).
 
 > *« La faute du dirigeant social, même lorsqu'elle est commise dans l'exercice de ses fonctions, est séparable de celles-ci lorsque elle constitue un manquement délibéré à ses obligations et engage sa responsabilité personnelle. »* <br>
-> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^1] <br>
-> **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092**
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+> **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092[^1]**
 
 L'article L. 227-8 du Code de commerce dispose que les règles de responsabilité applicables aux sociétés anonymes s'imposent au président et aux dirigeants de la SAS.
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
-> [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)[^2] <br>
-> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.**
+> [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
+> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.[^2]**
 
 L'article L. 227-1 du Code de commerce dispose que les règles des sociétés anonymes sont applicables aux SAS :
 
 > *« Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes [...] sont applicables à la société par actions simplifiée. »* <br>
-> [Article L. 227-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177)[^3] <br>
-> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.**
+> [Article L. 227-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177) <br>
+> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.[^3]**
 
 En application de ce renvoi, l'article L. 225-251 du même code dispose que :
 
 > *« Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. »* <br>
-> [Article L. 225-251](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)[^4] <br>
-> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre III : Des sociétés anonymes > Section 8 : De la responsabilité.**
+> [Article L. 225-251](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) <br>
+> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre III : Des sociétés anonymes > Section 8 : De la responsabilité.[^4]**
 
 **Le défaut d'information de la victime sur l'identité de l'assureur constitue un manquement grave à l'obligation de loyauté et de transparence qui incombe à tout dirigeant d'entreprise.**
 
@@ -98,8 +98,8 @@ C'est ce même assureur qui prendra en charge et indemnisera les conséquences m
 Je sollicite donc aujourd'hui votre aide bienveillante afin que vous puissiez me transmettre par écrit les coordonnées de votre compagnie d'assurance (nom de l'assureur et numéro de police d'assurance civile professionnelle en vigueur au [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md)).
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
-> [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^5] <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.**
+> [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.[^5]**
 
 La victime dispose d'une action directe contre l'assureur de responsabilité civile de l'auteur du dommage.
 
@@ -116,16 +116,16 @@ Ces informations me permettront de déclarer le sinistre et d'envisager une rés
 En l'absence de retour de votre part sous un délai raisonnable de 15 jours à compter de la réception de cette lettre, la procédure d'indemnisation amiable sera malheureusement bloquée, ce qui m'obligerait à solliciter l'aide d'un huissier de justice ou d'un juge pour obtenir ces renseignements.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
-> [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^6] <br>
-> **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.**
+> [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
+> **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.[^6]**
 
 À défaut de réponse dans ce délai, je me verrai contraint de saisir le juge des référés du tribunal judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) afin d'obtenir une mesure d'instruction in futurum aux fins d'identification de l'assureur.
 
 Dans cette hypothèse, je serai également contraint de rechercher la responsabilité personnelle des dirigeants pour défaut d'information sur le fondement de la faute détachable.
 
 > *« Le refus de communication et l'éventuel défaut d'assurance caractérisent une faute détachable de l'exercice normal des fonctions sociales des dirigeants, justifiant leur condamnation personnelle. »* <br>
-> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^1] <br>
-> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092, arrêt SATI**
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092, arrêt SATI[^1]**
 
 **Je vous remercie sincèrement de l'attention que vous porterez à cette demande administrative et reste disponible pour tout échange afin de faire avancer ce dossier dans le respect mutuel des parties.**
 
@@ -144,16 +144,16 @@ Elle permet :
 2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat, lequel devra répondre dans un délai raisonnable ;
 
 > *« L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. »* <br>
-> [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)[^7] <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.**
+> [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.[^7]**
 
 3. De procéder au versement d'une provision amiable d'un montant de 15 000 € à valoir sur la réparation de mes préjudices, au titre de l'incidence professionnelle de l'accident ;
 
 4. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
-> [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^6] <br>
-> **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.**
+> [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
+> **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.[^6]**
 
 À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) — d'abord en référé pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
@@ -166,6 +166,7 @@ Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Gén�
 > NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
 > Cette situation de handicap physique temporaire explique le délai de transmission de mes demandes administratives.
+
 
 
 ## Sources Législation

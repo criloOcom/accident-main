@@ -68,8 +68,8 @@ La présente évaluation a pour objet d'évaluer l'intégralité des préjudices
 Le droit français de la responsabilité civile consacre le principe de la réparation intégrale sans perte ni profit pour la victime, conformément à l'article 1240 du Code civil :
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
-> [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1] <br>
-> **Code civil > Livre III : Des différentes manières dont on acquiert la propriété > Titre III : Des sources d'obligations > Sous-titre II : La responsabilité extracontractuelle > Chapitre Ier : La responsabilité extracontractuelle en général.**
+> [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
+> **Code civil > Livre III : Des différentes manières dont on acquiert la propriété > Titre III : Des sources d'obligations > Sous-titre II : La responsabilité extracontractuelle > Chapitre Ier : La responsabilité extracontractuelle en général.[^1]**
 
 Ce principe exige que la victime soit replacée dans la situation exacte où elle se serait trouvée si l'accident n'avait pas eu lieu.
 
@@ -151,8 +151,8 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 - Référentiel Mornet 2024
 
 > *« Le caractère intégral de la réparation du préjudice implique que la victime puisse obtenir la réparation de l'ensemble des postes de préjudices, y compris ceux qui n'ont pas été expressément prévus dans l'offre de l'assureur. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000021271786)[^2] <br>
-> **Cour de cassation, 2e chambre civile, 10 novembre 2009, n° 08-17.959**
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000021271786) <br>
+> **Cour de cassation, 2e chambre civile, 10 novembre 2009, n° 08-17.959[^2]**
 
 ---
 
@@ -194,8 +194,8 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 - Tableau de capitalisation des cours d'appel (Lexbase, actualisation 2024)
 
 > *« Le juge du fond dispose d'un pouvoir souverain pour fixer le montant de l'indemnisation allouée à la victime d'un dommage corporel, sans être tenu de se référer à un barème ou à un référentiel, dès lors qu'il justifie sa décision par des éléments objectifs. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000039122827)[^3] <br>
-> **Cour de cassation, 2e chambre civile, 12 septembre 2019, n° 18-13.791**
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000039122827) <br>
+> **Cour de cassation, 2e chambre civile, 12 septembre 2019, n° 18-13.791[^3]**
 
 ---
 
@@ -255,16 +255,16 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 - Méthode BIBAL (Maître Frédéric BIBAL)
 
 > *« La victime d'un dommage corporel peut demander la capitalisation de sa perte de revenus professionnels futurs, sans que l'assureur ne puisse imposer un placement ou un mode de gestion particulier des sommes allouées. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000053859671)[^4] <br>
-> **Cour de cassation, 2e chambre civile, 2 avril 2026, n° 24-20.972**
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000053859671) <br>
+> **Cour de cassation, 2e chambre civile, 2 avril 2026, n° 24-20.972[^4]**
 
 > *« L'incidence professionnelle constitue un poste de préjudice distinct des pertes de gains professionnels futurs et doit être évaluée de manière autonome. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)[^5] <br>
-> **Cour de cassation, 2e chambre civile, 6 mai 2021, n° 19-23.173**
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) <br>
+> **Cour de cassation, 2e chambre civile, 6 mai 2021, n° 19-23.173[^5]**
 
 > *« La part personnelle de l'incidence professionnelle ne peut être prise en compte par les tiers payeurs dans le cadre de leur recours. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000049375170)[^6] <br>
-> **Cour administrative d'appel de Lyon, 4 avril 2024**
+> [Arrêt](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000049375170) <br>
+> **Cour administrative d'appel de Lyon, 4 avril 2024[^6]**
 
 ---
 
@@ -287,16 +287,16 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 **Sources :**
 
 > *« Le préjudice d'agrément correspond à la perte ou à la diminution des plaisirs et des occupations de la victime. Ce préjudice est distinct du préjudice moral et du préjudice esthétique. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047223)[^7] <br>
-> **Cour de cassation, Assemblée plénière, 19 décembre 2003, n° 02-14.783**
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047223) <br>
+> **Cour de cassation, Assemblée plénière, 19 décembre 2003, n° 02-14.783[^7]**
 
 > *« La victime qui ne peut plus pratiquer une activité de loisir de manière aussi satisfaisante qu'avant l'accident peut obtenir réparation de son préjudice d'agrément, sans avoir à établir une impossibilité totale de pratique. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000036780068)[^8] <br>
-> **Cour de cassation, 2e chambre civile, 29 mars 2018, n° 17-14.499**
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000036780068) <br>
+> **Cour de cassation, 2e chambre civile, 29 mars 2018, n° 17-14.499[^8]**
 
 > *« La Cour de cassation confirme que la limitation de la pratique d'une activité de loisir suffit à caractériser le préjudice d'agrément. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049857400)[^9] <br>
-> **Cour de cassation, 1re chambre civile, 26 juin 2024, n° 23-15.345**
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049857400) <br>
+> **Cour de cassation, 1re chambre civile, 26 juin 2024, n° 23-15.345[^9]**
 
 ---
 
@@ -351,8 +351,8 @@ Ce poste avait été omis dans le dossier initial.
 ## 3.11 Article 700 CPC
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. »* <br>
-> [Article 700](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)[^10] <br>
-> **Code de procédure civile > Partie législative > Livre II > Titre Ier > Chapitre Ier > Section 2.**
+> [Article 700](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
+> **Code de procédure civile > Partie législative > Livre II > Titre Ier > Chapitre Ier > Section 2.[^10]**
 
 **Proposition : 3 000 €** (complexité du dossier : expertise, recherches assurance, procédure CIVI)
 
@@ -365,18 +365,18 @@ Ce poste avait été omis dans le dossier initial.
 ## 4.1 ACTION DIRECTE ASSUREUR
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
-> [Article L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^11] <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité.**
+> [Article L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité.[^11]**
 
 Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'action contre l'assuré. Même si la SAS disparaît, l'action subsiste contre l'assureur. L'assureur ne peut opposer à la victime les exceptions qu'il pourrait opposer à l'assuré (sauf faute intentionnelle).
 
 > *« L'action directe de la victime contre l'assureur de la responsabilité civile de la personne responsable est indépendante de l'action que la victime peut exercer contre cette dernière. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770)[^12] <br>
-> **Cour de cassation, 3e chambre civile, 11 mai 2022, n° 21-12.478**
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770) <br>
+> **Cour de cassation, 3e chambre civile, 11 mai 2022, n° 21-12.478[^12]**
 
 > *« Les pertes et les dommages occasionnés par des cas fortuits ou causés par la faute de l'assuré sont à la charge de l'assureur, sauf exclusion formelle et limitée contenue dans la police. Toutefois, l'assureur ne répond pas des pertes et dommages provenant d'une faute intentionnelle ou dolosive de l'assuré. »* <br>
-> [Article L.113-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006791984)[^13] <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.**
+> [Article L.113-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006791984) <br>
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.[^13]**
 
 **Méthode pour identifier l'assureur :**
 1. Consultation RNE/INPI (déjà fait)
@@ -386,16 +386,16 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 5. Assignation [art. 145 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^14] si refus persistant
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
-> [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^14] <br>
-> **Code de procédure civile > Livre Ier : Dispositions communes à toutes les juridictions > Titre VII : L'administration judiciaire de la preuve > Sous-titre II : Les mesures d'instruction > Chapitre Ier : Dispositions générales > Section I : Décisions ordonnant des mesures d'instruction.**
+> [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
+> **Code de procédure civile > Livre Ier : Dispositions communes à toutes les juridictions > Titre VII : L'administration judiciaire de la preuve > Sous-titre II : Les mesures d'instruction > Chapitre Ier : Dispositions générales > Section I : Décisions ordonnant des mesures d'instruction.[^14]**
 
 ## 4.2 RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS
 
 **Fondement :** Faute détachable des fonctions.
 
 > *« La faute personnelle du dirigeant, détachable des fonctions, ouvre droit à réparation contre celui-ci, indépendamment de la responsabilité de la personne morale. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^15] <br>
-> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^15]**
 
 **Fondements potentiels :**
 1. Absence d'assurance RC (si inexistante) → faute de gestion
@@ -403,8 +403,8 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 3. Dissolution frauduleuse → abus de biens sociaux / banqueroute
 
 > *« Les dispositions de la présente section sont applicables : 1° A toute personne exerçant une activité commerciale ou artisanale, à tout agriculteur et à toute personne physique exerçant une activité professionnelle indépendante, y compris une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé ; 2° A toute personne qui a, directement ou indirectement, en droit ou en fait, dirigé ou liquidé une personne morale de droit privé ; 3° Aux personnes physiques représentants permanents de personnes morales dirigeants des personnes morales définies au 2° ci-dessus. »* <br>
-> [Article L.654-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984472)[^16] <br>
-> **Code de commerce > Partie législative > Livre VI : Des difficultés des entreprises > Titre V : Des responsabilités et des sanctions > Chapitre IV : De la banqueroute et des autres infractions > Section 1 : De la banqueroute.**
+> [Article L.654-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984472) <br>
+> **Code de commerce > Partie législative > Livre VI : Des difficultés des entreprises > Titre V : Des responsabilités et des sanctions > Chapitre IV : De la banqueroute et des autres infractions > Section 1 : De la banqueroute.[^16]**
 
 **Appréciation :** Voie subsidiaire. La faute détachable est difficile à caractériser.
 
@@ -413,8 +413,8 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 **Fondement :** Art. 706-3 du Code de procédure pénale.
 
 > *« Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : [...] 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois [...] »* <br>
-> [Article 706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)[^17] <br>
-> **Code de procédure pénale > Partie législative > Livre IV : De quelques procédures particulières > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction.**
+> [Article 706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) <br>
+> **Code de procédure pénale > Partie législative > Livre IV : De quelques procédures particulières > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction.[^17]**
 
 **Conditions cumulatives :**
 1. Infraction pénale caractérisée → blessures involontaires (art. 222-19 CP) — ITT 56 jours
@@ -425,8 +425,8 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 6. Exclusion → hors Badinter, hors ONIAM → dans le champ
 
 > *« Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. »* <br>
-> [Article 222-19](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)[^18] <br>
-> **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne.**
+> [Article 222-19](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) <br>
+> **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^18]**
 
 **Procédure :**
 - Délai : 3 ans à compter de l'infraction (29 mai 2029)
@@ -457,8 +457,8 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 - Déclaration de créance dans les 2 mois de la publication BODACC ([art. L.622-24 C. com.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281573)[^19])
 
 > *« A partir de la publication du jugement, tous les créanciers dont la créance est née antérieurement au jugement d'ouverture, à l'exception des salariés, adressent la déclaration de leurs créances au mandataire judiciaire dans des délais fixés par décret en Conseil d'État. [...] »* <br>
-> [Article L.622-24](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281573)[^19] <br>
-> **Code de commerce > Partie législative > Livre VI : Des difficultés des entreprises > Titre II : De la sauvegarde > Chapitre II : De l'entreprise au cours de la période d'observation.**
+> [Article L.622-24](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281573) <br>
+> **Code de commerce > Partie législative > Livre VI : Des difficultés des entreprises > Titre II : De la sauvegarde > Chapitre II : De l'entreprise au cours de la période d'observation.[^19]**
 
 - Créance chirographaire (non privilégiée)
 - Intérêt : constater l'insolvabilité → facilite accès CIVI
@@ -516,8 +516,8 @@ Trois évaluations convergent vers une provision minimale de **10 000 à 15 000 
 ## 5.3 FONDEMENTS JURIDIQUES
 
 > *« Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »* <br>
-> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)[^20] <br>
-> **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307**
+> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) <br>
+> **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307[^20]**
 
 ## 5.4 RECOMMANDATION FINALE
 
@@ -528,8 +528,8 @@ La provision de 15 000 € est justifiée par :
 4. Le droit à réparation intégrale (art. 1240 C. civ.)
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
-> [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1] <br>
-> **Code civil > Livre III : Des différentes manières dont on acquiert la propriété > Titre III : Des sources d'obligations > Sous-titre II : La responsabilité extracontractuelle > Chapitre Ier : La responsabilité extracontractuelle en général.**
+> [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
+> **Code civil > Livre III : Des différentes manières dont on acquiert la propriété > Titre III : Des sources d'obligations > Sous-titre II : La responsabilité extracontractuelle > Chapitre Ier : La responsabilité extracontractuelle en général.[^1]**
 
 <hr><hr>
 
@@ -540,16 +540,16 @@ La provision de 15 000 € est justifiée par :
 ## 6.1 AGGRAVATION DU DOMMAGE (RÉÉVALUATION)
 
 > *« Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »* <br>
-> [Arrêt n°20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)[^21] <br>
-> **Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106**
+> [Arrêt n°20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) <br>
+> **Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106[^21]**
 
 **Application au dossier :** Cet arrêt fonde la possibilité de réévaluer l'indemnisation en cas d'aggravation médicale constatée après l'expertise initiale. Il sécurise la demande de provision et la demande au fond, le préjudice pouvant être revu à la hausse à mesure que les séquelles neurologiques de l'index droit se précisent (cf. expertise UMJ du 12 novembre 2026).
 
 ## 6.2 LIBRE DISPOSITION DES INDEMNITÉS
 
 > *« La victime d'un dommage corporel dispose librement des sommes qui lui sont allouées à titre de réparation, sans avoir à justifier de l'usage qu'elle en fait, dès lors que l'indemnisation a été fixée selon les règles de la réparation intégrale. »* <br>
-> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)[^22] <br>
-> **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463**
+> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) <br>
+> **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463[^22]**
 
 **Application au dossier :** Cet arrêt justifie que les ~92 000 € demandés (ainsi que la provision de 15 000 €) peuvent être librement affectés par la victime (rééducation, matériel ergonomique, adaptation du poste de travail) sans être soumis au contrôle du responsable ou de l'assureur. ⚠ *Vérification JURITEXT recommandée : l'audit du 11/07/2026 signale une date apparemment contradictoire (13 mai 2021) pour ce numéro d'arrêt — à confirmer sur Légifrance avant citation définitive.*
 
@@ -572,6 +572,7 @@ La provision de 15 000 € est justifiée par :
 | Frais Art. 700 CPC | 3 000 € |
 | **TOTAL DEMANDÉ** | **~92 000 €** |
 | **Provision référé demandée** | **15 000 €** |
+
 
 
 ## Sources Législation

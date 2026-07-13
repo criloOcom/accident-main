@@ -45,8 +45,8 @@ En tentant de retenir la chute, le demandeur a heurté une cassure préexistante
 Le demandeur sollicite, sur le fondement de l'article 835 alinéa 2 du Code de procédure civile, l'allocation d'une provision de 15 000 euros, ainsi que, sur le fondement de l'article 145 du même code, l'organisation d'une expertise médicale et la communication sous astreinte de la police d'assurance responsabilité civile de la société défenderesse, outre une somme de 3 000 euros au titre de l'article 700 du Code de procédure civile.
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
-> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)[^1] <br>
-> **Code de procédure civile > Chapitre Ier : La charge des dépens.**
+> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
+> **Code de procédure civile > Chapitre Ier : La charge des dépens.[^1]**
 
 Malgré de multiples mises en demeure, les défendeurs n'ont apporté aucune réponse et n'ont pas communiqué les coordonnées de leur assureur de responsabilité civile.
 
@@ -57,8 +57,8 @@ Malgré de multiples mises en demeure, les défendeurs n'ont apporté aucune ré
 **Sur la demande d'expertise médicale et de communication de pièces**
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
-> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
-> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^1] <br>
+> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.[^2]** <br>
+> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 
 Il ressort des pièces médicales produites ([certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) et [compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)) que [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) a subi des lésions importantes dont la consolidation n'est pas acquise.
 
@@ -71,8 +71,8 @@ Il y a lieu d'enjoindre aux défendeurs de produire ce document sous astreinte.
 **Sur la demande de provision**
 
 > *« Dans tous les cas où l'existence de l'obligation n'est pas sérieusement contestable, le président peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
-> [Article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)[^2] <br>
-> **Code de procédure civile > Chapitre II : Les ordonnances de référé.**
+> [Article 835 alinéa 2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
+> **Code de procédure civile > Chapitre II : Les ordonnances de référé.[^3]**
 
 
 En l'espèce, la matérialité de l'accident au sein de l'établissement [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md) et l'intervention du matériel défectueux (vasque) sont établies par le procès-verbal de police et les éléments médicaux.
@@ -92,16 +92,16 @@ Elle est en outre justifiée par l'urgence pour le demandeur de faire face à se
 **Sur l'article 700 du Code de procédure civile et les dépens**
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
-> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)[^1] <br>
-> **Code de procédure civile > Chapitre Ier : La charge des dépens.**
+> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
+> **Code de procédure civile > Chapitre Ier : La charge des dépens.[^1]**
 
 L'attitude mutique et négligente des défendeurs a contraint le demandeur à exposer d'importants frais irrépétibles.
 
 Il serait inéquitable de les laisser à sa charge. Les défendeurs seront condamnés in solidum à payer la somme de 2 000 euros au titre de l'article 700 du Code de procédure civile et supporteront les entiers dépens.
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
-> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)[^1] <br>
-> **Code de procédure civile > Chapitre Ier : La charge des dépens.**
+> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
+> **Code de procédure civile > Chapitre Ier : La charge des dépens.[^1]**
 
 <hr><hr>
 
@@ -120,8 +120,8 @@ Nous, Juge des référés, statuant publiquement, par ordonnance réputée contr
 **CONDAMNONS** in solidum [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) à payer à [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md) la somme de **2 000 euros** sur le fondement de l'article 700 du Code de procédure civile ;
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
-> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)[^1] <br>
-> **Code de procédure civile > Chapitre Ier : La charge des dépens.**
+> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
+> **Code de procédure civile > Chapitre Ier : La charge des dépens.[^1]**
 
 **CONDAMNONS** in solidum les mêmes aux entiers dépens de la présente instance.
 
@@ -130,7 +130,9 @@ Nous, Juge des référés, statuant publiquement, par ordonnance réputée contr
 [^1]: [Article 145 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
 
+
 ## Sources Législation
 
 [^1]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
-[^2]: [Article 835 alinéa 2 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
+[^2]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+[^3]: [Article 835 alinéa 2 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)

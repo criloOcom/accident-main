@@ -87,8 +87,8 @@ Je sollicite donc votre bienveillance afin de :
 Ce certificat permettra a mon conseil de finaliser l'evaluation indemnitaire et, le cas echeant, de saisir le tribunal judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-ville-de-l-accident.md) pour obtenir la reparation integrale de mon prejudice corporel, conformement au principe degage par la Cour de cassation.
 
 > *« La libre disposition de son corps par la victime ne fait pas obstacle à ce que soit réparé le préjudice corporel subi. »* <br>
-> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)[^1] <br>
-> **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307**
+> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) <br>
+> **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307[^1]**
 
 Transparence sur la suite donnee au dossier
 
@@ -105,6 +105,7 @@ Je vous prie d'agreer, Madame, Docteur, l'expression de ma consideration disting
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md)
 
 NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) sur ma main droite dominante, je suis actuellement en arret de travail (ITT medicale de 56 jours) et dans l'incapacite d'utiliser normalement un clavier d'ordinateur ou d'ecrire manuellement. Cette situation de handicap physique temporaire explique le delai de transmission de mes demandes administratives.
+
 
 
 ## Sources Législation

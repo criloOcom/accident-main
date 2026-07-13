@@ -206,8 +206,8 @@ Je sollicite également :
 3. **La communication écrite** des suites données à cette plainte, conformément à l'Article 15-3 du Code de procédure pénale.
 
 > *« Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale, y compris lorsque ces plaintes sont déposées dans un service ou une unité de police judiciaire territorialement incompétents. Dans ce cas, la plainte est, s'il y a lieu, transmise au service ou à l'unité territorialement compétents. Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime, qui mentionne les délais de prescription de l'action publique définis aux articles 7 à 9 ainsi que la possibilité d'interrompre le délai de prescription par le dépôt d'une plainte avec [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md), en application de l'article 85 . Si elle en fait la demande, une copie du procès-verbal lui est immédiatement remise. Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procès-verbal par leur numéro d'immatriculation administrative. »* <br>
-> [Article 15-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441)[^6] <br>
-> **Code de procédure pénale > Section 1 : Dispositions générales — abrogation différée.**
+> [Article 15-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) <br>
+> **Code de procédure pénale > Section 1 : Dispositions générales — abrogation différée.[^6]**
 
 4. **La possibilité de déposer** les pièces jointes en version numérique (clé USB) pour faciliter leur traitement.
 
@@ -218,8 +218,8 @@ Je sollicite également :
 Je déclare sur l'honneur que les faits exposés dans la présente plainte sont exacts et conformes à la réalité. Je suis conscient(e) que toute déclaration mensongère peut entraîner des poursuites pénales pour faux témoignage (Article 441-7 du Code pénal).
 
 > *« Indépendamment des cas prévus au présent chapitre, est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait : 1° D'établir une attestation ou un certificat faisant état de faits matériellement inexacts ; 2° De falsifier une attestation ou un certificat originairement sincère ; 3° De faire usage d'une attestation ou d'un certificat inexact ou falsifié. Les peines sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende lorsque l'infraction est commise soit en vue de porter préjudice au Trésor public ou au patrimoine d'autrui, soit en vue d'obtenir un titre de séjour ou le bénéfice d'une protection contre l'éloignement. »* <br>
-> [Article 441-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398925)[^7] <br>
-> **Code pénal > Chapitre Ier : Des faux.**
+> [Article 441-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398925) <br>
+> **Code pénal > Chapitre Ier : Des faux.[^7]**
 
 Je reste à la disposition des services de police pour toute audition complémentaire et pour fournir tout élément supplémentaire utile à l'enquête.
 
@@ -327,6 +327,7 @@ Les éléments ci-après sont proposés à titre de suggestions pour l'enquête,
 ---
 
 Ces pistes ont pour seul objet de faciliter l'appréhension globale de la situation par les services d'enquête et de permettre, si vous le jugez opportun, de rassembler les éléments nécessaires à la manifestation de la vérité et à l'indemnisation de la victime.
+
 
 
 ## Sources Législation

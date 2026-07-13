@@ -99,8 +99,8 @@ Il est respectueusement demandé à Monsieur le Président du Tribunal de commer
 **VU** l'article 873 du Code de procédure civile,
 
 > *« Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
-> [Article 873 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463)[^3] <br>
-> **Code de procédure civile > Section I : Les ordonnances de référé.**
+> [Article 873 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463) <br>
+> **Code de procédure civile > Section I : Les ordonnances de référé.[^3]**
 
 **ORDONNER** la désignation d'un mandataire ad hoc ayant pour mission de :
 
@@ -121,12 +121,13 @@ Il est respectueusement demandé à Monsieur le Président du Tribunal de commer
 **CONDAMNER** in solidum la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md), Monsieur [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et Madame [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md) au paiement de la somme de 3.000 euros au titre de l'article 700 du Code de procédure civile ainsi qu'aux entiers dépens de l'instance.
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
-> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)[^4] <br>
-> **Code de procédure civile > Chapitre Ier : La charge des dépens.**
+> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
+> **Code de procédure civile > Chapitre Ier : La charge des dépens.[^4]**
 
 [**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-nom-de-l-avocat-de-la-victime.md)
 Avocat à la Cour
 Le [Date de signature]
+
 
 
 ## Sources Législation

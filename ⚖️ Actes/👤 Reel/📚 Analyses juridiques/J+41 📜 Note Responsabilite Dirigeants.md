@@ -60,8 +60,8 @@ La banqueroute par personne morale est constituée notamment en cas de tenue d'u
 
 La jurisprudence constante de la Cour de cassation (Assemblée plénière, arrêt SATI) retient que la faute intentionnelle d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales, constitue une faute détachable engageant la responsabilité personnelle du dirigeant.
 
-> **Cour de cassation, Assemblée plénière, 13 mars 1981** — Arrêt SATI
-> [Pourvoi n°80-90923](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^4]
+> **Cour de cassation, Assemblée plénière, 13 mars 1981[^4]** — Arrêt SATI
+> [Pourvoi n°80-90923](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 
 ## III. SYNTHÈSE ET RECOMMANDATIONS
 
@@ -73,6 +73,7 @@ La jurisprudence constante de la Cour de cassation (Assemblée plénière, arrê
 | Faute détachable (SATI) | Civile | Faute d'une gravité exceptionnelle | Responsabilité personnelle |
 
 **Conclusion :** la disparition frauduleuse de la SAS engage à titre personnel [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-le-president-de-l-exploitation.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-directrice-generale-de-l-exploitation.md). Il est recommandé de les mettre en cause personnellement dès la phase de référé-provision et de les viser dans le signalement au Parquet.
+
 
 
 ## Sources Législation

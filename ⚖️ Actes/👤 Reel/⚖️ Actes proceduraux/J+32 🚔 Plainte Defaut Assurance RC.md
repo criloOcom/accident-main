@@ -56,14 +56,14 @@ Malgré les demandes amiables répétées, [SAS LES MAUVAIS GARCONS](../../../%F
 Cette carence constitue un obstacle majeur à l'exercice de l'action directe de la victime contre l'assureur ([Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1]) et entrave gravement ses droits à indemnisation.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1] <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1][^2][^3]**
 
-En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en charge par le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^2] sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)[^3].
+En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en charge par le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625).
 
 > *« Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. »* <br>
-> [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)[^4] <br>
-> **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.**
+> [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) <br>
+> **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^4]**
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 
@@ -77,8 +77,8 @@ Alors que [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8
 Ces faits, constitutifs de blessures involontaires au sens de l'[Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)[^5], ont fait l'objet d'une plainte initiale enregistrée sous le numéro [ ... ].
 
 > *« Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. »* <br>
-> [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)[^5] <br>
-> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.**
+> [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) <br>
+> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^5]**
 
 Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-l-exploitant-du-commerce-la-sas.md).
 
@@ -94,24 +94,24 @@ Malgré les demandes amiables de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Me
 
 Cette absence de réponse laisse présumer soit une absence de couverture assurantielle, soit une volonté de dissimulation.
 
-En l'absence d'assurance, l'indemnisation de la victime au titre de l'action directe prévue à l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1] est gravement compromise. Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^2], sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)[^3], pourrait alors être saisi pour assurer l'indemnisation de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md).
+En l'absence d'assurance, l'indemnisation de la victime au titre de l'action directe prévue à l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1] est gravement compromise. Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418[^2]734), sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI00000[^3]6577625), pourrait alors être saisi pour assurer l'indemnisation de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-la-victime.md).
 
 > *« Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. »* <br>
-> [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)[^4] <br>
-> **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.**
+> [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) <br>
+> **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^4]**
 
 ### B. SUR L'ENTRAVE À L'EXERCICE DE L'ACTION DIRECTE
 L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1] consacre le droit propre et l'action directe de la victime à l'encontre de l'assureur du responsable.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1] <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
 
 Cette autonomie de l'action directe a été fermement rappelée par la jurisprudence.
 
 > *« L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »* <br>
-> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)[^6] <br>
-> **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463**
+> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) <br>
+> **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463[^6]**
 
 > Attendu : *« L'action directe du tiers lésé contre l'assureur de responsabilité de la personne responsable de son préjudice est recevable même si la société responsable a été dissoute et liquidée, l'obligation de l'assureur persistant. »*  <br>
 >
@@ -120,16 +120,16 @@ Cette autonomie de l'action directe a été fermement rappelée par la jurisprud
 En dissimulant l'identité de leur assureur, les mis en cause commettent une entrave caractérisée aux droits de la victime, susceptible de relever des dispositions de l'[Article 121-3 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)[^7].
 
 > *« Il n'y a point de crime ou de délit sans intention de le commettre. Toutefois, lorsque la loi le prévoit, il y a délit en cas de mise en danger délibérée de la personne d'autrui. Il y a également délit, lorsque la loi le prévoit, en cas de faute d'imprudence, de négligence ou de manquement à une obligation de prudence ou de sécurité prévue par la loi ou le règlement, s'il est établi que l'auteur des faits n'a pas accompli les diligences normales compte tenu, le cas échéant, de la nature de ses missions ou de ses fonctions, de ses compétences ainsi que du pouvoir et des moyens dont il disposait. Dans le cas prévu par l'alinéa qui précède, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particulière gravité qu'elles ne pouvaient ignorer. Il n'y a point de contravention en cas de force majeure. »* <br>
-> [Article 121-3 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)[^7] <br>
-> **Code pénal > Chapitre Ier : Dispositions générales.**
+> [Article 121-3 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) <br>
+> **Code pénal > Chapitre Ier : Dispositions générales.[^7]**
 
 > *« Il n'y a point de crime ou de délit sans intention de le commettre. (...) Toutefois, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particularité gravité qu'elles ne pouvaient ignorer. »* <br>
 
 Par ailleurs, ce défaut de souscription ou d'information peut constituer une faute détachable des fonctions de direction engageant la responsabilité personnelle des dirigeants sur leur patrimoine propre.
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
-> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^8] <br>
-> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
+> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^8]**
 
 <hr><hr>
 
@@ -168,6 +168,7 @@ Le plaignant se constitue partie civile et se tient à la disposition de la just
 > **Note administrative :** Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Jetons/token-j-0-accident.md) sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 > 
 > Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement du présent document.
+
 
 
 ## Sources Législation
