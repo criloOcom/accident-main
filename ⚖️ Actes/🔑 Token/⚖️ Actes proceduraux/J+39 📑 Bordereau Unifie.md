@@ -235,6 +235,10 @@ jx: J+39
 
 - **01/05/2026** — Mémo indemnités journalières CPAM (Réf. CPAM 31_2399_05/26).
 
+### PIÈCE N° 44
+
+- [Rapport d'évaluation indemnitaire Dintilhac](../../../../📊%20Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md) — Rapport d'évaluation indemnitaire barémique (méthode Dintilhac) du 13 juillet 2026 : évaluation globale des préjudices corporels de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) selon deux scénarios (DFP 10 % : ≈ 126 000 € ; DFP 15 % : ≈ 161 500 €), avant recours CPAM.
+
 ### PIÈCE N° 43
 
 - **05/06/2026** — Preuve de dépôt LRAR [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (La Poste, [**[La Ville de Résidence de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)) : Décalage de date constaté (vignette 03/06, flash postal 05/06).
