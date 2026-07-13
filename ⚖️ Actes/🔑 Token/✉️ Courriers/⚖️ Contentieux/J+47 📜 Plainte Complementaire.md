@@ -354,9 +354,7 @@ Les éléments ci-après sont proposés à titre de suggestions pour l'enquête,
 
 5.4. Recueil, le cas échéant, de tout élément laissant apparaître une organisation patrimoniale ou juridique destinée à soustraire des actifs à la réparation des dommages (multiplication de structures, dirigeants de paille, etc.).
 
-<hr><hr>
-
-Ces pistes ont pour seul objet de faciliter l'appréhension globale de la situation par les services d'enquête et de permettre, si vous le jugez opportun, de rassembler les éléments nécessaires à la manifestation de la vérité et à l'indemnisation de la victime.
+*Ces pistes ont pour seul objet de faciliter l'appréhension globale de la situation par les services d'enquête et de permettre, si vous le jugez opportun, de rassembler les éléments nécessaires à la manifestation de la vérité et à l'indemnisation de la victime.*
 <hr><hr>
 
 ## Sources Législation
