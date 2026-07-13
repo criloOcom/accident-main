@@ -84,7 +84,7 @@ Transformer toutes les mentions textuelles de pièces et de tokens d'anonymisati
 
 ## Phase 20 — Corrections plainte complémentaire suite avocat + antisèche orale (13 juillet 2026) ✅
 
-### Corrections appliquées au fichier 36 📜 (version officielle)
+### Corrections appliquées au [fichier 36 📜](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B47%20%F0%9F%93%9C%20Plainte%20Complementaire.md) (version officielle)
 | Correction | Avant | Après |
 |------------|-------|-------|
 | **Infraction principale** | Obstruction à la justice (434-15 CP) | Blessures involontaires (222-20 + 121-3 CP) |
@@ -98,15 +98,15 @@ Transformer toutes les mentions textuelles de pièces et de tokens d'anonymisati
 | **Annexe juridique** | 434-15, 434-15-1, 222-19 | 222-20, 121-3, 434-4 |
 
 ### Version A ✉️ reclassée en antisèche orale personnelle
-- **Renommage** : `36 ✉️ Plainte Complémentaire Police Foix.md` → `J+47 📋 Antiseche Orale Plainte.md`
+- **Renommage** : `36 ✉️ Plainte Complémentaire Police Foix.md` → [`J+47 📋 Antiseche Orale Plainte.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B47%20%F0%9F%93%8B%20Antiseche%20Orale%20Plainte.md)
 - **Statut** : `DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER`
 - **Usage** : aide-mémoire pour l'audition orale (script dialogue conservé)
 - **Références corrigées** : 434-15→434-4, 222-19→222-20, ajout 121-3
 
 ### Documents à déposer le 15 juillet Foix
-1. **Matin — Greffe TJ Foix** : Requête Art. 145 CPC (fichier 03) + demande AJ (fichier 39)
+1. **Matin — Greffe TJ Foix** : [Requête Art. 145 CPC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B47%20%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) (fichier 03) + [demande AJ](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B47%20%F0%9F%93%8B%20Guide%20Demande%20AJ.md) (fichier 39)
 2. **Midi — 22 Rue Lafaurie** : Photos + constat personnel état vasque
-3. **Après-midi — Commissariat** : Plainte complémentaire (fichier 36 📜 imprimé + signé)
+3. **Après-midi — Commissariat** : [Plainte complémentaire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B47%20%F0%9F%93%9C%20Plainte%20Complementaire.md) (fichier 36 📜 imprimé + signé)
 
 ---
 
