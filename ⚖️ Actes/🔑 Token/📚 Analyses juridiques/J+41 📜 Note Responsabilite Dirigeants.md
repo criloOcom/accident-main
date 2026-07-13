@@ -34,7 +34,8 @@ La présente note analyse les trois voies de recours contre les dirigeants à ti
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
-> **Code de commerce** [Article L.227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)[^1] <br>
+> [Article L.227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
+> Code de commerce[^1] <br>
 
 Cet article rend applicable aux dirigeants de SAS le régime de responsabilité des SA, notamment l'article L.225-251 pour les fautes de gestion. Toute décision de dissoudre la société sans avoir provisionné le passif indemnitaire issu de l'accident constitue un manquement caractérisé aux obligations de gestion.
 
@@ -42,7 +43,8 @@ Cet article rend applicable aux dirigeants de SAS le régime de responsabilité 
 
 > *« Lorsqu'une liquidation judiciaire d'une personne morale fait apparaître une insuffisance d'actif, le tribunal peut, en cas de faute de gestion ayant contribué à cette insuffisance d'actif, décider que le montant de cette insuffisance sera supporté, en tout ou partie, par tous les dirigeants de droit ou de fait, ou certains d'entre eux, ayant contribué à la faute de gestion. »* <br>
 > *« Lorsqu'une liquidation judiciaire d'une personne morale fait apparaître une insuffisance d'actif, le tribunal peut, en cas de faute de gestion ayant contribué à cette insuffisance d'actif, décider que le montant de cette insuffisance sera supporté, en tout ou partie, par tous les dirigeants de droit ou de fait, ou certains d'entre eux, ayant contribué à la faute de gestion. »* <br>
-> **Code de commerce** [Article L.651-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025718687)[^2] <br>
+> [Article L.651-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025718687) <br>
+> Code de commerce[^2] <br>
 
 Si la SAS est placée en liquidation judiciaire et que les dirigeants ont organisé sa mise en sommeil ou sa dissolution avant d'avoir répondu de leurs dettes, la faute de gestion sera constituée. Le tribunal pourra mettre à leur charge personnelle l'insuffisance d'actif, c'est-à-dire le montant des dommages et intérêts dus à [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-victime.md) que la société ne peut couvrir.
 
@@ -52,7 +54,8 @@ Si la SAS est placée en liquidation judiciaire et que les dirigeants ont organi
 
 > *« Les personnes morales déclarées responsables pénalement des infractions prévues par les articles L. 654-3 et L. 654-4 encourent les peines suivantes : 1° L'amende, suivant les modalités prévues par l' article 131-38 du code pénal ; 2° Les peines mentionnées à l'article 131-39 du code pénal. L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. »* <br>
 > *« Les personnes morales déclarées responsables pénalement des infractions prévues par les articles L. 654-3 et L. 654-4 encourent les peines suivantes : 1° L'amende, suivant les modalités prévues par l' article 131-38 du code pénal ; 2° Les peines mentionnées à l'article 131-39 du code pénal. L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. »* <br>
-> **Code de commerce** [Article L.654-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984550)[^3] <br>
+> [Article L.654-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984550) <br>
+> Code de commerce[^3] <br>
 
 La banqueroute par personne morale est constituée notamment en cas de tenue d'une comptabilité fictive, de détournement ou de dissimulation d'actifs. Les dirigeants ayant vidé la SAS pour recréer une structure sous une autre forme tombent sous le coup de ces dispositions pénales.
 

@@ -33,7 +33,8 @@ La présente note vise à analyser les qualifications pénales applicables dans 
 
 > *« Le fait, par un débiteur, même avant la décision judiciaire constatant sa dette, d'organiser ou d'aggraver son insolvabilité soit en augmentant le passif ou en diminuant l'actif de son patrimoine, soit en diminuant ou en dissimulant tout ou partie de ses revenus, soit en dissimulant certains de ses biens, en vue de se soustraire à l'exécution d'une condamnation de nature patrimoniale prononcée par une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou d'aliments, prononcée par une juridiction civile, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 > Commet le même délit le dirigeant de droit ou de fait d'une personne morale qui organise ou aggrave l'insolvabilité de celle-ci dans les conditions définies à l'alinéa précédent en vue de la soustraire aux obligations patrimoniales résultant d'une condamnation prononcée contre elle. »* <br>
-> **Code pénal** [Article 314-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226)[^1] <br>
+> [Article 314-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226) <br>
+> Code pénal[^1] <br>
 
 **Problématique :**
 La société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) pourrait être vidée de ses actifs par ses dirigeants avant même que notre action en responsabilité civile n'aboutisse.
@@ -52,7 +53,8 @@ L'article 314-7 du Code pénal permet expressément d'appréhender le comporteme
 
 > *« L'escroquerie est le fait, soit par l'usage d'un faux nom ou d'une fausse qualité, soit par l'abus d'une qualité vraie, soit par l'emploi de manoeuvres frauduleuses, de tromper une personne physique ou morale et de la déterminer ainsi, à son préjudice ou au préjudice d'un tiers, à remettre des fonds, des valeurs ou un bien quelconque, à fournir un service ou à consentir un acte opérant obligation ou décharge. L'escroquerie est punie de cinq ans d'emprisonnement et de 375 000 euros d'amende. »* <br>
 > *« L'escroquerie est le fait, soit par l'usage d'un faux nom ou d'une fausse qualité, soit par l'abus d'une qualité vraie, soit par l'emploi de manoeuvres frauduleuses, de tromper une personne physique ou morale et de la déterminer ainsi, à son préjudice ou au préjudice d'un tiers, à remettre des fonds, des valeurs ou un bien quelconque, à fournir un service ou à consentir un acte opérant obligation ou décharge. L'escroquerie est punie de cinq ans d'emprisonnement et de 375 000 euros d'amende. »* <br>
-> **Code pénal** [Article 313-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418192)[^2] <br>
+> [Article 313-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418192) <br>
+> Code pénal[^2] <br>
 
 **Problématique :**
 Dans l'hypothèse où une nouvelle société serait créée par [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) ou [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) pour reprendre les actifs de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) sans en reprendre le passif.
@@ -67,7 +69,8 @@ Le montage juridique consistant à recréer une entité miroir (même activité,
 
 > *« Les dispositions de la présente section sont applicables : 1° A toute personne exerçant une activité commerciale ou artisanale, à tout agriculteur et à toute autre personne physique exerçant une activité professionnelle indépendante y compris une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé ; 2° A toute personne qui a, directement ou indirectement, en droit ou en fait, dirigé ou liquidé une personne morale de droit privé ; 3° Aux personnes physiques représentants permanents des personnes morales dirigeants des personnes morales définies au 2° ci-dessus. »* <br>
 > *« Les dispositions de la présente section sont applicables : 1° A toute personne exerçant une activité commerciale ou artisanale, à tout agriculteur et à toute autre personne physique exerçant une activité professionnelle indépendante y compris une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé ; 2° A toute personne qui a, directement ou indirectement, en droit ou en fait, dirigé ou liquidé une personne morale de droit privé ; 3° Aux personnes physiques représentants permanents des personnes morales dirigeants des personnes morales définies au 2° ci-dessus. »* <br>
-> **Code de commerce** [Article L.654-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984472)[^3] <br>
+> [Article L.654-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984472) <br>
+> Code de commerce[^3] <br>
 
 **Problématique :**
 L'ouverture d'une procédure de liquidation ou de redressement judiciaire suite à l'insolvabilité provoquée de la SAS.

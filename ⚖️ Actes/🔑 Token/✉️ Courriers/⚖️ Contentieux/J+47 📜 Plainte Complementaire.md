@@ -62,10 +62,12 @@ Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le
 **Fondement juridique :**
 
 > *"Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende."* <br>
-> [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)[^1] — Code pénal <br>
+> [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
+> Code pénal[^1] <br>
 
 > *"Il n'y a point de crime ou de délit sans intention de le commettre. [...] Il y a également délit, lorsque la loi le prévoit, en cas de faute d'imprudence, de négligence ou de manquement à une obligation de prudence ou de sécurité prévue par la loi ou le règlement, s'il est établi que l'auteur des faits n'a pas accompli les diligences normales compte tenu, le cas échéant, de la nature de ses missions ou de ses fonctions, de ses compétences ainsi que du pouvoir et des moyens dont il disposait."* <br>
-> [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)[^2] — Code pénal <br>
+> [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) <br>
+> Code pénal[^2] <br>
 
 **Faits :**
 
@@ -96,7 +98,8 @@ Il appartiendra à l'enquête et, le cas échéant, à la juridiction saisie, de
 **Fondement juridique :**
 
 > *"Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables."* <br>
-> [Article 434-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608)[^3] — Code pénal <br>
+> [Article 434-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) <br>
+> Code pénal[^3] <br>
 
 **Faits caractérisés :**
 
@@ -131,10 +134,12 @@ Il appartiendra à l'enquête de déterminer si ces comportements sont constitut
 **Fondement juridique :**
 
 > *"Sont interdits : 1° Le travail totalement ou partiellement dissimulé, défini et exercé dans les conditions prévues aux articles L. 8221-3 et L. 8221-5 ; 2° La publicité, par quelque moyen que ce soit, tendant à favoriser, en toute connaissance de cause, le travail dissimulé ; 3° Le fait de recourir sciemment, directement ou par personne interposée, aux services de celui qui exerce un travail dissimulé."* <br>
-> [Article L. 8221-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815)[^4] — Code du travail <br>
+> [Article L. 8221-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815) <br>
+> Code du travail[^4] <br>
 
 > *"Est réputé travail dissimulé par dissimulation d'activité, l'exercice à but lucratif d'une activité de production, de transformation, de réparation ou de prestation de services ou l'accomplissement d'actes de commerce par toute personne qui, se soustrayant intentionnellement à ses obligations : [...] 2° Soit n'a pas procédé aux déclarations qui doivent être faites aux organismes de protection sociale ou à l'administration fiscale en vertu des dispositions légales en vigueur."* <br>
-> [Article L. 8221-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044056622)[^5] — Code du travail <br>
+> [Article L. 8221-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044056622) <br>
+> Code du travail[^5] <br>
 
 **Éléments portés à votre connaissance :**
 
