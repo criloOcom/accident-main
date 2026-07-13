@@ -4,7 +4,6 @@ description: "POUR :"
 type: assignation
 statut: brouillon
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/17 ⚖️ Requete Mandataire Ad Hoc.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › 17 ⚖️ Requete Mandataire Ad Hoc*
@@ -58,7 +57,6 @@ Il existe en l'espèce un risque d'organisation frauduleuse d'insolvabilité ou 
 Il convient de rappeler que la responsabilité des dirigeants d'une Société par Actions Simplifiée (SAS) peut être engagée tant sur le plan civil que pénal pour des fautes commises dans l'exercice de leurs fonctions, ou même au-delà lorsqu'elles sont détachables de celles-ci.
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
-> *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
 > **Code de commerce** [Article L227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)[^1] <br>
 
 Le comportement de Monsieur [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-le-president-de-l-exploitation.md) et de Madame [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-la-directrice-generale-de-l-exploitation.md) caractérise des fautes d'une gravité exceptionnelle, justifiant que des mesures de sauvegarde du patrimoine de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-l-exploitant-du-commerce-la-sas.md) soient ordonnées pour garantir la créance indemnitaire à naître.
@@ -67,7 +65,6 @@ Le comportement de Monsieur [**[Le Président de l'Exploitation]**](../../../%F0
 
 Face aux graves manquements dans la gestion de la société et au risque pesant sur son patrimoine (et par conséquent sur le gage des créanciers, dont la victime), la désignation d'un mandataire ad hoc s'impose afin de prévenir des actes de disposition préjudiciables.
 
-> *« Le président du tribunal peut, à la demande d'un débiteur, désigner un mandataire ad hoc dont il détermine la mission. Le débiteur peut proposer le nom d'un mandataire ad hoc. La décision nommant le mandataire ad hoc est communiquée pour information aux commissaires aux comptes lorsqu'il en a été désigné. »* <br>
 > *« Le président du tribunal peut, à la demande d'un débiteur, désigner un mandataire ad hoc dont il détermine la mission. Le débiteur peut proposer le nom d'un mandataire ad hoc. La décision nommant le mandataire ad hoc est communiquée pour information aux commissaires aux comptes lorsqu'il en a été désigné. »* <br>
 > **Code de commerce** [Article L.611-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052542)[^2] <br>
 
@@ -124,6 +121,10 @@ Il est respectueusement demandé à Monsieur le Président du Tribunal de commer
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^4]**
 
+[**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
+Avocat à la Cour
+Le [Date de signature]
+
 ---
 
 ## PIECES JOINTES
@@ -134,13 +135,7 @@ Il est respectueusement demandé à Monsieur le Président du Tribunal de commer
 
 - **[Extrait Kbis](../../Preuves%20officielles/20260609%20%F0%9F%93%8B%20Kbis%20SAS/20260609%20Kbis%20SAS%20L%20Exploitant.md)** — Situation juridique et capital social de la SAS
 
-- **[Mises en demeure J+31](../%F0%9F%93%AC%20Mise%20en%20demeure%20SAS.md)** — LRAR restees sans reponse
-
-[**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-nom-de-l-avocat-de-la-victime.md)
-Avocat à la Cour
-Le [Date de signature]
-
-
+- **[Mises en demeure J+31](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md)** — LRAR restees sans reponse
 
 ## Sources Législation
 
