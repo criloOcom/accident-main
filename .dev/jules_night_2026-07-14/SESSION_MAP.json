@@ -73,5 +73,10 @@
     "sessionId": "7050958184455060509",
     "launchedAt": "2026-07-14T05:59:26.138Z",
     "note": "RELANCE (M05/M07 clôturées trop tôt sans rapport)"
+  },
+  "M03b_securite_preuves.md": {
+    "sessionId": "3487735748824375475",
+    "launchedAt": "2026-07-14T06:50:19.957Z",
+    "note": "RELANCE (M03 d'origine a dévié: notes à la racine, pas de rapport)"
   }
 }
