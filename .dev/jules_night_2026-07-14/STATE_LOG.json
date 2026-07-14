@@ -1,0 +1,145 @@
+[
+  {
+    "ts": "2026-07-13T23:14:03.357Z",
+    "states": {
+      "M04_organisation.md": {
+        "status": "NO_OUTPUT"
+      },
+      "M01_conformite_rgpd.md": {
+        "status": "NO_OUTPUT"
+      },
+      "M02_coherence_juridique.md": {
+        "status": "NO_OUTPUT"
+      },
+      "M03_securite_preuves.md": {
+        "status": "NO_OUTPUT"
+      },
+      "M05_qualite_actes.md": {
+        "status": "NO_OUTPUT"
+      },
+      "M06_conformite_procedurale.md": {
+        "status": "NO_OUTPUT"
+      },
+      "M07_dirigeants_societes.md": {
+        "status": "NO_OUTPUT"
+      },
+      "M08_voies_indemnisation.md": {
+        "status": "NO_OUTPUT"
+      },
+      "M09_responsabilite_choses.md": {
+        "status": "NO_OUTPUT"
+      },
+      "M10_strategie_penale.md": {
+        "status": "NO_OUTPUT"
+      },
+      "M11_evaluation_dintilhac.md": {
+        "status": "NO_OUTPUT"
+      },
+      "M12_stabilite_technique.md": {
+        "status": "NO_OUTPUT"
+      },
+      "M13_securite_tokens.md": {
+        "status": "NO_OUTPUT"
+      },
+      "M14_continuite.md": {
+        "status": "NO_OUTPUT"
+      },
+      "M15_synthese_operationnalite.md": {
+        "status": "FAILED_PRECONDITION (retry later)",
+        "raw": ""
+      }
+    }
+  },
+  {
+    "ts": "2026-07-14T03:27:20.428Z",
+    "states": {
+      "M04_organisation.md": {
+        "status": "stable",
+        "url": "https://jules.google.com/session/1478692446009410331",
+        "title": "Nuit Jules 14/07 — M04_organisation",
+        "lastAgent": ""
+      },
+      "M01_conformite_rgpd.md": {
+        "status": "stable",
+        "url": "https://jules.google.com/session/1874136573161408257",
+        "title": "Nuit Jules 14/07 — M01_conformite_rgpd",
+        "lastAgent": ""
+      },
+      "M02_coherence_juridique.md": {
+        "status": "stable",
+        "url": "https://jules.google.com/session/4929822008270954582",
+        "title": "Nuit Jules 14/07 — M02_coherence_juridique",
+        "lastAgent": ""
+      },
+      "M03_securite_preuves.md": {
+        "status": "stable",
+        "url": "https://jules.google.com/session/422724528776486902",
+        "title": "Nuit Jules 14/07 — M03_securite_preuves",
+        "lastAgent": "I have successfully generated the evidence preservation strategy report (`📊 Rapports/RAPPORT_SECURITE_PREUVES_2026-07-14.md`) formatted according to the project conventions and verified the correct tokens were used for anonymization. I checked the consistency of the project using the verification script which passed successfully, and also ran the unit tests which completed without regressions. The code has been reviewed successfully. \n\nShould I go ahead and open a Pull Request for these changes, or are there any other adjustments you'd like me to make first?"
+      },
+      "M05_qualite_actes.md": {
+        "status": "stable",
+        "url": "https://jules.google.com/session/18443218845067812469",
+        "title": "Nuit Jules 14/07 — M05_qualite_actes",
+        "lastAgent": "I have begun working on Mission 5 to audit the procedural acts in the `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux` directory. I've read the memory files and conventions, and found the acts to review (Assignations, Constitution de partie civile, requêtes, etc.).\n\nI am currently trying to verify the legal foundations cited in these documents (e.g., Articles 53, 54, 55, 56 of the Code de procédure civile, Art 1240 of the Code civil, etc.) using the `legifrance-search` command and the `OpenLegiClient`, as strictly required by the Anti-Hallucination and Juritext Protocol rules. \n\nHowever, I'm encountering some difficulties with the Légifrance API search syntax to fetch the exact text of specific articles from the \"Code de procédure civile\". The query `titre=\"Code de procédure civile\" ET num=\"53\"` returns unrelated texts (like Code de l'organisation judiciaire) or doesn't return the article itself. Similarly, `OpenLegiClient` returns an error when I try to use `verify_article_by_number` or the result text is empty.\n\nCould you provide advice on the best way to accurately retrieve specific articles (like Art 53 CPC, Art 1240 C.civ) using the available tools, or should I retrieve their LEGIARTI IDs through a different search pattern?"
+      },
+      "M06_conformite_procedurale.md": {
+        "status": "stable",
+        "url": "https://jules.google.com/session/6133410526150848066",
+        "title": "Nuit Jules 14/07 — M06_conformite_procedurale",
+        "lastAgent": ""
+      },
+      "M07_dirigeants_societes.md": {
+        "status": "stable",
+        "url": "https://jules.google.com/session/17830496807323470048",
+        "title": "Nuit Jules 14/07 — M07_dirigeants_societes",
+        "lastAgent": "I've been exploring the repository and rules, particularly the strict validation required for legal citations via Légifrance/Judilibre. I've gathered all the requirements for generating the report `RAPPORT_RESPONSABILITE_DIRIGEANTS_2026-07-14.md`.\n\nHowever, I've encountered some difficulties fetching exact article IDs for certain legal articles when using the `mcp_bridge` (such as Article 110-1 of the Code of commerce or Article L651-2) via the CLI. It seems to have trouble finding some articles directly by name/number combinations with `legifrance-search`, or returning results from different codes (like Code de procédure civile instead of Code civil).\n\nBefore I set the plan to generate the report based on my current legal understanding (citing the exact articles L.227-8, L.225-251, L.651-2, L.654-1, L.4121-1, L.8221-5, L.110-1, 1240, L.511-1, L.611-3, R.123-128 and the JURITEXT `JURITEXT000007047369` which I have verified), could you advise if I should proceed with creating the report and inserting the citations I've verified so far, or if there's a specific way I should be invoking `legifrance-search` to get the remaining exact `LEGIARTI` IDs for those that didn't show up correctly?"
+      },
+      "M08_voies_indemnisation.md": {
+        "status": "stable",
+        "url": "https://jules.google.com/session/6436996169804995681",
+        "title": "Nuit Jules 14/07 — M08_voies_indemnisation",
+        "lastAgent": ""
+      },
+      "M09_responsabilite_choses.md": {
+        "status": "stable",
+        "url": "https://jules.google.com/session/6630996303629581461",
+        "title": "Nuit Jules 14/07 — M09_responsabilite_choses",
+        "lastAgent": ""
+      },
+      "M10_strategie_penale.md": {
+        "status": "stable",
+        "url": "https://jules.google.com/session/9635216744905824485",
+        "title": "Nuit Jules 14/07 — M10_strategie_penale",
+        "lastAgent": ""
+      },
+      "M11_evaluation_dintilhac.md": {
+        "status": "stable",
+        "url": "https://jules.google.com/session/1961247186456543250",
+        "title": "Nuit Jules 14/07 — M11_evaluation_dintilhac",
+        "lastAgent": "I have thoroughly reviewed the context and documentation required for creating the Dintilhac evaluation report (`RAPPORT_EVALUATION_DINTILHAC_2026-07-14.md`).\n\n**Progress Summary:**\n1. **Context & Rules**: Read all required files (`VACCIN.md`, `STRICT VARIABLES.md`, `CONVENTIONS.md`, `JURITEXT_PROTOCOL.md`, etc.).\n2. **Current State**: Analyzed the initial \"optimistic\" evaluation (~105k€/109k€), the Glose conservative evaluation (~45k€), the recommended compromise (~85k€-90k€), and the latest Dintilhac external advice (`RAPPORT_AVOCAT_DINTILHAC_20260713.md` which proposes 126k€ for 10% DFP and 161.5k€ for 15% DFP).\n3. **Jurisprudence Verification**:\n   - Verified the DFP evaluation method against the Barème Mornet 2024.\n   - Checked the legal basis for the \"Provision référé 15 000 €\" under Art. 873 CPC (Légifrance API verified: LEGIARTI000006411463).\n   - Validated the \"Préjudice d'agrément\" legal foundation via Cass. 2e civ., 29 mars 2018, n° 17-14.499 (Judilibre ID: 5fca95adbedfb58a3b77160d).\n   - Validated the \"Incidence professionnelle\" method via Cass. 2e civ., 2 avril 2026, n° 24-20.972 (Judilibre ID: 69ce0620cdc6046d47d360a4).\n\n**Next Steps Proposed:**\nI am ready to draft the report in `📊 Rapports/RAPPORT_EVALUATION_DINTILHAC_2026-07-14.md`. It will include:\n- A YAML header following the conventions.\n- A breakdown of the 11 Dintilhac items (plus article 700 / Frais).\n- An analysis of the Barème Mornet 2024 compliance.\n- A comparison of the valuation differences and justification for the most solid stance.\n- A section on the Article 873 CPC \"référé-provision\".\n- A section on anticipating the medical expertise (Art. 232 CPC / 263 CPP).\n\nAre you satisfied with this plan, and may I proceed to formalize it for your review?"
+      },
+      "M12_stabilite_technique.md": {
+        "status": "stable",
+        "url": "https://jules.google.com/session/634391463851049973",
+        "title": "Nuit Jules 14/07 — M12_stabilite_technique",
+        "lastAgent": ""
+      },
+      "M13_securite_tokens.md": {
+        "status": "stable",
+        "url": "https://jules.google.com/session/14386602008995188339",
+        "title": "Nuit Jules 14/07 — M13_securite_tokens",
+        "lastAgent": ""
+      },
+      "M14_continuite.md": {
+        "status": "stable",
+        "url": "https://jules.google.com/session/15064714970415059898",
+        "title": "Nuit Jules 14/07 — M14_continuite",
+        "lastAgent": ""
+      },
+      "M15_synthese_operationnalite.md": {
+        "status": "WAITING (14 sessions actives)"
+      }
+    }
+  }
+]
