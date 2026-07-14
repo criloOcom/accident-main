@@ -156,6 +156,10 @@ def anonymize_text(text):
     # Fix double spaces
     text = re.sub(r'  +', ' ', text)
 
+    # Entourer les tokens d'identité de ** (convention double strate du projet).
+    # Capture [X] sans espace après '[' (exclut les réserves [ ... ]) et déjà **[X]**.
+    text = re.sub(r'(?<!\[)(\[[^\]\s][^\]]*\])(?!\])', r'**\1**', text)
+
     return text
 
 if __name__ == '__main__':
@@ -164,14 +168,23 @@ if __name__ == '__main__':
         sys.exit(1)
 
     input_path = sys.argv[1]
-    with open(input_path, 'r', encoding='utf-8') as f:
-        text = f.read()
+    try:
+        with open(input_path, 'r', encoding='utf-8') as f:
+            text = f.read()
+    except OSError as e:
+        print(f"ERREUR lecture {input_path} (ligne {e.__traceback__.tb_lineno if e.__traceback__ else '?'}): {e}", file=sys.stderr)
+        sys.exit(2)
 
     result = anonymize_text(text)
 
     if len(sys.argv) >= 3:
-        with open(sys.argv[2], 'w', encoding='utf-8') as f:
-            f.write(result)
-        print(f"Written to {sys.argv[2]}")
+        out_path = sys.argv[2]
+        try:
+            with open(out_path, 'w', encoding='utf-8') as f:
+                f.write(result)
+            print(f"Written to {out_path}")
+        except OSError as e:
+            print(f"ERREUR écriture {out_path} (ligne {e.__traceback__.tb_lineno if e.__traceback__ else '?'}): {e}", file=sys.stderr)
+            sys.exit(3)
     else:
         print(result)

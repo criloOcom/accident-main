@@ -1,44 +1,23 @@
----
-title: "🚦 Status — Index des documents par statut"
-description: "Ce dossier regroupe tous les documents du dossier **Accident Main** classés par statut de délivrance."
-type: readme
----
+# 📊 Index des statuts
 
-<!-- Breadcrumb -->
-*[🏠](../README.md) › 🚦 Status*
-<hr>
-<!-- /Breadcrumb -->
-
-# 🚦 Status<br>Index des documents par statut
-
-Ce dossier regroupe tous les documents du dossier **Accident Main** classés par statut de délivrance.
+Ce dossier contient un fichier par statut, listant tous les documents concernés avec leurs liens croisés.
 
 ## Index
 
-| Fichier | Statut | Description |
-|---------|--------|-------------|
-| [01_PREPARATION.md](01_PREPARATION.md) | 📋 Préparation | Documents en cours (brouillon, projet, fusionné) |
-| [02_PRET_POUR_ENVOI.md](02_PRET_POUR_ENVOI.md) | 📤 Prêt pour envoi | Documents finalisés sans preuve d'envoi |
-| [03_ENVOYE.md](03_ENVOYE.md) | ✅ Envoyé | Documents avec preuve de délivrance (LRAR/AR/dépôt) |
+- [archive (8)](archive.md)
+- [brouillon (30)](brouillon.md)
+- [envoye (5)](envoye.md)
+- [final (78)](final.md)
+- [preparation (9)](preparation.md)
+- [projet (16)](projet.md)
 
-## Convention des statuts YAML
+## Convention des statuts
 
-| `statut` | Signification | Index |
-|----------|---------------|-------|
-| `brouillon` | En cours de rédaction | 01_PREPARATION |
-| `projet` | En attente de relecture | 01_PREPARATION |
-| `fusionné_dans_01` | Fusionné avec un autre document | 01_PREPARATION |
-| `preparation` | En préparation (checklist, planning) | 02_PRET_POUR_ENVOI |
-| `final` | Finalisé — preuve d'envoi absente | 02_PRET_POUR_ENVOI |
-| `envoye` | Envoyé avec preuve matérielle | 03_ENVOYE |
-
-## Champs YAML obligatoires
-
-```yaml
-statut: final                # Valeur de la convention ci-dessus
-reel_path: ../../👤 Reel/... # Dans 🔑 Token → lien vers 👤 Reel
-token_path: ../../🔑 Token/... # Dans 👤 Reel → lien vers 🔑 Token
-proof_delivery: "LRAR N°..."  # Preuve matérielle (null si non envoyé)
-```
-
-> Mis à jour automatiquement par `.dev/app/update_status_system.py` (cross-refs) et `.dev/app/update_proof_delivery.py` (statuts envoyés).
+| Statut | Signification |
+|--------|---------------|
+| `final` | Document finalisé, envoyé ou prêt à l'emploi |
+| `brouillon` | En cours de rédaction ou d'édition |
+| `projet` | Version projet, en attente de relecture/validation |
+| `preparation` | En préparation (checklists, plannings) |
+| `fusionne` | Fusionné dans un autre document |
+| `archive` | Document historique conservé pour référence |

@@ -95,7 +95,7 @@ Conformement aux dispositions du Code de commerce relatives au Registre National
 
 Cette demande est motivee par la necessite de prevenir toute modification de la situation juridique de la societe (dissolution, liquidation, radiation ou cession) qui pourrait intervenir sans que les autorites et les tiers aient connaissance des creances et actions en justice en cours a l'encontre de la societe.
 
-Les montants en jeu sont estimes a **59 600 €** au titre de la reparation integrale des prejudices corporels.
+Les montants en jeu sont estimes a **~126 000 € (plancher, avis Dintilhac du 13/07/2026 ; fourchette 126 000-161 500 €)** au titre de la reparation integrale des prejudices corporels. (Réf. obsolète 59 600 € écartée — voir 🧠 Memory/STRICT VARIABLES.md.)
 
 Mes coordonnees : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md) — Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
