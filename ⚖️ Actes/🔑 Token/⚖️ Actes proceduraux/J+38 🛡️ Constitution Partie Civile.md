@@ -1,6 +1,6 @@
 ---
 title: "[Constitution de Partie Civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) — Blessures Involontaires"
-description: "Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants"
+description: "Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants. Version consolidée intégrant les données du rapport d'expertise médicale (consolidation 01/03/2027, DFP 12%, SE 4/7)."
 type: readme
 date: 2026-07-06
 tags:
@@ -9,7 +9,8 @@ tags:
   - penal
   - blessures involontaires
   - L.227-8
-statut: projet
+  - expertise
+statut: consolide
 destinataire: Doyen des Juges d'Instruction
 auteur: La Victime
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/J+38 🛡️ Constitution Partie Civile.md
@@ -48,15 +49,17 @@ Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20T
 
 Le prepose de l'exploitation, **[Le Prepose de l'Exploitation]**, a escalade la vasque en ceramique du bac a shampoing pour acceder au poste de television. Cet equipement, instable et presentant une cassure majeure preexistante non signalee aux aretes tranchantes, a bascule sous son poids. Par reflexe, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a tendu la main droite pour proteger le prepose ; sa paume a heurte la cassure tranchante, provoquant :
 
-- Une section partielle du tendon flechisseur superficial de l'index droit
+- Une **section complete du tendon flechisseur profond (FDP)** de l'index droit en zone II de Verdan
 
-- Une section du paquet vasculo-nerveux radial de l'index dominant
+- Une **section complete du paquet vasculo-nerveux collatéral radial** de l'index dominant (nerf collatéral radial + artere digitale)
 
-- Une plaie palmaire profonde de 8,5 cm
+- Une **neurolyse tronculaire du nerf palmaire** de l'index
 
-- Une incapacite totale de travail (ITT) de 56 jours
+- Une plaie palmaire profonde de 5,2 cm
 
-Une microchirurgie d'urgence a ete pratiquee le [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) au centre SOS Main de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
+- Une incapacite totale de travail (ITT) de **56 jours**
+
+Une microchirurgie d'urgence a ete pratiquee le [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) au centre SOS Main de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md). L'etat de la victime a ete declare **consolide au 1er mars 2027** par l'expert judiciaire designe par ordonnance de refere du 31 juillet 2026, conformément au rapport d'expertise depose le 12 juin 2027.
 
 ### ANTECEDENTS ET CARENCES DES MIS EN CAUSE
 
@@ -155,20 +158,23 @@ En l'absence d'assurance, l'indemnisation de la victime est gravement compromise
 
 ## III — PREJUDICES
 
-Les prejudices subis par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) sont graves et durables :
+Les prejudices subis par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), evalues par expertise judiciaire (rapport depose le 12 juin 2027, consolidation au 1er mars 2027), sont les suivants :
 
-| Poste de prejudice | Evaluation |
-|-------------------|------------|
-| Provision a valoir | 15 000 € |
-| ITT (56 jours) | Perte de gains professionnels (1 380 €) |
-| Deficit fonctionnel permanent | 25 000 € (10 % — a confirmer apres expertise) |
-| Souffrances endurees | 15 000 € (4/7) |
-| Incidence professionnelle | 30 000 € (informaticien independant — main dominante) |
-| Prejudice esthetique permanent (PEP) | 3 000 € (cicatrice palmaire de 8,5 cm) |
-| Prejudice d'agrement | 5 000 € (guitare + autres activites) |
-| Devalorisation professionnelle future (DEP) | 3 000 € (perte de clientele et de competitivite) |
-| Frais divers | 3 000 € (kine, deplacements) |
-| Total estime | ~90 000 € (a parfaire apres expertise) |
+| Categorie | Poste de prejudice | Evaluation expertise | Observations |
+|-----------|-------------------|---------------------|--------------|
+| **Temporaire** | DFT (56 j 100% + 35 j 50% + 95 j 25%) | **2 031 €** | 81,25 j equivalents plein x 25 €/j |
+| | Aide humaine temporaire | **800 €** | Entourage, ITT totale |
+| | DSA (SOS Main 790,23 € + kine + pharmacie) | *(decompte CPAM)* | Reste a charge a justifier |
+| | PGPA (56 j d'ITT) | **1 380 €** | IJ CPAM a deduire |
+| **Permanent** | DFP (12 %) | **25 200 €** | Barème Mornet 2024, point median 2 100 € |
+| | SE (4/7) | **14 000 €** | Microchirurgie, reeducation 8 mois, douleurs neuropathiques |
+| | PEP (2,5/7) | **3 500 €** | Cicatrice palmaire longitudinale 5,2 cm |
+| | Incidence professionnelle | **28 000 €** | BIBAL : 9 000 x 12 % x coeff 25 = 27 000 € |
+| | PGPF | *(projection)* | 50 000 — 70 000 € (fourchette) |
+| | Prejudice d'agrement | **4 500 €** | Codage loisir reduit (8-10 h -> 2-3 h/semaine) |
+| | Depenses de sante futures | **3 000 €** | Suivi, ergonomie, renouvellement matériel |
+| **Total extra-patrimonial** | | **49 231 €** | DFT + DFP + SE + PEP |
+| **Total estimatif global** | | **120 000 — 160 000 €** | Avant recours CPAM — conforme au rapport d'expertise |
 <hr><hr>
 
 ## IV — DEMANDES
@@ -177,7 +183,7 @@ Par ces motifs, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%E
 
 1. **DECLARER** recevable la presente [constitution de partie civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) ;
 
-2. **DESIGNER** tel expert Medical qu'il plaira au tribunal avec mission d'evaluer l'integralite des chefs de prejudice selon la nomenclature Dintilhac ;
+2. **PRENDRE ACTE** du depot du rapport d'expertise medicale judiciaire en date du 12 juin 2027, ayant fixe la consolidation au 1er mars 2027, le DFP a 12 % et les souffrances endurees a 4/7 ;
 
 3. **ACCORDER** a [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), de **[Le President de l'Exploitation]** et de **[La Directrice Generale de l'Exploitation]** ;
 
@@ -209,7 +215,7 @@ Vu les pieces versees aux debats,
 
 1. **RECEVOIR** la presente [constitution de partie civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) ;
 
-2. **ORDONNER** une expertise medicale judiciaire ;
+2. **PRENDRE ACTE** du depot du rapport d'expertise medicale judiciaire en date du 12 juin 2027 (consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure) ;
 
 3. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a verser a [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices ;
 
@@ -219,7 +225,7 @@ Vu les pieces versees aux debats,
 > [Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) <br>
 > **Code de procédure pénale > Paragraphe 1 : Dispositions générales — abrogation différée.[^10]**
 
-5. **SE RESERVER** la liquidation de l'astreinte et la fixation des dommages et interets definitifs apres depot du rapport d'expertise medicale.
+5. **FIXER** la provision definitives sur dommages et interets a hauteur du prejudice extra-patrimonial constate par l'expert (49 231 €), et **SE RESERVER** la liquidation definitive de l'astreinte et des postes patrimoniaux (PGPF, DSA) sur production des justificatifs CPAM.
 
 Fait a **[La Ville de Residence de la Victime]**, le [**[J+38 Constitution PC]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)
 
@@ -253,6 +259,8 @@ Fait a **[La Ville de Residence de la Victime]**, le [**[J+38 Constitution PC]**
 12. **Pièce n°12 :** LRAR de mise en demeure adressée à [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) ([**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
 
 13. **Pièce n°13 :** LRAR adressée à [**[Le Propriétaire des Murs]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) et son AR signé ([**[J+35 AR propriétaire]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-35-ar-proprietaire.md))
+
+14. **Pièce n°14 :** Rapport d'expertise medicale judiciaire du 12 juin 2027 — consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure
 <hr><hr>
 
 ## Sources Législation
@@ -267,3 +275,27 @@ Fait a **[La Ville de Residence de la Victime]**, le [**[J+38 Constitution PC]**
 [^8]: [Article L. 217-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587) ↩
 [^9]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
 [^10]: [Article 475-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) ↩
+
+---
+
+### NOTE MÉTHODOLOGIQUE
+
+Cette version de la constitution de partie civile est une **version consolidée** intégrant les données du rapport d'expertise médicale simulé (déposé le 12 juin 2027, consolidation au 1er mars 2027).
+
+Les sections mises à jour :
+- **Section I** : description lésionnelle harmonisée avec le rapport d'expertise, ajout de la consolidation
+- **Section III** : tableau Dintilhac remplacé par les chiffres de l'expert (DFP 12 % = 25 200 €, SE 4/7 = 14 000 €, IP = 28 000 €, etc.)
+- **Section IV + PAR CES MOTIFS** : la demande d'expertise est remplacée par une demande de prise d'acte du rapport déposé
+- **Pièce n°14** : rapport d'expertise ajouté au bordereau
+
+Les fondements juridiques (Section II) restent inchangés — le rapport d'expertise n'affecte pas la qualification pénale ni les arguments de responsabilité.
+
+**Calibrage :**
+- Fourchette globale : 120 000 — 160 000 € (conforme au rapport d'expertise)
+- Provision : 15 000 € (inchangée, cohérente avec le total extra-patrimonial de 49 231 €)
+- Article 475-1 CPP : montant à définir via le token [**[Finance Article 700]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700.md) (remplacé par [**[Finance Article 475-1]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-475-1.md) dans la nomenclature pénale)
+
+**Documents liés :**
+- Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
+- Ordonnance de référé (mission expertise) : [`J+63 ⚖️ Projet Ordonnance Refere.md`](J+63%20%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)
+- Avis Dintilhac externe : [`📊 Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`](../../../%F0%9F%93%8A%20Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md)

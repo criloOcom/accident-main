@@ -47,9 +47,9 @@ Madame, Monsieur l'Inspecteur du Travail,
 
 La présente lettre a pour objet de connaître les diligences accomplies par vos services à la suite de l'accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (sise [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)), et de porter à votre attention plusieurs éléments matériels susceptibles de caractériser des manquements à la réglementation du travail.
 
-Cet accident a été causé par la chute brutale du préposé de l'exploitation depuis un bac à shampoing en céramique instable et cassé, sur lequel il avait dû monter pour accéder au poste de télévision, faute d'équipement d'accès adapté (escabeau) mis à disposition par l'employeur.
+Cet accident a été causé par le **basculement** de la vasque en céramique du bac à shampoing sous le poids du préposé de l'exploitation, lequel était monté physiquement sur l'équipement pour régler le poste de télévision, en l'absence totale de tout équipement d'accès en hauteur (escabeau, marchepied) mis à disposition par l'employeur. Sous le poids du préposé, la vasque a basculé violemment ; la victime a instinctivement tendu la main droite pour protéger le préposé, et sa paume a heurté une **cassure majeure préexistante non signalée** sur le flanc de la vasque. **La vasque ne s'est pas effondrée** — il n'y a pas de débris de céramique.
 
-Sa chute a entraîné sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant nécessité une microchirurgie d'urgence en SOS Main.
+Cette blessure a entraîné une plaie palmaire profonde de la main droite avec section partielle du tendon fléchisseur superficiel (FDP) et du paquet vasculo-nerveux collatéral radial de l'index, ayant nécessité une neurolyse du nerf palmaire et une microchirurgie d'urgence en SOS Main le 30 mai 2026. Les séquelles fonctionnelles sont importantes et durablement invalidantes (ITT de 56 jours, consolidation au 1er mars 2027, DFP de 12 %, souffrances endurées 4/7, incidence professionnelle majeure — cf. rapport d'expertise médicale du 29 mai 2027).
 <hr><hr>
 
 ## I — PROCÉDURES EN COURS
@@ -69,6 +69,25 @@ Les procédures suivantes ont été engagées :
 - Mise en demeure à [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et à [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
 
 - Action directe contre l'assureur RC ([Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1])
+
+**3. Réquisitoire introductif** (J+47 — Parquet de Foix)
+- Transmission au doyen des juges d'instruction le 15 juillet 2026
+- Double qualification retenue (prudence : article 222-20 CP, subsidiaire : article 222-19 CP)
+- Réquisitions d'actes d'instruction détaillées (audition des dirigeants, communication PV, attestations, vidéosurveillance, constatations sur site)
+
+**4. Expertise médicale judiciaire**
+- Rapport d'expertise déposé le 29 mai 2027 (pièce n°14 de la CPC)
+- Consolidation au 1er mars 2027
+- DFP 12 % (point Mornet médian 2 100 € → 25 200 €)
+- Souffrances endurées 4/7 (14 000 €)
+- Incidence professionnelle majeure (BIBAL → 28 000 €)
+- Total extra-patrimonial : 49 231 €
+- Fourchette globale tous postes : 120 000 – 160 000 €
+
+**5. Procédure de référé provision** (J+63)
+- Assignation à jour fixe devant le président du TJ de Foix (art. 145 CPC)
+- Provision de 15 000 € sollicitée à valoir sur l'indemnisation définitive
+- Mise en demeure de l'assureur RC (J+50) restée sans réponse
 <hr><hr>
 
 ## II — CONTEXTE DE LA SAISINE DE VOS SERVICES
@@ -146,6 +165,8 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur l'Inspe
 - **[Compte-rendu operatoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
 
 - **[Arrets de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — Arrets de travail prescrits (ITT 56 jours)
+
+- **[Rapport d'expertise médicale](../../Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)** — Expertise judiciaire déposée le 29 mai 2027
 <hr><hr>
 
 ## Sources Législation

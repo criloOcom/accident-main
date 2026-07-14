@@ -22,7 +22,7 @@ jx: J+32
 <hr>
 <!-- /Breadcrumb -->
 
-# ASSIGNATION EN RÉFÉRÉ-PROVISION <br> ET DEMANDE D'EXPERTISE MÉDICALE
+# ASSIGNATION EN RÉFÉRÉ-PROVISION <br> ET <br> DEMANDE D'EXPERTISE MÉDICALE
 > 🔗 Source Google Drive : [1ZIfWjszjl5V…](https://drive.google.com/open?id=1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg)
 Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
 ## INTRODUCTION
@@ -339,11 +339,12 @@ Vu les pièces versées aux débats,
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^20]**
 
-<hr><hr>
+---
 
 Fait à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md).
 
-Pour [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) [Nom Prénom de l'Avocat](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-avocat-nom.md)
+Pour [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[Nom Prénom de l'Avocat](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-avocat-nom.md)
 <hr><hr>
 
 ## BORDEREAU DES PIÈCES INVOQUÉES

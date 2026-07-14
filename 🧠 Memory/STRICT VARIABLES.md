@@ -23,67 +23,98 @@ type: memory
 - EMAIL : **[L'Email de la Victime]**
 - SIREN : **[L'Identifiant Professionnel de la Victime]**
 
-## Montants financiers — Évaluation principale (optimiste)
+## §1. Rapport d'expertise 2027-05-29 (référence canonique)
 
-- MONTANT_TOTAL_ESTIME : ~109 500 € (évaluation Dintilhac détaillée — voir 11+12 📊 Evaluation Dintilhac consolidee.md)
+⚠ **Cette section est la Source Unique de Vérité pour toutes les valeurs Dintilhac.**
+Le rapport d'expertise médicale du 29 mai 2027 ([20270529 ⚖️ Rapport Expertise Médicale.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)) a été déposé et consolidé dans la CPC J+38.
+**Toute valeur divergente dans les sections historiques ci-dessous est SUPERSEDED.**
+
+### Postes extra-patrimoniaux (nomenclature Dintilhac stricte)
+- DFP_CANONIQUE : **25 200 €** (12 % × 2 100 €/pt — point Mornet médian)
+- SE_CANONIQUE : **14 000 €** (4/7)
+- PEP_CANONIQUE : **3 500 €** (2,5/7 — cicatrice palmaire 5,2 cm)
+- AGRÉMENT_CANONIQUE : **4 500 €**
+- TOTAL_EXTRA_PATRIMONIAL_STRICT : **47 200 €**
+
+### Postes patrimoniaux (nomenclature Dintilhac stricte)
+- DFT_CANONIQUE : **2 031 €** (81,25 j × 25 €/j — détail : 56j×100% + 35j×50% + 95j×25%)
+- AIDE_HUMAINE_TEMP_CANONIQUE : **800 €** (ATP — aide humaine temporaire)
+- DSA_CANONIQUE : **790,23 €** (SOS Main)
+- PGPA_CANONIQUE : **1 380 €**
+- IP_CANONIQUE : **28 000 €** (BIBAL : 9 000 × 12 % × coeff 25 — incidence professionnelle, poste patrimonial)
+- DSF_CANONIQUE : **3 000 €**
+- PGPF_CANONIQUE : **50 000 – 70 000 €** (fourchette)
+- TOTAL_PATRIMONIAL_MIN_HORS_PGPF : **~36 000 €** (DFT + DSA + DSF + PGPA + IP + ATP)
+
+### Agrégats de référence
+- SOUS_TOTAL_EXTRA_PAT_plus_DFT : **49 231 €** (extra-pat strict 47 200 + DFT 2 031 — référence barémique globale, ne pas confondre avec extra-patrimonial strict)
+- TOTAL_ESTIMATIF_GLOBAL_CANONIQUE : **120 000 – 160 000 €** (fourchette globale)
 - CA_MENSUEL_MOYEN : 750 € (déclaré URSSAF, CA annuel 9 000 € net)
-- PGPA : 1 900 € (dont 1 400 € prorata + 500 € perte de chance)
-- DFT : 1 400 € (56 jours × 25 €/jour)
-- DFP : 31 200 € (12 % × 2 600 €/point, barème Mornet 2024 médian)
-- SE : 24 000 € (4/7, fourchette Mornet 2024)
-- IP : 30 000 € (méthode BIBAL : 9 000 × 12 % × 27,5)
-- AGREMENT : 8 000 € (guitare 6 000 + autres 2 000)
-- PEP : 3 000 € (cicatrice palmaire 8,5 cm)
-- ATP : 2 000 € (assistance tierce personne — 56 jours, environ 1 h/j)
-- FRAIS_DIVERS : 2 000 € (kiné, déplacements)
-- DEP : 3 000 € (dévalorisation professionnelle future — poste ajouté après 3e analyse)
 - FACTURE_CHIRURGIE : 790,23 €
 
-## Montants financiers — Évaluation conservative (Glose, juillet 2026)
-
-- TOTAL_ESTIME_CONSERVATIF : ~45 000 € (médian, fourchette 28 000-65 000 €)
-- PGPA_CONSERVATIF : 1 380 € (56/30,44 × 750)
-- DFP_CONSERVATIF : 25 000 € (8 % médian, fourchette 15 000-35 000 €)
-- SE_CONSERVATIF : 8 500 € (fourchette 5 000-12 000 €)
-- IP_CONSERVATIF : 2 250 € (750 × 25 % × 12 mois)
-- AGREMENT_CONSERVATIF : 3 500 € (fourchette 2 000-5 000 €)
-- FRAIS_MEDICAUX_CONSERVATIF : 3 500 € (fourchette 2 000-5 000 €)
-- ART_700_CONSERVATIF : 2 250 € (fourchette 1 500-3 000 €)
-
-## Montants — Compromis recommandé
-
-- TOTAL_COMPROMIS : ~85 000 € (voir 11+12 📊 Evaluation Dintilhac consolidee.md section 2.1 / 8.3)
-- DFP_COMPROMIS : 25 000 € (10 % en attendant expertise UMJ)
-- SE_COMPROMIS : 15 000 €
-- AGREMENT_COMPROMIS : 5 000 €
-- FRAIS_DIVERS_COMPROMIS : 3 000 €
-
-## Montants financiers — Avis Dintilhac 2026-07-13 (référence actuelle)
-
-⚠ **Cette section remplace les évaluations antérieures comme référence.** L'avis externe Dintilhac du 13 juillet 2026 distingue deux scénarios (prudent DFP 10 % / médian DFP 15 %). Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](📊 Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md).
-
-### Scénario prudent (DFP 10 %)
-- EVAL_GLOBALE_PRUDENTE : ≈ 126 000 € (plancher, arrondi pratique 130 000 €)
-- DFP_10PC : 20 000 € (10 % × 2 000 €/pt)
-- INCIDENCE_PRO_PRUDENTE : 20 000 €
-- AGREMENT_MEDIAN : 4 000 € (fourchette 3 000–5 000 €)
-
-### Scénario médian (DFP 15 %)
-- EVAL_GLOBALE_MEDIANE : ≈ 161 500 € (fourchette 160 000–165 000 €)
-- DFP_15PC : 30 000 € (15 % × 2 000 €/pt)
-- INCIDENCE_PRO_MEDIANE : 30 000 €
-- AGREMENT_MEDIAN : 4 000 € (fourchette 3 000–5 000 €)
-
-### Provisions et astreintes
+### Provisions et astreintes (inchangées)
 
 - MONTANT_PROVISION_REFERE : 15 000 € (provision référé — conformément aux conclusions)
 - MONTANT_PROVISION_AMIABLE : 15 000 € (demande amiable en mise en demeure)
 - MONTANT_PROVISION_PENALE : 15 000 € (constitution de partie civile)
-- MONTANT_ASTREINTE_REFERE : 100 €/jour (selon recommandation Glose)
+- MONTANT_ASTREINTE_REFERE : 100 €/jour
 - MONTANT_ASTREINTE_145 : 150 €/jour
 - MONTANT_ARTICLE_700 : 3 000 € (compromis)
 - MONTANT_ARTICLE_700_145 : 1 500 € (assignation article 145)
 - MONTANT_ARTICLE_475_1 : 3 000 € (constitution partie civile)
+
+## §2. Scénarios historiques (pré-expertise)
+
+⚠ **TOUTES CES VALEURS SONT SUPERSEDED PAR LE §1 CI-DESSUS.** Conservées à titre pédagogique pour la traçabilité des raisonnements antérieurs à l'expertise du 29 mai 2027. Ne pas utiliser comme référence pour de nouveaux documents.
+
+### 2a. Évaluation principale (optimiste) — pré-expertise
+
+- MONTANT_TOTAL_ESTIME : ~109 500 € — 🔄 SUPERSEDED (expertise : 120 000 – 160 000 €)
+- PGPA : 1 900 € (dont 1 400 € prorata + 500 € perte de chance) — 🔄 SUPERSEDED (expertise : 1 380 €)
+- DFT : 1 400 € (56 jours × 25 €/jour) — 🔄 SUPERSEDED (expertise : 2 031 €)
+- DFP : 31 200 € (12 % × 2 600 €/pt) — 🔄 SUPERSEDED (expertise : 25 200 €)
+- SE : 24 000 € (4/7) — 🔄 SUPERSEDED (expertise : 14 000 €)
+- IP : 30 000 € (BIBAL : 9 000 × 12 % × 27,5) — 🔄 SUPERSEDED (expertise : 28 000 €)
+- AGREMENT : 8 000 € (guitare 6 000 + autres 2 000) — 🔄 SUPERSEDED (expertise : 4 500 €)
+- PEP : 3 000 € (cicatrice palmaire 8,5 cm) — 🔄 SUPERSEDED (expertise : 3 500 €)
+- ATP : 2 000 € — 🔄 SUPERSEDED (expertise : 800 €)
+- FRAIS_DIVERS : 2 000 €
+- DEP : 3 000 €
+- FACTURE_CHIRURGIE : 790,23 €
+
+### 2b. Évaluation conservative (Glose, juillet 2026)
+
+- TOTAL_ESTIME_CONSERVATIF : ~45 000 € (fourchette 28 000-65 000 €) — 🔄 SUPERSEDED
+- PGPA_CONSERVATIF : 1 380 € — ✅ Correspond à l'expertise
+- DFP_CONSERVATIF : 25 000 € (8 % médian) — 🔄 SUPERSEDED (expertise : 25 200 €)
+- SE_CONSERVATIF : 8 500 € — 🔄 SUPERSEDED (expertise : 14 000 €)
+- IP_CONSERVATIF : 2 250 € — 🔄 SUPERSEDED (expertise : 28 000 €)
+- AGREMENT_CONSERVATIF : 3 500 € — 🔄 SUPERSEDED (expertise : 4 500 €)
+- FRAIS_MEDICAUX_CONSERVATIF : 3 500 € — 🔄 SUPERSEDED (expertise : 3 000 €)
+- ART_700_CONSERVATIF : 2 250 € — 🔄 SUPERSEDED (expertise : 3 000 €)
+
+### 2c. Compromis recommandé — pré-expertise
+
+- TOTAL_COMPROMIS : ~85 000 € — 🔄 SUPERSEDED (expertise : 120 000 – 160 000 €)
+- DFP_COMPROMIS : 25 000 € (10 %) — ✅ Proche de l'expertise (25 200 €)
+- SE_COMPROMIS : 15 000 € — 🔄 SUPERSEDED (expertise : 14 000 €)
+- AGREMENT_COMPROMIS : 5 000 € — 🔄 SUPERSEDED (expertise : 4 500 €)
+- FRAIS_DIVERS_COMPROMIS : 3 000 €
+
+### 2d. Avis Dintilhac 2026-07-13 (externe, pré-expertise)
+
+Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../%F0%9F%93%8A%20Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md).
+
+#### Scénario prudent (DFP 10 %)
+- EVAL_GLOBALE_PRUDENTE : ≈ 126 000 € — 🔄 SUPERSEDED (expertise : 120 000 – 160 000 €)
+- DFP_10PC : 20 000 € (10 % × 2 000 €/pt) — 🔄 SUPERSEDED (expertise : 25 200 €)
+- INCIDENCE_PRO_PRUDENTE : 20 000 € — 🔄 SUPERSEDED (expertise : 28 000 €)
+- AGREMENT_MEDIAN : 4 000 € — 🔄 SUPERSEDED (expertise : 4 500 €)
+
+#### Scénario médian (DFP 15 %)
+- EVAL_GLOBALE_MEDIANE : ≈ 161 500 € — 🔄 SUPERSEDED (expertise : 120 000 – 160 000 €)
+- DFP_15PC : 30 000 € (15 % × 2 000 €/pt) — 🔄 SUPERSEDED (expertise : 25 200 €)
+- INCIDENCE_PRO_MEDIANE : 30 000 € — 🔄 SUPERSEDED (expertise : 28 000 €)
 
 ## Plafonds à connaître
 - FGTI_PROVISION_MAX : 3 000 € (art. L.422-7 CA — 30 % plafonné)
@@ -178,18 +209,19 @@ Ces tokens sont utilisés dans les assignations et courriers. Leurs valeurs sont
 | `[Finance Astreinte 145]` | MONTANT_ASTREINTE_145 | 150 €/jour | ✅ Actif |
 | `[Finance Article 700 Référé 145]` | MONTANT_ARTICLE_700_145 | 1 500 € | ✅ Actif |
 | `[Finance Article 475-1]` | MONTANT_ARTICLE_475_1 | 3 000 € | ✅ Actif |
-| `[Finance PGPA]` | PGPA_CONSERVATIF | 1 380 € | ✅ Actif |
-| `[Finance DFP]` | DFP_10PC (prudent) / DFP_15PC (médian) | 20 000 € / 30 000 € | ✅ Réf. Dintilhac 2026-07-13 |
-| `[Finance DFP]` (documents existants) | DFP_COMPROMIS | 25 000 € | 🔄 Obsolète — conservé pour compatibilité |
-| `[Finance Souffrances Endurées]` | SE_COMPROMIS | 15 000 € | ✅ Actif |
-| `[Finance Incidence Professionnelle]` | INCIDENCE_PRO_PRUDENTE / INCIDENCE_PRO_MEDIANE | 20 000 € / 30 000 € | ✅ Réf. Dintilhac 2026-07-13 |
-| `[Finance Incidence Professionnelle]` (documents existants) | IP | 30 000 € | 🔄 Obsolète — conservé pour compatibilité |
-| `[Finance Préjudice Agrément]` | AGREMENT_MEDIAN | 4 000 € | ✅ Réf. Dintilhac 2026-07-13 |
-| `[Finance Préjudice Agrément]` (documents existants) | AGREMENT_COMPROMIS | 5 000 € | 🔄 Obsolète — conservé pour compatibilité |
-| `[Finance Préjudice Esthétique]` | PEP | 3 000 € | ✅ Actif |
+| `[Finance DFT]` | DFT_CANONIQUE | 2 031 € | ✅ Actif (nouveau — expertise) |
+| `[Finance PGPA]` | PGPA_CONSERVATIF | 1 380 € | ✅ Actif (inchangé) |
+| `[Finance DFP]` | DFP_CANONIQUE | 25 200 € | ✅ Actif (maj — expertise) |
+| `[Finance DFP]` (documents existants) | DFP_CANONIQUE | 25 200 € | 🔄 Obsolète — redirigé vers canonique |
+| `[Finance Souffrances Endurées]` | SE_CANONIQUE | 14 000 € | ✅ Actif (maj — expertise) |
+| `[Finance Incidence Professionnelle]` | IP_CANONIQUE | 28 000 € | ✅ Actif (maj — expertise) |
+| `[Finance Incidence Professionnelle]` (documents existants) | IP_CANONIQUE | 28 000 € | 🔄 Obsolète — redirigé vers canonique |
+| `[Finance Préjudice Agrément]` | AGRÉMENT_CANONIQUE | 4 500 € | ✅ Actif (maj — expertise) |
+| `[Finance Préjudice Agrément]` (documents existants) | AGRÉMENT_CANONIQUE | 4 500 € | 🔄 Obsolète — redirigé vers canonique |
+| `[Finance Préjudice Esthétique]` | PEP_CANONIQUE | 3 500 € | ✅ Actif (maj — expertise) |
 | `[Finance Dévalorisation Pro]` | DEP | 3 000 € | ✅ Actif |
 | `[Finance Frais Divers]` | FRAIS_DIVERS_COMPROMIS | 3 000 € | ✅ Actif |
 | `[Finance Facture Chirurgie]` | FACTURE_CHIRURGIE | 790,23 € | ✅ Actif |
 | `[Finance Prestation Salon]` | PREUVE_BANCAIRE (Wero) | 15,00 € | ✅ Actif |
-| `[Finance Evaluation Globale]` | EVAL_GLOBALE_PRUDENTE / EVAL_GLOBALE_MEDIANE | 126 000 € / 161 500 € | ✅ Réf. Dintilhac 2026-07-13 |
-| `[Finance Evaluation Initiale]` (documents existants) | MONTANT_EVALUATION_INITIALE | 59 600 € | 🔄 Obsolète — conservé pour compatibilité |
+| `[Finance Evaluation Globale]` | TOTAL_ESTIMATIF_GLOBAL_CANONIQUE | 120 000 – 160 000 € | ✅ Actif (maj — expertise) |
+| `[Finance Evaluation Initiale]` (documents existants) | MONTANT_EVALUATION_INITIALE | 59 600 € | 🔄 Obsolète |

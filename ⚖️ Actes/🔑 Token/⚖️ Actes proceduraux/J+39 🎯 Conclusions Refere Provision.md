@@ -38,6 +38,9 @@ jx: J+39
 [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), Société par Actions Simplifiée, immatriculée au RCS de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) sous le numéro SIRET [**[L'Identifiant de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md), ayant son siège social au [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), représentée par ses co-dirigeants [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
 
 *Défenderesse*
+
+<hr><hr>
+
 ## I — EXPOSÉ DU LITIGE
 ### A. LE SINISTRE ET SES CONSÉQUENCES MATÉRIELLES
 
@@ -111,7 +114,7 @@ Par ailleurs, la **cassure préexistante** constitue un **vice inhérent** de la
 > [Arrêt n°74-10.466](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485) <br>
 > **Cour de cassation, 2e chambre civile, 5 mai 1975, n° 74-10.466[^3]**
 
-**2. Responsabilité du commettant du fait du préposé (article 1242 alinéa 5 du Code civil)**
+#### 3. Responsabilité du commettant du fait du préposé
 
 Aux termes de l'article 1242 alinéa 5 du Code civil, « les maîtres et les commettants […] du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés ».
 
@@ -119,7 +122,7 @@ Le coiffeur préposé agissait bien au service de l'exploitation du salon en ten
 
 L'Assemblée plénière de la Cour de cassation, dans l'arrêt Costedoat (25 février 2000, n° 97-17.378), a rappelé que le préposé bénéficie de l'immunité civile lorsqu'il agit dans les limites de sa mission. La responsabilité incombe alors exclusivement au commettant.
 
-**4. Faute aggravée de l'exploitant**
+#### 4. Faute aggravée de l'exploitant
 
 Outre la violation des articles R. 4323-58 et suivants du Code du travail (cf. point 1 ci-dessus), la société défenderesse a commis des fautes caractérisées par :
 
@@ -127,9 +130,9 @@ Outre la violation des articles R. 4323-58 et suivants du Code du travail (cf. p
 
 - le **non-entretien** de ses installations, laissant subsister une cassure majeure aux arêtes tranchantes sans signalisation ni réparation ;
 
-- l'**absence de protocole de sécurité** pour les interventions nécessitant un accès en hauteur.
+- 2'**absence de protocole de sécurité** pour les interventions nécessitant un accès en hauteur.
 
-**5. L'obligation de la SAS n'est pas sérieusement contestable**
+#### 5. L'obligation de la SAS n'est pas sérieusement contestable
 
 L'obligation de la SAS envers la victime est établie par :
 
@@ -208,10 +211,10 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 ## Sources Législation
 
-[^1]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
-[^2]: [Arrêt n°89-18.422 — www.legifrance.gouv.fr/juri/id/JURITEXT000007026411](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007026411) ↩
-[^3]: [Arrêt n°74-10.466 — www.legifrance.gouv.fr/juri/id/JURITEXT000006993485](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485) ↩
-[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
+[^1]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩ <br>
+[^2]: [Arrêt n°89-18.422 — www.legifrance.gouv.fr/juri/id/JURITEXT000007026411](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007026411) ↩ <br>
+[^3]: [Arrêt n°74-10.466 — www.legifrance.gouv.fr/juri/id/JURITEXT000006993485](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485) ↩ <br>
+[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩ <br>
 [^5]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
 <hr><hr>
 

@@ -9,6 +9,7 @@ tags:
   - mise en demeure
   - L.124-3
 statut: archive
+superseded_by: J+50
 destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/04 ✉️ Courrier Assureur.md

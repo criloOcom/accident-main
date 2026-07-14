@@ -1,14 +1,18 @@
 ---
 title: "Réquisitoire Introductif"
-description: "Ouverture d'une information judiciaire — Blessures involontaires et infractions connexes"
-type: readme
+description: "Ouverture d'une information judiciaire — Blessures involontaires, mise en danger d'autrui et infractions connexes — expertise médicale concluant à une consolidation à 12 mois (DFP 12 %, SE 4/7)"
+type: simulation
 date: 2026-07-15
 tags:
   - pénal
   - réquisitoire
+  - simulation
   - blessures involontaires
+  - mise en danger
   - information
-statut: projet
+  - expertise
+  - consolidation
+statut: simulation
 destinataire: Doyen des Juges d'Instruction
 auteur: Procureur de la République
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/J+47 ⚖️ Requisitoire introductif.md
@@ -38,13 +42,13 @@ Le Ministère Public a été saisi par la plainte, puis par la [constitution de 
 
 Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), a été victime d'un grave accident corporel.
 
-Alors que [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) était monté sur la vasque en céramique d'un bac à shampoing, cet équipement instable a basculé sous son poids.
+Alors que [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md), faute d'équipement d'accès en hauteur (escabeau, marchepied) mis à sa disposition, était monté sur la vasque en céramique d'un bac à shampoing pour régler un poste de télévision situé en hauteur, cet équipement, déjà fragilisé par une cassure majeure préexistante et non signalée aux arêtes tranchantes, a basculé sous son poids.
 
-En tentant par réflexe de retenir le préposé, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a heurté de la main droite une cassure majeure préexistante et non signalée sur le flanc de la vasque.
+En tentant par réflexe de retenir le préposé, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a heurté de la main droite — sa main dominante — la cassure tranchante.
 
-Ce choc a provoqué une section nerveuse et tendineuse profonde de l'index droit, nécessitant une intervention microchirurgicale d'urgence le 30 mai 2026.
+Ce choc a provoqué une section complète du tendon fléchisseur profond (FDP) de l'index droit en zone II de Verdan, associée à une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une microchirurgie d'urgence le 30 mai 2026, puis une neurolyse secondaire du nerf palmaire.
 
-L'Incapacité Totale de Travail (ITT) a été fixée à 56 jours (du 29/05/2026 au 23/07/2026).
+L'Incapacité Totale de Travail (ITT) a été fixée à 56 jours (du 29/05/2026 au 23/07/2026) par le certificat médical initial. Une expertise médicale judiciaire ultérieure a conclu à une consolidation au 1er mars 2027 (12 mois), avec un Déficit Fonctionnel Permanent (DFP) de 12 % et des Souffrances Endurées (SE) de 4/7. La main droite dominante de la victime, informaticienne de profession, conserve une séquelle sensitive et fonctionnelle définitive dans le territoire du nerf collatéral radial de l'index, limitant sa dextérité fine et sa capacité de travail.
 
 Par ailleurs, malgré des mises en demeure répétées, la société et ses dirigeants n'ont justifié d'aucune assurance de responsabilité civile professionnelle pour l'exploitation du salon.
 
@@ -55,17 +59,21 @@ Il convient de déterminer si ces faits sont constitutifs d'infractions pénales
 
 ### A. SUR LES BLESSURES INVOLONTAIRES
 
-L'Incapacité Totale de Travail (ITT) étant de 56 jours, soit une durée inférieure ou égale à trois mois, la qualification délictuelle ne peut être retenue sur le fondement de l'article 222-19 du Code pénal, qui exige une ITT supérieure à trois mois.
+La fixation de la durée de l'Incapacité Totale de Travail (ITT) conditionne le seuil de qualification pénale. En l'espèce, le certificat médical initial a fixé l'ITT à 56 jours (≤ 3 mois). Toutefois, le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 retient une consolidation au 1er mars 2027, un DFP de 12 % et des SE de 4/7, caractérisant une atteinte fonctionnelle définitive de la main dominante.
 
-> *« Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. »* <br>
-> [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) <br>
-> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^1]**
+Deux scenarii se présentent :
 
-Cependant, la qualification de délit est encourue sur le fondement de l'article 222-20 du Code pénal, si les faits résultent de la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement.
+**Scénario A (prudent)** : l'ITT pénale est celle du certificat initial (56 jours, ≤ 3 mois). La qualification applicable est alors l'article **222-20** du Code pénal, sous réserve de rapporter la preuve d'une violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité. Le rapport d'expertise confirme la gravité des séquelles et la spécialité de la lésion (section complète du tendon FDP + atteinte nerveuse collatérale radiale), ce qui renforce la caractérisation de la faute.
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 > [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
 > **Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2.[^2]**
+
+**Scénario B (offensif)** : l'expertise fait état d'une consolidation à 12 mois et d'une impossibilité pour la victime, informaticienne, d'utiliser sa main dominante pour le travail pendant la quasi-totalité de cette période. Si l'ITT pénale est étendue à la période d'incapacité fonctionnelle totale constatée par l'expert (au-delà de 3 mois), la qualification de l'article **222-19** du Code pénal (ITT > 3 mois) devient encourue, avec des peines portées à 3 ans d'emprisonnement et 45 000 € d'amende en cas de violation manifestement délibérée — ce qui est le cas en présence d'un défaut d'entretien d'un ERP.
+
+> *« Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. »* <br>
+> [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) <br>
+> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^1]**
 
 À défaut d'une violation manifestement délibérée, les faits s'analysent a minima en une contravention de la 5ème classe sur le fondement des articles R. 625-2 ou R. 622-1 du Code pénal.
 
@@ -106,7 +114,9 @@ Conformément à l'article 8 du Code de procédure pénale, l'action publique po
 
 ## III — ARGUMENTATION DU MINISTÈRE PUBLIC
 
-Les faits dénoncés revêtent une indéniable gravité, les conséquences pour la victime, informaticien de profession, étant majeures (atteinte nerveuse de la main dominante).
+Les faits dénoncés revêtent une indéniable gravité, les conséquences pour la victime, informaticien de profession, étant majeures (atteinte nerveuse de la main dominante). Le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 confirme objectivement ces constatations : section complète du tendon FDP et du paquet vasculo-nerveux collatéral radial de l'index droit, DFP de 12 % avec incidence professionnelle majeure, SE de 4/7, et consolidation à 12 mois. L'expert évalue le préjudice extra-patrimonial global à environ 49 231 €.
+
+Considérant qu'il appartiendra à l'expert commis dans le cadre de l'information judiciaire, ou à l'Unité Médico-Judiciaire (UMJ), de fixer l'ITT pénale au sens du Code pénal ; que le rapport d'expertise médicale déposé le 12 juin 2027 constitue un indice sérieux quant à la durée de l'incapacité fonctionnelle réelle et à la gravité des séquelles, sans pour autant lier le juge pénal sur le quantum de l'ITT au sens des articles 222-19 et suivants.
 
 L'enquête préliminaire se heurte actuellement à l'obstruction manifeste de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, qui refusent de communiquer les attestations d'assurance de responsabilité civile professionnelle de l'établissement, paralysant l'indemnisation de la victime via l'action directe prévue par l'article L. 124-3 du Code des assurances.
 
@@ -136,19 +146,27 @@ L'ouverture d'une information judiciaire avec l'intervention d'un juge d'instruc
 
 Par ces motifs,
 
-Vu les articles 222-20, 223-1, 121-2 et 121-3 du Code pénal ;
+Vu les articles 222-19, 222-20, 223-1, 121-2 et 121-3 du Code pénal ;
 Vu les articles 80 et suivants du Code de procédure pénale ;
 Vu la plainte et la [constitution de partie civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) ;
+Vu le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 (consolidation 01/03/2027, DFP 12 %, SE 4/7) ;
 
 Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 
-**OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), du chef de :
+**OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), des chefs de :
 
-- Blessures involontaires avec incapacité n'excédant pas trois mois par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement (Art. 222-20 C. pénal) ;
+- **Blessures involontaires** (Art. 222-19 ou subsidiairement 222-20 C. pénal) — ITT > 3 mois en considération de la consolidation à 12 mois et du DFP de 12 %, ou à tout le moins ITT ≤ 3 mois par violation manifestement délibérée ;
+- **Mise en danger de la vie d'autrui** (Art. 223-1 C. pénal) — violation délibérée des obligations de sécurité d'un ERP (vasque cassée non sécurisée) ;
+- **Défaut d'assurance de responsabilité civile professionnelle** (Art. L. 211-1, L. 241-1 C. assur. — à vérifier par l'instruction) ;
 
-- Mise en danger de la vie d'autrui (Art. 223-1 C. pénal) ;
+Et de tous autres chefs qui viendraient à être révélés par l'instruction.
 
-- Et de tous autres chefs qui viendraient à être révélés par l'instruction.
+**ORDONNER** les actes d'instruction suivants :
+- Audition des dirigeants de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sur les conditions d'entretien des locaux et l'existence d'une assurance RC ;
+- Audition de [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) en qualité de témoin ;
+- Saisie des enregistrements vidéo de surveillance (sous séquestre par [ordonnance sur requête Art. 145 CPC](J%2B54%20%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md) du **[J+54]**) ;
+- Réquisitions auprès des organismes d'assurance pour identifier le ou les assureurs RC en vigueur au jour du sinistre ;
+- Désignation d'un expert médical (ou à défaut, verser au dossier l'expertise amiable déjà réalisée).
 
 **DÉCERNER** tous mandats qu'il appartiendra.
 
@@ -171,8 +189,26 @@ Concernant les sanctions encourues, la requalification délictuelles (Art. 222-2
 > [Article 131-27 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887) <br>
 > **Code pénal > Sous-section 5 : Du contenu et des modalités d'application de certaines peines.[^8]**
 
-Les chances d'aboutissement de la présente procédure d'information sont jugées **fortes**, compte tenu de l'existence de blessures objectivées (ITT > 8 jours), de la matérialité de l'accident (PV de police) et de la carence caractérisée en matière de sécurité (vasque cassée non signalée) au sein d'un ERP.
+Les chances d'aboutissement de la présente procédure d'information sont jugées **fortes**, compte tenu de l'existence de blessures objectivées par l'expertise médicale (DFP 12 %, SE 4/7, consolidation à 12 mois), de la matérialité de l'accident (PV de police), et de la carence caractérisée en matière de sécurité (vasque cassée non signalée) au sein d'un ERP. L'expertise médicale a également évalué le préjudice extra-patrimonial à environ 49 231 €, fourchette basse d'une estimation globale de 120 000 à 160 000 € incluant les postes patrimoniaux (PGPF, DSA, incidence professionnelle).
 <hr><hr>
+
+---
+
+### NOTE MÉTHODOLOGIQUE
+
+Ce réquisitoire introductif est une **simulation** à vocation pédagogique et stratégique, s'inscrivant dans la continuité de la [Constitution de Partie Civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (J+38) et du [Rapport d'Expertise Médicale](../../Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) (déposé le 12 juin 2027).
+
+**Scénarios de qualification :**
+- *Scénario A (prudent)* — ITT pénale limitée au certificat initial (56 jours ≤ 3 mois) → Art. 222-20 CP (délit)
+- *Scénario B (offensif)* — ITT pénale étendue à la période d'incapacité fonctionnelle totale (12 mois > 3 mois) → Art. 222-19 CP (délit aggravé)
+
+Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19 comme qualification alternative à vérifier par l'instruction. L'articulation avec la jurisprudence SATI (Cass. com. 20 mai 2003) est maintenue pour la responsabilité personnelle des dirigeants in solidum.
+
+**Documents liés :**
+- Constitution de Partie Civile consolidée : [`J+38 🛡️ Constitution Partie Civile.md`](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
+- Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
+- Ordonnance Art. 145 CPC (vidéos) : [`J+54 ⚖️ Ordonnance sur Requete Art. 145 CPC.md`](J%2B54%20%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md)
+- Ordonnance de référé provision : [`J+63 ⚖️ Projet Ordonnance Refere.md`](J+63%20%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)
 
 ## Sources Législation
 
