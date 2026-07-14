@@ -39,6 +39,7 @@ graph TD
 - **TODO.md** - Liste des tâches et roadmap
 - **WORKFLOW.md** - Processus et workflows du projet
 
+- **[CARNET_RDV_UTILISATEUR](CARNET_RDV_UTILISATEUR.md)**
 - **[GESTIONNAIRE_DOC](GESTIONNAIRE_DOC.md)**
 - **[📆 Mini Calendrier Procedure](%F0%9F%93%86%20Mini%20Calendrier%20Procedure.md)**
 - **[📋 Fiche Suivi Démarches Administratives](%F0%9F%93%8B%20Fiche%20Suivi%20D%C3%A9marches%20Administratives.md)**
