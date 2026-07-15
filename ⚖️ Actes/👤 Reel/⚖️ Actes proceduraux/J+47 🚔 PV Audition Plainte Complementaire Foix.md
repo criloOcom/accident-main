@@ -88,5 +88,3 @@ Dont acte, clôturé par nous, [Nom de l'OPJ de permanence], OPJ, et signé avec
 **L'Officier de Police Judiciaire,**
 *[Signature]*
 [Nom de l'OPJ de permanence]
-
-<hr><hr>
