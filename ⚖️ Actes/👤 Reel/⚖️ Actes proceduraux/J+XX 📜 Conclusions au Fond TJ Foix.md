@@ -23,7 +23,6 @@ jx: J+368
 <!-- /Breadcrumb -->
 
 # CONCLUSIONS AU FOND
-
 ## POUR :
 
 [Sébastien GRAZIDE](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
@@ -32,6 +31,7 @@ Née le [**[Date de Naissance de la Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%
 Ayant droit à l'aide juridictionnelle
 
 **Partie demanderesse**
+<hr><hr>
 
 ## CONTRE :
 
@@ -41,7 +41,6 @@ SIRET : [**[SIRET]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#siret)
 Assureur RC : [**[L'Assureur RC]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md)
 
 **Partie défenderesse**
-
 <hr><hr>
 
 ## I — PROCÉDURE ET RECEVABILITÉ
@@ -368,13 +367,12 @@ Vu les pièces versées aux débats,
 
 **Sous toutes réserves** de la demanderesse quant à l'évaluation définitive du poste PGPF (fourchette 50 000 – 70 000 €), sur présentation des justificatifs comptables complémentaires.
 
-<hr>
+<hr><hr>
 
 **FAIT À [Foix](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), LE [**[Date Dépôt Conclusions]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)**
 
 **[Sébastien GRAZIDE](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 *(partie demanderesse, non assistée d'avocat — article 827 CPC)*
-
 <hr><hr>
 
 ## BORDEREAU DES PIÈCES COMMUNIQUÉES
@@ -392,5 +390,5 @@ Vu les pièces versées aux débats,
 | 9 | Attestation de dépôt CPAM n° [31727387](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#cpam) |
 | 10 | Réquisitoire introductif du Parquet de Foix (J+47) |
 
-<hr>
+<hr><hr>
 <sup>*Document à jour au [**[Date Dépôt Conclusions]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) — Simulation à vocation pédagogique.*</sup>

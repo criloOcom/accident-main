@@ -276,7 +276,7 @@ Fait a **[La Ville de Residence de la Victime]**, le [**[J+38 Constitution PC]**
 [^9]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
 [^10]: [Article 475-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) ↩
 
----
+<hr><hr>
 
 ### NOTE MÉTHODOLOGIQUE
 

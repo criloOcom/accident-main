@@ -37,9 +37,6 @@ jx: J+47
 
 **OPJ Rédacteur :** [Nom de l'OPJ de permanence], Officier de Police Judiciaire
 **Lieu :** Commissariat de [Foix], [**[Adresse du Commissariat]**]
-
-<hr><hr>
-
 ## I — IDENTIFICATION DU DÉCLARANT
 
 S'est présenté(e) spontanément à nos services ce jour, le 15 juillet 2026 à 14h30 :
@@ -50,7 +47,6 @@ Profession : Informaticien indépendant (SIREN : [500 474 457]).
 Contact : [06 30 51 67 75] / [sebastien.grazide@gmail.com].
 
 Lequel, après avoir été informé de ses droits conformément à l'article 10-2 du Code de procédure pénale, nous déclare vouloir déposer une plainte complémentaire à sa plainte initiale déposée le 02/06/2026 (référence PV n°2026/015967) à l'encontre de la société [SAS LES MAUVAIS GARCONS] et de ses dirigeants.
-
 <hr><hr>
 
 ## II — DÉCLARATIONS DU PLAIGNANT
@@ -68,7 +64,6 @@ Je vous remets aujourd'hui un document écrit complet, intitulé "PLAINTE COMPL�
 Je joins également à cette plainte écrite toutes les pièces justificatives, notamment la copie de mes lettres recommandées revenues NPAI, la note d'audit prouvant l'immatriculation active de la société, et le récépissé du dépôt de ma requête en référé (Article 145 CPC) que j'ai déposée ce matin même au Tribunal de Foix pour exiger la communication de l'assurance et la conservation des vidéos.
 
 Je vous demande solennellement d'acter ma plainte complémentaire et, dans la mesure du possible au vu de l'urgence concernant la vidéosurveillance, d'initier de premières constatations sur place. »
-
 <hr><hr>
 
 ## III — CLÔTURE ET REMISE DE PIÈCES

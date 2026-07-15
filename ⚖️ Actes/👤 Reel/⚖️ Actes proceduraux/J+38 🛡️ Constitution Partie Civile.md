@@ -276,7 +276,7 @@ Fait a Blagnac, le [6 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%
 [^9]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 [^10]: [Article 475-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107)
 
----
+<hr><hr>
 
 ### NOTE MÉTHODOLOGIQUE
 
