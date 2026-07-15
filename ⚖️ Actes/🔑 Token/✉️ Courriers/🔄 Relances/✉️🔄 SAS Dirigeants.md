@@ -146,7 +146,7 @@ je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président,
 
 ### Annexe 2 : Responsabilité personnelle des dirigeants de SAS
 
-La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l'égard des tiers pour faute détachable de leurs fonctions, caractérisée par un manquement délibéré d'une particulière gravité (renvois des articles L. 227-1, L. 227-8 et L. 225-251 du Code de commerce).
+La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l'égard des tiers pour faute détachable de leurs fonctions, caractérisée par un manquement délibéré d'une particulière gravité (renvois des articles L. 227-1 et L. 227-8 du Code de commerce).
 **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092 (arrêt SATI)** :
 > *« La faute du dirigeant social, même lorsqu'elle est commise dans l'exercice de ses fonctions, est séparable de celles-ci lorsqu'elle constitue un manquement délibéré à ses obligations et engage sa responsabilité personnelle. »* <br>
 <hr><hr>

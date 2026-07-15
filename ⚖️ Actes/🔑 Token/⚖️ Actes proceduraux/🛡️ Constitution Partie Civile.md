@@ -201,7 +201,7 @@ Vu les articles 222-19 et 222-20 du Code penal (ce dernier confirme en vigueur d
 Vu les articles 1240 et 1242 du Code civil,
 Vu les articles R. 4323-58 et suivants du Code du travail,
 Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
-Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
+Vu l'article L. 227-8 du Code de commerce,
 Vu l'article L. 124-3 du Code des assurances,
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
