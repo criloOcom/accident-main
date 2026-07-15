@@ -88,7 +88,7 @@ Le courrier rappelle le parcours médical complet : chirurgie d'urgence le J+1 (
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️ Suivi Adjoint Maire Tavella.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%20Suivi%20Adjoint%20Maire%20Tavella.md) (08) |
+| **Fichier** | [`✉️🔄 Adjoint Maire Tavella.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Adjoint%20Maire%20Tavella.md) (08) |
 | **Destinataire** | [L'Adjoint au Maire de la Commune] |
 | **Mode** | LRAR + email complémentaire |
 | **Ton** | Chaleureux, reconnaissant, courtois |
@@ -336,7 +336,7 @@ Courrier très court (1 page) qui informe le SIE de l'existence du litige (monta
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`🔄 Relance Police Videos.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20Relance%20Police%20Videos.md) (20) |
+| **Fichier** | [`🔄 Police Videos.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20Police%20Videos.md) (20) |
 | **Destinataire** | Police Nationale — Commissariat de [La Ville de l'Accident] |
 | **Mode** | Email (simple) |
 | **Ton** | Formel, procédural |
@@ -361,7 +361,7 @@ Relance suite au dépôt de plainte du 01/06 et à la constitution de partie civ
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`🔄 Relance CPAM.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20Relance%20CPAM.md) (21) |
+| **Fichier** | [`🔄 CPAM.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20CPAM.md) (21) |
 | **Destinataire** | CPAM Haute-Garonne |
 | **Mode** | Email (simple) |
 | **Ton** | Formel, procédural |

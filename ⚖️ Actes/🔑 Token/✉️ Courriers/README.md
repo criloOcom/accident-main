@@ -40,28 +40,28 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 - [📜 Mises en demeure/✉️📜 SAS President.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20President.md) — LRAR
 - [📜 Mises en demeure/✉️📜 Proprietaire.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Proprietaire.md) — AR signé
 - [📜 Mises en demeure/✉️📜 SAS.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md) — LRAR
-- [⚖️ Contentieux/✉️ Saisine Doyen Juges Instruction.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%20Saisine%20Doyen%20Juges%20Instruction.md) — Déposé en mains propres
-- [🔄 Relances/✉️ Relance Dirigeants.md](🔄%20Relances/%E2%9C%89%EF%B8%8F%20Relance%20Dirigeants.md) — LRAR
+- [⚖️ Contentieux/✉️⚖️ Doyen Juges Instruction Saisine.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20Doyen%20Juges%20Instruction%20Saisine.md) — Déposé en mains propres
+- [🔄 Relances/✉️🔄 SAS Dirigeants.md](🔄%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20SAS%20Dirigeants.md) — LRAR
 
 ### 🟠 Prêts pour envoi
 - [🚨 Signalements/](🚨%20Signalements/) — 8 signalements (J+37)
 - [📜 Mises en demeure/✉️📜 Maire Foix.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Maire%20Foix.md)
-- [⚖️ Contentieux/✉️ Transmission Recours Tiers CPAM.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%20Transmission%20Recours%20Tiers%20CPAM.md)
-- [⚖️ Contentieux/✉️ Opposition Radiation TC.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%20Opposition%20Radiation%20TC.md)
-- [⚖️ Contentieux/✉️ Preuves Complementaires TJ Foix.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%20Preuves%20Complementaires%20TJ%20Foix.md)
-- [📝 Procédure/✉️ Consultation Avocat Jimini.md](📝%20Procédure/%E2%9C%89%EF%B8%8F%20Consultation%20Avocat%20Jimini.md)
-- [📝 Procédure/📋 Guide Demande AJ.md](📝%20Procédure/%F0%9F%93%8B%20Guide%20Demande%20AJ.md)
+- [⚖️ Contentieux/✉️⚖️ CPAM Recours Tiers.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20CPAM%20Recours%20Tiers.md)
+- [⚖️ Contentieux/✉️⚖️ TC Opposition Radiation.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20TC%20Opposition%20Radiation.md)
+- [⚖️ Contentieux/✉️⚖️ TJ Foix Preuves Complementaires.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20TJ%20Foix%20Preuves%20Complementaires.md)
+- [📝 Procédure/✉️📝 Avocat Consultation Jimini.md](📝%20Procédure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20Avocat%20Consultation%20Jimini.md)
+- [📝 Procédure/📝 Guide Demande AJ.md](📝%20Procédure/%F0%9F%93%9D%20Guide%20Demande%20AJ.md)
 
 ### 🟡 En préparation / Brouillons
 - [📜 Mises en demeure/✉️📜 SAS Assureur.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur.md)
 - [📋s/](📋%20Attestations/) — 3 gabarits CERFA + 3 emails transmission
-- [⚖️ Contentieux/✉️ Saisine FGTI.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%20Saisine%20FGTI.md)
-- [⚖️ Contentieux/✉️ Opposition Immatriculation INPI.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%20Opposition%20Immatriculation%20INPI.md)
-- [⚖️ Contentieux/📜 Plainte Complementaire.md](⚖️%20Contentieux/%F0%9F%93%9C%20Plainte%20Complementaire.md)
+- [⚖️ Contentieux/✉️⚖️ FGTI Saisine.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20FGTI%20Saisine.md)
+- [⚖️ Contentieux/✉️⚖️ INPI Opposition Immatriculation.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20INPI%20Opposition%20Immatriculation.md)
+- [⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20Commissariat%20Foix%20Plainte%20Complementaire.md)
 - [📝 Procédure/](📝%20Procédure/) — CADA, mutualisation fiscale, email Maire
 - [📋 Personnel/](📋%20Personnel/) — checklists et guides internes
 - [🔁 Relances/](🔄%20Relances/) — relances en préparation
-- [🗄️ Archivé/✉️ Requete Constat Huissier.md](🗄️%20Archivé/%E2%9C%89%EF%B8%8F%20Requete%20Constat%20Huissier.md)
+- [🗄️ Archivé/🗄️ Requete Constat Huissier.md](🗄️%20Archivé/%F0%9F%97%84%EF%B8%8F%20Requete%20Constat%20Huissier.md)
 
 ---
 
@@ -80,9 +80,9 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 
 ### J+37 — Relances & signalements
 - [✉️🔄 Consolidation.md](🔄%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Consolidation.md)
-- [✉️ Suivi Adjoint Maire Tavella.md](🔄%20Relances/%E2%9C%89%EF%B8%8F%20Suivi%20Adjoint%20Maire%20Tavella.md)
-- [🔄 Relance CPAM.md](🔄%20Relances/%F0%9F%94%84%20Relance%20CPAM.md)
-- [🔄 Relance Police Videos.md](🔄%20Relances/%F0%9F%94%84%20Relance%20Police%20Videos.md)
+- [✉️🔄 Adjoint Maire Tavella.md](🔄%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Adjoint%20Maire%20Tavella.md)
+- [🔄 CPAM.md](🔄%20Relances/%F0%9F%94%84%20CPAM.md)
+- [🔄 Police Videos.md](🔄%20Relances/%F0%9F%94%84%20Police%20Videos.md)
 - [✉️🚨 CODAF.md](🚨%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20CODAF.md)
 - [✉️🚨 URSSAF.md](🚨%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20URSSAF.md)
 - [✉️🚨 SIE.md](🚨%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SIE.md)
@@ -93,33 +93,33 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 - [✉️🚨 SDIS.md](🚨%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SDIS.md)
 
 ### J+38 — Saisines, attestations & relances
-- [✉️ Saisine Doyen Juges Instruction.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%20Saisine%20Doyen%20Juges%20Instruction.md)
-- [✉️ Saisine FGTI.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%20Saisine%20FGTI.md)
-- [✉️ Transmission Recours Tiers CPAM.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%20Transmission%20Recours%20Tiers%20CPAM.md)
+- [✉️⚖️ Doyen Juges Instruction Saisine.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20Doyen%20Juges%20Instruction%20Saisine.md)
+- [✉️⚖️ FGTI Saisine.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20FGTI%20Saisine.md)
+- [✉️⚖️ CPAM Recours Tiers.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20CPAM%20Recours%20Tiers.md)
 - [📋 Employe 📧Mail.md](📋%20Attestations/%F0%9F%93%8B%20Employe%20%F0%9F%93%A7Mail.md)
 - [📋 Pompier SAMU 📧Mail.md](📋%20Attestations/%F0%9F%93%8B%20Pompier%20SAMU%20%F0%9F%93%A7Mail.md)
 - [📋 Temoin Client 📧Mail.md](📋%20Attestations/%F0%9F%93%8B%20Temoin%20Client%20%F0%9F%93%A7Mail.md)
 - [🔄 DrDJERBI Consolidation ✉️Mail.md](🔄%20Relances/%F0%9F%94%84%20DrDJERBI%20Consolidation%20%E2%9C%89%EF%B8%8FMail.md)
 
 ### J+40 à J+47 — Foix & suites
-- [✉️ Relance Dirigeants.md](🔄%20Relances/%E2%9C%89%EF%B8%8F%20Relance%20Dirigeants.md)
+- [✉️🔄 SAS Dirigeants.md](🔄%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20SAS%20Dirigeants.md)
 - [✉️📜 Maire Foix.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Maire%20Foix.md)
-- [✉️ Mutualisation Fiscale Sociale.md](📝%20Procédure/%E2%9C%89%EF%B8%8F%20Mutualisation%20Fiscale%20Sociale.md)
-- [✉️ Opposition Immatriculation INPI.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%20Opposition%20Immatriculation%20INPI.md)
-- [✉️ Opposition Radiation TC.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%20Opposition%20Radiation%20TC.md)
-- [✉️ Requete Constat Huissier.md](🗄️%20Archivé/%E2%9C%89%EF%B8%8F%20Requete%20Constat%20Huissier.md) *(archivé)*
-- [✉️ Email Maire Tavella ERP.md](📝%20Procédure/%E2%9C%89%EF%B8%8F%20Email%20Maire%20Tavella%20ERP.md)
-- [✉️ Preuves Complementaires TJ Foix.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%20Preuves%20Complementaires%20TJ%20Foix.md)
-- [✅ Checklist Deplacement Foix.md](📋%20Personnel/%E2%9C%85%20Checklist%20Deplacement%20Foix.md)
-- [✉️ Consultation Avocat Jimini.md](📝%20Procédure/%E2%9C%89%EF%B8%8F%20Consultation%20Avocat%20Jimini.md)
-- [✉️ CADA Saisine Modele.md](📝%20Procédure/%E2%9C%89%EF%B8%8F%20CADA%20Saisine%20Modele.md)
-- [✉️ Relance Inspection Travail.md](🔄%20Relances/%E2%9C%89%EF%B8%8F%20Relance%20Inspection%20Travail.md)
-- [✉️ Relance Prefecture CODAF.md](🔄%20Relances/%E2%9C%89%EF%B8%8F%20Relance%20Prefecture%20CODAF.md)
-- [✉️ CADA Saisine Formulaire.md](📝%20Procédure/%E2%9C%89%EF%B8%8F%20CADA%20Saisine%20Formulaire.md)
+- [✉️📝 SIE URSSAF Mutualisation.md](📝%20Procédure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20SIE%20URSSAF%20Mutualisation.md)
+- [✉️⚖️ INPI Opposition Immatriculation.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20INPI%20Opposition%20Immatriculation.md)
+- [✉️⚖️ TC Opposition Radiation.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20TC%20Opposition%20Radiation.md)
+- [🗄️ Requete Constat Huissier.md](🗄️%20Archivé/%F0%9F%97%84%EF%B8%8F%20Requete%20Constat%20Huissier.md) *(archivé)*
+- [✉️📝 Mairie Tavella ERP.md](📝%20Procédure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20Mairie%20Tavella%20ERP.md)
+- [✉️⚖️ TJ Foix Preuves Complementaires.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20TJ%20Foix%20Preuves%20Complementaires.md)
+- [📋 Checklist Deplacement Foix.md](📋%20Personnel/%F0%9F%93%8B%20Checklist%20Deplacement%20Foix.md)
+- [✉️📝 Avocat Consultation Jimini.md](📝%20Procédure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20Avocat%20Consultation%20Jimini.md)
+- [✉️📝 CADA Saisine Modele.md](📝%20Procédure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20CADA%20Saisine%20Modele.md)
+- [✉️🔄 Inspection Travail.md](🔄%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Inspection%20Travail.md)
+- [✉️🔄 Préfecture CODAF.md](🔄%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Pr%C3%A9fecture%20CODAF.md)
+- [✉️📝 CADA Saisine Formulaire.md](📝%20Procédure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20CADA%20Saisine%20Formulaire.md)
 - [📋 Antiseche Orale Plainte.md](📋%20Personnel/%F0%9F%93%8B%20Antiseche%20Orale%20Plainte.md)
-- [📋 Guide Demande AJ.md](📝%20Procédure/%F0%9F%93%8B%20Guide%20Demande%20AJ.md)
+- [📝 Guide Demande AJ.md](📝%20Procédure/%F0%9F%93%9D%20Guide%20Demande%20AJ.md)
 - [📋 Guide Dialogue Police.md](📋%20Personnel/%F0%9F%93%8B%20Guide%20Dialogue%20Police.md)
-- [📜 Plainte Complementaire.md](⚖️%20Contentieux/%F0%9F%93%9C%20Plainte%20Complementaire.md)
+- [✉️⚖️ Commissariat Foix Plainte Complementaire.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20Commissariat%20Foix%20Plainte%20Complementaire.md)
 
 ### J+50 — Mises en demeure Assureur RC
 - [✉️📜 SAS Assureur RC.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC.md)

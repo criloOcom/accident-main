@@ -145,16 +145,16 @@ tags:
 
 | Fichier | Raison |
 |---------|--------|
-| `🔄 Relance CPAM.md` | `[Adresse à compléter]` |
-| `🔄 Relance Police Videos.md` | `[Adresse à compléter]` |
+| `🔄 CPAM.md` | `[Adresse à compléter]` |
+| `🔄 Police Videos.md` | `[Adresse à compléter]` |
 | `✉️🔄 Consolidation.md` | `[Adresse à compléter]` |
-| `✉️ Relance Inspection Travail.md` | `[Date d'envoi — À compléter]` |
-| `✉️ Relance Prefecture CODAF.md` | `[Date d'envoi — À compléter]` |
+| `✉️🔄 Inspection Travail.md` | `[Date d'envoi — À compléter]` |
+| `✉️🔄 Préfecture CODAF.md` | `[Date d'envoi — À compléter]` |
 | `✉️🚨 INPI.md` | `[Adresse à compléter]` |
 | `✉️🚨 Prefecture.md` | `[Adresse à compléter]` |
 | `✉️🚨 SDIS.md` | `[Adresse à compléter]` |
 | `✉️🚨 SIE.md` | `[Adresse à compléter]` |
-| `✉️ Transmission Recours Tiers CPAM.md` | `[Adresse à compléter]` |
+| `✉️⚖️ CPAM Recours Tiers.md` | `[Adresse à compléter]` |
 | `⚡ ActionDirecte AssureurRC.md` | `[Adresse à compléter]` |
 
 ### 3.4 `drive_id` manquants (4 fichiers avec `source: drive`)

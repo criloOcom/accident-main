@@ -47,27 +47,27 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 74.
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 77.
 
-#### Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation Avocat Jimini.md`
+#### Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️📝 Avocat Consultation Jimini.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 47.
 
-#### Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA Saisine Modele.md`
+#### Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️📝 CADA Saisine Modele.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 105.
 
-#### Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA Saisine Formulaire.md`
+#### Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️📝 CADA Saisine Formulaire.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 49.
 
-#### Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance Dirigeants.md`
+#### Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 SAS Dirigeants.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 146.
 
-#### Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance Inspection Travail.md`
+#### Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Inspection Travail.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 61.
 
-#### Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance Prefecture CODAF.md`
+#### Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Préfecture CODAF.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 3.
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 60.

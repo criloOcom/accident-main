@@ -36,15 +36,15 @@ Aucune fuite de PII (identités réelles du `TOKEN MAP.md`) n'a été détectée
 
 L'expression "suite à" est une faute de français (calque administratif). Elle doit être remplacée par "à la suite de".
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance Inspection Travail.md` — ligne 3
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Inspection Travail.md` — ligne 3
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md` — ligne 32
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️🚨 Inspection Travail.md` — ligne 144
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️🚨 Conseil Departemental.md` — ligne 50
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️🚨 CODAF.md` — ligne 125
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/📜 Plainte Complementaire.md` — ligne 224
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Email Maire Tavella ERP.md` — lignes 23, 43
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md` — ligne 224
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️📝 Mairie Tavella ERP.md` — lignes 23, 43
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️📜 Maire Foix.md` — ligne 67
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✅ Checklist Deplacement Foix.md` — lignes 402, 565
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/📋 Checklist Deplacement Foix.md` — lignes 402, 565
 - [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/❓ FAQ Juridique.md` — lignes 59, 104
 - [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note qualification penale disparition SAS.md` — ligne 76
 - [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md` — ligne 26

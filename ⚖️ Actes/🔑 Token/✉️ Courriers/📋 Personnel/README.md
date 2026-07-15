@@ -15,6 +15,6 @@ Documents d'usage interne : checklists, antisèches, guides de préparation aux 
 
 | Fichier | Usage |
 |---------|-------|
-| [✅ Checklist Deplacement Foix.md](%E2%9C%85%20Checklist%20Deplacement%20Foix.md) | Checklist préparation déplacement TJ Foix |
+| [📋 Checklist Deplacement Foix.md](%F0%9F%93%8B%20Checklist%20Deplacement%20Foix.md) | Checklist préparation déplacement TJ Foix |
 | [📋 Antiseche Orale Plainte.md](%F0%9F%93%8B%20Antiseche%20Orale%20Plainte.md) | Antisèche pour l'audition orale |
 | [📋 Guide Dialogue Police.md](%F0%9F%93%8B%20Guide%20Dialogue%20Police.md) | Guide pour le dialogue avec la Police |

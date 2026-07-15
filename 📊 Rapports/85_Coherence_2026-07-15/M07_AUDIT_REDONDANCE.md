@@ -29,7 +29,7 @@ L'évaluation des préjudices a évolué à plusieurs reprises, entraînant des 
   * `⚖️ Actes/🔑 Token/🗄️ Archives/🔧 ANALYSE correction juridique.md`
   * `⚖️ Actes/🔑 Token/🗄️ Archives/📚 ANALYSE Jurisprudence.md`
   * `🧠 Memory/STATUS.md` et `🧠 Memory/TODO.md` y font également référence.
-* **Contradiction 2 (Évaluation Intermédiaire 109 500 €)** : Cette valeur obsolète persiste dans `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md` (ligne 88) ("s'élève à ~109 500 €") et dans `🧠 Memory/STRICT VARIABLES.md` sous la variable `MONTANT_TOTAL_ESTIME` (ligne 72, notée SUPERSEDED).
+* **Contradiction 2 (Évaluation Intermédiaire 109 500 €)** : Cette valeur obsolète persiste dans `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ FGTI Saisine.md` (ligne 88) ("s'élève à ~109 500 €") et dans `🧠 Memory/STRICT VARIABLES.md` sous la variable `MONTANT_TOTAL_ESTIME` (ligne 72, notée SUPERSEDED).
 * **Contradiction 3 (Évaluation 126 000 € - 161 500 €)** : Plusieurs actes de Référé Provision utilisent un rapport Dintilhac intermédiaire du 13/07/2026 :
   * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md` (ligne 229)
   * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🎯 Conclusions Refere Provision.md` (ligne 153)
@@ -59,6 +59,6 @@ L'audit des tokens via le script a révélé 60 tokens formellement définis dan
 
 - [ ] **[CRITIQUE]** Mettre à jour les assignations de référé (`J+32`, `J+39`, `J+63`) pour qu'elles reflètent l'estimation canonique `120 000 - 160 000 €` au lieu de `126 000 - 161 500 €` (Avis du 13/07/2026).
 - [ ] **[MAJEUR]** Retirer les mentions de l'ancienne évaluation à 59 600 € dans `STATUS.md`, `TODO.md` et dans les documents du dossier `🗄️ Archives/` (ou insérer une note d'obsolescence en en-tête des archives).
-- [ ] **[MAJEUR]** Aligner l'estimation de la Saisine FGTI (`✉️ Saisine FGTI.md`) sur le montant canonique.
+- [ ] **[MAJEUR]** Aligner l'estimation de la Saisine FGTI (`✉️⚖️ FGTI Saisine.md`) sur le montant canonique.
 - [ ] **[MINEUR]** Purger les doublons de calendrier entre `TODO.md` et `STATUS.md`.
 - [ ] **[INFO]** Supprimer ou remplacer les références textuelles de type "Pièce n°X" dans les rapports plus anciens pour suivre la nomenclature en triplet.

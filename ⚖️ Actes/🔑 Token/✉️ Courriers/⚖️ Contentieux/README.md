@@ -15,13 +15,13 @@ Actes judiciaires et contentieux : saisines, oppositions, transmissions de pièc
 
 | Fichier | Destinataire | Statut |
 |---------|-------------|--------|
-| [✉️ Saisine Doyen Juges Instruction.md](%E2%9C%89%EF%B8%8F%20Saisine%20Doyen%20Juges%20Instruction.md) | Doyen des Juges d'Instruction — TJ Foix | 🟢 Expédié |
-| [✉️ Saisine FGTI.md](%E2%9C%89%EF%B8%8F%20Saisine%20FGTI.md) | FGTI | 🟡 Brouillon |
-| [✉️ Transmission Recours Tiers CPAM.md](%E2%9C%89%EF%B8%8F%20Transmission%20Recours%20Tiers%20CPAM.md) | CPAM — Recours Tiers | 🟠 Prêt |
-| [✉️ Opposition Immatriculation INPI.md](%E2%9C%89%EF%B8%8F%20Opposition%20Immatriculation%20INPI.md) | INPI | 🟡 Brouillon |
-| [✉️ Opposition Radiation TC.md](%E2%9C%89%EF%B8%8F%20Opposition%20Radiation%20TC.md) | Tribunal de Commerce | 🟠 Prêt |
-| [✉️ Preuves Complementaires TJ Foix.md](%E2%9C%89%EF%B8%8F%20Preuves%20Complementaires%20TJ%20Foix.md) | TJ Foix | 🟠 Prêt |
-| [📜 Plainte Complementaire.md](%F0%9F%93%9C%20Plainte%20Complementaire.md) | Police / Justice | 🟡 Brouillon |
+| [✉️⚖️ Doyen Juges Instruction Saisine.md](%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20Doyen%20Juges%20Instruction%20Saisine.md) | Doyen des Juges d'Instruction — TJ Foix | 🟢 Expédié |
+| [✉️⚖️ FGTI Saisine.md](%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20FGTI%20Saisine.md) | FGTI | 🟡 Brouillon |
+| [✉️⚖️ CPAM Recours Tiers.md](%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20CPAM%20Recours%20Tiers.md) | CPAM — Recours Tiers | 🟠 Prêt |
+| [✉️⚖️ INPI Opposition Immatriculation.md](%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20INPI%20Opposition%20Immatriculation.md) | INPI | 🟡 Brouillon |
+| [✉️⚖️ TC Opposition Radiation.md](%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20TC%20Opposition%20Radiation.md) | Tribunal de Commerce | 🟠 Prêt |
+| [✉️⚖️ TJ Foix Preuves Complementaires.md](%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20TJ%20Foix%20Preuves%20Complementaires.md) | TJ Foix | 🟠 Prêt |
+| [✉️⚖️ Commissariat Foix Plainte Complementaire.md](%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20Commissariat%20Foix%20Plainte%20Complementaire.md) | Police / Justice | 🟡 Brouillon |
 
 **Cas limite** : *Opposition Immatriculation INPI* est adressée à une administration (INPI) mais son objet est contentieux (opposition à radiation) → classée ici par nature d'acte.
 

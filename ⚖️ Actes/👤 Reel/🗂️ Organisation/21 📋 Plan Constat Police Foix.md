@@ -38,7 +38,7 @@ Vous allez envoyer un courriel officiel et circonstancié au Maire de Foix (Cabi
 ### Action 2 : Maintien de la Requête d'Huissier (Art. 145 CPC)
 
 Même si le Maire envoie la police, vous devez maintenir la démarche d'huissier car c'est la seule preuve opposable en droit civil pour votre indemnisation :
-*   **Fichier source** : **[33 ✉️ Requete Constat Huissier 145 CPC.md](../%F0%9F%97%84%EF%B8%8F%20Archives/33%20%E2%9C%89%EF%B8%8F%20Requete%20Constat%20Huissier%20145%20CPC.md)**.
+*   **Fichier source** : **[33 🗄️ Requete Constat Huissier 145 CPC.md](../%F0%9F%97%84%EF%B8%8F%20Archives/33%20%E2%9C%89%EF%B8%8F%20Requete%20Constat%20Huissier%20145%20CPC.md)**.
 
 *   **Action** : Soumettre la requête au Président du TJ de Foix la semaine prochaine lors de votre déplacement.
 <hr><hr>

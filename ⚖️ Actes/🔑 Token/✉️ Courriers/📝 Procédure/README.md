@@ -15,11 +15,11 @@ Démarches connexes à la procédure principale : mutualisation fiscale et socia
 
 | Fichier | Objet |
 |---------|-------|
-| [✉️ Mutualisation Fiscale Sociale.md](%E2%9C%89%EF%B8%8F%20Mutualisation%20Fiscale%20Sociale.md) | Mutualisation des démarches SIE + URSSAF |
-| [✉️ Email Maire Tavella ERP.md](%E2%9C%89%EF%B8%8F%20Email%20Maire%20Tavella%20ERP.md) | Échange avec le Maire sur l'ERP |
-| [✉️ Consultation Avocat Jimini.md](%E2%9C%89%EF%B8%8F%20Consultation%20Avocat%20Jimini.md) | Consultation juridique Avocat Jimini |
-| [✉️ CADA Saisine Modele.md](%E2%9C%89%EF%B8%8F%20CADA%20Saisine%20Modele.md) | Modèle de saisine CADA |
-| [✉️ CADA Saisine Formulaire.md](%E2%9C%89%EF%B8%8F%20CADA%20Saisine%20Formulaire.md) | Formulaire de saisine CADA |
-| [📋 Guide Demande AJ.md](%F0%9F%93%8B%20Guide%20Demande%20AJ.md) | Guide pour la demande d'Aide Juridictionnelle |
+| [✉️📝 SIE URSSAF Mutualisation.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20SIE%20URSSAF%20Mutualisation.md) | Mutualisation des démarches SIE + URSSAF |
+| [✉️📝 Mairie Tavella ERP.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20Mairie%20Tavella%20ERP.md) | Échange avec le Maire sur l'ERP |
+| [✉️📝 Avocat Consultation Jimini.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20Avocat%20Consultation%20Jimini.md) | Consultation juridique Avocat Jimini |
+| [✉️📝 CADA Saisine Modele.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20CADA%20Saisine%20Modele.md) | Modèle de saisine CADA |
+| [✉️📝 CADA Saisine Formulaire.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20CADA%20Saisine%20Formulaire.md) | Formulaire de saisine CADA |
+| [📝 Guide Demande AJ.md](%F0%9F%93%9D%20Guide%20Demande%20AJ.md) | Guide pour la demande d'Aide Juridictionnelle |
 
 **Cas limite** : La *Mutualisation Fiscale Sociale* (J+41) est à cheval entre le contentieux fiscal et la procédure administrative → classée ici comme démarche connexe.

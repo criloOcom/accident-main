@@ -39,7 +39,7 @@ type: rapport
   * Priorité : Haute
   * Statut : En attente
   * Note : En attente BAJ (2-6 sem). Déclenche l'avocat.
-  * Fichier : [Guide AJ](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%F0%9F%93%8B%20Guide%20Demande%20AJ.md)
+  * Fichier : [Guide AJ](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%F0%9F%93%9D%20Guide%20Demande%20AJ.md)
 
 * **Ordonnance Art. 145 CPC** (J+50)
   * Priorité : Haute
@@ -51,7 +51,7 @@ type: rapport
   * Priorité : Haute
   * Statut : À faire
   * Note : Modèles validés par avocat, à envoyer.
-  * Fichier : [Relance CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%20Relance%20Prefecture%20CODAF.md) / [Relance IT](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%20Relance%20Inspection%20Travail.md)
+  * Fichier : [Relance CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Pr%C3%A9fecture%20CODAF.md) / [Relance IT](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Inspection%20Travail.md)
 
 * **Mise en demeure Assureur RC** (J+50)
   * Priorité : Moyenne
@@ -63,13 +63,13 @@ type: rapport
   * Priorité : Moyenne
   * Statut : Relance possible
   * Note : Suivi suite à la réponse du 1er juin.
-  * Fichier : [Suivi Maire](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%20Suivi%20Adjoint%20Maire%20Tavella.md)
+  * Fichier : [Suivi Maire](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Adjoint%20Maire%20Tavella.md)
 
 * **Oppositions TC & INPI** (J+60)
   * Priorité : Moyenne
   * Statut : À faire
   * Note : Bloquer la radiation / immatriculation de la SAS.
-  * Fichier : [Oppositions INPI](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%20Opposition%20Immatriculation%20INPI.md)
+  * Fichier : [Oppositions INPI](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20INPI%20Opposition%20Immatriculation.md)
 
 * **Relance Dr DJERBI** (J+60)
   * Priorité : Moyenne
@@ -101,13 +101,13 @@ type: rapport
   * Priorité : Moyenne
   * Statut : Relance possible
   * Note : Suivi du recours subrogatoire et créance.
-  * Fichier : [Relance CPAM](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20Relance%20CPAM.md)
+  * Fichier : [Relance CPAM](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20CPAM.md)
 
 * **Saisine CADA** (J+110)
   * Priorité : Basse
   * Statut : À faire
   * Note : Si silence de la Préfecture/IT 2 mois post-relance.
-  * Fichier : [Saisine CADA](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%20CADA%20Saisine%20Modele.md)
+  * Fichier : [Saisine CADA](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20CADA%20Saisine%20Modele.md)
 
 ### Octobre 2026
 

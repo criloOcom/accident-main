@@ -56,14 +56,14 @@ Un document ne peut être qualifié de **« ENVOYÉ »** que si une **preuve mat
 | 03 | [Mise en demeure SAS](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md) | LRAR 87001424863012T |
 | 05 | [Mise en demeure bailleur](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Proprietaire.md) | AR signé M. Delrieu |
 | 06 | [Mise en demeure dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20President.md) | LRAR 87001424721856G + 87001424862879J |
-| 06 V2 | [Relance dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%20Relance%20Dirigeants.md) | Dépôt 870014282662911 + facture Z0132713629 |
+| 06 V2 | [Relance dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20SAS%20Dirigeants.md) | Dépôt 870014282662911 + facture Z0132713629 |
 | 10 | [CPC Doyen TJ Foix](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) | Dépôt greffe |
 
 ### 🟠 PRÊTS POUR ENVOI
 
 | N° | Document | Blocage |
 |:--:|----------|---------|
-| 34 | [Email Maire Foix Police ERP](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%20Email%20Maire%20Tavella%20ERP.md) | **🚀 ENVOI PRÉVU DEMAIN 11/07 8H00** |
+| 34 | [Email Maire Foix Police ERP](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20Mairie%20Tavella%20ERP.md) | **🚀 ENVOI PRÉVU DEMAIN 11/07 8H00** |
 
 ### 🟡 PROJETS / BROUILLONS
 
@@ -78,11 +78,11 @@ Un document ne peut être qualifié de **« ENVOYÉ »** que si une **preuve mat
 | 14 | [CODAF signalement](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20CODAF.md) | Aucune preuve d'expédition |
 | 15 | [SIE information litige](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SIE.md) | Aucune preuve d'expédition |
 | 16 | [Conseil Départemental ERP](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Conseil%20Departemental.md) | Aucune preuve d'expédition |
-| 17 | [CPAM recours tiers](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%20Transmission%20Recours%20Tiers%20CPAM.md) | Aucune preuve d'expédition |
+| 17 | [CPAM recours tiers](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20CPAM%20Recours%20Tiers.md) | Aucune preuve d'expédition |
 | 18 | [SDIS sécurité ERP](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SDIS.md) | Aucune preuve d'expédition |
-| 19 | [FGTI saisine conservatoire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%20Saisine%20FGTI.md) | Aucune preuve d'expédition |
-| 20 | [Relance Police](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20Relance%20Police%20Videos.md) | Aucune preuve d'expédition |
-| 21 | [Relance CPAM](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20Relance%20CPAM.md) | Aucune preuve d'expédition |
+| 19 | [FGTI saisine conservatoire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20FGTI%20Saisine.md) | Aucune preuve d'expédition |
+| 20 | [Relance Police](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20Police%20Videos.md) | Aucune preuve d'expédition |
+| 21 | [Relance CPAM](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20CPAM.md) | Aucune preuve d'expédition |
 
 ### 🔴 GABARITS NON TRANSMIS
 

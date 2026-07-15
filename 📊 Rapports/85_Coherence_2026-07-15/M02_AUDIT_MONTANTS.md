@@ -65,15 +65,15 @@ type: rapport
 - [ ] **MEMO_AUDIENCE_31072026.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/MEMO_AUDIENCE_31072026.md:43 — Total Estimatif utilise valeur historique/obsolète: 161500.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## ✉️ Saisine FGTI.md
+## ✉️⚖️ FGTI Saisine.md
 
-- [ ] **✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md:90 — PGPA utilise valeur historique/obsolète: 1900.0 € (canonique: 1380 €) — aligner sur la valeur canonique.
-- [ ] **✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md:92 — DFT utilise valeur historique/obsolète: 1400.0 € (canonique: 2031 €) — aligner sur la valeur canonique.
-- [ ] **✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md:94 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
-- [ ] **✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md:96 — DFP utilise valeur historique/obsolète: 31200.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
-- [ ] **✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md:98 — SE utilise valeur historique/obsolète: 24000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
-- [ ] **✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md:100 — Agrément utilise valeur historique/obsolète: 8000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
-- [ ] **✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md:102 — PEP utilise valeur historique/obsolète: 3000.0 € (canonique: 3500 €) — aligner sur la valeur canonique.
+- [ ] **✉️⚖️ FGTI Saisine.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️⚖️ FGTI Saisine.md:90 — PGPA utilise valeur historique/obsolète: 1900.0 € (canonique: 1380 €) — aligner sur la valeur canonique.
+- [ ] **✉️⚖️ FGTI Saisine.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️⚖️ FGTI Saisine.md:92 — DFT utilise valeur historique/obsolète: 1400.0 € (canonique: 2031 €) — aligner sur la valeur canonique.
+- [ ] **✉️⚖️ FGTI Saisine.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️⚖️ FGTI Saisine.md:94 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
+- [ ] **✉️⚖️ FGTI Saisine.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️⚖️ FGTI Saisine.md:96 — DFP utilise valeur historique/obsolète: 31200.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
+- [ ] **✉️⚖️ FGTI Saisine.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️⚖️ FGTI Saisine.md:98 — SE utilise valeur historique/obsolète: 24000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **✉️⚖️ FGTI Saisine.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️⚖️ FGTI Saisine.md:100 — Agrément utilise valeur historique/obsolète: 8000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
+- [ ] **✉️⚖️ FGTI Saisine.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️⚖️ FGTI Saisine.md:102 — PEP utilise valeur historique/obsolète: 3000.0 € (canonique: 3500 €) — aligner sur la valeur canonique.
 <hr><hr>
 
 ## ✉️📜 SAS Assureur.md
@@ -85,9 +85,9 @@ type: rapport
 - [ ] **✉️📜 SAS Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS Assureur.md:115 — Agrément utilise valeur historique/obsolète: 5000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## ✉️ Mutualisation Fiscale Sociale.md
+## ✉️📝 SIE URSSAF Mutualisation.md
 
-- [ ] **✉️ Mutualisation Fiscale Sociale.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/📝 Procédure/✉️ Mutualisation Fiscale Sociale.md:65 — Total Estimatif différent de la valeur canonique: 105000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **✉️📝 SIE URSSAF Mutualisation.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/📝 Procédure/✉️📝 SIE URSSAF Mutualisation.md:65 — Total Estimatif différent de la valeur canonique: 105000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
 ## ✉️🚨 SIE.md

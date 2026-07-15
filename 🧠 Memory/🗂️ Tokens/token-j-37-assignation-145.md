@@ -46,7 +46,7 @@ Parallèlement, envoi de **12 courriers** :
 ## Documents liés
 
 - [✉️ Relance Consolidation](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Consolidation.md)
-- [✉️ Suivi Adjoint Maire Tavella](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%20Suivi%20Adjoint%20Maire%20Tavella.md)
+- [✉️🔄 Adjoint Maire Tavella](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Adjoint%20Maire%20Tavella.md)
 - [J+37 ✉️ Signalement Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md)
 - [J+37 ✉️ Signalement INPI](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20INPI.md)
 - [J+37 ✉️ Signalement URSSAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20URSSAF.md)
@@ -55,8 +55,8 @@ Parallèlement, envoi de **12 courriers** :
 - [J+37 ✉️ Signalement SIE](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SIE.md)
 - [J+37 ✉️ Signalement Conseil Departemental](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Conseil%20Departemental.md)
 - [J+37 ✉️ Signalement SDIS](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SDIS.md)
-- [🔄 Relance Police Videos](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20Relance%20Police%20Videos.md)
-- [🔄 Relance CPAM](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20Relance%20CPAM.md)
+- [🔄 Police Videos](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20Police%20Videos.md)
+- [🔄 CPAM](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20CPAM.md)
 
 ## Source
 

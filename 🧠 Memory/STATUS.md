@@ -93,7 +93,7 @@ Transformer toutes les mentions textuelles de pièces et de tokens d'anonymisati
 
 ## Phase 20 — Corrections plainte complémentaire suite avocat + antisèche orale (13 juillet 2026) ✅
 
-### Corrections appliquées au [fichier 36 📜](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/%F0%9F%93%9C%20Plainte%20Complementaire.md) (version officielle)
+### Corrections appliquées au [fichier 36 📜](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20Commissariat%20Foix%20Plainte%20Complementaire.md) (version officielle)
 | Correction | Avant | Après |
 |------------|-------|-------|
 | **Infraction principale** | Obstruction à la justice (434-15 CP) | Blessures involontaires (222-20 + 121-3 CP) |
@@ -113,9 +113,9 @@ Transformer toutes les mentions textuelles de pièces et de tokens d'anonymisati
 - **Références corrigées** : 434-15→434-4, 222-19→222-20, ajout 121-3
 
 ### Documents à déposer le 15 juillet Foix
-1. **Matin — Greffe TJ Foix** : [Requête Art. 145 CPC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) (fichier 03) + [demande AJ](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%F0%9F%93%8B%20Guide%20Demande%20AJ.md) (fichier 39)
+1. **Matin — Greffe TJ Foix** : [Requête Art. 145 CPC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) (fichier 03) + [demande AJ](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%F0%9F%93%9D%20Guide%20Demande%20AJ.md) (fichier 39)
 2. **Midi — 22 Rue Lafaurie** : Photos + constat personnel état vasque
-3. **Après-midi — Commissariat** : [Plainte complémentaire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/%F0%9F%93%9C%20Plainte%20Complementaire.md) (fichier 36 📜 imprimé + signé)
+3. **Après-midi — Commissariat** : [Plainte complémentaire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20Commissariat%20Foix%20Plainte%20Complementaire.md) (fichier 36 📜 imprimé + signé)
 
 ---
 

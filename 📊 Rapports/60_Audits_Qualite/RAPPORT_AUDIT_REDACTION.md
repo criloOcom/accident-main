@@ -103,7 +103,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents (voir 1.1). La section "Transparence" (l.87-109) donne l'impression que la victime explique la procédure à la SAS — peut affaiblir la position de force d'une mise en demeure |
 
-### 2.2 10 — Doyen des Juges d'Instruction (`✉️ Courriers/✉️ Saisine Doyen Juges Instruction.md`)
+### 2.2 10 — Doyen des Juges d'Instruction (`✉️ Courriers/✉️⚖️ Doyen Juges Instruction Saisine.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -136,7 +136,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents. "response" (l.105). `Article L.310-1-1-2` — vérifier que ce texte existe (loi 2024-364 du 22 avril 2024) |
 
-### 2.5 19 — Courrier FGTI (`✉️ Courriers/✉️ Saisine FGTI.md`)
+### 2.5 19 — Courrier FGTI (`✉️ Courriers/✉️⚖️ FGTI Saisine.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -147,7 +147,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents. "response". La grille indemnitaire en corps de texte alourdit inutilement le premier contact |
 
-### 2.6 33 — Requête Constat Huissier 145 CPC (`✉️ Courriers/✉️ Requete Constat Huissier.md`)
+### 2.6 33 — Requête Constat Huissier 145 CPC (`✉️ Courriers/🗄️ Requete Constat Huissier.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -159,7 +159,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🔴 l.39 : `**[Adresse du TJ à compléter]**` — token non standard, devrait être uniforme |
 | Problèmes | Accents absents. Absence du formalisme "PAR CES MOTIFS". Token cassé |
 
-### 2.7 34 — Email Maire Foix (`✉️ Courriers/✉️ Email Maire Tavella ERP.md`)
+### 2.7 34 — Email Maire Foix (`✉️ Courriers/✉️📝 Mairie Tavella ERP.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -170,7 +170,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🔴 **Incohérent** — utilise "29 mai 2026" (date réelle, l.22) mais `**[J+0 Accident]**` ailleurs ; utilise "1er juin 2026" (l.24, l.25) au lieu de token |
 | Problèmes | Trop long pour un email. Dates réelles mélangées aux tokens. La demande (CRPA l.29) est noyée dans le récit |
 
-### 2.8 35 — Courrier Président TJ Foix (`✉️ Courriers/✉️ Preuves Complementaires TJ Foix.md`)
+### 2.8 35 — Courrier Président TJ Foix (`✉️ Courriers/✉️⚖️ TJ Foix Preuves Complementaires.md`)
 
 | Critère | Évaluation |
 |---|---|
