@@ -111,3 +111,12 @@ jx: J+32
 - **Fait Générateur :** 1
 
 - **Échéance :** 1
+<hr><hr>
+
+<hr><hr>
+
+## PIECES JOINTES
+
+- **[arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — justifiant 56 jours d'ITT
+
+<hr><hr>
