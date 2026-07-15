@@ -84,6 +84,10 @@ Le préposé du salon est monté sur la vasque en céramique du bac à shampoing
 - **Pièce 16** : [Projet d'assignation en référé-provision et expertise (Art. 835 et 145 CPC)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B63%20%E2%9A%96%EF%B8%8F%20Projet%20Assignation%20Refere%20Provision.md)
 - **Pièce 18** : [Plainte complémentaire pour obstruction (J+47)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B47%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20PV%20Audition%20Plainte%20Complementaire.md)
 
+> **Note** : Les pièces 5, 7, 13, 14, 15 et 17 ne sont pas listées ici — elles sont soit en cours d'acquisition, soit sans objet à ce stade de la procédure. La numérotation sera complétée au fur et à mesure.
+
+> **Note — Liens** : Les pièces marquées d'un lien hypertexte sont disponibles dans le dossier de l'affaire, consultable à l'adresse `github.com/criloOcom/accident-main`.
+
 <hr><hr>
 
 ## V — CONTACTS UTILES
@@ -101,5 +105,17 @@ Le préposé du salon est monté sur la vasque en céramique du bac à shampoing
 
 1. **Validation du périmètre de l'assignation référé** : Confirmez-vous la pertinence d'assigner *in solidum* la SAS et ses dirigeants à titre personnel (sur le fondement de la faute séparable des fonctions - Art. L.227-8 C.com et L.225-251 C.com) compte tenu de l'insolvabilité manifeste (capital 200 €) ?
 2. **Identification formelle de l'assureur** : Doit-on attendre l'exécution de l'ordonnance sur requête (Article 145 CPC) avant de lancer le référé-provision, afin d'y intégrer immédiatement l'assureur RC Pro via l'action directe (Art. L.124-3 C. assur.) ?
-3. **Saisine FGTI/CIVI** : Le dossier pénal suggère des infractions (blessures involontaires, mise en danger). Faut-il anticiper ou écarter formellement la saisine de la CIVI (Article 706-3 CPP) sachant que le statut est "OBSOLÈTE" dans les mémos internes (hors champ d'application) ?
+3. **Saisine CIVI** : Le dossier pénal est ouvert pour blessures involontaires. Faut-il à ce stade envisager une saisine de la CIVI (Article 706-3 CPP), ou l'écarter d'emblée au motif que les conditions d'accès (atteinte à l'intégrité physique résultant d'une infraction, ressources) ne sont en l'espèce pas réunies (victime exerçant une activité professionnelle, préjudice patrimonial avéré) ?
 4. **Administration** : Les courriers à l'Inspection du Travail et à la Préfecture nécessitent-ils un appui par voie d'avocat ou le suivi direct par **[La Victime]** est-il suffisant à ce stade ?
+
+---
+
+### À remplir par l'avocat
+
+| Champ | Réponse |
+|---|---|
+| **Nom de l'avocat** | |
+| **Date de prise en charge** | |
+| **Acceptation de la mission** | ¨ Oui ¨ Non |
+| **Prochain rendez-vous** | Date : Heure : |
+| **Observations** | |
