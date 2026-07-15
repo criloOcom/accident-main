@@ -204,6 +204,16 @@ Fait a [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/toke
 6. Pièce n°6 : Preuve de paiement par virement instantané de 15,00 € (et remboursement ultérieur) témoignant de la présence de la victime sur les lieux
 <hr><hr>
 
+<hr><hr>
+
+## PIECES JOINTES
+
+- **[Certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — du Dr Julie JARDON (SMUR 09) en date du 29 mai 2026
+
+- **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — du Dr Iskander DJERBI (SOS Main) en date du 30 mai 2026
+
+<hr><hr>
+
 ## Sources Législation
 
 [^1]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)

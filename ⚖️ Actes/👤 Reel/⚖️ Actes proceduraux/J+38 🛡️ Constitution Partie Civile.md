@@ -263,6 +263,20 @@ Fait a Blagnac, le [6 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%
 14. **Pièce n°14 :** Rapport d'expertise medicale judiciaire du 12 juin 2027 — consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure
 <hr><hr>
 
+<hr><hr>
+
+## PIECES JOINTES
+
+- **[Certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — de constatation des blessures rédigé par Dr Julie JARDON (29 mai 2026)
+
+- **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — de microchirurgie d'urgence (suture nerveuse et tendineuse) rédigé par Dr Iskander DJERBI (30 mai 2026)
+
+- **[arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — justifiant 56 jours d'Incapacité Totale de Travail (ITT)
+
+- **[Rapport d'expertise médicale](../../Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)** — (déposé le 12 juin 2027)
+
+<hr><hr>
+
 ## Sources Législation
 
 [^1]: [Article 222-19 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
