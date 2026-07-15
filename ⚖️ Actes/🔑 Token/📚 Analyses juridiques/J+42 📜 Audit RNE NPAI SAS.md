@@ -38,7 +38,7 @@ jx: J+42
 | Président | [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) |
 | DG | [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) |
 | Salariés | 0 (zéro) |
-| Établissements | 1 (unique au 22 Rue Lafaurie) |
+| Établissements | 1 (unique au **[L'Adresse de l'Exploitation]**) |
 | Comptes | **En défaut de publication** |
 | Dissolution/Liquidation | **Aucune procédure en cours** |
 
@@ -64,7 +64,7 @@ Dans un local commercial fermé, les LRAR ne trouvent pas preneur.
 
 ### 3. Investigation structure miroir
 
-**Résultat : AUCUNE nouvelle entité légale trouvée au 22 Rue Lafaurie, Foix.** Les recherches n'ont identifié que [L'Exploitant du Commerce (La SAS)] à cette adresse.
+**Résultat : AUCUNE nouvelle entité légale trouvée au **[L'Adresse de l'Exploitation]**, Foix.** Les recherches n'ont identifié que [L'Exploitant du Commerce (La SAS)] à cette adresse.
 
 La rumeur de "réouverture avec nouveaux gérants" peut correspondre à :
 

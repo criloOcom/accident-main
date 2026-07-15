@@ -25,7 +25,7 @@ jx: J+47
 > **Quand utiliser :** Formulaire en ligne CADA (https://www.cada.fr/) — copier-coller les blocs ci-dessous dans les champs correspondants.
 ## Champ « Objet de votre demande / Description »
 
-> Victime d'un accident corporel grave le 29 mai 2026 dans le salon de coiffure *« Les Mauvais Garçons »* (22 rue Lafaurie, 09000 Foix), je sollicite l'avis de la CADA sur la communicabilité, à mon égard, des documents détenus par la Préfecture de l'Ariège et/ou la DDETS (Inspection du travail) concernant ce dossier. <br>
+> Victime d'un accident corporel grave le 29 mai 2026 dans le salon de coiffure *« **[L'Exploitant du Commerce (La SAS)]** »* (**[L'Adresse de l'Exploitation]**), je sollicite l'avis de la CADA sur la communicabilité, à mon égard, des documents détenus par la Préfecture de l'Ariège et/ou la DDETS (Inspection du travail) concernant ce dossier. <br>
 <hr><hr>
 
 ## Champ « Précisions sur les documents demandés »
@@ -46,5 +46,5 @@ jx: J+47
 1. Aller sur https://www.cada.fr/
 2. Cliquer sur « Saisir la CADA » → « Saisine en ligne »
 3. Copier-coller les blocs ci-dessus dans les champs correspondants
-4. Joindre les pièces : courriers n°41, n°42, réponses reçues (si refus exprès), email Tavella, PV police
+4. Joindre les pièces : courriers n°41, n°42, réponses reçues (si refus exprès), email **[L'Adjoint au Maire de la Commune]**, PV police
 5. Valider et conserver le numéro de dossier
