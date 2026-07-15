@@ -376,6 +376,18 @@ Pour [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%2
 - **Pièce n°13 :** LRAR adressée à [Romain DELRIEU](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) et son AR signé ([3 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-35-ar-proprietaire.md))
 <hr><hr>
 
+<hr><hr>
+
+## PIECES JOINTES
+
+- **[Certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatant les blessures, rédigé par Dr Julie JARDON (29 mai 2026)
+
+- **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — De microchirurgie rédigé par Dr Iskander DJERBI (30 mai 2026)
+
+- **[arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — Justifiant 56 jours d'ITT
+
+<hr><hr>
+
 ## Sources Législation
 
 [^1]: [Article 835 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)

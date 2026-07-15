@@ -211,6 +211,14 @@ Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19
 - Ordonnance de référé provision : [`J+63 ⚖️ Projet Ordonnance Refere.md`](J+63%20%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)
 <hr><hr>
 
+<hr><hr>
+
+## PIECES JOINTES
+
+- **[Rapport d'expertise médicale](../../Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)** — déposé le 12 juin 2027
+
+<hr><hr>
+
 ## Sources Législation
 
 [^1]: [Article 222-19 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
