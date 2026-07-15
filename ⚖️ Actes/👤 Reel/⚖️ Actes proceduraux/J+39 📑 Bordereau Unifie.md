@@ -244,6 +244,20 @@ jx: J+39
 - **05/06/2026** — Preuve de dépôt LRAR [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (La Poste, [Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)) : Décalage de date constaté (vignette 03/06, flash postal 05/06).
 <hr><hr>
 
+<hr><hr>
+
+## PIECES JOINTES
+
+- **[Certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — constatant les blessures, rédigé par Dr Julie JARDON (29 mai 2026)
+
+- **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — de microchirurgie d'urgence (suture nerveuse et tendineuse)
+
+- **[arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — justifiant 56 jours d'ITT
+
+- **[dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — n° 31727387 (CPAM)
+
+<hr><hr>
+
 ## Sources Législation
 
 [^1]: [Arrêt n° 91-11.285 — www.legifrance.gouv.fr/juri/id/JURITEXT000007030228](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007030228)
