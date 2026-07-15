@@ -13,12 +13,12 @@ tags:
 statut: brouillon — utilisable si refus Préfecture/IT
 destinataire: Commission d'accès aux documents administratifs (CADA)
 auteur: La Victime
-reel_path: ../../👤 Reel/✉️ Courriers/✉️ Modele Saisine CADA.md
+reel_path: ../../👤 Reel/✉️ Courriers/✉️ CADA Saisine Modele.md
 jx: J+47
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📝 Procédure](./README.md) › ✉️ Modele Saisine CADA*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📝 Procédure](./README.md) › ✉️ CADA Saisine Modele*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -30,11 +30,11 @@ jx: J+47
 
 <hr><hr>
 
-**Expéditeur :** [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) — [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
+**Expéditeur :** [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) — [10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 **Destinataire :** Commission d'accès aux documents administratifs (CADA), 35 rue Saint-Dominique, 75700 Paris 07 SP
 **Date :** [Date d'envoi — À compléter]
 
-**Objet : Saisine de la CADA — Refus de communication de documents administratifs concernant un accident corporel (salon « **[L'Exploitant du Commerce (La SAS)]** », Foix)**
+**Objet : Saisine de la CADA — Refus de communication de documents administratifs concernant un accident corporel (salon « SAS LES MAUVAIS GARCONS », Foix)**
 
 <hr><hr>
 
@@ -43,7 +43,7 @@ Madame, Monsieur,
 Je saisis la Commission d'accès aux documents administratifs, en application du Code des relations entre le public et l'administration (CRPA), à la suite du refus de communication de documents opposé par **[la Préfecture de l'Ariège / la DDETS de l'Ariège — Inspection du travail]**.
 ## I — Identité du demandeur
 
-Je soussigné(e) [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), demeurant [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), victime d'un accident corporel grave survenu le **29 mai 2026** dans le salon de coiffure « **[L'Exploitant du Commerce (La SAS)]** », [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) (plaie palmaire profonde de la main droite, section partielle tendon fléchisseur + paquet vasculo-nerveux, ITT 56 jours — PV de police n°2026/015967).
+Je soussigné(e) [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), demeurant [10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), victime d'un accident corporel grave survenu le **29 mai 2026** dans le salon de coiffure « SAS LES MAUVAIS GARCONS », [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) (plaie palmaire profonde de la main droite, section partielle tendon fléchisseur + paquet vasculo-nerveux, ITT 56 jours — PV de police n°2026/015967).
 <hr><hr>
 
 ## II — Administration(s) concernée(s)
@@ -91,7 +91,7 @@ Je vous remercie par avance de l'attention portée à la présente demande d'avi
 
 Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.
 
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
 ## PIECES JOINTES

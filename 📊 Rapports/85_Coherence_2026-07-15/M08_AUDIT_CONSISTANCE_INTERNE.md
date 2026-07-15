@@ -51,11 +51,11 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 47.
 
-#### Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modele Saisine CADA.md`
+#### Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA Saisine Modele.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 105.
 
-#### Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Saisine CADA Formulaire.md`
+#### Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA Saisine Formulaire.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 49.
 
