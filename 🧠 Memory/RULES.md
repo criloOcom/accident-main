@@ -192,7 +192,17 @@ Il est formellement interdit de qualifier un document de « Envoyé » sur le se
 
 5. **Correction dans STATUS.md** : Les documents 04, 07, 09, 11-16, 17, 18, 19, 20, 21 ne sont pas « Envoyés » mais « Projets/Brouillons » (sauf preuve matérielle à retrouver dans les pièces).
 
-## #12 — CYCLE DE VIE DES SESSIONS JULES — RÈGLE ABSOLUE
+## #12 — SESSIONS JULES — PARAMÈTRES OBLIGATOIRES ET CYCLE DE VIE
+
+### #12.0 — Connexion au dépôt (OBLIGATOIRE)
+- Tout appel à `jules_create_session` DOIT impérativement inclure :
+  - `repo` : `"criloOcom/accident-main"`
+  - `branch` : une branche unique au format `jules/M[Numéro]-[Thématique]` (ex: `jules/M13-checklist-2026`)
+  - `autoPr` : `true`
+- Sans ces paramètres, Jules démarre en mode "repoless" (sans dépôt) et ne peut ni créer de branche, ni soumettre de PR, ni éditer le code.
+- Lire 🧠 Memory/JULES_MCP_GUIDELINES.md avant tout appel à Jules.
+
+### #12.1 — Clôture de session (RÈGLE ABSOLUE)
 - **TOUTE session Jules doit être conclue par un message de clôture** explicite (pas seulement abandonnée).
 - Une session qui a terminé son travail (rapport reçu, PR créé, mission accomplie) reçoit un message de type : « Mission terminée, tu peux archiver cette session. » ou « Rapport reçu, tu peux clôturer. »
 - Une session bloquée qui a reçu une réponse de déblocage doit être informée que la réponse a été envoyée.
