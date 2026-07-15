@@ -1,6 +1,6 @@
 ---
 title: "📊 Rapports et Analyses"
-description: "Ce dossier contient tous les rapports générés, analyses et documents de suivi du projet."
+description: "Rapports, analyses, audits et documents de suivi — organisés par grandes familles."
 type: readme
 ---
 
@@ -11,59 +11,33 @@ type: readme
 
 # 📊 Rapports et Analyses
 
-## 📋 Rapports
+Dossier reorganisé le 15 juillet 2026 en 9 sous-ensembles thématiques.
 
-- **[20260708_Rapport_Baremique_Dintilhac](20260708_Rapport_Baremique_Dintilhac.md)**
-- **[PLAN_CORRECTION_HERMES_20260711](PLAN_CORRECTION_HERMES_20260711.md)**
-- **[PROMPT_AVOCAT_REVUE_J37](PROMPT_AVOCAT_REVUE_J37.md)**
-- **[PROMPT_COMPLETION_FICHES_LOIS_20260711](PROMPT_COMPLETION_FICHES_LOIS_20260711.md)**
-- **[RAPPORT_AUDIT_CALENDRIER](RAPPORT_AUDIT_CALENDRIER.md)**
-- **[RAPPORT_AUDIT_CHECKLIST](RAPPORT_AUDIT_CHECKLIST.md)**
-- **[RAPPORT_AUDIT_COMPLETUDE_LOIS_20260711](RAPPORT_AUDIT_COMPLETUDE_LOIS_20260711.md)**
-- **[RAPPORT_AUDIT_COURRIERS](RAPPORT_AUDIT_COURRIERS.md)**
-- **[RAPPORT_AUDIT_FGTI_DINTILHAC](RAPPORT_AUDIT_FGTI_DINTILHAC.md)**
-- **[RAPPORT_AUDIT_GITHUB](RAPPORT_AUDIT_GITHUB.md)**
-- **[RAPPORT_AUDIT_HERMES_20260711](RAPPORT_AUDIT_HERMES_20260711.md)**
-- **[RAPPORT_AUDIT_JURIDIQUE](RAPPORT_AUDIT_JURIDIQUE.md)**
-- **[RAPPORT_AUDIT_PJ](RAPPORT_AUDIT_PJ.md)**
-- **[RAPPORT_AUDIT_PLAN_ACTION](RAPPORT_AUDIT_PLAN_ACTION.md)**
-- **[RAPPORT_AUDIT_PRIORITES](RAPPORT_AUDIT_PRIORITES.md)**
-- **[RAPPORT_AUDIT_REDACTION](RAPPORT_AUDIT_REDACTION.md)**
-- **[RAPPORT_AUDIT_REORGANISATION_PREUVES_20260711](RAPPORT_AUDIT_REORGANISATION_PREUVES_20260711.md)**
-- **[RAPPORT_AUDIT_RISQUES](RAPPORT_AUDIT_RISQUES.md)**
-- **[RAPPORT_AUDIT_STRATEGIQUE](RAPPORT_AUDIT_STRATEGIQUE.md)**
-- **[RAPPORT_AUDIT_STRUCTURE](RAPPORT_AUDIT_STRUCTURE.md)**
-- **[RAPPORT_AUDIT_TOKENISATION](RAPPORT_AUDIT_TOKENISATION.md)**
-- **[RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711](RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711.md)**
-- **[RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710](RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md)**
-- **[RAPPORT_FINAL_INTEGRATION_20260710](RAPPORT_FINAL_INTEGRATION_20260710.md)**
-- **[RAPPORT_MEI_README_20260710](RAPPORT_MEI_README_20260710.md)**
-- **[RAPPORT_NAVIGATION_CITATIONS_20260711](RAPPORT_NAVIGATION_CITATIONS_20260711.md)**
-- **[RAPPORT_PREPARATION_PLAINTE_COMPLEMENTAIRE_20260711](RAPPORT_PREPARATION_PLAINTE_COMPLEMENTAIRE_20260711.md)**
-- **[RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711](RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md)**
-- **[RAPPORT_SYNTHESE_GLOBALE](RAPPORT_SYNTHESE_GLOBALE.md)**
-- **[RAPPORT_SYNTHESE_RECHERCHES_20260710](RAPPORT_SYNTHESE_RECHERCHES_20260710.md)**
-- **[LOG_MIGRATION_JX_20260712_143701](LOG_MIGRATION_JX_20260712_143701.md)**
-- **[RAPPORT_MIGRATION_JX_20260712_143701](RAPPORT_MIGRATION_JX_20260712_143701.md)**
-- **[note_frais_estimative](note_frais_estimative.md)**
-- **[pv_constat_virtuel](pv_constat_virtuel.md)**
-- **[recommandations_urgentes](recommandations_urgentes.md)**
-- **[CHANGELOG JURIDIQUE](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/CHANGELOG_JURIDIQUE.md)** — Mémoire des choix juridiques et corrections d'articles
-- **[AUDIT_YAML_HEADERS](AUDIT_YAML_HEADERS.md)**
-- **[RAPPORT_AVOCAT_DINTILHAC_20260713](RAPPORT_AVOCAT_DINTILHAC_20260713.md)**
-- **[RAPPORT_COHERENCE_JURIDIQUE_2026-07-14](RAPPORT_COHERENCE_JURIDIQUE_2026-07-14.md)**
-- **[RAPPORT_CONFORMITE_PROCEDURALE_2026-07-14](RAPPORT_CONFORMITE_PROCEDURALE_2026-07-14.md)**
-- **[RAPPORT_CONFORMITE_RGPD_2026-07-14](RAPPORT_CONFORMITE_RGPD_2026-07-14.md)**
-- **[RAPPORT_CONTINUITE_2026-07-14](RAPPORT_CONTINUITE_2026-07-14.md)**
-- **[RAPPORT_EVALUATION_DINTILHAC_2026-07-14](RAPPORT_EVALUATION_DINTILHAC_2026-07-14.md)**
-- **[RAPPORT_ORGANISATION_DEPOT_2026-07-14](RAPPORT_ORGANISATION_DEPOT_2026-07-14.md)**
-- **[RAPPORT_RESPONSABILITE_CHOSES_2026-07-14](RAPPORT_RESPONSABILITE_CHOSES_2026-07-14.md)**
-- **[RAPPORT_SECURITE_TOKENS_2026-07-14](RAPPORT_SECURITE_TOKENS_2026-07-14.md)**
-- **[RAPPORT_STABILITE_TECHNIQUE_2026-07-14](RAPPORT_STABILITE_TECHNIQUE_2026-07-14.md)**
-- **[RAPPORT_STRATEGIE_PENALE_2026-07-14](RAPPORT_STRATEGIE_PENALE_2026-07-14.md)**
-- **[RAPPORT_SYNTHESE_OPERATIONNALITE_2026-07-14](RAPPORT_SYNTHESE_OPERATIONNALITE_2026-07-14.md)**
-- **[RAPPORT_VOIES_INDEMNISATION_2026-07-14](RAPPORT_VOIES_INDEMNISATION_2026-07-14.md)**
-- **[RAPPORT_QUALITE_ACTES_2026-07-14](RAPPORT_QUALITE_ACTES_2026-07-14.md)**
-- **[RAPPORT_RESPONSABILITE_DIRIGEANTS_2026-07-14](RAPPORT_RESPONSABILITE_DIRIGEANTS_2026-07-14.md)**
-- **[RAPPORT_SECURITE_PREUVES_2026-07-14](RAPPORT_SECURITE_PREUVES_2026-07-14.md)**
-- **[TODO_ACTION_2026-07-14](TODO_ACTION_2026-07-14.md)**
+## Structure
+
+| Dossier | Rôle | Pour qui |
+|---------|------|----------|
+| [`10_Pilotage/`](10_Pilotage/) | Pilotage opérationnel : check-lists, frise, cartographie des risques, priorités | **Toi** — quoi faire maintenant |
+| [`20_Accueil_Avocat/`](20_Accueil_Avocat/) | Kit d'accueil imprimable / envoyable à l'avocat AJ | **Avocat** — découvrir le dossier |
+| [`30_Analyses_Multi_Angle/`](30_Analyses_Multi_Angle/) | Analyses de fond : stratégie, pénale, responsabilité, conformité + 12 rapports multi-angle | **Toi + Avocat** — matière grise |
+| [`40_Indemnisation_Dintilhac/`](40_Indemnisation_Dintilhac/) | Tout ce qui parle d'argent : barèmes, scénarios Dintilhac, FGTI, évaluations | **Toi + Avocat** — chiffrage |
+| [`50_Medical/`](50_Medical/) | Médical et expertise | **Toi + Avocat** — volet médical |
+| [`60_Audits_Qualite/`](60_Audits_Qualite/) | Audits internes, qualité, cohérence, vérifications | **Toi / Agents** — outils internes |
+| [`70_Technique_Repo/`](70_Technique_Repo/) | Journal de bord technique : migration, sécurité, stabilité | **Toi / Agents** — historique technique |
+| [`80_Recherches_Donnees/`](80_Recherches_Donnees/) | Données brutes : JSON de recherche, résultats d'audit | **Toi** — back-office recherche |
+| [`90_TODO_Prompts/`](90_TODO_Prompts/) | Prompts, notes de travail, atelier IA | **Toi** — matériel de travail |
+
+## Ordre de lecture recommandé
+
+**Pour toi (pilotage du dossier) :**
+1. [`10_Pilotage/`](10_Pilotage/) — savoir où tu en es
+2. [`30_Analyses_Multi_Angle/`](30_Analyses_Multi_Angle/) — comprendre la stratégie
+3. [`40_Indemnisation_Dintilhac/`](40_Indemnisation_Dintilhac/) — connaître les montants
+4. [`50_Medical/`](50_Medical/) — maîtriser le volet médical
+5. [`60_Audits_Qualite/`](60_Audits_Qualite/) — vérifier la cohérence
+
+**Pour l'avocat (découverte du dossier) :**
+1. [`20_Accueil_Avocat/`](20_Accueil_Avocat/) — kit d'accueil
+2. [`30_Analyses_Multi_Angle/`](30_Analyses_Multi_Angle/) — analyses stratégiques
+3. [`40_Indemnisation_Dintilhac/`](40_Indemnisation_Dintilhac/) — chiffrage indemnitaire
+4. [`50_Medical/`](50_Medical/) — volet médical
