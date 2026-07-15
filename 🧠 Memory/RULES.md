@@ -352,3 +352,18 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 - L'URL absolue `https://drive.google.com/open?id=<ID>` est un lien EXTERNE — elle est autorisée par la Règle #15 (seuls les liens internes doivent être relatifs).
 - **Script de référence** : `.dev/app/add_drive_links.py` — ajoute automatiquement le lien cliquable pour tout `drive_id` du YAML ne l'ayant pas encore. Dry-run par défaut, `--apply` pour écrire.
 - **Objectif** : ouvrir la pièce source d'un clic depuis la prévisualisation GitHub, sans copier/coller l'ID.
+
+## #22 — VERROUILLAGE STRICTE DE LA STRATE REEL (ARTIFACT GÉNÉRÉ, JAMAIS À LA MAIN)
+
+- **Principe non négociable** : toute création/édition de document se fait UNIQUEMENT en version **Token** (`⚖️ Actes/🔑 Token/...`). Les versions **Reel** (`⚖️ Actes/👤 Reel/...`) sont des *artifacts* exclusivement produits par `.dev/app/generate_real_versions.py`.
+- **INTERDICTION #1** : ne JAMAIS rédiger ni modifier le contenu d'un fichier Reel à la main (sauf si l'on a modifié le script de génération lui-même et qu'on applique sa sortie). Le Reel = sortie canonique du générateur, pas un document éditable.
+- **INTERDICTION #2** : ne JAMAIS créer un fichier Reel sans son Token frère et sans que le Token déclare un `reel_path` pointant dessus. Un Reel sans Token = orphelin = interdit.
+- **Lors d'un merge de PR** : si une PR contient des fichiers Reel, les traiter comme des build artifacts. Deux options seulement :
+  1. les laisser passer s'ils sont strictement cohérents avec le Token + la sortie attendue du générateur actuel ;
+  2. sinon, relancer `generate_real_versions.py` et commiter le résultat — mais ne jamais toucher aux Reel « à la main » pour « corriger » du contenu.
+- **Régularisation d'un Reel orphelin (présent sur disque mais non tracké)** — procédure obligatoire avant `git add` :
+  1. vérifier qu'un Token correspondant existe avec un `reel_path` pointant dessus ;
+  2. vérifier la cohérence du contenu (aucune fuite de vraie PII, respect des conventions du projet) ;
+  3. seulement après, `git add` + commit en tant que régularisation (jamais comme nouveau document).
+- **En cas de doute sur une action touchant la strate Reel** (suppression, création, modification) : s'abstenir et soit ouvrir un TODO documenté dans STATUS.md / `TODO_*.md`, soit demander une validation explicite — jamais deviner.
+- **Pipeline canonique après toute modification Token** : `generate_real_versions.py` → `check_consistency.py` (cf. Règle #21). Le Reel doit toujours pouvoir être régénéré à l'identique depuis le Token.
