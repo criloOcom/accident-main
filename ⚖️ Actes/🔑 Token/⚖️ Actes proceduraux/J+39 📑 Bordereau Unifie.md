@@ -199,7 +199,7 @@ jx: J+39
 
 ### PIÈCE N° 37
 
-- **Sans date** — Évaluation indiciaire des postes de préjudice : PGPA (1 400 €), SE (12 000 € — 4/7), DFP (25 200 € — 12 %), IP (15 000 €), Préjudice d'agrément (3 000 €).
+- **Sans date** — Évaluation indiciaire des postes de préjudice : PGPA (1 380 €), SE (14 000 € — 4/7), DFP (25 200 € — 12 %), IP (28 000 €), Préjudice d'agrément (4 500 €).
 
 ### PIÈCE N° 38
 
