@@ -117,7 +117,7 @@ Partage depuis : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F
 
 - 2026-07-05 - 25 📧 Relance [Le Chirurgien SOS Main] - V1 ✓ Vérifié : Relance demande certificat médical de consolidation.
 
-- 2026-07-05 - 26-28 📧 Attestations Témoin - V1 ✓ Vérifié : Attestations témoin (client, pompier, employé) versions réalistes.
+- 2026-07-05 - 26-28 📧 Attestations Témoin - V1 ✓ Vérifié : Gabarits d'attestations pour témoins potentiels (client, pompier, employé).
 <hr><hr>
 
 ## 03 — ANALYSES JURIDIQUES

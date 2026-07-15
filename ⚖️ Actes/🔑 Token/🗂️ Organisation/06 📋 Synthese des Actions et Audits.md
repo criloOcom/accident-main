@@ -25,7 +25,7 @@ Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent
 
 ### B. Attestations & Témoignages
 
-- [ ] **Envoyer les attestations Cerfa** (pièces n°22, 23 et 24 de votre dossier) aux trois témoins clés (le client présent, le pompier du SAMU ayant prodigué les [premiers soins](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md), et l'employé coiffeur préposé) pour signature officielle.
+- [ ] **Envoyer les attestations Cerfa** (pièces n°22, 23 et 24 de votre dossier) aux témoins potentiels (client présent, pompier du SAMU, employé coiffeur préposé — si identifiés et consentants) pour signature officielle.
 
 - [ ] **Communiquer les adresses emails** de ces témoins afin de pouvoir leur transmettre les gabarits pré-remplis de manière électronique.
 
