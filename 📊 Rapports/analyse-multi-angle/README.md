@@ -34,4 +34,19 @@ type: analyse
 
 ## Rapports
 
-*À compléter par les missions Jules*
+Rapports d'analyse intégrés (angles disponibles à ce jour) :
+
+- [02 — Juge d'Instruction](02_Rapport_Juge_Instruction.md)
+- [03 — Juge des Référés](03_Rapport_Juge_Referes.md)
+- [04 — Juge du Civil (Fond)](04_Rapport_Juge_Civil.md)
+- [05 — Procureur de la République](05_Rapport_Procureur.md)
+- [06 — Gendarme / OPJ](06_Rapport_Gendarme.md)
+- [07 — Avocat (Stratégie Globale)](07_Rapport_Avocat.md)
+- [08 — Médecin Expert Judiciaire](08_Rapport_Expert_Justice.md)
+- [10 — Inspecteur du Travail (Ariège)](10_Rapport_Inspecteur_Travail.md)
+- [11 — Expert en Assurances (RC SAS)](11_Rapport_Expert_Assurances.md)
+- [12 — Médecin Légiste (Avis sur Pièces)](12_Rapport_Medecin_Legiste.md)
+- [14 — Juge des Enfants / JAF](14_Rapport_Juge_Enfants.md)
+- [15 — Médiateur Judiciaire](15_Rapport_Mediateur.md)
+
+> **Angles restant à compléter** (présents dans la structure ci-dessus, non encore livrés) : 01 Commissaire de Police, 09 Préfet de l'Ariège, 07 Avocat de la Défense (SAS), 08 Avocat Partie Civile, 13 Huissier de Justice, 14 Juge Commercial, 15 Synthèse Transverse.
