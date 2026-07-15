@@ -87,9 +87,9 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/25 📧 Relance Dr DJERBI.md
        → ✉️ Courriers/🔄 DrDJERBI Consolidation ✉️Mail.md
   ✓  ✉️ Courriers/26 📧📋 Temoin Client.md
-       → ✉️ Courriers/📋 Temoin Client 📧 Mail.md
+       → ✉️ Courriers/📋 Temoin Client 📧Mail.md
   ✓  ✉️ Courriers/27 📧📋 Pompier SAMU.md
-       → ✉️ Courriers/📋 Pompier SAMU 📧 Mail.md
+       → ✉️ Courriers/📋 Pompier SAMU 📧Mail.md
   ✓  ✉️ Courriers/28 📧📋 Employe.md
        → ✉️ Courriers/📋 Employe 📧Mail.md
   ✓  ✉️ Courriers/29 ✉️ Courrier Maire Foix.md
@@ -231,9 +231,9 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/25 📧 Relance Dr DJERBI.md
        → ✉️ Courriers/🔄 DrDJERBI Consolidation ✉️Mail.md
   ✓  ✉️ Courriers/26 📧📋 Temoin Client.md
-       → ✉️ Courriers/📋 Temoin Client 📧 Mail.md
+       → ✉️ Courriers/📋 Temoin Client 📧Mail.md
   ✓  ✉️ Courriers/27 📧📋 Pompier SAMU.md
-       → ✉️ Courriers/📋 Pompier SAMU 📧 Mail.md
+       → ✉️ Courriers/📋 Pompier SAMU 📧Mail.md
   ✓  ✉️ Courriers/28 📧📋 Employe.md
        → ✉️ Courriers/📋 Employe 📧Mail.md
   ✓  ✉️ Courriers/29 ✉️ Courrier Maire Foix.md

@@ -44,10 +44,10 @@ Conformément à l'Article 202 du Code de procédure civile, ce document permet 
 
 #### **Le Témoin Client (Présent le jour J)**
 [📋 Temoin Client.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Temoin%20Client.md)
-(Email de relance : [26 📧📋 Temoin Client.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Temoin%20Client%20%F0%9F%93%A7%20Mail.md))
+(Email de relance : [26 📧📋 Temoin Client.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Temoin%20Client%20%F0%9F%93%A7Mail.md))
 
 #### **Le Secouriste / Pompier (Intervenant d'urgence)**
-[23 📋 Pompier SAMU.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Pompier%20SAMU%20%F0%9F%93%A7%20Mail.md) (Email de relance : [27 📧📋 Pompier SAMU.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Pompier%20SAMU%20%F0%9F%93%A7%20Mail.md))
+[23 📋 Pompier SAMU.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Pompier%20SAMU%20%F0%9F%93%A7Mail.md) (Email de relance : [27 📧📋 Pompier SAMU.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Pompier%20SAMU%20%F0%9F%93%A7Mail.md))
 
 #### **L'Employé du Salon (Témoin de la défectuosité préalable)**
 [📋 Employe.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Employe.md) (Email de relance : [28 📧📋 Employe.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Employe%20%F0%9F%93%A7Mail.md))
