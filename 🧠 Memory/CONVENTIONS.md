@@ -263,7 +263,43 @@ Les caches (`__pycache__`, `.pytest_cache`) sont supprimés après exécution.
 
 <hr><hr>
 
-## XIII — SAUTS DE LIGNE ENTRE PARAGRAPHES
+## XIV — PIECES JOINTES
+
+### Format canonique (OBLIGATOIRE)
+```markdown
+## PIECES JOINTES
+
+- **[Nom du document lisible](chemin/relatif/vers/fichier.md)** — Description contextuelle avec [placeholders] si besoin
+```
+
+### Règles
+1. **Titre** : `## PIECES JOINTES` (toujours H2, en majuscules)
+2. **Ligne vide** entre le titre et la première puce
+3. **Chaque pièce = une puce** avec `- ` (pas de liste numérotée)
+4. **Lien sur le nom** : le lien est dans la partie en gras, pas dans la description
+5. **Bold + link** : `- **[Display](path)** — texte` — la **double astérisque englobe le lien**
+6. **Séparateur ` — `** : espace + em-dash + espace entre le lien et la description
+7. **Description** : texte libre après ` — `, peut contenir des tokens `[**[Token]**]` ou des `[placeholders]`
+8. **Pas de double lien** : ne pas mettre un lien dans le nom ET un lien dans la description
+9. **Pas de `/` entre deux pièces** : chaque document sur sa propre ligne
+10. **Pas de `(description)`** à la place de ` — description`
+11. **Puce simple** : `- ` sans numéro, même pour des listes longues
+
+### Exemple concret (conforme)
+```markdown
+- **[PV n°2026/015967](../../Preuves%20officielles/20260602%20...)** — Depot de plainte du [J+4]
+
+- **[Mise en demeure J+31 — SAS](../📜%20Mises%20en%20demeure/J%2B31%20...)** — LRAR n° [N° LRAR Exploitant]
+```
+
+### Anti-exemples (non conformes)
+```markdown
+✗ - **PV** — [path](url)              ← lien dans la description, pas dans le gras
+✗ - **[Doc](path)**                    ← pas de description après ` — `
+✗ - **[Doc](path)** / [Doc2](path2)   ← deux documents sur une ligne
+✗ - **[Doc](path)** (description)      ← parenthèses au lieu de ` — `
+✗ 1. **Doc** — description             ← liste numérotée au lieu de puces
+```
 
 ### Règle
 Tout bloc de texte DOIT être séparé du bloc précédent par **une ligne vide** (`\n\n`), sauf exceptions ci-dessous.

@@ -187,23 +187,25 @@ Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière
 
 ## PIECES JOINTES
 
-1. **Copie du PV initial n°2026/015967** (établi le 2 juin 2026 par le Commissariat de Toulouse)
+- **[PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte initial du 2 juin 2026 (Commissariat de Toulouse)
 
-2. **Copie de la requête Article 145 CPC**[^13] déposée le 15 juillet 2026 devant le TJ de Foix (identification assureur RC + conservation vidéos)
+- **Requete Article 145 CPC** — **À VERSER** (identification assureur RC + conservation videos, 15 juillet 2026)
 
-3. **Accusés de réception des LRAR retournés NPAI** (29 mai 2026)
+- **[J+43 📊 Suivi Envois LRAR.md](../../%F0%9F%97%82%EF%B8%8F%20Organisation/J%2B43%20%F0%9F%93%8A%20Suivi%20Envois%20LRAR.md)** — Accusés de réception des LRAR retournés NPAI
 
-4. **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** (SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
+- **[Extrait Kbis SAS [L'Exploitant du Commerce (La SAS)]](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)
 
-5. **Note d'audit RNE/INPI** du 10 juillet 2026
+- **[J+42 📜 Audit RNE NPAI SAS.md](../../%F0%9F%93%9A%20Analyses%20juridiques/J%2B42%20%F0%9F%93%9C%20Audit%20RNE%20NPAI%20SAS.md)** — Note d'audit RNE/INPI du 10 juillet 2026
 
-6. **Photos de l'accident et de la vasque cassée** (datées et légendées)
+- Photos de l'accident et de la vasque cassée — **À VERSER** (datées et légendées)
 
-7. **Certificats médicaux** ([CR opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md), [arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md))
+- **[CR opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Certificats médicaux, microchirurgie d'urgence du [J+1]
 
-8. **Copie des mises en demeure envoyées** aux dirigeants
+- **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
 
-9. **Liste chronologique des démarches entreprises**
+- **[Mises en demeure J+31 — SAS](../%F0%9F%93%9C%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md)** — LRAR restees sans reponse
+
+- **Liste chronologique des démarches** — **À VERSER**
 <hr><hr>
 
 ## V — FONDEMENTS JURIDIQUES RÉCAPITULATIFS

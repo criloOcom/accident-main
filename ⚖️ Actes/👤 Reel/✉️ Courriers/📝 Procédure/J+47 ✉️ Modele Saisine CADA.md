@@ -96,14 +96,14 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération dist
 
 ## PIECES JOINTES
 
-- **Courrier n°41 — Préfecture de l'Ariège** — [J+47 ✉️ Relance Prefecture CODAF.md](../%F0%9F%94%84%20Relances/J%2B47%20%E2%9C%89%EF%B8%8F%20Relance%20Prefecture%20CODAF.md)
+- **[J+47 ✉️ Relance Prefecture CODAF.md](../%F0%9F%94%84%20Relances/J%2B47%20%E2%9C%89%EF%B8%8F%20Relance%20Prefecture%20CODAF.md)** — Courrier n°41 — Préfecture de l'Ariège
 
-- **Courrier n°42 — DDETS / Inspection du travail** — [J+47 ✉️ Relance Inspection Travail.md](../%F0%9F%94%84%20Relances/J%2B47%20%E2%9C%89%EF%B8%8F%20Relance%20Inspection%20Travail.md)
+- **[J+47 ✉️ Relance Inspection Travail.md](../%F0%9F%94%84%20Relances/J%2B47%20%E2%9C%89%EF%B8%8F%20Relance%20Inspection%20Travail.md)** — Courrier n°42 — DDETS / Inspection du travail
 
 - Copie des réponses reçues (si refus exprès) — **À VERSER**
 
-- **Courriel [Monsieur TAVELLA]** (1er juin 2026) — [J+42 ✉️ Email Maire Tavella ERP.md](J%2B42%20%E2%9C%89%EF%B8%8F%20Email%20Maire%20Tavella%20ERP.md)
+- **[J+42 ✉️ Email Maire Tavella ERP.md](J%2B42%20%E2%9C%89%EF%B8%8F%20Email%20Maire%20Tavella%20ERP.md)** — Courriel [L'Adjoint au Maire de la Commune] (1er juin 2026)
 
-- **[Copie du PV de police n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)**
+- **[PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 
 <hr><hr>

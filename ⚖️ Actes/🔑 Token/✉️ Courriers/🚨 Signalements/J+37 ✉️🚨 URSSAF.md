@@ -108,11 +108,11 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Direc
 
 ## PIECES JOINTES
 
-- **[Copie du PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** (procédure pénale)
+- **[PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Procedure penale, depot de plainte du [J+4]
 
-- **Accusés de réception des courriers recommandés retournés (mentions NPAI)** — [J+43 📊 Suivi Envois LRAR.md](../../%F0%9F%97%82%EF%B8%8F%20Organisation/J%2B43%20%F0%9F%93%8A%20Suivi%20Envois%20LRAR.md)
+- **[J+43 📊 Suivi Envois LRAR.md](../../%F0%9F%97%82%EF%B8%8F%20Organisation/J%2B43%20%F0%9F%93%8A%20Suivi%20Envois%20LRAR.md)** — Accusés de réception des courriers recommandés retournés (mentions NPAI)
 
-- **[Extrait Kbis de la SAS [L'Exploitant du Commerce (La SAS)]](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** ([**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
+- **[Extrait Kbis SAS [L'Exploitant du Commerce (La SAS)]](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)
 <hr><hr>
 
 ## Sources Législation
