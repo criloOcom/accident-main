@@ -14,7 +14,7 @@ reel_path: ../../👤 Reel/🗂️ Organisation/J+43 ✅ Checklist Envoi 11-07.m
 jx: J+43
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [🗂️ Organisation](./README.md) › J+43 ✅ Checklist Envoi 11-07*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+43 ✅ Checklist Envoi 11-07*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -130,14 +130,3 @@ jx: J+43
 | Timbres ? | Inclus dans le tarif LRAR (guichet) |
 | Photos | Faire avant depot, pas apres |
 | Prochaine vague | 13-14 juillet : courriers 11-13-15-16-18-20-21 |
-<hr><hr>
-
-<hr><hr>
-
-## PIECES JOINTES
-
-- **[PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Procédure pénale en cours
-
-- **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN 938 033 222, capital 200 €
-
-<hr><hr>

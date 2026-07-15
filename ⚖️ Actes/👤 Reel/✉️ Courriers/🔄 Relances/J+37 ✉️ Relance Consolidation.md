@@ -18,7 +18,7 @@ jx: J+37
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [🔄 Relances](./README.md) › J+37 ✉️ Relance Consolidation*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🔄 Relances](./README.md) › J+37 ✉️ Relance Consolidation*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -67,7 +67,7 @@ L'arret de travail total (ITT) initialement prescrit par Dr Oxybel court jusqu'a
 
 La sensibilite de l'index droit reste partiellement alteree, la flexion active est limitee, et la douleur neuropathique persiste.
 
-Dans le cadre de la procedure judiciaire en cours (recours contre tiers aupres de la CPAM, dossier n° 31727387), l'evaluation definitive des postes de prejudice — notamment le Defficit Fonctionnel Permanent (DFP), l'Incidence Professionnelle (IP) et les Souffrances Endurees (SE) — necessite la fixation prealable d'une **date de consolidation** par certificat medical.
+Dans le cadre de la procedure judiciaire en cours (recours contre tiers aupres de la CPAM, dossier n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**), l'evaluation definitive des postes de prejudice — notamment le Defficit Fonctionnel Permanent (DFP), l'Incidence Professionnelle (IP) et les Souffrances Endurees (SE) — necessite la fixation prealable d'une **date de consolidation** par certificat medical.
 
 Je sollicite donc votre bienveillance afin de :
 
@@ -110,13 +110,13 @@ NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de 
 
 ## PIECES JOINTES
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr Dr Julie Jardon
+- **[Certificat medical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr [Dr Julie JARDON](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-dr-jardon.md)
 
 - **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Intervention de microchirurgie d'urgence du [30 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md)
 
 - **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
 
-- **[Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° 31727387
+- **[Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
 <hr><hr>
 
 ## Sources Législation

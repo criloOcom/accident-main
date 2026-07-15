@@ -14,14 +14,14 @@ tags:
 statut: archive
 destinataire: FGTI
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/19 ✉️ Courrier FGTI.md
+reel_path: ../../../👤 Reel/✉️ Courriers/⚖️ Contentieux/J+38 ✉️ Saisine FGTI.md
 source: drive
 drive_id: 13jocmpqETy64lldco9LGCKLJZp_ml_9u53NB7OySmrs
 jx: J+38
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [⚖️ Contentieux](./README.md) › J+38 ✉️ Saisine FGTI*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [⚖️ Contentieux](./README.md) › J+38 ✉️ Saisine FGTI*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -41,7 +41,7 @@ Courriel : [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9
 
 **Objet : Demande d'information et pré-ouverture de dossier – Article 706-3 du CPP – Accident du [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**  
 
-Réf : SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) — Dossier CPAM n° 31727387  
+Réf : SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) — Dossier CPAM n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**  
 
 Madame, Monsieur le Directeur,  
 ## INTRODUCTION
@@ -63,7 +63,7 @@ Sa chute a entraîné sur ma main droite une plaie palmaire profonde de 8,5 cm a
 
 3. **Assignation Article 145 CPC** : en cours de préparation en vue d'obtenir la communication forcée de la police d'assurance RC.
 
-4. **[Constitution de partie civile](../../../%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** (6 juillet 2026) : déposée auprès du Doyen des Juges d'Instruction de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) sur le fondement des articles 222-19 et 222-20 du Code pénal.
+4. **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** (6 juillet 2026) : déposée auprès du Doyen des Juges d'Instruction de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) sur le fondement des articles 222-19 et 222-20 du Code pénal.
 
 Ces démarches visent à identifier les débiteurs civils et à faire reconnaître les infractions, en vue, le cas échéant, d'une demande d'indemnisation au titre de l'article 706-3 du Code de procédure pénale.
 
@@ -129,17 +129,15 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Dire
 [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
-<hr><hr>
+## PIÈCES JOINTES
 
-## PIECES JOINTES
+- Copie du [PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procédure pénale)
 
-- **[PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — (procédure pénale)
+- Accusés de réception des courriers recommandés retournés (29 mai 2026 — mentions NPAI)
 
-- **Accusés de réception des courriers recommandés retournés (29 mai 2026 — mentions NPAI)** — Mentions NPAI
+- [Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) ([938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
 
-- **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** ([938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
-
-- **Dossier médical complet (11 pièces)** — Dossier médical complet
+- Dossier médical complet (11 pièces)
 <hr><hr>
 
 ## Sources Législation

@@ -15,7 +15,7 @@ reel_path: ../../👤 Reel/🗂️ Organisation/J+38 📦 Bon Envoi Physique.md
 jx: J+38
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [🗂️ Organisation](./README.md) › J+38 📦 Bon Envoi Physique*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+38 📦 Bon Envoi Physique*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -74,16 +74,3 @@ jx: J+38
 - L'envoi de la CPC déclenche **l'ouverture d'une信息 judiciaire** et l'attribution d'un juge d'instruction
 
 - Conserver précieusement le récépissé de dépôt LRAR
-<hr><hr>
-
-<hr><hr>
-
-## PIECES JOINTES
-
-- **[Certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — constatant les blessures, rédigé par Dr Julie JARDON (29 mai 2026)
-
-- **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — de microchirurgie d'urgence (suture nerveuse et tendineuse)
-
-- **[arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — justifiant 56 jours d'ITT
-
-<hr><hr>

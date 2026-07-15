@@ -15,7 +15,7 @@ jx: J+47
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [📋 Personnel](./README.md) › J+47 ✅ Checklist Deplacement Foix*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📋 Personnel](./README.md) › J+47 ✅ Checklist Deplacement Foix*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -37,7 +37,7 @@ jx: J+47
 
 - **Commissariat** : Rue du Capitaine Ferber, 09000 Foix (tél : 05 61 65 08 22)
 
-- **[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** : Lieu de l'accident — salon "Les Mauvais Garçons"
+- **[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** : Lieu de l'accident — salon "SAS LES MAUVAIS GARCONS"
 <hr><hr>
 
 ## 📅 PRÉPARATION 48H À L'AVANCE
@@ -409,7 +409,7 @@ jx: J+47
 
 ### Résumé oral préparé (2-3 min)
 
-> *"Le 29 mai 2026, j'étais client au salon de coiffure Les Mauvais Garçons, [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md). Le coiffeur est monté sur le bac à shampoing en céramique pour régler une télévision. La vasque a basculé, j'ai tendu la main droite, et j'ai heurté une cassure préexistante non signalée — section du tendon fléchisseur et du nerf de l'index droit, opéré en urgence le 30 mai. La SAS a un capital de 200 €, ses dirigeants ne répondent pas, les LRAR sont NPAI. L'assureur RC est introuvable. Les vidéos de surveillance vont être écrasées d'ici quelques semaines."* <br>
+> *"Le 29 mai 2026, j'étais client au salon de coiffure SAS LES MAUVAIS GARCONS, [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md). Le coiffeur est monté sur le bac à shampoing en céramique pour régler une télévision. La vasque a basculé, j'ai tendu la main droite, et j'ai heurté une cassure préexistante non signalée — section du tendon fléchisseur et du nerf de l'index droit, opéré en urgence le 30 mai. La SAS a un capital de 200 €, ses dirigeants ne répondent pas, les LRAR sont NPAI. L'assureur RC est introuvable. Les vidéos de surveillance vont être écrasées d'ici quelques semaines."* <br>
 
 ### Points à aborder
 

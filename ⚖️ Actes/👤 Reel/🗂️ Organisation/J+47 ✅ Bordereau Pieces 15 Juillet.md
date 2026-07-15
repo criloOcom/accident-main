@@ -9,7 +9,7 @@ jx: J+47
 reel_path: ../../👤 Reel/🗂️ Organisation/J+47 ✅ Bordereau Pieces 15 Juillet.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [🗂️ Organisation](./README.md) › J+47 ✅ Bordereau Pieces 15 Juillet*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+47 ✅ Bordereau Pieces 15 Juillet*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -39,16 +39,3 @@ reel_path: ../../👤 Reel/🗂️ Organisation/J+47 ✅ Bordereau Pieces 15 Jui
 
 > NB : ce bordereau est volontairement **limité** aux pièces utiles pour le 15 juillet.
 > Le bordereau complet V2 des 40+ pièces reste dans `PIECES MAP.md` et dans le tableur Drive.
-<hr><hr>
-
-<hr><hr>
-
-## PIECES JOINTES
-
-- **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — de microchirurgie d'urgence (suture nerveuse et tendineuse)
-
-- **[arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — justifiant 56 jours d'ITT
-
-- **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN 938 033 222, capital 200 €
-
-<hr><hr>

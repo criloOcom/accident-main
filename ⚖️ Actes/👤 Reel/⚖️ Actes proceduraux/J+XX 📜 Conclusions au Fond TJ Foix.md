@@ -18,7 +18,7 @@ jx: J+368
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [⚖️ Actes proceduraux](./README.md) › Conclusions au Fond TJ Foix*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes proceduraux](./README.md) › Conclusions au Fond TJ Foix*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -26,7 +26,7 @@ jx: J+368
 ## POUR :
 
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
-Née le 18 janvier 1982
+Née le [**[Date de Naissance de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md)
 [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 Ayant droit à l'aide juridictionnelle
 
@@ -37,43 +37,16 @@ Ayant droit à l'aide juridictionnelle
 
 **SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
 [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
-SIRET : 938 033 222 00010
+SIRET : [**[SIRET]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#siret)
 Assureur RC : [**[L'Assureur RC]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md)
 
 **Partie défenderesse**
 <hr><hr>
 
-## I — PROCÉDURE ET RECEVABILITÉ
+## I — FAITS
 
-### 1.1 Rappel de l'instance
 
-Par exploit d'huissier en date du 31 juillet 2026, la demanderesse a fait assigner la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) devant le Tribunal Judiciaire de Foix sur le fondement de l'article 145 du Code de procédure civile aux fins de voir ordonner une expertise médicale et d'obtenir une provision à valoir sur l'indemnisation de son préjudice corporel.
-
-Par ordonnance du [**[Date Ordonnance Référé]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles), le juge des référés a :
-- Ordonné une expertise médicale confiée à [**[Expert Désigné]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#expert-1)
-- Alloué une provision de 15 000 € à valoir sur l'indemnisation définitive
-- Réservé les dépens
-
-Le rapport d'expertise a été déposé au greffe le 29 mai 2027 et a fixé la consolidation au 1er mars 2027, permettant aujourd'hui la liquidation définitive du préjudice corporel de la demanderesse.
-
-### 1.2 Qualité et recevabilité de l'action
-
-La demanderesse, en sa qualité de tiers lésé par l'accident survenu dans un établissement recevant du public, agit sur le fondement cumulé des articles 1242 alinéa 1er et 1240 du Code civil, ainsi que des articles L.4121-1 à L.4121-5 et R.4323-58 du Code du travail.
-
-L'action est recevable et non prescrite, le délai de droit commun de cinq ans (article 2224 du Code civil) courant à compter de la consolidation du 1er mars 2027.
-
-### 1.3 Compétence du Tribunal Judiciaire de Foix
-
-Le Tribunal Judiciaire de Foix est territorialement compétent en application de l'article 42 du Code de procédure civile, le fait dommageable s'étant produit dans son ressort ([Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), 09000).
-
-### 1.4 Absence de sursis à statuer
-
-Il n'y a pas lieu à sursis à statuer dans l'attente de l'issue de l'information judiciaire pénale ouverte au Parquet de Foix (réquisitoire introductif du 15 juillet 2026). L'action civile et l'action pénale sont indépendantes : la demanderesse est fondée à obtenir réparation de son préjudice corporel sans attendre l'issue de la procédure pénale, conformément à l'article 4 du Code de procédure pénale (principe *le criminel ne tient pas le civil en l'état* s'agissant de l'action *ad damnun*).
-<hr><hr>
-
-## II — RAPPEL DES FAITS
-
-### 2.1 Les circonstances de l'accident
+### 1.1 Les circonstances de l'accident
 
 Le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), la demanderesse était installée au bac à shampoing du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sise [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
 
@@ -81,7 +54,7 @@ Le préposé de l'exploitation est monté sur la vasque en céramique du bac à 
 
 La demanderesse, par réflexe, a instinctivement tendu la main droite pour protéger le préposé. Sa paume a heurté la cassure préexistante, provoquant une plaie palmaire profonde et grave de la main droite dominante.
 
-### 2.2 Les lésions et le parcours médical
+### 1.2 Les lésions et le parcours médical
 
 La demanderesse a été immédiatement transportée aux urgences du [**[Centre Hospitalier]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#centre-hospitalier) où le diagnostic suivant a été posé :
 
@@ -92,7 +65,7 @@ La demanderesse a été immédiatement transportée aux urgences du [**[Centre H
 
 Une microchirurgie d'urgence a été réalisée le 30 mai 2026 en SOS Main, avec suture tendineuse et nerveuse et neurolyse. La demanderesse a ensuite bénéficié d'une rééducation fonctionnelle prolongée et d'un arrêt de travail de 56 jours (ITT du 29 mai au 23 juillet 2026).
 
-### 2.3 L'expertise judiciaire
+### 1.3 L'expertise judiciaire
 
 Par ordonnance de référé du [**[Date Ordonnance Référé]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles), le juge des référés du Tribunal Judiciaire de Foix a désigné [**[Expert Désigné]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#expert-1) en qualité d'expert. Le rapport d'expertise, déposé le 29 mai 2027, a retenu les conclusions suivantes :
 
@@ -108,7 +81,37 @@ Par ordonnance de référé du [**[Date Ordonnance Référé]**](../../../%F0%9F
 > **Pièce n° 2** : Rapport d'expertise médicale du 29 mai 2027
 <hr><hr>
 
-## III — SUR LA RESPONSABILITÉ
+## II — RECEVABILITÉ
+
+
+### 2.1 Rappel de l'instance
+
+Par exploit d'huissier en date du [**[J+63 Assignation 145]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-63-assignation-145.md), la demanderesse a fait assigner la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) devant le Tribunal Judiciaire de Foix sur le fondement de l'article 145 du Code de procédure civile aux fins de voir ordonner une expertise médicale et d'obtenir une provision à valoir sur l'indemnisation de son préjudice corporel.
+
+Par ordonnance du [**[Date Ordonnance Référé]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles), le juge des référés a :
+- Ordonné une expertise médicale confiée à [**[Expert Désigné]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#expert-1)
+- Alloué une provision de 15 000 € à valoir sur l'indemnisation définitive
+- Réservé les dépens
+
+Le rapport d'expertise a été déposé au greffe le 29 mai 2027 et a fixé la consolidation au 1er mars 2027, permettant aujourd'hui la liquidation définitive du préjudice corporel de la demanderesse.
+
+### 2.2 Qualité et recevabilité de l'action
+
+La demanderesse, en sa qualité de tiers lésé par l'accident survenu dans un établissement recevant du public, agit sur le fondement cumulé des articles 1242 alinéa 1er et 1240 du Code civil, ainsi que des articles L.4121-1 à L.4121-5 et R.4323-58 du Code du travail.
+
+L'action est recevable et non prescrite, le délai de droit commun de cinq ans (article 2224 du Code civil) courant à compter de la consolidation du 1er mars 2027.
+
+### 2.3 Compétence du Tribunal Judiciaire de Foix
+
+Le Tribunal Judiciaire de Foix est territorialement compétent en application de l'article 42 du Code de procédure civile, le fait dommageable s'étant produit dans son ressort ([Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), [**[Code Postal Accident]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#accident)).
+
+### 2.4 Absence de sursis à statuer
+
+Il n'y a pas lieu à sursis à statuer dans l'attente de l'issue de l'information judiciaire pénale ouverte au Parquet de Foix (réquisitoire introductif du [**[J+47 Date Requisitoire]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)). L'action civile et l'action pénale sont indépendantes : la demanderesse est fondée à obtenir réparation de son préjudice corporel sans attendre l'issue de la procédure pénale, conformément à l'article 4 du Code de procédure pénale (principe *le criminel ne tient pas le civil en l'état* s'agissant de l'action *ad damnun*).
+<hr><hr>
+
+## III — RESPONSABILITÉ
+
 
 ### 3.1 Responsabilité du fait des choses (article 1242 alinéa 1er du Code civil)
 
@@ -161,7 +164,7 @@ Cette faute résulte du cumul de négligences inexcusables :
 - Absence de procédure de signalement des dangers par les salariés
 - Défaut d'entretien des équipements
 
-> **Note méthodologique — Responsabilité des dirigeants** : La responsabilité in solidum des dirigeants de la SAS pourrait être recherchée sur le fondement de l'article L.225-251 du Code de commerce (faute de gestion détachable), si la carence dans la gestion des risques et le défaut d'entretien des équipements étaient établis. Cette voie, conservée comme scénario offensif, n'est pas développée dans le corps des présentes conclusions afin de ne pas fragiliser le fondement principal (1242). Cf. note méthodologique annexée.
+> **Note méthodologique — Responsabilité des dirigeants** : La responsabilité in solidum des dirigeants de la SAS pourrait être recherchée sur le fondement de l'article L.227-8 du Code de commerce (faute de gestion détachable), si la carence dans la gestion des risques et le défaut d'entretien des équipements étaient établis. Cette voie, conservée comme scénario offensif, n'est pas développée dans le corps des présentes conclusions afin de ne pas fragiliser le fondement principal (1242). Cf. note méthodologique annexée.
 
 ### 3.4 Lien de causalité et absence de cause étrangère
 
@@ -180,7 +183,8 @@ La SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%
 > *« Les commettants sont responsables des dommages causés par leurs préposés dans les fonctions auxquelles ils les ont employés. »*
 <hr><hr>
 
-## IV — SUR L'ÉVALUATION DES PRÉJUDICES
+## IV — PRÉJUDICES
+
 
 ### 4.1 Règles applicables
 
@@ -382,7 +386,7 @@ Vu les pièces versées aux débats,
 | 1 | Procès-verbal de police n° 2026/015967 (dépôt de plainte du 1er juin 2026) |
 | 2 | Rapport d'expertise médicale du 29 mai 2027 |
 | 3 | Ordonnance de référé du [**[Date Ordonnance Référé]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) (provision 15 000 €) |
-| 4 | Constitution de partie civile du 6 juillet 2026 |
+| 4 | Constitution de partie civile du [**[J+38 Date CPC]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) |
 | 5 | Certificats médicaux et comptes rendus opératoires (SOS Main) |
 | 6 | Prescriptions, arrêts de travail et pièces de rééducation |
 | 7 | Mises en demeure LRAR des [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) |

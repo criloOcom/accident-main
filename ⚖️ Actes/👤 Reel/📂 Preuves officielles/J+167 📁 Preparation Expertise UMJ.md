@@ -6,7 +6,7 @@ statut: brouillon
 reel_path: ../../👤 Reel/📂 Preuves officielles/J+167 📁 Preparation Expertise UMJ.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [📄 Preuves Officielles](./README.md) › J+167 📁 Preparation Expertise UMJ*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📄 Preuves Officielles](./README.md) › J+167 📁 Preparation Expertise UMJ*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -54,7 +54,7 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/J+167 📁 Preparation Exper
 
 - [ ] Photos lésions initiales (si disponibles)
 
-- [ ] [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) (RCT 31727387)
+- [ ] [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) (RCT **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Index de l'État Final du Dossier"
-description: "Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) — Mis à jour le 6 juillet 2026 (unification bordereau 43 pièces)"
+description: "Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) — Mis à jour le [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-mise-a-jour.md) (unification bordereau 43 pièces)"
 type: readme
 date: 2026-07-07
 tags:
@@ -16,13 +16,13 @@ drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 jx: J+39
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [🗂️ Organisation](./README.md) › J+39 📇 Index General*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+39 📇 Index General*
 <hr>
 <!-- /Breadcrumb -->
 
-# INDEX DU DOSSIER Sébastien GRAZIDE
+# INDEX DU DOSSIER [**[LA VICTIME]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 > 🔗 Source Google Drive : [1Zp-JK9kz0V0…](https://drive.google.com/open?id=1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU)
-Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) — Mis à jour le 6 juillet 2026 (unification bordereau 43 pièces)
+Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) — Mis à jour le [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-mise-a-jour.md) (unification bordereau 43 pièces)
 ## INTRODUCTION
 
 *Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) c/ [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), à la suite de l'accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md). Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) et reflète l'état final de la composition du dossier.*
@@ -107,7 +107,7 @@ Partage depuis : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F
 
 - 2026-07-05 - 20 🔄 Relance Police - V1 ✓ Vérifié : Suivi plainte + demande vidéos.
 
-- 2026-07-05 - 21 🔄 Relance CPAM - V1 ✓ Vérifié : Suivi [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) 31727387.
+- 2026-07-05 - 21 🔄 Relance CPAM - V1 ✓ Vérifié : Suivi [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
 
 - 2026-07-05 - J+32 📋 Attestation Temoin Client - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
 
@@ -195,7 +195,7 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 
 Documents non indexés conservés dans `archives/` :
 
-- [archives/annexes/](../../%F0%9F%94%91%20Token/README.md) — [📚 ANNEXE A Lexique Tokens](archives/annexes/📚%20ANNEXE%20A%20Lexique%20Tokens.md), [⚖️ ANNEXE B Lois Jurisprudence](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%E2%9A%96%EF%B8%8F%20ANNEXE%20B%20Lois%20Jurisprudence.md), [📑 ANNEXE C Pièces](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%F0%9F%93%91%20ANNEXE%20C%20Pieces.md)
+- [archives/annexes/](../README.md) — [📚 ANNEXE A Lexique Tokens](archives/annexes/📚%20ANNEXE%20A%20Lexique%20Tokens.md), [⚖️ ANNEXE B Lois Jurisprudence](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%E2%9A%96%EF%B8%8F%20ANNEXE%20B%20Lois%20Jurisprudence.md), [📑 ANNEXE C Pièces](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%F0%9F%93%91%20ANNEXE%20C%20Pieces.md)
 
 - [archives/🛡️ Constitution Partie Civile.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
 
@@ -224,22 +224,12 @@ Documents non indexés conservés dans `archives/` :
 7. Nomenclature normalisée ✓
 8. Formatting appliqué ✓
 9. Liens Légifrance ajoutés ✓
-10. Restructuration [⚖️ Actes](../../%F0%9F%94%91%20Token/README.md) — 00 à 05 + archives ✓
+10. Restructuration [⚖️ Actes](../README.md) — 00 à 05 + archives ✓
 11. Anciens dossiers `contentieux-civil/` et `contentieux-penal/` supprimés ✓
 12. 06_Annexes/` déplacé dans `archives/annexes/` ✓
 13. Bordereau unifié V2 — fusion Audience + ancien, 43 pièces séquentielles ✓
 14. Références croisées mises à jour dans tous les actes (01, 02b, 03) ✓
 15. Ancien « Bordereau de pieces.md » supprimé ✓
-<hr><hr>
-
-<hr><hr>
-
-## PIECES JOINTES
-
-- **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — de microchirurgie d'urgence (suture nerveuse et tendineuse)
-
-- **[dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — n° 31727387 (CPAM)
-
 <hr><hr>
 
 ## RÉFÉRENCES JURISPRUDENTIELLES

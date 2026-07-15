@@ -16,7 +16,7 @@ auteur: La Victime
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [📝 Procédure](./README.md) › J+47 ✉️ Consultation Avocat Jimini*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📝 Procédure](./README.md) › J+47 ✉️ Consultation Avocat Jimini*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -26,14 +26,14 @@ auteur: La Victime
 
 <hr><hr>
 
-**Objet : Consultation — Accident corporel 29/05/2026, salon Les Mauvais Garçons (Foix)**
+**Objet : Consultation — Accident corporel 29/05/2026, salon SAS LES MAUVAIS GARCONS (Foix)**
 
 Bonjour Maître,
 
 Je sollicite votre avis sur un point de procédure. Voici les faits.
 ## I — Faits et situation actuelle
 
-Le **29 mai 2026**, je suis victime d'un accident dans un salon de coiffure « Les Mauvais Garçons » ([22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)). Un bac à shampooing s'est détaché du mur et m'a sectionné le tendon, le nerf et l'artère de l'index droit. Opéré en urgence le 30 mai à la Clinique SOS Main de Toulouse. ITT : **56 jours**. Je suis informaticien indépendant (~9 000 €/an).
+Le **29 mai 2026**, je suis victime d'un accident dans un salon de coiffure « SAS LES MAUVAIS GARCONS » ([22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)). Un bac à shampooing s'est détaché du mur et m'a sectionné le tendon, le nerf et l'artère de l'index droit. Opéré en urgence le 30 mai à la Clinique SOS Main de Toulouse. ITT : **56 jours**. Je suis informaticien indépendant (~9 000 €/an).
 
 La SAS exploitante a un capital de **200 €**, **0 salarié déclaré**, et tous mes courriers recommandés à cette adresse reviennent NPAI, alors même que le salon a rouvert. Malgré mes demandes écrites, je n'ai obtenu aucune communication du nom de son assureur responsabilité civile, ce qui bloque toute démarche d'indemnisation.
 
@@ -44,7 +44,7 @@ Un **procès-verbal de police** a été établi le 2 juin 2026 ([PV n°2026/0159
 
 J'ai constitué un dossier complet et engagé plusieurs actions depuis l'accident :
 
-- **Signalement au Maire de Foix** (M. Tavella) dès le 1er juin — il m'a répondu par écrit avoir saisi la Préfecture, l'**Inspection du travail** et le **CODAF**.
+- **Signalement au Maire de Foix** (Monsieur TAVELLA) dès le 1er juin — il m'a répondu par écrit avoir saisi la Préfecture, l'**Inspection du travail** et le **CODAF**.
 
 - **20+ courriers recommandés** envoyés : mises en demeure à la SAS/dirigeants (tous NPAI), signalements à l'URSSAF, INPI, SIE, Préfecture, Inspection du travail, CODAF, CPAM, etc.
 

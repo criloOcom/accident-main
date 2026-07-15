@@ -1,6 +1,6 @@
 ---
 title: "Relance Préfecture / CODAF — Suite signalement Maire de Foix"
-description: "Suivi du signalement transmis par M. Tavella (Adjoint au Maire) le 1er juin 2026 — demande d'état d'avancement"
+description: "Suivi du signalement transmis par Monsieur TAVELLA (Adjoint au Maire) le 1er juin 2026 — demande d'état d'avancement"
 type: courrier
 date: 2026-07-15
 tags:
@@ -18,7 +18,7 @@ jx: J+47
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [🔄 Relances](./README.md) › J+47 ✉️ Relance Prefecture CODAF*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🔄 Relances](./README.md) › J+47 ✉️ Relance Prefecture CODAF*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -32,17 +32,17 @@ jx: J+47
 **Expéditeur :** [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) — [10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 **Destinataire :** Monsieur le Préfet de l'Ariège — Référent CODAF — Préfecture de l'Ariège, 2 Rue de la Préfecture, 09000 Foix
 **Date :** [Date d'envoi — À compléter avant impression]
-**Objet :** Suivi du signalement transmis par la Mairie de Foix — Salon « LES MAUVAIS GARÇONS » ([22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md))
+**Objet :** Suivi du signalement transmis par la Mairie de Foix — Salon « SAS LES MAUVAIS GARCONS » ([22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md))
 
 <hr><hr>
 
 Monsieur le Préfet,
 
-Par courriel du **1er juin 2026**, [Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), Adjoint au Maire de Foix chargé de l'Urbanisme et des Travaux, m'a informé avoir pris l'attache de vos services afin de diligenter **l'Inspection du travail** et le **CODAF (Comité Opérationnel Départemental Anti-Fraude)** au sujet de l'accident corporel grave dont j'ai été victime le **29 mai 2026** dans le salon « LES MAUVAIS GARÇONS », [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md).
+Par courriel du **1er juin 2026**, [Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), Adjoint au Maire de Foix chargé de l'Urbanisme et des Travaux, m'a informé avoir pris l'attache de vos services afin de diligenter **l'Inspection du travail** et le **CODAF (Comité Opérationnel Départemental Anti-Fraude)** au sujet de l'accident corporel grave dont j'ai été victime le **29 mai 2026** dans le salon « SAS LES MAUVAIS GARCONS », [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md).
 
 Victime directe de cet accident — **plaie palmaire profonde de la main droite avec section du tendon fléchisseur, du nerf digital et de l'artère collatérale de l'index droit**, opéré en urgence le 30 mai 2026, **ITT de 56 jours** — je souhaiterais savoir :
 
-1. Si vos services ont **bien été saisis** à la suite du signalement de M. Tavella ;
+1. Si vos services ont **bien été saisis** à la suite du signalement de Monsieur TAVELLA ;
 2. Si des **contrôles ont été ou sont envisagés** dans cet établissement ;
 3. Et, le cas échéant, si des **décisions administratives** sont déjà intervenues (mesures de police, mises en demeure, procès-verbaux administratifs, etc.).
 
@@ -57,7 +57,7 @@ Je vous remercie de l'attention portée à la présente et vous prie d'agréer, 
 [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 ## PIECES JOINTES
 
-- **Copie du courriel de M. Tavella (1er juin 2026)**
+- Copie du courriel de Monsieur TAVELLA (1er juin 2026)
 
 - **PV initial n°2026/015967**
 

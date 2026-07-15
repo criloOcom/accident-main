@@ -19,7 +19,7 @@ jx: J+47
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../%F0%9F%94%91%20Token/README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes proceduraux](../../%F0%9F%94%91%20Token/README.md) › J+47 🚔 PV Audition Plainte Complementaire Foix*
+*[🏠](../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes proceduraux](../README.md) › J+47 🚔 PV Audition Plainte Complementaire Foix*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -41,7 +41,7 @@ jx: J+47
 
 S'est présenté(e) spontanément à nos services ce jour, le 15 juillet 2026 à 14h30 :
 
-Monsieur [Sébastien GRAZIDE], né le 18 janvier 1982 à [Toulouse], de nationalité française.
+Monsieur [Sébastien GRAZIDE], né le [**[Date de naissance de la victime]**] à [Toulouse], de nationalité française.
 Demeurant au [10 Avenue de Purpan, 31700 Blagnac].
 Profession : Informaticien indépendant (SIREN : [500 474 457]).
 Contact : [06 30 51 67 75] / [sebastien.grazide@gmail.com].

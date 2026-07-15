@@ -13,7 +13,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/J+39 📜 Strategie Jurispru
 source: local
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [📚 Analyses Juridiques](./README.md) › J+39 📜 Strategie Jurisprudentielle*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+39 📜 Strategie Jurisprudentielle*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -129,7 +129,7 @@ Voir détails : [11+12 📊 Evaluation Dintilhac consolidee.md](../%F0%9F%92%B0%
 
 1. **Assureur RC** (si identifié) → action directe L.124-3 C. Assurances
 
-2. **FGTI/CIVI** → voie principale si insolvabilité (200 €). Art. 706-3 CPP.
+2. **FGTI/CIVI** → voie principale si insolvabilité ([**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md)). Art. 706-3 CPP.
 
 3. **Dirigeants** → faute détachable (subsidiaire)
 

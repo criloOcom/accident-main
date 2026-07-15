@@ -19,7 +19,7 @@ reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/J+50 ✉️
 jx: J+50-bis
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [📜 Mises en demeure](./README.md) › J+50-bis ✉️ Mise en demeure Assureur RC — Avocat*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › J+50-bis ✉️ Mise en demeure Assureur RC — Avocat*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -18,7 +18,7 @@ jx: J+37
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [🚨 Signalements](./README.md) › J+37 ✉️ Signalement CODAF*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🚨 Signalements](./README.md) › J+37 ✉️ Signalement CODAF*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -133,17 +133,15 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
-<hr><hr>
+## PIÈCES JOINTES
 
-## PIECES JOINTES
+- Copie du [PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procédure pénale)
 
-- **[PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Procédure pénale
+- Accusés de réception des courriers recommandés retournés (29 mai 2026 — mentions NPAI)
 
-- **Accusés de réception des courriers recommandés retournés** — mentions NPAI (29 mai 2026)
+- [Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) ([938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
 
-- **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN 938 033 222
-
-- **Dossier médical complet (11 pièces)** — Dossier médical complet
+- Dossier médical complet (11 pièces)
 <hr><hr>
 
 ## Sources Législation

@@ -17,7 +17,7 @@ jx: J+47
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [🔄 Relances](./README.md) › J+47 ✉️ Relance Inspection Travail*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🔄 Relances](./README.md) › J+47 ✉️ Relance Inspection Travail*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -31,13 +31,13 @@ jx: J+47
 **Expéditeur :** [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) — [10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 **Destinataire :** Madame, Monsieur l'Inspecteur du Travail — DDETS de l'Ariège, Cité Administrative, 2 Rue de la Préfecture, 09000 Foix
 **Date :** [Date d'envoi — À compléter avant impression]
-**Objet :** Demande d'information — Accident corporel du 29 mai 2026 — Salon « LES MAUVAIS GARÇONS » ([22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md))
+**Objet :** Demande d'information — Accident corporel du 29 mai 2026 — Salon « SAS LES MAUVAIS GARCONS » ([22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md))
 
 <hr><hr>
 
 Madame, Monsieur,
 
-Je me permets de vous écrire en ma qualité de **victime directe** d'un accident corporel grave survenu le **29 mai 2026** dans le salon « LES MAUVAIS GARÇONS », [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) (PV de police n°2026/015967 — Commissariat de Toulouse).
+Je me permets de vous écrire en ma qualité de **victime directe** d'un accident corporel grave survenu le **29 mai 2026** dans le salon « SAS LES MAUVAIS GARCONS », [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) (PV de police n°2026/015967 — Commissariat de Toulouse).
 
 Par courriel du **1er juin 2026**, [Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), Adjoint au Maire de Foix, m'a confirmé avoir saisi la Préfecture, laquelle devait **diligenter vos services** et le CODAF afin d'examiner la situation de cet établissement.
 
@@ -58,7 +58,7 @@ Veuillez agréer, Madame, Monsieur, l'expression de ma considération distingué
 [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 ## PIECES JOINTES
 
-- **Copie du courriel de M. Tavella (1er juin 2026)**
+- Copie du courriel de Monsieur TAVELLA (1er juin 2026)
 
 - **PV initial n°2026/015967**
 

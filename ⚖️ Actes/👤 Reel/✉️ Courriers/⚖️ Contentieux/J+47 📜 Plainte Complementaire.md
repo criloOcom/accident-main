@@ -16,12 +16,12 @@ tags:
 statut: preparation
 destinataire: Commissariat de Police de Foix
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/J+47 📜 Plainte Complementaire.md
+reel_path: ../../../👤 Reel/✉️ Courriers/⚖️ Contentieux/J+47 📜 Plainte Complementaire.md
 jx: J+47
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [⚖️ Contentieux](./README.md) › J+47 📜 Plainte Complementaire*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [⚖️ Contentieux](./README.md) › J+47 📜 Plainte Complementaire*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -43,12 +43,12 @@ Foix, le **[Date du dépôt]**
 
 Monsieur l'Officier de Police Judiciaire,
 
-Je soussigné(e), [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), né(e) le 18 janvier 1982, demeurant [10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), informaticien indépendant (SIREN [500 474 457](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)), victime d'un accident corporel grave survenu le 29 mai 2026 au sein de l'établissement "Les Mauvais Garçons" exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)), sis [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), 09000 Foix,
+Je soussigné(e), [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), né(e) le [**[Date de naissance de la victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md), demeurant [10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), informaticien indépendant (SIREN [500 474 457](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)), victime d'un accident corporel grave survenu le 29 mai 2026 au sein de l'établissement "SAS LES MAUVAIS GARCONS" exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)), sis [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), 09000 Foix,
 
 **VIENS PAR LA PRÉSENTE DÉPOSER PLAINTE COMPLÉMENTAIRE** contre les dirigeants de la société susmentionnée pour les faits suivants, constituant des infractions pénales caractérisées :
 ## I — RAPPEL DES FAITS INITIAUX ([PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))
 
-Le **29 mai 2026 vers 15h00**, alors que je me trouvais en qualité de client au sein du salon de coiffure "Les Mauvais Garçons", un préposé de l'établissement est monté sur un bac à shampoing en céramique instable pour régler un poste de télévision.
+Le **29 mai 2026 vers 15h00**, alors que je me trouvais en qualité de client au sein du salon de coiffure "SAS LES MAUVAIS GARCONS", un préposé de l'établissement est monté sur un bac à shampoing en céramique instable pour régler un poste de télévision.
 
 Sous son poids, la vasque a basculé violemment, et ma main droite a heurté une cassure préexistante aux arêtes tranchantes, provoquant une **plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur et du paquet vasculo-nerveux de l'index droit**.
 
@@ -185,31 +185,25 @@ Au vu des éléments ci-dessus exposés, je sollicite respectueusement qu'il soi
 Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière de conformité ERP et d'analyse financière de la société) peuvent être trouvées en **Annexe 3 : Pistes d'enquête complémentaires**, sans préjudice de votre appréciation souveraine sur les investigations utiles.
 <hr><hr>
 
-<hr><hr>
-
 ## PIECES JOINTES
 
-- **Copie du PV initial n°2026/015967** — établi le 2 juin 2026 par le Commissariat de Toulouse
+1. **Copie du PV initial n°2026/015967** (établi le 2 juin 2026 par le Commissariat de Toulouse)
 
-- **Copie de la requête Article 145 CPC** — déposée le 15 juillet 2026 devant le TJ de Foix (identification assureur RC + conservation vidéos)
+2. **Copie de la requête Article 145 CPC**[^13] déposée le 15 juillet 2026 devant le TJ de Foix (identification assureur RC + conservation vidéos)
 
-- **Accusés de réception des LRAR retournés NPAI** (29 mai 2026)
+3. **Accusés de réception des LRAR retournés NPAI** (29 mai 2026)
 
-- **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN 938 033 222
+4. **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** (SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
 
-- **Note d'audit RNE/INPI** — du 10 juillet 2026
+5. **Note d'audit RNE/INPI** du 10 juillet 2026
 
-- **Photos de l'accident et de la vasque cassée** — datées et légendées
+6. **Photos de l'accident et de la vasque cassée** (datées et légendées)
 
-- **[CR opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — de microchirurgie d'urgence (suture nerveuse et tendineuse)
+7. **Certificats médicaux** ([CR opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md), [arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md))
 
-- **[arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — justifiant 56 jours d'ITT
+8. **Copie des mises en demeure envoyées** aux dirigeants
 
-- **Copie des mises en demeure envoyées** — aux dirigeants
-
-- **Liste chronologique des démarches entreprises**
-
-<hr><hr>
+9. **Liste chronologique des démarches entreprises**
 <hr><hr>
 
 ## V — FONDEMENTS JURIDIQUES RÉCAPITULATIFS
@@ -231,7 +225,7 @@ Je sollicite également :
 
 3. **La communication écrite** des suites données à cette plainte, conformément à l'Article 15-3 du Code de procédure pénale.
 
-> *« Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale, y compris lorsque ces plaintes sont déposées dans un service ou une unité de police judiciaire territorialement incompétents. Dans ce cas, la plainte est, s'il y a lieu, transmise au service ou à l'unité territorialement compétents. Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime, qui mentionne les délais de prescription de l'action publique définis aux articles 7 à 9 ainsi que la possibilité d'interrompre le délai de prescription par le dépôt d'une plainte avec [constitution de partie civile](../../../%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md), en application de l'article 85 . Si elle en fait la demande, une copie du procès-verbal lui est immédiatement remise. Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procès-verbal par leur numéro d'immatriculation administrative. »* <br>
+> *« Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale, y compris lorsque ces plaintes sont déposées dans un service ou une unité de police judiciaire territorialement incompétents. Dans ce cas, la plainte est, s'il y a lieu, transmise au service ou à l'unité territorialement compétents. Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime, qui mentionne les délais de prescription de l'action publique définis aux articles 7 à 9 ainsi que la possibilité d'interrompre le délai de prescription par le dépôt d'une plainte avec [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md), en application de l'article 85 . Si elle en fait la demande, une copie du procès-verbal lui est immédiatement remise. Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procès-verbal par leur numéro d'immatriculation administrative. »* <br>
 > [Article 15-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) <br>
 > **Code de procédure pénale > Section 1 : Dispositions générales — abrogation différée.[^6]**
 
@@ -310,7 +304,7 @@ Les éléments ci-après sont proposés à titre de suggestions pour l'enquête,
 
 ### 1. Vérification détaillée de l'établissement
 
-- [ ] 1.1. Constatation sur place de l'état des locaux du salon « Les Mauvais Garçons » (configuration des postes de coiffure, emplacement du poste de télévision, circulation du public).
+- [ ] 1.1. Constatation sur place de l'état des locaux du salon « SAS LES MAUVAIS GARCONS » (configuration des postes de coiffure, emplacement du poste de télévision, circulation du public).
 
 - [ ] 1.2. Vérification de l'état actuel du bac à shampoing en céramique impliqué dans l'accident (existence d'une cassure, de bords tranchants, stabilité de la vasque) ou, en cas de remplacement, constat de la modification intervenue.
 

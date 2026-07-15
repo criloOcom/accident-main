@@ -11,12 +11,12 @@ tags:
 statut: final
 destinataire: President du Tribunal Judiciaire de Foix
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/35 ✉️ Courrier President TJ Foix.md
+reel_path: ../../../👤 Reel/✉️ Courriers/⚖️ Contentieux/J+44 ✉️ Preuves Complementaires TJ Foix.md
 jx: J+44
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [⚖️ Contentieux](./README.md) › J+44 ✉️ Preuves Complementaires TJ Foix*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [⚖️ Contentieux](./README.md) › J+44 ✉️ Preuves Complementaires TJ Foix*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -35,7 +35,7 @@ BP 50078
 
 **Objet : Transmission de preuves complementaires — [PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Accident corporel du 29 mai 2026**
 
-**Ref : SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) — [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° 31727387
+**Ref : SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) — [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
 
 Monsieur le President,
 ## INTRODUCTION
@@ -57,7 +57,7 @@ Les procedures suivantes ont ete engagees :
 
 2. **Mises en demeure LRAR** (29 mai 2026) : retournees NPAI
 
-3. **[Constitution de partie civile](../../../%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** deposee aupres du Doyen des Juges d'Instruction de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
+3. **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** deposee aupres du Doyen des Juges d'Instruction de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
 4. **Dossier medical complet** transmis au Procureur de la Republique
 <hr><hr>
@@ -97,12 +97,10 @@ Dans l'attente de votre retour, je vous prie d'agreer, Monsieur le President, l'
 
 ## PIECES JOINTES
 
-- **Accusés de réception des courriers recommandés retournés (29 mai 2026)** — Preuve de la non-distribution
+- **Accusés de réception des courriers recommandés retournés (29 mai 2026)**
 
-- **[Copie du PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Procédure pénale en cours
+- **[Copie du PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)**
 
-- **[Extrait Kbis de la SAS [L'Exploitant du Commerce (La SAS)]](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** ([938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)) — Confirmant le siège social au 22 Rue Lafaurie
+- **[Extrait Kbis de la SAS [L'Exploitant du Commerce (La SAS)]](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** ([938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
 
-- **Note d'audit RNE/INPI du 10 juillet 2026** — Confirmant que la SAS est toujours active
-
-<hr><hr>
+- **Note d'audit RNE/INPI du 10 juillet 2026**

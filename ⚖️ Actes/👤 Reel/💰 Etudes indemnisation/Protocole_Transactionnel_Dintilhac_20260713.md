@@ -5,7 +5,7 @@ type: preuve
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [⚖️ Actes](../../%F0%9F%94%91%20Token/README.md) › [🔑 Token](../../%F0%9F%94%91%20Token/README.md) › [💰 Etudes indemnisation](README.md) › Protocole_Transactionnel_Dintilhac_20260713*
+*[🏠](../../README.md) › [⚖️ Actes](../README.md) › [🔑 Token](../README.md) › [💰 Etudes indemnisation](README.md) › Protocole_Transactionnel_Dintilhac_20260713*
 <hr>
 <!-- /Breadcrumb -->
 

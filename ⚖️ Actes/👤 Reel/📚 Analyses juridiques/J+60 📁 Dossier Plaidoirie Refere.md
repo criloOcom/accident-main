@@ -15,7 +15,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/J+60 📁 Dossier Plaidoirie
 jx: J+60
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [📚 Analyses Juridiques](./README.md) › J+60 📁 Dossier Plaidoirie Refere*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+60 📁 Dossier Plaidoirie Refere*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -157,14 +157,6 @@ Non, Monsieur le Juge. C'est précisément l'une des raisons de notre présence 
 
 **Q3 : "Le préposé était-il véritablement dans l'exercice de ses fonctions lorsqu'il est monté sur le bac ?"** <br>
 Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'enceinte de l'établissement pendant ses horaires de travail pour accomplir une tâche au profit de l'exploitation. Il bénéficie donc de l'immunité civile selon la jurisprudence Costedoat, et la responsabilité de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) en tant que commettant est pleinement engagée.
-<hr><hr>
-
-<hr><hr>
-
-## PIECES JOINTES
-
-- **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — de microchirurgie d'urgence (suture nerveuse et tendineuse)
-
 <hr><hr>
 
 ## Sources Législation

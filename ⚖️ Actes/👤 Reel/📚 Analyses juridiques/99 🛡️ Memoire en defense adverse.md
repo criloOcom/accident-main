@@ -1,5 +1,5 @@
 ---
-title: "Mémoire en défense adverse — SAS Les Mauvais Garçons"
+title: "Mémoire en défense adverse — SAS SAS LES MAUVAIS GARCONS"
 description: "Pour :** [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (Partie Défenderesse)"
 type: analyse_juridique
 date: 2026-07-09
@@ -14,7 +14,7 @@ auteur: Avocat de la défense
 reel_path: ../../👤 Reel/📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [📚 Analyses Juridiques](./README.md) › 99 🛡️ Memoire en defense adverse*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 99 🛡️ Memoire en defense adverse*
 <hr>
 <!-- /Breadcrumb -->
 

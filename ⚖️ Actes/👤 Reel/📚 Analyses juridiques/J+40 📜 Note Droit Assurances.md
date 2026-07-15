@@ -15,7 +15,7 @@ source: local
 jx: J+40
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [📚 Analyses Juridiques](./README.md) › J+40 📜 Note Droit Assurances*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+40 📜 Note Droit Assurances*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -33,7 +33,7 @@ Le principe de l'action directe permet à la victime d'agir directement contre l
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier.[^1]**
 
-**État dans notre dossier :** L'action directe est parfaitement fondée et a été formellement engagée par la mise en demeure adressée à la compagnie d'assurance de la SAS. Cette action est autonome. Elle échappe aux procédures collectives éventuelles affectant la SAS, dont le 200 € rend l'assureur indispensable à l'indemnisation.
+**État dans notre dossier :** L'action directe est parfaitement fondée et a été formellement engagée par la mise en demeure adressée à la compagnie d'assurance de la SAS. Cette action est autonome. Elle échappe aux procédures collectives éventuelles affectant la SAS, dont le [**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) rend l'assureur indispensable à l'indemnisation.
 
 > *« L'action directe de la victime contre l'assureur garantissant la responsabilité civile de l'auteur du dommage est indépendante de l'action que la victime pourrait exercer contre l'assuré lui-même. »* <br>
 > [Arrêt n°21-12.478](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770) <br>
@@ -113,7 +113,7 @@ Après indemnisation, l'assureur de la SAS peut, par l'effet de la subrogation l
 > [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^9]**
 
-Il est donc impératif de rechercher si les dirigeants disposent d'une assurance Responsabilité Civile "Vie Privée" (intégrant parfois une extension chef d'entreprise) ou d'une Assurance Responsabilité des Mandataires Sociaux (RCMS), bien que cela soit très peu probable au vu de la négligence globale (200 €).
+Il est donc impératif de rechercher si les dirigeants disposent d'une assurance Responsabilité Civile "Vie Privée" (intégrant parfois une extension chef d'entreprise) ou d'une Assurance Responsabilité des Mandataires Sociaux (RCMS), bien que cela soit très peu probable au vu de la négligence globale ([**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md)).
 <hr><hr>
 
 ## ANNEXE : MODÈLE DE LETTRE DE MISE EN DEMEURE À L'ASSUREUR RC

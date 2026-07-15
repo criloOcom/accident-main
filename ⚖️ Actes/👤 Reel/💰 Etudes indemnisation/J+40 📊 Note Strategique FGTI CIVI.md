@@ -15,7 +15,7 @@ reel_path: ../../👤 Reel/💰 Etudes indemnisation/J+40 📊 Note Strategique 
 jx: J+40
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [💰 Études d'Indemnisation](./README.md) › J+40 📊 Note Strategique FGTI CIVI*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [💰 Études d'Indemnisation](./README.md) › J+40 📊 Note Strategique FGTI CIVI*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -99,14 +99,6 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
   1. Continuer la pression pour forcer la communication d'une assurance RC. Si une assurance est trouvée, l'action directe est prioritaire.
   2. Maintenir l'expertise (12 novembre 2026).
   3. Si aucune assurance RC n'est confirmée, ou si la SAS se déclare en liquidation, **saisir immédiatement la CIVI** sans attendre l'issue du procès pénal (la CIVI peut accorder une provision sur la base de l'ITT avérée).
-<hr><hr>
-
-<hr><hr>
-
-## PIECES JOINTES
-
-- **[arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — justifiant 56 jours d'ITT (pièce maîtresse pour la CIVI)
-
 <hr><hr>
 
 ## Sources Législation

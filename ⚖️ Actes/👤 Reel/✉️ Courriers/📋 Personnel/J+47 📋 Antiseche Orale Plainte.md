@@ -6,7 +6,7 @@ statut: archive
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [📋 Personnel](./README.md) › J+47 📋 Antiseche Orale Plainte*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📋 Personnel](./README.md) › J+47 📋 Antiseche Orale Plainte*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -225,7 +225,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 
 ### **Si l'OPJ te reçoit en audition — amorce**
 
-> *« Bonjour Madame/Monsieur l'officier. Je suis [Mon nom], victime d'un accident grave le 29 mai au salon Les Mauvais Garçons. J'ai déjà un PV (2026/015967). Je viens pour une plainte complémentaire, parce que depuis, la société refuse de communiquer son assurance et ne répond à aucun courrier. Et surtout, les vidéos de surveillance risquent d'être écrasées d'un jour à l'autre si rien n'est fait. »* <br>
+> *« Bonjour Madame/Monsieur l'officier. Je suis [Mon nom], victime d'un accident grave le 29 mai au salon SAS LES MAUVAIS GARCONS. J'ai déjà un PV (2026/015967). Je viens pour une plainte complémentaire, parce que depuis, la société refuse de communiquer son assurance et ne répond à aucun courrier. Et surtout, les vidéos de surveillance risquent d'être écrasées d'un jour à l'autre si rien n'est fait. »* <br>
 <hr><hr>
 
 ## ⚖️ **FONDEMENTS JURIDIQUES**

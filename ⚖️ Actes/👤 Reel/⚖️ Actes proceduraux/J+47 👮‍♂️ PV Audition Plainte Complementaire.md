@@ -19,7 +19,7 @@ jx: J+47
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [⚖️ Actes proceduraux](./README.md) › J+47 👮‍♂️ PV Audition Plainte Complementaire*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes proceduraux](./README.md) › J+47 👮‍♂️ PV Audition Plainte Complementaire*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -63,7 +63,7 @@ Sébastien GRAZIDE nous déclare :
 
 ## III — DÉCLARATION ET DÉPÔT DE PLAINTE COMPLÉMENTAIRE
 
-> « Je me présente à vous aujourd'hui pour déposer une plainte complémentaire faisant suite à ma plainte initiale du 2 juin 2026 (PV n°2026/015967). Pour rappel, j'ai été gravement blessé à la main droite le 29 mai 2026 dans le salon de coiffure "Les Mauvais Garçons", géré par la société SAS LES MAUVAIS GARCONS, situé au 22 Rue Lafaurie, 09000 Foix. Cette blessure a nécessité une intervention chirurgicale en urgence et a entraîné 56 jours d'ITT.
+> « Je me présente à vous aujourd'hui pour déposer une plainte complémentaire faisant suite à ma plainte initiale du 2 juin 2026 (PV n°2026/015967). Pour rappel, j'ai été gravement blessé à la main droite le 29 mai 2026 dans le salon de coiffure "SAS LES MAUVAIS GARCONS", géré par la société SAS LES MAUVAIS GARCONS, situé au 22 Rue Lafaurie, 09000 Foix. Cette blessure a nécessité une intervention chirurgicale en urgence et a entraîné 56 jours d'ITT.
 >
 > Depuis mon premier dépôt de plainte, j'ai tenté à de multiples reprises de contacter les gérants de la société SAS LES MAUVAIS GARCONS et le propriétaire des murs, afin d'obtenir amiablement les coordonnées de leur assurance responsabilité civile, indispensable pour la prise en charge de mes préjudices.
 >

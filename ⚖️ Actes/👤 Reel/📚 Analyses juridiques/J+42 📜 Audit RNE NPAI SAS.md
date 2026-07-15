@@ -9,7 +9,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/J+42 📜 Audit RNE NPAI SAS
 jx: J+42
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [📚 Analyses Juridiques](./README.md) › J+42 📜 Audit RNE NPAI SAS*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+42 📜 Audit RNE NPAI SAS*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -34,11 +34,11 @@ jx: J+42
 | SIREN | [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) |
 | Statut RNE | **Active** (inscrite, dernière MAJ 08/07/2026) |
 | Siège social | [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) (inchangé) |
-| 200 € | 200 € |
+| [**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) | 200 € |
 | Président | [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) |
 | DG | [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) |
 | Salariés | 0 (zéro) |
-| Établissements | 1 (unique au 22 Rue Lafaurie) |
+| Établissements | 1 (unique au 22 Rue Lafaurie, 09000 Foix) |
 | Comptes | **En défaut de publication** |
 | Dissolution/Liquidation | **Aucune procédure en cours** |
 
@@ -64,7 +64,7 @@ Dans un local commercial fermé, les LRAR ne trouvent pas preneur.
 
 ### 3. Investigation structure miroir
 
-**Résultat : AUCUNE nouvelle entité légale trouvée au 22 Rue Lafaurie, Foix.** Les recherches n'ont identifié que [L'Exploitant du Commerce (La SAS)] à cette adresse.
+**Résultat : AUCUNE nouvelle entité légale trouvée au 22 Rue Lafaurie, 09000 Foix, Foix.** Les recherches n'ont identifié que [L'Exploitant du Commerce (La SAS)] à cette adresse.
 
 La rumeur de "réouverture avec nouveaux gérants" peut correspondre à :
 

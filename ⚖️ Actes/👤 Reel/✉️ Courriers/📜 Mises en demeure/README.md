@@ -1,6 +1,7 @@
 # Index — ✉️ Courriers/📜 Mises en demeure (Versions Réelles)
 
 - [J+31 ✉️ Mise en demeure Assureur.md](J+31 ✉️ Mise en demeure Assureur.md)
+- [J+31 ✉️ Mise en demeure Directrice.md](J+31 ✉️ Mise en demeure Directrice.md)
 - [J+31 ✉️ Mise en demeure President.md](J+31 ✉️ Mise en demeure President.md)
 - [J+31 ✉️ Mise en demeure Proprietaire.md](J+31 ✉️ Mise en demeure Proprietaire.md)
 - [J+31 ✉️ Mise en demeure SAS.md](J+31 ✉️ Mise en demeure SAS.md)

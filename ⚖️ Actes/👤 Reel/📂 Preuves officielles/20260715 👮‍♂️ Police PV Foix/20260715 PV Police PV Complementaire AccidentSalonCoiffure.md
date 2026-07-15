@@ -14,7 +14,7 @@ statut: preparation
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [📂 Preuves officielles](../README.md) › 20260715 PV Police PV Complementaire AccidentSalonCoiffure*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📂 Preuves officielles](../README.md) › 20260715 PV Police PV Complementaire AccidentSalonCoiffure*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -33,7 +33,7 @@ SERVICE LOCAL DE SECURITE D'INFRACTION
 PV n° 2026/015967/COMP
 
 VICTIME | Monsieur [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
-né le 18 janvier 1982 à [Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-metropole-regionale.md), de nationalité FRANCAISE,
+né le [**[Date de naissance de la victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md) à [Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-metropole-regionale.md), de nationalité FRANCAISE,
 Demeurant : [10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 Téléphone domicile : [06 30 51 67 75](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)
 Communication électronique demandée : OUI - E-mail : [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
@@ -57,7 +57,7 @@ Nous, Officier de Police Judiciaire,
 
 M. [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) nous déclare :
 
-"Suite à mon dépôt de plainte initial concernant mon accident du 29 mai 2026 au salon 'Les Mauvais Garçons', situé [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à Foix, je souhaite aujourd'hui porter à votre connaissance de nouveaux éléments graves qui me semblent constituer des infractions pénales caractérisées, notamment des faits d'obstruction à la justice et de dissimulation de preuves.
+"Suite à mon dépôt de plainte initial concernant mon accident du 29 mai 2026 au salon 'SAS LES MAUVAIS GARCONS', situé [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à Foix, je souhaite aujourd'hui porter à votre connaissance de nouveaux éléments graves qui me semblent constituer des infractions pénales caractérisées, notamment des faits d'obstruction à la justice et de dissimulation de preuves.
 
 Premièrement, j'ai tenté à plusieurs reprises de contacter les dirigeants de la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), M. [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et Mme [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), pour obtenir les coordonnées de leur assurance Responsabilité Civile. J'ai envoyé des mises en demeure par lettre recommandée avec accusé de réception à l'adresse du siège social. Tous ces courriers m'ont été retournés avec la mention 'défaut d'adresse / distribution impossible' (NPAI). Or, selon mes vérifications récentes au RNE (le 10 juillet), la société est toujours officiellement immatriculée et active à cette adresse. Il s'agit pour moi d'un refus délibéré de communiquer un document essentiel, entravant ainsi la manifestation de la vérité.
 

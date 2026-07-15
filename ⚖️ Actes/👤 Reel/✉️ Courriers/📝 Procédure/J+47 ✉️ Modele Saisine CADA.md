@@ -18,7 +18,7 @@ jx: J+47
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [📝 Procédure](./README.md) › J+47 ✉️ Modele Saisine CADA*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📝 Procédure](./README.md) › J+47 ✉️ Modele Saisine CADA*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -34,7 +34,7 @@ jx: J+47
 **Destinataire :** Commission d'accès aux documents administratifs (CADA), 35 rue Saint-Dominique, 75700 Paris 07 SP
 **Date :** [Date d'envoi — À compléter]
 
-**Objet : Saisine de la CADA — Refus de communication de documents administratifs concernant un accident corporel (salon « LES MAUVAIS GARÇONS », Foix)**
+**Objet : Saisine de la CADA — Refus de communication de documents administratifs concernant un accident corporel (salon « SAS LES MAUVAIS GARCONS », Foix)**
 
 <hr><hr>
 
@@ -43,7 +43,7 @@ Madame, Monsieur,
 Je saisis la Commission d'accès aux documents administratifs, en application du Code des relations entre le public et l'administration (CRPA), à la suite du refus de communication de documents opposé par **[la Préfecture de l'Ariège / la DDETS de l'Ariège — Inspection du travail]**.
 ## I — Identité du demandeur
 
-Je soussigné(e) [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), demeurant [10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), victime d'un accident corporel grave survenu le **29 mai 2026** dans le salon de coiffure « LES MAUVAIS GARÇONS », [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) (plaie palmaire profonde de la main droite, section partielle tendon fléchisseur + paquet vasculo-nerveux, ITT 56 jours — PV de police n°2026/015967).
+Je soussigné(e) [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), demeurant [10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), victime d'un accident corporel grave survenu le **29 mai 2026** dans le salon de coiffure « SAS LES MAUVAIS GARCONS », [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) (plaie palmaire profonde de la main droite, section partielle tendon fléchisseur + paquet vasculo-nerveux, ITT 56 jours — PV de police n°2026/015967).
 <hr><hr>
 
 ## II — Administration(s) concernée(s)
@@ -102,7 +102,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération dist
 
 - **Copie des réponses reçues (si refus exprès)**
 
-- **Copie du courriel de M. Tavella (1er juin 2026)**
+- Copie du courriel de Monsieur TAVELLA (1er juin 2026)
 
 - **[Copie du PV de police n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)**
 
