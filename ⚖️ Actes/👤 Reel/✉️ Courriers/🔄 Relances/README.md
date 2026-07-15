@@ -1,10 +1,10 @@
 # Index — ✉️ Courriers/🔄 Relances (Versions Réelles)
 
-- [✉️ Relance Consolidation.md](✉️ Relance Consolidation.md)
 - [✉️ Relance Dirigeants.md](✉️ Relance Dirigeants.md)
 - [✉️ Relance Inspection Travail.md](✉️ Relance Inspection Travail.md)
 - [✉️ Relance Prefecture CODAF.md](✉️ Relance Prefecture CODAF.md)
 - [✉️ Suivi Adjoint Maire Tavella.md](✉️ Suivi Adjoint Maire Tavella.md)
+- [✉️🔄 Consolidation.md](✉️🔄 Consolidation.md)
 - [🔄 DrDJERBI Consolidation ✉️Mail.md](🔄 DrDJERBI Consolidation ✉️Mail.md)
 - [🔄 Relance CPAM.md](🔄 Relance CPAM.md)
 - [🔄 Relance Police Videos.md](🔄 Relance Police Videos.md)

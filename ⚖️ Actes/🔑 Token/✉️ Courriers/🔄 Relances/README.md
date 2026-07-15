@@ -17,7 +17,7 @@ Relances et suivis adressés aux différents interlocuteurs (CPAM, Police, justi
 |---------|-------------|------|
 | [🔄 Relance CPAM.md](%F0%9F%94%84%20Relance%20CPAM.md) | CPAM | Demande d'informations |
 | [🔄 Relance Police Videos.md](%F0%9F%94%84%20Relance%20Police%20Videos.md) | Police Nationale | Demande de vidéos |
-| [✉️ Relance Consolidation.md](%E2%9C%89%EF%B8%8F%20Relance%20Consolidation.md) | — | Certificat de consolidation |
+| [✉️🔄 Consolidation.md](%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Consolidation.md) | — | Certificat de consolidation |
 | [✉️ Suivi Adjoint Maire Tavella.md](%E2%9C%89%EF%B8%8F%20Suivi%20Adjoint%20Maire%20Tavella.md) | Adjoint au Maire | Suivi |
 | [🔄 DrDJERBI Consolidation ✉️Mail.md](%F0%9F%94%84%20DrDJERBI%20Consolidation%20%E2%9C%89%EF%B8%8FMail.md) | Dr DJERBI | Relance médicale |
 | [✉️ Relance Dirigeants.md](%E2%9C%89%EF%B8%8F%20Relance%20Dirigeants.md) | Dirigeants SAS | 🟢 Expédié |

@@ -11,7 +11,7 @@ tags:
 statut: projet
 destinataire: Le Chirurgien SOS Main
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/07 ✉️ Courrier Consolidation.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md
 source: drive
 drive_id: 1PSv6c0YFvLa0WDEbwc3AVxL14z7ARi5ne50ctJgCvWI
 jx: J+37

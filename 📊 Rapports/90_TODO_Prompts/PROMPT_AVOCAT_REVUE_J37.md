@@ -57,7 +57,7 @@ Je vous détaille ci-dessous chaque courrier pour vous permettre d'en prendre co
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️ Relance Consolidation.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%20Relance%20Consolidation.md) (07) |
+| **Fichier** | [`✉️🔄 Consolidation.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Consolidation.md) (07) |
 | **Destinataire** | [Le Chirurgien SOS Main] — chirurgien SOS Main |
 | **Mode** | LRAR |
 | **Ton** | Respectueux, médical, précis |

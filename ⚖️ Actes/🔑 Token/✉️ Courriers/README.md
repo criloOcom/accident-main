@@ -79,7 +79,7 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 - [📋 Temoin Client.md](📋%20Attestations/%F0%9F%93%8B%20Temoin%20Client.md)
 
 ### J+37 — Relances & signalements
-- [✉️ Relance Consolidation.md](🔄%20Relances/%E2%9C%89%EF%B8%8F%20Relance%20Consolidation.md)
+- [✉️🔄 Consolidation.md](🔄%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Consolidation.md)
 - [✉️ Suivi Adjoint Maire Tavella.md](🔄%20Relances/%E2%9C%89%EF%B8%8F%20Suivi%20Adjoint%20Maire%20Tavella.md)
 - [🔄 Relance CPAM.md](🔄%20Relances/%F0%9F%94%84%20Relance%20CPAM.md)
 - [🔄 Relance Police Videos.md](🔄%20Relances/%F0%9F%94%84%20Relance%20Police%20Videos.md)

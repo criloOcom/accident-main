@@ -147,7 +147,7 @@ tags:
 |---------|--------|
 | `🔄 Relance CPAM.md` | `[Adresse à compléter]` |
 | `🔄 Relance Police Videos.md` | `[Adresse à compléter]` |
-| `✉️ Relance Consolidation.md` | `[Adresse à compléter]` |
+| `✉️🔄 Consolidation.md` | `[Adresse à compléter]` |
 | `✉️ Relance Inspection Travail.md` | `[Date d'envoi — À compléter]` |
 | `✉️ Relance Prefecture CODAF.md` | `[Date d'envoi — À compléter]` |
 | `✉️🚨 INPI.md` | `[Adresse à compléter]` |

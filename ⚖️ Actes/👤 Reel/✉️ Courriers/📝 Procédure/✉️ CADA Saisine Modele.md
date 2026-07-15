@@ -13,7 +13,7 @@ tags:
 statut: brouillon — utilisable si refus Préfecture/IT
 destinataire: Commission d'accès aux documents administratifs (CADA)
 auteur: La Victime
-reel_path: ../../👤 Reel/✉️ Courriers/✉️ CADA Saisine Modele.md
+reel_path: ../../../👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA Saisine Modele.md
 jx: J+47
 ---
 

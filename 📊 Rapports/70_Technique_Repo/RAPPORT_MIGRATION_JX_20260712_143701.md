@@ -53,7 +53,7 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/06 ✉️ Courrier President DG.md
        → ✉️ Courriers/✉️📜 SAS President.md
   ✓  ✉️ Courriers/07 ✉️ Courrier Consolidation.md
-       → ✉️ Courriers/✉️ Relance Consolidation.md
+       → ✉️ Courriers/✉️🔄 Consolidation.md
   ✓  ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
        → ✉️ Courriers/✉️ Suivi Adjoint Maire Tavella.md
   ✓  ✉️ Courriers/09 ✉️ Courrier Inspection Travail.md
@@ -197,7 +197,7 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/06 ✉️ Courrier President DG.md
        → ✉️ Courriers/✉️📜 SAS President.md
   ✓  ✉️ Courriers/07 ✉️ Courrier Consolidation.md
-       → ✉️ Courriers/✉️ Relance Consolidation.md
+       → ✉️ Courriers/✉️🔄 Consolidation.md
   ✓  ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
        → ✉️ Courriers/✉️ Suivi Adjoint Maire Tavella.md
   ✓  ✉️ Courriers/09 ✉️ Courrier Inspection Travail.md
