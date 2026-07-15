@@ -57,12 +57,12 @@ Je vous remercie de l'attention portée à la présente et vous prie d'agréer, 
 [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 ## PIECES JOINTES
 
-- Copie du courriel de Monsieur TAVELLA (1er juin 2026)
+- **Courriel [Monsieur TAVELLA]** — [J+42 ✉️ Email Maire Tavella ERP.md](../%F0%9F%93%9D%20Proc%C3%A9dure/J%2B42%20%E2%9C%89%EF%B8%8F%20Email%20Maire%20Tavella%20ERP.md)
 
-- **PV initial n°2026/015967**
+- **PV n°2026/015967** — [20260602 PV Police n°2026-015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)
 
 - **[Certificat médical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** / [compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)
 
-- **Attestation sur l'honneur des faits**
+- **Attestation sur l'honneur des faits** — [J+32 📋 Attestation Temoin Client.md](../%F0%9F%93%8B%20Attestations/J%2B32%20%F0%9F%93%8B%20Attestation%20Temoin%20Client.md)
 
 <hr><hr>

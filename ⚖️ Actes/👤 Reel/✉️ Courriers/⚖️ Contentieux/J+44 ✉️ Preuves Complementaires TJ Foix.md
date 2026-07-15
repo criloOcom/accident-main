@@ -97,10 +97,10 @@ Dans l'attente de votre retour, je vous prie d'agreer, Monsieur le President, l'
 
 ## PIECES JOINTES
 
-- **Accusés de réception des courriers recommandés retournés (29 mai 2026)**
+- **Accusés de réception des courriers recommandés retournés** — [J+43 📊 Suivi Envois LRAR.md](../../%F0%9F%97%82%EF%B8%8F%20Organisation/J%2B43%20%F0%9F%93%8A%20Suivi%20Envois%20LRAR.md)
 
 - **[Copie du PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)**
 
 - **[Extrait Kbis de la SAS [L'Exploitant du Commerce (La SAS)]](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** ([938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
 
-- **Note d'audit RNE/INPI du 10 juillet 2026**
+- **Note d'audit RNE/INPI du 10 juillet 2026** — [J+42 📜 Audit RNE NPAI SAS.md](../../%F0%9F%93%9A%20Analyses%20juridiques/J%2B42%20%F0%9F%93%9C%20Audit%20RNE%20NPAI%20SAS.md)
