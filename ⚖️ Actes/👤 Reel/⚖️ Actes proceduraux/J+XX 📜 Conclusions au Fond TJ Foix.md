@@ -26,7 +26,7 @@ jx: J+368
 ## POUR :
 
 [Sébastien GRAZIDE](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
-Née le [**[Date de Naissance de la Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md)
+Née le 18 janvier 1982
 [10 Avenue de Purpan, 31700 Blagnac](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 Ayant droit à l'aide juridictionnelle
 
@@ -37,7 +37,7 @@ Ayant droit à l'aide juridictionnelle
 
 **SAS [SAS LES MAUVAIS GARCONS](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
 [22 Rue Lafaurie, 09000 Foix](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
-SIRET : [**[SIRET]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#siret)
+SIRET : 938 033 222 00010
 Assureur RC : [**[L'Assureur RC]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md)
 
 **Partie défenderesse**
@@ -47,7 +47,7 @@ Assureur RC : [**[L'Assureur RC]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%
 
 ### 1.1 Rappel de l'instance
 
-Par exploit d'huissier en date du [**[J+63 Assignation 145]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-63-assignation-145.md), la demanderesse a fait assigner la SAS [SAS LES MAUVAIS GARCONS](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) devant le Tribunal Judiciaire de Foix sur le fondement de l'article 145 du Code de procédure civile aux fins de voir ordonner une expertise médicale et d'obtenir une provision à valoir sur l'indemnisation de son préjudice corporel.
+Par exploit d'huissier en date du 31 juillet 2026, la demanderesse a fait assigner la SAS [SAS LES MAUVAIS GARCONS](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) devant le Tribunal Judiciaire de Foix sur le fondement de l'article 145 du Code de procédure civile aux fins de voir ordonner une expertise médicale et d'obtenir une provision à valoir sur l'indemnisation de son préjudice corporel.
 
 Par ordonnance du [**[Date Ordonnance Référé]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles), le juge des référés a :
 - Ordonné une expertise médicale confiée à [**[Expert Désigné]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#expert-1)
@@ -64,11 +64,11 @@ L'action est recevable et non prescrite, le délai de droit commun de cinq ans (
 
 ### 1.3 Compétence du Tribunal Judiciaire de Foix
 
-Le Tribunal Judiciaire de Foix est territorialement compétent en application de l'article 42 du Code de procédure civile, le fait dommageable s'étant produit dans son ressort ([Foix](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), [**[Code Postal Accident]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#accident)).
+Le Tribunal Judiciaire de Foix est territorialement compétent en application de l'article 42 du Code de procédure civile, le fait dommageable s'étant produit dans son ressort ([Foix](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), 09000).
 
 ### 1.4 Absence de sursis à statuer
 
-Il n'y a pas lieu à sursis à statuer dans l'attente de l'issue de l'information judiciaire pénale ouverte au Parquet de Foix (réquisitoire introductif du [**[J+47 Date Requisitoire]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)). L'action civile et l'action pénale sont indépendantes : la demanderesse est fondée à obtenir réparation de son préjudice corporel sans attendre l'issue de la procédure pénale, conformément à l'article 4 du Code de procédure pénale (principe *le criminel ne tient pas le civil en l'état* s'agissant de l'action *ad damnun*).
+Il n'y a pas lieu à sursis à statuer dans l'attente de l'issue de l'information judiciaire pénale ouverte au Parquet de Foix (réquisitoire introductif du 15 juillet 2026). L'action civile et l'action pénale sont indépendantes : la demanderesse est fondée à obtenir réparation de son préjudice corporel sans attendre l'issue de la procédure pénale, conformément à l'article 4 du Code de procédure pénale (principe *le criminel ne tient pas le civil en l'état* s'agissant de l'action *ad damnun*).
 <hr><hr>
 
 ## II — RAPPEL DES FAITS
@@ -382,7 +382,7 @@ Vu les pièces versées aux débats,
 | 1 | Procès-verbal de police n° 2026/015967 (dépôt de plainte du 1er juin 2026) |
 | 2 | Rapport d'expertise médicale du 29 mai 2027 |
 | 3 | Ordonnance de référé du [**[Date Ordonnance Référé]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) (provision 15 000 €) |
-| 4 | Constitution de partie civile du [**[J+38 Date CPC]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) |
+| 4 | Constitution de partie civile du 6 juillet 2026 |
 | 5 | Certificats médicaux et comptes rendus opératoires (SOS Main) |
 | 6 | Prescriptions, arrêts de travail et pièces de rééducation |
 | 7 | Mises en demeure LRAR des [29 juin 2026](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) |
