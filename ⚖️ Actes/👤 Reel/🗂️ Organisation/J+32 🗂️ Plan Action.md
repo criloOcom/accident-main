@@ -16,7 +16,7 @@ drive_id: 153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s
 jx: J+32
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+32 🗂️ Plan Action*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [🗂️ Organisation](./README.md) › J+32 🗂️ Plan Action*
 <hr>
 <!-- /Breadcrumb -->
 

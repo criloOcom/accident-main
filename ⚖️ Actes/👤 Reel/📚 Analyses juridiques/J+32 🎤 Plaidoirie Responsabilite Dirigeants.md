@@ -16,7 +16,7 @@ drive_id: 1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90
 jx: J+32
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+32 🎤 Plaidoirie Responsabilite Dirigeants*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [📚 Analyses Juridiques](./README.md) › J+32 🎤 Plaidoirie Responsabilite Dirigeants*
 <hr>
 <!-- /Breadcrumb -->
 

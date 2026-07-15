@@ -15,7 +15,7 @@ reel_path: ../../👤 Reel/💰 Etudes indemnisation/J+40 📊 Note Strategique 
 jx: J+40
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [💰 Études d'Indemnisation](./README.md) › J+40 📊 Note Strategique FGTI CIVI*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [💰 Études d'Indemnisation](./README.md) › J+40 📊 Note Strategique FGTI CIVI*
 <hr>
 <!-- /Breadcrumb -->
 

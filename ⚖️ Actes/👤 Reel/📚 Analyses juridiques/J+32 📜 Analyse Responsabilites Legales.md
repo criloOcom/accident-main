@@ -16,7 +16,7 @@ drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 jx: J+32
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+32 📜 Analyse Responsabilites Legales*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [📚 Analyses Juridiques](./README.md) › J+32 📜 Analyse Responsabilites Legales*
 <hr>
 <!-- /Breadcrumb -->
 

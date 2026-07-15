@@ -21,7 +21,7 @@ Ce rapport liste les incohérences détectées dans les fichiers sous `⚖️ Ac
 ### A. Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/J+39 📑 Bordereau Unifie.md`
 
 - **Ligne 28** : Profession erronée (victime qualifiée de 'coiffeur')
-  - **Valeur erronée** : `- [**[J+4 Dépôt de plainte]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Procès-verbal de police n° [**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (Police Nationale [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)) : Dépôt de plainte de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) pour blessures involontaires. Description de l'accident : montée du coiffeur sur la vasque en céramique, basculement, cassure préexistante. PV complet 3 pages.`
+  - **Valeur erronée** : `- [**[J+4 Dépôt de plainte]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Procès-verbal de police n° [**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (Police Nationale [**[La Métropole Régionale]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)) : Dépôt de plainte de [**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) pour blessures involontaires. Description de l'accident : montée du coiffeur sur la vasque en céramique, basculement, cassure préexistante. PV complet 3 pages.`
   - **Correction suggérée** : Remplacer par 'informaticien indépendant'.
 
 ### A. Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/J+47 🚔 PV Audition Plainte Complementaire Foix.md`
@@ -33,7 +33,7 @@ Ce rapport liste les incohérences détectées dans les fichiers sous `⚖️ Ac
 ### A. Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/J+32 📋 Attestation Temoin Client.md`
 
 - **Ligne 40** : Profession erronée (victime qualifiée de 'coiffeur')
-  - **Valeur erronée** : `J'ai alors vu un autre client, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), tendre la main droite par un réflexe immédiat pour tenter de rattraper le coiffeur et le protéger de la chute. Sa paume a heurté le flanc de la vasque.`
+  - **Valeur erronée** : `J'ai alors vu un autre client, [**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), tendre la main droite par un réflexe immédiat pour tenter de rattraper le coiffeur et le protéger de la chute. Sa paume a heurté le flanc de la vasque.`
   - **Correction suggérée** : Remplacer par 'informaticien indépendant'.
 
 ### A. Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/J+37 ✉️🚨 URSSAF.md`

@@ -16,7 +16,7 @@ drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 jx: J+39
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+39 📇 Index General*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [🗂️ Organisation](./README.md) › J+39 📇 Index General*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -195,7 +195,7 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 
 Documents non indexés conservés dans `archives/` :
 
-- [archives/annexes/](archives/annexes/README.md) — [📚 ANNEXE A Lexique Tokens](archives/annexes/📚%20ANNEXE%20A%20Lexique%20Tokens.md), [⚖️ ANNEXE B Lois Jurisprudence](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%E2%9A%96%EF%B8%8F%20ANNEXE%20B%20Lois%20Jurisprudence.md), [📑 ANNEXE C Pièces](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%F0%9F%93%91%20ANNEXE%20C%20Pieces.md)
+- [archives/annexes/](../../%F0%9F%94%91%20Token/README.md) — [📚 ANNEXE A Lexique Tokens](archives/annexes/📚%20ANNEXE%20A%20Lexique%20Tokens.md), [⚖️ ANNEXE B Lois Jurisprudence](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%E2%9A%96%EF%B8%8F%20ANNEXE%20B%20Lois%20Jurisprudence.md), [📑 ANNEXE C Pièces](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%F0%9F%93%91%20ANNEXE%20C%20Pieces.md)
 
 - [archives/🛡️ Constitution Partie Civile.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
 
@@ -224,7 +224,7 @@ Documents non indexés conservés dans `archives/` :
 7. Nomenclature normalisée ✓
 8. Formatting appliqué ✓
 9. Liens Légifrance ajoutés ✓
-10. Restructuration [⚖️ Actes](%E2%9A%96%EF%B8%8F_Actes/README.md) — 00 à 05 + archives ✓
+10. Restructuration [⚖️ Actes](../../%F0%9F%94%91%20Token/README.md) — 00 à 05 + archives ✓
 11. Anciens dossiers `contentieux-civil/` et `contentieux-penal/` supprimés ✓
 12. 06_Annexes/` déplacé dans `archives/annexes/` ✓
 13. Bordereau unifié V2 — fusion Audience + ancien, 43 pièces séquentielles ✓

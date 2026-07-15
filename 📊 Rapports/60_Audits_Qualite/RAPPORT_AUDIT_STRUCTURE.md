@@ -167,7 +167,7 @@ type: rapport
 ## 5. Fichiers orphelins / non documentés
 
 ### `reports/` (racine)
-Non mentionné dans AGENTS.md ni README.md. Contient 16 rapports qui complètent (et parfois doublonnent) ceux dans [📊 Rapports](📊%20Rapports/README.md).
+Non mentionné dans AGENTS.md ni README.md. Contient 16 rapports qui complètent (et parfois doublonnent) ceux dans [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md).
 
 | Fichier | Aussi présent dans 📊 Rapports ? |
 |---------|-------------------------------|
@@ -191,16 +191,16 @@ Non mentionné dans AGENTS.md ni README.md.
 
 | Dossier | README ? |
 |---------|----------|
-| [📊 Rapports](📊%20Rapports/README.md) | ❌ Absent |
-| [📊 Rapports/audit](📊%20Rapports/audit/README.md) | ❌ Absent |
-| [📊 Rapports/🗄️ Archives](📊%20Rapports/🗄️%20Archives/README.md) | ❌ Absent |
-| [🧠 Memory](🧠%20Memory/README.md) | ❌ Absent |
+| [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) | ❌ Absent |
+| [📊 Rapports/audit](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) | ❌ Absent |
+| [📊 Rapports/🗄️ Archives](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) | ❌ Absent |
+| [🧠 Memory](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) | ❌ Absent |
 | `reports/` | ❌ Absent |
 | `reports/audit/` | ❌ Absent |
 | `reports/expertise/` | ❌ Absent |
 | `reports/jurisprudence/` | ❌ Absent |
 | `app/` | ❌ Absent |
-| [📜 Lois/pdfs](📜%20Lois/pdfs/README.md) | ❌ Absent |
+| [📜 Lois/pdfs](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) | ❌ Absent |
 
 ---
 
@@ -209,7 +209,7 @@ Non mentionné dans AGENTS.md ni README.md.
 | # | Gravité | Anomalie |
 |---|---------|----------|
 | 1 | 🔴 **Critique** | `📦_pieces/` mentionné dans README.md (ligne 31) n'existe pas |
-| 2 | 🔴 **Critique** | `reports/` en doublon avec [📊 Rapports](📊%20Rapports/README.md) — source de confusion, non documenté |
+| 2 | 🔴 **Critique** | `reports/` en doublon avec [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) — source de confusion, non documenté |
 | 3 | 🟠 **Moyen** | `app/` (racine) non documenté, avec un doublon de `enhance_markdown.py` |
 | 4 | 🟠 **Moyen** | 👤 Reel/01 a 2 fichiers excédentaires vs 🔑 Token/01 : `Bordereau Audience.md` et `Bordereau de pieces.md` |
 | 5 | 🟠 **Moyen** | 👤 Reel/06 manque le dossier `annexes/` (2 fichiers) présent dans 🔑 Token/06 |
@@ -221,9 +221,9 @@ Non mentionné dans AGENTS.md ni README.md.
 ## 8. Recommandations
 
 1. **Créer `📦_pieces/`** ou **supprimer la ligne** du README.md — incohérence documentaire bloquante
-2. **Fusionner ou clarifier** la dualité `reports/` ↔ [📊 Rapports](📊%20Rapports/README.md) : soit déplacer `reports/` dans [📊 Rapports](📊%20Rapports/README.md), soit documenter officiellement les deux répertoires avec des rôles distincts
+2. **Fusionner ou clarifier** la dualité `reports/` ↔ [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) : soit déplacer `reports/` dans [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md), soit documenter officiellement les deux répertoires avec des rôles distincts
 3. **Supprimer ou fusionner** `app/` (racine) dans `.dev/app/` — le doublon `enhance_markdown.py` est source d'erreurs
 4. **Générer les annexes** dans 👤 Reel/06 (lancer `generate_real_versions.py` après avoir vérifié que le script couvre bien `annexes/`)
 5. **Vérifier** si les 2 bordereaux excédentaires 👤 sont des résidus ou des documents légitimes — si légitimes, les ajouter aussi dans 🔑 Token
 6. **Mettre à jour AGENTS.md** avec les vrais noms de dossiers `🔑 Token/` et `👤 Reel/`
-7. **Ajouter README.md** dans [📊 Rapports](📊%20Rapports/README.md) et [🧠 Memory](🧠%20Memory/README.md) pour améliorer la navigation
+7. **Ajouter README.md** dans [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) et [🧠 Memory](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) pour améliorer la navigation

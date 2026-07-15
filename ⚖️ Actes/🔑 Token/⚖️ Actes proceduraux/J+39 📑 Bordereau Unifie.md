@@ -237,7 +237,7 @@ jx: J+39
 
 ### PIÈCE N° 44
 
-- [Rapport d'évaluation indemnitaire Dintilhac](../../../../📊%20Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md) — Rapport d'évaluation indemnitaire barémique (méthode Dintilhac) du 13 juillet 2026 : évaluation globale des préjudices corporels de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) selon deux scénarios (DFP 10 % : ≈ 126 000 € ; DFP 15 % : ≈ 161 500 €), avant recours CPAM.
+- [Rapport d'évaluation indemnitaire Dintilhac](../../../%F0%9F%93%8A%20Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md) — Rapport d'évaluation indemnitaire barémique (méthode Dintilhac) du 13 juillet 2026 : évaluation globale des préjudices corporels de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) selon deux scénarios (DFP 10 % : ≈ 126 000 € ; DFP 15 % : ≈ 161 500 €), avant recours CPAM.
 
 ### PIÈCE N° 43
 

@@ -17,7 +17,7 @@ jx: J+47
 reel_path: ../../👤 Reel/📚 Analyses juridiques/J+47 🛡️ Memo Strategie Admin Penal.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+47 🛡️ Memo Strategie Admin Penal*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [📚 Analyses Juridiques](./README.md) › J+47 🛡️ Memo Strategie Admin Penal*
 <hr>
 <!-- /Breadcrumb -->
 

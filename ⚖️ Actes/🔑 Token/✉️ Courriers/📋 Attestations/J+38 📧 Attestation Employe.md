@@ -1,6 +1,6 @@
 ---
 title: "Email Transmission Attestation Employé"
-description: "Objet : Attestation de témoin — Accident du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au **[L'Adresse de l'Exploitation]"
+description: "Objet : Attestation de témoin — Accident du [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au **[L'Adresse de l'Exploitation]"
 type: courrier
 date: 2026-07-06
 tags:
@@ -8,7 +8,7 @@ tags:
   - attestation
   - temoin
 statut: brouillon
-destinataire: Employé(e) du salon présent(e) le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)
+destinataire: Employé(e) du salon présent(e) le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/28 📧 Attestation Employe.md
 source: local
@@ -21,13 +21,13 @@ jx: J+38
 <!-- /Breadcrumb -->
 
 # TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (EMPLOYÉ)
-Objet : Attestation de témoin — Accident du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
+Objet : Attestation de témoin — Accident du [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
 
 <hr><hr>
 
 Bonjour,
 
-Vous étiez présent(e) le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) en tant qu'employé(e) du salon **Exploitant du Commerce** situé au [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) lorsque l'accident s'est produit.
+Vous étiez présent(e) le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) en tant qu'employé(e) du salon **Exploitant du Commerce** situé au [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) lorsque l'accident s'est produit.
 
 Je me permets de vous solliciter pour remplir une **attestation de témoin** (Cerfa n° 11527\*03) afin de décrire ce que vous avez vu ce jour-là. Votre témoignage est particulièrement important sur les points suivants :
 
@@ -62,8 +62,8 @@ Je vous remercie sincèrement pour votre aide précieuse.
 
 Cordialement,
 
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
-[**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
+[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[**[L'Email de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
 <hr><hr>
 

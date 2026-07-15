@@ -12,7 +12,7 @@ source: drive
 jx: J+32
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+32 📅 Calendrier Procedure*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [🗂️ Organisation](./README.md) › J+32 📅 Calendrier Procedure*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -62,7 +62,7 @@ jx: J+32
 | 24/06/2026 | EVT-14 | Transmission de pièces CPAM | Correspondance | Fait |
 | 24/06/2026 | EVT-30 | Démarche administrative / Email | Procédure | Envoyé |
 | 25 juin 2026 | EVT-48 | Confirmation de rendez-vous Kinésithérapie | Médical |  |
-| [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) | COR-01 | Envoi [Mise en demeure SAS](../%E2%9C%89%EF%B8%8F%20Courriers/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md) | Correspondance | Distribué |
+| [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) | COR-01 | Envoi [Mise en demeure SAS](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md) | Correspondance | Distribué |
 | [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) | COR-02 | Envoi Mise en demeure Président [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) | Correspondance | Distribué |
 | [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) | COR-03 | Envoi Mise en demeure DG [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) | Correspondance | Distribué |
 | [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) | COR-04 | Envoi Mise en demeure Bailleur | Correspondance | Distribué |

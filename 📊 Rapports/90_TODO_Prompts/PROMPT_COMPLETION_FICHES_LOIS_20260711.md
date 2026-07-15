@@ -12,21 +12,21 @@ type: rapport
 # PROMPT<br>Complétion des 5 fiches 📜 Lois
 
 ## Contexte
-5 fiches ont été créées dans [📜 Lois](📜%20Lois/README.md) avec un frontmatter valide mais un corps marqué `⚠️ À VÉRIFIER` (texte légal non récupéré car Légifrance était bloqué par Cloudflare dans l'environnement de création). Leur nom de fichier et leur emplacement respectent déjà les liens du [📜 Lois/README.md](📜%20Lois/README.md), donc les liens ne sont PAS morts — seul le corps légal est à compléter.
+5 fiches ont été créées dans [📜 Lois](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) avec un frontmatter valide mais un corps marqué `⚠️ À VÉRIFIER` (texte légal non récupéré car Légifrance était bloqué par Cloudflare dans l'environnement de création). Leur nom de fichier et leur emplacement respectent déjà les liens du [📜 Lois/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md), donc les liens ne sont PAS morts — seul le corps légal est à compléter.
 
 ## Règle absolue (Règle #16 + JURITEXT_PROTOCOL)
 **NE JAMAIS deviner un texte de loi.** Chaque article/arrêt doit être vérifié via le MCP Légifrance (ou Judilibre) AVANT écriture. Si introuvable, conserver le marqueur `À VÉRIFIER` et le signaler. Ne PAS publier de texte non sourcé.
 
 ## Fichiers à compléter (avec emplacement exact)
-1. [📜 Lois/📒 Autres codes/Article_223-1_Code_Legifrance.md](../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/Article_223-1_Code_Legifrance.md)
+1. [📜 Lois/📒 Autres codes/Article_223-1_Code_Legifrance.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/Article_223-1_Code_Legifrance.md)
    → Art. 223-1 Code pénal — Mise en danger d'autrui.
-2. [📜 Lois/📒 Autres codes/Article_L123-2_Code_Legifrance.md](../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/Article_L123-2_Code_Legifrance.md)
+2. [📜 Lois/📒 Autres codes/Article_L123-2_Code_Legifrance.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/Article_L123-2_Code_Legifrance.md)
    → Art. L. 123-2 Code de commerce — Immatriculation des commerçants au RCS.
-3. [📜 Lois/📒 Autres codes/Article_L611-3_Code_Legifrance.md](../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/Article_L611-3_Code_Legifrance.md)
+3. [📜 Lois/📒 Autres codes/Article_L611-3_Code_Legifrance.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/Article_L611-3_Code_Legifrance.md)
    → Art. L. 611-3 Code de commerce — Ouverture de la procédure de sauvegarde.
-4. [📜 Lois/📒 Code commerce/Article_L227-1_Code_Legifrance.md](../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L227-1_Code_Legifrance.md)
+4. [📜 Lois/📒 Code commerce/Article_L227-1_Code_Legifrance.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L227-1_Code_Legifrance.md)
    → Art. L. 227-1 Code de commerce — Pouvoirs du président de la SAS.
-5. [📜 Lois/📜 Jurisprudence/README.md17-26.282_CourCassation.md](../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/17-26.282_CourCassation.md)
+5. [📜 Lois/📜 Jurisprudence/README.md17-26.282_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/17-26.282_CourCassation.md)
    → Arrêt 17-26.282, Civ. 2e, Cour de cassation (thème : réserve d'aggravation / incidence professionnelle).
 
 ## Procédure pour chaque fichier

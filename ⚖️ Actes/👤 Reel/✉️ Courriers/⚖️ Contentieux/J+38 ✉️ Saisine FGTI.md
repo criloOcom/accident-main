@@ -21,36 +21,36 @@ jx: J+38
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [⚖️ Contentieux](./README.md) › J+38 ✉️ Saisine FGTI*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [⚖️ Contentieux](./README.md) › J+38 ✉️ Saisine FGTI*
 <hr>
 <!-- /Breadcrumb -->
 
 # DEMANDE D'INFORMATION ET DE PRÉ-ENREGISTREMENT<br>ARTICLE 706-3 DU CPP
 > 🔗 Source Google Drive : [13jocmpqETy6…](https://drive.google.com/open?id=13jocmpqETy64lldco9LGCKLJZp_ml_9u53NB7OySmrs)
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)  
-[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)  
-[06 30 51 67 75](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)  
-Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)  
+[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)  
+[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)  
+[06 30 51 67 75](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)  
+Courriel : [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)  
 
 **Fonds de Garantie des Victimes (FGTI)**  
 64 Rue de la République  
 75011 Paris  
 
-[Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le 12 juillet 2026  
+[Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le 12 juillet 2026  
 
-**Objet : Demande d'information et pré-ouverture de dossier – Article 706-3 du CPP – Accident du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**  
+**Objet : Demande d'information et pré-ouverture de dossier – Article 706-3 du CPP – Accident du [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**  
 
-Réf : SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) — Dossier CPAM n° 31727387  
+Réf : SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) — Dossier CPAM n° 31727387  
 
 Madame, Monsieur le Directeur,  
 ## INTRODUCTION
 
-La présente lettre est adressée au FGTI par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)).
+La présente lettre est adressée au FGTI par [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)).
 
 Cet accident a été causé par la chute brutale du préposé de l'exploitation depuis un bac à shampoing en céramique instable et cassé, sur lequel il avait dû monter pour accéder au poste de télévision, faute d'équipement d'accès adapté (escabeau) mis à disposition par l'employeur.
 
-Sa chute a entraîné sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant nécessité une microchirurgie d'urgence en SOS Main. Mon ITT a été évaluée à 56 jours (du 29 mai au [23 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md)).
+Sa chute a entraîné sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant nécessité une microchirurgie d'urgence en SOS Main. Mon ITT a été évaluée à 56 jours (du 29 mai au [23 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md)).
 <hr><hr>
 
 ## I — PROCÉDURES JUDICIAIRES ENGAGÉES
@@ -63,7 +63,7 @@ Sa chute a entraîné sur ma main droite une plaie palmaire profonde de 8,5 cm a
 
 3. **Assignation Article 145 CPC** : en cours de préparation en vue d'obtenir la communication forcée de la police d'assurance RC.
 
-4. **[Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** (6 juillet 2026) : déposée auprès du Doyen des Juges d'Instruction de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) sur le fondement des articles 222-19 et 222-20 du Code pénal.
+4. **[Constitution de partie civile](../../../%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** (6 juillet 2026) : déposée auprès du Doyen des Juges d'Instruction de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) sur le fondement des articles 222-19 et 222-20 du Code pénal.
 
 Ces démarches visent à identifier les débiteurs civils et à faire reconnaître les infractions, en vue, le cas échéant, d'une demande d'indemnisation au titre de l'article 706-3 du Code de procédure pénale.
 
@@ -114,7 +114,7 @@ Le montant total estimé de mon préjudice corporel, selon la nomenclature Dinti
 
 Conformément aux articles 706-3 et suivants du Code de procédure pénale, je comprends qu'une indemnisation peut être sollicitée, par l'intermédiaire de la Commission d'Indemnisation des Victimes d'Infractions (CIVI), lorsque l'auteur de l'infraction est inconnu, insolvable ou dans l'impossibilité de réparer le dommage.
 
-La SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) disposant d'un capital social de seulement 200 € et n'ayant justifié d'aucune assurance, il existe un risque caractérisé d'insolvabilité qui pourrait à terme justifier le recours à ce dispositif subsidiaire d'indemnisation.
+La SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) disposant d'un capital social de seulement 200 € et n'ayant justifié d'aucune assurance, il existe un risque caractérisé d'insolvabilité qui pourrait à terme justifier le recours à ce dispositif subsidiaire d'indemnisation.
 
 Je sollicite en conséquence de vos services :
 
@@ -126,18 +126,18 @@ Je sollicite en conséquence de vos services :
 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Directeur, l'expression de ma considération distinguée.
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
 <hr><hr>
 
 ## PIECES JOINTES
 
-- **[PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — (procédure pénale)
+- **[PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — (procédure pénale)
 
 - **Accusés de réception des courriers recommandés retournés (29 mai 2026 — mentions NPAI)** — Mentions NPAI
 
-- **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** ([938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
+- **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** ([938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
 
 - **Dossier médical complet (11 pièces)** — Dossier médical complet
 <hr><hr>

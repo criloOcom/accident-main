@@ -23,7 +23,7 @@ type: memory
 | **Usage** | Évaluation globale des préjudices corporels (nomenclature Dintilhac) |
 | **Variable canonique (prudent)** | `EVAL_GLOBALE_PRUDENTE` |
 | **Variable canonique (médian)** | `EVAL_GLOBALE_MEDIANE` |
-| **Source** | [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../../📊%20Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md) — Avis Dintilhac 2026-07-13 |
+| **Source** | [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../../%F0%9F%93%8A%20Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md) — Avis Dintilhac 2026-07-13 |
 
 ## Contexte
 

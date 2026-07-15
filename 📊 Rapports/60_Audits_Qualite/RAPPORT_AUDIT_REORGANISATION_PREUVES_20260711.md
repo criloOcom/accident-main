@@ -152,10 +152,10 @@ grep -r "SITUATION DrJulieJARDON\|CR Opératoire\|NOTE DrOXYBEL\|PV Police\|Atte
 
 **Fichiers avec références au dossier (non critiques) :**
 - `AGENTS.md` : Référence générique au dossier
-- [⚖️ Actes/README.md](⚖️%20Actes/README.md) : Lien relatif vers le README
-- [⚖️ Actes/🔑 Token/README.md](⚖️%20Actes/🔑%20Token/README.md) : Lien relatif vers le README
-- [⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md](⚖️%20Actes/🔑%20Token/📂%20Preuves%20officielles/README.md) : Lien relatif
-- [⚖️ Actes/👤 Reel/📂 Preuves officielles/README.md](⚖️%20Actes/👤%20Reel/📂%20Preuves%20officielles/README.md) : Lien relatif
+- [⚖️ Actes/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) : Lien relatif vers le README
+- [⚖️ Actes/🔑 Token/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) : Lien relatif vers le README
+- [⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) : Lien relatif
+- [⚖️ Actes/👤 Reel/📂 Preuves officielles/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) : Lien relatif
 - [⚖️ Actes/🔑 Token/🗂️ Organisation/00 📇 Index.md](⚖️%20Actes/🔑%20Token/🗂️%20Organisation/00%20📇%20Index.md) : Référence générique
 
 **Fichiers avec références aux documents (via Google Drive) :**

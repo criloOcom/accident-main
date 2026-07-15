@@ -15,7 +15,7 @@ source: local
 jx: J+40
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+40 📜 Note Droit Assurances*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [📚 Analyses Juridiques](./README.md) › J+40 📜 Note Droit Assurances*
 <hr>
 <!-- /Breadcrumb -->
 

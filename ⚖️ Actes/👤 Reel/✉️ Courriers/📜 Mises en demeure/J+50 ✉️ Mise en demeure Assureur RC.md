@@ -18,7 +18,7 @@ reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/J+50 ✉️
 jx: J+50
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › J+50 ✉️ Mise en demeure Assureur RC*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [📜 Mises en demeure](./README.md) › J+50 ✉️ Mise en demeure Assureur RC*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -117,7 +117,7 @@ Ce courrier est une **simulation** reprenant la structure du draft fourni par l'
 - Constitution de Partie Civile consolidée : [`J+38 🛡️ Constitution Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
 - Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
 - Ordonnance de référé provision : [`J+63 ⚖️ Projet Ordonnance Refere.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B63%20%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)
-- Avis Dintilhac externe : [`📊 Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`](../../../../%F0%9F%93%8A%20Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md)
+- Avis Dintilhac externe : [`📊 Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`](../../../../%F0%9F%93%8A%20Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md)
 ## Sources Législation
 
 [^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)

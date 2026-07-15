@@ -15,28 +15,28 @@ jx: J+41
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › J+41 ✉️ Mise en demeure Maire Foix*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [📜 Mises en demeure](./README.md) › J+41 ✉️ Mise en demeure Maire Foix*
 <hr>
 <!-- /Breadcrumb -->
 
 # LETTRE RECOMMANDÉE <br> ACCUSÉ DE RÉCEPTION
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
-[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
-Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
+[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
+Courriel : [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
 **Monsieur le Maire**
-Mairie de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
+Mairie de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 45 Cours Gabriel Fauré
-09000 [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
+09000 [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
-[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 9 juillet 2026
+[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 9 juillet 2026
 
-**Objet : Demande d'intervention au titre de vos pouvoirs de police administrative – Mise en péril de la sécurité publique au sein de l'établissement [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
+**Objet : Demande d'intervention au titre de vos pouvoirs de police administrative – Mise en péril de la sécurité publique au sein de l'établissement [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
 
 Monsieur le Maire,
 
-Par la présente, je me permets d'attirer votre attention sur une situation constitutive d'un péril grave et imminent pour la sécurité de vos administrés, au sein de l'établissement exploité par la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
+Par la présente, je me permets d'attirer votre attention sur une situation constitutive d'un péril grave et imminent pour la sécurité de vos administrés, au sein de l'établissement exploité par la société [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
 
 Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein de cet établissement recevant du public (ERP).
 
@@ -56,7 +56,7 @@ Par ailleurs, conformément à l'[article L. 2212-4 du Code général des collec
 
 Face à la gravité des faits et à la probabilité de réitération d'un tel accident sur d'autres usagers de cet établissement, je vous demande formellement, au titre de l'exercice de vos pouvoirs de police administrative :
 
-1. De mandater les services compétents de la Mairie afin de procéder à une **vérification approfondie des installations** de l'établissement exploité par [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), et notamment de contrôler la conformité des équipements.
+1. De mandater les services compétents de la Mairie afin de procéder à une **vérification approfondie des installations** de l'établissement exploité par [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), et notamment de contrôler la conformité des équipements.
 
 2. De procéder à un **signalement au Comité de Sécurité (COMSUR)** ou à la Commission de Sécurité compétente pour les ERP, afin d'évaluer la conformité des locaux et équipements.
 
@@ -64,22 +64,22 @@ Face à la gravité des faits et à la probabilité de réitération d'un tel ac
 
 Il est de la responsabilité de la commune de prévenir tout dommage prévisible découlant de l'exploitation d'un ERP dangereux sur son territoire.
 
-J'attire votre attention sur le fait qu'une procédure pénale est d'ores et déjà ouverte suite à un dépôt de plainte, et qu'une action visant à engager la responsabilité civile de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), est en cours.
+J'attire votre attention sur le fait qu'une procédure pénale est d'ores et déjà ouverte suite à un dépôt de plainte, et qu'une action visant à engager la responsabilité civile de [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), est en cours.
 
 Je vous remercie par avance des diligences que vous voudrez bien accomplir pour garantir la sécurité du public.
 
 Je vous prie de croire, Monsieur le Maire, à l'expression de ma considération distinguée.
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 ## PIECES JOINTES
 
-- **[Procès-verbal de police n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026
+- **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026
 
-- **[Compte-rendu operatoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Blessures documentees par SOS Main
+- **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Blessures documentees par SOS Main
 
-- **[Certificat medical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr [Dr JARDON]
+- **[Certificat medical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr [Dr JARDON]
 
-- **[Arrets de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
+- **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
 <hr><hr>
 
 ## Sources Législation

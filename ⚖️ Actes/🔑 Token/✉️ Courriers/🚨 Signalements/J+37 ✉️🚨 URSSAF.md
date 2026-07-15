@@ -24,26 +24,26 @@ jx: J+37
 
 # SIGNALEMENT DE TRAVAIL DISSIMULE PRESUME
 > 🔗 Source Google Drive : [1LdLfCnWLiD2…](https://drive.google.com/open?id=1LdLfCnWLiD2v1N1SMF3FAeh681znM0kXOrAlBXeOe8w)
-[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
+[**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 
-Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
+Courriel : [**[L'Email de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
 **URSSAF Midi-Pyrenees**
 TSA 90002
 93517 MONTREUIL CEDEX
 
-[**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 11 juillet 2026
+[**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 11 juillet 2026
 
-Objet : Signalement de travail dissimule presume — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
+Objet : Signalement de travail dissimule presume — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
-Ref : SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)
+Ref : SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)
 
 Madame, Monsieur le Directeur,
 ## INTRODUCTION
 
-Je vous signale par la presente des elements laissant presumer l'exercice d'un travail dissimule au sein de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)), conformement aux articles L.8221-1 et suivants du Code du travail.
+Je vous signale par la presente des elements laissant presumer l'exercice d'un travail dissimule au sein de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)), conformement aux articles L.8221-1 et suivants du Code du travail.
 
-Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), alors que je me trouvais dans l'etablissement exploite par cette societe, j'ai ete temoin de la presence d'une personne physique ([Le Prepose de l'Exploitation]) exercant une activite de coiffeur.
+Le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), alors que je me trouvais dans l'etablissement exploite par cette societe, j'ai ete temoin de la presence d'une personne physique ([Le Prepose de l'Exploitation]) exercant une activite de coiffeur.
 
 Les informations publiques disponibles (INPI, INSEE) indiquent que cette societe, creee le 1er juin 2024 avec un capital de 200 €, ne declare aucun salarie.
 <hr><hr>
@@ -59,7 +59,7 @@ Les elements suivants sont susceptibles de caracteriser un travail dissimule par
 **1. Absence de declaration du prepose**<br>
 - Le prepose de l'exploitation exercait une activite professionnelle de coiffeur au sein de l'etablissement sans qu'aucune information sur son statut (contrat de travail, bulletin de paie, declaration prealable a l'embauche) n'ait pu etre communiquee<br>
 <br>
-- La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ne declare aucun salarie selon les informations publiques disponibles<br>
+- La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ne declare aucun salarie selon les informations publiques disponibles<br>
 
 <br>
 
@@ -91,7 +91,7 @@ Je sollicite de vos services qu'une verification soit effectuee concernant :
 
 1. La situation de **[Le Prepose de l'Exploitation]** au regard des declarations sociales (DPAE, bulletin de paie)<br>
 <br>
-2. Le respect par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) de ses obligations declaratives<br>
+2. Le respect par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) de ses obligations declaratives<br>
 <br>
 3. L'existence d'eventuelles autres irregularites
 
@@ -103,16 +103,16 @@ Conformement a l'Article L.8271-1-2 du Code du travail, les agents de l'URSSAF s
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Directeur, l'expression de ma consideration distinguee.
 
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
 ## PIECES JOINTES
 
-- **[Copie du PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** (procédure pénale)
+- **[Copie du PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** (procédure pénale)
 
 - **Accusés de réception des courriers recommandés retournés (29 mai 2026 — mentions NPAI)**
 
-- **[Extrait Kbis de la SAS [L'Exploitant du Commerce (La SAS)]](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** ([**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
+- **[Extrait Kbis de la SAS [L'Exploitant du Commerce (La SAS)]](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** ([**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
 <hr><hr>
 
 ## Sources Législation

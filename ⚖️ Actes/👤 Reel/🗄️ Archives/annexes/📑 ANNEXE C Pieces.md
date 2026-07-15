@@ -5,7 +5,7 @@ type: readme
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📦 Archives](../README.md) › [📁 annexes](./README.md) › 📑 ANNEXE C Pieces*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [📦 Archives](../README.md) › [📁 annexes](./README.md) › 📑 ANNEXE C Pieces*
 <hr>
 <!-- /Breadcrumb -->
 

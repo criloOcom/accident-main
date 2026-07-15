@@ -6,7 +6,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/CHANGELOG_JURIDIQUE.md
 statut: brouillon
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › CHANGELOG JURIDIQUE*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [📚 Analyses Juridiques](./README.md) › CHANGELOG JURIDIQUE*
 <hr>
 <!-- /Breadcrumb -->
 

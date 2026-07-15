@@ -1,18 +1,18 @@
 ---
 title: "Note de Synthèse — Avancement des Audits & Recommandations"
-description: "Cette note récapitule l'analyse systématique de tous les rapports d'audit dans [📊 Rapports](%F0%9F%93%8A_Rapports/README.md) et catégorise l'état d'avancement des tâches en suspens."
+description: "Cette note récapitule l'analyse systématique de tous les rapports d'audit dans [📊 Rapports](../../%F0%9F%94%91%20Token/README.md) et catégorise l'état d'avancement des tâches en suspens."
 type: readme
 statut: brouillon
 reel_path: ../../👤 Reel/🗂️ Organisation/06 📋 Synthese des Actions et Audits.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › 06 📋 Synthese des Actions et Audits*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [🗂️ Organisation](./README.md) › 06 📋 Synthese des Actions et Audits*
 <hr>
 <!-- /Breadcrumb -->
 
 # Note de Synthèse<br>Avancement des Audits & Recommandations
 
-Cette note récapitule l'analyse systématique de tous les rapports d'audit dans [📊 Rapports](%F0%9F%93%8A_Rapports/README.md) et catégorise l'état d'avancement des tâches en suspens.
+Cette note récapitule l'analyse systématique de tous les rapports d'audit dans [📊 Rapports](../../%F0%9F%94%91%20Token/README.md) et catégorise l'état d'avancement des tâches en suspens.
 ## I — 🟥 CE QU'IL RESTE À FAIRE (Démarches Humaines — En attente d'action de Sébastien)
 
 Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent vos démarches physiques auprès des tiers.
@@ -46,7 +46,7 @@ Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent
 
 Toutes les erreurs techniques de rédaction relevées par les réviseurs et spécialistes juridiques ont été traitées.
 
-- **Nettoyage RGPD & Anonymisation** : L'adresse de l'exploitation ainsi que les noms complets ont été tokenisés dans la totalité des documents de travail ([⚖️ Actes/🔑 Token](%E2%9A%96%EF%B8%8F_Actes/%F0%9F%94%91_Token/README.md)).
+- **Nettoyage RGPD & Anonymisation** : L'adresse de l'exploitation ainsi que les noms complets ont été tokenisés dans la totalité des documents de travail ([⚖️ Actes/🔑 Token](../../%F0%9F%94%91%20Token/README.md)).
 
 - **Correction des Articles de Loi Erronés** : Suppression définitive de l'article erroné `L.211-26 C. assurances` et correction systématique de toutes les citations.
 

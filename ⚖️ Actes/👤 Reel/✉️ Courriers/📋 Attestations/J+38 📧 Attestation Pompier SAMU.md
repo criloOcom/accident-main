@@ -1,6 +1,6 @@
 ---
 title: "Email Transmission Attestation Pompier SAMU"
-description: "Objet : Attestation de témoin — Intervention du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au **[L'Adresse de l'Exploitation]"
+description: "Objet : Attestation de témoin — Intervention du [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au **[L'Adresse de l'Exploitation]"
 type: courrier
 date: 2026-07-06
 tags:
@@ -8,7 +8,7 @@ tags:
   - attestation
   - temoin
 statut: brouillon
-destinataire: Services de secours intervenus le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)
+destinataire: Services de secours intervenus le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/27 📧 Attestation Pompier SAMU.md
 source: local
@@ -16,18 +16,18 @@ jx: J+38
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📋 Attestations](./README.md) › J+38 📧 Attestation Pompier SAMU*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [📋 Attestations](./README.md) › J+38 📧 Attestation Pompier SAMU*
 <hr>
 <!-- /Breadcrumb -->
 
 # TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (POMPIER / SAMU)
-Objet : Attestation de témoin — Intervention du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
+Objet : Attestation de témoin — Intervention du [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
 
 <hr><hr>
 
 Bonjour,
 
-Vous êtes intervenu(e) le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) vers 15h00 au salon **Exploitant du Commerce** situé au [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) pour porter secours à la victime d'un accident corporel (section tendineuse et nerveuse de la main droite).
+Vous êtes intervenu(e) le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) vers 15h00 au salon **Exploitant du Commerce** situé au [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) pour porter secours à la victime d'un accident corporel (section tendineuse et nerveuse de la main droite).
 
 Je me permets de vous solliciter pour remplir une **attestation de témoin** (Cerfa n° 11527\*03) afin de décrire ce que vous avez constaté lors de votre intervention : la nature et la gravité de la blessure, le saignement abondant, l'état de la vasque en céramique, et toute information utile sur les circonstances.
 
@@ -53,8 +53,8 @@ Je vous remercie par avance de votre contribution.
 
 Cordialement,
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
-[sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
+[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
 <hr><hr>
 

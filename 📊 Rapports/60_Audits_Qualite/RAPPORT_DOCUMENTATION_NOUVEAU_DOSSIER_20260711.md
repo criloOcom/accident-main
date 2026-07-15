@@ -144,7 +144,7 @@ gantt
 ### A. Documentation du Dossier
 
 **Fichier créé :** `RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711.md`
-- Emplacement : [📊 Rapports](📊%20Rapports/README.md)
+- Emplacement : [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 - Contenu : Documentation complète du nouveau dossier
 - Objectif : Reference pour tous les agents du projet
 

@@ -43,14 +43,14 @@ Conformément à l'Article 202 du Code de procédure civile, ce document permet 
 ### A. Témoins identifiés et documents associés
 
 #### **Le Témoin Client (Présent le jour J)**
-[J+32 📋 Attestation Temoin Client.md](../%E2%9C%89%EF%B8%8F%20Courriers/J%2B32%20%F0%9F%93%8B%20Attestation%20Temoin%20Client.md)
-(Email de relance : [26 📧 Attestation Temoin Client.md](../%E2%9C%89%EF%B8%8F%20Courriers/J%2B38%20%F0%9F%93%A7%20Attestation%20Temoin%20Client.md))
+[J+32 📋 Attestation Temoin Client.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Attestations/J%2B32%20%F0%9F%93%8B%20Attestation%20Temoin%20Client.md)
+(Email de relance : [26 📧 Attestation Temoin Client.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Attestations/J%2B38%20%F0%9F%93%A7%20Attestation%20Temoin%20Client.md))
 
 #### **Le Secouriste / Pompier (Intervenant d'urgence)**
-[23 📋 Attestation Pompier SAMU.md](../%E2%9C%89%EF%B8%8F%20Courriers/J%2B38%20%F0%9F%93%A7%20Attestation%20Pompier%20SAMU.md) (Email de relance : [27 📧 Attestation Pompier SAMU.md](../%E2%9C%89%EF%B8%8F%20Courriers/J%2B38%20%F0%9F%93%A7%20Attestation%20Pompier%20SAMU.md))
+[23 📋 Attestation Pompier SAMU.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Attestations/J%2B38%20%F0%9F%93%A7%20Attestation%20Pompier%20SAMU.md) (Email de relance : [27 📧 Attestation Pompier SAMU.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Attestations/J%2B38%20%F0%9F%93%A7%20Attestation%20Pompier%20SAMU.md))
 
 #### **L'Employé du Salon (Témoin de la défectuosité préalable)**
-[J+32 📋 Attestation Employe.md](../%E2%9C%89%EF%B8%8F%20Courriers/J%2B32%20%F0%9F%93%8B%20Attestation%20Employe.md) (Email de relance : [28 📧 Attestation Employe.md](../%E2%9C%89%EF%B8%8F%20Courriers/J%2B38%20%F0%9F%93%A7%20Attestation%20Employe.md))
+[J+32 📋 Attestation Employe.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Attestations/J%2B32%20%F0%9F%93%8B%20Attestation%20Employe.md) (Email de relance : [28 📧 Attestation Employe.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Attestations/J%2B38%20%F0%9F%93%A7%20Attestation%20Employe.md))
 
 ### B. Pièce obligatoire à joindre
 

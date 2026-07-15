@@ -26,7 +26,7 @@ type: memory
 | **Tier** | Référence Dintilhac 2026-07-13 |
 | **Variable canonique (prudent)** | `DFP_10PC` |
 | **Variable canonique (médian)** | `DFP_15PC` |
-| **Source** | [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../../📊%20Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md) — Avis Dintilhac 2026-07-13 |
+| **Source** | [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../../%F0%9F%93%8A%20Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md) — Avis Dintilhac 2026-07-13 |
 
 ## Contexte
 

@@ -28,6 +28,29 @@ AUDIT_SCRIPT = os.path.join(os.path.dirname(__file__), "audit_internal_links.py"
 MD_LINK_RE = re.compile(r'\]\(([^)]+)\)')
 HTML_LINK_RE = re.compile(r'<a\s+(?:[^>]*?\s+)?href="([^"]+)"')
 
+# Sous-dossiers de ✉️ Courriers/ : mapping basename → subdirectory
+# (connu statiquement depuis la structuration actuelle du projet)
+_COURIER_SUBDIRS = {
+    "📜 Mises en demeure": {"mise en demeure"},
+    "🔄 Relances": {"relance", "suivi", "relancer"},
+    "⚖️ Contentieux": {"saisine", "transmission", "opposition", "plainte"},
+    "🚨 Signalements": {"signalement", "inpi", "urssaf", "codaf", "sdis", "sie", "inspection"},
+    "📋 Attestations": {"attestation"},
+    "📝 Procédure": {"mutualisation", "email", "guide", "demande aj"},
+    "📋 Personnel": {"antiseche", "personnel"},
+    "🗄️ Archivé": {"requete constat", "archiv"},
+}
+
+
+def _courrier_subdir(filename: str) -> str | None:
+    """Devine le sous-dossier de ✉️ Courriers/ d'après le nom du fichier."""
+    name = filename.lower().replace(".md", "")
+    for subdir, keywords in _COURIER_SUBDIRS.items():
+        for kw in keywords:
+            if kw in name:
+                return subdir
+    return None
+
 
 def run_audit_json():
     result = subprocess.run(
@@ -62,20 +85,39 @@ def compute_relative_path(source_rel: str, target_rel: str) -> str:
     return rel
 
 
+def _encode_variants(s: str) -> list[str]:
+    """Produit plusieurs variantes d'URL-encoding pour un même chemin.
+    
+    Les fichiers .md utilisent des encodages inconsistants :
+      - certains encodent les espaces (%20) mais pas les emojis
+      - certains encodent aussi le + (%2B)
+      - certains encodent tout (quote complet)
+    """
+    variants = [s]  # brut (decoded)
+    # espaces uniquement
+    v = s.replace(' ', '%20')
+    if v != s:
+        variants.append(v)
+    # espaces + plus
+    v = s.replace(' ', '%20').replace('+', '%2B')
+    if v not in variants:
+        variants.append(v)
+    # encodage complet
+    v = quote(s, safe='/')
+    if v not in variants:
+        variants.append(v)
+    return variants
+
+
 def fix_link_in_content(content: str, old_decoded: str, new_rel: str) -> str:
     """Remplace un lien dans le contenu markdown par le nouveau chemin relatif.
-    Gère l'URL-encoding dans les liens."""
-    # L'ancien lien peut être URL-encoded ou non — on essaie les deux
-    old_encoded = quote(old_decoded, safe='/')
+    Gère l'URL-encoding inconsistant dans les fichiers .md."""
+    old_variants = _encode_variants(old_decoded)
     new_encoded = quote(new_rel, safe='/')
 
-    # Remplacement dans les liens markdown [text](path)
-    content = content.replace(f']({old_encoded})', f']({new_encoded})')
-    content = content.replace(f']({old_decoded})', f']({new_encoded})')
-
-    # Remplacement dans les liens HTML
-    content = content.replace(f'href="{old_encoded}"', f'href="{new_encoded}"')
-    content = content.replace(f'href="{old_decoded}"', f'href="{new_encoded}"')
+    for old in old_variants:
+        content = content.replace(f']({old})', f']({new_encoded})')
+        content = content.replace(f'href="{old}"', f'href="{new_encoded}"')
 
     return content
 
@@ -110,7 +152,21 @@ def main():
 
             if not candidates:
                 introuvables.append((src, decoded))
-            elif len(candidates) == 1:
+                continue
+
+            # Disambiguation : préférer 🔑 Token, puis 👤 Reel, puis premier
+            if len(candidates) > 1:
+                token = [c for c in candidates if "🔑 Token" in c]
+                reel = [c for c in candidates if "👤 Reel" in c]
+                if token:
+                    candidates = token[:1]
+                elif reel:
+                    candidates = reel[:1]
+                else:
+                    ambigus.append((src, decoded, candidates))
+                    continue
+
+            if len(candidates) == 1:
                 new_rel = compute_relative_path(src, candidates[0])
                 univoque.append((src, decoded, new_rel, candidates))
             else:

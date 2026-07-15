@@ -9,7 +9,7 @@ jx: J+47
 reel_path: ../../👤 Reel/🗂️ Organisation/J+47 ✅ Bordereau Pieces 15 Juillet.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › J+47 ✅ Bordereau Pieces 15 Juillet*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [🗂️ Organisation](./README.md) › J+47 ✅ Bordereau Pieces 15 Juillet*
 <hr>
 <!-- /Breadcrumb -->
 

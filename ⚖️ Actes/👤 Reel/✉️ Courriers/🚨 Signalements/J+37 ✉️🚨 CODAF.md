@@ -18,17 +18,17 @@ jx: J+37
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🚨 Signalements](./README.md) › J+37 ✉️ Signalement CODAF*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [🚨 Signalements](./README.md) › J+37 ✉️ Signalement CODAF*
 <hr>
 <!-- /Breadcrumb -->
 
 # SIGNALEMENT OFFICIEL <br> AU COMITÉ DÉPARTEMENTAL ANTI-FRAUDE DE L'ARIÈGE
 > 🔗 Source Google Drive : [1Lva-hW9g9d6…](https://drive.google.com/open?id=1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY)
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)  
-[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)  
-[06 30 51 67 75](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)  
-Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)  
+[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)  
+[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)  
+[06 30 51 67 75](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)  
+Courriel : [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)  
 
 **CODAF de l'Ariège**  
 Préfecture de l'Ariège  
@@ -36,16 +36,16 @@ Préfecture de l'Ariège
 BP 40087  
 09007 Foix Cedex  
 
-[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [5 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)  
+[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [5 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)  
 
-**Objet : Signalement officiel de manquements et demandes d'enquête (travail dissimulé présumé et manquements sociaux) — SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**  
+**Objet : Signalement officiel de manquements et demandes d'enquête (travail dissimulé présumé et manquements sociaux) — SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**  
 
-Réf : SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) — Signalement Mairie de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) du 1er juin 2026  
+Réf : SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) — Signalement Mairie de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) du 1er juin 2026  
 
 Madame, Monsieur le Président du CODAF,  
 ## INTRODUCTION
 
-La présente est adressée au CODAF de l'Ariège par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), immatriculée sous le SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md).
+La présente est adressée au CODAF de l'Ariège par [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), immatriculée sous le SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md).
 
 Cet accident a été causé par la chute brutale du préposé de l'exploitation depuis un bac à shampoing en céramique instable et cassé, sur lequel il avait dû monter pour accéder au poste de télévision, faute d'équipement d'accès adapté (escabeau) mis à disposition par l'employeur.
 
@@ -54,7 +54,7 @@ Sa chute a entraîné sur ma main droite une plaie palmaire profonde avec lésio
 
 ## I — RAPPEL DES FAITS
 
-La SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) a été immatriculée le 1er juin 2024 avec un capital social de 200 €. Selon les informations publiques disponibles du Registre National des Entreprises, elle déclare ne disposer d'aucun salarié. Pourtant, le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), un préposé exerçait de manière visible une activité de coiffure continue au sein de l'établissement.
+La SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) a été immatriculée le 1er juin 2024 avec un capital social de 200 €. Selon les informations publiques disponibles du Registre National des Entreprises, elle déclare ne disposer d'aucun salarié. Pourtant, le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), un préposé exerçait de manière visible une activité de coiffure continue au sein de l'établissement.
 
 L'accident est survenu dans les conditions suivantes :
 - Le préposé est monté sur le bac à shampoing pour accéder au poste de télévision, en l'absence de tout escabeau ou marchepied adapté.
@@ -111,7 +111,7 @@ L'absence de Document Unique d'Évaluation des Risques Professionnels (DUERP) à
 
 **4. Éléments contextuels relatifs à l'exploitation**
 
-Le capital social de 200 € et la dissociation entre le siège social de l'activité ([Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)) et la domiciliation des dirigeants ([Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) et [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)) ne constituent pas en soi des infractions, mais sont des éléments de contexte qui interrogent sur la sincérité et la pérennité de l'exploitation.
+Le capital social de 200 € et la dissociation entre le siège social de l'activité ([Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)) et la domiciliation des dirigeants ([Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) et [Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)) ne constituent pas en soi des infractions, mais sont des éléments de contexte qui interrogent sur la sincérité et la pérennité de l'exploitation.
 
 Combinés aux autres manquements de sécurité et de déclaration suspectés, ils justifient un examen attentif de la part de vos services afin de prévenir des fraudes statutaires ou des organisations d'insolvabilité.
 <hr><hr>
@@ -130,18 +130,18 @@ Conformément à l'Article 40 du Code de procédure pénale, si les faits consta
 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Président, l'expression de ma considération distinguée.
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
 <hr><hr>
 
 ## PIECES JOINTES
 
-- **[PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Procédure pénale
+- **[PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Procédure pénale
 
 - **Accusés de réception des courriers recommandés retournés** — mentions NPAI (29 mai 2026)
 
-- **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN 938 033 222
+- **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN 938 033 222
 
 - **Dossier médical complet (11 pièces)** — Dossier médical complet
 <hr><hr>

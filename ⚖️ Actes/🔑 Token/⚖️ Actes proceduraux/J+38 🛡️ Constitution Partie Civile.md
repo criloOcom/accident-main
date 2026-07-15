@@ -296,6 +296,6 @@ Les fondements juridiques (Section II) restent inchangés — le rapport d'exper
 - Article 475-1 CPP : montant à définir via le token [**[Finance Article 700]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700.md) (remplacé par [**[Finance Article 475-1]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-475-1.md) dans la nomenclature pénale)
 
 **Documents liés :**
-- Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
+- Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
 - Ordonnance de référé (mission expertise) : [`J+63 ⚖️ Projet Ordonnance Refere.md`](J+63%20%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)
-- Avis Dintilhac externe : [`📊 Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`](../../../%F0%9F%93%8A%20Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md)
+- Avis Dintilhac externe : [`📊 Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`](../../../%F0%9F%93%8A%20Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md)

@@ -14,7 +14,7 @@ jx: J+32
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📋 Attestations](./README.md) › J+32 📋 Attestation Pompier SAMU*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../../%F0%9F%94%91%20Token/README.md) › [✉️ Courriers](../../../%F0%9F%94%91%20Token/README.md) › [📋 Attestations](./README.md) › J+32 📋 Attestation Pompier SAMU*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -35,9 +35,9 @@ N'ayant aucun lien de parenté, d'alliance, de subordination, ni d'intérêt com
 
 Atteste sur l'honneur des faits suivants :
 
-[À compléter : En tant que membre des services de secours (Pompier / SAMU), si le texte suivant correspond à votre intervention du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), vous pouvez le recopier ou vous en inspirer. Sinon, décrivez librement les faits.]
+[À compléter : En tant que membre des services de secours (Pompier / SAMU), si le texte suivant correspond à votre intervention du [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), vous pouvez le recopier ou vous en inspirer. Sinon, décrivez librement les faits.]
 
-"Je suis intervenu(e) le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). À notre arrivée sur les lieux, nous avons pris en charge un individu, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), qui présentait une blessure grave et un saignement abondant au niveau de la main droite. Un pansement compressif d'urgence a dû être mis en place pour stopper l'hémorragie. L'état de la victime a nécessité une prise en charge immédiate et son transport en urgence vers la structure médicale appropriée."
+"Je suis intervenu(e) le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). À notre arrivée sur les lieux, nous avons pris en charge un individu, [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), qui présentait une blessure grave et un saignement abondant au niveau de la main droite. Un pansement compressif d'urgence a dû être mis en place pour stopper l'hémorragie. L'état de la victime a nécessité une prise en charge immédiate et son transport en urgence vers la structure médicale appropriée."
 
 Conscient que cette attestation pourra être utilisée en justice et que toute fausse déclaration de ma part m'expose à des sanctions pénales.
 

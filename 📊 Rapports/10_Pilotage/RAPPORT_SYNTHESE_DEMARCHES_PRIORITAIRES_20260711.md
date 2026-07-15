@@ -308,8 +308,8 @@ type: rapport
 ### Modèles de Lettres Disponibles
 
 Tous les modèles sont disponibles dans :
-- [⚖️ Actes/🔑 Token/✉️ Courriers](⚖️%20Actes/🔑%20Token/✉️%20Courriers/README.md) (versions anonymisées)
-- [⚖️ Actes/👤 Reel/✉️ Courriers](⚖️%20Actes/👤%20Reel/✉️%20Courriers/README.md) (versions réelles)
+- [⚖️ Actes/🔑 Token/✉️ Courriers](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (versions anonymisées)
+- [⚖️ Actes/👤 Reel/✉️ Courriers](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (versions réelles)
 
 ### Procédure d'Envoi
 
@@ -318,7 +318,7 @@ Tous les modèles sont disponibles dans :
 3. **Imprimer et signer** le document
 4. **Préparer les pièces jointes** (selon checklist)
 5. **Envoyer par LRAR** et noter le numéro de suivi
-6. **Mettre à jour** le tableau de suivi ([fichier 23](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md))
+6. **Mettre à jour** le tableau de suivi ([fichier 23](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B39%20%F0%9F%93%91%20Bordereau%20Unifie.md))
 
 ---
 
@@ -413,11 +413,11 @@ gantt
 
 ### Ressources Disponibles
 
-- **Données juridiques** : 3.6 MB dans [📊 Rapports](📊%20Rapports/README.md)
+- **Données juridiques** : 3.6 MB dans [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 - **Références formatées** : `REFERENCES_MARKDOWN_20260710.json`
 - **Décisions sélectionnées** : `DECISIONS_SELECTIONNEES_20260710.json`
 - **Annexes jurisprudentielles** : `⚖️ Actes/📎 Annexes/` (3 décisions complètes)
-- **Documentation MCP** : [📜 Lois/EXEMPLES_REQUETES_MCP.md](../%F0%9F%93%9C%20Lois/EXEMPLES_REQUETES_MCP.md)
+- **Documentation MCP** : [📜 Lois/EXEMPLES_REQUETES_MCP.md](../../%F0%9F%93%9C%20Lois/EXEMPLES_REQUETES_MCP.md)
 
 ### Indicateurs de Succès
 

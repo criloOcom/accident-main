@@ -28,7 +28,7 @@ jx: J+47
 
 <hr><hr>
 
-**Expéditeur :** [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) — [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
+**Expéditeur :** [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) — [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 **Destinataire :** Madame, Monsieur l'Inspecteur du Travail — DDETS de l'Ariège, Cité Administrative, 2 Rue de la Préfecture, 09000 Foix
 **Date :** [Date d'envoi — À compléter avant impression]
 **Objet :** Demande d'information — Accident corporel du 29 mai 2026 — Salon « **[L'Exploitant du Commerce (La SAS)]** » ([**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md))
@@ -55,13 +55,13 @@ Je vous remercie par avance de l'attention portée à la présente et reste à v
 
 Veuillez agréer, Madame, Monsieur, l'expression de ma considération distinguée.
 
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 ## PIECES JOINTES
 
 - Copie du courriel de **[L'Adjoint au Maire de la Commune]** (1er juin 2026)
 
 - **PV initial n°2026/015967**
 
-- **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** / certificat médical
+- **[Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** / certificat médical
 
 <hr><hr>

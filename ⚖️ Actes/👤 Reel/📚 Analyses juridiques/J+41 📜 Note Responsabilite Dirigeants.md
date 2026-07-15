@@ -16,7 +16,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/J+41 📜 Note Responsabilit
 jx: J+41
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+41 📜 Note Responsabilite Dirigeants*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [📚 Analyses Juridiques](./README.md) › J+41 📜 Note Responsabilite Dirigeants*
 <hr>
 <!-- /Breadcrumb -->
 

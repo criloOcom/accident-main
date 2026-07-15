@@ -29,7 +29,7 @@ jx: J+47
 
 <hr><hr>
 
-**Expéditeur :** [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) — [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
+**Expéditeur :** [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) — [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 **Destinataire :** Monsieur le Préfet de l'Ariège — Référent CODAF — Préfecture de l'Ariège, 2 Rue de la Préfecture, 09000 Foix
 **Date :** [Date d'envoi — À compléter avant impression]
 **Objet :** Suivi du signalement transmis par la Mairie de Foix — Salon « **[L'Exploitant du Commerce (La SAS)]** » ([**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md))
@@ -54,14 +54,14 @@ Le cas échéant, je me tiens à votre disposition pour vous transmettre toute p
 
 Je vous remercie de l'attention portée à la présente et vous prie d'agréer, Monsieur le Préfet, l'expression de ma considération distinguée.
 
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 ## PIECES JOINTES
 
 - Copie du courriel de **[L'Adjoint au Maire de la Commune]** (1er juin 2026)
 
 - **PV initial n°2026/015967**
 
-- **[Certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** / [compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)
+- **[Certificat médical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** / [compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)
 
 - **Attestation sur l'honneur des faits**
 

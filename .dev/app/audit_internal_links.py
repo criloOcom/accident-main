@@ -26,7 +26,11 @@ SKIP_DIRS = {'.git', '.venv', '__pycache__', 'node_modules', '.pytest_cache', '.
 # Fichiers contenant des exemples volontaires de liens (faux positifs)
 SKIP_FILES = {
     'CONVENTIONS.md', 'VACCIN.md', 'DECISIONS.md', 'DESIGN.md',
-    'STRICT VARIABLES.md',
+    'STRICT VARIABLES.md', 'RULES.md',
+}
+SKIP_LINKS = {
+    'chemin',      # exemple volontaire dans AGENTS.md: `[texte](chemin)`
+    'chemin/relatif.md',  # idem dans RULES.md (avant qu'il soit skippé)
 }
 ROOT_DIRS = ('Actes', 'Lois', 'Memory', 'Rapports', 'Annexes', '.dev')
 
@@ -84,9 +88,12 @@ def check_link(link: str, source_file: str, basename_index: dict) -> dict:
 
     candidates = None
     if not exists:
-        basename = os.path.basename(decoded)
-        if basename in basename_index:
-            candidates = basename_index[basename]
+        if decoded in SKIP_LINKS or os.path.basename(decoded) in SKIP_LINKS:
+            exists = True
+        else:
+            basename = os.path.basename(decoded)
+            if basename in basename_index:
+                candidates = basename_index[basename]
 
     return {
         "source": os.path.relpath(source_file, ROOT),

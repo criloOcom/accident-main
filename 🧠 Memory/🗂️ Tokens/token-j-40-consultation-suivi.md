@@ -43,7 +43,7 @@ Consultation juridique externe et suivi stratégique du dossier après le dépô
 
 ## Documents liés
 
-- [J+40 ✉️ Relance Dirigeants](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B40%20%E2%9C%89%EF%B8%8F%20Relance%20Dirigeants.md)
+- [J+40 ✉️ Relance Dirigeants](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/J%2B40%20%E2%9C%89%EF%B8%8F%20Relance%20Dirigeants.md)
 - [J+40 📜 Note Droit Assurances](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/J%2B40%20%F0%9F%93%9C%20Note%20Droit%20Assurances.md)
 - [J+40 📊 Note Strategique FGTI CIVI](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/J%2B40%20%F0%9F%93%8A%20Note%20Strategique%20FGTI%20CIVI.md)
 - [J+40 📋 Dossier Special CERFA](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/J%2B40%20%F0%9F%93%8B%20Dossier%20Special%20CERFA.md)

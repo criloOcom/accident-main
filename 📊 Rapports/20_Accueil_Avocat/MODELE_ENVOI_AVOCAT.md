@@ -8,20 +8,20 @@ statut: final
 
 > **Pièces jointes** (communes aux deux options) :
 > 1. [Mémo de présentation 1 page](./MEMO_AVOCAT_1PAGE.md)
-> 2. [Note de présentation stratégique](./RAPPORT_PRESENTATION_STRATEGIQUE_DOSSIER.md)
-> 3. [Projet de conclusions au fond TJ Foix](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2BXX%20%F0%9F%93%9C%20Conclusions%20au%20Fond%20TJ%20Foix.md)
-> 4. [STRICT VARIABLES (référentiel chiffré)](../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md)
+> 2. [Note de présentation stratégique](../30_Analyses_Multi_Angle/RAPPORT_PRESENTATION_STRATEGIQUE_DOSSIER.md)
+> 3. [Projet de conclusions au fond TJ Foix](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2BXX%20%F0%9F%93%9C%20Conclusions%20au%20Fond%20TJ%20Foix.md)
+> 4. [STRICT VARIABLES (référentiel chiffré)](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md)
 <hr><hr>
 
 ## Option A — Avocat déjà désigné (AJ)
 
-**Objet** : Dossier accident corporel — [**[La Victime]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) c. SAS [**[L'Exploitant du Commerce]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — TJ Foix — Demande de prise en charge
+**Objet** : Dossier accident corporel — [**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) c. SAS [**[L'Exploitant du Commerce]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — TJ Foix — Demande de prise en charge
 
 ---
 
 Maître,
 
-Vous avez été désigné au titre de l'aide juridictionnelle pour défendre mes intérêts dans le cadre de l'accident dont j'ai été victime le [**[J+0 Accident]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au salon [**[L'Exploitant du Commerce]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) à [**[La Ville de l'Accident]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
+Vous avez été désigné au titre de l'aide juridictionnelle pour défendre mes intérêts dans le cadre de l'accident dont j'ai été victime le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au salon [**[L'Exploitant du Commerce]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) à [**[La Ville de l'Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
 
 **Mécanisme** : Installée au bac à shampoing, j'ai été blessée lorsque le préposé du salon est monté sur la vasque pour régler la télévision, en l'absence de tout escabeau. La vasque, fragilisée par une cassure préexistante non signalée, a basculé sous son poids. J'ai instinctivement tendu la main droite pour le protéger ; ma paume a heurté la cassure, entraînant une section tendineuse et nerveuse (microchirurgie d'urgence SOS Main, neurolyse). ITT 56 jours, consolidation au 01/03/2027.
 
@@ -44,13 +44,13 @@ Je reste à votre entière disposition pour tout complément d'information ou po
 
 Je vous prie d'agréer, Maître, l'expression de ma considération distinguée.
 
-[**[La Victime]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
-[**[Téléphone de la Victime]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md) — [**[L'Email de la Victime]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
+[**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[**[Téléphone de la Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md) — [**[L'Email de la Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 <hr><hr>
 
 ## Option B — BAJ / Bâtonnier (demande de désignation)
 
-**Objet** : Demande de désignation d'avocat au titre de l'aide juridictionnelle — Dossier accident corporel — [**[La Victime]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) c. SAS [**[L'Exploitant du Commerce]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — TJ Foix
+**Objet** : Demande de désignation d'avocat au titre de l'aide juridictionnelle — Dossier accident corporel — [**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) c. SAS [**[L'Exploitant du Commerce]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — TJ Foix
 
 ---
 
@@ -59,7 +59,7 @@ Monsieur le Bâtonnier de l'Ordre des Avocats,
 
 J'ai l'honneur de solliciter la désignation d'un avocat au titre de l'aide juridictionnelle pour défendre mes intérêts dans le dossier dont les éléments essentiels suivent.
 
-Victime d'un accident corporel grave le [**[J+0 Accident]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au salon [**[L'Exploitant du Commerce]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) à [**[La Ville de l'Accident]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), j'ai subi une plaie palmaire profonde de la main droite dominante avec section partielle du tendon FDP et du paquet vasculo-nerveux collatéral radial de l'index, ayant nécessité une microchirurgie d'urgence en SOS Main. L'expertise médico-légale (UMJ) du 12 novembre 2026 a fixé la consolidation au 1er mars 2027, retenu un DFP de 12 % et une incidence professionnelle majeure (informaticien indépendant — perte fonctionnelle de la main droite).
+Victime d'un accident corporel grave le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au salon [**[L'Exploitant du Commerce]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) à [**[La Ville de l'Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), j'ai subi une plaie palmaire profonde de la main droite dominante avec section partielle du tendon FDP et du paquet vasculo-nerveux collatéral radial de l'index, ayant nécessité une microchirurgie d'urgence en SOS Main. L'expertise médico-légale (UMJ) du 12 novembre 2026 a fixé la consolidation au 1er mars 2027, retenu un DFP de 12 % et une incidence professionnelle majeure (informaticien indépendant — perte fonctionnelle de la main droite).
 
 Le dossier est en état d'être plaidé au fond devant le TJ de Foix. Un projet de conclusions, une note stratégique et un référentiel chiffré complet sont joints au présent courrier. Une information judiciaire pénale est également en cours (Parquet de Foix, réquisitoire introductif double qualification 222-19/222-20 CP).
 
@@ -72,6 +72,6 @@ Je joins à ma demande les pièces suivantes :
 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame la Présidente, Monsieur le Bâtonnier, l'expression de ma considération distinguée.
 
-[**[La Victime]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
-[**[L'Adresse de la Victime]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
-[**[Téléphone de la Victime]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md) — [**[L'Email de la Victime]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
+[**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[**[L'Adresse de la Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
+[**[Téléphone de la Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md) — [**[L'Email de la Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)

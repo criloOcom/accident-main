@@ -21,7 +21,7 @@ drive_id: À compléter
 jx: J+47
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [⚖️ Actes Procéduraux](./README.md) › J+47 ⚖️ Requisitoire introductif*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [⚖️ Actes Procéduraux](./README.md) › J+47 ⚖️ Requisitoire introductif*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -196,7 +196,7 @@ Les chances d'aboutissement de la présente procédure d'information sont jugée
 
 ### NOTE MÉTHODOLOGIQUE
 
-Ce réquisitoire introductif est une **simulation** à vocation pédagogique et stratégique, s'inscrivant dans la continuité de la [Constitution de Partie Civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (J+38) et du [Rapport d'Expertise Médicale](../../Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) (déposé le 12 juin 2027).
+Ce réquisitoire introductif est une **simulation** à vocation pédagogique et stratégique, s'inscrivant dans la continuité de la [Constitution de Partie Civile](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (J+38) et du [Rapport d'Expertise Médicale](../../%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) (déposé le 12 juin 2027).
 
 **Scénarios de qualification :**
 - *Scénario A (prudent)* — ITT pénale limitée au certificat initial (56 jours ≤ 3 mois) → Art. 222-20 CP (délit)
@@ -206,7 +206,7 @@ Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19
 
 **Documents liés :**
 - Constitution de Partie Civile consolidée : [`J+38 🛡️ Constitution Partie Civile.md`](J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
-- Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
+- Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
 - Ordonnance Art. 145 CPC (vidéos) : [`J+54 ⚖️ Ordonnance sur Requete Art. 145 CPC.md`](J%2B54%20%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md)
 - Ordonnance de référé provision : [`J+63 ⚖️ Projet Ordonnance Refere.md`](J+63%20%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)
 <hr><hr>
@@ -215,7 +215,7 @@ Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19
 
 ## PIECES JOINTES
 
-- **[Rapport d'expertise médicale](../../Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)** — déposé le 12 juin 2027
+- **[Rapport d'expertise médicale](../../%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)** — déposé le 12 juin 2027
 
 <hr><hr>
 

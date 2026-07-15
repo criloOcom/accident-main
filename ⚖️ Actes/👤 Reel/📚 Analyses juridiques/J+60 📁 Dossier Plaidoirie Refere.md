@@ -15,7 +15,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/J+60 📁 Dossier Plaidoirie
 jx: J+60
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › J+60 📁 Dossier Plaidoirie Refere*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../../%F0%9F%94%91%20Token/README.md) › [📚 Analyses Juridiques](./README.md) › J+60 📁 Dossier Plaidoirie Refere*
 <hr>
 <!-- /Breadcrumb -->
 

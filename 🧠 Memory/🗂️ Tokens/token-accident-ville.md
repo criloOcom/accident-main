@@ -39,7 +39,7 @@ Foix est la ville où s'est produit l'accident ([J+0 Accident](token-j-0-acciden
 
 - [Assignation Référé J+32](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B32%20%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md) (compétence TJ Foix)
 - [Constitution Partie Civile J+38](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (compétence tribunal)
-- [Mise en demeure Maire Foix J+41](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B41%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Maire%20Foix.md)
+- [Mise en demeure Maire Foix J+41](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/J%2B41%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Maire%20Foix.md)
 
 ## Source
 

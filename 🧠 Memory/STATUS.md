@@ -93,7 +93,7 @@ Transformer toutes les mentions textuelles de pièces et de tokens d'anonymisati
 
 ## Phase 20 — Corrections plainte complémentaire suite avocat + antisèche orale (13 juillet 2026) ✅
 
-### Corrections appliquées au [fichier 36 📜](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B47%20%F0%9F%93%9C%20Plainte%20Complementaire.md) (version officielle)
+### Corrections appliquées au [fichier 36 📜](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/J%2B47%20%F0%9F%93%9C%20Plainte%20Complementaire.md) (version officielle)
 | Correction | Avant | Après |
 |------------|-------|-------|
 | **Infraction principale** | Obstruction à la justice (434-15 CP) | Blessures involontaires (222-20 + 121-3 CP) |
@@ -107,15 +107,15 @@ Transformer toutes les mentions textuelles de pièces et de tokens d'anonymisati
 | **Annexe juridique** | 434-15, 434-15-1, 222-19 | 222-20, 121-3, 434-4 |
 
 ### Version A ✉️ reclassée en antisèche orale personnelle
-- **Renommage** : `36 ✉️ Plainte Complémentaire Police Foix.md` → [`J+47 📋 Antiseche Orale Plainte.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B47%20%F0%9F%93%8B%20Antiseche%20Orale%20Plainte.md)
+- **Renommage** : `36 ✉️ Plainte Complémentaire Police Foix.md` → [`J+47 📋 Antiseche Orale Plainte.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Personnel/J%2B47%20%F0%9F%93%8B%20Antiseche%20Orale%20Plainte.md)
 - **Statut** : `DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER`
 - **Usage** : aide-mémoire pour l'audition orale (script dialogue conservé)
 - **Références corrigées** : 434-15→434-4, 222-19→222-20, ajout 121-3
 
 ### Documents à déposer le 15 juillet Foix
-1. **Matin — Greffe TJ Foix** : [Requête Art. 145 CPC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B47%20%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) (fichier 03) + [demande AJ](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B47%20%F0%9F%93%8B%20Guide%20Demande%20AJ.md) (fichier 39)
+1. **Matin — Greffe TJ Foix** : [Requête Art. 145 CPC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B47%20%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) (fichier 03) + [demande AJ](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/J%2B47%20%F0%9F%93%8B%20Guide%20Demande%20AJ.md) (fichier 39)
 2. **Midi — 22 Rue Lafaurie** : Photos + constat personnel état vasque
-3. **Après-midi — Commissariat** : [Plainte complémentaire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/J%2B47%20%F0%9F%93%9C%20Plainte%20Complementaire.md) (fichier 36 📜 imprimé + signé)
+3. **Après-midi — Commissariat** : [Plainte complémentaire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/J%2B47%20%F0%9F%93%9C%20Plainte%20Complementaire.md) (fichier 36 📜 imprimé + signé)
 
 ---
 
@@ -189,7 +189,7 @@ Transformer toutes les mentions textuelles de pièces et de tokens d'anonymisati
 |----|-------|--------|----------|
 | #73 | Rapport audit avocat | ✅ Mergée (rebase) | [📊 Rapports/🗄️ Archives/audit/rapport_audit_avocat.md](../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/rapport_audit_avocat.md) |
 | #74 | Audit RGPD | ✅ Mergée (rebase) | [📊 Rapports/🗄️ Archives/audit/RAPPORT_AUDIT_RGPD.md](../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/RAPPORT_AUDIT_RGPD.md) |
-| #75 | Expertise barémique | ✅ Mergée (rebase) | [📊 Rapports/20260708_Rapport_Baremique_Dintilhac.md](../%F0%9F%93%8A%20Rapports/20260708_Rapport_Baremique_Dintilhac.md) |
+| #75 | Expertise barémique | ✅ Mergée (rebase) | [📊 Rapports/20260708_Rapport_Baremique_Dintilhac.md](../%F0%9F%93%8A%20Rapports/40_Indemnisation_Dintilhac/20260708_Rapport_Baremique_Dintilhac.md) |
 | #76 | Note stratégique FGTI/CIVI | ✅ Mergée (1er) | [⚖️ Actes/{token,reel}/💰 Etudes indemnisation/13 Note strategique FGTI CIVI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/J%2B40%20%F0%9F%93%8A%20Note%20Strategique%20FGTI%20CIVI.md) |
 | #77 | Audit organisation | ✅ Mergée (rebase) | [📊 Rapports/🗄️ Archives/audit/RAPPORT_ORGANISATION_METHODE.md](../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/RAPPORT_ORGANISATION_METHODE.md) |
 | #78 | Audit dirigeants | ✅ Mergée (rebase) | [📊 Rapports/🗄️ Archives/audit/RAPPORT_DIRIGEANTS.md](../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/RAPPORT_DIRIGEANTS.md) |
@@ -201,7 +201,7 @@ Transformer toutes les mentions textuelles de pièces et de tokens d'anonymisati
 | #84 | Mémoire défense adverse (token) | ✅ Mergée (rebase) | [⚖️ Actes/🔑 Token/📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/99%20%F0%9F%9B%A1%EF%B8%8F%20Memoire%20en%20defense%20adverse.md) |
 
 ### Génération reel (#83, #84)
-- `generate_real_versions.py` : 57 fichiers générés dans [⚖️ Actes/👤 Reel](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/README.md)
+- `generate_real_versions.py` : 57 fichiers générés dans [⚖️ Actes/👤 Reel](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 - ✅ Réquisitoire et Mémoire défense désormais disponibles en versions réelles
 
 ### RGPD — Fuites critiques nettoyées
@@ -447,7 +447,7 @@ Transformer toutes les mentions textuelles de pièces et de tokens d'anonymisati
 
 ### State final
 - `📊 Rapports/expertise/` : 1 mémoire externe
-- [📜 Lois](../%F0%9F%93%9C%20Lois/README.md), [📊 Rapports/🗄️ Archives/ordalie](../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/ordalie/README.md) : inchangé
+- [📜 Lois](../%F0%9F%93%9C%20Lois/README.md), [📊 Rapports/🗄️ Archives/ordalie](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) : inchangé
 - [⚖️ Actes/🔑 Token](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) : 05 Conclusions Refere mis à jour
 
 ## Phase 8 — Recherche et intégration jurisprudence fait générateur (7 juillet 2026) ✅
@@ -908,7 +908,7 @@ La version initiale du **09 Courrier Inspection Travail** contenait une erreur f
 ## Phase 7 — Restructuration token/reel + README.md + Checker (6 juillet 2026) ✅
 
 ### Ce qui a été fait
-- **Restructuration token/reel** : `⚖️ Actes/00-06` → `⚖️ Actes/🔑 Token/00-06/`, `⚖️ Actes/07_Reel` → [⚖️ Actes/👤 Reel](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/README.md), script `generate_real_versions.py` réécrit (scan multi-dossiers, génération dans [⚖️ Actes/👤 Reel](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/README.md) avec sous-dossiers miroirs + README.md)
+- **Restructuration token/reel** : `⚖️ Actes/00-06` → `⚖️ Actes/🔑 Token/00-06/`, `⚖️ Actes/07_Reel` → [⚖️ Actes/👤 Reel](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md), script `generate_real_versions.py` réécrit (scan multi-dossiers, génération dans [⚖️ Actes/👤 Reel](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) avec sous-dossiers miroirs + README.md)
 - **17 README.md riches** créées : fil d'Ariane, emoji, table des fichiers, navigation verticale
 - **INDEX.md → README.md** : 7 fichiers renommés
 - **Règle répertoire souverain érigée** : AGENTS.md règle #10, RULES.md règle #0, DECISIONS.md, VACCIN.md
@@ -929,7 +929,7 @@ La version initiale du **09 Courrier Inspection Travail** contenait une erreur f
 - **Assignation 01 enrichie** : nouveau §D *Justification du montant de la provision* (5 arguments : fourchette référentiel, proportionnalité, provision *ad litem*, silence de l'exploitant, jurisprudence Cass.)
 - **Email relance Dr DJERBI** : `25_Email Relance Dr DJERBI.md` — relance certificat consolidation
 - **3 emails transmission attestations** : `26/27/28_Email Attestation` pour client/pompier/employé
-- **Génération versions réelles** : 46 fichiers regénérés dans [⚖️ Actes/👤 Reel](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/README.md) (incl. 5 nouveaux)
+- **Génération versions réelles** : 46 fichiers regénérés dans [⚖️ Actes/👤 Reel](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (incl. 5 nouveaux)
 - **Document clé identifié** : Réquisition Police UMJ 02/06/2026 (PDF) + retranscription téléphonique — confirme le rendez-vous réel du **12 novembre 2026** à Purpan
 - **Compréhension corrigée** : plus de dates fabriquées (31 juillet, expertise médicale civile) — seules dates réelles : 14 juillet (fin amiable), 12 novembre (UMJ ITT)
 - **Check consistency** : 0 erreur, 65 avertissements bénins (inchangé)

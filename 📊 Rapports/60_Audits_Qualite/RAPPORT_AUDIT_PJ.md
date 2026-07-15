@@ -12,8 +12,8 @@ type: rapport
 # RAPPORT D'AUDIT<br>Pièces Jointes (PJ) des Courriers 03 à 35
 
 **Date :** 10 juillet 2026
-**Périmètre :** 33 courriers dans [⚖️ Actes/🔑 Token/✉️ Courriers](⚖️%20Actes/🔑%20Token/✉️%20Courriers/README.md) (03 à 35)
-**Référentiel :** [🧠 Memory/PIECES MAP.md](../%F0%9F%A7%A0%20Memory/PIECES%20MAP.md) + `⚖️ Actes/📂 Preuves officielles/` (physique)
+**Périmètre :** 33 courriers dans [⚖️ Actes/🔑 Token/✉️ Courriers](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (03 à 35)
+**Référentiel :** [🧠 Memory/PIECES MAP.md](../../%F0%9F%A7%A0%20Memory/PIECES%20MAP.md) + `⚖️ Actes/📂 Preuves officielles/` (physique)
 
 ---
 
@@ -200,9 +200,9 @@ Citée au courrier 35, absente physiquement et non référencée dans PIECES MAP
 | Doc 01-14 (analyses juridiques) | ✅ Mapping correct |
 | Bordereau V2 (43 pièces, groupes A-G) | ✅ Cadre théorique cohérent |
 | Pièces Drive listées | Liens accessibles (non vérifiés dans ce rapport) |
-| **AR NPAI ([pièce 10-15](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md))** | ❌ Absent physiquement → **à créer** |
-| **Extrait Kbis ([pièce 13](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md))** | ❌ Absent physiquement → **à commander** |
-| **Note RNE/INPI ([pièce 35](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md))** | ❌ Absente physiquement → **à créer** |
+| **AR NPAI ([pièce 10-15](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B39%20%F0%9F%93%91%20Bordereau%20Unifie.md))** | ❌ Absent physiquement → **à créer** |
+| **Extrait Kbis ([pièce 13](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B39%20%F0%9F%93%91%20Bordereau%20Unifie.md))** | ❌ Absent physiquement → **à commander** |
+| **Note RNE/INPI ([pièce 35](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B39%20%F0%9F%93%91%20Bordereau%20Unifie.md))** | ❌ Absente physiquement → **à créer** |
 
 ---
 

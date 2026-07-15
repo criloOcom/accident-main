@@ -58,9 +58,9 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 
 | # | Document | Type | Statut | Emplacement |
 |---|----------|------|--------|-------------|
-| 36 | **Plainte Complémentaire** | Acte juridique | ✅ Finalisé | [⚖️ Actes/👤 Reel/✉️ Courriers](⚖️%20Actes/👤%20Reel/✉️%20Courriers/README.md) |
-| 37 | **Guide de Dialogue** | Guide pratique | ✅ Finalisé | [⚖️ Actes/👤 Reel/✉️ Courriers](⚖️%20Actes/👤%20Reel/✉️%20Courriers/README.md) |
-| 38 | **Checklist Déplacement** | Organisation | ✅ Finalisé | [⚖️ Actes/👤 Reel/✉️ Courriers](⚖️%20Actes/👤%20Reel/✉️%20Courriers/README.md) |
+| 36 | **Plainte Complémentaire** | Acte juridique | ✅ Finalisé | [⚖️ Actes/👤 Reel/✉️ Courriers](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) |
+| 37 | **Guide de Dialogue** | Guide pratique | ✅ Finalisé | [⚖️ Actes/👤 Reel/✉️ Courriers](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) |
+| 38 | **Checklist Déplacement** | Organisation | ✅ Finalisé | [⚖️ Actes/👤 Reel/✉️ Courriers](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) |
 
 ### Documents Existants Mis à Jour
 
@@ -498,17 +498,17 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 ### Ressources Disponibles
 
 **📂 Dossier complet disponible dans :**
-- [⚖️ Actes/👤 Reel/✉️ Courriers](⚖️%20Actes/👤%20Reel/✉️%20Courriers/README.md) (versions réelles)
-- [⚖️ Actes/🔑 Token/✉️ Courriers](⚖️%20Actes/🔑%20Token/✉️%20Courriers/README.md) (versions anonymisées)
+- [⚖️ Actes/👤 Reel/✉️ Courriers](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (versions réelles)
+- [⚖️ Actes/🔑 Token/✉️ Courriers](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (versions anonymisées)
 
 **📊 Rapports de référence :**
-- [📊 Rapports/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md](RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md)
+- [📊 Rapports/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md](../10_Pilotage/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md)
 - [📊 Rapports/RAPPORT_AUDIT_RISQUES.md](RAPPORT_AUDIT_RISQUES.md)
-- [📊 Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md](RAPPORT_FINAL_INTEGRATION_20260710.md)
+- [📊 Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md](../30_Analyses_Multi_Angle/RAPPORT_FINAL_INTEGRATION_20260710.md)
 
 **📚 Documentation juridique :**
-- [📜 Lois/EXEMPLES_REQUETES_MCP.md](../%F0%9F%93%9C%20Lois/EXEMPLES_REQUETES_MCP.md)
-- [⚖️ Actes/📎 Annexes](⚖️%20Actes/📎%20Annexes/README.md) (3 décisions jurisprudentielles)
+- [📜 Lois/EXEMPLES_REQUETES_MCP.md](../../%F0%9F%93%9C%20Lois/EXEMPLES_REQUETES_MCP.md)
+- [⚖️ Actes/📎 Annexes](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (3 décisions jurisprudentielles)
 
 ---
 
