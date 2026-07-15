@@ -107,6 +107,6 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 - **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
 
-- **[Signalement SIE](../J%2B31%20%F0%9F%93%AC%20Signalement%20SIE.md)** — Signalement fiscal adresse au SIE
+- **[Signalement SIE](../%F0%9F%9A%A8%20Signalements/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SIE.md)** — Signalement fiscal adresse au SIE
 
-- **[Signalement Inspection du Travail](../J%2B31%20%F0%9F%93%AC%20Signalement%20Inspection%20Travail.md)** — Signalement social adresse a la DREETS
+- **[Signalement Inspection du Travail](../%F0%9F%9A%A8%20Signalements/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md)** — Signalement social adresse a la DREETS
