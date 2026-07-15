@@ -5,7 +5,7 @@ type: rapport
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT RISQUES*
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › CARTOGRAPHIE RISQUES*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -83,6 +83,13 @@ Chaque risque est évalué selon trois axes :
 | **R19** | Impossibilité réelle de recouvrement sur dirigeants | Élevée | Majeur | 4 🟠 | **URGENTE** |
 | **R20** | Conflit d'intérêts avocat potentiel (barreau local) | Faible | Modéré | 1 🟢 | **SURVEILLÉ** |
 | **R21** | Perte des originaux de pièces (PV police, CR opératoire) | Moyenne | Majeur | 3 🟡 | **SURVEILLÉ** |
+| **R22** | Dépérissement des preuves vidéo (délai d'écrasement) | Forte | Majeur | 4 🟠 | **URGENTE** |
+| **R23** | Insolvabilité SAS (capital 200 €) réévaluée | Forte | Critique | 5 🔴 | **IMMÉDIATE** |
+| **R24** | Silence administratif (Préfecture / Inspection Travail) | Forte | Majeur | 4 🟠 | **URGENTE** |
+| **R25** | Complications lors de l'expertise UMJ du 12/11 | Moyenne | Majeur | 3 🟡 | **SURVEILLÉ** |
+| **R26** | Rejet partiel des arguments pénaux (entrave à la justice) | Moyenne | Majeur | 3 🟡 | **SURVEILLÉ** |
+| **R27** | Contestations sur l'indemnisation et scénarios Dintilhac | Forte | Modéré | 3 🟡 | **SURVEILLÉ** |
+| **R28** | Faiblesses dans les conclusions au fond (prescription, fondement) | Faible | Critique | 4 🟠 | **URGENTE** |
 
 ---
 
@@ -407,6 +414,114 @@ Chaque risque est évalué selon trois axes :
 | **Plan d'atténuation** | Scanner tous les documents. Stocker au minimum 2 copies physiques séparées. Déposer copie authentique chez un avocat dès que nommé. |
 
 ---
+
+### 3.5 Risques liés aux récents rapports (Check-list, Pénal, Expertise, Dintilhac, Conclusions)
+
+---
+
+#### R22 — DÉPÉRISSEMENT DES PREUVES VIDÉO
+
+| Champ | Valeur |
+|-------|--------|
+| **Catégorie** | Preuves et Procédure |
+| **Description** | Les enregistrements de vidéosurveillance de l'accident risquent d'être écrasés de façon imminente (délais habituels de 30 jours, dépassés ou proches de l'être). |
+| **Probabilité** | Forte |
+| **Impact** | Majeur — Perte de la preuve matérielle directe des circonstances de la chute. |
+| **Sévérité** | **4 🟠** |
+| **Mitigation** | Ordonnance sur requête 145 CPC en urgence absolue avec constat d'huissier ; notification d'une sommation de conserver les preuves. |
+| **Pilote** | Avocat / Huissier |
+| **Échéance** | **IMMÉDIATE** |
+
+---
+
+#### R23 — INSOLVABILITÉ SAS (CAPITAL 200 €)
+
+| Champ | Valeur |
+|-------|--------|
+| **Catégorie** | Financier |
+| **Description** | La SAS ayant un capital de 200 €, le risque d'insolvabilité compromet gravement les chances de recouvrement sur la société seule. |
+| **Probabilité** | Forte |
+| **Impact** | Critique — Impossibilité d'exécuter une condamnation financière. |
+| **Sévérité** | **5 🔴** |
+| **Mitigation** | Rechercher la responsabilité personnelle et la faute détachable des dirigeants, saisine subsidiaire du FGTI. |
+| **Pilote** | Avocat |
+| **Échéance** | Avant jugement au fond |
+
+---
+
+#### R24 — SILENCE ADMINISTRATIF ET IMPUNITÉ DE L'ERP
+
+| Champ | Valeur |
+|-------|--------|
+| **Catégorie** | Stratégique / Administratif |
+| **Description** | La Préfecture et l'Inspection du Travail risquent de ne pas donner suite aux signalements de non-conformité du matériel et des locaux. |
+| **Probabilité** | Forte |
+| **Impact** | Majeur — Maintien du danger pour le public et perte d'un levier de pression extra-judiciaire sur la SAS. |
+| **Sévérité** | **4 🟠** |
+| **Mitigation** | Saisine de la CADA à l'issue du délai de 2 mois ; relance des autorités avec copie au Procureur. |
+| **Pilote** | Avocat |
+| **Échéance** | Septembre 2026 (fin des 2 mois) |
+
+---
+
+#### R25 — COMPLICATIONS EXPERTISE UMJ (12 NOV 2026)
+
+| Champ | Valeur |
+|-------|--------|
+| **Catégorie** | Médical / Indemnisation |
+| **Description** | L'expertise médicale aux UMJ (fixée au 12/11/2026) pourrait sous-évaluer les préjudices (ITT pénale vs DFP civil) si le dossier médical présenté est incomplet ou mal argumenté. |
+| **Probabilité** | Moyenne |
+| **Impact** | Majeur — Une évaluation a minima limitera l'indemnisation finale sur tous les postes (Dintilhac). |
+| **Sévérité** | **3 🟡** |
+| **Mitigation** | Accompagnement de la victime par un médecin-conseil de recours ; préparation stricte du dossier (cf. Mémo Expertise) ; rassemblement exhaustif des pièces médicales (Dr DJERBI). |
+| **Pilote** | Victime / Avocat / Médecin-conseil |
+| **Échéance** | 12 novembre 2026 |
+
+---
+
+#### R26 — ÉCHEC DES QUALIFICATIONS PÉNALES (OBSTRUCTION)
+
+| Champ | Valeur |
+|-------|--------|
+| **Catégorie** | Pénal |
+| **Description** | Le Parquet pourrait classer sans suite ou refuser de poursuivre les infractions d'entrave ou de dissimulation de preuves visées dans la note pénale et la plainte complémentaire, faute d'éléments intentionnels caractérisés. |
+| **Probabilité** | Moyenne |
+| **Impact** | Majeur — Limiterait la responsabilité pénale aux seules blessures involontaires et allègerait la pression sur les dirigeants. |
+| **Sévérité** | **3 🟡** |
+| **Mitigation** | Étayer le dossier avec le constat d'huissier attestant de la réouverture et de la disparition du matériel ; constitution de partie civile avec demande d'actes d'instruction. |
+| **Pilote** | Avocat (Pénal) |
+| **Échéance** | Suivi de l'enquête préliminaire |
+
+---
+
+#### R27 — CONTESTATION DE L'ÉVALUATION DINTILHAC
+
+| Champ | Valeur |
+|-------|--------|
+| **Catégorie** | Indemnisation |
+| **Description** | Les assureurs adverses ou le Fonds de Garantie contesteront les scénarios de calibration (notamment le Scénario C haut) pour réduire la facture indemnitaire (remise en cause du DFP 12% ou de l'incidence professionnelle). |
+| **Probabilité** | Forte |
+| **Impact** | Modéré — Risque de minoration de l'indemnisation finale par rapport aux attentes. |
+| **Sévérité** | **3 🟡** |
+| **Mitigation** | Consolider les preuves de la perte de gains actuels/futurs (bilans de la victime en tant qu'indépendant) ; justifier chaque poste par la nomenclature stricte et la jurisprudence locale. |
+| **Pilote** | Avocat |
+| **Échéance** | Lors des négociations ou conclusions au fond |
+
+---
+
+#### R28 — DÉFAILLANCES DANS LES CONCLUSIONS AU FOND
+
+| Champ | Valeur |
+|-------|--------|
+| **Catégorie** | Procédural |
+| **Description** | Les conclusions au fond pourraient souffrir de faiblesses juridiques (ex: mauvais fondement de la responsabilité, erreur sur la prescription, incompétence territoriale). |
+| **Probabilité** | Faible |
+| **Impact** | Critique — Déboute des demandes indemnitaires civiles. |
+| **Sévérité** | **4 🟠** |
+| **Mitigation** | Revue rigoureuse des fondements (responsabilité du fait des choses / faute détachable) ; vérification minutieuse des articles cités. |
+| **Pilote** | Avocat |
+| **Échéance** | Avant l'audience au fond |
+
 
 ## 4. PLAN D'ATTÉNUATION GLOBAL
 
