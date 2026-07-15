@@ -1,0 +1,50 @@
+#!/bin/bash
+# Hook pre-commit versionné — exécute la suite d'audit avant chaque commit.
+# Ce fichier est la source de vérité ; .git/hooks/pre-commit n'est qu'un trampoline.
+
+set -euo pipefail
+
+ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
+cd "$ROOT"
+
+PASS=0
+FAIL=0
+WARN=0
+
+run_audit() {
+    local name="$1" script="$2" args="${3:-}"
+    echo ""
+    echo "━━━ 🔍 $name ━━━"
+    if python3 $script $args; then
+        echo "✅ $name : OK"
+        ((PASS++))
+    else
+        local ec=$?
+        if [ "$ec" -eq 2 ]; then
+            echo "⚠️  $name : avertissements"
+            ((WARN++))
+        else
+            echo "❌ $name : ÉCHEC"
+            ((FAIL++))
+        fi
+    fi
+}
+
+run_audit "Audit README"          ".dev/app/audit_readme_integrity.py"
+run_audit "Audit liens internes"  ".dev/app/audit_internal_links.py"
+run_audit "Audit citations liées" ".dev/app/audit_citation_links.py"
+
+echo ""
+echo "━━━ BILAN ━━━"
+if [ "$FAIL" -gt 0 ]; then
+    echo "❌ $FAIL audit(s) en échec — commit BLOQUÉ"
+    echo "   Corrigez les erreurs ou forcez avec git commit --no-verify"
+    exit 1
+fi
+if [ "$WARN" -gt 0 ]; then
+    echo "⚠️  $WARN audit(s) avec avertissements"
+    echo "   Appuyez sur [ENTRÉE] pour commit quand même, ou CTRL+C pour annuler."
+    read -r < /dev/tty
+fi
+echo "✅ $PASS/$((PASS+FAIL+WARN)) audit(s) validé(s). Commit autorisé."
+exit 0

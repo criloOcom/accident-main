@@ -47,8 +47,14 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
 │   └── RAPPORT_*.md       ← Rapports d'audits, vérifications, synthèses
 ├── 📊 Rapports/               ← Rapports d'audit, évaluations, plans d'action (lecture humaine)
 └── .dev/                  ← Développement, scripts, tests, déploiement (technique)
+    ├── hooks/
+    │   └── pre-commit          ← Orchestrateur versionné (audit README + liens internes + citations)
     ├── app/               ← Scripts Python (agents, outils, pipelines)
     │   ├── agent.py           ← Définition du multi-agent ADK
+    │   ├── audit_internal_links.py   ← Vérifie les liens `.md`→`.md` internes
+    │   ├── fix_internal_links.py     ← Correction assistée des liens cassés
+    │   ├── audit_readme_integrity.py ← Vérifie l'intégrité des README.md
+    │   ├── audit_citation_links.py   ← Vérifie les citations internes sont des liens
     │   ├── batch_anonymize.py ← Script d'anonymisation
     │   ├── tools.py           ← Outils MCP (Légifrance, Judilibre, Drive)
     │   ├── check_consistency.py
@@ -124,3 +130,4 @@ Le projet dispose d'un notebook **Google NotebookLM** dédié (`accident-main`) 
 4. Token GitHub indisponible ? Vérifier dans Secret Manager avant d'utiliser le fallback `~/.git-credentials`
 5. **INTERDICTION FORMELLE des liens absolus en interne** : tout lien pointant vers un fichier du dépôt DOIT être un chemin relatif. Seuls les liens externes (Légifrance, Judilibre, sites web) peuvent être des URL absolues `https://...`. Voir [🧠 Memory/RULES.md](%F0%9F%A7%A0%20Memory/RULES.md) #15.
 6. **LIENS OBLIGATOIRES SUR TOUTE CITATION INTERNE** : toute citation d'un dossier ou fichier du dépôt (`⚖️ Actes/...`, `📜 Lois/...`, `🧠 Memory/...`, `📊 Rapports/...`) DOIT être un lien relatif cliquable (Markdown `[texte](chemin)`), jamais un simple texte entre backticks sans lien. Dossier cité → lien vers son `README.md` ; fichier cité → lien vers le fichier. Voir [🧠 Memory/RULES.md](%F0%9F%A7%A0%20Memory/RULES.md) #17. Scripts de vérification : [`.dev/app/linkify_citations.py`](.dev/app/linkify_citations.py) (corrige, dry-run par défaut) et [`.dev/app/audit_citation_links.py`](.dev/app/audit_citation_links.py) (signale les citations non liées).
+7. **PRE-COMMIT HOOK** : le hook `.dev/hooks/pre-commit` exécute automatiquement 3 audits avant chaque commit (README, liens internes, citations). Pour forcer le passage outre : `git commit --no-verify`. Voir [🧠 Memory/RULES.md](%F0%9F%A7%A0%20Memory/RULES.md) #23.

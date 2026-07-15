@@ -16,7 +16,7 @@ tags:
 statut: preparation
 destinataire: Commissariat de Police de Foix
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/J+47 📜 Plainte Complementaire.md
+reel_path: ../../../👤 Reel/✉️ Courriers/⚖️ Contentieux/J+47 📜 Plainte Complementaire.md
 jx: J+47
 ---
 
@@ -28,31 +28,31 @@ jx: J+47
 # PLAINTE COMPLÉMENTAIRE
 # BLESSURES INVOLONTAIRES ET OBSTRUCTION À LA JUSTICE
 
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
-[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
-[**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
-[**[Le Téléphone de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)
+[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
+[**[L'Email de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
+[**[Le Téléphone de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)
 
 **Commissariat de Police de Foix**
-[**[Adresse du Commissariat]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+[**[Adresse du Commissariat]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 09000 Foix
 
 Foix, le **[Date du dépôt]**
 
-**Objet : Plainte complémentaire pour blessures involontaires, obstruction à la justice et manquement aux obligations légales — [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)**
+**Objet : Plainte complémentaire pour blessures involontaires, obstruction à la justice et manquement aux obligations légales — [PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)**
 
 Monsieur l'Officier de Police Judiciaire,
 
-Je soussigné(e), [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), né(e) le [**[Date de naissance de la victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md), demeurant [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), informaticien indépendant (SIREN [**[L'Identifiant Professionnel de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)), victime d'un accident corporel grave survenu le 29 mai 2026 au sein de l'établissement "**[L'Exploitant du Commerce (La SAS)]**" exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)), sis [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), 09000 Foix,
+Je soussigné(e), [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), né(e) le [**[Date de naissance de la victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md), demeurant [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), informaticien indépendant (SIREN [**[L'Identifiant Professionnel de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)), victime d'un accident corporel grave survenu le 29 mai 2026 au sein de l'établissement "**[L'Exploitant du Commerce (La SAS)]**" exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)), sis [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), 09000 Foix,
 
 **VIENS PAR LA PRÉSENTE DÉPOSER PLAINTE COMPLÉMENTAIRE** contre les dirigeants de la société susmentionnée pour les faits suivants, constituant des infractions pénales caractérisées :
-## I — RAPPEL DES FAITS INITIAUX ([PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))
+## I — RAPPEL DES FAITS INITIAUX ([PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))
 
 Le **29 mai 2026 vers 15h00**, alors que je me trouvais en qualité de client au sein du salon de coiffure "**[L'Exploitant du Commerce (La SAS)]**", un préposé de l'établissement est monté sur un bac à shampoing en céramique instable pour régler un poste de télévision.
 
 Sous son poids, la vasque a basculé violemment, et ma main droite a heurté une cassure préexistante aux arêtes tranchantes, provoquant une **plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur et du paquet vasculo-nerveux de l'index droit**.
 
-Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le 30 mai 2026 par le [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) au service SOS Main de [**[L'Établissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md), suivie de 56 jours d'Incapacité Totale de Travail (ITT), avec un pronostic de récupération neurologique partielle sur une durée minimale d'un an.
+Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le 30 mai 2026 par le [**[Le Chirurgien SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) au service SOS Main de [**[L'Établissement SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md), suivie de 56 jours d'Incapacité Totale de Travail (ITT), avec un pronostic de récupération neurologique partielle sur une durée minimale d'un an.
 <hr><hr>
 
 ## II — FAITS NOUVEAUX CONSTITUTIFS D'INFRACTIONS PÉNALES
@@ -193,13 +193,13 @@ Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière
 
 3. **Accusés de réception des LRAR retournés NPAI** (29 mai 2026)
 
-4. **[Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]**](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** (SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
+4. **[Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]**](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** (SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
 
 5. **Note d'audit RNE/INPI** du 10 juillet 2026
 
 6. **Photos de l'accident et de la vasque cassée** (datées et légendées)
 
-7. **Certificats médicaux** ([CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md), [arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md))
+7. **Certificats médicaux** ([CR opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md), [arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md))
 
 8. **Copie des mises en demeure envoyées** aux dirigeants
 
@@ -225,7 +225,7 @@ Je sollicite également :
 
 3. **La communication écrite** des suites données à cette plainte, conformément à l'Article 15-3 du Code de procédure pénale.
 
-> *« Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale, y compris lorsque ces plaintes sont déposées dans un service ou une unité de police judiciaire territorialement incompétents. Dans ce cas, la plainte est, s'il y a lieu, transmise au service ou à l'unité territorialement compétents. Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime, qui mentionne les délais de prescription de l'action publique définis aux articles 7 à 9 ainsi que la possibilité d'interrompre le délai de prescription par le dépôt d'une plainte avec [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md), en application de l'article 85 . Si elle en fait la demande, une copie du procès-verbal lui est immédiatement remise. Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procès-verbal par leur numéro d'immatriculation administrative. »* <br>
+> *« Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale, y compris lorsque ces plaintes sont déposées dans un service ou une unité de police judiciaire territorialement incompétents. Dans ce cas, la plainte est, s'il y a lieu, transmise au service ou à l'unité territorialement compétents. Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime, qui mentionne les délais de prescription de l'action publique définis aux articles 7 à 9 ainsi que la possibilité d'interrompre le délai de prescription par le dépôt d'une plainte avec [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md), en application de l'article 85 . Si elle en fait la demande, une copie du procès-verbal lui est immédiatement remise. Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procès-verbal par leur numéro d'immatriculation administrative. »* <br>
 > [Article 15-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) <br>
 > **Code de procédure pénale > Section 1 : Dispositions générales — abrogation différée.[^6]**
 
@@ -244,7 +244,7 @@ Je reste à la disposition des services de police pour toute audition complémen
 
 Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de Police Judiciaire, l'expression de ma considération distinguée.
 
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
 ## ANNEXE 1 : RÉFÉRENCES JURIDIQUES COMPLÈTES
@@ -286,10 +286,10 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de P
 
 | Date | Événement | Preuve |
 |------|-----------|--------|
-| 29/05/2026 | Accident corporel (basculement vasque, plaie main droite) | [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) |
-| 30/05/2026 | Microchirurgie d'urgence SOS Main | [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) |
-| 02/06/2026 | Dépôt de plainte initiale au Commissariat de Toulouse | [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) |
-| 02/06/2026 | Procès-verbal de constat par police | [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) |
+| 29/05/2026 | Accident corporel (basculement vasque, plaie main droite) | [PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) |
+| 30/05/2026 | Microchirurgie d'urgence SOS Main | [CR opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) |
+| 02/06/2026 | Dépôt de plainte initiale au Commissariat de Toulouse | [PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) |
+| 02/06/2026 | Procès-verbal de constat par police | [PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) |
 | 29/06/2026 | Mises en demeure LRAR aux dirigeants + propriétaire | AR retournés NPAI |
 | 05/07/2026 | Demande formelle de conservation des vidéos (courrier n°20) | Copie courrier |
 | 06/07/2026 | Réouverture suspecte du salon | Constat visuel |

@@ -363,6 +363,19 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 - **Script de référence** : `.dev/app/add_drive_links.py` — ajoute automatiquement le lien cliquable pour tout `drive_id` du YAML ne l'ayant pas encore. Dry-run par défaut, `--apply` pour écrire.
 - **Objectif** : ouvrir la pièce source d'un clic depuis la prévisualisation GitHub, sans copier/coller l'ID.
 
+## #23 — PRE-COMMIT HOOK : AUDIT OBLIGATOIRE DES LIENS INTERNES AVANT COMMIT (RÈGLE PERMANENTE)
+
+- **Tout commit** déclenche automatiquement 3 audits via le hook pre-commit versionné dans `.dev/hooks/pre-commit` :
+  1. `.dev/app/audit_readme_integrity.py` — vérifie l'intégrité des README.md
+  2. `.dev/app/audit_internal_links.py` — vérifie qu'aucun lien `.md`→`.md` n'est cassé
+  3. `.dev/app/audit_citation_links.py` — vérifie que toute citation interne est un lien cliquable
+- **Exit codes** : `audit_internal_links.py` → 0 = OK, 1 = liens cassés. `audit_readme_integrity.py` → 0 = OK, 1 = erreurs bloquantes, 2 = avertissements non bloquants.
+- **Correction assistée** : `.dev/app/fix_internal_links.py` cherche les fichiers cibles dans tout le projet par basename. Cas univoque (1 seul candidat) → correction automatique avec `--apply`. Cas ambigus (2+ candidats) → listés sans choix — l'agent analyse manuellement. Introuvables → signalés comme irrécupérables.
+- **Contournement** : `git commit --no-verify` pour forcer le passage malgré les échecs d'audit.
+- **Architecture** : le fichier source de vérité est `.dev/hooks/pre-commit` (versionné). `.git/hooks/pre-commit` est un trampoline de 5 lignes qui délègue au premier.
+- **Fichiers exclus du scan** : `CONVENTIONS.md`, `VACCIN.md`, `DECISIONS.md`, `DESIGN.md`, `STRICT VARIABLES.md` (contiennent des exemples de liens volontaires).
+- **Scripts de référence** : `.dev/app/audit_internal_links.py` (détection), `.dev/app/fix_internal_links.py` (correction), `.dev/hooks/pre-commit` (orchestrateur).
+
 ## #22 — VERROUILLAGE STRICTE DE LA STRATE REEL (ARTIFACT GÉNÉRÉ, JAMAIS À LA MAIN)
 
 - **Principe non négociable** : toute création/édition de document se fait UNIQUEMENT en version **Token** (`⚖️ Actes/🔑 Token/...`). Les versions **Reel** (`⚖️ Actes/👤 Reel/...`) sont des *artifacts* exclusivement produits par `.dev/app/generate_real_versions.py`.
