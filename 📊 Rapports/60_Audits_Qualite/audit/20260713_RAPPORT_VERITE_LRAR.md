@@ -44,8 +44,8 @@ L'agent précédent a supprimé, dans `⚖️ Actes/🔑 Token/✉️ Courriers/
 Conséquence de l'erreur : divergence Token↔Réel (le Token disait « monté sur la vasque » sans motif, la version Réelle donnait le motif réel). Cette divergence a été corrigée : le fait « pour régler le téléviseur » est restauré dans le Token. Le fichier Réel a été régénéré → Token et Réel sont de nouveau alignés.
 
 **Autres occurrences du fait « téléviseur » (confirmées vraies, conservées)** :
-- `⚖️ Actes/👤 Reel/✉️ Courriers/J+38 📧📋 Employe.md` (l.36)
-- `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/J+38 📧📋 Employe.md` (l.36)
+- `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Employe 📧 Mail.md` (l.36)
+- `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/📋 Employe 📧 Mail.md` (l.36)
 - `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/J+39 🎯 Conclusions Refere Provision.md` (l.48) et version Token équivalente
 
 ---

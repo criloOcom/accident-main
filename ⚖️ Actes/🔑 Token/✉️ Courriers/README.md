@@ -96,9 +96,9 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 - [J+38 ✉️ Saisine Doyen Juges Instruction.md](⚖️%20Contentieux/J%2B38%20%E2%9C%89%EF%B8%8F%20Saisine%20Doyen%20Juges%20Instruction.md)
 - [J+38 ✉️ Saisine FGTI.md](⚖️%20Contentieux/J%2B38%20%E2%9C%89%EF%B8%8F%20Saisine%20FGTI.md)
 - [J+38 ✉️ Transmission Recours Tiers CPAM.md](⚖️%20Contentieux/J%2B38%20%E2%9C%89%EF%B8%8F%20Transmission%20Recours%20Tiers%20CPAM.md)
-- [J+38 📧📋 Employe.md](📋%20Attestations/J%2B38%20%F0%9F%93%A7%F0%9F%93%8B%20Employe.md)
-- [J+38 📧📋 Pompier SAMU.md](📋%20Attestations/J%2B38%20%F0%9F%93%A7%F0%9F%93%8B%20Pompier%20SAMU.md)
-- [J+38 📧📋 Temoin Client.md](📋%20Attestations/J%2B38%20%F0%9F%93%A7%F0%9F%93%8B%20Temoin%20Client.md)
+- [📋 Employe 📧 Mail.md](📋%20Attestations/%F0%9F%93%8B%20Employe%20%F0%9F%93%A7%20Mail.md)
+- [📋 Pompier SAMU 📧 Mail.md](📋%20Attestations/%F0%9F%93%8B%20Pompier%20SAMU%20%F0%9F%93%A7%20Mail.md)
+- [📋 Temoin Client 📧 Mail.md](📋%20Attestations/%F0%9F%93%8B%20Temoin%20Client%20%F0%9F%93%A7%20Mail.md)
 - [J+38 📧 Relance Dr DJERBI Consolidation.md](🔄%20Relances/J%2B38%20%F0%9F%93%A7%20Relance%20Dr%20DJERBI%20Consolidation.md)
 
 ### J+40 à J+47 — Foix & suites
