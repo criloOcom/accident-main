@@ -72,21 +72,31 @@ Les procédures suivantes ont été engagées :
 
 **3. Réquisitoire introductif** (J+47 — Parquet de Foix)
 - Transmission au doyen des juges d'instruction le 15 juillet 2026
+
 - Double qualification retenue (prudence : article 222-20 CP, subsidiaire : article 222-19 CP)
+
 - Réquisitions d'actes d'instruction détaillées (audition des dirigeants, communication PV, attestations, vidéosurveillance, constatations sur site)
 
 **4. Expertise médicale judiciaire**
 - Rapport d'expertise déposé le 29 mai 2027 (pièce n°14 de la CPC)
+
 - Consolidation au 1er mars 2027
+
 - DFP 12 % (point Mornet médian 2 100 € → 25 200 €)
+
 - Souffrances endurées 4/7 (14 000 €)
+
 - Incidence professionnelle majeure (BIBAL → 28 000 €)
+
 - Total extra-patrimonial : 49 231 €
+
 - Fourchette globale tous postes : 120 000 – 160 000 €
 
 **5. Procédure de référé provision** (J+63)
 - Assignation à jour fixe devant le président du TJ de Foix (art. 145 CPC)
+
 - Provision de 15 000 € sollicitée à valoir sur l'indemnisation définitive
+
 - Mise en demeure de l'assureur RC (J+50) restée sans réponse
 <hr><hr>
 

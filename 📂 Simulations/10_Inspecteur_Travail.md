@@ -37,7 +37,9 @@ Faisant suite aux faits survenus le 29 mai 2026 au sein de l'établissement de c
 
 Ces mesures comprennent :
 - Des actions de prévention des risques professionnels
+
 - Des actions d'information et de formation
+
 - La mise en place d'une organisation et de moyens adaptés
 
 ### B. Obligation d'évaluation des risques
@@ -97,7 +99,9 @@ L'accès en hauteur impose l'utilisation d'un équipement de travail conforme (e
 Conformément à l'article L.8112-1 du Code du travail, un procès-verbal de manquement est dressé pour :
 
 1. **Absence de DUERP** (amende : 5e classe, soit 1 500 €)
+
 2. **Défaut de mise à disposition d'équipements de travail adaptés** (contravention de 5e classe)
+
 3. **Défaut d'information et de formation du personnel** (contravention de 5e classe)
 
 ### B. Transmission au Parquet
@@ -108,8 +112,11 @@ Le présent procès-verbal est transmis à Monsieur le Procureur de la Républiq
 
 Il est enjoint à l'employeur de :
 - Établir sous 15 jours un DUERP
+
 - Fournir un escabeau conforme sous 48 heures
+
 - Remplacer ou neutraliser la vasque endommagée sous 48 heures
+
 - Dispenser une formation sécurité au personnel sous 1 mois
 
 Une visite de contrôle de suivi sera réalisée à l'issue du délai de 15 jours.

@@ -26,8 +26,11 @@ La victime, **[La Victime]**, a été blessée à la main droite à la suite du 
 
 L'enquête a été diligentée sous l'autorité du Parquet de Foix afin de :
 - Constater les faits et préserver les traces matérielles
+
 - Identifier les responsabilités pénales et civiles
+
 - Recueillir les auditions des témoins et parties
+
 - Établir la matérialité des infractions
 
 <hr><hr>
@@ -43,15 +46,20 @@ L'établissement est un salon de coiffure situé en rez-de-chaussée, classé ER
 Sur place, les enquêteurs ont procédé au relevé de la vasque en céramique impliquée dans l'accident. Il s'agit d'un équipement sanitaire fixé au mur du fond du salon, d'un poids estimé entre 15 et 20 kilogrammes. L'examen visuel a révélé :
 
 - Une **cassure majeure préexistante** sur le rebord supérieur droit, d'une longueur d'environ 12 cm, présentant des arêtes vives coupantes
+
 - Des traces de calcaire et d'usure indiquant une dégradation **ancienne** (plusieurs semaines, voire plusieurs mois)
+
 - L'absence de tout marquage, signalétique ou avertissement destiné à alerter le public ou le personnel de ce danger
+
 - La présence d'un escabeau de fortune à proximité, suggérant que le préposé a utilisé la vasque comme promontoire en l'absence d'équipement adapté
 
 ### C. Constatations photographiques
 
 Un reportage photographique a été réalisé (10 clichés cotés PV1 à PV10). Les clichés font apparaître :
 - La vasque en position instable, partiellement descellée du mur
+
 - La cassure tranchante nette, sans aucun traitement de protection
+
 - L'absence de dispositif de protection ou de balisage autour de l'équipement
 
 <hr><hr>

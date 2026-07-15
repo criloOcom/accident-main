@@ -127,8 +127,11 @@ Avenue Paul Laffont
 ### Comment faire ?
 
 1. Se présenter au **BAJ** avec le formulaire rempli + toutes les pièces
+
 2. Dire : "Bonjour, je souhaite déposer une demande d'aide juridictionnelle totale"
+
 3. Remettre le dossier complet
+
 4. **Demander un récépissé de dépôt** avec :
    - La date de dépôt
 
@@ -136,6 +139,7 @@ Avenue Paul Laffont
 
    - Le cachet du BAJ
 5. **Demander un traitement accéléré** : expliquer que les preuves vidéos risquent d'être détruites avant le 15 août
+
 6. Demander un délai estimatif de traitement
 
 ### Délais
@@ -152,8 +156,11 @@ Avenue Paul Laffont
 ### Si l'AJ est accordée
 
 1. Le BAJ vous notifie la **décision d'admission** à l'AJ totale
+
 2. Le BAJ **désigne un avocat** (vous pouvez demander un avocat précis si vous en connaissez un)
+
 3. L'avocat vous contacte pour prendre le dossier
+
 4. L'avocat peut désormais :
    - Signifier l'assignation en référé-provision (15 000 €)
 

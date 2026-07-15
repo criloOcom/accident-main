@@ -53,7 +53,9 @@ L'engagement de la responsabilité personnelle du dirigeant suppose de prouver u
 Le dépôt d'une plainte pénale pour blessures involontaires (art. 222-19 et suivants du Code pénal) permet :
 
 - L'ouverture d'une enquête de police (auditions, recueil de preuves matérielles).
+
 - La saisine d'une Unité Médico-Judiciaire (UMJ) pour une évaluation médico-légale incontestable.
+
 - Une pression supplémentaire sur les responsables et leurs assurances.
 
 Une constitution de partie civile est recommandée pour avoir accès au dossier pénal et sécuriser les demandes indemnitaires.
@@ -95,15 +97,21 @@ La question centrale sera la valorisation de l'**Incidence Professionnelle** (in
 ### A. Calendrier procédural
 
 - **Assignation en référé :** Déjà rédigée, audience à prévoir rapidement (été-automne 2026) pour l'obtention de la provision et la désignation d'un expert judiciaire.
+
 - **Expertise UMJ :** Rendez-vous fixé au **12 novembre 2026**.
+
 - **Consolidation :** À déterminer médicalement, généralement 6 à 12 mois après un accident de cette nature.
+
 - **Négociation amiable ou jugement au fond :** Courant 2027 ou 2028, selon l'attitude de la partie adverse.
 
 ### B. Coûts
 
 - **Frais d'avocat :** Honoraires de diligence + honoraires de résultat (généralement 10 à 12 % HT des sommes obtenues).
+
 - **Frais de médecin-conseil :** Indispensable pour assister **[La Victime]** lors des expertises (estimé entre 800 € et 1 500 € selon la complexité).
+
 - **Frais d'huissier / Commissaire de justice :** Pour les significations (environ 100-150 € par acte).
+
 - Ces frais (hors honoraires de résultat) pourront en grande partie être récupérés au titre de l'article 700 du CPC ou dans les « frais divers » de la nomenclature Dintilhac.
 
 <hr><hr>
@@ -111,6 +119,9 @@ La question centrale sera la valorisation de l'**Incidence Professionnelle** (in
 ## VI — RECOMMANDATIONS
 
 1. **Poursuivre la voie du référé-provision** pour obtenir les 15 000 € nécessaires et faire désigner un expert judiciaire rapidement.
+
 2. **Maintenir la pression pénale** pour consolider le dossier probatoire — l'expertise UMJ du 12 novembre 2026 constituera une première base solide.
+
 3. **Préparer la démonstration de la faute détachable** de **[Le Président de l'Exploitation]** en cas de défaillance de la SAS.
+
 4. **Documenter scrupuleusement l'incidence professionnelle et le préjudice d'agrément** (codage loisir) par des attestations, bilans comptables et preuves de réalisations personnelles.

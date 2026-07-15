@@ -36,8 +36,11 @@ Conformément aux dispositions de l'article 75 du Code de procédure pénale, un
 L'établissement est un ERP de 5e catégorie (type L). Un périmètre de sécurité a été établi. Les investigations ont permis de relever :
 
 - Une vasque en céramique fixée au mur, descellée partiellement, présentant un éclat ancien sur le rebord droit aux arêtes manifestement tranchantes
+
 - La présence d'un escabeau de fortune (tabouret instable) à proximité immédiate
+
 - L'absence de tout marquage, barrière ou signalétique autour de l'équipement dangereux
+
 - Des traces de sang sur le rebord tranchant de la vasque et au sol (cotées et photographiées)
 
 ### B. Relevés et prélèvements
@@ -74,8 +77,11 @@ Entendus en qualité de témoins. Ils reconnaissent avoir eu connaissance de l'�
 Les éléments recueillis établissent que la SAS **[L'Exploitant du Commerce (La SAS)]** a :
 
 - Maintenu en service un équipement dégradé présentant des arêtes tranchantes dans un ERP
+
 - Omis de signaler le danger ou d'en interdire l'accès
+
 - Négligé de fournir au personnel un équipement de travail adapté (escabeau conforme)
+
 - Omis de tenir un registre de sécurité
 
 ### B. Qualifications pénales

@@ -64,8 +64,11 @@ Le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%
 Plusieurs procédures ont été engagées à ce jour :
 
 1. Dépôt de plainte au commissariat de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) (PV n° [**[N° PV Police]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes))
+
 2. [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise au Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
+
 3. Mises en demeure LRAR à la SAS, à ses dirigeants et au propriétaire des murs ([**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+
 4. Action directe contre l'assureur RC professionnelle (Article L.124-3 du Code des assurances)
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
@@ -73,10 +76,15 @@ Plusieurs procédures ont été engagées à ce jour :
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
 
 5. Dossier de recours contre tiers à la CPAM (n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**])
+
 6. Demande d'enquête à l'Inspection du Travail (DDETS 09 / DREETS Occitanie)
+
 7. Saisine du CODAF
+
 8. **Réquisitoire introductif** (J+47 — Parquet de Foix) : double qualification 222-19/222-20 CP, transmission au doyen des juges d'instruction
+
 9. **Expertise médicale judiciaire** : rapport déposé le 29 mai 2027 (consolidation au 1er mars 2027, DFP 12 %, SE 4/7, IP majeure, total extra-patrimonial 49 231 €, fourchette globale 120 000 – 160 000 €)
+
 10. **Procédure de référé provision** (J+63) : assignation à jour fixe (art. 145 CPC), provision de 15 000 € sollicitée
 <hr><hr>
 
@@ -108,7 +116,9 @@ Je porte par ailleurs à votre connaissance les manquements suivants, constatés
 Je sollicite de vos services :
 
 1. La confirmation du signalement transmis par la Mairie le 1er juin 2026
+
 2. L'état d'avancement des diligences entreprises par vos services et le CODAF
+
 3. La communication des suites réservées à ce signalement
 
 Mes coordonnées : [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md) — Courriel : [**[L'Email de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)

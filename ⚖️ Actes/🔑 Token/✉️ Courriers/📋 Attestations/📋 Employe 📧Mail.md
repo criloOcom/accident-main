@@ -52,10 +52,15 @@ Je me permets de vous solliciter pour remplir une **attestation de témoin** (Ce
 **Comment procéder ?**
 
 1. Imprimez l'attestation Cerfa ci-jointe (disponible en mairie ou sur service-public.fr)
+
 2. Remplissez-la lisiblement : identité, qualité
+
 3. Décrivez les faits dans la partie « Exposé des faits »
+
 4. Signez et datez
+
 5. Joignez une copie **recto-verso** de votre pièce d'identité
+
 6. Renvoyez par email (scan ou photo)
 
 Je vous remercie sincèrement pour votre aide précieuse.

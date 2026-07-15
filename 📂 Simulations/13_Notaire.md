@@ -33,6 +33,7 @@ Cette information publique, consultable via le registre des bénéficiaires effe
 
 La société est dirigée par :
 - **[Le Président de l'Exploitation]** — Président
+
 - **[La Directrice Générale de l'Exploitation]** — Directrice Générale
 
 Les statuts types d'une SAS de cette taille confèrent généralement au président les pouvoirs les plus étendus pour engager la société, ce qui inclut la gestion des obligations de sécurité.
@@ -56,6 +57,7 @@ En l'espèce, les manquements à l'obligation de sécurité (maintien d'une vasq
 
 Les dirigeants personnes physiques peuvent être poursuivis personnellement pour :
 - Blessures involontaires (article 222-20 CP)
+
 - Mise en danger délibérée (article 223-1 CP)
 
 L'absence de délégation de pouvoirs écrite et effective rend la responsabilité du président et de la directrice générale directement engagée.
@@ -87,9 +89,13 @@ DG (personne physique) | Patrimoine personnel | → Action en responsabilité pe
 À l'attention du conseil de **[La Victime]** :
 
 1. **Vérification urgente** de l'existence et des plafonds de l'assurance RC professionnelle de la SAS **[L'Exploitant du Commerce (La SAS)]**
+
 2. **Recherche de la responsabilité personnelle** des dirigeants devant la juridiction répressive (constitution de partie civile) et devant la juridiction civile (faute détachable)
+
 3. **Inscription d'une hypothèque judiciaire** conservatoire sur les biens immobiliers des dirigeants (si existants) dès l'obtention d'un titre exécutoire
+
 4. **Interrogation du RBE** (Registre des Bénéficiaires Effectifs) pour identifier d'éventuelles personnes physiques détenant le contrôle effectif de la SAS
+
 5. **Examen des flux financiers** entre la société et les dirigeants pour détecter une éventuelle confusion des patrimoines
 
 Le présent rapport est établi à titre d'analyse préliminaire sur pièces et ne constitue pas un acte notarié engageant la responsabilité de l'étude.

@@ -42,9 +42,13 @@ Votre témoignage est **très important** car il permettra de :
 **Comment procéder ?**
 
 1. Imprimez l'attestation Cerfa ci-jointe
+
 2. Remplissez-la avec vos nom, prénom, qualité, et description des faits constatés
+
 3. Signez et datez
+
 4. Joignez une copie **recto-verso** de votre pièce d'identité (ou carte professionnelle)
+
 5. Renvoyez par email (scan ou photo)
 
 **Important :** L'attestation doit être manuscrite, datée et signée (Art. 202 CPC). La pièce d'identité est obligatoire.

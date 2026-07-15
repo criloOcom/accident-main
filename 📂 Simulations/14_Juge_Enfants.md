@@ -31,7 +31,9 @@ L'examen approfondi du dossier et des variables strictes applicables à l'espèc
 
 L'absence de données avérées concernant la présence d'enfants ou l'état matrimonial empêche de conclure à :
 - L'existence d'une pension alimentaire versée ou perçue.
+
 - La nécessité d'une révision des modalités de garde d'enfants éventuels.
+
 - L'impact de la perte de revenus ou du déficit fonctionnel sur l'éducation et l'entretien de mineurs.
 
 <hr><hr>

@@ -44,7 +44,11 @@ jx: J+47
 ## Procédure
 
 1. Aller sur https://www.cada.fr/
+
 2. Cliquer sur « Saisir la CADA » → « Saisine en ligne »
+
 3. Copier-coller les blocs ci-dessus dans les champs correspondants
+
 4. Joindre les pièces : courriers n°41, n°42, réponses reçues (si refus exprès), email **[L'Adjoint au Maire de la Commune]**, PV police
+
 5. Valider et conserver le numéro de dossier

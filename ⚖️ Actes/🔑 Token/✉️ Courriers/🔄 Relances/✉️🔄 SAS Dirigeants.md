@@ -88,7 +88,9 @@ Les conséquences fonctionnelles de ce sinistre sur ma vie quotidienne et mon ac
 
 Je vous demande donc de me communiquer sous 15 jours :
 1. Le nom et les coordonnées de l'assureur RC professionnelle de votre société au [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) ;
+
 2. Une copie de l'attestation de cette assurance ;
+
 3. Le numéro de police associé ainsi que le contact du gestionnaire de sinistres.
 
 Cette démarche a pour but de déclarer le sinistre et de permettre un règlement amiable par votre assureur, conformément au droit d'action directe de la victime (article L. 124-3 du Code des assurances). Je reste pleinement ouvert à une médiation ou à un échange amiable.
@@ -113,6 +115,7 @@ Face aux difficultés de distribution postale à votre siège social, je vous de
 À défaut de réponse ou de communication d'une adresse valide dans un délai de quinze (15) jours, je serai contraint de :
 
 1. Faire signifier mes actes officiels par la voie d'un **Commissaire de Justice (ex-huissier)** à vos frais, ce qui figerait votre refus de coopérer devant les tribunaux ;
+
 2. Saisir le juge des référés du tribunal judiciaire de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) par voie de **requête** (non contradictoire, afin de préserver l'effet de surprise) sur le fondement de l'article 145 du Code de procédure civile, pour ordonner sous astreinte la communication des documents ;
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. »* <br>

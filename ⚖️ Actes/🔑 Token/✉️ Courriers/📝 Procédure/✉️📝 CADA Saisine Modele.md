@@ -60,7 +60,9 @@ La présente saisine concerne le refus de communication de documents par :
 Par courriers recommandés des **[dates des courriers 41 et 42]**, j'ai sollicité sur le fondement du CRPA :
 
 1. La confirmation que la Préfecture avait bien été saisie par la Mairie de Foix à la suite de l'accident ;
+
 2. Des informations sur d'éventuels contrôles effectués dans l'établissement ;
+
 3. La communication des documents administratifs achevés me concernant nominativement (rapports d'enquête, courriers de saisine, comptes rendus, procès-verbaux administratifs).
 <hr><hr>
 

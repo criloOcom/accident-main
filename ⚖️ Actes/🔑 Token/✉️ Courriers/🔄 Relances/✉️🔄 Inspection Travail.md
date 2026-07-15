@@ -46,7 +46,9 @@ L'accident a consisté en le **basculement** de la vasque en céramique du bac �
 Dans ce contexte, je souhaiterais savoir :
 
 1. Si une **enquête ou un contrôle** ont été ouverts par vos services à la suite de ce signalement ou de l'accident lui-même ;
+
 2. Si l'établissement faisait l'objet de **signalements antérieurs** (dans la limite de ce qui peut m'être communiqué) ;
+
 3. Et, si cela est possible sans porter atteinte au secret de l'enquête, si un **rapport a été ou sera établi** concernant cet accident et les conditions de sécurité dans cet établissement.
 
 Sur le fondement du **Code des relations entre le public et l'administration** (CRPA, Art. L. 300-1), je sollicite également, le moment venu, la communication de tout **rapport d'enquête me concernant nominativement**, dès lors que cette communication ne porterait pas atteinte aux droits de tiers — conformément à la jurisprudence constante du Conseil d'État reconnaissant à la victime d'un accident le droit d'accéder au rapport d'enquête de l'inspection du travail relatif à son propre accident.

@@ -57,8 +57,11 @@ Le demandeur sollicite une provision à valoir sur la réparation définitive de
 Ce montant apparaît parfaitement proportionné et justifié :
 
 - Il est en adéquation avec les préjudices corporels d'ores et déjà incontestables, médicalement constatés, incluant la section du nerf collatéral radial et du tendon fléchisseur profond, ayant nécessité une intervention chirurgicale en urgence.
+
 - Il indemnise provisoirement une Incapacité Temporaire Totale (ITT) évaluée à 56 jours.
+
 - Il prend en compte les frais médicaux avancés, la Perte de Gains Professionnels Actuels (PGPA) pour ce travailleur indépendant et les souffrances endurées.
+
 - Selon la jurisprudence indicative, cette somme se situe dans la frange conservatrice des indemnisations allouées en référé pour de telles atteintes à la main dominante nécessitant une prise en charge par SOS Main (fourchette de 10 000 € à 20 000 €).
 
 La provision sera allouée dans son intégralité.
@@ -80,8 +83,11 @@ Les chances de succès des requêtes sont jugées **excellentes**.
 L'ensemble des conditions exigées par les dispositions des articles 145 et 835 du Code de procédure civile est réuni avec force. Le dossier est d'une grande clarté probatoire :
 
 - Dommage certain.
+
 - Faute du préposé (voire de la direction) et fait actif de la chose démontrés.
+
 - Lien de causalité direct.
+
 - Urgence avérée pour la préservation des preuves (vidéos).
 
 Il convient donc de faire droit aux demandes de la victime tant sur les mesures d'instruction forcées, sur l'allocation d'une provision de 15 000 €, que sur l'application des frais irrépétibles (Art. 700 CPC).

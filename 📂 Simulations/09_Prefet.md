@@ -45,6 +45,7 @@ L'arrêté portant règlement de sécurité contre les risques d'incendie et de 
 
 Bien que les règles de santé et sécurité au travail relèvent de l'inspection du travail, les manquements constatés dans l'organisation de la sécurité au sein de l'établissement ont directement contribué à l'accident :
 - Absence d'escabeau ou de marchepied conforme (article R.4323-58 et suivants)
+
 - Défaut d'évaluation des risques professionnels (article L.4121-1)
 
 <hr><hr>
@@ -67,9 +68,13 @@ Affichage des consignes | ❌ | Aucune consigne de sécurité visible
 
 Par courrier du 20 juin 2026, une mise en demeure a été adressée à la SAS **[L'Exploitant du Commerce (La SAS)]** lui enjoignant de :
 1. **Remplacer ou neutraliser immédiatement** la vasque endommagée
+
 2. **Se doter d'un registre de sécurité** conforme
+
 3. **Fournir un escabeau ou marchepied conforme** aux normes
+
 4. **Afficher les consignes de sécurité** dans l'établissement
+
 5. **Transmettre un justificatif de mise en conformité** dans un délai de 30 jours
 
 <hr><hr>
@@ -93,11 +98,16 @@ En sus des poursuites pénales encourues, l'exploitant s'expose à une amende ad
 À l'attention de Monsieur le Procureur de la République :
 
 1. **Communication** du présent rapport et des constats de la DDPP aux fins de versement à la procédure pénale
+
 2. **Injonction** de mise en conformité sous astreinte en cas d'inexécution des mesures prescrites
+
 3. **Information** de la mairie de Foix pour inscription au registre des ERP contrôlés
+
 4. **Suivi** par la commission de sécurité compétente (commission communale ou intercommunale)
 
 Le présent rapport est transmis pour information et suite à donner à :
 - Tribunal Judiciaire de Foix — Parquet
+
 - Direction Départementale de la Protection des Populations (DDPP 09)
+
 - Mairie de Foix — Service urbanisme et sécurité

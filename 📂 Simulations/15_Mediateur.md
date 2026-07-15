@@ -24,8 +24,11 @@ L'objectif de cette note est d'évaluer le potentiel d'une résolution amiable, 
 ### A. Rappel des faits non contestés
 
 1. **Date et lieu :** L'accident s'est produit le 29 mai 2026 à 15h00, au sein de l'établissement exploité par **[L'Exploitant du Commerce (La SAS)]**.
+
 2. **Mécanisme :** Chute d'un équipement (vasque de shampoing) entraînant une blessure sévère à la main droite de **[La Victime]** (section tendineuse et nerveuse à l'index droit).
+
 3. **Conséquences médicales :** Chirurgie en urgence le 30 mai 2026 par **[Le Chirurgien SOS Main]**, suivie d'une Incapacité Totale de Travail (ITT) de 56 jours.
+
 4. **Preuve de présence :** Un paiement (15 €) validé puis remboursé atteste de la présence et de la relation contractuelle au moment des faits.
 
 <hr><hr>
@@ -54,16 +57,23 @@ Sur la base du barème Mornet (2024) et de la Nomenclature Dintilhac, un terrain
 ### A. Préjudices patrimoniaux
 
 - **Perte de Gains Professionnels Actuels (PGPA) :** 1 380 € (sur la base d'une ITT de 56 jours rapportée au CA mensuel de 750 €).
+
 - **Frais de Santé Actuels (DSA) :** 790,23 € (facture SOS Main) + 15 € (prestation remboursée).
+
 - **Frais Divers (FD) :** 3 000 € (déplacements, soins, kinésithérapie).
+
 - **Incidence Professionnelle (IP) :** 30 000 € (compromis raisonnable, capitalisation ajustée au CA).
+
 - **Dévalorisation Professionnelle (DEP) :** 3 000 €.
 
 ### B. Préjudices extra-patrimoniaux
 
 - **Déficit Fonctionnel Permanent (DFP) :** 25 000 € (fourchette 20 000 € - 30 000 € selon consolidation finale).
+
 - **Souffrances Endurées (SE) :** 15 000 € (cotées 4/7).
+
 - **Préjudice d'Agrément :** 4 000 € à 5 000 € (entrave à la pratique de la guitare).
+
 - **Préjudice Esthétique Permanent (PEP) :** 3 000 € (cicatrice).
 
 ### C. Évaluation globale de compromis
@@ -75,7 +85,9 @@ Une indemnisation transactionnelle globale autour de **85 000 € à 100 000 €
 ## IV — RECOMMANDATIONS DU MÉDIATEUR
 
 1. **Reprise du dialogue immédiate :** Organiser une réunion plénière sous l'égide du Médiateur, avec la présence obligatoire des dirigeants (**[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**) afin qu'ils mesurent le risque de leur mise en cause personnelle (art. L. 227-8 du Code de commerce et 1240 du Code civil).
+
 2. **Provision amiable :** Afin de restaurer la confiance, la SAS (ou son assureur RC) devrait verser une provision immédiate de **15 000 €**, correspondant au montant demandé en référé et en mise en demeure.
+
 3. **Implication de l'assureur :** Clarifier l'identité de l'assureur Responsabilité Civile Professionnelle de la SAS, à ce jour défaillant, pour garantir la solvabilité de l'accord transactionnel. À défaut, rappeler aux parties la possibilité de saisine du FGTI/CIVI pour la victime.
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »<br>

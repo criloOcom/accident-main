@@ -39,7 +39,9 @@ Le fondement le plus pertinent en l'espèce est la responsabilité de plein droi
 
 Pour retenir cette responsabilité, trois conditions sont requises :
 1. **La chose** : La vasque est indéniablement une chose, bien que fixée au mur.
+
 2. **La garde** : **[L'Exploitant du Commerce (La SAS)]** avait les pouvoirs d'usage, de direction et de contrôle sur les équipements de son établissement au moment de l'accident.
+
 3. **Le rôle causal** : La vasque, qui est intervenue dans la réalisation du dommage, a eu un rôle actif. S'agissant d'une chose inerte, il appartient à **[La Victime]** de prouver son caractère anormal. En l'espèce, le seul fait qu'une vasque bascule et se détache de son support démontre un état anormal ou un positionnement défectueux, suffisant pour caractériser le rôle actif de la chose.
 
 La responsabilité de **[L'Exploitant du Commerce (La SAS)]** est donc pleinement engagée sur ce fondement.
@@ -51,6 +53,7 @@ La responsabilité de **[L'Exploitant du Commerce (La SAS)]** est donc pleinemen
 **[L'Exploitant du Commerce (La SAS)]** pourrait tenter de s'exonérer, totalement ou partiellement, de sa responsabilité.
 
 1. **La force majeure** : Il n'existe aucun élément extérieur, imprévisible et irrésistible. Un défaut de fixation ou d'usure ne constitue pas une force majeure.
+
 2. **La faute de la victime** : Il n'est pas démontré que **[La Victime]** ait eu un comportement anormal ou fautif lors de l'utilisation de la vasque. Sans preuve formelle d'un tel comportement, la SAS ne peut arguer d'aucune exonération.
 
 La responsabilité est donc entière.
@@ -64,9 +67,13 @@ Le montant global réclamé peut être très hétérogène (de l'évaluation opt
 En l'état du dossier, les montants évaluatifs de compromis retenus pour une provision ou une condamnation sont les suivants :
 
 - **Déficit Fonctionnel Permanent (DFP)** : 25 000 € (évalué provisoirement autour de 10 % dans l'attente du rapport final d'expertise médicale).
+
 - **Souffrances Endurées (SE)** : 15 000 €.
+
 - **Préjudice d'Agrément** : 5 000 € (incluant la gêne pour la pratique de la guitare).
+
 - **Frais Divers** : 3 000 € (incluant déplacements et honoraires d'assistance).
+
 - **Total de compromis recommandé** : Environ **85 000 €** globalement.
 
 En l'espèce, si l'affaire venait au fond demain, le Tribunal allouerait ce montant, qui apparaît comme un équilibre juste au vu du Barème Mornet et de la jurisprudence locale pour ce type de séquelles.

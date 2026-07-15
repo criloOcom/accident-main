@@ -199,20 +199,29 @@ jx: J+47
 
 **Sur la procédure :**
 1. "Quel est le numéro d'enregistrement de ma plainte complémentaire ?"
+
 2. "Quel service ou quel officier sera spécifiquement chargé du suivi ?"
+
 3. "Quelles sont les prochaines étapes concrètes de l'enquête ?"
+
 4. "Dans quels délais puis-je espérer avoir un retour sur les premières investigations ?"
 
 **Sur les investigations :**
 5. "Une vérification sur place au [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) peut-elle être effectuée rapidement ?"
+
 6. "Une perquisition pour rechercher les enregistrements de vidéosurveillance est-elle envisageable ?"
+
 7. "Les dirigeants de la SAS vont-ils être convoqués pour audition ?"
+
 8. "Une enquête financière sur la solvabilité de la société peut-elle être ouverte ?"
 
 **Sur la coordination :**
 9. "Ma plainte va-t-elle être transmise au Procureur de la République ?"
+
 10. "Une coordination avec l'URSSAF et l'Inspection du Travail est-elle prévue ?"
+
 11. "Puis-je obtenir une copie du procès-verbal de dépôt de ma plainte complémentaire ?"
+
 12. "À qui dois-je m'adresser pour suivre l'avancement de l'enquête ?"
 <hr><hr>
 
@@ -232,7 +241,9 @@ jx: J+47
 **Dans tous les cas :**
 "Avant de partir, puis-je obtenir :
 1. Un accusé de réception de ma plainte complémentaire ?
+
 2. Le numéro de dossier ou de plainte pour référence future ?
+
 3. Les coordonnées précises de la personne à contacter pour le suivi ?"
 <hr><hr>
 
