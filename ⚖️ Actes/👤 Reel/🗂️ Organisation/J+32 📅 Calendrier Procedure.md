@@ -61,7 +61,7 @@ jx: J+32
 | [23 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-25-premiere-kine.md) | EVT-29 | Consultation de contrôle post-opératoire (J+24) | Médical | Réalisé |
 | 24/06/2026 | EVT-14 | Transmission de pièces CPAM | Correspondance | Fait |
 | 24/06/2026 | EVT-30 | Démarche administrative / Email | Procédure | Envoyé |
-| [**[J+27 Confirmation kiné]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-27-confirmation-kine.md) | EVT-48 | Confirmation de rendez-vous Kinésithérapie | Médical |  |
+| 25 juin 2026 | EVT-48 | Confirmation de rendez-vous Kinésithérapie | Médical |  |
 | [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) | COR-01 | Envoi [Mise en demeure SAS](../%E2%9C%89%EF%B8%8F%20Courriers/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md) | Correspondance | Distribué |
 | [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) | COR-02 | Envoi Mise en demeure Président [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) | Correspondance | Distribué |
 | [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) | COR-03 | Envoi Mise en demeure DG [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) | Correspondance | Distribué |

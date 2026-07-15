@@ -72,7 +72,7 @@ Plusieurs procédures ont été engagées à ce jour :
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
 
-5. Dossier de recours contre tiers à la CPAM (n° [**[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**])
+5. Dossier de recours contre tiers à la CPAM (n° 31727387)
 6. Demande d'enquête à l'Inspection du Travail (DDETS 09 / DREETS Occitanie)
 7. Saisine du CODAF
 8. **Réquisitoire introductif** (J+47 — Parquet de Foix) : double qualification 222-19/222-20 CP, transmission au doyen des juges d'instruction
@@ -132,7 +132,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 
 - **[Ordonnance de référé provision](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B63%20%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)** — Assignation à jour fixe, provision 15 000 € (art. 145 CPC)
 
-- **[Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
+- **[Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° 31727387
 <hr><hr>
 
 ## Sources Législation
