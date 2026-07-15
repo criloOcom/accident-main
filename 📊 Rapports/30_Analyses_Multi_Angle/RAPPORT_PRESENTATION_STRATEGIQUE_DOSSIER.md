@@ -18,7 +18,7 @@ statut: final
 >
 > **Victime** : [**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) — née le [**[Date de Naissance de la Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md)
 >
-> **Mise en cause** : SAS [**[L'Exploitant du Commerce (La SAS)]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — SIRET [**[SIRET]**](../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#siret), assureur RC : [**[L'Assureur RC]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md)
+> **Mise en cause** : SAS [**[L'Exploitant du Commerce (La SAS)]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — SIRET [**[SIRET]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#siret), assureur RC : [**[L'Assureur RC]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md)
 <hr><hr>
 
 ## I — SYNTHÈSE FACTUELLE
@@ -50,7 +50,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 
 | Acte | Date | Statut |
 |------|------|--------|
-| Dépôt de plainte (PV n° [**[N° PV Police]**](../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) | J+4 | Transmis au Parquet |
+| Dépôt de plainte (PV n° [**[N° PV Police]**](../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) | J+4 | Transmis au Parquet |
 | [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) | J+38 | Transmise au TJ de [**[La Ville de l'Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) |
 | [Réquisitoire introductif](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B47%20%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) | J+47 | Parquet de Foix — double qualification 222-19/222-20 CP, transmission au doyen des juges d'instruction |
 | [Rapport d'expertise médico-légale (UMJ)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) | 12 novembre 2026 | Déposé |
@@ -132,7 +132,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 | **Fourchette globale d'indemnisation** | **120 000 – 160 000 €** |
 | Provision déjà sollicitée (référé J+63) | **15 000 €** |
 
-> **Sources** : [Rapport d'expertise](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) — [STRICT VARIABLES §1 canonique](../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#1-valeurs-canoniques-de-lexpertise) — [Étude Dintilhac complète](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
+> **Sources** : [Rapport d'expertise](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) — [STRICT VARIABLES §1 canonique](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#1-valeurs-canoniques-de-lexpertise) — [Étude Dintilhac complète](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 <hr><hr>
 
 ## IV — STRATÉGIE GLOBALE ET PROCHAINES ÉTAPES

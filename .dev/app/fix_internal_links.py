@@ -63,9 +63,21 @@ def run_audit_json():
     return json.loads(result.stdout)
 
 
+_EMOJI_NORMALIZE = str.maketrans({
+    '📬': '✉️', '📭': '✉️', '📧': '✉️',
+})
+
+
+def _normalize_emojis(name: str) -> str:
+    """Normalise les emojis de type boîte aux lettres vers ✉️."""
+    return name.translate(_EMOJI_NORMALIZE)
+
+
 def find_candidates(filename: str) -> list:
-    """Cherche un fichier par son basename dans tout le projet."""
+    """Cherche un fichier par son basename dans tout le projet.
+    Essaie aussi les variantes d'emojis normalisées."""
     candidates = []
+    norm_name = _normalize_emojis(filename)
     for dp, dirs, fn in os.walk(ROOT):
         rel = os.path.relpath(dp, ROOT).split(os.sep)
         if any(s in {'.git', '.venv', '__pycache__', 'node_modules', '.pytest_cache', '.opencode'} for s in rel):
@@ -73,6 +85,9 @@ def find_candidates(filename: str) -> list:
             continue
         for f in fn:
             if f == filename:
+                candidates.append(os.path.relpath(os.path.join(dp, f), ROOT))
+            elif f != filename and _normalize_emojis(f) == norm_name:
+                # Même fichier avec emoji différent (ex: 📬 → ✉️)
                 candidates.append(os.path.relpath(os.path.join(dp, f), ROOT))
     return candidates
 
@@ -90,34 +105,62 @@ def _encode_variants(s: str) -> list[str]:
     
     Les fichiers .md utilisent des encodages inconsistants :
       - certains encodent les espaces (%20) mais pas les emojis
-      - certains encodent aussi le + (%2B)
+      - certains encodent aussi le + (%2B) ainsi que les emojis
       - certains encodent tout (quote complet)
     """
     variants = [s]  # brut (decoded)
+
     # espaces uniquement
     v = s.replace(' ', '%20')
     if v != s:
         variants.append(v)
+
     # espaces + plus
     v = s.replace(' ', '%20').replace('+', '%2B')
     if v not in variants:
         variants.append(v)
-    # encodage complet
-    v = quote(s, safe='/')
+
+    # emojis et non-ASCII encodés, en préservant / et #
+    def _encode_nonascii(t: str) -> str:
+        result = []
+        for ch in t:
+            if ch == ' ':
+                result.append('%20')
+            elif ch in ('/', '#'):
+                result.append(ch)
+            elif ord(ch) < 0x80:
+                result.append(ch)
+            else:
+                for byte in ch.encode('utf-8'):
+                    result.append(f'%{byte:02X}')
+        return ''.join(result)
+
+    v = _encode_nonascii(s)
     if v not in variants:
         variants.append(v)
+
+    # encodage complet (quote), en protégeant # qui ne doit pas être encodé
+    if '#' in s:
+        before, after = s.split('#', 1)
+        v = quote(before, safe='/') + '#' + after
+    else:
+        v = quote(s, safe='/')
+    if v not in variants:
+        variants.append(v)
+
     return variants
 
 
-def fix_link_in_content(content: str, old_decoded: str, new_rel: str) -> str:
+def fix_link_in_content(content: str, old_link: str, new_rel: str) -> str:
     """Remplace un lien dans le contenu markdown par le nouveau chemin relatif.
-    Gère l'URL-encoding inconsistant dans les fichiers .md."""
-    old_variants = _encode_variants(old_decoded)
+    Utilise le `old_link` brut (exactement comme dans le fichier, issu du regex)
+    pour le pattern matching, ce qui évite les problèmes d'encodage."""
+    anchor = old_link.split('#', 1)[1] if '#' in old_link else ''
     new_encoded = quote(new_rel, safe='/')
+    new_link = f'{new_encoded}#{anchor}' if anchor else new_encoded
 
-    for old in old_variants:
-        content = content.replace(f']({old})', f']({new_encoded})')
-        content = content.replace(f'href="{old}"', f'href="{new_encoded}"')
+    content = content.replace(f']({old_link})', f']({new_link})')
+    content = content.replace(f'href="{old_link}"', f'href="{new_link}"')
 
     return content
 
@@ -140,13 +183,15 @@ def main():
     for b in broken:
         by_source.setdefault(b['source'], []).append(b)
 
-    univoque = []     # (source, old_decoded, new_rel, candidates)
+    univoque = []     # (source, old_link, new_rel, candidates)
     ambigus = []      # (source, old_decoded, candidates)
     introuvables = [] # (source, old_decoded)
 
     for src, links in by_source.items():
         for b in links:
             decoded = b['decoded']
+            link_raw = b['link']  # URL brute depuis le fichier (contient l'ancre # si présente)
+            anchor = link_raw.split('#', 1)[1] if '#' in link_raw else ''
             filename = os.path.basename(decoded)
             candidates = find_candidates(filename) if b['candidates'] is None else b['candidates']
 
@@ -168,7 +213,7 @@ def main():
 
             if len(candidates) == 1:
                 new_rel = compute_relative_path(src, candidates[0])
-                univoque.append((src, decoded, new_rel, candidates))
+                univoque.append((src, link_raw, new_rel, candidates))
             else:
                 ambigus.append((src, decoded, candidates))
 
@@ -187,9 +232,9 @@ def main():
 
     if univoque:
         print(f"✅ {len(univoque)} correction(s) univoque(s) :\n")
-        for src, old_decoded, new_rel, candidates in univoque:
+        for src, old_link, new_rel, candidates in univoque:
             print(f"   📄 {src}")
-            print(f"      {old_decoded}")
+            print(f"      {old_link}")
             print(f"      → {new_rel}")
             print()
     else:
@@ -222,19 +267,19 @@ def main():
         print(f"--- Application des {len(univoque)} corrections univoques ---\n")
         applied = 0
         errors = 0
-        for src, old_decoded, new_rel, candidates in univoque:
+        for src, old_link, new_rel, candidates in univoque:
             src_abs = os.path.join(ROOT, src)
             try:
                 with open(src_abs, 'r', encoding='utf-8') as f:
                     content = f.read()
 
-                new_content = fix_link_in_content(content, old_decoded, new_rel)
+                new_content = fix_link_in_content(content, old_link, new_rel)
 
                 if new_content != content:
                     with open(src_abs, 'w', encoding='utf-8') as f:
                         f.write(new_content)
                     print(f"   ✅ {src}")
-                    print(f"      {old_decoded} → {new_rel}")
+                    print(f"      {old_link} → {new_rel}")
                     applied += 1
                 else:
                     print(f"   ⚠️  {src} : aucun changement (pattern non trouvé)")

@@ -51,7 +51,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Fichiers concernés :**
 
-  - [`J+37 🔄 Relance Police Videos.md`](../✉️%20Courriers/J+37%20%F0%9F%94%84%20Relance%20Police%20Videos.md) (corps du courrier + blockquote)
+  - [`J+37 🔄 Relance Police Videos.md`](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/J%2B37%20%F0%9F%94%84%20Relance%20Police%20Videos.md) (corps du courrier + blockquote)
 
 - **Raison :**
 

@@ -56,13 +56,9 @@ def build_basename_index():
 
 
 def is_internal(link: str) -> bool:
-    if link.startswith(('http://', 'https://', 'file://', '#')):
+    if unquote(link).startswith(('http://', 'https://', 'file://', '#')):
         return False
     return True
-
-
-def link_is_protocol_relative(link: str) -> bool:
-    return link.startswith('//')
 
 
 def resolve_path(link: str, source_dir: str) -> str:

@@ -37,7 +37,7 @@ Ayant droit à l'aide juridictionnelle
 
 **SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
 [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
-SIRET : [**[SIRET]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#siret)
+SIRET : [**[SIRET]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#siret)
 Assureur RC : [**[L'Assureur RC]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md)
 
 **Partie défenderesse**
@@ -56,7 +56,7 @@ La demanderesse, par réflexe, a instinctivement tendu la main droite pour prot�
 
 ### 1.2 Les lésions et le parcours médical
 
-La demanderesse a été immédiatement transportée aux urgences du [**[Centre Hospitalier]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#centre-hospitalier) où le diagnostic suivant a été posé :
+La demanderesse a été immédiatement transportée aux urgences du [**[Centre Hospitalier]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#centre-hospitalier) où le diagnostic suivant a été posé :
 
 - Plaie palmaire profonde de la main droite
 - Section partielle du tendon fléchisseur superficiel (FDP)
@@ -67,7 +67,7 @@ Une microchirurgie d'urgence a été réalisée le 30 mai 2026 en SOS Main, avec
 
 ### 1.3 L'expertise judiciaire
 
-Par ordonnance de référé du [**[Date Ordonnance Référé]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles), le juge des référés du Tribunal Judiciaire de Foix a désigné [**[Expert Désigné]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#expert-1) en qualité d'expert. Le rapport d'expertise, déposé le 29 mai 2027, a retenu les conclusions suivantes :
+Par ordonnance de référé du [**[Date Ordonnance Référé]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles), le juge des référés du Tribunal Judiciaire de Foix a désigné [**[Expert Désigné]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#expert-1) en qualité d'expert. Le rapport d'expertise, déposé le 29 mai 2027, a retenu les conclusions suivantes :
 
 | Poste | Évaluation |
 |-------|-----------|
@@ -88,8 +88,8 @@ Par ordonnance de référé du [**[Date Ordonnance Référé]**](../../%F0%9F%A7
 
 Par exploit d'huissier en date du [**[J+63 Assignation 145]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-63-assignation-145.md), la demanderesse a fait assigner la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) devant le Tribunal Judiciaire de Foix sur le fondement de l'article 145 du Code de procédure civile aux fins de voir ordonner une expertise médicale et d'obtenir une provision à valoir sur l'indemnisation de son préjudice corporel.
 
-Par ordonnance du [**[Date Ordonnance Référé]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles), le juge des référés a :
-- Ordonné une expertise médicale confiée à [**[Expert Désigné]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#expert-1)
+Par ordonnance du [**[Date Ordonnance Référé]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles), le juge des référés a :
+- Ordonné une expertise médicale confiée à [**[Expert Désigné]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#expert-1)
 - Alloué une provision de 15 000 € à valoir sur l'indemnisation définitive
 - Réservé les dépens
 
@@ -103,11 +103,11 @@ L'action est recevable et non prescrite, le délai de droit commun de cinq ans (
 
 ### 2.3 Compétence du Tribunal Judiciaire de Foix
 
-Le Tribunal Judiciaire de Foix est territorialement compétent en application de l'article 42 du Code de procédure civile, le fait dommageable s'étant produit dans son ressort ([**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), [**[Code Postal Accident]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#accident)).
+Le Tribunal Judiciaire de Foix est territorialement compétent en application de l'article 42 du Code de procédure civile, le fait dommageable s'étant produit dans son ressort ([**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), [**[Code Postal Accident]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#accident)).
 
 ### 2.4 Absence de sursis à statuer
 
-Il n'y a pas lieu à sursis à statuer dans l'attente de l'issue de l'information judiciaire pénale ouverte au Parquet de Foix (réquisitoire introductif du [**[J+47 Date Requisitoire]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)). L'action civile et l'action pénale sont indépendantes : la demanderesse est fondée à obtenir réparation de son préjudice corporel sans attendre l'issue de la procédure pénale, conformément à l'article 4 du Code de procédure pénale (principe *le criminel ne tient pas le civil en l'état* s'agissant de l'action *ad damnun*).
+Il n'y a pas lieu à sursis à statuer dans l'attente de l'issue de l'information judiciaire pénale ouverte au Parquet de Foix (réquisitoire introductif du [**[J+47 Date Requisitoire]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)). L'action civile et l'action pénale sont indépendantes : la demanderesse est fondée à obtenir réparation de son préjudice corporel sans attendre l'issue de la procédure pénale, conformément à l'article 4 du Code de procédure pénale (principe *le criminel ne tient pas le civil en l'état* s'agissant de l'action *ad damnun*).
 <hr><hr>
 
 ## III — RESPONSABILITÉ
@@ -343,7 +343,7 @@ Vu les pièces versées aux débats,
 
 **DIRE ET JUGER** que la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) est entièrement responsable du préjudice corporel subi par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) sur le fondement de l'article 1242 alinéa 1er du Code civil, subsidiairement sur celui de l'article 1240 du même code ;
 
-**CONDAMNER** en conséquence la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md] à payer à [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) les sommes suivantes :
+**CONDAMNER** en conséquence la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) les sommes suivantes :
 
 - Au titre du DFP (12 %) : **25 200 €**
 - Au titre des souffrances endurées (4/7) : **14 000 €**
@@ -373,7 +373,7 @@ Vu les pièces versées aux débats,
 
 <hr><hr>
 
-**FAIT À [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), LE [**[Date Dépôt Conclusions]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)**
+**FAIT À [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), LE [**[Date Dépôt Conclusions]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)**
 
 **[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 *(partie demanderesse, non assistée d'avocat — article 827 CPC)*
@@ -385,14 +385,14 @@ Vu les pièces versées aux débats,
 |----|-------------------------|
 | 1 | Procès-verbal de police n° 2026/015967 (dépôt de plainte du 1er juin 2026) |
 | 2 | Rapport d'expertise médicale du 29 mai 2027 |
-| 3 | Ordonnance de référé du [**[Date Ordonnance Référé]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) (provision 15 000 €) |
-| 4 | Constitution de partie civile du [**[J+38 Date CPC]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) |
+| 3 | Ordonnance de référé du [**[Date Ordonnance Référé]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) (provision 15 000 €) |
+| 4 | Constitution de partie civile du [**[J+38 Date CPC]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) |
 | 5 | Certificats médicaux et comptes rendus opératoires (SOS Main) |
 | 6 | Prescriptions, arrêts de travail et pièces de rééducation |
 | 7 | Mises en demeure LRAR des [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) |
 | 8 | Mise en demeure assureur RC du J+50 |
-| 9 | Attestation de dépôt CPAM n° [**[N° Dossier CPAM]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#cpam) |
+| 9 | Attestation de dépôt CPAM n° [**[N° Dossier CPAM]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#cpam) |
 | 10 | Réquisitoire introductif du Parquet de Foix (J+47) |
 
 <hr><hr>
-<sup>*Document à jour au [**[Date Dépôt Conclusions]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) — Simulation à vocation pédagogique.*</sup>
+<sup>*Document à jour au [**[Date Dépôt Conclusions]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) — Simulation à vocation pédagogique.*</sup>

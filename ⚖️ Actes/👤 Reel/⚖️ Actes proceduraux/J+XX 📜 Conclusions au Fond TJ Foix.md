@@ -49,8 +49,8 @@ Assureur RC : [**[L'Assureur RC]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%
 
 Par exploit d'huissier en date du 31 juillet 2026, la demanderesse a fait assigner la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) devant le Tribunal Judiciaire de Foix sur le fondement de l'article 145 du Code de procédure civile aux fins de voir ordonner une expertise médicale et d'obtenir une provision à valoir sur l'indemnisation de son préjudice corporel.
 
-Par ordonnance du [**[Date Ordonnance Référé]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles), le juge des référés a :
-- Ordonné une expertise médicale confiée à [**[Expert Désigné]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#expert-1)
+Par ordonnance du [**[Date Ordonnance Référé]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles), le juge des référés a :
+- Ordonné une expertise médicale confiée à [**[Expert Désigné]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#expert-1)
 - Alloué une provision de 15 000 € à valoir sur l'indemnisation définitive
 - Réservé les dépens
 
@@ -83,7 +83,7 @@ La demanderesse, par réflexe, a instinctivement tendu la main droite pour prot�
 
 ### 2.2 Les lésions et le parcours médical
 
-La demanderesse a été immédiatement transportée aux urgences du [**[Centre Hospitalier]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#centre-hospitalier) où le diagnostic suivant a été posé :
+La demanderesse a été immédiatement transportée aux urgences du [**[Centre Hospitalier]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#centre-hospitalier) où le diagnostic suivant a été posé :
 
 - Plaie palmaire profonde de la main droite
 - Section partielle du tendon fléchisseur superficiel (FDP)
@@ -94,7 +94,7 @@ Une microchirurgie d'urgence a été réalisée le 30 mai 2026 en SOS Main, avec
 
 ### 2.3 L'expertise judiciaire
 
-Par ordonnance de référé du [**[Date Ordonnance Référé]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles), le juge des référés du Tribunal Judiciaire de Foix a désigné [**[Expert Désigné]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#expert-1) en qualité d'expert. Le rapport d'expertise, déposé le 29 mai 2027, a retenu les conclusions suivantes :
+Par ordonnance de référé du [**[Date Ordonnance Référé]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles), le juge des référés du Tribunal Judiciaire de Foix a désigné [**[Expert Désigné]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#expert-1) en qualité d'expert. Le rapport d'expertise, déposé le 29 mai 2027, a retenu les conclusions suivantes :
 
 | Poste | Évaluation |
 |-------|-----------|
@@ -339,7 +339,7 @@ Vu les pièces versées aux débats,
 
 **DIRE ET JUGER** que la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) est entièrement responsable du préjudice corporel subi par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) sur le fondement de l'article 1242 alinéa 1er du Code civil, subsidiairement sur celui de l'article 1240 du même code ;
 
-**CONDAMNER** en conséquence la SAS [SAS LES MAUVAIS GARCONS](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md] à payer à [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) les sommes suivantes :
+**CONDAMNER** en conséquence la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) les sommes suivantes :
 
 - Au titre du DFP (12 %) : **25 200 €**
 - Au titre des souffrances endurées (4/7) : **14 000 €**
@@ -369,7 +369,7 @@ Vu les pièces versées aux débats,
 
 <hr><hr>
 
-**FAIT À [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), LE [**[Date Dépôt Conclusions]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)**
+**FAIT À [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), LE [**[Date Dépôt Conclusions]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)**
 
 **[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 *(partie demanderesse, non assistée d'avocat — article 827 CPC)*
@@ -381,14 +381,14 @@ Vu les pièces versées aux débats,
 |----|-------------------------|
 | 1 | Procès-verbal de police n° 2026/015967 (dépôt de plainte du 1er juin 2026) |
 | 2 | Rapport d'expertise médicale du 29 mai 2027 |
-| 3 | Ordonnance de référé du [**[Date Ordonnance Référé]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) (provision 15 000 €) |
+| 3 | Ordonnance de référé du [**[Date Ordonnance Référé]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) (provision 15 000 €) |
 | 4 | Constitution de partie civile du 6 juillet 2026 |
 | 5 | Certificats médicaux et comptes rendus opératoires (SOS Main) |
 | 6 | Prescriptions, arrêts de travail et pièces de rééducation |
 | 7 | Mises en demeure LRAR des [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) |
 | 8 | Mise en demeure assureur RC du J+50 |
-| 9 | Attestation de dépôt CPAM n° [31727387](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#cpam) |
+| 9 | Attestation de dépôt CPAM n° [31727387](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#cpam) |
 | 10 | Réquisitoire introductif du Parquet de Foix (J+47) |
 
 <hr><hr>
-<sup>*Document à jour au [**[Date Dépôt Conclusions]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) — Simulation à vocation pédagogique.*</sup>
+<sup>*Document à jour au [**[Date Dépôt Conclusions]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) — Simulation à vocation pédagogique.*</sup>

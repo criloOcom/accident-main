@@ -25,7 +25,7 @@ Cette frise superpose les 4 volets stratégiques du dossier sur une seule ligne 
 | **Octobre 2026**<br/>*(J+120 à J+130)* | | [Projet Ordonnance Référé (J+130)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B63%20%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md) | | |
 | **Novembre 2026**<br/>*(J+160 à J+167)* | | | | [Préparation Expertise UMJ (12/11/2026)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/J%2B167%20%F0%9F%93%81%20Preparation%20Expertise%20UMJ.md)<br/><br/>[Doléances UMJ (J+160)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/J%2B167%20%F0%9F%93%81%20Preparation%20Expertise%20UMJ.md) |
 | **Décembre 2026**<br/>*(J+190 à J+200)* | | [Préparation Conclusions au Fond (J+190)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2BXX%20%F0%9F%93%9C%20Conclusions%20au%20Fond%20TJ%20Foix.md) | | [Réception Rapport UMJ (J+200)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/J%2B167%20%F0%9F%93%81%20Preparation%20Expertise%20UMJ.md) |
-| **Mars 2027**<br/>*(J+276)* | | | | [Consolidation médicale (01/03/2027)](../⚖️%20Actes/🔑%20Token/📂%20Preuves%20officielles/20270529%20⚖️%20Rapport%20Expertise%20M%C3%A9dicale.md) |
+| **Mars 2027**<br/>*(J+276)* | | | | [Consolidation médicale (01/03/2027)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) |
 
 <hr><hr>
 
