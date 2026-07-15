@@ -247,6 +247,10 @@ def process_file(path: str, apply: bool = False) -> int:
         final.append(output[i])
         i += 1
 
+    # ---- Phase 4 : Nettoyer les <hr><hr> finaux ----
+    while final and final[-1].strip() in ("", "<hr>", "<hr><hr>"):
+        final.pop()
+
     result = "\n".join(final)
 
     # Nettoyer : supprimer les lignes vides entre YAML et breadcrumb
