@@ -133,15 +133,17 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
-## PIÈCES JOINTES
+<hr><hr>
 
-- Copie du [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procédure pénale)
+## PIECES JOINTES
 
-- Accusés de réception des courriers recommandés retournés (29 mai 2026 — mentions NPAI)
+- **[PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Procédure pénale
 
-- [Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) ([938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
+- **Accusés de réception des courriers recommandés retournés** — mentions NPAI (29 mai 2026)
 
-- Dossier médical complet (11 pièces)
+- **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN 938 033 222
+
+- **Dossier médical complet (11 pièces)** — Dossier médical complet
 <hr><hr>
 
 ## Sources Législation
