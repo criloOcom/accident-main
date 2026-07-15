@@ -43,12 +43,12 @@ Foix, le **[Date du dépôt]**
 
 Monsieur l'Officier de Police Judiciaire,
 
-Je soussigné(e), [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), né(e) le [**[Date de naissance de la victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md), demeurant [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), informaticien indépendant (SIREN [**[L'Identifiant Professionnel de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)), victime d'un accident corporel grave survenu le 29 mai 2026 au sein de l'établissement "Les Mauvais Garçons" exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)), sis [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), 09000 Foix,
+Je soussigné(e), [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), né(e) le [**[Date de naissance de la victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md), demeurant [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), informaticien indépendant (SIREN [**[L'Identifiant Professionnel de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)), victime d'un accident corporel grave survenu le 29 mai 2026 au sein de l'établissement "**[L'Exploitant du Commerce (La SAS)]**" exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)), sis [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), 09000 Foix,
 
 **VIENS PAR LA PRÉSENTE DÉPOSER PLAINTE COMPLÉMENTAIRE** contre les dirigeants de la société susmentionnée pour les faits suivants, constituant des infractions pénales caractérisées :
 ## I — RAPPEL DES FAITS INITIAUX ([PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))
 
-Le **29 mai 2026 vers 15h00**, alors que je me trouvais en qualité de client au sein du salon de coiffure "Les Mauvais Garçons", un préposé de l'établissement est monté sur un bac à shampoing en céramique instable pour régler un poste de télévision.
+Le **29 mai 2026 vers 15h00**, alors que je me trouvais en qualité de client au sein du salon de coiffure "**[L'Exploitant du Commerce (La SAS)]**", un préposé de l'établissement est monté sur un bac à shampoing en céramique instable pour régler un poste de télévision.
 
 Sous son poids, la vasque a basculé violemment, et ma main droite a heurté une cassure préexistante aux arêtes tranchantes, provoquant une **plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur et du paquet vasculo-nerveux de l'index droit**.
 
@@ -304,7 +304,7 @@ Les éléments ci-après sont proposés à titre de suggestions pour l'enquête,
 
 ### 1. Vérification détaillée de l'établissement
 
-- [ ] 1.1. Constatation sur place de l'état des locaux du salon « Les Mauvais Garçons » (configuration des postes de coiffure, emplacement du poste de télévision, circulation du public).
+- [ ] 1.1. Constatation sur place de l'état des locaux du salon « **[L'Exploitant du Commerce (La SAS)]** » (configuration des postes de coiffure, emplacement du poste de télévision, circulation du public).
 
 - [ ] 1.2. Vérification de l'état actuel du bac à shampoing en céramique impliqué dans l'accident (existence d'une cassure, de bords tranchants, stabilité de la vasque) ou, en cas de remplacement, constat de la modification intervenue.
 
