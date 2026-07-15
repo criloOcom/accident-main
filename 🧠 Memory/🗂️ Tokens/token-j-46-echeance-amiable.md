@@ -47,7 +47,7 @@ Date d'échéance de la phase amiable — expiration du **délai de réponse de 
 
 ## Documents liés
 
-- [Assignation Référé Provision J+32](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B32%20%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md)
+- [Assignation Référé Provision J+32](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md)
 
 ## Source
 

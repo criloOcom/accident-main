@@ -57,7 +57,7 @@ Je vous détaille ci-dessous chaque courrier pour vous permettre d'en prendre co
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️ Relance Consolidation.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/J%2B37%20%E2%9C%89%EF%B8%8F%20Relance%20Consolidation.md) (07) |
+| **Fichier** | [`✉️ Relance Consolidation.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%20Relance%20Consolidation.md) (07) |
 | **Destinataire** | [Le Chirurgien SOS Main] — chirurgien SOS Main |
 | **Mode** | LRAR |
 | **Ton** | Respectueux, médical, précis |
@@ -88,7 +88,7 @@ Le courrier rappelle le parcours médical complet : chirurgie d'urgence le J+1 (
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️ Suivi Adjoint Maire Tavella.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/J%2B37%20%E2%9C%89%EF%B8%8F%20Suivi%20Adjoint%20Maire%20Tavella.md) (08) |
+| **Fichier** | [`✉️ Suivi Adjoint Maire Tavella.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%20Suivi%20Adjoint%20Maire%20Tavella.md) (08) |
 | **Destinataire** | [L'Adjoint au Maire de la Commune] |
 | **Mode** | LRAR + email complémentaire |
 | **Ton** | Chaleureux, reconnaissant, courtois |
@@ -117,7 +117,7 @@ Ce courrier fait suite au message de l'adjoint au maire du 1er juin 2026, par le
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️🚨 Inspection Travail.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md) (09) |
+| **Fichier** | [`✉️🚨 Inspection Travail.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md) (09) |
 | **Destinataire** | DDETS de l'Ariège / DREETS Occitanie |
 | **Mode** | LRAR |
 | **Ton** | Formel, technique, juridique |
@@ -154,7 +154,7 @@ Courrier le plus technique du batch. Après un rappel des faits et du contexte (
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️🚨 URSSAF.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20URSSAF.md) (12) |
+| **Fichier** | [`✉️🚨 URSSAF.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20URSSAF.md) (12) |
 | **Destinataire** | URSSAF Midi-Pyrénées |
 | **Mode** | LRAR |
 | **Ton** | Accusatoire, factuel, technique |
@@ -184,7 +184,7 @@ Ce signalement dénonce un travail dissimulé présumé. Il s'appuie sur des él
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️🚨 CODAF.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20CODAF.md) (14) |
+| **Fichier** | [`✉️🚨 CODAF.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20CODAF.md) (14) |
 | **Destinataire** | CODAF de l'Ariège (Préfecture) |
 | **Mode** | LRAR |
 | **Ton** | Technique, très structuré, exhaustif |
@@ -213,7 +213,7 @@ Le CODAF est la structure interdépartementale de coordination anti-fraude réun
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️🚨 Prefecture.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Prefecture.md) (13) |
+| **Fichier** | [`✉️🚨 Prefecture.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Prefecture.md) (13) |
 | **Destinataire** | Préfecture de l'Ariège |
 | **Mode** | LRAR |
 | **Ton** | Solennel, exhaustif, complet |
@@ -239,7 +239,7 @@ Ce courrier agit comme une « pièce maîtresse » qui confirme officiellement l
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️🚨 Conseil Departemental.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Conseil%20Departemental.md) (16) |
+| **Fichier** | [`✉️🚨 Conseil Departemental.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Conseil%20Departemental.md) (16) |
 | **Destinataire** | Conseil Départemental de l'Ariège |
 | **Mode** | LRAR |
 | **Ton** | Formel, réglementaire |
@@ -264,7 +264,7 @@ Ce signalement cible spécifiquement les non-conformités ERP. Il qualifie le sa
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️🚨 SDIS.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SDIS.md) (18) |
+| **Fichier** | [`✉️🚨 SDIS.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SDIS.md) (18) |
 | **Destinataire** | SDIS de l'Ariège |
 | **Mode** | Email (simple) |
 | **Ton** | Court, factuel |
@@ -289,7 +289,7 @@ Le plus court du batch (1 page). Il signale 2 dangers : l'équipement défectueu
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️🚨 INPI.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20INPI.md) (11) |
+| **Fichier** | [`✉️🚨 INPI.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20INPI.md) (11) |
 | **Destinataire** | INPI — Registre National des Entreprises |
 | **Mode** | LRAR |
 | **Ton** | Neutre, informatif |
@@ -312,7 +312,7 @@ Ce courrier demande un « flag » sur le RNE pour informer les tiers et l'admini
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 ✉️🚨 SIE.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SIE.md) (15) |
+| **Fichier** | [`✉️🚨 SIE.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SIE.md) (15) |
 | **Destinataire** | Service des Impôts des Entreprises de [La Ville de l'Accident] |
 | **Mode** | LRAR |
 | **Ton** | Court, informatif, neutre |
@@ -336,7 +336,7 @@ Courrier très court (1 page) qui informe le SIE de l'existence du litige (monta
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 🔄 Relance Police Videos.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/J%2B37%20%F0%9F%94%84%20Relance%20Police%20Videos.md) (20) |
+| **Fichier** | [`🔄 Relance Police Videos.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20Relance%20Police%20Videos.md) (20) |
 | **Destinataire** | Police Nationale — Commissariat de [La Ville de l'Accident] |
 | **Mode** | Email (simple) |
 | **Ton** | Formel, procédural |
@@ -361,7 +361,7 @@ Relance suite au dépôt de plainte du 01/06 et à la constitution de partie civ
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`J+37 🔄 Relance CPAM.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/J%2B37%20%F0%9F%94%84%20Relance%20CPAM.md) (21) |
+| **Fichier** | [`🔄 Relance CPAM.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20Relance%20CPAM.md) (21) |
 | **Destinataire** | CPAM Haute-Garonne |
 | **Mode** | Email (simple) |
 | **Ton** | Formel, procédural |

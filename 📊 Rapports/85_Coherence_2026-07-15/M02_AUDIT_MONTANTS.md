@@ -15,48 +15,48 @@ type: rapport
 
 <hr><hr>
 
-## J+32 ⚖️ Assignation Refere Provision.md
+## ⚖️ Assignation Refere Provision.md
 
-- [ ] **J+32 ⚖️ Assignation Refere Provision.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/J+32 ⚖️ Assignation Refere Provision.md:289 — SE utilise valeur historique/obsolète: 15000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+32 ⚖️ Assignation Refere Provision.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/J+32 ⚖️ Assignation Refere Provision.md:292 — Total Estimatif utilise valeur historique/obsolète: 30000.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
+- [ ] **⚖️ Assignation Refere Provision.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md:289 — SE utilise valeur historique/obsolète: 15000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **⚖️ Assignation Refere Provision.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md:292 — Total Estimatif utilise valeur historique/obsolète: 30000.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## J+32 🚔 Plainte Defaut Assurance RC.md
+## 🚔 Plainte Defaut Assurance RC.md
 
-- [ ] **J+32 🚔 Plainte Defaut Assurance RC.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/J+32 🚔 Plainte Defaut Assurance RC.md:148 — Total Estimatif différent de la valeur canonique: 90000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **🚔 Plainte Defaut Assurance RC.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/🚔 Plainte Defaut Assurance RC.md:148 — Total Estimatif différent de la valeur canonique: 90000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## J+38 🛡️ Constitution Partie Civile.md
+## 🛡️ Constitution Partie Civile.md
 
-- [ ] **J+38 🛡️ Constitution Partie Civile.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/J+38 🛡️ Constitution Partie Civile.md:175 — SE utilise valeur historique/obsolète: 3000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **🛡️ Constitution Partie Civile.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md:175 — SE utilise valeur historique/obsolète: 3000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## J+39 📑 Bordereau Unifie.md
+## 📑 Bordereau Unifie.md
 
-- [ ] **J+39 📑 Bordereau Unifie.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/J+39 📑 Bordereau Unifie.md:228 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📑 Bordereau Unifie.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/J+39 📑 Bordereau Unifie.md:240 — DFP utilise valeur historique/obsolète: 126000.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
+- [ ] **📑 Bordereau Unifie.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📑 Bordereau Unifie.md:228 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
+- [ ] **📑 Bordereau Unifie.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📑 Bordereau Unifie.md:240 — DFP utilise valeur historique/obsolète: 126000.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## J+63 ⚖️ Projet Ordonnance Refere.md
+## ⚖️ Projet Ordonnance Refere.md
 
-- [ ] **J+63 ⚖️ Projet Ordonnance Refere.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/J+63 ⚖️ Projet Ordonnance Refere.md:99 — SE utilise valeur historique/obsolète: 5000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+63 ⚖️ Projet Ordonnance Refere.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/J+63 ⚖️ Projet Ordonnance Refere.md:100 — IP utilise valeur historique/obsolète: 3000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
-- [ ] **J+63 ⚖️ Projet Ordonnance Refere.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/J+63 ⚖️ Projet Ordonnance Refere.md:101 — PEP différent de la valeur canonique: 1000.0 € (attendu: 3500 €) — aligner sur la valeur canonique.
-- [ ] **J+63 ⚖️ Projet Ordonnance Refere.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/J+63 ⚖️ Projet Ordonnance Refere.md:101 — DFT différent de la valeur canonique: 1000.0 € (attendu: 2031 €) — aligner sur la valeur canonique.
+- [ ] **⚖️ Projet Ordonnance Refere.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/⚖️ Projet Ordonnance Refere.md:99 — SE utilise valeur historique/obsolète: 5000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **⚖️ Projet Ordonnance Refere.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/⚖️ Projet Ordonnance Refere.md:100 — IP utilise valeur historique/obsolète: 3000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
+- [ ] **⚖️ Projet Ordonnance Refere.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/⚖️ Projet Ordonnance Refere.md:101 — PEP différent de la valeur canonique: 1000.0 € (attendu: 3500 €) — aligner sur la valeur canonique.
+- [ ] **⚖️ Projet Ordonnance Refere.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/⚖️ Projet Ordonnance Refere.md:101 — DFT différent de la valeur canonique: 1000.0 € (attendu: 2031 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## J+XX 📜 Conclusions au Fond TJ Foix.md
+## 📜 Conclusions au Fond TJ Foix.md
 
-- [ ] **J+XX 📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/J+XX 📜 Conclusions au Fond TJ Foix.md:256 — Total Estimatif différent de la valeur canonique: 2031.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
-- [ ] **J+XX 📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/J+XX 📜 Conclusions au Fond TJ Foix.md:317 — SE différent de la valeur canonique: 70000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+XX 📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/J+XX 📜 Conclusions au Fond TJ Foix.md:319 — Total Estimatif différent de la valeur canonique: 83200.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
-- [ ] **J+XX 📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/J+XX 📜 Conclusions au Fond TJ Foix.md:352 — SE utilise valeur historique/obsolète: 3000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+XX 📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/J+XX 📜 Conclusions au Fond TJ Foix.md:354 — SE différent de la valeur canonique: 70000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+XX 📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/J+XX 📜 Conclusions au Fond TJ Foix.md:260 — Total Estimatif différent de la valeur canonique: 2031.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
-- [ ] **J+XX 📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/J+XX 📜 Conclusions au Fond TJ Foix.md:321 — SE différent de la valeur canonique: 70000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+XX 📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/J+XX 📜 Conclusions au Fond TJ Foix.md:323 — Total Estimatif différent de la valeur canonique: 83200.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
-- [ ] **J+XX 📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/J+XX 📜 Conclusions au Fond TJ Foix.md:356 — SE utilise valeur historique/obsolète: 3000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+XX 📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/J+XX 📜 Conclusions au Fond TJ Foix.md:358 — SE différent de la valeur canonique: 70000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Conclusions au Fond TJ Foix.md:256 — Total Estimatif différent de la valeur canonique: 2031.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Conclusions au Fond TJ Foix.md:317 — SE différent de la valeur canonique: 70000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Conclusions au Fond TJ Foix.md:319 — Total Estimatif différent de la valeur canonique: 83200.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Conclusions au Fond TJ Foix.md:352 — SE utilise valeur historique/obsolète: 3000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Conclusions au Fond TJ Foix.md:354 — SE différent de la valeur canonique: 70000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Conclusions au Fond TJ Foix.md:260 — Total Estimatif différent de la valeur canonique: 2031.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Conclusions au Fond TJ Foix.md:321 — SE différent de la valeur canonique: 70000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Conclusions au Fond TJ Foix.md:323 — Total Estimatif différent de la valeur canonique: 83200.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Conclusions au Fond TJ Foix.md:356 — SE utilise valeur historique/obsolète: 3000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Conclusions au Fond TJ Foix.md:358 — SE différent de la valeur canonique: 70000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
 ## MEMO_AUDIENCE_31072026.md
@@ -65,75 +65,75 @@ type: rapport
 - [ ] **MEMO_AUDIENCE_31072026.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/MEMO_AUDIENCE_31072026.md:43 — Total Estimatif utilise valeur historique/obsolète: 161500.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## J+38 ✉️ Saisine FGTI.md
+## ✉️ Saisine FGTI.md
 
-- [ ] **J+38 ✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/J+38 ✉️ Saisine FGTI.md:90 — PGPA utilise valeur historique/obsolète: 1900.0 € (canonique: 1380 €) — aligner sur la valeur canonique.
-- [ ] **J+38 ✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/J+38 ✉️ Saisine FGTI.md:92 — DFT utilise valeur historique/obsolète: 1400.0 € (canonique: 2031 €) — aligner sur la valeur canonique.
-- [ ] **J+38 ✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/J+38 ✉️ Saisine FGTI.md:94 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
-- [ ] **J+38 ✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/J+38 ✉️ Saisine FGTI.md:96 — DFP utilise valeur historique/obsolète: 31200.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
-- [ ] **J+38 ✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/J+38 ✉️ Saisine FGTI.md:98 — SE utilise valeur historique/obsolète: 24000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+38 ✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/J+38 ✉️ Saisine FGTI.md:100 — Agrément utilise valeur historique/obsolète: 8000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
-- [ ] **J+38 ✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/J+38 ✉️ Saisine FGTI.md:102 — PEP utilise valeur historique/obsolète: 3000.0 € (canonique: 3500 €) — aligner sur la valeur canonique.
+- [ ] **✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md:90 — PGPA utilise valeur historique/obsolète: 1900.0 € (canonique: 1380 €) — aligner sur la valeur canonique.
+- [ ] **✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md:92 — DFT utilise valeur historique/obsolète: 1400.0 € (canonique: 2031 €) — aligner sur la valeur canonique.
+- [ ] **✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md:94 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
+- [ ] **✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md:96 — DFP utilise valeur historique/obsolète: 31200.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
+- [ ] **✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md:98 — SE utilise valeur historique/obsolète: 24000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md:100 — Agrément utilise valeur historique/obsolète: 8000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
+- [ ] **✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md:102 — PEP utilise valeur historique/obsolète: 3000.0 € (canonique: 3500 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## J+31 ✉️📜 Assureur.md
+## ✉️📜 Assureur.md
 
-- [ ] **J+31 ✉️📜 Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/J+31 ✉️📜 Assureur.md:53 — Total Estimatif utilise valeur historique/obsolète: 59600.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
-- [ ] **J+31 ✉️📜 Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/J+31 ✉️📜 Assureur.md:109 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
-- [ ] **J+31 ✉️📜 Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/J+31 ✉️📜 Assureur.md:111 — DFP utilise valeur historique/obsolète: 25000.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
-- [ ] **J+31 ✉️📜 Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/J+31 ✉️📜 Assureur.md:113 — SE utilise valeur historique/obsolète: 15000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+31 ✉️📜 Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/J+31 ✉️📜 Assureur.md:115 — Agrément utilise valeur historique/obsolète: 5000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
+- [ ] **✉️📜 Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 Assureur.md:53 — Total Estimatif utilise valeur historique/obsolète: 59600.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
+- [ ] **✉️📜 Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 Assureur.md:109 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
+- [ ] **✉️📜 Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 Assureur.md:111 — DFP utilise valeur historique/obsolète: 25000.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
+- [ ] **✉️📜 Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 Assureur.md:113 — SE utilise valeur historique/obsolète: 15000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **✉️📜 Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 Assureur.md:115 — Agrément utilise valeur historique/obsolète: 5000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## J+41 ✉️ Mutualisation Fiscale Sociale.md
+## ✉️ Mutualisation Fiscale Sociale.md
 
-- [ ] **J+41 ✉️ Mutualisation Fiscale Sociale.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/📝 Procédure/J+41 ✉️ Mutualisation Fiscale Sociale.md:65 — Total Estimatif différent de la valeur canonique: 105000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **✉️ Mutualisation Fiscale Sociale.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/📝 Procédure/✉️ Mutualisation Fiscale Sociale.md:65 — Total Estimatif différent de la valeur canonique: 105000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## J+37 ✉️🚨 SIE.md
+## ✉️🚨 SIE.md
 
-- [ ] **J+37 ✉️🚨 SIE.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/J+37 ✉️🚨 SIE.md:50 — Total Estimatif utilise valeur historique/obsolète: 59600.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
+- [ ] **✉️🚨 SIE.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 SIE.md:50 — Total Estimatif utilise valeur historique/obsolète: 59600.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## J+39 📊 Evaluation Dintilhac Consolidee.md
+## 📊 Evaluation Dintilhac Consolidee.md
 
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:100 — SE différent de la valeur canonique: 12000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:104 — Agrément utilise valeur historique/obsolète: 3000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:119 — PGPA utilise valeur historique/obsolète: 1900.0 € (canonique: 1380 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:120 — DFT utilise valeur historique/obsolète: 1400.0 € (canonique: 2031 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:121 — DFP utilise valeur historique/obsolète: 31200.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:122 — SE utilise valeur historique/obsolète: 24000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:123 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:124 — Agrément utilise valeur historique/obsolète: 8000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:125 — PEP utilise valeur historique/obsolète: 3000.0 € (canonique: 3500 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:126 — SE utilise valeur historique/obsolète: 5000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:127 — SE utilise valeur historique/obsolète: 3000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:130 — Total Estimatif utilise valeur historique/obsolète: 109500.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:138 — DFT utilise valeur historique/obsolète: 1400.0 € (canonique: 2031 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:139 — DFP utilise valeur historique/obsolète: 25000.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:140 — SE utilise valeur historique/obsolète: 15000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:141 — IP utilise valeur historique/obsolète: 20000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:142 — Agrément utilise valeur historique/obsolète: 5000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:143 — PEP différent de la valeur canonique: 2000.0 € (attendu: 3500 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:148 — Total Estimatif différent de la valeur canonique: 82500.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:166 — SE différent de la valeur canonique: 1380.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:271 — DFT différent de la valeur canonique: 29700.0 € (attendu: 2031 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:318 — Agrément différent de la valeur canonique: 2000.0 € (attendu: 4500 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:385 — SE différent de la valeur canonique: 3500.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:504 — SE différent de la valeur canonique: 1000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:565 — SE utilise valeur historique/obsolète: 15000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:630 — DFT utilise valeur historique/obsolète: 1400.0 € (canonique: 2031 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:631 — DFP utilise valeur historique/obsolète: 25000.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:632 — SE utilise valeur historique/obsolète: 15000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:633 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:634 — Agrément utilise valeur historique/obsolète: 5000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:635 — PEP utilise valeur historique/obsolète: 3000.0 € (canonique: 3500 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+39 📊 Evaluation Dintilhac Consolidee.md:640 — Total Estimatif différent de la valeur canonique: 92000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:100 — SE différent de la valeur canonique: 12000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:104 — Agrément utilise valeur historique/obsolète: 3000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:119 — PGPA utilise valeur historique/obsolète: 1900.0 € (canonique: 1380 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:120 — DFT utilise valeur historique/obsolète: 1400.0 € (canonique: 2031 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:121 — DFP utilise valeur historique/obsolète: 31200.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:122 — SE utilise valeur historique/obsolète: 24000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:123 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:124 — Agrément utilise valeur historique/obsolète: 8000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:125 — PEP utilise valeur historique/obsolète: 3000.0 € (canonique: 3500 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:126 — SE utilise valeur historique/obsolète: 5000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:127 — SE utilise valeur historique/obsolète: 3000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:130 — Total Estimatif utilise valeur historique/obsolète: 109500.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:138 — DFT utilise valeur historique/obsolète: 1400.0 € (canonique: 2031 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:139 — DFP utilise valeur historique/obsolète: 25000.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:140 — SE utilise valeur historique/obsolète: 15000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:141 — IP utilise valeur historique/obsolète: 20000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:142 — Agrément utilise valeur historique/obsolète: 5000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:143 — PEP différent de la valeur canonique: 2000.0 € (attendu: 3500 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:148 — Total Estimatif différent de la valeur canonique: 82500.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:166 — SE différent de la valeur canonique: 1380.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:271 — DFT différent de la valeur canonique: 29700.0 € (attendu: 2031 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:318 — Agrément différent de la valeur canonique: 2000.0 € (attendu: 4500 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:385 — SE différent de la valeur canonique: 3500.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:504 — SE différent de la valeur canonique: 1000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:565 — SE utilise valeur historique/obsolète: 15000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:630 — DFT utilise valeur historique/obsolète: 1400.0 € (canonique: 2031 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:631 — DFP utilise valeur historique/obsolète: 25000.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:632 — SE utilise valeur historique/obsolète: 15000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:633 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:634 — Agrément utilise valeur historique/obsolète: 5000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:635 — PEP utilise valeur historique/obsolète: 3000.0 € (canonique: 3500 €) — aligner sur la valeur canonique.
+- [ ] **📊 Evaluation Dintilhac Consolidee.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:640 — Total Estimatif différent de la valeur canonique: 92000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## J+40 📊 Note Strategique FGTI CIVI.md
+## 📊 Note Strategique FGTI CIVI.md
 
-- [ ] **J+40 📊 Note Strategique FGTI CIVI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/J+40 📊 Note Strategique FGTI CIVI.md:74 — Total Estimatif différent de la valeur canonique: 105000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **📊 Note Strategique FGTI CIVI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/💰 Etudes indemnisation/📊 Note Strategique FGTI CIVI.md:74 — Total Estimatif différent de la valeur canonique: 105000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
 ## 20270529 ⚖️ Rapport Expertise Médicale.md
@@ -151,42 +151,42 @@ type: rapport
 - [ ] **99 🛡️ Memoire en defense adverse.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md:88 — DFP utilise valeur historique/obsolète: 31200.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## J+32 ❓ FAQ Juridique.md
+## ❓ FAQ Juridique.md
 
-- [ ] **J+32 ❓ FAQ Juridique.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+32 ❓ FAQ Juridique.md:165 — Total Estimatif différent de la valeur canonique: 90000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
-- [ ] **J+32 ❓ FAQ Juridique.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+32 ❓ FAQ Juridique.md:178 — Total Estimatif différent de la valeur canonique: 90000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **❓ FAQ Juridique.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/❓ FAQ Juridique.md:165 — Total Estimatif différent de la valeur canonique: 90000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **❓ FAQ Juridique.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/❓ FAQ Juridique.md:178 — Total Estimatif différent de la valeur canonique: 90000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## J+32 🎤 Plaidoirie Responsabilite Dirigeants.md
+## 🎤 Plaidoirie Responsabilite Dirigeants.md
 
-- [ ] **J+32 🎤 Plaidoirie Responsabilite Dirigeants.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+32 🎤 Plaidoirie Responsabilite Dirigeants.md:125 — Total Estimatif différent de la valeur canonique: 90000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **🎤 Plaidoirie Responsabilite Dirigeants.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/🎤 Plaidoirie Responsabilite Dirigeants.md:125 — Total Estimatif différent de la valeur canonique: 90000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## J+32 📜 Analyse Responsabilites Legales.md
+## 📜 Analyse Responsabilites Legales.md
 
-- [ ] **J+32 📜 Analyse Responsabilites Legales.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+32 📜 Analyse Responsabilites Legales.md:216 — SE différent de la valeur canonique: 1000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+32 📜 Analyse Responsabilites Legales.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+32 📜 Analyse Responsabilites Legales.md:233 — Total Estimatif différent de la valeur canonique: 105000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **📜 Analyse Responsabilites Legales.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/📜 Analyse Responsabilites Legales.md:216 — SE différent de la valeur canonique: 1000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📜 Analyse Responsabilites Legales.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/📜 Analyse Responsabilites Legales.md:233 — Total Estimatif différent de la valeur canonique: 105000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## J+39 📜 Strategie Jurisprudentielle.md
+## 📜 Strategie Jurisprudentielle.md
 
-- [ ] **J+39 📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md:111 — Total Estimatif différent de la valeur canonique: 105000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md:115 — PGPA utilise valeur historique/obsolète: 1900.0 € (canonique: 1380 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md:116 — DFT utilise valeur historique/obsolète: 1400.0 € (canonique: 2031 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md:117 — DFP utilise valeur historique/obsolète: 31200.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md:118 — SE utilise valeur historique/obsolète: 24000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md:119 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md:120 — Agrément utilise valeur historique/obsolète: 8000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md:121 — PEP utilise valeur historique/obsolète: 3000.0 € (canonique: 3500 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md:124 — Total Estimatif différent de la valeur canonique: 105000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md:141 — PGPA utilise valeur historique/obsolète: 1400.0 € (canonique: 1380 €) — aligner sur la valeur canonique.
-- [ ] **J+39 📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md:143 — DFT utilise valeur historique/obsolète: 1400.0 € (canonique: 2031 €) — aligner sur la valeur canonique.
+- [ ] **📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md:111 — Total Estimatif différent de la valeur canonique: 105000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md:115 — PGPA utilise valeur historique/obsolète: 1900.0 € (canonique: 1380 €) — aligner sur la valeur canonique.
+- [ ] **📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md:116 — DFT utilise valeur historique/obsolète: 1400.0 € (canonique: 2031 €) — aligner sur la valeur canonique.
+- [ ] **📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md:117 — DFP utilise valeur historique/obsolète: 31200.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
+- [ ] **📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md:118 — SE utilise valeur historique/obsolète: 24000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md:119 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
+- [ ] **📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md:120 — Agrément utilise valeur historique/obsolète: 8000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
+- [ ] **📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md:121 — PEP utilise valeur historique/obsolète: 3000.0 € (canonique: 3500 €) — aligner sur la valeur canonique.
+- [ ] **📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md:124 — Total Estimatif différent de la valeur canonique: 105000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md:141 — PGPA utilise valeur historique/obsolète: 1400.0 € (canonique: 1380 €) — aligner sur la valeur canonique.
+- [ ] **📜 Strategie Jurisprudentielle.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md:143 — DFT utilise valeur historique/obsolète: 1400.0 € (canonique: 2031 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## J+60 📁 Dossier Plaidoirie Refere.md
+## 📁 Dossier Plaidoirie Refere.md
 
-- [ ] **J+60 📁 Dossier Plaidoirie Refere.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+60 📁 Dossier Plaidoirie Refere.md:43 — Total Estimatif différent de la valeur canonique: 90000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
-- [ ] **J+60 📁 Dossier Plaidoirie Refere.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/J+60 📁 Dossier Plaidoirie Refere.md:139 — Total Estimatif différent de la valeur canonique: 90000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **📁 Dossier Plaidoirie Refere.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/📁 Dossier Plaidoirie Refere.md:43 — Total Estimatif différent de la valeur canonique: 90000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **📁 Dossier Plaidoirie Refere.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/📚 Analyses juridiques/📁 Dossier Plaidoirie Refere.md:139 — Total Estimatif différent de la valeur canonique: 90000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
 ## 📚 ANALYSE Jurisprudence.md

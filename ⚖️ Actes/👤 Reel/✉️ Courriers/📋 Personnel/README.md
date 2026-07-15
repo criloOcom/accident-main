@@ -1,5 +1,5 @@
 # Index — ✉️ Courriers/📋 Personnel (Versions Réelles)
 
-- [J+47 ✅ Checklist Deplacement Foix.md](J+47 ✅ Checklist Deplacement Foix.md)
-- [J+47 📋 Antiseche Orale Plainte.md](J+47 📋 Antiseche Orale Plainte.md)
-- [J+47 📋 Guide Dialogue Police.md](J+47 📋 Guide Dialogue Police.md)
+- [✅ Checklist Deplacement Foix.md](✅ Checklist Deplacement Foix.md)
+- [📋 Antiseche Orale Plainte.md](📋 Antiseche Orale Plainte.md)
+- [📋 Guide Dialogue Police.md](📋 Guide Dialogue Police.md)

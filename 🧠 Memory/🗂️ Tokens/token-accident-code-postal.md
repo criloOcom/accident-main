@@ -40,10 +40,10 @@ Ce code postal n'est pas une simple coordonnée : il **fixe la compétence terri
 
 ## Documents liés
 
-- [Assignation Référé-Provision (compétence territoriale TJ Foix)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B32%20%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md)
-- [Plainte Défaut Assurance RC (lieu de l'infraction)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B32%20%F0%9F%9A%94%20Plainte%20Defaut%20Assurance%20RC.md)
-- [Requête Article 145 CPC (désignation TJ Foix)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B47%20%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md)
-- [Constitution de Partie Civile (compétence Doyen des juges d'instruction)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
+- [Assignation Référé-Provision (compétence territoriale TJ Foix)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md)
+- [Plainte Défaut Assurance RC (lieu de l'infraction)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%9A%94%20Plainte%20Defaut%20Assurance%20RC.md)
+- [Requête Article 145 CPC (désignation TJ Foix)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md)
+- [Constitution de Partie Civile (compétence Doyen des juges d'instruction)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
 
 ## Source
 

@@ -36,24 +36,24 @@ Aucune fuite de PII (identités réelles du `TOKEN MAP.md`) n'a été détectée
 
 L'expression "suite à" est une faute de français (calque administratif). Elle doit être remplacée par "à la suite de".
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/J+47 ✉️ Relance Inspection Travail.md` — ligne 3
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/J+38 📧 Relance Dr DJERBI Consolidation.md` — ligne 32
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/J+37 ✉️🚨 Inspection Travail.md` — ligne 144
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/J+37 ✉️🚨 Conseil Departemental.md` — ligne 50
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/J+37 ✉️🚨 CODAF.md` — ligne 125
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/J+47 📜 Plainte Complementaire.md` — ligne 224
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/J+42 ✉️ Email Maire Tavella ERP.md` — lignes 23, 43
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/J+41 ✉️📜 Maire Foix.md` — ligne 67
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/J+47 ✅ Checklist Deplacement Foix.md` — lignes 402, 565
-- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/J+32 ❓ FAQ Juridique.md` — lignes 59, 104
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance Inspection Travail.md` — ligne 3
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/📧 Relance Dr DJERBI Consolidation.md` — ligne 32
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️🚨 Inspection Travail.md` — ligne 144
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️🚨 Conseil Departemental.md` — ligne 50
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️🚨 CODAF.md` — ligne 125
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/📜 Plainte Complementaire.md` — ligne 224
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Email Maire Tavella ERP.md` — lignes 23, 43
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️📜 Maire Foix.md` — ligne 67
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✅ Checklist Deplacement Foix.md` — lignes 402, 565
+- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/❓ FAQ Juridique.md` — lignes 59, 104
 - [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note qualification penale disparition SAS.md` — ligne 76
 - [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md` — ligne 26
-- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/J+40 📜 Note Droit Assurances.md` — lignes 3, 25, 105
+- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Note Droit Assurances.md` — lignes 3, 25, 105
 - [ ] `⚖️ Actes/🔑 Token/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md` — ligne 60
 - [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/Fiche Reflexe 48h Disparition SAS.md` — lignes 39, 58
 - [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/22 📋 Modif Email Maire Foix.md` — lignes 31, 37
 - [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/16 ⚠️ Signalement Parquet Fraud.md` — lignes 29, 37
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/J+47 👮‍♂️ PV Audition Plainte Complementaire.md` — ligne 66
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮‍♂️ PV Audition Plainte Complementaire.md` — ligne 66
 
 ### MINEUR (Ponctuation)
 

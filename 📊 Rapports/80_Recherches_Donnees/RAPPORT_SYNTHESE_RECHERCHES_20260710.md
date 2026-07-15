@@ -59,10 +59,10 @@ type: rapport
 
 ### Fichiers Analysés
 
-- [`01 ⚖️ Assignation.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B32%20%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md) : 12 articles vérifiés
-- [`02 🚔 Plainte.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B32%20%F0%9F%9A%94%20Plainte%20Defaut%20Assurance%20RC.md) : 9 articles vérifiés
-- [`02b 🛡️ Constitution Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) : 9 articles vérifiés
-- [`03 🔍 Assignation Article 145.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B47%20%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) : 1 article vérifié
+- [`01 ⚖️ Assignation.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md) : 12 articles vérifiés
+- [`02 🚔 Plainte.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%9A%94%20Plainte%20Defaut%20Assurance%20RC.md) : 9 articles vérifiés
+- [`02b 🛡️ Constitution Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) : 9 articles vérifiés
+- [`03 🔍 Assignation Article 145.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) : 1 article vérifié
 
 ### Résultats
 

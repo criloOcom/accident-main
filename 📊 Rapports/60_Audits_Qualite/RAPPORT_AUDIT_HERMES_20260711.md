@@ -92,7 +92,7 @@ statut: projet
 |---|---|---|
 | `01_PREPARATION.md` / `02_PRET_POUR_ENVOI.md` / `03_ENVOYE.md` | 164 | Chemins absolus `/⚖️ Actes/...` au lieu de `../⚖️ Actes/...` (dossier `🚦 Status/` existe bien) |
 | `README.md` (racine) | 52 | Liens vers fichiers déplacés/renommés |
-| `J+39 📜 Strategie Jurisprudentielle.md` | 22 | Liens jurisprudence omettant `📜 Jurisprudence/README.md` |
+| `📜 Strategie Jurisprudentielle.md` | 22 | Liens jurisprudence omettant `📜 Jurisprudence/README.md` |
 | `01 ⚖️ Assignation.md` | 12 | Annexes référencées sans chemin correct (`ANNEXE_1_…md` au lieu de `📎 Annexes/ANNEXE_1_…md`) |
 | `📜 Lois/README_OLD.md` | 45 | Fichier obsolète |
 | `RAPPORT_NAVIGATION_INTERACTIVE_20260711.md` | 13 | Rapport |
@@ -102,9 +102,9 @@ statut: projet
 
 **Vrais bugs de liens (indépendants des fichiers fantômes) :**
 - 🔴 [⚖️ Actes/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) L21-40 : `token/README.md`, `reel/README.md`, `token/0X_…/README.md` → dossiers renommés `🔑 Token`/`👤 Reel` non propagés.
-- 🔴 `13 📜 Responsabilites legales.md` L92-98 et `J+39 📜 Strategie Jurisprudentielle.md` : `../../../📜 Lois/89-18.422_CourCassation.md` → le fichier réel est [📜 Lois/📜 Jurisprudence/README.md89-18.422_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md) (sous-dossier omis).
+- 🔴 `13 📜 Responsabilites legales.md` L92-98 et `📜 Strategie Jurisprudentielle.md` : `../../../📜 Lois/89-18.422_CourCassation.md` → le fichier réel est [📜 Lois/📜 Jurisprudence/README.md89-18.422_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md) (sous-dossier omis).
 - ~~🔴 `01 ⚖️ Assignation.md` L106-126, 347-349 : `ANNEXE_1/2/3` → **CORRIGÉ** (déplacées dans [📜 Lois/📜 Jurisprudence/](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)).
-- 🔴 **6 liens `file://` cassés** (`J+40 📋 Dossier Special CERFA.md` L43-45, token + reel) : pointent vers `26 📋 Temoin Client.md`, `27 📋 Pompier SAMU.md`, `28 📋 Employe.md` — or les fichiers réels sont `26 📧 …`, `27 📧 …`, `28 📧 …` (mismatch 📋/📧). Lien mort + nommage incohérent.
+- 🔴 **6 liens `file://` cassés** (`📋 Dossier Special CERFA.md` L43-45, token + reel) : pointent vers `26 📋 Temoin Client.md`, `27 📋 Pompier SAMU.md`, `28 📋 Employe.md` — or les fichiers réels sont `26 📧 …`, `27 📧 …`, `28 📧 …` (mismatch 📋/📧). Lien mort + nommage incohérent.
 - 🟡 **4 URLs Légifrance** format `ceta/id/...` (`11+12 … Dintilhac consolidee.md` L265, `12 … Dintilhac détaillée.md` L147, + versions reel) — `ceta` (Conseil d'État) vs `juri` (Cassation) ; à confirmer que l'ID est bien un CETA et non une JURITEXT.
 - ⚪ **453 ancres `#…`** internes : présentes (sommaires), non vérifiées une par une (toléré, mais ~453 cibles à valider si on veut 100 %).
 

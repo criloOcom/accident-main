@@ -24,16 +24,16 @@ Ce rapport identifie les redondances, contradictions et données obsolètes dans
 L'évaluation des préjudices a évolué à plusieurs reprises, entraînant des contradictions majeures entre les actes historiques et la Source Unique de Vérité.
 
 * **La Vérité Factuelle** : `🧠 Memory/STRICT VARIABLES.md` (lignes 51 et 226) fixe `TOTAL_ESTIMATIF_GLOBAL_CANONIQUE` à **120 000 – 160 000 €**.
-* **Contradiction 1 (Évaluation Initiale 59 600 €)** : L'ancienne évaluation est explicitement déclarée comme obsolète dans `STRICT VARIABLES.md` et dans `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/J+37 ✉️🚨 INPI.md` (ligne 98). Cependant, elle est encore présentée comme l'évaluation de référence ("estimés à 59 600 €") dans :
+* **Contradiction 1 (Évaluation Initiale 59 600 €)** : L'ancienne évaluation est explicitement déclarée comme obsolète dans `STRICT VARIABLES.md` et dans `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️🚨 INPI.md` (ligne 98). Cependant, elle est encore présentée comme l'évaluation de référence ("estimés à 59 600 €") dans :
   * `⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Civil.md`
   * `⚖️ Actes/🔑 Token/🗄️ Archives/🔧 ANALYSE correction juridique.md`
   * `⚖️ Actes/🔑 Token/🗄️ Archives/📚 ANALYSE Jurisprudence.md`
   * `🧠 Memory/STATUS.md` et `🧠 Memory/TODO.md` y font également référence.
-* **Contradiction 2 (Évaluation Intermédiaire 109 500 €)** : Cette valeur obsolète persiste dans `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/J+38 ✉️ Saisine FGTI.md` (ligne 88) ("s'élève à ~109 500 €") et dans `🧠 Memory/STRICT VARIABLES.md` sous la variable `MONTANT_TOTAL_ESTIME` (ligne 72, notée SUPERSEDED).
+* **Contradiction 2 (Évaluation Intermédiaire 109 500 €)** : Cette valeur obsolète persiste dans `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md` (ligne 88) ("s'élève à ~109 500 €") et dans `🧠 Memory/STRICT VARIABLES.md` sous la variable `MONTANT_TOTAL_ESTIME` (ligne 72, notée SUPERSEDED).
 * **Contradiction 3 (Évaluation 126 000 € - 161 500 €)** : Plusieurs actes de Référé Provision utilisent un rapport Dintilhac intermédiaire du 13/07/2026 :
-  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/J+32 ⚖️ Assignation Refere Provision.md` (ligne 229)
-  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/J+39 🎯 Conclusions Refere Provision.md` (ligne 153)
-  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/J+63 ⚖️ Projet Ordonnance Refere.md` (lignes 103, 192)
+  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md` (ligne 229)
+  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🎯 Conclusions Refere Provision.md` (ligne 153)
+  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Projet Ordonnance Refere.md` (lignes 103, 192)
   * `📊 Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md` (lignes 109, 153)
 
 ### B. Dates et Délais (ITT, Procédures)
@@ -59,6 +59,6 @@ L'audit des tokens via le script a révélé 60 tokens formellement définis dan
 
 - [ ] **[CRITIQUE]** Mettre à jour les assignations de référé (`J+32`, `J+39`, `J+63`) pour qu'elles reflètent l'estimation canonique `120 000 - 160 000 €` au lieu de `126 000 - 161 500 €` (Avis du 13/07/2026).
 - [ ] **[MAJEUR]** Retirer les mentions de l'ancienne évaluation à 59 600 € dans `STATUS.md`, `TODO.md` et dans les documents du dossier `🗄️ Archives/` (ou insérer une note d'obsolescence en en-tête des archives).
-- [ ] **[MAJEUR]** Aligner l'estimation de la Saisine FGTI (`J+38 ✉️ Saisine FGTI.md`) sur le montant canonique.
+- [ ] **[MAJEUR]** Aligner l'estimation de la Saisine FGTI (`✉️ Saisine FGTI.md`) sur le montant canonique.
 - [ ] **[MINEUR]** Purger les doublons de calendrier entre `TODO.md` et `STATUS.md`.
 - [ ] **[INFO]** Supprimer ou remplacer les références textuelles de type "Pièce n°X" dans les rapports plus anciens pour suivre la nomenclature en triplet.

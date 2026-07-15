@@ -25,7 +25,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Fichiers concernés :**
 
-  - [`J+41 📜 Note Responsabilite Dirigeants.md`](J+41%20%F0%9F%93%9C%20Note%20Responsabilite%20Dirigeants.md) (titre section + tableau synthèse)
+  - [`📜 Note Responsabilite Dirigeants.md`](%F0%9F%93%9C%20Note%20Responsabilite%20Dirigeants.md) (titre section + tableau synthèse)
 
 - **Raison :**
 
@@ -51,7 +51,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Fichiers concernés :**
 
-  - [`J+37 🔄 Relance Police Videos.md`](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/J%2B37%20%F0%9F%94%84%20Relance%20Police%20Videos.md) (corps du courrier + blockquote)
+  - [`🔄 Relance Police Videos.md`](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20Relance%20Police%20Videos.md) (corps du courrier + blockquote)
 
 - **Raison :**
 
@@ -122,7 +122,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Fichiers concernés :**
 
-  - [`J+40 📜 Note Droit Assurances.md`](J+40%20%F0%9F%93%9C%20Note%20Droit%20Assurances.md)
+  - [`📜 Note Droit Assurances.md`](%F0%9F%93%9C%20Note%20Droit%20Assurances.md)
 
 - **Raison :** Utiliser l'identifiant correspondant à la version post-réforme des référés (décret 2019).
 
@@ -159,7 +159,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Fichiers concernés :**
 
-  - [`J+39 📜 Strategie Jurisprudentielle.md`](J+39%20%F0%9F%93%9C%20Strategie%20Jurisprudentielle.md)
+  - [`📜 Strategie Jurisprudentielle.md`](%F0%9F%93%9C%20Strategie%20Jurisprudentielle.md)
 
 - **Raison :** Honnêteté intellectuelle : signaler l'absence de pourvoi vérifiable. Les arrêts Costedoat (Ass. plén., 25 fév. 2000, n° 97-17.378) et Cousin (Ass. plén., 14 déc. 2001, n° 00-82.066), déjà cités dans le même document, couvrent le même principe de manière plus actuelle.
 

@@ -51,8 +51,8 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 | Acte | Date | Statut |
 |------|------|--------|
 | Dépôt de plainte (PV n° [**[N° PV Police]**](../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) | J+4 | Transmis au Parquet |
-| [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) | J+38 | Transmise au TJ de [**[La Ville de l'Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) |
-| [Réquisitoire introductif](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B47%20%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) | J+47 | Parquet de Foix — double qualification 222-19/222-20 CP, transmission au doyen des juges d'instruction |
+| [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) | J+38 | Transmise au TJ de [**[La Ville de l'Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) |
+| [Réquisitoire introductif](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) | J+47 | Parquet de Foix — double qualification 222-19/222-20 CP, transmission au doyen des juges d'instruction |
 | [Rapport d'expertise médico-légale (UMJ)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) | 12 novembre 2026 | Déposé |
 | Information judiciaire ouverte | En cours | Blessures involontaires (+mise en danger d'autrui) |
 
@@ -66,7 +66,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 
 | Acte | Date | Statut |
 |------|------|--------|
-| [Assignation en référé provision](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B63%20%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md) | J+63 | Provision 15 000 € sollicitée (art. 145 CPC) |
+| [Assignation en référé provision](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md) | J+63 | Provision 15 000 € sollicitée (art. 145 CPC) |
 | Conclusions au fond | À venir | TJ de [**[La Ville de l'Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) |
 
 **Fondements juridiques** :
@@ -79,8 +79,8 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 
 | Acte | Date | Statut |
 |------|------|--------|
-| [Mise en demeure victime](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/J%2B50%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur%20RC.md) | J+50 | LRAR — action directe (L.124-3 C. assur.) + rapport expertise |
-| [Mise en demeure avocat](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/J%2B50%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur%20RC%20%E2%80%94%20Avocat.md) | J+50-bis | Ton incisif, réserve pénale, réquisitoire cité |
+| [Mise en demeure victime](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur%20RC.md) | J+50 | LRAR — action directe (L.124-3 C. assur.) + rapport expertise |
+| [Mise en demeure avocat](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur%20RC%20%E2%80%94%20Avocat.md) | J+50-bis | Ton incisif, réserve pénale, réquisitoire cité |
 
 **Fondement** : Article L.124-3 du Code des assurances — action directe du tiers lésé.
 **Constat** : silence ou défaut de communication de l'assureur à ce jour. Aucune offre d'indemnisation reçue. Provision complémentaire à solliciter par voie judiciaire.
@@ -89,10 +89,10 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 
 | Acte | Date | Statut |
 |------|------|--------|
-| [Signalement Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md) | J+37 | DDETS 09 — manquements sécurité, absence DUERP, défaut présumé assurance |
-| [Signalement Préfecture/CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Prefecture.md) | J+37 | CODAF — signalement ERP + travail dissimulé présumé |
-| [Relance Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/J%2B47%20%E2%9C%89%EF%B8%8F%20Relance%20Inspection%20Travail.md) | J+47 | Mise à jour récit + expertise |
-| [Relance Préfecture CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/J%2B47%20%E2%9C%89%EF%B8%8F%20Relance%20Prefecture%20CODAF.md) | J+47 | Cohérente |
+| [Signalement Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md) | J+37 | DDETS 09 — manquements sécurité, absence DUERP, défaut présumé assurance |
+| [Signalement Préfecture/CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Prefecture.md) | J+37 | CODAF — signalement ERP + travail dissimulé présumé |
+| [Relance Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%20Relance%20Inspection%20Travail.md) | J+47 | Mise à jour récit + expertise |
+| [Relance Préfecture CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%20Relance%20Prefecture%20CODAF.md) | J+47 | Cohérente |
 
 **Manquements signalés** : absence d'escabeau (R.4323-58 C. trav.), équipement défectueux (vasque avec cassure préexistante), défaut de DUERP, défaut présumé d'assurance RC, travail dissimulé présumé.
 <hr><hr>
@@ -169,12 +169,12 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 |----|-------|-------------|
 | 1 | [PV de police n°2026/015967](../../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) | Dépôt de plainte J+4 |
 | 2 | [Rapport d'expertise médicale](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) | Consolidation J+10 mois |
-| 3 | [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) | J+38 — TJ |
-| 4 | [Réquisitoire introductif](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B47%20%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) | J+47 — Parquet de Foix |
-| 5 | [Ordonnance de référé provision](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B63%20%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md) | J+63 — 15 000 € |
-| 6 | [MED Assureur RC](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/J%2B50%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur%20RC.md) | J+50 + version avocat J+50-bis |
-| 7 | [Signalement Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md) | J+37 — DDETS 09 |
-| 8 | [Signalement Préfecture/CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/J%2B37%20%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Prefecture.md) | J+37 — Préfecture / CODAF |
+| 3 | [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) | J+38 — TJ |
+| 4 | [Réquisitoire introductif](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) | J+47 — Parquet de Foix |
+| 5 | [Ordonnance de référé provision](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md) | J+63 — 15 000 € |
+| 6 | [MED Assureur RC](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur%20RC.md) | J+50 + version avocat J+50-bis |
+| 7 | [Signalement Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md) | J+37 — DDETS 09 |
+| 8 | [Signalement Préfecture/CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Prefecture.md) | J+37 — Préfecture / CODAF |
 | 9 | [STRICT VARIABLES canoniques](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md) | §1 expertise — §2 historique SUPERSEDED |
 
 <hr>

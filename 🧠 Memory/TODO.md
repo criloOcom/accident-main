@@ -133,7 +133,7 @@ ni contacter des personnes à ta place.
 - [ ] Relancer impôts / SIE (pas de réponse ?)
 - [ ] Relancer URSSAF (pas de réponse ?)
 - [ ] Vérifier retour AR de la mise en demeure SAS
-- [ ] **Consulter le Dossier Spécial CERFA** ([05 📋 Dossier Special CERFA.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/J%2B40%20%F0%9F%93%8B%20Dossier%20Special%20CERFA.md)) pour l'organisation des démarches administratives officieuses.
+- [ ] **Consulter le Dossier Spécial CERFA** ([05 📋 Dossier Special CERFA.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/%F0%9F%93%8B%20Dossier%20Special%20CERFA.md)) pour l'organisation des démarches administratives officieuses.
 
 ### Processus général (vision d'ensemble)
 
@@ -185,7 +185,7 @@ PHASE 5 — INSTANCE AU FOND (2027)
 ### PLAN A — CORRECTION L.211-26 C. ASSURANCES ✅ TERMINÉ
 
 - L.211-26 supprimé de [`STRATEGIE Contentieux Penal.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md) (§2.2, §3.3),
-  [`PLAINTE Complement Defaut Assurance RC.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B32%20%F0%9F%9A%94%20Plainte%20Defaut%20Assurance%20RC.md), scripts Python.
+  [`PLAINTE Complement Defaut Assurance RC.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%9A%94%20Plainte%20Defaut%20Assurance%20RC.md), scripts Python.
 - Remplacement par signalement de fait + Art. 706-3 CPP + Art. L.124-3 C. assur.
 - Règle absolue instaurée : vérification Légifrance avant toute citation.
 

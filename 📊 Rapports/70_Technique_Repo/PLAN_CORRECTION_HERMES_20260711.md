@@ -24,7 +24,7 @@ statut: projet
 
 ### P0-1 — Index `🚦 Status/` : chemins absolus → relatifs  [SCRIPT]
 - **Cible** : `🚦 Status/01_PREPARATION.md`, `🚦 Status/02_PRET_POUR_ENVOI.md`, `🚦 Status/03_ENVOYE.md`
-- **Défaut** : tous les liens internes utilisent des chemins absolus `/⚖️ Actes/...` (ex. `/⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/J+32 ⚖️ Assignation Refere Provision.md`) → morts sur GitHub/HTML.
+- **Défaut** : tous les liens internes utilisent des chemins absolus `/⚖️ Actes/...` (ex. `/⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md`) → morts sur GitHub/HTML.
 - **Correction** : remplacer `](/⚖️ Actes/` par `](../⚖️ Actes/` (et `](/📊 Rapports/` par `](../📊 Rapports/` si présent).
 - **Impact** : 164 liens réparés. À rejouer `check_consistency.py` après.
 
@@ -37,7 +37,7 @@ statut: projet
 ### P0-3 — Liens jurisprudence : sous-dossier `📜 Jurisprudence/README.md` manquant  [SCRIPT]
 - **Cibles** :
   - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/13 📜 Responsabilites legales.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/13%20📜%20Responsabilites%20legales.md) (L92-98, 4 liens `../../../📜 Lois/X.md`)
-  - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/J+39 📜 Strategie Jurisprudentielle.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/14%20Stratégie%20jurisprudentielle.md) (L30-37, ~11 liens `../../📜 Lois/X.md`)
+  - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/14%20Stratégie%20jurisprudentielle.md) (L30-37, ~11 liens `../../📜 Lois/X.md`)
   - (et les 2 versions `👤 Reel/` correspondantes → total ~30 liens)
 - **Correction** : insérer `📜 Jurisprudence/README.md` → `../../../📜 Lois/📜 Jurisprudence/README.mdX.md` (token) / `../../📜 Lois/📜 Jurisprudence/README.mdX.md` (reel).
 - **Vérifier** cible existe : [📜 Lois/📜 Jurisprudence/README.md89-18.422_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md) ✅ présent.
