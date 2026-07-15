@@ -15,7 +15,7 @@ statut: final
 
 **FONDEMENT CIVIL** : 1242 al. 1er (garde de la vasque/TV) + subsidiaire 1240 + L.4121-1 s. C. trav. Pas de cause étrangère (geste réflexe ≠ faute, préposé = commettant).
 
-**CHIFFRES CLÉS** (expertise 29 mai 2027 — consolidation 01/03/2027) :
+**CHIFFRES CLÉS** (expertise UMJ 12 novembre 2026 — consolidation 01/03/2027) :
 - DFP 12 % = 25 200 € | SE 4/7 = 14 000 € | PEP = 3 500 € | Agrément = 4 500 €
 - IP = 28 000 € | DFT = 2 031 € | PGPA = 1 380 € | DSA = 790 €
 - Fourchette globale : **120 – 160 k€** | Provision déjà allouée : **15 k€**

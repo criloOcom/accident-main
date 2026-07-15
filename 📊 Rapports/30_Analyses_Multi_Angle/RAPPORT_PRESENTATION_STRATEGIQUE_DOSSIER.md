@@ -41,7 +41,7 @@ Le [**[J+0 Accident]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/
 - **Préjudice esthétique** : cicatrice palmaire visible
 - **Préjudice d'agrément** : perte des activités manuelles et de loisir
 
-> **Pièce clé** : [Rapport d'expertise médicale](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) du 29 mai 2027
+> **Pièce clé** : [Rapport d'expertise médico-légale (UMJ)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) du 12 novembre 2026
 <hr><hr>
 
 ## II — VOLETS DE PROCÉDURE EN COURS
@@ -53,7 +53,7 @@ Le [**[J+0 Accident]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/
 | Dépôt de plainte (PV n° [**[N° PV Police]**](../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) | J+4 | Transmis au Parquet |
 | [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) | J+38 | Transmise au TJ de [**[La Ville de l'Accident]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) |
 | [Réquisitoire introductif](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B47%20%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) | J+47 | Parquet de Foix — double qualification 222-19/222-20 CP, transmission au doyen des juges d'instruction |
-| [Rapport d'expertise judiciaire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) | 29 mai 2027 | Déposé |
+| [Rapport d'expertise médico-légale (UMJ)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) | 12 novembre 2026 | Déposé |
 | Information judiciaire ouverte | En cours | Blessures involontaires (+mise en danger d'autrui) |
 
 **Qualifications pénales retenues** :

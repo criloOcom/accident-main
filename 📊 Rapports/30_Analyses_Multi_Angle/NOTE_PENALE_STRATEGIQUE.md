@@ -75,7 +75,7 @@ La [constitution de partie civile (J+38)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%9
 
 - **Sécurisation des preuves :** Face à l'inertie et aux probables manœuvres d'effacement, l'intervention d'un juge d'instruction avec ses pouvoirs coercitifs (saisies, perquisitions, auditions sous contrainte) devient indispensable pour figer l'état des lieux et conserver ce qu'il reste des preuves (notamment l'exécution de l'ordonnance sur requête Article 145 CPC).
 
-- **Consolidation du préjudice :** Elle intègre le rapport d'expertise médicale du 29 mai 2027 qui a retenu un Déficit Fonctionnel Permanent (DFP) de 12 %, validant la gravité des conséquences de l'infraction (Préjudice extra-patrimonial total évalué à 47 200 € selon la nomenclature stricte Dintilhac).
+- **Consolidation du préjudice :** Elle intègre le rapport d'expertise médicale (UMJ) du 12 novembre 2026 qui a retenu un Déficit Fonctionnel Permanent (DFP) de 12 %, validant la gravité des conséquences de l'infraction (Préjudice extra-patrimonial total évalué à 47 200 € selon la nomenclature stricte Dintilhac).
 
 <hr><hr>
 

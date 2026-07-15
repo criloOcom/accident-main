@@ -65,10 +65,12 @@ Ce rapport liste les incohérences détectées dans les fichiers sous `⚖️ Ac
 - **Ligne 56** : Montant DFP erroné (25 200 € attendu)
   - **Valeur erronée** : `Victime d'un accident corporel grave le [DATE_ACCIDENT] au salon [NOM_SAS] à [VILLE], j'ai subi une plaie palmaire profonde de la main droite dominante avec section partielle du tendon FDP et du paquet vasculo-nerveux collatéral radial de l'index, ayant nécessité une microchirurgie d'urgence en SOS Main. L'expertise judiciaire du 29 mai 2027 a fixé la consolidation au 1er mars 2027, retenu un DFP de 12 % et une incidence professionnelle majeure (informaticien indépendant — perte fonctionnelle de la main droite). La fourchette globale d'indemnisation est estimée entre 120 000 et 160 000 €.`
   - **Correction suggérée** : Mettre à jour à 25 200 €.
+  - **⚠️ CORRIGÉ (14/07/2026) — AUSSI :** La date expertise `29 mai 2027` a été corrigée en `12 novembre 2026` dans 8 fichiers.
 
 - **Ligne 56** : Nom SAS non tokenisé
   - **Valeur erronée** : `Victime d'un accident corporel grave le [DATE_ACCIDENT] au salon [NOM_SAS] à [VILLE], j'ai subi une plaie palmaire profonde de la main droite dominante avec section partielle du tendon FDP et du paquet vasculo-nerveux collatéral radial de l'index, ayant nécessité une microchirurgie d'urgence en SOS Main. L'expertise judiciaire du 29 mai 2027 a fixé la consolidation au 1er mars 2027, retenu un DFP de 12 % et une incidence professionnelle majeure (informaticien indépendant — perte fonctionnelle de la main droite). La fourchette globale d'indemnisation est estimée entre 120 000 et 160 000 €.`
   - **Correction suggérée** : Remplacer 'NOM_SAS' par '**[L'Exploitant du Commerce (La SAS)]**'.
+  - **⚠️ CORRIGÉ (14/07/2026)** : `NOM_SAS` → `[L'Exploitant du Commerce (La SAS)]` appliqué. **AUSSI :** date expertise corrigée (cf. ci-dessus).
 
 - **Ligne 77** : Nom SAS non tokenisé
   - **Valeur erronée** : ``[NOM_SAS]` — Raison sociale de l'exploitation`
