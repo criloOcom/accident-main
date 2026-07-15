@@ -92,7 +92,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 
 ## 2. ANALYSE PAR DOCUMENT
 
-### 2.1 03 — Courrier SAS (`✉️ Courriers/J+31 ✉️ Mise en demeure SAS.md`)
+### 2.1 03 — Courrier SAS (`✉️ Courriers/J+31 ✉️📜 SAS.md`)
 
 | Critère | Évaluation |
 |---|---|

@@ -43,7 +43,7 @@ L'expression "suite à" est une faute de français (calque administratif). Elle 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/J+37 ✉️🚨 CODAF.md` — ligne 125
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/J+47 📜 Plainte Complementaire.md` — ligne 224
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/J+42 ✉️ Email Maire Tavella ERP.md` — lignes 23, 43
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/J+41 ✉️ Mise en demeure Maire Foix.md` — ligne 67
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/J+41 ✉️📜 Maire Foix.md` — ligne 67
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/J+47 ✅ Checklist Deplacement Foix.md` — lignes 402, 565
 - [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/J+32 ❓ FAQ Juridique.md` — lignes 59, 104
 - [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note qualification penale disparition SAS.md` — ligne 76

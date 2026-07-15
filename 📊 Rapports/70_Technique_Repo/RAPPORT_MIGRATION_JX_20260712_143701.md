@@ -43,15 +43,15 @@ Date: 2026-07-12 14:37
   ✓  ⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md
        → ⚖️ Actes proceduraux/J+47 ⚖️ Requisitoire introductif.md
   ✓  ✉️ Courriers/03 ✉️ Courrier SAS.md
-       → ✉️ Courriers/J+31 ✉️ Mise en demeure SAS.md
+       → ✉️ Courriers/J+31 ✉️📜 SAS.md
   ✓  ✉️ Courriers/04 ✉️ Courrier Assureur.md
-       → ✉️ Courriers/J+31 ✉️ Mise en demeure Assureur.md
+       → ✉️ Courriers/J+31 ✉️📜 Assureur.md
   ✓  ✉️ Courriers/05 ✉️ Courrier Proprietaire.md
-       → ✉️ Courriers/J+31 ✉️ Mise en demeure Proprietaire.md
+       → ✉️ Courriers/J+31 ✉️📜 Proprietaire.md
   ✓  ✉️ Courriers/06 V2 ✉️ Relance Dirigeants.md
        → ✉️ Courriers/J+40 ✉️ Relance Dirigeants.md
   ✓  ✉️ Courriers/06 ✉️ Courrier President DG.md
-       → ✉️ Courriers/J+31 ✉️ Mise en demeure President.md
+       → ✉️ Courriers/J+31 ✉️📜 President.md
   ✓  ✉️ Courriers/07 ✉️ Courrier Consolidation.md
        → ✉️ Courriers/J+37 ✉️ Relance Consolidation.md
   ✓  ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
@@ -93,7 +93,7 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/28 📧 Attestation Employe.md
        → ✉️ Courriers/J+38 📧 Attestation Employe.md
   ✓  ✉️ Courriers/29 ✉️ Courrier Maire Foix.md
-       → ✉️ Courriers/J+41 ✉️ Mise en demeure Maire Foix.md
+       → ✉️ Courriers/J+41 ✉️📜 Maire Foix.md
   ✓  ✉️ Courriers/30 ✉️ Courrier President TC.md
        → ✉️ Courriers/J+41 ✉️ Opposition Radiation TC.md
   ✓  ✉️ Courriers/31 ✉️ Courrier INPI Opposition.md
@@ -187,15 +187,15 @@ Date: 2026-07-12 14:37
   ✓  ⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md
        → ⚖️ Actes proceduraux/J+47 ⚖️ Requisitoire introductif.md
   ✓  ✉️ Courriers/03 ✉️ Courrier SAS.md
-       → ✉️ Courriers/J+31 ✉️ Mise en demeure SAS.md
+       → ✉️ Courriers/J+31 ✉️📜 SAS.md
   ✓  ✉️ Courriers/04 ✉️ Courrier Assureur.md
-       → ✉️ Courriers/J+31 ✉️ Mise en demeure Assureur.md
+       → ✉️ Courriers/J+31 ✉️📜 Assureur.md
   ✓  ✉️ Courriers/05 ✉️ Courrier Proprietaire.md
-       → ✉️ Courriers/J+31 ✉️ Mise en demeure Proprietaire.md
+       → ✉️ Courriers/J+31 ✉️📜 Proprietaire.md
   ✓  ✉️ Courriers/06 V2 ✉️ Relance Dirigeants.md
        → ✉️ Courriers/J+40 ✉️ Relance Dirigeants.md
   ✓  ✉️ Courriers/06 ✉️ Courrier President DG.md
-       → ✉️ Courriers/J+31 ✉️ Mise en demeure President.md
+       → ✉️ Courriers/J+31 ✉️📜 President.md
   ✓  ✉️ Courriers/07 ✉️ Courrier Consolidation.md
        → ✉️ Courriers/J+37 ✉️ Relance Consolidation.md
   ✓  ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
@@ -237,7 +237,7 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/28 📧 Attestation Employe.md
        → ✉️ Courriers/J+38 📧 Attestation Employe.md
   ✓  ✉️ Courriers/29 ✉️ Courrier Maire Foix.md
-       → ✉️ Courriers/J+41 ✉️ Mise en demeure Maire Foix.md
+       → ✉️ Courriers/J+41 ✉️📜 Maire Foix.md
   ✓  ✉️ Courriers/30 ✉️ Courrier President TC.md
        → ✉️ Courriers/J+41 ✉️ Opposition Radiation TC.md
   ✓  ✉️ Courriers/31 ✉️ Courrier INPI Opposition.md
@@ -327,7 +327,7 @@ Date: 2026-07-12 14:37
   📄 📊 Rapports/RAPPORT_AUDIT_HERMES_20260711.md
        [parenthesized_url] 05 📋 Dossier Special CERFA.md → J+40 📋 Dossier Special CERFA.md (1x)
   📄 📊 Rapports/RAPPORT_AUDIT_REDACTION.md
-       [parenthesized_url] 03 ✉️ Courrier SAS.md → J+31 ✉️ Mise en demeure SAS.md (1x)
+       [parenthesized_url] 03 ✉️ Courrier SAS.md → J+31 ✉️📜 SAS.md (1x)
        [parenthesized_url] 10 ✉️ Courrier Doyen Juges Instruction.md → J+38 ✉️ Saisine Doyen Juges Instruction.md (1x)
        [parenthesized_url] 12 ✉️ Courrier URSSAF.md → J+37 ✉️🚨 URSSAF.md (1x)
        [parenthesized_url] 14 ✉️ Courrier CODAF.md → J+37 ✉️🚨 CODAF.md (1x)

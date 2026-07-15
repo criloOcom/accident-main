@@ -37,15 +37,15 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 ## Statut des Courriers
 
 ### 🟢 Expédiés / Déposés
-- [📜 Mises en demeure/J+31 ✉️ Mise en demeure President.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20President.md) — LRAR
-- [📜 Mises en demeure/J+31 ✉️ Mise en demeure Proprietaire.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Proprietaire.md) — AR signé
-- [📜 Mises en demeure/J+31 ✉️ Mise en demeure SAS.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md) — LRAR
+- [📜 Mises en demeure/J+31 ✉️📜 President.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20President.md) — LRAR
+- [📜 Mises en demeure/J+31 ✉️📜 Proprietaire.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Proprietaire.md) — AR signé
+- [📜 Mises en demeure/J+31 ✉️📜 SAS.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md) — LRAR
 - [⚖️ Contentieux/J+38 ✉️ Saisine Doyen Juges Instruction.md](⚖️%20Contentieux/J%2B38%20%E2%9C%89%EF%B8%8F%20Saisine%20Doyen%20Juges%20Instruction.md) — Déposé en mains propres
 - [🔄 Relances/J+40 ✉️ Relance Dirigeants.md](🔄%20Relances/J%2B40%20%E2%9C%89%EF%B8%8F%20Relance%20Dirigeants.md) — LRAR
 
 ### 🟠 Prêts pour envoi
 - [🚨 Signalements/](🚨%20Signalements/) — 8 signalements (J+37)
-- [📜 Mises en demeure/J+41 ✉️ Mise en demeure Maire Foix.md](📜%20Mises%20en%20demeure/J%2B41%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Maire%20Foix.md)
+- [📜 Mises en demeure/J+41 ✉️📜 Maire Foix.md](📜%20Mises%20en%20demeure/J%2B41%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Maire%20Foix.md)
 - [⚖️ Contentieux/J+38 ✉️ Transmission Recours Tiers CPAM.md](⚖️%20Contentieux/J%2B38%20%E2%9C%89%EF%B8%8F%20Transmission%20Recours%20Tiers%20CPAM.md)
 - [⚖️ Contentieux/J+41 ✉️ Opposition Radiation TC.md](⚖️%20Contentieux/J%2B41%20%E2%9C%89%EF%B8%8F%20Opposition%20Radiation%20TC.md)
 - [⚖️ Contentieux/J+44 ✉️ Preuves Complementaires TJ Foix.md](⚖️%20Contentieux/J%2B44%20%E2%9C%89%EF%B8%8F%20Preuves%20Complementaires%20TJ%20Foix.md)
@@ -53,7 +53,7 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 - [📝 Procédure/J+47 📋 Guide Demande AJ.md](📝%20Procédure/J%2B47%20%F0%9F%93%8B%20Guide%20Demande%20AJ.md)
 
 ### 🟡 En préparation / Brouillons
-- [📜 Mises en demeure/J+31 ✉️ Mise en demeure Assureur.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Assureur.md)
+- [📜 Mises en demeure/J+31 ✉️📜 Assureur.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur.md)
 - [📋 Attestations/](📋%20Attestations/) — 3 gabarits CERFA + 3 emails transmission
 - [⚖️ Contentieux/J+38 ✉️ Saisine FGTI.md](⚖️%20Contentieux/J%2B38%20%E2%9C%89%EF%B8%8F%20Saisine%20FGTI.md)
 - [⚖️ Contentieux/J+41 ✉️ Opposition Immatriculation INPI.md](⚖️%20Contentieux/J%2B41%20%E2%9C%89%EF%B8%8F%20Opposition%20Immatriculation%20INPI.md)
@@ -68,10 +68,10 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 ## Courriers par J+
 
 ### J+31 — Première vague de mises en demeure
-- [J+31 ✉️ Mise en demeure Assureur.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Assureur.md)
-- [J+31 ✉️ Mise en demeure SAS.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md)
-- [J+31 ✉️ Mise en demeure Proprietaire.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Proprietaire.md)
-- [J+31 ✉️ Mise en demeure President.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20President.md)
+- [J+31 ✉️📜 Assureur.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur.md)
+- [J+31 ✉️📜 SAS.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)
+- [J+31 ✉️📜 Proprietaire.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Proprietaire.md)
+- [J+31 ✉️📜 President.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20President.md)
 
 ### J+32 — Attestations
 - [J+32 📋 Attestation Employe.md](📋%20Attestations/J%2B32%20%F0%9F%93%8B%20Attestation%20Employe.md)
@@ -103,7 +103,7 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 
 ### J+40 à J+47 — Foix & suites
 - [J+40 ✉️ Relance Dirigeants.md](🔄%20Relances/J%2B40%20%E2%9C%89%EF%B8%8F%20Relance%20Dirigeants.md)
-- [J+41 ✉️ Mise en demeure Maire Foix.md](📜%20Mises%20en%20demeure/J%2B41%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Maire%20Foix.md)
+- [J+41 ✉️📜 Maire Foix.md](📜%20Mises%20en%20demeure/J%2B41%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Maire%20Foix.md)
 - [J+41 ✉️ Mutualisation Fiscale Sociale.md](📝%20Procédure/J%2B41%20%E2%9C%89%EF%B8%8F%20Mutualisation%20Fiscale%20Sociale.md)
 - [J+41 ✉️ Opposition Immatriculation INPI.md](⚖️%20Contentieux/J%2B41%20%E2%9C%89%EF%B8%8F%20Opposition%20Immatriculation%20INPI.md)
 - [J+41 ✉️ Opposition Radiation TC.md](⚖️%20Contentieux/J%2B41%20%E2%9C%89%EF%B8%8F%20Opposition%20Radiation%20TC.md)
@@ -122,8 +122,8 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 - [J+47 📜 Plainte Complementaire.md](⚖️%20Contentieux/J%2B47%20%F0%9F%93%9C%20Plainte%20Complementaire.md)
 
 ### J+50 — Mises en demeure Assureur RC
-- [J+50 ✉️ Mise en demeure Assureur RC.md](📜%20Mises%20en%20demeure/J%2B50%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Assureur%20RC.md)
-- [J+50 ✉️ Mise en demeure Assureur RC — Avocat.md](📜%20Mises%20en%20demeure/J%2B50%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Assureur%20RC%20%E2%80%94%20Avocat.md)
+- [J+50 ✉️📜 Assureur RC.md](📜%20Mises%20en%20demeure/J%2B50%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur%20RC.md)
+- [J+50 ✉️📜 Assureur RC — Avocat.md](📜%20Mises%20en%20demeure/J%2B50%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur%20RC%20%E2%80%94%20Avocat.md)
 
 ---
 

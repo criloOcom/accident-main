@@ -1,5 +1,5 @@
 ---
-title: "Mise en demeure de la Mairie — Police Administrative"
+title: "📜 Mise en demeure de la Mairie — Police Administrative"
 description: "La Victime"
 type: courrier
 date: 2026-07-09
@@ -15,7 +15,7 @@ jx: J+41
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › J+41 ✉️ Mise en demeure Maire Foix*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › J+41 ✉️📜 Maire Foix*
 <hr>
 <!-- /Breadcrumb -->
 

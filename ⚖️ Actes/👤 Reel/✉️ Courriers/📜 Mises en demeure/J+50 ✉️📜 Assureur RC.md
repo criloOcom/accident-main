@@ -1,5 +1,5 @@
 ---
-title: "Action Directe Assureur RC — Mise en demeure post-expertise (Art. L.124-3 C. assur.)"
+title: "📜 Action Directe Assureur RC — Mise en demeure post-expertise (Art. L.124-3 C. assur.)"
 description: "Déclaration de sinistre et mise en demeure de l'assureur RC de l'Exploitant du Commerce — expertise médicale consolidée (DFP 12 %, SE 4/7) — fourchette Dintilhac 120-160 k€"
 type: simulation
 date: 2026-09-01

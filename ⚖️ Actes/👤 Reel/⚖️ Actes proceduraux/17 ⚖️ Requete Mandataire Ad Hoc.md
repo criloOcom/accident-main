@@ -132,7 +132,7 @@ Le [Date de signature]
 
 - **[Extrait Kbis](../../Preuves%20officielles/20260609%20%F0%9F%93%8B%20Kbis%20SAS/20260609%20Kbis%20SAS%20L%20Exploitant.md)** — Situation juridique et capital social de la SAS
 
-- **[Mises en demeure J+31](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20SAS.md)** — LRAR restees sans reponse
+- **[Mises en demeure J+31](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)** — LRAR restees sans reponse
 <hr><hr>
 
 ## Sources Législation

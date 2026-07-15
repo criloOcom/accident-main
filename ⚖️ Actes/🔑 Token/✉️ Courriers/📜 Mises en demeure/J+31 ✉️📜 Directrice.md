@@ -1,5 +1,5 @@
 ---
-title: "Mise en Demeure — Demande d'Information Assurance RC"
+title: "📜 Mise en Demeure — Demande d'Information Assurance RC"
 description: "[L'Adresse de la Victime]"
 type: courrier
 date: 2026-06-29
@@ -13,14 +13,14 @@ tags:
 statut: envoye
 destinataire: Directrice Générale de l'Exploitant du Commerce
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/J+31 ✉️ Mise en demeure Directrice.md
+reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/J+31 ✉️📜 Directrice.md
 source: drive
 drive_id: 1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93
 jx: J+31
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › J+31 ✉️ Mise en demeure Directrice*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › J+31 ✉️📜 Directrice*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -1,5 +1,5 @@
 ---
-title: "Action Directe Assureur RC — Mise en demeure post-expertise (Art. L.124-3 C. assur.)"
+title: "📜 Action Directe Assureur RC — Mise en demeure post-expertise (Art. L.124-3 C. assur.)"
 description: "Déclaration de sinistre et mise en demeure de l'assureur RC de l'Exploitant du Commerce — expertise médicale consolidée (DFP 12 %, SE 4/7) — fourchette Dintilhac 120-160 k€"
 type: simulation
 date: 2026-09-01
@@ -14,11 +14,11 @@ tags:
 statut: simulation
 destinataire: Assureur RC de l'Exploitant du Commerce
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/J+50 ✉️ Mise en demeure Assureur RC.md
+reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/J+50 ✉️📜 Assureur RC.md
 jx: J+50
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › J+50 ✉️ Mise en demeure Assureur RC*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › J+50 ✉️📜 Assureur RC*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -111,7 +111,7 @@ Ce courrier est une **simulation** reprenant la structure du draft fourni par l'
 
 **Variante avocat :** une version "avocat" peut être générée sur demande, avec en-tête au barreau, ton plus incisif, et volet "réserve d'intérêts et de droits" renforcé.
 
-**Document remplacé :** ce document (J+50) se substitue à la précédente [mise en demeure assureur](J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Assureur.md) (J+31, pré-expertise, désormais archivée).
+**Document remplacé :** ce document (J+50) se substitue à la précédente [mise en demeure assureur](J%2B31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur.md) (J+31, pré-expertise, désormais archivée).
 
 **Documents liés :**
 - Constitution de Partie Civile consolidée : [`J+38 🛡️ Constitution Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)

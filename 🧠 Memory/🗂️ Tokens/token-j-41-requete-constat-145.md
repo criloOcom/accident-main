@@ -42,7 +42,7 @@ Les actes associés (courriers) sont les mêmes que ceux du J+41 Courrier SIE UR
 
 ## Documents liés
 
-- [J+41 ✉️ Mise en demeure Maire Foix](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/J%2B41%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Maire%20Foix.md)
+- [J+41 ✉️📜 Maire Foix](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/J%2B41%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Maire%20Foix.md)
 - [J+41 ✉️ Opposition Radiation TC](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/J%2B41%20%E2%9C%89%EF%B8%8F%20Opposition%20Radiation%20TC.md)
 - [J+41 ✉️ Opposition Immatriculation INPI](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/J%2B41%20%E2%9C%89%EF%B8%8F%20Opposition%20Immatriculation%20INPI.md)
 - [J+41 ✉️ Mutualisation Fiscale Sociale](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/J%2B41%20%E2%9C%89%EF%B8%8F%20Mutualisation%20Fiscale%20Sociale.md)

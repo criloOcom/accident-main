@@ -1,5 +1,5 @@
 ---
-title: "Mise en Demeure — Demande d'Information Assurance RC"
+title: "📜 Mise en Demeure — Demande d'Information Assurance RC"
 description: "[L'Adresse de la Victime]"
 type: courrier
 date: 2026-06-29

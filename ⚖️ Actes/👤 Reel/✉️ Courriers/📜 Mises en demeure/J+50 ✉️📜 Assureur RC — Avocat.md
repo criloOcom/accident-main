@@ -1,5 +1,5 @@
 ---
-title: "Action Directe Assureur RC — Mise en demeure avocat (Art. L.124-3 C. assur.)"
+title: "📜 Action Directe Assureur RC — Mise en demeure avocat (Art. L.124-3 C. assur.)"
 description: "Mise en demeure émise par le conseil de la Victime à l'encontre de l'assureur RC de l'Exploitant du Commerce — expertise consolidée — réserve pénale"
 type: simulation
 date: 2026-09-01

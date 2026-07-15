@@ -1,5 +1,5 @@
 ---
-title: "Action Directe Assureur RC — Mise en demeure avocat (Art. L.124-3 C. assur.)"
+title: "📜 Action Directe Assureur RC — Mise en demeure avocat (Art. L.124-3 C. assur.)"
 description: "Mise en demeure émise par le conseil de la Victime à l'encontre de l'assureur RC de l'Exploitant du Commerce — expertise consolidée — réserve pénale"
 type: simulation
 date: 2026-09-01
@@ -15,11 +15,11 @@ tags:
 statut: simulation
 destinataire: Assureur RC de l'Exploitant du Commerce
 auteur: Conseil de la Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/J+50 ✉️ Mise en demeure Assureur RC — Avocat.md
+reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/J+50 ✉️📜 Assureur RC — Avocat.md
 jx: J+50-bis
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › J+50-bis ✉️ Mise en demeure Assureur RC — Avocat*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › J+50-bis ✉️📜 Assureur RC — Avocat*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -134,7 +134,7 @@ Dans l'attente de votre retour écrit et circonstancié dans le délai imparti, 
 
 ### NOTE MÉTHODOLOGIQUE
 
-Variante « avocat » de la mise en demeure adressée à l'assureur RC, destinée à être émise dès la désignation d'un conseil. Principales différences avec la version victime ([J+50](J%2B50%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Assureur%20RC.md)) :
+Variante « avocat » de la mise en demeure adressée à l'assureur RC, destinée à être émise dès la désignation d'un conseil. Principales différences avec la version victime ([J+50](J%2B50%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur%20RC.md)) :
 
 | Élément | Version victime (J+50) | Version avocat (J+50-bis) |
 |---------|----------------------|--------------------------|
@@ -151,8 +151,8 @@ Variante « avocat » de la mise en demeure adressée à l'assureur RC, destiné
 - Référence explicite au réquisitoire J+47 et à l'information judiciaire en cours
 
 **Documents liés :**
-- Version victime : [`J+50 ✉️ Mise en demeure Assureur RC.md`](J%2B50%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Assureur%20RC.md)
-- Version J+31 archivée : [`J+31 ✉️ Mise en demeure Assureur.md`](J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Assureur.md)
+- Version victime : [`J+50 ✉️📜 Assureur RC.md`](J%2B50%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur%20RC.md)
+- Version J+31 archivée : [`J+31 ✉️📜 Assureur.md`](J%2B31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur.md)
 - Réquisitoire introductif : [`J+47 ⚖️ Requisitoire introductif.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B47%20%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md)
 <hr><hr>
 

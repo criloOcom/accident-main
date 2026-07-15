@@ -1,5 +1,5 @@
 ---
-title: "Mise en demeure de la Mairie — Police Administrative"
+title: "📜 Mise en demeure de la Mairie — Police Administrative"
 description: "La Victime"
 type: courrier
 date: 2026-07-09

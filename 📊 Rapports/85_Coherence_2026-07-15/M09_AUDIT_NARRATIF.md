@@ -112,7 +112,7 @@ Total des anomalies : 99
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/J+32 📋 Attestation Temoin Client.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 39)
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/J+32 📋 Attestation Temoin Client.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 39)
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/J+38 📧 Attestation Pompier SAMU.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 32)
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/J+41 ✉️ Mise en demeure Maire Foix.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 43)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/J+41 ✉️📜 Maire Foix.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 43)
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/J+37 ✉️🚨 INPI.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 48)
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/J+37 ✉️🚨 SDIS.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 54)
 - [ ] `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 37)
