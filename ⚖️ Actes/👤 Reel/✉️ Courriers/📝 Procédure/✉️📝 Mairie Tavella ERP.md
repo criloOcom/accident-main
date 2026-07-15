@@ -6,7 +6,7 @@ date: 2026-07-10
 statut: brouillon
 destinataire: Adjoint au Maire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) ([Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md))
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md
+reel_path: ../../../👤 Reel/✉️ Courriers/📝 Procédure/✉️📝 Mairie Tavella ERP.md
 jx: J+42
 ---
 

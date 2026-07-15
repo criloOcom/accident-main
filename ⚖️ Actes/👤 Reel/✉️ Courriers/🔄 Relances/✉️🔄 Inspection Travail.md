@@ -12,7 +12,7 @@ tags:
 statut: final — validé avocat 15/07/2026
 destinataire: DDETS de l'Ariège — Inspection du Travail
 auteur: La Victime
-reel_path: ../../👤 Reel/✉️ Courriers/✉️🔄 Inspection Travail.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Inspection Travail.md
 jx: J+47
 ---
 

@@ -14,6 +14,7 @@ statut: final
 destinataire: Avocat
 auteur: La Victime
 ---
+reel_path: ../../../👤 Reel/✉️ Courriers/📝 Procédure/✉️📝 Avocat Consultation Jimini.md
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📝 Procédure](./README.md) › ✉️📝 Avocat Consultation Jimini*

@@ -13,7 +13,7 @@ tags:
 statut: envoye
 destinataire: Dirigeants de l'Exploitant du Commerce
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/06 V2 ✉️🔄 SAS Dirigeants.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 SAS Dirigeants.md
 source: local
 jx: J+40
 ---

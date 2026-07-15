@@ -10,7 +10,7 @@ tags:
   - personnel
 statut: archive
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_FOIX.md
+reel_path: ../../../👤 Reel/✉️ Courriers/📋 Personnel/📋 Checklist Deplacement Foix.md
 jx: J+47
 ---
 

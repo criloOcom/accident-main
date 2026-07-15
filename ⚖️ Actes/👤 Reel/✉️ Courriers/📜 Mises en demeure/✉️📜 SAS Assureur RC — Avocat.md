@@ -152,7 +152,6 @@ Variante « avocat » de la mise en demeure adressée à l'assureur RC, destiné
 
 **Documents liés :**
 - Version victime : [`✉️📜 SAS Assureur RC.md`](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC.md)
-- Version J+31 archivée : [`✉️📜 SAS Assureur.md`](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur.md)
 - Réquisitoire introductif : [`⚖️ Requisitoire introductif.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md)
 <hr><hr>
 

@@ -11,7 +11,7 @@ tags:
 statut: final
 destinataire: L'Adjoint au Maire de la Commune
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Adjoint Maire Tavella.md
 source: drive
 drive_id: 1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw
 jx: J+37

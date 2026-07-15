@@ -10,7 +10,7 @@ tags:
   - personnel
 statut: archive
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md
+reel_path: ../../../👤 Reel/✉️ Courriers/📋 Personnel/📋 Guide Dialogue Police.md
 jx: J+47
 ---
 

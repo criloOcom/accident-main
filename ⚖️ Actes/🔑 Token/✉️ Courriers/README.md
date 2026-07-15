@@ -53,7 +53,6 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 - [📝 Procédure/📝 Guide Demande AJ.md](📝%20Procédure/%F0%9F%93%9D%20Guide%20Demande%20AJ.md)
 
 ### 🟡 En préparation / Brouillons
-- [📜 Mises en demeure/✉️📜 SAS Assureur.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur.md)
 - [📋s/](📋%20Attestations/) — 3 gabarits CERFA + 3 emails transmission
 - [⚖️ Contentieux/✉️⚖️ FGTI Saisine.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20FGTI%20Saisine.md)
 - [⚖️ Contentieux/✉️⚖️ INPI Opposition Immatriculation.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20INPI%20Opposition%20Immatriculation.md)
@@ -68,7 +67,6 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 ## Courriers par J+
 
 ### J+31 — Première vague de mises en demeure
-- [✉️📜 SAS Assureur.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur.md)
 - [✉️📜 SAS.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)
 - [✉️📜 Proprietaire.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Proprietaire.md)
 - [✉️📜 SAS President.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20President.md)
