@@ -185,25 +185,31 @@ Au vu des éléments ci-dessus exposés, je sollicite respectueusement qu'il soi
 Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière de conformité ERP et d'analyse financière de la société) peuvent être trouvées en **Annexe 3 : Pistes d'enquête complémentaires**, sans préjudice de votre appréciation souveraine sur les investigations utiles.
 <hr><hr>
 
+<hr><hr>
+
 ## PIECES JOINTES
 
-1. **Copie du PV initial n°2026/015967** (établi le 2 juin 2026 par le Commissariat de Toulouse)
+- **Copie du PV initial n°2026/015967** — établi le 2 juin 2026 par le Commissariat de Toulouse
 
-2. **Copie de la requête Article 145 CPC**[^13] déposée le 15 juillet 2026 devant le TJ de Foix (identification assureur RC + conservation vidéos)
+- **Copie de la requête Article 145 CPC** — déposée le 15 juillet 2026 devant le TJ de Foix (identification assureur RC + conservation vidéos)
 
-3. **Accusés de réception des LRAR retournés NPAI** (29 mai 2026)
+- **Accusés de réception des LRAR retournés NPAI** (29 mai 2026)
 
-4. **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
+- **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN 938 033 222
 
-5. **Note d'audit RNE/INPI** du 10 juillet 2026
+- **Note d'audit RNE/INPI** — du 10 juillet 2026
 
-6. **Photos de l'accident et de la vasque cassée** (datées et légendées)
+- **Photos de l'accident et de la vasque cassée** — datées et légendées
 
-7. **Certificats médicaux** ([CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md), [arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md))
+- **[CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — de microchirurgie d'urgence (suture nerveuse et tendineuse)
 
-8. **Copie des mises en demeure envoyées** aux dirigeants
+- **[arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — justifiant 56 jours d'ITT
 
-9. **Liste chronologique des démarches entreprises**
+- **Copie des mises en demeure envoyées** — aux dirigeants
+
+- **Liste chronologique des démarches entreprises**
+
+<hr><hr>
 <hr><hr>
 
 ## V — FONDEMENTS JURIDIQUES RÉCAPITULATIFS
