@@ -45,13 +45,13 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/03 ✉️ Courrier SAS.md
        → ✉️ Courriers/✉️📜 SAS.md
   ✓  ✉️ Courriers/04 ✉️ Courrier Assureur.md
-       → ✉️ Courriers/✉️📜 Assureur.md
+       → ✉️ Courriers/✉️📜 SAS Assureur.md
   ✓  ✉️ Courriers/05 ✉️ Courrier Proprietaire.md
        → ✉️ Courriers/✉️📜 Proprietaire.md
   ✓  ✉️ Courriers/06 V2 ✉️ Relance Dirigeants.md
        → ✉️ Courriers/✉️ Relance Dirigeants.md
   ✓  ✉️ Courriers/06 ✉️ Courrier President DG.md
-       → ✉️ Courriers/✉️📜 President.md
+       → ✉️ Courriers/✉️📜 SAS President.md
   ✓  ✉️ Courriers/07 ✉️ Courrier Consolidation.md
        → ✉️ Courriers/✉️ Relance Consolidation.md
   ✓  ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
@@ -189,13 +189,13 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/03 ✉️ Courrier SAS.md
        → ✉️ Courriers/✉️📜 SAS.md
   ✓  ✉️ Courriers/04 ✉️ Courrier Assureur.md
-       → ✉️ Courriers/✉️📜 Assureur.md
+       → ✉️ Courriers/✉️📜 SAS Assureur.md
   ✓  ✉️ Courriers/05 ✉️ Courrier Proprietaire.md
        → ✉️ Courriers/✉️📜 Proprietaire.md
   ✓  ✉️ Courriers/06 V2 ✉️ Relance Dirigeants.md
        → ✉️ Courriers/✉️ Relance Dirigeants.md
   ✓  ✉️ Courriers/06 ✉️ Courrier President DG.md
-       → ✉️ Courriers/✉️📜 President.md
+       → ✉️ Courriers/✉️📜 SAS President.md
   ✓  ✉️ Courriers/07 ✉️ Courrier Consolidation.md
        → ✉️ Courriers/✉️ Relance Consolidation.md
   ✓  ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md

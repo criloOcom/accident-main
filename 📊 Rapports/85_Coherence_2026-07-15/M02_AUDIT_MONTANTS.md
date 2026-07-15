@@ -76,13 +76,13 @@ type: rapport
 - [ ] **✉️ Saisine FGTI.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/⚖️ Contentieux/✉️ Saisine FGTI.md:102 — PEP utilise valeur historique/obsolète: 3000.0 € (canonique: 3500 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## ✉️📜 Assureur.md
+## ✉️📜 SAS Assureur.md
 
-- [ ] **✉️📜 Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 Assureur.md:53 — Total Estimatif utilise valeur historique/obsolète: 59600.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
-- [ ] **✉️📜 Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 Assureur.md:109 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
-- [ ] **✉️📜 Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 Assureur.md:111 — DFP utilise valeur historique/obsolète: 25000.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
-- [ ] **✉️📜 Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 Assureur.md:113 — SE utilise valeur historique/obsolète: 15000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
-- [ ] **✉️📜 Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 Assureur.md:115 — Agrément utilise valeur historique/obsolète: 5000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
+- [ ] **✉️📜 SAS Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS Assureur.md:53 — Total Estimatif utilise valeur historique/obsolète: 59600.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
+- [ ] **✉️📜 SAS Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS Assureur.md:109 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
+- [ ] **✉️📜 SAS Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS Assureur.md:111 — DFP utilise valeur historique/obsolète: 25000.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
+- [ ] **✉️📜 SAS Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS Assureur.md:113 — SE utilise valeur historique/obsolète: 15000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **✉️📜 SAS Assureur.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS Assureur.md:115 — Agrément utilise valeur historique/obsolète: 5000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
 <hr><hr>
 
 ## ✉️ Mutualisation Fiscale Sociale.md

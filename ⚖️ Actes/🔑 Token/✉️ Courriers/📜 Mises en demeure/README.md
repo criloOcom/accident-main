@@ -15,13 +15,13 @@ Mises en demeure adressées aux parties privées (exploitant, dirigeants, propri
 
 | Fichier | Destinataire | Statut |
 |---------|-------------|--------|
-| [✉️📜 Assureur.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur.md) | Assureur de l'exploitant | ⬜ Archivé (remplacé par J+50) |
-| [✉️📜 Directrice.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Directrice.md) | Directrice de l'exploitation | 🟢 Expédié |
-| [✉️📜 President.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20President.md) | Président de la SAS | 🟢 Expédié |
+| [✉️📜 SAS Assureur.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur.md) | Assureur de l'exploitant | ⬜ Archivé (remplacé par J+50) |
+| [✉️📜 SAS Directrice.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Directrice.md) | Directrice de l'exploitation | 🟢 Expédié |
+| [✉️📜 SAS President.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20President.md) | Président de la SAS | 🟢 Expédié |
 | [✉️📜 Proprietaire.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Proprietaire.md) | Propriétaire des locaux | 🟢 Expédié |
 | [✉️📜 SAS.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md) | SAS exploitante | 🟢 Expédié |
 | [✉️📜 Maire Foix.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Maire%20Foix.md) | Maire de Foix | 🟠 Prêt |
-| [✉️📜 Assureur RC.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur%20RC.md) | Assureur RC de l'exploitant (post-expertise) | 📝 Simulation |
-| [✉️📜 Assureur RC — Avocat.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur%20RC%20%E2%80%94%20Avocat.md) | Assureur RC — version avocat (post-expertise) | 📝 Simulation |
+| [✉️📜 SAS Assureur RC.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC.md) | Assureur RC de l'exploitant (post-expertise) | 📝 Simulation |
+| [✉️📜 SAS Assureur RC — Avocat.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC%20%E2%80%94%20Avocat.md) | Assureur RC — version avocat (post-expertise) | 📝 Simulation |
 
 **Cas limite** : La *Mise en demeure Maire Foix* (J+41) est aussi un acte administratif (adressé à une autorité publique) mais son objet est contentieux → classée ici comme mise en demeure.

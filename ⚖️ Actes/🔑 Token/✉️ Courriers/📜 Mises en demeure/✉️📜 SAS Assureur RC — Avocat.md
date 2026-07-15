@@ -15,7 +15,7 @@ tags:
 statut: simulation
 destinataire: Assureur RC de l'Exploitant du Commerce
 auteur: Conseil de la Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 Assureur RC — Avocat.md
+reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS Assureur RC — Avocat.md
 jx: J+50-bis
 ---
 <!-- Breadcrumb -->
@@ -27,35 +27,35 @@ jx: J+50-bis
 **Action directe — Réserve de droits — Volet pénal expressément réservé**
 
 **Maître [À compléter — Nom de l'avocat]**
-Avocat au Barreau de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
+Avocat au Barreau de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 [Adresse du cabinet]
 [Contact]
 
-**Conseil de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+**Conseil de [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 
 <hr><hr>
 
 À
 
 L'assureur responsabilité civile professionnelle de
-[SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
+[**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 [Adresse à compléter]
 **Service Sinistres**
 
-Fait à [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le **[date à compléter]**
+Fait à [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le **[date à compléter]**
 
 **Lettre recommandée avec accusé de réception**
 
-**Objet :** Mise en demeure — Action directe (art. L. 124-3 C. assur.) — Sinistre corporel du 29 mai 2026 — SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — Expertise médicale consolidée — Réserves expresses
+**Objet :** Mise en demeure — Action directe (art. L. 124-3 C. assur.) — Sinistre corporel du 29 mai 2026 — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — Expertise médicale consolidée — Réserves expresses
 
-**Réf. :** Dossier [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) / SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
+**Réf. :** Dossier [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) / SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
 Madame, Monsieur,
 
-J'interviens aux présentes en ma qualité de conseil de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md], que je représente dans le cadre du grave accident corporel dont elle a été victime le 29 mai 2026 au sein du salon de coiffure exploité par la société [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
+J'interviens aux présentes en ma qualité de conseil de [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md], que je représente dans le cadre du grave accident corporel dont elle a été victime le 29 mai 2026 au sein du salon de coiffure exploité par la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
 ## I — RAPPEL DES FAITS ET DE LEUR GRAVITÉ
 
-Le 29 mai 2026, ma cliente se trouvait installée au bac à shampoing lorsque [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md], salarié de l'établissement, est monté sur la vasque en céramique pour régler un téléviseur, en l'absence de tout équipement adapté (escabeau ou marchepied). Sous son poids, la vasque — instable et fragilisée par une cassure préexistante non signalée — a basculé. Ma cliente a instinctivement tendu sa main droite dominante pour protéger le salarié, heurtant de plein fouet l'arête tranchante de la cassure.
+Le 29 mai 2026, ma cliente se trouvait installée au bac à shampoing lorsque [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md], salarié de l'établissement, est monté sur la vasque en céramique pour régler un téléviseur, en l'absence de tout équipement adapté (escabeau ou marchepied). Sous son poids, la vasque — instable et fragilisée par une cassure préexistante non signalée — a basculé. Ma cliente a instinctivement tendu sa main droite dominante pour protéger le salarié, heurtant de plein fouet l'arête tranchante de la cassure.
 
 Cet accident a provoqué une **section complète du tendon fléchisseur profond (FDP) de l'index droit** ainsi qu'une **section du paquet vasculo-nerveux collatéral radial**, nécessitant une intervention de microchirurgie d'urgence le 30 mai 2026. Une seconde intervention de neurolyse du nerf palmaire a été requise en raison des complications cicatricielles.
 
@@ -77,14 +77,14 @@ L'article L. 124-3 du Code des assurances dispose :
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
 
-Ce texte institue un droit propre de la victime à l'encontre de l'assureur, indépendant des relations contractuelles entre l'assureur et son assuré. Il vous appartient donc, en votre qualité d'assureur potentiel de la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), de prendre position sans équivoque sur la garantie de ce sinistre.
+Ce texte institue un droit propre de la victime à l'encontre de l'assureur, indépendant des relations contractuelles entre l'assureur et son assuré. Il vous appartient donc, en votre qualité d'assureur potentiel de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), de prendre position sans équivoque sur la garantie de ce sinistre.
 <hr><hr>
 
 ## III — CARENCE DE L'ASSURÉE ET PROCÉDURE PÉNALE EN COURS
 
-Je dois porter à votre connaissance que, malgré des démarches amiables et judiciaires répétées, la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et ses dirigeants se refusent à communiquer la moindre attestation d'assurance responsabilité civile professionnelle. Ce silence fait obstacle à l'exercice de l'action directe et constitue une entrave caractérisée aux droits de ma cliente.
+Je dois porter à votre connaissance que, malgré des démarches amiables et judiciaires répétées, la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et ses dirigeants se refusent à communiquer la moindre attestation d'assurance responsabilité civile professionnelle. Ce silence fait obstacle à l'exercice de l'action directe et constitue une entrave caractérisée aux droits de ma cliente.
 
-Une **information judiciaire** a été ouverte par réquisitoire introductif du Parquet de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) en date du 15 juillet 2026 ([**J+47**](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md)), des chefs de blessures involontaires et mise en danger d'autrui, avec mission expresse d'investigation sur les conditions d'assurance de la société. Les réquisitions auprès des organismes d'assurance sont en cours.
+Une **information judiciaire** a été ouverte par réquisitoire introductif du Parquet de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) en date du 15 juillet 2026 ([**J+47**](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md)), des chefs de blessures involontaires et mise en danger d'autrui, avec mission expresse d'investigation sur les conditions d'assurance de la société. Les réquisitions auprès des organismes d'assurance sont en cours.
 
 L'obstruction persistante de l'assurée, conjuguée à l'absence de réponse de votre part, justifierait le cas échéant des réquisitions pénales complémentaires visant directement votre compagnie.
 <hr><hr>
@@ -93,7 +93,7 @@ L'obstruction persistante de l'assurée, conjuguée à l'absence de réponse de 
 
 En conséquence de ce qui précède, je vous mets formellement en demeure, au nom et pour le compte de ma cliente, de :
 
-1. **Confirmer par écrit**, dans un délai impératif de **15 jours** à compter de la réception de la présente, que vous garantissez la responsabilité civile de la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au titre de l'exploitation du salon de coiffure sis [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), pour la période incluant le 29 mai 2026 ;
+1. **Confirmer par écrit**, dans un délai impératif de **15 jours** à compter de la réception de la présente, que vous garantissez la responsabilité civile de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au titre de l'exploitation du salon de coiffure sis [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), pour la période incluant le 29 mai 2026 ;
 
 2. **Me communiquer**, dans le même délai, **copie intégrale** de la police d'assurance concernée (conditions générales et particulières) comportant :
    - le numéro de contrat et la période de validité,
@@ -112,7 +112,7 @@ Sous réserve de tous droits et moyens, y compris pénaux, expressément réserv
 
 - Saisir le juge des référés d'une demande de provision complémentaire sur le fondement de l'article 835 du Code de procédure civile, à vos frais exclusifs ;
 - Solliciter la condamnation de votre compagnie aux intérêts au taux légal majoré à compter de la présente mise en demeure, conformément à l'article L. 211-9 du Code des assurances ;
-- Demander au juge d'instruction d'étendre les réquisitions pénales aux relations contractuelles entre la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et votre compagnie ;
+- Demander au juge d'instruction d'étendre les réquisitions pénales aux relations contractuelles entre la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et votre compagnie ;
 - Engager toute action en responsabilité contre votre compagnie pour manquement à l'obligation de répondre dans le délai légal.
 
 Je joins à la présente l'intégralité des pièces déjà communiquées dans le cadre de la procédure :
@@ -134,7 +134,7 @@ Dans l'attente de votre retour écrit et circonstancié dans le délai imparti, 
 
 ### NOTE MÉTHODOLOGIQUE
 
-Variante « avocat » de la mise en demeure adressée à l'assureur RC, destinée à être émise dès la désignation d'un conseil. Principales différences avec la version victime ([J+50](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur%20RC.md)) :
+Variante « avocat » de la mise en demeure adressée à l'assureur RC, destinée à être émise dès la désignation d'un conseil. Principales différences avec la version victime ([J+50](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC.md)) :
 
 | Élément | Version victime (J+50) | Version avocat (J+50-bis) |
 |---------|----------------------|--------------------------|
@@ -151,11 +151,11 @@ Variante « avocat » de la mise en demeure adressée à l'assureur RC, destiné
 - Référence explicite au réquisitoire J+47 et à l'information judiciaire en cours
 
 **Documents liés :**
-- Version victime : [`✉️📜 Assureur RC.md`](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur%20RC.md)
-- Version J+31 archivée : [`✉️📜 Assureur.md`](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur.md)
+- Version victime : [`✉️📜 SAS Assureur RC.md`](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC.md)
+- Version J+31 archivée : [`✉️📜 SAS Assureur.md`](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur.md)
 - Réquisitoire introductif : [`⚖️ Requisitoire introductif.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md)
 <hr><hr>
 
 ## Sources Législation
 
-[^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+[^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩

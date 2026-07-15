@@ -37,7 +37,7 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 ## Statut des Courriers
 
 ### 🟢 Expédiés / Déposés
-- [📜 Mises en demeure/✉️📜 President.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20President.md) — LRAR
+- [📜 Mises en demeure/✉️📜 SAS President.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20President.md) — LRAR
 - [📜 Mises en demeure/✉️📜 Proprietaire.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Proprietaire.md) — AR signé
 - [📜 Mises en demeure/✉️📜 SAS.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md) — LRAR
 - [⚖️ Contentieux/✉️ Saisine Doyen Juges Instruction.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%20Saisine%20Doyen%20Juges%20Instruction.md) — Déposé en mains propres
@@ -53,7 +53,7 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 - [📝 Procédure/📋 Guide Demande AJ.md](📝%20Procédure/%F0%9F%93%8B%20Guide%20Demande%20AJ.md)
 
 ### 🟡 En préparation / Brouillons
-- [📜 Mises en demeure/✉️📜 Assureur.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur.md)
+- [📜 Mises en demeure/✉️📜 SAS Assureur.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur.md)
 - [📋s/](📋%20Attestations/) — 3 gabarits CERFA + 3 emails transmission
 - [⚖️ Contentieux/✉️ Saisine FGTI.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%20Saisine%20FGTI.md)
 - [⚖️ Contentieux/✉️ Opposition Immatriculation INPI.md](⚖️%20Contentieux/%E2%9C%89%EF%B8%8F%20Opposition%20Immatriculation%20INPI.md)
@@ -68,10 +68,10 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 ## Courriers par J+
 
 ### J+31 — Première vague de mises en demeure
-- [✉️📜 Assureur.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur.md)
+- [✉️📜 SAS Assureur.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur.md)
 - [✉️📜 SAS.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)
 - [✉️📜 Proprietaire.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Proprietaire.md)
-- [✉️📜 President.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20President.md)
+- [✉️📜 SAS President.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20President.md)
 
 ### J+32 — Attestations
 - [📋 Employe.md](📋%20Attestations/%F0%9F%93%8B%20Employe.md)
@@ -122,8 +122,8 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 - [📜 Plainte Complementaire.md](⚖️%20Contentieux/%F0%9F%93%9C%20Plainte%20Complementaire.md)
 
 ### J+50 — Mises en demeure Assureur RC
-- [✉️📜 Assureur RC.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur%20RC.md)
-- [✉️📜 Assureur RC — Avocat.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur%20RC%20%E2%80%94%20Avocat.md)
+- [✉️📜 SAS Assureur RC.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC.md)
+- [✉️📜 SAS Assureur RC — Avocat.md](📜%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC%20%E2%80%94%20Avocat.md)
 
 ---
 

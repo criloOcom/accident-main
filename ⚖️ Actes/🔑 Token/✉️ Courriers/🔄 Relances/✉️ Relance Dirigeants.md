@@ -166,9 +166,9 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
 
 - **[Mise en demeure J+31 — SAS](../%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)** — LRAR n° [N° LRAR Exploitant]
 
-- **[Mise en demeure J+31 — Président](../%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20President.md)** — LRAR n° [N° LRAR Président]
+- **[Mise en demeure J+31 — Président](../%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20President.md)** — LRAR n° [N° LRAR Président]
 
-- **[Mise en demeure J+31 — Directrice Générale](../%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Directrice.md)** — LRAR n° [N° LRAR Directrice]
+- **[Mise en demeure J+31 — Directrice Générale](../%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Directrice.md)** — LRAR n° [N° LRAR Directrice]
 
 - **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** — Procedure penale transmise au TJ de [La Ville de l'Accident]
 
