@@ -16,6 +16,7 @@ Mises en demeure adressées aux parties privées (exploitant, dirigeants, propri
 | Fichier | Destinataire | Statut |
 |---------|-------------|--------|
 | [J+31 ✉️📜 Assureur.md](J+31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur.md) | Assureur de l'exploitant | ⬜ Archivé (remplacé par J+50) |
+| [J+31 ✉️📜 Directrice.md](J+31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Directrice.md) | Directrice de l'exploitation | 🟢 Expédié |
 | [J+31 ✉️📜 President.md](J+31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20President.md) | Président de la SAS | 🟢 Expédié |
 | [J+31 ✉️📜 Proprietaire.md](J+31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Proprietaire.md) | Propriétaire des locaux | 🟢 Expédié |
 | [J+31 ✉️📜 SAS.md](J+31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md) | SAS exploitante | 🟢 Expédié |
