@@ -63,7 +63,7 @@ Cordialement,
 
 <hr><hr>
 
-*Fichier tokenisé — À envoyer en version réelle avec TOKEN MAP.md. Joindre le PDF du Cerfa n° 11527\*03.*
+📎 **Pièce jointe :** Joindre le PDF du Cerfa n° 11527\*03.
 ## Sources Législation
 
 [^1]: [Article 202 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330) ↩

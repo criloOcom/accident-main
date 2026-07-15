@@ -67,4 +67,4 @@ Cordialement,
 
 <hr><hr>
 
-*Fichier tokenisé — À envoyer en version réelle avec TOKEN MAP.md. Joindre le PDF du Cerfa n° 11527\*03.*
+📎 **Pièce jointe :** Joindre le PDF du Cerfa n° 11527\*03.
