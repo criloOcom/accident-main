@@ -101,6 +101,14 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
   3. Si aucune assurance RC n'est confirmée, ou si la SAS se déclare en liquidation, **saisir immédiatement la CIVI** sans attendre l'issue du procès pénal (la CIVI peut accorder une provision sur la base de l'ITT avérée).
 <hr><hr>
 
+<hr><hr>
+
+## PIECES JOINTES
+
+- **[arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — justifiant 56 jours d'ITT (pièce maîtresse pour la CIVI)
+
+<hr><hr>
+
 ## Sources Législation
 
 [^1]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)

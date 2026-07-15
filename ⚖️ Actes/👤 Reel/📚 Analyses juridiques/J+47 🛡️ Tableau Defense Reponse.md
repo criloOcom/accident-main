@@ -27,3 +27,16 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/J+47 🛡️ Tableau Defense
 | A8 | « La société n'a pas d'argent / est en cours de liquidation, on ne peut rien payer. » | Si la société a été volontairement laissée sans moyens (200 €, pas d'assurance identifiée, organisation d'insolvabilité), cela peut ouvrir d'autres angles (action contre les dirigeants à titre personnel, recherche de faute de gestion, etc.). Mais à ce stade, la priorité est déjà de **figer les preuves** et d'identifier formellement l'assureur RC éventuel. | Kbis (200 €), éventuels bilans si obtenus, LRAR, audits RNE/INPI, futures informations issues des réquisitions et de l'enquête |
 
 > Ce tableau est destiné à être partagé plus tard avec l'avocat AJ pour préparer référés, conclusions et audiences.
+<hr><hr>
+
+<hr><hr>
+
+## PIECES JOINTES
+
+- **[CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — de microchirurgie d'urgence (suture nerveuse et tendineuse)
+
+- **[arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — justifiant 56 jours d'ITT
+
+- **[Extrait Kbis de la SAS SAS LES MAUVAIS GARCONS](../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN 938 033 222, capital 200 €
+
+<hr><hr>

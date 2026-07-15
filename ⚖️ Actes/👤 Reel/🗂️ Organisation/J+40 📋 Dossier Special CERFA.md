@@ -111,6 +111,16 @@ Si Sébastien souhaite solliciter l'aide de l'État pour couvrir les frais de ju
 5. L'attestation de non-prise en charge par l'assureur (complétée par l'assureur confirmant l'absence de garantie Protection Juridique).
 <hr><hr>
 
+<hr><hr>
+
+## PIECES JOINTES
+
+- **[Certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — constatant les blessures, rédigé par Dr Julie JARDON (29 mai 2026)
+
+- **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — de microchirurgie d'urgence (suture nerveuse et tendineuse)
+
+<hr><hr>
+
 ## Sources Législation
 
 [^1]: [Article 202 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330)

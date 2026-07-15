@@ -232,6 +232,16 @@ Documents non indexés conservés dans `archives/` :
 15. Ancien « Bordereau de pieces.md » supprimé ✓
 <hr><hr>
 
+<hr><hr>
+
+## PIECES JOINTES
+
+- **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — de microchirurgie d'urgence (suture nerveuse et tendineuse)
+
+- **[dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — n° 31727387 (CPAM)
+
+<hr><hr>
+
 ## RÉFÉRENCES JURISPRUDENTIELLES
 
 - [Arrêt Costedoat : Ass. Plén., 25 février 2000, n° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)[^6]
