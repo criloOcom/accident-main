@@ -49,4 +49,3 @@ Dans l'attente, je vous prie d'agréer, Docteur, l'expression de mes salutations
 
 <hr><hr>
 
-*Fichier tokenisé — À envoyer en version réelle avec TOKEN MAP.md*

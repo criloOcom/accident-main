@@ -91,7 +91,7 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/27 📧📋 Pompier SAMU.md
        → ✉️ Courriers/📋 Pompier SAMU 📧 Mail.md
   ✓  ✉️ Courriers/28 📧📋 Employe.md
-       → ✉️ Courriers/📋 Employe 📧 Mail.md
+       → ✉️ Courriers/📋 Employe 📧Mail.md
   ✓  ✉️ Courriers/29 ✉️ Courrier Maire Foix.md
        → ✉️ Courriers/✉️📜 Maire Foix.md
   ✓  ✉️ Courriers/30 ✉️ Courrier President TC.md
@@ -235,7 +235,7 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/27 📧📋 Pompier SAMU.md
        → ✉️ Courriers/📋 Pompier SAMU 📧 Mail.md
   ✓  ✉️ Courriers/28 📧📋 Employe.md
-       → ✉️ Courriers/📋 Employe 📧 Mail.md
+       → ✉️ Courriers/📋 Employe 📧Mail.md
   ✓  ✉️ Courriers/29 ✉️ Courrier Maire Foix.md
        → ✉️ Courriers/✉️📜 Maire Foix.md
   ✓  ✉️ Courriers/30 ✉️ Courrier President TC.md

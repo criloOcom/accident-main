@@ -50,7 +50,7 @@ Conformément à l'Article 202 du Code de procédure civile, ce document permet 
 [23 📋 Pompier SAMU.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Pompier%20SAMU%20%F0%9F%93%A7%20Mail.md) (Email de relance : [27 📧📋 Pompier SAMU.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Pompier%20SAMU%20%F0%9F%93%A7%20Mail.md))
 
 #### **L'Employé du Salon (Témoin de la défectuosité préalable)**
-[📋 Employe.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Employe.md) (Email de relance : [28 📧📋 Employe.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Employe%20%F0%9F%93%A7%20Mail.md))
+[📋 Employe.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Employe.md) (Email de relance : [28 📧📋 Employe.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Employe%20%F0%9F%93%A7Mail.md))
 
 ### B. Pièce obligatoire à joindre
 
