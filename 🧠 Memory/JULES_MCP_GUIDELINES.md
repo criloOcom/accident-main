@@ -19,7 +19,7 @@ Ce document consigne les règles permanentes apprises de la documentation de blo
 
 Lors de l'appel à l'outil `create_session` de Jules via MCP, les paramètres optionnels suivants sont **OBLIGATOIRES** dans notre environnement de production :
 - `repo` : Toujours renseigner `"criloOcom/accident-main"`
-- `branch` : Toujours spécifier une branche unique au format `jules/M[Numéro]-[Thématique]`
+- `branch` : Toujours `"main"` (branche de base existante sur le remote). Jules crée sa propre branche de travail en interne pour la PR — ne pas inventer un nom de branche.
 - `autoPr` : Toujours mettre à `true`
 
 Si ces arguments sont omis, Jules démarre en mode **"repoless"** (sans dépôt), rendant impossible toute édition physique ou soumission de modifications de code dans le projet.

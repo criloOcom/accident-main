@@ -197,7 +197,7 @@ Il est formellement interdit de qualifier un document de « Envoyé » sur le se
 ### #12.0 — Connexion au dépôt (OBLIGATOIRE)
 - Tout appel à `jules_create_session` DOIT impérativement inclure :
   - `repo` : `"criloOcom/accident-main"`
-  - `branch` : une branche unique au format `jules/M[Numéro]-[Thématique]` (ex: `jules/M13-checklist-2026`)
+  - `branch` : `"main"` (branche de base existante sur le remote — Jules crée sa propre branche de PR en interne)
   - `autoPr` : `true`
 - Sans ces paramètres, Jules démarre en mode "repoless" (sans dépôt) et ne peut ni créer de branche, ni soumettre de PR, ni éditer le code.
 - Lire 🧠 Memory/JULES_MCP_GUIDELINES.md avant tout appel à Jules.
