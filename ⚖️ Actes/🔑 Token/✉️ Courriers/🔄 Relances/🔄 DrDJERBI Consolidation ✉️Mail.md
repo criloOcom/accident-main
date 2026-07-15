@@ -10,13 +10,13 @@ tags:
 statut: brouillon
 destinataire: Le Chirurgien SOS Main
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/25 📧 Relance Dr DJERBI.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md
 source: local
 jx: J+38
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🔄 Relances](./README.md) › 📧 Relance Dr DJERBI Consolidation*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🔄 Relances](./README.md) › 🔄 DrDJERBI Consolidation ✉️Mail*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -49,4 +49,3 @@ Dans l'attente, je vous prie d'agréer, Docteur, l'expression de mes salutations
 
 <hr><hr>
 
-*Fichier tokenisé — À envoyer en version réelle avec TOKEN MAP.md*

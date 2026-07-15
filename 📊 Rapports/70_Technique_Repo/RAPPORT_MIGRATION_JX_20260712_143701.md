@@ -85,7 +85,7 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/23 📋 Pompier SAMU.md
        → ✉️ Courriers/📋 Pompier SAMU.md
   ✓  ✉️ Courriers/25 📧 Relance Dr DJERBI.md
-       → ✉️ Courriers/📧 Relance Dr DJERBI Consolidation.md
+       → ✉️ Courriers/🔄 DrDJERBI Consolidation ✉️Mail.md
   ✓  ✉️ Courriers/26 📧📋 Temoin Client.md
        → ✉️ Courriers/📋 Temoin Client 📧 Mail.md
   ✓  ✉️ Courriers/27 📧📋 Pompier SAMU.md
@@ -229,7 +229,7 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/23 📋 Pompier SAMU.md
        → ✉️ Courriers/📋 Pompier SAMU.md
   ✓  ✉️ Courriers/25 📧 Relance Dr DJERBI.md
-       → ✉️ Courriers/📧 Relance Dr DJERBI Consolidation.md
+       → ✉️ Courriers/🔄 DrDJERBI Consolidation ✉️Mail.md
   ✓  ✉️ Courriers/26 📧📋 Temoin Client.md
        → ✉️ Courriers/📋 Temoin Client 📧 Mail.md
   ✓  ✉️ Courriers/27 📧📋 Pompier SAMU.md

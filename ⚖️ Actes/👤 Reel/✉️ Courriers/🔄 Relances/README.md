@@ -5,6 +5,6 @@
 - [✉️ Relance Inspection Travail.md](✉️ Relance Inspection Travail.md)
 - [✉️ Relance Prefecture CODAF.md](✉️ Relance Prefecture CODAF.md)
 - [✉️ Suivi Adjoint Maire Tavella.md](✉️ Suivi Adjoint Maire Tavella.md)
-- [📧 Relance Dr DJERBI Consolidation.md](📧 Relance Dr DJERBI Consolidation.md)
+- [🔄 DrDJERBI Consolidation ✉️Mail.md](🔄 DrDJERBI Consolidation ✉️Mail.md)
 - [🔄 Relance CPAM.md](🔄 Relance CPAM.md)
 - [🔄 Relance Police Videos.md](🔄 Relance Police Videos.md)

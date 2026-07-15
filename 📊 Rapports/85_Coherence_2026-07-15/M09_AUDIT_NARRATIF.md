@@ -41,7 +41,7 @@ Total des anomalies : 99
 - [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🚔 PV Audition Plainte Complementaire Foix.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 58)
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/📜 Plainte Complementaire.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 293)
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/📋 Antiseche Orale Plainte.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 39)
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/📧 Relance Dr DJERBI Consolidation.md` : Fuite de nom réel (Djerbi) dans un fichier Token (ligne 13)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md` : Fuite de nom réel (Djerbi) dans un fichier Token (ligne 13)
 - [ ] `⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md` : Fuite de nom réel (Djerbi) dans un fichier Token (ligne 33)
 - [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 52)
 - [ ] `📊 Rapports/10_Pilotage/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 61)

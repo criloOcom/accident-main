@@ -75,7 +75,7 @@ type: rapport
   * Priorité : Moyenne
   * Statut : À faire
   * Note : Obtenir le certificat de consolidation.
-  * Fichier : [Relance Dr DJERBI](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%93%A7%20Relance%20Dr%20DJERBI%20Consolidation.md)
+  * Fichier : [Relance Dr DJERBI](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20DrDJERBI%20Consolidation%20%E2%9C%89%EF%B8%8FMail.md)
 
 * **Attestations Témoins** (J+60)
   * Priorité : Moyenne

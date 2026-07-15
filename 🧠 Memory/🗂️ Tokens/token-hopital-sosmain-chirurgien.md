@@ -43,7 +43,7 @@ Il assure ensuite le **suivi chirurgical** : contrôle J+21 le 19 juin 2026 ([J+
 - [CR opératoire — 30/05/2026](../../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)
 - [CR contrôle Dr DJERBI — 19/06/2026](../../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260619%20%F0%9F%A9%BA%20DrDJERBI%20MAIL/20260619-1528%20MAIL%20DrDjerbi.md)
 - [Bilan Dr DJERBI (consolidation)](../../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260623%20%F0%9F%A9%BA%20DrDJERBI%20RDV/20260623-1730%20DR%20DJERBI%20Bilan.md)
-- [Relance Dr DJERBI Consolidation J+38](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%93%A7%20Relance%20Dr%20DJERBI%20Consolidation.md)
+- [Relance Dr DJERBI Consolidation J+38](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20DrDJERBI%20Consolidation%20%E2%9C%89%EF%B8%8FMail.md)
 
 ## Source
 
