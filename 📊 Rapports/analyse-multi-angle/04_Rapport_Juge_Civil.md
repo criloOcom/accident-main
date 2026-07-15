@@ -62,7 +62,7 @@ Le montant global réclamé peut être très hétérogène (de l'évaluation opt
 En l'état du dossier, les montants évaluatifs de compromis retenus pour une provision ou une condamnation sont les suivants :
 
 - **Déficit Fonctionnel Permanent (DFP)** : 25 000 € (évalué provisoirement autour de 10 % dans l'attente du rapport final d'expertise médicale).
-- **Souffrances Endurées (SE)** : 15 000 €.
+- **Souffrances Endurées (SE)** : 14 000 €.
 - **Préjudice d'Agrément** : 5 000 € (incluant la gêne pour la pratique de la guitare).
 - **Frais Divers** : 3 000 € (incluant déplacements et honoraires d'assistance).
 - **Total de compromis recommandé** : Environ **85 000 €** globalement.
