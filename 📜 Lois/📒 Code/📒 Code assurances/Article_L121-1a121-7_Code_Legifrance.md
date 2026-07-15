@@ -10,7 +10,7 @@ article: 121-1 à 121-7
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Autres codes](./README.md) › Article L121-1a121-7 Code Legifrance*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code assurances](./README.md) › Article L121-1a121-7 Code Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

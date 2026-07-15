@@ -10,7 +10,7 @@ article: R143-2
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Autres codes](./README.md) › Article R143-2 Codeconstructionhabitation Legifrance*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code construction habitation](./README.md) › Article R143-2 Codeconstructionhabitation Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

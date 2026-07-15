@@ -53,9 +53,11 @@ Ce dossier contient l'index complet et organisé de tous les textes de loi et ar
 - [Article L113-2](../📒%20Code/📒%20Code%20assurances/Article_L113-2_Codesassurances_Legifrance.md - Obligation de déclaration du risque
 - [Article L124-3](../📒%20Code/📒%20Code%20assurances/Article_L124-3_Codesassurances_Legifrance.md - Action directe de la victime
 
-#### 📜 Autres Codes (2 articles)
-- [Article L421-3](../📒%20Code/📒%20Autres%20codes/Article_L421-3_Codeconsommation_Legifrance.md - Sécurité des consommateurs (Code de la consommation)
-- [Article R143-2](../📒%20Code/📒%20Autres%20codes/Article_R143-2_Codeconstructionhabitation_Legifrance.md - Sécurité des ERP (Code de la construction)
+#### 📜 Code de la consommation (1 article)
+- [Article L421-3](../📒%20Code/📒%20Code%20consommation/Article_L421-3_Codeconsommation_Legifrance.md - Obligation générale de sécurité (Code de la consommation)
+
+#### 📜 Code de la construction et de l'habitation (1 article)
+- [Article R143-2](../📒%20Code/📒%20Code%20construction%20habitation/Article_R143-2_Codeconstructionhabitation_Legifrance.md - Définition des ERP (Code de la construction)
 
 ### 🏛️ Jurisprudence (24 arrêts)
 

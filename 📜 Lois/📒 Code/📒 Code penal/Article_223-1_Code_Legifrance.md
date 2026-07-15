@@ -10,7 +10,7 @@ article: 223-1
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Autres codes](./README.md) › Article 223-1 Code Legifrance*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code penal](./README.md) › Article 223-1 Code Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

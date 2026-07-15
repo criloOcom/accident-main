@@ -20,15 +20,21 @@ Chaque fichier est une fiche dédiée, conservant le texte intégral ou un extra
 graph LR
     L[📜 Lois] --> CD[📒 Code]
     CD --> C[📒 Code civil]
-    CD --> CO[📒 Code commercial]
-    L --> AC[📒 Autres codes]
+    CD --> CP[📒 Code pénal]
+    CD --> CPC[📒 Code proc. civile]
+    CD --> CPP[📒 Code proc. pénale]
+    CD --> CA[📒 Code assurances]
+    CD --> CC[📒 Code commerce]
+    CD --> CGCT[📒 CGCT]
+    CD --> CONSO[📒 Code consommation]
+    CD --> CCH[📒 Code constr. habitation]
+    CD --> AC[📒 Autres codes - vide]
     L --> J[📜 Jurisprudence]
     L --> I[📊 Index]
     C --> C1[Art. 1240]
-    C --> C2[Art. 121-3]
-    AC --> AC1[Art. 223-1 CP]
-    AC --> AC2[Art. L611-3 C.com]
-    AC --> AC3[Art. L227-1 C.com]
+    CP --> CP1[Art. 223-1]
+    CC --> CC1[Art. L611-3]
+    CC --> CC2[Art. L227-1]
     J --> J1[Arrêts Civ. 2e]
     J --> J2[Arrêt 17-26.282]
 ```
@@ -46,14 +52,17 @@ Le dossier a été réorganisé pour une meilleure navigation :
 │   ├── 🏛️ Action directe et assurance/            # 3 arrêts
 │   ├── 🏛️ Responsabilité du commettant/           # 2 arrêts
 │   └── 🏛️ Mise en danger d'autrui/                # 1 arrêt
-├── 📒 Code/                  # 7 sous-dossiers
-│   ├── 📒 Code civil/             # 5 articles
-│   ├── 📒 Code penal/             # 4 articles
-│   ├── 📒 Code procedure civile/  # 4 articles
-│   ├── 📒 Code procedure penale/  # 2 articles
-│   ├── 📒 Code assurances/         # 2 articles
-│   ├── 📒 Code commerce/          # 6 articles
-│   └── 📒 Autres codes/            # CGCT, C.trav, CCH, etc. (7 articles)
+├── 📒 Code/                  # 9 sous-dossiers
+│   ├── 📒 Code civil/                            # 5 articles
+│   ├── 📒 Code pénal/                            # 9 articles
+│   ├── 📒 Code procédure civile/                 # 4 articles
+│   ├── 📒 Code procédure pénale/                 # 2 articles
+│   ├── 📒 Code assurances/                       # 3 articles
+│   ├── 📒 Code commerce/                         # 8 articles
+│   ├── 📒 Code Général des Collectivités Territoriales/ # 2 articles
+│   ├── 📒 Code consommation/                     # 1 article
+│   ├── 📒 Code construction habitation/          # 1 article
+│   └── 📒 Autres codes/                           # vide (articles déplacés)
 └── README.md                 # Ce fichier
 ```
 
@@ -66,11 +75,12 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784) [Art. 1720](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article1720_CodeCivil_LegiFrance.md) — Obligations du bailleur (grosses réparations)
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259) [Art. 2226](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article_2226_Code_Legifrance.md) — Prescription décennale
 
-### [📒 Code pénal (8 articles)](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/README.md)
-- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) [Art. 121-3](%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/Article_121-3_Code_Legifrance.md) — Principe de la responsabilité pénale — intention, imprudence, mise en danger délibérée
+### [📒 Code pénal (9 articles)](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/README.md)
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) [Art. 121-3](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/Article_121-3_Code_Legifrance.md) — Principe de la responsabilité pénale — intention, imprudence, mise en danger délibérée
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417206) [Art. 121-1 à 121-7](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/Article_121-1a121-7_CodePenal_Legifrance.md) — Principes généraux de la responsabilité pénale
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) [Art. 222-19](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/Article_222-19_CodePenal_Legifrance.md) — Blessures involontaires
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) [Art. 222-20](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/Article222-20_CodePenal_LegiFrance.md) — Blessures avec circonstances aggravantes
-- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637) [Art. 223-1](%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/Article_223-1_Code_Legifrance.md) — Mise en danger d'autrui
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637) [Art. 223-1](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/Article_223-1_Code_Legifrance.md) — Mise en danger d'autrui
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226) [Art. 314-7](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/Article_314-7_CodePenal_Legifrance.md) — Fraude sociale
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) [Art. 434-4](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/Article_434-4_CodePenal_Legifrance.md) — Refus de communication
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641) [Art. 434-15](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/Article_434-15_CodePenal_Legifrance.md) — Obstruction à la justice
@@ -86,25 +96,30 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) [Art. 475-1](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20penale/Article475-1_CodeProcedurePenale.md) — Constitution de partie civile
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625) [Art. 706-3](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20penale/Article_706-3_CodeProcedurePenale_Legifrance.md) — FGTI
 
-### [📒 Code des assurances (2 articles)](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/README.md)
+### [📒 Code des assurances (3 articles)](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/README.md)
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) [Art. L.113-2](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/Article_L113-2_Codesassurances_Legifrance.md) — Déclaration du risque
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) [Art. L.124-3](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/Article_L124-3_Codesassurances_Legifrance.md) — Action directe
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417206) [Art. 121-1 à 121-7](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/Article_L121-1a121-7_Code_Legifrance.md) — Principes généraux de la responsabilité pénale (personnes morales)
 
-### [📒 Code de commerce (6 articles)](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/README.md)
+### [📒 Code de commerce (8 articles)](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/README.md)
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222358) [Art. L.210-6](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L210-6_Codecommerce_Legifrance.md) — Responsabilité des dirigeants
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141) [Art. L.223-22](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L223-22_Codecommerce_Legifrance.md) — Nullité des actes
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) [Art. L.225-251](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L225-251_Codecommerce_Legifrance.md) — Responsabilité en cas de liquidation
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) [Art. L.227-8](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L227-8_Codecommerce_Legifrance.md) — Responsabilité des dirigeants de SAS
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047591332) [Art. L.227-1](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L227-1_Code_Legifrance.md) — Pouvoirs du président
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063) [Art. L.237-2](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L237-2_Codecommerce_Legifrance.md) — Responsabilité des dirigeants
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051752672) [Art. L.123-2](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L123-2_Code_Legifrance.md) — Immatriculation des commerçants au RCS
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052542) [Art. L.611-3](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L611-3_Code_Legifrance.md) — Procédure de sauvegarde
 
-### [📒 Autres codes (7 articles)](%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/README.md)
-- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) [Art. L.421-3](%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/Article_L421-3_Codeconsommation_Legifrance.md) — Sécurité des consommateurs
-- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818941) [Art. R.143-2](%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/Article_R143-2_Codeconstructionhabitation_Legifrance.md) — Sécurité des ERP
-- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370) [Art. L.2212-2](%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/Article_L2212-2_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Pouvoirs de police du maire
-- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390155) [Art. L.2212-4](%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/Article_L2212-4_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Mesures d'urgence du maire
-- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052542) [Art. L.611-3](%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/Article_L611-3_Code_Legifrance.md) — Procédure de sauvegarde
-- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051752672) [Art. L.123-2](%F0%9F%93%92%20Code/%F0%9F%93%92%20Autres%20codes/Article_L123-2_Code_Legifrance.md) — Immatriculation des sociétés
+### [📒 Code Général des Collectivités Territoriales (2 articles)](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20general%20des%20collectivites%20territoriales/README.md)
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370) [Art. L.2212-2](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20general%20des%20collectivites%20territoriales/Article_L2212-2_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Pouvoirs de police du maire
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390155) [Art. L.2212-4](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20general%20des%20collectivites%20territoriales/Article_L2212-4_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Mesures d'urgence du maire
+
+### [📒 Code de la consommation (1 article)](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20consommation/README.md)
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) [Art. L.421-3](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20consommation/Article_L421-3_Codeconsommation_Legifrance.md) — Obligation générale de sécurité des prestations de services
+
+### [📒 Code de la construction et de l'habitation (1 article)](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20construction%20habitation/README.md)
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818941) [Art. R.143-2](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20construction%20habitation/Article_R143-2_Codeconstructionhabitation_Legifrance.md) — Définition des ERP
 
 ## 🏛️ Jurisprudence (Cour de cassation) — 29 arrêts
 

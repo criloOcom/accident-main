@@ -10,7 +10,7 @@ article: L2212-2
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Autres codes](./README.md) › Article L2212-2 CodeGeneralCollectivitesTerritoriales Legifrance*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code general des collectivites territoriales](./README.md) › Article L2212-2 CodeGeneralCollectivitesTerritoriales Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

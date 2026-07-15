@@ -10,7 +10,7 @@ article: L611-3
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Autres codes](./README.md) › Article L611-3 Code Legifrance*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code commerce](./README.md) › Article L611-3 Code Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

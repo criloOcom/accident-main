@@ -11,15 +11,13 @@ type: readme
 
 # 📒 Code assurances
 
----
-
 **Dossier contenant les articles du Code des assurances.**
 
 ## Liste des articles
 
-- [L113-2](Article_L113-2_Codesassurances_Legifrance.md)
-- [L124-3](Article_L124-3_Codesassurances_Legifrance.md)
+- [L113-2](Article_L113-2_Codesassurances_Legifrance.md) — Déclaration du risque
+- [L121-1 à 121-7](Article_L121-1a121-7_Code_Legifrance.md) — Principes généraux de la responsabilité pénale (Code pénal, applicable aux personnes morales d'assurance)
 
 ---
 
-> **Dernière mise à jour :** 11 juillet 2026
+> **Dernière mise à jour :** 15 juillet 2026
