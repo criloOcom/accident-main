@@ -68,6 +68,8 @@ Sur la base du barème Mornet (2024) et de la Nomenclature Dintilhac, un terrain
 
 Une indemnisation transactionnelle globale autour de **85 000 € à 100 000 €** apparaît comme un point d'équilibre, permettant à la victime d'obtenir une juste réparation sans épuiser les années de procédure, et aux dirigeants de la SAS de limiter leur exposition personnelle à des montants bien supérieurs (projections à plus de 160 000 €).
 
+> Cette proposition transactionnelle (85–100 k€) reste en-deçà de la fourchette d'évaluation intégrale des préjudices (120–160 k€).
+
 <hr><hr>
 
 ## IV — RECOMMANDATIONS DU MÉDIATEUR

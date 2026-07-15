@@ -39,7 +39,7 @@ type: rapport
 - **Évaluation initiale (obsolète)** : 59 600 € (sous-évaluée sur SE, IP, DFP, oubli DFT, PEP, ATP)
 - **Évaluation Dintilhac consolidée** : 109 500 € (optimiste, incluant majorations)
 - **Évaluation Glose (conservative)** : 45 000 € (médian)
-- **Protocole compromis recommandé** : 85 000 €
+- **Protocole compromis recommandé** : 85 000 € (ce montant s'inscrit dans une fourchette Dintilhac globale de 120 000 € à 160 000 €)
 
 **Référence à privilégier :** L'évaluation Dintilhac consolidée (~109 500 € ou 161 500 € après majorations de juillet) ou le protocole de compromis (85 000 €). L'évaluation initiale de 59 600 € ne doit plus être utilisée comme référence pour la négociation/contentieux.
 

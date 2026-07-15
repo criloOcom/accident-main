@@ -15,7 +15,7 @@ type: rapport
 **Objet :** Analyse exhaustive des risques pesant sur l'issue du dossier Accident Main
 **Victime :** `**[La Victime]**`
 **Mis en cause :** `**[L'Exploitant du Commerce (La SAS)]**` / `**[Le Président de l'Exploitation]**` / `**[La Directrice Générale de l'Exploitation]**`
-**Montant estimé :** ~85 000 – 105 000 € (Dintilhac)
+**Montant estimé :** ~120 000 – 160 000 € (fourchette Dintilhac actuelle)
 
 ---
 
@@ -154,7 +154,7 @@ Chaque risque est évalué selon trois axes :
 | **Sévérité** | **4 🟠** |
 | **Tendance** | → Irréversible (plus le temps passe, plus la perte est définitive) |
 | **Facteurs aggravants** | Salon fermé — personne ne conserve les bandes. Délai de 30 jours réglementaire (art. L. 613-1 CSI) |
-| **Atténuation existante** | PV police (basculement), attestations témoins (3 gabarits Cerfa prêts), constat huissier possible |
+| **Atténuation existante** | PV police (basculement), gabarits Cerfa pour témoins potentiels (prêts), constat huissier possible |
 | **Plan d'atténuation** | Mandater huissier URGENT pour constat des lieux (Art. 145 CPC). Renforcer témoignages. Mentionner la perte dans les conclusions |
 
 ---
@@ -533,7 +533,7 @@ Chaque risque est évalué selon trois axes :
 | U2 | **Contacter un huissier de justice** pour constat conservatoire Art. 145 | R4 (vidéo), R5 (preuves) | 30 min |
 | U3 | **Envoyer Vague 2 LRAR** (7 courriers) avant le 14 juillet férié | R6 (NPAI), R8 (dirigeants) | 2 h |
 | U4 | **Signaler au Procureur de la République** le risque de suppression frauduleuse de la SAS | R8 (fuite) | 30 min |
-| U5 | **Transmettre les emails des 3 témoins + Dr DJERBI** à l'agent IA | R14 (consolidation), R4 (témoins) | 15 min |
+| U5 | **Transmettre les coordonnées des témoins potentiels + Dr DJERBI** à l'agent IA | R14 (consolidation), R4 (témoins) | 15 min |
 
 ### 4.2 Actions court terme (J+3-J+10 : 13-20 juillet 2026)
 
@@ -541,7 +541,7 @@ Chaque risque est évalué selon trois axes :
 |---|--------|---------------|--------|
 | T1 | **Mandater un avocat** (spécialisé dommage corporel, barreau Toulouse) | R3 (avocat), R7 (calendrier) | 1-2 h |
 | T2 | **Déposer les assignations** (référé-provision + Art. 145) via l'avocat | R1 (assureur), R7 (calendrier) | Variable |
-| T3 | **Envoyer attestations Cerfa aux témoins** ([pièces 22-24](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md)) | R4 (vidéo), R5 (preuves) | 30 min |
+| T3 | **Envoyer attestations Cerfa aux témoins potentiels** ([pièces 22-24](../⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/J%2B39%20📑%20Bordereau%20Unifie.md)) — si identifiés et consentants | R4 (vidéo), R5 (preuves) | 30 min |
 | T4 | **Relancer Dr DJERBI** pour certificat consolidation (email 25) | R14 (consolidation) | 15 min |
 | T5 | **Demander la désignation d'un expert judiciaire** dans le cadre du référé | R14 (consolidation) | Inclus T2 |
 

@@ -67,10 +67,12 @@ En l'état du dossier, les montants évaluatifs de compromis retenus pour une pr
 - **Frais Divers** : 3 000 € (incluant déplacements et honoraires d'assistance).
 - **Total de compromis recommandé** : Environ **85 000 €** globalement.
 
+> Ce montant de compromis (≈ 85 000 €) s'inscrit dans une fourchette d'évaluation globale des préjudices comprise entre 120 000 € et 160 000 € (barème Dintilhac).
+
 En l'espèce, si l'affaire venait au fond demain, le Tribunal allouerait ce montant, qui apparaît comme un équilibre juste au vu du Barème Mornet et de la jurisprudence locale pour ce type de séquelles.
 
 <hr><hr>
 
 ## V — CONCLUSION
 
-**[L'Exploitant du Commerce (La SAS)]** engage sa responsabilité civile délictuelle sur le fondement de l'article 1242 alinéa 1 du Code civil. L'anormalité de la chose (basculement d'une vasque fixe) et l'absence de faute de **[La Victime]** conduisent à une réparation intégrale. Le montant global de la réparation est évalué, de manière réaliste, à environ 85 000 €.
+**[L'Exploitant du Commerce (La SAS)]** engage sa responsabilité civile délictuelle sur le fondement de l'article 1242 alinéa 1 du Code civil. L'anormalité de la chose (basculement d'une vasque fixe) et l'absence de faute de **[La Victime]** conduisent à une réparation intégrale. Le montant global de la réparation est évalué, de manière réaliste, à environ 85 000 €. Ce montant correspond à un scénario de compromis dans une fourchette Dintilhac globale de 120 000 € à 160 000 €.
