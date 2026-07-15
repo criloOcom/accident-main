@@ -88,9 +88,9 @@ Un document ne peut être qualifié de **« ENVOYÉ »** que si une **preuve mat
 
 | N° | Document | Blocage |
 |:--:|----------|---------|
-| 22 | [Attestation témoin client](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Attestations/J%2B32%20%F0%9F%93%8B%20Attestation%20Temoin%20Client.md) | Pas de témoin identifié |
-| 23 | [Attestation pompier SAMU](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Attestations/J%2B32%20%F0%9F%93%8B%20Attestation%20Pompier%20SAMU.md) | Coordonnées pompier inconnues |
-| 24 | [Attestation employé](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Attestations/J%2B32%20%F0%9F%93%8B%20Attestation%20Employe.md) | Pas d'employé SAS identifié |
+| 22 | [Attestation témoin client](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/J%2B32%20%F0%9F%93%8B%20Temoin%20Client.md) | Pas de témoin identifié |
+| 23 | [Attestation pompier SAMU](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/J%2B32%20%F0%9F%93%8B%20Pompier%20SAMU.md) | Coordonnées pompier inconnues |
+| 24 | [Attestation employé](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/J%2B32%20%F0%9F%93%8B%20Employe.md) | Pas d'employé SAS identifié |
 
 ## 5. Sanction
 

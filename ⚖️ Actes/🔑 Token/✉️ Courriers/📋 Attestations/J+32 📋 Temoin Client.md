@@ -1,5 +1,5 @@
 ---
-title: "J+32 Gabarit Attestation Temoin Client - V1"
+title: "📋 J+32 Gabarit Attestation Temoin Client - V1"
 description: "Je soussigné(e) [À compléter],"
 type: courrier
 date: 2026-06-30
@@ -7,13 +7,13 @@ tags:
   - dossier
 statut: projet
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/J+32 📋 Attestation Temoin Client.md
+reel_path: ../../../👤 Reel/✉️ Courriers/J+32 📋 Temoin Client.md
 source: drive
 drive_id: 1mLVji0_j8CTh2TjPr7bXAkoBaR2NmWEH89KXTk7Xbk4
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📋 Attestations](./README.md) › J+32 📋 Attestation Temoin Client*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📋s](./README.md) › J+32 📋 Temoin Client*
 <hr>
 <!-- /Breadcrumb -->
 

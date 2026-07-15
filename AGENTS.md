@@ -23,7 +23,7 @@ Ce fichier est le point d'entrée pour tous les agents (opencode, anti-gravity, 
 │   ├── 🔑 Token/                 ← Versions tokenisées (travail courant)
 │   │   ├── 📂 Preuves officielles/  ← Preuves brutes + inventaire
 │   │   ├── ⚖️ Actes proceduraux/
-│   │   ├── ✉️ Courriers/              ← 44 docs rangés par type d'acte (📜 Mises en demeure, 🚨 Signalements, 🔄 Relances, ⚖️ Contentieux, 📋 Attestations, 📝 Procédure, 📋 Personnel, 🗄️ Archivé)
+│   │   ├── ✉️ Courriers/              ← 44 docs rangés par type d'acte (📜 Mises en demeure, 🚨 Signalements, 🔄 Relances, ⚖️ Contentieux, 📋s, 📝 Procédure, 📋 Personnel, 🗄️ Archivé)
 │   │   ├── 📚 Analyses juridiques/
 │   │   ├── 💰 Etudes indemnisation/
 │   │   ├── 🗂️ Organisation/

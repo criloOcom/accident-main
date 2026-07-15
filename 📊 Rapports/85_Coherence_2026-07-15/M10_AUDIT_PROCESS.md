@@ -67,7 +67,7 @@ Selon les règles, aucun token d'anonymisation ne doit se retrouver dans les fic
 ### B. RÉGLEMENTATION DU DOSSIER REEL (INTERDICTION #3)
 L'`INTERDICTION #3` dans `AGENTS.md` stipule formellement qu'aucun README d'index n'est maintenu dans `👤 Reel/`.
 - [ ] **MAJEUR** - `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/README.md`:ligne 1
-- [ ] **MAJEUR** - `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/README.md`:ligne 1
+- [ ] **MAJEUR** - `⚖️ Actes/👤 Reel/✉️ Courriers/📋s/README.md`:ligne 1
 - [ ] **MAJEUR** - `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/README.md`:ligne 1
 - [ ] **MAJEUR** - `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/README.md`:ligne 1
 - [ ] **MAJEUR** - `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/README.md`:ligne 1

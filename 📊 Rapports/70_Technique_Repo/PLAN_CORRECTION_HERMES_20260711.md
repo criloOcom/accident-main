@@ -48,11 +48,11 @@ statut: projet
 
 ### P0-5 — `05 📋 Dossier Special CERFA.md` : 6 liens `file://` cassés  [MANUEL + SCRIPT]
 - **Cibles** : `⚖️ Actes/{🔑 Token,👤 Reel}/🗂️ Organisation/05 📋 Dossier Special CERFA.md` (L43-45)
-- **Défaut** : pointe vers `file:///.../✉️ Courriers/26 📋 Attestation Temoin Client.md` etc. → le 📋 est faux (fichiers réels = `📧`) ET `file://` absolu interdit.
+- **Défaut** : pointe vers `file:///.../✉️ Courriers/26 📋 Temoin Client.md` etc. → le 📋 est faux (fichiers réels = `📧`) ET `file://` absolu interdit.
 - **Deux options** :
   - (a) Renommer les fichiers cibles `26/27/28 📋 ...` → `26/27/28 📧 ...` (à valider avec l'utilisateur car touche nommage).
-  - (b) Corriger les liens en chemins relatifs `../✉️ Courriers/26 📧 Attestation Temoin Client.md` (sans `file://`).
-- **Recommandation** : option (b) (non destructif). Les fichiers réels sont `26 📧 Attestation Temoin Client.md`, `27 📧 Attestation Pompier SAMU.md`, `28 📧 Attestation Employe.md` ✅.
+  - (b) Corriger les liens en chemins relatifs `../✉️ Courriers/26 📧📋 Temoin Client.md` (sans `file://`).
+- **Recommandation** : option (b) (non destructif). Les fichiers réels sont `26 📧📋 Temoin Client.md`, `27 📧📋 Pompier SAMU.md`, `28 📧📋 Employe.md` ✅.
 
 ### P0-6 — 8 fichiers `statut: final` contenant `[...]`  [MANUEL]
 - **Cibles** :

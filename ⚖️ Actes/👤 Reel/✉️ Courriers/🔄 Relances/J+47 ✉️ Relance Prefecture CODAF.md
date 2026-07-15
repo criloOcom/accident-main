@@ -65,4 +65,4 @@ Je vous remercie de l'attention portée à la présente et vous prie d'agréer, 
 
 - **[Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du [J+1]
 
-- **[J+32 📋 Attestation Temoin Client.md](../%F0%9F%93%8B%20Attestations/J%2B32%20%F0%9F%93%8B%20Attestation%20Temoin%20Client.md)** — Attestation sur l'honneur temoin oculaire
+- **[J+32 📋 Temoin Client.md](../%F0%9F%93%8Bs/J%2B32%20%F0%9F%93%8B%20Temoin%20Client.md)** — Attestation sur l'honneur temoin oculaire

@@ -1,5 +1,5 @@
 ---
-title: "J+32 Gabarit Attestation Employe - V1"
+title: "📋 J+32 Gabarit Attestation Employe - V1"
 description: "Je soussigné(e) [À compléter],"
 type: courrier
 date: 2026-06-30
@@ -7,13 +7,13 @@ tags:
   - dossier
 statut: projet
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/J+32 📋 Attestation Employe.md
+reel_path: ../../../👤 Reel/✉️ Courriers/J+32 📋 Employe.md
 source: drive
 drive_id: 1Icvl9wM3-XrrgSkLUAObecWiEvjkvk9Lj6AvWCakv2o
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📋 Attestations](./README.md) › J+32 📋 Attestation Employe*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📋s](./README.md) › J+32 📋 Employe*
 <hr>
 <!-- /Breadcrumb -->
 

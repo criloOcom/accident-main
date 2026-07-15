@@ -82,16 +82,16 @@ Date: 2026-07-12 14:37
        → ✉️ Courriers/J+37 🔄 Relance Police Videos.md
   ✓  ✉️ Courriers/21 🔄 Relance CPAM.md
        → ✉️ Courriers/J+37 🔄 Relance CPAM.md
-  ✓  ✉️ Courriers/23 📋 Attestation Pompier SAMU.md
-       → ✉️ Courriers/J+32 📋 Attestation Pompier SAMU.md
+  ✓  ✉️ Courriers/23 📋 Pompier SAMU.md
+       → ✉️ Courriers/J+32 📋 Pompier SAMU.md
   ✓  ✉️ Courriers/25 📧 Relance Dr DJERBI.md
        → ✉️ Courriers/J+38 📧 Relance Dr DJERBI Consolidation.md
-  ✓  ✉️ Courriers/26 📧 Attestation Temoin Client.md
-       → ✉️ Courriers/J+38 📧 Attestation Temoin Client.md
-  ✓  ✉️ Courriers/27 📧 Attestation Pompier SAMU.md
-       → ✉️ Courriers/J+38 📧 Attestation Pompier SAMU.md
-  ✓  ✉️ Courriers/28 📧 Attestation Employe.md
-       → ✉️ Courriers/J+38 📧 Attestation Employe.md
+  ✓  ✉️ Courriers/26 📧📋 Temoin Client.md
+       → ✉️ Courriers/J+38 📧📋 Temoin Client.md
+  ✓  ✉️ Courriers/27 📧📋 Pompier SAMU.md
+       → ✉️ Courriers/J+38 📧📋 Pompier SAMU.md
+  ✓  ✉️ Courriers/28 📧📋 Employe.md
+       → ✉️ Courriers/J+38 📧📋 Employe.md
   ✓  ✉️ Courriers/29 ✉️ Courrier Maire Foix.md
        → ✉️ Courriers/J+41 ✉️📜 Maire Foix.md
   ✓  ✉️ Courriers/30 ✉️ Courrier President TC.md
@@ -226,16 +226,16 @@ Date: 2026-07-12 14:37
        → ✉️ Courriers/J+37 🔄 Relance Police Videos.md
   ✓  ✉️ Courriers/21 🔄 Relance CPAM.md
        → ✉️ Courriers/J+37 🔄 Relance CPAM.md
-  ✓  ✉️ Courriers/23 📋 Attestation Pompier SAMU.md
-       → ✉️ Courriers/J+32 📋 Attestation Pompier SAMU.md
+  ✓  ✉️ Courriers/23 📋 Pompier SAMU.md
+       → ✉️ Courriers/J+32 📋 Pompier SAMU.md
   ✓  ✉️ Courriers/25 📧 Relance Dr DJERBI.md
        → ✉️ Courriers/J+38 📧 Relance Dr DJERBI Consolidation.md
-  ✓  ✉️ Courriers/26 📧 Attestation Temoin Client.md
-       → ✉️ Courriers/J+38 📧 Attestation Temoin Client.md
-  ✓  ✉️ Courriers/27 📧 Attestation Pompier SAMU.md
-       → ✉️ Courriers/J+38 📧 Attestation Pompier SAMU.md
-  ✓  ✉️ Courriers/28 📧 Attestation Employe.md
-       → ✉️ Courriers/J+38 📧 Attestation Employe.md
+  ✓  ✉️ Courriers/26 📧📋 Temoin Client.md
+       → ✉️ Courriers/J+38 📧📋 Temoin Client.md
+  ✓  ✉️ Courriers/27 📧📋 Pompier SAMU.md
+       → ✉️ Courriers/J+38 📧📋 Pompier SAMU.md
+  ✓  ✉️ Courriers/28 📧📋 Employe.md
+       → ✉️ Courriers/J+38 📧📋 Employe.md
   ✓  ✉️ Courriers/29 ✉️ Courrier Maire Foix.md
        → ✉️ Courriers/J+41 ✉️📜 Maire Foix.md
   ✓  ✉️ Courriers/30 ✉️ Courrier President TC.md
@@ -367,11 +367,11 @@ Date: 2026-07-12 14:37
        [breadcrumb] › 19 ✉️ Courrier FGTI (breadcrumb)
        [breadcrumb] › 20 🔄 Relance Police (breadcrumb)
        [breadcrumb] › 21 🔄 Relance CPAM (breadcrumb)
-       [breadcrumb] › 23 📋 Attestation Pompier SAMU (breadcrumb)
+       [breadcrumb] › 23 📋 Pompier SAMU (breadcrumb)
        [breadcrumb] › 25 📧 Relance Dr DJERBI (breadcrumb)
-       [breadcrumb] › 26 📧 Attestation Temoin Client (breadcrumb)
-       [breadcrumb] › 27 📧 Attestation Pompier SAMU (breadcrumb)
-       [breadcrumb] › 28 📧 Attestation Employe (breadcrumb)
+       [breadcrumb] › 26 📧📋 Temoin Client (breadcrumb)
+       [breadcrumb] › 27 📧📋 Pompier SAMU (breadcrumb)
+       [breadcrumb] › 28 📧📋 Employe (breadcrumb)
        [breadcrumb] › 29 ✉️ Courrier Maire Foix (breadcrumb)
        [breadcrumb] › 30 ✉️ Courrier President TC (breadcrumb)
        [breadcrumb] › 31 ✉️ Courrier INPI Opposition (breadcrumb)

@@ -26,7 +26,7 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 ├── 🚨 Signalements/         → 8 courriers (alertes aux autorités)
 ├── 🔄 Relances/             → 8 courriers (suivis après absence de réponse)
 ├── ⚖️ Contentieux/          → 7 courriers (actes judiciaires, oppositions)
-├── 📋 Attestations/         → 6 courriers (CERFA témoins + emails)
+├── 📋s/         → 6 courriers (CERFA témoins + emails)
 ├── 📝 Procédure/            → 6 courriers (démarches connexes)
 ├── 📋 Personnel/            → 3 documents (guides internes)
 └── 🗄️ Archivé/              → 1 document (obsolète)
@@ -54,7 +54,7 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 
 ### 🟡 En préparation / Brouillons
 - [📜 Mises en demeure/J+31 ✉️📜 Assureur.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Assureur.md)
-- [📋 Attestations/](📋%20Attestations/) — 3 gabarits CERFA + 3 emails transmission
+- [📋s/](📋%20Attestations/) — 3 gabarits CERFA + 3 emails transmission
 - [⚖️ Contentieux/J+38 ✉️ Saisine FGTI.md](⚖️%20Contentieux/J%2B38%20%E2%9C%89%EF%B8%8F%20Saisine%20FGTI.md)
 - [⚖️ Contentieux/J+41 ✉️ Opposition Immatriculation INPI.md](⚖️%20Contentieux/J%2B41%20%E2%9C%89%EF%B8%8F%20Opposition%20Immatriculation%20INPI.md)
 - [⚖️ Contentieux/J+47 📜 Plainte Complementaire.md](⚖️%20Contentieux/J%2B47%20%F0%9F%93%9C%20Plainte%20Complementaire.md)
@@ -74,9 +74,9 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 - [J+31 ✉️📜 President.md](📜%20Mises%20en%20demeure/J%2B31%20%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20President.md)
 
 ### J+32 — Attestations
-- [J+32 📋 Attestation Employe.md](📋%20Attestations/J%2B32%20%F0%9F%93%8B%20Attestation%20Employe.md)
-- [J+32 📋 Attestation Pompier SAMU.md](📋%20Attestations/J%2B32%20%F0%9F%93%8B%20Attestation%20Pompier%20SAMU.md)
-- [J+32 📋 Attestation Temoin Client.md](📋%20Attestations/J%2B32%20%F0%9F%93%8B%20Attestation%20Temoin%20Client.md)
+- [J+32 📋 Employe.md](📋%20Attestations/J%2B32%20%F0%9F%93%8B%20Employe.md)
+- [J+32 📋 Pompier SAMU.md](📋%20Attestations/J%2B32%20%F0%9F%93%8B%20Pompier%20SAMU.md)
+- [J+32 📋 Temoin Client.md](📋%20Attestations/J%2B32%20%F0%9F%93%8B%20Temoin%20Client.md)
 
 ### J+37 — Relances & signalements
 - [J+37 ✉️ Relance Consolidation.md](🔄%20Relances/J%2B37%20%E2%9C%89%EF%B8%8F%20Relance%20Consolidation.md)
@@ -96,9 +96,9 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 - [J+38 ✉️ Saisine Doyen Juges Instruction.md](⚖️%20Contentieux/J%2B38%20%E2%9C%89%EF%B8%8F%20Saisine%20Doyen%20Juges%20Instruction.md)
 - [J+38 ✉️ Saisine FGTI.md](⚖️%20Contentieux/J%2B38%20%E2%9C%89%EF%B8%8F%20Saisine%20FGTI.md)
 - [J+38 ✉️ Transmission Recours Tiers CPAM.md](⚖️%20Contentieux/J%2B38%20%E2%9C%89%EF%B8%8F%20Transmission%20Recours%20Tiers%20CPAM.md)
-- [J+38 📧 Attestation Employe.md](📋%20Attestations/J%2B38%20%F0%9F%93%A7%20Attestation%20Employe.md)
-- [J+38 📧 Attestation Pompier SAMU.md](📋%20Attestations/J%2B38%20%F0%9F%93%A7%20Attestation%20Pompier%20SAMU.md)
-- [J+38 📧 Attestation Temoin Client.md](📋%20Attestations/J%2B38%20%F0%9F%93%A7%20Attestation%20Temoin%20Client.md)
+- [J+38 📧📋 Employe.md](📋%20Attestations/J%2B38%20%F0%9F%93%A7%F0%9F%93%8B%20Employe.md)
+- [J+38 📧📋 Pompier SAMU.md](📋%20Attestations/J%2B38%20%F0%9F%93%A7%F0%9F%93%8B%20Pompier%20SAMU.md)
+- [J+38 📧📋 Temoin Client.md](📋%20Attestations/J%2B38%20%F0%9F%93%A7%F0%9F%93%8B%20Temoin%20Client.md)
 - [J+38 📧 Relance Dr DJERBI Consolidation.md](🔄%20Relances/J%2B38%20%F0%9F%93%A7%20Relance%20Dr%20DJERBI%20Consolidation.md)
 
 ### J+40 à J+47 — Foix & suites
