@@ -33,7 +33,7 @@ Avocat au Barreau de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8
 
 **Conseil de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 
----
+<hr><hr>
 
 À
 
@@ -53,7 +53,6 @@ Fait à [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/
 Madame, Monsieur,
 
 J'interviens aux présentes en ma qualité de conseil de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md], que je représente dans le cadre du grave accident corporel dont elle a été victime le 29 mai 2026 au sein du salon de coiffure exploité par la société [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
-
 ## I — RAPPEL DES FAITS ET DE LEUR GRAVITÉ
 
 Le 29 mai 2026, ma cliente se trouvait installée au bac à shampoing lorsque [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md], salarié de l'établissement, est monté sur la vasque en céramique pour régler un téléviseur, en l'absence de tout équipement adapté (escabeau ou marchepied). Sous son poids, la vasque — instable et fragilisée par une cassure préexistante non signalée — a basculé. Ma cliente a instinctivement tendu sa main droite dominante pour protéger le salarié, heurtant de plein fouet l'arête tranchante de la cassure.
@@ -68,6 +67,7 @@ Les lésions, leur gravité et leurs suites ont été contradictoirement constat
 - **Incidence professionnelle majeure** : ma cliente exerce la profession d'informaticienne indépendante, activité pour laquelle la dextérité fine de la main dominante est indispensable ; l'expert conclut à une répercussion directe et durable sur sa capacité de travail.
 
 Le préjudice corporel de ma cliente, évalué selon la nomenclature Dintilhac, s'établit dans une fourchette globale de **120 000 € à 160 000 €**, dont **49 231 €** au titre des seuls postes extra-patrimoniaux.
+<hr><hr>
 
 ## II — FONDEMENT JURIDIQUE DE L'ACTION DIRECTE
 
@@ -78,6 +78,7 @@ L'article L. 124-3 du Code des assurances dispose :
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
 
 Ce texte institue un droit propre de la victime à l'encontre de l'assureur, indépendant des relations contractuelles entre l'assureur et son assuré. Il vous appartient donc, en votre qualité d'assureur potentiel de la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), de prendre position sans équivoque sur la garantie de ce sinistre.
+<hr><hr>
 
 ## III — CARENCE DE L'ASSURÉE ET PROCÉDURE PÉNALE EN COURS
 
@@ -86,6 +87,7 @@ Je dois porter à votre connaissance que, malgré des démarches amiables et jud
 Une **information judiciaire** a été ouverte par réquisitoire introductif du Parquet de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) en date du 15 juillet 2026 ([**J+47**](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B47%20%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md)), des chefs de blessures involontaires et mise en danger d'autrui, avec mission expresse d'investigation sur les conditions d'assurance de la société. Les réquisitions auprès des organismes d'assurance sont en cours.
 
 L'obstruction persistante de l'assurée, conjuguée à l'absence de réponse de votre part, justifierait le cas échéant des réquisitions pénales complémentaires visant directement votre compagnie.
+<hr><hr>
 
 ## IV — MISES EN DEMEURE
 
@@ -102,6 +104,7 @@ En conséquence de ce qui précède, je vous mets formellement en demeure, au no
 3. **Prendre position de manière claire et motivée** sur la garantie de ce sinistre ;
 
 4. **Me verser, à titre de provision**, la somme de **15 000 € (quinze mille euros)** à valoir sur l'indemnisation définitive des préjudices de ma cliente, somme dont le montant est délibérément mesuré au regard de l'évaluation globale (120 000 — 160 000 €) et des éléments déjà produits.
+<hr><hr>
 
 ## V — RÉSERVES EXPRESSES
 
@@ -127,7 +130,7 @@ Dans l'attente de votre retour écrit et circonstancié dans le délai imparti, 
 
 <hr><hr>
 
----
+<hr><hr>
 
 ### NOTE MÉTHODOLOGIQUE
 
@@ -151,6 +154,7 @@ Variante « avocat » de la mise en demeure adressée à l'assureur RC, destiné
 - Version victime : [`J+50 ✉️ Mise en demeure Assureur RC.md`](J%2B50%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Assureur%20RC.md)
 - Version J+31 archivée : [`J+31 ✉️ Mise en demeure Assureur.md`](J%2B31%20%E2%9C%89%EF%B8%8F%20Mise%20en%20demeure%20Assureur.md)
 - Réquisitoire introductif : [`J+47 ⚖️ Requisitoire introductif.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B47%20%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md)
+<hr><hr>
 
 ## Sources Législation
 

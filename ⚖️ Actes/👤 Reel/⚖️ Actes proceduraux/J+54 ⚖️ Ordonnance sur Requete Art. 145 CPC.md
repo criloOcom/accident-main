@@ -26,7 +26,7 @@ jx: J+54
 **ORDONNANCE SUR REQUÊTE**
 *22 juillet 2026*
 
----
+<hr><hr>
 
 **NOUS**, Président du Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), statuant sur requête,
 
@@ -39,9 +39,6 @@ Vu les articles **493** et **495** du Code de procédure civile ;
 Vu la requête présentée le 15 juillet 2026 par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), tendant à la conservation et à la communication d'enregistrements de vidéoprotection relatifs à l'accident survenu le 29 mai 2026 dans le salon de coiffure exploité par [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sis [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) ;
 
 Vu les pièces produites à l'appui de la requête, et notamment le procès-verbal de police n°[2026/015967](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) relatant l'accident, le certificat médical initial du 29 mai 2026 et les photographies des lieux ;
-
----
-
 ### EXPOSÉ SUCCINCT
 
 Il résulte de la requête que le 29 mai 2026, vers 15 heures, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a été victime d'un accident corporel dans le salon de coiffure exploité par [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), au cours duquel une vasque en céramique a basculé et a causé des lésions graves à la main droite du requérant.
@@ -49,8 +46,7 @@ Il résulte de la requête que le 29 mai 2026, vers 15 heures, [Sébastien GRAZI
 Le requérant expose que l'établissement est équipé d'un système de vidéoprotection couvrant la zone des bacs à shampoing et de la caisse ; que ces enregistrements sont de nature à établir les circonstances précises de l'accident, la position des protagonistes et les gestes du préposé de l'établissement ; qu'ils sont susceptibles d'être effacés automatiquement au terme d'un délai légal ou technique de conservation de courte durée.
 
 Il sollicite, sur le fondement de l'article 145 du Code de procédure civile, qu'il soit ordonné à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), ainsi qu'à tout prestataire technique en charge de la gestion du système de vidéoprotection, de conserver et communiquer les enregistrements des caméras couvrant l'intérieur du salon pour la plage horaire du 29 mai 2026 de 14h30 à 16h30.
-
----
+<hr><hr>
 
 ### MOTIFS
 
@@ -65,8 +61,7 @@ Il sollicite, sur le fondement de l'article 145 du Code de procédure civile, qu
 **Considérant** qu'eu égard à la nature de la mesure sollicitée, qui tend uniquement à la conservation et à la remise de copies d'enregistrements existants, sans porter une atteinte disproportionnée au secret des affaires ni aux droits des tiers, il y a lieu de faire droit à la requête, dans des limites strictement nécessaires à la manifestation de la vérité ;
 
 **Considérant** que la mesure sollicitée, en ce qu'elle ne préjuge en rien du bien-fondé de l'action au fond, peut être ordonnée sur requête, sans contradiction préalable, conformément aux articles 493 et 495 du Code de procédure civile ;
-
----
+<hr><hr>
 
 ### PAR CES MOTIFS
 
@@ -85,7 +80,7 @@ Fait et ordonné à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%
 **Le Président,**
 *[signature]*
 
----
+<hr><hr>
 
 ### NOTE MÉTHODOLOGIQUE
 

@@ -30,9 +30,6 @@ type: preuve
 **D'AUTRE PART,**
 
 *Ci-après désignées individuellement « la Partie » et collectivement « les Parties ».*
-
-<hr>
-
 ### PRÉAMBULE & CONTEXTE FACTUEL
 
 Le **[Date de l'Accident](../../../🧠%20Memory/STRICT%20VARIABLES.md)**, M. [La Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-nom-complet.md) a été victime d'un accident corporel grave alors qu'il se trouvait dans les locaux d'exploitation commerciale de la société [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-nom.md) situés au [Adresse Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-adresse.md).
@@ -43,7 +40,7 @@ Une procédure en référé-provision (fondement de l'article 835 alinéa 2 du C
 
 Afin de prévenir ou de mettre fin à tout litige judiciaire afférent à l'indemnisation des conséquences dommageables de cet accident, et conformément aux dispositions des articles **2044 et suivants du Code civil**, les Parties se sont rapprochées afin de transiger aux conditions ci-après définies.
 
-<hr>
+<hr><hr>
 
 ### ARTICLE 1 — PRINCIPE DU RÈGLEMENT ET RECONNAISSANCE DE RESPONSABILITÉ
 

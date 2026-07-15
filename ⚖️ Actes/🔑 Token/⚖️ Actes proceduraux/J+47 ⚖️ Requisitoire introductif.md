@@ -192,7 +192,7 @@ Concernant les sanctions encourues, la requalification délictuelles (Art. 222-2
 Les chances d'aboutissement de la présente procédure d'information sont jugées **fortes**, compte tenu de l'existence de blessures objectivées par l'expertise médicale (DFP 12 %, SE 4/7, consolidation à 12 mois), de la matérialité de l'accident (PV de police), et de la carence caractérisée en matière de sécurité (vasque cassée non signalée) au sein d'un ERP. L'expertise médicale a également évalué le préjudice extra-patrimonial à environ 49 231 €, fourchette basse d'une estimation globale de 120 000 à 160 000 € incluant les postes patrimoniaux (PGPF, DSA, incidence professionnelle).
 <hr><hr>
 
----
+<hr><hr>
 
 ### NOTE MÉTHODOLOGIQUE
 
@@ -209,6 +209,7 @@ Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19
 - Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
 - Ordonnance Art. 145 CPC (vidéos) : [`J+54 ⚖️ Ordonnance sur Requete Art. 145 CPC.md`](J%2B54%20%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md)
 - Ordonnance de référé provision : [`J+63 ⚖️ Projet Ordonnance Refere.md`](J+63%20%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)
+<hr><hr>
 
 ## Sources Législation
 

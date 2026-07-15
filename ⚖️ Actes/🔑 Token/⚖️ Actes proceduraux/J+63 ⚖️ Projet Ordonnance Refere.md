@@ -26,7 +26,7 @@ jx: J+63
 **ORDONNANCE DE RÉFÉRÉ**
 *31 juillet 2026*
 
----
+<hr><hr>
 
 **DEMANDEUR**
 
@@ -44,7 +44,7 @@ jx: J+63
 
 *Défendeurs non comparants*
 
----
+<hr><hr>
 
 ### VISA
 
@@ -61,9 +61,6 @@ Vu l'article **R. 4323-58** du Code du travail ;
 Vu les pièces versées aux débats, et notamment le procès-verbal de police n°[N° PV Police] et le certificat médical initial du 29 mai 2026 ;
 
 Vu l'absence de comparution des défendeurs, régulièrement assignés selon procès-verbal de recherches infructueuses (articles 659 et 658 CPC) ;
-
----
-
 ### EXPOSÉ DU LITIGE
 
 Par acte d'huissier du [date], [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a fait assigner en référé les défendeurs aux fins d'obtenir, à titre principal, une provision de **15 000 €** sur le fondement de l'article 835 alinéa 2 du Code de procédure civile, et à titre subsidiaire, une expertise médicale et la communication de la police d'assurance RC de la société défenderesse sous astreinte, sur le fondement de l'article 145 du même code.
@@ -73,8 +70,7 @@ Le demandeur expose qu'il s'est rendu le **29 mai 2026** au salon de coiffure ex
 L'accident a entraîné une section complète du tendon fléchisseur profond (FDP) de l'index droit, associée à une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une microchirurgie d'urgence le 30 mai 2026, puis une neurolyse du nerf palmaire. L'ITT a été fixée à **56 jours**. Le demandeur soutient que son obligation à indemnisation n'est pas sérieusement contestable et que l'absence de communication de la police d'assurance par les défendeurs le prive de son action directe.
 
 Les défendeurs, régulièrement cités par procès-verbal de recherches infructueuses, n'ont pas constitué avocat et n'ont pas comparu. Il sera statué par ordonnance réputée contradictoire en application de l'article 473 du Code de procédure civile.
-
----
+<hr><hr>
 
 ### MOTIFS
 
@@ -119,8 +115,7 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 #### IV. Sur l'article 700 du Code de procédure civile et les dépens
 
 **Considérant** qu'il serait inéquitable de laisser à la charge du demandeur les frais exposés pour la présente instance ; que les défendeurs, qui succombent, seront condamnés in solidum aux dépens et à lui verser une indemnité sur le fondement de l'article 700 du Code de procédure civile ;
-
----
+<hr><hr>
 
 ### PAR CES MOTIFS
 
@@ -158,7 +153,7 @@ Nous, **Juge des référés** du Tribunal Judiciaire de [**[La Ville de l'Accide
 
 **RAPPELONS** que la présente ordonnance est de droit exécutoire à titre provisoire.
 
----
+<hr><hr>
 
 ### NOTE MÉTHODOLOGIQUE
 

@@ -98,7 +98,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération dist
 
 <hr><hr>
 
----
+<hr><hr>
 
 ### NOTE MÉTHODOLOGIQUE
 
@@ -118,7 +118,6 @@ Ce courrier est une **simulation** reprenant la structure du draft fourni par l'
 - Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
 - Ordonnance de référé provision : [`J+63 ⚖️ Projet Ordonnance Refere.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B63%20%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)
 - Avis Dintilhac externe : [`📊 Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`](../../../../%F0%9F%93%8A%20Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md)
-
 ## Sources Législation
 
 [^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩

@@ -16,7 +16,7 @@ type: preuve
 **Pour :** M. [La Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-nom-complet.md) (Demandeur)<br>
 **Contre :** La société [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-nom.md) & son assureur [Assureur RC Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-assureur-rc.md) (Défendeurs)
 
----
+<hr><hr>
 
 ### I — RAPPEL TRÈS BREF DES FAITS & DE LA GRAVITÉ DU DOMMAGE
 
@@ -26,7 +26,7 @@ type: preuve
 * **Situation professionnelle :** Informaticien indépendant (développeur/codeur), métier dont le clavier est l'outil unique, percevant un revenu annuel net d'environ 9 000 €.
 * **Impact immédiat :** ITT médicale de **56 jours**, arrêt complet de l'activité, séquelles nerveuses douloureuses chroniques persistantes sans consolidation à ce jour.
 
----
+<hr><hr>
 
 ### II — L'ABSENCE DE CONTESTATION SÉRIEUSE (FONDEMENT ART. 835 AL. 2 CPC)
 
@@ -34,7 +34,7 @@ type: preuve
 * Aucune cause étrangère exonératoire (pas de force majeure, pas de fait de la victime).
 * La responsabilité de l'Exploitant est donc incontestable en son principe.
 
----
+<hr><hr>
 
 ### III — LA PROPORTIONNALITÉ DE LA PROVISION DE 15 000 €
 
@@ -46,7 +46,7 @@ type: preuve
   * Moins de **10 %** de l'évaluation globale médiane.
 * Elle est donc parfaitement proportionnée et extrêmement mesurée, préservant entièrement les intérêts des assureurs tout en répondant à l'urgence financière absolue de la victime.
 
----
+<hr><hr>
 
 ### IV — LES PIÈCES CLÉS À PLAIDER À LA BARRE
 

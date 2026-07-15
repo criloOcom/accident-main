@@ -32,8 +32,6 @@ jx: J+47
 
 **P. V. : n°2026/015967-B**
 **Affaire : Plainte complémentaire pour blessures involontaires et obstruction à la justice**
-<hr><hr>
-
 ## I — CADRE DE L'AUDITION
 
 L'an deux mil vingt-six,
