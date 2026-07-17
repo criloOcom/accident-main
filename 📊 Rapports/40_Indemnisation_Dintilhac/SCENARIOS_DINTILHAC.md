@@ -26,7 +26,7 @@ auteur: Avocat spécialiste en réparation du préjudice corporel
 
 ## I — CONTEXTE ET HYPOTHÈSES
 
-Les évaluations ci-dessous reposent sur les **variables strictes et canoniques** du dossier (suite à l'expertise médicale consolidée) :
+Les évaluations ci-dessous reposent sur les **variables strictes et canoniques** du dossier (à la suite de l'expertise médicale consolidée) :
 - DFP : 12 %
 
 - SE : 4/7

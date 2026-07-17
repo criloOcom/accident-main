@@ -13,7 +13,7 @@ statut: final
 > 4. [STRICT VARIABLES (référentiel chiffré)](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md)
 <hr><hr>
 
-## Option A — Avocat déjà désigné (AJ)
+## I — Option A — Avocat déjà désigné (AJ)
 
 **Objet** : Dossier accident corporel — [**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) c. SAS [**[L'Exploitant du Commerce]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — TJ Foix — Demande de prise en charge
 
@@ -48,7 +48,7 @@ Je vous prie d'agréer, Maître, l'expression de ma considération distinguée.
 [**[Téléphone de la Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md) — [**[L'Email de la Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 <hr><hr>
 
-## Option B — BAJ / Bâtonnier (demande de désignation)
+## II — Option B — BAJ / Bâtonnier (demande de désignation)
 
 **Objet** : Demande de désignation d'avocat au titre de l'aide juridictionnelle — Dossier accident corporel — [**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) c. SAS [**[L'Exploitant du Commerce]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — TJ Foix
 

@@ -27,7 +27,7 @@ jx: J+47
 **Objectif :** Ce guide vous accompagne pas à pas lors de votre déplacement au commissariat de Foix. Il contient les phrases clés à utiliser, les questions à poser, les réponses aux objections possibles, et la stratégie pour présenter efficacement votre dossier.
 ## I — PRÉPARATION AVANT LE DÉPLACEMENT
 
-### Checklist des documents à apporter
+### I.1 — Checklist des documents à apporter
 
 **📂 Dossier principal (à remettre aux policiers) :**
 - [ ] Plainte complémentaire signée (document n°36)
@@ -75,7 +75,7 @@ jx: J+47
 
 ## II — ACCUEIL ET PREMIER CONTACT
 
-### À l'accueil du commissariat
+### II.1 — À l'accueil du commissariat
 
 **Vous :** "Bonjour Madame/Monsieur, je suis [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md). J'ai déposé une plainte le 1er juin 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour un accident corporel grave survenu au salon de coiffure '**[L'Exploitant du Commerce (La SAS)]**'. Je souhaite déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves. Pouvez-vous me diriger vers le service compétent ?"
 
@@ -89,7 +89,7 @@ jx: J+47
 ## III — PRÉSENTATION AU SERVICE DES PLAINTES
 <hr><hr>
 
-### Introduction auprès de l'officier
+### III.1 — Introduction auprès de l'officier
 
 **Vous :** "Bonjour Monsieur/Madame l'Officier. Je m'appelle [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), je suis la victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiffure '**[L'Exploitant du Commerce (La SAS)]**' situé au [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md). J'ai déjà déposé une plainte initiale le 1er juin ([PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)), et je souhaite aujourd'hui déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves par les dirigeants de l'établissement."
 
@@ -99,7 +99,7 @@ jx: J+47
 
 ## IV — PRÉSENTATION ORALE DES FAITS
 
-### Résumé structuré (2-3 minutes max)
+### IV.1 — Résumé structuré (2-3 minutes max)
 
 **1. Rappel des faits initiaux (30 secondes) :**
 "Le 29 mai dernier, alors que je me trouvais en qualité de client dans ce salon, un employé est monté sur une vasque en céramique instable pour régler la télévision. La vasque a basculé, et ma main droite a heurté une cassure préexistante aux arêtes tranchantes. Résultat : une section nerveuse et tendineuse de l'index droit, une microchirurgie d'urgence, et 56 jours d'ITT avec des séquelles durables."
@@ -120,7 +120,7 @@ jx: J+47
 
 ## V — RÉPONSES AUX QUESTIONS COURANTES
 
-### Questions probables et réponses préparées
+### V.1 — Questions probables et réponses préparées
 
 **Q : "Pourquoi déposez-vous une plainte complémentaire plutôt que de modifier l'initiale ?"**
 **R :** "Parce que les faits nouveaux que je dénonce aujourd'hui - l'obstruction à la justice et la dissimulation de preuves - sont survenus après le dépôt de ma plainte initiale. Ce sont des infractions distinctes qui nécessitent une procédure spécifique. De plus, l'article 86 du Code de procédure pénale permet expressément de compléter une plainte lorsque de nouveaux éléments apparaissent."
@@ -142,7 +142,7 @@ jx: J+47
 ## VI — DEMANDES SPÉCIFIQUES À FORMULER
 <hr><hr>
 
-### Demandes à faire oralement et par écrit
+### VI.1 — Demandes à faire oralement et par écrit
 
 **1. Désignation d'un OPJ spécialisé :**
 "Je sollicite la désignation d'un Officier de Police Judiciaire spécialement chargé de cette enquête, compte tenu de la complexité du dossier et du caractère organisé de l'obstruction."
@@ -170,7 +170,7 @@ jx: J+47
 
 ## VII — STRATÉGIE FACE AUX OBJECTIONS
 
-### Objections possibles et réponses
+### VII.1 — Objections possibles et réponses
 
 **Objection : "C'est un litige civil, pas pénal"**
 **Réponse :**
@@ -195,7 +195,7 @@ jx: J+47
 
 ## VIII — QUESTIONS À POSER AUX POLICIERS
 
-### Questions stratégiques pour faire avancer l'enquête
+### VIII.1 — Questions stratégiques pour faire avancer l'enquête
 
 **Sur la procédure :**
 1. "Quel est le numéro d'enregistrement de ma plainte complémentaire ?"
@@ -227,7 +227,7 @@ jx: J+47
 
 ## IX — CLÔTURE DE L'ENTRETIEN
 
-### Phrases de conclusion
+### IX.1 — Phrases de conclusion
 
 **Si l'entretien se passe bien :**
 "Je vous remercie sincèrement pour votre attention et pour le temps que vous m'avez accordé. Je reste bien entendu à votre entière disposition pour toute information complémentaire ou pour une audition plus approfondie si nécessaire. Pouvez-vous me confirmer par écrit les suites qui seront données à ma plainte ?"
@@ -249,7 +249,7 @@ jx: J+47
 
 ## X — SUIVI POST-DÉPÔT
 
-### Actions à effectuer après le dépôt
+### X.1 — Actions à effectuer après le dépôt
 
 **Dans les 24 heures :**
 - [ ] Noter par écrit tous les éléments de l'entretien (date, heure, nom de l'officier, engagements pris)
@@ -284,7 +284,7 @@ jx: J+47
 
 ## XI — MÉMO JURIDIQUE RAPIDE
 
-### Résumé des infractions dénoncées
+### XI.1 — Résumé des infractions dénoncées
 
 | Infraction | Article | Élément matériel | Peine |
 |-----------|---------|------------------|-------|
@@ -294,7 +294,7 @@ jx: J+47
 | Travail dissimulé | Art. L. 8221-1 CT | Réouverture non déclarée | 3 ans + 45k€ |
 <hr><hr>
 
-### Textes clés à citer
+### XI.2 — Textes clés à citer
 
 **Code pénal :**
 - Art. 434-15 : "Le fait de détruire, de dégrader ou de détériorer un objet de quelque nature qu'il soit, de nature à faciliter la découverte d'une vérité ou la preuve d'un crime ou d'un délit..."

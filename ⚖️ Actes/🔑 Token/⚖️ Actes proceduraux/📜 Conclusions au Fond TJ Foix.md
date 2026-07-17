@@ -23,7 +23,7 @@ jx: J+368
 <!-- /Breadcrumb -->
 
 # CONCLUSIONS AU FOND
-## POUR :
+## I — POUR :
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 Née le [**[Date de Naissance de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md)
@@ -33,7 +33,7 @@ Ayant droit à l'aide juridictionnelle
 **Partie demanderesse**
 <hr><hr>
 
-## CONTRE :
+## II — CONTRE :
 
 **SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
 [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
@@ -43,10 +43,10 @@ Assureur RC : [**[L'Assureur RC]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%
 **Partie défenderesse**
 <hr><hr>
 
-## I — FAITS
+## III — FAITS
 
 
-### 1.1 Les circonstances de l'accident
+### III.1 — 1.1 Les circonstances de l'accident
 
 Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), la demanderesse était installée au bac à shampoing du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sise [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
 
@@ -54,7 +54,7 @@ Le préposé de l'exploitation est monté sur la vasque en céramique du bac à 
 
 La demanderesse, par réflexe, a instinctivement tendu la main droite pour protéger le préposé. Sa paume a heurté la cassure préexistante, provoquant une plaie palmaire profonde et grave de la main droite dominante.
 
-### 1.2 Les lésions et le parcours médical
+### III.2 — 1.2 Les lésions et le parcours médical
 
 La demanderesse a été immédiatement transportée aux urgences du [**[Centre Hospitalier]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#centre-hospitalier) où le diagnostic suivant a été posé :
 
@@ -65,7 +65,7 @@ La demanderesse a été immédiatement transportée aux urgences du [**[Centre H
 
 Une microchirurgie d'urgence a été réalisée le 30 mai 2026 en SOS Main, avec suture tendineuse et nerveuse et neurolyse. La demanderesse a ensuite bénéficié d'une rééducation fonctionnelle prolongée et d'un arrêt de travail de 56 jours (ITT du 29 mai au 23 juillet 2026).
 
-### 1.3 L'expertise judiciaire
+### III.3 — 1.3 L'expertise judiciaire
 
 Par ordonnance de référé du [**[Date Ordonnance Référé]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles), le juge des référés du Tribunal Judiciaire de Foix a désigné [**[Expert Désigné]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#expert-1) en qualité d'expert. Le rapport d'expertise, déposé le 29 mai 2027, a retenu les conclusions suivantes :
 
@@ -81,10 +81,10 @@ Par ordonnance de référé du [**[Date Ordonnance Référé]**](../../../%F0%9F
 > **Pièce n° 2** : Rapport d'expertise médicale du 29 mai 2027
 <hr><hr>
 
-## II — RECEVABILITÉ
+## IV — RECEVABILITÉ
 
 
-### 2.1 Rappel de l'instance
+### IV.1 — 2.1 Rappel de l'instance
 
 Par exploit d'huissier en date du [**[J+63 Assignation 145]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-63-assignation-145.md), la demanderesse a fait assigner la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) devant le Tribunal Judiciaire de Foix sur le fondement de l'article 145 du Code de procédure civile aux fins de voir ordonner une expertise médicale et d'obtenir une provision à valoir sur l'indemnisation de son préjudice corporel.
 
@@ -95,25 +95,25 @@ Par ordonnance du [**[Date Ordonnance Référé]**](../../../%F0%9F%A7%A0%20Memo
 
 Le rapport d'expertise a été déposé au greffe le 29 mai 2027 et a fixé la consolidation au 1er mars 2027, permettant aujourd'hui la liquidation définitive du préjudice corporel de la demanderesse.
 
-### 2.2 Qualité et recevabilité de l'action
+### IV.2 — 2.2 Qualité et recevabilité de l'action
 
 La demanderesse, en sa qualité de tiers lésé par l'accident survenu dans un établissement recevant du public, agit sur le fondement cumulé des articles 1242 alinéa 1er et 1240 du Code civil, ainsi que des articles L.4121-1 à L.4121-5 et R.4323-58 du Code du travail.
 
 L'action est recevable et non prescrite, le délai de droit commun de cinq ans (article 2224 du Code civil) courant à compter de la consolidation du 1er mars 2027.
 
-### 2.3 Compétence du Tribunal Judiciaire de Foix
+### IV.3 — 2.3 Compétence du Tribunal Judiciaire de Foix
 
 Le Tribunal Judiciaire de Foix est territorialement compétent en application de l'article 42 du Code de procédure civile, le fait dommageable s'étant produit dans son ressort ([**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), [**[Code Postal Accident]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#accident)).
 
-### 2.4 Absence de sursis à statuer
+### IV.4 — 2.4 Absence de sursis à statuer
 
 Il n'y a pas lieu à sursis à statuer dans l'attente de l'issue de l'information judiciaire pénale ouverte au Parquet de Foix (réquisitoire introductif du [**[J+47 Date Requisitoire]**](../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)). L'action civile et l'action pénale sont indépendantes : la demanderesse est fondée à obtenir réparation de son préjudice corporel sans attendre l'issue de la procédure pénale, conformément à l'article 4 du Code de procédure pénale (principe *le criminel ne tient pas le civil en l'état* s'agissant de l'action *ad damnun*).
 <hr><hr>
 
-## III — RESPONSABILITÉ
+## V — RESPONSABILITÉ
 
 
-### 3.1 Responsabilité du fait des choses (article 1242 alinéa 1er du Code civil)
+### V.1 — 3.1 Responsabilité du fait des choses (article 1242 alinéa 1er du Code civil)
 
 L'article 1242 alinéa 1er du Code civil dispose :
 
@@ -133,7 +133,7 @@ La responsabilité du fait des choses repose sur trois conditions cumulatives :
 
 > **Pièce n° 1** : Procès-verbal de police n° 2026/015967
 
-### 3.2 Manquements à l'obligation de sécurité du travail (subsidiaire)
+### V.2 — 3.2 Manquements à l'obligation de sécurité du travail (subsidiaire)
 
 À titre subsidiaire, la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) a méconnu plusieurs obligations légales et réglementaires :
 
@@ -154,7 +154,7 @@ La responsabilité du fait des choses repose sur trois conditions cumulatives :
 3. **Absence présumée de DUERP** : à ce jour, aucun Document Unique d'Évaluation des Risques Professionnels n'a été communiqué, en violation des articles R.4121-1 et suivants du Code du travail
 4. **Défaut de formation et d'information** : le préposé n'a pas été formé aux risques liés au travail en hauteur ni informé de l'état dangereux de l'équipement
 
-### 3.3 Faute de la SAS (article 1240 du Code civil — très subsidiaire)
+### V.3 — 3.3 Faute de la SAS (article 1240 du Code civil — très subsidiaire)
 
 À titre infiniment subsidiaire, la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) a commis une faute civile engageant sa responsabilité délictuelle sur le fondement de l'article 1240 du Code civil.
 
@@ -166,7 +166,7 @@ Cette faute résulte du cumul de négligences inexcusables :
 
 > **Note méthodologique — Responsabilité des dirigeants** : La responsabilité in solidum des dirigeants de la SAS pourrait être recherchée sur le fondement de l'article L.227-8 du Code de commerce (faute de gestion détachable), si la carence dans la gestion des risques et le défaut d'entretien des équipements étaient établis. Cette voie, conservée comme scénario offensif, n'est pas développée dans le corps des présentes conclusions afin de ne pas fragiliser le fondement principal (1242). Cf. note méthodologique annexée.
 
-### 3.4 Lien de causalité et absence de cause étrangère
+### V.4 — 3.4 Lien de causalité et absence de cause étrangère
 
 **Sur le lien de causalité** : le lien de causalité direct et certain entre le fait de la chose et le dommage est établi sans équivoque :
 
@@ -183,10 +183,10 @@ La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/
 > *« Les commettants sont responsables des dommages causés par leurs préposés dans les fonctions auxquelles ils les ont employés. »*
 <hr><hr>
 
-## IV — PRÉJUDICES
+## VI — PRÉJUDICES
 
 
-### 4.1 Règles applicables
+### VI.1 — 4.1 Règles applicables
 
 L'indemnisation du préjudice corporel est régie par les principes suivants :
 - La nomenclature Dintilhac (2005, actualisée 2020) constitue le référentiel opposable
@@ -196,9 +196,9 @@ L'indemnisation du préjudice corporel est régie par les principes suivants :
 
 **Référence chiffrée unique** : Rapport d'expertise du 29 mai 2027 — consolidation au 1er mars 2027 — DFP 12 % — SE 4/7.
 
-### 4.2 Préjudices extra-patrimoniaux
+### VI.2 — 4.2 Préjudices extra-patrimoniaux
 
-#### 4.2.1 Déficit Fonctionnel Permanent (DFP) — 12 %
+#### VI.2.a — 4.2.1 Déficit Fonctionnel Permanent (DFP) — 12 %
 
 Le DFP correspond à la réduction définitive du potentiel physique, psychosensoriel ou intellectuel de la victime. L'expert a retenu un taux de 12 %.
 
@@ -208,7 +208,7 @@ Le DFP correspond à la réduction définitive du potentiel physique, psychosens
 | Valeur du point (barème 2026) : 2 100 € | |
 | **Indemnisation sollicitée** | **25 200 €** |
 
-#### 4.2.2 Souffrances Endurées (SE) — 4/7
+#### VI.2.b — 4.2.2 Souffrances Endurées (SE) — 4/7
 
 Les souffrances endurées sont évaluées à 4/7 par l'expert, incluant la douleur aiguë de l'accident, l'intervention chirurgicale d'urgence (neurolyse), la rééducation fonctionnelle prolongée et les douleurs chroniques résiduelles.
 
@@ -216,7 +216,7 @@ Les souffrances endurées sont évaluées à 4/7 par l'expert, incluant la doule
 |-------------------|---------|
 | SE 4/7 — fourchette haute | **14 000 €** |
 
-#### 4.2.3 Préjudice Esthétique Permanent (PEP)
+#### VI.2.c — 4.2.3 Préjudice Esthétique Permanent (PEP)
 
 Le préjudice esthétique résulte de la cicatrice palmaire visible (5,2 cm) de la main droite dominante. Cette cicatrice est une source de gêne psychologique et sociale permanente.
 
@@ -224,7 +224,7 @@ Le préjudice esthétique résulte de la cicatrice palmaire visible (5,2 cm) de 
 |-------------------|---------|
 | PEP — 2,5/7 | **3 500 €** |
 
-#### 4.2.4 Préjudice d'Agrément
+#### VI.2.d — 4.2.4 Préjudice d'Agrément
 
 Le préjudice d'agrément répare l'impossibilité pour la victime de pratiquer régulièrement une activité sportive ou de loisir. La demanderesse pratiquait des activités manuelles (couture, bricolage, jardinage) et de loisir qui lui sont devenues impossibles du fait de la perte fonctionnelle de la main droite dominante.
 
@@ -232,7 +232,7 @@ Le préjudice d'agrément répare l'impossibilité pour la victime de pratiquer 
 |-------------------|---------|
 | Préjudice d'agrément — forfait | **4 500 €** |
 
-#### 4.2.5 Synthèse — Préjudices extra-patrimoniaux
+#### VI.2.e — 4.2.5 Synthèse — Préjudices extra-patrimoniaux
 
 | Poste | Montant |
 |-------|---------|
@@ -242,13 +242,13 @@ Le préjudice d'agrément répare l'impossibilité pour la victime de pratiquer 
 | Préjudice d'agrément | 4 500 € |
 | **Total extra-patrimonial** | **~47 200 €** |
 
-### 4.3 Préjudices patrimoniaux
+### VI.3 — 4.3 Préjudices patrimoniaux
 
-#### 4.3.1 Dépenses de Santé Actuelles (DSA)
+#### VI.3.a — 4.3.1 Dépenses de Santé Actuelles (DSA)
 
 Prise en charge par la CPAM (recours à déduire). À parfaire sur justificatifs.
 
-#### 4.3.2 Frais Divers (DFT)
+#### VI.3.b — 4.3.2 Frais Divers (DFT)
 
 La demande est fondée sur les frais exposés par la victime et non couverts par la CPAM :
 
@@ -259,7 +259,7 @@ La demande est fondée sur les frais exposés par la victime et non couverts par
 | Frais de dossier | 400 € |
 | **Total DFT** | **2 031 €** |
 
-#### 4.3.3 Perte de Gains Professionnels Actuels (PGPA)
+#### VI.3.c — 4.3.3 Perte de Gains Professionnels Actuels (PGPA)
 
 ITT de 56 jours (29 mai — 23 juillet 2026). La demanderesse exerçait la profession d'informaticien indépendant. La perte de chiffre d'affaires pendant la période d'ITT s'élève à 1 380 €, sur justificatifs des déclarations URSSAF (CA mensuel moyen : 750 €).
 
@@ -267,11 +267,11 @@ ITT de 56 jours (29 mai — 23 juillet 2026). La demanderesse exerçait la profe
 |-------------------|---------|
 | PGPA — ITT 56 j | **1 380 €** |
 
-#### 4.3.4 Perte de Gains Professionnels Futurs (PGPF)
+#### VI.3.d — 4.3.4 Perte de Gains Professionnels Futurs (PGPF)
 
 À évaluer au vu de l'inaptitude médicale à la reprise de l'activité d'informaticien indépendant à l'identique. L'expertise retient une fourchette de 50 000 – 70 000 €. Poste en cours d'évaluation sur production des justificatifs comptables.
 
-#### 4.3.5 Incidence Professionnelle (IP)
+#### VI.3.e — 4.3.5 Incidence Professionnelle (IP)
 
 L'incidence professionnelle répare les conséquences du handicap sur la vie professionnelle future de la victime : déclassement professionnel, perte de chance de promotion, pénibilité accrue, nécessité de reconversion.
 
@@ -283,7 +283,7 @@ L'expert a retenu une incidence professionnelle majeure : la demanderesse, infor
 |-------------------|---------|
 | Incidence professionnelle (BIBAL) | **28 000 €** |
 
-#### 4.3.6 Dépenses de Santé Futures (DSF)
+#### VI.3.f — 4.3.6 Dépenses de Santé Futures (DSF)
 
 Soins de rééducation et de suivi médical post-consolidation.
 
@@ -291,7 +291,7 @@ Soins de rééducation et de suivi médical post-consolidation.
 |-------------------|---------|
 | DSF — forfait | **3 000 €** |
 
-#### 4.3.7 Assistance par Tierce Personne Temporaire (ATP)
+#### VI.3.g — 4.3.7 Assistance par Tierce Personne Temporaire (ATP)
 
 Aide humaine temporaire pendant la période de convalescence.
 
@@ -299,7 +299,7 @@ Aide humaine temporaire pendant la période de convalescence.
 |-------------------|---------|
 | ATP — aide humaine temporaire | **800 €** |
 
-#### 4.3.8 Synthèse — Préjudices patrimoniaux
+#### VI.3.h — 4.3.8 Synthèse — Préjudices patrimoniaux
 
 | Poste | Montant |
 |-------|---------|
@@ -312,7 +312,7 @@ Aide humaine temporaire pendant la période de convalescence.
 | ATP | 800 € |
 | **Total patrimonial (hors PGPF et recours CPAM)** | **~36 000 €** |
 
-### 4.4 Récapitulatif général
+### VI.4 — 4.4 Récapitulatif général
 
 | Agrégat | Montant |
 |---------|---------|
@@ -326,7 +326,7 @@ Aide humaine temporaire pendant la période de convalescence.
 | **Solde à parfaire** | **105 000 – 145 000 €** |
 <hr><hr>
 
-## V — DISPOSITIF
+## VII — DISPOSITIF
 
 **PAR CES MOTIFS,**
 
@@ -379,7 +379,7 @@ Vu les pièces versées aux débats,
 *(partie demanderesse, non assistée d'avocat — article 827 CPC)*
 <hr><hr>
 
-## BORDEREAU DES PIÈCES COMMUNIQUÉES
+## VIII — BORDEREAU DES PIÈCES COMMUNIQUÉES
 
 | N° | Désignation de la pièce |
 |----|-------------------------|

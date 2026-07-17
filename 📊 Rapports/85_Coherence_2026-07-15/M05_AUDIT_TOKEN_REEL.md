@@ -9,7 +9,7 @@ type: rapport
 
 <hr><hr>
 
-## Incohérences détectées
+## I — Incohérences détectées
 
 - [ ] **✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md:113 — Nom réel 'JARDON' trouvé dans un fichier Token — Remplacer par le token approprié
 - [ ] **✉️ Courriers/🔄 Relances/✉️🔄 Adjoint Maire Tavella.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Adjoint Maire Tavella.md:21 — Nom réel 'TAVELLA' trouvé dans un fichier Token — Remplacer par le token approprié

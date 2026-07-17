@@ -24,11 +24,11 @@ type: rapport
 5. [Risques et Mitigations](#5-risques-et-mitigations)
 6. [Calendrier Prévisionnel](#6-calendrier-prévisionnel)
 
-## 1. Bilan des Actions Réalisées
+## I — Bilan des Actions Réalisées
 
-### ✅ Actions Complétées (9-10 juillet 2026)
+### I.1 — ✅ Actions Complétées (9-10 juillet 2026)
 
-#### Intégration Jurisprudentielle Complète
+#### I.1.a — Intégration Jurisprudentielle Complète
 - **3 décisions clés intégrées** dans l'assignation en référé-provision:
   1. **Cour de Cassation, Civ. 1ère, 30/04/1965** - Responsabilité professionnelle et obligation de sécurité
   2. **Cour de Cassation, Civ. 1ère, 08/07/1994** - Subrogation en responsabilité professionnelle
@@ -45,18 +45,18 @@ type: rapport
   - [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️%20Actes/👤%20Reel/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
   - [📊 Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md](../30_Analyses_Multi_Angle/RAPPORT_FINAL_INTEGRATION_20260710.md)
 
-#### Communication Administrative
+#### I.1.b — Communication Administrative
 - **Email n°34 envoyé** à l'adjoint au maire de Foix (11/07/2026 8h00)
 - **Objet:** Demande d'intervention de la Police Municipale pour contrôle ERP
 - **Pièces jointes:** Preuves des LRAR retournés NPAI et réouverture du salon
 
-#### Audit et Documentation
+#### I.1.c — Audit et Documentation
 - **Audit des risques complet** (21 risques analysés)
 - **Matrice des risques** avec évaluation probabilité × impact × sévérité
 - **Plan d'atténuation global** (17 actions priorisées)
 - **Documentation MCP mise à jour** avec exemples concrets
 
-### 📊 Statistiques Clés
+### I.2 — 📊 Statistiques Clés
 
 - **390,987 décisions jurisprudentielles analysées**
 - **31 articles de loi vérifiés** via MCP Légifrance
@@ -64,9 +64,9 @@ type: rapport
 - **0 erreur de cohérence** (vérification cross-document)
 - **3.6 MB de données juridiques** générées et organisées
 
-## 2. Situation Actuelle
+## II — Situation Actuelle
 
-### Contexte Juridique
+### II.1 — Contexte Juridique
 
 **Faits établis:**
 - Accident corporel grave du 29/05/2026 dans un salon de coiffure
@@ -80,7 +80,7 @@ type: rapport
 - **Audit RNE/INPI** confirme que la SAS est toujours active à l'adresse
 - **Risque élevé** de disparition des preuves et d'insolvabilité (capital de 200€)
 
-### État des Procédures
+### II.2 — État des Procédures
 
 **Procédures en cours:**
 1. **Plainte pénale** déposée (PV n°2026/015967)
@@ -93,11 +93,11 @@ type: rapport
 2. **Assignation Art. 145 CPC** - Communication forcée de la police d'assurance
 3. **Requête de constat d'huissier** - Sécurisation des preuves matérielles
 
-## 3. Prochaines Étapes Critiques
+## III — Prochaines Étapes Critiques
 
-### 🔴 Priorités Absolues (11-15 juillet 2026)
+### III.1 — 🔴 Priorités Absolues (11-15 juillet 2026)
 
-#### 1. Envoi du Document n°35 - Preuves Complémentaires au TJ Foix
+#### III.1.a — Envoi du Document n°35 - Preuves Complémentaires au TJ Foix
 
 **Actions requises:**
 - [ ] **Vérifier les pièces jointes** (4 documents)
@@ -110,7 +110,7 @@ type: rapport
 **Responsable:** Sébastien GRAZIDE
 **Impact:** Établit officiellement l'obstruction de la SAS et renforce le dossier judiciaire
 
-#### 2. Constat d'Huissier de Justice
+#### III.1.b — Constat d'Huissier de Justice
 
 **Actions requises:**
 - [ ] **Trouver un huissier** spécialisé en constats (priorité absolue)
@@ -123,7 +123,7 @@ type: rapport
 **Budget estimé:** 300-500 €
 **Impact:** Sécurise les preuves matérielles avant disparition
 
-#### 3. Obtention des Attestations de Témoins
+#### III.1.c — Obtention des Attestations de Témoins
 
 **Actions requises:**
 - [ ] **Obtenir les coordonnées** des 3 témoins:
@@ -137,7 +137,7 @@ type: rapport
 **Échéance:** **15 juillet 2026**
 **Impact:** Renforce la preuve testimoniale pour l'enquête pénale
 
-#### 4. Relance du Dr DJERBI pour Certificat de Consolidation
+#### III.1.d — Relance du Dr DJERBI pour Certificat de Consolidation
 
 **Actions requises:**
 - [ ] **Obtenir email/téléphone** du Dr DJERBI
@@ -148,9 +148,9 @@ type: rapport
 **Échéance:** **17 juillet 2026**
 **Impact:** Permet l'évaluation définitive des préjudices
 
-### 🟠 Priorités Secondaires (18-31 juillet 2026)
+### III.2 — 🟠 Priorités Secondaires (18-31 juillet 2026)
 
-#### 5. Contact avec un Avocat
+#### III.2.a — Contact avec un Avocat
 
 **Actions requises:**
 - [ ] **Rechercher un avocat** spécialisé en droit des victimes
@@ -161,7 +161,7 @@ type: rapport
 **Échéance:** **25 juillet 2026**
 **Impact:** Professionnalise la représentation et augmente les chances de succès
 
-#### 6. Fixation des Dates d'Audience
+#### III.2.b — Fixation des Dates d'Audience
 
 **Actions requises:**
 - [ ] **Contacter le greffe** du TJ Foix
@@ -172,7 +172,7 @@ type: rapport
 **Échéance:** **31 juillet 2026**
 **Impact:** Lance officiellement les procédures judiciaires
 
-#### 7. Relances Administratives
+#### III.2.c — Relances Administratives
 
 **Actions requises:**
 - [ ] **Relancer l'Inspection du Travail** (si pas de réponse)
@@ -183,7 +183,7 @@ type: rapport
 **Échéance:** **31 juillet 2026**
 **Impact:** Maintient la pression administrative
 
-#### 8. Préparation Stratégie FGTI/CIVI
+#### III.2.d — Préparation Stratégie FGTI/CIVI
 
 **Actions requises:**
 - [ ] **Finaliser le dossier CERFA n°16160*01**
@@ -193,28 +193,28 @@ type: rapport
 **Échéance:** **31 juillet 2026**
 **Impact:** Solution de secours en cas d'insolvabilité
 
-## 4. Stratégie Juridique Renforcée
+## IV — Stratégie Juridique Renforcée
 
-### Intégration Jurisprudentielle - Valeur Ajoutée
+### IV.1 — Intégration Jurisprudentielle - Valeur Ajoutée
 
 L'intégration des 3 décisions clés apporte une solide fondation juridique au dossier:
 
-#### Décision 1: Cour de Cassation, Civ. 1ère, 30/04/1965
+#### IV.1.a — Décision 1: Cour de Cassation, Civ. 1ère, 30/04/1965
 **Apport:** Établit la responsabilité des professionnels pour les accidents dans leurs établissements
 **Application:** Renforce l'argumentation sur le manquement à l'obligation de sécurité du salon
 **Citation clé:** "Le maître du manège n'a pas pris toutes les mesures nécessaires pour assurer la sécurité de son élève"
 
-#### Décision 2: Cour de Cassation, Civ. 1ère, 08/07/1994  
+#### IV.1.b — Décision 2: Cour de Cassation, Civ. 1ère, 08/07/1994
 **Apport:** Illustre le principe de subrogation en responsabilité professionnelle
 **Application:** Montre comment les professionnels et leurs assureurs sont subrogés dans les droits des créanciers
 **Citation clé:** "Les notaires [...] se trouvent légalement subrogés dans les droits et actions du créancier"
 
-#### Décision 3: Cour de Cassation, Civ. 1ère, 04/07/2012
+#### IV.1.c — Décision 3: Cour de Cassation, Civ. 1ère, 04/07/2012
 **Apport:** Traite de la responsabilité des associés et de la valeur patrimoniale
 **Application:** Renforce l'argumentaire sur la responsabilité des dirigeants de la SAS
 **Citation clé:** "Seule la valeur patrimoniale des parts sociales [...] entre en communauté"
 
-### Argumentation Juridique Structurée
+### IV.2 — Argumentation Juridique Structurée
 
 **Structure recommandée pour les conclusions:**
 
@@ -230,7 +230,7 @@ L'intégration des 3 décisions clés apporte une solide fondation juridique au 
    - Nécessité de l'Art. 145 CPC pour identifier l'assureur
 5. **Conclusion** - Demande de provision et expertise médicale
 
-### Utilisation dans les Actes
+### IV.3 — Utilisation dans les Actes
 
 **Assignation en référé-provision:**
 - Section "A. Jurisprudence Pertinente" déjà intégrée
@@ -242,9 +242,9 @@ L'intégration des 3 décisions clés apporte une solide fondation juridique au 
 - Résumé et analyse juridique
 - Format professionnel pour présentation au tribunal
 
-## 5. Risques et Mitigations
+## V — Risques et Mitigations
 
-### Matrice des Risques Prioritaires
+### V.1 — Matrice des Risques Prioritaires
 
 | Risque | Sévérité | Probabilité | Impact | Mitigation |
 |--------|-----------|--------------|--------|------------|
@@ -255,7 +255,7 @@ L'intégration des 3 décisions clés apporte une solide fondation juridique au 
 | Preuves testimoniales faibles | 🟠 3/5 | Moyenne | Modéré | Obtention rapide attestations |
 | Argumentation juridique faible | 🟢 2/5 | Faible | Modéré | **Intégration jurisprudentielle complète** ✅ |
 
-### Stratégies de Mitigation Mises en Place
+### V.2 — Stratégies de Mitigation Mises en Place
 
 1. **🔴 Constat d'huissier urgent** (priorité 1)
    - Sécurise l'état des lieux et la vidéosurveillance
@@ -283,7 +283,7 @@ L'intégration des 3 décisions clés apporte une solide fondation juridique au 
    - Argumentation juridique solide
    - Annexes professionnelles disponibles
 
-## 6. Calendrier Prévisionnel
+## VI — Calendrier Prévisionnel
 
 ```mermaid
 gantt
@@ -303,71 +303,71 @@ gantt
     UMJ Purpan                 :c1, 2026-11-12, 1d
 ```
 
-### Détail des Échéances
+### VI.1 — Détail des Échéances
 
-#### Semaine 28 (11-15 juillet 2026)
+#### VI.1.a — Semaine 28 (11-15 juillet 2026)
 - **12/07:** Envoi document 35 (priorité absolue)
 - **12-14/07:** Recherche et mandat d'huissier
 - **14-15/07:** Constat d'huissier réalisé
 - **15/07:** Attestations témoins envoyées
 - **15-17/07:** Relance Dr DJERBI
 
-#### Semaine 29 (18-22 juillet 2026)
+#### VI.1.b — Semaine 29 (18-22 juillet 2026)
 - **18-22/07:** Recherche et contact avocat
 - **22/07:** Transmission du dossier complet à l'avocat
 - **22-25/07:** Finalisation des assignations
 
-#### Semaine 30-31 (25-31 juillet 2026)
+#### VI.1.c — Semaine 30-31 (25-31 juillet 2026)
 - **25-28/07:** Fixation des dates d'audience
 - **28-31/07:** Préparation des conclusions
 - **31/07:** Relances administratives finalisées
 
-#### Août 2026
+#### VI.1.d — Août 2026
 - **01-15/08:** Préparation finale avant audiences
 - **15-31/08:** Participation aux audiences
 - **31/08:** Évaluation des premières décisions
 
-## Recommandations Stratégiques
+## VII — Recommandations Stratégiques
 
-### Court Terme (11-15 juillet)
+### VII.1 — Court Terme (11-15 juillet)
 1. **Priorité absolue au document 35** - Envoyer sans délai
 2. **Huissier urgent** - Sécuriser les preuves avant disparition
 3. **Témoins** - Obtenir les attestations signées rapidement
 4. **Dr DJERBI** - Relancer pour le certificat de consolidation
 
-### Moyen Terme (18-31 juillet)
+### VII.2 — Moyen Terme (18-31 juillet)
 1. **Avocat** - Professionnaliser la représentation
 2. **Audiences** - Fixer les dates et préparer les conclusions
 3. **Administratif** - Maintenir la pression sur tous les fronts
 4. **FGTI/CIVI** - Finaliser la stratégie de secours
 
-### Long Terme (Août+)
+### VII.3 — Long Terme (Août+)
 1. **Audiences** - Assister et obtenir les premières décisions
 2. **Expertise** - Lancer l'expertise médicale si ordonnance obtenue
 3. **Suivi** - Adapter la stratégie en fonction des décisions
 4. **UMJ Purpan** - Préparer l'évaluation médico-légale
 
-## Indicateurs de Succès
+## VIII — Indicateurs de Succès
 
-### Court Terme (15 juillet)
+### VIII.1 — Court Terme (15 juillet)
 - ✅ Document 35 envoyé et accusé de réception obtenu
 - ✅ Constat d'huissier réalisé et procès-verbal en main
 - ✅ 3 attestations de témoins signées et intégrées
 - ✅ Relance Dr DJERBI envoyée
 
-### Moyen Terme (31 juillet)
+### VIII.2 — Moyen Terme (31 juillet)
 - ✅ Avocat mandaté et assignations finalisées
 - ✅ Dates d'audience fixées pour référé et Art. 145
 - ✅ Conclusions préparées avec intégration jurisprudentielle
 - ✅ Relances administratives effectuées
 
-### Long Terme (31 août)
+### VIII.3 — Long Terme (31 août)
 - ✅ Audiences tenues et premières décisions obtenues
 - ✅ Expertise médicale lancée si ordonnance obtenue
 - ✅ Stratégie adaptée en fonction des décisions
 - ✅ Dossier FGTI/CIVI prêt si nécessaire
 
-## Conclusion
+## IX — Conclusion
 
 La phase actuelle marque un tournant décisif dans le dossier. L'envoi de l'email n°34 à la mairie de Foix a clos la phase administrative pure et ouvert la phase judiciaire active. Le document n°35 (transmission de preuves au TJ Foix) est la pierre angulaire qui permettra de lancer officiellement les procédures judiciaires.
 

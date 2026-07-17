@@ -18,7 +18,7 @@ Ce rapport analyse la conformité des démarches procédurales engagées et à v
 
 <hr><hr>
 
-## 1. Référé in futurum (Article 145 du Code de procédure civile)
+## I — Référé in futurum (Article 145 du Code de procédure civile)
 
 * **Conformité & Conditions :** L'article 145 du CPC permet d'ordonner des mesures d'instruction s'il existe un « *motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige* ». La requête (ou assignation) déposée ou envisagée autour du 05/07/2026 au TJ de **[La Ville de l'Accident]** répond au critère de l'absence de procès au fond en cours.
 * **Risques :** Le risque de rejet repose sur le caractère « légitime » du motif. La juridiction peut rejeter la mesure si elle estime qu'il n'y a pas d'urgence ou de risque de dépérissement des preuves, ou si la mesure est considérée comme une « mesure d'investigation générale » (fishing expedition).
@@ -26,7 +26,7 @@ Ce rapport analyse la conformité des démarches procédurales engagées et à v
 
 <hr><hr>
 
-## 2. Aide Juridictionnelle Totale (Article 9 du Code de procédure civile)
+## II — Aide Juridictionnelle Totale (Article 9 du Code de procédure civile)
 
 * **Conformité & Conditions :** L'article 9 du CPC dispose qu'il incombe à chaque partie de prouver les faits nécessaires au succès de sa prétention. L'aide juridictionnelle est subordonnée aux plafonds de ressources fixés par décret (Loi n° 91-647 du 10 juillet 1991). Avec des ressources annuelles de 9 000 € (inférieures au plafond pour l'AJ totale en 2026, généralement autour de 12 000 € pour une personne seule), **[La Victime]** est parfaitement éligible à l'aide juridictionnelle totale.
 * **Risques :** Le délai de traitement des bureaux d'aide juridictionnelle (BAJ) varie de 2 à 6 semaines. Ce délai suspend, en principe, les délais pour agir, mais il retarde mécaniquement l'enrôlement d'un référé-provision, l'avocat étant indispensable devant le TJ pour un litige supérieur à 10 000 €.
@@ -34,7 +34,7 @@ Ce rapport analyse la conformité des démarches procédurales engagées et à v
 
 <hr><hr>
 
-## 3. Référé-provision (Article 835 du Code de procédure civile)
+## III — Référé-provision (Article 835 du Code de procédure civile)
 
 * **Conformité & Conditions :** L'article 835 (et non 873 qui s'applique devant le tribunal de commerce) du CPC dispose que « *dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal judiciaire] peuvent accorder une provision au créancier* ». Le litige opposant une personne physique (**[La Victime]**) à une société (**[L'Exploitant du Commerce (La SAS)]**) pour un dommage corporel relève de la compétence exclusive du Tribunal Judiciaire. Le montant de la provision envisagée étant de 15 000 € (supérieur à 10 000 €), la représentation par avocat est obligatoire.
 * **Risques :** L'assureur ou **[L'Exploitant du Commerce (La SAS)]** pourrait soulever une « contestation sérieuse » quant à la matérialité des faits ou à l'exclusivité de leur faute.
@@ -42,14 +42,14 @@ Ce rapport analyse la conformité des démarches procédurales engagées et à v
 
 <hr><hr>
 
-## 4. Prescription des actions
+## IV — Prescription des actions
 
 * **Action Civile :** Selon l'article 2226 du Code civil, l'action en responsabilité pour dommage corporel se prescrit par dix ans à compter de la date de consolidation du dommage. L'article 2224 (prescription quinquennale) ne s'applique pas au dommage corporel. Le délai commencera à courir à la consolidation médico-légale (prévue ultérieurement).
 * **Action Pénale :** Les blessures involontaires constituent un délit (article 222-19 du Code pénal). Selon l'article 8 du Code de procédure pénale, l'action publique pour les délits se prescrit par six années révolues à compter du jour où l'infraction a été commise (le délai de 3 ans n'est plus applicable depuis la réforme de 2017). Aucune urgence prescriptive n'est à déplorer au 14/07/2026.
 
 <hr><hr>
 
-## 5. Constitution de partie civile (Article 85 du Code de procédure pénale)
+## V — Constitution de partie civile (Article 85 du Code de procédure pénale)
 
 * **Conformité & Conditions :** Selon l'article 85 du CPP, la constitution de partie civile par voie d'action devant le doyen des juges d'instruction n'est recevable qu'à deux conditions alternatives : un classement sans suite notifié par le procureur de la République, ou l'écoulement d'un délai de trois mois depuis le dépôt de la plainte simple initiale au commissariat ou au Parquet.
 * **Risques :** Une plainte avec constitution de partie civile déposée le 06/07/2026 (J+38) alors que la plainte simple date du 02/06/2026 (J+4) serait irrecevable car le délai de trois mois (fin août / début septembre 2026) n'est pas expiré et aucun avis de classement n'a été émis.
@@ -57,7 +57,7 @@ Ce rapport analyse la conformité des démarches procédurales engagées et à v
 
 <hr><hr>
 
-## 6. Expertise médicale (Référé ou pénale)
+## VI — Expertise médicale (Référé ou pénale)
 
 * **Conformité & Conditions :** L'expertise peut être ordonnée soit au civil via un référé-expertise (article 145 CPC), soit au pénal par le Procureur ou un juge d'instruction (article 156 du CPP et non 263 du CPP qui concerne la formation du jury d'assises).
 * **Risques :** Multiplier les expertises risque d'allonger la procédure. L'expertise UMJ (Unité Médico-Judiciaire), purement pénale, ne chiffre pas systématiquement l'intégralité des postes de la nomenclature Dintilhac.
@@ -65,7 +65,7 @@ Ce rapport analyse la conformité des démarches procédurales engagées et à v
 
 <hr><hr>
 
-## 7. Calendrier Juridique (à jour au 14/07/2026)
+## VII — Calendrier Juridique (à jour au 14/07/2026)
 
 * **29 mai 2026 (J+0) :** Accident de **[La Victime]**.
 * **02 juin 2026 (J+4) :** Dépôt de plainte simple au commissariat de **[La Ville de l'Accident]**.

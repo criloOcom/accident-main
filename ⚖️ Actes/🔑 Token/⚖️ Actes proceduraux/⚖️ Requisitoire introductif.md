@@ -57,7 +57,7 @@ Il convient de déterminer si ces faits sont constitutifs d'infractions pénales
 
 ## II — FONDEMENTS JURIDIQUES ET QUALIFICATIONS PÉNALES ENVISAGÉES
 
-### A. SUR LES BLESSURES INVOLONTAIRES
+### II.1 — SUR LES BLESSURES INVOLONTAIRES
 
 La fixation de la durée de l'Incapacité Totale de Travail (ITT) conditionne le seuil de qualification pénale. En l'espèce, le certificat médical initial a fixé l'ITT à 56 jours (≤ 3 mois). Toutefois, le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 retient une consolidation au 1er mars 2027, un DFP de 12 % et des SE de 4/7, caractérisant une atteinte fonctionnelle définitive de la main dominante.
 
@@ -77,7 +77,7 @@ Deux scenarii se présentent :
 
 À défaut d'une violation manifestement délibérée, les faits s'analysent a minima en une contravention de la 5ème classe sur le fondement des articles R. 625-2 ou R. 622-1 du Code pénal.
 
-### B. SUR LA MISE EN DANGER DÉLIBÉRÉE DE LA VIE D'AUTRUI
+### II.2 — SUR LA MISE EN DANGER DÉLIBÉRÉE DE LA VIE D'AUTRUI
 
 La qualification de mise en danger délibérée nécessite la violation d'une obligation particulière de sécurité ou de prudence exposant directement autrui à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente.
 
@@ -87,7 +87,7 @@ La qualification de mise en danger délibérée nécessite la violation d'une ob
 
 Le défaut d'entretien des équipements au sein d'un Établissement Recevant du Public (ERP), matérialisé par la présence d'une vasque cassée aux arêtes tranchantes, est susceptible de constituer cette violation.
 
-### C. SUR L'IMPUTABILITÉ DES FAITS : RESPONSABILITÉ DES PERSONNES MORALES ET PHYSIQUES
+### II.3 — SUR L'IMPUTABILITÉ DES FAITS : RESPONSABILITÉ DES PERSONNES MORALES ET PHYSIQUES
 
 L'article 121-2 du Code pénal dispose que les personnes morales sont pénalement responsables des infractions commises, pour leur compte, par leurs organes ou représentants.
 
@@ -103,7 +103,7 @@ S'agissant des personnes physiques qui n'ont pas causé directement le dommage (
 
 Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
 
-### D. SUR LA PRESCRIPTION
+### II.4 — SUR LA PRESCRIPTION
 
 Conformément à l'article 8 du Code de procédure pénale, l'action publique pour les délits se prescrit par six années révolues à compter du jour où l'infraction a été commise. L'infraction datant du 29 mai 2026, aucune prescription n'est acquise.
 

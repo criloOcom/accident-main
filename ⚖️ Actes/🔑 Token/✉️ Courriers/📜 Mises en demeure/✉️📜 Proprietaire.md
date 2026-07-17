@@ -37,14 +37,14 @@ Objet : Demande de communication d'assurance RC — Accident [**[J+0 Accident]**
 Réf : Dossier [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) / [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
 Monsieur,
-## INTRODUCTION
+## I — INTRODUCTION
 
 La présente lettre est adressée par [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) en sa qualité de propriétaire bailleur des locaux commerciaux situés au [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de l'exploitant.
 
 Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grave accident corporel survenu le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) dans lesdits locaux.
 <hr><hr>
 
-## I — RAPPEL DES OBLIGATIONS LÉGALES
+## II — RAPPEL DES OBLIGATIONS LÉGALES
 
 L'article 1719 du Code civil impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail.
 
@@ -89,7 +89,7 @@ Je vous remercie d'avance pour votre diligence et votre coopération indispensab
 Dans l'attente de votre retour rapide,
 <hr><hr>
 
-## II — TRANSPARENCE SUR LA SUITE DONNÉE AU DOSSIER
+## III — TRANSPARENCE SUR LA SUITE DONNÉE AU DOSSIER
 
 La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
 

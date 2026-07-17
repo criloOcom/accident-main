@@ -40,19 +40,19 @@ Conformément à l'Article 202 du Code de procédure civile, ce document permet 
 > [Article 202 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330) <br>
 > **Code de procédure civile > Section I : Les attestations.[^1]**
 
-### A. Témoins identifiés et documents associés
+### II.1 — Témoins identifiés et documents associés
 
-#### **Le Témoin Client (Présent le jour J)**
+#### II.1.a — **Le Témoin Client (Présent le jour J)**
 [📋 Temoin Client.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Temoin%20Client.md)
 (Email de relance : [26 📧📋 Temoin Client.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Temoin%20Client%20%F0%9F%93%A7Mail.md))
 
-#### **Le Secouriste / Pompier (Intervenant d'urgence)**
+#### II.1.b — **Le Secouriste / Pompier (Intervenant d'urgence)**
 [23 📋 Pompier SAMU.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Pompier%20SAMU%20%F0%9F%93%A7Mail.md) (Email de relance : [27 📧📋 Pompier SAMU.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Pompier%20SAMU%20%F0%9F%93%A7Mail.md))
 
-#### **L'Employé du Salon (Témoin de la défectuosité préalable)**
+#### II.1.c — **L'Employé du Salon (Témoin de la défectuosité préalable)**
 [📋 Employe.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Employe.md) (Email de relance : [28 📧📋 Employe.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Employe%20%F0%9F%93%A7Mail.md))
 
-### B. Pièce obligatoire à joindre
+### II.2 — Pièce obligatoire à joindre
 
 - Une copie recto-verso d'une pièce d'identité officielle du témoin comportant sa signature (Carte Nationale d'Identité, Passeport, ou Titre de séjour).
 <hr><hr>
@@ -61,7 +61,7 @@ Conformément à l'Article 202 du Code de procédure civile, ce document permet 
 
 Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infractions afin d'obtenir du **FGTI** le versement de provisions ou de l'indemnisation définitive suite aux blessures involontaires subies.
 
-### A. Conditions d'éligibilité pour [**[Prénom de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-prenom.md)
+### III.1 — Conditions d'éligibilité pour [**[Prénom de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-prenom.md)
 
 - **Nature des faits** : Blessures involontaires par manquement délibéré ou négligence (caractère pénal de l'accident).
 
@@ -69,7 +69,7 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 - **Nationalité/Lieu** : Victime française, accident survenu en France.
 
-### B. Pièces justificatives requises pour la requête
+### III.2 — Pièces justificatives requises pour la requête
 
 1. Le formulaire **CERFA n° 16160*01** dûment rempli, daté et signé.
 
@@ -90,7 +90,7 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 Si [**[Prénom de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-prenom.md) souhaite solliciter l'aide de l'État pour couvrir les frais de justice (avocat pour les audiences de référé, huissier pour le constat physique du salon, médecin-conseil ou expert judiciaire), il peut déposer ce formulaire.
 
-### A. Conditions d'accès (Aide Juridictionnelle)
+### IV.1 — Conditions d'accès (Aide Juridictionnelle)
 
 - L'attribution dépend du **Revenu Fiscal de Référence (RFR)** figurant sur le dernier avis d'imposition du demandeur.
 
@@ -98,7 +98,7 @@ Si [**[Prénom de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%
 
 - **Attention** : L'aide juridictionnelle n'est pas applicable si [**[Prénom de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-prenom.md) dispose d'une garantie de Protection Juridique (PJ) dans le cadre de ses contrats d'assurance personnels qui couvre déjà ces frais.
 
-### B. Pièces justificatives requises
+### IV.2 — Pièces justificatives requises
 
 1. Le formulaire **CERFA n° 16146*03** dûment rempli.
 

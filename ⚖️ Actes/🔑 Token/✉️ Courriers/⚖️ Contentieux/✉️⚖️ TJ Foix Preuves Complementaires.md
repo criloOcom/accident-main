@@ -38,7 +38,7 @@ BP 50078
 **Ref : SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) — [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
 
 Monsieur le President,
-## INTRODUCTION
+## I — INTRODUCTION
 
 La presente a pour objet de transmettre au Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) des elements de preuve complementaires dans le cadre de l'enquete preliminaire ouverte suite a l'accident corporel grave dont j'ai ete victime le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein de l'etablissement exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sise [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) a [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
 
@@ -47,7 +47,7 @@ Le [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%
 Ces elements sont de nature a etablir que la SAS et ses dirigeants se soustraient a toute communication et pourraient tenter de faire obstacle a la procedure en cours.
 <hr><hr>
 
-## I — RAPPEL DE LA PROCEDURE
+## II — RAPPEL DE LA PROCEDURE
 
 Le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), j'ai ete victime d'un accident corporel grave au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). Un prepose est monte sur un bac a shampoing en ceramique instable et casse pour acceder au poste de television, faute d'escabeau. La vasque a bascule sous son poids, et ma main droite a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence.
 

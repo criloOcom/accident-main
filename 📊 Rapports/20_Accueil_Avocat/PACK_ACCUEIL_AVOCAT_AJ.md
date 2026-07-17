@@ -21,10 +21,10 @@ statut: final
 - **Victime** : **[La Victime]**, 44 ans, informaticien indépendant.
 - **Mise en cause** : **[L'Exploitant du Commerce (La SAS)]** (capital de 200 €) et ses dirigeants à titre personnel (faute détachable). Assureur présumé : **[L'Assureur RC]** (silencieux).
 
-### Mécanisme de l'accident
+### I.1 — Mécanisme de l'accident
 Le préposé du salon est monté sur la vasque en céramique du bac à shampoing pour régler un téléviseur. En redescendant, son poids a provoqué le basculement de l'équipement (fragilisé par une cassure majeure préexistante, non signalée). Par réflexe, **[La Victime]** a tendu la main droite pour protéger le préposé et a heurté cette cassure. Aucune chute de débris (la vasque ne s'est pas effondrée, elle a basculé). Le récit est acté dans le PV de plainte complémentaire (J+47) et le réquisitoire introductif.
 
-### Conséquences médicales et financières
+### I.2 — Conséquences médicales et financières
 - **Lésions** : Section partielle du tendon fléchisseur profond, section du paquet collatéral et nécessité d'une neurolyse du nerf palmaire de l'index droit. Chirurgie d'urgence réalisée le 30 mai 2026.
 - **ITT Pénale** : 56 jours (jusqu'au 23/07/2026).
 - **Évaluation financière (estimative post-expertise Dintilhac)** : Entre 120 000 € et 160 000 € au global (DFP estimé à 12 %, Incidence Professionnelle majeure). Provision déjà demandée : 15 000 €.
@@ -34,13 +34,13 @@ Le préposé du salon est monté sur la vasque en céramique du bac à shampoing
 
 ## II — CALENDRIER DES ÉCHÉANCES
 
-### Jalons passés
+### II.1 — Jalons passés
 - **29/05/2026** : Accident au salon. ITT de 56 jours.
 - **02/06/2026** : Dépôt de plainte initiale (PV n°2026/015967).
 - **29/06/2026** : Mises en demeure (LRAR) aux dirigeants, SAS et propriétaire (carence amiable constatée).
 - **15/07/2026** : Dépôt de la requête article 145 CPC (TJ de **[La Ville de l'Accident]**) et de la demande d'Aide Juridictionnelle. Dépôt de la plainte complémentaire (délit d'obstacle à la vérité).
 
-### Échéances à venir
+### II.2 — Échéances à venir
 - **Dès réception** : Analyse des pièces et validation de l'assignation en référé-provision.
 - **Fin juillet 2026 (à surveiller)** : Relance des administrations (Préfecture, Inspection du travail) en cas de silence (délai de 2 mois avant saisine CADA).
 - **12 novembre 2026 (13h45)** : Expertise médicale UMJ sur réquisition judiciaire (évaluation ITT et séquelles).
@@ -50,16 +50,16 @@ Le préposé du salon est monté sur la vasque en céramique du bac à shampoing
 
 ## III — PLAN DE LA STRATÉGIE CONTENTIEUSE
 
-### 1. Phase 1 : Probatoire et Référé-Provision
+### III.1 — Phase 1 : Probatoire et Référé-Provision
 - **Référé probatoire (Article 145 CPC)** : Ordonnance sur requête pour forcer la communication du contrat d'assurance RC Pro de la SAS (et sécuriser les vidéos de vidéosurveillance si elles n'ont pas été détruites).
 - **Référé-Provision / Expertise (Article 835 CPC)** : Assigner la SAS *in solidum* avec ses dirigeants pour obtenir une provision (15 000 €) sur la base de l'article 1242 al. 1er (garde de la chose) et solliciter une expertise judiciaire médicale (Dintilhac).
 - **Action directe** : Assigner l'assureur RC Pro (Article L.124-3 du Code des assurances) dès son identification formelle.
 
-### 2. Phase 2 : Volet Pénal (Support au civil)
+### III.2 — Phase 2 : Volet Pénal (Support au civil)
 - Poursuite de la plainte initiale (Blessures involontaires - Article 222-20 du Code pénal) et complémentaire (Obstruction à la justice - Article 434-4 du Code pénal).
 - Objectif : Obtenir la reconnaissance de la faute pour consolider de manière irréfragable le volet civil. L'expertise UMJ (12/11/2026) viendra conforter la base médico-légale.
 
-### 3. Phase 3 : Action au Fond
+### III.3 — Phase 3 : Action au Fond
 - Post-consolidation (estimée en mars 2027) et dépôt du rapport d'expertise.
 - Liquidation globale du préjudice corporel devant le Tribunal Judiciaire, avec maximisation des postes patrimoniaux (Incidence Professionnelle et Pertes de Gains) et extra-patrimoniaux (DFP, Souffrances Endurées).
 
@@ -67,18 +67,18 @@ Le préposé du salon est monté sur la vasque en céramique du bac à shampoing
 
 ## IV — LISTE DES PIÈCES DISPONIBLES (SÉLECTION)
 
-### Groupe A — Preuves de l'accident
+### IV.1 — Groupe A — Preuves de l'accident
 - **Pièce 1** : [PV de police n°2026/015967 (Dépôt de plainte initiale)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20PV%20Audition%20Plainte%20Complementaire.md)
 - **Pièce 2** : Certificat médical initial — **[Le Médecin en Urgence]** (J+0)
 - **Pièce 3** : Compte-rendu opératoire — **[Le Chirurgien SOS Main]** (J+1)
 - **Pièce 4** : Arrêts de travail (ITT 56 jours, jusqu'au 23/07/2026)
 
-### Groupe B — Preuves financières
+### IV.2 — Groupe B — Preuves financières
 - **Pièce 6** : Preuve bancaire (Paiement Wero 15 €) justifiant la présence sur les lieux
 - **Pièce 8** : Facture de chirurgie (790,23 €)
 - **Pièce 9** : Dossier RCT CPAM n°31727387
 
-### Groupe C — Correspondances et Actes
+### IV.3 — Groupe C — Correspondances et Actes
 - **Pièce 10** : [Mise en demeure SAS (LRAR J+31)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)
 - **Pièce 11/12** : Mises en demeure aux dirigeants **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**
 - **Pièce 16** : [Projet d'assignation en référé-provision et expertise (Art. 835 et 145 CPC)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B63%20%E2%9A%96%EF%B8%8F%20Projet%20Assignation%20Refere%20Provision.md)
@@ -110,7 +110,7 @@ Le préposé du salon est monté sur la vasque en céramique du bac à shampoing
 
 ---
 
-### À remplir par l'avocat
+### VI.1 — À remplir par l'avocat
 
 | Champ | Réponse |
 |---|---|

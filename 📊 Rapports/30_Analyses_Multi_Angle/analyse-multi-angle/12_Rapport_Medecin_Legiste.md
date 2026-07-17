@@ -30,7 +30,7 @@ Le présent avis sur pièces est rendu dans le cadre de l'évaluation médico-l�
 
 ## II — ANALYSE DES PIÈCES MÉDICALES ET GRAVITÉ DES LÉSIONS
 
-### A. Certificats médicaux initiaux
+### II.1 — Certificats médicaux initiaux
 
 Le dossier repose sur deux pièces médicales fondamentales :
 1. **Compte-rendu opératoire de SOS Main (Clinique de l'Union) du 30 mai 2026** (Dr Iskander DJERBI).
@@ -40,7 +40,7 @@ L'examen de ces pièces permet de qualifier le certificat médical initial de **
 
 *Remarque médico-légale :* Il convient de noter que le certificat du Dr OXYBEL du 01/06/2026 a initialement chiffré l'ITT à 1 jour. Il s'agit à l'évidence d'une erreur matérielle grossière au regard de la gravité des lésions, erreur fort heureusement rectifiée ultérieurement pour correspondre à la réalité clinique de 56 jours.
 
-### B. Nature et gravité des lésions
+### II.2 — Nature et gravité des lésions
 
 Les lésions sont sévères et documentées par le compte-rendu opératoire :
 - Plaie palmaire profonde de l'index droit.
@@ -53,17 +53,17 @@ Ces lésions justifient pleinement le recours à une intervention de microchirur
 
 ## III — ÉVALUATION DE L'ITT ET DES PRÉJUDICES PRÉVISIONNELS
 
-### A. Cohérence de l'ITT
+### III.1 — Cohérence de l'ITT
 
 L'Incapacité Totale de Travail (ITT) au sens pénal du terme, retenue à **56 jours**, est parfaitement **cohérente et justifiée**.
 Une plaie de 8,5 cm impliquant une section tendineuse et une réparation microchirurgicale nerveuse entraîne une perte de fonction majeure de la main dominante. La période de 56 jours couvre la phase de cicatrisation cutanée, tendineuse et nerveuse initiale, ainsi que le début de la rééducation fonctionnelle indispensable.
 
-### B. Probabilité de consolidation et Déficit Fonctionnel Permanent (DFP) attendu
+### III.2 — Probabilité de consolidation et Déficit Fonctionnel Permanent (DFP) attendu
 
 La consolidation ne peut être acquise à ce stade précoce. Les lésions nerveuses périphériques requièrent un délai de régénération long (souvent de 12 à 18 mois).
 À terme, le Déficit Fonctionnel Permanent (DFP) attendu se situe vraisemblablement dans une fourchette de **10 % à 15 %** selon le Barème du Concours Médical et le Barème indicatif de la Cour d'Appel (Barème Mornet). Cette estimation prend en compte l'atteinte combinée (tendineuse et nerveuse) sur le doigt de la pince bidigitale (index) de la main dominante, entraînant des séquelles probables (perte de force, perte de sensibilité, douleurs neuropathiques).
 
-### C. Souffrances Endurées (SE)
+### III.3 — Souffrances Endurées (SE)
 
 Les Souffrances Endurées sont estimées de manière prévisionnelle à **3,5/7 ou 4/7**. Cette cotation tient compte du traumatisme initial, de la prise en charge en urgence, de l'intervention de microchirurgie réparatrice complexe, des douleurs post-opératoires et de la durée prolongée de la rééducation.
 
@@ -71,12 +71,12 @@ Les Souffrances Endurées sont estimées de manière prévisionnelle à **3,5/7 
 
 ## IV — INCIDENCE PROFESSIONNELLE ET RECTIFICATION FACTUELLE
 
-### A. Correction sur la profession de la victime
+### IV.1 — Correction sur la profession de la victime
 
 Une instruction (potentiellement un "piège" ou une confusion dans le mandat) invitait à évaluer l'incidence professionnelle pour un "coiffeur". Or, l'analyse scrupuleuse des faits révèle que le coiffeur est le tiers impliqué (le préposé) dans la survenue de l'accident, et non la victime.
 **[La Victime]** exerce la profession d'**informaticien indépendant / développeur**. L'analyse de l'incidence professionnelle (IP) doit donc se faire sous ce prisme.
 
-### B. Conséquences pour un informaticien
+### IV.2 — Conséquences pour un informaticien
 
 L'incidence professionnelle est **majeure**. L'atteinte de l'index de la main droite (dominante) impacte directement les gestes fondamentaux de la profession :
 - Frappe au clavier (vitesse, précision, douleurs à la répétition).

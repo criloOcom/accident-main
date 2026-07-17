@@ -15,9 +15,9 @@ statut: brouillon
 Enregistrement des corrections et mises à jour **juridiques** apportées aux actes et notes du dossier, avec date, type de correction et outils de vérification utilisés (Légifrance, OpenLegi).
 
 > Dernière mise à jour : 2026-07-13
-## 1. Corrections sur les articles de codes
+## I — Corrections sur les articles de codes
 
-### 1.1 Code de commerce — procédures collectives
+### I.1 — 1.1 Code de commerce — procédures collectives
 
 - **Ancienne référence :** Article L. 654-6 du Code de commerce
 
@@ -43,7 +43,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 <hr><hr>
 
-### 1.2 Code de procédure pénale — réquisitions de vidéosurveillance
+### I.2 — 1.2 Code de procédure pénale — réquisitions de vidéosurveillance
 
 - **Ancienne référence :** Article 56-1 du Code de procédure pénale
 
@@ -67,7 +67,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 <hr><hr>
 
-### 1.3 Code de la construction et de l'habitation — ERP
+### I.3 — 1.3 Code de la construction et de l'habitation — ERP
 
 - **Ancienne référence :** « Articles R. 123-1 et suivants du CCH » (régime ERP ancien)
 
@@ -91,7 +91,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 <hr><hr>
 
-### 1.4 Code monétaire et financier — suppression de L. 224-98
+### I.4 — 1.4 Code monétaire et financier — suppression de L. 224-98
 
 - **Ancienne référence :** Article L. 224-98 du Code monétaire et financier
 
@@ -112,9 +112,9 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 - **Date :** 2026-07-13
 <hr><hr>
 
-## 2. Harmonisation des URL Légifrance
+## II — Harmonisation des URL Légifrance
 
-### 2.1 Article 835 du Code de procédure civile
+### II.1 — 2.1 Article 835 du Code de procédure civile
 
 - **Ancienne situation :** URL pointant vers `LEGIARTI000039480112` (version antérieure)
 
@@ -130,7 +130,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Date :** 2026-07-13
 
-### 2.2 Article 706-3 du Code de procédure pénale
+### II.2 — 2.2 Article 706-3 du Code de procédure pénale
 
 - **Ancienne situation :** URL pointant vers `LEGIARTI000006577625` (abrogé)
 
@@ -149,9 +149,9 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 - **Date :** 2026-07-13
 <hr><hr>
 
-## 3. Jurisprudence
+## III — Jurisprudence
 
-### 3.1 Référence incomplète — Civ. 2e, 14 juin 1957
+### III.1 — 3.1 Référence incomplète — Civ. 2e, 14 juin 1957
 
 - **Ancienne situation :** Mention « Civ. 2e, 14 juin 1957 » sans numéro de pourvoi vérifiable.
 
@@ -168,7 +168,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 - **Date :** 2026-07-13
 <hr><hr>
 
-## 4. Méthodologie
+## IV — Méthodologie
 
 Pour toute nouvelle référence juridique ajoutée au dossier :
 

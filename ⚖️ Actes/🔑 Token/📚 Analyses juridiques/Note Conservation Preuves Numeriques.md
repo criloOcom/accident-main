@@ -64,7 +64,7 @@ Afin de garantir l'admissibilité et l'incontestabilité de ces preuves, il conv
 
 ## III — ARGUMENTATION ET STRATÉGIE DE COLLECTE
 
-### 1. Conservation des réseaux sociaux (Facebook, Instagram)
+### III.1 — Conservation des réseaux sociaux (Facebook, Instagram)
 
 Les pages de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sur les réseaux sociaux peuvent démontrer l'activité récente, la configuration des lieux (photos de l'intérieur du commerce, présence du téléviseur ou des bacs à shampoing) et les horaires d'ouverture.
 
@@ -72,14 +72,14 @@ Les pages de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20M
 
 - **Outil** : Utilisation de l'outil Archive.org (Wayback Machine) pour figer la page dans le temps avec une URL pérenne.
 
-### 2. Plateformes d'annuaires et d'information sur les sociétés
+### III.2 — Plateformes d'annuaires et d'information sur les sociétés
 
 Ces plateformes prouvent que la société était bien référencée et active à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) :
 - **Societe.com** / **Infogreffe** : Permet de prouver l'immatriculation de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sous son identifiant, l'identité de ses dirigeants ([**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)), et l'adresse de son siège.
 
 - **Kompass** / **Pages Jaunes** : Prouve l'inscription commerciale et les coordonnées publiques de l'établissement au moment de l'accident.
 
-### 3. Avis Google (Google My Business)
+### III.3 — Avis Google (Google My Business)
 
 La page Google de l'établissement constitue une preuve majeure de son exploitation commerciale.
 
@@ -87,7 +87,7 @@ La page Google de l'établissement constitue une preuve majeure de son exploitat
 
 - **Action** : Exporter ou archiver via Archive.org la page Google Maps/Google My Business.
 
-### 4. Recours à un Commissaire de Justice
+### III.4 — Recours à un Commissaire de Justice
 
 Pour les preuves jugées essentielles et facilement altérables (photos intérieures effacées, changement d'adresse de siège social), il est vivement recommandé de faire procéder à un **constat d'internet par Commissaire de Justice**.
 

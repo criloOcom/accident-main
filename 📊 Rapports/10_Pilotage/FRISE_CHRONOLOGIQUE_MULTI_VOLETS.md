@@ -15,7 +15,7 @@ Cette frise superpose les 4 volets stratégiques du dossier sur une seule ligne 
 
 <hr><hr>
 
-## Tableau chronologique
+## I — Tableau chronologique
 
 | Période / Date | Volet Pénal | Volet Civil | Volet Administratif | Volet Médical |
 | :--- | :--- | :--- | :--- | :--- |
@@ -29,7 +29,7 @@ Cette frise superpose les 4 volets stratégiques du dossier sur une seule ligne 
 
 <hr><hr>
 
-## Dépendances inter-volets
+## II — Dépendances inter-volets
 
 * **AJ → Civil** : Le référé-provision est bloqué en attente de la désignation par le BAJ.
 * **Civil → Administratif/Pénal** : L'ordonnance 145 CPC permet d'obtenir les vidéos avant écrasement et d'identifier l'assureur pour la mise en demeure.

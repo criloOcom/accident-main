@@ -39,7 +39,7 @@ Objet : Signalement de travail dissimule presume — SAS [**[L'Exploitant du Com
 Ref : SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)
 
 Madame, Monsieur le Directeur,
-## INTRODUCTION
+## I — INTRODUCTION
 
 Je vous signale par la presente des elements laissant presumer l'exercice d'un travail dissimule au sein de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)), conformement aux articles L.8221-1 et suivants du Code du travail.
 
@@ -48,7 +48,7 @@ Le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%
 Les informations publiques disponibles (INPI, INSEE) indiquent que cette societe, creee le 1er juin 2024 avec un capital de 200 €, ne declare aucun salarie.
 <hr><hr>
 
-## I — ELEMENTS LAISSANT PRESUMER UN TRAVAIL DISSIMULE
+## II — ELEMENTS LAISSANT PRESUMER UN TRAVAIL DISSIMULE
 
 Les elements suivants sont susceptibles de caracteriser un travail dissimule par dissimulation d'emploi salarie (Article L.8221-5 du Code du travail) :
 
@@ -85,7 +85,7 @@ Les elements suivants sont susceptibles de caracteriser un travail dissimule par
 - Aucune declaration d'accident du travail n'a ete transmise a la CPAM
 <hr><hr>
 
-## II — DEMANDE DE VERIFICATION
+## III — DEMANDE DE VERIFICATION
 
 Je sollicite de vos services qu'une verification soit effectuee concernant :
 

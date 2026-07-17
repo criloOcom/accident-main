@@ -27,14 +27,14 @@ type: rapport
 
 ---
 
-## 1. Description du Nouveau Dossier
+## I — Description du Nouveau Dossier
 
-### Emplacement
+### I.1 — Emplacement
 ```
 ⚖️ Actes/Preuves officielles/20260710 📧 Actualisation Dossier ERP/
 ```
 
-### Structure
+### I.2 — Structure
 ```
 20260710 📧 Actualisation Dossier ERP/
 ├── 20260710-0916 MAIL Actualisation Dossier ERP.docx (783 KB)
@@ -42,10 +42,10 @@ type: rapport
 └── 20260710-0916 MAIL Actualisation Dossier ERP.pdf (52 KB)
 ```
 
-### Contexte
+### I.3 — Contexte
 Ce dossier contient la correspondance officielle envoyée le 10 juillet 2026 à la Mairie de Foix concernant l'actualisation du dossier ERP (Établissement Recevant du Public) lié à l'accident du 29 mai 2026 au salon de coiffure "Les Mauvais Garçons" situé au 22 Rue Lafaurie.
 
-### Objectifs du Dossier
+### I.4 — Objectifs du Dossier
 1. **Suivi administratif** : Demande de communication des références des saisines administratives
 2. **Transparence** : Mise à jour sur l'évolution de la situation (courriers retournés NPAI, réouverture du salon)
 3. **Coordination** : Faciliter la coordination entre les services municipaux et l'autorité judiciaire
@@ -53,9 +53,9 @@ Ce dossier contient la correspondance officielle envoyée le 10 juillet 2026 à 
 
 ---
 
-## 2. Contenu Détaillé
+## II — Contenu Détaillé
 
-### Fichier Principal : 20260710-0916 MAIL Actualisation Dossier ERP.md
+### II.1 — Fichier Principal : 20260710-0916 MAIL Actualisation Dossier ERP.md
 
 **Metadata :**
 - **Date** : 10 juillet 2026, 09:16
@@ -66,28 +66,28 @@ Ce dossier contient la correspondance officielle envoyée le 10 juillet 2026 à 
 
 **Contenu Structuré :**
 
-#### A. Contexte et Historique (§1-4)
+#### II.1.a — Contexte et Historique (§1-4)
 - Rappel des correspondances précédentes (1er juin, 2 juin, 5 juillet 2026)
 - Saisie des services : Préfecture, Inspection du Travail, CODAF
 - Ouverture de la procédure pénale (PV n°2026/015967)
 
-#### B. Demande Principale (§5)
+#### II.1.b — Demande Principale (§5)
 - Communication des références des saisines administratives du 1er juin 2026
 - Objectif : Suivi de l'évolution des dossiers administratifs
 - Finalité : Transmission à l'autorité judiciaire
 
-#### C. Éléments Nouveaux (§6-9)
+#### II.1.c — Éléments Nouveaux (§6-9)
 - **Médical** : Protocole kinésithérapie, pronostic de récupération partielle
 - **Administratif** : Courriers LRAR retournés NPAI (29/06/2026)
 - **Judiciaire** : Transmission dossier médical au Procureur (11 pièces)
 - **Économique** : Réouverture du salon (06/07/2026) malgré les problèmes
 
-#### D. Conclusion (§10-12)
+#### II.1.d — Conclusion (§10-12)
 - Mise à disposition du dossier complet
 - Offre de collaboration avec les services municipaux
 - Formules de politesse professionnelles
 
-### Fichiers Complémentaires
+### II.2 — Fichiers Complémentaires
 
 1. **20260710-0916 MAIL Actualisation Dossier ERP.docx** (783 KB)
    - Version Word du courrier
@@ -101,9 +101,9 @@ Ce dossier contient la correspondance officielle envoyée le 10 juillet 2026 à 
 
 ---
 
-## 3. Liens avec le Projet
+## III — Liens avec le Projet
 
-### Correspondance avec le Courrier n°34
+### III.1 — Correspondance avec le Courrier n°34
 
 Ce dossier est directement lié au **courrier n°34** du projet :
 - **Document** : [⚖️ Actes/🔑 Token/✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/34%20✉️%20EMAIL%20Maire%20Foix%20-%20Police%20Municipale%20ERP.md)
@@ -111,7 +111,7 @@ Ce dossier est directement lié au **courrier n°34** du projet :
 - **Date** : 10 juillet 2026
 - **Objectif** : Mise à jour du dossier ERP et demande d'intervention
 
-### Intégration dans la Chronologie
+### III.2 — Intégration dans la Chronologie
 
 ```mermaid
 gantt
@@ -125,7 +125,7 @@ gantt
     Réouverture salon          :c1, 2026-07-06, 1d
 ```
 
-### Références Croisées
+### III.3 — Références Croisées
 
 **Documents liés dans le projet :**
 - Courrier n°34 : Email initial à la mairie (10/07/2026)
@@ -139,16 +139,16 @@ gantt
 
 ---
 
-## 4. Mises à Jour Effectuées
+## IV — Mises à Jour Effectuées
 
-### A. Documentation du Dossier
+### IV.1 — Documentation du Dossier
 
 **Fichier créé :** `RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711.md`
 - Emplacement : [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 - Contenu : Documentation complète du nouveau dossier
 - Objectif : Reference pour tous les agents du projet
 
-### B. Mise à Jour des README
+### IV.2 — Mise à Jour des README
 
 **⚖️ Actes/Preuves officielles/README.md**
 ```markdown
@@ -167,24 +167,24 @@ gantt
 | **2026/07/10** | Email actualisation ERP | Correspondance mairie | ✅ Envoyé |
 ```
 
-### C. Mise à Jour STATUS.md
+### IV.3 — Mise à Jour STATUS.md
 
 **Section "Dernières Actions" ajoutée :**
 ```markdown
-## Dernières Actions (11 juillet 2026)
+## V — Dernières Actions (11 juillet 2026)
 
-### 📧 Correspondance Administrative
+### V.1 — 📧 Correspondance Administrative
 - **Email n°34** : Actualisation dossier ERP envoyé à la Mairie de Foix (10/07/2026)
 - **Dossier créé** : 20260710 📧 Actualisation Dossier ERP
 - **Pièces jointes** : PDF, DOCX, MD versions disponibles
 - **Statut** : ✅ Archivé dans Preuves officielles
 ```
 
-### D. Mise à Jour TODO.md
+### V.2 — Mise à Jour TODO.md
 
 **Section "Suivi Administratif" mise à jour :**
 ```markdown
-### 📧 Suivi Administratif
+### V.3 — 📧 Suivi Administratif
 - [ ] **Relancer la Mairie de Foix** : Vérifier réception email n°34 (10/07)
 - [ ] **Suivre les saisines** : Préfecture, Inspection du Travail, CODAF
 - [ ] **Archiver les réponses** : Dans 20260710 📧 Actualisation Dossier ERP/
@@ -192,9 +192,9 @@ gantt
 
 ---
 
-## 5. Prochaines Étapes
+## VI — Prochaines Étapes
 
-### A. Actions Immédiates
+### VI.1 — Actions Immédiates
 
 1. **Générer les versions réelles** :
    ```bash
@@ -216,7 +216,7 @@ gantt
    git push origin main
    ```
 
-### B. Actions de Suivi
+### VI.2 — Actions de Suivi
 
 1. **Surveiller les réponses** :
    - Attendre la réponse de la Mairie de Foix
@@ -232,7 +232,7 @@ gantt
    - Utiliser pour les prochaines relances
    - Référencer dans les conclusions judiciaires
 
-### C. Documentation Complémentaire
+### VI.3 — Documentation Complémentaire
 
 1. **Créer une fiche récapitulative** :
    - Résumé des correspondances avec la mairie
@@ -245,9 +245,9 @@ gantt
 
 ---
 
-## Conclusion
+## VII — Conclusion
 
-### Bilan
+### VII.1 — Bilan
 
 ✅ **Dossier documenté** : Rapport complet disponible
 ✅ **README mis à jour** : Intégration dans la structure
@@ -255,14 +255,14 @@ gantt
 ✅ **TODO.md mis à jour** : Prochaines étapes claires
 ✅ **Prêt pour GitHub** : Fichiers préparés pour commit
 
-### Statistiques
+### VII.2 — Statistiques
 
 - **1 nouveau dossier** ajouté
 - **3 fichiers** (MD, DOCX, PDF) archivés
 - **4 fichiers** mis à jour (2 README, STATUS, TODO)
 - **1 rapport** de documentation créé
 
-### Prochaine Étape Critique
+### VII.3 — Prochaine Étape Critique
 
 **Effectuer le commit GitHub** pour sauvegarder les modifications :
 ```bash

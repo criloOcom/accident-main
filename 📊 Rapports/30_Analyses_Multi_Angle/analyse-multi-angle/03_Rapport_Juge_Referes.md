@@ -23,12 +23,12 @@ type: rapport
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »*
 > **[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)**
 
-### A. Caractérisation du motif légitime
+### I.1 — Caractérisation du motif légitime
 
 Le demandeur sollicite la communication forcée de la police d'assurance Responsabilité Civile Professionnelle de l'exploitation ainsi que la conservation et la communication des enregistrements de vidéosurveillance couvrant la période de l'accident (25 mai au 5 juin 2026).
 Ce motif est pleinement légitime, ces éléments étant déterminants pour figer la réalité matérielle des faits (basculement de la vasque, état préexistant de la chose, carence d'équipements adaptés) et pour assurer la solvabilité de l'entité responsable en vue d'une action au fond.
 
-### B. Urgence et risque de dépérissement des preuves
+### I.2 — Urgence et risque de dépérissement des preuves
 
 La nature volatile des enregistrements vidéo justifie l'intervention en référé. Les systèmes de vidéosurveillance procédant généralement à un écrasement cyclique des données sous 30 à 60 jours, le risque de perte irrémédiable de preuves essentielles (l'accident remontant au 29 mai 2026) rend la mesure d'instruction in futurum absolument urgente et proportionnée.
 

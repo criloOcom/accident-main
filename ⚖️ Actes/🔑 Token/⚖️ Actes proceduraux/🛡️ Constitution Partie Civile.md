@@ -36,14 +36,14 @@ A l'attention de Monsieur le Doyen des Juges d'Instruction
 Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
 **[La Ville de Residence de la Victime]**, le [**[J+38 Constitution PC]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)
-## INTRODUCTION
+## I — INTRODUCTION
 
 La presente [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) est formee par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) dans le cadre de la procedure penale suivie a l'encontre de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), de son President **[Le President de l'Exploitation]** et de sa Directrice Generale **[La Directrice Generale de l'Exploitation]**, en application des articles 2 et suivants du Code de procedure penale.
 
 Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la reparation de l'integralite des prejudices corporels, materiels et moraux decoulant de l'accident survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 <hr><hr>
 
-## I — EXPOSE DES FAITS
+## II — EXPOSE DES FAITS
 
 Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), alors que [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) se trouvait en qualite de client au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sis [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), un grave accident corporel est survenu.
 
@@ -61,15 +61,15 @@ Le prepose de l'exploitation, **[Le Prepose de l'Exploitation]**, a escalade la 
 
 Une microchirurgie d'urgence a ete pratiquee le [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) au centre SOS Main de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md). L'etat de la victime a ete declare **consolide au 1er mars 2027** par l'expert judiciaire designe par ordonnance de refere du 31 juillet 2026, conformément au rapport d'expertise depose le 12 juin 2027.
 
-### ANTECEDENTS ET CARENCES DES MIS EN CAUSE
+### II.1 — ANTECEDENTS ET CARENCES DES MIS EN CAUSE
 
 La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), immatriculee au RCS sous le SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md), a ete constituee avec un capital social de 200 € seulement. Son President, **[Le President de l'Exploitation]**, et sa Directrice Generale, **[La Directrice Generale de l'Exploitation]**, n'ont souscrit aucune assurance de responsabilite civile professionnelle pour l'exploitation du salon, en violation des obligations legales et reglementaires applicables aux etablissements recevant du public (ERP).
 
 Malgre des mises en demeure recommandees adressees le [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) a la SAS, au President et a la Directrice Generale, aucun des mis en cause n'a communique les coordonnees d'un assureur, laissant presumer une absence totale de couverture.
 <hr><hr>
 
-## II — FONDEMENTS JURIDIQUES
-### A. SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES
+## III — FONDEMENTS JURIDIQUES
+### III.1 — SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES
 
 Les faits decrits ci-dessus sont constitutifs du delit de blessures involontaires prevu et reprime par les articles 222-19 et 222-20 du Code penal.
 
@@ -99,7 +99,7 @@ La **violation manifestement deliberee** est caracterisee par :
   
 - L'absence de mise a disposition d'un escabeau, contraignant le prepose a escalader la vasque
 
-### B. SUR LA RESPONSABILITE CIVILE PERSONNELLE DES DIRIGEANTS
+### III.2 — SUR LA RESPONSABILITE CIVILE PERSONNELLE DES DIRIGEANTS
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
@@ -135,7 +135,7 @@ En l'espece, les fautes separables des dirigeants sont caracterisees par :
 
 Ces fautes, commises personnellement par le President et la Directrice Generale, sont detachables de leurs fonctions sociales et engagent leur responsabilite sur leur patrimoine propre.
 
-### C. SUR LE FONDEMENT DU DROIT DE LA CONSOMMATION
+### III.3 — SUR LE FONDEMENT DU DROIT DE LA CONSOMMATION
 
 > *« Le professionnel de vente est tenu d'une obligation d'information précontractuelle sur les caractéristiques essentielles du bien ou du service. »* <br>
 > [Article L. 111-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438) <br>
@@ -147,7 +147,7 @@ Ces fautes, commises personnellement par le President et la Directrice Generale,
 
 Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'information precontractuelle et a une obligation de conformite du service fourni. La prestation realisee n'etait manifestement pas conforme aux exigences de securite legitimes d'un consommateur, ce qui constitue un fondement complementaire a l'action civile et renforce l'absence de contestation serieuse.
 
-### D. SUR LE DEFAUT D'ASSURANCE DE RESPONSABILITE CIVILE
+### III.4 — SUR LE DEFAUT D'ASSURANCE DE RESPONSABILITE CIVILE
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
@@ -156,7 +156,7 @@ Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'inf
 En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles 706-3 et 706-14 du Code de procédure pénale (Titre XIV), pourra être directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) sollicite formellement la designation du FGTI comme garant subrogatoire.
 <hr><hr>
 
-## III — PREJUDICES
+## IV — PREJUDICES
 
 Les prejudices subis par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), evalues par expertise judiciaire (rapport depose le 12 juin 2027, consolidation au 1er mars 2027), sont les suivants :
 
@@ -177,7 +177,7 @@ Les prejudices subis par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9
 | **Total estimatif global** | | **120 000 — 160 000 €** | Avant recours CPAM — conforme au rapport d'expertise |
 <hr><hr>
 
-## IV — DEMANDES
+## V — DEMANDES
 
 Par ces motifs, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction de :
 

@@ -18,13 +18,13 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/📁 Preparation Expertise U
 ---
 
 ## PIÈCES À APPORTER
-### 1. DOCUMENTS D'IDENTITÉ- [ ] Carte d'identité / Passeport
+### I.1 — DOCUMENTS D'IDENTITÉ- [ ] Carte d'identité / Passeport
 
 - [ ] Carte Vitale + attestation CPAM droit commun
 
 - [ ] Carte mutuelle
 
-### 2. DOCUMENTS MÉDICAUX — ACCIDENT INITIAL- [ ] **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md), 30/05/2026) — microchirurgie tendons/nerfs index droit
+### I.2 — DOCUMENTS MÉDICAUX — ACCIDENT INITIAL- [ ] **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md), 30/05/2026) — microchirurgie tendons/nerfs index droit
 
 - [ ] **[Premiers soins](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** ([**[Le Médecin en Urgence]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md), 29/05/2026, 16h30)
 
@@ -32,7 +32,7 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/📁 Preparation Expertise U
 
 - [ ] **[Ordonnance de sortie](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530-1700%20Ordonnance%20Sortie%20DrDJERBI.md)** ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md), 30/05/2026) — antalgiques
 
-### 3. [ARRÊTS DE TRAVAIL](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)- [ ] **Arrêt initial** ([**[Le Médecin Généraliste]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-medecin-generaliste.md), 01/06/2026, 15j)
+### I.3 — [ARRÊTS DE TRAVAIL](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)- [ ] **Arrêt initial** ([**[Le Médecin Généraliste]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-medecin-generaliste.md), 01/06/2026, 15j)
 
 - [ ] **Prolongation 1** (11j)
 
@@ -40,17 +40,17 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/📁 Preparation Expertise U
 
 - [ ] Soit total ITT : 56 jours
 
-### 4. SUIVI ET RÉÉDUCATION- [ ] **Consultation contrôle J+24** ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) — bonne cicatrisation, déficit neurologique)
+### I.4 — SUIVI ET RÉÉDUCATION- [ ] **Consultation contrôle J+24** ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) — bonne cicatrisation, déficit neurologique)
 
 - [ ] **Prescription kinésithérapie** (3 séances/semaine, pas de travail en résistance 4 semaines)
 
 - [ ] **Comptes-rendus séances kiné** (SOS Main Bâtiment B)
 
-### 5. IMAGERIE- [ ] **Scanner / IRM main droite** (si réalisé)
+### I.5 — IMAGERIE- [ ] **Scanner / IRM main droite** (si réalisé)
 
 - [ ] **Écho-doppler** (si réalisé)
 
-### 6. AUTRES- [ ] Dépôt de plainte (01/06/2026)
+### I.6 — AUTRES- [ ] Dépôt de plainte (01/06/2026)
 
 - [ ] Photos lésions initiales (si disponibles)
 
@@ -58,7 +58,7 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/📁 Preparation Expertise U
 
 ---
 
-## DOCUMENTS DÉJÀ DISPONIBLES SUR DRIVE| Pièce | Drive |
+## II — DOCUMENTS DÉJÀ DISPONIBLES SUR DRIVE| Pièce | Drive |
 
 |-------|-------|
 | [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) | [Lien](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |
@@ -71,7 +71,7 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/📁 Preparation Expertise U
 
 ---
 
-## POINTS À SIGNALER AU MÉDECIN UMJ1. **Profession :** Informaticien indépendant — la main droite dominante est essentielle à l'activité
+## III — POINTS À SIGNALER AU MÉDECIN UMJ1. **Profession :** Informaticien indépendant — la main droite dominante est essentielle à l'activité
 
 2. **Séquelles :** Insensibilité index droit, limitation mobilité, douleurs résiduelles
 

@@ -14,7 +14,7 @@ Il synthétise l'ensemble des travaux préparatoires et mesure la capacité du d
 
 <hr><hr>
 
-## 1. SCORE DE CONFORMITÉ GLOBAL
+## I — SCORE DE CONFORMITÉ GLOBAL
 
 L'évaluation de la solidité du dossier se décompose en 5 dimensions, notées sur 20.
 
@@ -39,7 +39,7 @@ L'évaluation de la solidité du dossier se décompose en 5 dimensions, notées 
 
 <hr><hr>
 
-## 2. TOP 10 DES RISQUES ET CORRECTIFS
+## II — TOP 10 DES RISQUES ET CORRECTIFS
 
 Matrice de criticité des menaces pesant sur le succès du dossier.
 
@@ -85,7 +85,7 @@ Matrice de criticité des menaces pesant sur le succès du dossier.
 
 <hr><hr>
 
-## 3. PLAN D'ACTION PRIORISÉ « 0 → 100 »
+## III — PLAN D'ACTION PRIORISÉ « 0 → 100 »
 
 Le chemin critique vers l'indemnisation complète.
 
@@ -163,7 +163,7 @@ gantt
 
 <hr><hr>
 
-## 4. CONFORMITÉ LOI FRANÇAISE ET RÈGLES DE LA PREUVE
+## IV — CONFORMITÉ LOI FRANÇAISE ET RÈGLES DE LA PREUVE
 
 Le dossier est construit dans le respect absolu des principes fondamentaux de la procédure civile et pénale française.
 
@@ -188,7 +188,7 @@ Le dossier est construit dans le respect absolu des principes fondamentaux de la
 
 <hr><hr>
 
-## 5. RECOMMANDATIONS TRANSVERSALES
+## V — RECOMMANDATIONS TRANSVERSALES
 
 Cinq principes fondamentaux pour pérenniser l'intégrité du dossier jusqu'au jugement.
 

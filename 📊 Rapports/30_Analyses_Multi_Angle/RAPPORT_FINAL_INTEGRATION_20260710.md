@@ -28,34 +28,34 @@ type: rapport
 
 ---
 
-## 1. Résumé des Étapes
+## I — Résumé des Étapes
 
-### ✅ ÉTAPE 1: Recherche Jurisprudence Pertinente
+### I.1 — ✅ ÉTAPE 1: Recherche Jurisprudence Pertinente
 - **Objectif** : Trouver des décisions similaires pour renforcer l'argumentaire
 - **Résultats** : 3 recherches effectuées, 41,095 décisions analysées
 - **Fichier** : `RECHERCHES_JURISPRUDENCE_20260710.json` (1.2 MB)
 
-### ✅ ÉTAPE 2: Vérification des Articles de Loi
+### I.2 — ✅ ÉTAPE 2: Vérification des Articles de Loi
 - **Objectif** : Valider tous les articles cités dans les actes
 - **Résultats** : 31 articles LEGIARTI vérifiés dans 4 fichiers
 - **Fichier** : `VERIFICATION_ARTICLES_20260710.json` (4.5 KB)
 
-### ✅ ÉTAPE 3: Recherche Spécifique Référé-Provision
+### I.3 — ✅ ÉTAPE 3: Recherche Spécifique Référé-Provision
 - **Objectif** : Trouver jurisprudence sur les provisions
 - **Résultats** : 6,452 décisions analysées
 - **Fichier** : `RECHERCHE_PROVISIONS_20260710.json` (3.8 KB)
 
-### ✅ ÉTAPE 4: Recherche Responsabilité Dirigeants
+### I.4 — ✅ ÉTAPE 4: Recherche Responsabilité Dirigeants
 - **Objectif** : Renforcer argumentaire contre les dirigeants
 - **Résultats** : 245,496 décisions analysées
 - **Fichier** : `RECHERCHE_DIRIGEANTS_20260710.json` (1.1 MB)
 
-### ✅ ÉTAPE 5: Recherche Accidents du Travail
+### I.5 — ✅ ÉTAPE 5: Recherche Accidents du Travail
 - **Objectif** : Préparer argumentaire AT/MP
 - **Résultats** : 108,874 décisions analysées
 - **Fichier** : `RECHERCHE_ACCIDENTS_TRAVAIL_20260710.json` (1.1 MB)
 
-### ✅ ÉTAPE 6: Intégration dans les Actes
+### I.6 — ✅ ÉTAPE 6: Intégration dans les Actes
 - **Objectif** : Enrichir les actes avec les références
 - **Résultats** : 3 décisions jurisprudentielles intégrées dans l'assignation + création d'annexes complètes
 - **Fichiers modifiés** :
@@ -66,11 +66,11 @@ type: rapport
   - [📜 Lois/📜 Jurisprudence/🏛️ Action directe et obligation d'assurance/90-14.591_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/90-14.591_CourCassation.md)
   - [📜 Lois/📜 Jurisprudence/🏛️ Responsabilité des dirigeants/11-13.384_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20des%20dirigeants/11-13.384_CourCassation.md)
 
-### ✅ ÉTAPE 7: Génération des Versions Réelles
+### I.7 — ✅ ÉTAPE 7: Génération des Versions Réelles
 - **Objectif** : Mettre à jour les versions avec identités réelles
 - **Résultats** : 91 fichiers générés avec succès
 
-### ✅ ÉTAPE 8: Validation et Tests
+### I.8 — ✅ ÉTAPE 8: Validation et Tests
 - **Objectif** : Vérifier la cohérence et le bon fonctionnement
 - **Résultats** :
   - Tests MCP : 16 tests, 15 OK, 1 skipped
@@ -78,9 +78,9 @@ type: rapport
 
 ---
 
-## 2. Fichiers Générés
+## II — Fichiers Générés
 
-### Fichiers de Données (Total: 3.6 MB)
+### II.1 — Fichiers de Données (Total: 3.6 MB)
 
 | Fichier | Taille | Description |
 |---------|--------|-------------|
@@ -90,7 +90,7 @@ type: rapport
 | `RECHERCHE_DIRIGEANTS_20260710.json` | 1.1 MB | Responsabilité dirigeants |
 | `RECHERCHE_ACCIDENTS_TRAVAIL_20260710.json` | 1.1 MB | Accidents du travail |
 
-### Fichiers de Synthèse
+### II.2 — Fichiers de Synthèse
 
 | Fichier | Taille | Description |
 |---------|--------|-------------|
@@ -101,9 +101,9 @@ type: rapport
 
 ---
 
-## 3. Modifications Apportées
+## III — Modifications Apportées
 
-### Assignation en Référé-Provision
+### III.1 — Assignation en Référé-Provision
 
 **Fichier** : [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
 
@@ -128,7 +128,7 @@ type: rapport
 
 **Format** : Références complètes avec ID, solution, résumé, lien Judilibre et référence aux annexes
 
-### Annexes Jurisprudentielles
+### III.2 — Annexes Jurisprudentielles
 
 **Répertoire créé** : [📜 Lois/📜 Jurisprudence/](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (déplacé depuis 📎 Annexes)
 
@@ -141,9 +141,9 @@ type: rapport
 
 ---
 
-## 4. Résultats des Tests
+## IV — Résultats des Tests
 
-### Tests MCP
+### IV.1 — Tests MCP
 
 ```
 Ran 16 tests in 19.413s
@@ -155,7 +155,7 @@ OK (skipped=1)
 - ✅ TestJudilibreClient : 6 tests passés
 - ✅ TestRequetesSpecifiques : 4 tests passés (1 skipped)
 
-### Vérification de Cohérence
+### IV.2 — Vérification de Cohérence
 
 ```
 === VÉRIFICATION CROSS-DOCUMENT ===
@@ -164,9 +164,9 @@ Rien à signaler — tout est cohérent.
 
 ---
 
-## 5. Prochaines Étapes
+## V — Prochaines Étapes
 
-### Pour le Dossier Juridique
+### V.1 — Pour le Dossier Juridique
 
 1. **Finaliser l'assignation**
    - ✅ Relire la section "A. Jurisprudence Pertinente" (complété)
@@ -184,7 +184,7 @@ Rien à signaler — tout est cohérent.
    - Créer un tableau comparatif des décisions
    - Préparer des extraits pour le tribunal
 
-### Pour la Stratégie Contentieuse
+### V.2 — Pour la Stratégie Contentieuse
 
 1. **Analyse approfondie**
    - Étudier les 3 décisions intégrées
@@ -203,9 +203,9 @@ Rien à signaler — tout est cohérent.
 
 ---
 
-## Bilan et Recommandations
+## VI — Bilan et Recommandations
 
-### Points Forts
+### VI.1 — Points Forts
 
 ✅ **Recherches exhaustives** : 390,987 décisions analysées
 ✅ **Vérification complète** : 31 articles de loi validés
@@ -213,14 +213,14 @@ Rien à signaler — tout est cohérent.
 ✅ **Tests validés** : 15/16 tests passés
 ✅ **Cohérence vérifiée** : Aucun problème détecté
 
-### Axes d'Amélioration
+### VI.2 — Axes d'Amélioration
 
 🔹 **Affiner les recherches** : Utiliser des termes plus spécifiques (ex: "provision 5000")
 🔹 **Étoffer la jurisprudence** : Ajouter des décisions récentes (2020-2026)
 🔹 **Localiser les recherches** : Filtrer par cour d'appel de Toulouse
 🔹 **Approfondir l'analyse** : Étudier les décisions en détail pour extraire les arguments
 
-### Ressources Disponibles
+### VI.3 — Ressources Disponibles
 
 - **Données brutes** : 3.6 MB de données juridiques dans [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 - **Références formatées** : `REFERENCES_MARKDOWN_20260710.json`

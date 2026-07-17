@@ -17,7 +17,7 @@ type: rapport
 
 ---
 
-## 1. Arborescence complète
+## I — Arborescence complète
 
 ```
 📁 /home/crilocom/accident-main/
@@ -80,16 +80,16 @@ type: rapport
 
 ---
 
-## 2. Vérification 🔑 Token → 👤 Reel
+## II — Vérification 🔑 Token → 👤 Reel
 
-### 📂 Preuves officielles
+### II.1 — 📂 Preuves officielles
 | 🔑 Token | 👤 Reel | Statut |
 |----------|---------|--------|
 | `01 Dossier UMJ Preparation.md` | ✅ Présent | OK |
 | `.gitkeep` | ❌ Absent | OK (place technique) |
 | `README.md` | ✅ Présent | OK |
 
-### ⚖️ Actes proceduraux
+### II.2 — ⚖️ Actes proceduraux
 | 🔑 Token | 👤 Reel | Statut |
 |----------|---------|--------|
 | `01 ⚖️ Assignation.md` | ✅ Présent | OK |
@@ -106,19 +106,19 @@ type: rapport
 | — | ❌ `04 📑 Bordereau Audience.md` | **EXCÉDENT** 👤 |
 | — | ❌ `04 📑 Bordereau de pieces.md` | **EXCÉDENT** 👤 |
 
-### ✉️ Courriers
+### II.3 — ✉️ Courriers
 ✅ **Correspondance parfaite** (33 fichiers identiques, hors .gitkeep)
 
-### 📚 Analyses juridiques
+### II.4 — 📚 Analyses juridiques
 ✅ **Correspondance parfaite** (12 fichiers)
 
-### 💰 Etudes indemnisation
+### II.5 — 💰 Etudes indemnisation
 ✅ **Correspondance parfaite** (4 fichiers)
 
-### 🗂️ Organisation
+### II.6 — 🗂️ Organisation
 ✅ **Correspondance parfaite** (11 fichiers)
 
-### 🗄️ Archives
+### II.7 — 🗄️ Archives
 | 🔑 Token | 👤 Reel | Statut |
 |----------|---------|--------|
 | `11 Fiche Reflexe 48h Victime.md` | ✅ Présent | OK |
@@ -135,7 +135,7 @@ type: rapport
 
 ---
 
-## 3. Conformité AGENTS.md
+## III — Conformité AGENTS.md
 
 | Référence AGENTS.md | Réalité | Conforme ? |
 |---------------------|---------|------------|
@@ -150,7 +150,7 @@ type: rapport
 | `📂 Preuves officielles/` (root ⚖️ Actes) | ✅ Existe | OK |
 | Structure 00-06 sous `token/` et `reel/` | ✅ Présente | OK |
 
-## 4. Conformité README.md
+## IV — Conformité README.md
 
 | Référence README.md | Réalité | Conforme ? |
 |---------------------|---------|------------|
@@ -164,9 +164,9 @@ type: rapport
 
 ---
 
-## 5. Fichiers orphelins / non documentés
+## V — Fichiers orphelins / non documentés
 
-### `reports/` (racine)
+### V.1 — `reports/` (racine)
 Non mentionné dans AGENTS.md ni README.md. Contient 16 rapports qui complètent (et parfois doublonnent) ceux dans [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md).
 
 | Fichier | Aussi présent dans 📊 Rapports ? |
@@ -176,7 +176,7 @@ Non mentionné dans AGENTS.md ni README.md. Contient 16 rapports qui complètent
 | `reports/audit/audit_legiarti_courriers.md` | ❌ Non |
 | ... (13 autres) | ❌ Non |
 
-### `app/` (racine)
+### V.2 — `app/` (racine)
 Non mentionné dans AGENTS.md ni README.md.
 
 | Fichier | Aussi présent dans .dev/app/ ? |
@@ -187,7 +187,7 @@ Non mentionné dans AGENTS.md ni README.md.
 
 ---
 
-## 6. README.md manquants
+## VI — README.md manquants
 
 | Dossier | README ? |
 |---------|----------|
@@ -204,7 +204,7 @@ Non mentionné dans AGENTS.md ni README.md.
 
 ---
 
-## 7. Synthèse des anomalies
+## VII — Synthèse des anomalies
 
 | # | Gravité | Anomalie |
 |---|---------|----------|
@@ -218,7 +218,7 @@ Non mentionné dans AGENTS.md ni README.md.
 
 ---
 
-## 8. Recommandations
+## VIII — Recommandations
 
 1. **Créer `📦_pieces/`** ou **supprimer la ligne** du README.md — incohérence documentaire bloquante
 2. **Fusionner ou clarifier** la dualité `reports/` ↔ [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) : soit déplacer `reports/` dans [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md), soit documenter officiellement les deux répertoires avec des rôles distincts

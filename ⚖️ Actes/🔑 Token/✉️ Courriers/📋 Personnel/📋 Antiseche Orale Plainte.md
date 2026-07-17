@@ -21,20 +21,20 @@ reel_path: ../../../👤 Reel/✉️ Courriers/📋 Personnel/📋 Antiseche Ora
 **À l'attention de : Commissariat de Police de Foix — Service des Plaintes — Officier en charge du [PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)**
 
 **Déposant :** [Moi — mon identité]
-## 🎯 **OBJET : PLAINTE COMPLÉMENTAIRE**
+## I — 🎯 **OBJET : PLAINTE COMPLÉMENTAIRE**
 
 **Infractions principales : BLESSURES INVOLONTAIRES (222-20 CP) / OBSTRUCTION À LA JUSTICE (434-4 CP) / TRAVAIL DISSIMULÉ (L.8221-1 CT)**
 <hr><hr>
 
-## 📝 **EXPOSÉ DES FAITS**
+## II — 📝 **EXPOSÉ DES FAITS**
 
-### **1. Contexte initial ([PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))**
+### II.1 — **1. Contexte initial ([PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))**
 
 Le 29 mai 2026, j'ai été victime d'un accident grave dans le salon de coiffure [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) situé au [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), entraînant une section nerveuse et tendineuse de la main droite nécessitant une intervention chirurgicale en urgence.
 
 Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.
 
-### **2. Obstruction à la justice — Refus de communiquer l'assurance RC**
+### II.2 — **2. Obstruction à la justice — Refus de communiquer l'assurance RC**
 
 **Faits constitutifs :**
 - Depuis le 29 mai 2026, malgré de multiples demandes officielles (LRAR 87001424863012T du 29/06/2026), la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) refuse de communiquer les coordonnées de son assurance Responsabilité Civile.
@@ -74,7 +74,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
 
-### **3. Dissimulation de preuves — Vidéosurveillance non communiquée**
+### II.3 — **3. Dissimulation de preuves — Vidéosurveillance non communiquée**
 
 **Faits constitutifs :**
 - Le salon de coiffure était équipé d'un système de vidéosurveillance au moment de l'accident.
@@ -105,7 +105,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 > [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) <br>
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^4]**
 
-### **4. Société fantôme — Courriers retournés NPAI malgré l'immatriculation**
+### II.4 — **4. Société fantôme — Courriers retournés NPAI malgré l'immatriculation**
 
 **Faits constitutifs :**
 - Les courriers recommandés adressés à la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ([**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)) à son siège social officiel ([**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)) sont systématiquement retournés avec la mention "NPAI — Défaut d'adresse".
@@ -123,7 +123,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 > [Article 314-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226) <br>
 > **Code pénal > Section 3 : De l'organisation frauduleuse de l'insolvabilité.[^5]**
 
-### **5. Risque de disparition — Capital de 200 € et 0 salarié**
+### II.5 — **5. Risque de disparition — Capital de 200 € et 0 salarié**
 
 **Faits constitutifs :**
 - La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) a un capital social de seulement 200 € et déclare 0 salarié.
@@ -144,7 +144,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
 > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^7]**
 
-### **6. Mauvaise volonté — Pas de coopération malgré les mises en demeure**
+### II.6 — **6. Mauvaise volonté — Pas de coopération malgré les mises en demeure**
 
 **Faits constitutifs :**
 - Aucune réponse aux multiples mises en demeure (LRAR du 29/06/2026).
@@ -156,9 +156,9 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 - Cette attitude démontre une **volonté délibérée d'entraver la procédure judiciaire**.
 <hr><hr>
 
-## 🔍 **DEMANDE D'ENQUÊTE APPROFONDIE**
+## III — 🔍 **DEMANDE D'ENQUÊTE APPROFONDIE**
 
-### **1. Vérification de l'établissement**
+### III.1 — **1. Vérification de l'établissement**
 
 - **État actuel du salon** : Vérifier si le salon est effectivement ouvert et en activité.
 
@@ -166,7 +166,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 
 - **Conformité ERP** : Contrôler le respect des normes de sécurité (décret n°2014-1273 du 30 octobre 2014).
 
-### **2. Recherche des vidéos**
+### III.2 — **2. Recherche des vidéos**
 
 - **Vérification de la vidéosurveillance** : S'assurer que les enregistrements du 29 mai 2026 existent toujours.
 
@@ -176,26 +176,26 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 > [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) <br>
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^4]**
 
-### **3. Identification des responsables**
+### III.3 — **3. Identification des responsables**
 
 - **Dirigeants actuels** : Identifier les personnes qui gèrent effectivement le salon.
 
 - **Responsabilité pénale** : Établir la chaîne de responsabilité pour les infractions commises.
 
-### **4. Contrôle de conformité**
+### III.4 — **4. Contrôle de conformité**
 
 - **Respect des normes ERP** : Vérifier la conformité aux obligations de sécurité.
 
 - **Sanctions administratives** : Engager les procédures de mise en conformité ou de fermeture si nécessaire.
 
-### **5. Enquête financière**
+### III.5 — **5. Enquête financière**
 
 - **Vérification de la solvabilité réelle** : Analyser la situation financière de la SAS.
 
 - **Risque de dissolution frauduleuse** : Prévenir toute tentative de disparition pour échapper aux responsabilités.
 <hr><hr>
 
-## 📌 **PIÈCES JUSTIFICATIVES JOINTS**
+## IV — 📌 **PIÈCES JUSTIFICATIVES JOINTS**
 
 1. **Copie du [PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** (plainte initiale)
 
@@ -210,28 +210,28 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 6. **Mises en demeure non répondus** (preuves de la mauvaise volonté)
 <hr><hr>
 
-## 🗣️ **SCRIPTS D'ACCUEIL — VERSION 30 SECONDES**
+## V — 🗣️ **SCRIPTS D'ACCUEIL — VERSION 30 SECONDES**
 
-### **Greffe TJ Foix (dépôt requête 145)**
+### V.1 — **Greffe TJ Foix (dépôt requête 145)**
 
 > *« Bonjour, je viens déposer une requête fondée sur l'article 145 du Code de procédure civile. C'est une requête simple, sans assignation. Je voudrais un récépissé de dépôt, s'il vous plaît. »* <br>
 
-### **BAJ TJ Foix (demande AJ totale)**
+### V.2 — **BAJ TJ Foix (demande AJ totale)**
 
 > *« Bonjour, je souhaite déposer une demande d'aide juridictionnelle totale. J'ai rempli le formulaire et j'ai apporté mes justificatifs de revenus. Je voudrais un récépissé de dépôt, s'il vous plaît. »* <br>
 
-### **Accueil Commissariat de Foix (plainte complémentaire)**
+### V.3 — **Accueil Commissariat de Foix (plainte complémentaire)**
 
 > *« Bonjour, je viens déposer une plainte complémentaire. J'ai déjà un PV initial n°2026/015967 établi à Toulouse le 2 juin. J'ai préparé une plainte écrite et les pièces, et je souhaiterais qu'un OPJ puisse m'entendre. J'ai des éléments sur des preuves qui risquent de disparaître, notamment les vidéos de surveillance du salon. »* <br>
 
-### **Si l'OPJ te reçoit en audition — amorce**
+### V.4 — **Si l'OPJ te reçoit en audition — amorce**
 
 > *« Bonjour Madame/Monsieur l'officier. Je suis [Mon nom], victime d'un accident grave le 29 mai au salon **[L'Exploitant du Commerce (La SAS)]**. J'ai déjà un PV (2026/015967). Je viens pour une plainte complémentaire, parce que depuis, la société refuse de communiquer son assurance et ne répond à aucun courrier. Et surtout, les vidéos de surveillance risquent d'être écrasées d'un jour à l'autre si rien n'est fait. »* <br>
 <hr><hr>
 
-## ⚖️ **FONDEMENTS JURIDIQUES**
+## VI — ⚖️ **FONDEMENTS JURIDIQUES**
 
-### **Textes applicables**
+### VI.1 — **Textes applicables**
 
 - **Article 434-4 du Code pénal** : Obstruction à la manifestation de la vérité
 

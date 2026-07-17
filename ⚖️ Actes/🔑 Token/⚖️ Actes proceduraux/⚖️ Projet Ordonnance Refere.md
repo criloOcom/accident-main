@@ -74,7 +74,7 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 
 ### MOTIFS
 
-#### I. Sur le caractère non sérieusement contestable de l'obligation (article 835 alinéa 2 CPC)
+#### I.1.a — Sur le caractère non sérieusement contestable de l'obligation (article 835 alinéa 2 CPC)
 
 **Considérant** qu'aux termes de l'article 835 alinéa 2 du Code de procédure civile, le président du tribunal judiciaire peut accorder une provision au créancier lorsque l'existence de l'obligation n'est pas sérieusement contestable ;
 
@@ -90,7 +90,7 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 
 **Considérant**, en conséquence, que l'obligation à indemnisation de la SAS défenderesse n'est pas sérieusement contestable ;
 
-#### II. Sur le montant de la provision
+#### I.1.b — Sur le montant de la provision
 
 **Considérant** que le préjudice corporel de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), nécessairement provisoire en l'absence de consolidation, peut être évalué comme suit à ce stade :
 
@@ -104,7 +104,7 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 
 **Considérant** que l'évaluation définitive des préjudices relève d'une expertise médicale à intervenir, la présente provision — allouée à titre provisoire sur la base d'un préjudice non encore consolidé — ne préjuge pas du quantum final qui sera fixé après dépôt du rapport d'expertise et arrêt de la consolidation ; que la présente ordonnance n'a ainsi pas autorité de chose jugée sur l'étendue définitive du droit à indemnisation ;
 
-#### III. Sur les mesures d'instruction (article 145 CPC)
+#### I.1.c — Sur les mesures d'instruction (article 145 CPC)
 
 **Considérant** qu'aux termes de l'article 145 du Code de procédure civile, des mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé s'il existe un motif légitime de conserver ou d'établir la preuve de faits dont pourrait dépendre la solution d'un litige ;
 
@@ -112,7 +112,7 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 
 **Considérant** que la SAS défenderesse, malgré les mises en demeure des 29 juin et 8 juillet 2026, n'a pas communiqué les coordonnées de son assureur de responsabilité civile professionnelle ; que cette communication est nécessaire pour permettre à la victime d'exercer l'action directe prévue à l'article L. 124-3 du Code des assurances ; qu'il convient d'en ordonner la production sous astreinte ;
 
-#### IV. Sur l'article 700 du Code de procédure civile et les dépens
+#### I.1.d — Sur l'article 700 du Code de procédure civile et les dépens
 
 **Considérant** qu'il serait inéquitable de laisser à la charge du demandeur les frais exposés pour la présente instance ; que les défendeurs, qui succombent, seront condamnés in solidum aux dépens et à lui verser une indemnité sur le fondement de l'article 700 du Code de procédure civile ;
 <hr><hr>

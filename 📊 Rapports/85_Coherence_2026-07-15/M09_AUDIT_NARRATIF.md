@@ -36,7 +36,7 @@ Cet audit vérifie l'invariance absolue des faits juridiques liés à l'accident
 
 Total des anomalies : 99
 
-### CRITIQUE
+### II.1 — CRITIQUE
 
 - [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🚔 PV Audition Plainte Complementaire Foix.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 58)
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 293)
@@ -58,7 +58,7 @@ Total des anomalies : 99
 - [ ] `📊 Rapports/70_Technique_Repo/RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 78)
 - [ ] `📊 Rapports/85_Coherence_2026-07-15/M09_AUDIT_NARRATIF.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 43)
 
-### MAJEUR
+### II.2 — MAJEUR
 
 - [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮‍♂️ PV Audition Plainte Complementaire.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 44)
 - [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Conclusions au Fond TJ Foix.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 53)
@@ -99,7 +99,7 @@ Total des anomalies : 99
 - [ ] `📊 Rapports/85_Coherence_2026-07-15/M09_AUDIT_NARRATIF.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 26)
 - [ ] `📊 Rapports/85_Coherence_2026-07-15/M09_AUDIT_NARRATIF.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 63)
 
-### MINEUR
+### II.3 — MINEUR
 
 - [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 82)
 - [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🚔 PV Audition Plainte Complementaire Foix.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 54)

@@ -15,9 +15,9 @@ Le présent rapport dresse un état des lieux de la stratégie probatoire mise e
 
 <hr><hr>
 
-## I. SÉCURISATION DES PREUVES VIDÉO ET MATÉRIELLES
+## I — SÉCURISATION DES PREUVES VIDÉO ET MATÉRIELLES
 
-### A. La Requête sur le fondement de l'Article 145 CPC (Vidéosurveillance)
+### I.1 — La Requête sur le fondement de l'Article 145 CPC (Vidéosurveillance)
 
 La requête déposée (J+47) pour obtenir la communication des enregistrements de vidéosurveillance ou l'identité de l'assureur RC repose sur l'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410268).
 
@@ -27,25 +27,25 @@ L'urgence est caractérisée par le délai de conservation des images de vidéos
 
 Il est rappelé aux dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, que la destruction ou l'altération volontaire d'un objet ou document de nature à faciliter la recherche des preuves d'un délit (comme des blessures involontaires) est un délit réprimé par l'[Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608), puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
-### B. Mesures pénales complémentaires
+### I.2 — Mesures pénales complémentaires
 
 En complément de la procédure civile, le Procureur de la République pourrait, dans le cadre de l'enquête préliminaire diligentée suite à la plainte de **[La Victime]**, prescrire tout acte utile (au titre de l'[Article 41 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311420)).
 
 En outre, l'Officier de Police Judiciaire (OPJ) a le pouvoir de réquisitionner des informations ou des enregistrements auprès de la SAS, y compris des éléments informatiques, par application de l'[Article 60-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575048).
 
-### C. Preuves matérielles de l'état des lieux (La vasque)
+### I.3 — Preuves matérielles de l'état des lieux (La vasque)
 
 L'altération de la scène de l'accident est un risque. Un constat d'huissier (devenu "Commissaire de Justice"), éventuellement sollicité par requête `145 CPC` si la SAS s'y oppose, offre la meilleure force probatoire authentique en documentant l'état de la vasque, et spécifiquement l'existence de la cassure majeure préexistante sur le flanc. Les photographies personnelles, bien qu'utiles, ne sauraient conférer l'authenticité d'un acte dressé par un officier public.
 
 <hr><hr>
 
-## II. SÉCURISATION DES PREUVES NUMÉRIQUES
+## II — SÉCURISATION DES PREUVES NUMÉRIQUES
 
-### A. Constats de sites web et réseaux sociaux
+### II.1 — Constats de sites web et réseaux sociaux
 
 La sauvegarde des pages web (avis Google, site internet du salon) est essentielle pour caractériser le contexte, prouver la publicité de la SAS ou relever d'éventuels avis mentionnant des défauts d'installation ou des problèmes d'assurances. L'utilisation de plateformes d'archivage comme la "Wayback Machine" ou la réalisation de constats par un Commissaire de justice (huissier) garantit une datation incontestable de l'affichage.
 
-### B. Fiabilité des copies et documents électroniques
+### II.2 — Fiabilité des copies et documents électroniques
 
 L'[Article 1366 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042461) confère à l'écrit électronique la même force probante que l'écrit papier, sous réserve d'identification et de garantie de son intégrité.
 
@@ -57,7 +57,7 @@ Toute contestation par l'adversaire de la véracité de ces captures ou courriel
 
 <hr><hr>
 
-## III. PREUVE BANCAIRE ET RELATION CONTRACTUELLE
+## III — PREUVE BANCAIRE ET RELATION CONTRACTUELLE
 
 Le paiement de 15,00 € effectué via l'application "Wero" le jour de l'accident (avant son remboursement immédiat par la SAS) revêt une force probatoire décisive.
 
@@ -67,7 +67,7 @@ D'autre part, en tant qu'enregistrement électronique généré par un tiers de 
 
 <hr><hr>
 
-## IV. MATRICE DE PREUVE / CHEFS DE PRÉTENTION
+## IV — MATRICE DE PREUVE / CHEFS DE PRÉTENTION
 
 Le tableau suivant lie les prétentions aux pièces actuellement conservées :
 

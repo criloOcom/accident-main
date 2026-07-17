@@ -26,7 +26,7 @@ auteur: Agent d'audit
 
 ---
 
-## 1. COURRIERS PRIORITAIRES — LISTÉS ?
+## I — COURRIERS PRIORITAIRES — LISTÉS ?
 
 | Courrier | Dans checklist (24) | Dans suivi (23) | Statut |
 |----------|---------------------|-----------------|--------|
@@ -41,7 +41,7 @@ auteur: Agent d'audit
 
 ## 2. PIÈCES JOINTES — CORRESPONDANCE AVEC LES COURRIERS
 
-### Groupe standard (courriers 12, 14, 19)
+### I.1 — Groupe standard (courriers 12, 14, 19)
 
 | Pièce jointe | Checklist (24) | Courrier 12 URSSAF | Courrier 14 CODAF | Courrier 19 FGTI |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ auteur: Agent d'audit
 | Extrait Kbis SAS | ✅ (x3) | ✅ | ✅ | ✅ |
 | Dossier médical 11 pièces | ✅ (x3) | **❌ NON LISTÉ** | ✅ | ✅ |
 
-### Courrier spécifique 35 (TJ)
+### I.2 — Courrier spécifique 35 (TJ)
 
 | Pièce jointe | Checklist (24) | Courrier 35 TJ |
 |---|---|---|
@@ -59,7 +59,7 @@ auteur: Agent d'audit
 | Extrait Kbis SAS | ✅ | ✅ |
 | Note audit INPI 10/07 | ✅ | ✅ |
 
-### ❌ INCOHÉRENCE CRITIQUE #1 — Dossier médical et courrier 12
+### I.3 — ❌ INCOHÉRENCE CRITIQUE #1 — Dossier médical et courrier 12
 
 La checklist prévoit **"Dossier médical complet 11 pièces (x3)"** pour les 3 courriers 12-14-19. Or le **courrier 12 (URSSAF)** ne mentionne **pas du tout** le dossier médical dans sa section "PIÈCES JOINTES" (ligne 96-99 token / ligne 96-99 reel).
 
@@ -70,9 +70,9 @@ La checklist prévoit **"Dossier médical complet 11 pièces (x3)"** pour les 3 
 
 ---
 
-## 3. ADRESSES
+## II — ADRESSES
 
-### Destinataires
+### II.1 — Destinataires
 
 | Courrier | Adresse réelle | Verdict |
 |----------|---------------|---------|
@@ -81,7 +81,7 @@ La checklist prévoit **"Dossier médical complet 11 pièces (x3)"** pour les 3 
 | 19 FGTI | 64 Rue de la République, 75011 Paris | ✅ Adresse exacte |
 | 35 TJ Foix | 14 Boulevard du Sud, BP 50078, 09008 FOIX CEDEX | ✅ Adresse exacte |
 
-### Expéditeur (version réelle)
+### II.2 — Expéditeur (version réelle)
 
 | Courrier | Ville de date | Adresse réelle | Cohérence |
 |----------|--------------|----------------|-----------|
@@ -92,19 +92,19 @@ La checklist prévoit **"Dossier médical complet 11 pièces (x3)"** pour les 3 
 
 **⚠️ Remarque :** Les courriers 12, 14 et 35 sont datés de "Foix" alors que l'expéditeur réside à Blagnac. C'est acceptable si la victime se rend à Foix pour poster (présence au TJ, etc.), mais mérite d'être vérifié.
 
-### Adresses email dans la checklist (version token)
+### II.3 — Adresses email dans la checklist (version token)
 
 La checklist section 3 mentionne `[email dans le courrier 12 reel]` et `[email dans le courrier 14 reel]`. Ces champs devront être complétés manuellement avec les emails réels avant utilisation.
 
 ---
 
-## 4. COLONNES DU TABLEAU DE SUIVI (FICHE 23)
+## III — COLONNES DU TABLEAU DE SUIVI (FICHE 23)
 
-### État actuel
+### III.1 — État actuel
 
 | # | Destinataire | Date envoi | N° LRAR | AR recu | Reponse | Date reponse | Relance J+15 | Email | Statut | Notes |
 
-### Analyse des colonnes existantes
+### III.2 — Analyse des colonnes existantes
 
 | Colonne | Utilité | Verdict |
 |---------|---------|---------|
@@ -120,7 +120,7 @@ La checklist section 3 mentionne `[email dans le courrier 12 reel]` et `[email d
 | Statut | Statut d'avancement | ✅ Essentiel |
 | Notes | Commentaires libres | ✅ Utile |
 
-### ❌ AMÉLIORATION #1 — Colonne "Mode d'envoi" manquante
+### III.3 — ❌ AMÉLIORATION #1 — Colonne "Mode d'envoi" manquante
 
 La colonne "Email" (Oui/Non) est insuffisante. Il manque une colonne **"Mode"** ou **"Type"** distinguant clairement :
 - **LRAR** (courriers 19, 35)
@@ -128,17 +128,17 @@ La colonne "Email" (Oui/Non) est insuffisante. Il manque une colonne **"Mode"** 
 
 Suggestion : renommer "Email" en **"Mode envoi"** avec valeurs possibles : LRAR / LRAR+Email / Email.
 
-### ❌ AMÉLIORATION #2 — Colonne "PJ vérifiée" manquante
+### III.4 — ❌ AMÉLIORATION #2 — Colonne "PJ vérifiée" manquante
 
 Pas de colonne permettant de cocher que les PJ ont été vérifiées avant envoi. Suggestion : ajouter **"PJ OK"** ou intégrer la vérification dans la colonne Notes.
 
-### ❌ AMÉLIORATION #3 — Colonne "Frais réels" manquante
+### III.5 — ❌ AMÉLIORATION #3 — Colonne "Frais réels" manquante
 
 Le tableau a une synthèse financière en bas avec des coûts estimés (~7,50 €/LRAR). Ajouter une colonne **"Frais"** dans le tableau principal permettrait de tracer les coûts réels (le LRAR vers le TJ peut coûter plus cher en raison du poids avec la note INPI).
 
 ---
 
-## 5. RELANCE J+15 = 26 JUILLET 2026
+## IV — RELANCE J+15 = 26 JUILLET 2026
 
 | Élément | Valeur | Verdict |
 |---------|--------|---------|
@@ -153,7 +153,7 @@ Mentionnée dans :
 
 ---
 
-## 6. MODES D'ENVOI EXACTS
+## V — MODES D'ENVOI EXACTS
 
 | Courrier | Mode physique | Mode email | Dans suivi | Dans checklist | Correspondance |
 |----------|--------------|------------|------------|----------------|----------------|
@@ -166,7 +166,7 @@ Mentionnée dans :
 
 ---
 
-## 7. SYNTHÈSE DES INCOHÉRENCES ET RECOMMANDATIONS
+## VI — SYNTHÈSE DES INCOHÉRENCES ET RECOMMANDATIONS
 
 | # | Gravité | Description | Recommandation |
 |---|---------|-------------|----------------|
@@ -179,7 +179,7 @@ Mentionnée dans :
 
 ---
 
-## 8. VÉRIFICATIONS SUPPLÉMENTAIRES RAPIDES
+## VII — VÉRIFICATIONS SUPPLÉMENTAIRES RAPIDES
 
 | Point | Statut |
 |-------|--------|

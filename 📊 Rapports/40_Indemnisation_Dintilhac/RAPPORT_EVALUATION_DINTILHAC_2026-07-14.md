@@ -28,7 +28,7 @@ auteur: Avocat spécialiste en réparation du préjudice corporel
 
 L'évaluation des préjudices corporels subis par **[La Victime]** repose sur la nomenclature Dintilhac. La présence des postes suivants a été analysée au regard du Barème Mornet 2024 et de la jurisprudence.
 
-### A. Préjudices Patrimoniaux
+### I.1 — Préjudices Patrimoniaux
 
 - **PGPA (Pertes de Gains Professionnels Actuels) :** La perte de revenus de 1 380 € (sur 56 jours, calcul au prorata strict sur un revenu net de 750 €/mois) est juridiquement la plus exacte (estimation Glose).
 - **IP (Incidence Professionnelle) :** L'évaluation à hauteur de 30 000 € via la méthode de capitalisation (BIBAL : 9 000 € × 12% × 27,5) est extrêmement robuste. La Cour de cassation consacre l'incidence professionnelle comme un préjudice distinct, indemnisant la dévalorisation sur le marché du travail et la pénibilité accrue (Cass. 2e civ., 2 avril 2026, n° 24-20.972) — À VÉRIFIER.
@@ -36,7 +36,7 @@ L'évaluation des préjudices corporels subis par **[La Victime]** repose sur la
 - **DSA (Dépenses de Santé Actuelles) & DSF (Dépenses de Santé Futures) :** Présentes (frais SOS Main de 790,23 € en J+12, kinésithérapie).
 - **Frais Divers / ATP (Assistance Tierce Personne) :** Sous-évalués dans les premiers jets (2 000 €), l'ajustement à 3 000 € pour frais divers (et 2 000 € en ATP ponctuelle) est plus conforme à la réalité (déplacements, soins, besoin d'aide temporaire).
 
-### B. Préjudices Extra-Patrimoniaux
+### I.2 — Préjudices Extra-Patrimoniaux
 
 - **DFT (Déficit Fonctionnel Temporaire) :** 1 400 € pour 56 jours à 25 €/jour (fourchette médiane Barème Mornet 2024). L'évaluation est inattaquable.
 - **DFP (Déficit Fonctionnel Permanent) :** L'évaluation externe préconise un taux de 10% (prudent, 20 000 €) à 15% (médian, 30 000 €) avec une valeur du point Mornet 2024 fixée à 2 000 € / point. C'est parfaitement justifié. L'évaluation initiale à 12% pour 31 200 € utilisait une valeur du point de 2 600 €, ce qui se situe dans la fourchette Mornet pour une victime de 44 ans. La provision conservatoire à 10% (25 000 €) est la plus solide avant consolidation.

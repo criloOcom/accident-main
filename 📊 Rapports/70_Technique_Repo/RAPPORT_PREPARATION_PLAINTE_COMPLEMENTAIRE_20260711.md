@@ -29,13 +29,13 @@ type: rapport
 
 ---
 
-## 1. Contexte et Objectifs
+## I — Contexte et Objectifs
 
-### Situation Actuelle
+### I.1 — Situation Actuelle
 
 La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiffure "Les Mauvais Garçons" à Foix se heurte à une **obstruction systématique** de la part des dirigeants de l'établissement. Malgré les démarches entreprises (plainte initiale, mises en demeure, signalements administratifs), aucune coopération n'a été obtenue.
 
-### Problèmes Identifiés
+### I.2 — Problèmes Identifiés
 
 1. **Refus de communiquer l'assurance RC** (obligation légale - Art. L. 124-3 C. assurances)
 2. **Dissimulation des vidéosurveillances** (délai légal de 30 jours dépassé)
@@ -43,7 +43,7 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 4. **Risque de disparition des preuves** (vasque cassée non sécurisée)
 5. **Travail dissimulé** (réouverture sans déclaration - Art. L. 8221-1 CT)
 
-### Objectifs de la Plainte Complémentaire
+### I.3 — Objectifs de la Plainte Complémentaire
 
 - **Dénoncer les infractions pénales** (obstruction à la justice, dissimulation de preuves)
 - **Obtenir une enquête approfondie** (vérification établissement, recherche vidéos, identification responsables)
@@ -52,9 +52,9 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 
 ---
 
-## 2. Documents Créés
+## II — Documents Créés
 
-### Nouvelle Documentation (11 juillet 2026)
+### II.1 — Nouvelle Documentation (11 juillet 2026)
 
 | # | Document | Type | Statut | Emplacement |
 |---|----------|------|--------|-------------|
@@ -62,7 +62,7 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 | 37 | **Guide de Dialogue** | Guide pratique | ✅ Finalisé | [⚖️ Actes/👤 Reel/✉️ Courriers](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) |
 | 38 | **Checklist Déplacement** | Organisation | ✅ Finalisé | [⚖️ Actes/👤 Reel/✉️ Courriers](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) |
 
-### Documents Existants Mis à Jour
+### II.2 — Documents Existants Mis à Jour
 
 - **Document n°35** : Courrier au President TJ Foix (déjà envoyé)
 - **Document n°34** : Email à la Mairie de Foix (déjà envoyé)
@@ -70,9 +70,9 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 
 ---
 
-## 3. Contenu des Documents
+## III — Contenu des Documents
 
-### Document n°36 - Plainte Complémentaire (15 pages)
+### III.1 — Document n°36 - Plainte Complémentaire (15 pages)
 
 **Structure professionnelle avec :**
 
@@ -147,7 +147,7 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 
 ---
 
-### Document n°37 - Guide de Dialogue (12 pages)
+### III.2 — Document n°37 - Guide de Dialogue (12 pages)
 
 **Structure pratique avec :**
 
@@ -206,7 +206,7 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 
 ---
 
-### Document n°38 - Checklist Déplacement (8 pages)
+### III.3 — Document n°38 - Checklist Déplacement (8 pages)
 
 **Structure organisée avec :**
 
@@ -268,9 +268,9 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 
 ---
 
-## 4. Stratégie de Présentation
+## IV — Stratégie de Présentation
 
-### Méthode Recommandée
+### IV.1 — Méthode Recommandée
 
 **1. Préparation la veille (30 min) :**
 - Relire la plainte complémentaire
@@ -301,7 +301,7 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 - Envoyer email de remerciement
 - Mettre à jour les dossiers
 
-### Points Clés à Souligner
+### IV.2 — Points Clés à Souligner
 
 **Obstruction à la justice :**
 "Les courriers recommandés retournés 'défaut d'adresse' alors que la société est toujours immatriculée à cette adresse constituent une preuve tangible d'obstruction. Le refus de communiquer l'assurance RC, obligatoire selon l'Article L. 124-3 du Code des assurances, est une entrave caractérisée à mon droit d'agir."
@@ -317,9 +317,9 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 
 ---
 
-## 5. Checklist Complète
+## V — Checklist Complète
 
-### Avant le Déplacement
+### V.1 — Avant le Déplacement
 
 **📋 Documents à préparer (48h avant) :**
 - [ ] Plainte complémentaire (n°36) imprimée et signée (2 ex.)
@@ -348,7 +348,7 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 - [ ] Prévoir tenue professionnelle
 - [ ] Vérifier météo
 
-### Jour J
+### V.2 — Jour J
 
 **🏠 Matin :**
 - [ ] Toilette et tenue
@@ -376,7 +376,7 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 - [ ] Départ avec marge
 - [ ] Parking identifié
 
-### Au Commissariat
+### V.3 — Au Commissariat
 
 **🏛️ Accueil :**
 - [ ] Présentation polie
@@ -400,7 +400,7 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 - [ ] Prochaines étapes
 - [ ] Remerciements
 
-### Retour et Suivi
+### V.4 — Retour et Suivi
 
 **🏠 Immédiat :**
 - [ ] Noter éléments entretien
@@ -426,9 +426,9 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 
 ---
 
-## 6. Prochaines Étapes
+## VI — Prochaines Étapes
 
-### Calendrier Recommandé
+### VI.1 — Calendrier Recommandé
 
 **📅 Semaine 28 (11-15 juillet 2026) :**
 - **11/07** : Finalisation des documents ✅
@@ -447,7 +447,7 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 - **27/07** : Décision suite à donner
 - **29/07** : Préparation prochaine étape
 
-### Actions Prioritaires
+### VI.2 — Actions Prioritaires
 
 1. **Déposer la plainte complémentaire** (document n°36) au commissariat de Foix
 2. **Utiliser le guide de dialogue** (document n°37) pour structurer les échanges
@@ -459,9 +459,9 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 
 ---
 
-## 7. Recommandations Finales
+## VII — Recommandations Finales
 
-### Pour le Déplacement
+### VII.1 — Pour le Déplacement
 
 **✅ À faire :**
 - **Arrivez tôt** (30 min avant l'ouverture)
@@ -479,7 +479,7 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 - **Ne minimisez pas** l'importance de votre dossier
 - **Ne partez pas** sans accusé de réception
 
-### Après le Déplacement
+### VII.2 — Après le Déplacement
 
 **✅ Priorités :**
 1. **Noter immédiatement** tous les éléments de l'entretien
@@ -495,7 +495,7 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 - **Impliquez un avocat** : Si les suites ne sont pas satisfaisantes
 - **Préparez l'étape suivante** : En fonction des réponses obtenues
 
-### Ressources Disponibles
+### VII.3 — Ressources Disponibles
 
 **📂 Dossier complet disponible dans :**
 - [⚖️ Actes/👤 Reel/✉️ Courriers](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (versions réelles)
@@ -512,17 +512,17 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 
 ---
 
-## Conclusion
+## VIII — Conclusion
 
 Vous disposez maintenant d'un **dossier complet et professionnel** pour déposer votre plainte complémentaire au commissariat de Foix :
 
-### 📌 Les 3 Documents Clés
+### VIII.1 — 📌 Les 3 Documents Clés
 
 1. **Document n°36** : Plainte complémentaire (15 pages) avec **20 références juridiques** et **4 jurisprudences**
 2. **Document n°37** : Guide de dialogue (12 pages) avec **50 phrases clés** et **stratégies de réponse**
 3. **Document n°38** : Checklist complète (8 pages) avec **80 items** à cocher
 
-### 🎯 Objectifs Atteints
+### VIII.2 — 🎯 Objectifs Atteints
 
 ✅ **Dossier juridique solide** : 4 infractions pénales identifiées et documentées
 ✅ **Preuves tangibles** : LRAR retournés, audit RNE/INPI, photos, certificats
@@ -530,7 +530,7 @@ Vous disposez maintenant d'un **dossier complet et professionnel** pour déposer
 ✅ **Références juridiques** : 20 articles de loi et 4 jurisprudences applicables
 ✅ **Prêt à l'emploi** : Documents imprimables et versions numériques disponibles
 
-### 🚀 Prochaine Étape Critique
+### VIII.3 — 🚀 Prochaine Étape Critique
 
 **Déposer la plainte complémentaire au commissariat de Foix** avec :
 - Le dossier complet (document n°36)

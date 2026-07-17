@@ -23,7 +23,7 @@ auteur: Avocat au Barreau de Foix
 
 ## I — CONTEXTE ET OBJECTIFS
 
-Le présent rapport est établi dans le cadre de la défense des intérêts de **[La Victime]**, informaticien indépendant, suite à l'accident dont il a été victime le 29 mai 2026 au sein du salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]**.
+Le présent rapport est établi dans le cadre de la défense des intérêts de **[La Victime]**, informaticien indépendant, à la suite de l'accident dont il a été victime le 29 mai 2026 au sein du salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]**.
 
 L'accident (chute d'une vasque en pierre sur la main droite dominante) a nécessité une intervention chirurgicale en urgence à **[L'Établissement SOS Main]** et a entraîné une incapacité de travail et des séquelles fonctionnelles importantes, impactant tant sa vie professionnelle que ses loisirs (codage).
 
@@ -33,7 +33,7 @@ L'objectif de cette note est de définir la stratégie globale (actions au péna
 
 ## II — STRATÉGIE JURIDIQUE MULTI-ANGLES
 
-### A. Action en responsabilité civile contre l'exploitant
+### II.1 — Action en responsabilité civile contre l'exploitant
 
 L'action principale vise à engager la responsabilité de **[L'Exploitant du Commerce (La SAS)]** sur le fondement de la responsabilité du fait des choses et de la responsabilité pour faute.
 
@@ -47,7 +47,7 @@ L'action principale vise à engager la responsabilité de **[L'Exploitant du Com
 
 La garde de la chose (la vasque) par **[L'Exploitant du Commerce (La SAS)]** au moment des faits est incontestable. Sa responsabilité de plein droit (art. 1242 al. 1) est acquise. En outre, le défaut d'entretien ou de sécurisation caractérise une faute (art. 1240).
 
-### B. Action civile contre le dirigeant (faute détachable)
+### II.2 — Action civile contre le dirigeant (faute détachable)
 
 En cas d'insolvabilité de **[L'Exploitant du Commerce (La SAS)]** (capital social limité à 200 €), il convient d'envisager la responsabilité personnelle de **[Le Président de l'Exploitation]**.
 
@@ -57,7 +57,7 @@ En cas d'insolvabilité de **[L'Exploitant du Commerce (La SAS)]** (capital soci
 
 L'engagement de la responsabilité personnelle du dirigeant suppose de prouver une **faute détachable** de ses fonctions (ex: abstention délibérée de respecter des normes de sécurité impératives ayant directement causé le dommage corporel). Cette voie, bien que plus complexe, est indispensable pour contourner le voile social si la société fait défaut et n'est pas assurée.
 
-### C. Le volet pénal et la plainte
+### II.3 — Le volet pénal et la plainte
 
 Le dépôt d'une plainte pénale pour blessures involontaires (art. 222-19 et suivants du Code pénal) permet :
 
@@ -101,14 +101,14 @@ La question centrale sera la valorisation de l'**Incidence Professionnelle** (in
 
 ## V — TIMING ET COÛTS PRÉVISIONNELS
 
-### A. Calendrier procédural (Timing)
+### V.1 — Calendrier procédural (Timing)
 
 - **Assignation en référé :** Déjà rédigée, audience à prévoir rapidement (été/automne 2026) pour l'obtention de la provision et la désignation d'un expert judiciaire.
 - **Expertise UMJ :** Rendez-vous fixé au **12 novembre 2026**.
 - **Consolidation :** À déterminer médicalement, généralement 6 à 12 mois après un accident de cette nature. L'évaluation définitive interviendra après cette date.
 - **Négociation amiable ou jugement au fond :** Courant 2027 ou 2028, selon l'attitude de la partie adverse.
 
-### B. Coûts
+### V.2 — Coûts
 
 - **Frais d'avocat :** Honoraires de diligence + honoraires de résultat (généralement 10 à 12 % HT des sommes obtenues).
 - **Frais de médecin-conseil :** Indispensable pour assister **[La Victime]** lors des expertises (estimé entre 800 € et 1 500 € selon la complexité).

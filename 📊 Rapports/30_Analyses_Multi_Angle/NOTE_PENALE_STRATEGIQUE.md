@@ -15,7 +15,7 @@ type: rapport
 
 ## I — QUALIFICATIONS PÉNALES RETENUES OU VISÉES
 
-### A. Blessures Involontaires
+### I.1 — Blessures Involontaires
 
 La plainte initiale déposée le 2 juin 2026 ([PV n°2026/015967](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20PV%20Audition%20Plainte%20Complementaire.md)) visait les blessures involontaires ayant entraîné une Incapacité Totale de Travail (ITT) suite au basculement d'une vasque défectueuse sur la main droite de **[La Victime]** le 29 mai 2026. L'ITT pénale retenue est de 56 jours, avec des répercussions fonctionnelles importantes.
 
@@ -25,7 +25,7 @@ La plainte initiale déposée le 2 juin 2026 ([PV n°2026/015967](../../%E2%9A%9
 
 Le [réquisitoire introductif (J+47)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) vise subsidiairement l'article 222-19 du Code pénal en cas de reconnaissance d'une ITT supérieure à trois mois au regard de l'évolution des séquelles.
 
-### B. Obstruction à la Justice et Dissimulation de Preuves
+### I.2 — Obstruction à la Justice et Dissimulation de Preuves
 
 La [plainte complémentaire (J+47)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20PV%20Audition%20Plainte%20Complementaire.md) introduit de nouvelles infractions graves, caractérisées par le comportement des dirigeants de la SAS **[L'Exploitant du Commerce (La SAS)]**. **[La Victime]** y dénonce l'absence de réponse à de multiples LRAR et la possible destruction ou altération du matériel vidéo et du bac à shampoing défectueux, suite à la réouverture suspecte du salon le 6 juillet 2026.
 
@@ -43,11 +43,11 @@ Le délit de mise en danger de la vie d'autrui (article 223-1 du Code pénal) es
 
 La responsabilité pénale peut être recherchée tant à l'encontre de la personne morale, la SAS **[L'Exploitant du Commerce (La SAS)]**, qu'à l'encontre de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, pour les fautes commises personnellement ou en tant qu'organes de la société.
 
-### A. La Responsabilité de la SAS
+### II.1 — La Responsabilité de la SAS
 
 En application de l'article 121-2 du Code pénal, la SAS **[L'Exploitant du Commerce (La SAS)]** engage sa responsabilité pénale pour les infractions commises pour son compte par ses organes ou représentants.
 
-### B. La Responsabilité Personnelle des Dirigeants
+### II.2 — La Responsabilité Personnelle des Dirigeants
 
 Selon l'article 121-3 du Code pénal, les dirigeants peuvent être tenus personnellement responsables des blessures involontaires si une faute caractérisée est démontrée, ou si une violation manifestement délibérée d'une obligation de sécurité est établie.
 
@@ -63,11 +63,11 @@ La jurisprudence "Sati" (Cass. com. 20 mai 2003) exige, pour engager la responsa
 
 ## III — RÔLE DE LA PLAINTE COMPLÉMENTAIRE ET DE LA CONSTITUTION DE PARTIE CIVILE
 
-### A. La Plainte Complémentaire
+### III.1 — La Plainte Complémentaire
 
 La plainte complémentaire déposée à J+47 est décisive pour l'orientation de la procédure. Elle permet d'attirer l'attention du Parquet sur des agissements postérieurs à l'accident (l'obstruction à la justice et la dissimulation de preuves) qui démontrent une intention de nuire ou, à tout le moins, d'échapper à la justice. Ce comportement aggrave significativement la situation des mis en cause et rend la simple citation directe insuffisante, justifiant ainsi l'ouverture d'une information judiciaire.
 
-### B. La Constitution de Partie Civile
+### III.2 — La Constitution de Partie Civile
 
 La [constitution de partie civile (J+38)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md), couplée au réquisitoire introductif demandant l'ouverture d'une information judiciaire, poursuit plusieurs objectifs :
 
@@ -83,7 +83,7 @@ La [constitution de partie civile (J+38)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9
 
 L'action pénale initiée a un impact direct sur le volet civil de l'affaire, notamment sur la question centrale de la solvabilité et de l'indemnisation.
 
-### A. L'Impact sur la Solvabilité et l'Indemnisation
+### IV.1 — L'Impact sur la Solvabilité et l'Indemnisation
 
 L'attitude de la SAS **[L'Exploitant du Commerce (La SAS)]** et de ses dirigeants soulève des doutes majeurs quant à leur intention et leur capacité à indemniser **[La Victime]**. Le risque d'organisation frauduleuse d'insolvabilité est élevé, le capital social de la SAS n'étant que de 200 €.
 
@@ -93,6 +93,6 @@ L'attitude de la SAS **[L'Exploitant du Commerce (La SAS)]** et de ses dirigeant
 
 Si une procédure de liquidation ou l'organisation de l'insolvabilité de la SAS venaient à être avérées, la faute pénale personnelle des dirigeants (notamment pour obstruction et mise en danger) constituerait un fondement robuste pour engager leur responsabilité sur leurs deniers personnels au civil (au titre de la faute détachable).
 
-### B. La Synergie Procédurale
+### IV.2 — La Synergie Procédurale
 
 Le principe "le criminel tient le civil en l'état" s'applique, mais la recherche des assureurs au pénal (défaut potentiel d'assurance RC) servira l'action civile, notamment si la juridiction d'instruction parvient à identifier l'assureur responsabilité civile de la SAS, permettant alors d'exercer l'action directe contre ce dernier. L'ordonnance de référé-provision, adossée aux conclusions de l'expertise médicale et à l'évidence de l'obligation issue des constatations pénales initiales, s'inscrit dans cette démarche de sécurisation des créances indemnitaires avant que la SAS ne soit potentiellement vidée de sa substance.

@@ -19,7 +19,7 @@ Ce rapport identifie les redondances, contradictions et données obsolètes dans
 
 ## II — ANALYSE PAR DOMAINE
 
-### A. Montants Dintilhac et Évaluations Financières
+### II.1 — Montants Dintilhac et Évaluations Financières
 
 L'évaluation des préjudices a évolué à plusieurs reprises, entraînant des contradictions majeures entre les actes historiques et la Source Unique de Vérité.
 
@@ -36,19 +36,19 @@ L'évaluation des préjudices a évolué à plusieurs reprises, entraînant des 
   * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Projet Ordonnance Refere.md` (lignes 103, 192)
   * `📊 Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md` (lignes 109, 153)
 
-### B. Dates et Délais (ITT, Procédures)
+### II.2 — Dates et Délais (ITT, Procédures)
 
 * **ITT Initiale vs ITT Totale** : La durée de l'Incapacité Totale de Travail (ITT) a été uniformisée à **56 jours** (du 29/05/2026 au 23/07/2026). Ce chiffre est correct et omniprésent.
 * **Incohérence documentaire expliquée** : Le document `🧠 Memory/🗂️ Tokens/token-j-55-fin-d-itt.md` (ligne 32) explique de manière claire que le certificat médical initial mentionnait "1 jour" par erreur matérielle et que cela a été rectifié à 56 jours. Ce point est géré.
 * **Redondance d'échéanciers** : Les listes d'actions et les échéances calendaires se chevauchent entre `🧠 Memory/TODO.md` et `🧠 Memory/STATUS.md` (ex: les actions du 15 juillet 2026), avec de nombreuses duplications sur l'état du "Plan A" ou des "Preuves MATÉRIELLES".
 
-### C. Vérification des Tokens (🔑 Token vs TOKEN MAP.md)
+### II.3 — Vérification des Tokens (🔑 Token vs TOKEN MAP.md)
 
 L'audit des tokens via le script a révélé 60 tokens formellement définis dans la `TOKEN MAP.md`. Aucune fuite d'identité réelle n'a été détectée dans le dossier Token lors de cette vérification.
 * **Cohérence globale** : Les actes dans `⚖️ Actes/🔑 Token/` utilisent la nomenclature standardisée `**[Nom du Token]**` avec des liens vers les fiches du dossier `🧠 Memory/🗂️ Tokens/`.
 * **Information Orpheline** : De vieux tokens obsolètes, tels que `[Finance Evaluation Initiale]`, demeurent mappés dans `TOKEN MAP.md` et dans `STRICT VARIABLES.md` (ligne 227) pour assurer la rétrocompatibilité (marqués "Obsolète").
 
-### D. Organisation PIECES MAP vs Bordereau
+### II.4 — Organisation PIECES MAP vs Bordereau
 
 * **Système de Numérotation Oboslète** : L'utilisation de "Pièce n°X" est explicitement interdite par la règle 2026-07-02 (`🧠 Memory/DECISIONS.md`). L'identifiant officiel d'une pièce est son triplet `(date, émetteur, objet)`.
 * **Contradiction** : Le fichier `🧠 Memory/PIECES MAP.md` alerte bien sur cette règle, mais `📊 Rapports/40_Indemnisation_Dintilhac/RAPPORT_AUDIT_FGTI_DINTILHAC.md` et plusieurs autres anciens actes et READMEs utilisent encore les numéros de pièces statiques du tableur source (ex: Pièce 4, Pièce 10).

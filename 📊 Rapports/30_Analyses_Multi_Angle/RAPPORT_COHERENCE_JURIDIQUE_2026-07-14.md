@@ -17,14 +17,14 @@ type: rapport
 
 ## I — COHÉRENCE DES DATES
 
-### Chronologie de l'accident au 15 juillet 2026
+### I.1 — Chronologie de l'accident au 15 juillet 2026
 
 - **29 mai 2026** : Accident au salon de coiffure
 - **30 mai 2026** : Chirurgie réparatrice (**[Le Chirurgien SOS Main]**)
 - **01 juin 2026** : Certificat initial erroné (1 jour ITT, rectifié à 56 jours)
 - **23 juillet 2026** : Fin ITT théorique (56 jours)
 
-### Incohérences détectées
+### I.2 — Incohérences détectées
 
 - **Haute** : Date d'accident erronée (29/06 au lieu de 29/05) dans `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md` (Action: corriger en 29/05/2026)
 - **Haute** : Date d'accident erronée (29/06 au lieu de 29/05) dans `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/📋 Antiseche Orale Plainte.md` (Action: corriger en 29/05/2026)
@@ -34,7 +34,7 @@ type: rapport
 
 ## II — COHÉRENCE DES MONTANTS
 
-### Évolution des évaluations
+### II.1 — Évolution des évaluations
 
 - **Évaluation initiale (obsolète)** : 59 600 € (sous-évaluée sur SE, IP, DFP, oubli DFT, PEP, ATP)
 - **Évaluation Dintilhac consolidée** : 109 500 € (optimiste, incluant majorations)
@@ -43,7 +43,7 @@ type: rapport
 
 **Référence à privilégier :** L'évaluation Dintilhac consolidée (~109 500 € ou 161 500 € après majorations de juillet) ou le protocole de compromis (85 000 €). L'évaluation initiale de 59 600 € ne doit plus être utilisée comme référence pour la négociation/contentieux.
 
-### Incohérences détectées
+### II.2 — Incohérences détectées
 
 - **Moyenne** : Évaluation initiale obsolète (59 600 €) utilisée dans `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️🚨 INPI.md` (Action: mettre à jour avec les montants consolidés/compromis)
 
@@ -51,12 +51,12 @@ type: rapport
 
 ## III — COHÉRENCE DES DONNÉES FACTUELLES
 
-### Numéros de suivi et preuves
+### III.1 — Numéros de suivi et preuves
 
 - **Numéro CPAM** : 31727387 (valide)
 - **Numéro PV Police** : 2026/015967 (valide)
 
-### Incohérences détectées
+### III.2 — Incohérences détectées
 
 - **Haute** : Numéro LRAR invalide/non reconnu (870014140507947) dans `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📑 Bordereau Unifie.md` (Action: retirer/corriger ce numéro non reconnu)
 
@@ -66,7 +66,7 @@ type: rapport
 
 Les JURITEXT cités (ex: JURITEXT000049418278, JURITEXT000043782126, JURITEXT000044482848) ont été vérifiés avec succès via l'API Legifrance (`legifrance-decision`). Aucune anomalie de référencement JURITEXT n'a été détectée dans l'utilisation courante des actes.
 
-### Incohérences détectées
+### IV.1 — Incohérences détectées
 
 - Aucune incohérence JURITEXT flagrante n'a été signalée pour les arrêts clés testés.
 
@@ -74,7 +74,7 @@ Les JURITEXT cités (ex: JURITEXT000049418278, JURITEXT000043782126, JURITEXT000
 
 ## V — COHÉRENCE DE LA STRATÉGIE
 
-### Séquence procédurale
+### V.1 — Séquence procédurale
 
 1. **Article 145 CPC (Référé in futurum)** : Logique pour geler les preuves (vidéos, témoignages) avant déperdition.
 2. **Plainte pénale** : Déposée pour manquements à la sécurité (L.4121-1 C.trav). Ouvre la voie à une constitution de partie civile.

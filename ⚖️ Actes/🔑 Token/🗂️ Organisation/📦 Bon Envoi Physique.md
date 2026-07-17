@@ -52,7 +52,7 @@ jx: J+38
 | **6** | LRAR mises en demeure (29 mai 2026) + AR | Copies |
 <hr><hr>
 
-## IV — INSTRUCTIONS
+## III — INSTRUCTIONS
 
 1. **Imprimer** chaque document en A4, police Arial (ou équivalent lisible)
 
@@ -65,7 +65,7 @@ jx: J+38
 5. **Conserver** l'Accusé de Réception (AR) dans la chemise « Preuves d'envoi »
 <hr><hr>
 
-## V — RAPPELS
+## IV — RAPPELS
 
 - **Délai de réponse** du juge d'instruction : 1 à 3 mois
 

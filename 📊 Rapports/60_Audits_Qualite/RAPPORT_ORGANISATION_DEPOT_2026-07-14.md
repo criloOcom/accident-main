@@ -74,7 +74,7 @@ L'analyse de l'indexation et du suivi de statut met en évidence une incohérenc
 
 Afin de restaurer la conformité stricte avec les règles du projet et d'améliorer la maintenabilité, voici les recommandations prioritaires :
 
-### Liste priorisée des corrections
+### V.1 — Liste priorisée des corrections
 
 1. **Suppression ou Archivage du doublon `status/`** (Impact fort / Maintenance) :
    - Migrer toute information pertinente de `status/` vers `🚦 Status/`.
@@ -86,7 +86,7 @@ Afin de restaurer la conformité stricte avec les règles du projet et d'amélio
 4. **Mise en conformité du formatage - Séparateurs** (Impact faible / Conventions) :
    - Insérer les `<hr><hr>` manquants avant les balises `##` dans les fichiers listés en section III (notamment dans `⚖️ Actes/.../🗂️ Organisation/`).
 
-### Arborescence cible recommandée
+### V.2 — Arborescence cible recommandée
 
 ```mermaid
 graph TD

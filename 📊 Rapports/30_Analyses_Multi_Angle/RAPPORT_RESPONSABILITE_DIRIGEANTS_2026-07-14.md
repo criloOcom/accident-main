@@ -8,7 +8,7 @@ type: rapport
 
 <hr><hr>
 
-## EXPOSÉ DU CONTEXTE
+## I — EXPOSÉ DU CONTEXTE
 
 La présente analyse porte sur la responsabilité des dirigeants de la **[L'Exploitant du Commerce (La SAS)]**, dans le contexte d'un accident survenu le 29 mai 2026. L'entreprise est constituée sous la forme d'une Société par Actions Simplifiée (SAS) avec un capital social très faible de 200 €, ce qui soulève un risque majeur d'insolvabilité face à l'importance prévisible de l'indemnisation du dommage corporel de **[La Victime]**.
 
@@ -16,39 +16,39 @@ L'objectif est d'examiner les fondements juridiques permettant d'engager la resp
 
 <hr><hr>
 
-## I. FONDEMENTS CONTRE LA SAS (PERSONNE MORALE)
+## II — FONDEMENTS CONTRE LA SAS (PERSONNE MORALE)
 
-### A. Obligation de sécurité et responsabilité de l'employeur
+### II.1 — Obligation de sécurité et responsabilité de l'employeur
 
 - **Obligation de sécurité (Art. L.4121-1 C. trav.)** : L'employeur est tenu d'une obligation légale de sécurité et de protection de la santé physique et mentale des travailleurs. Le manquement à cette obligation, ayant conduit à l'accident grave de **[La Victime]**, engage la responsabilité de la SAS.
 - **Travail dissimulé (Art. L.8221-5 C. trav.)** : Si les conditions d'emploi révèlent une dissimulation (non-déclaration, absence de contrat formel), la SAS s'expose à de lourdes sanctions pénales et civiles, facilitant la mise en cause de ses dirigeants pour fraude.
 
-### B. Inopposabilité de la personne morale et capital sous-capitalisé (200 €)
+### II.2 — Inopposabilité de la personne morale et capital sous-capitalisé (200 €)
 
 - **Principe de responsabilité (Art. 1240 C. civ.)** : "Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer." Ce principe fondamental de responsabilité civile délictuelle s'applique à la SAS pour les fautes commises dans l'organisation et le fonctionnement du salon.
 - **Fraude et sous-capitalisation (Art. L.110-1 C. com.)** : La constitution d'une SAS avec un capital dérisoire de 200 € face à une activité à risque (utilisation de machines dangereuses, accueil du public) peut constituer une fraude aux droits des créanciers. La jurisprudence admet, de manière exceptionnelle, l'inopposabilité de la personnalité morale ("levée du voile social") lorsque la forme sociétaire est utilisée de manière abusive pour organiser l'insolvabilité et éluder les responsabilités.
 
 <hr><hr>
 
-## II. FONDEMENTS CONTRE LES DIRIGEANTS (PRÉSIDENT ET DG)
+## III — FONDEMENTS CONTRE LES DIRIGEANTS (PRÉSIDENT ET DG)
 
-### A. Action sociale et responsabilité civile des dirigeants
+### III.1 — Action sociale et responsabilité civile des dirigeants
 
 - **Régime des dirigeants de SAS (Art. L.227-8 C. com.)** : Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée.
 - **Responsabilité civile (Art. L.225-251 C. com.)** : Les administrateurs et le directeur général sont responsables, individuellement ou solidairement selon le cas, envers la société ou envers les tiers, des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, des violations des statuts ou des fautes commises dans leur gestion.
 - **Faute séparable des fonctions (Arrêt SATI, Cass. com., 20 mai 2003, n° 99-17.092, JURITEXT000007047369)** : La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute détachable de ses fonctions. Il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales.
   - *Application au cas d'espèce* : Le maintien d'une activité dangereuse sans assurance RC Pro valide, couplé à une sous-capitalisation manifeste et d'éventuelles infractions au Code du travail (travail dissimulé), caractérise une faute d'une particulière gravité, intentionnelle, et incompatible avec l'exercice normal de leurs fonctions. Cette faute justifie la mise en cause personnelle et solidaire de **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** sur leur patrimoine propre.
 
-### B. Insuffisance d'actif et Banqueroute
+### III.2 — Insuffisance d'actif et Banqueroute
 
-Si la SAS est placée en procédure collective (redressement ou liquidation judiciaire) suite à l'impossibilité de faire face au passif constitué par l'indemnisation de la victime :
+Si la SAS est placée en procédure collective (redressement ou liquidation judiciaire) à la suite de l'impossibilité de faire face au passif constitué par l'indemnisation de la victime :
 
 - **Action en comblement du passif (Art. L.651-2 C. com.)** : Lorsque la liquidation judiciaire fait apparaître une insuffisance d'actif, le tribunal peut, en cas de faute de gestion ayant contribué à cette insuffisance d'actif, décider que le montant de cette insuffisance sera supporté, en tout ou en partie, par tous les dirigeants de droit ou de fait, ou par certains d'entre eux, ayant contribué à la faute de gestion. La gestion manifestement imprudente (défaut d'assurance, capital de 200 €) fonde cette action.
 - **Banqueroute (Art. L.654-1 à L.654-6 C. com.)** : Les dirigeants peuvent être poursuivis pénalement pour banqueroute s'ils ont, notamment, détourné ou dissimulé tout ou partie de l'actif, ou tenu une comptabilité fictive ou manifestement incomplète, dans le but d'échapper à l'indemnisation.
 
 <hr><hr>
 
-## III. PLAN D'ACTION ET MESURES CONSERVATOIRES
+## IV — PLAN D'ACTION ET MESURES CONSERVATOIRES
 
 Face au risque avéré d'insolvabilité de la SAS et de disparition des actifs, la stratégie repose sur un séquencement d'actions rapides :
 
@@ -66,7 +66,7 @@ Face au risque avéré d'insolvabilité de la SAS et de disparition des actifs, 
 
 <hr><hr>
 
-## CONCLUSION ET ÉVALUATION DES FORCES/FAIBLESSES
+## V — CONCLUSION ET ÉVALUATION DES FORCES/FAIBLESSES
 
 - **Forces de l'action** : La jurisprudence SATI (faute séparable) est solidement établie pour contourner l'écran sociétaire en cas de faute grave intentionnelle. L'accumulation de fautes (défaut d'assurance, capital dérisoire, potentielles infractions prud'homales) caractérise aisément cette faute séparable.
 - **Faiblesses/Risques** : Le recouvrement effectif dépend de la consistance du patrimoine personnel réel des dirigeants (risques d'insolvabilité personnelle ou d'organisation d'insolvabilité préalable). L'action en comblement du passif nécessite l'ouverture préalable d'une procédure collective, allongeant considérablement les délais de recouvrement.

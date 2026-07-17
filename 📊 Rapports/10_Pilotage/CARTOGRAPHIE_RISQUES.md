@@ -34,7 +34,7 @@ type: rapport
 
 ---
 
-## 1. MÉTHODOLOGIE DE LA MATRICE
+## I — MÉTHODOLOGIE DE LA MATRICE
 
 Chaque risque est évalué selon trois axes :
 
@@ -44,7 +44,7 @@ Chaque risque est évalué selon trois axes :
 | **Impact** | Mineur / Modéré / Majeur / Critique / Catastrophique | Gravité des conséquences si le risque se réalise |
 | **Sévérité composée** | 1 (vert) → 5 (rouge) | Combinaison probabilité × impact |
 
-### Grille de sévérité
+### I.1 — Grille de sévérité
 
 | | Mineur | Modéré | Majeur | Critique | Catastrophique |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-## 2. MATRICE DES RISQUES — SYNTHÈSE VISUELLE
+## II — MATRICE DES RISQUES — SYNTHÈSE VISUELLE
 
 | ID | Risque | Probabilité | Impact | Sévérité | Priorité |
 |----|-------|-------------|--------|----------|----------|
@@ -93,13 +93,13 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-## 3. FICHES RISQUES DÉTAILLÉES
+## III — FICHES RISQUES DÉTAILLÉES
 
-### 3.1 Risques stratégiques
+### III.1 — 3.1 Risques stratégiques
 
 ---
 
-#### R1 — ASSUREUR RC PRO NON IDENTIFIÉ
+#### III.1.a — R1 — ASSUREUR RC PRO NON IDENTIFIÉ
 
 | Champ | Valeur |
 |-------|--------|
@@ -114,7 +114,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R2 — INSOLVABILITÉ DE LA SAS (CAPITAL 200 €)
+#### III.1.b — R2 — INSOLVABILITÉ DE LA SAS (CAPITAL 200 €)
 
 | Champ | Valeur |
 |-------|--------|
@@ -129,7 +129,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R3 — ABSENCE D'AVOCAT CONSTITUÉ
+#### III.1.c — R3 — ABSENCE D'AVOCAT CONSTITUÉ
 
 | Champ | Valeur |
 |-------|--------|
@@ -144,7 +144,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R4 — VIDÉOSURVEILLANCE EFFACÉE
+#### III.1.d — R4 — VIDÉOSURVEILLANCE EFFACÉE
 
 | Champ | Valeur |
 |-------|--------|
@@ -159,7 +159,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R5 — DISSIPATION DES PREUVES MATÉRIELLES
+#### III.1.e — R5 — DISSIPATION DES PREUVES MATÉRIELLES
 
 | Champ | Valeur |
 |-------|--------|
@@ -174,11 +174,11 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-### 3.2 Risques procéduraux
+### III.2 — 3.2 Risques procéduraux
 
 ---
 
-#### R6 — LRAR SAS RESTÉES NPAI
+#### III.2.a — R6 — LRAR SAS RESTÉES NPAI
 
 | Champ | Valeur |
 |-------|--------|
@@ -193,7 +193,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R7 — CALENDRIER PROCÉDURAL FICTIF
+#### III.2.b — R7 — CALENDRIER PROCÉDURAL FICTIF
 
 | Champ | Valeur |
 |-------|--------|
@@ -207,7 +207,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R8 — FUITE / DISPARITION DES DIRIGEANTS
+#### III.2.c — R8 — FUITE / DISPARITION DES DIRIGEANTS
 
 | Champ | Valeur |
 |-------|--------|
@@ -221,7 +221,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R9 — CONDITION D'INSOLVABILITÉ FGTI NON ÉTABLIE FORMELLEMENT
+#### III.2.d — R9 — CONDITION D'INSOLVABILITÉ FGTI NON ÉTABLIE FORMELLEMENT
 
 | Champ | Valeur |
 |-------|--------|
@@ -235,11 +235,11 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-### 3.3 Risques documentaires et preuves
+### III.3 — 3.3 Risques documentaires et preuves
 
 ---
 
-#### R10 — EXCLUSION DE GARANTIE ASSUREUR (FAUTE INTENTIONNELLE)
+#### III.3.a — R10 — EXCLUSION DE GARANTIE ASSUREUR (FAUTE INTENTIONNELLE)
 
 | Champ | Valeur |
 |-------|--------|
@@ -253,7 +253,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R11 — PRESCRIPTION BIENNALE MAL APPLIQUÉE
+#### III.3.b — R11 — PRESCRIPTION BIENNALE MAL APPLIQUÉE
 
 | Champ | Valeur |
 |-------|--------|
@@ -267,7 +267,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R12 — HALLUCINATIONS JURIDIQUES RÉCURRENTES
+#### III.3.c — R12 — HALLUCINATIONS JURIDIQUES RÉCURRENTES
 
 | Champ | Valeur |
 |-------|--------|
@@ -281,7 +281,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R13 — FUITE RGPD PAR TOKENISATION INCOMPLÈTE
+#### III.3.d — R13 — FUITE RGPD PAR TOKENISATION INCOMPLÈTE
 
 | Champ | Valeur |
 |-------|--------|
@@ -295,7 +295,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R14 — ABSENCE DE CONSOLIDATION MÉDICALE
+#### III.3.e — R14 — ABSENCE DE CONSOLIDATION MÉDICALE
 
 | Champ | Valeur |
 |-------|--------|
@@ -309,7 +309,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R15 — INCOMPÉTENCE TERRITORIALE TJ FOIX
+#### III.3.f — R15 — INCOMPÉTENCE TERRITORIALE TJ FOIX
 
 | Champ | Valeur |
 |-------|--------|
@@ -323,11 +323,11 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-### 3.4 Risques financiers
+### III.4 — 3.4 Risques financiers
 
 ---
 
-#### R16 — COÛTS DE JUSTICE NON COUVERTS
+#### III.4.a — R16 — COÛTS DE JUSTICE NON COUVERTS
 
 | Champ | Valeur |
 |-------|--------|
@@ -341,7 +341,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R17 — BLOG / COMMUNICATION PUBLIQUE PRÉMATURÉE
+#### III.4.b — R17 — BLOG / COMMUNICATION PUBLIQUE PRÉMATURÉE
 
 | Champ | Valeur |
 |-------|--------|
@@ -355,7 +355,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R18 — ABSENCE D'ASSURANCE RC — EXTENSION CPAM/AT
+#### III.4.c — R18 — ABSENCE D'ASSURANCE RC — EXTENSION CPAM/AT
 
 | Champ | Valeur |
 |-------|--------|
@@ -369,11 +369,11 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-### 3.5 Risques transverses
+### III.5 — 3.5 Risques transverses
 
 ---
 
-#### R19 — IMPOSSIBILITÉ DE RECOUVREMENT SUR DIRIGEANTS
+#### III.5.a — R19 — IMPOSSIBILITÉ DE RECOUVREMENT SUR DIRIGEANTS
 
 | Champ | Valeur |
 |-------|--------|
@@ -387,7 +387,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R20 — CONFLIT D'INTÉRÊTS AVOCAT LOCAL
+#### III.5.b — R20 — CONFLIT D'INTÉRÊTS AVOCAT LOCAL
 
 | Champ | Valeur |
 |-------|--------|
@@ -401,7 +401,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R21 — PERTE DES ORIGINAUX DE PIÈCES
+#### III.5.c — R21 — PERTE DES ORIGINAUX DE PIÈCES
 
 | Champ | Valeur |
 |-------|--------|
@@ -415,11 +415,11 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-### 3.5 Risques liés aux récents rapports (Check-list, Pénal, Expertise, Dintilhac, Conclusions)
+### III.6 — 3.5 Risques liés aux récents rapports (Check-list, Pénal, Expertise, Dintilhac, Conclusions)
 
 ---
 
-#### R22 — DÉPÉRISSEMENT DES PREUVES VIDÉO
+#### III.6.a — R22 — DÉPÉRISSEMENT DES PREUVES VIDÉO
 
 | Champ | Valeur |
 |-------|--------|
@@ -434,7 +434,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R23 — INSOLVABILITÉ SAS (CAPITAL 200 €)
+#### III.6.b — R23 — INSOLVABILITÉ SAS (CAPITAL 200 €)
 
 | Champ | Valeur |
 |-------|--------|
@@ -449,7 +449,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R24 — SILENCE ADMINISTRATIF ET IMPUNITÉ DE L'ERP
+#### III.6.c — R24 — SILENCE ADMINISTRATIF ET IMPUNITÉ DE L'ERP
 
 | Champ | Valeur |
 |-------|--------|
@@ -464,7 +464,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R25 — COMPLICATIONS EXPERTISE UMJ (12 NOV 2026)
+#### III.6.d — R25 — COMPLICATIONS EXPERTISE UMJ (12 NOV 2026)
 
 | Champ | Valeur |
 |-------|--------|
@@ -479,7 +479,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R26 — ÉCHEC DES QUALIFICATIONS PÉNALES (OBSTRUCTION)
+#### III.6.e — R26 — ÉCHEC DES QUALIFICATIONS PÉNALES (OBSTRUCTION)
 
 | Champ | Valeur |
 |-------|--------|
@@ -494,7 +494,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R27 — CONTESTATION DE L'ÉVALUATION DINTILHAC
+#### III.6.f — R27 — CONTESTATION DE L'ÉVALUATION DINTILHAC
 
 | Champ | Valeur |
 |-------|--------|
@@ -509,7 +509,7 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-#### R28 — DÉFAILLANCES DANS LES CONCLUSIONS AU FOND
+#### III.6.g — R28 — DÉFAILLANCES DANS LES CONCLUSIONS AU FOND
 
 | Champ | Valeur |
 |-------|--------|
@@ -523,9 +523,9 @@ Chaque risque est évalué selon trois axes :
 | **Échéance** | Avant l'audience au fond |
 
 
-## 4. PLAN D'ATTÉNUATION GLOBAL
+## IV — PLAN D'ATTÉNUATION GLOBAL
 
-### 4.1 Actions d'urgence (J0-J3 : 10-13 juillet 2026)
+### IV.1 — 4.1 Actions d'urgence (J0-J3 : 10-13 juillet 2026)
 
 | # | Action | Risque couvert | Effort |
 |---|--------|---------------|--------|
@@ -535,7 +535,7 @@ Chaque risque est évalué selon trois axes :
 | U4 | **Signaler au Procureur de la République** le risque de suppression frauduleuse de la SAS | R8 (fuite) | 30 min |
 | U5 | **Transmettre les coordonnées des témoins potentiels + Dr DJERBI** à l'agent IA | R14 (consolidation), R4 (témoins) | 15 min |
 
-### 4.2 Actions court terme (J+3-J+10 : 13-20 juillet 2026)
+### IV.2 — 4.2 Actions court terme (J+3-J+10 : 13-20 juillet 2026)
 
 | # | Action | Risque couvert | Effort |
 |---|--------|---------------|--------|
@@ -545,7 +545,7 @@ Chaque risque est évalué selon trois axes :
 | T4 | **Relancer Dr DJERBI** pour certificat consolidation (email 25) | R14 (consolidation) | 15 min |
 | T5 | **Demander la désignation d'un expert judiciaire** dans le cadre du référé | R14 (consolidation) | Inclus T2 |
 
-### 4.3 Actions moyen terme (avant novembre 2026)
+### IV.3 — 4.3 Actions moyen terme (avant novembre 2026)
 
 | # | Action | Risque couvert | Effort |
 |---|--------|---------------|--------|
@@ -554,7 +554,7 @@ Chaque risque est évalué selon trois axes :
 | M3 | **Préparer dossier médical complet** pour expertise UMJ du 12/11 | R14 (consolidation) | 2 h |
 | M4 | **Mettre à jour le calendrier procédural** avec dates réelles post-avocat | R7 (calendrier) | 30 min |
 
-### 4.4 Actions long terme (après consolidation)
+### IV.4 — 4.4 Actions long terme (après consolidation)
 
 | # | Action | Risque couvert |
 |---|--------|---------------|
@@ -564,9 +564,9 @@ Chaque risque est évalué selon trois axes :
 
 ---
 
-## 5. VIGILANCES PERMANENTES
+## V — VIGILANCES PERMANENTES
 
-### Surveillance continue
+### V.1 — Surveillance continue
 
 | Élément | Fréquence | Responsable |
 |---------|-----------|-------------|
@@ -577,7 +577,7 @@ Chaque risque est évalué selon trois axes :
 | Prescription décennale (art. 2226) | Semestrielle | Agent IA |
 | Consistance du Drive — sauvegarde fichiers token | Mensuel | Agent IA |
 
-### Interdictions absolues
+### V.2 — Interdictions absolues
 
 - ❌ Ne JAMAIS uploader TOKEN MAP.md, ANNEXE A, ou tout fichier contenant des identités réelles sur un Google Drive partagé
 - ❌ Ne JAMAIS publier sur le blog des informations couvertes par le secret de l'instruction
@@ -585,7 +585,7 @@ Chaque risque est évalué selon trois axes :
 - ❌ Ne JAMAIS inventer un statut juridique, une date, ou un montant sans source vérifiable
 - ❌ Ne JAMAIS modifier un document Drive directement — toujours passer par le workflow local → replaceDocumentWithMarkdown
 
-### Indicateurs de levée de risque
+### V.3 — Indicateurs de levée de risque
 
 | Risque | Indicateur de levée |
 |--------|---------------------|

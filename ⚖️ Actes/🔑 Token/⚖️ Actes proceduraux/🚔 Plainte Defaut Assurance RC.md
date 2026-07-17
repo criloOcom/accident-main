@@ -47,7 +47,7 @@ OBJET : COMPLÉMENT DE PLAINTE PÉNALE
 Dénonciation de défaut d'assurance de responsabilité civile professionnelle et d'entrave à l'exercice de l'action directe
 
 RÉFÉRENCE : Dossier [ ... ]
-## INTRODUCTION
+## I — INTRODUCTION
 
 Le présent complément de plainte pénale est déposé par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) auprès de Monsieur le Procureur de la République près le Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) afin de signaler l'absence d'assurance de responsabilité civile professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
@@ -68,7 +68,7 @@ En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 <hr><hr>
 
-## I — EXPOSÉ DES FAITS
+## II — EXPOSÉ DES FAITS
 
 Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), alors qu'il se trouvait dans le salon de coiffure exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) en qualité de client, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a été victime d'un accident corporel grave au sein de l'établissement, sise [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md). 
 
@@ -87,8 +87,8 @@ Ni le Président de la SAS, [**[Le Président de l'Exploitation]**](../../../%F0
 Ce silence persistant, malgré l'envoi de courriers recommandés le [**[J+31 Mises en demeure]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md), laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
 <hr><hr>
 
-## II — DISCUSSION JURIDIQUE
-### A. SUR L'ABSENCE D'ASSURANCE DE RESPONSABILITÉ CIVILE
+## III — DISCUSSION JURIDIQUE
+### III.1 — SUR L'ABSENCE D'ASSURANCE DE RESPONSABILITÉ CIVILE
 
 Malgré les demandes amiables de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle.
 
@@ -100,7 +100,7 @@ En l'absence d'assurance, l'indemnisation de la victime au titre de l'action dir
 > [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) <br>
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^4]**
 
-### B. SUR L'ENTRAVE À L'EXERCICE DE L'ACTION DIRECTE
+### III.2 — SUR L'ENTRAVE À L'EXERCICE DE L'ACTION DIRECTE
 
 L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1] consacre le droit propre et l'action directe de la victime à l'encontre de l'assureur du responsable.
 
@@ -133,7 +133,7 @@ Par ailleurs, ce défaut de souscription ou d'information peut constituer une fa
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^8]**
 <hr><hr>
 
-## III — CONSÉQUENCES ET PRÉJUDICES
+## IV — CONSÉQUENCES ET PRÉJUDICES
 
 Le préjudice subi par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) est d'une particulière gravité.
 
@@ -150,7 +150,7 @@ Les pertes d'exploitation sont d'ores et déjà significatives et le préjudice 
 L'absence de communication de l'assurance bloque toute offre d'indemnisation amiable, l'accès à une expertise médicale contradictoire et la prise en charge des soins par la CPAM (dossier [ ... ]).
 <hr><hr>
 
-## IV — DEMANDES
+## V — DEMANDES
 
 Par ces motifs, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) sollicite qu'il plaise à Monsieur le Procureur de la République d'ordonner une enquête complémentaire visant à :
 

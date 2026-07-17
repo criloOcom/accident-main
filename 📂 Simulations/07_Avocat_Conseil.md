@@ -17,7 +17,7 @@ date: 2026-07-14
 
 ## I — CONTEXTE ET OBJECTIFS
 
-Le présent rapport est établi dans le cadre de la défense des intérêts de **[La Victime]**, informaticien indépendant, suite à l'accident dont il a été victime le 29 mai 2026 au sein du salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]**.
+Le présent rapport est établi dans le cadre de la défense des intérêts de **[La Victime]**, informaticien indépendant, à la suite de l'accident dont il a été victime le 29 mai 2026 au sein du salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]**.
 
 L'accident (chute d'une vasque en pierre sur la main droite dominante) a nécessité une intervention chirurgicale en urgence à **[L'Établissement SOS Main]** et a entraîné une incapacité de travail et des séquelles fonctionnelles importantes, impactant tant sa vie professionnelle que ses loisirs (codage).
 

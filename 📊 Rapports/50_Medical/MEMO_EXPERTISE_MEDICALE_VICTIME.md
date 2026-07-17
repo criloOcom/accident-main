@@ -22,14 +22,14 @@ Ce mémo a pour but de vous aider à préparer votre expertise médicale du 12 n
 
 L'expert basera son évaluation sur les documents médicaux que vous lui fournirez. Vous devez impérativement vous présenter avec un **dossier complet et classé chronologiquement**.
 
-### 1. Documents administratifs
+### I.1 — Documents administratifs
 - Carte d'identité ou Passeport.
 - Carte Vitale et attestation de droits CPAM.
 - Carte de mutuelle.
 - Dossier CPAM (numéro d'accident du travail : **[N° [Dossier CPAM](../../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**).
 - Copie de votre dépôt de plainte et du PV de police.
 
-### 2. Pièces médicales (depuis le jour de l'accident)
+### I.2 — Pièces médicales (depuis le jour de l'accident)
 - **Le certificat médical initial** rédigé aux urgences par le Dr **[Le Médecin en Urgence]** (29/05/2026).
 - **Le compte-rendu opératoire** de microchirurgie (tendons/nerfs) du **[Le Chirurgien SOS Main]** (30/05/2026).
 - L'ordonnance de sortie de SOS Main avec les antalgiques prescrits (30/05/2026).
@@ -40,7 +40,7 @@ L'expert basera son évaluation sur les documents médicaux que vous lui fournir
 
 *Conseil : Apportez des photos de vos blessures juste après l'accident et pendant la cicatrisation si vous en possédez.*
 
-### 3. Le "Journal des Douleurs et Gênes"
+### I.3 — Le "Journal des Douleurs et Gênes"
 Rédigez sur papier libre un résumé de votre quotidien. Notez-y les tâches qui vous posent problème chaque jour (ex: difficulté à boutonner une chemise, douleurs au réveil).
 
 <hr><hr>
@@ -49,13 +49,13 @@ Rédigez sur papier libre un résumé de votre quotidien. Notez-y les tâches qu
 
 L'expert ne peut pas "voir" votre douleur, c'est à vous de la verbaliser clairement.
 
-### 1. Évaluer la douleur
+### II.1 — Évaluer la douleur
 Utilisez l'échelle EVA (de 0 = aucune douleur à 10 = douleur insupportable).
 *   **Douleur de fond permanente :** Par exemple, indiquez si vous ressentez une douleur constante (ex: 2 à 3/10).
 *   **Douleur à l'effort :** Précisez à combien monte la douleur (ex: 5 à 6/10) après une activité prolongée (comme l'utilisation de la souris).
 *   **Type de douleur :** Décrivez la sensation exacte (sensation de brûlure avec le froid, décharges électriques nocturnes, hypersensibilité, raideur matinale de l'index).
 
-### 2. Expliquer le retentissement fonctionnel (Ce que vous ne pouvez plus faire)
+### II.2 — Expliquer le retentissement fonctionnel (Ce que vous ne pouvez plus faire)
 Soyez très concret sur la gêne mécanique, particulièrement parce que vous êtes **droitier** et que la main blessée est dominante.
 *   **Perte de dextérité :** Évoquez la difficulté de la "pince" entre le pouce et l'index (pour saisir des clés, des pièces, ouvrir un emballage).
 *   **Perte de force :** Précisez la perte de force de préhension (porter une charge de plus de 3 kg est devenu difficile).

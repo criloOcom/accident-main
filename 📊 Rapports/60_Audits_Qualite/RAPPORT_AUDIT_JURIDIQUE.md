@@ -17,7 +17,7 @@ type: rapport
 
 ---
 
-## 1. PÉRIMÈTRE AUDITÉ
+## I — PÉRIMÈTRE AUDITÉ
 
 **Courriers examinés** (7) :
 | N° | Fichier | Destinataire |
@@ -34,9 +34,9 @@ type: rapport
 
 ---
 
-## 2. TABLEAU DES ARTICLES CITÉS — CONFORMITÉ
+## II — TABLEAU DES ARTICLES CITÉS — CONFORMITÉ
 
-### 2.1 Articles présents dans 📜 Lois/ et vérifiés
+### II.1 — 2.1 Articles présents dans 📜 Lois/ et vérifiés
 
 | Article | Courrier | Contenu conforme | Adapté aux faits | Statut |
 |---------|----------|-------------------|------------------|--------|
@@ -53,7 +53,7 @@ type: rapport
 | **222-20 CP** | 10, 19 | ✅ « ITT ≤ 3 mois » | 🟢 Qualification correcte pour 56j d'ITT | OK |
 | **475-1 CPP** | — | ✅ Frais partie civile | 🟢 Standard | OK |
 
-### 2.2 Articles absents de 📜 Lois/ (cités mais pas de fichier dédié)
+### II.2 — 2.2 Articles absents de 📜 Lois/ (cités mais pas de fichier dédié)
 
 | Article | Courrier | Vérifié sur Légifrance | Statut |
 |---------|----------|------------------------|--------|
@@ -67,7 +67,7 @@ type: rapport
 | **Art. 88 CPP** | 10 | ✅ VIGUEUR — Consignation | 🟡 Fichier à créer |
 | **Art. 40 CPP** | 14 | ✅ VIGUEUR — Obligation de signalement autorités | 🟡 Fichier à créer |
 
-### 2.3 Jurisprudence vérifiée (Cour de cassation — 25 arrêts dans 📜 Lois)
+### II.3 — 2.3 Jurisprudence vérifiée (Cour de cassation — 25 arrêts dans 📜 Lois)
 
 Tous les arrêts listés dans [📜 Lois/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) sont présents et vérifiables. Les arrêts clés pour l'affaire :
 - **89-18.422** (Civ. 2e, 13 fév. 1991) — Échelle qui bascule = instrument du dommage → utile pour le bac à shampoing
@@ -77,9 +77,9 @@ Tous les arrêts listés dans [📜 Lois/README.md](../../%E2%9A%96%EF%B8%8F%20A
 
 ---
 
-## 3. PROBLÈMES IDENTIFIÉS
+## III — PROBLÈMES IDENTIFIÉS
 
-### 🔴 CRITIQUE 1 : Art. 222-19 CP — Qualification pénale contestable (courriers 10, 19)
+### III.1 — 🔴 CRITIQUE 1 : Art. 222-19 CP — Qualification pénale contestable (courriers 10, 19)
 
 | Élément | Valeur |
 |---------|--------|
@@ -99,7 +99,7 @@ Tous les arrêts listés dans [📜 Lois/README.md](../../%E2%9A%96%EF%B8%8F%20A
 
 ---
 
-### 🔴 CRITIQUE 2 : Constitution de partie civile prématurée (courrier 10)
+### III.2 — 🔴 CRITIQUE 2 : Constitution de partie civile prématurée (courrier 10)
 
 | Élément | Valeur |
 |---------|--------|
@@ -124,7 +124,7 @@ Aucune condition n'est remplie. La constitution de partie civile est donc **pré
 
 ---
 
-### 🟡 MOYEN 3 : Art. L310-1-1-2 — Référence erronée (courrier 14 CODAF)
+### III.3 — 🟡 MOYEN 3 : Art. L310-1-1-2 — Référence erronée (courrier 14 CODAF)
 
 **Citation dans le courrier** : « En violation de l'Article L.310-1-1-2 du Code des assurances (loi n° 2024-364 du 22 avril 2024) »
 
@@ -144,7 +144,7 @@ Aucune condition n'est remplie. La constitution de partie civile est donc **pré
 
 ---
 
-### 🟡 MOYEN 4 : Fondement 1240 CC vs 1242 CC (courrier 03)
+### III.4 — 🟡 MOYEN 4 : Fondement 1240 CC vs 1242 CC (courrier 03)
 
 **Citation** : L'article 1240 est implicitement visé par la mise en demeure (responsabilité pour faute).
 
@@ -156,7 +156,7 @@ Aucune condition n'est remplie. La constitution de partie civile est donc **pré
 
 ---
 
-### 🟢 BON 5 : Points de qualité juridique
+### III.5 — 🟢 BON 5 : Points de qualité juridique
 
 | Point | Appréciation |
 |-------|-------------|
@@ -169,9 +169,9 @@ Aucune condition n'est remplie. La constitution de partie civile est donc **pré
 
 ---
 
-## 4. ANALYSE DE COHÉRENCE PROCÉDURALE
+## IV — ANALYSE DE COHÉRENCE PROCÉDURALE
 
-### Parcours procédural actuel
+### IV.1 — Parcours procédural actuel
 
 ```
 Plainte simple (J+4)
@@ -209,7 +209,7 @@ Transmission preuves TJ (J+44)
 
 ---
 
-## 5. ABSENCE DE FICHIERS DANS 📜_LOIS/ — À CRÉER
+## V — ABSENCE DE FICHIERS DANS 📜_LOIS/ — À CRÉER
 
 | Article | Priorité |
 |---------|----------|
@@ -225,7 +225,7 @@ Transmission preuves TJ (J+44)
 
 ---
 
-## 6. RÉCAPITULATIF — NIVEAU DE GRAVITÉ
+## VI — RÉCAPITULATIF — NIVEAU DE GRAVITÉ
 
 | Gravité | Nb | Actions |
 |---------|----|--------|

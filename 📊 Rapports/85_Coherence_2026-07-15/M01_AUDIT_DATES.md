@@ -21,7 +21,7 @@ Cet audit recense les incohérences de dates détectées par rapport aux dates c
 
 <hr><hr>
 
-## Liste des corrections à appliquer
+## I — Liste des corrections à appliquer
 
 - [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/📋 Guide Dialogue Police.md** : ligne 108
   - [CRITIQUE] Date de l'accident erronée (29 juin) — Remplacer par 29 mai 2026.
@@ -44,5 +44,5 @@ Cet audit recense les incohérences de dates détectées par rapport aux dates c
 - [ ] **🧠 Memory/🗂️ Tokens/token-j-1-chirurgie.md** : ligne 24
   - [CRITIQUE] Date de chirurgie erronée (31 mai au lieu de 30 mai) — Remplacer par 30 mai 2026 (le 31/05 est la date du CR).
 
-## Note sur les occurrences "29 mai 2027"
+## II — Note sur les occurrences "29 mai 2027"
 L'audit a également vérifié les occurrences de "29 mai 2027" (erreur potentielle sur la date de l'UMJ). Toutes les occurrences restantes dans les documents font référence au **Rapport d'expertise médicale (29 mai 2027)** ou sont listées comme corrigées dans les rapports d'audit passés. Ces occurrences sont légitimes et conformes à la Source Unique de Vérité (`🧠 Memory/STRICT VARIABLES.md`), car il y a eu une expertise déposée le 29 mai 2027. Aucune occurrence erronée d'UMJ au "29 mai 2027" n'a été détectée.

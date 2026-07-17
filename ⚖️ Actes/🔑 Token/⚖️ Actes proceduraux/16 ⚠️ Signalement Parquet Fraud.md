@@ -11,7 +11,7 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/16 ⚠️ Signalement Parque
 <!-- /Breadcrumb -->
 
 # SIGNALEMENT AU PROCUREUR DE LA RÉPUBLIQUE
-## (Article 40 du Code de procédure pénale)
+## I — (Article 40 du Code de procédure pénale)
 
 **À L'ATTENTION DE MONSIEUR LE PROCUREUR DE LA RÉPUBLIQUE**
 **TRIBUNAL JUDICIAIRE DE [La Ville de l'Accident]**
@@ -20,7 +20,7 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/16 ⚠️ Signalement Parque
 
 **OBJET :** Signalement pour tentative d'organisation frauduleuse d'insolvabilité et dissimulation frauduleuse.
 **BASE LÉGALE :** Articles 434-4 et 314-7 du Code pénal.
-### I. EXPOSÉ DES FAITS
+### I.1 — EXPOSÉ DES FAITS
 
 Monsieur le Procureur de la République,
 
@@ -39,7 +39,7 @@ Ces agissements s'inscrivent dans un contexte où la SAS [**[L'Exploitant du Com
 La concomitance de cette potentielle cessation d'activité et de la création d'une nouvelle structure à la même adresse, alors qu'une action en responsabilité est en cours à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), pris en la personne de ses dirigeants, [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), et personnellement contre ces derniers, soulève de sérieux doutes quant à la probité de cette opération.
 <hr><hr>
 
-### II. FONDEMENTS JURIDIQUES
+### I.2 — FONDEMENTS JURIDIQUES
 
 Ces agissements, s'ils étaient confirmés, pourraient recevoir la qualification pénale de dissimulation frauduleuse et d'organisation frauduleuse d'insolvabilité, faits prévus et réprimés par le Code pénal.
 
@@ -58,7 +58,7 @@ Ces agissements, s'ils étaient confirmés, pourraient recevoir la qualification
 > **Code pénal.[^3]**
 <hr><hr>
 
-### III. DEMANDES
+### I.3 — DEMANDES
 
 Au regard de la gravité de ces faits, qui semblent orchestrés dans le but manifeste d'échapper à d'éventuelles condamnations indemnitaires au préjudice de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), je vous prie de bien vouloir faire diligenter toute enquête utile afin :
 

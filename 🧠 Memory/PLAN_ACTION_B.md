@@ -29,7 +29,7 @@ type: memory
 
 | Action | Détail | Documents nécessaires | Destinataire | Statut |
 | :--- | :--- | :--- | :--- | :--- |
-| **Obtenir l'attestation RC Pro** | Obtenir les coordonnées de l'assureur RC Professionnelle de **[L'Exploitant du Commerce (La SAS)]** (actuellement manquantes suite à l'erreur véhicule). | Demande officielle, injonction de communication si référé gagné | **[Le Président de l'Exploitation]** / Assureur RC Pro | En attente |
+| **Obtenir l'attestation RC Pro** | Obtenir les coordonnées de l'assureur RC Professionnelle de **[L'Exploitant du Commerce (La SAS)]** (actuellement manquantes à la suite de l'erreur véhicule). | Demande officielle, injonction de communication si référé gagné | **[Le Président de l'Exploitation]** / Assureur RC Pro | En attente |
 
 ## Pièces critiques à obtenir
 

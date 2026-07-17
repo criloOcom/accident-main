@@ -26,7 +26,7 @@ auteur: Avis Dintilhac externe
 
 ---
 
-## 1. Contexte
+## I — Contexte
 
 Victime : **M. [Prénom NOM]**, informaticien indépendant (activité principale : développement / codage), client du salon de coiffure « [Les Mauvais Garçons] » exploité par la SAS [●], à [ville].
 
@@ -36,7 +36,7 @@ L'accident a nécessité une **prise en charge en urgence** et une **microchirur
 
 ---
 
-## 2. Mission et méthode
+## II — Mission et méthode
 
 La mission confiée consiste à fournir une **évaluation indemnitaire globale** selon la **nomenclature Dintilhac**, sur la base :
 
@@ -57,7 +57,7 @@ Deux scénarios sont étudiés :
 
 ---
 
-## 3. Hypothèses retenues
+## III — Hypothèses retenues
 
 1. **Revenus professionnels**  
    Revenu net annuel moyen retenu : **9 000 €** (soit 750 €/mois), correspondant au niveau d'activité d'indépendant de la victime au moment des faits.
@@ -77,7 +77,7 @@ Deux scénarios sont étudiés :
 
 ---
 
-## 4. Évaluation des préjudices — Nomenclature Dintilhac
+## IV — Évaluation des préjudices — Nomenclature Dintilhac
 
 > Montants exprimés en euros, **avant imputation** des prestations de la CPAM et des autres organismes sociaux.
 
@@ -97,7 +97,7 @@ Deux scénarios sont étudiés :
 | | Préjudice d'agrément | Restriction importante du codage à titre de loisir exclusif | 3 000 | 4 000 | Demande initiale possible 5 000 € ; atterrissage cible ≈ 4 000 € |
 | | Préjudice sexuel | Aucun élément clinique spécifique | 0 | 0 | Peut rester à 0 si aucun trouble particulier n'est documenté |
 
-### Totaux estimatifs (avant recours CPAM)
+### IV.1 — Totaux estimatifs (avant recours CPAM)
 
 - **Total patrimonial** :
   - Scénario prudent : ≈ **88 650 €**
@@ -111,9 +111,9 @@ Deux scénarios sont étudiés :
 
 ---
 
-## 5. Analyse et discussion
+## V — Analyse et discussion
 
-### 5.1 Écart avec les premières estimations
+### V.1 — 5.1 Écart avec les premières estimations
 
 Les premières évaluations internes tournaient autour de **85 000–90 000 €**, notamment sur la base d'un DFP fixé à 10 % et d'une incidence professionnelle moins valorisée.
 
@@ -123,7 +123,7 @@ L'analyse présente aboutit à une **fourchette sensiblement plus élevée**, pr
 - d'une appréciation plus marquée des **pertes de gains futurs** (PGPF) sur la durée résiduelle de carrière ;
 - d'une prise en compte plus structurée du **préjudice d'agrément** (codage comme loisir exclusif, et non simple prolongement de l'activité salariée).
 
-### 5.2 Préjudice d'agrément — codage comme loisir distinct
+### V.2 — 5.2 Préjudice d'agrément — codage comme loisir distinct
 
 Le codage / développement informatique est ici envisagé sous un **double angle** :
 
@@ -134,7 +134,7 @@ L'indemnisation ne doit pas aboutir à une **double réparation** : l'incidence 
 
 Compte tenu du caractère **central et exclusif** de ce loisir, un montant compris entre **3 000 € et 5 000 €**, avec un **atterrissage cible autour de 4 000 €**, apparaît justifié.
 
-### 5.3 Rôle de l'expertise médicale
+### V.3 — 5.3 Rôle de l'expertise médicale
 
 Les montants proposés pour les postes **DFP**, **SE**, **DFT** et, par ricochet, pour l'**incidence professionnelle** et le **PGPF**, doivent être affinés à la lumière :
 
@@ -145,7 +145,7 @@ L'avis présent doit donc être qualifié d'**évaluation barémique provisoire*
 
 ---
 
-## 6. Conclusion — Fourchette de négociation
+## VI — Conclusion — Fourchette de négociation
 
 Au vu des éléments disponibles à la date du **13 juillet 2026**, il apparaît raisonnable de retenir, **en droit commun**, la **fourchette indemnitaire suivante**, avant recours de la CPAM :
 
