@@ -17,7 +17,7 @@ reel_path: ../../👤 Reel/🗄️ Archives/33 ✉️ Requete Constat Huissier 1
 <hr>
 <!-- /Breadcrumb -->
 
-# REQUETE AU PRESIDENT DU TRIBUNAL JUDICIAIRE DE Foix
+# REQUETE AU PRESIDENT DU TRIBUNAL JUDICIAIRE DE [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
 **AUX FINS DE DESIGNATION D'HUISSIER DE JUSTICE POUR CONSTAT**
 
@@ -27,9 +27,9 @@ reel_path: ../../👤 Reel/🗄️ Archives/33 ✉️ Requete Constat Huissier 1
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.[^1]**
 
-Sébastien GRAZIDE
-10 Avenue de Purpan, 31700 Blagnac
-Courriel : sebastien.grazide@gmail.com
+[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
+
+Courriel : [sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
 **Tribunal Judiciaire de [La Ville de l'Accident]**
 
@@ -37,20 +37,20 @@ Courriel : sebastien.grazide@gmail.com
 
 **[Adresse du TJ à compléter]**
 
-Foix, le **[J+41 Requete Constat 145]**
+[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [**[J+41 Requete Constat 145]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-41-requete-constat-145.md)
 
-Ref : Accident du 29 mai 2026 — SAS SAS LES MAUVAIS GARCONS
+Ref : Accident du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
 <hr><hr>
 
 Madame, Monsieur le President,
 ## I — EXPOSE DES FAITS
 
-Sébastien GRAZIDE (ne le 18 janvier 1982, informaticien independant) a ete victime d'un accident corporel grave le 29 mai 2026 a 15h00 au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS (SIREN 938 033 222), sise 22 Rue Lafaurie, 09000 Foix.
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (ne le 18 janvier 1982, informaticien independant) a ete victime d'un accident corporel grave le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) a 15h00 au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)), sise [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md).
 
 Le prepose de l'exploitation, qui devait acceder a un poste de television installe en hauteur, a du monter sur un bac a shampoing en ceramique faute d'escabeau mis a disposition. En descendant, son poids a entraine le basculement de l'equipement, instable et presentant une cassure majeure preexistante non signalee sur son flanc.
 
-Par reflexe, le requerant a tendu la main droite pour proteger le coiffeur. Sa paume a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence (30 mai 2026, SOS Main, Clinique de l'Union) et une ITT de 56 jours.
+Par reflexe, le requerant a tendu la main droite pour proteger le coiffeur. Sa paume a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence (30 mai 2026, SOS Main, [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)) et une ITT de 56 jours.
 <hr><hr>
 
 ## II — MOTIF LEGITIME (Art. 145 CPC)
@@ -92,7 +92,7 @@ Le constat d'huissier devra porter sur :
 
 Les procedures suivantes ont ete engagees a la date de la requete :
 
-1. Depot de plainte (1er juin 2026, PV n° 2026/015967)
+1. Depot de plainte (1er juin 2026, PV n° [2026/015967](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md))
 2. Constitution de partie civile (6 juillet 2026) — chef de blessures involontaires (Art. 222-19 CP)
 3. Mises en demeure LRAR (29 mai 2026) — sans aucun retour des dirigeants
 4. Assignation en refere-provision (Art. 835 CPC) et assignation Art. 145 CPC pour communication d'assurance
@@ -101,11 +101,11 @@ Les procedures suivantes ont ete engagees a la date de la requete :
 
 ## IV — DEMANDE
 
-Par ces motifs, le requerant sollicite de Monsieur le President du Tribunal Judiciaire de Foix de bien vouloir :
+Par ces motifs, le requerant sollicite de Monsieur le President du Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) de bien vouloir :
 
 **1. DESIGNER** tel Commissaire a l'execution de la preuve, Huissier de Justice de son ressort, avec mission de :
 
-- Se rendre au salon de coiffure situe 22 Rue Lafaurie, 09000 Foix
+- Se rendre au salon de coiffure situe [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
 
 - Constater l'etat, les dimensions, la stabilite et les eventuelles cassures du bac a shampoing
 
@@ -125,13 +125,13 @@ Par ces motifs, le requerant sollicite de Monsieur le President du Tribunal Judi
 
 **3. DIRE** que l'huissier pourra se faire assister de tout technicien ou serrurier necessaire a l'accomplissement de sa mission
 
-**4. ORDONNER** la remise des enregistrements du systeme de videoprotection couvrant la periode du 29 mai 2026 a la date du constat
+**4. ORDONNER** la remise des enregistrements du systeme de videoprotection couvrant la periode du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) a la date du constat
 
 **5. DIRE** que les frais de constat seront mis a la charge du requerant dans un premier temps, pour etre repartis lors de l'instance au fond
 
 Fait pour valoir ce que de droit.
 
-Sébastien GRAZIDE
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
 ## Sources Législation

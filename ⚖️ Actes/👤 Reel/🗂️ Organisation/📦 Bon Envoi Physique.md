@@ -1,6 +1,6 @@
 ---
 title: "Bon d'Envoi Physique — Lot Juillet 2026"
-description: "| # | Document | Fichier reel/ | Exemplaires |"
+description: "Bon d'envoi physique — documents à imprimer et envoyer"
 type: readme
 date: 2026-07-06
 tags:
@@ -42,14 +42,17 @@ jx: J+38
 
 ## III — PIÈCES JUSTIFICATIVES À JOINDRE (6 PIÈCES)
 
-| Pièce | Description | Source |
-|-------|-------------|--------|
-| **1** | Preuve de paiement Wero 15,00 € (29 mai 2026) | Impression relevé bancaire |
-| **2** | [Certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) Dr [Médecin Généraliste] (29 mai 2026) | Scan/copie |
-| **3** | [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) Dr [Chirurgien SOS Main] (30 mai 2026) | Scan/copie |
-| **4** | Certificats d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT 56 jours) | Scan/copie |
-| **5** | Copie du PV de plainte pénale (Police Nationale) | Copie |
-| **6** | LRAR mises en demeure (29 mai 2026) + AR | Copies |
+- **Pièce n°1 :** Preuve de paiement Wero 15,00 € (29 mai 2026) — Impression relevé bancaire
+
+- **Pièce n°2 :** [Certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) Dr [Médecin Généraliste] (29 mai 2026) — Scan/copie
+
+- **Pièce n°3 :** [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) Dr [Chirurgien SOS Main] (30 mai 2026) — Scan/copie
+
+- **Pièce n°4 :** Certificats d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT 56 jours) — Scan/copie
+
+- **Pièce n°5 :** Copie du PV de plainte pénale (Police Nationale) — Copie
+
+- **Pièce n°6 :** LRAR mises en demeure (29 mai 2026) + AR — Copies
 <hr><hr>
 
 ## III — INSTRUCTIONS

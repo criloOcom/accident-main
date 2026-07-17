@@ -63,7 +63,7 @@ Etat actuel et demande
 
 A ce jour, [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) suit toujours sa kinesitherapie de facon assidue.
 
-L'arret de travail total (ITT) initialement prescrit par Dr Oxybel court jusqu'au [23 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md) (56 jours).
+L'arret de travail total (ITT) initialement prescrit par [Dr Oxybel](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-medecin-generaliste.md) court jusqu'au [23 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md) (56 jours).
 
 La sensibilite de l'index droit reste partiellement alteree, la flexion active est limitee, et la douleur neuropathique persiste.
 

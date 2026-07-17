@@ -20,7 +20,7 @@ jx: J+39
 <hr>
 <!-- /Breadcrumb -->
 
-# INDEX DU DOSSIER [**[LA VICTIME]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+# INDEX DU DOSSIER [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 > 🔗 Source Google Drive : [1Zp-JK9kz0V0…](https://drive.google.com/open?id=1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU)
 Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) — Mis à jour le [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-mise-a-jour.md) (unification bordereau 43 pièces)
 ## I — INTRODUCTION
@@ -263,7 +263,7 @@ Documents non indexés conservés dans `archives/` :
 > Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
 <hr><hr>
 
-## XII — STATISTIQUES DU DOSSIER (MÀJ **[J+38 MISE À JOUR]**)
+## XII — STATISTIQUES DU DOSSIER (MÀJ [**[J+38 Mise à jour]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-mise-a-jour.md))
 
 - Actes procéduraux : **7** (Assignation 01, Plainte 02, Constitution PC 02b, Assignation 145 03, Bordereau unifié 04, Conclusions 05, Constat Huissier 06)
 

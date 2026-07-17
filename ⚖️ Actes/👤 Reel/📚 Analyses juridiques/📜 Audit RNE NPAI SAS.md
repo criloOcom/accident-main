@@ -38,7 +38,7 @@ jx: J+42
 | Président | [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) |
 | DG | [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) |
 | Salariés | 0 (zéro) |
-| Établissements | 1 (unique au 22 Rue Lafaurie, 09000 Foix) |
+| Établissements | 1 (unique au [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)) |
 | Comptes | **En défaut de publication** |
 | Dissolution/Liquidation | **Aucune procédure en cours** |
 
@@ -64,7 +64,7 @@ Dans un local commercial fermé, les LRAR ne trouvent pas preneur.
 
 ### II.3 — Investigation structure miroir
 
-**Résultat : AUCUNE nouvelle entité légale trouvée au 22 Rue Lafaurie, 09000 Foix, Foix.** Les recherches n'ont identifié que [L'Exploitant du Commerce (La SAS)] à cette adresse.
+**Résultat : AUCUNE nouvelle entité légale trouvée au [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), Foix.** Les recherches n'ont identifié que [L'Exploitant du Commerce (La SAS)] à cette adresse.
 
 La rumeur de "réouverture avec nouveaux gérants" peut correspondre à :
 

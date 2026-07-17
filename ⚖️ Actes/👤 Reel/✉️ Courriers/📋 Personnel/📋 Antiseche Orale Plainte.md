@@ -229,7 +229,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 
 ### V.4 — **Si l'OPJ te reçoit en audition — amorce**
 
-> *« Bonjour Madame/Monsieur l'officier. Je suis [Mon nom], victime d'un accident grave le 29 mai au salon SAS LES MAUVAIS GARCONS. J'ai déjà un PV (2026/015967). Je viens pour une plainte complémentaire, parce que depuis, la société refuse de communiquer son assurance et ne répond à aucun courrier. Et surtout, les vidéos de surveillance risquent d'être écrasées d'un jour à l'autre si rien n'est fait. »* <br>
+> *« Bonjour Madame/Monsieur l'officier. Je suis [Mon nom], victime d'un accident grave le 29 mai au salon [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). J'ai déjà un PV (2026/015967). Je viens pour une plainte complémentaire, parce que depuis, la société refuse de communiquer son assurance et ne répond à aucun courrier. Et surtout, les vidéos de surveillance risquent d'être écrasées d'un jour à l'autre si rien n'est fait. »* <br>
 <hr><hr>
 
 ## VI — ⚖️ **FONDEMENTS JURIDIQUES**

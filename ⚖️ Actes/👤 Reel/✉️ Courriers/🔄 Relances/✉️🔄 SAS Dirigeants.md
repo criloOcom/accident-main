@@ -33,7 +33,7 @@ jx: J+40
 [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
 [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
 
-[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 8 juillet 2026
+[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [8 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-date-relance-v2.md)
 
 Objet : Relance — Demande d'information assurance RC et communication d'une adresse de correspondance — Accident [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)
 
@@ -57,7 +57,7 @@ Je conçois que la fermeture soudaine et la réorganisation de votre établissem
 
 ### I.1 — Préservation des preuves et vidéosurveillance
 
-J'ai constaté que votre salon de coiffure a fermé ses portes immédiatement après l'accident du [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) pour ne rouvrir que le 6 juillet 2026. 
+J'ai constaté que votre salon de coiffure a fermé ses portes immédiatement après l'accident du [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) pour ne rouvrir que le [6 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-date-reouverture.md). 
 
 L'absence de réponse à ma mise en demeure initiale ayant dépassé le délai légal de 30 jours, l'inertie de votre société a potentiellement déjà causé l'effacement ou la destruction irrémédiable des bandes de vidéosurveillance (dont la durée de sauvegarde est limitée par la CNIL et l'article L. 252-5 du Code de la sécurité intérieure).
 

@@ -25,7 +25,7 @@ jx: J+47
 > **Quand utiliser :** Formulaire en ligne CADA (https://www.cada.fr/) — copier-coller les blocs ci-dessous dans les champs correspondants.
 ## I — Champ « Objet de votre demande / Description »
 
-> Victime d'un accident corporel grave le 29 mai 2026 dans le salon de coiffure *« SAS LES MAUVAIS GARCONS »* (22 Rue Lafaurie, 09000 Foix), je sollicite l'avis de la CADA sur la communicabilité, à mon égard, des documents détenus par la Préfecture de l'Ariège et/ou la DDETS (Inspection du travail) concernant ce dossier. <br>
+> Victime d'un accident corporel grave le 29 mai 2026 dans le salon de coiffure *« [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) »* ([22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)), je sollicite l'avis de la CADA sur la communicabilité, à mon égard, des documents détenus par la Préfecture de l'Ariège et/ou la DDETS (Inspection du travail) concernant ce dossier. <br>
 <hr><hr>
 
 ## II — Champ « Précisions sur les documents demandés »
@@ -49,6 +49,6 @@ jx: J+47
 
 3. Copier-coller les blocs ci-dessus dans les champs correspondants
 
-4. Joindre les pièces : courriers n°41, n°42, réponses reçues (si refus exprès), email Monsieur TAVELLA, PV police
+4. Joindre les pièces : courriers n°41, n°42, réponses reçues (si refus exprès), email [Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), PV police
 
 5. Valider et conserver le numéro de dossier

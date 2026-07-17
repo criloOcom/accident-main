@@ -47,10 +47,10 @@ source: drive
 - [6. RÉCAPITULATIF DES PIÈCES](#6-rcapitulatif-des-pices)
 
 # STRATEGIE CONTENTIEUX CIVIL
-Rédigé le **[J+36 Lettre consolidation]**
+Rédigé le [**[J+36 Lettre consolidation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-36-lettre-consolidation.md)
 ## I — PRÉSENTATION
 
-Le 29 mai 2026, Sébastien GRAZIDE a subi un accident corporel grave dans le salon de coiffure exploité par SAS LES MAUVAIS GARCONS (SAS LES MAUVAIS GARCONS, SIRET 938 033 222 00010), situé 22 Rue Lafaurie, 09000 Foix. Alors que l'employé Ayoub BENNOURINE était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, Sébastien GRAZIDE a tendu la main droite pour protéger Ayoub BENNOURINE ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une microchirurgie SOS Main en urgence.
+Le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a subi un accident corporel grave dans le salon de coiffure exploité par [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ([SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), SIRET [938 033 222 00010](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siret.md)), situé [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md). Alors que l'employé [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a tendu la main droite pour protéger [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une microchirurgie SOS Main en urgence.
 
 Le contentieux civil a pour objet d'obtenir la réparation intégrale des préjudices subis, estimés à 59 600 € selon la nomenclature Dintilhac. Il se déploie sur plusieurs fondements juridiques complémentaires incluant, en cas de défaillance de l'auteur, la voie indemnitaire du Fonds de Garantie des Victimes d'Infractions (FGTI).
 <hr><hr>
@@ -58,7 +58,7 @@ Le contentieux civil a pour objet d'obtenir la réparation intégrale des préju
 ## II — FONDEMENTS JURIDIQUES
 ### 2.1 RESPONSABILITÉ DU COMMETTANT
 
-SAS LES MAUVAIS GARCONS est civilement responsable des dommages causés par ses préposés dans l'exercice de leurs fonctions. L'accident est survenu pendant une prestation de coupe de cheveux réalisée par un employé de la société dans l'enceinte de l'établissement.
+[SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) est civilement responsable des dommages causés par ses préposés dans l'exercice de leurs fonctions. L'accident est survenu pendant une prestation de coupe de cheveux réalisée par un employé de la société dans l'enceinte de l'établissement.
 
 La responsabilité de la SAS est engagée de plein droit en application de [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^1], alinéa 5 (responsabilité du commettant du fait de son préposé).
 
@@ -80,11 +80,11 @@ L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes
 > [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) <br>
 > **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463[^3]**
 
-La mise en demeure de l'assureur a été adressée le 29 juin 2026, enjoignant à la compagnie de prendre en charge le sinistre et de procéder au règlement des préjudices sous 15 jours.
+La mise en demeure de l'assureur a été adressée le [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md), enjoignant à la compagnie de prendre en charge le sinistre et de procéder au règlement des préjudices sous 15 jours.
 
 ### 2.3 SURVIE DE LA PERSONNALITÉ MORALE
 
-Conformément à [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186)[^4], si SAS LES MAUVAIS GARCONS venait à être dissoute ou radiée, la personnalité morale de la société survit pour les besoins de la liquidation jusqu'à la clôture de celle-ci. Ce mécanisme garantit que la société puisse encore être attraite en justice et que ses dettes soient apurées, incluant l'indemnisation due à Sébastien GRAZIDE.
+Conformément à [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186)[^4], si [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) venait à être dissoute ou radiée, la personnalité morale de la société survit pour les besoins de la liquidation jusqu'à la clôture de celle-ci. Ce mécanisme garantit que la société puisse encore être attraite en justice et que ses dettes soient apurées, incluant l'indemnisation due à [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md).
 
 > *« La dissolution de la société entraîne sa liquidation, hormis les cas prévus à l'article 1844-4 et au troisième alinéa de l'article 1844-5 . Elle n'a d'effet à l'égard des tiers qu'après sa publication. Le liquidateur est nommé conformément aux dispositions des statuts. Dans le silence de ceux-ci, il est nommé par les associés ou, si les associés n'ont pu procéder à cette nomination, par décision de justice. Le liquidateur peut être révoqué dans les mêmes conditions. La nomination et la révocation ne sont opposables aux tiers qu'à compter de leur publication. Ni la société ni les tiers ne peuvent, pour se soustraire à leurs engagements, se prévaloir d'une irrégularité dans la nomination ou dans la révocation du liquidateur, dès lors que celle-ci a été régulièrement publiée. La personnalité morale de la société subsiste pour les besoins de la liquidation jusqu'à la publication de la clôture de celle-ci. Si la clôture de la liquidation n'est pas intervenue dans un délai de trois ans à compter de la dissolution, le ministère public ou tout intéressé peut saisir le tribunal, qui fait procéder à la liquidation ou, si celle-ci a été commencée, à son achèvement. »* <br>
 > [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186) <br>
@@ -94,7 +94,7 @@ Conformément à [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/c
 
 ### 2.4 RESPONSABILITÉ POUR FAUTE
 
-À titre subsidiaire, la responsabilité pour faute de SAS LES MAUVAIS GARCONS est engagée sur le fondement de [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^5] pour défaut d'entretien de son équipement et manquement à son obligation de sécurité. Le principe de réparation intégrale impose que la victime soit replacée dans la situation où elle se serait trouvée si l'accident n'avait pas eu lieu.
+À titre subsidiaire, la responsabilité pour faute de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) est engagée sur le fondement de [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^5] pour défaut d'entretien de son équipement et manquement à son obligation de sécurité. Le principe de réparation intégrale impose que la victime soit replacée dans la situation où elle se serait trouvée si l'accident n'avait pas eu lieu.
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
@@ -106,7 +106,7 @@ Conformément à [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/c
 ## III — VOIES DE PROCÉDURE ENGAGÉES
 ### 3.1 RÉFÉRÉ-PROVISION
 
-Une assignation en [référé-provision](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)[^6] (article 835 du Code de procédure civile) a été rédigée le 30 juin 2026 pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive.
+Une assignation en [référé-provision](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)[^6] (article 835 du Code de procédure civile) a été rédigée le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) pour solliciter une provision de 5 000 € à valoir sur l'indemnisation définitive.
 
 > *« Le président du tribunal judiciaire ou le juge des contentieux de la protection dans les limites de sa compétence peuvent toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 > [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
@@ -114,7 +114,7 @@ Une assignation en [référé-provision](https://www.legifrance.gouv.fr/codes/ar
 
 > *« Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 
-Le [référé-provision](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)[^6] permet d'obtenir une avance rapide lorsque l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de SAS LES MAUVAIS GARCONS est manifeste : un équipement instable présentant une cassure préexistante non signalée a causé un accident sur son lieu d'exploitation, par l'intermédiaire de son préposé, ce qui constitue une obligation non contestable.
+Le [référé-provision](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)[^6] permet d'obtenir une avance rapide lorsque l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) est manifeste : un équipement instable présentant une cassure préexistante non signalée a causé un accident sur son lieu d'exploitation, par l'intermédiaire de son préposé, ce qui constitue une obligation non contestable.
 
 La demande inclut également la désignation d'un expert médical judiciaire sur le fondement de [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^7].
 
@@ -126,11 +126,11 @@ La demande inclut également la désignation d'un expert médical judiciaire sur
 
 ### 3.2 RÉFÉRÉ-COMMUNICATION DE PIÈCES
 
-En parallèle, une procédure de référé-communication peut être engagée pour obtenir la communication forcée de la police d'assurance responsabilité civile de SAS LES MAUVAIS GARCONS sous astreinte. Cette mesure conservatoire est essentielle pour permettre l'identification et la mise en cause de l'assureur dans le cadre de l'action directe.
+En parallèle, une procédure de référé-communication peut être engagée pour obtenir la communication forcée de la police d'assurance responsabilité civile de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sous astreinte. Cette mesure conservatoire est essentielle pour permettre l'identification et la mise en cause de l'assureur dans le cadre de l'action directe.
 
 ### 3.3 VOIE CIVI / FGTI (SUBSIDIAIRE)
 
-Si l'absence d'assurance de SAS LES MAUVAIS GARCONS est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^2] ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418[^8]734) sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI00004[^9]8442345).
+Si l'absence d'assurance de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^2] ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418[^8]734) sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI00004[^9]8442345).
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^9]** <br>
@@ -151,25 +151,25 @@ Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels rés
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 
-**Procédure :** La victime saisit la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de Foix, qui statue sur le droit à indemnisation et fixe le montant.
+**Procédure :** La victime saisit la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), qui statue sur le droit à indemnisation et fixe le montant.
 
 **Délai CIVI = 3 ans ([Article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)[^11]) :**
 
 > *« A peine de forclusion, la demande d'indemnité doit être présentée dans le délai de trois ans à compter de la date de l'infraction. Lorsque des poursuites pénales sont exercées, ce délai est prorogé et n'expire qu'un an après la décision de la juridiction qui a statué définitivement sur l'action publique ou sur l'action civile engagée devant la juridiction répressive. Toutefois, la commission relève le requérant de la forclusion lorsque l'information prévue à l'article 706-15 n'a pas été donnée, lorsque le requérant n'a pas été en mesure de faire valoir ses droits dans les délais requis ou lorsqu'il a subi une aggravation de son préjudice ou pour tout autre motif légitime. Lorsque l'infraction est commise à l'encontre d'un mineur, le délai de forclusion ne court qu'à compter de la majorité de ce dernier. Lorsqu'une décision d'une juridiction répressive a alloué des dommages et intérêts à la victime et que la demande est jugée irrecevable, le délai prévu au deuxième alinéa de l'article 706-15-2 ne court qu'à compter de la notification de la décision de la commission. »* <br>
 > [Article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334) <br>
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^12]**
-- La victime dispose de **3 ans** à compter de la date de l'infraction (29 mai 2026 → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
+- La victime dispose de **3 ans** à compter de la date de l'infraction ([29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
 
 - Si une décision pénale définitive intervient, ce délai est ramené à **1 an** à compter de cette décision.
 
-- En l'état de l'enquête préliminaire en cours, la date de référence est celle de l'infraction (29 mai 2026).
+- En l'état de l'enquête préliminaire en cours, la date de référence est celle de l'infraction ([29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)).
 
 Cette voie est subsidiaire : elle ne se substitue pas à l'action directe contre l'assureur, mais la sécurise en cas d'insolvabilité de l'auteur.
 <hr><hr>
 
 ## IV — ÉVALUATION DES PRÉJUDICES
 
-L'évaluation des préjudices subis par Sébastien GRAZIDE, informaticien indépendant (SIREN 500 474 457, chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :
+L'évaluation des préjudices subis par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), informaticien indépendant (SIREN [500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md), chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :
 
 | Poste de préjudice | Montant |
 |--------------------|---------|
@@ -210,40 +210,40 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 ## VI — RÉCAPITULATIF DES PIÈCES
 
 Pièces médicales :
-- 29 mai 2026 — Dr Julie JARDON — Premiers soins urgence
+- [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — [Dr Julie JARDON](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) — Premiers soins urgence
 
-- 30 mai 2026 — Dr Iskander DJERBI — CR opératoire
+- [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) — [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) — CR opératoire
 
-- 30 mai 2026 — Dr Iskander DJERBI — Ordonnance de sortie
+- [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) — [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) — Ordonnance de sortie
 
-- 10 juin 2026 — Dr Iskander DJERBI — Facture chirurgie 790,23 €
+- [10 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md) — [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) — Facture chirurgie 790,23 €
 
-- 19 juin 2026 — Dr Iskander DJERBI — CR contrôle J+20
+- [19 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-21-controle-chirurgical.md) — [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) — CR contrôle J+20
 
-- 30 juin 2026 — Dr Julie JARDON — Consultation urgence J+32
+- [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) — [Dr Julie JARDON](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) — Consultation urgence J+32
 
-- 1 juillet 2026 — Dr Oxybel — Consultation générale J+33
+- [1 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-33-plainte-complementaire.md) — [Dr Oxybel](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-medecin-generaliste.md) — Consultation générale J+33
 
-- 8 juillet 2026 — Dr Iskander DJERBI — CR de reprise J+39
+- [8 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-40-consultation-suivi.md) — [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) — CR de reprise J+39
 
 Pièces financières :
-- 29 mai 2026 — Wero — Preuve de paiement / remboursement
+- [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — Wero — Preuve de paiement / remboursement
 
 Pièces administratives :
-- 3 juin 2026 — CPAM Haute-Garonne — Dossier RCT 31727387
+- [3 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-5-ouverture-cpam.md) — CPAM Haute-Garonne — Dossier RCT [31727387](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md)
 
-- 1 juin 2026 — INSEE — Avis de situation SAS
+- [1 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md) — INSEE — Avis de situation SAS
 
-- 1 juin 2026 — INPI — Fiche identité SAS
+- [1 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md) — INPI — Fiche identité SAS
 
 - 04/06/2026 — URSSAF Midi-Pyrénées — Attestations de vigilance
 
 Pièces de procédure :
-- 29 juin 2026 — Mise en demeure SAS LES MAUVAIS GARCONS
+- [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
-- 29 juin 2026 — Mise en demeure Sabir MOUNTASSER
+- [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)
 
-- 29 juin 2026 — Mise en demeure Catherine ANDISSAC
+- [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
 <hr><hr>
 
 ## Sources Législation

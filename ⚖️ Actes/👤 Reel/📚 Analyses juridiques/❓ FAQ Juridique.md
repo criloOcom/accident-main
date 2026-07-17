@@ -20,7 +20,7 @@ jx: J+32
 <hr>
 <!-- /Breadcrumb -->
 
-# SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE [**[LA VICTIME]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) C/ [**[L'EXPLOITANT DU COMMERCE (LA SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
+# SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) C/ [**[L'EXPLOITANT DU COMMERCE (LA SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 > 🔗 Source Google Drive : [1eoOJ-bcHBNn…](https://drive.google.com/open?id=1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM)
 Rédigé par : [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 
