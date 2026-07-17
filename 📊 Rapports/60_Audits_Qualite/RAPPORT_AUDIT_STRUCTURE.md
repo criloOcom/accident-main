@@ -92,9 +92,9 @@ type: rapport
 ### II.2 — ⚖️ Actes proceduraux
 | 🔑 Token | 👤 Reel | Statut |
 |----------|---------|--------|
-| `01 ⚖️ Assignation.md` | ✅ Présent | OK |
+| `⚖️ Assignation Refere Provision.md` | ✅ Présent | OK |
 | `02 🚔 Plainte.md` | ✅ Présent | OK |
-| `02b 🛡️ Constitution Partie Civile.md` | ✅ Présent | OK |
+| `🛡️ Constitution Partie Civile.md` | ✅ Présent | OK |
 | `03 🔍 Assignation Article 145.md` | ✅ Présent | OK |
 | `04 📑 Bordereau.md` | ✅ Présent | OK |
 | `05 🎯 Conclusions Refere.md` | ✅ Présent | OK |

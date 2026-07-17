@@ -73,7 +73,7 @@ Dans notre cas, cet article permet au maire de Foix :
 
 Cet article est cité dans :
 - **Document 29 ✉️ Courrier Maire Foix.md** : Demande d'intervention pour contrôle ERP
-- **Document 34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md** : Demande de contrôle de sécurité
+- **Document ✉️🚨 Prefecture.md** : Demande de contrôle de sécurité
 
 ---
 

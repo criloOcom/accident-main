@@ -24,11 +24,11 @@ Mode: EXÉCUTION
 Date: 2026-07-12 14:37
 
 ── Fichiers Token à renommer : 69 ──
-  ✓  ⚖️ Actes proceduraux/01 ⚖️ Assignation.md
+  ✓  ⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md
   ✓  ⚖️ Actes proceduraux/02 🚔 Plainte.md
        → ⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md
-  ✓  ⚖️ Actes proceduraux/02b 🛡️ Constitution Partie Civile.md
+  ✓  ⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md
        → ⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md
   ✓  ⚖️ Actes proceduraux/03 🔍 Assignation Article 145.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/🔍 Requete Article 145 CPC.md
@@ -44,8 +44,8 @@ Date: 2026-07-12 14:37
        → ⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md
   ✓  ✉️ Courriers/03 ✉️ Courrier SAS.md
        → ✉️ Courriers/✉️📜 SAS.md
-  ✓  ✉️ Courriers/04 ✉️ Courrier Assureur.md
-       → ✉️ Courriers/✉️📜 SAS Assureur.md
+  ✓  ✉️ Courriers/✉️📜 SAS Assureur RC.md
+       → ✉️ Courriers/✉️📜 SAS Assureur RC.md
   ✓  ✉️ Courriers/05 ✉️ Courrier Proprietaire.md
        → ✉️ Courriers/✉️📜 Proprietaire.md
   ✓  ✉️ Courriers/06 V2 ✉️🔄 SAS Dirigeants.md
@@ -96,13 +96,13 @@ Date: 2026-07-12 14:37
        → ✉️ Courriers/✉️📜 Maire Foix.md
   ✓  ✉️ Courriers/30 ✉️ Courrier President TC.md
        → ✉️ Courriers/✉️⚖️ TC Opposition Radiation.md
-  ✓  ✉️ Courriers/31 ✉️ Courrier INPI Opposition.md
+  ✓  ✉️ Courriers/✉️🚨 INPI.md
        → ✉️ Courriers/✉️⚖️ INPI Opposition Immatriculation.md
-  ✓  ✉️ Courriers/32 ✉️ Courrier SIE URSSAF Mutualisation.md
+  ✓  ✉️ Courriers/✉️🚨 SIE.md
        → ✉️ Courriers/✉️📝 SIE URSSAF Mutualisation.md
   ✓  ✉️ Courriers/33 🗄️ Requete Constat Huissier 145 CPC.md
        → ✉️ Courriers/🗄️ Requete Constat Huissier.md
-  ✓  ✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md
+  ✓  ✉️ Courriers/✉️🚨 Prefecture.md
        → ✉️ Courriers/✉️📝 Mairie Tavella ERP.md
   ✓  ✉️ Courriers/35 ✉️ Courrier President TJ Foix.md
        → ✉️ Courriers/✉️⚖️ TJ Foix Preuves Complementaires.md
@@ -122,11 +122,11 @@ Date: 2026-07-12 14:37
        → ✉️ Courriers/✉️📝 CADA Saisine Modele.md
   ✓  ✉️ Courriers/44 ✉️ Saisine CADA Version Courte.md
        → ✉️ Courriers/✉️📝 CADA Saisine Formulaire.md
-  ✓  💰 Etudes indemnisation/11+12 📊 Evaluation Dintilhac consolidee.md
+  ✓  💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md
        → 💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md
   ✓  💰 Etudes indemnisation/13 Note strategique FGTI CIVI.md
        → 💰 Etudes indemnisation/📊 Note Strategique FGTI CIVI.md
-  ✓  📂 Preuves officielles/01 📁 Dossier UMJ Preparation.md
+  ✓  📂 Preuves officielles/📁 Preparation Expertise UMJ.md
        → 📂 Preuves officielles/📁 Preparation Expertise UMJ.md
   ✓  📚 Analyses juridiques/07 🎤 Plaidoirie dirigeants.md
        → 📚 Analyses juridiques/🎤 Plaidoirie Responsabilite Dirigeants.md
@@ -134,7 +134,7 @@ Date: 2026-07-12 14:37
        → 📚 Analyses juridiques/❓ FAQ Juridique.md
   ✓  📚 Analyses juridiques/12 📁 Dossier Plaidoirie.md
        → 📚 Analyses juridiques/📁 Dossier Plaidoirie Refere.md
-  ✓  📚 Analyses juridiques/13 📜 Responsabilites legales.md
+  ✓  📚 Analyses juridiques/📜 Analyse Responsabilites Legales.md
        → 📚 Analyses juridiques/📜 Analyse Responsabilites Legales.md
   ✓  📚 Analyses juridiques/15 Note Droit Assurances.md
        → 📚 Analyses juridiques/📜 Note Droit Assurances.md
@@ -146,7 +146,7 @@ Date: 2026-07-12 14:37
        → 📚 Analyses juridiques/🛡️ Tableau Defense Reponse.md
   ✓  📚 Analyses juridiques/21 🛡️ Memo Strategie Administrative Penale.md
        → 📚 Analyses juridiques/🛡️ Memo Strategie Admin Penal.md
-  ✓  🗂️ Organisation/00 📇 Index.md
+  ✓  🗂️ Organisation/📇 Index General.md
        → 🗂️ Organisation/📇 Index General.md
   ✓  🗂️ Organisation/05 📋 Dossier Special CERFA.md
        → 🗂️ Organisation/📋 Dossier Special CERFA.md
@@ -164,18 +164,18 @@ Date: 2026-07-12 14:37
        → 🗂️ Organisation/✅ Checklist Envoi 11-07.md
 
 ── Fichiers Reel à renommer : 71 ──
-  ✓  ⚖️ Actes proceduraux/01 ⚖️ Assignation.md
+  ✓  ⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md
   ✓  ⚖️ Actes proceduraux/02 🚔 Plainte.md
        → ⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md
-  ✓  ⚖️ Actes proceduraux/02b 🛡️ Constitution Partie Civile.md
+  ✓  ⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md
        → ⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md
   ✓  ⚖️ Actes proceduraux/03 🔍 Assignation Article 145.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/🔍 Requete Article 145 CPC.md
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau Audience.md
-       → ⚖️ Actes proceduraux/J+38 📑 Bordereau Audience.md
+       → ⚖️ Actes proceduraux/📑 Bordereau Unifie.md
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau de pieces.md
-       → ⚖️ Actes proceduraux/J+47 📑 Bordereau de pieces.md
+       → ⚖️ Actes proceduraux/📑 Bordereau Unifie.md
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/📑 Bordereau Unifie.md
   ✓  ⚖️ Actes proceduraux/05 🎯 Conclusions Refere.md
@@ -188,8 +188,8 @@ Date: 2026-07-12 14:37
        → ⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md
   ✓  ✉️ Courriers/03 ✉️ Courrier SAS.md
        → ✉️ Courriers/✉️📜 SAS.md
-  ✓  ✉️ Courriers/04 ✉️ Courrier Assureur.md
-       → ✉️ Courriers/✉️📜 SAS Assureur.md
+  ✓  ✉️ Courriers/✉️📜 SAS Assureur RC.md
+       → ✉️ Courriers/✉️📜 SAS Assureur RC.md
   ✓  ✉️ Courriers/05 ✉️ Courrier Proprietaire.md
        → ✉️ Courriers/✉️📜 Proprietaire.md
   ✓  ✉️ Courriers/06 V2 ✉️🔄 SAS Dirigeants.md
@@ -240,13 +240,13 @@ Date: 2026-07-12 14:37
        → ✉️ Courriers/✉️📜 Maire Foix.md
   ✓  ✉️ Courriers/30 ✉️ Courrier President TC.md
        → ✉️ Courriers/✉️⚖️ TC Opposition Radiation.md
-  ✓  ✉️ Courriers/31 ✉️ Courrier INPI Opposition.md
+  ✓  ✉️ Courriers/✉️🚨 INPI.md
        → ✉️ Courriers/✉️⚖️ INPI Opposition Immatriculation.md
-  ✓  ✉️ Courriers/32 ✉️ Courrier SIE URSSAF Mutualisation.md
+  ✓  ✉️ Courriers/✉️🚨 SIE.md
        → ✉️ Courriers/✉️📝 SIE URSSAF Mutualisation.md
   ✓  ✉️ Courriers/33 🗄️ Requete Constat Huissier 145 CPC.md
        → ✉️ Courriers/🗄️ Requete Constat Huissier.md
-  ✓  ✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md
+  ✓  ✉️ Courriers/✉️🚨 Prefecture.md
        → ✉️ Courriers/✉️📝 Mairie Tavella ERP.md
   ✓  ✉️ Courriers/35 ✉️ Courrier President TJ Foix.md
        → ✉️ Courriers/✉️⚖️ TJ Foix Preuves Complementaires.md
@@ -266,11 +266,11 @@ Date: 2026-07-12 14:37
        → ✉️ Courriers/✉️📝 CADA Saisine Modele.md
   ✓  ✉️ Courriers/44 ✉️ Saisine CADA Version Courte.md
        → ✉️ Courriers/✉️📝 CADA Saisine Formulaire.md
-  ✓  💰 Etudes indemnisation/11+12 📊 Evaluation Dintilhac consolidee.md
+  ✓  💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md
        → 💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md
   ✓  💰 Etudes indemnisation/13 Note strategique FGTI CIVI.md
        → 💰 Etudes indemnisation/📊 Note Strategique FGTI CIVI.md
-  ✓  📂 Preuves officielles/01 📁 Dossier UMJ Preparation.md
+  ✓  📂 Preuves officielles/📁 Preparation Expertise UMJ.md
        → 📂 Preuves officielles/📁 Preparation Expertise UMJ.md
   ✓  📚 Analyses juridiques/07 🎤 Plaidoirie dirigeants.md
        → 📚 Analyses juridiques/🎤 Plaidoirie Responsabilite Dirigeants.md
@@ -278,7 +278,7 @@ Date: 2026-07-12 14:37
        → 📚 Analyses juridiques/❓ FAQ Juridique.md
   ✓  📚 Analyses juridiques/12 📁 Dossier Plaidoirie.md
        → 📚 Analyses juridiques/📁 Dossier Plaidoirie Refere.md
-  ✓  📚 Analyses juridiques/13 📜 Responsabilites legales.md
+  ✓  📚 Analyses juridiques/📜 Analyse Responsabilites Legales.md
        → 📚 Analyses juridiques/📜 Analyse Responsabilites Legales.md
   ✓  📚 Analyses juridiques/15 Note Droit Assurances.md
        → 📚 Analyses juridiques/📜 Note Droit Assurances.md
@@ -290,7 +290,7 @@ Date: 2026-07-12 14:37
        → 📚 Analyses juridiques/🛡️ Tableau Defense Reponse.md
   ✓  📚 Analyses juridiques/21 🛡️ Memo Strategie Administrative Penale.md
        → 📚 Analyses juridiques/🛡️ Memo Strategie Admin Penal.md
-  ✓  🗂️ Organisation/00 📇 Index.md
+  ✓  🗂️ Organisation/📇 Index General.md
        → 🗂️ Organisation/📇 Index General.md
   ✓  🗂️ Organisation/05 📋 Dossier Special CERFA.md
        → 🗂️ Organisation/📋 Dossier Special CERFA.md
@@ -310,7 +310,7 @@ Date: 2026-07-12 14:37
 ── Fichiers exclus (brouillons / 99) ──
   ⊘ ⚖️ Actes proceduraux/👮 Contentieux penal/16 ⚠️ Signalement Parquet Fraud.md
   ⊘ ⚖️ Actes proceduraux/📜 Contentieux civil/17 ⚖️ Requete Mandataire Ad Hoc.md
-  ⊘ 📂 Preuves officielles/01 📁 Dossier UMJ Preparation.md
+  ⊘ 📂 Preuves officielles/📁 Preparation Expertise UMJ.md
   ⊘ 📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md
   ⊘ 🗂️ Organisation/06 📋 Synthese des Actions et Audits.md
   ⊘ 🗂️ Organisation/21 📋 Plan Constat Police Foix.md
@@ -321,9 +321,9 @@ Date: 2026-07-12 14:37
   📄 ⚖️ Actes/🔑 Token/🗄️ Archives/33 🗄️ Requete Constat Huissier 145 CPC.md
        [breadcrumb] › 33 🗄️ Requete Constat Huissier 145 CPC (breadcrumb)
   📄 📊 Rapports/PLAN_CORRECTION_HERMES_20260711.md
-       [parenthesized_url] 01 ⚖️ Assignation.md → ⚖️ Assignation Refere Provision.md (1x)
+       [parenthesized_url] ⚖️ Assignation Refere Provision.md → ⚖️ Assignation Refere Provision.md (1x)
   📄 📊 Rapports/RAPPORT_AUDIT_COMPLET_20260711.md
-       [parenthesized_url] 01 ⚖️ Assignation.md → ⚖️ Assignation Refere Provision.md (1x)
+       [parenthesized_url] ⚖️ Assignation Refere Provision.md → ⚖️ Assignation Refere Provision.md (1x)
   📄 📊 Rapports/RAPPORT_AUDIT_HERMES_20260711.md
        [parenthesized_url] 05 📋 Dossier Special CERFA.md → 📋 Dossier Special CERFA.md (1x)
   📄 📊 Rapports/RAPPORT_AUDIT_REDACTION.md
@@ -333,10 +333,10 @@ Date: 2026-07-12 14:37
        [parenthesized_url] 14 ✉️ Courrier CODAF.md → ✉️🚨 CODAF.md (1x)
        [parenthesized_url] 19 ✉️ Courrier FGTI.md → ✉️⚖️ FGTI Saisine.md (1x)
        [parenthesized_url] 33 🗄️ Requete Constat Huissier 145 CPC.md → 🗄️ Requete Constat Huissier.md (1x)
-       [parenthesized_url] 34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md → ✉️📝 Mairie Tavella ERP.md (1x)
+       [parenthesized_url] ✉️🚨 Prefecture.md → ✉️📝 Mairie Tavella ERP.md (1x)
        [parenthesized_url] 35 ✉️ Courrier President TJ Foix.md → ✉️⚖️ TJ Foix Preuves Complementaires.md (1x)
        [parenthesized_url] 07 🎤 Plaidoirie dirigeants.md → 🎤 Plaidoirie Responsabilite Dirigeants.md (1x)
-       [parenthesized_url] 13 📜 Responsabilites legales.md → 📜 Analyse Responsabilites Legales.md (1x)
+       [parenthesized_url] 📜 Analyse Responsabilites Legales.md → 📜 Analyse Responsabilites Legales.md (1x)
   📄 📊 Rapports/RAPPORT_MIGRATION_JX_20260712_143516.md
        [breadcrumb] › 01 📁 Dossier UMJ Preparation (breadcrumb)
        [breadcrumb] › 01 ⚖️ Assignation (breadcrumb)

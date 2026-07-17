@@ -16,15 +16,15 @@ auteur: La Victime
 
 **Juridiction :** Président du Tribunal judiciaire de Foix (statuant en référé)<br>
 **Fondement juridique :** Article 835 alinéa 2 du Code de procédure civile<br>
-**Pour :** M. [La Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-nom-complet.md) (Demandeur)<br>
-**Contre :** La société [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-nom.md) & son assureur [Assureur RC Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-assureur-rc.md) (Défendeurs)
+**Pour :** M. [La Victime](../../../../🧠%20Memory/🗂️%20Tokens/token-victime-nom-complet.md) (Demandeur)<br>
+**Contre :** La société [L'Exploitant](../../../../🧠%20Memory/🗂️%20Tokens/token-exploitation-raison-sociale.md) & son assureur [Assureur RC Exploitant](../../../../🧠%20Memory/STRICT%20VARIABLES.md) (Défendeurs)
 
 <hr><hr>
 
 ### I.1 — RAPPEL TRÈS BREF DES FAITS & DE LA GRAVITÉ DU DOMMAGE
 
-* **Date de l'accident :** [Date de l'Accident](../../../🧠%20Memory/STRICT%20VARIABLES.md).
-* **Circonstances :** Effondrement brutal d'une vasque suspendue défectueuse en céramique sur les mains de la victime dans l'établissement commercial de [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-nom.md).
+* **Date de l'accident :** [Date de l'Accident](../../../../🧠%20Memory/STRICT%20VARIABLES.md).
+* **Circonstances :** Effondrement brutal d'une vasque suspendue défectueuse en céramique sur les mains de la victime dans l'établissement commercial de [L'Exploitant](../../../../🧠%20Memory/🗂️%20Tokens/token-exploitation-raison-sociale.md).
 * **Lésion majeure :** Main droite (dominante), section tendineuse et nerveuse majeure, micro-chirurgie reconstructrice.
 * **Situation professionnelle :** Informaticien indépendant (développeur/codeur), métier dont le clavier est l'outil unique, percevant un revenu annuel net d'environ 9 000 €.
 * **Impact immédiat :** ITT médicale de **56 jours**, arrêt complet de l'activité, séquelles nerveuses douloureuses chroniques persistantes sans consolidation à ce jour.
@@ -33,7 +33,7 @@ auteur: La Victime
 
 ### I.2 — L'ABSENCE DE CONTESTATION SÉRIEUSE (FONDEMENT ART. 835 AL. 2 CPC)
 
-* La société [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-nom.md) avait la garde de la vasque en céramique (responsabilité de plein droit de l'art. 1242 al. 1 du Code civil).
+* La société [L'Exploitant](../../../../🧠%20Memory/🗂️%20Tokens/token-exploitation-raison-sociale.md) avait la garde de la vasque en céramique (responsabilité de plein droit de l'art. 1242 al. 1 du Code civil).
 * Aucune cause étrangère exonératoire (pas de force majeure, pas de fait de la victime).
 * La responsabilité de l'Exploitant est donc incontestable en son principe.
 

@@ -36,14 +36,14 @@ statut: projet
 
 ### I.3 — P0-3 — Liens jurisprudence : sous-dossier `📜 Jurisprudence/README.md` manquant  [SCRIPT]
 - **Cibles** :
-  - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/13 📜 Responsabilites legales.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/13%20📜%20Responsabilites%20legales.md) (L92-98, 4 liens `../../../📜 Lois/X.md`)
+  - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Analyse Responsabilites Legales.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/13%20📜%20Responsabilites%20legales.md) (L92-98, 4 liens `../../../📜 Lois/X.md`)
   - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/14%20Stratégie%20jurisprudentielle.md) (L30-37, ~11 liens `../../📜 Lois/X.md`)
   - (et les 2 versions `👤 Reel/` correspondantes → total ~30 liens)
 - **Correction** : insérer `📜 Jurisprudence/README.md` → `../../../📜 Lois/📜 Jurisprudence/README.mdX.md` (token) / `../../📜 Lois/📜 Jurisprudence/README.mdX.md` (reel).
 - **Vérifier** cible existe : [📜 Lois/📜 Jurisprudence/README.md89-18.422_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md) ✅ présent.
 
-### I.4 — P0-4 — `01 ⚖️ Assignation.md` : chemins d'annexe  [SCRIPT]
-- **Cibles** : `⚖️ Actes/{🔑 Token,👤 Reel}/⚖️ Actes proceduraux/01 ⚖️ Assignation.md` (L106-126, 347-349)
+### I.4 — P0-4 — `⚖️ Assignation Refere Provision.md` : chemins d'annexe  [SCRIPT]
+- **Cibles** : `⚖️ Actes/{🔑 Token,👤 Reel}/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md` (L106-126, 347-349)
 - **Correction appliquée (juil. 2026)** : les 3 ANNEXES ont été déplacées dans [📜 Lois/📜 Jurisprudence/](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) — voir `63-13.613`, `90-14.591`, `11-13.384`.
 
 ### I.5 — P0-5 — `05 📋 Dossier Special CERFA.md` : 6 liens `file://` cassés  [MANUEL + SCRIPT]
@@ -56,10 +56,10 @@ statut: projet
 
 ### I.6 — P0-6 — 8 fichiers `statut: final` contenant `[...]`  [MANUEL]
 - **Cibles** :
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/02b 🛡️ Constitution Partie Civile.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/02b%20🛡️%20Constitution%20Partie%20Civile.md)
-  - [⚖️ Actes/🔑 Token/✉️ Courriers/31 ✉️ Courrier INPI Opposition.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/31%20✉️%20Courrier%20INPI%20Opposition.md)
-  - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/11+12 📊 Evaluation Dintilhac consolidee.md](⚖️%20Actes/🔑%20Token/💰%20Etudes%20indemnisation/11+12%20📊%20Evaluation%20Dintilhac%20consolidee.md)
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/02b%20🛡️%20Constitution%20Partie%20Civile.md)
+  - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️🚨 INPI.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/31%20✉️%20Courrier%20INPI%20Opposition.md)
+  - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md](⚖️%20Actes/🔑%20Token/💰%20Etudes%20indemnisation/11+12%20📊%20Evaluation%20Dintilhac%20consolidee.md)
   - (et les 4 versions `👤 Reel/`)
 - **Défaut** : `statut: final` mais `[...]` non résolu dans le corps → incohérent avec RULES #15.
 - **Action** : soit compléter le contenu, soit rétrograder en `statut: projet`. **Décision humaine requise** (le contenu `[...]` peut être volontaire en attendant une donnée réelle).

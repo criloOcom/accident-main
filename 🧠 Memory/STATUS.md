@@ -161,7 +161,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 ### Actions réalisées
 
 #### 🔴 Priorité 1 : Email Maire Foix — Demande intervention Police Municipale
-- **Fichier créé** : [⚖️ Actes/🔑 Token/✉️ Courriers/34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/34%20✉️%20EMAIL%20Maire%20Foix%20-%20Police%20Municipale%20ERP.md)
+- **Fichier créé** : [⚖️ Actes/🔑 Token/✉️ Courriers/✉️🚨 Prefecture.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/34%20✉️%20EMAIL%20Maire%20Foix%20-%20Police%20Municipale%20ERP.md)
 - **Destinataire** : Mme Marine BORDES, Maire de Foix (`secretariat@mairie-foix.fr`)
 - **Objet** : Demande d'intervention Police Municipale pour contrôle ERP au 22 Rue Lafaurie
 - **Statut** : ✅ Brouillon prêt — envoi prévu à 8h00 (draft Gmail bloqué par OAuth `invalid_grant`, fichier local disponible pour copier-coller)
@@ -217,7 +217,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 
 ### RGPD — Fuites critiques nettoyées
 - **Supprimé** : `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📚 ANNEXE A Lexique Tokens.md` (contenait toutes les correspondances identités réelles)
-- **DJERBI** → `[Le Chirurgien SOS Main]` dans `00 📇 Index.md`
+- **DJERBI** → `[Le Chirurgien SOS Main]` dans `📇 Index General.md`
 - **PV police 2026/015967** → `[N° PV Police]` dans 5 fichiers token (Réquisitoire, Mémoire défense, Stratégie, FGTI, Conclusions)
 - **0 nom réel** restant dans [⚖️ Actes/🔑 Token](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 - **Commit** : `56ca5bc` (fix RGPD)
@@ -263,7 +263,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 - M01, M15 déjà sur `main` (pas besoin de PR)
 
 ### Nouveaux fichiers créés
-- [⚖️ Actes/🔑 Token/✉️ Courriers/32 ✉️ Courrier SIE URSSAF Mutualisation.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/32%20✉️%20Courrier%20SIE%20URSSAF%20Mutualisation.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/✉️🚨 SIE.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/32%20✉️%20Courrier%20SIE%20URSSAF%20Mutualisation.md)
 - `⚖️ Actes/🔑 Token/✉️ Courriers/33 ✉️ Requête Constat Huissier 145 CPC.md`
 - [⚖️ Actes/🔑 Token/🗄️ Archives/11 Fiche Reflexe 48h Victime.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/11%20Fiche%20Reflexe%2048h%20Victime.md)
 - `⚖️ Actes/🔑 Token/📚 Analyses juridiques/17 Note Contentieux Administratif.md`
@@ -413,8 +413,8 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 ### Fichiers modifiés/créés
 - `📊 Rapports/expertise/20260707 Analyse critique Glose.md` — NOUVEAU
 - `05 🎯 Conclusions Refere.md` — MIS À JOUR (provision, R.4323-58, tableau)
-- `02b 🛡️ Constitution Partie Civile.md` — MIS À JOUR (R.4323-58, 706-14, PEP, DEP)
-- `12 Évaluation Dintilhac détaillée.md` — FUSIONNÉ dans `11+12 📊 Evaluation Dintilhac consolidee.md` (supprimé le 11/07/2026)
+- `🛡️ Constitution Partie Civile.md` — MIS À JOUR (R.4323-58, 706-14, PEP, DEP)
+- `12 Évaluation Dintilhac détaillée.md` — FUSIONNÉ dans `📊 Evaluation Dintilhac Consolidee.md` (supprimé le 11/07/2026)
 - `STRICT VARIABLES.md` — MIS À JOUR (DEP ajouté)
 
 ## Phase 10 — Intégration mémoire juridique externe (Glose, 7 juillet 2026) ✅
@@ -430,9 +430,9 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
   - `📊 Rapports/expertise/20260707 Mémoire juridique Glose.md` — mémoire complet sauvegardé
 - **Fichiers mis à jour** :
   - `05 🎯 Conclusions Refere.md` — remplacé par la version Glose (provision 8 000 €, astreinte 100 €/jour, art. 145 communication assurance)
-  - `12 Évaluation Dintilhac détaillée.md` — FUSIONNÉ dans `11+12 📊 Evaluation Dintilhac consolidee.md` (supprimé le 11/07/2026)
+  - `12 Évaluation Dintilhac détaillée.md` — FUSIONNÉ dans `📊 Evaluation Dintilhac Consolidee.md` (supprimé le 11/07/2026)
   - `STRICT VARIABLES.md` — trois niveaux de montants (optimiste, conservative, compromis) + plafonds FGTI (3 000 €) et SARVI
-  - `02b 🛡️ Constitution Partie Civile.md` — note de référence ajoutée
+  - `🛡️ Constitution Partie Civile.md` — note de référence ajoutée
 
 ### Écarts clés entre les deux évaluations
 

@@ -65,10 +65,10 @@ statut: projet
   - `document` (22), `preuve` (2), `assignation` (24), `courrier` (76), `analyse_juridique` (24), `etude_indemnisation` (8), `archive` (21), `loi` (55), `jurisprudence` (22), `memory` (19), `rapport` (53), `status` (3).
   - → 8 valeurs (`document`, `preuve`, `assignation`, `analyse_juridique`, `etude_indemnisation`, `archive`, `jurisprudence`, `status`) **ne sont pas dans la liste autorisée**. Soit la nomenclature doit être élargie, soit les types doivent être remappés (ex. `assignation`→`acte`, `preuve`→`annexe`/`loi`, `jurisprudence`→`loi`, `status`→`memory`).
 - 🔴 **8 fichiers `statut: final` contenant encore des placeholders** (non résolus par la rétrogradation) :
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md) → `[...]`
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/02b 🛡️ Constitution Partie Civile.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/02b%20🛡️%20Constitution%20Partie%20Civile.md) → `[...]`
-  - [⚖️ Actes/🔑 Token/✉️ Courriers/31 ✉️ Courrier INPI Opposition.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/31%20✉️%20Courrier%20INPI%20Opposition.md) → `[...]`
-  - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/11+12 📊 Evaluation Dintilhac consolidee.md](⚖️%20Actes/🔑%20Token/💰%20Etudes%20indemnisation/11+12%20📊%20Evaluation%20Dintilhac%20consolidee.md) → `[...]`
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md) → `[...]`
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/02b%20🛡️%20Constitution%20Partie%20Civile.md) → `[...]`
+  - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️🚨 INPI.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/31%20✉️%20Courrier%20INPI%20Opposition.md) → `[...]`
+  - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md](⚖️%20Actes/🔑%20Token/💰%20Etudes%20indemnisation/11+12%20📊%20Evaluation%20Dintilhac%20consolidee.md) → `[...]`
   - (et les 4 versions `👤 Reel/` correspondantes)
   - → Ces fichiers portent `final` mais gardent `[...]` dans le corps : incohérence avec RULES #15.
 
@@ -93,17 +93,17 @@ statut: projet
 | `01_PREPARATION.md` / `02_PRET_POUR_ENVOI.md` / `03_ENVOYE.md` | 164 | Chemins absolus `/⚖️ Actes/...` au lieu de `../⚖️ Actes/...` (dossier `🚦 Status/` existe bien) |
 | `README.md` (racine) | 52 | Liens vers fichiers déplacés/renommés |
 | `📜 Strategie Jurisprudentielle.md` | 22 | Liens jurisprudence omettant `📜 Jurisprudence/README.md` |
-| `01 ⚖️ Assignation.md` | 12 | Annexes référencées sans chemin correct (`ANNEXE_1_…md` au lieu de `📎 Annexes/ANNEXE_1_…md`) |
+| `⚖️ Assignation Refere Provision.md` | 12 | Annexes référencées sans chemin correct (`ANNEXE_1_…md` au lieu de `📎 Annexes/ANNEXE_1_…md`) |
 | `📜 Lois/README_OLD.md` | 45 | Fichier obsolète |
 | `RAPPORT_NAVIGATION_INTERACTIVE_20260711.md` | 13 | Rapport |
-| `13 📜 Responsabilites legales.md` | 8 | Liens jurisprudence omettant `📜 Jurisprudence/README.md` |
+| `📜 Analyse Responsabilites Legales.md` | 8 | Liens jurisprudence omettant `📜 Jurisprudence/README.md` |
 | [⚖️ Actes/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) | 9 | Pointe vers `token/` et `reel/` (renommés `🔑 Token`/`👤 Reel`) |
 | `STATUS.md`, `DESIGN.md`, `VACCIN.md`, `DECISIONS.md`, rapport doc | 12 | Divers |
 
 **Vrais bugs de liens (indépendants des fichiers fantômes) :**
 - 🔴 [⚖️ Actes/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) L21-40 : `token/README.md`, `reel/README.md`, `token/0X_…/README.md` → dossiers renommés `🔑 Token`/`👤 Reel` non propagés.
-- 🔴 `13 📜 Responsabilites legales.md` L92-98 et `📜 Strategie Jurisprudentielle.md` : `../../../📜 Lois/89-18.422_CourCassation.md` → le fichier réel est [📜 Lois/📜 Jurisprudence/README.md89-18.422_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md) (sous-dossier omis).
-- ~~🔴 `01 ⚖️ Assignation.md` L106-126, 347-349 : `ANNEXE_1/2/3` → **CORRIGÉ** (déplacées dans [📜 Lois/📜 Jurisprudence/](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)).
+- 🔴 `📜 Analyse Responsabilites Legales.md` L92-98 et `📜 Strategie Jurisprudentielle.md` : `../../../📜 Lois/89-18.422_CourCassation.md` → le fichier réel est [📜 Lois/📜 Jurisprudence/README.md89-18.422_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md) (sous-dossier omis).
+- ~~🔴 `⚖️ Assignation Refere Provision.md` L106-126, 347-349 : `ANNEXE_1/2/3` → **CORRIGÉ** (déplacées dans [📜 Lois/📜 Jurisprudence/](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)).
 - 🔴 **6 liens `file://` cassés** (`📋 Dossier Special CERFA.md` L43-45, token + reel) : pointent vers `26 📋 Temoin Client.md`, `27 📋 Pompier SAMU.md`, `28 📋 Employe.md` — or les fichiers réels sont `26 📧 …`, `27 📧 …`, `28 📧 …` (mismatch 📋/📧). Lien mort + nommage incohérent.
 - 🟡 **4 URLs Légifrance** format `ceta/id/...` (`11+12 … Dintilhac consolidee.md` L265, `12 … Dintilhac détaillée.md` L147, + versions reel) — `ceta` (Conseil d'État) vs `juri` (Cassation) ; à confirmer que l'ID est bien un CETA et non une JURITEXT.
 - ⚪ **453 ancres `#…`** internes : présentes (sommaires), non vérifiées une par une (toléré, mais ~453 cibles à valider si on veut 100 %).
@@ -124,7 +124,7 @@ statut: projet
 1. **Dossier `🚦 Status/` existe** — corriger ses 3 index (`01_PREPARATION.md`, `02_PRET_POUR_ENVOI.md`, `03_ENVOYE.md`) : remplacer tous les liens absolus `/⚖️ Actes/...` par des chemins relatifs `../⚖️ Actes/...`. (164 liens dépendent de ça.)
 2. Corriger [⚖️ Actes/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) L21-40 : remplacer `token/`→`🔑 Token/`, `reel/`→`👤 Reel/` (9 liens).
 3. Corriger les liens jurisprudence (`13 Responsabilites`, `14 Stratégie`) : ajouter le sous-dossier `📜 Jurisprudence/README.md` (≈30 liens).
-4. Corriger `01 ⚖️ Assignation.md` : préfixer `📎 Annexes/` aux liens d'annexe (L106-126, 347-349).
+4. Corriger `⚖️ Assignation Refere Provision.md` : préfixer `📎 Annexes/` aux liens d'annexe (L106-126, 347-349).
 5. Corriger les 6 `file://` de `05 📋 Dossier Special CERFA.md` : `📋`→`📧` (ou renommer les fichiers cibles).
 6. Rétrograder ou compléter les 8 fichiers `final` contenant `[...]` (Cat 3).
 

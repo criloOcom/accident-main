@@ -123,7 +123,7 @@ source: local
 | Art. 700 | 4 000 € | Frais procédure |
 | **Total** | **~105 000 €** | |
 
-Voir détails : [11+12 📊 Evaluation Dintilhac consolidee.md](../%F0%9F%92%B0%20Etudes%20indemnisation/%F0%9F%93%8A%20Evaluation%20Dintilhac%20Consolidee.md)
+Voir détails : [📊 Evaluation Dintilhac Consolidee.md](../%F0%9F%92%B0%20Etudes%20indemnisation/%F0%9F%93%8A%20Evaluation%20Dintilhac%20Consolidee.md)
 
 ### VI.2 — QUI PAIE ?
 
@@ -155,10 +155,10 @@ Fondement : art. 835 al.2 CPC — obligation non sérieusement contestable.
 
 - Fiches jurisprudence : [70-12.124](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/70-12.124_CourCassation.md), [74-10.466](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/74-10.466_CourCassation.md), [89-18.422](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md), [91-13.580](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/91-13.580_CourCassation.md), [91-15.035](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/91-15.035_CourCassation.md), [24-21.702](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/24-21.702_CourCassation.md)
 
-- Note responsabilités légales : [13 📜 Responsabilites legales.md](%F0%9F%93%9C%20Analyse%20Responsabilites%20Legales.md)
+- Note responsabilités légales : [📜 Analyse Responsabilites Legales.md](%F0%9F%93%9C%20Analyse%20Responsabilites%20Legales.md)
 
-- Évaluation financière : [11+12 📊 Evaluation Dintilhac consolidee.md](../%F0%9F%92%B0%20Etudes%20indemnisation/%F0%9F%93%8A%20Evaluation%20Dintilhac%20Consolidee.md)
+- Évaluation financière : [📊 Evaluation Dintilhac Consolidee.md](../%F0%9F%92%B0%20Etudes%20indemnisation/%F0%9F%93%8A%20Evaluation%20Dintilhac%20Consolidee.md)
 
-- Validation ordalie : [20260707 Validation juridique ordalie.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/ordalie/20260707%20Validation%20juridique%20ordalie.md)
+- Validation ordalie : ~~20260707 Validation juridique ordalie.md — supprimé (RGPD)~~
 
 - Preuves : PV police n°[N° PV Police] (basculement), constat huissier (cassure préexistante)

@@ -28,23 +28,23 @@ jx: J+39
 
 **POUR :**
 
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), né le [**[Date de naissance de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md), de nationalité française, demeurant au [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), exerçant la profession d'informaticien indépendant.
+[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), né le [**[Date de naissance de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md), de nationalité française, demeurant au [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), exerçant la profession d'informaticien indépendant.
 
 *Demandeur*
 
 **CONTRE :**
 
-[**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), Société par Actions Simplifiée, immatriculée au RCS de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) sous le numéro SIRET [**[L'Identifiant de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md), ayant son siège social au [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), représentée par ses co-dirigeants [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
+[**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), Société par Actions Simplifiée, immatriculée au RCS de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) sous le numéro SIRET [**[L'Identifiant de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md), ayant son siège social au [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), représentée par ses co-dirigeants [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
 
 *Défenderesse*
 ## I — EXPOSÉ DU LITIGE
 ### I.1 — LE SINISTRE ET SES CONSÉQUENCES MATÉRIELLES
 
-Le **29 mai 2026**, aux environs de 15 heures, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), informaticien indépendant âgé de [**[Âge de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-age.md), se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
+Le **29 mai 2026**, aux environs de 15 heures, [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), informaticien indépendant âgé de [**[Âge de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-age.md), se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
 
 Le coiffeur préposé de la défenderesse, dans l'exercice de ses fonctions et agissant par nécessité de service, est monté sur la vasque en céramique d'un bac à shampoing installé à demeure pour régler un poste de télévision, **faute d'avoir à sa disposition un équipement d'accès en hauteur** (escabeau, échelle ou marchepied).
 
-Au cours de cette manipulation, la vasque a **basculé** brutalement et s'est brisée. Par réflexe de protection, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a tendu sa main droite — sa main dominante — pour protéger le préposé.
+Au cours de cette manipulation, la vasque a **basculé** brutalement et s'est brisée. Par réflexe de protection, [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a tendu sa main droite — sa main dominante — pour protéger le préposé.
 
 Sa paume a heurté violemment le flanc de la vasque qui présentait depuis une date indéterminée une **cassure majeure préexistante**, non signalée, aux arêtes extrêmement tranchantes.
 
@@ -149,7 +149,7 @@ Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 
 
 **EN CONSÉQUENCE**, il est demandé au juge des référés :
 
-S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 56 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.
+S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 56 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.
 
 **PRINCIPALEMENT,**
 
@@ -187,22 +187,22 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 **[Ville]**, le **[date]**
 
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
 ## PIECES JOINTES
 
-- **[Procès-verbal de police n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Circonstances de l'accident etablissant la responsabilité
+- **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Circonstances de l'accident etablissant la responsabilité
 
-- **[Compte-rendu operatoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Preuve des lesions et de l'intervention d'urgence
+- **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Preuve des lesions et de l'intervention d'urgence
 
-- **[Certificat medical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation initiale des blessures
+- **[Certificat medical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation initiale des blessures
 
-- **[Arrets de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
+- **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
 
-- **[Constat d'huissier]('%F0%9F%93%B8%20Requete%20Constat%20Huissier.md')** — Etat des lieux de la vasque litigieuse
+- **[Constat d'huissier](📸%20Requete%20Constat%20Huissier.md)** — Etat des lieux de la vasque litigieuse
 
-- **[Mises en demeure J+31](../%F0%9F%93%AC%20Mise%20en%20demeure%20SAS.md)** — LRAR restees sans reponse
+- **[Mises en demeure J+31](../../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)** — LRAR restees sans reponse
 <hr><hr>
 
 ## Sources Législation

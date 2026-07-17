@@ -120,7 +120,7 @@ Ce courrier est une **simulation** reprenant la structure du draft fourni par l'
 
 **Variante avocat :** une version "avocat" peut être générée sur demande, avec en-tête au barreau, ton plus incisif, et volet "réserve d'intérêts et de droits" renforcé.
 
-**Document remplacé :** ce document (J+50) se substitue à la précédente [mise en demeure assureur](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur.md) (J+31, pré-expertise, désormais archivée).
+**Document remplacé :** ce document (J+50) se substitue à la précédente mise en demeure assureur (J+31, pré-expertise, désormais archivée).
 
 **Documents liés :**
 - Constitution de Partie Civile consolidée : [`🛡️ Constitution Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)

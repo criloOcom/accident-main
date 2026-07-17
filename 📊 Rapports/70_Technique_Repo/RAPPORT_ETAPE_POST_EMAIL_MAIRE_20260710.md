@@ -41,8 +41,8 @@ type: rapport
   - Format Markdown professionnel
 
 - **Documents mis à jour:**
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
-  - [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/01 ⚖️ Assignation.md](⚖️%20Actes/👤%20Reel/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
+  - [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](⚖️%20Actes/👤%20Reel/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
   - [📊 Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md](../30_Analyses_Multi_Angle/RAPPORT_FINAL_INTEGRATION_20260710.md)
 
 #### I.1.b — Communication Administrative

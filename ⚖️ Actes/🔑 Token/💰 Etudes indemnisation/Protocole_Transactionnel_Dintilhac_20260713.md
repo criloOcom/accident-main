@@ -17,7 +17,7 @@ auteur: La Victime
 **ENTRE LES SOUSSIGNÉS :**
 
 1. **M. [La Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-nom-complet.md)**, né le [Date de Naissance de la Victime](../../../🧠%20Memory/STRICT%20VARIABLES.md), demeurant au [Adresse de la Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-adresse.md),
-   Assisté de **Me [L'Avocat de la Victime](../../../🧠%20Memory/🗂️%20Tokens/token-avocat-victime.md)**, Avocat au Barreau de [Barreau Avocat Victime](../../../🧠%20Memory/STRICT%20VARIABLES.md),
+   Assisté de **Me [L'Avocat de la Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-avocat-nom.md)**, Avocat au Barreau de [Barreau Avocat Victime](../../../🧠%20Memory/STRICT%20VARIABLES.md),
 
    *Ci-après désigné « la Victime »,*
 
@@ -25,8 +25,8 @@ auteur: La Victime
 
 **ET :**
 
-2. **La société [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-nom.md)**, SAS au capital de [Capital Exploitant](../../../🧠%20Memory/STRICT%20VARIABLES.md), immatriculée au RCS de [RCS Ville Exploitant](../../../🧠%20Memory/STRICT%20VARIABLES.md) sous le numéro [Siret Exploitant](../../../🧠%20Memory/STRICT%20VARIABLES.md), dont le siège social est sis [Adresse Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-adresse.md), prise en la personne de son représentant légal en exercice,
-   Assistée de son assureur responsabilité civile, **la compagnie [Assureur RC Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-assureur-rc.md)**, prise en son agence de [Ville Agence Assureur RC](../../../🧠%20Memory/STRICT%20VARIABLES.md) sous le numéro de police [Numéro Contrat RC Exploitant](../../../🧠%20Memory/STRICT%20VARIABLES.md),
+2. **La société [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitation-raison-sociale.md)**, SAS au capital de [Capital Exploitant](../../../🧠%20Memory/STRICT%20VARIABLES.md), immatriculée au RCS de [RCS Ville Exploitant](../../../🧠%20Memory/STRICT%20VARIABLES.md) sous le numéro [Siret Exploitant](../../../🧠%20Memory/STRICT%20VARIABLES.md), dont le siège social est sis [Adresse Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitation-adresse.md), prise en la personne de son représentant légal en exercice,
+   Assistée de son assureur responsabilité civile, **la compagnie [Assureur RC Exploitant](../../../🧠%20Memory/STRICT VARIABLES.md)**, prise en son agence de [Ville Agence Assureur RC](../../../🧠%20Memory/STRICT%20VARIABLES.md) sous le numéro de police [Numéro Contrat RC Exploitant](../../../🧠%20Memory/STRICT%20VARIABLES.md),
 
    *Ci-après désignés collectivement « l'Exploitant »,*
 
@@ -35,7 +35,7 @@ auteur: La Victime
 *Ci-après désignées individuellement « la Partie » et collectivement « les Parties ».*
 ### I.1 — PRÉAMBULE & CONTEXTE FACTUEL
 
-Le **[Date de l'Accident](../../../🧠%20Memory/STRICT%20VARIABLES.md)**, M. [La Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-nom-complet.md) a été victime d'un accident corporel grave alors qu'il se trouvait dans les locaux d'exploitation commerciale de la société [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-nom.md) situés au [Adresse Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-adresse.md).
+Le **[Date de l'Accident](../../../🧠%20Memory/STRICT%20VARIABLES.md)**, M. [La Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-nom-complet.md) a été victime d'un accident corporel grave alors qu'il se trouvait dans les locaux d'exploitation commerciale de la société [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitation-raison-sociale.md) situés au [Adresse Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitation-adresse.md).
 
 M. [La Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-nom-complet.md) a subi l'effondrement brutal d'une vasque suspendue en céramique défectueuse, lui occasionnant des lésions cutanées, tendineuses et nerveuses majeures à la **main droite (sa main dominante)**, ayant nécessité une intervention chirurgicale lourde en urgence (micro-chirurgie nerveuse et chirurgie orthopédique de reconstruction des tendons). Cet accident a entraîné une Interruption Totale de Travail (ITT) médico-légale de **56 jours**, ainsi que des séquelles neuropathiques douloureuses persistantes empêchant l'exercice normal de sa profession d'informaticien indépendant (développeur/codeur).
 
@@ -47,7 +47,7 @@ Afin de prévenir ou de mettre fin à tout litige judiciaire afférent à l'inde
 
 ### I.2 — ARTICLE 1 — PRINCIPE DU RÈGLEMENT ET RECONNAISSANCE DE RESPONSABILITÉ
 
-La société [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-nom.md) (et par délégation son assureur la compagnie [Assureur RC Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-assureur-rc.md)) reconnaît son entière et exclusive responsabilité dans la survenance du sinistre du [Date de l'Accident](../../../🧠%20Memory/STRICT%20VARIABLES.md) sur le fondement de la responsabilité du fait des choses que l'on a sous sa garde (article 1242 alinéa 1er du Code civil).
+La société [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitation-raison-sociale.md) (et par délégation son assureur la compagnie [Assureur RC Exploitant](../../../🧠%20Memory/STRICT VARIABLES.md)) reconnaît son entière et exclusive responsabilité dans la survenance du sinistre du [Date de l'Accident](../../../🧠%20Memory/STRICT%20VARIABLES.md) sur le fondement de la responsabilité du fait des choses que l'on a sous sa garde (article 1242 alinéa 1er du Code civil).
 
 En conséquence, l'indemnisation intégrale des préjudices corporels subis par la Victime s'effectuera en droit commun, sans aucune réduction de son droit à indemnisation.
 
@@ -60,15 +60,15 @@ Les Parties conviennent de se référer, pour l'évaluation et la liquidation am
 
 ### I.4 — ARTICLE 3 — ACCORD SUR LE VERSEMENT D'UNE PROVISION INDEMNITAIRE IMMÉDIATE
 
-À titre de règlement provisionnel immédiat à valoir sur la liquidation définitive des préjudices corporels, et dans l'attente de l'expertise médicale d'évaluation finale après consolidation, la compagnie [Assureur RC Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-assureur-rc.md) s'engage à verser à M. [La Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-nom-complet.md) la somme de **[Finance Provision Référé](../../../🧠%20Memory/🗂️%20Tokens/token-finance-provision-refere.md)**.
+À titre de règlement provisionnel immédiat à valoir sur la liquidation définitive des préjudices corporels, et dans l'attente de l'expertise médicale d'évaluation finale après consolidation, la compagnie [Assureur RC Exploitant](../../../🧠%20Memory/STRICT VARIABLES.md) s'engage à verser à M. [La Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-nom-complet.md) la somme de **[Finance Provision Référé](../../../🧠%20Memory/🗂️%20Tokens/token-finance-provision-refere.md)**.
 
-Ce versement interviendra par virement bancaire sur le compte CARPA de Me [L'Avocat de la Victime](../../../🧠%20Memory/🗂️%20Tokens/token-avocat-victime.md) dans un délai maximal de **quinze (15) jours** à compter de la signature des présentes par l'ensemble des Parties.
+Ce versement interviendra par virement bancaire sur le compte CARPA de Me [L'Avocat de la Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-avocat-nom.md) dans un délai maximal de **quinze (15) jours** à compter de la signature des présentes par l'ensemble des Parties.
 
 ### I.5 — ARTICLE 4 — RECOURS DES TIERS PAYEURS & SOUMISSION AUX SOCIALES
 
 Il est expressément rappelé que le règlement ci-dessus s'effectue sous réserve des décomptes définitifs de créance de la Caisse Primaire d'Assurance Maladie (CPAM) au titre des prestations servies à la Victime (frais médicaux, indemnités journalières).
 
-La compagnie [Assureur RC Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-assureur-rc.md) déclare faire son affaire personnelle du règlement direct de la créance de la CPAM, de sorte que la somme versée à la Victime au titre du présent protocole restera intégralement acquise à cette dernière pour ses préjudices personnels extra-patrimoniaux et sa part de préjudices patrimoniaux non soumise à recours.
+La compagnie [Assureur RC Exploitant](../../../🧠%20Memory/STRICT VARIABLES.md) déclare faire son affaire personnelle du règlement direct de la créance de la CPAM, de sorte que la somme versée à la Victime au titre du présent protocole restera intégralement acquise à cette dernière pour ses préjudices personnels extra-patrimoniaux et sa part de préjudices patrimoniaux non soumise à recours.
 
 ### I.6 — ARTICLE 5 — RÉSERVE EXPLICITE D'AGGRAVATION
 
@@ -87,8 +87,8 @@ En 3 exemplaires originaux.
 
 | Pour la Victime | Pour l'Exploitant |
 | :--- | :--- |
-| **M. [La Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-nom-complet.md)** | **Le Représentant de [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-nom.md)** |
+| **M. [La Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-nom-complet.md)** | **Le Représentant de [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitation-raison-sociale.md)** |
 | *(Signature précédée de la mention manuscrite « Bon pour transaction »)* | *(Signature précédée de la mention manuscrite « Bon pour transaction »)* |
 | | |
-| **Me [L'Avocat de la Victime](../../../🧠%20Memory/🗂️%20Tokens/token-avocat-victime.md)** | **La Compagnie [Assureur RC Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-assureur-rc.md)** |
+| **Me [L'Avocat de la Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-avocat-nom.md)** | **La Compagnie [Assureur RC Exploitant](../../../🧠%20Memory/STRICT VARIABLES.md)** |
 | *(Pour assistance et visa d'avocat)* | *(Pour acceptation de la garantie et du règlement)* |

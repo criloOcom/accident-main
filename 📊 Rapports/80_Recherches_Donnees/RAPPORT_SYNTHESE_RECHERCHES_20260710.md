@@ -59,9 +59,9 @@ type: rapport
 
 ### II.1 — Fichiers Analysés
 
-- [`01 ⚖️ Assignation.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md) : 12 articles vérifiés
+- [`⚖️ Assignation Refere Provision.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md) : 12 articles vérifiés
 - [`02 🚔 Plainte.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9A%94%20Plainte%20Defaut%20Assurance%20RC.md) : 9 articles vérifiés
-- [`02b 🛡️ Constitution Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) : 9 articles vérifiés
+- [`🛡️ Constitution Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) : 9 articles vérifiés
 - [`03 🔍 Assignation Article 145.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) : 1 article vérifié
 
 ### II.2 — Résultats
@@ -165,7 +165,7 @@ type: rapport
 ### VIII.1 — Phase 1: Intégration dans les Actes (Étape 6)
 
 - [ ] Sélectionner les 5-10 décisions les plus pertinentes
-- [ ] Mettre à jour `01 ⚖️ Assignation.md` avec les nouvelles références
+- [ ] Mettre à jour `⚖️ Assignation Refere Provision.md` avec les nouvelles références
 - [ ] Enrichir `02 🚔 Plainte.md` avec la jurisprudence pertinente
 - [ ] Ajouter les liens Légifrance dans le format Markdown
 

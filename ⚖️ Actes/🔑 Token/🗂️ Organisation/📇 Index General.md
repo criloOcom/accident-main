@@ -162,15 +162,15 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 
 ## VIII — MÉMOIRES D'AUDIT
 
-- [AUDIT_DATES.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/AUDIT_DATES.md) ✓ Vérifié : Audit de la chronologie des faits.
+- ~~AUDIT_DATES.md — supprimé (RGPD)~~ ✓ Vérifié : Audit de la chronologie des faits.
 
-- [AUDIT_MONTANTS.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/AUDIT_MONTANTS.md) ✓ Vérifié : Audit des calculs d'indemnisation.
+- ~~AUDIT_MONTANTS.md — supprimé (RGPD)~~ ✓ Vérifié : Audit des calculs d'indemnisation.
 
-- [AUDIT_NOMS_RESIDUELS.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/AUDIT_NOMS_RESIDUELS.md) ✓ Vérifié : Vérification de l'anonymisation.
+- ~~AUDIT_NOMS_RESIDUELS.md — supprimé (RGPD)~~ ✓ Vérifié : Vérification de l'anonymisation.
 
-- [AUDIT_COHERENCE_TRANSVERSALE.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/AUDIT_COHERENCE_TRANSVERSALE.md) ✓ Vérifié : Audit de la cohérence entre les documents.
+- ~~AUDIT_COHERENCE_TRANSVERSALE.md — supprimé (RGPD)~~ ✓ Vérifié : Audit de la cohérence entre les documents.
 
-- [AUDIT_ASSIGNATION_145.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/AUDIT_ASSIGNATION_145.md) ✓ Vérifié : Audit du projet d'assignation.
+- ~~AUDIT_ASSIGNATION_145.md — supprimé (RGPD)~~ ✓ Vérifié : Audit du projet d'assignation.
 
 - [EVIDENCE_MATRIX.md](../../../%F0%9F%A7%A0%20Memory/EVIDENCE_MATRIX.md) ✓ Vérifié : Matrice des preuves.
 
@@ -178,11 +178,11 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 
 - [STATS_DOSSIER.md](../../../%F0%9F%A7%A0%20Memory/STATS_DOSSIER.md) ✓ Vérifié : Statistiques détaillées du dossier.
 
-- [RAPPORT_CONSISTENCY.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/RAPPORT_CONSISTENCY.md) ✓ Vérifié : Rapport du script de cohérence.
+- ~~RAPPORT_CONSISTENCY.md — supprimé (RGPD)~~ ✓ Vérifié : Rapport du script de cohérence.
 
-- [RAPPORT_INDEX.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/RAPPORT_INDEX.md) ✓ Vérifié : Rapport d'indexation.
+- ~~RAPPORT_INDEX.md — supprimé (RGPD)~~ ✓ Vérifié : Rapport d'indexation.
 
-- [SYNCHRO_TOKENS.md](../../../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/SYNCHRO_TOKENS.md) ✓ Vérifié : État de la synchronisation des tokens.
+- ~~SYNCHRO_TOKENS.md — supprimé (RGPD)~~ ✓ Vérifié : État de la synchronisation des tokens.
 
 - [TOKEN MAP.md](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md) ✓ Vérifié : Table de correspondance des tokens.
 
@@ -195,7 +195,7 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 
 Documents non indexés conservés dans `archives/` :
 
-- [archives/annexes/](../README.md) — [📚 ANNEXE A Lexique Tokens](archives/annexes/📚%20ANNEXE%20A%20Lexique%20Tokens.md), [⚖️ ANNEXE B Lois Jurisprudence](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%E2%9A%96%EF%B8%8F%20ANNEXE%20B%20Lois%20Jurisprudence.md), [📑 ANNEXE C Pièces](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%F0%9F%93%91%20ANNEXE%20C%20Pieces.md)
+- [archives/annexes/](../README.md) — ~~📚 ANNEXE A Lexique Tokens (supprimé — RGPD)~~, [⚖️ ANNEXE B Lois Jurisprudence](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%E2%9A%96%EF%B8%8F%20ANNEXE%20B%20Lois%20Jurisprudence.md), [📑 ANNEXE C Pièces](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%F0%9F%93%91%20ANNEXE%20C%20Pieces.md)
 
 - [archives/🛡️ Constitution Partie Civile.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
 

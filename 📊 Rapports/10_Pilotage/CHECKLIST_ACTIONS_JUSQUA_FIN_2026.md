@@ -81,7 +81,7 @@ type: rapport
   * Priorité : Moyenne
   * Statut : À faire
   * Note : Obtenir emails et transmettre les Cerfa remplis.
-  * Fichier : [Attestation Client](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Temoin%20Client.md)
+  * Fichier : [Attestation Client](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Attestations/%F0%9F%93%8B%20Temoin%20Client.md)
 
 ### III.2 — Septembre 2026
 

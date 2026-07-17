@@ -27,23 +27,23 @@ jx: J+47
 # RÉQUISITOIRE INTRODUCTIF DU MINISTÈRE PUBLIC
 **Ouverture d'une information judiciaire — Blessures involontaires et infractions connexes**
 
-Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
+Tribunal Judiciaire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 Le Procureur de la République
 
 RÉFÉRENCE PARQUET : [À compléter]
 RÉFÉRENCE PLAINTE : PV n°2026/015967
 
 À l'attention de Monsieur le Doyen des Juges d'Instruction,
-Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
+Tribunal Judiciaire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 ## I — PROBLÉMATIQUE ET EXPOSÉ DES FAITS
 
-Le Ministère Public a été saisi par la plainte, puis par la [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) en date du [6 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md), déposées par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à l'encontre de la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), ainsi que de ses dirigeants, [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
+Le Ministère Public a été saisi par la plainte, puis par la [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) en date du [6 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md), déposées par [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à l'encontre de la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), ainsi que de ses dirigeants, [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
 
-Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), a été victime d'un grave accident corporel.
+Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), a été victime d'un grave accident corporel.
 
-Alors que [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md), faute d'équipement d'accès en hauteur (escabeau, marchepied) mis à sa disposition, était monté sur la vasque en céramique d'un bac à shampoing pour régler un poste de télévision situé en hauteur, cet équipement, déjà fragilisé par une cassure majeure préexistante et non signalée aux arêtes tranchantes, a basculé sous son poids.
+Alors que [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md), faute d'équipement d'accès en hauteur (escabeau, marchepied) mis à sa disposition, était monté sur la vasque en céramique d'un bac à shampoing pour régler un poste de télévision situé en hauteur, cet équipement, déjà fragilisé par une cassure majeure préexistante et non signalée aux arêtes tranchantes, a basculé sous son poids.
 
-En tentant par réflexe de retenir le préposé, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a heurté de la main droite — sa main dominante — la cassure tranchante.
+En tentant par réflexe de retenir le préposé, [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a heurté de la main droite — sa main dominante — la cassure tranchante.
 
 Ce choc a provoqué une section complète du tendon fléchisseur profond (FDP) de l'index droit en zone II de Verdan, associée à une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une microchirurgie d'urgence le 30 mai 2026, puis une neurolyse secondaire du nerf palmaire.
 
@@ -100,7 +100,7 @@ S'agissant des personnes physiques qui n'ont pas causé directement le dommage (
 > [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) <br>
 > **Code pénal > Partie législative > Livre Ier > Titre II > Chapitre Ier.[^5]**
 
-Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
+Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
 
 ### II.4 — SUR LA PRESCRIPTION
 
@@ -117,7 +117,7 @@ Les faits dénoncés revêtent une indéniable gravité, les conséquences pour 
 
 Considérant qu'il appartiendra à l'expert commis dans le cadre de l'information judiciaire, ou à l'Unité Médico-Judiciaire (UMJ), de fixer l'ITT pénale au sens du Code pénal ; que le rapport d'expertise médicale déposé le 12 juin 2027 constitue un indice sérieux quant à la durée de l'incapacité fonctionnelle réelle et à la gravité des séquelles, sans pour autant lier le juge pénal sur le quantum de l'ITT au sens des articles 222-19 et suivants.
 
-L'enquête préliminaire se heurte actuellement à l'obstruction manifeste de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, qui refusent de communiquer les attestations d'assurance de responsabilité civile professionnelle de l'établissement, paralysant l'indemnisation de la victime via l'action directe prévue par l'article L. 124-3 du Code des assurances.
+L'enquête préliminaire se heurte actuellement à l'obstruction manifeste de la société [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, qui refusent de communiquer les attestations d'assurance de responsabilité civile professionnelle de l'établissement, paralysant l'indemnisation de la victime via l'action directe prévue par l'article L. 124-3 du Code des assurances.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
@@ -147,12 +147,12 @@ Par ces motifs,
 
 Vu les articles 222-19, 222-20, 223-1, 121-2 et 121-3 du Code pénal ;
 Vu les articles 80 et suivants du Code de procédure pénale ;
-Vu la plainte et la [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) ;
+Vu la plainte et la [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) ;
 Vu le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 (consolidation 01/03/2027, DFP 12 %, SE 4/7) ;
 
 Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 
-**OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), des chefs de :
+**OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), et [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), des chefs de :
 
 - **Blessures involontaires** (Art. 222-19 ou subsidiairement 222-20 C. pénal) — ITT > 3 mois en considération de la consolidation à 12 mois et du DFP de 12 %, ou à tout le moins ITT ≤ 3 mois par violation manifestement délibérée ;
 - **Mise en danger de la vie d'autrui** (Art. 223-1 C. pénal) — violation délibérée des obligations de sécurité d'un ERP (vasque cassée non sécurisée) ;
@@ -161,15 +161,15 @@ Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 Et de tous autres chefs qui viendraient à être révélés par l'instruction.
 
 **ORDONNER** les actes d'instruction suivants :
-- Audition des dirigeants de la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sur les conditions d'entretien des locaux et l'existence d'une assurance RC ;
-- Audition de [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) en qualité de témoin ;
+- Audition des dirigeants de la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sur les conditions d'entretien des locaux et l'existence d'une assurance RC ;
+- Audition de [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) en qualité de témoin ;
 - Saisie des enregistrements vidéo de surveillance (sous séquestre par [ordonnance sur requête Art. 145 CPC](../📜%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md) du **[J+54]**) ;
 - Réquisitions auprès des organismes d'assurance pour identifier le ou les assureurs RC en vigueur au jour du sinistre ;
 - Désignation d'un expert médical (ou à défaut, verser au dossier l'expertise amiable déjà réalisée).
 
 **DÉCERNER** tous mandats qu'il appartiendra.
 
-Fait au Parquet de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 15 juillet 2026.
+Fait au Parquet de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 15 juillet 2026.
 
 **Le Procureur de la République**
 <hr><hr>
@@ -195,7 +195,7 @@ Les chances d'aboutissement de la présente procédure d'information sont jugée
 
 ### NOTE MÉTHODOLOGIQUE
 
-Ce réquisitoire introductif est une **simulation** à vocation pédagogique et stratégique, s'inscrivant dans la continuité de la [Constitution de Partie Civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (J+38) et du [Rapport d'Expertise Médicale](../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) (déposé le 12 juin 2027).
+Ce réquisitoire introductif est une **simulation** à vocation pédagogique et stratégique, s'inscrivant dans la continuité de la [Constitution de Partie Civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (J+38) et du [Rapport d'Expertise Médicale](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) (déposé le 12 juin 2027).
 
 **Scénarios de qualification :**
 - *Scénario A (prudent)* — ITT pénale limitée au certificat initial (56 jours ≤ 3 mois) → Art. 222-20 CP (délit)
@@ -205,7 +205,7 @@ Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19
 
 **Documents liés :**
 - Constitution de Partie Civile consolidée : [`🛡️ Constitution Partie Civile.md`](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
-- Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
+- Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
 - Ordonnance Art. 145 CPC (vidéos) : [`⚖️ Ordonnance sur Requete Art. 145 CPC.md`](../📜%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md)
 - Ordonnance de référé provision : [`⚖️ Projet Ordonnance Refere.md`](../📜%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)
 <hr><hr>

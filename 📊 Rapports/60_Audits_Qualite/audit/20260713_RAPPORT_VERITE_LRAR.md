@@ -58,7 +58,7 @@ L'agent précédent avait aussi remplacé « les tendons » par « le tendon » 
 
 ⚠ Note : le document narratif de la lettre (Google Doc l.141) écrit « sectionné les tendons et les nerfs » au pluriel. C'est une formulation de style ; la lésion médicale documentée est au singulier. Le Token suit la précision médicale (singulier). Aucune action requise.
 
-⚠ Élément connexe : `⚖️ Actes/Preuves officielles/20260612 🩺 DrOXIBEL/20260612-1207 SITUATION Main.md` (l.43) mentionne un « 5e doigt droit » — c'est une ERREUR RÉSIDUELLE dans une pièce médicale (le CR opératoire rectifié dit index droit). Ce point est déjà répertorié comme à corriger (`👤 Reel/⚖️ Actes proceduraux/J+47 📑 Bordereau de pieces.md`, l.82 : « Rectification du compte-rendu opératoire : index droit au lieu du 5e doigt »). Non corrigé dans ce rapport (sort de la portée LRAR/téléviseur) — à traiter dans un audit médical dédié.
+⚠ Élément connexe : `⚖️ Actes/Preuves officielles/20260612 🩺 DrOXIBEL/20260612-1207 SITUATION Main.md` (l.43) mentionne un « 5e doigt droit » — c'est une ERREUR RÉSIDUELLE dans une pièce médicale (le CR opératoire rectifié dit index droit). Ce point est déjà répertorié comme à corriger (`👤 Reel/⚖️ Actes proceduraux/📑 Bordereau Unifie.md`, l.82 : « Rectification du compte-rendu opératoire : index droit au lieu du 5e doigt »). Non corrigé dans ce rapport (sort de la portée LRAR/téléviseur) — à traiter dans un audit médical dédié.
 
 ---
 

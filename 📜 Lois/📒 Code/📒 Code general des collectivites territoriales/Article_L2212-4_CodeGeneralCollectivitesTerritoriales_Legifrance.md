@@ -76,7 +76,7 @@ Cet article permet au maire de Foix :
 
 Cet article est cité dans :
 - **Document 29 ✉️ Courrier Maire Foix.md** : Fondement juridique pour intervention urgente
-- **Document 34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md** : Demande de mesures de sûreté
+- **Document ✉️🚨 Prefecture.md** : Demande de mesures de sûreté
 
 ---
 
