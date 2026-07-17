@@ -84,7 +84,7 @@ Ce texte institue un droit propre de la victime à l'encontre de l'assureur, ind
 
 Je dois porter à votre connaissance que, malgré des démarches amiables et judiciaires répétées, la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et ses dirigeants se refusent à communiquer la moindre attestation d'assurance responsabilité civile professionnelle. Ce silence fait obstacle à l'exercice de l'action directe et constitue une entrave caractérisée aux droits de ma cliente.
 
-Une **information judiciaire** a été ouverte par réquisitoire introductif du Parquet de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) en date du 15 juillet 2026 ([**J+47**](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md)), des chefs de blessures involontaires et mise en danger d'autrui, avec mission expresse d'investigation sur les conditions d'assurance de la société. Les réquisitions auprès des organismes d'assurance sont en cours.
+Une **information judiciaire** a été ouverte par réquisitoire introductif du Parquet de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) en date du 15 juillet 2026 ([**J+47**](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md)), des chefs de blessures involontaires et mise en danger d'autrui, avec mission expresse d'investigation sur les conditions d'assurance de la société. Les réquisitions auprès des organismes d'assurance sont en cours.
 
 L'obstruction persistante de l'assurée, conjuguée à l'absence de réponse de votre part, justifierait le cas échéant des réquisitions pénales complémentaires visant directement votre compagnie.
 <hr><hr>
@@ -120,9 +120,9 @@ Je joins à la présente l'intégralité des pièces déjà communiquées dans l
 - Procès-verbal de police relatif à l'accident ;
 - Certificat médical initial du 29 mai 2026 et compte-rendu opératoire du 30 mai 2026 ;
 - Rapport d'expertise médicale judiciaire du 12 juin 2027 ;
-- [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) ;
-- [Réquisitoire introductif du Parquet](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) ;
-- [Ordonnance de référé provision](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md) et [ordonnance sur requête art. 145 CPC](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md).
+- [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) ;
+- [Réquisitoire introductif du Parquet](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) ;
+- [Ordonnance de référé provision](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md) et [ordonnance sur requête art. 145 CPC](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md).
 
 Dans l'attente de votre retour écrit et circonstancié dans le délai imparti, je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.
 
@@ -152,7 +152,7 @@ Variante « avocat » de la mise en demeure adressée à l'assureur RC, destiné
 
 **Documents liés :**
 - Version victime : [`✉️📜 SAS Assureur RC.md`](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC.md)
-- Réquisitoire introductif : [`⚖️ Requisitoire introductif.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md)
+- Réquisitoire introductif : [`⚖️ Requisitoire introductif.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md)
 <hr><hr>
 
 ## Sources Législation

@@ -129,9 +129,9 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 ## V — PROCHAINES ÉTAPES RECOMMANDÉES (ordonnées)
 
 ### V.1 — J+0 à J+3 (11-13 juillet 2026)
-1. **Imprimer + envoyer les 4 LRAR Vague 1** (URSSAF, CODAF, FGTI, Président TJ) — checklist [fichier 24](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%91%20Bordereau%20Unifie.md)
+1. **Imprimer + envoyer les 4 LRAR Vague 1** (URSSAF, CODAF, FGTI, Président TJ) — checklist [fichier 24](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%93%91%20Bordereau%20Unifie.md)
 2. **Copier-coller l'email Maire Foix** dans Gmail manuellement (OAuth bloqué)
-3. **Noter les N° LRAR** sur la checklist → reporter dans [fichier 23](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%91%20Bordereau%20Unifie.md)
+3. **Noter les N° LRAR** sur la checklist → reporter dans [fichier 23](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%93%91%20Bordereau%20Unifie.md)
 
 ### V.2 — J+3 à J+7 (13-17 juillet 2026)
 4. **Envoyer les 7 LRAR Vague 2** (INPI, Préfecture, SIE, CD, SDIS, Police, CPAM)
@@ -190,7 +190,7 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 - **Consolider le dossier médical** — le certificat de consolidation est le préalable à l'évaluation définitive
 
 ### VII.3 — Documentaire
-- **Tenir à jour le [fichier 23](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%91%20Bordereau%20Unifie.md) (Suivi LRAR)** après chaque envoi — le tableau de bord est l'outil de pilotage
+- **Tenir à jour le [fichier 23](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%93%91%20Bordereau%20Unifie.md) (Suivi LRAR)** après chaque envoi — le tableau de bord est l'outil de pilotage
 - **Photographier chaque LRAR + PJ** avant dépôt — trace irremplaçable
 - **Scanner et classer les AR** dans le dossier preuves dès réception
 - **Mettre à jour STATUS.md** après chaque action (dernière entrée : 10/07 — Phase 17)

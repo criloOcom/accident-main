@@ -62,7 +62,7 @@ Selon les règles, aucun token d'anonymisation ne doit se retrouver dans les fic
 - [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md`:ligne 60 (Token `[La Victime]` présent)
 - [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md`:ligne 87 (Token `[La Victime]` présent)
 - [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/🗂️ Organisation/21 📋 Plan Constat Police Foix.md`:ligne 71 (Token `[La Victime]` présent)
-- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/MEMO_AUDIENCE_31072026.md`:ligne 16 (Token `[La Victime]` présent)
+- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md`:ligne 16 (Token `[La Victime]` présent)
 
 ### III.2 — RÉGLEMENTATION DU DOSSIER REEL (INTERDICTION #3)
 L'`INTERDICTION #3` dans `AGENTS.md` stipule formellement qu'aucun README d'index n'est maintenu dans `👤 Reel/`.

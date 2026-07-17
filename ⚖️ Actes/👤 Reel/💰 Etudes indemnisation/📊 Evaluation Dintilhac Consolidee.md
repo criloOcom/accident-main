@@ -484,7 +484,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 **Avantage décisif :** Le FGTI verse l'indemnisation même si la SAS est insolvable, puis exerce son recours subrogatoire contre les responsables.
 <hr><hr>
 
-## IV.4 — [CONSTITUTION DE PARTIE CIVILE](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (VOIE PÉNALE)
+## IV.4 — [CONSTITUTION DE PARTIE CIVILE](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (VOIE PÉNALE)
 
 **Avantages :**
 - Déclenche l'action publique

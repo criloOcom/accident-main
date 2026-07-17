@@ -24,7 +24,7 @@ statut: projet
 
 ### I.1 — P0-1 — Index `🚦 Status/` : chemins absolus → relatifs  [SCRIPT]
 - **Cible** : `🚦 Status/01_PREPARATION.md`, `🚦 Status/02_PRET_POUR_ENVOI.md`, `🚦 Status/03_ENVOYE.md`
-- **Défaut** : tous les liens internes utilisent des chemins absolus `/⚖️ Actes/...` (ex. `/⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md`) → morts sur GitHub/HTML.
+- **Défaut** : tous les liens internes utilisent des chemins absolus `/⚖️ Actes/...` (ex. `/⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`) → morts sur GitHub/HTML.
 - **Correction** : remplacer `](/⚖️ Actes/` par `](../⚖️ Actes/` (et `](/📊 Rapports/` par `](../📊 Rapports/` si présent).
 - **Impact** : 164 liens réparés. À rejouer `check_consistency.py` après.
 

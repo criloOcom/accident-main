@@ -18,13 +18,13 @@ Ce rapport liste les incohérences détectées dans les fichiers sous `⚖️ Ac
 
 ## I — INCOHÉRENCES DÉTECTÉES
 
-### I.1 — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📑 Bordereau Unifie.md`
+### I.1 — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📑 Bordereau Unifie.md`
 
 - **Ligne 28** : Profession erronée (victime qualifiée de 'coiffeur')
   - **Valeur erronée** : `- [**[J+4 Dépôt de plainte]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Procès-verbal de police n° [**[N° PV Police]**](../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (Police Nationale [**[La Métropole Régionale]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)) : Dépôt de plainte de [**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) pour blessures involontaires. Description de l'accident : montée du coiffeur sur la vasque en céramique, basculement, cassure préexistante. PV complet 3 pages.`
   - **Correction suggérée** : Remplacer par 'informaticien indépendant'.
 
-### I.2 — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🚔 PV Audition Plainte Complementaire Foix.md`
+### I.2 — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire Foix.md`
 
 - **Ligne 58** : Date d'accident erronée (29 mai 2026 attendu)
   - **Valeur erronée** : `Premièrement, face au silence de l'exploitant le jour de l'accident, j'ai envoyé des lettres recommandées avec accusé de réception (LRAR) le 29 juin 2026 aux dirigeants ainsi qu'au propriétaire des murs. Le but de ces courriers était d'obtenir les coordonnées de leur assurance Responsabilité Civile Professionnelle, une obligation légale, pour permettre la prise en charge de mes préjudices, qui sont lourds (j'ai 56 jours d'ITT). Or, ces courriers me sont revenus avec la mention "NPAI - Destinataire inconnu à l'adresse". Pourtant, j'ai vérifié sur le RNE/INPI le 10 juillet 2026, la société est toujours officiellement immatriculée à cette adresse au [**[L'Adresse de l'Exploitation]**]. Il y a donc une volonté manifeste de se soustraire à leurs obligations et de ne réceptionner aucune communication de ma part ou de celle de la justice.`

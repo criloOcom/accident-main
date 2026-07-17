@@ -11,35 +11,40 @@ type: readme
 
 # ⚖️ Actes Procéduraux
 
-**Ce dossier contient l'ensemble des actes juridiques destinés à être déposés au greffe du tribunal judiciaire.**  
+**Ce dossier contient l'ensemble des actes juridiques destinés à être déposés au greffe du tribunal judiciaire.**
 
-Ces documents constituent le corps de la procédure en référé.
+## 📂 Sous-dossiers
 
-## 📋 Fichiers
+### [📜 Contentieux civil](📜%20Contentieux%20civil/README.md)
 
+- [⚖️ Assignation Refere Provision.md](📜%20Contentieux%20civil/⚖️%20Assignation%20Refere%20Provision.md)
+- [⚖️ Ordonnance sur Requete Art. 145 CPC.md](📜%20Contentieux%20civil/⚖️%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md)
+- [⚖️ Projet Ordonnance Refere.md](📜%20Contentieux%20civil/⚖️%20Projet%20Ordonnance%20Refere.md)
+- [🎯 Conclusions Refere Provision.md](📜%20Contentieux%20civil/🎯%20Conclusions%20Refere%20Provision.md)
+- [📑 Bordereau Unifie.md](📜%20Contentieux%20civil/📑%20Bordereau%20Unifie.md)
+- [📜 Conclusions au Fond TJ Foix.md](📜%20Contentieux%20civil/📜%20Conclusions%20au%20Fond%20TJ%20Foix.md)
+- [📸 Requete Constat Huissier.md](📜%20Contentieux%20civil/📸%20Requete%20Constat%20Huissier.md)
+- [🔍 Requete Article 145 CPC.md](📜%20Contentieux%20civil/🔍%20Requete%20Article%20145%20CPC.md)
+- [17 ⚖️ Requete Mandataire Ad Hoc.md](📜%20Contentieux%20civil/17%20⚖️%20Requete%20Mandataire%20Ad%20Hoc.md)
 
+### [👮 Contentieux penal](👮%20Contentieux%20penal/README.md)
 
+- [⚖️ Requisitoire introductif.md](👮%20Contentieux%20penal/⚖️%20Requisitoire%20introductif.md)
+- [👮‍♂️ Plainte Complementaire Correction HB BARBER.md](👮%20Contentieux%20penal/👮‍♂️%20Plainte%20Complementaire%20Correction%20HB%20BARBER.md)
+- [👮‍♂️ PV Audition Plainte Complementaire.md](👮%20Contentieux%20penal/👮‍♂️%20PV%20Audition%20Plainte%20Complementaire.md)
+- [🚔 Plainte Defaut Assurance RC.md](👮%20Contentieux%20penal/🚔%20Plainte%20Defaut%20Assurance%20RC.md)
+- [🚔 PV Audition Plainte Complementaire Foix.md](👮%20Contentieux%20penal/🚔%20PV%20Audition%20Plainte%20Complementaire%20Foix.md)
+- [🛡️ Constitution Partie Civile.md](👮%20Contentieux%20penal/🛡️%20Constitution%20Partie%20Civile.md)
+- [16 ⚠️ Signalement Parquet Fraud.md](👮%20Contentieux%20penal/16%20⚠️%20Signalement%20Parquet%20Fraud.md)
 
+### [📋 Preparation Foix](📋%20Preparation%20Foix/README.md)
 
+- [📋 Bordereau de Pieces Foix.md](📋%20Preparation%20Foix/📋%20Bordereau%20de%20Pieces%20Foix.md)
+- [📋 Frise Chronologique Foix.md](📋%20Preparation%20Foix/📋%20Frise%20Chronologique%20Foix.md)
+- [📋 Note Personnelle Commissariat Foix.md](📋%20Preparation%20Foix/📋%20Note%20Personnelle%20Commissariat%20Foix.md)
+- [📋 Projet Declaration PV Foix.md](📋%20Preparation%20Foix/📋%20Projet%20Declaration%20PV%20Foix.md)
+- [MEMO_AUDIENCE_31072026.md](📋%20Preparation%20Foix/MEMO_AUDIENCE_31072026.md)
 
-
-
-
-
-
-
-- **[⚖️ Assignation Refere Provision](%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md)**
-- **[🚔 Plainte Defaut Assurance RC](%F0%9F%9A%94%20Plainte%20Defaut%20Assurance%20RC.md)**
-- **[📸 Requete Constat Huissier](%F0%9F%93%B8%20Requete%20Constat%20Huissier.md)**
-- **[🛡️ Constitution Partie Civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)**
-- **[🎯 Conclusions Refere Provision](%F0%9F%8E%AF%20Conclusions%20Refere%20Provision.md)**
-- **[📑 Bordereau Unifie](%F0%9F%93%91%20Bordereau%20Unifie.md)**
-- **[⚖️ Requisitoire introductif](%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md)**
-- **[🔍 Requete Article 145 CPC](%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md)**
-- **[⚖️ Projet Ordonnance Refere](%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)**
-- **[16 ⚠️ Signalement Parquet Fraud](16%20%E2%9A%A0%EF%B8%8F%20Signalement%20Parquet%20Fraud.md)**
-- **[17 ⚖️ Requete Mandataire Ad Hoc](17%20%E2%9A%96%EF%B8%8F%20Requete%20Mandataire%20Ad%20Hoc.md)**
-- **[MEMO_AUDIENCE_31072026](MEMO_AUDIENCE_31072026.md)**
 ## 🔗 Liens vers les versions réelles
 
 > [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md](../../%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/README.md)
@@ -55,18 +60,26 @@ Ces documents constituent le corps de la procédure en référé.
 
 ```mermaid
 graph LR
-    P[01 Actes procéduraux] --> A1[01 Assignation]
-    P --> A2[02 Plainte]
-    P --> A3[03 Assignation 145]
-    P --> A4[04 Bordereau]
-    P --> A5[05 Conclusions]
-    P --> A6[06 Constat huissier]
-    P --> A7[07 Constitution PC]
-    P --> A8[08 Projet ordonnance]
-    P --> A9[09 Réquisitoire]
-    P --> A10[10 Signalement parquet]
-    P --> A11[11 Mandataire ad hoc]
-    A1 --> F[Provision 5000€ + expertise]
-    A8 --> F2[Provision 15000€ + astreinte]
-    A9 --> J[Information judiciaire]
+    P[⚖️ Actes procéduraux] --> C[📜 Contentieux civil]
+    C --> A1[Assignation Référé]
+    C --> A2[Ordonnance 145]
+    C --> A3[Projet Ordonnance]
+    C --> A4[Conclusions Référé]
+    C --> A5[Conclusions Fond]
+    C --> A6[Constat Huissier]
+    C --> A7[Mandataire ad hoc]
+    P --> P1[👮 Contentieux pénal]
+    P1 --> B1[Réquisitoire]
+    P1 --> B2[Plainte complémentaire]
+    P1 --> B3[Constitution PC]
+    P1 --> B4[Plainte défaut RC]
+    P1 --> B5[Signalement parquet]
+    P --> F[📋 Préparation Foix]
+    F --> F1[Note personnelle]
+    F --> F2[Projet déclaration]
+    F --> F3[Bordereau pièces]
+    F --> F4[Frise chrono]
+    A1 --> PROV[Provision 5000€ + expertise]
+    A3 --> PROV2[Provision 15000€ + astreinte]
+    B1 --> INFO[Information judiciaire]
 ```

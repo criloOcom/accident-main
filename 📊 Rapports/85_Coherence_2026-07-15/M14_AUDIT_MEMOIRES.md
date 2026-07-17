@@ -17,7 +17,7 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 ## I — 📜 Conclusions au Fond TJ Foix
 
-**Fichier audité :** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Conclusions au Fond TJ Foix.md`
+**Fichier audité :** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md`
 
 - [x] **Tous les postes de préjudice sont traités :** Conforme. Les postes patrimoniaux et extra-patrimoniaux listés dans `STRICT VARIABLES.md` (§1. Rapport d'expertise 2027-05-29) sont tous présents.
 - [x] **Fondement juridique et pièces :** Conforme. Sont visés les articles 1240 et 1242 alinéa 1er du Code civil, et 145, 700 du CPC, ainsi que les pièces justifiant les faits (Pièces n° 1, 2, etc., rapport d'expertise, constats).
@@ -31,7 +31,7 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 ## II — 🎯 Conclusions Refere Provision
 
-**Fichier audité :** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🎯 Conclusions Refere Provision.md`
+**Fichier audité :** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/🎯 Conclusions Refere Provision.md`
 
 - [x] **Tous les postes de préjudice sont traités :** Conforme. Demande provisionnelle (PGPA, frais médicaux, SE, IP, article 700).
 - [x] **Fondement juridique et pièces :** Conforme. Sont visés les articles 835 et 145 du Code de procédure civile, l'article 1242 al. 5 du Code civil, ainsi que les pièces du bordereau.

@@ -31,9 +31,9 @@ L'évaluation des préjudices a évolué à plusieurs reprises, entraînant des 
   * `🧠 Memory/STATUS.md` et `🧠 Memory/TODO.md` y font également référence.
 * **Contradiction 2 (Évaluation Intermédiaire 109 500 €)** : Cette valeur obsolète persiste dans `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ FGTI Saisine.md` (ligne 88) ("s'élève à ~109 500 €") et dans `🧠 Memory/STRICT VARIABLES.md` sous la variable `MONTANT_TOTAL_ESTIME` (ligne 72, notée SUPERSEDED).
 * **Contradiction 3 (Évaluation 126 000 € - 161 500 €)** : Plusieurs actes de Référé Provision utilisent un rapport Dintilhac intermédiaire du 13/07/2026 :
-  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md` (ligne 229)
-  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🎯 Conclusions Refere Provision.md` (ligne 153)
-  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Projet Ordonnance Refere.md` (lignes 103, 192)
+  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md` (ligne 229)
+  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/🎯 Conclusions Refere Provision.md` (ligne 153)
+  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Projet Ordonnance Refere.md` (lignes 103, 192)
   * `📊 Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md` (lignes 109, 153)
 
 ### II.2 — Dates et Délais (ITT, Procédures)

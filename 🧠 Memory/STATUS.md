@@ -123,7 +123,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 - **Références corrigées** : 434-15→434-4, 222-19→222-20, ajout 121-3
 
 ### Documents à déposer le 15 juillet Foix
-1. **Matin — Greffe TJ Foix** : [Requête Art. 145 CPC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) (fichier 03) + [demande AJ](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%F0%9F%93%9D%20Guide%20Demande%20AJ.md) (fichier 39)
+1. **Matin — Greffe TJ Foix** : [Requête Art. 145 CPC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) (fichier 03) + [demande AJ](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%F0%9F%93%9D%20Guide%20Demande%20AJ.md) (fichier 39)
 2. **Midi — 22 Rue Lafaurie** : Photos + constat personnel état vasque
 3. **Après-midi — Commissariat** : [Plainte complémentaire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20Commissariat%20Foix%20Plainte%20Complementaire.md) (fichier 36 📜 imprimé + signé)
 
@@ -206,8 +206,8 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 | #79 | Rapport conformité ERP | ✅ Mergée (rebase) | [📊 Rapports/🗄️ Archives/audit/rapport_conformite_erp.md](../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/rapport_conformite_erp.md) |
 | #80 | Note Droit Assurances (token+reel) | ✅ Mergée (rebase) | [⚖️ Actes/{token,reel}/📚 Analyses juridiques/15 Note Droit Assurances.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/%F0%9F%93%9C%20Note%20Droit%20Assurances.md) |
 | #81 | Rapport assurance | ✅ Mergée (rebase) | `📊 Rapports/expertise/analyse_strategie_assurance.md` |
-| #82 | Ordonnance référé | ✅ Déjà mergée | [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/07 ⚖️ Projet Ordonnance Refere.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md) |
-| #83 | Réquisitoire introductif (token) | ✅ Mergée (rebase + force push) | [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) |
+| #82 | Ordonnance référé | ✅ Déjà mergée | [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/07 ⚖️ Projet Ordonnance Refere.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md) |
+| #83 | Réquisitoire introductif (token) | ✅ Mergée (rebase + force push) | [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) |
 | #84 | Mémoire défense adverse (token) | ✅ Mergée (rebase) | [⚖️ Actes/🔑 Token/📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/99%20%F0%9F%9B%A1%EF%B8%8F%20Memoire%20en%20defense%20adverse.md) |
 
 ### Génération reel (#83, #84)

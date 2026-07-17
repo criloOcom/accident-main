@@ -25,23 +25,23 @@ Date: 2026-07-12 14:37
 
 ── Fichiers Token à renommer : 69 ──
   ✓  ⚖️ Actes proceduraux/01 ⚖️ Assignation.md
-       → ⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md
   ✓  ⚖️ Actes proceduraux/02 🚔 Plainte.md
-       → ⚖️ Actes proceduraux/🚔 Plainte Defaut Assurance RC.md
+       → ⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md
   ✓  ⚖️ Actes proceduraux/02b 🛡️ Constitution Partie Civile.md
-       → ⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md
+       → ⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md
   ✓  ⚖️ Actes proceduraux/03 🔍 Assignation Article 145.md
-       → ⚖️ Actes proceduraux/🔍 Requete Article 145 CPC.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/🔍 Requete Article 145 CPC.md
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau.md
-       → ⚖️ Actes proceduraux/📑 Bordereau Unifie.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/📑 Bordereau Unifie.md
   ✓  ⚖️ Actes proceduraux/05 🎯 Conclusions Refere.md
-       → ⚖️ Actes proceduraux/🎯 Conclusions Refere Provision.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/🎯 Conclusions Refere Provision.md
   ✓  ⚖️ Actes proceduraux/06 📸 Requete Constat Huissier.md
-       → ⚖️ Actes proceduraux/📸 Requete Constat Huissier.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/📸 Requete Constat Huissier.md
   ✓  ⚖️ Actes proceduraux/07 ⚖️ Projet Ordonnance Refere.md
-       → ⚖️ Actes proceduraux/⚖️ Projet Ordonnance Refere.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Projet Ordonnance Refere.md
   ✓  ⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md
-       → ⚖️ Actes proceduraux/⚖️ Requisitoire introductif.md
+       → ⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md
   ✓  ✉️ Courriers/03 ✉️ Courrier SAS.md
        → ✉️ Courriers/✉️📜 SAS.md
   ✓  ✉️ Courriers/04 ✉️ Courrier Assureur.md
@@ -165,27 +165,27 @@ Date: 2026-07-12 14:37
 
 ── Fichiers Reel à renommer : 71 ──
   ✓  ⚖️ Actes proceduraux/01 ⚖️ Assignation.md
-       → ⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md
   ✓  ⚖️ Actes proceduraux/02 🚔 Plainte.md
-       → ⚖️ Actes proceduraux/🚔 Plainte Defaut Assurance RC.md
+       → ⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md
   ✓  ⚖️ Actes proceduraux/02b 🛡️ Constitution Partie Civile.md
-       → ⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md
+       → ⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md
   ✓  ⚖️ Actes proceduraux/03 🔍 Assignation Article 145.md
-       → ⚖️ Actes proceduraux/🔍 Requete Article 145 CPC.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/🔍 Requete Article 145 CPC.md
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau Audience.md
        → ⚖️ Actes proceduraux/J+38 📑 Bordereau Audience.md
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau de pieces.md
        → ⚖️ Actes proceduraux/J+47 📑 Bordereau de pieces.md
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau.md
-       → ⚖️ Actes proceduraux/📑 Bordereau Unifie.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/📑 Bordereau Unifie.md
   ✓  ⚖️ Actes proceduraux/05 🎯 Conclusions Refere.md
-       → ⚖️ Actes proceduraux/🎯 Conclusions Refere Provision.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/🎯 Conclusions Refere Provision.md
   ✓  ⚖️ Actes proceduraux/06 📸 Requete Constat Huissier.md
-       → ⚖️ Actes proceduraux/📸 Requete Constat Huissier.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/📸 Requete Constat Huissier.md
   ✓  ⚖️ Actes proceduraux/07 ⚖️ Projet Ordonnance Refere.md
-       → ⚖️ Actes proceduraux/⚖️ Projet Ordonnance Refere.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Projet Ordonnance Refere.md
   ✓  ⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md
-       → ⚖️ Actes proceduraux/⚖️ Requisitoire introductif.md
+       → ⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md
   ✓  ✉️ Courriers/03 ✉️ Courrier SAS.md
        → ✉️ Courriers/✉️📜 SAS.md
   ✓  ✉️ Courriers/04 ✉️ Courrier Assureur.md
@@ -308,8 +308,8 @@ Date: 2026-07-12 14:37
        → 🗂️ Organisation/✅ Checklist Envoi 11-07.md
 
 ── Fichiers exclus (brouillons / 99) ──
-  ⊘ ⚖️ Actes proceduraux/16 ⚠️ Signalement Parquet Fraud.md
-  ⊘ ⚖️ Actes proceduraux/17 ⚖️ Requete Mandataire Ad Hoc.md
+  ⊘ ⚖️ Actes proceduraux/👮 Contentieux penal/16 ⚠️ Signalement Parquet Fraud.md
+  ⊘ ⚖️ Actes proceduraux/📜 Contentieux civil/17 ⚖️ Requete Mandataire Ad Hoc.md
   ⊘ 📂 Preuves officielles/01 📁 Dossier UMJ Preparation.md
   ⊘ 📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md
   ⊘ 🗂️ Organisation/06 📋 Synthese des Actions et Audits.md

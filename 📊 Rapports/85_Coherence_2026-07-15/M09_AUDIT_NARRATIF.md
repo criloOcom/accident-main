@@ -38,7 +38,7 @@ Total des anomalies : 99
 
 ### II.1 — CRITIQUE
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🚔 PV Audition Plainte Complementaire Foix.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 58)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire Foix.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 58)
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 293)
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/📋 Antiseche Orale Plainte.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 39)
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md` : Fuite de nom réel (Djerbi) dans un fichier Token (ligne 13)
@@ -60,10 +60,10 @@ Total des anomalies : 99
 
 ### II.2 — MAJEUR
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮‍♂️ PV Audition Plainte Complementaire.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 44)
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Conclusions au Fond TJ Foix.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 53)
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Conclusions au Fond TJ Foix.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 53)
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/MEMO_AUDIENCE_31072026.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 24)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ PV Audition Plainte Complementaire.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 44)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 53)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 53)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 24)
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 190)
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/📋 Checklist Deplacement Foix.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 404)
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/📋 Antiseche Orale Plainte.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 224)
@@ -101,10 +101,10 @@ Total des anomalies : 99
 
 ### II.3 — MINEUR
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 82)
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🚔 PV Audition Plainte Complementaire Foix.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 54)
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Ordonnance sur Requete Art. 145 CPC.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 44)
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/MEMO_AUDIENCE_31072026.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 24)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 82)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire Foix.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 54)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Ordonnance sur Requete Art. 145 CPC.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 44)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 24)
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ FGTI Saisine.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 51)
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ CPAM Recours Tiers.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 53)
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ TJ Foix Preuves Complementaires.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 52)

@@ -52,8 +52,8 @@ L'expression "suite à" est une faute de français (calque administratif). Elle 
 - [ ] `⚖️ Actes/🔑 Token/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md` — ligne 60
 - [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/Fiche Reflexe 48h Disparition SAS.md` — lignes 39, 58
 - [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/22 📋 Modif Email Maire Foix.md` — lignes 31, 37
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/16 ⚠️ Signalement Parquet Fraud.md` — lignes 29, 37
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮‍♂️ PV Audition Plainte Complementaire.md` — ligne 66
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/16 ⚠️ Signalement Parquet Fraud.md` — lignes 29, 37
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ PV Audition Plainte Complementaire.md` — ligne 66
 
 ### II.3 — MINEUR (Ponctuation)
 
