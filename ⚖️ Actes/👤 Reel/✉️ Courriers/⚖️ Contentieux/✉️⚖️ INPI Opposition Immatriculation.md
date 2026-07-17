@@ -43,7 +43,7 @@ Il existe de sérieuses raisons de penser que la société [SAS LES MAUVAIS GARC
 
 ## II — FONDEMENTS JURIDIQUES
 
-### A. Pouvoir du ministère public et de tout intéressé
+### II.1 — Pouvoir du ministère public et de tout intéressé
 
 > *« À la demande de tout intéressé ou du ministère public, le président du tribunal, statuant en référé, peut enjoindre sous astreinte au dirigeant de toute personne morale de procéder au dépôt des pièces et actes au registre du commerce et des sociétés auquel celle-ci est tenue par des dispositions législatives ou réglementaires. »* <br>
 > [Article L.123-5-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291) <br>
@@ -55,7 +55,7 @@ Il manifeste également la volonté du législateur de confier au ministère pub
 
 Par la présente, je sollicite que le Parquet soit saisi pour exercer ce pouvoir.
 
-### B. Droit d'action de tout intéressé
+### II.2 — Droit d'action de tout intéressé
 
 > *« Faute par un commerçant personne physique de requérir son immatriculation dans le délai prescrit, le juge commis soit d'office, soit à la requête du procureur de la République ou de toute personne justifiant y avoir intérêt, rend une ordonnance lui enjoignant, le cas échéant sous astreinte, de demander son immatriculation. Dans les mêmes conditions, le juge peut enjoindre, le cas échéant sous astreinte, à toute personne immatriculée au registre du commerce et des sociétés [...] de faire procéder [...] à la radiation. »* <br>
 > [Article L.123-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422) <br>
@@ -63,7 +63,7 @@ Par la présente, je sollicite que le Parquet soit saisi pour exercer ce pouvoir
 
 Cet article permet à un tiers justifiant d'un intérêt légitime — ici [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), créancière d'une obligation indemnitaire — de solliciter du juge commis à la surveillance du registre qu'il enjoigne aux dirigeants de régulariser l'immatriculation ou de procéder à la radiation de toute inscription irrégulière.
 
-### C. Fraus omnia corrumpit
+### II.3 — Fraus omnia corrumpit
 
 La maxime "la fraude corrompt tout" est un principe général du droit français permettant de faire échec à tout acte juridique entaché de fraude, y compris une demande d'immatriculation.
 

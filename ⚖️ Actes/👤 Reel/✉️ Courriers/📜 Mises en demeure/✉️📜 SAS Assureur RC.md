@@ -51,8 +51,11 @@ Cet accident a entraîné une section complète du tendon fléchisseur profond (
 Une expertise médicale judiciaire a depuis été réalisée. Par rapport en date du 12 juin 2027, l'expert retient notamment :
 
 - une consolidation de mon état au 1er mars 2027 ;
+
 - un Déficit Fonctionnel Permanent (DFP) de 12 % ;
+
 - des Souffrances Endurées (SE) cotées à 4/7 ;
+
 - une incidence professionnelle majeure, compte tenu de ma profession d'informaticien indépendant et de l'atteinte de ma main dominante.
 
 Sur la base de ces éléments, mon préjudice corporel (préjudices patrimoniaux et extra-patrimoniaux) est évalué, selon la nomenclature Dintilhac, dans une fourchette globale de l'ordre de **120 000 € à 160 000 €**, dont environ **49 231 €** au titre des seuls préjudices extra-patrimoniaux (DFP, SE, IP, préjudice esthétique et d'agrément).
@@ -85,9 +88,13 @@ En application de ce texte, je vous mets donc formellement en demeure, en votre 
 Je joins à la présente, pour bonne information :
 
 - copie du procès-verbal de police relatif à l'accident ;
+
 - copie du certificat médical initial du 29 mai 2026 ;
+
 - copie du compte-rendu opératoire du 30 mai 2026 ;
+
 - copie du rapport d'expertise médicale du 12 juin 2027 ;
+
 - copie de ma [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) et des actes de procédure déjà engagés ([référé provision](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md), [ordonnance sur requête art. 145 CPC](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md)).
 
 À défaut de réponse écrite et motivée de votre part dans le délai de 30 jours, ou en cas de refus injustifié de garantie, je me verrai contraint de faire valoir l'ensemble de mes droits devant les juridictions compétentes, tant civiles que pénales, en sollicitant notamment l'extension des investigations aux conditions d'assurance de la société [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et la mise en cause de votre responsabilité d'assureur au titre de l'action directe.
@@ -106,7 +113,9 @@ Ce courrier est une **simulation** reprenant la structure du draft fourni par l'
 
 **Calibrage :**
 - Provision : 15 000 € (identique à la CPC et au référé)
+
 - Délai de réponse : 30 jours (conforme à l'usage en matière d'assurance)
+
 - Fourchette globale : 120 000 — 160 000 € (conforme au rapport d'expertise et à l'avis Dintilhac externe)
 
 **Variante avocat :** une version "avocat" peut être générée sur demande, avec en-tête au barreau, ton plus incisif, et volet "réserve d'intérêts et de droits" renforcé.
@@ -115,8 +124,11 @@ Ce courrier est une **simulation** reprenant la structure du draft fourni par l'
 
 **Documents liés :**
 - Constitution de Partie Civile consolidée : [`🛡️ Constitution Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
+
 - Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
+
 - Ordonnance de référé provision : [`⚖️ Projet Ordonnance Refere.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)
+
 - Avis Dintilhac externe : [`📊 Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`](../../../../%F0%9F%93%8A%20Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md)
 ## Sources Législation
 

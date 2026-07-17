@@ -21,6 +21,7 @@ type: memory
 > **Phase 27 ✅** Vérification JURITEXT exhaustive — 8 codes non audités vérifiés via MCP Légifrance-prod
 > **Phase 28 ✅** Avis Dintilhac externe — Rapport + tokens financiers mis à jour (✅ TERMINÉ)
 > **Phase 29 ✅** Migration HB BARBER — tokens, scripts, 3 documents Foix Reel/Token, frise, mémo stratégie bailleur (✅ 17/07)
+> **Phase 30 ✅** Erratum Correction Identité Société — document maître, mise à jour des 4 documents Foix, régénération Reel, correction des sections visant LMG (✅ 17/07)
 > 
 > ## Phase 21 — Navigation Interactive Cross-Document (13 juillet 2026) ✅ [TERMINÉ]
 

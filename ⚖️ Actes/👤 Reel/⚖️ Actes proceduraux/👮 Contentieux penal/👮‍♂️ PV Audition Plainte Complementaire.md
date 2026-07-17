@@ -1,25 +1,27 @@
 ---
-title: "Procès-Verbal d'Audition — Plainte Complémentaire n°2026/015967-B"
-description: "PV d'audition de la victime pour plainte complémentaire (obstruction, destruction de preuves)"
+title: Procès-Verbal d'Audition — Plainte Complémentaire n°2026/015967-B
+description: PV d'audition de la victime pour plainte complémentaire (obstruction,
+  destruction de preuves)
 type: acte_procedural
 date: 2026-07-15
 tags:
-  - pv
-  - audition
-  - plainte
-  - complémentaire
-  - obstruction
-  - police
+- pv
+- audition
+- plainte
+- complémentaire
+- obstruction
+- police
 statut: final
 auteur: Commissariat de Foix
 destinataire: Procureur de la République
 personnes:
-  - "Sébastien GRAZIDE"
+- 'Sébastien GRAZIDE'
 jx: J+47
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ PV Audition Plainte Complementaire.md
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 👮 Contentieux penal › 👮‍♂️ PV Audition Plainte Complementaire*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 👮 Contentieux penal › 👮‍♂️ PV Audition Plainte Complementaire*
 <!-- /Breadcrumb -->
 
 # PROCÈS-VERBAL D'AUDITION

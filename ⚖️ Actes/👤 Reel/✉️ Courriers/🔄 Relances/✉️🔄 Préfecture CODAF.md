@@ -43,7 +43,9 @@ Par courriel du **1er juin 2026**, [Monsieur TAVELLA](../../../../%F0%9F%A7%A0%2
 Victime directe de cet accident — **plaie palmaire profonde de la main droite avec section du tendon fléchisseur, du nerf digital et de l'artère collatérale de l'index droit**, opéré en urgence le 30 mai 2026, **ITT de 56 jours** — je souhaiterais savoir :
 
 1. Si vos services ont **bien été saisis** à la suite du signalement de Monsieur TAVELLA ;
+
 2. Si des **contrôles ont été ou sont envisagés** dans cet établissement ;
+
 3. Et, le cas échéant, si des **décisions administratives** sont déjà intervenues (mesures de police, mises en demeure, procès-verbaux administratifs, etc.).
 
 Je suis conscient que certaines informations peuvent être couvertes par le **secret des enquêtes administratives**. Je vous remercie néanmoins de bien vouloir m'indiquer, dans la mesure de ce qui vous est possible, les suites données à ce signalement, ou à défaut de m'informer que l'instruction est en cours.

@@ -1,13 +1,13 @@
 ---
-title: "📋 23 Gabarit Attestation Pompier SAMU - V1"
-description: "Je soussigné(e) [À compléter],"
+title: 📋 23 Gabarit Attestation Pompier SAMU - V1
+description: Je soussigné(e) [À compléter],
 type: courrier
 date: 2026-06-30
 tags:
-  - dossier
+- dossier
 statut: projet
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/23 📋 Pompier SAMU.md
+reel_path: ../../../👤 Reel/✉️ Courriers/📋 Attestations/📋 Pompier SAMU.md
 source: drive
 drive_id: 1U2TD8Ftkjmtx2f6THDKNC3-1KXFH07KolM9nAN1TJXw
 jx: J+32

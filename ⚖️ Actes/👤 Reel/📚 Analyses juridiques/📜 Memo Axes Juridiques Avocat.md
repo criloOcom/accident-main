@@ -4,6 +4,8 @@ description: "Familles de textes et jurisprudence utiles pour l'avocat — 1 pag
 type: analyse_juridique
 date: 2026-07-17
 statut: final
+auteur: La Victime
+reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Memo Axes Juridiques Avocat.md
 ---
 
 # MÉMO AXES JURIDIQUES
@@ -19,7 +21,7 @@ statut: final
 | **C. pén. art. 121-3** | Principe de la responsabilité pénale — faute simple suffit (imprudence, négligence, manquement obligation sécurité) |
 | **C. pén. art. 223-1** | Mise en danger délibérée d'autrui — bac déjà brisé maintenu en service dans un ERP (condition : violation délibérée d'une obligation de sécurité) |
 
-**Cibles :** Ayoub BENNOURINE (manœuvre dangereuse) + HB BARBER (matériel dangereux maintenu en service)
+**Cibles :** Ayoub BENNOURINE (manœuvre dangereuse) + SAS HB BARBER (matériel dangereux maintenu en service)
 
 <hr><hr>
 
@@ -28,10 +30,10 @@ statut: final
 | Article | Usage |
 |---------|-------|
 | **C. civ. art. 1242 al. 1** | Responsabilité du fait des choses sous garde — présomption de responsabilité du gardien (bac à shampoing = instrument du dommage) — arrêts fondateurs (Cass. ass. plén. 9 mai 1984 - arrêt Desmares ; ch. mixte 28 mars 1997) |
-| **C. civ. art. 1242 al. 5** | Responsabilité du commettant du fait de ses préposés — HB BARBER responsable des fautes du coiffeur |
+| **C. civ. art. 1242 al. 5** | Responsabilité du commettant du fait de ses préposés — SAS HB BARBER responsable des fautes du coiffeur |
 | **C. civ. art. 1240** | Principe général de responsabilité pour faute |
 
-**Gardien identifié :** HB BARBER (SAS) — exploitant au 29/05/2026
+**Gardien identifié :** SAS HB BARBER (SAS) — exploitant au 29/05/2026
 
 <hr><hr>
 
@@ -43,7 +45,7 @@ statut: final
 | **Cass. Com. 20 mai 2003 n°99-17.092 (arrêt SATI)** | Défaut de souscription d'assurance obligatoire = faute détachable du dirigeant |
 | **C. com. art. L.210-6, L.237-2** | Responsabilité en cas de manquement, dissolution |
 
-**Cibles :** Catherine SORROCHE/ANDISSAC (DG commune aux 2 sociétés), Hamza BERGUIGA (président HB BARBER)
+**Cibles :** Catherine ANDISSAC/Catherine ANDISSAC (DG commune aux 2 sociétés), Hamza Hamza El Hachemi BERGUIGA (président SAS HB BARBER)
 
 <hr><hr>
 

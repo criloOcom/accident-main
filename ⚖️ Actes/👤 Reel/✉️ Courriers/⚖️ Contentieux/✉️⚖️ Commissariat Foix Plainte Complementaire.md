@@ -57,7 +57,7 @@ Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le
 
 ## II — FAITS NOUVEAUX CONSTITUTIFS D'INFRACTIONS PÉNALES
 
-### A. BLESSURES INVOLONTAIRES (Articles 222-20 et 121-3 du Code pénal)
+### II.1 — BLESSURES INVOLONTAIRES (Articles 222-20 et 121-3 du Code pénal)
 
 **Fondement juridique :**
 
@@ -93,7 +93,7 @@ Cette blessure a nécessité une **intervention de microchirurgie d'urgence** le
 
 Il appartiendra à l'enquête et, le cas échéant, à la juridiction saisie, de déterminer si les manquements constatés constituent une violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité au sens de l'article 222-20 du Code pénal, ou une autre qualification que les circonstances pourraient justifier.
 
-### B. OBSTRUCTION À LA JUSTICE — ENTRAVE À LA MANIFESTATION DE LA VÉRITÉ (Article 434-4 du Code pénal)
+### II.2 — OBSTRUCTION À LA JUSTICE — ENTRAVE À LA MANIFESTATION DE LA VÉRITÉ (Article 434-4 du Code pénal)
 
 **Fondement juridique :**
 
@@ -129,7 +129,7 @@ Or, à défaut d'intervention spécifique, les enregistrements de vidéosurveill
 
 Il appartiendra à l'enquête de déterminer si ces comportements sont constitutifs de l'infraction prévue à l'article 434-4 du Code pénal.
 
-### C. TRAVAIL DISSIMULÉ — SIGNALEMENT SECONDAIRE (Articles L. 8221-1 et L. 8221-3 du Code du travail)
+### II.3 — TRAVAIL DISSIMULÉ — SIGNALEMENT SECONDAIRE (Articles L. 8221-1 et L. 8221-3 du Code du travail)
 
 **Fondement juridique :**
 
@@ -158,7 +158,7 @@ Ces éléments me laissent craindre l'existence de faits de travail dissimulé, 
 
 Au vu des éléments ci-dessus exposés, je sollicite respectueusement qu'il soit procédé, dans la mesure du possible, aux vérifications suivantes, sans préjudice de toute investigation que vous jugeriez utile.
 
-### 1. Conservation et exploitation des éléments de preuve
+### III.1 — Conservation et exploitation des éléments de preuve
 
 - Qu'il soit recherché si des enregistrements de vidéosurveillance relatifs à la période de l'accident sont encore disponibles auprès de l'exploitant, et, dans l'affirmative, qu'ils soient conservés et versés à la procédure afin de documenter précisément la scène.
 
@@ -166,7 +166,7 @@ Au vu des éléments ci-dessus exposés, je sollicite respectueusement qu'il soi
 
 - Qu'il soit pris acte des difficultés rencontrées pour joindre les dirigeants (courriers recommandés revenus NPAI, société déclarée active mais injoignable à l'adresse officielle) en tant qu'éléments de contexte sur l'accès aux preuves et aux informations.
 
-### 2. Identification des personnes responsables et du cadre d'exploitation
+### III.2 — Identification des personnes responsables et du cadre d'exploitation
 
 - Qu'il puisse être procédé à l'audition des personnes travaillant ou ayant travaillé dans le salon, afin de préciser leurs fonctions, leurs conditions d'emploi et leur rôle au moment de l'accident.
 
@@ -174,7 +174,7 @@ Au vu des éléments ci-dessus exposés, je sollicite respectueusement qu'il soi
 
 - Qu'il soit recherché l'existence et les coordonnées de l'assureur en responsabilité civile de l'établissement, et, le cas échéant, les déclarations de sinistre éventuellement effectuées à la suite de l'accident.
 
-### 3. Vérification des conditions matérielles de sécurité
+### III.3 — Vérification des conditions matérielles de sécurité
 
 - Qu'un constat puisse être réalisé, si cela est encore possible, de l'état de la vasque de shampooing et des équipements en place (ou de ceux qui les ont remplacés), ainsi que des éventuelles réparations ou modifications intervenues depuis l'accident.
 
@@ -208,7 +208,7 @@ Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière
 - **Liste chronologique des démarches** — **À VERSER**
 <hr><hr>
 
-## V — FONDEMENTS JURIDIQUES RÉCAPITULATIFS
+## IV — FONDEMENTS JURIDIQUES RÉCAPITULATIFS
 
 | Infraction | Article | Peine encourue | Élément matériel |
 |-----------|---------|----------------|------------------|
@@ -217,7 +217,7 @@ Le cas échéant, des pistes d'enquête plus détaillées (notamment en matière
 | Travail dissimulé (signalement) | Art. L. 8221-1[^4] + L. 8221-3[^5] CT | 3 ans + 45k€ | Réouverture, absence déclaration salariés |
 <hr><hr>
 
-## VI — DEMANDES SPÉCIFIQUES
+## V — DEMANDES SPÉCIFIQUES
 
 Je sollicite également :
 
@@ -234,7 +234,7 @@ Je sollicite également :
 4. **La possibilité de déposer** les pièces jointes en version numérique (clé USB) pour faciliter leur traitement.
 <hr><hr>
 
-## VII — DÉCLARATION SUR L'HONNEUR
+## VI — DÉCLARATION SUR L'HONNEUR
 
 Je déclare sur l'honneur que les faits exposés dans la présente plainte sont exacts et conformes à la réalité. Je suis conscient(e) que toute déclaration mensongère peut entraîner des poursuites pénales pour faux témoignage (Article 441-7 du Code pénal).
 
@@ -249,9 +249,9 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de P
 [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
-## ANNEXE 1 : RÉFÉRENCES JURIDIQUES COMPLÈTES
+## VII — ANNEXE 1 : RÉFÉRENCES JURIDIQUES COMPLÈTES
 
-### Code pénal
+### VII.1 — Code pénal
 
 - **Article 222-20**[^1] : Blessures involontaires par violation manifestement délibérée d'une obligation de prudence/sécurité (ITT ≤ 3 mois)
 
@@ -261,7 +261,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de P
 
 - **Article 441-7**[^7] : Faux témoignage
 
-### Code du travail
+### VII.2 — Code du travail
 
 - **Article L. 4121-1**[^8] : Obligation générale de sécurité de l'employeur
 
@@ -269,13 +269,13 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de P
 
 - **Article L. 8221-3**[^5] : Définition du travail dissimulé par dissimulation d'activité
 
-### Code des assurances
+### VII.3 — Code des assurances
 
 - **Article L. 124-3**[^9] : Action directe de la victime contre l'assureur
 
 - **Article L. 113-2**[^10] : Obligation de déclaration de sinistre
 
-### Code de procédure pénale
+### VII.4 — Code de procédure pénale
 
 - **Article 15-3**[^6] : Information de la victime sur les suites données
 
@@ -284,7 +284,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de P
 - **Article 75**[^12] : Enquête de flagrance
 <hr><hr>
 
-## ANNEXE 2 : CHRONOLOGIE DES FAITS
+## VIII — ANNEXE 2 : CHRONOLOGIE DES FAITS
 
 | Date | Événement | Preuve |
 |------|-----------|--------|
@@ -300,11 +300,11 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur l'Officier de P
 | 15/07/2026 | Présente plainte complémentaire | Récépissé Commissariat |
 <hr><hr>
 
-## ANNEXE 3 : PISTES D'ENQUÊTE COMPLÉMENTAIRES
+## IX — ANNEXE 3 : PISTES D'ENQUÊTE COMPLÉMENTAIRES
 
 Les éléments ci-après sont proposés à titre de suggestions pour l'enquête, sans préjudice de l'appréciation souveraine de l'Officier de Police Judiciaire et du Procureur de la République sur les investigations utiles.
 
-### 1. Vérification détaillée de l'établissement
+### IX.1 — Vérification détaillée de l'établissement
 
 - [ ] 1.1. Constatation sur place de l'état des locaux du salon « SAS LES MAUVAIS GARCONS » (configuration des postes de coiffure, emplacement du poste de télévision, circulation du public).
 
@@ -314,7 +314,7 @@ Les éléments ci-après sont proposés à titre de suggestions pour l'enquête,
 
 - [ ] 1.4. Contrôle sur place de l'affichage légal obligatoire (coordonnées de l'exploitant, registre du personnel, consignes de sécurité, informations sur l'assurance RC, etc.).
 
-### 2. Recherche et conservation des enregistrements de vidéosurveillance
+### IX.2 — Recherche et conservation des enregistrements de vidéosurveillance
 
 - [ ] 2.1. Identification des dispositifs de vidéosurveillance installés dans le salon (nombre de caméras, zones couvertes, date de mise en service, prestataire éventuel).
 
@@ -324,7 +324,7 @@ Les éléments ci-après sont proposés à titre de suggestions pour l'enquête,
 
 - [ ] 2.4. Recueil des explications de l'exploitant et/ou du prestataire sur les mesures (ou absence de mesures) prises à la suite des demandes de conservation formulées par la victime.
 
-### 3. Identification des personnes physiques impliquées et des conditions d'emploi
+### IX.3 — Identification des personnes physiques impliquées et des conditions d'emploi
 
 - [ ] 3.1. Audition du préposé qui se trouvait sur le bac à shampoing au moment de l'accident, sur ses fonctions, son statut (salarié, stagiaire, aide non déclarée, etc.) et ses consignes de travail.
 
@@ -334,7 +334,7 @@ Les éléments ci-après sont proposés à titre de suggestions pour l'enquête,
 
 - [ ] 3.4. Recueil des explications des dirigeants sur l'organisation du travail, la répartition des tâches et la présence éventuelle de personnes non déclarées dans l'établissement.
 
-### 4. Contrôle de conformité en matière de sécurité et d'ERP
+### IX.4 — Contrôle de conformité en matière de sécurité et d'ERP
 
 - [ ] 4.1. Vérification de l'existence d'autorisations administratives relatives à l'établissement recevant du public (dossiers d'ouverture, avis de commission de sécurité, éventuels contrôles antérieurs).
 
@@ -342,7 +342,7 @@ Les éléments ci-après sont proposés à titre de suggestions pour l'enquête,
 
 - [ ] 4.4. Examen des éventuelles mesures correctrices prises après l'accident (remplacement du bac, réorganisation de l'installation du téléviseur, ajout d'équipements de sécurité ou de consignes).
 
-### 5. Pistes d'enquête financière et de solvabilité (en lien avec l'indemnisation)
+### IX.5 — Pistes d'enquête financière et de solvabilité (en lien avec l'indemnisation)
 
 - [ ] 5.1. Vérification de la réalité de l'activité économique de la SAS (chiffre d'affaires, volume de clientèle, charges, effectifs), au regard notamment du capital social limité (200 €).
 

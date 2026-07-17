@@ -1,16 +1,19 @@
 ---
-title: "Procès-Verbal de Police — Audition Plainte Complémentaire"
-description: "Document de type document"
+title: Procès-Verbal de Police — Audition Plainte Complémentaire
+description: Document de type document
 type: preuve
 date: 2026-07-15
 tags:
-  - procès-verbal
-  - PV
-  - police
-  - accident
-  - salon de coiffure
-  - obstruction
+- procès-verbal
+- PV
+- police
+- accident
+- salon de coiffure
+- obstruction
 statut: preparation
+reel_path: ../../../👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715
+  PV Police PV Complementaire AccidentSalonCoiffure.md
+auteur: La Victime
 ---
 
 <!-- Breadcrumb -->

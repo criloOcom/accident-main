@@ -50,9 +50,9 @@ J'ai depose plainte en vos services le 1er juin 2026 (PV n° [2026/015967](../..
 
 Je me permets de solliciter de vos services :
 
-### **1. L'ETAT D'AVANCEMENT DE L'ENQUETE** <BR>Je souhaiterais connaitre l'etat d'avancement des investigations et, si possible, une estimation du delai de traitement de la procedure.
+### I.1 — **1. L'ETAT D'AVANCEMENT DE L'ENQUETE** <BR>Je souhaiterais connaitre l'etat d'avancement des investigations et, si possible, une estimation du delai de traitement de la procedure.
 
-### **2. LA REQUISITION DES IMAGES DE VIDEOSURVEILLANCE** <BR>Lors de mon depot de plainte, il a ete mentionne que l'etablissement pourrait etre equipe de cameras de videosurveillance. Ces images, si elles existent, constituent un element de preuve essentiel pour etablir les circonstances exactes de l'accident.
+### I.2 — **2. LA REQUISITION DES IMAGES DE VIDEOSURVEILLANCE** <BR>Lors de mon depot de plainte, il a ete mentionne que l'etablissement pourrait etre equipe de cameras de videosurveillance. Ces images, si elles existent, constituent un element de preuve essentiel pour etablir les circonstances exactes de l'accident.
 
 Je sollicite donc que les images de videosurveillance de l'etablissement soient requises et conservees, conformement a l'Article 77-1-1 du Code de procedure penale.
 
@@ -60,7 +60,7 @@ Je sollicite donc que les images de videosurveillance de l'etablissement soient 
 > [Article 77-1-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052915) <br>
 > **Code de procédure pénale > Chapitre II : De l'enquête préliminaire.[^1]**
 
-### **3. LA COMMUNICATION DE L'IDENTITE DE L'OFFICIER EN CHARGE DU DOSSIER** <BR>Afin de pouvoir suivre l'avancement de la procedure, je souhaiterais connaitre l'identite du ou des officiers de police judiciaire en charge de mon dossier.
+### I.3 — **3. LA COMMUNICATION DE L'IDENTITE DE L'OFFICIER EN CHARGE DU DOSSIER** <BR>Afin de pouvoir suivre l'avancement de la procedure, je souhaiterais connaitre l'identite du ou des officiers de police judiciaire en charge de mon dossier.
 
 Mes coordonnees : [10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md) — Courriel : [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 

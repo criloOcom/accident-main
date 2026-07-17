@@ -1,11 +1,14 @@
 ---
-title: "MÉMO D'AUDIENCE — Référé-Provision du 31/07/2026"
-description: "Note d'audience et de plaidoirie pour le référé-provision devant le Président du Tribunal judiciaire de Foix."
+title: MÉMO D'AUDIENCE — Référé-Provision du 31/07/2026
+description: Note d'audience et de plaidoirie pour le référé-provision devant le Président
+  du Tribunal judiciaire de Foix.
 type: preuve
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md
+auteur: La Victime
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes Proceduraux](../README.md) › 📋 Preparation Foix › MEMO_AUDIENCE_31072026*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🔑 Token](../../README.md) › [⚖️ Actes Proceduraux](../README.md) › 📋 Preparation Foix › MEMO_AUDIENCE_31072026*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -18,7 +21,7 @@ type: preuve
 
 <hr><hr>
 
-### I — RAPPEL TRÈS BREF DES FAITS & DE LA GRAVITÉ DU DOMMAGE
+### I.1 — RAPPEL TRÈS BREF DES FAITS & DE LA GRAVITÉ DU DOMMAGE
 
 * **Date de l'accident :** [Date de l'Accident](../../../🧠%20Memory/STRICT%20VARIABLES.md).
 * **Circonstances :** Effondrement brutal d'une vasque suspendue défectueuse en céramique sur les mains de la victime dans l'établissement commercial de [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-nom.md).
@@ -28,7 +31,7 @@ type: preuve
 
 <hr><hr>
 
-### II — L'ABSENCE DE CONTESTATION SÉRIEUSE (FONDEMENT ART. 835 AL. 2 CPC)
+### I.2 — L'ABSENCE DE CONTESTATION SÉRIEUSE (FONDEMENT ART. 835 AL. 2 CPC)
 
 * La société [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-nom.md) avait la garde de la vasque en céramique (responsabilité de plein droit de l'art. 1242 al. 1 du Code civil).
 * Aucune cause étrangère exonératoire (pas de force majeure, pas de fait de la victime).
@@ -36,7 +39,7 @@ type: preuve
 
 <hr><hr>
 
-### III — LA PROPORTIONNALITÉ DE LA PROVISION DE 15 000 €
+### I.3 — LA PROPORTIONNALITÉ DE LA PROVISION DE 15 000 €
 
 * **Chiffrage barémique Dintilhac (Rapport du 13/07/2026 - Pièce n° 44) :**
   * **Scénario Prudent (DFP 10 %) :** Préjudice global chiffré à **126 000 €**.
@@ -48,7 +51,7 @@ type: preuve
 
 <hr><hr>
 
-### IV — LES PIÈCES CLÉS À PLAIDER À LA BARRE
+### I.4 — LES PIÈCES CLÉS À PLAIDER À LA BARRE
 
 1. **Pièce n° 1 :** Compte-rendu opératoire en urgence (SOS Main) — établit la matérialité et la gravité immédiate.
 2. **Pièce n° 8 :** Certificats médicaux d'ITT (56 jours cumulés).

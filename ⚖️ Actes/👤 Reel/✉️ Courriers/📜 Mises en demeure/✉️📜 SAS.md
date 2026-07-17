@@ -1,17 +1,17 @@
 ---
-title: "📜 Mise en Demeure — Déclaration d'Accident Corporel et Demande d'Information"
-description: "L'Adresse de la Victime"
+title: 📜 Mise en Demeure — Déclaration d'Accident Corporel et Demande d'Information
+description: L'Adresse de la Victime
 type: courrier
 date: 2026-06-29
 tags:
-  - mise en demeure
-  - SAS
-  - assurance
-  - LRAR
+- mise en demeure
+- SAS
+- assurance
+- LRAR
 statut: envoye
 destinataire: L'Exploitant du Commerce (La SAS)
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/03 ✉️ Courrier SAS.md
+reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS.md
 source: drive
 drive_id: 1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc
 jx: J+31
@@ -43,7 +43,7 @@ Objet : Déclaration d'accident corporel — Demande d'information assurance RC 
 Réf : Dossier [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) / [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
 Madame, Monsieur,
-## INTRODUCTION
+## I — INTRODUCTION
 
 La présente lettre de mise en demeure est adressée par [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) afin de déclarer officiellement l'accident corporel survenu le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
 

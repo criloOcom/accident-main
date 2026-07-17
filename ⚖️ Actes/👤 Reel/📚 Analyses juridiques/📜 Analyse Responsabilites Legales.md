@@ -23,7 +23,7 @@ jx: J+32
 # ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE [**[L'EXPLOITANT DU COMMERCE (LA SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 > 🔗 Source Google Drive : [1lUKoGE8kozm…](https://drive.google.com/open?id=1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34)
 Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
-## INTRODUCTION
+## I — INTRODUCTION
 
 L'analyse approfondie du dossier relatif à l'accident survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein de l'établissement exploité par [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — au cours duquel [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), informaticien indépendant, a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes — permet de dégager deux axes de responsabilité majeurs.
 
@@ -34,7 +34,7 @@ L'analyse approfondie du dossier relatif à l'accident survenu le [29 mai 2026](
 Cette note vise à structurer les fondements juridiques permettant d'assurer la réparation intégrale du préjudice subi.
 <hr><hr>
 
-## I — LA RESPONSABILITÉ PÉNALE POUR BLESSURES INVOLONTAIRES
+## II — LA RESPONSABILITÉ PÉNALE POUR BLESSURES INVOLONTAIRES
 
 Le salon est susceptible de voir sa responsabilité engagée sur le fondement de l'article 222-20 du Code pénal.
 
@@ -46,7 +46,7 @@ Ce texte réprime les blessures involontaires ayant entraîné une ITT inférieu
 
 En l'espèce, la section nerveuse et tendineuse profonde de l'index droit de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a entraîné une ITT de 56 jours.
 
-### A. MANQUEMENT À L'OBLIGATION DE SÉCURITÉ ET DE PRUDENCE
+### II.1 — MANQUEMENT À L'OBLIGATION DE SÉCURITÉ ET DE PRUDENCE
 
 En maintenant en service un équipement lourd (une vasque en céramique) présentant une cassure majeure et tranchante préexistante, sans signalisation ni protection, l'établissement a failli à son obligation générale de sécurité des produits et services régie par l'article L. 421-3 du Code de la consommation.
 
@@ -56,7 +56,7 @@ En maintenant en service un équipement lourd (une vasque en céramique) présen
 
 Ce défaut d'entretien constitue un danger manifeste pour le public.
 
-### B. L'IMPRUDENCE CARACTÉRISÉE DU PRÉPOSÉ
+### II.2 — L'IMPRUDENCE CARACTÉRISÉE DU PRÉPOSÉ
 
 Le comportement de [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md), consistant à monter physiquement sur la structure instable du meuble, est le fait générateur direct du dommage.
 
@@ -67,11 +67,11 @@ En vertu de l'article 121-3 du Code pénal, cette maladresse expose les dirigean
 > **Code pénal > Partie législative > Livre Ier : Dispositions générales > Titre III : La criminalité et la délinquance, les sanctions pénales et certaines mesures de sûreté > Chapitre Ier : De la responsabilité des personnes physiques.[^3]**
 <hr><hr>
 
-## II — LA RESPONSABILITÉ CIVILE DE PLEIN DROIT
+## III — LA RESPONSABILITÉ CIVILE DE PLEIN DROIT
 
 Sur le plan civil, la SAS est tenue de réparer les dommages causés sans qu'il soit nécessaire de prouver une intention de nuire. Cette responsabilité repose sur plusieurs piliers du Code civil.
 
-### A. RESPONSABILITÉ DU FAIT DES CHOSES
+### III.1 — RESPONSABILITÉ DU FAIT DES CHOSES
 
 Conformément à l'article 1242 alinéa 1er du Code civil, on est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des choses que l'on a sous sa garde.
 
@@ -89,13 +89,13 @@ Conformément à l'article 1242 alinéa 1er du Code civil, on est responsable no
 
 En tant que propriétaire du matériel, le salon est présumé responsable des dommages causés par la dangerosité de la vasque défectueuse.
 
-### B. RESPONSABILITÉ DU COMMETTANT DU FAIT DE SES PRÉPOSÉS
+### III.2 — RESPONSABILITÉ DU COMMETTANT DU FAIT DE SES PRÉPOSÉS
 
 En vertu de l'article 1242 alinéa 5 du Code civil, les employeurs sont responsables des dommages causés par leurs préposés dans les fonctions auxquelles ils les ont employés.
 
 La SAS est donc automatiquement responsable de l'imprudence commise par [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) dans l'exercice de sa mission.
 
-### C. LA FAUTE DÉTACHABLE DES DIRIGEANTS
+### III.3 — LA FAUTE DÉTACHABLE DES DIRIGEANTS
 
 La responsabilité personnelle des dirigeants, [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), peut être engagée sur le fondement de l'article 1240 du Code civil.
 
@@ -108,7 +108,7 @@ La responsabilité personnelle des dirigeants, [Sabir MOUNTASSER](../../../%F0%9
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^6]**
 <hr><hr>
 
-## III — IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES
+## IV — IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES
 
 Il convient de noter que le préposé bénéficie d'une immunité civile selon l'arrêt Costedoat (Ass. Plén., 25 fév. 2000), sauf en cas de faute pénale intentionnelle (Arrêt Cousin).
 
@@ -120,7 +120,7 @@ Il convient de noter que le préposé bénéficie d'une immunité civile selon l
 > [Arrêt Cousin](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351) <br>
 > **Cour de cassation, Assemblée plénière, 14 décembre 2001, n° 00-82.066[^8]**
 
-### A. ACTION DIRECTE CONTRE L'ASSUREUR
+### IV.1 — ACTION DIRECTE CONTRE L'ASSUREUR
 
 Le levier le plus efficace demeure l'action directe contre l'assureur RC de la SAS, fondée sur l'article L. 124-3 du Code des assurances, garantissant la réparation intégrale des préjudices (pertes de revenus, préjudice corporel et moral) estimés à ce jour à **~90 000 €** (selon l'étude d'indemnisation détaillée).
 
@@ -128,7 +128,7 @@ Le levier le plus efficace demeure l'action directe contre l'assureur RC de la S
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier.[^9]**
 
-### B. PREUVES ET PROCÉDURES
+### IV.2 — PREUVES ET PROCÉDURES
 
 La consolidation des preuves médicales (comptes rendus du [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)) et matérielles est impérative. En cas de rétention d'informations sur l'assureur, l'article 145 du Code de procédure civile permet de saisir le juge des référés pour obtenir les pièces nécessaires.
 
@@ -136,7 +136,7 @@ La consolidation des preuves médicales (comptes rendus du [Dr Iskander DJERBI](
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 > **Code de procédure civile > Partie législative > Livre II > Titre VII > Section I.[^10]**
 
-### C. OBLIGATION D'INFORMATION DE L'ASSURANCE ET RÉFÉRÉ-COMMUNICATION
+### IV.3 — OBLIGATION D'INFORMATION DE L'ASSURANCE ET RÉFÉRÉ-COMMUNICATION
 
 En vertu de l'article L. 113-2, 4° du Code des assurances, l'assuré (la SAS) a l'obligation légale de déclarer tout sinistre à son assureur dans un délai de 5 jours ouvrés.
 
@@ -163,11 +163,11 @@ Le juge ordonnera alors la communication forcée de l'attestation d'assurance de
 *[Zoom Pédagogique - Le refus de fournir l'assurance est-il légal ? : Non. La loi interdit au responsable de bloquer vos droits. Si le gérant fait obstruction, le tribunal peut le condamner à vous fournir son attestation d'assurance sous peine d'amendes journalières (astreinte). C'est une procédure classique de référé pour vaincre la mauvaise foi.]*
 <hr><hr>
 
-## IV — RECOUVREMENT — QUI PAIE EN CAS D'INSOLVABILITÉ ?
+## V — RECOUVREMENT — QUI PAIE EN CAS D'INSOLVABILITÉ ?
 
 ⚠ **L'exploitant [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) a un [**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) seulement.** Le risque d'insolvabilité est maximal. Voici les voies de recouvrement par ordre de priorité.
 
-### A. ACTION DIRECTE CONTRE L'ASSUREUR RC (L.124-3 C. ASSURANCES)
+### V.1 — ACTION DIRECTE CONTRE L'ASSUREUR RC (L.124-3 C. ASSURANCES)
 
 Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe est **indépendante** de l'action contre l'assuré. Même si la SAS disparaît, l'action subsiste contre l'assureur.
 
@@ -184,7 +184,7 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 
 - Questionnement des dirigeants sous astreinte (art. 145 CPC)
 
-### B. FGTI / CIVI — VOIE PRINCIPALE (ART. 706-3 CPP)
+### V.2 — FGTI / CIVI — VOIE PRINCIPALE (ART. 706-3 CPP)
 
 **Conditions remplies :**
 1. Infraction pénale (blessures involontaires, art. 222-19 CP) — ITT 56 jours > seuil 1 mois ✅
@@ -203,7 +203,7 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 
 - Le FGTI se retourne ensuite contre les responsables (subrogation)
 
-### C. RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS (VOIE SUBSIDIAIRE)
+### V.3 — RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS (VOIE SUBSIDIAIRE)
 
 Faute détachable des fonctions : maintien d'un équipement dangereux, défaut d'assurance RC, dissolution frauduleuse éventuelle. **Difficile à caractériser** mais à tenter.
 
@@ -211,11 +211,11 @@ Faute détachable des fonctions : maintien d'un équipement dangereux, défaut d
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^6]**
 
-### D. SARVI (SERVICE D'AIDE AU RECOUVREMENT)
+### V.4 — SARVI (SERVICE D'AIDE AU RECOUVREMENT)
 
 Si condamnation pénale non exécutée : verse 100 % jusqu'à 1 000 €, 30 % au-delà (max 3 000 €).
 
-### E. ORDRE DES ACTIONS RECOMMANDÉ
+### V.5 — E. ORDRE DES ACTIONS RECOMMANDÉ
 
 1. **Référé-provision** (15 000 €) + communication assurance
 
@@ -228,7 +228,7 @@ Si condamnation pénale non exécutée : verse 100 % jusqu'à 1 000 €, 30 % au
 5. **Constitution partie civile** (voie pénale)
 <hr><hr>
 
-## CONCLUSION
+## VI — CONCLUSION
 
 La responsabilité de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) est solidement établie tant sur le plan civil que pénal. Le montant total estimé de l'indemnisation est de **~105 000 €** (évaluation Dintilhac détaillée).
 

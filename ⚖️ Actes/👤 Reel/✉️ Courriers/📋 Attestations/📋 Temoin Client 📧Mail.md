@@ -42,10 +42,15 @@ Votre témoignage est **très important** car il permettra de :
 **Comment procéder ?**
 
 1. Imprimez l'attestation Cerfa ci-jointe (ou demandez à votre mairie/maison de justice de vous en fournir une — elles sont gratuites)
+
 2. Remplissez-la lisiblement : vos nom, prénom, date et lieu de naissance, adresse, profession
+
 3. Décrivez les faits dans la partie « Exposé des faits » : ce que vous avez vu exactement
+
 4. Signez et datez l'attestation
+
 5. Joignez une copie **recto-verso** de votre pièce d'identité
+
 6. Renvoyez le tout par email (scan ou photo) à l'adresse ci-dessous
 
 **Important :** L'attestation doit être rédigée à la main, datée et signée. La pièce d'identité est obligatoire pour la validité juridique (Article 202 du Code de procédure civile).

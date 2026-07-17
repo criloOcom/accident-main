@@ -20,12 +20,12 @@ jx: J+40
 <!-- /Breadcrumb -->
 
 # NOTE D'ANALYSE JURIDIQUE SPÉCIALE - DROIT DES ASSURANCES
-## INTRODUCTION
+## I — INTRODUCTION
 
 La présente note détaille la stratégie et l'analyse en droit des assurances concernant le litige opposant [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et ses dirigeants, suite à l'accident corporel survenu le 29 mai 2026. Elle aborde la validité de l'action directe, les risques d'exclusion, la prescription, et la stratégie pré-contentieuse d'obtention de provision.
 <hr><hr>
 
-## I — ÉTAT DE L'ACTION DIRECTE (ART. L.124-3 C. ASSUR.)
+## II — ÉTAT DE L'ACTION DIRECTE (ART. L.124-3 C. ASSUR.)
 
 Le principe de l'action directe permet à la victime d'agir directement contre l'assureur de responsabilité civile de l'auteur du dommage, sans passer par le patrimoine de ce dernier.
 
@@ -46,7 +46,7 @@ L'obstacle actuel réside dans la rétention d'informations par [Sabir MOUNTASSE
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.[^3]**
 <hr><hr>
 
-## II — RISQUES D'EXCLUSION DE GARANTIE (ART. L.113-1 C. ASSUR.)
+## III — RISQUES D'EXCLUSION DE GARANTIE (ART. L.113-1 C. ASSUR.)
 
 En matière d'assurance de responsabilité civile, les pertes et dommages occasionnés par un cas fortuit ou causés par la faute de l'assuré sont à la charge de l'assureur. Seule la faute intentionnelle ou dolosive est exclue de plein droit.
 
@@ -57,7 +57,7 @@ En matière d'assurance de responsabilité civile, les pertes et dommages occasi
 **Analyse :** La matérialité des faits (escalade par le préposé et effondrement de la vasque défectueuse) relève de la maladresse, de la négligence ou du manquement à une obligation de sécurité (faute caractérisée ou délictuelle). Elle ne constitue en aucun cas une faute intentionnelle (volonté de créer le dommage tel qu'il s'est réalisé). L'assureur ne peut donc valablement opposer une exclusion de garantie au titre de l'article L. 113-1, ni invoquer l'état d'alcoolémie éventuel du dirigeant, ce dernier n'étant pas l'auteur matériel direct de l'acte, et le dommage restant un accident. Par ailleurs, l'Aléa Législatif (ALD) est inopérant ici, le risque de blessure par équipement défectueux entrant dans les garanties de base de la RC Pro (Responsabilité Civile Professionnelle).
 <hr><hr>
 
-## III — DÉCLARATION DE SINISTRE ET MISE EN DEMEURE (ART. L.113-2 C. ASSUR.)
+## IV — DÉCLARATION DE SINISTRE ET MISE EN DEMEURE (ART. L.113-2 C. ASSUR.)
 
 L'assuré a l'obligation stricte de déclarer le sinistre.
 
@@ -68,7 +68,7 @@ L'assuré a l'obligation stricte de déclarer le sinistre.
 **Conséquences du défaut :** Si [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) n'a pas déclaré le sinistre, l'assureur pourrait théoriquement tenter de lui opposer une déchéance de garantie pour déclaration tardive. Cependant, cette déchéance ne peut être opposée à la victime exerçant son action directe, dont le droit à indemnisation est cristallisé au jour de l'accident. La mise en demeure adressée le 29 mai 2026 par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a vocation à déclencher officiellement l'ouverture du dossier auprès de la compagnie.
 <hr><hr>
 
-## IV — PRESCRIPTION : ART. L.114-1 VS ART. 2226 C. CIV.
+## V — PRESCRIPTION : ART. L.114-1 VS ART. 2226 C. CIV.
 
 Le délai de prescription en droit des assurances est un piège classique, mais inapplicable à la victime corporelle directe.
 
@@ -85,7 +85,7 @@ Le délai de prescription en droit des assurances est un piège classique, mais 
 Ainsi, la prescription de notre action directe est strictement de **dix ans** à compter de la date de consolidation de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (non encore acquise à ce jour).
 <hr><hr>
 
-## V — OFFRE DE L'ASSUREUR ET STRATÉGIE TRANSACTIONNELLE
+## VI — OFFRE DE L'ASSUREUR ET STRATÉGIE TRANSACTIONNELLE
 
 Contrairement à la loi Badinter (L.211-9), la loi n'impose pas de délai strict pour une offre en responsabilité civile générale. Néanmoins, l'obligation de bonne foi contractuelle et la jurisprudence forcent les assureurs à examiner les demandes promptement.
 
@@ -94,7 +94,7 @@ Contrairement à la loi Badinter (L.211-9), la loi n'impose pas de délai strict
 Le montant de compromis validé en interne s'élève à **~85 000 €**, justifiant pleinement la réclamation de la provision de **15 000 €**.
 <hr><hr>
 
-## VI — ARTICULATION AVEC LE RÉFÉRÉ (ART. 835 CPC)
+## VII — ARTICULATION AVEC LE RÉFÉRÉ (ART. 835 CPC)
 
 L'action directe fonde la demande en référé-provision à l'encontre de l'assureur, dès lors que l'obligation d'indemniser n'est pas sérieusement contestable.
 
@@ -102,10 +102,10 @@ L'action directe fonde la demande en référé-provision à l'encontre de l'assu
 > [Article 835](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
 > **Code de procédure civile > Livre Ier > Titre XXI > Chapitre II.[^8]**
 
-Dès l'assureur identifié (suite à l'ordonnance Article 145), il sera mis en cause directement devant le juge des référés pour obtenir le paiement immédiat de la provision et la désignation d'un expert.
+Dès l'assureur identifié (à la suite de l'ordonnance Article 145), il sera mis en cause directement devant le juge des référés pour obtenir le paiement immédiat de la provision et la désignation d'un expert.
 <hr><hr>
 
-## VII — RECOURS SUBROGATOIRE ET ASSURANCES DU DIRIGEANT
+## VIII — RECOURS SUBROGATOIRE ET ASSURANCES DU DIRIGEANT
 
 Après indemnisation, l'assureur de la SAS peut, par l'effet de la subrogation légale, se retourner contre les dirigeants ([Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)) s'il démontre l'existence d'une faute intentionnelle ou d'une faute personnelle détachable de leurs fonctions (dissimulation d'assurance, maintien fautif d'équipements dangereux).
 
@@ -116,7 +116,7 @@ Après indemnisation, l'assureur de la SAS peut, par l'effet de la subrogation l
 Il est donc impératif de rechercher si les dirigeants disposent d'une assurance Responsabilité Civile "Vie Privée" (intégrant parfois une extension chef d'entreprise) ou d'une Assurance Responsabilité des Mandataires Sociaux (RCMS), bien que cela soit très peu probable au vu de la négligence globale ([**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md)).
 <hr><hr>
 
-## ANNEXE : MODÈLE DE LETTRE DE MISE EN DEMEURE À L'ASSUREUR RC
+## IX — ANNEXE : MODÈLE DE LETTRE DE MISE EN DEMEURE À L'ASSUREUR RC
 
 *Ce modèle constitue l'ossature à utiliser dès que l'identité de l'assureur sera obtenue, pour exiger une provision amiable.*
 

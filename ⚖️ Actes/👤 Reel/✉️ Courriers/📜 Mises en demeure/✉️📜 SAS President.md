@@ -1,18 +1,18 @@
 ---
-title: "📜 Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC"
-description: "[L'Adresse de la Victime]** <br>"
+title: 📜 Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC
+description: '[L''Adresse de la Victime]** <br>'
 type: courrier
 date: 2026-06-29
 tags:
-  - mise en demeure
-  - dirigeants
-  - assurance
-  - faute détachable
-  - LRAR
+- mise en demeure
+- dirigeants
+- assurance
+- faute détachable
+- LRAR
 statut: envoye
 destinataire: Dirigeants de l'Exploitant du Commerce
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/06 ✉️ Courrier President DG.md
+reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS President.md
 source: drive
 drive_id: 1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I
 jx: J+31
@@ -42,14 +42,14 @@ Objet : Demande d'information et communication d'assurance — Accident [29 mai 
 Réf : Dossier [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) / [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
 Madame la Directrice Générale, Monsieur le Président,
-## INTRODUCTION
+## I — INTRODUCTION
 
 La présente lettre de mise en demeure est adressée conjointement par [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), en leur qualité de dirigeants de [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md).
 
 **Ce courrier constitue une démarche constructive et préalable à toute action contentieuse, conformément aux obligations légales et à la jurisprudence applicable en matière de responsabilité personnelle des dirigeants.**
 <hr><hr>
 
-## I — RAPPEL DES OBLIGATIONS LÉGALES
+## II — RAPPEL DES OBLIGATIONS LÉGALES
 
 La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions.
 

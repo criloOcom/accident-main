@@ -45,6 +45,9 @@ Rien de ce qui suit n'a été fait le 15 juillet — **les documents ont été p
 - **Mail de relance au bailleur DELRIEU** envoyé (HB BARBER nommé, art. 145 CPC évoqué)
 - **📄 Stratégie bailleur/HB BARBER/certificat CE documentée** → `🧠 Memory/Mémo Stratégie Bailleur HB BARBER.md`
 - **Documents Reel prêts à imprimer** pour dépôt lundi 20/07
+- **📜 Erratum Correction Identité Société** créé (Token + Reel) — déposé lundi + envoyé par LRAR séparée
+- **Documents Foix mis à jour** : Note Personnelle (section HB BARBER recentrée), Projet PV (fin corrigée), Bordereau (ajout erratum pièce n°5), Frise (mention erratum)
+- **Correction Note Personnelle** : section « Maintien investigations LMG » supprimée — LMG laissée tranquille
 
 ### ✅ Seule action terrain réelle — 16 juillet 2026
 - **Visite des lieux** au 22 Rue Lafaurie, Foix
@@ -92,13 +95,24 @@ ni contacter des personnes à ta place.
 | 📄 | **Adresses emails des témoins** à nous communiquer | Avant envoi attestations | ❌ NON FAIT | Moyenne |
 | 📄 | **Email/téléphone Dr DJERBI** à nous communiquer | Avant relance | ❌ NON FAIT | Moyenne |
 
+### ✅ Phase 30 — Erratum Correction Société (17 juillet 2026)
+| # | Action | Statut |
+|---|--------|--------|
+| 📜 | **Erratum formel créé** (Token + Reel) dans `📋 Preparation Foix/📜 Erratum Correction Identite Societe.md` | ✅ FAIT |
+| 📝 | Documents Foix mis à jour : Note Personnelle (recentrée HB BARBER), Projet PV (fin corrigée), Bordereau (pièce n°5), Frise (mention) | ✅ FAIT |
+| 🗑️ | Section « Maintien investigations LMG » supprimée — LMG laissée tranquille | ✅ FAIT |
+| 🔄 | 114 fichiers Reel régénérés | ✅ FAIT |
+| 🖨️ | Erratum inclus dans les documents à imprimer pour lundi (pièce n°5, ~3 p.) | ✅ FAIT |
+| 📬 | Erratum déposé physiquement lundi + envoyé par LRAR séparée | 🔄 À faire lundi |
+
 ### 🔴 ACTIONS À FAIRE — MISE À JOUR 17/07
 
-#### 1. Complément de plainte / correction société (URGENT)
-- [ ] **Retourner au Commissariat de Foix** pour déposer un nouveau PV ou complément
-- [ ] Exposer la confusion initiale sur la société exploitante
-- [ ] Désigner **HB BARBER** comme société potentiellement responsable
-- [ ] Expliquer la continuité entre LES MAUVAIS GARÇONS et HB BARBER (même local, même activité, DG commune)
+#### 1. Complément de plainte / correction société (URGENT) ✅ PRÉPARÉ
+- [x] **Erratum rédigé** — document formel listant tous les actes concernés, expliquant la confusion, corrigeant la cible vers HB BARBER
+- [x] Documents Foix mis à jour pour viser HB BARBER uniquement
+- [x] LMG retirée de toutes les sections (plus de maintien investigations)
+- [ ] **Lundi 20/07** — Déposer l'erratum + plainte complémentaire au Commissariat de Foix
+- [ ] **LRAR séparée** — Envoyer l'erratum par LRAR aux autorités et destinataires concernés
 
 #### 2. Révision de tous les documents préparés
 - [ ] Corriger l'identité de la société défenderesse dans tous les actes (requête 145 CPC, courriers, etc.)
@@ -106,11 +120,12 @@ ni contacter des personnes à ta place.
 - [ ] Soit viser HB BARBER + LES MAUVAIS GARÇONS + dirigeants à titre personnel
 
 #### 3. Actions terrain (quand TU seras prêt)
+- [ ] **Lundi 20/07 — Déposer plainte complémentaire + Erratum** au Commissariat de Foix
 - [ ] **Déposer requête Art. 145 CPC** au TJ Foix + pièces jointes
 - [ ] **Déposer demande AJ totale** au BAJ
-- [ ] **Déposer plainte complémentaire** au Commissariat de Foix
-- [ ] **Envoyer courrier n°41** Préfecture/CODAF
-- [ ] **Envoyer courrier n°42** Inspection du Travail
+- [ ] **Envoyer courrier n°41** Préfecture/CODAF (+ erratum joint)
+- [ ] **Envoyer courrier n°42** Inspection du Travail (+ erratum joint)
+- [ ] **Envoyer erratum par LRAR** aux destinataires des actes corrigés
 
 #### Préparation audience(s) (avant date fixée)
 - [ ] Attendre la désignation de l'avocat par le BAJ (AJ totale couvre référé-provision + suite)

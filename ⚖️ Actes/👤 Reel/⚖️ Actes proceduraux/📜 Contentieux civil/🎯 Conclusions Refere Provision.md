@@ -13,11 +13,11 @@ tags:
 statut: final
 destinataire: Juge des Référés du Tribunal Judiciaire
 auteur: La Victime
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/🎯 Conclusions Refere Provision.md
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/🎯 Conclusions Refere Provision.md
 jx: J+39
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 📜 Contentieux civil › 🎯 Conclusions Refere Provision*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 📜 Contentieux civil › 🎯 Conclusions Refere Provision*
 <!-- /Breadcrumb -->
 
 # AU JUGE DES RÉFÉRÉS DU TRIBUNAL JUDICIAIRE
@@ -38,7 +38,7 @@ jx: J+39
 
 *Défenderesse*
 ## I — EXPOSÉ DU LITIGE
-### A. LE SINISTRE ET SES CONSÉQUENCES MATÉRIELLES
+### I.1 — LE SINISTRE ET SES CONSÉQUENCES MATÉRIELLES
 
 Le **29 mai 2026**, aux environs de 15 heures, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), informaticien indépendant âgé de [**[Âge de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-age.md), se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
 
@@ -58,26 +58,26 @@ Cet heurt a entraîné :
 
 Une intervention chirurgicale a été réalisée en urgence le 30 mai 2026 par un chirurgien spécialisé en chirurgie de la main. L'**incapacité temporaire totale de travail (ITT)** a été fixée médicalement à **cinquante-six jours**, du 29 mai 2026 au 23 juillet 2026.
 
-### B. LA PREUVE DU RISQUE ET DU DOMMAGE
+### I.2 — LA PREUVE DU RISQUE ET DU DOMMAGE
 
-#### a) Présence de la victime sur les lieux
+#### I.2.a — Présence de la victime sur les lieux
 Le paiement électronique (Wero) de 15,00 € effectué par la victime au salon le jour même, puis remboursé par le salon postérieurement à l'accident, constitue une preuve irréfutable de la présence de la victime et de la relation contractuelle.
 
-#### b) Le procès-verbal de police
+#### I.2.b — Le procès-verbal de police
 Le commissariat de police a dressé le procès-verbal n°2026/015967 qui confirme le basculement de la vasque. Ce procès-verbal constitue une pièce décisive établissant le mécanisme de l'accident.
 
-#### c) Le constat d'huissier
+#### I.2.c — Le constat d'huissier
 Par l'intermédiaire d'un huissier de justice, il a été constaté la présence d'une **cassure majeure préexistante** sur la vasque, présentant des arêtes tranchantes constituant un danger manifeste pour toute personne se trouvant à proximité. Ce vice de la chose était **indécelable de l'extérieur** et n'avait fait l'objet d'aucune signalisation.
 
-#### d) L'absence d'équipement
+#### I.2.d — L'absence d'équipement
 Il n'existait dans le salon **aucun équipement d'accès en hauteur** (pas d'escabeau, pas d'échelle, pas de marchepied). Cette carence structurelle a contraint le préposé à emprunter la vasque, créant la condition même de l'accident.
 <hr><hr>
 
 ## II — DISCUSSION JURIDIQUE
 
-### A. CARACTÈRE NON CONTESTABLE DE L'OBLIGATION
+### II.1 — CARACTÈRE NON CONTESTABLE DE L'OBLIGATION
 
-#### 1. Faute caractérisée
+#### II.1.a — Faute caractérisée
 Violation des obligations de sécurité (articles 1240 CC et R. 4323-58 et suivants du Code du travail)**
 
 L'absence d'équipement d'accès en hauteur (escabeau, marchepied, échelle) constitue une violation des articles R. 4323-58 et suivants du Code du travail, qui imposent à l'employeur de mettre à disposition des travailleurs les équipements nécessaires à la réalisation des travaux en hauteur. 
@@ -90,7 +90,7 @@ Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code ci
 > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
 > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.[^1]**
 
-#### 2. Responsabilité du fait des choses
+#### II.1.b — Responsabilité du fait des choses
 
 Au sens de l'article 1242 alinéa 1er du Code civil, « on est responsable […] du dommage […] causé […] par le fait des choses que l'on a sous sa garde ». La société défenderesse est gardienne de la vasque en céramique installée dans son salon.
 
@@ -110,7 +110,7 @@ Par ailleurs, la **cassure préexistante** constitue un **vice inhérent** de la
 > [Arrêt n°74-10.466](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485) <br>
 > **Cour de cassation, 2e chambre civile, 5 mai 1975, n° 74-10.466[^3]**
 
-#### 3. Responsabilité du commettant du fait du préposé
+#### II.1.c — Responsabilité du commettant du fait du préposé
 
 Aux termes de l'article 1242 alinéa 5 du Code civil, « les maîtres et les commettants […] du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés ».
 
@@ -118,7 +118,7 @@ Le coiffeur préposé agissait bien au service de l'exploitation du salon en ten
 
 L'Assemblée plénière de la Cour de cassation, dans l'arrêt Costedoat (25 février 2000, n° 97-17.378), a rappelé que le préposé bénéficie de l'immunité civile lorsqu'il agit dans les limites de sa mission. La responsabilité incombe alors exclusivement au commettant.
 
-#### 4. Faute aggravée de l'exploitant
+#### II.1.d — Faute aggravée de l'exploitant
 
 Outre la violation des articles R. 4323-58 et suivants du Code du travail (cf. point 1 ci-dessus), la société défenderesse a commis des fautes caractérisées par :
 
@@ -128,7 +128,7 @@ Outre la violation des articles R. 4323-58 et suivants du Code du travail (cf. p
 
 - 2'**absence de protocole de sécurité** pour les interventions nécessitant un accès en hauteur.
 
-#### 5. L'obligation de la SAS n'est pas sérieusement contestable
+#### II.1.e — L'obligation de la SAS n'est pas sérieusement contestable
 
 L'obligation de la SAS envers la victime est établie par :
 
@@ -140,7 +140,7 @@ L'obligation de la SAS envers la victime est établie par :
 
 - l'absence de tout élément de cause étrangère.
 
-### B. CARACTÈRE URGENT
+### II.2 — CARACTÈRE URGENT
 
 Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 jours. En tant qu'informaticien indépendant, son activité repose exclusivement sur l'usage de sa main dominante. Ses frais médicaux sont réels et documentés. Les dirigeants de la SAS refusent toute coopération et n'ont pas communiqué les coordonnées de leur assureur RC Pro malgré demandes. Le capital social de la SAS (200 €) fait craindre une insolvabilité croissante si le recouvrement n'est pas accéléré.
 <hr><hr>

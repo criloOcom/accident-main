@@ -21,7 +21,7 @@ source: local
 
 > **Objet** : Mapping des arrêts de la Cour de cassation au cas concret, hiérarchie argumentative et préparation des débats.
 ## I — LES 3 PILIERS DE LA DÉMONSTRATION
-### PILIER 1 — LA CHOSE A ÉTÉ L'INSTRUMENT DU DOMMAGE (ART. 1242 AL.1)
+### I.1 — PILIER 1 — LA CHOSE A ÉTÉ L'INSTRUMENT DU DOMMAGE (ART. 1242 AL.1)
 
 | Élément à prouver | Notre preuve | Arrêt de référence |
 |-------------------|-------------|-------------------|
@@ -29,14 +29,14 @@ source: local
 | Mauvais état de la chose | Constat d'huissier — cassure majeure préexistante aux arêtes tranchantes | **[91-15.035](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/91-15.035_CourCassation.md)** (Civ. 2e, 5 mai 1993) : la preuve du mauvais état incombe à la victime, et elle est rapportée |
 | Position anormale | Bac douche conçu pour lavage, pas pour supporter le poids d'un adulte en hauteur | **[91-13.580](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/91-13.580_CourCassation.md)** (Civ. 2e, 25 nov. 1992) définit la position anormale comme critère à prouver |
 
-### PILIER 2 — LE VICE INHÉRENT N'EXONÈRE JAMAIS LE GARDIEN
+### I.2 — PILIER 2 — LE VICE INHÉRENT N'EXONÈRE JAMAIS LE GARDIEN
 
 | Argument défense attendu | Réponse juridique | Arrêt |
 |--------------------------|-------------------|-------|
 | "La vasque s'est brisée parce qu'elle était déjà fissurée" | Le vice inhérent **n'est pas** une cause d'exonération | **[74-10.466](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/74-10.466_CourCassation.md)** (Civ. 2e, 5 mai 1975) |
 | "Le défaut était indécelable" | La gardienne assume les conséquences du vice, même invisible | Même arrêt — la pourriture du collet de l'arbre n'était pas visible |
 
-### PILIER 3 — LE COMMETTANT RÉPOND DU PRÉPOSÉ (ART. 1242 AL.5)
+### I.3 — PILIER 3 — LE COMMETTANT RÉPOND DU PRÉPOSÉ (ART. 1242 AL.5)
 
 | Situation | Principe | Arrêt |
 |-----------|----------|-------|
@@ -46,7 +46,7 @@ source: local
 <hr><hr>
 
 ## II — HIÉRARCHIE ARGUMENTATIVE (ORDRE DE PLAIDOIRIE)
-### ARGUMENTS OFFENSIFS (À METTRE EN AVANT)
+### II.1 — ARGUMENTS OFFENSIFS (À METTRE EN AVANT)
 
 1. **89-18.422** : Le cas est quasi identique. Échelle installée par un préposé → basculement → responsabilité du gardien. C'est notre arrêt de **tête**.
 
@@ -54,7 +54,7 @@ source: local
 
 3. **91-15.035** : La preuve est rapportée (constat d'huissier + PV police). L'arrêt pose la règle mais dans notre cas la condition est remplie.
 
-### ARGUMENTS DÉFENSIFS (À DISTINGUER)
+### II.2 — ARGUMENTS DÉFENSIFS (À DISTINGUER)
 
 4. **91-13.580** : La barrière conforme aux normes n'a pas été l'instrument → notre vasque n'était pas conforme (cassure).
 
@@ -108,7 +108,7 @@ source: local
 <hr><hr>
 
 ## VI — STRATÉGIE FINANCIÈRE ET RECOUVREMENT
-### MONTANT ESTIMÉ : ~105 000 €
+### VI.1 — MONTANT ESTIMÉ : ~105 000 €
 
 | Poste | Montant | Base |
 |---|---|---|
@@ -125,7 +125,7 @@ source: local
 
 Voir détails : [11+12 📊 Evaluation Dintilhac consolidee.md](../%F0%9F%92%B0%20Etudes%20indemnisation/%F0%9F%93%8A%20Evaluation%20Dintilhac%20Consolidee.md)
 
-### QUI PAIE ?
+### VI.2 — QUI PAIE ?
 
 1. **Assureur RC** (si identifié) → action directe L.124-3 C. Assurances
 
@@ -135,7 +135,7 @@ Voir détails : [11+12 📊 Evaluation Dintilhac consolidee.md](../%F0%9F%92%B0%
 
 4. **SARVI** → si décision pénale non exécutée
 
-### PROVISION À DEMANDER EN RÉFÉRÉ
+### VI.3 — PROVISION À DEMANDER EN RÉFÉRÉ
 
 **Proposition : 15 000 €**
 - PGPA : 1 400 €

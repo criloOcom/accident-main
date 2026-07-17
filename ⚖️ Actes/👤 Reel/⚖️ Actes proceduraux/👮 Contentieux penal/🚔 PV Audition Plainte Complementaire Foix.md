@@ -1,25 +1,29 @@
 ---
-title: "PV Audition Plainte Complémentaire — Blessures Involontaires et Entrave"
-description: "Procès-verbal d'audition de [Sébastien GRAZIDE] au Commissariat de [Foix] pour le dépôt de sa plainte complémentaire, signalant des faits d'obstruction à la justice et de dissimulation de preuves par [SAS LES MAUVAIS GARCONS]."
+title: PV Audition Plainte Complémentaire — Blessures Involontaires et Entrave
+description: Procès-verbal d'audition de [Sébastien GRAZIDE] au Commissariat de [**[La
+  Ville de l'Accident]**] pour le dépôt de sa plainte complémentaire, signalant des
+  faits d'obstruction à la justice et de dissimulation de preuves par [**[L'Exploitant
+  du Commerce (La SAS)]**].
 type: acte_procedural
 date: 2026-07-15
 tags:
-  - plainte
-  - complémentaire
-  - audition
-  - pv
-  - police
-  - entrave
-  - preuves
+- plainte
+- complémentaire
+- audition
+- pv
+- police
+- entrave
+- preuves
 statut: final
 destinataire: Procureur de la République
 auteur: Commissariat de Police de Foix
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/🚔 PV Audition Plainte Complementaire Foix.md
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire
+  Foix.md
 jx: J+47
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes Proceduraux](../README.md) › 👮 Contentieux penal › 🚔 PV Audition Plainte Complementaire Foix*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Proceduraux](../README.md) › 👮 Contentieux penal › 🚔 PV Audition Plainte Complementaire Foix*
 <hr>
 <!-- /Breadcrumb -->
 

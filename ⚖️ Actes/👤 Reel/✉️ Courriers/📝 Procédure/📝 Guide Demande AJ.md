@@ -48,7 +48,7 @@ jx: J+47
 
 ## III — PIÈCES À FOURNIR
 
-### Obligatoires
+### II.1 — Obligatoires
 
 - [ ] **Formulaire CERFA n° 16146*03** (disponible au greffe du TJ ou sur `justice.fr`)
 
@@ -62,7 +62,7 @@ jx: J+47
 
 - [ ] **Justificatif de domicile** de moins de 3 mois (facture EDF, quittance loyer, attestation hébergement)
 
-### Recommandés
+### II.2 — Recommandés
 
 - [ ] **Relevé bancaire** des 3 derniers mois (facultatif mais utile)
 
@@ -73,19 +73,19 @@ jx: J+47
 - [ ] **Courrier expliquant la situation** (optionnel — peut accélérer)
 <hr><hr>
 
-## IV — COMMENT REMPLIR LE FORMULAIRE
+## III — COMMENT REMPLIR LE FORMULAIRE
 
-### Section "Identité"
+### III.1 — Section "Identité"
 
 - Nom, prénom, date et lieu de naissance, nationalité
 
 - Adresse complète
 
-### Section "Situation familiale"
+### III.2 — Section "Situation familiale"
 
 - Célibataire/marié/pacsé — nombre d'enfants à charge
 
-### Section "Ressources"
+### III.3 — Section "Ressources"
 
 - **Revenus professionnels** : déclarer le CA micro-entrepreneur (case "BIC/BNC/BA")
 
@@ -93,7 +93,7 @@ jx: J+47
 
 - **Prestations sociales** : le cas échéant (RSA, AAH, etc.)
 
-### Section "Objet de la demande"
+### III.4 — Section "Objet de la demande"
 
 - **Cocher :** "Bénéficier de l'aide juridictionnelle pour une procédure"
 
@@ -103,18 +103,18 @@ jx: J+47
 
 - **Partie dans la procédure :** "Demandeur"
 
-### Section "Urgence"
+### III.5 — Section "Urgence"
 
 - **Décrire l'urgence :** "Risque de destruction des preuves vidéos (écrasement à J+60/90, soit avant le 15 août 2026). Une requête Art. 145 CPC a été déposée pour conservation."
 
-### Signature
+### III.6 — Signature
 
 - Date et signature en bas du formulaire
 <hr><hr>
 
-## V — DÉMARCHE AU TJ
+## IV — DÉMARCHE AU TJ
 
-### Où aller ?
+### IV.1 — Où aller ?
 
 **Adresse :** Tribunal judiciaire de Foix
 Avenue Paul Laffont
@@ -124,11 +124,14 @@ Avenue Paul Laffont
 
 **BAJ :** Généralement au rez-de-chaussée ou au 1er étage — demander au standard
 
-### Comment faire ?
+### IV.2 — Comment faire ?
 
 1. Se présenter au **BAJ** avec le formulaire rempli + toutes les pièces
+
 2. Dire : "Bonjour, je souhaite déposer une demande d'aide juridictionnelle totale"
+
 3. Remettre le dossier complet
+
 4. **Demander un récépissé de dépôt** avec :
    - La date de dépôt
 
@@ -136,9 +139,10 @@ Avenue Paul Laffont
 
    - Le cachet du BAJ
 5. **Demander un traitement accéléré** : expliquer que les preuves vidéos risquent d'être détruites avant le 15 août
+
 6. Demander un délai estimatif de traitement
 
-### Délais
+### IV.3 — Délais
 
 - **Standard** : 2 à 6 semaines
 
@@ -147,13 +151,16 @@ Avenue Paul Laffont
 - Si pas de réponse sous 2 mois : considéré comme **rejet implicite** → possibilité de recours
 <hr><hr>
 
-## VI — APRÈS L'AJ
+## V — APRÈS L'AJ
 
-### Si l'AJ est accordée
+### V.1 — Si l'AJ est accordée
 
 1. Le BAJ vous notifie la **décision d'admission** à l'AJ totale
+
 2. Le BAJ **désigne un avocat** (vous pouvez demander un avocat précis si vous en connaissez un)
+
 3. L'avocat vous contacte pour prendre le dossier
+
 4. L'avocat peut désormais :
    - Signifier l'assignation en référé-provision (15 000 €)
 
@@ -161,7 +168,7 @@ Avenue Paul Laffont
 
    - Reprendre l'Art. 145 CPC pour le fond
 
-### Si l'AJ est refusée
+### V.2 — Si l'AJ est refusée
 
 - Motifs possibles : revenus sous-évalués, patrimoine non déclaré, procédure sans fondement
 
@@ -176,19 +183,19 @@ Avenue Paul Laffont
   - Association d'aide aux victimes (France Victimes 09)
 <hr><hr>
 
-## VII — CONSEILS POUR LE 15 JUILLET
+## VI — CONSEILS POUR LE 15 JUILLET
 
-### Ordre recommandé
+### VI.1 — Ordre recommandé
 
 1. **D'abord au greffe civil** (rez-de-chaussée) : déposer la requête Art. 145 CPC → récépissé
 
 2. **Ensuite au BAJ** (même bâtiment) : déposer la demande d'AJ → récépissé
 
-### À dire pour l'urgence
+### VI.2 — À dire pour l'urgence
 
 > *"Je sollicite un **traitement accéléré** car les enregistrements de vidéosurveillance du salon où j'ai été blessé le 29 mai 2026 risquent d'être écrasés avant le 15 août 2026 (délai standard de conservation de 60 jours). Une fois effacés, ces éléments de preuve seront irrémédiablement perdus."* <br>
 
-### Ne pas oublier
+### VI.3 — Ne pas oublier
 
 - [ ] Remplir le formulaire AVANT le départ
 

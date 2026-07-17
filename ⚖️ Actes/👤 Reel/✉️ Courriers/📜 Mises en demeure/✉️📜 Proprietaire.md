@@ -1,17 +1,17 @@
 ---
-title: "Demande de Communication d'Assurance RC au Propriétaire des Murs"
-description: "[L'Adresse de la Victime]** <br>"
+title: Demande de Communication d'Assurance RC au Propriétaire des Murs
+description: '[L''Adresse de la Victime]** <br>'
 type: courrier
 date: 2026-06-29
 tags:
-  - mise en demeure
-  - bailleur
-  - assurance
-  - LRAR
+- mise en demeure
+- bailleur
+- assurance
+- LRAR
 statut: envoye
 destinataire: Le Propriétaire des Murs
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/05 ✉️ Courrier Proprietaire.md
+reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 Proprietaire.md
 source: drive
 drive_id: 1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4
 jx: J+31
@@ -37,14 +37,14 @@ Objet : Demande de communication d'assurance RC — Accident [29 mai 2026](../..
 Réf : Dossier [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) / [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
 Monsieur,
-## INTRODUCTION
+## I — INTRODUCTION
 
 La présente lettre est adressée par [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) en sa qualité de propriétaire bailleur des locaux commerciaux situés au [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de l'exploitant.
 
 Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grave accident corporel survenu le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) dans lesdits locaux.
 <hr><hr>
 
-## I — RAPPEL DES OBLIGATIONS LÉGALES
+## II — RAPPEL DES OBLIGATIONS LÉGALES
 
 L'article 1719 du Code civil impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail.
 
@@ -89,7 +89,7 @@ Je vous remercie d'avance pour votre diligence et votre coopération indispensab
 Dans l'attente de votre retour rapide,
 <hr><hr>
 
-## II — TRANSPARENCE SUR LA SUITE DONNÉE AU DOSSIER
+## III — TRANSPARENCE SUR LA SUITE DONNÉE AU DOSSIER
 
 La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
 

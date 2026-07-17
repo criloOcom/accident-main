@@ -23,13 +23,13 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 F
 | **29/05/2026** | **Accident** de la main droite de **[La Victime]** dans le salon au 22 rue/Grande Rue La Faurie | Basculement d'un bac à shampoing cassé ; plaie profonde 8,5 cm, section tendons + nerfs index droit |
 | **30/05/2026** | Opération en urgence (SOS Main – **[Le Chirurgien SOS Main]**) | Chirurgie de reconstruction tendino-nerveuse |
 | **01/06/2026** | Constat généraliste (Dr OXYBEL) + arrêt de travail 15 jours | Impact direct sur activité d'informaticien indépendant droitier |
-| **02/06/2026** | Plainte pénale déposée à **[La Métropole Régionale]** Rive Droite ([ ... ]) | Exploitant alors indiqué : **[L'Exploitant du Commerce (La SAS)]** (incertitude précisée) |
+| **02/06/2026** | Plainte pénale déposée à **[La Métropole Régionale]** Rive Droite (PV n° **[N° PV Police]**) | Exploitant alors indiqué : **[L'Exploitant du Commerce (La SAS)]** (incertitude précisée) |
 | **29/06/2026** | Envoi d'une vague de LRAR (LMG, **[Le Président de l'Exploitation]**, **[La Directrice Générale de l'Exploitation]**, bailleur, CPAM, TJ **[La Ville de l'Accident]**) | Plusieurs non réclamés / retours ; AR numériques pour CPAM, bailleur, tribunal |
 | **03/07/2026** | Réception LRAR par le bailleur DELRIEU | Il répondra plus tard le 16/07 |
 | **16/07/2026** | Mail du bailleur : LMG ont quitté les lieux le 10/03/2026 + état des lieux de sortie | Affirme que LMG ne peuvent être responsables au 29/05/2026 |
 | **16/07/2026** | Visite des lieux par la victime au 22 rue/Grande Rue La Faurie | Constat : enseigne "**[Le Nouvel Exploitant (HB BARBER)]**", bac cassé remplacé, meuble mural disparu, refus de facture/assurance par l'exploitant (**[Le Président du Nouvel Exploitant]**) |
 | **17/07/2026** | Mail de relance à M. DELRIEU avec mention de **[Le Nouvel Exploitant (HB BARBER)]** et demande de bail/assurances | Demande amiable de clarification sur l'occupant et ses assureurs |
-| **20/07/2026 (prévu)** | **Dépôt d'une plainte complémentaire** au Commissariat de **[La Ville de l'Accident]** | Objet : corriger/compléter la plainte initiale en visant **[Le Nouvel Exploitant (HB BARBER)]** comme exploitant au 29/05/2026 |
+| **20/07/2026 (prévu)** | **Dépôt d'une plainte complémentaire + Erratum** au Commissariat de **[La Ville de l'Accident]** | Objet : corriger/compléter la plainte initiale en visant **[Le Nouvel Exploitant (HB BARBER)]** comme exploitant au 29/05/2026. **Erratum** déposé le même jour + envoyé par LRAR séparée. |
 
 ---
 

@@ -3,10 +3,10 @@ title: "REQUÊTE AUX FINS DE DÉSIGNATION D'UN MANDATAIRE AD HOC ET MESURES CONS
 description: "POUR :"
 type: readme
 statut: brouillon
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/17 ⚖️ Requete Mandataire Ad Hoc.md
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/17 ⚖️ Requete Mandataire Ad Hoc.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 📜 Contentieux civil › 17 ⚖️ Requete Mandataire Ad Hoc*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 📜 Contentieux civil › 17 ⚖️ Requete Mandataire Ad Hoc*
 <!-- /Breadcrumb -->
 
 # REQUÊTE AUX FINS DE DÉSIGNATION D'UN MANDATAIRE AD HOC <br> ET MESURES CONSERVATOIRES
@@ -47,7 +47,7 @@ Il existe en l'espèce un risque d'organisation frauduleuse d'insolvabilité ou 
 
 ## II — DISCUSSION JURIDIQUE ET FONDEMENTS DE LA REQUÊTE
 
-### A. Sur la responsabilité des dirigeants de la SAS
+### II.1 — Sur la responsabilité des dirigeants de la SAS
 
 Il convient de rappeler que la responsabilité des dirigeants d'une Société par Actions Simplifiée (SAS) peut être engagée tant sur le plan civil que pénal pour des fautes commises dans l'exercice de leurs fonctions, ou même au-delà lorsqu'elles sont détachables de celles-ci.
 
@@ -57,7 +57,7 @@ Il convient de rappeler que la responsabilité des dirigeants d'une Société pa
 
 Le comportement de Monsieur [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et de Madame [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) caractérise des fautes d'une gravité exceptionnelle, justifiant que des mesures de sauvegarde du patrimoine de la société [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) soient ordonnées pour garantir la créance indemnitaire à naître.
 
-### B. Sur la nomination d'un mandataire ad hoc
+### II.2 — Sur la nomination d'un mandataire ad hoc
 
 Face aux graves manquements dans la gestion de la société et au risque pesant sur son patrimoine (et par conséquent sur le gage des créanciers, dont la victime), la désignation d'un mandataire ad hoc s'impose afin de prévenir des actes de disposition préjudiciables.
 
@@ -73,7 +73,7 @@ Le requérant sollicite la nomination d'un mandataire ad hoc avec pour mission d
 
 - Suspendre tout acte de disposition non essentiel à l'activité courante.
 
-### C. Sur les mesures conservatoires et la prévention d'un dommage imminent
+### II.3 — Sur les mesures conservatoires et la prévention d'un dommage imminent
 
 L'organisation de l'insolvabilité de la société par ses dirigeants constitue un trouble manifestement illicite et un dommage imminent pour Monsieur [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md). Le juge des référés dispose de pouvoirs étendus pour prévenir une telle issue.
 

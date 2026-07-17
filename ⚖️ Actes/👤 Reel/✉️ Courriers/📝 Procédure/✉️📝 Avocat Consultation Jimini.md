@@ -1,18 +1,20 @@
 ---
-title: "Email Avocat — Consultation proactivité victime"
-description: "Premier contact avec l'avocat : faits, démarches, 5 questions sur le droit de la victime à être proactive vis-à-vis des organismes administratifs saisis"
+title: Email Avocat — Consultation proactivité victime
+description: 'Premier contact avec l''avocat : faits, démarches, 5 questions sur le
+  droit de la victime à être proactive vis-à-vis des organismes administratifs saisis'
 type: courrier
 date: 2026-07-15
 tags:
-  - consultation
-  - avocat
-  - proactivite
-  - inspection du travail
-  - CODAF
-  - prefecture
+- consultation
+- avocat
+- proactivite
+- inspection du travail
+- CODAF
+- prefecture
 statut: final
 destinataire: Avocat
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/📝 Procédure/✉️📝 Avocat Consultation Jimini.md
 ---
 reel_path: ../../../👤 Reel/✉️ Courriers/📝 Procédure/✉️📝 Avocat Consultation Jimini.md
 

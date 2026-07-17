@@ -43,23 +43,23 @@ L'opportunité de solliciter des mesures conservatoires repose sur les dispositi
 > [Article L.511-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026104) <br>
 > Code des procédures civiles d'exécution[^1] <br>
 
-### Sur le principe de créance fondé
+### II.1 — Sur le principe de créance fondé
 
 Le dossier démontre de manière probante le dommage corporel subi par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) imputable à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). Les éléments médicaux et factuels établissent indéniablement la responsabilité et, par voie de conséquence, l'existence d'une créance indemnitaire d'un montant significatif, permettant de qualifier le principe de créance.
 
-### Sur les circonstances menaçant le recouvrement
+### II.2 — Sur les circonstances menaçant le recouvrement
 
 Il conviendra d'apporter aux débats tout élément matériel permettant d'étayer le risque sérieux de disparition, de dissimulation ou de diminution du patrimoine de la société ou de ses dirigeants (ex : opérations suspectes, rumeurs de cession, organisation d'insolvabilité). L'absence de solvabilité apparente justifie l'urgence et la nécessité des mesures.
 
-### Mesures envisagées
+### II.3 — Mesures envisagées
 
-#### Saisie conservatoire des comptes bancaires
+#### II.3.a — Saisie conservatoire des comptes bancaires
 Cette mesure vise à geler les fonds disponibles sur les comptes de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). Elle est particulièrement efficace et peut être pratiquée avec diligence par un Commissaire de Justice.
 
-#### Saisie conservatoire des meubles corporels
+#### II.3.b — Saisie conservatoire des meubles corporels
 Il est également possible de procéder à la saisie des biens meubles corporels (tels que le mobilier du salon, le matériel d'exploitation). Cette mesure, exécutée par un Commissaire de Justice, rend les biens indisponibles et empêche leur vente ou leur déplacement.
 
-### Procédure — Autorisation du Juge de l'Exécution
+### II.4 — Procédure — Autorisation du Juge de l'Exécution
 
 Dans la mesure où notre cabinet ne dispose pas, à ce stade, d'un titre exécutoire (décision de justice condamnant la partie adverse), ni de certaines autres dérogations spécifiques (loyer impayé, chèque sans provision), l'autorisation préalable du juge est strictement requise.
 

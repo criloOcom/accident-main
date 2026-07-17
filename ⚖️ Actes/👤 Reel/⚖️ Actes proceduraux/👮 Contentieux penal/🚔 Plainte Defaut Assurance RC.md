@@ -10,13 +10,13 @@ tags:
 statut: final
 destinataire: Procureur de la République
 auteur: La Victime
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/🚔 Plainte Defaut Assurance RC.md
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md
 source: drive
 drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
 jx: J+32
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 👮 Contentieux penal › 🚔 Plainte Defaut Assurance RC*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 👮 Contentieux penal › 🚔 Plainte Defaut Assurance RC*
 <!-- /Breadcrumb -->
 
 # COMPLÉMENT DE PLAINTE PÉNALE<br>DÉFAUT D'ASSURANCE RC
@@ -46,7 +46,7 @@ OBJET : COMPLÉMENT DE PLAINTE PÉNALE
 Dénonciation de défaut d'assurance de responsabilité civile professionnelle et d'entrave à l'exercice de l'action directe
 
 RÉFÉRENCE : Dossier [ ... ]
-## INTRODUCTION
+## I — INTRODUCTION
 
 Le présent complément de plainte pénale est déposé par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) auprès de Monsieur le Procureur de la République près le Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) afin de signaler l'absence d'assurance de responsabilité civile professionnelle de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
@@ -67,7 +67,7 @@ En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 <hr><hr>
 
-## I — EXPOSÉ DES FAITS
+## II — EXPOSÉ DES FAITS
 
 Le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), alors qu'il se trouvait dans le salon de coiffure exploité par [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) en qualité de client, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a été victime d'un accident corporel grave au sein de l'établissement, sise [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md). 
 
@@ -86,8 +86,8 @@ Ni le Président de la SAS, [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F
 Ce silence persistant, malgré l'envoi de courriers recommandés le [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md), laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
 <hr><hr>
 
-## II — DISCUSSION JURIDIQUE
-### A. SUR L'ABSENCE D'ASSURANCE DE RESPONSABILITÉ CIVILE
+## III — DISCUSSION JURIDIQUE
+### III.1 — SUR L'ABSENCE D'ASSURANCE DE RESPONSABILITÉ CIVILE
 
 Malgré les demandes amiables de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle.
 
@@ -99,7 +99,7 @@ En l'absence d'assurance, l'indemnisation de la victime au titre de l'action dir
 > [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) <br>
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^4]**
 
-### B. SUR L'ENTRAVE À L'EXERCICE DE L'ACTION DIRECTE
+### III.2 — SUR L'ENTRAVE À L'EXERCICE DE L'ACTION DIRECTE
 
 L'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1] consacre le droit propre et l'action directe de la victime à l'encontre de l'assureur du responsable.
 
@@ -132,7 +132,7 @@ Par ailleurs, ce défaut de souscription ou d'information peut constituer une fa
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^8]**
 <hr><hr>
 
-## III — CONSÉQUENCES ET PRÉJUDICES
+## IV — CONSÉQUENCES ET PRÉJUDICES
 
 Le préjudice subi par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) est d'une particulière gravité.
 
@@ -149,7 +149,7 @@ Les pertes d'exploitation sont d'ores et déjà significatives et le préjudice 
 L'absence de communication de l'assurance bloque toute offre d'indemnisation amiable, l'accès à une expertise médicale contradictoire et la prise en charge des soins par la CPAM (dossier [ ... ]).
 <hr><hr>
 
-## IV — DEMANDES
+## V — DEMANDES
 
 Par ces motifs, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) sollicite qu'il plaise à Monsieur le Procureur de la République d'ordonner une enquête complémentaire visant à :
 

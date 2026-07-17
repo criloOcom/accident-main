@@ -1,17 +1,17 @@
 ---
-title: "Signalement Officiel au CODAF"
-description: "L'Adresse de la Victime"
+title: Signalement Officiel au CODAF
+description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-05
 tags:
-  - CODAF
-  - signalement
-  - fraude
-  - LRAR
+- CODAF
+- signalement
+- fraude
+- LRAR
 statut: final
 destinataire: CODAF de l'Ariege
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/14 ✉️ Courrier CODAF.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 CODAF.md
 source: drive
 drive_id: 1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY
 jx: J+37
@@ -43,7 +43,7 @@ BP 40087
 Réf : SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) — Signalement Mairie de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) du 1er juin 2026  
 
 Madame, Monsieur le Président du CODAF,  
-## INTRODUCTION
+## I — INTRODUCTION
 
 La présente est adressée au CODAF de l'Ariège par [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), immatriculée sous le SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md).
 
@@ -52,7 +52,7 @@ Cet accident a été causé par la chute brutale du préposé de l'exploitation 
 Sa chute a entraîné sur ma main droite une plaie palmaire profonde avec lésions tendineuses et vasculo-nerveuses de l'index dominant, ayant nécessité une microchirurgie d'urgence.
 <hr><hr>
 
-## I — RAPPEL DES FAITS
+## II — RAPPEL DES FAITS
 
 La SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) a été immatriculée le 1er juin 2024 avec un capital social de 200 €. Selon les informations publiques disponibles du Registre National des Entreprises, elle déclare ne disposer d'aucun salarié. Pourtant, le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), un préposé exerçait de manière visible une activité de coiffure continue au sein de l'établissement.
 
@@ -64,7 +64,7 @@ L'accident est survenu dans les conditions suivantes :
 - Ma main droite a heurté la cassure préexistante aux arêtes coupantes, entraînant la plaie grave précitée.
 <hr><hr>
 
-## II — MANQUEMENTS CONSTATÉS
+## III — MANQUEMENTS CONSTATÉS
 
 Les faits signalés ci-après sont susceptibles de caractériser des manquements entrant dans le champ de compétence du CODAF :
 
@@ -116,7 +116,7 @@ Le capital social de 200 € et la dissociation entre le siège social de l'acti
 Combinés aux autres manquements de sécurité et de déclaration suspectés, ils justifient un examen attentif de la part de vos services afin de prévenir des fraudes statutaires ou des organisations d'insolvabilité.
 <hr><hr>
 
-## III — DEMANDE D'ENQUÊTE
+## IV — DEMANDE D'ENQUÊTE
 
 En qualité de victime directe ayant subi des préjudices corporels sévères et irréversibles à la main droite, je sollicite du CODAF qu'une enquête soit diligentée afin de vérifier l'ensemble de ces éléments sociaux et déclaratifs.
 

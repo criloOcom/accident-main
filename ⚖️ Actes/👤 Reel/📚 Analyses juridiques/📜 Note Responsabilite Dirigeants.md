@@ -30,7 +30,7 @@ La présente note analyse les trois voies de recours contre les dirigeants à ti
 
 ## II — FONDEMENTS JURIDIQUES
 
-### A. Responsabilité civile des dirigeants de SAS — Article L.227-8 C.com.
+### II.1 — Responsabilité civile des dirigeants de SAS — Article L.227-8 C.com.
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
@@ -39,7 +39,7 @@ La présente note analyse les trois voies de recours contre les dirigeants à ti
 
 Cet article rend applicable aux dirigeants de SAS le régime de responsabilité des SA, notamment l'article L.225-251 pour les fautes de gestion. Toute décision de dissoudre la société sans avoir provisionné le passif indemnitaire issu de l'accident constitue un manquement caractérisé aux obligations de gestion.
 
-### B. Insuffisance d'actif — Article L.651-2 C.com.
+### II.2 — Insuffisance d'actif — Article L.651-2 C.com.
 
 > *« Lorsqu'une liquidation judiciaire d'une personne morale fait apparaître une insuffisance d'actif, le tribunal peut, en cas de faute de gestion ayant contribué à cette insuffisance d'actif, décider que le montant de cette insuffisance sera supporté, en tout ou partie, par tous les dirigeants de droit ou de fait, ou certains d'entre eux, ayant contribué à la faute de gestion. »* <br>
 > *« Lorsqu'une liquidation judiciaire d'une personne morale fait apparaître une insuffisance d'actif, le tribunal peut, en cas de faute de gestion ayant contribué à cette insuffisance d'actif, décider que le montant de cette insuffisance sera supporté, en tout ou partie, par tous les dirigeants de droit ou de fait, ou certains d'entre eux, ayant contribué à la faute de gestion. »* <br>
@@ -50,7 +50,7 @@ Si la SAS est placée en liquidation judiciaire et que les dirigeants ont organi
 
 > **Note de correction :** L'ancienne référence L.654-6 C.com. pointait vers un article abrogé depuis 2016. La nouvelle structuration des infractions de banqueroute place les actes de base aux articles L.654-2 (personnes physiques) et L.654-3/L.654-4 (variantes), tandis que **L.654-7** est le texte en vigueur qui fixe les peines applicables aux personnes morales. Voir [`CHANGELOG_JURIDIQUE.md`](CHANGELOG_JURIDIQUE.md).
 
-### C. Banqueroute par personne morale — Article L.654-7 C.com.
+### II.3 — Banqueroute par personne morale — Article L.654-7 C.com.
 
 > *« Les personnes morales déclarées responsables pénalement des infractions prévues par les articles L. 654-3 et L. 654-4 encourent les peines suivantes : 1° L'amende, suivant les modalités prévues par l' article 131-38 du code pénal ; 2° Les peines mentionnées à l'article 131-39 du code pénal. L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. »* <br>
 > *« Les personnes morales déclarées responsables pénalement des infractions prévues par les articles L. 654-3 et L. 654-4 encourent les peines suivantes : 1° L'amende, suivant les modalités prévues par l' article 131-38 du code pénal ; 2° Les peines mentionnées à l'article 131-39 du code pénal. L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. »* <br>
@@ -59,7 +59,7 @@ Si la SAS est placée en liquidation judiciaire et que les dirigeants ont organi
 
 La banqueroute par personne morale est constituée notamment en cas de tenue d'une comptabilité fictive, de détournement ou de dissimulation d'actifs. Les dirigeants ayant vidé la SAS pour recréer une structure sous une autre forme tombent sous le coup de ces dispositions pénales.
 
-### C. Faute détachable des fonctions — Arrêt SATI
+### II.4 — Faute détachable des fonctions — Arrêt SATI
 
 La jurisprudence constante de la Cour de cassation (Assemblée plénière, arrêt SATI) retient que la faute intentionnelle d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales, constitue une faute détachable engageant la responsabilité personnelle du dirigeant.
 

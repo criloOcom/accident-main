@@ -14,7 +14,7 @@ jx: J+42
 <!-- /Breadcrumb -->
 
 # Analyse<br>Non-distribution LRAR et suspicion de structure miroir
-## Sources vérifiées
+## I — Sources vérifiées
 
 - Annuaire-entreprises.data.gouv.fr (INSEE)
 
@@ -25,9 +25,9 @@ jx: J+42
 - API Recherche Entreprises
 <hr><hr>
 
-## Constats
+## II — Constats
 
-### 1. Statut officiel de [L'Exploitant du Commerce (La SAS)]
+### II.1 — Statut officiel de [L'Exploitant du Commerce (La SAS)]
 
 | Champ | Valeur |
 |-------|--------|
@@ -44,25 +44,25 @@ jx: J+42
 
 <hr><hr>
 
-### 2. Analyse de la non-réception LRAR
+### II.2 — Analyse de la non-réception LRAR
 
 Les courriers recommandés adressés à la SAS reviennent NPAI alors que la société est toujours officiellement "Active" à la même adresse. Hypothèses :
 
-#### 1. **Absence physique d'exploitation**
+#### II.2.a — **Absence physique d'exploitation**
 La société a 0 salarié. Le salon est fermé depuis l'accident (29 mai 2026). Personne ne réceptionne le courrier.
 
-#### 2. **Directeurs résidant hors Foix**
+#### II.2.b — **Directeurs résidant hors Foix**
 [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) réside à Toulouse (31100). [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) réside à Foix mais peut avoir quitté les lieux.
 
-#### 3. **Évitement délibéré**
+#### II.2.c — **Évitement délibéré**
 Les dirigeants peuvent avoir demandé le renvoi du courrier ou laissent le courrier s'accumuler sans le réclamer.
 
-#### 4. **Boîte aux lettres non relevée**
+#### II.2.d — **Boîte aux lettres non relevée**
 Dans un local commercial fermé, les LRAR ne trouvent pas preneur.
 
 <hr><hr>
 
-### 3. Investigation structure miroir
+### II.3 — Investigation structure miroir
 
 **Résultat : AUCUNE nouvelle entité légale trouvée au 22 Rue Lafaurie, 09000 Foix, Foix.** Les recherches n'ont identifié que [L'Exploitant du Commerce (La SAS)] à cette adresse.
 
@@ -82,19 +82,19 @@ La rumeur de "réouverture avec nouveaux gérants" peut correspondre à :
 
 <hr><hr>
 
-### 4. Recommandations
+### II.4 — Recommandations
 
-#### 1. **Envoyer l'email au Maire de Foix** (priorité 1)
+#### II.4.a — **Envoyer l'email au Maire de Foix** (priorité 1)
 Demande d'intervention Police Municipale pour constat physique
 
-#### 2. **Maintien de la requête huissier Art. 145 CPC** (courrier 33)
+#### II.4.b — **Maintien de la requête huissier Art. 145 CPC** (courrier 33)
 Seule preuve opposable civilement
 
-#### 3. **Relance URSSAF** (LRAR 12 déjà envoyée)
+#### II.4.c — **Relance URSSAF** (LRAR 12 déjà envoyée)
 Signalement travail dissimulé si nouvelle exploitation sans déclaration
 
-#### 4. **Relance SIE** (LRAR 15 déjà envoyée)
+#### II.4.d — **Relance SIE** (LRAR 15 déjà envoyée)
 Signalement fiscal
 
-#### 5. **Vérification INPI**
+#### II.4.e — **Vérification INPI**
 15 jours pour détecter tout changement de siège ou dissolution

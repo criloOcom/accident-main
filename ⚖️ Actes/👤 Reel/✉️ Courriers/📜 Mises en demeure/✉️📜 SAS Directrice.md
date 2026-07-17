@@ -41,7 +41,7 @@ Réf : Dossier [Sébastien GRAZIDE] / [SAS LES MAUVAIS GARCONS]
 
 Madame la Directrice Générale,
 
-## Rappel des obligations légales
+## I — Rappel des obligations légales
 
 La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions.
 
@@ -89,7 +89,7 @@ Dans cette hypothèse, je serai également contraint de solliciter la communicat
 
 <hr><hr>
 
-## Transparence sur la suite donnée au dossier
+## II — Transparence sur la suite donnée au dossier
 
 La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
 

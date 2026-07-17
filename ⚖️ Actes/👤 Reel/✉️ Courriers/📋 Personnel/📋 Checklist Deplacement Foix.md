@@ -23,7 +23,7 @@ jx: J+47
 > Checklist personnelle pour organiser le déplacement à Foix.
 
 # CHECKLIST COMPLÈTE<br>DÉPLACEMENT À FOIX (15 JUILLET 2026)
-## 📋 PROGRAMME DE LA JOURNÉE
+## I — 📋 PROGRAMME DE LA JOURNÉE
 
 | Créneau | Lieu | Action |
 |---------|------|--------|
@@ -40,9 +40,9 @@ jx: J+47
 - **[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** : Lieu de l'accident — salon "SAS LES MAUVAIS GARCONS"
 <hr><hr>
 
-## 📅 PRÉPARATION 48H À L'AVANCE
+## II — 📅 PRÉPARATION 48H À L'AVANCE
 
-### 🏛️ Documents pour le TJ — Requête Art. 145 CPC
+### II.1 — 🏛️ Documents pour le TJ — Requête Art. 145 CPC
 
 - [ ] **Requête Art. 145 CPC** : Imprimée en 2 exemplaires (pièce 03 adaptée en requête simple)
 
@@ -56,7 +56,7 @@ jx: J+47
 
 - [ ] **Pièce d'identité** : Original + copie
 
-### 🏛️ Documents pour le BAJ — Demande d'AJ totale
+### II.2 — 🏛️ Documents pour le BAJ — Demande d'AJ totale
 
 - [ ] **Formulaire AJ** (CERFA n° 16146*03) : Rempli et signé
 
@@ -72,7 +72,7 @@ jx: J+47
 
 - [ ] **Demande de traitement accéléré** : Motif : conservation preuves vidéos en péril
 
-### 👮 Documents pour le Commissariat — Plainte complémentaire
+### II.3 — 👮 Documents pour le Commissariat — Plainte complémentaire
 
 - [ ] **Plainte complémentaire (n°36)** : Imprimée et signée (2 exemplaires)
 
@@ -90,7 +90,7 @@ jx: J+47
 
 - [ ] **Liste démarches** : Chronologie complète
 
-### 📸 Documents pour la visite des lieux
+### II.4 — 📸 Documents pour la visite des lieux
 
 - [ ] **PV de constat vierge** : À remplir sur place (daté + signé)
 
@@ -100,7 +100,7 @@ jx: J+47
 
 - [ ] **Attestation sur l'honneur vierge** : Pour témoins potentiels
 
-### 🎒 Documents communs
+### II.5 — 🎒 Documents communs
 
 - [ ] **Pièce d'identité** (CNI/passeport) — indispensable partout
 
@@ -108,7 +108,7 @@ jx: J+47
 
 - [ ] **Checklist (ce document)** : À cocher au fur et à mesure
 
-### Vérifications administratives
+### II.6 — Vérifications administratives
 
 - [ ] Vérifier l'adresse exacte du commissariat
 
@@ -120,7 +120,7 @@ jx: J+47
 
 - [ ] Préparer un itinéraire (Google Maps/Waze)
 
-### Préparation logistique
+### II.7 — Préparation logistique
 
 - [ ] Réserver une demi-journée dans l'agenda
 
@@ -137,9 +137,9 @@ jx: J+47
 - [ ] Vérifier la météo et adapter la tenue
 <hr><hr>
 
-## 📂 DERNIÈRES VÉRIFICATIONS (VEILLE AU JOUR J)
+## III — 📂 DERNIÈRES VÉRIFICATIONS (VEILLE AU JOUR J)
 
-### Dossier physique
+### III.1 — Dossier physique
 
 **📁 Chemise "Dossier Police Foix" :**
 - [ ] Plainte complémentaire signée (original + copie)
@@ -178,7 +178,7 @@ jx: J+47
 
 - [ ] Liste des fichiers avec descriptions
 
-### Matériel à emporter
+### III.2 — Matériel à emporter
 
 - [ ] Stylo (2x bleu + 1x noir)
 
@@ -197,9 +197,9 @@ jx: J+47
 - [ ] Médicaments (si traitement)
 <hr><hr>
 
-## 🚗 JOUR J - MATIN
+## IV — 🚗 JOUR J - MATIN
 
-### Préparatifs du matin
+### IV.1 — Préparatifs du matin
 
 - [ ] Douche et tenue professionnelle (neutre, sobre)
 
@@ -217,7 +217,7 @@ jx: J+47
 
 - [ ] Partir tôt (prévoir arrivée TJ 9h00)
 
-### Organisation du sac — 3 pochettes
+### IV.2 — Organisation du sac — 3 pochettes
 
 **📁 Pochette VERTE — TJ / AJ (matin)**
 - [ ] Requête Art. 145 CPC × 2 exemplaires
@@ -284,9 +284,9 @@ jx: J+47
 - [ ] Parapluie (si nécessaire)
 <hr><hr>
 
-## 🏛️ ÉTAPE 1 — TJ DE FOIX (Matin, 9h-12h)
+## V — 🏛️ ÉTAPE 1 — TJ DE FOIX (Matin, 9h-12h)
 
-### Arrivée au Palais de Justice
+### V.1 — Arrivée au Palais de Justice
 
 - [ ] Se présenter à l'accueil : "Je viens déposer une requête au greffe civil"
 
@@ -296,7 +296,7 @@ jx: J+47
 
 - [ ] Noter les noms des agents rencontrés
 
-### Au greffe civil — Dépôt requête Art. 145 CPC
+### V.2 — Au greffe civil — Dépôt requête Art. 145 CPC
 
 - [ ] Remettre les **2 exemplaires** de la requête
 
@@ -308,7 +308,7 @@ jx: J+47
 
 - [ ] Demander le délai de traitement estimé
 
-### Au BAJ — Demande d'aide juridictionnelle
+### V.3 — Au BAJ — Demande d'aide juridictionnelle
 
 - [ ] Remettre le formulaire AJ rempli
 
@@ -323,9 +323,9 @@ jx: J+47
 - [ ] Demander délai estimé (2 à 6 semaines annoncées)
 <hr><hr>
 
-## 🏛️ ÉTAPE 2 — VISITE DES LIEUX (Midi, [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md))
+## VI — 🏛️ ÉTAPE 2 — VISITE DES LIEUX (Midi, [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md))
 
-### Sur place
+### VI.1 — Sur place
 
 - [ ] Prendre **photos de la devanture** (plan large + plan serré)
 
@@ -341,7 +341,7 @@ jx: J+47
 
 - [ ] Si porte ouverte ou nouvelle activité : noter l'identité de l'occupant
 
-### Constat personnel
+### VI.2 — Constat personnel
 
 - [ ] Rédiger **sur place** un constat daté et signé :
 
@@ -357,7 +357,7 @@ jx: J+47
 
 - [ ] Faire contresigner par un témoin si possible (voisin, commerçant)
 
-### Témoins
+### VI.3 — Témoins
 
 - [ ] Si un voisin/commerçant connaît les lieux : demander une **attestation sur l'honneur**
 
@@ -368,9 +368,9 @@ jx: J+47
   - Date et signature
 <hr><hr>
 
-## 👮 ÉTAPE 3 — COMMISSARIAT DE POLICE (Après-midi, 14h-18h)
+## VII — 👮 ÉTAPE 3 — COMMISSARIAT DE POLICE (Après-midi, 14h-18h)
 
-### À l'accueil
+### VII.1 — À l'accueil
 
 - [ ] Présenter poliment la raison de la visite : "Je viens déposer une plainte complémentaire"
 
@@ -382,7 +382,7 @@ jx: J+47
 
 - [ ] S'asseoir dans la salle d'attente
 
-### Pendant l'attente
+### VII.2 — Pendant l'attente
 
 - [ ] Relire le guide de dialogue (n°37)
 
@@ -395,9 +395,9 @@ jx: J+47
 - [ ] Rester calme et patient
 <hr><hr>
 
-## 👮 ÉTAPE 3 (suite) — ENTRETIEN AVEC L'OFFICIER
+## VIII — 👮 ÉTAPE 3 (suite) — ENTRETIEN AVEC L'OFFICIER
 
-### Début de l'entretien
+### VIII.1 — Début de l'entretien
 
 - [ ] "Bonjour, je viens déposer une **plainte complémentaire** dans le cadre de l'enquête ouverte suite à mon accident du 29 mai 2026"
 
@@ -407,11 +407,11 @@ jx: J+47
 
 - [ ] Remise du dossier complet
 
-### Résumé oral préparé (2-3 min)
+### VIII.2 — Résumé oral préparé (2-3 min)
 
 > *"Le 29 mai 2026, j'étais client au salon de coiffure SAS LES MAUVAIS GARCONS, [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md). Le coiffeur est monté sur le bac à shampoing en céramique pour régler une télévision. La vasque a basculé, j'ai tendu la main droite, et j'ai heurté une cassure préexistante non signalée — section du tendon fléchisseur et du nerf de l'index droit, opéré en urgence le 30 mai. La SAS a un capital de 200 €, ses dirigeants ne répondent pas, les LRAR sont NPAI. L'assureur RC est introuvable. Les vidéos de surveillance vont être écrasées d'ici quelques semaines."* <br>
 
-### Points à aborder
+### VIII.3 — Points à aborder
 
 **✅ Chefs de plainte à demander :**
 - [ ] **Mise en danger délibérée d'autrui** (art. 223-1 CP) — vasque cassée non signalée = risque immédiat de mort ou blessure
@@ -442,7 +442,7 @@ jx: J+47
 
 - [ ] Comment suivre l'avancement ?
 
-### ⚠️ SI L'OFFICIER OBJECTE
+### VIII.4 — ⚠️ SI L'OFFICIER OBJECTE
 
 | Objection possible | Votre réponse |
 |-------------------|---------------|
@@ -452,9 +452,9 @@ jx: J+47
 | "On va transmettre au Parquet" | "Parfait, pouvez-vous me donner un **récépissé** de cette transmission ?" |
 <hr><hr>
 
-## 📝 CLÔTURE — FIN DE JOURNÉE
+## IX — 📝 CLÔTURE — FIN DE JOURNÉE
 
-### Documents à obtenir (commissariat)
+### IX.1 — Documents à obtenir (commissariat)
 
 - [ ] Numéro du **nouveau PV** de plainte
 
@@ -466,7 +466,7 @@ jx: J+47
 
 - [ ] Prochaines étapes communiquées
 
-### Vérifications finales
+### IX.2 — Vérifications finales
 
 - [ ] Tous les documents ont été remis (TJ, commissariat)
 
@@ -480,7 +480,7 @@ jx: J+47
 
 - [ ] Photos + constat réalisés
 
-### Remerciements
+### IX.3 — Remerciements
 
 - [ ] Remercier chaque interlocuteur pour son temps
 
@@ -489,9 +489,9 @@ jx: J+47
 - [ ] Noter l'heure de fin
 <hr><hr>
 
-## 🏠 RETOUR À DOMICILE
+## X — 🏠 RETOUR À DOMICILE
 
-### Actions immédiates
+### X.1 — Actions immédiates
 
 - [ ] Noter tous les éléments de la journée (TJ, visite, commissariat)
 
@@ -503,7 +503,7 @@ jx: J+47
 
 - [ ] Mettre à jour le dossier numérique
 
-### Dans les 24 heures
+### X.2 — Dans les 24 heures
 
 - [ ] Envoyer email de remerciement si coordonnées obtenues
 
@@ -513,7 +513,7 @@ jx: J+47
 
 - [ ] Préparer un compte-rendu écrit de la journée
 
-### Dans les 48 heures
+### X.3 — Dans les 48 heures
 
 - [ ] Vérifier l'enregistrement du dossier TJ
 
@@ -523,7 +523,7 @@ jx: J+47
 
 - [ ] Préparer une relance écrite si nécessaire
 
-### Dans la semaine
+### X.4 — Dans la semaine
 
 - [ ] Suivre l'état de la requête Art. 145
 
@@ -534,9 +534,9 @@ jx: J+47
 - [ ] **Attendre désignation avocat par le BAJ** (AJ totale = désignation d'office, ne pas contacter soi-même)
 <hr><hr>
 
-## 📅 SUIVI POST-DÉPÔT
+## XI — 📅 SUIVI POST-DÉPÔT
 
-### Calendrier de suivi
+### XI.1 — Calendrier de suivi
 
 **J+1 :**
 - [ ] Vérification enregistrement dossier
@@ -567,9 +567,9 @@ jx: J+47
 - [ ] Préparation prochaine étape
 <hr><hr>
 
-## 💡 CONSEILS PRATIQUES
+## XII — 💡 CONSEILS PRATIQUES
 
-### Pendant l'entretien
+### XII.1 — Pendant l'entretien
 
 ✅ **À faire :**
 - Restez calme et courtois
@@ -599,7 +599,7 @@ jx: J+47
 
 - Ne partez pas sans accusé de réception
 
-### Après l'entretien
+### XII.2 — Après l'entretien
 
 ✅ **À faire :**
 - Notez tout immédiatement
@@ -626,9 +626,9 @@ jx: J+47
 - Ne négligez pas le suivi
 <hr><hr>
 
-## ✅ CHECKLIST RÉCAPITULATIVE
+## XIII — ✅ CHECKLIST RÉCAPITULATIVE
 
-### Avant le jour J
+### XIII.1 — Avant le jour J
 
 - [ ] Documents préparés et vérifiés
 
@@ -642,7 +642,7 @@ jx: J+47
 
 - [ ] Matériel complémentaire préparé
 
-### Jour J - Matin
+### XIII.2 — Jour J - Matin
 
 - [ ] Toilette et tenue
 
@@ -656,7 +656,7 @@ jx: J+47
 
 - [ ] Vérification transports
 
-### Au commissariat
+### XIII.3 — Au commissariat
 
 - [ ] Accueil poli
 
@@ -678,7 +678,7 @@ jx: J+47
 
 - [ ] Remerciements
 
-### Retour et suivi
+### XIII.4 — Retour et suivi
 
 - [ ] Notes immédiates
 

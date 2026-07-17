@@ -25,7 +25,7 @@ jx: J+32
 Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
 
 Rédigé par : La Victime
-## INTRODUCTION
+## I — INTRODUCTION
 
 Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) dans le cadre de l'accident corporel survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md).
 
@@ -42,7 +42,7 @@ Ce document examine les fondements juridiques de la mise en cause de la responsa
 Il identifie les manquements aux obligations légales et réglementaires imputables aux dirigeants et évalue les perspectives d'engagement de leur responsabilité personnelle à l'égard de la victime.
 <hr><hr>
 
-## I — PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
+## II — PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 
 Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon exploité par [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
@@ -53,8 +53,8 @@ La situation est complexifiée par le silence des dirigeants, [Sabir MOUNTASSER]
 PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) est désigné comme « La Victime », [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) comme « L'Exploitant », et [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) comme « Les Dirigeants ».
 <hr><hr>
 
-## II — LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS
-### A. LA FAUTE DÉTACHABLE DES FONCTIONS ET L'ÉCRAN DE LA PERSONNALITÉ MORALE
+## III — LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS
+### III.1 — LA FAUTE DÉTACHABLE DES FONCTIONS ET L'ÉCRAN DE LA PERSONNALITÉ MORALE
 
 En principe, la personnalité morale de L'Exploitant protège le patrimoine personnel de ses dirigeants. Toutefois, la responsabilité civile personnelle du Président ou du Directeur Général peut être engagée en cas de "faute détachable".
 
@@ -68,7 +68,7 @@ Le défaut de souscription d'une assurance obligatoire ou la dissimulation volon
 
 Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SAS, dont le capital social statutaire s'élève au montant dérisoire de [**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) (article 25 des statuts), rendant la société structurellement incapable d'assumer la réparation d'un sinistre corporel grave sans assurance active.
 
-### B. RESPONSABILITÉ PÉNALE ET FAUTE CARACTÉRISÉE DE SÉCURITÉ
+### III.2 — RESPONSABILITÉ PÉNALE ET FAUTE CARACTÉRISÉE DE SÉCURITÉ
 
 Ce manquement à l'obligation de sécurité est également codifié à l'article R. 143-2 du Code de la construction et de l'habitation, la vasque avec cassure préexistante faisant partie intégrante des installations d'accueil de l'ERP.
 
@@ -93,8 +93,8 @@ Une condamnation pour blessures involontaires sur le fondement de l'article 222-
 > **Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2.[^6]**
 <hr><hr>
 
-## III — MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
-### A. L'ACTION DIRECTE CONTRE L'ASSUREUR DE RESPONSABILITÉ CIVILE
+## IV — MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
+### IV.1 — L'ACTION DIRECTE CONTRE L'ASSUREUR DE RESPONSABILITÉ CIVILE
 
 La Victime dispose d'un droit propre et autonome sur l'indemnité d'assurance en vertu de l'article L. 124-3 du Code des assurances.
 
@@ -110,7 +110,7 @@ Cette action, dite "action directe", peut être exercée même si la société e
 
 Des demandes formelles ont été initiées pour identifier l'assureur et solliciter une provision.
 
-### B. ÉVALUATION DES PRÉJUDICES SELON LA NOMENCLATURE DINTILHAC
+### IV.2 — ÉVALUATION DES PRÉJUDICES SELON LA NOMENCLATURE DINTILHAC
 
 La réparation intégrale, pilier du droit français régi par l'article 1240 du Code civil, impose que La Victime soit replacée dans sa situation initiale.
 
@@ -125,7 +125,7 @@ Elle ne se limite pas à la perte de gains actuels mais inclut la dévalorisatio
 Le préjudice global est estimé à **~90 000 €**, incluant le déficit fonctionnel permanent et les souffrances endurées, tel que détaillé dans l'étude d'indemnisation prospective.
 <hr><hr>
 
-## IV — SYNTHÈSE DES ACTIONS ET DÉMARCHES EN COURS
+## V — SYNTHÈSE DES ACTIONS ET DÉMARCHES EN COURS
 
 Une stratégie multi-niveaux a été déployée : une plainte pénale complémentaire a été déposée pour défaut d'assurance et entrave, parallèlement à la transmission des pièces médicales au Procureur. 
 

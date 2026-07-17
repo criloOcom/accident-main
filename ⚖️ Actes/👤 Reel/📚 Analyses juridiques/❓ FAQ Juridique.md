@@ -27,7 +27,7 @@ Rédigé par : [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%
 [10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 
 Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
-## INTRODUCTION
+## I — INTRODUCTION
 
 La présente synthèse juridique et FAQ a été rédigée par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) dans le cadre du contentieux l'opposant à [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) à la suite de l'accident corporel du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md).
 
@@ -65,7 +65,7 @@ La présente synthèse répond en outre aux questions pratiques que la victime e
 - [VI. POINTS DE VIGILANCE ET CONCLUSION](#vi-points-de-vigilance-et-conclusion)
 <hr><hr>
 
-## I — PRÉSENTATION GÉNÉRALE DE L'AFFAIRE
+## II — PRÉSENTATION GÉNÉRALE DE L'AFFAIRE
 
 Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) à 15h00 au sein du salon de coiffure exploité par [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), situé au [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
 
@@ -74,20 +74,20 @@ La victime, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%
 Les parties mises en cause incluent la SAS elle-même, ses dirigeants [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), ainsi que [Romain DELRIEU](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), propriétaire des murs commerciaux.
 <hr><hr>
 
-## II — FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE
-### Q : DANS QUELLES CIRCONSTANCES L'ACCIDENT S'EST-IL PRODUIT ?
+## III — FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE
+### III.1 — Q : DANS QUELLES CIRCONSTANCES L'ACCIDENT S'EST-IL PRODUIT ?
 
 Le jour de l'accident, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) est revenu au salon pour une simple retouche. Un employé de l'établissement est alors monté sur un bac à shampoing en céramique qui s'est déséquilibré. Par réflexe, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a tendu la main droite pour protéger [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) et stabiliser le meuble.
 
 Sa paume a percuté une cassure préexistante et tranchante de la vasque, provoquant une section profonde de 8,5 cm.
 
-### Q : QUELLE EST LA GRAVITÉ DES LÉSIONS SUBIES ?
+### III.2 — Q : QUELLE EST LA GRAVITÉ DES LÉSIONS SUBIES ?
 
 Le bilan médical est lourd : une section partielle du tendon fléchisseur de l'index droit et une section complète du paquet vasculo-nerveux.
 
 Malgré une intervention de microchirurgie réalisée le [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) à la [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md) par le [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md), la victime souffre à ce jour d'une insensibilité totale de l'index et d'un blocage mécanique de la flexion. Son activité d'informaticien est gravement compromise, justifiant une ITT initiale de 56 jours.
 
-### Q : LE GÉRANT PEUT-IL REFUSER DE ME DONNER LE NOM DE SA COMPAGNIE D'ASSURANCE ?
+### III.3 — Q : LE GÉRANT PEUT-IL REFUSER DE ME DONNER LE NOM DE SA COMPAGNIE D'ASSURANCE ?
 
 Non, ce refus est abusif et contraire au principe de loyauté. La victime dispose d'un droit d'action directe contre l'assureur (Art. L. 124-3 du Code des assurances).
 
@@ -101,7 +101,7 @@ Si le gérant fait obstruction, la victime peut obtenir du juge des référés (
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 > **Code de procédure civile > Partie législative > Livre II > Titre VII > Section I.[^4]**
 
-### Q : QUELLES SONT LES OBLIGATIONS DE DÉCLARATION DE LA SOCIÉTÉ SUITE À L'ACCIDENT ?
+### III.4 — Q : QUELLES SONT LES OBLIGATIONS DE DÉCLARATION DE LA SOCIÉTÉ SUITE À L'ACCIDENT ?
 
 La société doit obligatoirement déclarer l'accident corporel à son assureur RC sous 5 jours ouvrés (Art. L. 113-2 du Code des assurances).
 
@@ -114,7 +114,7 @@ Le fait de cacher l'accident à son assureur ou de refuser de communiquer les co
 > **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre III.[^5]**
 <hr><hr>
 
-## III — STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
+## IV — STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
 
 La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) est engagée en tant que commettant du fait de son préposé, sur le fondement de l'article 1242 du Code civil, mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
 
@@ -135,7 +135,7 @@ Par ailleurs, une attention particulière est portée à la faute détachable de
 Enfin, le propriétaire des murs, [Romain DELRIEU](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), a été sollicité par LRAR le [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) non pas en tant que responsable de l'accident, mais comme source d'information : le bail commercial l'oblige à détenir l'attestation d'assurance RC Pro de son locataire (la SAS). À ce jour, l'AR a été retourné signé mais sans réponse sur le fond.
 <hr><hr>
 
-## IV — DÉMARCHES ET PROCÉDURES ENGAGÉES
+## V — DÉMARCHES ET PROCÉDURES ENGAGÉES
 
 À ce jour, une plainte officielle a été déposée et un dossier de recours contre tiers a été ouvert auprès de la CPAM.
 
@@ -154,7 +154,7 @@ Sur le plan civil, plusieurs mises en demeure ont été expédiées le [29 juin 
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^3]**
 <hr><hr>
 
-## V — CALENDRIER ET DÉLAIS DE PROCÉDURE
+## VI — CALENDRIER ET DÉLAIS DE PROCÉDURE
 
 La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jours pour répondre aux mises en demeure avant l'engagement d'un référé-provision sur le fondement de l'article 835 du Code de procédure civile.
 
@@ -171,7 +171,7 @@ Une étape cruciale est fixée au [12 novembre 2026](../../../%F0%9F%A7%A0%20Mem
 > **Code civil > Partie législative > Livre III > Titre XX > Chapitre II > Section 2.[^10]**
 <hr><hr>
 
-## VI — POINTS DE VIGILANCE ET CONCLUSION
+## VII — POINTS DE VIGILANCE ET CONCLUSION
 
 Bien que le dossier soit solide, certains points bloquants persistent, notamment l'absence de constat d'huissier immédiat et le refus des dirigeants de communiquer les coordonnées de leur assureur.
 

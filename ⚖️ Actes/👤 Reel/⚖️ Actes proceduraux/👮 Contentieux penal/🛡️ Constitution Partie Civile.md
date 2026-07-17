@@ -13,13 +13,13 @@ tags:
 statut: consolide
 destinataire: Doyen des Juges d'Instruction
 auteur: La Victime
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md
 source: drive
 drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
 jx: J+38
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 👮 Contentieux penal › 🛡️ Constitution Partie Civile*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 👮 Contentieux penal › 🛡️ Constitution Partie Civile*
 <!-- /Breadcrumb -->
 
 # [CONSTITUTION DE PARTIE CIVILE](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
@@ -35,14 +35,14 @@ A l'attention de Monsieur le Doyen des Juges d'Instruction
 Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
 Blagnac, le [6 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)
-## INTRODUCTION
+## I — INTRODUCTION
 
 La presente [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) est formee par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) dans le cadre de la procedure penale suivie a l'encontre de la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), de son President Sabir MOUNTASSER et de sa Directrice Generale Catherine ANDISSAC, en application des articles 2 et suivants du Code de procedure penale.
 
 Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la reparation de l'integralite des prejudices corporels, materiels et moraux decoulant de l'accident survenu le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 <hr><hr>
 
-## I — EXPOSE DES FAITS
+## II — EXPOSE DES FAITS
 
 Le [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), alors que [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) se trouvait en qualite de client au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sis [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), un grave accident corporel est survenu.
 
@@ -60,15 +60,15 @@ Le prepose de l'exploitation, Ayoub BENNOURINE, a escalade la vasque en ceramiqu
 
 Une microchirurgie d'urgence a ete pratiquee le [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) au centre SOS Main de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md). L'etat de la victime a ete declare **consolide au 1er mars 2027** par l'expert judiciaire designe par ordonnance de refere du 31 juillet 2026, conformément au rapport d'expertise depose le 12 juin 2027.
 
-### ANTECEDENTS ET CARENCES DES MIS EN CAUSE
+### II.1 — ANTECEDENTS ET CARENCES DES MIS EN CAUSE
 
 La SAS [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), immatriculee au RCS sous le SIREN [938 033 222](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md), a ete constituee avec un capital social de 200 € seulement. Son President, Sabir MOUNTASSER, et sa Directrice Generale, Catherine ANDISSAC, n'ont souscrit aucune assurance de responsabilite civile professionnelle pour l'exploitation du salon, en violation des obligations legales et reglementaires applicables aux etablissements recevant du public (ERP).
 
 Malgre des mises en demeure recommandees adressees le [29 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) a la SAS, au President et a la Directrice Generale, aucun des mis en cause n'a communique les coordonnees d'un assureur, laissant presumer une absence totale de couverture.
 <hr><hr>
 
-## II — FONDEMENTS JURIDIQUES
-### A. SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES
+## III — FONDEMENTS JURIDIQUES
+### III.1 — SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES
 
 Les faits decrits ci-dessus sont constitutifs du delit de blessures involontaires prevu et reprime par les articles 222-19 et 222-20 du Code penal.
 
@@ -98,7 +98,7 @@ La **violation manifestement deliberee** est caracterisee par :
   
 - L'absence de mise a disposition d'un escabeau, contraignant le prepose a escalader la vasque
 
-### B. SUR LA RESPONSABILITE CIVILE PERSONNELLE DES DIRIGEANTS
+### III.2 — SUR LA RESPONSABILITE CIVILE PERSONNELLE DES DIRIGEANTS
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
@@ -134,7 +134,7 @@ En l'espece, les fautes separables des dirigeants sont caracterisees par :
 
 Ces fautes, commises personnellement par le President et la Directrice Generale, sont detachables de leurs fonctions sociales et engagent leur responsabilite sur leur patrimoine propre.
 
-### C. SUR LE FONDEMENT DU DROIT DE LA CONSOMMATION
+### III.3 — SUR LE FONDEMENT DU DROIT DE LA CONSOMMATION
 
 > *« Le professionnel de vente est tenu d'une obligation d'information précontractuelle sur les caractéristiques essentielles du bien ou du service. »* <br>
 > [Article L. 111-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438) <br>
@@ -146,7 +146,7 @@ Ces fautes, commises personnellement par le President et la Directrice Generale,
 
 Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'information precontractuelle et a une obligation de conformite du service fourni. La prestation realisee n'etait manifestement pas conforme aux exigences de securite legitimes d'un consommateur, ce qui constitue un fondement complementaire a l'action civile et renforce l'absence de contestation serieuse.
 
-### D. SUR LE DEFAUT D'ASSURANCE DE RESPONSABILITE CIVILE
+### III.4 — SUR LE DEFAUT D'ASSURANCE DE RESPONSABILITE CIVILE
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
@@ -155,7 +155,7 @@ Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'inf
 En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles 706-3 et 706-14 du Code de procédure pénale (Titre XIV), pourra être directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) sollicite formellement la designation du FGTI comme garant subrogatoire.
 <hr><hr>
 
-## III — PREJUDICES
+## IV — PREJUDICES
 
 Les prejudices subis par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), evalues par expertise judiciaire (rapport depose le 12 juin 2027, consolidation au 1er mars 2027), sont les suivants :
 
@@ -176,7 +176,7 @@ Les prejudices subis par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0
 | **Total estimatif global** | | **120 000 — 160 000 €** | Avant recours CPAM — conforme au rapport d'expertise |
 <hr><hr>
 
-## IV — DEMANDES
+## V — DEMANDES
 
 Par ces motifs, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction de :
 
@@ -200,7 +200,7 @@ Vu les articles 222-19 et 222-20 du Code penal (ce dernier confirme en vigueur d
 Vu les articles 1240 et 1242 du Code civil,
 Vu les articles R. 4323-58 et suivants du Code du travail,
 Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
-Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
+Vu l'article L. 227-8 du Code de commerce,
 Vu l'article L. 124-3 du Code des assurances,
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>

@@ -1,17 +1,17 @@
 ---
-title: "Demande d'Information a l'Inspection du Travail"
-description: "L'Adresse de la Victime"
+title: Demande d'Information a l'Inspection du Travail
+description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-05
 tags:
-  - inspection du travail
-  - enquete
-  - securite
-  - DUERP
+- inspection du travail
+- enquete
+- securite
+- DUERP
 statut: final
 destinataire: DDETS de la Region
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/09 ✉️ Courrier Inspection Travail.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 Inspection Travail.md
 source: drive
 drive_id: 1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM
 jx: J+37
@@ -43,7 +43,7 @@ Cité Administrative
 Réf : Signalement effectué par la mairie de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) auprès de la Préfecture de l'Ariège le 1er juin 2026  
 
 Madame, Monsieur l'Inspecteur du Travail,  
-## INTRODUCTION
+## I — INTRODUCTION
 
 La présente lettre a pour objet de connaître les diligences accomplies par vos services à la suite de l'accident corporel grave survenu le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (sise [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)), et de porter à votre attention plusieurs éléments matériels susceptibles de caractériser des manquements à la réglementation du travail.
 
@@ -52,7 +52,7 @@ Cet accident a été causé par le **basculement** de la vasque en céramique du
 Cette blessure a entraîné une plaie palmaire profonde de la main droite avec section partielle du tendon fléchisseur superficiel (FDP) et du paquet vasculo-nerveux collatéral radial de l'index, ayant nécessité une neurolyse du nerf palmaire et une microchirurgie d'urgence en SOS Main le 30 mai 2026. Les séquelles fonctionnelles sont importantes et durablement invalidantes (ITT de 56 jours, consolidation au 1er mars 2027, DFP de 12 %, souffrances endurées 4/7, incidence professionnelle majeure — cf. rapport d'expertise médicale du 29 mai 2027).
 <hr><hr>
 
-## I — PROCÉDURES EN COURS
+## II — PROCÉDURES EN COURS
 
 Les procédures suivantes ont été engagées :
 
@@ -72,39 +72,49 @@ Les procédures suivantes ont été engagées :
 
 **3. Réquisitoire introductif** (J+47 — Parquet de Foix)
 - Transmission au doyen des juges d'instruction le 15 juillet 2026
+
 - Double qualification retenue (prudence : article 222-20 CP, subsidiaire : article 222-19 CP)
+
 - Réquisitions d'actes d'instruction détaillées (audition des dirigeants, communication PV, attestations, vidéosurveillance, constatations sur site)
 
 **4. Expertise médicale judiciaire**
 - Rapport d'expertise déposé le 29 mai 2027 (pièce n°14 de la CPC)
+
 - Consolidation au 1er mars 2027
+
 - DFP 12 % (point Mornet médian 2 100 € → 25 200 €)
+
 - Souffrances endurées 4/7 (14 000 €)
+
 - Incidence professionnelle majeure (BIBAL → 28 000 €)
+
 - Total extra-patrimonial : 49 231 €
+
 - Fourchette globale tous postes : 120 000 – 160 000 €
 
 **5. Procédure de référé provision** (J+63)
 - Assignation à jour fixe devant le président du TJ de Foix (art. 145 CPC)
+
 - Provision de 15 000 € sollicitée à valoir sur l'indemnisation définitive
+
 - Mise en demeure de l'assureur RC (J+50) restée sans réponse
 <hr><hr>
 
-## II — CONTEXTE DE LA SAISINE DE VOS SERVICES
+## III — CONTEXTE DE LA SAISINE DE VOS SERVICES
 
 À la suite de cet accident, Monsieur [Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), Adjoint au Maire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), m'a informé le 1er juin 2026 avoir pris l'attache des services de la Préfecture de l'Ariège afin de diligenter l'Inspection du Travail et le CODAF.
 
 En qualité de victime directe et de personne directement concernée par les faits, j'ai un intérêt légitime et direct à ce que les manquements soient formellement constatés pour éviter toute réitération. Je sollicite aujourd'hui vos services pour les motifs suivants :
 
-### 1. INFORMATION SUR L'ÉTAT D'AVANCEMENT DE L'ENQUÊTE
+### III.1 — INFORMATION SUR L'ÉTAT D'AVANCEMENT DE L'ENQUÊTE
 
 Je souhaiterais être informé de l'état d'avancement de votre enquête et, le cas échéant, de ses conclusions.
 
-### 2. COMMUNICATION DU RAPPORT D'INSPECTION
+### III.2 — COMMUNICATION DU RAPPORT D'INSPECTION
 
 En qualité de personne directement concernée par les faits, je sollicite la transmission du rapport d'inspection sur le fondement de [l'article L. 311-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367683)[^2], sous réserve du secret de l'enquête en cours.
 
-### 3. VÉRIFICATION DES ÉLÉMENTS DE SÉCURITÉ SUIVANTS
+### III.3 — VÉRIFICATION DES ÉLÉMENTS DE SÉCURITÉ SUIVANTS
 
 Je porte à votre attention les faits suivants, susceptibles de caractériser des manquements à la réglementation du travail :
 
@@ -137,7 +147,7 @@ Il existe une possibilité que le préposé exerçant dans l'établissement ne s
 
 Cet indice est étayé par le fait que la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) déclare officiellement zéro salarié au Registre National des Entreprises, alors que l'activité commerciale du salon est continue et requiert la présence physique de ce préposé.
 
-### 4. TRANSMISSION AU PARQUET
+### III.4 — TRANSMISSION AU PARQUET
 
 Si les faits constatés par vos contrôles s'avèrent constitutifs d'infractions pénales, je vous remercie par avance de bien vouloir transmettre votre rapport au Procureur de la République près le Tribunal Judiciaire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) conformément à l'Article 40 du Code de procédure pénale.
 

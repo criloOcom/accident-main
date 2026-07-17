@@ -1,18 +1,18 @@
 ---
-title: "Signalement de Securite ERP au SDIS"
-description: "L'Adresse de la Victime"
+title: Signalement de Securite ERP au SDIS
+description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-05
 tags:
-  - SDIS
-  - ERP
-  - securite incendie
-  - signalement
-  - email
+- SDIS
+- ERP
+- securite incendie
+- signalement
+- email
 statut: projet
 destinataire: SDIS de l'Ariege
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/18 ✉️ Courrier SDIS.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 SDIS.md
 source: drive
 drive_id: 1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE
 jx: J+37
@@ -58,9 +58,9 @@ Le salon de coiffure constitue un Etablissement Recevant du Public (ERP) de 5e c
 
 Je porte par la presente a votre connaissance les faits suivants, susceptibles de constituer des non-conformites aux regles de securite applicables aux ERP :
 
-#### **1. EQUIPEMENT PRESENTANT UN DANGER**Le bac a shampoing en ceramique, instable et presentant une cassure majeure preexistante accessible au public, constituait un danger pour les occupants de l'etablissement et notamment pour les clients.
+#### I.1.a — **1. EQUIPEMENT PRESENTANT UN DANGER**Le bac a shampoing en ceramique, instable et presentant une cassure majeure preexistante accessible au public, constituait un danger pour les occupants de l'etablissement et notamment pour les clients.
 
-#### **2. ABSENCE D'EQUIPEMENT D'ACCES SECURISE**Le prepose a du monter sur ce bac a shampoing pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur, en violation des regles de securite contre les chutes de hauteur.
+#### I.1.b — **2. ABSENCE D'EQUIPEMENT D'ACCES SECURISE**Le prepose a du monter sur ce bac a shampoing pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur, en violation des regles de securite contre les chutes de hauteur.
 
 Je vous remercie de bien vouloir me tenir informe des suites reserves a ce signalement.
 

@@ -1,19 +1,20 @@
 ---
-title: "Confirmation Officielle de Signalement à la Préfecture"
-description: "Signalement à la Préfecture de l'Ariège / CODAF — Accident du 29 mai 2026 au salon SAS LES MAUVAIS GARCONS"
+title: Confirmation Officielle de Signalement à la Préfecture
+description: Signalement à la Préfecture de l'Ariège / CODAF — Accident du 29 mai
+  2026 au salon SAS LES MAUVAIS GARCONS
 type: courrier
 date: 2026-07-05
 tags:
-  - préfecture
-  - signalement
-  - sécurité
-  - ERP
-  - CODAF
-  - LRAR
+- préfecture
+- signalement
+- sécurité
+- ERP
+- CODAF
+- LRAR
 statut: final — mis à jour avec expertise 2027-05-29
 destinataire: Préfecture de l'Ariège — Référent CODAF
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/13 ✉️ Courrier Prefecture.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 Prefecture.md
 source: drive
 drive_id: 1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM
 jx: J+37
@@ -41,7 +42,7 @@ Objet : Confirmation officielle de signalement — Accident du [29 mai 2026](../
 Ref : Signalement effectué par la Mairie de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) le 1er juin 2026
 
 Madame, Monsieur le Préfet,
-## INTRODUCTION
+## I — INTRODUCTION
 
 La présente est adressée à vos services par [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sise [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
 
@@ -50,7 +51,7 @@ Cet accident a été causé par le **basculement** de la vasque en céramique du
 Cette blessure a entraîné une plaie palmaire profonde de la main droite avec section partielle du tendon fléchisseur superficiel (FDP) et du paquet vasculo-nerveux collatéral radial de l'index, ayant nécessité une neurolyse du nerf palmaire et une microchirurgie d'urgence en SOS Main le 30 mai 2026. Les séquelles fonctionnelles sont importantes et durablement invalidantes (ITT de 56 jours, consolidation au 1er mars 2027, DFP de 12 %, souffrances endurées 4/7, incidence professionnelle majeure — cf. rapport d'expertise médicale du 29 mai 2027).
 <hr><hr>
 
-## I — RAPPEL DES FAITS
+## II — RAPPEL DES FAITS
 
 Le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), le préposé de l'exploitation est monté sur la vasque en céramique du bac à shampoing pour accéder au poste de télévision, en l'absence de tout équipement d'accès adapté (escabeau, marchepied) mis à disposition par l'employeur. Sous son poids, la vasque — déjà instable et fragilisée par une **cassure majeure préexistante non signalée** — a basculé violemment. Ma main droite, tendue par réflexe pour protéger le préposé, a heurté cette cassure, entraînant des lésions graves ayant nécessité une microchirurgie d'urgence en SOS Main.
 
@@ -59,13 +60,16 @@ Le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Token
 **Cet accident révèle de multiples manquements aux règles de sécurité applicables aux établissements recevant du public (ERP) et au Code du travail.**
 <hr><hr>
 
-## II — PROCÉDURES EN COURS
+## III — PROCÉDURES EN COURS
 
 Plusieurs procédures ont été engagées à ce jour :
 
 1. Dépôt de plainte au commissariat de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) (PV n° [2026/015967](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes))
+
 2. [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise au Tribunal Judiciaire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
+
 3. Mises en demeure LRAR à la SAS, à ses dirigeants et au propriétaire des murs ([29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+
 4. Action directe contre l'assureur RC professionnelle (Article L.124-3 du Code des assurances)
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
@@ -73,14 +77,19 @@ Plusieurs procédures ont été engagées à ce jour :
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
 
 5. Dossier de recours contre tiers à la CPAM (n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**])
+
 6. Demande d'enquête à l'Inspection du Travail (DDETS 09 / DREETS Occitanie)
+
 7. Saisine du CODAF
+
 8. **Réquisitoire introductif** (J+47 — Parquet de Foix) : double qualification 222-19/222-20 CP, transmission au doyen des juges d'instruction
+
 9. **Expertise médicale judiciaire** : rapport déposé le 29 mai 2027 (consolidation au 1er mars 2027, DFP 12 %, SE 4/7, IP majeure, total extra-patrimonial 49 231 €, fourchette globale 120 000 – 160 000 €)
+
 10. **Procédure de référé provision** (J+63) : assignation à jour fixe (art. 145 CPC), provision de 15 000 € sollicitée
 <hr><hr>
 
-## III — SIGNALEMENTS TRANSMIS
+## IV — SIGNALEMENTS TRANSMIS
 
 Il m'a été indiqué par la Mairie de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) le 1er juin 2026 qu'un signalement avait été effectué auprès de vos services et du CODAF. Je sollicite par la présente confirmation que ce signalement a bien été reçu et instruit par vos services, et souhaite être tenu informé des suites qui lui sont réservées.
 
@@ -103,12 +112,14 @@ Je porte par ailleurs à votre connaissance les manquements suivants, constatés
 - Travail dissimulé présumé
 <hr><hr>
 
-## IV — DEMANDE DE CONFIRMATION ET DE SUITE
+## V — DEMANDE DE CONFIRMATION ET DE SUITE
 
 Je sollicite de vos services :
 
 1. La confirmation du signalement transmis par la Mairie le 1er juin 2026
+
 2. L'état d'avancement des diligences entreprises par vos services et le CODAF
+
 3. La communication des suites réservées à ce signalement
 
 Mes coordonnées : [10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md) — Courriel : [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)

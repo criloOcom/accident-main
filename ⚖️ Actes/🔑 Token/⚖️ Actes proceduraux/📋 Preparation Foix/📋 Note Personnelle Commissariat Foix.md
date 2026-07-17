@@ -245,42 +245,38 @@ La fermeture prolongée du salon après l'accident, combinée au remplacement co
 
 ### A. Correction de l'identité de la société exploitante
 
-Je demande que la société **[Le Nouvel Exploitant (HB BARBER)] (SAS)** — SIREN **[SIREN du Nouvel Exploitant]** — soit formellement intégrée dans la procédure en qualité de **société exploitante des lieux au 29 mai 2026**, en lieu et place ou en complément de **[L'Exploitant du Commerce (La SAS)]** initialement visée.
+Je demande que la société **[Le Nouvel Exploitant (HB BARBER)] (SAS)** — SIREN **[SIREN du Nouvel Exploitant]** — soit formellement reconnue dans la procédure comme la **société exploitant effectivement les lieux au 29 mai 2026**, en remplacement de **[L'Exploitant du Commerce (La SAS)]** que j'avais initialement désignée par erreur, faute d'information disponible.
 
-### B. Maintien des investigations sur **[L'Exploitant du Commerce (La SAS)]**
+Je verse au dossier un **erratum formel** (pièce n°4) qui détaille les circonstances de cette erreur, la chronologie de la découverte de **[Le Nouvel Exploitant (HB BARBER)]**, et la liste complète des actes concernés par cette correction.
 
-Je demande que **[L'Exploitant du Commerce (La SAS)]** et ses dirigeants **(**[Le Président de l'Exploitation]** **[Le Président de l'Exploitation]**, **[La Directrice Générale de l'Exploitation]**/**[La Directrice Générale de l'Exploitation]**)** restent dans le périmètre de l'enquête, compte tenu :
-- De la **continuité économique** entre les deux sociétés (même local, même activité, DG commune)
-- De la succession chronologique très rapprochée (cessation 10/03 → création 22/04 → accident 29/05)
-- Des conditions de la sortie des lieux (état des lieux du 10 mars 2026 à analyser)
-
-### C. Exploitation des nouvelles pièces
+### B. Exploitation des nouvelles pièces
 
 Je verse au dossier :
 1. **Pièce n°1 :** Courriel du bailleur **[Le Propriétaire des Murs]** du 16 juillet 2026 (avec ses 3 pièces jointes)
 2. **Pièce n°2 :** Attestation RNE **[Le Nouvel Exploitant (HB BARBER)]** (DATA INPI — SIREN **[SIREN du Nouvel Exploitant]**)
 3. **Pièce n°3 :** Note de constatations du 16 juillet 2026 (visite des lieux)
+4. **Pièce n°4 :** Erratum formel — Correction de l'identité de la société exploitante (document joint, déposé également par LRAR séparée)
 
-### D. Demandes d'actes d'enquête
+### C. Demandes d'actes d'enquête
+
+Je concentre mes demandes sur la seule société **[Le Nouvel Exploitant (HB BARBER)]** .
 
 Je sollicite respectueusement :
 
 1. **L'audition des personnes suivantes :**
- - **[Le Préposé de l'Exploitation]** — coiffeur présent le jour des faits, identifié par le virement Wero
- - **[Le Président du Nouvel Exploitant]** — président de la SAS **[Le Nouvel Exploitant (HB BARBER)]**
- - **[La Directrice Générale de l'Exploitation] (**[La Directrice Générale de l'Exploitation]**)** — directrice générale des deux sociétés
- - **[Le Propriétaire des Murs]** — bailleur, sur les baux successifs et les assurances
+  - **[Le Préposé de l'Exploitation]** — coiffeur présent le jour des faits, identifié par le virement Wero
+  - **[Le Président du Nouvel Exploitant]** — président de la SAS **[Le Nouvel Exploitant (HB BARBER)]**
+  - **[La Directrice Générale de l'Exploitation]** — directrice générale de la SAS **[Le Nouvel Exploitant (HB BARBER)]**
+  - **[Le Propriétaire des Murs]** — bailleur, sur les baux et les assurances
 
 2. **Des réquisitions pour obtenir :**
- - Le(s) **bail(aux) commercial(aux)** du 22 rue Lafaurie (**[L'Exploitant du Commerce (La SAS)]** puis **[Le Nouvel Exploitant (HB BARBER)]**)
- - Les **attestations d'assurance** responsabilité civile professionnelle de chaque exploitant
- - Les **états des lieux d'entrée et de sortie**
- - Les **enregistrements de vidéosurveillance** éventuellement encore disponibles
+  - Le **bail commercial** du 22 rue Lafaurie pour **[Le Nouvel Exploitant (HB BARBER)]**
+  - Les **attestations d'assurance** responsabilité civile professionnelle
+  - Les **enregistrements de vidéosurveillance** éventuellement encore disponibles
 
 3. **La vérification :**
- - De la **date exacte de cessation** d'activité de **[L'Exploitant du Commerce (La SAS)]**
- - De la **réalité de l'exploitation** par **[Le Nouvel Exploitant (HB BARBER)]** au 29 mai 2026
- - De l'existence d'une **assurance RC pro** pour la période
+  - De la **réalité de l'exploitation** par **[Le Nouvel Exploitant (HB BARBER)]** au 29 mai 2026
+  - De l'existence d'une **assurance RC pro** pour la période
 
 ---
 

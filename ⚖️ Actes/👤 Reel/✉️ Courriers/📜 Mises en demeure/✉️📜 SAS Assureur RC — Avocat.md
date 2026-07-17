@@ -62,8 +62,11 @@ Cet accident a provoqué une **section complète du tendon fléchisseur profond 
 Les lésions, leur gravité et leurs suites ont été contradictoirement constatées par **expertise médicale judiciaire** dont le rapport a été déposé le 12 juin 2027. L'expert retient :
 
 - **Consolidation** : 1er mars 2027 (12 mois de consolidation) ;
+
 - **Déficit Fonctionnel Permanent (DFP)** : **12 %** ;
+
 - **Souffrances Endurées (SE)** : **4/7** ;
+
 - **Incidence professionnelle majeure** : ma cliente exerce la profession d'informaticienne indépendante, activité pour laquelle la dextérité fine de la main dominante est indispensable ; l'expert conclut à une répercussion directe et durable sur sa capacité de travail.
 
 Le préjudice corporel de ma cliente, évalué selon la nomenclature Dintilhac, s'établit dans une fourchette globale de **120 000 € à 160 000 €**, dont **49 231 €** au titre des seuls postes extra-patrimoniaux.
@@ -111,17 +114,25 @@ En conséquence de ce qui précède, je vous mets formellement en demeure, au no
 Sous réserve de tous droits et moyens, y compris pénaux, expressément réservés, je me réserve la faculté de :
 
 - Saisir le juge des référés d'une demande de provision complémentaire sur le fondement de l'article 835 du Code de procédure civile, à vos frais exclusifs ;
+
 - Solliciter la condamnation de votre compagnie aux intérêts au taux légal majoré à compter de la présente mise en demeure, conformément à l'article L. 211-9 du Code des assurances ;
+
 - Demander au juge d'instruction d'étendre les réquisitions pénales aux relations contractuelles entre la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et votre compagnie ;
+
 - Engager toute action en responsabilité contre votre compagnie pour manquement à l'obligation de répondre dans le délai légal.
 
 Je joins à la présente l'intégralité des pièces déjà communiquées dans le cadre de la procédure :
 
 - Procès-verbal de police relatif à l'accident ;
+
 - Certificat médical initial du 29 mai 2026 et compte-rendu opératoire du 30 mai 2026 ;
+
 - Rapport d'expertise médicale judiciaire du 12 juin 2027 ;
+
 - [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) ;
+
 - [Réquisitoire introductif du Parquet](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) ;
+
 - [Ordonnance de référé provision](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md) et [ordonnance sur requête art. 145 CPC](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md).
 
 Dans l'attente de votre retour écrit et circonstancié dans le délai imparti, je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.
@@ -147,11 +158,14 @@ Variante « avocat » de la mise en demeure adressée à l'assureur RC, destiné
 
 **Calibrage :**
 - Provision inchangée : 15 000 €
+
 - Délai réduit à 15 jours (ton avocat)
+
 - Référence explicite au réquisitoire J+47 et à l'information judiciaire en cours
 
 **Documents liés :**
 - Version victime : [`✉️📜 SAS Assureur RC.md`](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC.md)
+
 - Réquisitoire introductif : [`⚖️ Requisitoire introductif.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md)
 <hr><hr>
 

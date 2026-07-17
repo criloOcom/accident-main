@@ -44,7 +44,7 @@ Courriel : [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9
 Réf : SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) — Dossier CPAM n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**  
 
 Madame, Monsieur le Directeur,  
-## INTRODUCTION
+## I — INTRODUCTION
 
 La présente lettre est adressée au FGTI par [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [938 033 222](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)).
 
@@ -53,7 +53,7 @@ Cet accident a été causé par la chute brutale du préposé de l'exploitation 
 Sa chute a entraîné sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant nécessité une microchirurgie d'urgence en SOS Main. Mon ITT a été évaluée à 56 jours (du 29 mai au [23 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md)).
 <hr><hr>
 
-## I — PROCÉDURES JUDICIAIRES ENGAGÉES
+## II — PROCÉDURES JUDICIAIRES ENGAGÉES
 
 À la date de la présente, les procédures suivantes ont été engagées :
 
@@ -72,7 +72,7 @@ Ces démarches visent à identifier les débiteurs civils et à faire reconnaît
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^1]**  
 <hr><hr>
 
-## II — RAPPEL DES FAITS
+## III — RAPPEL DES FAITS
 
 L'accident est survenu dans les conditions matérielles suivantes :
 
@@ -83,7 +83,7 @@ L'accident est survenu dans les conditions matérielles suivantes :
 - Il s'y ajoute des éléments de contexte tels qu'une absence présumée de DUERP, de déclaration préalable à l'embauche (DPAE) pour le préposé et d'assurance RC professionnelle.
 <hr><hr>
 
-## III — INDEMNITÉS SOLLICITÉES
+## IV — INDEMNITÉS SOLLICITÉES
 
 Le montant total estimé de mon préjudice corporel, selon la nomenclature Dintilhac, s'élève à **~109 500 €**, se décomposant comme suit. Ces estimations de préjudices sont établies à titre purement indicatif et sous toutes réserves dans l'attente d'une expertise médicale judiciaire et de l'appréciation définitive de la CIVI et du FGTI :
 
@@ -110,7 +110,7 @@ Le montant total estimé de mon préjudice corporel, selon la nomenclature Dinti
 - Article 700 du CPC : 3 000 €
 <hr><hr>
 
-## IV — PRÉ-ENREGISTREMENT ET DEMANDE D'INFORMATION
+## V — PRÉ-ENREGISTREMENT ET DEMANDE D'INFORMATION
 
 Conformément aux articles 706-3 et suivants du Code de procédure pénale, je comprends qu'une indemnisation peut être sollicitée, par l'intermédiaire de la Commission d'Indemnisation des Victimes d'Infractions (CIVI), lorsque l'auteur de l'infraction est inconnu, insolvable ou dans l'impossibilité de réparer le dommage.
 
