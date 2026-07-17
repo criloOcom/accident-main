@@ -53,7 +53,31 @@ statut: preparation
   - Intitulé bordereau : *« Pièce n° X — Certificat de dépôt de fonds Caisse d'Épargne — Capital de la SAS HB BARBER (8 avril 2026) »*.
   - Attendu type pour requête : *« Attendu que la pièce n° X, certificat de dépôt de fonds délivré le 8 avril 2026 par la Caisse d'Épargne Midi-Pyrénées, atteste de la constitution de la SAS HB BARBER pour exploiter le local sis 22 rue/Grande Rue La Faurie à Foix, avec un capital de 1 000 € détenu à hauteur de 990 € par M. Hamza BERGUIGA et de 10 € par Mme Catherine SORROCHE ; qu'il en résulte que ces derniers contrôlent conjointement cette société, ce qui corrobore, avec les autres pièces du dossier, la continuité d'exploitation du salon de coiffure au sein duquel l'accident du 29 mai 2026 est survenu. »*
 
-## 4. Suite procédurale (rappel)
+## 5. Commentaires juridiques par pièce (bordereau)
+
+Commentaires à produire sous chaque pièce dans un bordereau ou un dossier d'avocat.
+
+### 5.1 LRAR du 29/06/2026 — SAS LES MAUVAIS GARÇONS et ses dirigeants
+
+> Cette lettre recommandée du 29 juin 2026, adressée à la SAS LES MAUVAIS GARÇONS et à ses dirigeants (M. MOUNTASSER, Mme ANDISSAC/SORROCHE) à l'adresse du salon, vaut mise en demeure explicite de déclarer le sinistre et de communiquer les garanties d'assurance. Elle établit la diligence de la victime dans la recherche de l'assureur et la préservation des preuves, ainsi que l'absence de réponse des destinataires. Bien qu'elle vise formellement la première société exploitante, elle démontre que la dirigeante commune aux deux structures a été informée des faits et de leurs conséquences, ce qui sera pris en compte dans l'appréciation d'une éventuelle faute personnelle et de la continuité d'exploitation.
+
+### 5.2 Relance du 08/07/2026 — SAS LES MAUVAIS GARÇONS et ses dirigeants
+
+> Cette lettre recommandée du 8 juillet 2026 constitue la relance formelle de la mise en demeure du 29 juin 2026, adressée conjointement à la SAS LES MAUVAIS GARÇONS, à M. MOUNTASSER et à Mme ANDISSAC/SORROCHE. Elle rappelle les statuts de distribution des LRAR précédentes et intime expressément la conservation des éléments matériels (vasque, vidéosurveillance) sous peine des poursuites prévues à l'article 434-4 du Code pénal pour entrave à la manifestation de la vérité. Elle démontre la persistance et la bonne foi de la victime dans ses démarches amiables, ainsi que l'inertie délibérée des destinataires malgré un second avertissement circonstancié. Le défaut de réponse à cette relance pourra être invoqué à l'appui d'une demande de référé sur requête (article 145 CPC), le risque de disparition des preuves étant désormais avéré et documenté.
+
+### 5.3 LRAR du 29/06/2026 — Bailleur Romain DELRIEU
+
+> Cette lettre recommandée du 29 juin 2026, adressée à M. Romain DELRIEU, propriétaire des murs du 22 Grande Rue La Faurie à Foix, a été distribuée (accusé de réception signé le 3 juillet 2026). Elle sollicite la communication des coordonnées de l'assureur de responsabilité civile de l'exploitant en activité au 29 mai 2026. M. DELRIEU a répondu par courriel le 16 juillet 2026 en affirmant que la SAS LES MAUVAIS GARÇONS avait quitté les lieux le 10 mars 2026. Cette pièce établit que la victime a également approché le propriétaire des murs en qualité de tiers détenteur d'information, conformément aux articles 11, 138 à 142 et 145 du Code de procédure civile. La réponse partielle du bailleur, si elle éclaire la chronologie locative, ne libère pas ce dernier de son obligation de communiquer les assurances couvrant les lieux pour la période concernée — notamment la sienne propre en tant que bailleur.
+
+### 5.4 LRAR du 24/06/2026 — CPAM (dossier RCT)
+
+> Cette lettre recommandée du 24 juin 2026 a été adressée à la CPAM de Toulouse aux fins de déclaration du sinistre et d'ouverture du dossier Recours Contre Tiers (RCT n° 31727387). Elle établit que la victime a immédiatement informé l'organisme social de l'accident et de ses circonstances, permettant l'ouverture de l'enquête de la caisse et le déclenchement de la procédure de recours. L'accusé de réception numérique disponible atteste de la bonne réception par la CPAM. Cette diligence protège la victime contre tout argument de retard dans la déclaration et ancre le sinistre dans le circuit légal d'indemnisation.
+
+### 5.5 Mise en demeure du 09/07/2026 — Maire de Foix
+
+> Cette lettre recommandée du 9 juillet 2026 a été adressée à Monsieur le Maire de Foix sur le fondement de ses pouvoirs de police administrative (articles L. 2212-2 et L. 2212-4 du Code général des collectivités territoriales). Elle signale les manquements graves à l'obligation de sécurité des locaux ayant causé l'accident du 29 mai 2026 et sollicite l'exercice des pouvoirs de police pour la communication des documents d'assurance et de sécurité. Cette pièce démontre que la victime a épuisé les voies amiables et administratives avant d'envisager une action judiciaire. Elle constitue également un signalement officiel susceptible de déclencher une enquête administrative ou une procédure COMSUR, ce qui renforce la pression sur l'exploitant et le propriétaire pour une résolution rapide du litige.
+
+## 6. Suite procédurale (rappel)
 
 - **20/07/2026 :** plainte complémentaire au Commissariat de Foix pour corriger la plainte de Toulouse (intégrer HB BARBER comme exploitant).
 - **Après réception du nouveau PV Foix :**
