@@ -1,18 +1,18 @@
 ---
-title: "Information de Litige au Service des Impots des Entreprises"
-description: "L'Adresse de la Victime"
+title: Information de Litige au Service des Impots des Entreprises
+description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-05
 tags:
-  - SIE
-  - impot
-  - information
-  - litige
-  - LRAR
+- SIE
+- impot
+- information
+- litige
+- LRAR
 statut: projet
 destinataire: Service des Impôts des Entreprises de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/15 ✉️ Courrier SIE.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 SIE.md
 source: drive
 drive_id: 1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA
 jx: J+37

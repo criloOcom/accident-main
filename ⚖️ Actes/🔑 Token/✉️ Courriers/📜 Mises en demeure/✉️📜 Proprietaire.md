@@ -1,17 +1,17 @@
 ---
-title: "Demande de Communication d'Assurance RC au Propriétaire des Murs"
-description: "[L'Adresse de la Victime]** <br>"
+title: Demande de Communication d'Assurance RC au Propriétaire des Murs
+description: '[L''Adresse de la Victime]** <br>'
 type: courrier
 date: 2026-06-29
 tags:
-  - mise en demeure
-  - bailleur
-  - assurance
-  - LRAR
+- mise en demeure
+- bailleur
+- assurance
+- LRAR
 statut: envoye
 destinataire: Le Propriétaire des Murs
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/05 ✉️ Courrier Proprietaire.md
+reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 Proprietaire.md
 source: drive
 drive_id: 1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4
 jx: J+31

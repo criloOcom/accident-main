@@ -43,7 +43,11 @@ type: memory
 | Texte original | Token | Note |
 |---|---|---|
 <a id="token-l-exploitant-du-commerce-la-sas"></a>
-| SAS LES MAUVAIS GARCONS / LES MAUVAIS GARÇONS | [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) | ⚠ Personne morale UNIQUE — PAS le Président ni la DG. L'ajout `(La SAS)` clarifie qu'il s'agit de la société, pas de ses dirigeants. |
+| SAS LES MAUVAIS GARCONS / LES MAUVAIS GARÇONS | [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) | ⚠ Exploitant HISTORIQUE — voir aussi [**[Le Nouvel Exploitant (HB BARBER)]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) |
+<a id="token-le-nouvel-exploitant-hb-barber"></a>
+| SAS HB BARBER / HB BARBER | [**[Le Nouvel Exploitant (HB BARBER)]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) | ⚠ Nouvel exploitant au 29/05/2026 (jour de l'accident) — même local que LMG |
+<a id="token-le-president-du-nouvel-exploitant"></a>
+| Hamza El Hachemi BERGUIGA / BERGUIGA | [**[Le Président du Nouvel Exploitant]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) | Président de SAS HB BARBER |
 <a id="token-l-etablissement-sos-main"></a>
 | Clinique de l'Union | [**[L'Établissement SOS Main]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md) | |
 
@@ -78,10 +82,16 @@ type: memory
 | 500 474 457 | [**[L'Identifiant Professionnel de la Victime]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md) |
 <a id="token-l-identifiant-de-l-exploitation"></a>
 | 938 033 222 00010 | [**[L'Identifiant de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md) |
+<a id="token-identifiant-du-nouvel-exploitant"></a>
+| 104 103 262 00010 | [**[Identifiant du Nouvel Exploitant]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-id.md) |
 <a id="token-siren-de-l-exploitation"></a>
 | 938 033 222 | [**[SIREN de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) |
+<a id="token-siren-du-nouvel-exploitant"></a>
+| 104 103 262 | [**[SIREN du Nouvel Exploitant]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md) |
 <a id="token-capital-social-de-l-exploitation"></a>
 | 200 € | [**[Capital Social de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) |
+<a id="token-capital-du-nouvel-exploitant"></a>
+| 1 000 € | [**[Capital du Nouvel Exploitant]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-capital-social.md) |
 | 31727387 / 2026/015967 | `[ ... ]` (ou le contexte approprié) |
 
 ## Personnes morales (suite) {#personnes-morales-suite}

@@ -1,19 +1,20 @@
 ---
-title: "Confirmation Officielle de Signalement à la Préfecture"
-description: "Signalement à la Préfecture de l'Ariège / CODAF — Accident du 29 mai 2026 au salon **[L'Exploitant du Commerce (La SAS)]**"
+title: Confirmation Officielle de Signalement à la Préfecture
+description: Signalement à la Préfecture de l'Ariège / CODAF — Accident du 29 mai
+  2026 au salon **[L'Exploitant du Commerce (La SAS)]**
 type: courrier
 date: 2026-07-05
 tags:
-  - préfecture
-  - signalement
-  - sécurité
-  - ERP
-  - CODAF
-  - LRAR
+- préfecture
+- signalement
+- sécurité
+- ERP
+- CODAF
+- LRAR
 statut: final — mis à jour avec expertise 2027-05-29
 destinataire: Préfecture de l'Ariège — Référent CODAF
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/13 ✉️ Courrier Prefecture.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 Prefecture.md
 source: drive
 drive_id: 1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM
 jx: J+37

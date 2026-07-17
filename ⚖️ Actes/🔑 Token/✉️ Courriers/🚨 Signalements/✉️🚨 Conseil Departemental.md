@@ -1,18 +1,18 @@
 ---
-title: "Signalement de Non-Conformite ERP au Conseil Departemental"
-description: "L'Adresse de la Victime"
+title: Signalement de Non-Conformite ERP au Conseil Departemental
+description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-05
 tags:
-  - conseil departemental
-  - ERP
-  - securite
-  - signalement
-  - LRAR
+- conseil departemental
+- ERP
+- securite
+- signalement
+- LRAR
 statut: final
 destinataire: Conseil Departemental de l'Ariege
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/16 ✉️ Courrier Conseil Departemental.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 Conseil Departemental.md
 source: drive
 drive_id: 1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ
 jx: J+37

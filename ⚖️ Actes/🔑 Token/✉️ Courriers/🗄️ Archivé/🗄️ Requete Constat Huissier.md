@@ -1,14 +1,16 @@
 ---
-title: "⚠️ OBSOLÈTE — Requête Constat Huissier 145 CPC (remplacé par 03 🔍)"
-description: "CE FICHIER EST OBSOLÈTE. Déplacé vers 🗄️ Archives/. La requête Art. 145 CPC active est 03 🔍 dans ⚖️ Actes proceduraux."
+title: ⚠️ OBSOLÈTE — Requête Constat Huissier 145 CPC (remplacé par 03 🔍)
+description: CE FICHIER EST OBSOLÈTE. Déplacé vers 🗄️ Archives/. La requête Art. 145
+  CPC active est 03 🔍 dans ⚖️ Actes proceduraux.
 type: courrier
 date: 2026-07-09
 tags:
-  - obsolet
-  - remplace_par_03
+- obsolet
+- remplace_par_03
 statut: archive
 auteur: La Victime
 jx: J+41
+reel_path: ../../../👤 Reel/✉️ Courriers/🗄️ Archivé/🗄️ Requete Constat Huissier.md
 ---
 reel_path: ../../../👤 Reel/✉️ Courriers/🗄️ Archivé/🗄️ Requete Constat Huissier.md
 

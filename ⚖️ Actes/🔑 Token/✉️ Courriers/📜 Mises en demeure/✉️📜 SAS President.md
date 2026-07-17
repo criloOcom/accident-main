@@ -1,18 +1,18 @@
 ---
-title: "📜 Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC"
-description: "[L'Adresse de la Victime]** <br>"
+title: 📜 Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC
+description: '[L''Adresse de la Victime]** <br>'
 type: courrier
 date: 2026-06-29
 tags:
-  - mise en demeure
-  - dirigeants
-  - assurance
-  - faute détachable
-  - LRAR
+- mise en demeure
+- dirigeants
+- assurance
+- faute détachable
+- LRAR
 statut: envoye
 destinataire: Dirigeants de l'Exploitant du Commerce
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/06 ✉️ Courrier President DG.md
+reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS President.md
 source: drive
 drive_id: 1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I
 jx: J+31

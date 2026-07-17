@@ -1,21 +1,23 @@
 ---
-title: "Procès-Verbal d'Audition — Plainte Complémentaire n°2026/015967-B"
-description: "PV d'audition de la victime pour plainte complémentaire (obstruction, destruction de preuves)"
+title: Procès-Verbal d'Audition — Plainte Complémentaire n°2026/015967-B
+description: PV d'audition de la victime pour plainte complémentaire (obstruction,
+  destruction de preuves)
 type: acte_procedural
 date: 2026-07-15
 tags:
-  - pv
-  - audition
-  - plainte
-  - complémentaire
-  - obstruction
-  - police
+- pv
+- audition
+- plainte
+- complémentaire
+- obstruction
+- police
 statut: final
 auteur: Commissariat de Foix
 destinataire: Procureur de la République
 personnes:
-  - "**[La Victime]**"
+- '**[La Victime]**'
 jx: J+47
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/👮‍♂️ PV Audition Plainte Complementaire.md
 ---
 
 <!-- Breadcrumb -->

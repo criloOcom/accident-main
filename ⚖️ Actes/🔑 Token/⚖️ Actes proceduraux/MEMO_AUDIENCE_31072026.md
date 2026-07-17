@@ -1,7 +1,10 @@
 ---
-title: "MÉMO D'AUDIENCE — Référé-Provision du 31/07/2026"
-description: "Note d'audience et de plaidoirie pour le référé-provision devant le Président du Tribunal judiciaire de Foix."
+title: MÉMO D'AUDIENCE — Référé-Provision du 31/07/2026
+description: Note d'audience et de plaidoirie pour le référé-provision devant le Président
+  du Tribunal judiciaire de Foix.
 type: preuve
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/MEMO_AUDIENCE_31072026.md
+auteur: La Victime
 ---
 
 <!-- Breadcrumb -->

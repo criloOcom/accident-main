@@ -1,17 +1,17 @@
 ---
-title: "Signalement de Travail Dissimule Presume"
-description: "L'Adresse de la Victime"
+title: Signalement de Travail Dissimule Presume
+description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-05
 tags:
-  - URSSAF
-  - travail dissimule
-  - signalement
-  - LRAR
+- URSSAF
+- travail dissimule
+- signalement
+- LRAR
 statut: final
 destinataire: URSSAF Midi-Pyrenees
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/12 ✉️ Courrier URSSAF.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 URSSAF.md
 source: drive
 drive_id: 1LdLfCnWLiD2v1N1SMF3FAeh681znM0kXOrAlBXeOe8w
 jx: J+37

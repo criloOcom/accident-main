@@ -1,17 +1,17 @@
 ---
-title: "📜 Mise en Demeure — Déclaration d'Accident Corporel et Demande d'Information"
-description: "L'Adresse de la Victime"
+title: 📜 Mise en Demeure — Déclaration d'Accident Corporel et Demande d'Information
+description: L'Adresse de la Victime
 type: courrier
 date: 2026-06-29
 tags:
-  - mise en demeure
-  - SAS
-  - assurance
-  - LRAR
+- mise en demeure
+- SAS
+- assurance
+- LRAR
 statut: envoye
 destinataire: L'Exploitant du Commerce (La SAS)
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/03 ✉️ Courrier SAS.md
+reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS.md
 source: drive
 drive_id: 1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc
 jx: J+31

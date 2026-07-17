@@ -1,17 +1,17 @@
 ---
-title: "Demande d'Information a l'Inspection du Travail"
-description: "L'Adresse de la Victime"
+title: Demande d'Information a l'Inspection du Travail
+description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-05
 tags:
-  - inspection du travail
-  - enquete
-  - securite
-  - DUERP
+- inspection du travail
+- enquete
+- securite
+- DUERP
 statut: final
 destinataire: DDETS de la Region
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/09 ✉️ Courrier Inspection Travail.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 Inspection Travail.md
 source: drive
 drive_id: 1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM
 jx: J+37

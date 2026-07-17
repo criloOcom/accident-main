@@ -1,18 +1,21 @@
 ---
-title: "Simulation d'Ordonnance de Référé — TJ Foix"
-description: "Simulation réaliste du jugement que rendrait le Juge des Référés du Tribunal Judiciaire de Foix sur une demande de provision Article 835 al. 2 CPC + expertise Article 145 CPC, dans le cadre de l'accident du 29 mai 2026 au salon de coiffure exploité par [L'Exploitant du Commerce (La SAS)]."
+title: Simulation d'Ordonnance de Référé — TJ Foix
+description: Simulation réaliste du jugement que rendrait le Juge des Référés du Tribunal
+  Judiciaire de Foix sur une demande de provision Article 835 al. 2 CPC + expertise
+  Article 145 CPC, dans le cadre de l'accident du 29 mai 2026 au salon de coiffure
+  exploité par [L'Exploitant du Commerce (La SAS)].
 type: simulation
 juridiction: TJ Foix
 date: 2026-07-31
 tags:
-  - simulation
-  - référé
-  - provision
-  - article 835
-  - article 145
+- simulation
+- référé
+- provision
+- article 835
+- article 145
 statut: simulation
 auteur: Simulation — Juge des Référés
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/07 ⚖️ Projet Ordonnance Refere.md
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/⚖️ Projet Ordonnance Refere.md
 jx: J+63
 ---
 

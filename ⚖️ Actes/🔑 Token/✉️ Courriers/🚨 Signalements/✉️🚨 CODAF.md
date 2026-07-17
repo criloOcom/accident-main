@@ -1,17 +1,17 @@
 ---
-title: "Signalement Officiel au CODAF"
-description: "L'Adresse de la Victime"
+title: Signalement Officiel au CODAF
+description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-05
 tags:
-  - CODAF
-  - signalement
-  - fraude
-  - LRAR
+- CODAF
+- signalement
+- fraude
+- LRAR
 statut: final
 destinataire: CODAF de l'Ariege
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/14 ✉️ Courrier CODAF.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 CODAF.md
 source: drive
 drive_id: 1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY
 jx: J+37

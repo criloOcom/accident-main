@@ -1,8 +1,11 @@
 ---
-title: "📋 ANTISÈCHE ORALE — Plainte Complémentaire (aide personnelle)"
-description: "DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER. Aide-mémoire pour l'audition orale au Commissariat."
+title: 📋 ANTISÈCHE ORALE — Plainte Complémentaire (aide personnelle)
+description: DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER. Aide-mémoire pour l'audition
+  orale au Commissariat.
 type: courrier
 statut: archive
+reel_path: ../../../👤 Reel/✉️ Courriers/📋 Personnel/📋 Antiseche Orale Plainte.md
+auteur: La Victime
 ---
 reel_path: ../../../👤 Reel/✉️ Courriers/📋 Personnel/📋 Antiseche Orale Plainte.md
 

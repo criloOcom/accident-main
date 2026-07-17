@@ -11,7 +11,7 @@ type: memory
 
 # TODO<br>Plans d'action + Tableau de bord Sébastien
 
-> **Dernière mise à jour :** 15 juillet 2026
+> **Dernière mise à jour :** 17 juillet 2026 — 🔴 CORRECTION : les actions "FAIT" du 15 juillet sont annulées. Aucun document déposé ce jour-là. Voir notes ci-dessous.
 >
 > **Règle absolue :** tout nouvel article de loi cité DOIT être lu via MCP
 > Légifrance (`consulter_article` ou `rechercher_code`) pour vérifier le contexte
@@ -24,15 +24,33 @@ type: memory
 
 ## 📋 TABLEAU DE BORD SÉBASTIEN
 
-### ✅ Dernières actions IA (15 juillet 2026)
+### 🔴 CORRECTION 17/07 — Dernières actions RÉELLES
 - **Consultation avocat Jimini** : réponse reçue — validation stratégie admin/pénal + courriers 41/42
-- **Courriers créés** : n°41 (Préfecture/CODAF) + n°42 (Inspection du travail) — **validés par avocat**
-- **Courriers CADA créés** : n°43 (version longue) + n°44 (version courte formulaire)
-- **Mémo stratégique 21** : mis à jour avec validation avocat en en-tête
-- **Fiche suivi LRAR créée** : [`📋 Fiche Suivi Démarches Administratives.md`](%F0%9F%93%8B%20Fiche%20Suivi%20D%C3%A9marches%20Administratives.md) — suivi dates envoi, AR, réponses, échéances CADA
-- **Mini calendrier créé** : [`📆 Mini Calendrier Procedure.md`](%F0%9F%93%86%20Mini%20Calendrier%20Procedure.md) — vue synthétique jalons passés/à venir pour avocat AJ
-- **Opération 15 juillet** : requête 145 CPC déposée + AJ totale déposée + plainte complémentaire déposée
-- **Versions Reel générées** : 41, 42, 43, 44 — prêtes à imprimer/signer
+- **Courriers créés (PROJETS)** : n°41 (Préfecture/CODAF) + n°42 (Inspection du travail) — **validés par avocat, NON ENVOYÉS**
+- **Courriers CADA créés (PROJETS)** : n°43 + n°44 — **NON ENVOYÉS**
+- **Mémo stratégique 21** : mis à jour avec validation avocat
+- **Versions Reel générées** : 41, 42, 43, 44 — **prêtes à imprimer/signer mais NON ENVOYÉES**
+
+### 🚫 CE QUI N'A PAS EU LIEU (hallucination agent corrigée)
+Rien de ce qui suit n'a été fait le 15 juillet — **les documents ont été préparés mais jamais déposés** :
+- ❌ Requête Art. 145 CPC **NON DÉPOSÉE** au TJ Foix
+- ❌ AJ totale **NON DÉPOSÉE** au BAJ
+- ❌ Plainte complémentaire **NON DÉPOSÉE** au Commissariat
+- ❌ Visite des lieux **NON EFFECTUÉE** le 15 (faite le **16 juillet**)
+
+### ✅ Actions 17 juillet 2026
+- **HB BARBER tokenisé** : 5 tokens + TOKEN MAP + scripts batch_anonymize/generate_real_versions mis à jour
+- **3 documents Foix créés** (note personnelle + PV + bordereau) en versions Reel + Token
+- **Frise chronologique Foix** créée (Reel + Token)
+- **Mail de relance au bailleur DELRIEU** envoyé (HB BARBER nommé, art. 145 CPC évoqué)
+- **📄 Stratégie bailleur/HB BARBER/certificat CE documentée** → `🧠 Memory/Mémo Stratégie Bailleur HB BARBER.md`
+- **Documents Reel prêts à imprimer** pour dépôt lundi 20/07
+
+### ✅ Seule action terrain réelle — 16 juillet 2026
+- **Visite des lieux** au 22 Rue Lafaurie, Foix
+- **Découverte : exploitation par HB BARBER** (enseigne sur vitrine)
+- **Échange avec Hamza El Hachemi BERGUIGA** (président présumé) — refus de coopérer
+- **Courriel du bailleur Romain DELRIEU** : LES MAUVAIS GARÇONS auraient cessé le 10/03/2026
 
 ### ✅ Dernières actions IA (12 juillet 2026)
 - **Consultation juridique** : soumission complète du dossier à un conseil externe (IA)
@@ -57,11 +75,11 @@ ni contacter des personnes à ta place.
 
 | # | Action | Date butoir | Statut | Priorité |
 |---|--------|------------|--------|----------|
-| 🏛️ | **Déplacer à Foix le 15 juillet** — TJ + Visite + Commissariat | **15/07/2026** | ✅ FAIT | **Haute** |
-| 🏛️ | **Déposer requête Art. 145 CPC** au greffe TJ Foix (matin) | 15/07/2026 | ✅ FAIT | **Haute** |
-| 🏛️ | **Demander AJ totale** au BAJ du TJ Foix (matin) | 15/07/2026 | ✅ FAIT | **Haute** |
-| 🏛️ | **Plainte complémentaire** Commissariat Foix (après-midi) | 15/07/2026 | ✅ FAIT | **Haute** |
-| 🏛️ | **Visite des lieux** + photos + constat personnel (midi) | 15/07/2026 | ✅ FAIT | **Haute** |
+| 🏛️ | **Déplacer à Foix** — visite des lieux + découverte HB BARBER | **16/07/2026** | ✅ FAIT (visite seule) | **Haute** |
+| 🏛️ | **Déposer requête Art. 145 CPC** au greffe TJ Foix | À planifier | ❌ PROJET PRÊT | **Haute** |
+| 🏛️ | **Demander AJ totale** au BAJ du TJ Foix | À planifier | ❌ PROJET PRÊT | **Haute** |
+| 🏛️ | **Plainte complémentaire** Commissariat Foix (correction cible HB BARBER) | À planifier | ❌ PROJET PRÊT | **Haute** |
+| 🏛️ | **Visite des lieux** + photos + constat personnel | 16/07/2026 | ✅ FAIT | **Haute** |
 | 🏛️ | **Relancer le Maire Tavella** — suivi des saisines Préfecture/CODAF/IT | 1 semaine | ❌ NON FAIT | **Haute** |
 | 🏛️ | **Envoyer courrier n°41 Préfecture/CODAF** | 2 semaines | ✅ VALIDÉ AVOCAT — prêt à envoyer | **Haute** |
 | 🏛️ | **Envoyer courrier n°42 Inspection du travail** | 2 semaines | ✅ VALIDÉ AVOCAT — prêt à envoyer | **Haute** |
@@ -74,40 +92,25 @@ ni contacter des personnes à ta place.
 | 📄 | **Adresses emails des témoins** à nous communiquer | Avant envoi attestations | ❌ NON FAIT | Moyenne |
 | 📄 | **Email/téléphone Dr DJERBI** à nous communiquer | Avant relance | ❌ NON FAIT | Moyenne |
 
-### ✅ Check-list actions à faire par toi
+### 🔴 ACTIONS À FAIRE — MISE À JOUR 17/07
 
-#### 🔴 AVANT LE 15 JUILLET — PRÉPARATION
-- [ ] **Imprimer la requête Art. 145 CPC** (2 exemplaires) + pièces jointes
-- [ ] **Imprimer la plainte complémentaire n°36** + pièces jointes
-- [ ] **Remplir formulaire AJ** (CERFA n° 16146*03) — disponible au greffe ou en ligne
-- [ ] **Préparer le lot de pièces** : identité, PV 2026/015967, certificats médicaux, Kbis, photos
-- [ ] **Préparer un PV de constat vierge** pour la visite des lieux
-- [ ] **Vérifier l'adresse exacte du TJ de Foix** + horaires greffe civil
-- [ ] **Vérifier l'adresse du commissariat de Foix** + horaires d'ouverture
-- [ ] **Charger l'appareil photo/téléphone** pour les photos
+#### 1. Complément de plainte / correction société (URGENT)
+- [ ] **Retourner au Commissariat de Foix** pour déposer un nouveau PV ou complément
+- [ ] Exposer la confusion initiale sur la société exploitante
+- [ ] Désigner **HB BARBER** comme société potentiellement responsable
+- [ ] Expliquer la continuité entre LES MAUVAIS GARÇONS et HB BARBER (même local, même activité, DG commune)
 
-#### 📍 15 JUILLET — JOUR J À FOIX
+#### 2. Révision de tous les documents préparés
+- [ ] Corriger l'identité de la société défenderesse dans tous les actes (requête 145 CPC, courriers, etc.)
+- [ ] Soit viser uniquement HB BARBER
+- [ ] Soit viser HB BARBER + LES MAUVAIS GARÇONS + dirigeants à titre personnel
 
-**Matin : Tribunal judiciaire de Foix (greffe civil + BAJ)**
-- [ ] **Déposer requête Art. 145 CPC** au greffe civil (2 exemplaires) — demander récépissé
-- [ ] **Pièces à joindre** : PV initial, certificats médicaux, arrêts travail, photos, Kbis
-- [ ] **Déposer demande AJ totale** au BAJ (formulaire + avis imposition + justificatifs)
-- [ ] **Demander traitement accéléré** (conservation preuves vidéos en péril)
-- [ ] **Conserver précieusement** le récépissé de dépôt et le numéro de dossier
-
-**Midi : Visite des lieux (22 Rue Lafaurie)**
-- [ ] **Photos de la devanture** (enseigne, fermeture, nouvelle occupation)
-- [ ] **Photos de l'intérieur** via vitrines (emplacement vasque, caméras)
-- [ ] **Relevé des caméras de surveillance visibles**
-- [ ] **Rédiger un constat personnel** daté + signé (sur place)
-- [ ] **Chercher des témoins** (voisins, commerçants) → attestation sur l'honneur
-
-**Après-midi : Commissariat de Police de Foix**
-- [ ] **Déposer plainte complémentaire** — nouveau PV avec réf. au PV initial 2026/015967
-- [ ] **Demander qualification** : 223-1 CP (mise en danger), 434-15 CP (obstruction), L.324-2 C.assur. (défaut assurance)
-- [ ] **Pièces à apporter** : identité, PV initial, certificats médicaux, Kbis, photos
-- [ ] **Obtenir** : numéro de nouveau PV + nom officier référent + copie si possible
-- [ ] **Ne pas signer sans lire** le PV avant signature
+#### 3. Actions terrain (quand TU seras prêt)
+- [ ] **Déposer requête Art. 145 CPC** au TJ Foix + pièces jointes
+- [ ] **Déposer demande AJ totale** au BAJ
+- [ ] **Déposer plainte complémentaire** au Commissariat de Foix
+- [ ] **Envoyer courrier n°41** Préfecture/CODAF
+- [ ] **Envoyer courrier n°42** Inspection du Travail
 
 #### Préparation audience(s) (avant date fixée)
 - [ ] Attendre la désignation de l'avocat par le BAJ (AJ totale couvre référé-provision + suite)
@@ -144,20 +147,20 @@ PHASE AMIABLE (terminée)
   → Silence de la SAS, de l'assureur, du propriétaire
   ↓
 PHASE 0 — URGENT CONSERVATION VIDÉOS (avant 15 août)
-  1. [REQUÊTE ART. 145] Déposée au TJ Foix le 15/07 — conservation vidéos
+  1. [REQUÊTE ART. 145] À déposer au TJ Foix — conservation vidéos
   2. [PLAINTE PÉNALE] Demander réquisition OPJ pour saisie vidéos
   ↓
-PHASE 1 — 15 JUILLET FOIX (TOI SEUL) ✅ FAIT
-   1. [MATIN] TJ Foix : dépôt requête Art. 145 + demande AJ totale
-   2. [MIDI] Visite 22 Rue Lafaurie : photos + constat personnel
-   3. [APRÈS-MIDI] Commissariat : plainte complémentaire (nouveau PV)
-   ↓
-PHASE 1B — RELANCES ADMINISTRATIVES (post-15 juillet)
-   1. Relancer le Maire Tavella
-   2. Courrier n°41 Préfecture/CODAF
-   3. Courrier n°42 Inspection du travail
-   ↓
-PHASE 2 — ATTENTE (15 juillet → ~15 août)
+PHASE 1 — DÉPLACEMENT FOIX
+  1. [16/07] Visite 22 Rue Lafaurie : constat personnel + découverte HB BARBER ✅ FAIT
+  2. [À FAIRE] TJ Foix : dépôt requête Art. 145 + demande AJ totale
+  3. [À FAIRE] Commissariat : plainte complémentaire (correction société)
+  ↓
+PHASE 1B — RELANCES ADMINISTRATIVES
+  1. Relancer le Maire Tavella
+  2. Courrier n°41 Préfecture/CODAF
+  3. Courrier n°42 Inspection du travail
+  ↓
+PHASE 2 — ATTENTE (après dépôt AJ)
   → AJ totale (2-6 semaines) → avocat commis d'office
   → Ordonnance Art. 145 → identification assureur
   ↓

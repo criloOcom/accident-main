@@ -1,7 +1,10 @@
 ---
-title: "ANNEXE C — LISTE DES PIÈCES"
-description: "- **[J+0 Accident]** — **[Le Médecin en Urgence]** — Premiers soins urgence — [🔗 Drive](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view)"
+title: ANNEXE C — LISTE DES PIÈCES
+description: '- **[J+0 Accident]** — **[Le Médecin en Urgence]** — Premiers soins
+  urgence — [🔗 Drive](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view)'
 type: readme
+reel_path: ../../../👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md
+auteur: La Victime
 ---
 
 <!-- Breadcrumb -->

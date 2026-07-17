@@ -1,6 +1,6 @@
 ---
-title: "STATUT D'AVANCEMENT — 13 juillet 2026"
-description: "- **Phase 23** Normalisation des sauts de ligne entre paragraphes : 80 fichiers Token + Reel (✅ TERMINÉ) — **Phase 28** Avis Dintilhac externe : rapport + tokens financiers mis à jour (✅ TERMINÉ)"
+title: "STATUT D'AVANCEMENT — 17 juillet 2026"
+description: "- **Phase 23** Normalisation des sauts de ligne entre paragraphes : 80 fichiers Token + Reel (✅ TERMINÉ) — **Phase 28** Avis Dintilhac externe : rapport + tokens financiers mis à jour (✅ TERMINÉ) — **Phase 29** Migration HB BARBER : tokens, scripts, 3 documents Foix, frise, mémo stratégie bailleur (✅ 17/07) — 🔴 CORRECTION : aucune action terrain le 15 juillet (hallucination agent corrigée)"
 type: memory
 ---
 
@@ -9,7 +9,7 @@ type: memory
 <hr>
 <!-- /Breadcrumb -->
 
-# STATUT D'AVANCEMENT<br>13 juillet 2026
+# STATUT D'AVANCEMENT<br>17 juillet 2026
 
 > **Phase 21 ✅** Navigation Interactive Cross-Document — 1 766 liens relatifs créés
 > **Phase 22 ✅** Normalisation des séparateurs `<hr><hr>` et conventions de formatage
@@ -20,6 +20,7 @@ type: memory
 > **Phase 26 ✅** Script Reel — Support des sous-dossiers : 96 fichiers générés (vs ~57 avant)
 > **Phase 27 ✅** Vérification JURITEXT exhaustive — 8 codes non audités vérifiés via MCP Légifrance-prod
 > **Phase 28 ✅** Avis Dintilhac externe — Rapport + tokens financiers mis à jour (✅ TERMINÉ)
+> **Phase 29 ✅** Migration HB BARBER — tokens, scripts, 3 documents Foix Reel/Token, frise, mémo stratégie bailleur (✅ 17/07)
 > 
 > ## Phase 21 — Navigation Interactive Cross-Document (13 juillet 2026) ✅ [TERMINÉ]
 
@@ -44,9 +45,7 @@ Transformer toutes les mentions textuelles de pièces et de tokens d'anonymisati
 
 ---
 
-> **Nouveau :** Consultation juridique externe (IA) — Validation stratégie + corrections + plan 15 juillet
->
-> ## Phase 19 — Consultation juridique + Plan d'action 15 juillet Foix (12 juillet 2026) ✅
+> ## Phase 19 — Consultation juridique externe (IA) + Plan d'action (12 juillet 2026) ✅
 
 ### Ce qui a été fait
 - **Consultation externe** : présentation complète du dossier à un conseil juridique (IA spécialisée)
@@ -66,32 +65,43 @@ Transformer toutes les mentions textuelles de pièces et de tokens d'anonymisati
 | **Bailleur** inutile pour l'instant | ❌ À retirer du plan |
 | **Prescription** 10 ans à compter consolidation | ✅ Pas d'urgence |
 
-### Nouvelles priorités (séquence corrigée)
+### 🔴 CORRECTION 17/07 — Aucune action terrain le 15 juillet
+Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) mais **rien n'a été déposé le 15 juillet**. Les documents ont été préparés/rédigés mais jamais déposés au greffe ni au commissariat.
 
-| Phase | Action | Délai |
-|-------|--------|-------|
-| **0 — Ultra-urgent** | Conservation vidéos (Art. 145 + requête pénale) | **Avant 15 août** |
-| **1 — 15 juillet** | **Art. 145 CPC au TJ Foix** (assureur + vidéos + expertise) | **Matin** |
-| **2 — 15 juillet** | Visite des lieux + photos + constat personnel | **Midi** |
-| **3 — 15 juillet** | Plainte complémentaire Commissariat Foix (nouveau PV) | **Après-midi** |
-| **4 — 15 juillet** | Demande d'AJ totale au BAJ du TJ de Foix | Même jour |
-| **5** | Attendre AJ (2-6 semaines) + identification assureur | J+15 à J+45 |
-| **6** | Référé-provision 15k€ par avocat commis d'office | Dès AJ + assureur OK |
-| **7** | Expertise médicale judiciaire (ne pas attendre décembre) | Août-sept 2026 |
-| **8** | Instance au fond pour solde (~85 000-109 500 €) | 2027 |
+**Seule action réelle : 16 juillet 2026 — Visite des lieux à Foix (22 Rue Lafaurie)**
+- Constat de l'exploitation effective par **HB BARBER** (enseigne sur vitrine)
+- Échange avec le président présumé **Hamza El Hachemi BERGUIGA** — refus de coopérer
+- **Courriel du bailleur Romain DELRIEU** : annonce que LES MAUVAIS GARÇONS ont cessé le 10/03/2026
 
-### 2 erreurs déjà commises — correction
+**Découverte majeure : SAS HB BARBER**
+- Créée le **22 avril 2026** (soit 37 jours avant l'accident), même adresse (22 Rue Lafaurie), même activité (coiffure/barbier)
+- Dirigeante commune avec LES MAUVAIS GARÇONS : **Catherine SORROCHE/ANDISSAC** (DG des deux sociétés)
+- Président : **Hamza El Hachemi BERGUIGA**
 
-1. **Saisine FGTI envoyée le 11/07** : prématurée, sans objet. **Ne plus relancer.**
-2. **Action directe à "Compagnie d'Assurance de l'Exploitant"** : destinataire fictif, sans valeur. **Ne plus y compter.**
+### Plan d'action révisé (au 17 juillet)
 
-### Recommandation avocat
+| Phase | Action | Délai | Statut |
+|-------|--------|-------|--------|
+| **0 — Urgent** | Conservation vidéos (Art. 145 + requête pénale) | **Avant 15 août** | ❌ À FAIRE |
+| **1** | **Déposer requête Art. 145 CPC** au TJ Foix | À planifier | ❌ PROJET PRÊT |
+| **2** | **Déposer demande AJ totale** au BAJ du TJ Foix | À planifier | ❌ PROJET PRÊT |
+| **3** | **Plainte complémentaire** Commissariat Foix (correction société) | À planifier | ❌ PROJET PRÊT |
+| **4** | Attendre AJ (2-6 semaines) + identification assureur | J+15 à J+45 | ❌ EN ATTENTE |
+| **5** | Référé-provision 15k€ par avocat commis d'office | Dès AJ + assureur OK | ❌ À VENIR |
+| **6** | Expertise médicale judiciaire | Août-sept 2026 | ❌ À VENIR |
+
+### Conséquences découverte HB BARBER
+- **Le PV initial (2026/015967) et tous les courriers visent LES MAUVAIS GARÇONS** — à corriger
+- Besoin d'un **complément de plainte** au commissariat de Foix pour rectifier la cible
+- Tous les courriers et actes préparés doivent être révisés (HB BARBER seul ou cumulé avec MAUVAIS GARÇONS)
+
+### Recommandation conseil
 - **NE PAS contacter d'avocat soi-même** — l'AJ totale déclenche une **désignation d'office par le BAJ**
 - Anticiper : préparer un dossier structuré à transmettre à l'avocat dès sa désignation
 
 ---
 
-## Phase 20 — Corrections plainte complémentaire suite avocat + antisèche orale (13 juillet 2026) ✅
+## Phase 20 — Corrections projet plainte complémentaire suite avocat + antisèche orale (13 juillet 2026) ✅
 
 ### Corrections appliquées au [fichier 36 📜](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20Commissariat%20Foix%20Plainte%20Complementaire.md) (version officielle)
 | Correction | Avant | Après |

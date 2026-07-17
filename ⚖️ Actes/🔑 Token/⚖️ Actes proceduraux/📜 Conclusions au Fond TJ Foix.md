@@ -1,19 +1,20 @@
 ---
-title: "Conclusions au Fond — TJ de Foix"
-description: "Conclusions récapitulatives au fond — Demande d'indemnisation du préjudice corporel — Accident du 29 mai 2026 — SAS [L'Exploitant du Commerce]"
+title: Conclusions au Fond — TJ de Foix
+description: Conclusions récapitulatives au fond — Demande d'indemnisation du préjudice
+  corporel — Accident du 29 mai 2026 — SAS [L'Exploitant du Commerce]
 type: acte_procedural
 date: 2027-06-01
 tags:
-  - conclusions
-  - fond
-  - TJ
-  - Dintilhac
-  - 1242
-  - 1240
+- conclusions
+- fond
+- TJ
+- Dintilhac
+- 1242
+- 1240
 statut: projet
 destinataire: Tribunal Judiciaire de Foix
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/XX 📜 Conclusions au Fond TJ Foix.md
+reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📜 Conclusions au Fond TJ Foix.md
 jx: J+368
 ---
 

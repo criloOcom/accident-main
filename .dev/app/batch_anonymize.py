@@ -31,7 +31,7 @@ REPLACEMENTS = [
     ("SIREN 500 474 457", "[L'Identifiant Professionnel de la Victime]"),
     ("500 474 457", "[L'Identifiant Professionnel de la Victime]"),
 
-    # --- Salon / Company ---
+    # --- Salon / Company (LMG — ancien exploitant) ---
     ("La SAS LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
     ("SAS LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
     ("SAS LES MAUVAIS GARÇONS", "[L'Exploitant du Commerce (La SAS)]"),
@@ -39,10 +39,19 @@ REPLACEMENTS = [
     ("LES MAUVAIS GARÇONS", "[L'Exploitant du Commerce (La SAS)]"),
     ("la SAS LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
 
-    # --- Company identifier ---
+    # --- Salon / Company (HB BARBER — nouvel exploitant) ---
+    # NOTE: "HB BARBER" AVANT "SAS HB BARBER" pour éviter le double-wrap
+    # (le token contient "HB BARBER" en sous-chaîne)
+    ("HB BARBER", "[Le Nouvel Exploitant (HB BARBER)]"),
+    ("SAS HB BARBER", "[Le Nouvel Exploitant (HB BARBER)]"),
+
+    # --- Company identifier (LMG) ---
     ("938 033 222 00010", "[L'Identifiant de l'Exploitation]"),
 
-    # --- Directors / Officers ---
+    # --- Company identifier (HB BARBER) ---
+    ("104 103 262 00010", "[Identifiant du Nouvel Exploitant]"),
+
+    # --- Directors / Officers (LMG) ---
     ("Madame Catherine ANDISSAC (née SORROCHE)", "[La Directrice Générale de l'Exploitation]"),
     ("Catherine ANDISSAC", "[La Directrice Générale de l'Exploitation]"),
     ("Catherine Andissac", "[La Directrice Générale de l'Exploitation]"),
@@ -124,6 +133,12 @@ REPLACEMENTS = [
     ("Romain DELRIEU", "[Le Propriétaire des Murs]"),
     ("Romain Delrieu", "[Le Propriétaire des Murs]"),
 
+    # --- Directors / Officers (HB BARBER — nouvel exploitant) ---
+    ("Hamza El Hachemi BERGUIGA", "[Le Président du Nouvel Exploitant]"),
+    ("BERGUIGA", "[Le Président du Nouvel Exploitant]"),
+    ("104 103 262", "[SIREN du Nouvel Exploitant]"),
+    ("1 000 €", "[Capital du Nouvel Exploitant]"),
+
     # --- Cities ---
     ("FOIX", "[La Ville de l'Accident]"),
     ("Foix", "[La Ville de l'Accident]"),
@@ -158,7 +173,12 @@ def anonymize_text(text):
 
     # Entourer les tokens d'identité de ** (convention double strate du projet).
     # Capture [X] sans espace après '[' (exclut les réserves [ ... ]) et déjà **[X]**.
-    text = re.sub(r'(?<!\[)(\[[^\]\s][^\]]*\])(?!\])', r'**\1**', text)
+    # Skip si déjà entouré de ** (évite le double-wrap).
+    text = re.sub(r'(?<!\*)(?<!\[)(\[[^\]\s][^\]]*\])(?!\])(?!\*)', r'**\1**', text)
+
+    # Fix nested token replacements (HB BARBER inside its own token name)
+    text = text.replace('[Le Nouvel Exploitant ([Le Nouvel Exploitant (HB BARBER)])]', '[Le Nouvel Exploitant (HB BARBER)]')
+    text = text.replace('[Le Nouvel Exploitant ([Le Nouvel Exploitant (HB BARBER)]]', '[Le Nouvel Exploitant (HB BARBER)]')
 
     return text
 
