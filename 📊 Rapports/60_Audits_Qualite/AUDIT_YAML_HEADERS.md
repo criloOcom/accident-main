@@ -19,7 +19,7 @@ statut: final
 
 ---
 
-## 1. ⚠️ ÉTAT DES LIEUX & FAIBLESSES DÉTECTÉES
+## I — ⚠️ ÉTAT DES LIEUX & FAIBLESSES DÉTECTÉES
 
 L'analyse croisée des scripts de standardisation (`yaml_schema.py`) et des règles de gouvernance du projet (`RULES.md`) met en évidence trois faiblesses majeures :
 
@@ -29,7 +29,7 @@ L'analyse croisée des scripts de standardisation (`yaml_schema.py`) et des règ
 
 3. **Absence de traçabilité temporelle & procédurale :** Il manque actuellement de manière systématique des champs permettant de connaître la chronologie de modification et la position exacte du document dans l'arbre d'ordonnancement de la procédure (ex: jalons d'envoi théoriques type `J+31`, `J+37`).
 
-### Chiffres clés
+### I.1 — Chiffres clés
 
 | Métrique | Valeur |
 |----------|--------|
@@ -44,7 +44,7 @@ L'analyse croisée des scripts de standardisation (`yaml_schema.py`) et des règ
 
 ---
 
-## 2. 🎯 STRUCTURE CANONIQUE UNIFIÉE
+## II — 🎯 STRUCTURE CANONIQUE UNIFIÉE
 
 Désormais, tout fichier `.md` du dépôt doit respecter l'ordre canonique strict en **Ligne 1** (pour assurer le rendu correct sur l'interface GitHub).
 
@@ -84,7 +84,7 @@ tags:
 ---
 ```
 
-### Types canoniques
+### II.1 — Types canoniques
 
 | Type | Description | Utilisation |
 |------|-------------|-------------|
@@ -105,7 +105,7 @@ tags:
 | `document` | Document général | Fichiers divers |
 | `directory` | Index de répertoire | README d'index de sous-dossiers |
 
-### Statuts canoniques
+### II.2 — Statuts canoniques
 
 | Statut | Signification |
 |--------|---------------|
@@ -119,9 +119,9 @@ tags:
 
 ---
 
-## 3. CARTE DES CORRECTIONS
+## III — CARTE DES CORRECTIONS
 
-### 3.1 Types non-canoniques à normaliser (9 types, 36 fichiers)
+### III.1 — 3.1 Types non-canoniques à normaliser (9 types, 36 fichiers)
 
 | Ancien type | Nouveau type | Fichiers concernés |
 |-------------|--------------|-------------------|
@@ -135,13 +135,13 @@ tags:
 | `gouvernance` (1) | `memory` | GESTIONNAIRE_DOC.md |
 | `directory` (20) | _Conservé — ajouté aux types canoniques_ | README d'index |
 
-### 3.2 Statuts non-canoniques à normaliser
+### III.2 — 3.2 Statuts non-canoniques à normaliser
 
 | Ancien statut | Nouveau statut | Fichiers |
 |---------------|---------------|----------|
 | `obsolète_ne_pas_relancer` (2) | `archive` | Saisine FGTI + Opposition Radiation TC |
 
-### 3.3 Faux `statut: final` à rétrograder en `projet` (11 fichiers)
+### III.3 — 3.3 Faux `statut: final` à rétrograder en `projet` (11 fichiers)
 
 | Fichier | Raison |
 |---------|--------|
@@ -157,7 +157,7 @@ tags:
 | `✉️⚖️ CPAM Recours Tiers.md` | `[Adresse à compléter]` |
 | `⚡ ActionDirecte AssureurRC.md` | `[Adresse à compléter]` |
 
-### 3.4 `drive_id` manquants (4 fichiers avec `source: drive`)
+### III.4 — 3.4 `drive_id` manquants (4 fichiers avec `source: drive`)
 
 | Fichier |
 |---------|
@@ -168,26 +168,26 @@ tags:
 
 ---
 
-## 4. 🛠️ FEUILLE DE ROUTE CORRECTIVE
+## IV — 🛠️ FEUILLE DE ROUTE CORRECTIVE
 
-### Étape 1 — Mise à jour du schéma (`yaml_schema.py`)
+### IV.1 — Étape 1 — Mise à jour du schéma (`yaml_schema.py`)
 
 - Ajouter `directory` aux types canoniques
 - Ajouter la validation stricte des `statut` et `type`
 - Ajouter les champs optionnels : `date_creation`, `date_modification`, `proof_delivery`
 - Ajouter les mappings de normalisation des types non-canoniques
 
-### Étape 2 — Injection sélective (`inject_optional_yaml_fields.py`)
+### IV.2 — Étape 2 — Injection sélective (`inject_optional_yaml_fields.py`)
 
 Script dédié pour ajouter les champs optionnels (`date_creation`, `date_modification`, `proof_delivery`, `last_verified`) uniquement aux fichiers qui en ont besoin (courriers, actes, analyses juridiques).
 
-### Étape 3 — Corrections manuelles automatisées
+### IV.3 — Étape 3 — Corrections manuelles automatisées
 
 - Rétrograder 11 faux `statut: final` en `projet`
 - Normaliser 8 types non-canoniques
 - Normaliser 1 statut non-canonique (`obsolète_ne_pas_relancer` → `archive`)
 
-### Étape 4 — Pipeline d'exécution
+### IV.4 — Étape 4 — Pipeline d'exécution
 
 ```bash
 python3 .dev/app/update_status_system.py
@@ -198,7 +198,7 @@ python3 .dev/app/generate_real_versions.py
 
 ---
 
-## 5. SCRIPTS EXISTANTS AUDITÉS
+## V — SCRIPTS EXISTANTS AUDITÉS
 
 | Script | Rôle | Statut |
 |--------|------|--------|

@@ -14,7 +14,7 @@ statut: archive
 
 ---
 
-## 1. Constat sur les numéros de suivi La Poste (LRAR)
+## I — Constat sur les numéros de suivi La Poste (LRAR)
 
 L'audit civil Jules (#94) avait qualifié les numéros de LRAR de « factices » / « inventés » et recommandait de les supprimer. **C'était une ERREUR de diagnostic.**
 
@@ -34,7 +34,7 @@ Preuve (compte La Poste de la victime + Google Doc de synthèse du 08/07/2026) :
 
 ---
 
-## 2. Erreur introduite par l'agent précédent — fait « téléviseur » supprimé
+## II — Erreur introduite par l'agent précédent — fait « téléviseur » supprimé
 
 L'agent précédent a supprimé, dans `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 SAS Dirigeants.md`, la mention « **pour régler le téléviseur** » en la qualifiant d'hallucination.
 
@@ -50,7 +50,7 @@ Conséquence de l'erreur : divergence Token↔Réel (le Token disait « monté s
 
 ---
 
-## 3. Singularisation « le tendon » (laissée en place — CORRECTE)
+## III — Singularisation « le tendon » (laissée en place — CORRECTE)
 
 L'agent précédent avait aussi remplacé « les tendons » par « le tendon » (singulier) dans J+40. **Cette correction est BONNE** et a été conservée :
 - CR opératoire (`⚖️ Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire...md`, l.259) : *« Section partielle du tendon fléchisseur superficiel de l'index droit »* (singulier).
@@ -62,7 +62,7 @@ L'agent précédent avait aussi remplacé « les tendons » par « le tendon » 
 
 ---
 
-## 4. Nettoyage sécurité RGPD
+## IV — Nettoyage sécurité RGPD
 
 - Suppression de `SOURCE_VERITE_LRAR.txt` (export du Google Doc) du dépôt : il contient toutes les identités réelles (nom, adresse, SIREN, téléphone) et ne doit pas résider dans un dépôt tokenisé (cf. Phase 15 ayant supprimé ANNEXE A pour le même motif).
 - Déplacement/suppression du script d'audit bruité laissé à la racine par l'agent précédent (interdit par Règle #6).
@@ -70,7 +70,7 @@ L'agent précédent avait aussi remplacé « les tendons » par « le tendon » 
 
 ---
 
-## 5. Vérification finale
+## V — Vérification finale
 
 - `python3 .dev/app/generate_real_versions.py` → 50 fichiers 👤 Reel régénérés (alignement Token↔Réel).
 - `python3 .dev/app/check_consistency.py` → **« Rien à signaler — tout est cohérent. »**

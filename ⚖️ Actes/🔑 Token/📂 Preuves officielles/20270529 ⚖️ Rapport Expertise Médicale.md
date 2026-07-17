@@ -36,13 +36,13 @@ jx: J+365
 
 ---
 
-### I. CONVOCATION ET DÉROULEMENT DES OPÉRATIONS
+### I.1 — CONVOCATION ET DÉROULEMENT DES OPÉRATIONS
 
 L'expert a convoqué [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) par lettre recommandée du 24 avril 2027. L'examen médical a eu lieu au cabinet de l'expert le **29 mai 2027** en présence du requérant seul, ce dernier n'ayant pas constitué avocat et la partie défenderesse n'ayant pas comparu aux opérations d'expertise bien que régulièrement convoquée.
 
 ---
 
-### II. DOCUMENTS EXAMINÉS
+### I.2 — DOCUMENTS EXAMINÉS
 
 - Ordonnance de référé du 31 juillet 2026 (mission)
 - Procès-verbal de police n°[**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (28 juin 2026)
@@ -57,7 +57,7 @@ L'expert a convoqué [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97
 
 ---
 
-### III. RAPPEL DES FAITS ET DES SOINS REÇUS
+### I.3 — RAPPEL DES FAITS ET DES SOINS REÇUS
 
 Le **29 mai 2026**, vers 15 heures, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), alors âgé de 44 ans et exerçant la profession d'informaticien indépendant, se trouvait en qualité de client dans le salon de coiffure exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md).
 
@@ -83,7 +83,7 @@ Le préposé de l'établissement a entrepris de régler un téléviseur fixé en
 
 ---
 
-### IV. ANAMNÈSE ET DOLÉANCES ACTUELLES
+### I.4 — ANAMNÈSE ET DOLÉANCES ACTUELLES
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md], âgé de 45 ans au jour de l'examen, informaticien indépendant (développement web et applications), droitier, déclare :
 
@@ -116,7 +116,7 @@ Le préposé de l'établissement a entrepris de régler un téléviseur fixé en
 
 ---
 
-### V. EXAMEN CLINIQUE (29 mai 2027)
+### I.5 — EXAMEN CLINIQUE (29 mai 2027)
 
 **1. Inspection**
 
@@ -181,7 +181,7 @@ Ratio dominant/non-dominant : 31,3 / 45 = **69,6 %** (ratio attendu chez un droi
 
 ---
 
-### VI. DISCUSSION MÉDICO-LÉGALE
+### I.6 — DISCUSSION MÉDICO-LÉGALE
 
 **1. Imputabilité**
 
@@ -205,7 +205,7 @@ L'état de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%
 
 ---
 
-### VII. RÉPONSES À LA MISSION
+### I.7 — RÉPONSES À LA MISSION
 
 **1. Décrire les lésions imputables à l'accident**
 
@@ -291,7 +291,7 @@ L'incidence professionnelle est distincte de la perte de revenus stricte (PGPF).
 
 ---
 
-### VIII. CONCLUSION
+### I.8 — CONCLUSION
 
 Au terme de nos opérations, et après examen de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) le 29 mai 2027, nous concluons :
 
@@ -318,7 +318,7 @@ Fait à [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%9
 
 ---
 
-### ANNEXE — TABLEAU RÉCAPITULATIF DINTILHAC
+### I.9 — ANNEXE — TABLEAU RÉCAPITULATIF DINTILHAC
 
 | Catégorie | Poste | Évaluation expert | Fourchette | Observations |
 |-----------|-------|------------------|------------|-------------|

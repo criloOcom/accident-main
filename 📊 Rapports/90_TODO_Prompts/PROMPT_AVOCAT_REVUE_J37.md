@@ -32,7 +32,7 @@ tags:
 
 ---
 
-## Contexte général
+## I — Contexte général
 
 Bonjour Maître,
 
@@ -51,9 +51,9 @@ Je vous détaille ci-dessous chaque courrier pour vous permettre d'en prendre co
 
 ---
 
-## 1. Volet médical
+## II — Volet médical
 
-### Document 1/12 — Demande de certificat de consolidation
+### II.1 — Document 1/12 — Demande de certificat de consolidation
 
 | Champ | Détail |
 |---|---|
@@ -82,9 +82,9 @@ Le courrier rappelle le parcours médical complet : chirurgie d'urgence le J+1 (
 
 ---
 
-## 2. Volet élu local
+## III — Volet élu local
 
-### Document 2/12 — Suivi adjoint au maire
+### III.1 — Document 2/12 — Suivi adjoint au maire
 
 | Champ | Détail |
 |---|---|
@@ -111,9 +111,9 @@ Ce courrier fait suite au message de l'adjoint au maire du 1er juin 2026, par le
 
 ---
 
-## 3. Volet inspection du travail et lutte contre le travail dissimulé
+## IV — Volet inspection du travail et lutte contre le travail dissimulé
 
-### Document 3/12 — Demande d'information à l'Inspection du Travail
+### IV.1 — Document 3/12 — Demande d'information à l'Inspection du Travail
 
 | Champ | Détail |
 |---|---|
@@ -150,7 +150,7 @@ Courrier le plus technique du batch. Après un rappel des faits et du contexte (
 
 ---
 
-### Document 4/12 — Signalement URSSAF
+### IV.2 — Document 4/12 — Signalement URSSAF
 
 | Champ | Détail |
 |---|---|
@@ -180,7 +180,7 @@ Ce signalement dénonce un travail dissimulé présumé. Il s'appuie sur des él
 
 ---
 
-### Document 5/12 — Signalement CODAF
+### IV.3 — Document 5/12 — Signalement CODAF
 
 | Champ | Détail |
 |---|---|
@@ -207,9 +207,9 @@ Le CODAF est la structure interdépartementale de coordination anti-fraude réun
 
 ---
 
-## 4. Volet sécurité publique et ERP
+## V — Volet sécurité publique et ERP
 
-### Document 6/12 — Confirmation officielle de signalement à la Préfecture
+### V.1 — Document 6/12 — Confirmation officielle de signalement à la Préfecture
 
 | Champ | Détail |
 |---|---|
@@ -235,7 +235,7 @@ Ce courrier agit comme une « pièce maîtresse » qui confirme officiellement l
 
 ---
 
-### Document 7/12 — Signalement de non-conformité ERP au Conseil Départemental
+### V.2 — Document 7/12 — Signalement de non-conformité ERP au Conseil Départemental
 
 | Champ | Détail |
 |---|---|
@@ -260,7 +260,7 @@ Ce signalement cible spécifiquement les non-conformités ERP. Il qualifie le sa
 
 ---
 
-### Document 8/12 — Signalement sécurité ERP au SDIS
+### V.3 — Document 8/12 — Signalement sécurité ERP au SDIS
 
 | Champ | Détail |
 |---|---|
@@ -283,9 +283,9 @@ Le plus court du batch (1 page). Il signale 2 dangers : l'équipement défectueu
 
 ---
 
-## 5. Volet financier et fiscal
+## VI — Volet financier et fiscal
 
-### Document 9/12 — Signalement INPI / RNE
+### VI.1 — Document 9/12 — Signalement INPI / RNE
 
 | Champ | Détail |
 |---|---|
@@ -308,7 +308,7 @@ Ce courrier demande un « flag » sur le RNE pour informer les tiers et l'admini
 
 ---
 
-### Document 10/12 — Information de litige au SIE
+### VI.2 — Document 10/12 — Information de litige au SIE
 
 | Champ | Détail |
 |---|---|
@@ -330,9 +330,9 @@ Courrier très court (1 page) qui informe le SIE de l'existence du litige (monta
 
 ---
 
-## 6. Volet suivi des enquêtes en cours
+## VII — Volet suivi des enquêtes en cours
 
-### Document 11/12 — Relance Police / Vidéosurveillance
+### VII.1 — Document 11/12 — Relance Police / Vidéosurveillance
 
 | Champ | Détail |
 |---|---|
@@ -357,7 +357,7 @@ Relance suite au dépôt de plainte du 01/06 et à la constitution de partie civ
 
 ---
 
-### Document 12/12 — Relance CPAM Recours Contre Tiers
+### VII.2 — Document 12/12 — Relance CPAM Recours Contre Tiers
 
 | Champ | Détail |
 |---|---|
@@ -377,15 +377,15 @@ Relance suite au dépôt de plainte du 01/06 et à la constitution de partie civ
 4. Démarches à entreprendre
 
 **Description détaillée** :
-Relance suite à l'ouverture du dossier RCT à J+5. Quatre demandes structurées avec citation de l'article L.376-1 CSS. Le ton est professionnel, procédural. L'objectif principal est d'obtenir le montant des débours définitifs de la CPAM, indispensable pour calculer l'indemnisation globale (la CPAM récupère ses débours sur l'indemnité allouée par le tribunal).
+Relance à la suite de l'ouverture du dossier RCT à J+5. Quatre demandes structurées avec citation de l'article L.376-1 CSS. Le ton est professionnel, procédural. L'objectif principal est d'obtenir le montant des débours définitifs de la CPAM, indispensable pour calculer l'indemnisation globale (la CPAM récupère ses débours sur l'indemnité allouée par le tribunal).
 
 **Enjeu** : Les débours CPAM sont une donnée clé pour le calcul de l'indemnisation. Sans eux, toute évaluation est incomplète. Le recours subrogatoire de la CPAM réduit d'autant la part revenant à la victime.
 
 ---
 
-## Synthèse et questions à l'avocat
+## VIII — Synthèse et questions à l'avocat
 
-### Résumé des citations légales utilisées (vérification nécessaire)
+### VIII.1 — Résumé des citations légales utilisées (vérification nécessaire)
 
 | Texte | Article | Documents |
 |---|---|---|
@@ -407,7 +407,7 @@ Relance suite à l'ouverture du dossier RCT à J+5. Quatre demandes structurées
 | Code construction habitation | L.123-1 et suiv. | 16 |
 | Jurisprudence | Cass. 2e civ., 4 avril 2024, n°22-19.307 | 07 |
 
-### Questions principales
+### VIII.2 — Questions principales
 
 1. **Stratégie générale** : Ce signalement massif simultané était-il opportun ? La multiplication des destinataires renforce-t-elle la pression sur l'exploitant, ou crée-t-elle un risque de dispersion/d'incohérence ?
 
@@ -440,9 +440,9 @@ Relance suite à l'ouverture du dossier RCT à J+5. Quatre demandes structurées
 
 ---
 
-## Annexe — Tableau de bord des citations (URL Légifrance)
+## IX — Annexe — Tableau de bord des citations (URL Légifrance)
 
-### ✅ Bloc verrouillé — articles corrects avec URL
+### IX.1 — ✅ Bloc verrouillé — articles corrects avec URL
 
 | Article | URL Légifrance | Documents |
 |---|---|---|
@@ -457,14 +457,14 @@ Relance suite à l'ouverture du dossier RCT à J+5. Quatre demandes structurées
 | Art. 40 CPP | https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933 | 09, 14 |
 | Cass. 2e civ., 4 avril 2024, n°22-19.307 | https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278 | 07 |
 
-### ⚠️ Bloc exclu — à ne plus réutiliser
+### IX.2 — ⚠️ Bloc exclu — à ne plus réutiliser
 
 | Article | URL Légifrance | Motif |
 |---|---|---|
 | L.310-1-1-2 C. assurances | https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038541985 | Hors sujet — porte sur placements des assureurs, pas sur affichage RC |
 | Art. 56-1 CPP | https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568203 | Hors sujet — concerne perquisitions cabinet avocat, pas réquisitions vidéos |
 
-### 📌 Bloc URL ajoutées après audit
+### IX.3 — 📌 Bloc URL ajoutées après audit
 
 | Article | URL Légifrance | Documents |
 |---|---|---|
@@ -472,7 +472,7 @@ Relance suite à l'ouverture du dossier RCT à J+5. Quatre demandes structurées
 | L.123-1 CCH | https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006840640 | 16 |
 | Arrêté 25 juin 1980 ERP | https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000311444 | 16 |
 
-### Validation finale (avocat, 12/07/2026)
+### IX.4 — Validation finale (avocat, 12/07/2026)
 
 - **Stratégie globale** : batch J+37 validé, aucune correction rétroactive nécessaire
 - **Anomalies** : 2 exclues des futurs modèles (L.310-1-1-2, 56-1 CPP), sans rectificatif

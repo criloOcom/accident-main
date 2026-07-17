@@ -74,7 +74,7 @@ jx: J+60
 <hr><hr>
 
 ## III — DISCUSSION JURIDIQUE STRUCTURÉE
-### A. RESPONSABILITÉ DE PLEIN DROIT DU GARDIEN (ART. 1242 C. CIV.)
+### III.1 — RESPONSABILITÉ DE PLEIN DROIT DU GARDIEN (ART. 1242 C. CIV.)
 
 Sur le fondement de l'[Article 1242 alinéa 1er du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^1], le gardien de la chose instrument du dommage est responsable de plein droit.
 - **La vasque = chose instrument du dommage :** Son état de délabrement (cassure préexistante tranchante) et son basculement constituent le rôle actif incontestable dans la réalisation du dommage.
@@ -83,7 +83,7 @@ Sur le fondement de l'[Article 1242 alinéa 1er du Code civil](https://www.legif
 
 - **Absence d'exonération :** La réaction réflexe de sauvegarde de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) pour éviter la chute du préposé ne constitue en aucun cas une faute. Il n'y a pas non plus de force majeure invocable.
 
-### B. ACTION DIRECTE CONTRE L'ASSUREUR (ART. L.124-3 C. ASSUR.)
+### III.2 — ACTION DIRECTE CONTRE L'ASSUREUR (ART. L.124-3 C. ASSUR.)
 
 La victime bénéficie d'un droit d'action directe et autonome contre l'assureur de responsabilité civile du responsable, selon l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^2]. L'obstruction de la direction de la SAS à communiquer le nom de cet assureur justifie pleinement cette saisine en référé pour obtenir les informations sous astreinte.
 
@@ -91,14 +91,14 @@ La victime bénéficie d'un droit d'action directe et autonome contre l'assureur
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^2]**
 
-### C. FAUTE DÉTACHABLE DES DIRIGEANTS (JURISPRUDENCE SATI)
+### III.3 — FAUTE DÉTACHABLE DES DIRIGEANTS (JURISPRUDENCE SATI)
 
 La responsabilité de [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) est directement engagée :
 - **Défaut d'assurance ou obstruction :** Conformément à l'arrêt SATI de la Cour de cassation, l'absence (ou la dissimulation) délibérée de souscription d'assurances obligatoires constitue une **faute détachable** des fonctions sociales.
 
 - **Conséquence :** La responsabilité personnelle et solidaire du Président et de la Directrice Générale sur leurs deniers propres est acquise.
 
-### D. MANQUEMENT À L'OBLIGATION DE SÉCURITÉ
+### III.4 — MANQUEMENT À L'OBLIGATION DE SÉCURITÉ
 
 Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant est tenu par une obligation générale de sécurité prévue à l'[Article L. 421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053)[^3] et aux règles des ERP. Maintenir une vasque brisée et tranchante dans un tel espace constitue une négligence coupable d'une extrême gravité.
 
@@ -132,7 +132,7 @@ Monsieur le Juge, je vous renvoie aux pièces listées dans notre bordereau, et 
 - **Pièce ACQ-09** (Plainte officielle) prouvant les démarches entreprises au pénal par la victime.
 <hr><hr>
 
-## VI — MONTANTS DEMANDÉS
+## V — MONTANTS DEMANDÉS
 
 La présente procédure de référé ne vise pas à solder définitivement le dossier (dans l'attente de la consolidation) mais à accorder une provision.
 
@@ -147,7 +147,7 @@ La présente procédure de référé ne vise pas à solder définitivement le do
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^7]**
 <hr><hr>
 
-## VII — QUESTIONS PROBABLES DU JUGE ET RÉPONSES PRÉPARÉES
+## VI — QUESTIONS PROBABLES DU JUGE ET RÉPONSES PRÉPARÉES
 
 **Q1 : "Pourquoi demandez-vous seulement 15 000 € en provision alors que vous estimez le préjudice à près de 90 000 € ?"** <br>
 Monsieur le Juge, l'audience de référé vise à allouer une indemnisation provisionnelle d'urgence pour faire face aux premiers frais et à la perte immédiate d'exploitation. L'évaluation définitive du déficit fonctionnel et de l'incidence professionnelle de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) nécessite une consolidation médicale (expertise de novembre), justifiant de limiter la demande immédiate à une somme incontestable.

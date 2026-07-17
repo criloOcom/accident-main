@@ -23,7 +23,7 @@ type: rapport
 
 <!-- 2 pages max. À remplir après la rédaction des parties III–IV. Doit pouvoir être transmis seul à un avocat. -->
 
-### I.1 Les constats convergents majeurs
+### I.1 — I.1 Les constats convergents majeurs
 
 1. **Responsabilité de la SAS établie (12/12 angles).** Le téléviseur non fixé a basculé sur la victime pendant son travail. La SAS est gardienne de la chose (art. 1242 al.1 C.civ.). Aucune cause d'exonération n'est retenue. La responsabilité est *non sérieusement contestable*.
 
@@ -35,7 +35,7 @@ type: rapport
 
 5. **Manquements graves et cumulatifs à la sécurité.** Absence d'escabeau (R.4323-58 C.trav.), absence de DUERP, vasque défectueuse non réparée après signalement, téléviseur non fixé. La conscience du danger par l'employeur est établie, ouvrant la voie à la faute inexcusable et à la qualification pénale de mise en danger (223-1 C.pén.).
 
-### I.2 Les principales divergences inter-angles
+### I.2 — I.2 Les principales divergences inter-angles
 
 1. **Assurance RC : existe-t-elle ?** Les LRAR sont restées sans réponse (PND/NPAI). L'optimisme varie entre « elle existe mais se cache » et « elle n'a jamais été souscrite ». En l'état, le FGTI est plus fiable que l'assureur.
 
@@ -45,7 +45,7 @@ type: rapport
 
 4. **Médiation : levier ou risque ?** Le médiateur la voit comme solution rapide ; l'avocat craint qu'elle n'affaiblisse le levier pénal. Réponse : conditionnée à la bonne foi des dirigeants.
 
-### I.3 Recommandation stratégique unifiée
+### I.3 — I.3 Recommandation stratégique unifiée
 
 **Conduire les trois voies simultanément, sans exclusive.**
 
@@ -63,11 +63,11 @@ type: rapport
 
 ## II — GRILLE DE CONVERGENCE DES 12 ANGLES
 
-### II.1 Présentation de la méthode de croisement
+### II.1 — II.1 Présentation de la méthode de croisement
 
 Le tableau ci-dessous croise les 12 angles professionnels (colonnes) et 5 thèmes transversaux (lignes). Chaque cellule contient le mot-clé principal retenu par l'angle sur le thème. **Lecture verticale** : profil de chaque angle. **Lecture horizontale** : consensus ou divergence sur chaque thème.
 
-### II.2 Tableau de convergence (12 angles × 5 thèmes)
+### II.2 — II.2 Tableau de convergence (12 angles × 5 thèmes)
 
 | Thème | 02 Juge Instr. | 03 Juge Réf. | 04 Juge Civil | 05 Procureur | 06 Gendarme | 07 Avocat | 08 Expert Just. | 10 Insp. Trav. | 11 Expert Ass. | 12 Méd. Lég. | 14 Juge Enf. | 15 Médiateur |
 |-------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -77,7 +77,7 @@ Le tableau ci-dessous croise les 12 angles professionnels (colonnes) et 5 thème
 | **Preuves** | Dossier pénal · Réquisitions | Art. 145 · Constat · Vidéos | Pièces civiles · Expertise | Proc-verbaux · Auditions | PV détaillé · Photos · Auditions | Attestations · LRAR · Conclusions | Rapport d'expertise | PV Inspection · DUERP | Rapport expertise assurance | Certificat médical · Scanner | Témoignages famille | Aucune (confidentialité) |
 | **Risque n°1** | Insolvabilité SAS | Disparition preuves | Insolvabilité SAS | Prescription pénale | Disparition preuves | Insolvabilité SAS | Absence expertise | Récidive sans sanction | Absence assurance RC | Aggravation séquelles | Dégradation familiale | Échec médiation |
 
-### II.3 Lecture du tableau : points de consensus et points de tension
+### II.3 — II.3 Lecture du tableau : points de consensus et points de tension
 
 **Consensus forts (≥ 10 angles d'accord).**
 1. **Insolvabilité de la SAS** est le risque n°1 — cité par 8 angles en risque direct, 4 en risque implicite. FGTI/CIVI est la réponse quasi-unanime.
@@ -95,9 +95,9 @@ Le tableau ci-dessous croise les 12 angles professionnels (colonnes) et 5 thème
 
 ## III — ANALYSE TRANSVERSALE
 
-### III.1 Responsabilité & volet pénal
+### III.1 — III.1 Responsabilité & volet pénal
 
-#### III.1.A Responsabilité civile (SAS, dirigeants, fondements)
+#### III.1.a — III.1.A Responsabilité civile (SAS, dirigeants, fondements)
 
 **Convergence forte** — Les 12 angles s'accordent sur le fondement juridique principal. Le débat ne porte pas sur le *si* de la responsabilité mais sur la *voie procédurale* la plus efficace.
 
@@ -121,7 +121,7 @@ L'article **1240 C.civ.** (responsabilité pour faute) est subsidiairement mobil
 | 06 Gendarme | Constats matériels étayent le rôle actif de la chose | 7/10 |
 | 02 Juge Instr. | Responsabilité civile confirmée — utile pour le pénal | 7/10 |
 
-#### III.1.B Volet pénal (qualifications, intérêt stratégique, articulation civil/pénal)
+#### III.1.b — III.1.B Volet pénal (qualifications, intérêt stratégique, articulation civil/pénal)
 
 **Convergence forte** — Les angles pénaux (02 Juge Instruction, 05 Procureur, 06 Gendarme) et stratégiques (07 Avocat, NOTE_PÉNALE, RAPPORTS_STRATÉGIE) s'accordent sur l'opportunité et la viabilité de la voie pénale, avec des nuances sur son dosage stratégique.
 
@@ -153,9 +153,9 @@ L'article **1240 C.civ.** (responsabilité pour faute) est subsidiairement mobil
 
 **Convergence finale** : tous les angles recommandent de ne pas choisir entre pénal et civil. Les deux voies sont complémentaires. Le pénal apporte l'accès au dossier, l'expertise judiciaire, et la pression sur les dirigeants. Le civil apporte l'indemnisation rapide (provision, référé).
 
-### III.2 Indemnisation (Dintilhac / FGTI / voies de recouvrement)
+### III.2 — III.2 Indemnisation (Dintilhac / FGTI / voies de recouvrement)
 
-#### III.2.A Évaluation Dintilhac (postes, fourchettes, scénarios A/B/C)
+#### III.2.a — III.2.A Évaluation Dintilhac (postes, fourchettes, scénarios A/B/C)
 
 **Convergence forte** — Les 5 sources Dintilhac (Rapport baremique, Scénarios, Audit FGTI, Rapport Avocat, Évaluation) s'accordent sur la méthodologie et la fourchette globale. Les écarts portent sur le positionnement dans la fourchette selon le regard de chaque angle.
 
@@ -202,7 +202,7 @@ L'article **1240 C.civ.** (responsabilité pour faute) est subsidiairement mobil
 | 15 Médiateur | Entre B et C (compromis) | Fourchette de négociation transactionnelle |
 | 08 Expert Justice | Scénario B | Expertise judiciaire neutre |
 
-#### III.2.B Voies de recouvrement (assureur, FGTI/CIVI, dirigeants in solidum)
+#### III.2.b — III.2.B Voies de recouvrement (assureur, FGTI/CIVI, dirigeants in solidum)
 
 **Convergence forte** — Tous les angles confirment le caractère multi-niveaux du recouvrement et la nécessité d'activer les trois voies sans exclusive. Le point de tension principal est l'optimisme vis-à-vis de la voie assureur.
 
@@ -231,9 +231,9 @@ Divergence : certains angles estiment que la preuve de la faute détachable est 
 | Dirigeants *in solidum* | Moyenne (50 %) | 18–36 mois | Solvabilité des dirigeants |
 | Transaction | Moyenne (40 %) | 3–6 mois | Négociable |
 
-### III.3 Preuves, procédure & sécurité
+### III.3 — III.3 Preuves, procédure & sécurité
 
-#### III.3.A Preuves matérielles et procédure (constat, vidéos, référés, expertise)
+#### III.3.a — III.3.A Preuves matérielles et procédure (constat, vidéos, référés, expertise)
 
 **Convergence forte sur l'urgence** — Tous les angles procéduraux (03 Juge Référés, 06 Gendarme, 02 Juge Instruction) insistent sur l'impératif de sécuriser les preuves matérielles avant leur disparition.
 
@@ -262,7 +262,7 @@ Si ces personnes sont identifiées et d'accord, leurs déclarations pourraient �
 - Le préjudice corporel (en complément du médecin légiste)
 L'expertise pénale pourra être utilisée dans le cadre civil.
 
-#### III.3.B Volet administratif & sécurité (Inspection du travail, DUERP, manquements)
+#### III.3.b — III.3.B Volet administratif & sécurité (Inspection du travail, DUERP, manquements)
 
 **Convergence forte sur la gravité des manquements.** L'angle 10 Inspecteur Travail est le plus complet, rejoint par 06 Gendarme et les rapports de conformité.
 
@@ -289,9 +289,9 @@ L'expertise pénale pourra être utilisée dans le cadre civil.
 | Rapport Conformité Procédurale | Synthèse des manquements dans le cadre civil |
 | Rapport Conformité RGPD | Angle complémentaire — absence de registre, caméras non déclarées |
 
-### III.4 Risques, perspectives & stratégie
+### III.4 — III.4 Risques, perspectives & stratégie
 
-#### III.4.A Cartographie des risques issus des 12 angles
+#### III.4.a — III.4.A Cartographie des risques issus des 12 angles
 
 **Risque n°1 — INSOLVABILITÉ DE LA SAS (unanime — 12/12 angles).** Le capital social de 200 € et l'absence de trésorerie significative rendent toute condamnation contre la SAS vaine. C'est le risque *le plus cité* et *le plus structurant* : il conditionne toute la stratégie. Atténuation : diriger l'action vers les dirigeants *in solidum* et le FGTI/CIVI.
 
@@ -317,7 +317,7 @@ Atténuation : l'information judiciaire interrompt la prescription pénale. L'as
 | n°4 — Prescription | 20 % | Critique | Suivi calendaire strict |
 | n°5 — Impact familial | 80 % | Grave | Accompagnement social |
 
-#### III.4.B Scénarios de trajectoire (A pénal, B civil, C transactionnel) et choix stratégique
+#### III.4.b — III.4.B Scénarios de trajectoire (A pénal, B civil, C transactionnel) et choix stratégique
 
 **Convergence unanime** : les voies pénales et civiles ne sont PAS exclusives. Tous les angles recommandent de mener les deux en parallèle. Le débat porte sur le dosage relatif.
 
@@ -348,7 +348,7 @@ Les scénarios A et B sont conduits *simultanément*. Le scénario C est conditi
 
 ## IV — RECOMMANDATIONS UNIFIÉES
 
-### IV.1 Recommandations à court terme (J+0 à J+90)
+### IV.1 — IV.1 Recommandations à court terme (J+0 à J+90)
 
 | # | Action | Portée par | Urgence | Source principale |
 |:-:|--------|-----------|:-------:|------------------|
@@ -362,7 +362,7 @@ Les scénarios A et B sont conduits *simultanément*. Le scénario C est conditi
 | 8 | Suivi enquête Inspection Travail (DDETS 09) | Victime | 🟡 | 10 Insp. Trav. |
 | 9 | Point médical mensuel avec le médecin légiste | Victime/Médecin | 🟢 | 12 Méd. Lég. |
 
-### IV.2 Recommandations à moyen terme (J+90 à J+365)
+### IV.2 — IV.2 Recommandations à moyen terme (J+90 à J+365)
 
 | # | Action | Portée par | Priorité | Source principale |
 |:-:|--------|-----------|:--------:|------------------|
@@ -374,7 +374,7 @@ Les scénarios A et B sont conduits *simultanément*. Le scénario C est conditi
 | 15 | Suivi psychologique + accompagnement social foyer | Victime/AS | 🟢 | 14 Juge Enf. |
 | 16 | Proposition médiation si dirigeants montrent bonne foi | Avocat/Méd. | 🟢 | 15 Médiateur |
 
-### IV.3 Recommandations à long terme (après consolidation / jugement)
+### IV.3 — IV.3 Recommandations à long terme (après consolidation / jugement)
 
 | # | Action | Portée par | Priorité | Source principale |
 |:-:|--------|-----------|:--------:|------------------|
@@ -388,10 +388,10 @@ Les scénarios A et B sont conduits *simultanément*. Le scénario C est conditi
 
 ---
 
-## ANNEXES
+## V — ANNEXES
 
-### Annexe A — Table de correspondance source → section
-### Annexe B — Note méthodologique (production et croisement des 12 angles)
+### V.1 — Annexe A — Table de correspondance source → section
+### V.2 — Annexe B — Note méthodologique (production et croisement des 12 angles)
 
 **Production des sources.** Les 12 rapports par angle professionnel (missions 02 à 15) et les notes stratégiques complémentaires ont été produits par des agents autonomes (Jules sessions MCP), chacun instruisant le même corpus de sources de base : dossier médical, constats de gendarmerie, échanges LRAR, pièces de procédure, rapports d'expertise et jurisprudences pertinentes.
 
@@ -401,7 +401,7 @@ Les scénarios A et B sont conduits *simultanément*. Le scénario C est conditi
 
 **Limite.** Les analyses de la partie III reflètent l'état du corpus au 15 juillet 2026. Les développements ultérieurs (expertise judiciaire, clôture de l'instruction, décision TJ) devront être intégrés dans une version révisée.
 
-### Annexe C — Lexique des abréviations et sigles utilisés
+### V.3 — Annexe C — Lexique des abréviations et sigles utilisés
 
 | Sigle | Signification |
 |-------|---------------|

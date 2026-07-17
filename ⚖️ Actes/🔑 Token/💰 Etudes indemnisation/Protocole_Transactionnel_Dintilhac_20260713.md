@@ -30,7 +30,7 @@ type: preuve
 **D'AUTRE PART,**
 
 *Ci-après désignées individuellement « la Partie » et collectivement « les Parties ».*
-### PRÉAMBULE & CONTEXTE FACTUEL
+### I.1 — PRÉAMBULE & CONTEXTE FACTUEL
 
 Le **[Date de l'Accident](../../../🧠%20Memory/STRICT%20VARIABLES.md)**, M. [La Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-nom-complet.md) a été victime d'un accident corporel grave alors qu'il se trouvait dans les locaux d'exploitation commerciale de la société [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-nom.md) situés au [Adresse Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-adresse.md).
 
@@ -42,38 +42,38 @@ Afin de prévenir ou de mettre fin à tout litige judiciaire afférent à l'inde
 
 <hr><hr>
 
-### ARTICLE 1 — PRINCIPE DU RÈGLEMENT ET RECONNAISSANCE DE RESPONSABILITÉ
+### I.2 — ARTICLE 1 — PRINCIPE DU RÈGLEMENT ET RECONNAISSANCE DE RESPONSABILITÉ
 
 La société [L'Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-exploitant-nom.md) (et par délégation son assureur la compagnie [Assureur RC Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-assureur-rc.md)) reconnaît son entière et exclusive responsabilité dans la survenance du sinistre du [Date de l'Accident](../../../🧠%20Memory/STRICT%20VARIABLES.md) sur le fondement de la responsabilité du fait des choses que l'on a sous sa garde (article 1242 alinéa 1er du Code civil).
 
 En conséquence, l'indemnisation intégrale des préjudices corporels subis par la Victime s'effectuera en droit commun, sans aucune réduction de son droit à indemnisation.
 
-### ARTICLE 2 — ÉVALUATION BARÉMIQUE DES PRÉJUDICES (MÉTHODE DINTILHAC)
+### I.3 — ARTICLE 2 — ÉVALUATION BARÉMIQUE DES PRÉJUDICES (MÉTHODE DINTILHAC)
 
 Les Parties conviennent de se référer, pour l'évaluation et la liquidation amiable des préjudices, aux conclusions du Rapport d'Évaluation Indemnitaire du 13 juillet 2026 (Pièce n° 44 de la procédure), lequel détaille les postes de préjudices selon la nomenclature Dintilhac sous deux scénarios tenant compte de l'état fonctionnel non encore consolidé de la Victime :
 
 1. **Scénario Prudent (Déficit Fonctionnel Permanent de 10 %)** : Chiffrage total avant recours subrogatoire évalué à **126 000 €**.
 2. **Scénario Médian (Déficit Fonctionnel Permanent de 15 %)** : Chiffrage total avant recours subrogatoire évalué à **161 500 €**.
 
-### ARTICLE 3 — ACCORD SUR LE VERSEMENT D'UNE PROVISION INDEMNITAIRE IMMÉDIATE
+### I.4 — ARTICLE 3 — ACCORD SUR LE VERSEMENT D'UNE PROVISION INDEMNITAIRE IMMÉDIATE
 
 À titre de règlement provisionnel immédiat à valoir sur la liquidation définitive des préjudices corporels, et dans l'attente de l'expertise médicale d'évaluation finale après consolidation, la compagnie [Assureur RC Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-assureur-rc.md) s'engage à verser à M. [La Victime](../../../🧠%20Memory/🗂️%20Tokens/token-victime-nom-complet.md) la somme de **[Finance Provision Référé](../../../🧠%20Memory/🗂️%20Tokens/token-finance-provision-refere.md)**.
 
 Ce versement interviendra par virement bancaire sur le compte CARPA de Me [L'Avocat de la Victime](../../../🧠%20Memory/🗂️%20Tokens/token-avocat-victime.md) dans un délai maximal de **quinze (15) jours** à compter de la signature des présentes par l'ensemble des Parties.
 
-### ARTICLE 4 — RECOURS DES TIERS PAYEURS & SOUMISSION AUX SOCIALES
+### I.5 — ARTICLE 4 — RECOURS DES TIERS PAYEURS & SOUMISSION AUX SOCIALES
 
 Il est expressément rappelé que le règlement ci-dessus s'effectue sous réserve des décomptes définitifs de créance de la Caisse Primaire d'Assurance Maladie (CPAM) au titre des prestations servies à la Victime (frais médicaux, indemnités journalières).
 
 La compagnie [Assureur RC Exploitant](../../../🧠%20Memory/🗂️%20Tokens/token-assureur-rc.md) déclare faire son affaire personnelle du règlement direct de la créance de la CPAM, de sorte que la somme versée à la Victime au titre du présent protocole restera intégralement acquise à cette dernière pour ses préjudices personnels extra-patrimoniaux et sa part de préjudices patrimoniaux non soumise à recours.
 
-### ARTICLE 5 — RÉSERVE EXPLICITE D'AGGRAVATION
+### I.6 — ARTICLE 5 — RÉSERVE EXPLICITE D'AGGRAVATION
 
 Conformément au droit commun de la réparation du préjudice corporel et aux dispositions de l'article 2226 du Code civil, le présent protocole ne couvre que les préjudices en l'état actuel des séquelles documentées.
 
 La Victime conserve expressément le droit de solliciter une indemnisation complémentaire en cas d'aggravation future de son état de santé liée aux suites directes de l'accident du [Date de l'Accident](../../../🧠%20Memory/STRICT%20VARIABLES.md), dûment constatée par un médecin expert.
 
-### ARTICLE 6 — DÉSISTEMENT ET EFFETS DE LA TRANSACTION
+### I.7 — ARTICLE 6 — DÉSISTEMENT ET EFFETS DE LA TRANSACTION
 
 Sous réserve de la parfaite et complète exécution du versement de la somme mentionnée à l'Article 3, la Victime s'engage à se désister de l'instance de référé-provision actuellement pendante devant le Tribunal judiciaire de Foix (audience du 31 juillet 2026), chaque partie conservant la charge de ses propres dépens.
 

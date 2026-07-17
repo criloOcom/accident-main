@@ -17,7 +17,7 @@ type: rapport
 
 ---
 
-## 1. CLASSIFICATION DES 35 COURRIERS PAR NATURE
+## I — CLASSIFICATION DES 35 COURRIERS PAR NATURE
 
 | Catégorie | N° | Destinataire | Type envoi | Urgence |
 |-----------|----|-------------|-----------|---------|
@@ -53,9 +53,9 @@ type: rapport
 
 ---
 
-## 2. ANALYSE PAR QUESTION
+## II — ANALYSE PAR QUESTION
 
-### 2.1 URSSAF (12) > Inspection du Travail (09) ?
+### II.1 — 2.1 URSSAF (12) > Inspection du Travail (09) ?
 
 **Constat :** URSSAF (travail dissimulé) et Inspection du Travail (sécurité) sont parallèles, pas hiérarchiques.
 
@@ -72,7 +72,7 @@ type: rapport
 
 ---
 
-### 2.2 CODAF (14) > Préfecture (13) ?
+### II.2 — 2.2 CODAF (14) > Préfecture (13) ?
 
 **Constat :** La Préfecture et le CODAF sont deux signalements distincts mais complémentaires.
 
@@ -89,7 +89,7 @@ type: rapport
 
 ---
 
-### 2.3 TJ (35) avant ou après CODAF (14) ?
+### II.3 — 2.3 TJ (35) avant ou après CODAF (14) ?
 
 **Constat :** TJ (35) = transmission de preuves complémentaires au Tribunal Judiciaire. CODAF (14) = signalement administratif.
 
@@ -105,7 +105,7 @@ type: rapport
 
 ---
 
-### 2.4 CPAM (17, 21) doit-il être plus tôt ?
+### II.4 — 2.4 CPAM (17, 21) doit-il être plus tôt ?
 
 **Constat :** 17 (Transmission bordereau) = 6 juillet, 21 (Relance) = 5 juillet. Le dossier RCT CPAM (n°31727387) a été ouvert le 3 juin 2026.
 
@@ -117,7 +117,7 @@ type: rapport
 
 ---
 
-### 2.5 INPI (11) dans Vague 1 vu le risque NPAI ?
+### II.5 — 2.5 INPI (11) dans Vague 1 vu le risque NPAI ?
 
 **Constat :** 11 = Signalement de litige au RNE (Registre National des Entreprises). Les LRAR à la SAS sont retournés NPAI. La SAS au capital de 200 € pourrait être dissoute rapidement.
 
@@ -129,7 +129,7 @@ type: rapport
 
 ---
 
-### 2.6 SDIS (18) utile ou redondant ?
+### II.6 — 2.6 SDIS (18) utile ou redondant ?
 
 **Constat :** SDIS (18) = signalement de sécurité ERP. Le salon de coiffure est un ERP de 5e catégorie.
 
@@ -149,7 +149,7 @@ type: rapport
 
 ---
 
-### 2.7 Police (20) prioritaire sur administratifs ?
+### II.7 — 2.7 Police (20) prioritaire sur administratifs ?
 
 **Constat :** 20 = Relance Police Nationale pour suivi de plainte + demande de conservation des vidéosurveillance. L'accident date du **29 mai 2026** → J+42.
 
@@ -161,9 +161,9 @@ type: rapport
 
 ---
 
-## 3. PROPOSITION D'ORDRE OPTIMAL ALTERNATIF
+## III — PROPOSITION D'ORDRE OPTIMAL ALTERNATIF
 
-### Nouveau plan de Vagues
+### III.1 — Nouveau plan de Vagues
 
 ```
 VAGUE URGENCE ABSOLUE — 10 juillet (AUJOURD'HUI)
@@ -206,7 +206,7 @@ VAGUE 3 — 14 juillet
   —       18   SDIS            Redondant avec 16, 13, 29, 34 (cf. §2.6)
 ```
 
-### Justification synthétique
+### III.2 — Justification synthétique
 
 | Changement | De | Vers | Raison |
 |-----------|----|------|--------|
@@ -219,7 +219,7 @@ VAGUE 3 — 14 juillet
 | TC (30) | Absent | **Vague 1 (n°5)** | Opposition radiation — complément INPI |
 | INPI Oppos. (31) | Absent | **Vague 1 (n°6)** | Empêcher recréation sous autre structure |
 
-### Conséquences du nouveau planning
+### III.3 — Conséquences du nouveau planning
 
 | Envoyé | Nb courriers | Délai de traitement espéré |
 |--------|-------------|---------------------------|
@@ -230,9 +230,9 @@ VAGUE 3 — 14 juillet
 
 ---
 
-## 4. DÉTECTION DE PROBLÈMES ADDITIONNELS
+## IV — DÉTECTION DE PROBLÈMES ADDITIONNELS
 
-### 4.1 Courriers disparus / à créer
+### IV.1 — 4.1 Courriers disparus / à créer
 
 - **Aucun courrier au Procureur de la République** : la constitution de partie civile (10) va au Doyen des Juges d'Instruction, mais le Parquet n'est pas destinataire direct des signalements NPAI et des preuves qui démontrent la soustraction de la SAS.
   ➤ Recommandation : ajouter un courrier **36 - Transmission au Parquet** (copie des LRAR NPAI + demande d'ouverture d'information judiciaire)
@@ -240,14 +240,14 @@ VAGUE 3 — 14 juillet
 - **Absence de courrier à l'Avocat** : le projet mentionne un avocat (30, 31 sont rédigés par l'avocat), mais aucun courrier de la victime à son propre avocat pour transmission des pièces.
   ➤ Moins critique car la relation avocat-client est directe.
 
-### 4.2 Séquencement LRAR vs Email
+### IV.2 — 4.2 Séquencement LRAR vs Email
 
 Certains courriers en LRAR pourraient être envoyés **par email en copie** pour gagner du temps :
 - **20 Police** : LRAR + email impératif (l'email arrive en 10 min, la LRAR en 3 jours — critère pour les vidéos)
 - **11 INPI** : LRAR seule (l'INPI accepte les courriers papier avec accusé)
 - **19 FGTI** : LRAR + email recommandé (double voie)
 
-### 4.3 Calendrier des délais légaux
+### IV.3 — 4.3 Calendrier des délais légaux
 
 | Échéance | Date | Commentaire |
 |----------|------|-------------|
@@ -257,9 +257,9 @@ Certains courriers en LRAR pourraient être envoyés **par email en copie** pour
 
 ---
 
-## 5. CONCLUSION
+## V — CONCLUSION
 
-### Résumé des modifications proposées
+### V.1 — Résumé des modifications proposées
 
 1. **Police (20) en URGENCE ABSOLUE** — seule chance de sauver les vidéos
 2. **Relance Dr DJERBI (25) en urgence** — certificat de consolidation indispensable
@@ -269,7 +269,7 @@ Certains courriers en LRAR pourraient être envoyés **par email en copie** pour
 6. **SDIS (18) supprimé** — redondance avec Préfecture, Mairie, Conseil Départemental
 7. **CPAM (21) maintenu en Vague 2** — suivi normal du dossier RCT
 
-### Risque principal
+### V.2 — Risque principal
 
 Le **risque NPAI** est le danger numéro 1 : si la SAS est radiée avant que les signalements INPI, TC et INPI Opposition ne soient enregistrés, la victime perd toute action directe contre la personne morale. Le dossier bascule alors en FGTI avec un plafond de 3 000 € (provision), très loin des 90 000 € estimés.
 

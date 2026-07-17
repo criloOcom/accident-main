@@ -15,7 +15,7 @@ Ce rapport détaille les anomalies orthographiques, grammaticales et typographiq
 
 <hr><hr>
 
-## SYNTHÈSE DES ANOMALIES
+## I — SYNTHÈSE DES ANOMALIES
 
 - **CRITIQUE (Fuites PII)** : 0 erreur
 - **MAJEUR (Fautes courantes)** : 26 erreurs (principalement l'usage fautif de "suite à" au lieu de "à la suite de")
@@ -26,13 +26,13 @@ Ce rapport détaille les anomalies orthographiques, grammaticales et typographiq
 
 <hr><hr>
 
-## TODO LIST DES CORRECTIONS
+## II — TODO LIST DES CORRECTIONS
 
-### CRITIQUE (Fuites PII)
+### II.1 — CRITIQUE (Fuites PII)
 
 Aucune fuite de PII (identités réelles du `TOKEN MAP.md`) n'a été détectée dans les fichiers `🔑 Token`. L'anonymisation est intègre.
 
-### MAJEUR (Fautes courantes de français)
+### II.2 — MAJEUR (Fautes courantes de français)
 
 L'expression "suite à" est une faute de français (calque administratif). Elle doit être remplacée par "à la suite de".
 
@@ -55,7 +55,7 @@ L'expression "suite à" est une faute de français (calque administratif). Elle 
 - [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/16 ⚠️ Signalement Parquet Fraud.md` — lignes 29, 37
 - [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮‍♂️ PV Audition Plainte Complementaire.md` — ligne 66
 
-### MINEUR (Ponctuation)
+### II.3 — MINEUR (Ponctuation)
 
 L'espace insécable avant les signes de ponctuation doubles (`;`, `:`, `!`, `?`) manque de manière endémique dans la quasi-totalité des documents (plus de 1000 occurrences). Une passe de normalisation par script regex est recommandée plutôt qu'une correction manuelle.
 
@@ -63,7 +63,7 @@ Exemples représentatifs :
 - [ ] Espace manquante avant ":" dans les métadonnées de document (ex: "Objet:", "Date:")
 - [ ] Espace manquante avant "?" ou "!" dans le corps des emails et correspondances
 
-### INFO (Espaces doubles)
+### II.4 — INFO (Espaces doubles)
 
 Des espaces doubles entre les mots (hors indentation) ont été relevés à 67 reprises, notamment dans :
 - [ ] `⚖️ Actes/🔑 Token/README.md` — ligne 22

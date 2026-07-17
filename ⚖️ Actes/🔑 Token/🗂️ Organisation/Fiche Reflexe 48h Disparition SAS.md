@@ -43,15 +43,15 @@ Conformément aux obligations légales en la matière, ce signalement trouve son
 
 ## III — ARGUMENTATION ET PLAN D'ACTION SÉQUENTIEL
 
-### 1. Le constat par Commissaire de Justice (Action Immédiate : Ce soir ou demain matin)
+### III.1 — Le constat par Commissaire de Justice (Action Immédiate : Ce soir ou demain matin)
 
 La priorité absolue est de figer la situation sur le terrain. Le recours à un Commissaire de Justice est indispensable pour constater objectivement la fermeture, la disparition, ou toute autre modification matérielle des locaux exploités par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). Cette mesure, qui ne souffre d'aucun délai, doit être exécutée inopinément.
 
-### 2. La vérification INPI (Action à J+1)
+### III.2 — La vérification INPI (Action à J+1)
 
 En parallèle ou immédiatement après l'intervention du Commissaire de Justice, une vérification exhaustive auprès de l'INPI et du registre du commerce et des sociétés s'impose. Cette étape vise à substituer une connaissance juridique certaine (statut réel de la société, éventuelles procédures collectives, cessions, changements de domiciliation) aux simples "bruits de couloir". Elle permettra de cibler les actions futures sur la base de données officielles et à jour.
 
-### 3. Le signalement au Parquet (Action à J+1/J+2)
+### III.3 — Le signalement au Parquet (Action à J+1/J+2)
 
 Dès lors que les premiers éléments de preuve (constat, vérifications INPI) sont réunis et caractérisent de potentielles infractions (banqueroute, organisation frauduleuse d'insolvabilité, abus de biens sociaux), un signalement circonstancié au Parquet doit être effectué, en vertu de l'article 40 du Code de procédure pénale précité. L'intervention du Procureur de la République donne à la procédure une dimension coercitive supplémentaire.
 
@@ -59,7 +59,7 @@ Dès lors que les premiers éléments de preuve (constat, vérifications INPI) s
 > [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) <br>
 > **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.[^1]**
 
-### 4. L'envoi des LRAR (Action à J+2, en clôture de séquence)
+### III.4 — L'envoi des LRAR (Action à J+2, en clôture de séquence)
 
 Ce n'est qu'une fois les éléments de preuve sécurisés (Constat) et les vérifications effectuées que la mise en demeure officielle par LRAR pourra être envoyée. Ces courriers, adressés à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), à ses dirigeants, ainsi qu'à tout organisme pertinent, interviendront alors que la situation est verrouillée, supprimant ainsi toute opportunité pour la partie adverse d'organiser utilement sa fuite.
 <hr><hr>

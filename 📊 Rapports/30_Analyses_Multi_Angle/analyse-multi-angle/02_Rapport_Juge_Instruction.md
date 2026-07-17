@@ -14,7 +14,7 @@ type: rapport
 
 ## I — PRÉSENTATION DU DOSSIER ET DES FAITS
 
-Le présent rapport est établi suite à la constitution de partie civile de **[La Victime]** pour les faits survenus le **[J+0 Accident]** (29 mai 2026) au sein du salon de coiffure exploité par la SAS **[L'Exploitant du Commerce (La SAS)]**, sis à **[L'Adresse de l'Exploitation]**.
+Le présent rapport est établi à la suite de la constitution de partie civile de **[La Victime]** pour les faits survenus le **[J+0 Accident]** (29 mai 2026) au sein du salon de coiffure exploité par la SAS **[L'Exploitant du Commerce (La SAS)]**, sis à **[L'Adresse de l'Exploitation]**.
 
 Il ressort de l'examen de la plainte et des premières pièces produites que le préposé du salon, **[Le Préposé de l'Exploitation]**, a utilisé une vasque en céramique (présentant une cassure aux arêtes tranchantes non signalée) comme promontoire. Sous l'effet du poids, l'équipement a basculé. Par réflexe de protection, **[La Victime]** a tendu la main droite, heurtant la section tranchante, ce qui a causé une grave blessure (section nerveuse et tendineuse).
 
@@ -26,7 +26,7 @@ Les certificats médicaux, notamment celui de **[Le Chirurgien SOS Main]** aprè
 
 L'instruction permet à ce stade de retenir des charges sérieuses tant contre la personne morale (SAS **[L'Exploitant du Commerce (La SAS)]**) que contre ses dirigeants.
 
-### A. INFRACTIONS RETENUES (BLESSURES INVOLONTAIRES)
+### II.1 — INFRACTIONS RETENUES (BLESSURES INVOLONTAIRES)
 
 L'absence d'équipement adapté (escabeau) contraignant le préposé à une manœuvre dangereuse, couplée au maintien en service d'une vasque cassée et tranchante dans un établissement recevant du public (ERP), caractérise une imprudence, une négligence et un manquement manifeste aux obligations de sécurité.
 
@@ -42,7 +42,7 @@ Ou, à tout le moins, de blessures par imprudence :
 > **[Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2]** <br>
 > [Article 222-19](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
 
-### B. RESPONSABILITÉ DES DIRIGEANTS ET DÉFAUT D'ASSURANCE
+### II.2 — RESPONSABILITÉ DES DIRIGEANTS ET DÉFAUT D'ASSURANCE
 
 Il ressort par ailleurs que le Président, **[Le Président de l'Exploitation]**, et la Directrice Générale, **[La Directrice Générale de l'Exploitation]**, de la SAS constituée avec un capital social dérisoire (**[Capital Social de l'Exploitation]**), n'ont souscrit aucune assurance de responsabilité civile professionnelle, ce qui constitue une faute détachable de leurs fonctions et un manquement grave aux règles de sécurité d'un ERP.
 

@@ -17,7 +17,7 @@ type: rapport
 
 ---
 
-## 1. SYNTHÈSE DES INCOHÉRENCES DÉTECTÉES
+## I — SYNTHÈSE DES INCOHÉRENCES DÉTECTÉES
 
 | # | Gravité | Description | Impact |
 |---|---------|-------------|--------|
@@ -34,7 +34,7 @@ type: rapport
 
 ---
 
-## 2. AUDIT POSTE PAR POSTE — TABLEAU DE CONCORDANCE
+## II — AUDIT POSTE PAR POSTE — TABLEAU DE CONCORDANCE
 
 | Poste Dintilhac | Doc 11 (Optimiste) | Doc 12 (Optimiste) | Doc 11+12 (Compromis) | Courrier FGTI (19) | FINANCIAL_VARIABLES_DEPRECATED.md | STRICT_VARIABLES.md | Rapport barémique | **Statut** |
 |----------------|-------------------|-------------------|----------------------|-------------------|----------------------|-------------------|------------------|-----------|
@@ -53,9 +53,9 @@ type: rapport
 
 ---
 
-## 3. ANALYSE DÉTAILLÉE
+## III — ANALYSE DÉTAILLÉE
 
-### 3.1 Incohérence structurelle : optimiste vs compromis
+### III.1 — 3.1 Incohérence structurelle : optimiste vs compromis
 
 Le dossier contient **3 niveaux d'évaluation** qui ne sont pas clairement départagés :
 
@@ -67,7 +67,7 @@ Le dossier contient **3 niveaux d'évaluation** qui ne sont pas clairement dépa
 
 Le courrier FGTI utilise le niveau **optimiste** (~105 000 €) mais avec des valeurs qui ne correspondent exactement ni à l'optimiste ni au compromis.
 
-### 3.2 Erreur terminologique critique dans le courrier FGTI
+### III.2 — 3.2 Erreur terminologique critique dans le courrier FGTI
 
 **Section III — INDEMNITES SOLLICITEES :**
 ```
@@ -81,20 +81,20 @@ Le courrier FGTI utilise le niveau **optimiste** (~105 000 €) mais avec des va
 
 Le PEP (cicatrice palmaire 8,5 cm) et les SE (4/7, douleurs neuropathiques, stress post-traumatique) sont DEUX postes distincts. Les confondre dans la nomenclature crée un risque de rejet partiel par le FGTI.
 
-### 3.3 Problème d'addition : total annoncé vs total réel
+### III.3 — 3.3 Problème d'addition : total annoncé vs total réel
 
 **Courrier FGTI — addition des postes listés :**
 1 900 + 1 400 + 30 000 + 31 200 + 24 000 + 8 000 + 3 000 + 2 000 + 3 000 + 3 000 = **107 500 €**
 
 Le total annoncé est **~105 000 €** — un écart de 2 500 €. Si le DEP (3 000 €) est exclu du total : 107 500 - 3 000 = 104 500 €, arrondi à ~105 000 € (acceptable mais imprécis).
 
-### 3.4 ITT : 55 ou 56 jours ?
+### III.4 — 3.4 ITT : 55 ou 56 jours ?
 
 - Tous les documents internes mentionnent **56 jours** (29 mai → 23 juillet 2026) — confirmé par STRICT VARIABLES.md
 - La consigne utilisateur mentionne "ITT 55 jours à date"
 - **Conclusion :** La valeur interne (56 jours) est cohérente entre tous les documents. Le "55" de l'utilisateur est soit une date de début de mission (J-1), soit une erreur.
 
-### 3.5 Incidence professionnelle — vérification
+### III.5 — 3.5 Incidence professionnelle — vérification
 
 | Critère | Évaluation |
 |---------|-----------|
@@ -105,7 +105,7 @@ Le total annoncé est **~105 000 €** — un écart de 2 500 €. Si le DEP (3 
 | CA de 9 000 €/an | ⚠ Capitalisation sur 27,5 ans d'un revenu modeste peut être contestée |
 | **Conclusion** | **Justifié mais perfectible** — mieux vaudrait documenter que le taux IP est distinct du taux DFP |
 
-### 3.6 Comparaison des trois évaluations — écart Glose
+### III.6 — 3.6 Comparaison des trois évaluations — écart Glose
 
 Écart entre l'optimiste (105 000 €) et Glose (45 000 €) : **60 000 € (133 %)**.
 C'est un écart considérable qui affaiblit la crédibilité de la demande s'il est opposé par le FGTI.
@@ -116,9 +116,9 @@ C'est un écart considérable qui affaiblit la crédibilité de la demande s'il 
 
 ---
 
-## 4. VÉRIFICATIONS SPÉCIFIQUES
+## IV — VÉRIFICATIONS SPÉCIFIQUES
 
-### 4.1 Conditions FGTI (Art. 706-3 CPP)
+### IV.1 — 4.1 Conditions FGTI (Art. 706-3 CPP)
 
 | Condition | Statut | Preuve |
 |-----------|--------|--------|
@@ -130,7 +130,7 @@ C'est un écart considérable qui affaiblit la crédibilité de la demande s'il 
 | Hors Badinter/ONIAM | ✅ | Dans le champ |
 | **Conclusion** | **Toutes conditions remplies** | Voie FGTI pleinement ouverte |
 
-### 4.2 Provision référé
+### IV.2 — 4.2 Provision référé
 
 | Source | Montant | Détail |
 |--------|---------|--------|
@@ -139,15 +139,15 @@ C'est un écart considérable qui affaiblit la crédibilité de la demande s'il 
 | Compromis | 15 000 € | Confirmé par rapport barémique |
 | **Constat** | **Cohérent** | 15 000 € bien justifié face au capital de 200 € |
 
-### 4.3 FIR (Frais d'Intervention et de Recouvrement) du FGTI
+### IV.3 — 4.3 FIR (Frais d'Intervention et de Recouvrement) du FGTI
 
 Le FGTI applique un barème de frais pour l'ouverture et la gestion du dossier. Aucun document ne mentionne ce point. À ajouter pour anticiper les déductions éventuelles.
 
 ---
 
-## 5. RECOMMANDATIONS
+## V — RECOMMANDATIONS
 
-### 5.1 Priorité haute — corriger le courrier FGTI
+### V.1 — 5.1 Priorité haute — corriger le courrier FGTI
 
 1. **Remplacer** la ligne erronée `Pretium doloris (PEP)` par `Préjudice Esthétique Permanent (PEP)`
 2. **Ajouter** l'ATP (Assistance Tierce Personne) : 2 000 €
@@ -155,13 +155,13 @@ Le FGTI applique un barème de frais pour l'ouverture et la gestion du dossier. 
 4. **Corriger** le total additionné pour qu'il corresponde exactement à la somme des postes
 5. **Décider** d'un niveau d'évaluation unique (optimiste ou compromis) — recommandation : garder l'optimiste pour le FGTI (stratégie de demande) mais le documenter explicitement comme "estimation haute"
 
-### 5.2 Priorité moyenne — harmoniser les sources
+### V.2 — 5.2 Priorité moyenne — harmoniser les sources
 
 6. **Mettre à jour** STRICT VARIABLES.md pour ajouter explicitement les valeurs "compromis" pour tous les postes (comme FINANCIAL_VARIABLES_DEPRECATED.md)
 7. **Mettre à jour** le README du dossier 04 pour refléter les 3 niveaux d'évaluation
 8. **Ajouter** une mention dans le courrier FGTI précisant "estimation haute sous réserve d'expertise" pour prévenir toute contestation
 
-### 5.3 Points de vigilance
+### V.3 — 5.3 Points de vigilance
 
 9. **Méthode BIBAL** : préparer une note justificative détaillée (devis équipement, jurisprudence, calcul du coefficient 27,5) pour répondre à une éventuelle contestation du FGTI
 10. **Double compte IP/DFP** : documenter la distinction entre les deux postes dans la note stratégique
@@ -169,7 +169,7 @@ Le FGTI applique un barème de frais pour l'ouverture et la gestion du dossier. 
 
 ---
 
-## 6. CONCLUSION GLOBALE
+## VI — CONCLUSION GLOBALE
 
 | Critère | Note | Commentaire |
 |---------|------|-------------|

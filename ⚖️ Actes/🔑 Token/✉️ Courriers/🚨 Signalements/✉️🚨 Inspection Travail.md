@@ -43,7 +43,7 @@ Cité Administrative
 Réf : Signalement effectué par la mairie de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) auprès de la Préfecture de l'Ariège le 1er juin 2026  
 
 Madame, Monsieur l'Inspecteur du Travail,  
-## INTRODUCTION
+## I — INTRODUCTION
 
 La présente lettre a pour objet de connaître les diligences accomplies par vos services à la suite de l'accident corporel grave survenu le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (sise [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)), et de porter à votre attention plusieurs éléments matériels susceptibles de caractériser des manquements à la réglementation du travail.
 
@@ -52,7 +52,7 @@ Cet accident a été causé par le **basculement** de la vasque en céramique du
 Cette blessure a entraîné une plaie palmaire profonde de la main droite avec section partielle du tendon fléchisseur superficiel (FDP) et du paquet vasculo-nerveux collatéral radial de l'index, ayant nécessité une neurolyse du nerf palmaire et une microchirurgie d'urgence en SOS Main le 30 mai 2026. Les séquelles fonctionnelles sont importantes et durablement invalidantes (ITT de 56 jours, consolidation au 1er mars 2027, DFP de 12 %, souffrances endurées 4/7, incidence professionnelle majeure — cf. rapport d'expertise médicale du 29 mai 2027).
 <hr><hr>
 
-## I — PROCÉDURES EN COURS
+## II — PROCÉDURES EN COURS
 
 Les procédures suivantes ont été engagées :
 
@@ -100,21 +100,21 @@ Les procédures suivantes ont été engagées :
 - Mise en demeure de l'assureur RC (J+50) restée sans réponse
 <hr><hr>
 
-## II — CONTEXTE DE LA SAISINE DE VOS SERVICES
+## III — CONTEXTE DE LA SAISINE DE VOS SERVICES
 
 À la suite de cet accident, Monsieur [**[L'Adjoint au Maire de la Commune]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), Adjoint au Maire de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), m'a informé le 1er juin 2026 avoir pris l'attache des services de la Préfecture de l'Ariège afin de diligenter l'Inspection du Travail et le CODAF.
 
 En qualité de victime directe et de personne directement concernée par les faits, j'ai un intérêt légitime et direct à ce que les manquements soient formellement constatés pour éviter toute réitération. Je sollicite aujourd'hui vos services pour les motifs suivants :
 
-### 1. INFORMATION SUR L'ÉTAT D'AVANCEMENT DE L'ENQUÊTE
+### III.1 — INFORMATION SUR L'ÉTAT D'AVANCEMENT DE L'ENQUÊTE
 
 Je souhaiterais être informé de l'état d'avancement de votre enquête et, le cas échéant, de ses conclusions.
 
-### 2. COMMUNICATION DU RAPPORT D'INSPECTION
+### III.2 — COMMUNICATION DU RAPPORT D'INSPECTION
 
 En qualité de personne directement concernée par les faits, je sollicite la transmission du rapport d'inspection sur le fondement de [l'article L. 311-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367683)[^2], sous réserve du secret de l'enquête en cours.
 
-### 3. VÉRIFICATION DES ÉLÉMENTS DE SÉCURITÉ SUIVANTS
+### III.3 — VÉRIFICATION DES ÉLÉMENTS DE SÉCURITÉ SUIVANTS
 
 Je porte à votre attention les faits suivants, susceptibles de caractériser des manquements à la réglementation du travail :
 
@@ -147,7 +147,7 @@ Il existe une possibilité que le préposé exerçant dans l'établissement ne s
 
 Cet indice est étayé par le fait que la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) déclare officiellement zéro salarié au Registre National des Entreprises, alors que l'activité commerciale du salon est continue et requiert la présence physique de ce préposé.
 
-### 4. TRANSMISSION AU PARQUET
+### III.4 — TRANSMISSION AU PARQUET
 
 Si les faits constatés par vos contrôles s'avèrent constitutifs d'infractions pénales, je vous remercie par avance de bien vouloir transmettre votre rapport au Procureur de la République près le Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) conformément à l'Article 40 du Code de procédure pénale.
 

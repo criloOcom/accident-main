@@ -26,7 +26,7 @@ Les conditions d'ouverture du droit à l'indemnisation intégrale par la CIVI so
 -   **Montant max** : Réparation intégrale (pas de plafond strict en principe, mais provisions soumises à appréciation). L'[Article L422-7 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797916) (souvent cité par analogie pour des plafonds dans d'autres cadres) n'est pas applicable directement au FGTI, qui obéit au régime du CPP.
 -   **Risque** : Nécessite la preuve du caractère matériel de l'infraction. Le FGTI peut être subrogé dans les droits de la victime contre le responsable (la SAS au capital de 200 € ou ses dirigeants).
 
-### Synthèse des voies d'indemnisation
+### I.1 — Synthèse des voies d'indemnisation
 
 | Voie | Condition | Délai | Montant max | Risque |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ Comme le prévoit l'[Article 700 du Code de procédure civile](https://www.legif
 
 Face à une SAS au capital social manifestement sous-dimensionné (200 €) pour assumer une indemnisation potentielle de ~109 500 €, la stratégie de recouvrement doit être organisée en cascade pour sécuriser la créance de **[La Victime]**.
 
-### A. Cascade de poursuite
+### V.1 — Cascade de poursuite
 
 1.  **Priorité 1 : L'Assureur RC Pro (Action directe)**
     -   *Pourquoi ?* Solvabilité garantie, prise en charge intégrale.
@@ -94,7 +94,7 @@ Face à une SAS au capital social manifestement sous-dimensionné (200 €) pour
     -   *Pourquoi ?* Filet de sécurité en cas d'insolvabilité de la SAS, des dirigeants, et d'absence d'assureur.
     -   *Action* : Dépôt d'une requête en indemnisation (les critères de gravité de l'art. 706-3 CPP étant largement remplis).
 
-### B. Calendrier d'action immédiat
+### V.2 — Calendrier d'action immédiat
 
 -   **Immédiatement** : Assignation en référé (Art. 145 CPC) de la SAS pour obliger la communication du contrat d'assurance.
 -   **En parallèle** : Consolider la plainte pénale (qui facilitera la saisine de la CIVI ultérieurement en qualifiant l'infraction de blessures involontaires).

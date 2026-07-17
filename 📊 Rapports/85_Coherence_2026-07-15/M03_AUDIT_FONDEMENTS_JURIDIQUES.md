@@ -11,7 +11,7 @@ type: rapport
 
 # Audit des fondements juridiques
 
-## Liste des anomalies détectées
+## I — Liste des anomalies détectées
 
 - [ ] **⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/16 ⚠️ Signalement Parquet Fraud.md** : [MINEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/16 ⚠️ Signalement Parquet Fraud.md:14 — citation incomplète (Code manquant pour l'article 40 dans `Article 40 du Code de proc`) — préciser le code applicable.
 - [ ] **⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/16 ⚠️ Signalement Parquet Fraud.md** : [MINEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/16 ⚠️ Signalement Parquet Fraud.md:22 — citation incomplète (Code manquant pour l'article 434-4 dans `Articles 434-4`) — préciser le code applicable.

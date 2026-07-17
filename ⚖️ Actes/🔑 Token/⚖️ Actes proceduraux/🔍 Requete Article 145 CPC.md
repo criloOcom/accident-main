@@ -31,7 +31,7 @@ A l'attention de Monsieur le President du Tribunal Judiciaire de [**[La Ville de
 Cabinet du Juge des Referes
 
 [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [**[J+37 Requête 145]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)
-## INTRODUCTION
+## I — INTRODUCTION
 
 La presente requete est introduite par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) sur le fondement de l'Article 145 du Code de procedure civile.
 
@@ -50,7 +50,7 @@ Elle a pour double objet d'obtenir, sous astreinte :
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^2]**
 <hr><hr>
 
-## I — EXPOSE DES FAITS
+## II — EXPOSE DES FAITS
 
 Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), alors qu'il se trouvait au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) en qualite de client, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a ete victime d'un accident corporel grave.
 
@@ -67,8 +67,8 @@ L'accuse de reception du courrier recommande adresse au proprietaire des murs, *
 A ce jour, l'identite de l'assureur RC professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) demeure inconnue.
 <hr><hr>
 
-## II — DISCUSSION JURIDIQUE
-### A. SUR LE MOTIF LEGITIME DE L'ARTICLE 145 CPC
+## III — DISCUSSION JURIDIQUE
+### III.1 — SUR LE MOTIF LEGITIME DE L'ARTICLE 145 CPC
 
 L'article 145 du Code de procedure civile dispose :
 
@@ -88,7 +88,7 @@ La jurisprudence admet que la communication forcee d'un document contractuel con
 > [Arrêt n°11-14.339](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026432928) <br>
 > **Cour de cassation, chambre sociale, 26 septembre 2012, n° 11-14.339[^3]**
 
-### B. SUR LE DROIT D'ACTION DIRECTE DE LA VICTIME (L.124-3)
+### III.2 — SUR LE DROIT D'ACTION DIRECTE DE LA VICTIME (L.124-3)
 
 L'article L.124-3 du Code des assurances consacre le droit de la victime d'agir directement contre l'assureur de la personne responsable :
 
@@ -106,7 +106,7 @@ Ce droit est autonome et ne peut etre paralysé par la carence du responsable a 
 
 Neanmoins, en pratique, l'exercice de ce droit suppose de connaitre l'identite de l'assureur. L'obstruction caracterisee de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) a la communication de cette information prive [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) de son droit d'agir et constitue une entrave a ses droits les plus fondamentaux.
 
-### C. SUR L'URGENCE DE LA CONSERVATION DES VIDEOS
+### III.3 — SUR L'URGENCE DE LA CONSERVATION DES VIDEOS
 
 Les enregistrements de videosurveillance constituent une preuve materielle essentielle pour etablir les circonstances exactes de l'accident et identifier les manquements a l'obligation de securite.
 
@@ -122,7 +122,7 @@ Le motif legitime est d'autant plus caracterise que :
 
 L'effacement de ces donnees avant toute mesure de conservation rendrait impossible l'etablissement de la preuve et priverait definitivement [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) de son droit a la preuve.
 
-### D. SUR LE REFUS CARACTERISE ET L'ASTREINTE SOLLICITEE
+### III.4 — SUR LE REFUS CARACTERISE ET L'ASTREINTE SOLLICITEE
 
 Les demandes amiables de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) sont restees lettres mortes :
 
@@ -151,7 +151,7 @@ Vu l'Article L. 124-3 du Code des assurances,
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité.[^2]**
 
-Vu les articles L. 227-8 et L. 225-251 du Code de commerce,
+Vu l'article L. 227-8 du Code de commerce,
 Vu les pièces versées aux débats,
 
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) demande qu'il plaise à Monsieur le Président du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), statuant en référé, de :

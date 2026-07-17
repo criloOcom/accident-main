@@ -25,7 +25,7 @@ Ces opérations seront menées soit de manière amiable, soit sur autorisation d
 
 ---
 
-## 1. VÉRIFICATIONS PRÉALABLES ET CONTEXTE
+## I — VÉRIFICATIONS PRÉALABLES ET CONTEXTE
 
 *   **Lieu des opérations :** Salon de coiffure sis **[L'Adresse de l'Exploitation]**.
 *   **Alerte sur les modifications :** L'accident s'est produit le **29 mai 2026**. Plus de 30 jours se sont écoulés. Le risque de modification des lieux (remplacement du bac à shampoing, dissimulation de la vasque cassée) est élevé. Si la configuration a été modifiée, l'huissier devra impérativement consigner de manière circonstanciée les aménagements récents, la présence de matériel neuf ou les traces de travaux.
@@ -33,26 +33,26 @@ Ces opérations seront menées soit de manière amiable, soit sur autorisation d
 
 ---
 
-## 2. OPÉRATIONS DE CONSTAT MATÉRIEL
+## II — OPÉRATIONS DE CONSTAT MATÉRIEL
 
 L'huissier instrumentaire procédera aux constatations suivantes :
 
-### A. État du salon de coiffure et configuration des lieux
+### II.1 — État du salon de coiffure et configuration des lieux
 *   Relevé de l'agencement général du salon depuis l'entrée jusqu'à l'espace de lavage (bacs à shampoing).
 *   Établissement d'un croquis côté pour matérialiser les distances entre les postes de coiffure, les bacs de lavage et d'éventuels obstacles (comme un poste de télévision nécessitant d'être escaladé).
 
-### B. Examen approfondi de la vasque incriminée
+### II.2 — Examen approfondi de la vasque incriminée
 *   **Identification :** Localisation précise du bac à shampoing à l'origine du basculement (lequel a été escaladé par **[Le Préposé de l'Exploitation]**).
 *   **Défectuosité et casse préexistante :** Constater l'état de la céramique. Photographier et décrire de façon précise toute cassure, fêlure, ou réparation de fortune (scotch, colle) sur les arêtes ou le flanc de la vasque. L'objectif est d'objectiver que l'arête tranchante qui a sectionné la main droite de **[La Victime]** était préexistante.
 *   **Stabilité :** Constater la fixation du dispositif au sol et au mur. Le dispositif est-il mobile, instable, ou anormalement fragile ?
 
-### C. Sécurité environnementale et équipement
+### II.3 — Sécurité environnementale et équipement
 *   Rechercher la présence d'équipements de sécurité ou d'aide (ex: escabeau, marchepied) permettant d'accéder en hauteur (notamment au poste de télévision) sans utiliser le matériel professionnel comme support.
 *   Photographier l'installation électrique ou plomberie apparente à proximité.
 
 ---
 
-## 3. OPÉRATIONS CONCERNANT LA VIDÉOSURVEILLANCE
+## III — OPÉRATIONS CONCERNANT LA VIDÉOSURVEILLANCE
 
 *   **Présence de caméras :** Repérer la présence de caméras de vidéosurveillance pointées vers la zone des bacs à shampoing ou l'entrée du salon.
 *   **Acquisition des images :**
@@ -62,13 +62,13 @@ L'huissier instrumentaire procédera aux constatations suivantes :
 
 ---
 
-## 4. TÉMOIGNAGES RECUEILLIS PAR L'HUISSIER (SOMMATION INTERPELLATIVE)
+## IV — TÉMOIGNAGES RECUEILLIS PAR L'HUISSIER (SOMMATION INTERPELLATIVE)
 
 *   **Force probante :** Une sommation interpellative (Art. 145) permettant de recueillir les déclarations du gérant, des employés (**[Le Préposé de l'Exploitation]**) ou de clients présents, formalisées par l'huissier dans son PV, a une force probante très supérieure à une simple attestation Cerfa Art. 202 CPC. L'huissier a la qualité d'officier public.
 *   Il conviendra de poser des questions précises préparées par l'avocat sur : la connaissance de la cassure de la vasque avant l'accident, et l'habitude d'escalader ce matériel.
 
 ---
 
-## 5. TRAÇAGE ET FIXATION PHOTOGRAPHIQUE
+## V — TRAÇAGE ET FIXATION PHOTOGRAPHIQUE
 *   Prise d'au moins 20 photographies nettes, sous plusieurs angles (plans larges et plans macro sur les cassures), annexées en couleur au PV final.
 *   Si le sang de la victime est encore visible, effectuer un traçage et des photographies de localisation.

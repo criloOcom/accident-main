@@ -23,13 +23,13 @@ statut: final
 
 ## I — SYNTHÈSE FACTUELLE
 
-### 1.1 Circonstances de l'accident
+### I.1 — 1.1 Circonstances de l'accident
 
 Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), la victime était installée au bac à shampoing du salon de coiffure exploité par la SAS. Le préposé de l'exploitation est monté sur la vasque en céramique du bac pour régler le poste de télévision, en l'absence totale de tout équipement d'accès en hauteur (escabeau, marchepied) mis à disposition par l'employeur. Sous son poids, la vasque — déjà fragilisée par une **cassure majeure préexistante non signalée** — a basculé violemment.
 
 **La vasque ne s'est pas effondrée** (aucun débris de céramique). La victime, par réflexe, a tendu la main droite pour protéger le préposé ; sa paume a heurté la cassure préexistante, provoquant une plaie palmaire profonde.
 
-### 1.2 Lésions et parcours médical
+### I.2 — 1.2 Lésions et parcours médical
 
 - **Lésions** : section partielle du tendon fléchisseur superficiel (FDP) et du paquet vasculo-nerveux collatéral radial de l'index de la main droite dominante
 - **Prise en charge** : microchirurgie d'urgence en SOS Main le 30 mai 2026 (neurolyse du nerf palmaire, suture tendineuse et nerveuse)
@@ -46,7 +46,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 
 ## II — VOLETS DE PROCÉDURE EN COURS
 
-### 2.1 Volet pénal
+### II.1 — 2.1 Volet pénal
 
 | Acte | Date | Statut |
 |------|------|--------|
@@ -62,7 +62,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 
 **Points d'attention pénaux** : la cassure préexistante non signalée caractérise la conscience du danger et renforce la qualification 222-19. L'absence d'escabeau constitue la violation délibérée de l'obligation de sécurité (Articles L.4121-1 à L.4121-5, R.4323-58 C. trav.).
 
-### 2.2 Volet civil
+### II.2 — 2.2 Volet civil
 
 | Acte | Date | Statut |
 |------|------|--------|
@@ -75,7 +75,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 - **Cumul** : Articles L.4121-1 à L.4121-5 C. trav. — manquement à l'obligation générale de sécurité
 - **Dirigeants** : Article L.225-251 C. com. — faute de gestion détachable (scénario offensif, conservé en note méthodologique)
 
-### 2.3 Volet assurance
+### II.3 — 2.3 Volet assurance
 
 | Acte | Date | Statut |
 |------|------|--------|
@@ -85,7 +85,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 **Fondement** : Article L.124-3 du Code des assurances — action directe du tiers lésé.
 **Constat** : silence ou défaut de communication de l'assureur à ce jour. Aucune offre d'indemnisation reçue. Provision complémentaire à solliciter par voie judiciaire.
 
-### 2.4 Volet administratif / Inspection du travail
+### II.4 — 2.4 Volet administratif / Inspection du travail
 
 | Acte | Date | Statut |
 |------|------|--------|
@@ -99,7 +99,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 
 ## III — ÉVALUATION DES PRÉJUDICES (NOMENCLATURE DINTILHAC)
 
-### 3.1 Postes extra-patrimoniaux
+### III.1 — 3.1 Postes extra-patrimoniaux
 
 | Poste | Montant | Référence |
 |------|---------|-----------|
@@ -110,7 +110,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 | Préjudice Sexuel | — | Non retenu |
 | **Total extra-patrimonial** | **~47 200 €** | |
 
-### 3.2 Postes patrimoniaux
+### III.2 — 3.2 Postes patrimoniaux
 
 | Poste | Montant | Notes |
 |------|---------|-------|
@@ -122,7 +122,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 | Dépenses de Santé Futures (DSF) | **3 000 €** | Soins de rééducation |
 | Assistance par Tierce Personne (ATP) | **800 €** | Aide humaine temporaire |
 
-### 3.3 Synthèse indemnitaire
+### III.3 — 3.3 Synthèse indemnitaire
 
 | Agrégat | Montant |
 |---------|---------|
@@ -137,7 +137,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 
 ## IV — STRATÉGIE GLOBALE ET PROCHAINES ÉTAPES
 
-### 4.1 Objectifs par volet
+### IV.1 — 4.1 Objectifs par volet
 
 | Volet | Objectif prioritaire | Échéance |
 |-------|---------------------|----------|
@@ -146,14 +146,14 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 | **Assurance** | Dénonciation du silence de l'assureur → provision complémentaire + offre d'indemnisation sous astreinte | 1–3 mois |
 | **Administratif** | Enquête Inspection du Travail + sanction CODAF (travail dissimulé, défaut assurance) | 3–6 mois |
 
-### 4.2 Priorités à court terme (3 mois)
+### IV.2 — 4.2 Priorités à court terme (3 mois)
 
 1. **Rédiger et déposer les conclusions au fond civil** — en recyclant les blocs établis (récit verrouillé, responsabilité 1242/1240, Dintilhac chiffré)
 2. **Suivre l'information judiciaire pénale** — répondre à toute convocation, produire les pièces demandées
 3. **Relancer l'assureur RC** — mise en demeure réactualisée avec expertise + réquisitoire, ou assignation directe si silence persistant
 4. **Transmettre la présente note** à l'avocat désigné pour accélération de la prise en main
 
-### 4.3 Points de vigilance
+### IV.3 — 4.3 Points de vigilance
 
 - **Délais** : prescription de droit commun (5 ans, art. 2224 C. civ.) ; prescription pénale (6 ans à compter de la consolidation pour 222-19/222-20)
 - **Preuves vidéos** : solliciter la conservation des enregistrements de surveillance du salon
@@ -163,7 +163,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 - **Dirigeants** : responsabilité in solidum conservée en option (scénario offensif — faute de gestion détachable L.225-251 C. com.)
 <hr><hr>
 
-## ANNEXE — CORPUS DES PIÈCES CLÉS
+## V — ANNEXE — CORPUS DES PIÈCES CLÉS
 
 | N° | Pièce | Emplacement |
 |----|-------|-------------|

@@ -20,7 +20,7 @@ type: rapport
 
 L'enquête consécutive à l'accident survenu le 29 mai 2026 révèle plusieurs manquements graves aux obligations de sécurité incombant à l'employeur, **[L'Exploitant du Commerce (La SAS)]**, pris en la personne de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**.
 
-### A. Non-respect de l'obligation générale de sécurité
+### I.1 — Non-respect de l'obligation générale de sécurité
 
 L'employeur est tenu à une obligation de sécurité de résultat (ou de moyens renforcée) envers ses préposés.
 
@@ -30,7 +30,7 @@ L'employeur est tenu à une obligation de sécurité de résultat (ou de moyens 
 
 Cette obligation n'a manifestement pas été respectée, la défaillance matérielle (cassure majeure préexistante sur la vasque en céramique) n'ayant pas été réparée ou signalée, exposant les salariés et les tiers à un danger grave.
 
-### B. Manquement aux principes généraux de prévention
+### I.2 — Manquement aux principes généraux de prévention
 
 > « L'employeur met en oeuvre les mesures prévues à l'article L. 4121-1 sur le fondement des principes généraux de prévention suivants : 1° Eviter les risques ; 2° Evaluer les risques qui ne peuvent pas être évités ; 3° Combattre les risques à la source [...] » <br>
 > **[Code du travail > Article L. 4121-2]** <br>
@@ -38,7 +38,7 @@ Cette obligation n'a manifestement pas été respectée, la défaillance matéri
 
 Le fait que **[Le Préposé de l'Exploitation]** ait dû monter physiquement sur une vasque en céramique instable pour régler un téléviseur démontre l'absence d'évaluation des risques liés aux interventions en hauteur dans le salon (Document Unique d'Évaluation des Risques Professionnels - DUERP manifestement lacunaire ou inexistant), et un défaut de mise à disposition d'équipements de travail adaptés (escabeau sécurisé).
 
-### C. Travaux temporaires en hauteur
+### I.3 — Travaux temporaires en hauteur
 
 > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
 > **[Code du travail > Article R. 4323-58]** <br>
@@ -62,7 +62,7 @@ Néanmoins, la mise en danger du salarié lui-même (qui a chuté) caractérise 
 
 Face à ces constats, l'Inspection du Travail dispose de moyens d'action coercitifs pour faire cesser le danger et sanctionner l'employeur.
 
-### A. Nécessité d'un Procès-Verbal
+### III.1 — Nécessité d'un Procès-Verbal
 
 La constatation des infractions pénales au Code du travail relève de la compétence de l'inspecteur du travail.
 
@@ -72,7 +72,7 @@ La constatation des infractions pénales au Code du travail relève de la compé
 
 Au vu de la gravité du résultat (bien que la blessure concerne un tiers, le salarié a été mis dans une situation de danger de mort ou de blessure grave), la rédaction d'un PV visant les articles L.4121-1, L.4121-2 et R.4323-58 est opportune et justifiée. Ce PV sera transmis au Procureur de la République de Foix, et pourra utilement être versé aux débats par la partie civile pour démontrer la faute de l'exploitant et de ses dirigeants.
 
-### B. Mesures conservatoires et mise en demeure
+### III.2 — Mesures conservatoires et mise en demeure
 
 L'autorité administrative peut intervenir directement pour empêcher la répétition de l'incident.
 

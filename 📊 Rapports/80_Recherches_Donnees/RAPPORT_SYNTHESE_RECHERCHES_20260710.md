@@ -28,23 +28,23 @@ type: rapport
 
 ---
 
-## 1. Recherches Jurisprudence Pertinente
+## I — Recherches Jurisprudence Pertinente
 
-### Accidents en Salon de Coiffure
+### I.1 — Accidents en Salon de Coiffure
 
 - **Requête** : "accident salon coiffure"
 - **Chambre** : Civile 1
 - **Résultats** : 4,705 décisions trouvées
 - **Pertinence** : Base solide pour établir des précédents juridiques
 
-### Responsabilité des ERP
+### I.2 — Responsabilité des ERP
 
 - **Requête** : "responsabilité ERP accident"
 - **Chambre** : Civile 1
 - **Résultats** : 18,122 décisions trouvées
 - **Pertinence** : Nombreux précédents pour la responsabilité des établissements
 
-### Vasque Céramique Cassée
+### I.3 — Vasque Céramique Cassée
 
 - **Requête** : "vasque cassée accident"
 - **Chambre** : Civile 1
@@ -55,16 +55,16 @@ type: rapport
 
 ---
 
-## 2. Vérification des Articles de Loi
+## II — Vérification des Articles de Loi
 
-### Fichiers Analysés
+### II.1 — Fichiers Analysés
 
 - [`01 ⚖️ Assignation.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md) : 12 articles vérifiés
 - [`02 🚔 Plainte.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%9A%94%20Plainte%20Defaut%20Assurance%20RC.md) : 9 articles vérifiés
 - [`02b 🛡️ Constitution Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) : 9 articles vérifiés
 - [`03 🔍 Assignation Article 145.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) : 1 article vérifié
 
-### Résultats
+### II.2 — Résultats
 
 - **Total articles vérifiés** : 31
 - **Statut** : ✓ Tous les articles sont valides et accessibles
@@ -74,9 +74,9 @@ type: rapport
 
 ---
 
-## 3. Recherche Spécifique Référé-Provision
+## III — Recherche Spécifique Référé-Provision
 
-### Provisions pour Préjudices Corporels
+### III.1 — Provisions pour Préjudices Corporels
 
 - **Requête** : "provision préjudice corporel"
 - **Filtres** : Chambre civile 1, solution=cassation
@@ -93,15 +93,15 @@ type: rapport
 
 ---
 
-## 4. Recherche Responsabilité Dirigeants
+## IV — Recherche Responsabilité Dirigeants
 
-### Responsabilité des Dirigeants
+### IV.1 — Responsabilité des Dirigeants
 
 - **Requête** : "responsabilité dirigeant"
 - **Résultats** : 120,630 décisions trouvées
 - **Note** : Recherche effectuée sans filtre chamber (problème API sandbox)
 
-### Faute Détachable
+### IV.2 — Faute Détachable
 
 - **Requête** : "faute détachable"
 - **Résultats** : 124,866 décisions trouvées
@@ -111,9 +111,9 @@ type: rapport
 
 ---
 
-## 5. Recherche Accidents du Travail
+## V — Recherche Accidents du Travail
 
-### Accidents du Travail (Chambre Sociale)
+### V.1 — Accidents du Travail (Chambre Sociale)
 
 - **Requête** : "accident travail"
 - **Chambre** : Sociale
@@ -124,21 +124,21 @@ type: rapport
 
 ---
 
-## 6. Recommandations
+## VI — Recommandations
 
-### Pour l'Assignation en Référé-Provision
+### VI.1 — Pour l'Assignation en Référé-Provision
 
 1. **Citer 2-3 décisions** du corpus "accident salon coiffure" pour établir le précédent
 2. **Utiliser les articles vérifiés** pour renforcer l'argumentaire juridique
 3. **Ajouter une annexe** avec les JURITEXT des décisions clés
 
-### Pour la Plainte Pénale
+### VI.2 — Pour la Plainte Pénale
 
 1. **Inclure des références** sur la responsabilité des ERP
 2. **Citer la jurisprudence** sur les fautes détachables des dirigeants
 3. **Ajouter les liens Légifrance** pour chaque article cité
 
-### Pour la Stratégie Globale
+### VI.3 — Pour la Stratégie Globale
 
 1. **Créer un tableau comparatif** des décisions pertinentes
 2. **Prioriser les décisions récentes** (2020-2026) pour plus de poids
@@ -146,7 +146,7 @@ type: rapport
 
 ---
 
-## Fichiers Générés
+## VII — Fichiers Générés
 
 | Fichier | Taille | Description |
 |---------|--------|-------------|
@@ -160,22 +160,22 @@ type: rapport
 
 ---
 
-## Prochaines Étapes
+## VIII — Prochaines Étapes
 
-### Phase 1: Intégration dans les Actes (Étape 6)
+### VIII.1 — Phase 1: Intégration dans les Actes (Étape 6)
 
 - [ ] Sélectionner les 5-10 décisions les plus pertinentes
 - [ ] Mettre à jour `01 ⚖️ Assignation.md` avec les nouvelles références
 - [ ] Enrichir `02 🚔 Plainte.md` avec la jurisprudence pertinente
 - [ ] Ajouter les liens Légifrance dans le format Markdown
 
-### Phase 2: Génération des Versions Réelles (Étape 7)
+### VIII.2 — Phase 2: Génération des Versions Réelles (Étape 7)
 
 ```bash
 python3 .dev/app/generate_real_versions.py
 ```
 
-### Phase 3: Validation (Étape 8)
+### VIII.3 — Phase 3: Validation (Étape 8)
 
 - [ ] Exécuter les tests MCP
 - [ ] Vérifier avec `check_consistency.py`

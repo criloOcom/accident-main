@@ -20,7 +20,7 @@ type: rapport
 
 ## II — RÉSULTATS DE L'AUDIT DE FORMATAGE (CONVENTIONS.md)
 
-### A. RÈGLES YAML FRONT MATTER
+### II.1 — RÈGLES YAML FRONT MATTER
 - [ ] **MINEUR** - `🚦 Status/envoye.md`:ligne 1 (Front Matter manquant ou mal placé)
 - [ ] **MINEUR** - `🚦 Status/brouillon.md`:ligne 1 (Front Matter manquant ou mal placé)
 - [ ] **MINEUR** - `🚦 Status/final.md`:ligne 1 (Front Matter manquant ou mal placé)
@@ -29,7 +29,7 @@ type: rapport
 - [ ] **MINEUR** - `🚦 Status/archive.md`:ligne 1 (Front Matter manquant ou mal placé)
 - [ ] **MINEUR** - `🧠 Memory/CARNET_RDV_UTILISATEUR.md`:ligne 1 (Front Matter manquant ou mal placé)
 
-### B. BREADCRUMBS
+### II.2 — BREADCRUMBS
 - [ ] **MINEUR** - `🚦 Status/envoye.md`:ligne 1 (Breadcrumb manquant)
 - [ ] **MINEUR** - `🚦 Status/brouillon.md`:ligne 1 (Breadcrumb manquant)
 - [ ] **MINEUR** - `🚦 Status/final.md`:ligne 1 (Breadcrumb manquant)
@@ -46,14 +46,14 @@ type: rapport
 - [ ] **MINEUR** - `📊 Rapports/20_Accueil_Avocat/MODELE_ENVOI_AVOCAT.md`:ligne 1 (Breadcrumb manquant)
 - [ ] **MINEUR** - `📊 Rapports/20_Accueil_Avocat/FICHE_REUNION_AVOCAT_AJ_10MIN.md`:ligne 1 (Breadcrumb manquant)
 
-### C. SÉPARATEURS DE SECTION
+### II.3 — SÉPARATEURS DE SECTION
 - [ ] **MINEUR** - `📊 Rapports/30_Analyses_Multi_Angle/00_META_SYNTHESE_MULTI_ANGLE.md`:ligne 14 (Séparateur `<hr><hr>` manquant avant section I.)
 
 <hr><hr>
 
 ## III — ANONYMISATION ET SÉPARATION DES STRATES (AGENTS.md & RULES.md)
 
-### A. FUITE DE TOKENS DANS LA STRATE REEL
+### III.1 — FUITE DE TOKENS DANS LA STRATE REEL
 Selon les règles, aucun token d'anonymisation ne doit se retrouver dans les fichiers de la strate `👤 Reel`.
 - [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/📚 Analyses juridiques/❓ FAQ Juridique.md`:ligne 3 (Token `**[La Victime]**` présent)
 - [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md`:ligne 16 (Token `[La Victime]` présent)
@@ -64,7 +64,7 @@ Selon les règles, aucun token d'anonymisation ne doit se retrouver dans les fic
 - [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/🗂️ Organisation/21 📋 Plan Constat Police Foix.md`:ligne 71 (Token `[La Victime]` présent)
 - [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/MEMO_AUDIENCE_31072026.md`:ligne 16 (Token `[La Victime]` présent)
 
-### B. RÉGLEMENTATION DU DOSSIER REEL (INTERDICTION #3)
+### III.2 — RÉGLEMENTATION DU DOSSIER REEL (INTERDICTION #3)
 L'`INTERDICTION #3` dans `AGENTS.md` stipule formellement qu'aucun README d'index n'est maintenu dans `👤 Reel/`.
 - [ ] **MAJEUR** - `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/README.md`:ligne 1
 - [ ] **MAJEUR** - `⚖️ Actes/👤 Reel/✉️ Courriers/📋s/README.md`:ligne 1
@@ -82,7 +82,7 @@ L'`INTERDICTION #3` dans `AGENTS.md` stipule formellement qu'aucun README d'inde
 - [ ] **MAJEUR** - `⚖️ Actes/👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/README.md`:ligne 1
 - [ ] **MAJEUR** - `⚖️ Actes/👤 Reel/🗂️ Organisation/README.md`:ligne 1
 
-### C. NOMS RÉELS DANS LES TOKENS
+### III.3 — NOMS RÉELS DANS LES TOKENS
 Les fichiers tokens contiennent par nature les noms réels et sont l'endroit canonique de leur définition. Cependant, il n'y a eu aucune fuite de noms réels (`Sébastien GRAZIDE`, `Sabir MOUNTASSER`, `Catherine ANDISSAC`) dans d'autres fichiers de la strate Token non prévus à cet effet.
 - [ ] **INFO** - `🧠 Memory/TOKEN MAP.md`:ligne 1 (La convention est globalement respectée).
 
@@ -90,8 +90,8 @@ Les fichiers tokens contiennent par nature les noms réels et sont l'endroit can
 
 ## IV — VERSIONING, VARIABLES ET JURISPRUDENCE
 
-### A. VERSIONING (SUPERSEDED)
+### IV.1 — VERSIONING (SUPERSEDED)
 - [ ] **INFO** - `🧠 Memory/STRICT VARIABLES.md`:ligne 72 (Les estimations financières obsolètes, notamment avant l'expertise, sont correctement balisées avec la mention `🔄 SUPERSEDED`. L'historique est préservé conformément aux règles.)
 
-### B. VÉRIFICATION JURIDIQUE (JURITEXT_PROTOCOL)
+### IV.2 — VÉRIFICATION JURIDIQUE (JURITEXT_PROTOCOL)
 - [ ] **INFO** - `🧠 Memory/JURITEXT_PROTOCOL.md`:ligne 1 (Le protocole est globalement référencé, et des scripts comme `check_consistency.py` opèrent sur la jurisprudence. La règle n'est pas orpheline.)

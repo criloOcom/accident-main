@@ -17,7 +17,7 @@ type: rapport
 
 ## I — RÉSULTATS DE L'AUDIT DES DOSSIERS ET FICHIERS
 
-### A. Non-conformités identifiées
+### I.1 — Non-conformités identifiées
 
 - [ ] Dossier `./⚖️ Actes/Preuves officielles` : Emoji manquant dans le nom du dossier (Gravité: MINEUR)
 - [ ] Dossier `./📊 Rapports/60_Audits_Qualite` : Emoji manquant dans le nom du dossier (Gravité: MINEUR)

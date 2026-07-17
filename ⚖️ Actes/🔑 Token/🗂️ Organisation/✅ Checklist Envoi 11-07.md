@@ -21,7 +21,7 @@ jx: J+43
 # CHECKLIST ENVOI LRAR<br>11 JUILLET 2026
 ## I — AVANT DEPART — PREPARATION
 
-### Courriers a imprimer (👤 Reel/✉️ Courriers/)
+### I.1 — Courriers a imprimer (👤 Reel/✉️ Courriers/)
 
 - [ ] 12 ✉️ Courrier URSSAF.md
 
@@ -31,7 +31,7 @@ jx: J+43
 
 - [ ] 35 ✉️ Courrier President TJ Foix.md
 
-### 4 jeux de pieces jointes (pour les courriers 12-14-19)
+### I.2 — 4 jeux de pieces jointes (pour les courriers 12-14-19)
 
 - [ ] Copie [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (x3)
 
@@ -41,7 +41,7 @@ jx: J+43
 
  - [ ] Dossier medical complet 11 pieces (x3)
 
-### 1 jeu de pieces jointes specifique (courrier 35 TJ)
+### I.3 — 1 jeu de pieces jointes specifique (courrier 35 TJ)
 
  - [ ] Copie [PV n°2026/015967](../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)
 
@@ -51,7 +51,7 @@ jx: J+43
 
 - [ ] Note audit INPI 10/07
 
-### Verification
+### I.4 — Verification
 
 - [ ] Adresses correctes dans chaque courrier (verifier avec le fichier reel)
 
@@ -85,7 +85,7 @@ jx: J+43
 
 ## III — EMAILS (APRES RETOUR)
 
-### Email URSSAF
+### III.1 — Email URSSAF
 
 - [ ] Destinataire : [email dans le courrier 12 reel]
 
@@ -97,7 +97,7 @@ jx: J+43
 
 - [ ] Noter date/heure envoi : ___________________
 
-### Email CODAF
+### III.2 — Email CODAF
 
 - [ ] Destinataire : [email dans le courrier 14 reel]
 

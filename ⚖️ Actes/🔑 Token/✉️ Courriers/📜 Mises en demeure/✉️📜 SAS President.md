@@ -42,14 +42,14 @@ Objet : Demande d'information et communication d'assurance — Accident [**[J+0 
 Réf : Dossier [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) / [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
 Madame la Directrice Générale, Monsieur le Président,
-## INTRODUCTION
+## I — INTRODUCTION
 
 La présente lettre de mise en demeure est adressée conjointement par [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), en leur qualité de dirigeants de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md).
 
 **Ce courrier constitue une démarche constructive et préalable à toute action contentieuse, conformément aux obligations légales et à la jurisprudence applicable en matière de responsabilité personnelle des dirigeants.**
 <hr><hr>
 
-## I — RAPPEL DES OBLIGATIONS LÉGALES
+## II — RAPPEL DES OBLIGATIONS LÉGALES
 
 La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions.
 

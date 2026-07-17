@@ -17,7 +17,7 @@ date: 2026-07-14
 
 ## I — PRÉSENTATION DU DOSSIER ET DES FAITS
 
-Le présent rapport est établi suite à la constitution de partie civile de **[La Victime]** pour les faits survenus le 29 mai 2026 au sein du salon de coiffure exploité par la SAS **[L'Exploitant du Commerce (La SAS)]**, sis au 22 Rue Lafaurie, 09000 Foix.
+Le présent rapport est établi à la suite de la constitution de partie civile de **[La Victime]** pour les faits survenus le 29 mai 2026 au sein du salon de coiffure exploité par la SAS **[L'Exploitant du Commerce (La SAS)]**, sis au 22 Rue Lafaurie, 09000 Foix.
 
 Il ressort de l'examen de la plainte et des premières pièces produites que le préposé du salon, **[Le Préposé de l'Exploitation]**, a utilisé une vasque en céramique (présentant une cassure aux arêtes tranchantes non signalée) comme promontoire. Sous l'effet du poids, l'équipement a basculé. Par réflexe de protection, **[La Victime]** a tendu la main droite, heurtant la section tranchante, ce qui a causé une grave blessure (section nerveuse et tendineuse).
 

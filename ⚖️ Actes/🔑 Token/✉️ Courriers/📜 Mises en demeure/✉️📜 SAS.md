@@ -43,7 +43,7 @@ Objet : Déclaration d'accident corporel — Demande d'information assurance RC 
 Réf : Dossier [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) / [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
 Madame, Monsieur,
-## INTRODUCTION
+## I — INTRODUCTION
 
 La présente lettre de mise en demeure est adressée par [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) afin de déclarer officiellement l'accident corporel survenu le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
 

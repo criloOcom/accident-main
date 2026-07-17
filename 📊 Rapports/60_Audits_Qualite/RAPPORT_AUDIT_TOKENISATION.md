@@ -17,15 +17,15 @@ type: rapport
 
 ---
 
-## Résumé exécutif
+## I — Résumé exécutif
 
 **Gravité : CRITIQUE** — 8 fichiers tokenisés contiennent des données personnelles en clair. La TOKEN MAP est incomplète (6 tokens manquants). Le script `generate_real_versions.py` et `batch_anonymize.py` sont désynchronisés.
 
 ---
 
-## 1. FUITES CRITIQUES — Données personnelles en clair
+## II — FUITES CRITIQUES — Données personnelles en clair
 
-### 🔴 FUITE 1 — Identité complète de la Victime (pièce maîtresse)
+### II.1 — 🔴 FUITE 1 — Identité complète de la Victime (pièce maîtresse)
 
 | Fichier | Ligne | Extrait |
 |---|---|---|
@@ -37,7 +37,7 @@ type: rapport
 
 **Risque :** Le token `**[La Victime]**` est contourné — l'identité réelle apparaît en clair dans deux fichiers du dossier tokenisé.
 
-### 🔴 FUITE 2 — Identité complète des dirigeants de la SAS
+### II.2 — 🔴 FUITE 2 — Identité complète des dirigeants de la SAS
 
 | Fichier | Ligne | Extrait |
 |---|---|---|
@@ -46,7 +46,7 @@ type: rapport
 
 **Risque :** Les noms complets, dates de naissance et adresses personnelles des dirigeants sont en clair. Cette note est un document d'audit RNE qui documente les identités réelles à côté des tokens — elle n'a pas été anonymisée.
 
-### 🔴 FUITE 3 — Adresse email de l'Adjoint au Maire (Tiers)
+### II.3 — 🔴 FUITE 3 — Adresse email de l'Adjoint au Maire (Tiers)
 
 | Fichier | Ligne | Extrait |
 |---|---|---|
@@ -56,13 +56,13 @@ type: rapport
 
 **Risque :** Les emails réels d'un tiers (agent public) sont en clair dans un fichier tokenisé. Le token `**[L'Adjoint au Maire de la Commune]**` existe dans le script mais n'a pas été appliqué ici (le nom `Bernard TAVELLA` apparaît en clair en ligne 7).
 
-### 🔴 FUITE 4 — Adresse email Mairie de Foix (suggestion)
+### II.4 — 🔴 FUITE 4 — Adresse email Mairie de Foix (suggestion)
 
 | Fichier | Ligne | Extrait |
 |---|---|---|
 | `🗂️ Organisation/21 📋 Plan Constat Police Foix.md` | 37 | `mairie@mairie-foix.fr` |
 
-### 🔴 FUITE 5 — SIREN en clair (identifiant société)
+### II.5 — 🔴 FUITE 5 — SIREN en clair (identifiant société)
 
 | Fichier | Ligne | Extrait |
 |---|---|---|
@@ -74,7 +74,7 @@ type: rapport
 
 **Risque :** Le SIREN `938 033 222` apparaît en clair dans 5 fichiers différents, bien qu'un token `**[SIREN de l'Exploitation]**` existe dans le script. L'anonymisation par lots n'a pas traité ces fichiers, ou le token n'a pas été utilisé lors de la rédaction.
 
-### 🔴 FUITE 6 — Adresses en clair dans plusieurs fichiers
+### II.6 — 🔴 FUITE 6 — Adresses en clair dans plusieurs fichiers
 
 | Fichier | Ligne | Extrait |
 |---|---|---|
@@ -83,7 +83,7 @@ type: rapport
 | `🗂️ Organisation/21 📋 Plan Constat Police Foix.md` | 40, 46 | `22 rue Lafaurie`, `22 Rue Lafaurie à Foix` |
 | `🗂️ Organisation/22 📋 Modif Email Maire Foix.md` | 21, 25, 29 | `22 Rue Lafaurie` (3 occurrences) |
 
-### 🔴 FUITE 7 — Nom de la SAS en clair
+### II.7 — 🔴 FUITE 7 — Nom de la SAS en clair
 
 | Fichier | Ligne | Extrait |
 |---|---|---|
@@ -91,13 +91,13 @@ type: rapport
 | `🗂️ Organisation/22 📋 Modif Email Maire Foix.md` | 29 | `SAS LES MAUVAIS GARCONS` |
 | `🗂️ Organisation/24 ✅ Checklist Envoi 11-07-2026.md` | 31, 37 | `SAS LES MAUVAIS GARCONS` |
 
-### 🟡 FUITE 8 — Nom médical en clair
+### II.8 — 🟡 FUITE 8 — Nom médical en clair
 
 | Fichier | Ligne | Extrait |
 |---|---|---|
 | `🗂️ Organisation/06 📋 Synthese des Actions et Audits.md` | 20 | `Dr DJERBI` |
 
-### 🟡 FUITE 9 — Dates brutes non tokenisées
+### II.9 — 🟡 FUITE 9 — Dates brutes non tokenisées
 
 | Fichier | Ligne | Extrait |
 |---|---|---|
@@ -114,9 +114,9 @@ type: rapport
 
 ---
 
-## 2. TOKEN MAP — État des lieux
+## III — TOKEN MAP — État des lieux
 
-### ✅ Tokens présents dans la TOKEN MAP
+### III.1 — ✅ Tokens présents dans la TOKEN MAP
 
 | Catégorie | Nombre | Exemples |
 |---|---|---|
@@ -125,7 +125,7 @@ type: rapport
 | Adresses/villes | 8 | `**[L'Adresse de la Victime]**`, `**[La Ville de l'Accident]**`, etc. |
 | Identifiants | 5 | `**[L'Email de la Victime]**`, `**[L'Identifiant Professionnel...]**`, etc. |
 
-### ❌ Tokens MANQUANTS dans la TOKEN MAP (présents dans le script ou les fichiers)
+### III.2 — ❌ Tokens MANQUANTS dans la TOKEN MAP (présents dans le script ou les fichiers)
 
 | Token | Valeur réelle (script) | Utilisé dans |
 |---|---|---|
@@ -143,9 +143,9 @@ type: rapport
 
 ---
 
-## 3. Script `generate_real_versions.py` — Incohérences
+## IV — Script `generate_real_versions.py` — Incohérences
 
-### Problèmes détectés
+### IV.1 — Problèmes détectés
 
 1. **TOKEN MAP ≠ REVERSE_MAP** — La REVERSE_MAP contient 60+ entrées, la TOKEN MAP en contient ~20. Toute entrée dans la REVERSE_MAP devrait avoir sa contrepartie dans la TOKEN MAP.
 
@@ -161,7 +161,7 @@ type: rapport
 
 ---
 
-## 4. Script `batch_anonymize.py` — Incohérences
+## V — Script `batch_anonymize.py` — Incohérences
 
 1. **Anciens tokens sans `**`** : `batch_anonymize.py` utilise `[token]` sans double astérisque, alors que la TOKEN MAP et `generate_real_versions.py` utilisent `**[token]**`. Les fichiers récents utilisent le nouveau format `**[token]**`.
 
@@ -177,9 +177,9 @@ type: rapport
 
 ---
 
-## 5. Recommandations
+## VI — Recommandations
 
-### Urgent (correction immédiate)
+### VI.1 — Urgent (correction immédiate)
 
 1. **Ne pas commit** l'état actuel — des données personnelles réelles sont en clair dans les fichiers tokenisés.
 
@@ -192,7 +192,7 @@ type: rapport
 
 4. **Compléter la TOKEN MAP** avec les 6+ tokens manquants listés section 2.
 
-### Important (prochaine itération)
+### VI.2 — Important (prochaine itération)
 
 5. **Auditer les dates brutes** dans tous les fichiers tokenisés. Remplacer `29 mai 2026` par `**[J+0 Accident]**` systématiquement.
 
@@ -202,7 +202,7 @@ type: rapport
 
 8. **Nettoyer `🗂️ Organisation/21 📋 Plan Constat Police Foix.md`** — tokeniser le modèle d'email (adresse, nom SAS, date).
 
-### Maintenance
+### VI.3 — Maintenance
 
 9. **Uniformiser le format** `**[token]**` (avec double astérisque) entre `batch_anonymize.py`, `generate_real_versions.py` et `TOKEN MAP.md`.
 
@@ -212,7 +212,7 @@ type: rapport
 
 ---
 
-## Annexe : Statistiques
+## VII — Annexe : Statistiques
 
 | Métrique | Valeur |
 |---|---|

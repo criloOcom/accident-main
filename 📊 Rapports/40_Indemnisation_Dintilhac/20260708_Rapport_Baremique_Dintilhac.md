@@ -22,7 +22,7 @@ auteur: Expert en chiffrage Dintilhac (Jules)
 
 **Contexte :** Évaluation financière des préjudices corporels subis par la victime. Analyse détaillée poste par poste au regard des barèmes de référence (Mornet 2024, BIBAL, jurisprudence).
 
-## 1. SYNTHÈSE DE L'ÉVALUATION
+## I — SYNTHÈSE DE L'ÉVALUATION
 
 | Poste | Demande Initiale (Optimiste) | Fourchette Mornet 2024 / Réf. | Évaluation Compromis | Écart | Recommandation | Conclusion |
 |---|---|---|---|---|---|---|
@@ -37,10 +37,10 @@ auteur: Expert en chiffrage Dintilhac (Jules)
 | **Frais Divers**| 2 000 € | Sur justificatifs | 3 000 € | +1 000 € | Ajustement à la hausse recommandé (3 000 €) pour couvrir de manière réaliste la kiné, les déplacements et l'éventuelle contre-expertise. | **Sous-évaluée** |
 | **TOTAL** | **~105 000 €** | **77 000 € - 139 000 €** | **~85 000 à 90 000 €** | **-15 000 € à -20 000 €** | Les ratios optimiste/conservateur (105k€/45k€) montrent un écart très important. Le compromis à ~85k€-90k€ est le plus cohérent juridiquement. | **Cohérent en cible compromis** |
 
-## 2. ANALYSE DE LA PROVISION EN RÉFÉRÉ
+## II — ANALYSE DE LA PROVISION EN RÉFÉRÉ
 
 La demande de provision de **15 000 €** représente environ 15% à 17% du compromis recommandé (~85-90k€). Ce ratio est tout à fait cohérent avec la pratique (où les provisions couvrent généralement les premiers frais, PGPA et premières évaluations des souffrances). Face à l'absence d'assurance RC et au capital limité de la SAS (200€), demander une provision substantielle est stratégiquement et juridiquement justifié (incluant PGPA + frais médicaux + SE + IP partielle).
 
-## 3. CONCLUSION GLOBALE
+## III — CONCLUSION GLOBALE
 
 L'évaluation initiale "optimiste" à ~105k€ est solide sur sa structure juridique (méthode BIBAL pour l'IP, points Mornet médians), mais un peu trop ambitieuse sur l'évaluation des taux (DFP 12% vs 10%) et des souffrances (24k€ vs 15k€). L'ajustement au niveau du compromis (~85 000 €) assainit ces postes pour présenter des demandes inattaquables devant le juge des référés et ultérieurement au fond ou devant la CIVI.

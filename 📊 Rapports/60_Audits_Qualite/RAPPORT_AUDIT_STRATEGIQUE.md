@@ -18,9 +18,9 @@ type: rapport
 
 ---
 
-## 1. STRATÉGIE GLOBALE — ANALYSE DE COHÉRENCE
+## I — STRATÉGIE GLOBALE — ANALYSE DE COHÉRENCE
 
-### 1.1 Architecture stratégique actuelle
+### I.1 — 1.1 Architecture stratégique actuelle
 
 ```
 Phase amiable (29 juin - 14 juillet)
@@ -64,7 +64,7 @@ Phase judiciaire (Plan B)
 
 **Verdict : Cohérence structurelle EXCELLENTE.** La stratégie suit une progression logique : épuisement amiable → pression administrative → préparation contentieuse → recours judiciaire. Chaque phase nourrit la suivante. Les preuves d'envoi LRAR retournées NPAI serviront de preuve de l'impossibilité de notifier.
 
-### 1.2 Équilibre des axes
+### I.2 — 1.2 Équilibre des axes
 
 | Axe | Nb courriers | Poids stratégique | Adéquation |
 |-----|:-----------:|:-----------------:|:----------:|
@@ -75,9 +75,9 @@ Phase judiciaire (Plan B)
 
 ---
 
-## 2. AUDIT DES 4 COURRIERS PRIORITAIRES
+## II — AUDIT DES 4 COURRIERS PRIORITAIRES
 
-### 2.1 Lettre 12 — URSSAF (Signalement travail dissimulé)
+### II.1 — 2.1 Lettre 12 — URSSAF (Signalement travail dissimulé)
 
 **Objet** : Signalement de travail dissimulé présumé
 **Date** : 11 juillet 2026
@@ -94,7 +94,7 @@ Phase judiciaire (Plan B)
 
 **Analyse critique** : Courrier juridiquement solide mais d'utilité pratique limitée pour la victime. L'URSSAF agit dans son intérêt propre (recouvrement cotisations), pas dans celui de la victime. **Ne pas compter sur ce courrier pour accélérer l'indemnisation.**
 
-### 2.2 Lettre 14 — CODAF (Signalement officiel anti-fraude)
+### II.2 — 2.2 Lettre 14 — CODAF (Signalement officiel anti-fraude)
 
 **Objet** : Signalement officiel de manquements + demande d'enquête
 **Date** : 11 juillet 2026
@@ -111,7 +111,7 @@ Phase judiciaire (Plan B)
 
 **Analyse critique** : Le courrier le plus complet et le mieux articulé des 4. L'invocation de l'Article 40 CPP (obligation de signalement au Procureur) est pertinente. **Recommandation : maintenir comme prioritaire.** Limite principale : le CODAF n'a pas de pouvoir d'injonction directe.
 
-### 2.3 Lettre 19 — FGTI (Saisine conservatoire)
+### II.3 — 2.3 Lettre 19 — FGTI (Saisine conservatoire)
 
 **Objet** : Saisine conservatoire du Fonds de Garantie des Victimes
 **Date** : 12 juillet 2026
@@ -133,7 +133,7 @@ Phase judiciaire (Plan B)
 
 **Limite identifiée :** La constitution de partie civile est déposée mais l'instruction n'a pas encore abouti. Le FGTI ne prendra pas le relais avant plusieurs mois, voire années.
 
-### 2.4 Lettre 35 — Président TJ Foix (Transmission preuves complémentaires)
+### II.4 — 2.4 Lettre 35 — Président TJ Foix (Transmission preuves complémentaires)
 
 **Objet** : Transmission de preuves complémentaires au TJ
 **Date** : 12 juillet 2026
@@ -150,7 +150,7 @@ Phase judiciaire (Plan B)
 
 **Analyse critique** : Ce courrier comble un angle mort important : le TJ Foix a l'enquête préliminaire mais n'a pas forcément été informé des nouvelles LRAR retournées NPAI. **Recommandation : prioritaire.** La pièce maîtresse est l'audit RNE du 10 juillet qui confirme que la SAS est toujours active — cela anéantit l'argument « l'adresse est mauvaise » et établit l'évitement délibéré.
 
-### 2.5 Classement des 4 prioritaires
+### II.5 — 2.5 Classement des 4 prioritaires
 
 ```
 Rang 1 : 19 - FGTI (filet de sécurité, ouvre le droit conservatoire)
@@ -161,9 +161,9 @@ Rang 4 : 12 - URSSAF (utilité probatoire mais délais longs)
 
 ---
 
-## 3. ANALYSE DES SCÉNARIOS D'ÉCHEC
+## III — ANALYSE DES SCÉNARIOS D'ÉCHEC
 
-### 3.1 Scénario A — SAS dissoute sans indemnisation (PROBABILITÉ : 40%)
+### III.1 — 3.1 Scénario A — SAS dissoute sans indemnisation (PROBABILITÉ : 40%)
 
 **Déclencheur** : Les dirigeants dissolvent la SAS avant jugement. Capital 200€ → rien à saisir.
 
@@ -181,7 +181,7 @@ Rang 4 : 12 - URSSAF (utilité probatoire mais délais longs)
 
 **Lacune critique** : Aucune mesure conservatoire sur les actifs de la SAS ou des dirigeants. Une requête en saisie conservatoire (art. L.511-1 CPC exécution) n'a pas été préparée.
 
-### 3.2 Scénario B — LRAR tous NPAI / Silence administratif (PROBABILITÉ : 60%)
+### III.2 — 3.2 Scénario B — LRAR tous NPAI / Silence administratif (PROBABILITÉ : 60%)
 
 **Déclencheur** : Tous les courriers administratifs (URSSAF, CODAF, SIE, Préfecture, etc.) restent sans réponse ou avec des réponses dilatoires.
 
@@ -197,7 +197,7 @@ Rang 4 : 12 - URSSAF (utilité probatoire mais délais longs)
 
 **Lacune critique** : Les assignations (01, 03) sont rédigées mais pas déposées. Chaque jour sans audience est un jour où la SAS peut disparaître.
 
-### 3.3 Scénario C — « Résurrection » sous structure miroir (PROBABILITÉ : 30%)
+### III.3 — 3.3 Scénario C — « Résurrection » sous structure miroir (PROBABILITÉ : 30%)
 
 **Déclencheur** : Les dirigeants créent une nouvelle SAS (même activité, même adresse, nouveau nom) et laissent la SAS 938 033 222 vide.
 
@@ -214,7 +214,7 @@ Rang 4 : 12 - URSSAF (utilité probatoire mais délais longs)
 
 **Protection insuffisante** : La veille INPI est manuelle. Aucun système d'alerte automatique configuré.
 
-### 3.4 Scénario D — La SAS était déjà insolvable (PROBABILITÉ : 45%)
+### III.4 — 3.4 Scénario D — La SAS était déjà insolvable (PROBABILITÉ : 45%)
 
 **Déclencheur** : Capital 200€, 0 salarié, comptes en défaut de publication, dirigeants non localisables. La SAS n'a peut-être jamais eu de fonds.
 
@@ -232,9 +232,9 @@ Rang 4 : 12 - URSSAF (utilité probatoire mais délais longs)
 
 ---
 
-## 4. PLAN B — ÉVALUATION ET LACUNES
+## IV — PLAN B — ÉVALUATION ET LACUNES
 
-### 4.1 Arbre de décision Plan B
+### IV.1 — 4.1 Arbre de décision Plan B
 
 ```
 SAS insolvable ou dissoute ?
@@ -261,7 +261,7 @@ SAS insolvable ou dissoute ?
           └── Même condition : infraction constituée
 ```
 
-### 4.2 Lacunes identifiées du Plan B
+### IV.2 — 4.2 Lacunes identifiées du Plan B
 
 | Lacune | Risque | Correction proposée |
 |--------|--------|-------------------|
@@ -274,9 +274,9 @@ SAS insolvable ou dissoute ?
 
 ---
 
-## 5. OPTIMISATION DE L'ORDRE D'ENVOI
+## V — OPTIMISATION DE L'ORDRE D'ENVOI
 
-### 5.1 Ordre actuel vs recommandé
+### V.1 — 5.1 Ordre actuel vs recommandé
 
 **Séquence observée** (envois simultanés massifs) :
 ```
@@ -311,7 +311,7 @@ Phase 4 (J+30) — Élargissement
 3. Puis actionner les leviers fiscaux/sociaux (SIE + URSSAF)
 4. Enfin élargir le cercle (Préfecture, CD, SDIS)
 
-### 5.2 Angle mort : le référé n'attend pas
+### V.2 — 5.2 Angle mort : le référé n'attend pas
 
 ⚠️ **Risque majeur** : Les assignations (01 Référé-Provision, 03 Art. 145 CPC) sont **prêtes mais non déposées**. Chaque jour sans audience :
 - La SAS peut dissoudre (capital 200€, rien à perdre)
@@ -322,7 +322,7 @@ Phase 4 (J+30) — Élargissement
 
 ---
 
-## 6. SYNTHÈSE DES RISQUES (MATRICE)
+## VI — SYNTHÈSE DES RISQUES (MATRICE)
 
 | Risque | Probabilité | Impact | Score | Couverture actuelle |
 |--------|:-----------:|:------:|:-----:|:-------------------:|
@@ -343,9 +343,9 @@ Phase 4 (J+30) — Élargissement
 
 ---
 
-## 7. RECOMMANDATIONS
+## VII — RECOMMANDATIONS
 
-### 7.1 Immédiates (avant le 14 juillet)
+### VII.1 — 7.1 Immédiates (avant le 14 juillet)
 
 | # | Action | Justification | Effort |
 |---|--------|-------------|:------:|
@@ -354,7 +354,7 @@ Phase 4 (J+30) — Élargissement
 | R3 | **Envoyer TJ Foix** (35) avec les AR NPAI + audit RNE | Preuve d'obstruction, évite classement | 1h |
 | R4 | **Relancer huissier** pour constat (33) — même si provision non payée | La preuve matérielle est la plus fragile | 3h |
 
-### 7.2 Court terme (14-31 juillet)
+### VII.2 — 7.2 Court terme (14-31 juillet)
 
 | # | Action | Justification |
 |---|--------|-------------|
@@ -363,7 +363,7 @@ Phase 4 (J+30) — Élargissement
 | R7 | **Simplifier les courriers administratifs** (regrouper Préfecture + CD + SDIS en un seul envoi avec copie CODAF) | 3 courriers distincts = dilution, un seul courrier = masse critique |
 | R8 | **Demander un rendez-vous UMJ** pour expertise ITT définitive | Consolider l'ITT 56 jours avant qu'elle ne soit contestée |
 
-### 7.3 Structurelles
+### VII.3 — 7.3 Structurelles
 
 | # | Action | Justification |
 |---|--------|-------------|
@@ -374,7 +374,7 @@ Phase 4 (J+30) — Élargissement
 
 ---
 
-## 8. CONCLUSION
+## VIII — CONCLUSION
 
 **Forces :** Documentation exemplaire, couverture juridique complète, Plan B structuré, RGPD irréprochable, recherche jurisprudentielle de qualité.
 

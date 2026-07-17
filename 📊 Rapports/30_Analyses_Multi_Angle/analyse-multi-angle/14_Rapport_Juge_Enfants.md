@@ -20,11 +20,11 @@ Le présent rapport est établi dans le cadre de l'examen de la situation famili
 
 ## II — SITUATION FAMILIALE DE LA VICTIME
 
-### A. ÉTAT CIVIL ET CHARGES DE FAMILLE
+### II.1 — ÉTAT CIVIL ET CHARGES DE FAMILLE
 
 L'examen approfondi du dossier et des variables strictes applicables à l'espèce révèle l'absence d'informations permettant d'établir l'existence d'enfants à charge. En l'état actuel des éléments fournis, la situation de **[La Victime]** (âgée de 44 ans) en matière d'obligations parentales ou de statut matrimonial (marié, pacsé, célibataire) est inconnu en l'état.
 
-### B. CONSÉQUENCES SUR L'ÉVALUATION
+### II.2 — CONSÉQUENCES SUR L'ÉVALUATION
 
 L'absence de données avérées concernant la présence d'enfants ou l'état matrimonial empêche de conclure à :
 - L'existence d'une pension alimentaire versée ou perçue.
@@ -35,7 +35,7 @@ L'absence de données avérées concernant la présence d'enfants ou l'état mat
 
 ## III — IMPACT SUR LES OBLIGATIONS FAMILIALES (HYPOTHÈSES)
 
-### A. RÉVISION DE PENSION ALIMENTAIRE OU PRESTATION COMPENSATOIRE
+### III.1 — RÉVISION DE PENSION ALIMENTAIRE OU PRESTATION COMPENSATOIRE
 
 Dans l'hypothèse où des obligations alimentaires existeraient :
 L'accident a entraîné une Incapacité Totale de Travail (ITT) du 29 mai 2026 au 23 juillet 2026, ainsi qu'une incidence professionnelle (évaluée prudemment à 20 000 € / 30 000 €). Cette altération des capacités professionnelles et cette perte de revenus potentielle pourraient constituer un "changement important dans les ressources ou les besoins" justifiant une demande de révision, conformément aux dispositions du Code civil :
@@ -44,7 +44,7 @@ L'accident a entraîné une Incapacité Totale de Travail (ITT) du 29 mai 2026 a
 > **[Code civil > Livre Ier > Titre IX > Chapitre Ier > Section 1 > Paragraphe 3 > Article 373-2-13]** <br>
 > [Article 373-2-13](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460816)
 
-### B. MESURES DE PROTECTION DE L'ENFANCE
+### III.2 — MESURES DE PROTECTION DE L'ENFANCE
 
 Le juge des enfants n'a vocation à intervenir que si les conditions de l'article 375 du Code civil sont réunies, à savoir si "la santé, la sécurité ou la moralité d'un mineur non émancipé sont en danger, ou si les conditions de son éducation ou de son développement physique, affectif, intellectuel et social sont gravement compromises".
 En l'espèce, les atteintes corporelles (main droite) n'induisent pas *per se* un danger éducatif.

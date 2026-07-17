@@ -13,7 +13,7 @@ date: 2026-07-14
 
 > « L'établissement d'une stratégie contentieuse efficace nécessite de hiérarchiser les fondements juridiques pour assurer la réparation intégrale du préjudice corporel subi par la victime. »
 
-Ce rapport examine les différents fondements de responsabilité envisageables à l'encontre de **[L'Exploitant du Commerce (La SAS)]** suite à l'accident dont a été victime **[La Victime]** le 29 mai 2026. L'objectif est de dégager l'axe d'action le plus favorable pour la victime.
+Ce rapport examine les différents fondements de responsabilité envisageables à l'encontre de **[L'Exploitant du Commerce (La SAS)]** à la suite de l'accident dont a été victime **[La Victime]** le 29 mai 2026. L'objectif est de dégager l'axe d'action le plus favorable pour la victime.
 
 <hr><hr>
 
@@ -21,7 +21,7 @@ Ce rapport examine les différents fondements de responsabilité envisageables �
 
 Le fondement de la responsabilité du fait des choses, tel que prévu par l'article 1240 du Code civil (anciennement 1384 al. 1), constitue la voie d'action la plus directe et la plus sûre dans notre dossier.
 
-### A. Les conditions d'application de l'article 1240 du Code civil
+### I.1 — Les conditions d'application de l'article 1240 du Code civil
 
 La mise en œuvre de cette responsabilité exige la réunion de trois conditions : une chose, un gardien de cette chose, et un fait de la chose.
 * **La chose :** Il s'agit en l'espèce de la vasque en céramique du bac à shampoing.
@@ -31,7 +31,7 @@ La mise en œuvre de cette responsabilité exige la réunion de trois conditions
     *   Cependant, notre cas relève d'un schéma différent. Sous l'effet de la descente du préposé de l'exploitation (**[Le Préposé de l'Exploitation]**) qui y était monté, la vasque a **basculé** et s'est brisée. Ce mouvement de la chose (basculement) établit son rôle actif, inversant la charge de la preuve. La Cour de cassation, dans un arrêt très proche du 13 février 1991 (Civ. 2e, n° 89-18.422), a jugé que le seul fait qu'une échelle ait basculé et blessé un usager suffit à engager la responsabilité de son gardien, sauf preuve d'une cause étrangère.
     *   De plus, même si l'on retenait la qualification de chose inerte, la preuve de l'état défectueux est rapportée par la présence d'une **cassure majeure préexistante** non signalée. Nous nous distinguons ainsi très nettement du cas du client blessé par une baignoire exposée à la vente, sur laquelle il s'était appuyé en perdant l'équilibre de son propre fait (Civ. 2e, 23 février 1972, Arrêt Leroy, n° 70-12.124). Notre vasque était installée à demeure et sollicitée par le préposé lui-même.
 
-### B. L'absence d'exonération possible pour l'exploitant
+### I.2 — L'absence d'exonération possible pour l'exploitant
 
 Le gardien ne peut s'exonérer de sa responsabilité de plein droit qu'en prouvant un cas de force majeure, le fait exclusif de la victime ou le fait d'un tiers.
 L'exploitant pourrait être tenté d'invoquer le "vice inhérent" de la vasque (la cassure préexistante) comme cause d'exonération. Or, la Cour de cassation a fermement établi que le vice inhérent à la chose ne constitue pas, pour le gardien, un cas de force majeure l'exonérant de sa responsabilité (Civ. 2e, 5 mai 1975, n° 74-10.466). La SAS est responsable, même si le défaut lui était inconnu.
@@ -40,12 +40,12 @@ L'exploitant pourrait être tenté d'invoquer le "vice inhérent" de la vasque (
 
 ## II — LA RESPONSABILITÉ CONTRACTUELLE ET LE DROIT DE LA CONSOMMATION
 
-### A. La responsabilité contractuelle de droit commun (Art. 1231-1 C. civ.)
+### II.1 — La responsabilité contractuelle de droit commun (Art. 1231-1 C. civ.)
 
 **[La Victime]** était liée à **[L'Exploitant du Commerce (La SAS)]** par un contrat de prestation de service (soins de coiffure), matérialisé par le paiement Wero de 15,00 €. Sur le fondement de l'article 1231-1 du Code civil (ancien article 1147), le prestataire est tenu d'une obligation de sécurité de résultat envers son client.
 La défaillance de l'équipement au cours de la prestation caractérise un manquement direct à cette obligation. Ce fondement est solide, bien que moins favorable que l'article 1240 C.civ s'il venait à être mis en concurrence avec d'éventuelles clauses limitatives de responsabilité (inopérantes en matière de dommage corporel, mais complexifiant le débat).
 
-### B. Le contrat de consommation (Art. L.221-15 C. consom.)
+### II.2 — Le contrat de consommation (Art. L.221-15 C. consom.)
 
 Le droit de la consommation (notamment l'article L.221-15 pour la bonne exécution des contrats) renforce l'exigence pesant sur le professionnel. Toutefois, la responsabilité du fait des choses offre un régime probatoire plus direct pour un accident corporel lié à un équipement.
 
@@ -76,7 +76,7 @@ Bien que **[La Victime]** soit un tiers à la relation de travail, le manquement
 
 <hr><hr>
 
-## CONCLUSION ET RECOMMANDATIONS
+## VI — CONCLUSION ET RECOMMANDATIONS
 
 La hiérarchie des fondements à privilégier pour garantir la réparation du préjudice de **[La Victime]** est la suivante :
 

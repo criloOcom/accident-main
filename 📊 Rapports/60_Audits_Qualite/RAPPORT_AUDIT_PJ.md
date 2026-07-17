@@ -17,7 +17,7 @@ type: rapport
 
 ---
 
-## 1. SYNTHÈSE GLOBALE
+## I — SYNTHÈSE GLOBALE
 
 | Indicateur | Valeur |
 |---|---|
@@ -29,9 +29,9 @@ type: rapport
 
 ---
 
-## 2. TABLEAU CROISÉ — Chaque courrier vs. ses PJ
+## II — TABLEAU CROISÉ — Chaque courrier vs. ses PJ
 
-### 2.1 Courriers AVEC section PJ explicite
+### II.1 — 2.1 Courriers AVEC section PJ explicite
 
 | # | Courrier | PJ listées | PJ physiques ? |
 |---|----------|-----------|----------------|
@@ -41,7 +41,7 @@ type: rapport
 | 19 | FGTI | PV n°2026/015967, AR NPAI, Kbis, Dossier médical 11p | PV ✅ — AR NPAI ❌ — Kbis ❌ — Médical ✅ |
 | 35 | Président TJ Foix | AR retournés, PV n°2026/015967, Kbis, Note RNE/INPI | PV ✅ — AR NPAI ❌ — Kbis ❌ — Note RNE ❌ |
 
-### 2.2 Courriers SANS section PJ explicite
+### II.2 — 2.2 Courriers SANS section PJ explicite
 
 | # | Courrier | Présence PJ | Commentaire |
 |---|----------|-------------|-------------|
@@ -73,9 +73,9 @@ type: rapport
 
 ---
 
-## 3. ANALYSE PAR TYPE DE PIÈCE
+## III — ANALYSE PAR TYPE DE PIÈCE
 
-### 3.1 PV n°2026/015967 — Police
+### III.1 — 3.1 PV n°2026/015967 — Police
 
 | Aspect | Constat |
 |--------|---------|
@@ -85,7 +85,7 @@ type: rapport
 | **Physique** | ✅ Plainte + PV complets dans `Preuves officielles/` |
 | ⚠️ Courrier 10 | Utilise "[ ... ]" au lieu de "[N° PV Police]" — incohérence mineure |
 
-### 3.2 Accusés de réception retournés (NPAI)
+### III.2 — 3.2 Accusés de réception retournés (NPAI)
 
 | Aspect | Constat |
 |--------|---------|
@@ -94,7 +94,7 @@ type: rapport
 | **Physique** | ❌ **Aucun fichier AR retourné trouvé** dans Preuves_officielles |
 | **Recommandation** | Scanner/numériser les AR NPAI physiques et les déposer dans Preuves_officielles |
 
-### 3.3 Extrait Kbis — SAS 938 033 222
+### III.3 — 3.3 Extrait Kbis — SAS 938 033 222
 
 | Aspect | Constat |
 |--------|---------|
@@ -103,7 +103,7 @@ type: rapport
 | Fichier existant | `/home/crilocom/20260701 Société LES MAUVAIS GARCONS...pdf` (annuaire, **PAS un Kbis officiel**) |
 | **Recommandation** | Commander l'extrait Kbis officiel via INPI/infogreffe et le déposer |
 
-### 3.4 Dossier médical (11 pièces)
+### III.4 — 3.4 Dossier médical (11 pièces)
 
 | Aspect | Constat |
 |--------|---------|
@@ -112,7 +112,7 @@ type: rapport
 | Détail | JARDON, CR opératoire DJERBI, NOTE OXYBEL, CERTIF OXYBEL, SITUATION Main, MAIL Djerbi, Bilan, Ordonnance kiné, 2x CR MonEspaceSanté, CPAM |
 | **Cohérence** | ✅ Les pièces listées dans le courrier 17 (CPAM) correspondent |
 
-### 3.5 Note d'audit RNE/INPI
+### III.5 — 3.5 Note d'audit RNE/INPI
 
 | Aspect | Constat |
 |--------|---------|
@@ -121,27 +121,27 @@ type: rapport
 
 ---
 
-## 4. INCOHÉRENCES ET ANOMALIES
+## IV — INCOHÉRENCES ET ANOMALIES
 
-### 4.1 Absence généralisée de section PJ
+### IV.1 — 4.1 Absence généralisée de section PJ
 **85 % des courriers (28/33) n'ont pas de section PIECES JOINTES explicite.** C'est le constat principal. Même les courriers les plus critiques (03 → 06 : mises en demeure LRAR aux dirigeants/SAS/assureur) n'ont **aucune** liste de PJ, alors qu'ils devraient logiquement en avoir (copies des documents cités).
 
-### 4.2 Courrier 10 — PJ générique insuffisante
+### IV.2 — 4.2 Courrier 10 — PJ générique insuffisante
 La section PJ se contente de "Bordereau des pièces annexées et les 6 pièces justificatives" sans lister les pièces. Insuffisant.
 
-### 4.3 Format de PV incohérent
+### IV.3 — 4.3 Format de PV incohérent
 - 4 courriers : "PV n°2026/015967" (format complet)
 - 8 courriers : "PV n° [N° PV Police]" (format tokenisé)
 - 1 courrier (10) : "PV n° [ ... ]" (placeholder vide)
 → Le courrier 10 devrait être uniformisé avec les autres.
 
-### 4.4 AR NPAI absents physiquement
+### IV.4 — 4.4 AR NPAI absents physiquement
 C'est une pièce critique pour prouver la carence de l'adversaire à l'audience. Leur absence physique est un **risque juridique**.
 
-### 4.5 Kbis absent physiquement
+### IV.5 — 4.5 Kbis absent physiquement
 L'extrait Kbis officiel est cité 4 fois comme PJ mais n'existe pas matériellement. Le PDF présent à la racine est un annuaire des entreprises, **pas** un Kbis.
 
-### 4.6 Note RNE/INPI
+### IV.6 — 4.6 Note RNE/INPI
 Citée au courrier 35, absente physiquement et non référencée dans PIECES MAP.md.
 
 ---
@@ -158,9 +158,9 @@ Citée au courrier 35, absente physiquement et non référencée dans PIECES MAP
 
 ---
 
-## 6. RECOMMANDATIONS
+## V — RECOMMANDATIONS
 
-### Priorité Haute (risque juridique)
+### V.1 — Priorité Haute (risque juridique)
 
 1. **[URGENT] Ajouter section PJ aux courriers 03 → 06** (mises en demeure LRAR)
    - Ce sont les actes adressés aux parties adverses. Sans PJ listée, que prouve-t-on ?
@@ -174,7 +174,7 @@ Citée au courrier 35, absente physiquement et non référencée dans PIECES MAP
    - Via infogreffe ou INPI (gratuit) → déposer dans `📂 Preuves officielles/`
    - SIREN 938 033 222 — SAS LES MAUVAIS GARCONS
 
-### Priorité Moyenne
+### V.2 — Priorité Moyenne
 
 4. **Uniformiser le format PV** dans tous les courriers
    - Remplacer "[N° PV Police]" par "2026/015967" dans les versions réelles
@@ -186,14 +186,14 @@ Citée au courrier 35, absente physiquement et non référencée dans PIECES MAP
 6. **Ajouter section PJ aux courriers 07, 08, 09, 11, 13, 15-18, 20, 21**
    - Même schéma : liste des documents joints ou référencés
 
-### Priorité Basse
+### V.3 — Priorité Basse
 
 7. **Ajouter section PJ aux courriers 29-33**
    - Tout courrier adressé à une autorité administrative ou judiciaire doit lister ses PJ
 
 ---
 
-## 7. VÉRIFICATION PIECES MAP.md vs. RÉALITÉ
+## VI — VÉRIFICATION PIECES MAP.md vs. RÉALITÉ
 
 | Document PIECES MAP | État |
 |---------------------|------|
@@ -206,7 +206,7 @@ Citée au courrier 35, absente physiquement et non référencée dans PIECES MAP
 
 ---
 
-## 8. CONCLUSION
+## VII — CONCLUSION
 
 **Forces :**
 - PV police n°2026/015967 parfaitement documenté et cohérent (12 occurrences)

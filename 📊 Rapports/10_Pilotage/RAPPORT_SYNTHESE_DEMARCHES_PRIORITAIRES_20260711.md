@@ -30,23 +30,23 @@ type: rapport
 
 ---
 
-## 1. Analyse de la Situation Actuelle
+## I — Analyse de la Situation Actuelle
 
-### Contexte de l'Accident
+### I.1 — Contexte de l'Accident
 - **Date** : 29 mai 2026
 - **Lieu** : Salon de coiffure "Les Mauvais Garçons" à Foix
 - **Blessure** : Section nerveuse et tendineuse profonde de l'index droit (main dominante)
 - **Conséquences** : Microchirurgie d'urgence, 56 jours d'ITT, récupération partielle sur 1 an
 - **Impact professionnel** : Informaticien indépendant incapable d'utiliser sa main droite
 
-### État de la Société Responsable
+### I.2 — État de la Société Responsable
 - **Nom** : SAS Les Mauvais Garçons
 - **SIREN** : 938 033 222
 - **Capital** : 200 € seulement (risque d'insolvabilité élevé)
 - **Statut** : Toujours active selon RNE/INPI (dernière mise à jour 8 juillet 2026)
 - **Problème** : Courriers recommandés retournés NPAI, pas de réponse des dirigeants
 
-### Problèmes Identifiés
+### I.3 — Problèmes Identifiés
 1. **Dissimulation de preuves** : Vidéosurveillance potentiellement effacée
 2. **Société fantôme** : 0 salarié, local fermé mais toujours immatriculée
 3. **Obstruction** : Refus de communiquer l'assurance RC
@@ -54,9 +54,9 @@ type: rapport
 
 ---
 
-## 2. Preuves de Mauvaise Volonté et Dissimulation
+## II — Preuves de Mauvaise Volonté et Dissimulation
 
-### Éléments Concrets de Dissimulation
+### II.1 — Éléments Concrets de Dissimulation
 
 1. **Courriers retournés NPAI** (29 juin 2026)
    - Mises en demeure envoyées aux dirigeants retournées "défaut d'adresse"
@@ -79,7 +79,7 @@ type: rapport
    - Comptes en défaut de publication
    - Risque de dissolution frauduleuse
 
-### Fondements Juridiques pour la Responsabilité
+### II.2 — Fondements Juridiques pour la Responsabilité
 
 - **Article 1242 al. 1 CC** : Responsabilité du fait des choses
 - **Article 1242 al. 5 CC** : Responsabilité du commettant
@@ -89,9 +89,9 @@ type: rapport
 
 ---
 
-## 3. Démarches Déjà Entreprises
+## III — Démarches Déjà Entreprises
 
-### Actions Administratives et Judiciaires
+### III.1 — Actions Administratives et Judiciaires
 
 1. **Plainte pénale** (1er juin 2026)
    - PV n°2026/015967 déposé au commissariat de Foix
@@ -115,7 +115,7 @@ type: rapport
    - Suivi chirurgical et kinésithérapie
    - Certificats médicaux obtenus
 
-### Documentation Existante
+### III.2 — Documentation Existante
 
 - **Preuves officielles** : PV police, CR opératoire, certificats médicaux
 - **Actes procéduriers** : Assignation en référé, plainte, conclusions
@@ -125,11 +125,11 @@ type: rapport
 
 ---
 
-## 4. Actions Prioritaires à Entreprendre
+## IV — Actions Prioritaires à Entreprendre
 
-### 🔴 Actions Immédiates (11-15 juillet 2026)
+### IV.1 — 🔴 Actions Immédiates (11-15 juillet 2026)
 
-#### 1. Envoi du Document n°35 - Preuves Complémentaires au TJ Foix
+#### IV.1.a — Envoi du Document n°35 - Preuves Complémentaires au TJ Foix
 
 **Priorité absolue** - À envoyer **aujourd'hui 12 juillet 2026**
 
@@ -148,7 +148,7 @@ type: rapport
 - Envoyer par LRAR au Tribunal Judiciaire de Foix
 - Consigner le n° LRAR dans STATUS.md et TODO.md
 
-#### 2. Constat d'Huissier de Justice
+#### IV.1.b — Constat d'Huissier de Justice
 
 **Priorité absolue** - À réaliser **avant le 15 juillet 2026**
 
@@ -165,7 +165,7 @@ type: rapport
 
 **Budget estimé** : 300-500 €
 
-#### 3. Obtention des Attestations de Témoins
+#### IV.1.c — Obtention des Attestations de Témoins
 
 **Priorité haute** - À finaliser **avant le 15 juillet 2026**
 
@@ -180,7 +180,7 @@ type: rapport
 - Obtenir les signatures (électronique ou papier)
 - Intégrer au dossier
 
-#### 4. Relance du Dr DJERBI pour Certificat de Consolidation
+#### IV.1.d — Relance du Dr DJERBI pour Certificat de Consolidation
 
 **Priorité haute** - À envoyer **avant le 17 juillet 2026**
 
@@ -190,9 +190,9 @@ type: rapport
 - Suivre la réponse et obtenir le certificat
 - Intégrer au dossier médical
 
-### 🟠 Actions Secondaires (18-31 juillet 2026)
+### IV.2 — 🟠 Actions Secondaires (18-31 juillet 2026)
 
-#### 5. Contact avec un Avocat
+#### IV.2.a — Contact avec un Avocat
 
 **Priorité moyenne** - À finaliser **avant le 25 juillet 2026**
 
@@ -202,7 +202,7 @@ type: rapport
 - Finaliser les assignations avec intégration de la jurisprudence
 - Préparer les conclusions pour les audiences
 
-#### 6. Fixation des Dates d'Audience
+#### IV.2.b — Fixation des Dates d'Audience
 
 **Priorité moyenne** - À finaliser **avant le 31 juillet 2026**
 
@@ -212,7 +212,7 @@ type: rapport
 - Fixer l'audience Art. 145 CPC (communication assurance)
 - Notifier les dates à toutes les parties
 
-#### 7. Relances Administratives
+#### IV.2.c — Relances Administratives
 
 **Priorité moyenne** - À finaliser **avant le 31 juillet 2026**
 
@@ -222,7 +222,7 @@ type: rapport
 - Relancer l'URSSAF (si pas de réponse)
 - Suivre le courrier à la Préfecture
 
-#### 8. Préparation Stratégie FGTI/CIVI
+#### IV.2.d — Préparation Stratégie FGTI/CIVI
 
 **Priorité moyenne** - À finaliser **avant le 31 juillet 2026**
 
@@ -233,9 +233,9 @@ type: rapport
 
 ---
 
-## 5. Stratégie pour le Déplacement à Foix
+## V — Stratégie pour le Déplacement à Foix
 
-### Préparation du Dossier à Présenter
+### V.1 — Préparation du Dossier à Présenter
 
 **Documents à apporter** :
 1. Copie du PV n°2026/015967
@@ -247,7 +247,7 @@ type: rapport
 7. Liste des démarches entreprises
 8. Copie des courriers envoyés
 
-### Déposer une Plainte Complémentaire
+### V.2 — Déposer une Plainte Complémentaire
 
 **Éléments à inclure** :
 1. **Obstruction à la justice** : Refus de communiquer l'assurance RC
@@ -256,7 +256,7 @@ type: rapport
 4. **Risque de disparition** : Capital de 200 € et 0 salarié
 5. **Mauvaise volonté** : Pas de coopération malgré les mises en demeure
 
-### Demander une Enquête Approfondie
+### V.3 — Demander une Enquête Approfondie
 
 1. **Vérification de l'établissement** : État actuel du salon
 2. **Recherche des vidéos** : Vérification de la vidéosurveillance
@@ -264,13 +264,13 @@ type: rapport
 4. **Contrôle de conformité** : Respect des normes ERP
 5. **Enquête financière** : Vérification de la solvabilité réelle
 
-### Contacts à la Police de Foix
+### V.4 — Contacts à la Police de Foix
 
 - **Commissariat de Police** : [Adresse à compléter]
 - **Service des plaintes** : Demander à parler à l'officier en charge du PV n°2026/015967
 - **Police municipale** : Pour contrôle ERP et conformité
 
-### Checklist pour le Déplacement
+### V.5 — Checklist pour le Déplacement
 
 - [ ] Dossier complet imprimé et classé
 - [ ] Pièce d'identité + justificatif de domicile
@@ -282,9 +282,9 @@ type: rapport
 
 ---
 
-## 6. Lettres Recommandées à Envoyer en Priorité
+## VI — Lettres Recommandées à Envoyer en Priorité
 
-### Lettres Déjà Prêtes à Envoyer
+### VI.1 — Lettres Déjà Prêtes à Envoyer
 
 | # | Document | Destinataire | Priorité | Statut | Date Butoir |
 |---|----------|--------------|----------|--------|-------------|
@@ -293,7 +293,7 @@ type: rapport
 | 19 | Courrier FGTI | FGTI | Haute | À envoyer | 11/07/2026 |
 | 35 | Courrier President TJ Foix | President TJ Foix | **Critique** | À envoyer | **12/07/2026** |
 
-### Lettres à Préparer
+### VI.2 — Lettres à Préparer
 
 | # | Document | Destinataire | Priorité | Statut |
 |---|----------|--------------|----------|--------|
@@ -305,13 +305,13 @@ type: rapport
 | 20 | Relance Police | Police Nationale | Haute | À envoyer |
 | 21 | Relance CPAM | CPAM | Haute | À envoyer |
 
-### Modèles de Lettres Disponibles
+### VI.3 — Modèles de Lettres Disponibles
 
 Tous les modèles sont disponibles dans :
 - [⚖️ Actes/🔑 Token/✉️ Courriers](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (versions anonymisées)
 - [⚖️ Actes/👤 Reel/✉️ Courriers](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (versions réelles)
 
-### Procédure d'Envoi
+### VI.4 — Procédure d'Envoi
 
 1. **Vérifier le modèle** dans le dossier token
 2. **Générer la version réelle** avec `generate_real_versions.py`
@@ -322,9 +322,9 @@ Tous les modèles sont disponibles dans :
 
 ---
 
-## 7. Calendrier des Prochaines Étapes
+## VII — Calendrier des Prochaines Étapes
 
-### Semaine 28 (11-15 juillet 2026)
+### VII.1 — Semaine 28 (11-15 juillet 2026)
 
 - **12/07** : Envoi document 35 (priorité absolue)
 - **12-14/07** : Recherche et mandat d'huissier
@@ -332,25 +332,25 @@ Tous les modèles sont disponibles dans :
 - **15/07** : Attestations témoins envoyées
 - **15-17/07** : Relance Dr DJERBI
 
-### Semaine 29 (18-22 juillet 2026)
+### VII.2 — Semaine 29 (18-22 juillet 2026)
 
 - **18-22/07** : Recherche et contact avocat
 - **22/07** : Transmission du dossier complet à l'avocat
 - **22-25/07** : Finalisation des assignations
 
-### Semaine 30-31 (25-31 juillet 2026)
+### VII.3 — Semaine 30-31 (25-31 juillet 2026)
 
 - **25-28/07** : Fixation des dates d'audience
 - **28-31/07** : Préparation des conclusions
 - **31/07** : Relances administratives finalisées
 
-### Août 2026
+### VII.4 — Août 2026
 
 - **01-15/08** : Préparation finale avant audiences
 - **15-31/08** : Participation aux audiences
 - **31/08** : Évaluation des premières décisions
 
-### Novembre 2026
+### VII.5 — Novembre 2026
 
 - **12/11** : Expertise médicale UMJ Purpan (13h45)
 
@@ -374,9 +374,9 @@ gantt
 
 ---
 
-## 8. Recommandations Stratégiques
+## VIII — Recommandations Stratégiques
 
-### Stratégie Globale
+### VIII.1 — Stratégie Globale
 
 1. **Multiplier les voies d'action** :
    - Civil (référé-provision, Art. 145 CPC)
@@ -393,7 +393,7 @@ gantt
    - Action directe contre l'assureur
    - Responsabilité personnelle des dirigeants
 
-### Priorités Absolues
+### VIII.2 — Priorités Absolues
 
 1. **Envoyer le document 35** avec les références jurisprudentielles
 2. **Mandater un huissier** pour sécuriser les preuves matérielles
@@ -401,7 +401,7 @@ gantt
 4. **Relancer le Dr DJERBI** pour le certificat de consolidation
 5. **Contacter un avocat** pour professionnaliser la représentation
 
-### Risques Principaux et Mitigations
+### VIII.3 — Risques Principaux et Mitigations
 
 | Risque | Sévérité | Mitigation |
 |--------|-----------|------------|
@@ -411,7 +411,7 @@ gantt
 | Délais judiciaires longs | 🟠 3/5 | Multiplication des voies |
 | Preuves testimoniales faibles | 🟠 3/5 | Obtention rapide attestations |
 
-### Ressources Disponibles
+### VIII.4 — Ressources Disponibles
 
 - **Données juridiques** : 3.6 MB dans [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 - **Références formatées** : `REFERENCES_MARKDOWN_20260710.json`
@@ -419,7 +419,7 @@ gantt
 - **Annexes jurisprudentielles** : `⚖️ Actes/📎 Annexes/` (3 décisions complètes)
 - **Documentation MCP** : [📜 Lois/EXEMPLES_REQUETES_MCP.md](../../%F0%9F%93%9C%20Lois/EXEMPLES_REQUETES_MCP.md)
 
-### Indicateurs de Succès
+### VIII.5 — Indicateurs de Succès
 
 **Court Terme (15 juillet)** :
 - ✅ Document 35 envoyé et accusé de réception obtenu
@@ -441,7 +441,7 @@ gantt
 
 ---
 
-## Conclusion
+## IX — Conclusion
 
 La situation actuelle marque un tournant décisif dans le dossier. L'envoi de l'email n°34 à la mairie de Foix a clos la phase administrative pure et ouvert la phase judiciaire active. Le document n°35 (transmission de preuves au TJ Foix) est la pierre angulaire qui permettra de lancer officiellement les procédures judiciaires.
 

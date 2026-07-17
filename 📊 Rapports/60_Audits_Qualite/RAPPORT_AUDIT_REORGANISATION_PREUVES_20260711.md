@@ -27,9 +27,9 @@ type: rapport
 
 ---
 
-## 1. Nouvelle Structure Identifiée
+## I — Nouvelle Structure Identifiée
 
-### Organisation par Date (Format : AAAAMMJJ 📋 Catégorie)
+### I.1 — Organisation par Date (Format : AAAAMMJJ 📋 Catégorie)
 
 ```
 📂 Preuves officielles/
@@ -63,7 +63,7 @@ type: rapport
     └── 20260629 ✉️ LR MiseEnDemeure SAS President MrSABIR.md
 ```
 
-### Caractéristiques de la Nouvelle Structure
+### I.2 — Caractéristiques de la Nouvelle Structure
 
 ✅ **Organisation chronologique** par date d'événement (AAAAMMJJ)
 ✅ **Catégorisation claire** avec emojis descriptifs
@@ -71,7 +71,7 @@ type: rapport
 ✅ **Structure hiérarchique** : Date → Catégorie → Document
 ✅ **Alignement avec Google Drive** (comme demandé par l'utilisateur)
 
-### Avantages
+### I.3 — Avantages
 
 1. **Navigation intuitive** par timeline chronologique
 2. **Regroupement logique** des documents par événement
@@ -81,9 +81,9 @@ type: rapport
 
 ---
 
-## 2. Analyse des Impacts
+## II — Analyse des Impacts
 
-### Vérification des Références Internes
+### II.1 — Vérification des Références Internes
 
 **Méthodologie :** Recherche exhaustive des liens vers l'ancien dossier "Preuves officielles" dans l'ensemble du projet.
 
@@ -104,7 +104,7 @@ type: rapport
 4. **Index et organisation** : Font référence au dossier de manière **générique**
    - "Documents physiques — dossier `📂 Preuves officielles/`"
 
-### Fichiers Concernés par la Réorganisation
+### II.2 — Fichiers Concernés par la Réorganisation
 
 **Aucun impact critique identifié** :
 
@@ -112,7 +112,7 @@ type: rapport
 - Pas de chemins absolus ou de liens directs vers les anciens emplacements
 - La réorganisation n'a pas cassé de liens internes
 
-### Comparaison Ancienne vs Nouvelle Structure
+### II.3 — Comparaison Ancienne vs Nouvelle Structure
 
 **Ancienne structure (supposée) :**
 ```
@@ -134,9 +134,9 @@ Preuves officielles/
 
 ---
 
-## 3. Vérification des Références
+## III — Vérification des Références
 
-### Outils Utilisés
+### III.1 — Outils Utilisés
 
 ```bash
 # Recherche de références directes aux anciens chemins
@@ -148,7 +148,7 @@ grep -r "SITUATION DrJulieJARDON\|CR Opératoire\|NOTE DrOXYBEL\|PV Police\|Atte
   /home/crilocom/accident-main --include="*.md" | head -20
 ```
 
-### Résultats Détaillés
+### III.2 — Résultats Détaillés
 
 **Fichiers avec références au dossier (non critiques) :**
 - `AGENTS.md` : Référence générique au dossier
@@ -161,7 +161,7 @@ grep -r "SITUATION DrJulieJARDON\|CR Opératoire\|NOTE DrOXYBEL\|PV Police\|Atte
 **Fichiers avec références aux documents (via Google Drive) :**
 - [⚖️ Actes/🔑 Token/📂 Preuves officielles/01 📁 Dossier UMJ Preparation.md](⚖️%20Actes/🔑%20Token/📂%20Preuves%20officielles/01%20📁%20Dossier%20UMJ%20Preparation.md) : Liens Google Drive
 
-### Conclusion sur les Références
+### III.3 — Conclusion sur les Références
 
 ✅ **Aucun lien brisé** identifié
 ✅ **Aucune référence directe** aux anciens chemins de fichiers
@@ -170,23 +170,23 @@ grep -r "SITUATION DrJulieJARDON\|CR Opératoire\|NOTE DrOXYBEL\|PV Police\|Atte
 
 ---
 
-## 4. Recommandations
+## IV — Recommandations
 
-### Pour les Futures Modifications
+### IV.1 — Pour les Futures Modifications
 
 1. **Maintenir la tokenisation** : Continuer à utiliser `[N° PV Police]` plutôt que des chemins spécifiques
 2. **Privilégier les liens relatifs** : `../../👤 Reel/📂 Preuves officielles/` plutôt que `/chemin/absolu/`
 3. **Documenter la structure** : Mettre à jour les README pour refléter l'organisation actuelle
 4. **Automatiser les vérifications** : Script pour détecter les liens brisés après réorganisation
 
-### Bonnes Pratiques Identifiées
+### IV.2 — Bonnes Pratiques Identifiées
 
 ✅ **Système de tokens** : `[N° PV Police]`, `[Le Chirurgien SOS Main]`
 ✅ **Liens relatifs** : `../../👤 Reel/📂 Preuves officielles/`
 ✅ **Structure par date** : Facile à maintenir et à comprendre
 ✅ **Documentation légère** : README.md dans chaque dossier
 
-### À Éviter
+### IV.3 — À Éviter
 
 ❌ **Chemins absolus** : `/home/user/project/...`
 ❌ **Noms de fichiers en dur** : `20260529-1630 SITUATION DrJulieJARDON.md` dans les liens
@@ -194,9 +194,9 @@ grep -r "SITUATION DrJulieJARDON\|CR Opératoire\|NOTE DrOXYBEL\|PV Police\|Atte
 
 ---
 
-## 5. Actions Correctives
+## V — Actions Correctives
 
-### Aucune Action Urgente Requise ✅
+### V.1 — Aucune Action Urgente Requise ✅
 
 La réorganisation a été effectuée **sans impacter les références internes** grâce à :
 
@@ -204,7 +204,7 @@ La réorganisation a été effectuée **sans impacter les références internes*
 2. **Utilisation de liens relatifs** adaptables
 3. **Absence de dépendances** aux chemins physiques
 
-### Actions Optionnelles (Amélioration Continue)
+### V.2 — Actions Optionnelles (Amélioration Continue)
 
 | Action | Priorité | Bénéfice |
 |--------|----------|----------|
@@ -213,7 +213,7 @@ La réorganisation a été effectuée **sans impacter les références internes*
 | Créer un script de vérification des liens | Moyenne | Détection proactive |
 | Documenter les conventions de nommage | Basse | Cohérence future |
 
-### Script de Vérification Proposé
+### V.3 — Script de Vérification Proposé
 
 ```bash
 #!/bin/bash
@@ -234,23 +234,23 @@ fi
 
 ---
 
-## Conclusion
+## VI — Conclusion
 
-### Bilan de la Réorganisation
+### VI.1 — Bilan de la Réorganisation
 
 ✅ **Succès** : La réorganisation a été effectuée sans impacter les références internes
 ✅ **Robustesse** : Le système de tokenisation et de liens relatifs a prouvé son efficacité
 ✅ **Alignement** : La nouvelle structure correspond à l'organisation Google Drive de l'utilisateur
 ✅ **Maintenabilité** : La structure par date facilite l'ajout de nouveaux documents
 
-### Statistiques Clés
+### VI.2 — Statistiques Clés
 
 - **17 fichiers** .md dans le dossier réorganisé
 - **11 dossiers** par date (20260529 à 20260629)
 - **0 liens brisés** identifiés
 - **0 actions correctives** urgentes nécessaires
 
-### Recommandation Finale
+### VI.3 — Recommandation Finale
 
 **Statut :** ✅ **Aucune mise à jour critique nécessaire**
 

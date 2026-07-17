@@ -58,9 +58,9 @@ Le salon de coiffure constitue un Etablissement Recevant du Public (ERP) de 5e c
 
 Je porte par la presente a votre connaissance les faits suivants, susceptibles de constituer des non-conformites aux regles de securite applicables aux ERP :
 
-#### **1. EQUIPEMENT PRESENTANT UN DANGER**Le bac a shampoing en ceramique, instable et presentant une cassure majeure preexistante accessible au public, constituait un danger pour les occupants de l'etablissement et notamment pour les clients.
+#### I.1.a — **1. EQUIPEMENT PRESENTANT UN DANGER**Le bac a shampoing en ceramique, instable et presentant une cassure majeure preexistante accessible au public, constituait un danger pour les occupants de l'etablissement et notamment pour les clients.
 
-#### **2. ABSENCE D'EQUIPEMENT D'ACCES SECURISE**Le prepose a du monter sur ce bac a shampoing pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur, en violation des regles de securite contre les chutes de hauteur.
+#### I.1.b — **2. ABSENCE D'EQUIPEMENT D'ACCES SECURISE**Le prepose a du monter sur ce bac a shampoing pour acceder au poste de television, en l'absence de tout equipement d'acces adapte (escabeau) mis a disposition par l'employeur, en violation des regles de securite contre les chutes de hauteur.
 
 Je vous remercie de bien vouloir me tenir informe des suites reserves a ce signalement.
 

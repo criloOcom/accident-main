@@ -68,7 +68,7 @@ ACCIDENT 29/05/2026
 
 ## II — VOIE ADMINISTRATIVE — CE QUE L'AVOCAT A CONFIRMÉ
 
-### Ce qu'on peut faire (validé par l'avocat)
+### II.1 — Ce qu'on peut faire (validé par l'avocat)
 
 | Action | Fondement | Risque juridique |
 |--------|-----------|------------------|
@@ -78,7 +78,7 @@ ACCIDENT 29/05/2026
 | Demander communication des **rapports d'enquête** nous concernant | CRPA + CE, victime d'accident du travail → droit d'accès au rapport | Peut être refusé si enquête en cours |
 | Saisir la **CADA** après refus | CRPA Art. L. 342-1 | Aucun (mais long) |
 
-### Ce qu'on ne peut PAS faire
+### II.2 — Ce qu'on ne peut PAS faire
 
 | Action | Raison |
 |--------|--------|
@@ -86,7 +86,7 @@ ACCIDENT 29/05/2026
 | Exiger des informations pendant l'enquête | Secret des enquêtes administratives |
 | Obtenir les documents préparatoires internes | CRPA : droit limité aux documents *achevés* |
 
-### Limites connues
+### II.3 — Limites connues
 
 - Le CODAF est une cellule de **coordination interne** : il peut opposer le secret des enquêtes, le secret fiscal ou social.
 
@@ -97,7 +97,7 @@ ACCIDENT 29/05/2026
 
 ## III — VOIE PÉNALE — CE QUI NOUS DONNE DES DROITS FORTS
 
-### Nos droits concrets en tant que victime (Art. 10-2 CPP)
+### III.1 — Nos droits concrets en tant que victime (Art. 10-2 CPP)
 
 | Droit | Texte |
 |-------|-------|
@@ -107,7 +107,7 @@ ACCIDENT 29/05/2026
 | Accéder au dossier (via constitution partie civile) | Art. 114 CPP |
 | Être indemnisé | Voie civile après reconnaissance pénale |
 
-### Notre situation pénale au 15 juillet 2026
+### III.2 — Notre situation pénale au 15 juillet 2026
 
 | Élément | Statut |
 |---------|--------|
@@ -120,7 +120,7 @@ ACCIDENT 29/05/2026
 
 ## IV — ARTICULATION STRATÉGIQUE — PLAN D'ACTION
 
-### À faire par nous (sans avocat, sans risque)
+### IV.1 — À faire par nous (sans avocat, sans risque)
 
 | N° | Action | Priorité | Calendrier |
 |----|--------|----------|------------|
@@ -131,7 +131,7 @@ ACCIDENT 29/05/2026
 | 5 | Attendre notification AJ | Haute | 2-6 semaines |
 | 6 | Transmettre dossier complet à l'avocat désigné | Haute | Dès notification AJ |
 
-### À faire par l'avocat (dès désignation via AJ)
+### IV.2 — À faire par l'avocat (dès désignation via AJ)
 
 | N° | Action |
 |----|--------|
@@ -141,7 +141,7 @@ ACCIDENT 29/05/2026
 | 4 | Expertise médicale judiciaire |
 | 5 | Instance au fond |
 
-### À NE PAS faire
+### IV.3 — À NE PAS faire
 
 - Saisine FGTI (sans objet — instructions reçues le 12/07)
 

@@ -15,11 +15,11 @@ type: rapport
 
 ## I — PRÉSENTATION DU DOSSIER ET DE LA MISSION
 
-En ma qualité de Médiateur judiciaire près la Cour d'Appel, j'ai procédé à l'analyse du litige opposant **[La Victime]** à **[L'Exploitant du Commerce (La SAS)]**, prise en la personne de ses dirigeants **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, suite à l'accident corporel survenu le 29 mai 2026 dans les locaux du salon.
+En ma qualité de Médiateur judiciaire près la Cour d'Appel, j'ai procédé à l'analyse du litige opposant **[La Victime]** à **[L'Exploitant du Commerce (La SAS)]**, prise en la personne de ses dirigeants **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, à la suite de l'accident corporel survenu le 29 mai 2026 dans les locaux du salon.
 
 L'objectif de cette note est d'évaluer le potentiel d'une résolution amiable, d'analyser la maturité du conflit et de proposer un cadre transactionnel réaliste au regard du droit de la responsabilité civile et de la réparation du préjudice corporel (Nomenclature Dintilhac).
 
-### A. Rappel des faits non contestés
+### I.1 — Rappel des faits non contestés
 
 1. **Date et lieu :** L'accident s'est produit le 29 mai 2026 à 15h00, au sein de l'établissement exploité par **[L'Exploitant du Commerce (La SAS)]**.
 2. **Mécanisme :** Chute d'un équipement (vasque de shampoing) entraînant une blessure sévère à la main droite de **[La Victime]** (section tendineuse et nerveuse à l'index droit).
@@ -30,16 +30,16 @@ L'objectif de cette note est d'évaluer le potentiel d'une résolution amiable, 
 
 ## II — ANALYSE DE LA MATURITÉ DU CONFLIT ET POSITIONS DES PARTIES
 
-### A. Position de **[La Victime]**
+### II.1 — Position de **[La Victime]**
 
 La victime fait face à un préjudice corporel et professionnel lourd. Informaticien indépendant (revenu mensuel moyen de 750 €), l'atteinte à sa main dominante génère une perte de gains professionnels actuels (PGPA) et une incidence professionnelle majeure.
 Malgré de multiples tentatives de résolution amiable via l'envoi de lettres recommandées (notamment le 29 juin 2026 puis en juillet), la victime s'est heurtée à une absence de réponse constructive, menant au dépôt d'une plainte pénale et d'assignations en référé (provision et article 145 CPC). Son évaluation indemnitaire globale, selon l'évaluation Dintilhac consolidée, oscille entre 109 500 € et 161 500 € en projection maximale.
 
-### B. Position de **[L'Exploitant du Commerce (La SAS)]** et de ses dirigeants
+### II.2 — Position de **[L'Exploitant du Commerce (La SAS)]** et de ses dirigeants
 
 La position de la partie défenderesse apparaît jusqu'à présent marquée par l'évitement. Les dirigeants n'ont pas donné suite aux mises en demeure (PND ou retour expéditeur). Le capital social de la SAS (200 €) soulève un risque majeur d'insolvabilité, justifiant la mise en cause personnelle de **[Le Président de l'Exploitation]** et de **[La Directrice Générale de l'Exploitation]** sur le fondement de la faute séparable de leurs fonctions.
 
-### C. Maturité du conflit
+### II.3 — Maturité du conflit
 
 Le conflit est à ce jour **hautement judiciarisé**. La carence de la SAS en phase amiable a contraint la victime à engager de lourdes procédures. Néanmoins, le risque financier personnel pesant désormais sur les dirigeants (codéfendeurs in solidum) constitue un levier puissant pour les ramener à la table des négociations. L'aléa judiciaire pour les deux parties rend la médiation pertinente.
 
@@ -49,7 +49,7 @@ Le conflit est à ce jour **hautement judiciarisé**. La carence de la SAS en ph
 
 Sur la base du barème Mornet (2024) et de la Nomenclature Dintilhac, un terrain d'entente peut être trouvé autour d'une évaluation médiane, dite "de compromis".
 
-### A. Préjudices patrimoniaux
+### III.1 — Préjudices patrimoniaux
 
 - **Perte de Gains Professionnels Actuels (PGPA) :** L'évaluation conservatoire s'établit à 1 380 € (sur la base d'une ITT de 56 jours rapportée au CA mensuel de 750 €).
 - **Frais de Santé Actuels (DSA) :** 790,23 € (facture de chirurgie SOS Main) + environ 15 € (prestation remboursée).
@@ -57,14 +57,14 @@ Sur la base du barème Mornet (2024) et de la Nomenclature Dintilhac, un terrain
 - **Incidence Professionnelle (IP) :** Un compromis raisonnable peut être fixé à 30 000 € (méthode de capitalisation ajustée au CA).
 - **Dévalorisation Professionnelle (DEP) :** 3 000 €.
 
-### B. Préjudices extra-patrimoniaux
+### III.2 — Préjudices extra-patrimoniaux
 
 - **Déficit Fonctionnel Permanent (DFP) :** Entre 10 % et 15 % d'AIPP. Un accord peut être trouvé sur la base d'un DFP compromis estimé à 25 000 € (ou fourchette 20 000 € - 30 000 € selon consolidation finale).
 - **Souffrances Endurées (SE) :** Évaluées à 4/7. Un accord à 15 000 € est soutenable.
 - **Préjudice d'Agrément :** 4 000 € à 5 000 € (entrave à la pratique de la guitare).
 - **Préjudice Esthétique Permanent (PEP) :** 3 000 € (cicatrice).
 
-### C. Évaluation globale de compromis
+### III.3 — Évaluation globale de compromis
 
 Une indemnisation transactionnelle globale autour de **85 000 € à 100 000 €** apparaît comme un point d'équilibre, permettant à la victime d'obtenir une juste réparation sans épuiser les années de procédure, et aux dirigeants de la SAS de limiter leur exposition personnelle à des montants bien supérieurs (projections à plus de 160 000 €).
 

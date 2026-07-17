@@ -17,7 +17,7 @@ type: rapport
 
 ---
 
-## 1. SYNTHÈSE GLOBALE
+## I — SYNTHÈSE GLOBALE
 
 | Indicateur | État |
 |---|---|
@@ -29,15 +29,15 @@ type: rapport
 | Risques identifiés | **7** (dont 3 très élevés) |
 | LRAR envoyés / total | **4 / 11** (36%) |
 
-### Constat principal
+### I.1 — Constat principal
 
 Le plan d'action stratégique (J+32, 30 juin 2026) est **structurellement sain** mais **tactiquement bloqué** : 100% des actions nécessitant une intervention humaine (victime) sont au statut ❌ NON FAIT. Toutes les actions automatisables par l'IA sont terminées. Le dossier est en **attente de passage à l'acte judiciaire** depuis 11 jours.
 
 ---
 
-## 2. ANALYSE DOCUMENT PAR DOCUMENT
+## II — ANALYSE DOCUMENT PAR DOCUMENT
 
-### 2.1 Plan d'action (10 🗂️) — Incohérences internes
+### II.1 — 2.1 Plan d'action (10 🗂️) — Incohérences internes
 
 | # | Constat | Sévérité |
 |---|---|---|
@@ -46,7 +46,7 @@ Le plan d'action stratégique (J+32, 30 juin 2026) est **structurellement sain**
 | P3 | **J+32 comme date de rédaction** (30 juin). Le plan mentionne la note administrative J+37 (lendemain délai amiable) pour l'assignation 145. Or le délai amiable de 15 jours expire le 14 juillet (J+46), pas J+37. Décalage non expliqué. | **Moyenne** |
 | P4 | **Citation SATI hallucinée** présente dans ce document (JURITEXT000007152625). STATUS Phase 13 dit l'avoir corrigée "dans 12 fichiers" incluant le Plan action. **Vérifier si la correction a bien été propagée dans la version locale.** | **Vérification** |
 
-### 2.2 Calendrier procédural (11 📅) — Lacunes
+### II.2 — 2.2 Calendrier procédural (11 📅) — Lacunes
 
 | # | Constat | Sévérité |
 |---|---|---|
@@ -57,7 +57,7 @@ Le plan d'action stratégique (J+32, 30 juin 2026) est **structurellement sain**
 | C5 | **Audience de référé fixée au 31 juillet** (EVT-18) dans le calendrier, mais **aucune audience n'est réellement fixée** (TODO confirme ❌ NON FAIT). Le calendrier induit en erreur en présentant cette date comme acquise. | **Critique** |
 | C6 | **Absence de mois/jour pour les tokens J+** : calendrier utilise des tokens comme [J+46 Échéance amiable] sans table de correspondance dans le fichier. Impossible de vérifier rapidement sans la TOKEN MAP. | **Moyenne** |
 
-### 2.3 Synthèse des actions (06 📋) — État réaliste
+### II.3 — 2.3 Synthèse des actions (06 📋) — État réaliste
 
 Ce document est le **plus fiable** des 4 analysés : il distingue proprement ce que l'IA a fait (🟩 résolu) de ce que la victime doit faire (🟥). Toutefois :
 
@@ -67,7 +67,7 @@ Ce document est le **plus fiable** des 4 analysés : il distingue proprement ce 
 | S2 | **Huissier** : mentionne "mandater un commissaire de justice pour constat". Aucune action engagée à date. |
 | S3 | **Aide juridictionnelle** : mentionne CERFA n°16146*03 et RFR 3052€. Ce dossier doit être déposé AVANT de mandater un avocat pour optimiser la prise en charge. |
 
-### 2.4 Suivi LRAR (23 📊) — Situation préoccupante
+### II.4 — 2.4 Suivi LRAR (23 📊) — Situation préoccupante
 
 | # | Constat | Sévérité |
 |---|---|---|
@@ -78,7 +78,7 @@ Ce document est le **plus fiable** des 4 analysés : il distingue proprement ce 
 | L5 | **Police et CPAM** : pas d'email renseigné. Ces administrations ont des plateformes de contact numérique. | **Moyenne** |
 | L6 | **Coût total estimé 82,50 €** dont 30 € déjà dépensés (Vague 1) et 52,50 € à dépenser (Vague 2). | **Info** |
 
-### 2.5 TODO.md — Tableau de bord le plus pertinent
+### II.5 — 2.5 TODO.md — Tableau de bord le plus pertinent
 
 Le TODO.md est le **seul document qui reflète la réalité des blocages** :
 
@@ -95,7 +95,7 @@ Le TODO.md est le **seul document qui reflète la réalité des blocages** :
 
 ---
 
-## 3. ANALYSE DES DÉPENDANCES ET CHAÎNAGE CRITIQUE
+## III — ANALYSE DES DÉPENDANCES ET CHAÎNAGE CRITIQUE
 
 ```
                           ┌──────────────────────────┐
@@ -130,7 +130,7 @@ Le TODO.md est le **seul document qui reflète la réalité des blocages** :
 
 **Chaîne critique :** Aide juridictionnelle → Avocat → Assignation Art. 145 → Identification assureur → Action directe / Référé-provision
 
-### Dépendances secondaires
+### III.1 — Dépendances secondaires
 
 | Amont | Aval | Statut |
 |---|---|---|
@@ -141,9 +141,9 @@ Le TODO.md est le **seul document qui reflète la réalité des blocages** :
 
 ---
 
-## 4. RISQUES IDENTIFIÉS
+## IV — RISQUES IDENTIFIÉS
 
-### 4.1 Risques très élevés (probables, impact majeur)
+### IV.1 — 4.1 Risques très élevés (probables, impact majeur)
 
 | # | Risque | Probabilité | Impact | Atténuation |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ Le TODO.md est le **seul document qui reflète la réalité des blocages** :
 | R2 | **LRAR SAS non distribuées** (RNE confirme salon fermé, 0 salarié) | **80%** | Mises en demeure sans effet ; pas de point de départ pour les délais | Assignation directement au siège social + signification à personne morale |
 | R3 | **Audiences de juillet irréalistes** (15/07 et 31/07 dans le calendrier) sans avocat ni dépôt | **100%** | Illusion procédurale — ces dates sont fictives | Reset du calendrier avec dates réelles post-mandatement avocat |
 
-### 4.2 Risques élevés
+### IV.2 — 4.2 Risques élevés
 
 | # | Risque | Probabilité | Impact | Atténuation |
 |---|---|---|---|---|
@@ -159,15 +159,15 @@ Le TODO.md est le **seul document qui reflète la réalité des blocages** :
 | R5 | **Vague 2 LRAR coincée le 14 juillet** (férié) | 100% | Retard de 2 jours (envoi le 15 au lieu du 13) | **Préparer les plis le 13 juillet impérativement** |
 | R6 | **Frais postaux sous-estimés** : LRAR recommandé simple ~7,50 €, mais certains nécessitent AR + contenu multiple (ex : CPAM > 5 pages) | **60%** | Dépassement du budget 82,50 € | Prévoir 100-120 € |
 
-### 4.3 Risques moyens
+### IV.3 — 4.3 Risques moyens
 
 | R7 | **L'exploitant pourrait avoir changé d'assureur** entre la date d'ouverture du salon et l'accident. L'Art. 145 CPC révèle la police en vigueur AU JOUR DE L'ACCIDENT (principe d'antériorité). |
 
 ---
 
-## 5. GAPS DE COHÉRENCE PLAN vs CALENDRIER
+## V — GAPS DE COHÉRENCE PLAN vs CALENDRIER
 
-### Gap 1 — Juillet 2026 : 3 dates incompatibles
+### V.1 — Gap 1 — Juillet 2026 : 3 dates incompatibles
 
 | Document | Date | Problème |
 |---|---|---|
@@ -178,7 +178,7 @@ Le TODO.md est le **seul document qui reflète la réalité des blocages** :
 
 La réalité : **aucune audience n'est fixée.** Les dates du calendrier sont des cibles idéales jamais concrétisées. Ce décalage entre le plan, le calendrier et la réalité est **trompeur** pour la lecture du dossier.
 
-### Gap 2 — Échéance amiable calculée différemment
+### V.2 — Gap 2 — Échéance amiable calculée différemment
 
 - Plan action : mentionne J+37 (lendemain délai amiable) pour l'assignation
 - Calendrier EVT-15 : J+46 (14 juillet) pour l'échéance amiable
@@ -186,17 +186,17 @@ La réalité : **aucune audience n'est fixée.** Les dates du calendrier sont de
 
 Calcul : Mises en demeure envoyées le J+31 (29 juin). Délai amiable de 15 jours → expire le 14 juillet à minuit. L'assignation peut techniquement être délivrée dès le 15 juillet. J+37 (3 juillet) était trop optimiste.
 
-### Gap 3 — Assignation au fond absente du calendrier
+### V.3 — Gap 3 — Assignation au fond absente du calendrier
 
 Le Plan action mentionne "assignation au fond en septembre 2026" et "jugement décembre 2026". Le calendrier ne contient aucun de ces jalons. Il manque les repères stratégiques de la procédure au fond.
 
-### Gap 4 — Expertise UMJ (12 novembre) : unique date ferme
+### V.4 — Gap 4 — Expertise UMJ (12 novembre) : unique date ferme
 
 Seule date réellement fixée et vérifiable. Le calendrier la mentionne à EVT-17 (J+167). C'est le seul ancrage temporel certain du dossier.
 
 ---
 
-## 6. FRISE CHRONOLOGIQUE REELLE vs PLANIFIÉE
+## VI — FRISE CHRONOLOGIQUE REELLE vs PLANIFIÉE
 
 ```
 29/05   Accident
@@ -224,9 +224,9 @@ Seule date réellement fixée et vérifiable. Le calendrier la mentionne à EVT-
 
 ---
 
-## 7. RECOMMANDATIONS D'ORDONNANCEMENT
+## VII — RECOMMANDATIONS D'ORDONNANCEMENT
 
-### Avant le 13 juillet 2026 (URGENT)
+### VII.1 — Avant le 13 juillet 2026 (URGENT)
 
 | # | Action | Dépend de | Effort estimé | Priorité |
 |---|---|---|---|---|
@@ -234,7 +234,7 @@ Seule date réellement fixée et vérifiable. Le calendrier la mentionne à EVT-
 | A2 | **Déposer le dossier d'Aide Juridictionnelle** (CERFA 16146*03) | RFR 3 052 € connu ; brouillon 500 car. prêt | 1h | 🔴 **Critique** |
 | A3 | **Contacter un huissier de justice** pour constat (Art. 145) | Rien | 30 min | 🔴 **Urgent** |
 
-### Avant fin juillet 2026
+### VII.2 — Avant fin juillet 2026
 
 | # | Action | Dépend de | Effort | Priorité |
 |---|---|---|---|---|
@@ -244,14 +244,14 @@ Seule date réellement fixée et vérifiable. Le calendrier la mentionne à EVT-
 | B4 | **Envoyer attestations Cerfa aux témoins** ([pièces 22-24](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%91%20Bordereau%20Unifie.md)) | B1 (emails) | 30 min | 🟡 **Haute** |
 | B5 | **Relancer Dr DJERBI** pour certificat consolidation ([pièce 25](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%91%20Bordereau%20Unifie.md)) | B1 (coordonnées) | 15 min | 🟡 **Haute** |
 
-### Avant novembre 2026
+### VII.3 — Avant novembre 2026
 
 | # | Action | Dépend de | Effort | Priorité |
 |---|---|---|---|---|
 | C1 | **Rassembler dossier médical complet** pour UMJ Purpan | Rien | 2h | 🟡 **Moyenne** |
 | C2 | **Suivre les réponses LRAR** (tous les statuts "En attente") | Temps | 15 min/semaine | 🟡 **Moyenne** |
 
-### Corrections éditoriales à appliquer
+### VII.4 — Corrections éditoriales à appliquer
 
 | # | Fichier | Correction |
 |---|---|---|
@@ -265,7 +265,7 @@ Seule date réellement fixée et vérifiable. Le calendrier la mentionne à EVT-
 
 ---
 
-## 8. TABLEAU DE BORD — ACTIONS IA vs HUMAINES
+## VIII — TABLEAU DE BORD — ACTIONS IA vs HUMAINES
 
 | Type | Action | Statut | Qui |
 |---|---|---|---|
@@ -290,7 +290,7 @@ Seule date réellement fixée et vérifiable. Le calendrier la mentionne à EVT-
 
 ---
 
-## 9. CONCLUSION — VERDICT
+## IX — CONCLUSION — VERDICT
 
 **Le plan d'action est :**
 - ✅ **Bien conçu** : stratégie juridique solide (Art. 145 CPC + référé-provision + action directe L.124-3)
@@ -300,7 +300,7 @@ Seule date réellement fixée et vérifiable. Le calendrier la mentionne à EVT-
 - ⚠️ **Vidéosurveillance très probablement perdue** (délai 30 jours échu)
 - ⚠️ **LRAR SAS NPAI probable** (salon fermé, courrier non réceptionné)
 
-### Ordonnancement recommandé
+### IX.1 — Ordonnancement recommandé
 
 ```
 J0 (13/07) : ▶ Envoyer Vague 2 LRAR (7 courriers) 

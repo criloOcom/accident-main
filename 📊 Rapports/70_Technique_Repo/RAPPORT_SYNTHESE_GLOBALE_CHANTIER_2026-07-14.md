@@ -17,12 +17,12 @@ type: rapport_technique
 
 ---
 
-## 1. RÉSUMÉ DU DOSSIER (1 page)
+## I — RÉSUMÉ DU DOSSIER (1 page)
 
-### Les faits
+### I.1 — Les faits
 Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 ans) est victime d'un accident grave dans le salon de coiffure exploité par **SAS LES MAUVAIS GARCONS** au 22 Rue Lafaurie, 09000 Foix. Le coiffeur (**[Le Préposé de l'Exploitation]**) monte sur la vasque en céramique du bac à shampoing pour régler le poste de télévision. En descendant, son poids provoque le **basculement** de l'équipement. **[La Victime]** tend la main droite par réflexe et heurte une **cassure majeure préexistante** non signalée, subissant une **section nerveuse et tendineuse profonde de l'index droit**. ITT : **56 jours** (29/05 → 23/07/2026).
 
-### Les acteurs
+### I.2 — Les acteurs
 | Rôle | Identité | Localisation |
 |------|----------|-------------|
 | Exploitant | SAS LES MAUVAIS GARCONS (938 033 222) | 22 Rue Lafaurie, Foix — capital 200€ |
@@ -31,7 +31,7 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 | Propriétaire murs | **[Le Propriétaire des Murs]** | Foix |
 | Chirurgien SOS Main | **[Le Chirurgien SOS Main]** | Clinique de l'Union (31) |
 
-### L'enjeu
+### I.3 — L'enjeu
 - Capital social de **200€** — insolvabilité quasi-certaine de la SAS
 - Évaluation Dintilhac : **~85 000 €** (compromis) à **~105 000 €** (optimiste)
 - Voie principale : responsabilité civile (Art. 1240+1242 C.civ.) + action directe (L.124-3 C.assur.)
@@ -40,9 +40,9 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 
 ---
 
-## 2. CE QUI A ÉTÉ FAIT
+## II — CE QUI A ÉTÉ FAIT
 
-### Phase amiable (juin 2026)
+### II.1 — Phase amiable (juin 2026)
 | Action | Date | Statut |
 |--------|------|--------|
 | Mises en demeure LRAR (SAS, Président, DG, Bailleur) | 29/06/2026 | ✅ Distribué / NPAI |
@@ -50,7 +50,7 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 | Transmission plainte Procureur | 29/06/2026 | ✅ Distribué |
 | Transmission CPAM | 30/06/2026 | ✅ AR reçu |
 
-### Préparation juridique (juillet 2026)
+### II.2 — Préparation juridique (juillet 2026)
 - **14 documents** injectés et anonymisés sur Google Drive (Assignation, Plainte, Constitution PC, Analyses juridiques...)
 - **Annexes A+B+C** ajoutées aux 14 documents
 - **3 analyses juridiques externes** intégrées (Glose, 3e analyse, mémoire défense adverse)
@@ -64,7 +64,7 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 - **6 arrêts clés** recherchés et intégrés dans la stratégie jurisprudentielle
 - **Recherche RNE/INPI** : SAS toujours Active — NPAI = salon fermé, pas de structure miroir
 
-### Infrastructure
+### II.3 — Infrastructure
 - Drive CLI fonctionnel (list, upload, download, export, search)
 - MCP bridge Légifrance+Judilibre
 - NotebookLM synchronisé (126 fichiers)
@@ -72,9 +72,9 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 
 ---
 
-## 3. CE QUI RESTE À FAIRE
+## III — CE QUI RESTE À FAIRE
 
-### 🔴 Urgent — Avant le 15 juillet 2026
+### III.1 — 🔴 Urgent — Avant le 15 juillet 2026
 
 | # | Action | Dépend de | Échéance |
 |---|--------|-----------|----------|
@@ -85,7 +85,7 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 | 5 | **Fixer audience référé-provision** (Art. 835 CPC) | Huissier + avocat | **Urgent** |
 | 6 | **Fixer audience Art. 145 CPC** (communication assurance) | Huissier + avocat | **Urgent** |
 
-### 🟡 Important — Juillet-août 2026
+### III.2 — 🟡 Important — Juillet-août 2026
 
 | # | Action | Statut |
 |---|--------|--------|
@@ -96,7 +96,7 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 | 11 | **Préparer dossier Aide Juridictionnelle** (CERFA 16146*03) | ❌ NON FAIT |
 | 12 | **Préparer requête CIVI** (CERFA 16160*01) — voie subsidiaire | ❌ NON FAIT |
 
-### 🟢 Planifié — Novembre 2026
+### III.3 — 🟢 Planifié — Novembre 2026
 
 | # | Action | Date |
 |---|--------|------|
@@ -105,7 +105,7 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 
 ---
 
-## 4. ÉTAT D'AVANCEMENT GLOBAL ESTIMÉ
+## IV — ÉTAT D'AVANCEMENT GLOBAL ESTIMÉ
 
 | Domaine | Avancement | Commentaire |
 |---------|-----------|-------------|
@@ -126,36 +126,36 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 
 ---
 
-## 5. PROCHAINES ÉTAPES RECOMMANDÉES (ordonnées)
+## V — PROCHAINES ÉTAPES RECOMMANDÉES (ordonnées)
 
-### J+0 à J+3 (11-13 juillet 2026)
+### V.1 — J+0 à J+3 (11-13 juillet 2026)
 1. **Imprimer + envoyer les 4 LRAR Vague 1** (URSSAF, CODAF, FGTI, Président TJ) — checklist [fichier 24](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%91%20Bordereau%20Unifie.md)
 2. **Copier-coller l'email Maire Foix** dans Gmail manuellement (OAuth bloqué)
 3. **Noter les N° LRAR** sur la checklist → reporter dans [fichier 23](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%91%20Bordereau%20Unifie.md)
 
-### J+3 à J+7 (13-17 juillet 2026)
+### V.2 — J+3 à J+7 (13-17 juillet 2026)
 4. **Envoyer les 7 LRAR Vague 2** (INPI, Préfecture, SIE, CD, SDIS, Police, CPAM)
 5. **Chercher un huissier** à Foix/Pamiers — demander devis pour constat vasque
 6. **Chercher un avocat** en droit du dommage corporel (barreau de Foix)
 7. **Communiquer les coordonnées des témoins potentiels** à [La Victime] pour envoi attestations Cerfa
 
-### J+7 à J+15 (18-24 juillet 2026)
+### V.3 — J+7 à J+15 (18-24 juillet 2026)
 8. **Déposer assignation référé-provision** + **référé Art. 145 CPC** (par huissier/avocat)
 9. **Relance Dr DJERBI** pour certificat de consolidation
 10. **Vérifier retour AR** des LRAR 29/06 (NPAI confirmé ?)
 
-### Août-septembre 2026
+### V.4 — Août-septembre 2026
 11. **Audience(s) de référé** — obtenir provision + communication assurance
 12. **Préparation dossier Aide Juridictionnelle** (si éligible)
 
-### 12 novembre 2026
+### V.5 — 12 novembre 2026
 13. **UMJ Purpan** — rendez-vous à 13h45 (préparer dossier médical complet)
 
 ---
 
-## 6. POINTS D'ATTENTION CRITIQUES
+## VI — POINTS D'ATTENTION CRITIQUES
 
-### 🔴 Risques majeurs
+### VI.1 — 🔴 Risques majeurs
 
 | Risque | Impact | Probabilité | Atténuation |
 |--------|--------|-------------|-------------|
@@ -166,7 +166,7 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 | **NPAI généralisé** | Toute procédure notifiée impossible | **Avérée** | Assignation par PV huissier (Art. 659 CPC) |
 | **Dissolution frauduleuse** | SAS disparaît avant jugement | **Possible** | Mesures conservatoires (saisie comptes) |
 
-### 🟡 Points de vigilance
+### VI.2 — 🟡 Points de vigilance
 
 - **Délai amiable expire le 14 juillet** → action judiciaire possible dès le 15/07
 - **OAuth Gmail bloqué** (`invalid_grant`) → tous les drafts email doivent être copiés-collés manuellement
@@ -176,26 +176,26 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 
 ---
 
-## 7. RECOMMANDATIONS TRANSVERSALES
+## VII — RECOMMANDATIONS TRANSVERSALES
 
-### Pilotage
+### VII.1 — Pilotage
 - **Basculer en mode judiciaire dès le 15/07** — la phase amiable est terminée sans résultat
 - **Prioriser l'huissier et l'avocat** avant toute autre action — ce sont les deux goulets d'étranglement
 - **Verrouiller les preuves** : constat huissier + recueil d'attestations de témoins potentiels (Cerfa) avant fin juillet
 
-### Stratégique
+### VII.2 — Stratégique
 - **Ne pas miser sur la SAS seule** — capital 200€, dirigeants introuvables, NPAI généralisé
 - **Activer le FGTI/CIVI en parallèle** (Art. 706-3 CPP) — voie de recouvrement la plus réaliste
 - **Maintenir la pression sur les dirigeants** (L.227-8 C.com., L.651-2, banqueroute L.654-6)
 - **Consolider le dossier médical** — le certificat de consolidation est le préalable à l'évaluation définitive
 
-### Documentaire
+### VII.3 — Documentaire
 - **Tenir à jour le [fichier 23](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%91%20Bordereau%20Unifie.md) (Suivi LRAR)** après chaque envoi — le tableau de bord est l'outil de pilotage
 - **Photographier chaque LRAR + PJ** avant dépôt — trace irremplaçable
 - **Scanner et classer les AR** dans le dossier preuves dès réception
 - **Mettre à jour STATUS.md** après chaque action (dernière entrée : 10/07 — Phase 17)
 
-### Technique
+### VII.4 — Technique
 - **Checker `check_consistency.py`** avant chaque commit (0 erreur actuellement)
 - **Vérifier les JURITEXT via MCP Légifrance** avant toute nouvelle citation (protocole strict)
 - **Ne jamais inventer un statut juridique** (rappel : hallucination "liquidation" du 3 juillet)

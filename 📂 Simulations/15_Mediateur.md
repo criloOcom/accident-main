@@ -17,7 +17,7 @@ date: 2026-07-14
 
 ## I — PRÉSENTATION DU DOSSIER ET DE LA MISSION
 
-En ma qualité de Médiateur judiciaire près la Cour d'Appel, j'ai procédé à l'analyse du litige opposant **[La Victime]** à **[L'Exploitant du Commerce (La SAS)]**, prise en la personne de ses dirigeants **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, suite à l'accident corporel survenu le 29 mai 2026 dans les locaux du salon.
+En ma qualité de Médiateur judiciaire près la Cour d'Appel, j'ai procédé à l'analyse du litige opposant **[La Victime]** à **[L'Exploitant du Commerce (La SAS)]**, prise en la personne de ses dirigeants **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, à la suite de l'accident corporel survenu le 29 mai 2026 dans les locaux du salon.
 
 L'objectif de cette note est d'évaluer le potentiel d'une résolution amiable, d'analyser la maturité du conflit et de proposer un cadre transactionnel réaliste au regard du droit de la responsabilité civile et de la réparation du préjudice corporel (Nomenclature Dintilhac).
 

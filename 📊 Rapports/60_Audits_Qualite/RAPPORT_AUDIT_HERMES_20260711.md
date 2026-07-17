@@ -19,7 +19,7 @@ statut: projet
 
 ---
 
-## 1. RÉSUMÉ EXÉCUTIF
+## I — RÉSUMÉ EXÉCUTIF
 
 | Indicateur | Valeur |
 |---|---|
@@ -32,9 +32,9 @@ statut: projet
 
 ---
 
-## 2. DÉTAIL PAR CATÉGORIE
+## II — DÉTAIL PAR CATÉGORIE
 
-### Catégorie 1 — Breadcrumbs (complétude & exactitude)
+### II.1 — Catégorie 1 — Breadcrumbs (complétude & exactitude)
 **Score : 19 / 20**
 
 - ✅ Format canonique `<!-- Breadcrumb -->` / `[🏠](../../README.md)` / `<!-- /Breadcrumb -->` respecté sur **412/413** fichiers.
@@ -42,7 +42,7 @@ statut: projet
 - ✅ Aucun breadcrumb en double détecté.
 - 🔴 **1 anomalie hors périmètre fonctionnel** : `.opencode/anchor.md` (L1 `# Anchor — Accident Main`) — fichier d'agent, pas un document du dossier. À exclure du périmètre ou à doter d'un breadcrumb.
 
-### Catégorie 2 — Liens internes cliquables (références `.md` en texte brut)
+### II.2 — Catégorie 2 — Liens internes cliquables (références `.md` en texte brut)
 **Score : 11 / 20**
 
 - 🟡 **~1095 références à des fichiers `.md` en texte brut** (non liées) détectées hors des balises markdown. Répartition : `README.md` (67), fichiers mémoire/rapports/actes token. Exemples :
@@ -52,7 +52,7 @@ statut: projet
 - ⚪ La plupart sont dans des fichiers de mémoire/rapports (tolérable) mais la consigne exige `[chemin](chemin)`. À convertir pour les fichiers « vivants » (AGENTS.md, README.md, STATUS.md).
 - ⚠️ **Cas des tableaux** : les README de sous-dossiers listent les preuves dans des tableaux — les liens y sont présents mais pointent parfois vers un parent inexistant (voir Cat 4/5).
 
-### Catégorie 3 — YAML frontmatter (conformité)
+### II.3 — Catégorie 3 — YAML frontmatter (conformité)
 **Score : 8 / 20**
 
 - 🔴 **~15 `README.md` de sous-dossiers sans AUCUN frontmatter** (après breadcrumb, le fichier démarre par `# Titre`). Exemples confirmés :
@@ -72,7 +72,7 @@ statut: projet
   - (et les 4 versions `👤 Reel/` correspondantes)
   - → Ces fichiers portent `final` mais gardent `[...]` dans le corps : incohérence avec RULES #15.
 
-### Catégorie 4 — Structure & navigation
+### II.4 — Catégorie 4 — Structure & navigation
 **Score : 10 / 20**
 
 - 🔴 **Dossier `🚦 Status/` EXISTE** (avec `01_PREPARATION.md`, `02_PRET_POUR_ENVOI.md`, `03_ENVOYE.md`) — corrigendum : l'audit initial indiquait à tort « inexistant ». Le vrai défaut : ses 3 index utilisent des **chemins absolus** `/⚖️ Actes/...` au lieu de chemins relatifs `../⚖️ Actes/...`. Résultat : 164 liens morts (voir Cat 5). `README.md` L25 pointe correctement vers `./🚦 Status/README.md`.
@@ -83,7 +83,7 @@ statut: projet
 - 🟡 **13 sous-dossiers de `Preuves officielles/` sans `README.md` parent** : [⚖️ Actes/Preuves officielles/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) n'existe pas, or chaque sous-dossier `…/README.md` pointe vers `../README.md` (parent absent) → 13 liens cassés.
 - ✅ Aucun `## 🔗 Navigation` résiduel détecté (suppression confirmée).
 
-### Catégorie 5 — Liens brisés
+### II.5 — Catégorie 5 — Liens brisés
 **Score : 9 / 20**
 
 **337 liens relatifs cassés** au total. Répartition par source :
@@ -108,7 +108,7 @@ statut: projet
 - 🟡 **4 URLs Légifrance** format `ceta/id/...` (`11+12 … Dintilhac consolidee.md` L265, `12 … Dintilhac détaillée.md` L147, + versions reel) — `ceta` (Conseil d'État) vs `juri` (Cassation) ; à confirmer que l'ID est bien un CETA et non une JURITEXT.
 - ⚪ **453 ancres `#…`** internes : présentes (sommaires), non vérifiées une par une (toléré, mais ~453 cibles à valider si on veut 100 %).
 
-### Catégorie 6 — Propreté générale
+### II.6 — Catégorie 6 — Propreté générale
 **Score : 12 / 20**
 
 - 🟡 **37 fichiers « orphelins »** (non référencés par nom dans aucun autre `.md`) — majoritairement des **rapports d'audit du 11-07** (`RAPPORT_AUDIT_*.md`, `RAPPORT_CORRECTION_*.md`, `RAPPORT_*.md` de méthodologie) + [🧠 Memory/JULES_MCP_GUIDELINES.md](../../%F0%9F%A7%A0%20Memory/JULES_MCP_GUIDELINES.md), `NOTE_SYNTHESE_AVOCAT.md`, `RECADRAGE_NOMENCLATURE.md`, `JUSTIFICATION_PROVISION_15000.md`. La plupart sont des rapports de bord — utiles mais non reliés entre eux. À relier depuis un index ou à archiver.
@@ -118,7 +118,7 @@ statut: projet
 
 ---
 
-## 3. RECOMMANDATIONS (priorisées P0–P3)
+## III — RECOMMANDATIONS (priorisées P0–P3)
 
 **P0 — Correctifs bloquants (intégrité)**
 1. **Dossier `🚦 Status/` existe** — corriger ses 3 index (`01_PREPARATION.md`, `02_PRET_POUR_ENVOI.md`, `03_ENVOYE.md`) : remplacer tous les liens absolus `/⚖️ Actes/...` par des chemins relatifs `../⚖️ Actes/...`. (164 liens dépendent de ça.)
@@ -146,7 +146,7 @@ statut: projet
 
 ---
 
-## 4. MÉTHODOLOGIE & LIMITES
+## IV — MÉTHODOLOGIE & LIMITES
 
 - Scan via script Python read-only (os.walk + regex), périmètre respecté (exclusion `.git`, `.pytest_cache`, `.venv`, `node_modules`, `.opencode`, archives).
 - Résolution des liens : `os.path.normpath` + `urllib.parse.unquote` (gestion des `%20`/accents). Les liens `http(s)://` vers Légifrance/Judilibre ne sont pas résolus réseau (validés sur le format uniquement).

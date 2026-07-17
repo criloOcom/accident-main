@@ -16,7 +16,7 @@ type: rapport
 
 ---
 
-## Résumé exécutif
+## I — Résumé exécutif
 
 | Domaine | Statut | Sévérité |
 |---------|--------|----------|
@@ -31,7 +31,7 @@ type: rapport
 
 ---
 
-## 1. Derniers commits
+## II — Derniers commits
 
 ```
 eda02b9 📋 Fichiers suivi LRAR (23) + checklist envoi 11/07 (24)
@@ -53,7 +53,7 @@ f5a2e64 Adoucir le ton paragraphe CADA dans Email 34
 
 ---
 
-## 2. .gitignore
+## III — .gitignore
 
 **Fichier** : `.gitignore` (créé dès le commit initial)
 
@@ -83,7 +83,7 @@ venv/
 
 ---
 
-## 3. Pre-commit hook
+## IV — Pre-commit hook
 
 **Fichier** : `.git/hooks/pre-commit`
 
@@ -105,9 +105,9 @@ SCRIPT=".dev/app/audit_readme_integrity.py"
 
 ---
 
-## 4. 🔴 Fichiers sensibles dans l'historique
+## V — 🔴 Fichiers sensibles dans l'historique
 
-### 🔴 CRITIQUE : Token GitHub exposé
+### V.1 — 🔴 CRITIQUE : Token GitHub exposé
 
 **Emplacement** : `.git/config` (remote origin URL)
 ```ini
@@ -136,7 +136,7 @@ https://criloOcom:[REVOKED_TOKEN]@github.com
    Ou mieux : utiliser un **GitHub CLI** (`gh auth login`) qui gère l'auth via OAuth device flow
 4. Chiffrer `~/.git-credentials` ou utiliser un gestionnaire de secrets système
 
-### Autres fichiers suivis
+### V.2 — Autres fichiers suivis
 
 - `.dev/.env.example` — **OK** (template, pas de secrets réels)
 - `reports/audit/audit_tokenisation_residuelle.md` — **OK** (rapport RGPD, pas de secrets)
@@ -144,7 +144,7 @@ https://criloOcom:[REVOKED_TOKEN]@github.com
 
 ---
 
-## 5. Taille du repository
+## VI — Taille du repository
 
 | Métrique | Valeur |
 |----------|--------|
@@ -164,7 +164,7 @@ https://criloOcom:[REVOKED_TOKEN]@github.com
 
 ---
 
-## 6. README.md
+## VII — README.md
 
 **Fichier** : `README.md` (164 lignes)
 
@@ -182,16 +182,16 @@ https://criloOcom:[REVOKED_TOKEN]@github.com
 
 ---
 
-## 7. Problèmes et recommandations
+## VIII — Problèmes et recommandations
 
-### 🔴 CRITIQUE — Fuite de token GitHub
+### VIII.1 — 🔴 CRITIQUE — Fuite de token GitHub
 
 | Problème | Impact | Remédiation |
 |----------|--------|-------------|
 | Token `ghp_[...]` (classic) en clair dans `.git/config` | Exposé à tout `git remote -v` | Révoquer + remplacer par fine-grained + credential helper |
 | Token dupliqué dans `~/.git-credentials` | Visible tout processus système | Supprimer ou chiffrer le fichier |
 
-### 🟡 ÉLEVÉ — Pollution de branches
+### VIII.2 — 🟡 ÉLEVÉ — Pollution de branches
 
 | Problème | Impact | Remédiation |
 |----------|--------|-------------|
@@ -199,13 +199,13 @@ https://criloOcom:[REVOKED_TOKEN]@github.com
 | 100+ branches distantes orphelines | Encombrement remote, PRs mortes | Nettoyer : `git push origin --delete` |
 | Stash orphelin `jules/M06-...` | Perte de contexte | Review + apply ou drop |
 
-### 🟡 MOYEN — Duplication de répertoires
+### VIII.3 — 🟡 MOYEN — Duplication de répertoires
 
 | Problème | Impact | Remédiation |
 |----------|--------|-------------|
 | `reports/` ET [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) | Ambiguïté, fragmentation | Fusionner dans [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) ou décider d'un seul standard |
 
-### 🟢 AMÉLIORATIONS SOUHAITABLES
+### VIII.4 — 🟢 AMÉLIORATIONS SOUHAITABLES
 
 | Domaine | Recommandation |
 |---------|---------------|
@@ -217,6 +217,6 @@ https://criloOcom:[REVOKED_TOKEN]@github.com
 
 ---
 
-## Conclusion
+## IX — Conclusion
 
 Le repository est **bien structuré**, avec une convention de commits claire, un README excellent, et un hook pre-commit actif. La menace principale est la **fuite du token GitHub** en clair dans la configuration Git — une action immédiate est requise. La pollution de branches (héritage des sessions Jules) et la duplication de dossiers rapports sont des problèmes de maintenance à traiter en priorité secondaire.

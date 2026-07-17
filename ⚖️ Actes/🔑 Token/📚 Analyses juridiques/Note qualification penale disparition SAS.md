@@ -14,7 +14,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/Note qualification penale di
 
 **Dossier :** [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) c/ [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 **Rédacteur :** [**[Nom de l'Avocat de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-avocat-nom.md)
-## INTRODUCTION
+## I — INTRODUCTION
 
 La présente note vise à analyser les qualifications pénales applicables dans l'hypothèse où [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) procéderaient à la liquidation, la dissolution ou la cession des actifs de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (dont le [**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md)) dans le but d'échapper au paiement des condamnations civiles à intervenir au profit de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md).
 
@@ -27,7 +27,7 @@ La présente note vise à analyser les qualifications pénales applicables dans 
 3. La banqueroute par dissimulation d'actifs
 <hr><hr>
 
-## I — ORGANISATION FRAUDULEUSE D'INSOLVABILITÉ
+## II — ORGANISATION FRAUDULEUSE D'INSOLVABILITÉ
 
 **Fondement** : [Article 314-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226)[^1]
 
@@ -47,7 +47,7 @@ L'article 314-7 du Code pénal permet expressément d'appréhender le comporteme
 > **Code pénal > Section 3 : De l'organisation frauduleuse de l'insolvabilité.[^1]**
 <hr><hr>
 
-## II — ESCROQUERIE
+## III — ESCROQUERIE
 
 **Fondement** : [Article 313-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418192)[^2]
 
@@ -63,7 +63,7 @@ Dans l'hypothèse où une nouvelle société serait créée par [**[Le Présiden
 Le montage juridique consistant à recréer une entité miroir (même activité, même clientèle, mêmes dirigeants) pour transférer frauduleusement le fonds de commerce, tout en laissant la coquille vide [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) faire face aux dettes indemnitaires, constitue une manœuvre frauduleuse. Cette manœuvre visant à tromper les créanciers (ici, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)) pour obtenir une décharge d'obligation caractérise le délit d'escroquerie, puni de 5 ans d'emprisonnement et 375 000 € d'amende.
 <hr><hr>
 
-## III — BANQUEROUTE PAR DISSIMULATION D'ACTIFS
+## IV — BANQUEROUTE PAR DISSIMULATION D'ACTIFS
 
 **Fondement** : [Article L.654-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984472)[^3] (et suivants)
 
@@ -73,13 +73,13 @@ Le montage juridique consistant à recréer une entité miroir (même activité,
 > Code de commerce[^3] <br>
 
 **Problématique :**
-L'ouverture d'une procédure de liquidation ou de redressement judiciaire suite à l'insolvabilité provoquée de la SAS.
+L'ouverture d'une procédure de liquidation ou de redressement judiciaire à la suite de l'insolvabilité provoquée de la SAS.
 
 **Argumentation :**
 Si [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) fait l'objet d'une procédure collective, les actes de dissipation du patrimoine social accomplis par [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) ou [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) tomberont sous le coup des dispositions relatives à la banqueroute. La dissimulation d'actifs, le détournement ou l'emploi ruineux des fonds sociaux (notamment en fuyant le passif) justifieront un signalement au Procureur de la République.
 <hr><hr>
 
-## CONCLUSION
+## V — CONCLUSION
 
 La faiblesse du [**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) impose une vigilance extrême. Si la société vient à disparaître ou à être vidée de sa substance, une plainte avec [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) devra être déposée entre les mains du Doyen des juges d'instruction ou directement au Parquet, ciblant personnellement [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
 <hr><hr>

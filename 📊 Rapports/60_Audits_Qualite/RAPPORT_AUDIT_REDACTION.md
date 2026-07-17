@@ -17,7 +17,7 @@ type: rapport
 
 ---
 
-## SYNTHÈSE EXÉCUTIVE
+## I — SYNTHÈSE EXÉCUTIVE
 
 | Critère | Appréciation | Détail |
 |---|---|---|
@@ -32,9 +32,9 @@ type: rapport
 
 ---
 
-## 1. FAUTES RÉCURRENTES
+## II — FAUTES RÉCURRENTES
 
-### 1.1 Accentuation — 🔴 PROBLÈME SYSTÉMATIQUE
+### II.1 — 1.1 Accentuation — 🔴 PROBLÈME SYSTÉMATIQUE
 
 Tous les documents en version Token perdent systématiquement les accents français. C'est une conséquence du script de tokenisation — mais cela rend les textes incorrects en français.
 
@@ -65,7 +65,7 @@ Tous les documents en version Token perdent systématiquement les accents franç
 
 **Recommandation :** Le script `batch_anonymize.py` devrait soit conserver les accents, soit ajouter une étape de ré-accentuation après tokenisation.
 
-### 1.2 Véritables coquilles (non liées aux accents)
+### II.2 — 1.2 Véritables coquilles (non liées aux accents)
 
 | Fichier | Erreur | Correction | Ligne | Gravité |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ Tous les documents en version Token perdent systématiquement les accents franç
 | 13 Responsabilites legales | `d'une particularité gravité` | `d'une particulière gravité` | 80 | 🔴 Cohérence accord |
 | 03 SAS | `Je me permets de vous adresser...` après `Je vous prie` — rupture ton | Harmoniser | 69-83 | 🟡 Ton |
 
-### 1.3 Références internes brisées
+### II.3 — 1.3 Références internes brisées
 
 Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../../📜 Lois/XXX.md` qui pointent vers des fichiers qui existent dans [📜 Lois](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) — MAIS le chemin relatif depuis `🔑 Token/📚 Analyses juridiques/` vers [📜 Lois](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) est `../../../📜 Lois/`, pas `../../📜 Lois/`.
 
@@ -90,9 +90,9 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 
 ---
 
-## 2. ANALYSE PAR DOCUMENT
+## III — ANALYSE PAR DOCUMENT
 
-### 2.1 03 — Courrier SAS (`✉️ Courriers/✉️📜 SAS.md`)
+### III.1 — 2.1 03 — Courrier SAS (`✉️ Courriers/✉️📜 SAS.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -103,7 +103,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents (voir 1.1). La section "Transparence" (l.87-109) donne l'impression que la victime explique la procédure à la SAS — peut affaiblir la position de force d'une mise en demeure |
 
-### 2.2 10 — Doyen des Juges d'Instruction (`✉️ Courriers/✉️⚖️ Doyen Juges Instruction Saisine.md`)
+### III.2 — 2.2 10 — Doyen des Juges d'Instruction (`✉️ Courriers/✉️⚖️ Doyen Juges Instruction Saisine.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -114,7 +114,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟡 N° PV en `[ ... ]` (l.47) alors que d'autres docs utilisent `**[N° PV Police]**` — incohérence |
 | Problèmes | Accents absents. Token PV non standardisé |
 
-### 2.3 12 — Courrier URSSAF (`✉️ Courriers/✉️🚨 URSSAF.md`)
+### III.3 — 2.3 12 — Courrier URSSAF (`✉️ Courriers/✉️🚨 URSSAF.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -125,7 +125,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents (voir 1.1). "response" au lieu de "réponse" |
 
-### 2.4 14 — Courrier CODAF (`✉️ Courriers/✉️🚨 CODAF.md`)
+### III.4 — 2.4 14 — Courrier CODAF (`✉️ Courriers/✉️🚨 CODAF.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -136,7 +136,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents. "response" (l.105). `Article L.310-1-1-2` — vérifier que ce texte existe (loi 2024-364 du 22 avril 2024) |
 
-### 2.5 19 — Courrier FGTI (`✉️ Courriers/✉️⚖️ FGTI Saisine.md`)
+### III.5 — 2.5 19 — Courrier FGTI (`✉️ Courriers/✉️⚖️ FGTI Saisine.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -147,7 +147,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents. "response". La grille indemnitaire en corps de texte alourdit inutilement le premier contact |
 
-### 2.6 33 — Requête Constat Huissier 145 CPC (`✉️ Courriers/🗄️ Requete Constat Huissier.md`)
+### III.6 — 2.6 33 — Requête Constat Huissier 145 CPC (`✉️ Courriers/🗄️ Requete Constat Huissier.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -159,7 +159,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🔴 l.39 : `**[Adresse du TJ à compléter]**` — token non standard, devrait être uniforme |
 | Problèmes | Accents absents. Absence du formalisme "PAR CES MOTIFS". Token cassé |
 
-### 2.7 34 — Email Maire Foix (`✉️ Courriers/✉️📝 Mairie Tavella ERP.md`)
+### III.7 — 2.7 34 — Email Maire Foix (`✉️ Courriers/✉️📝 Mairie Tavella ERP.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -170,7 +170,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🔴 **Incohérent** — utilise "29 mai 2026" (date réelle, l.22) mais `**[J+0 Accident]**` ailleurs ; utilise "1er juin 2026" (l.24, l.25) au lieu de token |
 | Problèmes | Trop long pour un email. Dates réelles mélangées aux tokens. La demande (CRPA l.29) est noyée dans le récit |
 
-### 2.8 35 — Courrier Président TJ Foix (`✉️ Courriers/✉️⚖️ TJ Foix Preuves Complementaires.md`)
+### III.8 — 2.8 35 — Courrier Président TJ Foix (`✉️ Courriers/✉️⚖️ TJ Foix Preuves Complementaires.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -181,7 +181,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🔴 **Incohérent** — utilise "29 mai 2026" et "12 juillet 2026" (dates réelles, l.35, l.57) au lieu de `**[J+0 Accident]**` |
 | Problèmes | Accents absents. Dates réelles au lieu de tokens |
 
-### 2.9 07 — Plaidoirie dirigeants (`📚 Analyses juridiques/🎤 Plaidoirie Responsabilite Dirigeants.md`)
+### III.9 — 2.9 07 — Plaidoirie dirigeants (`📚 Analyses juridiques/🎤 Plaidoirie Responsabilite Dirigeants.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -192,7 +192,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents. Quelques § très longs sans aération (ex. l.75-82) |
 
-### 2.10 13 — Responsabilités légales (`📚 Analyses juridiques/📜 Analyse Responsabilites Legales.md`)
+### III.10 — 2.10 13 — Responsabilités légales (`📚 Analyses juridiques/📜 Analyse Responsabilites Legales.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -203,7 +203,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | 🔴 **2 coquilles véritables** : "délins" → "délits" (l.60) ; "particularité gravité" → "particulière gravité" (l.80). Section IV présente mais sans titre dans la TDM |
 
-### 2.11 14 — Stratégie jurisprudentielle (`📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md`)
+### III.11 — 2.11 14 — Stratégie jurisprudentielle (`📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -216,7 +216,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 
 ---
 
-## 3. STATISTIQUES GLOBALES
+## IV — STATISTIQUES GLOBALES
 
 | Métrique | Valeur |
 |---|---|
@@ -231,9 +231,9 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 
 ---
 
-## 4. RECOMMANDATIONS PRIORITAIRES
+## V — RECOMMANDATIONS PRIORITAIRES
 
-### 🔴 Priorité 1 — Correctifs bloquants
+### V.1 — 🔴 Priorité 1 — Correctifs bloquants
 
 1. **Corriger les liens relatifs dans le document 14** (`../../📜 Lois/` → `../../../📜 Lois/`)
 2. **Uniformiser les tokens dates dans les documents 34 et 35** — remplacer "29 mai 2026" par `**[J+0 Accident]**`
@@ -241,7 +241,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 4. **Corriger les coquilles dans le document 13** ("délins" → "délits" ; "particularité gravité" → "particulière gravité")
 5. **Uniformiser le token PV** : choisir entre `**[N° PV Police]**` et `[ ... ]` et appliquer partout
 
-### 🟡 Priorité 2 — Améliorations recommandées
+### V.2 — 🟡 Priorité 2 — Améliorations recommandées
 
 6. **Ajouter une étape de ré-accentuation** dans le pipeline de tokenisation (`batch_anonymize.py`) ou dans le script de génération des versions réelles
 7. **Raccourcir l'email 34** : 15 lignes max, avec la demande (CRPA) dès les premières lignes
@@ -249,7 +249,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 9. **Ajouter "PAR CES MOTIFS"** avant la section IV du document 33
 10. **Supprimer la section "Transparence" du document 03** ou la fondre dans les conséquences — elle affaiblit le ton comminatoire
 
-### 🟢 Priorité 3 — Bonnes pratiques
+### V.3 — 🟢 Priorité 3 — Bonnes pratiques
 
 11. **Uniformiser les formules de politesse** dans les documents Token — actuellement "considération distinguée" varie parfois
 12. **Ajouter des références croisées inter-documents** dans les courriers (quand c'est pertinent)
@@ -259,7 +259,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 
 ---
 
-## 5. TABLEAU DE CONFORMITÉ PAR DOCUMENT
+## VI — TABLEAU DE CONFORMITÉ PAR DOCUMENT
 
 | Doc | Ortho | Grammaire | Ton | Structure | Longueur | Clarté jur. | Tokens | Style |
 |---|---|---|---|---|---|---|---|---|
@@ -279,7 +279,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 
 ---
 
-## 6. CONCLUSION GÉNÉRALE
+## VII — CONCLUSION GÉNÉRALE
 
 La qualité rédactionnelle globale est **bonne** : le style juridique est maîtrisé, les références législatives sont précises et bien intégrées, le ton est adapté à chaque destinataire.
 

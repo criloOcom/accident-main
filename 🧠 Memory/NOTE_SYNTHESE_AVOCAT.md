@@ -17,7 +17,7 @@ type: memory
 
 **Quoi :** Accident corporel survenu le 29 mai 2026. Lésions graves à la main droite (section partielle du tendon fléchisseur, du paquet collatéral et nécessité d'une neurolyse du nerf palmaire de l'index droit).
 **Contre qui :** SAS LES MAUVAIS GARÇONS (exploitante du commerce) ainsi que ses dirigeants agissant à titre personnel (faute détachable).
-**Où en est-on :** La phase amiable s'est clôturée le 14 juillet 2026 suite à des mises en demeure restées infructueuses. Une assignation en référé est initiée (audience à fixer).
+**Où en est-on :** La phase amiable s'est clôturée le 14 juillet 2026 à la suite de des mises en demeure restées infructueuses. Une assignation en référé est initiée (audience à fixer).
 **Montant total estimé des préjudices :** ~90 000 €
 
 <hr><hr>

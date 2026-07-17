@@ -28,9 +28,9 @@ type: rapport
 
 ---
 
-## 1. Inventaire du Dossier 📜 Lois
+## I — Inventaire du Dossier 📜 Lois
 
-### Structure Actuelle
+### I.1 — Structure Actuelle
 
 Le dossier [📜 Lois](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) contient **92 fichiers** organisés comme suit :
 
@@ -39,9 +39,9 @@ Le dossier [📜 Lois](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/REA
 - **1 fichier** README.md
 - **1 dossier** `pdfs/` contenant des documents originaux
 
-### Catégories Principales
+### I.2 — Catégories Principales
 
-#### A. Jurisprudence (Cour de cassation)
+#### I.2.a — Jurisprudence (Cour de cassation)
 
 | N° Pourvoi | Fichier | Thème Principal |
 |------------|---------|------------------|
@@ -71,7 +71,7 @@ Le dossier [📜 Lois](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/REA
 
 **Total jurisprudence : 24/24 fichiers présents** ✅
 
-#### B. Articles de Code
+#### I.2.b — Articles de Code
 
 **Code civil :**
 - ✅ Article 1240 (LEGIARTI000032041571)
@@ -133,27 +133,27 @@ Le dossier [📜 Lois](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/REA
 
 ---
 
-## 2. Références Juridiques Citées dans les Actes
+## II — Références Juridiques Citées dans les Actes
 
-### Analyse par Catégorie
+### II.1 — Analyse par Catégorie
 
-#### A. Références Légifrance (LEGIARTI)
+#### II.1.a — Références Légifrance (LEGIARTI)
 
 **Total identifié : 45 références uniques**
 
 **Présentes dans 📜 Lois : 30/45 (66.7%)**
 **Manquantes : 15/45 (33.3%)**
 
-#### B. Jurisprudence Citée
+#### II.1.b — Jurisprudence Citée
 
 **Total identifié : 24 arrêts uniques**
 **Tous présents dans 📜 Lois : 24/24 (100%)** ✅
 
 ---
 
-## 3. Analyse Comparative
+## III — Analyse Comparative
 
-### Tableau Synoptique
+### III.1 — Tableau Synoptique
 
 | Catégorie | Citées | Présentes | Taux | Statut |
 |-----------|--------|-----------|------|--------|
@@ -161,9 +161,9 @@ Le dossier [📜 Lois](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/REA
 | **Jurisprudence** | 24 | 24 | 100% | ✅ Complète |
 | **Total général** | 69 | 54 | 78.3% | ⚠️ Améliorable |
 
-### Détail des Écarts
+### III.2 — Détail des Écarts
 
-#### Lois Manquantes (15/45) :
+#### III.2.a — Lois Manquantes (15/45) :
 
 1. **Code de procédure pénale** :
    - Article 706-3 (LEGIARTI000006577625)
@@ -193,9 +193,9 @@ Le dossier [📜 Lois](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/REA
 
 ---
 
-## 4. Lois Manquantes Identifiées
+## IV — Lois Manquantes Identifiées
 
-### Liste Détaillée avec Priorité
+### IV.1 — Liste Détaillée avec Priorité
 
 | Priorité | Article | Code | LEGIARTI | Utilisation | Fichiers concernés |
 |----------|---------|------|----------|-------------|-------------------|
@@ -216,28 +216,28 @@ Le dossier [📜 Lois](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/REA
 
 ---
 
-## 5. Recommandations
+## V — Recommandations
 
-### A. Actions Immédiates (Priorité Haute)
+### V.1 — Actions Immédiates (Priorité Haute)
 
 1. **Ajouter les 4 articles de code pénal et procédure pénale** utilisés dans les signalements et plaintes
 2. **Ajouter les 2 articles du CGCT** utilisés dans la correspondance avec la mairie
 3. **Créer un script de vérification automatique** pour détecter les nouvelles références manquantes
 
-### B. Actions Secondaires (Priorité Moyenne)
+### V.2 — Actions Secondaires (Priorité Moyenne)
 
 1. **Compléter avec les articles de code de commerce** liés à l'immatriculation
 2. **Ajouter les articles de procédure fiscale** pour la correspondance administrative
 3. **Intégrer les articles de code du travail** pour la plainte complémentaire
 
-### C. Améliorations Structurelles
+### V.3 — Améliorations Structurelles
 
 1. **Créer des sous-dossiers par code** pour une meilleure organisation
 2. **Ajouter un index complet** dans le README.md avec toutes les références
 3. **Automatiser la génération** des fichiers de loi via les MCP Légifrance
 4. **Ajouter des métadonnées** dans chaque fichier (date, code, thème, utilisation)
 
-### D. Processus de Maintenance
+### V.4 — Processus de Maintenance
 
 1. **Vérification avant chaque commit** via un script pre-commit
 2. **Mise à jour mensuelle** des références juridiques
@@ -246,9 +246,9 @@ Le dossier [📜 Lois](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/REA
 
 ---
 
-## 6. Conclusion
+## VI — Conclusion
 
-### Bilan Global
+### VI.1 — Bilan Global
 
 ✅ **Points forts :**
 - **100% de couverture** pour la jurisprudence (24/24 arrêts présents)
@@ -261,7 +261,7 @@ Le dossier [📜 Lois](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/REA
 - **4 articles prioritaires** pour les procédures en cours
 - **Besoin d'automatisation** pour maintenir la synchronisation
 
-### Taux de Complétude Global : **78.3%**
+### VI.2 — Taux de Complétude Global : **78.3%**
 
 **Recommandation finale :** Ajouter les 15 articles manquants en commençant par les 6 de priorité haute/moyenne, puis mettre en place un processus automatisé pour éviter les écarts futurs.
 

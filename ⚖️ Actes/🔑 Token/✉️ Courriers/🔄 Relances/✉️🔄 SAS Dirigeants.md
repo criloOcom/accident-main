@@ -55,7 +55,7 @@ Seuls le bailleur, le tribunal judiciaire de [**[La Ville de l'Accident]**](../.
 
 Je conçois que la fermeture soudaine et la réorganisation de votre établissement aient pu perturber le traitement de vos correspondances. Je reste disponible pour un échange téléphonique direct afin de clarifier la situation sereinement.
 
-### Préservation des preuves et vidéosurveillance
+### I.1 — Préservation des preuves et vidéosurveillance
 
 J'ai constaté que votre salon de coiffure a fermé ses portes immédiatement après l'accident du [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) pour ne rouvrir que le **[DATE REOUVERTURE BOUTIQUE]**. 
 
@@ -99,7 +99,7 @@ Cette démarche a pour but de déclarer le sinistre et de permettre un règlemen
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^2]**
 
-### Signalements administratifs
+### II.1 — Signalements administratifs
 
 Compte tenu de la gravité de l'accident et des manquements flagrants à l'obligation de sécurité des locaux, je me réserve le droit de procéder à des signalements auprès de l'Inspection du travail (DREETS - article L. 4121-1 du Code du travail) et de la commission de sécurité des ERP.
 
@@ -135,7 +135,7 @@ je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président,
 ## IV — ANNEXE JURIDIQUE — EXTRAIT DES TEXTES APPLICABLES
 <hr><hr>
 
-### Annexe 1 : Entrave à la manifestation de la vérité
+### IV.1 — Annexe 1 : Entrave à la manifestation de la vérité
 
 **Article 434-4 du Code pénal (version en vigueur au 29 mai 2026)** :
 
@@ -144,14 +144,14 @@ je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président,
 > **Code pénal > Section 1 : Des entraves à la saisine de la justice.[^1]**
 <hr><hr>
 
-### Annexe 2 : Responsabilité personnelle des dirigeants de SAS
+### IV.2 — Annexe 2 : Responsabilité personnelle des dirigeants de SAS
 
-La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l'égard des tiers pour faute détachable de leurs fonctions, caractérisée par un manquement délibéré d'une particulière gravité (renvois des articles L. 227-1, L. 227-8 et L. 225-251 du Code de commerce).
+La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l'égard des tiers pour faute détachable de leurs fonctions, caractérisée par un manquement délibéré d'une particulière gravité (renvois des articles L. 227-1 et L. 227-8 du Code de commerce).
 **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092 (arrêt SATI)** :
 > *« La faute du dirigeant social, même lorsqu'elle est commise dans l'exercice de ses fonctions, est séparable de celles-ci lorsqu'elle constitue un manquement délibéré à ses obligations et engage sa responsabilité personnelle. »* <br>
 <hr><hr>
 
-### Annexe 3 : Mesures d'instruction in futurum (avant tout procès)
+### IV.3 — Annexe 3 : Mesures d'instruction in futurum (avant tout procès)
 
 **Article 145 du Code de procédure civile** :
 

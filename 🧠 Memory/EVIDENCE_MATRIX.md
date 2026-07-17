@@ -53,7 +53,7 @@ Ce document répertorie l'ensemble des preuves acquises et à obtenir dans le ca
 | N° | Preuve | Action requise | Responsable | Urgence | Difficulté |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | OBT-01 | Témoignages des autres clients (Attestations Cerfa) | Relancer les personnes présentes dans le salon lors de l'accident pour obtenir des formulaires Cerfa d'attestation de témoin. | **[La Victime]** / Avocat | Haute | Moyenne (Identification complexe) |
-| OBT-02 | Vidéosurveillance de l'accident | Demander formellement aux services de police (suite à la plainte) la réquisition et la saisie des images de la journée du 29/05/2026. | Procureur / Police | Haute | Moyenne (Risque d'effacement automatique) |
+| OBT-02 | Vidéosurveillance de l'accident | Demander formellement aux services de police (à la suite de la plainte) la réquisition et la saisie des images de la journée du 29/05/2026. | Procureur / Police | Haute | Moyenne (Risque d'effacement automatique) |
 | OBT-03 | Constat d'huissier du bac à shampoing défectueux | Mandater l'Étude LAPORTE pour dresser un procès-verbal de constat du matériel, avant remplacement ou réparation. | **[La Victime]** / Huissier | Haute | Moyenne (Risque de disparition de la preuve matérielle) |
 | OBT-04 | Attestation d'Assurance RC Pro | Poursuivre les démarches judiciaires (Article 145 CPC / Référé) pour forcer la production de la police d'assurance sous astreinte. | **[La Victime]** / Avocat | Haute | Faible (Sous contrainte judiciaire) |
 | OBT-05 | Certificat de consolidation | Solliciter **[Le Chirurgien SOS Main]** pour l'établissement d'un certificat médical de consolidation, indispensable pour l'évaluation DFP. | **[La Victime]** | Moyenne | Faible (Dépend du temps médical) |

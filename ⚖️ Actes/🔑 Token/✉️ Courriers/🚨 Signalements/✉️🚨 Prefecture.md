@@ -41,7 +41,7 @@ Objet : Confirmation officielle de signalement — Accident du [**[J+0 Accident]
 Ref : Signalement effectué par la Mairie de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) le 1er juin 2026
 
 Madame, Monsieur le Préfet,
-## INTRODUCTION
+## I — INTRODUCTION
 
 La présente est adressée à vos services par [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sise [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
 
@@ -50,7 +50,7 @@ Cet accident a été causé par le **basculement** de la vasque en céramique du
 Cette blessure a entraîné une plaie palmaire profonde de la main droite avec section partielle du tendon fléchisseur superficiel (FDP) et du paquet vasculo-nerveux collatéral radial de l'index, ayant nécessité une neurolyse du nerf palmaire et une microchirurgie d'urgence en SOS Main le 30 mai 2026. Les séquelles fonctionnelles sont importantes et durablement invalidantes (ITT de 56 jours, consolidation au 1er mars 2027, DFP de 12 %, souffrances endurées 4/7, incidence professionnelle majeure — cf. rapport d'expertise médicale du 29 mai 2027).
 <hr><hr>
 
-## I — RAPPEL DES FAITS
+## II — RAPPEL DES FAITS
 
 Le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), le préposé de l'exploitation est monté sur la vasque en céramique du bac à shampoing pour accéder au poste de télévision, en l'absence de tout équipement d'accès adapté (escabeau, marchepied) mis à disposition par l'employeur. Sous son poids, la vasque — déjà instable et fragilisée par une **cassure majeure préexistante non signalée** — a basculé violemment. Ma main droite, tendue par réflexe pour protéger le préposé, a heurté cette cassure, entraînant des lésions graves ayant nécessité une microchirurgie d'urgence en SOS Main.
 
@@ -59,7 +59,7 @@ Le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%
 **Cet accident révèle de multiples manquements aux règles de sécurité applicables aux établissements recevant du public (ERP) et au Code du travail.**
 <hr><hr>
 
-## II — PROCÉDURES EN COURS
+## III — PROCÉDURES EN COURS
 
 Plusieurs procédures ont été engagées à ce jour :
 
@@ -88,7 +88,7 @@ Plusieurs procédures ont été engagées à ce jour :
 10. **Procédure de référé provision** (J+63) : assignation à jour fixe (art. 145 CPC), provision de 15 000 € sollicitée
 <hr><hr>
 
-## III — SIGNALEMENTS TRANSMIS
+## IV — SIGNALEMENTS TRANSMIS
 
 Il m'a été indiqué par la Mairie de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) le 1er juin 2026 qu'un signalement avait été effectué auprès de vos services et du CODAF. Je sollicite par la présente confirmation que ce signalement a bien été reçu et instruit par vos services, et souhaite être tenu informé des suites qui lui sont réservées.
 
@@ -111,7 +111,7 @@ Je porte par ailleurs à votre connaissance les manquements suivants, constatés
 - Travail dissimulé présumé
 <hr><hr>
 
-## IV — DEMANDE DE CONFIRMATION ET DE SUITE
+## V — DEMANDE DE CONFIRMATION ET DE SUITE
 
 Je sollicite de vos services :
 

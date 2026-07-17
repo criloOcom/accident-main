@@ -89,7 +89,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 - Éventuellement, décision d'indemnisation ou de refus d'indemnisation d'un organisme tiers.
 <hr><hr>
 
-## VII — RECOMMANDATION FINALE : Y ALLER OU PAS ?
+## VI — RECOMMANDATION FINALE : Y ALLER OU PAS ?
 
 **Recommandation : OUI, la voie CIVI/FGTI est incontournable en cas d'insolvabilité de la SAS.**
 

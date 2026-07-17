@@ -45,7 +45,7 @@ BP 60023
 Réf : SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)  
 
 Madame, Monsieur le Président du Conseil Départemental,  
-## INTRODUCTION
+## I — INTRODUCTION
 
 La présente lettre a pour objet de vous informer de la situation de dangerosité matérielle et de non-conformité grave constatée au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), situé [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md). Elle fait suite à un accident corporel grave dont j'ai été victime le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md).
 
@@ -54,7 +54,7 @@ Cet accident a été causé par la chute brutale du préposé de l'exploitation 
 Conscient que les pouvoirs de police spéciale relatifs à la sécurité et à la fermeture des ERP appartiennent au Maire de la commune ainsi qu'au Préfet de département, je sollicite de votre haute bienveillance le relais de ce signalement auprès des services de sécurité compétents (notamment la Commission Collégiale Départementale de Sécurité et d'Accessibilité - CCDSA).
 <hr><hr>
 
-## I — RAPPEL DES FAITS
+## II — RAPPEL DES FAITS
 
 Le salon de coiffure constitue un Établissement Recevant du Public (ERP) de 5e catégorie, soumis aux obligations de sécurité contre les risques d'incendie et de panique. L'accident survenu met en lumière des risques structurels et des manquements aux règles de sécurité applicables :
 
@@ -65,7 +65,7 @@ Un poste de télévision est installé en hauteur de manière inaccessible, néc
 Le bac à shampoing en céramique, instable et présentant une cassure préexistante majeure, a basculé sous le poids du préposé. En se brisant, il a exposé des arêtes tranchantes qui ont causé de graves lésions à ma main droite.
 <hr><hr>
 
-## II — NON-CONFORMITÉS CONSTATÉES
+## III — NON-CONFORMITÉS CONSTATÉES
 
 Les faits portés à votre connaissance sont susceptibles de caractériser des manquements aux obligations de sécurité incombant à l'exploitant d'un ERP, conformément à la réglementation applicable aux établissements recevant du public issue du Code de la construction et de l'habitation et du règlement de sécurité contre l'incendie et la panique :
 
@@ -74,7 +74,7 @@ Les faits portés à votre connaissance sont susceptibles de caractériser des m
 2. **Défaut de maintenance des installations** : Maintien à la disposition du public et du personnel d'un bac en céramique instable et présentant des dommages préexistants non réparés.
 <hr><hr>
 
-## III — DEMANDE DE RELAIS
+## IV — DEMANDE DE RELAIS
 
 Compte tenu de la gravité de l'accident corporel survenu et du risque de réitération pour d'autres clients ou usagers de cet ERP, je vous serais reconnaissant de bien vouloir transmettre ces éléments d'alerte aux services de contrôle départementaux compétents (Secrétariat de la CCDSA) afin qu'une inspection de conformité puisse être rapidement ordonnée en lien avec l'autorité municipale et préfectorale.
 

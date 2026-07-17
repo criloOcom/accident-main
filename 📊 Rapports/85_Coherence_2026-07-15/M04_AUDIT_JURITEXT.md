@@ -457,7 +457,7 @@ type: rapport
 - [ ] **./📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_COHERENCE_JURIDIQUE_2026-07-14.md** : [CRITIQUE] ./📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_COHERENCE_JURIDIQUE_2026-07-14.md:67 — JURITEXT0000 inexistant ou mal formaté — Remplacer par un identifiant valide vérifié via Légifrance.
 - [ ] **./📊 Rapports/90_TODO_Prompts/PROMPT_AVOCAT_REVUE_J37.md** : [CRITIQUE] ./📊 Rapports/90_TODO_Prompts/PROMPT_AVOCAT_REVUE_J37.md:458 — JURITEXT0000 inexistant ou mal formaté — Remplacer par un identifiant valide vérifié via Légifrance.
 
-## JURITEXT Valides
+## I — JURITEXT Valides
 
 - [x] CETATEXT000007422435 : EXISTANT
 - [x] CETATEXT000049375170 : EXISTANT

@@ -11,7 +11,7 @@ type: rapport
 
 # Check-list opérationnelle Accident Main — fins 2026
 
-## Synthèse des actions prioritaires (Top 5)
+## I — Synthèse des actions prioritaires (Top 5)
 
 * Suivi Aide Juridictionnelle (AJ) : Obtenir la désignation de l'avocat d'office par le BAJ du TJ de Foix (déclenche le Référé).
 * Ordonnance Art. 145 CPC : Récupérer l'ordonnance pour identifier l'assureur de la SAS et préserver les vidéos.
@@ -21,7 +21,7 @@ type: rapport
 
 <hr><hr>
 
-## Dépendances et risques
+## II — Dépendances et risques
 
 * Aide Juridictionnelle (AJ) → Référé : L'assignation en Référé-provision (> 10 000 €) est strictement bloquée tant que l'avocat n'est pas désigné par le BAJ.
 * Ordonnance 145 CPC → Assureur RC : Sans cette ordonnance, impossible d'identifier l'assureur pour la mise en demeure et l'assignation, ni de saisir valablement les vidéos.
@@ -31,9 +31,9 @@ type: rapport
 
 <hr><hr>
 
-## Calendrier Chronologique (Août – Décembre 2026)
+## III — Calendrier Chronologique (Août – Décembre 2026)
 
-### Août 2026
+### III.1 — Août 2026
 
 * **Suivi Aide Juridictionnelle (AJ)** (J+47 à J+70)
   * Priorité : Haute
@@ -62,7 +62,7 @@ type: rapport
 * **Relance Maire Tavella** (J+60)
   * Priorité : Moyenne
   * Statut : Relance possible
-  * Note : Suivi suite à la réponse du 1er juin.
+  * Note : Suivi à la suite de la réponse du 1er juin.
   * Fichier : [Suivi Maire](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Adjoint%20Maire%20Tavella.md)
 
 * **Oppositions TC & INPI** (J+60)
@@ -83,7 +83,7 @@ type: rapport
   * Note : Obtenir emails et transmettre les Cerfa remplis.
   * Fichier : [Attestation Client](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8Bs/%F0%9F%93%8B%20Temoin%20Client.md)
 
-### Septembre 2026
+### III.2 — Septembre 2026
 
 * **Référé-provision (~15k€)** (J+90)
   * Priorité : Haute
@@ -109,7 +109,7 @@ type: rapport
   * Note : Si silence de la Préfecture/IT 2 mois post-relance.
   * Fichier : [Saisine CADA](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20CADA%20Saisine%20Modele.md)
 
-### Octobre 2026
+### III.3 — Octobre 2026
 
 * **Ordonnance de Référé** (J+130)
   * Priorité : Haute
@@ -123,7 +123,7 @@ type: rapport
   * Note : En cas de résistance ou pour mesures urgentes (vidéo).
   * Fichier : [Requête Huissier](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%B8%20Requete%20Constat%20Huissier.md)
 
-### Novembre 2026
+### III.4 — Novembre 2026
 
 * **Expertise Médicale UMJ Purpan** (12/11/2026)
   * Priorité : Haute
@@ -137,7 +137,7 @@ type: rapport
   * Note : Rédiger les doléances (DFP, esthétique, agrément).
   * Fichier : [Préparation UMJ](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/%F0%9F%93%81%20Preparation%20Expertise%20UMJ.md)
 
-### Décembre 2026
+### III.5 — Décembre 2026
 
 * **Préparation Instance au Fond** (J+190)
   * Priorité : Haute

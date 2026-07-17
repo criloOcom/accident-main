@@ -15,7 +15,7 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 <hr><hr>
 
-## 1. 📜 Conclusions au Fond TJ Foix
+## I — 📜 Conclusions au Fond TJ Foix
 
 **Fichier audité :** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Conclusions au Fond TJ Foix.md`
 
@@ -29,7 +29,7 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 <hr><hr>
 
-## 2. 🎯 Conclusions Refere Provision
+## II — 🎯 Conclusions Refere Provision
 
 **Fichier audité :** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🎯 Conclusions Refere Provision.md`
 
@@ -43,7 +43,7 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 <hr><hr>
 
-## 3. 99 🛡️ Memoire en defense adverse
+## III — 99 🛡️ Memoire en defense adverse
 
 **Fichier audité :** `⚖️ Actes/🔑 Token/📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md`
 
@@ -58,19 +58,19 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 <hr><hr>
 
-## 4. Notes en délibéré
+## IV — Notes en délibéré
 
 - **Statut :** FICHIER MANQUANT. Aucun fichier correspondant à une note en délibéré n'a été trouvé dans l'arborescence des actes (`⚖️ Actes/🔑 Token/`).
 
 <hr><hr>
 
-## 5. Anonymisation (Tokens)
+## V — Anonymisation (Tokens)
 
 - [x] **Vérification PII :** Conforme. La recherche des noms propres réels associés à ce dossier n'a révélé aucune fuite de données personnelles dans les fichiers audités de la zone `🔑 Token`.
 
 <hr><hr>
 
-## PLAN D'ACTION (TODO)
+## VI — PLAN D'ACTION (TODO)
 
 - [ ] Corriger les montants de l'IP et du DFP dans le fichier `99 🛡️ Memoire en defense adverse.md` pour qu'ils reflètent les véritables réclamations de la victime.
 - [ ] Remplacer la citation et l'URL de l'article 1241 du Code civil dans `99 🛡️ Memoire en defense adverse.md` par les bons identifiants ou l'attribuer à l'article 1240.

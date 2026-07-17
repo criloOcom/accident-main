@@ -17,7 +17,7 @@ date: 2026-07-14
 
 ## 1. Contexte et couverture RC de la SAS LES MAUVAIS GARÇONS
 
-Le présent rapport analyse la couverture en responsabilité civile (RC) de la SAS LES MAUVAIS GARÇONS suite à l'accident corporel survenu le 29 mai 2026. L'exploitant, immatriculé sous le numéro SIREN 938033222 (code NAF 96.02A — Coiffure), est situé au 22 Rue Lafaurie, 09000 Foix.
+Le présent rapport analyse la couverture en responsabilité civile (RC) de la SAS LES MAUVAIS GARÇONS à la suite de l'accident corporel survenu le 29 mai 2026. L'exploitant, immatriculé sous le numéro SIREN 938033222 (code NAF 96.02A — Coiffure), est situé au 22 Rue Lafaurie, 09000 Foix.
 
 Les constats amiables et les démarches précontentieuses (notamment la mise en demeure du 29/06/2026 et l'assignation en référé) confirment l'absence d'attestation d'assurance RC professionnelle fournie par la société. L'enquête démontre qu'aucune assurance responsabilité civile exploitation n'a été souscrite.
 
