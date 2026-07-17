@@ -89,7 +89,7 @@ Les elements suivants sont susceptibles de caracteriser un travail dissimule par
 
 Je sollicite de vos services qu'une verification soit effectuee concernant :
 
-1. La situation de [**[Le Prepose de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) au regard des declarations sociales (DPAE, bulletin de paie)<br>
+1. La situation de [**[Le Prepose de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : **[Le Téléphone du Préposé]**)(../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md) au regard des declarations sociales (DPAE, bulletin de paie)<br>
 <br>
 2. Le respect par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) de ses obligations declaratives<br>
 <br>

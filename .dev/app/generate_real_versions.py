@@ -120,6 +120,7 @@ REVERSE_MAP = {
     "**[Finance Prestation Salon]**": "15,00 €",
     "**[Finance Evaluation Initiale]**": "59 600 €",
     "**[Le Téléphone de la Victime]**": "06 30 51 67 75",
+    "**[Le Téléphone du Préposé]**": "07 58 40 12 87",
 }
 
 def replace_header_block(content):

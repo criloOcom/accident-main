@@ -57,6 +57,7 @@ Chaque fiche regroupe :
 | `**[La Métropole Régionale]**` | [token-accident-metropole.md](token-accident-metropole.md) |
 | `**[La Ville de l'Établissement SOS Main]**` | [token-hopital-sosmain-ville.md](token-hopital-sosmain-ville.md) |
 | `**[Le Téléphone de la Victime]**` | [token-victime-telephone.md](token-victime-telephone.md) |
+| `**[Le Téléphone du Préposé]**` | [token-exploitation-prepose-telephone.md](token-exploitation-prepose-telephone.md) |
 | `**[Code Postal de l'Accident]**` | [token-accident-code-postal.md](token-accident-code-postal.md) |
 | `**[Date de naissance de la victime]**` | [token-victime-date-naissance.md](token-victime-date-naissance.md) |
 | `**[L'Email de la Victime]**` | [token-victime-email.md](token-victime-email.md) |

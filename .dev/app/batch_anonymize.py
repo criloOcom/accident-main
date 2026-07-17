@@ -97,6 +97,8 @@ REPLACEMENTS = [
     ("Ayoub BENNOURINE", "[Le Préposé de l'Exploitation]"),
     ("Monsieur BENNOURINE", "[Le Préposé de l'Exploitation]"),
     ("BENNOURINE", "[Le Préposé de l'Exploitation]"),
+    ("07 58 40 12 87", "[Le Téléphone du Préposé]"),
+    ("+33 7 58 40 12 87", "[Le Téléphone du Préposé]"),
 
     # --- Medical ---
     ("Dr Iskander Djerbi", "[Le Chirurgien SOS Main]"),

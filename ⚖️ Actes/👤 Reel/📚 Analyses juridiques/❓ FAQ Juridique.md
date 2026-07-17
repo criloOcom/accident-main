@@ -77,7 +77,7 @@ Les parties mises en cause incluent la SAS elle-même, ses dirigeants [Sabir MOU
 ## III — FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE
 ### III.1 — Q : DANS QUELLES CIRCONSTANCES L'ACCIDENT S'EST-IL PRODUIT ?
 
-Le jour de l'accident, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) est revenu au salon pour une simple retouche. Un employé de l'établissement est alors monté sur un bac à shampoing en céramique qui s'est déséquilibré. Par réflexe, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a tendu la main droite pour protéger [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) et stabiliser le meuble.
+Le jour de l'accident, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) est revenu au salon pour une simple retouche. Un employé de l'établissement est alors monté sur un bac à shampoing en céramique qui s'est déséquilibré. Par réflexe, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a tendu la main droite pour protéger [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : 07 58 40 12 87)(../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md) et stabiliser le meuble.
 
 Sa paume a percuté une cassure préexistante et tranchante de la vasque, provoquant une section profonde de 8,5 cm.
 

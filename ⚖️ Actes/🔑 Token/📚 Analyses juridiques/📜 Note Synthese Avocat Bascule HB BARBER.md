@@ -111,7 +111,7 @@ Propriétaire des locaux du [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%
 → Société découverte après coup par recherches sur l'adresse
 
 ### Auteur matériel présumé
-[**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) ("AYOUB B" sur Wero). Coiffeur présent le jour des faits, a remboursé 15 € via Wero le 29/05/2026.
+[**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : **[Le Téléphone du Préposé]**)(../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md) ("AYOUB B" sur Wero). Coiffeur présent le jour des faits, a remboursé 15 € via Wero le 29/05/2026.
 
 <hr><hr>
 

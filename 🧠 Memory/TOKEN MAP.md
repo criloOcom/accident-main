@@ -70,6 +70,8 @@ type: memory
 | Saint-Jean | [**[La Ville de l'Établissement SOS Main]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-ville.md) |
 <a id="token-le-telephone-de-la-victime"></a>
 | 06 30 51 67 75 | [**[Le Téléphone de la Victime]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md) |
+<a id="token-le-telephone-du-prepose"></a>
+| 07 58 40 12 87 | [**[Le Téléphone du Préposé]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md) |
 <a id="token-code-postal-de-l-accident"></a>
 | 09000 | [**[Code Postal de l'Accident]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-code-postal.md) |
 <a id="token-date-de-naissance-de-la-victime"></a>

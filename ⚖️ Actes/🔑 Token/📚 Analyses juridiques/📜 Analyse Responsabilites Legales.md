@@ -58,7 +58,7 @@ Ce défaut d'entretien constitue un danger manifeste pour le public.
 
 ### II.2 — L'IMPRUDENCE CARACTÉRISÉE DU PRÉPOSÉ
 
-Le comportement de [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md), consistant à monter physiquement sur la structure instable du meuble, est le fait générateur direct du dommage.
+Le comportement de [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : **[Le Téléphone du Préposé]**)(../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md), consistant à monter physiquement sur la structure instable du meuble, est le fait générateur direct du dommage.
 
 En vertu de l'article 121-3 du Code pénal, cette maladresse expose les dirigeants à une responsabilité pénale individuelle pour manquement à la sécurité.
 
