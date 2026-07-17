@@ -93,6 +93,12 @@ type: memory
 <a id="token-capital-du-nouvel-exploitant"></a>
 | 1 000 € | [**[Capital du Nouvel Exploitant]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-capital-social.md) |
 | 31727387 / 2026/015967 | `[ ... ]` (ou le contexte approprié) |
+<a id="token-n-pv-police"></a>
+| 2026/015967 | [**[N° PV Police]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md) |
+<a id="token-n-dossier-cpam"></a>
+| 31727387 | [**[N° Dossier CPAM]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md) |
+<a id="token-siret-de-l-exploitation"></a>
+| 938 033 222 00010 | [**[SIRET de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siret.md) |
 
 ## Personnes morales (suite) {#personnes-morales-suite}
 | Texte original | Token |
@@ -161,6 +167,8 @@ type: memory
 | [**[J+41 Requête Constat 145]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-41-requete-constat-145.md) | 9 juillet 2026 — Requête constat huissier article 145 |
 <a id="token-j-46-echeance-amiable"></a>
 | [**[J+46 Échéance amiable]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-46-echeance-amiable.md) | 14 juillet 2026 — Fin délai amiable avant action judiciaire |
+<a id="token-j-54"></a>
+| [**[J+54]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-54.md) | 22 juillet 2026 — Dépôt plainte complémentaire HB BARBER + correction commissariat Foix |
 <a id="token-j-55-fin-d-itt"></a>
 | [**[J+55 Fin d'ITT]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md) | 23 juillet 2026 — Fin prévisionnelle ITT (56 jours) |
 <a id="token-j-167-expertise-umj"></a>
@@ -170,3 +178,4 @@ type: memory
 - Le script utilise `str.replace()` — il ne capture que les chaînes exactes listées
 - Les prénoms/noms en casse mixte sans espace entre les deux (ex. "Mountasser Sabir" — ancien format inversé) doivent être ajoutés manuellement comme entrées au script
 - Les prénoms seuls (ex. "Sébastien", "Sabir") ne sont pas dans la table — ils peuvent apparaître dans des documents conversationnels (doc 11)
+

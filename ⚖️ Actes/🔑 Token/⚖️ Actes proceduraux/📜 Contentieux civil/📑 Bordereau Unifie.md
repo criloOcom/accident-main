@@ -1,6 +1,6 @@
 ---
 title: "Bordereau de pièces (unifié)"
-description: "| Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) | Défendeur : [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) |"
+description: "Bordereau de pièces unifié — Procédure : Référé (Art. 835 CPC, Art. 145 CPC)"
 type: readme
 date: 2026-07-07
 tags:
@@ -19,8 +19,8 @@ jx: J+39
 <!-- /Breadcrumb -->
 
 # BORDEREAU DE PIÈCES
-| Procédure : Référé (Art. 835 CPC, Art. 145 CPC) | Demandeur : [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) | Défendeur : [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) |
-|:---|:---|:---|
+
+> **Procédure :** Référé (Art. 835 CPC, Art. 145 CPC) — **Demandeur :** [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) — **Défendeur :** [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 ## I — GROUPE A — PREUVES DE L'ACCIDENT
 ### PIÈCE N° 1
 

@@ -17,7 +17,7 @@ reel_path: ../../👤 Reel/🗄️ Archives/33 ✉️ Requete Constat Huissier 1
 <hr>
 <!-- /Breadcrumb -->
 
-# REQUETE AU PRESIDENT DU TRIBUNAL JUDICIAIRE DE **[La Ville de l'Accident]**
+# REQUETE AU PRESIDENT DU TRIBUNAL JUDICIAIRE DE [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
 **AUX FINS DE DESIGNATION D'HUISSIER DE JUSTICE POUR CONSTAT**
 
@@ -27,9 +27,9 @@ reel_path: ../../👤 Reel/🗄️ Archives/33 ✉️ Requete Constat Huissier 1
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.[^1]**
 
-**[L'Adresse de la Victime]**
+[**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 
-Courriel : **[L'Email de la Victime]**
+Courriel : [**[L'Email de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
 **Tribunal Judiciaire de [La Ville de l'Accident]**
 
@@ -37,20 +37,20 @@ Courriel : **[L'Email de la Victime]**
 
 **[Adresse du TJ à compléter]**
 
-**[La Ville de l'Accident]**, le **[J+41 Requete Constat 145]**
+[**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [**[J+41 Requete Constat 145]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-41-requete-constat-145.md)
 
-Ref : Accident du **[J+0 Accident]** — SAS **[L'Exploitant du Commerce (La SAS)]**
+Ref : Accident du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
 <hr><hr>
 
 Madame, Monsieur le President,
 ## I — EXPOSE DES FAITS
 
-**[La Victime]** (ne le 18 janvier 1982, informaticien independant) a ete victime d'un accident corporel grave le **[J+0 Accident]** a 15h00 au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)]** (SIREN **[SIREN de l'Exploitation]**), sise **[L'Adresse de l'Exploitation]**.
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (ne le 18 janvier 1982, informaticien independant) a ete victime d'un accident corporel grave le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) a 15h00 au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [**[SIREN de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)), sise [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md).
 
 Le prepose de l'exploitation, qui devait acceder a un poste de television installe en hauteur, a du monter sur un bac a shampoing en ceramique faute d'escabeau mis a disposition. En descendant, son poids a entraine le basculement de l'equipement, instable et presentant une cassure majeure preexistante non signalee sur son flanc.
 
-Par reflexe, le requerant a tendu la main droite pour proteger le coiffeur. Sa paume a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence (30 mai 2026, SOS Main, **[L'Etablissement SOS Main]**) et une ITT de 56 jours.
+Par reflexe, le requerant a tendu la main droite pour proteger le coiffeur. Sa paume a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence (30 mai 2026, SOS Main, [**[L'Etablissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)) et une ITT de 56 jours.
 <hr><hr>
 
 ## II — MOTIF LEGITIME (Art. 145 CPC)
@@ -92,7 +92,7 @@ Le constat d'huissier devra porter sur :
 
 Les procedures suivantes ont ete engagees a la date de la requete :
 
-1. Depot de plainte (1er juin 2026, PV n° **[N° PV Police]**)
+1. Depot de plainte (1er juin 2026, PV n° [**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md))
 2. Constitution de partie civile (6 juillet 2026) — chef de blessures involontaires (Art. 222-19 CP)
 3. Mises en demeure LRAR (29 mai 2026) — sans aucun retour des dirigeants
 4. Assignation en refere-provision (Art. 835 CPC) et assignation Art. 145 CPC pour communication d'assurance
@@ -101,11 +101,11 @@ Les procedures suivantes ont ete engagees a la date de la requete :
 
 ## IV — DEMANDE
 
-Par ces motifs, le requerant sollicite de Monsieur le President du Tribunal Judiciaire de **[La Ville de l'Accident]** de bien vouloir :
+Par ces motifs, le requerant sollicite de Monsieur le President du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) de bien vouloir :
 
 **1. DESIGNER** tel Commissaire a l'execution de la preuve, Huissier de Justice de son ressort, avec mission de :
 
-- Se rendre au salon de coiffure situe **[L'Adresse de l'Exploitation]**
+- Se rendre au salon de coiffure situe [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
 
 - Constater l'etat, les dimensions, la stabilite et les eventuelles cassures du bac a shampoing
 
@@ -125,13 +125,13 @@ Par ces motifs, le requerant sollicite de Monsieur le President du Tribunal Judi
 
 **3. DIRE** que l'huissier pourra se faire assister de tout technicien ou serrurier necessaire a l'accomplissement de sa mission
 
-**4. ORDONNER** la remise des enregistrements du systeme de videoprotection couvrant la periode du **[J+0 Accident]** a la date du constat
+**4. ORDONNER** la remise des enregistrements du systeme de videoprotection couvrant la periode du [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) a la date du constat
 
 **5. DIRE** que les frais de constat seront mis a la charge du requerant dans un premier temps, pour etre repartis lors de l'instance au fond
 
 Fait pour valoir ce que de droit.
 
-**[La Victime]**
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
 ## Sources Législation

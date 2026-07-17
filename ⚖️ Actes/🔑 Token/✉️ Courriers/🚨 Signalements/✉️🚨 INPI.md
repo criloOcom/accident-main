@@ -74,7 +74,7 @@ Les procedures suivantes ont ete engagees :
 
 - Mise en demeure a la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
-- Mise en demeure a **[Le President de l'Exploitation]** et a **[La Directrice Generale de l'Exploitation]**
+- Mise en demeure a [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et a [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
 
 - Action directe contre l'assureur RC (Article L.124-3 du Code des assurances)
 

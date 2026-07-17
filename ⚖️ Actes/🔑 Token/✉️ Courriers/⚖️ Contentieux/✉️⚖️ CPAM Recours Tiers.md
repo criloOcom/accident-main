@@ -34,7 +34,7 @@ Direction des Recours Contre Tiers
 
 **[Adresse à compléter]**
 
-**[La Ville de Residence de la Victime]**, le [**[J+38 Constitution PC]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)
+[**[La Ville de Residence de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le [**[J+38 Constitution PC]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)
 
 Objet : Transmission d'elements et bordereau recapitulatif — Recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
 
@@ -61,7 +61,7 @@ A ce jour, les procedures suivantes ont ete engagees :
 
 1. **Phase amiable** (29 mai 2026) : Mises en demeure LRAR adressees a la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et a ses dirigeants, restees sans reponse a ce jour.
 
-2. **Assignation en refere-provision** (30 juin 2026) : Saisine du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) sur le fondement de l'Article 835 du Code de procedure civile, a l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]**, in solidum.
+2. **Assignation en refere-provision** (30 juin 2026) : Saisine du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) sur le fondement de l'Article 835 du Code de procedure civile, a l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), in solidum.
 
 > *« Le président du tribunal judiciaire ou le juge des contentieux de la protection dans les limites de sa compétence peuvent toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 > [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
@@ -112,35 +112,41 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 > [Article L376-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231) <br>
 > **Code de la sécurité sociale > Chapitre 6 : Recours des caisses contre les tiers.[^2]**
 
-**A. Pieces medicales**
+**A. Pièces médicales**
 
-| N° | Piece | Date |
-|----|-------|------|
-| 1 | Certificat medical initial (Dr **[Le Medecin Generaliste]**) | [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) |
-| 2 | Compte-rendu operatoire SOS Main (Dr [**[Le Chirurgien SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)) | [**[J+1 Chirurgie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) |
-| 3 | Bulletin de sortie [**[L'Etablissement SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md) | [**[J+2 Sortie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-2-sortie.md) |
-| 4 | Certificats d'arret de travail (ITT 56 jours) | [**[J+3 Premiers arrets]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md) |
-| 5 | Ordonnances et prescriptions medicales | [**[J+3 Premiers arrets]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md) |
-| 6 | Facture de chirurgie ([**[Finance Facture Chirurgie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-facture-chirurgie.md)) | [**[J+12 Facture]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md) |
-| 7 | Compte-rendu de controle chirurgical | [**[J+21 Controle chirurgical]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-21-controle-chirurgical.md) |
+- **Pièce n°1 :** Certificat médical initial (Dr [**[Le Médecin Généraliste]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-medecin-generaliste.md)) — [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)
 
-**B. Pieces administratives**
+- **Pièce n°2 :** Compte-rendu opératoire SOS Main (Dr [**[Le Chirurgien SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)) — [**[J+1 Chirurgie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md)
 
-| N° | Piece | Date |
-|----|-------|------|
-| 8 | Recu de depot de plainte (Police Nationale, PV n° [**[N° PV Police]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) | [**[J+4 Depot de plainte]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) |
-| 9 | Mises en demeure LRAR (SAS + dirigeants + proprietaire) | [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) |
-| 10 | Preuve de paiement Wero 15,00 € (preuve de presence materielle) | [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) |
-| 11 | Assignation refere-provision (Art. 835 CPC) | [**[J+32 Assignation refere]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) |
-| 12 | Assignation Article 145 CPC (communication assurance) | [**[J+37 Assignation 145]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md) |
-| 13 | [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (Art. 222-19/222-20 CP) | [**[J+38 Constitution PC]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md) |
+- **Pièce n°3 :** Bulletin de sortie [**[L'Établissement SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md) — [**[J+2 Sortie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-2-sortie.md)
 
-**C. Pieces administratives CPAM**
+- **Pièce n°4 :** Certificats d'arrêt de travail (ITT 56 jours) — [**[J+3 Premiers arrêts]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md)
 
-| N° | Piece | Reference |
-|----|-------|-----------|
-| 14 | Accuse de reception d'ouverture de [dossier RCT](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) | Dossier n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** |
-| 15 | Courriers echanges avec la gestionnaire de dossier | [**[La Gestionnaire CPAM]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-gestionnaire-nom.md) |
+- **Pièce n°5 :** Ordonnances et prescriptions médicales — [**[J+3 Premiers arrêts]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md)
+
+- **Pièce n°6 :** Facture de chirurgie ([**[Finance Facture Chirurgie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-facture-chirurgie.md)) — [**[J+12 Facture]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md)
+
+- **Pièce n°7 :** Compte-rendu de contrôle chirurgical — [**[J+21 Contrôle chirurgical]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-21-controle-chirurgical.md)
+
+**B. Pièces administratives**
+
+- **Pièce n°8 :** Reçu de dépôt de plainte (Police Nationale, PV n° [**[N° PV Police]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) — [**[J+4 Dépôt de plainte]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md)
+
+- **Pièce n°9 :** Mises en demeure LRAR (SAS + dirigeants + propriétaire) — [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
+
+- **Pièce n°10 :** Preuve de paiement Wero 15,00 € (preuve de présence matérielle) — [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)
+
+- **Pièce n°11 :** Assignation référé-provision (Art. 835 CPC) — [**[J+32 Assignation référé]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
+
+- **Pièce n°12 :** Assignation Article 145 CPC (communication assurance) — [**[J+37 Assignation 145]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)
+
+- **Pièce n°13 :** [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (Art. 222-19/222-20 CP) — [**[J+38 Constitution PC]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)
+
+**C. Pièces administratives CPAM**
+
+- **Pièce n°14 :** Accusé de réception d'ouverture de [dossier RCT](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) — Dossier n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
+
+- **Pièce n°15 :** Courriers échangés avec la gestionnaire de dossier — [**[La Gestionnaire CPAM]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-gestionnaire-nom.md)
 <hr><hr>
 
 ## V — DEMANDE

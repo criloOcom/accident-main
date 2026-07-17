@@ -33,7 +33,7 @@ jx: J+40
 [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
 [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
 
-[**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le **[DATE RELANCE V2]**
+[**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [**[DATE RELANCE V2]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-date-relance-v2.md)
 
 Objet : Relance — Demande d'information assurance RC et communication d'une adresse de correspondance — Accident [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)
 
@@ -57,7 +57,7 @@ Je conçois que la fermeture soudaine et la réorganisation de votre établissem
 
 ### I.1 — Préservation des preuves et vidéosurveillance
 
-J'ai constaté que votre salon de coiffure a fermé ses portes immédiatement après l'accident du [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) pour ne rouvrir que le **[DATE REOUVERTURE BOUTIQUE]**. 
+J'ai constaté que votre salon de coiffure a fermé ses portes immédiatement après l'accident du [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) pour ne rouvrir que le [**[DATE REOUVERTURE BOUTIQUE]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-date-reouverture.md). 
 
 L'absence de réponse à ma mise en demeure initiale ayant dépassé le délai légal de 30 jours, l'inertie de votre société a potentiellement déjà causé l'effacement ou la destruction irrémédiable des bandes de vidéosurveillance (dont la durée de sauvegarde est limitée par la CNIL et l'article L. 252-5 du Code de la sécurité intérieure).
 

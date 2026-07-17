@@ -47,22 +47,22 @@ source: drive
 - [5. RÉCAPITULATIF DES PIÈCES](#5-rcapitulatif-des-pices)
 
 # STRATEGIE CONTENTIEUX PENAL
-Rédigé le **[J+36 Lettre consolidation]**
+Rédigé le [**[J+36 Lettre consolidation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-36-lettre-consolidation.md)
 ## I — PRÉSENTATION
 
-Le **[J+0 Accident]**, **[La Victime]**, informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]** (**[L'Exploitant du Commerce (La SAS)]**, SIRET **[SIRET de l'Exploitation]**), situé **[L'Adresse de l'Exploitation]**.
+Le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ([**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), SIRET [**[SIRET de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siret.md)), situé [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md).
 
-Alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé.
+Alors que l'employé [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé.
 
-Par réflexe, **[La Victime]** a tendu la main droite — sa main dominante indispensable à son activité professionnelle — pour protéger **[Le Préposé de l'Exploitation]** ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une prise en charge chirurgicale en urgence par le service SOS Main.
+Par réflexe, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a tendu la main droite — sa main dominante indispensable à son activité professionnelle — pour protéger [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une prise en charge chirurgicale en urgence par le service SOS Main.
 
-Le contentieux pénal a pour objet de faire reconnaître la culpabilité de **[L'Exploitant du Commerce (La SAS)]** et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive, y compris par la saisine du [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] via la CIVI en cas d'insolvabilité de l'auteur.
+Le contentieux pénal a pour objet de faire reconnaître la culpabilité de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive, y compris par la saisine du [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] via la CIVI en cas d'insolvabilité de l'auteur.
 <hr><hr>
 
 ## II — INFRACTIONS CONSTITUÉES
 ### 2.1 BLESSURES INVOLONTAIRES
 
-Faits : le **[J+0 Accident]**, **[La Victime]** a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes, au sein de l'établissement exploité par **[L'Exploitant du Commerce (La SAS)]**.
+Faits : le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes, au sein de l'établissement exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
 Ces faits sont constitutifs de blessures involontaires ayant entraîné une incapacité totale de travail (ITT) prévisible inférieure ou égale à trois mois.
 
@@ -76,7 +76,7 @@ L'infraction est prévue et réprimée par [l'Article 222-20 du Code pénal](htt
 
 ### 2.2 ABSENCE D'ASSURANCE RESPONSABILITÉ CIVILE PROFESSIONNELLE
 
-**[L'Exploitant du Commerce (La SAS)]** n'a pas communiqué d'attestation d'assurance de responsabilité civile professionnelle malgré les relances amiables de **[La Victime]**.
+[**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) n'a pas communiqué d'attestation d'assurance de responsabilité civile professionnelle malgré les relances amiables de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md).
 
 Cette absence d'assurance, si elle est confirmée, prive la victime de l'exercice de l'action directe contre l'assureur prévue à [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^3], et justifie une saisine du [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418[^1]734) sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI00004[^4]8442345), qui prévoit l'indemnisation des victimes d'infractions lorsque l'auteur n'est pas assuré.
 
@@ -107,15 +107,15 @@ Cette qualification nécessite la démonstration d'une violation délibérée d'
 ## III — PROCÉDURE PÉNALE ENGAGÉE
 ### 3.1 SIGNALEMENT ADMINISTRATIF ET DÉPÔT DE PLAINTE
 
-Un signalement a été adressé à la préfecture par la Mairie de **[La Ville de l'Accident]** dès le 1er juin 2026, selon le courriel de l'adjoint au maire (**[L'Email de l'Adjoint au Maire]**) en date du 1er juin 2026 à 16h15. La Mairie y indiquait avoir pris l'attache des services de la préfecture pour diligenter l'inspection du travail et le CODAF.
+Un signalement a été adressé à la préfecture par la Mairie de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) dès le 1er juin 2026, selon le courriel de l'adjoint au maire ([**[L'Email de l'Adjoint au Maire]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-email.md)) en date du 1er juin 2026 à 16h15. La Mairie y indiquait avoir pris l'attache des services de la préfecture pour diligenter l'inspection du travail et le CODAF.
 
-**[La Victime]** a parallèlement déposé une plainte officielle le 1er juin 2026 au commissariat de **[La Ville de l'Accident]**, retranscrite sous la référence PV n° **[N° PV Police]** [🔗 Pièce](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view). Un procès-verbal de constat a été établi le **[J+4 Dépôt de plainte]** [🔗 Pièce](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view).
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a parallèlement déposé une plainte officielle le 1er juin 2026 au commissariat de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), retranscrite sous la référence PV n° [**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md) [🔗 Pièce](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view). Un procès-verbal de constat a été établi le [**[J+4 Dépôt de plainte]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) [🔗 Pièce](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view).
 
-**Note :** À ce jour, aucun accusé de réception officiel ni numéro de suivi de la préfecture n'a été communiqué à **[La Victime]**. Les informations relatives à la saisine de la préfecture proviennent exclusivement du courriel de la Mairie de **[La Ville de l'Accident]**.
+**Note :** À ce jour, aucun accusé de réception officiel ni numéro de suivi de la préfecture n'a été communiqué à [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md). Les informations relatives à la saisine de la préfecture proviennent exclusivement du courriel de la Mairie de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
 
 ### 3.2 CONSTITUTION DE PARTIE CIVILE
 
-Une constitution de partie civile a été formée par **[La Victime]** le **[J+32 Assignation référé]** devant le Tribunal Correctionnel de **[La Ville de l'Accident]**. Cette démarche, fondée sur les articles 2 et suivants du Code de procédure pénale, permet à **[La Victime]** de :
+Une constitution de partie civile a été formée par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) devant le Tribunal Correctionnel de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md). Cette démarche, fondée sur les articles 2 et suivants du Code de procédure pénale, permet à [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) de :
 
 - Participer activement à la procédure pénale
 
@@ -131,7 +131,7 @@ La constitution de partie civile peut être réalisée par déclaration au greff
 
 ### 3.3 COMPLÉMENT DE PLAINTE POUR ABSENCE D'ASSURANCE
 
-Un complément de plainte a été déposé le **[J+32 Assignation référé]** auprès du Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident]** pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par **[L'Exploitant du Commerce (La SAS)]**.
+Un complément de plainte a été déposé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) auprès du Procureur de la République près le Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
 Ce complément vise à porter à la connaissance de l'autorité judiciaire cette carence, qui constitue un obstacle à l'indemnisation de la victime et justifie, le cas échéant, la saisine du [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442[^4]345).
 
@@ -141,7 +141,7 @@ Ce complément vise à porter à la connaissance de l'autorité judiciaire cette
 
 ### 3.4 RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS
 
-Les dirigeants de **[L'Exploitant du Commerce (La SAS)]**, à savoir **[Le Président de l'Exploitation]** (Président) et **[La Directrice Générale de l'Exploitation]** (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales, ainsi que sur le fondement de [Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928)[^8].
+Les dirigeants de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), à savoir [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (Président) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales, ainsi que sur le fondement de [Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928)[^8].
 
 > *« Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. »* <br>
 > [Article L225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) <br>
@@ -155,7 +155,7 @@ Le défaut de souscription d'assurance responsabilité civile professionnelle co
 
 ### 3.5 INDEMNISATION PAR LE FGTI / CIVI
 
-L'absence d'assurance de **[L'Exploitant du Commerce (La SAS)]** et son insolvabilité éventuelle justifient la mise en œuvre de la voie indemnitaire subsidiaire prévue aux [articles 706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)[^11] et suivants du Code de procédure pénale.
+L'absence d'assurance de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et son insolvabilité éventuelle justifient la mise en œuvre de la voie indemnitaire subsidiaire prévue aux [articles 706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)[^11] et suivants du Code de procédure pénale.
 
 Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] indemnise les victimes de dommages corporels résultant d'une infraction pénale lorsque l'auteur n'est pas assuré et que la réparation ne peut être obtenue à un autre titre.
 
@@ -174,11 +174,11 @@ Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LE
 > *« A peine de forclusion, la demande d'indemnité doit être présentée dans le délai de trois ans à compter de la date de l'infraction. Lorsque des poursuites pénales sont exercées, ce délai est prorogé et n'expire qu'un an après la décision de la juridiction qui a statué définitivement sur l'action publique ou sur l'action civile engagée devant la juridiction répressive. Toutefois, la commission relève le requérant de la forclusion lorsque l'information prévue à l'article 706-15 n'a pas été donnée, lorsque le requérant n'a pas été en mesure de faire valoir ses droits dans les délais requis ou lorsqu'il a subi une aggravation de son préjudice ou pour tout autre motif légitime. Lorsque l'infraction est commise à l'encontre d'un mineur, le délai de forclusion ne court qu'à compter de la majorité de ce dernier. Lorsqu'une décision d'une juridiction répressive a alloué des dommages et intérêts à la victime et que la demande est jugée irrecevable, le délai prévu au deuxième alinéa de l'article 706-15-2 ne court qu'à compter de la notification de la décision de la commission. »* <br>
 > [Article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334) <br>
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^13]**
-- **3 ans** à compter de l'infraction (**[J+0 Accident]** → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
+- **3 ans** à compter de l'infraction ([**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
 
 - Ou **1 an** après une décision pénale définitive si elle intervient avant l'expiration du délai de 3 ans.
 
-**Procédure :** Saisine de la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de **[La Ville de l'Accident]**, qui notifie le FGTI et instruit la demande d'indemnisation.
+**Procédure :** Saisine de la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), qui notifie le FGTI et instruit la demande d'indemnisation.
 
 Cette voie est indépendante de l'action pénale principale : la victime peut saisir la CIVI sans attendre l'issue de la procédure pénale, dès lors que les conditions de l'Article 706-3 sont réunies.
 <hr><hr>
@@ -198,27 +198,27 @@ Cette voie est indépendante de l'action pénale principale : la victime peut sa
 ## V — RÉCAPITULATIF DES PIÈCES
 
 Pièces pénales :
-- **[J+3 Premiers arrêts]** — **[La Ville de l'Accident]** Police — Dépôt de plainte officiel [🔗 Voir](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
+- [**[J+3 Premiers arrêts]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md) — [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) Police — Dépôt de plainte officiel [🔗 Voir](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
 
-- **[J+4 Dépôt de plainte]** — **[La Ville de l'Accident]** Police — Procès-verbal constat n°**[N° PV Police]** [🔗 Voir](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view)
+- [**[J+4 Dépôt de plainte]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) Police — Procès-verbal constat n°[**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md) [🔗 Voir](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view)
 
-- **[J+4 Dépôt de plainte]** — **[La Ville de l'Accident]** Police — Constitution de partie civile
+- [**[J+4 Dépôt de plainte]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) Police — Constitution de partie civile
 
-- **[J+4 Dépôt de plainte]** — **[La Ville de l'Accident]** Police — Complément de plainte
+- [**[J+4 Dépôt de plainte]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) Police — Complément de plainte
 
 Pièces médicales (justificatifs du préjudice corporel) :
-- **[J+0 Accident]** — **[Le Médecin en Urgence]** — Premiers soins urgence
+- [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — [**[Le Médecin en Urgence]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) — Premiers soins urgence
 
-- **[J+1 Chirurgie]** — **[Le Chirurgien SOS Main]** — CR opératoire
+- [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) — [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) — CR opératoire
 
-- **[J+21 Contrôle chirurgical]** — **[Le Chirurgien SOS Main]** — CR contrôle J+20
+- [**[J+21 Contrôle chirurgical]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-21-controle-chirurgical.md) — [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) — CR contrôle J+20
 
 Pièces administratives :
-- **[J+5 Ouverture CPAM]** — CPAM Haute-Garonne — Dossier RCT **[N° Dossier CPAM]**
+- [**[J+5 Ouverture CPAM]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-5-ouverture-cpam.md) — CPAM Haute-Garonne — Dossier RCT [**[N° Dossier CPAM]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md)
 
-- **[J+3 Premiers arrêts]** — INSEE — Avis de situation SAS
+- [**[J+3 Premiers arrêts]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md) — INSEE — Avis de situation SAS
 
-- **[J+3 Premiers arrêts]** — INPI — Fiche identité SAS
+- [**[J+3 Premiers arrêts]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md) — INPI — Fiche identité SAS
 <hr><hr>
 
 ## Sources Législation

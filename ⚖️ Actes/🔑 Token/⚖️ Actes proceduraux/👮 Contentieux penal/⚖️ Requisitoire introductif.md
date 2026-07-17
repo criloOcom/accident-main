@@ -163,7 +163,7 @@ Et de tous autres chefs qui viendraient à être révélés par l'instruction.
 **ORDONNER** les actes d'instruction suivants :
 - Audition des dirigeants de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sur les conditions d'entretien des locaux et l'existence d'une assurance RC ;
 - Audition de [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) en qualité de témoin ;
-- Saisie des enregistrements vidéo de surveillance (sous séquestre par [ordonnance sur requête Art. 145 CPC](../📜%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md) du **[J+54]**) ;
+- Saisie des enregistrements vidéo de surveillance (sous séquestre par [ordonnance sur requête Art. 145 CPC](../📜%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md) du [**[J+54]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-54.md)) ;
 - Réquisitions auprès des organismes d'assurance pour identifier le ou les assureurs RC en vigueur au jour du sinistre ;
 - Désignation d'un expert médical (ou à défaut, verser au dossier l'expertise amiable déjà réalisée).
 

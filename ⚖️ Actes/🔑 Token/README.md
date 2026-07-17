@@ -14,7 +14,7 @@ type: readme
 ---
 
 **Ce dossier contient la version de travail de tous les actes.**  
-Les identités réelles (noms, adresses, email, immatriculations) y sont remplacées par des tokens entre crochets et en **gras** : `**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS)]**`, etc.
+Les identités réelles (noms, adresses, email, immatriculations) y sont remplacées par des tokens entre crochets et en **gras** : `[**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)`, `[**[L'Exploitant du Commerce (La SAS)]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)`, etc.
 
 ## ✅ Règles
 

@@ -46,14 +46,14 @@ L'expert a convoqué [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97
 
 - Ordonnance de référé du 31 juillet 2026 (mission)
 - Procès-verbal de police n°[**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (28 juin 2026)
-- Certificat médical initial du Dr **[Le Médecin en Urgence]** (SMUR), 29 mai 2026
-- Compte-rendu opératoire du **[Le Chirurgien SOS Main]** (SOS Main), 30 mai 2026
+- Certificat médical initial du Dr [**[Le Médecin en Urgence]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) (SMUR), 29 mai 2026
+- Compte-rendu opératoire du [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) (SOS Main), 30 mai 2026
 - Comptes-rendus de consultations de suivi chirurgical : 12 juin, 3 juillet, 24 juillet 2026
 - Prescriptions et bilans de rééducation kinésithérapie (juin 2026 — mars 2027)
 - Certificats d'arrêt de travail (ITT du 29 mai 2026 au 23 juillet 2026)
 - Imagerie médicale : radiographies de contrôle (30 mai, 12 juin 2026)
 - Attestation de suivi d'ergothérapie (novembre 2026)
-- Correspondance médicale entre le médecin traitant **[Le Médecin Généraliste]** et le chirurgien SOS Main
+- Correspondance médicale entre le médecin traitant [**[Le Médecin Généraliste]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-medecin-generaliste.md) et le chirurgien SOS Main
 
 ---
 
@@ -65,7 +65,7 @@ Le préposé de l'établissement a entrepris de régler un téléviseur fixé en
 
 **Prise en charge immédiate :** Prise en charge par le SMUR 09 (Centre Hospitalier Ariège) — pansement compressif, bilan lésionnel. Pas de lésion osseuse. Transfert pour microchirurgie spécialisée.
 
-**Intervention chirurgicale (30 mai 2026) :** Le **[Le Chirurgien SOS Main]** (SOS Main) a pratiqué :
+**Intervention chirurgicale (30 mai 2026) :** Le [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) (SOS Main) a pratiqué :
 - Exploration de la plaie palmaire de l'index droit
 - Réparation microchirurgicale d'une **section complète du paquet collatéral radial de l'index droit** (nerf collatéral radial + artère digitale) sous microscope opératoire
 - Suture directe du **tendon fléchisseur profond (FDP)** de l'index droit (zone II de Verdan)

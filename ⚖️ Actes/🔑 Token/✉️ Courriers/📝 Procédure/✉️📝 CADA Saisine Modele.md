@@ -34,7 +34,7 @@ jx: J+47
 **Destinataire :** Commission d'accès aux documents administratifs (CADA), 35 rue Saint-Dominique, 75700 Paris 07 SP
 **Date :** [Date d'envoi — À compléter]
 
-**Objet : Saisine de la CADA — Refus de communication de documents administratifs concernant un accident corporel (salon « **[L'Exploitant du Commerce (La SAS)]** », Foix)**
+**Objet : Saisine de la CADA — Refus de communication de documents administratifs concernant un accident corporel (salon « [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) », Foix)**
 
 <hr><hr>
 
@@ -43,7 +43,7 @@ Madame, Monsieur,
 Je saisis la Commission d'accès aux documents administratifs, en application du Code des relations entre le public et l'administration (CRPA), à la suite du refus de communication de documents opposé par **[la Préfecture de l'Ariège / la DDETS de l'Ariège — Inspection du travail]**.
 ## I — Identité du demandeur
 
-Je soussigné(e) [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), demeurant [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), victime d'un accident corporel grave survenu le **29 mai 2026** dans le salon de coiffure « **[L'Exploitant du Commerce (La SAS)]** », [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) (plaie palmaire profonde de la main droite, section partielle tendon fléchisseur + paquet vasculo-nerveux, ITT 56 jours — PV de police n°2026/015967).
+Je soussigné(e) [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), demeurant [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), victime d'un accident corporel grave survenu le **29 mai 2026** dans le salon de coiffure « [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) », [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) (plaie palmaire profonde de la main droite, section partielle tendon fléchisseur + paquet vasculo-nerveux, ITT 56 jours — PV de police n°2026/015967).
 <hr><hr>
 
 ## II — Administration(s) concernée(s)

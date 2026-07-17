@@ -53,15 +53,15 @@ Elle a pour double objet d'obtenir, sous astreinte :
 
 Le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), alors qu'il se trouvait au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) en qualite de client, [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a ete victime d'un accident corporel grave.
 
-Alors que **[Le Prepose de l'Exploitation]** escaladait la vasque en ceramique du bac a shampoing pour acceder au poste de television, l'equipement a bascule.
+Alors que [**[Le Prepose de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) escaladait la vasque en ceramique du bac a shampoing pour acceder au poste de television, l'equipement a bascule.
 
 Par reflexe, [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a tendu la main droite pour proteger le prepose ; sa paume a heurte une cassure majeure preexistante non signalee aux aretes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit ayant necessite une microchirurgie d'urgence le [**[J+1 Chirurgie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md).
 
 A la suite de cet accident, [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a vainement sollicite de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) la communication de l'identite de son assureur de responsabilite civile professionnelle.
 
-Ni la societe, ni son President **[Le President de l'Exploitation]**, ni sa Directrice Generale **[La Directrice Generale de l'Exploitation]** n'ont repondu aux courriers recommandes qui leur ont ete adresses le [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) **(Pièces n°10, n°11 et n°12)**.
+Ni la societe, ni son President [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), ni sa Directrice Generale [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) n'ont repondu aux courriers recommandes qui leur ont ete adresses le [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) **(Pièces n°10, n°11 et n°12)**.
 
-L'accuse de reception du courrier recommande adresse au proprietaire des murs, **[Le Proprietaire des Murs]**, a ete retourne signe le [**[J+35 AR propriétaire]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-35-ar-proprietaire.md), mais celui-ci n'a pas davantage communique l'information **(Pièce n°13)**.
+L'accuse de reception du courrier recommande adresse au proprietaire des murs, [**[Le Proprietaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), a ete retourne signe le [**[J+35 AR propriétaire]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-35-ar-proprietaire.md), mais celui-ci n'a pas davantage communique l'information **(Pièce n°13)**.
 
 A ce jour, l'identite de l'assureur RC professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) demeure inconnue.
 <hr><hr>
@@ -127,11 +127,11 @@ Les demandes amiables de [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F
 
 - LRAR du [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) a [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) : aucun AR retourne
 
-- LRAR du [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) a **[Le President de l'Exploitation]** : aucun AR retourne
+- LRAR du [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) a [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) : aucun AR retourne
 
-- LRAR du [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) a **[La Directrice Generale de l'Exploitation]** : aucun AR retourne
+- LRAR du [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) a [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) : aucun AR retourne
 
-- LRAR du [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) a **[Le Proprietaire des Murs]** : AR retourne signe, mais sans reponse
+- LRAR du [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) a [**[Le Proprietaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) : AR retourne signe, mais sans reponse
 
 Ce silence delibere caracterise un refus de communiquer qui justifie que soit ordonnee la communication sous astreinte.
 
@@ -171,7 +171,7 @@ Vu les pièces versées aux débats,
 
 4. **SE RESERVER** la liquidation de l'astreinte ;
 
-5. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), **[Le President de l'Exploitation]** et **[La Directrice Generale de l'Exploitation]** a payer a [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) la somme de 1 500 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
+5. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) a payer a [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) la somme de 1 500 € sur le fondement de l'Article 700 du Code de procedure civile, ainsi qu'aux entiers depens.
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>

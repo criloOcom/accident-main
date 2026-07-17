@@ -25,36 +25,36 @@ drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 
 # CONSTITUTION DE PARTIE CIVILE
 > 🔗 Source Google Drive : [1tdFbDxNceGV…](https://drive.google.com/open?id=1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc)
-Rédigé le **[J+32 Assignation référé]**
+Rédigé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
 ## INTRODUCTION
 
-La présente constitution de partie civile est formée par **[La Victime]** dans le cadre de la procédure pénale suivie devant le Tribunal Correctionnel de **[La Ville de l'Accident]** à l'encontre de **[L'Exploitant du Commerce (La SAS)]**.
+La présente constitution de partie civile est formée par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) dans le cadre de la procédure pénale suivie devant le Tribunal Correctionnel de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
-Par cet acte, fondé sur les articles 2 et suivants du Code de procédure pénale, la victime entend exercer les droits reconnus à la partie civile afin d'obtenir la réparation de l'intégralité des préjudices découlant de l'accident corporel dont elle a été victime le **[J+0 Accident]** : alors que l'employé **[Le Préposé de l'Exploitation]** était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé ; par réflexe, **[La Victime]** a tendu la main droite pour protéger **[Le Préposé de l'Exploitation]**, et sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
+Par cet acte, fondé sur les articles 2 et suivants du Code de procédure pénale, la victime entend exercer les droits reconnus à la partie civile afin d'obtenir la réparation de l'intégralité des préjudices découlant de l'accident corporel dont elle a été victime le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) : alors que l'employé [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé ; par réflexe, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a tendu la main droite pour protéger [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md), et sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
-Cette constitution de partie civile permet à **[La Victime]** de participer activement à la procédure pénale et de solliciter l'indemnisation de ses préjudices devant la juridiction répressive.
+Cette constitution de partie civile permet à [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) de participer activement à la procédure pénale et de solliciter l'indemnisation de ses préjudices devant la juridiction répressive.
 
 À adresser par lettre recommandée ou par télécopie au tribunal ou à remettre au greffe.
 
 Adresse du tribunal :
 
-Tribunal Correctionnel de **[La Ville de l'Accident]**
+Tribunal Correctionnel de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
 **[Adresse Tribunal Judiciaire]**
 
-**[Code Postal de l'Accident]** **[La Ville de l'Accident]**
+[**[Code Postal de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-code-postal.md) [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
 Je soussigné(e) :
 
-**[La Victime]**, né le 18 janvier 1982 à **[La Métropole Régionale]**, demeurant au **[L'Adresse de la Victime]**.
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), né le 18 janvier 1982 à [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md), demeurant au [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md).
 
-Profession : Informaticien indépendant (**[L'Identifiant Professionnel de la Victime]**)
+Profession : Informaticien indépendant ([**[L'Identifiant Professionnel de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md))
 
 Agissant en mon nom personnel.
 
 Déclare me constituer partie civile contre :
 
-**[L'Exploitant du Commerce (La SAS)]** (**[Le Président de l'Exploitation]**, Président) et **[La Directrice Générale de l'Exploitation]** (Directrice Générale).
+[**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ([**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), Président) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (Directrice Générale).
 
 Dans l'affaire qui doit être examinée par le tribunal :
 
@@ -88,7 +88,7 @@ Pour justifier le préjudice subi :
 
 **[X]** Je souhaite compléter l'information du tribunal par les explications ci-jointes (sur feuille libre à joindre) : Voir Conclusions de Partie Civile ci-jointes (3 pages).
 
-Fait à **[La Ville de Résidence de la Victime]**, le **[J+32 Assignation référé]**
+Fait à [**[La Ville de Résidence de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
 
 Signature :
 <hr><hr>
