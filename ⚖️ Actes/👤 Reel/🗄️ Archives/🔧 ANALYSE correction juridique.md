@@ -120,8 +120,11 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 ## IV — PLAN D'ACTION CONTENTIEUX
 
 1. Référé-communication : Engager une procédure sur le fondement de [Article 145 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^8] pour obtenir la police d'assurance et interrompre la prescription.
+
 1. Référé-provision : Solliciter une provision de 5 000 € à valoir sur l'indemnisation finale.
+
 1. Expertise médicale : Obtenir une mesure d'expertise judiciaire pour évaluer les postes de préjudice corporel.
+
 1. Conclusion de partie civile : Déposer des conclusions motivées devant le Tribunal correctionnel.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>

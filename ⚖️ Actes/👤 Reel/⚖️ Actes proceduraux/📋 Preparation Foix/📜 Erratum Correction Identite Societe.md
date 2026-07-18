@@ -54,8 +54,11 @@ J'ai donc, de bonne foi, établi l'ensemble de mes démarches en désignant cett
 
 À cette date, j'ai envoyé plusieurs lettres recommandées avec accusé de réception, toutes désignant [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) comme destinataire ou société visée :
 - LRAR à [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
+
 - LRAR à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)
+
 - LRAR à [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
+
 - LRAR à [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)
 
 À la même période, j'ai adressé des signalements et courriers à diverses autorités administratives (Préfecture, Inspection du Travail, CODAF, Mairie, URSSAF, SIE, SDIS, INPI, Conseil Départemental, CPAM) mentionnant la même identification de la société exploitante.
@@ -92,27 +95,40 @@ La présente rectification s'applique à l'ensemble des actes, courriers et dém
 
 **A. Plainte pénale initiale :**
 - PV n° [2026/015967](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md) du 2 juin 2026 — Commissariat de [Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) Rive Droite
+
 - Dossier de plainte écrit remis le 1er juin 2026
 
 **B. Mises en demeure LRAR du 29 juin 2026 :**
 - LRAR à [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — 22 rue Lafaurie, 09000 [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
+
 - LRAR à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) — [108 Avenue Paul Bert, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-adresse.md)
+
 - LRAR à [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
+
 - LRAR à [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)
 
 **C. Signalements administratifs (juin-juillet 2026) :**
 - Préfecture de l'Ariège (Transmis par Mairie de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md))
+
 - Inspection du Travail de l'Ariège
+
 - CODAF (Comité Départemental de la Consommation)
+
 - URSSAF Midi-Pyrénées
+
 - SIE (Service des Impôts des Entreprises)
+
 - SDIS 09
+
 - INPI
+
 - Conseil Départemental de l'Ariège
+
 - Mairie de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
 **D. Suivi administratif et judiciaire :**
 - Dossier Recours contre Tiers CPAM (n° [31727387](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md))
+
 - Saisine du Tribunal Judiciaire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
 <hr><hr>
@@ -144,9 +160,13 @@ En conséquence de ce qui précède, je soussigné [Sébastien GRAZIDE](../../..
 Je tiens à préciser les points suivants afin d'écarter toute ambiguïté :
 
 - **Je n'ai jamais eu connaissance de l'existence de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) avant le 16 juillet 2026.** Aucun document, panneau, facture, site web ou toute autre source d'information ne m'avait permis d'identifier cette société avant cette date.
+
 - **Dès ma première plainte, j'ai signalé mon incertitude** aux services de police, comme en atteste le procès-verbal.
+
 - **C'est uniquement par un déplacement physique sur place** que j'ai pu découvrir l'enseigne réelle. Les recherches à distance (sites web, annuaires, réseaux sociaux) s'étaient révélées insuffisantes.
+
 - **La création très récente de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (22 avril 2026, soit 37 jours avant l'accident)** explique que les bases de données publiques n'étaient pas encore à jour lors de mes premières investigations en juin 2026.
+
 - **Je n'ai modifié aucun fait, aucune date, aucune circonstance** de l'accident lui-même, qui reste rigoureusement identique à ma première déclaration.
 
 Cette correction est effectuée en toute transparence et dans un souci de loyauté procédurale, afin que l'enquête et les procédures puissent être dirigées avec exactitude vers la société ayant réellement exploité le fonds de commerce au moment des faits.

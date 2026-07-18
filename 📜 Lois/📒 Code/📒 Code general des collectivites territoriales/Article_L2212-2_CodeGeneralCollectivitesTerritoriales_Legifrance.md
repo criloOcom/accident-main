@@ -45,8 +45,11 @@ article: L2212-2
 Cet article définit les pouvoirs de police du maire en matière de sécurité et de salubrité publiques. Il est crucial dans notre dossier pour :
 
 1. **Le contrôle des ERP** (Établissements Recevant du Public)
+
 2. **La prévention des accidents** dans les lieux publics
+
 3. **L'intervention en cas de danger** dans le salon de coiffure
+
 4. **Les mesures de sécurité** à imposer aux commerces
 
 ---
@@ -56,8 +59,11 @@ Cet article définit les pouvoirs de police du maire en matière de sécurité e
 Dans notre cas, cet article permet au maire de Foix :
 
 1. **Ordonner des mesures de sécurité** dans le salon de coiffure
+
 2. **Faire cesser les dangers** liés à l'équipement défectueux
+
 3. **Prendre des mesures d'urgence** pour prévenir les accidents
+
 4. **Contrôler le respect des normes ERP**
 
 ---
@@ -65,6 +71,7 @@ Dans notre cas, cet article permet au maire de Foix :
 ## Jurisprudence associée
 
 - **CE, 19 juillet 2019, n° 415678** : Étend les pouvoirs du maire aux ERP
+
 - **CAA Bordeaux, 5 mars 2020, n° 18BX03456** : Précise les mesures possibles
 
 ---
@@ -73,6 +80,7 @@ Dans notre cas, cet article permet au maire de Foix :
 
 Cet article est cité dans :
 - **Document 29 ✉️ Courrier Maire Foix.md** : Demande d'intervention pour contrôle ERP
+
 - **Document ✉️🚨 Prefecture.md** : Demande de contrôle de sécurité
 
 ---

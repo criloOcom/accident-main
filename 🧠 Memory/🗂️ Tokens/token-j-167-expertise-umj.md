@@ -27,25 +27,37 @@ Expertise médicale ordonnée par réquisition de l'autorité judiciaire (dans l
 
 L'expertise évalue :
 - La durée de l'ITT (56 jours confirmée ou révisée)
+
 - Le taux de DFP — estimation : 12 %
+
 - La date de consolidation
+
 - Les souffrances endurées (SE) — estimation : 4/7
+
 - Le préjudice esthétique (PEP) — cicatrice palmaire 8,5 cm
+
 - L'incidence professionnelle (IP) — perte d'activité d'auto-entrepreneur ([L'Identifiant Professionnel de la Victime](token-victime-id-professionnel.md))
+
 - Le préjudice d'agrément (guitare, loisirs)
 
 ## Acteurs concernés
 
 - **[La Victime]** — expertisé
+
 - **Médecin légiste UMJ Purpan** — expert
+
 - **[Le Chirurgien SOS Main]** — médecin traitant (transmission du dossier)
+
 - **Parquet de [La Ville de l'Accident](token-accident-ville.md)** — autorité requérante
 
 ## Conséquences juridiques
 
 - L'expertise UMJ produit un **rapport médico-légal** servant de référence pour l'évaluation définitive du préjudice.
+
 - Les conclusions détermineront le **montant de l'indemnisation** (évaluation Dintilhac ~109 500 € / compromis ~85 000 €).
+
 - Le rapport est versé au dossier pénal (instruction) ET civil (référé / expertise 145).
+
 - Une contre-expertise peut être sollicitée si les conclusions sont contestées.
 
 ## Croisements

@@ -56,7 +56,9 @@ auteur: La Victime
 ## 3. Mode d'emploi
 
 - Mettre à jour ce tableau dès qu'un jalon est **réalisé** (✅), **programmé** (date fixée) ou **échu** (silence Préfecture / IT → CADA).
+
 - Pour les dates « +2 mois après AR », reporter les dates exactes depuis la **[📋 Fiche Suivi Démarches Administratives]**(📋%20Fiche%20Suivi%20Démarches%20Administratives.md).
+
 - Utiliser ce mini calendrier comme vue synthétique pour les échanges avec l'avocat AJ (pénal + civil + administratif).
 
 ---

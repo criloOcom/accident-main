@@ -67,17 +67,23 @@ Ce document répertorie l'ensemble des preuves acquises et à obtenir dans le ca
 
 L'analyse de l'inventaire probatoire (Preuves Acquises) met en évidence un déséquilibre :
 - **Points forts :** Le dossier est extrêmement solide sur le plan médical (constats, CR opératoires, suivi) et procédural (plaintes, mises en demeure, identification des entités).
+
 - **Lacunes majeures :** Le dossier souffre d'un manque de preuves purement matérielles concernant les circonstances de l'accident (l'évènement déclencheur).
 
 ### Preuves Critiques Manquantes
 
 1. **L'Attestation d'Assurance RC Pro :** C'est la clé de voûte de l'indemnisation financière (Action directe). En l'absence de ce document, la solvabilité repose uniquement sur les dirigeants de la SAS.
+
 2. **Preuves Matérielles de la Défectuosité (Vidéos, Constats) :** Sans ces éléments, l'exploitant pourrait tenter de soulever une faute de la victime ou un cas de force majeure pour s'exonérer de la responsabilité de plein droit (Art 1242 C. civ.).
+
 3. **Attestations de Témoins :** Indispensables pour corroborer la chronologie des événements dans le salon si l'enregistrement vidéo a été effacé.
 
 ### Plan d'Action Correctif
 
 - **Action immédiate (J+0) :** Relancer la police municipale/nationale de **[La Ville de l'Accident]** pour s'assurer de la conservation de la vidéosurveillance (Courrier de relance déjà préparé).
+
 - **Action sous 48h :** Contacter l'huissier (Étude LAPORTE) pour évaluer la faisabilité et le coût d'un constat sur place du bac à shampoing, sur le fondement de l'article 145 CPC.
+
 - **Action sous 15 jours :** Exécution du référé-communication contre la SAS et ses dirigeants pour obtenir la police d'assurance.
+
 - **En continu :** Travail de recherche pour identifier et contacter les personnes (clients ou employés) présentes le 29/05/2026.

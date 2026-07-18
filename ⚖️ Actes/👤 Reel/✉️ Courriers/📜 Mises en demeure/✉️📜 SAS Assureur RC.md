@@ -73,6 +73,7 @@ En application de ce texte, je vous mets donc formellement en demeure, en votre 
 1. **Confirmer par écrit**, dans un délai de 30 jours à compter de la réception de la présente, que vous garantissez la responsabilité civile de la société [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au titre de l'exploitation du salon situé [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), et ce pour la période incluant le 29 mai 2026 ;
 
 2. **Me communiquer copie intégrale** de la police d'assurance concernée (conditions générales et particulières), en précisant notamment :
+
    - le numéro de contrat,
    - la période de validité,
    - l'étendue des garanties souscrites,
@@ -82,6 +83,7 @@ En application de ce texte, je vous mets donc formellement en demeure, en votre 
 3. **Prendre position de manière claire** sur la garantie de ce sinistre (position de principe sur la prise en charge des conséquences de l'accident du 29 mai 2026) au regard des obligations contractuelles de votre assurée ;
 
 4. **Me verser, à titre de provision**, une somme de **15 000 € (quinze mille euros)** à valoir sur l'indemnisation définitive de mes préjudices, montant cohérent avec :
+
    - la preuve de l'accident et des lésions (PV de police, certificat médical initial, compte-rendu opératoire),
    - la durée d'ITT (56 jours) et la consolidation à 12 mois,
    - les conclusions de l'expertise médicale judiciaire (DFP 12 %, SE 4/7, incidence professionnelle majeure),

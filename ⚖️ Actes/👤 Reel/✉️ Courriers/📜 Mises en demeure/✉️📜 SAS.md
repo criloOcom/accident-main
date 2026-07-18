@@ -5,8 +5,11 @@ type: courrier
 date: 2026-06-29
 tags:
 - mise en demeure
+
 - SAS
+
 - assurance
+
 - LRAR
 statut: envoye
 destinataire: L'Exploitant du Commerce (La SAS)

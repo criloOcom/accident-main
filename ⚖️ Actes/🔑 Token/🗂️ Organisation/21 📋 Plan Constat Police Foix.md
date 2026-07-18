@@ -22,6 +22,7 @@ Ce plan analyse la possibilité juridique de demander au Maire de [**[La Ville d
 *   **La limite majeure (Procédure Civile)** : 
     Un rapport de police municipale a une valeur administrative ou pénale, mais **n'a pas la force probante d'un constat de Commissaire de Justice (Huissier)** devant un tribunal civil pour l'indemnisation de vos préjudices. La police ne constatera pas pour votre compte le "nom de la nouvelle entreprise" ou les détails civils dans le but de vous aider à monter votre dossier de dommages-intérêts (ce n'est pas leur rôle légal).
 *   **La complémentarité des deux démarches** :
+
     1.  **La Police Municipale (via le Maire)** : Intervient pour la sécurité publique, constate les infractions aux normes ERP et peut provoquer une fermeture administrative si le bac à shampoing dangereux ou d'autres installations menacent d'autres clients.
     2.  **L'Huissier (Commissaire de Justice)** : Fait un constat précis et neutre de la configuration des lieux, de l'identité de l'exploitant réel présent sur le terrain, pour servir de preuve incontestable devant le tribunal.
 <hr><hr>

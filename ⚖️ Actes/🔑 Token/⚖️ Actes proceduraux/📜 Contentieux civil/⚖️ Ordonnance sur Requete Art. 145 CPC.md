@@ -44,13 +44,21 @@ tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le f
 **Vu les pièces produites à l'appui de la requête**, et notamment :
 
 - la plainte initiale déposée au commissariat de [**[La Ville de l'Accident]**] début juin 2026,
+
 - la plainte complémentaire du 20 juillet 2026,
+
 - la note de constatations du 16 juillet 2026 (visite des lieux) et les photos des lieux modifiés (bac à shampoing remplacé, meuble TV démonté),
+
 - les courriers recommandés du [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) adressés à [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), à son président et à [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) (bailleur),
+
 - le courriel de [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) du 16 juillet 2026 et les états des lieux de sortie du 10 mars 2026,
+
 - les extraits du Registre national des entreprises / DATA INPI et de l'avis de situation SIRENE concernant **[Le Nouvel Exploitant (HB BARBER)]** (SIREN [**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md), SIRET [**[SIRET du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-id.md)),
+
 - la liste des souscripteurs et le certificat de dépôt de fonds de **[Le Nouvel Exploitant (HB BARBER)]**,
+
 - les certificats médicaux et comptes rendus opératoires du [**[J+1 Chirurgie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) (service SOS Main – [**[L'Établissement SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)),
+
 - tout autre document figurant au bordereau annexé à la requête ;
 
 **Vu l'article 145 du Code de procédure civile**, aux termes duquel :
@@ -68,6 +76,7 @@ tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le f
 **Considérant** qu'au vu des extraits RNE / DATA INPI et de l'avis de situation SIRENE produits, il ressort qu'une autre société, **[Le Nouvel Exploitant (HB BARBER)]**, immatriculée sous le SIREN [**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md), exploite l'établissement situé à la même adresse ([**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)) depuis le 22 avril 2026, sous la direction de :
 
 - [**[Le Président du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md), Président,
+
 - [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), Directrice Générale ;
 
 que la liste des souscripteurs et le certificat de dépôt de fonds établissent un capital de [**[Capital Social du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-capital-social.md) (1 000 actions de 1 €), dont 990 actions souscrites par [**[Le Président du Nouvel Exploitant]**] et 10 par [**[La Directrice Générale de l'Exploitation]**] ;
@@ -77,8 +86,11 @@ que la liste des souscripteurs et le certificat de dépôt de fonds établissent
 **Considérant** que, malgré plusieurs courriers recommandés et relances amiables, le requérant ne parvient pas à obtenir :
 
 - ni les contrats d'assurance de responsabilité civile professionnelle couvrant l'activité de coiffure / barbier de **[Le Nouvel Exploitant (HB BARBER)]** au [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md),
+
 - ni la communication du bail commercial et des états des lieux d'entrée / sortie des exploitants successifs,
+
 - ni les attestations d'assurance éventuellement souscrites par le bailleur pour l'immeuble,
+
 - ni, le cas échéant, les enregistrements de vidéosurveillance permettant de retracer précisément les circonstances de l'accident ;
 
 **Considérant** que l'identification de la personne responsable et de son ou ses assureurs est déterminante pour la solution du futur litige civil relatif à l'indemnisation du dommage corporel ; que le requérant entend notamment exercer, le cas échéant, son droit d'action directe contre l'assureur de la personne responsable, en application de l'article L.124-3 du Code des assurances ;
@@ -88,7 +100,9 @@ que la liste des souscripteurs et le certificat de dépôt de fonds établissent
 **Considérant** qu'il existe, dans ces conditions, un motif légitime, au sens de l'article 145 du Code de procédure civile, d'ordonner avant tout procès les mesures d'instruction sollicitées, légalement admissibles, afin de conserver et d'établir la preuve de faits dont pourrait dépendre la solution du litige ; qu'il est proportionné de faire droit aux demandes de communication formées à l'encontre :
 
 - de [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), en sa qualité de propriétaire bailleur,
+
 - de **[Le Nouvel Exploitant (HB BARBER)]** et de ses dirigeants,
+
 - et subsidiairement de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ;
 
 **Considérant** qu'il y a lieu d'assortir ces mesures d'une astreinte, afin d'en garantir l'effectivité ;
@@ -104,6 +118,7 @@ Statuant sur requête, hors la présence des parties,
 **ORDONNE** à [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), propriétaire des locaux sis [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), de communiquer à [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), par l'intermédiaire de son conseil, dans un délai de **30 jours** à compter de la signification de la présente ordonnance :
 
 1. Le ou les baux commerciaux (et tous avenants) liant le propriétaire aux exploitants successifs du local, et en particulier :
+
    - le bail conclu avec [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md),
    - le bail ou avenant conclu avec **[Le Nouvel Exploitant (HB BARBER)]**,
    dans leur version complète ou, à défaut, au moins les clauses relatives à l'identité du preneur, à la date d'entrée dans les lieux, aux obligations d'assurance du preneur et aux obligations d'entretien / de sécurité ;

@@ -366,23 +366,35 @@ print("PISTE_CREDENTIALS configuré:", bool(os.environ.get("PISTE_CREDENTIALS"))
 
 ### Légifrance - Fonds Disponibles
 - `JURI` : Jurisprudence
+
 - `CODE` : Codes (Civil, Pénal, etc.)
+
 - `LODA` : Lois et décrets
+
 - `KALI` : Conventions collectives
+
 - `CNIL` : CNIL
+
 - `CONSTIT` : Constitution
+
 - `JUF` : Jurisprudence financière
 
 ### Judilibre - Chambres
 - `civ1`, `civ2`, `civ3` : Chambres civiles
+
 - `soc` : Chambre sociale
+
 - `com` : Chambre commerciale
+
 - `crim` : Chambre criminelle
 
 ### Judilibre - Solutions
 - `cassation` : Décision de cassation
+
 - `rejet` : Rejet du pourvoi
+
 - `qpc` : Question prioritaire de constitutionnalité
+
 - `irrecevabilité` : Pourvoi irrecevable
 
 ---

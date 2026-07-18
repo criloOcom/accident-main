@@ -6,10 +6,15 @@ type: courrier
 date: 2026-07-15
 tags:
 - consultation
+
 - avocat
+
 - proactivite
+
 - inspection du travail
+
 - CODAF
+
 - prefecture
 statut: final
 destinataire: Avocat

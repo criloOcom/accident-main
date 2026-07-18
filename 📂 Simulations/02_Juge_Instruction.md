@@ -61,6 +61,7 @@ Afin de faire la lumière sur les responsabilités de chacun et l'étendue du pr
 - **Expertise médicale judiciaire** : Désignation d'un expert, possiblement de l'Unité Médico-Judiciaire (UMJ), pour évaluer de manière contradictoire les préjudices corporels de **[La Victime]** après consolidation, sur la base de la nomenclature Dintilhac (et éventuellement du barème Mornet).
 
 - **Réquisitions judiciaires** :
+
   - Aux services de police pour l'audition de **[Le Préposé de l'Exploitation]** et l'exploitation de la vidéosurveillance du salon, si elle existe.
   - À l'Inspection du Travail pour vérifier les manquements en matière d'équipements (articles R. 4323-58 et suivants du Code du travail).
   - À l'URSSAF et à la Préfecture concernant l'exploitation du salon et les obligations administratives et assurantielles.

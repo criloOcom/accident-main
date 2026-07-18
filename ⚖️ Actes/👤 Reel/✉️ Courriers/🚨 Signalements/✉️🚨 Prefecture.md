@@ -6,10 +6,15 @@ type: courrier
 date: 2026-07-05
 tags:
 - préfecture
+
 - signalement
+
 - sécurité
+
 - ERP
+
 - CODAF
+
 - LRAR
 statut: final — mis à jour avec expertise 2027-05-29
 destinataire: Préfecture de l'Ariège — Référent CODAF

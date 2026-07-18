@@ -28,6 +28,7 @@ Date d'état civil de la victime, reprise dans tous les actes de procédure (ide
 ## Enjeu juridique — État civil
 
 - Figure obligatoirement dans l'**identification** de la victime : assignation référé, requête art. 145, constitution de partie civile.
+
 - ⚠ **Vigilance absolue** : la date correcte est **18 janvier 1982**. Une erreur récurrente (12 mars) doit être systématiquement écartée — source STRICT VARIABLES.
 
 ## Croisements
@@ -37,7 +38,9 @@ Date d'état civil de la victime, reprise dans tous les actes de procédure (ide
 ## Documents liés
 
 - [Assignation Référé J+32](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md) (identification du demandeur)
+
 - [Requête Art. 145 CPC J+37](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) (identification)
+
 - [Constitution Partie Civile J+38](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (état civil partie civile)
 
 ## Source

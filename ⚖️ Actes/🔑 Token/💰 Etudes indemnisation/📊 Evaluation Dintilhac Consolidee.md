@@ -273,9 +273,13 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 
 **Éléments couverts :**
 1. Dévalorisation sur le marché du travail (informaticien droitier avec séquelles index)
+
 2. Obligation d'adaptation ergonomique (souris verticale, logiciel dictée vocale, clavier ergonomique : ~1 000-3 200 €)
+
 3. Perte de clientèle (indépendant : 56 jours sans prospection)
+
 4. Pénibilité accrue (travail plus lent, douleurs neuropathiques)
+
 5. Perte de droits à la retraite
 
 **Analyse des écarts :** Glose calcule l'IP comme une perte temporaire sur 12 mois (750 € × 25% × 12 = 2 250 €), tandis que la méthode BIBAL capitalise sur la durée de vie professionnelle restante. La méthode BIBAL est plus conforme à la jurisprudence récente, notamment Cass. 2e civ., 2 avril 2026, n° 24-20.972 sur l'évaluation de la perte de gains professionnels futurs (victime devant être replacée dans un emploi équivalent). Notre estimation (30 000 €) est plus proche de la pratique judiciaire pour un indépendant avec séquelles de la main dominante.
@@ -418,9 +422,13 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Méthode pour identifier l'assureur :**
 1. Consultation RNE/INPI (déjà fait)
+
 2. Saisine greffe TC de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) pour coordonnées assurance
+
 3. Interrogation ORIAS
+
 4. Questionnement dirigeants sous astreinte
+
 5. Assignation [art. 145 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^14] si refus persistant
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
@@ -438,7 +446,9 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Fondements potentiels :**
 1. Absence d'assurance RC (si inexistante) → faute de gestion
+
 2. Maintien équipement dangereux → faute personnelle
+
 3. Dissolution frauduleuse → abus de biens sociaux / banqueroute
 
 > *« Les dispositions de la présente section sont applicables : 1° A toute personne exerçant une activité commerciale ou artisanale, à tout agriculteur et à toute personne physique exerçant une activité professionnelle indépendante, y compris une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé ; 2° A toute personne qui a, directement ou indirectement, en droit ou en fait, dirigé ou liquidé une personne morale de droit privé ; 3° Aux personnes physiques représentants permanents de personnes morales dirigeants des personnes morales définies au 2° ci-dessus. »* <br>
@@ -458,10 +468,15 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Conditions cumulatives :**
 1. Infraction pénale caractérisée → blessures involontaires (art. 222-19 CP) — ITT 56 jours
+
 2. Seuil CIVI : ITT ≥ 1 mois → **largement dépassé** (56 jours)
+
 3. Auteur insolvable — condition remplie (capital 200 €)
+
 4. Victime personne physique → OK
+
 5. Nationalité française → OK
+
 6. Exclusion → hors Badinter, hors ONIAM → dans le champ
 
 > *« Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. »* <br>
@@ -522,31 +537,41 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 ### XXIII.1 — Phase 1 — Urgence (été 2026)
 
 1. Relancer enquête pénale pour identifier assureur RC
+
 2. Préparer dossier expertise 12 novembre 2026
+
 3. Conserver tous justificatifs
 
 ### XXIII.2 — Phase 2 — Référé (avant expertise)
 
 4. Assigner SAS + dirigeants en référé-provision (15 000 €)
+
 5. Demander communication contrats d'assurance
 
 ### XXIII.3 — Phase 3 — Post-expertise (nov. 2026 - janv. 2027)
 
 6. Réception rapport expertise
+
 7. Chiffrage définitif des préjudices
+
 8. Négociation amiable avec assureur (si identifié)
+
 9. Assignation au fond
 
 ### XXIII.4 — Phase 4 — Si insolvabilité confirmée (début 2027)
 
 10. Saisine CIVI du TJ de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)
+
 11. Demande indemnisation FGTI (réparation intégrale)
+
 12. Constitution partie civile
 
 ### XXIII.5 — Phase 5 — Substitution (mi 2027)
 
 13. Le FGTI indemnise la victime
+
 14. Le FGTI exerce recours subrogatoire
+
 15. Le SARVI intervient si condamnation pénale non exécutée
 
 <hr><hr>
@@ -589,8 +614,11 @@ Trois évaluations convergent vers une provision minimale de **10 000 à 15 000 
 
 La provision de [**[Finance Provision Référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) est justifiée par :
 1. L'urgence médicale (rééducation, adaptation ergonomique)
+
 2. L'insolvabilité de la SAS (capital 200 €)
+
 3. La nécessité de préparer l'expertise du 12 novembre 2026
+
 4. Le droit à réparation intégrale (art. 1240 C. civ.)
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>

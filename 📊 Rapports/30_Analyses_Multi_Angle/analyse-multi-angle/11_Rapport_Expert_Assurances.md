@@ -56,6 +56,7 @@ En revanche, la Commission d'Indemnisation des Victimes d'Infractions (CIVI), do
 
 Selon l'article 706-3 du Code de procédure pénale :
 - Toute personne ayant subi un préjudice résultant de faits volontaires ou non qui présentent le *caractère matériel d'une infraction* peut obtenir la réparation intégrale des dommages.
+
 - Les conditions sont réunies dès lors que les faits ont entraîné la mort, une incapacité permanente, ou une incapacité totale de travail (ITT) égale ou supérieure à un mois.
 
 Dans ce dossier, le défaut caractérisé d'entretien et de sécurité du bac à shampoing (cassure majeure préexistante non signalée) ayant causé un sectionnement de l'index droit avec ITT supérieure à un mois, caractérise matériellement l'infraction de blessures involontaires par imprudence ou négligence. La saisine de la CIVI est donc fondée pour pallier l'insolvabilité et la non-assurance de l'exploitant.

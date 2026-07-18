@@ -16,19 +16,33 @@ type: rapport
 ## I — RECONSTITUTION DE LA TIMELINE GLOBALE
 
 - **J+0 :** Accident — 29/05/2026
+
 - **J+1 :** SOS Main (Chirurgie) — 30/05/2026
+
 - **J+31 :** Mises en demeure (Assureur, SAS, Propriétaire, Président) — 29/06/2026
+
 - **J+32 :** Assignation Référé Provision & Plainte Défaut Assurance RC — 30/06/2026
+
 - **J+37 :** Relances & Signalements (URSSAF, Inspection du Travail, etc.) — 05/07/2026
+
 - **J+38 :** Constitution de Partie Civile, Requête Constat Huissier, Saisine FGTI — 06/07/2026
+
 - **J+39 :** Conclusions Référé Provision — 07/07/2026
+
 - **J+41 :** Opposition Immatriculation INPI & Radiation TC — 09/07/2026
+
 - **J+47 :** Requête Article 145 CPC & Plainte Complémentaire — 15/07/2026
+
 - **J+54 :** Ordonnance sur Requête Art. 145 CPC — 22/07/2026
+
 - **J+63 :** Audience et Projet Ordonnance Référé — 31/07/2026
+
 - **Expertise UMJ :** 12/11/2026
+
 - **Consolidation :** 01/03/2027
+
 - **Rapport d'expertise médicale :** 29/05/2027
+
 - **Conclusions au Fond (TJ Foix) :** 01/06/2027
 
 <hr><hr>
@@ -60,4 +74,5 @@ type: rapport
 ## III — RÉSUMÉ DES ACTIONS REQUISES
 
 - [ ] Corriger immédiatement l'anachronisme dans la `Constitution de Partie Civile` (J+38) qui cite des événements de 2027.
+
 - [ ] Le calendrier global est cohérent et les prescriptions sont respectées.

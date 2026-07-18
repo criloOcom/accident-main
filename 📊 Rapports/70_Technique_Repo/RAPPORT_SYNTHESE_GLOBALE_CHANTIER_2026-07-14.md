@@ -33,9 +33,13 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 
 ### I.3 — L'enjeu
 - Capital social de **200€** — insolvabilité quasi-certaine de la SAS
+
 - Évaluation Dintilhac : **~85 000 €** (compromis) à **~105 000 €** (optimiste)
+
 - Voie principale : responsabilité civile (Art. 1240+1242 C.civ.) + action directe (L.124-3 C.assur.)
+
 - Relais : FGTI/CIVI (Art. 706-3 CPP) si insolvabilité
+
 - Codéfendeurs : SAS + dirigeants à titre personnel (faute détachable)
 
 ---
@@ -52,22 +56,36 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 
 ### II.2 — Préparation juridique (juillet 2026)
 - **14 documents** injectés et anonymisés sur Google Drive (Assignation, Plainte, Constitution PC, Analyses juridiques...)
+
 - **Annexes A+B+C** ajoutées aux 14 documents
+
 - **3 analyses juridiques externes** intégrées (Glose, 3e analyse, mémoire défense adverse)
+
 - **57 fichiers réels** générés via `generate_real_versions.py`
+
 - **12 PRs Jules mergées** (#73-#84) : audits, RGPD, barémique, assurance, FGTI, organisation
+
 - **5 PRs mergées** (#121-#125) : M08-M15 (responsabilité dirigeants, INPI, SIE, huissier, fiche réflexe)
+
 - **RGPD nettoyé** : ANNEXE A supprimée, fuites DJERBI/PV police anonymisées
+
 - **Hallucinations corrigées** (4 phases, 50 fichiers, 25 erreurs dont SATI)
+
 - **1 hallucination probable identifiée** (08-15.103 — marquée "À VÉRIFIER")
+
 - **JURITEXT vérifiés** : 14 validés, 6 corrigés via MCP Légifrance
+
 - **6 arrêts clés** recherchés et intégrés dans la stratégie jurisprudentielle
+
 - **Recherche RNE/INPI** : SAS toujours Active — NPAI = salon fermé, pas de structure miroir
 
 ### II.3 — Infrastructure
 - Drive CLI fonctionnel (list, upload, download, export, search)
+
 - MCP bridge Légifrance+Judilibre
+
 - NotebookLM synchronisé (126 fichiers)
+
 - Workflows GitHub (sync-notebooklm, CI)
 
 ---
@@ -130,22 +148,30 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 
 ### V.1 — J+0 à J+3 (11-13 juillet 2026)
 1. **Imprimer + envoyer les 4 LRAR Vague 1** (URSSAF, CODAF, FGTI, Président TJ) — checklist [fichier 24](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%93%91%20Bordereau%20Unifie.md)
+
 2. **Copier-coller l'email Maire Foix** dans Gmail manuellement (OAuth bloqué)
+
 3. **Noter les N° LRAR** sur la checklist → reporter dans [fichier 23](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%93%91%20Bordereau%20Unifie.md)
 
 ### V.2 — J+3 à J+7 (13-17 juillet 2026)
 4. **Envoyer les 7 LRAR Vague 2** (INPI, Préfecture, SIE, CD, SDIS, Police, CPAM)
+
 5. **Chercher un huissier** à Foix/Pamiers — demander devis pour constat vasque
+
 6. **Chercher un avocat** en droit du dommage corporel (barreau de Foix)
+
 7. **Communiquer les coordonnées des témoins potentiels** à [La Victime] pour envoi attestations Cerfa
 
 ### V.3 — J+7 à J+15 (18-24 juillet 2026)
 8. **Déposer assignation référé-provision** + **référé Art. 145 CPC** (par huissier/avocat)
+
 9. **Relance Dr DJERBI** pour certificat de consolidation
+
 10. **Vérifier retour AR** des LRAR 29/06 (NPAI confirmé ?)
 
 ### V.4 — Août-septembre 2026
 11. **Audience(s) de référé** — obtenir provision + communication assurance
+
 12. **Préparation dossier Aide Juridictionnelle** (si éligible)
 
 ### V.5 — 12 novembre 2026
@@ -169,9 +195,13 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 ### VI.2 — 🟡 Points de vigilance
 
 - **Délai amiable expire le 14 juillet** → action judiciaire possible dès le 15/07
+
 - **OAuth Gmail bloqué** (`invalid_grant`) → tous les drafts email doivent être copiés-collés manuellement
+
 - **08-15.103** : hallucination probable dans les fichiers Dintilhac (marquée "À VÉRIFIER")
+
 - **Adresse PV police** : "22 RUE DE LA FAURIE" (orthographe phonétique) — variance mineure sans incidence
+
 - **Prescription** : 10 ans à compter de la consolidation (Art. 2226 C.civ.) — pas de risque immédiat
 
 ---
@@ -180,24 +210,34 @@ Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 an
 
 ### VII.1 — Pilotage
 - **Basculer en mode judiciaire dès le 15/07** — la phase amiable est terminée sans résultat
+
 - **Prioriser l'huissier et l'avocat** avant toute autre action — ce sont les deux goulets d'étranglement
+
 - **Verrouiller les preuves** : constat huissier + recueil d'attestations de témoins potentiels (Cerfa) avant fin juillet
 
 ### VII.2 — Stratégique
 - **Ne pas miser sur la SAS seule** — capital 200€, dirigeants introuvables, NPAI généralisé
+
 - **Activer le FGTI/CIVI en parallèle** (Art. 706-3 CPP) — voie de recouvrement la plus réaliste
+
 - **Maintenir la pression sur les dirigeants** (L.227-8 C.com., L.651-2, banqueroute L.654-6)
+
 - **Consolider le dossier médical** — le certificat de consolidation est le préalable à l'évaluation définitive
 
 ### VII.3 — Documentaire
 - **Tenir à jour le [fichier 23](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%93%91%20Bordereau%20Unifie.md) (Suivi LRAR)** après chaque envoi — le tableau de bord est l'outil de pilotage
+
 - **Photographier chaque LRAR + PJ** avant dépôt — trace irremplaçable
+
 - **Scanner et classer les AR** dans le dossier preuves dès réception
+
 - **Mettre à jour STATUS.md** après chaque action (dernière entrée : 10/07 — Phase 17)
 
 ### VII.4 — Technique
 - **Checker `check_consistency.py`** avant chaque commit (0 erreur actuellement)
+
 - **Vérifier les JURITEXT via MCP Légifrance** avant toute nouvelle citation (protocole strict)
+
 - **Ne jamais inventer un statut juridique** (rappel : hallucination "liquidation" du 3 juillet)
 
 ---

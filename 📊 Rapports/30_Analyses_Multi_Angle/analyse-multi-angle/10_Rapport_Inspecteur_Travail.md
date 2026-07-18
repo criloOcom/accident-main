@@ -82,7 +82,9 @@ L'autorité administrative peut intervenir directement pour empêcher la répét
 
 Une mise en demeure de l'inspection du travail à l'encontre de **[L'Exploitant du Commerce (La SAS)]** s'impose afin d'exiger :
 - La vérification immédiate de la solidité et de l'intégrité de l'ensemble du mobilier professionnel et des vasques.
+
 - La mise à disposition d'un escabeau normé pour toute intervention en hauteur.
+
 - L'actualisation sous huitaine du Document Unique d'Évaluation des Risques Professionnels (DUERP).
 
 <hr><hr>
@@ -92,5 +94,7 @@ Une mise en demeure de l'inspection du travail à l'encontre de **[L'Exploitant 
 L'accident du 29 mai 2026 met en lumière de graves défaillances dans l'organisation du travail et le maintien en sécurité du matériel au sein du salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]**.
 
 1. **Constatation des infractions** : Il convient de dresser un PV pour infraction aux règles de santé et de sécurité (L.4121-1 et R.4323-58) et de le transmettre au Parquet.
+
 2. **Mesures immédiates** : Procéder à une mise en demeure (L.4721-1) pour exiger la fourniture d'équipements adaptés et la sécurisation du mobilier.
+
 3. **Implications pour le tiers** : Bien que **[La Victime]** ne soit pas un salarié, les constats de l'Inspection du Travail constituent une preuve matérielle irréfutable de la faute de la société et des manquements personnels de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, consolidant leur mise en cause sur le plan de la responsabilité civile et pénale de droit commun.

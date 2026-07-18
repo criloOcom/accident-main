@@ -49,7 +49,9 @@ Lorsque vous consultez un document de la strate Token, il diffère légèrement 
 La structure de nos fichiers reflète la logique procédurale. Chaque fichier `.md` (Markdown) de la strate Token correspond directement à un futur document juridique :
 
 *   Un fichier nommé `assignation.md` dans la strate Token a vocation à devenir votre projet d'assignation finalisé dans la strate Reel.
+
 *   Les titres à l'intérieur de ces fichiers (précédés par des `#` ou des `##`) se transformeront automatiquement en titres hiérarchiques propres dans la version finale (PDF ou Word).
+
 *   La rédaction s'effectue dans ces fichiers `.md`. La mise en page définitive (police, marges) est appliquée automatiquement en aval, vous garantissant de pouvoir vous concentrer exclusivement sur le fond juridique.
 
 <hr><hr>
@@ -74,5 +76,7 @@ Nous utilisons le système de révision "Git" pour tracer chaque évolution du d
 Pour situer chaque événement dans la chronologie de l'affaire sans dépendre de dates absolues (qui peuvent changer en cours de procédure), nous utilisons la convention `J+XX` :
 
 *   **J0** représente le jour de l'événement initial (l'accident).
+
 *   Les fichiers ou répertoires sont souvent préfixés ou étiquetés par `J+` suivi du nombre de jours écoulés depuis l'événement. Par exemple, un acte médical ou une démarche réalisée 30 jours après l'accident portera la mention `J+30`.
+
 *   Cette méthode permet de vérifier d'un coup d'œil la cohérence des délais légaux, de prescription, et l'enchaînement logique des préjudices, indépendamment de la date de création informatique du fichier.

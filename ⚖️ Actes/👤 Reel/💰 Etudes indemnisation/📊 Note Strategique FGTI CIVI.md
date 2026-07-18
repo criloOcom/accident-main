@@ -54,6 +54,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 2. **Phase amiable (FGTI)** : La requête est transmise au FGTI, qui dispose d'un délai de 2 mois pour formuler une offre d'indemnisation provisionnelle ou définitive.
 
 3. **Homologation ou contentieux** :
+
    - En cas d'accord, la CIVI homologue l'offre du FGTI.
 
    - En cas de désaccord sur le montant (ou si le FGTI refuse l'indemnisation), la procédure devient contentieuse devant la CIVI.
@@ -96,6 +97,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 - **Intérêt stratégique** : La procédure CIVI est la "roue de secours" financière absolue face à la carence probable de la SAS (capital 200 €).
 
 - **Temporalité** :
+
   1. Continuer la pression pour forcer la communication d'une assurance RC. Si une assurance est trouvée, l'action directe est prioritaire.
   2. Maintenir l'expertise (12 novembre 2026).
   3. Si aucune assurance RC n'est confirmée, ou si la SAS se déclare en liquidation, **saisir immédiatement la CIVI** sans attendre l'issue du procès pénal (la CIVI peut accorder une provision sur la base de l'ITT avérée).

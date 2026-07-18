@@ -37,8 +37,11 @@ article: 314-7
 Cet article réprime les fraudes sociales et fiscales. Il est pertinent dans notre dossier pour :
 
 1. **La dissimulation d'activité** par la SAS
+
 2. **Le non-paiement des cotisations sociales**
+
 3. **L'absence de déclaration d'assurance RC**
+
 4. **La fraude aux obligations légales**
 
 ---
@@ -46,8 +49,11 @@ Cet article réprime les fraudes sociales et fiscales. Il est pertinent dans not
 ## Éléments constitutifs
 
 1. **Méconnaissance manifestement répétée** : Comportement intentionnel et répété
+
 2. **Obligations légales** : Déclarations ou paiements obligatoires
+
 3. **Organismes de recouvrement** : URSSAF, impôts, etc.
+
 4. **Dissimulation** : Cache d'activité ou de salariés
 
 ---
@@ -55,6 +61,7 @@ Cet article réprime les fraudes sociales et fiscales. Il est pertinent dans not
 ## Jurisprudence associée
 
 - **Cass. Crim., 8 mars 2022, n° 21-82.345** : Application aux sociétés fantômes
+
 - **Cass. Crim., 15 novembre 2021, n° 20-81.234** : Cumul avec d'autres infractions
 
 ---
@@ -63,8 +70,11 @@ Cet article réprime les fraudes sociales et fiscales. Il est pertinent dans not
 
 Cet article pourrait s'appliquer à la situation où :
 - La SAS ne déclare pas son activité réelle
+
 - Les cotisations sociales ne sont pas payées
+
 - L'assurance RC obligatoire n'est pas déclarée
+
 - Il y a dissimulation de l'activité économique
 
 ---
@@ -72,7 +82,9 @@ Cet article pourrait s'appliquer à la situation où :
 ## Liens avec d'autres articles
 
 - **Article L. 124-3 Code des assurances** : Obligation d'assurance RC
+
 - **Article L. 243-1 Code de la sécurité sociale** : Obligations sociales
+
 - **Article 1736 Code général des impôts** : Fraude fiscale
 
 ---

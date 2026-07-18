@@ -25,8 +25,11 @@ Première séance de kinésithérapie pour la rééducation fonctionnelle de la 
 
 Objectifs de la rééducation :
 - Récupération de la mobilité active et passive de l'index
+
 - Lutte contre les adhérences cicatricielles
+
 - Renforcement musculaire progressif
+
 - Rééducation sensitive (neurolyse du nerf palmaire)
 
 La fréquence des séances est de 2 à 3 fois par semaine.
@@ -34,12 +37,15 @@ La fréquence des séances est de 2 à 3 fois par semaine.
 ## Acteurs concernés
 
 - **[La Victime]** — patient
+
 - **Kinésithérapeute** (prescrit par [Le Chirurgien SOS Main](token-hopital-sosmain-chirurgien.md))
 
 ## Conséquences juridiques
 
 - Les séances de kiné constituent des **frais médicaux** remboursables (poste frais divers / DEP).
+
 - Le nombre et la durée des séances sont des **éléments d'appréciation de la gravité du dommage**.
+
 - La rééducation prolongée est un **indice d'un préjudice important** (argument pour majoration DFP/SE).
 
 ## Croisements

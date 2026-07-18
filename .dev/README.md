@@ -16,10 +16,12 @@ Ce dossier contient le code, les scripts et les outils de développement du proj
 
 ### app/
 - Scripts Python et outils automatisés
+
 - Organisés par fonctionnalité
 
 ### artifacts/
 - Artefacts générés par les scripts
+
 - Résultats intermédiaires
 
 ### data/
@@ -27,14 +29,17 @@ Ce dossier contient le code, les scripts et les outils de développement du proj
 
 ### deployment/
 - Configuration de déploiement
+
 - Scripts CI/CD
 
 ### tests/
 - Tests unitaires et d'intégration
+
 - Couverture de test
 
 ### .venv/
 - Environnement virtuel Python
+
 - Dépendances du projet
 
 ## 🚀 Utilisation

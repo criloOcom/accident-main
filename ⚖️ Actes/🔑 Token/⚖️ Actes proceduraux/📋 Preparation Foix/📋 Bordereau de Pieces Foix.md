@@ -76,7 +76,11 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 B
 
 **Recommandations :**
 - Imprimer en **recto uniquement** (l'OPJ pourra ainsi classer et numéroter chaque page)
+
 - Prévoir **3 jeux complets** : 1 pour l'OPJ, 1 pour toi, 1 pour ton avocat
+
 - Apporter les originaux des LRAR + leurs preuves de dépôt
+
 - **Ne pas oublier l'erratum (pièce n°5)** — imprimer des exemplaires supplémentaires pour envoi LRAR séparé
+
 - ✅ Tout est véridique et vérifiable

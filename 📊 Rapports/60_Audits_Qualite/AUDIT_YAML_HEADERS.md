@@ -173,8 +173,11 @@ tags:
 ### IV.1 — Étape 1 — Mise à jour du schéma (`yaml_schema.py`)
 
 - Ajouter `directory` aux types canoniques
+
 - Ajouter la validation stricte des `statut` et `type`
+
 - Ajouter les champs optionnels : `date_creation`, `date_modification`, `proof_delivery`
+
 - Ajouter les mappings de normalisation des types non-canoniques
 
 ### IV.2 — Étape 2 — Injection sélective (`inject_optional_yaml_fields.py`)
@@ -184,7 +187,9 @@ Script dédié pour ajouter les champs optionnels (`date_creation`, `date_modifi
 ### IV.3 — Étape 3 — Corrections manuelles automatisées
 
 - Rétrograder 11 faux `statut: final` en `projet`
+
 - Normaliser 8 types non-canoniques
+
 - Normaliser 1 statut non-canonique (`obsolète_ne_pas_relancer` → `archive`)
 
 ### IV.4 — Étape 4 — Pipeline d'exécution

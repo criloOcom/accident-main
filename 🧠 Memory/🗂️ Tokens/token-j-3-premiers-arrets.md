@@ -26,7 +26,9 @@ Première consultation de contrôle chez le médecin généraliste. Prescription
 
 La victime signale :
 - Douleurs persistantes de la main droite malgré les antalgiques
+
 - Incapacité à utiliser la main droite pour les gestes courants
+
 - Impossibilité de travailler (informaticien indépendant nécessitant l'usage des deux mains)
 
 L'arrêt d'1 jour est erroné compte tenu de la nature de la blessure (microchirurgie de l'index dominant) — rectifié ultérieurement.
@@ -34,12 +36,15 @@ L'arrêt d'1 jour est erroné compte tenu de la nature de la blessure (microchir
 ## Acteurs concernés
 
 - **[La Victime]** — patient
+
 - **[Le Médecin Généraliste]** — prescripteur
 
 ## Conséquences juridiques
 
 - L'erreur d'ITT initiale (1 jour au lieu de 56) est **matérielle** et n'affecte pas le fond.
+
 - Point de départ du suivi médical généraliste ([J+5 Ouverture CPAM](token-j-5-ouverture-cpam.md), [J+18 Incohérence CPAM](token-j-18-incoherence-cpam.md)).
+
 - Mention systématique de cette erreur dans les actes ; la durée retenue est **56 jours** (source STRICT VARIABLES).
 
 ## Croisements

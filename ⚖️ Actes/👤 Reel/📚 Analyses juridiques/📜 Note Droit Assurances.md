@@ -138,7 +138,9 @@ L'entière responsabilité de votre assuré est acquise, ce dernier ayant manqu�
 
 L'obligation d'indemnisation n'étant pas sérieusement contestable, je vous mets en demeure de :
 1. Procéder à l'ouverture du dossier de sinistre.
+
 2. Me verser une provision amiable, *ad litem* et compensatoire, d'un montant de **15 000 €** sous un délai de quinze (15) jours, afin de pallier mes pertes d'exploitation immédiates.
+
 3. Mandater un médecin expert pour évaluer mes préjudices selon la Nomenclature Dintilhac.
 
 À défaut de règlement spontané dans ce délai, je me verrai contraint de vous attraire devant le juge des référés du Tribunal Judiciaire sur le fondement de l'article 835 du Code de procédure civile, pour obtenir cette provision de façon forcée, assortie d'une demande de prise en charge des frais irrépétibles (Art. 700 CPC).

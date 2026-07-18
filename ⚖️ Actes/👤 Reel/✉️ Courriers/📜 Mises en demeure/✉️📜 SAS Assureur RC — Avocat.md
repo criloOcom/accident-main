@@ -101,6 +101,7 @@ En conséquence de ce qui précède, je vous mets formellement en demeure, au no
 1. **Confirmer par écrit**, dans un délai impératif de **15 jours** à compter de la réception de la présente, que vous garantissez la responsabilité civile de la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au titre de l'exploitation du salon de coiffure sis [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), pour la période incluant le 29 mai 2026 ;
 
 2. **Me communiquer**, dans le même délai, **copie intégrale** de la police d'assurance concernée (conditions générales et particulières) comportant :
+
    - le numéro de contrat et la période de validité,
    - l'étendue des garanties souscrites,
    - les plafonds de garantie et franchises applicables,

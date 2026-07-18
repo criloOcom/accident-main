@@ -21,9 +21,13 @@ type: rapport
 ## Sommaire
 
 1. [Résumé des Étapes](#1-r%C3%A9sum%C3%A9-des-%C3%A9tapes)
+
 2. [Fichiers Générés](#2-fichiers-g%C3%A9n%C3%A9r%C3%A9s)
+
 3. [Modifications Apportées](#3-modifications-apport%C3%A9es)
+
 4. [Résultats des Tests](#4-r%C3%A9sultats-des-tests)
+
 5. [Prochaines Étapes](#5-prochaines-%C3%A9tapes)
 
 ---
@@ -32,47 +36,64 @@ type: rapport
 
 ### I.1 — ✅ ÉTAPE 1: Recherche Jurisprudence Pertinente
 - **Objectif** : Trouver des décisions similaires pour renforcer l'argumentaire
+
 - **Résultats** : 3 recherches effectuées, 41,095 décisions analysées
+
 - **Fichier** : `RECHERCHES_JURISPRUDENCE_20260710.json` (1.2 MB)
 
 ### I.2 — ✅ ÉTAPE 2: Vérification des Articles de Loi
 - **Objectif** : Valider tous les articles cités dans les actes
+
 - **Résultats** : 31 articles LEGIARTI vérifiés dans 4 fichiers
+
 - **Fichier** : `VERIFICATION_ARTICLES_20260710.json` (4.5 KB)
 
 ### I.3 — ✅ ÉTAPE 3: Recherche Spécifique Référé-Provision
 - **Objectif** : Trouver jurisprudence sur les provisions
+
 - **Résultats** : 6,452 décisions analysées
+
 - **Fichier** : `RECHERCHE_PROVISIONS_20260710.json` (3.8 KB)
 
 ### I.4 — ✅ ÉTAPE 4: Recherche Responsabilité Dirigeants
 - **Objectif** : Renforcer argumentaire contre les dirigeants
+
 - **Résultats** : 245,496 décisions analysées
+
 - **Fichier** : `RECHERCHE_DIRIGEANTS_20260710.json` (1.1 MB)
 
 ### I.5 — ✅ ÉTAPE 5: Recherche Accidents du Travail
 - **Objectif** : Préparer argumentaire AT/MP
+
 - **Résultats** : 108,874 décisions analysées
+
 - **Fichier** : `RECHERCHE_ACCIDENTS_TRAVAIL_20260710.json` (1.1 MB)
 
 ### I.6 — ✅ ÉTAPE 6: Intégration dans les Actes
 - **Objectif** : Enrichir les actes avec les références
+
 - **Résultats** : 3 décisions jurisprudentielles intégrées dans l'assignation + création d'annexes complètes
+
 - **Fichiers modifiés** :
+
   - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/01%20%E2%9A%96%EF%B8%8F%20Assignation.md)
   - [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/01%20%E2%9A%96%EF%B8%8F%20Assignation.md)
 - **Annexes déplacées vers 📜 Lois/📜 Jurisprudence/** :
+
   - [📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du fait des choses/63-13.613_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/63-13.613_CourCassation.md)
   - [📜 Lois/📜 Jurisprudence/🏛️ Action directe et obligation d'assurance/90-14.591_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/90-14.591_CourCassation.md)
   - [📜 Lois/📜 Jurisprudence/🏛️ Responsabilité des dirigeants/11-13.384_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20des%20dirigeants/11-13.384_CourCassation.md)
 
 ### I.7 — ✅ ÉTAPE 7: Génération des Versions Réelles
 - **Objectif** : Mettre à jour les versions avec identités réelles
+
 - **Résultats** : 91 fichiers générés avec succès
 
 ### I.8 — ✅ ÉTAPE 8: Validation et Tests
 - **Objectif** : Vérifier la cohérence et le bon fonctionnement
+
 - **Résultats** :
+
   - Tests MCP : 16 tests, 15 OK, 1 skipped
   - Vérification cohérence : ✓ Rien à signaler
 
@@ -112,16 +133,19 @@ type: rapport
 **Décisions intégrées** :
 
 1. **Cour de Cassation, Civile 1, 30 avril 1965** (ID: 607940be9ba5988459c3dbd0)
+
    - Solution : Rejet
    - Pertinence : Accident lors d'une leçon d'équitation (analogie avec salon de coiffure)
    - Annexe : Texte intégral disponible
 
 2. **Cour de Cassation, Civile 1, 8 juillet 1994** (ID: 60794c949ba5988459c4612e)
+
    - Solution : Cassation
    - Pertinence : Responsabilité des notaires (analogie responsabilité professionnelle)
    - Annexe : Texte intégral disponible
 
 3. **Cour de Cassation, Civile 1, 4 juillet 2012** (ID: 607975719ba5988459c49ee3)
+
    - Solution : Rejet
    - Pertinence : Valeur patrimoniale et responsabilité
    - Annexe : Texte intégral disponible
@@ -134,7 +158,9 @@ type: rapport
 
 **Contenu** :
 - **ANNEXE 1** : Décision complète du 30/04/1965 (responsabilité professionnelle)
+
 - **ANNEXE 2** : Décision complète du 08/07/1994 (subrogation)
+
 - **ANNEXE 3** : Décision complète du 04/07/2012 (valeur patrimoniale)
 
 **Format** : Markdown avec texte intégral, résumé, analyse de pertinence et lien Légifrance
@@ -152,7 +178,9 @@ OK (skipped=1)
 
 **Détails** :
 - ✅ TestLegifranceClient : 5 tests passés
+
 - ✅ TestJudilibreClient : 6 tests passés
+
 - ✅ TestRequetesSpecifiques : 4 tests passés (1 skipped)
 
 ### IV.2 — Vérification de Cohérence
@@ -169,17 +197,20 @@ Rien à signaler — tout est cohérent.
 ### V.1 — Pour le Dossier Juridique
 
 1. **Finaliser l'assignation**
+
    - ✅ Relire la section "A. Jurisprudence Pertinente" (complété)
    - ✅ Vérifier la cohérence avec l'argumentaire général (complété)
    - ✅ Préparer les annexes avec les décisions complètes (complété)
    - **Nouveau** : Imprimer les annexes pour le dossier physique
 
 2. **Enrichir la plainte pénale**
+
    - Ajouter des références sur la responsabilité des ERP
    - Citer la jurisprudence sur les fautes détachables
    - Intégrer les liens Légifrance pour chaque article
 
 3. **Préparer les conclusions**
+
    - Sélectionner 2-3 décisions clés pour les conclusions
    - Créer un tableau comparatif des décisions
    - Préparer des extraits pour le tribunal
@@ -187,16 +218,19 @@ Rien à signaler — tout est cohérent.
 ### V.2 — Pour la Stratégie Contentieuse
 
 1. **Analyse approfondie**
+
    - Étudier les 3 décisions intégrées
    - Identifier les arguments les plus pertinents
    - Préparer des réponses aux contre-arguments possibles
 
 2. **Recherche complémentaire**
+
    - Affiner la recherche sur les provisions (avec montants)
    - Trouver des décisions récentes (2020-2026)
    - Identifier des jurisprudences locales (Cour d'appel de Toulouse)
 
 3. **Préparation audience**
+
    - Préparer une fiche de jurisprudence pour l'avocat
    - Imprimer les décisions complètes
    - Préparer des copies pour le tribunal
@@ -223,9 +257,13 @@ Rien à signaler — tout est cohérent.
 ### VI.3 — Ressources Disponibles
 
 - **Données brutes** : 3.6 MB de données juridiques dans [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
+
 - **Références formatées** : `REFERENCES_MARKDOWN_20260710.json`
+
 - **Décisions sélectionnées** : `DECISIONS_SELECTIONNEES_20260710.json`
+
 - **Documentation** : [📜 Lois/EXEMPLES_REQUETES_MCP.md](../../%F0%9F%93%9C%20Lois/EXEMPLES_REQUETES_MCP.md)
+
 - **Annexes jurisprudentielles** : [📜 Lois/📜 Jurisprudence/](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (3 décisions — 63-13.613, 90-14.591, 11-13.384)
 
 ---

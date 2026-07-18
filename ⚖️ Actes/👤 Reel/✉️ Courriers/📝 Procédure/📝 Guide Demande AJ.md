@@ -133,6 +133,7 @@ Avenue Paul Laffont
 3. Remettre le dossier complet
 
 4. **Demander un récépissé de dépôt** avec :
+
    - La date de dépôt
 
    - Le numéro d'enregistrement
@@ -162,6 +163,7 @@ Avenue Paul Laffont
 3. L'avocat vous contacte pour prendre le dossier
 
 4. L'avocat peut désormais :
+
    - Signifier l'assignation en référé-provision (15 000 €)
 
    - Demander une expertise médicale judiciaire

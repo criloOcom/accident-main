@@ -28,12 +28,15 @@ Cette lettre constitue une étape préparatoire à l'expertise médicale ([J+167
 ## Acteurs concernés
 
 - **[La Victime]** — demandeur
+
 - **[Le Chirurgien SOS Main]** — avis médical sollicité
 
 ## Conséquences juridiques
 
 - La date de consolidation est un **élément central** de l'évaluation du préjudice corporel.
+
 - C'est la date de référence pour le calcul du **DFP** et la distinction préjudices temporaires/permanents (passage ITT → DFP).
+
 - L'avis du chirurgien permet d'anticiper les conclusions de l'expertise UMJ et d'étayer la demande de provision.
 
 ## Croisements

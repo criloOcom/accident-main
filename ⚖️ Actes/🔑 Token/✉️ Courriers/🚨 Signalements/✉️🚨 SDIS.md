@@ -5,9 +5,13 @@ type: courrier
 date: 2026-07-05
 tags:
 - SDIS
+
 - ERP
+
 - securite incendie
+
 - signalement
+
 - email
 statut: projet
 destinataire: SDIS de l'Ariege

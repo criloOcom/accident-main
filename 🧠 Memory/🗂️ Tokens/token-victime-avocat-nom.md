@@ -26,7 +26,9 @@ type: memory
 Token **réservé** pour l'avocat de la victime, **non encore désigné** à ce jour. La stratégie du dossier (consultation juridique, phase 19) est explicite :
 
 - ⚠ **NE PAS contacter d'avocat soi-même.** L'obtention de l'**aide juridictionnelle totale** (revenus ~9 000 €/an, sous plafond) déclenche une **désignation d'office par le BAJ** du TJ de Foix.
+
 - La demande d'AJ a été déposée le 15 juillet 2026.
+
 - L'avocat commis d'office sera nécessaire notamment pour le **référé-provision > 10 000 €** (15 000 €), qui ne peut être porté sans avocat.
 
 ## À compléter

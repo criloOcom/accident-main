@@ -51,6 +51,7 @@ Lors de cette visite, j'ai pu entrer dans le local. J'ai constaté notamment que
 J'en déduis que la période courant du mois de juin 2026 a pu être utilisée pour :
 
 - Laisser les enregistrements de vidéosurveillance se dérouler puis être éventuellement écrasés ou non conservés
+
 - Remplacer ou retirer le matériel impliqué dans l'accident (notamment le bac cassé et le meuble fixé au mur)
 
 > **NB :** Il s'agit là d'une **déduction personnelle** fondée sur la fermeture prolongée de l'établissement et sur les remplacements constatés lors de ma visite du 16 juillet 2026.

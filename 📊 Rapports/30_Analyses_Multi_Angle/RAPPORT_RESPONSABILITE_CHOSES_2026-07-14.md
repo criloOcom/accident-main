@@ -25,8 +25,11 @@ Le fondement de la responsabilité du fait des choses, tel que prévu par l'arti
 
 La mise en œuvre de cette responsabilité exige la réunion de trois conditions : une chose, un gardien de cette chose, et un fait de la chose.
 * **La chose :** Il s'agit en l'espèce de la vasque en céramique du bac à shampoing.
+
 * **Le gardien :** **[L'Exploitant du Commerce (La SAS)]** exerçait les pouvoirs d'usage, de direction et de contrôle sur cet équipement professionnel au moment de l'accident.
+
 * **Le fait de la chose (rôle actif) :** La jurisprudence distingue selon que la chose était en mouvement ou inerte.
+
     *   Si la chose était inerte (Civ. 2e, 5 mai 1993, n° 91-15.035), il appartient à la victime de prouver que la chose occupait une position anormale ou était en mauvais état. C'est ce qui a justifié le rejet de l'action dans l'arrêt de la Cour de cassation, Chambre civile 2, du 25 novembre 1992 (n° 91-13.580) concernant une barrière de téléski jugée conforme.
     *   Cependant, notre cas relève d'un schéma différent. Sous l'effet de la descente du préposé de l'exploitation (**[Le Préposé de l'Exploitation]**) qui y était monté, la vasque a **basculé** et s'est brisée. Ce mouvement de la chose (basculement) établit son rôle actif, inversant la charge de la preuve. La Cour de cassation, dans un arrêt très proche du 13 février 1991 (Civ. 2e, n° 89-18.422), a jugé que le seul fait qu'une échelle ait basculé et blessé un usager suffit à engager la responsabilité de son gardien, sauf preuve d'une cause étrangère.
     *   De plus, même si l'on retenait la qualification de chose inerte, la preuve de l'état défectueux est rapportée par la présence d'une **cassure majeure préexistante** non signalée. Nous nous distinguons ainsi très nettement du cas du client blessé par une baignoire exposée à la vente, sur laquelle il s'était appuyé en perdant l'équilibre de son propre fait (Civ. 2e, 23 février 1972, Arrêt Leroy, n° 70-12.124). Notre vasque était installée à demeure et sollicitée par le préposé lui-même.
@@ -64,6 +67,7 @@ Le dommage a été directement causé par le fait que **[Le Préposé de l'Explo
 L'article 1245 du Code civil stipule que "le producteur est responsable du dommage causé par un défaut de son produit, qu'il soit ou non lié par un contrat avec la victime".
 S'il est avéré que la vasque présentait un vice de fabrication, l'action pourrait théoriquement être dirigée contre son fabricant. Néanmoins, ce fondement est **à écarter en pratique pour la victime** :
 1.  **Risque d'identification :** L'identification du producteur de la vasque incombe au demandeur, ce qui est très incertain.
+
 2.  **Complexité probatoire :** Il faudrait prouver le défaut intrinsèque de conception/fabrication, au-delà de la cassure causée par l'usage fautif ou l'usure.
 Il appartient à la SAS, gardienne de la chose, d'appeler éventuellement le fabricant en garantie si elle l'estime opportun, mais **[La Victime]** doit concentrer son action contre la SAS sur le fondement de l'article 1240 C. civ.
 
@@ -81,14 +85,18 @@ Bien que **[La Victime]** soit un tiers à la relation de travail, le manquement
 La hiérarchie des fondements à privilégier pour garantir la réparation du préjudice de **[La Victime]** est la suivante :
 
 1.  **Cible principale (Axe Majeur) : La responsabilité du fait des choses (Art. 1240 C. civ.)**
+
     *   *Avantage :* Responsabilité objective de plein droit, peu importe l'absence de faute prouvée de l'exploitant. Le basculement de la vasque suffit. Le vice interne (cassure) ne l'exonère pas (Civ. 2e, 74-10.466).
 2.  **Axe subsidiaire n°1 : La responsabilité du commettant (Art. 1242 C. civ.)**
+
     *   *Avantage :* Le fait générateur (le préposé montant sur la vasque) est incontestable.
 3.  **Axe subsidiaire n°2 : La responsabilité contractuelle (Art. 1231-1 C. civ.)**
+
     *   *Avantage :* Obligation de sécurité de résultat lors de la prestation.
 
 **Moyens de défense adverses à esquiver :**
 *   *L'allégation du fait d'un tiers (le fabricant) :* Inopérant envers la victime. La SAS reste pleinement responsable en tant que gardienne, à charge pour elle de se retourner contre le fabricant.
+
 *   *L'allégation de la force majeure due à la rupture imprévisible :* Rejeté par la jurisprudence (le vice de la chose n'est pas la force majeure).
 
 **Formulation recommandée pour l'assignation :**

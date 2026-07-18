@@ -38,28 +38,45 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 
 ### 🟢 Expédiés / Déposés
 - [📜 Mises en demeure/✉️📜 SAS President.md](%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20President.md) — LRAR
+
 - [📜 Mises en demeure/✉️📜 Proprietaire.md](%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Proprietaire.md) — AR signé
+
 - [📜 Mises en demeure/✉️📜 SAS.md](%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md) — LRAR
+
 - [⚖️ Contentieux/✉️⚖️ Doyen Juges Instruction Saisine.md](%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20Doyen%20Juges%20Instruction%20Saisine.md) — Déposé en mains propres
+
 - [🔄 Relances/✉️🔄 SAS Dirigeants.md](%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20SAS%20Dirigeants.md) — LRAR
 
 ### 🟠 Prêts pour envoi
 - [🚨 Signalements/](%F0%9F%9A%A8%20Signalements/) — 8 signalements (J+37)
+
 - [📜 Mises en demeure/✉️📜 Maire Foix.md](%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Maire%20Foix.md)
+
 - [⚖️ Contentieux/✉️⚖️ CPAM Recours Tiers.md](%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20CPAM%20Recours%20Tiers.md)
+
 - [⚖️ Contentieux/✉️⚖️ TC Opposition Radiation.md](%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20TC%20Opposition%20Radiation.md)
+
 - [⚖️ Contentieux/✉️⚖️ TJ Foix Preuves Complementaires.md](%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20TJ%20Foix%20Preuves%20Complementaires.md)
+
 - [📝 Procédure/✉️📝 Avocat Consultation Jimini.md](%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20Avocat%20Consultation%20Jimini.md)
+
 - [📝 Procédure/📝 Guide Demande AJ.md](%F0%9F%93%9D%20Proc%C3%A9dure/%F0%9F%93%9D%20Guide%20Demande%20AJ.md)
 
 ### 🟡 En préparation / Brouillons
 - [📋s/](%F0%9F%93%8B%20Attestations/) — 3 gabarits CERFA + 3 emails transmission
+
 - [⚖️ Contentieux/✉️⚖️ FGTI Saisine.md](%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20FGTI%20Saisine.md)
+
 - [⚖️ Contentieux/✉️⚖️ INPI Opposition Immatriculation.md](%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20INPI%20Opposition%20Immatriculation.md)
+
 - [⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md](%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20Commissariat%20Foix%20Plainte%20Complementaire.md)
+
 - [📝 Procédure/](%F0%9F%93%9D%20Proc%C3%A9dure/) — CADA, mutualisation fiscale, email Maire
+
 - [📋 Personnel/](%F0%9F%93%8B%20Personnel/) — checklists et guides internes
+
 - [🔁 Relances/](%F0%9F%94%84%20Relances/) — relances en préparation
+
 - [🗄️ Archivé/🗄️ Requete Constat Huissier.md](%F0%9F%97%84%EF%B8%8F%20Archiv%C3%A9/%F0%9F%97%84%EF%B8%8F%20Requete%20Constat%20Huissier.md)
 
 ---
@@ -68,59 +85,98 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 
 ### J+31 — Première vague de mises en demeure
 - [✉️📜 SAS.md](%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)
+
 - [✉️📜 Proprietaire.md](%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Proprietaire.md)
+
 - [✉️📜 SAS President.md](%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20President.md)
 
 ### J+32 — Attestations
 - [📋 Employe.md](%F0%9F%93%8B%20Attestations/%F0%9F%93%8B%20Employe.md)
+
 - [📋 Pompier SAMU.md](%F0%9F%93%8B%20Attestations/%F0%9F%93%8B%20Pompier%20SAMU.md)
+
 - [📋 Temoin Client.md](%F0%9F%93%8B%20Attestations/%F0%9F%93%8B%20Temoin%20Client.md)
 
 ### J+37 — Relances & signalements
 - [✉️🔄 Consolidation.md](%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Consolidation.md)
+
 - [✉️🔄 Adjoint Maire Tavella.md](%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Adjoint%20Maire%20Tavella.md)
+
 - [🔄 CPAM.md](%F0%9F%94%84%20Relances/%F0%9F%94%84%20CPAM.md)
+
 - [🔄 Police Videos.md](%F0%9F%94%84%20Relances/%F0%9F%94%84%20Police%20Videos.md)
+
 - [✉️🚨 CODAF.md](%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20CODAF.md)
+
 - [✉️🚨 URSSAF.md](%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20URSSAF.md)
+
 - [✉️🚨 SIE.md](%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SIE.md)
+
 - [✉️🚨 INPI.md](%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20INPI.md)
+
 - [✉️🚨 Inspection Travail.md](%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md)
+
 - [✉️🚨 Prefecture.md](%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Prefecture.md)
+
 - [✉️🚨 Conseil Departemental.md](%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Conseil%20Departemental.md)
+
 - [✉️🚨 SDIS.md](%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SDIS.md)
 
 ### J+38 — Saisines, attestations & relances
 - [✉️⚖️ Doyen Juges Instruction Saisine.md](%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20Doyen%20Juges%20Instruction%20Saisine.md)
+
 - [✉️⚖️ FGTI Saisine.md](%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20FGTI%20Saisine.md)
+
 - [✉️⚖️ CPAM Recours Tiers.md](%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20CPAM%20Recours%20Tiers.md)
+
 - [📋 Employe 📧Mail.md](%F0%9F%93%8B%20Attestations/%F0%9F%93%8B%20Employe%20%F0%9F%93%A7Mail.md)
+
 - [📋 Pompier SAMU 📧Mail.md](%F0%9F%93%8B%20Attestations/%F0%9F%93%8B%20Pompier%20SAMU%20%F0%9F%93%A7Mail.md)
+
 - [📋 Temoin Client 📧Mail.md](%F0%9F%93%8B%20Attestations/%F0%9F%93%8B%20Temoin%20Client%20%F0%9F%93%A7Mail.md)
+
 - [🔄 DrDJERBI Consolidation ✉️Mail.md](%F0%9F%94%84%20Relances/%F0%9F%94%84%20DrDJERBI%20Consolidation%20%E2%9C%89%EF%B8%8FMail.md)
 
 ### J+40 à J+47 — Foix & suites
 - [✉️🔄 SAS Dirigeants.md](%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20SAS%20Dirigeants.md)
+
 - [✉️📜 Maire Foix.md](%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Maire%20Foix.md)
+
 - [✉️📝 SIE URSSAF Mutualisation.md](%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20SIE%20URSSAF%20Mutualisation.md)
+
 - [✉️⚖️ INPI Opposition Immatriculation.md](%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20INPI%20Opposition%20Immatriculation.md)
+
 - [✉️⚖️ TC Opposition Radiation.md](%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20TC%20Opposition%20Radiation.md)
+
 - [🗄️ Requete Constat Huissier.md](%F0%9F%97%84%EF%B8%8F%20Archiv%C3%A9/%F0%9F%97%84%EF%B8%8F%20Requete%20Constat%20Huissier.md) *(archivé)*
+
 - [✉️📝 Mairie Tavella ERP.md](%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20Mairie%20Tavella%20ERP.md)
+
 - [✉️⚖️ TJ Foix Preuves Complementaires.md](%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20TJ%20Foix%20Preuves%20Complementaires.md)
+
 - [📋 Checklist Deplacement Foix.md](%F0%9F%93%8B%20Personnel/%F0%9F%93%8B%20Checklist%20Deplacement%20Foix.md)
+
 - [✉️📝 Avocat Consultation Jimini.md](%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20Avocat%20Consultation%20Jimini.md)
+
 - [✉️📝 CADA Saisine Modele.md](%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20CADA%20Saisine%20Modele.md)
+
 - [✉️🔄 Inspection Travail.md](%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Inspection%20Travail.md)
+
 - [✉️🔄 Préfecture CODAF.md](%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Pr%C3%A9fecture%20CODAF.md)
+
 - [✉️📝 CADA Saisine Formulaire.md](%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20CADA%20Saisine%20Formulaire.md)
+
 - [📋 Antiseche Orale Plainte.md](%F0%9F%93%8B%20Personnel/%F0%9F%93%8B%20Antiseche%20Orale%20Plainte.md)
+
 - [📝 Guide Demande AJ.md](%F0%9F%93%9D%20Proc%C3%A9dure/%F0%9F%93%9D%20Guide%20Demande%20AJ.md)
+
 - [📋 Guide Dialogue Police.md](%F0%9F%93%8B%20Personnel/%F0%9F%93%8B%20Guide%20Dialogue%20Police.md)
+
 - [✉️⚖️ Commissariat Foix Plainte Complementaire.md](%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20Commissariat%20Foix%20Plainte%20Complementaire.md)
 
 ### J+50 — Mises en demeure Assureur RC
 - [✉️📜 SAS Assureur RC.md](%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC.md)
+
 - [✉️📜 SAS Assureur RC — Avocat.md](%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC%20%E2%80%94%20Avocat.md)
 
 ---
@@ -128,6 +184,7 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 ## Rappel des règles Token/Reel
 
 - Toute modification de contenu se fait **exclusivement** dans `⚖️ Actes/🔑 Token/`.
+
 - Les versions réelles (données désanonymisées) sont régénérées depuis Token :
 
   ```bash
@@ -136,4 +193,5 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
   ```
 
 - **Aucune édition manuelle** n'est autorisée dans `⚖️ Actes/👤 Reel/` (cf. `🧠 Memory/RULES.md` règle #22).
+
 - Les README d'index vivent côté Token (`🔑`), jamais côté Reel (`👤`).

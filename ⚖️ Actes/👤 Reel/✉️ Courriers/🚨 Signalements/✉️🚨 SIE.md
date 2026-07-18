@@ -5,9 +5,13 @@ type: courrier
 date: 2026-07-05
 tags:
 - SIE
+
 - impot
+
 - information
+
 - litige
+
 - LRAR
 statut: projet
 destinataire: Service des Impôts des Entreprises de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)

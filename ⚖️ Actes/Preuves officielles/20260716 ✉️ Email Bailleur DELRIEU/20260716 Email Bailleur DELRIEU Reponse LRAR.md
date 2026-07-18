@@ -69,12 +69,17 @@ Le courriel contenait 3 fichiers (non encore téléchargés/versés au dossier) 
 ### Ce que ce mail apporte
 
 1. **Confirmation écrite** que la SAS LES MAUVAIS GARÇONS a signé un état des lieux de sortie le **10 mars 2026**
+
 2. Le signataire est identifié comme **"son représentant"** (Sabir MOUNTASSER, président)
+
 3. Le bailleur **refuse** de communiquer l'assurance au motif que l'accident est postérieur à la cessation
+
 4. Le bailleur tire une **conclusion juridique personnelle** (la responsabilité ne peut pas être engagée) qui ne lui appartient pas — c'est au juge d'en décider
 
 ### Portée juridique
 
 - Le bailleur n'est pas juge de la responsabilité — il aurait dû communiquer l'assurance et laisser les juridictions trancher
+
 - L'état des lieux de sortie lui-même devra être analysé : que mentionne-t-il sur l'état des lieux et du matériel ?
+
 - Même si LES MAUVAIS GARÇONS a cessé, la **continuité économique** avec HB BARBER (même local, même activité, DG commune) peut fonder une action

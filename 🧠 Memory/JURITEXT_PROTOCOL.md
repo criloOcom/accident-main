@@ -43,30 +43,42 @@ openlegi_rechercher_jurisprudence_judiciaire(search="NUMERO-AFFAIRE", page_size=
 
 **INTERDIT** de :
 - Prendre un JURITEXT qui "semble correct" parce qu'il est déjà dans le codebase
+
 - Remplacer un JURITEXT invalide par un autre sans le vérifier
+
 - Se fier à une coche "✓" dans un fichier — la coche ne prouve rien
+
 - Utiliser Judilibre comme seule source — si 0 résultat, passer à Légifrance-prod
 
 **Si un JURITEXT est introuvable** :
 1. Noter "JURITEXT INTRUOUVABLE" dans le fichier
+
 2. Mettre le numéro d'affaire en attendant
+
 3. Signaler à l'utilisateur
+
 4. NE PAS deviner
 
 ### RÈGLE 3 — Audit de tous les JURITEXT existants
 
 Avant tout commit ou finalisation d'un document contenant des JURITEXT :
 1. Extraire toutes les JURITEXT uniques du fichier (`grep -oh 'JURITEXT[0-9]\+'`)
+
 2. Vérifier CHAQUE JURITEXT via `legifrance-prod_rechercher_jurisprudence`
+
 3. Si un ID est introuvable → marquer comme "À VÉRIFIER" et signaler
 
 ### RÈGLE 4 — Chaîne de propagation des erreurs
 
 Si tu découvres une JURITEXT fausse :
 1. **CORRIGER** le fichier source immédiatement
+
 2. **CHERCHER** les autres occurrences dans tout le projet (`grep -r`)
+
 3. **CORRIGER** toutes les occurrences
+
 4. **VÉRIFIER** que la nouvelle JURITEXT est bien correcte via les 2 outils
+
 5. **NOTER** l'erreur dans STATUS.md avec la correction appliquée
 
 ---

@@ -15,8 +15,11 @@ Ce dossier contient **88 fiches individuelles** (66 identité + 17 financiers + 
 
 Chaque fiche regroupe :
 - **Identité** : le token et la valeur réelle substituée
+
 - **Contexte** : fonction, rôle, ou nature de la donnée
+
 - **Chronologie** (pour les tokens événementiels J+X) : date, documents liés
+
 - **Documents liés** : liens vers les actes, courriers, preuves citant ce token
 
 ## Liste des tokens

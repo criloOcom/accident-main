@@ -41,10 +41,15 @@ Dans le cadre de la procédure consécutive à l'accident corporel grave dont j'
 Je vous sollicite aujourd'hui pour une **revue complète de ce batch** afin de recueillir votre avis sur :
 
 1. La **stratégie globale** : était-il opportun d'envoyer ce signalement massif et simultané, ou aurait-il mieux valu procéder de manière séquentielle ?
+
 2. Le **risque contentieux** : ces signalements pourraient-ils être retournés contre moi (dénonciation calomnieuse, abus) si les investigations ne confirment pas les infractions ?
+
 3. L'**efficacité** : quels destinataires sont réellement utiles à la procédure d'indemnisation ? Lesquels sont superflus ou contre-productifs ?
+
 4. Les **suites à donner** : faut-il relancer ? À quel rythme ? Certains nécessitent-ils un suivi particulier ?
+
 5. Les **pièces manquantes** : y a-t-il des informations ou documents que j'aurais dû joindre et qui renforceraient la crédibilité des signalements ?
+
 6. Le **calendrier** : ces signalements interfèrent-ils avec la stratégie procédurale (assignation, référé-provision) ?
 
 Je vous détaille ci-dessous chaque courrier pour vous permettre d'en prendre connaissance sans avoir à les consulter directement.
@@ -68,8 +73,11 @@ Je vous détaille ci-dessous chaque courrier pour vous permettre d'en prendre co
 
 **Demandes formulées** :
 1. Consultation de contrôle dédiée
+
 2. Détermination si l'état est consolidé ou à quelle échéance
+
 3. Délivrance d'un certificat de consolidation mentionnant :
+
    - Date de consolidation
    - Taux de DFP (Déficit Fonctionnel Permanent)
    - Souffrances Endurées (échelle 1-7)
@@ -96,12 +104,16 @@ Le courrier rappelle le parcours médical complet : chirurgie d'urgence le J+1 (
 
 **Citations légales** :
 - CRPA Article L.311-1 (droit de communication des documents administratifs)
+
 - Mention CADA en cas de refus
 
 **Demandes formulées** :
 1. Rapport d'enquête de l'Inspection du Travail
+
 2. Conclusions du CODAF
+
 3. Tout élément transmissible par la préfecture
+
 4. Confirmation : IT menée ? CODAF saisi ? DDPP/DREETS saisis ?
 
 **Description détaillée** :
@@ -125,17 +137,26 @@ Ce courrier fait suite au message de l'adjoint au maire du 1er juin 2026, par le
 
 **Citations légales** :
 - Article L.4321-1 CT (conformité des équipements de travail)
+
 - Article R.4121-1 CT (DUERP)
+
 - Article R.4323-58 CT (travaux en hauteur)
+
 - Article L.4121-1 CT (obligation générale de sécurité)
+
 - Article L.310-1-1-2 Code des assurances (affichage RC)
+
 - Article L.311-1 CRPA (communication documents administratifs)
+
 - Article 40 CPP (transmission au parquet)
 
 **Demandes formulées** :
 1. État d'avancement de l'enquête
+
 2. Communication du rapport d'inspection
+
 3. Vérification des éléments suivants :
+
    - Équipement défectueux (bac à shampoing cassé)
    - Absence présumée de DUERP
    - Défaut présumé d'assurance RC professionnelle
@@ -162,15 +183,22 @@ Courrier le plus technique du batch. Après un rappel des faits et du contexte (
 
 **Citations légales** :
 - Article L.8221-5 CT (dissimulation d'emploi salarié)
+
 - Article L.8221-6 CT (présomption de salariat)
+
 - Article L.1221-10 CT (DPAE)
+
 - Article L.3243-2 CT (bulletin de paie)
+
 - Article R.4121-1 CT (DUERP)
+
 - Article L.8271-1-2 CT (compétence URSSAF)
 
 **Demandes formulées** :
 1. Vérification de la situation de [Le Préposé] (DPAE, bulletin de paie)
+
 2. Vérification des obligations déclaratives de la SAS
+
 3. Recherche d'autres irrégularités éventuelles
 
 **Description détaillée** :
@@ -192,12 +220,16 @@ Ce signalement dénonce un travail dissimulé présumé. Il s'appuie sur des él
 
 **Citations légales** :
 - Article L.8221-5 CT (travail dissimulé)
+
 - Article L.310-1-1-2 Code des assurances (défaut RC)
+
 - Article R.4323-58 CT (travaux en hauteur)
+
 - Article 40 CPP (transmission au parquet)
 
 **Demandes formulées** :
 1. Enquête globale sur l'ensemble des manquements
+
 2. Transmission au parquet si infractions (Art. 40 CPP)
 
 **Description détaillée** :
@@ -221,11 +253,14 @@ Le CODAF est la structure interdépartementale de coordination anti-fraude réun
 
 **Citations légales** :
 - Article L.124-3 Code des assurances (action directe assureur)
+
 - Article R.4323-58 CT (travaux en hauteur)
 
 **Demandes formulées** :
 1. Confirmation que le signalement du 01/06 (via mairie) a été reçu et instruit
+
 2. État d'avancement des diligences (préfecture + CODAF)
+
 3. Communication des suites réservées
 
 **Description détaillée** :
@@ -247,10 +282,12 @@ Ce courrier agit comme une « pièce maîtresse » qui confirme officiellement l
 
 **Citations légales** :
 - Code de la construction et de l'habitation, articles L.123-1 et suivants
+
 - Arrêté du 25 juin 1980 modifié (règlement sécurité ERP)
 
 **Demandes formulées** :
 1. Vérification de la conformité de l'ERP
+
 2. Mesures nécessaires pour faire cesser les situations dangereuses
 
 **Description détaillée** :
@@ -274,6 +311,7 @@ Ce signalement cible spécifiquement les non-conformités ERP. Il qualifie le sa
 
 **Demandes formulées** :
 1. Vérification de la sécurité de l'ERP (2 points)
+
 2. Information des suites réservées
 
 **Description détaillée** :
@@ -347,7 +385,9 @@ Courrier très court (1 page) qui informe le SIE de l'existence du litige (monta
 
 **Demandes formulées** :
 1. État d'avancement de l'enquête
+
 2. Réquisition des images de vidéosurveillance (Art. 56-1 CPP)
+
 3. Identité de l'OPJ en charge du dossier
 
 **Description détaillée** :
@@ -372,8 +412,11 @@ Relance suite au dépôt de plainte du 01/06 et à la constitution de partie civ
 
 **Demandes formulées** :
 1. État d'avancement du dossier RCT
+
 2. Identité du gestionnaire en charge
+
 3. Montant des débours définitifs (Art. L.376-1 CSS)
+
 4. Démarches à entreprendre
 
 **Description détaillée** :
@@ -412,25 +455,30 @@ Relance à la suite de l'ouverture du dossier RCT à J+5. Quatre demandes struct
 1. **Stratégie générale** : Ce signalement massif simultané était-il opportun ? La multiplication des destinataires renforce-t-elle la pression sur l'exploitant, ou crée-t-elle un risque de dispersion/d'incohérence ?
 
 2. **Risque pénal pour la victime** :
+
    - Les signalements pour travail dissimulé (URSSAF, CODAF) sont-ils suffisamment étayés pour écarter tout risque de dénonciation calomnieuse ?
    - Faut-il nuancer le langage (passer de « signalement » à « information aux fins de vérification ») ?
 
 3. **Impact civil** :
+
    - Ces signalements administratifs peuvent-ils être utilisés par la partie adverse pour argumenter que la victime mène une « campagne de dénigrement » ?
    - Faut-il les mentionner dans l'assignation au fond ou les garder comme éléments hors procédure ?
 
 4. **Priorisation** :
+
    - Quels destinataires sont réellement stratégiques pour l'indemnisation ?
    - Certains sont-ils superflus ou redondants (ex : SDIS par rapport au Conseil Départemental) ?
 
 5. **Erreur dans le courrier Police** : L'article 56-1 CPP cité concerne les perquisitions chez les avocats, pas les réquisitions de vidéosurveillance — faut-il le corriger/envoyer un rectificatif ?
 
 6. **Délais et calendrier** :
+
    - Ces signalements étant envoyés le 05/07, quel délai laissez-vous avant de relancer ?
    - Faut-il attendre les retours avant de déposer l'assignation en référé-provision ?
    - J+55 (date de fin d'ITT) approche — faut-il accélérer ?
 
 7. **Suites** :
+
    - Souhaitez-vous être destinataire des réponses pour les intégrer à la stratégie ?
    - Dois-je constituer un tableau de suivi des réponses avec les délais légaux de réponse ?
 
@@ -475,9 +523,13 @@ Relance à la suite de l'ouverture du dossier RCT à J+5. Quatre demandes struct
 ### IX.4 — Validation finale (avocat, 12/07/2026)
 
 - **Stratégie globale** : batch J+37 validé, aucune correction rétroactive nécessaire
+
 - **Anomalies** : 2 exclues des futurs modèles (L.310-1-1-2, 56-1 CPP), sans rectificatif
+
 - **URL** : 3 complétées, le reste correct
+
 - **Ton** : validé — signalement aux fins de vérification, bonne foi préservée
+
 - **Suites** : plan de relance/archivage validé (9 archivés, 1 consolidation, 2 surveillance)
 
 **[La Victime]**

@@ -32,6 +32,9 @@ Cette frise superpose les 4 volets stratégiques du dossier sur une seule ligne 
 ## II — Dépendances inter-volets
 
 * **AJ → Civil** : Le référé-provision est bloqué en attente de la désignation par le BAJ.
+
 * **Civil → Administratif/Pénal** : L'ordonnance 145 CPC permet d'obtenir les vidéos avant écrasement et d'identifier l'assureur pour la mise en demeure.
+
 * **Administratif → Pénal** : Les relances visent à forcer l'action publique sur l'ERP.
+
 * **Médical → Civil** : Le rapport d'expertise UMJ/Judiciaire chiffre les préjudices, essentiel pour les conclusions au fond.

@@ -40,6 +40,17 @@ run_audit() {
 run_audit "README integrity"          ".dev/app/audit_readme_integrity.py"
 run_audit "Citation links"            ".dev/app/audit_citation_links.py"
 
+# ── Audit listes à puces : format loose obligatoire (Règle #24) ──
+echo ""
+echo "━━━ 🔍 List spacing (format loose) ━━━"
+if python3 .dev/app/normalize_list_spacing.py --check; then
+    echo "✅ List spacing : OK"
+    PASS=$((PASS + 1))
+else
+    echo "❌ List spacing : ÉCHEC — listes tight détectées"
+    FAIL=$((FAIL + 1))
+fi
+
 # ── Audit des liens internes : diff-driven ──
 echo ""
 echo "━━━ 🔍 Internal links audit ━━━"

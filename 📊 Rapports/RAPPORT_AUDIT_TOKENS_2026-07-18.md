@@ -19,9 +19,13 @@ Ce rapport présente l'audit du système de tokens d'anonymisation du dossier, r
 L'analyse comparative entre `🧠 Memory/TOKEN MAP.md` et les fiches individuelles du dossier `🧠 Memory/🗂️ Tokens/` révèle une architecture globalement structurée, mais avec des désynchronisations.
 
 - **Tokens répertoriés dans la MAP :** 69 tokens (identifiés sous la forme `[**[Token]**]`).
+
 - **Nouveau token :** Le token `**[Le Téléphone du Préposé]**` est bien listé et correctement déclaré.
+
 - **Fiches existantes :** 85 fiches MD ont été trouvées, incluant `token-exploitation-prepose-telephone.md` et la mise à jour de `token-exploitation-prepose-nom.md`.
+
 - **Incohérences dans l'index :** Le fichier `🧠 Memory/🗂️ Tokens/README.md` liste manuellement les fiches et n'est pas à jour vis-à-vis de la carte principale. Les 9 tokens suivants (issus de la MAP) n'y figurent pas :
+
   - `**[SIREN du Nouvel Exploitant]**`
   - `**[Le Nouvel Exploitant (HB BARBER)]**`
   - `**[Capital du Nouvel Exploitant]**`
@@ -41,15 +45,25 @@ L'anonymisation et la génération des versions réelles reposent sur deux scrip
 ### Script `generate_real_versions.py`
 Le script contient bien le nouveau token `**[Le Téléphone du Préposé]**`, mais **11 tokens documentés dans la MAP sont absents** de sa table de conversion :
 - `**[Capital Social de l'Exploitation]**`
+
 - `**[Code Postal de l'Accident]**`
+
 - `**[Date de naissance de la victime]**`
+
 - `**[J+27 Confirmation kiné]**`
+
 - `**[J+36 Lettre consolidation]**`
+
 - `**[J+38 Mise à jour]**`
+
 - `**[J+41 Courrier SIE URSSAF]**`
+
 - `**[J+41 Requête Constat 145]**`
+
 - `**[J+54]**`
+
 - `**[Prénom de la Victime]**`
+
 - `**[Âge de la Victime]**`
 
 ### Script `batch_anonymize.py`
@@ -62,6 +76,7 @@ Le script omet **38 tokens** présents dans la MAP. Parmi les absences notables,
 Le nouveau token `**[Le Téléphone du Préposé]**` a été intégré dans le dossier de manière étendue.
 
 - **Nombre d'insertions :** Le token est présent dans **22 fichiers** distincts au sein du répertoire `⚖️ Actes/🔑 Token/`.
+
 - L'objectif mentionnait 26 fichiers, il y a donc potentiellement 4 fichiers où le token devrait figurer et où il est absent ou remplacé par une autre expression, mais son utilisation reste massive dans les courriers, mémos stratégiques et notes de synthèse.
 
 <hr><hr>
@@ -72,7 +87,9 @@ Une recherche ciblée sur les données réelles du préposé (Ayoub Bennourine, 
 
 Les fuites d'identités réelles ont été détectées dans les fichiers suivants :
 - `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Note Personnelle Commissariat Foix.md` (Fuite du prénom "AYOUB")
+
 - `⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Note Synthese Avocat Bascule HB BARBER.md` (Fuite du prénom/nom "Ayoub B.")
+
 - `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Projet Declaration PV Foix.md` (Fuite du prénom "AYOUB B" et du téléphone réel "+33 7 58 40 12 87")
 
 <hr><hr>
@@ -88,6 +105,9 @@ Conformément aux directives générales : plusieurs documents dans le dossier p
 Pour sécuriser définitivement l'architecture d'anonymisation, les actions suivantes sont requises :
 
 - **Étape 1 :** Assainir immédiatement les 3 fichiers présentant des fuites en y remplaçant "Ayoub", "AYOUB B" et le numéro "+33 7 58 40 12 87" par les tokens officiels.
+
 - **Étape 2 :** Mettre à jour `generate_real_versions.py` pour y inclure les 11 tokens manquants.
+
 - **Étape 3 :** Mettre à jour `batch_anonymize.py` pour y intégrer l'ensemble des 38 tokens manquants.
+
 - **Étape 4 :** Régulariser le `README.md` du dossier Tokens pour qu'il s'aligne fidèlement sur `TOKEN MAP.md`.

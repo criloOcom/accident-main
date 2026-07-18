@@ -98,7 +98,9 @@ Toute nouvelle erreur de qualification (PROJET qualifié ENVOYÉ sans preuve mat
 
 L'agent concerné devra :
 1. Identifier et lister tous les fichiers impactés par l'erreur
+
 2. Corriger le statut dans le fichier et dans STATUS.md
+
 3. Signaler la correction dans le prochain commit
 
 ---

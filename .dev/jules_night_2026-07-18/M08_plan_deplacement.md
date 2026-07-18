@@ -10,27 +10,40 @@ Produis un rapport `📊 Rapports/RAPPORT_PLAN_DEPLACEMENT_2026-07-18.md` propos
 
 Relis les existants :
 - `📋 Checklist Deplacement Foix.md`
+
 - `📋 Bordereau de Pieces Foix.md`
+
 - `📋 Note Personnelle Commissariat Foix.md`
+
 - Le guide AJ
 
 ## CONTENU
 
 Pour chaque étape, indique :
 - **Lieu** (adresse précise, bâtiment, étage, guichet)
+
 - **Heure estimée** (tenir compte des horaires d'ouverture et des temps d'attente)
+
 - **Documents à apporter** (check-list détaillée, par enveloppe/dossier)
+
 - **Ce qu'il faut demander** (récépissé, cachet, numéro d'enregistrement)
+
 - **Ce qu'il faut dire** (phrase d'accueil, demande principale)
+
 - **Ce qu'il faut éviter** (pièges, erreurs courantes)
 
 ## LISTE DES ÉTAPES PROPOSÉES
 
 1. **TJ de Foix — BAJ** : dépôt demande AJ
+
 2. **TJ de Foix — Greffe civil** : dépôt requête Art. 145 CPC (si prête)
+
 3. **Commissariat de Police** : nouveau PV + erratum
+
 4. **Mairie de Foix** : relance Maire Tavella (si pertinent)
+
 5. **Lieu de l'accident** : second constat (si utile)
+
 6. **Envoi LRAR** : bureau de poste de Foix ?
 
 Pour chaque étape, précise les **créneaux horaires réalistes** (ex: BAJ le matin, police l'après-midi, poste en fin de journée).

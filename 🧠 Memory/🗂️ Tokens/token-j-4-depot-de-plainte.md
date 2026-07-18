@@ -32,14 +32,19 @@ Le même jour, **[L'Adjoint au Maire de la Commune]** adresse un courriel à **[
 ## Acteurs concernés
 
 - **[La Victime]** — plaignant
+
 - **[L'Exploitant du Commerce (La SAS)]** — mis en cause
+
 - **[L'Adjoint au Maire de la Commune]** — transmission des informations
 
 ## Conséquences juridiques
 
 - **Interruption de la prescription** de l'action publique
+
 - Permet la **constitution de partie civile** ultérieure
+
 - Sert de **fondement à l'enquête pénale** (ITT, défaut assurance RC, infractions ERP)
+
 - Le PV est une **pièce centrale** pour la procédure
 
 ## Documents liés
@@ -49,6 +54,7 @@ Le même jour, **[L'Adjoint au Maire de la Commune]** adresse un courriel à **[
 ## Croisements
 
 - [J+4 Dépôt de plainte](token-j-4-depot-de-plainte.md) établit le PV n°2026/015967 (voir [J+0 Accident](token-j-0-accident.md)).
+
 - Préfigure [J+33 Plainte complémentaire](token-j-33-plainte-complementaire.md) (défaut assurance RC) et [J+38 Constitution PC](token-j-38-constitution-pc.md) (partie civile).
 
 ## Source

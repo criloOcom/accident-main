@@ -60,14 +60,23 @@ Les pièces transmises sont les suivantes, à verser au dossier de la procédure
 1. Comptes rendus opératoires du Dr Iskander DJERBI (Clinique de l'Union) — intervention
 du 30 mai 2026 sur l'index droit
 2. Bilan de contrôle à 3 semaines du Dr DJERBI en date du 23 juin 2026
+
 3. Lettre de liaison de sortie du 30 mai 2026
+
 4. Certificat médical initial du Dr OXYBEL en date du 1er juin 2026
+
 5. Avis d'arrêt de travail — Dr DJERBI du 23 juin 2026
+
 6. Avis d'arrêt de travail — Dr OXYBEL du 1er juin 2026
+
 7. Ordonnances de kinésithérapie et de soins post-opératoires
+
 8. Note de synthèse médico-légale détaillée à J+12 et J+20​
+
 9. Attestation de dépôt de dossier CPAM Recours contre Tiers n° 31727387
+
 10. Constitution de partie civile​
+
 11. Conclusions de partie civile
 
 Je souhaite attirer votre attention sur la gravité de mon état de santé actuel.

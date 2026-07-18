@@ -5,8 +5,11 @@ type: courrier
 date: 2026-06-29
 tags:
 - mise en demeure
+
 - bailleur
+
 - assurance
+
 - LRAR
 statut: envoye
 destinataire: Le Propriétaire des Murs

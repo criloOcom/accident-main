@@ -155,16 +155,22 @@ Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 **OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), et [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), des chefs de :
 
 - **Blessures involontaires** (Art. 222-19 ou subsidiairement 222-20 C. pénal) — ITT > 3 mois en considération de la consolidation à 12 mois et du DFP de 12 %, ou à tout le moins ITT ≤ 3 mois par violation manifestement délibérée ;
+
 - **Mise en danger de la vie d'autrui** (Art. 223-1 C. pénal) — violation délibérée des obligations de sécurité d'un ERP (vasque cassée non sécurisée) ;
+
 - **Défaut d'assurance de responsabilité civile professionnelle** (Art. L. 211-1, L. 241-1 C. assur. — à vérifier par l'instruction) ;
 
 Et de tous autres chefs qui viendraient à être révélés par l'instruction.
 
 **ORDONNER** les actes d'instruction suivants :
 - Audition des dirigeants de la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) sur les conditions d'entretien des locaux et l'existence d'une assurance RC ;
+
 - Audition de [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) en qualité de témoin ;
+
 - Saisie des enregistrements vidéo de surveillance (sous séquestre par [ordonnance sur requête Art. 145 CPC](../%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md) du [**[J+54]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-54.md)) ;
+
 - Réquisitions auprès des organismes d'assurance pour identifier le ou les assureurs RC en vigueur au jour du sinistre ;
+
 - Désignation d'un expert médical (ou à défaut, verser au dossier l'expertise amiable déjà réalisée).
 
 **DÉCERNER** tous mandats qu'il appartiendra.
@@ -199,14 +205,18 @@ Ce réquisitoire introductif est une **simulation** à vocation pédagogique et 
 
 **Scénarios de qualification :**
 - *Scénario A (prudent)* — ITT pénale limitée au certificat initial (56 jours ≤ 3 mois) → Art. 222-20 CP (délit)
+
 - *Scénario B (offensif)* — ITT pénale étendue à la période d'incapacité fonctionnelle totale (12 mois > 3 mois) → Art. 222-19 CP (délit aggravé)
 
 Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19 comme qualification alternative à vérifier par l'instruction. L'articulation avec la jurisprudence SATI (Cass. com. 20 mai 2003) est maintenue pour la responsabilité personnelle des dirigeants in solidum.
 
 **Documents liés :**
 - Constitution de Partie Civile consolidée : [`🛡️ Constitution Partie Civile.md`](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
+
 - Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
+
 - Ordonnance Art. 145 CPC (vidéos) : [`⚖️ Ordonnance sur Requete Art. 145 CPC.md`](../%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md)
+
 - Ordonnance de référé provision : [`⚖️ Projet Ordonnance Refere.md`](../%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)
 <hr><hr>
 

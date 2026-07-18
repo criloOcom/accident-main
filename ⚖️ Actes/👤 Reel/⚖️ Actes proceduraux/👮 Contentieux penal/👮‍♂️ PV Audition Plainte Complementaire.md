@@ -6,10 +6,15 @@ type: acte_procedural
 date: 2026-07-15
 tags:
 - pv
+
 - audition
+
 - plainte
+
 - complémentaire
+
 - obstruction
+
 - police
 statut: final
 auteur: Commissariat de Foix

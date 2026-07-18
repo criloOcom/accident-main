@@ -31,7 +31,9 @@ type: rapport
 
 ## IV — Procédure pour chaque fichier
 1. Interroger le MCP Légifrance (ou Judilibre) avec le numéro d'article / le numéro de pourvoiExact.
+
 2. Récupérer le texte officiel EN VIGUEUR (version consolidée à la date du jour).
+
 3. Remplacer le bloc suivant (dans le corps, après le `---` de fermeture du frontmatter) :
    ```
    ⚠️ **À VÉRIFIER** — ... (bloc entier jusqu'à la fin du fichier)
@@ -42,15 +44,21 @@ type: rapport
    - Pour un article : `CODE\nVERSION EN VIGUEUR AU <date>\n\nArticle <num>\n<texte officiel>`
    - Pour un arrêt : en-tête (date, chambre, pourvoi, ECLI) + `Texte de la décision` + corps.
 4. **Ne toucher QU'AU CORPS** — conserver le frontmatter (title/description/type/date/source/code/article) et le fil d'Ariane (`<!-- Breadcrumb -->`).
+
 5. Pour l'arrêt 17-26.282 : récupérer la date exacte de rendu et mettre à jour le champ `description` du frontmatter (actuellement « À VÉRIFIER — date de rendu à confirmer »).
 
 ## V — Vérification finale à fournir
 - Les 5 fichiers ne contiennent plus de marqueur `À VÉRIFIER`.
+
 - Rejouer `python3 .dev/app/audit_readme_integrity.py` → 0 erreur.
+
 - Rejouer `python3 .dev/app/check_consistency.py` → conforme.
+
 - Signaler tout article/arrêt introuvable (le laisser `À VÉRIFIER` et lister).
 
 ## VI — Interdictions
 - Pas de texte inventé ou approximatif.
+
 - Pas de modification du frontmatter (sauf `description` de l'arrêt 17-26.282 pour la date).
+
 - Pas de lien absolu.

@@ -25,18 +25,23 @@ Accusé de réception de la mise en demeure adressée à [Le Propriétaire des M
 
 La mise en demeure invite le propriétaire à :
 - Prendre position sur sa responsabilité civile (défaut d'entretien des lieux)
+
 - Communiquer ses coordonnées d'assurance habitation/professionnelle
+
 - Informer sur l'état des lieux d'entrée et les éventuels travaux
 
 ## Acteurs concernés
 
 - **[Le Propriétaire des Murs]** — destinataire
+
 - **[La Victime]** — expéditeur
 
 ## Conséquences juridiques
 
 - La réponse du propriétaire (ou son silence) déterminera s'il est mis en cause dans l'assignation.
+
 - L'AR fait courir le délai de réponse amiable avant action en justice.
+
 - Permet d'engager la responsabilité du bailleur sur le fondement de l'art. 1719 C.civ. (obligation de délivrance d'un local en bon état).
 
 ## Croisements

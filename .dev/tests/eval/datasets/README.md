@@ -79,8 +79,11 @@ user message; `eval generate` appends the next agent response.
 ## Key Fields
 
 - `eval_cases`: Array of evaluation cases.
+
 - `eval_case_id`: Unique identifier for the evaluation case (optional).
+
 - `prompt`: A single user message — Shape A.
+
 - `agent_data.turns`: Prior conversation turns ending with a user message — Shape B.
 
 ## Creating Custom Datasets
@@ -88,6 +91,7 @@ user message; `eval generate` appends the next agent response.
 You can create custom datasets in two ways:
 
 1. **By Hand**: Copy `basic-dataset.json` as a template and manually add evaluation cases.
+
 2. **Synthesize**: Use the synthetic dataset generation command to generate conversation scenarios:
    ```bash
    agents-cli eval dataset synthesize --count 10
@@ -106,7 +110,9 @@ agents-cli eval metric list
 Once you have a baseline, the eval surface has a few more commands worth knowing about:
 
 - `agents-cli eval compare BASE CAND` — diff two grade-results files (regression check).
+
 - `agents-cli eval analyze RESULTS` — cluster failure modes from a grade-results file.
+
 - `agents-cli eval optimize` — auto-tune your agent's prompts using eval data.
 
 See the [Evaluation Guide](https://google.github.io/agents-cli/guide/evaluation/) for the full surface and metric reference.

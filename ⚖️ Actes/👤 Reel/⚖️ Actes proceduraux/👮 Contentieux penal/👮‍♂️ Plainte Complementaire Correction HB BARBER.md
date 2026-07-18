@@ -40,8 +40,11 @@ Plainte déposée le **2 juin 2026** au Service Local de Sécurité Publique de 
 Le **29 mai 2026**, alors que j'étais client dans un salon de coiffure situé **22 rue Lafaurie à [La Ville de l'Accident]**, un bac à shampoing lourd muni d'une vasque en céramique a basculé à la suite d'une manœuvre du coiffeur, Ayoub BENNOURINE (Ayoub BENNOURINE, tél. 07 58 40 12 87), à qui j'avais réglé la somme de 15 € via l'application Wero immédiatement avant la prestation (transaction IPR000297029234). Ce dernier était monté physiquement sur la structure du meuble. En voulant retenir la chute du meuble par réflexe d'assistance, ma main droite a percuté la partie déjà brisée et tranchante de la vasque, provoquant une plaie palmaire profonde de **8,5 cm**, avec :
 
 - Section partielle du tendon fléchisseur superficiel de l'index droit
+
 - Section totale du paquet vasculo-nerveux collatéral ulnaire et radial
+
 - Nécessité d'une intervention de microchirurgie en urgence le 30 mai 2026 ([Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md), SOS Main – [Clinique de l'Union](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md))
+
 - Séquelles neurologiques en cours d'évolution (perte de sensibilité, paresthésies), très gênantes dans mon activité d'informaticien indépendant droitier
 
 Cette transaction Wero atteste de la présence d'Ayoub BENNOURINE en qualité de préposé coiffeur / encaisseur ce jour-là, liant contractuellement la prestation au sinistre.
@@ -71,7 +74,9 @@ Depuis, de nouveaux éléments établissent qu'au **29 mai 2026**, date de l'acc
 Mme [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (épouse [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)) était déjà mentionnée dans mon dossier comme directrice générale de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md). Elle occupe donc la fonction de **directrice générale dans les deux sociétés**, [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) puis [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), pour le même local et la même activité, avec une succession très rapprochée :
 
 - **10 mars 2026** : date de cessation d'activité de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) dans les locaux selon le bailleur (état des lieux de sortie)
+
 - **22 avril 2026** : début d'activité déclarée de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) au 22 rue / grande rue Lafaurie
+
 - **29 mai 2026** : date de mon accident dans ce même local
 
 **Je demande** que la société **[Le Nouvel Exploitant (HB BARBER)] (SAS)** et ses dirigeants soient formellement intégrés dans la procédure en qualité de société exploitante et responsables potentiels au jour des faits, en complément des investigations visant [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) et ses dirigeants.
@@ -90,6 +95,7 @@ Ce courriel comporte en pièces jointes **trois photographies** de l'état des l
 
 Je ne me prononce pas à ce stade sur la validité ou non de ces documents, mais je constate que :
 - le bailleur refuse de me communiquer toute information d'assurance
+
 - et qu'il tire lui-même une conclusion sur l'absence de responsabilité de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), alors que cela relève de l'appréciation de l'autorité judiciaire
 
 Je joins à la présente copie du courriel du 16 juillet 2026 et la note de constatations que j'ai rédigée à la suite de ma visite des lieux.
@@ -103,16 +109,22 @@ Le **16 juillet 2026**, je me suis rendu physiquement au **22 rue Lafaurie** pou
 Lors de cette visite, j'ai constaté que :
 
 - une pancarte / encart sur la vitrine indiquait désormais l'enseigne **« [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) »**
+
 - le **bac à shampoing en céramique cassé** à l'origine de ma blessure **avait disparu** et semblait avoir été remplacé par un nouveau bac
+
 - le **meuble / étagère murale** présent au moment de l'accident avait également disparu, mais les **trous de fixation et traces dans le mur** restaient très visibles
 
 À ma connaissance, le salon est resté **fermé plusieurs semaines** après l'accident. Combiné au remplacement du matériel, cela fait naître un **risque sérieux de non-conservation des enregistrements de vidéosurveillance** et de disparition des preuves matérielles.
 
 Sur place, j'ai eu un échange avec une personne qui s'est présentée comme l'exploitant du salon et que j'identifie comme pouvant être [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md), président de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md). Cette personne a :
 - refusé de me coiffer
+
 - refusé de me délivrer une facture
+
 - refusé de me communiquer toute information sur son assurance
+
 - tenu des propos contradictoires quant aux circonstances
+
 - et m'a demandé de quitter les lieux
 
 J'annexe à la présente une **note de constatations** datée relatant précisément ce que j'ai vu le 16 juillet 2026.
@@ -127,12 +139,16 @@ Compte tenu de ces éléments nouveaux, je sollicite respectueusement :
 
 **2. L'exploitation du courriel du bailleur du 16/07/2026** et de ses pièces jointes (photos de l'état des lieux de sortie du 10/03/2026), notamment pour :
 - confirmer la réalité de la date de sortie de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
+
 - obtenir, le cas échéant, copie du bail commercial et des attestations d'assurance exigées des différents exploitants ([SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) puis [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md))
 
 **3. L'audition**, si ce n'est déjà fait, des personnes suivantes :
 - [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : [**[Le Telephone du Prepose]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)), coiffeur present lors de l'accident, titulaire du compte Wero ayant recu puis rembourse le paiement
+
 - [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md), président de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
+
 - [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (épouse [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)), directrice générale successivement de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) et de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
+
 - [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), bailleur, sur les baux successifs, les états des lieux, la connaissance des exploitants et des assurances
 
 **4. La vérification**, dans la mesure du possible, de la conservation d'éventuels enregistrements vidéo restants (vidéosurveillance intérieure / extérieure) et de tout élément matériel (même remplacé) permettant de confirmer l'existence d'un bac en céramique déjà brisé et d'un meuble mural au moment des faits.

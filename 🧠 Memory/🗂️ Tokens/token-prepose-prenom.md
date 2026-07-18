@@ -27,4 +27,5 @@ Prénom seul du coiffeur préposé, mentionné textuellement dans les actes (té
 ## Croisements
 
 - ⇄ [Le Préposé de l'Exploitation](token-exploitation-prepose-nom.md)
+
 - ⇄ [Le Téléphone du Préposé](token-exploitation-prepose-telephone.md)

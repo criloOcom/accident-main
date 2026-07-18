@@ -217,20 +217,35 @@ Documents non indexés conservés dans `archives/` :
 ## X — MODIFICATIONS CLÉS
 
 1. [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : 07 58 40 12 87)(../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md) -> [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) + [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) ✓
+
 1. Stratégie : faute détachable des dirigeants ✓
+
 2. Paragraphe faute détachable dans Assignation ✓
+
 3. Plaidoirie refondue ✓
+
 4. Conclusions PC mises à jour ✓
+
 5. Courrier 06 avec [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) ✓
+
 6. 4 doublons archivés ✓
+
 7. Nomenclature normalisée ✓
+
 8. Formatting appliqué ✓
+
 9. Liens Légifrance ajoutés ✓
+
 10. Restructuration [⚖️ Actes](../README.md) — 00 à 05 + archives ✓
+
 11. Anciens dossiers `contentieux-civil/` et `contentieux-penal/` supprimés ✓
+
 12. 06_Annexes/` déplacé dans `archives/annexes/` ✓
+
 13. Bordereau unifié V2 — fusion Audience + ancien, 43 pièces séquentielles ✓
+
 14. Références croisées mises à jour dans tous les actes (01, 02b, 03) ✓
+
 15. Ancien « Bordereau de pieces.md » supprimé ✓
 <hr><hr>
 

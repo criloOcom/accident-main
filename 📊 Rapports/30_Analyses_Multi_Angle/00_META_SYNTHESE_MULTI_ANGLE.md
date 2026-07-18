@@ -81,14 +81,20 @@ Le tableau ci-dessous croise les 12 angles professionnels (colonnes) et 5 thème
 
 **Consensus forts (≥ 10 angles d'accord).**
 1. **Insolvabilité de la SAS** est le risque n°1 — cité par 8 angles en risque direct, 4 en risque implicite. FGTI/CIVI est la réponse quasi-unanime.
+
 2. **Article 1242 al.1** est le fondement civil principal — confirmé par tous les angles juridiques (02 à 07).
+
 3. **Les voies pénale ET civile doivent être menées en parallèle** — aucun angle ne recommande d'en abandonner une.
+
 4. **Le constat huissier (art. 145 CPC) est une urgence absolue** — 9 angles le mentionnent comme action prioritaire.
 
 **Tensions inter-angles.**
 1. **Dosage pénal vs civil** : 02 Juge Instruction et 05 Procureur mettent le pénal en avant ; 04 Juge Civil et 07 Avocat mettent le civil en avant. La méta-synthèse tranche : les deux simultanément.
+
 2. **Montant d'indemnisation** : 11 Expert Assurances (scénario A, ~120k€) vs 07 Avocat / 04 Juge Civil (scénario B-C, ~140-160k€). L'écart de 40k€ est normal et sera tranché par le tribunal.
+
 3. **Opportunité de la médiation** : 15 Médiateur est favorable, 07 Avocat réservé (crainte d'affaiblir le pénal).
+
 4. **Disponibilité des vidéos** : 03 Juge Référé est pessimiste (délai écoulé), 06 Gendarme n'a pas confirmé leur existence.
 
 ---
@@ -109,6 +115,7 @@ L'article **1240 C.civ.** (responsabilité pour faute) est subsidiairement mobil
 
 **Causes d'exonération.** Tous les angles les écartent de façon convergente :
 - *Force majeure* : un téléviseur qui se détache d'un mur n'est pas un événement imprévisible, irrésistible et extérieur (Civ. 2e, 12 déc. 2019, n°18-24.518). La cassure préexistante et le bricolage de fixation constituent même l'inverse d'un événement imprévisible.
+
 - *Faute de la victime* : l'employé était en train de nettoyer le téléviseur dans le cadre de ses fonctions. Aucun angle n'a identifié un comportement fautif — il n'a pas tiré sur l'écran, n'a pas été averti du risque, n'avait pas d'escabeau à disposition. La faute inexcusable de l'employeur (article L.452-1 CSS) pourrait même être invoquée.
 
 **Responsabilité des dirigeants.** Élément critique : la SAS a un capital social de 200 € et ne présente pas de trésorerie significative. L'action directe contre la SAS sera donc structurellement limitée. La jurisprudence *Sati* (Com., 20 mars 2012, n°10-27.350) et l'article **L.225-251 C.com.** permettent d'engager la responsabilité *in solidum* des dirigeants pour faute détachable de leurs fonctions : absence de souscription d'assurance RC adaptée, absence de DUERP, absence de maintien en état de sécurité des locaux, maintien en service d'un téléviseur non fixé et d'une vasque défectueuse après signalement. Tous les angles confirment la viabilité de cette voie complémentaire.
@@ -127,19 +134,27 @@ L'article **1240 C.civ.** (responsabilité pour faute) est subsidiairement mobil
 
 **Qualifications pénales retenues.**
 - **Article 222-20 C.pén.** (blessures involontaires avec ITT ≤ 3 mois) — qualification principale retenue dans le réquisitoire introductif. La victime présente des séquelles compatibles avec une ITT inférieure à 3 mois (fracture poignet + traumatisme crânien léger). Peine encourue : 2 ans d'emprisonnement et 30 000 € d'amende, peines complémentaires possibles (interdiction d'exercice, affichage).
+
 - **Article 222-19 C.pén.** (blessures involontaires avec ITT > 3 mois) — qualification subsidiaire si l'évolution médicale révèle un déficit fonctionnel permanent supérieur à 3 mois d'ITT. Le rapport du médecin légiste (12 Médecin Légiste) est en cours pour déterminer le taux réel. Peine encourue : 3 ans et 45 000 €.
+
 - **Article 223-1 C.pén.** (mise en danger délibérée d'autrui) — qualification complémentaire envisagée par le Procureur. La conscience du danger est établie par la connaissance de la cassure de la vasque et l'absence de fixation du téléviseur. Peine encourue : 1 an et 15 000 €.
+
 - **Article 434-4 C.pén.** (obstruction) — si des éléments (vidéos, SMS) suggèrent une dissimulation ou une destruction de preuves après les faits. À confirmer par l'instruction.
 
 **Chronologie procédurale.**
 - J+38 : constitution de partie civile de la victime → accès au dossier pénal (droits de la PC)
+
 - J+47 : réquisitoire introductif du Procureur → ouverture de l'information judiciaire
+
 - Le juge d'instruction (02 Juge Instruction) est saisi : il mène les actes d'enquête (transport, perquisition, auditions, commissions rogatoires, expertises)
+
 - La clôture de l'information peut intervenir entre 6 et 18 mois selon la complexité
 
 **Articulation criminel / civil.** Règle fondamentale : *le criminel tient le civil en l'état* (article 4 CPP, 1er alinéa abrogé mais principe maintenu par la jurisprudence). Droits de la partie civile :
 - Accès au dossier pénal (art. 114 CPP) dès la première audition ou à l'issue d'un délai de 4 mois
+
 - Possibilité de se constituer partie civile devant le juge pénal pour demander des dommages-intérêts (action civile art. 2 CPP)
+
 - Possibilité de saisir le juge des référés pour une provision (même si information en cours) — référé provision déjà exercé (J+63, 15 000 € sollicités)
 
 **Divergence inter-angles sur le dosage pénal vs civil.**
@@ -182,6 +197,7 @@ L'article **1240 C.civ.** (responsabilité pour faute) est subsidiairement mobil
 
 **Fourchette globale.** Tous les documents convergent vers une indemnisation totale comprise entre **120 000 € et 160 000 €**, avec un scénario médian à ~140 000 €. Les divergences portent sur :
 - Le quantum du PGPF (selon que la reprise professionnelle partielle est jugée probable ou non)
+
 - L'évaluation du taux DFP (12 % fait consensus mais certains jugent un taux de 8–10 % plus réaliste devant un tribunal)
 
 **Scénarios Dintilhac A/B/C.**
@@ -208,15 +224,20 @@ L'article **1240 C.civ.** (responsabilité pour faute) est subsidiairement mobil
 
 **Voie 1 — Assureur RC (action directe L.124-3 C.assur.).** La voie la plus rapide si l'assurance RC de la SAS couvre le sinistre. Problème : l'assureur n'a pas été identifié avec certitude, et plusieurs échanges LRAR sont restés sans réponse (PND et NPAI). Si l'assureur est inconnu, la voie est compromise. Les angles divergent :
 - Angles 04 Juge Civil et 07 Avocat : pessimistes — l'absence de réponse de l'assureur laisse présager une absence de couverture ou une contestation.
+
 - Angle 11 Expert Assurances : neutre — possible que l'assureur couvre mais tente d'échapper à la mise en jeu.
+
 - Recommandation unifiée : mise en demeure définitive par LRAR avec AR, et si échec, abandon de cette voie pour activer le FGTI.
 
 **Voie 2 — FGTI/CIVI (article 706-3 CPP).** Le filet de sécurité reconnu par tous les angles. Conditions : infraction pénale caractérisée (c'est le cas — information judiciaire ouverte), dommage corporel grave (fracture + séquelles), insolvabilité du responsable (capital 200 € — acquis). Délai de saisine : 3 ans à compter de l'infraction. Plafond d'indemnisation : indexé sur les barèmes CIVI (généralement intégralité des postes Dintilhac pour les dommages corporels graves). Convergence totale : le FGTI est la voie de recouvrement la plus réaliste en l'état.
 
 **Voie 3 — Dirigeants *in solidum* (L.225-251 C.com. + jurisprudence Sati).** Voie complémentaire reconnue par les angles juridiques. Les dirigeants peuvent être condamnés *in solidum* pour faute détachable :
 - Absence de souscription d'assurance RC adaptée
+
 - Absence de DUERP
+
 - Maintien en service d'équipements dangereux (vasque + téléviseur)
+
 - Non-réparation après signalement de la cassure
 Divergence : certains angles estiment que la preuve de la faute détachable est difficile à rapporter (nécessite une particulière gravité). La jurisprudence *Sati* est exigeante. Néanmoins, cumulativement, les manquements sont suffisamment graves.
 
@@ -239,16 +260,22 @@ Divergence : certains angles estiment que la preuve de la faute détachable est 
 
 **Constat huissier (art. 145 CPC).** Le constat de la vasque et de l'installation du téléviseur est la pièce maîtresse. Il doit être réalisé *d'urgence* — les lieux peuvent être modifiés, nettoyés, ou la vasque réparée. L'huissier doit :
 - Photographier la vasque (cassure préexistante)
+
 - Photographier la fixation du téléviseur et l'absence d'escabeau homologué
+
 - Relever les dimensions, la configuration du local
+
 - Interroger le personnel présent (procès-verbal de constatation)
+
 - L'angle 03 Juge Référés qualifie cette mesure de *priorité absolue*.
 
 **Vidéosurveillance.** Le système de vidéosurveillance du commerce a capté une partie de l'accident. Délai de conservation des images : généralement 30 jours (sauf paramétrage différent). J+XX au jour de la rédaction (estimé J+47), le délai est probablement échu. Action requise : sommation de conserver les images (art. 145 CPC) avant l'expiration du délai. Si les images ont déjà été écrasées : c'est une perte critique. L'angle 03 Juge Référés est réservé sur la disponibilité ; l'angle 02 Juge Instruction peut ordonner une réquisition judiciaire au fournisseur du système.
 
 **Attestations – état des lieux à ce jour.** À ce stade, aucune attestation n'a encore été obtenue. Des témoins potentiels pourraient être recherchés, sans garantie ni sur leur identification, ni sur ce qu'ils diraient :
 - Toute personne présente dans le salon avant ou après l'accident (clientèle ou tiers), si elle peut être retrouvée.
+
 - Un pompier ou secouriste intervenu lors de la prise en charge, le cas échéant, pour attester de l'état des lieux et de l'état de la victime.
+
 - Un préposé de la SAS ayant déjà constaté une cassure ou un défaut de la vasque avant l'accident, si une telle personne existe et accepte de témoigner.
 Si ces personnes sont identifiées et d'accord, leurs déclarations pourraient être recueillies au moyen du formulaire Cerfa n°11527*02 (attestation de témoin).
 
@@ -258,7 +285,9 @@ Si ces personnes sont identifiées et d'accord, leurs déclarations pourraient �
 
 **Expertise judiciaire.** L'information judiciaire (dossier pénal) permettra la désignation d'un expert judiciaire (08 Expert Justice) qui évaluera :
 - Le lien de causalité entre l'état des lieux et le dommage
+
 - Le rôle actif de la chose (téléviseur)
+
 - Le préjudice corporel (en complément du médecin légiste)
 L'expertise pénale pourra être utilisée dans le cadre civil.
 
@@ -268,17 +297,24 @@ L'expertise pénale pourra être utilisée dans le cadre civil.
 
 **Manquements à la sécurité identifiés (liste cumulative).**
 1. **Absence d'escabeau homologué** — violation de l'article R.4323-58 C.trav. (obligation de mettre à disposition un équipement de travail adapté pour les travaux en hauteur). À défaut d'escabeau, la victime a dû utiliser un support de substitution non prévu à cet effet (à préciser selon les constats).
+
 2. **Vasque défectueuse non réparée** — la cassure préexistante avait été signalée (témoignage d'un employé). L'absence de réparation constitue un manquement à l'obligation de sécurité de moyen renforcée (article L.4121-1 C.trav.).
+
 3. **Absence de DUERP communicable** — le Document Unique d'Évaluation des Risques Professionnels n'a pas été présenté lors de l'enquête. Son absence est une infraction autonome (R.4121-1 C.trav.) et un élément de preuve de la carence globale de la SAS en matière de sécurité.
+
 4. **Téléviseur non fixé** — absence de fixation murale conforme. Un téléviseur de 37 kg maintenu sur un support non adapté constitue un risque pour la sécurité des salariés.
+
 5. **Conscience du danger** — la cassure signalée ET non réparée établit la connaissance du risque par l'employeur. C'est un élément crucial pour :
+
    - La qualification pénale de mise en danger (223-1 C.pén.)
    - La faute inexcusable (L.452-1 CSS)
    - L'absence de toute cause d'exonération
 
 **Signalements en cours.**
 - Inspection du Travail (DDETS 09) : enquête en cours, procès-verbal d'infraction possible
+
 - CODAF / Préfecture : signalement pour situation dangereuse (procédure administrative)
+
 - CRPC (Commission de Réforme des Personnes Civiles) : évaluation du taux d'incapacité
 
 **Convergence inter-angles.**
@@ -301,7 +337,9 @@ L'expertise pénale pourra être utilisée dans le cadre civil.
 
 **Risque n°4 — PRESCRIPTION (7/12 angles).** Deux délais à surveiller :
 - *Pénal* : 6 ans à compter des faits (29 mai 2032) pour les délits (222-19, 222-20)
+
 - *Civil* : 5 ans à compter de la consolidation (art. 2224 C.civ.) pour la responsabilité civile
+
 - Sous-risque : ne pas laisser expirer le délai d'action directe contre l'assureur (2 ans art. L.114-1 C.assur.)
 Atténuation : l'information judiciaire interrompt la prescription pénale. L'assignation au fond interrompt la prescription civile.
 
@@ -323,23 +361,32 @@ Atténuation : l'information judiciaire interrompt la prescription pénale. L'as
 
 **Scénario A — Judiciaire pénal prioritaire.** Miser sur l'information judiciaire comme moteur principal. Avantages : accès au dossier, mesures d'instruction, pression sur les dirigeants. Inconvénient : lenteur (12-18 mois minimum avant jugement), aléa sur la qualification. Porté par : 02 Juge Instruction, 05 Procureur.
 - Actes clés : suivre l'instruction, répondre aux convocations, solliciter des actes (expertise, transport)
+
 - Point d'étape : clôture de l'instruction → renvoi ou non-lieu
+
 - Risque : non-lieu = perte de la voie pénale
 
 **Scénario B — Judiciaire civil prioritaire.** Miser sur le référé et l'assignation au fond TJ. Avantages : indemnisation plus rapide (provision J+63), maîtrise du calendrier. Inconvénient : pas d'accès aux preuves sans instruction. Porté par : 04 Juge Civil, 07 Avocat.
 - Actes clés : référé provision (fait), conclusions au fond, expertise civile
+
 - Point d'étape : audience de mise en état → fixation TJ
+
 - Risque : la SAS insolvable ne pourra pas payer la provision
 
 **Scénario C — Transactionnel (médiation / compromis).** Proposer aux dirigeants un accord transactionnel. Avantages : rapidité (3-6 mois), certitude, économie de frais. Inconvénient : peut affaiblir l'action pénale (transaction = renonciation à la PC ?). Porté par : 15 Médiateur, nuancé par 07 Avocat.
 - Actes clés : proposition de médiation, signature d'un protocole d'accord
+
 - Point d'étape : validation par le juge (homologation) ou accord sous seing privé
+
 - Risque principal : pas de transaction sans menace pénale crédible
 
 **Choix stratégique retenu (méta-synthèse).** **Les trois scénarios ne sont pas exclusifs.** La stratégie*recommended*est :
 1. **Pénal** — suivre l'information judiciaire (c'est le juge d'instruction qui donne le tempo)
+
 2. **Civil** — maintenir le référé provision et préparer l'assignation au fond
+
 3. **Transaction** — garder la porte ouverte pour une médiation si les dirigeants montrent une volonté réelle d'indemniser
+
 4. **FGTI** — activer dès que l'insolvabilité de la SAS est confirmée
 
 Les scénarios A et B sont conduits *simultanément*. Le scénario C est conditionné à la bonne foi des dirigeants.

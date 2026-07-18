@@ -120,6 +120,7 @@ Le défaut délibéré de souscription d'une assurance légalement obligatoire, 
 Sans préjuger de l'appréciation du juge du fond, ces éléments sont de nature à engager la responsabilité personnelle des dirigeants à l'égard de la victime. Ils justifient que, dès ce stade du référé, le tribunal prenne en compte le risque sérieux de faute détachable pour :
 
 - caractériser le motif légitime au sens de l'article 145 du Code de procédure civile et ordonner les mesures d'instruction demandées ;
+
 - et, le cas échéant, apprécier le bien-fondé d'une provision mise à la charge solidaire de la société et de ses dirigeants.
 
 ### III.4 — MANQUEMENT À L'OBLIGATION DE SÉCURITÉ

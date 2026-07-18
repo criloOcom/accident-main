@@ -32,6 +32,7 @@ type: memory
 L'avis externe du 13 juillet 2026 retient deux scénarios :
 
 - un **scénario prudent**, avec un DFP estimé à **10 %**, aboutissant à un total d'environ **126 000 €**, arrondi en pratique à un **plancher de 130 000 €** pour la négociation ;
+
 - un **scénario médian**, avec un DFP estimé à **15 %**, aboutissant à un total d'environ **161 500 €**, compatible avec un **point d'atterrissage transactionnel** autour de **160 000 €** et une **fourchette haute** pouvant aller jusqu'à **165 000 €**.
 
 Ces chiffres sont donnés **avant imputation** des recours CPAM et sous réserve des ajustements liés à l'expertise médicale (DFP définitif) et aux décomptes de prestations.

@@ -28,6 +28,7 @@ Adresse email de la victime, utilisée dans les mentions de contact des courrier
 ## Enjeu juridique — Preuve de notification
 
 - Email déclaré comme contact auprès de la Mairie ([Mairie — Adjoint au Maire](token-mairie-adjoint-nom.md)) et de la CPAM ([J+5 Ouverture CPAM](token-j-5-ouverture-cpam.md)).
+
 - Conserver cohérent avec [Le Téléphone de la Victime](token-victime-telephone.md) et [L'Adresse de la Victime](token-victime-adresse.md).
 
 ## Croisements
@@ -37,6 +38,7 @@ Adresse email de la victime, utilisée dans les mentions de contact des courrier
 ## Documents liés
 
 - [Mises en demeure J+31](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md) (coordonnées expéditeur)
+
 - [Constitution Partie Civile J+38](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (coordonnées partie civile)
 
 ## Source

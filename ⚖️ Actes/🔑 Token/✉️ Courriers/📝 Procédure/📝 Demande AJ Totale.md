@@ -50,7 +50,9 @@ jx: J+50
 
 ### Profession
 - **Activité** : Informaticien indépendant (micro-entrepreneur — développement web et applications)
+
 - **Régime** : Micro-entrepreneur (régime fiscal micro-BNC)
+
 - **N° SIREN** : **[L'Identifiant Professionnel de la Victime]**
 
 ### Revenus
@@ -74,6 +76,7 @@ Demande d'indemnisation pour **accident corporel** — responsabilité civile du
 
 ### Objet principal
 1. **Référé-provision** (Art. 835 C. pr. civ.) : Demande d'une provision de [**[Finance Provision Référé]**] à valoir sur la réparation des préjudices
+
 2. **Expertise médicale judiciaire** (Art. 145 C. pr. civ.) : Désignation d'un expert judiciaire pour évaluer l'intégralité des postes de préjudice corporel
 
 ### Juridiction saisie
@@ -84,8 +87,11 @@ Demande d'indemnisation pour **accident corporel** — responsabilité civile du
 
 ### Qualité du/des défendeur(s)
 1. **[L'Exploitant du Commerce (La SAS)]**, exploitant du salon de coiffure au 22 Rue Lafaurie, 09000 Foix, représenté par ses dirigeants
+
 2. **[Le Nouvel Exploitant (HB BARBER)]**, exploitant effectif au jour de l'accident, intervenu volontairement
+
 3. **[Le Président de l'Exploitation]**, dirigeant
+
 4. **[La Directrice Générale de l'Exploitation]**, dirigeante
 
 <hr><hr>
@@ -108,16 +114,24 @@ Le demandeur sollicite un **traitement accéléré** de sa demande d'AJ pour le 
 
 ### Obligatoires
 - [ ] **Formulaire CERFA n°16146*03** (présent document)
+
 - [ ] **Avis d'imposition N-1** (justificatif des ressources)
+
 - [ ] **Déclarations URSSAF des 12 derniers mois** (justificatif des revenus micro-entrepreneur)
+
 - [ ] **Attestation de non-imposition** (si applicable)
+
 - [ ] **Pièce d'identité** (CNI ou passeport)
+
 - [ ] **Justificatif de domicile** de moins de 3 mois
 
 ### Recommandés (appuyant l'urgence)
 - [ ] **Certificats médicaux** (compte rendu SOS Main, certificats ITT)
+
 - [ ] **PV de police n°[N° PV Police]** (déposé le 2 juin 2026)
+
 - [ ] **Courrier de motivation** (exposé circonstancié de la situation annexé au présent formulaire)
+
 - [ ] **Copie de la requête Art. 145 CPC** (si déjà déposée)
 
 <hr><hr>
@@ -150,19 +164,27 @@ Avenue Paul Laffont, 09000 Foix
 
 ### Que demander au guichet
 1. **Récépissé de dépôt** avec date et cachet
+
 2. **Numéro d'enregistrement**
+
 3. **Traitement accéléré** (motif : risque destruction vidéos avant 15 août + audience 31 juillet)
+
 4. **Délai estimatif** de traitement
 
 ### Checklist avant départ
 - [ ] Toutes les cases du formulaire remplies
+
 - [ ] Photocopies de toutes les pièces (garder les originaux)
+
 - [ ] Signature apposée
+
 - [ ] Carnet pour noter les numéros de dossier
 
 <hr><hr>
 
 **📞 Contacts utiles :**
 - BAJ du TJ de Foix : 05 61 65 38 00
+
 - Site AJ en ligne : `www.justice.fr/aide-juridictionnelle`
+
 - Formulaire CERFA : `www.service-public.fr` → "Aide juridictionnelle"

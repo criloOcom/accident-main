@@ -32,13 +32,21 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 ### I.2 — 1.2 Lésions et parcours médical
 
 - **Lésions** : section partielle du tendon fléchisseur superficiel (FDP) et du paquet vasculo-nerveux collatéral radial de l'index de la main droite dominante
+
 - **Prise en charge** : microchirurgie d'urgence en SOS Main le 30 mai 2026 (neurolyse du nerf palmaire, suture tendineuse et nerveuse)
+
 - **ITT** : 56 jours (du 29 mai au 23 juillet 2026)
+
 - **Consolidation** : 1er mars 2027 (J+10 mois)
+
 - **DFP** : 12 % (déficit fonctionnel permanent)
+
 - **Souffrances endurées** : 4/7
+
 - **Incidence professionnelle** : majeure (informaticien indépendant, main droite dominante indispensable pour l'outil informatique, impossibilité de reprendre à l'identique)
+
 - **Préjudice esthétique** : cicatrice palmaire visible
+
 - **Préjudice d'agrément** : perte des activités manuelles et de loisir
 
 > **Pièce clé** : [Rapport d'expertise médico-légale (UMJ)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) du 12 novembre 2026
@@ -58,6 +66,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 
 **Qualifications pénales retenues** :
 - **Prudente** : Article 222-20 CP — blessures involontaires avec ITT > 3 mois (délit, 2 ans/30 000 €)
+
 - **Offensive** : Article 222-19 CP — blessures involontaires avec ITT > 3 mois par violation délibérée d'une obligation de sécurité (délit, 3 ans/45 000 €)
 
 **Points d'attention pénaux** : la cassure préexistante non signalée caractérise la conscience du danger et renforce la qualification 222-19. L'absence d'escabeau constitue la violation délibérée de l'obligation de sécurité (Articles L.4121-1 à L.4121-5, R.4323-58 C. trav.).
@@ -71,8 +80,11 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 
 **Fondements juridiques** :
 - **Principal** : Article 1242 al. 1er C. civ. — responsabilité du fait des choses (garde de la vasque et du téléviseur)
+
 - **Subsidiaire** : Article 1240 C. civ. — faute de la SAS (défaut d'entretien, absence d'escabeau, défaut de signalement de la cassure)
+
 - **Cumul** : Articles L.4121-1 à L.4121-5 C. trav. — manquement à l'obligation générale de sécurité
+
 - **Dirigeants** : Article L.225-251 C. com. — faute de gestion détachable (scénario offensif, conservé en note méthodologique)
 
 ### II.3 — 2.3 Volet assurance
@@ -149,17 +161,25 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 ### IV.2 — 4.2 Priorités à court terme (3 mois)
 
 1. **Rédiger et déposer les conclusions au fond civil** — en recyclant les blocs établis (récit verrouillé, responsabilité 1242/1240, Dintilhac chiffré)
+
 2. **Suivre l'information judiciaire pénale** — répondre à toute convocation, produire les pièces demandées
+
 3. **Relancer l'assureur RC** — mise en demeure réactualisée avec expertise + réquisitoire, ou assignation directe si silence persistant
+
 4. **Transmettre la présente note** à l'avocat désigné pour accélération de la prise en main
 
 ### IV.3 — 4.3 Points de vigilance
 
 - **Délais** : prescription de droit commun (5 ans, art. 2224 C. civ.) ; prescription pénale (6 ans à compter de la consolidation pour 222-19/222-20)
+
 - **Preuves vidéos** : solliciter la conservation des enregistrements de surveillance du salon
+
 - **Comportement de la SAS** : silence persistant, défaut de transmission à l'assureur, absence de DUERP communicable
+
 - **Comportement de l'assureur** : aucune offre d'indemnisation reçue à ce jour ; réserve de droits
+
 - **CPAM** : recours à déduire du quantum (créance prioritaire art. 29 L. 85-677)
+
 - **Dirigeants** : responsabilité in solidum conservée en option (scénario offensif — faute de gestion détachable L.225-251 C. com.)
 <hr><hr>
 

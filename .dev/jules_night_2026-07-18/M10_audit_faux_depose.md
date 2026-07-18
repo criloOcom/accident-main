@@ -13,17 +13,21 @@ Plusieurs agents IA ont travaillé sur ce dossier et ont parfois écrit des docu
 ## MÉTHODE
 
 1. **Parcours TOUS les fichiers** du dépôt (Token + Reel + Rapport), sans exception
+
 2. Cherche les motifs suivants :
+
    - `✅ Déposé` / `✅ Transmis` / `✅ Envoyé` / `✅ Fait` / `✅ Signifié`
    - `Déposée le` / `Transmise le` / `Envoyé le`
    - `A été déposé` / `A été transmis` / `A été envoyé`
    - Toute checkbox cochée `✅` ou `[x]` qui concerne une action extérieure
 3. Pour chaque occurrence, **ne fais PAS confiance au contexte** — vérifie si l'acte en question a réellement été accompli :
+
    - La demande d'AJ n'a PAS été déposée
    - La requête Art. 145 CPC n'a PAS été déposée
    - Les courriers n'ont PAS été envoyés
    - Seule la visite du 16/07 a réellement eu lieu
 4. Compile tout dans un rapport avec le format :
+
    - Fichier concerné (chemin complet)
    - Ligne exacte (citation)
    - Acte présenté comme fait

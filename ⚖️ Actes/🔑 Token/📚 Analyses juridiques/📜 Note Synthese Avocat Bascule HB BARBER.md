@@ -30,7 +30,9 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Synthese Avocat Ba
 
 **29 mai 2026 – Accident (J+0)**
 - Salon de coiffure à [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), 22 rue Lafaurie, identifié ensuite comme « [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) »
+
 - Retour dans le salon pour une retouche. Le coiffeur (**[Le Préposé de l'Exploitation]**) est monté sur le bac à shampoing. En redescendant, la structure bascule. Réflexe d'assistance : la victime tend la main pour retenir le meuble
+
 - La vasque en céramique était déjà brisée / avec cassure majeure préexistante : la paume droite percute la partie tranchante → plaie palmaire profonde (8,5 cm)
 
 **29 mai 2026 – Soins d'urgence à [La Ville de l'Accident]**
@@ -38,6 +40,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Synthese Avocat Ba
 
 **30 mai 2026 – Chirurgie main (J+1)**
 - Opération par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) ([**[L'Établissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md), SOS Main) :
+
  - Section partielle du tendon fléchisseur superficiel de l'index droit
  - Section totale du paquet collatéral ulnaire et radial
  - Neurolyse des nerfs
@@ -47,17 +50,21 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Synthese Avocat Ba
 
 **1er juin 2026 – Généraliste et administratif (J+3)**
 - Consultation Dr Yogan OXYBEL : plaie suturée de 8,5 cm, paresthésies du pouce/index, arrêt de travail 15 jours (AT), ITT pénale 1 jour "sous réserve de complications"
+
 - Dossier plainte pénale rédigé et remis à la police
 
 **2 juin 2026 – Dépôt de plainte (J+4)**
 - [ ... ] au commissariat de [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) Rive Droite pour "blessures involontaires avec incapacité n'excédant pas 3 mois dans le cadre du travail"
+
 - Le PV vise le salon « [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) »
+
 - Réquisition UMJ programmée au 12 novembre 2026 à Purpan
 
 ### b) Démarches administratives et judiciaires
 
 **1er–4 juin 2026 – Signalements mairie de [La Ville de l'Accident]**
 - Mail à la Mairie de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) (1er juin) : signalement d'accident corporel grave dans un ERP, demande de conservation des vidéos
+
 - Réponse [**[L'Adjoint au Maire de la Commune]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), adjoint au maire : saisit la préfecture, l'inspection du travail et le CODAF
 
 **3 juin 2026 – CPAM (Recours contre tiers)**
@@ -65,8 +72,11 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Synthese Avocat Ba
 
 **29 juin 2026 – Vague de LRAR (J+31)**
 - À [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (déclaration d'accident, demande assurance RC pro)
+
 - À [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (président)
+
 - À [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) / [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (DG)
+
 - Au bailleur [**[Le Propriétaire des Murs]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) : demande coordonnées assurance de l'exploitant
 
 <hr><hr>
@@ -121,7 +131,9 @@ Propriétaire des locaux du [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%
 
 ### Le problème
 - La plainte et tout le dossier ont été construits contre [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
+
 - Le bailleur écrit le 16/07/2026 : [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ont quitté les lieux le **10/03/2026** (état des lieux de sortie)
+
 - [**[Le Nouvel Exploitant (HB BARBER)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) a été créée au **même endroit** (22 rue Lafaurie), **même activité** (coiffure/barbier), avec **même DG** ([**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)), début d'activité le **22/04/2026**
 
 ### Conséquence
@@ -129,9 +141,13 @@ Au 29/05/2026, il est hautement probable que [**[Le Nouvel Exploitant (HB BARBER
 
 ### Le lien fort entre les deux sociétés
 - Même DG ([**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)/[**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md))
+
 - Même local ([**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md))
+
 - Même activité (coiffure/barbier)
+
 - Succession immédiate (cessation 10/03 → création 22/04 → accident 29/05)
+
 - Forte continuité économique / risque d'organisation d'insolvabilité ou cloisonnement artificiel
 
 <hr><hr>
@@ -140,8 +156,11 @@ Au 29/05/2026, il est hautement probable que [**[Le Nouvel Exploitant (HB BARBER
 
 Lors de la visite sur place le 16/07/2026 :
 - **Enseigne** « [**[Le Nouvel Exploitant (HB BARBER)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) » sur la vitrine
+
 - **Bac à shampoing cassé** : disparu, remplacé par un bac neuf
+
 - **Meuble/étagère murale** : disparu, trous de fixation encore visibles
+
 - Salon resté fermé plusieurs semaines après l'accident (risque de non-conservation des vidéos et remplacement du matériel accidentogène)
 
 Échange avec la personne identifiée comme [**[Le Président du Nouvel Exploitant]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) : refus de coopérer, refus de fournir assurance/facture/justificatif, propos contradictoires (prétend que la victime était déjà venue le jour de l'incident), demande de quitter les lieux.
@@ -155,13 +174,18 @@ Lors de la visite sur place le 16/07/2026 :
 
 ### Ce qui doit être corrigé
 - L'erreur sur l'identité de l'exploitant au 29/05/2026
+
 - Tous les actes visant [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) doivent être révisés
 
 ### Actions prioritaires
 1. **Complément de plainte** au Commissariat de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) pour corriger la cible
+
 2. **Révision des courriers** (CPAM, mairie, etc.) pour intégrer [**[Le Nouvel Exploitant (HB BARBER)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
+
 3. **Analyse des pièces jointes** au mail du bailleur (3 photos état des lieux de sortie)
+
 4. **Dépôt requête Art. 145 CPC** et **demande AJ totale** au TJ [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
+
 5. **Transmission du dossier** à l'avocat dès sa désignation par le BAJ
 
 <hr><hr>

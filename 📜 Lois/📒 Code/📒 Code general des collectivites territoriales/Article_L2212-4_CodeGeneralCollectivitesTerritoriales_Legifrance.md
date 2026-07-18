@@ -39,8 +39,11 @@ article: L2212-4
 Cet article complète l'article L. 2212-2 en prévoyant des pouvoirs étendus en cas de danger grave ou imminent. Il est essentiel dans notre dossier pour :
 
 1. **Ordonner des mesures d'urgence** dans le salon de coiffure
+
 2. **Faire exécuter d'office** les travaux de sécurité nécessaires
+
 3. **Prescrire l'évacuation** en cas de danger immédiat
+
 4. **Engager la responsabilité** des propriétaires négligents
 
 ---
@@ -48,8 +51,11 @@ Cet article complète l'article L. 2212-2 en prévoyant des pouvoirs étendus en
 ## Éléments clés
 
 1. **Danger grave ou imminent** : Situation nécessitant une intervention immédiate
+
 2. **Pouvoirs étendus** : Mesures de sûreté, évacuation, exécution d'office
+
 3. **Responsabilité financière** : Frais supportés par la commune, puis recours contre les responsables
+
 4. **Urgence** : Procédure accélérée sans formalités préalables
 
 ---
@@ -59,8 +65,11 @@ Cet article complète l'article L. 2212-2 en prévoyant des pouvoirs étendus en
 Cet article permet au maire de Foix :
 
 1. **Ordonner immédiatement** la mise en sécurité du salon de coiffure
+
 2. **Faire exécuter d'office** les réparations nécessaires (vasque brisée)
+
 3. **Prescrire des mesures de sûreté** pour prévenir les accidents
+
 4. **Engager la responsabilité** de la SAS pour le remboursement des frais
 
 ---
@@ -68,6 +77,7 @@ Cet article permet au maire de Foix :
 ## Jurisprudence associée
 
 - **CE, 24 juin 2021, n° 432145** : Application aux ERP dangereux
+
 - **CAA Lyon, 12 novembre 2020, n° 19LY03214** : Exécution d'office des mesures
 
 ---
@@ -76,6 +86,7 @@ Cet article permet au maire de Foix :
 
 Cet article est cité dans :
 - **Document 29 ✉️ Courrier Maire Foix.md** : Fondement juridique pour intervention urgente
+
 - **Document ✉️🚨 Prefecture.md** : Demande de mesures de sûreté
 
 ---
@@ -83,8 +94,11 @@ Cet article est cité dans :
 ## Procédure pratique
 
 1. **Constatation du danger** par les services municipaux
+
 2. **Ordonnance du maire** prescrivant les mesures nécessaires
+
 3. **Exécution d'office** si nécessaire (artisan mandaté par la mairie)
+
 4. **Recours contre la SAS** pour remboursement des frais
 
 ---

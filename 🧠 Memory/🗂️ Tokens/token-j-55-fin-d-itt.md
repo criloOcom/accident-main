@@ -26,7 +26,9 @@ Date de fin de l'ITT (Incapacité Totale de Travail) — correspond à la date d
 
 À cette date :
 - **[La Victime]** est présumée apte à reprendre une activité professionnelle, sous réserve des limitations fonctionnelles résiduelles
+
 - Fin du versement des indemnités journalières (le cas échéant)
+
 - Passage de la phase **ITT** (préjudices temporaires) à la phase **DFP** (préjudices permanents) dans l'évaluation Dintilhac
 
 ⚠ ITT initiale erronée : **[Le Médecin Généraliste]** a noté 1 jour le 01/06/2026 — erreur matérielle rectifiée à 56 jours.
@@ -34,17 +36,21 @@ Date de fin de l'ITT (Incapacité Totale de Travail) — correspond à la date d
 ## Acteurs concernés
 
 - **[La Victime]** — fin de l'ITT
+
 - **[Le Médecin Généraliste]** — prescripteur initial (erreur)
 
 ## Conséquences juridiques
 
 - La fin de l'ITT délimite la période des **préjudices temporaires** (DFT, PGPA, ATP) de la période des **préjudices permanents** (DFP, SE, IP, PEP, agrément)
+
 - La durée de 56 jours sert au calcul du **DFT** (25 €/jour × 56 = 1 400 €)
+
 - La durée de l'ITT est un indicateur de la **gravité objective** de l'accident
 
 ## Documents liés
 
 - [Arrêt de travail Dr OXYBEL 01/06/2026](../../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)
+
 - [Évaluation Dintilhac consolidée](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/%F0%9F%93%8A%20Evaluation%20Dintilhac%20Consolidee.md)
 
 ## Source

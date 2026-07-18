@@ -90,13 +90,16 @@ graph TD
 ## 📋 Détails des chaînes de dépendance
 
 1. **La Chaîne Référé Civil** :
+
    - `MD SAS (J+31)` ➔ `Assignation Référé (J+32)` ➔ `Conclusions Référé (J+39)` (qui intègrent les pièces complémentaires de la CPAM).
    - *Règle* : On ne peut pas assigner sans avoir d'abord mis en demeure la SAS. On ne peut pas déposer des conclusions sans avoir initié l'assignation.
 
 2. **La Chaîne Sécurité & Signalements ERP** :
+
    - `Plainte Initiale (J+4)` + `Assignation Référé (J+32)` ➔ `Signalement Préfecture (J+37)` / `Signalement SDIS (J+37)`.
    - *Règle* : Les signalements administratifs s'appuient sur le procès-verbal de police (dépôt de plainte) et sur l'assignation en justice pour prouver la matérialité de l'accident et des manquements de l'exploitant.
 
 3. **La Chaîne Pénale & Fraudes** :
+
    - `Plainte Initiale (J+4)` ➔ `Plainte Défaut Assurance RC (J+32)` ➔ `Constitution Partie Civile (J+38)`.
    - *Règle* : La constitution de partie civile devant le doyen des juges d'instruction ou le tribunal nécessite d'avoir préalablement déposé une plainte de base.

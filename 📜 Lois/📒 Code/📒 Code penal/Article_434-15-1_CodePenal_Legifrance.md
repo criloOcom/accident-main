@@ -53,6 +53,7 @@ Cet article n'est pas applicable directement à notre phase actuelle mais sert d
 ## Références croisées
 
 - **Article 434-15 du Code pénal** : Subornation de témoin.
+
 - **Article 109 du Code de procédure pénale** : Obligation de comparaître et déposer devant le juge d'instruction.
 
 ---

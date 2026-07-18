@@ -17,7 +17,9 @@ statut: final
 
 **CHIFFRES CLÉS** (expertise UMJ 12 novembre 2026 — consolidation 01/03/2027) :
 - DFP 12 % = 25 200 € | SE 4/7 = 14 000 € | PEP = 3 500 € | Agrément = 4 500 €
+
 - IP = 28 000 € | DFT = 2 031 € | PGPA = 1 380 € | DSA = 790 €
+
 - Fourchette globale : **120 – 160 k€** | Provision déjà allouée : **15 k€**
 
 **STRATÉGIE** : Pénal (CPC + réquisitoire 222-19/222-20) → reconnaissance faute → pièce n°1 pour le civil. Civil (1242) → conclusions au fond en cours. Assurance (L.124-3) → silence assureur, action directe. Administratif (Inspection Travail + CODAF) → signalements transmis, relances envoyées. Dirigeants L.225-251 C. com. conservé en option.

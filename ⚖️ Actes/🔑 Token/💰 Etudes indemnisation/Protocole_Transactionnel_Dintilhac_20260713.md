@@ -56,6 +56,7 @@ En conséquence, l'indemnisation intégrale des préjudices corporels subis par 
 Les Parties conviennent de se référer, pour l'évaluation et la liquidation amiable des préjudices, aux conclusions du Rapport d'Évaluation Indemnitaire du 13 juillet 2026 (Pièce n° 44 de la procédure), lequel détaille les postes de préjudices selon la nomenclature Dintilhac sous deux scénarios tenant compte de l'état fonctionnel non encore consolidé de la Victime :
 
 1. **Scénario Prudent (Déficit Fonctionnel Permanent de 10 %)** : Chiffrage total avant recours subrogatoire évalué à **126 000 €**.
+
 2. **Scénario Médian (Déficit Fonctionnel Permanent de 15 %)** : Chiffrage total avant recours subrogatoire évalué à **161 500 €**.
 
 ### I.4 — ARTICLE 3 — ACCORD SUR LE VERSEMENT D'UNE PROVISION INDEMNITAIRE IMMÉDIATE

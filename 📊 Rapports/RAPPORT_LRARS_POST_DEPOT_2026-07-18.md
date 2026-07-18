@@ -16,6 +16,7 @@ Le 16 juillet 2026, une visite sur les lieux de l'accident a permis de découvri
 **Avertissement sur l'état du dossier :**
 Lors de l'exploration du dossier, de nombreuses mentions trompeuses telles que « ✅ Déposé », « Transmis », ou « Envoyé » ont été identifiées concernant des actes qui, en réalité, **n'ont jamais été envoyés ou déposés**. Il s'agit notamment :
 - De la demande d'Aide Juridictionnelle (AJ) mentionnée comme déposée.
+
 - De courriers de mise en demeure et de signalement qui apparaissent comme transmis alors qu'ils sont encore au stade de projet.
 Ces actions doivent être considérées comme des tâches non réalisées (TODO) et sont intégrées dans le plan de diffusion de l'Erratum.
 
@@ -63,7 +64,9 @@ Dans l'attente de votre retour, je vous prie d'agréer, Monsieur le Préfet, l'e
 ```
 
 - [ ] LRAR N° : **[À compléter]**
+
 - [ ] Date d'envoi : **[À compléter]**
+
 - [ ] Copie conservée : **[À compléter]**
 
 <hr><hr>
@@ -90,7 +93,9 @@ Veuillez agréer, Madame, Monsieur l'Inspecteur du Travail, l'expression de ma c
 ```
 
 - [ ] LRAR N° : **[À compléter]**
+
 - [ ] Date d'envoi : **[À compléter]**
+
 - [ ] Copie conservée : **[À compléter]**
 
 <hr><hr>
@@ -117,7 +122,9 @@ Je vous prie d'agréer, Monsieur le Maire, l'expression de ma considération dis
 ```
 
 - [ ] LRAR N° : **[À compléter]**
+
 - [ ] Date d'envoi : **[À compléter]**
+
 - [ ] Copie conservée : **[À compléter]**
 
 <hr><hr>
@@ -144,7 +151,9 @@ Je reste à votre disposition pour tout renseignement complémentaire.
 ```
 
 - [ ] LRAR N° : **[À compléter]**
+
 - [ ] Date d'envoi : **[À compléter]**
+
 - [ ] Copie conservée : **[À compléter]**
 
 <hr><hr>
@@ -169,7 +178,9 @@ Veuillez agréer, Madame, Monsieur le Greffier, l'expression de mes salutations 
 ```
 
 - [ ] LRAR N° : **[À compléter]**
+
 - [ ] Date d'envoi : **[À compléter]**
+
 - [ ] Copie conservée : **[À compléter]**
 
 <hr><hr>

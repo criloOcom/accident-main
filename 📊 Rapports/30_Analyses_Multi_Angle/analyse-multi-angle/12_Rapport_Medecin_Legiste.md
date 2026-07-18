@@ -34,6 +34,7 @@ Le présent avis sur pièces est rendu dans le cadre de l'évaluation médico-l�
 
 Le dossier repose sur deux pièces médicales fondamentales :
 1. **Compte-rendu opératoire de SOS Main (Clinique de l'Union) du 30 mai 2026** (Dr Iskander DJERBI).
+
 2. **Certificat médical initial du Dr Yogan OXYBEL du 01 juin 2026**.
 
 L'examen de ces pièces permet de qualifier le certificat médical initial de **complet sur le plan descriptif**. Il Objective une plaie suturée d'environ 8,5 cm de grand axe à la face palmaire de la main droite (main dominante).
@@ -44,7 +45,9 @@ L'examen de ces pièces permet de qualifier le certificat médical initial de **
 
 Les lésions sont sévères et documentées par le compte-rendu opératoire :
 - Plaie palmaire profonde de l'index droit.
+
 - **Section partielle du tendon fléchisseur superficiel**, ayant nécessité une suture tendineuse par un point en cadre 6 brins (type Mac Learney) avec du fil PDS 3-0.
+
 - **Atteinte nerveuse majeure** : suture microchirurgicale du paquet collatéral ulnaire et radial totale, ainsi qu'une neurolyse du nerf collatéral ulnaire et radial comprimé par un hématome.
 
 Ces lésions justifient pleinement le recours à une intervention de microchirurgie d'urgence (lavage, désinfection, exploration et réparation sous anesthésie) et traduisent une atteinte structurale lourde de l'index dominant.
@@ -80,7 +83,9 @@ Une instruction (potentiellement un "piège" ou une confusion dans le mandat) in
 
 L'incidence professionnelle est **majeure**. L'atteinte de l'index de la main droite (dominante) impacte directement les gestes fondamentaux de la profession :
 - Frappe au clavier (vitesse, précision, douleurs à la répétition).
+
 - Utilisation intensive de la souris.
+
 - Préhension fine et dextérité.
 
 Cette situation engendrera indéniablement une fatigabilité accrue, une perte de rendement et nécessitera probablement des adaptations ergonomiques pérennes (souris verticale, claviers adaptés, reconnaissance vocale).

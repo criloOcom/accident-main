@@ -15,12 +15,19 @@ type: memory
 
 ## Identité de la victime
 - NOM : **[La Victime]**
+
 - DATE_NAISSANCE : **18 janvier 1982** (⚠ jamais 12 mars)
+
 - VILLE_NAISSANCE : **[La Métropole Régionale]**
+
 - NATIONALITÉ : française
+
 - PROFESSION : informaticien indépendant
+
 - ADRESSE : **[L'Adresse de la Victime]**
+
 - EMAIL : **[L'Email de la Victime]**
+
 - SIREN : **[L'Identifiant Professionnel de la Victime]**
 
 ## §1. Rapport d'expertise 2027-05-29 (référence canonique)
@@ -31,36 +38,57 @@ Le rapport d'expertise médicale du 29 mai 2027 ([20270529 ⚖️ Rapport Expert
 
 ### Postes extra-patrimoniaux (nomenclature Dintilhac stricte)
 - DFP_CANONIQUE : **25 200 €** (12 % × 2 100 €/pt — point Mornet médian)
+
 - SE_CANONIQUE : **14 000 €** (4/7)
+
 - PEP_CANONIQUE : **3 500 €** (2,5/7 — cicatrice palmaire 5,2 cm)
+
 - AGRÉMENT_CANONIQUE : **4 500 €**
+
 - TOTAL_EXTRA_PATRIMONIAL_STRICT : **47 200 €**
 
 ### Postes patrimoniaux (nomenclature Dintilhac stricte)
 - DFT_CANONIQUE : **2 031 €** (81,25 j × 25 €/j — détail : 56j×100% + 35j×50% + 95j×25%)
+
 - AIDE_HUMAINE_TEMP_CANONIQUE : **800 €** (ATP — aide humaine temporaire)
+
 - DSA_CANONIQUE : **790,23 €** (SOS Main)
+
 - PGPA_CANONIQUE : **1 380 €**
+
 - IP_CANONIQUE : **28 000 €** (BIBAL : 9 000 × 12 % × coeff 25 — incidence professionnelle, poste patrimonial)
+
 - DSF_CANONIQUE : **3 000 €**
+
 - PGPF_CANONIQUE : **50 000 – 70 000 €** (fourchette)
+
 - TOTAL_PATRIMONIAL_MIN_HORS_PGPF : **~36 000 €** (DFT + DSA + DSF + PGPA + IP + ATP)
 
 ### Agrégats de référence
 - SOUS_TOTAL_EXTRA_PAT_plus_DFT : **49 231 €** (extra-pat strict 47 200 + DFT 2 031 — référence barémique globale, ne pas confondre avec extra-patrimonial strict)
+
 - TOTAL_ESTIMATIF_GLOBAL_CANONIQUE : **120 000 – 160 000 €** (fourchette globale)
+
 - CA_MENSUEL_MOYEN : 750 € (déclaré URSSAF, CA annuel 9 000 € net)
+
 - FACTURE_CHIRURGIE : 790,23 €
 
 ### Provisions et astreintes (inchangées)
 
 - MONTANT_PROVISION_REFERE : 15 000 € (provision référé — conformément aux conclusions)
+
 - MONTANT_PROVISION_AMIABLE : 15 000 € (demande amiable en mise en demeure)
+
 - MONTANT_PROVISION_PENALE : 15 000 € (constitution de partie civile)
+
 - MONTANT_ASTREINTE_REFERE : 100 €/jour
+
 - MONTANT_ASTREINTE_145 : 150 €/jour
+
 - MONTANT_ARTICLE_700 : 3 000 € (compromis)
+
 - MONTANT_ARTICLE_700_145 : 1 500 € (assignation article 145)
+
 - MONTANT_ARTICLE_475_1 : 3 000 € (constitution partie civile)
 
 ## §2. Scénarios historiques (pré-expertise)
@@ -70,35 +98,57 @@ Le rapport d'expertise médicale du 29 mai 2027 ([20270529 ⚖️ Rapport Expert
 ### 2a. Évaluation principale (optimiste) — pré-expertise
 
 - MONTANT_TOTAL_ESTIME : ~109 500 € — 🔄 SUPERSEDED (expertise : 120 000 – 160 000 €)
+
 - PGPA : 1 900 € (dont 1 400 € prorata + 500 € perte de chance) — 🔄 SUPERSEDED (expertise : 1 380 €)
+
 - DFT : 1 400 € (56 jours × 25 €/jour) — 🔄 SUPERSEDED (expertise : 2 031 €)
+
 - DFP : 31 200 € (12 % × 2 600 €/pt) — 🔄 SUPERSEDED (expertise : 25 200 €)
+
 - SE : 24 000 € (4/7) — 🔄 SUPERSEDED (expertise : 14 000 €)
+
 - IP : 30 000 € (BIBAL : 9 000 × 12 % × 27,5) — 🔄 SUPERSEDED (expertise : 28 000 €)
+
 - AGREMENT : 8 000 € (guitare 6 000 + autres 2 000) — 🔄 SUPERSEDED (expertise : 4 500 €)
+
 - PEP : 3 000 € (cicatrice palmaire 8,5 cm) — 🔄 SUPERSEDED (expertise : 3 500 €)
+
 - ATP : 2 000 € — 🔄 SUPERSEDED (expertise : 800 €)
+
 - FRAIS_DIVERS : 2 000 €
+
 - DEP : 3 000 €
+
 - FACTURE_CHIRURGIE : 790,23 €
 
 ### 2b. Évaluation conservative (Glose, juillet 2026)
 
 - TOTAL_ESTIME_CONSERVATIF : ~45 000 € (fourchette 28 000-65 000 €) — 🔄 SUPERSEDED
+
 - PGPA_CONSERVATIF : 1 380 € — ✅ Correspond à l'expertise
+
 - DFP_CONSERVATIF : 25 000 € (8 % médian) — 🔄 SUPERSEDED (expertise : 25 200 €)
+
 - SE_CONSERVATIF : 8 500 € — 🔄 SUPERSEDED (expertise : 14 000 €)
+
 - IP_CONSERVATIF : 2 250 € — 🔄 SUPERSEDED (expertise : 28 000 €)
+
 - AGREMENT_CONSERVATIF : 3 500 € — 🔄 SUPERSEDED (expertise : 4 500 €)
+
 - FRAIS_MEDICAUX_CONSERVATIF : 3 500 € — 🔄 SUPERSEDED (expertise : 3 000 €)
+
 - ART_700_CONSERVATIF : 2 250 € — 🔄 SUPERSEDED (expertise : 3 000 €)
 
 ### 2c. Compromis recommandé — pré-expertise
 
 - TOTAL_COMPROMIS : ~85 000 € — 🔄 SUPERSEDED (expertise : 120 000 – 160 000 €)
+
 - DFP_COMPROMIS : 25 000 € (10 %) — ✅ Proche de l'expertise (25 200 €)
+
 - SE_COMPROMIS : 15 000 € — 🔄 SUPERSEDED (expertise : 14 000 €)
+
 - AGREMENT_COMPROMIS : 5 000 € — 🔄 SUPERSEDED (expertise : 4 500 €)
+
 - FRAIS_DIVERS_COMPROMIS : 3 000 €
 
 ### 2d. Avis Dintilhac 2026-07-13 (externe, pré-expertise)
@@ -107,17 +157,23 @@ Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../%F0%9F%93%8A%20Rapports/RAPPORT_A
 
 #### Scénario prudent (DFP 10 %)
 - EVAL_GLOBALE_PRUDENTE : ≈ 126 000 € — 🔄 SUPERSEDED (expertise : 120 000 – 160 000 €)
+
 - DFP_10PC : 20 000 € (10 % × 2 000 €/pt) — 🔄 SUPERSEDED (expertise : 25 200 €)
+
 - INCIDENCE_PRO_PRUDENTE : 20 000 € — 🔄 SUPERSEDED (expertise : 28 000 €)
+
 - AGREMENT_MEDIAN : 4 000 € — 🔄 SUPERSEDED (expertise : 4 500 €)
 
 #### Scénario médian (DFP 15 %)
 - EVAL_GLOBALE_MEDIANE : ≈ 161 500 € — 🔄 SUPERSEDED (expertise : 120 000 – 160 000 €)
+
 - DFP_15PC : 30 000 € (15 % × 2 000 €/pt) — 🔄 SUPERSEDED (expertise : 25 200 €)
+
 - INCIDENCE_PRO_MEDIANE : 30 000 € — 🔄 SUPERSEDED (expertise : 28 000 €)
 
 ## Plafonds à connaître
 - FGTI_PROVISION_MAX : 3 000 € (art. L.422-7 CA — 30 % plafonné)
+
 - SARVI_MAX : 3 000 € (30 % au-delà de 1 000 €)
 
 ⚠ **Explication montants** : L'évaluation initiale (59 600 €) sous-évaluait plusieurs postes (SE, IP, DFP) et oubliait le DFT, le PEP, l'ATP, la DEP et les frais divers. L'évaluation Dintilhac (109 500 €) corrige ces lacunes — ultérieurement majorée de l'ATP (+2 000 €) et DEP (+3 000 €) après analyse. Le mémoire Glose (juillet 2026) propose une évaluation plus conservative (~45 000 €). Le compromis recommandé est ~85 000 €.
@@ -126,28 +182,48 @@ Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../%F0%9F%93%8A%20Rapports/RAPPORT_A
 
 ## Dates clés (⚠ précision absolue requise)
 - DATE_ACCIDENT : **29 mai 2026** (vendredi)
+
 - HEURE_ACCIDENT : 15h00
+
 - DATE_CHIRURGIE_SOS_MAIN : **30 mai 2026** (samedi — ⚠ JAMAIS 31 ; le 31/05 est la date du COMPTE-RENDU, pas de la chirurgie)
+
 - LIEU_ACCIDENT : **[L'Adresse de l'Exploitation]**
+
 - ETABLISSEMENT : **[L'Exploitant du Commerce (La SAS)]**
+
 - SERVICES_URGENCE : SMUR 09 (Centre Ariégeois de Soins Immédiats)
+
 - ITT_TOTAL : 56 jours (29/05/2026 → 23/07/2026)
+
 - ⚠ ITT_INITIALE_ERREUR : **[Le Médecin Généraliste]** a noté 1 jour le 01/06 (erreur matérielle, rectifiée à 56j)
+
 - PV_POLICE : 2026/015967 (⚠ info non confirmée par retour officiel — source : courriel Mairie de **[La Ville de l'Accident]** du 01/06/2026 + dossier de plainte déposé par **[La Victime]**)
+
 - DOSSIER_CPAM : **31727387** (⚠ jamais 31713398 — obsolète)
+
 - CAPITAL_SOCIAL : 200 € (2 000 actions de 0,10 €)
+
 - MAIN_ATTEINTE : Main droite uniquement — index droit (⚠ jamais 5e doigt/auriculaire)
+
 - ZONE_LESEE : Index droit uniquement (section partielle tendon fléchisseur + paquet collatéral + neurolyse nerf palmaire)
+
 - PREUVE_BANCAIRE : Wero 15,00 € payé puis remboursé le jour même (preuve de présence matérielle dans les lieux et de relation contractuelle)
+
 - DATE_ACCIDENT_CERTIFICAT_ERREUR : Certains certificats mentionnent 29/06/2026 par erreur (date réelle : 29/05/2026)
+
 - ADRESSE_PV_POLICE_ERREUR : PV police n°2026/015967 écrit "22, RUE DE LA FAURIE" (orthographe police). Tous les documents utilisent "22 Rue Lafaurie" (orthographe correcte). Variance mineure sans incidence.
 
 ## Mécanisme de l'accident (VÉRITÉ FACTUELLE)
 1. Le coiffeur (**[Le Préposé de l'Exploitation]**) est monté physiquement sur la vasque en céramique du bac à shampoing **pour régler le téléviseur**
+
 2. En descendant, son poids a provoqué le **basculement** de l'équipement
+
 3. La victime a tendu la main droite par réflexe pour protéger le coiffeur
+
 4. La paume a heurté une **cassure majeure préexistante** non signalée sur le flanc de la vasque
+
 5. La vasque ne s'est PAS effondrée — il n'y a PAS de débris de céramique
+
 6. Seule la main droite est touchée — la main gauche est fonctionnelle, la dictée vocale est possible
 
 ## Preuves de suivi La Poste (LRAR — RÉELS, vérifiés le 13/07/2026 via le compte La Poste de la victime)

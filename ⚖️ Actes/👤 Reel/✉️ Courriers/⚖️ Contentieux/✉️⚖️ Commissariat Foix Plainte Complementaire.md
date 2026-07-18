@@ -67,13 +67,17 @@ Je travaille à mon compte comme informaticien indépendant. Ma main droite éta
 Dans les jours qui ont suivi l'accident et l'opération, j'ai entrepris diverses démarches :
 
 - déclaration auprès de la CPAM,
+
 - consultation médicale et suivi spécialisé,
+
 - et surtout dépôt d'une plainte au commissariat de Foix, début juin 2026, pour faire constater officiellement l'accident et déclencher une enquête sur les responsabilités.
 
 Au moment de cette première plainte, je croyais sincèrement que la société exploitant le salon était la [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), enseigne apposée sur le lieu et mentionnée par les intervenants. C'est sur cette base que j'ai également adressé, le 29 juin 2026, plusieurs lettres recommandées avec accusé de réception à :
 
 - la direction de la [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md),
+
 - au président de cette société,
+
 - ainsi qu'au propriétaire bailleur des locaux, [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), pour lui demander les coordonnées de l'assurance de responsabilité civile de l'exploitant.
 
 Je joins à la présente copie de ces courriers et des accusés de réception disponibles, à titre de pièces justificatives.
@@ -87,6 +91,7 @@ Parallèlement, dès le 1er juin 2026, j'ai également signalé les faits à la 
 À la suite de ces courriers, j'ai reçu, le 16 juillet 2026, un courriel de [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), propriétaire des locaux du 22 rue / Grande Rue La Faurie à Foix. Dans ce message, M. [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) m'indique notamment que :
 
 - la [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) a quitté les lieux et a procédé à un état des lieux de sortie le 10 mars 2026 ;
+
 - en conséquence, cette société n'occupait plus les locaux au moment de mon accident du 29 mai 2026, et il estime que sa responsabilité ne pourrait donc pas être engagée pour un fait survenu après son départ.
 
 Ce courriel était accompagné de photos de l'état des lieux de sortie signées par le représentant de la [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), confirmant la date du 10 mars 2026.
@@ -111,6 +116,7 @@ En parallèle, j'ai obtenu la liste des souscripteurs et un certificat de dépô
 Le 16 juillet 2026, je me suis rendu sur place pour constater l'état des lieux. J'ai alors constaté que :
 
 - le bac à shampoing en céramique blanche, brisé et tranchant, qui a provoqué l'accident du 29 mai 2026, avait totalement disparu. Il a été remplacé par un bac neuf de couleur noire ;
+
 - le meuble de télévision qui était fixé au mur avait également été retiré, les trous de fixation étant visibles sur le mur nu.
 
 Lors de cette visite, l'échange avec les personnes présentes (notamment [Hamza El Hachemi BERGUIGA]) s'est très mal déroulé. Aucune information ne m'a été donnée sur le remplacement du bac, le retrait du meuble TV, l'assurance ou les déclarations de sinistre.
@@ -135,13 +141,17 @@ D'après ces documents officiels, la société SAS HB BARBER présente les carac
 **Président :**
 
 - [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md),
+
 - ayant souscrit 990 actions sur 1 000,
+
 - domicilié [**[Adresse du Président du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-adresse.md).
 
 **Directrice Générale :**
 
 - [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md),
+
 - ayant souscrit 10 actions,
+
 - domiciliée [**[Adresse de la Directrice Générale du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-dg-adresse.md).
 
 En conséquence, au jour de mon accident (29 mai 2026), le salon où les faits se sont produits était exploité par la SAS HB BARBER, sous la direction de son Président, [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md), et de sa Directrice Générale, [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
@@ -165,9 +175,13 @@ Que les faits déjà décrits dans ma plainte initiale (accident provoqué par u
 ### 5.3 — Audition des personnes et collecte des documents utiles
 
 - l'audition de [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md), Président de la SAS HB BARBER,
+
 - l'audition de [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), Directrice Générale,
+
 - l'audition, en tant que de besoin, de [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), propriétaire bailleur,
+
 - la collecte, auprès d'eux, des documents suivants :
+
   - bail commercial ou avenant liant M. [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) à la SAS HB BARBER,
   - états des lieux d'entrée et de sortie (LES MAUVAIS GARÇONS, puis HB BARBER),
   - attestations d'assurance de responsabilité civile professionnelle de la SAS HB BARBER en vigueur au 29 mai 2026,
@@ -181,12 +195,14 @@ Je sollicite en particulier l'audition de [Ayoub BENNOURINE](../../../../%F0%9F%
 
 Que l'enquête permette de déterminer :
 - si le vice ou l'état défectueux du matériel (bac à shampoing brisé) existait déjà avant l'arrivée d'HB BARBER,
+
 - si l'absence de réparation ou de remplacement de ce matériel, ainsi que l'absence de mesures de sécurité, relèvent de la responsabilité de l'ancien exploitant (LES MAUVAIS GARÇONS), du nouvel exploitant (HB BARBER), du bailleur, ou de plusieurs d'entre eux.
 
 ### 5.6 — Poursuite, le cas échéant, des dirigeants personnellement en cas de manœuvres délibérées
 
 Dans l'hypothèse où il apparaîtrait que des manœuvres délibérées de dissimulation d'assurance, de refus de déclaration d'accident ou d'organisation d'insolvabilité auraient été commises, je sollicite que vos services examinent l'opportunité de :
 - mettre en cause, le cas échéant, les dirigeants de droit de la SAS HB BARBER,
+
 - et de transmettre au Parquet les éléments utiles pour toute qualification pénale complémentaire (faute détachable de leurs fonctions, organisation d'insolvabilité, etc.).
 
 <hr><hr>
@@ -196,12 +212,19 @@ Dans l'hypothèse où il apparaîtrait que des manœuvres délibérées de dissi
 Je joins à la présente, en copies :
 
 1. Copie de ma plainte initiale déposée au commissariat de Foix (début juin 2026).
+
 2. Courriers recommandés du 29 juin 2026 adressés à la [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), à son président et à [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) (bailleur), avec les preuves d'envoi disponibles.
+
 3. Courriel de [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) du 16 juillet 2026, avec les photos d'état des lieux de sortie du 10 mars 2026.
+
 4. Attestation d'immatriculation RNE / DATA INPI de la SAS HB BARBER et avis de situation SIRENE.
+
 5. Liste des souscripteurs et certificat de dépôt de fonds de la SAS HB BARBER, attestant de l'identité de ses dirigeants et associés.
+
 6. Certificats médicaux, comptes rendus opératoires et documents relatifs à mes soins et incapacités (déjà transmis pour partie, complétés si nécessaire).
+
 7. Note de constatations du 16 juillet 2026 (visite des lieux), photos des lieux modifiés.
+
 8. Échange de courriels avec [Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), adjoint au maire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) (signalement du 1er juin 2026 et réponse indiquant la saisine de la préfecture / inspection du travail / CODAF).
 
 <hr><hr>

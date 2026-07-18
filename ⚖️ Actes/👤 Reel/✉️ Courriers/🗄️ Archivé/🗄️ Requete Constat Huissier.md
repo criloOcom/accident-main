@@ -6,6 +6,7 @@ type: courrier
 date: 2026-07-09
 tags:
 - obsolet
+
 - remplace_par_03
 statut: archive
 auteur: La Victime

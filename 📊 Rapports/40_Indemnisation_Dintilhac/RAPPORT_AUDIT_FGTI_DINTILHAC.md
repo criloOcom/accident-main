@@ -91,7 +91,9 @@ Le total annoncé est **~105 000 €** — un écart de 2 500 €. Si le DEP (3 
 ### III.4 — 3.4 ITT : 55 ou 56 jours ?
 
 - Tous les documents internes mentionnent **56 jours** (29 mai → 23 juillet 2026) — confirmé par STRICT VARIABLES.md
+
 - La consigne utilisateur mentionne "ITT 55 jours à date"
+
 - **Conclusion :** La valeur interne (56 jours) est cohérente entre tous les documents. Le "55" de l'utilisateur est soit une date de début de mission (J-1), soit une erreur.
 
 ### III.5 — 3.5 Incidence professionnelle — vérification
@@ -111,7 +113,9 @@ Le total annoncé est **~105 000 €** — un écart de 2 500 €. Si le DEP (3 
 C'est un écart considérable qui affaiblit la crédibilité de la demande s'il est opposé par le FGTI.
 
 - L'IP est le poste le plus divergent : 30 000 € (BIBAL) vs 2 250 € (Glose) — **×13**
+
 - Un dossier d'expertise médicale solide sera crucial pour justifier l'IP
+
 - Recommandation : préparer une argumentation détaillée sur la méthode BIBAL avec devis d'équipement ergonomique
 
 ---
@@ -150,21 +154,29 @@ Le FGTI applique un barème de frais pour l'ouverture et la gestion du dossier. 
 ### V.1 — 5.1 Priorité haute — corriger le courrier FGTI
 
 1. **Remplacer** la ligne erronée `Pretium doloris (PEP)` par `Préjudice Esthétique Permanent (PEP)`
+
 2. **Ajouter** l'ATP (Assistance Tierce Personne) : 2 000 €
+
 3. **Ajouter** le DFT explicitement listé (déjà présent mais à vérifier)
+
 4. **Corriger** le total additionné pour qu'il corresponde exactement à la somme des postes
+
 5. **Décider** d'un niveau d'évaluation unique (optimiste ou compromis) — recommandation : garder l'optimiste pour le FGTI (stratégie de demande) mais le documenter explicitement comme "estimation haute"
 
 ### V.2 — 5.2 Priorité moyenne — harmoniser les sources
 
 6. **Mettre à jour** STRICT VARIABLES.md pour ajouter explicitement les valeurs "compromis" pour tous les postes (comme FINANCIAL_VARIABLES_DEPRECATED.md)
+
 7. **Mettre à jour** le README du dossier 04 pour refléter les 3 niveaux d'évaluation
+
 8. **Ajouter** une mention dans le courrier FGTI précisant "estimation haute sous réserve d'expertise" pour prévenir toute contestation
 
 ### V.3 — 5.3 Points de vigilance
 
 9. **Méthode BIBAL** : préparer une note justificative détaillée (devis équipement, jurisprudence, calcul du coefficient 27,5) pour répondre à une éventuelle contestation du FGTI
+
 10. **Double compte IP/DFP** : documenter la distinction entre les deux postes dans la note stratégique
+
 11. **Plafond FGTI** : vérifier si le décret d'application du nouveau plafond FGTI (L.422-7 CA) est applicable (mentionné à 3 000 € dans STRICT VARIABLES.md)
 
 ---

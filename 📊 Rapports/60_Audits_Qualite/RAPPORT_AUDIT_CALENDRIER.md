@@ -34,7 +34,9 @@ type: rapport
 **J+0 = 29/05/2026** (STRICT VARIABLES.md:69)
 
 - 29/05/2026 est bien un **vendredi** ✓
+
 - Tous les J+X sont calculés à partir de cette date
+
 - **Aucune divergence** entre les fichiers sur cette date
 
 ---
@@ -83,23 +85,33 @@ type: rapport
 ### IV.1 — ERREUR 1 — EVT-29 : décalage (J+24)/(J+25)
 
 - **Fichier :** `📅 Calendrier procedural.md` — EVT-29
+
 - **Description :** La description indique « Consultation de contrôle post-opératoire **(J+24)** » mais la date est le **23/06/2026** = **J+25** (29/05+25 = 23/06)
+
 - **J+24 réel :** 22/06/2026 (lundi)
+
 - **Gravité :** Mineure — l'événement partage la même ligne que J+25, l'erreur n'est que dans le libellé
+
 - **Correction :** Remplacer `(J+24)` par `(J+25)` dans EVT-29
 
 ### IV.2 — ERREUR 2 — COR-09 : statut bloqué « À faire (Urgent) » depuis 34 jours
 
 - **Fichier :** `📅 Calendrier procedural.md` — COR-09
+
 - **Description :** « Envoi de l'arrêt de travail » daté du **03/06/2026 (J+5)** toujours marqué **« À faire (Urgent) »** au 10/07/2026
+
 - **Gravité :** Élevée — une pièce médicale essentielle n'a pas été transmise depuis 37 jours
+
 - **Correction :** Soit transmettre l'arrêt, soit mettre à jour le statut si déjà fait
 
 ### IV.3 — ERREUR 3 — COR-10 : statut « À faire » depuis 35 jours
 
 - **Fichier :** `📅 Calendrier procedural.md` — COR-10
+
 - **Description :** « Déclaration de sinistre corporel » datée du **05/06/2026 (J+7)** toujours marquée **« À faire »**
+
 - **Gravité :** Élevée — une déclaration de sinistre non faite peut compromettre le délai de prescription biennale (art. L.114-1 C.ass.)
+
 - **Correction :** Effectuer la déclaration ou mettre à jour le statut
 
 ---
@@ -109,6 +121,7 @@ type: rapport
 ### V.1 — Incohérence 1 — Format des dates non uniforme
 
 - **Constat :** Le calendrier (versions token et reel) alterne entre formats :
+
   - `05/06/2026` (format français DD/MM/YYYY)
   - `10 juin 2026` (format texte)
   - `12/06/2026`
@@ -120,18 +133,23 @@ type: rapport
 ### V.2 — Incohérence 2 — EVT-13 et EVT-29 même ligne J+25
 
 - **Constat :** EVT-13 (Contrôle post-opératoire et Prolongation) et EVT-29 (Consultation de contrôle post-opératoire) apparaissent au même jalon J+25 = 23/06
+
 - **Probablement le même événement** décrit deux fois
 
 ### V.3 — Incohérence 3 — EVT-25 : date fixe vs pas de statut
 
 - **Constat :** EVT-12 (Prolongation arrêt) daté 12/06/2026 marqué « Fait » ; EVT-25 (Consultation de contrôle) même date marqué « À faire »
+
 - **Si la consultation de contrôle n'a pas eu lieu,** le délai pour la contester (48h) est largement dépassé
+
 - **Gravité :** À vérifier si cette consultation était nécessaire
 
 ### V.4 — Incohérence 4 — EVT-15 daté « J+46 Échéance amiable » mais jour férié
 
 - **Constat :** Le 14/07/2026 est le **14 juillet** (fête nationale française, jour férié)
+
 - **Impact :** Si EVT-15 correspond à l'envoi d'une réponse ou d'un courrier, le cachet de la poste / réception seront décalés au 15/07
+
 - **Gravité :** Mineure — sans incidence juridique (le délai expirant un jour férié est prorogé au premier jour ouvrable suivant, art. 642 CPC)
 
 ---
@@ -207,21 +225,28 @@ type: rapport
 
 ### VIII.1 — Échéance 1 : 14/07/2026 (J+46) — Fin délai mise en demeure
 - **Enjeu :** Expiration du délai de 15j pour réponse aux mises en demeure du 29/06
+
 - **Risque :** Aucun — permet de justifier l'assignation en référé
+
 - **Action :** L'assignation est prévue le 15/07 (EVT-16), parfaitement chronologisé
 
 ### VIII.2 — Échéance 2 : 15/07/2026 (J+47) — Lancement assignation
 - **Enjeu :** Doit être délivrée au moins 15 jours avant l'audience
+
 - **Vérification :** 15/07 → 31/07 = **16 jours** → conforme à l'art. 788 CPC
+
 - **Marge :** 1 jour seulement — aucun retard possible
 
 ### VIII.3 — Échéance 3 : 31/07/2026 (J+63) — Audience de référé
 - **Enjeu :** Première audience, provision + expertise
+
 - **Vérification :** Date plausible pour un référé (délai TJ Foix estimé ~3 semaines)
 
 ### VIII.4 — Échéance 4 : 12/11/2026 (J+167) — Expertise UMJ
 - **Enjeu :** Expertise médicale judiciaire
+
 - **Vérification :** J+167 à 13h45 = 12/11/2026 — 5 mois après l'accident, délai classique
+
 - **Cohérence :** ITT = 56 jours (fin le 23/07/2026) → expertise UMJ le 12/11/2026 → consolidation médicale retenue au 01/03/2027 ✓
 
 ---
@@ -246,7 +271,9 @@ type: rapport
 
 Le calendrier est très majoritairement cohérent. Les 3 erreurs identifiées sont :
 1. **EVT-29** : libellé (J+24) erroné pour (J+25) — erreur matérielle sans incidence
+
 2. **COR-09** : statut bloqué « À faire (Urgent) » depuis 37 jours — action en souffrance
+
 3. **COR-10** : déclaration de sinistre non faite depuis 35 jours — risque sur le plan contentieux
 
 **Aucune incohérence de date** entre les actes/courriers et le calendrier.

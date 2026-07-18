@@ -24,12 +24,19 @@ type: memory
 ### 1. LIS les fichiers de mémoire
 
 - [ ] `/home/crilocom/accident-main/` est le SEUL répertoire — vérifie que tu y es
+
 - [ ] [🧠 Memory/VACCIN.md](VACCIN.md) ← ce fichier
+
 - [ ] [`AGENTS.md`](../AGENTS.md) — règles du projet, structure, workflow
+
 - [ ] [🧠 Memory/STATUS.md](STATUS.md) — état d'avancement global
+
 - [ ] [🧠 Memory/TODO.md](TODO.md) — plans restants et priorités
+
 - [ ] [🧠 Memory/DECISIONS.md](DECISIONS.md) — décisions d'architecture et règles
+
 - [ ] [🧠 Memory/RULES.md](RULES.md) — règles permanentes, interdictions
+
 - [ ] [🧠 Memory/STRICT VARIABLES.md](STRICT%20VARIABLES.md) — source unique de vérité (montants, dates)
 
 ### 2. ANALYSE ce qui existe déjà
@@ -49,8 +56,11 @@ type: memory
 ### 3. VÉRIFIE avant de livrer
 
 - [ ] Relis-toi — est-ce que ce travail est au niveau de ce qui existe déjà ?
+
 - [ ] Toutes les colonnes sont-elles remplies ? Pas de champ vide par fainéantise
+
 - [ ] `check_consistency.py` passe-t-il sans erreur ?
+
 - [ ] Aurais-tu honte qu'un humain relise ça en étant payé pour le faire ?
 
 ---

@@ -103,6 +103,7 @@ Il est impératif d'agir de manière proactive, avant même l'introduction de la
 1. **Réaliser immédiatement** des sauvegardes via Wayback Machine (Archive.org) pour les réseaux sociaux, annuaires et avis Google.
 
 2. **Conserver les URL** d'archivage dans un fichier sécurisé.
+
 3. Si la société tente de modifier ses informations publiques ou de fermer ses comptes, solliciter en urgence un **Commissaire de Justice** pour réaliser un constat d'internet, afin de garantir la force probante des éléments recueillis.
 <hr><hr>
 

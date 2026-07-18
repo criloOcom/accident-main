@@ -29,6 +29,7 @@ Médecin ayant assuré la **prise en charge d'urgence** de [La Victime](token-vi
 ## Enjeu probatoire
 
 - Le compte rendu de premiers soins établit la **matérialité et la date de la blessure** (index droit) dès le jour de l'accident — pièce de datation essentielle.
+
 - Corrobore la chaîne médicale : urgences (29/05) → chirurgie SOS Main (30/05) → suivi.
 
 ## Documents liés

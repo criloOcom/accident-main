@@ -44,13 +44,21 @@ tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le f
 **Vu les pièces produites à l'appui de la requête**, et notamment :
 
 - la plainte initiale déposée au commissariat de [Foix] début juin 2026,
+
 - la plainte complémentaire du 20 juillet 2026,
+
 - la note de constatations du 16 juillet 2026 (visite des lieux) et les photos des lieux modifiés (bac à shampoing remplacé, meuble TV démonté),
+
 - les courriers recommandés du [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) adressés à [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), à son président et à [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) (bailleur),
+
 - le courriel de [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) du 16 juillet 2026 et les états des lieux de sortie du 10 mars 2026,
+
 - les extraits du Registre national des entreprises / DATA INPI et de l'avis de situation SIRENE concernant SAS HB BARBER (SIREN [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md), SIRET [**[SIRET du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-id.md)),
+
 - la liste des souscripteurs et le certificat de dépôt de fonds de SAS HB BARBER,
+
 - les certificats médicaux et comptes rendus opératoires du [30 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) (service SOS Main – [Clinique de l'Union](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)),
+
 - tout autre document figurant au bordereau annexé à la requête ;
 
 **Vu l'article 145 du Code de procédure civile**, aux termes duquel :
@@ -68,6 +76,7 @@ tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le f
 **Considérant** qu'au vu des extraits RNE / DATA INPI et de l'avis de situation SIRENE produits, il ressort qu'une autre société, SAS HB BARBER, immatriculée sous le SIREN [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md), exploite l'établissement situé à la même adresse ([22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)) depuis le 22 avril 2026, sous la direction de :
 
 - [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md), Président,
+
 - [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), Directrice Générale ;
 
 que la liste des souscripteurs et le certificat de dépôt de fonds établissent un capital de [**[Capital Social du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-capital-social.md) (1 000 actions de 1 €), dont 990 actions souscrites par [Hamza El Hachemi BERGUIGA] et 10 par [Catherine ANDISSAC] ;
@@ -77,8 +86,11 @@ que la liste des souscripteurs et le certificat de dépôt de fonds établissent
 **Considérant** que, malgré plusieurs courriers recommandés et relances amiables, le requérant ne parvient pas à obtenir :
 
 - ni les contrats d'assurance de responsabilité civile professionnelle couvrant l'activité de coiffure / barbier de SAS HB BARBER au [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md),
+
 - ni la communication du bail commercial et des états des lieux d'entrée / sortie des exploitants successifs,
+
 - ni les attestations d'assurance éventuellement souscrites par le bailleur pour l'immeuble,
+
 - ni, le cas échéant, les enregistrements de vidéosurveillance permettant de retracer précisément les circonstances de l'accident ;
 
 **Considérant** que l'identification de la personne responsable et de son ou ses assureurs est déterminante pour la solution du futur litige civil relatif à l'indemnisation du dommage corporel ; que le requérant entend notamment exercer, le cas échéant, son droit d'action directe contre l'assureur de la personne responsable, en application de l'article L.124-3 du Code des assurances ;
@@ -88,7 +100,9 @@ que la liste des souscripteurs et le certificat de dépôt de fonds établissent
 **Considérant** qu'il existe, dans ces conditions, un motif légitime, au sens de l'article 145 du Code de procédure civile, d'ordonner avant tout procès les mesures d'instruction sollicitées, légalement admissibles, afin de conserver et d'établir la preuve de faits dont pourrait dépendre la solution du litige ; qu'il est proportionné de faire droit aux demandes de communication formées à l'encontre :
 
 - de [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), en sa qualité de propriétaire bailleur,
+
 - de SAS HB BARBER et de ses dirigeants,
+
 - et subsidiairement de [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ;
 
 **Considérant** qu'il y a lieu d'assortir ces mesures d'une astreinte, afin d'en garantir l'effectivité ;
@@ -104,6 +118,7 @@ Statuant sur requête, hors la présence des parties,
 **ORDONNE** à [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), propriétaire des locaux sis [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), de communiquer à [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), par l'intermédiaire de son conseil, dans un délai de **30 jours** à compter de la signification de la présente ordonnance :
 
 1. Le ou les baux commerciaux (et tous avenants) liant le propriétaire aux exploitants successifs du local, et en particulier :
+
    - le bail conclu avec [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md),
    - le bail ou avenant conclu avec SAS HB BARBER,
    dans leur version complète ou, à défaut, au moins les clauses relatives à l'identité du preneur, à la date d'entrée dans les lieux, aux obligations d'assurance du preneur et aux obligations d'entretien / de sécurité ;

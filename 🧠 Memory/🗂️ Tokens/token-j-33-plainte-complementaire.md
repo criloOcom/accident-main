@@ -24,7 +24,9 @@ type: memory
 
 Dépôt d'une plainte complémentaire auprès du Commissariat de Foix pour :
 1. **Défaut d'assurance responsabilité civile professionnelle** de [L'Exploitant du Commerce (La SAS)](token-exploitation-raison-sociale.md)
+
 2. **Infractions ERP** (Établissement Recevant du Public) — vasque en céramique dangereuse, défaut d'entretien
+
 3. **Non-respect des obligations de sécurité** du code du travail
 
 Cette plainte complémentaire complète la plainte initiale du [J+4 Dépôt de plainte](token-j-4-depot-de-plainte.md) et vise à étendre le champ de l'enquête pénale.
@@ -32,13 +34,17 @@ Cette plainte complémentaire complète la plainte initiale du [J+4 Dépôt de p
 ## Acteurs concernés
 
 - **[La Victime]** — plaignant
+
 - **[L'Exploitant du Commerce (La SAS)]** — mis en cause
+
 - **Commissariat de Foix** — enquête
 
 ## Conséquences juridiques
 
 - Extension des poursuites pénales au-delà des blessures involontaires (art. 222-19/222-20 CP).
+
 - Engagement de la responsabilité pénale des dirigeants pour défaut d'assurance (art. L.124-3 / L.113-2 C.assur.).
+
 - Sert de fondement à la saisine du **FGTI** (Fonds de Garantie, art. 706-3 CPP) en cas d'insolvabilité de la SAS.
 
 ## Croisements

@@ -28,6 +28,7 @@ Saint-Jean est la commune où se trouve la clinique ayant pratiqué la microchir
 ## Enjeu juridique — Chaîne de soins et preuve
 
 - Localisation de la production des **pièces médicales** (CR opératoire, facture 790,23 €) — preuves de la gravité de la lésion.
+
 - À distinguer de [La Ville de l'Accident](token-accident-ville.md) (Foix) et de la résidence de la victime (Blagnac).
 
 ## Croisements

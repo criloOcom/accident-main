@@ -6,10 +6,15 @@ type: acte_procedural
 date: 2027-06-01
 tags:
 - conclusions
+
 - fond
+
 - TJ
+
 - Dintilhac
+
 - 1242
+
 - 1240
 statut: projet
 destinataire: Tribunal Judiciaire de Foix
@@ -61,8 +66,11 @@ La demanderesse, par réflexe, a instinctivement tendu la main droite pour prot�
 La demanderesse a été immédiatement transportée aux urgences du [**[Centre Hospitalier]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#centre-hospitalier) où le diagnostic suivant a été posé :
 
 - Plaie palmaire profonde de la main droite
+
 - Section partielle du tendon fléchisseur superficiel (FDP)
+
 - Section du paquet vasculo-nerveux collatéral radial de l'index
+
 - Atteinte nerveuse nécessitant une neurolyse du nerf palmaire
 
 Une microchirurgie d'urgence a été réalisée le 30 mai 2026 en SOS Main, avec suture tendineuse et nerveuse et neurolyse. La demanderesse a ensuite bénéficié d'une rééducation fonctionnelle prolongée et d'un arrêt de travail de 56 jours (ITT du 29 mai au 23 juillet 2026).
@@ -92,7 +100,9 @@ Par exploit d'huissier en date du [**[J+63 Assignation 145]**](../../%F0%9F%A7%A
 
 Par ordonnance du [**[Date Ordonnance Référé]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles), le juge des référés a :
 - Ordonné une expertise médicale confiée à [**[Expert Désigné]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#expert-1)
+
 - Alloué une provision de 15 000 € à valoir sur l'indemnisation définitive
+
 - Réservé les dépens
 
 Le rapport d'expertise a été déposé au greffe le 29 mai 2027 et a fixé la consolidation au 1er mars 2027, permettant aujourd'hui la liquidation définitive du préjudice corporel de la demanderesse.
@@ -124,7 +134,9 @@ L'article 1242 alinéa 1er du Code civil dispose :
 La responsabilité du fait des choses repose sur trois conditions cumulatives :
 
 1. **Une chose** : la vasque en céramique du bac à shampoing, le poste de télévision
+
 2. **Un fait de la chose** : le basculement de la vasque sous le poids du préposé
+
 3. **Un dommage** : la plaie palmaire profonde et ses séquelles
 
 **Sur la garde de la chose** : la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) avait la garde de la vasque — équipement fixe et permanent du salon, installé dans ses locaux, utilisé dans le cadre de son activité commerciale. La Cour de cassation rappelle que le propriétaire de l'équipement en conserve la garde dès lors qu'il en a l'usage, la direction et le contrôle (Civ. 2e, 8 décembre 2005, n° 04-13.298 ; Civ. 2e, 19 mars 1997, n° 94-22.061).
@@ -152,8 +164,11 @@ La responsabilité du fait des choses repose sur trois conditions cumulatives :
 **Manquements caractérisés** :
 
 1. **Absence d'escabeau ou de marchepied** : le préposé a été contraint de monter sur la vasque pour atteindre le téléviseur, faute de tout équipement d'accès en hauteur mis à disposition par l'employeur
+
 2. **État défectueux de l'équipement** : la vasque présentait une cassure préexistante non signalée, constituant un danger pour les clients et les salariés
+
 3. **Absence présumée de DUERP** : à ce jour, aucun Document Unique d'Évaluation des Risques Professionnels n'a été communiqué, en violation des articles R.4121-1 et suivants du Code du travail
+
 4. **Défaut de formation et d'information** : le préposé n'a pas été formé aux risques liés au travail en hauteur ni informé de l'état dangereux de l'équipement
 
 ### V.3 — 3.3 Faute de la SAS (article 1240 du Code civil — très subsidiaire)
@@ -162,8 +177,11 @@ La responsabilité du fait des choses repose sur trois conditions cumulatives :
 
 Cette faute résulte du cumul de négligences inexcusables :
 - Défaut de signalement et de réparation de la cassure préexistante de la vasque
+
 - Absence de fourniture d'un équipement d'accès en hauteur
+
 - Absence de procédure de signalement des dangers par les salariés
+
 - Défaut d'entretien des équipements
 
 > **Note méthodologique — Responsabilité des dirigeants** : La responsabilité in solidum des dirigeants de la SAS pourrait être recherchée sur le fondement de l'article L.227-8 du Code de commerce (faute de gestion détachable), si la carence dans la gestion des risques et le défaut d'entretien des équipements étaient établis. Cette voie, conservée comme scénario offensif, n'est pas développée dans le corps des présentes conclusions afin de ne pas fragiliser le fondement principal (1242). Cf. note méthodologique annexée.
@@ -179,7 +197,9 @@ Cette faute résulte du cumul de négligences inexcusables :
 La SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ne peut invoquer aucune cause étrangère exonératoire :
 
 - **Force majeure** : l'accident résulte de l'absence d'escabeau et de l'état défectueux de la vasque, faits parfaitement prévisibles et évitables par l'exercice normal de ses obligations
+
 - **Faute de la victime** : la demanderesse était passivement installée au bac à shampoing, dans le cadre normal de la prestation de services ; son geste réflexe de protection ne constitue pas une faute (Civ. 2e, 11 janvier 1995, n° 92-21.788 : le geste instinctif de protection n'est pas une faute exonératoire)
+
 - **Fait du tiers** : le préposé était dans l'exercice de ses fonctions ; son fait est celui du commettant (article 1242 al. 5 C. civ.)
 
 > *« Les commettants sont responsables des dommages causés par leurs préposés dans les fonctions auxquelles ils les ont employés. »*
@@ -192,8 +212,11 @@ La SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%
 
 L'indemnisation du préjudice corporel est régie par les principes suivants :
 - La nomenclature Dintilhac (2005, actualisée 2020) constitue le référentiel opposable
+
 - La réparation doit être intégrale, sans perte ni profit pour la victime
+
 - Le recours des tiers payeurs (CPAM, mutuelle) s'impute poste par poste conformément à l'article 29 de la loi n° 85-677 du 5 juillet 1985
+
 - Le droit de préférence de la victime sur la part d'indemnité correspondant aux préjudices non couverts par le recours (article 31 de la loi Badinter)
 
 **Référence chiffrée unique** : Rapport d'expertise du 29 mai 2027 — consolidation au 1er mars 2027 — DFP 12 % — SE 4/7.
@@ -348,15 +371,25 @@ Vu les pièces versées aux débats,
 **CONDAMNER** en conséquence la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) les sommes suivantes :
 
 - Au titre du DFP (12 %) : **25 200 €**
+
 - Au titre des souffrances endurées (4/7) : **14 000 €**
+
 - Au titre du préjudice esthétique permanent : **3 500 €**
+
 - Au titre du préjudice d'agrément : **4 500 €**
+
 - Au titre de l'incidence professionnelle : **28 000 €**
+
 - Au titre des frais divers (DFT) : **2 031 €**
+
 - Au titre des pertes de gains professionnels actuels (PGPA) : **1 380 €**
+
 - Au titre des dépenses de santé actuelles (DSA) : **790,23 €**
+
 - Au titre des dépenses de santé futures (DSF) : **3 000 €**
+
 - Au titre de l'assistance par tierce personne temporaire (ATP) : **800 €**
+
 - Au titre des pertes de gains professionnels futurs (PGPF) : **à évaluer (fourchette expertise 50 000 – 70 000 €)**
 
 **DÉDUIRE** de ces sommes la créance des tiers payeurs (CPAM) conformément aux articles 29 et 31 de la loi du 5 juillet 1985 (créance estimée à ~790,23 € au titre des DSA) ;

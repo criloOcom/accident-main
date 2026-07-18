@@ -9,8 +9,11 @@ Produis un rapport `📊 Rapports/RAPPORT_FINALISATION_REQUETE_145_2026-07-18.md
 ## CONTEXTE
 
 - La requête Art. 145 CPC n'a **pas été déposée** le 15 juillet.
+
 - Elle doit être déposée la semaine prochaine au TJ de Foix.
+
 - L'identité du défendeur doit être corrigée (HB BARBER au lieu de LMG).
+
 - Les photos et constats du 16/07 sont de nouvelles pièces à intégrer.
 
 ## ANGLES

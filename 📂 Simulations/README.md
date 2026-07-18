@@ -38,7 +38,9 @@ type: navigation
 ## Conventions
 
 - Chaque fichier suit les [conventions du projet](../%F0%9F%A7%A0%20Memory/CONVENTIONS.md)
+
 - Les tokens d'anonymisation sont en **gras** (`**[Token]**`)
+
 - Les sources sont citées en liens relatifs GitHub
 
 *Généré le 14 juillet 2026 · Missions Jules MCP*

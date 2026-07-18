@@ -364,14 +364,23 @@ Les pièces transmises sont les suivantes, à verser au dossier de la procédure
 1. Comptes rendus opératoires du Dr Iskander DJERBI (Clinique de l'Union) — intervention
 du 30 mai 2026 sur l'index droit
 2. Bilan de contrôle à 3 semaines du Dr DJERBI en date du 23 juin 2026
+
 3. Lettre de liaison de sortie du 30 mai 2026
+
 4. Certificat médical initial du Dr OXYBEL en date du 1er juin 2026
+
 5. Avis d'arrêt de travail — Dr DJERBI du 23 juin 2026
+
 6. Avis d'arrêt de travail — Dr OXYBEL du 1er juin 2026
+
 7. Ordonnances de kinésithérapie et de soins post-opératoires
+
 8. Note de synthèse médico-légale détaillée à J+12 et J+20
+
 9. Attestation de dépôt de dossier CPAM Recours contre Tiers n° 31727387
+
 10. Constitution de partie civile
+
 11. Conclusions de partie civile
 
 
@@ -631,6 +640,7 @@ police en vigueur le 29 mai 2026 ;
 
 
 2. Le numéro de contrat d'assurance souscrit ;
+
 3. Les coordonnées du gestionnaire de sinistre en charge du dossier.
 Ces informations me permettront de déclarer le sinistre et d'envisager une résolution
 amiable, conformément à l'obligation de loyauté et de transparence qui incombe à tout
@@ -1202,17 +1212,22 @@ Stéphanie OGERON-LAURENDEAU OBJECT : Envoi du formulaire complété et borderea
 Madame, 
 Faisant suite à votre demande de renseignements du 16 juin 2026 concernant mon accident corporel majeur du 29 mai 2026 au sein du salon de coiffure "LES MAUVAIS GARÇONS" à Foix, je vous prie de trouver ci-joint mon formulaire officiel complété. Conformément aux règles de traçabilité des dossiers de Recours contre Tiers, je tiens à consigner dès l’introduction de ce dossier l’exactitude des dommages physiques majeurs subis par mon corps, tels qu'établis sous le sceau du secret médical par le compte-rendu opératoire de SOS Main (Clinique de l'Union) du 31 mai 2026 : 
 - Traumatisme tendineux : Section partielle du tendon fléchisseur superficiel au niveau de l'index de la main droite (suture 6 brins type Mac Learney au fil PDS 3-0 et surjet péri-tendineux au PDS 5-0) ayant nécessité une plastie d'agrandissement des poulies du canal digital pour prévenir tout syndrome adhérentiel. 
+
 - Traumatisme vasculaire et neurologique : Section totale du paquet collatéral ulnaire et radial (réparée par suture microchirurgicale sous loupes à l'éthilon 9-0) associée à une neurolyse d'urgence du nerf collatéral qui était comprimé par l'hématome. 
 Ces lésions sévères touchent l'index de ma main droite (côté dominant), outil de travail exclusif pour mon activité d'informaticien indépendant (SIREN : 500 474 457). 
 1. Continuité de la prise en charge et jalons médicaux : Afin de garantir la parfaite traçabilité des dépenses engagées devant être imputées à l'assureur adverse, je vous informe que la continuité de mon inaptitude totale est validée par mon médecin traitant via une prolongation d'arrêt de travail Cerfa jusqu'au 23 juin 2026 inclus. Mes prochains jalons thérapeutiques décisifs sont fixés au mardi 23 juin 2026 (première séance de rééducation spécifique de la main à la Clinique de l'Union) pour le contrôle post-opératoire avec mon chirurgien, le Dr Iskander Djerbi. 
+
 2. Constatations cliniques et évolution des séquelles neurologiques (Index Droit) : Sur le plan fonctionnel, l'état à J+20 caractérise une hypoesthésie majeure et une insensibilité mécanique/thermique totale localisée sur la moitié latérale extérieure, la partie inférieure et la tranche palmaire de l'index de ma main droite (doigt dominant). Ce déficit neurologique sévère et la limitation mécanique de la flexion active (impossibilité de toucher la paume) objectivent la gravité de la section des paquets collatéraux. Ces éléments feront l'objet d'une attestation et d'un suivi administratif rigoureux lors de ma prochaine consultation chirurgicale. 
+
 3. Procédure pénale active et identification du tiers : L'identification finale des assureurs de la SAS "LES MAUVAIS GARCONS" (Siège : 22 Rue Lafaurie, 09000 Foix - SIRET : 938 033 222 00010) demeure à la charge des autorités. Ma plainte pénale pour Blessures involontaires dans le cadre du travail, enregistrée sous le PV n° 2026/01596 7 (Hôtel de Police de Toulouse), suit son cours parallèlement aux signalements validés auprès de l'Inspection du Travail et du CODAF par la municipalité de Foix. 
 L'ensemble de ces démarches vise à sceller l'historique complet de m es préjudices en vue de l'expertise médicale légale définitive planifiée le jeudi 12 novembre 2026 à 13h45 à l'UMJ de l'Hôpital de Purpan . Je vous remercie de consigner ces éléments ainsi que les pièces jointes ci-dessous au dossier de recours n° 2631103960. 
 Je reste à votre entière disposition pour tout échange complémentaire. 
 Veuillez agréer, l'expression de ma considération distinguée. 
 Sébastien GRAZIDE --- N° de Sécurité Sociale : 1 82 01 31 555 402 78 BORDEREAU DES PIÈCES JOINTES À ATTACHER 1. Le formulaire d'Assurance Maladie complété (ce document, avec ton tableau des hospitalisations). 
 2. Le Récépissé de Dépôt de Plainte (PV n° 2026/015967) pour matérialiser l'action pénale. 
+
 3. Le Compte-Rendu Opératoire de SOS Main / Clinique de l'Union établissant la chirurgie réparatrice. 
+
 4. L'Avis de Prolongation d'Arrêt de Travail du Dr Oxybel courant jusqu'au 23/06/2026. 
 
 
@@ -1231,11 +1246,17 @@ Sébastien Grazide <sebastien.grazide@gmail.com> 18 juin 2026 à 14:15
 À : poleRCT31@assurance-maladie.fr
 Références :
 * Mon numéro : 1 82 01 31 555 402 78
+
 * Mon nom : Sébastien GRAZIDE
+
 * Accident du :** 29/05/2026
+
 * Dossier N° : 2631103960
+
 * Dossier suivi par : Sigrid DESBOIS
+
 * Tel : 05 34 46 28 12
+
 * Email : poleRCT31@assurance-maladie.fr
 ---
 Madame,
@@ -1252,9 +1273,11 @@ Téléphone : 06 30 51 67 75
 ---
 PIÈCES :
 1. Ton document PDF finalisé (20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement.pdf).
+
 2. Le Récépissé de Dépôt de Plainte (20260602 RF RECEPISSE deDeclaration.pdf).
 3.Le Compte Rendu du PROCES-VERBAL (20260602 RF COMPTErendu PV.pdf).pdf
 4. Le Compte-Rendu Opératoire complet de SOS Main (20260603-1200 DOC UrgenceMAIN DossierMedical.pdf).
+
 5. Ton Avis de Prolongation d'Arrêt de Travail (20260612-1250 AVIS ArretDeTravail DrOXYBEL au0623.pdf).
 --
 Sébastien Grazide
@@ -1433,7 +1456,9 @@ Travailleur indépendant (SIREN : 500 474 457)
 Pièces jointes à insérer impérativement (Vérification d'intégrité)
 Pour que ton envoi soit d'une rigueur d'avocat, téléverse exactement ces fichiers sous leurs noms d'archives textuels :
 1. 20260602 RF RECEPISSE deDeclaration.pdf (Preuve officielle de ta plainte)
+
 2. 20260602 RF COMPTErendu PV.pdf (Détail des faits dictés aux enquêteurs)
+
 3. 20260603-2046 DOSSIER 31727387 AttestationDepot.pdf (Preuve du dossier CPAM mis à jour à la bonne
 adresse)
 4. 20260603-1200 DOC UrgenceMAIN DossierMedical.pdf (Le compte-rendu opératoire du Dr Djerbi, qui
@@ -1918,13 +1943,16 @@ ________________
 Retranscription synthétique et idées principales du document
 Le document s'articule autour de plusieurs axes essentiels visant à guider et protéger la victime tout au long de la procédure judiciaire :
 1. Numérisation et valeur juridique des documents
+
       * Format numérique : La plainte ayant été recueillie sous forme numérique, aucun document papier n'est remis. La victime reçoit par courriel (provenant de service de police-plaintes@interieur.gouv.fr) une copie du procès-verbal, un récépissé et la notice des droits.
       * Validité : Ces documents numériques sont sécurisés par une signature électronique unique et possèdent la même valeur juridique que le papier auprès des assurances, banques ou administrations.
 2. Droits immédiats de la victime lors de la procédure
+
       * Certificat médical : En cas de violences, la victime a le droit d'obtenir une copie du certificat médical constatant son état physique ou psychologique.
       * Interprétariat : Si la victime ne comprend pas le français, elle bénéficie gratuitement d'un interprète et de la traduction des informations clés.
       * Déclaration de domicile : Pour préserver sa confidentialité, il est possible de déclarer le domicile d'un tiers (avec son accord écrit) ou l'adresse du commissariat (sur autorisation).
 3. Accompagnement juridique et associatif
+
       * Assistance d'un avocat : La victime peut choisir un avocat ou en demander un d'office. Les frais sont à sa charge, sauf éligibilité à l'aide juridictionnelle (selon les revenus ou la gravité de l'infraction) ou via une assurance de protection juridique. Des permanences gratuites sont mentionnées à Toulouse.
       * Associations d'aide aux victimes : Des structures agréées proposent un accompagnement gratuit, juridique et psychologique (joignables au 116006 ou via l'association France Victimes 31 à Toulouse).
 4. Les suites possibles de la plainte par le procureur
@@ -1933,11 +1961,13 @@ L'enquête est transmise au procureur de la République qui peut décider :
       2. Une alternative aux poursuites : Mesure imposée à l'auteur (médiation, composition pénale) qui intègre la réparation du préjudice.
       3. Un classement sans suite : Abandon de l'affaire pour des motifs juridiques ou d'opportunité, la victime devant alors en être formellement informée.
 5. Mesures spécifiques pour les violences conjugales et familiales
+
       * Ordonnance de protection : Délivrée en urgence par le juge aux affaires familiales pour interdire les contacts, le port d'arme ou attribuer le logement.
       * Dispositifs de sécurité : Attribution possible du Téléphone Grave Danger (TGD) ou d'un Bracelet Anti-Rapprochement (BAR) pour géolocaliser l'auteur et alerter les forces de l'ordre.
       * Aide financière : Demande possible d'une Aide universelle d'urgence auprès de la CAF ou de la MSA.
       * Statut du mineur : Un enfant présent lors de violences conjugales obtient automatiquement le statut de victime, même s'il n'a pas subi de violences directes.
 6. Indemnisation et réparation du préjudice
+
       * Constitution de partie civile : Permet de demander officiellement des dommages et intérêts, que ce soit pendant l'enquête, devant le juge d'instruction ou directement à l'audience du tribunal.
       * Organismes d'indemnisation :
       * La CIVI (Commission d'indemnisation) peut indemniser les préjudices graves (décès, incapacité importante, agressions sexuelles) au titre de la solidarité nationale.
@@ -2233,8 +2263,11 @@ commises par ses salariés dans l'exercice de leurs fonctions (la manœuvre dang
 V. REQUÊTES DE PROCÉDURE FORMULÉES PAR LA VICTIME 
 Aux fins de garantir la manifestation de la vérité et la sauvegarde de ses droits, M. Sébastien Grazide sollicite des services de police/gendarmerie : 
 1. La Saisie Immédiate des Enregistrements Vidéo : Qu'une réquisition soit adressée sans délai à la SAS LES MAUVAIS GARCONS pour saisir et conserver les images de vidéosurveillance interne et externe de l'établissement pour la journée du 29 mai 2026, afin de figer la preuve matérielle du déroulement de la scène (avant suppression automatique sous 15 à 30 jours). 
+
 2. L'Audition de l'Auteur Présumé et des Témoins : Que M. Ayoub Bennourine, titulaire du compte Wero, soit formellement identifié et entendu sur les faits, ainsi que les autres salariés ou clients présents au salon le 29 mai 2026 aux alentours de 15h30. 
+
 3. La Constatation Matérielle des Lieux : Qu'un transport sur les lieux soit ordonné ou qu'une patrouille locale procède à la constatation visuelle de l'état du bac à shampoing litigieux situé au 22 rue Lafaurie à Foix. 
+
 4. Une Réquisition pour examen auprès des Unités Médico-Judiciaires (UMJ) : Le médecin généraliste ayant évalué l'ITT pénale à 1 jour « sous réserve de complications » malgré un arrêt de travail de 15 jours et des paresthésies neurologiques (perte de sensibilité), M. Grazide sollicite une réquisition judiciaire pour être examiné par un médecin légiste officiel de la police. Seul un médecin légiste est habilité à requalifier l'ITT réelle et définitive au vu de son incapacité professionnelle d'informaticien droitier et des atteintes sensitives de sa main. 
 VI. INVENTAIRE DES PIÈCES JUSTIFICATIVES REMISES (Bordereau des pièces) 
 ● Pièce n°1 : Copie de la pièce d'identité nationale de M. Sébastien Grazide. ● Pièce n°2 : Attestation d’immatriculation au Registre National des Entreprises (INPI/INSEE) de la SAS LES MAUVAIS GARCONS (SIRET : 93803322200010). 

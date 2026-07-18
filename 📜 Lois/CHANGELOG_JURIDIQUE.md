@@ -44,7 +44,9 @@ type: loi
 ### Méthode
 
 - **Outils utilisés :** MCP Légifrance-prod, OpenLegi, Judilibre
+
 - **Vérifications croisées :** LEGIARTI/JURITEXT contrôlés sur Légifrance via API
+
 - **Articles non vérifiables au moment de l'audit :** Aucun (l'API Litige est revenue entre-temps)
 
 ---
@@ -52,5 +54,7 @@ type: loi
 ## 2026-07-11 — Création initiale de l'inventaire juridique
 
 - Inventaire complet des 27 articles et 27 arrêts dans `📜 Lois/`
+
 - Compilation des anomalies (10 signalées)
+
 - Soumission à l'agent "chargé de doc" pour revue

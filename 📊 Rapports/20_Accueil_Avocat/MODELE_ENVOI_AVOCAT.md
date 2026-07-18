@@ -31,13 +31,18 @@ Vous avez été désigné au titre de l'aide juridictionnelle pour défendre mes
 
 Je me permets de vous adresser en pièces jointes :
 - Un mémo de présentation d'une page (mécanisme, droit, chiffrage) ;
+
 - Une note de présentation stratégique du dossier (2–3 pages) ;
+
 - Un projet de conclusions au fond devant le TJ de Foix ;
+
 - Un tableau de synthèse des postes de préjudice (STRICT VARIABLES).
 
 Concrètement, je sollicite de vous :
 - La reprise et l'adaptation des conclusions au fond ci-jointes ;
+
 - Le suivi de l'information judiciaire en cours (Parquet de Foix) ;
+
 - La mise en œuvre d'une action directe et/ou d'une négociation avec l'assureur RC [**[L'Assureur RC]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md), qui est resté silencieux à ce jour.
 
 Je reste à votre entière disposition pour tout complément d'information ou pour un entretien de briefing à votre convenance.
@@ -65,9 +70,13 @@ Le dossier est en état d'être plaidé au fond devant le TJ de Foix. Un projet 
 
 Je joins à ma demande les pièces suivantes :
 - Justificatif de ressources (avis d'imposition) — *[à joindre]*
+
 - Mémo de présentation du dossier (1 page)
+
 - Note de présentation stratégique (2–3 pages)
+
 - Projet de conclusions au fond
+
 - Référentiel STRICT VARIABLES
 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame la Présidente, Monsieur le Bâtonnier, l'expression de ma considération distinguée.

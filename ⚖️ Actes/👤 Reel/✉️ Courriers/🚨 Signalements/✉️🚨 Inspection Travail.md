@@ -5,8 +5,11 @@ type: courrier
 date: 2026-07-05
 tags:
 - inspection du travail
+
 - enquete
+
 - securite
+
 - DUERP
 statut: final
 destinataire: DDETS de la Region

@@ -236,25 +236,37 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 ### V.1 — 🔴 Priorité 1 — Correctifs bloquants
 
 1. **Corriger les liens relatifs dans le document 14** (`../../📜 Lois/` → `../../../📜 Lois/`)
+
 2. **Uniformiser les tokens dates dans les documents 34 et 35** — remplacer "29 mai 2026" par `**[J+0 Accident]**`
+
 3. **Corriger le token cassé dans le document 33** (l.35 : ajouter `**` autour du token `[La Ville de l'Accident]`)
+
 4. **Corriger les coquilles dans le document 13** ("délins" → "délits" ; "particularité gravité" → "particulière gravité")
+
 5. **Uniformiser le token PV** : choisir entre `**[N° PV Police]**` et `[ ... ]` et appliquer partout
 
 ### V.2 — 🟡 Priorité 2 — Améliorations recommandées
 
 6. **Ajouter une étape de ré-accentuation** dans le pipeline de tokenisation (`batch_anonymize.py`) ou dans le script de génération des versions réelles
+
 7. **Raccourcir l'email 34** : 15 lignes max, avec la demande (CRPA) dès les premières lignes
+
 8. **Alléger le courrier 19 FGTI** : déplacer la grille d'indemnisation en annexe, garder le corps sous 100 lignes
+
 9. **Ajouter "PAR CES MOTIFS"** avant la section IV du document 33
+
 10. **Supprimer la section "Transparence" du document 03** ou la fondre dans les conséquences — elle affaiblit le ton comminatoire
 
 ### V.3 — 🟢 Priorité 3 — Bonnes pratiques
 
 11. **Uniformiser les formules de politesse** dans les documents Token — actuellement "considération distinguée" varie parfois
+
 12. **Ajouter des références croisées inter-documents** dans les courriers (quand c'est pertinent)
+
 13. **Ajouter un numéro de page** dans les en-têtes des courriers LRAR longs (> 3 pages)
+
 14. **Vérifier l'existence réelle de l'article L.310-1-1-2** du Code des assurances (loi 2024-364) cité dans le document 14 CODAF
+
 15. **Documenter les tokens "ad hoc"** comme `**[Adresse du TJ à compléter]**` dans la TOKEN MAP.md
 
 ---
@@ -285,6 +297,7 @@ La qualité rédactionnelle globale est **bonne** : le style juridique est maît
 
 Les deux problèmes systémiques à traiter en priorité sont :
 1. **L'absence d'accents** dans les versions Token (dégrade la lisibilité et la crédibilité)
+
 2. **L'incohérence dans l'utilisation des tokens** (dates réelles vs tokens, format des PV, token cassé)
 
 Les corrections sont rapides (estimation : 30-45 minutes) et amélioreraient significativement la présentation des documents.

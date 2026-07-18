@@ -41,7 +41,9 @@ article: 706-3
 Cet article est crucial pour les victimes d'infractions qui ne peuvent obtenir réparation par les voies normales. Il permet une indemnisation par l'État lorsque :
 
 1. L'auteur des faits est insolvable
+
 2. L'auteur n'est pas identifié
+
 3. L'assurance de responsabilité civile ne couvre pas les dommages
 
 ---
@@ -49,6 +51,7 @@ Cet article est crucial pour les victimes d'infractions qui ne peuvent obtenir r
 ## Jurisprudence associée
 
 - **Cass. Crim., 5 janvier 2022, n° 21-83.145** : Précise les conditions d'application de l'article 706-3
+
 - **Cass. Civ. 2e, 14 mars 2023, n° 22-11.234** : Étend l'application aux victimes indirectes
 
 ---
@@ -56,6 +59,7 @@ Cet article est crucial pour les victimes d'infractions qui ne peuvent obtenir r
 ## Liens utiles
 
 - [Fonds de Garantie (FGTI)](https://www.fgti.fr/)
+
 - [Service Public - Indemnisation victimes](https://www.service-public.fr/particuliers/vosdroits/F1989)
 
 ---

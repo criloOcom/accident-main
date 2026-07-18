@@ -281,18 +281,25 @@ Cette version de la constitution de partie civile est une **version consolidée*
 
 Les sections mises à jour :
 - **Section I** : description lésionnelle harmonisée avec le rapport d'expertise, ajout de la consolidation
+
 - **Section III** : tableau Dintilhac remplacé par les chiffres de l'expert (DFP 12 % = 25 200 €, SE 4/7 = 14 000 €, IP = 28 000 €, etc.)
+
 - **Section IV + PAR CES MOTIFS** : la demande d'expertise est remplacée par une demande de prise d'acte du rapport déposé
+
 - **Pièce n°14** : rapport d'expertise ajouté au bordereau
 
 Les fondements juridiques (Section II) restent inchangés — le rapport d'expertise n'affecte pas la qualification pénale ni les arguments de responsabilité.
 
 **Calibrage :**
 - Fourchette globale : 120 000 — 160 000 € (conforme au rapport d'expertise)
+
 - Provision : 15 000 € (inchangée, cohérente avec le total extra-patrimonial de 49 231 €)
+
 - Article 475-1 CPP : montant à définir via le token [3 000 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700.md) (remplacé par [3 000 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-475-1.md) dans la nomenclature pénale)
 
 **Documents liés :**
 - Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
+
 - Ordonnance de référé (mission expertise) : [`⚖️ Projet Ordonnance Refere.md`](../%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)
+
 - Avis Dintilhac externe : [`📊 Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`](../../../../%F0%9F%93%8A%20Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md)

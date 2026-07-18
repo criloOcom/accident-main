@@ -16,6 +16,7 @@ type: readme
 ## Liste des articles
 
 - [L113-2](Article_L113-2_Codesassurances_Legifrance.md) — Déclaration du risque
+
 - [L121-1 à 121-7](Article_L121-1a121-7_Code_Legifrance.md) — Principes généraux de la responsabilité pénale (Code pénal, applicable aux personnes morales d'assurance)
 
 - [Article_L124-3_Codesassurances_Legifrance](Article_L124-3_Codesassurances_Legifrance.md)

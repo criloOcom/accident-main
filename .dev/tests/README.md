@@ -13,5 +13,7 @@ type: readme
 Ce dossier contient les tests automatisés du projet.
 
 - `unit/` — tests unitaires
+
 - `integration/` — tests d'intégration
+
 - `eval/` — jeux de données et métriques d'évaluation

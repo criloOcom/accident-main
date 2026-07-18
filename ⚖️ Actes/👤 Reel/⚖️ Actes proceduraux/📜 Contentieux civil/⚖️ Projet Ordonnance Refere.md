@@ -9,9 +9,13 @@ juridiction: TJ Foix
 date: 2026-07-31
 tags:
 - simulation
+
 - référé
+
 - provision
+
 - article 835
+
 - article 145
 statut: simulation
 auteur: Simulation — Juge des Référés
@@ -99,9 +103,13 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 **Considérant** que le préjudice corporel de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), nécessairement provisoire en l'absence de consolidation, peut être évalué comme suit à ce stade :
 
 - Pertes de gains professionnels actuels (PGPA) pour 56 jours d'ITT : **1 380 €** ;
+
 - Frais médicaux et paramédicaux (chirurgie 790,23 €, soins de kinésithérapie) : **4 000 €** ;
+
 - Souffrances endurées (4/7) : **5 000 €** ;
+
 - Incidence professionnelle : **3 000 €** ;
+
 - Préjudice esthétique temporaire : **1 000 €** ;
 
 **Considérant** que le total de ces postes s'établit à **14 380 €** ; que la provision sollicitée, à hauteur de **15 000 €**, représente une fraction cohérente et proportionnée du préjudice global prévisible évalué dans une fourchette de 126 000 € à 161 500 € par l'avis Dintilhac du 13 juillet 2026 ; qu'elle est justifiée par l'urgence financière du demandeur, lequel tire l'intégralité de ses revenus de l'usage de sa main droite comme informaticien indépendant ; qu'il y a lieu d'y faire droit ;
@@ -136,9 +144,13 @@ Nous, **Juge des référés** du Tribunal Judiciaire de [Foix](../../../../%F0%9
 **DÉSIGNONS** pour y procéder [expert à désigner], avec pour mission de :
 
 - décrire les lésions imputables à l'accident du 29 mai 2026 ;
+
 - déterminer la date de consolidation ;
+
 - évaluer le déficit fonctionnel permanent (DFP) ;
+
 - évaluer les souffrances endurées (SE) et le préjudice esthétique permanent (PEP) ;
+
 - donner son avis sur l'ensemble des postes de préjudice corporel selon la nomenclature Dintilhac ;
 
 **DISONS** que l'expert devra déposer son rapport dans un délai de **quatre mois** à compter de sa saisine ;
@@ -183,16 +195,23 @@ Le dossier contient des éléments sérieux pour plaider la faute détachable (a
 
 **Rappel des actions projetées (au 15 juillet 2026) :**
 - Requête Art. 145 CPC : projet prêt, dépôt prévu après obtention AJ
+
 - Demande d'AJ totale : projet prêt, dépôt prévu lundi 20/07
+
 - Plainte complémentaire Foix : projet prêt, dépôt prévu lundi 20/07
+
 - Aucune ordonnance de référé rendue à ce stade
 
 **Liaison avec l'expertise médicale (post-hoc) :**
 Le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 a ultérieurement confirmé :
 - Consolidation au 1er mars 2027 (12 mois)
+
 - DFP 12 % (contre 10 % estimé à titre provisoire dans la présente ordonnance)
+
 - SE 4/7 (confirmé)
+
 - Incidence professionnelle majeure
+
 - Fourchette globale 120 000 — 160 000 € (vs 126 000 — 161 500 € estimé par l'avis Dintilhac du 13 juillet 2026)
 
 La provision de 15 000 € allouée en référé s'est avérée **cohérente** avec l'évaluation extra-patrimoniale finale de 49 231 €, représentant environ 30 % de ce sous-total — ratio usuel pour une provision en référé avant consolidation définitive.

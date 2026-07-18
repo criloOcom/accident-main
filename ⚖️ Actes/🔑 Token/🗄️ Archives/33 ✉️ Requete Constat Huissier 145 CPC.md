@@ -6,7 +6,9 @@ type: readme
 date: 2026-07-09
 tags:
 - archive
+
 - obsolet
+
 - remplace_par_03
 statut: archive
 auteur: La Victime
@@ -95,9 +97,13 @@ Le constat d'huissier devra porter sur :
 Les procedures suivantes ont ete engagees a la date de la requete :
 
 1. Depot de plainte (1er juin 2026, PV n° [**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md))
+
 2. Constitution de partie civile (6 juillet 2026) — chef de blessures involontaires (Art. 222-19 CP)
+
 3. Mises en demeure LRAR (29 mai 2026) — sans aucun retour des dirigeants
+
 4. Assignation en refere-provision (Art. 835 CPC) et assignation Art. 145 CPC pour communication d'assurance
+
 5. Signalements a l'Inspection du Travail, au CODAF, a l'INPI, au SIE et a l'URSSAF
 <hr><hr>
 

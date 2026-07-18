@@ -22,6 +22,7 @@ Ce plan vise à corriger la formulation de l'e-mail pour éliminer tout terme in
 *   **Formuler une demande claire d'intervention sur site** par des agents assermentés (policiers municipaux).
 
 *   **Définir les points de contrôle demandés** :
+
     1.  Constater la présence physique de l'exploitant réel actuel et son identité (statut, Kbis, affichage obligatoire).
     2.  Vérifier l'état de l'équipement litigieux (présence ou absence de la vasque en céramique endommagée).
     3.  Vérifier si le sinistre a fait l'objet d'une déclaration et de mesures de mise en sécurité requises pour un ERP.

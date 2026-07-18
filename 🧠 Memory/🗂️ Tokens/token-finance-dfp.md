@@ -35,6 +35,7 @@ Déficit fonctionnel permanent lié aux séquelles de la main droite dominante (
 En l'absence de taux d'IPP fixé par expertise judiciaire, l'avis externe retient :
 
 - un **scénario prudent** à **10 %**, valorisé à **20 000 €** sur la base de 2 000 €/point ;
+
 - un **scénario médian** à **15 %**, valorisé à **30 000 €**.
 
 Ces valeurs sont des repères barémiques à ajuster une fois le taux d'IPP/DFP fixé par l'UMJ ou par l'expert.

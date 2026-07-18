@@ -65,7 +65,9 @@ La checklist prévoit **"Dossier médical complet 11 pièces (x3)"** pour les 3 
 
 **Actions correctives possibles (sans modifier les fichiers existants) :**
 - **Option A :** Ajouter le dossier médical dans les PJ du courrier 12 (cohérent avec la finalité du signalement)
+
 - **Option B :** Retirer le dossier médical de la checklist pour le courrier 12 (si considéré hors périmètre URSSAF)
+
 - **Recommandation :** L'URSSAF est compétente sur le travail dissimulé, pas sur le préjudice corporel. Le dossier médical n'est pas pertinent pour une enquête URSSAF. **Option B recommandée** — retirer le dossier médical du lot "x3" et ne l'envoyer qu'aux courriers 14 et 19.
 
 ---
@@ -124,6 +126,7 @@ La checklist section 3 mentionne `[email dans le courrier 12 reel]` et `[email d
 
 La colonne "Email" (Oui/Non) est insuffisante. Il manque une colonne **"Mode"** ou **"Type"** distinguant clairement :
 - **LRAR** (courriers 19, 35)
+
 - **LRAR + Email** (courriers 12, 14)
 
 Suggestion : renommer "Email" en **"Mode envoi"** avec valeurs possibles : LRAR / LRAR+Email / Email.
@@ -147,6 +150,7 @@ Le tableau a une synthèse financière en bas avec des coûts estimés (~7,50 �
 
 Mentionnée dans :
 - Tableau suivi (23) : ✅ colonne "Relance J+15" = 26/07 pour les 4 courriers
+
 - Checklist (24) section 4 : ✅ "Noter la relance J+15 = **26 juillet 2026**"
 
 **⚠️ Précision juridique :** En droit, le point de départ du délai de réponse est la **date de réception** (AR signé), pas la date d'envoi. La date du 26/07 est une approximation pragmatique J+15 post-envoi. Si l'AR met 3-4 jours à arriver, le délai réel pourrait courir jusqu'au 30/07. À ajuster si nécessaire après réception des AR.

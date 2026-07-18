@@ -39,7 +39,9 @@ article: 434-4
 Cet article sanctionne les comportements visant à entraver la justice par la modification de preuves matérielles ou documentaires. Il est particulièrement pertinent dans notre dossier pour :
 
 1. **La suppression de preuves matérielles** (destruction potentielle de la vasque cassée ou modifications physiques de l'établissement post-accident)
+
 2. **L'altération de documents** nécessaires à l'enquête
+
 3. **Le refus délibéré ou l'effacement** des enregistrements de vidéosurveillance (entrave par destruction/dissimulation de preuves vidéo)
 
 ---
@@ -47,6 +49,7 @@ Cet article sanctionne les comportements visant à entraver la justice par la mo
 ## Éléments constitutifs
 
 1. **Élément matériel** : Altération, modification de l'état des lieux, dissimulation, destruction de traces/indices ou suppression/dissimulation de documents facilitant la recherche de la vérité.
+
 2. **Élément intentionnel** : Intention spécifique de faire obstacle à la manifestation de la vérité (dissimuler les circonstances réelles de la chute ou l'identité de l'assureur).
 
 ---
@@ -54,6 +57,7 @@ Cet article sanctionne les comportements visant à entraver la justice par la mo
 ## Jurisprudence associée
 
 - **Cass. Crim., 18 juin 2013, n° 12-83.345** : L'effacement ou la non-conservation d'enregistrements vidéo utiles à l'enquête caractérise l'entrave.
+
 - **Cass. Crim., 5 avril 2016, n° 15-82.147** : La dissimulation intentionnelle de pièces réclamées par la justice constitue une soustraction de document.
 
 ---
@@ -62,6 +66,7 @@ Cet article sanctionne les comportements visant à entraver la justice par la mo
 
 Cet article s'applique aux agissements des dirigeants de la SAS :
 - La dissimulation des caméras et le refus de fournir les bandes vidéo aux services de police.
+
 - La dissimulation de l'identité de l'assureur RC pour bloquer l'action en justice de la victime.
 
 ---

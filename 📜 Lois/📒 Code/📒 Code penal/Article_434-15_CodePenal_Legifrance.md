@@ -37,11 +37,13 @@ Cet article punit le délit de subornation de témoin. Il s'applique à toute pe
 
 ### Peines encourues
 - **Peine principale** : 3 ans d'emprisonnement et 45 000 € d'amende.
+
 - L'infraction est consommée dès lors que les manœuvres, pressions ou menaces ont été exercées, peu important que le témoin ait effectivement menti ou se soit abstenu de témoigner ("même si la subornation n'est pas suivie d'effet").
 
 ### Application dans le contexte de l'affaire
 Dans le cadre de notre dossier, cet article vise :
 - Les pressions potentielles exercées par les dirigeants sur le préposé ou les employés présents pour altérer leurs témoignages.
+
 - Les incitations ou menaces pour dissimuler la vérité sur le basculement de la vasque.
 
 ---
@@ -56,6 +58,7 @@ Dans le cadre de notre dossier, cet article vise :
 ## Références croisées
 
 - **Article 434-13 du Code pénal** : Faux témoignage sous serment.
+
 - **Article 434-4 du Code pénal** : Obstruction à la manifestation de la vérité.
 
 ---
@@ -65,6 +68,7 @@ Dans le cadre de notre dossier, cet article vise :
 ### Preuve de l'infraction
 Pour caractériser l'infraction, l'accusation doit démontrer :
 1. L'utilisation de l'un des moyens listés (promesses, menaces, pressions, manœuvres, etc.).
+
 2. L'intention de déterminer autrui à mentir ou à se taire en justice.
 
 ---

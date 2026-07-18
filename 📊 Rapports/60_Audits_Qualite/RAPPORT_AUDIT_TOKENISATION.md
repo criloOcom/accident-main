@@ -184,6 +184,7 @@ type: rapport
 1. **Ne pas commit** l'état actuel — des données personnelles réelles sont en clair dans les fichiers tokenisés.
 
 2. **Régénérer ou corriger manuellement** les 3 fichiers les plus critiques :
+
    - `🗂️ Organisation/22 📋 Modif Email Maire Foix.md` — Remplacer `Sébastien GRAZIDE` par `**[La Victime]**`, l'adresse par `**[L'Adresse de la Victime]**`, l'email par `**[L'Email de la Victime]**`
    - `📚 Analyses juridiques/18 Note Audit RNE NPAI SAS.md` — Tokeniser les noms complets, adresses personnelles, SIREN, dates de naissance des dirigeants
    - `✉️ Courriers/✉️🚨 Prefecture.md` — Remplacer `M. Bernard TAVELLA` par `**[L'Adjoint au Maire de la Commune]**`, les emails par `**[L'Email de l'Adjoint au Maire]**`

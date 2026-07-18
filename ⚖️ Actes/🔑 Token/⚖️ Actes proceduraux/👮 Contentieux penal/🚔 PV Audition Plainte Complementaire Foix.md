@@ -6,11 +6,17 @@ type: acte_procedural
 date: 2026-07-15
 tags:
 - plainte
+
 - complémentaire
+
 - audition
+
 - pv
+
 - police
+
 - entrave
+
 - preuves
 statut: final
 destinataire: Procureur de la République
@@ -72,9 +78,13 @@ Je vous demande solennellement d'acter ma plainte complémentaire et, dans la me
 
 Sur ce, le déclarant nous remet les documents suivants, qui sont cotés, paraphés et annexés à la présente procédure :
 1. Une plainte rédigée de [X] pages, signée par le déclarant.
+
 2. Copie des LRAR adressées à [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) et retournées NPAI.
+
 3. Copie de la demande de conservation des vidéos.
+
 4. Note d'audit RNE/INPI du 10/07/2026.
+
 5. Récépissé du Tribunal concernant la requête Art. 145 CPC.
 
 Après lecture faite par lui-même de sa déclaration, l'intéressé déclare y persister et n'avoir rien à y changer, ajouter ou retrancher.

@@ -31,12 +31,17 @@ Transaction de crédit instantané Wero de 15,00 € émise par Ayoub Bennourine
 ## Preuve
 
 - **Référence** : IPR000297029234
+
 - **Type** : Crédit instantané Wero
+
 - **Montant** : 15,00 € (identique au paiement initial)
+
 - **Usage** : Pièce n°6 — Preuve de paiement et remboursement
 
 ## Croisements
 
 - ⇄ [Finance Prestation Salon](token-finance-prestation-salon.md) (paiement associé 15,00 €)
+
 - ⇄ [Le Préposé de l'Exploitation](token-exploitation-prepose-nom.md) (émetteur du remboursement)
+
 - ⇄ [Le Téléphone du Préposé](token-exploitation-prepose-telephone.md) (compte associé)

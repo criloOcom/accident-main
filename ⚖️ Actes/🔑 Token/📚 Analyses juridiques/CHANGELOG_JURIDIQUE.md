@@ -178,6 +178,7 @@ Pour toute nouvelle référence juridique ajoutée au dossier :
 
    - OpenLegi (structure et état des codes)
 2. **Consigner dans ce fichier** toute correction « structurelle » :
+
    - remplacement ou suppression d'article
 
    - changement de code

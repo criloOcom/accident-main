@@ -13,44 +13,65 @@ type: memory
 
 ## 🛑 PROTOCOLE ANTI-HALLUCINATION STRICT (ZÉRO INVENTIONS)
 - **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet ([🧠 Memory/STRICT VARIABLES.md](STRICT%20VARIABLES.md) ou [🧠 Memory/KNOWLEDGE_GRAPH.json](KNOWLEDGE_GRAPH.json)).
+
 - **LE DOUTE SYSTÉMATIQUE** : Si une information (statut de l'entreprise, décision, nom, date) n'est pas explicitement documentée, l'agent doit indiquer que la donnée est "inconnue en l'état" au lieu de l'extrapoler ou de la deviner.
+
 - **RÈGLE DU DOUBLE-PASS (RELECTURE)** : Avant de finaliser une action ou de proposer un document, l'agent doit relire son propre travail en extrayant individuellement toutes les dates, sommes et citations pour les comparer une par une avec les variables de référence.
 
 ## VÉRIFICATION SUR PIÈCES SOURCE AVANT TOUTE RÉDACTION (Règle n°14)
 - **RÈGLE ABSOLUE** : Avant de rédiger ou modifier un acte, courrier ou email mentionnant une date, un lieu, un numéro de PV ou une information procédurale, l'agent DOIT retrouver et vérifier l'information sur la pièce source originale dans [⚖️ Actes/Preuves officielles](../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/README.md)
+
 - **Ne JAMAIS** reproduire une information procédurale (date de plainte, lieu de dépôt, numéro de PV, date de chirurgie) depuis une version antérieure d'un document sans la recouper avec la pièce source
+
 - **Mécanisme concret** : pour chaque donnée factuelle dans le document en rédaction, tracer sa provenance : quelle pièce source, quel drive_id, quel numéro de page
+
 - **Sanction** : une information erronée reproduite sans vérification est une faute professionnelle immédiate
 
 ## VÉRIFICATION API AVANT INTÉGRATION
 - TOUTE nouvelle citation juridique (LEGIARTI, JURITEXT, n° pourvoi) DOIT être vérifiée via MCP Légifrance/Judilibre AVANT intégration
+
 - Le checker exécute désormais cette vérification automatiquement
+
 - Ne JAMAIS contourner cette règle — une jurisprudence fabriquée invalide tout le dossier
 
 ## VÉRIFICATION JURITEXT — PROTOCOLE STRICT (Règle n°10)
 - **Lire** [/home/crilocom/accident-main/🧠 Memory/JURITEXT_PROTOCOL.md](/home/crilocom/accident-main/%F0%9F%A7%A0%20Memory/JURITEXT_PROTOCOL.md) avant toute insertion/modification de JURITEXT
+
 - **Vérification en 2 étapes OBLIGATOIRE** : `legifrance-prod_rechercher_jurisprudence` PUIS `openlegi_rechercher_jurisprudence_judiciaire` — les 2 doivent concorder
+
 - **JAMAIS deviner** un JURITEXT — si introuvable, marquer "À VÉRIFIER" et signaler
+
 - **JAMAIS se fier** à une coche "✓" dans un fichier — la coche ne prouve rien
+
 - **Propagation** : si une JURITEXT est fausse, chercher et corriger TOUTES les occurrences dans le projet
+
 - **Anti-pattern** : "Judilibre retourne 0, donc l'ID est probablement correct" → FAUX, utiliser Légifrance-prod
 
 ## #0 — RÉPERTOIRE SOUVERAIN LOCAL
 - Le répertoire de travail local est et restera toujours **`/home/crilocom/accident-main/`**.
+
 - Aucun agent, quel qu'il soit, ne peut travailler ailleurs. Aucune exception.
+
 - La création de clones parallèles (tmp, backup, clonage dans `/tmp/opencode/`) est **interdite**.
+
 - Toute opération git (pull, add, commit, push) se fait exclusivement depuis ce dossier.
 
 ## #1 — INTERDICTION DE POSER DES QUESTIONS AU CONDITIONNEL
 - Tu ne demandes JAMAIS « est-ce que c'est déjà fait ? » ou « est-ce que je le fais ? ».
+
 - Si l'information existe dans les fichiers, tu la lis et tu décides.
+
 - Si une action est possible, tu l'exécutes, pas la demandes.
+
 - La question à l'humain est le dernier recours quand l'information n'existe nulle part.
 
 ## PRIORITÉ MCP — Toujours utiliser les outils MCP en premier
 - Tout appel à Légifrance, Judilibre ou Google Docs DOIT passer par les outils MCP dédiés
+
 - Ne JAMAIS utiliser webfetch, curl, HTTP requests ou scraping direct sur ces services (bloqués 403/anti-bot)
+
 - Si un MCP crash (erreur d'import, timeout), le FIXER et RELANCER le serveur immédiatement — ne pas dériver vers des solutions alternatives sans MCP
+
 - Les MCP sont gérés par le runtime opencode ; le fix du code source + redémarrage du processus est la seule procédure valide
 
 ## PROTOCOLE DE VACCINATION (OBLIGATOIRE — À FAIRE EN TOUT PREMIER)
@@ -63,76 +84,120 @@ type: memory
 
 ## PROTOCOLE DE MÉMOIRE (OBLIGATOIRE EN DÉBUT DE SESSION)
 - **Lire** [`AGENTS.md`](../AGENTS.md) en premier
+
 - **Lire** TOUS les fichiers de [/home/crilocom/accident-main/🧠 Memory](/home/crilocom/accident-main/%F0%9F%A7%A0%20Memory/README.md) avant toute action
+
 - **Vérifier** que le STATUS.md est à jour ; si non, le corriger
+
 - **Ne JAMAIS** poser à l'utilisateur une question dont la réponse existe déjà dans les fichiers mémoire ou le Drive
 
 ## INTERDICTIONS ABSOLUES
 - **INTERDIT** toute automatisation par script sur les Google Docs (str.replace, re.sub, regex direct)
+
 - **INTERDIT** `deleteContentRange` + `insertText` pour réécrire un doc (détruit formatage)
+
 - **INTERDIT** d'insérer des fichiers .md, .txt dans le Drive (sauf ARCHIVES)
+
 - **INTERDIT** d'inclure les annexes de correspondance (token ↔ identité réelle) dans les copies UNIFIE_ANONYME
+
 - **INTERDIT** d'utiliser des numéros de pièce (Pièce n°X) sans validation explicite de l'utilisateur. Ce qui identifie une pièce est le triplet **(date, émetteur, objet)** — pas un numéro. Les colonnes N° du spreadsheet sont provisoires, non validées, et ne doivent pas être citées dans les documents ni dans PIECES MAP.md.
 
 ## MÉTHODE AUTORISÉE POUR L'ANONYMIZATION
 1. `readDocument` → copier le texte localement dans `/tmp/`
+
 2. Exécuter `batch_anonymize.py` local → fichier anonymisé
+
 3. Vérifier manuellement les noms résiduels (prénoms seuls, casse mixte)
+
 4. Convertir en markdown structuré (titre #, sections ##, listes)
+
 5. `replaceDocumentWithMarkdown` sur la copie UNIFIE_ANONYME
+
 6. `applyParagraphStyle` → JUSTIFIED sur tout le document
 
 ## RÈGLES D'ANONYMIZATION
 - Personnes physiques/morales → tokens en bon français avec articles (`**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS)]**`)
+
 - Toute donnée localisante (adresse, ville, email, SIREN, CPAM, PV police) → token descriptif en bon français
+
 - Pas de `[ ... ]` générique (sauf pour cacher des références procédurales)
+
 - Pas de civilité devant un token (supprimer "Monsieur/Madame/Dr" avant les tokens)
+
 - Numéros de département `(31)` `(09)` supprimés
+
 - Le document doit rester lisible en bon français
 
 ## INTERDICTION D'INVENTER UN STATUT JURIDIQUE
 - **INTERDIT** d'affirmer un statut juridique (liquidation, dissolution, radiation, cessation d'activité) d'une entreprise sans source vérifiable (KBIS, extrait RCS, INPI, décision de justice)
+
 - Si le statut est inconnu, le formuler comme une incertitude : "À ce jour, le statut exact de **[l'entreprise]** demeure incertain"
+
 - Ne pas extrapoler l'absence de réponse à un courrier comme une preuve de liquidation
 
 ## SÉPARATION STRICTE TOKENS ↔ CORRESPONDANCE RÉELLE
 - **Tout document de travail** (⚖️ Actes/, analyses, courriers en rédaction) est rédigé exclusivement en tokens anonymes (`**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS)]**`, etc.)
+
 - **Un dossier de correspondance réelle séparé** est créé au moment de l'envoi uniquement, par substitution des tokens → identités réelles
+
 - **Ne JAMAIS** mélanger tokens et identités réelles dans un même fichier
+
 - **Ne JAMAIS** créer de document « mixte » — soit 100% tokens, soit 100% réél
+
 - **Objectif** : permettre aux agents IA de travailler sur la structure du dossier sans exposer les données personnelles, et garder un seul point de vérité pour le mapping (TOKEN MAP.md)
+
 - Ce comportement est **permanent et non négociable** pour tout le cycle de vie du dossier
 
 ## VÉRIFICATION OBLIGATOIRE AVANT FINALISATION (DOUBLE-PASS)
 - Avant de finaliser l'écriture de tout document, extraire toutes les dates, montants et identifiants
+
 - Comparer UN PAR UN avec le fichier [🧠 Memory/STRICT VARIABLES.md](STRICT%20VARIABLES.md)
+
 - Si une seule donnée diffère, CORRIGER le document avant de le présenter
+
 - Ne JAMAIS inventer une date, un montant ou un identifiant — utiliser uniquement les valeurs de STRICT VARIABLES.md
 
 ## ANTI-RÉGRESSION — VÉRIFICATION CROSS-DOCUMENT OBLIGATOIRE
 - Après TOUTE modification d'un fichier dans [⚖️ Actes](../%E2%9A%96%EF%B8%8F%20Actes/README.md), [🧠 Memory](README.md), ou `annexes/`, lancer impérativement : `python3 app/check_consistency.py`
+
 - Ce script vérifie : liens internes valides, tokens connus, LEGIARTI/JURITEXT joignables, frontmatter cohérent
+
 - Ne JAMAIS commit/push sans vérification préalable — une régression (lien mort, token inconnu, donnée contradictoire) invalide tout le dossier
+
 - Les fichiers [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Civil.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Civil.md) et [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md) sont les portes d'entrée — leur mise à jour est prioritaire
 
 ## STRUCTURE DES DOCUMENTS UNIFIE_ANONYME (voir aussi DESIGN.md)
 - Titre du document en TITLE (20pt, CENTER, BOLD — PAS le 36pt par défaut)
+
 - Sections principales en HEADING_1 (14pt, MAJUSCULES, BOLD, souligné)
+
 - Sous-sections en HEADING_2 (12pt, 1ère CAP only, BOLD, souligné)
+
 - Sous-sous-sections en HEADING_3 (10pt, BOLD)
+
 - Paragraphes en NORMAL_TEXT (11pt, JUSTIFIED)
+
 - Police : **Arial exclusivement** sur tout le document
+
 - **NE PAS inclure** d'annexes avec correspondance des acteurs
+
 - Si des références légales sont citées, les lier via applyTextStyle + linkUrl
+
 - Tokens d'anonymisation en **bold** dans le body
+
 - Se référer à [🧠 Memory/DESIGN.md](DESIGN.md) pour le détail complet de la charte
 
 ## #13 — NOTEBOOKLM MCP — SOURCE DE CONTEXTE PROJET
 - **NotebookLM** est une source de contexte supplémentaire : les sources du projet sont chargées dans le notebook `accident-main`
+
 - Tout agent doit utiliser `notebooklm_ask_question(notebook_id="accident-main")` pour obtenir des réponses contextuelles ancrées dans ces sources
+
 - Le `session_id` retourné doit être conservé et réutilisé pour les questions de suivi (conversation contextuelle)
+
 - **Ne pas utiliser NotebookLM comme unique source de vérité** juridique — les vérifications JURITEXT/LEGIARTI via Légifrance/Judilibre restent obligatoires (Règle #10)
+
 - NotebookLM complète la recherche juridique existante : il peut synthétiser et recouper les sources du projet
+
 - Voir la section dédiée dans [`AGENTS.md`](../AGENTS.md) pour les détails de configuration
 
 ## AVENANT JURIDIQUE — FIABILISATION DE LA NOMENCLATURE DES STATUTS D'ENVOI (Règle n°15)
@@ -176,6 +241,7 @@ Il est formellement interdit de qualifier un document de « Envoyé » sur le se
 2. **Exigence de complétude** : Tout fichier portant le statut YAML `final` mais dont le corps comporte des crochets non résolus (`[À compléter]`, `[Adresse]`) ou des adresses manquantes doit être rétrogradé au statut 🟡 PROJET/BROUILLON.
 
 3. **Preuve matérielle obligatoire** : Un document est juridiquement « ENVOYÉ » uniquement si le dossier contient :
+
    - Un numéro de suivi LRAR La Poste valide (format : `870014XXXXXXXXX`)
    - Un accusé de réception signé par le destinataire
    - Un récépissé de dépôt de greffe (TJ, TC, etc.)
@@ -184,6 +250,7 @@ Il est formellement interdit de qualifier un document de « Envoyé » sur le se
    En l'absence de ces preuves, tout document, même finalisé, est considéré comme 🟡 PROJET ou 🟠 PRÊT POUR ENVOI.
 
 4. **Les vrais envois confirmés** (preuves matérielles dans le dossier) :
+
    - **03** (SAS) : LRAR 87001424863012T
    - **05** (Propriétaire) : AR signé par le bailleur (M. Romain Delrieu)
    - **06** (Dirigeants) : LRAR 87001424721856G + 87001424862879J
@@ -196,18 +263,25 @@ Il est formellement interdit de qualifier un document de « Envoyé » sur le se
 
 ### #12.0 — Connexion au dépôt (OBLIGATOIRE)
 - Tout appel à `jules_create_session` DOIT impérativement inclure :
+
   - `repo` : `"criloOcom/accident-main"`
   - `branch` : `"main"` (branche de base existante sur le remote — Jules crée sa propre branche de PR en interne)
   - `autoPr` : `true`
 - Sans ces paramètres, Jules démarre en mode "repoless" (sans dépôt) et ne peut ni créer de branche, ni soumettre de PR, ni éditer le code.
+
 - Lire 🧠 Memory/JULES_MCP_GUIDELINES.md avant tout appel à Jules.
 
 ### #12.1 — Clôture de session (RÈGLE ABSOLUE)
 - **TOUTE session Jules doit être conclue par un message de clôture** explicite (pas seulement abandonnée).
+
 - Une session qui a terminé son travail (rapport reçu, PR créé, mission accomplie) reçoit un message de type : « Mission terminée, tu peux archiver cette session. » ou « Rapport reçu, tu peux clôturer. »
+
 - Une session bloquée qui a reçu une réponse de déblocage doit être informée que la réponse a été envoyée.
+
 - **NE JAMAIS laisser une session Jules en plan** sans message de conclusion — cela laisse des agents en attente indéfiniment et pollue la file d'exécution.
+
 - L'API REST Jules ne dispose pas de méthode `delete` ou `archive` — l'envoi d'un message de clôture est le SEUL moyen de marquer proprement la fin d'une session.
+
 - Ce message de clôture est le signal pour l'agent que son travail est terminé et accepté ; Google archivera automatiquement les sessions clôturées côté serveur.
 
 ## #13 — SYSTÈME DE STATUTS — CONVENTION
@@ -249,18 +323,26 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 ### Liens croisés token↔reel
 
 - Dans `🔑 Token/` : `reel_path` pointe vers le fichier réel correspondant dans `👤 Reel/`
+
 - Dans `👤 Reel/` : `token_path` pointe vers le fichier tokenisé correspondant dans `🔑 Token/`
+
 - Les liens sont des chemins relatifs (fonctionnent depuis GitHub)
+
 - `proof_delivery` : champ YAML optionnel contenant le numéro LRAR/AR/preuve
+
 - Gérés automatiquement par `.dev/app/update_status_system.py` et `.dev/app/update_proof_delivery.py`
 
 ## #14 — FORMAT DES FILS D'ARIANE (BREADCRUMBS) — RÈGLE STRICTE
 
 ### Format imposé
 - Le **front matter YAML est sur la LIGNE 1** du fichier (bloc `--- ... ---`), suivi du fil d'Ariane dans un **commentaire HTML** `<!-- ... -->`, puis le contenu.
+
 - ORDRE CANONIQUE : `---` (YAML) en ligne 1 → fil d'Ariane (commentaire HTML) → titre `#` et contenu.
+
 - Raison : la prévisualisation GitHub des fichiers .md ne rend le YAML comme front matter QUE s'il est en première ligne. Un commentaire HTML devant le YAML empêche GitHub de le parser.
+
 - Le fil d'Ariane utilise `[🏠](../README.md)` (emoji maison comme lien) — PAS le mot "Accueil"
+
 - Exemple :
   ```html
   ---
@@ -278,118 +360,210 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 
 ### Règles
 1. **Un seul fil d'Ariane par fichier** — toute duplication est une erreur
+
 2. **Toujours APRÈS le bloc YAML** (ligne 1 = `---`), avant tout titre `#` de contenu
+
 3. **Format commentaire HTML** pour détection facile par script
+
 4. **Généré automatiquement** par `.dev/app/generate_breadcrumbs.py`
+
 5. **Ne JAMAIS ajouter** de breadcrumb à la main — toujours passer par le script
+
 6. **Ne JAMAIS laisser** de scripts .py ni de fichiers orphelins à la racine du projet — tout va dans `.dev/app/`
+
 7. **Ne JAMAIS laisser** de fichiers Rapport*.md à la racine — tout va dans [📊 Rapports](../%F0%9F%93%8A%20Rapports/README.md)
+
 8. **Ne JAMAIS laisser** de `__pycache__` ou `.pytest_cache` traîner — supprimer après exécution de scripts
 
 ## #15 — INTERDICTION FORMELLE DES LIENS ABSOLUS EN INTERNE
 
 1. **Tout lien interne** (pointant vers un fichier du dépôt) DOIT être un **chemin relatif** — jamais `file://`, jamais `/chemin/absolu/depuis/la/racine`
+
 2. **Seuls les liens externes** (Légifrance, Judilibre, sites web) peuvent être des URL absolues `https://...`
+
 3. **Sanction** : un fichier contenant un lien interne absolu (`file://` ou `/⚖️ Actes/...`) est considéré comme cassé et doit être corrigé immédiatement
+
 4. **Vérification** : tout script d'audit ou de vérification doit signaler les liens absolus internes comme des erreurs bloquantes
 
 ## #16 — PRINCIPE DE PRÉCISION ABSOLUE (RÈGLE PERMANENTE)
 
 - **La précision l'emporte sur la vitesse en toutes circonstances. Aucun compromis.**
+
 - Aucune approximation tolérée : pas de « assez bon », pas de « on verra plus tard », pas de déduction sans source.
+
 - Si une donnée est incertaine → lire la source originale ou marquer explicitement « inconnu en l'état ».
+
 - Le temps nécessaire à l'exactitude est toujours du temps bien investi. La rapidité n'est jamais une excuse pour l'inexactitude.
+
 - Cette règle s'applique à tous les agents, scripts, et processus automatisés du projet.
+
 - Toute proposition de « solution plus rapide mais moins précise » doit être rejetée par principe.
+
 - **Rappel** : l'objectif du dossier est la production de documents juridiques — une erreur peut invalider un acte ou coûter des droits à la victime.
 
 ## #17 — LIENS OBLIGATOIRES SUR TOUTE CITATION INTERNE (RÈGLE PERMANENTE)
 
 - **Toute citation d'un dossier ou d'un fichier interne au dépôt DOIT être un lien relatif cliquable** (Markdown `[texte](chemin.md)`), jamais un simple texte entre backticks sans lien.
+
 - **Citation de DOSSIER** : le lien doit pointer vers le `README.md` de ce dossier (ex. [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/README.md) → `[01 ⚖️ Actes procéduraux](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/README.md)`).
+
 - **Citation de FICHIER** : le lien doit pointer directement vers le fichier (ex. `[RAPPORT_X](%F0%9F%93%8A%20Rapports/RAPPORT_X.md)`).
+
 - Le texte du lien doit être lisible (nom du dossier/fichier cité), pas un chemin illisible sauf si le contexte l'exige.
+
 - **Interdiction** : écrire `` `📊 Rapports/RAPPORT_X.md` `` sans le transformer en lien. Idem pour les dossiers.
+
 - **Scripts de référence** :
+
   - `.dev/app/linkify_citations.py` — transforme automatiquement les citations backtick internes non liées en liens (dossier→README, fichier→fichier). Dry-run par défaut, `--apply` pour écrire.
   - `.dev/app/audit_citation_links.py` — vérifie qu'aucune citation interne n'est laissée en texte brut non lié (signale comme avertissement).
 - **Objectif** : la navigation entre tous les fichiers du dépôt doit être totale — aucun fichier ni dossier cité ne doit être inaccessible par un clic. C'est une règle de non-régression qualité : chaque agent intervenant sur le projet doit la respecter.
+
 - **Exception** : les chemins purement illustratifs/historiques pointant vers des cibles inexistantes (ex. anciennes conventions `{token,reel}`) doivent être soit corrigés vers la cible réelle, soit supprimés — jamais laissés comme texte mort non lié sans signalement.
 ## #18 — PRÉSENTATION : LISTES PRÉFÉRÉES AUX TABLEAUX, MERMAID POUR LA CARTOGRAPHIE (RÈGLE PERMANENTE)
 
 - **Les tableaux Markdown à colonne de numéros (`#`, `N°`, `01`, `02`...) sont INTERDITS pour les listes de fichiers/dossiers/documents.** Ils sont illisibles sur la prévisualisation GitHub (mobile notamment) et la colonne de numéros n'apporte rien à la lecture humaine.
+
 - **Format imposé pour un listing de fichiers** : liste à puces Markdown, une entrée par fichier, sous la forme :
   `- **[Nom lisible](chemin/relatif.md)** — *Fondement* — Résumé court.`
   Le chemin du lien doit être le **vrai nom de fichier** (jamais une URL encodée type `03%20%F0%9F%94%8D%20...md` — toujours décoder via `urllib.parse.unquote`).
 - **Les tableaux de DONNÉES** (comparaisons chiffrées, montants, dates croisées) restent autorisés quand ils apportent une valeur de lecture réelle.
+
 - **Cartographie interactive** : tout README de dossier/hub de navigation DOIT inclure un diagramme **Mermaid** (bloc ```` ```mermaid ````) représentant l'arborescence ou les relations des fichiers à lire. Cela donne une vue interactive (cliquable sur GitHub) de « quoi lire ».
+
 - **Scripts de référence** :
+
   - `.dev/app/convert_tables_to_lists.py` — convertit automatiquement les tableaux de listing en listes à puces (décode les liens URL-encodés). Dry-run par défaut, `--apply` pour écrire, `--path` pour cibler un dossier.
 - **Raison** : lisibilité humaine et mobile-first. Les tableaux à numéros cassent la lecture ; les listes et le Mermaid la fluidifient.
 ## #19 — MINI-CHARTE CITATION JURIDIQUE (RÈGLE PERMANENTE — AJOUTÉE LE 12/07/2026)
 
 - **Règle 19a — Vérification systématique** : toute citation d'un article de loi, code ou jurisprudence DOIT être vérifiée sur Légifrance (MCP legifrance-prod puis openlegi) AVANT insertion dans un document. Ne JAMAIS citer un article de mémoire.
+
 - **Règle 19b — Citations interdites (blacklist)** :
+
   - **L.310-1-1-2 Code des assurances** : ne concerne PAS l'affichage RC (porte sur les placements des assureurs). Ne plus jamais l'utiliser pour l'affichage RC. À la place : description factuelle ("aucun affichage de l'assurance RC dans les locaux").
   - **Art. 56-1 CPP** : ne concerne PAS les réquisitions de vidéosurveillance (porte sur les perquisitions chez les avocats). Ne plus jamais l'utiliser pour les vidéos. À la place : demande simple à l'OPJ, ou si besoin Art. 60-1/77-1-1 CPP sous contrôle avocat.
 - **Règle 19c — Précision et proportion des citations** :
+
   - Citer l'article seul suffit (« conformément à l'article L.XXXX-X du Code X »). N'insérer un extrait blockquote que si vraiment utile, et court.
   - Privilégier le positionnement « signalement aux fins de vérification » (faits objectifs + demande) plutôt que l'affirmation accusatoire.
   - L'URL Légifrance est un plus pour le suivi interne, pas une obligation dans le courrier.
 - **Règle 19d — Bloc verrouillé** : les 12 articles suivants sont validés comme corrects et peuvent être réutilisés : L.4121-1, L.4321-1, R.4323-58, L.8221-5, R.4121-1, L.8271-1-2 CT ; L.124-3 C. assur. ; L.376-1 CSS ; Art. 40 CPP ; L.311-1 CRPA ; L.123-1 CCH ; Cass. 2e civ. 4 avril 2024 n°22-19.307.
+
 - **Origine** : audit avocat du 12/07/2026 sur le batch J+37 — cf. [`📊 Rapports/PROMPT_AVOCAT_REVUE_J37.md`](../%F0%9F%93%8A%20Rapports/90_TODO_Prompts/PROMPT_AVOCAT_REVUE_J37.md) pour le détail complet.
 
 ## #21 — CONVENTIONS DE FORMATAGE UNIFIÉES — SÉPARATEURS DE SECTION (RÈGLE PERMANENTE)
 
 - **Tout fichier `.md` du projet** DOIT respecter les conventions définies dans [🧠 Memory/CONVENTIONS.md](CONVENTIONS.md) : ordre canonique des éléments, hiérarchie H1–H4, séparateurs `<hr><hr>`, citations, etc.
+
 - **Séparateur de section unique** : `<hr><hr>` — placé **avant** chaque section de premier niveau (tout `##`, ou `###` avec chiffre romain ou mot-clé : EXPOSÉ, PAR CES MOTIFS, PIÈCES JOINTES, etc.), à l'exception de la 1ère section.
+
 - **Interdiction** d'utiliser `---` comme séparateur dans le corps d'un fichier (réservé au YAML front matter). Tout `---` dans le corps DOIT être remplacé par `<hr><hr>`.
+
 - **Interdiction** d'utiliser `<hr>` solitaire — DOIT être `<hr><hr>` partout, sauf dans le commentaire HTML du breadcrumb (détecté automatiquement).
+
 - **Pipeline de normalisation** : après toute modification structurelle d'un fichier `.md`, exécuter :
+
   1. `python3 .dev/app/normalize_sections.py --apply --token` (Token)
   2. `python3 .dev/app/generate_real_versions.py` (sync Reel)
   3. `python3 .dev/app/normalize_sections.py --apply --reel` (Reel)
   4. `python3 .dev/app/check_consistency.py` (vérification)
 - **Script** : `.dev/app/normalize_sections.py` — applique la convention `<hr><hr>` en 3 phases (Phase 1 : `---`→`<hr><hr>`, Phase 2 : séparateur avant chaque section, Phase 3 : `<hr>`→`<hr><hr>` + dédup).
+
 - **Sous-titres `## (Note ...)`** après H1 ne sont PAS traités comme des sections de premier niveau — exclus automatiquement par l'algorithme.
+
 - **Exceptions** : les fichiers `📂 Preuves officielles/` (231 fichiers sans YAML) sont exclus de toutes les corrections automatiques.
 
 ## #20 — LIEN CLIQUABLE GOOGLE DRIVE SUR TOUT `drive_id` (RÈGLE PERMANENTE)
 
 - Tout fichier dont le YAML contient un champ `drive_id: <ID>` DOIT exposer un **lien cliquable** vers la source Google Drive dans son corps (le front matter YAML n'est pas rendu cliquable sur GitHub).
+
 - Format imposé (ligne juste après le bloc YAML, avant le titre `#`) :
   `> 🔗 Source Google Drive : [<ID court>](https://drive.google.com/open?id=<ID>)`
 - L'URL absolue `https://drive.google.com/open?id=<ID>` est un lien EXTERNE — elle est autorisée par la Règle #15 (seuls les liens internes doivent être relatifs).
+
 - **Script de référence** : `.dev/app/add_drive_links.py` — ajoute automatiquement le lien cliquable pour tout `drive_id` du YAML ne l'ayant pas encore. Dry-run par défaut, `--apply` pour écrire.
+
 - **Objectif** : ouvrir la pièce source d'un clic depuis la prévisualisation GitHub, sans copier/coller l'ID.
 
 ## #23 — PRE-COMMIT HOOK : AUDIT OBLIGATOIRE DES LIENS INTERNES AVANT COMMIT (RÈGLE PERMANENTE)
 
 - **Tout commit** déclenche automatiquement 3 audits via le hook pre-commit versionné dans `.dev/hooks/pre-commit` :
+
   1. `.dev/app/audit_readme_integrity.py` — vérifie l'intégrité des README.md
   2. `.dev/app/audit_internal_links.py` — vérifie qu'aucun lien `.md`→`.md` n'est cassé
   3. `.dev/app/audit_citation_links.py` — vérifie que toute citation interne est un lien cliquable
 - **Exit codes** : `audit_internal_links.py` → 0 = OK, 1 = liens cassés. `audit_readme_integrity.py` → 0 = OK, 1 = erreurs bloquantes, 2 = avertissements non bloquants.
+
 - **Correction assistée** : `.dev/app/fix_internal_links.py` cherche les fichiers cibles dans tout le projet par basename. Cas univoque (1 seul candidat) → correction automatique avec `--apply`. Cas ambigus (2+ candidats) → listés sans choix — l'agent analyse manuellement. Introuvables → signalés comme irrécupérables.
+
 - **Contournement** : `git commit --no-verify` pour forcer le passage malgré les échecs d'audit.
+
 - **Architecture** : le fichier source de vérité est `.dev/hooks/pre-commit` (versionné). `.git/hooks/pre-commit` est un trampoline de 5 lignes qui délègue au premier.
+
 - **Fichiers exclus du scan** : `CONVENTIONS.md`, `VACCIN.md`, `DECISIONS.md`, `DESIGN.md`, `STRICT VARIABLES.md` (contiennent des exemples de liens volontaires).
+
 - **Scripts de référence** : `.dev/app/audit_internal_links.py` (détection), `.dev/app/fix_internal_links.py` (correction), `.dev/hooks/pre-commit` (orchestrateur).
 
 ## #22 — VERROUILLAGE STRICTE DE LA STRATE REEL (ARTIFACT GÉNÉRÉ, JAMAIS À LA MAIN)
 
 - **Principe non négociable** : toute création/édition de document se fait UNIQUEMENT en version **Token** (`⚖️ Actes/🔑 Token/...`). Les versions **Reel** (`⚖️ Actes/👤 Reel/...`) sont des *artifacts* exclusivement produits par `.dev/app/generate_real_versions.py`.
+
 - **INTERDICTION #1** : ne JAMAIS rédiger ni modifier le contenu d'un fichier Reel à la main (sauf si l'on a modifié le script de génération lui-même et qu'on applique sa sortie). Le Reel = sortie canonique du générateur, pas un document éditable.
+
 - **INTERDICTION #2** : ne JAMAIS créer un fichier Reel sans son Token frère et sans que le Token déclare un `reel_path` pointant dessus. Un Reel sans Token = orphelin = interdit.
+
 - **Lors d'un merge de PR** : si une PR contient des fichiers Reel, les traiter comme des build artifacts. Deux options seulement :
+
   1. les laisser passer s'ils sont strictement cohérents avec le Token + la sortie attendue du générateur actuel ;
   2. sinon, relancer `generate_real_versions.py` et commiter le résultat — mais ne jamais toucher aux Reel « à la main » pour « corriger » du contenu.
 - **Régularisation d'un Reel orphelin (présent sur disque mais non tracké)** — procédure obligatoire avant `git add` :
+
   1. vérifier qu'un Token correspondant existe avec un `reel_path` pointant dessus ;
   2. vérifier la cohérence du contenu (aucune fuite de vraie PII, respect des conventions du projet) ;
   3. seulement après, `git add` + commit en tant que régularisation (jamais comme nouveau document).
 - **En cas de doute sur une action touchant la strate Reel** (suppression, création, modification) : s'abstenir et soit ouvrir un TODO documenté dans STATUS.md / `TODO_*.md`, soit demander une validation explicite — jamais deviner.
+
 - **Pipeline canonique après toute modification Token** : `generate_real_versions.py` → `check_consistency.py` (cf. Règle #21). Le Reel doit toujours pouvoir être régénéré à l'identique depuis le Token.
+
 - **Convention de message de commit/log (OBLIGATOIRE)** : dans tout commit ou log touchant la strate Reel, indiquer explicitement la provenance, au format : `Reels régénérés par generate_real_versions.py à partir de [chemin Token], aucun édit manuel.` Aucun message ne doit laisser croire à une édition manuelle du Reel. (Note : le commit `5ab96ca` du 15/07/2026 précède cette convention — il a bien régularisé un Reel généré, sans édit manuel, mais ne portait pas cette mention.)
+
 - **Rappel de maturité du dépôt** : ce dépôt n'est pas un bac à sable. Le dossier accident-main est déjà très avancé (volets pénal, civil, assurance, inspection, Dintilhac, 15 rapports multi-angle, note stratégique, conclusions au fond). Le rôle de l'agent est de faire converger le dépôt, NON de réinventer la manière dont on gère les Reel.
+
 - **INTERDICTION #3 — README d'index dans Reel** : aucun README.md d'index ou de documentation n'est maintenu dans `⚖️ Actes/👤 Reel/`. Les README d'index vivent exclusivement côté `🔑 Token/` (source de vérité). Le Reel est un artefact de build, pas un dossier documenté.
+
+## #24 — FORMAT LOOSE DES LISTES À PUCES (RÈGLE PERMANENTE)
+
+- **Principe** : toute liste à puces (`- `, `* `, `- [ ]`, `- [x]`) DOIT être en format **loose**, c'est-à-dire avec **une ligne vide entre chaque item de même niveau d'indentation**.
+
+  ```markdown
+  # 🔴 VALIDE (loose)
+  - Premier item
+
+  - Second item
+
+  - Troisième item
+
+  # ❌ INVALIDE (tight)
+  - Premier item
+  - Second item
+  - Troisième item
+  ```
+
+- **Sous-listes indentées** : la même règle s'applique — chaque sous-item DOIT être séparé du suivant par une ligne vide :
+
+  ```markdown
+  - Parent item
+
+    - Sous-item 1
+
+    - Sous-item 2
+
+  - Parent item 2
+  ```
+
+- **Script de correction automatique** : `.dev/app/normalize_list_spacing.py --apply` normalise l'ensemble du dépôt (dry-run par défaut, `--apply` pour appliquer).
+
+- **Audit pré-commit** : le hook `.dev/hooks/pre-commit` vérifie la présence de listes tight dans les fichiers modifiés (via `normalize_list_spacing.py --check`) et bloque le commit si des violations sont détectées.
+
+- **Dérogation** : aucune. La règle s'applique à TOUS les fichiers `.md` du projet, sans exception. Les listes de tâches (`[ ]` / `[x]`) sont également concernées.

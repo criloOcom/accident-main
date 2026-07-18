@@ -33,7 +33,9 @@ Le **2 juin 2026**, j'ai déposé une plainte au commissariat de **[La Métropol
 
 J'y ai raconté en détail :
 - Les faits du **29 mai 2026** (accident dans un salon de coiffure à [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), bac à shampoing qui bascule, vasque en céramique déjà cassée, plaie palmaire profonde de 8,5 cm)
+
 - Les soins d'urgence ([**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) puis [**[L'Établissement SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md) – SOS Main)
+
 - Mon activité professionnelle (informaticien indépendant, droitier)
 
 J'ai remis un **dossier de plainte écrit de ma main** (le 1er juin 2026), avec un bordereau de 11 pièces justificatives (identité, Kbis, captures Wero, certificats médicaux, ordonnances, arrêt de travail, attestation droits, échanges Mairie).
@@ -68,9 +70,13 @@ Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certit
 
 Opéré à la **[L'Établissement SOS Main] (SOS Main)** par le [**[Le Chirurgien SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) (RPPS 10100814770). Constat opératoire :
 - Section partielle du **tendon fléchisseur superficiel** de l'index droit
+
 - Section totale du **paquet collatéral ulnaire et radial**
+
 - **Neurolyse** des nerfs
+
 - **Plastie des poulies digitales**
+
 - **Suture microchirurgicale**
 
 Prescriptions : Augmentin 1g/125mg (5 jours), Doliprane + Izalgi (15 jours), pansement lourd IDE toutes les 48h.
@@ -81,9 +87,13 @@ Pronostic : **Récupération nerveuse sur environ 1 an, souvent incomplète.**
 
 **Consultation Dr Yogan OXYBEL** (RPPS 10101732609), [**[La Ville de Résidence de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md) :
 - Plaie suturée de **8,5 cm** sur la face palmaire droite
+
 - Œdème réactionnel important
+
 - **Paresthésies du premier rayon** (perte de sensibilité, fourmillements pouce/index)
+
 - Arrêt de travail total : **15 jours** (jusqu'au 12 juin 2026)
+
 - ITT pénale initiale : **1 jour** « sous réserve de complications »
 
 **Rédaction du dossier de plainte pénale :** Je rédige un dossier complet avec chronologie, qualifications juridiques, requêtes et bordereau de 11 pièces.
@@ -94,7 +104,9 @@ Pronostic : **Récupération nerveuse sur environ 1 an, souvent incomplète.**
 
 **Réponse de la Mairie de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) :** M. Bernard [**[L'Adjoint au Maire de la Commune]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), adjoint au maire, me répond qu'il saisit :
 - La **Préfecture de l'Ariège**
+
 - L'**Inspection du Travail**
+
 - Le **CODAF** (Comité Départemental de la Consommation)
 
 ### 2 juin 2026 — Dépôt de plainte (J+4)
@@ -194,14 +206,18 @@ En effectuant des recherches par l'adresse exacte [**[L'Adresse de l'Exploitatio
 
 **Pièces jointes au courriel (3 fichiers) :**
 1. `Etat des lieux de sortie [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) 1 001.jpg` (412 Ko)
+
 2. `Etat des lieux de sortie [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) 2 001.jpg` (314 Ko)
+
 3. `Etat des lieux sortie [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) 3 001.jpg` (183 Ko)
 
 Ces photos de l'état des lieux de sortie signé par le représentant de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) à la date du **10 mars 2026** n'ont pas encore pu être exploitées en l'état.
 
 **Ce que ce courriel signifie :**
 1. Le bailleur **confirme officiellement** que [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ont signé un état des lieux de sortie le 10/03/2026
+
 2. Le bailleur **refuse** de me communiquer l'assurance
+
 3. Le bailleur **tire lui-même une conclusion juridique** (absence de responsabilité) — ce qui relève de l'autorité judiciaire, pas de lui
 
 ---
@@ -217,6 +233,7 @@ Le **16 juillet 2026**, je me rends physiquement au **22 rue Lafaurie, 09000 [La
 1. **Enseigne :** Une pancarte / encart sur la **vitrine** indique désormais l'enseigne **« [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) »**
 
 2. **À l'intérieur :**
+
  - Le **bac à shampoing en céramique cassé** qui m'a blessé le 29 mai 2026 **a disparu**. Il a été remplacé par un **bac neuf**
  - Le **meuble / étagère murale** qui se trouvait fixé au mur au moment de l'accident (supportant un téléviseur ou du matériel) **a également disparu**
  - Sur le mur, on voit encore **très nettement les trous et traces de fixation** (vis, ancrages) correspondant à ce meuble
@@ -229,16 +246,22 @@ Une personne se présentant comme l'exploitant est présente. D'après les infor
 
 Cette personne a :
 - **Refusé** de me coiffer
+
 - **Refusé** de me délivrer une facture
+
 - **Refusé** de me communiquer toute information sur l'assurance
+
 - **Tenue des propos contradictoires** (notamment en prétendant que j'étais déjà venu le jour de l'incident, ce qui est faux)
+
 - **Demandé** de quitter les lieux
+
 - **Refusé** de me présenter un justificatif d'identité ou un document attestant de sa qualité
 
 ### Analyse personnelle
 
 La fermeture prolongée du salon après l'accident, combinée au remplacement constaté du bac cassé et à la disparition du meuble mural, me conduit à penser que cette période a pu être utilisée pour :
 - Laisser les **enregistrements de vidéosurveillance** se dérouler puis être écrasés ou non conservés (durée de conservation typique : 15 à 30 jours)
+
 - **Retirer et remplacer** le matériel à l'origine de l'accident
 
 ---
@@ -255,8 +278,11 @@ Je verse au dossier un **erratum formel** (pièce n°4) qui détaille les circon
 
 Je verse au dossier :
 1. **Pièce n°1 :** Courriel du bailleur [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) du 16 juillet 2026 (avec ses 3 pièces jointes)
+
 2. **Pièce n°2 :** Attestation RNE [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (DATA INPI — SIREN [**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md))
+
 3. **Pièce n°3 :** Note de constatations du 16 juillet 2026 (visite des lieux)
+
 4. **Pièce n°4 :** Erratum formel — Correction de l'identité de la société exploitante (document joint, déposé également par LRAR séparée)
 
 ### C. Demandes d'actes d'enquête
@@ -266,17 +292,20 @@ Je concentre mes demandes sur la seule société [**[Le Nouvel Exploitant (HB BA
 Je sollicite respectueusement :
 
 1. **L'audition des personnes suivantes :**
+
   - [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) — coiffeur présent le jour des faits, identifié par le virement Wero
   - [**[Le Président du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) — président de la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
   - [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) — directrice générale de la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
   - [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) — bailleur, sur les baux et les assurances
 
 2. **Des réquisitions pour obtenir :**
+
   - Le **bail commercial** du 22 rue Lafaurie pour [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
   - Les **attestations d'assurance** responsabilité civile professionnelle
   - Les **enregistrements de vidéosurveillance** éventuellement encore disponibles
 
 3. **La vérification :**
+
   - De la **réalité de l'exploitation** par [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) au 29 mai 2026
   - De l'existence d'une **assurance RC pro** pour la période
 

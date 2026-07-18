@@ -69,6 +69,7 @@ En vertu du principe de l'opportunité des poursuites, le Parquet dispose de plu
 - **Réception de la plainte :** [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) — Le procureur de la République reçoit les plaintes et dénonciations et apprécie la suite à leur donner.
 
 - **Orientation (Art. 40-1 CPP) :** Au vu des faits ([Article 40-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033611483)), le Parquet peut :
+
   - Ordonner une enquête préliminaire confiée aux services de police (notamment pour entendre les dirigeants de la SAS et saisir les éventuelles vidéos via réquisitions).
   - Mettre en œuvre une procédure alternative aux poursuites.
   - Classer sans suite (improbable vu la gravité de l'ITT et le silence de la partie adverse).
@@ -97,6 +98,7 @@ L'intervention de **[La Victime]** en tant que partie civile est centrale dans c
 
 Si le Parquet tarde ou classe sans suite, la victime peut utiliser la Citation Directe (CITC).
 - **Avantages de la CITC :**
+
   - **Célérité :** Saisine immédiate du Tribunal Correctionnel sans passer par les délais d'une information judiciaire ou d'une longue enquête préliminaire.
   - **Mise en cause personnelle :** Permet d'assigner formellement **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** sur le fondement de la faute caractérisée (Art. 121-3).
   - **Déblocage des fonds FGTI/SARVI :** La fixation d'une provision pénale par le juge répressif, couplée à une condamnation pénale, ouvre les portes de la CIVI ou du SARVI en cas d'insolvabilité avérée de la SAS (capital 200 €).

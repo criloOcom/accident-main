@@ -19,7 +19,9 @@ type: fiche_reunion
 
 Points à mentionner très vite :
 - Vasque en céramique du bac à shampoing qui **bascule**,
+
 - Vous tendez la main par réflexe pour **protéger le préposé**,
+
 - Résultat : **section tendons/nerfs**, chirurgie, ITT 56 jours.
 
 ### I.2 — Le problème juridique central (1 minute)
@@ -36,18 +38,22 @@ Points à mentionner très vite :
 Vous résumez **ce qui est déjà fait**, sans entrer dans le technique :
 
 - **Pénal**
+
   - Plainte déposée (blessures involontaires) + plainte complémentaire (obstruction).
   - Information judiciaire ouverte → vous êtes **partie civile**.
   - Expertise UMJ prévue le **12 novembre 2026**.
 
 - **Civil / référé**
+
   - Une **assignation en référé-provision** (15 000 €) et en **référé probatoire 145 CPC** pour obtenir le contrat d'assurance RC Pro est **préparée** mais pas encore déposée.
   - Mises en demeure envoyées à la SAS et aux dirigeants.
 
 - **Administratif / sécurité**
+
   - Signalements faits à l'Inspection du Travail / Préfecture sur les manquements de sécurité (absence d'escabeau, vasque cassée, travail non déclaré).
 
 - **Évaluation des préjudices (Dintilhac)**
+
   - Sur la base des premiers éléments, la fourchette d'indemnisation totale se situe autour de **120 000 – 160 000 €**, à affiner après expertise médicale.
 
 Phrase de clôture de cette partie :
@@ -58,14 +64,17 @@ Phrase de clôture de cette partie :
 3 demandes claires :
 
 1. **Validation / ajustement de la stratégie**
+
    - Volet pénal : poursuivre la constitution de partie civile, utilisation de l'expertise UMJ.
    - Volet civil : priorisation entre **référé-provision**, **145 CPC** et action au fond.
    - Volet FGTI / CIVI : savoir **quand** et **si** c'est pertinent.
 
 2. **Prise en main des actes**
+
    - « J'ai des projets d'assignation et de conclusions préparés, mais je veux que **vous repreniez la main** et que vous décidiez ce que vous signez ou réécrivez. »
 
 3. **Un plan d'action et un calendrier**
+
    - « À la fin de ce rendez-vous, j'aimerais repartir avec :
      - les **2–3 premières actions** que vous allez engager,
      - un **calendrier indicatif** (référé, expertise, audience),
@@ -84,21 +93,27 @@ Phrase de clôture de cette partie :
 Tu évites de tout noyer. Tu arrives avec **6 pièces max**, imprimées ou en PDF sur clé :
 
 1. **PV de plainte / plainte complémentaire**
+
    - Pour montrer le sérieux pénal du dossier.
 
 2. **Compte-rendu opératoire + certificats médicaux principaux**
+
    - Pour matérialiser la gravité (tendons, nerfs, main dominante).
 
 3. **Arrêts de travail / preuve de perte de revenus**
+
    - Pour ancrer le préjudice économique.
 
 4. **Mise(s) en demeure à la SAS et aux dirigeants**
+
    - Pour montrer que tu as tenté d'agir loyalement et que la SAS est restée silencieuse.
 
 5. **PACK_ACCUEIL_AVOCAT_AJ.md** (imprimé)
+
    - Résumé, calendrier, stratégie, liste des pièces, contacts.
 
 6. **RAPPORT_SYNTHESE_GLOBALE (version juridique)**
+
    - Pour lui laisser, s'il veut, une vue d'ensemble déjà structurée.
 
 Tu peux mentionner que tu as **d'autres rapports plus techniques** (méta-synthèse, analyses multi-angle, etc.) mais tu ne les imposes pas d'entrée de jeu : tu laisses l'avocat choisir s'il veut aller les voir plus tard.

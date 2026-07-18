@@ -18,10 +18,15 @@ type: rapport
 ## Sommaire
 
 1. [Bilan des Actions Réalisées](#1-bilan-des-actions-r%C3%A9alis%C3%A9es)
+
 2. [Situation Actuelle](#2-situation-actuelle)
+
 3. [Prochaines Étapes Critiques](#3-prochaines-%C3%A9tapes-critiques)
+
 4. [Stratégie Juridique Renforcée](#4-strat%C3%A9gie-juridique-renforc%C3%A9e)
+
 5. [Risques et Mitigations](#5-risques-et-mitigations)
+
 6. [Calendrier Prévisionnel](#6-calendrier-pr%C3%A9visionnel)
 
 ## I — Bilan des Actions Réalisées
@@ -30,38 +35,52 @@ type: rapport
 
 #### I.1.a — Intégration Jurisprudentielle Complète
 - **3 décisions clés intégrées** dans l'assignation en référé-provision:
+
   1. **Cour de Cassation, Civ. 1ère, 30/04/1965** - Responsabilité professionnelle et obligation de sécurité
   2. **Cour de Cassation, Civ. 1ère, 08/07/1994** - Subrogation en responsabilité professionnelle
   3. **Cour de Cassation, Civ. 1ère, 04/07/2012** - Valeur patrimoniale et responsabilité des associés
 
 - **3 annexes complètes créées** dans [⚖️ Actes/📎 Annexes](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md):
+
   - Texte intégral de chaque décision
   - Résumé et analyse de pertinence
   - Liens Légifrance fonctionnels
   - Format Markdown professionnel
 
 - **Documents mis à jour:**
+
 - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md)
+
 - [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md)
+
   - [📊 Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md](../30_Analyses_Multi_Angle/RAPPORT_FINAL_INTEGRATION_20260710.md)
 
 #### I.1.b — Communication Administrative
 - **Email n°34 envoyé** à l'adjoint au maire de Foix (11/07/2026 8h00)
+
 - **Objet:** Demande d'intervention de la Police Municipale pour contrôle ERP
+
 - **Pièces jointes:** Preuves des LRAR retournés NPAI et réouverture du salon
 
 #### I.1.c — Audit et Documentation
 - **Audit des risques complet** (21 risques analysés)
+
 - **Matrice des risques** avec évaluation probabilité × impact × sévérité
+
 - **Plan d'atténuation global** (17 actions priorisées)
+
 - **Documentation MCP mise à jour** avec exemples concrets
 
 ### I.2 — 📊 Statistiques Clés
 
 - **390,987 décisions jurisprudentielles analysées**
+
 - **31 articles de loi vérifiés** via MCP Légifrance
+
 - **16 tests MCP passés** (15/16, 1 skipped)
+
 - **0 erreur de cohérence** (vérification cross-document)
+
 - **3.6 MB de données juridiques** générées et organisées
 
 ## II — Situation Actuelle
@@ -70,27 +89,38 @@ type: rapport
 
 **Faits établis:**
 - Accident corporel grave du 29/05/2026 dans un salon de coiffure
+
 - Section nerveuse et tendineuse de la main droite dominante
+
 - Microchirurgie d'urgence et 56 jours d'ITT
+
 - Préjudice global estimé à ~92 000 € (nomenclature Dintilhac)
 
 **Problèmes identifiés:**
 - **LRAR retournés NPAI** (29/06/2026) - La SAS se soustrait à la communication
+
 - **Salon rouvert** le 06/07/2026 malgré l'absence de distribution du courrier
+
 - **Audit RNE/INPI** confirme que la SAS est toujours active à l'adresse
+
 - **Risque élevé** de disparition des preuves et d'insolvabilité (capital de 200€)
 
 ### II.2 — État des Procédures
 
 **Procédures en cours:**
 1. **Plainte pénale** déposée (PV n°2026/015967)
+
 2. **Constitution de partie civile** déposée
+
 3. **Dossier médical complet** transmis au Procureur
+
 4. **Mises en demeure** envoyées (retournées NPAI)
 
 **Procédures à lancer:**
 1. **Assignation en référé-provision** (Art. 835 CPC) - 15 000 € provision
+
 2. **Assignation Art. 145 CPC** - Communication forcée de la police d'assurance
+
 3. **Requête de constat d'huissier** - Sécurisation des preuves matérielles
 
 ## III — Prochaines Étapes Critiques
@@ -101,9 +131,13 @@ type: rapport
 
 **Actions requises:**
 - [ ] **Vérifier les pièces jointes** (4 documents)
+
 - [ ] **Intégrer les références jurisprudentielles** dans le courrier
+
 - [ ] **Générer la version réelle** si nécessaire
+
 - [ ] **Envoyer par LRAR** au Tribunal Judiciaire de Foix
+
 - [ ] **Consigner le n° LRAR** dans STATUS.md et TODO.md
 
 **Échéance:** **12 juillet 2026**
@@ -114,9 +148,13 @@ type: rapport
 
 **Actions requises:**
 - [ ] **Trouver un huissier** spécialisé en constats (priorité absolue)
+
 - [ ] **Préparer la requête** (document n°33 déjà prêt)
+
 - [ ] **Fixer rendez-vous** pour constat sur place
+
 - [ ] **Vérifier la vidéosurveillance** (si encore disponible)
+
 - [ ] **Obtenir le procès-verbal détaillé**
 
 **Échéance:** **Avant le 15 juillet 2026**
@@ -127,11 +165,14 @@ type: rapport
 
 **Actions requises:**
 - [ ] **Obtenir les coordonnées** des 3 témoins:
+
   - Client présent lors de l'accident
   - Pompier/SAMU intervenu  
   - Employé du salon
 - [ ] **Envoyer les attestations Cerfa** (documents 22, 23, 24)
+
 - [ ] **Obtenir les signatures** (électronique ou papier)
+
 - [ ] **Intégrer au dossier**
 
 **Échéance:** **15 juillet 2026**
@@ -141,8 +182,11 @@ type: rapport
 
 **Actions requises:**
 - [ ] **Obtenir email/téléphone** du Dr DJERBI
+
 - [ ] **Envoyer la relance** (document 25)
+
 - [ ] **Suivre la réponse** et obtenir le certificat
+
 - [ ] **Intégrer au dossier médical**
 
 **Échéance:** **17 juillet 2026**
@@ -154,8 +198,11 @@ type: rapport
 
 **Actions requises:**
 - [ ] **Rechercher un avocat** spécialisé en droit des victimes
+
 - [ ] **Transmettre le dossier complet** (y compris annexes jurisprudentielles)
+
 - [ ] **Finaliser les assignations** avec intégration de la jurisprudence
+
 - [ ] **Préparer les conclusions** pour les audiences
 
 **Échéance:** **25 juillet 2026**
@@ -165,8 +212,11 @@ type: rapport
 
 **Actions requises:**
 - [ ] **Contacter le greffe** du TJ Foix
+
 - [ ] **Fixer l'audience référé-provision** (Art. 835 CPC)
+
 - [ ] **Fixer l'audience Art. 145 CPC** (communication assurance)
+
 - [ ] **Notifier les dates** à toutes les parties
 
 **Échéance:** **31 juillet 2026**
@@ -176,8 +226,11 @@ type: rapport
 
 **Actions requises:**
 - [ ] **Relancer l'Inspection du Travail** (si pas de réponse)
+
 - [ ] **Relancer le CODAF** (si pas de réponse)
+
 - [ ] **Relancer l'URSSAF** (si pas de réponse)
+
 - [ ] **Suivre le courrier à la Préfecture**
 
 **Échéance:** **31 juillet 2026**
@@ -187,7 +240,9 @@ type: rapport
 
 **Actions requises:**
 - [ ] **Finaliser le dossier CERFA n°16160*01**
+
 - [ ] **Préparer la demande FGTI**
+
 - [ ] **Rassembler les preuves** d'absence d'assurance
 
 **Échéance:** **31 juillet 2026**
@@ -219,13 +274,17 @@ L'intégration des 3 décisions clés apporte une solide fondation juridique au 
 **Structure recommandée pour les conclusions:**
 
 1. **Introduction** - Rappel des faits et procédure
+
 2. **Responsabilité de la SAS** (Décision 1965)
+
    - Obligation de sécurité des professionnels
    - Manquement caractérisé (vasque cassée non signalée)
 3. **Responsabilité des dirigeants** (Décision 2012)
+
    - Faute détachable des fonctions
    - Sous-capitalisation (200€) et insolvabilité
 4. **Subrogation et assurance** (Décision 1994)
+
    - Principe de subrogation légale
    - Nécessité de l'Art. 145 CPC pour identifier l'assureur
 5. **Conclusion** - Demande de provision et expertise médicale
@@ -234,12 +293,16 @@ L'intégration des 3 décisions clés apporte une solide fondation juridique au 
 
 **Assignation en référé-provision:**
 - Section "A. Jurisprudence Pertinente" déjà intégrée
+
 - Références complètes avec liens Légifrance
+
 - Analyse de pertinence pour chaque décision
 
 **Annexes disponibles:**
 - Texte intégral des 3 décisions
+
 - Résumé et analyse juridique
+
 - Format professionnel pour présentation au tribunal
 
 ## V — Risques et Mitigations
@@ -258,27 +321,33 @@ L'intégration des 3 décisions clés apporte une solide fondation juridique au 
 ### V.2 — Stratégies de Mitigation Mises en Place
 
 1. **🔴 Constat d'huissier urgent** (priorité 1)
+
    - Sécurise l'état des lieux et la vidéosurveillance
    - Établit un procès-verbal officiel
 
 2. **🔴 Stratégie FGTI/CIVI parallèle** (priorité 2)
+
    - Dossier prêt à déposer en cas d'insolvabilité
    - Solution de secours pour l'indemnisation
 
 3. **🔴 Assignation Art. 145 CPC** (priorité 3)
+
    - Force la communication de la police d'assurance
    - Permet l'action directe contre l'assureur
 
 4. **🟠 Multiplication des voies** (en cours)
+
    - Civil (référé-provision, Art. 145)
    - Pénal (plainte, partie civile)
    - Administratif (mairie, préfecture, inspection)
 
 5. **🟠 Preuves testimoniales** (en cours)
+
    - 3 attestations en préparation
    - Renforce la crédibilité du dossier
 
 6. **🟢 Intégration jurisprudentielle** (complétée ✅)
+
    - 3 décisions clés intégrées
    - Argumentation juridique solide
    - Annexes professionnelles disponibles
@@ -307,64 +376,92 @@ gantt
 
 #### VI.1.a — Semaine 28 (11-15 juillet 2026)
 - **12/07:** Envoi document 35 (priorité absolue)
+
 - **12-14/07:** Recherche et mandat d'huissier
+
 - **14-15/07:** Constat d'huissier réalisé
+
 - **15/07:** Attestations témoins envoyées
+
 - **15-17/07:** Relance Dr DJERBI
 
 #### VI.1.b — Semaine 29 (18-22 juillet 2026)
 - **18-22/07:** Recherche et contact avocat
+
 - **22/07:** Transmission du dossier complet à l'avocat
+
 - **22-25/07:** Finalisation des assignations
 
 #### VI.1.c — Semaine 30-31 (25-31 juillet 2026)
 - **25-28/07:** Fixation des dates d'audience
+
 - **28-31/07:** Préparation des conclusions
+
 - **31/07:** Relances administratives finalisées
 
 #### VI.1.d — Août 2026
 - **01-15/08:** Préparation finale avant audiences
+
 - **15-31/08:** Participation aux audiences
+
 - **31/08:** Évaluation des premières décisions
 
 ## VII — Recommandations Stratégiques
 
 ### VII.1 — Court Terme (11-15 juillet)
 1. **Priorité absolue au document 35** - Envoyer sans délai
+
 2. **Huissier urgent** - Sécuriser les preuves avant disparition
+
 3. **Témoins** - Obtenir les attestations signées rapidement
+
 4. **Dr DJERBI** - Relancer pour le certificat de consolidation
 
 ### VII.2 — Moyen Terme (18-31 juillet)
 1. **Avocat** - Professionnaliser la représentation
+
 2. **Audiences** - Fixer les dates et préparer les conclusions
+
 3. **Administratif** - Maintenir la pression sur tous les fronts
+
 4. **FGTI/CIVI** - Finaliser la stratégie de secours
 
 ### VII.3 — Long Terme (Août+)
 1. **Audiences** - Assister et obtenir les premières décisions
+
 2. **Expertise** - Lancer l'expertise médicale si ordonnance obtenue
+
 3. **Suivi** - Adapter la stratégie en fonction des décisions
+
 4. **UMJ Purpan** - Préparer l'évaluation médico-légale
 
 ## VIII — Indicateurs de Succès
 
 ### VIII.1 — Court Terme (15 juillet)
 - ✅ Document 35 envoyé et accusé de réception obtenu
+
 - ✅ Constat d'huissier réalisé et procès-verbal en main
+
 - ✅ 3 attestations de témoins signées et intégrées
+
 - ✅ Relance Dr DJERBI envoyée
 
 ### VIII.2 — Moyen Terme (31 juillet)
 - ✅ Avocat mandaté et assignations finalisées
+
 - ✅ Dates d'audience fixées pour référé et Art. 145
+
 - ✅ Conclusions préparées avec intégration jurisprudentielle
+
 - ✅ Relances administratives effectuées
 
 ### VIII.3 — Long Terme (31 août)
 - ✅ Audiences tenues et premières décisions obtenues
+
 - ✅ Expertise médicale lancée si ordonnance obtenue
+
 - ✅ Stratégie adaptée en fonction des décisions
+
 - ✅ Dossier FGTI/CIVI prêt si nécessaire
 
 ## IX — Conclusion
@@ -374,22 +471,31 @@ La phase actuelle marque un tournant décisif dans le dossier. L'envoi de l'emai
 **L'intégration jurisprudentielle complète** constitue un atout majeur, renforçant significativement la solidité du dossier sur le plan juridique. Les trois décisions intégrées couvrent tous les aspects clés de l'affaire:
 
 1. **Responsabilité professionnelle** (1965) - Fondement de la négligence
+
 2. **Subrogation** (1994) - Mécanisme d'indemnisation
+
 3. **Responsabilité des associés** (2012) - Extension aux dirigeants
 
 **Priorités absolues pour les 5 prochains jours:**
 1. **Envoyer le document 35** avec les références jurisprudentielles
+
 2. **Mandater un huissier** pour sécuriser les preuves matérielles
+
 3. **Obtenir les attestations** de témoins
+
 4. **Relancer le Dr DJERBI** pour le certificat de consolidation
+
 5. **Contacter un avocat** pour professionnaliser la représentation
 
 **Risque principal:** La disparition des preuves matérielles et l'insolvabilité de la SAS. La stratégie mise en place (constat d'huissier urgent + FGTI/CIVI + intégration jurisprudentielle) permet de mitiger efficacement ces risques.
 
 **Prochaine étape:** Après envoi du document 35 et réalisation du constat d'huissier, une révision complète du plan sera nécessaire pour adapter la stratégie en fonction:
 - Des réponses (ou absence de réponse) de la mairie de Foix
+
 - Des résultats du constat d'huissier
+
 - De l'obtention des attestations de témoins
+
 - Des premières réactions du Tribunal Judiciaire
 
 **Statut final:** ✅ Phase administrative terminée | 🚀 Phase judiciaire active lancée | 📅 Prochaine révision: 15/07/2026

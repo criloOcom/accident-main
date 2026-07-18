@@ -244,7 +244,9 @@ VAGUE 3 — 14 juillet
 
 Certains courriers en LRAR pourraient être envoyés **par email en copie** pour gagner du temps :
 - **20 Police** : LRAR + email impératif (l'email arrive en 10 min, la LRAR en 3 jours — critère pour les vidéos)
+
 - **11 INPI** : LRAR seule (l'INPI accepte les courriers papier avec accusé)
+
 - **19 FGTI** : LRAR + email recommandé (double voie)
 
 ### IV.3 — 4.3 Calendrier des délais légaux
@@ -262,11 +264,17 @@ Certains courriers en LRAR pourraient être envoyés **par email en copie** pour
 ### V.1 — Résumé des modifications proposées
 
 1. **Police (20) en URGENCE ABSOLUE** — seule chance de sauver les vidéos
+
 2. **Relance Dr DJERBI (25) en urgence** — certificat de consolidation indispensable
+
 3. **INPI (11, 31) et TC (30) en priorité** — bloquer la disparition de la SAS
+
 4. **Inspection du Travail (09) avant URSSAF (12)** — rapport directement utile au juge
+
 5. **TJ (35) en Vague 1** — nourrir l'enquête pénale déjà ouverte
+
 6. **SDIS (18) supprimé** — redondance avec Préfecture, Mairie, Conseil Départemental
+
 7. **CPAM (21) maintenu en Vague 2** — suivi normal du dossier RCT
 
 ### V.2 — Risque principal

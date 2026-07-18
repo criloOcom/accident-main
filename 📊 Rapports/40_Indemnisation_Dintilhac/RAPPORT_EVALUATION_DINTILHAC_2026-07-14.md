@@ -31,17 +31,25 @@ L'évaluation des préjudices corporels subis par **[La Victime]** repose sur la
 ### I.1 — Préjudices Patrimoniaux
 
 - **PGPA (Pertes de Gains Professionnels Actuels) :** La perte de revenus de 1 380 € (sur 56 jours, calcul au prorata strict sur un revenu net de 750 €/mois) est juridiquement la plus exacte (estimation Glose).
+
 - **IP (Incidence Professionnelle) :** L'évaluation à hauteur de 30 000 € via la méthode de capitalisation (BIBAL : 9 000 € × 12% × 27,5) est extrêmement robuste. La Cour de cassation consacre l'incidence professionnelle comme un préjudice distinct, indemnisant la dévalorisation sur le marché du travail et la pénibilité accrue (Cass. 2e civ., 2 avril 2026, n° 24-20.972) — À VÉRIFIER.
+
 - **DEP (Dévalorisation Professionnelle Future) :** Evaluée à 3 000 €, elle s'intègre généralement dans l'incidence professionnelle. Pour éviter le risque de double indemnisation, ce poste devra être articulé prudemment avec l'IP ou les PGPF (Pertes de Gains Professionnels Futurs).
+
 - **DSA (Dépenses de Santé Actuelles) & DSF (Dépenses de Santé Futures) :** Présentes (frais SOS Main de 790,23 € en J+12, kinésithérapie).
+
 - **Frais Divers / ATP (Assistance Tierce Personne) :** Sous-évalués dans les premiers jets (2 000 €), l'ajustement à 3 000 € pour frais divers (et 2 000 € en ATP ponctuelle) est plus conforme à la réalité (déplacements, soins, besoin d'aide temporaire).
 
 ### I.2 — Préjudices Extra-Patrimoniaux
 
 - **DFT (Déficit Fonctionnel Temporaire) :** 1 400 € pour 56 jours à 25 €/jour (fourchette médiane Barème Mornet 2024). L'évaluation est inattaquable.
+
 - **DFP (Déficit Fonctionnel Permanent) :** L'évaluation externe préconise un taux de 10% (prudent, 20 000 €) à 15% (médian, 30 000 €) avec une valeur du point Mornet 2024 fixée à 2 000 € / point. C'est parfaitement justifié. L'évaluation initiale à 12% pour 31 200 € utilisait une valeur du point de 2 600 €, ce qui se situe dans la fourchette Mornet pour une victime de 44 ans. La provision conservatoire à 10% (25 000 €) est la plus solide avant consolidation.
+
 - **SE (Souffrances Endurées) :** Evaluées initialement à 24 000 € (4/7). Ce montant est très élevé (fourchette haute). L'avis externe retient plutôt 12 000 € à 15 000 € (3,5 à 4/7). La réévaluation à 15 000 € est nettement plus défendable face à un assureur ou au FGTI/CIVI.
+
 - **Préjudice d'Agrément :** Evalué à 5 000 €. La Cour de cassation exige seulement la démonstration d'une *limitation* (ou difficulté accrue) de la pratique d'une activité spécifique, et non plus une impossibilité absolue (Cass. 2e civ., 29 mars 2018, n° 17-14.499). La gêne pour jouer de la guitare et pour le codage informatique de loisir justifie ce poste.
+
 - **PEP (Préjudice Esthétique Permanent) :** Evalué à 3 000 €. Conforme aux barèmes pour une cicatrice de 8,5 cm (environ 1,5 à 2/7).
 
 <hr><hr>
@@ -50,8 +58,11 @@ L'évaluation des préjudices corporels subis par **[La Victime]** repose sur la
 
 Quatre évaluations coexistent au dossier :
 1. **Évaluation initiale optimiste :** ~105 000 € à 109 500 € (surévaluation des SE à 24k€ et du taux de DFP à 12%).
+
 2. **Mémoire Glose (conservateur) :** ~45 000 € (sous-évaluation sévère de l'IP).
+
 3. **Compromis recommandé :** ~85 000 € à 90 000 €.
+
 4. **Avis externe Dintilhac (13 juillet 2026) :** 126 000 € (prudent, DFP 10%) à 161 500 € (médian, DFP 15%).
 
 **Recommandation juridique :**
@@ -82,7 +93,9 @@ Au civil (art. 232 CPC) ou au pénal si les UMJ sont saisies (art. 263 C. pr. p�
 **Argumentaire contre une expertise adverse basse :**
 Si le médecin d'assurance ou l'expert tend à minimiser le DFP (par ex. <5%) ou nier l'incidence professionnelle, la défense s'appuiera sur :
 - **L'incapacité préhensile fine :** La dextérité est l'outil exclusif de travail (clavier/souris) de **[La Victime]**.
+
 - **La jurisprudence :** Rappeler la consécration par la Cour de cassation de l'Incidence Professionnelle pour perte de chance et pénibilité accrue indépendamment de la simple perte de revenus (Cass. 2e civ., 2 avril 2026, n° 24-20.972) — À VÉRIFIER.
+
 - **Le Préjudice d'Agrément :** Bien circonscrire que le développement logiciel *hors activité rémunérée* constitue un loisir régulier désormais entravé, fondé sur la jurisprudence (Cass. 2e civ., 29 mars 2018, n° 17-14.499).
 
 L'audit démontre que l'architecture indemnitaire du dossier (basée sur l'avis du 13 juillet 2026) est rigoureusement conforme à la doctrine Dintilhac et prête à soutenir l'épreuve judiciaire.
