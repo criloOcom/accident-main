@@ -1,17 +1,10 @@
 # Index — ✉️ Courriers/🚨 Signalements (Versions Réelles)
 
 - [✉️🚨 CODAF.md](✉️🚨 CODAF.md)
-
 - [✉️🚨 Conseil Departemental.md](✉️🚨 Conseil Departemental.md)
-
 - [✉️🚨 INPI.md](✉️🚨 INPI.md)
-
 - [✉️🚨 Inspection Travail.md](✉️🚨 Inspection Travail.md)
-
 - [✉️🚨 Prefecture.md](✉️🚨 Prefecture.md)
-
 - [✉️🚨 SDIS.md](✉️🚨 SDIS.md)
-
 - [✉️🚨 SIE.md](✉️🚨 SIE.md)
-
 - [✉️🚨 URSSAF.md](✉️🚨 URSSAF.md)

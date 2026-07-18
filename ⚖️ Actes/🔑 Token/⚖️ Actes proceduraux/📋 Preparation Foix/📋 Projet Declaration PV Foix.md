@@ -48,7 +48,7 @@ Je demande donc aujourd'hui que ma plainte initiale du 2 juin 2026 soit complét
 
 Je remets aux enquêteurs le courriel du bailleur du 16 juillet 2026 avec ses pièces jointes, l'attestation RNE de la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), une note de constatations sur ma visite des lieux, ainsi que le relevé détaillé de mes courriers recommandés.
 
-**Précision complémentaire :** Le **18 juillet 2026 à 16h00**, j'ai contacté par SMS WhatsApp le coiffeur présent le jour des faits, [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md] ([**[Le Téléphone du Préposé]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)), pour l'informer de la procédure en cours et lui proposer de remplir une attestation de témoin (CERFA 11527\*03 joint). À ce jour, je n'ai reçu aucun retour. Je verse la copie d'écran de cet échange au dossier. »
+**Précision complémentaire :** Le **18 juillet 2026 à 16h00**, j'ai contacté par SMS WhatsApp le coiffeur présent le jour des faits, [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) ([**[Le Téléphone du Préposé]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)), pour l'informer de la procédure en cours et lui proposer de remplir une attestation de témoin (CERFA 11527\*03 joint). À ce jour, je n'ai reçu aucun retour. Je verse la copie d'écran de cet échange au dossier. »
 
 —
 
