@@ -123,7 +123,9 @@ Sébastien doit formuler une demande écrite à Wero s'articulant sur deux volet
 
 **Valeur probatoire :**
 - Ce SMS démontre la diligence de la victime pour recueillir le témoignage direct du coiffeur présent.
+
 - L'absence de réponse pourra être évoquée devant le juge comme un élément d'appréciation.
+
 - Capture d'écran du message envoyé et du CERFA joint (= nouvelle pièce du dossier).
 
 ## 5. Commentaires juridiques par pièce (bordereau)

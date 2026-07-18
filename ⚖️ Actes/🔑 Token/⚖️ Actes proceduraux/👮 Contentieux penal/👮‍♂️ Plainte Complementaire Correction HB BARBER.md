@@ -161,7 +161,9 @@ Le **18 juillet 2026 à 16h00**, j'ai adressé un message WhatsApp au numéro **
 
 Ce message l'informait :
 - de son statut de témoin potentiel dans la présente procédure,
+
 - de l'obligation légale de dire la vérité en cas d'audition par la police ou la justice (**faux témoignage = infraction pénale**),
+
 - et lui proposait de remplir le CERFA ci-joint pour attester spontanément de ce qu'il a vu (la coupe, l'accident, l'appel au SAMU, etc.).
 
 **Au jour du présent dépôt, aucun retour n'a été reçu.**
