@@ -62,7 +62,7 @@ Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certit
 
 **Prise en charge médicale :** Je me transporte en urgence au **Centre Ariégeois de Soins Immédiats de [La Ville de l'Accident]** ([Dr Julie JARDON](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md), RPPS 10005156871). Actes : lavage, désinfection, exploration sous anesthésie locale. Diagnostic : plaie palmaire droite profonde et compliquée. Orientation : transfert vers SOS Main – [Clinique de l'Union](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md) pour le lendemain à jeun.
 
-**Retour au salon :** Après les soins, je retourne au salon, main bandée, pour informer du pronostic chirurgical. Le coiffeur procède alors au **remboursement de 15 €** via Wero (réf. crédit IPR000297029234, depuis le compte « Ayoub BENNOURINE »). Ce remboursement spontané matérialise la **reconnaissance de la matérialité de l'accident** par l'exploitant.
+**Retour au salon :** Après les soins, je retourne au salon, main bandée, pour informer du pronostic chirurgical. Le coiffeur procède alors au **remboursement de 15 €** via Wero (réf. crédit [IPR000297029234] , depuis le compte « Ayoub BENNOURINE »). Ce remboursement spontané matérialise la **reconnaissance de la matérialité de l'accident** par l'exploitant.
 
 ### 30 mai 2026 — Intervention chirurgicale (J+1)
 

@@ -25,6 +25,7 @@ Dossier reorganisé le 15 juillet 2026 en 9 sous-ensembles thématiques.
 | [`60_Audits_Qualite/`](60_Audits_Qualite/) | Audits internes, qualité, cohérence, vérifications | **Toi / Agents** — outils internes |
 | [`70_Technique_Repo/`](70_Technique_Repo/) | Journal de bord technique : migration, sécurité, stabilité | **Toi / Agents** — historique technique |
 | [`80_Recherches_Donnees/`](80_Recherches_Donnees/) | Données brutes : JSON de recherche, résultats d'audit | **Toi** — back-office recherche |
+| [`85_Coherence_2026-07-15/`](85_Coherence_2026-07-15/) | Audits de cohérence et rapports multi-angle de cohérence | **Toi / Agents** — conformité interne |
 | [`90_TODO_Prompts/`](90_TODO_Prompts/) | Prompts, notes de travail, atelier IA | **Toi** — matériel de travail |
 
 - [85_RESTANT_A_FAIRE_2026-07-15](85_RESTANT_A_FAIRE_2026-07-15.md)
