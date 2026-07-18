@@ -21,7 +21,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Memo Axes Juridiques Av
 | **C. pén. art. 121-3** | Principe de la responsabilité pénale — faute simple suffit (imprudence, négligence, manquement obligation sécurité) |
 | **C. pén. art. 223-1** | Mise en danger délibérée d'autrui — bac déjà brisé maintenu en service dans un ERP (condition : violation délibérée d'une obligation de sécurité) |
 
-**Cibles :** [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : **[Le Téléphone du Préposé]**)(../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md) (manœuvre dangereuse) + [**[Le Nouvel Exploitant (HB BARBER)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (matériel dangereux maintenu en service)
+**Cibles :** [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)) (manœuvre dangereuse) + [**[Le Nouvel Exploitant (HB BARBER)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (matériel dangereux maintenu en service)
 
 <hr><hr>
 

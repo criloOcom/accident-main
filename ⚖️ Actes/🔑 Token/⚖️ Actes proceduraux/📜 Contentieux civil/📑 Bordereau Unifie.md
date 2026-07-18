@@ -50,7 +50,7 @@ jx: J+39
 ## II — GROUPE B — PREUVES FINANCIÈRES
 ### PIÈCE N° 6
 
-- [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — Paiement et remboursement Wero : Paiement de 15 € pour la prestation de coiffure ([**[N° Transaction Wero]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), suivi d'un remboursement immédiat des 15 € par [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : **[Le Téléphone du Préposé]**)(../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md) (preuve de présence matérielle dans les lieux et de relation contractuelle de prestation).
+- [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — Paiement et remboursement Wero : Paiement de 15 € pour la prestation de coiffure ([**[N° Transaction Wero]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), suivi d'un remboursement immédiat des 15 € par [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)) (preuve de présence matérielle dans les lieux et de relation contractuelle de prestation).
 
 ### PIÈCE N° 7
 
