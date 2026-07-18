@@ -221,8 +221,6 @@ Vu les pieces versees aux debats,
 4. **CONDAMNER IN SOLIDUM** la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) a payer a [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) la somme de [**[Finance Article 700]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700.md) sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
 
 > *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
-> [Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) <br>
-> **Code de procédure pénale > Paragraphe 1 : Dispositions générales — abrogation différée.[^10]**
 
 5. **FIXER** la provision definitives sur dommages et interets a hauteur du prejudice extra-patrimonial constate par l'expert (49 231 €), et **SE RESERVER** la liquidation definitive de l'astreinte et des postes patrimoniaux (PGPF, DSA) sur production des justificatifs CPAM.
 
@@ -233,33 +231,33 @@ Fait a [**[La Ville de Residence de la Victime]**](../../../../%F0%9F%A7%A0%20Me
 
 ## BORDEREAU DE PIÈCES ANNEXÉES
 
-- **Pièce n°1 :** Procès-verbal de police n° [**[N° PV Police]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — dépôt de plainte pour blessures involontaires
+1. Procès-verbal de police n° [**[N° PV Police]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — dépôt de plainte pour blessures involontaires
 
-- **Pièce n°2 :** [Certificat médical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) de constatation des blessures rédigé par [**[Le Médecin en Urgence]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) ([**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
+2. [Certificat médical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) de constatation des blessures rédigé par [**[Le Médecin en Urgence]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) ([**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
 
-- **Pièce n°3 :** [Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie d'urgence (suture nerveuse et tendineuse) rédigé par [**[Le Chirurgien SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) ([**[J+1 Chirurgie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md))
+3. [Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie d'urgence (suture nerveuse et tendineuse) rédigé par [**[Le Chirurgien SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) ([**[J+1 Chirurgie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md))
 
-- **Pièce n°4 :** Certificats médicaux d'[arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 56 jours d'Incapacité Totale de Travail (ITT)
+4. Certificats médicaux d'[arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 56 jours d'Incapacité Totale de Travail (ITT)
 
-- **Pièce n°5 :** Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
+5. Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
 
-- **Pièce n°6 :** Preuves de l'opération de paiement Wero de [**[Finance Prestation Salon]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prestation-salon.md) ([**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)) démontrant la présence dans les lieux
+6. Preuves de l'opération de paiement Wero de [**[Finance Prestation Salon]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prestation-salon.md) ([**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)) démontrant la présence dans les lieux
 
-- **Pièce n°7 :** Facture de pharmacie post-opératoire ([**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
+7. Facture de pharmacie post-opératoire ([**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
 
-- **Pièce n°8 :** Facture de chirurgie SOS Main ([**[Finance Facture Chirurgie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-facture-chirurgie.md)) ([**[J+12 Facture]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md))
+8. Facture de chirurgie SOS Main ([**[Finance Facture Chirurgie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-facture-chirurgie.md)) ([**[J+12 Facture]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md))
 
-- **Pièce n°9 :** Dossier de Recours Contre Tiers (RCT) CPAM
+9. Dossier de Recours Contre Tiers (RCT) CPAM
 
-- **Pièce n°10 :** LRAR de mise en demeure adressée à [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) ([**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+10. LRAR de mise en demeure adressée à [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) ([**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
 
-- **Pièce n°11 :** LRAR de mise en demeure adressée à [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) ([**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+11. LRAR de mise en demeure adressée à [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) ([**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
 
-- **Pièce n°12 :** LRAR de mise en demeure adressée à [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) ([**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+12. LRAR de mise en demeure adressée à [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) ([**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
 
-- **Pièce n°13 :** LRAR adressée à [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) et son AR signé ([**[J+35 AR propriétaire]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-35-ar-proprietaire.md))
+13. LRAR adressée à [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) et son AR signé ([**[J+35 AR propriétaire]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-35-ar-proprietaire.md))
 
-- **Pièce n°14 :** Rapport d'expertise médicale judiciaire du 12 juin 2027 — consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure
+14. Rapport d'expertise médicale judiciaire du 12 juin 2027 — consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure
 <hr><hr>
 
 ## Sources Législation

@@ -383,25 +383,25 @@ Vu les pièces versées aux débats,
 
 ## VIII — BORDEREAU DES PIÈCES COMMUNIQUÉES
 
-- **Pièce n°1 :** Procès-verbal de police n° 2026/015967 (dépôt de plainte du 1er juin 2026)
+1. Procès-verbal de police n° 2026/015967 (dépôt de plainte du 1er juin 2026)
 
-- **Pièce n°2 :** Rapport d'expertise médicale du 29 mai 2027
+2. Rapport d'expertise médicale du 29 mai 2027
 
-- **Pièce n°3 :** Ordonnance de référé du [**[Date Ordonnance Référé]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) (provision 15 000 €)
+3. Ordonnance de référé du [**[Date Ordonnance Référé]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) (provision 15 000 €)
 
-- **Pièce n°4 :** Constitution de partie civile du [**[J+38 Date CPC]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)
+4. Constitution de partie civile du [**[J+38 Date CPC]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)
 
-- **Pièce n°5 :** Certificats médicaux et comptes rendus opératoires (SOS Main)
+5. Certificats médicaux et comptes rendus opératoires (SOS Main)
 
-- **Pièce n°6 :** Prescriptions, arrêts de travail et pièces de rééducation
+6. Prescriptions, arrêts de travail et pièces de rééducation
 
-- **Pièce n°7 :** Mises en demeure LRAR des [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
+7. Mises en demeure LRAR des [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
 
-- **Pièce n°8 :** Mise en demeure assureur RC du J+50
+8. Mise en demeure assureur RC du J+50
 
-- **Pièce n°9 :** Attestation de dépôt CPAM n° [**[N° Dossier CPAM]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#cpam)
+9. Attestation de dépôt CPAM n° [**[N° Dossier CPAM]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#cpam)
 
-- **Pièce n°10 :** Réquisitoire introductif du Parquet de Foix (J+47)
+10. Réquisitoire introductif du Parquet de Foix (J+47)
 
 <hr><hr>
 <sup>*Document à jour au [**[Date Dépôt Conclusions]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) — Simulation à vocation pédagogique.*</sup>

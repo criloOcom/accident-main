@@ -333,31 +333,31 @@ Pour [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 
-- **Pièce n°1 :** Procès-verbal de police n° [2026/015967](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (Police Nationale [Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)) — dépôt de plainte pour blessures involontaires
+1. Procès-verbal de police n° [2026/015967](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (Police Nationale [Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)) — dépôt de plainte pour blessures involontaires
 
-- **Pièce n°2 :** [Certificat médical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) constatant les blessures, rédigé par [Dr Julie JARDON](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) ([29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
+2. [Certificat médical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) constatant les blessures, rédigé par [Dr Julie JARDON](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) ([29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
 
-- **Pièce n°3 :** [Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par [Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) ([30 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md))
+3. [Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par [Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) ([30 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md))
 
-- **Pièce n°4 :** Certificats médicaux d'[arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 56 jours d'ITT
+4. Certificats médicaux d'[arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 56 jours d'ITT
 
-- **Pièce n°5 :** Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
+5. Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
 
-- **Pièce n°6 :** Preuves de l'opération de paiement Wero de [15,00 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prestation-salon.md) ([29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
+6. Preuves de l'opération de paiement Wero de [15,00 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prestation-salon.md) ([29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
 
-- **Pièce n°7 :** Facture de pharmacie post-opératoire ([29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
+7. Facture de pharmacie post-opératoire ([29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
 
-- **Pièce n°8 :** Facture de chirurgie SOS Main ([790,23 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-facture-chirurgie.md)) ([10 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md))
+8. Facture de chirurgie SOS Main ([790,23 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-facture-chirurgie.md)) ([10 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md))
 
-- **Pièce n°9 :** Dossier de Recours Contre Tiers (RCT) CPAM
+9. Dossier de Recours Contre Tiers (RCT) CPAM
 
-- **Pièce n°10 :** LRAR de mise en demeure adressée à [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ([29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+10. LRAR de mise en demeure adressée à [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ([29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
 
-- **Pièce n°11 :** LRAR de mise en demeure adressée à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) ([29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+11. LRAR de mise en demeure adressée à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) ([29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
 
-- **Pièce n°12 :** LRAR de mise en demeure adressée à [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) ([29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+12. LRAR de mise en demeure adressée à [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) ([29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
 
-- **Pièce n°13 :** LRAR adressée à [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) et son AR signé ([3 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-35-ar-proprietaire.md))
+13. LRAR adressée à [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) et son AR signé ([3 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-35-ar-proprietaire.md))
 <hr><hr>
 
 ## Sources Législation
