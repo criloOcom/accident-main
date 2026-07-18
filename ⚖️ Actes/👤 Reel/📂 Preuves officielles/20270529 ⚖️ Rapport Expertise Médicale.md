@@ -16,6 +16,8 @@ auteur: Simulation — Expert Judiciaire désigné
 reel_path: ../../👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md
 jx: J+365
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📂 Preuves Officielles](./README.md) › 20270529 ⚖️ Rapport Expertise Médicale*

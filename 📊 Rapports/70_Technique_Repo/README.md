@@ -25,6 +25,7 @@ Ce dossier contient l'historique des opérations techniques sur le dépôt.
 - [`RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md`](RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md) — Post email maire
 - [`RAPPORT_PREPARATION_PLAINTE_COMPLEMENTAIRE_20260711.md`](RAPPORT_PREPARATION_PLAINTE_COMPLEMENTAIRE_20260711.md) — Plainte complémentaire
 
+- [RAPPORT_SYNTHESE_GLOBALE_CHANTIER_2026-07-14](RAPPORT_SYNTHESE_GLOBALE_CHANTIER_2026-07-14.md)
 ## Ordre de lecture
 
 Utile en cas de besoin spécifique (reprise d'historique, debugging).

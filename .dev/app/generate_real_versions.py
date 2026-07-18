@@ -121,6 +121,25 @@ REVERSE_MAP = {
     "**[Finance Evaluation Initiale]**": "59 600 €",
     "**[Le Téléphone de la Victime]**": "06 30 51 67 75",
     "**[Le Téléphone du Préposé]**": "07 58 40 12 87",
+
+    # Identity tokens (ajout Phase 1c)
+    "**[Prénom de la Victime]**": "Sébastien",
+    "**[Code Postal de l'Accident]**": "09000",
+    "**[Date de naissance de la victime]**": "18 janvier 1982",
+    "**[Âge de la Victime]**": "44 ans",
+    "**[Age de la Victime]**": "44 ans",
+    "**[Capital Social de l'Exploitation]**": "200 €",
+
+    # Finance tokens (uniques — ajout Phase 1c, redondant pour les montants uniques déjà présents)
+    "**[Finance Evaluation Globale]**": "59 600 €",
+    "**[Finance Incidence Professionnelle]**": "30 000 €",
+    "**[Finance DFP]**": "25 000 €",
+    "**[Finance Préjudice Agrément]**": "5 000 €",
+    "**[Finance Article 700 Référé 145]**": "1 500 €",
+    "**[Finance PGPA]**": "1 380 €",
+    "**[Finance Facture Chirurgie]**": "790,23 €",
+    "**[Finance Astreinte 145]**": "150 €",
+    "**[Finance Prestation Salon]**": "15,00 €",
 }
 
 def replace_header_block(content):

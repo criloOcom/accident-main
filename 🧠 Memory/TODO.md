@@ -269,7 +269,7 @@ PHASE 5 — INSTANCE AU FOND (2027)
 
 ### PHASE 7B — BORDEREAU + JUSTIFICATION PROVISION + EMAILS TÉMOINS ✅ TERMINÉ
 
-- [`04_Bordereau_Audience.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/📑%20Bordereau%20Unifie.md) créé (25 pièces séquentielles)
+- [`04_Bordereau_Audience.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%93%91%20Bordereau%20Unifie.md) créé (25 pièces séquentielles)
 - Assignation 01 enrichie §D (justification provision 5 000 €)
 - Emails 25-28 créés (relance DJERBI + 3 attestations témoins)
 - Versions réelles générées, push effectué

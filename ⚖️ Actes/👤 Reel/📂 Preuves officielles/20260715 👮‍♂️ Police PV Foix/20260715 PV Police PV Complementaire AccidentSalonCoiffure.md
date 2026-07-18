@@ -15,6 +15,8 @@ reel_path: ../../../👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Po
   PV Police PV Complementaire AccidentSalonCoiffure.md
 auteur: La Victime
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📂 Preuves officielles](../README.md) › 20260715 PV Police PV Complementaire AccidentSalonCoiffure*
@@ -36,7 +38,7 @@ SERVICE LOCAL DE SECURITE D'INFRACTION
 PV n° 2026/015967/COMP
 
 VICTIME | Monsieur [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
-né le [**[Date de naissance de la victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md) à [Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-metropole-regionale.md), de nationalité FRANCAISE,
+né le [18 janvier 1982](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md) à [Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md), de nationalité FRANCAISE,
 Demeurant : [10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 Téléphone domicile : [06 30 51 67 75](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)
 Communication électronique demandée : OUI - E-mail : [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)

@@ -1,6 +1,6 @@
 ---
 title: "🗂️ Tokens — Fiches individuelles des tokens d'anonymisation"
-description: "74 fiches enrichies (57 identité + 17 financiers), une par token. Chaque fiche détaille l'identité, le contexte, la chronologie et les documents liés au token."
+description: "88 fiches enrichies (66 identité + 17 financiers + 5 HB BARBER), une par token. Chaque fiche détaille l'identité, le contexte, la chronologie et les documents liés au token."
 type: readme
 ---
 
@@ -11,7 +11,7 @@ type: readme
 
 # 🗂️ Tokens<br>Fiches individuelles
 
-Ce dossier contient **71 fiches individuelles** (55 identité + 16 financiers). Les fiches identité sont listées dans la `[TOKEN MAP.md](../TOKEN%20MAP.md)` ; les fiches financières sont documentées ci-dessous.
+Ce dossier contient **88 fiches individuelles** (66 identité + 17 financiers + 5 HB BARBER). Les fiches identité sont listées dans la `[TOKEN MAP.md](../TOKEN%20MAP.md)` ; les fiches financières sont documentées ci-dessous.
 
 Chaque fiche regroupe :
 - **Identité** : le token et la valeur réelle substituée
@@ -21,12 +21,13 @@ Chaque fiche regroupe :
 
 ## Liste des tokens
 
-### Personnes physiques (11)
+### Personnes physiques (12)
 
 | Token | Fichier |
-|---|---|
+|---|---|---|
 | `**[La Victime]**` | [token-victime-nom-complet.md](token-victime-nom-complet.md) |
 | `**[Le Président de l'Exploitation]**` | [token-exploitation-president-nom.md](token-exploitation-president-nom.md) |
+| `**[Le Président du Nouvel Exploitant]**` | [token-exploitation-hb-president-nom.md](token-exploitation-hb-president-nom.md) |
 | `**[La Directrice Générale de l'Exploitation]**` | [token-exploitation-dg-nom.md](token-exploitation-dg-nom.md) |
 | `**[Le Préposé de l'Exploitation]**` | [token-exploitation-prepose-nom.md](token-exploitation-prepose-nom.md) |
 | `**[Le Propriétaire des Murs]**` | [token-exploitation-bailleur-nom.md](token-exploitation-bailleur-nom.md) |
@@ -38,17 +39,19 @@ Chaque fiche regroupe :
 | `**[L'Adjoint au Maire de la Commune]**` | [token-mairie-adjoint-nom.md](token-mairie-adjoint-nom.md) |
 | `**[Prénom de la Victime]**` | [token-victime-prenom.md](token-victime-prenom.md) |
 
-### Personnes morales (2)
+### Personnes morales (4)
 
 | Token | Fichier |
-|---|---|
+|---|---|---|
 | `**[L'Exploitant du Commerce (La SAS)]**` | [token-exploitation-raison-sociale.md](token-exploitation-raison-sociale.md) |
+| `**[Le Nouvel Exploitant (HB BARBER)]**` | [token-exploitation-hb-raison-sociale.md](token-exploitation-hb-raison-sociale.md) |
+| `**[Assureur RC]**` | [token-assureur-rc.md](token-assureur-rc.md) |
 | `**[L'Établissement SOS Main]**` | [token-hopital-sosmain-nom.md](token-hopital-sosmain-nom.md) |
 
-### Données localisantes / identifiantes (14)
+### Données localisantes / identifiantes (22)
 
 | Token | Fichier |
-|---|---|
+|---|---|---|
 | `**[L'Adresse de la Victime]**` | [token-victime-adresse.md](token-victime-adresse.md) |
 | `**[L'Adresse de l'Exploitation]**` | [token-exploitation-adresse.md](token-exploitation-adresse.md) |
 | `**[L'Adresse du Président]**` | [token-exploitation-president-adresse.md](token-exploitation-president-adresse.md) |
@@ -64,12 +67,18 @@ Chaque fiche regroupe :
 | `**[L'Identifiant Professionnel de la Victime]**` | [token-victime-id-professionnel.md](token-victime-id-professionnel.md) |
 | `**[L'Identifiant de l'Exploitation]**` | [token-exploitation-id.md](token-exploitation-id.md) |
 | `**[SIREN de l'Exploitation]**` | [token-exploitation-siren.md](token-exploitation-siren.md) |
+| `**[SIREN du Nouvel Exploitant]**` | [token-exploitation-hb-siren.md](token-exploitation-hb-siren.md) |
+| `**[Identifiant du Nouvel Exploitant]**` | [token-exploitation-hb-id.md](token-exploitation-hb-id.md) |
+| `**[SIRET de l'Exploitation]**` | [token-exploitation-siret.md](token-exploitation-siret.md) |
+| `**[Nom commercial de l'exploitation]**` | [token-exploitation-nom-commercial.md](token-exploitation-nom-commercial.md) |
+| `N° Dossier CPAM` | [token-cpam-dossier-numero.md](token-cpam-dossier-numero.md) |
+| `N° PV Police` | [token-pv-police-numero.md](token-pv-police-numero.md) |
 | `**[Âge de la Victime]**` | [token-victime-age.md](token-victime-age.md) |
 
-### Personnes morales (suite) (2)
+### Coordonnées email (2)
 
 | Token | Fichier |
-|---|---|
+|---|---|---|
 | `**[L'Email de l'Adjoint au Maire]**` | [token-mairie-adjoint-email.md](token-mairie-adjoint-email.md) |
 | `**[L'Email du Secrétariat de la Mairie]**` | [token-mairie-secretariat-email.md](token-mairie-secretariat-email.md) |
 
@@ -80,7 +89,7 @@ Chaque fiche regroupe :
 | `**[DATE RELANCE V2]**` | [token-accident-date-relance-v2.md](token-accident-date-relance-v2.md) |
 | `**[DATE REOUVERTURE BOUTIQUE]**` | [token-exploitation-date-reouverture.md](token-exploitation-date-reouverture.md) |
 
-### Tokens événementiels (24)
+### Tokens événementiels (26)
 
 | Token | Fichier |
 |---|---|
@@ -107,12 +116,14 @@ Chaque fiche regroupe :
 | `**[J+41 Courrier SIE URSSAF]**` | [token-j-41-courrier-sie-urssaf.md](token-j-41-courrier-sie-urssaf.md) |
 | `**[J+41 Requête Constat 145]**` | [token-j-41-requete-constat-145.md](token-j-41-requete-constat-145.md) |
 | `**[J+46 Échéance amiable]**` | [token-j-46-echeance-amiable.md](token-j-46-echeance-amiable.md) |
+| `**[J+54]**` | [token-j-54.md](token-j-54.md) |
 | `**[J+55 Fin d'ITT]**` | [token-j-55-fin-d-itt.md](token-j-55-fin-d-itt.md) |
+| `**[J+63 Assignation 145]**` | [token-j-63-assignation-145.md](token-j-63-assignation-145.md) |
 | `**[J+167 Expertise UMJ]**` | [token-j-167-expertise-umj.md](token-j-167-expertise-umj.md) |
 
 ---
 
-### Tokens financiers (16)
+### Tokens financiers (17)
 
 | Token | Fichier | Valeur |
 |-------|---------|--------|
@@ -132,6 +143,7 @@ Chaque fiche regroupe :
 | `**[Finance Facture Chirurgie]**` | [token-finance-facture-chirurgie.md](token-finance-facture-chirurgie.md) | 790,23 € |
 | `**[Finance Prestation Salon]**` | [token-finance-prestation-salon.md](token-finance-prestation-salon.md) | 15,00 € |
 | `**[Finance Evaluation Initiale]**` | [token-finance-evaluation-initiale.md](token-finance-evaluation-initiale.md) | 59 600 € |
+| `**[Capital du Nouvel Exploitant]**` | [token-exploitation-hb-capital-social.md](token-exploitation-hb-capital-social.md) | 1 000 € |
 | `**[Capital Social de l'Exploitation]**` | [token-exploitation-capital-social.md](token-exploitation-capital-social.md) | 200 € |
 
 ---

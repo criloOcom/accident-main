@@ -21,5 +21,6 @@ Démarches connexes à la procédure principale : mutualisation fiscale et socia
 | [✉️📝 CADA Saisine Modele.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20CADA%20Saisine%20Modele.md) | Modèle de saisine CADA |
 | [✉️📝 CADA Saisine Formulaire.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20CADA%20Saisine%20Formulaire.md) | Formulaire de saisine CADA |
 | [📝 Guide Demande AJ.md](%F0%9F%93%9D%20Guide%20Demande%20AJ.md) | Guide pour la demande d'Aide Juridictionnelle |
+| [📝 Demande AJ Totale.md](%F0%9F%93%9D%20Demande%20AJ%20Totale.md) | Demande d'Aide Juridictionnelle Totale (formulaire Cerfa rempli) |
 
 **Cas limite** : La *Mutualisation Fiscale Sociale* (J+41) est à cheval entre le contentieux fiscal et la procédure administrative → classée ici comme démarche connexe.

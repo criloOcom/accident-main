@@ -12,6 +12,8 @@ destinataire: La Victime
 auteur: L'Avocat de la Victime
 reel_path: ../../👤 Reel/📚 Analyses juridiques/Note Conservation Preuves Numeriques.md
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › Note Conservation Preuves Numeriques*
 <hr>

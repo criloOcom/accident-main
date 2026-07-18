@@ -17,6 +17,8 @@ reel_path: ../../../👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 SAS Diri
 source: local
 jx: J+40
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🔄 Relances](./README.md) › ✉️🔄 SAS Dirigeants*

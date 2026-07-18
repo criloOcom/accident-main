@@ -12,6 +12,8 @@ source: drive
 drive_id: 1U2TD8Ftkjmtx2f6THDKNC3-1KXFH07KolM9nAN1TJXw
 jx: J+32
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📋s](./README.md) › 📋 Pompier SAMU*

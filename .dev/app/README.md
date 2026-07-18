@@ -32,3 +32,4 @@ Ce dossier contient les scripts fonctionnels utilisés pour le traitement, l'ano
 - Ne jamais exécuter de web scraping direct (toujours utiliser MCP).
 - Conserver la standardisation du shebang `#!/usr/bin/env python3` sur tous les scripts principaux.
 - Lors de l'ajout d'un nouveau script, documenter ici.
+- [resolve_reel_tokens_report](resolve_reel_tokens_report.md)

@@ -3,11 +3,13 @@ title: "Erratum — Correction de l'identité de la société exploitante"
 description: "Document d'erratum formel — Correction de la désignation de la société défenderesse : remplacement de [L'Exploitant du Commerce (La SAS)] par [Le Nouvel Exploitant (HB BARBER)] dans l'ensemble des actes et démarches"
 type: erratum
 date: 2026-07-17
-statut: preparation
+statut: final
 destinataire: "Destinataires des actes et autorités judiciaires"
 auteur: La Victime
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 📋 Preparation Foix › 📜 Erratum Correction Identité Société*

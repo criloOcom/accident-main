@@ -8,6 +8,8 @@ destinataire: Commissariat de Police de [La Ville de l'Accident]
 auteur: La Victime
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Note Personnelle Commissariat Foix.md
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 📋 Preparation Foix › 📋 Note Personnelle Commissariat [La Ville de l'Accident]*
@@ -18,7 +20,7 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 N
 
 **Victime :** [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), né le 18/01/1982 à [**[La Métropole Régionale]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)
 **Domicilié :** 10 avenue de Purpan, [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
-**Tél :** 06 30 51 67 75
+**Tél :** **[Le Téléphone de la Victime]**
 **Email :** [**[L'Email de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
 **Objet :** Compléter et corriger ma plainte initiale ([ ... ] du 2 juin 2026, [**[La Métropole Régionale]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) Rive Droite) concernant l'accident du 29 mai 2026 survenu au salon de coiffure situé 22 rue Lafaurie, 09000 [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
@@ -48,7 +50,7 @@ Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certit
 
 ### 29 mai 2026 — L'accident (J+0)
 
-**Matin/après-midi :** Je me rends au salon de coiffure situé au **22 rue Lafaurie, 09000 [La Ville de l'Accident]**, pour une coupe de cheveux. Je paie **15 €** via l'application bancaire **Wero** au profit du compte « AYOUB B » (réf. débit IPA000296968836). Je quitte les lieux.
+**Matin/après-midi :** Je me rends au salon de coiffure situé au **22 rue Lafaurie, 09000 [La Ville de l'Accident]**, pour une coupe de cheveux. Je paie **15 €** via l'application bancaire **Wero** au profit du compte « **[Le Préposé de l'Exploitation]** » (réf. débit IPA000296968836). Je quitte les lieux.
 
 **Moins de 5 minutes après :** Je retourne au salon pour demander une retouche. En entrant, le coiffeur (identifié comme [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : **[Le Téléphone du Préposé]**)(../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)) est **monté physiquement sur la structure d'un bac à shampoing** (meuble lourd surmonté d'une vasque en céramique). En descendant, son poids provoque le **basculement complet** de la structure vers le sol.
 
@@ -60,7 +62,7 @@ Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certit
 
 **Prise en charge médicale :** Je me transporte en urgence au **Centre Ariégeois de Soins Immédiats de [La Ville de l'Accident]** ([**[Le Médecin en Urgence]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md), RPPS 10005156871). Actes : lavage, désinfection, exploration sous anesthésie locale. Diagnostic : plaie palmaire droite profonde et compliquée. Orientation : transfert vers SOS Main – [**[L'Établissement SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md) pour le lendemain à jeun.
 
-**Retour au salon :** Après les soins, je retourne au salon, main bandée, pour informer du pronostic chirurgical. Le coiffeur procède alors au **remboursement de 15 €** via Wero (réf. crédit IPR000297029234, depuis le compte « AYOUB [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) »). Ce remboursement spontané matérialise la **reconnaissance de la matérialité de l'accident** par l'exploitant.
+**Retour au salon :** Après les soins, je retourne au salon, main bandée, pour informer du pronostic chirurgical. Le coiffeur procède alors au **remboursement de 15 €** via Wero (réf. crédit IPR000297029234, depuis le compte « **[Le Préposé de l'Exploitation]** »). Ce remboursement spontané matérialise la **reconnaissance de la matérialité de l'accident** par l'exploitant.
 
 ### 30 mai 2026 — Intervention chirurgicale (J+1)
 

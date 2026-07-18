@@ -1,0 +1,22 @@
+{
+  "description": "15 missions de nuit — 18 juillet 2026",
+  "state": "launched",
+  "createdAt": "2026-07-18T22:00:00.000Z",
+  "missions": {
+    "M01_audit_hb_barber.md": { "sessionId": "11500201233044822502", "status": "launched", "launchedAt": "2026-07-18T22:00:00.000Z" },
+    "M02_absence_assurance.md": { "sessionId": "5629017950384422605", "status": "launched", "launchedAt": "2026-07-18T22:00:00.000Z" },
+    "M03_maj_strategie_contentieux.md": { "sessionId": "10102808889233645521", "status": "launched", "launchedAt": "2026-07-18T22:00:00.000Z" },
+    "M04_note_etape_j16.md": { "sessionId": "987403715759435362", "status": "launched", "launchedAt": "2026-07-18T22:00:00.000Z" },
+    "M05_preparer_demande_aj.md": { "sessionId": "14398442053003273380", "status": "launched", "launchedAt": "2026-07-18T22:00:00.000Z" },
+    "M06_requete_art_145.md": { "sessionId": "15506563858622126387", "status": "launched", "launchedAt": "2026-07-18T22:00:00.000Z" },
+    "M07_plainte_complementaire_erratum.md": { "sessionId": "1353864396770670977", "status": "launched", "launchedAt": "2026-07-18T22:00:00.000Z" },
+    "M08_plan_deplacement.md": { "sessionId": "3823380336442206742", "status": "launched", "launchedAt": "2026-07-18T22:00:00.000Z" },
+    "M09_lrats_post_depot.md": { "sessionId": "9024090879013311107", "status": "launched", "launchedAt": "2026-07-18T22:00:00.000Z" },
+    "M10_audit_faux_depose.md": { "sessionId": "5835767582474031144", "status": "launched", "launchedAt": "2026-07-18T22:00:00.000Z" },
+    "M11_relecture_token_map.md": { "sessionId": "8428641977659595451", "status": "launched", "launchedAt": "2026-07-18T22:00:00.000Z" },
+    "M12_audit_liens_readme.md": { "sessionId": "6173308142549219569", "status": "launched", "launchedAt": "2026-07-18T22:00:00.000Z" },
+    "M13_verification_juritext.md": { "sessionId": "15147189954702675284", "status": "launched", "launchedAt": "2026-07-18T22:00:00.000Z" },
+    "M14_scenario_pire.md": { "sessionId": "5735397749844847186", "status": "launched", "launchedAt": "2026-07-18T22:00:00.000Z" },
+    "M15_synthese_avocat.md": { "sessionId": "7049455188294447707", "status": "launched", "launchedAt": "2026-07-18T22:00:00.000Z" }
+  }
+}

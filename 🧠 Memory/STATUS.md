@@ -1,6 +1,6 @@
 ---
-title: "STATUT D'AVANCEMENT — 17 juillet 2026"
-description: "- **Phase 23** Normalisation des sauts de ligne entre paragraphes : 80 fichiers Token + Reel (✅ TERMINÉ) — **Phase 28** Avis Dintilhac externe : rapport + tokens financiers mis à jour (✅ TERMINÉ) — **Phase 29** Migration HB BARBER : tokens, scripts, 3 documents Foix, frise, mémo stratégie bailleur (✅ 17/07) — 🔴 CORRECTION : aucune action terrain le 15 juillet (hallucination agent corrigée)"
+title: "STATUT D'AVANCEMENT — 18 juillet 2026"
+description: "- **Phase 1a** Purge des 5 fuites token : 0 fuite résiduelle (✅ 18/07) — **Phase 1b** 5 corrections JURITEXT vérifiées MCP (✅ 18/07) — **Phase 1c** Infrastructure token : +14 entrées batch_anonymize + TOKEN MAP + generate_real_versions (✅ 18/07) — **Phase 1d** Bandeau HB BARBER : 80 fichiers Token/ mis à jour (✅ 18/07) — **Phase 1e** Liens cassés : 34 auto-corrigés, 3 stubs créés, 60 historiques restants (✅ partiel 18/07) — **Phase 2** Urgences 31 juillet : Demande AJ Totale créée, Assignation finalisée, Reel 115 fichiers générés (✅ 18/07)"
 type: memory
 ---
 
@@ -9,7 +9,7 @@ type: memory
 <hr>
 <!-- /Breadcrumb -->
 
-# STATUT D'AVANCEMENT<br>17 juillet 2026
+# STATUT D'AVANCEMENT<br>18 juillet 2026
 
 > **Phase 21 ✅** Navigation Interactive Cross-Document — 1 766 liens relatifs créés
 > **Phase 22 ✅** Normalisation des séparateurs `<hr><hr>` et conventions de formatage

@@ -8,6 +8,8 @@ destinataire: Commissariat de Police de [La Ville de l'Accident]
 auteur: La Victime
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Projet Declaration PV Foix.md
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 📋 Preparation Foix › 📋 Projet Déclaration PV [La Ville de l'Accident]*
@@ -28,7 +30,7 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 P
 
 Je confirme aujourd'hui les faits décrits dans cette première plainte. Je viens uniquement apporter des précisions nouvelles sur l'identité réelle de l'exploitant des lieux et des sociétés concernées.
 
-Le 29 mai 2026, dans l'après-midi, je me rends dans ce salon de coiffure pour une coupe. À l'issue de la prestation, je règle la somme de 15 euros via l'application bancaire Wero au profit d'un compte intitulé "AYOUB B". Ce compte est associé au numéro de téléphone +33 7 58 40 12 87, ce qui m'a ensuite permis d'identifier le coiffeur comme pouvant être [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : **[Le Téléphone du Préposé]**)(../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md). Je quitte l'établissement après ce paiement.
+Le 29 mai 2026, dans l'après-midi, je me rends dans ce salon de coiffure pour une coupe. À l'issue de la prestation, je règle la somme de 15 euros via l'application bancaire Wero au profit d'un compte intitulé "**[Le Préposé de l'Exploitation]**". Ce compte est associé au numéro de téléphone **[Le Téléphone du Préposé]**, ce qui m'a ensuite permis d'identifier le coiffeur comme pouvant être [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : **[Le Téléphone du Préposé]**)(../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md). Je quitte l'établissement après ce paiement.
 
 Moins de cinq minutes plus tard, je reviens dans le salon pour demander une retouche. En entrant, je constate que le coiffeur, que j'identifie comme pouvant être [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md), est monté sur la structure d'un bac à shampoing muni d'une vasque en céramique. Au moment où il redescend, son poids provoque le déséquilibre et le basculement du meuble. Nous avons tous les deux le même réflexe : tendre les mains pour retenir la chute du bac afin d'éviter qu'il ne s'écrase au sol ou ne blesse le coiffeur.
 

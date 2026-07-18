@@ -316,8 +316,8 @@ def verifier_article_loi(article_id):
 ## Jurisprudence Pertinente
 
 ### Accident en salon de coiffure
-- [Cass. Civ. 1ère, 15 avril 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043300000)
-- [Cass. Civ. 2ème, 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044515079)
+- [Cass. Civ. 2ème, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
+- [Cass. Civ. 1ère, 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 
 ## Articles de Loi
 
@@ -348,7 +348,7 @@ def verifier_article_loi(article_id):
 3. **ID JURITEXT invalide**
    ```python
    # Solution: Vérifier l'ID sur Légifrance
-   client.consulte_decision('JURITEXT000000000000')  # Doit être un ID valide
+    client.consulte_decision('JURITEXT000007043831')  # Ex: Arrêt Costedoat (Ass. Plén., 25 fév. 2000, n° 97-17.378)
    ```
 
 ### Vérification des Credentials

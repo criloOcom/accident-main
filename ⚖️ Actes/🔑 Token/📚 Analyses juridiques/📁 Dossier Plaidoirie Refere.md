@@ -14,6 +14,8 @@ auteur: La Victime
 reel_path: ../../👤 Reel/📚 Analyses juridiques/📁 Dossier Plaidoirie Refere.md
 jx: J+60
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 📁 Dossier Plaidoirie Refere*
 <hr>

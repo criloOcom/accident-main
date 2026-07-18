@@ -16,6 +16,8 @@ destinataire: Avocat
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/📝 Procédure/✉️📝 Avocat Consultation Jimini.md
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 reel_path: ../../../👤 Reel/✉️ Courriers/📝 Procédure/✉️📝 Avocat Consultation Jimini.md
 
 <!-- Breadcrumb -->

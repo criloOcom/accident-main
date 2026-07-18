@@ -1,0 +1,10 @@
+{
+  "state": "idle",
+  "lastUpdated": "2026-07-17T23:20:51.367Z",
+  "stats": {
+    "totalMissions": 15,
+    "launched": 15,
+    "completed": 0,
+    "failed": 0
+  }
+}

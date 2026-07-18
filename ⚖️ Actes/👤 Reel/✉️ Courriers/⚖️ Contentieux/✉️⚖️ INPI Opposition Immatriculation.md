@@ -15,6 +15,8 @@ auteur: Nom de l'Avocat de la Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️⚖️ INPI Opposition Immatriculation.md
 jx: J+41
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [⚖️ Contentieux](./README.md) › ✉️⚖️ INPI Opposition Immatriculation*

@@ -5,6 +5,8 @@ type: analyse_juridique
 statut: brouillon
 reel_path: ../../👤 Reel/📚 Analyses juridiques/Note qualification penale disparition SAS.md
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › Note qualification penale disparition SAS*
 <hr>

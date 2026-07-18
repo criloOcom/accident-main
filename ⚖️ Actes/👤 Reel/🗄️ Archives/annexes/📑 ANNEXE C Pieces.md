@@ -6,6 +6,8 @@ type: readme
 reel_path: ../../../👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md
 auteur: La Victime
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📦 Archives](../README.md) › [📁 annexes](./README.md) › 📑 ANNEXE C Pieces*

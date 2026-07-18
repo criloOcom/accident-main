@@ -21,6 +21,7 @@ Ce dossier contient ce que tu imprimes et/ou envoies à l'avocat AJ.
 - [`MODELE_ENVOI_AVOCAT.md`](MODELE_ENVOI_AVOCAT.md) — Modèle d'envoi (version tokenisée)
 - [`MODELE_ENVOI_AVOCAT_REEL.md`](MODELE_ENVOI_AVOCAT_REEL.md) — Modèle d'envoi (version réelle)
 
+- [FICHE_REUNION_AVOCAT_AJ_10MIN](FICHE_REUNION_AVOCAT_AJ_10MIN.md)
 ## Ordre de lecture
 
 1. `MEMO_AVOCAT_1PAGE.md` — la vue en 1 page

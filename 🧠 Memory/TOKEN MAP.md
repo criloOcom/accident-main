@@ -176,8 +176,28 @@ type: memory
 <a id="token-j-167-expertise-umj"></a>
 | [**[J+167 Expertise UMJ]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) | 12 novembre 2026 — Expertise UMJ (réquisition judiciaire) |
 
+## Tokens d'évaluation financière / indemnisation {#tokens-finance}
+| Token | Valeur réelle | Poste Dintilhac |
+|---|---|---|
+| [**[Finance Provision Référé]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) | 15 000 € | Provision à valoir |
+| [**[Finance Souffrances Endurées]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-souffrances-endurees.md) | 15 000 € | Souffrances endurées (3/7) |
+| [**[Finance Article 700]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700.md) | 3 000 € | Article 700 CPC |
+| [**[Finance Article 475-1]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-475-1.md) | 3 000 € | Article 475-1 CPP |
+| [**[Finance Article 700 Référé 145]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700-refere-145.md) | 1 500 € | Article 700 (référé 145) |
+| [**[Finance Astreinte 145]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-astreinte-145.md) | 150 € | Astreinte (art. 145) |
+| [**[Finance DFP]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-dfp.md) | 25 000 € | Déficit Fonctionnel Permanent |
+| [**[Finance PGPA]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-pgpa.md) | 1 380 € | Pertes de gains pro. actuelles |
+| [**[Finance Incidence Professionnelle]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-incidence-professionnelle.md) | 30 000 € | Incidence professionnelle |
+| [**[Finance Dévalorisation Pro]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-devalorisation-pro.md) | 3 000 € | Dévalorisation professionnelle |
+| [**[Finance Préjudice Agrément]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prejudice-agrement.md) | 5 000 € | Préjudice d'agrément |
+| [**[Finance Préjudice Esthétique]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prejudice-esthetique.md) | 3 000 € | Préjudice esthétique (2/7) |
+| [**[Finance Frais Divers]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-frais-divers.md) | 3 000 € | Frais divers |
+| [**[Finance Facture Chirurgie]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-facture-chirurgie.md) | 790,23 € | Frais médicaux |
+| [**[Finance Prestation Salon]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prestation-salon.md) | 15,00 € | Prestation salon |
+| [**[Finance Evaluation Globale]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-evaluation-initiale.md) | 59 600 € | Évaluation indemnitaire globale |
+
 ## Limitations connues du script batch_anonymize.py
 - Le script utilise `str.replace()` — il ne capture que les chaînes exactes listées
 - Les prénoms/noms en casse mixte sans espace entre les deux (ex. "Mountasser Sabir" — ancien format inversé) doivent être ajoutés manuellement comme entrées au script
-- Les prénoms seuls (ex. "Sébastien", "Sabir") ne sont pas dans la table — ils peuvent apparaître dans des documents conversationnels (doc 11)
+- Les montants financiers `15 000 €` et `3 000 €` ne sont PAS dans batch_anonymize.py car chaque valeur correspond à plusieurs tokens distincts — à remplacer manuellement selon le contexte
 

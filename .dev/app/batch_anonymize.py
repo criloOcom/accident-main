@@ -156,6 +156,27 @@ REPLACEMENTS = [
     # --- Department numbers ---
     ("(31)", ""),
     ("(09)", ""),
+
+    # --- Identity tokens (Prénom, Âge, Date naissance) ---
+    ("18 janvier 1982", "**[Date de naissance de la victime]**"),
+    ("44 ans", "**[Âge de la Victime]**"),
+    ("200 €", "**[Capital Social de l'Exploitation]**"),
+    ("09000", "**[Code Postal de l'Accident]**"),
+    ("Sébastien", "**[Prénom de la Victime]**"),  # NB: risque faux positif si autre Sébastien dans un doc
+
+    # --- Finance tokens (montants uniques uniquement) ---
+    # ATTENTION: "15 000 €" et "3 000 €" sont exclus car chaque valeur correspond
+    # à plusieurs tokens distincts (ex: 15k€ = Provision Référé + Souffrances Endurées).
+    # Ces remplacements doivent être faits manuellement ou doc par doc.
+    ("59 600 €", "**[Finance Evaluation Globale]**"),
+    ("30 000 €", "**[Finance Incidence Professionnelle]**"),
+    ("25 000 €", "**[Finance DFP]**"),
+    ("5 000 €", "**[Finance Préjudice Agrément]**"),
+    ("1 500 €", "**[Finance Article 700 Référé 145]**"),
+    ("1 380 €", "**[Finance PGPA]**"),
+    ("790,23 €", "**[Finance Facture Chirurgie]**"),
+    ("150 €", "**[Finance Astreinte 145]**"),
+    ("15,00 €", "**[Finance Prestation Salon]**"),
 ]
 
 def anonymize_text(text):

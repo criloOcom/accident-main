@@ -16,6 +16,8 @@ auteur: La Victime
 jx: J+47
 reel_path: ../../👤 Reel/📚 Analyses juridiques/🛡️ Memo Strategie Admin Penal.md
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 🛡️ Memo Strategie Admin Penal*
 <hr>

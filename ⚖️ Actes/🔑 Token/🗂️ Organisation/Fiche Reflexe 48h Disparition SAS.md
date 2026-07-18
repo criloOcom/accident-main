@@ -13,6 +13,8 @@ statut: brouillon
 auteur: Nom de l'Avocat de la Victime
 reel_path: ../../👤 Reel/🗂️ Organisation/Fiche Reflexe 48h Disparition SAS.md
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › Fiche Reflexe 48h Disparition SAS*
 <hr>

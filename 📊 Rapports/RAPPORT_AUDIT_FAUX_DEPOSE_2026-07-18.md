@@ -271,14 +271,14 @@ type: rapport
 
 - **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️🚨 INPI.md`
 - **Ligne** : 69
-- **Citation** : `- [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise le [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)`
+- **Citation** : `- [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise le [**[J+31 Mises en demeure]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)`
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 - **Réalité** : NON FAIT (hallucination)
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
 - **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️🚨 Inspection Travail.md`
 - **Ligne** : 62
-- **Citation** : `- [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise le [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)`
+- **Citation** : `- [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise le [**[J+31 Mises en demeure]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)`
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 - **Réalité** : NON FAIT (hallucination)
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
@@ -299,14 +299,14 @@ type: rapport
 
 - **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/📋 Antiseche Orale Plainte.md`
 - **Ligne** : 38
-- **Citation** : `Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.`
+- **Citation** : `Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.`
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 - **Réalité** : NON FAIT (hallucination)
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
 - **Fichier** : `⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md`
 - **Ligne** : 134
-- **Citation** : `Un complément de plainte a été déposé le [**[J+32 Assignation référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) auprès du Procureur de la République près le Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).`
+- **Citation** : `Un complément de plainte a été déposé le [**[J+32 Assignation référé]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) auprès du Procureur de la République près le Tribunal Judiciaire de [**[La Ville de l'Accident]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par [**[L'Exploitant du Commerce (La SAS)]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).`
 - **Acte présenté comme fait** : Assignation / Conclusions
 - **Réalité** : NON FAIT (hallucination)
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
@@ -362,21 +362,21 @@ type: rapport
 
 - **Fichier** : `⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md`
 - **Ligne** : 24
-- **Citation** : `| [**[J+3 Premiers arrêts]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md) | Plainte officielle | Dossier de plainte complet | ✅ Transmis |`
+- **Citation** : `| [**[J+3 Premiers arrêts]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md) | Plainte officielle | Dossier de plainte complet | ✅ Transmis |`
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 - **Réalité** : NON FAIT (hallucination)
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
 - **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`
 - **Ligne** : 70
-- **Citation** : `La lettre de liaison de sortie officielle lui a été transmise par e-mail le lendemain, [**[J+2 Sortie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-2-sortie.md), actant un repos post-opératoire immédiat.`
+- **Citation** : `La lettre de liaison de sortie officielle lui a été transmise par e-mail le lendemain, [**[J+2 Sortie]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-2-sortie.md), actant un repos post-opératoire immédiat.`
 - **Acte présenté comme fait** : Envoi de courrier/LRAR
 - **Réalité** : NON FAIT (hallucination)
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
 - **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`
 - **Ligne** : 76
-- **Citation** : `Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du [**[J+4 Dépôt de plainte]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md)) **(Pièce n°1)**. Un dossier de Recours contre Tiers a également été ouvert auprès de la CPAM sous la référence [ ... ] **(Pièce n°9)**.`
+- **Citation** : `Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du [**[J+4 Dépôt de plainte]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md)) **(Pièce n°1)**. Un dossier de Recours contre Tiers a également été ouvert auprès de la CPAM sous la référence [ ... ] **(Pièce n°9)**.`
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 - **Réalité** : NON FAIT (hallucination)
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
@@ -397,7 +397,7 @@ type: rapport
 
 - **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Frise Chronologique Foix.md`
 - **Ligne** : 32
-- **Citation** : `| **20/07/2026 (prévu)** | **Dépôt d'une plainte complémentaire + Erratum** au Commissariat de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) | Objet : corriger/compléter la plainte initiale en visant [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) comme exploitant au 29/05/2026. **Erratum** déposé le même jour + envoyé par LRAR séparée. |`
+- **Citation** : `| **20/07/2026 (prévu)** | **Dépôt d'une plainte complémentaire + Erratum** au Commissariat de [**[La Ville de l'Accident]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) | Objet : corriger/compléter la plainte initiale en visant [**[Le Nouvel Exploitant (HB BARBER)]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) comme exploitant au 29/05/2026. **Erratum** déposé le même jour + envoyé par LRAR séparée. |`
 - **Acte présenté comme fait** : Plainte complémentaire
 - **Réalité** : NON FAIT (hallucination)
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
@@ -418,14 +418,14 @@ type: rapport
 
 - **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 INPI.md`
 - **Ligne** : 69
-- **Citation** : `- [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise le [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)`
+- **Citation** : `- [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise le [29 juin 2026](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)`
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 - **Réalité** : NON FAIT (hallucination)
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
 - **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 Inspection Travail.md`
 - **Ligne** : 62
-- **Citation** : `- [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise le [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)`
+- **Citation** : `- [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) transmise le [29 juin 2026](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)`
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 - **Réalité** : NON FAIT (hallucination)
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
@@ -446,14 +446,14 @@ type: rapport
 
 - **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/📋 Antiseche Orale Plainte.md`
 - **Ligne** : 38
-- **Citation** : `Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.`
+- **Citation** : `Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.`
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 - **Réalité** : NON FAIT (hallucination)
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
 - **Fichier** : `⚖️ Actes/👤 Reel/🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md`
 - **Ligne** : 134
-- **Citation** : `Un complément de plainte a été déposé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) auprès du Procureur de la République près le Tribunal Judiciaire de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).`
+- **Citation** : `Un complément de plainte a été déposé le [30 juin 2026](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md) auprès du Procureur de la République près le Tribunal Judiciaire de [Foix](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par [SAS LES MAUVAIS GARCONS](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).`
 - **Acte présenté comme fait** : Assignation / Conclusions
 - **Réalité** : NON FAIT (hallucination)
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
@@ -509,7 +509,7 @@ type: rapport
 
 - **Fichier** : `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`
 - **Ligne** : 70
-- **Citation** : `La lettre de liaison de sortie officielle lui a été transmise par e-mail le lendemain, [31 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-2-sortie.md), actant un repos post-opératoire immédiat.`
+- **Citation** : `La lettre de liaison de sortie officielle lui a été transmise par e-mail le lendemain, [31 mai 2026](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-2-sortie.md), actant un repos post-opératoire immédiat.`
 - **Acte présenté comme fait** : Envoi de courrier/LRAR
 - **Réalité** : NON FAIT (hallucination)
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
@@ -530,7 +530,7 @@ type: rapport
 
 - **Fichier** : `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Frise Chronologique Foix.md`
 - **Ligne** : 32
-- **Citation** : `| **20/07/2026 (prévu)** | **Dépôt d'une plainte complémentaire + Erratum** au Commissariat de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) | Objet : corriger/compléter la plainte initiale en visant [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) comme exploitant au 29/05/2026. **Erratum** déposé le même jour + envoyé par LRAR séparée. |`
+- **Citation** : `| **20/07/2026 (prévu)** | **Dépôt d'une plainte complémentaire + Erratum** au Commissariat de [Foix](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) | Objet : corriger/compléter la plainte initiale en visant [SAS HB BARBER](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) comme exploitant au 29/05/2026. **Erratum** déposé le même jour + envoyé par LRAR séparée. |`
 - **Acte présenté comme fait** : Plainte complémentaire
 - **Réalité** : NON FAIT (hallucination)
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
@@ -551,7 +551,7 @@ type: rapport
 
 - **Fichier** : `📊 Rapports/10_Pilotage/recommandations_urgentes.md`
 - **Ligne** : 36
-- **Citation** : `*   **Action immédiate :** Le projet de [Requête](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) (Pièce 06) doit être déposé le jour-même au Président du Tribunal Judiciaire pour obtenir l'Ordonnance.`
+- **Citation** : `*   **Action immédiate :** Le projet de [Requête](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) (Pièce 06) doit être déposé le jour-même au Président du Tribunal Judiciaire pour obtenir l'Ordonnance.`
 - **Acte présenté comme fait** : Requête Art. 145 CPC
 - **Réalité** : NON FAIT (hallucination)
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.

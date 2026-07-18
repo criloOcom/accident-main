@@ -14,6 +14,8 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Droit Assurances.m
 source: local
 jx: J+40
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 📜 Note Droit Assurances*
 <hr>
@@ -33,7 +35,7 @@ Le principe de l'action directe permet à la victime d'agir directement contre l
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier.[^1]**
 
-**État dans notre dossier :** L'action directe est parfaitement fondée et a été formellement engagée par la mise en demeure adressée à la compagnie d'assurance de la SAS. Cette action est autonome. Elle échappe aux procédures collectives éventuelles affectant la SAS, dont le [**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) rend l'assureur indispensable à l'indemnisation.
+**État dans notre dossier :** L'action directe est parfaitement fondée et a été formellement engagée par la mise en demeure adressée à la compagnie d'assurance de la SAS. Cette action est autonome. Elle échappe aux procédures collectives éventuelles affectant la SAS, dont le [200 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) rend l'assureur indispensable à l'indemnisation.
 
 > *« L'action directe de la victime contre l'assureur garantissant la responsabilité civile de l'auteur du dommage est indépendante de l'action que la victime pourrait exercer contre l'assuré lui-même. »* <br>
 > [Arrêt n°21-12.478](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770) <br>
@@ -113,7 +115,7 @@ Après indemnisation, l'assureur de la SAS peut, par l'effet de la subrogation l
 > [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^9]**
 
-Il est donc impératif de rechercher si les dirigeants disposent d'une assurance Responsabilité Civile "Vie Privée" (intégrant parfois une extension chef d'entreprise) ou d'une Assurance Responsabilité des Mandataires Sociaux (RCMS), bien que cela soit très peu probable au vu de la négligence globale ([**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md)).
+Il est donc impératif de rechercher si les dirigeants disposent d'une assurance Responsabilité Civile "Vie Privée" (intégrant parfois une extension chef d'entreprise) ou d'une Assurance Responsabilité des Mandataires Sociaux (RCMS), bien que cela soit très peu probable au vu de la négligence globale ([200 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md)).
 <hr><hr>
 
 ## IX — ANNEXE : MODÈLE DE LETTRE DE MISE EN DEMEURE À L'ASSUREUR RC

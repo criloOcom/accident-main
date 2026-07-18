@@ -15,6 +15,8 @@ source: drive
 drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 jx: J+32
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 📜 Analyse Responsabilites Legales*
 <hr>
@@ -165,7 +167,7 @@ Le juge ordonnera alors la communication forcée de l'attestation d'assurance de
 
 ## V — RECOUVREMENT — QUI PAIE EN CAS D'INSOLVABILITÉ ?
 
-⚠ **L'exploitant [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) a un [**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) seulement.** Le risque d'insolvabilité est maximal. Voici les voies de recouvrement par ordre de priorité.
+⚠ **L'exploitant [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) a un [200 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) seulement.** Le risque d'insolvabilité est maximal. Voici les voies de recouvrement par ordre de priorité.
 
 ### V.1 — ACTION DIRECTE CONTRE L'ASSUREUR RC (L.124-3 C. ASSURANCES)
 
@@ -188,7 +190,7 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 
 **Conditions remplies :**
 1. Infraction pénale (blessures involontaires, art. 222-19 CP) — ITT 56 jours > seuil 1 mois ✅
-2. Auteur insolvable ([**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md)) ✅
+2. Auteur insolvable ([200 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md)) ✅
 3. Victime personne physique, française ✅
 4. Hors champ Badinter et ONIAM ✅
 
@@ -232,7 +234,7 @@ Si condamnation pénale non exécutée : verse 100 % jusqu'à 1 000 €, 30 % au
 
 La responsabilité de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) est solidement établie tant sur le plan civil que pénal. Le montant total estimé de l'indemnisation est de **~105 000 €** (évaluation Dintilhac détaillée).
 
-La difficulté centrale est le **recouvrement** : [**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) seulement. La voie principale est la **saisine de la CIVI** pour obtenir l'indemnisation via le FGTI, qui contourne l'insolvabilité de la SAS. Les dirigeants doivent être mis en cause personnellement dès maintenant. L'action directe contre l'assureur RC, s'il est identifié, reste la voie la plus rapide.
+La difficulté centrale est le **recouvrement** : [200 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) seulement. La voie principale est la **saisine de la CIVI** pour obtenir l'indemnisation via le FGTI, qui contourne l'insolvabilité de la SAS. Les dirigeants doivent être mis en cause personnellement dès maintenant. L'action directe contre l'assureur RC, s'il est identifié, reste la voie la plus rapide.
 <hr><hr>
 
 ## Sources Législation

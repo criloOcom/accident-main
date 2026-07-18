@@ -9,14 +9,17 @@ tags:
   - provision
   - expertise médicale
   - article 145
-statut: projet
-destinataire: Tribunal Judiciaire de la Ville de l'Accident
+statut: final
+destinataire: Tribunal Judiciaire de Foix
+audience: 2026-07-31
 auteur: La Victime
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md
 source: drive
 drive_id: 1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg
 jx: J+32
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 📜 Contentieux civil › ⚖️ Assignation Refere Provision*
 <!-- /Breadcrumb -->

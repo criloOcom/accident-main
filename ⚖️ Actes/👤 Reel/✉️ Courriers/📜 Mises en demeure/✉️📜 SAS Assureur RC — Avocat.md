@@ -18,6 +18,8 @@ auteur: Conseil de la Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS Assureur RC — Avocat.md
 jx: J+50-bis
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › J+50-bis ✉️📜 Assureur RC — Avocat*
 <hr>

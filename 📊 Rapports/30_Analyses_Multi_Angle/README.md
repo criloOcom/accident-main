@@ -27,6 +27,7 @@ Ce dossier contient la matière grise du dossier : analyses stratégiques, notes
 - [`RAPPORT_VOIES_INDEMNISATION_2026-07-14.md`](RAPPORT_VOIES_INDEMNISATION_2026-07-14.md) — Voies d'indemnisation
 - [`RAPPORT_CONTINUITE_2026-07-14.md`](RAPPORT_CONTINUITE_2026-07-14.md) — Rapport de continuité
 - [`RAPPORT_FINAL_INTEGRATION_20260710.md`](RAPPORT_FINAL_INTEGRATION_20260710.md) — Rapport d'intégration final
+- [00_META_SYNTHESE_MULTI_ANGLE](00_META_SYNTHESE_MULTI_ANGLE.md)
 - [`analyse-multi-angle/`](analyse-multi-angle/) — 12 rapports d'analyse par angle professionnel (missions Jules)
 
 ## Ordre de lecture

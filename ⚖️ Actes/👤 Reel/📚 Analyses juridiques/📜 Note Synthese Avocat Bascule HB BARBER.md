@@ -7,6 +7,8 @@ statut: preparation
 auteur: Conseil externe (Jimini) + [La Victime]
 reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Synthese Avocat Bascule HB BARBER.md
 ---
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+
 
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › Note Synthese Avocat Bascule [Le Nouvel Exploitant (HB BARBER)]*
@@ -28,7 +30,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Synthese Avocat Ba
 
 **29 mai 2026 – Accident (J+0)**
 - Salon de coiffure à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), 22 rue Lafaurie, identifié ensuite comme « [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) »
-- Retour dans le salon pour une retouche. Le coiffeur (Ayoub B.) est monté sur le bac à shampoing. En redescendant, la structure bascule. Réflexe d'assistance : la victime tend la main pour retenir le meuble
+- Retour dans le salon pour une retouche. Le coiffeur (Ayoub BENNOURINE) est monté sur le bac à shampoing. En redescendant, la structure bascule. Réflexe d'assistance : la victime tend la main pour retenir le meuble
 - La vasque en céramique était déjà brisée / avec cassure majeure préexistante : la paume droite percute la partie tranchante → plaie palmaire profonde (8,5 cm)
 
 **29 mai 2026 – Soins d'urgence à [La Ville de l'Accident]**
@@ -111,7 +113,7 @@ Propriétaire des locaux du [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%
 → Société découverte après coup par recherches sur l'adresse
 
 ### Auteur matériel présumé
-[Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : 07 58 40 12 87)(../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md) ("AYOUB B" sur Wero). Coiffeur présent le jour des faits, a remboursé 15 € via Wero le 29/05/2026.
+[Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : 07 58 40 12 87) (identifié comme "Ayoub BENNOURINE" sur Wero). Coiffeur présent le jour des faits, a remboursé 15 € via Wero le 29/05/2026.
 
 <hr><hr>
 
