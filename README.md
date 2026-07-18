@@ -1,6 +1,6 @@
 ---
 title: "🏛️ Dossier Juridique « Accident Main » - Sébastien GRAZIDE"
-description: "Porte d'entrée du dossier — plan d'action immédiat et navigation vers tous les actes réels et tokenisés."
+description: "Porte d'entrée opérationnelle du dossier — Plan d'action, échéances et navigation simplifiée."
 type: readme
 ---
 
@@ -9,56 +9,87 @@ type: readme
 <hr>
 <!-- /Breadcrumb -->
 
-# 🏛️ Dossier Juridique « Accident Main »<br>Sébastien GRAZIDE
+# 🏛️ Dossier Juridique « Accident Main »
+## Sébastien GRAZIDE
 
-Bienvenue dans l'espace de pilotage de ton dossier juridique. Ce fichier est ta porte d'entrée opérationnelle. Il te permet d'accéder en un clic à ton **plan d'action**, à tes **prochaines échéances** et aux **documents réels** à imprimer et à transmettre.
+Bienvenue dans l'espace de pilotage de ton dossier juridique. 
 
----
-
-## 🚨 TO-DO LIST : CE QUE TU DOIS FAIRE MAINTENANT
-
-### 📅 Lundi 20 juillet 2026 — Déplacement physique à Foix (Échéance Immédiate)
-
-| Étape / Lieu | Action à mener | Document à imprimer et signer (Version Réelle 👤) | Pièces jointes à y associer |
-| :--- | :--- | :--- | :--- |
-| **1. Tribunal Judiciaire** <br>*(Greffe Civil)* | Déposer la Requête 145 pour sauvegarder les preuves (vidéos du salon). | 📄 [Requête Article 145 CPC (Réelle)](⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/🔍 Requete Article 145 CPC.md) | Les 17 pièces listées au bordereau de la requête. |
-| **2. Tribunal Judiciaire** <br>*(Bureau d'Aide Juridictionnelle)* | Déposer le dossier de demande d'Aide Juridictionnelle totale. | 📄 [Guide et Modèle de Demande d'AJ](⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/📝 Guide Demande AJ.md) | Justificatifs de ressources (URSSAF, etc.). |
-| **3. Commissariat de Police** | Déposer le complément de plainte et la correction de la société exploitante. | 📄 [Plainte Complémentaire Commissariat (Réelle)](⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md) | 📄 [Erratum de Correction d'Identité (Réel)](⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md) + 8 pièces. |
-
-*📍 Adresses à Foix :*
-* **Tribunal Judiciaire** : 14 Boulevard François Mitterrand, 09000 Foix
-* **Commissariat de Police** : 2 Cours Gabriel Fauré, 09000 Foix
+Ce fichier est ta porte d'entrée opérationnelle. Conçu pour être clair et aéré, il te permet d'accéder en un coup d'œil à ton plan d'action immédiat, à ton calendrier de procédures et à l'ensemble des pièces réelles ou de travail.
 
 ---
 
-### 📮 Courriers recommandés (LRAR) à envoyer la semaine du 20 juillet 2026
+## 🚨 ACTIONS IMMÉDIATES : CE QUE TU DOIS FAIRE
 
-* **Signalement de fraude fiscale et travail dissimulé au CODAF (Procureur)** :
-  * 📄 [Courrier de Signalement CODAF (Réel)](⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 CODAF.md)
-  * *Adresse d'envoi* : Tribunal Judiciaire de Foix, 14 Boulevard François Mitterrand, 09000 Foix
-* **Signalement d'accident du travail grave sans déclaration à l'Inspection du Travail** :
-  * 📄 [Courrier de Signalement Inspection du Travail (Réel)](⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 Inspection Travail.md)
-  * *Adresse d'envoi* : DDETSPP de l'Ariège, 9 Rue Lieutenant Paul Delpech, 09000 Foix
+### 📅 Lundi 20 juillet 2026 : Déplacement physique à Foix
 
----
+Pour cette journée, tu as trois démarches physiques majeures à réaliser à Foix. Prépare les documents réels imprimés et signés ci-dessous :
 
-## 📅 CALENDRIER DES PROCHAINES ÉCHÉANCES
+#### 1️⃣ Au Tribunal Judiciaire (Greffe Civil)
+* **Action** : Déposer la requête de mesures d'instruction unilatérales pour sauvegarder les vidéos de surveillance du salon.
+* **Document à imprimer & signer** : [🔍 Requete Article 145 CPC.md](⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/🔍 Requete Article 145 CPC.md)
+* **Pièces à joindre** : Prépare le dossier comprenant les 17 pièces listées dans le bordereau de la requête.
 
-1. **Fin juillet / Début août 2026** : Notification de la décision d'Aide Juridictionnelle (AJ) et désignation d'office de ton avocat par le Tribunal.
-2. **Courant août 2026** : Prise de contact avec ton avocat désigné pour lancer la signification par huissier de l'[Assignation en Référé-Provision](⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md) à la SAS HB BARBER.
-3. **📅 Jeudi 12 novembre 2026 à 13h45** : Rendez-vous obligatoire à l'**Unité de Médecine Judiciaire (UMJ) de l'Hôpital Purpan** (Toulouse) pour ton expertise médicale sur réquisition de police (ITT médico-légale).
+#### 2️⃣ Au Tribunal Judiciaire (Bureau d'Aide Juridictionnelle)
+* **Action** : Déposer ton dossier complet de demande d'Aide Juridictionnelle (AJ) totale.
+* **Document d'accompagnement** : [📝 Guide Demande AJ.md](⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/📝 Guide Demande AJ.md)
+* **Pièces à joindre** : Tes justificatifs de ressources (déclarations URSSAF, avis d'imposition, etc.).
 
----
-
-## 📂 PARCOURIR LE PROJET
-
-* [**🧠 Mémoire du projet**](./🧠%20Memory/README.md) : Le cœur du dossier. C'est ici que tu trouveras ton [Tableau de bord et Todo List détaillée](./🧠%20Memory/TODO.md), l'[État d'avancement complet](./🧠%20Memory/STATUS.md) et la [Source Unique de Vérité (Dates et Montants)](./🧠%20Memory/STRICT%20VARIABLES.md).
-* [**⚖️ Actes**](./⚖️%20Actes/README.md) : Tous les documents de procédure classés par strate :
-  * [**👤 Versions Réelles**](./⚖️%20Actes/👤%20Reel/README.md) : Les documents complétés avec tes informations réelles, prêts pour impression et signature.
-  * [**🔑 Versions Tokenisées**](./⚖️%20Actes/🔑%20Token/README.md) : Les documents anonymisés pour le travail de rédaction et d'audit.
-* [**📊 Rapports**](./📊%20Rapports/README.md) : Audits, rapports d'étapes de visite des lieux, et études de chiffrage.
-* [**📜 Lois et Jurisprudence**](./📜%20Lois/README.md) : Textes juridiques, codes et arrêts de jurisprudence applicables à ton dossier.
+#### 3️⃣ Au Commissariat de Police de Foix
+* **Action** : Déposer ton complément de plainte pour acter la correction de l'identité de la société exploitante.
+* **Documents à imprimer & signer** :
+  * [✉️⚖️ Commissariat Foix Plainte Complementaire.md](⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md)
+  * [📝 Erratum Correction Identite Societe.md](⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md) (à annexer en tant que pièce justificative)
+* **Pièces à joindre** : Les 8 pièces justificatives listées à la fin de ta plainte complémentaire (comprenant le mail du bailleur et ta note de constatations).
 
 ---
 
-_Dernière mise à jour le 18 juillet 2026 · Consulter [AGENTS.md](./AGENTS.md) pour les instructions techniques de développement._
+### 📮 Courriers recommandés (LRAR) à expédier
+
+Durant la même semaine, expédie par Lettre Recommandée avec Avis de Réception (LRAR) les deux signalements administratifs suivants :
+
+* **Signalement CODAF (Comité Opérationnel Départemental Anti-Fraude)** :
+  * *Objet* : Dénonciation de suspicion de travail dissimulé, fraude et transfert frauduleux d'actifs vers la nouvelle structure.
+  * *Document à envoyer* : [✉️🚨 CODAF.md](⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 CODAF.md)
+  * *Destinataire* : Monsieur le Procureur de la République (Tribunal Judiciaire de Foix, 14 Boulevard François Mitterrand, 09000 Foix).
+
+* **Signalement Inspection du Travail** :
+  * *Objet* : Dénonciation du défaut de déclaration d'accident du travail grave concernant un préposé.
+  * *Document à envoyer* : [✉️🚨 Inspection Travail.md](⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 Inspection Travail.md)
+  * *Destinataire* : Inspecteur du Travail (DDETSPP de l'Ariège, 9 Rue Lieutenant Paul Delpech, 09000 Foix).
+
+---
+
+## 📅 CALENDRIER DES ÉCHÉANCES PROCÉDURALES
+
+Voici les prochaines étapes clés de ton dossier à moyen et long termes :
+
+* **Fin juillet / Début août 2026** : Décision du Bureau d'Aide Juridictionnelle et désignation d'office de ton avocat.
+* **Courant août 2026** : Prise de contact avec ton avocat pour lancer la signification par huissier de l'[⚖️ Assignation Refere Provision.md](⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md) à la SAS HB BARBER.
+* **📅 Jeudi 12 novembre 2026 à 13h45** : Rendez-vous obligatoire pour ton expertise médicale à l'**Unité de Médecine Judiciaire (UMJ) de l'Hôpital Purpan** à Toulouse (sur réquisition de police pour fixer l'ITT médico-légale).
+
+---
+
+## 📂 STRUCTURE DU PROJET & NAVIGATION
+
+Explore les différents répertoires du dossier grâce aux liens ci-dessous :
+
+### 🧠 Mémoire & Suivi
+* [🧠 Memory/](🧠 Memory/README.md) : Espace de travail de la mémoire du projet.
+  * [TODO.md](🧠 Memory/TODO.md) : Plan d'action détaillé et tableau de bord.
+  * [STATUS.md](🧠 Memory/STATUS.md) : Historique d'avancement des phases du projet.
+  * [STRICT VARIABLES.md](🧠 Memory/STRICT%20VARIABLES.md) : Base de données unique de référence (dates, montants, faits).
+  * [TOKEN MAP.md](🧠 Memory/TOKEN%20MAP.md) : Correspondances des jetons d'anonymisation.
+
+### ⚖️ Actes & Courriers
+* [⚖️ Actes/](⚖️ Actes/README.md) : Base des documents juridiques et administratifs.
+  * [⚖️ Actes/👤 Reel/](⚖️ Actes/👤 Reel/README.md) : Les documents réels complétés, prêts à imprimer pour tes démarches.
+  * [⚖️ Actes/🔑 Token/](⚖️ Actes/🔑 Token/README.md) : Les versions de travail anonymisées sous forme de jetons.
+
+### 📊 Analyses & Législation
+* [📊 Rapports/](📊 Rapports/README.md) : Rapports d'audits, de constatations et études d'indemnisation.
+* [📜 Lois/](📜 Lois/README.md) : Textes de lois, codes et arrêts de jurisprudence applicables.
+
+---
+
+_Dernière mise à jour : 18 juillet 2026._  
+*Les agents IA travaillant sur ce dossier doivent se conformer au protocole défini dans [AGENTS.md](AGENTS.md) et prendre connaissance des règles spécifiques dans [GEMINI.md](GEMINI.md).*
