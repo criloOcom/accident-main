@@ -31,7 +31,7 @@ Ce plan analyse la possibilité juridique de demander au Maire de [**[La Ville d
 ### II.1 — Action 1 : Envoi du mail au Maire de Foix (Demain matin, 8h00)
 
 Vous allez envoyer un courriel officiel et circonstancié au Maire de Foix (Cabinet du Maire / Secrétariat) en vous appuyant sur le projet déjà rédigé par DeepSeek/Jules :
-*   **Fichier source** : **[✉️📜 Maire Foix.md](../✉️%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Maire%20Foix.md)**.
+*   **Fichier source** : **[✉️📜 Maire Foix.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Maire%20Foix.md)**.
 
 *   **Objet** : Demande d'intervention de la police municipale / commission de sécurité pour contrôle de conformité ERP au [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md).
 

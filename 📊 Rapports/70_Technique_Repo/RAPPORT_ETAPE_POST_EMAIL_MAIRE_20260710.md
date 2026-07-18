@@ -17,12 +17,12 @@ type: rapport
 
 ## Sommaire
 
-1. [Bilan des Actions Réalisées](#1-bilan-des-actions-réalisées)
+1. [Bilan des Actions Réalisées](#1-bilan-des-actions-r%C3%A9alis%C3%A9es)
 2. [Situation Actuelle](#2-situation-actuelle)
-3. [Prochaines Étapes Critiques](#3-prochaines-étapes-critiques)
-4. [Stratégie Juridique Renforcée](#4-stratégie-juridique-renforcée)
+3. [Prochaines Étapes Critiques](#3-prochaines-%C3%A9tapes-critiques)
+4. [Stratégie Juridique Renforcée](#4-strat%C3%A9gie-juridique-renforc%C3%A9e)
 5. [Risques et Mitigations](#5-risques-et-mitigations)
-6. [Calendrier Prévisionnel](#6-calendrier-prévisionnel)
+6. [Calendrier Prévisionnel](#6-calendrier-pr%C3%A9visionnel)
 
 ## I — Bilan des Actions Réalisées
 

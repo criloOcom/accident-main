@@ -19,10 +19,10 @@ type: rapport
 
 ## Sommaire
 
-1. [Inventaire du Dossier 📜 Lois](#1-inventaire-du-dossier-📜_lois)
-2. [Références Juridiques Citées dans les Actes](#2-références-juridiques-citées-dans-les-actes)
+1. [Inventaire du Dossier 📜 Lois](#1-inventaire-du-dossier-%F0%9F%93%9C_lois)
+2. [Références Juridiques Citées dans les Actes](#2-r%C3%A9f%C3%A9rences-juridiques-cit%C3%A9es-dans-les-actes)
 3. [Analyse Comparative](#3-analyse-comparative)
-4. [Lois Manquantes Identifiées](#4-lois-manquantes-identifiées)
+4. [Lois Manquantes Identifiées](#4-lois-manquantes-identifi%C3%A9es)
 5. [Recommandations](#5-recommandations)
 6. [Conclusion](#6-conclusion)
 

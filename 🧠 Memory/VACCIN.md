@@ -115,7 +115,7 @@ que tu dois lire avant d'écrire. Si tu ne le lis pas, tu es en faute.
 | MCP Légifrance | `consulter_article`, `rechercher_code` |
 | MCP Judilibre | `rechercher_par_ecli`, `consulter_decision` |
 | Google Sheet Blog | `1-LDy23fj4l2hoH94cswDHdP2wS1agbma7r3SGjtQ8Ec` (feuille `@`) |
-| URLs légales inline | `[Article X](URL%20Légifrance)` — lien obligatoire |
+| URLs légales inline | `[Article X](URL%20L%C3%A9gifrance)` — lien obligatoire |
 
 ---
 

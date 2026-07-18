@@ -12,7 +12,7 @@ type: readme
 # ✉️ Courriers — Index (👤 Reel)
 
 Ce dossier rassemble **tous les courriers** du projet Accident Main, en version **Réelle** (nominative).  
-Généré automatiquement par [`generate_real_versions.py`](../../../.dev/app/generate_real_versions.py) à partir des fichiers dans [`🔑 Token/✉️ Courriers/`](../../🔑%20Token/✉️%20Courriers/README.md).
+Généré automatiquement par [`generate_real_versions.py`](../../../.dev/app/generate_real_versions.py) à partir des fichiers dans [`🔑 Token/✉️ Courriers/`](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/README.md).
 
 ---
 

@@ -53,7 +53,7 @@ type: memory
 
 - **H1 unique** : seul le titre du document est `# Titre`. Sections I./II./III. en `##`, sous-sections A./B. en `###`, sous-sous-sections 1./2. en `####`.
 - **Articles de loi exclus des headings** : aucune référence législative entre parenthèses dans les titres. Les articles sont uniquement dans le corps du texte.
-- **Liens Légifrance inline obligatoires** : toute occurrence « Article X du Code Y » DOIT être `[Article X du Code Y](Légifrance%20URL)`. Pas de texte non lié, pas de « Lien : » séparé sur une autre ligne.
+- **Liens Légifrance inline obligatoires** : toute occurrence « Article X du Code Y » DOIT être `[Article X du Code Y](L%C3%A9gifrance%20URL)`. Pas de texte non lié, pas de « Lien : » séparé sur une autre ligne.
 - **Tokens en gras** : `[Token]` → `**[Token]**`.
 - **Ligne vide** entre chaque phrase/idée/paragraphe.
 - **Mise en page lettre** : en-tête (adresses, date, objet, réf) entre le H1 et `## INTRODUCTION`.

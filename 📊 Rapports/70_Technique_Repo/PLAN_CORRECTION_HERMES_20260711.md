@@ -25,7 +25,7 @@ statut: projet
 ### I.1 — P0-1 — Index `🚦 Status/` : chemins absolus → relatifs  [SCRIPT]
 - **Cible** : `🚦 Status/01_PREPARATION.md`, `🚦 Status/02_PRET_POUR_ENVOI.md`, `🚦 Status/03_ENVOYE.md`
 - **Défaut** : tous les liens internes utilisent des chemins absolus `/⚖️ Actes/...` (ex. `/⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`) → morts sur GitHub/HTML.
-- **Correction** : remplacer `](/⚖️ Actes/` par `](../⚖️ Actes/` (et `](/📊 Rapports/` par `](../📊 Rapports/` si présent).
+- **Correction** : remplacer `](/%E2%9A%96%EF%B8%8F%20Actes/%60%20par%20%60%5D%28../%E2%9A%96%EF%B8%8F%20Actes/%60%20%28et%20%60%5D%28/%F0%9F%93%8A%20Rapports/%60%20par%20%60%5D%28../%F0%9F%93%8A%20Rapports/%60%20si%20pr%C3%A9sent).
 - **Impact** : 164 liens réparés. À rejouer `check_consistency.py` après.
 
 ### I.2 — P0-2 — [⚖️ Actes/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) : dossiers renommés  [SCRIPT]
@@ -36,8 +36,8 @@ statut: projet
 
 ### I.3 — P0-3 — Liens jurisprudence : sous-dossier `📜 Jurisprudence/README.md` manquant  [SCRIPT]
 - **Cibles** :
-  - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Analyse Responsabilites Legales.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/13%20📜%20Responsabilites%20legales.md) (L92-98, 4 liens `../../../📜 Lois/X.md`)
-  - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md](⚖️%20Actes/🔑%20Token/📚%20Analyses%20juridiques/14%20Stratégie%20jurisprudentielle.md) (L30-37, ~11 liens `../../📜 Lois/X.md`)
+  - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Analyse Responsabilites Legales.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/13%20%F0%9F%93%9C%20Responsabilites%20legales.md) (L92-98, 4 liens `../../../📜 Lois/X.md`)
+  - [⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/14%20Strat%C3%A9gie%20jurisprudentielle.md) (L30-37, ~11 liens `../../📜 Lois/X.md`)
   - (et les 2 versions `👤 Reel/` correspondantes → total ~30 liens)
 - **Correction** : insérer `📜 Jurisprudence/README.md` → `../../../📜 Lois/📜 Jurisprudence/README.mdX.md` (token) / `../../📜 Lois/📜 Jurisprudence/README.mdX.md` (reel).
 - **Vérifier** cible existe : [📜 Lois/📜 Jurisprudence/README.md89-18.422_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md) ✅ présent.
@@ -57,9 +57,9 @@ statut: projet
 ### I.6 — P0-6 — 8 fichiers `statut: final` contenant `[...]`  [MANUEL]
 - **Cibles** :
   - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md)
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/02b%20🛡️%20Constitution%20Partie%20Civile.md)
-  - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️🚨 INPI.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/31%20✉️%20Courrier%20INPI%20Opposition.md)
-  - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md](⚖️%20Actes/🔑%20Token/💰%20Etudes%20indemnisation/11+12%20📊%20Evaluation%20Dintilhac%20consolidee.md)
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/02b%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
+  - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️🚨 INPI.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/31%20%E2%9C%89%EF%B8%8F%20Courrier%20INPI%20Opposition.md)
+  - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/11%2B12%20%F0%9F%93%8A%20Evaluation%20Dintilhac%20consolidee.md)
   - (et les 4 versions `👤 Reel/`)
 - **Défaut** : `statut: final` mais `[...]` non résolu dans le corps → incohérent avec RULES #15.
 - **Action** : soit compléter le contenu, soit rétrograder en `statut: projet`. **Décision humaine requise** (le contenu `[...]` peut être volontaire en attendant une donnée réelle).

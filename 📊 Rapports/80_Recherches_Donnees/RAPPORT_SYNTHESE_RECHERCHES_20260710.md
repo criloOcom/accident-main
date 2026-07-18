@@ -20,9 +20,9 @@ type: rapport
 ## Sommaire
 
 1. [Recherches Jurisprudence Pertinente](#1-recherches-jurisprudence-pertinente)
-2. [Vérification des Articles de Loi](#2-vérification-des-articles-de-loi)
-3. [Recherche Spécifique Référé-Provision](#3-recherche-spécifique-référé-provision)
-4. [Recherche Responsabilité Dirigeants](#4-recherche-responsabilité-dirigeants)
+2. [Vérification des Articles de Loi](#2-v%C3%A9rification-des-articles-de-loi)
+3. [Recherche Spécifique Référé-Provision](#3-recherche-sp%C3%A9cifique-r%C3%A9f%C3%A9r%C3%A9-provision)
+4. [Recherche Responsabilité Dirigeants](#4-recherche-responsabilit%C3%A9-dirigeants)
 5. [Recherche Accidents du Travail](#5-recherche-accidents-du-travail)
 6. [Recommandations](#6-recommandations)
 

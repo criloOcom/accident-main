@@ -14,11 +14,11 @@ type: readme
 ---
 
 **Ce dossier contient les versions réelles de tous les actes.**  
-Généré automatiquement par le script [`.dev/app/generate_real_versions.py`](../../.dev/app/generate_real_versions.py) à partir des fichiers dans [`🔑 Token/`](../🔑%20Token/README.md).
+Généré automatiquement par le script [`.dev/app/generate_real_versions.py`](../../.dev/app/generate_real_versions.py) à partir des fichiers dans [`🔑 Token/`](../%F0%9F%94%91%20Token/README.md).
 
 ## ⚠️ Important
 
-- **Ne pas modifier directement** ces fichiers — toute modification doit être faite dans [`🔑 Token/`](../🔑%20Token/README.md) puis régénérée.
+- **Ne pas modifier directement** ces fichiers — toute modification doit être faite dans [`🔑 Token/`](../%F0%9F%94%91%20Token/README.md) puis régénérée.
 - La correspondance token ↔ identité réelle est définie dans [`🧠 Memory/TOKEN MAP.md`](../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md).
 
 ## 📂 Contenu

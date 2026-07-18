@@ -21,7 +21,7 @@ reel_path: ../../../👤 Reel/✉️ Courriers/🗄️ Archivé/🗄️ Requete 
 
 # ⚠️ FICHIER OBSOLÈTE<br>NE PLUS UTILISER
 
-> Ce fichier a été remplacé par **[🔍 Requete Article 145 CPC.md](../../⚖️%20Actes%20proceduraux/📜%20Contentieux%20civil/🔍%20Requete%20Article%20145%20CPC.md)** dans `⚖️ Actes proceduraux/`.
+> Ce fichier a été remplacé par **[🔍 Requete Article 145 CPC.md](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md)** dans `⚖️ Actes proceduraux/`.
 >
 > La version archivée est conservée dans **[🗄️ Archives/33 🗄️ Requete Constat Huissier 145 CPC.md](../../%F0%9F%97%84%EF%B8%8F%20Archives/33%20%E2%9C%89%EF%B8%8F%20Requete%20Constat%20Huissier%20145%20CPC.md)**.
 >

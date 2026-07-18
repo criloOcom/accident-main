@@ -19,9 +19,9 @@ type: rapport
 
 ## Sommaire
 
-1. [Nouvelle Structure Identifiée](#1-nouvelle-structure-identifiée)
+1. [Nouvelle Structure Identifiée](#1-nouvelle-structure-identifi%C3%A9e)
 2. [Analyse des Impacts](#2-analyse-des-impacts)
-3. [Vérification des Références](#3-vérification-des-références)
+3. [Vérification des Références](#3-v%C3%A9rification-des-r%C3%A9f%C3%A9rences)
 4. [Recommandations](#4-recommandations)
 5. [Actions Correctives](#5-actions-correctives)
 
@@ -156,10 +156,10 @@ grep -r "SITUATION DrJulieJARDON\|CR Opératoire\|NOTE DrOXYBEL\|PV Police\|Atte
 - [⚖️ Actes/🔑 Token/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) : Lien relatif vers le README
 - [⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) : Lien relatif
 - [⚖️ Actes/👤 Reel/📂 Preuves officielles/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) : Lien relatif
-- [⚖️ Actes/🔑 Token/🗂️ Organisation/📇 Index General.md](⚖️%20Actes/🔑%20Token/🗂️%20Organisation/00%20📇%20Index.md) : Référence générique
+- [⚖️ Actes/🔑 Token/🗂️ Organisation/📇 Index General.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/00%20%F0%9F%93%87%20Index.md) : Référence générique
 
 **Fichiers avec références aux documents (via Google Drive) :**
-- [⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md](⚖️%20Actes/🔑%20Token/📂%20Preuves%20officielles/01%20📁%20Dossier%20UMJ%20Preparation.md) : Liens Google Drive
+- [⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/01%20%F0%9F%93%81%20Dossier%20UMJ%20Preparation.md) : Liens Google Drive
 
 ### III.3 — Conclusion sur les Références
 

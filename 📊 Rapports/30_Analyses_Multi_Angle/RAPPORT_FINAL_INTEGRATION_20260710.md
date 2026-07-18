@@ -20,11 +20,11 @@ type: rapport
 
 ## Sommaire
 
-1. [Résumé des Étapes](#1-résumé-des-étapes)
-2. [Fichiers Générés](#2-fichiers-générés)
-3. [Modifications Apportées](#3-modifications-apportées)
-4. [Résultats des Tests](#4-résultats-des-tests)
-5. [Prochaines Étapes](#5-prochaines-étapes)
+1. [Résumé des Étapes](#1-r%C3%A9sum%C3%A9-des-%C3%A9tapes)
+2. [Fichiers Générés](#2-fichiers-g%C3%A9n%C3%A9r%C3%A9s)
+3. [Modifications Apportées](#3-modifications-apport%C3%A9es)
+4. [Résultats des Tests](#4-r%C3%A9sultats-des-tests)
+5. [Prochaines Étapes](#5-prochaines-%C3%A9tapes)
 
 ---
 
@@ -59,8 +59,8 @@ type: rapport
 - **Objectif** : Enrichir les actes avec les références
 - **Résultats** : 3 décisions jurisprudentielles intégrées dans l'assignation + création d'annexes complètes
 - **Fichiers modifiés** :
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
-  - [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](⚖️%20Actes/👤%20Reel/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/01%20%E2%9A%96%EF%B8%8F%20Assignation.md)
+  - [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/01%20%E2%9A%96%EF%B8%8F%20Assignation.md)
 - **Annexes déplacées vers 📜 Lois/📜 Jurisprudence/** :
   - [📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du fait des choses/63-13.613_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/63-13.613_CourCassation.md)
   - [📜 Lois/📜 Jurisprudence/🏛️ Action directe et obligation d'assurance/90-14.591_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/90-14.591_CourCassation.md)
@@ -105,7 +105,7 @@ type: rapport
 
 ### III.1 — Assignation en Référé-Provision
 
-**Fichier** : [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md)
+**Fichier** : [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/01%20%E2%9A%96%EF%B8%8F%20Assignation.md)
 
 **Section ajoutée** : "A. Jurisprudence Pertinente" après "II. DISCUSSION JURIDIQUE"
 

@@ -42,7 +42,7 @@ graph TD
 
 ---
 
-Pour comprendre l'enchaînement logique et l'ordre d'expédition de ces actes et courriers, veuillez consulter le [Graphe des Dépendances](../🧠%20Memory/DEPENDANCES.md).
+Pour comprendre l'enchaînement logique et l'ordre d'expédition de ces actes et courriers, veuillez consulter le [Graphe des Dépendances](../%F0%9F%A7%A0%20Memory/DEPENDANCES.md).
 
 ## 📋 Sous-dossiers 🔑 Token/ (miroir identique dans 👤 Reel/)
 

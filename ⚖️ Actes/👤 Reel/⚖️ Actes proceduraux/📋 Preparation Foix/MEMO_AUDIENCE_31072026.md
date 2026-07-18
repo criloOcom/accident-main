@@ -16,7 +16,7 @@ jx: J+63
 
 # MÉMO D'AUDIENCE<br>Audience de Référé-Provision du 31 juillet 2026
 
-> **🔴 Version révisée 18/07/2026** — Correction exploitant : voir [erratum formel](📜%20Erratum%20Correction%20Identite%20Societe.md)
+> **🔴 Version révisée 18/07/2026** — Correction exploitant : voir [erratum formel](%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md)
 
 <hr><hr>
 

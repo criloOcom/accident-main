@@ -20,10 +20,10 @@ type: rapport
 ## Sommaire
 
 1. [Description du Nouveau Dossier](#1-description-du-nouveau-dossier)
-2. [Contenu Détaillé](#2-contenu-détaillé)
+2. [Contenu Détaillé](#2-contenu-d%C3%A9taill%C3%A9)
 3. [Liens avec le Projet](#3-liens-avec-le-projet)
-4. [Mises à Jour Effectuées](#4-mises-à-jour-effectuées)
-5. [Prochaines Étapes](#5-prochaines-étapes)
+4. [Mises à Jour Effectuées](#4-mises-%C3%A0-jour-effectu%C3%A9es)
+5. [Prochaines Étapes](#5-prochaines-%C3%A9tapes)
 
 ---
 
@@ -106,7 +106,7 @@ Ce dossier contient la correspondance officielle envoyée le 10 juillet 2026 à 
 ### III.1 — Correspondance avec le Courrier n°34
 
 Ce dossier est directement lié au **courrier n°34** du projet :
-- **Document** : [⚖️ Actes/🔑 Token/✉️ Courriers/✉️🚨 Prefecture.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/34%20✉️%20EMAIL%20Maire%20Foix%20-%20Police%20Municipale%20ERP.md)
+- **Document** : [⚖️ Actes/🔑 Token/✉️ Courriers/✉️🚨 Prefecture.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/34%20%E2%9C%89%EF%B8%8F%20EMAIL%20Maire%20Foix%20-%20Police%20Municipale%20ERP.md)
 - **Type** : Email de suivi administratif
 - **Date** : 10 juillet 2026
 - **Objectif** : Mise à jour du dossier ERP et demande d'intervention
@@ -154,8 +154,8 @@ gantt
 ```markdown
 # Index<br>📂 Preuves officielles (Versions Réelles)
 
-- [📁 Preparation Expertise UMJ.md](01%20📁%20Dossier%20UMJ%20Preparation.md)
-- [20260710 📧 Actualisation Dossier ERP/](../⚖️%20Actes/Preuves%20officielles/20260710%20📧%20Actualisation%20Dossier%20ERP)
+- [📁 Preparation Expertise UMJ.md](01%20%F0%9F%93%81%20Dossier%20UMJ%20Preparation.md)
+- [20260710 📧 Actualisation Dossier ERP/](../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260710%20%F0%9F%93%A7%20Actualisation%20Dossier%20ERP)
 ```
 
 **⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md**

@@ -18,7 +18,7 @@ auteur: Simulation — Juge des Référés
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Projet Ordonnance Refere.md
 jx: J+63
 ---
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 <!-- Breadcrumb -->

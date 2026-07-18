@@ -65,10 +65,10 @@ statut: projet
   - `document` (22), `preuve` (2), `assignation` (24), `courrier` (76), `analyse_juridique` (24), `etude_indemnisation` (8), `archive` (21), `loi` (55), `jurisprudence` (22), `memory` (19), `rapport` (53), `status` (3).
   - → 8 valeurs (`document`, `preuve`, `assignation`, `analyse_juridique`, `etude_indemnisation`, `archive`, `jurisprudence`, `status`) **ne sont pas dans la liste autorisée**. Soit la nomenclature doit être élargie, soit les types doivent être remappés (ex. `assignation`→`acte`, `preuve`→`annexe`/`loi`, `jurisprudence`→`loi`, `status`→`memory`).
 - 🔴 **8 fichiers `statut: final` contenant encore des placeholders** (non résolus par la rétrogradation) :
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md) → `[...]`
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/02b%20🛡️%20Constitution%20Partie%20Civile.md) → `[...]`
-  - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️🚨 INPI.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/31%20✉️%20Courrier%20INPI%20Opposition.md) → `[...]`
-  - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md](⚖️%20Actes/🔑%20Token/💰%20Etudes%20indemnisation/11+12%20📊%20Evaluation%20Dintilhac%20consolidee.md) → `[...]`
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/01%20%E2%9A%96%EF%B8%8F%20Assignation.md) → `[...]`
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/02b%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) → `[...]`
+  - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️🚨 INPI.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/31%20%E2%9C%89%EF%B8%8F%20Courrier%20INPI%20Opposition.md) → `[...]`
+  - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/11%2B12%20%F0%9F%93%8A%20Evaluation%20Dintilhac%20consolidee.md) → `[...]`
   - (et les 4 versions `👤 Reel/` correspondantes)
   - → Ces fichiers portent `final` mais gardent `[...]` dans le corps : incohérence avec RULES #15.
 

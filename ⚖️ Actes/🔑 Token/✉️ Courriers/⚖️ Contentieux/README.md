@@ -30,4 +30,4 @@ Actes judiciaires et contentieux : saisines, oppositions, transmissions de pièc
 ### Stratégie Amiable & Négociation
 
 Pour servir de base de négociation ou de règlement amiable en parallèle de la procédure contentieuse, un protocole transactionnel formel basé sur le rapport Dintilhac a été rédigé :
-* [Protocole Transactionnel Dintilhac](../../💰%20Etudes%20indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md) — Base de négociation et accord amiable prêt à signer.
+* [Protocole Transactionnel Dintilhac](../../%F0%9F%92%B0%20Etudes%20indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md) — Base de négociation et accord amiable prêt à signer.

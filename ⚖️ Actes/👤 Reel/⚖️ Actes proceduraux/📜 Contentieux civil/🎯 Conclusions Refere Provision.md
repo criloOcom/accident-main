@@ -16,7 +16,7 @@ auteur: La Victime
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/🎯 Conclusions Refere Provision.md
 jx: J+39
 ---
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 📜 Contentieux civil › 🎯 Conclusions Refere Provision*
@@ -202,7 +202,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 - **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
 
-- **[Constat d'huissier](📸%20Requete%20Constat%20Huissier.md)** — Etat des lieux de la vasque litigieuse
+- **[Constat d'huissier](%F0%9F%93%B8%20Requete%20Constat%20Huissier.md)** — Etat des lieux de la vasque litigieuse
 
 - **[Mises en demeure J+31](../../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)** — LRAR restees sans reponse
 <hr><hr>

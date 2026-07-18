@@ -40,7 +40,7 @@ graph TD
 - **WORKFLOW.md** - Processus et workflows du projet
 - **[RECOVERY_CHECKPOINT](RECOVERY_CHECKPOINT.md)** - Point de reprise après perte mémoire (18/07)
 
-- **[Mémo Stratégie Bailleur HB BARBER](Mémo%20Stratégie%20Bailleur%20HB%20BARBER.md)**
+- **[Mémo Stratégie Bailleur HB BARBER](M%C3%A9mo%20Strat%C3%A9gie%20Bailleur%20HB%20BARBER.md)**
 - **[CARNET_RDV_UTILISATEUR](CARNET_RDV_UTILISATEUR.md)**
 - **[GESTIONNAIRE_DOC](GESTIONNAIRE_DOC.md)**
 - **[📆 Mini Calendrier Procedure](%F0%9F%93%86%20Mini%20Calendrier%20Procedure.md)**

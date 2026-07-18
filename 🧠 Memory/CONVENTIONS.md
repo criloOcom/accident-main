@@ -144,7 +144,7 @@ Contenu...
 ### Ordre des lignes
 1. **Texte** : l'extrait entre `« »` (guillemets français)
 2. **Filiation** : `**[Code > Article > ...]**` en gras
-3. **Lien** : `[Article X](URL Légifrance)` — lien inline obligatoire
+3. **Lien** : `[Article X](URL%20L%C3%A9gifrance)` — lien inline obligatoire
 4. Chaque ligne se termine par `<br>` (sauf la dernière si elle termine le bloc)
 
 ### Règles
@@ -176,7 +176,7 @@ Contenu...
 
 ### Liens internes (dans le dépôt)
 - **Toujours relatifs** : `[texte](chemin/relatif.md)`, jamais `file://` ou `/absolu/`
-- **Toujours cliquables** : pas de chemin entre backticks sans lien — `[📊 Rapports](📊%20Rapports/README.md)` ✓, `` `📊 Rapports` `` ✗
+- **Toujours cliquables** : pas de chemin entre backticks sans lien — `[📊 Rapports](%F0%9F%93%8A%20Rapports/README.md)` ✓, `` `📊 Rapports` `` ✗
 - **Dossier cité** → lien vers son `README.md`
 - **Fichier cité** → lien direct vers le fichier
 - **URL-encoding** des caractères spéciaux (espaces → `%20`, émojis → encodés)
@@ -289,7 +289,7 @@ Les caches (`__pycache__`, `.pytest_cache`) sont supprimés après exécution.
 ```markdown
 - **[PV n°2026/015967](../../Preuves%20officielles/20260602%20...)** — Depot de plainte du [J+4]
 
-- **[Mise en demeure J+31 — SAS](../📜%20Mises%20en%20demeure/J%2B31%20...)** — LRAR n° [N° LRAR Exploitant]
+- **[Mise en demeure J+31 — SAS](../%F0%9F%93%9C%20Mises%20en%20demeure/J%2B31%20...)** — LRAR n° [N° LRAR Exploitant]
 ```
 
 ### Anti-exemples (non conformes)

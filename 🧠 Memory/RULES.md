@@ -307,7 +307,7 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 
 - **Toute citation d'un dossier ou d'un fichier interne au dépôt DOIT être un lien relatif cliquable** (Markdown `[texte](chemin.md)`), jamais un simple texte entre backticks sans lien.
 - **Citation de DOSSIER** : le lien doit pointer vers le `README.md` de ce dossier (ex. [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/README.md) → `[01 ⚖️ Actes procéduraux](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/README.md)`).
-- **Citation de FICHIER** : le lien doit pointer directement vers le fichier (ex. `[RAPPORT_X](📊%20Rapports/RAPPORT_X.md)`).
+- **Citation de FICHIER** : le lien doit pointer directement vers le fichier (ex. `[RAPPORT_X](%F0%9F%93%8A%20Rapports/RAPPORT_X.md)`).
 - Le texte du lien doit être lisible (nom du dossier/fichier cité), pas un chemin illisible sauf si le contexte l'exige.
 - **Interdiction** : écrire `` `📊 Rapports/RAPPORT_X.md` `` sans le transformer en lien. Idem pour les dossiers.
 - **Scripts de référence** :

@@ -37,7 +37,7 @@ Ces documents constituent le socle argumentaire de la procédure.
 - [Note Mesures Conservatoires](Note%20Mesures%20Conservatoires.md)
 - [Note qualification penale disparition SAS](Note%20qualification%20penale%20disparition%20SAS.md)
 - [CHANGELOG_JURIDIQUE](CHANGELOG_JURIDIQUE.md)
-- [📜 Memo Axes Juridiques Avocat](📜%20Memo%20Axes%20Juridiques%20Avocat.md)
-- [📜 Note Synthese Avocat Bascule HB BARBER](📜%20Note%20Synthese%20Avocat%20Bascule%20HB%20BARBER.md)
+- [📜 Memo Axes Juridiques Avocat](%F0%9F%93%9C%20Memo%20Axes%20Juridiques%20Avocat.md)
+- [📜 Note Synthese Avocat Bascule HB BARBER](%F0%9F%93%9C%20Note%20Synthese%20Avocat%20Bascule%20HB%20BARBER.md)
 <!-- RAPPORT_JURISPRUDENCES supprimé — ce rapport n'existe plus dans 📊 Rapports. -->
 - `🧠 Memory/RAPPORT_PLAN_H.md` — Uniformisation des assignations / bordereaux

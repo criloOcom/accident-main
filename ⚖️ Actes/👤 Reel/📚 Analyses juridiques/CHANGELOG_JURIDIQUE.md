@@ -138,9 +138,9 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Fichiers concernés :**
 
-  - [`🧠 STRATEGIE Contentieux Civil.md`](../🗄️%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Civil.md)
+  - [`🧠 STRATEGIE Contentieux Civil.md`](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Civil.md)
 
-  - [`🧠 STRATEGIE Contentieux Penal.md`](../🗄️%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md)
+  - [`🧠 STRATEGIE Contentieux Penal.md`](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md)
 
 - **Raison :** S'aligner sur l'identifiant correspondant à la rédaction en vigueur de l'article 706-3 CPP (version 2023).
 
