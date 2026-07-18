@@ -178,7 +178,7 @@ En effectuant des recherches par l'adresse exacte [22 Rue Lafaurie, 09000 Foix](
 
 ### 16 juillet 2026 — Courriel du bailleur [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)
 
-**À 18h28**, je reçois un courriel de [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) (romain.delrieu@live.fr) en réponse à ma LRAR du 29 juin.
+**À 18h28**, je reçois un courriel de [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) ([**[L'Email du Propriétaire des Murs]**]) en réponse à ma LRAR du 29 juin.
 
 **Objet :** « Demande de communication d'assurance »
 

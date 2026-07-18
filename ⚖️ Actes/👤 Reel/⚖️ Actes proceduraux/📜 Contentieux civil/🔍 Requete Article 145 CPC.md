@@ -11,16 +11,16 @@ tags:
   - videos
   - astreinte
 statut: preparation
-destinataire: Tribunal Judiciaire de Foix
+destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
 reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/🔍 Requete Article 145 CPC.md
 jx: J+52
 ---
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) au jour de l'accident. La présente requête est dirigée contre cette société et ses dirigeants.
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident.
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Reel](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › 🔍 Requete Article 145 CPC*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › 🔍 Requete Article 145 CPC*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -31,10 +31,10 @@ jx: J+52
 [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 [06 30 51 67 75](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)
 
-**A l'attention de Monsieur le Président du Tribunal Judiciaire de Foix**
+**A l'attention de Monsieur le Président du Tribunal Judiciaire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
 Cabinet du Juge des Référés
 
-Foix, le 20 juillet 2026
+[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 20 juillet 2026
 
 ## I — INTRODUCTION
 
@@ -43,11 +43,11 @@ La présente requête est introduite par [Sébastien GRAZIDE](../../../../%F0%9F
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »*
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
-Elle a pour objet d'obtenir, sous astreinte, la communication par la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) et ses dirigeants des pièces nécessaires à l'exercice de l'action indemnitaire du requérant, et notamment :
+Elle a pour objet d'obtenir, sous astreinte, la communication par SAS HB BARBER et ses dirigeants des pièces nécessaires à l'exercice de l'action indemnitaire du requérant, et notamment :
 
-1. La communication du bail commercial, des états des lieux d'entrée et de sortie et des attestations d'assurance de responsabilité civile professionnelle de la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) en vigueur au 29 mai 2026 ;
+1. La communication du bail commercial, des états des lieux d'entrée et de sortie et des attestations d'assurance de responsabilité civile professionnelle de SAS HB BARBER en vigueur au [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) ;
 
-2. La communication du lien contractuel existant entre la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) et M. Ayoub BENNOURINE, coiffeur présent lors de l'accident ;
+2. La communication du lien contractuel existant entre SAS HB BARBER et [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md), coiffeur présent lors de l'accident ;
 
 3. La conservation et la communication des enregistrements de vidéosurveillance du salon pour la période du 25 mai au 5 juin 2026 ;
 
@@ -57,31 +57,31 @@ Elle a pour objet d'obtenir, sous astreinte, la communication par la [SAS HB BAR
 
 ## II — EXPOSÉ DES FAITS
 
-### 1 — L'accident du 29 mai 2026
+### 1 — L'accident du [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)
 
-Le vendredi 29 mai 2026 vers 15h20, [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) s'est rendu dans le salon de coiffure situé [22 rue / Grande Rue La Faurie à Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) pour une retouche de coupe de cheveux.
+Le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) vers 15h20, [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) s'est rendu dans le salon de coiffure situé [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) pour une retouche de coupe de cheveux.
 
 Alors que le coiffeur escaladait la vasque en céramique du bac à shampoing pour accéder au poste de télévision, l'équipement a basculé brutalement. Par réflexe, le requérant a tendu la main droite pour protéger le coiffeur ; sa paume a heurté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une coupure profonde d'environ 8,5 cm au niveau de l'index droit, avec section du tendon fléchisseur et du paquet vasculo-nerveux.
 
-Le coiffeur qui a procédé à la prestation ce jour-là se présentait sous le prénom « Ayoub ». Les relevés de paiement de l'application Wero montrent qu'un paiement de 15,00 € a été adressé le 29 mai 2026 à 15h20 à M. Ayoub BENNOURINE, tél. +33 7 58 40 12 87, avec le message « coif ». Il est ainsi identifié comme la personne ayant réalisé la coupe et comme témoin direct de l'accident, de l'état du bac à shampoing et des consignes de sécurité éventuellement données.
+Le coiffeur qui a procédé à la prestation ce jour-là se présentait sous le prénom [**[Le Prénom du Préposé]**]. Les relevés de paiement de l'application Wero montrent qu'un paiement de 15,00 € a été adressé le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) à 15h20 à [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md), tél. [07 58 40 12 87](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md), avec le message « coif ». Il est ainsi identifié comme la personne ayant réalisé la coupe et comme témoin direct de l'accident, de l'état du bac à shampoing et des consignes de sécurité éventuellement données.
 
-Le requérant a été opéré en urgence le 30 mai 2026 par le [Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md), au service SOS Main de la [Clinique de l'Union](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md). L'intervention a consisté en une suture tendineuse (6 brins) et une suture microchirurgicale des nerfs et vaisseaux avec neurolyse d'urgence. Le chirurgien a indiqué un pronostic de récupération neurologique d'au moins un an, avec un résultat souvent partiel s'agissant d'une suture nerveuse.
+Le requérant a été opéré en urgence le [30 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par le [Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md), au service SOS Main de la [Clinique de l'Union](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md). L'intervention a consisté en une suture tendineuse (6 brins) et une suture microchirurgicale des nerfs et vaisseaux avec neurolyse d'urgence. Le chirurgien a indiqué un pronostic de récupération neurologique d'au moins un an, avec un résultat souvent partiel s'agissant d'une suture nerveuse.
 
 ### 2 — Démarches amiables et découverte du véritable exploitant
 
-Dans un premier temps, le requérant a cru, de bonne foi, que le salon était exploité par la [SAS LES MAUVAIS GARÇONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), enseigne apposée sur le lieu. Il a adressé plusieurs lettres recommandées avec accusé de réception le 29 juin 2026 à cette société, à son président et à sa directrice générale, pour solliciter la communication de l'assurance de responsabilité civile professionnelle. Aucune réponse n'est parvenue.
+Dans un premier temps, le requérant a cru, de bonne foi, que le salon était exploité par [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), enseigne apposée sur le lieu. Il a adressé plusieurs lettres recommandées avec accusé de réception le [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) à cette société, à son président et à sa directrice générale, pour solliciter la communication de l'assurance de responsabilité civile professionnelle. Aucune réponse n'est parvenue.
 
-Parallèlement, le requérant a écrit le 29 juin 2026 à [M. Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), propriétaire des locaux, lequel a répondu par courriel le 16 juillet 2026 en indiquant que la [SAS LES MAUVAIS GARÇONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) avait quitté les lieux le 10 mars 2026 à la suite d'un état des lieux de sortie, et qu'en conséquence elle n'exploitait plus le salon au moment de l'accident.
+Parallèlement, le requérant a écrit le [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) à [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), propriétaire des locaux, lequel a répondu par courriel le 16 juillet 2026 en indiquant que [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) avait quitté les lieux le 10 mars 2026 à la suite d'un état des lieux de sortie, et qu'en conséquence elle n'exploitait plus le salon au moment de l'accident.
 
-Dès le 1er juin 2026, le requérant a également signalé les faits à la mairie de Foix. Par courriel, M. Bernard TAVELLA, adjoint au maire en charge de l'urbanisme et des travaux, lui a indiqué avoir saisi la préfecture afin de mobiliser l'inspection du travail et le CODAF. À ce jour, aucune suite concrète ne lui a été portée à connaissance (**Pièce n°17**).
+Dès le 1er juin 2026, le requérant a également signalé les faits à la mairie de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md). Par courriel, [Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), adjoint au maire en charge de l'urbanisme et des travaux, lui a indiqué avoir saisi la préfecture afin de mobiliser l'inspection du travail et le CODAF. À ce jour, aucune suite concrète ne lui a été portée à connaissance (**Pièce n°17**).
 
-À la suite de cette information, le requérant a consulté les registres officiels (RNE / DATA INPI et répertoire SIRENE) et a découvert que le salon était en réalité exploité depuis le 22 avril 2026 par la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (SIREN [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md)), ayant pour président [M. Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) et pour directrice générale [Mme Catherine SORROCHE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
+À la suite de cette information, le requérant a consulté les registres officiels (RNE / DATA INPI et répertoire SIRENE) et a découvert que le salon était en réalité exploité depuis le 22 avril 2026 par SAS HB BARBER (SIREN [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md)), ayant pour président [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) et pour directrice générale [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
 
 Le requérant a déposé le 20 juillet 2026 une plainte complémentaire auprès du commissariat de Foix pour corriger l'identité de la société exploitante **(Pièce n°14)**.
 
 ### 3 — Constatations sur place du 16 juillet 2026
 
-Le 16 juillet 2026, le requérant s'est rendu sur place et a constaté que le bac à shampoing en céramique blanche, brisé et tranchant, qui avait provoqué l'accident, avait été entièrement retiré et remplacé par un bac neuf de couleur noire. Le meuble de télévision mural avait également été démonté, les trous de fixation étant visibles sur le mur nu. L'échange avec les personnes présentes (notamment M. BERGUIGA) n'a donné lieu à aucune information sur ces modifications, ni sur l'identité de l'assureur ou les déclarations de sinistre.
+Le 16 juillet 2026, le requérant s'est rendu sur place et a constaté que le bac à shampoing en céramique blanche, brisé et tranchant, qui avait provoqué l'accident, avait été entièrement retiré et remplacé par un bac neuf de couleur noire. Le meuble de télévision mural avait également été démonté, les trous de fixation étant visibles sur le mur nu. L'échange avec les personnes présentes (notamment [Hamza El Hachemi BERGUIGA]) n'a donné lieu à aucune information sur ces modifications, ni sur l'identité de l'assureur ou les déclarations de sinistre.
 
 Par ailleurs, l'établissement est resté fermé environ 30 jours après l'accident et n'a rouvert que début juillet 2026, ce qui a empêché toute constatation officielle de l'état des lieux par les autorités avant le remplacement du bac (**Pièce n°16**).
 
@@ -95,9 +95,9 @@ L'article 145 du Code de procédure civile dispose :
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »*
 
-En l'espèce, le motif légitime est caractérisé par l'impossibilité pour le requérant d'accéder aux documents et pièces nécessaires à la préparation de son action indemnitaire, détenus exclusivement par la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), ses dirigeants et le bailleur.
+En l'espèce, le motif légitime est caractérisé par l'impossibilité pour le requérant d'accéder aux documents et pièces nécessaires à la préparation de son action indemnitaire, détenus exclusivement par SAS HB BARBER, ses dirigeants et le bailleur.
 
-Le requérant a, en amont de la présente requête, entrepris l'ensemble des démarches amiables à sa portée (déclarations et plaintes auprès des services de police, lettres recommandées à l'exploitant initialement identifié et à son bailleur, signalement auprès de la mairie de Foix et échanges avec l'adjoint au maire), demeurées sans réponse satisfaisante et sans clarification effective de l'identité de l'exploitant et de son assureur, ce qui justifie à ce stade le recours aux mesures d'instruction sollicitées sur le fondement de l'article 145 du Code de procédure civile.
+Le requérant a, en amont de la présente requête, entrepris l'ensemble des démarches amiables à sa portée (déclarations et plaintes auprès des services de police, lettres recommandées à l'exploitant initialement identifié et à son bailleur, signalement auprès de la mairie de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) et échanges avec [Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md)), demeurées sans réponse satisfaisante et sans clarification effective de l'identité de l'exploitant et de son assureur, ce qui justifie à ce stade le recours aux mesures d'instruction sollicitées sur le fondement de l'article 145 du Code de procédure civile.
 
 La jurisprudence admet que la communication forcée de documents contractuels constitue une mesure d'instruction licite au sens de l'article 145 CPC, dès lors qu'elle est nécessaire à la préparation d'un procès futur.
 
@@ -112,7 +112,7 @@ L'article L.124-3 du Code des assurances consacre le droit de la victime d'agir 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »*
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
-Ce droit est autonome et ne peut être paralysé par la carence du responsable à communiquer les coordonnées de son assureur. L'obstruction de la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) prive le requérant de son droit d'agir et constitue une entrave à ses droits les plus fondamentaux.
+Ce droit est autonome et ne peut être paralysé par la carence du responsable à communiquer les coordonnées de son assureur. L'obstruction de SAS HB BARBER prive le requérant de son droit d'agir et constitue une entrave à ses droits les plus fondamentaux.
 
 ### III.3 — Sur l'urgence de la conservation des vidéos
 
@@ -126,21 +126,21 @@ Le bac à shampoing défectueux, pièce à conviction centrale, n'est plus prés
 
 ## IV — MESURES D'INSTRUCTION SOLLICITÉES
 
-### IV.1 — À la charge de la SAS HB BARBER, de M. Hamza El Hachemi BERGUIGA et de Mme Catherine SORROCHE
+### IV.1 — À la charge de SAS HB BARBER, de [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) et de [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
 
 **1 — Communication du bail commercial et des états des lieux**
 
-Ordonner à la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) de communiquer :
+Ordonner à SAS HB BARBER de communiquer :
 
-1.1. Le bail commercial ou tout avenant liant la société au propriétaire des locaux, [M. Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) ;
+1.1. Le bail commercial ou tout avenant liant la société au propriétaire des locaux, [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) ;
 
 1.2. L'état des lieux d'entrée du 22 avril 2026 (ou à la date de prise de possession des locaux) ;
 
-1.3. L'état des lieux de sortie du 10 mars 2026 établi avec la [SAS LES MAUVAIS GARÇONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
+1.3. L'état des lieux de sortie du 10 mars 2026 établi avec [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
 **2 — Communication des attestations d'assurance**
 
-Ordonner à la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) de communiquer l'intégralité de ses polices d'assurance de responsabilité civile professionnelle en vigueur au 29 mai 2026, ou à défaut une attestation de l'assureur mentionnant :
+Ordonner à SAS HB BARBER de communiquer l'intégralité de ses polices d'assurance de responsabilité civile professionnelle en vigueur au [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), ou à défaut une attestation de l'assureur mentionnant :
 
 2.1. La dénomination et l'adresse de la compagnie d'assurance ;
 
@@ -152,29 +152,29 @@ Ordonner à la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF
 
 **3 — Conservation et communication des vidéosurveillance**
 
-Ordonner à la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) de conserver et de communiquer l'intégralité des enregistrements de vidéosurveillance du salon pour la période du 25 mai 2026 au 5 juin 2026.
+Ordonner à SAS HB BARBER de conserver et de communiquer l'intégralité des enregistrements de vidéosurveillance du salon pour la période du 25 mai 2026 au 5 juin 2026.
 
 **4 — Conservation du bac à shampoing et communication des documents de maintenance**
 
-Ordonner à la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) de conserver le bac à shampoing défectueux en l'état et de communiquer tout document relatif à son installation, sa maintenance ou ses réparations.
+Ordonner à SAS HB BARBER de conserver le bac à shampoing défectueux en l'état et de communiquer tout document relatif à son installation, sa maintenance ou ses réparations.
 
-**5 — Sur le statut et les liens contractuels de M. Ayoub BENNOURINE**
+**5 — Sur le statut et les liens contractuels de [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)**
 
-Ordonner à la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) de communiquer tout document établissant le lien contractuel existant au 29 mai 2026 entre elle et M. Ayoub BENNOURINE (contrat de travail, contrat de location de fauteuil, contrat de prestation de services, convention de collaboration ou tout autre écrit), de manière à préciser s'il intervenait en qualité de salarié, de travailleur indépendant, de loueur de fauteuil ou à un autre titre, ainsi que, le cas échéant, les assurances de responsabilité civile souscrites à raison de cette activité.
+Ordonner à SAS HB BARBER de communiquer tout document établissant le lien contractuel existant au [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) entre elle et [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (contrat de travail, contrat de location de fauteuil, contrat de prestation de services, convention de collaboration ou tout autre écrit), de manière à préciser s'il intervenait en qualité de salarié, de travailleur indépendant, de loueur de fauteuil ou à un autre titre, ainsi que, le cas échéant, les assurances de responsabilité civile souscrites à raison de cette activité.
 
-### IV.2 — À la charge de M. Romain DELRIEU (bailleur)
+### IV.2 — À la charge de [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) (bailleur)
 
-Ordonner à [M. Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) de communiquer :
+Ordonner à [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) de communiquer :
 
-6.1. Le bail commercial ou avenant liant la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) aux locaux ;
+6.1. Le bail commercial ou avenant liant SAS HB BARBER aux locaux ;
 
 6.2. L'attestation d'assurance de responsabilité civile du propriétaire pour l'immeuble concerné ;
 
 6.3. L'état des lieux de sortie du 10 mars 2026 (copie des photos déjà transmises par courriel du 16 juillet 2026).
 
-### IV.3 — Subsidiairement, à la charge de la SAS LES MAUVAIS GARÇONS
+### IV.3 — Subsidiairement, à la charge de [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
-Dans l'hypothèse où la [SAS LES MAUVAIS GARÇONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) conserverait des documents relatifs à la période antérieure au 22 avril 2026 ou à l'état du matériel laissé sur place, ordonner à cette société de communiquer l'état des lieux de sortie du 10 mars 2026 et tout document relatif à l'état du bac à shampoing.
+Dans l'hypothèse où [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) conserverait des documents relatifs à la période antérieure au 22 avril 2026 ou à l'état du matériel laissé sur place, ordonner à cette société de communiquer l'état des lieux de sortie du 10 mars 2026 et tout document relatif à l'état du bac à shampoing.
 
 <hr><hr>
 
@@ -196,53 +196,53 @@ Vu l'article L.124-3 du Code des assurances,
 
 Vu les pièces versées aux débats,
 
-[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) demande qu'il plaise à Monsieur le Président du Tribunal Judiciaire de Foix, statuant en référé, de :
+[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) demande qu'il plaise à Monsieur le Président du Tribunal Judiciaire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), statuant en référé, de :
 
-1. **ORDONNER** à la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) de communiquer le bail commercial, les états des lieux d'entrée et de sortie, et les attestations d'assurance de responsabilité civile professionnelle en vigueur au 29 mai 2026, conformément au point IV.1 (1 et 2) ;
+1. **ORDONNER** à SAS HB BARBER de communiquer le bail commercial, les états des lieux d'entrée et de sortie, et les attestations d'assurance de responsabilité civile professionnelle en vigueur au [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), conformément au point IV.1 (1 et 2) ;
 
-2. **ORDONNER** à la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) de conserver et de communiquer les enregistrements de vidéosurveillance pour la période du 25 mai au 5 juin 2026, conformément au point IV.1 (3) ;
+2. **ORDONNER** à SAS HB BARBER de conserver et de communiquer les enregistrements de vidéosurveillance pour la période du 25 mai au 5 juin 2026, conformément au point IV.1 (3) ;
 
-3. **ORDONNER** à la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) de conserver le bac à shampoing défectueux en l'état et de communiquer tout document de maintenance, conformément au point IV.1 (4) ;
+3. **ORDONNER** à SAS HB BARBER de conserver le bac à shampoing défectueux en l'état et de communiquer tout document de maintenance, conformément au point IV.1 (4) ;
 
-4. **ORDONNER** à la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) de communiquer tout document établissant le lien contractuel avec M. Ayoub BENNOURINE au 29 mai 2026, conformément au point IV.1 (5) ;
+4. **ORDONNER** à SAS HB BARBER de communiquer tout document établissant le lien contractuel avec [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) au [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), conformément au point IV.1 (5) ;
 
-5. **ORDONNER** à [M. Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) de communiquer le bail commercial, l'attestation d'assurance du propriétaire et l'état des lieux de sortie du 10 mars 2026, conformément au point IV.2 ;
+5. **ORDONNER** à [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) de communiquer le bail commercial, l'attestation d'assurance du propriétaire et l'état des lieux de sortie du 10 mars 2026, conformément au point IV.2 ;
 
-6. **ORDONNER** subsidiairement à la [SAS LES MAUVAIS GARÇONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) de communiquer l'état des lieux de sortie du 10 mars 2026 et tout document relatif à l'état du bac à shampoing, conformément au point IV.3 ;
+6. **ORDONNER** subsidiairement à [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) de communiquer l'état des lieux de sortie du 10 mars 2026 et tout document relatif à l'état du bac à shampoing, conformément au point IV.3 ;
 
 7. **ASSORTIR** les obligations ci-dessus d'une astreinte de [150 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-astreinte-145.md) par jour de retard à compter du 8ème jour suivant la signification de l'ordonnance à intervenir ;
 
 8. **SE RÉSERVER** la liquidation de l'astreinte ;
 
-9. **CONDAMNER IN SOLIDUM** la [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), [M. Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) et [Mme Catherine SORROCHE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) à payer à [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) la somme de 1 500 € sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
+9. **CONDAMNER IN SOLIDUM** SAS HB BARBER, [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) et [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) à payer à [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) la somme de 1 500 € sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. »*
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
 
-Fait à Foix, le 20 juillet 2026.
+Fait à [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 20 juillet 2026.
 
 [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 
-- **Pièce n°1 :** Copie du procès-verbal de police n°2026/015967 établi par le Commissariat de Foix
-- **Pièce n°2 :** [Certificat médical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du Dr Julie JARDON (SMUR 09) en date du 29 mai 2026
-- **Pièce n°3 :** [Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) du Dr Iskander DJERBI (SOS Main) en date du 30 mai 2026
-- **Pièce n°4 :** Facture de pharmacie post-opératoire (29 mai 2026)
-- **Pièce n°5 :** Facture de chirurgie SOS Main (790,23 €) (10 juin 2026)
-- **Pièce n°6 :** Preuve de paiement par virement Wero de 15,00 € à M. Ayoub BENNOURINE (message « coif ») et remboursement ultérieur
-- **Pièce n°7 :** Attestation d'immatriculation RNE / DATA INPI de la SAS HB BARBER
-- **Pièce n°8 :** Avis de situation SIRENE de la SAS HB BARBER
-- **Pièce n°9 :** Liste des souscripteurs et certificat de dépôt de fonds de la SAS HB BARBER
-- **Pièce n°10 :** Courrier recommandé du 29 juin 2026 à la SAS LES MAUVAIS GARÇONS (avec preuve d'envoi)
-- **Pièce n°11 :** Courrier recommandé du 29 juin 2026 à M. Sabir MOUNTASSER (avec preuve d'envoi)
-- **Pièce n°12 :** Courrier recommandé du 29 juin 2026 à Mme Catherine ANDISSAC (avec preuve d'envoi)
-- **Pièce n°13 :** Courrier recommandé du 29 juin 2026 à M. Romain DELRIEU (avec AR signé le 3 juillet 2026)
+- **Pièce n°1 :** Copie du procès-verbal de police n°[2026/015967](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) établi par le Commissariat de [Foix]
+- **Pièce n°2 :** [Certificat médical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du [Dr Julie JARDON](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) (SMUR 09) en date du [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)
+- **Pièce n°3 :** [Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) du [Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) (SOS Main) en date du [30 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md)
+- **Pièce n°4 :** Facture de pharmacie post-opératoire ([29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
+- **Pièce n°5 :** Facture de chirurgie SOS Main ([790,23 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-facture-chirurgie.md)) ([10 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md))
+- **Pièce n°6 :** Preuve de paiement par virement Wero de 15,00 € à [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (message « coif ») et remboursement ultérieur
+- **Pièce n°7 :** Attestation d'immatriculation RNE / DATA INPI de SAS HB BARBER
+- **Pièce n°8 :** Avis de situation SIRENE de SAS HB BARBER
+- **Pièce n°9 :** Liste des souscripteurs et certificat de dépôt de fonds de SAS HB BARBER
+- **Pièce n°10 :** Courrier recommandé du [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) à [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (avec preuve d'envoi)
+- **Pièce n°11 :** Courrier recommandé du [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (avec preuve d'envoi)
+- **Pièce n°12 :** Courrier recommandé du [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) à [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (avec preuve d'envoi)
+- **Pièce n°13 :** Courrier recommandé du [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) à [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) (avec AR signé le [3 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-35-ar-proprietaire.md))
 - **Pièce n°14 :** Copie de la plainte complémentaire déposée au commissariat de Foix le 20 juillet 2026
-- **Pièce n°15 :** Courriel de M. Romain DELRIEU du 16 juillet 2026 avec photos de l'état des lieux de sortie
+- **Pièce n°15 :** Courriel de [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) du 16 juillet 2026 avec photos de l'état des lieux de sortie
 - **Pièce n°16 :** Note de constatations du 16 juillet 2026 (visite des lieux), photos des lieux modifiés
-- **Pièce n°17 :** Échange de courriels avec M. Bernard TAVELLA, adjoint au maire de Foix (signalement du 1er juin 2026 et réponse indiquant la saisine de la préfecture / inspection du travail / CODAF)
+- **Pièce n°17 :** Échange de courriels avec [Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), adjoint au maire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) (signalement du 1er juin 2026 et réponse indiquant la saisine de la préfecture / inspection du travail / CODAF)
 <hr><hr>
 
 ## Sources Législation

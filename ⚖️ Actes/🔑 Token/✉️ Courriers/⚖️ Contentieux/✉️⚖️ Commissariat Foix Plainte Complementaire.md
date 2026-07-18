@@ -84,7 +84,7 @@ Parallèlement, dès le 1er juin 2026, j'ai également signalé les faits à la 
 
 ## 3 — Éléments nouveaux : réponse du bailleur et extraits officiels (INPI / RNE / SIRENE)
 
-À la suite de ces courriers, j'ai reçu, le 16 juillet 2026, un courriel de [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), propriétaire des locaux du 22 rue / Grande Rue La Faurie à Foix. Dans ce message, M. DELRIEU m'indique notamment que :
+À la suite de ces courriers, j'ai reçu, le 16 juillet 2026, un courriel de [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), propriétaire des locaux du 22 rue / Grande Rue La Faurie à Foix. Dans ce message, M. [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) m'indique notamment que :
 
 - la [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) a quitté les lieux et a procédé à un état des lieux de sortie le 10 mars 2026 ;
 - en conséquence, cette société n'occupait plus les locaux au moment de mon accident du 29 mai 2026, et il estime que sa responsabilité ne pourrait donc pas être engagée pour un fait survenu après son départ.
@@ -168,7 +168,7 @@ Que les faits déjà décrits dans ma plainte initiale (accident provoqué par u
 - l'audition de [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), Directrice Générale,
 - l'audition, en tant que de besoin, de [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), propriétaire bailleur,
 - la collecte, auprès d'eux, des documents suivants :
-  - bail commercial ou avenant liant M. DELRIEU à la **[Le Nouvel Exploitant (HB BARBER)]**,
+  - bail commercial ou avenant liant M. [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) à la **[Le Nouvel Exploitant (HB BARBER)]**,
   - états des lieux d'entrée et de sortie (LES MAUVAIS GARÇONS, puis HB BARBER),
   - attestations d'assurance de responsabilité civile professionnelle de la **[Le Nouvel Exploitant (HB BARBER)]** en vigueur au 29 mai 2026,
   - le cas échéant, attestations d'assurance du bailleur pour l'immeuble concerné.

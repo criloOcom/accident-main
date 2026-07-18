@@ -80,7 +80,7 @@ Mme [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F
 
 Le **16 juillet 2026**, j'ai reçu un courriel de [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), propriétaire bailleur des locaux du 22 rue Lafaurie, en réponse à ma lettre recommandée du 29 juin 2026 par laquelle je sollicitais les coordonnées de l'assureur de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md).
 
-Dans ce courriel, M. DELRIEU m'indique notamment :
+Dans ce courriel, M. [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) m'indique notamment :
 
 > « **[…]** je vous informe que je suis au regret de ne pouvoir vous renseigner sur l'assurance contractée par [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) car cette société a cessé toute activité dans mes locaux depuis le 10/03/2026 comme en atteste l'état des lieux de sortie signé par son représentant à cette date. Or, votre accident du travail étant postérieur à cette date, [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) ne peut donc pas voir sa responsabilité engagée. »
 
@@ -151,7 +151,7 @@ Je reste à la disposition des services d'enquête pour toute précision complé
 
 ## Bordereau des pièces jointes
 
-- **[Courriel bailleur DELRIEU 16/07/2026](...)** — Réponse LRAR + 3 photos état des lieux de sortie
+- **[Courriel bailleur [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) 16/07/2026](...)** — Réponse LRAR + 3 photos état des lieux de sortie
 
 - **[Note de constatations 16/07/2026](...)** — Visite des lieux, disparition du bac, découverte [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
 

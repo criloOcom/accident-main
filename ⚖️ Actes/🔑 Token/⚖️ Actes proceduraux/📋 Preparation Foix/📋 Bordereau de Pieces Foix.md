@@ -36,7 +36,7 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 B
 
 - ☐ **Pièce n°6 :** Courriel de [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) (bailleur) du 16/07/2026 — réponse LRAR — 1 page
 
-- ☐ **Pièce n°7 :** Photos état des lieux de sortie (3 fichiers joints au mail DELRIEU) — 3 pages
+- ☐ **Pièce n°7 :** Photos état des lieux de sortie (3 fichiers joints au mail de [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)) — 3 pages
 
 - ☐ **Pièce n°8 :** Fiche RNE SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (SIREN [**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md)) — DATA INPI — 2 pages
 
@@ -64,7 +64,7 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 B
 
 - ☐ **Pièce n°17 :** Échanges de courriels avec Mairie de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) (Mme MAGALHAES / [**[L'Adjoint au Maire de la Commune]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md)) — 4 pages
 
-- ☐ **Pièce n°18 :** Accusés de réception LRAR (29/06/2026) : [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), Sorrock-[**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), DELRIEU — 3 pages
+- ☐ **Pièce n°18 :** Accusés de réception LRAR (29/06/2026) : [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) — 3 pages
 
 - ☐ **Pièce n°19 :** Copies LRAR adressées au salon le 29/06/2026 — 4 pages
 

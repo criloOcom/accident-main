@@ -144,7 +144,7 @@ Lors de la visite sur place le 16/07/2026 :
 - **Meuble/étagère murale** : disparu, trous de fixation encore visibles
 - Salon resté fermé plusieurs semaines après l'accident (risque de non-conservation des vidéos et remplacement du matériel accidentogène)
 
-Échange avec la personne identifiée comme Hamza [Hamza El Hachemi BERGUIGA](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) : refus de coopérer, refus de fournir assurance/facture/justificatif, propos contradictoires (prétend que la victime était déjà venue le jour de l'incident), demande de quitter les lieux.
+Échange avec la personne identifiée comme [Hamza El Hachemi BERGUIGA](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) : refus de coopérer, refus de fournir assurance/facture/justificatif, propos contradictoires (prétend que la victime était déjà venue le jour de l'incident), demande de quitter les lieux.
 
 <hr><hr>
 

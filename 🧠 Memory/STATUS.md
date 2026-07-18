@@ -161,7 +161,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 ### Actions réalisées
 
 #### 🔴 Priorité 1 : Email Maire Foix — Demande intervention Police Municipale
-- **Fichier créé** : [⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️🚨 Prefecture.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Prefecture.md)
+- **Fichier créé** : [⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️🚨 Prefecture.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Prefecture.md)
 - **Destinataire** : Mme Marine BORDES, Maire de Foix (`secretariat@mairie-foix.fr`)
 - **Objet** : Demande d'intervention Police Municipale pour contrôle ERP au 22 Rue Lafaurie
 - **Statut** : ✅ Brouillon prêt — envoi prévu à 8h00 (draft Gmail bloqué par OAuth `invalid_grant`, fichier local disponible pour copier-coller)
@@ -263,7 +263,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 - M01, M15 déjà sur `main` (pas besoin de PR)
 
 ### Nouveaux fichiers créés
-- [⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️📝 SIE URSSAF Mutualisation.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20SIE%20URSSAF%20Mutualisation.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️📝 SIE URSSAF Mutualisation.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20SIE%20URSSAF%20Mutualisation.md)
 - `⚖️ Actes/🔑 Token/✉️ Courriers/33 ✉️ Requête Constat Huissier 145 CPC.md`
 - [⚖️ Actes/🔑 Token/🗄️ Archives/11 Fiche Reflexe 48h Victime.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/11%20Fiche%20Reflexe%2048h%20Victime.md)
 - `⚖️ Actes/🔑 Token/📚 Analyses juridiques/17 Note Contentieux Administratif.md`
