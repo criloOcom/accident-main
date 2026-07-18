@@ -94,6 +94,8 @@ ni contacter des personnes à ta place.
 | 📋 | **Envoyer relance Dr DJERBI** — certificat consolidation | Dès que possible | ❌ NON FAIT | **Haute** |
 | 📄 | **Adresses emails des témoins** à nous communiquer | Avant envoi attestations | ❌ NON FAIT | Moyenne |
 | 📄 | **Email/téléphone Dr DJERBI** à nous communiquer | Avant relance | ❌ NON FAIT | Moyenne |
+| 📋 | **Wero (PSP paiement)** — rédiger/envoyer courrier conservation + RGPD (Pièce n°X) | Dès que possible | ❌ NON FAIT | **Haute** |
+| 📋 | **Témoin Ayoub** — envoi du SMS modèle + capture d'écran de la réponse | Dès que possible | ❌ NON FAIT | **Haute** |
 
 ### ✅ Phase 30 — Erratum Correction Société (17 juillet 2026)
 | # | Action | Statut |

@@ -55,6 +55,33 @@ statut: preparation
   - Intitulé bordereau : *« Pièce n° X — Certificat de dépôt de fonds Caisse d'Épargne — Capital de la SAS HB BARBER (8 avril 2026) »*.
   - Attendu type pour requête : *« Attendu que la pièce n° X, certificat de dépôt de fonds délivré le 8 avril 2026 par la Caisse d'Épargne Midi-Pyrénées, atteste de la constitution de la SAS HB BARBER pour exploiter le local sis 22 rue/Grande Rue La Faurie à Foix, avec un capital de 1 000 € détenu à hauteur de 990 € par M. Hamza BERGUIGA et de 10 € par Mme Catherine SORROCHE ; qu'il en résulte que ces derniers contrôlent conjointement cette société, ce qui corrobore, avec les autres pièces du dossier, la continuité d'exploitation du salon de coiffure au sein duquel l'accident du 29 mai 2026 est survenu. »*
 
+## 4. Paiement Wero – Témoin Ayoub
+
+### 4.1 Fait de base
+Le 29/05/2026, Sébastien a effectué un paiement de 15 € via l'application Wero au bénéfice d'un compte identifié au nom d'**[Le Préposé de l'Exploitation]** (Ayoub BENNOURINE), correspondant à la prestation de coiffure reçue immédiatement avant l'accident. 
+* **Preuve** : Relevé de transaction Wero mentionnant le débit et le nom du bénéficiaire.
+* **Téléphone du bénéficiaire** : **[Le Téléphone du Préposé]** (+33 7 58 40 12 87).
+
+### 4.2 Rôle d'Ayoub dans le dossier
+Ayoub Bennourine est formellement qualifié comme **préposé coiffeur / encaisseur Wero présent au moment des faits**. Son identification a une double importance :
+1. **Témoignage oculaire direct** : Il est le témoin clé sur le déroulement de l'accident (sa propre escalade du bac à shampoing, le basculement du meuble, la coupure profonde, la gravité immédiate de la plaie, l'appel du SAMU/pompiers, et l'état de la vasque).
+2. **Lien de préposition & Commercialité** : L'encaissement du paiement Wero de 15 € pour la prestation de coiffure ancre factuellement et juridiquement le contrat de prestation de services et le lien de subordination/préposition avec la société exploitante au moment précis du sinistre.
+
+### 4.3 Limites juridiques sur Wero (PSP)
+Wero agit en tant que Prestataire de Services de Paiement (PSP). À ce titre, il est soumis au **secret bancaire et professionnel** concernant les données personnelles et KYC de ses utilisateurs (dont Ayoub Bennourine).
+* Sébastien ne peut pas exiger de Wero la communication directe de la fiche KYC complète d'Ayoub, de son adresse physique ou de son IBAN.
+* En revanche, ces éléments peuvent être requis judiciairement :
+  * Soit par les services de police/gendarmerie par voie de **réquisition judiciaire** dans le cadre de l'enquête pénale.
+  * Soit par le juge civil des référés sur le fondement des **articles 11 et 145 du CPC** (injonction de communication de pièces sous astreinte adressée à un tiers détenteur).
+
+### 4.4 Ligne de conduite (Ce que Sébastien doit demander à Wero)
+Sébastien doit formuler une demande écrite à Wero s'articulant sur deux volets distincts, sans leur demander de violer le secret professionnel :
+1. **Pour lui (RGPD - Droit d'accès)** : Obtenir la confirmation technique détaillée de sa propre transaction du 29/05/2026 (date et heure précises à la seconde, identifiants techniques internes de transaction, référence unique).
+2. **Pour la justice (Mesure conservatoire & Coopération)** :
+   * Demander expressément à Wero de **conserver l'ensemble des données** liées à cette transaction et au compte bénéficiaire associé (logs de connexion, adresse IP, type d'appareil, fiche d'identification KYC du bénéficiaire).
+   * Les informer formellement que cette transaction fait l'objet d'une enquête pénale en cours (plainte) et d'une procédure civile imminente (Requête 145 CPC).
+   * Demander qu'ils se préparent à répondre avec diligence à toute réquisition judiciaire ou policière concernant ce transfert de fonds.
+
 ## 5. Commentaires juridiques par pièce (bordereau)
 
 Commentaires à produire sous chaque pièce dans un bordereau ou un dossier d'avocat.

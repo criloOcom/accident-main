@@ -22,6 +22,7 @@ type: memory
 > **Phase 28 ✅** Avis Dintilhac externe — Rapport + tokens financiers mis à jour (✅ TERMINÉ)
 > **Phase 29 ✅** Migration HB BARBER — tokens, scripts, 3 documents Foix Reel/Token, frise, mémo stratégie bailleur (✅ 17/07)
 > **Phase 30 ✅** Erratum Correction Identité Société — document maître, mise à jour des 4 documents Foix, régénération Reel, correction des sections visant LMG (✅ 17/07)
+> **Phase 31 🚧** Intégration Stratégie Wero & Témoin Ayoub — mise à jour de la documentation stratégique, de la roadmap et des actes (Plaintes, 145 CPC, Mémo Avocat) (🚧 En cours 18/07)
 > 
 > ## Phase 21 — Navigation Interactive Cross-Document (13 juillet 2026) ✅ [TERMINÉ]
 
@@ -1069,3 +1070,39 @@ Intégrer l'avis indemnitaire externe Dintilhac (2ᵉ passe corrigée) : correct
 - `🧠 Memory/🗂️ Tokens/token-finance-incidence-professionnelle.md` — refonte complète
 - `🧠 Memory/STRICT VARIABLES.md` — nouvelle section + tableau enrichi
 - `🧠 Memory/STATUS.md` — présente section
+
+---
+
+## Phase 29 — Migration HB BARBER (17 juillet 2026) ✅ [TERMINÉ]
+
+### Objectif
+Prendre acte de la fermeture de la SAS LMG au 10/03/2026 et du démarrage d'activité de la SAS HB BARBER au 22/04/2026. Mettre à jour l'ensemble de la base documentaire pour cibler le bon exploitant au jour de l'accident (29/05/2026).
+
+### Actions réalisées
+1. Création des tokens d'anonymisation pour le nouvel exploitant, son président et sa directrice générale.
+2. Mise à jour de la `TOKEN MAP.md`.
+3. Correction de l'assignation en référé et de la requête mandataire ad hoc.
+
+---
+
+## Phase 30 — Erratum Correction Identité Société (17 juillet 2026) ✅ [TERMINÉ]
+
+### Objectif
+Mettre en place un erratum formel visant à corriger l'erreur de désignation initiale (visant à tort la SAS LMG), afin de la déposer aux autorités et de la notifier.
+
+### Actions réalisées
+1. Rédaction de l'acte unifié `📜 Erratum Correction Identite Societe.md`.
+2. Mise à jour de l'ensemble des courriers et pièces associées à Foix.
+
+---
+
+## Phase 31 — Stratégie Wero et Témoin Ayoub (18 juillet 2026) 🚧 [EN COURS]
+
+### Objectif
+Formaliser la stratégie d'investigation liée au paiement Wero de 15 € effectué à Ayoub Bennourine (préposé) et documenter la ligne de conduite et les tâches de la roadmap Foix.
+
+### Actions réalisées
+1. Rédaction de la section `## 4. Paiement Wero – Témoin Ayoub` dans `🧠 Memory/Mémo Stratégie Bailleur HB BARBER.md`.
+2. Ajout des tâches correspondantes dans le tableau de bord `🧠 Memory/TODO.md`.
+3. Intégration du narratif Wero dans les plaintes complémentaires et la Requête 145 CPC.
+4. Intégration de la section probatoire dans le Mémo Avocat.

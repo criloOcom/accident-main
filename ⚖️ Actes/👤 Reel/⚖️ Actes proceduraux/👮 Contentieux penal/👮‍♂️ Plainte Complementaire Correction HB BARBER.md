@@ -37,12 +37,14 @@ Plainte déposée le **2 juin 2026** au Service Local de Sécurité Publique de 
 
 ## 1. Rappel très bref des faits déjà déclarés
 
-Le **29 mai 2026**, alors que j'étais client dans un salon de coiffure situé **22 rue Lafaurie à [La Ville de l'Accident]**, un bac à shampoing lourd muni d'une vasque en céramique a basculé à la suite d'une manœuvre du coiffeur qui était monté sur la structure. En voulant retenir la chute du meuble par réflexe d'assistance, ma main droite a percuté la partie déjà brisée et tranchante de la vasque, provoquant une plaie palmaire profonde de **8,5 cm**, avec :
+Le **29 mai 2026**, alors que j'étais client dans un salon de coiffure situé **22 rue Lafaurie à [La Ville de l'Accident]**, un bac à shampoing lourd muni d'une vasque en céramique a basculé à la suite d'une manœuvre du coiffeur, Ayoub BENNOURINE (Ayoub BENNOURINE, tél. 07 58 40 12 87), à qui j'avais réglé la somme de 15 € via l'application Wero immédiatement avant la prestation (transaction IPR000297029234). Ce dernier était monté physiquement sur la structure du meuble. En voulant retenir la chute du meuble par réflexe d'assistance, ma main droite a percuté la partie déjà brisée et tranchante de la vasque, provoquant une plaie palmaire profonde de **8,5 cm**, avec :
 
 - Section partielle du tendon fléchisseur superficiel de l'index droit
 - Section totale du paquet vasculo-nerveux collatéral ulnaire et radial
 - Nécessité d'une intervention de microchirurgie en urgence le 30 mai 2026 ([Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md), SOS Main – [Clinique de l'Union](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md))
 - Séquelles neurologiques en cours d'évolution (perte de sensibilité, paresthésies), très gênantes dans mon activité d'informaticien indépendant droitier
+
+Cette transaction Wero atteste de la présence d'Ayoub BENNOURINE en qualité de préposé coiffeur / encaisseur ce jour-là, liant contractuellement la prestation au sinistre.
 
 Ces éléments, ainsi que mon suivi médical ([Dr Julie JARDON](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md), Dr OXYBEL, [Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md), kinésithérapeute) figurent déjà dans le dossier de plainte initial et dans les pièces médicales jointes.
 

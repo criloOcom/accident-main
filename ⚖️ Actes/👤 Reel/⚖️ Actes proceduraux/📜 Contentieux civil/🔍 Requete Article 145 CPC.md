@@ -176,6 +176,9 @@ Ordonner à [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B
 
 Dans l'hypothèse où [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) conserverait des documents relatifs à la période antérieure au 22 avril 2026 ou à l'état du matériel laissé sur place, ordonner à cette société de communiquer l'état des lieux de sortie du 10 mars 2026 et tout document relatif à l'état du bac à shampoing.
 
+### IV.4 — Subsidiairement, à la charge de l'établissement bancaire / Prestataire de Services de Paiement (Wero / PSP)
+Ordonner à l'établissement gérant les flux de paiement de l'application Wero de conserver l'ensemble des données d'identification (KYC), d'enregistrement, de connexion (IP, horodatage) et de coordonnées (IBAN, état civil complet, adresse) rattachées au compte bénéficiaire d'Ayoub BENNOURINE (Ayoub BENNOURINE, tél. 07 58 40 12 87) ayant reçu le transfert de 15 € effectué par le demandeur le 29 mai 2026 à 15h20 (transaction IPR000297029234), et de les communiquer sous pli scellé ou directement à tout service d'enquête délégué.
+
 <hr><hr>
 
 ## V — ASTREINTE
@@ -210,7 +213,9 @@ Vu les pièces versées aux débats,
 
 6. **ORDONNER** subsidiairement à [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) de communiquer l'état des lieux de sortie du 10 mars 2026 et tout document relatif à l'état du bac à shampoing, conformément au point IV.3 ;
 
-7. **ASSORTIR** les obligations ci-dessus d'une astreinte de [150 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-astreinte-145.md) par jour de retard à compter du 8ème jour suivant la signification de l'ordonnance à intervenir ;
+7. **ORDONNER** subsidiairement à l'établissement Prestataire de Services de Paiement (PSP) de l'application Wero de conserver et, le cas échéant, de communiquer les données d'identification (KYC) et de connexion relatives au compte du bénéficiaire de la transaction IPR000297029234 du 29 mai 2026, conformément au point IV.4 ;
+
+8. **ASSORTIR** les obligations ci-dessus d'une astreinte de [150 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-astreinte-145.md) par jour de retard à compter du 8ème jour suivant la signification de l'ordonnance à intervenir ;
 
 8. **SE RÉSERVER** la liquidation de l'astreinte ;
 
