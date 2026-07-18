@@ -134,6 +134,16 @@ ni contacter des personnes à ta place.
 | 🖨️ | Erratum inclus dans les documents à imprimer pour lundi (pièce n°5, ~3 p.) | ✅ FAIT |
 | 📬 | Erratum déposé physiquement lundi + envoyé par LRAR séparée | 🔄 À faire lundi |
 
+### 🚧 Phase 31 — Nouvelles LRAR SAS HB BARBER (18 juillet 2026)
+| # | Action | Statut |
+|---|--------|--------|
+| ✉️ | **LRAR SAS HB BARBER (Société)** — Brouillon tokenisé créé | ✅ FAIT |
+| ✉️ | **LRAR Hamza BERGUIGA (Président)** — Domicile perso, faute détachable, arrêt 10 mars 2016 | ✅ FAIT |
+| ✉️ | **LRAR Catherine SORROCHE (DG)** — Domicile perso, faute détachable, arrêt 10 mars 2016 | ✅ FAIT |
+| 🔄 | **Régénération versions Reel** (exécution script + validation adresses) | 🔄 À faire |
+| 📬 | **Envoi réel des 3 LRAR** (La Poste en ligne / bureau) | 🔄 À planifier |
+
+
 ### 🔴 ACTIONS À FAIRE — MISE À JOUR 17/07
 
 #### 1. Complément de plainte / correction société (URGENT) ✅ PRÉPARÉ
