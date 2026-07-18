@@ -33,6 +33,6 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 F
 | **17/07/2026** | Mail de relance à M. [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) avec mention de [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) et demande de bail/assurances | Demande amiable de clarification sur l'occupant et ses assureurs |
 | **20/07/2026 (prévu)** | **Dépôt d'une plainte complémentaire + Erratum** au Commissariat de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) | Objet : corriger/compléter la plainte initiale en visant [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) comme exploitant au 29/05/2026. **Erratum** déposé le même jour + envoyé par LRAR séparée. |
 
----
+<hr><hr>
 
 **Note :** cette frise n'est pas une pièce de procédure — c'est un support visuel pour faciliter la compréhension rapide de l'enchaînement des faits par l'OPJ.

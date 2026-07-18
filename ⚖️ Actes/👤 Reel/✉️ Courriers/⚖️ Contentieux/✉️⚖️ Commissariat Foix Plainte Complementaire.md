@@ -45,9 +45,6 @@ Monsieur le Commandant,
 Je me permets de vous adresser la présente plainte complémentaire afin de compléter et rectifier les éléments que j'ai portés à la connaissance de vos services à la suite de l'accident corporel dont j'ai été victime le vendredi 29 mai 2026 dans un salon de coiffure situé [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md).
 
 Dans ma première plainte déposée début juin 2026 au commissariat de Foix, j'indiquais de bonne foi que le salon était exploité sous l'enseigne « LES MAUVAIS GARÇONS », et je visais la société [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) comme responsable potentielle. Des éléments nouveaux, recueillis depuis, montrent que cette information était inexacte au jour de l'accident, et que le salon était alors exploité par une autre société, la SAS HB BARBER. La présente plainte a donc pour objet de corriger formellement l'identité de la société exploitante et de demander que l'enquête prenne en compte ces éléments.
-
-<hr><hr>
-
 ## 1 — Rappel des faits — Accident du 29 mai 2026
 
 Le vendredi 29 mai 2026 vers 15h20, je me suis rendu dans le salon de coiffure situé [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), pour une simple retouche de coupe de cheveux.
@@ -59,7 +56,6 @@ J'ai été transféré et opéré en urgence le lendemain, 30 mai 2026, par le [
 Le coiffeur qui m'a pris en charge ce jour-là s'est présenté sous le prénom **[Le Prénom du Préposé]**. Les relevés de l'application de paiement Wero font apparaître que le 29 mai 2026 à 15h20, j'ai adressé un paiement de 15,00 € à Ayoub BENNOURINE (Ayoub BENNOURINE, tél. 07 58 40 12 87), avec le message « coif » (référence transaction IPR000297029234). Ces éléments permettent de l'identifier formellement comme le coiffeur préposé / encaisseur présent au moment des faits, liant contractuellement la coupe à l'accident et attestant de ma présence au salon. Il est en outre le témoin direct clé sur le déroulement de l'accident (sa propre manœuvre sur le bac à shampoing, le basculement du meuble, la coupure profonde, la gravité immédiate de la plaie, l'appel du SAMU/pompiers, et l'état de la vasque).
 
 Je travaille à mon compte comme informaticien indépendant. Ma main droite étant ma main dominante, cette blessure me paralyse dans mon travail et a des conséquences importantes sur ma situation professionnelle et financière.
-
 <hr><hr>
 
 ## 2 — Démarches initiales et première plainte
@@ -83,7 +79,6 @@ Au moment de cette première plainte, je croyais sincèrement que la société e
 Je joins à la présente copie de ces courriers et des accusés de réception disponibles, à titre de pièces justificatives.
 
 Parallèlement, dès le 1er juin 2026, j'ai également signalé les faits à la mairie de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md). Par courriel de réponse, [Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), adjoint au maire en charge de l'urbanisme et des travaux, m'a indiqué avoir pris attache avec les services de la préfecture afin que soient saisis l'inspection du travail et le CODAF (comité opérationnel départemental anti-fraude), en précisant qu'il restait à ma disposition pour de nouveaux signalements.
-
 <hr><hr>
 
 ## 3 — Éléments nouveaux : réponse du bailleur et extraits officiels (INPI / RNE / SIRENE)
@@ -124,7 +119,6 @@ Lors de cette visite, l'échange avec les personnes présentes (notamment [Hamza
 Par ailleurs, après l'accident du 29 mai 2026, l'établissement est resté fermé environ 30 jours (rideau baissé) et n'a rouvert que début juillet 2026. Pendant cette période, ni les autorités (police, inspections) ni moi-même n'avons pu faire constater les lieux en fonctionnement ni l'état du bac avant son remplacement.
 
 Ces éléments sont de nature à caractériser un risque de disparition ou d'altération des preuves matérielles de l'accident.
-
 <hr><hr>
 
 ## 4 — Identité de la société HB BARBER et de ses dirigeants
@@ -144,20 +138,19 @@ D'après ces documents officiels, la société SAS HB BARBER présente les carac
 
 - ayant souscrit 990 actions sur 1 000,
 
-- domicilié [**[Adresse du Président du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-adresse.md).
+- domicilié [115 avenue Fernand Loubet, 09200 Saint-Girons](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-adresse.md).
 
 **Directrice Générale :**
 
-- [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md),
+- [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md),
 
 - ayant souscrit 10 actions,
 
-- domiciliée [**[Adresse de la Directrice Générale du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-dg-adresse.md).
+- domiciliée [351 route Impériale, 34670 Baillargues](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-dg-adresse.md).
 
-En conséquence, au jour de mon accident (29 mai 2026), le salon où les faits se sont produits était exploité par la SAS HB BARBER, sous la direction de son Président, [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md), et de sa Directrice Générale, [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
+En conséquence, au jour de mon accident (29 mai 2026), le salon où les faits se sont produits était exploité par la SAS HB BARBER, sous la direction de son Président, [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md), et de sa Directrice Générale, [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
 
 La mention de la [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) dans ma première plainte et dans mes premiers courriers procède donc d'une erreur excusable, fondée sur l'enseigne laissée en place et sur l'absence totale d'information claire qui m'a été donnée au moment des faits. Cette erreur est désormais corrigée à la lumière des pièces que je transmets à vos services.
-
 <hr><hr>
 
 ## 5 — Demandes à l'appui de la présente plainte complémentaire
@@ -176,7 +169,7 @@ Que les faits déjà décrits dans ma plainte initiale (accident provoqué par u
 
 - l'audition de [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md), Président de la SAS HB BARBER,
 
-- l'audition de [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), Directrice Générale,
+- l'audition de [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), Directrice Générale,
 
 - l'audition, en tant que de besoin, de [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), propriétaire bailleur,
 
@@ -204,7 +197,6 @@ Dans l'hypothèse où il apparaîtrait que des manœuvres délibérées de dissi
 - mettre en cause, le cas échéant, les dirigeants de droit de la SAS HB BARBER,
 
 - et de transmettre au Parquet les éléments utiles pour toute qualification pénale complémentaire (faute détachable de leurs fonctions, organisation d'insolvabilité, etc.).
-
 <hr><hr>
 
 ## 6 — Pièces jointes
@@ -228,7 +220,6 @@ Je joins à la présente, en copies :
 8. Échange de courriels avec [Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), adjoint au maire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) (signalement du 1er juin 2026 et réponse indiquant la saisine de la préfecture / inspection du travail / CODAF).
 
 9. **Capture d'écran message WhatsApp du 18/07/2026** adressé à [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (+33 7 58 40 12 87) avec formulaire CERFA 11527\*03 joint — information du témoin direct de l'accident et proposition d'attestation écrite (pas de retour à date).
-
 <hr><hr>
 
 ## 7 — Déclaration sur l'honneur

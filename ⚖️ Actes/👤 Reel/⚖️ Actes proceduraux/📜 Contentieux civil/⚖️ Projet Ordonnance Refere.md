@@ -48,7 +48,7 @@ jx: J+63
 
 2. [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), pris en qualité de dirigeant et personnellement
 
-3. [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), prise en qualité de dirigeante et personnellement
+3. [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), prise en qualité de dirigeante et personnellement
 
 *Défendeurs non comparants*
 
@@ -94,7 +94,7 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 
 **Considérant** que les défendeurs, non comparants, n'apportent aucun élément de nature à démontrer l'existence d'une cause étrangère exonératoire ; que la cassure préexistante de la vasque, vice inhérent à la chose, ne constitue pas une cause d'exonération (Civ. 2e, 5 mai 1975, n° 74-10.466) ;
 
-**Considérant** en revanche que la demande tendant à voir engager, à ce stade de la procédure, la responsabilité personnelle de [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) sur le fondement d'une faute détachable de leurs fonctions sociales se heurte à une **contestation sérieuse** relevant de l'appréciation souveraine du juge du fond ; qu'il n'y a donc pas lieu d'y faire droit en référé ;
+**Considérant** en revanche que la demande tendant à voir engager, à ce stade de la procédure, la responsabilité personnelle de [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) sur le fondement d'une faute détachable de leurs fonctions sociales se heurte à une **contestation sérieuse** relevant de l'appréciation souveraine du juge du fond ; qu'il n'y a donc pas lieu d'y faire droit en référé ;
 
 **Considérant**, en conséquence, que l'obligation à indemnisation de la SAS défenderesse n'est pas sérieusement contestable ;
 

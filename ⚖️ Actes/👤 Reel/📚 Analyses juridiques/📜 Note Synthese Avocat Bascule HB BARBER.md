@@ -21,7 +21,6 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Synthese Avocat Ba
 > **Objet :** Présentation synthétique du dossier pour un avocat prenant connaissance de l'affaire pour la première fois.
 >
 > **Date :** 17 juillet 2026
-
 <hr><hr>
 
 ## 1. Chronologie factuelle structurée
@@ -75,10 +74,9 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Synthese Avocat Ba
 
 - À [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (président)
 
-- À [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) / [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (DG)
+- À [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) / [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (DG)
 
 - Au bailleur [Romain DELRIEU](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) : demande coordonnées assurance de l'exploitant
-
 <hr><hr>
 
 ## 2. Parties en présence (cartographie)
@@ -94,7 +92,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Synthese Avocat Ba
 | Siège | [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) |
 | Activité | Coiffure (APE 96.02A) |
 | Président | [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) |
-| DG | [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) épouse [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) |
+| DG | [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) épouse [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) |
 | Statut RNE | Actif (au moment des premières recherches) |
 | Capital | 200 € |
 
@@ -117,14 +115,13 @@ Propriétaire des locaux du [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%
 | Capital | [1 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-capital-social.md) |
 | Siège | 22 GRANDE RUE LA FAURIE, 09000 [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) |
 | Président | [Hamza El Hachemi BERGUIGA](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) (né 07/1998, Saint-Girons) |
-| Directrice générale | [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (née 04/1970, Baillargues) |
+| Directrice générale | [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (née 04/1970, Baillargues) |
 | Publication légale | La Dépêche, 23/04/2026 |
 
 → Société découverte après coup par recherches sur l'adresse
 
 ### Auteur matériel présumé
 [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : 07 58 40 12 87) (identifié comme "Ayoub BENNOURINE" sur Wero). Coiffeur présent le jour des faits, a remboursé 15 € via Wero le 29/05/2026.
-
 <hr><hr>
 
 ## 3. Pivot du dossier : erreur de société + continuité économique
@@ -134,13 +131,13 @@ Propriétaire des locaux du [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%
 
 - Le bailleur écrit le 16/07/2026 : [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ont quitté les lieux le **10/03/2026** (état des lieux de sortie)
 
-- [SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) a été créée au **même endroit** (22 rue Lafaurie), **même activité** (coiffure/barbier), avec **même DG** ([Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)), début d'activité le **22/04/2026**
+- [SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) a été créée au **même endroit** (22 rue Lafaurie), **même activité** (coiffure/barbier), avec **même DG** ([Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)), début d'activité le **22/04/2026**
 
 ### Conséquence
 Au 29/05/2026, il est hautement probable que [SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) exploitait le salon. Mais tout le dossier administratif/judiciaire vise [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
 ### Le lien fort entre les deux sociétés
-- Même DG ([Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)/[Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md))
+- Même DG ([Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)/[Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md))
 
 - Même local ([22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md))
 
@@ -149,7 +146,6 @@ Au 29/05/2026, il est hautement probable que [SAS HB BARBER](../../../%F0%9F%A7%
 - Succession immédiate (cessation 10/03 → création 22/04 → accident 29/05)
 
 - Forte continuité économique / risque d'organisation d'insolvabilité ou cloisonnement artificiel
-
 <hr><hr>
 
 ## 4. Constatations du 16 juillet 2026 (effacement matériel)
@@ -164,7 +160,6 @@ Lors de la visite sur place le 16/07/2026 :
 - Salon resté fermé plusieurs semaines après l'accident (risque de non-conservation des vidéos et remplacement du matériel accidentogène)
 
 Échange avec la personne identifiée comme [Hamza El Hachemi BERGUIGA](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) : refus de coopérer, refus de fournir assurance/facture/justificatif, propos contradictoires (prétend que la victime était déjà venue le jour de l'incident), demande de quitter les lieux.
-
 <hr><hr>
 
 ## 5. Situation actuelle et actions à mener

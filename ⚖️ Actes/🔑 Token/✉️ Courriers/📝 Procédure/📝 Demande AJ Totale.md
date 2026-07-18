@@ -26,9 +26,6 @@ jx: J+50
 > **Formulaire CERFA n°16146*03**
 > À déposer au **BAJ du Tribunal Judiciaire de Foix**
 > Avenue Paul Laffont, 09000 Foix
-
-<hr><hr>
-
 ## I — IDENTITÉ DU DEMANDEUR
 
 | Champ | Renseignement |
@@ -43,7 +40,6 @@ jx: J+50
 | **Adresse** | **[L'Adresse de la Victime]** |
 | **Téléphone** | **[Téléphone de la Victime]** |
 | **Email** | **[L'Email de la Victime]** |
-
 <hr><hr>
 
 ## II — SITUATION PROFESSIONNELLE ET RESSOURCES
@@ -64,7 +60,6 @@ jx: J+50
 | **Patrimoine** | Aucun bien immobilier significatif |
 
 > Le demandeur justifie de ressources inférieures au plafond légal pour l'AJ totale (barème 2026).
-
 <hr><hr>
 
 ## III — OBJET DE LA DEMANDE
@@ -73,6 +68,7 @@ jx: J+50
 
 ### Nature de l'affaire
 Demande d'indemnisation pour **accident corporel** — responsabilité civile du fait des choses (Art. 1240 C. civ.) et obligation de sécurité (Art. L. 4121-1 C. trav.)
+<hr><hr>
 
 ### Objet principal
 1. **Référé-provision** (Art. 835 C. pr. civ.) : Demande d'une provision de [**[Finance Provision Référé]**] à valoir sur la réparation des préjudices
@@ -86,14 +82,13 @@ Demande d'indemnisation pour **accident corporel** — responsabilité civile du
 **[La Victime]**, partie **demanderesse**
 
 ### Qualité du/des défendeur(s)
-1. **[L'Exploitant du Commerce (La SAS)]**, exploitant du salon de coiffure au 22 Rue Lafaurie, 09000 Foix, représenté par ses dirigeants
+1. **[Le Nouvel Exploitant (HB BARBER)]**, exploitant du salon de coiffure au 22 Rue Lafaurie, 09000 Foix, représenté par ses dirigeants
 
 2. **[Le Nouvel Exploitant (HB BARBER)]**, exploitant effectif au jour de l'accident, intervenu volontairement
 
 3. **[Le Président de l'Exploitation]**, dirigeant
 
 4. **[La Directrice Générale de l'Exploitation]**, dirigeante
-
 <hr><hr>
 
 ## IV — URGENCE — DEMANDE DE TRAITEMENT ACCÉLÉRÉ
@@ -107,7 +102,6 @@ Le demandeur sollicite un **traitement accéléré** de sa demande d'AJ pour le 
 > Une requête sur le fondement de l'article 145 du Code de procédure civile a été préparée à cette fin, mais ne pourra être déposée **qu'après désignation d'un avocat**, laquelle est subordonnée à l'obtention de la présente AJ.
 >
 > **L'audience de référé-provision a été fixée au 31 juillet 2026**, ce qui rend impérative l'obtention rapide de l'AJ pour permettre la signification de l'assignation par avocat.
-
 <hr><hr>
 
 ## V — PIÈCES JOINTES
@@ -133,10 +127,10 @@ Le demandeur sollicite un **traitement accéléré** de sa demande d'AJ pour le 
 - [ ] **Courrier de motivation** (exposé circonstancié de la situation annexé au présent formulaire)
 
 - [ ] **Copie de la requête Art. 145 CPC** (si déjà déposée)
-
 <hr><hr>
 
 ## VI — OBSERVATIONS COMPLÉMENTAIRES
+<hr><hr>
 
 ### Contexte de l'accident
 Le 29 mai 2026, alors que le demandeur se trouvait dans le salon de coiffure situé au 22 Rue Lafaurie à Foix, un employé de l'établissement est monté sur la vasque en céramique du salon pour régler un téléviseur, en l'absence de tout équipement adapté (escabeau ou marchepied). Sous son poids, la vasque a basculé et s'est brisée dans un mouvement de cisaillement, sectionnant les tendons extenseurs des doigts longs de la main droite de la victime (médicalement : **section complète des tendons extenseurs des doigts II à V**).
@@ -149,7 +143,6 @@ Fait pour valoir ce que de droit.
 **[La Ville de l'Accident]**, le 18 juillet 2026
 
 **Signature :**
-
 <hr><hr>
 
 ## VII — INSTRUCTIONS DE DÉPÔT

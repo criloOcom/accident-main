@@ -23,7 +23,7 @@ type: memory
 > **Phase 29 ✅** Migration HB BARBER — tokens, scripts, 3 documents Foix Reel/Token, frise, mémo stratégie bailleur (✅ 17/07)
 > **Phase 30 ✅** Erratum Correction Identité Société — document maître, mise à jour des 4 documents Foix, régénération Reel, correction des sections visant LMG (✅ 17/07)
 > **Phase 31 🚧** Intégration Stratégie Wero & Témoin Ayoub — mise à jour de la documentation stratégique, de la roadmap et des actes (Plaintes, 145 CPC, Mémo Avocat) (🚧 En cours 18/07)
-> **Phase 32 🚧** Nouvelles LRAR SAS HB BARBER — création des 3 lettres recommandées tokenisées avec pédagogie sur la faute détachable et excuses pour le délai (🚧 En cours 18/07)
+> **Phase 32 ✅** Nouvelles LRAR SAS HB BARBER — 3 lettres envoyées le 18/07/2026 par LRAR (La Poste en ligne), envoi en attente des numéros de suivi
 > 
 > ## Phase 21 — Navigation Interactive Cross-Document (13 juillet 2026) ✅ [TERMINÉ]
 

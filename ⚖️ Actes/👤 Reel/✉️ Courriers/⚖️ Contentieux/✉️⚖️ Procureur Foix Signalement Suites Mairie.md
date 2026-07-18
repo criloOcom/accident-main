@@ -42,9 +42,6 @@ Mon objectif n'est pas d'ouvrir une procédure supplémentaire, mais de comprend
 Je vous remercie par avance de l'attention que vous voudrez bien porter à la présente demande et vous prie d'agréer, Monsieur le Procureur, l'expression de ma considération distinguée.
 
 [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
-
-<hr><hr>
-
 ## Pièce jointe
 
 - Copie du courriel de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à la mairie de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) du 1er juin 2026 et réponse de [Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md).

@@ -40,7 +40,7 @@ Monsieur le Greffier,
 J'interviens dans les intérêts de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le 29 mai 2026 au sein des locaux exploités par [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 ## I — EXPOSÉ DES FAITS
 
-Il existe de sérieuses raisons de penser que la société [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et ses dirigeants, [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), s'apprêtent à dissoudre ou à abandonner la structure actuelle pour recréer une nouvelle société exerçant la même activité à la même adresse, dans le but manifeste de se soustraire aux obligations indemnitaires nées de l'accident.
+Il existe de sérieuses raisons de penser que la société [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et ses dirigeants, [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), s'apprêtent à dissoudre ou à abandonner la structure actuelle pour recréer une nouvelle société exerçant la même activité à la même adresse, dans le but manifeste de se soustraire aux obligations indemnitaires nées de l'accident.
 <hr><hr>
 
 ## II — FONDEMENTS JURIDIQUES
@@ -76,7 +76,7 @@ Si une nouvelle société est créée à la même adresse avec les mêmes dirige
 
 Je vous prie de bien vouloir :
 
-1. **Prendre acte** de la présente opposition à l'immatriculation de toute nouvelle société à [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) dont les dirigeants seraient liés à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) ou [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
+1. **Prendre acte** de la présente opposition à l'immatriculation de toute nouvelle société à [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) dont les dirigeants seraient liés à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) ou [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
 
 2. **Inscrire** une mention d'opposition provisoire au dossier de la société [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 

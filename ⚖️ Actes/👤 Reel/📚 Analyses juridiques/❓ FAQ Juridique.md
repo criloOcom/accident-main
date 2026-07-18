@@ -73,7 +73,7 @@ Cette synthèse a pour objet de récapituler les éléments factuels et juridiqu
 
 La victime, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), né le 18/01/1982, exerce la profession d'informaticien indépendant ([500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)) à [Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md).
 
-Les parties mises en cause incluent la SAS elle-même, ses dirigeants [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), ainsi que [Romain DELRIEU](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), propriétaire des murs commerciaux.
+Les parties mises en cause incluent la SAS elle-même, ses dirigeants [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), ainsi que [Romain DELRIEU](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), propriétaire des murs commerciaux.
 <hr><hr>
 
 ## III — FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE
@@ -124,7 +124,7 @@ La stratégie repose sur une mise en cause plurielle pour garantir la réparatio
 > [Article 1242](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) <br>
 > **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.[^6]**
 
-Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
+Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
@@ -145,7 +145,7 @@ Sur le plan civil, plusieurs mises en demeure ont été expédiées le [29 juin 
 
 - Courrier à l'attention du Président [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) ;
 
-- Courrier à la Directrice Générale [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) ;
+- Courrier à la Directrice Générale [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) ;
 
 - Demande de communication d'assurance au **[propriétaire des murs]** ;
 

@@ -35,7 +35,6 @@ jx: J+52
 Cabinet du Juge des Référés
 
 [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 20 juillet 2026
-
 ## I — INTRODUCTION
 
 La présente requête est introduite par [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) sur le fondement de l'article 145 du Code de procédure civile.
@@ -52,7 +51,6 @@ Elle a pour objet d'obtenir, sous astreinte, la communication par **[Le Nouvel E
 3. La conservation et la communication des enregistrements de vidéosurveillance du salon pour la période du 25 mai au 5 juin 2026 ;
 
 4. La conservation du bac à shampoing défectueux et la communication de tout document relatif à sa maintenance.
-
 <hr><hr>
 
 ## II — EXPOSÉ DES FAITS
@@ -84,7 +82,6 @@ Le requérant a déposé le 20 juillet 2026 une plainte complémentaire auprès 
 Le 16 juillet 2026, le requérant s'est rendu sur place et a constaté que le bac à shampoing en céramique blanche, brisé et tranchant, qui avait provoqué l'accident, avait été entièrement retiré et remplacé par un bac neuf de couleur noire. Le meuble de télévision mural avait également été démonté, les trous de fixation étant visibles sur le mur nu. L'échange avec les personnes présentes (notamment [**[Le Président du Nouvel Exploitant]**]) n'a donné lieu à aucune information sur ces modifications, ni sur l'identité de l'assureur ou les déclarations de sinistre.
 
 Par ailleurs, l'établissement est resté fermé environ 30 jours après l'accident et n'a rouvert que début juillet 2026, ce qui a empêché toute constatation officielle de l'état des lieux par les autorités avant le remplacement du bac (**Pièce n°16**).
-
 <hr><hr>
 
 ## III — DISCUSSION JURIDIQUE
@@ -121,7 +118,6 @@ Conformément à l'article L. 252-2 du Code de la sécurité intérieure, les en
 ### III.4 — Sur le risque avéré de disparition des preuves matérielles
 
 Le bac à shampoing défectueux, pièce à conviction centrale, n'est plus présent sur les lieux : lors de sa visite du 16 juillet 2026, le requérant a constaté qu'il avait été remplacé par un bac neuf, et que le meuble de télévision mural avait été démonté. Ces modifications, intervenues sans aucune information ni justification après l'accident, constituent un risque avéré de disparition ou d'altération des preuves et renforcent l'urgence des mesures sollicitées.
-
 <hr><hr>
 
 ## IV — MESURES D'INSTRUCTION SOLLICITÉES
@@ -178,13 +174,11 @@ Dans l'hypothèse où [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%
 
 ### IV.4 — Subsidiairement, à la charge de l'établissement bancaire / Prestataire de Services de Paiement (Wero / PSP)
 Ordonner à l'établissement gérant les flux de paiement de l'application Wero de conserver l'ensemble des données d'identification (KYC), d'enregistrement, de connexion (IP, horodatage) et de coordonnées (IBAN, état civil complet, adresse) rattachées au compte bénéficiaire d'**[Le Préposé de l'Exploitation]** (Ayoub BENNOURINE, tél. **[Le Téléphone du Préposé]**) ayant reçu le transfert de 15 € effectué par le demandeur le 29 mai 2026 à 15h20 (transaction **[N° Transaction Wero]**), et de les communiquer sous pli scellé ou directement à tout service d'enquête délégué.
-
 <hr><hr>
 
 ## V — ASTREINTE
 
 Eu égard au silence délibéré des défendeurs et à l'urgence tenant au risque de destruction des preuves (vidéos, bac à shampoing), il est demandé d'assortir les obligations ci-dessus d'une astreinte de [**[Finance Astreinte 145]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-astreinte-145.md) par jour de retard à compter du 8ème jour suivant la signification de l'ordonnance à intervenir, et de se réserver la liquidation de l'astreinte.
-
 <hr><hr>
 
 ## PAR CES MOTIFS

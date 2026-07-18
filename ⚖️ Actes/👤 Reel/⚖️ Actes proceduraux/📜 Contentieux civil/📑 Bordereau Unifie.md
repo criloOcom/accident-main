@@ -42,7 +42,7 @@ jx: J+39
 
 ### PIÈCE N° 5
 
-- [2 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Réquisition judiciaire à personne (Police Nationale, Agent Jordy RODRIGUEZ CAPARROS) : Réquisition pour examen médical par l'UMJ de [Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) sur le fondement des Art. 41 et 77-1 CPP. Rendez-vous fixé au [12 novembre 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) à 13h45**.
+- [2 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Réquisition judiciaire à personne (Police Nationale, Agent **[Agent PJ, dépôt de plainte]**) : Réquisition pour examen médical par l'UMJ de [Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) sur le fondement des Art. 41 et 77-1 CPP. Rendez-vous fixé au [12 novembre 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) à 13h45**.
 
 - [2 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Retranscription téléphonique de la prise de rendez-vous UMJ : Confirmation du rendez-vous du [12 novembre 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) à [Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md), instructions sur les documents à apporter.
 <hr><hr>
@@ -76,7 +76,7 @@ jx: J+39
 
 ### PIÈCE N° 12
 
-- [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure de [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (LRAR n° [87001424721856G](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : Mise en cause personnelle pour faute détachable. Distribué.
+- [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure de [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (LRAR n° [87001424721856G](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : Mise en cause personnelle pour faute détachable. Distribué.
 
 ### PIÈCE N° 13
 

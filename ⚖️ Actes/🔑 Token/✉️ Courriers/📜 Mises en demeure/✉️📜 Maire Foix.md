@@ -36,11 +36,11 @@ Mairie de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9
 
 [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 9 juillet 2026
 
-**Objet : Demande d'intervention au titre de vos pouvoirs de police administrative – Mise en péril de la sécurité publique au sein de l'établissement [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
+**Objet : Demande d'intervention au titre de vos pouvoirs de police administrative – Mise en péril de la sécurité publique au sein de l'établissement [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**
 
 Monsieur le Maire,
 
-Par la présente, je me permets d'attirer votre attention sur une situation constitutive d'un péril grave et imminent pour la sécurité de vos administrés, au sein de l'établissement exploité par la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
+Par la présente, je me permets d'attirer votre attention sur une situation constitutive d'un péril grave et imminent pour la sécurité de vos administrés, au sein de l'établissement exploité par la société [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), sis [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
 
 Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein de cet établissement recevant du public (ERP).
 
@@ -60,7 +60,7 @@ Par ailleurs, conformément à l'[article L. 2212-4 du Code général des collec
 
 Face à la gravité des faits et à la probabilité de réitération d'un tel accident sur d'autres usagers de cet établissement, je vous demande formellement, au titre de l'exercice de vos pouvoirs de police administrative :
 
-1. De mandater les services compétents de la Mairie afin de procéder à une **vérification approfondie des installations** de l'établissement exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), et notamment de contrôler la conformité des équipements.
+1. De mandater les services compétents de la Mairie afin de procéder à une **vérification approfondie des installations** de l'établissement exploité par [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), et notamment de contrôler la conformité des équipements.
 
 2. De procéder à un **signalement au Comité de Sécurité (COMSUR)** ou à la Commission de Sécurité compétente pour les ERP, afin d'évaluer la conformité des locaux et équipements.
 
@@ -68,7 +68,7 @@ Face à la gravité des faits et à la probabilité de réitération d'un tel ac
 
 Il est de la responsabilité de la commune de prévenir tout dommage prévisible découlant de l'exploitation d'un ERP dangereux sur son territoire.
 
-J'attire votre attention sur le fait qu'une procédure pénale est d'ores et déjà ouverte suite à un dépôt de plainte, et qu'une action visant à engager la responsabilité civile de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), est en cours.
+J'attire votre attention sur le fait qu'une procédure pénale est d'ores et déjà ouverte suite à un dépôt de plainte, et qu'une action visant à engager la responsabilité civile de [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) et de ses dirigeants, [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), est en cours.
 
 Je vous remercie par avance des diligences que vous voudrez bien accomplir pour garantir la sécurité du public.
 

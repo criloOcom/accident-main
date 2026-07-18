@@ -27,7 +27,7 @@ jx: J+47
 > **Quand utiliser :** Formulaire en ligne CADA (https://www.cada.fr/) — copier-coller les blocs ci-dessous dans les champs correspondants.
 ## I — Champ « Objet de votre demande / Description »
 
-> Victime d'un accident corporel grave le 29 mai 2026 dans le salon de coiffure *« [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) »* ([22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)), je sollicite l'avis de la CADA sur la communicabilité, à mon égard, des documents détenus par la Préfecture de l'Ariège et/ou la DDETS (Inspection du travail) concernant ce dossier. <br>
+> Victime d'un accident corporel grave le 29 mai 2026 dans le salon de coiffure *« [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) »* ([22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)), je sollicite l'avis de la CADA sur la communicabilité, à mon égard, des documents détenus par la Préfecture de l'Ariège et/ou la DDETS (Inspection du travail) concernant ce dossier. <br>
 <hr><hr>
 
 ## II — Champ « Précisions sur les documents demandés »

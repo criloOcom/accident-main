@@ -30,7 +30,7 @@ jx: J+60
 **PARTIES AU LITIGE :**
 - **Demandeur :** [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), informaticien indépendant
 
-- **Défendeurs :** [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), ainsi que ses dirigeants [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
+- **Défendeurs :** [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), ainsi que ses dirigeants [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
 
 **OBJET DE LA DEMANDE :**
 - Allocation d'une provision ad litem à valoir sur la réparation du préjudice corporel
@@ -105,7 +105,7 @@ Il en résulte que le régime de responsabilité des dirigeants de SA, et notamm
 
 La jurisprudence constante de la Cour de cassation précise, avec l'arrêt SATI (Cass. com., 20 mai 2003, n° 99-17.092), que la responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions, et qu'« il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales ».
 
-En l'espèce, plusieurs éléments laissent présumer une telle faute détachable de la part de [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) :
+En l'espèce, plusieurs éléments laissent présumer une telle faute détachable de la part de [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) :
 
 - la succession rapide de deux SAS exerçant la même activité de coiffure-barbier dans les mêmes locaux du 22 rue Lafaurie à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), avec une direction commune (Directrice Générale présente dans les deux structures), sans qu'aucune information claire n'ait été donnée à la victime sur l'identité de l'exploitant réel au 29 mai 2026 ;
 

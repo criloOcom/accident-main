@@ -45,7 +45,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Memo Axes Juridiques Av
 | **Cass. Com. 20 mai 2003 n°99-17.092 (arrêt SATI)** | Principe : faute intentionnelle d'une particulière gravité = faute détachable. Peut constituer une application en cas d'assurance légalement obligatoire. |
 | **C. com. art. L.210-6, L.237-2** | Responsabilité en cas de manquement, dissolution |
 
-**Cibles :** [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (DG commune aux 2 sociétés), [Hamza El Hachemi BERGUIGA](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) (président [SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md))
+**Cibles :** [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (DG commune aux 2 sociétés), [Hamza El Hachemi BERGUIGA](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) (président [SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md))
 
 <hr><hr>
 
@@ -85,5 +85,3 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Memo Axes Juridiques Av
 | **Lien de subordination** | Le paiement de 15 € via Wero effectué par Sébastien le 29/05/2026 à 15h20 au profit d'Ayoub BENNOURINE (Ayoub BENNOURINE) atteste de la relation de préposition et de subordination entre le coiffeur (salarié encaisseur) et la société exploitante. |
 | **Preuve de présence** | La transaction Wero est une preuve matérielle, infalsifiable et horodatée de la présence physique de Sébastien au salon de coiffure immédiatement avant la survenue de l'accident. |
 | **Tiers détenteur (Wero)** | Wero détient en tant que Prestataire de Services de Paiement (PSP) des données KYC de l'utilisateur bénéficiaire ainsi que des logs de connexion. Ces éléments pourront être sollicités par voie de réquisition pénale ou sur le fondement de l'art. 145 du CPC. |
-
-<hr><hr>

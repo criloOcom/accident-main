@@ -17,9 +17,6 @@ jx: J+63
 # MÉMO D'AUDIENCE<br>Audience de Référé-Provision du 31 juillet 2026
 
 > **🔴 Version révisée 18/07/2026** — Correction exploitant : voir [erratum formel](%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md)
-
-<hr><hr>
-
 ## 1 — LOGISTIQUE JOUR J
 
 ### 1.1 — Horaires et lieu
@@ -68,7 +65,6 @@ jx: J+63
 - [ ] Pièce d'identité (CNI)
 
 - [ ] Bouteille d'eau
-
 <hr><hr>
 
 ## 2 — STATUT PROCÉDURAL AU 31 JUILLET
@@ -88,7 +84,6 @@ jx: J+63
 - **Si AJ encore en cours au 31 juillet :** La victime peut se présenter seule. Expliquer au juge que l'AJ a été déposée et est en cours. Demander le renvoi si nécessaire.
 
 - **Si aucun avocat présent :** Le juge peut rendre une ordonnance de référé sur dossier ou renvoyer.
-
 <hr><hr>
 
 ## 3 — ARGUMENTAIRE DE PLAIDOIRIE (3 minutes)
@@ -145,7 +140,6 @@ La victime n'est pas consolidée. L'état séquellaire actuel (douleurs neuropat
 - **Preuves :** Vidéosurveillance susceptible d'être écrasée avant le 15 août 2026 (délai de rotation 60 jours)
 
 - **AJ :** Déposée — en cours de traitement
-
 <hr><hr>
 
 ## 4 — QUESTIONS ANTICIPÉES DU JUGE
@@ -157,7 +151,6 @@ La victime n'est pas consolidée. L'état séquellaire actuel (douleurs neuropat
 | *Pourquoi pas d'avocat ?* | AJ déposée, en cours. Seul au-delà du plafond de 10k€ pour la représentation obligatoire, mais la procédure est engagée de bonne foi. |
 | *Avez-vous des revenus ?* | ~9 000 €/an micro-entrepreneur. Justificatifs URSSAF joints. |
 | *Quel est le préjudice professionnel ?* | Informaticien — main droite sectionnée. Arrêt complet depuis 56 jours. IP estimée à 28 000 €. |
-
 <hr><hr>
 
 ## 5 — CONTACTS UTILES
@@ -172,6 +165,6 @@ La victime n'est pas consolidée. L'état séquellaire actuel (douleurs neuropat
 | **URSSAF** | 36 46 |
 | **CPAM** | 36 46 |
 
----
+<hr><hr>
 
 *Document d'audience — à conserver avec les pièces le jour de l'audience*

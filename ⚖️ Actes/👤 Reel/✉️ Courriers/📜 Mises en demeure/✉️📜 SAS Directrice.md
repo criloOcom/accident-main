@@ -33,7 +33,7 @@ jx: J+31
 
 Courriel : [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
-[Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
+[Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
 [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
 
 [Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le [[29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)]
@@ -42,7 +42,6 @@ Objet : Demande d'information et communication d'assurance — Accident [[29 mai
 Réf : Dossier [[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)] / [[SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)]
 
 Madame la Directrice Générale,
-
 ## I — Rappel des obligations légales
 
 La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions.
@@ -88,7 +87,6 @@ Ces informations me permettront de déclarer le sinistre et d'envisager une rés
 > **Code de procédure civile > Partie législative > Livre II[^4]**
 
 Dans cette hypothèse, je serai également contraint de solliciter la communication de l'intégralité du contrat d'assurance, et, le cas échéant, de rechercher la responsabilité personnelle des dirigeants pour défaut d'information sur le fondement de la faute détachable[^1].
-
 <hr><hr>
 
 ## II — Transparence sur la suite donnée au dossier
@@ -116,7 +114,6 @@ Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Gén�
 > NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)] sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
 > Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement de la présente mise en demeure.
-
 <hr><hr>
 
 ## PIECES JOINTES
@@ -128,7 +125,6 @@ Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Gén�
 - **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du [J+1]
 
 - **[Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [31727387](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md)
-
 <hr><hr>
 
 ## Sources Législation

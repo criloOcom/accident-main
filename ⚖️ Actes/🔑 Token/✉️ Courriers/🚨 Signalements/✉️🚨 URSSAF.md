@@ -39,14 +39,14 @@ TSA 90002
 
 [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 11 juillet 2026
 
-Objet : Signalement de travail dissimule presume — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
+Objet : Signalement de travail dissimule presume — SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
 
-Ref : SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)
+Ref : SIREN [**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md)
 
 Madame, Monsieur le Directeur,
 ## I — INTRODUCTION
 
-Je vous signale par la presente des elements laissant presumer l'exercice d'un travail dissimule au sein de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)), conformement aux articles L.8221-1 et suivants du Code du travail.
+Je vous signale par la presente des elements laissant presumer l'exercice d'un travail dissimule au sein de la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (SIREN [**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md)), conformement aux articles L.8221-1 et suivants du Code du travail.
 
 Le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), alors que je me trouvais dans l'etablissement exploite par cette societe, j'ai ete temoin de la presence d'une personne physique ([Le Prepose de l'Exploitation]) exercant une activite de coiffeur.
 
@@ -64,7 +64,7 @@ Les elements suivants sont susceptibles de caracteriser un travail dissimule par
 **1. Absence de declaration du prepose**<br>
 - Le prepose de l'exploitation exercait une activite professionnelle de coiffeur au sein de l'etablissement sans qu'aucune information sur son statut (contrat de travail, bulletin de paie, declaration prealable a l'embauche) n'ait pu etre communiquee<br>
 <br>
-- La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ne declare aucun salarie selon les informations publiques disponibles<br>
+- La SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) ne declare aucun salarie selon les informations publiques disponibles<br>
 
 <br>
 
@@ -96,7 +96,7 @@ Je sollicite de vos services qu'une verification soit effectuee concernant :
 
 1. La situation de [**[Le Prepose de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)) au regard des declarations sociales (DPAE, bulletin de paie)<br>
 <br>
-2. Le respect par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) de ses obligations declaratives<br>
+2. Le respect par la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) de ses obligations declaratives<br>
 <br>
 3. L'existence d'eventuelles autres irregularites
 
@@ -117,7 +117,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Direc
 
 - **[📊 Suivi Envois LRAR.md](../../%F0%9F%97%82%EF%B8%8F%20Organisation/%F0%9F%93%8A%20Suivi%20Envois%20LRAR.md)** — Accusés de réception des courriers recommandés retournés (mentions NPAI)
 
-- **[Extrait Kbis SAS [L'Exploitant du Commerce (La SAS)]](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)
+- **[Extrait Kbis SAS [Le Nouvel Exploitant (HB BARBER)]](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN [**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md)
 <hr><hr>
 
 ## Sources Législation

@@ -99,7 +99,7 @@ La SAS est donc automatiquement responsable de l'imprudence commise par [Ayoub B
 
 ### III.3 — LA FAUTE DÉTACHABLE DES DIRIGEANTS
 
-La responsabilité personnelle des dirigeants, [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), peut être engagée sur le fondement de l'article 1240 du Code civil.
+La responsabilité personnelle des dirigeants, [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), peut être engagée sur le fondement de l'article 1240 du Code civil.
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 > [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>

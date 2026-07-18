@@ -51,11 +51,9 @@ REVERSE_MAP = {
     "**[L'Adjoint au Maire de la Commune]**": "Monsieur TAVELLA",
     "**[L'Email de l'Adjoint au Maire]**": "btavella@mairie-foix.fr",
     "**[L'Email du Secrétariat de la Mairie]**": "secretariat@mairie-foix.fr",
-
-    # New actors
-    "**[Agent PJ, dépôt de plainte]**": "Jordy RODRIGUEZ CAPARROS",
     "**[Centre de soins immédiats]**": "Centre Ariégeois de Soins Immédiats",
-    "**[SMUR local]**": "SMUR 09",
+    "**[L'Adresse du Centre de soins immédiats]**": "4 Rue du Sénateur Paul Laffont, 09000 Foix",
+    "**[Le RPPS du Médecin en Urgence]**": "10005156871",
 
     # Date tokens
     "**[J+0 Accident]**": "29 mai 2026",

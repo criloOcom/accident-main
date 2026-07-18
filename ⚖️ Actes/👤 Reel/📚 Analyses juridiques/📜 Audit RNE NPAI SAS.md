@@ -36,7 +36,7 @@ jx: J+42
 | Siège social | [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) (inchangé) |
 | [200 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) | 200 € |
 | Président | [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) |
-| DG | [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) |
+| DG | [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) |
 | Salariés | 0 (zéro) |
 | Établissements | 1 (unique au [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)) |
 | Comptes | **En défaut de publication** |
@@ -52,7 +52,7 @@ Les courriers recommandés adressés à la SAS reviennent NPAI alors que la soci
 La société a 0 salarié. Le salon est fermé depuis l'accident (29 mai 2026). Personne ne réceptionne le courrier.
 
 #### II.2.b — **Directeurs résidant hors Foix**
-[Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) réside à Toulouse (31100). [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) réside à Foix mais peut avoir quitté les lieux.
+[Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) réside à Toulouse (31100). [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) réside à Foix mais peut avoir quitté les lieux.
 
 #### II.2.c — **Évitement délibéré**
 Les dirigeants peuvent avoir demandé le renvoi du courrier ou laissent le courrier s'accumuler sans le réclamer.

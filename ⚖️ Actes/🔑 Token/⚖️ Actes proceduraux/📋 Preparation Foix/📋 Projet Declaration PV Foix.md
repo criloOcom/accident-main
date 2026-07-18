@@ -22,7 +22,7 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 P
 **Date :** _____ juillet 2026
 **Lieu :** Commissariat de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
----
+<hr><hr>
 
 ### TEXTE DE LA DÉCLARATION
 

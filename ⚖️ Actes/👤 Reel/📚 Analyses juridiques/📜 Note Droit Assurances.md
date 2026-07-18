@@ -109,7 +109,7 @@ Dès l'assureur identifié (à la suite de l'ordonnance Article 145), il sera mi
 
 ## VIII — RECOURS SUBROGATOIRE ET ASSURANCES DU DIRIGEANT
 
-Après indemnisation, l'assureur de la SAS peut, par l'effet de la subrogation légale, se retourner contre les dirigeants ([Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)) s'il démontre l'existence d'une faute intentionnelle ou d'une faute personnelle détachable de leurs fonctions (dissimulation d'assurance, maintien fautif d'équipements dangereux).
+Après indemnisation, l'assureur de la SAS peut, par l'effet de la subrogation légale, se retourner contre les dirigeants ([Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)) s'il démontre l'existence d'une faute intentionnelle ou d'une faute personnelle détachable de leurs fonctions (dissimulation d'assurance, maintien fautif d'équipements dangereux).
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
 > [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>

@@ -43,14 +43,14 @@ BP 40087
 
 [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [**[J+37 Assignation 145]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)  
 
-**Objet : Signalement officiel de manquements et demandes d'enquête (travail dissimulé présumé et manquements sociaux) — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**  
+**Objet : Signalement officiel de manquements et demandes d'enquête (travail dissimulé présumé et manquements sociaux) — SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**  
 
-Réf : SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) — Signalement Mairie de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) du 1er juin 2026  
+Réf : SIREN [**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md) — Signalement Mairie de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) du 1er juin 2026  
 
 Madame, Monsieur le Président du CODAF,  
 ## I — INTRODUCTION
 
-La présente est adressée au CODAF de l'Ariège par [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), immatriculée sous le SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md).
+La présente est adressée au CODAF de l'Ariège par [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), immatriculée sous le SIREN [**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md).
 
 Cet accident a été causé par la chute brutale du préposé de l'exploitation depuis un bac à shampoing en céramique instable et cassé, sur lequel il avait dû monter pour accéder au poste de télévision, faute d'équipement d'accès adapté (escabeau) mis à disposition par l'employeur.
 
@@ -59,7 +59,7 @@ Sa chute a entraîné sur ma main droite une plaie palmaire profonde avec lésio
 
 ## II — RAPPEL DES FAITS
 
-La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) a été immatriculée le 1er juin 2024 avec un capital social de 200 €. Selon les informations publiques disponibles du Registre National des Entreprises, elle déclare ne disposer d'aucun salarié. Pourtant, le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), un préposé exerçait de manière visible une activité de coiffure continue au sein de l'établissement.
+La SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) a été immatriculée le 1er juin 2024 avec un capital social de 200 €. Selon les informations publiques disponibles du Registre National des Entreprises, elle déclare ne disposer d'aucun salarié. Pourtant, le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), un préposé exerçait de manière visible une activité de coiffure continue au sein de l'établissement.
 
 L'accident est survenu dans les conditions suivantes :
 - Le préposé est monté sur le bac à shampoing pour accéder au poste de télévision, en l'absence de tout escabeau ou marchepied adapté.
@@ -144,7 +144,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 
 - Accusés de réception des courriers recommandés retournés (29 mai 2026 — mentions NPAI)
 
-- [Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]**](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) ([**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
+- [Extrait Kbis de la SAS **[Le Nouvel Exploitant (HB BARBER)]**](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) ([**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md))
 
 - Dossier médical complet (11 pièces)
 <hr><hr>

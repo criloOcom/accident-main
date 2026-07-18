@@ -26,13 +26,11 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/👮�
 **Fait à [**[La Ville de Résidence de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le 17 juillet 2026**
 
 **Je soussigné, [La Victime]**, né le 18/01/1982 à [**[La Métropole Régionale]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md), demeurant 10 avenue de Purpan, [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), ai l'honneur de déposer la présente plainte complémentaire et d'apporter des précisions importantes concernant l'affaire de blessures involontaires dont je suis victime.
-
 <hr><hr>
 
 ## Référence de la plainte initiale
 
 Plainte déposée le **2 juin 2026** au Service Local de Sécurité Publique de [**[La Métropole Régionale]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) Rive Droite, enregistrée sous le **[ ... ]**, pour des faits de blessures involontaires avec ITT n'excédant pas 3 mois survenus le **29 mai 2026 vers 15h20** dans un salon de coiffure situé **22 rue Lafaurie, 09000 [La Ville de l'Accident]**.
-
 <hr><hr>
 
 ## 1. Rappel très bref des faits déjà déclarés
@@ -50,7 +48,6 @@ Le **29 mai 2026**, alors que j'étais client dans un salon de coiffure situé *
 Cette transaction Wero atteste de la présence d'Ayoub BENNOURINE en qualité de préposé coiffeur / encaisseur ce jour-là, liant contractuellement la prestation au sinistre.
 
 Ces éléments, ainsi que mon suivi médical ([**[Le Médecin en Urgence]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md), Dr OXYBEL, [**[Le Chirurgien SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md), kinésithérapeute) figurent déjà dans le dossier de plainte initial et dans les pièces médicales jointes.
-
 <hr><hr>
 
 ## 2. Correction importante sur l'identité de la société exploitante
@@ -80,7 +77,6 @@ Mme [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%
 - **29 mai 2026** : date de mon accident dans ce même local
 
 **Je demande** que la société **[Le Nouvel Exploitant (HB BARBER)] (SAS)** et ses dirigeants soient formellement intégrés dans la procédure en qualité de société exploitante et responsables potentiels au jour des faits, en complément des investigations visant [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) et ses dirigeants.
-
 <hr><hr>
 
 ## 3. Courriel du bailleur et état des lieux de sortie
@@ -99,7 +95,6 @@ Je ne me prononce pas à ce stade sur la validité ou non de ces documents, mais
 - et qu'il tire lui-même une conclusion sur l'absence de responsabilité de [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), alors que cela relève de l'appréciation de l'autorité judiciaire
 
 Je joins à la présente copie du courriel du 16 juillet 2026 et la note de constatations que j'ai rédigée à la suite de ma visite des lieux.
-
 <hr><hr>
 
 ## 4. Visite des lieux le 16 juillet 2026 et disparition du matériel
@@ -128,7 +123,6 @@ Sur place, j'ai eu un échange avec une personne qui s'est présentée comme l'e
 - et m'a demandé de quitter les lieux
 
 J'annexe à la présente une **note de constatations** datée relatant précisément ce que j'ai vu le 16 juillet 2026.
-
 <hr><hr>
 
 ## 5. Demandes aux services d'enquête
@@ -152,7 +146,6 @@ Compte tenu de ces éléments nouveaux, je sollicite respectueusement :
 - [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), bailleur, sur les baux successifs, les états des lieux, la connaissance des exploitants et des assurances
 
 **4. La vérification**, dans la mesure du possible, de la conservation d'éventuels enregistrements vidéo restants (vidéosurveillance intérieure / extérieure) et de tout élément matériel (même remplacé) permettant de confirmer l'existence d'un bac en céramique déjà brisé et d'un meuble mural au moment des faits.
-
 <hr><hr>
 
 ## 6. Contact avec le témoin direct — Ayoub BENNOURINE
@@ -181,7 +174,6 @@ Je reste à la disposition des services d'enquête pour toute précision complé
 [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 [**[L'Email de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 **[Le Téléphone de la Victime]**
-
 <hr><hr>
 
 ## Bordereau des pièces jointes

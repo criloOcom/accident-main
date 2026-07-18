@@ -77,11 +77,11 @@ tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le f
 
 - [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md), Président,
 
-- [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), Directrice Générale ;
+- [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), Directrice Générale ;
 
-que la liste des souscripteurs et le certificat de dépôt de fonds établissent un capital de [**[Capital Social du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-capital-social.md) (1 000 actions de 1 €), dont 990 actions souscrites par [Hamza El Hachemi BERGUIGA] et 10 par [Catherine ANDISSAC] ;
+que la liste des souscripteurs et le certificat de dépôt de fonds établissent un capital de [**[Capital Social du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-capital-social.md) (1 000 actions de 1 €), dont 990 actions souscrites par [Hamza El Hachemi BERGUIGA] et 10 par [Catherine SORROCHE, dite ANDISSAC] ;
 
-**Considérant** qu'il se déduit de ces pièces que, à la date de l'accident ([29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)), le salon de coiffure dans lequel les faits se sont produits était exploité par SAS HB BARBER, sous la direction de [Hamza El Hachemi BERGUIGA] et [Catherine ANDISSAC], et non plus par [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ; que l'erreur d'identification initiale commise par le requérant apparaît ainsi excusable, mais doit être corrigée pour que les responsabilités civiles et pénales et les assurances soient correctement recherchées ;
+**Considérant** qu'il se déduit de ces pièces que, à la date de l'accident ([29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)), le salon de coiffure dans lequel les faits se sont produits était exploité par SAS HB BARBER, sous la direction de [Hamza El Hachemi BERGUIGA] et [Catherine SORROCHE, dite ANDISSAC], et non plus par [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ; que l'erreur d'identification initiale commise par le requérant apparaît ainsi excusable, mais doit être corrigée pour que les responsabilités civiles et pénales et les assurances soient correctement recherchées ;
 
 **Considérant** que, malgré plusieurs courriers recommandés et relances amiables, le requérant ne parvient pas à obtenir :
 
@@ -106,9 +106,6 @@ que la liste des souscripteurs et le certificat de dépôt de fonds établissent
 - et subsidiairement de [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ;
 
 **Considérant** qu'il y a lieu d'assortir ces mesures d'une astreinte, afin d'en garantir l'effectivité ;
-
-<hr><hr>
-
 ### PAR CES MOTIFS
 
 Statuant sur requête, hors la présence des parties,
@@ -129,7 +126,7 @@ Statuant sur requête, hors la présence des parties,
 
 Le tout sous astreinte de **[150 €]** par jour de retard et par document non communiqué à l'expiration du délai de 30 jours ;
 
-**ORDONNE** à SAS HB BARBER, prise en la personne de son représentant légal, ainsi qu'à [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) (Président) et [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (Directrice Générale), de communiquer à [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), dans le même délai de **30 jours** à compter de la signification de la présente ordonnance :
+**ORDONNE** à SAS HB BARBER, prise en la personne de son représentant légal, ainsi qu'à [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) (Président) et [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (Directrice Générale), de communiquer à [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), dans le même délai de **30 jours** à compter de la signification de la présente ordonnance :
 
 1. L'ensemble des contrats d'assurance de responsabilité civile professionnelle couvrant l'activité de coiffure / barbier de SAS HB BARBER, en vigueur au [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), ainsi que les attestations d'assurance y afférentes, avec indication de la compagnie, du numéro de police, de la période de validité et des principales garanties (notamment RC exploitation / RC professionnelle) ;
 

@@ -77,7 +77,7 @@ Les pages de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%
 ### III.2 — Plateformes d'annuaires et d'information sur les sociétés
 
 Ces plateformes prouvent que la société était bien référencée et active à [22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) :
-- **Societe.com** / **Infogreffe** : Permet de prouver l'immatriculation de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sous son identifiant, l'identité de ses dirigeants ([Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)), et l'adresse de son siège.
+- **Societe.com** / **Infogreffe** : Permet de prouver l'immatriculation de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sous son identifiant, l'identité de ses dirigeants ([Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)), et l'adresse de son siège.
 
 - **Kompass** / **Pages Jaunes** : Prouve l'inscription commerciale et les coordonnées publiques de l'établissement au moment de l'accident.
 

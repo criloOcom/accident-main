@@ -1,6 +1,6 @@
 ---
 title: "Note Responsabilité Dirigeants Dissolution"
-description: "Dans l'hypothèse où Sabir MOUNTASSER et Catherine ANDISSAC procèderaient à la dissolution ou à la radiation de SAS LES MAUVAIS GARCONS afin d'échapper aux poursuites et à l'indemnisation"
+description: "Dans l'hypothèse où Sabir MOUNTASSER et Catherine SORROCHE, dite ANDISSAC procèderaient à la dissolution ou à la radiation de SAS LES MAUVAIS GARCONS afin d'échapper aux poursuites et à l'indemnisation"
 type: analyse_juridique
 date: 2026-07-09
 tags:
@@ -25,7 +25,7 @@ jx: J+41
 # NOTE JURIDIQUE <br> SUR LA RESPONSABILITÉ DES DIRIGEANTS EN CAS DE DISSOLUTION FRAUDULEUSE
 ## I — PROBLÉMATIQUE
 
-Dans l'hypothèse où [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) procèderaient à la dissolution ou à la radiation de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) afin d'échapper aux poursuites et à l'indemnisation de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), leur responsabilité personnelle pourrait être engagée sur plusieurs fondements.
+Dans l'hypothèse où [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) procèderaient à la dissolution ou à la radiation de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) afin d'échapper aux poursuites et à l'indemnisation de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), leur responsabilité personnelle pourrait être engagée sur plusieurs fondements.
 
 La présente note analyse les trois voies de recours contre les dirigeants à titre personnel.
 <hr><hr>
@@ -78,7 +78,7 @@ La jurisprudence constante de la Cour de cassation (chambre commerciale, arrêt 
 | L.654-7 C.com. | Pénale | Banqueroute par personne morale | Emprisonnement + amende |
 | Faute détachable (SATI) | Civile | Faute d'une gravité exceptionnelle | Responsabilité personnelle |
 
-**Conclusion :** la disparition frauduleuse de la SAS engage à titre personnel [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md). Il est recommandé de les mettre en cause personnellement dès la phase de référé-provision et de les viser dans le signalement au Parquet.
+**Conclusion :** la disparition frauduleuse de la SAS engage à titre personnel [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md). Il est recommandé de les mettre en cause personnellement dès la phase de référé-provision et de les viser dans le signalement au Parquet.
 <hr><hr>
 
 ## Sources Législation

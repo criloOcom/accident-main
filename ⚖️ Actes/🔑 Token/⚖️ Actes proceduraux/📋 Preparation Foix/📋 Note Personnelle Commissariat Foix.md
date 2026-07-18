@@ -24,8 +24,7 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 N
 **Email :** [**[L'Email de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
 **Objet :** Compléter et corriger ma plainte initiale ([ ... ] du 2 juin 2026, [**[La Métropole Régionale]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) Rive Droite) concernant l'accident du 29 mai 2026 survenu au salon de coiffure situé 22 rue Lafaurie, 09000 [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
-
----
+<hr><hr>
 
 ## 1. RAPPEL DE MA PREMIÈRE PLAINTE À TOULOUSE (2 juin 2026)
 
@@ -45,8 +44,7 @@ J'ai remis un **dossier de plainte écrit de ma main** (le 1er juin 2026), avec 
 **Le PV de [**[La Métropole Régionale]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) reprend ma phrase :** *« Je précise que je ne suis pas sûr et certain qu'il s'agissait de ce salon-là. Je pense qu'il s'agit de ce salon grâce aux informations que j'ai réussi à obtenir sur internet. »*
 
 Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certitude absolue** sur la raison sociale, mais que je pensais à [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
-
----
+<hr><hr>
 
 ## 2. CHRONOLOGIE COMPLÈTE DES FAITS
 
@@ -151,8 +149,7 @@ J'envoie plusieurs lettres recommandées avec accusé de réception :
 ### Juillet 2026 — Silence et recherches
 
 Le salon reste **fermé** pendant plusieurs semaines après l'accident. Aucune information sur l'assurance n'est obtenue.
-
----
+<hr><hr>
 
 ## 3. DÉCOUVERTE DE [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) — ÉLÉMENTS NOUVEAUX
 
@@ -219,8 +216,7 @@ Ces photos de l'état des lieux de sortie signé par le représentant de [**[L'E
 2. Le bailleur **refuse** de me communiquer l'assurance
 
 3. Le bailleur **tire lui-même une conclusion juridique** (absence de responsabilité) — ce qui relève de l'autorité judiciaire, pas de lui
-
----
+<hr><hr>
 
 ## 4. VISITE DES LIEUX DU 16 JUILLET 2026 — CONSTATATIONS
 
@@ -263,8 +259,7 @@ La fermeture prolongée du salon après l'accident, combinée au remplacement co
 - Laisser les **enregistrements de vidéosurveillance** se dérouler puis être écrasés ou non conservés (durée de conservation typique : 15 à 30 jours)
 
 - **Retirer et remplacer** le matériel à l'origine de l'accident
-
----
+<hr><hr>
 
 ## 5. CE QUE JE DEMANDE AUJOURD'HUI AU COMMISSARIAT DE [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
@@ -308,8 +303,7 @@ Je sollicite respectueusement :
 
   - De la **réalité de l'exploitation** par [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) au 29 mai 2026
   - De l'existence d'une **assurance RC pro** pour la période
-
----
+<hr><hr>
 
 ## 6. DÉCLARATION SUR L'HONNEUR
 
@@ -323,7 +317,7 @@ Je certifie sur l'honneur que tout ce qui précède est la vérité. Je n'ai rie
 
 **Pas de retour** au 18 juillet 2026. Copie d'écran conservée comme pièce du dossier.
 
----
+<hr><hr>
 
 Fait à [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le _____ juillet 2026
 

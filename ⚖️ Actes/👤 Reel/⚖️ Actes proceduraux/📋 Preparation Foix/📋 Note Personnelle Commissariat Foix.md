@@ -24,8 +24,7 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 N
 **Email :** [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
 
 **Objet :** Compléter et corriger ma plainte initiale ([ ... ] du 2 juin 2026, [Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) Rive Droite) concernant l'accident du 29 mai 2026 survenu au salon de coiffure situé 22 rue Lafaurie, 09000 [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
-
----
+<hr><hr>
 
 ## 1. RAPPEL DE MA PREMIÈRE PLAINTE À TOULOUSE (2 juin 2026)
 
@@ -45,8 +44,7 @@ J'ai remis un **dossier de plainte écrit de ma main** (le 1er juin 2026), avec 
 **Le PV de [Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) reprend ma phrase :** *« Je précise que je ne suis pas sûr et certain qu'il s'agissait de ce salon-là. Je pense qu'il s'agit de ce salon grâce aux informations que j'ai réussi à obtenir sur internet. »*
 
 Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certitude absolue** sur la raison sociale, mais que je pensais à [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
-
----
+<hr><hr>
 
 ## 2. CHRONOLOGIE COMPLÈTE DES FAITS
 
@@ -133,7 +131,7 @@ J'envoie plusieurs lettres recommandées avec accusé de réception :
 
 2. **LRAR à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) [Le Président de l'Exploitation]**, président de la SAS : mise en demeure de communiquer les informations d'assurance, rappel du principe de la faute détachable (arrêt SATI, Cass. Com., 20 mai 2003) et de l'application de ce principe au défaut d'assurance obligatoire.
 
-3. **LRAR à [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (née [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md))**, directrice générale : même objet, même fondement juridique.
+3. **LRAR à [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (née [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md))**, directrice générale : même objet, même fondement juridique.
 
 4. **LRAR à [Le Propriétaire des Murs]**, propriétaire bailleur (17 Rue de la Baïse, 31120 ROQUETTES) : demande de communication des coordonnées de l'assurance de l'exploitant, sur le fondement des articles 1719 et 1720 du Code civil (obligations du bailleur) et de l'article L.124-3 du Code des assurances.
 
@@ -143,7 +141,7 @@ J'envoie plusieurs lettres recommandées avec accusé de réception :
 |:----:|-------------|:-----:|:------:|
 | 29/06 | [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), 22 rue Lafaurie, [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) | 1A 123 456 7890 1 | **Non réclamé** — revenu à l'envoyeur |
 | 29/06 | [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), 4 place de la Libération, [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) | 1A 123 456 7891 8 | **Non réclamé** — revenu à l'envoyeur |
-| 29/06 | [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) ([Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)), 25 chemin Bel Air, Verniolle | 1A 123 456 7892 5 | **Non réclamé** — revenu à l'envoyeur |
+| 29/06 | [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) ([Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)), 25 chemin Bel Air, Verniolle | 1A 123 456 7892 5 | **Non réclamé** — revenu à l'envoyeur |
 | 29/06 | [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), 17 Rue de la Baïse, Roquettes | 1A 123 456 7893 2 | **Distribué** le 03/07/2026 — réponse reçue le 16/07/2026 |
 
 **Je remets aux enquêteurs les originaux de ces AR et copies des courriers.**
@@ -151,8 +149,7 @@ J'envoie plusieurs lettres recommandées avec accusé de réception :
 ### Juillet 2026 — Silence et recherches
 
 Le salon reste **fermé** pendant plusieurs semaines après l'accident. Aucune information sur l'assurance n'est obtenue.
-
----
+<hr><hr>
 
 ## 3. DÉCOUVERTE DE [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) — ÉLÉMENTS NOUVEAUX
 
@@ -173,10 +170,10 @@ En effectuant des recherches par l'adresse exacte [22 Rue Lafaurie, 09000 Foix](
 | **Activité** | Coiffure / barbier (APE 9602A) |
 | **Capital** | [1 000 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-capital-social.md) |
 | **Président** | [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) (né 07/1998, Saint-Girons) |
-| **Directrice générale** | [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (née 04/1970, Baillargues) |
+| **Directrice générale** | [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (née 04/1970, Baillargues) |
 | **Publication légale** | La Dépêche, 23 avril 2026 |
 
-**Élément capital : [La Directrice Générale de l'Exploitation]** (épouse [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)) est la **même personne** que la directrice générale de [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). Elle est DG des **deux sociétés** — c'est un lien direct entre les deux entités.
+**Élément capital : [La Directrice Générale de l'Exploitation]** (épouse [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)) est la **même personne** que la directrice générale de [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). Elle est DG des **deux sociétés** — c'est un lien direct entre les deux entités.
 
 ### Chronologie des sociétés au 22 rue Lafaurie
 
@@ -219,8 +216,7 @@ Ces photos de l'état des lieux de sortie signé par le représentant de [SAS LE
 2. Le bailleur **refuse** de me communiquer l'assurance
 
 3. Le bailleur **tire lui-même une conclusion juridique** (absence de responsabilité) — ce qui relève de l'autorité judiciaire, pas de lui
-
----
+<hr><hr>
 
 ## 4. VISITE DES LIEUX DU 16 JUILLET 2026 — CONSTATATIONS
 
@@ -263,8 +259,7 @@ La fermeture prolongée du salon après l'accident, combinée au remplacement co
 - Laisser les **enregistrements de vidéosurveillance** se dérouler puis être écrasés ou non conservés (durée de conservation typique : 15 à 30 jours)
 
 - **Retirer et remplacer** le matériel à l'origine de l'accident
-
----
+<hr><hr>
 
 ## 5. CE QUE JE DEMANDE AUJOURD'HUI AU COMMISSARIAT DE [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
@@ -295,7 +290,7 @@ Je sollicite respectueusement :
 
   - [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) — coiffeur présent le jour des faits, identifié par le virement Wero
   - [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) — président de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
-  - [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) — directrice générale de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
+  - [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) — directrice générale de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
   - [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) — bailleur, sur les baux et les assurances
 
 2. **Des réquisitions pour obtenir :**
@@ -308,8 +303,7 @@ Je sollicite respectueusement :
 
   - De la **réalité de l'exploitation** par [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) au 29 mai 2026
   - De l'existence d'une **assurance RC pro** pour la période
-
----
+<hr><hr>
 
 ## 6. DÉCLARATION SUR L'HONNEUR
 
@@ -323,7 +317,7 @@ Je certifie sur l'honneur que tout ce qui précède est la vérité. Je n'ai rie
 
 **Pas de retour** au 18 juillet 2026. Copie d'écran conservée comme pièce du dossier.
 
----
+<hr><hr>
 
 Fait à [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le _____ juillet 2026
 

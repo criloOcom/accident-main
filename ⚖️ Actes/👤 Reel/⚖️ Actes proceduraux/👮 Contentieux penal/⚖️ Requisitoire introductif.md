@@ -37,7 +37,7 @@ RÉFÉRENCE PLAINTE : PV n°2026/015967
 Tribunal Judiciaire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 ## I — PROBLÉMATIQUE ET EXPOSÉ DES FAITS
 
-Le Ministère Public a été saisi par la plainte, puis par la [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) en date du [6 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md), déposées par [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à l'encontre de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), ainsi que de ses dirigeants, [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
+Le Ministère Public a été saisi par la plainte, puis par la [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) en date du [6 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md), déposées par [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à l'encontre de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), ainsi que de ses dirigeants, [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
 
 Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), sis [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), a été victime d'un grave accident corporel.
 
@@ -100,7 +100,7 @@ S'agissant des personnes physiques qui n'ont pas causé directement le dommage (
 > [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) <br>
 > **Code pénal > Partie législative > Livre Ier > Titre II > Chapitre Ier.[^5]**
 
-Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
+Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
 
 ### II.4 — SUR LA PRESCRIPTION
 
@@ -152,7 +152,7 @@ Vu le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 (consoli
 
 Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 
-**OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), et [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), des chefs de :
+**OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), et [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), des chefs de :
 
 - **Blessures involontaires** (Art. 222-19 ou subsidiairement 222-20 C. pénal) — ITT > 3 mois en considération de la consolidation à 12 mois et du DFP de 12 %, ou à tout le moins ITT ≤ 3 mois par violation manifestement délibérée ;
 

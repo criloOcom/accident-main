@@ -1,9 +1,9 @@
 ---
-title: 📜 Lettre LRAR — M. BERGUIGA (Président de SAS HB BARBER) — Faute détachable
-description: Mise en demeure de communiquer les informations d'assurance RC pro, adressée personnellement à Hamza El Hachemi BERGUIGA (Président).
+title: 📜 Lettre LRAR — Président SAS HB BARBER — Demande assurance RC
+description: Mise en demeure de communiquer les informations d'assurance RC pro, adressée personnellement au Président.
 type: courrier
 date: 2026-07-18
-statut: projet
+statut: envoyé
 destinataire: Le Président du Nouvel Exploitant
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER President.md
@@ -16,7 +16,7 @@ reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 
 <!-- /Breadcrumb -->
 
 # LETTRE RECOMMANDÉE — M. LE PRÉSIDENT (DOMICILE PERSONNEL)
-> 🔗 Source Google Drive : [Non encore déposé](https://drive.google.com)
+> 🔗 Source Google Drive : [20260718 ✉️ LRAR Hamza El Hachemi BERGUIGA (President)](https://docs.google.com/document/d/1D5UTW7pYf5smzSC5NHE_hsHuya2B-b4UuwDpDe1_C8Y/edit?usp=sharing)
 
 [10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
 
@@ -30,63 +30,80 @@ Président de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%
 
 [Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le 18 juillet 2026
 
-Objet : Demande de communication des coordonnées de l’assurance RC professionnelle de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) — Notification au dirigeant à titre personnel et de représentant légal
+Objet : Demande de communication de l'assurance RC professionnelle de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) — Notification au Président à titre personnel et de représentant légal
 
-Mode d’envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
+Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 
 Réf. : Dossier [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) / [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) — Accident du [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)
 
 <hr><hr>
 
 Monsieur le Président,
-
 ## I — CONTEXTE ET EXCUSES SUR LE DÉLAI
 
-Par la présente, je me permets de vous écrire en votre qualité de Président et représentant légal de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), ainsi qu’à votre adresse personnelle en raison des obligations et responsabilités juridiques qui incombent aux dirigeants de droit de sociétés commerciales.
+Par la présente, je me permets de vous écrire en votre qualité de Président et représentant légal de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), ainsi qu'à votre adresse personnelle, en raison des responsabilités qui incombent aux dirigeants de droit de sociétés commerciales.
 
-Le vendredi [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) vers 15h20, j’ai subi un grave accident corporel au sein de votre salon de coiffure situé au [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) (section nerveuse et tendineuse complète de l'index droit provoquée par le basculement d'un bac à shampoing défectueux, ayant nécessité une intervention de microchirurgie d'urgence SOS Main le [30 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par le Dr [Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) à [Clinique de l'Union](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)). Travaillant à mon compte en tant qu'informaticien indépendant, cet accident me paralyse professionnellement et financièrement (ITT de 56 jours en cours).
+Le vendredi [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) vers 15h20, j'ai subi un grave accident corporel au sein de l'établissement exploité au [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) : un bac à shampoing lourd a basculé et ma main droite a percuté une partie de la vasque en céramique déjà brisée et tranchante, provoquant une plaie palmaire profonde de la main droite, avec atteinte tendineuse et nerveuse. Informaticien indépendant de profession, cette blessure à ma main dominante me paralyse totalement dans mon activité (ITT de 56 jours en cours).
 
-Veuillez agréer mes excuses pour le délai de transmission de cette demande. Votre société étant de constitution très récente au moment des faits (début d’activité au 22 avril 2026 et immatriculation au Registre national des entreprises le 19 mai 2026, soit quelques jours seulement avant l’accident), l'apparition de vos données légales sur les registres publics nationaux de l’INPI a demandé un temps de traitement administratif important. Il m'a fallu effectuer de longues recherches pour vous identifier formellement avant de vous écrire.
+Le jour même, j'ai été pris en charge en urgence au centre de soins immédiats de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) par le [Dr Julie JARDON](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md), qui a constaté la plaie palmaire droite profonde, réalisé les premiers soins (lavage, désinfection, exploration sous anesthésie locale) et m'a réorienté en urgence vers le service spécialisé « SOS Main » de [Clinique de l'Union](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md) pour une exploration chirurgicale le lendemain matin. Le [30 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md), j'ai été opéré par le [Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) (suture tendineuse, suture microchirurgicale des nerfs et vaisseaux, neurolyse, sutures cutanées).
+
+Veuillez agréer mes excuses pour le délai avec lequel je reviens vers vous. La constitution de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) étant extrêmement récente au moment des faits (début d'activité au 22 avril 2026 et immatriculation au Registre national des entreprises le 19 mai 2026, soit quelques jours seulement avant l'accident), l'indexation de vos statuts et de vos mandats sociaux a connu les délais administratifs habituels avant de figurer publiquement sur les registres (INPI, RNE, SIRENE). Mes démarches initiales de juin ont donc été adressées, par erreur, à l'ancienne enseigne « LES MAUVAIS GARÇONS » et à ses dirigeants, faute d'avoir connaissance de l'existence de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md). Ce n'est qu'à la suite des informations communiquées par le bailleur et de la consultation des registres officiels que j'ai pu identifier [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) comme véritable exploitant des locaux au [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) et, par conséquent, vous écrire aujourd'hui en votre qualité de Président.
 <hr><hr>
 
-## II — L'ASSURANCE : UNE PROTECTION POUR VOTRE ENTREPRISE
+## II — LE RÔLE DE L'ASSURANCE DE LA SOCIÉTÉ
 
-Ce courrier se veut purement informatif et constructif.
+Ce courrier se veut purement administratif, informatif et bienveillant.
 
-L’assurance de responsabilité civile professionnelle est normalement souscrite pour l’exploitation d’un salon de coiffure recevant du public. Elle permet de prendre en charge les conséquences financières des accidents causés aux clients, protégeant ainsi l'équilibre économique de votre entreprise.
+L'assurance de responsabilité civile professionnelle est en principe souscrite pour l'exploitation d'un salon de coiffure recevant du public. Elle a vocation à prendre en charge les conséquences financières des accidents causés aux clients, protégeant ainsi à la fois les victimes et l'équilibre économique de l'entreprise, mais aussi, en pratique, ses dirigeants et associés.
 
-La communication de vos coordonnées d'assurance n'est pas une recherche de sanction pénale ou un aveu de culpabilité, mais une simple formalité technique et obligatoire pour permettre la prise en charge du sinistre par les assureurs.
+La communication de vos coordonnées d'assurance n'est ni une recherche de sanction pénale, ni la reconnaissance d'une faute personnelle, mais une simple formalité technique pour permettre la prise en charge du sinistre par les assureurs, en lien avec la CPAM et les médecins.
 <hr><hr>
 
-## III — LE RISQUE SUR LE PATRIMOINE PERSONNEL EN CAS DE SILENCE OU DÉFAUT
+## III — VOS OBLIGATIONS EN CAS D'ACCIDENT D'UN CLIENT ET LA VISITE DU 16 JUILLET
 
-Je me dois cependant de vous informer du cadre juridique applicable en cas de refus d'information ou de dissimulation de vos garanties.
+En France, lorsqu'un client est victime d'un accident dans un commerce, le rôle normal du dirigeant n'est pas de discuter avec la victime de points de droit, mais de faire fonctionner les mécanismes prévus par la loi et les contrats. Concrètement, cela signifie :
 
-En application de l'article L. 227-8 du Code de commerce, le Président représente la société et est garant du respect des obligations légales incombant à celle-ci. Or, le fait pour un dirigeant social de ne pas justifier ou de ne pas avoir souscrit les assurances indispensables à son exploitation peut, lorsque cette omission prive la victime de son droit d'action directe, constituer une faute personnelle détachable de ses fonctions engageant sa responsabilité civile personnelle sur son patrimoine propre vis-à-vis des tiers (en ce sens, voir la décision de la Cour de cassation, 3e Chambre civile, 10 mars 2016, n° 14-15.326). C'est afin d'éviter d'en arriver à de telles procédures, lourdes pour chacun, que je sollicite votre coopération.
+- déclarer le sinistre à l'assureur de responsabilité civile professionnelle de l'entreprise, dans les délais prévus au contrat, en joignant les premiers éléments médicaux ;
+
+- informer la victime de l'identité de l'exploitant réel au jour des faits et lui transmettre les coordonnées de l'assureur (nom de la compagnie, numéro de police), afin que les organismes compétents (CPAM, assureurs, médecins) puissent échanger directement entre eux ;
+
+- coopérer de bonne foi avec ces organismes et, si nécessaire, avec la police ou la justice, en donnant des informations exactes sur les circonstances de l'accident.
+
+Dans mon cas, malgré la gravité des blessures, la prise en charge en urgence à [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) puis l'intervention chirurgicale spécialisée sur la main, je n'ai reçu à ce jour aucune information de votre part sur votre assureur ni sur les déclarations qui auraient été faites, ce qui bloque le travail des assurances et complique inutilement une situation déjà très difficile pour moi.
+
+Lors de ma venue à [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) le 16 juillet 2026, pour essayer d'obtenir calmement ces informations directement sur place, j'ai été confronté à une situation très déroutante :
+
+- la personne se présentant comme responsable du salon a refusé de répondre à mes questions sur l'assurance et les démarches effectuées ;
+
+- au lieu de m'exposer factuellement ce qui avait été fait, il m'a été affirmé que j'aurais été « ivre mort » le jour de l'accident.
+
+Je conteste formellement cette affirmation, qui est fausse. Mon état le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) a été évalué par plusieurs professionnels de santé (le [Dr Julie JARDON](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) au centre de soins immédiats de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), puis le service SOS Main et les anesthésistes), dans un parcours d'urgence qui a conduit à une intervention chirurgicale en bloc opératoire le lendemain. Si j'avais été dans un état d'ivresse avancée, cela aurait été constaté, noté dans les dossiers médicaux, et vous ne seriez pas les seuls à en avoir connaissance.
+
+Je vous invite donc, dans l'intérêt de chacun, à renoncer à ce type d'explication qui ne correspond pas à la réalité et à vous en tenir strictement aux faits médicaux et matériels, qui pourront être vérifiés très simplement dans les dossiers des services de santé.
+
+Quelle que soit l'interprétation que vous faites aujourd'hui de l'accident, cela ne change rien à vos obligations légales : en tant que dirigeant de la société exploitant les lieux, il vous appartient, avec la Directrice Générale, de veiller à la déclaration du sinistre à votre assureur, de me communiquer ses coordonnées, et de laisser ensuite les assurances, la CPAM et, si nécessaire, la justice faire leur travail sur la base de faits exacts.
 <hr><hr>
 
 ## IV — CE QUE JE VOUS DEMANDE CONCRÈTEMENT
 
-Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours tiers n° [31727387](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md)), je vous remercie de bien vouloir me communiquer, sous un délai de **quinze (15) jours** à compter de la réception de la présente :
+Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [31727387](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md)), je vous remercie de bien vouloir me communiquer, sous un délai de quinze (15) jours à compter de la réception de la présente :
 
-1. Le **nom** et les **coordonnées complètes** de la compagnie d’assurance couvrant la responsabilité civile professionnelle de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) en vigueur au [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) ;
+1. Le nom et les coordonnées complètes de l'assureur responsabilité civile de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) au [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) ;
 
-2. Le **numéro de police** ou de contrat correspondant ;
+2. Le numéro de contrat ou de police associé ;
 
-3. Si possible, une **copie de l’attestation d’assurance** RC professionnelle.
+3. Si possible, une copie de l'attestation correspondante.
 
-Ces informations peuvent m’être adressées par écrit ou par courriel à [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md).
+Ces informations peuvent être envoyées à mon adresse ci-dessus ou par courriel à [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md). Elles seront transmises à la CPAM et à mon conseil, afin que les échanges se poursuivent directement avec votre assureur.
 <hr><hr>
 
 ## V — SUITE ENVISAGÉE À DÉFAUT DE RÉPONSE
 
-À défaut de retour sous 15 jours, je chargerai mon conseil de saisir le Juge des référés du Tribunal judiciaire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) sur le fondement de l’article 145 du Code de procédure civile pour obtenir judiciairement ces pièces sous astreinte financière journalière, en étendant si nécessaire l'action à votre encontre à titre personnel.
+À défaut de réponse dans ce délai de 15 jours, je confierai l'affaire à mon conseil afin de saisir le juge des référés du Tribunal judiciaire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) sur le fondement de l'article 145 du Code de procédure civile pour obtenir ces pièces, si nécessaire sous astreinte.
 
-> *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
-> [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
-> **Code de procédure civile > Partie législative > Livre II > Titre VII > Section I.[^2]**
+Je préférerais toutefois que nous puissions rester sur un règlement strictement amiable en passant par votre assurance, sans devoir ajouter de nouvelles démarches contentieuses à une situation déjà lourde et éprouvante.
 
-Comptant sur votre diligence et votre bienveillance pour débloquer cette situation amiable, je vous prie d’agréer, Monsieur le Président, l’expression de mes salutations distinguées.
+Comptant sur votre diligence et votre sens des responsabilités pour débloquer cette situation, je vous prie d'agréer, Monsieur le Président, l'expression de mes salutations distinguées.
 
 [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 
@@ -99,5 +116,4 @@ Téléphone : [06 30 51 67 75](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF
 
 ## Sources Législation
 
-[^1]: [Arrêt n° 14-15.326 — www.legifrance.gouv.fr/juri/id/JURITEXT000032204996](https://www.legifrance.gouv.fr/juri/id/JURITEXT000032204996)
-[^2]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+[^1]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)

@@ -106,9 +106,6 @@ que la liste des souscripteurs et le certificat de dépôt de fonds établissent
 - et subsidiairement de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ;
 
 **Considérant** qu'il y a lieu d'assortir ces mesures d'une astreinte, afin d'en garantir l'effectivité ;
-
-<hr><hr>
-
 ### PAR CES MOTIFS
 
 Statuant sur requête, hors la présence des parties,

@@ -35,7 +35,6 @@ jx: J+52
 Cabinet du Juge des Référés
 
 [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 20 juillet 2026
-
 ## I — INTRODUCTION
 
 La présente requête est introduite par [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) sur le fondement de l'article 145 du Code de procédure civile.
@@ -52,7 +51,6 @@ Elle a pour objet d'obtenir, sous astreinte, la communication par SAS HB BARBER 
 3. La conservation et la communication des enregistrements de vidéosurveillance du salon pour la période du 25 mai au 5 juin 2026 ;
 
 4. La conservation du bac à shampoing défectueux et la communication de tout document relatif à sa maintenance.
-
 <hr><hr>
 
 ## II — EXPOSÉ DES FAITS
@@ -75,7 +73,7 @@ Parallèlement, le requérant a écrit le [29 juin 2026](../../../../%F0%9F%A7%A
 
 Dès le 1er juin 2026, le requérant a également signalé les faits à la mairie de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md). Par courriel, [Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), adjoint au maire en charge de l'urbanisme et des travaux, lui a indiqué avoir saisi la préfecture afin de mobiliser l'inspection du travail et le CODAF. À ce jour, aucune suite concrète ne lui a été portée à connaissance (**Pièce n°17**).
 
-À la suite de cette information, le requérant a consulté les registres officiels (RNE / DATA INPI et répertoire SIRENE) et a découvert que le salon était en réalité exploité depuis le 22 avril 2026 par SAS HB BARBER (SIREN [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md)), ayant pour président [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) et pour directrice générale [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
+À la suite de cette information, le requérant a consulté les registres officiels (RNE / DATA INPI et répertoire SIRENE) et a découvert que le salon était en réalité exploité depuis le 22 avril 2026 par SAS HB BARBER (SIREN [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md)), ayant pour président [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) et pour directrice générale [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
 
 Le requérant a déposé le 20 juillet 2026 une plainte complémentaire auprès du commissariat de Foix pour corriger l'identité de la société exploitante **(Pièce n°14)**.
 
@@ -84,7 +82,6 @@ Le requérant a déposé le 20 juillet 2026 une plainte complémentaire auprès 
 Le 16 juillet 2026, le requérant s'est rendu sur place et a constaté que le bac à shampoing en céramique blanche, brisé et tranchant, qui avait provoqué l'accident, avait été entièrement retiré et remplacé par un bac neuf de couleur noire. Le meuble de télévision mural avait également été démonté, les trous de fixation étant visibles sur le mur nu. L'échange avec les personnes présentes (notamment [Hamza El Hachemi BERGUIGA]) n'a donné lieu à aucune information sur ces modifications, ni sur l'identité de l'assureur ou les déclarations de sinistre.
 
 Par ailleurs, l'établissement est resté fermé environ 30 jours après l'accident et n'a rouvert que début juillet 2026, ce qui a empêché toute constatation officielle de l'état des lieux par les autorités avant le remplacement du bac (**Pièce n°16**).
-
 <hr><hr>
 
 ## III — DISCUSSION JURIDIQUE
@@ -121,12 +118,11 @@ Conformément à l'article L. 252-2 du Code de la sécurité intérieure, les en
 ### III.4 — Sur le risque avéré de disparition des preuves matérielles
 
 Le bac à shampoing défectueux, pièce à conviction centrale, n'est plus présent sur les lieux : lors de sa visite du 16 juillet 2026, le requérant a constaté qu'il avait été remplacé par un bac neuf, et que le meuble de télévision mural avait été démonté. Ces modifications, intervenues sans aucune information ni justification après l'accident, constituent un risque avéré de disparition ou d'altération des preuves et renforcent l'urgence des mesures sollicitées.
-
 <hr><hr>
 
 ## IV — MESURES D'INSTRUCTION SOLLICITÉES
 
-### IV.1 — À la charge de SAS HB BARBER, de [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) et de [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
+### IV.1 — À la charge de SAS HB BARBER, de [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) et de [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
 
 **1 — Communication du bail commercial et des états des lieux**
 
@@ -178,13 +174,11 @@ Dans l'hypothèse où [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memor
 
 ### IV.4 — Subsidiairement, à la charge de l'établissement bancaire / Prestataire de Services de Paiement (Wero / PSP)
 Ordonner à l'établissement gérant les flux de paiement de l'application Wero de conserver l'ensemble des données d'identification (KYC), d'enregistrement, de connexion (IP, horodatage) et de coordonnées (IBAN, état civil complet, adresse) rattachées au compte bénéficiaire d'Ayoub BENNOURINE (Ayoub BENNOURINE, tél. 07 58 40 12 87) ayant reçu le transfert de 15 € effectué par le demandeur le 29 mai 2026 à 15h20 (transaction IPR000297029234), et de les communiquer sous pli scellé ou directement à tout service d'enquête délégué.
-
 <hr><hr>
 
 ## V — ASTREINTE
 
 Eu égard au silence délibéré des défendeurs et à l'urgence tenant au risque de destruction des preuves (vidéos, bac à shampoing), il est demandé d'assortir les obligations ci-dessus d'une astreinte de [150 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-astreinte-145.md) par jour de retard à compter du 8ème jour suivant la signification de l'ordonnance à intervenir, et de se réserver la liquidation de l'astreinte.
-
 <hr><hr>
 
 ## PAR CES MOTIFS
@@ -219,7 +213,7 @@ Vu les pièces versées aux débats,
 
 8. **SE RÉSERVER** la liquidation de l'astreinte ;
 
-9. **CONDAMNER IN SOLIDUM** SAS HB BARBER, [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) et [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) à payer à [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) la somme de 1 500 € sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
+9. **CONDAMNER IN SOLIDUM** SAS HB BARBER, [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) à payer à [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) la somme de 1 500 € sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. »*
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
@@ -253,7 +247,7 @@ Fait à [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/
 
 11. Courrier recommandé du [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (avec preuve d'envoi)
 
-12. Courrier recommandé du [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) à [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (avec preuve d'envoi)
+12. Courrier recommandé du [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) à [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (avec preuve d'envoi)
 
 13. Courrier recommandé du [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) à [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) (avec AR signé le [3 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-35-ar-proprietaire.md))
 

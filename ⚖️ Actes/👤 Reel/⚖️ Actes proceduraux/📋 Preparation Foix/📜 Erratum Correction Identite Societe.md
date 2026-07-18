@@ -27,7 +27,6 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 E
 **Auteur :** [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (né le 18/01/1982 à [Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md))
 
 **Référence plainte initiale :** PV n° [2026/015967](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md) du 2 juin 2026 — Commissariat de [Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) Rive Droite
-
 <hr><hr>
 
 ## 1. Exposé de l'erreur
@@ -37,7 +36,6 @@ Dans l'ensemble des actes, courriers et démarches engagés entre le 2 juin 2026
 Cette désignation était fondée sur les seules informations disponibles au moment de mes premières recherches (bases INPI, societe.com, annuaires en ligne). Lesdites bases ne mentionnaient alors que la société [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) à l'adresse précitée.
 
 **Il s'avère aujourd'hui que cette désignation est erronée.**
-
 <hr><hr>
 
 ## 2. Chronologie de la découverte de l'erreur
@@ -57,7 +55,7 @@ J'ai donc, de bonne foi, établi l'ensemble de mes démarches en désignant cett
 
 - LRAR à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)
 
-- LRAR à [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
+- LRAR à [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
 
 - LRAR à [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)
 
@@ -73,7 +71,8 @@ Deux événements concomitants ont révélé l'erreur :
 
 Des recherches web complémentaires effectuées à mon retour ont confirmé que [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) avait été créée le **22 avril 2026** — soit **37 jours avant l'accident** — à la même adresse (22 Grande Rue La Faurie, 09000 [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)), pour la même activité (coiffure/barbier, code APE 9602A), avec un capital de [1 000 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-capital-social.md).
 
-**Élément capital :** La directrice générale de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), **Mme [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) **, est la **même personne** que la directrice générale de [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). Il existe donc un lien organique direct entre les deux entités.
+**Élément capital :** La directrice générale de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), **Mme [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) **, est la **même personne** que la directrice générale de [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). Il existe donc un lien organique direct entre les deux entités.
+<hr><hr>
 
 ### Synthèse chronologique des sociétés au 22 rue Lafaurie
 
@@ -84,7 +83,6 @@ Des recherches web complémentaires effectuées à mon retour ont confirmé que 
 | **29 mai 2026** | Accident corporel de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) dans ce local |
 | **2 juin 2026** | Plainte initiale (visant à tort [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)) |
 | **16 juillet 2026** | Découverte de l'exploitation réelle par [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) |
-
 <hr><hr>
 
 ## 3. Actes concernés par la correction
@@ -103,7 +101,7 @@ La présente rectification s'applique à l'ensemble des actes, courriers et dém
 
 - LRAR à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) — [108 Avenue Paul Bert, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-adresse.md)
 
-- LRAR à [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
+- LRAR à [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
 
 - LRAR à [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)
 
@@ -130,7 +128,6 @@ La présente rectification s'applique à l'ensemble des actes, courriers et dém
 - Dossier Recours contre Tiers CPAM (n° [31727387](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md))
 
 - Saisine du Tribunal Judiciaire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
-
 <hr><hr>
 
 ## 4. Correction formelle
@@ -146,13 +143,12 @@ En conséquence de ce qui précède, je soussigné [Sébastien GRAZIDE](../../..
    > SIREN : [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md)
    > Siège social : 22 Grande Rue La Faurie, 09000 [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
    > Président : [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md)
-   > Directrice générale : [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
+   > Directrice générale : [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
    > Date de création : 22 avril 2026
 
 3. **La mention de « [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) » dans mes actes antérieurs doit être comprise comme une erreur matérielle de désignation, la cible réelle de mes demandes ayant toujours été l'exploitant de fait du commerce au 22 rue Lafaurie, sans que j'aie eu les moyens de l'identifier correctement avant le 16 juillet 2026.**
 
 4. **Je prie les destinataires des actes listés à la section 3 de bien vouloir annexer le présent erratum aux dossiers et procédures concernés, et de considérer que les diligences engagées visent la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) en qualité d'exploitant réel au jour de l'accident.**
-
 <hr><hr>
 
 ## 5. Précision sur la bonne foi et la transparence
@@ -177,6 +173,6 @@ Fait à [10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%
 
 **Signature :** [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 
----
+<hr><hr>
 
 *Document à annexer à tout acte et courrier mentionnant [L'Exploitant du Commerce (La SAS)] comme société défenderesse. À distribuer par dépôt physique (Commissariat de [La Ville de l'Accident]) et par lettre recommandée avec accusé de réception (autorités administratives et judiciaires).*

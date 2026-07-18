@@ -1,6 +1,6 @@
 ---
 title: "Mémoire en défense adverse — SAS SAS LES MAUVAIS GARCONS"
-description: "Pour :** SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine ANDISSAC (Partie Défenderesse)"
+description: "Pour :** SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine SORROCHE, dite ANDISSAC (Partie Défenderesse)"
 type: analyse_juridique
 date: 2026-07-09
 tags:
@@ -21,7 +21,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/99 🛡️ Memoire en defens
 <!-- /Breadcrumb -->
 
 # MÉMOIRE EN DÉFENSE ADVERSE
-**Pour :** [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (Partie Défenderesse)
+**Pour :** [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (Partie Défenderesse)
 **Contre :** [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (Partie Demanderesse)
 ## I — INTRODUCTION
 
@@ -66,7 +66,7 @@ Cette imprudence est de nature à exonérer, au moins partiellement, la gardienn
 
 ## III — SUR LA MISE EN CAUSE ABUSIVE DES DIRIGEANTS
 
-La demanderesse tente d'engager la responsabilité personnelle in solidum de [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) en invoquant une prétendue « faute détachable ».
+La demanderesse tente d'engager la responsabilité personnelle in solidum de [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) en invoquant une prétendue « faute détachable ».
 
 Cette argumentation est juridiquement infondée. L'écran de la personnalité morale protège les dirigeants. Pour que leur responsabilité civile personnelle soit engagée à l'égard des tiers, la Cour de cassation exige la preuve d'une faute intentionnelle d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales (Arrêt SATI).
 

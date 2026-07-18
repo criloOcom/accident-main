@@ -43,14 +43,14 @@ Cité Administrative
 
 [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [5 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)  
 
-**Objet : Demande d'information sur les diligences d'enquête et communication du rapport – Accident du [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au salon [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**  
+**Objet : Demande d'information sur les diligences d'enquête et communication du rapport – Accident du [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au salon [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**  
 
 Réf : Signalement effectué par la mairie de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) auprès de la Préfecture de l'Ariège le 1er juin 2026  
 
 Madame, Monsieur l'Inspecteur du Travail,  
 ## I — INTRODUCTION
 
-La présente lettre a pour objet de connaître les diligences accomplies par vos services à la suite de l'accident corporel grave survenu le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (sise [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)), et de porter à votre attention plusieurs éléments matériels susceptibles de caractériser des manquements à la réglementation du travail.
+La présente lettre a pour objet de connaître les diligences accomplies par vos services à la suite de l'accident corporel grave survenu le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (sise [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)), et de porter à votre attention plusieurs éléments matériels susceptibles de caractériser des manquements à la réglementation du travail.
 
 Cet accident a été causé par le **basculement** de la vasque en céramique du bac à shampoing sous le poids du préposé de l'exploitation, lequel était monté physiquement sur l'équipement pour régler le poste de télévision, en l'absence totale de tout équipement d'accès en hauteur (escabeau, marchepied) mis à disposition par l'employeur. Sous le poids du préposé, la vasque a basculé violemment ; la victime a instinctivement tendu la main droite pour protéger le préposé, et sa paume a heurté une **cassure majeure préexistante non signalée** sur le flanc de la vasque. **La vasque ne s'est pas effondrée** — il n'y a pas de débris de céramique.
 
@@ -69,9 +69,9 @@ Les procédures suivantes ont été engagées :
 - Plainte complémentaire pour défaut d'assurance RC professionnelle et travail dissimulé présumé
 
 **2. Mises en demeure LRAR** du [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
-- Mise en demeure à la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
+- Mise en demeure à la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
 
-- Mise en demeure à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et à [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
+- Mise en demeure à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et à [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
 
 - Action directe contre l'assureur RC ([Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1])
 
@@ -150,7 +150,7 @@ Cette situation est susceptible de méconnaître l'obligation de sécurité de l
 - **Travail dissimulé présumé** :  
 Il existe une possibilité que le préposé exerçant dans l'établissement ne soit pas déclaré.
 
-Cet indice est étayé par le fait que la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) déclare officiellement zéro salarié au Registre National des Entreprises, alors que l'activité commerciale du salon est continue et requiert la présence physique de ce préposé.
+Cet indice est étayé par le fait que la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) déclare officiellement zéro salarié au Registre National des Entreprises, alors que l'activité commerciale du salon est continue et requiert la présence physique de ce préposé.
 
 ### III.4 — TRANSMISSION AU PARQUET
 

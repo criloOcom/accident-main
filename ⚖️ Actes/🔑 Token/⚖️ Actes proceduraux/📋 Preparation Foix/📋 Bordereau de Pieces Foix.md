@@ -74,7 +74,7 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 B
 
 **Total : environ 59 pages**
 
----
+<hr><hr>
 
 **Recommandations :**
 - Imprimer en **recto uniquement** (l'OPJ pourra ainsi classer et numéroter chaque page)

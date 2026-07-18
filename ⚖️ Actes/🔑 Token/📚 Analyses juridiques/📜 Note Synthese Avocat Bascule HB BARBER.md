@@ -21,7 +21,6 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Synthese Avocat Ba
 > **Objet :** Présentation synthétique du dossier pour un avocat prenant connaissance de l'affaire pour la première fois.
 >
 > **Date :** 17 juillet 2026
-
 <hr><hr>
 
 ## 1. Chronologie factuelle structurée
@@ -78,7 +77,6 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Synthese Avocat Ba
 - À [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) / [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (DG)
 
 - Au bailleur [**[Le Propriétaire des Murs]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) : demande coordonnées assurance de l'exploitant
-
 <hr><hr>
 
 ## 2. Parties en présence (cartographie)
@@ -124,7 +122,6 @@ Propriétaire des locaux du [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%
 
 ### Auteur matériel présumé
 [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : **[Le Téléphone du Préposé]**) (identifié comme "**[Le Préposé de l'Exploitation]**" sur Wero). Coiffeur présent le jour des faits, a remboursé 15 € via Wero le 29/05/2026.
-
 <hr><hr>
 
 ## 3. Pivot du dossier : erreur de société + continuité économique
@@ -149,7 +146,6 @@ Au 29/05/2026, il est hautement probable que [**[Le Nouvel Exploitant (HB BARBER
 - Succession immédiate (cessation 10/03 → création 22/04 → accident 29/05)
 
 - Forte continuité économique / risque d'organisation d'insolvabilité ou cloisonnement artificiel
-
 <hr><hr>
 
 ## 4. Constatations du 16 juillet 2026 (effacement matériel)
@@ -164,7 +160,6 @@ Lors de la visite sur place le 16/07/2026 :
 - Salon resté fermé plusieurs semaines après l'accident (risque de non-conservation des vidéos et remplacement du matériel accidentogène)
 
 Échange avec la personne identifiée comme [**[Le Président du Nouvel Exploitant]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) : refus de coopérer, refus de fournir assurance/facture/justificatif, propos contradictoires (prétend que la victime était déjà venue le jour de l'incident), demande de quitter les lieux.
-
 <hr><hr>
 
 ## 5. Situation actuelle et actions à mener
