@@ -87,47 +87,29 @@ Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du [
 
 Les décisions suivantes établissent des précédents juridiques pertinents pour la présente affaire. Les textes intégraux sont joints en annexe pour référence complète :
 
-### III.2 — Décision 1: CC CIV1, 1965-04-30
+### III.2 — Décision 1: Cour de cassation, Assemblée Plénière, 19 février 1941 (Arrêt Jand'heur)
 
-- **ID** : `607940be9ba5988459c3dbd0`
+- **Résumé** : Cet arrêt pose le principe de la responsabilité de plein droit pesant sur le gardien de la chose instrument du dommage. La victime n'a pas à prouver la faute du gardien, la garde de la chose (le meuble de bac à shampoing et sa vasque en céramique) suffisant à engager sa responsabilité civile.
 
-- **Solution** : Rejet
+- **Lien** : [Consulter sur Légifrance](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006927230)
 
-- **Résumé** : UN ENFANT AYANT ETE BLESSE A LA TETE, AU COURS D'UNE LECON D'EQUITATION DANS UN MANEGE, PAR UNE RUADE DE SON CHEVAL ALORS QU'IL VENAIT DE METTRE PIED A TERRE SUR L'ORDRE DU MONITEUR, LES JUGES DU FOND...
+**Pertinence** : Cette décision de principe établit que la SAS exploitante, en tant que gardienne du bac à shampoing et de la vasque en céramique instrument du dommage, est responsable de plein droit des blessures subies par le client du seul fait du basculement et du caractère tranchant de l'équipement.
 
-- **Lien** : [Consulter sur Judilibre](https://www.legifrance.gouv.fr/juri/id/607940be9ba5988459c3dbd0)[^2]
+### III.3 — Décision 2: Cour de cassation, 2ème Chambre Civile, 18 septembre 2003 (n° 01-16.711)
 
-- **Annexe** : [Texte intégral en ANNEXE 1](../../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/63-13.613_CourCassation.md)
+- **Résumé** : Cet arrêt confirme qu'une chose inerte peut être qualifiée d'instrument du dommage si la victime démontre que cette chose présentait un état anormal ou un danger. En l'espèce, la présence d'une cassure tranchante non protégée et non signalée sur le flanc de la vasque caractérise cet état anormal.
 
-**Pertinence** : Cette décision établit un précédent important concernant la responsabilité des professionnels pour les accidents survenant dans leurs établissements, soulignant l'obligation de sécurité et de vigilance particulière due aux clients.
+- **Lien** : [Consulter sur Légifrance](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007046467)
 
-### III.3 — Décision 2: CC CIV1, 1994-07-08
+**Pertinence** : La vasque en céramique brisée, bien qu'inerte avant le basculement, présentait un état anormal et dangereux (éclats tranchants non sécurisés), ce qui suffit à établir son rôle actif et causal dans la section des tendons de la main de la victime.
 
-- **ID** : `60794c949ba5988459c4612e`
+### III.4 — Décision 3: Cour de cassation, Assemblée Plénière, 25 février 2000 (Arrêt Costedoat, n° 97-17.378)
 
-- **Solution** : Cassation
+- **Résumé** : Cet arrêt consacre l'immunité civile du préposé (le salarié) qui agit dans les limites de la mission qui lui a été impartie par son commettant. Par conséquent, la responsabilité civile du fait du dommage incombe exclusivement au commettant (l'employeur).
 
-- **Résumé** : Les notaires, qui ayant remis à une commerçante le prix de vente de son fonds de commerce sans tenir compte de l'opposition faite entre leurs mains, versent au créancier une partie de la somme qu'il a...
+- **Lien** : [Consulter sur Légifrance](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007044005)
 
-- **Lien** : [Consulter sur Judilibre](https://www.legifrance.gouv.fr/juri/id/60794c949ba5988459c4612e)[^3]
-
-- **Annexe** : [Texte intégral en ANNEXE 2](../../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/90-14.591_CourCassation.md)
-
-**Pertinence** : Cette décision illustre le principe de subrogation légale en matière de responsabilité professionnelle, montrant comment les professionnels et leurs assureurs peuvent être subrogés dans les droits des créanciers.
-
-### III.4 — Décision 3: CC CIV1, 2012-07-04
-
-- **ID** : `607975719ba5988459c49ee3`
-
-- **Solution** : Rejet
-
-- **Résumé** : Seule la valeur patrimoniale des parts sociales, souscrites pendant la durée du mariage par un époux, qui a seul la qualité d'associé, entre en communauté et ces parts ne peuvent qu'être attribuées au...
-
-- **Lien** : [Consulter sur Judilibre](https://www.legifrance.gouv.fr/juri/id/607975719ba5988459c49ee3)[^4]
-
-- **Annexe** : [Texte intégral en ANNEXE 3](../../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20des%20dirigeants/11-13.384_CourCassation.md)
-
-**Pertinence** : Cette décision traite de la nature des parts sociales et de leur évaluation, illustrant les principes juridiques concernant la valeur patrimoniale et la responsabilité des associés dans le secteur de la coiffure.
+**Pertinence** : Le coiffeur salarié (préposé) ayant agi dans le cadre de ses fonctions au salon de coiffure, seule la SAS exploitante (commettant) est civilement responsable du dommage provoqué par son préposé, justifiant la mise hors de cause personnelle du salarié et l'assignation de la SAS.
 
 ### III.5 — SUR LE PRINCIPE DE LA RESPONSABILITÉ CIVILE DÉLICTUELLE
 
@@ -381,9 +363,9 @@ Pour [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8
 ## Sources Législation
 
 [^1]: [Article 835 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
-[^2]: [Consulter sur Judilibre — www.legifrance.gouv.fr/juri/id/607940be9ba5988459c3dbd0](https://www.legifrance.gouv.fr/juri/id/607940be9ba5988459c3dbd0)
-[^3]: [Consulter sur Judilibre — www.legifrance.gouv.fr/juri/id/60794c949ba5988459c4612e](https://www.legifrance.gouv.fr/juri/id/60794c949ba5988459c4612e)
-[^4]: [Consulter sur Judilibre — www.legifrance.gouv.fr/juri/id/607975719ba5988459c49ee3](https://www.legifrance.gouv.fr/juri/id/607975719ba5988459c49ee3)
+[^2]: [Consulter sur Légifrance — www.legifrance.gouv.fr/juri/id/JURITEXT000006927230](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006927230)
+[^3]: [Consulter sur Légifrance — www.legifrance.gouv.fr/juri/id/JURITEXT000007046467](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007046467)
+[^4]: [Consulter sur Légifrance — www.legifrance.gouv.fr/juri/id/JURITEXT000007044005](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007044005)
 [^5]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 [^6]: [Article 1242 alinéa 5 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
 [^7]: [Article L. 227-8 du Code de commerce — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
