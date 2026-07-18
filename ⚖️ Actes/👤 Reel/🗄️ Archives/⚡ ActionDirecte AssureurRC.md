@@ -1,5 +1,5 @@
 ---
-title: "Action Directe Assureur RC ([Art. L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449))"
+title: "Action Directe Assureur RC (Art. L.124-3)"
 description: "Rédigé le **[J+31 Mises en demeure]"
 type: readme
 date: 2026-06-29

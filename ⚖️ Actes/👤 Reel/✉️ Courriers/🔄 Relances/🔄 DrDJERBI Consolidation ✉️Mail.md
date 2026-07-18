@@ -1,5 +1,5 @@
 ---
-title: "Relance [Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) - Certificat de Consolidation"
+title: "Relance Dr Iskander DJERBI - Certificat de Consolidation"
 description: "Objet : Demande de certificat médical de consolidation — Suite courrier du **[J+37 Assignation 145]"
 type: courrier
 date: 2026-07-06

@@ -1,6 +1,6 @@
 ---
 title: "RÈGLES PERMANENTES — Dossier Accident de la Main"
-description: "- **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet ([🧠 Memory/STRICT VARIABLES.md](STRICT%20VARIABLES.md) ou `🧠_M"
+description: "- **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet (🧠 Memory/STRICT VARIABLES.md ou `🧠_M"
 type: memory
 ---
 
@@ -567,3 +567,29 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 - **Audit pré-commit** : le hook `.dev/hooks/pre-commit` vérifie la présence de listes tight dans les fichiers modifiés (via `normalize_list_spacing.py --check`) et bloque le commit si des violations sont détectées.
 
 - **Dérogation** : aucune. La règle s'applique à TOUS les fichiers `.md` du projet, sans exception. Les listes de tâches (`[ ]` / `[x]`) sont également concernées.
+
+## #25 — INTERDICTION DES LIENS MARKDOWN DANS LE YAML (RÈGLE PERMANENTE)
+
+- **Principe** : le YAML front matter (`---`...`---`) est un format de données, pas un rendu Markdown. Les liens `[texte](url)` sont soit ignorés par le parseur YAML, soit le cassent (les `:` dans les URLs sont ambigus).
+
+- **Interdiction absolue** : aucun lien Markdown `[texte](url)` n'est autorisé dans les blocs YAML (`title`, `description`, ou tout autre champ).
+
+- **Correction** : remplacer `[texte](url)` par le `texte` nu dans le YAML.
+
+- **Script de correction** : `.dev/app/strip_yaml_links.py --apply` (dry-run par défaut).
+
+- **Audit** : `.dev/app/audit_yaml_links.py` — intégré au pre-commit hook (Règle #23).
+
+- **Anti-exemple** (YAML interdit) :
+  ```yaml
+  ---
+  description: Procès-verbal de [La Victime](token.md)  # ❌ lien interdit
+  ---
+  ```
+
+- **Exemple correct** :
+  ```yaml
+  ---
+  description: Procès-verbal de La Victime  # ✅ texte seul
+  ---
+  ```

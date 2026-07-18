@@ -1,6 +1,6 @@
 ---
 title: "Note Conservation Preuves Numeriques"
-description: "Dans le cadre du litige opposant [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploi"
+description: "Dans le cadre du litige opposant **[La Victime]** à **[L'Exploitant du Commerce (La SAS)]**, il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploi"
 type: analyse_juridique
 date: 2026-07-09
 tags:

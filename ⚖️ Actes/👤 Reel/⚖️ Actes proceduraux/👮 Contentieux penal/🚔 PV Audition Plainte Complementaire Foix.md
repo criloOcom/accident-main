@@ -1,7 +1,7 @@
 ---
 title: PV Audition Plainte Complémentaire — Blessures Involontaires et Entrave
-description: Procès-verbal d'audition de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) au Commissariat de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) pour le dépôt de sa plainte complémentaire, signalant des
-  faits d'obstruction à la justice et de dissimulation de preuves par [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md).
+description: Procès-verbal d'audition de Sébastien GRAZIDE au Commissariat de Foix pour le dépôt de sa plainte complémentaire, signalant des
+  faits d'obstruction à la justice et de dissimulation de preuves par SAS HB BARBER.
 type: acte_procedural
 date: 2026-07-15
 tags:

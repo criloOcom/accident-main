@@ -1,10 +1,10 @@
 ---
-title: "Email définitif à l'Adjoint au Maire de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) — Éléments d'actualisation sur le dossier ERP"
-description: "Destinataire** : `[**[L'Email de l'Adjoint au Maire]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-email.md)`"
+title: "Email définitif à l'Adjoint au Maire de **[La Ville de l'Accident]** — Éléments d'actualisation sur le dossier ERP"
+description: "Destinataire** : `**[L'Email de l'Adjoint au Maire]**`"
 type: courrier
 date: 2026-07-10
 statut: brouillon
-destinataire: Adjoint au Maire de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) ([**[L'Adjoint au Maire de la Commune]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md))
+destinataire: Adjoint au Maire de **[La Ville de l'Accident]** (**[L'Adjoint au Maire de la Commune]**)
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/📝 Procédure/✉️📝 Mairie Tavella ERP.md
 jx: J+42

@@ -314,6 +314,8 @@ Les caches (`__pycache__`, `.pytest_cache`) sont supprimés après exécution.
 
 10. **Jamais de titre `#` en double** dans un même fichier
 
+11. **Jamais de liens Markdown dans le YAML** (`[texte](url)` interdit dans `---`...`---` — le YAML est un format de données, pas du Markdown)
+
 <hr><hr>
 
 ## XIV — PIECES JOINTES

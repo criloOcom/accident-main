@@ -10,7 +10,7 @@ tags:
   - SAS
   - LRAR
 statut: final
-destinataire: Tribunal de Commerce de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
+destinataire: Tribunal de Commerce de Foix
 auteur: Nom de l'Avocat de la Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️⚖️ TC Opposition Radiation.md
 jx: J+41

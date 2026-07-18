@@ -1,7 +1,7 @@
 ---
 title: ANNEXE C — LISTE DES PIÈCES
-description: '- [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — [Dr Julie JARDON](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) — Premiers soins
-  urgence — [🔗 Drive](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view)'
+description: '- 29 mai 2026 — Dr Julie JARDON — Premiers soins
+  urgence — 🔗 Drive'
 type: readme
 reel_path: ../../../👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md
 auteur: La Victime

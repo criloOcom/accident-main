@@ -1,10 +1,10 @@
 ---
-title: "Email définitif à l'Adjoint au Maire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) — Éléments d'actualisation sur le dossier ERP"
-description: "Destinataire** : `[btavella@mairie-foix.fr](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-email.md)`"
+title: "Email définitif à l'Adjoint au Maire de Foix — Éléments d'actualisation sur le dossier ERP"
+description: "Destinataire** : `btavella@mairie-foix.fr`"
 type: courrier
 date: 2026-07-10
 statut: brouillon
-destinataire: Adjoint au Maire de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) ([Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md))
+destinataire: Adjoint au Maire de Foix (Monsieur TAVELLA)
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/📝 Procédure/✉️📝 Mairie Tavella ERP.md
 jx: J+42

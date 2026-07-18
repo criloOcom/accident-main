@@ -1,6 +1,6 @@
 ---
 title: "Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)"
-description: "Ce plan analyse la possibilité juridique de demander au Maire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) , et définit la marche"
+description: "Ce plan analyse la possibilité juridique de demander au Maire de **[La Ville de l'Accident]** d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à **[L'Adresse de l'Exploitation]** , et définit la marche"
 type: readme
 statut: brouillon
 reel_path: ../../👤 Reel/🗂️ Organisation/21 📋 Plan Constat Police Foix.md

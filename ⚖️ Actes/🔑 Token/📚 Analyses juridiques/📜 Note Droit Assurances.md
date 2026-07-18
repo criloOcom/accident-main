@@ -1,6 +1,6 @@
 ---
 title: "Note d'Analyse Juridique - Droit des Assurances"
-description: "La présente note détaille la stratégie et l'analyse en droit des assurances concernant le litige opposant [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et ses dirigeants, suite à l'accident corporel survenu le 29 mai 2026. Elle aborde la"
+description: "La présente note détaille la stratégie et l'analyse en droit des assurances concernant le litige opposant **[La Victime]** à **[L'Exploitant du Commerce (La SAS)]** et ses dirigeants, suite à l'accident corporel survenu le 29 mai 2026. Elle aborde la"
 type: analyse_juridique
 date: 2026-07-08
 tags:

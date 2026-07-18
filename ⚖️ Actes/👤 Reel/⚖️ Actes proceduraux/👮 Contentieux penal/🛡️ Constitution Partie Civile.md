@@ -1,5 +1,5 @@
 ---
-title: "[Constitution de Partie Civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) — Blessures Involontaires"
+title: "Constitution de Partie Civile — Blessures Involontaires"
 description: "Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants. Version consolidée intégrant les données du rapport d'expertise médicale (consolidation 01/03/2027, DFP 12%, SE 4/7)."
 type: readme
 date: 2026-07-06

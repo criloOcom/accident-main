@@ -1,6 +1,6 @@
 ---
 title: "Fiche Réflexe 48h - Disparition SAS"
-description: "La disparition soudaine de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) et geler la situation factuelle et juridique"
+description: "La disparition soudaine de SAS LES MAUVAIS GARCONS et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de Sébastien GRAZIDE et geler la situation factuelle et juridique"
 type: readme
 date: 2026-07-09
 tags:
