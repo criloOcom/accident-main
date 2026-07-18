@@ -229,9 +229,9 @@ Cette version a été rédigée à partir du mémoire juridique produit par l'as
 | Structure discussion | 5 points | 4 points | 5 points (R.4323-58 + 1242 al.1 + al.5 + 1240 + obligation) |
 
 Voir les mémoires complets :
-- `📊 Rapports/expertise/20260707 Mémoire juridique Glose.md`
+- [📊 Rapports/expertise/20260707 Mémoire juridique Glose.md](../../../../%F0%9F%93%8A%20Rapports/expertise/20260707%20M%C3%A9moire%20juridique%20Glose.md)
 
-- `📊 Rapports/expertise/20260707 Analyse critique Glose.md`
+- [📊 Rapports/expertise/20260707 Analyse critique Glose.md](../../../../%F0%9F%93%8A%20Rapports/expertise/20260707%20Analyse%20critique%20Glose.md)
 <hr><hr>
 
 ## Sources Législation
