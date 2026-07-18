@@ -1,6 +1,6 @@
 ---
 title: "TODO — Plans d'action + Tableau de bord Sébastien"
-description: "- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → [📊 Rapports/RAPPORT_AUDIT_RISQUES.md](../%F0%9F%93%8A%20Rapports/RAPPORT_AUDIT_RISQUES.md)"
+description: "- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → (non conservé)"
 type: memory
 ---
 

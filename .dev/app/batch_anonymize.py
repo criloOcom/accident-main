@@ -95,6 +95,8 @@ REPLACEMENTS = [
     ("Monsieur Ayoub Bennourine", "[Le Préposé de l'Exploitation]"),
     ("Ayoub Bennourine", "[Le Préposé de l'Exploitation]"),
     ("Ayoub BENNOURINE", "[Le Préposé de l'Exploitation]"),
+    ("« Ayoub »", "[**[Le Prénom du Préposé]**]"),
+    ("Ayoub", "[Le Préposé de l'Exploitation]"),
     ("Monsieur BENNOURINE", "[Le Préposé de l'Exploitation]"),
     ("BENNOURINE", "[Le Préposé de l'Exploitation]"),
     ("07 58 40 12 87", "[Le Téléphone du Préposé]"),

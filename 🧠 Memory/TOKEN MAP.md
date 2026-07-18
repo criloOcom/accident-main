@@ -22,6 +22,8 @@ type: memory
 | Catherine ANDISSAC / SORROCHE / Catherine Andissac / Catherine Sorroche | [**[La Directrice Générale de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) |
 <a id="token-le-prepose-de-l-exploitation"></a>
 | Ayoub Bennourine / BENNOURINE | [**[Le Préposé de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) |
+<a id="token-le-prenom-du-prepose"></a>
+| Ayoub (prénom seul) | [**[Le Prénom du Préposé]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-prepose-prenom.md) |
 <a id="token-le-proprietaire-des-murs"></a>
 | Romain DELRIEU / DELRIEU | [**[Le Propriétaire des Murs]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) |
 <a id="token-le-chirurgien-sos-main"></a>
@@ -197,6 +199,7 @@ type: memory
 | [**[Finance Frais Divers]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-frais-divers.md) | 3 000 € | Frais divers |
 | [**[Finance Facture Chirurgie]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-facture-chirurgie.md) | 790,23 € | Frais médicaux |
 | [**[Finance Prestation Salon]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prestation-salon.md) | 15,00 € | Prestation salon |
+| [**[N° Transaction Wero]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-transaction-wero.md) | IPR000297029234 | Transaction Wero (remboursement) |
 | [**[Finance Evaluation Globale]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-evaluation-initiale.md) | 59 600 € | Évaluation indemnitaire globale |
 
 ## Limitations connues du script batch_anonymize.py

@@ -138,7 +138,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 - **Fiches détaillées** pour chaque risque : description, probabilité, impact, sévérité, tendance, facteurs aggravants, atténuation existante, plan d'atténuation
 - **Plan d'atténuation global** : 5 actions d'urgence, 5 court terme, 4 moyen terme, 3 long terme
 - **Vigilances permanentes** : surveillance continue + interdictions absolues + indicateurs de levée
-- **Fichier créé** : [📊 Rapports/RAPPORT_AUDIT_RISQUES.md](../%F0%9F%93%8A%20Rapports/RAPPORT_AUDIT_RISQUES.md) (478 lignes)
+- **Fichier créé** : 📊 Rapports/RAPPORT_AUDIT_RISQUES.md (478 lignes, non conservé)
 
 ### Risques critiques identifiés (sévérité 5 🔴)
 | ID | Risque | Atténuation clé |
@@ -161,7 +161,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 ### Actions réalisées
 
 #### 🔴 Priorité 1 : Email Maire Foix — Demande intervention Police Municipale
-- **Fichier créé** : [⚖️ Actes/🔑 Token/✉️ Courriers/✉️🚨 Prefecture.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/34%20✉️%20EMAIL%20Maire%20Foix%20-%20Police%20Municipale%20ERP.md)
+- **Fichier créé** : [⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️🚨 Prefecture.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Prefecture.md)
 - **Destinataire** : Mme Marine BORDES, Maire de Foix (`secretariat@mairie-foix.fr`)
 - **Objet** : Demande d'intervention Police Municipale pour contrôle ERP au 22 Rue Lafaurie
 - **Statut** : ✅ Brouillon prêt — envoi prévu à 8h00 (draft Gmail bloqué par OAuth `invalid_grant`, fichier local disponible pour copier-coller)
@@ -198,13 +198,13 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 ### Merge 12 PRs Jules (toutes mergées sur main)
 | PR | Titre | Statut | Fichiers |
 |----|-------|--------|----------|
-| #73 | Rapport audit avocat | ✅ Mergée (rebase) | [📊 Rapports/🗄️ Archives/audit/rapport_audit_avocat.md](../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/rapport_audit_avocat.md) |
-| #74 | Audit RGPD | ✅ Mergée (rebase) | [📊 Rapports/🗄️ Archives/audit/RAPPORT_AUDIT_RGPD.md](../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/RAPPORT_AUDIT_RGPD.md) |
-| #75 | Expertise barémique | ✅ Mergée (rebase) | [📊 Rapports/20260708_Rapport_Baremique_Dintilhac.md](../%F0%9F%93%8A%20Rapports/40_Indemnisation_Dintilhac/20260708_Rapport_Baremique_Dintilhac.md) |
-| #76 | Note stratégique FGTI/CIVI | ✅ Mergée (1er) | [⚖️ Actes/{token,reel}/💰 Etudes indemnisation/13 Note strategique FGTI CIVI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/%F0%9F%93%8A%20Note%20Strategique%20FGTI%20CIVI.md) |
-| #77 | Audit organisation | ✅ Mergée (rebase) | [📊 Rapports/🗄️ Archives/audit/RAPPORT_ORGANISATION_METHODE.md](../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/RAPPORT_ORGANISATION_METHODE.md) |
-| #78 | Audit dirigeants | ✅ Mergée (rebase) | [📊 Rapports/🗄️ Archives/audit/RAPPORT_DIRIGEANTS.md](../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/RAPPORT_DIRIGEANTS.md) |
-| #79 | Rapport conformité ERP | ✅ Mergée (rebase) | [📊 Rapports/🗄️ Archives/audit/rapport_conformite_erp.md](../%F0%9F%93%8A%20Rapports/%F0%9F%97%84%EF%B8%8F%20Archives/audit/rapport_conformite_erp.md) |
+| #73 | Rapport audit avocat | ✅ Mergée (rebase) | — |
+| #74 | Audit RGPD | ✅ Mergée (rebase) | — |
+| #75 | Expertise barémique | ✅ Mergée (rebase) | [📊 Rapports/40_Indemnisation_Dintilhac/20260708_Rapport_Baremique_Dintilhac.md](../%F0%9F%93%8A%20Rapports/40_Indemnisation_Dintilhac/20260708_Rapport_Baremique_Dintilhac.md) |
+| #76 | Note stratégique FGTI/CIVI | ✅ Mergée (1er) | [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/📊 Note Strategique FGTI CIVI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/%F0%9F%93%8A%20Note%20Strategique%20FGTI%20CIVI.md) |
+| #77 | Audit organisation | ✅ Mergée (rebase) | — |
+| #78 | Audit dirigeants | ✅ Mergée (rebase) | — |
+| #79 | Rapport conformité ERP | ✅ Mergée (rebase) | — |
 | #80 | Note Droit Assurances (token+reel) | ✅ Mergée (rebase) | [⚖️ Actes/{token,reel}/📚 Analyses juridiques/15 Note Droit Assurances.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/%F0%9F%93%9C%20Note%20Droit%20Assurances.md) |
 | #81 | Rapport assurance | ✅ Mergée (rebase) | `📊 Rapports/expertise/analyse_strategie_assurance.md` |
 | #82 | Ordonnance référé | ✅ Déjà mergée | [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/07 ⚖️ Projet Ordonnance Refere.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md) |
@@ -263,7 +263,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 - M01, M15 déjà sur `main` (pas besoin de PR)
 
 ### Nouveaux fichiers créés
-- [⚖️ Actes/🔑 Token/✉️ Courriers/✉️🚨 SIE.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/32%20✉️%20Courrier%20SIE%20URSSAF%20Mutualisation.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️📝 SIE URSSAF Mutualisation.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20SIE%20URSSAF%20Mutualisation.md)
 - `⚖️ Actes/🔑 Token/✉️ Courriers/33 ✉️ Requête Constat Huissier 145 CPC.md`
 - [⚖️ Actes/🔑 Token/🗄️ Archives/11 Fiche Reflexe 48h Victime.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/11%20Fiche%20Reflexe%2048h%20Victime.md)
 - `⚖️ Actes/🔑 Token/📚 Analyses juridiques/17 Note Contentieux Administratif.md`

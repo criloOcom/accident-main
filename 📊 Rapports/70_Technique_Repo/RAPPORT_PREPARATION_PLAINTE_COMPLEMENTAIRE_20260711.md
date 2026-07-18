@@ -503,7 +503,7 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 
 **📊 Rapports de référence :**
 - [📊 Rapports/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md](../10_Pilotage/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md)
-- [📊 Rapports/RAPPORT_AUDIT_RISQUES.md](RAPPORT_AUDIT_RISQUES.md)
+- ~~📊 Rapports/RAPPORT_AUDIT_RISQUES.md~~ (non conservé)
 - [📊 Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md](../30_Analyses_Multi_Angle/RAPPORT_FINAL_INTEGRATION_20260710.md)
 
 **📚 Documentation juridique :**

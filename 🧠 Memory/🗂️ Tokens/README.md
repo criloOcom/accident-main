@@ -38,6 +38,7 @@ Chaque fiche regroupe :
 | `**[Nom de l'Avocat de la Victime]**` | [token-victime-avocat-nom.md](token-victime-avocat-nom.md) |
 | `**[L'Adjoint au Maire de la Commune]**` | [token-mairie-adjoint-nom.md](token-mairie-adjoint-nom.md) |
 | `**[Prénom de la Victime]**` | [token-victime-prenom.md](token-victime-prenom.md) |
+| `**[Le Prénom du Préposé]**` | [token-prepose-prenom.md](token-prepose-prenom.md) |
 
 ### Personnes morales (4)
 
@@ -142,6 +143,7 @@ Chaque fiche regroupe :
 | `**[Finance Frais Divers]**` | [token-finance-frais-divers.md](token-finance-frais-divers.md) | 3 000 € |
 | `**[Finance Facture Chirurgie]**` | [token-finance-facture-chirurgie.md](token-finance-facture-chirurgie.md) | 790,23 € |
 | `**[Finance Prestation Salon]**` | [token-finance-prestation-salon.md](token-finance-prestation-salon.md) | 15,00 € |
+| `**[N° Transaction Wero]**` | [token-finance-transaction-wero.md](token-finance-transaction-wero.md) | IPR000297029234 |
 | `**[Finance Evaluation Initiale]**` | [token-finance-evaluation-initiale.md](token-finance-evaluation-initiale.md) | 59 600 € |
 | `**[Capital du Nouvel Exploitant]**` | [token-exploitation-hb-capital-social.md](token-exploitation-hb-capital-social.md) | 1 000 € |
 | `**[Capital Social de l'Exploitation]**` | [token-exploitation-capital-social.md](token-exploitation-capital-social.md) | 200 € |
