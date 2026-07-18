@@ -1376,3 +1376,5 @@ Formaliser la stratégie d'investigation liée au paiement Wero de 15 € effect
 3. Intégration du narratif Wero dans les plaintes complémentaires et la Requête 145 CPC.
 
 4. Intégration de la section probatoire dans le Mémo Avocat.
+
+5. Envoi SMS direct à Ayoub le 18/07/2026 à 16h00 (numéro +33 7 58 40 12 87, formulaire CERFA 11527*03 joint en PDF) — pas de retour à date.

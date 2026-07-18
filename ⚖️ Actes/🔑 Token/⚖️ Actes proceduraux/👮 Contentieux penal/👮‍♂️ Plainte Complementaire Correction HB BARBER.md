@@ -155,6 +155,21 @@ Compte tenu de ces éléments nouveaux, je sollicite respectueusement :
 
 <hr><hr>
 
+## 6. Contact avec le témoin direct — Ayoub BENNOURINE
+
+Le **18 juillet 2026 à 16h00**, j'ai adressé un message WhatsApp au numéro **+33 7 58 40 12 87** (téléphone d'[**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md), identifié par le virement Wero du 29 mai 2026) accompagné du formulaire officiel d'attestation de témoin **CERFA 11527\*03** en format PDF.
+
+Ce message l'informait :
+- de son statut de témoin potentiel dans la présente procédure,
+- de l'obligation légale de dire la vérité en cas d'audition par la police ou la justice (**faux témoignage = infraction pénale**),
+- et lui proposait de remplir le CERFA ci-joint pour attester spontanément de ce qu'il a vu (la coupe, l'accident, l'appel au SAMU, etc.).
+
+**Au jour du présent dépôt, aucun retour n'a été reçu.**
+
+Je sollicite que la copie d'écran de cet échange soit versée au dossier comme pièce complémentaire.
+
+<hr><hr>
+
 Je reste à la disposition des services d'enquête pour toute précision complémentaire et pour fournir l'intégralité de mon dossier (correspondances mairie, CPAM, LRAR, attestations médicales, attestation RNE [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), etc.).
 
 **Je vous prie d'agréer, Monsieur le Procureur de la République, l'expression de ma considération distinguée.**
@@ -174,5 +189,7 @@ Je reste à la disposition des services d'enquête pour toute précision complé
 - **[Note de constatations 16/07/2026](...)** — Visite des lieux, disparition du bac, découverte [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
 
 - **[Attestation RNE [Le Nouvel Exploitant (HB BARBER)]](...)** — DATA INPI, SIREN [**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md)
+
+- **[Capture d'écran WhatsApp + CERFA 11527\*03](...)** — SMS adressé à [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) le 18/07/2026 — pas de retour à date
 
 - **[PV initial n°[ ... ]](...)** — Rappel des faits (déjà versé)

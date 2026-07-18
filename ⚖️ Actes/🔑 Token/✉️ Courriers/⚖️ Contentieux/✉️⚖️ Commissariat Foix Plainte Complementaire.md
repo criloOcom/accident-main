@@ -227,6 +227,8 @@ Je joins à la présente, en copies :
 
 8. Échange de courriels avec [**[L'Adjoint au Maire de la Commune]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), adjoint au maire de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) (signalement du 1er juin 2026 et réponse indiquant la saisine de la préfecture / inspection du travail / CODAF).
 
+9. **Capture d'écran message WhatsApp du 18/07/2026** adressé à [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (+33 7 58 40 12 87) avec formulaire CERFA 11527\*03 joint — information du témoin direct de l'accident et proposition d'attestation écrite (pas de retour à date).
+
 <hr><hr>
 
 ## 7 — Déclaration sur l'honneur

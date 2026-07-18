@@ -70,7 +70,9 @@ reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 B
 
 21. ☐ **Attestation de droits CPAM (n° dossier RCT [ ... ])** — 1 page
 
-**Total : environ 58 pages**
+22. ☐ **Capture d'écran WhatsApp Ayoub 18/07/2026** — SMS au +33 7 58 40 12 87 + CERFA 11527\*03 joint — pas de retour — 1 page
+
+**Total : environ 59 pages**
 
 ---
 

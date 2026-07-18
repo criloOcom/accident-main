@@ -315,6 +315,16 @@ Je sollicite respectueusement :
 
 Je certifie sur l'honneur que tout ce qui précède est la vérité. Je n'ai rien ajouté, rien omis, rien modifié. Je n'ai jamais menti dans cette affaire. Dès ma première plainte, j'ai précisé aux policiers que je n'étais pas certain à 100 % de l'identité du salon. Aujourd'hui, avec les éléments nouveaux, je viens compléter et corriger en toute transparence.
 
+### 18 juillet 2026 — Contact témoin Ayoub (J+50)
+
+**16h00 :** Envoi d'un message WhatsApp au **+33 7 58 40 12 87** (numéro d'[Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)) avec le formulaire CERFA 11527\*03 joint :
+
+> *Information du témoin sur la procédure en cours + proposition d'attester spontanément des faits constatés (coupe, accident, appel SAMU).*
+
+**Pas de retour** au 18 juillet 2026. Copie d'écran conservée comme pièce du dossier.
+
+---
+
 Fait à [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le _____ juillet 2026
 
 **Signature : [La Victime]**

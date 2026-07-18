@@ -122,7 +122,7 @@ ni contacter des personnes à ta place.
 | 📄 | **Adresses emails des témoins** à nous communiquer | Avant envoi attestations | ❌ NON FAIT | Moyenne |
 | 📄 | **Email/téléphone Dr DJERBI** à nous communiquer | Avant relance | ❌ NON FAIT | Moyenne |
 | 📋 | **Wero (PSP paiement)** — rédiger/envoyer courrier conservation + RGPD (Pièce n°X) | Dès que possible | ❌ NON FAIT | **Haute** |
-| 📋 | **Témoin Ayoub** — envoi du SMS modèle + capture d'écran de la réponse | Dès que possible | ❌ NON FAIT | **Haute** |
+| 📋 | **Témoin Ayoub** — SMS envoyé le 18/07/2026 à 16h00 (+33 7 58 40 12 87 + CERFA 11527*03 joint) | Dès que possible | ✅ SMS envoyé 18/07 — pas de retour | **Haute** |
 
 ### ✅ Phase 30 — Erratum Correction Société (17 juillet 2026)
 | # | Action | Statut |

@@ -102,6 +102,30 @@ Sébastien doit formuler une demande écrite à Wero s'articulant sur deux volet
    * Les informer formellement que cette transaction fait l'objet d'une enquête pénale en cours (plainte) et d'une procédure civile imminente (Requête 145 CPC).
    * Demander qu'ils se préparent à répondre avec diligence à toute réquisition judiciaire ou policière concernant ce transfert de fonds.
 
+### 4.5 Contact direct avec Ayoub — SMS du 18 juillet 2026
+
+**Date :** 18 juillet 2026, 16h00
+**Canal :** WhatsApp
+**Destinataire :** +33 7 58 40 12 87
+**Objet :** Information du témoin + proposition d'attestation CERFA 11527*03
+
+**Texte intégral du message envoyé (Sébastien → Ayoub) :**
+> *Bonjour Ayoub,*
+> *c'est Sébastien GRAZIDE, la personne qui s'est gravement coupé la main au salon de Foix le 29 mai 2026 et qui a payé 15 € par Wero ce jour-là.*
+> *Mon accident fait l'objet d'une procédure en France (police puis justice). Vous étiez présent et avez encaissé le paiement, vous êtes donc un témoin potentiel.*
+> *En droit français, quand une personne est entendue comme témoin par la police ou par un juge, elle a l'obligation de dire la vérité. Le faux témoignage ou le fait de mentir volontairement à la justice sont des infractions pénales, quelle que soit l'origine ou la nationalité de la personne.*
+> *Pour simplifier les choses, je vous propose, si vous l'acceptez, de remplir une courte attestation de témoin (formulaire officiel "CERFA 11527*03") en indiquant uniquement ce que vous avez vu : la coupe, l'accident, l'appel au SAMU, etc.*
+> *Merci de me dire si vous acceptez de le faire. Dans tous les cas, je voulais que vous soyez informé clairement qu'en cas d'audition par la police ou la justice française, vous aurez le devoir de dire la vérité sur ce qui s'est passé.*
+
+**Pièce jointe :** Formulaire CERFA 11527*03 (attestation de témoin) au format PDF
+
+**Réponse reçue :** Aucune au 18/07/2026
+
+**Valeur probatoire :**
+- Ce SMS démontre la diligence de la victime pour recueillir le témoignage direct du coiffeur présent.
+- L'absence de réponse pourra être évoquée devant le juge comme un élément d'appréciation.
+- Capture d'écran du message envoyé et du CERFA joint (= nouvelle pièce du dossier).
+
 ## 5. Commentaires juridiques par pièce (bordereau)
 
 Commentaires à produire sous chaque pièce dans un bordereau ou un dossier d'avocat.
