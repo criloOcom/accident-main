@@ -181,10 +181,10 @@ Cette ordonnance est une **simulation** rédigée à partir des pièces et concl
 
 Le dossier contient des éléments sérieux pour plaider la faute détachable (absence d'assurance identifiable en ERP depuis l'ouverture, défaut d'entretien caractérisé d'un équipement dangereux, abstention persistante des dirigeants malgré mises en demeure — arrêt SATI, Civ. com., 20 mai 2003, n° 99-17.092). Mais cette qualification est classiquement réservée au juge du fond, ce qui justifie le scénario A en référé. Le curseur pourra être ajusté selon l'audience et les éléments recueillis entre-temps.
 
-**Rappel des résultats réels (15 juillet 2026) :**
-- Requête Art. 145 CPC déposée au TJ Foix
-- Demande d'AJ totale en cours (délai 2-6 semaines)
-- Plainte complémentaire déposée au commissariat de Foix
+**Rappel des actions projetées (au 15 juillet 2026) :**
+- Requête Art. 145 CPC : projet prêt, dépôt prévu après obtention AJ
+- Demande d'AJ totale : projet prêt, dépôt prévu lundi 20/07
+- Plainte complémentaire Foix : projet prêt, dépôt prévu lundi 20/07
 - Aucune ordonnance de référé rendue à ce stade
 
 **Liaison avec l'expertise médicale (post-hoc) :**

@@ -61,9 +61,9 @@ Sa chute a entraîné sur ma main droite une plaie palmaire profonde de 8,5 cm a
 
 1. **Mises en demeure LRAR** (29 mai 2026) : adressées à la SAS et à ses dirigeants personnels, restées sans réponse à ce jour.
 
-2. **Assignation en référé-provision** : rédigée et en cours de signification par commissaire de justice, à l'encontre de la SAS et de ses dirigeants in solidum.
+2. **Assignation en référé-provision** : projet rédigé (non encore signifié — dépôt prévu après obtention de l'AJ).
 
-3. **Assignation Article 145 CPC** : en cours de préparation en vue d'obtenir la communication forcée de la police d'assurance RC.
+3. **Assignation Article 145 CPC** : projet rédigé, dépôt prévu après obtention de l'AJ.
 
 4. **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** (6 juillet 2026) : déposée auprès du Doyen des Juges d'Instruction de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) sur le fondement des articles 222-19 et 222-20 du Code pénal.
 

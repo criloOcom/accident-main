@@ -44,7 +44,7 @@ Le plan d'action stratégique (J+32, 30 juin 2026) est **structurellement sain**
 | P1 | **Assignation au fond "septembre 2026" mentionnée** mais absente du calendrier procédural. Le calendrier s'arrête au 31 juillet + 12 novembre. Aucun jalon septembre/décembre 2026. | **Haute** |
 | P2 | **Référé-provision et référé-communication (Art. 145) présentés comme parallèles** mais aucun n'a d'audience fixée. Le plan laisse croire que la procédure suit son cours, ce qui n'est pas le cas. | **Haute** |
 | P3 | **J+32 comme date de rédaction** (30 juin). Le plan mentionne la note administrative J+37 (lendemain délai amiable) pour l'assignation 145. Or le délai amiable de 15 jours expire le 14 juillet (J+46), pas J+37. Décalage non expliqué. | **Moyenne** |
-| P4 | **Citation SATI hallucinée** présente dans ce document (JURITEXT000007152625). STATUS Phase 13 dit l'avoir corrigée "dans 12 fichiers" incluant le Plan action. **Vérifier si la correction a bien été propagée dans la version locale.** | **Vérification** |
+| P4 | **Citation SATI hallucinée** présente dans ce document (JURITEXT000007152625 → remplacé par JURITEXT000007047369). ✅ **Correction vérifiée et propagée dans tous les fichiers concernés (Phase 13).** | **Résolue** |
 
 ### II.2 — 2.2 Calendrier procédural (11 📅) — Lacunes
 

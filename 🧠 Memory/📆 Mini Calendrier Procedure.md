@@ -31,10 +31,10 @@ auteur: La Victime
 | 10/07/2026 | **Mail relance Maire** — suivi saisines Préfecture/CODAF/IT | Admin | ✅ FAIT | En attente éventuelle de réponse. |
 | 11/07/2026 | Saisine FGTI | Indemnisation | ✅ FAIT (OBSOLÈTE) | Hors champ art. 706-3 CPP (ne pas relancer). |
 | 12/07/2026 | **Consultation IA** + validation stratégie | Support | ✅ FAIT | Stratégie globale AJ + 145 + plainte. |
-| **15/07/2026 (matin)** | **Requête art. 145 CPC** TJ Foix (assurance + vidéos) | Civil / probatoire | ✅ FAIT | Dépôt greffe TJ Foix. |
-| **15/07/2026 (matin)** | **Demande AJ totale** BAJ TJ Foix | AJ | ✅ FAIT | En attente décision + désignation avocat. |
-| **15/07/2026 (midi)** | **Visite des lieux** + constat photo | Faits / preuve | ✅ FAIT | Photos extérieures/intérieures. |
-| **15/07/2026 (après-midi)** | **Plainte complémentaire** Commissariat Foix | Pénal | ✅ FAIT | Référence PV initial rappelée. |
+| **15/07/2026 (matin)** | **Requête art. 145 CPC** TJ Foix (assurance + vidéos) | Civil / probatoire | ⏳ PROJET PRÊT | Dépôt greffe prévu lundi 20/07. |
+| **15/07/2026 (matin)** | **Demande AJ totale** BAJ TJ Foix | AJ | ⏳ PROJET PRÊT | Dépôt BAJ prévu lundi 20/07. |
+| **15/07/2026 (midi)** | **Visite des lieux** + constat photo | Faits / preuve | ✅ FAIT (16/07) | Effectuée le **16 juillet**, pas le 15. |
+| **15/07/2026 (après-midi)** | **Plainte complémentaire** Commissariat Foix | Pénal | ⏳ PROJET PRÊT | Dépôt commissariat prévu lundi 20/07. |
 | 15/07/2026 | **Consultation avocat Jimini** | Support | ✅ FAIT | Validation stratégie admin/pénal + courriers 41/42. |
 
 ---

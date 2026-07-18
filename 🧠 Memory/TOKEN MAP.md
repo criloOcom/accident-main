@@ -60,6 +60,9 @@ type: memory
 | 22 Rue Lafaurie, 09000 Foix | [**[L'Adresse de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) |
 <a id="token-l-adresse-du-president"></a>
 | 108 Avenue Paul Bert, 09000 Foix | [**[L'Adresse du Président]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-adresse.md) |
+| 115 avenue Fernand Loubet, 09200 Saint-Girons | [**[Adresse du Président du Nouvel Exploitant]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-adresse.md) |
+| 351 route Impériale, 34670 Baillargues | [**[Adresse de la Directrice Générale du Nouvel Exploitant]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-dg-adresse.md) |
+| 17 rue de la Baïse, 31120 Roquettes | [**[Adresse du Propriétaire des Murs]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-adresse.md) |
 <a id="token-la-ville-de-l-accident"></a>
 | Foix | [**[La Ville de l'Accident]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) |
 <a id="token-la-ville-de-residence-de-la-victime"></a>

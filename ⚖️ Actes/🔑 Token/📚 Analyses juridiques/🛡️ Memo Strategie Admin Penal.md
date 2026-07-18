@@ -114,9 +114,9 @@ ACCIDENT 29/05/2026
 | Élément | Statut |
 |---------|--------|
 | PV initial n°2026/015967 | ✅ Déposé (Toulouse, 02/06) |
-| Plainte complémentaire | ✅ Déposée (Foix, 15/07) |
-| Requête Art. 145 CPC | ✅ Déposée (TJ Foix, 15/07) |
-| Demande d'AJ totale | ✅ Déposée (BAJ Foix, 15/07) |
+| Plainte complémentaire | ⏳ PROJET PRÊT (non déposé — dépôt prévu lundi 20/07) |
+| Requête Art. 145 CPC | ⏳ PROJET PRÊT (non déposé — dépôt prévu lundi 20/07) |
+| Demande d'AJ totale | ⏳ PROJET PRÊT (non déposé — dépôt prévu lundi 20/07) |
 | Constitution partie civile | ⏳ En attente (nécessite AJ + avocat désigné) |
 <hr><hr>
 
@@ -159,7 +159,7 @@ ACCIDENT 29/05/2026
 | **Art. 10-2 CPP** | Droit de la victime à l'information sur l'état de la procédure pénale |
 | **Art. 40-2 CPP** | Information de la victime sur les suites de sa plainte |
 | **Art. L. 300-1 CRPA** | Droit d'accès aux documents administratifs |
-| **Art. 145 CPC** | Mesure d'instruction in futurum (notre requête déposée le 15/07) |
+| **Art. 145 CPC** | Mesure d'instruction in futurum (requête prête, dépôt prévu après obtention AJ) |
 | **Jurisprudence CE** | Droit de la victime d'accéder au rapport d'enquête de l'Inspection du travail la concernant |
 
 <hr><hr>

@@ -93,12 +93,34 @@ La victime bénéficie d'un droit d'action directe et autonome contre l'assureur
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^2]**
 
-### III.3 — FAUTE DÉTACHABLE DES DIRIGEANTS (JURISPRUDENCE SATI)
+### III.3 — FONDEMENT DE LA RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS (L.227-8, L.225-251, FAUTE DÉTACHABLE SATI)
 
-La responsabilité de [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) est directement engagée :
-- **Défaut d'assurance ou obstruction :** Conformément à l'arrêt SATI de la Cour de cassation, l'absence (ou la dissimulation) délibérée de souscription d'assurances obligatoires constitue une **faute détachable** des fonctions sociales.
+En droit, l'article L.227-8 du Code de commerce dispose que :
 
-- **Conséquence :** La responsabilité personnelle et solidaire du Président et de la Directrice Générale sur leurs deniers propres est acquise.
+> *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
+> [Article L.227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
+> **Code de commerce[^8]**
+
+Il en résulte que le régime de responsabilité des dirigeants de SA, et notamment l'article L.225-251 du Code de commerce, est applicable au Président et à la Directrice Générale de la SAS : ils peuvent être déclarés responsables, envers la société et envers les tiers, des fautes commises dans leur gestion, des infractions aux dispositions légales et des violations des statuts.
+
+La jurisprudence constante de la Cour de cassation précise, avec l'arrêt SATI (Cass. com., 20 mai 2003, n° 99-17.092), que la responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions, et qu'« il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales ».
+
+En l'espèce, plusieurs éléments laissent présumer une telle faute détachable de la part de [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) :
+
+- la succession rapide de deux SAS exerçant la même activité de coiffure-barbier dans les mêmes locaux du 22 rue Lafaurie à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), avec une direction commune (Directrice Générale présente dans les deux structures), sans qu'aucune information claire n'ait été donnée à la victime sur l'identité de l'exploitant réel au 29 mai 2026 ;
+
+- le défaut de déclaration d'accident et l'absence de communication spontanée des coordonnées de l'assurance responsabilité civile professionnelle, malgré les sollicitations écrites de la victime ;
+
+- le refus persistant de produire un justificatif d'assurance ou, à tout le moins, de confirmer l'existence d'une police couvrant l'activité, alors même que la société reçoit du public pour des prestations comportant un risque corporel évident ;
+
+- la sous-capitalisation manifeste de la SAS ([**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) de capital social), structurellement inapte à indemniser un dommage corporel grave sans assurance effective, combinée au jeu de sociétés successives sur le même fonds.
+
+Le défaut délibéré de souscription d'une assurance légalement obligatoire, ou la dissimulation volontaire de cette assurance, entravant l'action directe de la victime, constitue typiquement une faute intentionnelle d'une particulière gravité et peut être regardé comme une application du principe jurisprudentiel de faute détachable.
+
+Sans préjuger de l'appréciation du juge du fond, ces éléments sont de nature à engager la responsabilité personnelle des dirigeants à l'égard de la victime. Ils justifient que, dès ce stade du référé, le tribunal prenne en compte le risque sérieux de faute détachable pour :
+
+- caractériser le motif légitime au sens de l'article 145 du Code de procédure civile et ordonner les mesures d'instruction demandées ;
+- et, le cas échéant, apprécier le bien-fondé d'une provision mise à la charge solidaire de la société et de ses dirigeants.
 
 ### III.4 — MANQUEMENT À L'OBLIGATION DE SÉCURITÉ
 
@@ -170,3 +192,4 @@ Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'encei
 [^5]: [N° 00-82.066 — www.legifrance.gouv.fr/juri/id/JURITEXT000007071351](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351) ↩
 [^6]: [N° 99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
 [^7]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
+[^8]: [Article L.227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) ↩

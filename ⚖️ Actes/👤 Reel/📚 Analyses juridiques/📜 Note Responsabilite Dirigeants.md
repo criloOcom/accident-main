@@ -39,7 +39,7 @@ La présente note analyse les trois voies de recours contre les dirigeants à ti
 > [Article L.227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
 > Code de commerce[^1] <br>
 
-Cet article rend applicable aux dirigeants de SAS le régime de responsabilité des SA, notamment l'article L.225-251 pour les fautes de gestion. Toute décision de dissoudre la société sans avoir provisionné le passif indemnitaire issu de l'accident constitue un manquement caractérisé aux obligations de gestion.
+Cet article rend applicable aux dirigeants de SAS le régime de responsabilité des SA, notamment l'article L.225-251 du Code de commerce, qui prévoit leur responsabilité envers la société et envers les tiers en cas d'infractions, de violations des statuts ou de fautes commises dans leur gestion. Toute décision de dissoudre ou de liquider la société sans prendre en compte le passif indemnitaire issu de l'accident et sans organiser sérieusement sa prise en charge est susceptible de caractériser une faute de gestion, en particulier si elle a pour effet d'aggraver ou d'organiser l'insolvabilité au détriment de la victime.
 
 ### II.2 — Insuffisance d'actif — Article L.651-2 C.com.
 
@@ -48,7 +48,7 @@ Cet article rend applicable aux dirigeants de SAS le régime de responsabilité 
 > [Article L.651-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025718687) <br>
 > Code de commerce[^2] <br>
 
-Si la SAS est placée en liquidation judiciaire et que les dirigeants ont organisé sa mise en sommeil ou sa dissolution avant d'avoir répondu de leurs dettes, la faute de gestion sera constituée. Le tribunal pourra mettre à leur charge personnelle l'insuffisance d'actif, c'est-à-dire le montant des dommages et intérêts dus à [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) que la société ne peut couvrir.
+Si la SAS est placée en liquidation judiciaire et que les dirigeants ont, par leurs décisions (mise en sommeil, dissolution anticipée, absence de déclaration de cessation des paiements, organisation de l'insolvabilité…), contribué à créer ou aggraver une insuffisance d'actif, ces comportements peuvent être qualifiés de fautes de gestion au sens de l'article L.651-2. Saisi par le liquidateur, le tribunal peut alors décider que tout ou partie de l'insuffisance d'actif sera supportée personnellement par les dirigeants fautifs. Les sommes versées entrent dans le patrimoine du débiteur et sont réparties entre tous les créanciers, dont la victime.
 
 > **Note de correction :** L'ancienne référence L.654-6 C.com. pointait vers un article abrogé depuis 2016. La nouvelle structuration des infractions de banqueroute place les actes de base aux articles L.654-2 (personnes physiques) et L.654-3/L.654-4 (variantes), tandis que **L.654-7** est le texte en vigueur qui fixe les peines applicables aux personnes morales. Voir [`CHANGELOG_JURIDIQUE.md`](CHANGELOG_JURIDIQUE.md).
 
@@ -63,10 +63,10 @@ La banqueroute par personne morale est constituée notamment en cas de tenue d'u
 
 ### II.4 — Faute détachable des fonctions — Arrêt SATI
 
-La jurisprudence constante de la Cour de cassation (Assemblée plénière, arrêt SATI) retient que la faute intentionnelle d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales, constitue une faute détachable engageant la responsabilité personnelle du dirigeant.
+La jurisprudence constante de la Cour de cassation (chambre commerciale, arrêt SATI) retient que la faute intentionnelle d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales, constitue une faute détachable engageant la responsabilité personnelle du dirigeant.
 
-> **Cour de cassation, Assemblée plénière, 13 mars 1981[^4]** — Arrêt SATI
-> [Pourvoi n°80-90923](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
+> **Cour de cassation, Chambre commerciale, 20 mai 2003[^4]** — Arrêt SATI
+> [Pourvoi n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
 <hr><hr>
 
 ## III — SYNTHÈSE ET RECOMMANDATIONS
@@ -86,4 +86,4 @@ La jurisprudence constante de la Cour de cassation (Assemblée plénière, arrê
 [^1]: [Article L.227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
 [^2]: [Article L.651-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025718687](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025718687)
 [^3]: [Article L.654-7 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984550](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984550)
-[^4]: [Pourvoi n°80-90923 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
+[^4]: [Pourvoi n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)

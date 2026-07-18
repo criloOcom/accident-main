@@ -47,7 +47,7 @@ Madame la Directrice Générale,
 
 La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions.
 
-La Cour de cassation (Cass. Com., 20 mai 2003, n° 99-17.092 — arrêt SATI[^1]) a jugé que constitue une faute détachable le fait pour un dirigeant de ne pas avoir souscrit les assurances obligatoires pour le compte de sa société, exposant ainsi les tiers à un préjudice certain.
+La Cour de cassation (Cass. Com., 20 mai 2003, n° 99-17.092 — arrêt SATI[^1]) a posé le principe selon lequel constitue une faute détachable la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. Le défaut de souscription d'assurances légalement obligatoires peut constituer, dans ces conditions, une application de ce principe, en exposant les tiers à un préjudice certain.
 
 > *« La faute du dirigeant social, même lorsqu'elle est commise dans l'exercice de ses fonctions, est séparable de celles-ci lorsqu'elle constitue un manquement délibéré à ses obligations et engage sa responsabilité personnelle. »* <br>
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>

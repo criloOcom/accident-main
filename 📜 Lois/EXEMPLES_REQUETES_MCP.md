@@ -348,7 +348,7 @@ def verifier_article_loi(article_id):
 3. **ID JURITEXT invalide**
    ```python
    # Solution: Vérifier l'ID sur Légifrance
-    client.consulte_decision('JURITEXT000007043831')  # Ex: Arrêt Costedoat (Ass. Plén., 25 fév. 2000, n° 97-17.378)
+    client.consulte_decision('JURITEXT000007043704')  # Ex: Arrêt Costedoat (Ass. Plén., 25 fév. 2000, n° 97-17.378)
    ```
 
 ### Vérification des Credentials

@@ -119,7 +119,7 @@ J'envoie plusieurs lettres recommandées avec accusé de réception :
 
 1. **LRAR à [L'Exploitant du Commerce (La SAS)]** (22 rue Lafaurie, 09000 [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)) : déclaration d'accident, demande des coordonnées de l'assurance responsabilité civile professionnelle, sur le fondement de l'article L.124-3 du Code des assurances (action directe de la victime).
 
-2. **LRAR à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) [Le Président de l'Exploitation]**, président de la SAS : mise en demeure de communiquer les informations d'assurance, rappel de la jurisprudence SATI (Cass. Com., 20 mai 2003) sur la responsabilité personnelle du dirigeant en cas de défaut d'assurance.
+2. **LRAR à [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) [Le Président de l'Exploitation]**, président de la SAS : mise en demeure de communiquer les informations d'assurance, rappel du principe de la faute détachable (arrêt SATI, Cass. Com., 20 mai 2003) et de l'application de ce principe au défaut d'assurance obligatoire.
 
 3. **LRAR à [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (née [Catherine ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md))**, directrice générale : même objet, même fondement juridique.
 

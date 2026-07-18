@@ -78,7 +78,7 @@ La Victime conserve expressément le droit de solliciter une indemnisation compl
 
 ### I.7 — ARTICLE 6 — DÉSISTEMENT ET EFFETS DE LA TRANSACTION
 
-Sous réserve de la parfaite et complète exécution du versement de la somme mentionnée à l'Article 3, la Victime s'engage à se désister de l'instance de référé-provision actuellement pendante devant le Tribunal judiciaire de Foix (audience du 31 juillet 2026), chaque partie conservant la charge de ses propres dépens.
+Sous réserve de la parfaite et complète exécution du versement de la somme mentionnée à l'Article 3, la Victime s'engage, une fois l'instance introduite, à se désister de l'instance de référé-provision à intervenir devant le Tribunal judiciaire de Foix, chaque partie conservant la charge de ses propres dépens.
 
 Le présent protocole constitue une transaction au sens des articles 2044 et suivants du Code civil et possède, entre les Parties, l'autorité de la chose jugée en dernier ressort, conformément à l'article 2052 du même Code.
 
