@@ -95,7 +95,7 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 - [📋 Temoin Client.md](%F0%9F%91%A5%20T%C3%A9moins/%F0%9F%93%8B%20Temoin%20Client.md)
 
 ### J+37 — Relances & signalements
-- [✉️🔄 Consolidation Relance.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Consolidation%20Relance.md)
+- [✉️ Consolidation 🔔Demande.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%E2%9C%89%EF%B8%8F%20Consolidation%20%F0%9F%94%94Demande.md)
 
 - [✉️🔄 Adjoint Maire Tavella.md](%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Adjoint%20Maire%20Tavella.md)
 
@@ -132,7 +132,7 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 
 - [📋 Temoin Client 📧Mail.md](%F0%9F%91%A5%20T%C3%A9moins/%F0%9F%93%8B%20Temoin%20Client%20%F0%9F%93%A7Mail.md)
 
-- [🔄 Consolidation Certificat.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%F0%9F%94%84%20Consolidation%20Certificat.md)
+- [✉️ Consolidation 🔄Relance.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%E2%9C%89%EF%B8%8F%20Consolidation%20%F0%9F%94%84Relance.md)
 
 ### J+40 à J+47 — Foix & suites
 - [✉️🔄 SAS Dirigeants.md](%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20SAS%20Dirigeants.md)

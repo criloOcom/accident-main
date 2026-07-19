@@ -11,13 +11,13 @@ calendar_event_id: "mub8b2p6evslc099cbq9lobcas"
 statut: brouillon
 destinataire: Le Chirurgien SOS Main
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/⚕️ Médical/🔄 Consolidation Certificat.md
+reel_path: ../../../👤 Reel/✉️ Courriers/⚕️ Médical/✉️ Consolidation 🔄Relance.md
 source: local
 jx: J+38
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [⚕️ Médical](../README.md) › 🔄 Consolidation Certificat*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [⚕️ Médical](../README.md) › ✉️ Consolidation 🔄Relance*
 <hr>
 <!-- /Breadcrumb -->
 
