@@ -19,7 +19,7 @@ jx: J+47
 
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🔄 Relances](./README.md) › ✉️🔄 Inspection Travail*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🔄 Relances](../../README.md) › ✉️🔄 Inspection Travail*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -62,7 +62,7 @@ Veuillez agréer, Madame, Monsieur, l'expression de ma considération distingué
 [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 ## PIECES JOINTES
 
-- **[✉️📝 Mairie Tavella ERP.md](../../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20Mairie%20Tavella%20ERP.md)** — Courriel [L'Adjoint au Maire de la Commune] (1er juin 2026)
+- **[✉️📝 Mairie Tavella ERP.md](../%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20Mairie%20Tavella%20ERP.md)** — Courriel [L'Adjoint au Maire de la Commune] (1er juin 2026)
 
 - **[PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 

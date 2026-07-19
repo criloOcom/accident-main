@@ -21,7 +21,7 @@ jx: J+52
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident. La présente plainte corrige formellement l'identité de la société exploitante.
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [⚖️ Contentieux](./README.md) › ✉️⚖️ Commissariat Foix Plainte Complementaire*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [⚖️ Contentieux](../../README.md) › ✉️⚖️ Commissariat Foix Plainte Complementaire*
 <hr>
 <!-- /Breadcrumb -->
 

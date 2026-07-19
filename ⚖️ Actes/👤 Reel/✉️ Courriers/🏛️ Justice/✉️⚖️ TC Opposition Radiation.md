@@ -19,7 +19,7 @@ jx: J+41
 
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [⚖️ Contentieux](./README.md) › ✉️⚖️ TC Opposition Radiation*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [⚖️ Contentieux](../../README.md) › ✉️⚖️ TC Opposition Radiation*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -98,7 +98,7 @@ Avocat au Barreau
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° Dossier CPAM]
 
-- **[Mise en demeure J+31 — SAS](../../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)** — LRAR n° [N° LRAR Exploitant] restee sans reponse
+- **[Mise en demeure J+31 — SAS](../%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)** — LRAR n° [N° LRAR Exploitant] restee sans reponse
 <hr><hr>
 
 ## Sources Législation

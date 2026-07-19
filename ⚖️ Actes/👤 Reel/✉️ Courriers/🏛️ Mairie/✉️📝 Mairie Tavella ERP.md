@@ -13,7 +13,7 @@ jx: J+42
 
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📝 Procédure](./README.md) › ✉️📝 Mairie Tavella ERP*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📝 Procédure](../../README.md) › ✉️📝 Mairie Tavella ERP*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -59,6 +59,6 @@ Je vous remercie par avance de l'attention que vous voudrez bien porter à ces �
 
 - **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** — Procedure penale transmise au TJ de [La Ville de l'Accident]
 
-- **[Mises en demeure J+31](../../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)** — LRAR retournees a l'expediteur (defaut d'adresse)
+- **[Mises en demeure J+31](../%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)** — LRAR retournees a l'expediteur (defaut d'adresse)
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° Dossier CPAM]

@@ -22,7 +22,7 @@ calendar_event_id: 9ortbnkvp8it8hnebif5fr4bec
 
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📝 Procédure](./README.md) › ✉️📝 SIE URSSAF Mutualisation*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📝 Procédure](../../README.md) › ✉️📝 SIE URSSAF Mutualisation*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -110,6 +110,6 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 - **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
 
-- **[Signalement SIE](../../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SIE.md)** — Signalement fiscal adresse au SIE
+- **[Signalement SIE](%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SIE.md)** — Signalement fiscal adresse au SIE
 
-- **[Signalement Inspection du Travail](../../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md)** — Signalement social adresse a la DREETS
+- **[Signalement Inspection du Travail](%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md)** — Signalement social adresse a la DREETS

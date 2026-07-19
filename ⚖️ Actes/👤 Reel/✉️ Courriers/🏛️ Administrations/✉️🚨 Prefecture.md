@@ -29,7 +29,7 @@ jx: J+37
 
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🚨 Signalements](./README.md) › J+37 ✉️ Signalement Prefecture*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🚨 Signalements](../../README.md) › J+37 ✉️ Signalement Prefecture*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -143,7 +143,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 
 - **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** — Procédure pénale engagée devant le TJ de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
-- **[Mises en demeure LRAR](../../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)** — Mises en demeure du [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
+- **[Mises en demeure LRAR](../%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)** — Mises en demeure du [29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)
 
 - **[Signalement Inspection du Travail](%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md)** — Demande d'enquête auprès de la DDETS 09
 

@@ -19,7 +19,7 @@ jx: J+51
 signataire: "[La Victime] (envoi sans signature manuscrite)"
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › ✉️📜 Proprietaire Relance 3
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](../../README.md) › ✉️📜 Proprietaire Relance 3
 <hr>
 <!-- /Breadcrumb -->
 

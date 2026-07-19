@@ -27,7 +27,7 @@ Documents en cours de rédaction ou en projet — statuts brouillon, projet, fus
 
 - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/17 ⚖️ Requete Mandataire Ad Hoc.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/17%20%E2%9A%96%EF%B8%8F%20Requete%20Mandataire%20Ad%20Hoc.md)
 
-- [⚖️ Actes/🔑 Token/✉️ Courriers/⚕️ Médical/🔄 DrDJERBI Consolidation.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%F0%9F%94%84%20DrDJERBI%20Consolidation.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/⚕️ Médical/🔄 Consolidation Certificat.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%F0%9F%94%84%20Consolidation%20Certificat.md)
 
 - [⚖️ Actes/🔑 Token/✉️ Courriers/26 📧📋 Temoin Client.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%F0%9F%93%8B%20Temoin%20Client%20%F0%9F%93%A7Mail.md)
 
@@ -69,7 +69,7 @@ Documents en cours de rédaction ou en projet — statuts brouillon, projet, fus
 
 - [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/17 ⚖️ Requete Mandataire Ad Hoc.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/17%20%E2%9A%96%EF%B8%8F%20Requete%20Mandataire%20Ad%20Hoc.md)
 
-- [⚖️ Actes/👤 Reel/✉️ Courriers/⚕️ Médical/🔄 DrDJERBI Consolidation.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%F0%9F%94%84%20DrDJERBI%20Consolidation.md)
+- [⚖️ Actes/👤 Reel/✉️ Courriers/⚕️ Médical/🔄 Consolidation Certificat.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%F0%9F%94%84%20Consolidation%20Certificat.md)
 
 - [⚖️ Actes/👤 Reel/✉️ Courriers/26 📧📋 Temoin Client.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%F0%9F%93%8B%20Temoin%20Client%20%F0%9F%93%A7Mail.md)
 

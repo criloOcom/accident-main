@@ -20,7 +20,7 @@ calendar_event_id: gqu5r7mbuh6570913b2nisi7t8
 
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › ✉️📜 Maire Foix*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](../../README.md) › ✉️📜 Maire Foix*
 <hr>
 <!-- /Breadcrumb -->
 
