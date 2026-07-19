@@ -86,11 +86,14 @@ La SAS LES MAUVAIS GARÇONS (SIREN 938 033 222) a, selon vos propres dires, cess
 
 Malgré mon courriel du **17 juillet 2026 (18h28)**, vous n'avez pas apporté de réponse aux trois questions suivantes, qui sont pourtant **déterminantes pour orienter correctement mon action** :
 
-| # | Question | Intérêt pour le dossier |
-|---|----------|------------------------|
-| **1** | **Occupant au 29 mai 2026** : Pouvez-vous confirmer que, à cette date, vos locaux du 22 Rue Lafaurie étaient bien occupés et exploités par la **SAS HB BARBER** (SIREN 104 103 262), et m'indiquer la date exacte d'entrée dans les lieux de ce nouvel exploitant ? | Identifie le responsable civil (gardien de la chose / commettant) au jour de l'accident |
-| **2** | **Contrat de bail et avenants** : Un nouveau bail commercial ou avenant a-t-il été conclu après le départ de la SAS LES MAUVAIS GARÇONS ? Si possible, pouvez-vous m'en communiquer une copie partielle (pages identité du preneur + clauses d'assurance) ? | Permet de vérifier les obligations d'assurance RC contractuelles |
-| **3** | **Assurances RC** : Pouvez-vous m'indiquer, à votre connaissance, les coordonnées de l'assureur RC de l'exploitant en place au 29 mai 2026 (SAS HB BARBER), ainsi que, le cas échéant, celles de **votre propre assureur PNO** (Propriétaire Non Occupant) pour cet immeuble, au titre de vos obligations aux articles 1719 et suivants du Code civil ? | Conditionne l'exercice de l'action directe (L.124-3 C.assur.) et la mise en cause de votre propre assureur PNO |
+1. **Occupant au 29 mai 2026** : Pouvez-vous confirmer que, à cette date, vos locaux du 22 Rue Lafaurie étaient bien occupés et exploités par la **SAS HB BARBER** (SIREN 104 103 262), et m'indiquer la date exacte d'entrée dans les lieux de ce nouvel exploitant ?  
+   → *Identifie le responsable civil (gardien de la chose / commettant) au jour de l'accident*
+
+2. **Contrat de bail et avenants** : Un nouveau bail commercial ou avenant a-t-il été conclu après le départ de la SAS LES MAUVAIS GARÇONS ? Si possible, pouvez-vous m'en communiquer une copie partielle (pages identité du preneur + clauses d'assurance) ?  
+   → *Permet de vérifier les obligations d'assurance RC contractuelles*
+
+3. **Assurances RC** : Pouvez-vous m'indiquer, à votre connaissance, les coordonnées de l'assureur RC de l'exploitant en place au 29 mai 2026 (SAS HB BARBER), ainsi que, le cas échéant, celles de **votre propre assureur PNO** (Propriétaire Non Occupant) pour cet immeuble, au titre de vos obligations aux articles 1719 et suivants du Code civil ?  
+   → *Conditionne l'exercice de l'action directe (L.124-3 C.assur.) et la mise en cause de votre propre assureur PNO*
 
 ---
 
@@ -153,12 +156,18 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 [^3]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 [^4]: [Arrêt n°20-15.106 — www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
 [^5]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)
-[^6]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
-[^7]: [Article 700 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
-[^8]: [Article L.411-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
-[^9]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
+[^5]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+[^6]: [Article 700 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
+[^6]: [Article L.411-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
+[^7]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
+[^7]: [Article 1242 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019019258](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019019258)
+[^8]: [Article L.124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+[^8]: [Article 56 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+[^9]: [Article 700 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
+[^9]: [Article L.411-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
+[^10]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 [^10]: [Article 1242 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019019258](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019019258)
 [^11]: [Article L.124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^12]: [Article 56 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
-[^13]: [Article 700 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
-[^14]: [Article L.411-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
+[^11]: [Article 56 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+[^12]: [Article 700 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
+[^13]: [Article L.411-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
