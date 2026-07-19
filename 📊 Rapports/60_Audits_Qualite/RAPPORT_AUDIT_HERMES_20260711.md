@@ -76,7 +76,7 @@ statut: projet
 
   - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/01%20%E2%9A%96%EF%B8%8F%20Assignation.md) → `[...]`
   - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/02b%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) → `[...]`
-  - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️🚨 INPI.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/31%20%E2%9C%89%EF%B8%8F%20Courrier%20INPI%20Opposition.md) → `[...]`
+  - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️ INPI 🚨Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/31%20%E2%9C%89%EF%B8%8F%20Courrier%20INPI%20Opposition.md) → `[...]`
   - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/11%2B12%20%F0%9F%93%8A%20Evaluation%20Dintilhac%20consolidee.md) → `[...]`
   - (et les 4 versions `👤 Reel/` correspondantes)
   - → Ces fichiers portent `final` mais gardent `[...]` dans le corps : incohérence avec RULES #15.
@@ -122,7 +122,7 @@ statut: projet
 
 - ~~🔴 `⚖️ Assignation Refere Provision.md` L106-126, 347-349 : `ANNEXE_1/2/3` → **CORRIGÉ** (déplacées dans [📜 Lois/📜 Jurisprudence/](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)).
 
-- 🔴 **6 liens `file://` cassés** (`📋 Dossier Special CERFA.md` L43-45, token + reel) : pointent vers `26 📋 Temoin Client.md`, `27 📋 Pompier SAMU.md`, `28 📋 Employe.md` — or les fichiers réels sont `26 📧 …`, `27 📧 …`, `28 📧 …` (mismatch 📋/📧). Lien mort + nommage incohérent.
+- 🔴 **6 liens `file://` cassés** (`📋 Dossier Special CERFA.md` L43-45, token + reel) : pointent vers `26 ✉️ Temoin Client 📋Attestation.md`, `27 ✉️ Pompier SAMU 📋Attestation.md`, `28 ✉️ Employe 📋Attestation.md` — or les fichiers réels sont `26 📧 …`, `27 📧 …`, `28 📧 …` (mismatch 📋/📧). Lien mort + nommage incohérent.
 
 - 🟡 **4 URLs Légifrance** format `ceta/id/...` (`11+12 … Dintilhac consolidee.md` L265, `12 … Dintilhac détaillée.md` L147, + versions reel) — `ceta` (Conseil d'État) vs `juri` (Cassation) ; à confirmer que l'ID est bien un CETA et non une JURITEXT.
 

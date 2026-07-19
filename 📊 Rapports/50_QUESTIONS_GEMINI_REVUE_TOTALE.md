@@ -25,7 +25,7 @@ type: rapport
 
 **Q1.** Le prénom « Ayoub » a été signalé comme fuite RGPD dans 2 fichiers Token :
    - `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/🔍 Requete Article 145 CPC.md`
-   - `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md`
+   - `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux.md`
    Vérifie que « Ayoub » a bien été remplacé par `[**[Le Prénom du Préposé]**]` dans ces 2 fichiers. Si encore présent, signale comme NON RÉSOLU.
 
 **Q2.** Le nouveau fichier token `🧠 Memory/🗂️ Tokens/token-prepose-prenom.md` a-t-il été créé ? Son contenu est-il correct (valeur réelle : Ayoub, lien vers token-exploitation-prepose-nom.md) ?
@@ -68,7 +68,7 @@ type: rapport
 **Q15.** Les 2 liens vers d'anciens fichiers numérotés dans STATUS.md :
    - `34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md`
    - `32 ✉️ Courrier SIE URSSAF Mutualisation.md`
-   Pointent-ils désormais vers les fichiers réels (🚨 Signalements/✉️🚨 Prefecture.md et 📝 Procédure/✉️📝 SIE URSSAF Mutualisation.md) ?
+   Pointent-ils désormais vers les fichiers réels (🚨 Signalements/✉️ Prefecture 🚨Signalement.md et 📝 Procédure/✉️ SIE URSSAF Mutualisation 📝Document.md) ?
 
 **Q16.** Le lien vers `RAPPORT_AUDIT_RISQUES.md` dans `TODO.md` a-t-il été corrigé ?
 

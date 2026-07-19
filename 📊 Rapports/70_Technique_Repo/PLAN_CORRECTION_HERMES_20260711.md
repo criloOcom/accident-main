@@ -59,20 +59,20 @@ statut: projet
 ### I.5 — P0-5 — `05 📋 Dossier Special CERFA.md` : 6 liens `file://` cassés  [MANUEL + SCRIPT]
 - **Cibles** : `⚖️ Actes/{🔑 Token,👤 Reel}/🗂️ Organisation/05 📋 Dossier Special CERFA.md` (L43-45)
 
-- **Défaut** : pointe vers `file:///.../✉️ Courriers/26 📋 Temoin Client.md` etc. → le 📋 est faux (fichiers réels = `📧`) ET `file://` absolu interdit.
+- **Défaut** : pointe vers `file:///.../✉️ Courriers/26 ✉️ Temoin Client 📋Attestation.md` etc. → le 📋 est faux (fichiers réels = `📧`) ET `file://` absolu interdit.
 
 - **Deux options** :
 
   - (a) Renommer les fichiers cibles `26/27/28 📋 ...` → `26/27/28 📧 ...` (à valider avec l'utilisateur car touche nommage).
-  - (b) Corriger les liens en chemins relatifs `../✉️ Courriers/26 📧📋 Temoin Client.md` (sans `file://`).
-- **Recommandation** : option (b) (non destructif). Les fichiers réels sont `26 📧📋 Temoin Client.md`, `27 📧📋 Pompier SAMU.md`, `28 📧📋 Employe.md` ✅.
+  - (b) Corriger les liens en chemins relatifs `../✉️ Courriers/26 📧✉️ Temoin Client 📋Attestation.md` (sans `file://`).
+- **Recommandation** : option (b) (non destructif). Les fichiers réels sont `26 📧✉️ Temoin Client 📋Attestation.md`, `27 📧✉️ Pompier SAMU 📋Attestation.md`, `28 📧✉️ Employe 📋Attestation.md` ✅.
 
 ### I.6 — P0-6 — 8 fichiers `statut: final` contenant `[...]`  [MANUEL]
 - **Cibles** :
 
   - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md)
   - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/02b%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
-  - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️🚨 INPI.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/31%20%E2%9C%89%EF%B8%8F%20Courrier%20INPI%20Opposition.md)
+  - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️ INPI 🚨Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/31%20%E2%9C%89%EF%B8%8F%20Courrier%20INPI%20Opposition.md)
   - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/11%2B12%20%F0%9F%93%8A%20Evaluation%20Dintilhac%20consolidee.md)
   - (et les 4 versions `👤 Reel/`)
 - **Défaut** : `statut: final` mais `[...]` non résolu dans le corps → incohérent avec RULES #15.

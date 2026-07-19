@@ -17,7 +17,7 @@ jx: J+38
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [⚕️ Médical](../README.md) › ✉️ Consolidation 🔄Relance*
+*[🏠](../../../../README.md) › ✉️ Consolidation 🔄Relance*
 <hr>
 <!-- /Breadcrumb -->
 

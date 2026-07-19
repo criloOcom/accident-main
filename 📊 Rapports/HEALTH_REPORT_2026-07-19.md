@@ -33,54 +33,54 @@ Aucune anomalie.
 Détail :
 
   • ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md: date=2026-07-18 type=preuve mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️⚖️ CPAM Recours Tiers.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md: date=2026-07-20 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️⚖️ Doyen Juges Instruction Saisine.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️⚖️ FGTI Saisine.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️⚖️ INPI Opposition Immatriculation.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️⚖️ TC Opposition Radiation.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️⚖️ TJ Foix Preuves Complementaires.md: date=2026-07-12 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/📋 Employe 📧Mail.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/📋 Employe.md: date=2026-06-30 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/📋 Pompier SAMU 📧Mail.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/📋 Pompier SAMU.md: date=2026-06-30 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/📋 Temoin Client 📧Mail.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/📋 Temoin Client.md: date=2026-06-30 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/📋 Guide Dialogue Police.md: date=2026-07-11 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 Maire Foix.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 Proprietaire Relance 3.md: date=2026-07-19 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 Proprietaire.md: date=2026-06-29 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS Directrice.md: date=2026-06-29 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER DG.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER President.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER Societe.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS President.md: date=2026-06-29 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS.md: date=2026-06-29 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️📝 Avocat Consultation Jimini.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️📝 CADA Saisine Formulaire.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️📝 CADA Saisine Modele.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️📝 Mairie Tavella ERP.md: date=2026-07-10 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️📝 SIE URSSAF Mutualisation.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/📝 Demande AJ Totale.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/📝 Guide Demande AJ.md: date=2026-07-12 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Adjoint Maire Tavella.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 CPAM Rectification Identite.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM Recours Tiers ⚖️Contentieux.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux.md: date=2026-07-20 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen Juges Instruction Saisine ⚖️Contentieux.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI Saisine ⚖️Contentieux.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI Opposition Immatriculation ⚖️Contentieux.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Opposition Radiation ⚖️Contentieux.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix Preuves Complementaires ⚖️Contentieux.md: date=2026-07-12 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Employe 📧Mail 📋Attestation.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Employe 📋Attestation.md: date=2026-06-30 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU 📧Mail 📋Attestation.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU 📋Attestation.md: date=2026-06-30 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Temoin Client 📧Mail 📋Attestation.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Temoin Client 📋Attestation.md: date=2026-06-30 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police 📋Note.md: date=2026-07-11 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Maire Foix 📜Lettre.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Proprietaire 📜Lettre Relance 3.md: date=2026-07-19 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Proprietaire 📜Lettre.md: date=2026-06-29 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS Directrice 📜Lettre.md: date=2026-06-29 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre HB BARBER DG.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre HB BARBER President.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre HB BARBER Societe.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS President 📜Lettre.md: date=2026-06-29 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre.md: date=2026-06-29 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Avocat Consultation Jimini 📝Document.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA Saisine Formulaire 📝Document.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA Saisine Modele 📝Document.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie Tavella ERP 📝Document.md: date=2026-07-10 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF Mutualisation 📝Document.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Demande AJ Totale 📝Document.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Guide Demande AJ 📝Document.md: date=2026-07-12 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Adjoint Maire Tavella 🔄Relance.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM Rectification Identite 🔄Relance.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Inspection Travail.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Préfecture CODAF.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 SAS Dirigeants.md: date=2026-07-08 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 CPAM.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Inspection Travail 🔄Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Préfecture CODAF 🔄Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS Dirigeants 🔄Relance.md: date=2026-07-08 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM 🔄Relance.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 Police Videos.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/🗄️ Requete Constat Huissier.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 CODAF.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 Conseil Departemental.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 INPI.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 Inspection Travail.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 Prefecture.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 SDIS.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 SIE.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 URSSAF.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police Videos 🔄Relance.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/✉️ Requete Constat Huissier 🗄️Archive.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF 🚨Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Departemental 🚨Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI 🚨Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Inspection Travail 🚨Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Prefecture 🚨Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS 🚨Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE 🚨Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF 🚨Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md: date=2026-07-13 type=preuve mais calendar_event_id manquant
 
 <hr>
@@ -110,19 +110,19 @@ Détail :
   • ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md: ...
   • ⚖️ Actes/🔑 Token/✉️ Courriers/README.md: 📋 Personnel/📋 Checklist Deplacement Foix.md
   • ⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/README.md: 📋 Checklist Deplacement Foix.md
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS Assureur RC — Avocat.md: ../../../../🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md], que je représente dans le cadre du grave accident corporel dont elle a été victime le 29 mai 2026 au sein du salon de coiffure exploité par la société [[[[[**[L'Exploitant du Commerce (La SAS
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER Societe.md: ../../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER Societe.md: ../../../../🧠 Memory/🗂️ Tokens/token-centre-soins-immédiats-nom.md
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER Societe.md: ../../../../🧠 Memory/🗂️ Tokens/token-centre-soins-immédiats-adresse.md
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER Societe.md: ../../../../🧠 Memory/🗂️ Tokens/token-hopital-urgence-medecin-rpps.md
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER President.md: ../../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER DG.md: ../../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS Assureur RC — Avocat 📜Lettre.md: ../../../../🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md], que je représente dans le cadre du grave accident corporel dont elle a été victime le 29 mai 2026 au sein du salon de coiffure exploité par la société [[[[[**[L'Exploitant du Commerce (La SAS
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre HB BARBER Societe.md: ../../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre HB BARBER Societe.md: ../../../../🧠 Memory/🗂️ Tokens/token-centre-soins-immédiats-nom.md
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre HB BARBER Societe.md: ../../../../🧠 Memory/🗂️ Tokens/token-centre-soins-immédiats-adresse.md
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre HB BARBER Societe.md: ../../../../🧠 Memory/🗂️ Tokens/token-hopital-urgence-medecin-rpps.md
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre HB BARBER President.md: ../../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre HB BARBER DG.md: ../../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md
   • ⚖️ Actes/🔑 Token/🗄️ Archives/✅ Checklist Envoi 11-07.md: ../../../../README.md
   • ⚖️ Actes/🔑 Token/🗄️ Archives/📋 Checklist Deplacement Foix.md: ../../../../README.md
   • ⚖️ Actes/🔑 Token/📋 Attestations/📋 Témoin Mathieu Frédéric.md: ../../../../README.md
   • ⚖️ Actes/🔑 Token/📋 Attestations/README.md: ../../../../README.md
   • ⚖️ Actes/🔑 Token/📋 Attestations/README.md: 📋 Témoin Client.md
-  • ⚖️ Actes/🔑 Token/📋 Attestations/README.md: 📋 Pompier SAMU.md
+  • ⚖️ Actes/🔑 Token/📋 Attestations/README.md: ✉️ Pompier SAMU 📋Attestation.md
   • ⚖️ Actes/🔑 Token/📋 Attestations/README.md: 📋 Employé.md
   • ⚖️ Actes/👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md: ../../../🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md], âgé de 45 ans au jour de l'examen, informaticien indépendant (développement web et applications
   • ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md: ../../🧠 Memory/🗂️ Tokens/token-assureur-rc.md
@@ -132,13 +132,13 @@ Détail :
   • ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md: ...
   • ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md: ...
   • ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md: ...
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS Assureur RC — Avocat.md: ../../../../🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md], que je représente dans le cadre du grave accident corporel dont elle a été victime le 29 mai 2026 au sein du salon de coiffure exploité par la société [[[[[**[L'Exploitant du Commerce (La SAS
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER DG.md: ../../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER President.md: ../../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER Societe.md: ../../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER Societe.md: ../../../../🧠 Memory/🗂️ Tokens/token-centre-soins-immédiats-nom.md
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER Societe.md: ../../../../🧠 Memory/🗂️ Tokens/token-centre-soins-immédiats-adresse.md
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER Societe.md: ../../../../🧠 Memory/🗂️ Tokens/token-hopital-urgence-medecin-rpps.md
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS Assureur RC — Avocat 📜Lettre.md: ../../../../🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md], que je représente dans le cadre du grave accident corporel dont elle a été victime le 29 mai 2026 au sein du salon de coiffure exploité par la société [[[[[**[L'Exploitant du Commerce (La SAS
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre HB BARBER DG.md: ../../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre HB BARBER President.md: ../../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre HB BARBER Societe.md: ../../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre HB BARBER Societe.md: ../../../../🧠 Memory/🗂️ Tokens/token-centre-soins-immédiats-nom.md
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre HB BARBER Societe.md: ../../../../🧠 Memory/🗂️ Tokens/token-centre-soins-immédiats-adresse.md
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre HB BARBER Societe.md: ../../../../🧠 Memory/🗂️ Tokens/token-hopital-urgence-medecin-rpps.md
   • ⚖️ Actes/👤 Reel/🗄️ Archives/✅ Checklist Envoi 11-07.md: ../../../../README.md
   • ⚖️ Actes/👤 Reel/🗄️ Archives/📋 Checklist Deplacement Foix.md: ../../../../README.md
   • ⚖️ Actes/👤 Reel/📋 Attestations/📋 Témoin Mathieu Frédéric.md: ../../../../README.md
@@ -219,9 +219,9 @@ Détail :
 
   • Écarts détectés : 10
   •   [ÉCART DATE/DOIGT/CPAM] ⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Note Synthese Avocat Bascule HB BARBER.md:72 — Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains 
-  •   [ÉCART DATE/DOIGT/CPAM] ⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md:72 — Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains 
-  •   [ÉCART DATE/DOIGT/CPAM] ⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md:209 — Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains 
-  •   [ÉCART DATE/DOIGT/CPAM] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️📜 Proprietaire Relance 3.md:44 — Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains 
+  •   [ÉCART DATE/DOIGT/CPAM] ⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux.md:72 — Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains 
+  •   [ÉCART DATE/DOIGT/CPAM] ⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux.md:209 — Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains 
+  •   [ÉCART DATE/DOIGT/CPAM] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Proprietaire 📜Lettre Relance 3.md:44 — Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains 
   •   [ÉCART DATE/DOIGT/CPAM] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:84 — Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains 
   •   [ÉCART DATE/DOIGT/CPAM] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire Foix.md:66 — Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains 
   •   [ÉCART DATE/DOIGT/CPAM] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Note Personnelle Commissariat Foix.md:126 — Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains 

@@ -32,14 +32,14 @@ Ce plan analyse la possibilité juridique de demander au Maire de [**[La Ville d
 ### II.1 — Action 1 : Envoi du mail au Maire de Foix (Demain matin, 8h00)
 
 Vous allez envoyer un courriel officiel et circonstancié au Maire de Foix (Cabinet du Maire / Secrétariat) en vous appuyant sur le projet déjà rédigé par DeepSeek/Jules :
-*   **Fichier source** : **[✉️📜 Maire Foix.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Maire%20Foix.md)**.
+*   **Fichier source** : **[✉️ Maire Foix 📜Lettre.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Maire%20Foix%20%F0%9F%93%9CLettre.md)**.
 
 *   **Objet** : Demande d'intervention de la police municipale / commission de sécurité pour contrôle de conformité ERP au [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md).
 
 ### II.2 — Action 2 : Maintien de la Requête d'Huissier (Art. 145 CPC)
 
 Même si le Maire envoie la police, vous devez maintenir la démarche d'huissier car c'est la seule preuve opposable en droit civil pour votre indemnisation :
-*   **Fichier source** : **[33 🗄️ Requete Constat Huissier 145 CPC.md](../%F0%9F%97%84%EF%B8%8F%20Archives/33%20%E2%9C%89%EF%B8%8F%20Requete%20Constat%20Huissier%20145%20CPC.md)**.
+*   **Fichier source** : **[33 ✉️ Requete Constat Huissier 🗄️Archive 145 CPC.md](../%F0%9F%97%84%EF%B8%8F%20Archives/33%20%E2%9C%89%EF%B8%8F%20Requete%20Constat%20Huissier%20145%20CPC.md)**.
 
 *   **Action** : Soumettre la requête au Président du TJ de Foix la semaine prochaine lors de votre déplacement.
 <hr><hr>

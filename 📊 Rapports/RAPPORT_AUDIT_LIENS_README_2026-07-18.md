@@ -41,13 +41,13 @@ Ces liens pointent vers des fichiers ou tokens qui n'existent pas ou plus à l'e
 
 - **Tokens manquants dans `⚖️ Actes/🔑 Token/` et `👤 Reel/`** :
 
-  - `token-dr-jardon.md` est appelé dans de multiples courriers de mises en demeure et relances (`✉️📜 Proprietaire.md`, `✉️📜 SAS.md`, `✉️🔄 Consolidation.md`, `✉️🚨 Inspection Travail.md`, etc.).
+  - `token-dr-jardon.md` est appelé dans de multiples courriers de mises en demeure et relances (`✉️ Proprietaire 📜Lettre.md`, `✉️ SAS 📜Lettre.md`, `✉️🔄 Consolidation.md`, `✉️ Inspection Travail 🚨Signalement.md`, etc.).
 
   - `token-assureur-rc.md` manque dans `📜 Conclusions au Fond TJ Foix.md` et plusieurs rapports.
 
   - `token-metropole-regionale.md` manque dans `20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`.
 
-  - `token-victime-nom-complet.md` manque dans `20270529 ⚖️ Rapport Expertise Médicale.md` et `✉️📜 SAS Assureur RC — Avocat.md`.
+  - `token-victime-nom-complet.md` manque dans `20270529 ⚖️ Rapport Expertise Médicale.md` et `✉️ SAS Assureur RC — Avocat 📜Lettre.md`.
 
   - `token-exploitation-nom-commercial.md` et `token-exploitation-prepose-nom.md` sont appelés mais introuvables.
 

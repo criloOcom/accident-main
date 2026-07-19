@@ -28,7 +28,7 @@ Cet audit recense les incohérences de dates détectées par rapport aux dates c
 
 ## I — Liste des corrections à appliquer
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/📋 Guide Dialogue Police.md** : ligne 108
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police 📋Note.md** : ligne 108
 
   - [CRITIQUE] Date de l'accident erronée (29 juin) — Remplacer par 29 mai 2026.
 - [ ] **⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md** : ligne 74

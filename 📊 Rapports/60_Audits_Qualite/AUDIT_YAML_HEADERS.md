@@ -145,16 +145,16 @@ tags:
 
 | Fichier | Raison |
 |---------|--------|
-| `🔄 CPAM.md` | `[Adresse à compléter]` |
-| `🔄 Police Videos.md` | `[Adresse à compléter]` |
+| `✉️ CPAM 🔄Relance.md` | `[Adresse à compléter]` |
+| `✉️ Police Videos 🔄Relance.md` | `[Adresse à compléter]` |
 | `✉️🔄 Consolidation.md` | `[Adresse à compléter]` |
-| `✉️🔄 Inspection Travail.md` | `[Date d'envoi — À compléter]` |
-| `✉️🔄 Préfecture CODAF.md` | `[Date d'envoi — À compléter]` |
-| `✉️🚨 INPI.md` | `[Adresse à compléter]` |
-| `✉️🚨 Prefecture.md` | `[Adresse à compléter]` |
-| `✉️🚨 SDIS.md` | `[Adresse à compléter]` |
-| `✉️🚨 SIE.md` | `[Adresse à compléter]` |
-| `✉️⚖️ CPAM Recours Tiers.md` | `[Adresse à compléter]` |
+| `✉️ Inspection Travail 🔄Relance.md` | `[Date d'envoi — À compléter]` |
+| `✉️ Préfecture CODAF 🔄Relance.md` | `[Date d'envoi — À compléter]` |
+| `✉️ INPI 🚨Signalement.md` | `[Adresse à compléter]` |
+| `✉️ Prefecture 🚨Signalement.md` | `[Adresse à compléter]` |
+| `✉️ SDIS 🚨Signalement.md` | `[Adresse à compléter]` |
+| `✉️ SIE 🚨Signalement.md` | `[Adresse à compléter]` |
+| `✉️ CPAM Recours Tiers ⚖️Contentieux.md` | `[Adresse à compléter]` |
 | `⚡ ActionDirecte AssureurRC.md` | `[Adresse à compléter]` |
 
 ### III.4 — 3.4 `drive_id` manquants (4 fichiers avec `source: drive`)

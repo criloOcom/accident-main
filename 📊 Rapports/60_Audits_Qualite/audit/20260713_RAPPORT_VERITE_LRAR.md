@@ -36,17 +36,17 @@ Preuve (compte La Poste de la victime + Google Doc de synthèse du 08/07/2026) :
 
 ## II — Erreur introduite par l'agent précédent — fait « téléviseur » supprimé
 
-L'agent précédent a supprimé, dans `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 SAS Dirigeants.md`, la mention « **pour régler le téléviseur** » en la qualifiant d'hallucination.
+L'agent précédent a supprimé, dans `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS Dirigeants 🔄Relance.md`, la mention « **pour régler le téléviseur** » en la qualifiant d'hallucination.
 
-**C'était une ERREUR** : le fait est attesté par la version réelle du document (`⚖️ Actes/👤 Reel/✉️ Courriers/✉️🔄 SAS Dirigeants.md`, l.76) et par le Google Doc de synthèse (l.140) :
+**C'était une ERREUR** : le fait est attesté par la version réelle du document (`⚖️ Actes/👤 Reel/✉️ Courriers/✉️ SAS Dirigeants 🔄Relance.md`, l.76) et par le Google Doc de synthèse (l.140) :
 > *« mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur »*
 
 Conséquence de l'erreur : divergence Token↔Réel (le Token disait « monté sur la vasque » sans motif, la version Réelle donnait le motif réel). Cette divergence a été corrigée : le fait « pour régler le téléviseur » est restauré dans le Token. Le fichier Réel a été régénéré → Token et Réel sont de nouveau alignés.
 
 **Autres occurrences du fait « téléviseur » (confirmées vraies, conservées)** :
-- `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Employe 📧Mail.md` (l.36)
+- `⚖️ Actes/👤 Reel/✉️ Courriers/✉️ Employe 📧Mail 📋Attestation.md` (l.36)
 
-- `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/📋 Employe 📧Mail.md` (l.36)
+- `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/✉️ Employe 📧Mail 📋Attestation.md` (l.36)
 
 - `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/🎯 Conclusions Refere Provision.md` (l.48) et version Token équivalente
 

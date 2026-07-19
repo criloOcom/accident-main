@@ -48,7 +48,7 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **MINEUR** : L'Article L.4121-2 est cité dans la motivation mais n'est pas repris explicitement dans les visas du dispositif à la ligne 144.
 
-#### II.1.e — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS President.md`
+#### II.1.e — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS President 📜Lettre.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 193.
 
@@ -56,27 +56,27 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 77.
 
-#### II.1.f — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️📝 Avocat Consultation Jimini.md`
+#### II.1.f — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Avocat Consultation Jimini 📝Document.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 47.
 
-#### II.1.g — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️📝 CADA Saisine Modele.md`
+#### II.1.g — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA Saisine Modele 📝Document.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 105.
 
-#### II.1.h — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️📝 CADA Saisine Formulaire.md`
+#### II.1.h — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA Saisine Formulaire 📝Document.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 49.
 
-#### II.1.i — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 SAS Dirigeants.md`
+#### II.1.i — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS Dirigeants 🔄Relance.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 146.
 
-#### II.1.j — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Inspection Travail.md`
+#### II.1.j — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Inspection Travail 🔄Relance.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 61.
 
-#### II.1.k — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Préfecture CODAF.md`
+#### II.1.k — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Préfecture CODAF 🔄Relance.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 3.
 

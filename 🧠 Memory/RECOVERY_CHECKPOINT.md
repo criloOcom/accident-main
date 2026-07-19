@@ -43,7 +43,7 @@ type: memory
 - **50 liens historiques restants** (non bloquants)
 
 ### Phase 2 — Urgences 31 juillet
-- Demande AJ Totale créée (`📝 Procédure/📝 Demande AJ Totale.md`)
+- Demande AJ Totale créée (`📝 Procédure/✉️ Demande AJ Totale 📝Document.md`)
 
 - Assignation Référé-Provision finalisée (audience 31 juillet)
 
@@ -79,7 +79,7 @@ type: memory
 
 - `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`
 
-- `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/📝 Demande AJ Totale.md`
+- `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Demande AJ Totale 📝Document.md`
 
 ### Infra token
 - `🧠 Memory/TOKEN MAP.md`
@@ -158,7 +158,7 @@ Chaque session : `{repo: "criloOcom/accident-main", branch: "main", autoPr: true
 | V02 | M02 Abs assurance | Actes procéduraux, Courriers |
 | V03 | M03 Stratégie | Mémo stratégie, Note synthèse avocat |
 | V04 | M04 Note étape | Notes d'étape, Frise |
-| V05 | M05 Demande AJ | 📝 Demande AJ Totale.md |
+| V05 | M05 Demande AJ | ✉️ Demande AJ Totale 📝Document.md |
 | V06 | M06 Requête 145 | Assignation Refere Provision.md |
 | V07 | M07 Plainte + Erratum | Plainte complémentaire, Erratum |
 | V08 | M08 Plan déplacement | MEMO_AUDIENCE_31072026.md |

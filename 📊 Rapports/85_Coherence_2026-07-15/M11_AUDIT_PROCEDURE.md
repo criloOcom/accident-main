@@ -60,7 +60,7 @@ type: rapport
 
 - [ ] **[MINEUR] Chronologie des Mises en demeure (J+31) et Assignation (J+32) :**
   Les mises en demeure ont été envoyées le 29/06/2026 (J+31), et l'assignation en référé a été délivrée dès le lendemain, le 30/06/2026 (J+32). Délai particulièrement court pour une résolution amiable, bien que justifié par l'urgence en référé.
-  Fichiers : `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS.md` et `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`
+  Fichiers : `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre.md` et `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`
 
 - [ ] **[CRITIQUE] Obsolescence / Anachronisme : Mention d'actes futurs dans des documents passés :**
   Dans `🛡️ Constitution Partie Civile.md` (daté du 06/07/2026), il est mentionné que l'état de la victime a été déclaré consolidé au 1er mars 2027 par un rapport d'expertise déposé en mai 2027. C'est une grave incohérence temporelle. Un acte daté de juillet 2026 ne peut faire mention d'une date de consolidation en 2027.

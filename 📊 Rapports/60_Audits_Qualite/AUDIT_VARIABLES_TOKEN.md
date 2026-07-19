@@ -33,14 +33,14 @@ Ce rapport liste les incohérences détectées dans les fichiers sous `⚖️ Ac
   - **Valeur erronée** : `Premièrement, face au silence de l'exploitant le jour de l'accident, j'ai envoyé des lettres recommandées avec accusé de réception (LRAR) le 29 juin 2026 aux dirigeants ainsi qu'au propriétaire des murs. Le but de ces courriers était d'obtenir les coordonnées de leur assurance Responsabilité Civile Professionnelle, une obligation légale, pour permettre la prise en charge de mes préjudices, qui sont lourds (j'ai 56 jours d'ITT). Or, ces courriers me sont revenus avec la mention "NPAI - Destinataire inconnu à l'adresse". Pourtant, j'ai vérifié sur le RNE/INPI le 10 juillet 2026, la société est toujours officiellement immatriculée à cette adresse au [**[L'Adresse de l'Exploitation]**]. Il y a donc une volonté manifeste de se soustraire à leurs obligations et de ne réceptionner aucune communication de ma part ou de celle de la justice.`
   - **Correction suggérée** : Corriger la date en '29 mai 2026'.
 
-### I.3 — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/📋 Temoin Client.md`
+### I.3 — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/✉️ Temoin Client 📋Attestation.md`
 
 - **Ligne 40** : Profession erronée (victime qualifiée de 'coiffeur')
 
   - **Valeur erronée** : `J'ai alors vu un autre client, [**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), tendre la main droite par un réflexe immédiat pour tenter de rattraper le coiffeur et le protéger de la chute. Sa paume a heurté le flanc de la vasque.`
   - **Correction suggérée** : Remplacer par 'informaticien indépendant'.
 
-### I.4 — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️🚨 URSSAF.md`
+### I.4 — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF 🚨Signalement.md`
 
 - **Ligne 60** : Profession erronée (victime qualifiée de 'coiffeur')
 
