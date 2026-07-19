@@ -1,6 +1,7 @@
 import os
 import re
 import glob
+import urllib.parse
 
 REVERSE_MAP = {
     "**[La Victime]**": "Sébastien GRAZIDE",
@@ -199,7 +200,7 @@ def main():
             with open(idx_path, 'w', encoding='utf-8') as f:
                 f.write(f"# Index — {rel_path} (Versions Réelles)\n\n")
                 for fn in sorted(sub_generated):
-                    f.write(f"- [{fn}]({fn})\n")
+                    f.write(f"- [{fn}]({urllib.parse.quote(fn)})\n")
             print(f"  {idx_path}")
             generated.append((rel_path, sub_generated))
 

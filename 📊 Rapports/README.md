@@ -59,6 +59,8 @@ Dossier reorganisé le 15 juillet 2026 en 9 sous-ensembles thématiques.
 - [RAPPORT_SYNTHESE_AVOCAT_2026-07-18](RAPPORT_SYNTHESE_AVOCAT_2026-07-18.md)
 
 - [RAPPORT_VERIFICATION_JURITEXT_2026-07-18](RAPPORT_VERIFICATION_JURITEXT_2026-07-18.md)
+- [HEALTH_REPORT_2026-07-19](HEALTH_REPORT_2026-07-19.md)
+- [HEALTH_REPORT_2026-07-20](HEALTH_REPORT_2026-07-20.md)
 ## Ordre de lecture recommandé
 
 **Pour toi (pilotage du dossier) :**
