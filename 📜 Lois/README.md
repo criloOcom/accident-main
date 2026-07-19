@@ -86,14 +86,15 @@ Le dossier a été réorganisé pour une meilleure navigation :
 
 ## 📜 Codes et textes législatifs
 
-### [📒 Code civil (5 articles)](Code/Code%20civil/README.md)
+### [📒 Code civil (6 articles)](Code/Code%20civil/README.md)
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019019256) [Art. 1240](Code/Code%20civil/Article1240_CodeCivil.md) — Responsabilité délictuelle
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019019258) [Art. 1242](Code/Code%20civil/Article1242_CodeCivil.md) — Responsabilité du fait des choses
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) [Art. 1719](Code/Code%20civil/Article1719_CodeCivil_LegiFrance.md) — Obligations du bailleur
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784) [Art. 1720](Code/Code%20civil/Article1720_CodeCivil_LegiFrance.md) — Obligations du bailleur (grosses réparations)
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924) [Art. 1641](Code/Code%20civil/Article_1641_CodeCivil.md) — Garantie des défauts cachés
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259) [Art. 2226](Code/Code%20civil/Article_2226_Code_Legifrance.md) — Prescription décennale
 
-### [📒 Code pénal (9 articles)](Code/Code%20penal/README.md)
+### [📒 Code pénal (10 articles)](Code/Code%20penal/README.md)
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) [Art. 121-3](Code/Code%20penal/Article_121-3_Code_Legifrance.md) — Principe de la responsabilité pénale
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417206) [Art. 121-1 à 121-7](Code/Code%20penal/Article_121-1a121-7_CodePenal_Legifrance.md) — Principes généraux
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) [Art. 222-19](Code/Code%20penal/Article_222-19_CodePenal_Legifrance.md) — Blessures involontaires
@@ -112,20 +113,24 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) [Art. 700](Code/Code%20procedure%20civile/Article_700_Codeproc_Legifrance.md) — Frais irrépétibles
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) [Art. 835](Code/Code%20procedure%20civile/Article835_CodeDeProcedureCivile_LegiFrance.md) — Référé-provision
 
-### [📒 Code de procédure pénale (6 articles)](Code/Code%20procedure%20penale/README.md)
+### [📒 Code de procédure pénale (8 articles)](Code/Code%20procedure%20penale/README.md)
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911) [Art. 8](Code/Code%20procedure%20penale/Article_8_CodeProcedurePenale.md) — Prescription de l'action publique
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) [Art. 40](Code/Code%20procedure%20penale/Article_40_CodeProcedurePenale.md) — Attributions du procureur
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016) [Art. 53](Code/Code%20procedure%20penale/Article_53_CodeProcedurePenale.md) — Flagrant délit
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) [Art. 15-3](Code/Code%20procedure%20penale/Article_15-3_CodeProcedurePenale.md) — Dépôt plainte, récépissé
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052915) [Art. 77-1-1](Code/Code%20procedure%20penale/Article_77-1-1_CodeProcedurePenale.md) — Réquisitions vidéoprotection
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568319) [Art. 80](Code/Code%20procedure%20penale/Article_80_CodeProcedurePenale.md) — Réquisitoire introductif
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062) [Art. 86](Code/Code%20procedure%20penale/Article_86_CodeProcedurePenale.md) — Constitution partie civile
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334) [Art. 706-5](Code/Code%20procedure%20penale/Article_706-5_CodeProcedurePenale.md) — Délai forclusion CIVI (3 ans)
 
-### [📒 Code des assurances (3 articles)](Code/Code%20assurances/README.md)
+### [📒 Code des assurances (5 articles)](Code/Code%20assurances/README.md)
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006791984) [Art. L.113-1](Code/Code%20assurances/Article_L113-1_Codesassurances.md) — Obligations de l'assureur et de l'assuré
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) [Art. L.113-2](Code/Code%20assurances/Article_L113-2_Codesassurances_Legifrance.md) — Déclaration du risque
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) [Art. L.124-3](Code/Code%20assurances/Article_L124-3_Codesassurances_Legifrance.md) — Action directe
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044607740) [Art. L.114-1](Code/Code%20assurances/Article_L114-1_Codesassurances.md) — Prescription biennale
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417206) [Art. 121-1 à 121-7](Code/Code%20assurances/Article_L121-1a121-7_Code_Legifrance.md) — Principes généraux responsabilité pénale (personnes morales)
 
-### [📒 Code de commerce (8 articles)](Code/Code%20commerce/README.md)
+### [📒 Code de commerce (11 articles)](Code/Code%20commerce/README.md)
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222358) [Art. L.210-6](Code/Code%20commerce/Article_L210-6_Codecommerce_Legifrance.md) — Responsabilité des dirigeants
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141) [Art. L.223-22](Code/Code%20commerce/Article_L223-22_Codecommerce_Legifrance.md) — Nullité des actes
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) [Art. L.225-251](Code/Code%20commerce/Article_L225-251_Codecommerce_Legifrance.md) — Responsabilité en cas de liquidation
@@ -134,6 +139,9 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063) [Art. L.237-2](Code/Code%20commerce/Article_L237-2_Codecommerce_Legifrance.md) — Responsabilité des dirigeants
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051752672) [Art. L.123-2](Code/Code%20commerce/Article_L123-2_Code_Legifrance.md) — Immatriculation au RCS
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052542) [Art. L.611-3](Code/Code%20commerce/Article_L611-3_Code_Legifrance.md) — Procédure de sauvegarde
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) [Art. L.225-251](Code/Code%20commerce/Article_L225-251_Codecommerce_Legifrance.md) — Responsabilité liquidation (bis)
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046073350) [Art. R.123-2](Code/Code%20commerce/Article_R123-2_Codecommerce.md) — Guichet unique
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214) [Art. R.123-128](Code/Code%20commerce/Article_R123-128_Codecommerce.md) — Radiations d'office
 
 ### [📒 Code Général des Collectivités Territoriales (2 articles)](Code/Code%20general%20des%20collectivites%20territoriales/README.md)
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370) [Art. L.2212-2](Code/Code%20general%20des%20collectivites%20territoriales/Article_L2212-2_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Pouvoirs de police du maire
