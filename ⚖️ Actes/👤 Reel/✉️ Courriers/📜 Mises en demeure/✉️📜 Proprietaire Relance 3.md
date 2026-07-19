@@ -51,7 +51,7 @@ Cette lettre fait suite à :
 
 ### 1.1 — Les faits matériels incontestables
 
-Le **vendredi 29 mai 2026 à 15h20**, je me suis rendu en tant que **client** dans le salon de coiffure exploité au **22 Rue Lafaurie à Foix**. Lors de ma prestation, l'employé de l'établissement est monté sur la vasque en céramique du bac à shampoing pour régler un téléviseur. Sous son poids, la vasque — présentant une **cassure préexistante non signalée** — a basculé. Par réflexe, j'ai tendu la main droite pour me protéger et ma paume a heurté l'arête tranchante de cette cassure, provoquant une **section profonde du tendon fléchisseur superficiel et du paquet vasculo-nerveux collatéral de l'index droit**.
+Le **vendredi 29 mai 2026 à 15h20**, je me suis rendu en tant que **client** dans le salon de coiffure exploité au **22 Rue Lafaurie à Foix**. Lors de ma prestation, l'employé de l'établissement est monté sur la vasque en céramique du bac à shampoing pour régler un téléviseur. Sous son poids, la vasque — présentant une **cassure préexistante non signalée** — a basculé. Par réflexe, j'ai tendu la main droite pour **retenir la vasque qui basculait, afin d'éviter qu'elle ne se brise et que le coiffeur ne soit blessé**. Ma paume a heurté l'arête tranchante de cette cassure, provoquant une **section profonde du tendon fléchisseur superficiel et du paquet vasculo-nerveux collatéral de l'index droit**.
 
 J'ai été opéré en urgence le **30 mai 2026** (microchirurgie : suture tendineuse 6 brins, suture microchirurgicale nerfs/vaisseaux, neurolyse). L'ITT médicale s'élève à **56 jours**. Le pronostic neurologique est évalué à un an minimum, avec récupération souvent partielle.
 
