@@ -74,7 +74,7 @@ Je vous saurais gré de bien vouloir **justifier l'emploi de cette expression** 
 
 ### 1.3 — Destruction des preuves constatée le 16 juillet 2026
 
-Lors de ma visite des lieux le **16 juillet 2026** en présence de mon avocat, j'ai constaté la disparition pure et simple de **deux éléments matériels déterminants** :
+Lors de ma visite des lieux le **16 juillet 2026**, j'ai constaté la disparition pure et simple de **deux éléments matériels déterminants** :
 
 - Le **meuble TV mural** (support métallique fixant le téléviseur au-dessus de la vasque), que le préposé coiffeur manipulait au moment du basculement ;
 - Le **bac à shampoing lui-même** (vasque en céramique à la cassure préexistante), qui a été déposé et remplacé.
