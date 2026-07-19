@@ -103,7 +103,7 @@ Malgré mon courriel du **17 juillet 2026 (18h28)**, vous n'avez pas apporté de
 2. **Contrat de bail et avenants** : Un nouveau bail commercial ou avenant a-t-il été conclu après le départ de la SAS LES MAUVAIS GARÇONS ? Si possible, pouvez-vous m'en communiquer une copie partielle (pages identité du preneur + clauses d'assurance) ?  
    → *Permet de vérifier les obligations d'assurance RC contractuelles*
 
-3. **Assurances RC** : Pouvez-vous m'indiquer, à votre connaissance, les coordonnées de l'assureur RC de l'exploitant en place au 29 mai 2026 (SAS HB BARBER), ainsi que, le cas échéant, celles de **votre propre assureur PNO** (Propriétaire Non Occupant) pour cet immeuble, au titre de vos obligations aux articles 1719 et suivants du Code civil[^4] ?  
+3. **Assurances RC** : Pouvez-vous m'indiquer, à votre connaissance, les coordonnées de l'assureur RC de l'exploitant en place au 29 mai 2026 (SAS HB BARBER), ainsi que, le cas échéant, celles de **votre propre assureur PNO** (Propriétaire Non Occupant) pour cet immeuble, dans le cadre de vos obligations de bailleur au titre des articles 1719 et suivants du Code civil[^4] (délivrance, entretien et sécurité des locaux loués) ?  
    → *Conditionne l'exercice de l'action directe (L.124-3 du Code des assurances[^5]) et la mise en cause de votre propre assureur PNO*
 
 ---
@@ -142,7 +142,7 @@ En conséquence, je vous mets en demeure, **pour la dernière fois par la voie a
 2. La copie des pages du bail/avenant relatives à l'identité du preneur et aux clauses d'assurance ;
 3. Les coordonnées de l'assureur RC de l'exploitant (SAS HB BARBER) et, le cas échéant, de votre propre assureur PNO.
 
-Cette démarche s'inscrit dans le respect de l'article 56 du Code de procédure civile[^8] (tentative de résolution amiable préalable) et de la jurisprudence constante (**Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106[^9]** — réserves d'aggravation).
+Cette démarche s'inscrit dans le respect de l'article 56 du Code de procédure civile[^8] (tentative de résolution amiable préalable) et de la jurisprudence de la Cour de cassation (2e chambre civile, 8 juillet 2021, n° 20-15.106[^9]), notamment en matière de réserves d'aggravation et de réparation intégrale des préjudices corporels.
 
 ---
 
