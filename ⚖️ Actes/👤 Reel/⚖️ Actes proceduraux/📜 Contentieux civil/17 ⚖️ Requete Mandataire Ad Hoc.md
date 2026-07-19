@@ -3,7 +3,7 @@ title: "REQUÊTE AUX FINS DE DÉSIGNATION D'UN MANDATAIRE AD HOC ET MESURES CONS
 description: "POUR :"
 type: readme
 statut: brouillon
-
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/17 ⚖️ Requete Mandataire Ad Hoc.md
 ---
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
@@ -133,7 +133,7 @@ Le [Date de signature]
 
 - **[Extrait Kbis](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — Situation juridique et capital social de la SAS
 
-- **[Mises en demeure J+31](../../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)** — LRAR restees sans reponse
+- **[Mises en demeure J+31](../../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)** — LRAR restees sans reponse
 <hr><hr>
 
 ## Sources Législation

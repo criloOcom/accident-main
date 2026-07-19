@@ -10,7 +10,7 @@ tags:
 statut: final
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
-
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📑 Bordereau Unifie.md
 source: drive
 jx: J+39
 ---

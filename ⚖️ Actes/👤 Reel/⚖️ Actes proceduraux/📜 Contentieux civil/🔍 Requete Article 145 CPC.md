@@ -3,7 +3,6 @@ title: "Requête Article 145 CPC — Communication Assurances + Conservation Vid
 description: "À déposer au greffe du TJ de Foix — REQUÊTE (pas d'assignation). Imprimer 2 exemplaires, demander récépissé."
 type: document
 date: 2026-07-20
-calendar_event_id: "tqegc9g9t96hp2td1oo3iqtqd8"
 tags:
   - requete
   - article 145
@@ -11,10 +10,11 @@ tags:
   - assurance
   - videos
   - astreinte
+calendar_event_id: "tqegc9g9t96hp2td1oo3iqtqd8"
 statut: preparation
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
-
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/🔍 Requete Article 145 CPC.md
 jx: J+52
 ---
 

@@ -5,7 +5,7 @@ type: preuve
 date: 2026-07-18
 statut: final
 auteur: La Victime
-
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md
 jx: J+63
 ---
 

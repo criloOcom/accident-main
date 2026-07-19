@@ -3,7 +3,6 @@ title: "Requête aux fins de constat d'huissier"
 description: "À l'attention de :** Tel huissier de justice territorialement compétent"
 type: readme
 date: 2026-07-06
-calendar_event_id: "9pkmrn8fadbta67drfub7dssec"
 tags:
   - requête
   - article 145
@@ -15,8 +14,9 @@ tags:
 statut: brouillon
 destinataire: Tel huissier de justice territorialement compétent
 auteur: La Victime
-
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📸 Requete Constat Huissier.md
 jx: J+38
+calendar_event_id: 9pkmrn8fadbta67drfub7dssec
 ---
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 

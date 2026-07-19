@@ -15,7 +15,7 @@ tags:
 statut: projet
 destinataire: Doyen des Juges d'Instruction
 auteur: Procureur de la République
-
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md
 source: drive
 drive_id: À compléter
 jx: J+47

@@ -13,7 +13,7 @@ tags:
 statut: final
 destinataire: Juge des Référés du Tribunal Judiciaire
 auteur: La Victime
-
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/🎯 Conclusions Refere Provision.md
 jx: J+39
 ---
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
@@ -204,7 +204,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 - **[Constat d'huissier](%F0%9F%93%B8%20Requete%20Constat%20Huissier.md)** — Etat des lieux de la vasque litigieuse
 
-- **[Mises en demeure J+31](../../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)** — LRAR restees sans reponse
+- **[Mises en demeure J+31](../../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)** — LRAR restees sans reponse
 <hr><hr>
 
 ## Sources Législation

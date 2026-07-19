@@ -47,13 +47,13 @@ Les actes associés (courriers) sont les mêmes que ceux du J+41 Courrier SIE UR
 
 ## Documents liés
 
-- [✉️📜 Maire Foix](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Maire%20Foix.md)
+- [✉️📜 Maire Foix](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Maire%20Foix.md)
 
-- [✉️⚖️ TC Opposition Radiation](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20TC%20Opposition%20Radiation.md)
+- [✉️⚖️ TC Opposition Radiation](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20TC%20Opposition%20Radiation.md)
 
-- [✉️⚖️ INPI Opposition Immatriculation](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20INPI%20Opposition%20Immatriculation.md)
+- [✉️⚖️ INPI Opposition Immatriculation](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20INPI%20Opposition%20Immatriculation.md)
 
-- [✉️📝 SIE URSSAF Mutualisation](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20SIE%20URSSAF%20Mutualisation.md)
+- [✉️📝 SIE URSSAF Mutualisation](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20SIE%20URSSAF%20Mutualisation.md)
 
 - [🗄️ Requete Constat Huissier](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%97%84%EF%B8%8F%20Archiv%C3%A9/%F0%9F%97%84%EF%B8%8F%20Requete%20Constat%20Huissier.md)
 
