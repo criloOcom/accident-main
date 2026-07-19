@@ -1,21 +1,27 @@
 ---
-title: "Bordereau - Pièces opération 15 juillet 2026"
-description: "Liste minimale des pièces à emporter et à pouvoir déposer le 15/07/2026 (TJ Foix + Commissariat de Foix)"
+title: "Bordereau - Pièces opération 15 juillet 2026 (ARCHIVÉ — JAMAIS EXÉCUTÉ)"
+description: "Liste minimale des pièces à emporter pour le 15/07/2026 — ARCHIVÉ : jamais exécuté, remplacé par checklist 20/07"
 type: readme
 date: 2026-07-15
-statut: final
+statut: archive
+date_archive: 2026-07-19
+raison_archive: "L'opération du 15/07 n'a jamais eu lieu. Visite faite le 16/07. Remplacé par checklist unifiée 20/07 incluant HB BARBER, attestation Mathieu, erratum correction société."
 auteur: La Victime
 jx: J+47
-reel_path: ../../👤 Reel/🗂️ Organisation/✅ Bordereau Pieces 15 Juillet.md
+reel_path: ../../../👤 Reel/🗄️ Archives/✅ Bordereau Pieces 15 Juillet.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › ✅ Bordereau Pieces 15 Juillet*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗄️ Archives](./README.md) › ✅ Bordereau Pieces 15 Juillet (ARCHIVÉ)*
 <hr>
 <!-- /Breadcrumb -->
 
-# BORDEREAU - PIÈCES OPÉRATION 15 JUILLET 2026
+# BORDEREAU - PIÈCES OPÉRATION 15 JUILLET 2026 (ARCHIVÉ — JAMAIS EXÉCUTÉ)
 
-> Objectif : Avoir **sous la main** toutes les pièces utiles pour :
+> **⚠️ DOCUMENT ARCHIVÉ — JAMAIS EXÉCUTÉ**
+> Date d'archivage : 19 juillet 2026
+> Raison : L'opération du 15/07 n'a jamais eu lieu. La visite a eu lieu le 16/07. Une nouvelle checklist unifiée pour le 20/07 a été créée incluant : HB BARBER, attestation Mathieu, erratum correction société.
+
+> Objectif initial : Avoir **sous la main** toutes les pièces utiles pour :
 > - le dépôt de la **requête 145 CPC** au TJ de Foix,
 > - le **BAJ** (demande d'aide juridictionnelle totale),
 > - la **plainte complémentaire** au commissariat de Foix.
@@ -50,3 +56,10 @@ reel_path: ../../👤 Reel/🗂️ Organisation/✅ Bordereau Pieces 15 Juillet.
 
 > NB : ce bordereau est volontairement **limité** aux pièces utiles pour le 15 juillet.
 > Le bordereau complet V2 des 40+ pièces reste dans `PIECES MAP.md` et dans le tableur Drive.
+
+> **⚠️ CE DOCUMENT EST ARCHIVÉ — UTILISER LA NOUVELLE CHECKLIST 20/07 QUI INTÈGRE :**
+> - HB BARBER (nouvel exploitant)
+> - Attestation Mathieu Frédéric (Cerfa 11527*03)
+> - Erratum correction identité société
+> - Pièce n°5 = Attestation Mathieu
+> - 3 LRAR : CODAF, Inspection Travail, Erratum bailleur

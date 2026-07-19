@@ -1,23 +1,23 @@
 ---
 title: "📜 Mises en demeure"
-description: "Demandes formelles pré-contentieuses adressées aux parties responsables : exploitant, dirigeants, propriétaire, assureur."
+description: "Lettres recommandées avec accusé de réception (LRAR) — Mises en demeure formelles."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › 📜 Mises en demeure*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../README.md) › [✉️ Courriers](./README.md) › 📜 Mises en demeure*
 <hr>
 <!-- /Breadcrumb -->
 
 # 📜 Mises en demeure
 
-Mises en demeure adressées aux parties privées (exploitant, dirigeants, propriétaire, assureur, maire) dans le cadre de la procédure pré-contentieuse.
+**Lettres recommandées avec accusé de réception (LRAR) — Mises en demeure formelles.**
 
 | Fichier | Destinataire | Statut |
 |---------|-------------|--------|
 | [✉️📜 SAS Directrice.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Directrice.md) | Directrice de l'exploitation | 🟢 Expédié |
 | [✉️📜 SAS President.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20President.md) | Président de la SAS | 🟢 Expédié |
 | [✉️📜 Proprietaire.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Proprietaire.md) | Propriétaire des locaux | 🟢 Expédié |
+| [✉️📜 Proprietaire Relance 3.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Proprietaire%20Relance%203.md) | Propriétaire des locaux — Relance 3 | 📝 Projet |
 | [✉️📜 SAS.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md) | SAS exploitante | 🟢 Expédié |
 | [✉️📜 Maire Foix.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Maire%20Foix.md) | Maire de Foix | 🟠 Prêt |
 | [✉️📜 SAS Assureur RC.md](%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC.md) | Assureur RC de l'exploitant (post-expertise) | 📝 Simulation |
