@@ -9,7 +9,7 @@ code: Code pénal
 article: 222-19
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code pénal](./README.md) › Article 222-19*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code pénal](../../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) › Article 222-19*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -35,12 +35,21 @@ En cas de violation manifestement délibérée d'une obligation particulière de
 
 ### Articles cités
 - Loi du 17 décembre 1926 - art. 3 (VD)
+
 - Loi du 17 décembre 1926 - art. 4 (VD)
+
 - Loi n°52-1322 du 15 décembre 1952 - art. 226 (V)
+
 - Loi n°52-1322 du 15 décembre 1952 - art. 227 (V)
+
 - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+
 - Décret n°2001-583 du 5 juillet 2001 - art. 7 (VT)
+
 - Loi n° 2002-1062 du 6 août 2002 - art. 14 (V)
+
 - Décret n°2006-1411 du 20 novembre 2006 - art. 7 (VT)
+
 - CODE DE PROCEDURE PENALE - art. 398-1 (M)
+
 - Code de l'action sociale et des familles - art. L133-6 (VD)

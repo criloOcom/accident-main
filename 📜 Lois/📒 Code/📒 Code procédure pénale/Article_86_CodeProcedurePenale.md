@@ -51,12 +51,21 @@ Lorsque le juge d'instruction rend une ordonnance de refus d'informer, il peut f
 
 ### Articles cités
 - Loi n°1908-08-05 du 5 août 1908 - art. 2 (V)
+
 - AVIS du - art., v. init.
+
 - Avis - art.
+
 - CODE DE PROCEDURE PENALE - art. 681 (MMN)
+
 - CODE DE PROCEDURE PENALE - art. 82 (MMN)
+
 - CODE DE PROCEDURE PENALE - art. D31-1 (V)
+
 - Code de procédure pénale - art. 177-2
+
 - Code de procédure pénale - art. 177-3
+
 - Code de procédure pénale - art. 51 (VT)
+
 - Code de procédure pénale - art. 80 (MMN)

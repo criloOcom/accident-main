@@ -18,7 +18,7 @@ statut: final
 >
 > **Victime** : [**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) — née le [**[Date de Naissance de la Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md)
 >
-> **Mise en cause** : SAS [**[L'Exploitant du Commerce (La SAS)]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — SIRET [**[SIRET]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#siret), assureur RC : [**[L'Assureur RC]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md)
+> **Mise en cause** : SAS [**[L'Exploitant du Commerce (La SAS)]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — SIRET [**[SIRET]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#siret), assureur RC : [**[L'Assureur RC]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md)
 <hr><hr>
 
 ## I — SYNTHÈSE FACTUELLE

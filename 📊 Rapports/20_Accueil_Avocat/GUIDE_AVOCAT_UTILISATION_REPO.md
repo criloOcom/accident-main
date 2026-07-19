@@ -1,5 +1,6 @@
 ---
 title: "Guide de l'Avocat : Utilisation de l'Écosystème du Projet"
+date: FIXME
 description: "Guide pédagogique expliquant la navigation et l'utilisation de l'écosystème Git, l'architecture Token/Reel, et la contribution au projet."
 type: rapport
 ---

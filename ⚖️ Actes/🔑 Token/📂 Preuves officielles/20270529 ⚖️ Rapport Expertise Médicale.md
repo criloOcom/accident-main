@@ -1,7 +1,7 @@
 ---
 title: "Rapport d'Expertise Médicale — Simulation PJ Foix (mission Ordonnance de Référé J+63)"
 description: "Simulation du rapport que rendrait un expert judiciaire désigné par le TJ Foix dans le cadre de l'ordonnance de référé du 31 juillet 2026. Examen simulé à 1 an de l'accident. Consolidation fixée au 1er mars 2027. DFP 12 %. Incidence professionnelle majeure (informaticien indépendant, main droite dominante)."
-type: simulation
+type: projet
 juridiction: TJ Foix
 date: 2027-05-29
 tags:
@@ -11,7 +11,7 @@ tags:
   - dintilhac
   - dfp
   - consolidation
-statut: simulation
+statut: projet
 auteur: Simulation — Expert Judiciaire désigné
 reel_path: ../../👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md
 jx: J+365
@@ -104,7 +104,7 @@ Le préposé de l'établissement a entrepris de régler un téléviseur fixé en
 
 ### I.4 — ANAMNÈSE ET DOLÉANCES ACTUELLES
 
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md%5D%2C%20%C3%A2g%C3%A9%20de%2045%20ans%20au%20jour%20de%20l%27examen%2C%20informaticien%20ind%C3%A9pendant%20%28d%C3%A9veloppement%20web%20et%20applications), droitier, déclare :
+[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), droitier, déclare :
 
 **Douleurs :**
 - Douleur résiduelle permanente cotée à 2-3/10 sur l'échelle visuelle analogique (EVA) au niveau de la face palmaire de l'index droit

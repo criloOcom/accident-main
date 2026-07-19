@@ -1,7 +1,7 @@
 ---
 title: "Fiche Réunion Avocat AJ — 10 minutes"
 description: "Trame orale + pièces clés pour le premier rendez-vous avec l'avocat commis d'office (AJ)."
-type: fiche_reunion
+type: fiche
 ---
 
 # FICHE RÉUNION AVOCAT AJ — 10 MINUTES

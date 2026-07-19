@@ -4,7 +4,7 @@ description: Simulation réaliste du jugement que rendrait le Juge des Référé
   Judiciaire de Foix sur une demande de provision Article 835 al. 2 CPC + expertise
   Article 145 CPC, dans le cadre de l'accident du 29 mai 2026 au salon de coiffure
   exploité par [L'Exploitant du Commerce (La SAS)].
-type: simulation
+type: projet
 juridiction: TJ Foix
 date: 2026-07-31
 tags:
@@ -17,13 +17,12 @@ tags:
 - article 835
 
 - article 145
-statut: simulation
+statut: projet
 auteur: Simulation — Juge des Référés
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Projet Ordonnance Refere.md
+
 jx: J+63
 ---
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
-
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 📜 Contentieux civil › ⚖️ Projet Ordonnance Refere*

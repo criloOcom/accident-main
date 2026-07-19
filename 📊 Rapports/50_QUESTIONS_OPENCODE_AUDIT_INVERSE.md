@@ -1,3 +1,11 @@
+---
+title: "50 Questions d'Audit Inverse (V3)"
+description: "Questions d'audit destinées à opencode pour valider l'intégrité du dépôt"
+type: rapport
+statut: preparation
+date: FIXME
+---
+
 # 50 Questions d'Audit Inverse (V3) — Pour opencode
 
 Ce document contient 50 questions d'audit précises destinées à l'agent **opencode** (dans son autre terminal) pour valider rigoureusement l'intégrité et la conformité des derniers correctifs appliqués au dépôt.

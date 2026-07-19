@@ -15,6 +15,7 @@ type: readme
 ## Liste des articles
 
 - [L252](Article_L252_LivreProceduresFiscales.md) — Recouvrement des impôts, comptables publics (Art. L.252 LPF)
+
 - [L274](Article_L274_LivreProceduresFiscales.md) — Prescription de l'action en recouvrement (4 ans) (Art. L.274 LPF)
 
 ---

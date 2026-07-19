@@ -3,6 +3,7 @@ title: "Relance Dr Iskander DJERBI - Certificat de Consolidation"
 description: "Objet : Demande de certificat médical de consolidation — Suite courrier du **[J+37 Assignation 145]"
 type: courrier
 date: 2026-07-06
+calendar_event_id: "mub8b2p6evslc099cbq9lobcas"
 tags:
   - relance
   - consolidation

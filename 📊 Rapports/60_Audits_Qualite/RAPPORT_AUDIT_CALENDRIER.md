@@ -1,5 +1,6 @@
 ---
 title: "RAPPORT D'AUDIT DU CALENDRIER PROCÉDURAL"
+date: FIXME
 description: "Référence :** J+0 = 29/05/2026 (vendredi)"
 type: rapport
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Réquisitoire Introductif"
 description: "Ouverture d'une information judiciaire — Blessures involontaires, mise en danger d'autrui et infractions connexes — expertise médicale concluant à une consolidation à 12 mois (DFP 12 %, SE 4/7)"
-type: simulation
+type: projet
 date: 2026-07-15
 tags:
   - pénal
@@ -12,10 +12,10 @@ tags:
   - information
   - expertise
   - consolidation
-statut: simulation
+statut: projet
 destinataire: Doyen des Juges d'Instruction
 auteur: Procureur de la République
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md
+
 source: drive
 drive_id: À compléter
 jx: J+47

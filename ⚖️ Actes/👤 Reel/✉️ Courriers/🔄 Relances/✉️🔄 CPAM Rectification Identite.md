@@ -72,4 +72,5 @@ En vous remerciant de la prise en compte rapide de cette rectification, je vous 
 
 ## PIÈCES JOINTES :
 - [**Erratum officiel de correction d'identité de la société exploitante**](../../⚖️%20Actes%20proceduraux/📋%20Preparation%20Foix/📜%20Erratum%20Correction%20Identite%20Societe.md) (17/07/2026)
+
 - Justificatif d'immatriculation au RNE de la SAS HB BARBER

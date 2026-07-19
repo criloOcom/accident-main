@@ -65,12 +65,21 @@ Notes : Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 d�
 
 ### Articles cités
 - Décret n°85-1388 du 27 décembre 1985 - art. 122 (Ab)
+
 - Décret n°85-1390 du 27 décembre 1985 - art. 17-1 (Ab)
+
 - Décret n°2005-1677 du 28 décembre 2005 - art. 250 (Ab)
+
 - Décret n°2005-1677 du 28 décembre 2005 - art. 90 (Ab)
+
 - Décret n°2005-1677 du 28 décembre 2005 - art. 97 (Ab)
+
 - Ordonnance n°2009-15 du 8 janvier 2009 - art. 1, v. init.
+
 - Ordonnance n°2009-866 du 15 juillet 2009 - art. 15
+
 - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
 - LOI n°2013-100 du 28 janvier 2013 - art. 17, v. init.
+
 - Code de commerce - art. A663-28 (V)

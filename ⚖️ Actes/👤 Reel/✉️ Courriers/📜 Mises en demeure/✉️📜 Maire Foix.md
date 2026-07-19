@@ -3,6 +3,7 @@ title: 📜 Mise en demeure de la Mairie — Police Administrative
 description: La Victime
 type: courrier
 date: 2026-07-09
+calendar_event_id: "gqu5r7mbuh6570913b2nisi7t8"
 tags:
 - mairie
 

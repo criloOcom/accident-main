@@ -15,10 +15,15 @@ type: readme
 ## Liste des articles
 
 - [L4121-1](Article_L4121-1_CodeTravail.md) — Obligations de l'employeur en matière de santé et sécurité (Art. L.4121-1)
+
 - [L4321-1](Article_L4321-1_CodeTravail.md) — Principes généraux des équipements de travail (Art. L.4321-1)
+
 - [R4121-1](Article_R4121-1_CodeTravail.md) — Document unique d'évaluation des risques (Art. R.4121-1)
+
 - [R4323-58](Article_R4323-58_CodeTravail.md) — Travaux temporaires en hauteur (Art. R.4323-58)
+
 - [L8221-5](Article_L8221-5_CodeTravail.md) — Travail dissimulé par dissimulation d'emploi salarié (Art. L.8221-5)
+
 - [L8271-1-2](Article_L8271-1-2_CodeTravail.md) — Agents de contrôle compétents pour la lutte contre le travail illégal (Art. L.8271-1-2)
 
 ---

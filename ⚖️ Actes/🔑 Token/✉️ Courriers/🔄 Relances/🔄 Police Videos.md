@@ -9,6 +9,7 @@ tags:
   - plainte
   - videosurveillance
   - email
+calendar_event_id: "shbeqvnj9pp504anq8h8uk6pdc"
 statut: projet
 destinataire: Police Nationale de **[La Ville de l'Accident]**
 auteur: La Victime

@@ -1,5 +1,6 @@
 ---
 title: "RAPPORT — Liens obligatoires sur les citations internes (Règle #17)"
+date: 2026-07-11
 description: "Mise en conformité de la navigation : toute citation de dossier/fichier interne doit être un lien cliquable. Règle #17, scripts, état des lieux."
 type: rapport
 ---

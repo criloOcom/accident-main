@@ -3,6 +3,7 @@ title: Demande de Communication d'Assurance RC au Propriétaire des Murs
 description: '[L''Adresse de la Victime]** <br>'
 type: courrier
 date: 2026-06-29
+calendar_event_id: "qrvadub2s8gekuhgpn0knq8130"
 tags:
 - mise en demeure
 

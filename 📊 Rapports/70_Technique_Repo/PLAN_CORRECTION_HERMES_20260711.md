@@ -1,5 +1,6 @@
 ---
 title: "PLAN DE CORRECTION HERMÈS — Audit 2026-07-11"
+date: 2026-07-11
 description: "Plan d'actions ciblé (P0-P3) pour corriger les anomalies du RAPPORT_AUDIT_HERMES_20260711.md. Aucune modification sans feu vert."
 type: rapport
 statut: projet

@@ -1,5 +1,6 @@
 ---
 title: "Plan de continuité et gestion des dépendances procédurales"
+date: 2026-07-14
 description: "Cartographie des risques, points de défaillance et solutions de repli pour le dossier d'accident de la main."
 type: rapport
 ---

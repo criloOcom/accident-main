@@ -3,6 +3,7 @@ title: "Relance — Demande d'information Assurance RC et d'adresse de correspon
 description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-08
+calendar_event_id: "hj1d12jfdubeuoavj7sq548i2o"
 tags:
   - relance
   - dirigeants

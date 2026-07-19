@@ -1,5 +1,6 @@
 ---
 title: "M12 - Audit de format et conventions"
+date: FIXME
 description: "Audit complet de la cohérence documentaire et du respect des conventions de formatage du dépôt."
 type: rapport
 ---

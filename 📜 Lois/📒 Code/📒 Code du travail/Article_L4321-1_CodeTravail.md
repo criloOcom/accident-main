@@ -33,12 +33,21 @@ Les équipements de travail et les moyens de protection mis en service ou utilis
 
 ### Articles cités
 - Décret n°2005-1325 du 26 octobre 2005 - art. 17 (V)
+
 - Arrêté du 16 mars 2009 - art. 1, v. init.
+
 - Avis du - art., v. init.
+
 - (Révision totale de la convention) - art. 2 (VNE)
+
 - Avis divers - art., v. init.
+
 - Arrêté du 4 mai 2017 - art. 15 (V)
+
 - Sécurisation des parcours professionnels - art. 8.2 (VE)
+
 - Arrêté du 27 décembre 2019 - art. 9
+
 - Code du travail - art. L4321-4 (V)
+
 - Code du travail - art. L4534-1 (T)

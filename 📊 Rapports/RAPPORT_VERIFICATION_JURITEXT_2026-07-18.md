@@ -1,5 +1,6 @@
 ---
 title: "Rapport de Vérification Juridique JURITEXT"
+date: 2026-07-18
 description: "Vérification de toutes les citations d'articles de loi et décisions de justice"
 type: rapport
 ---

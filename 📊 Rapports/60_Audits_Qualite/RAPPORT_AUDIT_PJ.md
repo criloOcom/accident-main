@@ -1,5 +1,6 @@
 ---
 title: "RAPPORT D'AUDIT — Pièces Jointes (PJ) des Courriers 03 à 35"
+date: FIXME
 description: "Date :** 10 juillet 2026"
 type: rapport
 ---

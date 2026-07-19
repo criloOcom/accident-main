@@ -1,7 +1,7 @@
 ---
 title: "Modèles d'Envoi — Version Réelle (hors Git)"
 description: "Copier-coller prêt à l'emploi — placeholders standard [NOM] — version sans tokens ni liens internes"
-type: modele
+type: fiche
 date: 2026-07-14
 statut: final
 ---

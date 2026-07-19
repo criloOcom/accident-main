@@ -117,7 +117,7 @@ type: memory
 <a id="token-l-email-du-secretariat-de-la-mairie"></a>
 | secretariat@mairie-foix.fr | [**[L'Email du Secrétariat de la Mairie]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-secretariat-email.md) |
 <a id="token-l-email-du-proprietaire-des-murs"></a>
-| romain.delrieu@live.fr | [**[L'Email du Propriétaire des Murs]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-email.md) |
+| romain.delrieu@live.fr | [**[L'Email du Propriétaire des Murs]**](Tokens/token-exploitation-bailleur-email.md) |
 
 ## Tokens temporaires / date tokens (generate_real_versions.py) {#tokens-temporaires}
 | Token | Valeur réelle |

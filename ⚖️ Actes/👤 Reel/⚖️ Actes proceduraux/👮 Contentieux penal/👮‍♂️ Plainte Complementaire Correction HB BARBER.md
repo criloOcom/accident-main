@@ -1,13 +1,13 @@
 ---
 title: "Plainte complémentaire — Correction cible [Le Nouvel Exploitant (HB BARBER)]"
 description: "Complément à la plainte initiale — Correction de l'identité de la société exploitante"
-type: acte_procedural
+type: document
 date: 2026-07-17
 statut: projet
 destinataire: Procureur de la République près le TJ de [La Ville de l'Accident]
 depose: false
 auteur: La Victime
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md
+
 ---
 
 <!-- Breadcrumb -->

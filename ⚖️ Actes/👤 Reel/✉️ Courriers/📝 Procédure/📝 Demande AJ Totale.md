@@ -3,6 +3,7 @@ title: "Demande d'Aide Juridictionnelle Totale — Formulaire Rempli"
 description: "Cerfa n°16146*03 — Demande d'AJ totale pour procédure en référé-provision et expertise médicale au TJ de Foix"
 type: courrier
 date: 2026-07-18
+calendar_event_id: "ipivj4ul5rls1hrk1kqh9b0c6c"
 tags:
   - AJ
   - aide juridictionnelle

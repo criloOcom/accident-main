@@ -1,5 +1,6 @@
 ---
 title: "Audit de cohérence des montants Dintilhac"
+date: FIXME
 description: "Rapport d'audit sur les écarts des montants Dintilhac par rapport aux variables strictes (post-expertise)."
 type: rapport
 ---

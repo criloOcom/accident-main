@@ -3,6 +3,7 @@ title: 📋 J+32 Gabarit Attestation Employe - V1
 description: Je soussigné(e) [À compléter],
 type: courrier
 date: 2026-06-30
+calendar_event_id: "gaitgj8isroeqorobg9j9ghf4c"
 tags:
 - dossier
 statut: projet

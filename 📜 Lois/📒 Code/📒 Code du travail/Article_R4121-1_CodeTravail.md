@@ -35,11 +35,19 @@ Cette évaluation comporte un inventaire des risques identifiés dans chaque uni
 
 ### Articles cités
 - Décret n°2006-649 du 2 juin 2006 - art. 16-1 (Ab)
+
 - Décret n°2006-649 du 2 juin 2006 - art. 6 (VT)
+
 - Arrêté du 16 juillet 2007 - art. 3 (V)
+
 - Avis du - art., v. init. (x2)
+
 - Avenant n° 72 du 25 janvier 2012 - art. 1er (VE)
+
 - Arrêté du 12 octobre 2012 - art. Annexe I (V)
+
 - Arrêté du 11 juin 2013 - art., v. init.
+
 - Prévention des risques psychosociaux - art. (VE)
+
 - Décret n°2016-151 du 11 février 2016 - art. 9 (VT)

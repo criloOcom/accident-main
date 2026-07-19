@@ -10,10 +10,11 @@ tags:
   - blessures involontaires
   - L.227-8
   - expertise
-statut: consolide
+calendar_event_id: "smthlv0a5arakof0m4rv80qgkc"
+statut: final
 destinataire: Doyen des Juges d'Instruction
 auteur: La Victime
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md
 source: drive
 drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
 jx: J+38

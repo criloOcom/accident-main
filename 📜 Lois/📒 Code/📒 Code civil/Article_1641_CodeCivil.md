@@ -33,12 +33,21 @@ Le vendeur est tenu de la garantie à raison des défauts cachés de la chose ve
 
 ### Articles cités
 - Décret n°87-1045 du 22 décembre 1987 - art. Annexe (Ab)
+
 - Arrêté du 15 septembre 2003 - art. 17 (Ab)
+
 - Arrêté du 22 avril 2008 - art. 19 (V)
+
 - LOI n°2014-344 du 17 mars 2014 - art. 15 (V)
+
 - DÉCRET n°2014-1061 du 17 septembre 2014 - art. 1, v. init.
+
 - ARRÊTÉ du 18 décembre 2014 - art. 1 (Ab)
+
 - ARRÊTÉ du 18 décembre 2014 - art. 2 (Ab)
+
 - ARRÊTÉ du 18 décembre 2014 - art. 3 (Ab)
+
 - Ordonnance n°2016-301 du 14 mars 2016 - art. L217-13, v. init.
+
 - Ordonnance n°2016-301 du 14 mars 2016 - art. L217-15, v. init.

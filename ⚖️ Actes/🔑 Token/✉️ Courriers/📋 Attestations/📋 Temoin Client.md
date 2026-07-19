@@ -5,6 +5,7 @@ type: courrier
 date: 2026-06-30
 tags:
 - dossier
+calendar_event_id: "gaitgj8isroeqorobg9j9ghf4c"
 statut: projet
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/📋 Attestations/📋 Temoin Client.md

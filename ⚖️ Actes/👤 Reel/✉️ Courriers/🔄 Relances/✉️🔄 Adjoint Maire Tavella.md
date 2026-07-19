@@ -3,6 +3,7 @@ title: "Suivi Courrier Adjoint au Maire — Demande d'Information Inspection du 
 description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-05
+calendar_event_id: "3cru4itc30uql1k7pr1k6327bs"
 tags:
   - inspection du travail
   - CODAF

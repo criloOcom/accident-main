@@ -37,12 +37,21 @@ Notes : Conformément au A du XI de l'article 160 de la loi n° 2020-1721 du 29 
 
 ### Articles cités
 - Loi n°84-1208 du 29 décembre 1984 - art. 104 (P)
+
 - Loi n°87-571 du 23 juillet 1987 - art. 25 (V)
+
 - Loi n° 91-647 du 10 juillet 1991 - art. 44 (VD)
+
 - Ordonnance n°92-1147 du 12 octobre 1992 - art. 21-9 (V)
+
 - Loi - art. 21 (M)
+
 - Loi - art. 62 (V)
+
 - Décret n°2021-1221 du 23 septembre 2021 - art. 3
+
 - Décret n°2021-1221 du 23 septembre 2021 - art. 4
+
 - Décret n°2024-297 du 29 mars 2024 - art. 1
+
 - Décret n°2024-297 du 29 mars 2024 - art. 2

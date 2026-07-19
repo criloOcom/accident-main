@@ -3,6 +3,7 @@ title: "Demande de Certificat Medical de Consolidation au Chirurgien SOS Main"
 description: "L'Adresse de la Victime"
 type: courrier
 date: 2026-07-05
+calendar_event_id: "mub8b2p6evslc099cbq9lobcas"
 tags:
   - certificat de consolidation
   - medical

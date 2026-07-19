@@ -1,5 +1,6 @@
 ---
 title: "Audit des variables STRICT_VARIABLES et Tokens"
+date: FIXME
 description: "Rapport recensant les incohérences factuelles dans les actes et rapports par rapport aux STRICT_VARIABLES."
 type: rapport
 ---

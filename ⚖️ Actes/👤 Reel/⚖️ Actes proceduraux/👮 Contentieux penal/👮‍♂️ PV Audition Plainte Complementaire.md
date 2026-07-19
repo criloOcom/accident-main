@@ -2,7 +2,7 @@
 title: Procès-Verbal d'Audition — Plainte Complémentaire n°2026/015967-B
 description: PV d'audition de la victime pour plainte complémentaire (obstruction,
   destruction de preuves)
-type: acte_procedural
+type: document
 date: 2026-07-15
 tags:
 - pv
@@ -22,7 +22,7 @@ destinataire: Procureur de la République
 personnes:
 - 'Sébastien GRAZIDE'
 jx: J+47
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ PV Audition Plainte Complementaire.md
+
 ---
 
 <!-- Breadcrumb -->

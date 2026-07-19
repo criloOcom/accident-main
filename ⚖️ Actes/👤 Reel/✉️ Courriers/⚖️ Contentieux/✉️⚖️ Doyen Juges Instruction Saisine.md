@@ -3,6 +3,7 @@ title: "Courrier Doyen des Juges d'Instruction — Constitution de Partie Civile
 description: "La Victime"
 type: courrier
 date: 2026-07-06
+calendar_event_id: "smthlv0a5arakof0m4rv80qgkc"
 tags:
   - constitution
   - partie civile

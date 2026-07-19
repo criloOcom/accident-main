@@ -1,7 +1,7 @@
 ---
 title: "Modèles d'Envoi — Transmission du Dossier"
 description: "Courriels-type de transmission — Option A : avocat désigné AJ / Option B : BAJ/Bâtonnier"
-type: modele
+type: fiche
 date: 2026-07-14
 statut: final
 ---
@@ -43,7 +43,7 @@ Concrètement, je sollicite de vous :
 
 - Le suivi de l'information judiciaire en cours (Parquet de Foix) ;
 
-- La mise en œuvre d'une action directe et/ou d'une négociation avec l'assureur RC [**[L'Assureur RC]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md), qui est resté silencieux à ce jour.
+- La mise en œuvre d'une action directe et/ou d'une négociation avec l'assureur RC [**[L'Assureur RC]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md), qui est resté silencieux à ce jour.
 
 Je reste à votre entière disposition pour tout complément d'information ou pour un entretien de briefing à votre convenance.
 

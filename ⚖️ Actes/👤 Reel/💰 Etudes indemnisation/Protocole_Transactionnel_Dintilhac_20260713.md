@@ -1,9 +1,10 @@
 ---
 title: PROTOCOLE TRANSACTIONNEL — Méthode Dintilhac
+date: 2026-07-13
 description: Accord transactionnel aux fins de règlement amiable et d'indemnisation
   provisionnelle ou définitive.
 type: preuve
-reel_path: ../../👤 Reel/💰 Etudes indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md
+
 auteur: La Victime
 ---
 

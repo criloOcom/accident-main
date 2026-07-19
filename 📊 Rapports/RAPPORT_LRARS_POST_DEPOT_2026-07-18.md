@@ -1,5 +1,6 @@
 ---
 title: "Rapport sur les LRARs Post-Dépôt et Destinataires de l'Erratum"
+date: 2026-07-18
 description: "Identification des destinataires de l'erratum et modèles de lettres d'accompagnement (J+50)"
 type: rapport
 ---

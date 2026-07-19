@@ -35,5 +35,7 @@ Ces comptables exercent également les actions liées indirectement au recouvrem
 
 ### Articles cités
 - Loi n°55-366 du 3 avril 1955 - art. 38 (V)
+
 - Loi n°86-1318 du 30 décembre 1986 - art. 26 (P)
+
 - Arrêtés du 25 novembre 2008, 1er décembre 2008, 5 décembre 2008 (x4), 26 novembre 2008 (x2)

@@ -4,6 +4,7 @@ description: Signalement à la Préfecture de l'Ariège / CODAF — Accident du 
   2026 au salon SAS HB BARBER
 type: courrier
 date: 2026-07-05
+calendar_event_id: "ncdv7eqhn6njck42v7sdcuelak"
 tags:
 - préfecture
 
@@ -16,16 +17,15 @@ tags:
 - CODAF
 
 - LRAR
-statut: final — mis à jour avec expertise 2027-05-29
+statut: final
 destinataire: Préfecture de l'Ariège — Référent CODAF
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 Prefecture.md
+
 source: drive
 drive_id: 1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM
 jx: J+37
 ---
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
-
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [🚨 Signalements](./README.md) › J+37 ✉️ Signalement Prefecture*

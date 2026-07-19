@@ -1,5 +1,6 @@
 ---
 title: "Audit des Hypothèses et Scénarios de Défense"
+date: FIXME
 description: "Vérification de la solidité du dossier face aux objections adverses"
 type: rapport
 ---

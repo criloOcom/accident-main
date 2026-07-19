@@ -37,5 +37,7 @@ En application des deux premiers alinéas de l'article L. 613-4 du code de la s�
 
 ### Articles cités
 - Code de commerce - art. R123-125 (V)
+
 - Code de commerce - art. R123-46 - (source)
+
 - Code de la sécurité sociale. - art. L613-4 - (source)

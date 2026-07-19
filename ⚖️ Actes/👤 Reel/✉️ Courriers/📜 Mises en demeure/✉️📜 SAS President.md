@@ -3,6 +3,7 @@ title: 📜 Mise en Demeure aux Dirigeants — Demande d'Information Assurance R
 description: '[L''Adresse de la Victime]** <br>'
 type: courrier
 date: 2026-06-29
+calendar_event_id: "dd8qkuvg1t3jquofh93ccnl0lg"
 tags:
 - mise en demeure
 

@@ -8,7 +8,7 @@ tags:
   - formulaire
   - CRPA
   - version_courte
-statut: brouillon — utilisable si refus Préfecture/IT
+statut: brouillon
 destinataire: CADA (formulaire en ligne)
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/📝 Procédure/✉️📝 CADA Saisine Formulaire.md

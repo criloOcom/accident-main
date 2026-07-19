@@ -33,8 +33,13 @@ Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travai
 
 ### Articles cités
 - Arrêté du 13 février 2018 - art. (V)
+
 - Arrêté du 20 septembre 2018 - art., v. init.
+
 - Arrêté du 19 janvier 2019 - art. (VD)
+
 - Arrêté du 20 mai 2020 - art., v. init.
+
 - Arrêté du 18 novembre 2020 - art. (V) (x3)
+
 - Arrêté du 4 mars 2021 - art. (V) (x3)

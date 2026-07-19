@@ -1,5 +1,6 @@
 ---
 title: "RAPPORT DE CONFORMITÉ RGPD ET INFORMATIQUE ET LIBERTÉS"
+date: 2026-07-14
 description: "Audit de conformité RGPD / Loi Informatique et Libertés du dossier accident-main."
 type: rapport
 ---

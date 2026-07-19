@@ -9,7 +9,7 @@ tags:
   - enquete
   - signalement
   - CRPA
-statut: final — validé avocat 15/07/2026
+statut: final
 destinataire: DDETS de l'Ariège — Inspection du Travail
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Inspection Travail.md

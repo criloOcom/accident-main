@@ -1,5 +1,6 @@
 ---
 title: "RAPPORT DE DOCUMENTATION — Nouveau Dossier ERP"
+date: 2026-07-11
 description: "Date** : 11 juillet 2026"
 type: rapport
 ---

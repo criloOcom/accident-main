@@ -3,12 +3,13 @@ title: 📜 Lettre LRAR — Président SAS HB BARBER — Demande assurance RC
 description: Mise en demeure de communiquer les informations d'assurance RC pro, adressée personnellement au Président.
 type: courrier
 date: 2026-07-18
-statut: envoyé
+calendar_event_id: "euj8kofakfdc2cib6btnqq2ae4"
+statut: envoye
 destinataire: Le Président du Nouvel Exploitant
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS HB BARBER President.md
+
 ---
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📜 Mises en demeure](./README.md) › ✉️📜 SAS HB BARBER President*

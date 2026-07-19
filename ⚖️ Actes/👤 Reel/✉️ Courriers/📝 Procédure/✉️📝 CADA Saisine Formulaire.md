@@ -8,14 +8,13 @@ tags:
   - formulaire
   - CRPA
   - version_courte
-statut: brouillon — utilisable si refus Préfecture/IT
+statut: brouillon
 destinataire: CADA (formulaire en ligne)
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/📝 Procédure/✉️📝 CADA Saisine Formulaire.md
+
 jx: J+47
 ---
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
-
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [✉️ Courriers](../README.md) › [📝 Procédure](./README.md) › ✉️📝 CADA Saisine Formulaire*

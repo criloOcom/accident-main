@@ -1,5 +1,6 @@
 ---
 title: "Voies d'indemnisation et recouvrement"
+date: 2026-07-14
 description: "Rapport cartographiant toutes les voies d'indemnisation possibles pour la victime, leurs conditions, et la stratégie de recouvrement optimale face au risque d'insolvabilité de la SAS."
 type: rapport
 ---

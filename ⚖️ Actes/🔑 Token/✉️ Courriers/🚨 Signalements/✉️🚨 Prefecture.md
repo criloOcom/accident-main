@@ -16,7 +16,8 @@ tags:
 - CODAF
 
 - LRAR
-statut: final — mis à jour avec expertise 2027-05-29
+calendar_event_id: "ncdv7eqhn6njck42v7sdcuelak"
+statut: final
 destinataire: Préfecture de l'Ariège — Référent CODAF
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🚨 Signalements/✉️🚨 Prefecture.md

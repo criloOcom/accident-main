@@ -39,4 +39,5 @@ L'attestation est écrite, datée et signée de la main de son auteur. Celui-ci 
 
 ### Articles cités
 - Décision n°14-38-21 du 8 février 2022
+
 - Code de procédure civile - art. 1546-3 (VT)

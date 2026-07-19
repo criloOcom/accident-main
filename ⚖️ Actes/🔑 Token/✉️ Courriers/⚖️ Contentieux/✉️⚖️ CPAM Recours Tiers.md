@@ -9,6 +9,7 @@ tags:
   - bordereau
   - transmission
   - LRAR
+calendar_event_id: "sb31r6e24kpkbfngc7prgq6em8"
 statut: projet
 destinataire: CPAM Haute-Garonne
 auteur: La Victime

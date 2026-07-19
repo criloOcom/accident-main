@@ -3,6 +3,7 @@ title: "📜 Mise en Demeure — Demande d'Information Assurance RC"
 description: "[L'Adresse de la Victime]"
 type: courrier
 date: 2026-06-29
+calendar_event_id: "eicgcrnb2ir9bf072kennpm1ls"
 tags:
   - mise en demeure
   - dirigeante

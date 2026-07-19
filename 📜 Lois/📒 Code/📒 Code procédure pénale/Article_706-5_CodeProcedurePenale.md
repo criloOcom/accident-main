@@ -43,7 +43,11 @@ Notes : Conformément au III de l'article 25 de la loi n° 2023-1059 du 20 novem
 
 ### Articles cités
 - Code de procédure pénale - art. 706-14
+
 - Code de procédure pénale - art. 706-15
+
 - Code de procédure pénale - art. 706-15-2
+
 - Code de procédure pénale - art. 706-3
+
 - Code de procédure pénale - art. R50-7 (VD)

@@ -154,7 +154,7 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 
 - [✉️⚖️ TJ Foix Preuves Complementaires.md](%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20TJ%20Foix%20Preuves%20Complementaires.md)
 
-- [📋 Checklist Deplacement Foix.md](%F0%9F%93%8B%20Personnel/%F0%9F%93%8B%20Checklist%20Deplacement%20Foix.md)
+- [📋 Checklist Deplacement Foix.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%93%8B%20Checklist%20Deplacement%20Foix.md)
 
 - [✉️📝 Avocat Consultation Jimini.md](%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%F0%9F%93%9D%20Avocat%20Consultation%20Jimini.md)
 

@@ -1,5 +1,6 @@
 ---
 title: "PROMPT — Complétion des 5 fiches 📜 Lois (MCP Légifrance)"
+date: 2026-07-11
 description: "Prompt à confier à l'agent disposant du MCP Légifrance/Judilibre pour compléter le corps des 5 fiches marquées À VÉRIFIER."
 type: rapport
 ---
@@ -26,7 +27,7 @@ type: rapport
    → Art. L. 611-3 Code de commerce — Ouverture de la procédure de sauvegarde.
 4. [📜 Lois/📒 Code commerce/Article_L227-1_Code_Legifrance.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L227-1_Code_Legifrance.md)
    → Art. L. 227-1 Code de commerce — Pouvoirs du président de la SAS.
-5. [📜 Lois/📜 Jurisprudence/README.md17-26.282_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/17-26.282_CourCassation.md)
+5. [📜 Lois/📜 Jurisprudence/README.md17-26.282_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20R%C3%A9serve%20d%27aggravation/17-26.282_CourCassation.md)
    → Arrêt 17-26.282, Civ. 2e, Cour de cassation (thème : réserve d'aggravation / incidence professionnelle).
 
 ## IV — Procédure pour chaque fichier

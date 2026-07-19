@@ -1,9 +1,10 @@
 ---
 title: "DOSSIER UMJ — PRÉPARATION EXPERTISE MÉDICALE"
+date: FIXME
 description: "Date :** 12 novembre 2026 à 13h45"
 type: preuve
 statut: brouillon
-reel_path: ../../👤 Reel/📂 Preuves officielles/📁 Preparation Expertise UMJ.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📄 Preuves Officielles](./README.md) › 📁 Preparation Expertise UMJ*

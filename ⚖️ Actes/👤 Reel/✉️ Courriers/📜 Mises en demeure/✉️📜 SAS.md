@@ -3,6 +3,7 @@ title: 📜 Mise en Demeure — Déclaration d'Accident Corporel et Demande d'In
 description: L'Adresse de la Victime
 type: courrier
 date: 2026-06-29
+calendar_event_id: "5eptrv07lh40rmvir7mttd88s0"
 tags:
 - mise en demeure
 

@@ -1,5 +1,6 @@
 ---
 title: "RAPPORT D'AUDIT STRATÉGIQUE GLOBAL"
+date: FIXME
 description: "Mission** : Audit critique de la stratégie globale du projet accident-main"
 type: rapport
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Mémo Pratique — Préparation à l'Expertise Médicale"
+date: FIXME
 description: "Guide pratique destiné à la victime pour préparer son rendez-vous d'expertise médicale UMJ du 12 novembre 2026."
 type: rapport
 ---

@@ -2,7 +2,7 @@
 title: PV Audition Plainte Complémentaire — Blessures Involontaires et Entrave
 description: Procès-verbal d'audition de **[La Victime]** au Commissariat de **[La Ville de l'Accident]** pour le dépôt de sa plainte complémentaire, signalant des
   faits d'obstruction à la justice et de dissimulation de preuves par **[Le Nouvel Exploitant (HB BARBER)]**.
-type: acte_procedural
+type: document
 date: 2026-07-15
 tags:
 - plainte
@@ -21,7 +21,7 @@ tags:
 statut: final
 destinataire: Procureur de la République
 auteur: Commissariat de Police de Foix
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire
   Foix.md
 jx: J+47
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Audit de cohérence narrative (M09)"
+date: FIXME
 description: "Vérification de la cohérence du récit des faits, dates et lieux dans l'ensemble des documents."
 type: rapport
 ---

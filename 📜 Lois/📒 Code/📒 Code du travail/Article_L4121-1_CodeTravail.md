@@ -40,12 +40,21 @@ L'employeur veille à l'adaptation de ces mesures pour tenir compte du changemen
 
 ### Articles cités
 - Avis du - art., v. init.
+
 - Décret n°2008-1382 du 19 décembre 2008, v. init.
+
 - Arrêté du 16 mars 2009 - art. 1, v. init.
+
 - Avis du - art., v. init.
+
 - Santé au travail - art. 4.1 (VE)
+
 - Avis du - art., v. init.
+
 - Remplacements temporaires - art. 1er (VE)
+
 - Stress professionnel et risques psychosociaux - art. (VE)
+
 - Stress professionnel et risques psychosociaux - art. 5 (VE)
+
 - relatif à la prévention des risques psychosociaux - art. 1er (VNE)

@@ -1,5 +1,6 @@
 ---
 title: "DOSSIER UMJ — PRÉPARATION EXPERTISE MÉDICALE"
+date: FIXME
 description: "Date :** 12 novembre 2026 à 13h45"
 type: preuve
 statut: brouillon

@@ -1,5 +1,6 @@
 ---
 title: "Méta-Synthèse Multi-Angle — Accident Main"
+date: FIXME
 description: "Rapport master condensant les 12 analyses par angle professionnel et les notes stratégiques en une vue transversale unique."
 type: rapport
 ---

@@ -39,12 +39,21 @@ Lorsque des investigations nécessaires à la manifestation de la vérité pour 
 
 ### Articles cités
 - LOI n°2009-1674 du 30 décembre 2009 - art. 19, v. init.
+
 - Arrêté du 27 février 2017 - art. 4 (VD)
+
 - Arrêté du 27 février 2017 - art. 6 (VD)
+
 - Décision n°2019-778 DC du 21 mars 2019 - art., v. init.
+
 - Arrêté du 20 juin 2022 - art. 3, v. init.
+
 - Arrêté du 1er décembre 2023 - art. 4 (V)
+
 - Arrêté du 1er décembre 2023 - art. 5 (V)
+
 - CODE DE PROCEDURE PENALE - art. 171 (M)
+
 - Code de l'entrée et du séjour des étrangers et ... - art. L621-2 (VT)
+
 - Code de l'entrée et du séjour des étrangers et ... - art. L821-1 (VT)

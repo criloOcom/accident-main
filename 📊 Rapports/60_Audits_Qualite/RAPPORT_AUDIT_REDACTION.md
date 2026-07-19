@@ -1,5 +1,6 @@
 ---
 title: "RAPPORT D'AUDIT RÉDACTIONNEL"
+date: FIXME
 description: "Date :** 12 juillet 2026"
 type: rapport
 ---

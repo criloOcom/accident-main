@@ -568,7 +568,45 @@ Le dossier `/🚦 Status/` à la racine contient 3 index classés par statut :
 
 - **Dérogation** : aucune. La règle s'applique à TOUS les fichiers `.md` du projet, sans exception. Les listes de tâches (`[ ]` / `[x]`) sont également concernées.
 
+## #26 — GOOGLE CALENDAR — PIÈCE MAÎTRISE DU PROCESSUS (RÈGLE PERMANENTE)
+
+### Statut
+Le calendrier Google partagé (`[AM] Accident Main`) est une **pièce maîtresse du processus** au même titre que les fichiers du dépôt. Tous les événements clés du projet y sont enregistrés avec leurs liens vers les documents Google Drive/Docs associés.
+
+- **ID calendrier** : `b79938b56860c8d121009802e68294f74709483faf8ca0d1c7a23b97c84e7ac5@group.calendar.google.com`
+
+- **URL** : [Voir le calendrier](https://calendar.google.com/calendar/u/0?cid=Yjc5OTM4YjU2ODYwYzhkMTIxMDA5ODAyZTY4Mjk0Zjc0NzA5NDgzZmFmOGNhMGQxYzdhMjNiOTdjODRlN2FjNUBn)
+
+- **Préfixe** : tous les événements sont prefixés `[AM]` (Accident Main)
+
+### Règles
+
+1. **Lecture obligatoire en début de session** : tout agent DOIT consulter le calendrier Google (via `listEvents` avec timeMin approprié) AVANT toute action, au même titre que la lecture de VACCIN.md et STATUS.md.
+
+2. **Mise à jour systématique** : toute création ou modification d'un document fixant une date (courrier, acte, rendez-vous, échéance) DOIT être accompagnée de la création ou mise à jour de l'événement Google Calendar correspondant.
+
+3. **Double lien document↔calendrier** : les événements du calendrier contiennent en description les liens vers les Google Docs/Drive pertinents. Réciproquement, tout document mentionnant une date importante devrait idéalement référencer le calendrier.
+
+4. **Modification de date** : si la date d'un événement change (report d'audience, nouvelle échéance, rendez-vous décalé), l'agent DOIT :
+
+   - Mettre à jour l'événement existant avec `updateEvent` (conserver l'ID pour l'historique)
+   - Si l'ancienne date doit rester tracée, ajouter une note dans la description (ex: « Initialement prévu le XX/YY »)
+
+5. **Description structurée** chaque événement DOIT contenir :
+
+   - `[AM]` en tête de résumé
+   - Résumé de l'action en description
+   - Liens vers les Google Docs/Drive concernés
+   - Statut : ✅ Fait / ❌ À FAIRE / 🟡 PROJET / 📅 Date fixe
+
+6. **Pas de suppression sans trace** : ne JAMAIS supprimer un événement sans le remplacer par un événement de mise à jour. Le calendrier est une chronologie — les dates passées restent visibles.
+
+7. **Anti-régression** : après toute modification de date dans les fichiers du dépôt (STRICT VARIABLES.md, STATUS.md, TODO.md, courriers, actes), vérifier si l'événement calendrier correspondant est à jour.
+
+8. **Événements flottants** : les actions sans date fixe (TODO items) doivent être créées comme événements avec une date estimée raisonnable, marquées `❌ À FAIRE`.
+
 ## #25 — INTERDICTION DES LIENS MARKDOWN DANS LE YAML (RÈGLE PERMANENTE)
+
 
 - **Principe** : le YAML front matter (`---`...`---`) est un format de données, pas un rendu Markdown. Les liens `[texte](url)` sont soit ignorés par le parseur YAML, soit le cassent (les `:` dans les URLs sont ambigus).
 

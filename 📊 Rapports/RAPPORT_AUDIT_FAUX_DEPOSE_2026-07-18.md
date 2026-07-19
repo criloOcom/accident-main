@@ -1,5 +1,6 @@
 ---
 title: "Audit des mentions « ✅ Déposé » fausses (Hallucinations)"
+date: 2026-07-18
 description: "Rapport d'audit identifiant les fausses mentions de dépôt ou d'envoi dans le dossier."
 type: rapport
 ---

@@ -35,12 +35,21 @@ Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'e
 
 ### Articles cités
 - Loi n°51-711 du 7 juin 1951 - art. 6 (V)
+
 - Loi n°51-711 du 7 juin 1951 - art. 7 bis (V)
+
 - Loi n° 78-17 du 6 janvier 1978 - art. 11 (V)
+
 - Loi n°78-17 du 6 janvier 1978 - art. 21 (M)
+
 - Loi n°90-614 du 12 juillet 1990 - art. 16 (Ab)
+
 - Loi n° 91-646 du 10 juillet 1991 - art. 10 (VT)
+
 - Loi n° 91-646 du 10 juillet 1991 - art. 17 (VT)
+
 - Décret n°97-213 du 11 mars 1997 - art. 5 (Ab)
+
 - Décret n°2000-426 du 19 mai 2000 - art. 2 (Ab)
+
 - Loi n°2000-494 du 6 juin 2000 - art. 8 (VT)

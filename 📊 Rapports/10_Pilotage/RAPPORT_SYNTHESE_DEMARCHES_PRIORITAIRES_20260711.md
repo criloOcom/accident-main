@@ -1,5 +1,6 @@
 ---
 title: "RAPPORT DE SYNTHÈSE - Démarches Prioritaires à Entreprendre"
+date: 2026-07-11
 description: "Date** : 11 juillet 2026"
 type: rapport
 ---

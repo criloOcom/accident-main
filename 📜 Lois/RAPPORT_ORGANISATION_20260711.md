@@ -1,5 +1,6 @@
 ---
 title: "📋 Rapport d'Organisation des Textes Juridiques"
+date: 2026-07-11
 description: "Date** : 11 juillet 2026"
 type: loi
 ---

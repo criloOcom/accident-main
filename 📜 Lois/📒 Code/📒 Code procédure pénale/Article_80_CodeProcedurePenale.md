@@ -59,12 +59,21 @@ Si la personne est placée en détention provisoire, elle doit comparaître deva
 
 ### Articles cités
 - Loi n°2007-291 du 5 mars 2007 - art. 30 (V)
+
 - Code de la justice pénale des mineurs - art. L423-2 (VD)
+
 - Code de procédure pénale - art. 394
+
 - Code de procédure pénale - art. 396
+
 - Code de procédure pénale - art. 41-1 (VT)
+
 - Code de procédure pénale - art. 43
+
 - Code de procédure pénale - art. 51 (VT)
+
 - Code de procédure pénale - art. 52-1
+
 - Code de procédure pénale - art. 696-111 (VT)
+
 - Code de procédure pénale - art. 696-116 (VT)

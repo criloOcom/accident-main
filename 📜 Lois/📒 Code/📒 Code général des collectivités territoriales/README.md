@@ -14,8 +14,9 @@ type: readme
 
 ## Liste des articles
 
-- [L2212-2](Article_L2212-2_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Pouvoirs de police du maire (Art. L.2212-2)
-- [L2212-4](Article_L2212-4_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Mesures d'urgence du maire (Art. L.2212-4)
+- [L2212-2](../%F0%9F%93%92%20Code%20general%20des%20collectivites%20territoriales/Article_L2212-2_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Pouvoirs de police du maire (Art. L.2212-2)
+
+- [L2212-4](../%F0%9F%93%92%20Code%20general%20des%20collectivites%20territoriales/Article_L2212-4_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Mesures d'urgence du maire (Art. L.2212-4)
 
 ---
 

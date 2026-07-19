@@ -5,20 +5,23 @@ type: attestation
 date: 2026-07-18
 tags:
 - attestation
+
 - témoin
+
 - cerfa-11527
+
 - preuve
 statut: recueillie
 auteur: Frédéric Mathieu
 destinataire: Dossier procédure Foix
-reel_path: ../../../👤 Reel/📋 Attestations/📋 Témoin Mathieu Frédéric.md
+
 source: drive
 drive_id: 1ilezniEqbZrhb1YgPVAZbPdGYJyFNFkC
 jx: J+50
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📋 Attestations](../README.md) › 📋 Témoin Mathieu Frédéric*
+*[🏠](../../%F0%9F%94%91%20Token/README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📋 Attestations](../README.md) › 📋 Témoin Mathieu Frédéric*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -94,9 +97,13 @@ jx: J+50
 ### 3. Valeur probante exceptionnelle
 
 - **Témoin indépendant** : Commerçant voisin, aucun lien avec les parties (case "non" cochée)
+
 - **Contemporanéité relative** : Recueillie 50 jours post-accident, mais ancrée sur **enregistrement téléphonique 15h25** (preuve objective horodatée)
+
 - **Formulaire officiel Cerfa 11527*03** : Recevabilité de droit (Art. 200-203 CPC)
+
 - **Sanction pénale rappelée** : Art. 441-7 CP (1 an / 15 000 €) → force probante renforcée
+
 - **Phrase manuscrite obligatoire** : Garantit authenticité de la déclaration
 
 ---
@@ -104,6 +111,7 @@ jx: J+50
 ## IV. PIÈCES JOINTES OBLIGATOIRES (Conformité Cerfa)
 
 - [ ] **Photocopie pièce d'identité** du témoin (recto/verso) avec signature
+
 - [ ] **Original** de l'attestation signée (page 3 : attestation sur l'honneur + signature + date 18/07/2026)
 
 ---
@@ -122,12 +130,19 @@ jx: J+50
 ## VI. DESTINATAIRES PRIORITAIRES (Ordre d'envoi)
 
 1. **Avocat (dès désignation AJ)** — LRAR + email — Pièce conclusions
+
 2. **Commissariat Foix** — Dépôt physique + LRAR — Pièce n°5 plainte complémentaire (Lundi 20/07)
+
 3. **TJ Foix (Greffe civil)** — Dépôt greffe — Pièce requête Art. 145 (Lundi 20/07)
+
 4. **BAJ Foix** — Dépôt — Pièce justificative urgence AJ
+
 5. **CPAM** (RCT n°31727387) — LRAR — Preuve accident tiers responsable
+
 6. **Assureur RC** (si identifié) — LRAR — Mise en cause Art. L.124-3 C.assur.
+
 7. **Procureur République Foix** — LRAR — Complément plainte / signalement Art. 40 CPP
+
 8. **Expert UMJ Purpan** (12/11/2026) — Remise main propre — Corroboration mécanisme
 
 ---
@@ -135,7 +150,9 @@ jx: J+50
 ## VII. RÉFÉRENCES CROISÉES
 
 - **Pièce brute Drive** : `20260718 📋 Attestation Mathieu Frédéric Cerfa 11527.md` (📂 Preuves officielles)
+
 - **Version Reel** : `⚖️ Actes/👤 Reel/📋 Attestations/📋 Témoin Mathieu Frédéric.md` (générée auto)
+
 - **Autres attestations** : Client, Pompier/SAMU, Employé (même dossier)
 
 ---

@@ -35,8 +35,13 @@ Si plusieurs administrateurs ou plusieurs administrateurs et le directeur géné
 
 ### Articles cités
 - Décret n°67-236 du 23 mars 1967 - art. 199 (Ab)
+
 - Code de commerce - art. L225-206 (VD)
+
 - Code de commerce - art. L226-12 (V)
+
 - Code de commerce - art. R225-167 (V)
+
 - Code des assurances - art. L322-26-2-2 (V)
+
 - Code monétaire et financier - art. L213-19 (V)

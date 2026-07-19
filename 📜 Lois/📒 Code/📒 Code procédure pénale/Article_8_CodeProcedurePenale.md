@@ -43,12 +43,21 @@ L'action publique des délits mentionnés à l'article 706-167 du présent code,
 
 ### Articles cités
 - Loi n°98-468 du 17 juin 1998 - art. 50 (V)
+
 - Délibération n° 2012-209 du 21 juin 2012 - art. 5, v. init.
+
 - Délibération n° 2013-213 du 11 juillet 2013 - art. 5, v. init.
+
 - Délibération n°2016-264 du 21 juillet 2016 - art. 5, v. init.
+
 - Décret n°2018-640 du 19 juillet 2018 - art. 3
+
 - Délibération n°2021-131 du 23 septembre 2021 - art., v. init.
+
 - LOI n°2024-420 du 10 mai 2024 - art. 7
+
 - Avis n°503768 du 24 juillet 2025 - art.
+
 - Délibération n°2025-031 du 7 mai 2025 - art.
+
 - Code pénal - (source)

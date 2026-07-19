@@ -1,5 +1,6 @@
 ---
 title: "Synthèse — Travaux de cohérence RESTANT à faire (85_Coherence 2026-07-15)"
+date: 2026-07-15
 description: "Liste agrégée et vérifiée des corrections encore NON appliquées issues des 15 audits de cohérence du 15/07/2026."
 type: rapport
 ---

@@ -1,5 +1,6 @@
 ---
 title: "RAPPORT D'AUDIT FGTI / DINTILHAC"
+date: FIXME
 description: "Date :** 10 juillet 2026"
 type: rapport
 ---

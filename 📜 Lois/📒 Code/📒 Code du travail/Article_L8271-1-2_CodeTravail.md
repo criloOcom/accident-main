@@ -42,12 +42,21 @@ Les agents de contrôle compétents en application de l'article L. 8271-1 sont :
 
 ### Articles cités
 - Décret n°2005-455 du 12 mai 2005 - art. 1 (V)
+
 - LOI n°2012-1404 du 17 décembre 2012 - art. 98, v. init.
+
 - LOI n°2015-990 du 6 août 2015 - art. 281, v. init.
+
 - LOI n°2015-1702 du 21 décembre 2015 - art. 94
+
 - Ordonnance n°2016-160 du 18 février 2016 - art. 1 (VD)
+
 - Décret n°2016-418 du 7 avril 2016 - art. 1
+
 - Décret n°2016-1044 du 29 juillet 2016 - art. 3 (V)
+
 - Délibération n°2016-160 du 19 mai 2016 - art., v. init.
+
 - Décret n°2016-1456 du 28 octobre 2016 - art. 8
+
 - Arrêté du 20 mars 2017 - art. 4 (V)

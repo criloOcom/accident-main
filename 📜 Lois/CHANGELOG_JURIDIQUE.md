@@ -1,5 +1,6 @@
 ---
 title: "CHANGELOG JURIDIQUE"
+date: FIXME
 description: "Suivi des modifications apportées aux fiches juridiques (articles et jurisprudence)."
 type: loi
 ---

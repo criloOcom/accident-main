@@ -1,12 +1,12 @@
 ---
 title: "Note personnelle — Commissariat de [La Ville de l'Accident] (complément de plainte)"
 description: "Note de contexte complète à imprimer et remettre à l'OPJ — Tous les faits, dates et pièces depuis le début"
-type: acte_procedural
+type: document
 date: 2026-07-17
 statut: preparation
 destinataire: Commissariat de Police de [La Ville de l'Accident]
 auteur: La Victime
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Note Personnelle Commissariat Foix.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Note Personnelle Commissariat Foix.md
 ---
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 

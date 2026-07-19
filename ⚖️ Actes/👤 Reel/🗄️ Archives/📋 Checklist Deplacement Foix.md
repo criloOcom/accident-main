@@ -10,7 +10,7 @@ auteur: La Victime
 jx: J+47
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [🗄️ Archives](../README.md) › 📋 Checklist Deplacement Foix (ARCHIVÉ)*
+*[🏠](../../%F0%9F%94%91%20Token/README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [🗄️ Archives](../README.md) › 📋 Checklist Deplacement Foix (ARCHIVÉ)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -36,7 +36,9 @@ jx: J+47
 
 **Adresses :**
 - **TJ de Foix** : Avenue Paul Laffont, 09000 Foix (tél : 05 61 65 38 00)
+
 - **Commissariat** : Rue du Capitaine Ferber, 09000 Foix (tél : 05 61 65 08 22)
+
 - **22 Rue Lafaurie** : Lieu de l'accident — salon "[L'Exploitant du Commerce (La SAS)]" (OBSOLÈTE — HB BARBER est le véritable exploitant)
 
 > **⚠️ CE PROGRAMME EST OBSOLÈTE — UTILISER LA CHECKLIST 20/07 QUI REMPLACE CE DOCUMENT**
@@ -47,56 +49,89 @@ jx: J+47
 
 ### II.1 — 🏛️ Documents pour le TJ — Requête Art. 145 CPC
 - Requête Art. 145 CPC : Imprimée en 2 exemplaires
+
 - PV initial n°2026/015967 : Copie
+
 - Certificats médicaux : CR opératoire + arrêts de travail
+
 - Photos de la vasque : Si disponibles
+
 - Extrait Kbis : Version récente (< 1 mois)
+
 - Pièce d'identité : Original + copie
 
 ### II.2 — 🏛️ Documents pour le BAJ — Demande d'AJ totale
 - Formulaire AJ (CERFA n° 16146*03) : Rempli et signé
+
 - Avis d'imposition N-1 : Le plus récent (obligatoire)
+
 - Déclarations URSSAF 12 derniers mois : Justificatifs revenus micro-entrepreneur (obligatoire)
+
 - Attestation de non-imposition : Si applicable
+
 - Pièce d'identité : Original + copie
+
 - Justificatif de domicile : < 3 mois
+
 - Demande de traitement accéléré : Motif conservation preuves vidéos en péril
 
 ### II.3 — 👮 Documents pour le Commissariat — Plainte complémentaire
 - Plainte complémentaire (n°36) : Imprimée et signée (2 exemplaires)
+
 - PV initial n°2026/015967 : Copie
+
 - LRAR retournés NPAI : Accusés de réception originaux
+
 - Extrait Kbis : Version récente (< 1 mois)
+
 - Note d'audit RNE/INPI : Datée du 10/07/2026
+
 - Photos accident : Format 10x15 + version numérique
+
 - Certificats médicaux : CR opératoire + arrêts de travail
+
 - Liste démarches : Chronologie complète
 
 ### II.4 — 📸 Documents pour la visite des lieux
 - PV de constat vierge : À remplir sur place (daté + signé)
+
 - Appareil photo / téléphone chargé : Pour les photos
+
 - Mètre / règle : Pour les mesures éventuelles
+
 - Attestation sur l'honneur vierge : Pour témoins potentiels
 
 ### II.5 — 🎒 Documents communs
 - Pièce d'identité (CNI/passeport) — indispensable partout
+
 - Guide de dialogue (n°37) : Pour vous accompagner
+
 - Checklist (ce document) : À cocher au fur et à mesure
 
 ### II.6 — Vérifications administratives
 - Vérifier l'adresse exacte du commissariat
+
 - Noter les horaires d'ouverture
+
 - Prévoir le temps de transport (aller + retour)
+
 - Vérifier les parkings à proximité
+
 - Préparer un itinéraire (Google Maps/Waze)
 
 ### II.7 — Préparation logistique
 - Réserver une demi-journée dans l'agenda
+
 - Prévenir l'entourage de l'absence
+
 - Charger téléphone à 100%
+
 - Préparer une batterie externe
+
 - Prévoir un en-cas et une bouteille d'eau
+
 - Prévoir des vêtements professionnels
+
 - Vérifier la météo et adapter la tenue
 
 ---

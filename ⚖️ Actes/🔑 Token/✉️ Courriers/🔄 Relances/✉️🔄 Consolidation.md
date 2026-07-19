@@ -8,6 +8,7 @@ tags:
   - medical
   - expertise
   - DFP
+calendar_event_id: "mub8b2p6evslc099cbq9lobcas"
 statut: projet
 destinataire: Le Chirurgien SOS Main
 auteur: La Victime

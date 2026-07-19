@@ -47,11 +47,19 @@ Notes : Conformément au premier alinéa de l'article 10 de la loi n° 2021-1837
 
 ### Articles cités
 - Assurance maladie et action sociale - art. 7 (VNE)
+
 - Délibération n° 2013-212 du 11 juillet 2013 - art. 4, v. init.
+
 - Délibération n° 2014-014 du 23 janvier 2014 - art. 4, v. init.
+
 - Délibération n° 2014-015 du 23 janvier 2014 - art. 4, v. init.
+
 - Avis n°426365 du 9 mai 2019 - art., v. init.
+
 - Décision n°2021-957 QPC du 17 décembre 2021 - art. 1, v. init. (x2)
+
 - à l'accord du 24 juin 2013 relatif au régime pr... - art. 20
+
 - à l'accord du 24 juin 2013 relatif au régime pr... - art. 38
+
 - Avenant au protocole d'accord du 16 janvier 198... - art. (M)

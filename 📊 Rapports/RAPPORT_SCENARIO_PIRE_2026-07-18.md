@@ -1,5 +1,6 @@
 ---
 title: "RAPPORT SCÉNARIO DU PIRE (Absence d'assurance, d'AJ et vidéos écrasées)"
+date: 2026-07-18
 description: "Analyse des recours disponibles en cas d'absence d'assurance de la SAS HB BARBER, d'insolvabilité probable, de refus d'AJ et de perte des vidéos."
 type: rapport
 ---

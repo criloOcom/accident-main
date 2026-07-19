@@ -42,8 +42,11 @@ Par la présente, je me permets de revenir vers vous pour la troisième fois con
 Cette lettre fait suite à :
 
 - Ma **première LRAR du 29 juin 2026** (demande communication assurance RC exploitant) ;
+
 - **Votre email du 16 juillet 2026** (réception LRAR, allégation cessation activité SAS LES MAUVAIS GARÇONS au 10/03/2026, qualification "accident du travail") ;
+
 - **Ma réponse par la présente** (prise d'acte, identification SAS HB BARBER, trois questions précises) ;
+
 - **L'absence de réponse à ce jour** (soit **deux jours** après mon dernier courriel).
 
 <hr><hr>
@@ -63,8 +66,11 @@ Dans votre email du **16 juillet 2026**, vous qualifiez cet événement d'**"acc
 **Cette qualification est juridiquement et factuellement inexacte.**
 
 - Je n'ai **aucun lien de subordination** avec l'exploitant du salon, ni avec vous-même.
+
 - J'exerce la profession d'**informaticien indépendant** (SIREN 500 474 457) et de guitariste.
+
 - J'étais **client** de l'établissement, venu pour une prestation de coiffure.
+
 - L'accident est survenu dans le cadre d'une **relation de consommation**, non professionnelle.
 
 L'expression "accident du travail" suppose un lien de subordination (article L.411-1 du Code de la sécurité sociale[^1]) qui **n'existe pas en l'espèce**. Son utilisation — même involontaire — risque de faire basculer à tort le dossier vers le régime des risques professionnels (CPAM/AT-MP), alors qu'il relève de la **responsabilité civile de droit commun** (articles 1240 et 1242 du Code civil[^2]).
@@ -78,6 +84,7 @@ Je vous saurais gré de bien vouloir **justifier l'emploi de cette expression** 
 Lors de ma visite des lieux le **16 juillet 2026**, j'ai constaté la disparition de **deux éléments matériels déterminants** :
 
 - Le **meuble TV mural** (support métallique fixant le téléviseur au-dessus de la vasque), que le préposé coiffeur manipulait au moment du basculement ;
+
 - Le **bac à shampoing lui-même** (vasque en céramique à la cassure apparente préexistante), qui a été déposé et remplacé.
 
 Cette disparition constatée, si elle est établie comme intentionnelle, pourrait constituer une **faute caractérisée** (article 1240 du Code civil[^2]) de nature à faire présumer la responsabilité de l'exploitant et de son commettant. Elle sera portée à la connaissance du juge dans le cadre de toute procédure ultérieure (article 9 du Code de procédure civile[^3]).
@@ -138,7 +145,9 @@ Si je ne parviens pas à obtenir les coordonnées des assureurs concernés par l
 En conséquence, je vous mets en demeure de bien vouloir me communiquer **dans un délai de quinze (15) jours à compter de la réception de la présente** :
 
 1. La confirmation de l'occupant/exploitant au 29 mai 2026 (SAS HB BARBER) et sa date d'entrée ;
+
 2. La copie des pages du bail/avenant relatives à l'identité du preneur et aux clauses d'assurance ;
+
 3. Les coordonnées de l'assureur RC de l'exploitant (SAS HB BARBER) et, le cas échéant, de votre propre assureur PNO.
 
 Cette démarche s'inscrit dans le respect de l'article 56 du Code de procédure civile[^8] (tentative de résolution amiable préalable) et de la jurisprudence de la Cour de cassation (2e chambre civile, 10 mars 2022, n° 20-16.331[^9] ; 3 avril 2025, n° 23-18.568[^10]), notamment en matière de réserves d'aggravation et de réparation intégrale des préjudices corporels.

@@ -45,39 +45,64 @@ jx: J+52
 
 ### 🟢 POCHETTE VERTE — TJ / AJ (MATIN)
 - [ ] Requête Art. 145 CPC × 2 ex. (signées)
+
 - [ ] Formulaire AJ Cerfa 16146*03 (rempli + signé)
+
 - [ ] Pièces AJ : Avis imposition 2025, Déclarations URSSAF 12 mois, Justificatif domicile <3 mois, CNI + copie
+
 - [ ] PV initial n°2026/015967 (copie)
+
 - [ ] CR opératoire 30/05/2026 + Arrêts travail (ITT 56j)
+
 - [ ] Extrait Kbis HB BARBER (SIREN 104 103 262) < 1 mois
+
 - [ ] Note audit RNE/INPI (10/07) — société active, 0 salarié
+
 - [ ] Photos vasque cassée + devanture (si dispo)
+
 - [ ] Stylo bleu × 2
 
 ### 🟡 POCHETTE JAUNE — VISITE LIEUX (MIDI)
 - [ ] PV constat vierge (à remplir sur place, daté + signé)
+
 - [ ] Attestations sur l'honneur vierges (témoins potentiels)
+
 - [ ] Téléphone chargé + batterie externe
+
 - [ ] Mètre / règle
 
 ### 🔴 POCHETTE ROUGE — COMMISSARIAT (APRÈS-MIDI)
 - [ ] Plainte complémentaire n°36 × 2 ex. (signées)
+
 - [ ] Erratum correction identité société × 2 ex. (signées) — **Pièce n°5 du bordereau Foix**
+
 - [ ] PV initial n°2026/015967 (copie)
+
 - [ ] LRAR NPAI originaux + accusés réception
+
 - [ ] Extrait Kbis HB BARBER (SIREN 104 103 262) < 1 mois
+
 - [ ] Note audit RNE/INPI (10/07)
+
 - [ ] Photos accident (10x15 + numérique)
+
 - [ ] CR opératoire + Arrêts travail
+
 - [ ] Chronologie démarches (tableau)
+
 - [ ] Guide dialogue n°37
+
 - [ ] Attestation Mathieu Frédéric (Cerfa 11527*03) — **Pièce n°5**
 
 ### 🍎 CONFORT & ÉLECTRONIQUE
 - [ ] Bouteille d'eau 50cl + barre céréales
+
 - [ ] Mouchoirs + gel hydroalcoolique + masque
+
 - [ ] Téléphone + chargeur + batterie externe + câble
+
 - [ ] Clés + porte-monnaie (espèces + CB)
+
 - [ ] Lunettes soleil + parapluie
 
 ---
@@ -94,7 +119,9 @@ jx: J+52
 
 **Contacts utiles :**
 - Procureur République Foix : 05 61 02 30 30 (via greffe)
+
 - DDETSPP Ariège (Inspection Travail) : 05 61 02 80 80
+
 - La Poste : 3631
 
 ---
@@ -103,41 +130,65 @@ jx: J+52
 
 ### 08h30 — DÉPART DOMICILE
 - [ ] Vérification météo + tenue professionnelle
+
 - [ ] Téléphone 100% + batterie externe
+
 - [ ] Sac avec 3 pochettes + confort
+
 - [ ] Itinéraire GPS chargé (Toulouse → Foix ~1h30)
 
 ### 09h00 — TJ FOIX : GREFFE CIVIL (REQUÊTE ART. 145 CPC)
 - [ ] Se présenter : "Je viens déposer une requête au greffe civil"
+
 - [ ] Demander direction **greffe civil**
+
 - [ ] Remettre **2 exemplaires** requête + **17 pièces** (bordereau joint)
+
 - [ ] Dire : "Je souhaite obtenir une ordonnance pour la communication de la police d'assurance et la conservation des vidéosurveillance"
+
 - [ ] **OBTENIR : Récépissé de dépôt** avec n° dossier — **GARDER PRÉCIEUSEMENT**
+
 - [ ] Demander délai traitement estimé
 
 ### 09h45 — TJ FOIX : BAJ (AJ TOTALE)
 - [ ] Remettre formulaire AJ rempli + pièces justificatives
+
 - [ ] Remettre CNI + justificatif domicile
+
 - [ ] **DEMANDER TRAITEMENT ACCÉLÉRÉ** : urgence vidéos (péril avant 15 août)
+
 - [ ] **OBTENIR : Récépissé AJ** avec n°
+
 - [ ] Demander délai estimé (2-6 semaines)
 
 ### 12h00 — VISITE LIEUX : 22 RUE LAFAURIE, FOIX
 - [ ] Photos devanture (large + serré)
+
 - [ ] Photos enseigne (nom actuel : **HB BARBER**)
+
 - [ ] Regarder intérieur par vitrines : état salon, emplacement vasque
+
 - [ ] **Repérer caméras vidéosurveillance** visibles (extérieur/intérieur)
+
 - [ ] Regarder commerces voisins : caméras filmant la rue ?
+
 - [ ] Chercher **nouvelle occupation** des locaux
+
 - [ ] Si porte ouverte/nouvelle activité : noter identité occupant
+
 - [ ] **PV constat sur place** : date, heure, constatations visuelles, état devanture, caméras, témoins éventuels
+
 - [ ] Faire contresigner par témoin si possible (voisin, commerçant)
 
 ### 14h30 — COMMISSARIAT FOIX : PLAINTE COMPLÉMENTAIRE + ERRATUM
 - [ ] Accueil : "Je viens déposer une plainte complémentaire"
+
 - [ ] Demander service des plaintes
+
 - [ ] Noter nom agent accueil
+
 - [ ] Relire guide dialogue n°37 en attendant
+
 - [ ] Noter heure arrivée
 
 #### Entretien avec l'officier (résumé oral 2-3 min) :
@@ -145,21 +196,31 @@ jx: J+52
 
 #### Points à aborder (cocher) :
 - [ ] **Mise en danger délibérée** (art. 223-1 CP) — vasque cassée non signalée = risque immédiat
+
 - [ ] **Entrave à la constatation** (art. 434-15 CP) — refus communiquer assurance RC
+
 - [ ] **Défaut d'assurance RC pro** (art. L.324-2 C.assur.) — infraction pénale autonome
+
 - [ ] **Abandon fonds de commerce** (art. L.141-1 C.com.) — si indices cessation non déclarée
 
 #### Demandes spécifiques :
 - [ ] Saisie et conservation vidéosurveillance (art. 56 CPP)
+
 - [ ] Transmission au Parquet de Foix
+
 - [ ] Désignation OPJ référent suivi
+
 - [ ] Copie du nouveau PV
 
 #### Questions à poser :
 - [ ] Numéro du nouveau PV ? (exiger référence PV 2026/015967)
+
 - [ ] Nom officier référent suivi ?
+
 - [ ] Prochaines étapes concrètes ?
+
 - [ ] Délais prévisibles ?
+
 - [ ] Comment suivre l'avancement ?
 
 #### Si l'officier objecte (réponses préparées) :
@@ -172,18 +233,28 @@ jx: J+52
 
 #### Documents à obtenir (obligatoire) :
 - [ ] Numéro du **nouveau PV**
+
 - [ ] **Référence explicite** au PV initial 2026/015967
+
 - [ ] Nom + coordonnées officier référent
+
 - [ ] Récépissé de dépôt ou copie PV (si possible)
+
 - [ ] Prochaines étapes communiquées
 
 ### 15h30 — LA POSTE FOIX : 3 LRAR
 - [ ] Courrier n°41 **CODAF** + erratum + attestation Mathieu
+
 - [ ] Courrier n°42 **Inspection Travail** + erratum + attestation Mathieu
+
 - [ ] Courrier **Erratum seul** → M. Delrieu (bailleur) : 17 rue de la Baïse, 31120 Roquettes
+
 - [ ] Demander AR pour chaque
+
 - [ ] **Noter n° de suivi** pour chaque
+
 - [ ] Photo chaque courrier + PJ avant dépôt
+
 - [ ] Conserver reçus dépôt
 
 ---
@@ -217,41 +288,68 @@ jx: J+52
 
 ### Avant jour J (soir 19/07)
 - [ ] Documents préparés et vérifiés
+
 - [ ] Dossier physique organisé (3 pochettes)
+
 - [ ] Support numérique prêt (clé USB, Drive, téléphone)
+
 - [ ] Itinéraire préparé
+
 - [ ] Vêtements professionnels prêts
+
 - [ ] Matériel complémentaire prêt
 
 ### Jour J - Matin
 - [ ] Toilette + tenue professionnelle
+
 - [ ] Petit-déjeuner équilibré
+
 - [ ] Vérification météo
+
 - [ ] Chargement téléphone + batterie externe
+
 - [ ] Préparation sac (3 pochettes séparées)
+
 - [ ] Vérification transports
+
 - [ ] Partir tôt (arrivée TJ 9h00)
 
 ### Au commissariat
 - [ ] Accueil poli
+
 - [ ] Attente patiente
+
 - [ ] Présentation professionnelle
+
 - [ ] Remise du dossier
+
 - [ ] Résumé oral clair
+
 - [ ] Réponses aux questions
+
 - [ ] Demandes spécifiques
+
 - [ ] Questions posées
+
 - [ ] Documents obtenus
+
 - [ ] Remerciements
 
 ### Retour et suivi
 - [ ] Notes immédiates
+
 - [ ] Classement documents
+
 - [ ] Mise à jour dossiers numériques
+
 - [ ] Email de remerciement
+
 - [ ] Préparation relance
+
 - [ ] Contact officier référent
+
 - [ ] Bilan J+7
+
 - [ ] Décision J+15
 
 ---

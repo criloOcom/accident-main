@@ -63,10 +63,17 @@ Le procureur de la République peut ordonner que cette réquisition soit rapport
 
 ### Articles cités
 - DÉLIBÉRATION n°2014-483 du 4 décembre 2014 - art., v. init.
+
 - Décision n°2019-778 DC du 21 mars 2019 - art., v. init.
+
 - Décret n°2019-507 du 24 mai 2019 (V)
+
 - Décret n°2021-1112 du 23 août 2021 - art. 1
+
 - Décret n°2021-1281 du 30 septembre 2021 - art. 7
+
 - Décision n°2021-952 QPC du 3 décembre 2021 - art. 1, v. init. (x2)
+
 - Décision n°2021-974 QPC du 25 février 2022 - art. 1, v. init. (x2)
+
 - Décision n°2022-846 DC du 19 janvier 2023 - art. 2, v. init.

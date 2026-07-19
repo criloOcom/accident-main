@@ -1,5 +1,6 @@
 ---
 title: "Audit de sécurité juridique des tokens et de la double strate"
+date: 2026-07-14
 description: "Rapport d'analyse sur la résistance du système d'anonymisation et sa conformité avec le secret de l'instruction (Art. 11 CPP)."
 type: rapport
 ---

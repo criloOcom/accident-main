@@ -2,7 +2,7 @@
 title: Conclusions au Fond — TJ de Foix
 description: Conclusions récapitulatives au fond — Demande d'indemnisation du préjudice
   corporel — Accident du 29 mai 2026 — SAS [L'Exploitant du Commerce]
-type: acte_procedural
+type: document
 date: 2027-06-01
 tags:
 - conclusions
@@ -19,7 +19,7 @@ tags:
 statut: projet
 destinataire: Tribunal Judiciaire de Foix
 auteur: La Victime
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md
 jx: J+368
 ---
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
@@ -45,7 +45,7 @@ Ayant droit à l'aide juridictionnelle
 **SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
 [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
 SIRET : [**[SIRET]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#siret)
-Assureur RC : [**[L'Assureur RC]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md)
+Assureur RC : [**[L'Assureur RC]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md)
 
 **Partie défenderesse**
 <hr><hr>
@@ -96,7 +96,7 @@ Par ordonnance de référé du [**[Date Ordonnance Référé]**](../../../../%F0
 
 ### IV.1 — 2.1 Rappel de l'instance
 
-Par exploit d'huissier en date du [**[J+63 Assignation 145]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-63-assignation-145.md), la demanderesse a fait assigner la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) devant le Tribunal Judiciaire de Foix sur le fondement de l'article 145 du Code de procédure civile aux fins de voir ordonner une expertise médicale et d'obtenir une provision à valoir sur l'indemnisation de son préjudice corporel.
+Par exploit d'huissier en date du [**[J+63 Assignation 145]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-63-assignation-145.md), la demanderesse a fait assigner la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) devant le Tribunal Judiciaire de Foix sur le fondement de l'article 145 du Code de procédure civile aux fins de voir ordonner une expertise médicale et d'obtenir une provision à valoir sur l'indemnisation de son préjudice corporel.
 
 Par ordonnance du [**[Date Ordonnance Référé]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles), le juge des référés a :
 - Ordonné une expertise médicale confiée à [**[Expert Désigné]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#expert-1)

@@ -1,5 +1,6 @@
 ---
 title: "RAPPORT_CONFORMITE_PROCEDURALE_2026-07-14"
+date: 2026-07-14
 description: "Rapport vérifiant la conformité procédurale de la stratégie déployée et proposant un calendrier juridique réaliste et opposable."
 type: rapport
 ---

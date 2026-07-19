@@ -68,8 +68,16 @@ type: acte|analyse|courrier|organisation|memory|rapport
 ```yaml
 reel_path: ../../👤 Reel/{subdir}/{fichier}.md
 drive_id: {Google Drive ID}
+calendar_event_id: "{Google Calendar event ID}"
+calendar_event_ids:
+  - "{event_id_1}"
+  - "{event_id_2}"
 statut: brouillon|projet|preparation|final|archive
 ```
+
+- `calendar_event_id`: pour un fichier correspondant à **un seul événement** Google Calendar `[AM]`
+
+- `calendar_event_ids`: liste pour un fichier correspondant à **plusieurs événements** (ex: envoi courrier + sa date butoir)
 
 ### Règles
 1. **Ligne 1 = `---`** : toujours, sans rien avant
@@ -78,7 +86,7 @@ statut: brouillon|projet|preparation|final|archive
 
 3. `type` : valeur canonique (pas d'invention)
 
-4. Les champs `drive_id`, `statut` : optionnels mais encouragés
+4. Les champs `drive_id`, `calendar_event_id`, `calendar_event_ids`, `statut` : optionnels mais encouragés
 
 5. `reel_path` / `token_path` : obligatoires pour la double strate
 

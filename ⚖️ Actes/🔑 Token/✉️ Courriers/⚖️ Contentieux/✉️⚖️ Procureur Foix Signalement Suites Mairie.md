@@ -1,7 +1,7 @@
 ---
 title: "✉️⚖️ Procureur — Signalement Mairie — Suites Administratives [Token]"
 description: "Courrier au Procureur de la République près le TJ de la Ville de l'Accident — Demande de vérification des suites du signalement à la mairie (adjoint au maire — saisine préfecture / IT / CODAF)"
-type: acte
+type: document
 status: brouillon
 ---
 

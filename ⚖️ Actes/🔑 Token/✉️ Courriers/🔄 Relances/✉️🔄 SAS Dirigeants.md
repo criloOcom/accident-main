@@ -10,6 +10,7 @@ tags:
   - LRAR
   - fermeture boutique
   - preuves
+calendar_event_id: "hj1d12jfdubeuoavj7sq548i2o"
 statut: envoye
 destinataire: Dirigeants de l'Exploitant du Commerce
 auteur: La Victime

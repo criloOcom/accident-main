@@ -8,6 +8,7 @@ tags:
   - partie civile
   - juge instruction
   - envoi
+calendar_event_id: "smthlv0a5arakof0m4rv80qgkc"
 statut: envoye
 destinataire: Doyen des Juges d'Instruction de **[La Ville de l'Accident]**
 auteur: La Victime

@@ -11,6 +11,7 @@ tags:
 - securite
 
 - DUERP
+calendar_event_id: "ncdv7eqhn6njck42v7sdcuelak"
 statut: final
 destinataire: DDETS de la Region
 auteur: La Victime

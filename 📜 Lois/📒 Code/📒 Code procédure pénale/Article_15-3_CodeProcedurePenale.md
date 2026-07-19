@@ -41,10 +41,17 @@ Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procè
 
 ### Articles cités
 - Loi n°2004-204 du 9 mars 2004 - art. 207 (V)
+
 - Décret n°2024-139 du 23 février 2024 (V)
+
 - Code de procédure pénale - art. 7 (VT)
+
 - Code de procédure pénale - art. 85 (VT)
+
 - Code de procédure pénale - art. D594-12 (V)
+
 - Code de procédure pénale - art. D8-2-2 (V)
+
 - Code de procédure pénale - art. R2-25 (V)
+
 - Code de procédure pénale - art. R2-27 (V)

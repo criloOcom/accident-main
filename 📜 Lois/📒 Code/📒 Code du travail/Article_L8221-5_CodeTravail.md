@@ -36,12 +36,21 @@ Est réputé travail dissimulé par dissimulation d'emploi salarié le fait pour
 
 ### Articles cités
 - Décret n°2008-657 du 2 juillet 2008 - art. 2, v. init.
+
 - Décret n°2008-657 du 2 juillet 2008 - art. 3, v. init.
+
 - Décret n°2013-1107 du 3 décembre 2013 - art. 19, v. init.
+
 - Décret n°2013-1107 du 3 décembre 2013 - art. 7, v. init.
+
 - LOI n°2014-790 du 10 juillet 2014 - art. 13, v. init.
+
 - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 13, v. init.
+
 - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 17, v. init.
+
 - ORDONNANCE n°2015-378 du 2 avril 2015 - art. 3, v. init.
+
 - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (VT)
+
 - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 92 (VT)

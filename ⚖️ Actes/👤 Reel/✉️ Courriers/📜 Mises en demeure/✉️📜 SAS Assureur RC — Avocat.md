@@ -1,7 +1,7 @@
 ---
 title: "📜 Action Directe Assureur RC — Mise en demeure avocat (Art. L.124-3 C. assur.)"
 description: "Mise en demeure émise par le conseil de la Victime à l'encontre de l'assureur RC de l'Exploitant du Commerce — expertise consolidée — réserve pénale"
-type: simulation
+type: projet
 date: 2026-09-01
 tags:
   - simulation
@@ -12,10 +12,10 @@ tags:
   - L.124-3
   - expertise
   - provision
-statut: simulation
+statut: projet
 destinataire: Assureur RC de l'Exploitant du Commerce
 auteur: Conseil de la Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS Assureur RC — Avocat.md
+
 jx: J+50-bis
 ---
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
@@ -54,7 +54,7 @@ Fait à [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/
 
 Madame, Monsieur,
 
-J'interviens aux présentes en ma qualité de conseil de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md%5D%2C%20que%20je%20repr%C3%A9sente%20dans%20le%20cadre%20du%20grave%20accident%20corporel%20dont%20elle%20a%20%C3%A9t%C3%A9%20victime%20le%2029%20mai%202026%20au%20sein%20du%20salon%20de%20coiffure%20exploit%C3%A9%20par%20la%20soci%C3%A9t%C3%A9%20%5B%5B%5B%5B%5B%2A%2A%5BL%27Exploitant%20du%20Commerce%20%28La%20SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
+J'interviens aux présentes en ma qualité de conseil de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
 ## I — RAPPEL DES FAITS ET DE LEUR GRAVITÉ
 
 Le 29 mai 2026, ma cliente se trouvait installée au bac à shampoing lorsque [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tél. [07 58 40 12 87](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)), salarié de l'établissement, est monté sur la vasque en céramique pour régler un téléviseur, en l'absence de tout équipement adapté (escabeau ou marchepied). Sous son poids, la vasque — instable et fragilisée par une cassure préexistante non signalée — a basculé. Ma cliente a instinctivement tendu sa main droite dominante pour protéger le salarié, heurtant de plein fouet l'arête tranchante de la cassure.

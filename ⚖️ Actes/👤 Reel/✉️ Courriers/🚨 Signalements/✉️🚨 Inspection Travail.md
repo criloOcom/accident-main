@@ -3,6 +3,7 @@ title: Demande d'Information a l'Inspection du Travail
 description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-05
+calendar_event_id: "ncdv7eqhn6njck42v7sdcuelak"
 tags:
 - inspection du travail
 

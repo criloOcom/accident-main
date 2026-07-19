@@ -83,6 +83,18 @@ Le projet dispose d'un notebook **Google NotebookLM** dédié (`accident-main`) 
 
 **Tout agent** peut et doit interroger ce notebook pour obtenir des réponses contextuelles ancrées dans les sources du projet (lois, documents, pièces). Utiliser `notebooklm_ask_question` avec `notebook_id: "accident-main"` après chaque source ajoutée pour valider que le contenu est bien indexé.
 
+## Google Calendar « Accident Main » — Pièce maîtresse du processus
+
+Le projet dispose d'un **calendrier Google partagé** qui centralise TOUS les événements clés (création sociétés, accident, chirurgie, actes, dépôts, rendez-vous, échéances). Chaque événement est prefixé `[AM]` et contient en description les liens vers les documents Google Drive/Docs concernés.
+
+- **ID calendrier** : `b79938b56860c8d121009802e68294f74709483faf8ca0d1c7a23b97c84e7ac5@group.calendar.google.com`
+
+- **URL** : [Voir le calendrier](https://calendar.google.com/calendar/u/0?cid=Yjc5OTM4YjU2ODYwYzhkMTIxMDA5ODAyZTY4Mjk0Zjc0NzA5NDgzZmFmOGNhMGQxYzdhMjNiOTdjODRlN2FjNUBn)
+
+- **Outils** : `google-docs_listEvents`, `google-docs_createEvent`, `google-docs_updateEvent`
+
+**Tout agent** DOIT consulter ce calendrier en début de session et le mettre à jour systématiquement lors de toute création/modification de date. Voir [🧠 Memory/RULES.md](%F0%9F%A7%A0%20Memory/RULES.md) #26 pour le protocole détaillé.
+
 ## Règles essentielles
 
 0. 🔴 **Lire [🧠 Memory/VACCIN.md](%F0%9F%A7%A0%20Memory/VACCIN.md) AVANT toute action** — protocole de vaccination
@@ -148,9 +160,11 @@ Le projet dispose d'un notebook **Google NotebookLM** dédié (`accident-main`) 
 
 10. **Mettre à jour README.md** si nouveau fichier notable ajouté
 
+11. **Mettre à jour le Google Calendar** : si le document fixe ou modifie une date (envoi, dépôt, échéance, rendez-vous), créer (`createEvent`) ou mettre à jour (`updateEvent`) l'événement calendrier correspondant — voir [🧠 Memory/RULES.md](%F0%9F%A7%A0%20Memory/RULES.md) #26 pour le protocole
+
 ## Workflow maintien du dossier
 
-1. Avant toute action : lire [🧠 Memory/VACCIN.md](%F0%9F%A7%A0%20Memory/VACCIN.md) + [`AGENTS.md`](AGENTS.md) + [🧠 Memory/STATUS.md](%F0%9F%A7%A0%20Memory/STATUS.md)
+1. Avant toute action : lire [🧠 Memory/VACCIN.md](%F0%9F%A7%A0%20Memory/VACCIN.md) + [`AGENTS.md`](AGENTS.md) + [🧠 Memory/STATUS.md](%F0%9F%A7%A0%20Memory/STATUS.md) + **consulter le Google Calendar** (`google-docs_listEvents`)
 
 2. Après toute modification de structure : **mettre à jour README.md**
 

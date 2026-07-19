@@ -11,6 +11,7 @@ tags:
 - fraude
 
 - LRAR
+calendar_event_id: "ncdv7eqhn6njck42v7sdcuelak"
 statut: final
 destinataire: CODAF de l'Ariege
 auteur: La Victime

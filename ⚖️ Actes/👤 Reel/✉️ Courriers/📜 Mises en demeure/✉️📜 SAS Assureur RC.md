@@ -1,7 +1,7 @@
 ---
 title: "📜 Action Directe Assureur RC — Mise en demeure post-expertise (Art. L.124-3 C. assur.)"
 description: "Déclaration de sinistre et mise en demeure de l'assureur RC de l'Exploitant du Commerce — expertise médicale consolidée (DFP 12 %, SE 4/7) — fourchette Dintilhac 120-160 k€"
-type: simulation
+type: projet
 date: 2026-09-01
 tags:
   - simulation
@@ -11,10 +11,10 @@ tags:
   - L.124-3
   - expertise
   - provision
-statut: simulation
+statut: projet
 destinataire: Assureur RC de l'Exploitant du Commerce
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS Assureur RC.md
+
 jx: J+50
 ---
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
