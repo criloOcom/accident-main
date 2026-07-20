@@ -94,7 +94,7 @@ Le **[29 mai 2026]**, le préposé de l'établissement **[HB BARBER]** est mont�
 
 **Lésion :** Section complète des tendons extenseurs des doigts II à V de la main droite (dominante) — microchirurgie en urgence SOS Main.
 
-**ITT :** 56 jours cumulés. **Consolidation :** Pas encore intervenue.
+**ITT :** 55 jours cumulés. **Consolidation :** Pas encore intervenue.
 
 ### 3.2 — Responsabilité incontestable (30 s)
 
@@ -150,7 +150,7 @@ La victime n'est pas consolidée. L'état séquellaire actuel (douleurs neuropat
 | *Pourquoi HB BARBER et pas LES MAUVAIS GARÇONS ?* | Erratum déposé. Visite des lieux le 16 juillet a révélé l'enseigne réelle. Les deux sociétés ont la même DG ([Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)). |
 | *Pourquoi pas d'avocat ?* | AJ déposée, en cours. Seul au-delà du plafond de 10k€ pour la représentation obligatoire, mais la procédure est engagée de bonne foi. |
 | *Avez-vous des revenus ?* | ~9 000 €/an micro-entrepreneur. Justificatifs URSSAF joints. |
-| *Quel est le préjudice professionnel ?* | Informaticien — main droite sectionnée. Arrêt complet depuis 56 jours. IP estimée à 28 000 €. |
+| *Quel est le préjudice professionnel ?* | Informaticien — main droite sectionnée. Arrêt complet depuis 55 jours. IP estimée à 28 000 €. |
 <hr><hr>
 
 ## 5 — CONTACTS UTILES

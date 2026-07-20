@@ -101,7 +101,7 @@ Le rapport d'expertise médicale du 29 mai 2027 ([20270529 ⚖️ Rapport Expert
 
 - PGPA : 1 900 € (dont 1 400 € prorata + 500 € perte de chance) — 🔄 SUPERSEDED (expertise : 1 380 €)
 
-- DFT : 1 400 € (56 jours × 25 €/jour) — 🔄 SUPERSEDED (expertise : 2 031 €)
+- DFT : 1 375 € (55 jours × 25 €/jour) — 🔄 SUPERSEDED (expertise : 2 031 €)
 
 - DFP : 31 200 € (12 % × 2 600 €/pt) — 🔄 SUPERSEDED (expertise : 25 200 €)
 
@@ -193,9 +193,9 @@ Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../%F0%9F%93%8A%20Rapports/RAPPORT_A
 
 - SERVICES_URGENCE : SMUR 09 (Centre Ariégeois de Soins Immédiats)
 
-- ITT_TOTAL : 56 jours (29/05/2026 → 23/07/2026)
+- ITT_TOTAL : 55 jours (29/05/2026 → 23/07/2026)
 
-- ⚠ ITT_INITIALE_ERREUR : **[Le Médecin Généraliste]** a noté 1 jour le 01/06 (erreur matérielle, rectifiée à 56j)
+- ⚠ ITT_INITIALE_ERREUR : **[Le Médecin Généraliste]** a noté 1 jour le 01/06 (erreur matérielle ; l'arrêt de travail total est de 55 jours)
 
 - PV_POLICE : 2026/015967 (⚠ info non confirmée par retour officiel — source : courriel Mairie de **[La Ville de l'Accident]** du 01/06/2026 + dossier de plainte déposé par **[La Victime]**)
 

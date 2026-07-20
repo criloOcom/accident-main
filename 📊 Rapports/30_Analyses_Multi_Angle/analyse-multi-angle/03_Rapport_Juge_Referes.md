@@ -58,7 +58,7 @@ Ce montant apparaît parfaitement proportionné et justifié :
 
 - Il est en adéquation avec les préjudices corporels d'ores et déjà incontestables, médicalement constatés, incluant la section du nerf collatéral radial et du tendon fléchisseur profond, ayant nécessité une intervention chirurgicale en urgence.
 
-- Il indemnise provisoirement une Incapacité Temporaire Totale (ITT) évaluée à 56 jours.
+- Il indemnise provisoirement une Incapacité Temporaire Totale (ITT) évaluée à 55 jours.
 
 - Il prend en compte les frais médicaux avancés, la Perte de Gains Professionnels Actuels (PGPA) pour ce travailleur indépendant et les souffrances endurées.
 

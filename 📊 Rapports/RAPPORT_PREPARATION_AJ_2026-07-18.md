@@ -56,7 +56,7 @@ type: rapport
 
 ### A. Déclaration explicative (500 caractères maximum)
 
-« Je sollicite l'aide juridictionnelle suite à un accident survenu le 29 mai 2026 dans un salon de coiffure situé à **[La Ville de l'Accident]**. J'ai subi des blessures graves (ITT de 56 jours) à cause d'une chute provoquée par le préposé. L'exploitant des lieux, **[L'Exploitant du Commerce (La SAS)]**, ainsi que la nouvelle entité **[Le Nouvel Exploitant (HB BARBER)]**, refusent de coopérer et ne communiquent aucune information sur leur assurance. Le concours d'un avocat est indispensable pour m'assister dans les procédures civile (référé) et pénale en cours. »
+« Je sollicite l'aide juridictionnelle suite à un accident survenu le 29 mai 2026 dans un salon de coiffure situé à **[La Ville de l'Accident]**. J'ai subi des blessures graves (ITT de 55 jours) à cause d'une chute provoquée par le préposé. L'exploitant des lieux, **[L'Exploitant du Commerce (La SAS)]**, ainsi que la nouvelle entité **[Le Nouvel Exploitant (HB BARBER)]**, refusent de coopérer et ne communiquent aucune information sur leur assurance. Le concours d'un avocat est indispensable pour m'assister dans les procédures civile (référé) et pénale en cours. »
 
 ### B. Déclaration sur l'honneur (Assurance Protection Juridique)
 

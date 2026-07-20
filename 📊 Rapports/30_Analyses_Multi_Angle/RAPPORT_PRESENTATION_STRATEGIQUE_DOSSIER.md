@@ -35,7 +35,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 
 - **Prise en charge** : microchirurgie d'urgence en SOS Main le 30 mai 2026 (neurolyse du nerf palmaire, suture tendineuse et nerveuse)
 
-- **ITT** : 56 jours (du 29 mai au 23 juillet 2026)
+- **ITT** : 55 jours (du 29 mai au 23 juillet 2026)
 
 - **Consolidation** : 1er mars 2027 (J+10 mois)
 
@@ -128,7 +128,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 |------|---------|-------|
 | Dépenses de Santé Actuelles (DSA) | **790,23 €** | SOS Main — Recours CPAM à déduire |
 | Frais Divers (DFT) | **2 031 €** | Transports, honoraires expertise |
-| Perte de Gains Professionnels Actuels (PGPA) | **1 380 €** | ITT 56 jours |
+| Perte de Gains Professionnels Actuels (PGPA) | **1 380 €** | ITT 55 jours |
 | Perte de Gains Professionnels Futurs (PGPF) | **50 000 – 70 000 €** | Fourchette expertise |
 | Incidence Professionnelle (IP) | **28 000 €** | Déclassement, perte de chance, reconversion |
 | Dépenses de Santé Futures (DSF) | **3 000 €** | Soins de rééducation |

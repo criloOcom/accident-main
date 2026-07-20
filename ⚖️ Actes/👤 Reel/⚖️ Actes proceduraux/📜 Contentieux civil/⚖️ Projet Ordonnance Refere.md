@@ -75,7 +75,7 @@ Par acte d'huissier du [date], [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20M
 
 Le demandeur expose qu'il s'est rendu le **29 mai 2026** au salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). Le préposé de l'établissement, en l'absence de tout équipement d'accès en hauteur, est monté sur une vasque en céramique pour régler un téléviseur. Sous son poids, la vasque — déjà instable et fragilisée par une cassure majeure préexistante non signalée aux arêtes tranchantes — a basculé. Par réflexe, le demandeur — informaticien indépendant âgé de 44 ans — a tendu la main droite et a heurté la cassure tranchante.
 
-L'accident a entraîné une section complète du tendon fléchisseur profond (FDP) de l'index droit, associée à une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une microchirurgie d'urgence le 30 mai 2026, puis une neurolyse du nerf palmaire. L'ITT a été fixée à **56 jours**. Le demandeur soutient que son obligation à indemnisation n'est pas sérieusement contestable et que l'absence de communication de la police d'assurance par les défendeurs le prive de son action directe.
+L'accident a entraîné une section complète du tendon fléchisseur profond (FDP) de l'index droit, associée à une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une microchirurgie d'urgence le 30 mai 2026, puis une neurolyse du nerf palmaire. L'ITT a été fixée à **55 jours**. Le demandeur soutient que son obligation à indemnisation n'est pas sérieusement contestable et que l'absence de communication de la police d'assurance par les défendeurs le prive de son action directe.
 
 Les défendeurs, régulièrement cités par procès-verbal de recherches infructueuses, n'ont pas constitué avocat et n'ont pas comparu. Il sera statué par ordonnance réputée contradictoire en application de l'article 473 du Code de procédure civile.
 <hr><hr>
@@ -102,7 +102,7 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 
 **Considérant** que le préjudice corporel de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), nécessairement provisoire en l'absence de consolidation, peut être évalué comme suit à ce stade :
 
-- Pertes de gains professionnels actuels (PGPA) pour 56 jours d'ITT : **1 380 €** ;
+- Pertes de gains professionnels actuels (PGPA) pour 55 jours d'ITT : **1 380 €** ;
 
 - Frais médicaux et paramédicaux (chirurgie 790,23 €, soins de kinésithérapie) : **4 000 €** ;
 

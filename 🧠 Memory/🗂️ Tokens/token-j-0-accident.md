@@ -51,7 +51,7 @@ type: memory
 
 ## Conséquences juridiques
 
-- **Point de départ** de l'ITT (56 jours), de tous les délais procéduraux et des intérêts au taux légal.
+- **Point de départ** de l'arrêt de travail (55 jours), de tous les délais procéduraux et des intérêts au taux légal.
 
 - **Fait générateur** de la responsabilité civile de la SAS (commettant + garde de la chose).
 

@@ -34,7 +34,7 @@ Victime directe de l'accident corporel du **29 mai 2026** ([J+0 Accident](token-
 
 **Blessure** : plaie de la main droite — section du tendon fléchisseur, du paquet collatéral et neurolyse du nerf palmaire de **l'index droit** (⚠ jamais 5e doigt/auriculaire ; main droite uniquement, la main gauche reste fonctionnelle). Microchirurgie d'urgence le 30 mai 2026 ([J+1 Chirurgie](token-j-1-chirurgie.md)).
 
-**ITT** : **56 jours** (29/05/2026 → 23/07/2026, [J+55 Fin d'ITT](token-j-55-fin-d-itt.md)).
+**Arrêt de travail** : **55 jours** (29/05/2026 → 23/07/2026, [J+55 Fin d'ITT](token-j-55-fin-d-itt.md)).
 
 ## Enjeu — Demandeur pivot du dossier
 

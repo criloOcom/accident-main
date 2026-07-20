@@ -48,7 +48,7 @@ jx: J+38
 
 - **Pièce n°3 :** [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) Dr [Chirurgien SOS Main] (30 mai 2026) — Scan/copie
 
-- **Pièce n°4 :** Certificats d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT 56 jours) — Scan/copie
+- **Pièce n°4 :** Certificats d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (55 jours) — Scan/copie
 
 - **Pièce n°5 :** Copie du PV de plainte pénale (Police Nationale) — Copie
 

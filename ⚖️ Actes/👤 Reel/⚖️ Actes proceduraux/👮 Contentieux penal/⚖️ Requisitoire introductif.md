@@ -47,7 +47,7 @@ En tentant par réflexe de retenir le préposé, [Sébastien GRAZIDE](../../../.
 
 Ce choc a provoqué une section complète du tendon fléchisseur profond (FDP) de l'index droit en zone II de Verdan, associée à une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une microchirurgie d'urgence le 30 mai 2026, puis une neurolyse secondaire du nerf palmaire.
 
-L'Incapacité Totale de Travail (ITT) a été fixée à 56 jours (du 29/05/2026 au 23/07/2026) par le certificat médical initial. Une expertise médicale judiciaire ultérieure a conclu à une consolidation au 1er mars 2027 (12 mois), avec un Déficit Fonctionnel Permanent (DFP) de 12 % et des Souffrances Endurées (SE) de 4/7. La main droite dominante de la victime, informaticienne de profession, conserve une séquelle sensitive et fonctionnelle définitive dans le territoire du nerf collatéral radial de l'index, limitant sa dextérité fine et sa capacité de travail.
+L'ITT pénale a été fixée à **1 jour** par le certificat médical initial du Dr OXYBEL du 1er juin 2026, sous réserve de la réévaluation globale programmée à l'UMJ de Purpan le 12 novembre 2026. L'arrêt de travail total est de **55 jours** (du 29/05/2026 au 23/07/2026). Une expertise médicale judiciaire ultérieure a conclu à une consolidation au 1er mars 2027 (12 mois), avec un Déficit Fonctionnel Permanent (DFP) de 12 % et des Souffrances Endurées (SE) de 4/7. La main droite dominante de la victime, informaticienne de profession, conserve une séquelle sensitive et fonctionnelle définitive dans le territoire du nerf collatéral radial de l'index, limitant sa dextérité fine et sa capacité de travail.
 
 Par ailleurs, malgré des mises en demeure répétées, la société et ses dirigeants n'ont justifié d'aucune assurance de responsabilité civile professionnelle pour l'exploitation du salon.
 
@@ -58,11 +58,11 @@ Il convient de déterminer si ces faits sont constitutifs d'infractions pénales
 
 ### II.1 — SUR LES BLESSURES INVOLONTAIRES
 
-La fixation de la durée de l'Incapacité Totale de Travail (ITT) conditionne le seuil de qualification pénale. En l'espèce, le certificat médical initial a fixé l'ITT à 56 jours (≤ 3 mois). Toutefois, le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 retient une consolidation au 1er mars 2027, un DFP de 12 % et des SE de 4/7, caractérisant une atteinte fonctionnelle définitive de la main dominante.
+La fixation de la durée de l'ITT pénale conditionne le seuil de qualification pénale. En l'espèce, le certificat médical initial a fixé l'ITT pénale à 1 jour (≤ 3 mois), tandis que l'arrêt de travail total est de 55 jours. Toutefois, le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 retient une consolidation au 1er mars 2027, un DFP de 12 % et des SE de 4/7, caractérisant une atteinte fonctionnelle définitive de la main dominante.
 
 Deux scenarii se présentent :
 
-**Scénario A (prudent)** : l'ITT pénale est celle du certificat initial (56 jours, ≤ 3 mois). La qualification applicable est alors l'article **222-20** du Code pénal, sous réserve de rapporter la preuve d'une violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité. Le rapport d'expertise confirme la gravité des séquelles et la spécialité de la lésion (section complète du tendon FDP + atteinte nerveuse collatérale radiale), ce qui renforce la caractérisation de la faute.
+**Scénario A (prudent)** : l'ITT pénale est celle du certificat initial (1 jour, ≤ 3 mois). La qualification applicable est alors l'article **222-20** du Code pénal, sous réserve de rapporter la preuve d'une violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité. L'arrêt de travail total de 55 jours témoigne de la gravité objective des blessures. Le rapport d'expertise confirme la gravité des séquelles et la spécialité de la lésion (section complète du tendon FDP + atteinte nerveuse collatérale radiale), ce qui renforce la caractérisation de la faute.
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 > [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
@@ -204,7 +204,7 @@ Les chances d'aboutissement de la présente procédure d'information sont jugée
 Ce réquisitoire introductif est une **simulation** à vocation pédagogique et stratégique, s'inscrivant dans la continuité de la [Constitution de Partie Civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (J+38) et du [Rapport d'Expertise Médicale](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) (déposé le 12 juin 2027).
 
 **Scénarios de qualification :**
-- *Scénario A (prudent)* — ITT pénale limitée au certificat initial (56 jours ≤ 3 mois) → Art. 222-20 CP (délit)
+- *Scénario A (prudent)* — ITT pénale limitée au certificat initial (1 jour ≤ 3 mois) → Art. 222-20 CP (délit)
 
 - *Scénario B (offensif)* — ITT pénale étendue à la période d'incapacité fonctionnelle totale (12 mois > 3 mois) → Art. 222-19 CP (délit aggravé)
 

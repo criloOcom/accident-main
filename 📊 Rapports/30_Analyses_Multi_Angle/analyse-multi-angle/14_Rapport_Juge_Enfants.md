@@ -15,7 +15,7 @@ type: rapport
 
 ## I — INTRODUCTION ET SAISINE
 
-Le présent rapport est établi dans le cadre de l'examen de la situation familiale consécutive à l'accident survenu le 29 mai 2026 impliquant **[La Victime]**. L'analyse porte spécifiquement sur les répercussions potentielles de cet accident et de ses conséquences (ITT de 56 jours, préjudices professionnels et fonctionnels) sur le cadre de vie familial, sous le prisme du Juge des enfants et du Juge aux affaires familiales.
+Le présent rapport est établi dans le cadre de l'examen de la situation familiale consécutive à l'accident survenu le 29 mai 2026 impliquant **[La Victime]**. L'analyse porte spécifiquement sur les répercussions potentielles de cet accident et de ses conséquences (ITT de 55 jours, préjudices professionnels et fonctionnels) sur le cadre de vie familial, sous le prisme du Juge des enfants et du Juge aux affaires familiales.
 
 <hr><hr>
 

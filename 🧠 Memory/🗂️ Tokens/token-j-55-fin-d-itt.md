@@ -18,11 +18,11 @@ type: memory
 | Champ | Valeur |
 |---|---|
 | **Date** | 23 juillet 2026 (jeudi) |
-| **ITT totale** | 56 jours (29/05/2026 → 23/07/2026) |
+| **Arrêt de travail total** | 55 jours (29/05/2026 → 23/07/2026) |
 
 ## Description détaillée
 
-Date de fin de l'ITT (Incapacité Totale de Travail) — correspond à la date de consolidation présumée à 56 jours de l'accident.
+Date de fin de l'arrêt de travail total — correspond à la date de fin de la période d'incapacité temporaire totale, 55 jours après l'accident.
 
 À cette date :
 - **[La Victime]** est présumée apte à reprendre une activité professionnelle, sous réserve des limitations fonctionnelles résiduelles
@@ -31,7 +31,7 @@ Date de fin de l'ITT (Incapacité Totale de Travail) — correspond à la date d
 
 - Passage de la phase **ITT** (préjudices temporaires) à la phase **DFP** (préjudices permanents) dans l'évaluation Dintilhac
 
-⚠ ITT initiale erronée : **[Le Médecin Généraliste]** a noté 1 jour le 01/06/2026 — erreur matérielle rectifiée à 56 jours.
+⚠ ITT initiale erronée : **[Le Médecin Généraliste]** a noté 1 jour le 01/06/2026 — l'arrêt de travail total est de 55 jours (correspondant à la réalité clinique).
 
 ## Acteurs concernés
 
@@ -43,7 +43,7 @@ Date de fin de l'ITT (Incapacité Totale de Travail) — correspond à la date d
 
 - La fin de l'ITT délimite la période des **préjudices temporaires** (DFT, PGPA, ATP) de la période des **préjudices permanents** (DFP, SE, IP, PEP, agrément)
 
-- La durée de 56 jours sert au calcul du **DFT** (25 €/jour × 56 = 1 400 €)
+- La durée de 55 jours sert au calcul du **DFT** (25 €/jour × 55 = 1 375 €)
 
 - La durée de l'ITT est un indicateur de la **gravité objective** de l'accident
 

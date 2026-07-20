@@ -38,7 +38,7 @@ La rééducation est prolongée de 3 semaines supplémentaires.
 
 ## Conséquences juridiques
 
-- La prolongation de la kiné confirme la **durée effective de l'ITT** (au-delà de 27 jours, jusqu'à 56 jours — [J+55 Fin d'ITT](token-j-55-fin-d-itt.md)).
+- La prolongation de la kiné confirme la **durée effective de l'arrêt de travail** (au-delà de 27 jours, jusqu'à 55 jours — [J+55 Fin d'ITT](token-j-55-fin-d-itt.md)).
 
 - Les limitations résiduelles (force, sensibilité) préfigurent le **DFP** (Déficit Fonctionnel Permanent).
 

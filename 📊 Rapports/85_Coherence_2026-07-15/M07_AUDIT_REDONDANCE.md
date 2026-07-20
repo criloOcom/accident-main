@@ -43,9 +43,9 @@ L'évaluation des préjudices a évolué à plusieurs reprises, entraînant des 
 
 ### II.2 — Dates et Délais (ITT, Procédures)
 
-* **ITT Initiale vs ITT Totale** : La durée de l'Incapacité Totale de Travail (ITT) a été uniformisée à **56 jours** (du 29/05/2026 au 23/07/2026). Ce chiffre est correct et omniprésent.
+* **ITT Initiale vs ITT Totale** : La durée de l'Incapacité Totale de Travail (ITT) a été uniformisée à **55 jours** (du 29/05/2026 au 23/07/2026). Ce chiffre est correct et omniprésent.
 
-* **Incohérence documentaire expliquée** : Le document `🧠 Memory/🗂️ Tokens/token-j-55-fin-d-itt.md` (ligne 32) explique de manière claire que le certificat médical initial mentionnait "1 jour" par erreur matérielle et que cela a été rectifié à 56 jours. Ce point est géré.
+* **Incohérence documentaire expliquée** : Le document `🧠 Memory/🗂️ Tokens/token-j-55-fin-d-itt.md` (ligne 32) explique de manière claire que le certificat médical initial mentionnait "1 jour" par erreur matérielle et que cela a été rectifié à 55 jours. Ce point est géré.
 
 * **Redondance d'échéanciers** : Les listes d'actions et les échéances calendaires se chevauchent entre `🧠 Memory/TODO.md` et `🧠 Memory/STATUS.md` (ex: les actions du 15 juillet 2026), avec de nombreuses duplications sur l'état du "Plan A" ou des "Preuves MATÉRIELLES".
 

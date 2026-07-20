@@ -104,7 +104,7 @@ jx: J+47
 ### IV.1 — Résumé structuré (2-3 minutes max)
 
 **1. Rappel des faits initiaux (30 secondes) :**
-"Le 29 mai dernier, alors que je me trouvais en qualité de client dans ce salon, un employé est monté sur une vasque en céramique instable pour régler la télévision. La vasque a basculé, et ma main droite a heurté une cassure préexistante aux arêtes tranchantes. Résultat : une section nerveuse et tendineuse de l'index droit, une microchirurgie d'urgence, et 56 jours d'ITT avec des séquelles durables."
+"Le 29 mai dernier, alors que je me trouvais en qualité de client dans ce salon, un employé est monté sur une vasque en céramique instable pour régler la télévision. La vasque a basculé, et ma main droite a heurté une cassure préexistante aux arêtes tranchantes. Résultat : une section nerveuse et tendineuse de l'index droit, une microchirurgie d'urgence, et 55 jours d'arrêt de travail avec des séquelles durables."
 
 **2. Obstruction caractérisée (45 secondes) :**
 "Depuis l'accident, j'ai tenté à plusieurs reprises d'obtenir les coordonnées de l'assurance responsabilité civile de l'établissement, comme la loi l'exige (Article L. 124-3 du Code des assurances). J'ai envoyé des mises en demeure par LRAR aux dirigeants le 29 juin. Ces courriers m'ont été retournés 'défaut d'adresse', alors que la société est toujours officiellement immatriculée à cette adresse. Personne ne répond, ni aux courriers, ni aux appels. C'est une obstruction claire à mon droit d'agir contre l'assureur."

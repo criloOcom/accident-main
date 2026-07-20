@@ -184,7 +184,7 @@ Ce tableau remplace toute version antérieure. La référence d'une pièce est s
 | 1 | PV de police n° **[N° PV Police]** — dépôt de plainte | Assignation 01, Constitution PC 02b, Assignation 145 03 | Preuve de la réalité des faits et du déclenchement de l'enquête |
 | 2 | Certificat médical initial — **[Le Médecin en Urgence]** (J+0) | Assignation 01, Constitution PC 02b, Assignation 145 03 | Constat des blessures initiales, orientation SOS Main |
 | 3 | CR opératoire — **[Le Chirurgien SOS Main]** (J+1) | Assignation 01, Constitution PC 02b, Assignation 145 03 | Description lésions tendineuses/nerveuses, lien causal |
-| 4 | Arrêts de travail (ITT 56 jours, J+3 à J+55) | Assignation 01, Constitution PC 02b | Justification ITT, base du PGPA |
+| 4 | Arrêts de travail (55 jours, J+3 à J+55) | Assignation 01, Constitution PC 02b | Justification arrêt de travail, base du PGPA |
 | 5 | Réquisition UMJ + retranscription téléphonique rendez-vous | (référé expertise) | Traçabilité de la procédure pénale |
 
 ### Groupe B — Preuves financières (pièces 6-9)

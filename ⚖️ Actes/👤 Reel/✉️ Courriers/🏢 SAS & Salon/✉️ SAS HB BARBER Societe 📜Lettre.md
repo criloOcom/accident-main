@@ -133,7 +133,7 @@ Courriel : [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9
 
 Téléphone : [06 30 51 67 75](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)
 
-*Note administrative : ayant subi une section nerveuse et tendineuse profonde de la main droite dominante le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l’incapacité d’utiliser normalement un clavier ou d’écrire manuellement, ce qui explique la nécessaire délégation de certaines démarches administratives.*
+*Note administrative : ayant subi une section nerveuse et tendineuse profonde de la main droite dominante le [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), je suis actuellement en arrêt de travail total de 55 jours et dans l’incapacité d’utiliser normalement un clavier ou d’écrire manuellement, ce qui explique la nécessaire délégation de certaines démarches administratives.*
 <hr><hr>
 
 ## PIECES JOINTES

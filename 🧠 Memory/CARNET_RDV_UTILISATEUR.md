@@ -413,7 +413,7 @@ Sébastien GRAZIDE
 Pièces jointes : 11 documents
 NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de
 l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de
-travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier
+travail (arrêt de travail total de 55 jours) et dans l'incapacité d'utiliser normalement un clavier
 d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire
 justifie la prolongation involontaire de mes démarches administratives et les délais
 d'acheminement de la présente mise en demeure.
@@ -553,7 +553,7 @@ Je vous prie d'agréer, Monsieur le Président, l'expression de mes salutations 
 Sébastien GRAZIDE
 NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de
 l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de
-travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier
+travail (arrêt de travail total de 55 jours) et dans l'incapacité d'utiliser normalement un clavier
 d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire
 explique le délai de transmission de mes demandes administratives.
 
@@ -675,7 +675,7 @@ l'expression de mes salutations distinguées.
 Sébastien GRAZIDE
 NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de
 l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de
-travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier
+travail (arrêt de travail total de 55 jours) et dans l'incapacité d'utiliser normalement un clavier
 d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire
 justifie la prolongation involontaire de mes démarches administratives et les délais
 d'acheminement de la présente mise en demeure.
@@ -798,7 +798,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 Sébastien GRAZIDE
 NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de
 l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de
-travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier
+travail (arrêt de travail total de 55 jours) et dans l'incapacité d'utiliser normalement un clavier
 d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire
 explique le délai de transmission de mes demandes administratives.
 
@@ -925,7 +925,7 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 Sébastien GRAZIDE
 NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de
 l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de
-travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier
+travail (arrêt de travail total de 55 jours) et dans l'incapacité d'utiliser normalement un clavier
 d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire
 justifie la prolongation involontaire de mes démarches administratives et les délais
 d'acheminement de la présente mise en demeure.

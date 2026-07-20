@@ -95,7 +95,7 @@ Ce principe exige que la victime soit replacée dans la situation exacte où ell
 
 L'évaluation initiale du dossier s'établissait à [59 600 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-evaluation-initiale.md). Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**, pour cinq raisons principales :
 
-1. **DFT** non chiffré (56 jours × 25-30 €/jour = 1 400-1 680 €)
+1. **DFT** non chiffré (55 jours × 25-30 €/jour = 1 375-1 650 €)
 
 2. **Souffrances Endurées à 12 000 €** en dessous du Mornet 2024 (15 000 € minimum pour 4/7)
 
@@ -159,7 +159,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 **Définition :** Indemnise la perte de revenus durant l'incapacité temporaire totale (ITT).
 
 **Calcul technique :**
-- ITT : 56 jours (du 29 mai au [23 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md))
+- ITT : 55 jours (du 29 mai au [23 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md))
 
 - CA mensuel : 750 € → 750 / 30 × 56 = **1 400 €** (prorata)
 
@@ -167,7 +167,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 **Vérification :** Pour un indépendant, les IJ CPAM sont calculées sur le revenu annuel moyen des 3 dernières années (1/720e × 50 %). Sous réserve du relevé de débours CPAM.
 
-**Perte de chance complémentaire :** Impossibilité de prospecter pendant 56 jours peut porter ce poste de 1 380 à 1 900 €.
+**Perte de chance complémentaire :** Impossibilité de prospecter pendant 55 jours peut porter ce poste de 1 380 à 1 900 €.
 
 **Compromis retenu : 1 380 €** (formule Glose, arithmétiquement plus précise)
 
@@ -187,7 +187,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 **Définition :** Indemnise la perte de qualité de vie pendant la période traumatique (accident → consolidation). Ce poste avait été omis dans le dossier initial.
 
-**Calcul technique :** 56 jours × 25-30 €/jour = **1 400 € (bas)** à **1 680 € (haut)**
+**Calcul technique :** 55 jours × 25-30 €/jour = **1 375 € (bas)** à **1 650 € (haut)**
 
 **Compromis retenu : 1 400 €**
 
@@ -245,7 +245,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 - Stress post-traumatique
 
-- ITT 56 jours
+- ITT 55 jours
 
 **Analyse des écarts :** Notre estimation initiale (24 000 €) se situe dans la fourchette haute du Mornet 2024. Glose propose 5 000-12 000 €, fourchette très basse. La critique Glose valide notre fourchette à 15 000-24 000 €.
 
@@ -276,7 +276,7 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 
 2. Obligation d'adaptation ergonomique (souris verticale, logiciel dictée vocale, clavier ergonomique : ~1 000-3 200 €)
 
-3. Perte de clientèle (indépendant : 56 jours sans prospection)
+3. Perte de clientèle (indépendant : 55 jours sans prospection)
 
 4. Pénibilité accrue (travail plus lent, douleurs neuropathiques)
 
@@ -369,7 +369,7 @@ Ce poste avait été omis dans le dossier initial.
 **Définition :** Besoin d'aide pour les tâches domestiques et les actes de la vie quotidienne durant la période post-opératoire (courses, ménage, préparation des repas, transport).
 
 **Calcul technique :**
-- Période : 56 jours d'ITT avec incapacité fonctionnelle de la main droite dominante
+- Période : 55 jours d'ITT avec incapacité fonctionnelle de la main droite dominante
 
 - Taux horaire : 12-15 €/h (tarif moyen aide à domicile non médicalisée)
 
@@ -467,9 +467,9 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 > **Code de procédure pénale > Partie législative > Livre IV : De quelques procédures particulières > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction.[^17]**
 
 **Conditions cumulatives :**
-1. Infraction pénale caractérisée → blessures involontaires (art. 222-19 CP) — ITT 56 jours
+1. Infraction pénale caractérisée → blessures involontaires (art. 222-19 CP) — ITT 55 jours
 
-2. Seuil CIVI : ITT ≥ 1 mois → **largement dépassé** (56 jours)
+2. Seuil CIVI : ITT ≥ 1 mois → **largement dépassé** (55 jours)
 
 3. Auteur insolvable — condition remplie (capital 200 €)
 

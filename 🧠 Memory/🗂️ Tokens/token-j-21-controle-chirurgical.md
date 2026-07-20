@@ -43,7 +43,7 @@ Le chirurgien préconise la poursuite de la rééducation ([J+25 Première kiné
 
 ## Conséquences juridiques
 
-- Confirmation que l'ITT se prolonge au-delà de 21 jours (jusqu'à 56 jours — [J+55 Fin d'ITT](token-j-55-fin-d-itt.md)).
+- Confirmation que l'arrêt de travail se prolonge au-delà de 21 jours (jusqu'à 55 jours — [J+55 Fin d'ITT](token-j-55-fin-d-itt.md)).
 
 - Première évaluation clinique objective de la **consolidation en cours**.
 

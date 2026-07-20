@@ -22,7 +22,7 @@ type: memory
 
 ## Description détaillée
 
-Première consultation de contrôle chez le médecin généraliste. Prescription d'un arrêt de travail de **1 jour** (⚠ erreur matérielle — rectifiée à 56 jours plus tard, voir [J+55 Fin d'ITT](token-j-55-fin-d-itt.md)).
+Première consultation de contrôle chez le médecin généraliste. Prescription d'un arrêt de travail de **1 jour** (⚠ erreur matérielle — l'arrêt de travail total est de 55 jours, voir [J+55 Fin d'ITT](token-j-55-fin-d-itt.md)).
 
 La victime signale :
 - Douleurs persistantes de la main droite malgré les antalgiques
@@ -45,7 +45,7 @@ L'arrêt d'1 jour est erroné compte tenu de la nature de la blessure (microchir
 
 - Point de départ du suivi médical généraliste ([J+5 Ouverture CPAM](token-j-5-ouverture-cpam.md), [J+18 Incohérence CPAM](token-j-18-incoherence-cpam.md)).
 
-- Mention systématique de cette erreur dans les actes ; la durée retenue est **56 jours** (source STRICT VARIABLES).
+- Mention systématique de cette erreur dans les actes ; la durée d'arrêt de travail retenue est **55 jours** (source STRICT VARIABLES).
 
 ## Croisements
 

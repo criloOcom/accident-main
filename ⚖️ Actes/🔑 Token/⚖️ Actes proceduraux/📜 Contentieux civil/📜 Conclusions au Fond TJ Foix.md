@@ -73,7 +73,7 @@ La demanderesse a été immédiatement transportée aux urgences du [**[Centre H
 
 - Atteinte nerveuse nécessitant une neurolyse du nerf palmaire
 
-Une microchirurgie d'urgence a été réalisée le 30 mai 2026 en SOS Main, avec suture tendineuse et nerveuse et neurolyse. La demanderesse a ensuite bénéficié d'une rééducation fonctionnelle prolongée et d'un arrêt de travail de 56 jours (ITT du 29 mai au 23 juillet 2026).
+Une microchirurgie d'urgence a été réalisée le 30 mai 2026 en SOS Main, avec suture tendineuse et nerveuse et neurolyse. La demanderesse a ensuite bénéficié d'une rééducation fonctionnelle prolongée et d'un arrêt de travail de 55 jours (ITT du 29 mai au 23 juillet 2026).
 
 ### III.3 — 1.3 L'expertise judiciaire
 
@@ -286,7 +286,7 @@ La demande est fondée sur les frais exposés par la victime et non couverts par
 
 #### VI.3.c — 4.3.3 Perte de Gains Professionnels Actuels (PGPA)
 
-ITT de 56 jours (29 mai — 23 juillet 2026). La demanderesse exerçait la profession d'informaticien indépendant. La perte de chiffre d'affaires pendant la période d'ITT s'élève à 1 380 €, sur justificatifs des déclarations URSSAF (CA mensuel moyen : 750 €).
+ITT de 55 jours (29 mai — 23 juillet 2026). La demanderesse exerçait la profession d'informaticien indépendant. La perte de chiffre d'affaires pendant la période d'ITT s'élève à 1 380 €, sur justificatifs des déclarations URSSAF (CA mensuel moyen : 750 €).
 
 | Base d'évaluation | Montant |
 |-------------------|---------|

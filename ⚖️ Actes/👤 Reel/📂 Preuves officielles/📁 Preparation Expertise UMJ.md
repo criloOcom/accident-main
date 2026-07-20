@@ -39,7 +39,7 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/📁 Preparation Expertise U
 
 - [ ] **Prolongation 2** (30j)
 
-- [ ] Soit total ITT : 56 jours
+- [ ] Soit total ITT : 55 jours
 
 ### I.4 — SUIVI ET RÉÉDUCATION- [ ] **Consultation contrôle J+24** ([Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) — bonne cicatrisation, déficit neurologique)
 
@@ -78,6 +78,6 @@ reel_path: ../../👤 Reel/📂 Preuves officielles/📁 Preparation Expertise U
 
 3. **Rééducation :** En cours (kiné SOS Main), pronostic 1 an minimum
 
-4. **Incidence professionnelle :** Incapacité totale de travail 56 jours, reprise partielle à évaluer
+4. **Incidence professionnelle :** Incapacité totale de travail 55 jours, reprise partielle à évaluer
 
 5. **Préjudice :** Souffrances endurées 4/7, PGPA en cours, préjudice esthétique cicatriciel

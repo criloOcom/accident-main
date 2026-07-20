@@ -16,7 +16,7 @@ type: rapport
 
 ## I — LA CIVI (COMMISSION D'INDEMNISATION DES VICTIMES D'INFRACTIONS)
 
-- **Conditions (art. 706-3 CPP)** : La victime doit avoir subi un préjudice résultant de faits présentant le caractère matériel d'une infraction, entraînant une ITT égale ou supérieure à un mois ou une incapacité permanente. En l'espèce, l'infraction de blessures involontaires (art. 222-19 ou 222-20 du Code pénal) est caractérisée, et l'ITT de 56 jours (supérieure à 1 mois) remplit la condition de gravité.
+- **Conditions (art. 706-3 CPP)** : La victime doit avoir subi un préjudice résultant de faits présentant le caractère matériel d'une infraction, entraînant une ITT égale ou supérieure à un mois ou une incapacité permanente. En l'espèce, l'infraction de blessures involontaires (art. 222-19 ou 222-20 du Code pénal) est caractérisée, et l'ITT de 55 jours (supérieure à 1 mois) remplit la condition de gravité.
 
 - **Délais** : 3 ans à compter de la date de l'infraction (soit jusqu'au 29 mai 2029).
 

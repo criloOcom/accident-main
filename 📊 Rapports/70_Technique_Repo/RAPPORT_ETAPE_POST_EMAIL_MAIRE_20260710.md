@@ -93,7 +93,7 @@ type: rapport
 
 - Section nerveuse et tendineuse de la main droite dominante
 
-- Microchirurgie d'urgence et 56 jours d'ITT
+- Microchirurgie d'urgence et 55 jours d'ITT
 
 - Préjudice global estimé à ~92 000 € (nomenclature Dintilhac)
 

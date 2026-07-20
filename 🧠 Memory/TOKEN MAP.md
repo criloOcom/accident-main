@@ -179,7 +179,7 @@ type: memory
 <a id="token-j-54"></a>
 | [**[J+54]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-54.md) | 22 juillet 2026 — Dépôt plainte complémentaire HB BARBER + correction commissariat Foix |
 <a id="token-j-55-fin-d-itt"></a>
-| [**[J+55 Fin d'ITT]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md) | 23 juillet 2026 — Fin prévisionnelle ITT (56 jours) |
+| [**[J+55 Fin d'ITT]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md) | 23 juillet 2026 — Fin prévisionnelle arrêt de travail (55 jours) |
 <a id="token-j-167-expertise-umj"></a>
 | [**[J+167 Expertise UMJ]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) | 12 novembre 2026 — Expertise UMJ (réquisition judiciaire) |
 

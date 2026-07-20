@@ -26,7 +26,7 @@ type: memory
 Expertise médicale ordonnée par réquisition de l'autorité judiciaire (dans le cadre de l'enquête pénale ouverte par la [Constitution de Partie Civile](token-j-38-constitution-pc.md)). Réalisée à l'Unité Médico-Judiciaire (UMJ) de Purpan.
 
 L'expertise évalue :
-- La durée de l'ITT (56 jours confirmée ou révisée)
+- La durée de l'ITT pénale (1 jour selon CMI, arrêt de travail total de 55 jours)
 
 - Le taux de DFP — estimation : 12 %
 

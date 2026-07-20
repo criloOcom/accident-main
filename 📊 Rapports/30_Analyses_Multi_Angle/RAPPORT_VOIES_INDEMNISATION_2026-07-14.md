@@ -18,7 +18,7 @@ type: rapport
 
 Le recours devant la Commission d'Indemnisation des Victimes d'Infractions (CIVI), qui sollicite le FGTI, constitue une voie d'indemnisation subsidiaire ou principale selon la gravité des blessures et la nature de l'infraction, encadrée par le Code de procédure pénale.
 
-Dans le cas présent, **[La Victime]** a subi un préjudice corporel évalué à ~109 500 € (évaluation Dintilhac principale) avec une Incapacité Totale de Travail (ITT) de 56 jours et un Déficit Fonctionnel Permanent (DFP) évalué à 12 %.
+Dans le cas présent, **[La Victime]** a subi un préjudice corporel évalué à ~109 500 € (évaluation Dintilhac principale) avec une Incapacité Totale de Travail (ITT) de 55 jours et un Déficit Fonctionnel Permanent (DFP) évalué à 12 %.
 
 Les conditions d'ouverture du droit à l'indemnisation intégrale par la CIVI sont définies par l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312693). Toute personne ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages si les faits ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail d'au moins un mois. Les seuils sont donc franchis en l'espèce (ITT > 1 mois, DFP prévisible).
 
@@ -63,7 +63,7 @@ Pour pallier cette carence, une mesure d'instruction in futurum est nécessaire.
 
 ## III — LA RESPONSABILITÉ DE L'ÉTAT ET L'AIDE AU RECOUVREMENT
 
-Dans l'hypothèse où le responsable est insolvable (risque majeur vu le capital social de 200 €) et non assuré, et si les conditions de la CIVI n'étaient finalement pas réunies (hypothèse d'école ici vu l'ITT de 56 jours), des mécanismes subsidiaires liés au recouvrement des dommages et intérêts alloués par une juridiction pénale existent (ex: SARVI), plafonnés à 3 000 €.
+Dans l'hypothèse où le responsable est insolvable (risque majeur vu le capital social de 200 €) et non assuré, et si les conditions de la CIVI n'étaient finalement pas réunies (hypothèse d'école ici vu l'ITT de 55 jours), des mécanismes subsidiaires liés au recouvrement des dommages et intérêts alloués par une juridiction pénale existent (ex: SARVI), plafonnés à 3 000 €.
 
 La responsabilité de l'État pour fonctionnement défectueux du service public de la justice pourrait être envisagée en cas de carence caractérisée dans le traitement de la plainte, sur le fondement de l'[Article L141-1 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029760280). L'État est tenu de réparer le dommage causé par le fonctionnement défectueux du service de la justice (faute lourde ou déni de justice). Toutefois, l'indemnisation par la CIVI reste la voie privilégiée dans notre cas.
 

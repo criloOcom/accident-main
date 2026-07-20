@@ -133,7 +133,7 @@ Courriel : [**[L'Email de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9
 
 Téléphone : [**[Le Téléphone de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)
 
-*Note administrative : ayant subi une section nerveuse et tendineuse profonde de la main droite dominante le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l’incapacité d’utiliser normalement un clavier ou d’écrire manuellement, ce qui explique la nécessaire délégation de certaines démarches administratives.*
+*Note administrative : ayant subi une section nerveuse et tendineuse profonde de la main droite dominante le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), je suis actuellement en arrêt de travail total de 55 jours et dans l’incapacité d’utiliser normalement un clavier ou d’écrire manuellement, ce qui explique la nécessaire délégation de certaines démarches administratives.*
 <hr><hr>
 
 ## PIECES JOINTES

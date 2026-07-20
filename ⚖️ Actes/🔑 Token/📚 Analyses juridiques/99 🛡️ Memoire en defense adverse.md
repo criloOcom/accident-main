@@ -51,7 +51,7 @@ Les attestations Cerfa évoquées par la partie adverse ne sont, à ce stade, qu
 #### II.1.c — Incohérences documentaires
 Le PV de police n°[N° PV Police], sur lequel s'appuie la victime, comporte des erreurs factuelles (adresse erronée "22, RUE DE LA FAURIE").
 
-De plus, les certificats médicaux initiaux faisaient état d'une ITT de 1 jour, inexplicablement portée à 56 jours par la suite, avec des incohérences sur la date de l'accident (29/06/2026 au lieu de 29/05/2026 sur certains documents).
+De plus, les certificats médicaux initiaux faisaient état d'une ITT de 1 jour, inexplicablement portée à 55 jours par la suite, avec des incohérences sur la date de l'accident (29/06/2026 au lieu de 29/05/2026 sur certains documents).
 
 ### II.2 — La faute de la victime comme cause d'exonération
 
@@ -92,7 +92,7 @@ En conséquence, la demande indemnitaire au titre du DFP (Déficit Fonctionnel P
 ### IV.2 — Contestation des postes de la nomenclature Dintilhac
 
 #### IV.2.a — Pertes de Gains Professionnels Actuels (PGPA)
-Réclamés à hauteur de 1 400 € pour 56 jours d'ITT. Une coupure tendineuse, bien que nécessitant un arrêt, ne justifie pas une paralysie totale d'une activité d'informaticien indépendant.
+Réclamés à hauteur de 1 400 € pour 55 jours d'ITT. Une coupure tendineuse, bien que nécessitant un arrêt, ne justifie pas une paralysie totale d'une activité d'informaticien indépendant.
 
 #### IV.2.b — Incidence Professionnelle (IP)
 Chiffrée à 30 000 €. Outre le fait que l'IP est un poste permanent (nécessitant la consolidation), accorder l'IP en plus des PGPA pour la même incapacité professionnelle caractérise un enrichissement sans cause et une double indemnisation interdite par la Cour de cassation.

@@ -93,7 +93,7 @@ Ce rapport analyse la conformité des démarches procédurales engagées et à v
 
 * **15 juillet 2026 (Échéance) :** Dépôt du dossier d'Aide Juridictionnelle (délai estimé : réponse mi-août 2026).
 
-* **23 juillet 2026 (J+55) :** Fin prévisionnelle de la première période d'ITT de 56 jours.
+* **23 juillet 2026 (J+55) :** Fin prévisionnelle de la première période d'ITT de 55 jours.
 
 * **03 septembre 2026 :** Expiration du délai de 3 mois de l'article 85 du CPP. Ouverture du droit à constitution de partie civile par voie d'action.
 

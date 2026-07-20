@@ -26,7 +26,7 @@ L'objectif de cette note est d'évaluer le potentiel d'une résolution amiable, 
 
 2. **Mécanisme :** Chute d'un équipement (vasque de shampoing) entraînant une blessure sévère à la main droite de **[La Victime]** (section tendineuse et nerveuse à l'index droit).
 
-3. **Conséquences médicales :** Chirurgie en urgence le 30 mai 2026 par **[Le Chirurgien SOS Main]**, suivie d'une Incapacité Totale de Travail (ITT) de 56 jours.
+3. **Conséquences médicales :** Chirurgie en urgence le 30 mai 2026 par **[Le Chirurgien SOS Main]**, suivie d'une Incapacité Totale de Travail (ITT) de 55 jours.
 
 4. **Preuve de présence :** Un paiement (15 €) validé puis remboursé atteste de la présence et de la relation contractuelle au moment des faits.
 
@@ -55,7 +55,7 @@ Sur la base du barème Mornet (2024) et de la Nomenclature Dintilhac, un terrain
 
 ### III.1 — Préjudices patrimoniaux
 
-- **Perte de Gains Professionnels Actuels (PGPA) :** L'évaluation conservatoire s'établit à 1 380 € (sur la base d'une ITT de 56 jours rapportée au CA mensuel de 750 €).
+- **Perte de Gains Professionnels Actuels (PGPA) :** L'évaluation conservatoire s'établit à 1 380 € (sur la base d'une ITT de 55 jours rapportée au CA mensuel de 750 €).
 
 - **Frais de Santé Actuels (DSA) :** 790,23 € (facture de chirurgie SOS Main) + environ 15 € (prestation remboursée).
 

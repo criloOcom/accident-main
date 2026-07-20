@@ -95,7 +95,7 @@ La victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiff
 **I. Rappel des faits initiaux**
 - Accident du 29/05/2026 (description précise)
 
-- Blessures subies (section nerveuse, microchirurgie, 56 jours ITT)
+- Blessures subies (section nerveuse, microchirurgie, 55 jours ITT)
 
 - PV initial n°2026/015967
 

@@ -21,7 +21,7 @@ Le présent rapport est établi à la suite de la constitution de partie civile 
 
 Il ressort de l'examen de la plainte et des premières pièces produites que le préposé du salon, **[Le Préposé de l'Exploitation]**, a utilisé une vasque en céramique (présentant une cassure aux arêtes tranchantes non signalée) comme promontoire. Sous l'effet du poids, l'équipement a basculé. Par réflexe de protection, **[La Victime]** a tendu la main droite, heurtant la section tranchante, ce qui a causé une grave blessure (section nerveuse et tendineuse).
 
-Les certificats médicaux, notamment celui de **[Le Chirurgien SOS Main]** après la microchirurgie d'urgence à **[L'Établissement SOS Main]**, font état d'une incapacité totale de travail (ITT) de 56 jours.
+Les certificats médicaux, notamment celui de **[Le Chirurgien SOS Main]** après la microchirurgie d'urgence à **[L'Établissement SOS Main]**, font état d'une incapacité totale de travail (ITT) de 55 jours.
 
 <hr><hr>
 

@@ -30,7 +30,7 @@ reel_path: ../../👤 Reel/🗄️ Archives/✅ Bordereau Pieces 15 Juillet.md
 
 - **Pièce n°2 :** [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) + comptes-rendus médicaux principaux — TJ (145) + plainte — Inclure mention de la plaie palmaire, tendon + nerf, ITT 56j
 
-- **Pièce n°3 :** [Arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT 56 jours) — TJ (145) + plainte — Permet de justifier la durée de l'ITT
+- **Pièce n°3 :** [Arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (55 jours) — TJ (145) + plainte — Permet de justifier la durée de l'ITT
 
 - **Pièce n°4 :** Photos de la main (plaie / cicatrice) — TJ (145) + plainte — Avant/après si possible, datées
 

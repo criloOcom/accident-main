@@ -29,7 +29,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^1]**
 - **Infraction pénale** : Oui, blessures involontaires (art. 222-19 CP) par manquement à une obligation de sécurité.
 
-- **Seuil de gravité** : L'Incapacité Totale de Travail (ITT) est de 56 jours, ce qui est largement supérieur au seuil légal d'un mois (30 jours) exigé par l'article 706-3, 2° du CPP.
+- **Seuil de gravité** : L'Incapacité Totale de Travail (ITT) est de 55 jours, ce qui est largement supérieur au seuil légal d'un mois (30 jours) exigé par l'article 706-3, 2° du CPP.
 
 - **Nationalité/Lieu** : La victime est de nationalité française et les faits se sont produits sur le territoire national.
 
@@ -81,7 +81,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 
 - Copie de la plainte et du procès-verbal de police (n°[N° PV Police]).
 
-- Certificats médicaux (dont le CMI constatant les blessures) et [arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant de l'ITT de 56 jours.
+- Certificats médicaux (dont le CMI constatant les blessures) et [arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant de l'ITT de 55 jours.
 
 - Comptes-rendus opératoires (notamment SOS Main).
 

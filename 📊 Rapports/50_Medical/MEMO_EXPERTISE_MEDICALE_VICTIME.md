@@ -41,7 +41,7 @@ L'expert basera son évaluation sur les documents médicaux que vous lui fournir
 
 - L'ordonnance de sortie de SOS Main avec les antalgiques prescrits (30/05/2026).
 
-- **L'intégralité de vos arrêts de travail** (certificats d'ITT prescrits par le Dr **[Le Médecin Généraliste]** totalisant 56 jours).
+- **L'intégralité de vos arrêts de travail** (certificats d'ITT prescrits par le Dr **[Le Médecin Généraliste]** totalisant 55 jours).
 
 - Les comptes-rendus de consultations de suivi chirurgical (J+24, etc.).
 

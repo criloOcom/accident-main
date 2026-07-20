@@ -149,7 +149,7 @@ Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels rés
 > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^10]**
 - La victime doit être de nationalité française ou les faits commis sur le territoire national.
 
-- Le dommage corporel doit présenter une certaine gravité (ITT ≥ 1 mois — condition remplie avec 56 jours d'ITT).
+- Le dommage corporel doit présenter une certaine gravité (ITT ≥ 1 mois — condition remplie avec 55 jours d'ITT).
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 
@@ -175,7 +175,7 @@ L'évaluation des préjudices subis par [Sébastien GRAZIDE](../../../%F0%9F%A7%
 
 | Poste de préjudice | Montant |
 |--------------------|---------|
-| Pertes de Gains Professionnels Actuels (PGPA) — 56 jours d'ITT | 1 400 € |
+| Pertes de Gains Professionnels Actuels (PGPA) — 55 jours d'ITT | 1 400 € |
 | Incidence Professionnelle (IP) — séquelles structurelles, aménagement ergonomique | 15 000 € |
 | Déficit Fonctionnel Permanent (DFP) — 12 % estimé, 44 ans | 25 200 € |
 | Souffrances Endurées — 4/7 (microchirurgie, rééducation) | 12 000 € |

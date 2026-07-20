@@ -248,7 +248,7 @@ type: rapport
 
 - **Vérification :** J+167 à 13h45 = 12/11/2026 — 5 mois après l'accident, délai classique
 
-- **Cohérence :** ITT = 56 jours (fin le 23/07/2026) → expertise UMJ le 12/11/2026 → consolidation médicale retenue au 01/03/2027 ✓
+- **Cohérence :** ITT = 55 jours (fin le 23/07/2026) → expertise UMJ le 12/11/2026 → consolidation médicale retenue au 01/03/2027 ✓
 
 ---
 

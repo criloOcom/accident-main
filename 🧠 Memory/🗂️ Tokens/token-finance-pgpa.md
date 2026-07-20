@@ -25,4 +25,4 @@ type: memory
 
 ## Contexte
 
-Calcul : 56 jours × (750 € / 30,44) = 1 380 €. Correspond à l'évaluation conservative Glose (juillet 2026). L'évaluation optimiste est de 1 900 € (incluant 500 € de perte de chance).
+Calcul : 55 jours × (750 € / 30,44) = 1 355 €. Correspond à l'évaluation conservative Glose (juillet 2026). L'évaluation optimiste est de 1 900 € (incluant 500 € de perte de chance).

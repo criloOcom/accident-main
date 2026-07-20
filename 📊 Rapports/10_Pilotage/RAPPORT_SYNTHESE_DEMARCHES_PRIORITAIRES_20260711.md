@@ -47,7 +47,7 @@ type: rapport
 
 - **Blessure** : Section nerveuse et tendineuse profonde de l'index droit (main dominante)
 
-- **Conséquences** : Microchirurgie d'urgence, 56 jours d'ITT, récupération partielle sur 1 an
+- **Conséquences** : Microchirurgie d'urgence, 55 jours d'ITT, récupération partielle sur 1 an
 
 - **Impact professionnel** : Informaticien indépendant incapable d'utiliser sa main droite
 

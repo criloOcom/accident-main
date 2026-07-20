@@ -87,17 +87,17 @@ Tous les arrêts listés dans [📜 Lois/README.md](../../%E2%9A%96%EF%B8%8F%20A
 
 | Élément | Valeur |
 |---------|--------|
-| ITT déclarée | **56 jours** (= ~2 mois) |
+| ITT déclarée | **55 jours** (= ~2 mois) |
 | Seuil 222-19 CP | ITT **> 3 mois** (> 90 jours) |
 | Seuil 222-20 CP | ITT **≤ 3 mois** |
 | Qualification dans les courriers | 222-19 ET 222-20 (cumul) |
 
-**Problème** : L'article 222-19 CP exige une ITT > 3 mois. Avec 56 jours, le seuil n'est pas atteint. Le juge re-qualifiera nécessairement en 222-20 CP.
+**Problème** : L'article 222-19 CP exige une ITT > 3 mois. Avec 55 jours, le seuil n'est pas atteint. Le juge re-qualifiera nécessairement en 222-20 CP.
 
 **Risque** : Faible puisque les deux articles sont cités. Mais la référence à 222-19 est juridiquement inexacte et pourrait affaiblir la crédibilité de la constitution de partie civile.
 
 **Recommandation** :
-- Si ITT confirmée à 56 jours → **supprimer 222-19**, ne conserver que 222-20
+- Si ITT confirmée à 55 jours → **supprimer 222-19**, ne conserver que 222-20
 
 - Si extension médicale de l'ITT > 3 mois → maintenir les deux
 

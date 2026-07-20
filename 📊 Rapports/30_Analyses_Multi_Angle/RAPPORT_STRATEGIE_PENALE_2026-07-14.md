@@ -23,7 +23,7 @@ L'objet de ce rapport est d'analyser la dimension pénale de l'accident dont a �
 L'analyse des faits permet de dégager plusieurs qualifications pénales potentielles, tant à l'encontre de la personne morale **[L'Exploitant du Commerce (La SAS)]** que de ses dirigeants et préposés.
 
 ### I.1 — 1.1 Blessures involontaires (ITT ≤ 3 mois)
-L'accident a entraîné une ITT de 56 jours pour **[La Victime]**.
+L'accident a entraîné une ITT de 55 jours pour **[La Victime]**.
 * **Fondement juridique :** Article 222-20 du Code pénal.
 
 * **Incrimination :** Le fait de causer à autrui, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois.
@@ -54,7 +54,7 @@ Le signalement ou la plainte simple sera adressé au Procureur de la République
   * La plainte doit être exhaustive, chronologique et factuelle.
   * Elle doit lister l'identité complète de la victime (**[La Victime]**), de la personne morale mise en cause (**[L'Exploitant du Commerce (La SAS)]**), ainsi que des dirigeants.
   * Elle détaillera le mécanisme de l'accident du 29 mai 2026 (le basculement de la vasque endommagée).
-  * Les pièces médicales (certificat du chirurgien SOS Main du 30 mai 2026, arrêt de travail justifiant 56 jours d'ITT) doivent être jointes.
+  * Les pièces médicales (certificat du chirurgien SOS Main du 30 mai 2026, arrêt de travail justifiant 55 jours d'ITT) doivent être jointes.
 * **Suites attendues (Art. 40 CPP) :**
 
   * Le Procureur de la République "reçoit les plaintes et les dénonciations et apprécie la suite à leur donner".

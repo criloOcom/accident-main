@@ -68,7 +68,7 @@ Deux scénarios sont étudiés :
    Revenu net annuel moyen retenu : **9 000 €** (soit 750 €/mois), correspondant au niveau d'activité d'indépendant de la victime au moment des faits.
 
 2. **Durée d'incapacité temporaire**  
-   Période d'interruption totale d'activité : **56 jours** (soit environ 2 mois) avec gêne majeure dans les actes usuels.
+   Période d'interruption totale d'activité : **55 jours** (soit environ 2 mois) avec gêne majeure dans les actes usuels.
 
 3. **Déficit fonctionnel permanent (DFP)**  
    À défaut d'un taux fixé par expertise judiciaire, deux hypothèses :

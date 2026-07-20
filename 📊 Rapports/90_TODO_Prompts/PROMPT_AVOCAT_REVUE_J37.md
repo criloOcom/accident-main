@@ -84,7 +84,7 @@ Je vous détaille ci-dessous chaque courrier pour vous permettre d'en prendre co
    - Limitations fonctionnelles permanentes
 
 **Description détaillée** :
-Le courrier rappelle le parcours médical complet : chirurgie d'urgence le J+1 (suture tendineuse 6 brins, microchirurgie nerveuse et vasculaire éthylon 9-0, neurolyse), consultation de contrôle à J+25 ayant constaté une bonne cicatrisation, prescription de kinésithérapie 3×/semaine sans travail en résistance pendant 4 semaines. Il décrit l'état actuel : kinésithérapie en cours, ITT jusqu'à J+55 (56 jours), sensibilité de l'index altérée, flexion active limitée, douleur neuropathique persistante. Le ton est médical, précis, sans émotion. La note administrative finale précise que la victime est en arrêt de travail et dans l'incapacité d'utiliser un clavier, expliquant les délais de transmission.
+Le courrier rappelle le parcours médical complet : chirurgie d'urgence le J+1 (suture tendineuse 6 brins, microchirurgie nerveuse et vasculaire éthylon 9-0, neurolyse), consultation de contrôle à J+25 ayant constaté une bonne cicatrisation, prescription de kinésithérapie 3×/semaine sans travail en résistance pendant 4 semaines. Il décrit l'état actuel : kinésithérapie en cours, ITT jusqu'à J+55 (55 jours), sensibilité de l'index altérée, flexion active limitée, douleur neuropathique persistante. Le ton est médical, précis, sans émotion. La note administrative finale précise que la victime est en arrêt de travail et dans l'incapacité d'utiliser un clavier, expliquant les délais de transmission.
 
 **Enjeu** : Le certificat de consolidation est indispensable pour l'évaluation Dintilhac et la fixation des préjudices (DFP, IP, SE). Sans lui, aucune indemnisation définitive n'est possible.
 

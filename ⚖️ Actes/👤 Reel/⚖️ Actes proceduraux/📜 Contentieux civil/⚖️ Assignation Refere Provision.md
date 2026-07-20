@@ -79,7 +79,7 @@ Cet état de handicap temporaire sévère et documenté explique et justifie le 
 
 Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du [2 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md)) **(Pièce n°1)**. Un dossier de Recours contre Tiers a également été ouvert auprès de la CPAM sous la référence [ ... ] **(Pièce n°9)**.
 
-À ce jour, le cumul des [arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) prescrits s'élève à 56 jours d'ITT continue (du [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au [23 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md) inclus) **(Pièce n°4)**.
+À ce jour, le cumul des [arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) prescrits s'élève à 55 jours d'ITT continue (du [29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au [23 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md) inclus) **(Pièce n°4)**.
 <hr><hr>
 
 ## III — DISCUSSION JURIDIQUE
@@ -207,11 +207,11 @@ Le montant de 15 000 € sollicité à titre de provision est justifié par les 
 
 **1. Le montant se situe dans la fourchette basse des provisions usuelles**
 
-Le référentiel indicatif des cours d'appel fixe la fourchette des provisions pour blessures légères à modérées entre **10 000 € et 20 000 €**. Le cas d'[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (section tendineuse et nerveuse de la main droite dominante, intervention chirurgicale lourde, ITT de 56 jours, séquelles nerveuses persistantes, absence de consolidation) se situe dans cette catégorie. La demande de 15 000 € constitue le **minimum de cette fourchette**.
+Le référentiel indicatif des cours d'appel fixe la fourchette des provisions pour blessures légères à modérées entre **10 000 € et 20 000 €**. Le cas d'[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (section tendineuse et nerveuse de la main droite dominante, intervention chirurgicale lourde, ITT de 55 jours, séquelles nerveuses persistantes, absence de consolidation) se situe dans cette catégorie. La demande de 15 000 € constitue le **minimum de cette fourchette**.
 
 **2. La provision est proportionnée au préjudice global estimé**
 
-S'agissant de l'évaluation des préjudices corporels de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), il sera renvoyé au rapport d'évaluation indemnitaire barémique établi le 13 juillet 2026 selon la méthode Dintilhac (pièce n° 44), lequel reprend de manière structurée l'ensemble des postes patrimoniaux et extra-patrimoniaux, temporaires et permanents. Ce rapport, fondé sur la situation réelle de la victime (informaticien indépendant percevant un revenu annuel net d'environ 9 000 €, atteinte de la main droite dominante, 56 jours d'interruption totale d'activité, séquelles fonctionnelles persistantes), retient deux hypothèses de déficit fonctionnel permanent, à savoir un scénario prudent à 10 % et un scénario médian à 15 %. Sur cette base, il aboutit à un montant global d'indemnisation avant recours de la CPAM d'environ 126 000 € (scénario prudent, formant le plancher de négociation, arrondi à 130 000 €) et 161 500 € (scénario médian, correspondant au point d'équilibre d'une indemnisation intégrale, dans une fourchette de 160 000 à 165 000 €). La provision de [15 000 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) sollicitée à titre provisoire s'inscrit très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.
+S'agissant de l'évaluation des préjudices corporels de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), il sera renvoyé au rapport d'évaluation indemnitaire barémique établi le 13 juillet 2026 selon la méthode Dintilhac (pièce n° 44), lequel reprend de manière structurée l'ensemble des postes patrimoniaux et extra-patrimoniaux, temporaires et permanents. Ce rapport, fondé sur la situation réelle de la victime (informaticien indépendant percevant un revenu annuel net d'environ 9 000 €, atteinte de la main droite dominante, 55 jours d'interruption totale d'activité, séquelles fonctionnelles persistantes), retient deux hypothèses de déficit fonctionnel permanent, à savoir un scénario prudent à 10 % et un scénario médian à 15 %. Sur cette base, il aboutit à un montant global d'indemnisation avant recours de la CPAM d'environ 126 000 € (scénario prudent, formant le plancher de négociation, arrondi à 130 000 €) et 161 500 € (scénario médian, correspondant au point d'équilibre d'une indemnisation intégrale, dans une fourchette de 160 000 à 165 000 €). La provision de [15 000 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) sollicitée à titre provisoire s'inscrit très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.
 
 **3. La provision inclut une part *ad litem***
 
@@ -265,7 +265,7 @@ Il est donc demandé au juge des référés d'ordonner à [SAS LES MAUVAIS GARCO
 [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.
 
 - **(PGPA) Pertes de Gains Professionnels Actuels** : <br>
-    Evaluées à [1 380 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-pgpa.md) au titre de la perte de revenus durant les 56 jours d'ITT (sur la base du chiffre d'affaires mensuel moyen de 750 € déclaré à l'URSSAF).
+    Evaluées à [1 380 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-pgpa.md) au titre de la perte de revenus durant les 55 jours d'ITT (sur la base du chiffre d'affaires mensuel moyen de 750 € déclaré à l'URSSAF).
 
 - **(DFP / AIPP) Déficit Fonctionnel Permanent** : <br>
     Chiffrage provisionnel et indicatif, sous réserve de consolidation médicale future et d'expertise judiciaire contradictoire. Estimation provisoire sur la base d'un taux de 10 % ([25 000 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-dfp.md) au barème de capitalisation pour un homme de 44 ans).
@@ -340,7 +340,7 @@ Pour [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8
 
 3. [Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par [Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) ([30 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md))
 
-4. Certificats médicaux d'[arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 56 jours d'ITT
+4. Certificats médicaux d'[arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 55 jours d'ITT
 
 5. Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
 

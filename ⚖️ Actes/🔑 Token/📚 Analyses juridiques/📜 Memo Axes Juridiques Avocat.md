@@ -17,7 +17,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Memo Axes Juridiques Av
 
 | Article | Usage |
 |---------|-------|
-| **C. pén. art. 222-20** | Blessures involontaires avec ITT ≤ 3 mois (notre cas : 1 jour ITT pénale, 15 jours AT, 56 jours ITT réelle) |
+| **C. pén. art. 222-20** | Blessures involontaires avec ITT ≤ 3 mois (notre cas : 1 jour ITT pénale, 15 jours AT, 55 jours arrêt de travail) |
 | **C. pén. art. 121-3** | Principe de la responsabilité pénale — faute simple suffit (imprudence, négligence, manquement obligation sécurité) |
 | **C. pén. art. 223-1** | Mise en danger délibérée d'autrui — bac déjà brisé maintenu en service dans un ERP (condition : violation délibérée d'une obligation de sécurité) |
 

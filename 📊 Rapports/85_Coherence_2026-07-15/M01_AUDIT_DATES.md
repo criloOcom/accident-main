@@ -18,7 +18,7 @@ Cet audit recense les incohérences de dates détectées par rapport aux dates c
 
 - **DATE_CHIRURGIE_SOS_MAIN** : 30 mai 2026
 
-- **ITT** : 56 jours (29/05/2026 → 23/07/2026)
+- **ITT** : 55 jours (29/05/2026 → 23/07/2026)
 
 - **Expertise UMJ** : 12 novembre 2026
 

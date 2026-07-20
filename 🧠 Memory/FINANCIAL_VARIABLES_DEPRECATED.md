@@ -35,7 +35,7 @@ Ces valeurs correspondent aux estimations raisonnables de réparation du préjud
 
 | Poste de préjudice (Dintilhac) | Token associé | Montant | Détails |
 | :--- | :--- | :--- | :--- |
-| **(PGPA) Pertes de gains pros actuels** | [`[Finance PGPA]`](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-pgpa.md) | **1 380 €** | Basé sur 56 jours d'ITT et 750 €/mois de CA |
+| **(PGPA) Pertes de gains pros actuels** | [`[Finance PGPA]`](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-pgpa.md) | **1 355 €** | Basé sur 55 jours d'arrêt de travail et 750 €/mois de CA |
 | **(DFP) Déficit fonctionnel permanent** | [`[Finance DFP]`](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-dfp.md) | **25 000 €** | Taux estimé à 10% avant consolidation définitive |
 | **(SE) Souffrances endurées** | [`[Finance Souffrances Endurées]`](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-souffrances-endurees.md) | **15 000 €** | Niveau évalué à 4/7 |
 | **(IP) Incidence professionnelle** | [`[Finance Incidence Professionnelle]`](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-incidence-professionnelle.md) | **30 000 €** | Dévalorisation et aménagement ergonomique |

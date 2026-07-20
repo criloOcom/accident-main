@@ -43,7 +43,7 @@ Notre cas :
 
 - Intervention chirurgicale SOS Main
 
-- ITT de 56 jours
+- Arrêt de travail de 55 jours
 
 - Séquelles nerveuses persistantes
 
@@ -57,7 +57,7 @@ La provision de 15 000 € comprend :
 
 | Poste | Montant | Justification |
 |-------|---------|---------------|
-| PGPA | 1 380 € | 56 jours × 750 €/30 jours |
+| PGPA | 1 355 € | 55 jours × 750 €/30 jours |
 | Frais médicaux | 5 000 € | Kiné, déplacements, frais futurs |
 | Souffrances endurées | 5 000 € | Provision partielle en attente expertise |
 | Incidence professionnelle | 1 620 € | Provision partielle en attente expertise |

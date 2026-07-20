@@ -48,7 +48,7 @@ Je soussigné [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%8
 
 Alors que je me trouvais installé au bac à shampoing, un salarié du salon est monté sur la vasque en céramique pour régler un téléviseur, en l'absence de tout équipement adapté (escabeau, marchepied). En descendant, la vasque a basculé brutalement. En tentant de le protéger par réflexe, j'ai tendu ma main droite — ma main dominante — qui a heurté une cassure majeure préexistante, non signalée, sur le flanc de la vasque.
 
-Cet accident a entraîné une section complète du tendon fléchisseur profond (FDP) de l'index droit, ainsi qu'une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une intervention de microchirurgie d'urgence le 30 mai 2026. Mon Incapacité Totale de Travail a été initialement fixée à 56 jours, avant une longue phase de rééducation.
+Cet accident a entraîné une section complète du tendon fléchisseur profond (FDP) de l'index droit, ainsi qu'une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une intervention de microchirurgie d'urgence le 30 mai 2026. Mon arrêt de travail total a été initialement fixé à 55 jours, avant une longue phase de rééducation.
 
 Une expertise médicale judiciaire a depuis été réalisée. Par rapport en date du 12 juin 2027, l'expert retient notamment :
 
@@ -85,7 +85,7 @@ En application de ce texte, je vous mets donc formellement en demeure, en votre 
 4. **Me verser, à titre de provision**, une somme de **15 000 € (quinze mille euros)** à valoir sur l'indemnisation définitive de mes préjudices, montant cohérent avec :
 
    - la preuve de l'accident et des lésions (PV de police, certificat médical initial, compte-rendu opératoire),
-   - la durée d'ITT (56 jours) et la consolidation à 12 mois,
+   - la durée d'arrêt de travail (55 jours) et la consolidation à 12 mois,
    - les conclusions de l'expertise médicale judiciaire (DFP 12 %, SE 4/7, incidence professionnelle majeure),
    - les évaluations Dintilhac déjà produites.
 

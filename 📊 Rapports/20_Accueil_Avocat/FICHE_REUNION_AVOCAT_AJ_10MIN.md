@@ -22,7 +22,7 @@ Points à mentionner très vite :
 
 - Vous tendez la main par réflexe pour **protéger le préposé**,
 
-- Résultat : **section tendons/nerfs**, chirurgie, ITT 56 jours.
+- Résultat : **section tendons/nerfs**, chirurgie, ITT 55 jours.
 
 ### I.2 — Le problème juridique central (1 minute)
 

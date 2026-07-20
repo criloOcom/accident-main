@@ -39,7 +39,7 @@ Le dossier repose sur deux pièces médicales fondamentales :
 
 L'examen de ces pièces permet de qualifier le certificat médical initial de **complet sur le plan descriptif**. Il Objective une plaie suturée d'environ 8,5 cm de grand axe à la face palmaire de la main droite (main dominante).
 
-*Remarque médico-légale :* Il convient de noter que le certificat du Dr OXYBEL du 01/06/2026 a initialement chiffré l'ITT à 1 jour. Il s'agit à l'évidence d'une erreur matérielle grossière au regard de la gravité des lésions, erreur fort heureusement rectifiée ultérieurement pour correspondre à la réalité clinique de 56 jours.
+*Remarque médico-légale :* Il convient de noter que le certificat du Dr OXYBEL du 01/06/2026 a initialement chiffré l'ITT à 1 jour. Il s'agit à l'évidence d'une erreur matérielle grossière au regard de la gravité des lésions, erreur fort heureusement rectifiée ultérieurement pour correspondre à la réalité clinique de 55 jours.
 
 ### II.2 — Nature et gravité des lésions
 
@@ -58,8 +58,8 @@ Ces lésions justifient pleinement le recours à une intervention de microchirur
 
 ### III.1 — Cohérence de l'ITT
 
-L'Incapacité Totale de Travail (ITT) au sens pénal du terme, retenue à **56 jours**, est parfaitement **cohérente et justifiée**.
-Une plaie de 8,5 cm impliquant une section tendineuse et une réparation microchirurgicale nerveuse entraîne une perte de fonction majeure de la main dominante. La période de 56 jours couvre la phase de cicatrisation cutanée, tendineuse et nerveuse initiale, ainsi que le début de la rééducation fonctionnelle indispensable.
+L'Incapacité Totale de Travail (ITT) au sens pénal du terme, retenue à **55 jours**, est parfaitement **cohérente et justifiée**.
+Une plaie de 8,5 cm impliquant une section tendineuse et une réparation microchirurgicale nerveuse entraîne une perte de fonction majeure de la main dominante. La période de 55 jours couvre la phase de cicatrisation cutanée, tendineuse et nerveuse initiale, ainsi que le début de la rééducation fonctionnelle indispensable.
 
 ### III.2 — Probabilité de consolidation et Déficit Fonctionnel Permanent (DFP) attendu
 
@@ -94,7 +94,7 @@ Cette situation engendrera indéniablement une fatigabilité accrue, une perte d
 
 ## V — CONCLUSION ET RECOMMANDATIONS
 
-Les pièces médicales, bien que complètes sur la phase aiguë, ne permettent pas de statuer de manière définitive sur les séquelles. Les lésions tendineuses et nerveuses de l'index droit dominant sont sévères, justifiant l'ITT de 56 jours.
+Les pièces médicales, bien que complètes sur la phase aiguë, ne permettent pas de statuer de manière définitive sur les séquelles. Les lésions tendineuses et nerveuses de l'index droit dominant sont sévères, justifiant l'ITT de 55 jours.
 
 **Recommandation formelle :**
 Il est d'une nécessité absolue de solliciter une **expertise médicale judiciaire contradictoire** une fois la consolidation acquise (probable d'ici mi-2027). Seule cette expertise permettra de figer le taux définitif de DFP, de confirmer la cotation des Souffrances Endurées, d'évaluer le Préjudice d'Agrément et d'asseoir médicalement la lourde Incidence Professionnelle liée à l'activité d'informaticien.

@@ -391,7 +391,7 @@ Phase 4 (J+30) — Élargissement
 | R5 | **Vérifier le patrimoine des dirigeants** (fichier foncier, cadastre) | Sans solvabilité dirigeants, le Plan B est illusoire |
 | R6 | **Configurer une veille INPI automatique** (alerte email) | Détecter toute nouvelle immatriculation au 22 Rue Lafaurie |
 | R7 | **Simplifier les courriers administratifs** (regrouper Préfecture + CD + SDIS en un seul envoi avec copie CODAF) | 3 courriers distincts = dilution, un seul courrier = masse critique |
-| R8 | **Demander un rendez-vous UMJ** pour expertise ITT définitive | Consolider l'ITT 56 jours avant qu'elle ne soit contestée |
+| R8 | **Demander un rendez-vous UMJ** pour expertise ITT définitive | Consolider l'ITT 55 jours avant qu'elle ne soit contestée |
 
 ### VII.3 — 7.3 Structurelles
 

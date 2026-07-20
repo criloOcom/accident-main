@@ -24,9 +24,9 @@ type: rapport
 
 - **30 mai 2026** : Chirurgie réparatrice (**[Le Chirurgien SOS Main]**)
 
-- **01 juin 2026** : Certificat initial erroné (1 jour ITT, rectifié à 56 jours)
+- **01 juin 2026** : Certificat initial erroné (1 jour ITT, rectifié à 55 jours)
 
-- **23 juillet 2026** : Fin ITT théorique (56 jours)
+- **23 juillet 2026** : Fin ITT théorique (55 jours)
 
 ### I.2 — Incohérences détectées
 

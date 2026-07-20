@@ -17,7 +17,7 @@ date: 2026-07-14
 **Dossier :** Accident corporel – 29 mai 2026
 **Localisation :** Tribunal Judiciaire de Foix
 
-En ma qualité de Procureur de la République près le Tribunal Judiciaire de Foix, j'ai examiné la plainte pénale et les éléments factuels portés à ma connaissance concernant l'accident survenu le 29 mai 2026 impliquant **[La Victime]** au sein de l'établissement exploité par la SAS **[L'Exploitant du Commerce (La SAS)]** (capital : 200 €). L'accident résulte du basculement d'une vasque en céramique lourdement endommagée, provoquant la section partielle du tendon fléchisseur de l'index droit de la victime (ITT de 56 jours).
+En ma qualité de Procureur de la République près le Tribunal Judiciaire de Foix, j'ai examiné la plainte pénale et les éléments factuels portés à ma connaissance concernant l'accident survenu le 29 mai 2026 impliquant **[La Victime]** au sein de l'établissement exploité par la SAS **[L'Exploitant du Commerce (La SAS)]** (capital : 200 €). L'accident résulte du basculement d'une vasque en céramique lourdement endommagée, provoquant la section partielle du tendon fléchisseur de l'index droit de la victime (ITT de 55 jours).
 
 L'analyse de ce dossier conduit à examiner les qualifications pénales applicables, la stratégie d'opportunité des poursuites, ainsi que l'articulation entre la constitution de partie civile (CITC) et l'action publique.
 
@@ -29,7 +29,7 @@ L'enquête devra confirmer les responsabilités de la personne morale, **[L'Expl
 
 ### 1.1 Blessures involontaires (ITT inférieure ou égale à 3 mois)
 
-L'ITT initiale de 56 jours fixée médicalement qualifie l'infraction délictuelle.
+L'ITT initiale de 55 jours fixée médicalement qualifie l'infraction délictuelle.
 - **Fondement juridique :** [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
 
 - **Incrimination :** Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois.

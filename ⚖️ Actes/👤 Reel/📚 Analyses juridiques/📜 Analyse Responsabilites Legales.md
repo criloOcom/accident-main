@@ -46,7 +46,7 @@ Le salon est susceptible de voir sa responsabilité engagée sur le fondement de
 
 Ce texte réprime les blessures involontaires ayant entraîné une ITT inférieure ou égale à trois mois par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement.
 
-En l'espèce, la section nerveuse et tendineuse profonde de l'index droit de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a entraîné une ITT de 56 jours.
+En l'espèce, la section nerveuse et tendineuse profonde de l'index droit de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a entraîné une ITT de 55 jours.
 
 ### II.1 — MANQUEMENT À L'OBLIGATION DE SÉCURITÉ ET DE PRUDENCE
 
@@ -189,7 +189,7 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 ### V.2 — FGTI / CIVI — VOIE PRINCIPALE (ART. 706-3 CPP)
 
 **Conditions remplies :**
-1. Infraction pénale (blessures involontaires, art. 222-19 CP) — ITT 56 jours > seuil 1 mois ✅
+1. Infraction pénale (blessures involontaires, art. 222-19 CP) — ITT 55 jours > seuil 1 mois ✅
 
 2. Auteur insolvable ([200 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md)) ✅
 

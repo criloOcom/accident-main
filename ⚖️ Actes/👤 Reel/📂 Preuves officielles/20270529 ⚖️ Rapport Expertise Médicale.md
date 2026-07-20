@@ -94,7 +94,7 @@ Le préposé de l'établissement a entrepris de régler un téléviseur fixé en
 
 - Prise en charge ergothérapique à partir de novembre 2026 (rééducation sensitive, désensibilisation)
 
-- Arrêt de travail total du 29 mai 2026 au 23 juillet 2026 (56 jours)
+- Arrêt de travail total du 29 mai 2026 au 23 juillet 2026 (55 jours)
 
 - Reprise professionnelle progressive à partir d'août 2026 à temps partiel thérapeutique
 
@@ -263,13 +263,13 @@ Voir supra III et V — lésions imputables à l'accident du 29 mai 2026 : secti
 
 **3. Évaluer le déficit fonctionnel temporaire (DFT)**
 
-- DFT total (100 %) : du 29 mai 2026 au 23 juillet 2026 = **56 jours**
+- DFT total (100 %) : du 29 mai 2026 au 23 juillet 2026 = **55 jours**
 
 - DFT partiel (50 %) : du 24 juillet au 27 août 2026 = **35 jours** (reprise professionnelle progressive, rééducation active)
 
 - DFT partiel (25 %) : du 28 août au 30 novembre 2026 = **95 jours** (rééducation sensitive, adaptation poste de travail)
 
-**Total : 56 jours à 100 % + 35 jours à 50 % + 95 jours à 25 % = 81,25 jours équivalent DFT plein**
+**Total : 55 jours à 100 % + 35 jours à 50 % + 95 jours à 25 % = 81,25 jours équivalent DFT plein**
 
 Proposition d'indemnisation : 81,25 j × 25 €/j = **2 031 €** (fourchette 1 800 — 2 200 €)
 
@@ -345,7 +345,7 @@ L'incidence professionnelle est distincte de la perte de revenus stricte (PGPF).
 
 - **Préjudice d'agrément :** Réduction significative de la pratique du codage personnel (loisir) de 8-10 h à 2-3 h/semaine. Le codage constitue le loisir exclusif et structuré de l'intéressé. Ce poste est distinct de l'incidence professionnelle (qui couvre l'activité rémunérée). **Valorisation : 4 500 €**
 
-- **Aide humaine temporaire :** Aide ponctuelle de l'entourage pour les gestes de la vie courante pendant la période d'ITT totale (56 jours). **Valorisation : 800 €**
+- **Aide humaine temporaire :** Aide ponctuelle de l'entourage pour les gestes de la vie courante pendant la période d'ITT totale (55 jours). **Valorisation : 800 €**
 
 - **Dépenses de santé futures :** Suivi médical épisodique, renouvellement du matériel ergonomique. **Valorisation : 3 000 €**
 

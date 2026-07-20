@@ -57,7 +57,7 @@ Cette lettre fait suite à :
 
 Le **vendredi 29 mai 2026 à 15h00**, je me suis rendu en tant que **client** dans le salon de coiffure exploité au **22 Rue Lafaurie à Foix**. Après la prestation, j'ai payé Ayoub BENNOURINE (tél. 07 58 40 12 87) par Wero (transaction IPR000297029234), puis j'ai quitté les lieux. Moins de cinq minutes plus tard, je suis retourné au salon pour demander une retouche. À mon retour, **le préposé coiffeur [Le Préposé de l'Exploitation]** était monté sur la vasque en céramique du bac à shampoing pour régler **le** téléviseur. En voulant descendre, il a provoqué le basculement de la vasque — qui présentait une **cassure apparente préexistante non signalée** sur son flanc droit. Par réflexe, j'ai tendu la main gauche pour retenir le coiffeur et la main droite pour retenir la vasque. Ma paume droite a heurté l'arête tranchante de cette cassure, provoquant une **section large et très profonde des tissus cutanés et sous-cutanés (plaie de 8,5 cm)** avec **section partielle du tendon fléchisseur superficiel et section totale du paquet vasculo-nerveux collatéral (ulnaire et radial) de l'index droit**.
 
-J'ai été opéré en urgence le **30 mai 2026** (microchirurgie : suture tendineuse, suture microchirurgicale nerfs/vaisseaux, neurolyse). L'ITT médicale s'élève à **56 jours**. Le pronostic neurologique est réservé, avec récupération souvent partielle sur plusieurs mois.
+J'ai été opéré en urgence le **30 mai 2026** (microchirurgie : suture tendineuse, suture microchirurgicale nerfs/vaisseaux, neurolyse). L'arrêt de travail total s'élève à **55 jours**. Le pronostic neurologique est réservé, avec récupération souvent partielle sur plusieurs mois.
 
 ### 2 — Correction formelle : je n'ai pas eu d'"accident du travail"
 
@@ -164,7 +164,7 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 
 **[La Victime] (envoi sans signature manuscrite)**
 
-> **NOTE ADMINISTRATIVE** : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la rédaction de la présente par un tiers et les délais d'acheminement de la présente mise en demeure.
+> **NOTE ADMINISTRATIVE** : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la rédaction de la présente par un tiers et les délais d'acheminement de la présente mise en demeure.
 
 <hr><hr>
 

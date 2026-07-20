@@ -18,7 +18,7 @@ type: rapport
 
 ### I.1 — Blessures Involontaires
 
-La plainte initiale déposée le 2 juin 2026 ([PV n°2026/015967](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20PV%20Audition%20Plainte%20Complementaire.md)) visait les blessures involontaires ayant entraîné une Incapacité Totale de Travail (ITT) suite au basculement d'une vasque défectueuse sur la main droite de **[La Victime]** le 29 mai 2026. L'ITT pénale retenue est de 56 jours, avec des répercussions fonctionnelles importantes.
+La plainte initiale déposée le 2 juin 2026 ([PV n°2026/015967](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20PV%20Audition%20Plainte%20Complementaire.md)) visait les blessures involontaires ayant entraîné une Incapacité Totale de Travail (ITT) suite au basculement d'une vasque défectueuse sur la main droite de **[La Victime]** le 29 mai 2026. L'ITT pénale retenue est de 55 jours, avec des répercussions fonctionnelles importantes.
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
 > **[Code pénal > Article 222-20]** <br>

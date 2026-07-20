@@ -89,13 +89,13 @@ Le PEP (cicatrice palmaire 8,5 cm) et les SE (4/7, douleurs neuropathiques, stre
 
 Le total annoncé est **~105 000 €** — un écart de 2 500 €. Si le DEP (3 000 €) est exclu du total : 107 500 - 3 000 = 104 500 €, arrondi à ~105 000 € (acceptable mais imprécis).
 
-### III.4 — 3.4 ITT : 55 ou 56 jours ?
+### III.4 — 3.4 ITT : 55 ou 55 jours ?
 
-- Tous les documents internes mentionnent **56 jours** (29 mai → 23 juillet 2026) — confirmé par STRICT VARIABLES.md
+- Tous les documents internes mentionnent **55 jours** (29 mai → 23 juillet 2026) — confirmé par STRICT VARIABLES.md
 
 - La consigne utilisateur mentionne "ITT 55 jours à date"
 
-- **Conclusion :** La valeur interne (56 jours) est cohérente entre tous les documents. Le "55" de l'utilisateur est soit une date de début de mission (J-1), soit une erreur.
+- **Conclusion :** La valeur interne (55 jours) est cohérente entre tous les documents. Le "55" de l'utilisateur est soit une date de début de mission (J-1), soit une erreur.
 
 ### III.5 — 3.5 Incidence professionnelle — vérification
 
@@ -128,7 +128,7 @@ C'est un écart considérable qui affaiblit la crédibilité de la demande s'il 
 | Condition | Statut | Preuve |
 |-----------|--------|--------|
 | Infraction pénale | ✅ | Blessures involontaires (art. 222-19 CP) |
-| ITT ≥ 1 mois | ✅ | 56 jours |
+| ITT ≥ 1 mois | ✅ | 55 jours |
 | Auteur insolvable | ✅ | Capital 200 € |
 | Victime personne physique | ✅ | OK |
 | Nationalité française | ✅ | OK |
@@ -190,7 +190,7 @@ Le FGTI applique un barème de frais pour l'ouverture et la gestion du dossier. 
 | Cohérence du courrier FGTI avec les études | **4/10** | Mélange d'optimiste et de compromis + erreur terminologique |
 | Justification de l'IP à 30 000 € | **7/10** | Méthode BIBAL solide mais risque de double compte DFP |
 | Justification du total ~105 000 € | **6/10** | Addition imprécise (107 500 ≠ 105 000) |
-| PGPA pour 56 jours d'ITT | **8/10** | Calcul cohérent (1 380-1 900 €) |
+| PGPA pour 55 jours d'ITT | **8/10** | Calcul cohérent (1 380-1 900 €) |
 | Conditions FGTI/CIVI | **10/10** | Toutes remplies |
 | Provision référé 15 000 € | **9/10** | Bien justifiée |
 

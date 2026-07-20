@@ -43,7 +43,7 @@ Je me permets de vous écrire en ma qualité de **victime directe** d'un acciden
 
 Par courriel du **1er juin 2026**, [**[L'Adjoint au Maire de la Commune]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), Adjoint au Maire de Foix, m'a confirmé avoir saisi la Préfecture, laquelle devait **diligenter vos services** et le CODAF afin d'examiner la situation de cet établissement.
 
-L'accident a consisté en le **basculement** de la vasque en céramique du bac à shampoing sous le poids du préposé, monté physiquement sur l'équipement pour régler le téléviseur, alors que celle-ci était déjà fragilisée par une **cassure préexistante non signalée**. Ma main droite, tendue par réflexe, a heurté cette cassure, me sectionnant le tendon fléchisseur superficiel (FDP), le nerf digital et l'artère collatérale de l'index droit (neurolyse du nerf palmaire). J'ai été opéré en urgence le 30 mai 2026 à la Clinique SOS Main de Toulouse, avec une **ITT de 56 jours** (consolidation au 1er mars 2027, DFP 12 %).
+L'accident a consisté en le **basculement** de la vasque en céramique du bac à shampoing sous le poids du préposé, monté physiquement sur l'équipement pour régler le téléviseur, alors que celle-ci était déjà fragilisée par une **cassure préexistante non signalée**. Ma main droite, tendue par réflexe, a heurté cette cassure, me sectionnant le tendon fléchisseur superficiel (FDP), le nerf digital et l'artère collatérale de l'index droit (neurolyse du nerf palmaire). J'ai été opéré en urgence le 30 mai 2026 à la Clinique SOS Main de Toulouse, avec un **arrêt de travail total de 55 jours** (consolidation au 1er mars 2027, DFP 12 %).
 
 Dans ce contexte, je souhaiterais savoir :
 

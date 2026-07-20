@@ -28,7 +28,7 @@ Le préposé du salon est monté sur la vasque en céramique du bac à shampoing
 ### I.2 — Conséquences médicales et financières
 - **Lésions** : Section partielle du tendon fléchisseur profond, section du paquet collatéral et nécessité d'une neurolyse du nerf palmaire de l'index droit. Chirurgie d'urgence réalisée le 30 mai 2026.
 
-- **ITT Pénale** : 56 jours (jusqu'au 23/07/2026).
+- **ITT Pénale** : 55 jours (jusqu'au 23/07/2026).
 
 - **Évaluation financière (estimative post-expertise Dintilhac)** : Entre 120 000 € et 160 000 € au global (DFP estimé à 12 %, Incidence Professionnelle majeure). Provision déjà demandée : 15 000 €.
 
@@ -39,7 +39,7 @@ Le préposé du salon est monté sur la vasque en céramique du bac à shampoing
 ## II — CALENDRIER DES ÉCHÉANCES
 
 ### II.1 — Jalons passés
-- **29/05/2026** : Accident au salon. ITT de 56 jours.
+- **29/05/2026** : Accident au salon. ITT de 55 jours.
 
 - **02/06/2026** : Dépôt de plainte initiale (PV n°2026/015967).
 
@@ -88,7 +88,7 @@ Le préposé du salon est monté sur la vasque en céramique du bac à shampoing
 
 - **Pièce 3** : Compte-rendu opératoire — **[Le Chirurgien SOS Main]** (J+1)
 
-- **Pièce 4** : Arrêts de travail (ITT 56 jours, jusqu'au 23/07/2026)
+- **Pièce 4** : Arrêts de travail (ITT 55 jours, jusqu'au 23/07/2026)
 
 ### IV.2 — Groupe B — Preuves financières
 - **Pièce 6** : Preuve bancaire (Paiement Wero 15 €) justifiant la présence sur les lieux

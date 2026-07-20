@@ -46,7 +46,7 @@ type: memory
 | :--- | :--- | :--- |
 | 29/05/2026 | Accident corporel | Basculement de la vasque du bac à shampoing ; soins d'urgence par **[Le Médecin en Urgence]**. Remboursement Wero actant la présence de la victime. |
 | 30/05/2026 | Intervention chirurgicale | Microchirurgie par **[Le Chirurgien SOS Main]** au sein de **[L'Établissement SOS Main]**. |
-| 01/06/2026 | ITT et Signalements | Arrêt de travail (ITT totale de 56 jours). Signalement à l'Inspection du Travail et dépôt de plainte initiale. |
+| 01/06/2026 | Arrêt de travail et Signalements | Arrêt de travail total de 55 jours. Signalement à l'Inspection du Travail et dépôt de plainte initiale. |
 | 02/06/2026 | Dépôt de plainte officiel | PV de police et constitution de partie civile. |
 | 03/06/2026 | Dossier CPAM | Ouverture du dossier Recours contre Tiers (RCT 31727387). |
 | 10/06/2026 | Facturation soins | Facture de chirurgie (790,23 €). |
@@ -114,7 +114,7 @@ D'après la Matrice des Preuves, le dossier médical et procédural est solide (
 ## 6. Évaluation Financière Détaillée
 
 Le montant total estimé des préjudices est de **~90 000 €**, réparti comme suit :
-- **PGPA (Pertes de Gains Professionnels Actuels) :** 1 380 € (Calculé au prorata réel sur 56 jours d'ITT)
+- **PGPA (Pertes de Gains Professionnels Actuels) :** 1 355 € (Calculé au prorata réel sur 55 jours d'arrêt de travail)
 
 - **IP (Invalidité Permanente / AIPP) :** 30 000 € (Méthode BIBAL — indemnisation indépendants)
 

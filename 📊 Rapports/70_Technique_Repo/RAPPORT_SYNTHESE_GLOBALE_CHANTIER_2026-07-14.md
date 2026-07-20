@@ -21,7 +21,7 @@ type: rapport
 ## I — RÉSUMÉ DU DOSSIER (1 page)
 
 ### I.1 — Les faits
-Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 ans) est victime d'un accident grave dans le salon de coiffure exploité par **SAS LES MAUVAIS GARCONS** au 22 Rue Lafaurie, 09000 Foix. Le coiffeur (**[Le Préposé de l'Exploitation]**) monte sur la vasque en céramique du bac à shampoing pour régler le poste de télévision. En descendant, son poids provoque le **basculement** de l'équipement. **[La Victime]** tend la main droite par réflexe et heurte une **cassure majeure préexistante** non signalée, subissant une **section nerveuse et tendineuse profonde de l'index droit**. ITT : **56 jours** (29/05 → 23/07/2026).
+Le **29 mai 2026** à 15h00, **[La Victime]** (informaticien indépendant, 44 ans) est victime d'un accident grave dans le salon de coiffure exploité par **SAS LES MAUVAIS GARCONS** au 22 Rue Lafaurie, 09000 Foix. Le coiffeur (**[Le Préposé de l'Exploitation]**) monte sur la vasque en céramique du bac à shampoing pour régler le poste de télévision. En descendant, son poids provoque le **basculement** de l'équipement. **[La Victime]** tend la main droite par réflexe et heurte une **cassure majeure préexistante** non signalée, subissant une **section nerveuse et tendineuse profonde de l'index droit**. ITT : **55 jours** (29/05 → 23/07/2026).
 
 ### I.2 — Les acteurs
 | Rôle | Identité | Localisation |
