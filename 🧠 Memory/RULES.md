@@ -607,6 +607,36 @@ Le calendrier Google partagé (`[AM] Accident Main`) est une **pièce maîtresse
 
 ## #25 — INTERDICTION DES LIENS MARKDOWN DANS LE YAML (RÈGLE PERMANENTE)
 
+## #27 — VÉRIFICATION DE LA PROFESSION ET DES ACTIVITÉS — INTERDICTION ABSOLUE D'INVENTER (RÈGLE PERMANENTE)
+
+### Principe
+- **INTERDICTION ABSOLUE** d'inventer ou d'extrapoler une profession, une activité de loisir, ou un statut professionnel pour la victime ou tout acteur du dossier.
+
+- La profession de la victime est **informaticien indépendant** (auto-entrepreneur, SIREN 500 474 457). Aucune autre profession (guitariste, musicien, artisan, etc.) ne doit être mentionnée.
+
+- Les activités de loisir de la victime sont exclusivement le **codage / développement informatique personnel**. Aucun autre loisir (guitare, bricolage, gaming intensif, sport) ne doit être présenté comme un fait établi sans preuve matérielle dans les pièces source.
+
+### Règle de vérification obligatoire
+1. **Avant toute rédaction** mentionnant la profession ou les activités de la victime, l'agent DOIT consulter :
+   - Les pièces URSSAF (token-victime-id-professionnel)
+   - Le token token-victime-profession (s'il existe)
+   - Le fichier `🧠 Memory/STRICT VARIABLES.md`
+   - Les pièces source dans `⚖️ Actes/📂 Preuves officielles/`
+
+2. **En cas de doute** sur la profession ou une activité : ne pas deviner, ne pas extrapoler. Marquer explicitement `[PROFESSION À VÉRIFIER]` ou `[LOISIR À CONFIRMER SUR PIÈCES]`.
+
+3. **Sanction** : toute mention d'une profession ou activité non vérifiée sur pièce source constitue une **faute professionnelle grave**. L'erreur "guitariste" (6 occurrences sur 4 fichiers) a nécessité une purge complète du dépôt — ne pas reproduire.
+
+### Propagation
+Si une profession ou activité erronée est découverte dans un fichier :
+1. Chercher TOUTES les occurrences dans le projet (grep sur le terme)
+
+2. Corriger TOUTES les occurrences (Token + Reel)
+
+3. Vérifier les documents Google Drive correspondants
+
+4. Ajouter une règle dans RULES.md pour empêcher la récidive
+
 
 - **Principe** : le YAML front matter (`---`...`---`) est un format de données, pas un rendu Markdown. Les liens `[texte](url)` sont soit ignorés par le parseur YAML, soit le cassent (les `:` dans les URLs sont ambigus).
 

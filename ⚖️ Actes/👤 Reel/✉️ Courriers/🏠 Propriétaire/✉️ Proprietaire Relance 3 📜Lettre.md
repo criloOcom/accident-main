@@ -67,7 +67,7 @@ Dans votre email du **16 juillet 2026**, vous qualifiez cet événement d'**"acc
 
 - Je n'ai **aucun lien de subordination** avec l'exploitant du salon, ni avec vous-même.
 
-- J'exerce la profession d'**informaticien indépendant** (SIREN 500 474 457) et de guitariste.
+- J'exerce la profession d'**informaticien indépendant** (SIREN 500 474 457).
 
 - J'étais **client** de l'établissement, venu pour une prestation de coiffure.
 

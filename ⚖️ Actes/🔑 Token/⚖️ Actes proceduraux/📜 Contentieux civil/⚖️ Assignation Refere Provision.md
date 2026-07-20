@@ -277,7 +277,7 @@ Il est donc demandé au juge des référés d'ordonner à [**[L'Exploitant du Co
     Prévisions d'aménagements ergonomiques spécifiques de poste informatique et de dévalorisation professionnelle estimées à [**[Finance Incidence Professionnelle]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-incidence-professionnelle.md).
 
 - **Préjudice d'Agrément** : <br>
-    Estimation à [**[Finance Préjudice Agrément]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prejudice-agrement.md) au titre de la privation temporaire des activités personnelles de codage et de la pratique de la guitare.
+    Estimation à [**[Finance Préjudice Agrément]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prejudice-agrement.md) au titre de la privation temporaire des activités personnelles de codage.
 
 - **(PEP) Préjudice Esthétique Permanent** : <br>
     Estimation à [**[Finance Préjudice Esthétique]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prejudice-esthetique.md) au titre de la cicatrice palmaire de 8,5 cm.

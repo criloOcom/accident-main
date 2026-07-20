@@ -48,6 +48,9 @@ type: memory
   la structure — vérifie chaque colonne une par une
 - [ ] Avant d'écrire dans un Google Sheet : **lis 3 lignes de données** existantes
   pour confirmer que ta compréhension des colonnes est correcte
+- [ ] **Avant toute mention de profession ou activité** : vérifie sur pièce source
+  (URSSAF, Kbis, STRICT VARIABLES.md, token-victime-profession). N'INVENTE RIEN.
+  La victime est informaticien — pas guitariste, pas autre chose.
 - [ ] Avant de citer un article de loi : vérifie via MCP Légifrance
   (`rechercher_code` ou `consulter_article`)
 - [ ] Avant de modifier un fichier listé dans `check_consistency.py` : exécute

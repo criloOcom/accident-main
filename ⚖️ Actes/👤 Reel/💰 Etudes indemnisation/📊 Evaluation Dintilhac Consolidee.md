@@ -75,7 +75,7 @@ Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%
 
 La présente évaluation a pour objet d'évaluer l'intégralité des préjudices corporels subis par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à la suite de l'accident du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — au cours duquel, alors que l'employé [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tél. [07 58 40 12 87](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) est travailleur indépendant inscrit sous le numéro [500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md), exerçant la profession d'informaticien droitier et guitariste. Les déclarations URSSAF attestent de recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
+[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) est travailleur indépendant inscrit sous le numéro [500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md), exerçant la profession d'informaticien droitier. Les déclarations URSSAF attestent de recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
 <hr><hr>
 
 ## II — I.2 — PRINCIPE DE LA RÉPARATION INTÉGRALE
@@ -101,7 +101,7 @@ L'évaluation initiale du dossier s'établissait à [59 600 €](../../../%F0%9F
 
 3. **Incidence Professionnelle à 15 000 €** trop basse pour un informaticien droitier avec perte de dextérité de la main dominante
 
-4. **Préjudice d'Agrément à 3 000 €** faible pour un guitariste
+4. **Préjudice d'Agrément à 3 000 €** faible pour le développement informatique
 
 5. **DFP à 2 100 €/point** en bas de fourchette (Mornet : 2 140-3 070 €/point pour 11-20%)
 
@@ -310,16 +310,16 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 
 > Note : Pédagogique : Le préjudice d'Agrément indemnise la perte ou la diminution des plaisirs et occupations de la victime (loisirs, activités sportives, culturelles, personnelles). La jurisprudence exige seulement une limitation de la pratique, pas une impossibilité totale.]*
 
-**Définition :** Répare l'impossibilité ou la limitation de pratiquer des loisirs (guitare, projets personnels de codage, développement personnel).
+**Définition :** Répare l'impossibilité ou la limitation de pratiquer des loisirs (projets personnels de codage, développement personnel).
 
 **Justification :**
-- Guitare : impossibilité de flexion de l'index = impossibilité de jouer accords et arpèges
+- Codage : impossibilité de flexion de l'index = limitation sévère de la frappe et de l'utilisation d'outils de développement
 
 - Pronostic neurologique souvent partiel
 
-- Autres activités : développement personnel, gaming, bricolage
+- Autres activités : développement personnel, gaming
 
-**Proposition : 5 000 €** (guitare 3 000 € + autres agréments 2 000 €)
+**Proposition : 5 000 €** (codage 3 000 € + autres agréments 2 000 €)
 
 **Analyse des écarts :** Notre estimation initiale (8 000 €) était élevée. Glose propose 3 500 € (fourchette 2 000-5 000 €). La jurisprudence admet la limitation suffisante (Cass. 2e civ., 29 mars 2018, n° 17-14.499).
 

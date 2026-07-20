@@ -109,7 +109,7 @@ Le rapport d'expertise médicale du 29 mai 2027 ([20270529 ⚖️ Rapport Expert
 
 - IP : 30 000 € (BIBAL : 9 000 × 12 % × 27,5) — 🔄 SUPERSEDED (expertise : 28 000 €)
 
-- AGREMENT : 8 000 € (guitare 6 000 + autres 2 000) — 🔄 SUPERSEDED (expertise : 4 500 €)
+- AGREMENT : 8 000 € (codage 6 000 + autres 2 000) — 🔄 SUPERSEDED (expertise : 4 500 €)
 
 - PEP : 3 000 € (cicatrice palmaire 8,5 cm) — 🔄 SUPERSEDED (expertise : 3 500 €)
 

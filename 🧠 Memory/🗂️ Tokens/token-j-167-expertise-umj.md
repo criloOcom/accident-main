@@ -38,7 +38,7 @@ L'expertise évalue :
 
 - L'incidence professionnelle (IP) — perte d'activité d'auto-entrepreneur ([L'Identifiant Professionnel de la Victime](token-victime-id-professionnel.md))
 
-- Le préjudice d'agrément (guitare, loisirs)
+- Le préjudice d'agrément (codage, loisirs informatiques)
 
 ## Acteurs concernés
 
