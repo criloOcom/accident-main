@@ -11,7 +11,7 @@ tags:
   - email
 calendar_event_id: "shbeqvnj9pp504anq8h8uk6pdc"
 statut: projet
-destinataire: Police Nationale de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+destinataire: Police Nationale de **[La Ville de l'Accident]**
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/✉️ Police Videos 🔄Relance.md
 source: drive

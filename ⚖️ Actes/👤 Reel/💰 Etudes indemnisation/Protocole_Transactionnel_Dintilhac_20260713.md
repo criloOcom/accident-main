@@ -8,7 +8,7 @@ reel_path: ../../👤 Reel/💰 Etudes indemnisation/Protocole_Transactionnel_Di
 auteur: La Victime
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [👤 Actes / reel — Version réelle](../README.md) › [💰 Etudes indemnisation](./README.md) › Protocole Transactionnel Dintilhac 20260713*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [💰 Études d'Indemnisation](./README.md) › Protocole Transactionnel Dintilhac 20260713*
 <hr>
 <!-- /Breadcrumb -->
 

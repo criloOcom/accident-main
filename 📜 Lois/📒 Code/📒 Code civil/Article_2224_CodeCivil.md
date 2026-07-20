@@ -1,4 +1,5 @@
 ---
+type: loi
 title: "Article 2224 – Prescription de droit commun (5 ans)"
 date: 2026-07-20
 source: "Légifrance – Code civil"

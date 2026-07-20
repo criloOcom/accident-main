@@ -10,7 +10,7 @@ tags:
   - SAS
   - LRAR
 statut: final
-destinataire: Tribunal de Commerce de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+destinataire: Tribunal de Commerce de **[La Ville de l'Accident]**
 auteur: Nom de l'Avocat de la Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/✉️ TC Opposition Radiation ⚖️Contentieux.md
 jx: J+41

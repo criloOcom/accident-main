@@ -1,4 +1,5 @@
 ---
+type: loi
 title: "Article L113-1 – Garantie des pertes et dommages"
 date: 2026-07-20
 source: "Légifrance – Code des assurances"

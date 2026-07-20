@@ -14,7 +14,7 @@ tags:
 
 - LRAR
 statut: projet
-destinataire: Service des Impôts des Entreprises de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+destinataire: Service des Impôts des Entreprises de **[La Ville de l'Accident]**
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ SIE 🚨Signalement.md
 source: drive

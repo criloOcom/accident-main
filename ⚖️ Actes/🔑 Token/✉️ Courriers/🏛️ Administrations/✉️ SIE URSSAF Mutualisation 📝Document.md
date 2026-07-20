@@ -11,7 +11,7 @@ tags:
   - LPF
   - LRAR
 statut: projet
-destinataire: Service des Impôts des Entreprises de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) et URSSAF Midi-Pyrenees
+destinataire: Service des Impôts des Entreprises de **[La Ville de l'Accident]** et URSSAF Midi-Pyrenees
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ SIE URSSAF Mutualisation 📝Document.md
 source: local

@@ -30,6 +30,7 @@ type: loi
 ### Méthode
 
 - Vérification via OpenLegi (Légifrance-prod API 500). Tous VIGUEUR.
+
 - Les 15 articles manquants de l'audit complet (2026-07-11) sont désormais tous créés. ✅
 
 ---

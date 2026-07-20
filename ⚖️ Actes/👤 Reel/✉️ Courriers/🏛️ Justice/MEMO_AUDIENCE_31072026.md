@@ -5,17 +5,17 @@ type: preuve
 date: 2026-07-18
 statut: final
 auteur: La Victime
-# reel_path: ancien chemin supprimé (fichier Reel, pas Token)
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/MEMO_AUDIENCE_31072026.md
 jx: J+63
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [⚖️ Actes Procéduraux (Versions Réelles)](../README.md) › [📋 Preparation Foix](./README.md) › MEMO AUDIENCE 31072026*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers](../README.md) › [🏛️ Justice](./README.md) › MEMO AUDIENCE 31072026*
 <hr>
 <!-- /Breadcrumb -->
 
 # MÉMO D'AUDIENCE<br>Audience de Référé-Provision du 31 juillet 2026
 
-> **🔴 Version révisée 18/07/2026** — Correction exploitant : voir [erratum formel](%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md)
+> **🔴 Version révisée 18/07/2026** — Correction exploitant : voir [erratum formel](../👮%20Police/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md)
 ## 1 — LOGISTIQUE JOUR J
 
 ### 1.1 — Horaires et lieu
@@ -70,7 +70,7 @@ jx: J+63
 
 | Procédure | Statut |
 |-----------|--------|
-| **Plainte initiale** | ✅ Déposée 2 juin 2026 — [PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) |
+| **Plainte initiale** | ✅ Déposée 2 juin 2026 — PV n°2026/015967 |
 | **Erratum correction société** | ✅ Déposé le 31 juillet 2026 — joint au dossier |
 | **Demande AJ Totale** | ✅ Déposée le [date] — récépissé n°[à remplir] |
 | **Requête Art. 145 CPC** | 🔴 En attente désignation avocat |
@@ -146,7 +146,7 @@ La victime n'est pas consolidée. L'état séquellaire actuel (douleurs neuropat
 | Question | Réponse |
 |----------|---------|
 | *Pourquoi 15 000 € ?* | ~10 % du préjudice global estimé (120-160k€). Provision standard en référé. |
-| *Pourquoi HB BARBER et pas LES MAUVAIS GARÇONS ?* | Erratum déposé. Visite des lieux le 16 juillet a révélé l'enseigne réelle. Les deux sociétés ont la même DG ([Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)). |
+| *Pourquoi HB BARBER et pas LES MAUVAIS GARÇONS ?* | Erratum déposé. Visite des lieux le 16 juillet a révélé l'enseigne réelle. Les deux sociétés ont la même DG (**[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)). |
 | *Pourquoi pas d'avocat ?* | AJ déposée, en cours. Seul au-delà du plafond de 10k€ pour la représentation obligatoire, mais la procédure est engagée de bonne foi. |
 | *Avez-vous des revenus ?* | ~9 000 €/an micro-entrepreneur. Justificatifs URSSAF joints. |
 | *Quel est le préjudice professionnel ?* | Informaticien — main droite sectionnée. Arrêt complet depuis 55 jours. IP estimée à 28 000 €. |

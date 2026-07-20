@@ -1,6 +1,6 @@
 ---
 title: "Note juridique : Qualification pénale — Disparition de la SAS"
-description: "Dossier :** [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) c/ **[L'Exploitant du Commerce (La SAS)]"
+description: "Dossier :** **[La Victime]** c/ **[L'Exploitant du Commerce (La SAS)]"
 type: analyse_juridique
 statut: brouillon
 reel_path: ../../👤 Reel/📚 Analyses juridiques/Note qualification penale disparition SAS.md

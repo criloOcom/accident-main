@@ -1,4 +1,5 @@
 ---
+type: loi
 title: "Article 1242 – Responsabilité du fait des personnes et des choses"
 date: 2026-07-20
 source: "Légifrance – Code civil"

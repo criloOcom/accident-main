@@ -1,6 +1,6 @@
 ---
 title: "STATUT D'AVANCEMENT — 20 juillet 2026"
-description: "- **Phase 1a** Purge des 5 fuites token : 0 fuite résiduelle (✅ 18/07) — **Phase 1b** 5 corrections JURITEXT vérifiées MCP (✅ 18/07) — **Phase 1c** Infrastructure token : +14 entrées batch_anonymize + TOKEN MAP + generate_real_versions (✅ 18/07) — **Phase 1d** Bandeau HB BARBER : 80 fichiers Token/ mis à jour (✅ 18/07) — **Phase 1e** Liens cassés : 34 auto-corrigés, 3 stubs créés, 60 historiques restants (✅ partiel 18/07) — **Phase 2** Urgences 31 juillet : Demande AJ Totale créée, Assignation finalisée, Reel 115 fichiers générés (✅ 18/07) — **Phase 33** 3 dernières LRAR SAS HB BARBER envoyées 18/07 — **Phase 34** Déplacement Foix préparé (semaine 27/07)"
+description: "- **Phase 1a** Purge des 5 fuites token : 0 fuite résiduelle (✅ 18/07) — **Phase 1b** 5 corrections JURITEXT vérifiées MCP (✅ 18/07) — **Phase 1c** Infrastructure token : +14 entrées batch_anonymize + TOKEN MAP + generate_real_versions (✅ 18/07) — **Phase 1d** Bandeau HB BARBER : 80 fichiers Token/ mis à jour (✅ 18/07) — **Phase 1e** Liens cassés : 34 auto-corrigés, 3 stubs créés, 60 historiques restants (✅ partiel 18/07) — **Phase 2** Urgences 31 juillet : Demande AJ Totale créée, Assignation finalisée, Reel 115 fichiers générés (✅ 18/07) — **Phase 33** 3 dernières LRAR SAS HB BARBER envoyées 18/07 — **Phase 34** Déplacement Foix préparé (semaine 27/07) — **Phase 35** Night Watch : 15 missions (Token→Reel, listes tight, santé, scratch, HB BARBER, STRICT VARIABLES, Légifrance, RGPD, bordereau, jurisprudence, rapports) ✅ 20/07"
 type: memory
 ---
 <!-- Breadcrumb -->
@@ -25,6 +25,7 @@ type: memory
 > **Phase 32 ✅** Nouvelles LRAR SAS HB BARBER — 3 lettres envoyées le 18/07/2026 par LRAR (La Poste en ligne) — matérialise le point de départ du délai légal amiable de 15 jours
 > > **Phase 33 ✅** Correction juridique Phase 4 — 3 articles manquants créés (L.123-3, L.123-5-1 C.com, L.8221-1 C.trav) — tous vérifiés via MCP OpenLegi (✅ 20/07)
 > > **Phase 34 🏗️** Déplacement Foix préparé (semaine du 27/07/2026) — Dépôt AJ totale BAJ + Complément PV Commissariat — Calendrier Google mis à jour, documentation synchronisée (🏗️ EN COURS 20/07)
+> > **Phase 35 ✅** Night Watch 20/07 — 15 missions (Token→Reel, listes tight, santé, scratch, HB BARBER, STRICT VARIABLES, Légifrance, RGPD, bordereau, arborescence, jurisprudence, rapports) — rapport dans `📊 Rapports/NIGHTWATCH_2026-07-20.md` (✅ 20/07)
 > > 
 > ## Phase 21 — Navigation Interactive Cross-Document (13 juillet 2026) ✅ [TERMINÉ]
 
@@ -1399,6 +1400,7 @@ Envoyer 3 lettres recommandées avec accusé de réception (LRAR) matérialisant
 
 ### Documents associés
 - `🧠 Memory/TODO.md` — Phase 31 (LRAR) marquée ✅ TOUT ENVOYÉ.
+
 - Calendrier Google — Mise à jour des échéances amiable/civil.
 
 ---
@@ -1432,18 +1434,25 @@ Préparer et synchroniser la documentation pour le déplacement physique à Foix
 ### Plan d'action
 #### 1. BAJ — TJ Foix (matin)
 - Déposer le dossier complet d'AJ totale (imprimé + pièces justificatives)
+
 - Pièce clé à fournir : **attestation RNE/INPI d'HB BARBER** (datée du 17 juillet 2026) + liste des souscripteurs, pour justifier l'identité de la structure à assigner
 
 #### 2. Commissariat de Foix (après-midi)
 - Verser la fiche officielle INPI/INSEE d'HB BARBER comme pièce au dossier
+
 - Solliciter de l'OPJ les vérifications utiles suivantes :
+
   - **Visite de contrôle** de l'établissement situé à moins de 700 m du commissariat
   - **Réquisition de l'attestation d'assurance Responsabilité Civile** (art. 77-1-1 CPP)
 - **INTERDICTION ABSOLUE** : ne pas demander de confrontation directe avec le préposé
+
 - **INTERDICTION ABSOLUE** : ne pas être accompagné physiquement au salon par la police (risque de confrontation stérile et de vice de procédure civile)
 
 #### 3. Documentation mise à jour
 - **Calendrier Google** : événement "DÉPÔT FOIX" déplacé du 22/07 → 27/07/2026
+
 - **📆 Mini Calendrier Procedure.md** : jalons 27/07 ajoutés (AJ + PV), statuts mis à jour
+
 - **📅 Calendrier Procedure.md** (Token) : EVT-16 mise à jour "Dépôt AJ + Complément PV"
+
 - **TODO.md** : bascule des tâches, bloc 27/07 marqué 🏗️ [EN COURS]

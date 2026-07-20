@@ -1,5 +1,5 @@
 ---
-title: "Courrier Doyen des Juges d'Instruction — [Constitution de Partie Civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)"
+title: "Courrier Doyen des Juges d'Instruction — Constitution de Partie Civile"
 description: "La Victime"
 type: courrier
 date: 2026-07-06
@@ -10,7 +10,7 @@ tags:
   - envoi
 calendar_event_id: "smthlv0a5arakof0m4rv80qgkc"
 statut: envoye
-destinataire: Doyen des Juges d'Instruction de [**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+destinataire: Doyen des Juges d'Instruction de **[La Ville de l'Accident]**
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/✉️ Doyen Juges Instruction Saisine ⚖️Contentieux.md
 source: drive

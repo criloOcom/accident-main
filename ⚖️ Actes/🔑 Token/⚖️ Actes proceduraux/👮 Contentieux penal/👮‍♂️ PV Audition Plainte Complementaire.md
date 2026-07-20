@@ -20,7 +20,7 @@ statut: final
 auteur: Commissariat de Foix
 destinataire: Procureur de la République
 personnes:
-- '[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)'
+- '**[La Victime]**'
 jx: J+47
 reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ PV Audition Plainte Complementaire.md
 ---

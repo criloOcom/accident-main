@@ -1,6 +1,6 @@
 ---
 title: "📧📋 Email Transmission Attestation Employé"
-description: "Objet : Attestation de témoin — Accident du [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) au **[L'Adresse de l'Exploitation]"
+description: "Objet : Attestation de témoin — Accident du **[J+0 Accident]** au **[L'Adresse de l'Exploitation]"
 type: courrier
 date: 2026-07-06
 tags:
@@ -8,7 +8,7 @@ tags:
   - attestation
   - temoin
 statut: brouillon
-destinataire: Employé(e) du salon présent(e) le [**[J+0 Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+destinataire: Employé(e) du salon présent(e) le **[J+0 Accident]**
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/👥 Témoins/✉️ Employe 📧Mail 📋Attestation.md
 source: local

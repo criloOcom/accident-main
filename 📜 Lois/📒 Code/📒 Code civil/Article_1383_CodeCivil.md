@@ -1,4 +1,5 @@
 ---
+type: loi
 title: "Article 1383 – L'aveu"
 date: 2026-07-20
 source: "Légifrance – Code civil"

@@ -6,7 +6,7 @@ date: FIXME
 status: brouillon
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [👤 Actes / reel — Version réelle](../README.md) › [📋 Attestations](./README.md) › 📋 Témoin Client*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📋 Attestations](./README.md) › 📋 Témoin Client*
 <hr>
 <!-- /Breadcrumb -->
 

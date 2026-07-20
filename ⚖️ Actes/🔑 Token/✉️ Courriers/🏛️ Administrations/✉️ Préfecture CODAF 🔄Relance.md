@@ -1,6 +1,6 @@
 ---
 title: "Relance Préfecture / CODAF — Suite signalement Maire de Foix"
-description: "Suivi du signalement transmis par [**[L'Adjoint au Maire de la Commune]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (Adjoint au Maire) le 1er juin 2026 — demande d'état d'avancement"
+description: "Suivi du signalement transmis par **[L'Adjoint au Maire de la Commune]** (Adjoint au Maire) le 1er juin 2026 — demande d'état d'avancement"
 type: courrier
 date: 2026-07-15
 tags:

@@ -45,9 +45,13 @@ J'ai été admis aux urgences le **29 mai 2026** suite à un accident corporel d
 
 Je souhaite recevoir une copie complète de toutes les pièces constituant ce dossier, notamment :
 - Le bulletin d'admission et la fiche de liaison SAMU/Sapeurs-pompiers.
+
 - Le compte rendu de consultation d'urgence et les feuilles de surveillance.
+
 - Les clichés d'imagerie (radiographies, etc.) et les comptes rendus d'analyses biologiques.
+
 - Les prescriptions de médicaments et de soins dispensés.
+
 - L'original du [certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) descriptif des blessures (établi par le Dr Jardon).
 
 Je vous remercie de bien vouloir me transmettre ces documents par voie électronique ou, à défaut, à mon adresse postale mentionnée ci-dessus. Je m'engage à régler les éventuels frais de reproduction et d'envoi.

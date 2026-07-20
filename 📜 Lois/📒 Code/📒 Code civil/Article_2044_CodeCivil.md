@@ -1,4 +1,5 @@
 ---
+type: loi
 title: "Article 2044 – Définition de la transaction"
 date: 2026-07-20
 source: "Légifrance – Code civil"

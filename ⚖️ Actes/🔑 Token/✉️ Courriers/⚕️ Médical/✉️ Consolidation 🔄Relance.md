@@ -1,5 +1,5 @@
 ---
-title: "Relance [**[Le Chirurgien SOS Main]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) - Certificat de Consolidation"
+title: "Relance **[Le Chirurgien SOS Main]** - Certificat de Consolidation"
 description: "Objet : Demande de certificat médical de consolidation — Suite courrier du **[J+37 Assignation 145]"
 type: courrier
 date: 2026-07-06

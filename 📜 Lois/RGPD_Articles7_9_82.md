@@ -1,4 +1,5 @@
 ---
+type: loi
 title: "RGPD – Articles 7, 9 et 82"
 date: 2026-07-20
 source: "Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016"

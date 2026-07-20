@@ -1,4 +1,5 @@
 ---
+type: loi
 title: "Article L321‑1 – Indemnités journalières d'assurance maladie"
 date: 2026-07-20
 source: "Légifrance – Code de la sécurité sociale"

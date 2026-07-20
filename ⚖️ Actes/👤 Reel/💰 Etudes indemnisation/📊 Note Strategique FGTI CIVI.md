@@ -15,7 +15,7 @@ reel_path: ../../👤 Reel/💰 Etudes indemnisation/📊 Note Strategique FGTI 
 jx: J+40
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [👤 Actes / reel — Version réelle](../README.md) › [💰 Etudes indemnisation](./README.md) › 📊 Note Strategique FGTI CIVI*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [💰 Études d'Indemnisation](./README.md) › 📊 Note Strategique FGTI CIVI*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -49,7 +49,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 
 ## III — PROCÉDURE DÉTAILLÉE DEVANT LA CIVI
 
-1. **Saisine** : Dépôt d'une requête devant la Commission d'Indemnisation des Victimes d'Infractions (CIVI) rattachée au Tribunal Judiciaire (TJ de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) ou de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)).
+1. **Saisine** : Dépôt d'une requête devant la Commission d'Indemnisation des Victimes d'Infractions (CIVI) rattachée au Tribunal Judiciaire (TJ de **[La Métropole Régionale](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) ou de **[La Ville de l'Accident](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)).
 
 2. **Phase amiable (FGTI)** : La requête est transmise au FGTI, qui dispose d'un délai de 2 mois pour formuler une offre d'indemnisation provisionnelle ou définitive.
 
