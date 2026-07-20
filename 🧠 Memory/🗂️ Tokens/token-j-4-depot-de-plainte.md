@@ -17,12 +17,12 @@ type: memory
 | Champ | Valeur |
 |---|---|
 | **Date** | 1er juin 2026 (lundi) — ⚠ coïncide avec J+3 (arrêt de travail) |
-| **Lieu** | Commissariat de **[La Ville de l'Accident]** |
+| **Lieu** | Commissariat de Toulouse Rive Droite |
 | **N° PV** | 2026/015967 |
 
 ## Description détaillée
 
-Dépôt de plainte officiel au commissariat de Foix par **[La Victime]** contre **[L'Exploitant du Commerce (La SAS)]** pour blessures involontaires. Le PV est rédigé par les services de police de **[La Ville de l'Accident]**.
+Dépôt de plainte officiel au commissariat de Toulouse (Division Toulouse Rive Droite) par **[La Victime]** contre **[L'Exploitant du Commerce (La SAS)]** pour blessures involontaires. Le PV est rédigé par les services de police de Toulouse Rive Droite.
 
 Le même jour, **[L'Adjoint au Maire de la Commune]** adresse un courriel à **[La Victime]** pour l'informer que le PV a été transmis.
 
