@@ -11,15 +11,15 @@ tags:
   - personnel
 statut: archive
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/✉️ Police Guide 📋Note.md
+token_path: ../../../🔑 Token/✉️ Courriers/👮 Police/✉️ Police Plainte 🛟Guide 📋Note.md
 jx: J+47
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👮 Police › ✉️ Police Guide 📋Note*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [✉️ Courriers (Versions Réelles)](../README.md) › [👮 Police](./README.md) › ✉️ Police Plainte 🛟Guide 📋Note*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -82,7 +82,7 @@ jx: J+47
 
 ### II.1 — À l'accueil du commissariat
 
-**Vous :** "Bonjour Madame/Monsieur, je suis [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md). J'ai déposé une plainte le 1er juin 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour un accident corporel grave survenu au salon de coiffure '[**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)'. Je souhaite déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves. Pouvez-vous me diriger vers le service compétent ?"
+**Vous :** "Bonjour Madame/Monsieur, je suis [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md). J'ai déposé une plainte le 1er juin 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour un accident corporel grave survenu au salon de coiffure '[SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)'. Je souhaite déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves. Pouvez-vous me diriger vers le service compétent ?"
 
 **Si on vous demande d'attendre :**
 "Bien sûr, je comprends. Puis-je avoir un numéro ou un ticket pour suivre mon tour ? Combien de temps l'attente est-elle généralement ?"
@@ -96,7 +96,7 @@ jx: J+47
 
 ### III.1 — Introduction auprès de l'officier
 
-**Vous :** "Bonjour Monsieur/Madame l'Officier. Je m'appelle [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), je suis la victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiffure '[**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)' situé au [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md). J'ai déjà déposé une plainte initiale le 1er juin ([PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)), et je souhaite aujourd'hui déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves par les dirigeants de l'établissement."
+**Vous :** "Bonjour Monsieur/Madame l'Officier. Je m'appelle [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), je suis la victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiffure '[SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)' situé au [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md). J'ai déjà déposé une plainte initiale le 1er juin ([PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)), et je souhaite aujourd'hui déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves par les dirigeants de l'établissement."
 
 **Remettez votre dossier en disant :**
 "Voici le dossier complet que j'ai préparé. Il contient la plainte complémentaire détaillée avec toutes les références juridiques, ainsi que les pièces justificatives. Je peux vous en faire un résumé si vous le souhaitez, ou vous préférez le parcourir d'abord ?"
@@ -212,7 +212,7 @@ jx: J+47
 4. "Dans quels délais puis-je espérer avoir un retour sur les premières investigations ?"
 
 **Sur les investigations :**
-5. "Une vérification sur place au [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) peut-elle être effectuée rapidement ?"
+5. "Une vérification sur place au [22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) peut-elle être effectuée rapidement ?"
 
 6. "Une perquisition pour rechercher les enregistrements de vidéosurveillance est-elle envisageable ?"
 
@@ -367,8 +367,8 @@ jx: J+47
 
 ## Sources Législation
 
-[^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
-[^2]: [Article 86 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062) ↩
-[^3]: [Article 53 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016) ↩
-[^4]: [Article 15-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) ↩
-[^5]: [Article 434-15 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641) ↩
+[^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+[^2]: [Article 86 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062)
+[^3]: [Article 53 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016)
+[^4]: [Article 15-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441)
+[^5]: [Article 434-15 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641)
