@@ -233,7 +233,7 @@ jx: J+39
 
 ### PIÈCE N° 41
 
-- [[**[J+27 Confirmation kiné]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-27-confirmation-kine.md) — Confirmation de rendez-vous de rééducation (Doctolib).
+- **[J+27 Confirmation kiné](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-27-confirmation-kine.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) — Confirmation de rendez-vous de rééducation (Doctolib).
 
 ### PIÈCE N° 42
 

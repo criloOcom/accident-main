@@ -54,7 +54,7 @@ INFRACTION(S) | BLESSURES INVOLONTAIRES, OBSTRUCTION A LA JUSTICE, DISSIMULATION
 
 FAIT |
 Date/Lieu Le 15/07/2026 à 10:00 (MERCREDI)
-Commissariat de Police de Foix, [[**[Adresse du Commissariat]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+Commissariat de Police de Foix, **[Adresse du Commissariat](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 OBJET : Audition sur plainte complémentaire (Réf. PV initial 2026/015967)
 

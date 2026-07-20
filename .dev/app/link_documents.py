@@ -267,10 +267,26 @@ def url_enc(path: str) -> str:
     return "/".join(quote(p) for p in path.split("/"))
 
 
+def split_yaml_frontmatter(content: str):
+    """Split content into (frontmatter, body). frontmatter is '' if none."""
+    m = re.match(r'^---\n(.*?)\n---\n', content, re.DOTALL)
+    if m:
+        return m.group(0), content[m.end():]
+    return '', content
+
+
 def find_link_spans(text: str) -> set:
     spans = set()
+    # Standard links without ] in text: [...](...)
     for m in re.finditer(r'\[([^\]]*)\]\(([^)]*)\)', text):
         spans.add((m.start(), m.end()))
+    # Extended links where text contains **[Token]** pattern:
+    # [**[Token]**](...) — the ] belongs to the bold+token, not link close
+    extended = re.compile(r'\[(?:[^\]]|\*\*\[[^\]]*\]\*\*)*\]\([^)]*\)')
+    for m in extended.finditer(text):
+        start, end = m.start(), m.end()
+        if not any(s <= start < e for s, e in spans):
+            spans.add((start, end))
     return spans
 
 
@@ -285,7 +301,7 @@ def build_token_regex(token_text: str) -> re.Pattern:
 
 def build_token_replacement(token_text: str, anchor: str, tok_map_rel: str) -> str:
     target_url = url_enc(tok_map_rel) + f"#{anchor}"
-    return f'[**[{token_text}]**]({target_url})'
+    return f'**[{token_text}]** [↗]({target_url})'
 
 
 def build_doc_replacement(match: re.Match, target_relpath: str) -> str:
@@ -316,6 +332,8 @@ def process_file(filepath: Path, dry_run: bool, verbose: bool, strate: str = "to
         return stats
 
     original = content
+    frontmatter, body = split_yaml_frontmatter(content)
+    content = body  # process only body
     link_spans = find_link_spans(content) if content else set()
 
     changes = []  # (type, old, new) for dry-run output
@@ -366,7 +384,8 @@ def process_file(filepath: Path, dry_run: bool, verbose: bool, strate: str = "to
             icon = "📄" if chg_type == "doc" else "🏷️"
             print(f"  {icon} {chg_label}: {chg_count} remplacement(s)")
     else:
-        filepath.write_text(content, encoding="utf-8")
+        restored = frontmatter + content
+        filepath.write_text(restored, encoding="utf-8")
 
     return stats
 
