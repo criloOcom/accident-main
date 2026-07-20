@@ -27,6 +27,8 @@ type: readme
 - [700](Article_700_Codeproc_Legifrance.md)
 
 - [Article835_CodeDeProcedureCivile_LegiFrance](Article835_CodeDeProcedureCivile_LegiFrance.md)
+
+- [655](Article_655_CodeProcedureCivile.md) — Signification à domicile ou à résidence
 ---
 
 > **Dernière mise à jour :** {datetime.now().strftime('%d %B %Y')}

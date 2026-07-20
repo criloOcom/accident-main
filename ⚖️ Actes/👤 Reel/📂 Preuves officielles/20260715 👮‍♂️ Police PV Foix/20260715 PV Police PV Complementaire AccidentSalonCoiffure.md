@@ -54,7 +54,7 @@ INFRACTION(S) | BLESSURES INVOLONTAIRES, OBSTRUCTION A LA JUSTICE, DISSIMULATION
 
 FAIT |
 Date/Lieu Le 15/07/2026 à 10:00 (MERCREDI)
-Commissariat de Police de Foix, [**[Adresse du Commissariat]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+Commissariat de Police de Foix, [[**[Adresse du Commissariat]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 OBJET : Audition sur plainte complémentaire (Réf. PV initial 2026/015967)
 
@@ -63,7 +63,7 @@ Le quinze juillet, à dix heures.
 
 Nous, Officier de Police Judiciaire,
 
---- Constatons que se présente M. [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), qui souhaite déposer une plainte complémentaire suite aux faits dénoncés le 02/06/2026 (PV n°2026/015967). ---
+--- Constatons que se présente M. [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), qui souhaite déposer une plainte complémentaire suite aux faits dénoncés le 02/06/2026 ([PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)). ---
 
 --- Information reçue des droits mentionnés à l'article 10-2 du code de procédure pénale. ---
 
@@ -79,7 +79,7 @@ Troisièmement, j'ai pu constater visuellement que le salon a rouvert ses portes
 
 Enfin, il est fort probable que la vasque cassée sur laquelle je me suis blessé ait été remplacée pour faire disparaître l'élément matériel dangereux qui a causé ma blessure.
 
-Je vous remets ce jour mon dossier complet de plainte complémentaire comprenant 15 pages d'exposé des faits et de fondements juridiques (Articles 434-4 et 222-20 du Code pénal, L. 4121-1 et L. 8221-1 du Code du travail), ainsi que l'ensemble des pièces jointes justificatives (accusés de réception NPAI, extrait Kbis, note d'audit).
+Je vous remets ce jour mon dossier complet de plainte complémentaire comprenant 15 pages d'exposé des faits et de fondements juridiques (Articles 434-4 et 222-20 du Code pénal, L. 4121-1 et L. 8221-1 du Code du travail), ainsi que l'ensemble des pièces jointes justificatives (accusés de réception NPAI, [extrait Kbis](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md), note d'audit).
 
 Je sollicite qu'une enquête approfondie soit menée, avec si possible une vérification sur place rapide pour constater l'état actuel des lieux, saisir les éventuels enregistrements vidéos restants, et entendre le personnel présent.
 

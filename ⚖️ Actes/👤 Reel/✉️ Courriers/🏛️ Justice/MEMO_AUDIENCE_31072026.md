@@ -5,7 +5,7 @@ type: preuve
 date: 2026-07-18
 statut: final
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md
+# reel_path: ancien chemin supprimé (fichier Reel, pas Token)
 jx: J+63
 ---
 <!-- Breadcrumb -->
@@ -70,7 +70,7 @@ jx: J+63
 
 | Procédure | Statut |
 |-----------|--------|
-| **Plainte initiale** | ✅ Déposée 2 juin 2026 — PV n°2026/015967 |
+| **Plainte initiale** | ✅ Déposée 2 juin 2026 — [PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) |
 | **Erratum correction société** | ✅ Déposé le 31 juillet 2026 — joint au dossier |
 | **Demande AJ Totale** | ✅ Déposée le [date] — récépissé n°[à remplir] |
 | **Requête Art. 145 CPC** | 🔴 En attente désignation avocat |

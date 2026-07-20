@@ -467,7 +467,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 > **Code de procédure pénale > Partie législative > Livre IV : De quelques procédures particulières > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction.[^17]**
 
 **Conditions cumulatives :**
-1. Infraction pénale caractérisée → blessures involontaires (art. 222-20 CP) — ITT pénale 1 jour, arrêt de travail 55 jours
+1. Infraction pénale caractérisée → blessures involontaires (art. 222-20 CP) — ITT pénale 1 jour, [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 55 jours
 
 2. Seuil CIVI : ITT ≥ 1 mois → **largement dépassé** (55 jours)
 

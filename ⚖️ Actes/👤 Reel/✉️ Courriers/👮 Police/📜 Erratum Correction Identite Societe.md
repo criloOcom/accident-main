@@ -6,7 +6,7 @@ date: 2026-07-17
 statut: final
 destinataire: "Destinataires des actes et autorités judiciaires"
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md
+# reel_path: ancien chemin supprimé (fichier Reel, pas Token)
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [⚖️ Actes Procéduraux (Versions Réelles)](../README.md) › [📋 Preparation Foix](./README.md) › 📜 Erratum Correction Identite Societe*

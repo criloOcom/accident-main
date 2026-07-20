@@ -30,7 +30,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/🛡️ Memo Strategie Admin
 > **Date :** 15 juillet 2026
 > **Source :** Consultation avocat (réponse à nos questions sur la proactivité)
 > **Statut :** ✅ **Validé par avocat le 15 juillet 2026**
-> **Objet :** Articulation des deux voies de droit ouvertes contre le salon « [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) »
+> **Objet :** Articulation des deux voies de droit ouvertes contre le salon « [[**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) »
 >
 > **Conclusion avocat :** « Je valifie l'articulation proposée : voie pénale = axe principal (statut procédural fort, droits à l'information et à la réparation via art. 10-2 et 40-2 CPP) ; voies administratives = axe secondaire (pression institutionnelle, enrichissement du dossier pénal/civil, mais pas de statut de partie). Aucun risque juridique à être proactif tant que les courriers restent factuels, polis et espacés. »
 ## I — SCHÉMA RÉCAPITULATIF
@@ -128,7 +128,7 @@ ACCIDENT 29/05/2026
 
 | N° | Action | Priorité | Calendrier |
 |----|--------|----------|------------|
-| 1 | Relancer le Maire [**[L'Adjoint au Maire de la Commune]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md) | Haute | Cette semaine |
+| 1 | Relancer le Maire [[**[L'Adjoint au Maire de la Commune]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md) | Haute | Cette semaine |
 | 2 | Envoyer courrier n°41 à la **Préfecture / CODAF** | Moyenne | Après retour Maire |
 | 3 | Envoyer courrier n°42 à l'**Inspection du travail** | Moyenne | Après retour Maire |
 | 4 | Suivre l'état de la plainte pénale (Comm. Foix) | Haute | J+15 |

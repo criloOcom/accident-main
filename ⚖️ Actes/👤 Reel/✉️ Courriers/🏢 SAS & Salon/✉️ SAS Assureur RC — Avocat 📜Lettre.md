@@ -130,7 +130,7 @@ Je joins à la présente l'intégralité des pièces déjà communiquées dans l
 
 - Procès-verbal de police relatif à l'accident ;
 
-- Certificat médical initial du 29 mai 2026 et compte-rendu opératoire du 30 mai 2026 ;
+- [Certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du 29 mai 2026 et [compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) du 30 mai 2026 ;
 
 - Rapport d'expertise médicale judiciaire du 12 juin 2027 ;
 

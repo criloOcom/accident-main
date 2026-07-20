@@ -52,15 +52,15 @@ L'expert a convoqué [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%
 
 - Procès-verbal de police n°[2026/015967](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (28 juin 2026)
 
-- Certificat médical initial du Dr [Dr Julie JARDON](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) (SMUR), 29 mai 2026
+- [Certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du Dr [Dr Julie JARDON](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) (SMUR), 29 mai 2026
 
-- Compte-rendu opératoire du [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) (SOS Main), 30 mai 2026
+- [Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) du [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) (SOS Main), 30 mai 2026
 
 - Comptes-rendus de consultations de suivi chirurgical : 12 juin, 3 juillet, 24 juillet 2026
 
 - Prescriptions et bilans de rééducation kinésithérapie (juin 2026 — mars 2027)
 
-- Certificats d'arrêt de travail (ITT du 29 mai 2026 au 23 juillet 2026)
+- Certificats d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT du 29 mai 2026 au 23 juillet 2026)
 
 - Imagerie médicale : radiographies de contrôle (30 mai, 12 juin 2026)
 
@@ -96,7 +96,7 @@ Le préposé de l'établissement a entrepris de régler un téléviseur fixé en
 
 - Prise en charge ergothérapique à partir de novembre 2026 (rééducation sensitive, désensibilisation)
 
-- Arrêt de travail total du 29 mai 2026 au 23 juillet 2026 (55 jours)
+- [Arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total du 29 mai 2026 au 23 juillet 2026 (55 jours)
 
 - Reprise professionnelle progressive à partir d'août 2026 à temps partiel thérapeutique
 

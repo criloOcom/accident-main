@@ -50,7 +50,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Synthese Avocat Ba
 - Pronostic : récupération nerveuse sur ≈ 1 an, souvent incomplète
 
 **1er juin 2026 – Généraliste et administratif (J+3)**
-- Consultation Dr Yogan OXYBEL : plaie suturée de 8,5 cm, paresthésies du pouce/index, arrêt de travail 15 jours (AT), ITT pénale 1 jour "sous réserve de complications"
+- Consultation Dr Yogan OXYBEL : plaie suturée de 8,5 cm, paresthésies du pouce/index, [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 15 jours (AT), ITT pénale 1 jour "sous réserve de complications"
 
 - Dossier plainte pénale rédigé et remis à la police
 

@@ -69,7 +69,7 @@ Vu l'article **1242 alinéa 1er** du Code civil ;
 
 Vu l'article **R. 4323-58** du Code du travail ;
 
-Vu les pièces versées aux débats, et notamment le procès-verbal de police n°2026/015967 et le certificat médical initial du 29 mai 2026 ;
+Vu les pièces versées aux débats, et notamment le procès-verbal de police n°2026/015967 et le [certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du 29 mai 2026 ;
 
 Vu l'absence de comparution des défendeurs, régulièrement assignés selon procès-verbal de recherches infructueuses (articles 659 et 658 CPC) ;
 ### EXPOSÉ DU LITIGE
@@ -89,7 +89,7 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 
 **Considérant** qu'aux termes de l'article 835 alinéa 2 du Code de procédure civile, le président du tribunal judiciaire peut accorder une provision au créancier lorsque l'existence de l'obligation n'est pas sérieusement contestable ;
 
-**Considérant** qu'il résulte des pièces produites — procès-verbal de police, certificat médical initial, compte-rendu opératoire — que le demandeur a été blessé le 29 mai 2026 dans l'établissement de la SAS défenderesse par le basculement d'une vasque en céramique sur laquelle le préposé était monté, et qu'il a subi des lésions graves à la main droite nécessitant une intervention chirurgicale d'urgence ;
+**Considérant** qu'il résulte des pièces produites — procès-verbal de police, [certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md), [compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) — que le demandeur a été blessé le 29 mai 2026 dans l'établissement de la SAS défenderesse par le basculement d'une vasque en céramique sur laquelle le préposé était monté, et qu'il a subi des lésions graves à la main droite nécessitant une intervention chirurgicale d'urgence ;
 
 **Considérant** que la responsabilité de [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) est engagée de plein droit sur le fondement de l'article **1242 alinéa 1er** du Code civil en qualité de gardienne de la vasque, qui a été l'instrument actif du dommage (Civ. 2e, 13 février 1991, n° 89-18.422) ; que la société est également engagée en qualité de commettant sur le fondement de l'article 1242 alinéa 5 du même code, le préposé ayant agi dans le cadre de ses fonctions ;
 
@@ -105,7 +105,7 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 
 **Considérant** que le préjudice corporel de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), nécessairement provisoire en l'absence de consolidation, peut être évalué comme suit à ce stade :
 
-- Pertes de gains professionnels actuels (PGPA) pour 55 jours d'arrêt de travail : **1 355 €** ;
+- Pertes de gains professionnels actuels (PGPA) pour 55 jours d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) : **1 355 €** ;
 
 - Frais médicaux et paramédicaux (chirurgie 790,23 €, soins de kinésithérapie) : **4 000 €** ;
 

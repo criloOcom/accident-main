@@ -90,7 +90,7 @@ jx: J+50
 | **Art. 1242 C. civ.** (garde de la chose) | Vasque instable = chose sous garde du salon ; basculement = fait de la chose |
 | **Art. 1242 al. 5 C. civ.** (commettant/préposé) | Coiffeur (préposé) monte sur vasque = faute dans fonctions |
 | **Art. 1240 C. civ.** (faute) | Absence de signalement vasque cassée + instabilité = faute |
-| **Art. 222-20 C. pén.** (blessures involontaires) | arrêt de travail 55 jours → circonstances aggravantes (violation obligation sécurité) |
+| **Art. 222-20 C. pén.** (blessures involontaires) | [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 55 jours → circonstances aggravantes (violation obligation sécurité) |
 | **Art. 223-1 C. pén.** (mise en danger) | Vasque cassée non signalée + autorisation monte = exposition risque immédiat |
 
 ### 3. Valeur probante exceptionnelle

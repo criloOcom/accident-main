@@ -24,7 +24,7 @@ jx: J+32
 
 
 
-# ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE [**[L'EXPLOITANT DU COMMERCE (LA SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
+# ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE [[**[L'EXPLOITANT DU COMMERCE (LA SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 > 🔗 Source Google Drive : [1lUKoGE8kozm…](https://drive.google.com/open?id=1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34)
 Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
 ## I — INTRODUCTION
@@ -191,7 +191,7 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 ### V.2 — FGTI / CIVI — VOIE PRINCIPALE (ART. 706-3 CPP)
 
 **Conditions remplies :**
-1. Infraction pénale (blessures involontaires, art. 222-20 CP) — ITT pénale 1 jour, arrêt de travail 55 jours ✅
+1. Infraction pénale (blessures involontaires, art. 222-20 CP) — ITT pénale 1 jour, [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 55 jours ✅
 
 2. Auteur insolvable ([200 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md)) ✅
 

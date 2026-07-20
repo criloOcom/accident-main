@@ -6,7 +6,7 @@ date: 2026-07-17
 statut: preparation
 destinataire: Commissariat de Police de [La Ville de l'Accident]
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Frise Chronologique Foix.md
+# reel_path: ancien chemin supprimé (fichier Reel, pas Token)
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [⚖️ Actes Procéduraux (Versions Réelles)](../README.md) › [📋 Preparation Foix](./README.md) › 📋 Frise Chronologique Foix*
@@ -27,7 +27,7 @@ reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/�
 | **22/04/2026** | Création de la **SAS [Le Nouvel Exploitant (HB BARBER)]** (SIREN [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md)) au 22 Grande Rue La Faurie, [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) | Même adresse, même activité (coiffure/barbier), DG commune : [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) |
 | **29/05/2026** | **Accident** de la main droite de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) dans le salon au 22 rue/Grande Rue La Faurie | Basculement d'un bac à shampoing cassé ; plaie profonde 8,5 cm, section tendons + nerfs index droit |
 | **30/05/2026** | Opération en urgence (SOS Main – [Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)) | Chirurgie de reconstruction tendino-nerveuse |
-| **01/06/2026** | Constat généraliste (Dr OXYBEL) + arrêt de travail 15 jours | Impact direct sur activité d'informaticien indépendant droitier |
+| **01/06/2026** | Constat généraliste (Dr OXYBEL) + [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 15 jours | Impact direct sur activité d'informaticien indépendant droitier |
 | **02/06/2026** | Plainte pénale déposée à [Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) Rive Droite (PV n° [2026/015967](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md)) | Exploitant alors indiqué : [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (incertitude précisée) |
 | **29/06/2026** | Envoi d'une vague de LRAR (LMG, [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), bailleur, CPAM, TJ [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)) | Plusieurs non réclamés / retours ; AR numériques pour CPAM, bailleur, tribunal |
 | **03/07/2026** | Réception LRAR par le bailleur [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) | Il répondra plus tard le 16/07 |

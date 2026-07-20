@@ -6,7 +6,7 @@ date: 2026-07-17
 statut: preparation
 destinataire: Commissariat de Police de [La Ville de l'Accident]
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Note Personnelle Commissariat Foix.md
+# reel_path: ancien chemin supprimé (fichier Reel, pas Token)
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [⚖️ Actes Procéduraux (Versions Réelles)](../README.md) › [📋 Preparation Foix](./README.md) › 📋 Note Personnelle Commissariat Foix*
@@ -40,7 +40,7 @@ J'y ai raconté en détail :
 
 - Mon activité professionnelle (informaticien indépendant, droitier)
 
-J'ai remis un **dossier de plainte écrit de ma main** (le 1er juin 2026), avec un bordereau de 11 pièces justificatives (identité, Kbis, captures Wero, certificats médicaux, ordonnances, arrêt de travail, attestation droits, échanges Mairie).
+J'ai remis un **dossier de plainte écrit de ma main** (le 1er juin 2026), avec un bordereau de 11 pièces justificatives (identité, Kbis, captures Wero, certificats médicaux, ordonnances, [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md), attestation droits, échanges Mairie).
 
 **Dans ce dossier, j'avais désigné [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) comme société responsable**, sur la base des informations que j'avais trouvées à l'époque (SIRET [938 033 222 00010](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md), 22 rue Lafaurie).
 
@@ -93,7 +93,7 @@ Pronostic : **Récupération nerveuse sur environ 1 an, souvent incomplète.**
 
 - **Paresthésies du premier rayon** (perte de sensibilité, fourmillements pouce/index)
 
-- Arrêt de travail total : **15 jours** (jusqu'au 12 juin 2026)
+- [Arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total : **15 jours** (jusqu'au 12 juin 2026)
 
 - ITT pénale initiale : **1 jour** « sous réserve de complications »
 

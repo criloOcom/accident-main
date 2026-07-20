@@ -6,7 +6,7 @@ date: 2026-07-17
 statut: preparation
 destinataire: Commissariat de Police de [La Ville de l'Accident]
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Bordereau de Pieces Foix.md
+# reel_path: ancien chemin supprimé (fichier Reel, pas Token)
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [⚖️ Actes Procéduraux (Versions Réelles)](../README.md) › [📋 Preparation Foix](./README.md) › 📋 Bordereau de Pieces Foix*
@@ -53,7 +53,7 @@ reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/�
 
 12. ☐ **Certificat médical Dr OXYBEL** — 01/06/2026 — 1 page
 
-13. ☐ **Arrêt de travail (15 jours, 01-12/06/2026)** — 1 page
+13. ☐ **[Arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (15 jours, 01-12/06/2026)** — 1 page
 
 14. ☐ **Ordonnances (Augmentin, Doliprane, Izalgi)** — 2 pages
 
@@ -71,7 +71,7 @@ reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/�
 
 20. ☐ **Copies LRAR adressées au salon le 29/06/2026** — 4 pages
 
-21. ☐ **Attestation de droits CPAM (n° dossier RCT [ ... ])** — 1 page
+21. ☐ **Attestation de droits CPAM (n° [dossier RCT](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) [ ... ])** — 1 page
 
 22. ☐ **Capture d'écran WhatsApp Ayoub 18/07/2026** — SMS au +33 7 58 40 12 87 + CERFA 11527\*03 joint — pas de retour — 1 page
 

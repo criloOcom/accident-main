@@ -50,7 +50,7 @@ Je soussigné [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%8
 
 Alors que je me trouvais installé au bac à shampoing, un salarié du salon est monté sur la vasque en céramique pour régler un téléviseur, en l'absence de tout équipement adapté (escabeau, marchepied). En descendant, la vasque a basculé brutalement. En tentant de le protéger par réflexe, j'ai tendu ma main droite — ma main dominante — qui a heurté une cassure majeure préexistante, non signalée, sur le flanc de la vasque.
 
-Cet accident a entraîné une section complète du tendon fléchisseur profond (FDP) de l'index droit, ainsi qu'une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une intervention de microchirurgie d'urgence le 30 mai 2026. Mon arrêt de travail total a été initialement fixé à 55 jours, avant une longue phase de rééducation.
+Cet accident a entraîné une section complète du tendon fléchisseur profond (FDP) de l'index droit, ainsi qu'une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une intervention de microchirurgie d'urgence le 30 mai 2026. Mon [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total a été initialement fixé à 55 jours, avant une longue phase de rééducation.
 
 Une expertise médicale judiciaire a depuis été réalisée. Par rapport en date du 12 juin 2027, l'expert retient notamment :
 
@@ -86,8 +86,8 @@ En application de ce texte, je vous mets donc formellement en demeure, en votre 
 
 4. **Me verser, à titre de provision**, une somme de **15 000 € (quinze mille euros)** à valoir sur l'indemnisation définitive de mes préjudices, montant cohérent avec :
 
-   - la preuve de l'accident et des lésions (PV de police, certificat médical initial, compte-rendu opératoire),
-   - la durée d'arrêt de travail (55 jours) et la consolidation à 12 mois,
+   - la preuve de l'accident et des lésions (PV de police, [certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md), [compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)),
+   - la durée d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (55 jours) et la consolidation à 12 mois,
    - les conclusions de l'expertise médicale judiciaire (DFP 12 %, SE 4/7, incidence professionnelle majeure),
    - les évaluations Dintilhac déjà produites.
 
@@ -95,9 +95,9 @@ Je joins à la présente, pour bonne information :
 
 - copie du procès-verbal de police relatif à l'accident ;
 
-- copie du certificat médical initial du 29 mai 2026 ;
+- copie du [certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du 29 mai 2026 ;
 
-- copie du compte-rendu opératoire du 30 mai 2026 ;
+- copie du [compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) du 30 mai 2026 ;
 
 - copie du rapport d'expertise médicale du 12 juin 2027 ;
 
@@ -129,7 +129,7 @@ Ce courrier est une **simulation** reprenant la structure du draft fourni par l'
 **Document remplacé :** ce document (J+50) se substitue à la précédente mise en demeure assureur (J+31, pré-expertise, désormais archivée).
 
 **Documents liés :**
-- Constitution de Partie Civile consolidée : [`🛡️ Constitution Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
+- [Constitution de Partie Civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) consolidée : [`🛡️ Constitution Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
 
 - Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
 
