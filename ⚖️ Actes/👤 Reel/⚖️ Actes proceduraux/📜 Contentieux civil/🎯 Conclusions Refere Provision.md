@@ -157,7 +157,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 **I.** De constater que l'obligation de la société défenderesse n'est pas sérieusement contestable et d'ordonner la condamnation de cette dernière au paiement d'une provision provisoire de **15 000 €**, comprenant :
 
-- les pertes de gains professionnels actuels (PGPA) au titre des 55 jours d'ITT : 1 380 € ;
+- les pertes de gains professionnels actuels (PGPA) au titre des 55 jours d'arrêt de travail : 1 355 € ;
 
 - les frais médicaux et paramédicaux passés et à venir : 5 000 € ;
 
@@ -222,7 +222,7 @@ Cette version a été rédigée à partir du mémoire juridique produit par l'as
 
 | Point | Version antérieure | Version Glose | Version finale |
 |---|---|---|---|---|---|
-| Provision | 5 000 € | 8 000 € | **15 000 €** (PGPA 1 380 + frais méd. 5 000 + SE 5 000 + IP 1 620 + art. 700 3 000) |
+| Provision | 5 000 € | 8 000 € | **15 000 €** (PGPA 1 355 + frais méd. 5 000 + SE 5 000 + IP 1 620 + art. 700 3 000) |
 | Astreinte | (non spécifiée) | 100 €/jour | 100 €/jour |
 | Art. 145 CPC | Expertise médicale | Expertise médicale + comm. assurance | Expertise médicale + comm. assurance |
 | Art. R. 4323-58 CT | *(absent)* | *(absent)* | **Ajouté** (violation norme impérative) |

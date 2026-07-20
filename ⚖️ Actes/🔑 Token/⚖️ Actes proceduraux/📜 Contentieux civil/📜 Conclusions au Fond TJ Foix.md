@@ -330,7 +330,7 @@ Aide humaine temporaire pendant la période de convalescence.
 |-------|---------|
 | DSA | 790,23 € (recours CPAM à déduire) |
 | DFT | 2 031 € |
-| PGPA | 1 380 € |
+| PGPA | 1 355 € |
 | PGPF | 50 000 – 70 000 € (fourchette) |
 | Incidence professionnelle | 28 000 € |
 | DSF | 3 000 € |
@@ -382,7 +382,7 @@ Vu les pièces versées aux débats,
 
 - Au titre des frais divers (DFT) : **2 031 €**
 
-- Au titre des pertes de gains professionnels actuels (PGPA) : **1 380 €**
+- Au titre des pertes de gains professionnels actuels (PGPA) : **1 355 €**
 
 - Au titre des dépenses de santé actuelles (DSA) : **790,23 €**
 

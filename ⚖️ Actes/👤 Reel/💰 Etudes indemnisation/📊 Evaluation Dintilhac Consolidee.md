@@ -116,7 +116,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 | Poste | Notre estimation (optimiste) | Glose (conservatif) | Critique Glose | **Compromis final retenu** |
 |---|---|---|---|---|
-| PGPA | 1 900 € | 1 380 € | 1 380 € | **1 380 €** |
+| PGPA | 1 900 € | 1 355 € | 1 355 € | **1 355 €** |
 | DFT | 1 375 € | *(inclus)* | *(inclus)* | **1 375 €** |
 | DFP | 31 200 € (12%) | 25 000 € (8%) | 18 000-45 000 € (10-12%) | **25 000 €** |
 | Souffrances Endurées | 24 000 € | 8 500 € | 15 000-24 000 € | **15 000 €** |
@@ -134,7 +134,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 | Poste | Fourchette basse | Fourchette haute | Médiane retenue |
 |---|---|---|---|
-| PGPA | 1 380 € | 2 400 € | 1 380 € |
+| PGPA | 1 355 € | 2 400 € | 1 355 € |
 | DFT | 1 375 € | 1 650 € | 1 375 € |
 | DFP | 25 000 € | 36 840 € | 25 000 € |
 | Souffrances Endurées | 15 000 € | 30 000 € | 15 000 € |
@@ -167,9 +167,9 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 **Vérification :** Pour un indépendant, les IJ CPAM sont calculées sur le revenu annuel moyen des 3 dernières années (1/720e × 50 %). Sous réserve du relevé de débours CPAM.
 
-**Perte de chance complémentaire :** Impossibilité de prospecter pendant 55 jours peut porter ce poste de 1 380 à 1 900 €.
+**Perte de chance complémentaire :** Impossibilité de prospecter pendant 55 jours peut porter ce poste de 1 355 à 1 900 €.
 
-**Compromis retenu : 1 380 €** (formule Glose, arithmétiquement plus précise)
+**Compromis retenu : 1 355 €** (formule Glose, arithmétiquement plus précise)
 
 **Sources :**
 - Nomenclature Dintilhac
@@ -586,7 +586,7 @@ Trois évaluations convergent vers une provision minimale de **10 000 à 15 000 
 | Source | Montant proposé | Détail |
 |---|---|---|
 | Notre recommandation | 15 000 € | PGPA + frais médicaux + SE + IP |
-| Glose | 8 000 € | PGPA 1 380 + frais méd. 3 000 + SE 3 000 + art. 700 2 000 |
+| Glose | 8 000 € | PGPA 1 355 + frais méd. 3 000 + SE 3 000 + art. 700 2 000 |
 | Critique Glose | 15 000 € minimum | Confirme notre position |
 
 **Compromis retenu : Demander 15 000 € en provision (dont 3 000 € art. 700)**
