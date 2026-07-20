@@ -230,13 +230,18 @@ Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../%F0%9F%93%8A%20Rapports/RAPPORT_A
 
 | N° LRAR | Destinataire | Acheté le | Statut La Poste réel |
 |---------|--------------|-----------|----------------------|
-| `87001424863012T` | **[L'Exploitant du Commerce (La SAS)]** (mise en demeure J+31) | 29/06/2026 | Distribution impossible (PND) |
-| `87001424721856G` | **[La Directrice Générale de l'Exploitation]** (mise en demeure J+31) | 29/06/2026 | Retour à l'expéditeur (défaut d'adresse) |
-| `87001424862879J` | **[Le Président de l'Exploitation]** (mise en demeure J+31) | 29/06/2026 | En attente de retrait (FOIX R P) |
+| `87001424863012T` | **[L'Exploitant du Commerce (La SAS)]** (mise en demeure J+31) | 29/06/2026 | En cours de retour à l'expéditeur |
+| `87001424721856G` | **[La Directrice Générale de l'Exploitation]** (mise en demeure J+31) | 29/06/2026 | En cours de retour à l'expéditeur |
+| `87001424862879J` | **[Le Président de l'Exploitation]** (mise en demeure J+31) | 29/06/2026 | En attente de retrait (FOIX R P, jusqu'au 21/07) |
 | `87001424862462Y` | **[Le Propriétaire des Murs]** (M. Romain DELRIEU) | 29/06/2026 | Avis de réception numérique disponible (AR signé) |
 | `87001424923505I` | Tribunal Judiciaire de Foix (constitution de partie civile) | 29/06/2026 | Avis de réception numérique disponible |
 | `87001421903907I` | CPAM de Toulouse (dossier RCT) | 24/06/2026 | Avis de réception numérique disponible |
-| `870014282662911` | **[L'Exploitant du Commerce (La SAS)]** (Relance Dirigeants J+40, V2) | 08/07/2026 | En attente de retrait (FOIX R P) — preuve dépôt + facture Z0132713629 |
+| `870014282662911` | **[L'Exploitant du Commerce (La SAS)]** (Relance Dirigeants J+40, V2) | 08/07/2026 | En attente de retrait (FOIX R P, jusqu'au 28/07) |
+| `87500152771696F` | **[Le Nouvel Exploitant (HB BARBER)]** (mise en demeure J+51) | 18/07/2026 | Pris en charge par La Poste |
+| `875001528942001` | **[Le Président du Nouvel Exploitant]** (Hamza BERGUIGA, J+51) | 18/07/2026 | Pris en charge par La Poste |
+| `875001528942010` | **[La Directrice Générale de l'Exploitation]** (Catherine SORROCHE, J+51) | 18/07/2026 | Pris en charge par La Poste |
+| `87500152888336B` | GHT des Pyrénées Ariégeoises CHIVA (Hôpital de Foix) | 18/07/2026 | Pris en charge par La Poste |
+| `87500152910287Q` | **[Le Propriétaire des Murs]** (Relance 3, J+52) | 19/07/2026 | Pris en charge par La Poste |
 
 Les tokens `[N° LRAR Exploitant]`, `[N° LRAR Directrice]`, `[N° LRAR Président]` (et équivalents) dans les courriers Token résolvent vers ces valeurs réelles via la strate 👤 Reel.
 

@@ -105,6 +105,16 @@ type: memory
 | 31727387 | [**[N° Dossier CPAM]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md) |
 <a id="token-siret-de-l-exploitation"></a>
 | 938 033 222 00010 | [**[SIRET de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siret.md) |
+| 87001424863012T | [**[N° LRAR Exploitant]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-exploitant.md) |
+| 87001424862879J | [**[N° LRAR Président]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-president.md) |
+| 87001424721856G | [**[N° LRAR Directrice]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-directrice.md) |
+| 87001424862462Y | [**[N° LRAR Propriétaire]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-proprietaire.md) |
+| 87001424923505I | [**[N° LRAR Parquet]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-parquet.md) |
+| 87500152771696F | [**[N° LRAR HB BARBER Société]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-hb-barber-societe.md) |
+| 875001528942001 | [**[N° LRAR HB BARBER Président]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-hb-barber-president.md) |
+| 875001528942010 | [**[N° LRAR HB BARBER DG]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-hb-barber-dg.md) |
+| 87500152888336B | [**[N° LRAR CHIVA]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-chiva.md) |
+| 87500152910287Q | [**[N° LRAR Propriétaire Relance 3]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-proprietaire-relance-3.md) |
 
 ## Personnes morales (suite) {#personnes-morales-suite}
 | Texte original | Token |

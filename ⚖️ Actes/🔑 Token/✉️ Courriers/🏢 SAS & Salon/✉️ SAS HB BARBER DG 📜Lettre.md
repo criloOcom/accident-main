@@ -5,6 +5,7 @@ type: courrier
 date: 2026-07-18
 calendar_event_id: "1mbqfdhq594llbiqb3b1thjn60"
 statut: envoye
+lrar_number: "875001528942010"
 destinataire: La Directrice Générale de l'Exploitation
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER DG 📜Lettre.md

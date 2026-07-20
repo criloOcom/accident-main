@@ -175,6 +175,8 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 
 - [✉️ SAS Assureur RC — Avocat 📜Lettre.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20Assureur%20RC%20%E2%80%94%20Avocat%20%F0%9F%93%9CLettre.md)
 
+- [✉️ CHIVA Demande Dossier Medical 📜Lettre.md](%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%E2%9C%89%EF%B8%8F%20CHIVA%20Demande%20Dossier%20Medical%20%F0%9F%93%9CLettre.md)
+
 ---
 
 ## Rappel des règles Token/Reel

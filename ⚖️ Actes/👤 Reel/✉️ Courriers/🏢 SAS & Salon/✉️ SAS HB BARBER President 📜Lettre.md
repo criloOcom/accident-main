@@ -5,6 +5,7 @@ type: courrier
 date: 2026-07-18
 calendar_event_id: "euj8kofakfdc2cib6btnqq2ae4"
 statut: envoye
+lrar_number: "875001528942001"
 destinataire: Le Président du Nouvel Exploitant
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER President 📜Lettre.md

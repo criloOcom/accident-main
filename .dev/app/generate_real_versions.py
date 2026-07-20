@@ -99,6 +99,11 @@ REVERSE_MAP = {
     "**[N° LRAR Directrice]**": "87001424721856G",
     "**[N° LRAR Propriétaire]**": "87001424862462Y",
     "**[N° LRAR Parquet]**": "87001424923505I",
+    "**[N° LRAR HB BARBER Société]**": "87500152771696F",
+    "**[N° LRAR HB BARBER Président]**": "875001528942001",
+    "**[N° LRAR HB BARBER DG]**": "875001528942010",
+    "**[N° LRAR CHIVA]**": "87500152888336B",
+    "**[N° LRAR Propriétaire Relance 3]**": "87500152910287Q",
     "**[N° Transaction Wero]**": "IPR000297029234",
     "**[N° PV Police]**": "2026/015967",
     "[N° PV Police]": "2026/015967",  # fallback for bare-bracket variants

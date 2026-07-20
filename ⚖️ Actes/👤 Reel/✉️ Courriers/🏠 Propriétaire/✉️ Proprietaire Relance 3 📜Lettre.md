@@ -10,7 +10,8 @@ tags:
   - accident corporel
   - action directe
   - SAS HB BARBER
-statut: preparation
+statut: envoye
+lrar_number: "87500152910287Q"
 destinataire: Le Propriétaire des Murs
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏠 Propriétaire/✉️ Proprietaire Relance 3 📜Lettre.md
