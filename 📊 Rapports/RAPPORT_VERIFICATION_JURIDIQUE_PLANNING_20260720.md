@@ -17,13 +17,13 @@ Ce rapport présente l'état de la planification pour la semaine du 20 juillet 2
 
 ## 1. Rapport Planning (Semaine du 20 Juillet 2026)
 
-Aujourd'hui, **20 juillet 2026**, est un **jour d'action critique** sur le terrain à Foix. 
+Le déplacement à Foix initialement prévu le 20 juillet a été **décalé au mercredi 22 juillet 2026** pour des raisons d'organisation. Les actions concernant les preuves Wero ont été définitivement supprimées de la planification.
 
-### État du déplacement et des échéances du 20 juillet 2026 (Aujourd'hui) :
+### Échéances et actions du mercredi 22 juillet 2026 (Jour d'Action Critique) :
 
-- **Toujours d'actualité ?** : ✅ **OUI**, absolument. Le déplacement à Foix est programmé pour aujourd'hui avec le statut **À FAIRE - URGENT**.
+- **Horaires du déplacement** : programmé de **09h00 à 17h00** à Foix (TJ, Commissariat et salon).
 
-- **Détail des actions à mener aujourd'hui (20/07)** :
+- **Détail des actions terrain à mener (22/07)** :
 
   1. 🏛️ **Matin (TJ Foix)** : Déposer la *Requête en mesures d'instruction in futurum* (Art. 145 CPC) au greffe civil.
 
@@ -33,17 +33,10 @@ Aujourd'hui, **20 juillet 2026**, est un **jour d'action critique** sur le terra
 
   4. 👮 **Après-midi (Commissariat de Foix)** : Déposer le *dépôt de plainte complémentaire* suite à la découverte de la SAS HB BARBER et l'erratum d'identité sociale.
 
-  5. 📮 **Envoi postal** : Expédier la LRAR Erratum d'identité et les courriers de signalement n°41 (Préfecture/CODAF) et n°42 (Inspection du Travail).
-
-### Reste de la semaine (21-26 juillet 2026) :
-
-- 📅 **Mercredi 22 juillet 2026** :
-
-  - **11h00 - 11h30** : Rédaction et envoi du courrier de conservation de preuve au PSP de paiement **Wero** (fondement RGPD pour l'historique du paiement de 15 €).
-
-  - **11h30 - 12h00** : Envoi des 3 formulaires CERFA 11527*03 d'attestations de témoins (Ayoub, client présent, pompier, employé).
-
-  - **12h00 - 12h30** : Collecte des emails et contacts manquants des témoins et du Dr DJERBI (SOS Main).
+  5. 📮 **Envois postaux et administratifs** :
+     - Expédier la LRAR Erratum d'identité et les courriers de signalement n°41 (Préfecture/CODAF) et n°42 (Inspection du Travail).
+     - Envoyer les 3 formulaires CERFA 11527*03 d'attestations de témoins (Ayoub, client présent, pompier, employé) [Planifié à 11h30].
+     - Collecter les adresses emails manquantes pour les témoins et le Dr DJERBI [Planifié à 12h00].
 
 - 📅 **Samedi 25 juillet 2026** :
 

@@ -37,4 +37,3 @@ Ces tokens n'ont pas de correspondance dans TOKEN MAP.md et ont été laissés i
 | ⚖️ Actes/👤 Reel/🗂️ Organisation/🗂️ Plan Action.md | 146 | `**[Téléphone Ordre Avocats]**` |
 | ⚖️ Actes/👤 Reel/🗂️ Organisation/🗂️ Plan Action.md | 146 | `**[Téléphone Huissier]**` |
 | ⚖️ Actes/👤 Reel/🗂️ Organisation/📦 Bon Envoi Physique.md | 39 | `**[Adresse Tribunal Judiciaire]**` |
-
