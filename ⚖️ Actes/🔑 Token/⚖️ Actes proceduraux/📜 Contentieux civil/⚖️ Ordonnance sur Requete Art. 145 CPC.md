@@ -17,13 +17,14 @@ auteur: Projet — Juge des requêtes du TJ Foix
 reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Ordonnance sur Requete Art. 145 CPC.md
 jx: J+52
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › ⚖️ Ordonnance sur Requete Art. 145 CPC*
+<hr>
+<!-- /Breadcrumb -->
 
 > **Projet d'ordonnance — Version HB BARBER.** Document de travail destiné à préparer le dépôt de la requête du 20 juillet 2026.
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › ⚖️ Ordonnance sur Requete Art. 145 CPC*
-<hr>
-<!-- /Breadcrumb -->
+
 
 **TRIBUNAL JUDICIAIRE DE [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
 

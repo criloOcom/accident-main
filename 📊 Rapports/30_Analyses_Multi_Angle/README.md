@@ -3,9 +3,8 @@ title: "30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle"
 description: "Analyses de fond : stratégie globale, pénale, responsabilité, conformité + 12 rapports multi-angle (missions Jules)."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › 30_Analyses_Multi_Angle*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › 30 Analyses Multi Angle*
 <hr>
 <!-- /Breadcrumb -->
 

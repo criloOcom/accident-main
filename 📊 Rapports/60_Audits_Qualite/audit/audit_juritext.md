@@ -4,9 +4,8 @@ date: FIXME
 description: "Date :** 10 juillet 2026"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [📁 audit](./README.md) › audit juritext*
+*[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [60_Audits_Qualite — Audits internes et qualité](../README.md) › [📁 audit](./README.md) › audit juritext*
 <hr>
 <!-- /Breadcrumb -->
 

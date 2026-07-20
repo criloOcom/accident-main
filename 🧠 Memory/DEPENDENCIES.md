@@ -3,6 +3,10 @@ title: "Graphe de Dépendances"
 description: "Graphe orienté des liens internes entre fichiers .md"
 type: memory
 ---
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › DEPENDENCIES*
+<hr>
+<!-- /Breadcrumb -->
 
 # Graphe de Dépendances
 

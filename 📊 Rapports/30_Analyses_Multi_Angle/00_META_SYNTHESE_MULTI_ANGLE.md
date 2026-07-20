@@ -4,9 +4,8 @@ date: FIXME
 description: "Rapport master condensant les 12 analyses par angle professionnel et les notes stratégiques en une vue transversale unique."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › [30_Analyses_Multi_Angle](./README.md) › 00_Méta-Synthèse*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](./README.md) › 00 META SYNTHESE MULTI ANGLE*
 <hr>
 <!-- /Breadcrumb -->
 

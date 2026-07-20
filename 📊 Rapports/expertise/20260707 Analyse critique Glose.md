@@ -4,9 +4,8 @@ date: 2026-07-07
 description: "Analyse critique sur le mémoire juridique de Glose (archivé)"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › Analyse critique Glose*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › expertise › 20260707 Analyse critique Glose*
 <hr>
 <!-- /Breadcrumb -->
 

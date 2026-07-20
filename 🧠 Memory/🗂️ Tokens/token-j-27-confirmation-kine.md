@@ -3,7 +3,6 @@ title: "📅 J+27 Confirmation kiné"
 description: "Token :** `**[J+27 Confirmation kiné]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-27-confirmation-kine*
 <hr>

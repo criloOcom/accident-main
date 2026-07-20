@@ -5,9 +5,8 @@ type: memory
 date: 2026-07-17
 statut: preparation
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md) › Mémo Stratégie Bailleur HB BARBER*
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › Mémo Stratégie Bailleur HB BARBER*
 <hr>
 <!-- /Breadcrumb -->
 

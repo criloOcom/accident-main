@@ -14,13 +14,14 @@ destinataire: CPAM Haute-Garonne — Pôle Recours Contre Tiers
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏥 CPAM/✉️ CPAM Rectification Identite 🔄Relance.md
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏥 CPAM › ✉️ CPAM Rectification Identite 🔄Relance*
+<hr>
+<!-- /Breadcrumb -->
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › ✉️ CPAM Rectification Identite 🔄Relance*
-<hr>
-<!-- /Breadcrumb -->
+
 
 # COURRIER DE RECTIFICATION D'IDENTITÉ DE LA SOCIÉTÉ RESPONSABLE
 ## Dossier RCT n° [**[N° Dossier CPAM]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md)

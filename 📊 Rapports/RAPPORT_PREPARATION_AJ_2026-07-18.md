@@ -4,10 +4,11 @@ date: 2026-07-18
 description: "Rapport pour la constitution et le dépôt du dossier de demande d'Aide Juridictionnelle totale (CERFA 16146*03) au TJ de Foix."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-<a href="../README.md">Retour</a>
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT PREPARATION AJ 2026-07-18*
+<hr>
 <!-- /Breadcrumb -->
+
 <hr>
 
 # PRÉPARATION DOSSIER AIDE JURIDICTIONNELLE (AJ)

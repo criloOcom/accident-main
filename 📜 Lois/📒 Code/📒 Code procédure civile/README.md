@@ -4,7 +4,7 @@ description: "Dossier contenant les articles du Code de procédure civile cités
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Code de procédure civile*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Code procédure civile*
 <hr>
 <!-- /Breadcrumb -->
 

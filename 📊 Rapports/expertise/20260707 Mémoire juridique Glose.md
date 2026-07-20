@@ -4,9 +4,8 @@ date: 2026-07-07
 description: "Mémoire juridique produit par l'assistant Glose (archivé)"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › Mémoire juridique Glose*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › expertise › 20260707 Mémoire juridique Glose*
 <hr>
 <!-- /Breadcrumb -->
 

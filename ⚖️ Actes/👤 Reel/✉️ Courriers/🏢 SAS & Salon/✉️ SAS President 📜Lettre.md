@@ -22,13 +22,15 @@ drive_id: 1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I
 calendar_event_id: "dd8qkuvg1t3jquofh93ccnl0lg"
 jx: J+31
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [✉️ Courriers (Versions Réelles)](../README.md) › [🏢 SAS & Salon](./README.md) › ✉️ SAS President 📜Lettre*
+<hr>
+<!-- /Breadcrumb -->
+
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › ✉️ SAS President 📜Lettre*
-<hr>
-<!-- /Breadcrumb -->
+
 
 # MISE EN DEMEURE AUX DIRIGEANTS<br>DEMANDE D'INFORMATION ASSURANCE RC
 > 🔗 Source Google Drive : [1pheN3_rudxy…](https://drive.google.com/open?id=1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I)

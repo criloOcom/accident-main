@@ -17,13 +17,14 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/🔍 Requete Article 145 CPC.md
 jx: J+52
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › 🔍 Requete Article 145 CPC*
+<hr>
+<!-- /Breadcrumb -->
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident.
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › 🔍 Requete Article 145 CPC*
-<hr>
-<!-- /Breadcrumb -->
+
 
 # REQUÊTE<br>Communication d'assurances, conservation de vidéos et mesures d'instruction
 

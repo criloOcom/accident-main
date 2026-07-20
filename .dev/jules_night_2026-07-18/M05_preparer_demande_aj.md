@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M05 preparer demande aj*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 5 — Préparer le dossier complet d'Aide Juridictionnelle
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

@@ -3,9 +3,8 @@ title: "Mission 08 — Rapport Préliminaire du Médecin Expert Judiciaire"
 description: "Analyse médico-légale des lésions à la main droite (tendons et nerf) et évaluation prévisionnelle des préjudices selon la Nomenclature Dintilhac."
 type: analyse_juridique
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › [Analyses Multi-Angle](./README.md) › Mission 08*
+*[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](../README.md) › [Analyses Multi-Angle — 15 Missions](./README.md) › 08 Rapport Expert Justice*
 <hr>
 <!-- /Breadcrumb -->
 

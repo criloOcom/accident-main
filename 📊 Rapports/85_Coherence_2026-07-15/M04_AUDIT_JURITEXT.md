@@ -4,9 +4,9 @@ date: FIXME
 description: Vérification de l'existence des JURITEXT
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-<a href="../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md">Retour</a>
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [🎯 Audits de Cohérence et Conformité](./README.md) › M04 AUDIT JURITEXT*
+<hr>
 <!-- /Breadcrumb -->
 
 <hr><hr>

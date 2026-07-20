@@ -5,7 +5,7 @@ description: "Rapport d'évaluation de l'organisation, de la navigabilité et de
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › RAPPORT_ORGANISATION_DEPOT_2026-07-14*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [60_Audits_Qualite — Audits internes et qualité](./README.md) › RAPPORT ORGANISATION DEPOT 2026-07-14*
 <hr>
 <!-- /Breadcrumb -->
 

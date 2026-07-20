@@ -4,6 +4,10 @@ date: FIXME
 description: "Questionnaire V2 pour vérifier les correctifs du 18/07/2026 : RGPD Token, liens 404, tokens manquants, scripts synchronisés"
 type: rapport
 ---
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › 50 QUESTIONS GEMINI REVUE TOTALE*
+<hr>
+<!-- /Breadcrumb -->
 
 # 50 Questions V2 — Revue Totale Post-Corrections par Gemini
 

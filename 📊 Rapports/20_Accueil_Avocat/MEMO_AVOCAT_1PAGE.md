@@ -5,6 +5,10 @@ type: rapport
 date: 2026-07-14
 statut: final
 ---
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [20_Accueil_Avocat — Kit d'accueil avocat](./README.md) › MEMO AVOCAT 1PAGE*
+<hr>
+<!-- /Breadcrumb -->
 
 > **Accident du [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** — salon [**[L'Exploitant du Commerce]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), [**[La Ville de l'Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 > **Victime** : [**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), 44 ans, informaticien indépendant

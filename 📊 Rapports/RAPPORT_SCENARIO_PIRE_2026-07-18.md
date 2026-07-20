@@ -4,10 +4,11 @@ date: 2026-07-18
 description: "Analyse des recours disponibles en cas d'absence d'assurance de la SAS HB BARBER, d'insolvabilité probable, de refus d'AJ et de perte des vidéos."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-<a href="../README.md">Retour</a>
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT SCENARIO PIRE 2026-07-18*
+<hr>
 <!-- /Breadcrumb -->
+
 <hr>
 
 # RAPPORT SCÉNARIO DU PIRE (Absence d'assurance, d'AJ et vidéos écrasées)

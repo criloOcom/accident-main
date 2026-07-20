@@ -3,7 +3,6 @@ title: "👤 Le Prénom du Préposé"
 description: "Token :** `**[Le Prénom du Préposé]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-prepose-prenom*
 <hr>

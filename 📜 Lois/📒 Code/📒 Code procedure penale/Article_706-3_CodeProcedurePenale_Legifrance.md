@@ -8,7 +8,6 @@ legiarti: LEGIARTI000006577625
 code: Code de procédure pénale
 article: 706-3
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code procedure penale](./README.md) › Article 706-3 CodeProcedurePenale Legifrance*
 <hr>

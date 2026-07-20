@@ -8,7 +8,6 @@ legiarti: LEGIARTI000006417206
 code: Code pénal
 article: 121-1 à 121-7
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code penal](./README.md) › Article 121-1a121-7 CodePenal Legifrance*
 <hr>

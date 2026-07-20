@@ -4,10 +4,9 @@ date: FIXME
 description: "Guide pédagogique expliquant la navigation et l'utilisation de l'écosystème Git, l'architecture Token/Reel, et la contribution au projet."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › GUIDE_AVOCAT*
-<a href="../README.md">Retour</a>
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [20_Accueil_Avocat — Kit d'accueil avocat](./README.md) › GUIDE AVOCAT UTILISATION REPO*
+<hr>
 <!-- /Breadcrumb -->
 
 <hr>

@@ -3,9 +3,8 @@ title: "📦 Archives"
 description: "Ce dossier regroupe les documents historiques et les annexes qui ne font pas partie des actes vivants du dossier mais qui restent nécessaires à la compréhension complète du contentieux."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › 🗄️ Archives*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › 🗄️ Archives*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -45,6 +44,9 @@ type: readme
 - [🧠 STRATEGIE Contentieux Civil](%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Civil.md)
 
 - [🧠 STRATEGIE Contentieux Penal](%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md)
+
 - [✅ Bordereau Pieces 15 Juillet](✅%20Bordereau%20Pieces%2015%20Juillet.md)
+
 - [✅ Checklist Envoi 11-07](✅%20Checklist%20Envoi%2011-07.md)
+
 - [📋 Checklist Deplacement Foix](📋%20Checklist%20Deplacement%20Foix.md)

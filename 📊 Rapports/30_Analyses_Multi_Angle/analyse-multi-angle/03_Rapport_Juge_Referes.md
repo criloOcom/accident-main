@@ -4,10 +4,11 @@ date: FIXME
 description: "Examen des demandes de la victime suite à l'accident du 29 mai 2026 : urgence, trouble manifestement illicite, provision et astreinte."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › [🔍 Analyse multi-angle](./README.md) › 03_Rapport_Juge_Referes.md*
+*[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](../README.md) › [Analyses Multi-Angle — 15 Missions](./README.md) › 03 Rapport Juge Referes*
+<hr>
 <!-- /Breadcrumb -->
+
 <hr>
 
 # RAPPORT D'ANALYSE : JUGE DES RÉFÉRÉS (TJ DE FOIX)

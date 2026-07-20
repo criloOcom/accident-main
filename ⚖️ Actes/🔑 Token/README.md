@@ -3,9 +3,8 @@ title: "🎭 Actes / token — Version Anonymisée"
 description: "Ce dossier contient la version de travail de tous les actes."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📁 Actes](../README.md) › 🔑 Token*
+*[🏠](../../README.md) › [📁 Actes — Dossier Contentieux](../README.md) › 🔑 Token*
 <hr>
 <!-- /Breadcrumb -->
 

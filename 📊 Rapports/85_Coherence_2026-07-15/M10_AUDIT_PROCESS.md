@@ -4,9 +4,8 @@ date: FIXME
 description: "Vérification du respect des règles définies dans AGENTS.md, CONVENTIONS.md, RULES.md et DECISIONS.md"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › 85_Coherence_2026-07-15*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [🎯 Audits de Cohérence et Conformité](./README.md) › M10 AUDIT PROCESS*
 <hr>
 <!-- /Breadcrumb -->
 

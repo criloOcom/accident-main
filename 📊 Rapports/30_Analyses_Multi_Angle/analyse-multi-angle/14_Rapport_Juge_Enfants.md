@@ -4,8 +4,10 @@ date: FIXME
 description: "Rapport d'analyse sous l'angle du Juge des enfants / Juge aux affaires familiales concernant l'accident du 29 mai 2026."
 type: rapport
 ---
-
-<!-- Breadcrumb -->[🏠](../../README.md) > [📊 Rapports](../README.md) > [analyse-multi-angle](README.md)<!-- /Breadcrumb -->
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](../README.md) › [Analyses Multi-Angle — 15 Missions](./README.md) › 14 Rapport Juge Enfants*
+<hr>
+<!-- /Breadcrumb -->
 
 <hr>
 

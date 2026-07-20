@@ -7,9 +7,8 @@ type: preuve
 reel_path: ../../👤 Reel/💰 Etudes indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md
 auteur: La Victime
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [⚖️ Actes](../README.md) › [🔑 Token](../README.md) › [💰 Etudes indemnisation](README.md) › Protocole_Transactionnel_Dintilhac_20260713*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [💰 Études d'Indemnisation](./README.md) › Protocole Transactionnel Dintilhac 20260713*
 <hr>
 <!-- /Breadcrumb -->
 

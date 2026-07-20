@@ -11,9 +11,8 @@ statut: final
 destinataire: La Victime
 auteur: Huissier de Justice
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › recommandations urgentes*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [10_Pilotage — Pilotage opérationnel](./README.md) › recommandations urgentes*
 <hr>
 <!-- /Breadcrumb -->
 

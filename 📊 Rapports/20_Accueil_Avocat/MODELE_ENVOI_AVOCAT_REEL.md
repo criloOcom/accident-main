@@ -5,6 +5,10 @@ type: fiche
 date: 2026-07-14
 statut: final
 ---
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [20_Accueil_Avocat — Kit d'accueil avocat](./README.md) › MODELE ENVOI AVOCAT REEL*
+<hr>
+<!-- /Breadcrumb -->
 
 # Option A — Avocat déjà désigné (AJ)
 

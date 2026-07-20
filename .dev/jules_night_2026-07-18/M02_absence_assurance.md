@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M02 absence assurance*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 2 — Analyse juridique : absence d'assurance HB BARBER
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

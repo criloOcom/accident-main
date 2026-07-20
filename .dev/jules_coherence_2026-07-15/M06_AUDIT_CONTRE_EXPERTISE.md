@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules coherence 2026-07-15 › M06 AUDIT CONTRE EXPERTISE*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 06 — Audit de la contre-expertise médicale
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

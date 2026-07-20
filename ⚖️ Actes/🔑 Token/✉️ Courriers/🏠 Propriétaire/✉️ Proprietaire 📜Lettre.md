@@ -20,13 +20,15 @@ drive_id: 1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4
 calendar_event_id: "qrvadub2s8gekuhgpn0knq8130"
 jx: J+31
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏠 Propriétaire › ✉️ Proprietaire 📜Lettre*
+<hr>
+<!-- /Breadcrumb -->
+
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › ✉️ Proprietaire 📜Lettre*
-<hr>
-<!-- /Breadcrumb -->
+
 
 # DEMANDE DE COMMUNICATION <br> D'ASSURANCE RC
 > 🔗 Source Google Drive : [1W-C6nM5G_GU…](https://drive.google.com/open?id=1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4)

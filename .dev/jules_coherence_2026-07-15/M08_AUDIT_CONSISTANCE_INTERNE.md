@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules coherence 2026-07-15 › M08 AUDIT CONSISTANCE INTERNE*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 08 — Audit de consistance interne des actes
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

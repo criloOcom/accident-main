@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M10 audit faux depose*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 10 — Audit des mentions « ✅ Déposé » fausses / hallucinations
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

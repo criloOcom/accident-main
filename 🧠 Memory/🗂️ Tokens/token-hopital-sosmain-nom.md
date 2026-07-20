@@ -3,9 +3,8 @@ title: "🏢 L'Établissement SOS Main"
 description: "Token :** `**[L'Établissement SOS Main]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-l-etablissement-sos-main*
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-hopital-sosmain-nom*
 <hr>
 <!-- /Breadcrumb -->
 

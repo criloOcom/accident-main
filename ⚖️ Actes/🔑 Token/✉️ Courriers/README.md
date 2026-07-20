@@ -3,9 +3,8 @@ title: "✉️ Courriers (Versions Token)"
 description: "Vue d'ensemble des courriers Token classés par destinataire. Organisé en sous-dossiers par entité destinataire."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › ✉️ Courriers*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › ✉️ Courriers*
 <hr>
 <!-- /Breadcrumb -->
 

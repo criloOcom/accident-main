@@ -14,9 +14,8 @@ statut: final
 destinataire: Dossier / Equipe Juridique
 auteur: Avis Dintilhac externe
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AVOCAT DINTILHAC 20260713*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [40_Indemnisation_Dintilhac — Indemnisation et barèmes](./README.md) › RAPPORT AVOCAT DINTILHAC 20260713*
 <hr>
 <!-- /Breadcrumb -->
 

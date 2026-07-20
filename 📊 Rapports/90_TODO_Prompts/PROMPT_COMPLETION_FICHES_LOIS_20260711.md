@@ -4,9 +4,8 @@ date: 2026-07-11
 description: "Prompt à confier à l'agent disposant du MCP Légifrance/Judilibre pour compléter le corps des 5 fiches marquées À VÉRIFIER."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › PROMPT COMPLETION FICHES LOIS 20260711*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [90_TODO_Prompts — Prompts et notes de travail](./README.md) › PROMPT COMPLETION FICHES LOIS 20260711*
 <hr>
 <!-- /Breadcrumb -->
 

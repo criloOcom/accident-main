@@ -4,7 +4,6 @@ date: FIXME
 description: "Suivi des modifications apportées aux fiches juridiques (articles et jurisprudence)."
 type: loi
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [⚖️ Bibliothèque Juridique](./README.md) › CHANGELOG JURIDIQUE*
 <hr>

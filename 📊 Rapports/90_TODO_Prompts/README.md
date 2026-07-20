@@ -3,9 +3,8 @@ title: "90_TODO_Prompts — Prompts et notes de travail"
 description: "Prompts utilisés pour les sessions IA, notes de travail, atelier."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › 90_TODO_Prompts*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › 90 TODO Prompts*
 <hr>
 <!-- /Breadcrumb -->
 

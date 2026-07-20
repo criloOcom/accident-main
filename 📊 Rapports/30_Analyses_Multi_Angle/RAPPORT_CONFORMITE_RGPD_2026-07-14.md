@@ -4,9 +4,8 @@ date: 2026-07-14
 description: "Audit de conformité RGPD / Loi Informatique et Libertés du dossier accident-main."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › RAPPORT CONFORMITE RGPD*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](./README.md) › RAPPORT CONFORMITE RGPD 2026-07-14*
 <hr>
 <!-- /Breadcrumb -->
 

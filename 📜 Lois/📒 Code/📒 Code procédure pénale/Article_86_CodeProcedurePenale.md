@@ -9,7 +9,7 @@ code: Code de procédure pénale
 article: 86
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code procédure pénale](./README.md) › Article 86*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code de procédure pénale](./README.md) › Article 86 CodeProcedurePenale*
 <hr>
 <!-- /Breadcrumb -->
 

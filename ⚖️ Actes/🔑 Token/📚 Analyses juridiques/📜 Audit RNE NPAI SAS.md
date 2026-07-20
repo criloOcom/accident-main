@@ -9,7 +9,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Audit RNE NPAI SAS.md
 jx: J+42
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 📜 Audit RNE NPAI SAS*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 📜 Audit RNE NPAI SAS*
 <hr>
 <!-- /Breadcrumb -->
 

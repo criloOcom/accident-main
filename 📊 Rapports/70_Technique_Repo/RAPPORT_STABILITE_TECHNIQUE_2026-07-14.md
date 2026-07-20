@@ -4,9 +4,8 @@ date: 2026-07-14
 description: "Rapport évaluant la robustesse technique du dépôt, les risques de régression et les fuites de données potentielles."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › RAPPORT STABILITE TECHNIQUE*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [70_Technique_Repo — Journal de bord technique](./README.md) › RAPPORT STABILITE TECHNIQUE 2026-07-14*
 <hr>
 <!-- /Breadcrumb -->
 

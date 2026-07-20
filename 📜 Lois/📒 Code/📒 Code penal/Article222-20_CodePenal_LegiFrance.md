@@ -8,7 +8,6 @@ legiarti: LEGIARTI000024042640
 code: Code pénal
 article: 222-20
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code penal](./README.md) › Article222-20 CodePenal LegiFrance*
 <hr>

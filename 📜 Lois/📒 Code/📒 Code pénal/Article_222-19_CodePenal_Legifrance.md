@@ -9,7 +9,7 @@ code: Code pénal
 article: 222-19
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code pénal](../../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) › Article 222-19*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Code pénal › Article 222-19 CodePenal Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

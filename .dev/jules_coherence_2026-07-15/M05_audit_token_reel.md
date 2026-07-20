@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules coherence 2026-07-15 › M05 audit token reel*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 05 — Audit de la double strate Token/Reel
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

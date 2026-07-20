@@ -5,6 +5,10 @@ type: fiche
 date: 2026-07-14
 statut: final
 ---
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [20_Accueil_Avocat — Kit d'accueil avocat](./README.md) › MODELE ENVOI AVOCAT*
+<hr>
+<!-- /Breadcrumb -->
 
 > **Pièces jointes** (communes aux deux options) :
 > 1. [Mémo de présentation 1 page](./MEMO_AVOCAT_1PAGE.md)

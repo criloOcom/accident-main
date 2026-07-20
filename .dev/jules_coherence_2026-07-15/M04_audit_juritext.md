@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules coherence 2026-07-15 › M04 audit juritext*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 04 — Audit des jurisprudences (JURITEXT)
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

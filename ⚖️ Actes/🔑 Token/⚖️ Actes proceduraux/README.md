@@ -3,9 +3,8 @@ title: "⚖️ Actes Procéduraux"
 description: "Ce dossier contient l'ensemble des actes juridiques destinés à être déposés au greffe du tribunal judiciaire."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › ⚖️ Actes proceduraux*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › ⚖️ Actes proceduraux*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -5,6 +5,10 @@ type: rapport
 date: 2026-07-13
 statut: archive
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [60_Audits_Qualite — Audits internes et qualité](../README.md) › [📁 audit](./README.md) › 20260713 RAPPORT VERITE LRAR*
+<hr>
+<!-- /Breadcrumb -->
 
 # RAPPORT D'AUDIT — Vérité des LRAR et mécanisme de l'accident
 

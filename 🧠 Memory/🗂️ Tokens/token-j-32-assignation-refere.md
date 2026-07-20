@@ -3,7 +3,6 @@ title: "📅 J+32 Assignation référé"
 description: "Token :** `**[J+32 Assignation référé]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-32-assignation-refere*
 <hr>

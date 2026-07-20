@@ -17,9 +17,8 @@ source: drive
 drive_id: 1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw
 jx: J+37
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › ✉️ Adjoint Maire Tavella 🔄Relance*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [✉️ Courriers (Versions Réelles)](../README.md) › [🏛️ Mairie](./README.md) › ✉️ Adjoint Maire Tavella 🔄Relance*
 <hr>
 <!-- /Breadcrumb -->
 

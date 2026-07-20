@@ -11,7 +11,6 @@ tags:
 statut: brouillon
 auteur: La Victime
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › 📋 Fiche Suivi Démarches Administratives*
 <hr>

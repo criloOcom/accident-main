@@ -5,7 +5,7 @@ description: "Guide pratique destiné à la victime pour préparer son rendez-vo
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › MEMO EXPERTISE MEDICALE VICTIME*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [50_Medical — Médical et expertise](./README.md) › MEMO EXPERTISE MEDICALE VICTIME*
 <hr>
 <!-- /Breadcrumb -->
 

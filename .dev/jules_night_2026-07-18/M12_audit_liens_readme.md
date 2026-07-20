@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M12 audit liens readme*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 12 — Audit liens internes + synchronisation README
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

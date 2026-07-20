@@ -8,7 +8,6 @@ legiarti: LEGIARTI000051786000
 code: Code civil
 article: 1242
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code civil](./README.md) › Article1242 CodeCivil*
 <hr>

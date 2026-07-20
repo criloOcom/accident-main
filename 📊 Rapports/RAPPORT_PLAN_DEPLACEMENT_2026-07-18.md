@@ -4,9 +4,9 @@ date: 2026-07-18
 description: "Rapport détaillant le plan d'action heure par heure pour le déplacement de la semaine du 20 juillet 2026."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-<a href="../README.md">Retour</a>
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT PLAN DEPLACEMENT 2026-07-18*
+<hr>
 <!-- /Breadcrumb -->
 
 <hr>

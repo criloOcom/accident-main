@@ -4,9 +4,8 @@ date: 2026-07-18
 description: "Vérification de toutes les citations d'articles de loi et décisions de justice"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports](./README.md) › RAPPORT VERIFICATION JURITEXT 2026-07-18
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT VERIFICATION JURITEXT 2026-07-18*
 <hr>
 <!-- /Breadcrumb -->
 

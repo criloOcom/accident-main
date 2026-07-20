@@ -3,9 +3,8 @@ title: "Mission 04 : Rapport du Juge Civil"
 description: "Analyse sur le fond : responsabilité civile, lien de causalité, exonérations et évaluation Dintilhac."
 type: analyse_juridique
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › [Analyse Multi-Angle](./README.md) › Rapport du Juge Civil*
+*[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](../README.md) › [Analyses Multi-Angle — 15 Missions](./README.md) › 04 Rapport Juge Civil*
 <hr>
 <!-- /Breadcrumb -->
 

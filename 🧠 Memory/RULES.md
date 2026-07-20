@@ -3,7 +3,6 @@ title: "RÈGLES PERMANENTES — Dossier Accident de la Main"
 description: "- **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet (🧠 Memory/STRICT VARIABLES.md ou `🧠_M"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › RULES*
 <hr>
@@ -618,6 +617,7 @@ Le calendrier Google partagé (`[AM] Accident Main`) est une **pièce maîtresse
 
 ### Règle de vérification obligatoire
 1. **Avant toute rédaction** mentionnant la profession ou les activités de la victime, l'agent DOIT consulter :
+
    - Les pièces URSSAF (token-victime-id-professionnel)
    - Le token token-victime-profession (s'il existe)
    - Le fichier `🧠 Memory/STRICT VARIABLES.md`

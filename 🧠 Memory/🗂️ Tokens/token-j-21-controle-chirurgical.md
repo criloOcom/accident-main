@@ -3,7 +3,6 @@ title: "📅 J+21 Contrôle chirurgical"
 description: "Token :** `**[J+21 Contrôle chirurgical]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-21-controle-chirurgical*
 <hr>

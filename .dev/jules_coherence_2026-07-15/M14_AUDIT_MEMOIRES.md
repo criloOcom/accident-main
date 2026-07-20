@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules coherence 2026-07-15 › M14 AUDIT MEMOIRES*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 14 — Audit des mémoires et conclusions
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

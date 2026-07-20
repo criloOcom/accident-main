@@ -9,7 +9,7 @@ code: Code de procédure pénale
 article: 80
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code procédure pénale](./README.md) › Article 80*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code de procédure pénale](./README.md) › Article 80 CodeProcedurePenale*
 <hr>
 <!-- /Breadcrumb -->
 

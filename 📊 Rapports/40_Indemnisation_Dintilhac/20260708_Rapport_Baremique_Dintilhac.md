@@ -12,9 +12,8 @@ statut: final
 destinataire: Dossier / Equipe Juridique
 auteur: Expert en chiffrage Dintilhac (Jules)
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › 20260708 Rapport Baremique Dintilhac*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [40_Indemnisation_Dintilhac — Indemnisation et barèmes](./README.md) › 20260708 Rapport Baremique Dintilhac*
 <hr>
 <!-- /Breadcrumb -->
 

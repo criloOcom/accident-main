@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules coherence 2026-07-15 › M13 AUDIT TYPOS*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 13 — Audit des typos et orthographe
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

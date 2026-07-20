@@ -5,9 +5,8 @@ type: simulation
 role: Expert Judiciaire (Chirurgie main)
 date: 2026-07-14
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📂 Simulations](README.md) › 08_Expert_Judiciaire*
+*[🏠](../README.md) › [📂 Simulations — Analyses Multi-Angle du Dossier Accident Main](./README.md) › 08 Expert Judiciaire*
 <hr>
 <!-- /Breadcrumb -->
 

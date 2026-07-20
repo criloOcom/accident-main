@@ -4,7 +4,7 @@ description: "Ce dossier centralise les outils de navigation et de pilotage du d
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › 🗂️ Organisation*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › 🗂️ Organisation*
 <hr>
 <!-- /Breadcrumb -->
 

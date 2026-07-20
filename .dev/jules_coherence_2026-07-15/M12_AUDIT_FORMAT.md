@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules coherence 2026-07-15 › M12 AUDIT FORMAT*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 12 — Audit de format et conventions
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

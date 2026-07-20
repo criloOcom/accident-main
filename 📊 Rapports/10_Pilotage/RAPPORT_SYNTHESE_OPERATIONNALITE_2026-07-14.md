@@ -4,6 +4,10 @@ date: 2026-07-14
 description: "Rapport exécutif faisant le point global sur l'état du dossier accident-main au 14/07/2026 et sa capacité à tenir devant la justice française (civil + pénal)."
 type: rapport
 ---
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [10_Pilotage — Pilotage opérationnel](./README.md) › RAPPORT SYNTHESE OPERATIONNALITE 2026-07-14*
+<hr>
+<!-- /Breadcrumb -->
 
 <!-- Breadcrumb -->
 

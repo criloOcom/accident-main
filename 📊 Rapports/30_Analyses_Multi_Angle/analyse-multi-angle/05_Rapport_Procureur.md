@@ -4,9 +4,8 @@ date: FIXME
 description: "Analyse pénale : qualifications (blessures involontaires, mise en danger), opportunité des poursuites, CITC et constitution de partie civile pour l'accident du 29 mai 2026."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › [Analyse Multi-Angle](./README.md) › 05_Rapport_Procureur*
+*[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](../README.md) › [Analyses Multi-Angle — 15 Missions](./README.md) › 05 Rapport Procureur*
 <hr>
 <!-- /Breadcrumb -->
 

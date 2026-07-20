@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-14 › M05 qualite actes*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 5 — Audit de qualité rédactionnelle des actes juridiques
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

@@ -8,7 +8,6 @@ legiarti: LEGIARTI000024042643
 code: Code pénal
 article: 222-19
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code penal](./README.md) › Article 222-19 CodePenal Legifrance*
 <hr>

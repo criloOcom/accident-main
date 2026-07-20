@@ -3,9 +3,8 @@ title: "60_Audits_Qualite — Audits internes et qualité"
 description: "Audits de structure, de cohérence, de contenu juridique, de tokenisation, de conformité."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › 60_Audits_Qualite*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › 60 Audits Qualite*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -9,13 +9,15 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Mairie/✉️ Mairie Tavella ERP 📝Document.md
 jx: J+42
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [✉️ Courriers (Versions Réelles)](../README.md) › [🏛️ Mairie](./README.md) › ✉️ Mairie Tavella ERP 📝Document*
+<hr>
+<!-- /Breadcrumb -->
+
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › ✉️ Mairie Tavella ERP 📝Document*
-<hr>
-<!-- /Breadcrumb -->
+
 
 # EMAIL<br>Éléments d'actualisation sur le dossier ERP ([22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md))
 

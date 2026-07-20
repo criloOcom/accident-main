@@ -4,9 +4,8 @@ date: FIXME
 description: "Synthèse des qualifications pénales, de la responsabilité des dirigeants, et de l'articulation avec le volet civil suite à l'accident et à la plainte complémentaire."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › NOTE PENALE STRATEGIQUE*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](./README.md) › NOTE PENALE STRATEGIQUE*
 <hr>
 <!-- /Breadcrumb -->
 

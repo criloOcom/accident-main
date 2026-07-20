@@ -4,9 +4,8 @@ date: 2026-07-15
 description: "Liste agrégée et vérifiée des corrections encore NON appliquées issues des 15 audits de cohérence du 15/07/2026."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) › [📊 Rapports](../README.md) › 85_RESTANT_A_FAIRE_2026-07-15*
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › 85 RESTANT A FAIRE 2026-07-15*
 <hr>
 <!-- /Breadcrumb -->
 

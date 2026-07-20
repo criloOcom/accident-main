@@ -4,6 +4,10 @@ description: "Audit complet du dépôt au 2026-07-20"
 type: rapport
 date: 2026-07-20
 ---
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › HEALTH REPORT 2026-07-20*
+<hr>
+<!-- /Breadcrumb -->
 
 # Rapport de Santé — 2026-07-20
 

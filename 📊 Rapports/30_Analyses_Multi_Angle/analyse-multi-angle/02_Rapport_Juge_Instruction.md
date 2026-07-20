@@ -5,7 +5,7 @@ description: "Analyse des charges, qualifications pénales et actes d'instructio
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › [Analyse Multi-Angle](./README.md) › 02_Rapport_Juge_Instruction*
+*[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](../README.md) › [Analyses Multi-Angle — 15 Missions](./README.md) › 02 Rapport Juge Instruction*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -3,7 +3,6 @@ title: "TODO — Plans d'action + Tableau de bord Sébastien"
 description: "- **Audit des risques** : matrice complète (21 risques) + plan d'atténuation → (non conservé)"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › TODO*
 <hr>

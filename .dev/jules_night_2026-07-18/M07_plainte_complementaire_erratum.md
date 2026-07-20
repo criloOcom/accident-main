@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M07 plainte complementaire erratum*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 7 — Plainte complémentaire + Erratum : textes et bordereau
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

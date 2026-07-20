@@ -4,6 +4,10 @@ date: 2026-07-18
 description: "Analyse et recommandations pour le dépôt au commissariat de Foix de l'erratum et de la plainte visant HB BARBER"
 type: rapport
 ---
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT PLAINTE COMPLEMENTAIRE ERRATUM 2026-07-18*
+<hr>
+<!-- /Breadcrumb -->
 
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [📊 Rapports](./README.md) › RAPPORT_PLAINTE_COMPLEMENTAIRE_ERRATUM_2026-07-18*

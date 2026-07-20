@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-14 › M06 conformite procedurale*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 6 — Conformité procédurale et calendrier juridique
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

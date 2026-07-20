@@ -4,10 +4,9 @@ date: FIXME
 description: "Vérification de l'existence et du format des articles de loi cités"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) › [📊 Rapports](../../README.md) › [85 Coherence 2026-07-15](../README.md) › Audit des fondements juridiques*
-<hr><hr>
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [🎯 Audits de Cohérence et Conformité](./README.md) › M03 AUDIT FONDEMENTS JURIDIQUES*
+<hr>
 <!-- /Breadcrumb -->
 
 # Audit des fondements juridiques

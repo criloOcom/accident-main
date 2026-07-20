@@ -4,6 +4,10 @@ description: "Rapport approfondi sur les fondements juridiques applicables à l'
 type: rapport
 date: 2026-07-14
 ---
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](./README.md) › RAPPORT RESPONSABILITE CHOSES 2026-07-14*
+<hr>
+<!-- /Breadcrumb -->
 
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [📊 Rapports](./README.md) › RAPPORT_RESPONSABILITE_CHOSES_2026-07-14*

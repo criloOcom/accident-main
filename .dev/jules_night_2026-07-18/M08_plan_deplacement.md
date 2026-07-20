@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M08 plan deplacement*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 8 — Plan d'action chronologique pour le déplacement
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

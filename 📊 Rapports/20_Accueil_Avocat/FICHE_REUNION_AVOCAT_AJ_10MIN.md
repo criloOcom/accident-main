@@ -3,6 +3,10 @@ title: "Fiche Réunion Avocat AJ — 10 minutes"
 description: "Trame orale + pièces clés pour le premier rendez-vous avec l'avocat commis d'office (AJ)."
 type: fiche
 ---
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [20_Accueil_Avocat — Kit d'accueil avocat](./README.md) › FICHE REUNION AVOCAT AJ 10MIN*
+<hr>
+<!-- /Breadcrumb -->
 
 # FICHE RÉUNION AVOCAT AJ — 10 MINUTES
 

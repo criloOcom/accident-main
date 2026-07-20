@@ -3,7 +3,6 @@ title: "🏛️ Responsabilité des dirigeants"
 description: "Arrêts de la Cour de cassation sur la responsabilité personnelle des dirigeants"
 type: readme
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📜 Jurisprudence](../README.md) › 🏛️ Responsabilité des dirigeants*
 <hr>

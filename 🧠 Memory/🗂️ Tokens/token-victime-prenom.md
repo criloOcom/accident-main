@@ -3,9 +3,8 @@ title: "👤 Prénom de la Victime"
 description: "Token :** `**[Prénom de la Victime]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-prenom-de-la-victime*
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-victime-prenom*
 <hr>
 <!-- /Breadcrumb -->
 

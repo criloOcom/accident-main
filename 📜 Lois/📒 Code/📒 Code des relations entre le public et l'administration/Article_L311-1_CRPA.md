@@ -9,7 +9,7 @@ code: Code des relations entre le public et l'administration
 article: L311-1
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code des relations entre le public et l'administration](../../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) › Article L311-1*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Code des relations entre le public et l'administration › Article L311-1 CRPA*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M01 audit hb barber*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 1 — Audit HB BARBER : Cohérence des actes avec les découvertes terrain
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

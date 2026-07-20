@@ -9,7 +9,7 @@ code: Code du travail
 article: R4121-1
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code du travail](./README.md) › Article R4121-1*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code du travail](./README.md) › Article R4121-1 CodeTravail*
 <hr>
 <!-- /Breadcrumb -->
 

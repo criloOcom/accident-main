@@ -3,9 +3,8 @@ title: "⚖️ Actes Procéduraux (Versions Réelles)"
 description: "Versions réelles (non anonymisées) des actes de procédure."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](..%2F..%2F..%2FREADME.md) › [📁 Actes](..%2F..%2FREADME.md) › [👤 Reel](..%2F..%2F%F0%9F%94%91%20Token%2FREADME.md) › ⚖️ Actes proceduraux*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [👤 Actes / reel — Version réelle](../README.md) › ⚖️ Actes proceduraux*
 <hr>
 <!-- /Breadcrumb -->
 

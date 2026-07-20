@@ -4,6 +4,10 @@ date: 2026-07-18
 description: "Vérification de la cohérence de l'ensemble des tokens d'anonymisation, avec un focus sur le nouveau token **[Le Téléphone du Préposé]**."
 type: rapport
 ---
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT TOKENS 2026-07-18*
+<hr>
+<!-- /Breadcrumb -->
 
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [📊 Rapports](./README.md) › RAPPORT_AUDIT_TOKENS_2026-07-18*

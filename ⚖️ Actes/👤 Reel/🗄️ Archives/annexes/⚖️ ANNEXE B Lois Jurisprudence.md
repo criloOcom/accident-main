@@ -6,9 +6,8 @@ type: readme
 reel_path: ../../../👤 Reel/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md
 auteur: La Victime
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📦 Archives](../README.md) › [📁 annexes](./README.md) › ⚖️ ANNEXE B Lois Jurisprudence*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [🗄️ Archives](../README.md) › [annexes](./README.md) › ⚖️ ANNEXE B Lois Jurisprudence*
 <hr>
 <!-- /Breadcrumb -->
 

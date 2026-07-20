@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-14 › M04 organisation*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 4 — Audit de l'organisation et de la navigabilité du dépôt
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

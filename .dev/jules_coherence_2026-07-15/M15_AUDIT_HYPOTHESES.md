@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules coherence 2026-07-15 › M15 AUDIT HYPOTHESES*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 15 — Audit des hypothèses alternatives et scenarios
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

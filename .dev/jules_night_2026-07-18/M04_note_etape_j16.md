@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M04 note etape j16*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 4 — Note d'étape J+48 : Visite Foix du 16 juillet 2026
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

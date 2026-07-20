@@ -4,9 +4,8 @@ date: 2026-07-10
 description: "Date** : 10 juillet 2026"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT FINAL INTEGRATION 20260710*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](./README.md) › RAPPORT FINAL INTEGRATION 20260710*
 <hr>
 <!-- /Breadcrumb -->
 

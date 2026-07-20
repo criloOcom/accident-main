@@ -4,9 +4,8 @@ date: 2026-07-18
 description: "Document de synthèse à remettre à l'avocat"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › Synthèse Avocat (J+50)*
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT SYNTHESE AVOCAT 2026-07-18*
 <hr>
 <!-- /Breadcrumb -->
 

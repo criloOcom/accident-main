@@ -4,9 +4,8 @@ date: 2026-07-14
 description: "Analyse de la dimension pénale, qualification des infractions, procédure et saisine du Parquet (Art. 40 CPP)"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › RAPPORT_STRATEGIE_PENALE_2026-07-14*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](./README.md) › RAPPORT STRATEGIE PENALE 2026-07-14*
 <hr>
 <!-- /Breadcrumb -->
 

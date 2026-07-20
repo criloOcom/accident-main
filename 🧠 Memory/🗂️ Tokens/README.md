@@ -3,7 +3,6 @@ title: "🗂️ Tokens — Fiches individuelles des tokens d'anonymisation"
 description: "88 fiches enrichies (66 identité + 17 financiers + 5 HB BARBER), une par token. Chaque fiche détaille l'identité, le contexte, la chronologie et les documents liés au token."
 type: readme
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › 🗂️ Tokens*
 <hr>

@@ -4,10 +4,11 @@ date: 2026-07-14
 description: "Audit de cohérence transversale des actes et analyses juridiques du dossier"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › RAPPORT COHERENCE JURIDIQUE*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](./README.md) › RAPPORT COHERENCE JURIDIQUE 2026-07-14*
+<hr>
 <!-- /Breadcrumb -->
+
 <hr>
 
 # RAPPORT COHERENCE JURIDIQUE 2026-07-14

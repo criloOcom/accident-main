@@ -3,7 +3,6 @@ title: "🧠 Mémoire du Projet"
 description: "Ce dossier contient les documents de référence, les variables strictes, et la mémoire institutionnelle du projet accident-main."
 type: readme
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › 🧠 Memory*
 <hr>
@@ -45,7 +44,9 @@ graph TD
 - **WORKFLOW.md** - Processus et workflows du projet
 
 - **[CALENDAR_MAP](CALENDAR_MAP.md)**
+
 - **[DEPENDENCIES](DEPENDENCIES.md)**
+
 - **[RECOVERY_CHECKPOINT](RECOVERY_CHECKPOINT.md)** - Point de reprise après perte mémoire (18/07)
 
 - **[Mémo Stratégie Bailleur HB BARBER](M%C3%A9mo%20Strat%C3%A9gie%20Bailleur%20HB%20BARBER.md)**

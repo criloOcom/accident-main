@@ -5,6 +5,10 @@ type: rapport
 statut: preparation
 date: FIXME
 ---
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › 50 QUESTIONS OPENCODE AUDIT INVERSE*
+<hr>
+<!-- /Breadcrumb -->
 
 # 50 Questions d'Audit Inverse (V3) — Pour opencode
 

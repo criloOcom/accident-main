@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-14 › M13 securite tokens*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 13 — Audit de sécurité juridique des tokens et de la double strate
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

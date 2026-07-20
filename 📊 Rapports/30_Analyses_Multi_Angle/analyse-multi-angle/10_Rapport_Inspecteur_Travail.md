@@ -4,6 +4,10 @@ date: FIXME
 description: "Analyse des infractions au Code du travail suite à l'accident du 29/05/2026 au salon de coiffure."
 type: rapport
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](../README.md) › [Analyses Multi-Angle — 15 Missions](./README.md) › 10 Rapport Inspecteur Travail*
+<hr>
+<!-- /Breadcrumb -->
 
 <!-- Breadcrumb -->
 

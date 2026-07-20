@@ -3,9 +3,8 @@ title: "80_Recherches_Donnees — Données brutes de recherche"
 description: "Fichiers JSON de résultats de recherche juridique, données d'audit et constats."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › 80_Recherches_Donnees*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › 80 Recherches Donnees*
 <hr>
 <!-- /Breadcrumb -->
 

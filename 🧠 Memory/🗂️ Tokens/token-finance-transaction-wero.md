@@ -3,7 +3,6 @@ title: "💰 N° Transaction Wero"
 description: "Token :** `**[N° Transaction Wero]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-finance-transaction-wero*
 <hr>

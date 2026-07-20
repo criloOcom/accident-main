@@ -3,9 +3,8 @@ title: "10_Pilotage — Pilotage opérationnel"
 description: "Documents de pilotage : check-lists, frise, cartographie, priorités, actions urgentes."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › 10_Pilotage*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › 10 Pilotage*
 <hr>
 <!-- /Breadcrumb -->
 

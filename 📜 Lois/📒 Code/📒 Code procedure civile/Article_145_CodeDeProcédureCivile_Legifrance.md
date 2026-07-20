@@ -8,7 +8,6 @@ legiarti: LEGIARTI000051869339
 code: Code de procédure civile
 article: 145
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code procedure civile](./README.md) › Article 145 CodeDeProcédureCivile Legifrance*
 <hr>

@@ -6,9 +6,8 @@ date: 2026-07-14
 auteur: La Victime
 statut: final
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › Présentation Stratégique*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](./README.md) › RAPPORT PRESENTATION STRATEGIQUE DOSSIER*
 <hr>
 <!-- /Breadcrumb -->
 

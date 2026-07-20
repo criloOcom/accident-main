@@ -3,7 +3,6 @@ title: "📅 J+12 Facture"
 description: "Token :** `**[J+12 Facture]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-12-facture*
 <hr>

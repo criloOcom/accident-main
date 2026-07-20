@@ -5,6 +5,10 @@ type: attestation
 date: FIXME
 status: brouillon
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [👤 Actes / reel — Version réelle](../README.md) › [📋 Attestations](./README.md) › 📋 Employé*
+<hr>
+<!-- /Breadcrumb -->
 
 # 📋 Attestation — Employé du salon
 

@@ -4,9 +4,8 @@ date: FIXME
 description: "Vérification de la cohérence documentaire des mémoires et conclusions du dossier accident de la main."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › [85_Coherence_2026-07-15](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) › M14_AUDIT_MEMOIRES*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [🎯 Audits de Cohérence et Conformité](./README.md) › M14 AUDIT MEMOIRES*
 <hr>
 <!-- /Breadcrumb -->
 

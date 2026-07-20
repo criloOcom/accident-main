@@ -8,7 +8,6 @@ legiarti: LEGIARTI000006417208
 code: Code pénal
 article: 121-3
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code penal](./README.md) › Article 121-3 Code Legifrance*
 <hr>

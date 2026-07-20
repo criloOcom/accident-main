@@ -3,7 +3,6 @@ title: "CONVENTIONS DE FORMATAGE UNIFIÉES"
 description: "Document unique et souverain définissant toutes les règles de formatage des fichiers .md du projet. Tout agent DOIT s'y conformer."
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › CONVENTIONS*
 <hr>

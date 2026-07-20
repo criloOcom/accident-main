@@ -8,9 +8,8 @@ legiarti: LEGIARTI000051752672
 code: Code de commerce
 article: L123-2
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code commerce](./README.md) › Article L123-2 Code Legifrance*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code de commerce](./README.md) › Article L123-2 Code Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

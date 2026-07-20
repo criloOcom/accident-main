@@ -3,9 +3,8 @@ title: "70_Technique_Repo — Journal de bord technique"
 description: "Migration, sécurité, stabilité technique, plans de correction, événements."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › 70_Technique_Repo*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › 70 Technique Repo*
 <hr>
 <!-- /Breadcrumb -->
 

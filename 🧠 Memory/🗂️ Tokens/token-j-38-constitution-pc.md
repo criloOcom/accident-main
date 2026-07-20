@@ -3,7 +3,6 @@ title: "📅 J+38 Constitution PC"
 description: "Token :** `**[J+38 Constitution PC]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-38-constitution-pc*
 <hr>

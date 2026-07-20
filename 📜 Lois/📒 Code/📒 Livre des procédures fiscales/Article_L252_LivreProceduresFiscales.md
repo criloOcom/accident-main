@@ -9,7 +9,7 @@ code: Livre des procédures fiscales
 article: L252
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Livre des procédures fiscales](./README.md) › Article L252*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Livre des procédures fiscales](./README.md) › Article L252 LivreProceduresFiscales*
 <hr>
 <!-- /Breadcrumb -->
 

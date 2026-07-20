@@ -9,7 +9,7 @@ code: Code de commerce
 article: R123-2
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code commerce](./README.md) › Article R123-2*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code de commerce](./README.md) › Article R123-2 Codecommerce*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -3,9 +3,8 @@ title: "👤 Actes / reel — Version réelle"
 description: "Ce dossier contient les versions réelles (non anonymisées) de tous les actes."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](..%2F..%2FREADME.md) › [📁 Actes](..%2FREADME.md) › 👤 Reel*
+*[🏠](../../README.md) › [📁 Actes — Dossier Contentieux](../README.md) › 👤 Reel*
 <hr>
 <!-- /Breadcrumb -->
 

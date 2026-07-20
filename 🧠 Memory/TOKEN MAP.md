@@ -3,7 +3,6 @@ title: "TABLE DE SUBSTITUTION — Anonymisation (tokens V2)"
 description: "| Texte original | Token |"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › TOKEN MAP*
 <hr>
@@ -210,4 +209,3 @@ type: memory
 - Les prénoms/noms en casse mixte sans espace entre les deux (ex. "Mountasser Sabir" — ancien format inversé) doivent être ajoutés manuellement comme entrées au script
 
 - Les montants financiers `15 000 €` et `3 000 €` ne sont PAS dans batch_anonymize.py car chaque valeur correspond à plusieurs tokens distincts — à remplacer manuellement selon le contexte
-

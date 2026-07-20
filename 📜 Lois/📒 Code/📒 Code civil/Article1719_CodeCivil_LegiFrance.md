@@ -8,7 +8,6 @@ legiarti: LEGIARTI000020459127
 code: Code civil
 article: 1719
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code civil](./README.md) › Article1719 CodeCivil LegiFrance*
 <hr>

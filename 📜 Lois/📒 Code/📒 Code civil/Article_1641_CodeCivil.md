@@ -9,7 +9,7 @@ code: Code civil
 article: 1641
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code civil](./README.md) › Article 1641*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code civil](./README.md) › Article 1641 CodeCivil*
 <hr>
 <!-- /Breadcrumb -->
 

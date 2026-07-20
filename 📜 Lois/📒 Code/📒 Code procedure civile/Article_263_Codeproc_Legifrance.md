@@ -8,7 +8,6 @@ legiarti: LEGIARTI000006410394
 code: Code de procédure civile
 article: 263
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code procedure civile](./README.md) › Article 263 Codeproc Legifrance*
 <hr>

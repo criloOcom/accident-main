@@ -5,9 +5,8 @@ type: simulation
 role: Procureur de la République
 date: 2026-07-14
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📂 Simulations](README.md) › 05_Procureur*
+*[🏠](../README.md) › [📂 Simulations — Analyses Multi-Angle du Dossier Accident Main](./README.md) › 05 Procureur*
 <hr>
 <!-- /Breadcrumb -->
 

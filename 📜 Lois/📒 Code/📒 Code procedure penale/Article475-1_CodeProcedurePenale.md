@@ -8,7 +8,6 @@ legiarti: LEGIARTI000044570107
 code: Code de procédure pénale
 article: 475-1
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code procedure penale](./README.md) › Article475-1 CodeProcedurePenale*
 <hr>

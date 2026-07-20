@@ -3,9 +3,8 @@ title: "50_Medical — Médical et expertise"
 description: "Documents médicaux, mémo expertise, comptes rendus."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › 50_Medical*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › 50 Medical*
 <hr>
 <!-- /Breadcrumb -->
 

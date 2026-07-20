@@ -4,9 +4,8 @@ date: 2026-07-10
 description: "Date:** 10 juillet 2026"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT MEI README 20260710*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [70_Technique_Repo — Journal de bord technique](./README.md) › RAPPORT MEI README 20260710*
 <hr>
 <!-- /Breadcrumb -->
 

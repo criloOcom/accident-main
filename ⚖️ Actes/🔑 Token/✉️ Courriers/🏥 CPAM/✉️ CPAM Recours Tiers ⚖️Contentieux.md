@@ -18,13 +18,15 @@ source: drive
 drive_id: 1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY
 jx: J+38
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏥 CPAM › ✉️ CPAM Recours Tiers ⚖️Contentieux*
+<hr>
+<!-- /Breadcrumb -->
+
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › ✉️ CPAM Recours Tiers ⚖️Contentieux*
-<hr>
-<!-- /Breadcrumb -->
+
 
 # TRANSMISSION ET BORDEREAU RECAPITULATIF<br>RECOURS CONTRE TIERS
 > 🔗 Source Google Drive : [1_cHcprI9XKo…](https://drive.google.com/open?id=1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY)

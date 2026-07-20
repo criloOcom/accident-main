@@ -4,9 +4,8 @@ date: FIXME
 description: "Tableau de bord chronologique des actions à mener jusqu'à fin 2026 (priorités, dépendances, calendrier)."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › CHECKLIST ACTIONS JUSQUA FIN 2026*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [10_Pilotage — Pilotage opérationnel](./README.md) › CHECKLIST ACTIONS JUSQUA FIN 2026*
 <hr>
 <!-- /Breadcrumb -->
 

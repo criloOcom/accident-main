@@ -10,7 +10,7 @@ auteur: La Victime
 jx: J+47
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [🗄️ Archives](../README.md) › 📋 Checklist Deplacement Foix (ARCHIVÉ)*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [👤 Actes / reel — Version réelle](../README.md) › [🗄️ Archives](./README.md) › 📋 Checklist Deplacement Foix*
 <hr>
 <!-- /Breadcrumb -->
 

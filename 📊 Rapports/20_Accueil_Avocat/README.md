@@ -3,9 +3,8 @@ title: "20_Accueil_Avocat — Kit d'accueil avocat"
 description: "Documents imprimables et transmissibles à l'avocat AJ pour prise en main du dossier."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › 20_Accueil_Avocat*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › 20 Accueil Avocat*
 <hr>
 <!-- /Breadcrumb -->
 

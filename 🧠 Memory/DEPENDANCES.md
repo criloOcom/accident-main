@@ -3,7 +3,6 @@ title: "DEPENDANCES — Graphe des dépendances logiques"
 description: "Ordre logique de création, de dépendance et d'expédition des actes et courriers du dossier."
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › DEPENDANCES*
 <hr>

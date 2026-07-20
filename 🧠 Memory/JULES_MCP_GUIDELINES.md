@@ -3,7 +3,6 @@ title: "Directives et Bonnes Pratiques d'Orchestration avec Google Jules MCP"
 description: "Ce document consigne les règles permanentes apprises de la documentation de blog et des retours d'expérience sur la connexion des agents autonomes d'édition au dépôt Git."
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › JULES MCP GUIDELINES*
 <hr>

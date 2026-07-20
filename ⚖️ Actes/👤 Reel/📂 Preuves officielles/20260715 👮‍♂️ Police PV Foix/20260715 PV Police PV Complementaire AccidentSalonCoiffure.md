@@ -20,13 +20,15 @@ reel_path: ../../../👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Po
   PV Police PV Complementaire AccidentSalonCoiffure.md
 auteur: La Victime
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [📂 Preuves officielles](../README.md) › [20260715 👮‍♂️ Police PV Foix](./README.md) › 20260715 PV Police PV Complementaire AccidentSalonCoiffure*
+<hr>
+<!-- /Breadcrumb -->
+
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📂 Preuves officielles](../README.md) › 20260715 PV Police PV Complementaire AccidentSalonCoiffure*
-<hr>
-<!-- /Breadcrumb -->
+
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**
 > Ce fichier est une transcription du procès-verbal d'audition (Plainte Complémentaire).

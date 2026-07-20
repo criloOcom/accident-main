@@ -8,9 +8,8 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md
 jx: J+63
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Proceduraux](../README.md) › 📋 Preparation Foix › MEMO_AUDIENCE_31072026*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [⚖️ Actes Procéduraux (Versions Réelles)](../README.md) › [📋 Preparation Foix](./README.md) › MEMO AUDIENCE 31072026*
 <hr>
 <!-- /Breadcrumb -->
 

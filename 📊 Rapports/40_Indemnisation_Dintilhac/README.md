@@ -3,9 +3,8 @@ title: "40_Indemnisation_Dintilhac — Indemnisation et barèmes"
 description: "Scénarios d'indemnisation, barèmes Dintilhac, FGTI, évaluations financières."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › 40_Indemnisation_Dintilhac*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › 40 Indemnisation Dintilhac*
 <hr>
 <!-- /Breadcrumb -->
 

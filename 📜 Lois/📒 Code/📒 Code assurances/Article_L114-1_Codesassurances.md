@@ -9,7 +9,7 @@ code: Code des assurances
 article: L114-1
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code assurances](./README.md) › Article L114-1*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code des assurances](./README.md) › Article L114-1 Codesassurances*
 <hr>
 <!-- /Breadcrumb -->
 

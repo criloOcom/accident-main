@@ -5,9 +5,8 @@ type: simulation
 role: Gendarme (OPJ)
 date: 2026-07-14
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📂 Simulations](README.md) › 06_Gendarme_OPJ*
+*[🏠](../README.md) › [📂 Simulations — Analyses Multi-Angle du Dossier Accident Main](./README.md) › 06 Gendarme OPJ*
 <hr>
 <!-- /Breadcrumb -->
 

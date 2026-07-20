@@ -9,7 +9,7 @@ code: Code du travail
 article: L8221-5
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code du travail](./README.md) › Article L8221-5*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code du travail](./README.md) › Article L8221-5 CodeTravail*
 <hr>
 <!-- /Breadcrumb -->
 

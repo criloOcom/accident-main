@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M14 scenario pire*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 14 — Scénario du pire : pas d'assurance, pas d'AJ, pas d'avocat
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

@@ -6,7 +6,6 @@ date: 2026-07-15
 statut: archive
 auteur: La Victime
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › GESTIONNAIRE DOC*
 <hr>

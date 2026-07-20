@@ -10,6 +10,10 @@ tags:
   - métadonnées
 statut: final
 ---
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [60_Audits_Qualite — Audits internes et qualité](./README.md) › AUDIT YAML HEADERS*
+<hr>
+<!-- /Breadcrumb -->
 
 # 📋 RAPPORT D'AUDIT SUR LA STRUCTURATION DES EN-TÊTES YAML
 

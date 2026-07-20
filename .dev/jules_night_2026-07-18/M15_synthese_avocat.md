@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M15 synthese avocat*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 15 — Synthèse exécutive pour l'avocat + notes de transmission
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

@@ -4,9 +4,8 @@ date: 2026-07-11
 description: "Mise en conformité de la navigation : toute citation de dossier/fichier interne doit être un lien cliquable. Règle #17, scripts, état des lieux."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT NAVIGATION CITATIONS 20260711*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [60_Audits_Qualite — Audits internes et qualité](./README.md) › RAPPORT NAVIGATION CITATIONS 20260711*
 <hr>
 <!-- /Breadcrumb -->
 

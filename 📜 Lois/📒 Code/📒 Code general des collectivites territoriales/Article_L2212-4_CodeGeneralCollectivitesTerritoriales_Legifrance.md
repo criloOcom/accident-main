@@ -8,9 +8,8 @@ legiarti: LEGIARTI000006390155
 code: Code général des collectivités territoriales
 article: L2212-4
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code general des collectivites territoriales](./README.md) › Article L2212-4 CodeGeneralCollectivitesTerritoriales Legifrance*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code Général des Collectivités Territoriales (CGCT)](./README.md) › Article L2212-4 CodeGeneralCollectivitesTerritoriales Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

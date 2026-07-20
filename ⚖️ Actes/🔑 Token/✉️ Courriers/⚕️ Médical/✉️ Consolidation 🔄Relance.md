@@ -15,9 +15,8 @@ reel_path: ../../../👤 Reel/✉️ Courriers/⚕️ Médical/✉️ Consolidat
 source: local
 jx: J+38
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › ✉️ Consolidation 🔄Relance*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › ⚕️ Médical › ✉️ Consolidation 🔄Relance*
 <hr>
 <!-- /Breadcrumb -->
 

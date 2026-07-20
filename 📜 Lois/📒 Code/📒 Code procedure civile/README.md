@@ -3,7 +3,6 @@ title: "📒 Code procedure civile"
 description: "Dossier contenant les articles de loi relatifs à 📒 Code procedure civile."
 type: readme
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Code procedure civile*
 <hr>

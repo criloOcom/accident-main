@@ -3,6 +3,10 @@ title: "Analyses Multi-Angle — 15 Missions"
 description: "Rapports d'analyse du dossier Accident Main par 15 angles professionnels (police, juge, magistrat, etc.) via sessions Jules MCP"
 type: analyse
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](../README.md) › analyse-multi-angle*
+<hr>
+<!-- /Breadcrumb -->
 
 # Analyses Multi-Angle<br>15 Missions Jules
 

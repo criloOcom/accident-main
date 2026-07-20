@@ -9,9 +9,9 @@ depose: false
 auteur: La Victime
 reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 👮 Contentieux penal › 👮‍♂️ Plainte Complementaire Correction [Le Nouvel Exploitant (HB BARBER)]*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [👮 Contentieux penal](./README.md) › 👮‍♂️ Plainte Complementaire Correction HB BARBER*
+<hr>
 <!-- /Breadcrumb -->
 
 # PLAINTE COMPLÉMENTAIRE

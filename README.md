@@ -3,7 +3,6 @@ title: "🏛️ Dossier Juridique « Accident Main » - Sébastien GRAZIDE"
 description: "Porte d'entrée opérationnelle du dossier — Plan d'action, échéances et navigation simplifiée."
 type: readme
 ---
-
 <!-- Breadcrumb -->
 *[🏠](README.md)*
 <hr>

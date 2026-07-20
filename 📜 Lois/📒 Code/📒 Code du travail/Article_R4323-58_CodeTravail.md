@@ -9,7 +9,7 @@ code: Code du travail
 article: R4323-58
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code du travail](./README.md) › Article R4323-58*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code du travail](./README.md) › Article R4323-58 CodeTravail*
 <hr>
 <!-- /Breadcrumb -->
 

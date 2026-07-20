@@ -4,9 +4,8 @@ date: FIXME
 description: "Audit complet de la cohérence documentaire et du respect des conventions de formatage du dépôt."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](../README.md) › [85_Coherence_2026-07-15](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) › M12 - Audit de format et conventions*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [🎯 Audits de Cohérence et Conformité](./README.md) › M12 AUDIT FORMAT*
 <hr>
 <!-- /Breadcrumb -->
 

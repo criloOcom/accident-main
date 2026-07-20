@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M03 maj strategie contentieux*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 3 — Mise à jour stratégie contentieux HB BARBER
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

@@ -7,6 +7,10 @@ statut: final
 auteur: La Victime
 reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Memo Axes Juridiques Avocat.md
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [👤 Actes / reel — Version réelle](../README.md) › [📚 Analyses juridiques](./README.md) › 📜 Memo Axes Juridiques Avocat*
+<hr>
+<!-- /Breadcrumb -->
 
 # MÉMO AXES JURIDIQUES
 ## Pour l'avocat — Accident main 29 mai 2026 — Victime : [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)

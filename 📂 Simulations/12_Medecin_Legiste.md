@@ -5,9 +5,8 @@ type: simulation
 role: Médecin Légiste
 date: 2026-07-14
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📂 Simulations](README.md) › 12_Medecin_Legiste*
+*[🏠](../README.md) › [📂 Simulations — Analyses Multi-Angle du Dossier Accident Main](./README.md) › 12 Medecin Legiste*
 <hr>
 <!-- /Breadcrumb -->
 

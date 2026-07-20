@@ -4,9 +4,8 @@ date: 2026-07-14
 description: "Rapport cartographiant toutes les voies d'indemnisation possibles pour la victime, leurs conditions, et la stratégie de recouvrement optimale face au risque d'insolvabilité de la SAS."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › RAPPORT_VOIES_INDEMNISATION_2026-07-14.md*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](./README.md) › RAPPORT VOIES INDEMNISATION 2026-07-14*
 <hr>
 <!-- /Breadcrumb -->
 

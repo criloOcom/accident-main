@@ -4,9 +4,8 @@ date: FIXME
 description: "Définition du token N° Dossier CPAM pour le dossier Accident de la Main"
 type: preuve
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › [🗂️ Tokens](./) › N° Dossier CPAM*
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-cpam-dossier-numero*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -4,9 +4,8 @@ date: 2026-07-14
 description: "Rapport d'analyse sur la résistance du système d'anonymisation et sa conformité avec le secret de l'instruction (Art. 11 CPP)."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › RAPPORT_SECURITE_TOKENS_2026-07-14*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [70_Technique_Repo — Journal de bord technique](./README.md) › RAPPORT SECURITE TOKENS 2026-07-14*
 <hr>
 <!-- /Breadcrumb -->
 

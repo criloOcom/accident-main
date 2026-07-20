@@ -4,7 +4,7 @@ description: "Dossier contenant les articles du Code des assurances cités dans 
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Code des assurances*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Code assurances*
 <hr>
 <!-- /Breadcrumb -->
 

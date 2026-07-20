@@ -3,9 +3,8 @@ title: "CALENDAR MAP — Correspondance fichier ↔ événement Google Calendar"
 description: "Tableau maître liant chaque fichier .md du dépôt aux événements Google Calendar [AM] correspondants. Source de vérité pour la navigation bidirectionnelle."
 type: memory
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › CALENDAR_MAP*
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › CALENDAR MAP*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -9,7 +9,7 @@ code: Code de procédure pénale
 article: 8
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code procédure pénale](./README.md) › Article 8*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code de procédure pénale](./README.md) › Article 8 CodeProcedurePenale*
 <hr>
 <!-- /Breadcrumb -->
 

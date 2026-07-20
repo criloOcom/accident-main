@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-14 › M14 continuite*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 14 — Plan de continuité et gestion des dépendances procédurales
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

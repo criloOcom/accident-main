@@ -4,6 +4,10 @@ date: 2026-07-18
 description: "Rapport d'audit sur l'intégrité des liens, la synchronisation des README et la propreté du dépôt."
 type: rapport
 ---
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT LIENS README 2026-07-18*
+<hr>
+<!-- /Breadcrumb -->
 
 <!-- Breadcrumb -->
 <a href="../README.md">Retour</a>

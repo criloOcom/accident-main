@@ -4,9 +4,8 @@ date: 2026-07-14
 description: "Archive technique : version complète avec détails d'exécution (PRs, scripts, audits IA). Projet accident-main."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](../README.md) › [70_Technique_Repo](./README.md) › RAPPORT SYNTHESE GLOBALE CHANTIER*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [70_Technique_Repo — Journal de bord technique](./README.md) › RAPPORT SYNTHESE GLOBALE CHANTIER 2026-07-14*
 <hr>
 <!-- /Breadcrumb -->
 

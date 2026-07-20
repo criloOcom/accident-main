@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-14 › M07 dirigeants societes*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 7 — Responsabilité des dirigeants et droit des sociétés
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

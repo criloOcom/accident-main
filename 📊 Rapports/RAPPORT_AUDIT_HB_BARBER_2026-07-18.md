@@ -4,9 +4,8 @@ date: 2026-07-18
 description: "Analyse de la cohérence du dossier suite aux découvertes terrain du 16 juillet 2026 (visite HB BARBER, non-dépôt AJ, fausses mentions de dépôt)."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › RAPPORT_AUDIT_HB_BARBER_2026-07-18*
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT HB BARBER 2026-07-18*
 <hr>
 <!-- /Breadcrumb -->
 

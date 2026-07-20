@@ -8,9 +8,8 @@ legiarti: LEGIARTI000006227036
 code: Code de commerce
 article: L227-8
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code commerce](./README.md) › Article L227-8 Codecommerce Legifrance*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code de commerce](./README.md) › Article L227-8 Codecommerce Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

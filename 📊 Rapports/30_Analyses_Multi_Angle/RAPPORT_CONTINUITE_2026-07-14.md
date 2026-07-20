@@ -5,7 +5,7 @@ description: "Cartographie des risques, points de défaillance et solutions de r
 type: rapport
 ---
 <!-- Breadcrumb -->
-[🏠](../README.md)
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](./README.md) › RAPPORT CONTINUITE 2026-07-14*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -3,9 +3,8 @@ title: "📒 Code de la consommation"
 description: "Dossier contenant les articles de loi relatifs au 📒 Code de la consommation."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Code de la consommation*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Code consommation*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -9,7 +9,7 @@ code: Code du travail
 article: L8271-1-2
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code du travail](./README.md) › Article L8271-1-2*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code du travail](./README.md) › Article L8271-1-2 CodeTravail*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M13 verification juritext*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 13 — Vérification JURITEXT exhaustive (protocole 2 étapes)
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

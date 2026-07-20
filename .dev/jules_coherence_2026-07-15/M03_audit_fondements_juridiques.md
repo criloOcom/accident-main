@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules coherence 2026-07-15 › M03 audit fondements juridiques*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 03 — Audit des fondements juridiques (articles de loi)
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

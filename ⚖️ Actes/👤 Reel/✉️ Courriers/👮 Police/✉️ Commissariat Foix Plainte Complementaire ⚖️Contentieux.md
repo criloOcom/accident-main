@@ -17,13 +17,14 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux.md
 jx: J+52
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [✉️ Courriers (Versions Réelles)](../README.md) › [👮 Police](./README.md) › ✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux*
+<hr>
+<!-- /Breadcrumb -->
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident. La présente plainte corrige formellement l'identité de la société exploitante.
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › ✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux*
-<hr>
-<!-- /Breadcrumb -->
+
 
 # PLAINTE COMPLÉMENTAIRE
 # Correction de l'identité de la société exploitante — HB BARBER
