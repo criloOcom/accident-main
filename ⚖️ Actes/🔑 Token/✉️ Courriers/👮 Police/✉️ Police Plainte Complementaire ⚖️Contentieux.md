@@ -46,7 +46,7 @@ Monsieur le Commandant,
 
 Je me permets de vous adresser la présente plainte complémentaire afin de compléter et rectifier les éléments que j'ai portés à la connaissance de vos services à la suite de l'accident corporel dont j'ai été victime le vendredi 29 mai 2026 dans un salon de coiffure situé [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md).
 
-Dans ma première plainte déposée début juin 2026 au commissariat de Foix, j'indiquais de bonne foi que le salon était exploité sous l'enseigne « LES MAUVAIS GARÇONS », et je visais la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) comme responsable potentielle. Des éléments nouveaux, recueillis depuis, montrent que cette information était inexacte au jour de l'accident, et que le salon était alors exploité par une autre société, la **[Le Nouvel Exploitant (HB BARBER)]**. La présente plainte a donc pour objet de corriger formellement l'identité de la société exploitante et de demander que l'enquête prenne en compte ces éléments.
+Dans ma première plainte déposée le 2 juin 2026 au commissariat de Foix, j'indiquais de bonne foi que le salon était exploité sous l'enseigne « LES MAUVAIS GARÇONS », et je visais la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) comme responsable potentielle. Des éléments nouveaux, recueillis depuis, montrent que cette information était inexacte au jour de l'accident, et que le salon était alors exploité par une autre société, la **[Le Nouvel Exploitant (HB BARBER)]**. La présente plainte a donc pour objet de corriger formellement l'identité de la société exploitante et de demander que l'enquête prenne en compte ces éléments.
 ## 1 — Rappel des faits — Accident du 29 mai 2026
 
 Le vendredi 29 mai 2026 vers 15h20, je me suis rendu dans le salon de coiffure situé [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), pour une simple retouche de coupe de cheveux.
@@ -68,7 +68,7 @@ Dans les jours qui ont suivi l'accident et l'opération, j'ai entrepris diverses
 
 - consultation médicale et suivi spécialisé,
 
-- et surtout dépôt d'une plainte au commissariat de Foix, début juin 2026, pour faire constater officiellement l'accident et déclencher une enquête sur les responsabilités.
+- et surtout dépôt d'une plainte au commissariat de Foix, le 2 juin 2026, pour faire constater officiellement l'accident et déclencher une enquête sur les responsabilités.
 
 Au moment de cette première plainte, je croyais sincèrement que la société exploitant le salon était la [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), enseigne apposée sur le lieu et mentionnée par les intervenants. C'est sur cette base que j'ai également adressé, le 29 juin 2026, de premières lettres recommandées avec accusé de réception à :
 
@@ -235,7 +235,7 @@ Dans l'hypothèse où il apparaîtrait que des manœuvres délibérées de dissi
 
 Je joins à la présente, en copies :
 
-1. Copie de ma plainte initiale déposée au commissariat de Foix (début juin 2026).
+1. Copie de ma plainte initiale déposée au commissariat de Foix (le 2 juin 2026).
 
 2. Courriers recommandés du 29 juin 2026 (LMG, dirigeants et bailleur) et nouveaux courriers de mise en demeure du 18 juillet 2026 (SAS HB BARBER, Président et DG) et relance du 19 juillet 2026 (Bailleur), avec les preuves d'envoi et suivis disponibles.
 

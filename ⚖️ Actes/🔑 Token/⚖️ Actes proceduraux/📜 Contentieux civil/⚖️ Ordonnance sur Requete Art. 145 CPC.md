@@ -45,7 +45,7 @@ tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le f
 
 **Vu les pièces produites à l'appui de la requête**, et notamment :
 
-- la plainte initiale déposée au commissariat de [**[La Ville de l'Accident]**] début juin 2026,
+- la plainte initiale déposée au commissariat de [**[La Ville de l'Accident]**] le 2 juin 2026,
 
 - la plainte complémentaire du 20 juillet 2026,
 
