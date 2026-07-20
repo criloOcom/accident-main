@@ -70,15 +70,19 @@ Dans les jours qui ont suivi l'accident et l'opération, j'ai entrepris diverses
 
 - et surtout dépôt d'une plainte au commissariat de Foix, début juin 2026, pour faire constater officiellement l'accident et déclencher une enquête sur les responsabilités.
 
-Au moment de cette première plainte, je croyais sincèrement que la société exploitant le salon était la [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), enseigne apposée sur le lieu et mentionnée par les intervenants. C'est sur cette base que j'ai également adressé, le 29 juin 2026, plusieurs lettres recommandées avec accusé de réception à :
+Au moment de cette première plainte, je croyais sincèrement que la société exploitant le salon était la [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), enseigne apposée sur le lieu et mentionnée par les intervenants. C'est sur cette base que j'ai également adressé, le 29 juin 2026, de premières lettres recommandées avec accusé de réception à :
 
-- la direction de la [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md),
+- la direction de la [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (LRAR n° [**[N° LRAR Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), revenue NPAI avec la mention « En cours de retour à l'expéditeur » le 20 juillet ;
 
-- au président de cette société,
+- au président de cette société, [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (LRAR n° [**[N° LRAR Président]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), mise en attente de retrait à Foix RP jusqu'au 21 juillet ;
 
-- ainsi qu'au propriétaire bailleur des locaux, [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md), pour lui demander les coordonnées de l'assurance de responsabilité civile de l'exploitant.
+- à la directrice générale de cette société, [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (LRAR n° [**[N° LRAR Directrice]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), revenue NPAI le 2 juillet ;
 
-Je joins à la présente copie de ces courriers et des accusés de réception disponibles, à titre de pièces justificatives.
+- ainsi qu'au propriétaire bailleur des locaux, [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) (LRAR n° [**[N° LRAR Propriétaire]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), dont l'avis de réception numérique a été signé le 2 juillet, pour lui demander les coordonnées de l'assurance de responsabilité civile de l'exploitant.
+
+Une relance V2 a été adressée le 8 juillet 2026 à la [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (LRAR n° `870014282662911`), mise en attente de retrait à Foix RP jusqu'au 28 juillet.
+
+Je joins à la présente copie de ces courriers et des suivis La Poste disponibles, à titre de pièces justificatives.
 
 Parallèlement, dès le 1er juin 2026, j'ai également signalé les faits à la mairie de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md). Par courriel de réponse, [**[L'Adjoint au Maire de la Commune]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), adjoint au maire en charge de l'urbanisme et des travaux, m'a indiqué avoir pris attache avec les services de la préfecture afin que soient saisis l'inspection du travail et le CODAF (comité opérationnel départemental anti-fraude), en précisant qu'il restait à ma disposition pour de nouveaux signalements.
 <hr><hr>
@@ -121,6 +125,32 @@ Lors de cette visite, l'échange avec les personnes présentes (notamment [**[Le
 Par ailleurs, après l'accident du 29 mai 2026, l'établissement est resté fermé environ 30 jours (rideau baissé) et n'a rouvert que début juillet 2026. Pendant cette période, ni les autorités (police, inspections) ni moi-même n'avons pu faire constater les lieux en fonctionnement ni l'état du bac avant son remplacement.
 
 Ces éléments sont de nature à caractériser un risque de disparition ou d'altération des preuves matérielles de l'accident.
+
+### 3.3 — Envois recommandés formels à la SAS HB BARBER et ses dirigeants (18 & 19 juillet 2026)
+
+À la suite de la découverte de la SAS HB BARBER, j'ai adressé le 18 juillet 2026 de nouvelles lettres recommandées de mise en demeure afin d'obtenir la communication des coordonnées de leur assureur responsabilité civile professionnelle à :
+
+- La **[Le Nouvel Exploitant (HB BARBER)]** (Siège social) : LRAR n° [**[N° LRAR HB BARBER Société]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (`87500152771696F`) ;
+
+- M. [**[Le Président du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) (Président, domicile personnel) : LRAR n° [**[N° LRAR HB BARBER Président]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (`875001528942001`) ;
+
+- Mme [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (Directrice Générale, domicile personnel) : LRAR n° [**[N° LRAR HB BARBER DG]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (`875001528942010`).
+
+De même, j'ai relancé le propriétaire bailleur [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) par une 3e LRAR le 19 juillet 2026 (LRAR n° [**[N° LRAR Propriétaire Relance 3]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — `87500152910287Q`) afin d'obtenir des explications sur les assurances de l'immeuble et la situation d'HB BARBER.
+
+Enfin, une demande de dossier médical a été envoyée au GHT des Pyrénées Ariégeoises CHIVA le 18 juillet 2026 (LRAR n° [**[N° LRAR CHIVA]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — `87500152888336B`).
+
+Tous ces plis ont été pris en charge par La Poste les 18 et 19 juillet 2026. Copies de ces lettres et des bordereaux d'envoi sont versées aux pièces de la présente plainte.
+
+### 3.4 — Témoignage oculaire direct de M. Frédéric MATHIEU
+
+Le 18 juillet 2026, j'ai recueilli le témoignage de M. **Frédéric MATHIEU** (Cerfa 11527*03), commerçant indépendant dont le magasin est situé au 14 rue Lafaurie, à Foix (magasin adjacent au salon). Son attestation (Pièce n°5) confirme de manière décisive le déroulement chronologique et matériel des faits :
+
+1. **Chronologie et heure de l'accident** : M. MATHIEU atteste que je suis parti se faire couper les cheveux dans le salon voisin après un entretien professionnel dans sa boutique le 29 mai 2026. Il a constaté mon retour la main ensanglantée et a personnellement appelé les urgences (le 15) à **15h25 précises** (horaire enregistré sur son téléphone).
+
+2. **Gravité immédiate et constat du coiffeur** : Il atteste que le sang coulait abondamment et que le coiffeur est venu dehors prendre des nouvelles et a constaté la gravité immédiate du saignement.
+
+3. **Absence de dénégation du coiffeur** : Le témoin rapporte que j'ai expliqué immédiatement que l'accident s'était produit en raison de l'instabilité de la vasque en céramique que j'avais dû rattraper au vol, ce que le coiffeur n'a pas nié.
 <hr><hr>
 
 ## 4 — Identité de la société HB BARBER et de ses dirigeants
@@ -207,7 +237,7 @@ Je joins à la présente, en copies :
 
 1. Copie de ma plainte initiale déposée au commissariat de Foix (début juin 2026).
 
-2. Courriers recommandés du 29 juin 2026 adressés à la [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), à son président et à [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) (bailleur), avec les preuves d'envoi disponibles.
+2. Courriers recommandés du 29 juin 2026 (LMG, dirigeants et bailleur) et nouveaux courriers de mise en demeure du 18 juillet 2026 (SAS HB BARBER, Président et DG) et relance du 19 juillet 2026 (Bailleur), avec les preuves d'envoi et suivis disponibles.
 
 3. Courriel de [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) du 16 juillet 2026, avec les photos d'état des lieux de sortie du 10 mars 2026.
 
@@ -222,6 +252,8 @@ Je joins à la présente, en copies :
 8. Échange de courriels avec [**[L'Adjoint au Maire de la Commune]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md), adjoint au maire de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) (signalement du 1er juin 2026 et réponse indiquant la saisine de la préfecture / inspection du travail / CODAF).
 
 9. **Capture d'écran message WhatsApp du 18/07/2026** adressé à [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (+33 7 58 40 12 87) avec formulaire CERFA 11527\*03 joint — information du témoin direct de l'accident et proposition d'attestation écrite (pas de retour à date).
+
+10. **Attestation de témoin de M. Frédéric MATHIEU (commerçant du 14 rue Lafaurie, Foix) en date du 18 juillet 2026 (Cerfa 11527*03)**, attestant de l'heure exacte de l'accident (15h25) et de ses constatations immédiates.
 <hr><hr>
 
 ## 7 — Déclaration sur l'honneur
