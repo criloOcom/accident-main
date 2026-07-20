@@ -85,7 +85,7 @@ jx: J+32
 | Date | ID | Événement | Catégorie | Statut |
 |---|---|---|---|---|
 | [**[J+46 Échéance amiable]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-46-echeance-amiable.md) | EVT-15 | Échéance légale de mise en demeure | Échéance | À venir |
-| 15/07/2026 | EVT-16 | Lancement de l'assignation en référé | Procédure | À venir |
+| 27/07/2026 | EVT-16 | Dépôt dossier AJ totale BAJ Foix + Complément PV Commissariat | Procédure | 🏗️ EN COURS |
 | 31/07/2026 | EVT-18 | Audience de référé-communication | Procédure | À venir |
 | [**[J+167 Expertise UMJ]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) 13:45 | EVT-17 | Expertise Médicale Judiciaire | Médical | Programmé |
 <hr><hr>

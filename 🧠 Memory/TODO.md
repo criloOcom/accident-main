@@ -10,7 +10,7 @@ type: memory
 
 # TODO<br>Plans d'action + Tableau de bord Sébastien
 
-> **Dernière mise à jour :** 17 juillet 2026 — 🔴 CORRECTION : les actions "FAIT" du 15 juillet sont annulées. Aucun document déposé ce jour-là. Voir notes ci-dessous.
+> **Dernière mise à jour :** 20 juillet 2026 — Phase 33 (Correction 3 articles manquants) + Phase 34 (Foix) ajoutées. Calendrier Google déplacé au 27/07.
 >
 > **Règle absolue :** tout nouvel article de loi cité DOIT être lu via MCP
 > Légifrance (`consulter_article` ou `rechercher_code`) pour vérifier le contexte
@@ -105,9 +105,9 @@ ni contacter des personnes à ta place.
 | # | Action | Date butoir | Statut | Priorité |
 |---|--------|------------|--------|----------|
 | 🏛️ | **Déplacer à Foix** — visite des lieux + découverte HB BARBER | **16/07/2026** | ✅ FAIT (visite seule) | **Haute** |
-| 🏛️ | **Déposer requête Art. 145 CPC** au greffe TJ Foix | À planifier | ❌ PROJET PRÊT | **Haute** |
-| 🏛️ | **Demander AJ totale** au BAJ du TJ Foix | À planifier | ❌ PROJET PRÊT | **Haute** |
-| 🏛️ | **Plainte complémentaire** Commissariat Foix (correction cible HB BARBER) | À planifier | ❌ PROJET PRÊT | **Haute** |
+| 🏛️ | **Déposer requête Art. 145 CPC** au greffe TJ Foix | **27/07/2026** | 🏗️ EN COURS | **Haute** |
+| 🏛️ | **Demander AJ totale** au BAJ du TJ Foix | **27/07/2026** | 🏗️ EN COURS | **Haute** |
+| 🏛️ | **Plainte complémentaire + verser fiche INPI/INSEE** Commissariat Foix | **27/07/2026** | 🏗️ EN COURS | **Haute** |
 | 🏛️ | **Visite des lieux** + photos + constat personnel | 16/07/2026 | ✅ FAIT | **Haute** |
 | 🏛️ | **Relancer le Maire Tavella** — suivi des saisines Préfecture/CODAF/IT | 1 semaine | ❌ NON FAIT | **Haute** |
 | 🏛️ | **Envoyer courrier n°41 Préfecture/CODAF** | 2 semaines | ✅ VALIDÉ AVOCAT — prêt à envoyer | **Haute** |
@@ -153,7 +153,7 @@ ni contacter des personnes à ta place.
 
 - [x] LMG retirée de toutes les sections (plus de maintien investigations)
 
-- [ ] **Lundi 20/07** — Déposer l'erratum + plainte complémentaire au Commissariat de Foix
+- [ ] **27/07** — Déposer l'erratum + complément PV au Commissariat de Foix
 
 - [ ] **LRAR séparée** — Envoyer l'erratum par LRAR aux autorités et destinataires concernés
 
@@ -164,12 +164,12 @@ ni contacter des personnes à ta place.
 
 - [ ] Soit viser HB BARBER + LES MAUVAIS GARÇONS + dirigeants à titre personnel
 
-#### 3. Actions terrain (quand TU seras prêt)
-- [ ] **Lundi 20/07 — Déposer plainte complémentaire + Erratum** au Commissariat de Foix
+#### 3. Actions terrain (semaine du 27/07/2026 — FOIX PRIORITAIRE)
+- [ ] **Lundi 27/07 — Déposer complément PV + fiche INPI/INSEE HB BARBER** au Commissariat de Foix
 
-- [ ] **Déposer requête Art. 145 CPC** au TJ Foix + pièces jointes
+- [ ] **Lundi 27/07 — Déposer demande AJ totale** au BAJ du TJ Foix
 
-- [ ] **Déposer demande AJ totale** au BAJ
+- [ ] **Lundi 27/07 — Déposer requête Art. 145 CPC** au TJ Foix + pièces jointes
 
 - [ ] **Envoyer courrier n°41** Préfecture/CODAF (+ erratum joint)
 
@@ -187,6 +187,27 @@ ni contacter des personnes à ta place.
 - [ ] Scanner/télécharger tous les justificatifs sur Drive
 
 - [ ] **Préparer les pièces pour la requête CIVI (CERFA n° 16160*01)** à titre subsidiaire si la SAS s'avère insolvable ou non assurée
+
+### ✅ Phase 33 — Correction Juridique Phase 4 (20 juillet 2026) ✅ TERMINÉ
+| # | Action | Statut |
+|---|--------|--------|
+| 📜 | **Article L.123-3 C.com** — Injonction immatriculation/radiation RCS | ✅ FAIT |
+| 📜 | **Article L.123-5-1 C.com** — Injonction dépôt pièces/actes RCS | ✅ FAIT |
+| 📜 | **Article L.8221-1 C.trav** — Interdiction travail dissimulé | ✅ FAIT |
+| ✅ | **Vérification MCP OpenLegi** — 3 LEGIARTI VIGUEUR | ✅ FAIT |
+| 📚 | **READMEs + CHANGELOG_JURIDIQUE** mis à jour | ✅ FAIT |
+
+### 🏗️ Phase 34 — Déplacement Foix (semaine du 27/07/2026) 🏗️ [EN COURS]
+| # | Action | Statut |
+|---|--------|--------|
+| 🏛️ | **BAJ TJ Foix** — Déposer dossier AJ totale + fiche INPI/INSEE HB BARBER | 🏗️ EN COURS |
+| 🏛️ | **Commissariat Foix** — Complément PV : verser fiche INPI/INSEE, vérifications OPJ (visite <700m + réquisition RC 77-1-1 CPP) | 🏗️ EN COURS |
+| 🚫 | **INTERDICTION** — Pas de confrontation directe avec le préposé | ✅ CONSIGNÉ |
+| 🚫 | **INTERDICTION** — Pas d'accompagnement police au salon | ✅ CONSIGNÉ |
+| 📅 | **Calendrier Google** — Événement DÉPÔT FOIX déplacé au 27/07/2026 | ✅ FAIT |
+| 📆 | **Mini Calendrier Procedure.md** — Jalons 27/07 ajoutés | ✅ FAIT |
+| 📅 | **Calendrier Procedure.md (Token)** — EVT-16 mis à jour | ✅ FAIT |
+| 📄 | **Projet Declaration PV Foix.md** — Vérifié aligné (pas de confrontation demandée) | ✅ FAIT |
 
 #### Préparation 12 novembre 2026 — UMJ Purpan
 - [ ] Rassembler tous les documents médicaux :
@@ -228,10 +249,11 @@ PHASE 0 — URGENT CONSERVATION VIDÉOS (avant 15 août)
   1. [REQUÊTE ART. 145] À déposer au TJ Foix — conservation vidéos
   2. [PLAINTE PÉNALE] Demander réquisition OPJ pour saisie vidéos
   ↓
-PHASE 1 — DÉPLACEMENT FOIX
-  1. [16/07] Visite 22 Rue Lafaurie : constat personnel + découverte HB BARBER ✅ FAIT
-  2. [À FAIRE] TJ Foix : dépôt requête Art. 145 + demande AJ totale
-  3. [À FAIRE] Commissariat : plainte complémentaire (correction société)
+PHASE 1 — DÉPLACEMENT FOIX (semaine du 27/07/2026)
+   1. [16/07] Visite 22 Rue Lafaurie : constat personnel + découverte HB BARBER ✅ FAIT
+   2. [27/07] TJ Foix : dépôt requête Art. 145 + demande AJ totale 🏗️ EN COURS
+   3. [27/07] Commissariat : complément PV + verser fiche INPI/INSEE HB BARBER 🏗️ EN COURS
+   4. [INTERDIT] Pas de confrontation directe avec le préposé — pas d'accompagnement police au salon
   ↓
 PHASE 1B — RELANCES ADMINISTRATIVES
   1. Relancer le Maire Tavella
