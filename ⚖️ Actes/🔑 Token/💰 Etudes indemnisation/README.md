@@ -22,8 +22,8 @@ type: readme
 
 | Poste | Montant retenu |
 |-------|---------|
-| PGPA (Inactivité 56j) | 1 380 € |
-| DFT (Incapacité 56j) | 1 400 € |
+| PGPA (Inactivité 55j) | 1 355 € |
+| DFT (Incapacité 55j) | 1 375 € |
 | DFP (10% médian) | 25 000 € |
 | Souffrances Endurées (4/7) | 15 000 € |
 | Incidence Professionnelle | 30 000 € |

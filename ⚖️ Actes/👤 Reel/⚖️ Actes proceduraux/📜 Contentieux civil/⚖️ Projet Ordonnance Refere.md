@@ -102,7 +102,7 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 
 **Considérant** que le préjudice corporel de [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), nécessairement provisoire en l'absence de consolidation, peut être évalué comme suit à ce stade :
 
-- Pertes de gains professionnels actuels (PGPA) pour 55 jours d'ITT : **1 380 €** ;
+- Pertes de gains professionnels actuels (PGPA) pour 55 jours d'arrêt de travail : **1 355 €** ;
 
 - Frais médicaux et paramédicaux (chirurgie 790,23 €, soins de kinésithérapie) : **4 000 €** ;
 

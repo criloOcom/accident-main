@@ -79,7 +79,7 @@ Cet état de handicap temporaire sévère et documenté explique et justifie le 
 
 Une plainte pénale a été déposée pour blessures involontaires ([ ... ] du [**[J+4 Dépôt de plainte]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md)) **(Pièce n°1)**. Un dossier de Recours contre Tiers a également été ouvert auprès de la CPAM sous la référence [ ... ] **(Pièce n°9)**.
 
-À ce jour, le cumul des [arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) prescrits s'élève à 55 jours d'ITT continue (du [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au [**[J+55 Fin d'ITT]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md) inclus) **(Pièce n°4)**.
+À ce jour, le cumul des [arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) prescrits s'élève à 55 jours d'arrêt de travail continu (du [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au [**[J+55 Fin d'ITT]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md) inclus) **(Pièce n°4)**.
 <hr><hr>
 
 ## III — DISCUSSION JURIDIQUE
@@ -207,7 +207,7 @@ Le montant de 15 000 € sollicité à titre de provision est justifié par les 
 
 **1. Le montant se situe dans la fourchette basse des provisions usuelles**
 
-Le référentiel indicatif des cours d'appel fixe la fourchette des provisions pour blessures légères à modérées entre **10 000 € et 20 000 €**. Le cas d'[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (section tendineuse et nerveuse de la main droite dominante, intervention chirurgicale lourde, ITT de 55 jours, séquelles nerveuses persistantes, absence de consolidation) se situe dans cette catégorie. La demande de 15 000 € constitue le **minimum de cette fourchette**.
+Le référentiel indicatif des cours d'appel fixe la fourchette des provisions pour blessures légères à modérées entre **10 000 € et 20 000 €**. Le cas d'[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (section tendineuse et nerveuse de la main droite dominante, intervention chirurgicale lourde, arrêt de travail de 55 jours, séquelles nerveuses persistantes, absence de consolidation) se situe dans cette catégorie. La demande de 15 000 € constitue le **minimum de cette fourchette**.
 
 **2. La provision est proportionnée au préjudice global estimé**
 
@@ -265,7 +265,7 @@ Il est donc demandé au juge des référés d'ordonner à [**[L'Exploitant du Co
 [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.
 
 - **(PGPA) Pertes de Gains Professionnels Actuels** : <br>
-    Evaluées à [**[Finance PGPA]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-pgpa.md) au titre de la perte de revenus durant les 55 jours d'ITT (sur la base du chiffre d'affaires mensuel moyen de 750 € déclaré à l'URSSAF).
+    Evaluées à [**[Finance PGPA]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-pgpa.md) au titre de la perte de revenus durant les 55 jours d'arrêt de travail (sur la base du chiffre d'affaires mensuel moyen de 750 € déclaré à l'URSSAF).
 
 - **(DFP / AIPP) Déficit Fonctionnel Permanent** : <br>
     Chiffrage provisionnel et indicatif, sous réserve de consolidation médicale future et d'expertise judiciaire contradictoire. Estimation provisoire sur la base d'un taux de 10 % ([**[Finance DFP]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-dfp.md) au barème de capitalisation pour un homme de 44 ans).
@@ -340,7 +340,7 @@ Pour [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%
 
 3. [Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par [**[Le Chirurgien SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) ([**[J+1 Chirurgie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md))
 
-4. Certificats médicaux d'[arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 55 jours d'ITT
+4. Certificats médicaux d'[arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 55 jours d'arrêt de travail
 
 5. Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
 

@@ -58,7 +58,7 @@ Cet heurt a entraîné :
 
 - une **neurolyse du nerf palmaire**.
 
-Une intervention chirurgicale a été réalisée en urgence le 30 mai 2026 par un chirurgien spécialisé en chirurgie de la main. L'**incapacité temporaire totale de travail (ITT)** a été fixée médicalement à **cinquante-six jours**, du 29 mai 2026 au 23 juillet 2026.
+Une intervention chirurgicale a été réalisée en urgence le 30 mai 2026 par un chirurgien spécialisé en chirurgie de la main. L'**arrêt de travail** a été fixé médicalement à **55 jours**, du 29 mai 2026 au 23 juillet 2026.
 
 ### I.2 — LA PREUVE DU RISQUE ET DU DOMMAGE
 
@@ -144,7 +144,7 @@ L'obligation de la SAS envers la victime est établie par :
 
 ### II.2 — CARACTÈRE URGENT
 
-Le demandeur subit des pertes financières immédiates du fait de son ITT de 55 jours. En tant qu'informaticien indépendant, son activité repose exclusivement sur l'usage de sa main dominante. Ses frais médicaux sont réels et documentés. Les dirigeants de la SAS refusent toute coopération et n'ont pas communiqué les coordonnées de leur assureur RC Pro malgré demandes. Le capital social de la SAS (200 €) fait craindre une insolvabilité croissante si le recouvrement n'est pas accéléré.
+Le demandeur subit des pertes financières immédiates du fait de son arrêt de travail de 55 jours. En tant qu'informaticien indépendant, son activité repose exclusivement sur l'usage de sa main dominante. Ses frais médicaux sont réels et documentés. Les dirigeants de la SAS refusent toute coopération et n'ont pas communiqué les coordonnées de leur assureur RC Pro malgré demandes. Le capital social de la SAS (200 €) fait craindre une insolvabilité croissante si le recouvrement n'est pas accéléré.
 <hr><hr>
 
 ## III — DISPOSITIF
@@ -200,7 +200,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 - **[Certificat medical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation initiale des blessures
 
-- **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 55 jours
+- **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — Arrêt de travail de 55 jours
 
 - **[Constat d'huissier](%F0%9F%93%B8%20Requete%20Constat%20Huissier.md)** — Etat des lieux de la vasque litigieuse
 

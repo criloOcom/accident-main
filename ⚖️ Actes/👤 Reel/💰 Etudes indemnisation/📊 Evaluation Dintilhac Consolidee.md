@@ -117,7 +117,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 | Poste | Notre estimation (optimiste) | Glose (conservatif) | Critique Glose | **Compromis final retenu** |
 |---|---|---|---|---|
 | PGPA | 1 900 € | 1 380 € | 1 380 € | **1 380 €** |
-| DFT | 1 400 € | *(inclus)* | *(inclus)* | **1 400 €** |
+| DFT | 1 375 € | *(inclus)* | *(inclus)* | **1 375 €** |
 | DFP | 31 200 € (12%) | 25 000 € (8%) | 18 000-45 000 € (10-12%) | **25 000 €** |
 | Souffrances Endurées | 24 000 € | 8 500 € | 15 000-24 000 € | **15 000 €** |
 | Incidence Professionnelle | 30 000 € | 2 250 € | 10 000-30 000 € | **30 000 €** |
@@ -135,7 +135,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 | Poste | Fourchette basse | Fourchette haute | Médiane retenue |
 |---|---|---|---|
 | PGPA | 1 380 € | 2 400 € | 1 380 € |
-| DFT | 1 400 € | 1 680 € | 1 400 € |
+| DFT | 1 375 € | 1 650 € | 1 375 € |
 | DFP | 25 000 € | 36 840 € | 25 000 € |
 | Souffrances Endurées | 15 000 € | 30 000 € | 15 000 € |
 | Incidence Professionnelle | 20 000 € | 40 000 € | 30 000 € |
@@ -161,9 +161,9 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 **Calcul technique :**
 - ITT : 55 jours (du 29 mai au [23 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md))
 
-- CA mensuel : 750 € → 750 / 30 × 56 = **1 400 €** (prorata)
+- CA mensuel : 750 € → 750 / 30 × 55 = **1 375 €** (prorata)
 
-- Formule Glose plus précise : 56 / 30,44 × 750 = **1 380 €**
+- Formule Glose plus précise : 55 / 30,44 × 750 = **1 355 €**
 
 **Vérification :** Pour un indépendant, les IJ CPAM sont calculées sur le revenu annuel moyen des 3 dernières années (1/720e × 50 %). Sous réserve du relevé de débours CPAM.
 
@@ -189,7 +189,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 **Calcul technique :** 55 jours × 25-30 €/jour = **1 375 € (bas)** à **1 650 € (haut)**
 
-**Compromis retenu : 1 400 €**
+**Compromis retenu : 1 375 €**
 
 **Source :** Référentiel Mornet 2024, fourchette DFT : 26-30 €/jour
 <hr><hr>
@@ -467,7 +467,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 > **Code de procédure pénale > Partie législative > Livre IV : De quelques procédures particulières > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction.[^17]**
 
 **Conditions cumulatives :**
-1. Infraction pénale caractérisée → blessures involontaires (art. 222-19 CP) — ITT 55 jours
+1. Infraction pénale caractérisée → blessures involontaires (art. 222-20 CP) — ITT pénale 1 jour, arrêt de travail 55 jours
 
 2. Seuil CIVI : ITT ≥ 1 mois → **largement dépassé** (55 jours)
 
@@ -654,8 +654,8 @@ La provision de [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8
 
 | Poste | Montant retenu |
 |---|---|---|
-| PGPA (Inactivité 56j) | 1 380 € |
-| DFT (Incapacité 56j) | 1 400 € |
+| PGPA (Inactivité 55j) | 1 355 € |
+| DFT (Incapacité 55j) | 1 375 € |
 | DFP (10% médian) | 25 000 € |
 | Souffrances Endurées (4/7) | 15 000 € |
 | Incidence Professionnelle | 30 000 € |

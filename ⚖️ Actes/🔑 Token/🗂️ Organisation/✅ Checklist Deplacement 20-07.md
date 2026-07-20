@@ -52,7 +52,7 @@ jx: J+52
 
 - [ ] PV initial n°2026/015967 (copie)
 
-- [ ] CR opératoire 30/05/2026 + Arrêts travail (ITT 56j)
+- [ ] CR opératoire 30/05/2026 + Arrêts travail (55j)
 
 - [ ] Extrait Kbis HB BARBER (SIREN 104 103 262) < 1 mois
 
@@ -264,8 +264,8 @@ jx: J+52
 | N° | Pièce | Destination | Note |
 |----|-------|-------------|------|
 | 1 | PV initial n°2026/015967 | TJ (145) + Plainte | Copie intégrale |
-| 2 | CR opératoire 30/05 + CR médicaux | TJ (145) + Plainte | Plaie palmaire, tendon + nerf, ITT 56j |
-| 3 | Arrêts travail (ITT 56j) | TJ (145) + Plainte | Justifier durée ITT |
+| 2 | CR opératoire 30/05 + CR médicaux | TJ (145) + Plainte | Plaie palmaire, tendon + nerf, 55j |
+| 3 | Arrêts travail (55j) | TJ (145) + Plainte | Justifier durée arrêt de travail |
 | 4 | Photos main (plaie/cicatrice) | TJ (145) + Plainte | Avant/après datées |
 | 5 | **Attestation Mathieu Frédéric (Cerfa 11527*03)** | TJ (145) + Plainte | **NOUVELLE PIÈCE N°5** — Témoin direct |
 | 6 | Photos devanture + intérieur (caméras, bacs) | TJ (145) + Plainte | À faire 20/07 midi |
