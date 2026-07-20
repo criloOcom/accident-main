@@ -21,7 +21,7 @@ import os
 import re
 import sys
 
-ROOT = "/home/crilocom/accident-main"
+ROOT = "/app"
 SKIP_DIRS = {'.git', '.pytest_cache', '.venv', 'node_modules', '__pycache__', '.opencode'}
 
 SEP = " › "
