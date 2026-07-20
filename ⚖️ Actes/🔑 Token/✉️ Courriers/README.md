@@ -166,7 +166,7 @@ Pour visualiser l'ordre logique d'expédition et les interdépendances, consulte
 
 - [✉️ Guide Demande AJ 📝Document.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Interne/%E2%9C%89%EF%B8%8F%20Guide%20Demande%20AJ%20%F0%9F%93%9DDocument.md)
 
-- [✉️ Guide Dialogue Police 📋Note.md](%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Guide%20Dialogue%20Police%20%F0%9F%93%8BNote.md)
+- [✉️ Police Guide Dialogue 📋Note.md](%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Police%20Guide%20Dialogue%20%F0%9F%93%8BNote.md)
 
 - [✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Commissariat%20Foix%20Plainte%20Complementaire%20%E2%9A%96%EF%B8%8FContentieux.md)
 
