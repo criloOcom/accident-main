@@ -69,13 +69,14 @@ Le dossier a été réorganisé pour une meilleure navigation :
 │   ├── 🏛️ Action directe et assurance/            # 4 arrêts
 │   ├── 🏛️ Responsabilité du commettant/           # 2 arrêts
 │   └── 🏛️ Mise en danger d'autrui/                # 1 arrêt
-├── 📒 Code/                  # 10 sous-dossiers
+├── 📒 Code/                  # 11 sous-dossiers
 │   ├── 📒 Code civil/                            # 5 articles
 │   ├── 📒 Code pénal/                            # 9 articles
 │   ├── 📒 Code procédure civile/                 # 6 articles
 │   ├── 📒 Code procédure pénale/                 # 6 articles
 │   ├── 📒 Code assurances/                       # 3 articles
-│   ├── 📒 Code commerce/                         # 8 articles
+│   ├── 📒 Code du travail/                      # 6 articles
+│   ├── 📒 Code commerce/                         # 13 articles
 │   ├── 📒 Code Général des Collectivités Territoriales/ # 2 articles
 │   ├── 📒 Code consommation/                     # 1 article
 │   ├── 📒 Code construction habitation/          # 1 article
@@ -86,7 +87,7 @@ Le dossier a été réorganisé pour une meilleure navigation :
 
 ## 📜 Codes et textes législatifs
 
-### [📒 Code civil (6 articles)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
+### [📒 Code civil (11 articles)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019019256) [Art. 1240](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article1240_CodeCivil.md) — Responsabilité délictuelle
 
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019019258) [Art. 1242](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article1242_CodeCivil.md) — Responsabilité du fait des choses
@@ -98,6 +99,16 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924) [Art. 1641](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article_1641_CodeCivil.md) — Garantie des défauts cachés
 
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259) [Art. 2226](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article_2226_Code_Legifrance.md) — Prescription décennale
+
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042311) [Art. 1359](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article_1359_CodeCivil.md) — Preuve par écrit des actes juridiques
+
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042379) [Art. 1382](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article_1382_CodeCivil.md) — Preuve par présomption judiciaire
+
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042374) [Art. 1383](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article_1383_CodeCivil.md) — L'aveu
+
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033458766) [Art. 2044](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article_2044_CodeCivil.md) — Définition de la transaction
+
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112) [Art. 2224](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article_2224_CodeCivil.md) — Prescription de droit commun 5 ans
 
 ### [📒 Code pénal (10 articles)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) [Art. 121-3](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/Article_121-3_Code_Legifrance.md) — Principe de la responsabilité pénale
@@ -131,6 +142,8 @@ Le dossier a été réorganisé pour une meilleure navigation :
 
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) [Art. 835](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20civile/Article835_CodeDeProcedureCivile_LegiFrance.md) — Référé-provision
 
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411023) [Art. 655](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20civile/Article_655_CodeProcedureCivile.md) — Signification à domicile ou à résidence
+
 ### [📒 Code de procédure pénale (8 articles)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911) [Art. 8](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20proc%C3%A9dure%20p%C3%A9nale/Article_8_CodeProcedurePenale.md) — Prescription de l'action publique
 
@@ -159,7 +172,13 @@ Le dossier a été réorganisé pour une meilleure navigation :
 
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417206) [Art. 121-1 à 121-7](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/Article_L121-1a121-7_Code_Legifrance.md) — Principes généraux responsabilité pénale (personnes morales)
 
-### [📒 Code de commerce (11 articles)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
+### [📒 Code de commerce (13 articles)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051752672) [Art. L.123-2](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L123-2_Code_Legifrance.md) — Immatriculation des commerçants au RCS
+
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422) [Art. L.123-3](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L123-3_Codecommerce.md) — Injonction d'immatriculation et radiation au RCS
+
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291) [Art. L.123-5-1](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L123-5-1_Codecommerce.md) — Injonction de dépôt des pièces au RCS
+
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222358) [Art. L.210-6](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L210-6_Codecommerce_Legifrance.md) — Responsabilité des dirigeants
 
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141) [Art. L.223-22](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L223-22_Codecommerce_Legifrance.md) — Nullité des actes
@@ -182,6 +201,19 @@ Le dossier a été réorganisé pour une meilleure navigation :
 
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214) [Art. R.123-128](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_R123-128_Codecommerce.md) — Radiations d'office
 
+### [📒 Code du travail (6 articles)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815) [Art. L.8221-1](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20du%20travail/Article_L8221-1_CodeTravail.md) — Interdiction du travail dissimulé
+
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966) [Art. L.8221-5](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20du%20travail/Article_L8221-5_CodeTravail.md) — Travail dissimulé par dissimulation d'emploi salarié
+
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006917375) [Art. L.8271-1-2](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20du%20travail/Article_L8271-1-2_CodeTravail.md) — Agents de contrôle pour la lutte contre le travail illégal
+
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035638287) [Art. L.4121-1](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20du%20travail/Article_L4121-1_CodeTravail.md) — Obligations de l'employeur en matière de santé et sécurité
+
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640037) [Art. L.4321-1](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20du%20travail/Article_L4321-1_CodeTravail.md) — Principes généraux des équipements de travail
+
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045123161) [Art. R.4121-1](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20du%20travail/Article_R4121-1_CodeTravail.md) — Document unique d'évaluation des risques
+
 ### [📒 Code Général des Collectivités Territoriales (2 articles)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370) [Art. L.2212-2](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20general%20des%20collectivites%20territoriales/Article_L2212-2_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Pouvoirs de police du maire
 
@@ -197,6 +229,12 @@ Le dossier a été réorganisé pour une meilleure navigation :
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006316012) [Art. L.252](%F0%9F%93%92%20Code/%F0%9F%93%92%20Livre%20des%20proc%C3%A9dures%20fiscales/Article_L252_LivreProceduresFiscales.md) — Recouvrement impôts, comptables publics
 
 - [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042914471) [Art. L.274](%F0%9F%93%92%20Code/%F0%9F%93%92%20Livre%20des%20proc%C3%A9dures%20fiscales/Article_L274_LivreProceduresFiscales.md) — Prescription action recouvrement (4 ans)
+
+### [📒 Code de la sécurité sociale (1 fiche)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
+- [🔗](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006742979) [AT/MP indépendants](%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20s%C3%A9curite%20sociale/Accident_Travail_Independants.md) — Régime AT/MP des travailleurs indépendants
+
+### 📜 Règlements européens
+- [🔗](https://eur-lex.europa.eu/eli/reg/2016/679/oj/fra) [RGPD – Art. 7, 9 et 82](RGPD_Articles7_9_82.md) — Consentement, données sensibles, réparation
 
 ## 🏛️ Jurisprudence (Cour de cassation) — 29 arrêts
 

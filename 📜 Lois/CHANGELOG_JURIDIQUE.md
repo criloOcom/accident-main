@@ -1,6 +1,6 @@
 ---
 title: "CHANGELOG JURIDIQUE"
-date: FIXME
+date: 2026-07-20
 description: "Suivi des modifications apportées aux fiches juridiques (articles et jurisprudence)."
 type: loi
 ---
@@ -10,6 +10,29 @@ type: loi
 <!-- /Breadcrumb -->
 
 # CHANGELOG JURIDIQUE
+
+## 2026-07-20 — Création des 3 derniers articles manquants (Phase 4)
+
+| Fichier | Action | LEGIARTI vérifié |
+|---|---|---|
+| `📒 Code commerce/Article_L123-5-1_Codecommerce.md` | Création — Art. L.123-5-1 C.com (injonction dépôt RCS) | LEGIARTI000006219291 ✅ VIGUEUR |
+| `📒 Code commerce/Article_L123-3_Codecommerce.md` | Création — Art. L.123-3 C.com (injonction immatriculation/radiation RCS) | LEGIARTI000025559422 ✅ VIGUEUR |
+| `📒 Code du travail/Article_L8221-1_CodeTravail.md` | Création — Art. L.8221-1 C.trav (interdiction travail dissimulé) | LEGIARTI000006904815 ✅ VIGUEUR |
+
+### README — Mises à jour
+
+| Fichier | Modification |
+|---|---|
+| `📒 Code commerce/README.md` | L.123-3 corrigé (lien vers fichier correct) + L.123-5-1 ajouté |
+| `📒 Code du travail/README.md` | L.8221-1 ajouté |
+| `📜 Lois/README.md` | Code du travail ajouté à la structure + listing (6 articles). Code commerce : 8→13 articles. L.123-3, L.123-5-1 ajoutés. |
+
+### Méthode
+
+- Vérification via OpenLegi (Légifrance-prod API 500). Tous VIGUEUR.
+- Les 15 articles manquants de l'audit complet (2026-07-11) sont désormais tous créés. ✅
+
+---
 
 ## 2026-07-13 — Correction et mise à jour extensive
 
