@@ -12,9 +12,8 @@ tags:
   - personnel
 statut: archive
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/Note - Guide Plainte Police.md
 jx: J+47
-token_path: ../../../🔑 Token/✉️ Courriers/👮 Police/Note - Guide Plainte Police.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👮 Police › ✉️ Note - Guide Plainte Police*

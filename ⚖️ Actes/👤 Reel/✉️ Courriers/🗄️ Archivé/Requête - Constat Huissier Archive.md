@@ -12,9 +12,7 @@ tags:
 statut: archive
 auteur: La Victime
 jx: J+41
-
-token_path: ../../../🔑 Token/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md
-
+reel_path: ../../../👤 Reel/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › [🗄️ Archivé](./README.md) › ✉️ Requête - Constat Huissier Archive*
@@ -27,7 +25,7 @@ reel_path: ../../../👤 Reel/✉️ Courriers/🗄️ Archivé/Requête - Const
 
 # ⚠️ FICHIER OBSOLÈTE<br>NE PLUS UTILISER
 
-> Ce fichier a été remplacé par **[Requête - Article 145 CPC.md](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requ%C3%AAte%20-%20Article%20145%20CPC.md)** dans `⚖️ Actes proceduraux/`.
+> Ce fichier a été remplacé par **[Requete Art.145 CPC.md](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requete%20Art.145%20CPC.md)** dans `⚖️ Actes proceduraux/`.
 >
 > La version archivée est conservée dans **[🗄️ Archives/33 ✉️ Requête - Constat Huissier Archive 145 CPC.md](../../%F0%9F%97%84%EF%B8%8F%20Archives/33%20%E2%9C%89%EF%B8%8F%20Requ%C3%AAte%20-%20Constat%20Huissier%20145%20CPC.md)**.
 >

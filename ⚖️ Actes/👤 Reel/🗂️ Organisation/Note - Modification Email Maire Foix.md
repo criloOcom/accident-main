@@ -3,8 +3,7 @@ title: "Plan : Ajustement du courriel à l'Adjoint au Maire (Police Municipale e
 description: "Ce plan vise à corriger la formulation de l'e-mail pour éliminer tout terme inapproprié (« bruits de couloir ») et poser une demande d'intervention factuelle d'agents assermentés de la police municipale pour contrôler la situation sur place."
 type: readme
 statut: brouillon
-token_path: ../../🔑 Token/🗂️ Organisation/Note - Modification Email Maire Foix.md
-
+reel_path: ../../👤 Reel/🗂️ Organisation/Note - Modification Email Maire Foix.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › Note - Modification Email Maire Foix*

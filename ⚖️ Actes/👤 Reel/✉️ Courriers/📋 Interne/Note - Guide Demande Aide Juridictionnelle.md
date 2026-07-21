@@ -11,9 +11,8 @@ tags:
   - procedure
 statut: final
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/📋 Interne/Note - Guide Demande Aide Juridictionnelle.md
 jx: J+47
-token_path: ../../../🔑 Token/✉️ Courriers/📋 Interne/Note - Guide Demande Aide Juridictionnelle.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 📋 Interne › ✉️ Note - Guide Demande Aide Juridictionnelle*

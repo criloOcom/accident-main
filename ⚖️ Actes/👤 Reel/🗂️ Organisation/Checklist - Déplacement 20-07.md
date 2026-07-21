@@ -13,10 +13,9 @@ tags:
   - 145-cpc
 statut: final
 auteur: La Victime
+reel_path: ../../👤 Reel/🗂️ Organisation/Checklist - Déplacement 20-07.md
 source: local
 jx: J+52
-token_path: ../../🔑 Token/🗂️ Organisation/Checklist - Déplacement 20-07.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › Checklist - Déplacement 20-07*

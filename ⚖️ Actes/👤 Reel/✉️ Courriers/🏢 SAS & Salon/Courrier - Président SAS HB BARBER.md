@@ -9,9 +9,7 @@ statut: envoye
 lrar_number: "875001528942001"
 destinataire: Le Président de l'Exploitation
 auteur: La Victime
-
-token_path: ../../../🔑 Token/✉️ Courriers/🏢 SAS & Salon/Courrier - Président SAS HB BARBER.md
-
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/Courrier - Président SAS HB BARBER.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ Courrier - Président SAS HB BARBER*

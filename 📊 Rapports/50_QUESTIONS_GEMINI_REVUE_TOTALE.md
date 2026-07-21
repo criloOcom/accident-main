@@ -28,7 +28,7 @@ type: rapport
 ## 1 — Vérification des fuites RGPD Token (Q1–Q8)
 
 **Q1.** Le prénom « Ayoub » a été signalé comme fuite RGPD dans 2 fichiers Token :
-   - `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Article 145 CPC.md`
+   - `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`
    - `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
    Vérifie que « Ayoub » a bien été remplacé par `[**[Le Prénom du Préposé]**]` dans ces 2 fichiers. Si encore présent, signale comme NON RÉSOLU.
 
@@ -82,7 +82,7 @@ type: rapport
 
 ## 4 — Hérésie procédurale Article 145 (Q18–Q21)
 
-**Q18.** Vérifie que la Requête 145 CPC (`Requête - Article 145 CPC.md`) ne contient AUCUNE demande de provision. Cherche les mots-clés : « provision », « 15 000 », « 15000 », « 835 », « indemnisation ». Confirme qu'elle ne demande que des mesures d'instruction.
+**Q18.** Vérifie que la Requête 145 CPC (`Requete Art.145 CPC.md`) ne contient AUCUNE demande de provision. Cherche les mots-clés : « provision », « 15 000 », « 15000 », « 835 », « indemnisation ». Confirme qu'elle ne demande que des mesures d'instruction.
 
 **Q19.** Vérifie que les demandes de provision (15 000 €) sont bien dans des actes SÉPARÉS :
    - `Référé - Assignation Provision.md` (fondée sur art. 835 al. 2 CPC)
@@ -125,7 +125,7 @@ type: rapport
 
 **Q33.** La lettre au Procureur (Reel) mentionne-t-elle explicitement HB BARBER comme exploitant au jour de l'accident ? Vérifie le document.
 
-**Q34.** L'ordonnance projetée 145 CPC mentionne-t-elle HB BARBER (au lieu de LMG) comme destinataire des mesures ? Vérifie le fichier `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requête - Article 145 CPC.md`.
+**Q34.** L'ordonnance projetée 145 CPC mentionne-t-elle HB BARBER (au lieu de LMG) comme destinataire des mesures ? Vérifie le fichier `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC Ordonnance.md`.
 
 **Q35.** Les 4 LRAR du 29 juin 2026 sont-elles correctement décrites (destinataires, dates, numéros) dans le bordereau de la requête 145 (pièces n°10→13) ?
 

@@ -14,10 +14,9 @@ tags:
   - article 145 CPC
 statut: brouillon
 auteur: La Victime
+reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note — Procédure Action Directe Assureur L124-3.md
 source: local
 jx: J+53
-token_path: ../../🔑 Token/📚 Analyses juridiques/📜 Note — Procédure Action Directe Assureur L124-3.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 📜 Note — Procédure Action Directe Assureur L124-3*

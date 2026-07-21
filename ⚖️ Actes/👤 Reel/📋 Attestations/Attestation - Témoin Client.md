@@ -4,7 +4,7 @@ description: "Cerfa 11527*03 — Attestation du client présent lors de l'accide
 type: attestation
 date: FIXME
 status: brouillon
-token_path: ../../🔑 Token/📋 Attestations/Attestation - Témoin Client.md
+reel_path: ../../👤 Reel/📋 Attestations/Attestation - Témoin Client.md
 statut: brouillon
 ---
 <!-- Breadcrumb -->

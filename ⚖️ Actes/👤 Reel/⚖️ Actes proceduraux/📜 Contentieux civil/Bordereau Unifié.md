@@ -11,10 +11,9 @@ tags:
 statut: final
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifié.md
 source: drive
 jx: J+39
-token_path: ../../../🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifié.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › 📑 Bordereau Unifié*

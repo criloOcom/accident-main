@@ -11,8 +11,7 @@ tags:
 statut: final
 destinataire: La Victime
 auteur: Avocat de la défense
-token_path: ../../🔑 Token/📚 Analyses juridiques/Mémoire - En défense adverse.md
-
+reel_path: ../../👤 Reel/📚 Analyses juridiques/Mémoire - En défense adverse.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › Mémoire - En défense adverse*

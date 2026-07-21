@@ -18,7 +18,7 @@ type: readme
 
 - [Référé - Assignation Provision.md](%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20-%20Assignation%20Provision.md)
 
-- [Ordonnance sur Requête - Article 145 CPC.md](%F0%9F%93%9C%20Contentieux%20civil/Ordonnance%20sur%20Requ%C3%AAte%20-%20Article%20145%20CPC.md)
+- [Requete Art.145 CPC Ordonnance.md](%F0%9F%93%9C%20Contentieux%20civil/Requete%20Art.145%20CPC%20Ordonnance.md)
 
 - [Référé - Ordonnance Projet.md](%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20-%20Ordonnance%20Projet.md)
 
@@ -30,7 +30,7 @@ type: readme
 
 - [Requête - Constat Huissier.md](%F0%9F%93%9C%20Contentieux%20civil/Requ%C3%AAte%20-%20Constat%20Huissier.md)
 
-- [Requête - Article 145 CPC.md](%F0%9F%93%9C%20Contentieux%20civil/Requ%C3%AAte%20-%20Article%20145%20CPC.md)
+- [Requete Art.145 CPC.md](%F0%9F%93%9C%20Contentieux%20civil/Requete%20Art.145%20CPC.md)
 
 - [Requête - Mandataire Ad Hoc.md](%F0%9F%93%9C%20Contentieux%20civil/Requ%C3%AAte%20-%20Mandataire%20Ad%20Hoc.md)
 

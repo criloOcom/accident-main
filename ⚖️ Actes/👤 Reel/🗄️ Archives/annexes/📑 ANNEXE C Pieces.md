@@ -3,9 +3,8 @@ title: ANNEXE C — LISTE DES PIÈCES
 description: '- **J+0 Accident** — **Le Médecin en Urgence** — Premiers soins
   urgence — 🔗 Drive'
 type: readme
+reel_path: ../../../👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md
 auteur: La Victime
-token_path: ../../../🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [📦 Archives](../README.md) › [📁 annexes](./README.md) › 📑 ANNEXE C Pieces*

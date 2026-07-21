@@ -14,8 +14,7 @@ tags:
 statut: final
 auteur: La Victime
 jx: J+47
-token_path: ../../🔑 Token/📚 Analyses juridiques/Note - Mémo Stratégie Admin Pénal.md
-
+reel_path: ../../👤 Reel/📚 Analyses juridiques/Note - Mémo Stratégie Admin Pénal.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › Note - Mémo Stratégie Admin Pénal*

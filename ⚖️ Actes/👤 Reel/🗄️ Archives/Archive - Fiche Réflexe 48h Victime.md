@@ -12,9 +12,8 @@ tags:
 statut: projet
 destinataire: La Victime
 auteur: La Victime
+reel_path: ../../👤 Reel/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md
 source: local
-token_path: ../../🔑 Token/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › Archive - Fiche Réflexe 48h Victime*

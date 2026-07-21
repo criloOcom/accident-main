@@ -16,11 +16,10 @@ calendar_event_id: "4f9gidbi91fo4nh13pnanr1guc"
 statut: final
 destinataire: URSSAF Midi-Pyrenees
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/Signalement - URSSAF.md
 source: drive
 drive_id: 1LdLfCnWLiD2v1N1SMF3FAeh681znM0kXOrAlBXeOe8w
 jx: J+37
-token_path: ../../../🔑 Token/✉️ Courriers/🏛️ Administrations/Signalement - URSSAF.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ Signalement - URSSAF*

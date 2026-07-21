@@ -256,13 +256,13 @@ Cet audit croise les données de `🧠 Memory/RECADRAGE_NOMENCLATURE.md`, `🧠 
 
 - [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond - TJ Foix.md:443 — Token leak détecté : ['[**[Date Dépôt Conclusions]**]'] — Remplacer par les valeurs réelles.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requête - Article 145 CPC.md:58 — Token leak détecté : ['[**[SIRET du Nouvel Exploitant]**]'] — Remplacer par les valeurs réelles.
+- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC Ordonnance.md:58 — Token leak détecté : ['[**[SIRET du Nouvel Exploitant]**]'] — Remplacer par les valeurs réelles.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requête - Article 145 CPC.md:84 — Token leak détecté : ['[**[Capital Social du Nouvel Exploitant]**]'] — Remplacer par les valeurs réelles.
+- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC Ordonnance.md:84 — Token leak détecté : ['[**[Capital Social du Nouvel Exploitant]**]'] — Remplacer par les valeurs réelles.
 
 - [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Ordonnance Projet.md:44 — Token leak détecté : ['[**[Date de naissance de la Victime]**]'] — Remplacer par les valeurs réelles.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Article 145 CPC.md:66 — Token leak détecté : ['[**[Le Prénom du Préposé]**]'] — Remplacer par les valeurs réelles.
+- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md:66 — Token leak détecté : ['[**[Le Prénom du Préposé]**]'] — Remplacer par les valeurs réelles.
 
 - [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifié.md:236 — Token leak détecté : ['[**[J+27 Confirmation kiné]**]'] — Remplacer par les valeurs réelles.
 
@@ -347,9 +347,9 @@ Cet audit croise les données de `🧠 Memory/RECADRAGE_NOMENCLATURE.md`, `🧠 
 
 - [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/🗂️ Organisation/Checklist - Déplacement 20-07.md:250 — Nom réel leak détecté : 'DELRIEU' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Article 145 CPC.md:178 — Nom réel leak détecté : 'BENNOURINE' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md:178 — Nom réel leak détecté : 'BENNOURINE' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Article 145 CPC.md:178 — Nom réel leak détecté : 'Ayoub' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md:178 — Nom réel leak détecté : 'Ayoub' — Remplacer par le token.
 
 - [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Bordereau - Pièces Commissariat Foix.md:54 — Nom réel leak détecté : 'Oxybel' — Remplacer par le token.
 

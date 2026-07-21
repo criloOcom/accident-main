@@ -36,7 +36,7 @@ Ce document contient 50 questions d'audit précises destinées à l'agent **open
 
 9. Le script `batch_anonymize.py` contient-il les règles de substitution pour `"« Ayoub »"` et `"Ayoub"` ?
 
-10. Reste-t-il des mentions de « Ayoub » en clair dans le corps du texte de `Requête - Article 145 CPC.md` ?
+10. Reste-t-il des mentions de « Ayoub » en clair dans le corps du texte de `Requete Art.145 CPC.md` ?
 
 ---
 

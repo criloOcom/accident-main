@@ -13,11 +13,10 @@ calendar_event_id: "cp2dfopdtjnq1j3ggops9ihcog"
 statut: projet
 destinataire: CPAM Haute-Garonne
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/🏥 CPAM/Relance - CPAM.md
 source: drive
 drive_id: 1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k
 jx: J+37
-token_path: ../../../🔑 Token/✉️ Courriers/🏥 CPAM/Relance - CPAM.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏥 CPAM › ✉️ Relance - CPAM*

@@ -671,7 +671,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte - Défaut Assurance RC.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Article 145 CPC.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Signalement - Parquet Fraude.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -683,7 +683,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Ordonnance Projet.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requête - Article 145 CPC.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC Ordonnance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Mandataire Ad Hoc.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -939,7 +939,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte - Défaut Assurance RC.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Article 145 CPC.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Signalement - Parquet Fraude.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -951,7 +951,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Ordonnance Projet.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requête - Article 145 CPC.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC Ordonnance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Mandataire Ad Hoc.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 

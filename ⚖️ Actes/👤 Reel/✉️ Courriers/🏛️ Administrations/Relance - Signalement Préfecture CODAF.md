@@ -14,9 +14,8 @@ tags:
 statut: final
 destinataire: Préfecture de l'Ariège — Référent CODAF
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/Relance - Signalement Préfecture CODAF.md
 jx: J+47
-token_path: ../../../🔑 Token/✉️ Courriers/🏛️ Administrations/Relance - Signalement Préfecture CODAF.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ Relance - Signalement Préfecture CODAF*

@@ -31,7 +31,7 @@ Date: 2026-07-12 14:37
   ✓  ⚖️ Actes proceduraux/Constitution - Partie Civile.md
        → ⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md
   ✓  ⚖️ Actes proceduraux/03 🔍 Assignation Article 145.md
-       → ⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Article 145 CPC.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifié.md
   ✓  ⚖️ Actes proceduraux/05 🎯 Conclusions Refere.md
@@ -171,7 +171,7 @@ Date: 2026-07-12 14:37
   ✓  ⚖️ Actes proceduraux/Constitution - Partie Civile.md
        → ⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md
   ✓  ⚖️ Actes proceduraux/03 🔍 Assignation Article 145.md
-       → ⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Article 145 CPC.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau Audience.md
        → ⚖️ Actes proceduraux/Bordereau Unifié.md
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau de pieces.md

@@ -13,10 +13,9 @@ tags:
 statut: final
 destinataire: Le Maire
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Mairie/Courrier - Maire de Foix.md
 jx: J+41
 calendar_event_id: gqu5r7mbuh6570913b2nisi7t8
-token_path: ../../../🔑 Token/✉️ Courriers/🏛️ Mairie/Courrier - Maire de Foix.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Mairie › ✉️ Courrier - Maire de Foix*

@@ -32,7 +32,7 @@ auteur: Gemini
 **Q9.** **Fuites majeures** :
 - "Ayoub" (l. 1 de `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md`)
 
-- "Ayoub" (l. 1 de `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Article 145 CPC.md`).
+- "Ayoub" (l. 1 de `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`).
 **Q10.** `batch_anonymize.py` contient des règles en dur (l. 42 : `(le token contient "HB BARBER" en sous-chaîne)`) qui ne sont pas dynamiquement synchronisées avec la map.
 
 ## 3 — Qualité juridique & Citations Légifrance (Q11–Q18)

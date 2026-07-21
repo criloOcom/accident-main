@@ -15,12 +15,11 @@ tags:
 statut: envoye
 destinataire: Le Propriétaire des Murs
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/🏠 Propriétaire/Courrier - Propriétaire.md
 source: drive
 drive_id: 1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4
 calendar_event_id: "qrvadub2s8gekuhgpn0knq8130"
 jx: J+31
-token_path: ../../../🔑 Token/✉️ Courriers/🏠 Propriétaire/Courrier - Propriétaire.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏠 Propriétaire › ✉️ Courrier - Propriétaire*

@@ -14,9 +14,8 @@ tags:
 calendar_event_id: "ipivj4ul5rls1hrk1kqh9b0c6c"
 statut: final
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/📋 Interne/Demande - Aide Juridictionnelle Totale.md
 jx: J+50
-token_path: ../../../🔑 Token/✉️ Courriers/📋 Interne/Demande - Aide Juridictionnelle Totale.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 📋 Interne › ✉️ Demande - Aide Juridictionnelle Totale*

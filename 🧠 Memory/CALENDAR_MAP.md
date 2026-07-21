@@ -66,7 +66,7 @@ type: memory
 | 2026-07-18 | ✉️ Courrier - SAS HB BARBER President.md | ✉️📦 LRAR Mise en demeure Président HB BARBER | `euj8kofakfdc2cib6btnqq2ae4` |
 | 2026-07-18 | — | 📦 LOT 2 (méta) — 3 LRAR HB BARBER splittées | `guv07tt1rpkkqba1g6c0m8eap4` |
 | 2026-07-18 | — | 🚧 Phase 32 — Wero & Témoin Ayoub | `mjfern74uv6kvbimfu1og4d3s0` |
-| 2026-07-20 | ✉️ Signalement - Préfecture.md, ✉️ Signalement - Inspection du Travail.md, ✉️ Signalement - CODAF.md, ✉️ Plainte - Complémentaire Commissariat Foix.md, Requête - Article 145 CPC.md, Ordonnance sur Requête - Article 145 CPC.md | ✉️📋 Courriers 41-44 + 🔴🔴 DÉPÔT FOIX | `tqegc9g9t96hp2td1oo3iqtqd8` / `ncdv7eqhn6njck42v7sdcuelak` |
+| 2026-07-20 | ✉️ Signalement - Préfecture.md, ✉️ Signalement - Inspection du Travail.md, ✉️ Signalement - CODAF.md, ✉️ Plainte - Complémentaire Commissariat Foix.md, Requete Art.145 CPC.md, Requete Art.145 CPC Ordonnance.md | ✉️📋 Courriers 41-44 + 🔴🔴 DÉPÔT FOIX | `tqegc9g9t96hp2td1oo3iqtqd8` / `ncdv7eqhn6njck42v7sdcuelak` |
 | 2026-07-22 | — | 📋 Pièces 22-24 attestations témoins | `gaitgj8isroeqorobg9j9ghf4c` |
 | 2026-07-22 | — | 💳 Preuves Wero (PSP) | `jncdk9j4r2022bj9hentqe36oc` |
 | 2026-07-22 | — | 📱 Adresses emails témoins + Dr DJERBI | `ri26kq27dah4q9o5qtm11qfo08` |

@@ -10,10 +10,9 @@ tags:
   - prescription
 statut: final
 auteur: La Victime
+reel_path: ../../👤 Reel/📚 Analyses juridiques/Note - Droit des Assurances.md
 source: local
 jx: J+40
-token_path: ../../🔑 Token/📚 Analyses juridiques/Note - Droit des Assurances.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › Note - Droit des Assurances*

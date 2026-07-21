@@ -115,7 +115,7 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 
 - [x] `l.36` — Mention correcte de la profession : *[**[La Victime]**], né le [**[Date de naissance de la Victime]**], de nationalité française, demeurant au [**[L'Adresse de la Victime]**], exerçant la profession d'informaticien indépendant.*
 
-### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requête - Article 145 CPC.md`
+### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC Ordonnance.md`
 - [x] `l.42` — Mention correcte de la profession : *[**[La Victime]**], demeurant [**[L'Adresse de la Victime]**], informaticien indépendant,*
 
 ### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Mandataire Ad Hoc.md`
@@ -245,7 +245,7 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 
 - [x] `l.157` — Mention correcte de la profession : *S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de [Sébastien GRAZIDE] (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 55 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.*
 
-### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requête - Article 145 CPC.md`
+### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC Ordonnance.md`
 - [x] `l.42` — Mention correcte de la profession : *[Sébastien GRAZIDE], demeurant [10 Avenue de Purpan, 31700 Blagnac], informaticien indépendant,*
 
 ### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Mandataire Ad Hoc.md`

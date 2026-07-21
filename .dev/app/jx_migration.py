@@ -77,7 +77,7 @@ MAPPING_RAW = [
     ("⚖️ Actes proceduraux", "01 ⚖️ Assignation.md", "J+32 ⚖️ Assignation Refere Provision.md", "2026-06-30"),
     ("⚖️ Actes proceduraux", "02 🚔 Plainte.md", "J+32 🚔 Plainte - Défaut Assurance RC.md", "2026-06-30"),
     ("⚖️ Actes proceduraux", "02b Archive - Constitution - Partie Civile.md", "J+38 Archive - Constitution - Partie Civile.md", "2026-07-06"),
-    ("⚖️ Actes proceduraux", "03 🔍 Assignation Article 145.md", "J+47 🔍 Requête - Article 145 CPC.md", "2026-07-15"),
+    ("⚖️ Actes proceduraux", "03 🔍 Assignation Article 145.md", "J+47 🔍 Requete Art.145 CPC.md", "2026-07-15"),
     ("⚖️ Actes proceduraux", "04 📑 Bordereau.md", "J+39 📑 Bordereau Unifié.md", "2026-07-07"),
     ("⚖️ Actes proceduraux", "05 🎯 Conclusions Refere.md", "J+39 🎯 Conclusions Refere Provision.md", "2026-07-07"),
     ("⚖️ Actes proceduraux", "06 📸 Requête - Constat Huissier.md", "J+38 📸 Requête - Constat Huissier.md", "2026-07-06"),

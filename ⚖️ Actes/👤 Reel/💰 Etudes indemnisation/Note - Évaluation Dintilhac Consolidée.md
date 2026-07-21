@@ -12,10 +12,9 @@ tags:
   - FGTI
 statut: final
 auteur: La Victime
+reel_path: ../../👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md
 source: local
 jx: J+39
-token_path: ../../🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [💰 Études d'Indemnisation](./README.md) › Note - Évaluation Dintilhac Consolidée*

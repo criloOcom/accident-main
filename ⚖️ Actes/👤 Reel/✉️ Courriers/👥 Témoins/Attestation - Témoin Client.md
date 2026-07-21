@@ -9,10 +9,9 @@ tags:
 calendar_event_id: "gaitgj8isroeqorobg9j9ghf4c"
 statut: projet
 auteur: La Victime
+reel_path: ../../../👤 Reel/📋 Attestations/Attestation - Témoin Client.md
 source: drive
 drive_id: 1mLVji0_j8CTh2TjPr7bXAkoBaR2NmWEH89KXTk7Xbk4
-token_path: ../../../🔑 Token/📋 Attestations/Attestation - Témoin Client.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👥 Témoins › ✉️ Attestation - Témoin Client*

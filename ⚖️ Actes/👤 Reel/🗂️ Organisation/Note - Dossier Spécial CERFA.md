@@ -12,9 +12,8 @@ tags:
 statut: final
 destinataire: La Victime
 auteur: L'Expert Juridique
+reel_path: ../../👤 Reel/🗂️ Organisation/Note - Dossier Spécial CERFA.md
 jx: J+40
-token_path: ../../🔑 Token/🗂️ Organisation/Note - Dossier Spécial CERFA.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › Note - Dossier Spécial CERFA*

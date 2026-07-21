@@ -20,9 +20,8 @@ tags:
 - article 145
 statut: projet
 auteur: Simulation — Juge des Référés
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Ordonnance Projet.md
 jx: J+63
-token_path: ../../../🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Ordonnance Projet.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › ⚖️ Projet Ordonnance Refere*

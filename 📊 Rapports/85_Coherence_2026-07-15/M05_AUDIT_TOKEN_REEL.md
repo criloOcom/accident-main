@@ -312,9 +312,9 @@ type: rapport
 
 - [ ] **⚖️ Actes proceduraux/👮 Contentieux penal/Plainte - Défaut Assurance RC.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte - Défaut Assurance RC.md:39 — Token '**[Adresse Tribunal Judiciaire]**' non résolu dans un fichier Reel — Dé-anonymiser avec la valeur réelle
 
-- [ ] **⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Article 145 CPC.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Article 145 CPC.md:33 — Token '**[J+37 Requête 145]**' non résolu dans un fichier Reel — Dé-anonymiser avec la valeur réelle
+- [ ] **⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md:33 — Token '**[J+37 Requête 145]**' non résolu dans un fichier Reel — Dé-anonymiser avec la valeur réelle
 
-- [ ] **⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Article 145 CPC.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Article 145 CPC.md:181 — Token '**[J+37 Requête 145]**' non résolu dans un fichier Reel — Dé-anonymiser avec la valeur réelle
+- [ ] **⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md:181 — Token '**[J+37 Requête 145]**' non résolu dans un fichier Reel — Dé-anonymiser avec la valeur réelle
 
 - [ ] **⚖️ Actes proceduraux/👮 Contentieux penal/Réquisitoire - Introductif.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Réquisitoire - Introductif.md:167 — Token '**[J+54]**' non résolu dans un fichier Reel — Dé-anonymiser avec la valeur réelle
 

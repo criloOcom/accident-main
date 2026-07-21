@@ -15,12 +15,11 @@ tags:
 statut: envoye
 destinataire: L'Exploitant du Commerce (La SAS)
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/Courrier - SAS.md
 source: drive
 drive_id: 1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc
 calendar_event_id: "5eptrv07lh40rmvir7mttd88s0"
 jx: J+31
-token_path: ../../../🔑 Token/✉️ Courriers/🏢 SAS & Salon/Courrier - SAS.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ Courrier - SAS*

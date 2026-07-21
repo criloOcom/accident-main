@@ -7,9 +7,8 @@ date: 2026-07-10
 statut: brouillon
 destinataire: Adjoint au Maire de Foix (Monsieur TAVELLA)
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Mairie/Courrier - ERP Mairie Tavella.md
 jx: J+42
-token_path: ../../../🔑 Token/✉️ Courriers/🏛️ Mairie/Courrier - ERP Mairie Tavella.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Mairie › ✉️ Courrier - ERP Mairie Tavella*
