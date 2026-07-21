@@ -5,7 +5,8 @@ type: rapport
 date: 2026-07-18
 ---
 <!-- Breadcrumb -->
-[🏠](../README.md) › 📊 Rapports
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT FINALISATION REQUETE 145 2026-07-18*
+<hr>
 <!-- /Breadcrumb -->
 
 # Rapport de Finalisation — Requête Art. 145 CPC
@@ -27,7 +28,9 @@ Par conséquent, la requête actuelle (fichier `⚖️ Actes/🔑 Token/⚖️ A
 La requête existante est dirigée à tort contre **[L'Exploitant du Commerce (La SAS)]**. Les corrections suivantes doivent être appliquées :
 
 - **Remplacement de la cible :** Toutes les occurrences de la SAS **[L'Exploitant du Commerce (La SAS)]** doivent être remplacées par la SAS **[Le Nouvel Exploitant (HB BARBER)]**.
+
 - **Dirigeants :** L'action doit être dirigée contre le président actuel, **[Le Président du Nouvel Exploitant]**, ainsi que la directrice générale, **[La Directrice Générale de l'Exploitation]** (qui assure la continuité de direction entre l'ancienne et la nouvelle structure).
+
 - **Exposé des faits :** L'exposé des faits doit intégrer la visite du 16 juillet 2026. Il convient de mentionner le refus de l'individu présent (se déclarant dirigeant) de communiquer toute information sur l'assurance RC professionnelle. Cela renforce la caractérisation de l'entrave.
 
 <hr><hr>
@@ -37,7 +40,9 @@ La requête existante est dirigée à tort contre **[L'Exploitant du Commerce (L
 Le bordereau de pièces annexé à la requête doit être complété avec les éléments recueillis lors de la visite du 16 juillet 2026 et les actes rectificatifs qui en découlent :
 
 - **Erratum officiel :** Ajout de l'acte `📜 Erratum Correction Identite Societe.md` qui justifie le changement de défendeur par rapport aux précédentes mises en demeure.
+
 - **Preuves matérielles du 16/07 :** Intégration des photographies de l'enseigne HB BARBER prises sur place le 16 juillet 2026.
+
 - **Constat personnel :** Le compte-rendu ou constat de la visite sur les lieux attestant du refus de communication des informations d'assurance.
 
 L'intégration de ces pièces est essentielle pour justifier de l'actualisation de la cible et démontrer la carence de la SAS **[Le Nouvel Exploitant (HB BARBER)]**.
@@ -74,6 +79,9 @@ L'absence présumée d'assurance de la nouvelle société (déduite de son mutis
 Afin d'assurer le dépôt valide de la requête au Tribunal Judiciaire de Foix, les vérifications suivantes doivent être validées :
 
 - **Impression :** La requête finalisée et mise à jour avec HB BARBER doit être imprimée en 2 exemplaires.
+
 - **Bordereau :** Les pièces annexées (incluant l'erratum et les constats du 16/07) doivent être jointes.
+
 - **Pas d'huissier :** L'action se fait sur requête directement auprès du greffe (la procédure n'est pas contradictoire à ce stade).
+
 - **Justificatif :** Exiger un récépissé de dépôt au greffe du TJ de Foix pour sécuriser la date.

@@ -112,11 +112,20 @@ def token_pattern_from_map(mapping, synonyms):
     return all_displays, mapping, synonyms
 
 
+def _split_yaml(content):
+    m = re.match(r'^---\n.*?\n---\n', content, re.DOTALL)
+    if m:
+        return m.group(0), content[m.end():]
+    return '', content
+
+
 def scan_file(fpath, all_displays, mapping, synonyms, apply=False, dry_run=True):
     """Scan a single file and link unlinked tokens."""
     with open(fpath) as f:
         content = f.read()
 
+    frontmatter, body = _split_yaml(content)
+    content = body
     rel_path = get_relative_path(fpath)
 
     changes = 0
@@ -195,7 +204,7 @@ def scan_file(fpath, all_displays, mapping, synonyms, apply=False, dry_run=True)
 
         # Build replacement
         link_target = rel_path.rstrip('/') + '/' + urllib.parse.quote(token_file, safe='')
-        replacement = f'[**[{display_text}]**]({link_target})'
+        replacement = f'**[{display_text}]({link_target})**'
 
         replacements_list.append((start, end, replacement))
 
@@ -207,8 +216,9 @@ def scan_file(fpath, all_displays, mapping, synonyms, apply=False, dry_run=True)
     if changes > 0:
         print(f"  {os.path.relpath(fpath, REPO)}: {changes} tokens linked")
         if apply:
+            restored = frontmatter + modified
             with open(fpath, 'w') as f:
-                f.write(modified)
+                f.write(restored)
     else:
         print(f"  {os.path.relpath(fpath, REPO)}: 0 changes")
 

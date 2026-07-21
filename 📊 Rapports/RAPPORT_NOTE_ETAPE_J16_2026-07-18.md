@@ -4,9 +4,9 @@ description: "Synthèse chronologique et matérielle de la visite des lieux à F
 type: rapport
 date: 2026-07-18
 ---
-
 <!-- Breadcrumb -->
-<a href="../README.md">Retour</a>
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT NOTE ETAPE J16 2026-07-18*
+<hr>
 <!-- /Breadcrumb -->
 
 # Note d'étape J+48 : Visite Foix du 16 juillet 2026

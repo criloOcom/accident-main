@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-14 › M01 conformite rgpd*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 1 — Audit de conformité RGPD / Loi Informatique et Libertés
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

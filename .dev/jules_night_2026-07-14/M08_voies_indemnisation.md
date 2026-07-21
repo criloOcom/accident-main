@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-14 › M08 voies indemnisation*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 8 — Voies d'indemnisation et recouvrement (FGTI / CIVI / assurance)
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

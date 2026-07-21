@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules coherence 2026-07-15 › M07 AUDIT REDONDANCE*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 07 — Audit des redondances et contradictions
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

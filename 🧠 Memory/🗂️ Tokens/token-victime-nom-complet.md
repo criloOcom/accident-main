@@ -3,9 +3,8 @@ title: "👤 La Victime"
 description: "Token :** `**[La Victime]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-la-victime*
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-victime-nom-complet*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -34,13 +33,16 @@ Victime directe de l'accident corporel du **29 mai 2026** ([J+0 Accident](token-
 
 **Blessure** : plaie de la main droite — section du tendon fléchisseur, du paquet collatéral et neurolyse du nerf palmaire de **l'index droit** (⚠ jamais 5e doigt/auriculaire ; main droite uniquement, la main gauche reste fonctionnelle). Microchirurgie d'urgence le 30 mai 2026 ([J+1 Chirurgie](token-j-1-chirurgie.md)).
 
-**ITT** : **56 jours** (29/05/2026 → 23/07/2026, [J+55 Fin d'ITT](token-j-55-fin-d-itt.md)).
+**Arrêt de travail** : **55 jours** (29/05/2026 → 23/07/2026, [J+55 Fin d'ITT](token-j-55-fin-d-itt.md)).
 
 ## Enjeu — Demandeur pivot du dossier
 
 - **Double action** : civile (référé-provision 15 000 € + fond) et pénale (partie civile pour blessures involontaires, [J+38 Constitution PC](token-j-38-constitution-pc.md)).
+
 - **Évaluation Dintilhac** : ~85 000 € (compromis) à ~109 500 € (optimiste) — voir STRICT VARIABLES.
+
 - **Aide juridictionnelle totale** demandée (revenus sous plafond) → désignation d'avocat d'office.
+
 - **Preuve de présence** : opération Wero de 15 € au salon le jour même (relation contractuelle établie).
 
 ## Croisements
@@ -50,9 +52,11 @@ Victime directe de l'accident corporel du **29 mai 2026** ([J+0 Accident](token-
 ## Documents liés
 
 - [Compte rendu urgences Dr JARDON — 29/05/2026](../../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)
+
 - [CR opératoire — 30/05/2026](../../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)
+
 - [PV Police n°2026/015967](../../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)
 
 ## Source
 
-[TOKEN MAP → Personnes physiques](../TOKEN%20MAP.md#token-la-victime)
+TOKEN MAP → Personnes physiques

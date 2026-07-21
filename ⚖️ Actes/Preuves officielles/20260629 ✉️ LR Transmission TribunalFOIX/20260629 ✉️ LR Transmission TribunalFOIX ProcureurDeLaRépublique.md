@@ -14,9 +14,8 @@ destinataire: Procureur de la République près le Tribunal Judiciaire de FOIX
 source: drive
 drive_id: 1wpqT0wnHd5uwwKDJb65w576jG9H9wYzm
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260629 LR Transmission TribunalFOIX](./README.md) › 20260629 ✉️ LR Transmission TribunalFOIX ProcureurDeLaRépublique*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260629 LR Transmission TribunalFOIX](./README.md) › 20260629 ✉️ LR Transmission TribunalFOIX ProcureurDeLaRépublique*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -60,14 +59,23 @@ Les pièces transmises sont les suivantes, à verser au dossier de la procédure
 1. Comptes rendus opératoires du Dr Iskander DJERBI (Clinique de l'Union) — intervention
 du 30 mai 2026 sur l'index droit
 2. Bilan de contrôle à 3 semaines du Dr DJERBI en date du 23 juin 2026
+
 3. Lettre de liaison de sortie du 30 mai 2026
+
 4. Certificat médical initial du Dr OXYBEL en date du 1er juin 2026
+
 5. Avis d'arrêt de travail — Dr DJERBI du 23 juin 2026
+
 6. Avis d'arrêt de travail — Dr OXYBEL du 1er juin 2026
+
 7. Ordonnances de kinésithérapie et de soins post-opératoires
+
 8. Note de synthèse médico-légale détaillée à J+12 et J+20​
+
 9. Attestation de dépôt de dossier CPAM Recours contre Tiers n° 31727387
+
 10. Constitution de partie civile​
+
 11. Conclusions de partie civile
 
 Je souhaite attirer votre attention sur la gravité de mon état de santé actuel.
@@ -97,7 +105,7 @@ Sébastien GRAZIDE
 Pièces jointes : 11 documents​
 NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de
 l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de
-travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier
+travail (ITT médicale de 55 jours) et dans l'incapacité d'utiliser normalement un clavier
 d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire
 justifie la prolongation involontaire de mes démarches administratives et les délais
 d'acheminement de la présente mise en demeure.

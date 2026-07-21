@@ -3,7 +3,6 @@ title: "💰 Finance<br>Incidence Professionnelle"
 description: "Token :** `**[Finance Incidence Professionnelle]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-finance-incidence-professionnelle*
 <hr>
@@ -34,6 +33,7 @@ La victime exerçait une activité d'**informaticien indépendant**, fortement d
 L'avis barémique du 13 juillet 2026 retient une **fourchette** de :
 
 - **20 000 €** en scénario prudent ;
+
 - **30 000 €** en scénario médian, cohérente avec une référence de type BIBAL (taux d'incidence d'environ 12 % appliqué à un revenu annuel de 9 000 € sur la durée restante de carrière).
 
 Cette incidence professionnelle est **distincte** des pertes de gains professionnels futurs (PGPF), qui font l'objet d'un poste séparé, et du préjudice d'agrément.

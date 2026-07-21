@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M11 relecture token map*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 11 — Relecture TOKEN MAP + cohérence token téléphone préposé
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]
@@ -9,6 +14,7 @@ Produis un rapport `📊 Rapports/RAPPORT_AUDIT_TOKENS_2026-07-18.md` vérifiant
 ## MÉTHODE
 
 1. **Lire TOKEN MAP.md** — vérifier que tous les tokens sont listés avec :
+
    - Un nom unique
    - Une description claire
    - La correspondance réelle (ou « à déterminer »)
@@ -17,6 +23,7 @@ Produis un rapport `📊 Rapports/RAPPORT_AUDIT_TOKENS_2026-07-18.md` vérifiant
 2. **Lire les fichiers token individuels** dans `🧠 Memory/🗂️ Tokens/` — vérifier la complétude de chacun, en particulier `token-exploitation-prepose-telephone.md` (nouveau token) et `token-exploitation-prepose-nom.md` (mis à jour avec coordonnées).
 
 3. **Vérifier la double strate** :
+
    - Le script `generate_real_versions.py` contient-il bien le mapping pour tous les tokens ?
    - Le script `batch_anonymize.py` contient-il bien tous les tokens ?
    - Les README des dossiers Tokens mentionnent-ils le nouveau token ?

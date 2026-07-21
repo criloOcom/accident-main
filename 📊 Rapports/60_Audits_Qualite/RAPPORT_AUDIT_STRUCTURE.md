@@ -1,11 +1,11 @@
 ---
 title: "RAPPORT D'AUDIT DE STRUCTURE"
+date: FIXME
 description: "Date :** 10 juillet 2026"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT STRUCTURE*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [60_Audits_Qualite — Audits internes et qualité](./README.md) › RAPPORT AUDIT STRUCTURE*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -221,9 +221,15 @@ Non mentionné dans AGENTS.md ni README.md.
 ## VIII — Recommandations
 
 1. **Créer `📦_pieces/`** ou **supprimer la ligne** du README.md — incohérence documentaire bloquante
+
 2. **Fusionner ou clarifier** la dualité `reports/` ↔ [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) : soit déplacer `reports/` dans [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md), soit documenter officiellement les deux répertoires avec des rôles distincts
+
 3. **Supprimer ou fusionner** `app/` (racine) dans `.dev/app/` — le doublon `enhance_markdown.py` est source d'erreurs
+
 4. **Générer les annexes** dans 👤 Reel/06 (lancer `generate_real_versions.py` après avoir vérifié que le script couvre bien `annexes/`)
+
 5. **Vérifier** si les 2 bordereaux excédentaires 👤 sont des résidus ou des documents légitimes — si légitimes, les ajouter aussi dans 🔑 Token
+
 6. **Mettre à jour AGENTS.md** avec les vrais noms de dossiers `🔑 Token/` et `👤 Reel/`
+
 7. **Ajouter README.md** dans [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) et [🧠 Memory](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) pour améliorer la navigation

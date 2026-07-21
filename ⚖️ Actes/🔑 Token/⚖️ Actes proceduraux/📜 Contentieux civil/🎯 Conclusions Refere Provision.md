@@ -13,14 +13,17 @@ tags:
 statut: final
 destinataire: Juge des Référés du Tribunal Judiciaire
 auteur: La Victime
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/🎯 Conclusions Refere Provision.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/🎯 Conclusions Refere Provision.md
 jx: J+39
 ---
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
-
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 📜 Contentieux civil › 🎯 Conclusions Refere Provision*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › 🎯 Conclusions Refere Provision*
+<hr>
 <!-- /Breadcrumb -->
+
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+
+
 
 # AU JUGE DES RÉFÉRÉS DU TRIBUNAL JUDICIAIRE
 
@@ -30,23 +33,23 @@ jx: J+39
 
 **POUR :**
 
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), né le [**[Date de naissance de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md), de nationalité française, demeurant au [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), exerçant la profession d'informaticien indépendant.
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, né le [**[Date de naissance de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md), de nationalité française, demeurant au **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**, exerçant la profession d'informaticien indépendant.
 
 *Demandeur*
 
 **CONTRE :**
 
-[**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), Société par Actions Simplifiée, immatriculée au RCS de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) sous le numéro SIRET [**[L'Identifiant de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md), ayant son siège social au [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), représentée par ses co-dirigeants [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
+**[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, Société par Actions Simplifiée, immatriculée au RCS de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** sous le numéro SIRET **[L'Identifiant de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md)**, ayant son siège social au **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**, représentée par ses co-dirigeants **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**.
 
 *Défenderesse*
 ## I — EXPOSÉ DU LITIGE
 ### I.1 — LE SINISTRE ET SES CONSÉQUENCES MATÉRIELLES
 
-Le **29 mai 2026**, aux environs de 15 heures, [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), informaticien indépendant âgé de [**[Âge de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-age.md), se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
+Le **29 mai 2026**, aux environs de 15 heures, **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, informaticien indépendant âgé de [**[Âge de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-age.md), se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
 
 Le coiffeur préposé de la défenderesse, dans l'exercice de ses fonctions et agissant par nécessité de service, est monté sur la vasque en céramique d'un bac à shampoing installé à demeure pour régler un poste de télévision, **faute d'avoir à sa disposition un équipement d'accès en hauteur** (escabeau, échelle ou marchepied).
 
-Au cours de cette manipulation, la vasque a **basculé** brutalement et s'est brisée. Par réflexe de protection, [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a tendu sa main droite — sa main dominante — pour protéger le préposé.
+Au cours de cette manipulation, la vasque a **basculé** brutalement et s'est brisée. Par réflexe de protection, **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a tendu sa main droite — sa main dominante — pour protéger le préposé.
 
 Sa paume a heurté violemment le flanc de la vasque qui présentait depuis une date indéterminée une **cassure majeure préexistante**, non signalée, aux arêtes extrêmement tranchantes.
 
@@ -58,7 +61,7 @@ Cet heurt a entraîné :
 
 - une **neurolyse du nerf palmaire**.
 
-Une intervention chirurgicale a été réalisée en urgence le 30 mai 2026 par un chirurgien spécialisé en chirurgie de la main. L'**incapacité temporaire totale de travail (ITT)** a été fixée médicalement à **cinquante-six jours**, du 29 mai 2026 au 23 juillet 2026.
+Une intervention chirurgicale a été réalisée en urgence le 30 mai 2026 par un chirurgien spécialisé en chirurgie de la main. L'**[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** a été fixé médicalement à **55 jours**, du 29 mai 2026 au 23 juillet 2026.
 
 ### I.2 — LA PREUVE DU RISQUE ET DU DOMMAGE
 
@@ -88,8 +91,8 @@ Cette carence structurelle a contraint le préposé à escalader la vasque, cré
 
 Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code civil.
 
-> *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
-> [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
+> *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »*
+> [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.[^1]**
 
 #### II.1.b — Responsabilité du fait des choses
@@ -100,16 +103,16 @@ Le **basculement brutal** de cette chose a été l'**instrument actif** du domma
 
 La Cour de cassation, dans un arrêt de principe, a retenu qu'une échelle installée par un préposé qui bascule et blesse un tiers engage la responsabilité du gardien, qui ne peut s'exonérer qu'en prouvant une cause étrangère (force majeure, faute de la victime, fait d'un tiers).
 
-> *« La Cour de cassation rappelle qu'une échelle installée par un préposé du commettant qui bascule et blesse un tiers engage la responsabilité du gardien sur le fondement de l'article 1242 alinéa 1er du Code civil. »* <br>
-> [Arrêt n°89-18.422](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007026411) <br>
+> *« La Cour de cassation rappelle qu'une échelle installée par un préposé du commettant qui bascule et blesse un tiers engage la responsabilité du gardien sur le fondement de l'article 1242 alinéa 1er du Code civil. »*
+> [Arrêt n°89-18.422](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007026411)
 > **Cour de cassation, 2e chambre civile, 13 février 1991, n° 89-18.422[^2]**
 
 En l'espèce, la victime n'a commis aucune faute : elle n'a pas provoqué le basculement, n'était pas montée sur la vasque, et n'avait aucun moyen de connaître le vice caché de la chose. Il n'existe aucun fait d'un tiers ni force majeure.
 
 Par ailleurs, la **cassure préexistante** constitue un **vice inhérent** de la chose. La Cour de cassation a jugé depuis longtemps que le vice inhérent à la chose, même indécelable, ne constitue pas un cas de force majeure ou une cause étrangère exonératoire.
 
-> *« Le vice inhérent à la chose, même indécelable, ne constitue pas un cas de force majeure ou une cause étrangère exonératoire. »* <br>
-> [Arrêt n°74-10.466](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485) <br>
+> *« Le vice inhérent à la chose, même indécelable, ne constitue pas un cas de force majeure ou une cause étrangère exonératoire. »*
+> [Arrêt n°74-10.466](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485)
 > **Cour de cassation, 2e chambre civile, 5 mai 1975, n° 74-10.466[^3]**
 
 #### II.1.c — Responsabilité du commettant du fait du préposé
@@ -144,20 +147,20 @@ L'obligation de la SAS envers la victime est établie par :
 
 ### II.2 — CARACTÈRE URGENT
 
-Le demandeur subit des pertes financières immédiates du fait de son ITT de 56 jours. En tant qu'informaticien indépendant, son activité repose exclusivement sur l'usage de sa main dominante. Ses frais médicaux sont réels et documentés. Les dirigeants de la SAS refusent toute coopération et n'ont pas communiqué les coordonnées de leur assureur RC Pro malgré demandes. Le capital social de la SAS (200 €) fait craindre une insolvabilité croissante si le recouvrement n'est pas accéléré.
+Le demandeur subit des pertes financières immédiates du fait de son [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours. En tant qu'informaticien indépendant, son activité repose exclusivement sur l'usage de sa main dominante. Ses frais médicaux sont réels et documentés. Les dirigeants de la SAS refusent toute coopération et n'ont pas communiqué les coordonnées de leur assureur RC Pro malgré demandes. Le capital social de la SAS (200 €) fait craindre une insolvabilité croissante si le recouvrement n'est pas accéléré.
 <hr><hr>
 
 ## III — DISPOSITIF
 
 **EN CONSÉQUENCE**, il est demandé au juge des référés :
 
-S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 56 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.
+S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 55 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.
 
 **PRINCIPALEMENT,**
 
 **I.** De constater que l'obligation de la société défenderesse n'est pas sérieusement contestable et d'ordonner la condamnation de cette dernière au paiement d'une provision provisoire de **15 000 €**, comprenant :
 
-- les pertes de gains professionnels actuels (PGPA) au titre des 56 jours d'ITT : 1 380 € ;
+- les pertes de gains professionnels actuels (PGPA) au titre des 55 jours d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) : 1 355 € ;
 
 - les frais médicaux et paramédicaux passés et à venir : 5 000 € ;
 
@@ -167,8 +170,8 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 - les frais irrépétibles au sens de l'article 700 du Code de procédure civile : 3 000 €.
 
-> *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
-> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
+> *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »*
+> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^4]**
 
 **II.** De condamner la société défenderesse au paiement d'une **astreinte de 100 € par jour de retard** à compter de l'expiration d'un délai de huit jours à compter de la signification de l'ordonnance.
@@ -179,8 +182,8 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 **IV.** De prendre toutes mesures d'instruction utiles en application de l'article 145 du Code de procédure civile, et notamment :
 
-> *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. »* <br>
-> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
+> *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. »*
+> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.[^5]**
 
 - de prescrire une **expertise médico-légale** visant à déterminer la consolidation du dommage corporel, le taux d'incapacité permanente partielle, et le préjudice esthétique ;
@@ -189,7 +192,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 **[Ville]**, le **[date]**
 
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 <hr><hr>
 
 ## PIECES JOINTES
@@ -200,19 +203,19 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 - **[Certificat medical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation initiale des blessures
 
-- **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — ITT medicale de 56 jours
+- **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [Arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours
 
-- **[Constat d'huissier](📸%20Requete%20Constat%20Huissier.md)** — Etat des lieux de la vasque litigieuse
+- **[Constat d'huissier](%F0%9F%93%B8%20Requete%20Constat%20Huissier.md)** — Etat des lieux de la vasque litigieuse
 
-- **[Mises en demeure J+31](../../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md)** — LRAR restees sans reponse
+- **[Mises en demeure J+31](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20%F0%9F%93%9CLettre.md)** — LRAR restees sans reponse
 <hr><hr>
 
 ## Sources Législation
 
-[^1]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩ <br>
-[^2]: [Arrêt n°89-18.422 — www.legifrance.gouv.fr/juri/id/JURITEXT000007026411](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007026411) ↩ <br>
-[^3]: [Arrêt n°74-10.466 — www.legifrance.gouv.fr/juri/id/JURITEXT000006993485](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485) ↩ <br>
-[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩ <br>
+[^1]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+[^2]: [Arrêt n°89-18.422 — www.legifrance.gouv.fr/juri/id/JURITEXT000007026411](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007026411) ↩
+[^3]: [Arrêt n°74-10.466 — www.legifrance.gouv.fr/juri/id/JURITEXT000006993485](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485) ↩
+[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
 [^5]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
 <hr><hr>
 
@@ -222,16 +225,16 @@ Cette version a été rédigée à partir du mémoire juridique produit par l'as
 
 | Point | Version antérieure | Version Glose | Version finale |
 |---|---|---|---|---|---|
-| Provision | 5 000 € | 8 000 € | **15 000 €** (PGPA 1 380 + frais méd. 5 000 + SE 5 000 + IP 1 620 + art. 700 3 000) |
+| Provision | 5 000 € | 8 000 € | **15 000 €** (PGPA 1 355 + frais méd. 5 000 + SE 5 000 + IP 1 620 + art. 700 3 000) |
 | Astreinte | (non spécifiée) | 100 €/jour | 100 €/jour |
 | Art. 145 CPC | Expertise médicale | Expertise médicale + comm. assurance | Expertise médicale + comm. assurance |
 | Art. R. 4323-58 CT | *(absent)* | *(absent)* | **Ajouté** (violation norme impérative) |
 | Structure discussion | 5 points | 4 points | 5 points (R.4323-58 + 1242 al.1 + al.5 + 1240 + obligation) |
 
 Voir les mémoires complets :
-- `📊 Rapports/expertise/20260707 Mémoire juridique Glose.md`
+- [📊 Rapports/expertise/20260707 Mémoire juridique Glose.md](../../../../%F0%9F%93%8A%20Rapports/expertise/20260707%20M%C3%A9moire%20juridique%20Glose.md)
 
-- `📊 Rapports/expertise/20260707 Analyse critique Glose.md`
+- [📊 Rapports/expertise/20260707 Analyse critique Glose.md](../../../../%F0%9F%93%8A%20Rapports/expertise/20260707%20Analyse%20critique%20Glose.md)
 <hr><hr>
 
 ## Sources Législation

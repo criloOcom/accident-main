@@ -1,11 +1,11 @@
 ---
 title: "Audit de sécurité juridique des tokens et de la double strate"
+date: 2026-07-14
 description: "Rapport d'analyse sur la résistance du système d'anonymisation et sa conformité avec le secret de l'instruction (Art. 11 CPP)."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › RAPPORT_SECURITE_TOKENS_2026-07-14*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [70_Technique_Repo — Journal de bord technique](./README.md) › RAPPORT SECURITE TOKENS 2026-07-14*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -19,7 +19,9 @@ type: rapport
 L'architecture actuelle centralise la vérité des identités réelles au sein du fichier de configuration `TOKEN MAP.md`. Ce fichier constitue le point de vulnérabilité majeur du système.
 
 - **Point unique de vérité** : `TOKEN MAP.md` est le seul dictionnaire permettant d'associer un token à une identité ou donnée réelle.
+
 - **Risque de fuite** : S'il est actuellement protégé (hors synchronisation Drive), sa présence en clair au sein du dépôt Git public constitue un risque critique de réidentification totale. Si le dépôt et la `TOKEN MAP.md` fuitent conjointement, toutes les identités anonymisées (et donc les documents associés) deviennent immédiatement lisibles et accessibles, compromettant irréversiblement les données de santé et l'anonymat de l'affaire.
+
 - **Recommandation** : Il est impératif de recourir au chiffrement de ce fichier (ex. via GPG ou Git-crypt) afin de garantir que même en cas d'exfiltration du dépôt, le dictionnaire de réversibilité demeure illisible.
 
 <hr><hr>
@@ -29,8 +31,11 @@ L'architecture actuelle centralise la vérité des identités réelles au sein d
 L'analyse comparée des scripts d'anonymisation (`batch_anonymize.py`) et de restitution (`generate_real_versions.py`) révèle de graves failles de cohérence qui affectent la stabilité de la double strate.
 
 - **Désynchronisation des scripts** : `batch_anonymize.py` utilise par endroits des syntaxes obsolètes sans la protection par doubles astérisques (ex. `[Le Prepose de l'Exploitation]` au lieu de `**[Le Préposé de l'Exploitation]**`), tandis que `generate_real_versions.py` et `TOKEN MAP.md` privilégient la forme stricte.
+
 - **Absence de frontières d'expressions régulières (Regex boundaries)** : Le script `batch_anonymize.py` repose principalement sur un remplacement basique via la méthode `.replace()`. Cela entraîne la non-capture de variantes nominales (casse mixte, erreurs de saisie) qui ne figurent pas strictement dans le dictionnaire.
+
 - **Tokens orphelins et lacunes de mapping** : Des variantes identitaires essentielles, notamment pour l'Adjoint au Maire (TAVELLA) ou les médecins intervenants, ne sont pas capturées de façon uniforme.
+
 - **Recommandation** : Le script d'anonymisation doit être refondu pour exploiter des expressions régulières avec frontières de mots (`\b`), permettant ainsi de limiter les faux positifs tout en attrapant systématiquement les cibles d'anonymisation.
 
 <hr><hr>
@@ -42,10 +47,15 @@ Une investigation approfondie des documents d'ores et déjà traités au sein du
 Au total, **187 occurrences de données réelles** (noms, numéros de dossiers) demeurent en clair au sein des actes prétendument tokenisés.
 
 * Le médecin généraliste a été retrouvé en clair : 86 occurrences (Oxybel).
+
 * Le numéro de procès-verbal de police a fuité : 66 occurrences (2026/015967).
+
 * Le numéro de dossier de la Caisse Primaire d'Assurance Maladie : 58 occurrences (31727387).
+
 * L'identité du médecin urgentiste / chirurgien : 57 occurrences (JARDON) et 22 occurrences pour son prénom (Julie), ainsi que 6 occurrences (DJERBI).
+
 * L'identité de l'Adjoint au Maire : 14 occurrences (TAVELLA).
+
 * Des adresses postales : 3 occurrences (22 rue lafaurie).
 
 **Plan de durcissement et surveillance** :
@@ -62,7 +72,9 @@ grep -riE "(S[eé]bastien|GRAZIDE|Sabir|MOUNTASSER|Catherine|ANDISSAC|SORROCHE|A
 Les documents produits au sein de la strate « 👤 Reel » s'appuient sur l'action de substitution opérée par `generate_real_versions.py`.
 
 - **Conformité technique** : Le script de génération fonctionne de façon satisfaisante en appliquant le mapping inverse (de `**[Token]**` vers Identité Réelle).
+
 - **Problématique induite par les fuites résiduelles** : Compte tenu des 187 fuites répertoriées ci-dessus dans la strate Tokenisée, les documents réels incluent une redondance hétérogène (des identités générées par les tokens corrects côtoyant des identités qui avaient échappé au script d'anonymisation).
+
 - **Conséquences sur l'audit** : Ce mécanisme, bien qu'il préserve l'intégrité de la vérité factuelle dans la version réelle, confirme que la strate Token n'assure pas actuellement l'anonymisation requise en cas de partage des documents.
 
 <hr><hr>

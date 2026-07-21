@@ -3,7 +3,6 @@ title: "VACCIN — Protocole obligatoire avant chaque action"
 description: "- [ ] `/home/crilocom/accident-main/` est le SEUL répertoire — vérifie que tu y es"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › VACCIN*
 <hr>
@@ -24,12 +23,19 @@ type: memory
 ### 1. LIS les fichiers de mémoire
 
 - [ ] `/home/crilocom/accident-main/` est le SEUL répertoire — vérifie que tu y es
+
 - [ ] [🧠 Memory/VACCIN.md](VACCIN.md) ← ce fichier
+
 - [ ] [`AGENTS.md`](../AGENTS.md) — règles du projet, structure, workflow
+
 - [ ] [🧠 Memory/STATUS.md](STATUS.md) — état d'avancement global
+
 - [ ] [🧠 Memory/TODO.md](TODO.md) — plans restants et priorités
+
 - [ ] [🧠 Memory/DECISIONS.md](DECISIONS.md) — décisions d'architecture et règles
+
 - [ ] [🧠 Memory/RULES.md](RULES.md) — règles permanentes, interdictions
+
 - [ ] [🧠 Memory/STRICT VARIABLES.md](STRICT%20VARIABLES.md) — source unique de vérité (montants, dates)
 
 ### 2. ANALYSE ce qui existe déjà
@@ -41,6 +47,9 @@ type: memory
   la structure — vérifie chaque colonne une par une
 - [ ] Avant d'écrire dans un Google Sheet : **lis 3 lignes de données** existantes
   pour confirmer que ta compréhension des colonnes est correcte
+- [ ] **Avant toute mention de profession ou activité** : vérifie sur pièce source
+  (URSSAF, Kbis, STRICT VARIABLES.md, token-victime-profession). N'INVENTE RIEN.
+  La victime est informaticien — pas guitariste, pas autre chose.
 - [ ] Avant de citer un article de loi : vérifie via MCP Légifrance
   (`rechercher_code` ou `consulter_article`)
 - [ ] Avant de modifier un fichier listé dans `check_consistency.py` : exécute
@@ -49,8 +58,11 @@ type: memory
 ### 3. VÉRIFIE avant de livrer
 
 - [ ] Relis-toi — est-ce que ce travail est au niveau de ce qui existe déjà ?
+
 - [ ] Toutes les colonnes sont-elles remplies ? Pas de champ vide par fainéantise
+
 - [ ] `check_consistency.py` passe-t-il sans erreur ?
+
 - [ ] Aurais-tu honte qu'un humain relise ça en étant payé pour le faire ?
 
 ---
@@ -115,7 +127,7 @@ que tu dois lire avant d'écrire. Si tu ne le lis pas, tu es en faute.
 | MCP Légifrance | `consulter_article`, `rechercher_code` |
 | MCP Judilibre | `rechercher_par_ecli`, `consulter_decision` |
 | Google Sheet Blog | `1-LDy23fj4l2hoH94cswDHdP2wS1agbma7r3SGjtQ8Ec` (feuille `@`) |
-| URLs légales inline | `[Article X](URL%20Légifrance)` — lien obligatoire |
+| URLs légales inline | `[Article X](URL%20L%C3%A9gifrance)` — lien obligatoire |
 
 ---
 

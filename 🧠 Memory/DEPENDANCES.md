@@ -3,7 +3,6 @@ title: "DEPENDANCES — Graphe des dépendances logiques"
 description: "Ordre logique de création, de dépendance et d'expédition des actes et courriers du dossier."
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › DEPENDANCES*
 <hr>
@@ -51,7 +50,7 @@ graph TD
     %% Phase J+39 / J+40 (Conclusions et Relances)
     CONC_REF["🎯 Conclusions Référé (J+39)<br>(Réponse pièces adverses)"]:::contentieux
     REL_DIR["🔄 Relance Dirigeants (J+40)<br>(Délai MD SAS expiré)"]:::relance
-    REL_CPAM["🔄 CPAM (J+37)<br>(Suivi ouverture dossier)"]:::relance
+    REL_CPAM["✉️ CPAM 🔄Relance (J+37)<br>(Suivi ouverture dossier)"]:::relance
 
     %% ──────────────────────────────────────────────────────────
     %% Dépendances logiques (Liens)
@@ -90,13 +89,16 @@ graph TD
 ## 📋 Détails des chaînes de dépendance
 
 1. **La Chaîne Référé Civil** :
+
    - `MD SAS (J+31)` ➔ `Assignation Référé (J+32)` ➔ `Conclusions Référé (J+39)` (qui intègrent les pièces complémentaires de la CPAM).
    - *Règle* : On ne peut pas assigner sans avoir d'abord mis en demeure la SAS. On ne peut pas déposer des conclusions sans avoir initié l'assignation.
 
 2. **La Chaîne Sécurité & Signalements ERP** :
+
    - `Plainte Initiale (J+4)` + `Assignation Référé (J+32)` ➔ `Signalement Préfecture (J+37)` / `Signalement SDIS (J+37)`.
    - *Règle* : Les signalements administratifs s'appuient sur le procès-verbal de police (dépôt de plainte) et sur l'assignation en justice pour prouver la matérialité de l'accident et des manquements de l'exploitant.
 
 3. **La Chaîne Pénale & Fraudes** :
+
    - `Plainte Initiale (J+4)` ➔ `Plainte Défaut Assurance RC (J+32)` ➔ `Constitution Partie Civile (J+38)`.
    - *Règle* : La constitution de partie civile devant le doyen des juges d'instruction ou le tribunal nécessite d'avoir préalablement déposé une plainte de base.

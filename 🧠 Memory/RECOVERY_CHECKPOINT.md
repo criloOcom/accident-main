@@ -3,14 +3,22 @@ title: "RECOVERY CHECKPOINT — 18 juillet 2026"
 description: "Snapshot d'état pour reprise après compression mémoire. Contient tout le nécessaire pour continuer les 15 vérifications Jules."
 type: memory
 ---
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › RECOVERY CHECKPOINT*
+<hr>
+<!-- /Breadcrumb -->
 
 # RECOVERY CHECKPOINT<br>18 juillet 2026
 
 ## État Git
 - **Branche :** `main`
+
 - **Remote :** `origin → https://github.com/criloOcom/accident-main.git`
+
 - **Auth :** `~/.git-credentials` (fallback)
+
 - **Dernier commit :** `64be139 feat(rapport): add RAPPORT_SYNTHESE_AVOCAT_2026-07-18.md`
+
 - **Fichiers modifiés non commit :** 211
 
 ## Travail effectué (Phases 1a→2)
@@ -23,7 +31,9 @@ type: memory
 
 ### Phase 1c — Infrastructure token
 - +14 entrées `batch_anonymize.py`
+
 - +14 mappings `generate_real_versions.py`
+
 - Section Finance `TOKEN MAP.md`
 
 ### Phase 1d — Bandeau HB BARBER
@@ -31,43 +41,64 @@ type: memory
 
 ### Phase 1e — Liens cassés
 - 34 auto-corrigés, 3 stubs créés
+
 - token-assureur-rc.md, token-j-63-assignation-145.md, token-exploitation-nom-commercial.md
+
 - **50 liens historiques restants** (non bloquants)
 
 ### Phase 2 — Urgences 31 juillet
-- Demande AJ Totale créée (`📝 Procédure/📝 Demande AJ Totale.md`)
+- Demande AJ Totale créée (`📝 Procédure/✉️ Demande AJ Totale 📝Document.md`)
+
 - Assignation Référé-Provision finalisée (audience 31 juillet)
+
 - Erratum Correction Société finalisé
+
 - MEMO_AUDIENCE_31072026.md réécrit (logistique + plaidoirie 3 min + HB BARBER)
+
 - Versions Reel générées (115 fichiers)
+
 - READMEs synchronisés (103 à jour, 3 table-format MAJ manuelle)
 
 ### Fixes post-Phase 2
 - `token-hopital-urgence-medecin` : 10 liens path depth corrigés (12 fichiers Token + 12 Reel)
+
 - `token-metropole-regionale` → `token-accident-metropole` : 2 fichiers
+
 - `SAS Assureur.md` → `SAS Assureur RC.md` : 5 fichiers référence
+
 - Tokens README : +12 tokens ajoutés (88 fiches)
+
 - Preuves officielles README : +1 ligne Rapport Expertise
+
 - Procédure README : +1 ligne Demande AJ Totale
+
 - `__pycache__` supprimé
 
 ## Fichiers critiques
 
 ### Actes finalisés (audience 31 juillet)
 - `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md`
+
 - `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md`
+
 - `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`
-- `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/📝 Demande AJ Totale.md`
+
+- `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Demande AJ Totale 📝Document.md`
 
 ### Infra token
 - `🧠 Memory/TOKEN MAP.md`
+
 - `🧠 Memory/🗂️ Tokens/README.md`
+
 - `.dev/app/batch_anonymize.py`
+
 - `.dev/app/generate_real_versions.py`
 
 ### Stubs à compléter
 - `🧠 Memory/🗂️ Tokens/token-assureur-rc.md`
+
 - `🧠 Memory/🗂️ Tokens/token-j-63-assignation-145.md`
+
 - `🧠 Memory/🗂️ Tokens/token-exploitation-nom-commercial.md`
 
 ## Prochaine action
@@ -87,19 +118,33 @@ Chaque session reçoit : *"Mission clôturée — implémentations réalisées p
 
 Session IDs:
 - M01: 11500201233044822502
+
 - M02: 5629017950384422605
+
 - M03: 10102808889233645521
+
 - M04: 987403715759435362
+
 - M05: 14398442053003273380
+
 - M06: 15506563858622126387
+
 - M07: 1353864396770670977
+
 - M08: 3823380336442206742
+
 - M09: 9024090879013311107
+
 - M10: 5835767582474031144
+
 - M11: 8428641977659595451
+
 - M12: 6173308142549219569
+
 - M13: 15147189954702675284
+
 - M14: 5735397749844847186
+
 - M15: 7049455188294447707
 
 ### Étape 3 : Créer prompts dans .dev/jules_verification_2026-07-18/
@@ -117,7 +162,7 @@ Chaque session : `{repo: "criloOcom/accident-main", branch: "main", autoPr: true
 | V02 | M02 Abs assurance | Actes procéduraux, Courriers |
 | V03 | M03 Stratégie | Mémo stratégie, Note synthèse avocat |
 | V04 | M04 Note étape | Notes d'étape, Frise |
-| V05 | M05 Demande AJ | 📝 Demande AJ Totale.md |
+| V05 | M05 Demande AJ | ✉️ Demande AJ Totale 📝Document.md |
 | V06 | M06 Requête 145 | Assignation Refere Provision.md |
 | V07 | M07 Plainte + Erratum | Plainte complémentaire, Erratum |
 | V08 | M08 Plan déplacement | MEMO_AUDIENCE_31072026.md |

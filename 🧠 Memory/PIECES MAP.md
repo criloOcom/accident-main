@@ -1,9 +1,8 @@
 ---
 title: "PIECES MAP — Correspondance Documents ↔ Pièces"
-description: "Source : Spreadsheet [🔗 Voir](https://drive.google.com/file/d/1KNRJpDE24jpDXkLBTCZcVXsUbOueoe6Lg-7FJdM9jEE/view)"
+description: "Source : Spreadsheet — https://drive.google.com/file/d/1KNRJpDE24jpDXkLBTCZcVXsUbOueoe6Lg-7FJdM9jEE/view"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › PIECES MAP*
 <hr>
@@ -184,7 +183,7 @@ Ce tableau remplace toute version antérieure. La référence d'une pièce est s
 | 1 | PV de police n° **[N° PV Police]** — dépôt de plainte | Assignation 01, Constitution PC 02b, Assignation 145 03 | Preuve de la réalité des faits et du déclenchement de l'enquête |
 | 2 | Certificat médical initial — **[Le Médecin en Urgence]** (J+0) | Assignation 01, Constitution PC 02b, Assignation 145 03 | Constat des blessures initiales, orientation SOS Main |
 | 3 | CR opératoire — **[Le Chirurgien SOS Main]** (J+1) | Assignation 01, Constitution PC 02b, Assignation 145 03 | Description lésions tendineuses/nerveuses, lien causal |
-| 4 | Arrêts de travail (ITT 56 jours, J+3 à J+55) | Assignation 01, Constitution PC 02b | Justification ITT, base du PGPA |
+| 4 | Arrêts de travail (55 jours, J+3 à J+55) | Assignation 01, Constitution PC 02b | Justification arrêt de travail, base du PGPA |
 | 5 | Réquisition UMJ + retranscription téléphonique rendez-vous | (référé expertise) | Traçabilité de la procédure pénale |
 
 ### Groupe B — Preuves financières (pièces 6-9)
@@ -200,12 +199,12 @@ Ce tableau remplace toute version antérieure. La référence d'une pièce est s
 
 | Pièce | Intitulé | Citée dans | Valeur probatoire |
 |-------|----------|-----------|-------------------|
-| 10 | LRAR [mise en demeure SAS](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md) (J+31) | Assignation 01, Assignation 145 03 | Preuve de la carence amiable |
-| 10b | LRAR [relance V2 dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20SAS%20Dirigeants.md) (08/07/2026) — Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf) | Relance Dirigeants | Preuve du renouvellement des demandes et de l'obstruction |
+| 10 | LRAR [mise en demeure SAS](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20%F0%9F%93%9CLettre.md) (J+31) | Assignation 01, Assignation 145 03 | Preuve de la carence amiable |
+| 10b | LRAR [relance V2 dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20Dirigeants%20%F0%9F%94%84Relance.md) (08/07/2026) — Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf) | Relance Dirigeants | Preuve du renouvellement des demandes et de l'obstruction |
 | 11 | LRAR mise en demeure **[Le Président de l'Exploitation]** (J+31) | Assignation 01, Assignation 145 03 | Mise en cause personnelle du dirigeant |
 | 12 | LRAR mise en demeure **[La Directrice Générale de l'Exploitation]** (J+31) | Assignation 01, Assignation 145 03 | Mise en cause personnelle de la dirigeante |
 | 13 | LRAR mise en demeure **[Le Propriétaire des Murs]** (J+31) + AR signé | Assignation 01, Assignation 145 03 | Preuve de la carence du propriétaire |
-| 14 | [Action directe assureur RC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC.md) (Art. L.124-3 C. assur.) | — | Exercice de l'action directe |
+| 14 | [Action directe assureur RC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20Assureur%20RC%20%F0%9F%93%9CLettre.md) (Art. L.124-3 C. assur.) | — | Exercice de l'action directe |
 | 15 | Transmission plainte au Procureur (LRAR) | — | Déclenchement voie pénale |
 
 ### Groupe D — Actes de procédure (pièces 16-18)

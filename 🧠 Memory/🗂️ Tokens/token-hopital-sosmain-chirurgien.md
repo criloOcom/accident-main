@@ -3,9 +3,8 @@ title: "👤 Le Chirurgien SOS Main"
 description: "Token :** `**[Le Chirurgien SOS Main]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-le-chirurgien-sos-main*
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-hopital-sosmain-chirurgien*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -31,7 +30,9 @@ Il assure ensuite le **suivi chirurgical** : contrôle J+21 le 19 juin 2026 ([J+
 ## Enjeu médico-légal — Consolidation
 
 - Praticien **clé pour la consolidation médicale** : c'est de lui qu'est attendu le **certificat de consolidation** ([J+36 Lettre consolidation](token-j-36-lettre-consolidation.md)), nécessaire avant l'évaluation Dintilhac définitive et l'expertise UMJ ([J+167 Expertise UMJ](token-j-167-expertise-umj.md)).
+
 - Ses comptes rendus documentent la **gravité et l'évolution** de la lésion (base du chiffrage DFP / DFT / SE).
+
 - ⚠ Une **relance** pour obtenir le certificat de consolidation figure parmi les actions prioritaires du dossier.
 
 ## Croisements
@@ -41,10 +42,13 @@ Il assure ensuite le **suivi chirurgical** : contrôle J+21 le 19 juin 2026 ([J+
 ## Documents liés
 
 - [CR opératoire — 30/05/2026](../../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)
+
 - [CR contrôle Dr DJERBI — 19/06/2026](../../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260619%20%F0%9F%A9%BA%20DrDJERBI%20MAIL/20260619-1528%20MAIL%20DrDjerbi.md)
+
 - [Bilan Dr DJERBI (consolidation)](../../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260623%20%F0%9F%A9%BA%20DrDJERBI%20RDV/20260623-1730%20DR%20DJERBI%20Bilan.md)
-- [Relance Dr DJERBI Consolidation J+38](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20DrDJERBI%20Consolidation%20%E2%9C%89%EF%B8%8FMail.md)
+
+- [Relance Dr DJERBI Consolidation J+38](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%E2%9C%89%EF%B8%8F%20Consolidation%20%F0%9F%94%84Relance.md)
 
 ## Source
 
-[TOKEN MAP → Personnes physiques](../TOKEN%20MAP.md#token-le-chirurgien-sos-main)
+TOKEN MAP → Personnes physiques

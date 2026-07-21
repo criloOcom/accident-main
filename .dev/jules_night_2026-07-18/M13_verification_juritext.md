@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M13 verification juritext*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 13 — Vérification JURITEXT exhaustive (protocole 2 étapes)
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]
@@ -18,14 +23,20 @@ Produis un rapport `📊 Rapports/RAPPORT_VERIFICATION_JURITEXT_2026-07-18.md` v
 
 Parcourt les fichiers les plus cites juridiquement :
 - Les analyses juridiques (`📚 Analyses juridiques/`)
+
 - Les actes de procédure (`⚖️ Actes proceduraux/`)
+
 - Les conclusions TJ Foix
+
 - Les rapports dans `📊 Rapports/` (notamment les audits JURITEXT précédents)
+
 - Les Décisions.md, RULES.md, STRICT VARIABLES.md
 
 Pour chaque article/arrêt trouvé, vérifie :
 - L'article existe au code indiqué
+
 - La version est en vigueur à la date pertinente (mai/juin 2026)
+
 - Le contenu cité correspond bien à l'article
 
 ## ATTENTION

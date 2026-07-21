@@ -3,9 +3,8 @@ title: "💰 Études d'Indemnisation"
 description: "Ce dossier contient l'évaluation financière des préjudices subis par la victime, selon la nomenclature Dintilhac."
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › 💰 Etudes indemnisation*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › 💰 Etudes indemnisation*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -22,8 +21,8 @@ type: readme
 
 | Poste | Montant retenu |
 |-------|---------|
-| PGPA (Inactivité 56j) | 1 380 € |
-| DFT (Incapacité 56j) | 1 400 € |
+| PGPA (Inactivité 55j) | 1 355 € |
+| DFT (Incapacité 55j) | 1 375 € |
 | DFP (10% médian) | 25 000 € |
 | Souffrances Endurées (4/7) | 15 000 € |
 | Incidence Professionnelle | 30 000 € |
@@ -38,10 +37,15 @@ type: readme
 
 > 📌 Le rapport d'expertise médicale du **12 novembre 2026** permettra d'actualiser ces chiffres avec les séquelles définitives.
 -
+
 - `13 Note strategique FGTI CIVI.md`
 
 - [11+12 📊 Evaluation Dintilhac consolidee](%F0%9F%93%8A%20Evaluation%20Dintilhac%20Consolidee.md)
+
 - [13 Note strategique FGTI CIVI](%F0%9F%93%8A%20Note%20Strategique%20FGTI%20CIVI.md)
+
 - [📊 Evaluation Dintilhac Consolidee](%F0%9F%93%8A%20Evaluation%20Dintilhac%20Consolidee.md)
+
 - [📊 Note Strategique FGTI CIVI](%F0%9F%93%8A%20Note%20Strategique%20FGTI%20CIVI.md)
+
 - [Protocole_Transactionnel_Dintilhac_20260713](Protocole_Transactionnel_Dintilhac_20260713.md)

@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules coherence 2026-07-15 › M02 audit montants*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 02 — Audit de cohérence des montants Dintilhac
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

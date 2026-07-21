@@ -14,12 +14,14 @@ reel_path: ../../👤 Reel/🗄️ Archives/📚 ANALYSE Jurisprudence.md
 source: drive
 drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
 ---
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📦 Archives](./README.md) › 📚 ANALYSE Jurisprudence*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › 📚 ANALYSE Jurisprudence*
 <hr>
 <!-- /Breadcrumb -->
+
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+
+
 
 **Table des matières**
 
@@ -61,7 +63,7 @@ Le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/
 
 Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) à 15h00.
 
-L'incident s'est produit au sein de l'établissement « [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) » (ci-après désigné "L'Exploitant"), exploité par une SAS dont la direction est assurée par [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
+L'incident s'est produit au sein de l'établissement « [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) » (ci-après désigné "L'Exploitant"), exploité par une SAS dont la direction est assurée par [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
 
 Cette analyse s'appuie sur le principe de la réparation intégrale, visant à rétablir [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) dans la situation qui aurait été la sienne sans la survenance du dommage, conformément à [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1].
 
@@ -87,7 +89,7 @@ Il est à noter que l'établissement a procédé à un remboursement de 15 €, 
 
 ## III — BILAN MÉDICAL ET PRÉJUDICES IDENTIFIÉS
 
-Après une prise en charge initiale par [Dr Julie JARDON](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) au SMUR 09, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a été transférée en urgence clinique pour une microchirurgie réalisée le [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par Le Chirurgien SOS Main.
+Après une prise en charge initiale par [Dr Julie JARDON](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) au **[SMUR local]**, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a été transférée en urgence clinique pour une microchirurgie réalisée le [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par Le Chirurgien SOS Main.
 
 Le bilan clinique révèle une section partielle du tendon fléchisseur superficiel de l'index droit, une section complète du paquet collatéral ulnaire et radial, ainsi qu'une neurolyse du nerf collatéral palmaire.
 

@@ -3,9 +3,8 @@ title: "📍 La Ville de l'Établissement SOS Main"
 description: "Token :** `**[La Ville de l'Établissement SOS Main]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-la-ville-de-l-etablissement-sos-main*
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-hopital-sosmain-ville*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -28,6 +27,7 @@ Saint-Jean est la commune où se trouve la clinique ayant pratiqué la microchir
 ## Enjeu juridique — Chaîne de soins et preuve
 
 - Localisation de la production des **pièces médicales** (CR opératoire, facture 790,23 €) — preuves de la gravité de la lésion.
+
 - À distinguer de [La Ville de l'Accident](token-accident-ville.md) (Foix) et de la résidence de la victime (Blagnac).
 
 ## Croisements
@@ -40,4 +40,4 @@ Saint-Jean est la commune où se trouve la clinique ayant pratiqué la microchir
 
 ## Source
 
-[TOKEN MAP → Données localisantes / identifiantes](../TOKEN%20MAP.md#token-la-ville-de-l-etablissement-sos-main)
+TOKEN MAP → Données localisantes / identifiantes

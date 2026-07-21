@@ -1,11 +1,11 @@
 ---
 title: "Rapport de Vérification Juridique JURITEXT"
+date: 2026-07-18
 description: "Vérification de toutes les citations d'articles de loi et décisions de justice"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-[🏠](../README.md) › [📊 Rapports](./README.md) › RAPPORT VERIFICATION JURITEXT 2026-07-18
+*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT VERIFICATION JURITEXT 2026-07-18*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -41,7 +41,7 @@ type: rapport
 
 - **JURITEXT000046284523** — ❌ ANCIEN ID (20-20.404 → remplacé par JURITEXT000046282365)
 
-- **JURITEXT000049914357** — ❌ ANCIEN ID (23-15.345 → remplacé par JURITEXT000049857400)
+- **JURITEXT000049914357** — ❌ ANCIEN ID (23-15.345 → remplacé par JURITEXT000044105739)
 
 - **JURITEXT000050460532** — ❌ ANCIEN ID (22-19.307 → remplacé par JURITEXT000049418278)
 
@@ -127,7 +127,7 @@ type: rapport
 
 - **JURITEXT000049418278** — ✅ trouvé
 
-- **JURITEXT000049857400** — ✅ trouvé
+- **JURITEXT000044105739** — ✅ trouvé
 
 - **JURITEXT000050509897** — ✅ trouvé
 

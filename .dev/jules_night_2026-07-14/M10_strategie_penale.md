@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-14 › M10 strategie penale*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 10 — Stratégie contentieuse pénale et parquet
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

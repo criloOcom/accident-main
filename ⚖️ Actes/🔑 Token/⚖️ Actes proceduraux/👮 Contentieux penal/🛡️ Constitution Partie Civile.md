@@ -1,5 +1,5 @@
 ---
-title: "[Constitution de Partie Civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) — Blessures Involontaires"
+title: "Constitution de Partie Civile — Blessures Involontaires"
 description: "Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants. Version consolidée intégrant les données du rapport d'expertise médicale (consolidation 01/03/2027, DFP 12%, SE 4/7)."
 type: readme
 date: 2026-07-06
@@ -10,43 +10,45 @@ tags:
   - blessures involontaires
   - L.227-8
   - expertise
-statut: consolide
+calendar_event_id: "smthlv0a5arakof0m4rv80qgkc"
+statut: final
 destinataire: Doyen des Juges d'Instruction
 auteur: La Victime
-reel_path: ../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md
 source: drive
 drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
 jx: J+38
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › 👮 Contentieux penal › 🛡️ Constitution Partie Civile*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [👮 Contentieux penal](./README.md) › 🛡️ Constitution Partie Civile*
+<hr>
 <!-- /Breadcrumb -->
 
 # [CONSTITUTION DE PARTIE CIVILE](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
 > 🔗 Source Google Drive : [1FNHNbCe5WUH…](https://drive.google.com/open?id=1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg)
 **Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants**
 
-[**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
+**[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
 
-Courriel : [**[L'Email de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
+Courriel : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
 
 A l'attention de Monsieur le Doyen des Juges d'Instruction
 
-Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
+Tribunal Judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
 
-[**[La Ville de Residence de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le [**[J+38 Constitution PC]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)
+[**[La Ville de Residence de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le **[J+38 Constitution PC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)**
 ## I — INTRODUCTION
 
-La presente [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) est formee par [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) dans le cadre de la procedure penale suivie a l'encontre de la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), de son President [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et de sa Directrice Generale [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), en application des articles 2 et suivants du Code de procedure penale.
+La presente [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) est formee par **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** dans le cadre de la procedure penale suivie a l'encontre de la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), de son President [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et de sa Directrice Generale [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), en application des articles 2 et suivants du Code de procedure penale.
 
-Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la reparation de l'integralite des prejudices corporels, materiels et moraux decoulant de l'accident survenu le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md).
+Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la reparation de l'integralite des prejudices corporels, materiels et moraux decoulant de l'accident survenu le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md).
 <hr><hr>
 
 ## II — EXPOSE DES FAITS
 
-Le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), alors que [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) se trouvait en qualite de client au sein du salon de coiffure exploite par la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) sis [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), un grave accident corporel est survenu.
+Le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**, alors que **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** se trouvait en qualite de client au sein du salon de coiffure exploite par la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) sis **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**, un grave accident corporel est survenu.
 
-Le prepose de l'exploitation, [**[Le Prepose de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : [**[Le Telephone du Prepose]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)), a escalade la vasque en ceramique du bac a shampoing pour acceder au poste de television. Cet equipement, instable et presentant une cassure majeure preexistante non signalee aux aretes tranchantes, a bascule sous son poids. Par reflexe, [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a tendu la main droite pour proteger le prepose ; sa paume a heurte la cassure tranchante, provoquant :
+Le prepose de l'exploitation, [**[Le Prepose de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : [**[Le Telephone du Prepose]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)), a escalade la vasque en ceramique du bac a shampoing pour acceder au poste de television. Cet equipement, instable et presentant une cassure majeure preexistante non signalee aux aretes tranchantes, a bascule sous son poids. Par reflexe, **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a tendu la main droite pour proteger le prepose ; sa paume a heurte la cassure tranchante, provoquant :
 
 - Une **section complete du tendon flechisseur profond (FDP)** de l'index droit en zone II de Verdan
 
@@ -56,15 +58,17 @@ Le prepose de l'exploitation, [**[Le Prepose de l'Exploitation]**](../../../../%
 
 - Une plaie palmaire profonde de 5,2 cm
 
-- Une incapacite totale de travail (ITT) de **56 jours**
+- Une ITT pénale de **1 jour** selon le [certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du Dr OXYBEL du 1er juin 2026, sous réserve de la réévaluation globale programmée à l'UMJ de Purpan le 12 novembre 2026
 
-Une microchirurgie d'urgence a ete pratiquee le [**[J+1 Chirurgie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par [**[Le Chirurgien SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) au centre SOS Main de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md). L'etat de la victime a ete declare **consolide au 1er mars 2027** par l'expert judiciaire designe par ordonnance de refere du 31 juillet 2026, conformément au rapport d'expertise depose le 12 juin 2027.
+- Un [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de **55 jours** (du 29 mai au 23 juillet 2026)
+
+Une microchirurgie d'urgence a ete pratiquee le **[J+1 Chirurgie](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md)** par **[Le Chirurgien SOS Main](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)** au centre SOS Main de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**. L'etat de la victime a ete declare **consolide au 1er mars 2027** par l'expert judiciaire designe par ordonnance de refere du 31 juillet 2026, conformément au rapport d'expertise depose le 12 juin 2027.
 
 ### II.1 — ANTECEDENTS ET CARENCES DES MIS EN CAUSE
 
-La SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), immatriculee au RCS sous le SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md), a ete constituee avec un capital social de 200 € seulement. Son President, [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), et sa Directrice Generale, [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), n'ont souscrit aucune assurance de responsabilite civile professionnelle pour l'exploitation du salon, en violation des obligations legales et reglementaires applicables aux etablissements recevant du public (ERP).
+La SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), immatriculee au RCS sous le SIREN **[SIREN de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)**, a ete constituee avec un capital social de 200 € seulement. Son President, [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), et sa Directrice Generale, [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), n'ont souscrit aucune assurance de responsabilite civile professionnelle pour l'exploitation du salon, en violation des obligations legales et reglementaires applicables aux etablissements recevant du public (ERP).
 
-Malgre des mises en demeure recommandees adressees le [**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md) a la SAS, au President et a la Directrice Generale, aucun des mis en cause n'a communique les coordonnees d'un assureur, laissant presumer une absence totale de couverture.
+Malgre des mises en demeure recommandees adressees le **[J+31 Mises en demeure](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)** a la SAS, au President et a la Directrice Generale, aucun des mis en cause n'a communique les coordonnees d'un assureur, laissant presumer une absence totale de couverture.
 <hr><hr>
 
 ## III — FONDEMENTS JURIDIQUES
@@ -84,7 +88,7 @@ En l'espece :
   
 - **L'inobservation des regles de securite** applicables aux ERP (etablissements recevant du public) est caracterisee par le defaut d'entretien du materiel et l'absence de verification des installations.
 
-L'ITT de 56 jours, certifiee par [**[Le Chirurgien SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md), est inferieure a 3 mois, ce qui conduit a la qualification suivante :
+L'ITT pénale, fixée à 1 jour par le [certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du Dr OXYBEL, est inférieure à 3 mois, ce qui conduit à la qualification suivante — étant précisé que l'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total est de 55 jours et qu'une réévaluation globale est programmée à l'UMJ de Purpan le 12 novembre 2026 :
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 > [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
@@ -157,7 +161,7 @@ En l'absence d'assurance, l'indemnisation de la victime est gravement compromise
 
 ## IV — PREJUDICES
 
-Les prejudices subis par [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), evalues par expertise judiciaire (rapport depose le 12 juin 2027, consolidation au 1er mars 2027), sont les suivants :
+Les prejudices subis par **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, evalues par expertise judiciaire (rapport depose le 12 juin 2027, consolidation au 1er mars 2027), sont les suivants :
 
 | Categorie | Poste de prejudice | Evaluation expertise | Observations |
 |-----------|-------------------|---------------------|--------------|
@@ -178,15 +182,15 @@ Les prejudices subis par [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F
 
 ## V — DEMANDES
 
-Par ces motifs, [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction de :
+Par ces motifs, **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction de :
 
 1. **DECLARER** recevable la presente [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) ;
 
 2. **PRENDRE ACTE** du depot du rapport d'expertise medicale judiciaire en date du 12 juin 2027, ayant fixe la consolidation au 1er mars 2027, le DFP a 12 % et les souffrances endurees a 4/7 ;
 
-3. **ACCORDER** a [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), de [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et de [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) ;
+3. **ACCORDER** a **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), de [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et de [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) ;
 
-4. **CONDAMNER IN SOLIDUM** la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) a payer a [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) la somme de [**[Finance Article 700]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700.md) sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
+4. **CONDAMNER IN SOLIDUM** la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) a payer a **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** la somme de [**[Finance Article 700]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700.md) sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
 
 > *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
 > [Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) <br>
@@ -210,56 +214,54 @@ Vu les articles 706-3 et 706-14 du Code de procedure penale,
 Vu la jurisprudence de la Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092 (arret SATI),
 Vu les pieces versees aux debats,
 
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) se constitue partie civile et sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction, ou a tout magistrat compose le Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), de :
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** se constitue partie civile et sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction, ou a tout magistrat compose le Tribunal Judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, de :
 
 1. **RECEVOIR** la presente [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) ;
 
 2. **PRENDRE ACTE** du depot du rapport d'expertise medicale judiciaire en date du 12 juin 2027 (consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure) ;
 
-3. **CONDAMNER IN SOLIDUM** la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) a verser a [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices ;
+3. **CONDAMNER IN SOLIDUM** la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) a verser a **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices ;
 
-4. **CONDAMNER IN SOLIDUM** la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) a payer a [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) la somme de [**[Finance Article 700]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700.md) sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
+4. **CONDAMNER IN SOLIDUM** la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), [**[Le President de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Generale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) a payer a **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** la somme de [**[Finance Article 700]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700.md) sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
 
 > *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
-> [Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) <br>
-> **Code de procédure pénale > Paragraphe 1 : Dispositions générales — abrogation différée.[^10]**
 
 5. **FIXER** la provision definitives sur dommages et interets a hauteur du prejudice extra-patrimonial constate par l'expert (49 231 €), et **SE RESERVER** la liquidation definitive de l'astreinte et des postes patrimoniaux (PGPF, DSA) sur production des justificatifs CPAM.
 
-Fait a [**[La Ville de Residence de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le [**[J+38 Constitution PC]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)
+Fait a [**[La Ville de Residence de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le **[J+38 Constitution PC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)**
 
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 <hr><hr>
 
 ## BORDEREAU DE PIÈCES ANNEXÉES
 
-- **Pièce n°1 :** Procès-verbal de police n° [**[N° PV Police]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — dépôt de plainte pour blessures involontaires
+1. Procès-verbal de police n° **N° PV Police** — dépôt de plainte pour blessures involontaires
 
-- **Pièce n°2 :** [Certificat médical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) de constatation des blessures rédigé par [**[Le Médecin en Urgence]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) ([**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
+2. [Certificat médical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) de constatation des blessures rédigé par **[Le Médecin en Urgence](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md)** (**[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**)
 
-- **Pièce n°3 :** [Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie d'urgence (suture nerveuse et tendineuse) rédigé par [**[Le Chirurgien SOS Main]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) ([**[J+1 Chirurgie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md))
+3. [Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie d'urgence (suture nerveuse et tendineuse) rédigé par **[Le Chirurgien SOS Main](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)** (**[J+1 Chirurgie](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md)**)
 
-- **Pièce n°4 :** Certificats médicaux d'[arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 56 jours d'Incapacité Totale de Travail (ITT)
+4. Certificats médicaux d'[arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 55 jours d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total
 
-- **Pièce n°5 :** Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
+5. Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
 
-- **Pièce n°6 :** Preuves de l'opération de paiement Wero de [**[Finance Prestation Salon]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prestation-salon.md) ([**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)) démontrant la présence dans les lieux
+6. Preuves de l'opération de paiement Wero de [**[Finance Prestation Salon]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prestation-salon.md) (**[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**) démontrant la présence dans les lieux
 
-- **Pièce n°7 :** Facture de pharmacie post-opératoire ([**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md))
+7. Facture de pharmacie post-opératoire (**[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**)
 
-- **Pièce n°8 :** Facture de chirurgie SOS Main ([**[Finance Facture Chirurgie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-facture-chirurgie.md)) ([**[J+12 Facture]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md))
+8. Facture de chirurgie SOS Main ([**[Finance Facture Chirurgie]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-facture-chirurgie.md)) (**[J+12 Facture](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md)**)
 
-- **Pièce n°9 :** Dossier de Recours Contre Tiers (RCT) CPAM
+9. Dossier de Recours Contre Tiers (RCT) CPAM
 
-- **Pièce n°10 :** LRAR de mise en demeure adressée à [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) ([**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+10. LRAR de mise en demeure adressée à [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (**[J+31 Mises en demeure](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)**)
 
-- **Pièce n°11 :** LRAR de mise en demeure adressée à [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) ([**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+11. LRAR de mise en demeure adressée à **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** (**[J+31 Mises en demeure](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)**)
 
-- **Pièce n°12 :** LRAR de mise en demeure adressée à [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) ([**[J+31 Mises en demeure]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md))
+12. LRAR de mise en demeure adressée à **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** (**[J+31 Mises en demeure](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)**)
 
-- **Pièce n°13 :** LRAR adressée à [**[Le Propriétaire des Murs]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) et son AR signé ([**[J+35 AR propriétaire]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-35-ar-proprietaire.md))
+13. LRAR adressée à **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** et son AR signé (**[J+35 AR propriétaire](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-35-ar-proprietaire.md)**)
 
-- **Pièce n°14 :** Rapport d'expertise médicale judiciaire du 12 juin 2027 — consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure
+14. Rapport d'expertise médicale judiciaire du 12 juin 2027 — consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure
 <hr><hr>
 
 ## Sources Législation
@@ -279,22 +281,29 @@ Fait a [**[La Ville de Residence de la Victime]**](../../../../%F0%9F%A7%A0%20Me
 
 ### NOTE MÉTHODOLOGIQUE
 
-Cette version de la constitution de partie civile est une **version consolidée** intégrant les données du rapport d'expertise médicale simulé (déposé le 12 juin 2027, consolidation au 1er mars 2027).
+Cette version de la [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) est une **version consolidée** intégrant les données du rapport d'expertise médicale simulé (déposé le 12 juin 2027, consolidation au 1er mars 2027).
 
 Les sections mises à jour :
 - **Section I** : description lésionnelle harmonisée avec le rapport d'expertise, ajout de la consolidation
+
 - **Section III** : tableau Dintilhac remplacé par les chiffres de l'expert (DFP 12 % = 25 200 €, SE 4/7 = 14 000 €, IP = 28 000 €, etc.)
+
 - **Section IV + PAR CES MOTIFS** : la demande d'expertise est remplacée par une demande de prise d'acte du rapport déposé
+
 - **Pièce n°14** : rapport d'expertise ajouté au bordereau
 
 Les fondements juridiques (Section II) restent inchangés — le rapport d'expertise n'affecte pas la qualification pénale ni les arguments de responsabilité.
 
 **Calibrage :**
 - Fourchette globale : 120 000 — 160 000 € (conforme au rapport d'expertise)
+
 - Provision : 15 000 € (inchangée, cohérente avec le total extra-patrimonial de 49 231 €)
+
 - Article 475-1 CPP : montant à définir via le token [**[Finance Article 700]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700.md) (remplacé par [**[Finance Article 475-1]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-475-1.md) dans la nomenclature pénale)
 
 **Documents liés :**
 - Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
-- Ordonnance de référé (mission expertise) : [`⚖️ Projet Ordonnance Refere.md`](../📜%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)
+
+- Ordonnance de référé (mission expertise) : [`⚖️ Projet Ordonnance Refere.md`](../%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)
+
 - Avis Dintilhac externe : [`📊 Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`](../../../../%F0%9F%93%8A%20Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md)

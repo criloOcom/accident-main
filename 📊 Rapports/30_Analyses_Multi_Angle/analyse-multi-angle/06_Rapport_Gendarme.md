@@ -1,13 +1,12 @@
 ---
 title: "06 — Rapport Gendarme / OPJ"
 description: "Évaluation de la qualité des constatations initiales, chaîne de conservation des preuves et plan d'action (Accident Main, 29/05/2026)."
-type: analyse
+type: analyse_juridique
 statut: projet
 auteur: Gendarme OPJ
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › [analyse-multi-angle](README.md) › 06 Rapport Gendarme*
+*[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](../README.md) › [Analyses Multi-Angle — 15 Missions](./README.md) › 06 Rapport Gendarme*
 <hr>
 <!-- /Breadcrumb -->
 

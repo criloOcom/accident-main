@@ -13,9 +13,8 @@ destinataire: Monsieur MOUNTASSER (Président SAS)
 source: drive
 drive_id: 117sFmGu7yFbYzd0VrKYNSCK_tDYHugrL
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260629 LR Demande ASSURANCE](./README.md) › 20260629 ✉️ LR MiseEnDemeure SAS President MrSABIR*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260629 LR Demande ASSURANCE](./README.md) › 20260629 ✉️ LR MiseEnDemeure SAS President MrSABIR*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -115,6 +114,6 @@ Je vous prie d'agréer, Monsieur le Président, l'expression de mes salutations 
 Sébastien GRAZIDE
 NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de
 l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de
-travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier
+travail (ITT médicale de 55 jours) et dans l'incapacité d'utiliser normalement un clavier
 d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire
 explique le délai de transmission de mes demandes administratives.

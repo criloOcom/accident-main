@@ -5,9 +5,8 @@ type: simulation
 role: Juge des Référés
 date: 2026-07-14
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📂 Simulations](README.md) › 03_Juge_Referes*
+*[🏠](../README.md) › [📂 Simulations — Analyses Multi-Angle du Dossier Accident Main](./README.md) › 03 Juge Referes*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -58,7 +57,7 @@ Ce montant apparaît parfaitement proportionné et justifié :
 
 - Il est en adéquation avec les préjudices corporels d'ores et déjà incontestables, médicalement constatés, incluant la section du nerf collatéral radial et du tendon fléchisseur profond, ayant nécessité une intervention chirurgicale en urgence.
 
-- Il indemnise provisoirement une Incapacité Temporaire Totale (ITT) évaluée à 56 jours.
+- Il indemnise provisoirement une Incapacité Temporaire Totale (ITT) évaluée à 55 jours.
 
 - Il prend en compte les frais médicaux avancés, la Perte de Gains Professionnels Actuels (PGPA) pour ce travailleur indépendant et les souffrances endurées.
 

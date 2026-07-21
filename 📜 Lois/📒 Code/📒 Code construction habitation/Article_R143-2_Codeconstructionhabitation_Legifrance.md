@@ -8,9 +8,8 @@ legiarti: LEGIARTI000043818941
 code: Code de la construction et de l'habitation
 article: R143-2
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code construction habitation](./README.md) › Article R143-2 Codeconstructionhabitation Legifrance*
+*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code de la construction et de l'habitation](./README.md) › Article R143-2 Codeconstructionhabitation Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

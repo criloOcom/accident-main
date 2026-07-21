@@ -1,15 +1,81 @@
 ---
 title: "CHANGELOG JURIDIQUE"
+date: 2026-07-21
 description: "Suivi des modifications apportées aux fiches juridiques (articles et jurisprudence)."
 type: loi
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [⚖️ Bibliothèque Juridique](./README.md) › CHANGELOG JURIDIQUE*
 <hr>
 <!-- /Breadcrumb -->
 
 # CHANGELOG JURIDIQUE
+
+## 2026-07-21 — Enrichissement jurisprudence (11 décisions + 2 docs stratégiques)
+
+### Arrêts Cour de cassation (4)
+
+| RG | Chambre | Date | Thème | Source |
+|----|---------|------|-------|--------|
+| 80-16.679 | Civ. 1re | 10 mars 1982 | Prescription action directe (L.124-3) | Légifrance ✅ |
+| 20-23.462 | Civ. 2e | 24 nov. 2022 | Action directe subrogatoire CPAM | Légifrance ✅ |
+| 20-22.100 | Civ. 2e | 24 nov. 2022 | Champ FGAO | Légifrance ✅ |
+| 20-19.288 | Civ. 2e | 24 nov. 2022 | Exclusion FGAO accidents corporels | Légifrance ✅ |
+
+**Dossier** : `🏛️ Action directe et obligation d'assurance/` (4→8 arrêts)
+
+### Décisions CA/TJ (7)
+
+| RG | Juridiction | Date | Thème | Source |
+|----|-------------|------|-------|--------|
+| 11/03512 | CA Toulouse | 18 juin 2013 | Lien causal ERP | Doctrine.fr (pas Légifrance) |
+| 15/01748 | CA Chambéry | 3 mai 2016 | Obligation de sécurité ERP | Doctrine.fr |
+| 19/08999 | TJ Nanterre | 7 janv. 2025 | Transaction sans aggravation | Doctrine.fr |
+| 20/05541 | TJ Rennes | 20 janv. 2026 | Incidence professionnelle | Doctrine.fr |
+| 21/04988 | TJ Versailles | 23 mai 2024 | Réserve d'aggravation | Doctrine.fr |
+| 22/02447 | TJ Nanterre | 18 sept. 2024 | Devoir d'information | Doctrine.fr |
+| 22/01019 | CA Versailles | 14 mai 2025 | Prescription action directe | Doctrine.fr |
+
+**Dossier** : `🏛️ Jurisprudence du fond (CA-TJ)/` (nouveau dossier — 7 décisions)
+
+### Documents stratégiques (2)
+
+- `📜 Mémoire de synthèse — Recours assurances ERP.md` (277 lignes, 6 sections) — Synthèse transversale
+- `📜 Note — Procédure Action Directe Assureur L124-3.md` (358 lignes, 9 sections) — Feuille de route procédurale
+
+**Dossier** : `📚 Analyses juridiques/` — versions Reel générées
+
+### Limitations
+
+- RG des décisions CA/TJ non indexés dans l'API Légifrance → textes intégraux indisponibles via MCP
+- 4 arrêts Cass. vérifiés via legifrance-prod ✅
+- Mention `À VÉRIFIER` dans fichiers CA/TJ
+
+---
+
+## 2026-07-20 — Création des 3 derniers articles manquants (Phase 4)
+
+| Fichier | Action | LEGIARTI vérifié |
+|---|---|---|
+| `📒 Code commerce/Article_L123-5-1_Codecommerce.md` | Création — Art. L.123-5-1 C.com (injonction dépôt RCS) | LEGIARTI000006219291 ✅ VIGUEUR |
+| `📒 Code commerce/Article_L123-3_Codecommerce.md` | Création — Art. L.123-3 C.com (injonction immatriculation/radiation RCS) | LEGIARTI000025559422 ✅ VIGUEUR |
+| `📒 Code du travail/Article_L8221-1_CodeTravail.md` | Création — Art. L.8221-1 C.trav (interdiction travail dissimulé) | LEGIARTI000006904815 ✅ VIGUEUR |
+
+### README — Mises à jour
+
+| Fichier | Modification |
+|---|---|
+| `📒 Code commerce/README.md` | L.123-3 corrigé (lien vers fichier correct) + L.123-5-1 ajouté |
+| `📒 Code du travail/README.md` | L.8221-1 ajouté |
+| `📜 Lois/README.md` | Code du travail ajouté à la structure + listing (6 articles). Code commerce : 8→13 articles. L.123-3, L.123-5-1 ajoutés. |
+
+### Méthode
+
+- Vérification via OpenLegi (Légifrance-prod API 500). Tous VIGUEUR.
+
+- Les 15 articles manquants de l'audit complet (2026-07-11) sont désormais tous créés. ✅
+
+---
 
 ## 2026-07-13 — Correction et mise à jour extensive
 
@@ -44,7 +110,9 @@ type: loi
 ### Méthode
 
 - **Outils utilisés :** MCP Légifrance-prod, OpenLegi, Judilibre
+
 - **Vérifications croisées :** LEGIARTI/JURITEXT contrôlés sur Légifrance via API
+
 - **Articles non vérifiables au moment de l'audit :** Aucun (l'API Litige est revenue entre-temps)
 
 ---
@@ -52,5 +120,7 @@ type: loi
 ## 2026-07-11 — Création initiale de l'inventaire juridique
 
 - Inventaire complet des 27 articles et 27 arrêts dans `📜 Lois/`
+
 - Compilation des anomalies (10 signalées)
+
 - Soumission à l'agent "chargé de doc" pour revue

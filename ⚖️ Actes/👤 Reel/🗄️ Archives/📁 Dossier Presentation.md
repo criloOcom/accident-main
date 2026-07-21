@@ -15,12 +15,14 @@ reel_path: ../../👤 Reel/🗄️ Archives/📁 Dossier Presentation.md
 source: drive
 drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
 ---
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📦 Archives](./README.md) › 📁 Dossier Presentation*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › 📁 Dossier Presentation*
 <hr>
 <!-- /Breadcrumb -->
+
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+
+
 
 **Table des matières**
 
@@ -75,7 +77,7 @@ Afin de lever tout obstacle financier pour [Sébastien GRAZIDE](../../../%F0%9F%
 
 Le vendredi [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md), [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) s'est présenté au salon de coiffure « [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) » à [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) ([22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)) pour une prestation de coupe de cheveux. Après réalisation de celle-ci, il a payé et quitté le salon vers 15h00.
 
-Moins de cinq minutes après sa sortie, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) est retourné au salon afin de solliciter une retouche. Il a alors constaté que l'employé ([Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : 07 58 40 12 87)(../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)) était monté physiquement sur la vasque en céramique d'un bac à shampoing.
+Moins de cinq minutes après sa sortie, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) est retourné au salon afin de solliciter une retouche. Il a alors constaté que l'employé ([Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tél. [07 58 40 12 87](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md))) était monté physiquement sur la vasque en céramique d'un bac à shampoing.
 
 En voulant descendre, le [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) a provoqué le basculement de l'équipement lourd. Par un réflexe d'assistance pour retenir la chute et protéger le [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md), [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a tendu sa main droite dominante.
 
@@ -83,7 +85,7 @@ Sa paume est entrée en contact direct avec la vasque en céramique. Or, celle-c
 
 Ce choc a provoqué une section profonde de 8,5 cm au niveau de sa paume droite (main dominante, pince pouce-index). [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a été opéré le samedi [30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) par le [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) au service SOS Main de [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md).
 
-Les examens cliniques constatent une section partielle du tendon fléchisseur, une section complète du paquet collatéral et une neurolyse du nerf palmaire, entraînant une ITT de 56 jours (jusqu'au [23 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md) inclus) et des paresthésies sévères de l'index droit.
+Les examens cliniques constatent une section partielle du tendon fléchisseur, une section complète du paquet collatéral et une neurolyse du nerf palmaire, entraînant un arrêt de travail total de 55 jours (jusqu'au [23 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md) inclus) et des paresthésies sévères de l'index droit.
 <hr><hr>
 
 ## III — ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES

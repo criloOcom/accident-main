@@ -3,7 +3,6 @@ title: "📅 J+12 Facture"
 description: "Token :** `**[J+12 Facture]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-12-facture*
 <hr>
@@ -30,13 +29,17 @@ Cette facture constitue la **dépense de santé effective** supportée par **[La
 ## Acteurs concernés
 
 - **[La Victime]** — débiteur
+
 - **[L'Établissement SOS Main]** — créancier
+
 - **[L'Exploitant du Commerce (La SAS)]** — responsable in fine (répétition contre le tiers)
 
 ## Conséquences juridiques
 
 - Pièce justificative pour le poste **DEP** (dépenses de santé actuelles) de l'évaluation Dintilhac.
+
 - Facture présentée en remboursement au tiers responsable (SAS) et transmise à la CPAM au titre du recours subrogatoire.
+
 - Montant à intégrer dans le calcul de l'indemnisation globale (~109 500 € optimiste / ~85 000 € compromis).
 
 ## Croisements
@@ -49,4 +52,4 @@ Cette facture constitue la **dépense de santé effective** supportée par **[La
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-12-facture)
+TOKEN MAP → Tokens événementiels (J+)

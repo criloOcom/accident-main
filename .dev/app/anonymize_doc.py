@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import re
+import sys
 
 # To fix the CWE-377 insecure temporary file vulnerability, we require the input
 # file to be provided as an argument.

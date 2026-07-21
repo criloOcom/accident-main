@@ -5,9 +5,8 @@ type: simulation
 role: Expert Judiciaire (Chirurgie main)
 date: 2026-07-14
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📂 Simulations](README.md) › 08_Expert_Judiciaire*
+*[🏠](../README.md) › [📂 Simulations — Analyses Multi-Angle du Dossier Accident Main](./README.md) › 08 Expert Judiciaire*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -32,9 +31,9 @@ Ces lésions sont typiques d'une plaie par objet tranchant (bris de céramique d
 
 ## II — ANALYSE DE L'ITT (56 JOURS)
 
-La durée de l'Incapacité Totale de Travail (ITT) pénale au sens médico-légal a été fixée à 56 jours (du 29 mai 2026 au 23 juillet 2026).
+La durée de l'Incapacité Totale de Travail (ITT) pénale au sens médico-légal a été fixée à 55 jours (du 29 mai 2026 au 23 juillet 2026).
 
-Cette durée de 56 jours est **totalement cohérente** et médicalement justifiée pour ce type de traumatisme. La prise en charge d'une section tendineuse et nerveuse à la main nécessite une immobilisation stricte suivie d'une rééducation longue (kinésithérapie spécialisée). Le délai de cicatrisation tendineuse primaire est d'environ 45 jours, auquel s'ajoute le temps de récupération de la mobilité.
+Cette durée de 55 jours est **totalement cohérente** et médicalement justifiée pour ce type de traumatisme. La prise en charge d'une section tendineuse et nerveuse à la main nécessite une immobilisation stricte suivie d'une rééducation longue (kinésithérapie spécialisée). Le délai de cicatrisation tendineuse primaire est d'environ 45 jours, auquel s'ajoute le temps de récupération de la mobilité.
 
 <hr><hr>
 

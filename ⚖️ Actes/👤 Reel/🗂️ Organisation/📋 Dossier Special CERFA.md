@@ -1,6 +1,6 @@
 ---
 title: "05 Dossier Spécial CERFA"
-description: "Dans le cadre du dossier d'accident corporel de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditi"
+description: "Dans le cadre du dossier d'accident corporel de Sébastien GRAZIDE, plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditi"
 type: readme
 date: 2026-07-08
 tags:
@@ -16,13 +16,13 @@ reel_path: ../../👤 Reel/🗂️ Organisation/📋 Dossier Special CERFA.md
 jx: J+40
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › 📋 Dossier Special CERFA*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › 📋 Dossier Special CERFA*
 <hr>
 <!-- /Breadcrumb -->
 
 # DOSSIER SPÉCIAL : FORMULAIRES CERFA APPLICABLES
 
-Dans le cadre du dossier d'accident corporel de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditions de mise en œuvre et les pièces justificatives requises.
+Dans le cadre du dossier d'accident corporel de **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditions de mise en œuvre et les pièces justificatives requises.
 ## I — SYNTHÈSE DES FORMULAIRES CERFA
 
 | Type de Démarche | Formulaire CERFA | Utilité Principale | Destinataire | Statut dans le Dossier |
@@ -43,14 +43,14 @@ Conformément à l'Article 202 du Code de procédure civile, ce document permet 
 ### II.1 — Témoins identifiés et documents associés
 
 #### II.1.a — **Le Témoin Client (Présent le jour J)**
-[📋 Temoin Client.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Attestations/%F0%9F%93%8B%20Temoin%20Client.md)
-(Email de relance : [26 📧📋 Temoin Client.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Attestations/%F0%9F%93%8B%20Temoin%20Client%20%F0%9F%93%A7Mail.md))
+[✉️ Temoin Client 📋Attestation.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%E2%9C%89%EF%B8%8F%20Temoin%20Client%20%F0%9F%93%8BAttestation.md)
+(Email de relance : [26 📧✉️ Temoin Client 📋Attestation.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%E2%9C%89%EF%B8%8F%20Temoin%20Client%20%F0%9F%93%A7Mail%20%F0%9F%93%8BAttestation.md))
 
 #### II.1.b — **Le Secouriste / Pompier (Intervenant d'urgence)**
-[23 📋 Pompier SAMU.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Attestations/%F0%9F%93%8B%20Pompier%20SAMU%20%F0%9F%93%A7Mail.md) (Email de relance : [27 📧📋 Pompier SAMU.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Attestations/%F0%9F%93%8B%20Pompier%20SAMU%20%F0%9F%93%A7Mail.md))
+[23 ✉️ Pompier SAMU 📋Attestation.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%E2%9C%89%EF%B8%8F%20Pompier%20SAMU%20%F0%9F%93%A7Mail%20%F0%9F%93%8BAttestation.md) (Email de relance : [27 📧✉️ Pompier SAMU 📋Attestation.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%E2%9C%89%EF%B8%8F%20Pompier%20SAMU%20%F0%9F%93%A7Mail%20%F0%9F%93%8BAttestation.md))
 
 #### II.1.c — **L'Employé du Salon (Témoin de la défectuosité préalable)**
-[📋 Employe.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Attestations/%F0%9F%93%8B%20Employe.md) (Email de relance : [28 📧📋 Employe.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Attestations/%F0%9F%93%8B%20Employe%20%F0%9F%93%A7Mail.md))
+[✉️ Employe 📋Attestation.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%E2%9C%89%EF%B8%8F%20Employe%20%F0%9F%93%8BAttestation.md) (Email de relance : [28 📧✉️ Employe 📋Attestation.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%E2%9C%89%EF%B8%8F%20Employe%20%F0%9F%93%A7Mail%20%F0%9F%93%8BAttestation.md))
 
 ### II.2 — Pièce obligatoire à joindre
 
@@ -65,7 +65,7 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 - **Nature des faits** : Blessures involontaires par manquement délibéré ou négligence (caractère pénal de l'accident).
 
-- **Seuil d'ITT** : [Sébastien](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-prenom.md) présente une ITT continue de **56 jours**, ce qui dépasse largement le critère légal de **30 jours** (1 mois) d'ITT requis pour la saisine.
+- **Seuil d'ITT** : [Sébastien](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-prenom.md) présente un [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) continu de **55 jours**, ce qui dépasse largement le critère légal de **30 jours** (1 mois) d'ITT requis pour la saisine.
 
 - **Nationalité/Lieu** : Victime française, accident survenu en France.
 
@@ -73,15 +73,15 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 1. Le formulaire **CERFA n° 16160*01** dûment rempli, daté et signé.
 
-2. Une copie du dépôt de plainte et du Procès-Verbal de police n° [2026/015967](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
+2. Une copie du dépôt de plainte et du Procès-Verbal de police n° **N° PV Police**.
 
-3. Le [certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (CMI) constatant les blessures de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md).
+3. Le [certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (CMI) constatant les blessures de **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**.
 
-4. Les certificats de prolongation et de reprise d'activité justifiant l'ITT.
+4. Les certificats de prolongation et de reprise d'activité justifiant l'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
 
-5. Le [compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par [Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md).
+5. Le [compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par **[Le Chirurgien SOS Main](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)**.
 
-6. Les justificatifs de pertes de revenus (déclarations URSSAF / avis fiscaux de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) en tant qu'indépendant).
+6. Les justificatifs de pertes de revenus (déclarations URSSAF / avis fiscaux de **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** en tant qu'indépendant).
 
 7. Le justificatif de nationalité française (copie de la carte d'identité ou du passeport).
 <hr><hr>

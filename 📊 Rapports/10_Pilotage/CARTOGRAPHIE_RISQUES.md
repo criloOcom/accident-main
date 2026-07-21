@@ -1,11 +1,11 @@
 ---
 title: "RAPPORT D'AUDIT — MATRICE DES RISQUES JURIDIQUES ET PROCÉDURAUX"
+date: FIXME
 description: "Date :** 10 juillet 2026"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › CARTOGRAPHIE RISQUES*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [10_Pilotage — Pilotage opérationnel](./README.md) › CARTOGRAPHIE RISQUES*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -21,15 +21,19 @@ type: rapport
 
 ## SOMMAIRE
 
-1. [Méthodologie de la matrice](#1-méthodologie-de-la-matrice)
-2. [Matrice des risques — Synthèse visuelle](#2-matrice-des-risques--synthèse-visuelle)
-3. [Fiches risques détaillées](#3-fiches-risques-détaillées)
-   - [Risques stratégiques (R1–R5)](#31-risques-stratégiques)
-   - [Risques procéduraux (R6–R10)](#32-risques-procéduraux)
+1. [Méthodologie de la matrice](#1-m%C3%A9thodologie-de-la-matrice)
+
+2. [Matrice des risques — Synthèse visuelle](#2-matrice-des-risques--synth%C3%A8se-visuelle)
+
+3. [Fiches risques détaillées](#3-fiches-risques-d%C3%A9taill%C3%A9es)
+
+   - [Risques stratégiques (R1–R5)](#31-risques-strat%C3%A9giques)
+   - [Risques procéduraux (R6–R10)](#32-risques-proc%C3%A9duraux)
    - [Risques documentaires et preuves (R11–R15)](#33-risques-documentaires-et-preuves)
    - [Risques financiers (R16–R18)](#34-risques-financiers)
    - [Risques transverses (R19–R21)](#35-risques-transverses)
-4. [Plan d'atténuation global](#4-plan-datténuation-global)
+4. [Plan d'atténuation global](#4-plan-datt%C3%A9nuation-global)
+
 5. [Vigilances permanentes](#5-vigilances-permanentes)
 
 ---
@@ -580,9 +584,13 @@ Chaque risque est évalué selon trois axes :
 ### V.2 — Interdictions absolues
 
 - ❌ Ne JAMAIS uploader TOKEN MAP.md, ANNEXE A, ou tout fichier contenant des identités réelles sur un Google Drive partagé
+
 - ❌ Ne JAMAIS publier sur le blog des informations couvertes par le secret de l'instruction
+
 - ❌ Ne JAMAIS citer un JURITEXT sans vérification MCP Légifrance (protocole #11)
+
 - ❌ Ne JAMAIS inventer un statut juridique, une date, ou un montant sans source vérifiable
+
 - ❌ Ne JAMAIS modifier un document Drive directement — toujours passer par le workflow local → replaceDocumentWithMarkdown
 
 ### V.3 — Indicateurs de levée de risque

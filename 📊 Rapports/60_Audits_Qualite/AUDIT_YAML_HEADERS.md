@@ -10,6 +10,10 @@ tags:
   - métadonnées
 statut: final
 ---
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [60_Audits_Qualite — Audits internes et qualité](./README.md) › AUDIT YAML HEADERS*
+<hr>
+<!-- /Breadcrumb -->
 
 # 📋 RAPPORT D'AUDIT SUR LA STRUCTURATION DES EN-TÊTES YAML
 
@@ -145,16 +149,16 @@ tags:
 
 | Fichier | Raison |
 |---------|--------|
-| `🔄 CPAM.md` | `[Adresse à compléter]` |
-| `🔄 Police Videos.md` | `[Adresse à compléter]` |
+| `✉️ CPAM 🔄Relance.md` | `[Adresse à compléter]` |
+| `✉️ Police Videos 🔄Relance.md` | `[Adresse à compléter]` |
 | `✉️🔄 Consolidation.md` | `[Adresse à compléter]` |
-| `✉️🔄 Inspection Travail.md` | `[Date d'envoi — À compléter]` |
-| `✉️🔄 Préfecture CODAF.md` | `[Date d'envoi — À compléter]` |
-| `✉️🚨 INPI.md` | `[Adresse à compléter]` |
-| `✉️🚨 Prefecture.md` | `[Adresse à compléter]` |
-| `✉️🚨 SDIS.md` | `[Adresse à compléter]` |
-| `✉️🚨 SIE.md` | `[Adresse à compléter]` |
-| `✉️⚖️ CPAM Recours Tiers.md` | `[Adresse à compléter]` |
+| `✉️ Inspection Travail 🔄Relance.md` | `[Date d'envoi — À compléter]` |
+| `✉️ Préfecture CODAF 🔄Relance.md` | `[Date d'envoi — À compléter]` |
+| `✉️ INPI 🚨Signalement.md` | `[Adresse à compléter]` |
+| `✉️ Prefecture 🚨Signalement.md` | `[Adresse à compléter]` |
+| `✉️ SDIS 🚨Signalement.md` | `[Adresse à compléter]` |
+| `✉️ SIE 🚨Signalement.md` | `[Adresse à compléter]` |
+| `✉️ CPAM Recours Tiers ⚖️Contentieux.md` | `[Adresse à compléter]` |
 | `⚡ ActionDirecte AssureurRC.md` | `[Adresse à compléter]` |
 
 ### III.4 — 3.4 `drive_id` manquants (4 fichiers avec `source: drive`)
@@ -173,8 +177,11 @@ tags:
 ### IV.1 — Étape 1 — Mise à jour du schéma (`yaml_schema.py`)
 
 - Ajouter `directory` aux types canoniques
+
 - Ajouter la validation stricte des `statut` et `type`
+
 - Ajouter les champs optionnels : `date_creation`, `date_modification`, `proof_delivery`
+
 - Ajouter les mappings de normalisation des types non-canoniques
 
 ### IV.2 — Étape 2 — Injection sélective (`inject_optional_yaml_fields.py`)
@@ -184,7 +191,9 @@ Script dédié pour ajouter les champs optionnels (`date_creation`, `date_modifi
 ### IV.3 — Étape 3 — Corrections manuelles automatisées
 
 - Rétrograder 11 faux `statut: final` en `projet`
+
 - Normaliser 8 types non-canoniques
+
 - Normaliser 1 statut non-canonique (`obsolète_ne_pas_relancer` → `archive`)
 
 ### IV.4 — Étape 4 — Pipeline d'exécution

@@ -3,7 +3,6 @@ title: "TABLE DE SUBSTITUTION — Anonymisation (tokens V2)"
 description: "| Texte original | Token |"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › TOKEN MAP*
 <hr>
@@ -22,6 +21,8 @@ type: memory
 | Catherine ANDISSAC / SORROCHE / Catherine Andissac / Catherine Sorroche | [**[La Directrice Générale de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) |
 <a id="token-le-prepose-de-l-exploitation"></a>
 | Ayoub Bennourine / BENNOURINE | [**[Le Préposé de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) |
+<a id="token-le-prenom-du-prepose"></a>
+| Ayoub (prénom seul) | [**[Le Prénom du Préposé]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-prepose-prenom.md) |
 <a id="token-le-proprietaire-des-murs"></a>
 | Romain DELRIEU / DELRIEU | [**[Le Propriétaire des Murs]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) |
 <a id="token-le-chirurgien-sos-main"></a>
@@ -104,6 +105,16 @@ type: memory
 | 31727387 | [**[N° Dossier CPAM]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md) |
 <a id="token-siret-de-l-exploitation"></a>
 | 938 033 222 00010 | [**[SIRET de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siret.md) |
+| 87001424863012T | [**[N° LRAR Exploitant]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-exploitant.md) |
+| 87001424862879J | [**[N° LRAR Président]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-president.md) |
+| 87001424721856G | [**[N° LRAR Directrice]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-directrice.md) |
+| 87001424862462Y | [**[N° LRAR Propriétaire]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-proprietaire.md) |
+| 87001424923505I | [**[N° LRAR Parquet]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-parquet.md) |
+| 87500152771696F | [**[N° LRAR HB BARBER Société]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-hb-barber-societe.md) |
+| 875001528942001 | [**[N° LRAR HB BARBER Président]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-hb-barber-president.md) |
+| 875001528942010 | [**[N° LRAR HB BARBER DG]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-hb-barber-dg.md) |
+| 87500152888336B | [**[N° LRAR CHIVA]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-chiva.md) |
+| 87500152910287Q | [**[N° LRAR Propriétaire Relance 3]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-proprietaire-relance-3.md) |
 
 ## Personnes morales (suite) {#personnes-morales-suite}
 | Texte original | Token |
@@ -114,6 +125,8 @@ type: memory
 | btavella@mairie-foix.fr | [**[L'Email de l'Adjoint au Maire]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-email.md) |
 <a id="token-l-email-du-secretariat-de-la-mairie"></a>
 | secretariat@mairie-foix.fr | [**[L'Email du Secrétariat de la Mairie]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-secretariat-email.md) |
+<a id="token-l-email-du-proprietaire-des-murs"></a>
+| romain.delrieu@live.fr | [**[L'Email du Propriétaire des Murs]**](Tokens/token-exploitation-bailleur-email.md) |
 
 ## Tokens temporaires / date tokens (generate_real_versions.py) {#tokens-temporaires}
 | Token | Valeur réelle |
@@ -175,7 +188,7 @@ type: memory
 <a id="token-j-54"></a>
 | [**[J+54]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-54.md) | 22 juillet 2026 — Dépôt plainte complémentaire HB BARBER + correction commissariat Foix |
 <a id="token-j-55-fin-d-itt"></a>
-| [**[J+55 Fin d'ITT]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md) | 23 juillet 2026 — Fin prévisionnelle ITT (56 jours) |
+| [**[J+55 Fin d'ITT]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md) | 23 juillet 2026 — Fin prévisionnelle arrêt de travail (55 jours) |
 <a id="token-j-167-expertise-umj"></a>
 | [**[J+167 Expertise UMJ]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md) | 12 novembre 2026 — Expertise UMJ (réquisition judiciaire) |
 
@@ -197,10 +210,12 @@ type: memory
 | [**[Finance Frais Divers]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-frais-divers.md) | 3 000 € | Frais divers |
 | [**[Finance Facture Chirurgie]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-facture-chirurgie.md) | 790,23 € | Frais médicaux |
 | [**[Finance Prestation Salon]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prestation-salon.md) | 15,00 € | Prestation salon |
+| [**[N° Transaction Wero]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-transaction-wero.md) | IPR000297029234 | Transaction Wero (remboursement) |
 | [**[Finance Evaluation Globale]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-evaluation-initiale.md) | 59 600 € | Évaluation indemnitaire globale |
 
 ## Limitations connues du script batch_anonymize.py
 - Le script utilise `str.replace()` — il ne capture que les chaînes exactes listées
-- Les prénoms/noms en casse mixte sans espace entre les deux (ex. "Mountasser Sabir" — ancien format inversé) doivent être ajoutés manuellement comme entrées au script
-- Les montants financiers `15 000 €` et `3 000 €` ne sont PAS dans batch_anonymize.py car chaque valeur correspond à plusieurs tokens distincts — à remplacer manuellement selon le contexte
 
+- Les prénoms/noms en casse mixte sans espace entre les deux (ex. "Mountasser Sabir" — ancien format inversé) doivent être ajoutés manuellement comme entrées au script
+
+- Les montants financiers `15 000 €` et `3 000 €` ne sont PAS dans batch_anonymize.py car chaque valeur correspond à plusieurs tokens distincts — à remplacer manuellement selon le contexte

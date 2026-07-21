@@ -3,7 +3,6 @@ title: "📅 J+27 Confirmation kiné"
 description: "Token :** `**[J+27 Confirmation kiné]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-27-confirmation-kine*
 <hr>
@@ -23,7 +22,9 @@ type: memory
 
 Confirmation par le kinésithérapeute de la nécessité de poursuivre la rééducation au-delà de la 4e semaine. **[La Victime]** récupère progressivement la mobilité de l'index mais :
 - La force de préhension reste diminuée d'environ 60 %
+
 - Les adhérences cicatricielles limitent l'extension complète
+
 - La sensibilité au froid et aux chocs est anormale
 
 La rééducation est prolongée de 3 semaines supplémentaires.
@@ -31,12 +32,15 @@ La rééducation est prolongée de 3 semaines supplémentaires.
 ## Acteurs concernés
 
 - **[La Victime]** — patient
+
 - **Kinésithérapeute** (prescrit par [Le Chirurgien SOS Main](token-hopital-sosmain-chirurgien.md))
 
 ## Conséquences juridiques
 
-- La prolongation de la kiné confirme la **durée effective de l'ITT** (au-delà de 27 jours, jusqu'à 56 jours — [J+55 Fin d'ITT](token-j-55-fin-d-itt.md)).
+- La prolongation de la kiné confirme la **durée effective de l'arrêt de travail** (au-delà de 27 jours, jusqu'à 55 jours — [J+55 Fin d'ITT](token-j-55-fin-d-itt.md)).
+
 - Les limitations résiduelles (force, sensibilité) préfigurent le **DFP** (Déficit Fonctionnel Permanent).
+
 - L'atteinte sensitive peut fonder une majoration du taux d'incapacité (PEP/SE).
 
 ## Croisements
@@ -49,4 +53,4 @@ La rééducation est prolongée de 3 semaines supplémentaires.
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-27-confirmation-kine)
+TOKEN MAP → Tokens événementiels (J+)

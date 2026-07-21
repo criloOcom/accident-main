@@ -1,11 +1,11 @@
 ---
 title: "M11_AUDIT_PROCEDURE"
+date: FIXME
 description: "Audit de la timeline procédurale et vérification des délais"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › [85_Coherence_2026-07-15](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) › M11_AUDIT_PROCEDURE*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [🎯 Audits de Cohérence et Conformité](./README.md) › M11 AUDIT PROCEDURE*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -16,19 +16,33 @@ type: rapport
 ## I — RECONSTITUTION DE LA TIMELINE GLOBALE
 
 - **J+0 :** Accident — 29/05/2026
+
 - **J+1 :** SOS Main (Chirurgie) — 30/05/2026
+
 - **J+31 :** Mises en demeure (Assureur, SAS, Propriétaire, Président) — 29/06/2026
+
 - **J+32 :** Assignation Référé Provision & Plainte Défaut Assurance RC — 30/06/2026
+
 - **J+37 :** Relances & Signalements (URSSAF, Inspection du Travail, etc.) — 05/07/2026
+
 - **J+38 :** Constitution de Partie Civile, Requête Constat Huissier, Saisine FGTI — 06/07/2026
+
 - **J+39 :** Conclusions Référé Provision — 07/07/2026
+
 - **J+41 :** Opposition Immatriculation INPI & Radiation TC — 09/07/2026
+
 - **J+47 :** Requête Article 145 CPC & Plainte Complémentaire — 15/07/2026
+
 - **J+54 :** Ordonnance sur Requête Art. 145 CPC — 22/07/2026
+
 - **J+63 :** Audience et Projet Ordonnance Référé — 31/07/2026
+
 - **Expertise UMJ :** 12/11/2026
+
 - **Consolidation :** 01/03/2027
+
 - **Rapport d'expertise médicale :** 29/05/2027
+
 - **Conclusions au Fond (TJ Foix) :** 01/06/2027
 
 <hr><hr>
@@ -45,7 +59,7 @@ type: rapport
 
 - [ ] **[MINEUR] Chronologie des Mises en demeure (J+31) et Assignation (J+32) :**
   Les mises en demeure ont été envoyées le 29/06/2026 (J+31), et l'assignation en référé a été délivrée dès le lendemain, le 30/06/2026 (J+32). Délai particulièrement court pour une résolution amiable, bien que justifié par l'urgence en référé.
-  Fichiers : `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️📜 SAS.md` et `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`
+  Fichiers : `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS 📜Lettre.md` et `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`
 
 - [ ] **[CRITIQUE] Obsolescence / Anachronisme : Mention d'actes futurs dans des documents passés :**
   Dans `🛡️ Constitution Partie Civile.md` (daté du 06/07/2026), il est mentionné que l'état de la victime a été déclaré consolidé au 1er mars 2027 par un rapport d'expertise déposé en mai 2027. C'est une grave incohérence temporelle. Un acte daté de juillet 2026 ne peut faire mention d'une date de consolidation en 2027.
@@ -60,4 +74,5 @@ type: rapport
 ## III — RÉSUMÉ DES ACTIONS REQUISES
 
 - [ ] Corriger immédiatement l'anachronisme dans la `Constitution de Partie Civile` (J+38) qui cite des événements de 2027.
+
 - [ ] Le calendrier global est cohérent et les prescriptions sont respectées.

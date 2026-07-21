@@ -1,11 +1,11 @@
 ---
 title: "RAPPORT D'AUDIT RÉDACTIONNEL"
+date: FIXME
 description: "Date :** 12 juillet 2026"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT REDACTION*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [60_Audits_Qualite — Audits internes et qualité](./README.md) › RAPPORT AUDIT REDACTION*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -92,7 +92,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 
 ## III — ANALYSE PAR DOCUMENT
 
-### III.1 — 2.1 03 — Courrier SAS (`✉️ Courriers/✉️📜 SAS.md`)
+### III.1 — 2.1 03 — Courrier SAS (`✉️ Courriers/✉️ SAS 📜Lettre.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -103,7 +103,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents (voir 1.1). La section "Transparence" (l.87-109) donne l'impression que la victime explique la procédure à la SAS — peut affaiblir la position de force d'une mise en demeure |
 
-### III.2 — 2.2 10 — Doyen des Juges d'Instruction (`✉️ Courriers/✉️⚖️ Doyen Juges Instruction Saisine.md`)
+### III.2 — 2.2 10 — Doyen des Juges d'Instruction (`✉️ Courriers/✉️ Doyen Juges Instruction Saisine ⚖️Contentieux.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -114,7 +114,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟡 N° PV en `[ ... ]` (l.47) alors que d'autres docs utilisent `**[N° PV Police]**` — incohérence |
 | Problèmes | Accents absents. Token PV non standardisé |
 
-### III.3 — 2.3 12 — Courrier URSSAF (`✉️ Courriers/✉️🚨 URSSAF.md`)
+### III.3 — 2.3 12 — Courrier URSSAF (`✉️ Courriers/✉️ URSSAF 🚨Signalement.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -125,7 +125,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents (voir 1.1). "response" au lieu de "réponse" |
 
-### III.4 — 2.4 14 — Courrier CODAF (`✉️ Courriers/✉️🚨 CODAF.md`)
+### III.4 — 2.4 14 — Courrier CODAF (`✉️ Courriers/✉️ CODAF 🚨Signalement.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -136,7 +136,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents. "response" (l.105). `Article L.310-1-1-2` — vérifier que ce texte existe (loi 2024-364 du 22 avril 2024) |
 
-### III.5 — 2.5 19 — Courrier FGTI (`✉️ Courriers/✉️⚖️ FGTI Saisine.md`)
+### III.5 — 2.5 19 — Courrier FGTI (`✉️ Courriers/✉️ FGTI Saisine ⚖️Contentieux.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -147,7 +147,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🟢 Corrects |
 | Problèmes | Accents absents. "response". La grille indemnitaire en corps de texte alourdit inutilement le premier contact |
 
-### III.6 — 2.6 33 — Requête Constat Huissier 145 CPC (`✉️ Courriers/🗄️ Requete Constat Huissier.md`)
+### III.6 — 2.6 33 — Requête Constat Huissier 145 CPC (`✉️ Courriers/✉️ Requete Constat Huissier 🗄️Archive.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -159,7 +159,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🔴 l.39 : `**[Adresse du TJ à compléter]**` — token non standard, devrait être uniforme |
 | Problèmes | Accents absents. Absence du formalisme "PAR CES MOTIFS". Token cassé |
 
-### III.7 — 2.7 34 — Email Maire Foix (`✉️ Courriers/✉️📝 Mairie Tavella ERP.md`)
+### III.7 — 2.7 34 — Email Maire Foix (`✉️ Courriers/✉️ Mairie Tavella ERP 📝Document.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -170,7 +170,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🔴 **Incohérent** — utilise "29 mai 2026" (date réelle, l.22) mais `**[J+0 Accident]**` ailleurs ; utilise "1er juin 2026" (l.24, l.25) au lieu de token |
 | Problèmes | Trop long pour un email. Dates réelles mélangées aux tokens. La demande (CRPA l.29) est noyée dans le récit |
 
-### III.8 — 2.8 35 — Courrier Président TJ Foix (`✉️ Courriers/✉️⚖️ TJ Foix Preuves Complementaires.md`)
+### III.8 — 2.8 35 — Courrier Président TJ Foix (`✉️ Courriers/✉️ TJ Foix Preuves Complementaires ⚖️Contentieux.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -236,25 +236,37 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 ### V.1 — 🔴 Priorité 1 — Correctifs bloquants
 
 1. **Corriger les liens relatifs dans le document 14** (`../../📜 Lois/` → `../../../📜 Lois/`)
+
 2. **Uniformiser les tokens dates dans les documents 34 et 35** — remplacer "29 mai 2026" par `**[J+0 Accident]**`
+
 3. **Corriger le token cassé dans le document 33** (l.35 : ajouter `**` autour du token `[La Ville de l'Accident]`)
+
 4. **Corriger les coquilles dans le document 13** ("délins" → "délits" ; "particularité gravité" → "particulière gravité")
+
 5. **Uniformiser le token PV** : choisir entre `**[N° PV Police]**` et `[ ... ]` et appliquer partout
 
 ### V.2 — 🟡 Priorité 2 — Améliorations recommandées
 
 6. **Ajouter une étape de ré-accentuation** dans le pipeline de tokenisation (`batch_anonymize.py`) ou dans le script de génération des versions réelles
+
 7. **Raccourcir l'email 34** : 15 lignes max, avec la demande (CRPA) dès les premières lignes
+
 8. **Alléger le courrier 19 FGTI** : déplacer la grille d'indemnisation en annexe, garder le corps sous 100 lignes
+
 9. **Ajouter "PAR CES MOTIFS"** avant la section IV du document 33
+
 10. **Supprimer la section "Transparence" du document 03** ou la fondre dans les conséquences — elle affaiblit le ton comminatoire
 
 ### V.3 — 🟢 Priorité 3 — Bonnes pratiques
 
 11. **Uniformiser les formules de politesse** dans les documents Token — actuellement "considération distinguée" varie parfois
+
 12. **Ajouter des références croisées inter-documents** dans les courriers (quand c'est pertinent)
+
 13. **Ajouter un numéro de page** dans les en-têtes des courriers LRAR longs (> 3 pages)
+
 14. **Vérifier l'existence réelle de l'article L.310-1-1-2** du Code des assurances (loi 2024-364) cité dans le document 14 CODAF
+
 15. **Documenter les tokens "ad hoc"** comme `**[Adresse du TJ à compléter]**` dans la TOKEN MAP.md
 
 ---
@@ -285,6 +297,7 @@ La qualité rédactionnelle globale est **bonne** : le style juridique est maît
 
 Les deux problèmes systémiques à traiter en priorité sont :
 1. **L'absence d'accents** dans les versions Token (dégrade la lisibilité et la crédibilité)
+
 2. **L'incohérence dans l'utilisation des tokens** (dates réelles vs tokens, format des PV, token cassé)
 
 Les corrections sont rapides (estimation : 30-45 minutes) et amélioreraient significativement la présentation des documents.

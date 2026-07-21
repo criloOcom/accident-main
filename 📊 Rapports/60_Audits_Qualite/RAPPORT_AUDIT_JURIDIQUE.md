@@ -1,11 +1,11 @@
 ---
 title: "RAPPORT D'AUDIT JURIDIQUE"
+date: FIXME
 description: "Courriers examinés** (7) :"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT JURIDIQUE*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [60_Audits_Qualite — Audits internes et qualité](./README.md) › RAPPORT AUDIT JURIDIQUE*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -71,8 +71,11 @@ type: rapport
 
 Tous les arrêts listés dans [📜 Lois/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) sont présents et vérifiables. Les arrêts clés pour l'affaire :
 - **89-18.422** (Civ. 2e, 13 fév. 1991) — Échelle qui bascule = instrument du dommage → utile pour le bac à shampoing
+
 - **91-13.580** (Civ. 2e, 25 nov. 1992) — Chose inerte, position anormale à prouver
+
 - **91-15.035** (Civ. 2e, 5 mai 1993) — Charge preuve instrument du dommage
+
 - **24-21.702** (Civ. 2e, 28 mai 2026) — Échelle instable, position anormale insuffisante → **nuance défavorable**
 
 ---
@@ -83,18 +86,20 @@ Tous les arrêts listés dans [📜 Lois/README.md](../../%E2%9A%96%EF%B8%8F%20A
 
 | Élément | Valeur |
 |---------|--------|
-| ITT déclarée | **56 jours** (= ~2 mois) |
+| ITT déclarée | **55 jours** (= ~2 mois) |
 | Seuil 222-19 CP | ITT **> 3 mois** (> 90 jours) |
 | Seuil 222-20 CP | ITT **≤ 3 mois** |
 | Qualification dans les courriers | 222-19 ET 222-20 (cumul) |
 
-**Problème** : L'article 222-19 CP exige une ITT > 3 mois. Avec 56 jours, le seuil n'est pas atteint. Le juge re-qualifiera nécessairement en 222-20 CP.
+**Problème** : L'article 222-19 CP exige une ITT > 3 mois. Avec 55 jours, le seuil n'est pas atteint. Le juge re-qualifiera nécessairement en 222-20 CP.
 
 **Risque** : Faible puisque les deux articles sont cités. Mais la référence à 222-19 est juridiquement inexacte et pourrait affaiblir la crédibilité de la constitution de partie civile.
 
 **Recommandation** :
-- Si ITT confirmée à 56 jours → **supprimer 222-19**, ne conserver que 222-20
+- Si ITT confirmée à 55 jours → **supprimer 222-19**, ne conserver que 222-20
+
 - Si extension médicale de l'ITT > 3 mois → maintenir les deux
+
 - Faire actualiser l'ITT par le médecin légiste si une prolongation est plausible
 
 ---
@@ -110,6 +115,7 @@ Tous les arrêts listés dans [📜 Lois/README.md](../../%E2%9A%96%EF%B8%8F%20A
 
 **Problème** : L'article 85 al. 2 CPP exige soit :
 - que le Procureur ait notifié son refus d'engager des poursuites, **OU**
+
 - qu'un délai de **3 mois** se soit écoulé depuis le dépôt de plainte
 
 Aucune condition n'est remplie. La constitution de partie civile est donc **prématurée** et risque une déclaration d'**irrecevabilité** par le Juge d'instruction.
@@ -118,8 +124,11 @@ Aucune condition n'est remplie. La constitution de partie civile est donc **pré
 
 **Recommandation** :
 - Attendre le **2 septembre 2026** (J+96) pour déposer la constitution PC
+
 - OU obtenir du Parquet une réponse écrite sur la suite donnée (classement sans suite / enquête)
+
 - Entre-temps : maintenir la pression par les signalements administratifs (URSSAF, CODAF, Inspection du travail)
+
 - Alternative : déposer une **plainte simple complémentaire** avec éléments nouveaux pour provoquer une réponse du Parquet
 
 ---
@@ -130,14 +139,18 @@ Aucune condition n'est remplie. La constitution de partie civile est donc **pré
 
 **Vérification Légifrance** (OpenLegi) :
 - L310-1-1-2 traite des **politiques d'engagement actionnarial** des entreprises d'assurance (investissements en actions, publication de stratégie)
+
 - Aucun rapport avec l'obligation d'assurance RC professionnelle
+
 - La loi 2024-364 est la loi de **financement de la Sécurité sociale** — sans lien avec cet article
 
 **Problème** : La référence est doublement erronée : l'article ne traite pas du sujet, et la loi citée ne le modifie pas. Cela affaiblit la crédibilité du signalement CODAF.
 
 **Recommandation** :
 - **Supprimer cette référence** du courrier CODAF
+
 - Vérifier si un texte impose effectivement une RC pro aux salons de coiffure :
+
   - Aucune obligation générale dans le Code des assurances
   - Vérifier les obligations spécifiques des **ERP** (établissements recevant du public) et les règlements sanitaires départementaux
   - À défaut de texte, se rabattre sur l'obligation **contractuelle** de garantir la sécurité des clients (obligation de sécurité, art. 1231-1 CC et L421-3 C.consommation)
@@ -150,6 +163,7 @@ Aucune condition n'est remplie. La constitution de partie civile est donc **pré
 
 **Analyse** : Les faits impliquent un **préposé** (l'employé coiffeur) agissant dans le cadre de ses fonctions, et un **défaut d'équipement** (absence d'escabeau, bac cassé). Deux régimes possibles :
 - **1242 al. 1 CC** : Responsabilité du commettant du fait de son préposé (sans faute prouvée du commettant) → **plus favorable à la victime**
+
 - **1240 CC** : Responsabilité pour faute personnelle → nécessite de prouver une faute
 
 **Recommandation** : Ajouter une référence explicite à l'**article 1242 al. 1 CC** en complément du 1240. La responsabilité du commettant dispense de prouver la faute du commettant, seul le lien de préposition doit être établi.
@@ -191,20 +205,29 @@ Transmission preuves TJ (J+44)
 
 **Forces** :
 - Stratégie multilatérale bien conçue (pénal + civil + administratif)
+
 - Constitution d'un dossier de preuves solide avant le contentieux
+
 - Anticipation du risque d'insolvabilité (FGTI)
 
 **Faiblesses** :
 - Constitution de partie civile trop précoce
+
 - Absence de démarche auprès du **bailleur** (propriétaire des locaux) — responsabilité potentielle sur le fondement des art. 1719-1720 CC
+
 - Absence de demande d'expertise médicale judiciaire (art. 263 CPC) en parallèle
+
 - Pas de saisie conservatoire des comptes (référé) malgré le risque de disparition
 
 **Actions recommandées** :
 1. Suspendre la constitution PC jusqu'à J+90 ou réponse du Parquet
+
 2. Ajouter une action contre le **bailleur** (manquement à l'obligation de délivrance d'un local sûr)
+
 3. Envisager une **saisie conservatoire** des comptes bancaires de la SAS (référé sur requête, art. L511-1 CPC exéc.)
+
 4. Demander une **expertise médicale judiciaire** (art. 263 CPC) pour consolider l'ITT
+
 5. Vérifier la possibilité de faire **désigner un mandataire ad hoc** à la SAS (art. 1844-8 CC) vu l'abandon des dirigeants
 
 ---

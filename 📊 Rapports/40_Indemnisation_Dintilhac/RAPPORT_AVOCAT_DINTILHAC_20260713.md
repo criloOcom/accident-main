@@ -14,9 +14,8 @@ statut: final
 destinataire: Dossier / Equipe Juridique
 auteur: Avis Dintilhac externe
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AVOCAT DINTILHAC 20260713*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [40_Indemnisation_Dintilhac — Indemnisation et barèmes](./README.md) › RAPPORT AVOCAT DINTILHAC 20260713*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -41,18 +40,23 @@ L'accident a nécessité une **prise en charge en urgence** et une **microchirur
 La mission confiée consiste à fournir une **évaluation indemnitaire globale** selon la **nomenclature Dintilhac**, sur la base :
 
 - des éléments médicaux disponibles (description lésionnelle, chirurgie, durée d'ITT, rééducation) ;
+
 - de la situation professionnelle de la victime (informaticien indépendant, revenu net d'environ **750 €/mois**, soit **9 000 €/an**) ;
+
 - et des éléments factuels relatifs aux activités de loisir (codage / développement informatique à titre de loisir exclusif, en plus de l'activité pro).
 
 L'avis est rendu **sous réserve** :
 
 - du rapport d'expertise médico-légale définitif (notamment fixation du DFP / IPP) ;
+
 - des décomptes exacts de la **CPAM** (IJ, frais de santé, éventuels débours) ;
+
 - et de la production de pièces complémentaires relatives à l'activité professionnelle (bilans, déclarations fiscales) et aux loisirs de codage (dépôts GitHub, attestations, etc.).
 
 Deux scénarios sont étudiés :
 
 - un **scénario prudent** avec **DFP = 10 %** ;
+
 - un **scénario médian** avec **DFP = 15 %**.
 
 ---
@@ -63,7 +67,7 @@ Deux scénarios sont étudiés :
    Revenu net annuel moyen retenu : **9 000 €** (soit 750 €/mois), correspondant au niveau d'activité d'indépendant de la victime au moment des faits.
 
 2. **Durée d'incapacité temporaire**  
-   Période d'interruption totale d'activité : **56 jours** (soit environ 2 mois) avec gêne majeure dans les actes usuels.
+   Période d'interruption totale d'activité : **55 jours** (soit environ 2 mois) avec gêne majeure dans les actes usuels.
 
 3. **Déficit fonctionnel permanent (DFP)**  
    À défaut d'un taux fixé par expertise judiciaire, deux hypothèses :
@@ -100,12 +104,15 @@ Deux scénarios sont étudiés :
 ### IV.1 — Totaux estimatifs (avant recours CPAM)
 
 - **Total patrimonial** :
+
   - Scénario prudent : ≈ **88 650 €**
   - Scénario médian : ≈ **109 650 €**
 - **Total extra-patrimonial** :
+
   - Scénario prudent : ≈ **37 400 €**
   - Scénario médian : ≈ **51 900 €**
 - **Total global** :
+
   - Scénario prudent : ≈ **126 000 €**
   - Scénario médian : ≈ **161 500 €**
 
@@ -120,7 +127,9 @@ Les premières évaluations internes tournaient autour de **85 000–90 000 €*
 L'analyse présente aboutit à une **fourchette sensiblement plus élevée**, principalement en raison :
 
 - d'une valorisation plus importante de l'**incidence professionnelle** (dévalorisation durable d'un informaticien indépendant très « main-dépendant ») ;
+
 - d'une appréciation plus marquée des **pertes de gains futurs** (PGPF) sur la durée résiduelle de carrière ;
+
 - d'une prise en compte plus structurée du **préjudice d'agrément** (codage comme loisir exclusif, et non simple prolongement de l'activité salariée).
 
 ### V.2 — 5.2 Préjudice d'agrément — codage comme loisir distinct
@@ -128,6 +137,7 @@ L'analyse présente aboutit à une **fourchette sensiblement plus élevée**, pr
 Le codage / développement informatique est ici envisagé sous un **double angle** :
 
 - en tant qu'**outil professionnel** (incident dans l'incidence professionnelle et les pertes de gains) ;
+
 - et en tant que **loisir structuré** (préjudice d'agrément), lorsque la victime code « pour elle-même », sans finalité économique, dans des projets personnels.
 
 L'indemnisation ne doit pas aboutir à une **double réparation** : l'incidence professionnelle couvre l'impact sur la capacité de travail et le revenu ; le préjudice d'agrément vise uniquement la **privation qualitative et quantitative** de l'activité de codage en tant que loisir désintéressé.
@@ -139,6 +149,7 @@ Compte tenu du caractère **central et exclusif** de ce loisir, un montant compr
 Les montants proposés pour les postes **DFP**, **SE**, **DFT** et, par ricochet, pour l'**incidence professionnelle** et le **PGPF**, doivent être affinés à la lumière :
 
 - du taux d'IPP / DFP retenu par l'UMJ ou par l'expert judiciaire ;
+
 - de la description précise des limitations fonctionnelles (force, endurance, dextérité, douleurs).
 
 L'avis présent doit donc être qualifié d'**évaluation barémique provisoire**, servant de base de travail à la discussion amiable et aux écritures judiciaires.
@@ -158,13 +169,17 @@ Au vu des éléments disponibles à la date du **13 juillet 2026**, il apparaît
 En pratique, pour un protocole transactionnel équilibré :
 
 - une **demande initiale** peut se situer autour de **165 000 €** ;  
+
 - un **point d'atterrissage transactionnel** cohérent se situe autour de **160 000 €** ;  
+
 - le **plancher absolu** en-deçà duquel il serait déconseillé de transiger se situe autour de **130 000 €**.
 
 Ces montants devront être **réajustés** en fonction :
 
 - du taux de DFP retenu par l'expert,  
+
 - des débours définitifs de la CPAM,  
+
 - et des preuves produites sur la pratique de loisir (projets de codage personnels, dépôts publics, attestations) et sur la trajectoire professionnelle (revenus avant/après accident).
 
 Fait pour servir et valoir ce que de droit.

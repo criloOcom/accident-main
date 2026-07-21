@@ -12,9 +12,8 @@ destinataire: SAS ANDISSAC
 source: drive
 drive_id: 1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260629 LR Demande ASSURANCE](./README.md) › 20260629 ✉️ LR MiseEnDemeure SAS MmeANDISSAC*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260629 LR Demande ASSURANCE](./README.md) › 20260629 ✉️ LR MiseEnDemeure SAS MmeANDISSAC*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -104,7 +103,7 @@ l'expression de mes salutations distinguées.
 Sébastien GRAZIDE
 NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de
 l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de
-travail (ITT médicale de 56 jours) et dans l'incapacité d'utiliser normalement un clavier
+travail (ITT médicale de 55 jours) et dans l'incapacité d'utiliser normalement un clavier
 d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire
 justifie la prolongation involontaire de mes démarches administratives et les délais
 d'acheminement de la présente mise en demeure.

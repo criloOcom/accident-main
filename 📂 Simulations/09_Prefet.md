@@ -5,9 +5,8 @@ type: simulation
 role: Préfet de l'Ariège
 date: 2026-07-14
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📂 Simulations](README.md) › 09_Prefet*
+*[🏠](../README.md) › [📂 Simulations — Analyses Multi-Angle du Dossier Accident Main](./README.md) › 09 Prefet*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -22,7 +21,7 @@ date: 2026-07-14
 
 Par transmission du Parquet de Foix en date du 2 juin 2026, le présent service a été saisi aux fins d'examen de la conformité de l'établissement de coiffure exploité par la SAS **[L'Exploitant du Commerce (La SAS)]**, sis 22 Rue Lafaurie, 09000 Foix, au regard de la réglementation relative aux Établissements Recevant du Public (ERP).
 
-L'accident survenu le 29 mai 2026, dans lequel **[La Victime]** a subi une grave blessure à la main droite (section tendino-nerveuse, ITT 56 jours) du fait du basculement d'une vasque en céramique cassée, interroge directement les obligations de sécurité incombant à l'exploitant d'un ERP.
+L'accident survenu le 29 mai 2026, dans lequel **[La Victime]** a subi une grave blessure à la main droite (section tendino-nerveuse, ITT 55 jours) du fait du basculement d'une vasque en céramique cassée, interroge directement les obligations de sécurité incombant à l'exploitant d'un ERP.
 
 <hr><hr>
 

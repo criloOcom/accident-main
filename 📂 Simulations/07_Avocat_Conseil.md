@@ -5,9 +5,8 @@ type: simulation
 role: Avocat Conseil
 date: 2026-07-14
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📂 Simulations](README.md) › 07_Avocat_Conseil*
+*[🏠](../README.md) › [📂 Simulations — Analyses Multi-Angle du Dossier Accident Main](./README.md) › 07 Avocat Conseil*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -79,10 +78,12 @@ Ce montant est justifié par les premières évaluations des préjudices, notamm
 L'évaluation indemnitaire, basée sur la Nomenclature Dintilhac, dépendra des conclusions de l'expertise médicale. L'avis externe Dintilhac du 13 juillet 2026 propose deux scénarios :
 
 1. **Scénario prudent (DFP 10 %) :**
+
    - Évaluation globale : environ **126 000 €** (plancher de négociation : 130 000 €).
    - Inclut une incidence professionnelle prudente (20 000 €).
 
 2. **Scénario médian (DFP 15 %) :**
+
    - Évaluation globale : environ **161 500 €** (fourchette de négociation : 160 000 € - 165 000 €).
    - Inclut une incidence professionnelle médiane (30 000 €).
 

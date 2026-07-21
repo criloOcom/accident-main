@@ -3,7 +3,6 @@ title: "💰 Finance<br>PGPA"
 description: "Token :** `**[Finance PGPA]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-finance-pgpa*
 <hr>
@@ -25,4 +24,4 @@ type: memory
 
 ## Contexte
 
-Calcul : 56 jours × (750 € / 30,44) = 1 380 €. Correspond à l'évaluation conservative Glose (juillet 2026). L'évaluation optimiste est de 1 900 € (incluant 500 € de perte de chance).
+Calcul : 55 jours × (750 € / 30,44) = 1 355 €. Correspond à l'évaluation conservative Glose (juillet 2026). L'évaluation optimiste est de 1 900 € (incluant 500 € de perte de chance).

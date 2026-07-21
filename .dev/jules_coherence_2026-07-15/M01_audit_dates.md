@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules coherence 2026-07-15 › M01 audit dates*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 01 — Audit de cohérence des dates
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

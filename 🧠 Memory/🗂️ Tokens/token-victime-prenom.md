@@ -3,9 +3,8 @@ title: "👤 Prénom de la Victime"
 description: "Token :** `**[Prénom de la Victime]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-prenom-de-la-victime*
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-victime-prenom*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -31,4 +30,4 @@ Prénom utilisé dans les documents internes (listes de tâches, notes personnel
 
 ## Source
 
-[TOKEN MAP → Personnes physiques](../TOKEN%20MAP.md#token-prenom-de-la-victime)
+TOKEN MAP → Personnes physiques

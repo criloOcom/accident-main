@@ -1,11 +1,11 @@
 ---
 title: "RAPPORT D'AUDIT — PLAN D'ACTION ET ORDONNANCEMENT"
+date: FIXME
 description: "Date :** 10 juillet 2026"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT PLAN ACTION*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [60_Audits_Qualite — Audits internes et qualité](./README.md) › RAPPORT AUDIT PLAN ACTION*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -181,7 +181,9 @@ La réalité : **aucune audience n'est fixée.** Les dates du calendrier sont de
 ### V.2 — Gap 2 — Échéance amiable calculée différemment
 
 - Plan action : mentionne J+37 (lendemain délai amiable) pour l'assignation
+
 - Calendrier EVT-15 : J+46 (14 juillet) pour l'échéance amiable
+
 - Incohérence : **J+37 ≠ J+46.** L'écart est de 9 jours. Vérifier la date exacte d'envoi des mises en demeure (29 juin → +15 jours calendaires = 14 juillet).
 
 Calcul : Mises en demeure envoyées le J+31 (29 juin). Délai amiable de 15 jours → expire le 14 juillet à minuit. L'assignation peut techniquement être délivrée dès le 15 juillet. J+37 (3 juillet) était trop optimiste.
@@ -294,10 +296,15 @@ Seule date réellement fixée et vérifiable. Le calendrier la mentionne à EVT-
 
 **Le plan d'action est :**
 - ✅ **Bien conçu** : stratégie juridique solide (Art. 145 CPC + référé-provision + action directe L.124-3)
+
 - ✅ **Correctement outillé** : tous les documents sont rédigés, vérifiés, audités
+
 - ❌ **Totalement bloqué sur l'exécution humaine** : 7 actions critiques non réalisées
+
 - ❌ **Calendrier partiellement fictif** : les audiences de juillet n'existent pas
+
 - ⚠️ **Vidéosurveillance très probablement perdue** (délai 30 jours échu)
+
 - ⚠️ **LRAR SAS NPAI probable** (salon fermé, courrier non réceptionné)
 
 ### IX.1 — Ordonnancement recommandé

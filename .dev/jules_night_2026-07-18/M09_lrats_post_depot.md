@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M09 lrats post depot*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 9 — LRARs post-dépôt : destinataires et modèles
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]
@@ -10,26 +15,39 @@ Produis un rapport `📊 Rapports/RAPPORT_LRARS_POST_DEPOT_2026-07-18.md` listan
 
 Relis dans le dossier :
 - La liste des actes concernés par l'erratum
+
 - Les courriers déjà envoyés (ou écrits comme envoyés)
+
 - Les destinataires des courriers n°41 (Préfecture/CODAF), n°42 (IT), n°43, n°44
 
 ## LISTE PROPOSÉE DES DESTINATAIRES
 
 1. **Préfecture de l'Ariège / CODAF** — erratum + courrier n°41
+
 2. **Inspection du Travail** — erratum + courrier n°42
+
 3. **Maire de Foix** — erratum + courrier existant
+
 4. **CPAM** — erratum pour correction dossier
+
 5. **Tribunal de Foix (Greffe)** — erratum pour les actes déjà transmis
+
 6. **Assureur de la SAS** (si identifié un jour) — erratum
+
 7. **Huissier mandaté** (si déjà saisi) — erratum
+
 8. **Autres ?** (URSSAF, SIE, etc.)
 
 ## POUR CHAQUE DESTINATAIRE
 
 - Adresse postale complète
+
 - Objet du courrier
+
 - Modèle de lettre (avec tokens, à personnaliser en version réelle)
+
 - Pièces à joindre
+
 - Priorité (urgent / normal)
 
 ## LIVRABLE

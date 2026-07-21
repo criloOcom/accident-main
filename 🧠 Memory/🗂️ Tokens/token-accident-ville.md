@@ -3,9 +3,8 @@ title: "📍 La Ville de l'Accident"
 description: "Token :** `**[La Ville de l'Accident]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-la-ville-de-l-accident*
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-accident-ville*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -28,7 +27,9 @@ Foix est la ville où s'est produit l'accident ([J+0 Accident](token-j-0-acciden
 ## Enjeu juridique — Compétence territoriale
 
 - **Civile** : lieu de l'infraction → TJ de Foix (art. 42 CPC).
+
 - **Pénale** : Tribunal de Police de Foix (blessures involontaires, art. 222-19/222-20 CP).
+
 - **Administratif** : base des signalements Préfecture de l'Ariège / CODAF / Inspection du travail.
 
 ## Croisements
@@ -38,9 +39,11 @@ Foix est la ville où s'est produit l'accident ([J+0 Accident](token-j-0-acciden
 ## Documents liés
 
 - [Assignation Référé J+32](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md) (compétence TJ Foix)
+
 - [Constitution Partie Civile J+38](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (compétence tribunal)
-- [Mise en demeure Maire Foix J+41](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20Maire%20Foix.md)
+
+- [Mise en demeure Maire Foix J+41](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Maire%20Foix%20%F0%9F%93%9CLettre.md)
 
 ## Source
 
-[TOKEN MAP → Données localisantes / identifiantes](../TOKEN%20MAP.md#token-la-ville-de-l-accident)
+TOKEN MAP → Données localisantes / identifiantes

@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M03 maj strategie contentieux*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 3 — Mise à jour stratégie contentieux HB BARBER
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]
@@ -9,13 +14,17 @@ Produis un rapport `📊 Rapports/RAPPORT_MAJ_STRATEGIE_CONTENTIEUX_2026-07-18.m
 ## CONTEXTE
 
 - Audience de référé fixée au **31 juillet 2026** (TJ Foix)
+
 - AJ non déposée, à déposer la semaine prochaine
+
 - Passage au commissariat de Foix prévu semaine prochaine (nouveau PV + erratum)
+
 - La SAS exploitante a un capital de 200 € — risque d'insolvabilité
 
 ## ANGLES
 
 1. **Priorisation des actions** : dans quel ordre agir la semaine prochaine ?
+
    - Dépôt AJ au BAJ
    - Dépôt requête Art. 145 CPC
    - Nouveau PV au commissariat + erratum
@@ -23,11 +32,13 @@ Produis un rapport `📊 Rapports/RAPPORT_MAJ_STRATEGIE_CONTENTIEUX_2026-07-18.m
    - Rencontre avocat (une fois désigné via AJ)
 
 2. **Stratégie pénale** : la plainte complémentaire doit-elle viser :
+
    - HB BARBER seule ?
    - HB BARBER + dirigeant à titre personnel ?
    - HB BARBER + toute personne non identifiée ayant participé à l'exploitation ?
 
 3. **Stratégie civile** : si pas d'assurance ni de fonds, faut-il :
+
    - Maintenir le référé-provision (15 000 €) pour obtenir une décision de principe ?
    - Ajouter un fondement subsidiaire CIVI/FGTI ?
 

@@ -1,12 +1,14 @@
 ---
 title: "Rapport Juge des Référés - Analyse croisée Requête 145 CPC & Conclusions 835 CPC"
+date: FIXME
 description: "Examen des demandes de la victime suite à l'accident du 29 mai 2026 : urgence, trouble manifestement illicite, provision et astreinte."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [📊 Rapports](../README.md) › [🔍 Analyse multi-angle](./README.md) › 03_Rapport_Juge_Referes.md*
+*[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](../README.md) › [Analyses Multi-Angle — 15 Missions](./README.md) › 03 Rapport Juge Referes*
+<hr>
 <!-- /Breadcrumb -->
+
 <hr>
 
 # RAPPORT D'ANALYSE : JUGE DES RÉFÉRÉS (TJ DE FOIX)
@@ -57,7 +59,7 @@ Ce montant apparaît parfaitement proportionné et justifié :
 
 - Il est en adéquation avec les préjudices corporels d'ores et déjà incontestables, médicalement constatés, incluant la section du nerf collatéral radial et du tendon fléchisseur profond, ayant nécessité une intervention chirurgicale en urgence.
 
-- Il indemnise provisoirement une Incapacité Temporaire Totale (ITT) évaluée à 56 jours.
+- Il indemnise provisoirement une Incapacité Temporaire Totale (ITT) évaluée à 55 jours.
 
 - Il prend en compte les frais médicaux avancés, la Perte de Gains Professionnels Actuels (PGPA) pour ce travailleur indépendant et les souffrances endurées.
 

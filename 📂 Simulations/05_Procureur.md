@@ -5,9 +5,8 @@ type: simulation
 role: Procureur de la République
 date: 2026-07-14
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📂 Simulations](README.md) › 05_Procureur*
+*[🏠](../README.md) › [📂 Simulations — Analyses Multi-Angle du Dossier Accident Main](./README.md) › 05 Procureur*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -17,7 +16,7 @@ date: 2026-07-14
 **Dossier :** Accident corporel – 29 mai 2026
 **Localisation :** Tribunal Judiciaire de Foix
 
-En ma qualité de Procureur de la République près le Tribunal Judiciaire de Foix, j'ai examiné la plainte pénale et les éléments factuels portés à ma connaissance concernant l'accident survenu le 29 mai 2026 impliquant **[La Victime]** au sein de l'établissement exploité par la SAS **[L'Exploitant du Commerce (La SAS)]** (capital : 200 €). L'accident résulte du basculement d'une vasque en céramique lourdement endommagée, provoquant la section partielle du tendon fléchisseur de l'index droit de la victime (ITT de 56 jours).
+En ma qualité de Procureur de la République près le Tribunal Judiciaire de Foix, j'ai examiné la plainte pénale et les éléments factuels portés à ma connaissance concernant l'accident survenu le 29 mai 2026 impliquant **[La Victime]** au sein de l'établissement exploité par la SAS **[L'Exploitant du Commerce (La SAS)]** (capital : 200 €). L'accident résulte du basculement d'une vasque en céramique lourdement endommagée, provoquant la section partielle du tendon fléchisseur de l'index droit de la victime (ITT de 55 jours).
 
 L'analyse de ce dossier conduit à examiner les qualifications pénales applicables, la stratégie d'opportunité des poursuites, ainsi que l'articulation entre la constitution de partie civile (CITC) et l'action publique.
 
@@ -29,7 +28,7 @@ L'enquête devra confirmer les responsabilités de la personne morale, **[L'Expl
 
 ### 1.1 Blessures involontaires (ITT inférieure ou égale à 3 mois)
 
-L'ITT initiale de 56 jours fixée médicalement qualifie l'infraction délictuelle.
+L'ITT initiale de 55 jours fixée médicalement qualifie l'infraction délictuelle.
 - **Fondement juridique :** [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
 
 - **Incrimination :** Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois.
@@ -69,6 +68,7 @@ En vertu du principe de l'opportunité des poursuites, le Parquet dispose de plu
 - **Réception de la plainte :** [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) — Le procureur de la République reçoit les plaintes et dénonciations et apprécie la suite à leur donner.
 
 - **Orientation (Art. 40-1 CPP) :** Au vu des faits ([Article 40-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033611483)), le Parquet peut :
+
   - Ordonner une enquête préliminaire confiée aux services de police (notamment pour entendre les dirigeants de la SAS et saisir les éventuelles vidéos via réquisitions).
   - Mettre en œuvre une procédure alternative aux poursuites.
   - Classer sans suite (improbable vu la gravité de l'ITT et le silence de la partie adverse).
@@ -97,6 +97,7 @@ L'intervention de **[La Victime]** en tant que partie civile est centrale dans c
 
 Si le Parquet tarde ou classe sans suite, la victime peut utiliser la Citation Directe (CITC).
 - **Avantages de la CITC :**
+
   - **Célérité :** Saisine immédiate du Tribunal Correctionnel sans passer par les délais d'une information judiciaire ou d'une longue enquête préliminaire.
   - **Mise en cause personnelle :** Permet d'assigner formellement **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** sur le fondement de la faute caractérisée (Art. 121-3).
   - **Déblocage des fonds FGTI/SARVI :** La fixation d'une provision pénale par le juge répressif, couplée à une condamnation pénale, ouvre les portes de la CIVI ou du SARVI en cas d'insolvabilité avérée de la SAS (capital 200 €).

@@ -11,7 +11,6 @@ tags:
 statut: brouillon
 auteur: La Victime
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › 📋 Fiche Suivi Démarches Administratives*
 <hr>
@@ -36,8 +35,11 @@ auteur: La Victime
 ## 2. Mode d'emploi
 
 - **À chaque envoi de 41 ou 42** : renseigner **Date envoi LRAR** et **N° suivi LRAR**.
+
 - **À réception de l'AR** : renseigner **AR reçu le** et calculer « + 2 mois » → **Date butoir CADA**.
+
 - **En cas de réponse** : indiquer **Réponse reçue le**, cocher le **Type de réponse** et compléter **Commentaires**.
+
 - **Si, à la Date butoir CADA, aucune réponse** : déclencher saisine CADA par le courrier n°43 (papier) ou le n°44 (formulaire en ligne).
 
 ---

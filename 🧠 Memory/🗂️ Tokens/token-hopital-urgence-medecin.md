@@ -3,9 +3,8 @@ title: "👤 Le Médecin en Urgence"
 description: "Token :** `**[Le Médecin en Urgence]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-le-medecin-en-urgence*
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-hopital-urgence-medecin*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -29,6 +28,7 @@ Médecin ayant assuré la **prise en charge d'urgence** de [La Victime](token-vi
 ## Enjeu probatoire
 
 - Le compte rendu de premiers soins établit la **matérialité et la date de la blessure** (index droit) dès le jour de l'accident — pièce de datation essentielle.
+
 - Corrobore la chaîne médicale : urgences (29/05) → chirurgie SOS Main (30/05) → suivi.
 
 ## Documents liés
@@ -37,4 +37,4 @@ Médecin ayant assuré la **prise en charge d'urgence** de [La Victime](token-vi
 
 ## Source
 
-[TOKEN MAP → Personnes physiques](../TOKEN%20MAP.md#token-le-medecin-en-urgence)
+TOKEN MAP → Personnes physiques

@@ -6,9 +6,8 @@ date: 2026-07-14
 auteur: La Victime
 statut: final
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › Présentation Stratégique*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](./README.md) › RAPPORT PRESENTATION STRATEGIQUE DOSSIER*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -18,7 +17,7 @@ statut: final
 >
 > **Victime** : [**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) — née le [**[Date de Naissance de la Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md)
 >
-> **Mise en cause** : SAS [**[L'Exploitant du Commerce (La SAS)]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — SIRET [**[SIRET]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#siret), assureur RC : [**[L'Assureur RC]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md)
+> **Mise en cause** : SAS [**[L'Exploitant du Commerce (La SAS)]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — SIRET [**[SIRET]**](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#siret), assureur RC : [**[L'Assureur RC]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md)
 <hr><hr>
 
 ## I — SYNTHÈSE FACTUELLE
@@ -32,13 +31,21 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 ### I.2 — 1.2 Lésions et parcours médical
 
 - **Lésions** : section partielle du tendon fléchisseur superficiel (FDP) et du paquet vasculo-nerveux collatéral radial de l'index de la main droite dominante
+
 - **Prise en charge** : microchirurgie d'urgence en SOS Main le 30 mai 2026 (neurolyse du nerf palmaire, suture tendineuse et nerveuse)
-- **ITT** : 56 jours (du 29 mai au 23 juillet 2026)
+
+- **ITT** : 55 jours (du 29 mai au 23 juillet 2026)
+
 - **Consolidation** : 1er mars 2027 (J+10 mois)
+
 - **DFP** : 12 % (déficit fonctionnel permanent)
+
 - **Souffrances endurées** : 4/7
+
 - **Incidence professionnelle** : majeure (informaticien indépendant, main droite dominante indispensable pour l'outil informatique, impossibilité de reprendre à l'identique)
+
 - **Préjudice esthétique** : cicatrice palmaire visible
+
 - **Préjudice d'agrément** : perte des activités manuelles et de loisir
 
 > **Pièce clé** : [Rapport d'expertise médico-légale (UMJ)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) du 12 novembre 2026
@@ -58,6 +65,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 
 **Qualifications pénales retenues** :
 - **Prudente** : Article 222-20 CP — blessures involontaires avec ITT > 3 mois (délit, 2 ans/30 000 €)
+
 - **Offensive** : Article 222-19 CP — blessures involontaires avec ITT > 3 mois par violation délibérée d'une obligation de sécurité (délit, 3 ans/45 000 €)
 
 **Points d'attention pénaux** : la cassure préexistante non signalée caractérise la conscience du danger et renforce la qualification 222-19. L'absence d'escabeau constitue la violation délibérée de l'obligation de sécurité (Articles L.4121-1 à L.4121-5, R.4323-58 C. trav.).
@@ -71,16 +79,19 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 
 **Fondements juridiques** :
 - **Principal** : Article 1242 al. 1er C. civ. — responsabilité du fait des choses (garde de la vasque et du téléviseur)
+
 - **Subsidiaire** : Article 1240 C. civ. — faute de la SAS (défaut d'entretien, absence d'escabeau, défaut de signalement de la cassure)
+
 - **Cumul** : Articles L.4121-1 à L.4121-5 C. trav. — manquement à l'obligation générale de sécurité
+
 - **Dirigeants** : Article L.225-251 C. com. — faute de gestion détachable (scénario offensif, conservé en note méthodologique)
 
 ### II.3 — 2.3 Volet assurance
 
 | Acte | Date | Statut |
 |------|------|--------|
-| [Mise en demeure victime](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC.md) | J+50 | LRAR — action directe (L.124-3 C. assur.) + rapport expertise |
-| [Mise en demeure avocat](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC%20%E2%80%94%20Avocat.md) | J+50-bis | Ton incisif, réserve pénale, réquisitoire cité |
+| [Mise en demeure victime](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20Assureur%20RC%20%F0%9F%93%9CLettre.md) | J+50 | LRAR — action directe (L.124-3 C. assur.) + rapport expertise |
+| [Mise en demeure avocat](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20Assureur%20RC%20%E2%80%94%20Avocat%20%F0%9F%93%9CLettre.md) | J+50-bis | Ton incisif, réserve pénale, réquisitoire cité |
 
 **Fondement** : Article L.124-3 du Code des assurances — action directe du tiers lésé.
 **Constat** : silence ou défaut de communication de l'assureur à ce jour. Aucune offre d'indemnisation reçue. Provision complémentaire à solliciter par voie judiciaire.
@@ -89,10 +100,10 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 
 | Acte | Date | Statut |
 |------|------|--------|
-| [Signalement Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md) | J+37 | DDETS 09 — manquements sécurité, absence DUERP, défaut présumé assurance |
-| [Signalement Préfecture/CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Prefecture.md) | J+37 | CODAF — signalement ERP + travail dissimulé présumé |
-| [Relance Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Inspection%20Travail.md) | J+47 | Mise à jour récit + expertise |
-| [Relance Préfecture CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Pr%C3%A9fecture%20CODAF.md) | J+47 | Cohérente |
+| [Signalement Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20Travail%20%F0%9F%9A%A8Signalement.md) | J+37 | DDETS 09 — manquements sécurité, absence DUERP, défaut présumé assurance |
+| [Signalement Préfecture/CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Prefecture%20%F0%9F%9A%A8Signalement.md) | J+37 | CODAF — signalement ERP + travail dissimulé présumé |
+| [Relance Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20Travail%20%F0%9F%94%84Relance.md) | J+47 | Mise à jour récit + expertise |
+| [Relance Préfecture CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Pr%C3%A9fecture%20CODAF%20%F0%9F%94%84Relance.md) | J+47 | Cohérente |
 
 **Manquements signalés** : absence d'escabeau (R.4323-58 C. trav.), équipement défectueux (vasque avec cassure préexistante), défaut de DUERP, défaut présumé d'assurance RC, travail dissimulé présumé.
 <hr><hr>
@@ -116,7 +127,7 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 |------|---------|-------|
 | Dépenses de Santé Actuelles (DSA) | **790,23 €** | SOS Main — Recours CPAM à déduire |
 | Frais Divers (DFT) | **2 031 €** | Transports, honoraires expertise |
-| Perte de Gains Professionnels Actuels (PGPA) | **1 380 €** | ITT 56 jours |
+| Perte de Gains Professionnels Actuels (PGPA) | **1 380 €** | ITT 55 jours |
 | Perte de Gains Professionnels Futurs (PGPF) | **50 000 – 70 000 €** | Fourchette expertise |
 | Incidence Professionnelle (IP) | **28 000 €** | Déclassement, perte de chance, reconversion |
 | Dépenses de Santé Futures (DSF) | **3 000 €** | Soins de rééducation |
@@ -149,17 +160,25 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 ### IV.2 — 4.2 Priorités à court terme (3 mois)
 
 1. **Rédiger et déposer les conclusions au fond civil** — en recyclant les blocs établis (récit verrouillé, responsabilité 1242/1240, Dintilhac chiffré)
+
 2. **Suivre l'information judiciaire pénale** — répondre à toute convocation, produire les pièces demandées
+
 3. **Relancer l'assureur RC** — mise en demeure réactualisée avec expertise + réquisitoire, ou assignation directe si silence persistant
+
 4. **Transmettre la présente note** à l'avocat désigné pour accélération de la prise en main
 
 ### IV.3 — 4.3 Points de vigilance
 
 - **Délais** : prescription de droit commun (5 ans, art. 2224 C. civ.) ; prescription pénale (6 ans à compter de la consolidation pour 222-19/222-20)
+
 - **Preuves vidéos** : solliciter la conservation des enregistrements de surveillance du salon
+
 - **Comportement de la SAS** : silence persistant, défaut de transmission à l'assureur, absence de DUERP communicable
+
 - **Comportement de l'assureur** : aucune offre d'indemnisation reçue à ce jour ; réserve de droits
+
 - **CPAM** : recours à déduire du quantum (créance prioritaire art. 29 L. 85-677)
+
 - **Dirigeants** : responsabilité in solidum conservée en option (scénario offensif — faute de gestion détachable L.225-251 C. com.)
 <hr><hr>
 
@@ -172,9 +191,9 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 | 3 | [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) | J+38 — TJ |
 | 4 | [Réquisitoire introductif](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) | J+47 — Parquet de Foix |
 | 5 | [Ordonnance de référé provision](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md) | J+63 — 15 000 € |
-| 6 | [MED Assureur RC](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS%20Assureur%20RC.md) | J+50 + version avocat J+50-bis |
-| 7 | [Signalement Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md) | J+37 — DDETS 09 |
-| 8 | [Signalement Préfecture/CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Prefecture.md) | J+37 — Préfecture / CODAF |
+| 6 | [MED Assureur RC](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20Assureur%20RC%20%F0%9F%93%9CLettre.md) | J+50 + version avocat J+50-bis |
+| 7 | [Signalement Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20Travail%20%F0%9F%9A%A8Signalement.md) | J+37 — DDETS 09 |
+| 8 | [Signalement Préfecture/CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Prefecture%20%F0%9F%9A%A8Signalement.md) | J+37 — Préfecture / CODAF |
 | 9 | [STRICT VARIABLES canoniques](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md) | §1 expertise — §2 historique SUPERSEDED |
 
 <hr>

@@ -1,10 +1,14 @@
 ---
 title: "Modèles d'Envoi — Version Réelle (hors Git)"
 description: "Copier-coller prêt à l'emploi — placeholders standard [NOM] — version sans tokens ni liens internes"
-type: modele
+type: fiche
 date: 2026-07-14
 statut: final
 ---
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [20_Accueil_Avocat — Kit d'accueil avocat](./README.md) › MODELE ENVOI AVOCAT REEL*
+<hr>
+<!-- /Breadcrumb -->
 
 # Option A — Avocat déjà désigné (AJ)
 
@@ -16,7 +20,7 @@ Maître,
 
 Vous avez été désigné au titre de l'aide juridictionnelle pour défendre mes intérêts dans le cadre de l'accident dont j'ai été victime le [DATE_ACCIDENT] au salon [NOM_SAS] à [VILLE].
 
-**Mécanisme** : Installée au bac à shampoing, j'ai été blessée lorsque le préposé du salon est monté sur la vasque pour régler la télévision, en l'absence de tout escabeau. La vasque, fragilisée par une cassure préexistante non signalée, a basculé sous son poids. J'ai instinctivement tendu la main droite pour le protéger ; ma paume a heurté la cassure, entraînant une section tendineuse et nerveuse (microchirurgie d'urgence SOS Main, neurolyse). ITT 56 jours, consolidation au 01/03/2027.
+**Mécanisme** : Installée au bac à shampoing, j'ai été blessée lorsque le préposé du salon est monté sur la vasque pour régler la télévision, en l'absence de tout escabeau. La vasque, fragilisée par une cassure préexistante non signalée, a basculé sous son poids. J'ai instinctivement tendu la main droite pour le protéger ; ma paume a heurté la cassure, entraînant une section tendineuse et nerveuse (microchirurgie d'urgence SOS Main, neurolyse). ITT 55 jours, consolidation au 01/03/2027.
 
 **En droit** : Responsabilité du fait des choses (art. 1242 al. 1er C. civ.) à titre principal, subsidiairement 1240 C. civ., et manquements aux obligations de sécurité du Code du travail (L.4121-1 s., R.4323-58). Une procédure pénale est en cours (plainte, constitution de partie civile, réquisitoire du Parquet de Foix — double qualification 222-19/222-20 CP).
 
@@ -24,13 +28,18 @@ Vous avez été désigné au titre de l'aide juridictionnelle pour défendre mes
 
 Je me permets de vous adresser en pièces jointes :
 - Un mémo de présentation d'une page (mécanisme, droit, chiffrage) ;
+
 - Une note de présentation stratégique du dossier (2-3 pages) ;
+
 - Un projet de conclusions au fond devant le TJ de Foix ;
+
 - Un tableau de synthèse des postes de préjudice.
 
 Concrètement, je sollicite de vous :
 - La reprise et l'adaptation des conclusions au fond ci-jointes ;
+
 - Le suivi de l'information judiciaire en cours (Parquet de Foix) ;
+
 - La mise en œuvre d'une action directe et/ou d'une négociation avec l'assureur RC [NOM_ASSUREUR], qui est resté silencieux à ce jour.
 
 Je reste à votre entière disposition pour tout complément d'information ou pour un entretien de briefing à votre convenance.
@@ -59,9 +68,13 @@ Le dossier est en état d'être plaidé au fond devant le TJ de Foix (projet de 
 
 Je joins à ma demande :
 - Le justificatif de ressources (avis d'imposition)
+
 - Un mémo de présentation du dossier (1 page)
+
 - Une note de présentation stratégique (2-3 pages)
+
 - Un projet de conclusions au fond
+
 - Le référentiel STRICT VARIABLES
 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame la Présidente, Monsieur le Bâtonnier, l'expression de ma considération distinguée.

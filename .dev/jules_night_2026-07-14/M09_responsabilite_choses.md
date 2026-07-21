@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-14 › M09 responsabilite choses*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 9 — Responsabilité du fait des choses et droit de la consommation
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

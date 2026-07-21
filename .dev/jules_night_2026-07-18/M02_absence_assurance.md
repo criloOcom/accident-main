@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M02 absence assurance*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 2 — Analyse juridique : absence d'assurance HB BARBER
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]
@@ -13,6 +18,7 @@ Produis un rapport `📊 Rapports/RAPPORT_ABSENCE_ASSURANCE_HB_BARBER_2026-07-18
 2. **Absence de déclaration de sinistre** : l'absence de transmission à l'assureur dans les 5 jours ouvrés (art. L.113-2 Code des assurances) — conséquences pour HB BARBER, pas pour la victime.
 
 3. **Action directe sans assurance** : si HB BARBER n'a pas d'assurance RC, l'action directe (art. L.124-3 Code des assurances) est impossible. Quels recours alternatifs ?
+
    - **FGTI** (Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions) : conditions d'indemnisation (art. L.422-1 Code des assurances)
    - **CIVI** (Commission d'Indemnisation des Victimes d'Infractions) : art. 706-3 CPP, conditions de recevabilité
    - **Action contre les dirigeants** à titre personnel (faute séparable)
@@ -22,6 +28,7 @@ Produis un rapport `📊 Rapports/RAPPORT_ABSENCE_ASSURANCE_HB_BARBER_2026-07-18
 5. **Sanction pénale de l'absence d'assurance** : art. L.114-1 Code des assurances (si obligation légale) — amende, interdiction d'exercice.
 
 6. **Recommandation** : faut-il :
+
    - Interroger le FGTI par courrier dès maintenant ?
    - Préparer une requête CIVI subsidiaire (CERFA n°16160*01) ?
    - Demander au tribunal de vérifier l'assurance via l'Orias ?

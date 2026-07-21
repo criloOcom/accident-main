@@ -1,13 +1,12 @@
 ---
 title: "Mémo — Stratégie bailleur DELRIEU, HB BARBER et certificat Caisse d'Épargne"
 description: "Synthèse de la stratégie amiable et contentieuse vis-à-vis du bailleur, de l'exploitant HB BARBER, et du certificat de dépôt de fonds"
-type: strategie
+type: memory
 date: 2026-07-17
 statut: preparation
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md) › Mémo Stratégie Bailleur HB BARBER*
+*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › Mémo Stratégie Bailleur HB BARBER*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -16,8 +15,11 @@ statut: preparation
 ## 1. Rôle du bailleur DELRIEU
 
 - **Propriétaire** des locaux du 22 rue / Grande Rue La Faurie, 09000 Foix.
+
 - **LRAR du 29/06/2026** : demande des coordonnées d'assurance de l'exploitant (LMG à l'époque).
+
 - **Mail du 16/07/2026** : il affirme que la SAS LES MAUVAIS GARÇONS a quitté les lieux le 10/03/2026 (état des lieux de sortie signé MOUNTASSER), et en déduit qu'elle ne peut pas être responsable de l'accident du 29/05/2026.
+
 - **Mail de relance du 17/07/2026** : Sébastien lui répond en rappelant L.124-3 du Code des assurances, en mentionnant la SAS HB BARBER, et lui demande de confirmer l'occupant au 29/05, de communiquer le bail et les coordonnées d'assurance (exploitant + bailleur).
 
 **Idée clé :** Le bailleur n'a pas une obligation automatique de répondre à la victime, mais il est **tiers détenteur de preuves** (bail, attestations d'assurance, identité de l'occupant) et pourra être visé par une mesure de communication judiciaire de pièces (art. 11, 138–142, 145 CPC) si nécessaire.
@@ -25,9 +27,13 @@ statut: preparation
 ## 2. Position de HB BARBER dans le dossier
 
 - **Nouvelle société exploitante** du salon de coiffure/barbier au 22 Grande Rue La Faurie.
+
 - **Création :** 22/04/2026 (RNE).
+
 - Au 29/05/2026 (date de l'accident), toutes les pièces convergent vers HB BARBER comme **exploitant réel** des lieux.
+
 - **Dirigeants et capital :**
+
   - Président : **Hamza BERGUIGA** (99 % du capital).
   - **Catherine SORROCHE** : DG + associée à 1 %.
   - DG commune avec l'ancienne SAS LES MAUVAIS GARÇONS.
@@ -39,21 +45,87 @@ statut: preparation
 ## 3. Certificat de dépôt de fonds Caisse d'Épargne
 
 - **Certificat du 08/04/2026** (Caisse d'Épargne Midi-Pyrénées).
+
 - Atteste du dépôt de **1 000 € de capital** pour la SAS HB BARBER, siège au 22 Rue/Grande Rue La Faurie, 09000 Foix.
+
 - **Répartition :**
+
   - 990 € : **Hamza BERGUIGA** (99 %).
   - 10 € : **Catherine SORROCHE** (1 %).
 
 **Ce que cette pièce PROUVE :**
 - Réalité du projet HB BARBER **avant** l'immatriculation RCS.
+
 - Contrôle économique quasi exclusif par BERGUIGA, avec participation financière de SORROCHE.
+
 - Lien direct entre ces deux personnes et le commerce du 22 Rue/Grande Rue La Faurie.
 
 **Utilisation stratégique :**
 - **Pas prioritaire** pour la plainte complémentaire Foix (garder en réserve).
+
 - **Pièce importante** pour un futur référé 145 ou une procédure civile :
+
   - Intitulé bordereau : *« Pièce n° X — Certificat de dépôt de fonds Caisse d'Épargne — Capital de la SAS HB BARBER (8 avril 2026) »*.
   - Attendu type pour requête : *« Attendu que la pièce n° X, certificat de dépôt de fonds délivré le 8 avril 2026 par la Caisse d'Épargne Midi-Pyrénées, atteste de la constitution de la SAS HB BARBER pour exploiter le local sis 22 rue/Grande Rue La Faurie à Foix, avec un capital de 1 000 € détenu à hauteur de 990 € par M. Hamza BERGUIGA et de 10 € par Mme Catherine SORROCHE ; qu'il en résulte que ces derniers contrôlent conjointement cette société, ce qui corrobore, avec les autres pièces du dossier, la continuité d'exploitation du salon de coiffure au sein duquel l'accident du 29 mai 2026 est survenu. »*
+
+## 4. Paiement Wero – Témoin Ayoub
+
+### 4.1 Fait de base
+Le 29/05/2026, Sébastien a effectué un paiement de 15 € via l'application Wero au bénéfice d'un compte identifié au nom d'**[Le Préposé de l'Exploitation]** (Ayoub BENNOURINE), correspondant à la prestation de coiffure reçue immédiatement avant l'accident. 
+* **Preuve** : Relevé de transaction Wero mentionnant le débit et le nom du bénéficiaire.
+
+* **Téléphone du bénéficiaire** : **[Le Téléphone du Préposé]** (+33 7 58 40 12 87).
+
+### 4.2 Rôle d'Ayoub dans le dossier
+Ayoub Bennourine est formellement qualifié comme **préposé coiffeur / encaisseur Wero présent au moment des faits**. Son identification a une double importance :
+1. **Témoignage oculaire direct** : Il est le témoin clé sur le déroulement de l'accident (sa propre escalade du bac à shampoing, le basculement du meuble, la coupure profonde, la gravité immédiate de la plaie, l'appel du SAMU/pompiers, et l'état de la vasque).
+
+2. **Lien de préposition & Commercialité** : L'encaissement du paiement Wero de 15 € pour la prestation de coiffure ancre factuellement et juridiquement le contrat de prestation de services et le lien de subordination/préposition avec la société exploitante au moment précis du sinistre.
+
+### 4.3 Limites juridiques sur Wero (PSP)
+Wero agit en tant que Prestataire de Services de Paiement (PSP). À ce titre, il est soumis au **secret bancaire et professionnel** concernant les données personnelles et KYC de ses utilisateurs (dont Ayoub Bennourine).
+* Sébastien ne peut pas exiger de Wero la communication directe de la fiche KYC complète d'Ayoub, de son adresse physique ou de son IBAN.
+
+* En revanche, ces éléments peuvent être requis judiciairement :
+
+  * Soit par les services de police/gendarmerie par voie de **réquisition judiciaire** dans le cadre de l'enquête pénale.
+  * Soit par le juge civil des référés sur le fondement des **articles 11 et 145 du CPC** (injonction de communication de pièces sous astreinte adressée à un tiers détenteur).
+
+### 4.4 Ligne de conduite (Ce que Sébastien doit demander à Wero)
+Sébastien doit formuler une demande écrite à Wero s'articulant sur deux volets distincts, sans leur demander de violer le secret professionnel :
+1. **Pour lui (RGPD - Droit d'accès)** : Obtenir la confirmation technique détaillée de sa propre transaction du 29/05/2026 (date et heure précises à la seconde, identifiants techniques internes de transaction, référence unique).
+
+2. **Pour la justice (Mesure conservatoire & Coopération)** :
+
+   * Demander expressément à Wero de **conserver l'ensemble des données** liées à cette transaction et au compte bénéficiaire associé (logs de connexion, adresse IP, type d'appareil, fiche d'identification KYC du bénéficiaire).
+   * Les informer formellement que cette transaction fait l'objet d'une enquête pénale en cours (plainte) et d'une procédure civile imminente (Requête 145 CPC).
+   * Demander qu'ils se préparent à répondre avec diligence à toute réquisition judiciaire ou policière concernant ce transfert de fonds.
+
+### 4.5 Contact direct avec Ayoub — SMS du 18 juillet 2026
+
+**Date :** 18 juillet 2026, 16h00
+**Canal :** WhatsApp
+**Destinataire :** +33 7 58 40 12 87
+**Objet :** Information du témoin + proposition d'attestation CERFA 11527*03
+
+**Texte intégral du message envoyé (Sébastien → Ayoub) :**
+> *Bonjour Ayoub,*
+> *c'est Sébastien GRAZIDE, la personne qui s'est gravement coupé la main au salon de Foix le 29 mai 2026 et qui a payé 15 € par Wero ce jour-là.*
+> *Mon accident fait l'objet d'une procédure en France (police puis justice). Vous étiez présent et avez encaissé le paiement, vous êtes donc un témoin potentiel.*
+> *En droit français, quand une personne est entendue comme témoin par la police ou par un juge, elle a l'obligation de dire la vérité. Le faux témoignage ou le fait de mentir volontairement à la justice sont des infractions pénales, quelle que soit l'origine ou la nationalité de la personne.*
+> *Pour simplifier les choses, je vous propose, si vous l'acceptez, de remplir une courte attestation de témoin (formulaire officiel "CERFA 11527*03") en indiquant uniquement ce que vous avez vu : la coupe, l'accident, l'appel au SAMU, etc.*
+> *Merci de me dire si vous acceptez de le faire. Dans tous les cas, je voulais que vous soyez informé clairement qu'en cas d'audition par la police ou la justice française, vous aurez le devoir de dire la vérité sur ce qui s'est passé.*
+
+**Pièce jointe :** Formulaire CERFA 11527*03 (attestation de témoin) au format PDF
+
+**Réponse reçue :** Aucune au 18/07/2026
+
+**Valeur probatoire :**
+- Ce SMS démontre la diligence de la victime pour recueillir le témoignage direct du coiffeur présent.
+
+- L'absence de réponse pourra être évoquée devant le juge comme un élément d'appréciation.
+
+- Capture d'écran du message envoyé et du CERFA joint (= nouvelle pièce du dossier).
 
 ## 5. Commentaires juridiques par pièce (bordereau)
 
@@ -82,7 +154,9 @@ Commentaires à produire sous chaque pièce dans un bordereau ou un dossier d'av
 ## 6. Suite procédurale (rappel)
 
 - **20/07/2026 :** plainte complémentaire au Commissariat de Foix pour corriger la plainte de Toulouse (intégrer HB BARBER comme exploitant).
+
 - **Après réception du nouveau PV Foix :**
+
   - Mettre à jour les courriers CPAM / Mairie / autres organismes.
   - Envisager, avec l'avocat, un **référé 145** pour :
     - communication du bail (LMG → HB BARBER),

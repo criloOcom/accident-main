@@ -1,11 +1,11 @@
 ---
 title: "RAPPORT D'AUDIT — Pièces Jointes (PJ) des Courriers 03 à 35"
+date: FIXME
 description: "Date :** 10 juillet 2026"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT PJ*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [60_Audits_Qualite — Audits internes et qualité](./README.md) › RAPPORT AUDIT PJ*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -131,7 +131,9 @@ La section PJ se contente de "Bordereau des pièces annexées et les 6 pièces j
 
 ### IV.3 — 4.3 Format de PV incohérent
 - 4 courriers : "PV n°2026/015967" (format complet)
+
 - 8 courriers : "PV n° [N° PV Police]" (format tokenisé)
+
 - 1 courrier (10) : "PV n° [ ... ]" (placeholder vide)
 → Le courrier 10 devrait être uniformisé avec les autres.
 
@@ -163,32 +165,39 @@ Citée au courrier 35, absente physiquement et non référencée dans PIECES MAP
 ### V.1 — Priorité Haute (risque juridique)
 
 1. **[URGENT] Ajouter section PJ aux courriers 03 → 06** (mises en demeure LRAR)
+
    - Ce sont les actes adressés aux parties adverses. Sans PJ listée, que prouve-t-on ?
    - Modèle à reprendre : courrier 12 (URSSAF)
 
 2. **[URGENT] Numériser les AR NPAI physiques**
+
    - Scanner les 4+ AR retournés (SAS, Président, Directrice, Propriétaire) → `📂 Preuves officielles/20260629_*_AR_NPAI_*.md`
    - Mettre à jour PIECES MAP.md
 
 3. **[URGENT] Commander l'extrait Kbis officiel**
+
    - Via infogreffe ou INPI (gratuit) → déposer dans `📂 Preuves officielles/`
    - SIREN 938 033 222 — SAS LES MAUVAIS GARCONS
 
 ### V.2 — Priorité Moyenne
 
 4. **Uniformiser le format PV** dans tous les courriers
+
    - Remplacer "[N° PV Police]" par "2026/015967" dans les versions réelles
    - Corriger le "[ ... ]" du courrier 10
 
 5. **Créer la Note d'audit RNE/INPI** (citée au 35)
+
    - Documenter la consultation INPI du 10 juillet 2026
 
 6. **Ajouter section PJ aux courriers 07, 08, 09, 11, 13, 15-18, 20, 21**
+
    - Même schéma : liste des documents joints ou référencés
 
 ### V.3 — Priorité Basse
 
 7. **Ajouter section PJ aux courriers 29-33**
+
    - Tout courrier adressé à une autorité administrative ou judiciaire doit lister ses PJ
 
 ---
@@ -210,12 +219,16 @@ Citée au courrier 35, absente physiquement et non référencée dans PIECES MAP
 
 **Forces :**
 - PV police n°2026/015967 parfaitement documenté et cohérent (12 occurrences)
+
 - Dossier médical complet et physiquement présent (11+ pièces)
+
 - PIECES MAP.md bien structurée
 
 **Faiblesses :**
 - **85 % des courriers sans section PJ** — risque pour la crédibilité procédurale
+
 - AR NPAI, Kbis et Note RNE absents physiquement
+
 - Incohérence mineure du format PV dans le courrier 10
 
 **Score de conformité : 6 / 10** (insuffisant)

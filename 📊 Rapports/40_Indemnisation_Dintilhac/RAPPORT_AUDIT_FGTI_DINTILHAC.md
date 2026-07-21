@@ -1,11 +1,11 @@
 ---
 title: "RAPPORT D'AUDIT FGTI / DINTILHAC"
+date: FIXME
 description: "Date :** 10 juillet 2026"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT FGTI DINTILHAC*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [40_Indemnisation_Dintilhac — Indemnisation et barèmes](./README.md) › RAPPORT AUDIT FGTI DINTILHAC*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -88,11 +88,13 @@ Le PEP (cicatrice palmaire 8,5 cm) et les SE (4/7, douleurs neuropathiques, stre
 
 Le total annoncé est **~105 000 €** — un écart de 2 500 €. Si le DEP (3 000 €) est exclu du total : 107 500 - 3 000 = 104 500 €, arrondi à ~105 000 € (acceptable mais imprécis).
 
-### III.4 — 3.4 ITT : 55 ou 56 jours ?
+### III.4 — 3.4 ITT : 55 ou 55 jours ?
 
-- Tous les documents internes mentionnent **56 jours** (29 mai → 23 juillet 2026) — confirmé par STRICT VARIABLES.md
+- Tous les documents internes mentionnent **55 jours** (29 mai → 23 juillet 2026) — confirmé par STRICT VARIABLES.md
+
 - La consigne utilisateur mentionne "ITT 55 jours à date"
-- **Conclusion :** La valeur interne (56 jours) est cohérente entre tous les documents. Le "55" de l'utilisateur est soit une date de début de mission (J-1), soit une erreur.
+
+- **Conclusion :** La valeur interne (55 jours) est cohérente entre tous les documents. Le "55" de l'utilisateur est soit une date de début de mission (J-1), soit une erreur.
 
 ### III.5 — 3.5 Incidence professionnelle — vérification
 
@@ -111,7 +113,9 @@ Le total annoncé est **~105 000 €** — un écart de 2 500 €. Si le DEP (3 
 C'est un écart considérable qui affaiblit la crédibilité de la demande s'il est opposé par le FGTI.
 
 - L'IP est le poste le plus divergent : 30 000 € (BIBAL) vs 2 250 € (Glose) — **×13**
+
 - Un dossier d'expertise médicale solide sera crucial pour justifier l'IP
+
 - Recommandation : préparer une argumentation détaillée sur la méthode BIBAL avec devis d'équipement ergonomique
 
 ---
@@ -123,7 +127,7 @@ C'est un écart considérable qui affaiblit la crédibilité de la demande s'il 
 | Condition | Statut | Preuve |
 |-----------|--------|--------|
 | Infraction pénale | ✅ | Blessures involontaires (art. 222-19 CP) |
-| ITT ≥ 1 mois | ✅ | 56 jours |
+| ITT ≥ 1 mois | ✅ | 55 jours |
 | Auteur insolvable | ✅ | Capital 200 € |
 | Victime personne physique | ✅ | OK |
 | Nationalité française | ✅ | OK |
@@ -150,21 +154,29 @@ Le FGTI applique un barème de frais pour l'ouverture et la gestion du dossier. 
 ### V.1 — 5.1 Priorité haute — corriger le courrier FGTI
 
 1. **Remplacer** la ligne erronée `Pretium doloris (PEP)` par `Préjudice Esthétique Permanent (PEP)`
+
 2. **Ajouter** l'ATP (Assistance Tierce Personne) : 2 000 €
+
 3. **Ajouter** le DFT explicitement listé (déjà présent mais à vérifier)
+
 4. **Corriger** le total additionné pour qu'il corresponde exactement à la somme des postes
+
 5. **Décider** d'un niveau d'évaluation unique (optimiste ou compromis) — recommandation : garder l'optimiste pour le FGTI (stratégie de demande) mais le documenter explicitement comme "estimation haute"
 
 ### V.2 — 5.2 Priorité moyenne — harmoniser les sources
 
 6. **Mettre à jour** STRICT VARIABLES.md pour ajouter explicitement les valeurs "compromis" pour tous les postes (comme FINANCIAL_VARIABLES_DEPRECATED.md)
+
 7. **Mettre à jour** le README du dossier 04 pour refléter les 3 niveaux d'évaluation
+
 8. **Ajouter** une mention dans le courrier FGTI précisant "estimation haute sous réserve d'expertise" pour prévenir toute contestation
 
 ### V.3 — 5.3 Points de vigilance
 
 9. **Méthode BIBAL** : préparer une note justificative détaillée (devis équipement, jurisprudence, calcul du coefficient 27,5) pour répondre à une éventuelle contestation du FGTI
+
 10. **Double compte IP/DFP** : documenter la distinction entre les deux postes dans la note stratégique
+
 11. **Plafond FGTI** : vérifier si le décret d'application du nouveau plafond FGTI (L.422-7 CA) est applicable (mentionné à 3 000 € dans STRICT VARIABLES.md)
 
 ---
@@ -177,7 +189,7 @@ Le FGTI applique un barème de frais pour l'ouverture et la gestion du dossier. 
 | Cohérence du courrier FGTI avec les études | **4/10** | Mélange d'optimiste et de compromis + erreur terminologique |
 | Justification de l'IP à 30 000 € | **7/10** | Méthode BIBAL solide mais risque de double compte DFP |
 | Justification du total ~105 000 € | **6/10** | Addition imprécise (107 500 ≠ 105 000) |
-| PGPA pour 56 jours d'ITT | **8/10** | Calcul cohérent (1 380-1 900 €) |
+| PGPA pour 55 jours d'ITT | **8/10** | Calcul cohérent (1 380-1 900 €) |
 | Conditions FGTI/CIVI | **10/10** | Toutes remplies |
 | Provision référé 15 000 € | **9/10** | Bien justifiée |
 

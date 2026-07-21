@@ -1,8 +1,13 @@
 ---
 title: "Synthèse : opérationnalité du dossier face à la loi française"
+date: 2026-07-14
 description: "Rapport exécutif faisant le point global sur l'état du dossier accident-main au 14/07/2026 et sa capacité à tenir devant la justice française (civil + pénal)."
 type: rapport
 ---
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [10_Pilotage — Pilotage opérationnel](./README.md) › RAPPORT SYNTHESE OPERATIONNALITE 2026-07-14*
+<hr>
+<!-- /Breadcrumb -->
 
 <!-- Breadcrumb -->
 
@@ -44,42 +49,52 @@ L'évaluation de la solidité du dossier se décompose en 5 dimensions, notées 
 Matrice de criticité des menaces pesant sur le succès du dossier.
 
 - **Risque 1 : Dépérissement des enregistrements de vidéosurveillance**
+
   - Probabilité : Haute | Impact : Critique
   - Correctif : Dépôt urgent (le 15/07/2026) de la requête fondée sur l'Article 145 du Code de procédure civile au Tribunal Judiciaire de Foix.
 
 - **Risque 2 : Insolvabilité de [**[L'Exploitant du Commerce (La SAS)]**] (Capital 200 €)**
+
   - Probabilité : Très Haute | Impact : Critique
   - Correctif : Action en responsabilité civile personnelle in solidum contre [**[Le Président de l'Exploitation]**] et [**[La Directrice Générale de l'Exploitation]**], et activation subsidiaire du volet pénal pour saisine de la CIVI / FGTI.
 
 - **Risque 3 : Défaut d'assurance RC Professionnelle de la SAS**
+
   - Probabilité : Moyenne | Impact : Majeur
   - Correctif : Plainte pénale (Art. L.324-2 C. assurances) et requête CIVI (Art. 706-3 CPP).
 
 - **Risque 4 : Rejet de la demande d'Aide Juridictionnelle (AJ)**
+
   - Probabilité : Basse | Impact : Bloquant
   - Correctif : Dépôt d'un dossier exhaustif justifiant l'urgence et la précarité actuelle, suivi d'un recours immédiat en cas de refus.
 
 - **Risque 5 : Dissimulation ou transfert d'actifs par les dirigeants (Création société miroir)**
+
   - Probabilité : Moyenne | Impact : Majeur
   - Correctif : Plainte pour organisation frauduleuse de l'insolvabilité et/ou escroquerie au jugement si tentative caractérisée.
 
 - **Risque 6 : Mauvaise évaluation de l'ITT par le médecin légiste (UMJ)**
+
   - Probabilité : Basse | Impact : Modéré (financier)
   - Correctif : Préparation minutieuse du dossier médical complet pour le rdv du 12/11/2026, incluant les bilans du [**[Le Médecin Généraliste]**] et [**[Le Chirurgien SOS Main]**].
 
 - **Risque 7 : Prescription de l'action civile ou pénale**
+
   - Probabilité : Nulle à court terme | Impact : Mortel
   - Correctif : Interruption de la prescription par l'assignation en référé et la constitution de partie civile, bien en amont des délais légaux (1 an contravention, 6 ans délit pénal, 10 ans dommage corporel).
 
 - **Risque 8 : Défaut de témoins directs de l'accident**
+
   - Probabilité : Moyenne | Impact : Modéré (suppléé par la vidéo)
   - Correctif : Recherche active de témoins de voisinage lors de la visite du 15/07/2026 et recueil d'attestations CERFA (Art. 202 CPC).
 
 - **Risque 9 : Rejet des preuves pour atteinte à la vie privée (vidéo)**
+
   - Probabilité : Faible | Impact : Modéré
   - Correctif : Invoquer le droit à la preuve et la proportionnalité de l'atteinte (jurisprudence Cour de cassation, Ass. Plén., 22 déc. 2023).
 
 - **Risque 10 : Lenteur administrative (Silence Mairie / IT / CODAF)**
+
   - Probabilité : Haute | Impact : Mineur (procédure pénale/civile indépendante)
   - Correctif : Relances systématiques et éventuelle saisine de la CADA après 2 mois de silence.
 
@@ -90,49 +105,64 @@ Matrice de criticité des menaces pesant sur le succès du dossier.
 Le chemin critique vers l'indemnisation complète.
 
 - **J+0 (15/07/2026) : Dépôt requête Art. 145 CPC & Demande AJ (Utilisateur)**
+
   - Dépôt physique au greffe du TJ de Foix pour sécuriser les vidéos.
   - Dépôt demande AJ totale.
 
 - **J+0 (15/07/2026) : Constat matériel des lieux (Utilisateur)**
+
   - Photos de la devanture et intérieur du 22 Rue Lafaurie.
 
 - **J+0 (15/07/2026) : Dépôt plainte pénale complémentaire (Utilisateur)**
+
   - Commissariat de Foix : mise en danger, obstruction, défaut d'assurance (réf. PV initial 2026/015967).
 
 - **J+3 : Relances administratives (IA / Utilisateur)**
+
   - Envoi des courriers validés (n°41 et n°42) à la CODAF et l'Inspection du Travail.
 
 - **J+15 (~30/07/2026) : Ordonnance sur requête 145 CPC (Tribunal)**
+
   - Autorisation de saisie des enregistrements vidéo par un Commissaire de Justice.
 
 - **J+20 (~05/08/2026) : Désignation Avocat (BAJ)**
+
   - Notification de l'avocat commis d'office.
 
 - **J+25 (~10/08/2026) : Saisie des preuves vidéos (Commissaire de justice)**
+
   - Exécution de l'ordonnance au siège de [**[L'Exploitant du Commerce (La SAS)]**].
 
 - **J+30 (~15/08/2026) : Rédaction Assignation Référé-Provision (IA / Avocat)**
+
   - Finalisation et validation de l'assignation visant 15 000 €.
 
 - **J+40 (~25/08/2026) : Signification Assignation Référé (Commissaire de justice)**
+
   - Remise de l'assignation aux codéfendeurs (SAS et dirigeants).
 
 - **J+60 (~15/09/2026) : Audience Référé-Provision (Avocat)**
+
   - Plaidoyer pour l'obtention de la provision.
 
 - **J+75 (~30/09/2026) : Ordonnance de Référé (Tribunal)**
+
   - Condamnation au paiement de la provision.
 
 - **J+90 (~15/10/2026) : Exécution forcée ou saisine CIVI (IA / Avocat)**
+
   - En cas d'insolvabilité, préparation du dossier CIVI.
 
 - **J+120 (12/11/2026) : Expertise Médicale Légale UMJ (Utilisateur / Médecin)**
+
   - Rendez-vous à l'UMJ Purpan. Évaluation des postes de préjudice (Dintilhac).
 
 - **J+150 (~12/12/2026) : Consolidation médicale (Médecin)**
+
   - Obtention du certificat de consolidation (via [**[Le Médecin Généraliste]**] ou expert).
 
 - **J+180 (~12/01/2027) : Assignation au Fond (IA / Avocat)**
+
   - Lancement de la procédure d'indemnisation complète (fourchette 126 000 € – 161 500 €).
 
 ```mermaid

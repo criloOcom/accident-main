@@ -3,9 +3,8 @@ title: "👤 La Gestionnaire CPAM"
 description: "Token :** `**[La Gestionnaire CPAM]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-la-gestionnaire-cpam*
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-cpam-gestionnaire-nom*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -29,8 +28,11 @@ Interlocutrice CPAM pour le dossier **Recours Contre Tiers (RCT) n° 31727387**,
 ## Enjeu juridique — Recours subrogatoire CPAM
 
 - ⚠ Dossier CPAM = **31727387** (jamais 31713398, obsolète — source STRICT VARIABLES).
+
 - Une **incohérence** a été détectée le 16 juin 2026 ([J+18 Incohérence CPAM](token-j-18-incoherence-cpam.md)).
+
 - La créance de la CPAM (débours santé) est transmise dans le cadre de la [Constitution de Partie Civile](token-j-38-constitution-pc.md) (transmission du recours tiers).
+
 - La gestionnaire est le point de contact pour la consolidation de cette créance avant l'évaluation finale.
 
 ## Croisements
@@ -40,8 +42,9 @@ Interlocutrice CPAM pour le dossier **Recours Contre Tiers (RCT) n° 31727387**,
 ## Documents liés
 
 - [Dossier CPAM 31727387 (attestation dépôt)](../../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)
-- [Transmission Recours Tiers CPAM J+38](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%96%EF%B8%8F%20Contentieux/%E2%9C%89%EF%B8%8F%E2%9A%96%EF%B8%8F%20CPAM%20Recours%20Tiers.md)
+
+- [Transmission Recours Tiers CPAM J+38](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A5%20CPAM/%E2%9C%89%EF%B8%8F%20CPAM%20Recours%20Tiers%20%E2%9A%96%EF%B8%8FContentieux.md)
 
 ## Source
 
-[TOKEN MAP → Personnes physiques](../TOKEN%20MAP.md#token-la-gestionnaire-cpam)
+TOKEN MAP → Personnes physiques

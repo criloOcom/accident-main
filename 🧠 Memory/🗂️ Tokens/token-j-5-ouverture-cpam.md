@@ -3,7 +3,6 @@ title: "📅 J+5 Ouverture CPAM"
 description: "Token :** `**[J+5 Ouverture CPAM]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-5-ouverture-cpam*
 <hr>
@@ -27,7 +26,9 @@ Ouverture du dossier de reconnaissance AT/MP auprès de la CPAM Haute-Garonne. [
 
 Transmission des pièces initiales par **[La Victime]** ([L'Email de la Victime](token-victime-email.md)) :
 - Certificat médical d'accident du travail
+
 - Déclaration d'accident du travail
+
 - Pièces d'identité
 
 ⚠ Le dossier 31713387 / 31713398 est obsolète — seul le **31727387** est valide (voir [J+18 Incohérence CPAM](token-j-18-incoherence-cpam.md)).
@@ -35,14 +36,19 @@ Transmission des pièces initiales par **[La Victime]** ([L'Email de la Victime]
 ## Acteurs concernés
 
 - **[La Victime]** — assuré
+
 - **[La Gestionnaire CPAM]** — gestionnaire
+
 - **CPAM Haute-Garonne** — organisme gestionnaire
 
 ## Conséquences juridiques
 
 - **Prise en charge AT/MP** par la Sécurité Sociale.
+
 - Permet le **recours subrogatoire** de la CPAM contre le responsable (transmis en [J+38 Constitution PC](token-j-38-constitution-pc.md)).
+
 - Le montant des débours CPAM sera déduit de l'indemnisation finale.
+
 - Point de départ des **indemnités journalières** (le cas échéant).
 
 ## Croisements
@@ -55,4 +61,4 @@ Transmission des pièces initiales par **[La Victime]** ([L'Email de la Victime]
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-5-ouverture-cpam)
+TOKEN MAP → Tokens événementiels (J+)

@@ -1,6 +1,6 @@
 ---
 title: "Note Responsabilité Dirigeants Dissolution"
-description: "Dans l'hypothèse où [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) procèderaient à la dissolution ou à la radiation de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) afin d'échapper aux poursuites et à l'indemnisation"
+description: "Dans l'hypothèse où Sabir MOUNTASSER et Catherine SORROCHE, dite ANDISSAC procèderaient à la dissolution ou à la radiation de SAS LES MAUVAIS GARCONS afin d'échapper aux poursuites et à l'indemnisation"
 type: analyse_juridique
 date: 2026-07-09
 tags:
@@ -15,17 +15,19 @@ auteur: L'Avocat de la Victime
 reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Responsabilite Dirigeants.md
 jx: J+41
 ---
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 📜 Note Responsabilite Dirigeants*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 📜 Note Responsabilite Dirigeants*
 <hr>
 <!-- /Breadcrumb -->
+
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+
+
 
 # NOTE JURIDIQUE <br> SUR LA RESPONSABILITÉ DES DIRIGEANTS EN CAS DE DISSOLUTION FRAUDULEUSE
 ## I — PROBLÉMATIQUE
 
-Dans l'hypothèse où [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) procèderaient à la dissolution ou à la radiation de [SAS LES MAUVAIS GARCONS](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) afin d'échapper aux poursuites et à l'indemnisation de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), leur responsabilité personnelle pourrait être engagée sur plusieurs fondements.
+Dans l'hypothèse où **[Le Président de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** procèderaient à la dissolution ou à la radiation de **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** afin d'échapper aux poursuites et à l'indemnisation de **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, leur responsabilité personnelle pourrait être engagée sur plusieurs fondements.
 
 La présente note analyse les trois voies de recours contre les dirigeants à titre personnel.
 <hr><hr>
@@ -78,7 +80,7 @@ La jurisprudence constante de la Cour de cassation (chambre commerciale, arrêt 
 | L.654-7 C.com. | Pénale | Banqueroute par personne morale | Emprisonnement + amende |
 | Faute détachable (SATI) | Civile | Faute d'une gravité exceptionnelle | Responsabilité personnelle |
 
-**Conclusion :** la disparition frauduleuse de la SAS engage à titre personnel [Sabir MOUNTASSER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md). Il est recommandé de les mettre en cause personnellement dès la phase de référé-provision et de les viser dans le signalement au Parquet.
+**Conclusion :** la disparition frauduleuse de la SAS engage à titre personnel **[Le Président de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**. Il est recommandé de les mettre en cause personnellement dès la phase de référé-provision et de les viser dans le signalement au Parquet.
 <hr><hr>
 
 ## Sources Législation

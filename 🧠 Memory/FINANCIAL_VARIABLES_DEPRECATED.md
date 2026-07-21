@@ -3,7 +3,6 @@ title: "⚠ DÉPRÉCIÉ — VARIABLES FINANCIÈRES (voir STRICT VARIABLES.md)"
 description: "Ce fichier regroupe l'ensemble des montants financiers (provisions, préjudices Dintilhac, astreintes et dépens) pour le dossier de **[La Victime]**. Ces valeurs sont la référence unique du projet pour toutes les substitutions."
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › FINANCIAL VARIABLES DEPRECATED*
 <hr>
@@ -35,11 +34,11 @@ Ces valeurs correspondent aux estimations raisonnables de réparation du préjud
 
 | Poste de préjudice (Dintilhac) | Token associé | Montant | Détails |
 | :--- | :--- | :--- | :--- |
-| **(PGPA) Pertes de gains pros actuels** | [`[Finance PGPA]`](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-pgpa.md) | **1 380 €** | Basé sur 56 jours d'ITT et 750 €/mois de CA |
+| **(PGPA) Pertes de gains pros actuels** | [`[Finance PGPA]`](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-pgpa.md) | **1 355 €** | Basé sur 55 jours d'arrêt de travail et 750 €/mois de CA |
 | **(DFP) Déficit fonctionnel permanent** | [`[Finance DFP]`](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-dfp.md) | **25 000 €** | Taux estimé à 10% avant consolidation définitive |
 | **(SE) Souffrances endurées** | [`[Finance Souffrances Endurées]`](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-souffrances-endurees.md) | **15 000 €** | Niveau évalué à 4/7 |
 | **(IP) Incidence professionnelle** | [`[Finance Incidence Professionnelle]`](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-incidence-professionnelle.md) | **30 000 €** | Dévalorisation et aménagement ergonomique |
-| **Préjudice d'Agrément** | [`[Finance Préjudice Agrément]`](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prejudice-agrement.md) | **5 000 €** | Privation de guitare et codage de loisirs |
+| **Préjudice d'Agrément** | [`[Finance Préjudice Agrément]`](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prejudice-agrement.md) | **5 000 €** | Privation du codage de loisirs |
 | **(PEP) Préjudice esthétique permanent** | [`[Finance Préjudice Esthétique]`](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-prejudice-esthetique.md) | **3 000 €** | Cicatrice palmaire visible de 8,5 cm |
 | **(DEP) Dévalorisation professionnelle** | [`[Finance Dévalorisation Pro]`](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-devalorisation-pro.md) | **3 000 €** | Perte de compétitivité sur le marché |
 | **Frais Divers / Médicaux** | [`[Finance Frais Divers]`](%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-frais-divers.md) | **3 000 €** | Déplacements, kinésithérapie, médecin-conseil |

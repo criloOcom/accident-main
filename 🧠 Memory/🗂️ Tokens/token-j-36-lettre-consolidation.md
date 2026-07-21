@@ -3,7 +3,6 @@ title: "📅 J+36 Lettre consolidation"
 description: "Token :** `**[J+36 Lettre consolidation]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-36-lettre-consolidation*
 <hr>
@@ -28,12 +27,15 @@ Cette lettre constitue une étape préparatoire à l'expertise médicale ([J+167
 ## Acteurs concernés
 
 - **[La Victime]** — demandeur
+
 - **[Le Chirurgien SOS Main]** — avis médical sollicité
 
 ## Conséquences juridiques
 
 - La date de consolidation est un **élément central** de l'évaluation du préjudice corporel.
+
 - C'est la date de référence pour le calcul du **DFP** et la distinction préjudices temporaires/permanents (passage ITT → DFP).
+
 - L'avis du chirurgien permet d'anticiper les conclusions de l'expertise UMJ et d'étayer la demande de provision.
 
 ## Croisements
@@ -46,4 +48,4 @@ Cette lettre constitue une étape préparatoire à l'expertise médicale ([J+167
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-36-lettre-consolidation)
+TOKEN MAP → Tokens événementiels (J+)

@@ -3,7 +3,6 @@ title: "📅 J+18 Incohérence CPAM"
 description: "Token :** `**[J+18 Incohérence CPAM]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-18-incoherence-cpam*
 <hr>
@@ -23,6 +22,7 @@ type: memory
 
 Détection par **[La Victime]** d'une incohérence dans le dossier CPAM :
 - Le numéro communiqué initialement (31713387 / 31713398) ne correspond pas au dossier ouvert (**31727387**)
+
 - Confusion entre plusieurs dossiers — risque de rejet de prise en charge ou de retard
 
 **[La Victime]** contacte [La Gestionnaire CPAM](token-cpam-gestionnaire-nom.md) pour clarification et régularisation.
@@ -32,12 +32,15 @@ Détection par **[La Victime]** d'une incohérence dans le dossier CPAM :
 ## Acteurs concernés
 
 - **[La Victime]** — assuré
+
 - **[La Gestionnaire CPAM]** — gestionnaire
 
 ## Conséquences juridiques
 
 - Vérification systématique du numéro de dossier dans tous les actes.
+
 - Le numéro correct (**31727387**) doit être utilisé partout — erreur d'aiguillage = risque de refus de prise en charge.
+
 - La créance CPAM (débours santé) est transmise dans la [Constitution de Partie Civile](token-j-38-constitution-pc.md) (recours tiers).
 
 ## Croisements
@@ -50,4 +53,4 @@ Détection par **[La Victime]** d'une incohérence dans le dossier CPAM :
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-18-incoherence-cpam)
+TOKEN MAP → Tokens événementiels (J+)

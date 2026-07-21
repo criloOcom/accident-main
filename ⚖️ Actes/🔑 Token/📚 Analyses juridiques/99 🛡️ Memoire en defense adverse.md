@@ -1,6 +1,6 @@
 ---
-title: "Mémoire en défense adverse — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)"
-description: "Pour :** [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (Partie Défenderesse)"
+title: "Mémoire en défense adverse — SAS **[L'Exploitant du Commerce (La SAS)]**"
+description: "Pour :** **[L'Exploitant du Commerce (La SAS)]**, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** (Partie Défenderesse)"
 type: analyse_juridique
 date: 2026-07-09
 tags:
@@ -13,19 +13,21 @@ destinataire: La Victime
 auteur: Avocat de la défense
 reel_path: ../../👤 Reel/📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md
 ---
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📚 Analyses Juridiques](./README.md) › 99 🛡️ Memoire en defense adverse*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 99 🛡️ Memoire en defense adverse*
 <hr>
 <!-- /Breadcrumb -->
 
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+
+
+
 # MÉMOIRE EN DÉFENSE ADVERSE
-**Pour :** [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (Partie Défenderesse)
-**Contre :** [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (Partie Demanderesse)
+**Pour :** **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, **[Le Président de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** (Partie Défenderesse)
+**Contre :** **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** (Partie Demanderesse)
 ## I — INTRODUCTION
 
-Le présent mémorandum est établi pour la défense des intérêts de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, assignés en référé-provision par Monsieur [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) suite à un incident survenu le [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure.
+Le présent mémorandum est établi pour la défense des intérêts de la société **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et de ses dirigeants, assignés en référé-provision par Monsieur **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** suite à un incident survenu le **[J+0 Accident](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** au sein du salon de coiffure.
 
 La partie demanderesse réclame une provision de [**[Finance Provision Référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) sur le fondement de l'article 835 alinéa 2 du Code de procédure civile, alléguant que l'obligation ne serait pas sérieusement contestable.
 
@@ -51,7 +53,7 @@ Les attestations Cerfa évoquées par la partie adverse ne sont, à ce stade, qu
 #### II.1.c — Incohérences documentaires
 Le PV de police n°[N° PV Police], sur lequel s'appuie la victime, comporte des erreurs factuelles (adresse erronée "22, RUE DE LA FAURIE").
 
-De plus, les certificats médicaux initiaux faisaient état d'une ITT de 1 jour, inexplicablement portée à 56 jours par la suite, avec des incohérences sur la date de l'accident (29/06/2026 au lieu de 29/05/2026 sur certains documents).
+De plus, les certificats médicaux initiaux faisaient état d'une ITT de 1 jour, inexplicablement portée à 55 jours par la suite, avec des incohérences sur la date de l'accident (29/06/2026 au lieu de 29/05/2026 sur certains documents).
 
 ### II.2 — La faute de la victime comme cause d'exonération
 
@@ -66,7 +68,7 @@ Cette imprudence est de nature à exonérer, au moins partiellement, la gardienn
 
 ## III — SUR LA MISE EN CAUSE ABUSIVE DES DIRIGEANTS
 
-La demanderesse tente d'engager la responsabilité personnelle in solidum de [**[Le Président de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) en invoquant une prétendue « faute détachable ».
+La demanderesse tente d'engager la responsabilité personnelle in solidum de **[Le Président de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** en invoquant une prétendue « faute détachable ».
 
 Cette argumentation est juridiquement infondée. L'écran de la personnalité morale protège les dirigeants. Pour que leur responsabilité civile personnelle soit engagée à l'égard des tiers, la Cour de cassation exige la preuve d'une faute intentionnelle d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales (Arrêt SATI).
 
@@ -74,7 +76,7 @@ Cette argumentation est juridiquement infondée. L'écran de la personnalité mo
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^3]**
 
-Un prétendu défaut de signalisation d'une vasque ébréchée, à le supposer établi, relève tout au plus d'une négligence dans l'exploitation courante du salon, imputable à la seule [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
+Un prétendu défaut de signalisation d'une vasque ébréchée, à le supposer établi, relève tout au plus d'une négligence dans l'exploitation courante du salon, imputable à la seule **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**.
 
 Il n'y a ici aucune intention de nuire ni aucune infraction pénale intentionnelle de la part des dirigeants justifiant la levée de l'immunité.
 <hr><hr>
@@ -92,7 +94,7 @@ En conséquence, la demande indemnitaire au titre du DFP (Déficit Fonctionnel P
 ### IV.2 — Contestation des postes de la nomenclature Dintilhac
 
 #### IV.2.a — Pertes de Gains Professionnels Actuels (PGPA)
-Réclamés à hauteur de 1 400 € pour 56 jours d'ITT. Une coupure tendineuse, bien que nécessitant un arrêt, ne justifie pas une paralysie totale d'une activité d'informaticien indépendant.
+Réclamés à hauteur de 1 400 € pour 55 jours d'ITT. Une coupure tendineuse, bien que nécessitant un arrêt, ne justifie pas une paralysie totale d'une activité d'informaticien indépendant.
 
 #### IV.2.b — Incidence Professionnelle (IP)
 Chiffrée à 30 000 €. Outre le fait que l'IP est un poste permanent (nécessitant la consolidation), accorder l'IP en plus des PGPA pour la même incapacité professionnelle caractérise un enrichissement sans cause et une double indemnisation interdite par la Cour de cassation.
@@ -115,7 +117,7 @@ Le juge des référés est le juge de l'évidence. En l'espèce :
 
 - L'évaluation des préjudices est prématurée (absence de consolidation) et largement surévaluée (DFP et IP infondés, Agrément sans preuve).
 
-L'obligation de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) étant sérieusement contestable, la demande de provision de [**[Finance Provision Référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) doit être rejetée en toutes ses dispositions. Tout au plus, si le juge ordonne une expertise médicale (Article 145 CPC), celle-ci devra se dérouler aux frais avancés de la demanderesse sans aucune provision financière préalable.
+L'obligation de **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** étant sérieusement contestable, la demande de provision de [**[Finance Provision Référé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) doit être rejetée en toutes ses dispositions. Tout au plus, si le juge ordonne une expertise médicale (Article 145 CPC), celle-ci devra se dérouler aux frais avancés de la demanderesse sans aucune provision financière préalable.
 
 Fait pour valoir ce que de droit.
 <hr><hr>

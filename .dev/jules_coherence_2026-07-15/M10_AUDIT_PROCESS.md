@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules coherence 2026-07-15 › M10 AUDIT PROCESS*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 10 — Audit des process (AGENTS.md vs execution)
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

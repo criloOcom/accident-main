@@ -1,10 +1,13 @@
 ---
 title: "Analyse des Implications Familiales et Protection de l'Enfance"
+date: FIXME
 description: "Rapport d'analyse sous l'angle du Juge des enfants / Juge aux affaires familiales concernant l'accident du 29 mai 2026."
 type: rapport
 ---
-
-<!-- Breadcrumb -->[🏠](../../README.md) > [📊 Rapports](../README.md) > [analyse-multi-angle](README.md)<!-- /Breadcrumb -->
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](../README.md) › [Analyses Multi-Angle — 15 Missions](./README.md) › 14 Rapport Juge Enfants*
+<hr>
+<!-- /Breadcrumb -->
 
 <hr>
 
@@ -14,7 +17,7 @@ type: rapport
 
 ## I — INTRODUCTION ET SAISINE
 
-Le présent rapport est établi dans le cadre de l'examen de la situation familiale consécutive à l'accident survenu le 29 mai 2026 impliquant **[La Victime]**. L'analyse porte spécifiquement sur les répercussions potentielles de cet accident et de ses conséquences (ITT de 56 jours, préjudices professionnels et fonctionnels) sur le cadre de vie familial, sous le prisme du Juge des enfants et du Juge aux affaires familiales.
+Le présent rapport est établi dans le cadre de l'examen de la situation familiale consécutive à l'accident survenu le 29 mai 2026 impliquant **[La Victime]**. L'analyse porte spécifiquement sur les répercussions potentielles de cet accident et de ses conséquences (ITT de 55 jours, préjudices professionnels et fonctionnels) sur le cadre de vie familial, sous le prisme du Juge des enfants et du Juge aux affaires familiales.
 
 <hr><hr>
 
@@ -28,7 +31,9 @@ L'examen approfondi du dossier et des variables strictes applicables à l'espèc
 
 L'absence de données avérées concernant la présence d'enfants ou l'état matrimonial empêche de conclure à :
 - L'existence d'une pension alimentaire versée ou perçue.
+
 - La nécessité d'une révision des modalités de garde d'enfants éventuels.
+
 - L'impact de la perte de revenus ou du déficit fonctionnel sur l'éducation et l'entretien de mineurs.
 
 <hr><hr>

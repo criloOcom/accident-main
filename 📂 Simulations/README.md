@@ -3,7 +3,6 @@ title: "📂 Simulations — Analyses Multi-Angle du Dossier Accident Main"
 description: "15 simulations professionnelles générées par Jules MCP : chaque acteur (juge, avocat, médecin, notaire, etc.) analyse le dossier depuis son prisme."
 type: navigation
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › 📂 Simulations*
 <hr>
@@ -38,7 +37,9 @@ type: navigation
 ## Conventions
 
 - Chaque fichier suit les [conventions du projet](../%F0%9F%A7%A0%20Memory/CONVENTIONS.md)
+
 - Les tokens d'anonymisation sont en **gras** (`**[Token]**`)
+
 - Les sources sont citées en liens relatifs GitHub
 
 *Généré le 14 juillet 2026 · Missions Jules MCP*

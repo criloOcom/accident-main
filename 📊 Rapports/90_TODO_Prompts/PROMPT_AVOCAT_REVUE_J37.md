@@ -11,9 +11,8 @@ tags:
   - strategie
   - audit-verrouille
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › PROMPT AVOCAT REVUE J37*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [90_TODO_Prompts — Prompts et notes de travail](./README.md) › PROMPT AVOCAT REVUE J37*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -41,10 +40,15 @@ Dans le cadre de la procédure consécutive à l'accident corporel grave dont j'
 Je vous sollicite aujourd'hui pour une **revue complète de ce batch** afin de recueillir votre avis sur :
 
 1. La **stratégie globale** : était-il opportun d'envoyer ce signalement massif et simultané, ou aurait-il mieux valu procéder de manière séquentielle ?
+
 2. Le **risque contentieux** : ces signalements pourraient-ils être retournés contre moi (dénonciation calomnieuse, abus) si les investigations ne confirment pas les infractions ?
+
 3. L'**efficacité** : quels destinataires sont réellement utiles à la procédure d'indemnisation ? Lesquels sont superflus ou contre-productifs ?
+
 4. Les **suites à donner** : faut-il relancer ? À quel rythme ? Certains nécessitent-ils un suivi particulier ?
+
 5. Les **pièces manquantes** : y a-t-il des informations ou documents que j'aurais dû joindre et qui renforceraient la crédibilité des signalements ?
+
 6. Le **calendrier** : ces signalements interfèrent-ils avec la stratégie procédurale (assignation, référé-provision) ?
 
 Je vous détaille ci-dessous chaque courrier pour vous permettre d'en prendre connaissance sans avoir à les consulter directement.
@@ -57,7 +61,7 @@ Je vous détaille ci-dessous chaque courrier pour vous permettre d'en prendre co
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️🔄 Consolidation.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Consolidation.md) (07) |
+| **Fichier** | [`✉️ Consolidation 🔔Demande.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%E2%9C%89%EF%B8%8F%20Consolidation%20%F0%9F%94%94Demande.md) (07) |
 | **Destinataire** | [Le Chirurgien SOS Main] — chirurgien SOS Main |
 | **Mode** | LRAR |
 | **Ton** | Respectueux, médical, précis |
@@ -68,15 +72,18 @@ Je vous détaille ci-dessous chaque courrier pour vous permettre d'en prendre co
 
 **Demandes formulées** :
 1. Consultation de contrôle dédiée
+
 2. Détermination si l'état est consolidé ou à quelle échéance
+
 3. Délivrance d'un certificat de consolidation mentionnant :
+
    - Date de consolidation
    - Taux de DFP (Déficit Fonctionnel Permanent)
    - Souffrances Endurées (échelle 1-7)
    - Limitations fonctionnelles permanentes
 
 **Description détaillée** :
-Le courrier rappelle le parcours médical complet : chirurgie d'urgence le J+1 (suture tendineuse 6 brins, microchirurgie nerveuse et vasculaire éthylon 9-0, neurolyse), consultation de contrôle à J+25 ayant constaté une bonne cicatrisation, prescription de kinésithérapie 3×/semaine sans travail en résistance pendant 4 semaines. Il décrit l'état actuel : kinésithérapie en cours, ITT jusqu'à J+55 (56 jours), sensibilité de l'index altérée, flexion active limitée, douleur neuropathique persistante. Le ton est médical, précis, sans émotion. La note administrative finale précise que la victime est en arrêt de travail et dans l'incapacité d'utiliser un clavier, expliquant les délais de transmission.
+Le courrier rappelle le parcours médical complet : chirurgie d'urgence le J+1 (suture tendineuse 6 brins, microchirurgie nerveuse et vasculaire éthylon 9-0, neurolyse), consultation de contrôle à J+25 ayant constaté une bonne cicatrisation, prescription de kinésithérapie 3×/semaine sans travail en résistance pendant 4 semaines. Il décrit l'état actuel : kinésithérapie en cours, ITT jusqu'à J+55 (55 jours), sensibilité de l'index altérée, flexion active limitée, douleur neuropathique persistante. Le ton est médical, précis, sans émotion. La note administrative finale précise que la victime est en arrêt de travail et dans l'incapacité d'utiliser un clavier, expliquant les délais de transmission.
 
 **Enjeu** : Le certificat de consolidation est indispensable pour l'évaluation Dintilhac et la fixation des préjudices (DFP, IP, SE). Sans lui, aucune indemnisation définitive n'est possible.
 
@@ -88,7 +95,7 @@ Le courrier rappelle le parcours médical complet : chirurgie d'urgence le J+1 (
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️🔄 Adjoint Maire Tavella.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Adjoint%20Maire%20Tavella.md) (08) |
+| **Fichier** | [`✉️ Adjoint Maire Tavella 🔄Relance.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Adjoint%20Maire%20Tavella%20%F0%9F%94%84Relance.md) (08) |
 | **Destinataire** | [L'Adjoint au Maire de la Commune] |
 | **Mode** | LRAR + email complémentaire |
 | **Ton** | Chaleureux, reconnaissant, courtois |
@@ -96,12 +103,16 @@ Le courrier rappelle le parcours médical complet : chirurgie d'urgence le J+1 (
 
 **Citations légales** :
 - CRPA Article L.311-1 (droit de communication des documents administratifs)
+
 - Mention CADA en cas de refus
 
 **Demandes formulées** :
 1. Rapport d'enquête de l'Inspection du Travail
+
 2. Conclusions du CODAF
+
 3. Tout élément transmissible par la préfecture
+
 4. Confirmation : IT menée ? CODAF saisi ? DDPP/DREETS saisis ?
 
 **Description détaillée** :
@@ -117,7 +128,7 @@ Ce courrier fait suite au message de l'adjoint au maire du 1er juin 2026, par le
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️🚨 Inspection Travail.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Inspection%20Travail.md) (09) |
+| **Fichier** | [`✉️ Inspection Travail 🚨Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20Travail%20%F0%9F%9A%A8Signalement.md) (09) |
 | **Destinataire** | DDETS de l'Ariège / DREETS Occitanie |
 | **Mode** | LRAR |
 | **Ton** | Formel, technique, juridique |
@@ -125,17 +136,26 @@ Ce courrier fait suite au message de l'adjoint au maire du 1er juin 2026, par le
 
 **Citations légales** :
 - Article L.4321-1 CT (conformité des équipements de travail)
+
 - Article R.4121-1 CT (DUERP)
+
 - Article R.4323-58 CT (travaux en hauteur)
+
 - Article L.4121-1 CT (obligation générale de sécurité)
+
 - Article L.310-1-1-2 Code des assurances (affichage RC)
+
 - Article L.311-1 CRPA (communication documents administratifs)
+
 - Article 40 CPP (transmission au parquet)
 
 **Demandes formulées** :
 1. État d'avancement de l'enquête
+
 2. Communication du rapport d'inspection
+
 3. Vérification des éléments suivants :
+
    - Équipement défectueux (bac à shampoing cassé)
    - Absence présumée de DUERP
    - Défaut présumé d'assurance RC professionnelle
@@ -154,7 +174,7 @@ Courrier le plus technique du batch. Après un rappel des faits et du contexte (
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️🚨 URSSAF.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20URSSAF.md) (12) |
+| **Fichier** | [`✉️ URSSAF 🚨Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20URSSAF%20%F0%9F%9A%A8Signalement.md) (12) |
 | **Destinataire** | URSSAF Midi-Pyrénées |
 | **Mode** | LRAR |
 | **Ton** | Accusatoire, factuel, technique |
@@ -162,15 +182,22 @@ Courrier le plus technique du batch. Après un rappel des faits et du contexte (
 
 **Citations légales** :
 - Article L.8221-5 CT (dissimulation d'emploi salarié)
+
 - Article L.8221-6 CT (présomption de salariat)
+
 - Article L.1221-10 CT (DPAE)
+
 - Article L.3243-2 CT (bulletin de paie)
+
 - Article R.4121-1 CT (DUERP)
+
 - Article L.8271-1-2 CT (compétence URSSAF)
 
 **Demandes formulées** :
 1. Vérification de la situation de [Le Préposé] (DPAE, bulletin de paie)
+
 2. Vérification des obligations déclaratives de la SAS
+
 3. Recherche d'autres irrégularités éventuelles
 
 **Description détaillée** :
@@ -184,7 +211,7 @@ Ce signalement dénonce un travail dissimulé présumé. Il s'appuie sur des él
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️🚨 CODAF.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20CODAF.md) (14) |
+| **Fichier** | [`✉️ CODAF 🚨Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20CODAF%20%F0%9F%9A%A8Signalement.md) (14) |
 | **Destinataire** | CODAF de l'Ariège (Préfecture) |
 | **Mode** | LRAR |
 | **Ton** | Technique, très structuré, exhaustif |
@@ -192,12 +219,16 @@ Ce signalement dénonce un travail dissimulé présumé. Il s'appuie sur des él
 
 **Citations légales** :
 - Article L.8221-5 CT (travail dissimulé)
+
 - Article L.310-1-1-2 Code des assurances (défaut RC)
+
 - Article R.4323-58 CT (travaux en hauteur)
+
 - Article 40 CPP (transmission au parquet)
 
 **Demandes formulées** :
 1. Enquête globale sur l'ensemble des manquements
+
 2. Transmission au parquet si infractions (Art. 40 CPP)
 
 **Description détaillée** :
@@ -213,7 +244,7 @@ Le CODAF est la structure interdépartementale de coordination anti-fraude réun
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️🚨 Prefecture.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Prefecture.md) (13) |
+| **Fichier** | [`✉️ Prefecture 🚨Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Prefecture%20%F0%9F%9A%A8Signalement.md) (13) |
 | **Destinataire** | Préfecture de l'Ariège |
 | **Mode** | LRAR |
 | **Ton** | Solennel, exhaustif, complet |
@@ -221,11 +252,14 @@ Le CODAF est la structure interdépartementale de coordination anti-fraude réun
 
 **Citations légales** :
 - Article L.124-3 Code des assurances (action directe assureur)
+
 - Article R.4323-58 CT (travaux en hauteur)
 
 **Demandes formulées** :
 1. Confirmation que le signalement du 01/06 (via mairie) a été reçu et instruit
+
 2. État d'avancement des diligences (préfecture + CODAF)
+
 3. Communication des suites réservées
 
 **Description détaillée** :
@@ -239,7 +273,7 @@ Ce courrier agit comme une « pièce maîtresse » qui confirme officiellement l
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️🚨 Conseil Departemental.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20Conseil%20Departemental.md) (16) |
+| **Fichier** | [`✉️ Conseil Departemental 🚨Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Conseil%20Departemental%20%F0%9F%9A%A8Signalement.md) (16) |
 | **Destinataire** | Conseil Départemental de l'Ariège |
 | **Mode** | LRAR |
 | **Ton** | Formel, réglementaire |
@@ -247,10 +281,12 @@ Ce courrier agit comme une « pièce maîtresse » qui confirme officiellement l
 
 **Citations légales** :
 - Code de la construction et de l'habitation, articles L.123-1 et suivants
+
 - Arrêté du 25 juin 1980 modifié (règlement sécurité ERP)
 
 **Demandes formulées** :
 1. Vérification de la conformité de l'ERP
+
 2. Mesures nécessaires pour faire cesser les situations dangereuses
 
 **Description détaillée** :
@@ -264,7 +300,7 @@ Ce signalement cible spécifiquement les non-conformités ERP. Il qualifie le sa
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️🚨 SDIS.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SDIS.md) (18) |
+| **Fichier** | [`✉️ SDIS 🚨Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SDIS%20%F0%9F%9A%A8Signalement.md) (18) |
 | **Destinataire** | SDIS de l'Ariège |
 | **Mode** | Email (simple) |
 | **Ton** | Court, factuel |
@@ -274,6 +310,7 @@ Ce signalement cible spécifiquement les non-conformités ERP. Il qualifie le sa
 
 **Demandes formulées** :
 1. Vérification de la sécurité de l'ERP (2 points)
+
 2. Information des suites réservées
 
 **Description détaillée** :
@@ -289,7 +326,7 @@ Le plus court du batch (1 page). Il signale 2 dangers : l'équipement défectueu
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️🚨 INPI.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20INPI.md) (11) |
+| **Fichier** | [`✉️ INPI 🚨Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20INPI%20%F0%9F%9A%A8Signalement.md) (11) |
 | **Destinataire** | INPI — Registre National des Entreprises |
 | **Mode** | LRAR |
 | **Ton** | Neutre, informatif |
@@ -312,7 +349,7 @@ Ce courrier demande un « flag » sur le RNE pour informer les tiers et l'admini
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️🚨 SIE.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%F0%9F%9A%A8%20SIE.md) (15) |
+| **Fichier** | [`✉️ SIE 🚨Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SIE%20%F0%9F%9A%A8Signalement.md) (15) |
 | **Destinataire** | Service des Impôts des Entreprises de [La Ville de l'Accident] |
 | **Mode** | LRAR |
 | **Ton** | Court, informatif, neutre |
@@ -336,7 +373,7 @@ Courrier très court (1 page) qui informe le SIE de l'existence du litige (monta
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`🔄 Police Videos.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20Police%20Videos.md) (20) |
+| **Fichier** | [`✉️ Police Videos 🔄Relance.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Police%20Videos%20%F0%9F%94%84Relance.md) (20) |
 | **Destinataire** | Police Nationale — Commissariat de [La Ville de l'Accident] |
 | **Mode** | Email (simple) |
 | **Ton** | Formel, procédural |
@@ -347,7 +384,9 @@ Courrier très court (1 page) qui informe le SIE de l'existence du litige (monta
 
 **Demandes formulées** :
 1. État d'avancement de l'enquête
+
 2. Réquisition des images de vidéosurveillance (Art. 56-1 CPP)
+
 3. Identité de l'OPJ en charge du dossier
 
 **Description détaillée** :
@@ -361,7 +400,7 @@ Relance suite au dépôt de plainte du 01/06 et à la constitution de partie civ
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`🔄 CPAM.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%F0%9F%94%84%20CPAM.md) (21) |
+| **Fichier** | [`✉️ CPAM 🔄Relance.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A5%20CPAM/%E2%9C%89%EF%B8%8F%20CPAM%20%F0%9F%94%84Relance.md) (21) |
 | **Destinataire** | CPAM Haute-Garonne |
 | **Mode** | Email (simple) |
 | **Ton** | Formel, procédural |
@@ -372,8 +411,11 @@ Relance suite au dépôt de plainte du 01/06 et à la constitution de partie civ
 
 **Demandes formulées** :
 1. État d'avancement du dossier RCT
+
 2. Identité du gestionnaire en charge
+
 3. Montant des débours définitifs (Art. L.376-1 CSS)
+
 4. Démarches à entreprendre
 
 **Description détaillée** :
@@ -412,25 +454,30 @@ Relance à la suite de l'ouverture du dossier RCT à J+5. Quatre demandes struct
 1. **Stratégie générale** : Ce signalement massif simultané était-il opportun ? La multiplication des destinataires renforce-t-elle la pression sur l'exploitant, ou crée-t-elle un risque de dispersion/d'incohérence ?
 
 2. **Risque pénal pour la victime** :
+
    - Les signalements pour travail dissimulé (URSSAF, CODAF) sont-ils suffisamment étayés pour écarter tout risque de dénonciation calomnieuse ?
    - Faut-il nuancer le langage (passer de « signalement » à « information aux fins de vérification ») ?
 
 3. **Impact civil** :
+
    - Ces signalements administratifs peuvent-ils être utilisés par la partie adverse pour argumenter que la victime mène une « campagne de dénigrement » ?
    - Faut-il les mentionner dans l'assignation au fond ou les garder comme éléments hors procédure ?
 
 4. **Priorisation** :
+
    - Quels destinataires sont réellement stratégiques pour l'indemnisation ?
    - Certains sont-ils superflus ou redondants (ex : SDIS par rapport au Conseil Départemental) ?
 
 5. **Erreur dans le courrier Police** : L'article 56-1 CPP cité concerne les perquisitions chez les avocats, pas les réquisitions de vidéosurveillance — faut-il le corriger/envoyer un rectificatif ?
 
 6. **Délais et calendrier** :
+
    - Ces signalements étant envoyés le 05/07, quel délai laissez-vous avant de relancer ?
    - Faut-il attendre les retours avant de déposer l'assignation en référé-provision ?
    - J+55 (date de fin d'ITT) approche — faut-il accélérer ?
 
 7. **Suites** :
+
    - Souhaitez-vous être destinataire des réponses pour les intégrer à la stratégie ?
    - Dois-je constituer un tableau de suivi des réponses avec les délais légaux de réponse ?
 
@@ -475,9 +522,13 @@ Relance à la suite de l'ouverture du dossier RCT à J+5. Quatre demandes struct
 ### IX.4 — Validation finale (avocat, 12/07/2026)
 
 - **Stratégie globale** : batch J+37 validé, aucune correction rétroactive nécessaire
+
 - **Anomalies** : 2 exclues des futurs modèles (L.310-1-1-2, 56-1 CPP), sans rectificatif
+
 - **URL** : 3 complétées, le reste correct
+
 - **Ton** : validé — signalement aux fins de vérification, bonne foi préservée
+
 - **Suites** : plan de relance/archivage validé (9 archivés, 1 consolidation, 2 surveillance)
 
 **[La Victime]**

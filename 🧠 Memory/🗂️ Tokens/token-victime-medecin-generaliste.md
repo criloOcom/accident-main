@@ -3,9 +3,8 @@ title: "👤 Le Médecin Généraliste"
 description: "Token :** `**[Le Médecin Généraliste]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-le-medecin-generaliste*
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-victime-medecin-generaliste*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -28,8 +27,10 @@ Médecin traitant de [La Victime](token-victime-nom-complet.md). A prescrit les 
 ## Point de vigilance — Erreur matérielle sur l'ITT
 
 - Le 1er juin 2026, une **ITT de 1 jour** a été initialement notée — **erreur matérielle**.
-- Elle a été **rectifiée à 56 jours** (29/05/2026 → 23/07/2026, [J+55 Fin d'ITT](token-j-55-fin-d-itt.md)) après le dépôt de plainte.
-- ⚠ Cette incohérence documentaire doit être maîtrisée : la durée réelle d'ITT retenue est **56 jours** (source : STRICT VARIABLES).
+
+- L'arrêt de travail total a été fixé à **55 jours** (29/05/2026 → 23/07/2026, [J+55 Fin d'ITT](token-j-55-fin-d-itt.md)).
+
+- ⚠ Cette incohérence documentaire doit être maîtrisée : la durée d'arrêt de travail retenue est **55 jours** (source : STRICT VARIABLES).
 
 ## Documents liés
 
@@ -37,4 +38,4 @@ Médecin traitant de [La Victime](token-victime-nom-complet.md). A prescrit les 
 
 ## Source
 
-[TOKEN MAP → Personnes physiques](../TOKEN%20MAP.md#token-le-medecin-generaliste)
+TOKEN MAP → Personnes physiques

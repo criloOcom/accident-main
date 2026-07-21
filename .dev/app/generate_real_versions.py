@@ -1,13 +1,14 @@
 import os
 import re
 import glob
+import urllib.parse
 
 REVERSE_MAP = {
     "**[La Victime]**": "Sébastien GRAZIDE",
     "**[Le Président de l'Exploitation]**": "Sabir MOUNTASSER",
     "**[Le President de l'Exploitation]**": "Sabir MOUNTASSER",
-    "**[La Directrice Générale de l'Exploitation]**": "Catherine ANDISSAC",
-    "**[La Directrice Generale de l'Exploitation]**": "Catherine ANDISSAC",
+    "**[La Directrice Générale de l'Exploitation]**": "Catherine SORROCHE, dite ANDISSAC",
+    "**[La Directrice Generale de l'Exploitation]**": "Catherine SORROCHE, dite ANDISSAC",
     "**[Le Préposé de l'Exploitation]**": "Ayoub BENNOURINE",
     "**[Le Prepose de l'Exploitation]**": "Ayoub BENNOURINE",
     "[Le Prepose de l'Exploitation]": "Ayoub BENNOURINE",
@@ -17,8 +18,8 @@ REVERSE_MAP = {
     "**[La Victime]**": "Sébastien GRAZIDE",
     "**[Le Président de l'Exploitation]**": "Sabir MOUNTASSER",
     "**[Le President de l'Exploitation]**": "Sabir MOUNTASSER",
-    "**[La Directrice Générale de l'Exploitation]**": "Catherine ANDISSAC",
-    "**[La Directrice Generale de l'Exploitation]**": "Catherine ANDISSAC",
+    "**[La Directrice Générale de l'Exploitation]**": "Catherine SORROCHE, dite ANDISSAC",
+    "**[La Directrice Generale de l'Exploitation]**": "Catherine SORROCHE, dite ANDISSAC",
     "**[Le Préposé de l'Exploitation]**": "Ayoub BENNOURINE",
     "**[Le Prepose de l'Exploitation]**": "Ayoub BENNOURINE",
     "[Le Prepose de l'Exploitation]": "Ayoub BENNOURINE",
@@ -51,11 +52,9 @@ REVERSE_MAP = {
     "**[L'Adjoint au Maire de la Commune]**": "Monsieur TAVELLA",
     "**[L'Email de l'Adjoint au Maire]**": "btavella@mairie-foix.fr",
     "**[L'Email du Secrétariat de la Mairie]**": "secretariat@mairie-foix.fr",
-
-    # New actors
-    "**[Agent PJ, dépôt de plainte]**": "Jordy RODRIGUEZ CAPARROS",
     "**[Centre de soins immédiats]**": "Centre Ariégeois de Soins Immédiats",
-    "**[SMUR local]**": "SMUR 09",
+    "**[L'Adresse du Centre de soins immédiats]**": "4 Rue du Sénateur Paul Laffont, 09000 Foix",
+    "**[Le RPPS du Médecin en Urgence]**": "10005156871",
 
     # Date tokens
     "**[J+0 Accident]**": "29 mai 2026",
@@ -93,11 +92,18 @@ REVERSE_MAP = {
     "**[Capital du Nouvel Exploitant]**": "1 000 €",
     "**[Le Nouvel Exploitant (HB BARBER)]**": "SAS HB BARBER",
     "**[Le Président du Nouvel Exploitant]**": "Hamza El Hachemi BERGUIGA",
+    "**[Adresse du Président du Nouvel Exploitant]**": "115 avenue Fernand Loubet, 09200 Saint-Girons",
+    "**[Adresse de la Directrice Générale du Nouvel Exploitant]**": "351 route Impériale, 34670 Baillargues",
     "**[N° LRAR Exploitant]**": "87001424863012T",
     "**[N° LRAR Président]**": "87001424862879J",
     "**[N° LRAR Directrice]**": "87001424721856G",
     "**[N° LRAR Propriétaire]**": "87001424862462Y",
     "**[N° LRAR Parquet]**": "87001424923505I",
+    "**[N° LRAR HB BARBER Société]**": "87500152771696F",
+    "**[N° LRAR HB BARBER Président]**": "875001528942001",
+    "**[N° LRAR HB BARBER DG]**": "875001528942010",
+    "**[N° LRAR CHIVA]**": "87500152888336B",
+    "**[N° LRAR Propriétaire Relance 3]**": "87500152910287Q",
     "**[N° Transaction Wero]**": "IPR000297029234",
     "**[N° PV Police]**": "2026/015967",
     "[N° PV Police]": "2026/015967",  # fallback for bare-bracket variants
@@ -199,7 +205,7 @@ def main():
             with open(idx_path, 'w', encoding='utf-8') as f:
                 f.write(f"# Index — {rel_path} (Versions Réelles)\n\n")
                 for fn in sorted(sub_generated):
-                    f.write(f"- [{fn}]({fn})\n")
+                    f.write(f"- [{fn}]({urllib.parse.quote(fn)})\n")
             print(f"  {idx_path}")
             generated.append((rel_path, sub_generated))
 

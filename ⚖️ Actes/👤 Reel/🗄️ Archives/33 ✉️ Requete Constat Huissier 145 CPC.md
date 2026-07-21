@@ -6,18 +6,22 @@ type: readme
 date: 2026-07-09
 tags:
 - archive
+
 - obsolet
+
 - remplace_par_03
 statut: archive
 auteur: La Victime
 reel_path: ../../👤 Reel/🗄️ Archives/33 ✉️ Requete Constat Huissier 145 CPC.md
 ---
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📦 Archives](./README.md) › 33 🗄️ Requete Constat Huissier 145 CPC*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › 33 ✉️ Requete Constat Huissier 145 CPC*
 <hr>
 <!-- /Breadcrumb -->
+
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+
+
 
 # REQUETE AU PRESIDENT DU TRIBUNAL JUDICIAIRE DE [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
@@ -52,7 +56,7 @@ Madame, Monsieur le President,
 
 Le prepose de l'exploitation, qui devait acceder a un poste de television installe en hauteur, a du monter sur un bac a shampoing en ceramique faute d'escabeau mis a disposition. En descendant, son poids a entraine le basculement de l'equipement, instable et presentant une cassure majeure preexistante non signalee sur son flanc.
 
-Par reflexe, le requerant a tendu la main droite pour proteger le coiffeur. Sa paume a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence (30 mai 2026, SOS Main, [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)) et une ITT de 56 jours.
+Par reflexe, le requerant a tendu la main droite pour proteger le coiffeur. Sa paume a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence (30 mai 2026, SOS Main, [Clinique de l'Union](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)) et un arrêt de travail total de 55 jours.
 <hr><hr>
 
 ## II — MOTIF LEGITIME (Art. 145 CPC)
@@ -95,9 +99,13 @@ Le constat d'huissier devra porter sur :
 Les procedures suivantes ont ete engagees a la date de la requete :
 
 1. Depot de plainte (1er juin 2026, PV n° [2026/015967](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md))
+
 2. Constitution de partie civile (6 juillet 2026) — chef de blessures involontaires (Art. 222-19 CP)
+
 3. Mises en demeure LRAR (29 mai 2026) — sans aucun retour des dirigeants
+
 4. Assignation en refere-provision (Art. 835 CPC) et assignation Art. 145 CPC pour communication d'assurance
+
 5. Signalements a l'Inspection du Travail, au CODAF, a l'INPI, au SIE et a l'URSSAF
 <hr><hr>
 

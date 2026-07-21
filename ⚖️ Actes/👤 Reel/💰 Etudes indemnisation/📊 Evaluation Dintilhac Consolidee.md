@@ -17,17 +17,17 @@ source: local
 jx: J+39
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [💰 Études d'Indemnisation](./README.md) › 📊 Evaluation Dintilhac Consolidee*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [💰 Études d'Indemnisation](./README.md) › 📊 Evaluation Dintilhac Consolidee*
 <hr>
 <!-- /Breadcrumb -->
 
 # ÉVALUATION DINTILHAC CONSOLIDÉE<br>11 + 12
 
-[10 Avenue de Purpan, 31700 Blagnac](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md) <br>
-[sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md) <br>
-[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
+**[L'Adresse de la Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)** <br>
+**[L'Email de la Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)** <br>
+**[La Ville de l'Accident](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le **[J+32 Assignation référé](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)**
 
-Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)
+Rédigé le **[J+32 Assignation référé](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)**
 
 <hr><hr>
 
@@ -36,27 +36,27 @@ Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%
 
 # TABLE DES MATIÈRES
 
-- [1. INTRODUCTION ET PRINCIPES GÉNÉRAUX](%231-introduction-et-principes-g%C3%A9n%C3%A9raux)
+- [1. INTRODUCTION ET PRINCIPES GÉNÉRAUX](#1-introduction-et-principes-g%C3%A9n%C3%A9raux)
 
-- [2. SYNTHÈSE DES ÉVALUATIONS](%232-synth%C3%A8se-des-%C3%A9valuations)
+- [2. SYNTHÈSE DES ÉVALUATIONS](#2-synth%C3%A8se-des-%C3%A9valuations)
 
 - [3. ANALYSE POSTE PAR POSTE](#3-analyse-poste-par-poste)
 
   - [3.1 PGPA — Pertes de Gains Professionnels Actuels](#31-pgpa--pertes-de-gains-professionnels-actuels)
 
-  - [3.2 DFT — Déficit Fonctionnel Temporaire](%2332-dft--d%C3%A9ficit-fonctionnel-temporaire)
+  - [3.2 DFT — Déficit Fonctionnel Temporaire](#32-dft--d%C3%A9ficit-fonctionnel-temporaire)
 
-  - [3.3 DFP — Déficit Fonctionnel Permanent](%2333-dfp--d%C3%A9ficit-fonctionnel-permanent)
+  - [3.3 DFP — Déficit Fonctionnel Permanent](#33-dfp--d%C3%A9ficit-fonctionnel-permanent)
 
-  - [3.4 SE — Souffrances Endurées](%2334-se--souffrances-endur%C3%A9es)
+  - [3.4 SE — Souffrances Endurées](#34-se--souffrances-endur%C3%A9es)
 
   - [3.5 IP — Incidence Professionnelle](#35-ip--incidence-professionnelle)
 
-  - [3.6 Préjudice d'Agrément](%2336-pr%C3%A9judice-dagr%C3%A9ment)
+  - [3.6 Préjudice d'Agrément](#36-pr%C3%A9judice-dagr%C3%A9ment)
 
-  - [3.7 PEP — Préjudice Esthétique Permanent](%2337-pep--pr%C3%A9judice-esth%C3%A9tique-permanent)
+  - [3.7 PEP — Préjudice Esthétique Permanent](#37-pep--pr%C3%A9judice-esth%C3%A9tique-permanent)
 
-   - [3.8 DEP — Dévalorisation Professionnelle Future](%2338-dep--d%C3%A9valorisation-professionnelle-future)
+   - [3.8 DEP — Dévalorisation Professionnelle Future](#38-dep--d%C3%A9valorisation-professionnelle-future)
 
    - [3.9 ATP — Assistance par Tierce Personne](#39-atp--assistance-par-tierce-personne)
 
@@ -64,18 +64,18 @@ Rédigé le [30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%
 
    - [3.11 Article 700 CPC](#311-article-700-cpc)
 
-- [4. STRATÉGIE DE RECOUVREMENT](%234-strat%C3%A9gie-de-recouvrement)
+- [4. STRATÉGIE DE RECOUVREMENT](#4-strat%C3%A9gie-de-recouvrement)
 
-- [5. DEMANDE DE PROVISION EN RÉFÉRÉ](%235-demande-de-provision-en-r%C3%A9f%C3%A9r%C3%A9)
+- [5. DEMANDE DE PROVISION EN RÉFÉRÉ](#5-demande-de-provision-en-r%C3%A9f%C3%A9r%C3%A9)
 
 <hr><hr>
 
 # 1. INTRODUCTION ET PRINCIPES GÉNÉRAUX
 ## I — I.1 — FAITS DU SINISTRE
 
-La présente évaluation a pour objet d'évaluer l'intégralité des préjudices corporels subis par [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à la suite de l'accident du [29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — au cours duquel, alors que l'employé [Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : 07 58 40 12 87)(../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit.
+La présente évaluation a pour objet d'évaluer l'intégralité des préjudices corporels subis par **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** à la suite de l'accident du **[J+0 Accident](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** — au cours duquel, alors que l'employé **[Le Préposé de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (tél. [07 58 40 12 87](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
-[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) est travailleur indépendant inscrit sous le numéro [500 474 457](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md), exerçant la profession d'informaticien droitier et guitariste. Les déclarations URSSAF attestent de recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
+**[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** est travailleur indépendant inscrit sous le numéro **[L'Identifiant Professionnel de la Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)**, exerçant la profession d'informaticien droitier. Les déclarations URSSAF attestent de recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
 <hr><hr>
 
 ## II — I.2 — PRINCIPE DE LA RÉPARATION INTÉGRALE
@@ -95,13 +95,13 @@ Ce principe exige que la victime soit replacée dans la situation exacte où ell
 
 L'évaluation initiale du dossier s'établissait à [59 600 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-evaluation-initiale.md). Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**, pour cinq raisons principales :
 
-1. **DFT** non chiffré (56 jours × 25-30 €/jour = 1 400-1 680 €)
+1. **DFT** non chiffré (55 jours × 25-30 €/jour = 1 375-1 650 €)
 
 2. **Souffrances Endurées à 12 000 €** en dessous du Mornet 2024 (15 000 € minimum pour 4/7)
 
 3. **Incidence Professionnelle à 15 000 €** trop basse pour un informaticien droitier avec perte de dextérité de la main dominante
 
-4. **Préjudice d'Agrément à 3 000 €** faible pour un guitariste
+4. **Préjudice d'Agrément à 3 000 €** faible pour le développement informatique
 
 5. **DFP à 2 100 €/point** en bas de fourchette (Mornet : 2 140-3 070 €/point pour 11-20%)
 
@@ -116,8 +116,8 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 | Poste | Notre estimation (optimiste) | Glose (conservatif) | Critique Glose | **Compromis final retenu** |
 |---|---|---|---|---|
-| PGPA | 1 900 € | 1 380 € | 1 380 € | **1 380 €** |
-| DFT | 1 400 € | *(inclus)* | *(inclus)* | **1 400 €** |
+| PGPA | 1 900 € | 1 355 € | 1 355 € | **1 355 €** |
+| DFT | 1 375 € | *(inclus)* | *(inclus)* | **1 375 €** |
 | DFP | 31 200 € (12%) | 25 000 € (8%) | 18 000-45 000 € (10-12%) | **25 000 €** |
 | Souffrances Endurées | 24 000 € | 8 500 € | 15 000-24 000 € | **15 000 €** |
 | Incidence Professionnelle | 30 000 € | 2 250 € | 10 000-30 000 € | **30 000 €** |
@@ -134,8 +134,8 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 | Poste | Fourchette basse | Fourchette haute | Médiane retenue |
 |---|---|---|---|
-| PGPA | 1 380 € | 2 400 € | 1 380 € |
-| DFT | 1 400 € | 1 680 € | 1 400 € |
+| PGPA | 1 355 € | 2 400 € | 1 355 € |
+| DFT | 1 375 € | 1 650 € | 1 375 € |
 | DFP | 25 000 € | 36 840 € | 25 000 € |
 | Souffrances Endurées | 15 000 € | 30 000 € | 15 000 € |
 | Incidence Professionnelle | 20 000 € | 40 000 € | 30 000 € |
@@ -159,17 +159,17 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 **Définition :** Indemnise la perte de revenus durant l'incapacité temporaire totale (ITT).
 
 **Calcul technique :**
-- ITT : 56 jours (du 29 mai au [23 juillet 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md))
+- ITT : 55 jours (du 29 mai au **[J+55 Fin d'ITT](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md)**)
 
-- CA mensuel : 750 € → 750 / 30 × 56 = **1 400 €** (prorata)
+- CA mensuel : 750 € → 750 / 30 × 55 = **1 375 €** (prorata)
 
-- Formule Glose plus précise : 56 / 30,44 × 750 = **1 380 €**
+- Formule Glose plus précise : 55 / 30,44 × 750 = **1 355 €**
 
 **Vérification :** Pour un indépendant, les IJ CPAM sont calculées sur le revenu annuel moyen des 3 dernières années (1/720e × 50 %). Sous réserve du relevé de débours CPAM.
 
-**Perte de chance complémentaire :** Impossibilité de prospecter pendant 56 jours peut porter ce poste de 1 380 à 1 900 €.
+**Perte de chance complémentaire :** Impossibilité de prospecter pendant 55 jours peut porter ce poste de 1 355 à 1 900 €.
 
-**Compromis retenu : 1 380 €** (formule Glose, arithmétiquement plus précise)
+**Compromis retenu : 1 355 €** (formule Glose, arithmétiquement plus précise)
 
 **Sources :**
 - Nomenclature Dintilhac
@@ -187,9 +187,9 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 **Définition :** Indemnise la perte de qualité de vie pendant la période traumatique (accident → consolidation). Ce poste avait été omis dans le dossier initial.
 
-**Calcul technique :** 56 jours × 25-30 €/jour = **1 400 € (bas)** à **1 680 € (haut)**
+**Calcul technique :** 55 jours × 25-30 €/jour = **1 375 € (bas)** à **1 650 € (haut)**
 
-**Compromis retenu : 1 400 €**
+**Compromis retenu : 1 375 €**
 
 **Source :** Référentiel Mornet 2024, fourchette DFT : 26-30 €/jour
 <hr><hr>
@@ -245,7 +245,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 - Stress post-traumatique
 
-- ITT 56 jours
+- ITT 55 jours
 
 **Analyse des écarts :** Notre estimation initiale (24 000 €) se situe dans la fourchette haute du Mornet 2024. Glose propose 5 000-12 000 €, fourchette très basse. La critique Glose valide notre fourchette à 15 000-24 000 €.
 
@@ -254,7 +254,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 **Sources :**
 - Référentiel Mornet 2024-2026 : 4/7 = 15 000 à 30 000 €
 
-- CA de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md), 11 octobre 2022, RG n° 21/03743
+- CA de **[La Métropole Régionale](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)**, 11 octobre 2022, RG n° 21/03743
 
 - JMP Avocat, référentiel Mornet 2026 : 4/7 = 20 000 à 35 000 €
 <hr><hr>
@@ -273,9 +273,13 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 
 **Éléments couverts :**
 1. Dévalorisation sur le marché du travail (informaticien droitier avec séquelles index)
+
 2. Obligation d'adaptation ergonomique (souris verticale, logiciel dictée vocale, clavier ergonomique : ~1 000-3 200 €)
-3. Perte de clientèle (indépendant : 56 jours sans prospection)
+
+3. Perte de clientèle (indépendant : 55 jours sans prospection)
+
 4. Pénibilité accrue (travail plus lent, douleurs neuropathiques)
+
 5. Perte de droits à la retraite
 
 **Analyse des écarts :** Glose calcule l'IP comme une perte temporaire sur 12 mois (750 € × 25% × 12 = 2 250 €), tandis que la méthode BIBAL capitalise sur la durée de vie professionnelle restante. La méthode BIBAL est plus conforme à la jurisprudence récente, notamment Cass. 2e civ., 2 avril 2026, n° 24-20.972 sur l'évaluation de la perte de gains professionnels futurs (victime devant être replacée dans un emploi équivalent). Notre estimation (30 000 €) est plus proche de la pratique judiciaire pour un indépendant avec séquelles de la main dominante.
@@ -306,16 +310,16 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 
 > Note : Pédagogique : Le préjudice d'Agrément indemnise la perte ou la diminution des plaisirs et occupations de la victime (loisirs, activités sportives, culturelles, personnelles). La jurisprudence exige seulement une limitation de la pratique, pas une impossibilité totale.]*
 
-**Définition :** Répare l'impossibilité ou la limitation de pratiquer des loisirs (guitare, projets personnels de codage, développement personnel).
+**Définition :** Répare l'impossibilité ou la limitation de pratiquer des loisirs (projets personnels de codage, développement personnel).
 
 **Justification :**
-- Guitare : impossibilité de flexion de l'index = impossibilité de jouer accords et arpèges
+- Codage : impossibilité de flexion de l'index = limitation sévère de la frappe et de l'utilisation d'outils de développement
 
 - Pronostic neurologique souvent partiel
 
-- Autres activités : développement personnel, gaming, bricolage
+- Autres activités : développement personnel, gaming
 
-**Proposition : 5 000 €** (guitare 3 000 € + autres agréments 2 000 €)
+**Proposition : 5 000 €** (codage 3 000 € + autres agréments 2 000 €)
 
 **Analyse des écarts :** Notre estimation initiale (8 000 €) était élevée. Glose propose 3 500 € (fourchette 2 000-5 000 €). La jurisprudence admet la limitation suffisante (Cass. 2e civ., 29 mars 2018, n° 17-14.499).
 
@@ -332,7 +336,7 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 > **Cour de cassation, 2e chambre civile, 29 mars 2018, n° 17-14.499[^8]**
 
 > *« La Cour de cassation confirme que la limitation de la pratique d'une activité de loisir suffit à caractériser le préjudice d'agrément. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049857400) <br>
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044105739) <br>
 > **Cour de cassation, 1re chambre civile, 26 juin 2024, n° 23-15.345[^9]**
 <hr><hr>
 
@@ -365,7 +369,7 @@ Ce poste avait été omis dans le dossier initial.
 **Définition :** Besoin d'aide pour les tâches domestiques et les actes de la vie quotidienne durant la période post-opératoire (courses, ménage, préparation des repas, transport).
 
 **Calcul technique :**
-- Période : 56 jours d'ITT avec incapacité fonctionnelle de la main droite dominante
+- Période : 55 jours d'ITT avec incapacité fonctionnelle de la main droite dominante
 
 - Taux horaire : 12-15 €/h (tarif moyen aide à domicile non médicalisée)
 
@@ -418,9 +422,13 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Méthode pour identifier l'assureur :**
 1. Consultation RNE/INPI (déjà fait)
-2. Saisine greffe TC de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) pour coordonnées assurance
+
+2. Saisine greffe TC de **[La Ville de l'Accident](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** pour coordonnées assurance
+
 3. Interrogation ORIAS
+
 4. Questionnement dirigeants sous astreinte
+
 5. Assignation [art. 145 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^14] si refus persistant
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
@@ -438,7 +446,9 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Fondements potentiels :**
 1. Absence d'assurance RC (si inexistante) → faute de gestion
+
 2. Maintien équipement dangereux → faute personnelle
+
 3. Dissolution frauduleuse → abus de biens sociaux / banqueroute
 
 > *« Les dispositions de la présente section sont applicables : 1° A toute personne exerçant une activité commerciale ou artisanale, à tout agriculteur et à toute personne physique exerçant une activité professionnelle indépendante, y compris une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé ; 2° A toute personne qui a, directement ou indirectement, en droit ou en fait, dirigé ou liquidé une personne morale de droit privé ; 3° Aux personnes physiques représentants permanents de personnes morales dirigeants des personnes morales définies au 2° ci-dessus. »* <br>
@@ -457,11 +467,16 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 > **Code de procédure pénale > Partie législative > Livre IV : De quelques procédures particulières > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction.[^17]**
 
 **Conditions cumulatives :**
-1. Infraction pénale caractérisée → blessures involontaires (art. 222-19 CP) — ITT 56 jours
-2. Seuil CIVI : ITT ≥ 1 mois → **largement dépassé** (56 jours)
+1. Infraction pénale caractérisée → blessures involontaires (art. 222-20 CP) — ITT pénale 1 jour, [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 55 jours
+
+2. Seuil CIVI : ITT ≥ 1 mois → **largement dépassé** (55 jours)
+
 3. Auteur insolvable — condition remplie (capital 200 €)
+
 4. Victime personne physique → OK
+
 5. Nationalité française → OK
+
 6. Exclusion → hors Badinter, hors ONIAM → dans le champ
 
 > *« Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. »* <br>
@@ -471,7 +486,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 **Procédure :**
 - Délai : 3 ans à compter de l'infraction (29 mai 2029)
 
-- Compétence : CIVI du TJ de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) (domicile) ou de [Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) (lieu infraction)
+- Compétence : CIVI du TJ de **[La Métropole Régionale](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)** (domicile) ou de **[La Ville de l'Accident](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** (lieu infraction)
 
 - Requête écrite au greffe de la CIVI avec tous justificatifs
 
@@ -522,31 +537,41 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 ### XXIII.1 — Phase 1 — Urgence (été 2026)
 
 1. Relancer enquête pénale pour identifier assureur RC
+
 2. Préparer dossier expertise 12 novembre 2026
+
 3. Conserver tous justificatifs
 
 ### XXIII.2 — Phase 2 — Référé (avant expertise)
 
 4. Assigner SAS + dirigeants en référé-provision (15 000 €)
+
 5. Demander communication contrats d'assurance
 
 ### XXIII.3 — Phase 3 — Post-expertise (nov. 2026 - janv. 2027)
 
 6. Réception rapport expertise
+
 7. Chiffrage définitif des préjudices
+
 8. Négociation amiable avec assureur (si identifié)
+
 9. Assignation au fond
 
 ### XXIII.4 — Phase 4 — Si insolvabilité confirmée (début 2027)
 
-10. Saisine CIVI du TJ de [Toulouse](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)
+10. Saisine CIVI du TJ de **[La Métropole Régionale](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)**
+
 11. Demande indemnisation FGTI (réparation intégrale)
+
 12. Constitution partie civile
 
 ### XXIII.5 — Phase 5 — Substitution (mi 2027)
 
 13. Le FGTI indemnise la victime
+
 14. Le FGTI exerce recours subrogatoire
+
 15. Le SARVI intervient si condamnation pénale non exécutée
 
 <hr><hr>
@@ -561,7 +586,7 @@ Trois évaluations convergent vers une provision minimale de **10 000 à 15 000 
 | Source | Montant proposé | Détail |
 |---|---|---|
 | Notre recommandation | 15 000 € | PGPA + frais médicaux + SE + IP |
-| Glose | 8 000 € | PGPA 1 380 + frais méd. 3 000 + SE 3 000 + art. 700 2 000 |
+| Glose | 8 000 € | PGPA 1 355 + frais méd. 3 000 + SE 3 000 + art. 700 2 000 |
 | Critique Glose | 15 000 € minimum | Confirme notre position |
 
 **Compromis retenu : Demander 15 000 € en provision (dont 3 000 € art. 700)**
@@ -589,8 +614,11 @@ Trois évaluations convergent vers une provision minimale de **10 000 à 15 000 
 
 La provision de [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md) est justifiée par :
 1. L'urgence médicale (rééducation, adaptation ergonomique)
+
 2. L'insolvabilité de la SAS (capital 200 €)
+
 3. La nécessité de préparer l'expertise du 12 novembre 2026
+
 4. Le droit à réparation intégrale (art. 1240 C. civ.)
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
@@ -626,8 +654,8 @@ La provision de [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8
 
 | Poste | Montant retenu |
 |---|---|---|
-| PGPA (Inactivité 56j) | 1 380 € |
-| DFT (Incapacité 56j) | 1 400 € |
+| PGPA (Inactivité 55j) | 1 355 € |
+| DFT (Incapacité 55j) | 1 375 € |
 | DFP (10% médian) | 25 000 € |
 | Souffrances Endurées (4/7) | 15 000 € |
 | Incidence Professionnelle | 30 000 € |
@@ -651,7 +679,7 @@ La provision de [15 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8
 [^6]: [Arrêt — www.legifrance.gouv.fr/ceta/id/CETATEXT000049375170](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000049375170)
 [^7]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000007047223](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047223)
 [^8]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000036780068](https://www.legifrance.gouv.fr/juri/id/JURITEXT000036780068)
-[^9]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000049857400](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049857400)
+[^9]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000044105739](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044105739)
 [^10]: [Article 700 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
 [^11]: [Article L.124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 [^12]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000045822770](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770)

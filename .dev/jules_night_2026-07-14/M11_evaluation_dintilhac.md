@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-14 › M11 evaluation dintilhac*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 11 — Évaluation Dintilhac : robustesse et conformité barémique
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

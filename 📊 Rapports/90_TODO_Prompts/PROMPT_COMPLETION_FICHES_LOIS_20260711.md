@@ -1,11 +1,11 @@
 ---
 title: "PROMPT — Complétion des 5 fiches 📜 Lois (MCP Légifrance)"
+date: 2026-07-11
 description: "Prompt à confier à l'agent disposant du MCP Légifrance/Judilibre pour compléter le corps des 5 fiches marquées À VÉRIFIER."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › PROMPT COMPLETION FICHES LOIS 20260711*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [90_TODO_Prompts — Prompts et notes de travail](./README.md) › PROMPT COMPLETION FICHES LOIS 20260711*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -26,12 +26,14 @@ type: rapport
    → Art. L. 611-3 Code de commerce — Ouverture de la procédure de sauvegarde.
 4. [📜 Lois/📒 Code commerce/Article_L227-1_Code_Legifrance.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L227-1_Code_Legifrance.md)
    → Art. L. 227-1 Code de commerce — Pouvoirs du président de la SAS.
-5. [📜 Lois/📜 Jurisprudence/README.md17-26.282_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/17-26.282_CourCassation.md)
+5. [📜 Lois/📜 Jurisprudence/README.md17-26.282_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20R%C3%A9serve%20d%27aggravation/17-26.282_CourCassation.md)
    → Arrêt 17-26.282, Civ. 2e, Cour de cassation (thème : réserve d'aggravation / incidence professionnelle).
 
 ## IV — Procédure pour chaque fichier
 1. Interroger le MCP Légifrance (ou Judilibre) avec le numéro d'article / le numéro de pourvoiExact.
+
 2. Récupérer le texte officiel EN VIGUEUR (version consolidée à la date du jour).
+
 3. Remplacer le bloc suivant (dans le corps, après le `---` de fermeture du frontmatter) :
    ```
    ⚠️ **À VÉRIFIER** — ... (bloc entier jusqu'à la fin du fichier)
@@ -42,15 +44,21 @@ type: rapport
    - Pour un article : `CODE\nVERSION EN VIGUEUR AU <date>\n\nArticle <num>\n<texte officiel>`
    - Pour un arrêt : en-tête (date, chambre, pourvoi, ECLI) + `Texte de la décision` + corps.
 4. **Ne toucher QU'AU CORPS** — conserver le frontmatter (title/description/type/date/source/code/article) et le fil d'Ariane (`<!-- Breadcrumb -->`).
+
 5. Pour l'arrêt 17-26.282 : récupérer la date exacte de rendu et mettre à jour le champ `description` du frontmatter (actuellement « À VÉRIFIER — date de rendu à confirmer »).
 
 ## V — Vérification finale à fournir
 - Les 5 fichiers ne contiennent plus de marqueur `À VÉRIFIER`.
+
 - Rejouer `python3 .dev/app/audit_readme_integrity.py` → 0 erreur.
+
 - Rejouer `python3 .dev/app/check_consistency.py` → conforme.
+
 - Signaler tout article/arrêt introuvable (le laisser `À VÉRIFIER` et lister).
 
 ## VI — Interdictions
 - Pas de texte inventé ou approximatif.
+
 - Pas de modification du frontmatter (sauf `description` de l'arrêt 17-26.282 pour la date).
+
 - Pas de lien absolu.

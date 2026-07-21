@@ -14,6 +14,10 @@ statut: final
 destinataire: Dossier / Equipe Juridique
 auteur: Avocat au Barreau de Foix
 ---
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](../README.md) › [Analyses Multi-Angle — 15 Missions](./README.md) › 07 Rapport Avocat*
+<hr>
+<!-- /Breadcrumb -->
 
 <!-- Breadcrumb -->
 
@@ -62,7 +66,9 @@ L'engagement de la responsabilité personnelle du dirigeant suppose de prouver u
 Le dépôt d'une plainte pénale pour blessures involontaires (art. 222-19 et suivants du Code pénal) permet :
 
 - L'ouverture d'une enquête de police (auditions, recueil de preuves matérielles).
+
 - La saisine d'une Unité Médico-Judiciaire (UMJ) pour une évaluation médico-légale incontestable.
+
 - Une pression supplémentaire sur les responsables et leurs assurances.
 
 Une constitution de partie civile est recommandée pour avoir accès au dossier pénal et sécuriser les demandes indemnitaires.
@@ -86,10 +92,12 @@ Ce montant est justifié par les premières évaluations des préjudices, notamm
 L'évaluation indemnitaire, basée sur la Nomenclature Dintilhac, dépendra des conclusions de l'expertise médicale. L'avis externe Dintilhac du 13 juillet 2026 propose deux scénarios :
 
 1. **Scénario prudent (DFP 10 %) :**
+
    - Évaluation globale : environ **126 000 €** (plancher de négociation : 130 000 €).
    - Inclut une incidence professionnelle prudente (20 000 €).
 
 2. **Scénario médian (DFP 15 %) :**
+
    - Évaluation globale : environ **161 500 €** (fourchette de négociation : 160 000 € - 165 000 €).
    - Inclut une incidence professionnelle médiane (30 000 €).
 
@@ -104,15 +112,21 @@ La question centrale sera la valorisation de l'**Incidence Professionnelle** (in
 ### V.1 — Calendrier procédural (Timing)
 
 - **Assignation en référé :** Déjà rédigée, audience à prévoir rapidement (été/automne 2026) pour l'obtention de la provision et la désignation d'un expert judiciaire.
+
 - **Expertise UMJ :** Rendez-vous fixé au **12 novembre 2026**.
+
 - **Consolidation :** À déterminer médicalement, généralement 6 à 12 mois après un accident de cette nature. L'évaluation définitive interviendra après cette date.
+
 - **Négociation amiable ou jugement au fond :** Courant 2027 ou 2028, selon l'attitude de la partie adverse.
 
 ### V.2 — Coûts
 
 - **Frais d'avocat :** Honoraires de diligence + honoraires de résultat (généralement 10 à 12 % HT des sommes obtenues).
+
 - **Frais de médecin-conseil :** Indispensable pour assister **[La Victime]** lors des expertises (estimé entre 800 € et 1 500 € selon la complexité).
+
 - **Frais d'huissier/Commissaire de justice :** Pour les significations (environ 100-150 € par acte).
+
 - Ces frais (hors honoraires de résultat) pourront en grande partie être récupérés au titre de l'article 700 du CPC ou dans les "frais divers" de la nomenclature Dintilhac.
 
 <hr><hr>
@@ -120,6 +134,9 @@ La question centrale sera la valorisation de l'**Incidence Professionnelle** (in
 ## VI — RECOMMANDATIONS
 
 1. **Poursuivre la voie du référé-provision** pour obtenir les 15 000 € nécessaires et faire désigner un expert judiciaire rapidement.
+
 2. **Maintenir la pression pénale** pour consolider le dossier probatoire, l'expertise UMJ du 12 novembre 2026 sera une première base solide.
+
 3. **Préparer la démonstration de la faute détachable** de **[Le Président de l'Exploitation]** en cas de défaillance de la SAS.
+
 4. **Documenter scrupuleusement l'incidence professionnelle et le préjudice d'agrément** (codage loisir) par des attestations, bilans comptables et preuves de réalisations personnelles.

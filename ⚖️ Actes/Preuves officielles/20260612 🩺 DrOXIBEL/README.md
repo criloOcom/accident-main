@@ -3,9 +3,8 @@ title: "📁 20260612 DrOXIBEL"
 description: "README de la pièce Dr OXIBEL"
 type: readme
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [📂 Preuves officielles](../README.md) › 20260612 🩺 DrOXIBEL*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📂 Preuves officielles](../README.md) › 20260612 🩺 DrOXIBEL*
 <hr>
 <!-- /Breadcrumb -->
 

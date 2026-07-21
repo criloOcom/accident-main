@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-14 › M15 synthese operationnalite*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 15 — Synthèse : opérationnalité du dossier face à la loi française
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

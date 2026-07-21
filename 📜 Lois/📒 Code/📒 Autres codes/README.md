@@ -3,7 +3,6 @@ title: "📒 Autres codes"
 description: "Dossier regroupant les articles de codes non encore dotés de leur propre sous-dossier."
 type: readme
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › 📒 Autres codes*
 <hr>

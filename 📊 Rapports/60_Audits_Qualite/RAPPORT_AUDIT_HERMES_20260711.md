@@ -1,12 +1,12 @@
 ---
 title: "RAPPORT AUDIT HERMÈS — Conformité technique du dépôt (2026-07-11)"
+date: 2026-07-11
 description: "Audit read-only des breadcrumbs, liens internes, YAML frontmatter, structure/navigation, liens brisés et propreté du dossier accident-main."
 type: rapport
 statut: projet
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT HERMES 20260711*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [60_Audits_Qualite — Audits internes et qualité](./README.md) › RAPPORT AUDIT HERMES 20260711*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -38,37 +38,45 @@ statut: projet
 **Score : 19 / 20**
 
 - ✅ Format canonique `<!-- Breadcrumb -->` / `[🏠](../../README.md)` / `<!-- /Breadcrumb -->` respecté sur **412/413** fichiers.
+
 - ✅ Profondeur (`../`) correcte et résolution vers `README.md` racine validée partout.
+
 - ✅ Aucun breadcrumb en double détecté.
+
 - 🔴 **1 anomalie hors périmètre fonctionnel** : `.opencode/anchor.md` (L1 `# Anchor — Accident Main`) — fichier d'agent, pas un document du dossier. À exclure du périmètre ou à doter d'un breadcrumb.
 
 ### II.2 — Catégorie 2 — Liens internes cliquables (références `.md` en texte brut)
 **Score : 11 / 20**
 
 - 🟡 **~1095 références à des fichiers `.md` en texte brut** (non liées) détectées hors des balises markdown. Répartition : `README.md` (67), fichiers mémoire/rapports/actes token. Exemples :
+
   - `AGENTS.md` L34-44 : `VACCIN.md`, `STATUS.md`, `TODO.md`, `WORKFLOW.md`, `MAP.md`, `DECISIONS.md`, `RULES.md`, `VARIABLES.md`, `JURITEXT_PROTOCOL.md`, `RAPPORT_*.md` cités en texte, non liés.
   - `README.md` L39 : `AGENTS.md` en texte brut.
   - [⚖️ Actes/🔑 Token/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) L22 : `MAP.md`, `VARIABLES.md` en texte brut.
 - ⚪ La plupart sont dans des fichiers de mémoire/rapports (tolérable) mais la consigne exige `[chemin](chemin)`. À convertir pour les fichiers « vivants » (AGENTS.md, README.md, STATUS.md).
+
 - ⚠️ **Cas des tableaux** : les README de sous-dossiers listent les preuves dans des tableaux — les liens y sont présents mais pointent parfois vers un parent inexistant (voir Cat 4/5).
 
 ### II.3 — Catégorie 3 — YAML frontmatter (conformité)
 **Score : 8 / 20**
 
 - 🔴 **~15 `README.md` de sous-dossiers sans AUCUN frontmatter** (après breadcrumb, le fichier démarre par `# Titre`). Exemples confirmés :
+
   - [⚖️ Actes/Preuves officielles/20260529 🩹 DrJARDON/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
   - [⚖️ Actes/Preuves officielles/20260708 ✉️ LR Relance ASSURANCE/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
   - [⚖️ Actes/🔑 Token/🗄️ Archives/annexes/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
   - `.dev/jules_recommandations/README.md`
   - (14 occurrences au total dans `Preuves officielles/*`)
 - 🟡 **Types YAML hors nomenclature déclarée** (`readme|memory|loi|rapport|acte|courrier|annexe`). Distribution réelle observée :
+
   - `document` (22), `preuve` (2), `assignation` (24), `courrier` (76), `analyse_juridique` (24), `etude_indemnisation` (8), `archive` (21), `loi` (55), `jurisprudence` (22), `memory` (19), `rapport` (53), `status` (3).
   - → 8 valeurs (`document`, `preuve`, `assignation`, `analyse_juridique`, `etude_indemnisation`, `archive`, `jurisprudence`, `status`) **ne sont pas dans la liste autorisée**. Soit la nomenclature doit être élargie, soit les types doivent être remappés (ex. `assignation`→`acte`, `preuve`→`annexe`/`loi`, `jurisprudence`→`loi`, `status`→`memory`).
 - 🔴 **8 fichiers `statut: final` contenant encore des placeholders** (non résolus par la rétrogradation) :
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/01%20⚖️%20Assignation.md) → `[...]`
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md](⚖️%20Actes/🔑%20Token/⚖️%20Actes%20proceduraux/02b%20🛡️%20Constitution%20Partie%20Civile.md) → `[...]`
-  - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️🚨 INPI.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/31%20✉️%20Courrier%20INPI%20Opposition.md) → `[...]`
-  - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md](⚖️%20Actes/🔑%20Token/💰%20Etudes%20indemnisation/11+12%20📊%20Evaluation%20Dintilhac%20consolidee.md) → `[...]`
+
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/⚖️ Assignation Refere Provision.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/01%20%E2%9A%96%EF%B8%8F%20Assignation.md) → `[...]`
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/02b%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) → `[...]`
+  - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️ INPI 🚨Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/31%20%E2%9C%89%EF%B8%8F%20Courrier%20INPI%20Opposition.md) → `[...]`
+  - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/11%2B12%20%F0%9F%93%8A%20Evaluation%20Dintilhac%20consolidee.md) → `[...]`
   - (et les 4 versions `👤 Reel/` correspondantes)
   - → Ces fichiers portent `final` mais gardent `[...]` dans le corps : incohérence avec RULES #15.
 
@@ -76,11 +84,17 @@ statut: projet
 **Score : 10 / 20**
 
 - 🔴 **Dossier `🚦 Status/` EXISTE** (avec `01_PREPARATION.md`, `02_PRET_POUR_ENVOI.md`, `03_ENVOYE.md`) — corrigendum : l'audit initial indiquait à tort « inexistant ». Le vrai défaut : ses 3 index utilisent des **chemins absolus** `/⚖️ Actes/...` au lieu de chemins relatifs `../⚖️ Actes/...`. Résultat : 164 liens morts (voir Cat 5). `README.md` L25 pointe correctement vers `./🚦 Status/README.md`.
+
 - 🔴 **`README_OLD.md` interdit présent** : `📜 Lois/README_OLD.md` (62 lignes). Les règles interdisent les fichiers orphelins/obsolètes à la racine ; un `README_OLD` est un résidu à archiver ou supprimer. (Il génère 45 liens cassés fantômes.)
+
 - 🔴 **`🔙` (retour) présent dans 20 README de sous-dossiers** (ex. [⚖️ Actes/Preuves officielles/20260529 🩹 DrJARDON/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) L7 : `🔙 [📁 Preuves officielles](../README.md)`). Pattern de navigation interdit non supprimé lors du nettoyage.
+
 - 🔴 **1 « Retour à l'accueil »** : [📊 Rapports/RAPPORT_NAVIGATION_INTERACTIVE_20260711.md](RAPPORT_NAVIGATION_INTERACTIVE_20260711.md) L78 — pattern interdit.
+
 - 🟡 **8 occurrences de « Accueil »** en texte (ex. `README.md` L34 « [AGENTS.md](../../AGENTS.md) pour les instructions agents » — acceptable, mais 8 cas à revoir).
+
 - 🟡 **13 sous-dossiers de `Preuves officielles/` sans `README.md` parent** : [⚖️ Actes/Preuves officielles/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) n'existe pas, or chaque sous-dossier `…/README.md` pointe vers `../README.md` (parent absent) → 13 liens cassés.
+
 - ✅ Aucun `## 🔗 Navigation` résiduel détecté (suppression confirmée).
 
 ### II.5 — Catégorie 5 — Liens brisés
@@ -102,18 +116,26 @@ statut: projet
 
 **Vrais bugs de liens (indépendants des fichiers fantômes) :**
 - 🔴 [⚖️ Actes/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) L21-40 : `token/README.md`, `reel/README.md`, `token/0X_…/README.md` → dossiers renommés `🔑 Token`/`👤 Reel` non propagés.
+
 - 🔴 `📜 Analyse Responsabilites Legales.md` L92-98 et `📜 Strategie Jurisprudentielle.md` : `../../../📜 Lois/89-18.422_CourCassation.md` → le fichier réel est [📜 Lois/📜 Jurisprudence/README.md89-18.422_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md) (sous-dossier omis).
+
 - ~~🔴 `⚖️ Assignation Refere Provision.md` L106-126, 347-349 : `ANNEXE_1/2/3` → **CORRIGÉ** (déplacées dans [📜 Lois/📜 Jurisprudence/](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)).
-- 🔴 **6 liens `file://` cassés** (`📋 Dossier Special CERFA.md` L43-45, token + reel) : pointent vers `26 📋 Temoin Client.md`, `27 📋 Pompier SAMU.md`, `28 📋 Employe.md` — or les fichiers réels sont `26 📧 …`, `27 📧 …`, `28 📧 …` (mismatch 📋/📧). Lien mort + nommage incohérent.
+
+- 🔴 **6 liens `file://` cassés** (`📋 Dossier Special CERFA.md` L43-45, token + reel) : pointent vers `26 ✉️ Temoin Client 📋Attestation.md`, `27 ✉️ Pompier SAMU 📋Attestation.md`, `28 ✉️ Employe 📋Attestation.md` — or les fichiers réels sont `26 📧 …`, `27 📧 …`, `28 📧 …` (mismatch 📋/📧). Lien mort + nommage incohérent.
+
 - 🟡 **4 URLs Légifrance** format `ceta/id/...` (`11+12 … Dintilhac consolidee.md` L265, `12 … Dintilhac détaillée.md` L147, + versions reel) — `ceta` (Conseil d'État) vs `juri` (Cassation) ; à confirmer que l'ID est bien un CETA et non une JURITEXT.
+
 - ⚪ **453 ancres `#…`** internes : présentes (sommaires), non vérifiées une par une (toléré, mais ~453 cibles à valider si on veut 100 %).
 
 ### II.6 — Catégorie 6 — Propreté générale
 **Score : 12 / 20**
 
 - 🟡 **37 fichiers « orphelins »** (non référencés par nom dans aucun autre `.md`) — majoritairement des **rapports d'audit du 11-07** (`RAPPORT_AUDIT_*.md`, `RAPPORT_CORRECTION_*.md`, `RAPPORT_*.md` de méthodologie) + [🧠 Memory/JULES_MCP_GUIDELINES.md](../../%F0%9F%A7%A0%20Memory/JULES_MCP_GUIDELINES.md), `NOTE_SYNTHESE_AVOCAT.md`, `RECADRAGE_NOMENCLATURE.md`, `JUSTIFICATION_PROVISION_15000.md`. La plupart sont des rapports de bord — utiles mais non reliés entre eux. À relier depuis un index ou à archiver.
+
 - 🔴 **`.pytest_cache/README.md` ALTÉRÉ** : le README standard de pytest a reçu un breadcrumb injecté en lignes 1-3 (`<!-- Breadcrumb -->` / `[🏠](../README.md)` / `<!-- /Breadcrumb -->`). Le contenu pytest d'origine commence par `# pytest cache directory #` sans breadcrumb. Altération non autorisée d'un fichier de cache (doit rester hors périmètre). À restaurer au contenu pytest natif ou à ignorer.
+
 - ⚪ **1 fichier quasi-vide** : [⚖️ Actes/👤 Reel/📂 Preuves officielles/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (3 lignes de contenu). À compléter ou supprimer.
+
 - 🔴 **Tokens non résolus dans `statut: final`** : voir Cat 3 (8 fichiers avec `[...]`).
 
 ---
@@ -122,26 +144,38 @@ statut: projet
 
 **P0 — Correctifs bloquants (intégrité)**
 1. **Dossier `🚦 Status/` existe** — corriger ses 3 index (`01_PREPARATION.md`, `02_PRET_POUR_ENVOI.md`, `03_ENVOYE.md`) : remplacer tous les liens absolus `/⚖️ Actes/...` par des chemins relatifs `../⚖️ Actes/...`. (164 liens dépendent de ça.)
+
 2. Corriger [⚖️ Actes/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) L21-40 : remplacer `token/`→`🔑 Token/`, `reel/`→`👤 Reel/` (9 liens).
+
 3. Corriger les liens jurisprudence (`13 Responsabilites`, `14 Stratégie`) : ajouter le sous-dossier `📜 Jurisprudence/README.md` (≈30 liens).
+
 4. Corriger `⚖️ Assignation Refere Provision.md` : préfixer `📎 Annexes/` aux liens d'annexe (L106-126, 347-349).
+
 5. Corriger les 6 `file://` de `05 📋 Dossier Special CERFA.md` : `📋`→`📧` (ou renommer les fichiers cibles).
+
 6. Rétrograder ou compléter les 8 fichiers `final` contenant `[...]` (Cat 3).
 
 **P1 — Conformité frontmatter & navigation**
 7. Ajouter un YAML frontmatter valide (`title`/`description`/`type: readme`) aux ~15 `README.md` de sous-dossiers dépourvus.
+
 8. Réconcilier les `type` YAML : soit élargir la nomenclature déclarée (ajouter `assignation`, `preuve`, `analyse_juridique`, `etude_indemnisation`, `jurisprudence`, `archive`, `status`, `document`), soit remapper vers la liste existante.
+
 9. Supprimer les `🔙` de 20 README de sous-dossiers + « Retour à l'accueil » dans `RAPPORT_NAVIGATION_INTERACTIVE_20260711.md`.
+
 10. Supprimer ou archiver `📜 Lois/README_OLD.md`.
 
 **P2 — Structure**
 11. Créer [⚖️ Actes/Preuves officielles/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (parent manquant pour 13 sous-dossiers).
+
 12. Restaurer le `.pytest_cache/README.md` au contenu pytest natif (retirer le breadcrumb).
 
 **P3 — Liens & propreté**
 13. Convertir les ~1095 références `.md` en texte brut en liens markdown dans les fichiers « vivants » (AGENTS.md, README.md, STATUS.md, TODO.md).
+
 14. Relier ou archiver les 37 fichiers orphelins (rapports d'audit du 11-07).
+
 15. Valider les 4 URLs Légifrance `ceta/...` (CETA vs JURITEXT).
+
 16. Compléter ou supprimer [⚖️ Actes/👤 Reel/📂 Preuves officielles/README.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (3 lignes).
 
 ---
@@ -149,8 +183,11 @@ statut: projet
 ## IV — MÉTHODOLOGIE & LIMITES
 
 - Scan via script Python read-only (os.walk + regex), périmètre respecté (exclusion `.git`, `.pytest_cache`, `.venv`, `node_modules`, `.opencode`, archives).
+
 - Résolution des liens : `os.path.normpath` + `urllib.parse.unquote` (gestion des `%20`/accents). Les liens `http(s)://` vers Légifrance/Judilibre ne sont pas résolus réseau (validés sur le format uniquement).
+
 - Les 453 ancres `#…` ne sont pas vérifiées une à une (toléré).
+
 - Aucun fichier du dépôt n'a été modifié. Ce rapport est le seul fichier écrit (livrable demandé).
 
 ---

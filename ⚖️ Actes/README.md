@@ -3,7 +3,6 @@ title: "📁 Actes — Dossier Contentieux"
 description: "Bienvenue dans le dossier central du contentieux. Ce dossier repose sur une **double strate** : des versions anonymisées pour le travail courant, et des versions réelles pour l'impression et l'envoi."
 type: readme
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../README.md) › ⚖️ Actes*
 <hr>
@@ -42,7 +41,7 @@ graph TD
 
 ---
 
-Pour comprendre l'enchaînement logique et l'ordre d'expédition de ces actes et courriers, veuillez consulter le [Graphe des Dépendances](../🧠%20Memory/DEPENDANCES.md).
+Pour comprendre l'enchaînement logique et l'ordre d'expédition de ces actes et courriers, veuillez consulter le [Graphe des Dépendances](../%F0%9F%A7%A0%20Memory/DEPENDANCES.md).
 
 ## 📋 Sous-dossiers 🔑 Token/ (miroir identique dans 👤 Reel/)
 
@@ -57,8 +56,11 @@ Assignations, conclusions, requêtes
 Mises en demeure, signalements, relances
 
 - **[📚 Analyses juridiques](%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/README.md)** — Plaidoiries, FAQ, mémorandums
+
 - **[💰 Études d'indemnisation](%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/README.md)** — Évaluation Dintilhac (59 600 €)
+
 - **[🗂️ Organisation](%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/README.md)** — Index, plan d'action, calendrier
+
 - **[🗄️ Archives](%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/README.md)** — Anciens documents de travail, annexes
 
 ---
@@ -66,5 +68,7 @@ Mises en demeure, signalements, relances
 ## 🔄 Workflow
 
 1. On travaille exclusivement dans `🔑 Token/` (création, modification, révision)
+
 2. On génère `👤 Reel/` via `python3 app/generate_real_versions.py`
+
 3. On imprime/envoie depuis `👤 Reel/`

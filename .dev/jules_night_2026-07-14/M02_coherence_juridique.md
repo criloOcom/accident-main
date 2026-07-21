@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-14 › M02 coherence juridique*
+<hr>
+<!-- /Breadcrumb -->
+
 # MISSION 2 — Audit de cohérence juridique transversale
 
 [PREAMBULE COMMUN — voir PROMPT_COMMUN.md]

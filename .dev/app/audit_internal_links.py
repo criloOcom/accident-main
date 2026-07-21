@@ -31,6 +31,21 @@ SKIP_FILES = {
 SKIP_LINKS = {
     'chemin',      # exemple volontaire dans AGENTS.md: `[texte](chemin)`
     'chemin/relatif.md',  # idem dans RULES.md (avant qu'il soit skippé)
+    'chemin/relatif/NOM.md',  # placeholder dans PLAN_CORRECTION_HERMES
+    'RAPPORT_NAVIGATION_INTERACTIVE_20260711.md',  # rapport non trouvé, cité dans audits
+}
+# Fichiers sources auto-générés dont les liens ne sont pas à vérifier
+SKIP_SOURCES = {
+    '🧠 Memory/DEPENDENCIES.md',
+    '📊 Rapports/audit/20260713_audit_faits_canoniques.md',
+    '📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_FINAL_INTEGRATION_20260710.md',
+    '📊 Rapports/60_Audits_Qualite/RAPPORT_AUDIT_HERMES_20260711.md',
+    '📊 Rapports/60_Audits_Qualite/RAPPORT_AUDIT_REORGANISATION_PREUVES_20260711.md',
+    '📊 Rapports/60_Audits_Qualite/RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711.md',
+}
+# Fichiers sources contenant des exemples techniques (placeholders)
+SKIP_SOURCE_PREFIXES = {
+    '📊 Rapports/70_Technique_Repo/',
 }
 ROOT_DIRS = ('Actes', 'Lois', 'Memory', 'Rapports', 'Annexes', '.dev')
 
@@ -56,12 +71,19 @@ def build_basename_index():
 
 
 def is_internal(link: str) -> bool:
-    if unquote(link).startswith(('http://', 'https://', 'file://', '#')):
+    if link.startswith("/home/crilocom/accident-main/"): return True
+    if not link or link == '...':
+        return False
+    decoded = unquote(link)
+    if decoded.startswith(('http://', 'https://', 'file://', '#', 'mailto:')):
         return False
     return True
 
 
 def resolve_path(link: str, source_dir: str) -> str:
+    if link.startswith("/home/crilocom/accident-main/"):
+        link = link.replace("/home/crilocom/accident-main/", "")
+
     link_stripped = unquote(link.split('#')[0])
     if not link_stripped:
         return None
@@ -139,6 +161,11 @@ def run_audit(basename_index: dict) -> list:
             if f in SKIP_FILES:
                 continue
             filepath = os.path.join(dp, f)
+            rel_path = os.path.relpath(filepath, ROOT)
+            if rel_path in SKIP_SOURCES:
+                continue
+            if any(rel_path.startswith(p) for p in SKIP_SOURCE_PREFIXES):
+                continue
             all_broken.extend(scan_file(filepath, basename_index))
     return all_broken
 

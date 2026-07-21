@@ -15,7 +15,7 @@ reel_path: ../../👤 Reel/🗂️ Organisation/📦 Bon Envoi Physique.md
 jx: J+38
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [🗂️ Organisation](./README.md) › 📦 Bon Envoi Physique*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › 📦 Bon Envoi Physique*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -36,7 +36,7 @@ jx: J+38
 **[LA VILLE DE L'ACCIDENT] — Tribunal Judiciaire de [LA VILLE DE L'ACCIDENT]**
 
 > **À :** Monsieur le Doyen des Juges d'Instruction
-> **Adresse :** Tribunal Judiciaire de [La Ville de l'Accident], [**[Adresse Tribunal Judiciaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), 09008 [La Ville de l'Accident] Cedex
+> **Adresse :** Tribunal Judiciaire de [La Ville de l'Accident], **Adresse Tribunal Judiciaire**, 09008 [La Ville de l'Accident] Cedex
 > **Mode :** Lettre Recommandée avec Accusé de Réception (LRAR)
 <hr><hr>
 
@@ -48,7 +48,7 @@ jx: J+38
 
 - **Pièce n°3 :** [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) Dr [Chirurgien SOS Main] (30 mai 2026) — Scan/copie
 
-- **Pièce n°4 :** Certificats d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT 56 jours) — Scan/copie
+- **Pièce n°4 :** Certificats d'[arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (55 jours) — Scan/copie
 
 - **Pièce n°5 :** Copie du PV de plainte pénale (Police Nationale) — Copie
 

@@ -3,7 +3,6 @@ title: "📅 J+25 Première kiné"
 description: "Token :** `**[J+25 Première kiné]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-25-premiere-kine*
 <hr>
@@ -25,8 +24,11 @@ Première séance de kinésithérapie pour la rééducation fonctionnelle de la 
 
 Objectifs de la rééducation :
 - Récupération de la mobilité active et passive de l'index
+
 - Lutte contre les adhérences cicatricielles
+
 - Renforcement musculaire progressif
+
 - Rééducation sensitive (neurolyse du nerf palmaire)
 
 La fréquence des séances est de 2 à 3 fois par semaine.
@@ -34,12 +36,15 @@ La fréquence des séances est de 2 à 3 fois par semaine.
 ## Acteurs concernés
 
 - **[La Victime]** — patient
+
 - **Kinésithérapeute** (prescrit par [Le Chirurgien SOS Main](token-hopital-sosmain-chirurgien.md))
 
 ## Conséquences juridiques
 
 - Les séances de kiné constituent des **frais médicaux** remboursables (poste frais divers / DEP).
+
 - Le nombre et la durée des séances sont des **éléments d'appréciation de la gravité du dommage**.
+
 - La rééducation prolongée est un **indice d'un préjudice important** (argument pour majoration DFP/SE).
 
 ## Croisements
@@ -52,4 +57,4 @@ La fréquence des séances est de 2 à 3 fois par semaine.
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-25-premiere-kine)
+TOKEN MAP → Tokens événementiels (J+)

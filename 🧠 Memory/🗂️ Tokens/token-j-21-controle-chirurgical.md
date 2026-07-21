@@ -3,7 +3,6 @@ title: "📅 J+21 Contrôle chirurgical"
 description: "Token :** `**[J+21 Contrôle chirurgical]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-21-controle-chirurgical*
 <hr>
@@ -26,8 +25,11 @@ Consultation de contrôle post-opératoire à 3 semaines chez le Dr [Le Chirurgi
 
 Examen clinique :
 - Cicatrisation satisfaisante de la plaie palmaire
+
 - Mobilité en flexion de l'index partiellement récupérée
+
 - Extension complète impossible (adhérences cicatricielles)
+
 - Cicatrice palmaire de **8,5 cm** (préjudice esthétique — PEP)
 
 Le chirurgien préconise la poursuite de la rééducation ([J+25 Première kiné](token-j-25-premiere-kine.md)).
@@ -35,12 +37,15 @@ Le chirurgien préconise la poursuite de la rééducation ([J+25 Première kiné
 ## Acteurs concernés
 
 - **[Le Chirurgien SOS Main]** — contrôle
+
 - **[La Victime]** — patient
 
 ## Conséquences juridiques
 
-- Confirmation que l'ITT se prolonge au-delà de 21 jours (jusqu'à 56 jours — [J+55 Fin d'ITT](token-j-55-fin-d-itt.md)).
+- Confirmation que l'arrêt de travail se prolonge au-delà de 21 jours (jusqu'à 55 jours — [J+55 Fin d'ITT](token-j-55-fin-d-itt.md)).
+
 - Première évaluation clinique objective de la **consolidation en cours**.
+
 - La cicatrice de 8,5 cm sert de base au **PEP** (Préjudice Esthétique Permanent, évalué ~3 000 €).
 
 ## Croisements
@@ -53,4 +58,4 @@ Le chirurgien préconise la poursuite de la rééducation ([J+25 Première kiné
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-21-controle-chirurgical)
+TOKEN MAP → Tokens événementiels (J+)

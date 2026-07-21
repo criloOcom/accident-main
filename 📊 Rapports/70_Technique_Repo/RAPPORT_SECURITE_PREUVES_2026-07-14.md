@@ -1,11 +1,11 @@
 ---
 title: "Rapport sur la Stratégie de Sécurisation et Conservation des Preuves"
+date: 2026-07-14
 description: "Analyse de la sécurisation probatoire (Art. 1353 C. civ., 145 CPC, 41 et 60-1 CPP), conservation des preuves (vidéos, témoignages, numérique) et matrice de preuves."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports](./README.md) › Rapport sur la Stratégie de Sécurisation et Conservation des Preuves*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [70_Technique_Repo — Journal de bord technique](./README.md) › RAPPORT SECURITE PREUVES 2026-07-14*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -72,14 +72,18 @@ D'autre part, en tant qu'enregistrement électronique généré par un tiers de 
 Le tableau suivant lie les prétentions aux pièces actuellement conservées :
 
 *   **Existence de l'accident et des blessures**
+
     *   Pièce 1 : PV de police (Preuve de la plainte et de l'enquête)
     *   Pièce 2 : Certificat médical initial par **[Le Médecin en Urgence]** (Constat des blessures immédiates)
     *   Pièce 3 : Compte-rendu opératoire par **[Le Chirurgien SOS Main]** (Description lésionnelle et imputation)
 *   **Présence sur les lieux et relation contractuelle**
+
     *   Pièce 6 : Paiement Wero (Preuve irréfutable de la relation et présence)
 *   **Dommages subis et préjudices économiques**
+
     *   Pièce 4 : Arrêts de travail justifiant l'ITT (Pertes de gains)
     *   Pièce 8 : Factures médicales SOS Main
     *   Pièce 9 : Dossier de la CPAM (Confirmation du sinistre et prise en charge)
 *   **Démarches amiables et obstruction des dirigeants**
+
     *   Pièces 10, 11, 12, 13 : Mises en demeure LRAR (Preuve de la carence de **[L'Exploitant du Commerce (La SAS)]**, de **[Le Président de l'Exploitation]** et de **[La Directrice Générale de l'Exploitation]**)

@@ -3,7 +3,6 @@ title: "📅 J+2 Sortie"
 description: "Token :** `**[J+2 Sortie]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-2-sortie*
 <hr>
@@ -29,13 +28,17 @@ La main droite reste immobilisée par une attelle palmaire. La victime est droit
 ## Acteurs concernés
 
 - **[La Victime]** — sortant
+
 - **[Le Chirurgien SOS Main]** — prescriptions de sortie
+
 - **[L'Établissement SOS Main]** — établissement de sortie
 
 ## Conséquences juridiques
 
 - Début effectif de l'ITT à domicile (l'ITT officielle court du 29/05, [J+0 Accident](token-j-0-accident.md), mais l'incapacité totale matérielle démarre ici).
+
 - Date de référence pour le calcul de la durée d'hospitalisation (1 nuit) — élément de preuve du caractère urgent de l'intervention.
+
 - La main droite (dominante) immobilisée fonde le **DFT** (Déficit Fonctionnel Temporaire) et la perte d'exploitation (PGPA).
 
 ## Croisements
@@ -48,4 +51,4 @@ La main droite reste immobilisée par une attelle palmaire. La victime est droit
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-2-sortie)
+TOKEN MAP → Tokens événementiels (J+)

@@ -5,9 +5,8 @@ type: simulation
 role: Juge Civil
 date: 2026-07-14
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📂 Simulations](README.md) › 04_Juge_Civil*
+*[🏠](../README.md) › [📂 Simulations — Analyses Multi-Angle du Dossier Accident Main](./README.md) › 04 Juge Civil*
 <hr>
 <!-- /Breadcrumb -->
 

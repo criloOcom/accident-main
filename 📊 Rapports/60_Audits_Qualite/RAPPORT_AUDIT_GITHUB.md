@@ -1,11 +1,11 @@
 ---
 title: "RAPPORT D'AUDIT — Repository GitHub"
+date: FIXME
 description: "Projet** : accident-main · **Remote** : `github.com/criloOcom/accident-main.git`"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT GITHUB*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [60_Audits_Qualite — Audits internes et qualité](./README.md) › RAPPORT AUDIT GITHUB*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -48,7 +48,9 @@ f5a2e64 Adoucir le ton paragraphe CADA dans Email 34
 
 **Statut : ✅ Bon**
 - Messages clairs, émojis thématiques, référence aux numéros de courrier.
+
 - Premier commit : `f4637bf` (04/07/2026) — repo jeune (~6 jours).
+
 - 442 commits au total (actif : ~70 commits/jour).
 
 ---
@@ -75,10 +77,15 @@ venv/
 
 **Statut : 🟡 Satisfaisant mais incomplet**
 - ✅ `.env` / `.venv` / `__pycache__` exclus
+
 - ✅ Fichiers token Drive/Piste exclus
+
 - ✅ PDFs exclus sauf [📜 Lois/pdfs](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (jurisprudence)
+
 - ⚠️ `.git-credentials` non listé (ne peut pas être ignoré par `.gitignore`)
+
 - ⚠️ `.git/config` non protégeable via `.gitignore` — le token y est stocké en clair
+
 - ⚠️ `.dev/artifacts/` et `.dev/data/scratch/` non exclus (fichiers volumineux)
 
 ---
@@ -97,10 +104,15 @@ SCRIPT=".dev/app/audit_readme_integrity.py"
 
 **Statut : ✅ Actif mais limité**
 - ✅ Hook personnalisé actif (pas le `.sample`)
+
 - ✅ Vérifie l'intégrité des README.md via `.dev/app/audit_readme_integrity.py`
+
 - ✅ Codes retour : 1 = bloquant, 2 = warning avec confirmation manuelle
+
 - ❌ Ne vérifie **pas** la présence de secrets/tokens dans les fichiers
+
 - ❌ Ne vérifie **pas** la taille des fichiers ou des diffs
+
 - ❌ Ne vérifie **pas** les branches orphelines/stale
 
 ---
@@ -121,13 +133,18 @@ https://criloOcom:[REVOKED_TOKEN]@github.com
 
 **Risques** :
 - Tout processus sur la machine peut lire `~/.git-credentials`
+
 - `git remote -v` affiche le token en clair
+
 - Tout commit push expose le token dans le trafic (même si GitHub masque dans les logs)
+
 - Le token était un `ghp_` (classic) — permissions étendues
 
 **Recommandation immédiate** :
 1. **Révoquer immédiatement** ce token sur GitHub
+
 2. Remplacer par un token **fine-grained** avec scope limité (`repo` uniquement, pas d'admin)
+
 3. Utiliser `credential.helper` avec stockage sécurisé :
    ```bash
    git remote set-url origin https://github.com/criloOcom/accident-main.git
@@ -139,7 +156,9 @@ https://criloOcom:[REVOKED_TOKEN]@github.com
 ### V.2 — Autres fichiers suivis
 
 - `.dev/.env.example` — **OK** (template, pas de secrets réels)
+
 - `reports/audit/audit_tokenisation_residuelle.md` — **OK** (rapport RGPD, pas de secrets)
+
 - Aucun fichier `.env` réel ni fichier de credentials dans l'historique Git
 
 ---
@@ -158,8 +177,11 @@ https://criloOcom:[REVOKED_TOKEN]@github.com
 
 **Analyse** :
 - Le poids vient surtout des **PDFs** dans [📜 Lois/pdfs](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (117 Mo estimés)
+
 - `.dev/artifacts/` contient des artefacts de test volumineux (json + html)
+
 - 318 objets `prune-packable` indiquent des réécritures d'historique partielles
+
 - **Propre** : pas de blobs géants (> 1 Mo) dans l'historique
 
 ---
@@ -170,12 +192,19 @@ https://criloOcom:[REVOKED_TOKEN]@github.com
 
 **Statut : ✅ Excellent**
 - ✅ Porte d'entrée complète avec statuts des courriers à jour
+
 - ✅ Tableau d'échéances impératives (envoi n°34 aujourd'hui)
+
 - ✅ Arborescence documentée
+
 - ✅ Tableau des courriers avec statuts réels (envoyés/prêts/projets/gabarits)
+
 - ✅ Liens vers [🧠 Memory](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) (VACCIN, STATUS, RULES, etc.)
+
 - ✅ Workflow quotidien documenté (8 étapes)
+
 - ✅ Scripts listés avec rôles
+
 - ✅ Remote GitHub et token référencé (Secret Manager)
 
 **⚠️ Anomalie mineure** : Le README référence `📦_pieces/` mais ce dossier n'existe pas dans `ls` (peut-être non versionné ou supprimé).

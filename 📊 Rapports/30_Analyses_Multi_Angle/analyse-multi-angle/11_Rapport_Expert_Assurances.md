@@ -1,11 +1,11 @@
 ---
 title: "Rapport d'Expertise en Droit des Assurances - RC de la SAS"
+date: FIXME
 description: "Analyse multi-angle de la couverture RC de l'exploitant, action directe et voies d'indemnisation subsidiaires (FGAO/FGTI/CIVI)."
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) > [📊 Rapports](../README.md) > [analyse-multi-angle](README.md) > Rapport Expert Assurances*
+*[🏠](../../../README.md) › [📊 Rapports et Analyses](../../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](../README.md) › [Analyses Multi-Angle — 15 Missions](./README.md) › 11 Rapport Expert Assurances*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -56,6 +56,7 @@ En revanche, la Commission d'Indemnisation des Victimes d'Infractions (CIVI), do
 
 Selon l'article 706-3 du Code de procédure pénale :
 - Toute personne ayant subi un préjudice résultant de faits volontaires ou non qui présentent le *caractère matériel d'une infraction* peut obtenir la réparation intégrale des dommages.
+
 - Les conditions sont réunies dès lors que les faits ont entraîné la mort, une incapacité permanente, ou une incapacité totale de travail (ITT) égale ou supérieure à un mois.
 
 Dans ce dossier, le défaut caractérisé d'entretien et de sécurité du bac à shampoing (cassure majeure préexistante non signalée) ayant causé un sectionnement de l'index droit avec ITT supérieure à un mois, caractérise matériellement l'infraction de blessures involontaires par imprudence ou négligence. La saisine de la CIVI est donc fondée pour pallier l'insolvabilité et la non-assurance de l'exploitant.

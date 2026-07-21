@@ -1,5 +1,5 @@
 ---
-title: "Action Directe Assureur RC ([Art. L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449))"
+title: "Action Directe Assureur RC (Art. L.124-3)"
 description: "Rédigé le **[J+31 Mises en demeure]"
 type: readme
 date: 2026-06-29
@@ -15,12 +15,14 @@ reel_path: ../../👤 Reel/🗄️ Archives/⚡ ActionDirecte AssureurRC.md
 source: drive
 drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
 ---
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md).
-
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [📦 Archives](./README.md) › ⚡ ActionDirecte AssureurRC*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › ⚡ ActionDirecte AssureurRC*
 <hr>
 <!-- /Breadcrumb -->
+
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+
+
 
 **Table des matières**
 
@@ -83,7 +85,7 @@ Ces dispositions sont d'ordre public et s'imposent à toute compagnie d'assuranc
 
 Je soussigné, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un grave accident corporel survenu le vendredi [**[J+0 Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein de l'établissement exploité par votre assuré, [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (sise au [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)).
 
-J'ai subi une plaie palmaire de 8,5 cm de l'index droit (main dominante) ayant sectionné le tendon fléchisseur superficiel et le paquet vasculo-nerveux collatéral ulnaire et radial, après être entré en contact avec la vasque en céramique d'un bac à shampoing avec cassure préexistante aux arêtes coupantes, lors d'un basculement provoqué par la montée de l'employé [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tel : **[Le Téléphone du Préposé]**)(../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md) sur le meuble.
+J'ai subi une plaie palmaire de 8,5 cm de l'index droit (main dominante) ayant sectionné le tendon fléchisseur superficiel et le paquet vasculo-nerveux collatéral ulnaire et radial, après être entré en contact avec la vasque en céramique d'un bac à shampoing avec cassure préexistante aux arêtes coupantes, lors d'un basculement provoqué par la montée de l'employé [**[Le Préposé de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)) sur le meuble.
 
 Il s'en est suivi une intervention de microchirurgie d'urgence le [**[J+1 Chirurgie]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md) au service SOS Main de [**[L'Établissement SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md) ([**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)) ayant nécessité une suture tendineuse 6 brins, une suture microchirurgicale des nerfs et vaisseaux à l'éthilon 9-0, et une neurolyse d'urgence.
 

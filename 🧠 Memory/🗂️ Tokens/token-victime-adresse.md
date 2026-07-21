@@ -3,9 +3,8 @@ title: "📍 L'Adresse de la Victime"
 description: "Token :** `**[L'Adresse de la Victime]**`"
 type: memory
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-l-adresse-de-la-victime*
+*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [🗂️ Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-victime-adresse*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -28,7 +27,9 @@ Adresse personnelle de la victime, située à [La Ville de Résidence de la Vict
 ## Enjeu juridique — Notifications
 
 - Sert aux **notifications** à la victime (demandeur / partie civile). La compétence territoriale reste ancrée au lieu de l'infraction (Foix, art. 42 CPC).
+
 - Preuve de résidence confirmée par l'opération Wero de 15 € passée le jour de l'accident au salon (relation contractuelle + présence).
+
 - ⚠ Distincte de [L'Adresse de l'Exploitation](token-exploitation-adresse.md) (22 Rue Lafaurie, Foix) et [L'Adresse du Président](token-exploitation-president-adresse.md).
 
 ## Croisements
@@ -37,10 +38,12 @@ Adresse personnelle de la victime, située à [La Ville de Résidence de la Vict
 
 ## Documents liés
 
-- [Mises en demeure J+31](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%F0%9F%93%9C%20SAS.md) (coordonnées expéditeur)
+- [Mises en demeure J+31](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20%F0%9F%93%9CLettre.md) (coordonnées expéditeur)
+
 - [Assignation Référé J+32](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md) (adresse du demandeur)
+
 - [Constitution Partie Civile J+38](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (coordonnées partie civile)
 
 ## Source
 
-[TOKEN MAP → Données localisantes / identifiantes](../TOKEN%20MAP.md#token-l-adresse-de-la-victime)
+TOKEN MAP → Données localisantes / identifiantes

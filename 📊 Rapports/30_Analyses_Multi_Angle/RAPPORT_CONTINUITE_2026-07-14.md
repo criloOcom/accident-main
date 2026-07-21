@@ -1,10 +1,11 @@
 ---
 title: "Plan de continuité et gestion des dépendances procédurales"
+date: 2026-07-14
 description: "Cartographie des risques, points de défaillance et solutions de repli pour le dossier d'accident de la main."
 type: rapport
 ---
 <!-- Breadcrumb -->
-[🏠](../README.md)
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](./README.md) › RAPPORT CONTINUITE 2026-07-14*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -77,6 +78,7 @@ Le dossier s'expose à plusieurs points de défaillance unique. Pour chacun, un 
 
 **Plan de secours :**
 1. Maintien de l'action directe contre **[L'Exploitant du Commerce (La SAS)]** sur ses fonds propres.
+
 2. Si la SAS est insolvable (dépôt de bilan), saisine de la CIVI (Commission d'Indemnisation des Victimes d'Infractions) ou du SARVI, avec prise en charge par le FGTI, car les faits (blessures involontaires par manquement délibéré) constituent une infraction pénale réparable sous les conditions de l'article 706-3 du Code de procédure pénale.
 
 > « Toute personne [...] ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne [...] » <br>
@@ -114,6 +116,7 @@ Le fondement du droit commun de la responsabilité du fait des choses pallié à
 
 **Plan de secours :**
 - À titre conservatoire : solliciter un médecin-conseil de victimes indépendant pour établir une évaluation provisoire de DFP.
+
 - Sur le plan procédural : intégrer la demande de désignation d'un expert judiciaire médical au sein de l'assignation en référé-provision, rendant l'expertise UMJ moins cruciale pour l'évaluation civile définitive.
 
 <hr><hr>
@@ -147,7 +150,11 @@ L'infraction pénale pertinente en l'espèce est le délit de blessures involont
 Les actions suivantes reposent **exclusivement** sur des démarches que **[La Victime]** doit accomplir personnellement. Aucune automatisation ne peut s'y substituer.
 
 - **Rendez-vous UMJ :** Se présenter impérativement au CHU Purpan (Toulouse) le **12 novembre 2026 à 13h45** muni du dossier médical complet.
+
 - **Suivi de la demande d'Aide Juridictionnelle :** Compléter et adresser le dossier (CERFA n° 16146*03) au Bureau d'Aide Juridictionnelle (BAJ) du tribunal et répondre à leurs éventuelles demandes de pièces complémentaires.
+
 - **Dépôt des plaintes/requêtes :** Tout dépôt de plainte complémentaire ou remise physique d'un document au greffe du Tribunal Judiciaire de Foix (comme prévu le 15 juillet 2026).
+
 - **Relances médicales :** Obtenir le certificat de consolidation final auprès du chirurgien (Dr DJERBI) une fois l'état médical stabilisé.
+
 - **Attestations de témoins :** Obtenir les signatures physiques (et copie des cartes d'identité) sur les formulaires CERFA des témoins (pompier, employé, etc.).

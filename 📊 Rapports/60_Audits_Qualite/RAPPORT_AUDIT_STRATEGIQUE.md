@@ -1,11 +1,11 @@
 ---
 title: "RAPPORT D'AUDIT STRATÉGIQUE GLOBAL"
+date: FIXME
 description: "Mission** : Audit critique de la stratégie globale du projet accident-main"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT AUDIT STRATEGIQUE*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [60_Audits_Qualite — Audits internes et qualité](./README.md) › RAPPORT AUDIT STRATEGIQUE*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -128,7 +128,9 @@ Phase judiciaire (Plan B)
 
 **Analyse critique** : **Ce courrier est le plus important des 4.** Il ouvre un droit conservatoire qui pourra être activé si la SAS est dissoute. MAIS attention : le FGTI impose des conditions strictes (art. 706-3 CPP) :
 1. Infraction constituée (besoin d'une condamnation pénale)
+
 2. Auteur insolvable ou inconnu (besoin de prouver l'insolvabilité)
+
 3. Délai : 3 ans à compter de l'infraction
 
 **Limite identifiée :** La constitution de partie civile est déposée mais l'instruction n'a pas encore abouti. Le FGTI ne prendra pas le relais avant plusieurs mois, voire années.
@@ -169,14 +171,20 @@ Rang 4 : 12 - URSSAF (utilité probatoire mais délais longs)
 
 **Conséquences** :
 - Assignations en cours → irrecevables faute de défendeur
+
 - Action directe assureur → impossible (assureur inconnu)
+
 - FGTI → activable mais conditionné à condamnation pénale
 
 **Protection actuelle** :
 - ✅ Constitution PC auprès du Doyen des Juges d'Instruction (pénal suit)
+
 - ✅ INPI Opposition (31) → bloque la création d'une structure miroir
+
 - ✅ FGTI conservatoire (19) → dossier ouvert
+
 - ✅ Note responsabilité dirigeants (16) → L.651-2 C.com, SATI
+
 - ⚠️ Pas de saisie conservatoire (faute d'huissier)
 
 **Lacune critique** : Aucune mesure conservatoire sur les actifs de la SAS ou des dirigeants. Une requête en saisie conservatoire (art. L.511-1 CPC exécution) n'a pas été préparée.
@@ -187,12 +195,16 @@ Rang 4 : 12 - URSSAF (utilité probatoire mais délais longs)
 
 **Conséquences** :
 - Pas de pression efficace sur la SAS
+
 - Les 15 courriers administratifs n'auront servi à rien
+
 - Délai de 6-12 mois perdu
 
 **Protection actuelle** :
 - ✅ Assignations déjà prêtes (01, 03) → peuvent être déposées immédiatement
+
 - ✅ Plainte déjà déposée → la voie pénale n'attend pas l'administration
+
 - ⚠️ Pas de date d'audience fixée (assignations non déposées)
 
 **Lacune critique** : Les assignations (01, 03) sont rédigées mais pas déposées. Chaque jour sans audience est un jour où la SAS peut disparaître.
@@ -203,13 +215,18 @@ Rang 4 : 12 - URSSAF (utilité probatoire mais délais longs)
 
 **Conséquences** :
 - Nouvelle entité = nouveau délai pour identifier
+
 - Recouvrement sur l'ancienne SAS impossible (vide)
+
 - Dirigeants à l'abri derrière l'autonomie des personnes morales
 
 **Protection actuelle** :
 - ✅ INPI Opposition (31) → alerte le greffier, bloque l'immatriculation
+
 - ✅ Note responsabilité dirigeants (16) → fondement juridique pour faute détachable
+
 - ✅ Note qualification pénale disparition SAS → escroquerie (art. 313-1 CP)
+
 - ⚠️ Vigilance RNE tous les 15 jours préconisée par l'audit RNE
 
 **Protection insuffisante** : La veille INPI est manuelle. Aucun système d'alerte automatique configuré.
@@ -220,12 +237,16 @@ Rang 4 : 12 - URSSAF (utilité probatoire mais délais longs)
 
 **Conséquences** :
 - Même avec jugement favorable → inexécution
+
 - FGTI → seule voie, mais nécessite condamnation pénale
+
 - Dirigeants → peut-être insolvables aussi
 
 **Protection actuelle** :
 - ✅ Multiplicité des défendeurs (SAS + Président + DG in solidum)
+
 - ✅ FGTI saisi
+
 - ⚠️ Pas de vérification du patrimoine des dirigeants
 
 **Lacune critique** : Aucune information sur le patrimoine personnel des dirigeants. Sans saisie préventive, ils peuvent transférer leurs biens.
@@ -307,15 +328,20 @@ Phase 4 (J+30) — Élargissement
 
 **Justification** : La gradation permet :
 1. D'abord verrouiller les droits (FGTI, TJ, CODAF)
+
 2. Ensuite bloquer les issues de fuite (INPI, constat physique)
+
 3. Puis actionner les leviers fiscaux/sociaux (SIE + URSSAF)
+
 4. Enfin élargir le cercle (Préfecture, CD, SDIS)
 
 ### V.2 — 5.2 Angle mort : le référé n'attend pas
 
 ⚠️ **Risque majeur** : Les assignations (01 Référé-Provision, 03 Art. 145 CPC) sont **prêtes mais non déposées**. Chaque jour sans audience :
 - La SAS peut dissoudre (capital 200€, rien à perdre)
+
 - Les preuves matérielles peuvent disparaître (vasque réparée, locaux nettoyés)
+
 - L'assureur (inconnu) peut opposer la forclusion
 
 **Recommandation** : Déposer l'assignation Art. 145 CPC (communication assurance) EN PREMIER, avant même les courriers administratifs. Sans assurance identifiée, aucun Plan B n'est viable.
@@ -337,8 +363,11 @@ Phase 4 (J+30) — Élargissement
 
 **Risques les plus critiques** (score > 35) :
 1. **Délai FGTI** (48) — incompressible mais connu
+
 2. **Insolvabilité originaire** (41) — bien anticipé mais sans solution miracle
+
 3. **Dissolution SAS** (36) — mitigation partielle
+
 4. **Disparition preuves** (35) — **LE RISQUE LE PLUS SOUS-TRAITÉ**
 
 ---
@@ -361,7 +390,7 @@ Phase 4 (J+30) — Élargissement
 | R5 | **Vérifier le patrimoine des dirigeants** (fichier foncier, cadastre) | Sans solvabilité dirigeants, le Plan B est illusoire |
 | R6 | **Configurer une veille INPI automatique** (alerte email) | Détecter toute nouvelle immatriculation au 22 Rue Lafaurie |
 | R7 | **Simplifier les courriers administratifs** (regrouper Préfecture + CD + SDIS en un seul envoi avec copie CODAF) | 3 courriers distincts = dilution, un seul courrier = masse critique |
-| R8 | **Demander un rendez-vous UMJ** pour expertise ITT définitive | Consolider l'ITT 56 jours avant qu'elle ne soit contestée |
+| R8 | **Demander un rendez-vous UMJ** pour expertise ITT définitive | Consolider l'ITT 55 jours avant qu'elle ne soit contestée |
 
 ### VII.3 — 7.3 Structurelles
 
@@ -380,9 +409,13 @@ Phase 4 (J+30) — Élargissement
 
 **Faiblesses critiques :**
 1. Assignations prêtes mais non déposées — chaque jour est un risque
+
 2. Preuves matérielles non sécurisées (pas de constat huissier exécuté)
+
 3. Dispersion de l'effort sur 15 courriers administratifs sans priorisation claire
+
 4. Pas de vérification du patrimoine des dirigeants
+
 5. Aucune mesure conservatoire sur les avoirs
 
 **Note globale : 7/10**

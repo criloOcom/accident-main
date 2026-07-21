@@ -8,7 +8,6 @@ legiarti: LEGIARTI000006442784
 code: Code civil
 article: 1720
 ---
-
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [📒 Code](../README.md) › [📒 Code civil](./README.md) › Article1720 CodeCivil LegiFrance*
 <hr>

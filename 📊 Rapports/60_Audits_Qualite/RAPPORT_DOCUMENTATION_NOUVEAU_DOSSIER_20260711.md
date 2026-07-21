@@ -1,11 +1,11 @@
 ---
 title: "RAPPORT DE DOCUMENTATION — Nouveau Dossier ERP"
+date: 2026-07-11
 description: "Date** : 11 juillet 2026"
 type: rapport
 ---
-
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › RAPPORT DOCUMENTATION NOUVEAU DOSSIER 20260711*
+*[🏠](../../README.md) › [📊 Rapports et Analyses](../README.md) › [60_Audits_Qualite — Audits internes et qualité](./README.md) › RAPPORT DOCUMENTATION NOUVEAU DOSSIER 20260711*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -20,10 +20,14 @@ type: rapport
 ## Sommaire
 
 1. [Description du Nouveau Dossier](#1-description-du-nouveau-dossier)
-2. [Contenu Détaillé](#2-contenu-détaillé)
+
+2. [Contenu Détaillé](#2-contenu-d%C3%A9taill%C3%A9)
+
 3. [Liens avec le Projet](#3-liens-avec-le-projet)
-4. [Mises à Jour Effectuées](#4-mises-à-jour-effectuées)
-5. [Prochaines Étapes](#5-prochaines-étapes)
+
+4. [Mises à Jour Effectuées](#4-mises-%C3%A0-jour-effectu%C3%A9es)
+
+5. [Prochaines Étapes](#5-prochaines-%C3%A9tapes)
 
 ---
 
@@ -47,8 +51,11 @@ Ce dossier contient la correspondance officielle envoyée le 10 juillet 2026 à 
 
 ### I.4 — Objectifs du Dossier
 1. **Suivi administratif** : Demande de communication des références des saisines administratives
+
 2. **Transparence** : Mise à jour sur l'évolution de la situation (courriers retournés NPAI, réouverture du salon)
+
 3. **Coordination** : Faciliter la coordination entre les services municipaux et l'autorité judiciaire
+
 4. **Preuve documentaire** : Conservation de la correspondance officielle pour le dossier juridique
 
 ---
@@ -59,42 +66,57 @@ Ce dossier contient la correspondance officielle envoyée le 10 juillet 2026 à 
 
 **Metadata :**
 - **Date** : 10 juillet 2026, 09:16
+
 - **Expéditeur** : Sébastien Grazide "<sebastien.grazide@gmail.com>"
+
 - **Destinataire** : secretariat@mairie-foix.fr
+
 - **Cci** : contact@gribouilleimport.com
+
 - **Format** : Email professionnel (format texte brut)
 
 **Contenu Structuré :**
 
 #### II.1.a — Contexte et Historique (§1-4)
 - Rappel des correspondances précédentes (1er juin, 2 juin, 5 juillet 2026)
+
 - Saisie des services : Préfecture, Inspection du Travail, CODAF
+
 - Ouverture de la procédure pénale (PV n°2026/015967)
 
 #### II.1.b — Demande Principale (§5)
 - Communication des références des saisines administratives du 1er juin 2026
+
 - Objectif : Suivi de l'évolution des dossiers administratifs
+
 - Finalité : Transmission à l'autorité judiciaire
 
 #### II.1.c — Éléments Nouveaux (§6-9)
 - **Médical** : Protocole kinésithérapie, pronostic de récupération partielle
+
 - **Administratif** : Courriers LRAR retournés NPAI (29/06/2026)
+
 - **Judiciaire** : Transmission dossier médical au Procureur (11 pièces)
+
 - **Économique** : Réouverture du salon (06/07/2026) malgré les problèmes
 
 #### II.1.d — Conclusion (§10-12)
 - Mise à disposition du dossier complet
+
 - Offre de collaboration avec les services municipaux
+
 - Formules de politesse professionnelles
 
 ### II.2 — Fichiers Complémentaires
 
 1. **20260710-0916 MAIL Actualisation Dossier ERP.docx** (783 KB)
+
    - Version Word du courrier
    - Format : Document Microsoft Word (.docx)
    - Utilisation : Envoi officiel ou impression
 
 2. **20260710-0916 MAIL Actualisation Dossier ERP.pdf** (52 KB)
+
    - Version PDF du courrier
    - Format : Document Adobe Acrobat (.pdf)
    - Utilisation : Archivage et partage
@@ -106,9 +128,12 @@ Ce dossier contient la correspondance officielle envoyée le 10 juillet 2026 à 
 ### III.1 — Correspondance avec le Courrier n°34
 
 Ce dossier est directement lié au **courrier n°34** du projet :
-- **Document** : [⚖️ Actes/🔑 Token/✉️ Courriers/✉️🚨 Prefecture.md](⚖️%20Actes/🔑%20Token/✉️%20Courriers/34%20✉️%20EMAIL%20Maire%20Foix%20-%20Police%20Municipale%20ERP.md)
+- **Document** : [⚖️ Actes/🔑 Token/✉️ Courriers/✉️ Prefecture 🚨Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/34%20%E2%9C%89%EF%B8%8F%20EMAIL%20Maire%20Foix%20-%20Police%20Municipale%20ERP.md)
+
 - **Type** : Email de suivi administratif
+
 - **Date** : 10 juillet 2026
+
 - **Objectif** : Mise à jour du dossier ERP et demande d'intervention
 
 ### III.2 — Intégration dans la Chronologie
@@ -129,12 +154,16 @@ gantt
 
 **Documents liés dans le projet :**
 - Courrier n°34 : Email initial à la mairie (10/07/2026)
+
 - Document n°35 : Courrier au Président TJ Foix (12/07/2026)
+
 - Note Audit RNE NPAI SAS (10/07/2026)
 
 **Procédures liées :**
 - Procédure pénale (PV n°2026/015967)
+
 - Saisie Préfecture/Inspection du Travail/CODAF
+
 - Constitution de partie civile
 
 ---
@@ -145,7 +174,9 @@ gantt
 
 **Fichier créé :** `RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711.md`
 - Emplacement : [📊 Rapports](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
+
 - Contenu : Documentation complète du nouveau dossier
+
 - Objectif : Reference pour tous les agents du projet
 
 ### IV.2 — Mise à Jour des README
@@ -154,8 +185,8 @@ gantt
 ```markdown
 # Index<br>📂 Preuves officielles (Versions Réelles)
 
-- [📁 Preparation Expertise UMJ.md](01%20📁%20Dossier%20UMJ%20Preparation.md)
-- [20260710 📧 Actualisation Dossier ERP/](../⚖️%20Actes/Preuves%20officielles/20260710%20📧%20Actualisation%20Dossier%20ERP)
+- [📁 Preparation Expertise UMJ.md](01%20%F0%9F%93%81%20Dossier%20UMJ%20Preparation.md)
+- [20260710 📧 Actualisation Dossier ERP/](../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260710%20%F0%9F%93%A7%20Actualisation%20Dossier%20ERP)
 ```
 
 **⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md**
@@ -203,6 +234,7 @@ gantt
    ```
 
 2. **Vérifier l'intégration** :
+
    - Vérifier que le dossier apparaît dans la version 👤 Reel
    - Tester les liens dans les README
    - Valider la cohérence des tokens
@@ -219,15 +251,18 @@ gantt
 ### VI.2 — Actions de Suivi
 
 1. **Surveiller les réponses** :
+
    - Attendre la réponse de la Mairie de Foix
    - Noter la date de réception
    - Archiver dans le dossier approprié
 
 2. **Mettre à jour le statut** :
+
    - Passer de "Envoyé" à "Reçu" dans STATUS.md
    - Ajouter les références des saisines administratives
 
 3. **Intégrer dans la stratégie** :
+
    - Lier avec la procédure ERP en cours
    - Utiliser pour les prochaines relances
    - Référencer dans les conclusions judiciaires
@@ -235,11 +270,13 @@ gantt
 ### VI.3 — Documentation Complémentaire
 
 1. **Créer une fiche récapitulative** :
+
    - Résumé des correspondances avec la mairie
    - Timeline des échanges
    - Statut de chaque demande
 
 2. **Mettre à jour le calendrier** :
+
    - Ajouter dans le calendrier procédural
    - Lier avec les échéances administratives
 
@@ -258,8 +295,11 @@ gantt
 ### VII.2 — Statistiques
 
 - **1 nouveau dossier** ajouté
+
 - **3 fichiers** (MD, DOCX, PDF) archivés
+
 - **4 fichiers** mis à jour (2 README, STATUS, TODO)
+
 - **1 rapport** de documentation créé
 
 ### VII.3 — Prochaine Étape Critique
