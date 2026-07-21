@@ -103,7 +103,7 @@ Les décisions suivantes établissent des précédents juridiques pertinents pou
 
 - **Résumé** : Cet arrêt confirme qu'une chose inerte peut être qualifiée d'instrument du dommage si la victime démontre que cette chose présentait un état anormal ou un danger. En l'espèce, la présence d'une cassure tranchante non protégée et non signalée sur le flanc de la vasque caractérise cet état anormal.
 
-- **Lien** : [Consulter sur Légifrance](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007046467)
+- **Lien** : [Consulter sur Légifrance](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026156720)
 
 **Pertinence** : La vasque en céramique brisée, bien qu'inerte avant le basculement, présentait un état anormal et dangereux (éclats tranchants non sécurisés), ce qui suffit à établir son rôle actif et causal dans la section des tendons de la main de la victime.
 
@@ -368,7 +368,7 @@ Pour **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20To
 
 [^1]: [Article 835 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) ↩
 [^2]: [Consulter sur Légifrance — www.legifrance.gouv.fr/juri/id/JURITEXT000006927230](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006927230) ↩
-[^3]: [Consulter sur Légifrance — www.legifrance.gouv.fr/juri/id/JURITEXT000007046467](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007046467) ↩
+[^3]: [Consulter sur Légifrance — www.legifrance.gouv.fr/juri/id/JURITEXT000026156720](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026156720) ↩
 [^4]: [Consulter sur Légifrance — www.legifrance.gouv.fr/juri/id/JURITEXT000007044005](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007044005) ↩
 [^5]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 [^6]: [Article 1242 alinéa 5 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩

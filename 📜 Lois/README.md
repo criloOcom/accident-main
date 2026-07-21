@@ -291,7 +291,7 @@ Tous les arrêts sont disponibles dans le dossier [📜 Jurisprudence/README.md]
 
 - [🔗](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026515553) [11-15.699](%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20des%20dirigeants/11-15.699_CourCassation.md) — Com.
 
-- [🔗](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007046467) [11-13.384](%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20des%20dirigeants/11-13.384_CourCassation.md) — Com.
+- [🔗](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026156720) [11-13.384](%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20des%20dirigeants/11-13.384_CourCassation.md) — Com.
 
 ### [🏛️ Action directe et obligation d'assurance (4 arrêts)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 - [🔗](https://www.legifrance.gouv.fr/juri/id/JURITEXT000032194983) [14-15.326](%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/14-15.326_CourCassation.md) — Civ. 3e — Obligation assurance bailleur
