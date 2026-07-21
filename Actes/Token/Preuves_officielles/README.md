@@ -10,8 +10,6 @@ type: readme
 
 # 📄 Preuves Officielles
 
----
-
 **Ce dossier recense les documents physiques et officiels produits dans le cadre de la procédure.**  
 Ces pièces constituent le socle factuel du litige : constats, comptes rendus médicaux, procès-verbaux.
 

@@ -11,8 +11,6 @@ type: readme
 
 # 📨 Courriers<br>Version Réelle
 
----
-
 **Correspondance avec les tiers** — version réelle (identités non anonymisées).
 Généré automatiquement par [`.dev/app/generate_real_versions.py`](../../../.dev/app/generate_real_versions.py).
 

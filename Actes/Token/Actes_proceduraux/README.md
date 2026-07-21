@@ -11,8 +11,6 @@ type: readme
 
 # ⚖️ Actes procéduraux<br>Version Token
 
----
-
 **Actes juridiques** — version de travail anonymisée.
 
 ## 📂 Contenu

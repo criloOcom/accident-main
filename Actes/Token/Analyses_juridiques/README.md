@@ -10,8 +10,6 @@ type: readme
 
 # 📚 Analyses Juridiques
 
----
-
 **Ce dossier contient les notes d'analyse juridique, les plaidoiries, et les documents de synthèse destinés à l'audience.**  
 Ces documents constituent le socle argumentaire de la procédure.
 

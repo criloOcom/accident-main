@@ -11,8 +11,6 @@ type: readme
 
 # 👤 Actes / reel<br>Version réelle
 
----
-
 **Ce dossier contient les versions réelles de tous les actes.**  
 Généré automatiquement par le script [`.dev/app/generate_real_versions.py`](../../.dev/app/generate_real_versions.py) à partir des fichiers dans [`Token/`](../Token/README.md).
 

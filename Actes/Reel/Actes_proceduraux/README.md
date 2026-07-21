@@ -11,8 +11,6 @@ type: readme
 
 # ⚖️ Actes procéduraux<br>Version Réelle
 
----
-
 **Actes juridiques** — version réelle (identités non anonymisées).
 Généré automatiquement par [`.dev/app/generate_real_versions.py`](../../../.dev/app/generate_real_versions.py).
 

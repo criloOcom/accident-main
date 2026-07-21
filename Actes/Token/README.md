@@ -11,8 +11,6 @@ type: readme
 
 # 🎭 Actes / token<br>Version Anonymisée
 
----
-
 **Ce dossier contient la version de travail de tous les actes.**  
 Les identités réelles (noms, adresses, email, immatriculations) y sont remplacées par des tokens entre crochets et en **gras** : `[**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md)`, `[**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md)`, etc.
 
