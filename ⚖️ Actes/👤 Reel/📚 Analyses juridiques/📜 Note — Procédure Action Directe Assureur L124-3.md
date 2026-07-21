@@ -398,7 +398,7 @@ L'action directe contre l'assureur de [SAS HB BARBER](../../../%F0%9F%A7%A0%20Me
 
 2. En parallèle, consulter l'ORIAS pour identifier l'assureur déclaré ;
 
-3. Une fois l'assureur identifié, lui adresser une mise en demeure formelle (modèle disponible dans la [**Note Droit Assurances**](../../%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/%F0%9F%93%9C%20Note%20Droit%20Assurances.md)) ;
+3. Une fois l'assureur identifié, lui adresser une mise en demeure formelle (modèle disponible dans la [**Note Droit Assurances**](%F0%9F%93%9C%20Note%20Droit%20Assurances.md)) ;
 
 4. En cas de silence ou refus, saisir le juge des référés pour obtenir une provision et une expertise médicale ;
 

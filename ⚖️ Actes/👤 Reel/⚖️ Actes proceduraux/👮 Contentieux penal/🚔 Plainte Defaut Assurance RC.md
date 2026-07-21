@@ -12,7 +12,6 @@ statut: final
 destinataire: Procureur de la République
 auteur: La Victime
 reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md
-token_path: ../../../🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md
 source: drive
 drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
 jx: J+32

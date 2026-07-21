@@ -27,7 +27,7 @@ jx: J+368
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -425,7 +425,7 @@ Vu les pièces versées aux débats,
 
 3. Ordonnance de référé du [**[Date Ordonnance Référé]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) (provision 15 000 €)
 
-4. [Constitution de partie civile](../../../%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) du [**[J+38 Date CPC]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)
+4. [Constitution de partie civile](../%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) du [**[J+38 Date CPC]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)
 
 5. Certificats médicaux et comptes rendus opératoires (SOS Main)
 

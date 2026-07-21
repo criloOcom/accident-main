@@ -15,7 +15,6 @@ statut: final
 destinataire: Doyen des Juges d'Instruction
 auteur: La Victime
 reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md
-token_path: ../../../🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md
 source: drive
 drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
 jx: J+38
@@ -25,7 +24,7 @@ jx: J+38
 <hr>
 <!-- /Breadcrumb -->
 
-# [CONSTITUTION DE PARTIE CIVILE](../../../%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
+# [CONSTITUTION DE PARTIE CIVILE](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
 > 🔗 Source Google Drive : [1FNHNbCe5WUH…](https://drive.google.com/open?id=1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg)
 **Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants**
 
@@ -40,7 +39,7 @@ Tribunal Judiciaire de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%E
 [Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le **[6 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)**
 ## I — INTRODUCTION
 
-La presente [constitution de partie civile](../../../%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) est formee par **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** dans le cadre de la procedure penale suivie a l'encontre de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), de son President [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et de sa Directrice Generale [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), en application des articles 2 et suivants du Code de procedure penale.
+La presente [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) est formee par **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** dans le cadre de la procedure penale suivie a l'encontre de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), de son President [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et de sa Directrice Generale [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), en application des articles 2 et suivants du Code de procedure penale.
 
 Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la reparation de l'integralite des prejudices corporels, materiels et moraux decoulant de l'accident survenu le **[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 <hr><hr>
@@ -157,7 +156,7 @@ Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'inf
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité.[^9]**
 
-En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles 706-3 et 706-14 du Code de procédure pénale (Titre XIV), pourra être directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente [constitution de partie civile](../../../%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) sollicite formellement la designation du FGTI comme garant subrogatoire.
+En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles 706-3 et 706-14 du Code de procédure pénale (Titre XIV), pourra être directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) sollicite formellement la designation du FGTI comme garant subrogatoire.
 <hr><hr>
 
 ## IV — PREJUDICES
@@ -185,7 +184,7 @@ Les prejudices subis par **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memor
 
 Par ces motifs, **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction de :
 
-1. **DECLARER** recevable la presente [constitution de partie civile](../../../%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) ;
+1. **DECLARER** recevable la presente [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) ;
 
 2. **PRENDRE ACTE** du depot du rapport d'expertise medicale judiciaire en date du 12 juin 2027, ayant fixe la consolidation au 1er mars 2027, le DFP a 12 % et les souffrances endurees a 4/7 ;
 
@@ -217,7 +216,7 @@ Vu les pieces versees aux debats,
 
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** se constitue partie civile et sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction, ou a tout magistrat compose le Tribunal Judiciaire de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, de :
 
-1. **RECEVOIR** la presente [constitution de partie civile](../../../%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) ;
+1. **RECEVOIR** la presente [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) ;
 
 2. **PRENDRE ACTE** du depot du rapport d'expertise medicale judiciaire en date du 12 juin 2027 (consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure) ;
 
@@ -282,7 +281,7 @@ Fait a [Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Token
 
 ### NOTE MÉTHODOLOGIQUE
 
-Cette version de la [constitution de partie civile](../../../%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) est une **version consolidée** intégrant les données du rapport d'expertise médicale simulé (déposé le 12 juin 2027, consolidation au 1er mars 2027).
+Cette version de la [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) est une **version consolidée** intégrant les données du rapport d'expertise médicale simulé (déposé le 12 juin 2027, consolidation au 1er mars 2027).
 
 Les sections mises à jour :
 - **Section I** : description lésionnelle harmonisée avec le rapport d'expertise, ajout de la consolidation
