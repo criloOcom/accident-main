@@ -34,7 +34,7 @@ Rédigé le [**[J+31 Mises en demeure]**](../../../Memory/Tokens/token-j-31-mise
 
 [**[L'Adresse de la Victime]**](../../../Memory/Tokens/token-victime-adresse.md)
 
-Courriel : [**[L'Email de la Victime]**](../../../Memory/Tokens/token-victime-email.md)
+[**[L'Email de la Victime]**](../../../Memory/Tokens/token-victime-email.md)
 
 Service Sinistres
 
@@ -143,7 +143,7 @@ L'ensemble des pièces et de la procédure vous sera communiqué par transparenc
 
 Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 
-Mes coordonnées : [**[L'Adresse de la Victime]**](../../../Memory/Tokens/token-victime-adresse.md) / Courriel : [**[L'Email de la Victime]**](../../../Memory/Tokens/token-victime-email.md)
+Mes coordonnées : [**[L'Adresse de la Victime]**](../../../Memory/Tokens/token-victime-adresse.md) / [**[L'Email de la Victime]**](../../../Memory/Tokens/token-victime-email.md)
 
 [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md)
 <!-- Source -->

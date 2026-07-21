@@ -38,7 +38,7 @@ jx: J+38
 
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
 A l'attention de Monsieur le Doyen des Juges d'Instruction
 

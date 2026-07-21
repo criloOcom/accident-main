@@ -34,7 +34,7 @@ Rédigé le [29 juin 2026](../../../Memory/Tokens/token-j-31-mises-en-demeure.md
 
 [10 Avenue de Purpan, 31700 Blagnac](../../../Memory/Tokens/token-victime-adresse.md)
 
-Courriel : [sebastien.grazide@gmail.com](../../../Memory/Tokens/token-victime-email.md)
+[sebastien.grazide@gmail.com](../../../Memory/Tokens/token-victime-email.md)
 
 Service Sinistres
 
@@ -143,7 +143,7 @@ L'ensemble des pièces et de la procédure vous sera communiqué par transparenc
 
 Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 
-Mes coordonnées : [10 Avenue de Purpan, 31700 Blagnac](../../../Memory/Tokens/token-victime-adresse.md) / Courriel : [sebastien.grazide@gmail.com](../../../Memory/Tokens/token-victime-email.md)
+Mes coordonnées : [10 Avenue de Purpan, 31700 Blagnac](../../../Memory/Tokens/token-victime-adresse.md) / [sebastien.grazide@gmail.com](../../../Memory/Tokens/token-victime-email.md)
 
 [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)
 <!-- Source -->

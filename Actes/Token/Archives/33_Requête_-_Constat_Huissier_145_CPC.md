@@ -33,7 +33,7 @@ reel_path: ../../Reel/Archives/33_Requête_-_Constat_Huissier_145_CPC.md
 
 [**[L'Adresse de la Victime]**](../../../Memory/Tokens/token-victime-adresse.md)
 
-Courriel : [**[L'Email de la Victime]**](../../../Memory/Tokens/token-victime-email.md)
+[**[L'Email de la Victime]**](../../../Memory/Tokens/token-victime-email.md)
 
 **Tribunal Judiciaire de [La Ville de l'Accident]**
 

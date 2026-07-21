@@ -41,7 +41,7 @@ jx: J+38
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**
 
 <!-- Destinataire -->
-Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Destinataire -->
 
 **[L'Identifiant Professionnel de la Victime](../../../../Memory/Tokens/token-victime-id-professionnel.md)**

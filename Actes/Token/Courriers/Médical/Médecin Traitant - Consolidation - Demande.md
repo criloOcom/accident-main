@@ -37,7 +37,7 @@ jx: J+37
 > 🔗 Source Google Drive : [1PSv6c0YFvLa…](https://drive.google.com/open?id=1PSv6c0YFvLa0WDEbwc3AVxL14z7ARi5ne50ctJgCvWI)
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
 **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**
 
@@ -114,7 +114,7 @@ Le certificat de consolidation constitue une piece essentielle sans laquelle auc
 
 Je vous remercie par avance de l'attention que vous porterez a cette demande et reste a votre entiere disposition pour tout renseignement complementaire (notamment la transmission de l'integralite de mon dossier medical).
 
-Mes coordonnees pour reponse : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** / Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnees pour reponse : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** / **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
 Je vous prie d'agreer, Madame, Docteur, l'expression de ma consideration distinguee.
 

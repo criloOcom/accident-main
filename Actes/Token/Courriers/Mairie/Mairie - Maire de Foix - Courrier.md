@@ -31,7 +31,7 @@ calendar_event_id: gqu5r7mbuh6570913b2nisi7t8
 <!-- Auteur -->
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
-Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 **Monsieur le Maire**

@@ -34,7 +34,7 @@ jx: J+44
 <!-- Auteur -->
 **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
-Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 **Monsieur le President du Tribunal Judiciaire de Foix**

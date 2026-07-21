@@ -25,7 +25,7 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - Président - Cour
 
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 [Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)
 
@@ -124,7 +124,7 @@ Comptant sur votre diligence et votre sens des responsabilités pour débloquer 
 
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 Téléphone : **[06 30 51 67 75](../../../../Memory/Tokens/token-victime-telephone.md)**
 <!-- Source -->

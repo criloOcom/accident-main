@@ -37,7 +37,7 @@ jx: J+31
 
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
 **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**

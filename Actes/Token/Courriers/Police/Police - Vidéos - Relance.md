@@ -37,7 +37,7 @@ jx: J+37
 > 🔗 Source Google Drive : [171CF_LzNopY…](https://drive.google.com/open?id=171CF_LzNopYxIS6Tn4i3t3Ghx3ut14F1gh6-KjHevCA)
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
 **Police Nationale — Commissariat de [La Ville de l'Accident]**
 
@@ -80,7 +80,7 @@ Je sollicite donc que les images de videosurveillance de l'etablissement soient 
 
 ### I.3 — **3. LA COMMUNICATION DE L'IDENTITE DE L'OFFICIER EN CHARGE DU DOSSIER** <BR>Afin de pouvoir suivre l'avancement de la procedure, je souhaiterais connaitre l'identite du ou des officiers de police judiciaire en charge de mon dossier.
 
-Mes coordonnees : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnees : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 

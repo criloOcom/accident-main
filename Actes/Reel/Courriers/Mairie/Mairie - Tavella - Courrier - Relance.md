@@ -33,7 +33,7 @@ jx: J+37
 > 🔗 Source Google Drive : [1Xj4wf-v-ShC…](https://drive.google.com/open?id=1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw)
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 **[Monsieur TAVELLA](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**
 

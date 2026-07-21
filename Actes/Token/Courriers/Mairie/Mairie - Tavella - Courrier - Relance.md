@@ -33,7 +33,7 @@ jx: J+37
 > 🔗 Source Google Drive : [1Xj4wf-v-ShC…](https://drive.google.com/open?id=1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw)
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
 **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**
 

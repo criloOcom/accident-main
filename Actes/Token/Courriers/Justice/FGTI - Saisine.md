@@ -42,7 +42,7 @@ jx: J+38
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
 **[Le Téléphone de la Victime](../../../../Memory/Tokens/token-victime-telephone.md)**  
-Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 **Fonds de Garantie des Victimes (FGTI)**  

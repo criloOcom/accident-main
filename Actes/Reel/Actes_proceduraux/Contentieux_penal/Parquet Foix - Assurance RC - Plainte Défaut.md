@@ -32,7 +32,7 @@ Rédigé le **[30 juin 2026](../../../../Memory/Tokens/token-j-32-assignation-re
 
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**
 
-Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 **[500 474 457](../../../../Memory/Tokens/token-victime-id-professionnel.md)**
 

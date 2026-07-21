@@ -40,7 +40,7 @@ jx: J+37
 > 🔗 Source Google Drive : [1sIkiScOSFZy…](https://drive.google.com/open?id=1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM)
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 **Prefecture de l'Ariege**
 
@@ -141,7 +141,7 @@ Je sollicite de vos services :
 
 3. La communication des suites réservées à ce signalement
 
-Mes coordonnées : **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** — Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnées : **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** — **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Préfet, l'expression de ma considération distinguée.
 

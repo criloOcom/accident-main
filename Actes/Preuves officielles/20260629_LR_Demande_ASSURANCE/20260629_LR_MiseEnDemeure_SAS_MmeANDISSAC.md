@@ -32,7 +32,7 @@ drive_id: 1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93
 Sébastien GRAZIDE​
 10 Avenue de Purpan​
 31700 Blagnac​
-Courriel : sebastien.grazide@gmail.com
+sebastien.grazide@gmail.com
 
 Madame Catherine ANDISSAC (née SORROCHE), Directrice Générale​
 7 Rue Camille Mussat​

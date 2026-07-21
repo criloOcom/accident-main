@@ -37,7 +37,7 @@ jx: J+37
 > 🔗 Source Google Drive : [1gFhTi6GhD6u…](https://drive.google.com/open?id=1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E)
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 **INPI — Registre National des Entreprises**
 
@@ -114,7 +114,7 @@ Cette demande est motivee par la necessite de prevenir toute modification de la 
 
 Les montants en jeu sont estimes a **~126 000 € (plancher, avis Dintilhac du 13/07/2026 ; fourchette 126 000-161 500 €)** au titre de la reparation integrale des prejudices corporels. (Réf. obsolète 59 600 € écartée — voir Memory/STRICT VARIABLES.md.)
 
-Mes coordonnees : **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** — Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnees : **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** — **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 

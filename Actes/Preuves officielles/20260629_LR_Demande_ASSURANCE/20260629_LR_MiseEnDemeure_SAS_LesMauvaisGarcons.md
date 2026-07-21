@@ -32,7 +32,7 @@ drive_id: 1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn
 Sébastien GRAZIDE​
 10 Avenue de Purpan​
 31700 Blagnac​
-Courriel : sebastien.grazide@gmail.com
+sebastien.grazide@gmail.com
 
 Direction de la SAS LES MAUVAIS GARCONS​
 22 Rue Lafaurie​

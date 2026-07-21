@@ -41,7 +41,7 @@ jx: J+38
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**
 
 <!-- Destinataire -->
-Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Destinataire -->
 
 **[500 474 457](../../../../Memory/Tokens/token-victime-id-professionnel.md)**

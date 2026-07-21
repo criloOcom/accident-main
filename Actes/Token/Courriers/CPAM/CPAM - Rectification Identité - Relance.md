@@ -40,7 +40,7 @@ reel_path: ../../../Reel/Courriers/CPAM/CPAM - Rectification Identité - Relance
 <!-- Auteur -->
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 **CPAM de la Haute-Garonne**  

@@ -37,7 +37,7 @@ calendar_event_id: 9ortbnkvp8it8hnebif5fr4bec
 
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
 **Service des Impots des Entreprises de [La Ville de l'Accident]**
 **URSSAF Midi-Pyrenees**
@@ -110,7 +110,7 @@ Conformement aux pouvoirs respectifs du SIE (recouvrement des creances fiscales,
 
 L'absence de reponse dans un delai de **quinze jours** a compter de la reception de la presente sera consideree comme un refus implicite et emportera le droit d'engager toute action conservatoire utile devant le juge des referes.
 
-Mes coordonnees : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnees : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 

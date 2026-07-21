@@ -41,7 +41,7 @@ jx: J+37
 > 🔗 Source Google Drive : [1CCl3bFp_jkY…](https://drive.google.com/open?id=1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE)
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
 **SDIS de l'Ariege**
 
@@ -91,6 +91,6 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Direc
 
 - **[Signalement Préfecture](../../../Reel/Courriers/Administrations/Pr%C3%A9fecture%20-%20Signalement.md)** — Confirmation officielle transmise a la Prefecture de l'Ariege
 
-Mes coordonnees : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnees : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /PJ -->
 

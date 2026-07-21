@@ -39,7 +39,7 @@ signataire: 'Sébastien GRAZIDE (envoi sans signature manuscrite)'
 > 🔗 Source Google Drive : [À COMPLÉTER APRÈS ENVOI]
 
 [10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)  
-Courriel : [sebastien.grazide@gmail.com](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)  
+[sebastien.grazide@gmail.com](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)  
 <!-- Date -->
 [Blagnac](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes), le **19 juillet 2026**  
 <!-- /Date -->

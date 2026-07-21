@@ -42,7 +42,7 @@ jx: J+38
 **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
 **[06 30 51 67 75](../../../../Memory/Tokens/token-victime-telephone.md)**  
-Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 **Fonds de Garantie des Victimes (FGTI)**  

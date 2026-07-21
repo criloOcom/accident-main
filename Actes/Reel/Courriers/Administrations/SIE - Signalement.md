@@ -34,7 +34,7 @@ jx: J+37
 > 🔗 Source Google Drive : [1yl55r__e8V0…](https://drive.google.com/open?id=1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA)
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 **Service des Impôts des Entreprises de Foix
 
@@ -76,7 +76,7 @@ Les procedures suivantes ont ete engagees :
 
 Je souhaiterais etre informe de toute modification de la situation fiscale de la societe qui pourrait intervenir (cessation d'activite, liquidation, radiation) dans le cadre de la presente procedure.
 
-Mes coordonnees : **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** — Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnees : **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** — **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 

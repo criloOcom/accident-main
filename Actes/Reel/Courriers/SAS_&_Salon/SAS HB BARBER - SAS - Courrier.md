@@ -36,7 +36,7 @@ jx: J+31
 > 🔗 Source Google Drive : [1s5_z0l9yti3…](https://drive.google.com/open?id=1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc)
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 Direction de **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
@@ -93,7 +93,7 @@ Mon dossier de recours contre tiers (n° 31727387) est actuellement ouvert aupr�
 
 Afin que les différents organismes de santé puissent entrer en contact direct avec votre compagnie d'assurance de responsabilité civile professionnelle pour la gestion de ce sinistre, je vous remercie de bien vouloir me transmettre par retour de courrier ou par courriel les coordonnées de votre assureur ainsi que votre numéro de police d'assurance.
 
-Mes coordonnées pour réponse : **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** / Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnées pour réponse : **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** / **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 Je vous remercie par avance pour votre aide et reste à votre entière disposition pour tout renseignement complémentaire.
 

@@ -468,7 +468,7 @@ ________________
 Sébastien GRAZIDE
 10 Avenue de Purpan
 31700 Blagnac
-Courriel : sebastien.grazide@gmail.com
+sebastien.grazide@gmail.com
 
 
 Monsieur Mountasser SABIR, Président
@@ -600,7 +600,7 @@ ________________
 Sébastien GRAZIDE
 10 Avenue de Purpan
 31700 Blagnac
-Courriel : sebastien.grazide@gmail.com
+sebastien.grazide@gmail.com
 
 
 Madame Catherine ANDISSAC (née SORROCHE), Directrice Générale
@@ -725,7 +725,7 @@ ________________
 Sébastien GRAZIDE
 10 Avenue de Purpan
 31700 Blagnac
-Courriel : sebastien.grazide@gmail.com
+sebastien.grazide@gmail.com
 
 
 Direction de la SAS LES MAUVAIS GARCONS
@@ -845,7 +845,7 @@ ________________
 Sébastien GRAZIDE
 10 Avenue de Purpan
 31700 Blagnac
-Courriel : sebastien.grazide@gmail.com
+sebastien.grazide@gmail.com
 
 
 Monsieur Romain DELRIEU

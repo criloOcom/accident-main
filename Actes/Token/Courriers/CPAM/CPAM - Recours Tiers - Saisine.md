@@ -35,7 +35,7 @@ jx: J+38
 > 🔗 Source Google Drive : [1_cHcprI9XKo…](https://drive.google.com/open?id=1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY)
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
 **CPAM de la Haute-Garonne**
 Direction des Recours Contre Tiers
@@ -213,7 +213,7 @@ Je sollicite de vos services :
 
 **4. L'identification de l'assureur** de la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** si vos services disposent de cette information dans le cadre de la gestion du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md).
 
-Mes coordonnees demeurent : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnees demeurent : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 

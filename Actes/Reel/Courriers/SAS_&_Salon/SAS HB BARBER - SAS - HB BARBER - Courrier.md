@@ -24,7 +24,7 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - SAS - HB BARBER -
 
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 SIREN : **[500 474 457](../../../../Memory/Tokens/token-victime-id-professionnel.md)**
 
@@ -140,7 +140,7 @@ Souhaitant vivement que cette situation puisse être régularisée de manière s
 
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 Téléphone : **[06 30 51 67 75](../../../../Memory/Tokens/token-victime-telephone.md)**
 

@@ -31,7 +31,7 @@ calendar_event_id: gqu5r7mbuh6570913b2nisi7t8
 <!-- Auteur -->
 **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
-Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 **Monsieur le Maire**

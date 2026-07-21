@@ -33,7 +33,7 @@ drive_id: 117sFmGu7yFbYzd0VrKYNSCK_tDYHugrL
 Sébastien GRAZIDE​
 10 Avenue de Purpan​
 31700 Blagnac​
-Courriel : sebastien.grazide@gmail.com
+sebastien.grazide@gmail.com
 
 Monsieur Sabir MOUNTASSER, Président​
 108 Cite Aime Surre avenue paul bert​

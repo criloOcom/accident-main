@@ -35,7 +35,7 @@ jx: J+37
 > 🔗 Source Google Drive : [1MHhZf_KN4b3…](https://drive.google.com/open?id=1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k)
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 **CPAM de la Haute-Garonne**
 
@@ -82,7 +82,7 @@ Conformement a l'Article L.376-1 du Code de la securite sociale, je souhaiterais
 **4. Les demarches a entreprendre** <br>
 Je vous remercie de bien vouloir m'indiquer les demarches que je dois entreprendre pour le suivi de mon dossier et la transmission des informations necessaires au bon deroulement de la procedure.
 
-Mes coordonnees : **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** — Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnees : **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** — **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 

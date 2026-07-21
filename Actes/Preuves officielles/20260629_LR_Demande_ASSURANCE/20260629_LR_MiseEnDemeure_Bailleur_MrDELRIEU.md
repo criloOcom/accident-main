@@ -32,7 +32,7 @@ drive_id: 114JeqDjs9-0PRC_PHQrBxH1CZ3PoZgIv
 Sébastien GRAZIDE​
 10 Avenue de Purpan​
 31700 Blagnac​
-Courriel : sebastien.grazide@gmail.com
+sebastien.grazide@gmail.com
 
 Monsieur Romain DELRIEU​
 17 Rue de la Baïse​

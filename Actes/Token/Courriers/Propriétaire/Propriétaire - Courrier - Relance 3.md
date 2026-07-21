@@ -39,7 +39,7 @@ signataire: '[La Victime] (envoi sans signature manuscrite)'
 > 🔗 Source Google Drive : [À COMPLÉTER APRÈS ENVOI]
 
 [**[L'Adresse de la Victime]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)  
-Courriel : [**[L'Email de la Victime]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)  
+[**[L'Email de la Victime]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)  
 <!-- Date -->
 [**[La Ville de Résidence de la Victime]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes), le **19 juillet 2026**  
 <!-- /Date -->

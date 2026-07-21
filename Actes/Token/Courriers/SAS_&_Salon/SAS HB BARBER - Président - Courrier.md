@@ -25,7 +25,7 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - Président - Cour
 
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
 [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md)
 
@@ -124,7 +124,7 @@ Comptant sur votre diligence et votre sens des responsabilités pour débloquer 
 
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
-Courriel : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
 Téléphone : **[Le Téléphone de la Victime](../../../../Memory/Tokens/token-victime-telephone.md)**
 <!-- Source -->

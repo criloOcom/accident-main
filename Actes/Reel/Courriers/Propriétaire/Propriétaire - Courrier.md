@@ -90,7 +90,7 @@ En tant que propriétaire bailleur, vous disposez d'un exemplaire du bail commer
 
 Afin d'éviter toute mise en cause indirecte ou toute procédure de référé d'heure à heure visant à la production forcée de ces pièces, je vous demande de bien vouloir me transmettre par retour de courrier ou par courriel les coordonnées de l'assureur de **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, telles qu'elles figurent dans vos dossiers et annexes de gestion du bail commercial.
 
-Mes coordonnées pour réponse : **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** / Courriel : **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnées pour réponse : **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** / **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 Cette démarche amiable vise exclusivement à orienter notre recours directement vers l'assureur légitime et à préserver les droits de la victime, y compris les réserves d'aggravation future.
 
