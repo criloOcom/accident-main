@@ -1,6 +1,7 @@
 ---
 title: "NW_M9_HUISSIER_2026-07-20"
 type: preuve
+date: "2026-07-20"
 ---
 # Rapport d'Audit — Mission Night Watch M9 (Huissier)
 **Date :** 2026-07-20

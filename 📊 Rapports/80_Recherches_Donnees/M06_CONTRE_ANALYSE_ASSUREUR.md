@@ -2,6 +2,7 @@
 title: "M06_CONTRE_ANALYSE_ASSUREUR"
 description: "Contre-analyse Assureur Responsabilité Civile"
 type: rapport
+date: "2026-07-20"
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [📊 Rapports](../README.md) › [80_Recherches_Donnees](./README.md) › M06 CONTRE ANALYSE ASSUREUR*

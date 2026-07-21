@@ -7,7 +7,7 @@ tags:
   - audit
   - qualite
   - global
-statut: pret
+statut: final
 auteur: Gemini
 ---
 

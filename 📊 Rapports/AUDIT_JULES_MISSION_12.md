@@ -1,6 +1,7 @@
 ---
 title: "AUDIT_JULES_MISSION_12"
 type: preuve
+date: "2026-07-20"
 ---
 # Audit de Conformité RGPD de la strate 🔑 Token
 

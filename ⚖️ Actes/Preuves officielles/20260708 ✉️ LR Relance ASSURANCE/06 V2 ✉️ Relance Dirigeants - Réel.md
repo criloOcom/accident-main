@@ -2,6 +2,7 @@
 title: "RELANCE — DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE"
 description: "Mr Sébastien GRAZIDE"
 type: preuve
+date: "2026-07-20"
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [📂 Preuves officielles](../README.md) › [📁 20260708 LR Relance ASSURANCE](./README.md) › 06 V2 ✉️ Relance Dirigeants - Réel*

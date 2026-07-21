@@ -1,6 +1,7 @@
 ---
 title: "M09_AUDIT_TRANSACTIONS"
 type: preuve
+date: "2026-07-20"
 ---
 # M09 - AUDIT TRANSACTIONS ET RÉSERVE D'AGGRAVATION
 

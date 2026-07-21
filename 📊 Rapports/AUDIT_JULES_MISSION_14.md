@@ -2,6 +2,7 @@
 title: "Audit de cohérence — Document Utilisateur vs Base Documentaire"
 description: "Rapport comparatif des affirmations et chronologies entre USER_DOC_SYNTHESE.md et le reste du dépôt."
 type: rapport
+date: "2026-07-20"
 ---
 <!-- Breadcrumb -->
 <a href="../README.md">Retour</a>

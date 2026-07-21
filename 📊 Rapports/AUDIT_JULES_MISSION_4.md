@@ -1,7 +1,8 @@
 ---
 title: "Rapport d'Audit : Bascule vers la SAS HB BARBER"
 description: "Audit des dates et identifiants de la SAS HB BARBER (SIRET, SIREN, date de début d'activité au 22 avril 2026, capital, associés) dans tout le dépôt pour valider la bascule."
-type: report
+type: rapport
+date: "2026-07-20"
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [📊 Rapports](./README.md) › AUDIT_JULES_MISSION_4*

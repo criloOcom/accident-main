@@ -1,6 +1,7 @@
 ---
 title: "M08_AUDIT_CAUSALITE_ERP"
 type: preuve
+date: "2026-07-20"
 ---
 # Audit Causalité et Obligations ERP
 

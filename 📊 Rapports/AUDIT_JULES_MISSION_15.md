@@ -2,6 +2,7 @@
 title: "Audit Jules Mission 15"
 description: "Rapport d'audit complet de la structure du dépôt (liens internes, listes à puces, fils d'Ariane)"
 type: rapport
+date: "2026-07-20"
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [📊 Rapports et Analyses](./README.md) › AUDIT JULES MISSION 15*

@@ -1,6 +1,7 @@
 ---
 title: "M01_AUDIT_LEGIARTI"
 type: preuve
+date: "2026-07-20"
 ---
 # M01 - AUDIT TECHNIQUE LEGIARTI / JURITEXT
 

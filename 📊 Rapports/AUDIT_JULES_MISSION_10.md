@@ -1,6 +1,7 @@
 ---
 title: "AUDIT_JULES_MISSION_10"
 type: preuve
+date: "2026-07-20"
 ---
 # 📊 Rapport d'audit : Adresses et Sièges Sociaux
 
