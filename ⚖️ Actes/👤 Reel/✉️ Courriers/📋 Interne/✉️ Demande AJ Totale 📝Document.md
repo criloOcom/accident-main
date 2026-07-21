@@ -31,7 +31,7 @@ jx: J+50
 | Champ | Renseignement |
 |-------|---------------|
 | **Nom de naissance** | [Sébastien GRAZIDE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) |
-| **Prénom** | Sébastien |
+| **Prénom** | **[Sébastien](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-prenom.md)** |
 | **Date de naissance** | 18 janvier 1982 |
 | **Lieu de naissance** | [Toulouse](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) |
 | **Nationalité** | Française |
@@ -71,7 +71,7 @@ Demande d'indemnisation pour **accident corporel** — responsabilité civile du
 <hr><hr>
 
 ### Objet principal
-1. **Référé-provision** (Art. 835 C. pr. civ.) : Demande d'une provision de [15 000 €] à valoir sur la réparation des préjudices
+1. **Référé-provision** (Art. 835 C. pr. civ.) : Demande d'une provision de [**[15 000 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md)**] à valoir sur la réparation des préjudices
 
 2. **Expertise médicale judiciaire** (Art. 145 C. pr. civ.) : Désignation d'un expert judiciaire pour évaluer l'intégralité des postes de préjudice corporel
 
@@ -82,9 +82,9 @@ Demande d'indemnisation pour **accident corporel** — responsabilité civile du
 [Sébastien GRAZIDE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), partie **demanderesse**
 
 ### Qualité du/des défendeur(s)
-1. SAS HB BARBER, exploitant du salon de coiffure au 22 Rue Lafaurie, 09000 Foix, représenté par ses dirigeants
+1. **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, exploitant du salon de coiffure au 22 Rue Lafaurie, 09000 Foix, représenté par ses dirigeants
 
-2. SAS HB BARBER, exploitant effectif au jour de l'accident, intervenu volontairement
+2. **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, exploitant effectif au jour de l'accident, intervenu volontairement
 
 3. [Hamza El Hachemi BERGUIGA](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), dirigeant
 

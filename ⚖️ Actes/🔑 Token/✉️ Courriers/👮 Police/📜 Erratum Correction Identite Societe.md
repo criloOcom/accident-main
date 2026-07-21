@@ -1,6 +1,6 @@
 ---
 title: "Erratum — Correction de l'identité de la société exploitante"
-description: "Document d'erratum formel — Correction de la désignation de la société défenderesse : remplacement de [L'Exploitant du Commerce (La SAS)] par [L'Exploitant du Commerce (La SAS)] dans l'ensemble des actes et démarches"
+description: "Document d'erratum formel — Correction de la désignation de la société défenderesse : remplacement de [L'Ancien Exploitant du Commerce] par [L'Exploitant du Commerce (La SAS)] dans l'ensemble des actes et démarches"
 type: document
 date: 2026-07-17
 statut: final
@@ -34,9 +34,9 @@ reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/📜 Erratum Correcti
 
 ## 1. Exposé de l'erreur
 
-Dans l'ensemble des actes, courriers et démarches engagés entre le 2 juin 2026 et le 17 juillet 2026, j'ai désigné comme société exploitante du fonds de commerce situé au 22 rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, la société **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**.
+Dans l'ensemble des actes, courriers et démarches engagés entre le 2 juin 2026 et le 17 juillet 2026, j'ai désigné comme société exploitante du fonds de commerce situé au 22 rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, la société **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)**.
 
-Cette désignation était fondée sur les seules informations disponibles au moment de mes premières recherches (bases INPI, societe.com, annuaires en ligne). Lesdites bases ne mentionnaient alors que la société **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** à l'adresse précitée.
+Cette désignation était fondée sur les seules informations disponibles au moment de mes premières recherches (bases INPI, societe.com, annuaires en ligne). Lesdites bases ne mentionnaient alors que la société **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)** à l'adresse précitée.
 
 **Il s'avère aujourd'hui que cette désignation est erronée.**
 <hr><hr>
@@ -45,7 +45,7 @@ Cette désignation était fondée sur les seules informations disponibles au mom
 
 ### Juin 2026 — Premières recherches infructueuses
 
-Immédiatement après l'accident du 29 mai 2026, j'ai entrepris des recherches en ligne pour identifier la société exploitant le salon de coiffure au 22 rue Lafaurie, **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**. Les bases de données publiques consultées (INPI, societe.com, etc.) ne référençaient que **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** à cette adresse, sous le SIRET **[L'Identifiant de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md)**.
+Immédiatement après l'accident du 29 mai 2026, j'ai entrepris des recherches en ligne pour identifier la société exploitant le salon de coiffure au 22 rue Lafaurie, **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**. Les bases de données publiques consultées (INPI, societe.com, etc.) ne référençaient que **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)** à cette adresse, sous le SIRET **[L'Identifiant de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md)**.
 
 J'ai donc, de bonne foi, établi l'ensemble de mes démarches en désignant cette société comme responsable.
 
@@ -53,8 +53,8 @@ J'ai donc, de bonne foi, établi l'ensemble de mes démarches en désignant cett
 
 ### 29 juin 2026 — Envoi des actes concernés
 
-À cette date, j'ai envoyé plusieurs lettres recommandées avec accusé de réception, toutes désignant **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** comme destinataire ou société visée :
-- LRAR à **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
+À cette date, j'ai envoyé plusieurs lettres recommandées avec accusé de réception, toutes désignant **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)** comme destinataire ou société visée :
+- LRAR à **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)**
 
 - LRAR à **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)**
 
@@ -68,23 +68,23 @@ J'ai donc, de bonne foi, établi l'ensemble de mes démarches en désignant cett
 
 Deux événements concomitants ont révélé l'erreur :
 
-**1. Réponse du bailleur :** M. **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)**, bailleur des locaux du 22 rue Lafaurie, m'a répondu par courriel le 16 juillet 2026 en m'informant que la société **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** avait signé un état des lieux de sortie le 10 mars 2026, et qu'elle ne pouvait donc pas être l'exploitante au jour de l'accident.
+**1. Réponse du bailleur :** M. **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)**, bailleur des locaux du 22 rue Lafaurie, m'a répondu par courriel le 16 juillet 2026 en m'informant que la société **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)** avait signé un état des lieux de sortie le 10 mars 2026, et qu'elle ne pouvait donc pas être l'exploitante au jour de l'accident.
 
 **2. Visite des lieux :** Je me suis rendu physiquement au 22 rue Lafaurie, **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le 16 juillet 2026. J'ai alors constaté que l'enseigne sur la vitrine indiquait désormais **« [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) »**. Le commerce était exploité par une société que je ne connaissais pas : [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) , même adresse).
 
 Des recherches web complémentaires effectuées à mon retour ont confirmé que [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) avait été créée le **22 avril 2026** — soit **37 jours avant l'accident** — à la même adresse (22 Grande Rue La Faurie, 09000 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**), pour la même activité (coiffure/barbier, code APE 9602A), avec un capital de [**[Capital Social de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md).
 
-**Élément capital :** La directrice générale de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), **Mme **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** **, est la **même personne** que la directrice générale de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**. Il existe donc un lien organique direct entre les deux entités.
+**Élément capital :** La directrice générale de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), **Mme **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** **, est la **même personne** que la directrice générale de **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)**. Il existe donc un lien organique direct entre les deux entités.
 <hr><hr>
 
 ### Synthèse chronologique des sociétés au 22 rue Lafaurie
 
 | Date | Événement |
 |------|-----------|
-| **10 mars 2026** | Cessation d'activité de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (état des lieux de sortie — source : bailleur) |
+| **10 mars 2026** | Cessation d'activité de **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)** (état des lieux de sortie — source : bailleur) |
 | **22 avril 2026** | Début d'activité de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au 22 Grande Rue La Faurie |
 | **29 mai 2026** | Accident corporel de **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** dans ce local |
-| **2 juin 2026** | Plainte initiale (visant à tort **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**) |
+| **2 juin 2026** | Plainte initiale (visant à tort **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)**) |
 | **16 juillet 2026** | Découverte de l'exploitation réelle par [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) |
 <hr><hr>
 
@@ -100,7 +100,7 @@ La présente rectification s'applique à l'ensemble des actes, courriers et dém
 - Dossier de plainte écrit remis le 1er juin 2026
 
 **B. Mises en demeure LRAR du 29 juin 2026 :**
-- LRAR à **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** — 22 rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
+- LRAR à **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)** — 22 rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
 
 - LRAR à **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** — **[L'Adresse du Président](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-adresse.md)**
 
@@ -149,7 +149,7 @@ En conséquence de ce qui précède, je soussigné **[La Victime](../../../../%F
    > Directrice générale : **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**
    > Date de création : 22 avril 2026
 
-3. **La mention de « **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** » dans mes actes antérieurs doit être comprise comme une erreur matérielle de désignation, la cible réelle de mes demandes ayant toujours été l'exploitant de fait du commerce au 22 rue Lafaurie, sans que j'aie eu les moyens de l'identifier correctement avant le 16 juillet 2026.**
+3. **La mention de « **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)** » dans mes actes antérieurs doit être comprise comme une erreur matérielle de désignation, la cible réelle de mes demandes ayant toujours été l'exploitant de fait du commerce au 22 rue Lafaurie, sans que j'aie eu les moyens de l'identifier correctement avant le 16 juillet 2026.**
 
 4. **Je prie les destinataires des actes listés à la section 3 de bien vouloir annexer le présent erratum aux dossiers et procédures concernés, et de considérer que les diligences engagées visent la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) en qualité d'exploitant réel au jour de l'accident.**
 <hr><hr>
@@ -178,4 +178,4 @@ Fait à **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%
 
 <hr><hr>
 
-*Document à annexer à tout acte et courrier mentionnant [L'Exploitant du Commerce (La SAS)] comme société défenderesse. À distribuer par dépôt physique (Commissariat de [La Ville de l'Accident]) et par lettre recommandée avec accusé de réception (autorités administratives et judiciaires).*
+*Document à annexer à tout acte et courrier mentionnant **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)** comme société défenderesse. À distribuer par dépôt physique (Commissariat de [La Ville de l'Accident]) et par lettre recommandée avec accusé de réception (autorités administratives et judiciaires).*

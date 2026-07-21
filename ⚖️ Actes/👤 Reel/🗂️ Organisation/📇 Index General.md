@@ -20,35 +20,35 @@ jx: J+39
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
-# INDEX DU DOSSIER Sébastien GRAZIDE
+# INDEX DU DOSSIER **[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 > 🔗 Source Google Drive : [1Zp-JK9kz0V0…](https://drive.google.com/open?id=1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU)
-Rédigé le 30 juin 2026 — Mis à jour le **[J+38 Mise à jour](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-mise-a-jour.md)** (unification bordereau 43 pièces)
+Rédigé le **[30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)** — Mis à jour le **[J+38 Mise à jour](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-mise-a-jour.md)** (unification bordereau 43 pièces)
 ## I — INTRODUCTION
 
-*Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire Sébastien GRAZIDE c/ SAS HB BARBER, à la suite de l'accident corporel grave survenu le 29 mai 2026. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du 30 juin 2026 et reflète l'état final de la composition du dossier.*
+*Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire **[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** c/ **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, à la suite de l'accident corporel grave survenu le **[29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du **[30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)** et reflète l'état final de la composition du dossier.*
 
-*Structure finale au 29 mai 2026*
+*Structure finale au **[29 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)***
 
 Destinataire : Analyse tierce
 
-Partage depuis : sebastien.grazide@gmail.com
+Partage depuis : **[sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
 <hr><hr>
 
 ## II — PREUVES OFFICIELLES
 
 *(Documents physiques — dossier `📂 Preuves officielles/` en attente d'insertion)*
 
-- 2026-05-30 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) ✓ Vérifié : Compte rendu opératoire du Dr Iskander DJERBI (microchirurgie 30 mai 2026).
+- 2026-05-30 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) ✓ Vérifié : Compte rendu opératoire du **[Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)** (microchirurgie **[30 mai 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md)**).
 
 - 2026-06-01 - Dossier plainte ✓ Vérifié : Copie complète de la plainte officielle déposée au commissariat.
 
 - 2026-06-02 - PV Police ✓ Vérifié : Procès-verbal de constat n°[ ...].
 
-- 2026-06-19 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) Dr Iskander DJERBI ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
+- 2026-06-19 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) **[Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)** ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
 
 - 2026-06-29 - Forensic Evidence File ✓ Vérifié : Dossier de preuves numériques et médicales.
 <hr><hr>
@@ -74,7 +74,7 @@ Partage depuis : sebastien.grazide@gmail.com
 
 ## IV — COURRIERS
 
-- 2026-06-29 - 03 ✉️ Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à SAS HB BARBER.
+- 2026-06-29 - 03 ✉️ Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**.
 
 - 2026-06-29 - 04 ✉️ Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^2].
 
@@ -87,7 +87,7 @@ Partage depuis : sebastien.grazide@gmail.com
 
 - 2026-06-29 - 06 ✉️ Courrier President DG - V1 ✓ Vérifié : Mise en demeure personnelle aux dirigeants.
 
-- 2026-07-05 - 07 ✉️ Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au Dr Iskander DJERBI.
+- 2026-07-05 - 07 ✉️ Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au **[Dr Iskander DJERBI](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)**.
 
 - 2026-07-05 - 08 ✉️ Courrier Suivi Adjoint Maire - V1 ✓ Vérifié : Suivi Inspection du Travail + CODAF (réponse adjoint au maire).
 
@@ -111,7 +111,7 @@ Partage depuis : sebastien.grazide@gmail.com
 
 - 2026-07-05 - 20 🔄 Relance Police - V1 ✓ Vérifié : Suivi plainte + demande vidéos.
 
-- 2026-07-05 - 21 ✉️ CPAM 🔄Relance - V1 ✓ Vérifié : Suivi [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) **[N° [Dossier CPAM](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+- 2026-07-05 - 21 ✉️ CPAM 🔄Relance - V1 ✓ Vérifié : Suivi [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) 31727387.
 
 - 2026-07-05 - ✉️ Temoin Client 📋Attestation - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
 
@@ -218,7 +218,7 @@ Documents non indexés conservés dans `archives/` :
 
 ## X — MODIFICATIONS CLÉS
 
-1. Ayoub BENNOURINE (tél. [07 58 40 12 87](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)) -> Hamza El Hachemi BERGUIGA + Catherine SORROCHE, dite ANDISSAC ✓
+1. **[Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (tél. [07 58 40 12 87](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)) -> **[Hamza El Hachemi BERGUIGA](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** + **[Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** ✓
 
 1. Stratégie : faute détachable des dirigeants ✓
 
@@ -228,7 +228,7 @@ Documents non indexés conservés dans `archives/` :
 
 4. Conclusions PC mises à jour ✓
 
-5. Courrier 06 avec Catherine SORROCHE, dite ANDISSAC ✓
+5. Courrier 06 avec **[Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** ✓
 
 6. 4 doublons archivés ✓
 
@@ -304,7 +304,7 @@ Documents non indexés conservés dans `archives/` :
 
 - Pièces au bordereau unifié : **43 numérotées séquentiellement** (groupes A-G)
 
-*NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à Sébastien GRAZIDE. Seule l'Étude d'indemnisation (Piece 03) est conservée dans 💰 Etudes indemnisation.*
+*NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à **[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**. Seule l'Étude d'indemnisation (Piece 03) est conservée dans 💰 Etudes indemnisation.*
 <hr><hr>
 
 ## XIII — TRAVAUX RESTANTS

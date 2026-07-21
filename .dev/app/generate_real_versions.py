@@ -7,6 +7,7 @@ import yaml
 FALLBACK_MAP = {
     "L'Exploitant du Commerce": "SAS HB BARBER",
     "L'EXPLOITANT DU COMMERCE (LA SAS)": "SAS HB BARBER",
+    "L'Ancien Exploitant du Commerce": "SAS LES MAUVAIS GARÇONS",
     "L'Assureur RC": "[Assurance RC Inconnue]",
     "L''Adresse de la Victime": "10 Avenue de Purpan, 31700 Blagnac",
     "L'Email du Propriétaire des Murs": "[Email du Propriétaire]",
@@ -20,7 +21,6 @@ FALLBACK_MAP = {
     "Assureur RC Exploitant": "[Assurance RC Inconnue]",
     "L'Adresse de la Mairie de la Commune": "Mairie de Foix",
     "L'Hôpital de Purpan (CHU Toulouse)": "Hôpital de Purpan (CHU Toulouse)",
-
     "La Victime": "Sébastien GRAZIDE",
     "Le Président de l'Exploitation": "Hamza El Hachemi BERGUIGA",
     "Le President de l'Exploitation": "Hamza El Hachemi BERGUIGA",
@@ -129,6 +129,7 @@ FALLBACK_MAP = {
     "Finance Evaluation Globale": "59 600 €",
 }
 
+
 def extract_tokens_from_yaml(tokens_dir):
     token_map = {}
     for root, _, files in os.walk(tokens_dir):
@@ -138,7 +139,7 @@ def extract_tokens_from_yaml(tokens_dir):
             path = os.path.join(root, f)
             with open(path, 'r', encoding='utf-8') as file:
                 content = file.read()
-                
+
             m = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
             if m:
                 yaml_content = m.group(1)
@@ -154,6 +155,7 @@ def extract_tokens_from_yaml(tokens_dir):
                     pass
     return token_map
 
+
 def extract_strict_variables(path):
     token_map = {}
     with open(path, 'r', encoding='utf-8') as f:
@@ -163,16 +165,19 @@ def extract_strict_variables(path):
         token_map[token_name] = value.strip()
     return token_map
 
+
 def build_reverse_map():
     map_dict = FALLBACK_MAP.copy()
     map_dict.update(extract_tokens_from_yaml('🧠 Memory/🗂️ Tokens'))
     map_dict.update(extract_strict_variables('🧠 Memory/STRICT VARIABLES.md'))
     return map_dict
 
+
 def replace_header_block(content):
     pattern = r"\*\*\[L'Adresse de la Victime\]\*\*\n\nCourriel : \*\*\[L'Email de la Victime\]\*\*"
     replacement = "Sébastien GRAZIDE\n10 Avenue de Purpan, 31700 Blagnac\nCourriel : sebastien.grazide@gmail.com"
     return re.sub(pattern, replacement, content)
+
 
 def update_yaml_frontmatter(content):
     def replacer(match):
@@ -181,6 +186,37 @@ def update_yaml_frontmatter(content):
             return title_line + " - Version réelle"
         return title_line
     return re.sub(r'^titre:\s*.*$', replacer, content, flags=re.MULTILINE)
+
+
+def preprocess_nested_bracket_tokens(content):
+    """Handle tokens with square brackets in their name (e.g. N° [Dossier CPAM])
+    which appear with nested markdown links in the text."""
+    rules = [
+        # N° [Dossier CPAM] → 31727387 (with outer link)
+        (
+            r'\[(?:\*\*)?\[N°\s*\[Dossier\s+CPAM\]\([^)]+\)\](?:\*\*)?\](?:\([^)]+\))?',
+            '31727387'
+        ),
+        # N° [Dossier CPAM] → 31727387 (bare bold)
+        (
+            r'\*\*\[N°\s*\[Dossier\s+CPAM\]\([^)]+\)\]\*\*',
+            '31727387'
+        ),
+        # N° [Dossier CPAM erroné] → 2631103960 (with outer link)
+        (
+            r'\[(?:\*\*)?\[N°\s*\[Dossier\s+CPAM\s+erroné\]\([^)]+\)\](?:\*\*)?\](?:\([^)]+\))?',
+            '2631103960'
+        ),
+        # N° [Dossier CPAM erroné] → 2631103960 (bare bold)
+        (
+            r'\*\*\[N°\s*\[Dossier\s+CPAM\s+erroné\]\([^)]+\)\]\*\*',
+            '2631103960'
+        ),
+    ]
+    for pattern, replacement in rules:
+        content = re.sub(pattern, replacement, content)
+    return content
+
 
 def main():
     input_base = '⚖️ Actes/🔑 Token'
@@ -211,16 +247,31 @@ def main():
 
             content = update_yaml_frontmatter(content)
             content = replace_header_block(content)
-            
+
+            # Pre-process bracket-containing tokens before generic replacement
+            content = preprocess_nested_bracket_tokens(content)
+
             for token_name in sorted_keys:
                 real_val = token_map[token_name]
                 escaped_name = re.escape(token_name)
-                
-                # Matches: **[Token_Name](...)** or **[Token_Name]** or [Token_Name](...) or [Token_Name]
-                # It handles any combination of leading/trailing asterisks and optional markdown link path.
-                pattern = r'\*?\*?\[\s*' + escaped_name + r'\s*\](?:\([^)]+\))?\*?\*?'
-                content = re.sub(pattern, real_val, content)
-                
+
+                # Pattern A: markdown link [**[Token]**](url) or [Token](url)
+                # Captures the URL part so we preserve the link
+                link_pat = r'\[' + r'(?:\*\*)?' + escaped_name + r'(?:\*\*)?' + r'\]\(([^)]+)\)'
+
+                def link_replacer(m, val=real_val):
+                    return f'[{val}]({m.group(1)})'
+
+                content = re.sub(link_pat, link_replacer, content)
+
+                # Pattern B: bare brackets **[Token]** or [**[Token]**] or [Token]
+                bare_pat = r'(?:\*\*)?\[' + r'(?:\*\*)?' + escaped_name + r'(?:\*\*)?' + r'\](?:\*\*)?'
+
+                content = re.sub(bare_pat, real_val, content)
+
+            # Post-processing: fix double SAS from "la SAS [**[Exploitant SAS]**]" → "la SAS HB BARBER"
+            content = re.sub(r'SAS\s+SAS\s+(HB\s+BARBER|LES\s+MAUVAIS\s+GARÇONS)', r'SAS \1', content)
+
             content = content.replace("**[Adresse à compléter]**", "[À compléter]")
             content = content.replace("**[À compléter]**", "[À compléter]")
             content = content.replace(" ↩", "")
@@ -243,6 +294,7 @@ def main():
 
     total = sum(len(files) for _, files in generated)
     print(f"\n--- {total} fichiers générés dans {output_base}/ ---")
+
 
 if __name__ == '__main__':
     main()

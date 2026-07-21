@@ -27,7 +27,7 @@ jx: J+52
 
 
 # PLAINTE COMPLÉMENTAIRE
-# Correction de l'identité de la société exploitante — HB BARBER
+# Correction de l'identité de la société exploitante — **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
 
 **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
@@ -40,13 +40,13 @@ jx: J+52
 
 **[La Ville de Résidence de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**, le 20 juillet 2026
 
-**Objet : Plainte complémentaire — Accident corporel du 29 mai 2026 — Correction de l'identité de la société exploitante (HB BARBER)**
+**Objet : Plainte complémentaire — Accident corporel du 29 mai 2026 — Correction de l'identité de la société exploitante ([**L'Exploitant du Commerce (La SAS)**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md))**
 
 Monsieur le Commandant,
 
 Je me permets de vous adresser la présente plainte complémentaire afin de compléter et rectifier les éléments que j'ai portés à la connaissance de vos services à la suite de l'accident corporel dont j'ai été victime le vendredi 29 mai 2026 dans un salon de coiffure situé **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**.
 
-Dans ma première plainte déposée le 2 juin 2026 au commissariat de Toulouse (Division Toulouse Rive Droite), j'indiquais de bonne foi que le salon était exploité sous l'enseigne « LES MAUVAIS GARÇONS », et je visais la société **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** comme responsable potentielle. Des éléments nouveaux, recueillis depuis, montrent que cette information était inexacte au jour de l'accident, et que le salon était alors exploité par une autre société, la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**. La présente plainte a donc pour objet de corriger formellement l'identité de la société exploitante et de demander que l'enquête prenne en compte ces éléments.
+Dans ma première plainte déposée le 2 juin 2026 au commissariat de Toulouse (Division Toulouse Rive Droite), j'indiquais de bonne foi que le salon était exploité sous l'enseigne **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)**, et je visais la société **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)** comme responsable potentielle. Des éléments nouveaux, recueillis depuis, montrent que cette information était inexacte au jour de l'accident, et que le salon était alors exploité par une autre société, la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**. La présente plainte a donc pour objet de corriger formellement l'identité de la société exploitante et de demander que l'enquête prenne en compte ces éléments.
 ## 1 — Rappel des faits — Accident du 29 mai 2026
 
 Le vendredi 29 mai 2026 vers 15h20, je me suis rendu dans le salon de coiffure situé **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**, pour une simple retouche de coupe de cheveux.
@@ -70,9 +70,9 @@ Dans les jours qui ont suivi l'accident et l'opération, j'ai entrepris diverses
 
 - et surtout dépôt d'une plainte au commissariat de Foix, le 2 juin 2026, pour faire constater officiellement l'accident et déclencher une enquête sur les responsabilités.
 
-Au moment de cette première plainte, je croyais sincèrement que la société exploitant le salon était la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, enseigne apposée sur le lieu et mentionnée par les intervenants. C'est sur cette base que j'ai également adressé, le 29 juin 2026, de premières lettres recommandées avec accusé de réception à :
+Au moment de cette première plainte, je croyais sincèrement que la société exploitant le salon était la **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)**, enseigne apposée sur le lieu et mentionnée par les intervenants. C'est sur cette base que j'ai également adressé, le 29 juin 2026, de premières lettres recommandées avec accusé de réception à :
 
-- la direction de la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (LRAR n° [**[N° LRAR Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-exploitant.md)), revenue NPAI avec la mention « En cours de retour à l'expéditeur » le 20 juillet ;
+- la direction de la **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)** (LRAR n° [**[N° LRAR Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-exploitant.md)), revenue NPAI avec la mention « En cours de retour à l'expéditeur » le 20 juillet ;
 
 - au président de cette société, **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** (LRAR n° [**[N° LRAR Président]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-president.md)), mise en attente de retrait à Toulouse RP jusqu'au 21 juillet ;
 
@@ -89,11 +89,11 @@ Parallèlement, dès le 1er juin 2026, j'ai également signalé les faits à la 
 
 À la suite de ces courriers, j'ai reçu, le 16 juillet 2026, un courriel de **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)**, propriétaire des locaux du 22 rue / Grande Rue La Faurie à Foix. Dans ce message, M. **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** m'indique notamment que :
 
-- la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** a quitté les lieux et a procédé à un état des lieux de sortie le 10 mars 2026 ;
+- la **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)** a quitté les lieux et a procédé à un état des lieux de sortie le 10 mars 2026 ;
 
 - en conséquence, cette société n'occupait plus les locaux au moment de mon accident du 29 mai 2026, et il estime que sa responsabilité ne pourrait donc pas être engagée pour un fait survenu après son départ.
 
-Ce courriel était accompagné de photos de l'état des lieux de sortie signées par le représentant de la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, confirmant la date du 10 mars 2026.
+Ce courriel était accompagné de photos de l'état des lieux de sortie signées par le représentant de la **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)**, confirmant la date du 10 mars 2026.
 
 Suite à cette réponse, j'ai consulté les registres officiels (Registre national des entreprises – RNE / DATA INPI et répertoire SIRENE) qui m'ont permis de découvrir qu'une autre société, la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, était inscrite comme exploitant actuel des locaux :
 
@@ -106,7 +106,7 @@ Suite à cette réponse, j'ai consulté les registres officiels (Registre nation
 | Début d'activité de l'établissement | 22 avril 2026 |
 | Activité principale | Coiffure / barbier |
 
-Il ressort donc de ces documents que depuis le 22 avril 2026, soit bien avant mon accident du 29 mai 2026, le salon de coiffure situé 22 rue / Grande Rue La Faurie à Foix est exploité par la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et non plus par la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, qui avait quitté les lieux le 10 mars 2026.
+Il ressort donc de ces documents que depuis le 22 avril 2026, soit bien avant mon accident du 29 mai 2026, le salon de coiffure situé 22 rue / Grande Rue La Faurie à Foix est exploité par la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et non plus par la **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)**, qui avait quitté les lieux le 10 mars 2026.
 
 En parallèle, j'ai obtenu la liste des souscripteurs et un certificat de dépôt de fonds établis lors de la constitution de la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, confirmant l'identité de ses dirigeants et de ses associés.
 
@@ -124,9 +124,9 @@ Par ailleurs, après l'accident du 29 mai 2026, l'établissement est resté ferm
 
 Ces éléments sont de nature à caractériser un risque de disparition ou d'altération des preuves matérielles de l'accident.
 
-### 3.3 — Envois recommandés formels à la SAS HB BARBER et ses dirigeants (18 & 19 juillet 2026)
+### 3.3 — Envois recommandés formels à la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et ses dirigeants (18 & 19 juillet 2026)
 
-À la suite de la découverte de la SAS HB BARBER, j'ai adressé le 18 juillet 2026 de nouvelles lettres recommandées de mise en demeure afin d'obtenir la communication des coordonnées de leur assureur responsabilité civile professionnelle à :
+À la suite de la découverte de la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, j'ai adressé le 18 juillet 2026 de nouvelles lettres recommandées de mise en demeure afin d'obtenir la communication des coordonnées de leur assureur responsabilité civile professionnelle à :
 
 - La **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (Siège social) : LRAR n° [**[N° LRAR HB BARBER Société]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (`87500152771696F`) ;
 
@@ -134,7 +134,7 @@ Ces éléments sont de nature à caractériser un risque de disparition ou d'alt
 
 - Mme **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** (Directrice Générale, domicile personnel) : LRAR n° [**[N° LRAR HB BARBER DG]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (`875001528942010`).
 
-De même, j'ai relancé le propriétaire bailleur **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** par une 3e LRAR le 19 juillet 2026 (LRAR n° [**[N° LRAR Propriétaire Relance 3]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — `87500152910287Q`) afin d'obtenir des explications sur les assurances de l'immeuble et la situation d'HB BARBER.
+De même, j'ai relancé le propriétaire bailleur **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** par une 3e LRAR le 19 juillet 2026 (LRAR n° [**[N° LRAR Propriétaire Relance 3]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — `87500152910287Q`) afin d'obtenir des explications sur les assurances de l'immeuble et la situation de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**.
 
 Enfin, une demande de dossier médical a été envoyée au GHT des Pyrénées Ariégeoises CHIVA le 18 juillet 2026 (LRAR n° [**[N° LRAR CHIVA]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — `87500152888336B`).
 
@@ -151,7 +151,7 @@ Le 18 juillet 2026, j'ai recueilli le témoignage de M. **Frédéric MATHIEU** (
 3. **Absence de dénégation du coiffeur** : Le témoin rapporte que j'ai expliqué immédiatement que l'accident s'était produit en raison de l'instabilité de la vasque en céramique que j'avais dû rattraper au vol, ce que le coiffeur n'a pas nié.
 <hr><hr>
 
-## 4 — Identité de la société HB BARBER et de ses dirigeants
+## 4 — Identité de la société **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et de ses dirigeants
 
 D'après ces documents officiels, la société **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** présente les caractéristiques suivantes :
 
@@ -180,7 +180,7 @@ D'après ces documents officiels, la société **[L'Exploitant du Commerce (La S
 
 En conséquence, au jour de mon accident (29 mai 2026), le salon où les faits se sont produits était exploité par la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, sous la direction de son Président, [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), et de sa Directrice Générale, **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**.
 
-La mention de la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** dans ma première plainte et dans mes premiers courriers procède donc d'une erreur excusable, fondée sur l'enseigne laissée en place et sur l'absence totale d'information claire qui m'a été donnée au moment des faits. Cette erreur est désormais corrigée à la lumière des pièces que je transmets à vos services.
+La mention de la **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)** dans ma première plainte et dans mes premiers courriers procède donc d'une erreur excusable, fondée sur l'enseigne laissée en place et sur l'absence totale d'information claire qui m'a été donnée au moment des faits. Cette erreur est désormais corrigée à la lumière des pièces que je transmets à vos services.
 <hr><hr>
 
 ## 5 — Demandes à l'appui de la présente plainte complémentaire
@@ -189,7 +189,7 @@ Au vu de ces éléments nouveaux, je sollicite respectueusement de vos services 
 
 ### 5.1 — Prise en compte officielle de la correction d'identité de la société exploitante
 
-Que la procédure en cours soit complétée pour viser la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)) comme société exploitant le salon de coiffure au 22 rue / Grande Rue La Faurie à Foix au jour de l'accident du 29 mai 2026, en lieu et place de la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, qui avait quitté les lieux le 10 mars 2026.
+Que la procédure en cours soit complétée pour viser la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)) comme société exploitant le salon de coiffure au 22 rue / Grande Rue La Faurie à Foix au jour de l'accident du 29 mai 2026, en lieu et place de la **[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)**, qui avait quitté les lieux le 10 mars 2026.
 
 ### 5.2 — Poursuite de l'enquête pour blessures involontaires et manquements à l'obligation de sécurité
 
@@ -206,7 +206,7 @@ Que les faits déjà décrits dans ma plainte initiale (accident provoqué par u
 - la collecte, auprès d'eux, des documents suivants :
 
   - bail commercial ou avenant liant M. **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** à la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**,
-  - états des lieux d'entrée et de sortie (LES MAUVAIS GARÇONS, puis HB BARBER),
+  - états des lieux d'entrée et de sortie (**[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)**, puis **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**),
   - attestations d'assurance de responsabilité civile professionnelle de la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** en vigueur au 29 mai 2026,
   - le cas échéant, attestations d'assurance du bailleur pour l'immeuble concerné.
 
@@ -217,9 +217,9 @@ Je sollicite en particulier l'audition de **[Le Préposé de l'Exploitation](../
 ### 5.5 — Clarification des responsabilités entre ancien et nouvel exploitant
 
 Que l'enquête permette de déterminer :
-- si le vice ou l'état défectueux du matériel (bac à shampoing brisé) existait déjà avant l'arrivée d'HB BARBER,
+- si le vice ou l'état défectueux du matériel (bac à shampoing brisé) existait déjà avant l'arrivée de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**,
 
-- si l'absence de réparation ou de remplacement de ce matériel, ainsi que l'absence de mesures de sécurité, relèvent de la responsabilité de l'ancien exploitant (LES MAUVAIS GARÇONS), du nouvel exploitant (HB BARBER), du bailleur, ou de plusieurs d'entre eux.
+- si l'absence de réparation ou de remplacement de ce matériel, ainsi que l'absence de mesures de sécurité, relèvent de la responsabilité de l'ancien exploitant (**[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)**), du nouvel exploitant (**[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**), du bailleur, ou de plusieurs d'entre eux.
 
 ### 5.6 — Poursuite, le cas échéant, des dirigeants personnellement en cas de manœuvres délibérées
 
@@ -235,7 +235,7 @@ Je joins à la présente, en copies :
 
 1. Copie de ma plainte initiale déposée au commissariat de Toulouse (le 2 juin 2026).
 
-2. Courriers recommandés du 29 juin 2026 (LMG, dirigeants et bailleur) et nouveaux courriers de mise en demeure du 18 juillet 2026 (SAS HB BARBER, Président et DG) et relance du 19 juillet 2026 (Bailleur), avec les preuves d'envoi et suivis disponibles.
+2. Courriers recommandés du 29 juin 2026 (**[L'Ancien Exploitant du Commerce](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md)**, dirigeants et bailleur) et nouveaux courriers de mise en demeure du 18 juillet 2026 (SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, Président et DG) et relance du 19 juillet 2026 (Bailleur), avec les preuves d'envoi et suivis disponibles.
 
 3. Courriel de **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** du 16 juillet 2026, avec les photos d'état des lieux de sortie du 10 mars 2026.
 

@@ -10,7 +10,7 @@ reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/17
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -20,30 +20,30 @@ reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/17
 
 **POUR :**
 
-Monsieur Sébastien GRAZIDE,
-Né le [Date de naissance à compléter], de nationalité [Nationalité à compléter], profession : 500 474 457,
-Demeurant 10 Avenue de Purpan, 31700 Blagnac
+Monsieur **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**,
+Né le [Date de naissance à compléter], de nationalité [Nationalité à compléter], profession : **[500 474 457](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)**,
+Demeurant **[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
 
-Ayant pour Avocat : Nom Prénom de l'Avocat
+Ayant pour Avocat : **[Nom Prénom de l'Avocat](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-avocat-nom.md)**
 
 **CONTRE :**
 
 La société [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), société par actions simplifiée,
-Sise 22 Rue Lafaurie, 09000 Foix,
+Sise **[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**,
 Immatriculée sous le numéro [104 103 262 00010](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md),
 Prise en la personne de son Président, Monsieur [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md),
-Et de sa Directrice Générale, Madame Catherine SORROCHE, dite ANDISSAC
+Et de sa Directrice Générale, Madame **[Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**
 
 Monsieur le Président,
 
 Par la présente, il vous est respectueusement exposé ce qui suit :
 ## I — EXPOSÉ DES FAITS
 
-Monsieur Sébastien GRAZIDE a été victime d'un accident particulièrement grave dans les locaux de la société [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), exploitée par Monsieur [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et Madame Catherine SORROCHE, dite ANDISSAC.
+Monsieur **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a été victime d'un accident particulièrement grave dans les locaux de la société [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), exploitée par Monsieur [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et Madame **[Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**.
 
 Il apparaît de manière manifeste que de graves irrégularités, tant sur le plan pénal (violences volontaires, mise en danger de la vie d'autrui, non-assistance à personne en danger) que sur le plan de la gestion de la société, ont été commises.
 
-À la suite de ces événements, Monsieur Sébastien GRAZIDE a subi des dommages corporels majeurs nécessitant son admission en urgence à Clinique de l'Union.
+À la suite de ces événements, Monsieur **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a subi des dommages corporels majeurs nécessitant son admission en urgence à **[Clinique de l'Union](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)**.
 
 Or, au lieu d'assumer leurs responsabilités, les dirigeants de la société [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) semblent organiser l'opacité et l'insolvabilité de leur structure afin d'échapper à l'indemnisation inéluctable du préjudice subi par la victime.
 
@@ -60,7 +60,7 @@ Il convient de rappeler que la responsabilité des dirigeants d'une Société pa
 > [Article L227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
 > Code de commerce[^1] <br>
 
-Le comportement de Monsieur [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et de Madame Catherine SORROCHE, dite ANDISSAC caractérise des fautes d'une gravité exceptionnelle, justifiant que des mesures de sauvegarde du patrimoine de la société [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) soient ordonnées pour garantir la créance indemnitaire à naître.
+Le comportement de Monsieur [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et de Madame **[Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** caractérise des fautes d'une gravité exceptionnelle, justifiant que des mesures de sauvegarde du patrimoine de la société [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) soient ordonnées pour garantir la créance indemnitaire à naître.
 
 ### II.2 — Sur la nomination d'un mandataire ad hoc
 
@@ -80,7 +80,7 @@ Le requérant sollicite la nomination d'un mandataire ad hoc avec pour mission d
 
 ### II.3 — Sur les mesures conservatoires et la prévention d'un dommage imminent
 
-L'organisation de l'insolvabilité de la société par ses dirigeants constitue un trouble manifestement illicite et un dommage imminent pour Monsieur Sébastien GRAZIDE. Le juge des référés dispose de pouvoirs étendus pour prévenir une telle issue.
+L'organisation de l'insolvabilité de la société par ses dirigeants constitue un trouble manifestement illicite et un dommage imminent pour Monsieur **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**. Le juge des référés dispose de pouvoirs étendus pour prévenir une telle issue.
 
 > *« Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite.
 > Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
@@ -109,7 +109,7 @@ Il est respectueusement demandé à Monsieur le Président du Tribunal de commer
 
 - Auditer l'état du patrimoine de l'entreprise.
 
-**ORDONNER** à titre de mesure conservatoire, l'interdiction pour la société [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et pour Monsieur [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et Madame Catherine SORROCHE, dite ANDISSAC de procéder à toute cession d'éléments de l'actif ou d'effectuer des retraits massifs de liquidités.
+**ORDONNER** à titre de mesure conservatoire, l'interdiction pour la société [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et pour Monsieur [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et Madame **[Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** de procéder à toute cession d'éléments de l'actif ou d'effectuer des retraits massifs de liquidités.
 
 **ORDONNER** sous astreinte de 500 euros par jour de retard à compter de la signification de la présente ordonnance, la communication intégrale :
 
@@ -117,13 +117,13 @@ Il est respectueusement demandé à Monsieur le Président du Tribunal de commer
 
 - Des polices d'assurance responsabilité civile professionnelle en cours de validité.
 
-**CONDAMNER** in solidum la société [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), Monsieur [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et Madame Catherine SORROCHE, dite ANDISSAC au paiement de la somme de 3.000 euros au titre de l'article 700 du Code de procédure civile ainsi qu'aux entiers dépens de l'instance.
+**CONDAMNER** in solidum la société [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), Monsieur [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et Madame **[Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** au paiement de la somme de 3.000 euros au titre de l'article 700 du Code de procédure civile ainsi qu'aux entiers dépens de l'instance.
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au terme du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^4]**
 
-Nom Prénom de l'Avocat
+**[Nom Prénom de l'Avocat](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-avocat-nom.md)**
 Avocat à la Cour
 Le [Date de signature]
 <hr><hr>

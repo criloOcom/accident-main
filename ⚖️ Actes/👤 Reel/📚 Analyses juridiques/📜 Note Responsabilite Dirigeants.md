@@ -20,14 +20,14 @@ jx: J+41
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
 # NOTE JURIDIQUE <br> SUR LA RESPONSABILITÉ DES DIRIGEANTS EN CAS DE DISSOLUTION FRAUDULEUSE
 ## I — PROBLÉMATIQUE
 
-Dans l'hypothèse où Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC procèderaient à la dissolution ou à la radiation de SAS HB BARBER afin d'échapper aux poursuites et à l'indemnisation de Sébastien GRAZIDE, leur responsabilité personnelle pourrait être engagée sur plusieurs fondements.
+Dans l'hypothèse où **[Hamza El Hachemi BERGUIGA](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** procèderaient à la dissolution ou à la radiation de **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** afin d'échapper aux poursuites et à l'indemnisation de **[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, leur responsabilité personnelle pourrait être engagée sur plusieurs fondements.
 
 La présente note analyse les trois voies de recours contre les dirigeants à titre personnel.
 <hr><hr>
@@ -80,7 +80,7 @@ La jurisprudence constante de la Cour de cassation (chambre commerciale, arrêt 
 | L.654-7 C.com. | Pénale | Banqueroute par personne morale | Emprisonnement + amende |
 | Faute détachable (SATI) | Civile | Faute d'une gravité exceptionnelle | Responsabilité personnelle |
 
-**Conclusion :** la disparition frauduleuse de la SAS engage à titre personnel Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC. Il est recommandé de les mettre en cause personnellement dès la phase de référé-provision et de les viser dans le signalement au Parquet.
+**Conclusion :** la disparition frauduleuse de la SAS engage à titre personnel **[Hamza El Hachemi BERGUIGA](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**. Il est recommandé de les mettre en cause personnellement dès la phase de référé-provision et de les viser dans le signalement au Parquet.
 <hr><hr>
 
 ## Sources Législation

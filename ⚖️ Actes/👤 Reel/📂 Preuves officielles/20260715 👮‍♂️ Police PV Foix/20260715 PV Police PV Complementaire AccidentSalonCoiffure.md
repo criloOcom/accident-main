@@ -25,7 +25,7 @@ auteur: La Victime
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -44,11 +44,11 @@ SERVICE LOCAL DE SECURITE D'INFRACTION
 
 PV n° 2026/015967/COMP
 
-VICTIME | Monsieur Sébastien GRAZIDE
-né le 18 janvier 1982 à Toulouse, de nationalité FRANCAISE,
-Demeurant : 10 Avenue de Purpan, 31700 Blagnac
-Téléphone domicile : 06 30 51 67 75
-Communication électronique demandée : OUI - E-mail : sebastien.grazide@gmail.com
+VICTIME | Monsieur **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+né le **[18 janvier 1982](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md)** à **[Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)**, de nationalité FRANCAISE,
+Demeurant : **[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
+Téléphone domicile : **[06 30 51 67 75](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)**
+Communication électronique demandée : OUI - E-mail : **[sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
 
 INFRACTION(S) | BLESSURES INVOLONTAIRES, OBSTRUCTION A LA JUSTICE, DISSIMULATION DE PREUVES, TRAVAIL DISSIMULE
 
@@ -63,15 +63,15 @@ Le quinze juillet, à dix heures.
 
 Nous, Officier de Police Judiciaire,
 
---- Constatons que se présente M. Sébastien GRAZIDE, qui souhaite déposer une plainte complémentaire suite aux faits dénoncés le 02/06/2026 ([PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)). ---
+--- Constatons que se présente M. **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, qui souhaite déposer une plainte complémentaire suite aux faits dénoncés le 02/06/2026 ([PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)). ---
 
 --- Information reçue des droits mentionnés à l'article 10-2 du code de procédure pénale. ---
 
-M. Sébastien GRAZIDE nous déclare :
+M. **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** nous déclare :
 
-"Suite à mon dépôt de plainte initial concernant mon accident du 29 mai 2026 au salon 'SAS HB BARBER', situé 22 Rue Lafaurie, 09000 Foix à Foix, je souhaite aujourd'hui porter à votre connaissance de nouveaux éléments graves qui me semblent constituer des infractions pénales caractérisées, notamment des faits d'obstruction à la justice et de dissimulation de preuves.
+"Suite à mon dépôt de plainte initial concernant mon accident du 29 mai 2026 au salon '**[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**', situé **[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** à Foix, je souhaite aujourd'hui porter à votre connaissance de nouveaux éléments graves qui me semblent constituer des infractions pénales caractérisées, notamment des faits d'obstruction à la justice et de dissimulation de preuves.
 
-Premièrement, j'ai tenté à plusieurs reprises de contacter les dirigeants de la SAS SAS HB BARBER, M. Hamza El Hachemi BERGUIGA et Mme Catherine SORROCHE, dite ANDISSAC, pour obtenir les coordonnées de leur assurance Responsabilité Civile. J'ai envoyé des mises en demeure par lettre recommandée avec accusé de réception à l'adresse du siège social. Tous ces courriers m'ont été retournés avec la mention 'défaut d'adresse / distribution impossible' (NPAI). Or, selon mes vérifications récentes au RNE (le 10 juillet), la société est toujours officiellement immatriculée et active à cette adresse. Il s'agit pour moi d'un refus délibéré de communiquer un document essentiel, entravant ainsi la manifestation de la vérité.
+Premièrement, j'ai tenté à plusieurs reprises de contacter les dirigeants de la SAS **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, M. **[Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et Mme **[Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**, pour obtenir les coordonnées de leur assurance Responsabilité Civile. J'ai envoyé des mises en demeure par lettre recommandée avec accusé de réception à l'adresse du siège social. Tous ces courriers m'ont été retournés avec la mention 'défaut d'adresse / distribution impossible' (NPAI). Or, selon mes vérifications récentes au RNE (le 10 juillet), la société est toujours officiellement immatriculée et active à cette adresse. Il s'agit pour moi d'un refus délibéré de communiquer un document essentiel, entravant ainsi la manifestation de la vérité.
 
 Deuxièmement, j'ai formellement demandé par courrier le 5 juillet 2026 la conservation des enregistrements de vidéosurveillance du salon, qui prouveraient les circonstances exactes de l'accident et la présence d'un bac cassé non sécurisé. Je n'ai eu aucune réponse, et je crains que le délai légal de 30 jours pour la conservation de ces images ne soit dépassé, constituant ainsi une dissimulation ou destruction de preuves.
 

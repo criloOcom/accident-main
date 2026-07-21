@@ -45,6 +45,8 @@ type: memory
 |---|---|---|
 <a id="token-l-exploitant-du-commerce-la-sas"></a>
 | SAS HB BARBER / HB BARBER | [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) | ⚠ Exploitant RÉEL au 29/05/2026 (jour de l'accident) — voir historique LMG en fin de fiche |
+<a id="token-l-ancien-exploitant-du-commerce"></a>
+| SAS LES MAUVAIS GARÇONS / LES MAUVAIS GARÇONS / LMG | [**[L'Ancien Exploitant du Commerce]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-ancien-exploitant.md) | Ancien exploitant — a quitté les lieux le 10/03/2026 |
 <a id="token-l-etablissement-sos-main"></a>
 | Clinique de l'Union | [**[L'Établissement SOS Main]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md) | |
 

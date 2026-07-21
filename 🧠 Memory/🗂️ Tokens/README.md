@@ -41,11 +41,12 @@ Chaque fiche regroupe :
 | `**[Prénom de la Victime]**` | [token-victime-prenom.md](token-victime-prenom.md) |
 | `**[Le Prénom du Préposé]**` | [token-prepose-prenom.md](token-prepose-prenom.md) |
 
-### Personnes morales (4)
+### Personnes morales (5)
 
 | Token | Fichier |
-|---|---|---|
+||---|---|
 | `**[L'Exploitant du Commerce (La SAS)]**` | [token-exploitation-raison-sociale.md](token-exploitation-raison-sociale.md) |
+| `**[L'Ancien Exploitant du Commerce]**` | [token-ancien-exploitant.md](token-ancien-exploitant.md) |
 | `**[Assureur RC]**` | [token-assureur-rc.md](token-assureur-rc.md) |
 | `**[L'Établissement SOS Main]**` | [token-hopital-sosmain-nom.md](token-hopital-sosmain-nom.md) |
 

@@ -18,14 +18,14 @@ reel_path: ../../👤 Reel/🗂️ Organisation/Fiche Reflexe 48h Disparition SA
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
 # FICHE RÉFLEXE 48H : DISPARITION DE LA SAS
 ## I — PROBLÉMATIQUE
 
-La disparition soudaine de SAS HB BARBER et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de Sébastien GRAZIDE et geler la situation factuelle et juridique avant toute tentative de dissimulation ou d'organisation d'insolvabilité.
+La disparition soudaine de **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de **[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** et geler la situation factuelle et juridique avant toute tentative de dissimulation ou d'organisation d'insolvabilité.
 
 La question centrale porte sur la temporalité et l'ordonnancement juridique : dans quel ordre faut-il agir et sur quels leviers juridiques s'appuyer en priorité pour garantir l'efficacité des mesures coercitives et conservatoires ?
 <hr><hr>
@@ -49,7 +49,7 @@ Conformément aux obligations légales en la matière, ce signalement trouve son
 
 ### III.1 — Le constat par Commissaire de Justice (Action Immédiate : Ce soir ou demain matin)
 
-La priorité absolue est de figer la situation sur le terrain. Le recours à un Commissaire de Justice est indispensable pour constater objectivement la fermeture, la disparition, ou toute autre modification matérielle des locaux exploités par SAS HB BARBER. Cette mesure, qui ne souffre d'aucun délai, doit être exécutée inopinément.
+La priorité absolue est de figer la situation sur le terrain. Le recours à un Commissaire de Justice est indispensable pour constater objectivement la fermeture, la disparition, ou toute autre modification matérielle des locaux exploités par **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**. Cette mesure, qui ne souffre d'aucun délai, doit être exécutée inopinément.
 
 ### III.2 — La vérification INPI (Action à J+1)
 
@@ -65,12 +65,12 @@ Dès lors que les premiers éléments de preuve (constat, vérifications INPI) s
 
 ### III.4 — L'envoi des LRAR (Action à J+2, en clôture de séquence)
 
-Ce n'est qu'une fois les éléments de preuve sécurisés (Constat) et les vérifications effectuées que la mise en demeure officielle par LRAR pourra être envoyée. Ces courriers, adressés à SAS HB BARBER, à ses dirigeants, ainsi qu'à tout organisme pertinent, interviendront alors que la situation est verrouillée, supprimant ainsi toute opportunité pour la partie adverse d'organiser utilement sa fuite.
+Ce n'est qu'une fois les éléments de preuve sécurisés (Constat) et les vérifications effectuées que la mise en demeure officielle par LRAR pourra être envoyée. Ces courriers, adressés à **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, à ses dirigeants, ainsi qu'à tout organisme pertinent, interviendront alors que la situation est verrouillée, supprimant ainsi toute opportunité pour la partie adverse d'organiser utilement sa fuite.
 <hr><hr>
 
 ## IV — CONCLUSION
 
-La présente fiche réflexe impose un séquencement strict : **Constat → Vérifications → Signalement → Mise en demeure**. Le non-respect de cet ordre, et particulièrement l'envoi prématuré d'une LRAR, compromettrait irrémédiablement l'effet de surprise et, *in fine*, les intérêts de Sébastien GRAZIDE.
+La présente fiche réflexe impose un séquencement strict : **Constat → Vérifications → Signalement → Mise en demeure**. Le non-respect de cet ordre, et particulièrement l'envoi prématuré d'une LRAR, compromettrait irrémédiablement l'effet de surprise et, *in fine*, les intérêts de **[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**.
 <hr><hr>
 
 ## Sources Législation
