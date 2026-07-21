@@ -52,7 +52,7 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **MINEUR** : L'Article L.4121-2 est cité dans la motivation mais n'est pas repris explicitement dans les visas du dispositif à la ligne 144.
 
-#### II.1.e — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
+#### II.1.e — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 193.
 
@@ -72,7 +72,7 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 49.
 
-#### II.1.i — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+#### II.1.i — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 146.
 

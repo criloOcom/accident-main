@@ -1,7 +1,7 @@
 # Index — ✉️ Courriers/🏛️ Mairie (Versions Réelles)
 
-- [Courrier - ERP Mairie Tavella.md](Courrier%20-%20ERP%20Mairie%20Tavella.md)
+- [Mairie - ERP Tavella - Courrier.md](Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)
 
-- [Courrier - Maire de Foix.md](Courrier%20-%20Maire%20de%20Foix.md)
+- [Mairie - Maire de Foix - Courrier.md](Mairie%20-%20Maire%20de%20Foix%20-%20Courrier.md)
 
-- [Courrier - Mairie Tavella - Relance.md](Courrier%20-%20Mairie%20Tavella%20-%20Relance.md)
+- [Mairie - Tavella - Courrier - Relance.md](Mairie%20-%20Tavella%20-%20Courrier%20-%20Relance.md)

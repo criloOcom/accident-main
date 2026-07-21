@@ -15,11 +15,11 @@ tags:
 statut: projet
 destinataire: Assureur RC de l'Exploitant du Commerce
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/Courrier - Assureur RC SAS.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Assureur RC - Courrier.md
 jx: J+50
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ Courrier - Assureur RC SAS*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS - Assureur RC - Courrier*
 <hr>
 <!-- /Breadcrumb -->
 

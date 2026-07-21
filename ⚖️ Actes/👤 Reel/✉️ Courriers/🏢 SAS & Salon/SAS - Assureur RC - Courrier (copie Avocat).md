@@ -16,11 +16,11 @@ tags:
 statut: projet
 destinataire: Assureur RC de l'Exploitant du Commerce
 auteur: Conseil de la Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/Courrier - Assureur RC SAS (copie Avocat).md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Assureur RC - Courrier (copie Avocat).md
 jx: J+50-bis
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ Courrier - Assureur RC SAS (copie Avocat)*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS - Assureur RC - Courrier (copie Avocat)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -151,7 +151,7 @@ Dans l'attente de votre retour écrit et circonstancié dans le délai imparti, 
 
 ### NOTE MÉTHODOLOGIQUE
 
-Variante « avocat » de la mise en demeure adressée à l'assureur RC, destinée à être émise dès la désignation d'un conseil. Principales différences avec la version victime ([J+50](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Assureur%20RC%20SAS.md)) :
+Variante « avocat » de la mise en demeure adressée à l'assureur RC, destinée à être émise dès la désignation d'un conseil. Principales différences avec la version victime ([J+50](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Assureur%20RC%20-%20Courrier.md)) :
 
 | Élément | Version victime (J+50) | Version avocat (J+50-bis) |
 |---------|----------------------|--------------------------|
@@ -170,7 +170,7 @@ Variante « avocat » de la mise en demeure adressée à l'assureur RC, destiné
 - Référence explicite au réquisitoire J+47 et à l'information judiciaire en cours
 
 **Documents liés :**
-- Version victime : [`✉️ Courrier - Assureur RC SAS.md`](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Assureur%20RC%20SAS.md)
+- Version victime : [`✉️ SAS - Assureur RC - Courrier.md`](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Assureur%20RC%20-%20Courrier.md)
 
 - Réquisitoire introductif : [`Réquisitoire - Introductif.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/R%C3%A9quisitoire%20-%20Introductif.md)
 <hr><hr>

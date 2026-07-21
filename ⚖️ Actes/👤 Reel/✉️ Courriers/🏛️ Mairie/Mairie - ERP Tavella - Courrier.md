@@ -7,11 +7,11 @@ date: 2026-07-10
 statut: brouillon
 destinataire: Adjoint au Maire de Foix (Monsieur TAVELLA)
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Mairie/Courrier - ERP Mairie Tavella.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Mairie/Mairie - ERP Tavella - Courrier.md
 jx: J+42
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Mairie › ✉️ Courrier - ERP Mairie Tavella*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Mairie › ✉️ Mairie - ERP Tavella - Courrier*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -62,6 +62,6 @@ Je vous remercie par avance de l'attention que vous voudrez bien porter à ces �
 
 - **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md)** — Procedure penale transmise au TJ de Foix
 
-- **[Mises en demeure J+31](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20SAS.md)** — LRAR retournees a l'expediteur (defaut d'adresse)
+- **[Mises en demeure J+31](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Courrier.md)** — LRAR retournees a l'expediteur (defaut d'adresse)
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]

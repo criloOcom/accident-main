@@ -71,13 +71,13 @@ Voici le détail de la checklist d'audit :
 
 - [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ Opposition - Radiation Tribunal de Commerce.md** : [MAJEUR] l. 97 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Mairie/✉️ Courrier - Maire de Foix.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Mairie/✉️ Mairie - Maire de Foix - Courrier.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
 - [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Propriétaire - Courrier.md** : [MAJEUR] l. 129 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - Président SAS.md** : [MAJEUR] l. 184 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président - Courrier.md** : [MAJEUR] l. 184 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - SAS.md** : [MAJEUR] l. 131 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Courrier.md** : [MAJEUR] l. 131 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
 - [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/✉️ Police - Vidéos - Relance.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
@@ -99,13 +99,13 @@ Voici le détail de la checklist d'audit :
 
 - [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/✉️ Opposition - Radiation Tribunal de Commerce.md** : [MAJEUR] l. 97 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Mairie/✉️ Courrier - Maire de Foix.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Mairie/✉️ Mairie - Maire de Foix - Courrier.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
 - [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏠 Propriétaire/✉️ Propriétaire - Courrier.md** : [MAJEUR] l. 129 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - Président SAS.md** : [MAJEUR] l. 184 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président - Courrier.md** : [MAJEUR] l. 184 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - SAS.md** : [MAJEUR] l. 131 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Courrier.md** : [MAJEUR] l. 131 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
 - [ ] **./📊 Rapports/RAPPORT_AUDIT_FAUX_DEPOSE_2026-07-18.md** : [CRITIQUE] l. 504 — Date de dépôt de plainte erronée (29 mai au lieu de 2 juin) — Remplacer par 2 juin 2026
 

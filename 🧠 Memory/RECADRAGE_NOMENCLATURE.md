@@ -52,23 +52,23 @@ Un document ne peut être qualifié de **« ENVOYÉ »** que si une **preuve mat
 
 | N° | Document | Preuve |
 |:--:|----------|--------|
-| 03 | [Mise en demeure SAS](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20SAS.md) | LRAR 87001424863012T |
+| 03 | [Mise en demeure SAS](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Courrier.md) | LRAR 87001424863012T |
 | 05 | [Mise en demeure bailleur](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A0%20Propri%C3%A9taire/%E2%9C%89%EF%B8%8F%20Propri%C3%A9taire%20-%20Courrier.md) | AR signé M. Delrieu |
-| 06 | [Mise en demeure dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Pr%C3%A9sident%20SAS.md) | LRAR 87001424721856G + 87001424862879J |
-| 06 V2 | [Relance dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Dirigeants%20SAS%20-%20Relance.md) | Dépôt 870014282662911 + facture Z0132713629 |
+| 06 | [Mise en demeure dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Pr%C3%A9sident%20-%20Courrier.md) | LRAR 87001424721856G + 87001424862879J |
+| 06 V2 | [Relance dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Dirigeants%20-%20Courrier%20-%20Relance.md) | Dépôt 870014282662911 + facture Z0132713629 |
 | 10 | [CPC Doyen TJ Foix](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requete%20Art.145%20CPC.md) | Dépôt greffe |
 
 ### 🟠 PRÊTS POUR ENVOI
 
 | N° | Document | Blocage |
 |:--:|----------|---------|
-| 34 | [Email Maire Foix Police ERP](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Courrier%20-%20ERP%20Mairie%20Tavella.md) | **🚀 ENVOI PRÉVU DEMAIN 11/07 8H00** |
+| 34 | [Email Maire Foix Police ERP](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20ERP%20Tavella%20-%20Courrier.md) | **🚀 ENVOI PRÉVU DEMAIN 11/07 8H00** |
 
 ### 🟡 PROJETS / BROUILLONS
 
 | N° | Document | Raison |
 |:--:|----------|--------|
-| 04 | [Action directe assureur](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Assureur%20RC%20SAS.md) | `[Adresse à compléter]` — assureur non identifié |
+| 04 | [Action directe assureur](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Assureur%20RC%20-%20Courrier.md) | `[Adresse à compléter]` — assureur non identifié |
 | 07 | [Demande consolidation](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Demande%20Consolidation.md) | État non consolidé, suivi ~1 an |
 | 09 | [Inspection Travail](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Inspection%20du%20Travail.md) | En réserve stratégique (conditionnel) |
 | 11 | [INPI signalement](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20INPI.md) | Aucune preuve d'expédition |

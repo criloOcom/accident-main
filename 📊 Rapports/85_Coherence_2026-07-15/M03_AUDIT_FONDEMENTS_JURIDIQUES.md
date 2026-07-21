@@ -783,17 +783,17 @@ type: rapport
 
 - [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md:358 — citation incomplète (Code manquant pour l'article 434-15 dans `Article 434-15 du Code p`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md:117 — citation incomplète (Code manquant pour l'article 700 dans `Article 700`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md:117 — citation incomplète (Code manquant pour l'article 700 dans `Article 700`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md:174 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md:174 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md:68 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md:68 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md:121 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md:121 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md:157 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md:157 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md:195 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md:195 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
 
 - [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md:109 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
 
@@ -809,21 +809,21 @@ type: rapport
 
 - [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md:58 — citation incomplète (Code manquant pour l'article 1720 dans `Article 1720`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md:107 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md:107 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md:139 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md:139 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md:48 — citation incomplète (Code manquant pour l'article L2212-2 dans `Article L2212-2 du Code g`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md:48 — citation incomplète (Code manquant pour l'article L2212-2 dans `Article L2212-2 du Code g`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md:54 — citation incomplète (Code manquant pour l'article L2212-4 dans `Article L2212-4 du Code g`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md:54 — citation incomplète (Code manquant pour l'article L2212-4 dans `Article L2212-4 du Code g`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md:113 — citation incomplète (Code manquant pour l'article 835 dans `article 835 du Code de proc`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md:113 — citation incomplète (Code manquant pour l'article 835 dans `article 835 du Code de proc`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md:125 — citation incomplète (Code manquant pour l'article 145 dans `art. 145`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md:125 — citation incomplète (Code manquant pour l'article 145 dans `art. 145`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md:145 — citation incomplète (Code manquant pour l'article 835 dans `art. 835`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md:145 — citation incomplète (Code manquant pour l'article 835 dans `art. 835`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md:91 — citation incomplète (Code manquant pour l'article 145 dans `art. 145`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md:91 — citation incomplète (Code manquant pour l'article 145 dans `art. 145`) — préciser le code applicable.
 
 - [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md:72 — citation incomplète (Code manquant pour l'article 38 dans `article 38 de la loi n`) — préciser le code applicable.
 
@@ -851,33 +851,33 @@ type: rapport
 
 - [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md:83 — citation incomplète (Code manquant pour l'article 77-1-1 dans `Article 77-1-1 du Code de proc`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md:116 — citation incomplète (Code manquant pour l'article 145 dans `article 145 du Code de proc`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md:116 — citation incomplète (Code manquant pour l'article 145 dans `article 145 du Code de proc`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md:119 — citation incomplète (Code manquant pour l'article 145 dans `Article 145 du Code de proc`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md:119 — citation incomplète (Code manquant pour l'article 145 dans `Article 145 du Code de proc`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md:121 — citation incomplète (Code manquant pour l'article 700 dans `article 700 du Code de proc`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md:121 — citation incomplète (Code manquant pour l'article 700 dans `article 700 du Code de proc`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md:123 — citation incomplète (Code manquant pour l'article 37 dans `article 37 de la loi n`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md:123 — citation incomplète (Code manquant pour l'article 37 dans `article 37 de la loi n`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md:124 — citation incomplète (Code manquant pour l'article 700 dans `Article 700 du Code de proc`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md:124 — citation incomplète (Code manquant pour l'article 700 dans `Article 700 du Code de proc`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md:137 — citation incomplète (Code manquant pour l'article 434-4 dans `Article 434-4 du Code p`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md:137 — citation incomplète (Code manquant pour l'article 434-4 dans `Article 434-4 du Code p`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md:140 — citation incomplète (Code manquant pour l'article 434-4 dans `Article 434-4 du Code p`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md:140 — citation incomplète (Code manquant pour l'article 434-4 dans `Article 434-4 du Code p`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md:153 — citation incomplète (Code manquant pour l'article 145 dans `Article 145 du Code de proc`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md:153 — citation incomplète (Code manquant pour l'article 145 dans `Article 145 du Code de proc`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md:158 — citation incomplète (Code manquant pour l'article 145 dans `Article 145 du Code de proc`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md:158 — citation incomplète (Code manquant pour l'article 145 dans `Article 145 du Code de proc`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md:180 — citation incomplète (Code manquant pour l'article 434-4 dans `Article 434-4 du Code p`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md:180 — citation incomplète (Code manquant pour l'article 434-4 dans `Article 434-4 du Code p`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md:183 — citation incomplète (Code manquant pour l'article 145 dans `Article 145 du Code de proc`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md:183 — citation incomplète (Code manquant pour l'article 145 dans `Article 145 du Code de proc`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md:184 — citation incomplète (Code manquant pour l'article 700 dans `Article 700 du Code de proc`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md:184 — citation incomplète (Code manquant pour l'article 700 dans `Article 700 du Code de proc`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md:66 — citation incomplète (Code manquant pour l'article 434-4 dans `article 434-4 du Code p`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md:66 — citation incomplète (Code manquant pour l'article 434-4 dans `article 434-4 du Code p`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md:69 — citation incomplète (Code manquant pour l'article 434-4 dans `Article 434-4 du Code p`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md:69 — citation incomplète (Code manquant pour l'article 434-4 dans `Article 434-4 du Code p`) — préciser le code applicable.
 
 - [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Requête - Constat Huissier Archive.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Requête - Constat Huissier Archive.md:21 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
 

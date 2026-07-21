@@ -92,7 +92,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 
 ## III — ANALYSE PAR DOCUMENT
 
-### III.1 — 2.1 03 — Courrier SAS (`✉️ Courriers/✉️ Courrier - SAS.md`)
+### III.1 — 2.1 03 — Courrier SAS (`✉️ Courriers/✉️ SAS - Courrier.md`)
 
 | Critère | Évaluation |
 |---|---|
@@ -159,7 +159,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Tokens | 🔴 l.39 : `**[Adresse du TJ à compléter]**` — token non standard, devrait être uniforme |
 | Problèmes | Accents absents. Absence du formalisme "PAR CES MOTIFS". Token cassé |
 
-### III.7 — 2.7 34 — Email Maire Foix (`✉️ Courriers/✉️ Courrier - ERP Mairie Tavella.md`)
+### III.7 — 2.7 34 — Email Maire Foix (`✉️ Courriers/✉️ Mairie - ERP Tavella - Courrier.md`)
 
 | Critère | Évaluation |
 |---|---|

@@ -43,19 +43,19 @@ Date: 2026-07-12 14:37
   ✓  ⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md
        → ⚖️ Actes proceduraux/👮 Contentieux penal/Réquisitoire - Introductif.md
   ✓  ✉️ Courriers/03 ✉️ Courrier SAS.md
-       → ✉️ Courriers/✉️ Courrier - SAS.md
-  ✓  ✉️ Courriers/✉️ Courrier - Assureur RC SAS.md
-       → ✉️ Courriers/✉️ Courrier - Assureur RC SAS.md
+       → ✉️ Courriers/✉️ SAS - Courrier.md
+  ✓  ✉️ Courriers/✉️ SAS - Assureur RC - Courrier.md
+       → ✉️ Courriers/✉️ SAS - Assureur RC - Courrier.md
   ✓  ✉️ Courriers/05 ✉️ Courrier Proprietaire.md
        → ✉️ Courriers/✉️ Propriétaire - Courrier.md
-  ✓  ✉️ Courriers/06 V2 ✉️ Courrier - Dirigeants SAS - Relance.md
-       → ✉️ Courriers/✉️ Courrier - Dirigeants SAS - Relance.md
+  ✓  ✉️ Courriers/06 V2 ✉️ SAS - Dirigeants - Courrier - Relance.md
+       → ✉️ Courriers/✉️ SAS - Dirigeants - Courrier - Relance.md
   ✓  ✉️ Courriers/06 ✉️ Courrier President DG.md
-       → ✉️ Courriers/✉️ Courrier - Président SAS.md
+       → ✉️ Courriers/✉️ SAS - Président - Courrier.md
   ✓  ✉️ Courriers/07 ✉️ Courrier Consolidation.md
        → ✉️ Courriers/✉️🔄 Consolidation.md
   ✓  ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
-       → ✉️ Courriers/✉️ Courrier - Mairie Tavella - Relance.md
+       → ✉️ Courriers/✉️ Mairie - Tavella - Courrier - Relance.md
   ✓  ✉️ Courriers/09 ✉️ Courrier Inspection Travail.md
        → ✉️ Courriers/✉️ Signalement - Inspection du Travail.md
   ✓  ✉️ Courriers/10 ✉️ Courrier Doyen Juges Instruction.md
@@ -93,7 +93,7 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/28 📧✉️ Attestation - Employé.md
        → ✉️ Courriers/Mail Attestation.md
   ✓  ✉️ Courriers/29 ✉️ Courrier Maire Foix.md
-       → ✉️ Courriers/✉️ Courrier - Maire de Foix.md
+       → ✉️ Courriers/✉️ Mairie - Maire de Foix - Courrier.md
   ✓  ✉️ Courriers/30 ✉️ Courrier President TC.md
        → ✉️ Courriers/✉️ Opposition - Radiation Tribunal de Commerce.md
   ✓  ✉️ Courriers/✉️ Signalement - INPI.md
@@ -103,7 +103,7 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/33 ✉️ Requête - Constat Huissier Archive 145 CPC.md
        → ✉️ Courriers/✉️ Requête - Constat Huissier Archive.md
   ✓  ✉️ Courriers/✉️ Signalement - Préfecture.md
-       → ✉️ Courriers/✉️ Courrier - ERP Mairie Tavella.md
+       → ✉️ Courriers/✉️ Mairie - ERP Tavella - Courrier.md
   ✓  ✉️ Courriers/35 ✉️ Courrier President TJ Foix.md
        → ✉️ Courriers/✉️ Courrier - Preuves Complémentaires TJ Foix.md
   ✓  ✉️ Courriers/36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md
@@ -187,19 +187,19 @@ Date: 2026-07-12 14:37
   ✓  ⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md
        → ⚖️ Actes proceduraux/👮 Contentieux penal/Réquisitoire - Introductif.md
   ✓  ✉️ Courriers/03 ✉️ Courrier SAS.md
-       → ✉️ Courriers/✉️ Courrier - SAS.md
-  ✓  ✉️ Courriers/✉️ Courrier - Assureur RC SAS.md
-       → ✉️ Courriers/✉️ Courrier - Assureur RC SAS.md
+       → ✉️ Courriers/✉️ SAS - Courrier.md
+  ✓  ✉️ Courriers/✉️ SAS - Assureur RC - Courrier.md
+       → ✉️ Courriers/✉️ SAS - Assureur RC - Courrier.md
   ✓  ✉️ Courriers/05 ✉️ Courrier Proprietaire.md
        → ✉️ Courriers/✉️ Propriétaire - Courrier.md
-  ✓  ✉️ Courriers/06 V2 ✉️ Courrier - Dirigeants SAS - Relance.md
-       → ✉️ Courriers/✉️ Courrier - Dirigeants SAS - Relance.md
+  ✓  ✉️ Courriers/06 V2 ✉️ SAS - Dirigeants - Courrier - Relance.md
+       → ✉️ Courriers/✉️ SAS - Dirigeants - Courrier - Relance.md
   ✓  ✉️ Courriers/06 ✉️ Courrier President DG.md
-       → ✉️ Courriers/✉️ Courrier - Président SAS.md
+       → ✉️ Courriers/✉️ SAS - Président - Courrier.md
   ✓  ✉️ Courriers/07 ✉️ Courrier Consolidation.md
        → ✉️ Courriers/✉️🔄 Consolidation.md
   ✓  ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
-       → ✉️ Courriers/✉️ Courrier - Mairie Tavella - Relance.md
+       → ✉️ Courriers/✉️ Mairie - Tavella - Courrier - Relance.md
   ✓  ✉️ Courriers/09 ✉️ Courrier Inspection Travail.md
        → ✉️ Courriers/✉️ Signalement - Inspection du Travail.md
   ✓  ✉️ Courriers/10 ✉️ Courrier Doyen Juges Instruction.md
@@ -237,7 +237,7 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/28 📧✉️ Attestation - Employé.md
        → ✉️ Courriers/Mail Attestation.md
   ✓  ✉️ Courriers/29 ✉️ Courrier Maire Foix.md
-       → ✉️ Courriers/✉️ Courrier - Maire de Foix.md
+       → ✉️ Courriers/✉️ Mairie - Maire de Foix - Courrier.md
   ✓  ✉️ Courriers/30 ✉️ Courrier President TC.md
        → ✉️ Courriers/✉️ Opposition - Radiation Tribunal de Commerce.md
   ✓  ✉️ Courriers/✉️ Signalement - INPI.md
@@ -247,7 +247,7 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/33 ✉️ Requête - Constat Huissier Archive 145 CPC.md
        → ✉️ Courriers/✉️ Requête - Constat Huissier Archive.md
   ✓  ✉️ Courriers/✉️ Signalement - Préfecture.md
-       → ✉️ Courriers/✉️ Courrier - ERP Mairie Tavella.md
+       → ✉️ Courriers/✉️ Mairie - ERP Tavella - Courrier.md
   ✓  ✉️ Courriers/35 ✉️ Courrier President TJ Foix.md
        → ✉️ Courriers/✉️ Courrier - Preuves Complémentaires TJ Foix.md
   ✓  ✉️ Courriers/36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md
@@ -327,13 +327,13 @@ Date: 2026-07-12 14:37
   📄 📊 Rapports/RAPPORT_AUDIT_HERMES_20260711.md
        [parenthesized_url] 05 Note - Dossier Spécial CERFA.md → Note - Dossier Spécial CERFA.md (1x)
   📄 📊 Rapports/RAPPORT_AUDIT_REDACTION.md
-       [parenthesized_url] 03 ✉️ Courrier SAS.md → ✉️ Courrier - SAS.md (1x)
+       [parenthesized_url] 03 ✉️ Courrier SAS.md → ✉️ SAS - Courrier.md (1x)
        [parenthesized_url] 10 ✉️ Courrier Doyen Juges Instruction.md → ✉️ Saisine - Doyen des Juges d'Instruction.md (1x)
        [parenthesized_url] 12 ✉️ Courrier URSSAF.md → ✉️ Signalement - URSSAF.md (1x)
        [parenthesized_url] 14 ✉️ Courrier CODAF.md → ✉️ Signalement - CODAF.md (1x)
        [parenthesized_url] 19 ✉️ Courrier FGTI.md → ✉️ Saisine - FGTI.md (1x)
        [parenthesized_url] 33 ✉️ Requête - Constat Huissier Archive 145 CPC.md → ✉️ Requête - Constat Huissier Archive.md (1x)
-       [parenthesized_url] ✉️ Signalement - Préfecture.md → ✉️ Courrier - ERP Mairie Tavella.md (1x)
+       [parenthesized_url] ✉️ Signalement - Préfecture.md → ✉️ Mairie - ERP Tavella - Courrier.md (1x)
        [parenthesized_url] 35 ✉️ Courrier President TJ Foix.md → ✉️ Courrier - Preuves Complémentaires TJ Foix.md (1x)
        [parenthesized_url] 07 🎤 Plaidoirie dirigeants.md → Note - Plaidoirie Responsabilité Dirigeants.md (1x)
        [parenthesized_url] Note - Analyse Responsabilités Légales.md → Note - Analyse Responsabilités Légales.md (1x)
@@ -351,7 +351,7 @@ Date: 2026-07-12 14:37
        [breadcrumb] › 04 ✉️ Courrier Assureur (breadcrumb)
        [breadcrumb] › 05 ✉️ Courrier Proprietaire (breadcrumb)
        [breadcrumb] › 06 ✉️ Courrier President DG (breadcrumb)
-       [breadcrumb] › 06 V2 ✉️ Courrier - Dirigeants SAS - Relance (breadcrumb)
+       [breadcrumb] › 06 V2 ✉️ SAS - Dirigeants - Courrier - Relance (breadcrumb)
        [breadcrumb] › 07 ✉️ Courrier Consolidation (breadcrumb)
        [breadcrumb] › 08 ✉️ Courrier Suivi Adjoint Maire (breadcrumb)
        [breadcrumb] › 09 ✉️ Courrier Inspection Travail (breadcrumb)

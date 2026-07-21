@@ -51,9 +51,9 @@ L'expression "suite à" est une faute de français (calque administratif). Elle 
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md` — ligne 224
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md` — lignes 23, 43
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md` — lignes 23, 43
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md` — ligne 67
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md` — ligne 67
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/Archive - Checklist Déplacement Foix.md` — lignes 402, 565
 

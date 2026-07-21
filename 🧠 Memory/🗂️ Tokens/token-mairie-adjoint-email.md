@@ -37,11 +37,11 @@ Email direct de l'adjoint au maire en charge de l'urbanisme et de la sécurité 
 
 ## Documents liés
 
-- [Email Maire Tavella ERP J+42](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Courrier%20-%20ERP%20Mairie%20Tavella.md)
+- [Email Maire Tavella ERP J+42](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)
 
-- [Suivi Adjoint Maire Tavella J+37](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Mairie%20Tavella%20-%20Relance.md)
+- [Suivi Adjoint Maire Tavella J+37](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Tavella%20-%20Courrier%20-%20Relance.md)
 
-- [Mise en demeure Maire Foix J+41](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Maire%20de%20Foix.md)
+- [Mise en demeure Maire Foix J+41](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Maire%20de%20Foix%20-%20Courrier.md)
 
 ## Source
 

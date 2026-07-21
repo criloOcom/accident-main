@@ -447,7 +447,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/Preuves officielles/20260708 ✉️ LR Relance ASSURANCE/06 V2 ✉️ Courrier - Dirigeants SAS - Relance - Réel.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/Preuves officielles/20260708 ✉️ LR Relance ASSURANCE/06 V2 ✉️ SAS - Dirigeants - Courrier - Relance - Réel.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/Preuves officielles/20260529 🩹 DrJARDON/20260529-1630 SITUATION DrJulieJARDON.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -503,7 +503,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -511,7 +511,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -549,7 +549,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -557,19 +557,19 @@ type: rapport
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/Archive - Checklist Déplacement Foix.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -719,7 +719,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -727,7 +727,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -777,7 +777,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -789,23 +789,23 @@ type: rapport
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md` : YAML front matter manquant ou mal formaté (Gravité: MAJEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md` : Breadcrumb HTML manquant (Gravité: MAJEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/Archive - Checklist Déplacement Foix.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 

@@ -40,13 +40,13 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 ### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Propriétaire - Courrier - Relance 3.md`
 - [x] `l.71` — Mention correcte de la profession : *- J'exerce la profession d'**informaticien indépendant** (SIREN **[L'Identifiant Professionnel de la Victime]**).*
 
-### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - Président SAS.md`
+### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président - Courrier.md`
 - [x] `l.101` — Mention correcte de la profession : *Du fait de mon activité d'informaticien indépendant ([**[L'Identifiant Professionnel de la Victime]**]), l'incapacité d'utiliser mon index et ma main dominante me paralyse totalement dans mon travail quotidien.*
 
-### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - SAS.md`
+### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Courrier.md`
 - [x] `l.84` — Mention correcte de la profession : *Travaillant à mon compte en tant qu'informaticien indépendant ([**[L'Identifiant Professionnel de la Victime]**]), cet accident me paralyse professionnellement et financièrement.*
 
-### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - SAS HB BARBER.md`
+### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - HB BARBER - Courrier.md`
 - [x] `l.71` — Mention correcte de la profession : *Exerçant une activité d'informaticien indépendant (SIREN [**[L'Identifiant Professionnel de la Victime]**]), cette incapacité m'empêche d'exercer normalement mon travail et me place dans une situation financière très fragile. Un recours contre tiers a été ouvert par la CPAM sous la référence [**[N° Dossier CPAM]**].*
 
 - [x] `l.29` — Mention correcte de la profession : *SIREN : [**[L'Identifiant Professionnel de la Victime]**]*
@@ -148,17 +148,17 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 
 - [x] `l.40` — Mention correcte du SIREN : *[500 474 457]*
 
-### 📄 `⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - Président SAS.md`
+### 📄 `⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président - Courrier.md`
 - [x] `l.101` — Mention correcte de la profession : *Du fait de mon activité d'informaticien indépendant ([500 474 457]), l'incapacité d'utiliser mon index et ma main dominante me paralyse totalement dans mon travail quotidien.*
 
 - [x] `l.101` — Mention correcte du SIREN : *Du fait de mon activité d'informaticien indépendant ([500 474 457]), l'incapacité d'utiliser mon index et ma main dominante me paralyse totalement dans mon travail quotidien.*
 
-### 📄 `⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - SAS.md`
+### 📄 `⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Courrier.md`
 - [x] `l.84` — Mention correcte de la profession : *Travaillant à mon compte en tant qu'informaticien indépendant ([500 474 457]), cet accident me paralyse professionnellement et financièrement.*
 
 - [x] `l.84` — Mention correcte du SIREN : *Travaillant à mon compte en tant qu'informaticien indépendant ([500 474 457]), cet accident me paralyse professionnellement et financièrement.*
 
-### 📄 `⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - SAS HB BARBER.md`
+### 📄 `⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - HB BARBER - Courrier.md`
 - [x] `l.29` — Mention correcte du SIREN : *SIREN : [500 474 457]*
 
 - [x] `l.71` — Mention correcte du SIREN : *Exerçant une activité d'informaticien indépendant (SIREN [500 474 457]), cette incapacité m'empêche d'exercer normalement mon travail et me place dans une situation financière très fragile. Un recours contre tiers a été ouvert par la CPAM sous la référence [31727387].*

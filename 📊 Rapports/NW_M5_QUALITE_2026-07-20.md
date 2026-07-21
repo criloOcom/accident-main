@@ -85,9 +85,9 @@ Les fichiers suivants contiennent des placeholders non résolus (ex: [À complé
 
 - [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ Signalement - Procureur de Foix.md:23` — Placeholder trouvé: `[Date]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - Assureur RC SAS (copie Avocat).md:157` — Placeholder trouvé: `[Nom]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Assureur RC - Courrier (copie Avocat).md:157` — Placeholder trouvé: `[Nom]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - Président SAS.md:79` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président - Courrier.md:79` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
 - [ ] **MINEUR** `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md:131` — Placeholder trouvé: `[DATE]` — Remplacer par la valeur réelle ou le token approprié
 

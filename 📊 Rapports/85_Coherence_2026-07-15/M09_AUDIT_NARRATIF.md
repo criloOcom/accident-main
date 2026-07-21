@@ -183,7 +183,7 @@ Total des anomalies : 99
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/Mail Attestation.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 32)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 43)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 43)
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 48)
 

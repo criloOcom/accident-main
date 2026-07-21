@@ -56,7 +56,7 @@ Parallèlement, envoi de **12 courriers** :
 
 - [✉️ Relance Consolidation](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Demande%20Consolidation.md)
 
-- [✉️ Courrier - Mairie Tavella - Relance](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Mairie%20Tavella%20-%20Relance.md)
+- [✉️ Mairie - Tavella - Courrier - Relance](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Tavella%20-%20Courrier%20-%20Relance.md)
 
 - [J+37 ✉️ Signalement Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Inspection%20du%20Travail.md)
 

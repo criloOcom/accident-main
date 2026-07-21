@@ -46,7 +46,7 @@ Les actes associés (courriers) sont les mêmes que ceux du J+41 Courrier SIE UR
 
 ## Documents liés
 
-- [✉️ Courrier - Maire de Foix](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Maire%20de%20Foix.md)
+- [✉️ Mairie - Maire de Foix - Courrier](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Maire%20de%20Foix%20-%20Courrier.md)
 
 - [✉️ Opposition - Radiation Tribunal de Commerce](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/%E2%9C%89%EF%B8%8F%20Opposition%20-%20Radiation%20Tribunal%20de%20Commerce.md)
 

@@ -95,7 +95,7 @@ Le courrier rappelle le parcours médical complet : chirurgie d'urgence le J+1 (
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️ Courrier - Mairie Tavella - Relance.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Mairie%20Tavella%20-%20Relance.md) (08) |
+| **Fichier** | [`✉️ Mairie - Tavella - Courrier - Relance.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Tavella%20-%20Courrier%20-%20Relance.md) (08) |
 | **Destinataire** | [L'Adjoint au Maire de la Commune] |
 | **Mode** | LRAR + email complémentaire |
 | **Ton** | Chaleureux, reconnaissant, courtois |

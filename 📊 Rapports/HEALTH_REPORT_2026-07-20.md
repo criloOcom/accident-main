@@ -61,7 +61,7 @@ Détail :
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/✉️ Saisine - FGTI.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/✉️ Opposition - Radiation Tribunal de Commerce.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/✉️ Courrier - Preuves Complémentaires TJ Foix.md: date=2026-07-12 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Mairie/✉️ Courrier - ERP Mairie Tavella.md: date=2026-07-10 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Mairie/✉️ Mairie - ERP Tavella - Courrier.md: date=2026-07-10 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏠 Propriétaire/✉️ Propriétaire - Courrier - Relance 3.md: date=2026-07-19 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏥 CPAM/✉️ CPAM - Rectification Identité - Relance.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/👥 Témoins/Mail Attestation.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
@@ -89,7 +89,7 @@ Détail :
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ Saisine - FGTI.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ Opposition - Radiation Tribunal de Commerce.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ Courrier - Preuves Complémentaires TJ Foix.md: date=2026-07-12 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Mairie/✉️ Courrier - ERP Mairie Tavella.md: date=2026-07-10 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Mairie/✉️ Mairie - ERP Tavella - Courrier.md: date=2026-07-10 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Propriétaire - Courrier - Relance 3.md: date=2026-07-19 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏥 CPAM/✉️ CPAM - Rectification Identité - Relance.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/Mail Attestation.md: date=2026-07-06 type=courrier mais calendar_event_id manquant

@@ -69,14 +69,14 @@ type: rapport
   * Priorité : Moyenne
   * Statut : En attente
   * Note : Dès l'identité obtenue via 145 CPC.
-  * Fichier : [MD Assureur RC](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Assureur%20RC%20SAS.md)
+  * Fichier : [MD Assureur RC](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Assureur%20RC%20-%20Courrier.md)
 
 * **Relance Maire Tavella** (J+60)
 
   * Priorité : Moyenne
   * Statut : Relance possible
   * Note : Suivi à la suite de la réponse du 1er juin.
-  * Fichier : [Suivi Maire](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Mairie%20Tavella%20-%20Relance.md)
+  * Fichier : [Suivi Maire](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Tavella%20-%20Courrier%20-%20Relance.md)
 
 * **Oppositions TC & INPI** (J+60)
 

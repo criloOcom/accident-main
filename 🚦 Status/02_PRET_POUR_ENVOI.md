@@ -30,11 +30,11 @@ Documents finalisés mais sans preuve matérielle de délivrance — statuts fin
 
 - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/R%C3%A9quisitoire%20-%20Introductif.md)
 
-- [⚖️ Actes/🔑 Token/✉️ Courriers/✉️ Courrier - Assureur RC SAS.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Assureur%20RC%20SAS.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/✉️ SAS - Assureur RC - Courrier.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Assureur%20RC%20-%20Courrier.md)
 
 - [⚖️ Actes/🔑 Token/✉️ Courriers/07 ✉️ Courrier Courrier - Demande Consolidation.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Demande%20Consolidation.md)
 
-- [⚖️ Actes/🔑 Token/✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Mairie%20Tavella%20-%20Relance.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Tavella%20-%20Courrier%20-%20Relance.md)
 
 - [⚖️ Actes/🔑 Token/✉️ Courriers/09 ✉️ Courrier Inspection Travail.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Inspection%20du%20Travail.md)
 
@@ -66,9 +66,9 @@ Documents finalisés mais sans preuve matérielle de délivrance — statuts fin
 
 - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️ Attestation - Employé.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%E2%9C%89%EF%B8%8F%20Attestation%20-%20Employ%C3%A9.md)
 
-- [⚖️ Actes/🔑 Token/✉️ Courriers/29 ✉️ Courrier Maire Foix.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Maire%20de%20Foix.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/29 ✉️ Courrier Maire Foix.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Maire%20de%20Foix%20-%20Courrier.md)
 
-- [⚖️ Actes/🔑 Token/✉️ Courriers/30 ✉️ Courrier President TC.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Pr%C3%A9sident%20SAS.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/30 ✉️ Courrier President TC.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Pr%C3%A9sident%20-%20Courrier.md)
 
 - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️ Signalement - INPI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Opposition%20-%20Immatriculation%20INPI.md)
 
@@ -144,11 +144,11 @@ Documents finalisés mais sans preuve matérielle de délivrance — statuts fin
 
 - [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/R%C3%A9quisitoire%20-%20Introductif.md)
 
-- [⚖️ Actes/👤 Reel/✉️ Courriers/✉️ Courrier - Assureur RC SAS.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Assureur%20RC%20SAS.md)
+- [⚖️ Actes/👤 Reel/✉️ Courriers/✉️ SAS - Assureur RC - Courrier.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Assureur%20RC%20-%20Courrier.md)
 
 - [⚖️ Actes/👤 Reel/✉️ Courriers/07 ✉️ Courrier Courrier - Demande Consolidation.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Demande%20Consolidation.md)
 
-- [⚖️ Actes/👤 Reel/✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Mairie%20Tavella%20-%20Relance.md)
+- [⚖️ Actes/👤 Reel/✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Tavella%20-%20Courrier%20-%20Relance.md)
 
 - [⚖️ Actes/👤 Reel/✉️ Courriers/09 ✉️ Courrier Inspection Travail.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Inspection%20du%20Travail.md)
 
@@ -180,9 +180,9 @@ Documents finalisés mais sans preuve matérielle de délivrance — statuts fin
 
 - [⚖️ Actes/👤 Reel/✉️ Courriers/✉️ Attestation - Employé.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%E2%9C%89%EF%B8%8F%20Attestation%20-%20Employ%C3%A9.md)
 
-- [⚖️ Actes/👤 Reel/✉️ Courriers/29 ✉️ Courrier Maire Foix.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Maire%20de%20Foix.md)
+- [⚖️ Actes/👤 Reel/✉️ Courriers/29 ✉️ Courrier Maire Foix.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Maire%20de%20Foix%20-%20Courrier.md)
 
-- [⚖️ Actes/👤 Reel/✉️ Courriers/30 ✉️ Courrier President TC.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Pr%C3%A9sident%20SAS.md)
+- [⚖️ Actes/👤 Reel/✉️ Courriers/30 ✉️ Courrier President TC.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Pr%C3%A9sident%20-%20Courrier.md)
 
 - [⚖️ Actes/👤 Reel/✉️ Courriers/✉️ Signalement - INPI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Opposition%20-%20Immatriculation%20INPI.md)
 

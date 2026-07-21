@@ -173,30 +173,30 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Demande - Aide Juridictionnelle Totale.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -300,32 +300,32 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Demande - Aide Juridictionnelle Totale.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -815,30 +815,30 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Demande - Aide Juridictionnelle Totale.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -944,32 +944,32 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Demande - Aide Juridictionnelle Totale.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -1099,24 +1099,24 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -1194,24 +1194,24 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -1357,32 +1357,32 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Demande - Aide Juridictionnelle Totale.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -1537,22 +1537,22 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Radiation Tribunal de Commerce.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Courrier - Preuves Complémentaires TJ Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md`
@@ -1605,22 +1605,22 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Radiation Tribunal de Commerce.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Courrier - Preuves Complémentaires TJ Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md`
@@ -1670,7 +1670,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -1712,14 +1712,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
@@ -1777,14 +1777,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
@@ -1843,7 +1843,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte - Défaut Assurance RC.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -1875,18 +1875,18 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -1936,18 +1936,18 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -2047,23 +2047,23 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Conseil Départemental.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md`
@@ -2105,23 +2105,23 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Conseil Départemental.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md`
@@ -2213,30 +2213,30 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Demande - Aide Juridictionnelle Totale.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -2625,9 +2625,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Doyen des Juges d'Instruction.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
@@ -2647,9 +2647,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Doyen des Juges d'Instruction.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
@@ -2856,24 +2856,24 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Doyen des Juges d'Instruction.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - FGTI.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Courrier - Preuves Complémentaires TJ Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md`
@@ -2911,24 +2911,24 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Doyen des Juges d'Instruction.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - FGTI.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Courrier - Preuves Complémentaires TJ Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md`
@@ -2960,7 +2960,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -3138,11 +3138,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Doyen des Juges d'Instruction.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Immatriculation INPI.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
@@ -3188,11 +3188,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Doyen des Juges d'Instruction.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Immatriculation INPI.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
@@ -3260,20 +3260,20 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md`
@@ -3305,20 +3305,20 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md`
@@ -3347,7 +3347,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -3382,9 +3382,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Doyen des Juges d'Instruction.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Immatriculation INPI.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
@@ -3425,9 +3425,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Doyen des Juges d'Instruction.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Immatriculation INPI.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
@@ -3462,7 +3462,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Analyse Responsabilités Légales.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Responsabilité des Dirigeants.md`
   • `🧠 Memory/README.md`
@@ -3702,22 +3702,22 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md`
@@ -3812,22 +3812,22 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md`
@@ -3911,14 +3911,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
@@ -3946,14 +3946,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md`
@@ -4110,14 +4110,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Mandataire Ad Hoc.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Conseil Départemental.md`
@@ -4143,14 +4143,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Mandataire Ad Hoc.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Conseil Départemental.md`
@@ -4206,17 +4206,17 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Courrier - Preuves Complémentaires TJ Foix.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md`
@@ -4239,17 +4239,17 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Courrier - Preuves Complémentaires TJ Foix.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md`
@@ -4297,16 +4297,16 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Radiation Tribunal de Commerce.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
@@ -4328,16 +4328,16 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Radiation Tribunal de Commerce.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
@@ -4381,7 +4381,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Attestation - Employé.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - URSSAF.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - FAQ Juridique.md`
@@ -4409,7 +4409,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Employé.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - URSSAF.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - FAQ Juridique.md`
@@ -4480,32 +4480,32 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Demande - Aide Juridictionnelle Totale.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -4541,23 +4541,23 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -4587,13 +4587,13 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - FAQ Juridique.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
@@ -4612,13 +4612,13 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - FAQ Juridique.md`
@@ -4669,11 +4669,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Courrier - Preuves Complémentaires TJ Foix.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md`
@@ -4696,11 +4696,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Courrier - Preuves Complémentaires TJ Foix.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md`
@@ -4725,9 +4725,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -4756,14 +4756,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - FAQ Juridique.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
@@ -4781,14 +4781,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - FAQ Juridique.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
@@ -4840,7 +4840,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Attestation - Employé.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - URSSAF.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - FAQ Juridique.md`
@@ -4865,7 +4865,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Employé.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - URSSAF.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - FAQ Juridique.md`
@@ -4925,30 +4925,30 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Demande - Aide Juridictionnelle Totale.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -5059,11 +5059,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Doyen des Juges d'Instruction.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
@@ -5082,11 +5082,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Doyen des Juges d'Instruction.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
@@ -5126,12 +5126,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Constat Huissier.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Doyen des Juges d'Instruction.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
@@ -5148,12 +5148,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Constat Huissier.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Doyen des Juges d'Instruction.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
@@ -5192,10 +5192,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Radiation Tribunal de Commerce.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Courrier - Preuves Complémentaires TJ Foix.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
@@ -5541,7 +5541,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Radiation Tribunal de Commerce.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -5702,20 +5702,20 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Doyen des Juges d'Instruction.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Doyen des Juges d'Instruction.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
@@ -5806,7 +5806,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Radiation Tribunal de Commerce.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -6188,15 +6188,15 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Mémoire - En défense adverse.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Mémoire - En défense adverse.md`
@@ -6402,9 +6402,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
 
-**✉️ Courrier - SAS.md**
+**✉️ SAS - Courrier.md**
 
 **Cité par :**
 
@@ -6416,9 +6416,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Radiation Tribunal de Commerce.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md`
@@ -6644,8 +6644,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Réquisitoire - Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md`
   • `📊 Rapports/10_Pilotage/CHECKLIST_ACTIONS_JUSQUA_FIN_2026.md`
   • `📊 Rapports/10_Pilotage/FRISE_CHRONOLOGIQUE_MULTI_VOLETS.md`
@@ -6705,7 +6705,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -6804,11 +6804,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -6836,31 +6836,31 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
 
 **Cite :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
 
 <hr>
 
@@ -6899,7 +6899,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
 
 **SUIVI<br>DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF**
 
@@ -6995,7 +6995,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -7023,35 +7023,35 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
 
 **Cite :**
 
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
 
 **LETTRE RECOMMANDÉE <br> ACCUSÉ DE RÉCEPTION**
 
@@ -7093,15 +7093,15 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
 
-**✉️ Courrier - Assureur RC SAS.md**
+**✉️ SAS - Assureur RC - Courrier.md**
 
 **Cité par :**
 
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
   • `📊 Rapports/10_Pilotage/CHECKLIST_ACTIONS_JUSQUA_FIN_2026.md`
   • `📊 Rapports/10_Pilotage/FRISE_CHRONOLOGIQUE_MULTI_VOLETS.md`
   • `📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_PRESENTATION_STRATEGIQUE_DOSSIER.md`
@@ -7133,15 +7133,15 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
 
-**✉️ Courrier - Président SAS.md**
+**✉️ SAS - Président - Courrier.md**
 
 **Cité par :**
 
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `🚦 Status/02_PRET_POUR_ENVOI.md`
   • `🚦 Status/03_ENVOYE.md`
   • `🚦 Status/envoye.md`
@@ -7164,7 +7164,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -7184,9 +7184,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
 
-**✉️ Courrier - ERP Mairie Tavella.md**
+**✉️ Mairie - ERP Tavella - Courrier.md**
 
 **Cité par :**
 
@@ -7212,7 +7212,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -7258,7 +7258,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Ordonnance Projet.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
@@ -7346,24 +7346,24 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
 
 **Cite :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -7445,10 +7445,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
   • `📊 Rapports/40_Indemnisation_Dintilhac/README.md`
   • `🧠 Memory/🗂️ Tokens/token-finance-dfp.md`
   • `🧠 Memory/🗂️ Tokens/token-finance-evaluation-initiale.md`
@@ -7588,7 +7588,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
   • `📊 Rapports/10_Pilotage/FRISE_CHRONOLOGIQUE_MULTI_VOLETS.md`
   • `📊 Rapports/30_Analyses_Multi_Angle/NOTE_PENALE_STRATEGIQUE.md`
   • `📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_PRESENTATION_STRATEGIQUE_DOSSIER.md`
@@ -7647,7 +7647,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-bailleur-nom.md`
@@ -7669,12 +7669,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -7685,11 +7685,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -7776,7 +7776,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Réquisitoire - Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md`
@@ -8044,7 +8044,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Demande - Aide Juridictionnelle Totale.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
@@ -8054,7 +8054,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Demande - Aide Juridictionnelle Totale.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
@@ -8088,7 +8088,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Constat Huissier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `📊 Rapports/expertise/20260707 Analyse critique Glose.md`
   • `📊 Rapports/expertise/20260707 Mémoire juridique Glose.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -8231,9 +8231,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
 
-**✉️ Courrier - Dirigeants SAS - Relance.md**
+**✉️ SAS - Dirigeants - Courrier - Relance.md**
 
 **Cité par :**
 
@@ -8257,9 +8257,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-date-relance-v2.md`
@@ -8413,7 +8413,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
@@ -8740,10 +8740,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Constitution - Partie Civile.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Constitution - Partie Civile.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -8801,9 +8801,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -8813,9 +8813,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -8834,8 +8834,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Réquisitoire - Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md`
 
 **Cite :**
@@ -9045,7 +9045,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-id.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
@@ -9149,7 +9149,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Demande - Aide Juridictionnelle Totale.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
@@ -9163,7 +9163,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Demande - Aide Juridictionnelle Totale.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
@@ -9232,7 +9232,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
@@ -9267,7 +9267,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
@@ -9457,10 +9457,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `🧠 Memory/TOKEN MAP.md`
 
 **Cite :**
@@ -9547,7 +9547,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Immatriculation INPI.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Radiation Tribunal de Commerce.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Requête - Constat Huissier Archive.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Responsabilité des Dirigeants.md`
@@ -9653,7 +9653,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/README.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -9682,7 +9682,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Réquisitoire - Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/README.md`
@@ -9733,7 +9733,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-cpam-dossier-numero.md`
@@ -10027,9 +10027,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `🧠 Memory/README.md`
 
 <hr>
@@ -10079,7 +10079,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -10147,7 +10147,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Droit des Assurances.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Dossier Spécial CERFA.md`
@@ -10180,7 +10180,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Immatriculation INPI.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Radiation Tribunal de Commerce.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Requête - Constat Huissier Archive.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Responsabilité des Dirigeants.md`
@@ -10198,8 +10198,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
   • `🧠 Memory/🗂️ Tokens/token-mairie-adjoint-email.md`
@@ -10208,8 +10208,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -10318,8 +10318,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Réquisitoire - Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
 
 **Cite :**
 
@@ -10435,8 +10435,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Réquisitoire - Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
 
 **Cite :**
 
@@ -10542,7 +10542,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -10999,9 +10999,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `🧠 Memory/TOKEN MAP.md`
 
 **Cite :**
@@ -11257,7 +11257,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
 
 **EMAIL<br>Éléments d'actualisation sur le dossier ERP (22 Rue Lafaurie, 09000 Foix**
 
@@ -11402,7 +11402,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -11434,7 +11434,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-id.md`
@@ -11697,7 +11697,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260601 🩺 DrOXYBEL/20260601-1115 ARRET Travail Volet1 DrOXYBEL.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-president-nom.md`
@@ -12016,8 +12016,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
 
@@ -12036,8 +12036,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
 
@@ -12304,7 +12304,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -12323,7 +12323,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
 
 **Cite :**
 
@@ -12368,7 +12368,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -12410,7 +12410,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-id.md`
@@ -12470,7 +12470,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Constat Huissier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `📊 Rapports/expertise/20260707 Analyse critique Glose.md`
   • `📊 Rapports/expertise/20260707 Mémoire juridique Glose.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -12576,7 +12576,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Ordonnance Projet.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
@@ -12955,9 +12955,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
 
-**✉️ Courrier - Assureur RC SAS (copie Avocat).md**
+**✉️ SAS - Assureur RC - Courrier (copie Avocat).md**
 
 **Cité par :**
 
@@ -12977,7 +12977,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Ordonnance Projet.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-nom.md`
@@ -13207,7 +13207,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/README.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -13586,12 +13586,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Requête - Constat Huissier Archive.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
@@ -13661,8 +13661,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
 
 <hr>
@@ -14317,7 +14317,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
 
 **LETTRE RECOMMANDÉE <br> ACCUSÉ DE RÉCEPTION**
 
@@ -14350,14 +14350,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
 
-**✉️ Courrier - Assureur RC SAS.md**
+**✉️ SAS - Assureur RC - Courrier.md**
 
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
 
 **Cite :**
 
@@ -14381,14 +14381,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
 
-**✉️ Courrier - Directrice Générale SAS.md**
+**✉️ SAS - Directrice Générale - Courrier.md**
 
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
 
 **Cite :**
 
@@ -14416,14 +14416,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
 
-**✉️ Courrier - Président SAS.md**
+**✉️ SAS - Président - Courrier.md**
 
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
 
 **Cite :**
 
@@ -14438,7 +14438,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -14496,7 +14496,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
@@ -14526,7 +14526,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
@@ -15003,7 +15003,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/README.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -15093,7 +15093,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260601 🩺 DrOXYBEL/20260601-1115 ARRET Travail Volet1 DrOXYBEL.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-president-nom.md`
@@ -15393,14 +15393,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
 
-**✉️ Courrier - Directrice Générale SAS.md**
+**✉️ SAS - Directrice Générale - Courrier.md**
 
 **Cité par :**
 
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
 
 **Cite :**
 
@@ -15631,8 +15631,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Réquisitoire - Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
@@ -15738,7 +15738,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -16472,7 +16472,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Requête - Constat Huissier Archive.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - URSSAF.md`
@@ -16537,10 +16537,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Employé.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -16596,9 +16596,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Doyen des Juges d'Instruction.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `🚦 Status/README.md`
 
 <hr>
@@ -17280,7 +17280,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-cpam-dossier-numero.md`
@@ -17404,7 +17404,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-id.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
@@ -17558,7 +17558,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-bailleur-nom.md`
@@ -17574,9 +17574,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
 
-**✉️ Courrier - Assureur RC SAS (copie Avocat).md**
+**✉️ SAS - Assureur RC - Courrier (copie Avocat).md**
 
 **Cité par :**
 
@@ -17594,7 +17594,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Ordonnance Projet.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-nom.md`
@@ -17604,7 +17604,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
 
 **LETTRE RECOMMANDÉE — MME LA DIRECTRICE GÉNÉRALE (DOMICILE PERSONNEL)**
 
@@ -17639,7 +17639,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
 
 **LETTRE RECOMMANDÉE — M. LE PRÉSIDENT (DOMICILE PERSONNEL)**
 
@@ -17673,7 +17673,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
 
 **LETTRE RECOMMANDÉE — SAS HB BARBER (SIÈGE SOCIAL)**
 
@@ -17772,7 +17772,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -17832,7 +17832,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
 
 **SUIVI<br>DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF**
 
@@ -17920,7 +17920,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
 
 **RELANCE<br>DEMANDE D'INFORMATION ASSURANCE R**
 
@@ -17939,9 +17939,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-date-relance-v2.md`
@@ -18088,7 +18088,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
@@ -18911,10 +18911,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Immatriculation INPI.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
@@ -18942,9 +18942,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond - TJ Foix.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Art.145 CPC.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
@@ -19067,7 +19067,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV - Audition Plainte Complémentaire.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
   • `📊 Rapports/20_Accueil_Avocat/README.md`
   • `📊 Rapports/README.md`
 
@@ -21552,7 +21552,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - FGTI.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Requête - Constat Huissier Archive.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
 
@@ -21577,7 +21577,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
@@ -21602,9 +21602,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Doyen des Juges d'Instruction.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
 
 <hr>
 
@@ -21625,10 +21625,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Radiation Tribunal de Commerce.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Courrier - Preuves Complémentaires TJ Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Mairie Tavella - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
@@ -21833,12 +21833,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Pompier SAMU.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Courrier - Dirigeants SAS - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md`
@@ -22027,9 +22027,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER DG.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
 
-**✉️ Courrier - SAS HB BARBER DG.md**
+**✉️ SAS - HB BARBER - Courrier DG.md**
 
 **Cite :**
 
@@ -22058,9 +22058,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER President.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
 
-**✉️ Courrier - SAS HB BARBER President.md**
+**✉️ SAS - HB BARBER - Courrier President.md**
 
 **Cite :**
 
@@ -22088,9 +22088,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS HB BARBER Societe.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
 
-**✉️ Courrier - SAS HB BARBER Societe.md**
+**✉️ SAS - HB BARBER - Courrier Societe.md**
 
 **Cite :**
 
