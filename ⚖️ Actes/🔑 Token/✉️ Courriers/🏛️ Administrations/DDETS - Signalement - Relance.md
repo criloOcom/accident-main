@@ -38,11 +38,15 @@ jx: J+47
 
 ---
 
+<!-- Objet -->
 **Objet :** Demande d'information — Accident corporel du 29 mai 2026 — Salon « **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** » (**[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**)
+<!-- /Objet -->
 
 ---
 
+<!-- Destinataire -->
 <hr><hr>
+<!-- /Destinataire -->
 
 Madame, Monsieur,
 
@@ -50,7 +54,9 @@ Je me permets de vous écrire en ma qualité de **victime directe** d'un acciden
 
 Par courriel du **1er juin 2026**, **[L'Adjoint au Maire de la Commune](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md)**, Adjoint au Maire de Foix, m'a confirmé avoir saisi la Préfecture, laquelle devait **diligenter vos services** et le CODAF afin d'examiner la situation de cet établissement.
 
+<!-- Date -->
 L'accident a consisté en le **basculement** de la vasque en céramique du bac à shampoing sous le poids du préposé, monté physiquement sur l'équipement pour régler le téléviseur, alors que celle-ci était déjà fragilisée par une **cassure préexistante non signalée**. Ma main droite, tendue par réflexe, a heurté cette cassure, me sectionnant le tendon fléchisseur superficiel (FDP), le nerf digital et l'artère collatérale de l'index droit (neurolyse du nerf palmaire). J'ai été opéré en urgence le 30 mai 2026 à la Clinique SOS Main de Toulouse, avec un **[arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours** (consolidation au 1er mars 2027, DFP 12 %).
+<!-- /Date -->
 
 Dans ce contexte, je souhaiterais savoir :
 
@@ -66,8 +72,10 @@ Je vous remercie par avance de l'attention portée à la présente et reste à v
 
 Veuillez agréer, Madame, Monsieur, l'expression de ma considération distinguée.
 
+<!-- Signature -->
 **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 ## PIECES JOINTES
+<!-- /Signature -->
 
 - **[✉️ Mairie - ERP Tavella - Courrier.md](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel [L'Adjoint au Maire de la Commune] (1er juin 2026)
 

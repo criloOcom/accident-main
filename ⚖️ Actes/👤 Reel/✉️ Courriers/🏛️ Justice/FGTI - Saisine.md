@@ -37,17 +37,21 @@ jx: J+38
 Courriel : **[sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
-<!-- Destinataire -->
 **Fonds de Garantie des Victimes (FGTI)**  
+<!-- Destinataire -->
 64 Rue de la République  
 75011 Paris
 <!-- /Destinataire -->
 
+<!-- Date -->
 [Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le 12 juillet 2026  
+<!-- /Date -->
 
 ---
 
+<!-- Objet -->
 **Objet : Demande d'information et pré-ouverture de dossier – Article 706-3 du CPP – Accident du **[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** — SAS **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)****
+<!-- /Objet -->
 
 ---
 

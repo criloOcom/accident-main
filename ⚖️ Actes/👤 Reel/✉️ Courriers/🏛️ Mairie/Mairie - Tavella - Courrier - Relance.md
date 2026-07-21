@@ -20,8 +20,10 @@ jx: J+37
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Mairie › ✉️ Mairie - Tavella - Courrier - Relance*
+<!-- Destinataire -->
 <hr>
 <!-- /Breadcrumb -->
+<!-- /Destinataire -->
 
 # SUIVI<br>DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF
 > 🔗 Source Google Drive : [1Xj4wf-v-ShC…](https://drive.google.com/open?id=1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw)
@@ -37,7 +39,9 @@ Mairie de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tok
 
 **[09000](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-code-postal.md)** **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
 
+<!-- Date -->
 **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le **[5 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)**
+<!-- /Date -->
 
 Objet : Suite a votre message du 1er juin 2026 — Demande d'information sur les diligences Inspection du Travail et CODAF
 
@@ -72,4 +76,6 @@ Je vous rappelle que l'Article L. 311-1 du Code des relations entre le public et
 
 Dans l'attente de votre retour, je vous prie de croire, Monsieur l'Adjoint au Maire, a l'expression de ma consideration distinguee.
 
+<!-- Signature -->
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+<!-- /Signature -->

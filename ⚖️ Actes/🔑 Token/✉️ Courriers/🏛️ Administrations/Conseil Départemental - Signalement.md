@@ -39,20 +39,24 @@ jx: J+37
 Courriel : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
-<!-- Destinataire -->
 **Conseil Départemental de l'Ariège**  
+<!-- Destinataire -->
 Président du Conseil Départemental  
 Hôtel du Département  
 5-7 Rue du Cap de la Ville  
 BP 60023  
-09001 Foix Cedex  
+09001 Foix Cedex
 <!-- /Destinataire -->
 
+<!-- Date -->
 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le **[J+37 Assignation 145](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)**  
+<!-- /Date -->
 
 ---
 
+<!-- Objet -->
 **Objet : Alerte sur la non-conformité et la dangerosité d'un ERP — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
+<!-- /Objet -->
 
 ---
 
@@ -96,8 +100,10 @@ Je vous remercie par avance de m'adresser un accusé de réception écrit de la 
 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Président, l'expression de ma considération distinguée.
 
+<!-- Signature -->
 **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 <hr><hr>
+<!-- /Signature -->
 
 ## PIECES JOINTES
 

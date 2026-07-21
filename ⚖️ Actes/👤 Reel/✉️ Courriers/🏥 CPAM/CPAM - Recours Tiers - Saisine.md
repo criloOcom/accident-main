@@ -26,9 +26,6 @@ jx: J+38
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
-
 # TRANSMISSION ET BORDEREAU RECAPITULATIF<br>RECOURS CONTRE TIERS
 > 🔗 Source Google Drive : [1_cHcprI9XKo…](https://drive.google.com/open?id=1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY)
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
@@ -40,7 +37,9 @@ Direction des Recours Contre Tiers
 
 [À compléter]
 
+<!-- Date -->
 [Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le **[6 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)**
+<!-- /Date -->
 
 Objet : Transmission d'elements et bordereau recapitulatif — Recours contre tiers n° 31727387
 
@@ -49,12 +48,16 @@ Ref : Accident du **[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82
 Madame, Monsieur,
 ## I — INTRODUCTION
 
+<!-- Auteur -->
 La presente est adressee a vos services par **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** afin de vous informer de l'etat d'avancement des procedures judiciaires engagees a la suite de l'accident corporel grave dont j'ai ete victime le **[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, et de vous transmettre les elements actualises necessaires au suivi de mon dossier de recours contre tiers n° 31727387.
 <hr><hr>
+<!-- /Auteur -->
 
 ## II — RAPPEL DU DOSSIER
 
+<!-- Destinataire -->
 Mon dossier de recours contre tiers a ete ouvert par vos services le **[3 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-5-ouverture-cpam.md)** sous le numero 31727387, suite a l'accident corporel survenu le **[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**.
+<!-- /Destinataire -->
 
 L'accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte mis a disposition par l'employeur. Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main le **[30 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md)** par **[Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)**.
 
@@ -207,8 +210,10 @@ Mes coordonnees demeurent : **[10 Avenue de Purpan, 31700 Blagnac](../../../../%
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 
+<!-- Signature -->
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 <hr><hr>
+<!-- /Signature -->
 
 ## Sources Législation
 

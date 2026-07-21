@@ -38,19 +38,23 @@ jx: J+37
 Courriel : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
-<!-- Destinataire -->
 **CODAF de l'Ariège**  
+<!-- Destinataire -->
 Préfecture de l'Ariège  
 2 Rue de la Préfecture  
 BP 40087  
 09007 Foix Cedex
 <!-- /Destinataire -->
 
+<!-- Date -->
 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le **[J+37 Assignation 145](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)**  
+<!-- /Date -->
 
 ---
 
+<!-- Objet -->
 **Objet : Signalement officiel de manquements et demandes d'enquête (travail dissimulé présumé et manquements sociaux) — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
+<!-- /Objet -->
 
 ---
 

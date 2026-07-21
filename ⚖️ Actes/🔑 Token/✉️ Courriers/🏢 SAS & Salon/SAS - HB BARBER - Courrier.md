@@ -31,7 +31,9 @@ Direction de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%
 
 **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**
 
+<!-- Date -->
 **[La Ville de Résidence de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
+<!-- /Date -->
 
 Objet : Déclaration d'accident corporel — Demande de communication des coordonnées de l’assurance RC professionnelle — Démarche amiable préalable
 

@@ -31,7 +31,9 @@ Directrice Générale de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%
 
 [**[L'Adresse de la Directrice Générale]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-adresse.md)
 
+<!-- Date -->
 **[La Ville de Résidence de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
+<!-- /Date -->
 
 Objet : Demande de communication de l'assurance RC professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — Notification à la dirigeante à titre personnel et de représentant légal
 
@@ -114,7 +116,9 @@ Je préférerais toutefois que nous puissions rester sur un règlement stricteme
 
 Comptant sur votre diligence et votre sens des responsabilités pour débloquer cette situation, je vous prie d'agréer, Madame la Directrice Générale, l'expression de mes salutations distinguées.
 
+<!-- Signature -->
 **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+<!-- /Signature -->
 
 **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
 

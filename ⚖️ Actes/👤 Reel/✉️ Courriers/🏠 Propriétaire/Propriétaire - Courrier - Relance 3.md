@@ -30,13 +30,17 @@ signataire: "Sébastien GRAZIDE (envoi sans signature manuscrite)"
 
 [10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)  
 Courriel : [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)  
+<!-- Date -->
 [Blagnac](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le **19 juillet 2026**  
+<!-- /Date -->
 **Monsieur Romain DELRIEU  
 **17 Rue de la Baïse, 31120 Roquettes**
 
 ---
 
+<!-- Objet -->
 **Objet : Relance LRAR — Correction qualification accident + Demande informations assurances SAS HB BARBER — L.R.A.R.**
+<!-- /Objet -->
 
 ---
 

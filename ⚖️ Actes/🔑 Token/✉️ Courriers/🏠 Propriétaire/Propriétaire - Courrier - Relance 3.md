@@ -30,13 +30,17 @@ signataire: "[La Victime] (envoi sans signature manuscrite)"
 
 [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)  
 Courriel : [**[L'Email de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)  
+<!-- Date -->
 [**[La Ville de Résidence de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le **19 juillet 2026**  
+<!-- /Date -->
 **Monsieur [Le Propriétaire des Murs]**  
 **17 Rue de la Baïse, 31120 Roquettes**
 
 ---
 
+<!-- Objet -->
 **Objet : Relance LRAR — Correction qualification accident + Demande informations assurances SAS HB BARBER — L.R.A.R.**
+<!-- /Objet -->
 
 ---
 

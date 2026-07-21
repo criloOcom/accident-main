@@ -35,21 +35,25 @@ jx: J+52
 **[06 30 51 67 75](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)**
 <!-- /Auteur -->
 
-<!-- Destinataire -->
 **Commissariat de Police de Toulouse**
 **Adresse du Commissariat**
 **[09000](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-code-postal.md)** **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
-<!-- /Destinataire -->
 
+<!-- Date -->
 **[Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**, le 20 juillet 2026
+<!-- /Date -->
 
 ---
 
+<!-- Objet -->
 **Objet : Plainte complémentaire — Accident corporel du 29 mai 2026 — Correction de l'identité de la société exploitante ([SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md))**
+<!-- /Objet -->
 
 ---
 
+<!-- Destinataire -->
 Monsieur le Commandant,
+<!-- /Destinataire -->
 
 Je me permets de vous adresser la présente plainte complémentaire afin de compléter et rectifier les éléments que j'ai portés à la connaissance de vos services à la suite de l'accident corporel dont j'ai été victime le vendredi 29 mai 2026 dans un salon de coiffure situé **[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**.
 
@@ -269,4 +273,6 @@ Je reste bien entendu à la disposition de vos services pour toute précision co
 
 En vous remerciant par avance de l'attention que vous porterez à la présente plainte complémentaire, je vous prie d'agréer, Monsieur le Commandant, l'expression de ma considération distinguée.
 
+<!-- Signature -->
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+<!-- /Signature -->

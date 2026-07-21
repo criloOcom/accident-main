@@ -17,8 +17,10 @@ jx: J+38
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👥 Témoins › ✉️ Témoin Client - Email Attestation*
+<!-- Destinataire -->
 <hr>
 <!-- /Breadcrumb -->
+<!-- /Destinataire -->
 
 # TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (CLIENT)
 Objet : Attestation de témoin — Accident du **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** au salon **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**
@@ -29,7 +31,9 @@ Bonjour,
 
 Vous étiez présent(e) le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** au salon **Exploitant du Commerce** situé au **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** lorsque l'accident s'est produit.
 
+<!-- Date -->
 Je me permets de vous solliciter pour remplir une **attestation de témoin** (Cerfa n° 11527\*03) afin de décrire ce que vous avez vu ce jour-là : la montée du coiffeur sur la vasque en céramique pour régler la télévision, le basculement de l'équipement, et le fait que ma main droite a heurté une cassure préexistante sur le flanc de la vasque.
+<!-- /Date -->
 
 Votre témoignage est **très important** car il permettra de :
 
@@ -63,8 +67,10 @@ Je vous remercie infiniment pour votre aide.
 
 Cordialement,
 
+<!-- Signature -->
 **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
+<!-- /Signature -->
 
 <hr><hr>
 

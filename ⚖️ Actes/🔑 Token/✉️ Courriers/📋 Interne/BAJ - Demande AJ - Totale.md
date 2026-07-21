@@ -47,12 +47,12 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 <hr><hr>
 <!-- /Auteur -->
 
-<!-- Destinataire -->
 ## II — SITUATION PROFESSIONNELLE ET RESSOURCES
-<!-- /Destinataire -->
 
 ### Profession
+<!-- Destinataire -->
 - **Activité** : Informaticien indépendant (micro-entrepreneur — développement web et applications)
+<!-- /Destinataire -->
 
 - **Régime** : Micro-entrepreneur (régime fiscal micro-BNC)
 
@@ -176,7 +176,9 @@ Avenue Paul Laffont, 09000 Foix
 
 - [ ] Photocopies de toutes les pièces (garder les originaux)
 
+<!-- Signature -->
 - [ ] Signature apposée
+<!-- /Signature -->
 
 - [ ] Carnet pour noter les numéros de dossier
 

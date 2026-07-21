@@ -29,11 +29,15 @@ jx: J+41
 **À L'ATTENTION DU GREFFIER DU Tribunal de Commerce de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)****
 **Service du Registre National des Entreprises (RNE)**
 
+<!-- Date -->
 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le 9 juillet 2026
+<!-- /Date -->
 
 ---
 
+<!-- Objet -->
 **Objet :** Opposition à l'immatriculation de toute nouvelle société à **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** présentant un lien avec les dirigeants de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
+<!-- /Objet -->
 
 ---
 

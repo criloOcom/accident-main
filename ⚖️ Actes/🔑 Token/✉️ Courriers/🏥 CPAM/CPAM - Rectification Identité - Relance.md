@@ -31,18 +31,22 @@ reel_path: ../../../👤 Reel/✉️ Courriers/🏥 CPAM/CPAM - Rectification Id
 Courriel : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
-<!-- Destinataire -->
 **CPAM de la Haute-Garonne**  
+<!-- Destinataire -->
 Service Recours Contre Tiers  
 3 Boulevard de la Méditerranée  
 31093 Toulouse Cedex 9
 <!-- /Destinataire -->
 
+<!-- Date -->
 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le 18 juillet 2026
+<!-- /Date -->
 
 ---
 
+<!-- Objet -->
 **Objet : Déclaration rectificative d'accident causé par un tiers – Substitution de la société responsable**
+<!-- /Objet -->
 
 ---
 
@@ -76,8 +80,10 @@ Je vous joins à toutes fins utiles l'erratum d'identité récapitulatif détail
 
 En vous remerciant de la prise en compte rapide de cette rectification, je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.
 
+<!-- Signature -->
 **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 ## PIÈCES JOINTES :
 - [**Erratum officiel de correction d'identité de la société exploitante**](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md) (17/07/2026)
+<!-- /Signature -->
 
 - Justificatif d'immatriculation au RNE de la SAS HB BARBER

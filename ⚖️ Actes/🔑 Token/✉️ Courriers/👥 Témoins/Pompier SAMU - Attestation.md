@@ -50,6 +50,10 @@ Conscient que cette attestation pourra être utilisée en justice et que toute f
 
 Fait pour valoir ce que de droit.
 
+<!-- Date -->
 Fait à [À compléter], le [À compléter]
+<!-- /Date -->
 
+<!-- Signature -->
 Signature :
+<!-- /Signature -->

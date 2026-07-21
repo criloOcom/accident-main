@@ -31,7 +31,9 @@ Président de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%
 
 [115 avenue Fernand Loubet, 09200 Saint-Girons](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-adresse.md)
 
+<!-- Date -->
 **[Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
+<!-- /Date -->
 
 Objet : Demande de communication de l'assurance RC professionnelle de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — Notification au Président à titre personnel et de représentant légal
 
@@ -112,7 +114,9 @@ Je préférerais toutefois que nous puissions rester sur un règlement stricteme
 
 Comptant sur votre diligence et votre sens des responsabilités pour débloquer cette situation, je vous prie d'agréer, Monsieur le Président, l'expression de mes salutations distinguées.
 
+<!-- Signature -->
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+<!-- /Signature -->
 
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
 

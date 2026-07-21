@@ -39,11 +39,15 @@ jx: J+47
 
 ---
 
+<!-- Objet -->
 **Objet :** Suivi du signalement transmis par la Mairie de Foix — Salon « **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** » (**[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**)
+<!-- /Objet -->
 
 ---
 
+<!-- Destinataire -->
 <hr><hr>
+<!-- /Destinataire -->
 
 Monsieur le Préfet,
 
@@ -55,7 +59,9 @@ Victime directe de cet accident — **plaie palmaire profonde de la main droite 
 
 2. Si des **contrôles ont été ou sont envisagés** dans cet établissement ;
 
+<!-- Date -->
 3. Et, le cas échéant, si des **décisions administratives** sont déjà intervenues (mesures de police, mises en demeure, procès-verbaux administratifs, etc.).
+<!-- /Date -->
 
 Je suis conscient que certaines informations peuvent être couvertes par le **secret des enquêtes administratives**. Je vous remercie néanmoins de bien vouloir m'indiquer, dans la mesure de ce qui vous est possible, les suites données à ce signalement, ou à défaut de m'informer que l'instruction est en cours.
 
@@ -65,8 +71,10 @@ Le cas échéant, je me tiens à votre disposition pour vous transmettre toute p
 
 Je vous remercie de l'attention portée à la présente et vous prie d'agréer, Monsieur le Préfet, l'expression de ma considération distinguée.
 
+<!-- Signature -->
 **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 ## PIECES JOINTES
+<!-- /Signature -->
 
 - **[✉️ Mairie - ERP Tavella - Courrier.md](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel [L'Adjoint au Maire de la Commune] (1er juin 2026)
 

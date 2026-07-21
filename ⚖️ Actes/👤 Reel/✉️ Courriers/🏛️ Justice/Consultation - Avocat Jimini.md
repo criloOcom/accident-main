@@ -43,7 +43,9 @@ reel_path: ../../../👤 Reel/✉️ Courriers/📝 Procédure/Consultation - Av
 
 ---
 
+<!-- Objet -->
 **Objet : Consultation — Accident corporel 29/05/2026, salon [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (Foix)**
+<!-- /Objet -->
 
 ---
 
@@ -52,7 +54,9 @@ Bonjour Maître,
 Je sollicite votre avis sur un point de procédure. Voici les faits.
 ## I — Faits et situation actuelle
 
+<!-- Date -->
 Le **29 mai 2026**, je suis victime d'un accident dans un salon de coiffure « [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) » (**[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**). Un bac à shampooing s'est détaché du mur et m'a sectionné le tendon, le nerf et l'artère de l'index droit. Opéré en urgence le 30 mai à la Clinique SOS Main de Toulouse. [Arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) : **55 jours**. Je suis informaticien indépendant (~9 000 €/an).
+<!-- /Date -->
 
 La SAS exploitante a un capital de **200 €**, **0 salarié déclaré**, et tous mes courriers recommandés à cette adresse reviennent NPAI, alors même que le salon a rouvert. Malgré mes demandes écrites, je n'ai obtenu aucune communication du nom de son assureur responsabilité civile, ce qui bloque toute démarche d'indemnisation.
 
