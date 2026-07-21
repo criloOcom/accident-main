@@ -68,6 +68,7 @@ Le dossier complet de ma procédure reste à la disposition de vos services. Bie
 Je vous remercie par avance de l'attention que vous voudrez bien porter à ces éléments.
 
 <!-- PJ -->
+<hr><hr>
 ## PIECES JOINTES
 
 - **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de Foix

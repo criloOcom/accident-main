@@ -30,9 +30,6 @@ jx: J+368
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
-
 # CONCLUSIONS AU FOND
 ## I — POUR :
 
@@ -55,7 +52,6 @@ Assureur RC : [**[L'Assureur RC]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%
 <hr><hr>
 
 ## III — FAITS
-
 
 ### III.1 — 1.1 Les circonstances de l'accident
 
@@ -97,7 +93,6 @@ Par ordonnance de référé du [**[Date Ordonnance Référé]**](../../../../%F0
 
 ## IV — RECEVABILITÉ
 
-
 ### IV.1 — 2.1 Rappel de l'instance
 
 Par exploit d'huissier en date du [**[J+63 Assignation 145]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-63-assignation-145.md), la demanderesse a fait assigner la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** devant le Tribunal Judiciaire de Foix sur le fondement de l'article 145 du Code de procédure civile aux fins de voir ordonner une expertise médicale et d'obtenir une provision à valoir sur l'indemnisation de son préjudice corporel.
@@ -127,7 +122,6 @@ Il n'y a pas lieu à sursis à statuer dans l'attente de l'issue de l'informatio
 <hr><hr>
 
 ## V — RESPONSABILITÉ
-
 
 ### V.1 — 3.1 Responsabilité du fait des choses (article 1242 alinéa 1er du Code civil)
 
@@ -210,7 +204,6 @@ La SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%
 <hr><hr>
 
 ## VI — PRÉJUDICES
-
 
 ### VI.1 — 4.1 Règles applicables
 

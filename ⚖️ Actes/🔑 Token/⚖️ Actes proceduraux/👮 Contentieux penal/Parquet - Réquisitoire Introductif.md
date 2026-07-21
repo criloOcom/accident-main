@@ -198,9 +198,6 @@ Concernant les sanctions encourues, la requalification délictuelles (Art. 222-2
 
 Les chances d'aboutissement de la présente procédure d'information sont jugées **fortes**, compte tenu de l'existence de blessures objectivées par l'expertise médicale (DFP 12 %, SE 4/7, consolidation à 12 mois), de la matérialité de l'accident (PV de police), et de la carence caractérisée en matière de sécurité (vasque cassée non signalée) au sein d'un ERP. L'expertise médicale a également évalué le préjudice extra-patrimonial à environ 49 231 €, fourchette basse d'une estimation globale de 120 000 à 160 000 € incluant les postes patrimoniaux (PGPF, DSA, incidence professionnelle).
 <hr><hr>
-
-<hr><hr>
-
 ### NOTE MÉTHODOLOGIQUE
 
 Ce réquisitoire introductif est une **simulation** à vocation pédagogique et stratégique, s'inscrivant dans la continuité de la [Constitution de Partie Civile](Partie%20Civile%20-%20Constitution.md) (J+38) et du [Rapport d'Expertise Médicale](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) (déposé le 12 juin 2027).

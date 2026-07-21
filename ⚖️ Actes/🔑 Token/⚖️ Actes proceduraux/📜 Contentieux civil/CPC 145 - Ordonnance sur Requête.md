@@ -25,8 +25,6 @@ jx: J+52
 
 > **Projet d'ordonnance — Version HB BARBER.** Document de travail destiné à préparer le dépôt de la requête du 20 juillet 2026.
 
-
-
 **TRIBUNAL JUDICIAIRE DE **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)****
 
 **[Chambre civile / Juge des requêtes]**

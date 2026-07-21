@@ -16,9 +16,6 @@ reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/Police - Bordereau Pi
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./📜%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
-
 # BORDEREAU DE PIÈCES
 ## Dépôt au Commissariat de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** — Lundi 20 juillet 2026
 

@@ -109,9 +109,6 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération dist
 **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 
 <hr><hr>
-
-<hr><hr>
-
 ### NOTE MÉTHODOLOGIQUE
 
 Ce courrier est une **simulation** reprenant la structure du draft fourni par l'utilisateur, adaptée au format tokenisé du dossier et aux conventions de la double strate 🔑 Token / 👤 Reel.

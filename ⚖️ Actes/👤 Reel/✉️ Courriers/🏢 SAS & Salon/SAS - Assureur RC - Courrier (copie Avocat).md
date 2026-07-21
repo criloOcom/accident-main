@@ -144,9 +144,6 @@ Dans l'attente de votre retour écrit et circonstancié dans le délai imparti, 
 **Maître [À compléter — Nom de l'avocat]**
 
 <hr><hr>
-
-<hr><hr>
-
 ### NOTE MÉTHODOLOGIQUE
 
 Variante « avocat » de la mise en demeure adressée à l'assureur RC, destinée à être émise dès la désignation d'un conseil. Principales différences avec la version victime ([J+50](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Assureur%20RC%20-%20Courrier.md)) :

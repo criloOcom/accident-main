@@ -83,6 +83,7 @@ Veuillez agréer, Madame, Monsieur, l'expression de ma considération distingué
 <!-- /Signature -->
 
 <!-- PJ -->
+<hr><hr>
 ## PIECES JOINTES
 
 - **[✉️ Mairie - ERP Tavella - Courrier.md](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel [L'Adjoint au Maire de la Commune] (1er juin 2026)

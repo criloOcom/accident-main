@@ -16,7 +16,6 @@ type: readme
 
 ## 📋 Fichiers
 
-
 ## 💸 Synthèse rapide (compromis retenu)
 
 | Poste | Montant retenu |
