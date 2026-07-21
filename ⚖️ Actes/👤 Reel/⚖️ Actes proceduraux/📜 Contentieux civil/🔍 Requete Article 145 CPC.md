@@ -175,7 +175,7 @@ Ordonner à **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%
 Dans l'hypothèse où **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** conserverait des documents relatifs à la période antérieure au 22 avril 2026 ou à l'état du matériel laissé sur place, ordonner à cette société de communiquer l'état des lieux de sortie du 10 mars 2026 et tout document relatif à l'état du bac à shampoing.
 
 ### IV.4 — Subsidiairement, à la charge de l'établissement bancaire / Prestataire de Services de Paiement (Wero / PSP)
-Ordonner à l'établissement gérant les flux de paiement de l'application Wero de conserver l'ensemble des données d'identification (KYC), d'enregistrement, de connexion (IP, horodatage) et de coordonnées (IBAN, état civil complet, adresse) rattachées au compte bénéficiaire d'[Ayoub BENNOURINE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (Ayoub BENNOURINE, tél. **[Le Téléphone du Préposé](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)**) ayant reçu le transfert de 15 € effectué par le demandeur le 29 mai 2026 à 15h20 (transaction [IPR000297029234](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), et de les communiquer sous pli scellé ou directement à tout service d'enquête délégué.
+Ordonner à l'établissement gérant les flux de paiement de l'application Wero de conserver l'ensemble des données d'identification (KYC), d'enregistrement, de connexion (IP, horodatage) et de coordonnées (IBAN, état civil complet, adresse) rattachées au compte bénéficiaire d'[Ayoub BENNOURINE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (tél. **[Le Téléphone du Préposé](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)**) ayant reçu le transfert de 15 € effectué par le demandeur le 29 mai 2026 à 15h20 (transaction [IPR000297029234](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), et de les communiquer sous pli scellé ou directement à tout service d'enquête délégué.
 <hr><hr>
 
 ## V — ASTREINTE
@@ -227,7 +227,7 @@ Fait à **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%8
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 
-1. Copie du procès-verbal de police n°**N° PV Police** établi par le Commissariat de [[Foix](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)]
+1. Copie du procès-verbal de police n°[2026/015967](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md) établi par le Commissariat de [Foix](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 2. [Certificat médical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du **[Le Médecin en Urgence](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md)** (SMUR 09) en date du **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**
 

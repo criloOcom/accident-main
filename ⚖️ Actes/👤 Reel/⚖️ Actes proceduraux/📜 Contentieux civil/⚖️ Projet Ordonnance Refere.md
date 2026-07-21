@@ -69,7 +69,7 @@ Vu l'article **1242 alinéa 1er** du Code civil ;
 
 Vu l'article **R. 4323-58** du Code du travail ;
 
-Vu les pièces versées aux débats, et notamment le procès-verbal de police n°2026/015967 et le [certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du 29 mai 2026 ;
+Vu les pièces versées aux débats, et notamment le procès-verbal de police n°[2026/015967](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md) et le [certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du 29 mai 2026 ;
 
 Vu l'absence de comparution des défendeurs, régulièrement assignés selon procès-verbal de recherches infructueuses (articles 659 et 658 CPC) ;
 ### EXPOSÉ DU LITIGE

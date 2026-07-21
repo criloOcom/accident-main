@@ -44,9 +44,9 @@ Cette lettre fait suite à :
 
 - Ma **première LRAR du 29 juin 2026** (demande communication assurance RC exploitant) ;
 
-- **Votre email du 16 juillet 2026** (réception LRAR, allégation cessation activité SAS LES MAUVAIS GARÇONS au 10/03/2026, qualification "accident du travail") ;
+- **Votre email du 16 juillet 2026** (réception LRAR, allégation cessation activité **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au 10/03/2026, qualification "accident du travail") ;
 
-- **Ma réponse par la présente** (prise d'acte, identification SAS HB BARBER, trois questions précises) ;
+- **Ma réponse par la présente** (prise d'acte, identification **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**, trois questions précises) ;
 
 - **L'absence de réponse à ce jour** (soit **deux jours** après mon dernier courriel).
 
@@ -92,13 +92,13 @@ Cette disparition constatée, si elle est établie comme intentionnelle, pourrai
 
 <hr><hr>
 
-## II — L'EXPLOITANT APPARENT AU 29 MAI 2026 : SAS HB BARBER
+## II — L'EXPLOITANT APPARENT AU 29 MAI 2026 : [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
 
-Les informations publiques (Registre National des Entreprises) indiquent que la **SAS HB BARBER** (SIREN **104 103 262**) a été créée le **22 avril 2026** et exerce une activité de coiffure/barbier au **22 Rue Lafaurie à Foix** — soit **plus d'un mois avant mon accident**.
+Les informations publiques (Registre National des Entreprises) indiquent que **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** (SIREN **104 103 262**) a été créée le **22 avril 2026** et exerce une activité de coiffure/barbier au **22 Rue Lafaurie à Foix** — soit **plus d'un mois avant mon accident**.
 
-La SAS LES MAUVAIS GARÇONS (SIREN 938 033 222) a, selon vos propres dires, cessé son activité le **10 mars 2026** (état des lieux de sortie à l'appui).
+**[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (SIREN 938 033 222) a, selon vos propres dires, cessé son activité le **10 mars 2026** (état des lieux de sortie à l'appui).
 
-**Au 29 mai 2026, l'exploitant apparent des lieux était donc la SAS HB BARBER**, et non la SAS LES MAUVAIS GARÇONS.
+**Au 29 mai 2026, l'exploitant apparent des lieux était donc [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**, et non **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**.
 
 <hr><hr>
 
@@ -106,13 +106,13 @@ La SAS LES MAUVAIS GARÇONS (SIREN 938 033 222) a, selon vos propres dires, cess
 
 Vous n'avez pas apporté de réponse aux trois questions suivantes, qui sont pourtant **déterminantes pour orienter correctement mon action** :
 
-1. **Occupant au 29 mai 2026** : Pouvez-vous confirmer que, à cette date, vos locaux du 22 Rue Lafaurie étaient bien occupés et exploités par la **SAS HB BARBER** (SIREN 104 103 262), et m'indiquer la date exacte d'entrée dans les lieux de ce nouvel exploitant ?
+1. **Occupant au 29 mai 2026** : Pouvez-vous confirmer que, à cette date, vos locaux du 22 Rue Lafaurie étaient bien occupés et exploités par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** (SIREN 104 103 262), et m'indiquer la date exacte d'entrée dans les lieux de ce nouvel exploitant ?
    → *Identifie le responsable civil (gardien de la chose / commettant) au jour de l'accident*
 
-2. **Contrat de bail et avenants** : Un nouveau bail commercial ou avenant a-t-il été conclu après le départ de la SAS LES MAUVAIS GARÇONS ? Si possible, pouvez-vous m'en communiquer une copie partielle (pages identité du preneur + clauses d'assurance) ?
+2. **Contrat de bail et avenants** : Un nouveau bail commercial ou avenant a-t-il été conclu après le départ de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** ? Si possible, pouvez-vous m'en communiquer une copie partielle (pages identité du preneur + clauses d'assurance) ?
    → *Permet de vérifier les obligations d'assurance RC contractuelles*
 
-3. **Assurances RC** : Pouvez-vous m'indiquer, à votre connaissance, les coordonnées de l'assureur RC de l'exploitant en place au 29 mai 2026 (SAS HB BARBER), ainsi que, le cas échéant, celles de **votre propre assureur PNO** (Propriétaire Non Occupant) pour cet immeuble, dans le cadre de vos obligations de bailleur au titre des articles 1719 et suivants du Code civil[^4] (délivrance, entretien et sécurité des locaux loués) ?
+3. **Assurances RC** : Pouvez-vous m'indiquer, à votre connaissance, les coordonnées de l'assureur RC de l'exploitant en place au 29 mai 2026 ([SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)), ainsi que, le cas échéant, celles de **votre propre assureur PNO** (Propriétaire Non Occupant) pour cet immeuble, dans le cadre de vos obligations de bailleur au titre des articles 1719 et suivants du Code civil[^4] (délivrance, entretien et sécurité des locaux loués) ?
    → *Conditionne l'exercice de l'action directe (L.124-3 du Code des assurances[^5]) et la mise en cause de votre propre assureur PNO*
 
 <hr><hr>

@@ -70,7 +70,7 @@ jx: J+63
 
 | Procédure | Statut |
 |-----------|--------|
-| **Plainte initiale** | ✅ Déposée 2 juin 2026 — PV n°2026/015967 |
+| **Plainte initiale** | ✅ Déposée 2 juin 2026 — PV n°[2026/015967](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md) |
 | **Erratum correction société** | ✅ Déposé le 31 juillet 2026 — joint au dossier |
 | **Demande AJ Totale** | ✅ Déposée le [date] — récépissé n°[à remplir] |
 | **Requête Art. 145 CPC** | 🔴 En attente désignation avocat |

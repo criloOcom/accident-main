@@ -86,6 +86,6 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Memo Axes Juridiques Av
 
 | Point | Usage |
 |-------|-------|
-| **Lien de subordination** | Le paiement de 15 € via Wero effectué par Sébastien le 29/05/2026 à 15h20 au profit d'[**[Le Préposé de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (Ayoub BENNOURINE) atteste de la relation de préposition et de subordination entre le coiffeur (salarié encaisseur) et la société exploitante. |
-| **Preuve de présence** | La transaction Wero est une preuve matérielle, infalsifiable et horodatée de la présence physique de Sébastien au salon de coiffure immédiatement avant la survenue de l'accident. |
+| **Lien de subordination** | Le paiement de 15 € via Wero effectué par [**[Prénom de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) le 29/05/2026 à 15h20 au profit d'[**[Le Préposé de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) atteste de la relation de préposition et de subordination entre le coiffeur (salarié encaisseur) et la société exploitante. |
+| **Preuve de présence** | La transaction Wero est une preuve matérielle, infalsifiable et horodatée de la présence physique de [**[Prénom de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) au salon de coiffure immédiatement avant la survenue de l'accident. |
 | **Tiers détenteur (Wero)** | Wero détient en tant que Prestataire de Services de Paiement (PSP) des données KYC de l'utilisateur bénéficiaire ainsi que des logs de connexion. Ces éléments pourront être sollicités par voie de réquisition pénale ou sur le fondement de l'art. 145 du CPC. |

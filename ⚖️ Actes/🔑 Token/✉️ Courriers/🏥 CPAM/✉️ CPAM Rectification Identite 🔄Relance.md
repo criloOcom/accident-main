@@ -45,22 +45,22 @@ Madame, Monsieur le gestionnaire,
 
 Je me permets de vous contacter dans le cadre du dossier de recours contre tiers référencé sous le numéro **[**[N° [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md)**, ouvert par vos services à la suite de mon accident corporel grave survenu le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** au 22 rue Lafaurie, 09000 Foix.
 
-Lors de ma déclaration initiale de sinistre enregistrée le **[J+5 Ouverture CPAM](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-5-ouverture-cpam.md)**, j'délarais de bonne foi la société *SAS LES MAUVAIS GARÇONS* (SIREN 938 033 222) comme exploitante des locaux et tiers responsable de mon accident. Cette information découler de mes premières recherches publiques sur internet.
+Lors de ma déclaration initiale de sinistre enregistrée le **[J+5 Ouverture CPAM](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-5-ouverture-cpam.md)**, j'délarais de bonne foi la société **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (SIREN 938 033 222) comme exploitante des locaux et tiers responsable de mon accident. Cette information découler de mes premières recherches publiques sur internet.
 
 **Or, des investigations complémentaires et des justificatifs officiels obtenus récemment révèlent que cette désignation était matériellement erronée.**
 
-La société *SAS LES MAUVAIS GARÇONS* a en effet quitté les locaux et réalisé son état des lieux de sortie le 10 mars 2026. L'exploitant réel et en titre du salon de coiffure le jour de mon accident (le 29 mai 2026) est la société :
+La société **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** a en effet quitté les locaux et réalisé son état des lieux de sortie le 10 mars 2026. L'exploitant réel et en titre du salon de coiffure le jour de mon accident (le 29 mai 2026) est la société :
 
-> **SAS HB BARBER**  
+> **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**  
 > Forme juridique : SAS au capital de 1 000 €  
 > SIREN : **104 103 262** (SIRET : 104 103 262 00010)  
 > Siège social : 22 Grande Rue La Faurie, 09000 Foix  
-> Président : M. Hamza El Hachemi BERGUIGA  
-> Directrice Générale : Mme Catherine SORROCHE (épouse ANDISSAC)  
+> Président : **[Le Président du Nouvel Exploitant](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md)**  
+> Directrice Générale : **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**  
 
-Cette société a commencé son activité le 22 avril 2026, soit 37 jours avant l'accident. Mme Catherine SORROCHE, DG commune de la SAS LES MAUVAIS GARÇONS et de la SAS HB BARBER, en assure la continuité de direction.
+Cette société a commencé son activité le 22 avril 2026, soit 37 jours avant l'accident. **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**, DG commune de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et de **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**, en assure la continuité de direction.
 
-Je vous demande donc de bien vouloir **procéder à la rectification de l'identité du tiers responsable** au sein de votre dossier de recours contre tiers, en substituant la **SAS HB BARBER** à la *SAS LES MAUVAIS GARÇONS*.
+Je vous demande donc de bien vouloir **procéder à la rectification de l'identité du tiers responsable** au sein de votre dossier de recours contre tiers, en substituant la **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** à **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**.
 
 Cette modification est indispensable afin de permettre à vos services de diriger vos recours subrogatoires contre le véritable exploitant et, le cas échéant, son assureur de responsabilité civile professionnelle.
 

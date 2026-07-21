@@ -30,12 +30,12 @@ reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/�
 
 ## Référence de la plainte initiale
 
-Plainte déposée le **2 juin 2026** au Service Local de Sécurité Publique de **[La Métropole Régionale](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)** Rive Droite, enregistrée sous le **[ ... ]**, pour des faits de blessures involontaires avec ITT n'excédant pas 3 mois survenus le **29 mai 2026 vers 15h20** dans un salon de coiffure situé **22 rue Lafaurie, 09000 [La Ville de l'Accident]**.
+Plainte déposée le **2 juin 2026** au Service Local de Sécurité Publique de **[La Métropole Régionale](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)** Rive Droite, enregistrée sous le **[ ... ]**, pour des faits de blessures involontaires avec ITT n'excédant pas 3 mois survenus le **29 mai 2026 vers 15h20** dans un salon de coiffure situé **22 rue Lafaurie, 09000 [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**.
 <hr><hr>
 
 ## 1. Rappel très bref des faits déjà déclarés
 
-Le **29 mai 2026**, alors que j'étais client dans un salon de coiffure situé **22 rue Lafaurie à [La Ville de l'Accident]**, un bac à shampoing lourd muni d'une vasque en céramique a basculé à la suite d'une manœuvre du coiffeur, [**[Le Préposé de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (Ayoub BENNOURINE, tél. **[Le Téléphone du Préposé](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)**), à qui j'avais réglé la somme de 15 € via l'application Wero immédiatement avant la prestation (transaction [**[N° Transaction Wero]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)). Ce dernier était monté physiquement sur la structure du meuble. En voulant retenir la chute du meuble par réflexe d'assistance, ma main droite a percuté la partie déjà brisée et tranchante de la vasque, provoquant une plaie palmaire profonde de **8,5 cm**, avec :
+Le **29 mai 2026**, alors que j'étais client dans un salon de coiffure situé **22 rue Lafaurie à [La Ville de l'Accident]**, un bac à shampoing lourd muni d'une vasque en céramique a basculé à la suite d'une manœuvre du coiffeur, [**[Le Préposé de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (tél. **[Le Téléphone du Préposé](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)**), à qui j'avais réglé la somme de 15 € via l'application Wero immédiatement avant la prestation (transaction [**[N° Transaction Wero]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)). Ce dernier était monté physiquement sur la structure du meuble. En voulant retenir la chute du meuble par réflexe d'assistance, ma main droite a percuté la partie déjà brisée et tranchante de la vasque, provoquant une plaie palmaire profonde de **8,5 cm**, avec :
 
 - Section partielle du tendon fléchisseur superficiel de l'index droit
 
@@ -45,7 +45,7 @@ Le **29 mai 2026**, alors que j'étais client dans un salon de coiffure situé *
 
 - Séquelles neurologiques en cours d'évolution (perte de sensibilité, paresthésies), très gênantes dans mon activité d'informaticien indépendant droitier
 
-Cette transaction Wero atteste de la présence d'Ayoub BENNOURINE en qualité de préposé coiffeur / encaisseur ce jour-là, liant contractuellement la prestation au sinistre.
+Cette transaction Wero atteste de la présence de [**[Le Préposé de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) en qualité de préposé coiffeur / encaisseur ce jour-là, liant contractuellement la prestation au sinistre.
 
 Ces éléments, ainsi que mon suivi médical (**[Le Médecin en Urgence](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md)**, Dr OXYBEL, **[Le Chirurgien SOS Main](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)**, kinésithérapeute) figurent déjà dans le dossier de plainte initial et dans les pièces médicales jointes.
 <hr><hr>
@@ -148,7 +148,7 @@ Compte tenu de ces éléments nouveaux, je sollicite respectueusement :
 **4. La vérification**, dans la mesure du possible, de la conservation d'éventuels enregistrements vidéo restants (vidéosurveillance intérieure / extérieure) et de tout élément matériel (même remplacé) permettant de confirmer l'existence d'un bac en céramique déjà brisé et d'un meuble mural au moment des faits.
 <hr><hr>
 
-## 6. Contact avec le témoin direct — Ayoub BENNOURINE
+## 6. Contact avec le témoin direct — [**[Le Préposé de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
 
 Le **18 juillet 2026 à 16h00**, j'ai adressé un message WhatsApp au numéro **+33 7 58 40 12 87** (téléphone d'**[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)**, identifié par le virement Wero du 29 mai 2026) accompagné du formulaire officiel d'attestation de témoin **CERFA 11527\*03** en format PDF.
 

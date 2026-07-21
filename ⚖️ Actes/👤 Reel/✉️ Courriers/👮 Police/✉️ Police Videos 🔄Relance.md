@@ -11,7 +11,7 @@ tags:
   - email
 calendar_event_id: "shbeqvnj9pp504anq8h8uk6pdc"
 statut: projet
-destinataire: Police Nationale de [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
+destinataire: Police Nationale de La Ville de l'Accident
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/✉️ Police Videos 🔄Relance.md
 source: drive

@@ -1,11 +1,11 @@
 ---
-title: "Projet de déclaration pour PV — Commissariat de Foix (version courte)"
+title: "Projet de déclaration pour PV — Commissariat de La Ville de l'Accident (version courte)"
 description: "Version courte et conversationnelle à remettre à l'OPJ pour faciliter la rédaction du nouveau PV"
 type: document
 date: 2026-07-17
 statut: preparation
-destinataire: Commissariat de Police de Foix
-auteur: Sébastien GRAZIDE
+destinataire: Commissariat de Police de La Ville de l'Accident
+auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/📋 Projet Declaration PV Foix.md
 ---
 <!-- Breadcrumb -->
