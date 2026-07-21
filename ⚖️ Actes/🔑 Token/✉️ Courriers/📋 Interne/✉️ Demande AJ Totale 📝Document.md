@@ -122,7 +122,7 @@ Le demandeur sollicite un **traitement accéléré** de sa demande d'AJ pour le 
 ### Recommandés (appuyant l'urgence)
 - [ ] **Certificats médicaux** (compte rendu SOS Main, certificats ITT)
 
-- [ ] **PV de police n°[N° PV Police]** (déposé le 2 juin 2026)
+- [ ] **PV de police n°[**[N° PV Police]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md)** (déposé le 2 juin 2026)
 
 - [ ] **Courrier de motivation** (exposé circonstancié de la situation annexé au présent formulaire)
 

@@ -73,7 +73,7 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 1. Le formulaire **CERFA n° 16160*01** dûment rempli, daté et signé.
 
-2. Une copie du dépôt de plainte et du Procès-Verbal de police n° **N° PV Police**.
+2. Une copie du dépôt de plainte et du Procès-Verbal de police n° [**[N° PV Police]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md).
 
 3. Le [certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (CMI) constatant les blessures de **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**.
 

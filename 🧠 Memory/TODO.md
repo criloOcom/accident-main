@@ -10,7 +10,7 @@ type: memory
 
 # TODO<br>Plans d'action + Tableau de bord Sébastien
 
-> **Dernière mise à jour :** 20 juillet 2026 — Phase 33 (Correction 3 articles manquants) + Phase 34 (Foix) ajoutées. Calendrier Google déplacé au 27/07.
+> **Dernière mise à jour :** 21 juillet 2026 — Phase 38 (Correction N° PV Police) terminée. 21 fichiers Token/ actifs corrigés — tokens `N° PV Police` texte brut/gras sans lien transformés en `[**[N° PV Police]**](token-pv-police-numero.md)` uniforme.
 >
 > **Règle absolue :** tout nouvel article de loi cité DOIT être lu via MCP
 > Légifrance (`consulter_article` ou `rechercher_code`) pour vérifier le contexte
@@ -122,6 +122,18 @@ ni contacter des personnes à ta place.
 | 📄 | **Email/téléphone Dr DJERBI** à nous communiquer | Avant relance | ❌ NON FAIT | Moyenne |
 | 📋 | **Wero (PSP paiement)** — rédiger/envoyer courrier conservation + RGPD (Pièce n°X) | Dès que possible | ❌ NON FAIT | **Haute** |
 | 📋 | **Témoin Ayoub** — SMS envoyé le 18/07/2026 à 16h00 (+33 7 58 40 12 87 + CERFA 11527*03 joint) | Dès que possible | ✅ SMS envoyé 18/07 — pas de retour | **Haute** |
+
+### ✅ Phase 37 — Police Token Audit (21 juillet 2026) ✅ TERMINÉ
+| # | Action | Statut |
+|---|--------|--------|
+| 🎯 | **OP1** — Création 3 tokens LRAR manquants (président, directrice, propriétaire) | ✅ FAIT |
+| 🎯 | **OP2** — LRAR texte brut (`N° LRAR Exploitant/Président/...`) → liens dans Plainte Complementaire | ✅ FAIT |
+| 🎯 | **OP3** — `N° PV Police` + `[Adresse du Commerce]` texte brut → liens (Police Videos Relance) | ✅ FAIT |
+| 🎯 | **OP4** — 40+ `**[...]**` sans lien ajoutés dans 7 fichiers Police | ✅ FAIT |
+| 🎯 | **OP5** — 2 dates FIXME corrigées (Guide Orale → 2026-07-20, token-pv-police → 2026-07-11) | ✅ FAIT |
+| 🎯 | **OP6** — Renommage miroir Token↔Reel (Police Plainte → Commissariat Foix Plainte) + purge doublon Reel défectueux | ✅ FAIT |
+| 🔄 | Reel regénéré (128 fichiers) | ✅ FAIT |
+| ✅ | `check_consistency.py` — 0 erreur | ✅ FAIT |
 
 ### ✅ Phase 30 — Erratum Correction Société (17 juillet 2026)
 | # | Action | Statut |

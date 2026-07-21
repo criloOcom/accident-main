@@ -1,6 +1,6 @@
 ---
 title: "STATUT D'AVANCEMENT — 21 juillet 2026"
-description: "- **Phase 1a** Purge des 5 fuites token : 0 fuite résiduelle (✅ 18/07) — **Phase 1b** 5 corrections JURITEXT vérifiées MCP (✅ 18/07) — **Phase 1c** Infrastructure token : +14 entrées batch_anonymize + TOKEN MAP + generate_real_versions (✅ 18/07) — **Phase 1d** Bandeau HB BARBER : 80 fichiers Token/ mis à jour (✅ 18/07) — **Phase 1e** Liens cassés : 34 auto-corrigés, 3 stubs créés, 60 historiques restants (✅ partiel 18/07) — **Phase 2** Urgences 31 juillet : Demande AJ Totale créée, Assignation finalisée, Reel 115 fichiers générés (✅ 18/07) — **Phase 33** 3 dernières LRAR SAS HB BARBER envoyées 18/07 — **Phase 34** Déplacement Foix préparé (semaine 27/07) — **Phase 35** Night Watch : 15 missions (Token→Reel, listes tight, santé, scratch, HB BARBER, STRICT VARIABLES, Légifrance, RGPD, bordereau, jurisprudence, rapports) ✅ 20/07"
+description: "- **Phase 1a** Purge des 5 fuites token : 0 fuite résiduelle (✅ 18/07) — **Phase 1b** 5 corrections JURITEXT vérifiées MCP (✅ 18/07) — **Phase 1c** Infrastructure token : +14 entrées batch_anonymize + TOKEN MAP + generate_real_versions (✅ 18/07) — **Phase 1d** Bandeau HB BARBER : 80 fichiers Token/ mis à jour (✅ 18/07) — **Phase 1e** Liens cassés : 34 auto-corrigés, 3 stubs créés, 60 historiques restants (✅ partiel 18/07) — **Phase 2** Urgences 31 juillet : Demande AJ Totale créée, Assignation finalisée, Reel 115 fichiers générés (✅ 18/07) — **Phase 33** 3 dernières LRAR SAS HB BARBER envoyées 18/07 — **Phase 34** Déplacement Foix préparé (semaine 27/07) — **Phase 35** Night Watch : 15 missions (Token→Reel, listes tight, santé, scratch, HB BARBER, STRICT VARIABLES, Légifrance, RGPD, bordereau, jurisprudence, rapports) ✅ 20/07 — **Phase 37** Police Token Audit + Correction : 9 fichiers Police, 4 tokens LRAR créés, 40+ liens ajoutés, Reel regénéré (128 fichiers), check cohérence ✅ 21/07 — **Phase 38** Correction `N° PV Police` non liés : 21 fichiers Token/ corrigés (tous dossiers actifs), `**[N° PV Police]**` → lien token-pv-police-numero ✅ 21/07"
 type: memory
 ---
 <!-- Breadcrumb -->
@@ -27,7 +27,7 @@ type: memory
 > > **Phase 34 🏗️** Déplacement Foix préparé (semaine du 27/07/2026) — Dépôt AJ totale BAJ + Complément PV Commissariat — Calendrier Google mis à jour, documentation synchronisée (🏗️ EN COURS 20/07)
 > > **Phase 35 ✅** Night Watch 20/07 — 15 missions (Token→Reel, listes tight, santé, scratch, HB BARBER, STRICT VARIABLES, Légifrance, RGPD, bordereau, arborescence, jurisprudence, rapports) — rapport dans `📊 Rapports/NIGHTWATCH_2026-07-20.md` (✅ 20/07)
 > > **Phase 36 ✅** Enrichissement bibliothèque jurisprudence — 11 décisions (4 Cass. + 7 CA/TJ), 2 documents stratégiques (Mémoire synthèse ERP + Note Action Directe L124-3), versions Reel, READMEs et CHANGELOG mis à jour (✅ 21/07)
-> > 
+> > **Phase 37 ✅** Police Token Audit — 9 fichiers Police audités + corrigés : tokens texte brut→liens, date FIXME corrigée, 4 nouveaux tokens LRAR créés, renommage Plainte Complementaire Token↔Reel, Reel regénéré (128 fichiers), check cohérence ✅ (✅ 21/07)
 > ## Phase 21 — Navigation Interactive Cross-Document (13 juillet 2026) ✅ [TERMINÉ]
 
 ### Objectif
@@ -1457,3 +1457,37 @@ Préparer et synchroniser la documentation pour le déplacement physique à Foix
 - **📅 Calendrier Procedure.md** (Token) : EVT-16 mise à jour "Dépôt AJ + Complément PV"
 
 - **TODO.md** : bascule des tâches, bloc 27/07 marqué 🏗️ [EN COURS]
+
+---
+
+## Phase 37 — Police Token Audit + Correction (21 juillet 2026) ✅ [TERMINÉ]
+
+### Objectif
+Auditer et corriger l'ensemble des fichiers token du dossier `👮 Police/` dans `⚖️ Actes/🔑 Token/✉️ Courriers/` — remplacer les tokens en texte brut par des liens relatifs, créer les fichiers token manquants, corriger les dates FIXME, et synchroniser les noms Token↔Reel.
+
+### Actions réalisées
+
+#### OP1 — Création tokens LRAR manquants
+- `token-lrar-president.md`, `token-lrar-directrice.md`, `token-lrar-proprietaire.md` créés dans `🧠 Memory/🗂️ Tokens/` (modèle : `token-lrar-exploitant.md`)
+
+#### OP2 — LRAR texte brut → liens
+- Dans `Police Plainte Complementaire` : `N° LRAR Exploitant/Président/Directrice/Propriétaire` → `[**[...]**](token-*.md)`
+
+#### OP3 — N° PV Police + Adresse Commerce → liens
+- Dans `Police Videos Relance.md` : `N° PV Police` + `[Adresse du Commerce]` → tokens liés
+
+#### OP4 — 40+ `**[...]**` sans lien corrigés
+- Fichiers concernés : `Projet Declaration PV Foix.md`, `Note Personnelle Commissariat Foix.md`, `Bordereau de Pieces Foix.md`, `Frise Chronologique Foix.md`, `Erratum Correction Identite Societe.md`, `Guide Note.md`, `Guide Orale.md`
+
+#### OP5 — Correction dates FIXME
+- `Guide Orale.md` : `FIXME` → `2026-07-20`
+- `token-pv-police-numero.md` : `FIXME` → `2026-07-11`
+
+#### OP6 — Renommage miroir Token↔Reel
+- Token : `Police Plainte Complementaire ⚖️Contentieux` → `Commissariat Foix Plainte Complementaire ⚖️Contentieux` (aligné sur le nom Reel)
+- Reel : doublon défectueux (`Police Plainte Complementaire` avec tokens résiduels) supprimé
+- Breadcrumbs + READMEs mis à jour
+
+### Post-traitement
+- `generate_real_versions.py` : 128 fichiers Reel regénérés ✅
+- `check_consistency.py` : tout cohérent, 0 erreur ✅

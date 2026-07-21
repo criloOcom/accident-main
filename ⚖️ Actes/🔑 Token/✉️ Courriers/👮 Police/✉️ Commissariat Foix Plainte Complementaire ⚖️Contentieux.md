@@ -18,7 +18,7 @@ reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/✉️ Commissariat F
 jx: J+52
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👮 Police › ✉️ Police Plainte Complementaire ⚖️Contentieux*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👮 Police › ✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -72,13 +72,13 @@ Dans les jours qui ont suivi l'accident et l'opération, j'ai entrepris diverses
 
 Au moment de cette première plainte, je croyais sincèrement que la société exploitant le salon était la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, enseigne apposée sur le lieu et mentionnée par les intervenants. C'est sur cette base que j'ai également adressé, le 29 juin 2026, de premières lettres recommandées avec accusé de réception à :
 
-- la direction de la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (LRAR n° **N° LRAR Exploitant**), revenue NPAI avec la mention « En cours de retour à l'expéditeur » le 20 juillet ;
+- la direction de la **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (LRAR n° [**[N° LRAR Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-exploitant.md)), revenue NPAI avec la mention « En cours de retour à l'expéditeur » le 20 juillet ;
 
-- au président de cette société, **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** (LRAR n° **N° LRAR Président**), mise en attente de retrait à Toulouse RP jusqu'au 21 juillet ;
+- au président de cette société, **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** (LRAR n° [**[N° LRAR Président]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-president.md)), mise en attente de retrait à Toulouse RP jusqu'au 21 juillet ;
 
-- à la directrice générale de cette société, **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** (LRAR n° **N° LRAR Directrice**), revenue NPAI le 2 juillet ;
+- à la directrice générale de cette société, **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** (LRAR n° [**[N° LRAR Directrice]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-directrice.md)), revenue NPAI le 2 juillet ;
 
-- ainsi qu'au propriétaire bailleur des locaux, **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** (LRAR n° **N° LRAR Propriétaire**), dont l'avis de réception numérique a été signé le 2 juillet, pour lui demander les coordonnées de l'assurance de responsabilité civile de l'exploitant.
+- ainsi qu'au propriétaire bailleur des locaux, **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** (LRAR n° [**[N° LRAR Propriétaire]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-proprietaire.md)), dont l'avis de réception numérique a été signé le 2 juillet, pour lui demander les coordonnées de l'assurance de responsabilité civile de l'exploitant.
 
 Je joins à la présente copie de ces courriers et des suivis La Poste disponibles, à titre de pièces justificatives.
 

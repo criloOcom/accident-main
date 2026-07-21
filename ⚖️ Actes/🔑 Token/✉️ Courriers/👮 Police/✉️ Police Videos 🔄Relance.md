@@ -11,7 +11,7 @@ tags:
   - email
 calendar_event_id: "shbeqvnj9pp504anq8h8uk6pdc"
 statut: projet
-destinataire: Police Nationale de **[La Ville de l'Accident]**
+destinataire: Police Nationale de La Ville de l'Accident
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/✉️ Police Videos 🔄Relance.md
 source: drive
@@ -40,7 +40,7 @@ Courriel : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97
 
 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le **[J+37 Assignation 145](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)**
 
-Objet : Relance pour suivi de plainte et demande de videosurveillance — PV n° **N° PV Police**
+Objet : Relance pour suivi de plainte et demande de videosurveillance — PV n° [**[N° PV Police]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md)
 
 <hr><hr>
 
@@ -48,10 +48,10 @@ Ref : Depot de plainte du 1er juin 2026 — [Constitution de partie civile](../.
 
 Madame, Monsieur l'Officier de Police Judiciaire,
 
-La presente est adressee a vos services par **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, situe **[Adresse du Commerce]** a **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**.
+La presente est adressee a vos services par **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, situe [**[Adresse du Commerce]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) a **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**.
 ## I — OBJET DE LA RELANCE
 
-J'ai depose plainte en vos services le 1er juin 2026 (PV n° **N° PV Police**) et me suis constitue partie civile le **[J+4 Dépôt de plainte](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md)**. Une requisition a personne qualifiee a ete delivree le meme jour aux fins d'examen medical.
+J'ai depose plainte en vos services le 1er juin 2026 (PV n° [**[N° PV Police]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md)) et me suis constitue partie civile le **[J+4 Dépôt de plainte](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md)**. Une requisition a personne qualifiee a ete delivree le meme jour aux fins d'examen medical.
 
 Je me permets de solliciter de vos services :
 
@@ -80,7 +80,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 - **[Requete Article 145 CPC](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Demande de conservation des preuves et identification de l'assureur
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026 (PV n° **N° PV Police**)
+- **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026 (PV n° [**[N° PV Police]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md))
 <hr><hr>
 
 ## Sources Législation

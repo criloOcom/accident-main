@@ -31,7 +31,7 @@ reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/📋 Note Personnelle
 
 ## 1. RAPPEL DE MA PREMIÈRE PLAINTE À TOULOUSE (2 juin 2026)
 
-Le **2 juin 2026**, j'ai déposé une plainte au commissariat de **[La Métropole Régionale] Rive Droite** (23 Boulevard de l'Embouchure, 31066 **[La Métropole Régionale](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)**). Le procès-verbal porte le numéro **[ ... ]**, établi par l'Agent de Police Judiciaire **Jordy RODRIGUEZ CAPARROS**.
+Le **2 juin 2026**, j'ai déposé une plainte au commissariat de [**[La Métropole Régionale]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md) **Rive Droite** (23 Boulevard de l'Embouchure, 31066 **[La Métropole Régionale](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)**). Le procès-verbal porte le numéro **[ ... ]**, établi par l'Agent de Police Judiciaire **Jordy RODRIGUEZ CAPARROS**.
 
 J'y ai raconté en détail :
 - Les faits du **29 mai 2026** (accident dans un salon de coiffure à **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, bac à shampoing qui bascule, vasque en céramique déjà cassée, plaie palmaire profonde de 8,5 cm)

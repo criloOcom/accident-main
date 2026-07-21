@@ -69,7 +69,7 @@ Une intervention chirurgicale a été réalisée en urgence le 30 mai 2026 par u
 Le paiement électronique (Wero) de 15,00 € effectué par la victime au salon le jour même, puis remboursé par le salon postérieurement à l'accident, constitue une preuve irréfutable de la présence de la victime et de la relation contractuelle.
 
 #### I.2.b — Le procès-verbal de police
-Le commissariat de police a dressé le procès-verbal n°[N° PV Police] qui confirme le basculement de la vasque. Ce procès-verbal constitue une pièce décisive établissant le mécanisme de l'accident.
+Le commissariat de police a dressé le procès-verbal n°[**[N° PV Police]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md) qui confirme le basculement de la vasque. Ce procès-verbal constitue une pièce décisive établissant le mécanisme de l'accident.
 
 #### I.2.c — Le constat d'huissier
 Par l'intermédiaire d'un huissier de justice, il a été constaté la présence d'une **cassure majeure préexistante** sur la vasque, présentant des arêtes tranchantes constituant un danger manifeste pour toute personne se trouvant à proximité. Ce vice de la chose était **indécelable de l'extérieur** et n'avait fait l'objet d'aucune signalisation.
@@ -99,7 +99,7 @@ Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code ci
 
 Au sens de l'article 1242 alinéa 1er du Code civil, « on est responsable […] du dommage […] causé […] par le fait des choses que l'on a sous sa garde ». La société défenderesse est gardienne de la vasque en céramique installée dans son salon.
 
-Le **basculement brutal** de cette chose a été l'**instrument actif** du dommage subi par la victime. Ce basculement est établi par le procès-verbal de police n°[N° PV Police].
+Le **basculement brutal** de cette chose a été l'**instrument actif** du dommage subi par la victime. Ce basculement est établi par le procès-verbal de police n°[**[N° PV Police]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md).
 
 La Cour de cassation, dans un arrêt de principe, a retenu qu'une échelle installée par un préposé qui bascule et blesse un tiers engage la responsabilité du gardien, qui ne peut s'exonérer qu'en prouvant une cause étrangère (force majeure, faute de la victime, fait d'un tiers).
 

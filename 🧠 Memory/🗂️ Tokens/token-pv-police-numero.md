@@ -1,6 +1,6 @@
 ---
 title: "Token — N° PV Police"
-date: FIXME
+date: 2026-07-11
 description: "Définition du token N° PV Police pour le dossier Accident de la Main"
 type: preuve
 ---

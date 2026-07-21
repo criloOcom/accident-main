@@ -1,6 +1,6 @@
 ---
 title: 📋 ANTISÈCHE ORALE — Plainte Complémentaire (aide personnelle)
-date: FIXME
+date: 2026-07-20
 description: DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER. Aide-mémoire pour l'audition
   orale au Commissariat.
 type: courrier

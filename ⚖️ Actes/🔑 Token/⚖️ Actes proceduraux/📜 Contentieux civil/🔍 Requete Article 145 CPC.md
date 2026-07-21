@@ -227,7 +227,7 @@ Fait à **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%8
 
 ## BORDEREAU DES PIÈCES INVOQUÉES
 
-1. Copie du procès-verbal de police n°**N° PV Police** établi par le Commissariat de [[**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)]
+1. Copie du procès-verbal de police n°[**[N° PV Police]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md) établi par le Commissariat de [[**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)]
 
 2. [Certificat médical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du **[Le Médecin en Urgence](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md)** (SMUR 09) en date du **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**
 
