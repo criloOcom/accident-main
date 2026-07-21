@@ -171,7 +171,7 @@ def check_text_anomalies(content, readme_path, results):
                 "severity": "warning",
                 "file": rel_dir,
                 "line": i,
-                "msg": f"Mention 'TODO' résiduelle non commentée (l. {i})"
+                "msg": f"Mention '[À FAIRE]' résiduelle non commentée (l. {i})"
             })
 
 
