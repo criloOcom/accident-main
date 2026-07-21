@@ -1,5 +1,5 @@
 ---
-title: "STATUT D'AVANCEMENT — 21 juillet 2026 (maj 21/07 soir)"
+title: "STATUT D'AVANCEMENT — 22 juillet 2026 (maj 22/07 matin)"
 description: "- **Phase 1a** Purge des 5 fuites token : 0 fuite résiduelle (✅ 18/07) — **Phase 1b** 5 corrections JURITEXT vérifiées MCP (✅ 18/07) — **Phase 1c** Infrastructure token : +14 entrées batch_anonymize + TOKEN MAP + generate_real_versions (✅ 18/07) — **Phase 1d** Bandeau HB BARBER : 80 fichiers Token/ mis à jour (✅ 18/07) — **Phase 1e** Liens cassés : 34 auto-corrigés, 3 stubs créés, 60 historiques restants (✅ partiel 18/07) — **Phase 2** Urgences 31 juillet : Demande AJ Totale créée, Assignation finalisée, Reel 115 fichiers générés (✅ 18/07) — **Phase 33** 3 dernières LRAR SAS HB BARBER envoyées 18/07 — **Phase 34** Déplacement Foix préparé (semaine 27/07) — **Phase 35** Night Watch : 15 missions (Token→Reel, listes tight, santé, scratch, HB BARBER, STRICT VARIABLES, Légifrance, RGPD, bordereau, jurisprudence, rapports) ✅ 20/07 — **Phase 37** Police Token Audit + Correction : 9 fichiers Police, 4 tokens LRAR créés, 40+ liens ajoutés, Reel regénéré (128 fichiers), check cohérence ✅ 21/07 — **Phase 38 — Phase 39 ✅ Nettoyage projet + liens cassés (30→0) + YAML (28 violations) + token_path Reel + angle-bracket support scripts — Phase 40 ✅ Correction géographique plainte (Toulouse Rive Droite) + déduplication LRAR + sync Reel (128 fichiers) + pre-commit passe** Correction `N° PV Police` non liés : 21 fichiers Token/ corrigés (tous dossiers actifs), `**[N° PV Police]**` → lien token-pv-police-numero ✅ 21/07"
 type: memory
 ---
@@ -10,6 +10,7 @@ type: memory
 
 # STATUT D'AVANCEMENT<br>21 juillet 2026
 
+> **Phase 41 ✅** Correction erratum identité société — SIRET inversé fixé, 5 nouveaux tokens anciens dirigeants (MOUNTASSER, ANDISSAC, ancien SIRET, LRAR associées), adresse canonique "22 Rue Lafaurie", propagation 6 documents Police + CPAM, scripts .dev/app alignés, commit f949f4e8 poussé (✅ 22/07)
 > **Phase 21 ✅** Navigation Interactive Cross-Document — 1 766 liens relatifs créés
 > **Phase 22 ✅** Normalisation des séparateurs `<hr><hr>` et conventions de formatage
 > **Phase 23 ✅** Normalisation des sauts de ligne entre paragraphes — 80 fichiers Token + Reel (✅ TERMINÉ)
